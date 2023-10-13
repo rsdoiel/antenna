@@ -1,7 +1,21 @@
 
+
+
+
 SUNDAY=$(shell reldate -- -1 sunday)
 SATURDAY=$(shell reldate 1 saturday)
 VOL_NO=$(shell date +%Y.%W)
+
+ifneq ($(vol),)
+	VOL_NO=$(vol)
+endif
+
+ifneq ($(start),)
+	SUNDAY = $(start)
+endif
+ifneq ($(end),)
+	SATURDAY = $(end)
+endif
 
 build: index about socal_north  weather
 
@@ -62,11 +76,13 @@ weather_$(VOL_NO).md:
 	sqlite3 weather.skim "UPDATE items SET status = 'saved'" 
 	skim2md weather.skim >"weather_$(VOL_NO).md"
 
+# Clean only removes up the current volume pages
 clean: .FORCE
 	-rm socal_north_$(VOL_NO).md 2>/dev/null
+	-rm socal_north_$(VOL_NO).html 2>/dev/null
 	-rm weather_$(VOL_NO).md 2>/dev/null
-	rm *.html 2>/dev/null
-	rm *.skim 2>/dev/null
+	-rm weather_$(VOL_NO).html 2>/dev/null
+	#rm *.skim 2>/dev/null
 
 
 CITATION.cff: .FORCE

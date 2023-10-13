@@ -1,20 +1,62 @@
 ---
 
-## SPC - No watches are valid as of Fri Oct 13 13:57:02 UTC 2023
+## SPC Day 1 Fire Weather Outlook
 
 date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Fri Oct 13 13:57:02 UTC 2023. 
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1053 AM CDT Fri Oct 13 2023
+
+Valid 131700Z - 141200Z
+
+...NO CRITICAL AREAS...
+
+No changes. The large fire threat remains minimal today.
+
+..Bentley.. 10/13/2023
+
+.PREV DISCUSSION... /ISSUED 1226 AM CDT Fri Oct 13 2023/
+
+...Synopsis...
+Surface low pressure will continue to track across the eastern US on
+Friday. A cold front will accompany this feature, extending south
+across the Ohio River Valley/Upper Mississippi River Valley and
+westward into the central and southern Plains. Post-frontal
+northwesterly breezes are forecast across portions of Kansas,
+Oklahoma, and northern/central Texas. Across southwestern Texas,
+northwesterly breezes will overlap relative humidity reductions to
+around 15-20 percent. Recent rainfall across this region has
+rendered fuels less receptive to fire spread. Status of fuels and
+generally cooler temperatures will mitigate the risk of fire spread
+and preclude the need to include highlights.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## SPC - No watches are valid as of Fri Oct 13 15:56:02 UTC 2023
+
+date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Oct 13 15:56:02 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Fri Oct 13 13:57:02 UTC 2023
+## SPC - No MDs are in effect as of Fri Oct 13 15:56:02 UTC 2023
 
 date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Fri Oct 13 13:57:02 UTC 2023. 
+No Mesoscale Discussions are in effect as of Fri Oct 13 15:56:02 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/md/>
 
