@@ -66,6 +66,7 @@ clean: .FORCE
 	-rm socal_north_$(VOL_NO).md 2>/dev/null
 	-rm weather_$(VOL_NO).md 2>/dev/null
 	rm *.html 2>/dev/null
+	rm *.skim 2>/dev/null
 
 
 CITATION.cff: .FORCE
