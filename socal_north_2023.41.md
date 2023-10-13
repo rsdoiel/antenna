@@ -92,6 +92,7 @@ date: 2023-10-13, from: The Signal
 
 date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
 
+<em>This post was updated Oct 12 at 10:58 p.m.</em>
 As increasingly advanced technological developments manifest in Bruins&#8217; daily lives through social media and other internet applications, questions arise regarding their implications on data privacy issues. 
 
 <https://dailybruin.com/2023/10/12/examining-data-privacy-issues-in-wake-of-social-media-technological-developments/>
@@ -483,7 +484,7 @@ date: 2023-10-12, from: The Canyon News (COC Student Newspaper)
 
 ## Federal Relief Funds For Child Care Are Done. What Does That Mean For California?
 
-date: 2023-10-12, from: The LAist
+date: 2023-10-13, from: The LAist
 
 Federal pandemic relief funds for childcare programs expired Sept. 30, leaving providers around the country worried about shutting their doors. In California, the state’s put in some stopgap measures. 
 
@@ -1038,6 +1039,16 @@ Regional theaters from across the country have banded together to ask the govern
 
 ---
 
+## A Career Tool? A Dishonor? College Students And Educators Consider The Place Of AI In Learning
+
+date: 2023-10-13, from: The LAist
+
+LAist asked community college students, faculty, and staff about their experiences with generative AI, particularly ChatGPT. Here is what five of them had to say. 
+
+<https://laist.com/news/education/community-college-students-and-educators-chatgpt-artificial-intelligence>
+
+---
+
 ## In New Podcast Episode, We Pin Down Ex-Council President Nury Martinez On Her Racist Comments
 
 date: 2023-10-11, from: The LAist
@@ -1045,16 +1056,6 @@ date: 2023-10-11, from: The LAist
 In her first interview since resigning last fall, Martinez responds to the racist, offensive comments she made during a secretly-recorded conversation 
 
 <https://laist.com/news/politics/in-new-podcast-episode-we-pin-down-ex-council-president-nury-martinez-on-her-racist-comments>
-
----
-
-## A Career Tool? A Dishonor? College Students And Educators Consider The Place Of AI In Learning
-
-date: 2023-10-11, from: The LAist
-
-LAist asked community college students, faculty, and staff about their experiences with generative AI, particularly ChatGPT. Here is what five of them had to say. 
-
-<https://laist.com/news/education/community-college-students-and-educators-chatgpt-artificial-intelligence>
 
 ---
 

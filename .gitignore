@@ -4,3 +4,4 @@
 *.bak
 # Project ignores
 *.skim
+_*

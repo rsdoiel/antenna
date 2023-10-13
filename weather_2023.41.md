@@ -1,20 +1,54 @@
 ---
 
-## SPC - No watches are valid as of Fri Oct 13 05:47:02 UTC 2023
+## SPC Day 2 Fire Weather Outlook
 
 date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Fri Oct 13 05:47:02 UTC 2023. 
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0138 AM CDT Fri Oct 13 2023
+
+Valid 141200Z - 151200Z
+
+...NO CRITICAL AREAS...
+
+...Synopsis...
+The risk of fire spread will remain low across the CONUS on
+Saturday. Building high pressure across the western US will keep
+winds light where the driest air mass resides, within the
+southwestern US and southern Plains on Saturday. Pockets of breezy
+northwesterly flow will be possible across the central Plains and
+the Great Lakes region. However, cooler temperatures will lead to
+higher humidity and overall low risk of fire spread.
+
+..Thornton.. 10/13/2023
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+
+---
+
+## SPC - No watches are valid as of Fri Oct 13 06:41:01 UTC 2023
+
+date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Oct 13 06:41:01 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Fri Oct 13 05:47:02 UTC 2023
+## SPC - No MDs are in effect as of Fri Oct 13 06:41:01 UTC 2023
 
 date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Fri Oct 13 05:47:02 UTC 2023. 
+No Mesoscale Discussions are in effect as of Fri Oct 13 06:41:01 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/md/>
 

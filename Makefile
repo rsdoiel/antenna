@@ -3,7 +3,7 @@ SUNDAY=$(shell reldate -- -1 sunday)
 SATURDAY=$(shell reldate 1 saturday)
 VOL_NO=$(shell date +%Y.%W)
 
-build: index socal_north  weather
+build: index about socal_north  weather
 
 index: index.html
 
@@ -15,6 +15,17 @@ index.html: README.md front_page.tmpl
 		   --template front_page.tmpl \
 		   README.md \
 		   >index.html
+
+about: about.html
+
+about.html: about.md
+	pandoc -f markdown -t html5 \
+	       --metadata title="About the Antenna" \
+	       --metadata socal_north_page="socal_north_$(VOL_NO).html" \
+	       --metadata weather_page="weather_$(VOL_NO).html" \
+		   --template front_page.tmpl \
+		   about.md \
+		   >about.html
 
 socal_north: socal_north_$(VOL_NO).html
 
@@ -51,11 +62,9 @@ weather_$(VOL_NO).md:
 	sqlite3 weather.skim "UPDATE items SET status = 'saved'" 
 	skim2md weather.skim >"weather_$(VOL_NO).md"
 
-refresh: .FORCE
+clean: .FORCE
 	-rm socal_north_$(VOL_NO).md 2>/dev/null
 	-rm weather_$(VOL_NO).md 2>/dev/null
-
-clean: .FORCE
 	rm *.html 2>/dev/null
 
 
@@ -68,11 +77,11 @@ about.md: .FORCE
 	@echo "" | pandoc --metadata-file=_codemeta.json --template codemeta-about.tmpl >about.md 2>/dev/null;
 	@if [ -f _codemeta.json ]; then rm _codemeta.json; fi
 
-clean-website:
-	make -f website.mak clean
+#clean-website:
+#	make -f website.mak clean
 
-website: clean-website .FORCE
-	make -f website.mak
+#website: clean-website .FORCE
+#	make -f website.mak
 
 status:
 	git status
