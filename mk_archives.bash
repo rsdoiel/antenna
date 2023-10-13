@@ -13,7 +13,9 @@ cat <<TXT >"${YEAR}/index.md"
 # Antenna Archives for $YEAR
 
 TXT
-# Find all our html files to archive.
+
+# Find all our socal_north markdown files to archive.
+printf '\n## Socal North\n\n' >>"${YEAR}/index.md"
 ls -1 socal_north_*.md | sort -r |\
 while read -r FNAME; do
 	cp -v "$FNAME" "$YEAR/"
@@ -21,5 +23,18 @@ while read -r FNAME; do
 	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
 	printf '* [%s](%s)\n' "$LABEL" "$FNAME" >>"$YEAR/index.md"
 done
+
+# Find all the weather markdown files to archive.
+printf '\n## Weather\n\n' >>"${YEAR}/index.md"
+ls -1 weather_*.md | sort -r |\
+while read -r FNAME; do
+	cp -v "$FNAME" "$YEAR/"
+	BNAME=$(basename "$FNAME" ".md")
+	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
+	printf '* [%s](%s)\n' "$LABEL" "$FNAME" >>"$YEAR/index.md"
+done
+
+# Find all the weather markdown files to archive.
+
 echo >>"$YEAR/index.md"
 git add "$YEAR/"

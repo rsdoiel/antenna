@@ -17,38 +17,32 @@ ifneq ($(end),)
 	SATURDAY = $(end)
 endif
 
-build: index about socal_north weather archives
+HTML_PAGES=$(shell ls -1 *.md | sed -E "s/.md/.html/")
 
-index: index.html
+build: socal_north weather $(HTML_PAGES)
 
-index.html: README.md front_page.tmpl
+HTML_PAGES=$(shell ls -1 *.md | sed -E 's/.md/.html/')
+
+
+%.html: %.md front_page.tmpl
 	pandoc -f markdown -t html5 \
+ 		   --lua-filter=links-to-html.lua \
 	       --metadata title="The Antenna" \
 	       --metadata socal_north_page="socal_north_$(VOL_NO).html" \
 	       --metadata weather_page="weather_$(VOL_NO).html" \
 		   --template front_page.tmpl \
-		   README.md \
-		   >index.html
+		   $< \
+		   >$@
 
 archives: mk_archives.bash archives.tmpl
 	./mk_archives.bash	
 	cd 2023 && make
 
-about: about.html
-
-about.html: about.md
-	pandoc -f markdown -t html5 \
-	       --metadata title="About the Antenna" \
-	       --metadata socal_north_page="socal_north_$(VOL_NO).html" \
-	       --metadata weather_page="weather_$(VOL_NO).html" \
-		   --template front_page.tmpl \
-		   about.md \
-		   >about.html
-
 socal_north: socal_north_$(VOL_NO).html
 
 socal_north_$(VOL_NO).html: socal_north_$(VOL_NO).md front_page.tmpl
 	pandoc -f markdown -t html5 \
+ 		   --lua-filter=links-to-html.lua \
 	       --metadata title="SoCal North, vol. $(VOL_NO)" \
 	       --metadata socal_north_page="socal_north_$(VOL_NO).html" \
 	       --metadata weather_page="weather_$(VOL_NO).html" \
@@ -67,6 +61,7 @@ weather: weather_$(VOL_NO).html
 
 weather_$(VOL_NO).html: weather_$(VOL_NO).md front_page.tmpl
 	pandoc -f markdown -t html5 \
+ 		   --lua-filter=links-to-html.lua \
 	       --metadata title="Weather, vol. $(VOL_NO)" \
 	       --metadata socal_north_page="socal_north_$(VOL_NO).html" \
 	       --metadata weather_page="weather_$(VOL_NO).html" \
@@ -83,9 +78,9 @@ weather_$(VOL_NO).md:
 # Clean only removes up the current volume pages
 clean: .FORCE
 	-rm socal_north_$(VOL_NO).md 2>/dev/null
-	-rm socal_north_$(VOL_NO).html 2>/dev/null
+	-rm socal_north_*.html 2>/dev/null
 	-rm weather_$(VOL_NO).md 2>/dev/null
-	-rm weather_$(VOL_NO).html 2>/dev/null
+	-rm weather_*.html 2>/dev/null
 	cd 2023 && make clean
 	#rm *.skim 2>/dev/null
 
