@@ -4,6 +4,7 @@ html {
 	width: 100%;
 	height:auto;
 }
+
 body {
     font-family: 'Atkinson-Hyperlegible', 'Open Sans', sans-serif;
     /* font-size: calc(1em+1vw); */
@@ -232,6 +233,12 @@ header {
 	border-bottom: thick double gray; 
 }
 
+header {
+	margin: 0;
+	padding: 0;
+	height: 7em;
+}
+
 header h1 {
     font-size: 300%;
 	margin: 0;
@@ -257,6 +264,7 @@ header h1 {
 }
 
 header h2 {
+	/* display: inline-block;*/
 	font-style: italic;
     font-size: 100%;
 	margin: 0;
@@ -266,6 +274,15 @@ header h2 {
 	padding-bottom: 1em;
 	text-align: center;
     text-decoration: blue wavy underline;
+}
+
+header img {
+	padding: 0;
+	margin: 0;
+	position: relative;
+	top: -70px;
+	left: 60%;
+	z-index: -1;
 }
 
 header blockquote {
