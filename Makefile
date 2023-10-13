@@ -94,7 +94,7 @@ refresh:
 	git fetch origin
 	git pull origin $(BRANCH)
 
-publish: build website save .FORCE
+publish: build save .FORCE
 	./publish.bash
 
 
