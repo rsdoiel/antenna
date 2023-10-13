@@ -1,5 +1,81 @@
 ---
 
+## SPC Tornado Watch 710 Status Reports
+
+date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0710.html"><img src="https://www.spc.noaa.gov/products/watch/ww0710_radar.gif" border="1" alt="WW 0710 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS FOR WATCH 0710 HAS NOT BEEN ISSUED YET
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0710.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ws0710.html>
+
+---
+
+## SPC Tornado Watch 710
+
+date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0710.html"><img src="https://www.spc.noaa.gov/products/watch/ww0710_radar.gif" border="1" alt="WW 0710 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 710
+NWS Storm Prediction Center Norman OK
+125 PM CDT Fri Oct 13 2023
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Central into southeast Iowa
+
+* Effective this Friday afternoon and evening from 125 PM until
+  800 PM CDT.
+
+* Primary threats include...
+  A few tornadoes possible
+  Isolated damaging wind gusts to 60 mph possible
+  Isolated large hail events to 1 inch in diameter possible
+
+SUMMARY...Scattered low-topped thunderstorms will form this
+afternoon along a slow-moving front across central Iowa.  The storm
+environment will favor of mix of multicells and some supercells
+capable of producing a few tornadoes, along with isolated marginally
+severe hail and wind gusts.
+
+The tornado watch area is approximately along and 35 statute miles
+north and south of a line from 35 miles west northwest of Fort Dodge
+IA to 30 miles south of Cedar Rapids IA. For a complete depiction of
+the watch see the associated watch outline update (WOUS64 KWNS
+WOU0).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 1 inch. Extreme turbulence and surface wind
+gusts to 50 knots. A few cumulonimbi with maximum tops to 350. Mean
+storm motion vector 18020.
+
+...Thompson
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0710.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/watch/ww0710.html>
+
+---
+
 ## SPC - No watches are valid as of Fri Oct 13 17:44:01 UTC 2023
 
 date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks

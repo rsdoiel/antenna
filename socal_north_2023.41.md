@@ -1,5 +1,25 @@
 ---
 
+## Sheriff’s Log: Oct. 5 to Oct. 11, 2023
+
+date: 2023-10-13, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Oct. 5 to Oct. 11, 2023. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-oct-5-to-oct-11-2023/>
+
+---
+
+## Bravo’s Landscaping and Straight Up Builders win
+
+date: 2023-10-13, from: Catalina Islander
+
+Thursday night was the night for standings tie breaking. Bravo’s Landscaping faced off against Coyote Joe’s in game one. Justin Hernandez hit a double for Bravo’s Landscaping in the first inning, but was left stranded at second. In the bottom of the inning Joe Talsky laid out at first to deny Marco Gallegos a hit. [&#8230;] 
+
+<https://thecatalinaislander.com/bravos-landscaping-and-straight-up-builders-win-2/>
+
+---
+
 ## The High Cost of Cheap Concert Tickets
 
 date: 2023-10-13, from: Pepperdine Beacon (Pepperdine Student Newspaper)
@@ -93,6 +113,16 @@ date: 2023-10-13, from: The LAist
 It's going to be cooler today through Saturday but come Sunday, another warming trend. 
 
 <https://laist.com/news/climate-environment/la-weather-report-october-13-onshore-flow-cooler-temps>
+
+---
+
+## 'Ring Of Fire' Solar Eclipse Will Be Here Saturday Morning. Here's How To View In LA
+
+date: 2023-10-13, from: The LAist
+
+L.A. won't get a full eclipse, but at 9:24 a.m. about 70% of the sun will be obscured. 
+
+<https://laist.com/news/heres-how-you-can-see-saturdays-ring-of-fire-solar-eclipse-los-angeles>
 
 ---
 

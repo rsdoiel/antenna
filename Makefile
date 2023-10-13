@@ -46,13 +46,13 @@ socal_north_$(VOL_NO).html: socal_north_$(VOL_NO).md front_page.tmpl
 	       --metadata title="SoCal North, vol. $(VOL_NO)" \
 	       --metadata socal_north_page="socal_north_$(VOL_NO).html" \
 	       --metadata weather_page="weather_$(VOL_NO).html" \
-	       --metadata urls_file="socal_north.urls" \
+	       --metadata urls_file="socal_north.txt" \
 		   --template front_page.tmpl \
 		   socal_north_$(VOL_NO).md \
 		   >"socal_north_$(VOL_NO).html"
 
 socal_north_$(VOL_NO).md:
-	-skimmer socal_north.urls
+	-skimmer socal_north.txt
 	sqlite3 socal_north.skim "UPDATE items SET status = 'read' WHERE published <= '$(SUNDAY)' AND published >= '$(SATURDAY)'"
 	sqlite3 socal_north.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 	skim2md socal_north.skim >"socal_north_$(VOL_NO).md"
@@ -65,13 +65,13 @@ weather_$(VOL_NO).html: weather_$(VOL_NO).md front_page.tmpl
 	       --metadata title="Weather, vol. $(VOL_NO)" \
 	       --metadata socal_north_page="socal_north_$(VOL_NO).html" \
 	       --metadata weather_page="weather_$(VOL_NO).html" \
-	       --metadata urls_file="weather.urls" \
+	       --metadata urls_file="weather.txt" \
 		   --template front_page.tmpl \
 		   weather_$(VOL_NO).md \
 		   >"weather_$(VOL_NO).html"
 
 weather_$(VOL_NO).md:
-	-skimmer weather.urls
+	-skimmer weather.txt
 	sqlite3 weather.skim "UPDATE items SET status = 'saved'" 
 	skim2md weather.skim >"weather_$(VOL_NO).md"
 
@@ -82,7 +82,6 @@ clean: .FORCE
 	-rm weather_$(VOL_NO).md 2>/dev/null
 	-rm weather_*.html 2>/dev/null
 	cd 2023 && make clean
-	#rm *.skim 2>/dev/null
 
 
 CITATION.cff: .FORCE

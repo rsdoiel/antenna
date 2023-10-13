@@ -1,5 +1,69 @@
 ---
 
+## Sheriff’s Log: Oct. 5 to Oct. 11, 2023
+
+date: 2023-10-13, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Oct. 5 to Oct. 11, 2023. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-oct-5-to-oct-11-2023/>
+
+---
+
+## Bravo’s Landscaping and Straight Up Builders win
+
+date: 2023-10-13, from: Catalina Islander
+
+Thursday night was the night for standings tie breaking. Bravo’s Landscaping faced off against Coyote Joe’s in game one. Justin Hernandez hit a double for Bravo’s Landscaping in the first inning, but was left stranded at second. In the bottom of the inning Joe Talsky laid out at first to deny Marco Gallegos a hit. [&#8230;] 
+
+<https://thecatalinaislander.com/bravos-landscaping-and-straight-up-builders-win-2/>
+
+---
+
+## The High Cost of Cheap Concert Tickets
+
+date: 2023-10-13, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>Late last year, during the aftermath of the COVID-19 lockdowns that kept musicians off the road for more than two years, superstar Taylor Swift announced her Eras tour. In a self-proclaimed act of generosity, tickets for the concerts were priced extremely low with VIP packages costing just $900 and other tickets selling for as little [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/the-high-cost-of-cheap-concert-tickets/">The High Cost of Cheap Concert Tickets</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/the-high-cost-of-cheap-concert-tickets/?utm_source=rss&utm_medium=rss&utm_campaign=the-high-cost-of-cheap-concert-tickets>
+
+---
+
+## Schickling: Allow recreational cannabis
+
+date: 2023-10-13, from: Catalina Islander
+
+Councilmember says revenue would be alternative to STR During last week’s council meeting, Councilmember Mary Schickling argued that a dispensary for recreation marijuana would relieve the city’s dependancy on the short term rental tax. Schickling brought up the idea during council comments, so the council took no action on her idea. “A lot of cities [&#8230;] 
+
+<https://thecatalinaislander.com/schickling-allow-recreational-cannabis/>
+
+---
+
+## Pepperdine Rankings Drop from 55th to 76th Nationally
+
+date: 2023-10-13, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>Pepperdine University, once nearing the pinnacle in higher education rankings a few years ago, now finds itself in uncharted territory, ranking 76th of National Universities in the 2023 U.S. News and World Report (USNWR) rankings. This unexpected and substantial drop has sent shockwaves through the Pepperdine community and beyond. But what exactly led to this [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/pepperdine-rankings-drop-from-55th-to-76th-nationally/">Pepperdine Rankings Drop from 55th to 76th Nationally</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/pepperdine-rankings-drop-from-55th-to-76th-nationally/?utm_source=rss&utm_medium=rss&utm_campaign=pepperdine-rankings-drop-from-55th-to-76th-nationally>
+
+---
+
+## Letters to the Editor: published Oct. 13, 2023
+
+date: 2023-10-13, from: Catalina Islander
+
+Catalina Island Humane Society opposes deer eradication The Catalina Island Humane Society (CIHS), as the voice of compassion for animals on Catalina Island, strongly opposes the recent decision by the Catalina Island Conservancy to eradicate the entire population of mule deer on Catalina Island. This move, driven by the Conservancy’s stated goal to return the [&#8230;] 
+
+<https://thecatalinaislander.com/letters-to-the-editor-published-oct-13-2023/>
+
+---
+
 ## How To Help Humanitarian Efforts In Israel And Gaza
 
 date: 2023-10-13, from: The LAist
@@ -52,6 +116,16 @@ It's going to be cooler today through Saturday but come Sunday, another warming 
 
 ---
 
+## 'Ring Of Fire' Solar Eclipse Will Be Here Saturday Morning. Here's How To View In LA
+
+date: 2023-10-13, from: The LAist
+
+L.A. won't get a full eclipse, but at 9:24 a.m. about 70% of the sun will be obscured. 
+
+<https://laist.com/news/heres-how-you-can-see-saturdays-ring-of-fire-solar-eclipse-los-angeles>
+
+---
+
 ## Here's How You Can See Saturday's 'Ring Of Fire' Solar Eclipse
 
 date: 2023-10-13, from: The LAist
@@ -72,6 +146,16 @@ The evacuation order from Israel affecting 1 million people faced immediate obje
 
 ---
 
+## Oktoberfest Alert! 6 Places To Get Blistering Hot Pretzels In LA
+
+date: 2023-10-13, from: The LAist
+
+Octoberfest is calling. Here are some of our favorite places to get a hot, salty pretzel in and around L.A. You're welcome. 
+
+<https://laist.com/news/food/where-to-get-hot-pretzels-in-la>
+
+---
+
 ## Discover The Simple Beauty of Spanish And Portuguese Cooking In Los Angeles
 
 date: 2023-10-13, from: The LAist
@@ -89,16 +173,6 @@ date: 2023-10-13, from: The LAist
 Two amateur bakers take on a beloved, almost sacrosanct school treasure. 
 
 <https://laist.com/news/food/los-angeles-unified-coffee-cake-make-it-at-home>
-
----
-
-## Oktoberfest Alert! 6 Places To Get Blistering Hot Pretzels In LA
-
-date: 2023-10-13, from: The LAist
-
-Octoberfest is calling. Here are some of our favorite places to get a hot, salty pretzel in and around L.A. You're welcome. 
-
-<https://laist.com/news/food/where-to-get-hot-pretzels-in-la>
 
 ---
 
