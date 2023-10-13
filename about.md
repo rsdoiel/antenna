@@ -39,6 +39,7 @@ aggregation using skimmer, SQLite3, Pandoc and Make.
 ### Programming languages
 
 - Make
+- Bash
 - Pandoc templates
 - SQL
 
