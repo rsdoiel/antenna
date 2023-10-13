@@ -17,7 +17,7 @@ ifneq ($(end),)
 	SATURDAY = $(end)
 endif
 
-build: index about socal_north  weather
+build: index about socal_north weather archives
 
 index: index.html
 
@@ -29,6 +29,10 @@ index.html: README.md front_page.tmpl
 		   --template front_page.tmpl \
 		   README.md \
 		   >index.html
+
+archives: mk_archives.bash archives.tmpl
+	./mk_archives.bash	
+	cd 2023 && make
 
 about: about.html
 
@@ -82,6 +86,7 @@ clean: .FORCE
 	-rm socal_north_$(VOL_NO).html 2>/dev/null
 	-rm weather_$(VOL_NO).md 2>/dev/null
 	-rm weather_$(VOL_NO).html 2>/dev/null
+	cd 2023 && make clean
 	#rm *.skim 2>/dev/null
 
 

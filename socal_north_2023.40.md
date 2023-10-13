@@ -1,15 +1,5 @@
 ---
 
-## How To Help Humanitarian Efforts In Israel And Gaza
-
-date: 2023-10-13, from: The LAist
-
-Humanitarian groups are working to respond to the violence in Israel and Gaza. Here are some ways to help — and avoid getting scammed. 
-
-<https://laist.com/news/how-to-help-humanitarian-efforts-in-israel-and-gaza>
-
----
-
 ## Agua Dulce Animal Sanctuary
 
 date: 2023-10-13, from: The Canyon News (COC Student Newspaper)
@@ -32,26 +22,6 @@ The surprise attack on Israel has brought the militant group back into the spotl
 
 ---
 
-## Long Beach Locks In Lower Natural Gas Prices For Customers
-
-date: 2023-10-13, from: The LAist
-
-The new contract is designed to stabilize natural gas prices this winter through early 2026. 
-
-<https://laist.com/news/long-beach-locks-in-lower-natural-gas-prices-for-customers>
-
----
-
-## Your SoCal Weather Report For Friday, Oct. 13: Enjoy The Cooldown This Weekend
-
-date: 2023-10-13, from: The LAist
-
-It's going to be cooler today through Saturday but come Sunday, another warming trend. 
-
-<https://laist.com/news/climate-environment/la-weather-report-october-13-onshore-flow-cooler-temps>
-
----
-
 ## Here's How You Can See Saturday's 'Ring Of Fire' Solar Eclipse
 
 date: 2023-10-13, from: The LAist
@@ -66,29 +36,9 @@ People in some areas of the western U.S. will be able to see the annular eclipse
 
 date: 2023-10-13, from: The LAist
 
-The evacuation order from Israel affecting 1 million people faced immediate objections, including from the U.N., which warned such an evacuation would have "devastating humanitarian consequences." 
+The order from Israel faced immediate international objections, including from the U.N., which warned such an evacuation would have "devastating humanitarian consequences." 
 
 <https://laist.com/news/israel-warns-more-than-1-million-people-to-evacuate-northern-gaza>
-
----
-
-## Discover The Simple Beauty of Spanish And Portuguese Cooking In Los Angeles
-
-date: 2023-10-13, from: The LAist
-
-Recently, a new crop of local chefs began to offer their take on Iberian cooking 
-
-<https://laist.com/news/food/discover-the-simple-beauty-of-spanish-and-portuguese-cooking-in-los-angeles>
-
----
-
-## Wax Nostalgic About That LAUSD Coffee Cake? Here’s How You Can Make Your Own
-
-date: 2023-10-13, from: The LAist
-
-Two amateur bakers take on a beloved, almost sacrosanct school treasure. 
-
-<https://laist.com/news/food/los-angeles-unified-coffee-cake-make-it-at-home>
 
 ---
 
@@ -102,9 +52,29 @@ Octoberfest is calling. Here are some of our favorite places to get a hot, salty
 
 ---
 
+## Wax Nostalgic About That LAUSD Coffee Cake? Here’s How You Can Make Your Own
+
+date: 2023-10-13, from: The LAist
+
+Two amateur bakers take on a beloved, almost sacrosanct school treasure. 
+
+<https://laist.com/news/food/los-angeles-unified-coffee-cake-make-it-at-home>
+
+---
+
+## Discover The Simple Beauty of Spanish And Portuguese Cooking In Los Angeles
+
+date: 2023-10-13, from: The LAist
+
+Recently, a new crop of local chefs began to offer their take on Iberian cooking 
+
+<https://laist.com/news/food/discover-the-simple-beauty-of-spanish-and-portuguese-cooking-in-los-angeles>
+
+---
+
 ## UCLA students attend walkout, teach-in following violence in Palestine
 
-date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
 
 A couple hundred people gathered in Bruin Plaza on Thursday during a walkout to demonstrate in support of Palestine.
 The walkout – which was organized by more than 10 student groups, including Students for Justice in Palestine at UCLA and UC Divest Coalition at UCLA – began at 2 p.m. 
@@ -115,7 +85,7 @@ The walkout – which was organized by more than 10 student groups, including St
 
 ## Jewish organizations at UCLA host vigil honoring lives lost in recent attacks
 
-date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
 
 Hundreds of people attended a vigil Wednesday evening in Bruin Plaza to honor the lives lost in attacks on Israeli civilians and soldiers.
 The vigil, which was hosted at 7 p.m. 
@@ -126,7 +96,7 @@ The vigil, which was hosted at 7 p.m.
 
 ## Op-ed: UCLA community should participate in Great ShakeOut to prepare for earthquakes
 
-date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
 
 October is Bruin Earthquake Awareness Month, and in the case of an unexpected natural disaster, there is no question that practice and preparation can save lives. 
 
@@ -146,7 +116,7 @@ Boyle Heights is one of L.A.'s oldest neighborhoods, full of interesting history
 
 ## Opinion: Bridging generations and embracing change can inspire self-growth
 
-date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
 
 My heart pounded faster as the taxi turned onto the familiar street from my childhood. Steam was wafting from a nearby dumpling house and children were gathered around a row of concession stands. 
 
@@ -156,7 +126,7 @@ My heart pounded faster as the taxi turned onto the familiar street from my chil
 
 ## Examining data privacy issues in wake of social media, technological developments
 
-date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
 
 <em>This post was updated Oct 12 at 10:58 p.m.</em>
 As increasingly advanced technological developments manifest in Bruins&#8217; daily lives through social media and other internet applications, questions arise regarding their implications on data privacy issues. 
@@ -167,7 +137,7 @@ As increasingly advanced technological developments manifest in Bruins&#8217; da
 
 ## Scouting Report: UCLA football vs. Oregon State
 
-date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
 
 <em>This post was updated Oct 12 at 9:55 p.m.</em>
 No. 18 UCLA football (4-1, 1-1 Pac-12) will journey to Corvallis to face No. 15 Oregon State (5-1, 2-1) after its win over No. 
@@ -178,7 +148,7 @@ No. 18 UCLA football (4-1, 1-1 Pac-12) will journey to Corvallis to face No. 15 
 
 ## No. 18 UCLA football to spar with No. 15 Oregon State, top-15 rushing offense
 
-date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
 
 <em>This post was updated Oct 12 at 10:05 p.m.</em>
 The Bruins last traveled to Corvallis for a conference football game Nov. 7, 2015.
@@ -190,7 +160,7 @@ They shut out the Beavers 41-0 that day.
 
 ## UCLA women’s volleyball seeks Pac-12 resurgence against California, Stanford
 
-date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
 
 <em>This post was updated Oct 12 at 9:54 p.m.</em>
 The Bruins have yearned for their shot at a championship since the beginning.
@@ -202,7 +172,7 @@ The Bruins have yearned for their shot at a championship since the beginning.
 
 ## Ms. Magazine celebrates 50-year anniversary with discussion panel at Hammer Museum
 
-date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
 
 <em>This post was updated Oct. 12 at 10:49 p.m.</em>
 Ms. Magazine celebrated its 50-year anniversary at the Hammer Museum through a discussion panel Oct. 5.
@@ -214,7 +184,7 @@ Since the magazine’s inception in 1973, Ms.
 
 ## Honey Krush opens in Westwood, fuses organic ingredients with cultural roots
 
-date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
 
 Honey Krush, a cafe serving organic drinks, boba and chicken, opened on Westwood Boulevard.
 The restaurant &#8211; which had its soft launch Sept. 23  &#8211; is co-owned by Brian Ko and Richard Han, both of whom created the idea for the cafe while in college. 
@@ -225,7 +195,7 @@ The restaurant &#8211; which had its soft launch Sept. 23  &#8211; is co-owned b
 
 ## Weekend in preview: Oct. 12
 
-date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
 
 <em>This post was updated Oct 12 at 10:01 p.m.</em>
 Men’s soccer
@@ -248,7 +218,7 @@ The Warren Bears will take on the Downey Vikings on Friday for the first high sc
 
 ## UCLA athletic director Martin Jarmond discusses Big Ten move, NIL
 
-date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
 
 <em>This post was updated Oct 12 at 9:53 p.m.</em>
 UCLA athletic director Martin Jarmond met with Daily Bruin Sports on Tuesday.
@@ -346,7 +316,7 @@ Watch a night of 'Comical Magic.' Attend a Haiku Duel. Check out the largest car
 
 ## Gallery: UCLA football’s defense dominates in comeback win against Washington State
 
-date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
 
 The Bruins’ stifling defense clamped down on the Cougars during Saturday afternoon’s 25-17 victory, dealing Washington State quarterback Cameron Ward his first two interceptions of the season and sacking him three times. 
 
@@ -356,7 +326,7 @@ The Bruins’ stifling defense clamped down on the Cougars during Saturday after
 
 ## Former prime minister of Finland discusses international peace at Burkle Center
 
-date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
 
 <em>This post was updated Oct 12 at 10:51 p.m.</em>
 The UCLA Burkle Center for International Relations hosted former Prime Minister of Finland Sanna Marin on Oct. 
@@ -367,7 +337,7 @@ The UCLA Burkle Center for International Relations hosted former Prime Minister 
 
 ## Out of Bounds: Is UCLA’s defense elite under D’Anton Lynn? Recapping Washington State
 
-date: 2023-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-11, from: The Daily Bruild (UCLA Student Newspaper)
 
 No. 18 UCLA football is back in the AP Top 25 after defeating then-No. 13 Washington State at the Rose Bowl. Sports staff writer Gavin Carlson sits down with Sports editor Joseph Crosby to recap the Bruins&#8217; win. 
 
@@ -377,7 +347,7 @@ No. 18 UCLA football is back in the AP Top 25 after defeating then-No. 13 Washin
 
 ## UCLA Center for Liberal Arts and Free Institutions celebrates the humanities
 
-date: 2023-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-11, from: The Daily Bruild (UCLA Student Newspaper)
 
 For one UCLA center, 2023 is not the year of &#8220;The Eras Tour&#8221; or the &#8220;Barbie&#8221; movie.
 It is the 400th anniversary of the First Folio, a first-edition copy of William Shakespeare’s plays, which resides in UCLA’s Clark Library, according to Daniel Lowenstein, a professor of law emeritus. 
@@ -388,7 +358,7 @@ It is the 400th anniversary of the First Folio, a first-edition copy of William 
 
 ## ‘This Is Not a True Story’ rewrites the stories of tragic Asian heroines
 
-date: 2023-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-11, from: The Daily Bruild (UCLA Student Newspaper)
 
 <em>This post was updated Oct. 12 at 8:47 p.m.&#160;</em>
 <em>Editor&#8217;s Note: This article contains references to suicide.&#160;</em>
@@ -596,7 +566,7 @@ Buster prepares for the big pumpkin harvest of the fall. Good grief!
 
 ## ASUCLA announces revamp of on-campus dining options, on-campus meal swipes
 
-date: 2023-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-11, from: The Daily Bruild (UCLA Student Newspaper)
 
 <em>This post was updated Oct. 10 at 10:46 p.m.</em>
 Associated Students UCLA announced new on-campus dining options for this academic year, including two new restaurants.
@@ -608,7 +578,7 @@ ASUCLA opened the açaí bowl shop SAMBAZON in Ackerman Student Union, a Chocola
 
 ## Concert preview: Past tracks, new hits come calling for fall performances
 
-date: 2023-10-11, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-11, from: The Daily Bruild (UCLA Student Newspaper)
 
 <em>This post was updated Oct. 12 at 8:56 p.m.</em>
 This spooky season, past sonatas lurk behind the concert stage.
@@ -620,7 +590,7 @@ With a cloud of dust and doom, this autumn’s melodies are here to chill one&#8
 
 ## Beyond Bruin Walk: Removal of McCarthy as House speaker reveals congressional dysfunction
 
-date: 2023-10-10, from: The Daily Bruin (UCLA Student Newspaper)
+date: 2023-10-10, from: The Daily Bruild (UCLA Student Newspaper)
 
 <em>This post was updated Oct. 10 at 9:39 p.m.&#160;</em>
 On Oct. 3, California Rep. Kevin McCarthy became the first speaker of the House in the history of the United States to be removed by a congressional vote. 

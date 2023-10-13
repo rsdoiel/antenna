@@ -1,5 +1,187 @@
 ---
 
+## SPC - No watches are valid as of Fri Oct 13 17:44:01 UTC 2023
+
+date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Oct 13 17:44:01 UTC 2023. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC MD 2250
+
+date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md2250.html"><img src="https://www.spc.noaa.gov/products/md/mcd2250.png" border="1" alt="MD 2250 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 2250
+NWS Storm Prediction Center Norman OK
+1212 PM CDT Fri Oct 13 2023
+
+Areas affected...Parts of central IA
+
+Concerning...Severe potential...Watch possible 
+
+Valid 131712Z - 131845Z
+
+Probability of Watch Issuance...40 percent
+
+SUMMARY...A few brief tornadoes and isolated hail are possible this
+afternoon.
+
+DISCUSSION...A deep-layer cyclone currently centered near the IA/NE
+border will move eastward across western/central this afternoon. A
+surface front extends northeastward from the low into northwest IA,
+then arcs southeastward across central IA into northern MO.
+Widespread cloudiness is noted along/ahead of the front, though some
+thinning and cloud breaks have recently developed across parts of
+north-central and south-central IA. 
+
+As pre-frontal temperatures warm through the 60s F within a modestly
+moist boundary layer, MLCAPE will increase into the 300-700 J/kg
+range. Weak convection has already developed in Pocahontas County,
+with additional development expected by early/mid afternoon
+southward along the frontal boundary. A band of storms is expected
+to evolve by mid afternoon, with modestly favorable effective shear
+(generally 30-35 kt) potentially supporting embedded supercell
+structures, especially from central into south-central IA. 
+
+A combination of modestly favorable low-level shear/SRH and ambient
+vertical vorticity associated with the cyclone will support a threat
+of a few brief tornadoes this afternoon, both within a
+hybrid/marginal supercell environment across central/south-central
+IA, and a landspout environment into parts of
+north-central/northwest IA. Cool temperatures aloft may also support
+isolated hail with the strongest storms. While coverage and
+magnitude of the threat may remain relatively limited, tornado watch
+issuance is possible this afternoon if confidence in the potential
+for multiple tornadoes increases.
+
+..Dean/Thompson.. 10/13/2023
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...DVN...DMX...
+
+LAT...LON   42619475 42959474 42939397 42269255 41609231 40939237
+            40939268 41049319 41499361 41829388 42259436 42619475 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md2250.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/md/md2250.html>
+
+---
+
+## SPC Oct 13, 2023 1730 UTC Day 2 Convective Outlook
+
+date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1208 PM CDT Fri Oct 13 2023
+
+Valid 141200Z - 151200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS OVER PARTS OF
+THE COASTAL CAROLINAS...
+
+...SUMMARY...
+Isolated severe thunderstorms appear possible Saturday across parts
+of the coastal Carolinas.
+
+...Mid-Atlantic...
+
+An upper trough will spread east from the Midwest toward the
+Mid-Atlantic on Saturday. This will bring a belt of 50-60 kt
+west/southwesterly 500 mb flow over the central/southern
+Appalachians to the Eastern Seaboard. In the midlevels, more
+south/southwesterly flow is expected, with around 30-40 kt 850-700
+mb flow progged across the Carolinas toward the southern Chesapeake
+Bay vicinity. At the surface, a weak low is forecast to move
+north/northeast along the SC/NC coastal plains, while a broader
+synoptic low develops east along the WV/PA/MD border vicinity. A
+cold front will shift east across the central/southern Appalachians
+while a warm front extends east from the PA/MD surface low into
+southern NJ. 
+
+Deeper boundary-layer moisture will remain across the coastal
+Carolinas toward the Delmarva vicinity where upper 60s/low 70s
+dewpoints are forecast. Warm advection will likely result in some
+cloudiness and showers, with only modest boundary-layer heating
+occurring ahead of the eastward advancing cold front and surface
+low. This will limit stronger destabilization, though a narrow
+corridor of 500-1000 J/kg MLCAPE is possible across eastern NC.
+Relatively strong deep-layer flow and vertically veering wind
+profiles will result in effective shear magnitudes greater than 40
+kt, with enlarged, curved low-level hodographs. While weak
+instability and relatively warm temperatures aloft will limit
+updraft intensity/depth, a few strong storms capable of locally
+damaging gusts or a tornado or two will be possible.
+
+Further north near the WV/PA/MD low, boundary-layer moisture will be
+limited and meager instability is expected. However, strong vertical
+wind profiles suggest a couple of storms with gusty winds or small
+hail are possible, though severe potential remains low.
+
+..Leitman.. 10/13/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## SPC Oct 13, 2023 1630 UTC Day 1 Convective Outlook
+
+date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1130 AM CDT Fri Oct 13 2023
+
+Valid 131630Z - 141200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
+ACROSS CENTRAL IA...
+
+...SUMMARY...
+A few severe storms will be possible this afternoon from central
+Iowa to west central Illinois and northeast Missouri.
+
+...IA and vicinity through early evening...
+A vertically stacked low will move eastward over IA this
+afternoon/evening.  A narrow, weakly unstable warm sector will
+develop immediately in advance of the surface front and occluded
+cyclone from northwest into central/southeast IA from early into mid
+afternoon, where surface heating occurs in cloud breaks and
+boundary-layer dewpoints hold near 58-61 F.  A band of convection is
+expected to form along the front by 18-20z, where low-level ascent
+coincides with the left-exit region of the mid-upper jet. 
+Deep-layer vertical shear will be somewhat modest, while vertical
+vorticity and low-level lapse rates/CAPE will align with the
+boundary, suggesting a mix of low-topped supercells and/or
+multicells capable of producing a few tornadoes, marginally severe
+hail and isolated strong gusts this afternoon into early this
+evening before buoyancy diminishes.
+
+..Thompson/Lyons.. 10/13/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
+
+---
+
 ## SPC Day 1 Fire Weather Outlook
 
 date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -39,16 +221,6 @@ and preclude the need to include highlights.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC - No watches are valid as of Fri Oct 13 15:56:02 UTC 2023
-
-date: 2023-10-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Fri Oct 13 15:56:02 UTC 2023. 
-
-<https://www.spc.noaa.gov/products/watch/>
 
 ---
 
