@@ -10,20 +10,34 @@
 <header>
 	<h1>The Antenna</h1>
 	<h2>finding signal in the noise of the net</h2>
-	<hr>
 </header>
+<nav>
+<ul>
+	<li><a href="./">The Antenna</a></li>
+$if(socal_north_page)$
+	<li><a href="$socal_north_page$">SoCal North!</a></li>
+$endif$
+$if(weather_page)$
+	<li><a href="$weather_page$">Weather</a></li>
+$endif$
+</ul>
+</nav>
 <section>
 $if(title)$
+<div class="description-for-items">
 <h2>$title$</h2>
-Items collected from <a href="socal_north.urls">aggregated urls</a>
-<p>
-<hr>
+$if(urls_file)$
+Items collected from <a href="$urls_file$">aggregated urls</a>
+$else$
+A proof of concept for personal news aggregation pages.
+$endif$
+</div>
 $endif$
 $body$
 </section>
 <footer>
-Antenna is an aggregation of items found around the net.
-Curated with [skimmer](https://rsdoiel.github.io/skimmer), a minimalist feed reader.
+Antenna is a personal aggregation of items found around the web.
+Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a>.
 </footer>
 </body>
 </html>

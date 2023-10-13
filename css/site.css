@@ -1,9 +1,15 @@
+html {
+	padding:0;
+	margin:0;
+	width: 100%;
+	height:auto;
+}
 body {
     font-family: 'Atkinson-Hyperlegible', 'Open Sans', sans-serif;
     /* font-size: calc(1em+1vw); */
     padding: 0;
     margin: 0;
-    width: 100%;
+    width: 95%;
     height: auto;
     color: black;
     background-color: white;
@@ -31,8 +37,10 @@ ul {
 }
 
 nav {
+/*     
     position:fixed;
     top:0;
+*/
     display: block;
     width: 100%;
     height: auto;
@@ -43,19 +51,25 @@ nav {
     background-color: #FF6E1E; 
     */
     /* white on deep red */
+	/*
     color: white;
     background-color: #5f0202;
+	*/
 }
 
 nav a, nav a:link, nav a:visited {
     font-weight: lighter;
+	/*
     color: white; 
+	*/
     text-decoration: none;
 }
 
 nav a:active, nav a:focus, nav a:hover {
     font-weight: lighter;
+	/*
     color: orange;
+	*/
     text-decoration: none;
     text-transform: uppercase;
 }
@@ -211,11 +225,65 @@ div.project-name {
     margin-top: 1.24em;
 }
 
+header {
+	margin:0;
+	padding:0;
+	width: 100%;
+	border-bottom: thick double gray; 
+}
+
+header h1 {
+    font-size: 300%;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	/* text-shadow: 3px 3px 1px gray;*/
+	text-shadow: 0 1px #808d93,
+       	              -1px 0 #cdd2d5,
+       	              -1px 2px #808d93,
+       	              -2px 1px #cdd2d5,
+       	              -2px 3px #808d93,
+       	              -3px 2px #cdd2d5,
+       	              -3px 4px #808d93,
+       	              -4px 3px #cdd2d5,
+       	              -4px 5px #808d93,
+       	              -5px 4px #cdd2d5,
+       	              -5px 6px #808d93,
+       	              -6px 5px #cdd2d5,
+       	              -6px 7px #808d93,
+       	              -7px 6px #cdd2d5,
+       	              -7px 8px #808d93,
+       	              -8px 7px #cdd2d5;
+}
+
+header h2 {
+	font-style: italic;
+    font-size: 100%;
+	margin: 0;
+	padding-top:0;
+	padding-left:0;
+	padding-right:0;
+	padding-bottom: 1em;
+	text-align: center;
+    text-decoration: blue wavy underline;
+}
+
 header blockquote {
     display: block;
     width: 100%;
     height: auto;
     padding: 0em;
     margin-left: 2.48em;
+}
+
+section {
+	width: 100%;
+	padding: 1%;
+	margin: 1%;
+}
+
+section > div {
+	border: double black;
+	padding: inherit;
 }
 

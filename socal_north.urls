@@ -1,32 +1,63 @@
 # SoCal North's feeds.
+
+# Weather Data
+https://api.weather.gov/points/34.3917,-118.5426 "~NOAA Forcast for Santa Clarita"
+
+#
+# For Profit news organizations
+#
+#https://scvnews.com/feed/ "~SCV New (TV Station)"
+#https://signalscv.com/feed/ "~The Signal"
+
+#
+# Non-Profit news organizations
+#
 https://chumash.gov/latest-news?format=rss "~Chumash News"
-http://www.tataviam-nsn.us/feed/ "~Tatavium Tribal News"
-https://gabrielinotribe.org/tribal-news/ "~Tongva Tribal News"
-https://santaclarita.gov/feed/ "~City of Santa Clarita"
-https://www.santaclaritalibrary.com/feed/ "~Santa Clarita Public Library"
 https://transitinglosangeles.com/feed/ "~Transiting Los Angeles"
-https://desertgazette.com/blog/?feed=rss2 "~Desert Gazette Blog"
 https://laist.com/index.atom "~The LAist"
-https://laconservancy.tumblr.com/rss "~L.A. Conservancy Blog"
+https://thecatalinaislander.com/feed/ "~Catalina Islander"
+
+#
+# College Student Newspapers
+#
 https://sundial.csun.edu/feed/ "~The Sundail (CSUN Student Newspaper)"
-https://libcal.caltech.edu/rss.php?m=month&iid=3271&cid=3754 "~Caltech Library Events"
-https://library.csun.edu/blogs/cited/feed/ "~CSUN Library Blog, Cited"
 http://www.laloyolan.com/search/?f=rss "~Laloyolan (LMU Student Newspaper)"
-https://www.sgvlug.org/feeds/all.atom.xml "~San Gabriel Valley Linux User Group"
 https://pepperdinebeacon.com/feed/ "~Pepperdine Beacon (Pepperdine Student Newspaper)
 https://caltechletters.org/feed.xml "~Caltech Letters (a student blog)"
-https://scvnews.com/feed/ "~SCV New (TV Station)"
-https://signalscv.com/feed/ "~The Signal"
 https://canyonsnews.com/feed/ "~The Canyon News (COC Student Newspaper)"
 https://dailytrojan.com/feed/ "~The Daily Trojan (USC Student Newspaper)"
 https://wp.dailybruin.com/feed/ "~The Daily Bruild (UCLA Student Newspaper)"
 https://theroundupnews.com/feed/ "~The Round Up (Peirce College Student Newspaper)"
 https://theoccidentalnews.com/feed "~The Occidental News (Occidental College Student Newspaper)"
-https://www.rand.org/blog.xml  "~RAND blog"
-https://www.rand.org/news/press.xml "~RAND press releases"
-https://theodorepayne.org/feed/ "~Theodore Paine Foundation"
-https://www.vandenberg.spaceforce.mil/rss/ "~Vandenberg Base News"
-https://www.portofhueneme.org/feed/ "~Port Hueneme"
-https://thecatalinaislander.com/feed/ "~Catalina Islander"
 http://civiewnews.com/feed/ "~CI View (CSCI Student Newspaper)"
 https://www.pcccourier.com/feed "~PCC Courier (PCC Student Newspaper)"
+# Add Mount Saint Mary's University Student Newspapers
+# UCSB Student Paper
+
+#
+# NGO and community sites
+#
+http://www.tataviam-nsn.us/feed/ "~Tatavium Tribal News"
+https://gabrielinotribe.org/tribal-news/feed/ "~Tongva Tribal News"
+https://laconservancy.tumblr.com/rss "~L.A. Conservancy Blog"
+https://www.sgvlug.org/feeds/all.atom.xml "~San Gabriel Valley Linux User Group"
+https://theodorepayne.org/feed/ "~Theodore Paine Foundation"
+
+#
+# Research Libraries and organizations
+https://libcal.caltech.edu/rss.php?m=month&iid=3271&cid=3754 "~Caltech Library Events"
+https://library.csun.edu/blogs/cited/feed/ "~CSUN Library Blog, Cited"
+
+#
+# Government sites
+#
+https://santaclarita.gov/feed/ "~City of Santa Clarita"
+https://www.santaclaritalibrary.com/feed/ "~Santa Clarita Public Library"
+https://www.portofhueneme.org/feed/ "~Port Hueneme"
+
+
+# May expect known browser agent string
+#https://www.vandenberg.spaceforce.mil/rss/ "~Vandenberg Base News"
+#https://desertgazette.com/blog/?feed=rss2 "~Desert Gazette Blog"
+#HTTPs://www.rand.org/blog.xml  "~RAND blog"
+#https://www.rand.org/news/press.xml "~RAND press releases"
