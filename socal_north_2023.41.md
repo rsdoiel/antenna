@@ -1,5 +1,77 @@
 ---
 
+## Agua Dulce Animal Sanctuary
+
+date: 2023-10-13, from: The Canyon News (COC Student Newspaper)
+
+<p>By Zander Grable&#160; Animal tracks, located in Agua Dulce, California has many&#8230;</p>
+<p>The post <a rel="nofollow" href="https://canyonsnews.com/agua-dulce-animal-sanctuary/">Agua Dulce Animal Sanctuary</a> appeared first on <a rel="nofollow" href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<https://canyonsnews.com/agua-dulce-animal-sanctuary/>
+
+---
+
+## What Did Hamas Aim To Gain By Its Brazen Attack On Israel? Here's What To Know
+
+date: 2023-10-13, from: The LAist
+
+The surprise attack on Israel has brought the militant group back into the spotlight. A Hamas official tells NPR the attack was meant in part to lead to the release of Palestinians in Israeli jails. 
+
+<https://laist.com/news/what-did-hamas-aim-to-gain-by-its-brazen-attack-on-israel-heres-what-to-know>
+
+---
+
+## Here's How You Can See Saturday's 'Ring Of Fire' Solar Eclipse
+
+date: 2023-10-13, from: The LAist
+
+People in some areas of the western U.S. will be able to see the annular eclipse, when the moon passes directly in front of the sun. Experts urge viewers to watch the eclipse safely. 
+
+<https://laist.com/news/heres-how-you-can-see-saturdays-ring-of-fire-solar-eclipse>
+
+---
+
+## Israel Warns More Than 1 Million People To Evacuate Northern Gaza
+
+date: 2023-10-13, from: The LAist
+
+The order from Israel faced immediate international objections, including from the U.N., which warned such an evacuation would have "devastating humanitarian consequences." 
+
+<https://laist.com/news/israel-warns-more-than-1-million-people-to-evacuate-northern-gaza>
+
+---
+
+## Oktoberfest Alert! 6 Places To Get Blistering Hot Pretzels In LA
+
+date: 2023-10-13, from: The LAist
+
+Octoberfest is calling. Here are some of our favorite places to get a hot, salty pretzel in and around L.A. You're welcome. 
+
+<https://laist.com/news/food/where-to-get-hot-pretzels-in-la>
+
+---
+
+## Wax Nostalgic About That LAUSD Coffee Cake? Here’s How You Can Make Your Own
+
+date: 2023-10-13, from: The LAist
+
+Two amateur bakers take on a beloved, almost sacrosanct school treasure. 
+
+<https://laist.com/news/food/los-angeles-unified-coffee-cake-make-it-at-home>
+
+---
+
+## Discover The Simple Beauty of Spanish And Portuguese Cooking In Los Angeles
+
+date: 2023-10-13, from: The LAist
+
+Recently, a new crop of local chefs began to offer their take on Iberian cooking 
+
+<https://laist.com/news/food/discover-the-simple-beauty-of-spanish-and-portuguese-cooking-in-los-angeles>
+
+---
+
 ## UCLA students attend walkout, teach-in following violence in Palestine
 
 date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
@@ -344,6 +416,16 @@ The Bruins are returning home following an undefeated run in the Pacific Northwe
 
 ---
 
+## Warren And Downey High Schools Take Their Rivalry To SoFi Stadium For 'Friday Night Lights' Showdown
+
+date: 2023-10-12, from: The LAist
+
+The Warren Bears will take on the Downey Vikings on Friday for the first high school game at the stadium. 
+
+<https://laist.com/news/los-angeles-activities/warren-and-downey-high-schools-take-their-rivalry-to-sofi-stadium-for-friday-night-lights-showdown>
+
+---
+
 ## UCLA athletic director Martin Jarmond discusses Big Ten move, NIL
 
 date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
@@ -432,7 +514,7 @@ Local nonprofit chapter SCV Project Linus is calling for support from the commun
 
 ## How To Talk To Children About The Violence In Israel And Gaza
 
-date: 2023-10-12, from: The LAist
+date: 2023-10-13, from: The LAist
 
 Many children have likely already heard about the attacks in Israel, whether from school or overhearing the news. Let them ask questions, experts say — it's OK if you don't have all the answers. 
 
