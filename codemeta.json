@@ -10,6 +10,7 @@
     "developmentStatus": "concept",
     "programmingLanguage": [
         "Make",
+		"Bash",
         "Pandoc templates",
         "SQL"
     ],
