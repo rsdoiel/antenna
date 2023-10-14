@@ -1,0 +1,1749 @@
+---
+
+## Louise Gluck, US poet and 2020 Nobel laureate, dies at 80
+
+date: 2023-10-13, from: The Guam Daily Post
+
+American poet Louise Gluck, winner of the Nobel prize for her distinctively austere writing that touched on themes of mythology and the universal human experience, has died, a Yale University spokeswoman told AFP on Friday. She was 80. 
+
+<https://www.postguam.com/news/national/louise-gluck-us-poet-and-2020-nobel-laureate-dies-at-80/article_e906c15d-4aa1-5443-95b0-9099fa20f6d5.html>
+
+---
+
+## US man pleads guilty to theft of 'Wizard of Oz' slippers
+
+date: 2023-10-13, from: The Guam Daily Post
+
+An elderly US man pleaded guilty Friday to the theft nearly 20 years ago of a pair of ruby slippers that Judy Garland wore in the classic film "The Wizard of Oz." 
+
+<https://www.postguam.com/news/national/us-man-pleads-guilty-to-theft-of-wizard-of-oz-slippers/article_864a8509-2e5f-596f-b4b1-57807b948e3f.html>
+
+---
+
+## How to Protect Yourself From Student Loan Scams as Bills Resume
+
+date: 2023-10-13, from: The Guam Daily Post
+
+As borrowers gear up for federal student loan bills resuming this fall, they face a revamped landscape that includes a new repayment plan, servicer switches and long call wait times. Another imminent concern: scammers who want to take advantage of… 
+
+<https://www.postguam.com/news/national/how-to-protect-yourself-from-student-loan-scams-as-bills-resume/article_6d63121f-3950-5606-aae2-509c61e02182.html>
+
+---
+
+## Fiji Meteorological Service predicts active cyclone season
+
+date: 2023-10-13, from:  "~Samoa News"
+
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="galleria-content clearfix" id="galleria-3">
+  <a href="https://www.samoanews.com/sites/default/files/styles/article_normal_image/public/field/image/fiji_met_logo.jpg?itok=B44ltkC4"  rel="https://www.samoanews.com/sites/default/files/field/image/fiji_met_logo.jpg"><span><img src="https://www.samoanews.com/sites/default/files/styles/slideshow/public/field/image/fiji_met_logo.jpg?itok=qSdFxQtJ" width="618" height="350" alt="Fiji Met logo" title="FBC News reports the Minister for Meteorological Services Ro Filipe Tuisawau said one or two of these cyclones is expected to be above category three or more." /></span></a></div>
+</div></div></div><div class="field field-name-field-source field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Source: RNZ Pacific</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Nadi, FIJI — Fijians are being warned to be alert and well-prepared for the upcoming cyclone season.</p>
+<p>Fiji Meteorological Service predicts at least two to three cyclones will pass through the Exclusive Economic Zone this season.</p>
+<p><i>FBC News </i>reports the Minister for Meteorological Services Ro Filipe Tuisawau said one or two of these cyclones is expected to be above category three or more.</p>
+<p>The cyclone season in Fiji runs from November through to April every year.</p>
+</div></div></div><div class="field field-name-field-section field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Section:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/regional" ><span>Regional</span></a></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/fiji-meteorological-servi" ><span>Fiji Meteorological Servi</span></a></div></div></div><div class="field field-name-field-google-ad-prefilled- field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><div align="center">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- samoa --><script>
+<!--//--><![CDATA[// ><!--
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+//--><!]]>
+</script></div>
+</div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Fregional%2Ffiji-meteorological-service-predicts-active-cyclone-season" ><span>View the discussion thread.</span></a></p></noscript></div> 
+
+<https://www.samoanews.com/regional/fiji-meteorological-service-predicts-active-cyclone-season>
+
+---
+
+## 'Repay before boarding': NZ repatriation flight from Israel comes at a cost
+
+date: 2023-10-13, from:  "~Samoa News"
+
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="galleria-content clearfix" id="galleria-4">
+  <a href="https://www.samoanews.com/sites/default/files/styles/article_normal_image/public/field/image/flight_from_israel_web.jpg?itok=79vwyLI-"  rel="https://www.samoanews.com/sites/default/files/field/image/flight_from_israel_web.jpg"><span><img src="https://www.samoanews.com/sites/default/files/styles/slideshow/public/field/image/flight_from_israel_web.jpg?itok=uC0tg9xL" width="618" height="350" alt="Abu Dhabi airplane" title=" NZ and Pacific nationals fleeing Israel would need to pay for seats on the flight that would take them to Abu Dhabi. [photo: JACK GUEZ / AFP]" /></span></a></div>
+</div></div></div><div class="field field-name-field-dateline field-type-text field-label-inlinec clearfix field-label-inline"><div class="field-label">By&nbsp;</div><div class="field-items"><div class="field-item even">Eleisha Foon, RNZ Pacific journalist</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Wellington, NEW ZEALAND — The NZ Tongan church group attempting to flee Israel is "disappointed" the New Zealand government is charging people for the repatriation flight which doesn't bring them back home.</p>
+<p>The government has secured 90 seats on the first flight to assist New Zealand and Pacific nationals to leave Israel - but it comes at a cost.</p>
+<p>NZ and Pacific nationals fleeing Israel would need to pay for seats on the Etihad Airways flight that would take them to Abu Dhabi and from there, they would need to make their own way back to New Zealand.</p>
+<p>Torisse Laulu is a close friend of Pesi Sikalu, a 26-year-old member of the church group who has been traveling with 44 other NZ citizens who are church elders - one is in dire need of medical treatment because they have cancer.</p>
+<p>She said the escape plan organised by the NZ government was not "feasible" and full of "barriers and bureaucracy".</p>
+<p>Foreign Minister Nanaia Mahuta said the situation in Israel and the Occupied Palestinian Territories remained highly volatile.</p>
+<p>Despite this, the onus has been placed back on NZ and Pacific nationals trying to flee a country in the midst of a war.</p>
+<p>RNZ Pacific has obtained emails sent by the Ministry of Foreign Affairs and Trade which outline: "There will be a charge associated with the flights organised with Etihad Airways" and passengers would "need to sign an undertaking to repay before boarding the flight."</p>
+<p>"You will be responsible for all travel costs incurred in Abu Dhabi as well as onward travel arrangements and associated costs," it said.</p>
+<p>Sikalu said the "Tongan Consulate have been a pillar of strength" and had taken responsibility for the NZ citizens and would cover the cost of another commercial flight for all members<b><i>.</i></b></p>
+<p>Laulu said the group were being offered more help by a Pacific nation over their own country they are citizens of and that was "incredibly disappointing".</p>
+<p>"Super grateful for the Tongan Consulate for their generosity and love but that job isn't there's to do, that should fall back on the New Zealand government."</p>
+<p>The Tongan Consulate have offered to cover the cost in full and have reassured the group they will arrive directly back to NZ.</p>
+<p>"This is coming from a country that has far less resources and man power than New Zealand does. I don't think it is a resources issues because if a small island nation can do it than we can definitely do it.. We are not being prioritised," she said.</p>
+<p>Most International flights out of Israel have been cancelled due to the conflict and this will be the fourth attempt the group have made to escape.</p>
+<p>"We needed the NZ government the most and they weren't there. They should do better. In times of crisis they need to act faster like the Tongan Consulate and Fijian government did," Laulu said.</p>
+<p>People who can afford the flights out of Israel without government assistance are "privileged" she said, adding the way events have unravelled had caused the group to "lose faith in the government."</p>
+<p>Fiji brought back over 240 people from Israel with Fiji Airways on October 12.</p>
+<p>Laulu said the group have been in "crisis" over the past three days and were sheltering in a hotel where the "floors shook everytime rockets were being launched".</p>
+<p>"I feel helpless and that I wasn't being heard when I contacted MFAT. It's incredibly frustrating... NZ citizens are trapped and need help. It felt like they didn't care and that we weren't a priority." Laulu said.</p>
+<p>A spokesperson for MFAT provided a statement regarding the cost of the flights which are $330 each and noted that "seats are limited."</p>
+<p>"Our goal is to ensure those New Zealanders who wish to depart Israel and are able to safely do so, can do so and as quickly as possible. We are mindful that a number of other New Zealanders are departing via commercial means, at full cost. We need to strike the right balance."</p>
+</div></div></div><div class="field field-name-field-section field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Section:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/regional" ><span>Regional</span></a></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/israel-war-2023" ><span>israel war 2023</span></a></div></div></div><div class="field field-name-field-google-ad-prefilled- field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><div align="center">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- samoa --><script>
+<!--//--><![CDATA[// ><!--
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+//--><!]]>
+</script></div>
+</div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Fregional%2Frepay-boarding-nz-repatriation-flight-israel-comes-cost" ><span>View the discussion thread.</span></a></p></noscript></div> 
+
+<https://www.samoanews.com/regional/repay-boarding-nz-repatriation-flight-israel-comes-cost>
+
+---
+
+## ASRU gets ready to compete internationally
+
+date: 2023-10-13, from:  "~Samoa News"
+
+<div class="field field-name-field-subhead field-type-text field-label-hidden"><div class="field-items"><div class="field-item even"> 2023 Oceania Rugby 7s Championship &amp; the 17th Pacific Games</div></div></div><div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="galleria-content clearfix" id="galleria-5">
+  <a href="https://www.samoanews.com/sites/default/files/styles/article_normal_image/public/field/image/img_1530.jpg?itok=WnIwDeef"  rel="https://www.samoanews.com/sites/default/files/field/image/img_1530.jpg"><span><img src="https://www.samoanews.com/sites/default/files/styles/slideshow/public/field/image/img_1530.jpg?itok=uSlP6imx" width="618" height="350" alt="Seagull Head Coach Tommy Elisara and Manager Annie Coffin with ASRU officials" title="Seagull Head Coach Tommy Elisara (right) and Manager Annie Coffin (third from right sitting) and ASRU officials during this year’s ASRU Summer Sevens Tournament at the Veterans’ Memorial Stadium at Tafuna- Iliili.  [photo: Asi A. Fa’asau]" /></span></a></div>
+</div></div></div><div class="field field-name-field-dateline field-type-text field-label-inlinec clearfix field-label-inline"><div class="field-label">By&nbsp;</div><div class="field-items"><div class="field-item even">Asi Andrew Fa’asau</div></div></div><div class="field field-name-field-source field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">andrew@samoanews.com</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><em>Pago Pago, AMERICAN SAMOA — </em>The American Samoa Rugby Union is getting ready to send a men’s and women’s national teams to two back-to-back international fixtures early next month.</p>
+<p>The first one is the 2023 Oceania Rugby Sevens Championship which will be hosted for the first time at Ballymore Stadium in Brisbane, Australia and is slated to be held on 10-12 November.</p>
+<p>It is the premier rugby event on the Oceania calendar, being the only competition open to all 17 Member Unions and Associate Members from across the region, and is significant as select teams will be vying for one spot in each of the men’s and women’s sections for the 2024 Paris Olympics.</p>
+<p>The 2023 Oceania Rugby Sevens Championship features 25 teams — 15 men’s teams and 10 women’s teams from 14 countries and territories in the region participating. A total of 18 teams will be vying for Olympics qualification.</p>
+<p>The top-placed men’s and top-placed women’s teams in the Olympic qualification sections will qualify for the 2024 Paris Olympics.</p>
+<p>The women’s Olympic section of the tournament will feature American Samoa, Fiji, Cook Islands, Papua New Guinea, Samoa, Solomon Islands, Tonga and Vanuatu all vying for the sole qualification spot to Paris 2024.</p>
+<p>The Territory’s national women’s sevens team has been named “Segaula” after the green parrot found in only a few parts of the Samoan islands due to its declining numbers. It is very hard to spot because it blends in with the foliage which contrasts with the red feathers on the lower part of its face and blue at the top of its head.</p>
+<p>According to the Segaula Head Coach Tommy Elisara, this is a very special opportunity because it will see the American Samoa women’s team make their International Sevens debut.</p>
+<p>However, Coach Elisara revealed that there are a few challenges they are facing such as the eligibility rules of the tournament which stipulates that team members from Pacific islands which are territories of other countries like American Samoa and Guam, must possess American (US) passports.</p>
+<p>He stated that they have managed to overcome this obstacle by recruiting seven players from the mainland who will join five local players who are US passport holders to make up the 12-member squads from each competing team.</p>
+<p>“Women’s participation in sevens rugby is relatively new,” Coach Elisara pointed out. “And most of our best players were born in Samoa but have relocated here which is why we have had to recruit from the mainland. We need to introduce the sport in local schools and hold competitions for high school teams because there is a lot of raw talent out there that need to be developed.</p>
+<p>“It is very important that we include sevens rugby in the high school sports curriculum because the sport is picking up a lot of popularity in the mainland, and it our kids, both boys and girls have the physique for contact sports like this. It can also provide sports scholarships for our high school students to get through college.”</p>
+<p>The American Samoa Seagull squad is currently training at the Veterans’ Memorial Stadium at Tafuna-Iliili from Mondays to Wednesdays, then on Thursdays, they have body-toning workouts at the Sau Ia Gym at Tafuna, Fridays at Lion’s Park and scrimmages at the Stadium on Saturdays after the high school football games.</p>
+<p>In an interview with Oceania Rugby, President of the American Samoa Rugby Union Falefata Moli Lemana expressed his delight at the progress the union has made in developing the women’s sevens rugby.</p>
+<p>“After 12 years of becoming a full member of World Rugby, the struggles of putting together a women's team to represent American Samoa in the world stage of rugby was surreal,” stated Falefata. “It was very difficult.  Not only is rugby not an American sport, but the mentality of our local people, that rugby is a sport only for men. </p>
+<p>“Nevertheless, we did not give up. Although very few in numbers we explored every avenue to ensure there will be women teams in all of our competitions. The people of American Samoa are very proud in supporting for the first time American Samoa's women's team’s participation in this year's Oceania Olympic Qualifier Tournament. The American Samoa Women’s team, Segaula look forward to bringing their excitement to Brisbane!”</p>
+<p>The Segaula coaching staff comprises Head Coach Tommy Elisara, Manager Annie Coffin and Physio-Trainer Fiona Traill.</p>
+<p>The American Samoa national teams’ (men’s and women’s) travel and accommodation is funded by Oceania Rugby while ASRU will fund their overnight expenses in Apia before they leave for Australia on November 5, 2023.</p>
+<p>The men’s team called “Talavalu” named after one of the weapons Samoan warriors used in combat in ancient days is coached by Head Coach Joko Asotau assisted by Manager Bellasio Koroiadi.</p>
+<p>The American Samoa sevens teams are set to arrive back from Brisbane, Australia on November 13, 2023 and leave the very next day for the 17th Pacific Games in the Solomon Islands with the rest of the American Samoa delegation to the Games on a charter flight!</p>
+<p>“It’s gonna be a long haul for us,” Coach Elisara said. “But there’s nothing we can do because a Solomon Island Airways special flight has been chartered for the whole American Samoa delegation. The sevens competition doesn’t start until November 26th and the chartered return flight departs Honiara on December 5th!”</p>
+<p>He stated that this has posed problems for the Segaula team because their members from the mainland have to return after the tournament in Brisbane, Australia because of work commitments while others are studying at colleges and universities.</p>
+<p>However, the Segaula coach explained that he has managed to solve this problem by having local players standby to make up the team competing in the Pacific Games.</p>
+<p>“Fortunately, the eligibility rules in the Pacific Games are more flexible and allow non-US passport holders to represent American Samoa,” Elisara explained.</p>
+<p>American Samoa will be represented at the 17th Pacific Games in 11 sports.</p>
+<p><img alt="" src="data:image/jpeg;base64,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bAAAAAAAQ250Q2Jvb2wAAAAAAExibHNib29sAAAAAABOZ3R2Ym9vbAAAAAAARW1sRGJvb2wAAAAAAEludHJib29sAAAAAABCY2tnT2JqYwAAAAEAAAAAAABSR0JDAAAAAwAAAABSZCAgZG91YkBv4AAAAAAAAAAAAEdybiBkb3ViQG/gAAAAAAAAAAAAQmwgIGRvdWJAb+AAAAAAAAAAAABCcmRUVW50RiNSbHQAAAAAAAAAAAAAAABCbGQgVW50RiNSbHQAAAAAAAAAAAAAAABSc2x0VW50RiNQeGxAUgAAAAAAAAAAAAp2ZWN0b3JEYXRhYm9vbAEAAAAAUGdQc2VudW0AAAAAUGdQcwAAAABQZ1BDAAAAAExlZnRVbnRGI1JsdAAAAAAAAAAAAAAAAFRvcCBVbnRGI1JsdAAAAAAAAAAAAAAAAFNjbCBVbnRGI1ByY0BZAAAAAAAAAAAAEGNyb3BXaGVuUHJpbnRpbmdib29sAAAAAA5jcm9wUmVjdEJvdHRvbWxvbmcAAAAAAAAADGNyb3BSZWN0TGVmdGxvbmcAAAAAAAAADWNyb3BSZWN0UmlnaHRsb25nAAAAAAAAAAtjcm9wUmVjdFRvcGxvbmcAAAAAADhCSU0D7QAAAAAAEABIAAAAAQABAEgAAAABAAE4QklNBCYAAAAAAA4AAAAAAAAAAAAAP4AAADhCSU0EDQAAAAAABAAAAB44QklNBBkAAAAAAAQAAAAeOEJJTQPzAAAAAAAJAAAAAAAAAAABADhCSU0nEAAAAAAACgABAAAAAAAAAAE4QklNA/UAAAAAAEgAL2ZmAAEAbGZmAAYAAAAAAAEAL2ZmAAEAoZmaAAYAAAAAAAEAMgAAAAEAWgAAAAYAAAAAAAEANQAAAAEALQAAAAYAAAAAAAE4QklNA/gAAAAAAHAAAP////////////////////////////8D6AAAAAD/////////////////////////////A+gAAAAA/////////////////////////////wPoAAAAAP////////////////////////////8D6AAAOEJJTQQIAAAAAAAQAAAAAQAAAkAAAAJAAAAAADhCSU0EHgAAAAAABAAAAAA4QklNBBoAAAAAA0UAAAAGAAAAAAAAAAAAAAEPAAABkAAAAAgASQBNAEcAXwAx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bwBwAAAAEwBBAGQAbwBiAGUAIABQAGgAbwB0AG8AcwBoAG8AcAAgAEMAUwA2AAAAAQA4QklNBAYAAAAAAAcACAAAAAEBAP/hDxdodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczphdXg9Imh0dHA6Ly9ucy5hZG9iZS5jb20vZXhpZi8xLjAvYXV4LyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bXA6UmF0aW5nPSIwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAyMy0xMC0xM1QxMTowNzo1NS0wNzowMCIgeG1wOkNyZWF0ZURhdGU9IjIwMjMtMDctMjJUMTU6MzE6MDUiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjMtMTAtMTNUMTE6MDc6NTUtMDc6MDAiIGF1eDpTZXJpYWxOdW1iZXI9IjU0MjA3NjAwMTA0MiIgYXV4OkxlbnNJbmZvPSIxOC8xIDU1LzEgMC8wIDAvMCIgYXV4OkxlbnM9IkVGLVMxOC01NW1tIGYvMy41LTUuNiBJUyBJSSIgYXV4OkxlbnNJRD0iNTIiIGF1eDpMZW5zU2VyaWFsTnVtYmVyPSIwMDAwNmZmYWY5IiBhdXg6SW1hZ2VOdW1iZXI9IjAiIGF1eDpBcHByb3hpbWF0ZUZvY3VzRGlzdGFuY2U9IjE0NS8xMDAiIGF1eDpGbGFzaENvbXBlbnNhdGlvbj0iMC8xIiBhdXg6RmlybXdhcmU9IjEuMS4wIiBwaG90b3Nob3A6RGF0ZUNyZWF0ZWQ9IjIwMjMtMDctMjJUMTU6MzE6MDUuMDMzIiBwaG90b3Nob3A6Q29sb3JNb2RlPSIzIiBwaG90b3Nob3A6SUNDUHJvZmlsZT0ic1JHQiBJRUM2MTk2Ni0yLjEiIHhtcE1NOkRvY3VtZW50SUQ9Ijk0NjRBOTMwNzg2OEU0QUY2RDAwQzAwM0U4QzA5REYyIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkVBNzg5RjMwMTIyMDY4MTE4QzE0RkVGNjJDODg1OTQ4IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9Ijk0NjRBOTMwNzg2OEU0QUY2RDAwQzAwM0U4QzA5REYyIiBkYzpmb3JtYXQ9ImltYWdlL2pwZWciPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJzYXZlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDpFOTc4OUYzMDEyMjA2ODExOEMxNEZFRjYyQzg4NTk0OCIgc3RFdnQ6d2hlbj0iMjAyMy0xMC0xM1QxMTowNzo1NS0wNzowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoTWFjaW50b3NoKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6RUE3ODlGMzAxMjIwNjgxMThDMTRGRUY2MkM4ODU5NDgiIHN0RXZ0OndoZW49IjIwMjMtMTAtMTNUMTE6MDc6NTUtMDc6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDUzYgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDw/eHBhY2tldCBlbmQ9InciPz7/4gxYSUNDX1BST0ZJTEUAAQEAAAxITGlubwIQAABtbnRyUkdCIFhZWiAHzgACAAkABgAxAABhY3NwTVNGVAAAAABJRUMgc1JHQgAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLUhQICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABFjcHJ0AAABUAAAADNkZXNjAAABhAAAAGx3dHB0AAAB8AAAABRia3B0AAACBAAAABRyWFlaAAACGAAAABRnWFlaAAACLAAAABRiWFlaAAACQAAAABRkbW5kAAACVAAAAHBkbWRkAAACxAAAAIh2dWVkAAADTAAAAIZ2aWV3AAAD1AAAACRsdW1pAAAD+AAAABRtZWFzAAAEDAAAACR0ZWNoAAAEMAAAAAxyVFJDAAAEPAAACAxnVFJDAAAEPAAACAxiVFJDAAAEPAAACAx0ZXh0AAAAAENvcHlyaWdodCAoYykgMTk5OCBIZXdsZXR0LVBhY2thcmQgQ29tcGFueQAAZGVzYwAAAAAAAAASc1JHQiBJRUM2MTk2Ni0yLjEAAAAAAAAAAAAAABJzUkdCIElFQzYxOTY2LTIuMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWFlaIAAAAAAAAPNRAAEAAAABFsxYWVogAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABv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" /></p>
+<p><strong><em>President of the American Samoa Rugby Union Falefata Moli Lemana (right) presenting a monetary prize to the captain of the Laulii Sevens team, which won the final of this year’s ASRU Summer Sevens Tournament against Avele. [photo: Asi A. Fa’asau]</em></strong></p>
+</div></div></div><div class="field field-name-field-section field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Section:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/sports" ><span>Sports</span></a></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/american-samoa-rugby-union" ><span>American Samoa Rugby Union</span></a></div></div></div><div class="field field-name-field-google-ad-prefilled- field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><div align="center">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- samoa --><script>
+<!--//--><![CDATA[// ><!--
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+//--><!]]>
+</script></div>
+</div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Fsports%2Fasru-gets-ready-compete-internationally" ><span>View the discussion thread.</span></a></p></noscript></div> 
+
+<https://www.samoanews.com/sports/asru-gets-ready-compete-internationally>
+
+---
+
+## Kaiser Permanente Reaches Tentative Deal With 75,000 Health Care Workers
+
+date: 2023-10-13, from: The Guam Daily Post
+
+FRIDAY, Oct. 13, 2023 (HealthDay News) -- A tentative deal has been reached between Kaiser Permanente and its 75,000 health care workers following a three-day strike last week. 
+
+<https://www.postguam.com/lifestyles/health/kaiser-permanente-reaches-tentative-deal-with-75-000-health-care-workers/article_4bf094d9-6bf0-50d8-a5ef-dc6537598c39.html>
+
+---
+
+## Use of Hair Relaxers Raises Women's Odds for Uterine Cancer
+
+date: 2023-10-13, from: The Guam Daily Post
+
+FRIDAY, Oct. 13, 2023 (HealthDay News) -- Older Black women who use chemical hair relaxers may be more likely to develop uterine cancer, new research suggests. 
+
+<https://www.postguam.com/lifestyles/health/use-of-hair-relaxers-raises-womens-odds-for-uterine-cancer/article_242848fd-991d-5302-908e-89f7281e6918.html>
+
+---
+
+## N.Korea has sent arms to Russia for use in Ukraine: White House
+
+date: 2023-10-13, from: The Guam Daily Post
+
+North Korea has delivered more than 1,000 containers of military equipment and munitions to Russia in recent weeks for use in Ukraine, the White House said Friday. 
+
+<https://www.postguam.com/news/national/n-korea-has-sent-arms-to-russia-for-use-in-ukraine-white-house/article_e382c09f-3f11-5ec4-bd5d-833663f4a7ed.html>
+
+---
+
+## Fatuoaiga Montessori School photo & caption
+
+date: 2023-10-13, from:  "~Samoa News"
+
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="galleria-content clearfix" id="galleria-6">
+  <a href="https://www.samoanews.com/sites/default/files/styles/article_normal_image/public/field/image/montessori_catholic_ed_week-_1124.jpg?itok=hbit3U3b"  rel="https://www.samoanews.com/sites/default/files/field/image/montessori_catholic_ed_week-_1124.jpg"><span><img src="https://www.samoanews.com/sites/default/files/styles/slideshow/public/field/image/montessori_catholic_ed_week-_1124.jpg?itok=VAnaueQI" width="618" height="350" alt="Fatuoaiga Montessori School students and teachers" /></span></a></div>
+</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>Students, faculty and staff of the Fatuoaiga Montessori School led by Principal Mrs. Maria Telesa (back row, at center) are all smiles as they get together during the opening mass of Catholic Education Week on Sunday, Sept. 24, 2023. [photo: faaTalanoa Media]</p>
+</div></div></div><div class="field field-name-field-section field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Section:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/features" ><span>Features</span></a></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/fatuoaiga-montessori-school" ><span>Fatuoaiga Montessori School</span></a></div><div class="field-item odd"><a href="/catholic-education-week-1" ><span>Catholic Education Week</span></a></div></div></div><div class="field field-name-field-google-ad-prefilled- field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><div align="center">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- samoa --><script>
+<!--//--><![CDATA[// ><!--
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+//--><!]]>
+</script></div>
+</div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Ffeatures%2Ffatuoaiga-montessori-school-photo-caption" ><span>View the discussion thread.</span></a></p></noscript></div> 
+
+<https://www.samoanews.com/features/fatuoaiga-montessori-school-photo-caption>
+
+---
+
+## Monkey Given Gene-Edited Pig Kidney Still Alive Two Years Later
+
+date: 2023-10-13, from: The Guam Daily Post
+
+FRIDAY, Oct. 13, 2023 (HealthDay News) -- Two years after a gene-edited pig kidney was transplanted into a monkey, researchers report the monkey is still alive. 
+
+<https://www.postguam.com/lifestyles/health/monkey-given-gene-edited-pig-kidney-still-alive-two-years-later/article_d33ca45b-4c59-5a0e-b107-d783d8576b3a.html>
+
+---
+
+## College Student 101: Help Take Care of Your Eyes with These 5 Tips
+
+date: 2023-10-13, from: Marianas Variety
+
+(BPT) - While college is often a positive experience, it can also take a take a toll on students' eyes. From intense screen time to late study sessions and nights out with friends, prioritizing eye health may not always be top of mind. While parents may not be there to oversee their children when they’re away at college, they can still share important tips to set them up for success. 
+
+<https://www.mvariety.com/online_features/health_and_wellness/college-student-101-help-take-care-of-your-eyes-with-these-5-tips/article_b89d7a29-4380-5df3-9044-84415a8c9693.html>
+
+---
+
+## Could Tissue-Zapping Procedure Be Non-Antibiotic Option for Recurrent UTIs?
+
+date: 2023-10-13, from: The Guam Daily Post
+
+FRIDAY, Oct. 13, 2023 (HealthDay News) -- For some older women, recurring urinary tract infections — and the antibiotics typically prescribed for them — become a fact of life, but a new study offers a novel treatment that may deliver… 
+
+<https://www.postguam.com/lifestyles/health/could-tissue-zapping-procedure-be-non-antibiotic-option-for-recurrent-utis/article_596fc270-1522-5330-a653-bb74bfc37bd4.html>
+
+---
+
+## Stowaway cat joins neighbors on vacation after hiding for 350 miles
+
+date: 2023-10-13, from: The Guam Daily Post
+
+"We recognized the cat straight away as a cat from our local village." 
+
+<https://www.postguam.com/news/national/stowaway-cat-joins-neighbors-on-vacation-after-hiding-for-350-miles/article_5326ad94-7210-5f00-9812-12175b56c8bc.html>
+
+---
+
+## Beauty queen one step closer to becoming an astronaut
+
+date: 2023-10-13, from: The Guam Daily Post
+
+She recently graduated with an aerospace engineering degree from Liverpool University. 
+
+<https://www.postguam.com/news/national/beauty-queen-one-step-closer-to-becoming-an-astronaut/article_c1104035-e90a-589c-83a7-911f58b2e061.html>
+
+---
+
+## Average employee takes this long to draft an email
+
+date: 2023-10-13, from: The Guam Daily Post
+
+Over half of employees said if an email is too long, they won't bother reading it. 
+
+<https://www.postguam.com/news/national/average-employee-takes-this-long-to-draft-an-email/article_963d23c0-48b3-503c-b844-32b590e8a0bd.html>
+
+---
+
+## Why eating grapes is good for your eyes
+
+date: 2023-10-13, from: The Guam Daily Post
+
+Just a couple of handfuls of grapes a day for four months was shown to improve key markers of eye health. 
+
+<https://www.postguam.com/lifestyles/health/why-eating-grapes-is-good-for-your-eyes/article_06423d17-788e-5a0c-baa5-78addb77fd72.html>
+
+---
+
+## Half of women believe they’re just entering their ‘confidence era’
+
+date: 2023-10-13, from: The Guam Daily Post
+
+Almost half of women believe they’re only just entering their “confidence era.” That’s according to a new survey of 2,000 women over the age of 35 which revealed that with turning 38, the average woman earned a new sense of… 
+
+<https://www.postguam.com/news/national/half-of-women-believe-they-re-just-entering-their-confidence-era/article_c244abc7-1904-5616-b907-b8d56b32ca61.html>
+
+---
+
+## Orbs, Voices, Shadows: 10 Ghost Tours in America To Put On Your Paranormal Radar
+
+date: 2023-10-13, from: The Guam Daily Post
+
+Whispers of ghosts, the occult, and things that lurk in the night have been part of storytelling since the dawn of time. From the Salem Witch Trials to haunted lore found in historic cities across the U.S., paranormal tourism is… 
+
+<https://www.postguam.com/news/national/orbs-voices-shadows-10-ghost-tours-in-america-to-put-on-your-paranormal-radar/article_5920af4f-645f-51cc-a7d9-5ce375dc6828.html>
+
+---
+
+## More Than 7 Million Americans Have Gotten the New COVID Shots
+
+date: 2023-10-13, from: The Guam Daily Post
+
+FRIDAY, Oct. 13, 2023 (HealthDay News) -- Following a rocky rollout, more than 7 million Americans have now gotten the newly updated COVID vaccines. 
+
+<https://www.postguam.com/lifestyles/health/more-than-7-million-americans-have-gotten-the-new-covid-shots/article_df5c587e-f569-5d57-ad68-dfc69dd02b37.html>
+
+---
+
+## Doctor's Group Pulls Paper on 'Excited Delirium,' Often Cited in Cases Involving Excessive Force by Police
+
+date: 2023-10-13, from: The Guam Daily Post
+
+FRIDAY, Oct. 13, 2023 (HealthDay News) -- A paper that has been used in court cases to justify excessive police force was withdrawn Thursday by the American College of Emergency Physicians, a prominent doctor’s group. 
+
+<https://www.postguam.com/lifestyles/health/doctors-group-pulls-paper-on-excited-delirium-often-cited-in-cases-involving-excessive-force-by/article_4fd319de-c255-547a-93ad-d0928b67b269.html>
+
+---
+
+## Abnormal Result on a Cancer Screen? Your Family Doctor Could Be Key to Follow-Up
+
+date: 2023-10-13, from: The Guam Daily Post
+
+FRIDAY, Oct. 13, 2023 (HealthDay News) -- Extra efforts by primary care doctors to reach out to patients who need follow-up after an abnormal cancer test result leads to better results in getting that care, a new clinical trial shows. 
+
+<https://www.postguam.com/lifestyles/health/abnormal-result-on-a-cancer-screen-your-family-doctor-could-be-key-to-follow-up/article_2304e846-b43d-5378-bb68-d07914f2583c.html>
+
+---
+
+## Latest AI Has 100% Success Rate in Spotting Melanomas
+
+date: 2023-10-13, from: The Guam Daily Post
+
+FRIDAY, Oct. 13, 2023 (HealthDay News) -- The ability to detect skin cancer using artificial intelligence (AI) software has rapidly improved. 
+
+<https://www.postguam.com/lifestyles/health/latest-ai-has-100-success-rate-in-spotting-melanomas/article_d5174c89-2973-52c7-b650-6955f200f84d.html>
+
+---
+
+## Smaller Blood Draws for Lab Tests Reduce Need for Transfusions
+
+date: 2023-10-13, from: The Guam Daily Post
+
+FRIDAY, Oct. 13, 2023 (HealthDay News) -- Drawing smaller amounts of blood from patients in the intensive care unit could lead to fewer blood transfusions, according to new research. 
+
+<https://www.postguam.com/lifestyles/health/smaller-blood-draws-for-lab-tests-reduce-need-for-transfusions/article_84df6197-1d43-551a-8f2b-2e2950e454fe.html>
+
+---
+
+## When Lung Cancer Strikes the Young, Women Face Higher Risks Than Men
+
+date: 2023-10-13, from: The Guam Daily Post
+
+FRIDAY, Oct. 13, 2023 (HealthDay News) -- New research uncovers troubling trends for lung cancer in young and middle-aged women. 
+
+<https://www.postguam.com/lifestyles/health/when-lung-cancer-strikes-the-young-women-face-higher-risks-than-men/article_a37f2a7b-461d-54f8-8dfd-7e6c9fd2f0b9.html>
+
+---
+
+## CNMI House passes imported betel nut tax bill
+
+date: 2023-10-13, from: The Guam Daily Post
+
+The Commonwealth of the Northern Mariana Islands House of Representatives on Thursday passed CNMI House Bill 23-41 which would impose an excise tax on imported betel nut and lime mix. 
+
+<https://www.postguam.com/news/cnmi/cnmi-house-passes-imported-betel-nut-tax-bill/article_c7bd90dc-6954-11ee-81a1-2f63ab30c4fb.html>
+
+---
+
+## Resolution 215 adopted, Bill 164 placed on emergency session agenda
+
+date: 2023-10-13, from: The Guam Daily Post
+
+Lawmakers passed a resolution Thursday urging the governor to recognize that the conditions at the island’s only public hospital warrant the declaration of a state of emergency. 
+
+<https://www.postguam.com/news/local/resolution-215-adopted-bill-164-placed-on-emergency-session-agenda/article_362a6328-68c0-11ee-ab9e-27aa92fbbe0b.html>
+
+---
+
+## NWS: Monsoon tail over Marianas, typhoon season not over
+
+date: 2023-10-13, from: The Guam Daily Post
+
+A few days have passed since Typhoon Bolaven departed the Marianas, but the weather hasn't been letting up. Residents up and out early Friday morning would have done well to bring along an umbrella or raincoat, as heavy rains poured… 
+
+<https://www.postguam.com/news/local/nws-monsoon-tail-over-marianas-typhoon-season-not-over/article_c654f3de-6963-11ee-9ce1-578aa1e561cc.html>
+
+---
+
+## Port nominees fail to make session agenda
+
+date: 2023-10-13, from: The Guam Daily Post
+
+All four nominees for the Port Authority of Guam board of directors failed to make the session agenda during a Committee on Rules meeting Thursday. 
+
+<https://www.postguam.com/news/local/port-nominees-fail-to-make-session-agenda/article_66f9b6ec-689e-11ee-b2a2-1fdaf7444b8f.html>
+
+---
+
+## GACS teacher arrested, no longer employed
+
+date: 2023-10-13, from: The Guam Daily Post
+
+A teacher who allegedly handled a second grade student inappropriately at Guahan Academy Charter School has been arrested and is no longer an employee of the school. 
+
+<https://www.postguam.com/news/local/gacs-teacher-arrested-no-longer-employed/article_86aa40ae-6981-11ee-af72-c39bd51dfc34.html>
+
+---
+
+## Senators question governor’s proposal to help GMH
+
+date: 2023-10-13, from: The Guam Daily Post
+
+The governor’s draft bill was not on the emergency session agenda, but her proposal quickly became the topic of discussion before the Guam Legislature's Committee of the Whole relative to Bill 164-37. 
+
+<https://www.postguam.com/news/local/senators-question-governor-s-proposal-to-help-gmh/article_bf4bf080-697f-11ee-8c87-4fcdd5c69ed5.html>
+
+---
+
+## CHamoru and Carolinian mwar practitioners share their culture
+
+date: 2023-10-13, from: The Guam Daily Post
+
+SAIPAN – The Marianas Experience at T Galleria in Garapan, Saipan, in the Commonwealth of the Northern Mariana Islands, has been delighting visitors and residents since July 2023 with free interactive activities highlighting indigenous culture and Marianas history, the Marianas… 
+
+<https://www.postguam.com/news/cnmi/chamoru-and-carolinian-mwar-practitioners-share-their-culture/article_5ec622fe-6951-11ee-82c7-d70eb4ea3e6e.html>
+
+---
+
+## FEMA job fair rescheduled to Nov. 8
+
+date: 2023-10-13, from: The Guam Daily Post
+
+As Guam residents continue the journey toward recovery from Typhoon Mawar, the Federal Emergency Management Agency is opening additional local hire positions to help the community recover and rebuild, the Joint Information Center announced in a press release. 
+
+<https://www.postguam.com/news/local/fema-job-fair-rescheduled-to-nov-8/article_0c96906e-6964-11ee-bcef-bfcd838378be.html>
+
+---
+
+## Anigua shelter may begin operations next year
+
+date: 2023-10-13, from: The Guam Daily Post
+
+Renovations are steadily progressing for the apartment facility in Anigua being turned into a homeless shelter and resources site, according to Robert San Agustin, the director of the Office of Homelessness Assistance and Poverty Prevention. 
+
+<https://www.postguam.com/news/local/anigua-shelter-may-begin-operations-next-year/article_1a25d5d0-6975-11ee-a671-4795e031d630.html>
+
+---
+
+## Guam Habitat Conservation Plan public meeting to be held this month
+
+date: 2023-10-13, from: The Guam Daily Post
+
+A Guam Habitat Conservation Plan public meeting will take place this month at the University of Guam, open to the public to further discuss the plan's development and review questions and feedback from residents, UOG announced recently in a press… 
+
+<https://www.postguam.com/news/local/guam-habitat-conservation-plan-public-meeting-to-be-held-this-month/article_9297ec62-6964-11ee-a70e-0fa2b0619ae1.html>
+
+---
+
+## Acting governor orders creation of GMHA fiscal review committee
+
+date: 2023-10-13, from: The Guam Daily Post
+
+Acting Gov. Josh Tenorio has signed an executive order establishing a Guam Memorial Hospital Authority Fiscal Review Committee. 
+
+<https://www.postguam.com/news/local/acting-governor-orders-creation-of-gmha-fiscal-review-committee/article_825fee7e-699d-11ee-b7d8-5b712e53f69d.html>
+
+---
+
+## 'Swifties' flock to movie theaters for record-breaking 'Eras' film
+
+date: 2023-10-13, from: The Guam Daily Post
+
+Taylor Swift fans sporting friendship bracelets and glittery cowboy boots packed into early screenings of the pop megastar's concert film at movie theaters across the United States on Thursday. 
+
+<https://www.postguam.com/news/national/swifties-flock-to-movie-theaters-for-record-breaking-eras-film/article_e16c5340-f261-5a09-9b51-cfd77d3174dd.html>
+
+---
+
+## Wan Solwara launch celebrates a creative connection across the ocean
+
+date: 2023-10-13, from: Post Courier (PNG)
+
+<figure><img width="800" height="600" src="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Wan-Solwara1.jpg?w=800" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Wan-Solwara1.jpg 800w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Wan-Solwara1.jpg?resize=768,576 768w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Wan-Solwara1.jpg?resize=600,450 600w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Wan-Solwara1.jpg?resize=400,300 400w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Wan-Solwara1.jpg?resize=200,150 200w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Wan-Solwara1.jpg?resize=706,530 706w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Wan-Solwara1.jpg?resize=150,113 150w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="442820" data-permalink="https://www.postcourier.com.pg/wan-solwara-launch-celebrates-a-creative-connection-across-the-ocean/wan-solwara1/" data-orig-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Wan-Solwara1.jpg" data-orig-size="800,600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Wan-Solwara1" data-image-description="" data-image-caption="" data-medium-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Wan-Solwara1.jpg?w=300" data-large-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Wan-Solwara1.jpg?w=800" /></figure>
+<p>Wan Solwara (One Ocean), a collaboration between Indigenous Australian and young Bougainvillean musicians was launched on Wednesday, October 4, 2023, in Buka town, AROB.</p>
+<p>The post <a rel="nofollow" href="https://www.postcourier.com.pg/wan-solwara-launch-celebrates-a-creative-connection-across-the-ocean/">Wan Solwara launch celebrates a creative connection across the ocean</a> appeared first on <a rel="nofollow" href="https://www.postcourier.com.pg">Post Courier</a>.</p>
+ 
+
+<https://www.postcourier.com.pg/wan-solwara-launch-celebrates-a-creative-connection-across-the-ocean/>
+
+---
+
+## Casket of Late member arrives in WHP
+
+date: 2023-10-13, from: Post Courier (PNG)
+
+<figure><img width="800" height="600" src="https://www.postcourier.com.pg/wp-content/uploads/2023/10/late-Dei-MP.jpg?w=800" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.postcourier.com.pg/wp-content/uploads/2023/10/late-Dei-MP.jpg 800w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/late-Dei-MP.jpg?resize=768,576 768w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/late-Dei-MP.jpg?resize=600,450 600w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/late-Dei-MP.jpg?resize=400,300 400w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/late-Dei-MP.jpg?resize=200,150 200w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/late-Dei-MP.jpg?resize=706,530 706w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/late-Dei-MP.jpg?resize=150,113 150w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="442809" data-permalink="https://www.postcourier.com.pg/casket-of-late-member-arrives-in-whp/late-dei-mp/" data-orig-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/late-Dei-MP.jpg" data-orig-size="800,600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="late-Dei-MP" data-image-description="" data-image-caption="" data-medium-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/late-Dei-MP.jpg?w=300" data-large-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/late-Dei-MP.jpg?w=800" /></figure>
+<p>The Casket of Late Member for Dei District Steven Pim has arrived in Western Highlands Province today.</p>
+<p>The post <a rel="nofollow" href="https://www.postcourier.com.pg/casket-of-late-member-arrives-in-whp/">Casket of Late member arrives in WHP</a> appeared first on <a rel="nofollow" href="https://www.postcourier.com.pg">Post Courier</a>.</p>
+ 
+
+<https://www.postcourier.com.pg/casket-of-late-member-arrives-in-whp/>
+
+---
+
+## Bill to designate Tamuning as the site of a new Guam hospital 
+
+date: 2023-10-13, from: Pacific Island Times
+
+By Pacific Island Times News Staff Sen. Chris Barnett on Friday introduced a bill that would designate Tamuning as the site of a new... 
+
+<https://www.pacificislandtimes.com/post/bill-to-designate-tamuning-as-the-site-of-a-new-guam-hospital>
+
+---
+
+## Joint feasibility study set for a possible free trade agreement between PNG and China
+
+date: 2023-10-13, from: Island Business, news break
+
+<p>A joint feasibility study is set to begin next week for a possible free trade agreement between Papua New Guinea and China. According to The National, International Trade and Investment Richard Maru said the cost of the study was K3 million (US$813,000) and the national government had allocated K2 million (US$542,000) while the Chinese government [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://islandsbusiness.com/news-break/png-trade/">Joint feasibility study set for a possible free trade agreement between PNG and China</a> appeared first on <a rel="nofollow" href="https://islandsbusiness.com">Islands Business</a>.</p>
+ 
+
+<https://islandsbusiness.com/news-break/png-trade/>
+
+---
+
+## New York man caught smuggling butterflies from Solomon Islands
+
+date: 2023-10-13, from: Island Business, news break
+
+<p>A New York man from Long Island was charged Tuesday with smuggling more than US$200,000 worth of wildlife in and out of the Solomon Islands. This included deceased butterflies known as “birdwings,” which are known for their impressive size and bird-like flight. According to prosecutors, Charles Limmer, 75, from Commack, allegedly conspired with others to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://islandsbusiness.com/news-break/solomon-butterfly/">New York man caught smuggling butterflies from Solomon Islands</a> appeared first on <a rel="nofollow" href="https://islandsbusiness.com">Islands Business</a>.</p>
+ 
+
+<https://islandsbusiness.com/news-break/solomon-butterfly/>
+
+---
+
+## Commonwealth Finance Ministers meet in Marrakesh to tackle overlapping global crises
+
+date: 2023-10-13, from: Island Business, news break
+
+<p>Commonwealth Finance Ministers met this week in Marrakesh, Morocco to discuss the reform of the global financial architecture, with particular attention to two pivotal areas, scaling up development finance and addressing debt vulnerabilities. Meeting on the sidelines of the World Bank and International Monetary Fund (IMF) annual meetings, the session was chaired by Professor Biman [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://islandsbusiness.com/news-break/finance-architecture/">Commonwealth Finance Ministers meet in Marrakesh to tackle overlapping global crises</a> appeared first on <a rel="nofollow" href="https://islandsbusiness.com">Islands Business</a>.</p>
+ 
+
+<https://islandsbusiness.com/news-break/finance-architecture/>
+
+---
+
+## World Bank targets dirty subsidies to fund climate action
+
+date: 2023-10-13, from: Island Business, news break
+
+<p>The World Bank is seeking to persuade governments to take money away from subsidies for fossil fuels and invest it in good causes like climate change. Governments around the world currently spend over half a trillion dollars a year on making the use of fossil fuels cheaper and the bank wants some of this to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://islandsbusiness.com/news-break/world-bank-climate-subsidies/">World Bank targets dirty subsidies to fund climate action</a> appeared first on <a rel="nofollow" href="https://islandsbusiness.com">Islands Business</a>.</p>
+ 
+
+<https://islandsbusiness.com/news-break/world-bank-climate-subsidies/>
+
+---
+
+## Whipps: Palauans beginning to doubt US commitment
+
+date: 2023-10-13, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The Palauan government is under pressure to convince its citizens that being in the crosshairs of China as a result... 
+
+<https://www.pacificislandtimes.com/post/whipps-palauans-beginning-to-doubt-us-commitment>
+
+---
+
+## Manetai project nears drilling, says President
+
+date: 2023-10-13, from: Post Courier (PNG)
+
+<figure><img width="800" height="600" src="https://www.postcourier.com.pg/wp-content/uploads/2023/10/p-5.jpg?w=800" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.postcourier.com.pg/wp-content/uploads/2023/10/p-5.jpg 800w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/p-5.jpg?resize=768,576 768w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/p-5.jpg?resize=600,450 600w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/p-5.jpg?resize=400,300 400w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/p-5.jpg?resize=200,150 200w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/p-5.jpg?resize=706,530 706w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/p-5.jpg?resize=150,113 150w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="442761" data-permalink="https://www.postcourier.com.pg/manetai-project-nears-drilling-says-president/p-34/" data-orig-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/p-5.jpg" data-orig-size="800,600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="p" data-image-description="" data-image-caption="" data-medium-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/p-5.jpg?w=300" data-large-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/p-5.jpg?w=800" /></figure>
+<p>The Manetai Limestone Project in Bougainville is set to go into its next phase of development as road access clearance and grubbing work in the project area paves the way for limestone resource drilling.</p>
+<p>The post <a rel="nofollow" href="https://www.postcourier.com.pg/manetai-project-nears-drilling-says-president/">Manetai project nears drilling, says President</a> appeared first on <a rel="nofollow" href="https://www.postcourier.com.pg">Post Courier</a>.</p>
+ 
+
+<https://www.postcourier.com.pg/manetai-project-nears-drilling-says-president/>
+
+---
+
+## New Ireland elders meet in Kavieng
+
+date: 2023-10-13, from: Post Courier (PNG)
+
+<figure><img width="800" height="600" src="https://www.postcourier.com.pg/wp-content/uploads/2023/10/k-7.jpg?w=800" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.postcourier.com.pg/wp-content/uploads/2023/10/k-7.jpg 800w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/k-7.jpg?resize=768,576 768w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/k-7.jpg?resize=600,450 600w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/k-7.jpg?resize=400,300 400w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/k-7.jpg?resize=200,150 200w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/k-7.jpg?resize=706,530 706w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/k-7.jpg?resize=150,113 150w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="442766" data-permalink="https://www.postcourier.com.pg/new-ireland-elders-meet-in-kavieng/k-28/" data-orig-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/k-7.jpg" data-orig-size="800,600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="k" data-image-description="" data-image-caption="" data-medium-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/k-7.jpg?w=300" data-large-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/k-7.jpg?w=800" /></figure>
+<p>The 12th Council of Elders Conference this week is formulating resolutions from discussions over the past two days.</p>
+<p>The post <a rel="nofollow" href="https://www.postcourier.com.pg/new-ireland-elders-meet-in-kavieng/">New Ireland elders meet in Kavieng</a> appeared first on <a rel="nofollow" href="https://www.postcourier.com.pg">Post Courier</a>.</p>
+ 
+
+<https://www.postcourier.com.pg/new-ireland-elders-meet-in-kavieng/>
+
+---
+
+## I want to win it, Holbrook reveals target
+
+date: 2023-10-13, from: Post Courier (PNG)
+
+<figure><img width="800" height="600" src="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Hollbrook.jpg?w=800" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Hollbrook.jpg 800w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Hollbrook.jpg?resize=768,576 768w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Hollbrook.jpg?resize=600,450 600w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Hollbrook.jpg?resize=400,300 400w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Hollbrook.jpg?resize=200,150 200w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Hollbrook.jpg?resize=706,530 706w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Hollbrook.jpg?resize=150,113 150w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="442622" data-permalink="https://www.postcourier.com.pg/i-want-to-win-it-holbrook-reveals-target/hollbrook-2/" data-orig-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Hollbrook.jpg" data-orig-size="800,600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Hollbrook" data-image-description="" data-image-caption="" data-medium-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Hollbrook.jpg?w=300" data-large-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Hollbrook.jpg?w=800" /></figure>
+<p>Yet to even sit on the seat at the sideline as the national coach for the PNG Kumuls, the newly appointed mentor Justin Holbrook has spilled his beans, saying that winning the Pacific Championship challenge Bowl for the country is the aim.</p>
+<p>The post <a rel="nofollow" href="https://www.postcourier.com.pg/i-want-to-win-it-holbrook-reveals-target/">I want to win it, Holbrook reveals target</a> appeared first on <a rel="nofollow" href="https://www.postcourier.com.pg">Post Courier</a>.</p>
+ 
+
+<https://www.postcourier.com.pg/i-want-to-win-it-holbrook-reveals-target/>
+
+---
+
+## Earthquake assessment report pending, disaster office legless
+
+date: 2023-10-13, from: Post Courier (PNG)
+
+<figure><img width="800" height="600" src="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Disaster_Assesment.jpg?w=800" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Disaster_Assesment.jpg 800w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Disaster_Assesment.jpg?resize=768,576 768w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Disaster_Assesment.jpg?resize=600,450 600w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Disaster_Assesment.jpg?resize=400,300 400w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Disaster_Assesment.jpg?resize=200,150 200w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Disaster_Assesment.jpg?resize=706,530 706w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Disaster_Assesment.jpg?resize=150,113 150w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="442522" data-permalink="https://www.postcourier.com.pg/earthquake-assessment-report-pending-disaster-office-legless/disaster_assesment/" data-orig-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Disaster_Assesment.jpg" data-orig-size="800,600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Disaster_Assesment" data-image-description="" data-image-caption="" data-medium-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Disaster_Assesment.jpg?w=300" data-large-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Disaster_Assesment.jpg?w=800" /></figure>
+<p>Madang is yet to put together a disaster assessment report for the double earthquake that rocked the province last Saturday.</p>
+<p>The post <a rel="nofollow" href="https://www.postcourier.com.pg/earthquake-assessment-report-pending-disaster-office-legless/">Earthquake assessment report pending, disaster office legless</a> appeared first on <a rel="nofollow" href="https://www.postcourier.com.pg">Post Courier</a>.</p>
+ 
+
+<https://www.postcourier.com.pg/earthquake-assessment-report-pending-disaster-office-legless/>
+
+---
+
+## TALA MAI I LE FONO FAITULAFONO
+
+date: 2023-10-13, from:  "~Samoa News"
+
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="galleria-content clearfix" id="galleria-7">
+  <div id="photowithcaption"><a href="https://www.samoanews.com/sites/default/files/styles/article_normal_image/public/field/image/fono_new_bldg_88.jpg?itok=whK69iwD"  rel="https://www.samoanews.com/sites/default/files/field/image/fono_new_bldg_88.jpg"><span><img src="https://www.samoanews.com/sites/default/files/styles/slideshow/public/field/image/fono_new_bldg_88.jpg?itok=D2ApF-_4" width="618" height="350" alt="" /></span></a><br />
+<blockquote class"image_field_caption">
+ <div id="capption"> [ata: foa'i]</div>
+</blockquote></div>
+</div>
+</div></div></div><div class="field field-name-field-dateline field-type-text field-label-inlinec clearfix field-label-inline"><div class="field-label">By&nbsp;</div><div class="field-items"><div class="field-item even">Lali Staff</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;">Pago Pago - AMERIKA SAMOA</p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><strong><span style="font-kerning: none">FAAOPOOPO SE TOATASI I LE KOMITI FAAFOE A LE TBAS, TE’ENA SUI FAAULU A LE DBAS</span></strong></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">I le amataga o le vaiaso, ae e le i alo atu le Maota Fono mo la latou malologa umi, na pasia ai e le Senate ia le susuga ia Maae Tuiasosopo, e avea ma se totino o le komiti faafoe o le Faletupe a le Teritori o Amerika Samoa (TBAS).</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Na ta’ua i se tusi mai i le Peresetene o le Senate, le afioga Tuaolo Manaia Fruean, i le aso 27 o Setema 2023, le faaulufaleina e le afioga i le sui kovana ia Talauega E. V. Ale ia ni suafa se tolu, e aofia ai Maae Tuiasosopo, Leilua Stevenson ma Ruth Matagi, e faatumuina avanoa e tolu, lea na faamutaina ia Fepuari 14, 2023.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ua suitulaga nei ia le susuga Tuiasosopo ia Manu’a Chen lea na faamutaina ia Fepuari 14, 2023 lona tofiga.  O Stevenson ma Matagi, ua toe pasiaina ma o le a fa’aauauina o la tiute i totonu o le komiti faafoe a le TBAS, ina ua faamutaina le aoga o a la tofiga ia Fepuari 14, 2023.  </span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">O le umi o le a tautua ai i latou nei, o le a au atu ia Fepuari 14, 2027.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Na ta’ua e le afioga i le kovana sili, o i latou uma nei, ua lava le tomai faapitoa i tulaga tau tupe, pisinisi ma faletupe, e mafai ai ona o latou taitaia le TBAS.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Sa na o le susuga Maae na mafai ona auai atu i le iloiloga puupuu a le Senate.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Na ta’ua e le afioga i le Peresetene o le Senate, lea o lo o avea ma taitaifono o le Komiti Faafoe o Litaea mot agata faigaluega a le Malo, le lava o le tomai i le susuga a Maae, ona o ia foi o se tasi o totino o la latou komiti faafoe, ma o ia foi o se tagata fa’atuatuaina.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Sa mafai ona pasiaina e le Senate nei tofiga, i se palota 14 ioe, ma le leai o se faatu’iese.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><strong><span style="font-kerning: none">TE’ENA SUI FAAULU MO LE KOMITI FAAFOE A LE DBAS</span></strong></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">I le tauaofiaga ale Maota Fono i le vaiaso ua mavae, sa te’ena ai e le Senate ia le suafa o Eseneiaso Liu, lea na faaulufaleina mai e le kovana, e avea ma totino o le Komiti Faafoe a le Faletupe o Atinae a Amerika Samoa (DBAS).</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Sa le umi lava le iloiloga o le tofiga a Liu, ma sa aloaia e afioga Senatoa lana tautua i le tele o tausaga mo le malo o Amerika Samoa ma ona tagata.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ae peitai, ina ua tu’u atu i le palota lona suafa, e toafitu Senatoa na tali i le Ioe, ae toatolu sa te’ena lona tofiga.  E sefulu ni palota ioe e manaomia le pasia ai o lenei tofiga.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">O lea na talosagaina ai e le Taitaifono o le Komiti o Tulafono, le afioga i le Senatoa ia Malaepule Saite Moliga, faapea totino o le komiti faafoe a le DBAS, ina ia ta’atia iloiloga mo isi totino o le komiti faafoe, seia toe taliu mai sui faitulafono mai i le latou malologa umi, ua alo atu nei iai.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ae peitai, sa finauina e le afioga i le Peresetene o le Senate le fa’aauauina pea o iloiloga ona e manaomia ona fa’aauau galuega a le malo.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">E na o le Senate e palotaina totino mo komiti faafoe a le TBAS ma le DBAS.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><strong><span style="font-kerning: none">ILOILOGA A FAIPULE I GALUEGA I LUGA O ALATELE</span></strong></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">O le aso Lulu o le vaiaso ua mavae, Oketopa 4, 2023, sa auai atu ai le tamaitai faatonusili o le DPW, ia Faleosina Voigt ma lana soa tau, le sui faatonusili ia Fa’alavai Taase, i se iloiloga a le Komiti o Galuega Lautele a le Maota o Sui, aua se ripoti lata mai i galuega mo le faaleleia o le alatele a Amerika Samoa.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ina ua fesiligia e le afioga i le Faipule mai Vaifanua, ia Shawn O. Va’a ia se ripoti lata mai i le teuteuina o la’au i tafa ala mai Afono e pa’ia Vatia, lea o lo fai ma faafitauli i femalagaiga o pasi aoga, sa saunoa Voigt, e tusa ai ma se tala mai i le pulesili o le ASPA, o Wallon Young, e le o lava ni a latou ta’avale e iai ato e mafai ona au i luga o la’au e faia lea galuega.  O lea ua o latou a’apa atu nei i le ASTCA ma nisi o pisinisi tua mo se fesoasoani i lea tulaga.  </span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">O se fesili mai i le afioga i le Faipule o le itumalo a Sua #1, ia Luaitaua Gene Pan mo Voigt, sa ia fia malamalama ai i galuega o lo o faia i luga o alatele, po o le tulaga faaletonu o alatele ona o nei galuega, ma o lo o ia fia malamalama po o faapefea ona fofoina ia faafitauli.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Na saunoa Faleosina, o so’o se galuega lava e fai e kamupani tua, mo le malo o Amerika Samoa, e tusa lava pe totogi i tupe a le malo lotoifale pe feterale, o le tiute lea a lena kamupani e fai pe a mae’a le latou galuega i luga o le alatele, o le toe faaleleia lea o le auala.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Na fesiligia e le afioga i le Faipule mai i Manu’a, ia Fa’auifono Vaitautolo, po o ai lea o lo o gafa ma le vaaia o galuega ia e fai e kamupani tua.  Sa tali Faleosina, o le DPW.  Na saunoa le tamaitai faatonusili, o so’o se taimi lava e mae’a ai se galuega a nei kamupani faakonakarate, ona o latou aumai lea o a latou pili e totogi, ma o ai lava o le latou ofisa e gafa ma ia galuega, e na te sainia muamua nei pili, e faamautinoa ai ua mae’a le galuega.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Sa faamanatu mai e le afioga i le Faipule o le itumalo o Sua #2, ia Avagafono Tuavao Vaimaga Maiava, ia le galuega o loma nei mo le alatele i Masausi, lea e amata atu i le fale faatali pasi seia taunuu i le falesa i Masausi.  Na fautuaina e Avagafono le tatau ona faamuamua o lea galuega, ona o lea ua fa’ato’a pasia le pili mo le faatupeina o lea galuega.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Na fia iloa e le afioga i le Faipule ia Vailoata Eteuati Amituanai, po o iai se fuafuaga a le tamaitai faatonusili ma lana ofisa, mo le toe faaolaina o le ‘tramway’ lea i Utulei.  Na tali mai le sui faatonusili o le DPW, e leai se fuafuaga a le DPW  mo le faaleleia o fanua lea o lo o iai le ‘tramway’ ona o lologa ia e a’afia ai aiga o lo o nonofo i lea vaega o Utulei.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Na toe fesili Vailoata po o ai e gafa ma uaea o le ‘tramway’ lea o lo o iai lava i luga o le mauga i Utulei ona o lo o tete’e mai le ofisa o lo o gafa ma le puipuiga o tala faasolopito o le teritori.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><strong><span style="font-kerning: none">ISI MATAUPU A LE MAOTA O SUI</span></strong></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ua malolo nei le Maota Fono mo le latou malologa umi lea fa’ato’a toe tatala aloaia i le tausaga fou, seia vagana e talo e le Kovana Sili se tauaofiaga faapitoa.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">I se iugafono aufaatasi a le Senate, o lo o faatonuina ai le Loia Sili ina ia talosagaina le Faamasinoga Maualuga, e filifilia se loia tutoatasi, e na te suesueina le faaaogaina o le $36 miliona, e aunoa ma le pasiaina mai e le Fono Faitulafono.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ua tu’uina atu nei e le afioga i le Fofoga Fetalai, ia Savali Talavou Ale, ia lea pili i le taitaifono o le Komiti o Paketi ma Tupe Fa’asoasoa a le Maota o Sui, le susuga Vailoata Amituanai faapea le taitaifono o le Komiti o Faamasinoga ma Tulafono, le susuga Tapai Alailepule Tapai.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">O le masina o Ianuari i le tausaga fou, o le a toe tatalaina aloaia ai tauaofiaga lona 38 a le Fono Faitulafono.</span></p>
+</div></div></div><div class="field field-name-field-section field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Section:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/le-lali" ><span>Le Lali</span></a></div></div></div><div class="field field-name-field-google-ad-prefilled- field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><div align="center">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- samoa --><script>
+<!--//--><![CDATA[// ><!--
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+//--><!]]>
+</script></div>
+</div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Flali%2Ftala-mai-fono-faitulafono-1" ><span>View the discussion thread.</span></a></p></noscript></div> 
+
+<https://www.samoanews.com/lali/tala-mai-fono-faitulafono-1>
+
+---
+
+## Kaski is new head of Kerevat CS
+
+date: 2023-10-13, from: Post Courier (PNG)
+
+<figure><img width="800" height="600" src="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Garath.jpg?w=800" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Garath.jpg 800w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Garath.jpg?resize=768,576 768w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Garath.jpg?resize=600,450 600w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Garath.jpg?resize=400,300 400w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Garath.jpg?resize=200,150 200w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Garath.jpg?resize=706,530 706w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Garath.jpg?resize=150,113 150w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="442521" data-permalink="https://www.postcourier.com.pg/kaski-is-new-head-of-kerevat-cs/garath/" data-orig-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Garath.jpg" data-orig-size="800,600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Garath" data-image-description="" data-image-caption="" data-medium-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Garath.jpg?w=300" data-large-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Garath.jpg?w=800" /></figure>
+<p>Former Kerevat CS commander Chief Superintendent Margareth Garap, known to many convicts as ‘Mama Blo Banis’, has called it quits after 47 years in the Department of Correctional Service.</p>
+<p>The post <a rel="nofollow" href="https://www.postcourier.com.pg/kaski-is-new-head-of-kerevat-cs/">Kaski is new head of Kerevat CS</a> appeared first on <a rel="nofollow" href="https://www.postcourier.com.pg">Post Courier</a>.</p>
+ 
+
+<https://www.postcourier.com.pg/kaski-is-new-head-of-kerevat-cs/>
+
+---
+
+## O OE O LO’U TAMA?
+
+date: 2023-10-13, from:  "~Samoa News"
+
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="galleria-content clearfix" id="galleria-8">
+  <div id="photowithcaption"><a href="https://www.samoanews.com/sites/default/files/styles/article_normal_image/public/field/image/fagogo_o_oe_o_lou_tama_7.jpg?itok=Q4QBNZAC"  rel="https://www.samoanews.com/sites/default/files/field/image/fagogo_o_oe_o_lou_tama_7.jpg"><span><img src="https://www.samoanews.com/sites/default/files/styles/slideshow/public/field/image/fagogo_o_oe_o_lou_tama_7.jpg?itok=xPF3fokY" width="618" height="350" alt="" /></span></a><br />
+<blockquote class"image_field_caption">
+ <div id="capption"> [ata: SN]</div>
+</blockquote></div>
+</div>
+</div></div></div><div class="field field-name-field-dateline field-type-text field-label-inlinec clearfix field-label-inline"><div class="field-label">By&nbsp;</div><div class="field-items"><div class="field-item even">Okalani Etuati</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><strong>VAEGA 12</strong></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><em><span style="font-kerning: none">Taeao Manuia, Taeao Toto’a i le mamalu o le tatou aufaitau nusipepa i lenei taeao fou.  Tatou te tau fai si’i le Viiga ma le Faamanu i le Atua Silisili Ese i lana tausiga alofa ma lana tausiga mamana ia i tatou uma, ua mafai ai ona o tatou toe fesilifai i luma o nu’u, ae le o tua o nu’u, i lenei taeao fou.  E faafeiloai atu foi i tina ma tama matutua ua mafai ona aulia mai lenei taeao matagofie i le pule alofa a lo tatou Tapa’au i le Lagi.  Ae saga’i mai loa, o le a toe soso’o atu le tatou fagogo “O OE O LO’U TAMA?” i lona vaega 12.</span></em></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">***************************************</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Na pei a pe le fatu o le tina ia Eseta ina ua alu atu i le potu o lana tama o Naomi, ae ua leai se Naomi o iai.  “Kagielu! Kagielu! Ua leai se Gaomi!” O le valaau leotele atu lea a Eseta i lona toalua o Tanielu, ma tamo’e atu lava i le la faleaiga, i le mea o lo o tapena mai ai e Tanielu ia gasu o le ti o le taeao.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">“E a lau tala?” o le fesili mai lea a Tanielu ma le popole o lona loto.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">“Ua leai se Naomi mai lona potu.  Ae ou te le i vaai foi ua usu,” o le tali mai lea a Eseta.  “Se’i valaau ia Ruta ma Iakopo pe la te le’i vaai ia Naomi ananei i le taeao.  Ma siaki le falemai pe ua taunuu.” </span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">O le avaavau atu lava lea a Naomi ma tago i lana telefoni e valaau lana fanau matutua pe na vaai i le teine laititi, ae o le taimi lea ua vili ai e le tamaloa o Tanielu ia le falemai e vaai pe u ausu Naomi.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">“Oi, faamalie atu Papa,” o le tali mai lea a Naomi mai i le falemai.  “O lea na ou usupo mai ananei e ma te talanoa ma la’u pule.  Faamalie atu ua ou faapopoleina oulua ma Mama.  Ae e se’i uma ona ou alu atu lea tatou te talanoa.”</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ua tau alu ifo i lalo suka a le ulugalii o Tanielu ma Eseta, ina ua la iloa, o la e okay si a la tama.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ae o le taimi lea, o lo o tau sema lava se taimi o Naomi e alu ai e talanoa ma lana pule, e faamavae iai, ona ua tonu i lona loto, o ia o le a faamavae mai i lana galuega, ae e le i iloa e Salome, o ia lea na la aooga faatasi.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Manatua foi, o le taimi lea na aooga faatasi ai Salome ma Naomi, o la e lapo’a si teine o Naomi.  Ma o leisi lea mea na matuai fuli ai lava Salome e fai, o le ula i le tino lapo’a o si teine o Naomi.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ua o’o i le malologa o le aoalu, ae savali atu loa Naomi e agai atu i le ofisa a lona pule, ae o la fetaui tutu lava ma le alii fomai o Taki o lo o savali atu agai i le potu malolo a fomai ma tausima’i.  </span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Na tilotilo atu Taki ia Naomi ma ona manatua ai le teine lea sa tamo’e ausulusulu i le fale faatali pasi i le aso lea na se’i mavae atu, ae o lo o tagi.  Ua pupula to’a atu Taki ia Naomi ma ia iloa ai, o le tamaitai lea sa ona vaai iai.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ua ata atu Taki ia Naomi, ae ona o lo o mamafa lava si avega o lo o amo nei e Naomi, sa leai ma se ata mai i le alii fomai, ae ua na o le savali ese atu.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ua tu le alii fomai o Taki ma tilotilo mai i le savali ese atu o Naomi.  Ona ia liliu lea ma alu agai i le potu o iai fomai ma tausimai.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">A’o iai Taki i totonu o lea potu, sa faasolo lana vaai i luga o le laupapa lea o lo o faapipi’i ai fa’aaliga ma puletini a fomai ma tausimai.  Ma tau ai lana vaai i le pepa lea sa faapipi’i ai e Naomi le fa’aaliga a lona tama.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ua a’apa atu nei Taki ma se’i mai le pepa ma faitau.  Na vaaia le ataata lemu o Taki ma ia lilium ai ma fesili i fomai ma tausima’i na i totonu o le potu, pe o ai e ana lea pepa.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Sa tali atu se tasi o tausimai, “Oi o le pepa e si teine o Naomi.  Ae pei uma lava o la e alu i le ofisa a le pule o le falemai.”</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ua savali faatopetope mai nei ia Taki ma agai atu loa e tuliloa ia Naomi, i le ofisa o le pule ale falemai.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><strong><span style="font-kerning: none">E FAIA PEA!</span></strong></p>
+</div></div></div><div class="field field-name-field-section field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Section:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/le-lali" ><span>Le Lali</span></a></div></div></div><div class="field field-name-field-google-ad-prefilled- field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><div align="center">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- samoa --><script>
+<!--//--><![CDATA[// ><!--
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+//--><!]]>
+</script></div>
+</div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Flali%2Foe-lou-tama-7" ><span>View the discussion thread.</span></a></p></noscript></div> 
+
+<https://www.samoanews.com/lali/oe-lou-tama-7>
+
+---
+
+## TALA I VAIFANUA
+
+date: 2023-10-13, from:  "~Samoa News"
+
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="galleria-content clearfix" id="galleria-9">
+  <div id="photowithcaption"><a href="https://www.samoanews.com/sites/default/files/styles/article_normal_image/public/field/image/turbo-commander.jpg?itok=IhW6_LqW"  rel="https://www.samoanews.com/sites/default/files/field/image/turbo-commander.jpg"><span><img src="https://www.samoanews.com/sites/default/files/styles/slideshow/public/field/image/turbo-commander.jpg?itok=4e_3Y43V" width="618" height="350" alt="" /></span></a><br />
+<blockquote class"image_field_caption">
+ <div id="capption"> [ata: talofaairways.com]</div>
+</blockquote></div>
+</div>
+</div></div></div><div class="field field-name-field-dateline field-type-text field-label-inlinec clearfix field-label-inline"><div class="field-label">By&nbsp;</div><div class="field-items"><div class="field-item even">Lali Staff</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;">Pago Pago - AMERIKA SAMOA</p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><strong><span style="font-kerning: none">TAUNUU VAALELE FOU A LE TALOFA AIRWAYS</span></strong></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">O le aso Lulu na sei mavae atu nei, na taunu’u ai i le malae vaalele i Faleolo ia le vaalele fou, e atoa iai vaalele e tolu, a le ofisa vaalele a le Talofa Airways.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Sa pailateina mai e le susuga Thomas Lobex, le pule o le Gateway Company i Kalefonia faapea le alii kapeteni ia Jeffrey Hunter, le taitaifono o le Talofa Airways, ia le va’alele fou.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Na fa’aalia mai e le faletua ia Maria Westerland Hunter, se tasi o le pulega a le Talofa Airways, o lenei vaalele fou, e leai sona eseesega ma vaalele e lua o iai nei a le latou ofisa vaalele.  Ma o le a faafaigofie ai ona lesitala ma e mafai foi ona lele i so’o se motu o le Pasefika.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">O le masina o Novema lea ua faamoemoe e amatalia ai faigamalaga a le Talofa Airways i le motu o Tonga.  </span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ae mo le taimi nei, o le a fa’aauau pea le tautua a lenei ofisa vaalele i le va o malaevaalele a Faleolo ma Tafuna, ma se faamoemoega o le a mafai ona tulaueleele a latou vaalele i Fagalii.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Na saunoa Westerland Hunter, e mafai ona o latou fa’aaogaina le malae vaalele i Fagalii, ae o si ona faaletonu, o le a tele se tupe e alu ai. </span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ae o le taimi nei, o lo o tele pea ni a latou pasese mai Amerika Samoa o lo o malaga agai i Fiti, Hawaii, Niu Sila ma Ausetalia faapea ma pasese e fia malaga i Savaii ma nu’u tulata i Faleolo.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Na saunoa foi Westerland Hunter i le iai foi o se talosaga mo ni a latou faigamalaga i motu o Wallis ma Futuna.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><strong><span style="font-kerning: none">NOFOAGA SULUFA’I MAI SAUAGA</span></strong></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ua tatala aloaia nei se ofisa autu mo sulufaiga mai sauaga, i le fogafale tolu o le Tedi o Samoa i Fagatogo, ua fa’aigoaina o le “Jessica’s Place”.  O lea nofoaga e mafai ona sulufa’i iai i latou ua faapea ona feagai ma faigata ma tiga o lenei lalolagi.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Ua fetaui le tatalaina o lenei nofoaga o sulufaiga, i le aso Faraile o le vaiaso ua tuanai, ma lo tatou tuvae i le masina o Oketopa, le masina e faamamafaina ai le nofo uta i sauaga.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">O lenei nofoaga o sulufaiga, ua fa’aigoa lea i se tina talavou na maliu fasia i lima o lona lava toalua, ia Mati 2020, ma tu’ua ai na o si a la fanau iti e toalima.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Faatasi ai ma se faamanuiaga mai i le tina o Jessica, ua faaigoaina ai lenei nofoaga o sulufaiga i si ona alo, e avea ma faamanatu e le gata mo Jessica, ae faapea foi i latou uma ua maliliu ona o sauaga.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Sa saunoa le pule o le ‘Jessica’s Place’, le tamaitai foi sa faavaeina lenei fale o sulufaiga, o Mona Uli, e faapea, e le tatau ona tatou fulitua mai ia i latou ua sauaina, pe tatou te faapea foi, e le o se tatou feau.  O le sauaina o tagata, o le feau lea a tagata uma.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">E toatele i latou sa mafai ona auai atu i le tatalaina aloaia o lenei nofoaga o sulufaiga, ma sa faitauina ai foi e Uli le Fa’aaliga Aloaia mai i le Kovana sili, e fa’alauiloa ai le masina o Oketopa, e avea ma masina e nofo uta ma galulue faatasi ai tagata o le teritori, ina ia faasaga tau atu i sauaga.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">O lenei nofoaga o sulufaiga, o lo o lagolago malosi iai se faalapotopotoga ua faaigoaina o le ‘Back on Track’, ma e fa’alagolago malosi i fesoasoani mai i tagata lautele.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">O le alii o Derek Helsham, lea o lo o avea nei ma polofesa i le Kolisi Tuufaatasi a Amerika Samoa (ASCC) ma le sui faatonusili o le ‘Back on Track’, sa tatalaina aloaia le sauniga i le aso Faraile, e ala i se minute o le filemu, e aloaia ai tagata uma ua maliliu ona o sauaga, a’o faitauina e Mary Anne Peck ia ni solo filifilia, ona tataloina ai lea o le sauniga e Rachel Tilo-Leiato, e faamanuiaina ai le ‘Jessica’s Place’.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">E pei ona fa’ailoa mai e Uli i le Samoa News, sa maualuga foi lea taeao, i le auai o sui o le Ofisa a Leoleo faapea nisi mai i le Ofisa a le Loia Sili, ma sa mafai ona o latou saunoa ai ma u’unaia tagata uma ina ia mafai ona galulue faatasi, ina ia taofia sauaga ma amioga mataga, i totonu o Amerika Samoa.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">O lenei nofoaga o sulufaiga (Jessica’s Place) e faapitoa lava mo i latou ua a’afia i sauaga, e mafai ona maua ai se fesoasoani i o latou mafatiaga.  E mafai foi ona maua ai se fesoasoani tau i le tulafono mo i latou ia.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Na saunoa Uli, o le tele o taimi, e leai se nofoaga saogalemu e mafai ona mapu iai i latou o lo o feagai ma nei mafatiaga.  Sa ia ta’ua e faapea, a o galue o ia i le ofisa loia tutoatasi, sa masani ona ia fa’afeaoina atu i latou ua a’afia i sauaga ina ia puipuia i latou.  Ae a mae’a le faamasinoga, e leai se puipuiga mo nei tagata.   O le mafuaaga lea ua o latou filifilia ai lea nofoaga mo le ‘Jessica’s Place’.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">O lea ua mafai ai ona fa’afaigofie ona o latou malaga atu ma malaga ese mai i le fale faamasino.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Na ta’ua e Uli, e leai ni faamaumauga i totonu o Amerika Samoa e iloa ai pe toafia ni tagata ua a’afia pe maliliu foi i sauaga, ae i totonu o le Pasefika atoa, mai i le toalima o tamaitai, e toatolu lava i latou ua a’afia i sauaga.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">O lo o galulue so’otau’au nei le Jessica’s Place ma le vaega a le DHSS i le latou polokalama e puipuia ai tagata matutua, faapea i latou ua a’afia i sauaga i totonu o aiga.  O lo o ua maua foi se fesoasoani mai i le malo, e ala lea i le totogia o le lisi o le latou nofoaga o sulufaiga, i tupe o le ARPA.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Fa’atasi ai ma le fesoasoani ma foai mai i le tele o tagata ma pisinisi i totonu o le o le teritori.</span></p>
+<p style="margin-top: 0px; margin-bottom: 8px; font-stretch: normal; font-size: 16px; line-height: normal; font-family: Carlito;"><span style="font-kerning: none">Afai e te manaomia se fesoasoani, valaau i le 272-3213 po o le 633-2222.  O lenei nofoaga o sulufaiga e matala mai i le 8 i le taeao seia pa’ia le 3 i le aoauli, i le Aso Gafua e tau i le Aso Tofi.</span></p>
+</div></div></div><div class="field field-name-field-section field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Section:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/le-lali" ><span>Le Lali</span></a></div></div></div><div class="field field-name-field-google-ad-prefilled- field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><div align="center">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- samoa --><script>
+<!--//--><![CDATA[// ><!--
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+//--><!]]>
+</script></div>
+</div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Flali%2Ftala-vaifanua-888" ><span>View the discussion thread.</span></a></p></noscript></div> 
+
+<https://www.samoanews.com/lali/tala-vaifanua-888>
+
+---
+
+## Fijian fishermen lost at sea for nine days ‘found’
+
+date: 2023-10-13, from: Island Business, news break
+
+<p>Three Fijian fishermen have been found by the Royal New Zealand Air Force, nine days after they were reported missing aboard their boat. The fishermen, aboard the&#160;Lewa, left Lautoka planning to go fishing at Nanuya Island in the Yasawa group for up to two weeks. The last known contact was on October 2, when they [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://islandsbusiness.com/news-break/fijian-fishermen-lost-at-sea-for-nine-days-found/">Fijian fishermen lost at sea for nine days &#8216;found&#8217;</a> appeared first on <a rel="nofollow" href="https://islandsbusiness.com">Islands Business</a>.</p>
+ 
+
+<https://islandsbusiness.com/news-break/fijian-fishermen-lost-at-sea-for-nine-days-found/>
+
+---
+
+## Highlands highway PMVs planning to go on strike
+
+date: 2023-10-13, from: Post Courier (PNG)
+
+<figure><img width="800" height="600" src="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Highlands-highway-PMVs1.jpg?w=800" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Highlands-highway-PMVs1.jpg 800w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Highlands-highway-PMVs1.jpg?resize=768,576 768w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Highlands-highway-PMVs1.jpg?resize=600,450 600w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Highlands-highway-PMVs1.jpg?resize=400,300 400w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Highlands-highway-PMVs1.jpg?resize=200,150 200w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Highlands-highway-PMVs1.jpg?resize=706,530 706w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Highlands-highway-PMVs1.jpg?resize=150,113 150w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="442756" data-permalink="https://www.postcourier.com.pg/highlands-highway-pmvs-planning-to-go-on-strike1/highlands-highway-pmvs1/" data-orig-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Highlands-highway-PMVs1.jpg" data-orig-size="800,600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Highlands highway PMVs1" data-image-description="" data-image-caption="" data-medium-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Highlands-highway-PMVs1.jpg?w=300" data-large-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Highlands-highway-PMVs1.jpg?w=800" /></figure>
+<p>PMV buses operating in the Highlands region are planning for a big protest over the increase of fuel prices.</p>
+<p>The post <a rel="nofollow" href="https://www.postcourier.com.pg/highlands-highway-pmvs-planning-to-go-on-strike1/">Highlands highway PMVs planning to go on strike</a> appeared first on <a rel="nofollow" href="https://www.postcourier.com.pg">Post Courier</a>.</p>
+ 
+
+<https://www.postcourier.com.pg/highlands-highway-pmvs-planning-to-go-on-strike1/>
+
+---
+
+## Supplementary Budget passed
+
+date: 2023-10-13, from: Post Courier (PNG)
+
+<figure><img width="800" height="600" src="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Budget-1.jpg?w=800" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Budget-1.jpg 800w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Budget-1.jpg?resize=768,576 768w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Budget-1.jpg?resize=600,450 600w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Budget-1.jpg?resize=400,300 400w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Budget-1.jpg?resize=200,150 200w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Budget-1.jpg?resize=706,530 706w, https://www.postcourier.com.pg/wp-content/uploads/2023/10/Budget-1.jpg?resize=150,113 150w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="442510" data-permalink="https://www.postcourier.com.pg/supplementary-budget-passed/budget-19/" data-orig-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Budget-1.jpg" data-orig-size="800,600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Budget" data-image-description="" data-image-caption="" data-medium-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Budget-1.jpg?w=300" data-large-file="https://www.postcourier.com.pg/wp-content/uploads/2023/10/Budget-1.jpg?w=800" /></figure>
+<p>Parliament has passed a surplus 2023 Supplementary Budget, worth K771 million, with a K498 million allocation for miscellaneous spending and debt charges of K273 million.</p>
+<p>The post <a rel="nofollow" href="https://www.postcourier.com.pg/supplementary-budget-passed/">Supplementary Budget passed</a> appeared first on <a rel="nofollow" href="https://www.postcourier.com.pg">Post Courier</a>.</p>
+ 
+
+<https://www.postcourier.com.pg/supplementary-budget-passed/>
+
+---
+
+## Race for US House speaker in chaos as Republican nominee drops out
+
+date: 2023-10-13, from: The Guam Daily Post
+
+The Republican nominee to lead the US House of Representatives dropped out Thursday after failing to find enough support to win a vote of the full chamber, plunging the paralyzed lower chamber of Congress deeper into crisis. 
+
+<https://www.postguam.com/news/national/race-for-us-house-speaker-in-chaos-as-republican-nominee-drops-out/article_7d0f1593-9842-5aa3-812e-f052cb27fa6f.html>
+
+---
+
+## Parliament passes 2023 supplementary budget
+
+date: 2023-10-13, from: The Loop (PNG)
+
+The 11th Parliament yesterday passed the 2023 Supplementary Budget. 
+
+<http://www.looppng.com/png-news/parliament-passes-2023-supplementary-budget-1232789>
+
+---
+
+## REMARKS: Acting Director Policy, Joel Nilon at the opening of the Fiji National Disaster Awareness Week
+
+date: 2023-10-12, from: Pacific Island Forum
+
+Delivered by the Acting Director of Policy at the Pacific Islands Forum, Joel Nilon at the Fiji National Disaster Awareness Week Academic Exercise 13 October 2023<span class="excerpt-hellip"> […]</span> 
+
+<https://www.forumsec.org/2023/10/13/remarks-acting-director-policy-joel-nilon-at-the-opening-of-the-fiji-national-disaster-awareness-week/>
+
+---
+
+## No fees hike
+
+date: 2023-10-12, from: The Loop (PNG)
+
+The traveling public have been assured that there is no increase in PMV and taxi fares in Port Moresby, as circulated on social media recently. 
+
+<http://www.looppng.com/png-news/no-fees-hike-123277>
+
+---
+
+## More Bars in Top Vacation Spots Serving Up Nonalcoholic Drinks
+
+date: 2023-10-12, from: The Guam Daily Post
+
+In Orlando, Florida, there’s no shortage of bars that’ll make you a mocktail. Many are almost certainly designed for the under-21 crowd, including “The Simpsons”-inspired Flaming Moe. The bubbling, citrusy, nonalcoholic concoction is served at Universal Studios Florida.But in the… 
+
+<https://www.postguam.com/news/national/more-bars-in-top-vacation-spots-serving-up-nonalcoholic-drinks/article_fefbbdff-2aac-5681-95ea-808a90058f11.html>
+
+---
+
+## House defers action on bill raising cap on local investment by Retirement Fund
+
+date: 2023-10-12, from: Talanei
+
+The Senate bill raising the cap on local investment by the American Samoa Government Employees Retirement Fund from 17% to 60% will lie in committee in the House until the next Fono session in January. The House 
+
+<https://www.talanei.com/2023/10/12/house-defers-action-on-bill-raising-cap-on-local-investment-by-retirement-fund/>
+
+---
+
+## DHR Director requests investigation of staff for releasing info
+
+date: 2023-10-12, from: Talanei
+
+The Director of Human Resources Lynn Pulou Alaimalo has asked the Department of Homeland Security to investigate the release of employment information of ASG employees by staff in her department. Questions sent to the DHR Director have 
+
+<https://www.talanei.com/2023/10/12/dhr-director-requests-investigation-of-staff-for-releasing-info/>
+
+---
+
+## ASG reports progress at Atoa Samoa meeting
+
+date: 2023-10-12, from: Talanei
+
+A press release from the Governor&#8217;s Office highlights key achievements that American Samoa reported at the Atoa Samoa talks which opened in Apia on Wednesday, Samoa time. Trade: Director Petti Matila of the Department of Commerce mentioned 
+
+<https://www.talanei.com/2023/10/12/asg-reports-progress-at-atoa-samoa-meeting/>
+
+---
+
+## Kirt enjoys All Mike action
+
+date: 2023-10-12, from: Marshal Islands Journal
+
+<p>Not having the “black and white” in hand to report to our readers the final results of the Marshalls Billfish Club’s 31st annual All Micronesia Fishing Tournament, what we can say is that a lot of fish were caught this past weekend around Majuro and Arno. And a lot of fishermen from all over the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://marshallislandsjournal.com/kirt-enjoys-all-mike-action/">Kirt enjoys All Mike action</a> appeared first on <a rel="nofollow" href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/kirt-enjoys-all-mike-action/>
+
+---
+
+## Samoa police respond to land dispute disturbance
+
+date: 2023-10-12, from: Talanei
+
+Samoa Police were called after a longstanding land boundary dispute between Afega and Levii, Sale’imoa escalated into stone throwing and the discharging of firearms yesterday. Samoa Observer reports Police Commissioner, Auapaau Logoitino Filipo, said the outcome of 
+
+<https://www.talanei.com/2023/10/12/samoa-police-respond-to-land-dispute-disturbance/>
+
+---
+
+## Samoans stranded in Israel arrive safely in Fiji
+
+date: 2023-10-12, from:  "~Samoa News"
+
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="galleria-content clearfix" id="galleria-10">
+  <a href="https://www.samoanews.com/sites/default/files/styles/article_normal_image/public/field/image/samoans_and_fijians_arrive_in_fiji.jpg?itok=HZ3qmGHY"  rel="https://www.samoanews.com/sites/default/files/field/image/samoans_and_fijians_arrive_in_fiji.jpg"><span><img src="https://www.samoanews.com/sites/default/files/styles/slideshow/public/field/image/samoans_and_fijians_arrive_in_fiji.jpg?itok=ZimSFc_L" width="618" height="350" alt="Samoans and Fijians deplaning in Suva" title="Samoans and Fijians arriving in Nadi on Thursday morning from Israel.  [photo: Fiji Airways]" /></span></a></div>
+</div></div></div><div class="field field-name-field-dateline field-type-text field-label-inlinec clearfix field-label-inline"><div class="field-label">By&nbsp;</div><div class="field-items"><div class="field-item even">Samoa News staff</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p><em>Pago Pago, AMERICAN SAMOA — </em>Families and friends in the Pacific and around the world are rejoicing after Fiji Airways successfully landed in Nadi, Fiji with a planeload of international travelers who had been stranded in Israel since last Saturday, October 7, 2023, amid a raging war between Hamas and Israel.</p>
+<p>The war broke out as Israel was wrapping up the seven-day-long Jewish festival of Sukkot, with many of the travelers there to take part in the Feast of Tabernacles.</p>
+<p>Fiji’s Prime Minister Sitiveni Rabuka greeted all those who returned in a special welcome ceremony held at the Nadi International Airport.</p>
+<p>He said their safe return was a testament to the resilience of his nation and the Fijian spirit “that binds us together” and pointed to the collective strength of his nation in times of need as a source of great pride and unity.</p>
+<p>The Prime Minister expressed his gratitude to those involved in bringing the Fijians back to their homeland on a flight that departed from Ben Gurion Airport earlier on Wednesday.</p>
+<p>Among the passengers were 200 Fiji Agricultural Institute’s technology students, who were pursuing studies in agriculture in Israel, as well as a group who had journeyed to Jerusalem for the Feast of Tabernacles — including 8 Samoans, several Americans, Canadians Filippinos, Australians and New Zealanders.</p>
+</div></div></div><div class="field field-name-field-section field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Section:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/linking-samoans" ><span>Linking Samoans</span></a></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/israel-war-2023" ><span>israel war 2023</span></a></div></div></div><div class="field field-name-field-google-ad-prefilled- field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><div align="center">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- samoa --><script>
+<!--//--><![CDATA[// ><!--
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+//--><!]]>
+</script></div>
+</div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Fregional%2Fsamoans-stranded-israel-arrive-safely-fiji" ><span>View the discussion thread.</span></a></p></noscript></div> 
+
+<https://www.samoanews.com/regional/samoans-stranded-israel-arrive-safely-fiji>
+
+---
+
+## Unpopular “Talofa Pass” Travel System under investigation
+
+date: 2023-10-12, from: Talamua
+
+<p>By Lagi Keresoma Apia, Samoa &#8211; 13 October 2023: The Talofa Pass travel system that created a lot of difficulties for travellers into American Samoa during the Covid-19 pandemic will be under investigation by the American Samoa Senate. This was confirmed by the President of the American Samoa Senate Tuaolo Manaia Fruean who will lead [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://talamua.com/2023/10/13/unpopular-talofa-pass-travel-system-under-investigation/">Unpopular “Talofa Pass” Travel System under investigation</a> appeared first on <a rel="nofollow" href="https://talamua.com">Talamua Online</a>.</p>
+ 
+
+<https://talamua.com/2023/10/13/unpopular-talofa-pass-travel-system-under-investigation/>
+
+---
+
+## Health Warns Repeat of 2019 Measles Crisis due to low Vaccination
+
+date: 2023-10-12, from: Talamua
+
+<p>By Lagi Keresoma Apia, Samoa – 13 October 2023: The dreaded 2019 measles tragedy that claimed 83 lives from over 5000 cases could repeat itself given the current low vaccination coverage of mainly children. The Deputy Director General of Health, Tagaloa Dr. Robert Thompsen confirmed that there is a substantial number of children who have [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://talamua.com/2023/10/13/health-warns-repeat-of-2019-measles-crisis-due-to-low-vaccination/">Health Warns Repeat of 2019 Measles Crisis due to low Vaccination</a> appeared first on <a rel="nofollow" href="https://talamua.com">Talamua Online</a>.</p>
+ 
+
+<https://talamua.com/2023/10/13/health-warns-repeat-of-2019-measles-crisis-due-to-low-vaccination/>
+
+---
+
+## Kathy speaks out in Germany
+
+date: 2023-10-12, from: Marshal Islands Journal
+
+<p>Climate Envoy Kathy Jetnil-Kijiner delivered a statement at the International Tribunal for the Law of the Sea (ITLOS) in Hamburg, Germany late last month on behalf of the Pacific Community (SPC). The testimony was delivered in front of the 21 judges of ITLOS and included testimony from the Director of SPC&#8217;s Geoscience, Energy and Maritime [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://marshallislandsjournal.com/kathy-speaks-out-in-germany/">Kathy speaks out in Germany</a> appeared first on <a rel="nofollow" href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/kathy-speaks-out-in-germany/>
+
+---
+
+## Tuguba landowners case dismissed
+
+date: 2023-10-12, from: The Loop (PNG)
+
+The National Court yesterday dismissed the substantive notice of motion by the landowners of the PNG LNG Project in Hela. 
+
+<http://www.looppng.com/png-news/tuguba-landowners-case-dismissed-123269>
+
+---
+
+## Police officer charged for causing death
+
+date: 2023-10-12, from: The Loop (PNG)
+
+A Police Officer attached to the police media unit was arrested and charged on Monday with two counts of driving causing the death of a couple on 30 September 2023, in Gaire village along Magi Highway. 
+
+<http://www.looppng.com/png-news/police-officer-charged-causing-death-123268>
+
+---
+
+## Simbu group still missing
+
+date: 2023-10-12, from: The Loop (PNG)
+
+Information is yet to be received on the members of a Simbu delegation who went missing while travelling to the Evangelical Lutheran Church of Papua New Guinea’s youth conference in Finschhafen, in Morobe Province. 
+
+<http://www.looppng.com/png-news/simbu-group-still-missing-123266>
+
+---
+
+## Will Smith sails into PNG’s Rabaul Harbour
+
+date: 2023-10-12, from: Island Business, news break
+
+<p>Many anticipated the arrival of Hollywood actor Will Smith to Kokopo would be via a private plane, however, with all eyes peeled towards Tokua, the Fresh Prince of Belair opted to cruise into Rabaul Harbour on Tuesday this week on a private yacht. The Post Courier said Smith was warmly greeted by a few locals [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://islandsbusiness.com/news-break/png-will-smith/">Will Smith sails into PNG&#8217;s Rabaul Harbour</a> appeared first on <a rel="nofollow" href="https://islandsbusiness.com">Islands Business</a>.</p>
+ 
+
+<https://islandsbusiness.com/news-break/png-will-smith/>
+
+---
+
+## Housing process setback
+
+date: 2023-10-12, from: The Loop (PNG)
+
+A prominent building company in Papua New Guinea is frustrated over the delay of processing of building permits and deductions by the banks and NCD. 
+
+<http://www.looppng.com/png-news/housing-process-setback-123263>
+
+---
+
+## No fees hike
+
+date: 2023-10-12, from: The Loop (PNG)
+
+The traveling public have been assured that there is no increase in PMV and taxi fares in Port Moresby, as circulated on social media recently. 
+
+<http://www.looppng.com/png-news/no-fees-hike-123262>
+
+---
+
+## PNG eyes China for more ‘cheaper’ loans
+
+date: 2023-10-12, from: Island Business, news break
+
+<p>Cheaper loans will be a key agenda for PNG officials when Prime Minister James Marape leads a delegation of government and business leaders to China for bilateral talks next week. The Post Courier said Treasurer Ian Ling-Stuckey, who is going to be part of the delegation, made the announcement earlier this week when giving an [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://islandsbusiness.com/news-break/png-eyes-china-for-more-cheaper-loans/">PNG eyes China for more &#8216;cheaper&#8217; loans</a> appeared first on <a rel="nofollow" href="https://islandsbusiness.com">Islands Business</a>.</p>
+ 
+
+<https://islandsbusiness.com/news-break/png-eyes-china-for-more-cheaper-loans/>
+
+---
+
+## Irene farewelled in Majuro
+
+date: 2023-10-12, from: Marshal Islands Journal
+
+<p>WILMER JOEL The late Dr. Irene Taafaki, the former president of the College of the Marshall Islands, was buried Sunday next to her Blue Lagoon home, close to the Baha&#8217;i House of Worship. Her life was honored with a three-day memorial service that included a candlelight vigil, funeral, and burial. Dr. Irene&#8217;s casket was transported [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://marshallislandsjournal.com/irene-farewelled-in-majuro/">Irene farewelled in Majuro</a> appeared first on <a rel="nofollow" href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/irene-farewelled-in-majuro/>
+
+---
+
+## President Toroama disappointed
+
+date: 2023-10-12, from: The Loop (PNG)
+
+The Autonomous Region of Bougainville president, Ishmael Toroama, expressed disappointment with parties spreading misinformation about the Autonomous Bougainville Government's proposed review of the 2015 Bougainville Mining Act. 
+
+<http://www.looppng.com/png-news/president-toroama-disappointed-123260>
+
+---
+
+## Parkop calls for land tenure release
+
+date: 2023-10-12, from: The Loop (PNG)
+
+Governor for NCD, Powes Parkop is calling for the release of tenured land to the people and private sector for Housing Development. 
+
+<http://www.looppng.com/png-news/parkop-calls-land-tenure-release-123258>
+
+---
+
+## #COP28: Pacific SIDS workshop a crucial preparation for annual climate negotiations
+
+date: 2023-10-12, from: Pacific Island Forum
+
+Climate negotiators from PSIDS (Pacific Small Island Developing States), along with OneCROP Technical Advisers, convened in Samoa this week for a Pre-COP workshop. This workshop is<span class="excerpt-hellip"> […]</span> 
+
+<https://www.forumsec.org/2023/10/12/cop28-pacific-sids-workshop-a-crucial-preparation-for-annual-climate-negotiations/>
+
+---
+
+## RMI lifter sparkles in Apia
+
+date: 2023-10-12, from: Marshal Islands Journal
+
+<p>In the first session of the 2023 Oceania Weightlifting Federation’s (OWF) Youth, Junior and U23 Championships in Apia, Samoa last week, Marshall Islands weightlifters started strong with Mike Riklon winning the gold medal in the under-23 category in his 55kg (121 pounds). Not only is he now the reigning Oceania U23 Champion, but his six-for-six [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://marshallislandsjournal.com/rmi-lifters/">RMI lifter sparkles in Apia</a> appeared first on <a rel="nofollow" href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/rmi-lifters/>
+
+---
+
+## Kite Runner should have been locked up says American Samoa Senate President
+
+date: 2023-10-11, from: Talamua
+
+<p>By Staff Reporters Apia, Samoa &#8211; 11 October 2023:  The President of the American Samoa Senate, Tuaolo Manaia Fruean insists that the Kite Runner that left the territory without proper clearance papers and entered Samoan waters in late April this year, should have been locked up and investigated. Speaking to the media in Apia where [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://talamua.com/2023/10/12/kite-runner-should-have-been-locked-up-says-american-samoa-senate-president/">Kite Runner should have been locked up says American Samoa Senate President</a> appeared first on <a rel="nofollow" href="https://talamua.com">Talamua Online</a>.</p>
+ 
+
+<https://talamua.com/2023/10/12/kite-runner-should-have-been-locked-up-says-american-samoa-senate-president/>
+
+---
+
+## Pacific countries urged to stand united as they chart path to COP28
+
+date: 2023-10-11, from: Talamua
+
+<p>Apia, Samoa &#8211; 11 October 2023: Fifty days and counting down to the UNFCCC COP28 in Dubai, Pacific Small Islands States (PSIDS) have been urged to stand united and leave no stone unturned as they gather in Samoa for an in-depth dialogue to consolidate positions and messages on priority thematic areas ahead of the global [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://talamua.com/2023/10/12/pacific-countries-urged-to-stand-united-as-they-chart-path-to-cop28/">Pacific countries urged to stand united as they chart path to COP28</a> appeared first on <a rel="nofollow" href="https://talamua.com">Talamua Online</a>.</p>
+ 
+
+<https://talamua.com/2023/10/12/pacific-countries-urged-to-stand-united-as-they-chart-path-to-cop28/>
+
+---
+
+## Monthly meeting to monitor revenues & spending
+
+date: 2023-10-11, from: Talanei
+
+With a new fiscal year just beginning, Governor Lemanu Peleti Mauga is starting something new to ensure that he has up to date information on government revenues and spending. A memo he issued before he left for 
+
+<https://www.talanei.com/2023/10/11/monthly-meeting-to-monitor-revenues-spending/>
+
+---
+
+## Legislation needed to deal with fake threats
+
+date: 2023-10-11, from: Talanei
+
+The territory needs legislation to deal with fake threats such as the recent one where a student posted on social media there was going to be a shooting at his high school. Deputy Commissioner of Public Safety 
+
+<https://www.talanei.com/2023/10/11/legislation-needed-to-deal-with-fake-threats/>
+
+---
+
+## Tuaolo: Kite Runner should have been locked up
+
+date: 2023-10-11, from: Talanei
+
+Senate President Tuaolo Manaia Fruean has told Samoa media the Kite Runner that left the territory without proper clearance papers in April, should have been locked up and investigated by authorities. Tuaolo was in Apia for the 
+
+<https://www.talanei.com/2023/10/11/tuaolo-kite-runner-should-have-been-locked-up/>
+
+---
+
+## Why Voice vote matters in the Pacific
+
+date: 2023-10-11, from: Pacific Island Times
+
+By Jioji Ravulo Sydney— Australia's Indigenous Voice referendum could also be seen as a referendum on how the nation will be perceived by... 
+
+<https://www.pacificislandtimes.com/post/why-voice-vote-matters-in-the-pacific>
+
+---
+
+## Tonga Govt officials visit Tongan Market Corp.
+
+date: 2023-10-11, from: Talanei
+
+Officials of the Tongan Government visited the Tongan Market Corporation Limited in Tafuna last week. The Chief Executive Officer, Kepu Ioane, Vice Chairman Teisina Fuko and Board Director member, Katalina Tohi were here to witness and inspect 
+
+<https://www.talanei.com/2023/10/11/tonga-govt-officials-visit-tongan-market-corp/>
+
+---
+
+## DOH drug & alcohol testing is a free service
+
+date: 2023-10-11, from: Talanei
+
+The Department of Health advises that its Drug and Alcohol Center at the Community Health Center at Tafuna is open to provide testing both for the government, private sector and community. This is a free service. Drug 
+
+<https://www.talanei.com/2023/10/11/doh-drug-alcohol-testing-is-a-free-service/>
+
+---
+
+## Guam company debarred from federal contracting due to labor violations
+
+date: 2023-10-11, from: Pacific Island Times
+
+By Pacific Island Times News Staff The U.S. Department of Labor has debarred a federal subcontractor on Guam from seeking federally... 
+
+<https://www.pacificislandtimes.com/post/guam-company-debarred-from-federal-contracting-due-to-labor-violations>
+
+---
+
+## Why the Voice vote matters in the Pacific
+
+date: 2023-10-11, from: Island Business, news break
+
+<p>Australia&#8217;s Indigenous Voice referendum could also be seen as a referendum on how the nation will be perceived by its Pacific neighbours. Pacific nations have put Australia on notice as it prepares to vote in the Indigenous Voice referendum after witnessing the bruising and often ugly campaign. They believe Australia&#8217;s image in the Pacific is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://islandsbusiness.com/news-break/why-the-voice-vote-matters-in-the-pacific/">Why the Voice vote matters in the Pacific</a> appeared first on <a rel="nofollow" href="https://islandsbusiness.com">Islands Business</a>.</p>
+ 
+
+<https://islandsbusiness.com/news-break/why-the-voice-vote-matters-in-the-pacific/>
+
+---
+
+## Jail is better than wards
+
+date: 2023-10-11, from: Marshal Islands Journal
+
+<p>Journal 10/16/1987 P4 No se, señorDan Wales’ neighbors are like the three monkeys that hear no evil, see no evil and speak no evil. Over the weekend Dan’s fence disappeared. Eight sheets of roofing tin, that keep yeast walkers and gas sniffers from using his yard as a meeting place, just vanished in thin air. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://marshallislandsjournal.com/jail-is-better-than-wards/">Jail is better than wards</a> appeared first on <a rel="nofollow" href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/jail-is-better-than-wards/>
+
+---
+
+## Order-making in the shadow of the law: Community by-laws in Solomon Islands
+
+date: 2023-10-11, from: Pacific Island Times
+
+By Sinclair Dinnen and Lincy Pedeverana It’s been 10 years since the publication of the "Justice Delivered Locally in Solomon Islands"... 
+
+<https://www.pacificislandtimes.com/post/order-making-in-the-shadow-of-the-law-community-by-laws-in-solomon-islands>
+
+---
+
+## Bolaven has minimal impact on Guam airport
+
+date: 2023-10-11, from: Pacific Island Times
+
+By Pacific Island Times News Staff Several airlines canceled a total of nine inbound flights to Guam at the height of Typhoon Bolaven but... 
+
+<https://www.pacificislandtimes.com/post/bolaven-has-minimal-impact-on-guam-airport>
+
+---
+
+## All clear: US Coast Guard reopens Guam,CNMI commercial ports 
+
+date: 2023-10-11, from: Pacific Island Times
+
+By Chief Warrant Officer Sara Muir U.S. Coast Guard Forces Micronesia / Sector Guam  In a swift response to the passage of Typhoon... 
+
+<https://www.pacificislandtimes.com/post/all-clear-us-coast-guard-reopens-guam-cnmi-commercial-ports>
+
+---
+
+## Nine companies awarded $600 million contract for Navy projects on Guam
+
+date: 2023-10-11, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Navy has awarded a combined $600 million contract to nine companies for several defense projects... 
+
+<https://www.pacificislandtimes.com/post/nine-companies-awarded-600-million-contract-for-navy-projects-on-guam>
+
+---
+
+## Teachers applaud counsellors’ training
+
+date: 2023-10-11, from: The Loop (PNG)
+
+The recently-conducted school counsellors’ training, which was hosted at the Evangelical Lutheran Church of PNG’s Ampo headquarters, was appreciated by teachers who attended the weeklong training. 
+
+<http://www.looppng.com/png-news/teachers-applaud-counsellors%E2%80%99-training-123243>
+
+---
+
+## ABG budget component released
+
+date: 2023-10-11, from: The Loop (PNG)
+
+A Memorandum of Understanding (MoU) signed on Tuesday, October 10 will enable the transfer of the first of over six hundred personnel and the component budget for personnel emoluments and goods and services to the Bougainville Public Service. 
+
+<http://www.looppng.com/png-news/abg-budget-component-released-123241>
+
+---
+
+## Disaster evaluation on Karkar
+
+date: 2023-10-11, from: The Loop (PNG)
+
+The disaster evaluation team headed by the Disaster office in Madang has gathered support agencies, stakeholders and NGOs to travel to Karkar Island to assess damages caused by the series of earthquakes last weekend. 
+
+<http://www.looppng.com/png-news/disaster-evaluation-karkar-123237>
+
+---
+
+## Pacific Small Island States ramp up efforts for COP28
+
+date: 2023-10-11, from: Island Business, news break
+
+<p>Less than two months ahead of the upcoming COP28 meeting in Dubai, leaders and officials from Pacific Small Islands States (PSIDS) are meeting in Samoa to consolidate their positions ahead of the annual, global climate negotiations, with a view to leaving “no stone unturned” to make the Pacific voice heard. PSIDS members are meeting at [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://islandsbusiness.com/news-break/cop28-pacific-efforts/">Pacific Small Island States ramp up efforts for COP28</a> appeared first on <a rel="nofollow" href="https://islandsbusiness.com">Islands Business</a>.</p>
+ 
+
+<https://islandsbusiness.com/news-break/cop28-pacific-efforts/>
+
+---
+
+## Typhoon Bolaven passes Northern Marianas without major damage
+
+date: 2023-10-11, from: Island Business, news break
+
+<p>Typhoon Bolaven missed directly hitting any of the Northern Mariana Islands (CNMI) travelling between Rota and Tinian. Typhoon Bolaven was upgraded to a Category 1 typhoon before passing through the CNMI, bringing strong winds and rain to Saipan, Tinian and Rota. The strongest effects were felt at around 10pm local time on Tuesday. Saipan International [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://islandsbusiness.com/news-break/typhoon-bolaven/">Typhoon Bolaven passes Northern Marianas without major damage</a> appeared first on <a rel="nofollow" href="https://islandsbusiness.com">Islands Business</a>.</p>
+ 
+
+<https://islandsbusiness.com/news-break/typhoon-bolaven/>
+
+---
+
+## Vanuatu Opposition labelled Salwai Government as unconstitutional, MP Gracia Shadrack suspended
+
+date: 2023-10-11, from: Island Business, news break
+
+<p>Vanuatu Opposition bloc of former Prime Minister, Sato Kilman, has raised concerns over the election of Charlot Salwai, Member of Parliament of Pentecost and President of the Reunification Movement of Change (RMC), as the new Prime Minister during the parliamentary session last Friday. The Vanuatu Daily Post reports former PM Kilman alleged that Salwai’s election [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://islandsbusiness.com/news-break/vanuatu-salwai-1/">Vanuatu Opposition labelled Salwai Government as unconstitutional, MP Gracia Shadrack suspended</a> appeared first on <a rel="nofollow" href="https://islandsbusiness.com">Islands Business</a>.</p>
+ 
+
+<https://islandsbusiness.com/news-break/vanuatu-salwai-1/>
+
+---
+
+## Indonesia cancels West Papua rights meeting with Melanesian nations, delegate says
+
+date: 2023-10-11, from: Island Business, news break
+
+<p>Indonesia cancelled a regional meeting this week on the human rights situation in its Papuan provinces on the grounds that the leaders of Melanesian nations weren’t attending it, a member of Papua New Guinea’s delegation said on Tuesday. According to Radio Free Asia news affiliate, Benar News, the canning of the meeting comes after the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://islandsbusiness.com/news-break/indonesia-west-papua/">Indonesia cancels West Papua rights meeting with Melanesian nations, delegate says</a> appeared first on <a rel="nofollow" href="https://islandsbusiness.com">Islands Business</a>.</p>
+ 
+
+<https://islandsbusiness.com/news-break/indonesia-west-papua/>
+
+---
+
+## Earthquake assessments underway
+
+date: 2023-10-11, from: The Loop (PNG)
+
+A team representing the government is on ground in Madang to visit the epicenter of the earthquake that shook Madang Province over the weekend. 
+
+<http://www.looppng.com/png-news/earthquake-assessments-underway-123236>
+
+---
+
+## NAOC marks one year of service
+
+date: 2023-10-11, from: The Loop (PNG)
+
+The 10th of October marked the one-year anniversary of the opening of the National Ambulance Operations Centre (NAOC), a momentous occasion celebrated by St John Ambulance Papua New Guinea (SJA PNG). 
+
+<http://www.looppng.com/png-news/naoc-marks-one-year-service-123235>
+
+---
+
+## FOREX provided for fuel
+
+date: 2023-10-11, from: The Loop (PNG)
+
+In response to the ongoing foreign exchange (FX) challenges, Puma Energy has received a partial FX intervention from the Bank of Papua New Guinea (BPNG), ensuring a temporary maintenance of vital fuel supplies. 
+
+<http://www.looppng.com/png-news/forex-provided-fuel-123234>
+
+---
+
+## NCD police praised for good work
+
+date: 2023-10-11, from: The Loop (PNG)
+
+National Capital District Metropolitan Superintendent Silva Sika has commended police officers for complying with several orders he issued when taking office at the beginning of this year. 
+
+<http://www.looppng.com/png-news/ncd-police-praised-good-work-123233>
+
+---
+
+## From limepot to limelight
+
+date: 2023-10-11, from: The Loop (PNG)
+
+Papua New Guinea, known for its rich cultural tapestry, is making waves on the global art scene with a travelling exhibition program initiated by the National Cultural Commission. 
+
+<http://www.looppng.com/png-news/limepot-limelight-123232>
+
+---
+
+## Governor proposes Barrigada site for new Guam medical complex  
+
+date: 2023-10-11, from: Pacific Island Times
+
+By Pacific Island Times News Staff Gov. Lou Leon Guerrero is seeking to acquire pieces of ancestral land in Barrigada where she is... 
+
+<https://www.pacificislandtimes.com/post/governor-proposes-barrigada-site-for-new-guam-medical-complex>
+
+---
+
+## Guam's marine scientist says impacts of Fukushima water release 'aren't well understood’
+
+date: 2023-10-11, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Dr. Laurie Raymundo is a professor of marine biology and director of the Marine Lab at the University of Guam. She... 
+
+<https://www.pacificislandtimes.com/post/guam-s-marine-scientist-says-impacts-of-fukushima-water-release-aren-t-well-understood>
+
+---
+
+## Climate change: Are you a fanatic or a denier?
+
+date: 2023-10-11, from: Pacific Island Times
+
+This can be an enormous subject. Because of age, global warming may be your first experience being exposed to such hyper-discussion; the... 
+
+<https://www.pacificislandtimes.com/post/climate-change-are-you-a-fanatic-or-a-denier>
+
+---
+
+## A tale of two alliances
+
+date: 2023-10-11, from: Pacific Island Times
+
+AUKUS. The acronym has a nice ring to it. Perhaps it’s the “K.” It makes me think of a large island-bound bird that is now extinct. It... 
+
+<https://www.pacificislandtimes.com/post/a-tale-of-two-alliances>
+
+---
+
+## TRICARE authorizes temporary prescription refill waivers for Guam, CNMI due to storm 
+
+date: 2023-10-11, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Defense Health Agency today announced that TRICARE beneficiaries in the Northern Mariana Islands... 
+
+<https://www.pacificislandtimes.com/post/tricare-authorizes-temporary-prescription-refill-waivers-for-guam-cnmi-due-to-storm>
+
+---
+
+## Guam in COR 4: Initial assessments show no major damage after Bolaven
+
+date: 2023-10-11, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam's daily routine returns to normal today following the passage of Typhoon Bolaven, which left the... 
+
+<https://www.pacificislandtimes.com/post/guam-in-cor-4-initial-assessments-show-no-major-damage-after-bolaven>
+
+---
+
+## PNG Calls for Closer Ties with Finland Across Various Fronts
+
+date: 2023-10-11, from: The Loop (PNG)
+
+In a diplomatic overture, Governor General Sir Bob Dadae, has called for enhanced collaboration between Papua New Guinea and the Republic of Finland. 
+
+<http://www.looppng.com/png-news/png-calls-closer-ties-finland-across-various-fronts-123228>
+
+---
+
+## All clear: CNMI survives Bolevan
+
+date: 2023-10-10, from: Pacific Island Times
+
+By Pacific Island Times News Staff  Saipan – CNMI Gov. Arnold I. Palacios has declared the “All Clear” condition for Saipan, Tinian, and... 
+
+<https://www.pacificislandtimes.com/post/tropical-storm-condition-i-declared-for-northern-islands>
+
+---
+
+## RELEASE: Pacific Resilience Meeting Focus on Strengthened Capacity of Pacific People
+
+date: 2023-10-10, from: Pacific Island Forum
+
+11 October 2023 The Pacific Resilience Meeting (PRM 2023) is bringing together Pacific people, stakeholders, and experts from across the region to dialogue on building long-term<span class="excerpt-hellip"> […]</span> 
+
+<https://www.forumsec.org/2023/10/11/release-pacific-resilience-meeting-focus-on-strengthened-capacity-of-pacific-people/>
+
+---
+
+## Enga’s engagement in PNG Labour Mobility Program
+
+date: 2023-10-10, from: The Loop (PNG)
+
+Often regarded as "the last province," Enga and its people remained largely unknown to the outside world until the 1930s. 
+
+<http://www.looppng.com/png-news/enga%E2%80%99s-engagement-png-labour-mobility-program-123222>
+
+---
+
+## American Samoa Government breaks ground for Apia Office
+
+date: 2023-10-10, from: Talamua
+
+<p>By Lagi Keresoma Apia, Samoa &#8211; 10 October 2023: The Governor of American Samoa, Lemanu Peleti Mauga and Samoa’s Prime Minister, Fiame Naomi Mataafa today led the ground breaking ceremony for American Samoa’s office in Apia. The office location is on prime seaside land opposite the Taumeasina Island Resort at Moata’a. The President of the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://talamua.com/2023/10/10/american-samoa-government-breaks-ground-for-apia-office/">American Samoa Government breaks ground for Apia Office</a> appeared first on <a rel="nofollow" href="https://talamua.com">Talamua Online</a>.</p>
+ 
+
+<https://talamua.com/2023/10/10/american-samoa-government-breaks-ground-for-apia-office/>
+
+---
+
+## Pacific Partnership boosts disaster preparedness
+
+date: 2023-10-10, from: The Loop (PNG)
+
+The Pacific Partnership has commenced its annual multinational humanitarian assistance and disaster relief mission in Papua New Guinea, marking the largest undertaking in the Indo-Pacific region. 
+
+<http://www.looppng.com/png-news/pacific-partnership-boosts-disaster-preparedness-123214>
+
+---
+
+## PMGH to offer kidney transplant
+
+date: 2023-10-10, from: The Loop (PNG)
+
+Port Moresby General Hospital (POMGH) will provide kidney transplant services starting next year. 
+
+<http://www.looppng.com/png-news/pmgh-offer-kidney-transplant-123212>
+
+---
+
+## Nineteen in New Zealand for Foreign Service training
+
+date: 2023-10-10, from: The Loop (PNG)
+
+Nineteen (19) newly recruited officers from the Department of Foreign Affairs travelled to New Zealand on Friday, October 6, 2023, to undertake a three-week intensive Foreign Service Training Programme (FSTP). 
+
+<http://www.looppng.com/png-news/nineteen-new-zealand-foreign-service-training-123208>
+
+---
+
+## Defence re-establishes vital committee
+
+date: 2023-10-10, from: The Loop (PNG)
+
+Defence has re-established a vital government-required committee after 26 years with the launching of the Defence Project Steering Committee (DPSC) on September 1st, 2023 at Murray Barracks. 
+
+<http://www.looppng.com/png-news/defence-re-establishes-vital-committee-123206>
+
+---
+
+## Defence re-establishes vital committee
+
+date: 2023-10-10, from: The Loop (PNG)
+
+Defence has re-established a vital government-required committee after 26 years with the launching of the Defence Project Steering Committee (DPSC) on September 1st, 2023 at Murray Barracks. 
+
+<http://www.looppng.com/png-news/defence-re-establishes-vital-committee-123204>
+
+---
+
+## CNMI activates Multi-Agency Coordinating Group for Bolaven
+
+date: 2023-10-10, from: Pacific Island Times
+
+By Andrew Roberto Saipan (Marianas Variety) -- At a press conference Monday, Oct. 9, at CNMI Homeland Security and Emergency Management,... 
+
+<https://www.pacificislandtimes.com/post/cnmi-activates-multi-agency-coordinating-group-for-bolaven>
+
+---
+
+## PM Marape to visit China
+
+date: 2023-10-10, from: The Loop (PNG)
+
+Prime Minister James Marape has convened a significant meeting with Resident Chinese Ambassador Zang Fanhua on Monday to finalise crucial policy, logistical, and administrative preparations for his official visit to the People's Republic of China. 
+
+<http://www.looppng.com/png-news/pm-marape-visit-china-123202>
+
+---
+
+## Late MP’s wife lodges Defamation Complaint against HRPP Leaders
+
+date: 2023-10-10, from: Talamua
+
+<p>By Lagi Keresoma Apia, Samoa – 10 October 2023: The wife of the late Member of Parliament, Vaele Iona Sekuini has lodged a complaint with police against former Prime Minister and Human Rights Protection Party leader Tuilaepa Sailele Malielegaoi and Secretary Lealailepule Rimoni Aiafi. Tupuola Mati Sekuini’s complaint is based on a video clip that [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://talamua.com/2023/10/10/late-mps-wife-lodges-defamation-complaint-against-hrpp-leaders/">Late MP’s wife lodges Defamation Complaint against HRPP Leaders</a> appeared first on <a rel="nofollow" href="https://talamua.com">Talamua Online</a>.</p>
+ 
+
+<https://talamua.com/2023/10/10/late-mps-wife-lodges-defamation-complaint-against-hrpp-leaders/>
+
+---
+
+## New lab set to accelerate the early diagnosis of health conditions in Samoa
+
+date: 2023-10-09, from: Talamua
+
+<p>Apia, Samoa &#8211; 6 Oct 2023: A new state-of-the-art diagnostic laboratory based in Motootua is set to reduce the turnaround time of critical medical results from four to six weeks to up to four days, reducing preventable deaths associated with sexual and reproductive health conditions. Launched on the 4th of October 2023, the Samoa Diagnostic [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://talamua.com/2023/10/10/new-lab-set-to-accelerate-the-early-diagnosis-of-health-conditions-in-samoa/">New lab set to accelerate the early diagnosis of health conditions in Samoa</a> appeared first on <a rel="nofollow" href="https://talamua.com">Talamua Online</a>.</p>
+ 
+
+<https://talamua.com/2023/10/10/new-lab-set-to-accelerate-the-early-diagnosis-of-health-conditions-in-samoa/>
+
+---
+
+## Bolaven anticipated to pass between Rota and Tinian
+
+date: 2023-10-09, from: Pacific Island Times
+
+By Joint Information Office Guam remains in Condition of Readiness 1 at this time. The community is advised to remain indoors until COR 4... 
+
+<https://www.pacificislandtimes.com/post/bolaven-anticipated-to-pass-between-rota-and-tinian>
+
+---
+
+## High performers to be considered
+
+date: 2023-10-09, from: The Loop (PNG)
+
+Wawin National High School will only consider students who have scored 120 or more in their Grade 10 National Examinations. 
+
+<http://www.looppng.com/png-news/high-performers-be-considered-123191>
+
+---
+
+## Biden declares state of emergency for Guam and CNMI
+
+date: 2023-10-09, from: Pacific Island Times
+
+By Pacific Island Times News Staff President Biden today declared a state of emergency for Guam and the Northern Mariana Islands and... 
+
+<https://www.pacificislandtimes.com/post/biden-declares-emergency-for-cnmi-saipan-tinian-in-typhoon-condition-2>
+
+---
+
+## US Coast Guard prepares for Bolaven: 'We're on top of storm preparations'
+
+date: 2023-10-09, from: Pacific Island Times
+
+By Chief Warrant Officer Sara Muir U.S. Coast Guard Forces Micronesia /Sector Guam The U.S. Coast Guard, federal, territorial and port... 
+
+<https://www.pacificislandtimes.com/post/us-coast-guard-prepares-for-bolaven-we-re-on-top-of-storm-preparations>
+
+---
+
+## PM Marape condemns attack on Israel
+
+date: 2023-10-09, from: The Loop (PNG)
+
+Prime Minister James Marape has condemned the attack on Israel, saying war-related violence is out of place in this modern day and age. 
+
+<http://www.looppng.com/png-news/pm-marape-condemns-attack-israel-123189>
+
+---
+
+## Bolaven expected to intensify into typhoon on Tuesday
+
+date: 2023-10-09, from: Pacific Island Times
+
+United might suspend Guam-Saipan flights By Pacific Island Times News Staff Tropical Storm Bolaven is forecast to intensify through... 
+
+<https://www.pacificislandtimes.com/post/bolaven-expected-to-intensify-and-become-a-typhoon-on-tuesday>
+
+---
+
+## Student tops science despite setbacks
+
+date: 2023-10-09, from: The Loop (PNG)
+
+A grade 12 student from the Wawin National High School, Jonah Pumas, came first in advanced mathematics, chemistry and physics, making him the overall science dux. 
+
+<http://www.looppng.com/png-news/student-tops-science-despite-setbacks-123188>
+
+---
+
+## 12 arrested for assaulting policeman
+
+date: 2023-10-09, from: The Loop (PNG)
+
+Police in Central Province have arrested and detained 12 men from Tari on Saturday 7th October 2023 for assaulting a policeman attached to Kwikila Police Station. 
+
+<http://www.looppng.com/png-news/12-arrested-assaulting-policeman-123187>
+
+---
+
+## Maprik Secondary’s 49th graduation
+
+date: 2023-10-09, from: The Loop (PNG)
+
+Maprik Secondary School, established in 1972 celebrated its 49th graduation held recently for grade 10, 12 and FODE students, marking a milestone for the school. 
+
+<http://www.looppng.com/png-news/maprik-secondary%E2%80%99s-49th-graduation-123186>
+
+---
+
+## Wawin’s STEM Dux
+
+date: 2023-10-09, from: The Loop (PNG)
+
+After being suspended for a whole academic year, a Grade 12 Wawin National High School student returned to claim the dux award for Science, Technology, Engineering and Mathematics. 
+
+<http://www.looppng.com/png-news/wawin%E2%80%99s-stem-dux-123185>
+
+---
+
+## Print and Web Rates
+
+date: 2023-10-08, from: Marshal Islands Journal
+
+<p>https://d607a0.a2cdn1.secureserver.net/wp-content/uploads/2023/10/Journal-ad-rates-print-n-web.pdf Email us: marshallislandsjournal@gmail.com ADVERTISING RATES The latest ad rates, 2023, are available in a PDF format. Just click the above https address.  </p>
+<p>The post <a rel="nofollow" href="https://marshallislandsjournal.com/rates/">Print and Web Rates</a> appeared first on <a rel="nofollow" href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/rates/>
+
+---
+
+## Contact Us
+
+date: 2023-10-08, from: Marshal Islands Journal
+
+<p>Maggie and Megan are available to help you place an advertisement for a service you&#8217;d like to promote, a position that needs filling, or goods for sale. Contact them at marshallislandsjournal@gmail.com or call (692) 625-8143/8146.</p>
+<p>The post <a rel="nofollow" href="https://marshallislandsjournal.com/contact-us/">Contact Us</a> appeared first on <a rel="nofollow" href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/contact-us/>
+
+---
+
+## Gov’t extends support to quake victims
+
+date: 2023-10-08, from: The Loop (PNG)
+
+The National Government will provide immediate assistance to those affected by the earthquake in Madang Province and its neighbouring provinces. 
+
+<http://www.looppng.com/png-news/gov%E2%80%99t-extends-support-quake-victims-123177>
+
+---
+
+## Quake knocks down homes, affects businesses
+
+date: 2023-10-08, from: The Loop (PNG)
+
+The effects of two major and several minor quakes that shook Madang Province and nearby provinces have affected homes and had massive economic downturns for the business sector. 
+
+<http://www.looppng.com/png-news/quake-knocks-down-homes-affects-businesses-123176>
+
+---
+
+## Kuriva prepares for Papua LNG Project
+
+date: 2023-10-08, from: The Loop (PNG)
+
+With the aim of embracing the Papua LNG Project, a new solar project and an ambulance were commissioned for the people of Kuriva in the Hiri-Koiari District of Central Province recently. 
+
+<http://www.looppng.com/png-news/kuriva-prepares-papua-lng-project-123173>
+
