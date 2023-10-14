@@ -34,7 +34,15 @@ while read -r FNAME; do
 	printf '* [%s](%s)\n' "$LABEL" "$FNAME" >>"$YEAR/index.md"
 done
 
-# Find all the weather markdown files to archive.
+# Find all our socal_north markdown files to archive.
+printf '\n## Pacific\n\n' >>"${YEAR}/index.md"
+ls -1 pacific_*.md | sort -r |\
+while read -r FNAME; do
+	cp -v "$FNAME" "$YEAR/"
+	BNAME=$(basename "$FNAME" ".md")
+	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
+	printf '* [%s](%s)\n' "$LABEL" "$FNAME" >>"$YEAR/index.md"
+done
 
 echo >>"$YEAR/index.md"
 git add "$YEAR/"

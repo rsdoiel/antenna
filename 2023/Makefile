@@ -11,9 +11,10 @@ build: $(HTML_PAGES)
 
 %.html: %.md
 	pandoc -f markdown -t html5 \
- 		   --lua-filter=../links-to-html.lua \
+               --lua-filter=../links-to-html.lua \
 	       --metadata title="The Antenna Archives" \
-		   --template ../archives.tmpl \
+	       --metadata feed_name="$(basename $<)"\
+	       --template ../archives.tmpl \
 		   $< \
 		   >$@
 

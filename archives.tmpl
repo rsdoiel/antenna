@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  $if(title)$<title>$title$</title>$endif$
   <link rel="stylesheet" type="text/css"  href="../webfonts/fonts.css" media="screen" />
   <link rel="stylesheet" type="text/css"  href="../css/site.css" media="screen" />
 </head>
@@ -10,7 +11,7 @@
 <header>
 <div>
 	<h1>The Antenna</h2> 
-	<h2>finding signal in the noise of the net</h2>
+	<h2>finding signal in the noise</h2>
 </div>
 <div>
 	<img
@@ -24,6 +25,7 @@
 <ul>
 	<li><a href="../">The Antenna</a></li>
 	<li><a href="./">Archives</a></li>
+	<li><a href="search.html">Search</a></li>
 	<li><a href="../about.html">About</a></li>
 </ul>
 </nav>
@@ -37,6 +39,9 @@ $else$
 An experiment in personal news aggregation.
 $endif$
 </div>
+$endif$
+$if(feed_name)$
+<p>($feed_name$)<p>
 $endif$
 $body$
 </section>
