@@ -131,7 +131,7 @@ refresh:
 	git fetch origin
 	git pull origin $(BRANCH)
 
-publish: .FORCE build save
+publish: .FORCE build
 	./publish.bash
 
 get_updates: .FORCE
