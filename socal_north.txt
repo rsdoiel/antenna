@@ -6,7 +6,7 @@ https://api.weather.gov/points/34.3917,-118.5426 "~NOAA Forcast for Santa Clarit
 #
 # For Profit news organizations
 #
-#https://scvnews.com/feed/ "~SCV New (TV Station)"
+#https://scvnews.com/feed/ "~SCV News (TV Station)"
 #https://signalscv.com/feed/ "~The Signal"
 
 #

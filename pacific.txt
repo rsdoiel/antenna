@@ -1,0 +1,69 @@
+#
+# Items of interest to the Pacific community and the Pacific RIM
+#
+
+# NGOs
+https://www.forumsec.org/feed/ "~Pacific Island Forum"
+https://micronesianconservation.org/feed/ "~Micronesian Conservation Coalition"
+
+# Web Based News services
+https://micronesia.expatreporter.com/?feed=rss2 "~Micronesia -- The Expat Reporter"
+
+#
+# Comercial News Papers, Guam and the Northern Marianas, Republic of Belau
+#
+https://www.guampdn.com/search/?f=rss&amp;t=article&l=50&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News"
+https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post"
+https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times"
+# Northern Marianas Papers
+https://www.mvariety.com/search/?nsa=eeditionl=50&t=article&f=atom "~Marianas Variety"
+https://www.saipantribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k[]=#topstory "~Saipan Tribune"
+
+
+# From the Republic of Belau
+https://islandtimes.org/feed/ "~Island Times"
+
+# Republic of the Marshal Islands
+https://marshallislandsjournal.com/feed/ "~Marshal Islands Journal"
+
+# Tonga
+https://www.nepituno.to/index.php?format=feed&type=rss "~Nepituno (Tonga)"
+
+# Fiji bases, covering the whole Pacific region
+https://islandsbusiness.com/category/news-break/feed/ "~Island Business, news break"
+
+#
+# PNG based news services
+#
+https://www.postcourier.com.pg/feed/ "~Post Courier (PNG)"
+https://www.looppng.com/section/40068/rss "~The Loop (PNG)"
+
+#
+# American Samoa News
+#
+https://www.samoanews.com/rss.xml  "~Samoa News"
+https://www.talanei.com/feed/ "~Talanei"
+https://talamua.com/feed/ "~Talamua"
+
+#
+# U.S. Based News Services
+#
+https://apnews.com/hub/micronesia.rss "~Micronesian Hub AP News Service"
+
+#
+# European News Services covering  Micronesia
+#
+https://www.theguardian.com/world/micronesia/rss "~The Guardian, World/Micronesia"
+
+#
+# FSM Government feeds
+#
+https://gov.fm/index.php/component/content/category/35-pio-articles?Itemid=177&format=feed&type=rss "~FSM Public Information Office (Simina Adminstration)"
+https://gov.fm/index.php/component/content/category/34-pio-articles?Itemid=177&format=feed&type=rss "~FSM Public Information Office (Panuelo Adminstration)"
+
+#
+# Sometimes features articles on Micronesia (like when the U.S. wants somethig
+# from them)
+#
+https://statemag.state.gov/feed/ "~State Magazine (U.S. Department of State)"
+https://www.doi.gov/feeds/list/19446/rss.xml "~OIA News (U.S. Department of the Interior)"

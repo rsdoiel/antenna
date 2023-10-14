@@ -24,6 +24,7 @@
 	<li><a href="./">The Antenna</a></li>
 	<li><a href="socal_north_2023.41.html">SoCal North!</a></li>
 	<li><a href="weather_2023.41.html">Weather</a></li>
+	<li><a href="pacific_2023.41.html">Pacific</a></li>
 	<li><a href="2023/">Archives</a></li>
 	<li><a href="about.html">About</a></li>
 </ul>
@@ -33,12 +34,8 @@
 <h2>The Antenna</h2>
 An experiment in personal news aggregation.
 </div>
-<p>Antenna demonstrates aggregating of news content via web feeds for
-personal use. It demonstates that aggregating news can be done by an
-individual with a little effort and a few tools. We don’t need to rely
-on large corporations to be informed or to keep up to date.</p>
-<h2 id="tools-to-build-this-aggregation">Tools to build this
-aggregation</h2>
+<p>Antenna demonstrates aggregating of news content via web feeds for personal use. It demonstates that aggregating news can be done by an individual with a little effort and a few tools. We don’t need to rely on large corporations to be informed or to keep up to date.</p>
+<h2 id="tools-to-build-this-aggregation">Tools to build this aggregation</h2>
 <ul>
 <li>Pandoc 3</li>
 <li>SQLite 3</li>
@@ -47,28 +44,14 @@ aggregation</h2>
 <li>Git + GitHub (to host your personal aggregation site)</li>
 </ul>
 <h2 id="the-moving-parts">The moving parts</h2>
-<p><a href="https://rsdoiel.github.io/skimmer">skimmer</a> is used to
-collect data from RSS, Atom and JSON feeds that are listed in a urls
-file. The data collected gets stored in an SQLite 3 database.</p>
-<p>The <a href="https://sqlite.org">SQLite 3</a> database can be managed
-with simple SQL statements execute from the command line, a script
-(e.g. Bash or Python) or in this case a <a href="Makefile">Makefile</a>.
-The scripts responsiblility is to automatically identify the feed items
-to be “saved” for generating this static website.</p>
-<p>The skimmer programs comes with a companion program called
-<strong>skim2md</strong> which will read all the saved items in a feeds
-database and render them in Markdown and HTML. This file is easy to then
-process with Pandoc into a full webpage.</p>
-<p><a href="https://pandoc.org">Pandoc</a> is responsable for rendering
-Markdown to HTML5 via a template called <a
-href="front_page.tmpl">front_page.tmpl</a></p>
-<p>The <strong>make</strong> command is used to run the Makefile and
-build the pages. You can then use your favorite web server to share them
-or just open them directly in your favorite web browser.</p>
+<p><a href="https://rsdoiel.github.io/skimmer">skimmer</a> is used to collect data from RSS, Atom and JSON feeds that are listed in a urls file. The data collected gets stored in an SQLite 3 database.</p>
+<p>The <a href="https://sqlite.org">SQLite 3</a> database can be managed with simple SQL statements execute from the command line, a script (e.g. Bash or Python) or in this case a <a href="Makefile">Makefile</a>. The scripts responsiblility is to automatically identify the feed items to be “saved” for generating this static website.</p>
+<p>The skimmer programs comes with a companion program called <strong>skim2md</strong> which will read all the saved items in a feeds database and render them in Markdown and HTML. This file is easy to then process with Pandoc into a full webpage.</p>
+<p><a href="https://pandoc.org">Pandoc</a> is responsable for rendering Markdown to HTML5 via a template called <a href="front_page.tmpl">front_page.tmpl</a></p>
+<p>The <strong>make</strong> command is used to run the Makefile and build the pages. You can then use your favorite web server to share them or just open them directly in your favorite web browser.</p>
 <pre><code>make clean
 make</code></pre>
-<p>Each aggregation page is populated by it’s own urls list which builds
-the skimmer database used to geneate the page.</p>
+<p>Each aggregation page is populated by it’s own urls list which builds the skimmer database used to geneate the page.</p>
 <ul>
 <li><a href="socal_north.txt">SoCal North</a> URLs</li>
 <li><a href="weather.txt">Weather</a> URLs</li>

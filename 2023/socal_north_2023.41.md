@@ -1,5 +1,109 @@
 ---
 
+## Q&A: Author Justin Torres on pushing creative boundaries in new novel ‘Blackouts’
+
+date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Justin Torres is piecing together hidden histories in his latest work.
+Recently chosen as a finalist for the 2023 National Book Award, &#8220;Blackouts&#8221; was released Tuesday. 
+
+<https://dailybruin.com/2023/10/13/qa-author-justin-torres-on-pushing-creative-boundaries-in-new-novel-blackouts/>
+
+---
+
+## Letter to the Editor: CSU Students Ought to be Aware
+
+date: 2023-10-13, from: CI View (CSCI Student Newspaper)
+
+A Letter To The Editor: As some of you may know, this past week the terrorist organization Hamas committed an unspeakable act of mass terrorism against [&#8230;] 
+
+<http://civiewnews.com/opinion/letter-to-the-editor-csu-students-ought-to-be-aware/?utm_source=rss&utm_medium=rss&utm_campaign=letter-to-the-editor-csu-students-ought-to-be-aware>
+
+---
+
+## LA Councilmember Curren Price Arraignment Postponed
+
+date: 2023-10-13, from: The LAist
+
+Price stands accused of embezzlement, perjury and conflict of interest and is the latest of four members of the council to be criminally charged. 
+
+<https://laist.com/news/politics/la-councilmember-curren-price-arraignment-postponed>
+
+---
+
+## Navigating the Post-Graduation Job Hunt: Strategies for Success
+
+date: 2023-10-13, from: CI View (CSCI Student Newspaper)
+
+By Destiny Caster As graduation approaches, the excitement and anticipation of completing your college journey can be overshadowed by the looming question: &#8220;What&#8217;s next?&#8221; Landing [&#8230;] 
+
+<http://civiewnews.com/news/navigating-the-post-graduation-job-hunt-strategies-for-success/?utm_source=rss&utm_medium=rss&utm_campaign=navigating-the-post-graduation-job-hunt-strategies-for-success>
+
+---
+
+## Favorite Student Study Spots on Campus
+
+date: 2023-10-13, from: CI View (CSCI Student Newspaper)
+
+By Ashley Tolteca and Allen Monge 
+
+<http://civiewnews.com/broadcasting/favorite-student-study-spots-on-campus/?utm_source=rss&utm_medium=rss&utm_campaign=favorite-student-study-spots-on-campus>
+
+---
+
+## What Are You Doing in my Swamp!?
+
+date: 2023-10-13, from: CI View (CSCI Student Newspaper)
+
+By Aileen Lawrence This October, Donkey has kindly decided to swamp-sit for Shrek. He loves the swamp so much that he, “can&#8217;t wait for guests [&#8230;] 
+
+<http://civiewnews.com/opinion/what-are-you-doing-in-my-swamp/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-you-doing-in-my-swamp>
+
+---
+
+## Canyon Country Community Day
+
+date: 2023-10-13, from: The Canyon News (COC Student Newspaper)
+
+<p>By Shalisa Krualphan The Canyon Country Community Day this past Saturday not&#8230;</p>
+<p>The post <a rel="nofollow" href="https://canyonsnews.com/canyon-country-community-day/">Canyon Country Community Day</a> appeared first on <a rel="nofollow" href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<https://canyonsnews.com/canyon-country-community-day/>
+
+---
+
+## Lancer rally falls short in loss to Dolphins
+
+date: 2023-10-13, from: Catalina Islander
+
+By Ted Apodaca After a third-quarter rally that pulled the Avalon football team into a tie against Chadwick, the Dolphins got a big play and a long drive that led to a 38-22 win over the Lancers in a non-league game on Friday at Chadwick School in Palos Verdes. Chadwick had taken a 22-8 lead [&#8230;] 
+
+<https://thecatalinaislander.com/lancer-rally-falls-short-in-loss-to-dolphins/>
+
+---
+
+## Wildlife Department staff are reviewing Conservancy’s permit application
+
+date: 2023-10-13, from: Catalina Islander
+
+The state’s Fish and Wildlife staff are reviewing the Catalina Island Conservancy’s permit application that includes the elimination of the Island’s mule deer population. “CDFW is familiar with, and supportive of, the habitat restoration project on Santa Catalina Island,” wrote Jordan Traverso, deputy director of Communications, Education and Outreach, for Fish and Wildlife in a [&#8230;] 
+
+<https://thecatalinaislander.com/wildlife-department-staff-are-reviewing-conservancys-permit-application/>
+
+---
+
+## With defense and discipline in mind, UCLA women’s soccer to face Utah at home
+
+date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins are looking to continue their hot streak as they reach the halfway point of Pac-12 play.
+No. 5 UCLA women&#8217;s soccer (11-1, 5-0 Pac-12) will take on Utah (5-4-5, 1-2-2) on Friday night at Wallis Annenberg Stadium. 
+
+<https://dailybruin.com/2023/10/13/with-defense-and-discipline-in-mind-ucla-womens-soccer-to-face-utah-at-home/>
+
+---
+
 ## Sheriff’s Log: Oct. 5 to Oct. 11, 2023
 
 date: 2023-10-13, from: Catalina Islander
@@ -66,7 +170,7 @@ Catalina Island Humane Society opposes deer eradication The Catalina Island Huma
 
 ## How To Help Humanitarian Efforts In Israel And Gaza
 
-date: 2023-10-13, from: The LAist
+date: 2023-10-14, from: The LAist
 
 Humanitarian groups are working to respond to the violence in Israel and Gaza. Here are some ways to help — and avoid getting scammed. 
 
@@ -86,36 +190,6 @@ date: 2023-10-13, from: The Canyon News (COC Student Newspaper)
 
 ---
 
-## What Did Hamas Aim To Gain By Its Brazen Attack On Israel? Here's What To Know
-
-date: 2023-10-13, from: The LAist
-
-The surprise attack on Israel has brought the militant group back into the spotlight. A Hamas official tells NPR the attack was meant in part to lead to the release of Palestinians in Israeli jails. 
-
-<https://laist.com/news/what-did-hamas-aim-to-gain-by-its-brazen-attack-on-israel-heres-what-to-know>
-
----
-
-## Long Beach Locks In Lower Natural Gas Prices For Customers
-
-date: 2023-10-13, from: The LAist
-
-The new contract is designed to stabilize natural gas prices this winter through early 2026. 
-
-<https://laist.com/news/long-beach-locks-in-lower-natural-gas-prices-for-customers>
-
----
-
-## Your SoCal Weather Report For Friday, Oct. 13: Enjoy The Cooldown This Weekend
-
-date: 2023-10-13, from: The LAist
-
-It's going to be cooler today through Saturday but come Sunday, another warming trend. 
-
-<https://laist.com/news/climate-environment/la-weather-report-october-13-onshore-flow-cooler-temps>
-
----
-
 ## 'Ring Of Fire' Solar Eclipse Will Be Here Saturday Morning. Here's How To View In LA
 
 date: 2023-10-13, from: The LAist
@@ -126,23 +200,13 @@ L.A. won't get a full eclipse, but at 9:24 a.m. about 70% of the sun will be obs
 
 ---
 
-## Here's How You Can See Saturday's 'Ring Of Fire' Solar Eclipse
+## Wax Nostalgic About That LAUSD Coffee Cake? Here’s How You Can Make Your Own
 
-date: 2023-10-13, from: The LAist
+date: 2023-10-14, from: The LAist
 
-People in some areas of the western U.S. will be able to see the annular eclipse, when the moon passes directly in front of the sun. Experts urge viewers to watch the eclipse safely. 
+Two amateur bakers take on a beloved, almost sacrosanct school treasure. 
 
-<https://laist.com/news/heres-how-you-can-see-saturdays-ring-of-fire-solar-eclipse>
-
----
-
-## Israel Warns More Than 1 Million People To Evacuate Northern Gaza
-
-date: 2023-10-13, from: The LAist
-
-The evacuation order from Israel affecting 1 million people faced immediate objections, including from the U.N., which warned such an evacuation would have "devastating humanitarian consequences." 
-
-<https://laist.com/news/israel-warns-more-than-1-million-people-to-evacuate-northern-gaza>
+<https://laist.com/news/food/los-angeles-unified-coffee-cake-make-it-at-home>
 
 ---
 
@@ -166,16 +230,6 @@ Recently, a new crop of local chefs began to offer their take on Iberian cooking
 
 ---
 
-## Wax Nostalgic About That LAUSD Coffee Cake? Here’s How You Can Make Your Own
-
-date: 2023-10-13, from: The LAist
-
-Two amateur bakers take on a beloved, almost sacrosanct school treasure. 
-
-<https://laist.com/news/food/los-angeles-unified-coffee-cake-make-it-at-home>
-
----
-
 ## UCLA students attend walkout, teach-in following violence in Palestine
 
 date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
@@ -195,6 +249,26 @@ Hundreds of people attended a vigil Wednesday evening in Bruin Plaza to honor th
 The vigil, which was hosted at 7 p.m. 
 
 <https://dailybruin.com/2023/10/12/jewish-organizations-at-ucla-host-vigil-honoring-lives-lost-in-recent-attacks/>
+
+---
+
+## Deconstructing Generation Z
+
+date: 2023-10-13, from: Laloyolan (LMU Student Newspaper)
+
+Video/Thumbnail: https://lmu.box.com/s/bs4nw2qa32n1lq35math39ev54lm8kbg 
+
+<https://www.laloyolan.com/deconstructing-generation-z/article_56448b1c-23eb-5ae8-8fa7-deda036d2e9d.html>
+
+---
+
+## Quick Takes: Taylor Swift and voter registration, the new OneCards, our chaotic government, the WGA contract and late night shows
+
+date: 2023-10-13, from: Laloyolan (LMU Student Newspaper)
+
+Opinion editor Arsh Goyal tackles the biggest stories of the past few weeks — everything from ugly new OneCards to the chaos among Republicans in the House of Representatives. 
+
+<https://www.laloyolan.com/opinion/quick-takes-taylor-swift-and-voter-registration-the-new-onecards-our-chaotic-government-the-wga/article_102edd98-2317-579b-a57a-384f611de72b.html>
 
 ---
 
@@ -228,6 +302,100 @@ My heart pounded faster as the taxi turned onto the familiar street from my chil
 
 ---
 
+## Deconstructing Generation Z
+
+date: 2023-10-13, from: Laloyolan (LMU Student Newspaper)
+
+Who is Gen Z? There is a lot of stigma behind the generation that has grown up in the digital age and attended virtual classes during a pandemic, but how do people within Gen Z see themselves as well as&#8230; 
+
+<https://www.laloyolan.com/videos/deconstructing-generation-z/video_38d9bf92-6979-11ee-942f-33a38d7d4970.html>
+
+---
+
+## TMU Israel Abroad students return home
+
+date: 2023-10-13, from: The Signal
+
+<p>A group of The Master’s University students who were in Israel as part of the university’s Israel-Bible Extension Program have returned to the United States safely, according to a statement on the university’s website.&#160; “We are thankful to the Lord that every student participating in our Israel-Bible Extension program this semester has returned safely to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://signalscv.com/2023/10/tmu-israel-abroad-students-return-home/">&lt;strong&gt;TMU Israel Abroad students return home&lt;/strong&gt; </a> appeared first on <a rel="nofollow" href="https://signalscv.com">Santa Clarita Valley Signal</a>.</p>
+ 
+
+<https://signalscv.com/2023/10/tmu-israel-abroad-students-return-home/>
+
+---
+
+## Two children hospitalized after light pole falls on campus
+
+date: 2023-10-13, from: Laloyolan (LMU Student Newspaper)
+
+After a light pole fell near Burns Recreation Center tennis courts, two children from LMU's Children's Center were hospitalized due to injuries sustained from the light pole. Both children have now been released from the hospital. 
+
+<https://www.laloyolan.com/news/two-children-hospitalized-after-light-pole-falls-on-campus/article_56ce1dcd-d738-5d8b-a63a-4d772b5d9e24.html>
+
+---
+
+## Photo 1
+
+date: 2023-10-13, from: Laloyolan (LMU Student Newspaper)
+
+Two children were hospitalized due to injuries sustained from a light pole that fell near Burns Recreation Center on Sept. 27. Both children have now been discharged from the hospital. 
+
+<https://www.laloyolan.com/news/photo-1/image_078bafdc-698f-5603-97da-c767ca3ebdce.html>
+
+---
+
+## freeway removal.jpeg
+
+date: 2023-10-13, from: Laloyolan (LMU Student Newspaper)
+
+Route 90, better known as the 90 freeway, travels only 3.1 miles, beginning in Marina del Rey and ending in Culver City, California. 
+
+<https://www.laloyolan.com/freeway-removal-jpeg/image_4fe5829e-f238-5676-b9e8-c0ee737e2ce4.html>
+
+---
+
+## Taylor_Swift_The_Eras_Tour_Midnights_Era_Set_(53109799784)_(cropped).jpg
+
+date: 2023-10-13, from: Laloyolan (LMU Student Newspaper)
+
+Swift is currently finishing up her extremely successful "Eras Tour" with just nine shows left in her North America leg. 
+
+<https://www.laloyolan.com/sports/taylor-swift-the-eras-tour-midnights-era-set-53109799784-cropped-jpg/image_f83209ce-a8b4-539f-b937-de1eca6cf09c.html>
+
+---
+
+## Travis_Kelce_(51615469596).jpg
+
+date: 2023-10-13, from: Laloyolan (LMU Student Newspaper)
+
+Kelce and the Chiefs secure a hard-fought win against the Philadelphia Eagles in the Super Bowl LVII. 
+
+<https://www.laloyolan.com/sports/travis-kelce-51615469596-jpg/image_d723c343-56b1-5afc-a04d-ad14b69b424d.html>
+
+---
+
+## SwiftKC Cartoon.png
+
+date: 2023-10-13, from: Laloyolan (LMU Student Newspaper)
+
+Swift was first spotted at one of Kelce's games on Sept. 24, a public appearance that sent fans into an uproar. 
+
+<https://www.laloyolan.com/sports/swiftkc-cartoon-png/image_48460e51-1ab1-5309-856a-2792ba79214b.html>
+
+---
+
+## Services announced for boy killed in collision
+
+date: 2023-10-13, from: The Signal
+
+<p>The family of a boy who was killed Monday in a tragic collision on McBean Parkway announced there would be a service in honor of his life Sunday at Eternal Valley Memorial Park.&#160; Louie Barba, 17, died after a collision involving a big-rig truck near the intersection of McBean and Skycrest Circle Drive around 9 [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://signalscv.com/2023/10/services-announced-for-boy-killed-in-collision/">Services announced for boy killed in collision </a> appeared first on <a rel="nofollow" href="https://signalscv.com">Santa Clarita Valley Signal</a>.</p>
+ 
+
+<https://signalscv.com/2023/10/services-announced-for-boy-killed-in-collision/>
+
+---
+
 ## Examining data privacy issues in wake of social media, technological developments
 
 date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
@@ -236,6 +404,30 @@ date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
 As increasingly advanced technological developments manifest in Bruins&#8217; daily lives through social media and other internet applications, questions arise regarding their implications on data privacy issues. 
 
 <https://dailybruin.com/2023/10/12/examining-data-privacy-issues-in-wake-of-social-media-technological-developments/>
+
+---
+
+## Week 9 SCV football preview
+
+date: 2023-10-13, from: The Signal
+
+<p>By Tyler Wainfeld and Justin Vigil-Zuniga   Signal Staff Writers&#160;&#160; Playoffs are on the line in week nine of football in the Santa Clarita Valley.&#160; The undefeated Valencia Vikings enter their bye week while West Ranch can earn its fifth straight playoff berth with a win.   Hart and Castaic will both be in good shape to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://signalscv.com/2023/10/week-9-scv-football-preview/">Week 9 SCV football preview </a> appeared first on <a rel="nofollow" href="https://signalscv.com">Santa Clarita Valley Signal</a>.</p>
+ 
+
+<https://signalscv.com/2023/10/week-9-scv-football-preview/>
+
+---
+
+## GaTa arrested on suspicion of domestic violence
+
+date: 2023-10-13, from: The Signal
+
+<p>Davionte Ganter, who is popularly known as GaTa, was arrested on suspicion of corporal injury on spouse at the felony level on Sunday, according to the Los Angeles County Sheriff’s Inmate Locator.&#160;&#160; Ganter is widely known as a rapper, musician and actor on “Dave,” an FX show that premiered in 2020 starring Lil Dicky. Ganter [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://signalscv.com/2023/10/gata-arrested-on-suspicion-of-domestic-violence/">&lt;strong&gt;GaTa arrested on suspicion of domestic violence&lt;/strong&gt; </a> appeared first on <a rel="nofollow" href="https://signalscv.com">Santa Clarita Valley Signal</a>.</p>
+ 
+
+<https://signalscv.com/2023/10/gata-arrested-on-suspicion-of-domestic-violence/>
 
 ---
 
@@ -250,6 +442,18 @@ No. 18 UCLA football (4-1, 1-1 Pac-12) will journey to Corvallis to face No. 15 
 
 ---
 
+## LASD: Social media threats prompt heightened awareness
+
+date: 2023-10-13, from: The Signal
+
+<p>The Santa Clarita Valley Sheriff’s Station posted a warning to social media Thursday regarding its heightened awareness to “recent statements made calling for action as it relates to the conflict in the Middle East.”&#160; A post on Facebook noted:&#160;&#160; “We are closely monitoring the situation and frequently communicating with our school districts and places of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://signalscv.com/2023/10/lasd-social-media-threats-prompt-heightened-awareness/">LASD: Social media threats prompt heightened awareness </a> appeared first on <a rel="nofollow" href="https://signalscv.com">Santa Clarita Valley Signal</a>.</p>
+ 
+
+<https://signalscv.com/2023/10/lasd-social-media-threats-prompt-heightened-awareness/>
+
+---
+
 ## No. 18 UCLA football to spar with No. 15 Oregon State, top-15 rushing offense
 
 date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
@@ -259,6 +463,72 @@ The Bruins last traveled to Corvallis for a conference football game Nov. 7, 201
 They shut out the Beavers 41-0 that day. 
 
 <https://dailybruin.com/2023/10/12/no-18-ucla-football-to-spar-with-no-15-oregon-state-top-15-rushing-offense/>
+
+---
+
+## West Ranch tennis hands Valencia first league loss
+
+date: 2023-10-13, from: The Signal
+
+<p> West Ranch Wildcats girls’ tennis made a statement on Tuesday, beating the previously unbeaten Valencia Vikings.  The Wildcats crashed Valencia’s senior day, winning the match, 12-6, with six points from each singles and doubles’ side.&#160; West Ranch was led by its singles phenom Audrey Park, who started in the No. 3 spot on Tuesday. Park [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://signalscv.com/2023/10/west-ranch-tennis-hands-valencia-first-league-loss/">&lt;strong&gt;West Ranch tennis hands Valencia first league loss&lt;/strong&gt; </a> appeared first on <a rel="nofollow" href="https://signalscv.com">Santa Clarita Valley Signal</a>.</p>
+ 
+
+<https://signalscv.com/2023/10/west-ranch-tennis-hands-valencia-first-league-loss/>
+
+---
+
+## Princess Cruises Unveils Collaboration with Magic Castle
+
+date: 2023-10-13, from: SCV New (TV Station)
+
+Princess Cruises unveiled Thursday Spellbound by Magic Castle, a collaboration with the famed Hollywood icon set to enchant guests aboard Sun Princess when the new ship debuts in early  
+
+<https://scvnews.com/princess-cruises-unveils-collaboration-with-magic-castle/>
+
+---
+
+## COC board appoints seven new members to bond oversight committee
+
+date: 2023-10-12, from: The Signal
+
+<p>News release  The College of the Canyons board of trustees approved the appointment of seven new members to the Santa Clarita Community College District Independent Citizens’ Bond Oversight Committee at its meeting on Wednesday.&#160;&#160; Committee members will serve a three-year term, and each member will represent a specific category as required by Proposition 39: Ellie [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://signalscv.com/2023/10/coc-board-appoints-seven-new-members-to-bond-oversight-committee/">COC board appoints seven new members to bond oversight committee</a> appeared first on <a rel="nofollow" href="https://signalscv.com">Santa Clarita Valley Signal</a>.</p>
+ 
+
+<https://signalscv.com/2023/10/coc-board-appoints-seven-new-members-to-bond-oversight-committee/>
+
+---
+
+## COC tech center seeks to close the gap for high-demand jobs
+
+date: 2023-10-12, from: The Signal
+
+<p>College of the Canyons recently celebrated the grand opening of the Interim Advanced Technology Center, where students will be gaining hands-on training beginning this fall.&#160; The new COC Interim Advanced Technolgy Center is a 13,500 square-foot facility where students will have the opportunity to learn big data, robotics, system integration, augmented reality, cybersecurity and the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://signalscv.com/2023/10/coc-tech-center-seeks-to-close-the-gap-for-high-demand-jobs/">&lt;strong&gt;COC tech center seeks to close the gap for high-demand jobs&lt;/strong&gt;</a> appeared first on <a rel="nofollow" href="https://signalscv.com">Santa Clarita Valley Signal</a>.</p>
+ 
+
+<https://signalscv.com/2023/10/coc-tech-center-seeks-to-close-the-gap-for-high-demand-jobs/>
+
+---
+
+## Blood Donors Needed
+
+date: 2023-10-12, from: SCV New (TV Station)
+
+Since announcing a national blood and platelet shortage a month ago, thousands of donors across the country have rolled up a sleeve to help rebuild the American Red Cross blood and platelet supply 
+
+<https://scvnews.com/blood-donors-needed/>
+
+---
+
+## Oct. 19: SCV Water Public Outreach, Legislation Committee Meeting
+
+date: 2023-10-12, from: SCV New (TV Station)
+
+The Santa Clarita Valley Water Agency’s Public Outreach and Legislation Committee Meeting is holding an in-person meeting Wednesday, Oct. 19, at 5:30 p.m 
+
+<https://scvnews.com/oct-19-scv-water-public-outreach-legislation-committee-meeting/>
 
 ---
 
@@ -286,6 +556,30 @@ Since the magazine’s inception in 1973, Ms.
 
 ---
 
+## Mustang Roundup raises funds for enrichment programs
+
+date: 2023-10-12, from: The Signal
+
+<p>The Sulphur Springs Community School PTA hosted its annual fundraiser, Mustang Roundup, at the River’s End in Soledad Canyon to raise funds for enrichment programs for students.   Every year the Sulphur Springs PTA hosts an annual fundraiser for community building and to raise money for its students. This year the goal was to raise a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://signalscv.com/2023/10/mustang-roundup-raises-funds-for-enrichment-programs/">&lt;strong&gt;Mustang Roundup raises funds for enrichment programs &lt;/strong&gt;</a> appeared first on <a rel="nofollow" href="https://signalscv.com">Santa Clarita Valley Signal</a>.</p>
+ 
+
+<https://signalscv.com/2023/10/mustang-roundup-raises-funds-for-enrichment-programs/>
+
+---
+
+## Acton residents sue over energy-storage project
+
+date: 2023-10-12, from: The Signal
+
+<p>A group of residents upset over energy-storage system plans for Acton are raising money to support a lawsuit they’ve filed, angered by the actions of a renewable-energy company and county leadership they say hasn’t listened.&#160; Hecate Grid’s Humidor BESS, or battery energy storage system, recently received permission from L.A. County through a ministerial review for [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://signalscv.com/2023/10/acton-residents-sue-over-energy-storage-project/">Acton residents sue over energy-storage project  </a> appeared first on <a rel="nofollow" href="https://signalscv.com">Santa Clarita Valley Signal</a>.</p>
+ 
+
+<https://signalscv.com/2023/10/acton-residents-sue-over-energy-storage-project/>
+
+---
+
 ## Honey Krush opens in Westwood, fuses organic ingredients with cultural roots
 
 date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
@@ -294,6 +588,18 @@ Honey Krush, a cafe serving organic drinks, boba and chicken, opened on Westwood
 The restaurant &#8211; which had its soft launch Sept. 23  &#8211; is co-owned by Brian Ko and Richard Han, both of whom created the idea for the cafe while in college. 
 
 <https://dailybruin.com/2023/10/12/honey-krush-opens-in-westwood-fuses-organic-ingredients-with-cultural-roots/>
+
+---
+
+## Edison scholarship applications now open
+
+date: 2023-10-12, from: The Signal
+
+<p>The 2024 Edison Scholarship is open for applications until Jan. 24 for high school senior applicants.&#160;&#160; Fully funded by Edison International shareholders, the program is expected to give 30 high school seniors $50,000 in scholarships to pursue a science, technology, engineering and mathematics field at a four-year college or university.&#160; The $50,000 is paid throughout [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://signalscv.com/2023/10/edison-scholarship-applications-now-open/">&lt;strong&gt;Edison scholarship applications now open&lt;/strong&gt; </a> appeared first on <a rel="nofollow" href="https://signalscv.com">Santa Clarita Valley Signal</a>.</p>
+ 
+
+<https://signalscv.com/2023/10/edison-scholarship-applications-now-open/>
 
 ---
 
@@ -310,16 +616,6 @@ The Bruins are returning home following an undefeated run in the Pacific Northwe
 
 ---
 
-## Warren And Downey High Schools Take Their Rivalry To SoFi Stadium For 'Friday Night Lights' Showdown
-
-date: 2023-10-12, from: The LAist
-
-The Warren Bears will take on the Downey Vikings on Friday for the first high school game at the stadium. 
-
-<https://laist.com/news/los-angeles-activities/warren-and-downey-high-schools-take-their-rivalry-to-sofi-stadium-for-friday-night-lights-showdown>
-
----
-
 ## UCLA athletic director Martin Jarmond discusses Big Ten move, NIL
 
 date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
@@ -332,13 +628,43 @@ Jarmond was hired in May 2020 and has since spearheaded UCLA’s conference swit
 
 ---
 
-## The OC 'Snitch Scandal' Keeps Expanding. Here's Why
+## Dodger Fans Don't Hold Back After Team Collapses In The Postseason
 
 date: 2023-10-12, from: The LAist
+
+For the first time in 17 years, the Dodgers did not win a single postseason game — and fans unleashed the memes. 
+
+<https://laist.com/news/los-angeles-activities/dodger-fans-dont-hold-back-after-team-collapses-in-the-postseason>
+
+---
+
+## COC Appoints New Bond Oversight Committee Members
+
+date: 2023-10-12, from: SCV New (TV Station)
+
+The College of the Canyons Board of Trustees approved the appointment of seven new members to the Santa Clarita Community College District Independent Citizens’ Bond Oversight Committee at its Oct. 11 meeting.  
+
+<https://scvnews.com/coc-appoints-new-bond-oversight-committee-members/>
+
+---
+
+## The OC 'Snitch Scandal' Keeps Expanding. Here's Why
+
+date: 2023-10-13, from: The LAist
 
 An Orange County public defender has tallied 57 tainted criminal cases stemming from the county's informant scandal. New revelations of alleged misconduct could affect dozens more. 
 
 <https://laist.com/news/criminal-justice/oc-snitch-scandal-why-keeps-expanding>
+
+---
+
+## Oct. 15: CSUN Hosting Annual All Abilities Resource Fair
+
+date: 2023-10-12, from: SCV New (TV Station)
+
+The California State University, Northridge Family Focus Resource Center is hosting its 10th annual All Abilities Resource Fair on Sunday, Oct. 15, at the university 
+
+<https://scvnews.com/oct-15-csun-hosting-annual-all-abilities-resource-fair/>
 
 ---
 
@@ -366,13 +692,64 @@ date: 2023-10-12, from: City of Santa Clarita
 
 ---
 
+## SCV Project Linus in Need of Blanket Donations
+
+date: 2023-10-12, from: SCV New (TV Station)
+
+Local nonprofit chapter SCV Project Linus is calling for support from the community to help replenish its inventory at Make a Blanket Day from 10 a.m. to 4 p.m.Saturday, Oct. 28, at the College of the Canyons East Gym 
+
+<https://scvnews.com/scv-project-linus-in-need-of-blanket-donations/>
+
+---
+
 ## How To Talk To Children About The Violence In Israel And Gaza
 
-date: 2023-10-13, from: The LAist
+date: 2023-10-12, from: The LAist
 
 Many children have likely already heard about the attacks in Israel, whether from school or overhearing the news. Let them ask questions, experts say — it's OK if you don't have all the answers. 
 
 <https://laist.com/news/how-to-talk-to-children-about-the-violence-in-israel-and-gaza>
+
+---
+
+## California Unveils Plans to Strengthen Statewide Student Performance
+
+date: 2023-10-12, from: SCV New (TV Station)
+
+On Monday, Oct. 16, State Superintendent of Public Instruction Tony Thurmond, the California Department of Education, and partners will unveil plans to drive improvements in statewide student performance 
+
+<https://scvnews.com/california-unveils-plans-to-strengthen-statewide-student-performance/>
+
+---
+
+## CHP Grant Bolsters Outreach Within Latino Community
+
+date: 2023-10-12, from: SCV New (TV Station)
+
+As California celebrates Latino Heritage Month recognizing the contributions of the more than 15 million Latinos who call California home, the CHP received grant funding to promote traffic safety within Spanish-speaking communities 
+
+<https://scvnews.com/chp-grant-bolsters-outreach-within-latino-community/>
+
+---
+
+## Weekly COVID-19 Roundup: 109 New Local Cases
+
+date: 2023-10-12, from: SCV New (TV Station)
+
+The Los Angeles County Department of Public Health confirmed Thursday 109 new cases and no additional deaths from COVID-19 in the Santa Clarita Valley within the last week 
+
+<https://scvnews.com/weekly-covid-19-roundup-109-new-local-cases/>
+
+---
+
+## Early lessons for crypto from the SBF case
+
+date: 2023-10-12, from: Marketplace Morning Report
+
+<p>This week, the star witness in the fraud trial of FTX&#8217;s Sam Bankman-Fried took to the stand: Caroline Ellison, former head of trading firm Alameda Research and on-and-off romantic partner of SBF. We unpack what we&#8217;ve learned about the relationship between Alameda and FTX and what it could mean for investors and regulators going forward. Later: Holiday shopping is beginning. Already.</p>
+ 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/early-lessons-for-crypto-from-the-sbf-case>
 
 ---
 
@@ -388,6 +765,126 @@ date: 2023-10-12, from: The Canyon News (COC Student Newspaper)
 
 ---
 
+## Pondeseta Guys ‘brewing up’ change in Canyon
+
+date: 2023-10-12, from: The Canyon News (COC Student Paper)
+
+<p>BY NELL WILLIAMS Canyon News Correspondent The Canyon nightlife and entertainment-loving community is all buzzed over Pondeseta Brewing Company, which plans to revamp the old Santa Fe Depot in Canyon after receiving an additional grant of $50,000 from Canyon Economic Development Corporation. The company currently has a brewing establishment on 45th Street in Amarillo but</p>
+<p>The post <a rel="nofollow" href="https://www.canyonnews.com/pondeseta-guys-brewing-up-change-in-canyon/">Pondeseta Guys ‘brewing up’ change in Canyon</a> appeared first on <a rel="nofollow" href="https://www.canyonnews.com">The Canyon News</a>.</p>
+ 
+
+<https://www.canyonnews.com/pondeseta-guys-brewing-up-change-in-canyon/>
+
+---
+
+## National Night Out allows Canyon to show support to first responders
+
+date: 2023-10-12, from: The Canyon News (COC Student Paper)
+
+<p>BY NOLA HOPKINS Canyon News Correspondent Police cars, fire trucks and ambulances converged on the Conner Park parking lot Tuesday night, Oct. 3. However, there was no 911 call but a chance for the community to meet the first responders at Canyon’s first National Night Out. “It has turned out fantastic,” Randall County Sheriff Christopher</p>
+<p>The post <a rel="nofollow" href="https://www.canyonnews.com/national-night-out-allows-canyon-to-show-support-to-first-responders/">National Night Out allows Canyon to show support to first responders</a> appeared first on <a rel="nofollow" href="https://www.canyonnews.com">The Canyon News</a>.</p>
+ 
+
+<https://www.canyonnews.com/national-night-out-allows-canyon-to-show-support-to-first-responders/>
+
+---
+
+## New all-inclusive park honors legacy of Canyon’s Kylie Hiner
+
+date: 2023-10-12, from: The Canyon News (COC Student Paper)
+
+<p>BY NELL WILLIAMS Canyon News Correspondent The dream of an all-inclusive park for Canyon to honor one of the city’s most loved members has finally become a reality. It took around four years of planning, fundraising and hard work to make the dream happen, but now the colorful park is full of kids and family</p>
+<p>The post <a rel="nofollow" href="https://www.canyonnews.com/new-all-inclusive-park-honors-legacy-of-canyons-kylie-hiner/">New all-inclusive park honors legacy of Canyon’s Kylie Hiner</a> appeared first on <a rel="nofollow" href="https://www.canyonnews.com">The Canyon News</a>.</p>
+ 
+
+<https://www.canyonnews.com/new-all-inclusive-park-honors-legacy-of-canyons-kylie-hiner/>
+
+---
+
+## CEDC sweetens the pot for Creek House Honey, Pondeseta Brewing expansion
+
+date: 2023-10-12, from: The Canyon News (COC Student Paper)
+
+<p>BY NELL WILLIAMS Canyon News Correspondent Success is getting even sweeter according to Paige and George Nester, owners of Creek House Honey Farm, east of Canyon. The couple were recently granted a $100,000 grant from the Canyon Economic Development Corporation for expansion of their business. Also, potential is buzzing around Pondeseta Brewing Company, who is</p>
+<p>The post <a rel="nofollow" href="https://www.canyonnews.com/cedc-sweetens-the-pot-for-creek-house-honey-pondeseta-brewing-expansion/">CEDC sweetens the pot for Creek House Honey, Pondeseta Brewing expansion</a> appeared first on <a rel="nofollow" href="https://www.canyonnews.com">The Canyon News</a>.</p>
+ 
+
+<https://www.canyonnews.com/cedc-sweetens-the-pot-for-creek-house-honey-pondeseta-brewing-expansion/>
+
+---
+
+## SACKED IN CANYON: West Plains turns up pressure on No. 9 Hereford
+
+date: 2023-10-12, from: The Canyon News (COC Student Paper)
+
+<p>BY TIM RITTER tritter@hearstnp.com The West Plains Wolves are no longer a team to be taken lightly. Yes, they are a second-year varsity football program … but the Wolves deserve some state-wide respect after a pair of back-to-back dominating wins over Class 4A Division I No. 8 Lubbock Estacado and Class 4A Division I No.</p>
+<p>The post <a rel="nofollow" href="https://www.canyonnews.com/sacked-in-canyon-west-plains-turns-up-pressure-on-no-9-hereford/">SACKED IN CANYON: West Plains turns up pressure on No. 9 Hereford</a> appeared first on <a rel="nofollow" href="https://www.canyonnews.com">The Canyon News</a>.</p>
+ 
+
+<https://www.canyonnews.com/sacked-in-canyon-west-plains-turns-up-pressure-on-no-9-hereford/>
+
+---
+
+## City looks to finance new golf course irrigation system
+
+date: 2023-10-12, from: The Canyon News (COC Student Paper)
+
+<p>BY NELL WILLIAMS Canyon News Correspondent During Monday’s regular meeting of the Canyon City Commission, the majority of discussion was about financing a new irrigation system for Palo Duro Creek Golf Course. Commissioners voted to issue Certificates of Obligation to finance the Palo Duro Creek Golf Course irrigation system, a significant part of the City</p>
+<p>The post <a rel="nofollow" href="https://www.canyonnews.com/city-looks-to-finance-new-golf-course-irrigation-system/">City looks to finance new golf course irrigation system</a> appeared first on <a rel="nofollow" href="https://www.canyonnews.com">The Canyon News</a>.</p>
+ 
+
+<https://www.canyonnews.com/city-looks-to-finance-new-golf-course-irrigation-system/>
+
+---
+
+## Autumn Street Fest huge success on Square
+
+date: 2023-10-12, from: The Canyon News (COC Student Paper)
+
+<p>BY NOLA HOPKINS Canyon News Correspondent Summer officially ended and fall began with Canyon Main Street’s seventh annual Autumn Street Fest Saturday morning on the square. “Autumn Street Fest was a successful event,” Main Street program director Kirstie Proctor said. “The Canyon Farmers Market always draws a big crowd, and with the added festivities, we</p>
+<p>The post <a rel="nofollow" href="https://www.canyonnews.com/autumn-street-fest-huge-success-on-square/">Autumn Street Fest huge success on Square</a> appeared first on <a rel="nofollow" href="https://www.canyonnews.com">The Canyon News</a>.</p>
+ 
+
+<https://www.canyonnews.com/autumn-street-fest-huge-success-on-square/>
+
+---
+
+## Paint Canyon ‘maroon’ for WT Homecoming
+
+date: 2023-10-12, from: The Canyon News (COC Student Paper)
+
+<p>BY TIM RITTER tritter@hearstnp.com It’s time to paint Canyon ‘maroon and white’ for West Texas A&#38;M University Homecoming. Fall has arrived … the leaves will be changing soon … and cooler temperatures are on their way. Every year, thousands of past West Texas State University and West Texas A&#38;M University alums return to Canyon for</p>
+<p>The post <a rel="nofollow" href="https://www.canyonnews.com/paint-canyon-maroon-for-wt-homecoming/">Paint Canyon &#8216;maroon&#8217; for WT Homecoming</a> appeared first on <a rel="nofollow" href="https://www.canyonnews.com">The Canyon News</a>.</p>
+ 
+
+<https://www.canyonnews.com/paint-canyon-maroon-for-wt-homecoming/>
+
+---
+
+## COMMENTARY: Today’s moments are tomorrow’s memories
+
+date: 2023-10-12, from: The Canyon News (COC Student Paper)
+
+<p>It’s time we make today count and not look back. So often we’re caught up in our social media platforms and our cell phones that we truly miss out on the greatest blessings in our lives. Is that cell phone more important than our children or our families? Is your career and bringing work home</p>
+<p>The post <a rel="nofollow" href="https://www.canyonnews.com/commentary-todays-moments-are-tomorrows-memories/">COMMENTARY: Today&#8217;s moments are tomorrow&#8217;s memories</a> appeared first on <a rel="nofollow" href="https://www.canyonnews.com">The Canyon News</a>.</p>
+ 
+
+<https://www.canyonnews.com/commentary-todays-moments-are-tomorrows-memories/>
+
+---
+
+## First Methodist Church Street Party benefits Canyon Intermediate
+
+date: 2023-10-12, from: The Canyon News (COC Student Paper)
+
+<p>BY NOLA HOPKINS Canyon News Correspondent To raise money for their “adopted” school, First Methodist Church members hosted a street party east of the building last Sunday night. “The street party is an opportunity for us as a church to fellowship together, have fun and eat great food,” First Methodist Church pastor Rick Enns said.</p>
+<p>The post <a rel="nofollow" href="https://www.canyonnews.com/first-methodist-church-street-party-benefits-canyon-intermediate/">First Methodist Church Street Party benefits Canyon Intermediate</a> appeared first on <a rel="nofollow" href="https://www.canyonnews.com">The Canyon News</a>.</p>
+ 
+
+<https://www.canyonnews.com/first-methodist-church-street-party-benefits-canyon-intermediate/>
+
+---
+
 ## Federal Relief Funds For Child Care Are Done. What Does That Mean For California?
 
 date: 2023-10-13, from: The LAist
@@ -395,6 +892,16 @@ date: 2023-10-13, from: The LAist
 Federal pandemic relief funds for childcare programs expired Sept. 30, leaving providers around the country worried about shutting their doors. In California, the state’s put in some stopgap measures. 
 
 <https://laist.com/news/education/early-childhood-education-pre-k/federal-relief-funds-for-childcare-are-done-what-does-that-mean-for-california>
+
+---
+
+## How To Look For A Lawyer In LA If You’re Facing An Eviction
+
+date: 2023-10-12, from: The LAist
+
+Most L.A. tenants don’t have an attorney in eviction court. If you’re facing an eviction, here’s how to start looking for legal aid. 
+
+<https://laist.com/news/housing-homelessness/how-to-find-an-attorney-lawyer-eviction-los-angeles-court-legal-aid-help-housing-tenant-landlord>
 
 ---
 
@@ -415,6 +922,38 @@ date: 2023-10-12, from: The LAist
 Watch a night of 'Comical Magic.' Attend a Haiku Duel. Check out the largest car show in the Valley. Stroll several art walks around SoCal. 
 
 <https://laist.com/news/arts-and-entertainment/best-things-to-do-this-weekend-los-angeles-southern-california-october-13-15>
+
+---
+
+## Striking actors and Hollywood producers have stopped talking
+
+date: 2023-10-12, from: Marketplace Morning Report
+
+<p>Hollywood studios and the unions representing actors resumed negotiations 10 days ago, but contract talks halted last night. Many of actors&#8217; key demands remain, and the news comes after Hollywood writers ratified their contract earlier this week. We hear the latest. Plus, economists expect some easing of inflation in the September consumer price index — but that doesn&#8217;t mean a smooth glide to the Fed&#8217;s goal of 2%.</p>
+ 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/striking-actors-and-hollywood-producers-have-stopped-talking>
+
+---
+
+## Navigating life amid conflict in the Middle East
+
+date: 2023-10-12, from: Marketplace Morning Report
+
+<p>From the BBC World Service: How does life continue for those caught up in war between Israel and Hamas? We hear from a doctor in Gaza, a tech business co-founder in Tel Aviv, and the BBC&#8217;s reporter there, Clive Myrie, speaks to Israeli citizens who&#8217;ve answered the call for mobilization. Also, the BBC&#8217;s correspondent in Madrid, Guy Hedgecoe, explores the impact of climate change on tourism.</p>
+ 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/navigating-life-amid-conflict-in-the-middle-east>
+
+---
+
+## Today in SCV History (Oct. 12)
+
+date: 2023-10-12, from: SCV New (TV Station)
+
+1915 &#8211; Name of Surrey post office &#38; town changed (back) to Saugus. [story 
+
+<https://scvnews.com/today-in-scv-history-oct-12/>
 
 ---
 
@@ -439,6 +978,36 @@ The UCLA Burkle Center for International Relations hosted former Prime Minister 
 
 ---
 
+## What Is The Gaza Strip? Here's What To Know
+
+date: 2023-10-12, from: The LAist
+
+With high poverty and unemployment and severe restrictions on movement, life in the Gaza Strip was already difficult before Israel's retaliatory offensive began this week in response to Hamas attacks. 
+
+<https://laist.com/news/what-is-the-gaza-strip-heres-what-to-know>
+
+---
+
+## Why Hamas And Israel Reached This Moment Now — And What Comes Next
+
+date: 2023-10-12, from: The LAist
+
+The conflict is expected to escalate even further in the coming days. But for now, Hamas sees itself with the upper hand. 
+
+<https://laist.com/news/why-hamas-and-israel-reached-this-moment-now-and-what-comes-next>
+
+---
+
+## Rendering Company In Vernon Again Moves To Keep Inspector Photos Away From Public View
+
+date: 2023-10-12, from: The LAist
+
+Baker Commodities, Inc. — a company that was the focus of an LAist investigation into hazardous odors — says that the photos contain trade secrets and should be sealed. 
+
+<https://laist.com/news/climate-environment/rendering-company-in-vernon-again-moves-to-keep-inspector-photos-away-from-public-view>
+
+---
+
 ## Out of Bounds: Is UCLA’s defense elite under D’Anton Lynn? Recapping Washington State
 
 date: 2023-10-11, from: The Daily Bruin (UCLA Student Newspaper)
@@ -457,18 +1026,6 @@ For one UCLA center, 2023 is not the year of &#8220;The Eras Tour&#8221; or the 
 It is the 400th anniversary of the First Folio, a first-edition copy of William Shakespeare’s plays, which resides in UCLA’s Clark Library, according to Daniel Lowenstein, a professor of law emeritus. 
 
 <https://dailybruin.com/2023/10/11/ucla-center-for-liberal-arts-and-free-institutions-celebrates-the-humanities/>
-
----
-
-## ‘This Is Not a True Story’ rewrites the stories of tragic Asian heroines
-
-date: 2023-10-11, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 12 at 8:47 p.m.&#160;</em>
-<em>Editor&#8217;s Note: This article contains references to suicide.&#160;</em>
-The truth is not always what it seems in Artists at Play’s latest production. 
-
-<https://dailybruin.com/2023/10/11/this-is-not-a-true-story-rewrites-the-stories-of-tragic-asian-heroines/>
 
 ---
 
@@ -496,6 +1053,17 @@ date: 2023-10-11, from: City of Santa Clarita
 
 ---
 
+## Biden administration takes aim at junk fees
+
+date: 2023-10-11, from: Marketplace Morning Report
+
+<p>This morning, President Biden is set to announce new efforts to reduce fees consumers are charged on tickets purchases, utility bills, hotel charges and more. We dig into how regulators are looking to tackle hidden junk fees. Plus, Birkenstock — the sandal everyone loves to hate — walks onto the New York Stock Exchange today. And later: Walgreens pharmacists protest difficult working conditions.</p>
+ 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/biden-administration-takes-aim-at-junk-fees>
+
+---
+
 ## A Career Tool? A Dishonor? College Students And Educators Consider The Place Of AI In Learning
 
 date: 2023-10-13, from: The LAist
@@ -513,6 +1081,28 @@ date: 2023-10-11, from: The LAist
 In her first interview since resigning last fall, Martinez responds to the racist, offensive comments she made during a secretly-recorded conversation 
 
 <https://laist.com/news/politics/in-new-podcast-episode-we-pin-down-ex-council-president-nury-martinez-on-her-racist-comments>
+
+---
+
+## Book bans carry an economic impact
+
+date: 2023-10-11, from: Marketplace Morning Report
+
+<p>The number of books banned in public schools surged by 33% last year. While that&#8217;s led to a spike in sales for some authors, it can also translate to dried-up sales or speaking opportunities for others. We hear from a few writers about how book bans have personally impacted them. But first: What does aid look like to Ukraine and Israel in a speaker-less House?</p>
+ 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/book-bans-carry-an-economic-impact>
+
+---
+
+## Making a footprint: Birkenstock steps onto the NYSE
+
+date: 2023-10-11, from: Marketplace Morning Report
+
+<p>From the BBC World Service: German shoemaker Birkenstock floats on the New York Stock Exchange today. BBC&#8217;s Damian McGuinness reports on its journey from shabby shoe to shabby chic. Meanwhile, in Israel, the government has launched a crypto crackdown over Hamas fundraising. Finally, a Swedish city is making plans to outlaw cars next year as it battles pollution, but at what cost?</p>
+ 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/making-a-footprint-birkenstock-steps-onto-the-nyse>
 
 ---
 
@@ -648,58 +1238,14 @@ date: 2023-10-11, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## 5 possible replacements for former Speaker of the House Kevin McCarthy
+## Why you want to quit social media — but can’t
 
-date: 2023-10-11, from: Laloyolan (LMU Student Newspaper)
+date: 2023-10-10, from: Marketplace Morning Report
 
-Sit back and let the Bluff help you decide who should serve as your next speaker of the House. 
+<p>Be honest: How much value do you get out of being on TikTok, Instagram and other social media platforms? New research shows the role that FOMO plays in keeping us online. Today, we dig into the costs of not being on social media and explore how apps can become a collective trap. But first, we make sense of tightening financial conditions.</p>
+ 
 
-<https://www.laloyolan.com/the_bluff/5-possible-replacements-for-former-speaker-of-the-house-kevin-mccarthy/article_5767372b-cacb-52f0-9f7b-c017bcce4f04.html>
-
----
-
-## "Buster's great pumpkin" Comic Strip
-
-date: 2023-10-11, from: Laloyolan (LMU Student Newspaper)
-
-Buster prepares for the big pumpkin harvest of the fall. Good grief! 
-
-<https://www.laloyolan.com/cartoons/busters-great-pumpkin-comic-strip/article_16ba6e5a-67e1-11ee-954f-0b1c8773284b.html>
-
----
-
-## ASUCLA announces revamp of on-campus dining options, on-campus meal swipes
-
-date: 2023-10-11, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 10 at 10:46 p.m.</em>
-Associated Students UCLA announced new on-campus dining options for this academic year, including two new restaurants.
-ASUCLA opened the açaí bowl shop SAMBAZON in Ackerman Student Union, a Chocolate Vanilla Twist soft serve ice cream location at Northern Lights and All Rise Pizza at Lu Valle Commons. 
-
-<https://dailybruin.com/2023/10/10/asucla-announces-revamp-of-on-campus-dining-options-on-campus-meal-swipes/>
-
----
-
-## Concert preview: Past tracks, new hits come calling for fall performances
-
-date: 2023-10-11, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 12 at 8:56 p.m.</em>
-This spooky season, past sonatas lurk behind the concert stage.
-With a cloud of dust and doom, this autumn’s melodies are here to chill one&#8217;s bones. 
-
-<https://dailybruin.com/2023/10/10/concert-preview-past-tracks-new-hits-come-calling-for-fall-performances/>
-
----
-
-## Beyond Bruin Walk: Removal of McCarthy as House speaker reveals congressional dysfunction
-
-date: 2023-10-10, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 10 at 9:39 p.m.&#160;</em>
-On Oct. 3, California Rep. Kevin McCarthy became the first speaker of the House in the history of the United States to be removed by a congressional vote. 
-
-<https://dailybruin.com/2023/10/10/opinion-removal-of-mccarthy-as-house-speaker-reveals-congressional-dysfunction/>
+<https://www.marketplace.org/shows/marketplace-morning-report/why-you-want-to-quit-social-media-but-cant>
 
 ---
 
@@ -710,6 +1256,28 @@ date: 2023-10-10, from: The LAist
 Since the self-crowned “exclusively industrial” city was nearly abolished 12 years ago as too corrupt, an LAist review found good government improvements, persistent environmental problems and a plan to dramatically grow a residential population. 
 
 <https://laist.com/news/politics/city-of-vernon-history-corruption-reform-city-hall-government>
+
+---
+
+## Older workers are continuing to sit on the sidelines
+
+date: 2023-10-10, from: Marketplace Morning Report
+
+<p>So-called “prime age” workers — those 25 to 54 — are working jobs at a higher rate than before the pandemic. But the picture gets more complicated for older workers. We&#8217;ll take a closer look. Plus, gas prices have been deflating stateside despite OPEC trying to prop up oil prices. What gives? And later: The U.S. economy remains a bright spot at the annual World Bank/IMF meetings.</p>
+ 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/older-workers-are-continuing-to-sit-on-the-sidelines>
+
+---
+
+## Bond market: Yields fall as investors look to safe havens
+
+date: 2023-10-10, from: Marketplace Morning Report
+
+<p>From the BBC World Service: Yields on U.S. Treasuries tumbled on early trading in Asia, as the conflict in Israel drives market uncertainty. And in Germany, campaigners are calling for the end of a decades-old law that jails people for using public transport without a valid ticket.</p>
+ 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/bond-market-yields-fall-as-investors-look-to-safe-havens>
 
 ---
 
@@ -945,6 +1513,39 @@ Gizelle Johnson, a senior at CSUN, majoring in fashion apparel and design, has s
 
 ---
 
+## Businesses eye opportunities in student loan repayments
+
+date: 2023-10-09, from: Marketplace Morning Report
+
+<p>This month, payments on federal student loans resume. By one estimate, investors have poured $1.2 billion into student loan management startups in the past year. We take a look at this growing industry. But first, we hear how oil markets, bonds and more are responding to Israel&#8217;s declaration of war. And later: Ireland has a huge budget surplus. Now, the question is: How should it be spent?</p>
+ 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/businesses-eye-opportunities-in-student-loan-repayments>
+
+---
+
+## Nobel economics prize won by pioneering gender gap researcher
+
+date: 2023-10-09, from: Marketplace Morning Report
+
+<p>Earlier this morning, we learned that Harvard economic historian Claudia Goldin was awarded the 2023 Nobel Prize in economics. Her research centers on labor market outcomes for women and the economic underpinnings of the gender pay gap. Senior economics contributor Chris Farrell joins the show to help us understand her works and their importance. Also: Workers at Mack Trucks go on strike.</p>
+ 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/claudia-goldin-nobel-prize-economics>
+
+---
+
+## Conflict in Israel impacts the oil markets
+
+date: 2023-10-09, from: Marketplace Morning Report
+
+<p>From the BBC World Service: Neither Israel nor Palestine are major oil producers, so why does conflict there have such a big impact on the price of oil? Will Bain from the BBC explains. Plus, Leanna Byrne has been finding out how Ireland bucked the trend and managed to gather a budget surplus.</p>
+ 
+
+<https://www.marketplace.org/shows/marketplace-morning-report/conflict-in-israel-impacts-the-oil-markets>
+
+---
+
 ## Classifieds – October 9, 2023
 
 date: 2023-10-09, from: The Daily Trojan (USC Student Newspaper)
@@ -1096,986 +1697,4 @@ date: 2023-10-08, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2023/10/07/usc-defeats-arizona/>
-
----
-
-## Banned Book Week
-
-date: 2023-10-06, from: CI View (CSCI Student Newspaper)
-
-By Syd Beck What is Banned Book Week?&#160; In a time where nothing can be wiped off the internet, our libraries are our oldest, strongest [&#8230;] 
-
-<http://civiewnews.com/news/banned-book-week/?utm_source=rss&utm_medium=rss&utm_campaign=banned-book-week>
-
----
-
-## Student Says!
-
-date: 2023-10-06, from: CI View (CSCI Student Newspaper)
-
-By Ashley Tolteca and Allen Monge 
-
-<http://civiewnews.com/broadcasting/student-says/?utm_source=rss&utm_medium=rss&utm_campaign=student-says>
-
----
-
-## Quick Shoutout to Jewish Bread: Challah! A Guide to the Jewish Holidays
-
-date: 2023-10-06, from: CI View (CSCI Student Newspaper)
-
-By Aileen Lawrence With the changing leaves and the cool breeze comes the Holiday season. The festival season has a few holidays that have and [&#8230;] 
-
-<http://civiewnews.com/opinion/quick-shoutout-to-jewish-bread-challah-a-guide-to-the-jewish-holidays/?utm_source=rss&utm_medium=rss&utm_campaign=quick-shoutout-to-jewish-bread-challah-a-guide-to-the-jewish-holidays>
-
----
-
-## Future of Catalina mule deer up to state
-
-date: 2023-10-06, from: Catalina Islander
-
-A male mule deer recently visited third-graders in Avalon. Their teacher sent the Islander a photog of the buck’s visit. The Catalina Island Conservancy argues that mule deer pose a threat to the Island and its endangered plant species. The Conservancy website, in the FAQs page for the Conservancy’s Restoration Project, says the deer population [&#8230;] 
-
-<https://thecatalinaislander.com/future-of-catalina-mule-deer-up-to-state/>
-
----
-
-## Artists return to Catalina for Festival
-
-date: 2023-10-06, from: Catalina Islander
-
-The 64th Catalina Festival of Art wrapped up recently and the cool weather didn’t stop the showing of fine arts and crafts. Organizers said the 56 booths lined Crescent Avenue for this years festival and several locals were among the winners in their categories. Best in Show went to South Bay jewelry maker Joyce Carol [&#8230;] 
-
-<https://thecatalinaislander.com/artists-return-to-catalina-for-festival/>
-
----
-
-## Catalina Kid Ventures gets lower rent
-
-date: 2023-10-06, from: Catalina Islander
-
-The City Council on Tuesday, Oct. 3, approved a lease change that lowered the rent paid Catalina Kid Ventures. From now on, CKV will pay $1 a year. The new agreement will also eliminate the requirement that Kid Ventures repays utility bills to the city. The vote was 3-0. Councilmember Lisa Lavelle was absent. Mayor [&#8230;] 
-
-<https://thecatalinaislander.com/catalina-kid-ventures-gets-lower-rent/>
-
----
-
-## Sheriff’s Log: Sept. 28 to Oct. 4, 2023
-
-date: 2023-10-06, from: Catalina Islander
-
-The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Sept. 28 to Oct. 4, 2023. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
-
-<https://thecatalinaislander.com/sheriffs-log-sept-28-to-oct-4-2023/>
-
----
-
-## Letters to the Editor: published Oct. 6, 2023
-
-date: 2023-10-06, from: Catalina Islander
-
-Dear Avalon, When I stepped off the boat with my family three years ago to help preserve and protect this remarkable place, I remember feeling a deep peace. This Island is remarkable—the rugged hills, the unique plants and animals, the history, and the pounding waves. Since then, I have experienced and grown to love our [&#8230;] 
-
-<https://thecatalinaislander.com/letters-to-the-editor-published-oct-6-2023/>
-
----
-
-## USC publishes first-ever report on affiliated Greek life
-
-date: 2023-10-06, from: The Daily Trojan (USC Student Newspaper)
-
-<p>A new, student-driven state law requires universities to compile and publish yearly data, promoting transparency.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/06/usc-publishes-first-ever-report-on-affiliated-greek-life/">USC publishes first-ever report on affiliated Greek life</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/06/usc-publishes-first-ever-report-on-affiliated-greek-life/>
-
----
-
-## Classifieds – October 6, 2023
-
-date: 2023-10-06, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/06/classifieds-october-6-2023/">Classifieds &#8211; October 6, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/06/classifieds-october-6-2023/>
-
----
-
-## George Tyndall found dead at home
-
-date: 2023-10-06, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The ex-USC gynecologist was set to appear in court Oct. 13 for alleged sex crimes.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/06/george-tyndall-dead/">George Tyndall found dead at home</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/06/george-tyndall-dead/>
-
----
-
-## Defense is not the problem for USC football
-
-date: 2023-10-06, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The much-scrutinized unit can’t have all of the blame put on it.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/06/defense-is-not-the-problem-for-usc-football/">Defense is not the problem for USC football</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/06/defense-is-not-the-problem-for-usc-football/>
-
----
-
-## Men’s water polo rematches top teams
-
-date: 2023-10-06, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The No. 3 Trojans will play the No. 5 Cardinal and No. 2 Cal over the weekend.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/06/mens-water-polo-rematches-top-teams/">Men’s water polo rematches top teams</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/06/mens-water-polo-rematches-top-teams/>
-
----
-
-## The challenges that lie ahead: USC and the College Football Playoff
-
-date: 2023-10-06, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Trojans will most likely have to win out in order to make their first ever CFP.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/06/the-challenges-that-lie-ahead-usc-and-the-college-football-playoff/">The challenges that lie ahead: USC and the College Football Playoff</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/06/the-challenges-that-lie-ahead-usc-and-the-college-football-playoff/>
-
----
-
-## Football looks for complete performance
-
-date: 2023-10-06, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Trojans are returning to the Coliseum for USC’s first home game in three weeks.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/06/football-looks-for-complete-performance/">Football looks for complete performance</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/06/football-looks-for-complete-performance/>
-
----
-
-## Personalities and prospects: the Pac-12’s gasp for rejuvenation
-
-date: 2023-10-06, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The conference is ending on a high note with its play and excitement this season.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/06/the-pac-12s-gasp-for-rejuvenation/">Personalities and prospects: the Pac-12’s gasp for rejuvenation</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/06/the-pac-12s-gasp-for-rejuvenation/>
-
----
-
-## Class consciousness reveals disparity
-
-date: 2023-10-06, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The post-pandemic world has revealed the exploitative reality of capitalist society.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/06/peoples-class-consciousness-is-on-the-rise/">Class consciousness reveals disparity</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/06/peoples-class-consciousness-is-on-the-rise/>
-
----
-
-## USC has failed its Armenian students
-
-date: 2023-10-06, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The quiet atmosphere from the USC student body during an Armenian genocide in Artsakh is a sign that the Western Establishment has brainwashed us. Things must change and we students should all be expressing solidarity with our Armenian siblings. </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/06/usc-has-failed-its-armenian-students/">USC has failed its Armenian students</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/06/usc-has-failed-its-armenian-students/>
-
----
-
-## SCA alum perseveres in documentary
-
-date: 2023-10-06, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Derek Dabkoski will screen ‘Derek Changes His Mind’ at L.A. Live this Sunday.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/06/sca-alum-perseveres-in-documentary/">SCA alum perseveres in documentary</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/06/sca-alum-perseveres-in-documentary/>
-
----
-
-## My picks for best stand-up of 2023
-
-date: 2023-10-06, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Golden Globes added a Best Stand-Up Comedian category. </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/06/my-picks-for-best-stand-up-of-2023/">My picks for best stand-up of 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/06/my-picks-for-best-stand-up-of-2023/>
-
----
-
-## Keck coffee stands to be removed for Starbucks
-
-date: 2023-10-06, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Nickii Park’s stands served Health Sciences Campus for 20 years. </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/06/usc-coffee-carts-removal/">Keck coffee stands to be removed for Starbucks</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/06/usc-coffee-carts-removal/>
-
----
-
-## Soccer dominates Oregon, moves to 8-2
-
-date: 2023-10-06, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Simone Jackson scored a brace while Helena Sampaio scored her fourth of the year.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/05/soccer-dominates-oregon-moves-to-8-2/">Soccer dominates Oregon, moves to 8-2</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/05/soccer-dominates-oregon-moves-to-8-2/>
-
----
-
-## The City of Santa Clarita to Open Fourth Metrolink Station at the Vista Canyon Multi-Modal Center
-
-date: 2023-10-05, from: City of Santa Clarita
-
-<p>THE CITY OF SANTA CLARITA TO OPEN FOURTH METROLINK STATION AT THE VISTA CANYON MULTI-MODAL CENTER The City of Santa Clarita is proud to announce the opening of the Vista Canyon Multi-Modal Center. The ribbon cutting event will take place on Friday, October 20 at 1:00 p.m., inviting residents, commuters and local partnering organizations to [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/05/the-city-of-santa-clarita-to-open-fourth-metrolink-station-at-the-vista-canyon-multi-modal-center/">The City of Santa Clarita to Open Fourth Metrolink Station at the Vista Canyon Multi-Modal Center</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<https://santaclarita.gov/blog/2023/10/05/the-city-of-santa-clarita-to-open-fourth-metrolink-station-at-the-vista-canyon-multi-modal-center/>
-
----
-
-## Central Park is Back and Better than Ever!
-
-date: 2023-10-05, from: City of Santa Clarita
-
-<p>Central Park is Back and Better than Ever! By Bill Miranda The wait is officially over — the highly anticipated Central Park Buildout Project is almost complete! We are now just days away from the October 17 ribbon cutting ceremony, and we are excited to welcome residents and visitors to this new addition to our [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/05/central-park-is-back-and-better-than-ever/">Central Park is Back and Better than Ever!</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<https://santaclarita.gov/blog/2023/10/05/central-park-is-back-and-better-than-ever/>
-
----
-
-## Years Of Putrid Odors, Scores Of Complaints. The Fight Over A Facility That Recycles Dead Animals In Southeast LA
-
-date: 2023-10-10, from: The LAist
-
-Baker Commodities Inc. in the city of Vernon is suing the government agency that oversees it for $200 million in damages. Neighbors had celebrated its temporary shutdown. Now an upcoming court decision could allow a full reopening. 
-
-<https://laist.com/news/climate-environment/rendering-plants-odors-southeast-los-angeles-vernon-aqmd-complaints>
-
----
-
-## Classifieds – October 5, 2023
-
-date: 2023-10-05, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/05/classifieds-october-5-2023/">Classifieds &#8211; October 5, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/05/classifieds-october-5-2023/>
-
----
-
-## Women’s soccer prepares to oust Oregon
-
-date: 2023-10-05, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Trojans look to defend McAlister field in their last-ever Pac-12 home opener. </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/05/womens-soccer-prepares-to-oust-oregon/">Women’s soccer prepares to oust Oregon</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/05/womens-soccer-prepares-to-oust-oregon/>
-
----
-
-## Linda Caicedo conquered cancer, now soccer is next
-
-date: 2023-10-05, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Colombian winger enjoyed a World Cup breakout this summer, winning the tournament’s best goal award.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/05/linda-caicedo-conquered-cancer-now-soccer-is-next/">Linda Caicedo conquered cancer, now soccer is next</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/05/linda-caicedo-conquered-cancer-now-soccer-is-next/>
-
----
-
-## Women’s swim and dive jump into season
-
-date: 2023-10-05, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The USC Trojans come into the 2023-2024 season with championship aspirations.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/05/womens-swim-and-dive-jump-into-season/">Women’s swim and dive jump into season</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/05/womens-swim-and-dive-jump-into-season/>
-
----
-
-## It may be ‘Gilmore Girls’ season, but don’t be Rory Gilmore
-
-date: 2023-10-05, from: The Daily Trojan (USC Student Newspaper)
-
-<p>StudyTok has become the most notable inspiration for many toxic studying habits.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/05/it-may-be-gilmore-girls-season-but-dont-be-rory-gilmore/">It may be &#8216;Gilmore Girls&#8217; season, but don&#8217;t be Rory Gilmore</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/05/it-may-be-gilmore-girls-season-but-dont-be-rory-gilmore/>
-
----
-
-## USC should ban devices in classrooms
-
-date: 2023-10-05, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Devices in classes can be distracting and unproductive, and the no-electronics policy some USC professors enforce has proven more productive and beneficial.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/05/usc-should-ban-devices-in-classrooms/">USC should ban devices in classrooms</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/05/usc-should-ban-devices-in-classrooms/>
-
----
-
-## Make way for singer-songwriter Moray
-
-date: 2023-10-05, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Thornton sophomore paves the way for new voices in the pop music industry.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/05/make-way-for-singer-songwriter-moray/">Make way for singer-songwriter Moray</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/05/make-way-for-singer-songwriter-moray/>
-
----
-
-## LA Opera is back: ‘Don Giovanni’ is magnificent
-
-date: 2023-10-05, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The long-awaited return of the company sees a classic revisited superbly.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/05/la-opera-is-back-don-giovanni-is-magnificent/">LA Opera is back: ‘Don Giovanni’ is magnificent</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/05/la-opera-is-back-don-giovanni-is-magnificent/>
-
----
-
-## Hey Barbie, I still love boy bands
-
-date: 2023-10-05, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Bubblegum pop beats carried me from childhood to college, and they’ll always have a place in my heart. </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/05/hey-barbie-i-still-love-boy-bands/">Hey Barbie, I still love boy bands</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/05/hey-barbie-i-still-love-boy-bands/>
-
----
-
-## USG adds inaugural historian role
-
-date: 2023-10-05, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Luisa Luo and Heidy Cho are the first two students to assume the position.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/05/usg-adds-inaugural-historian-role/">USG adds inaugural historian role</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/05/usg-adds-inaugural-historian-role/>
-
----
-
-## USC selects permanent DPS advisory board
-
-date: 2023-10-05, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The board continues to work hand-in-hand with students on public safety.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/05/usc-selects-permanent-dps-advisory-board/">USC selects permanent DPS advisory board</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/05/usc-selects-permanent-dps-advisory-board/>
-
----
-
-## La facultad de profesores sin tenencia hacen avances, pero luchan por más, con un nuevo contracto
-
-date: 2023-10-05, from: The Occidental News (Occidental College Student Newspaper)
-
-<p>Traducido por Martina Long El sindicato de profesores sin tenencia (NTT) de Occidental celebró una manifestación victoriosa el 22 de septiembre en el “Academic Quad” para celebrar los avances logrados en un nuevo contrato que se implemento en agosto. Sin embargo, la victoria sigue siendo incierta, según el profesor de historia del arte Sami Siegelbaum— [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2023/10/04/la-facultad-de-profesores-sin-tenencia-hacen-avances-pero-luchan-por-mas-con-un-nuevo-contracto/2909694">La facultad de profesores sin tenencia hacen avances, pero luchan por más, con un nuevo contracto</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
- 
-
-<https://theoccidentalnews.com/espanol/2023/10/04/la-facultad-de-profesores-sin-tenencia-hacen-avances-pero-luchan-por-mas-con-un-nuevo-contracto/2909694>
-
----
-
-## Astrology 101 and some pop music bops and flops
-
-date: 2023-10-05, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/04/astrology-101-and-some-pop-music-bops-and-flops/">Astrology 101 and some pop music bops and flops</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/04/astrology-101-and-some-pop-music-bops-and-flops/>
-
----
-
-## Two UCLA Professors Are Among This Year’s MacArthur Fellows
-
-date: 2023-10-06, from: The LAist
-
-The "genius grant" is an $800,000 five-year grant. 
-
-<https://laist.com/news/education/two-ucla-professors-are-among-this-years-macarthur-fellows>
-
----
-
-## Cheer on the UCLA Bruins at The Cube!
-
-date: 2023-10-04, from: City of Santa Clarita
-
-<p>CHEER ON THE UCLA BRUINS AT THE CUBE! Get your 8-clap chant ready as we welcome UCLA Hockey back to The Cube! The City of Santa Clarita and The Cube – Ice and Entertainment Center &#124; Powered by FivePoint, are excited to announce the return of the UCLA Men’s Hockey Team for the 2023-24 season. [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/04/cheer-on-the-ucla-bruins-at-the-cube/">Cheer on the UCLA Bruins at The Cube!</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<https://santaclarita.gov/blog/2023/10/04/cheer-on-the-ucla-bruins-at-the-cube/>
-
----
-
-## Student-run, pirate-themed musical harkens back to Golden Age
-
-date: 2023-10-04, from: The Occidental News (Occidental College Student Newspaper)
-
-<p>Sarah Sturdevant (senior) was a first year when she started brainstorming her pirate-themed musical “The Seven Deadly Seas,” set to be performed Oct. 14 in the Booth Courtyard. In particular, Sturdevant said she was inspired by the 1942 Technicolor swashbuckler film &#8220;The Black Swan.&#8221; “As a joke, I was like, ‘What if I write this, but make it [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2023/10/04/student-run-pirate-themed-musical-harkens-back-to-golden-age/2909651">Student-run, pirate-themed musical harkens back to Golden Age</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
- 
-
-<https://theoccidentalnews.com/culture/2023/10/04/student-run-pirate-themed-musical-harkens-back-to-golden-age/2909651>
-
----
-
-## Silver Lake bar Ruby Fruit cultivates a space for the ‘sapphically inclined’
-
-date: 2023-10-04, from: The Occidental News (Occidental College Student Newspaper)
-
-<p>Sandwiched between a Baskin Robbins and Domino’s Pizza in a strip mall on Sunset Boulevard, a queer bar is changing history with every hot dog and glass of orange wine served. Named after Rita Mae Brown’s classic lesbian novel &#8220;Rubyfruit Jungle,&#8221; The Ruby Fruit opened in February, becoming one of two brick-and-mortar lesbian and genderqueer [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2023/10/04/silver-lake-bar-ruby-fruit-cultivates-a-space-for-the-sapphically-inclined/2909624">Silver Lake bar Ruby Fruit cultivates a space for the &#8216;sapphically inclined&#8217;</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
- 
-
-<https://theoccidentalnews.com/community/2023/10/04/silver-lake-bar-ruby-fruit-cultivates-a-space-for-the-sapphically-inclined/2909624>
-
----
-
-## Emmons Wellness Center offers new Health Promotion Program
-
-date: 2023-10-04, from: The Occidental News (Occidental College Student Newspaper)
-
-<p>The Emmons Wellness Center is offering a new mental health service to Occidental students starting this semester, according to an Aug. 31 email from Emmons. The Health Promotion Program is facilitated by the Health Promotion Specialist, Laura Fettig, alongside five peer mentors. The program entails drop-in hours and various workshops. According to Fettig, the Health [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2023/10/04/emmons-wellness-center-offers-new-health-promotion-program/2909625">Emmons Wellness Center offers new Health Promotion Program</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
- 
-
-<https://theoccidentalnews.com/news/2023/10/04/emmons-wellness-center-offers-new-health-promotion-program/2909625>
-
----
-
-## ‘A remarkable and insightful microcosm of our world’: the 19th Annual Animation Show of Shows
-
-date: 2023-10-04, from: The Occidental News (Occidental College Student Newspaper)
-
-<p>The Media Arts &#38; Culture (MAC) department presented a screening of the 19th Annual Animation Show of Shows Sept. 29 in Choi Auditorium. The Animation Show of Shows (ASOS) is an annual compilation of animated short films curated by Ron Diamond, producer and founder of ASOS. The screening showcased a selection of 16 animated short films from around the [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2023/10/04/a-remarkable-and-insightful-microcosm-of-our-world-the-19th-annual-animation-show-of-shows/2909627">&#8216;A remarkable and insightful microcosm of our world&#8217;: the 19th Annual Animation Show of Shows</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
- 
-
-<https://theoccidentalnews.com/culture/2023/10/04/a-remarkable-and-insightful-microcosm-of-our-world-the-19th-annual-animation-show-of-shows/2909627>
-
----
-
-## Synchronized swimming club to redefine performance and perseverance in sport
-
-date: 2023-10-04, from: The Occidental News (Occidental College Student Newspaper)
-
-<p>The Occidental Swim Cadets is the new synchronized swimming club at Occidental. According to the club&#8217;s president and founder, Lily Fawcett-Dubow (sophomore), they are having their second informational meeting Oct. 12, and will begin practices shortly after. According to the club&#8217;s treasurer, Josie Gordon (senior), the club intends to give students the opportunity to perform [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2023/10/04/synchronized-swimming-club-to-redefine-performance-and-perseverance-in-sport/2909667">Synchronized swimming club to redefine performance and perseverance in sport</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
- 
-
-<https://theoccidentalnews.com/sports/2023/10/04/synchronized-swimming-club-to-redefine-performance-and-perseverance-in-sport/2909667>
-
----
-
-## Katrina Weti, ICC’s ‘backbone,’ says goodbye to Occidental
-
-date: 2023-10-04, from: The Occidental News (Occidental College Student Newspaper)
-
-<p>Program Coordinator for the Intercultural Community Center (ICC) Katrina Weti&#8217;s &#8217;22, last day at Occidental was Sept. 30. According to Weti&#8217;s co-worker and the ICC&#8217;s lead Equity Ambassador Sueli Zalazar (senior), Weti formed the backbone of the ICC. Weti said that the position of Program Coordinator was offered to her as a temporary position and [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2023/10/04/katrina-weti-iccs-backbone-says-goodbye-to-occidental/2909632">Katrina Weti, ICC&#8217;s &#8216;backbone,&#8217; says goodbye to Occidental</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
- 
-
-<https://theoccidentalnews.com/news/2023/10/04/katrina-weti-iccs-backbone-says-goodbye-to-occidental/2909632>
-
----
-
-## Taco/Social brings Eagle Rock community together
-
-date: 2023-10-04, from: The Occidental News (Occidental College Student Newspaper)
-
-<p>Taco/Social is crafting fresh free-form tacos with flavors of tikki masala, chicken queso and Korean barbecue. The restaurant opened their doors on Colorado Boulevard Sept. 27, according to founding partner André Vener. Vener said the mission of Taco/Social is to bring the community together around great food. “We want people to come for different reasons,” [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2023/10/04/taco-social-brings-eagle-rock-community-together/2909633">Taco/Social brings Eagle Rock community together</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
- 
-
-<https://theoccidentalnews.com/community/2023/10/04/taco-social-brings-eagle-rock-community-together/2909633>
-
----
-
-## Athlete of the week Oury Diane makes a multifaceted impact on men’s soccer team
-
-date: 2023-10-04, from: The Occidental News (Occidental College Student Newspaper)
-
-<p>Occidental’s men’s soccer team won a match 5 &#8211; 3 against Pomona-Pitzer Sept. 20 with two goals from forward Oury Diane (junior). Diane also had two assists in the game. The team scored two goals against Pomona within the first seven minutes of the game — one from Diane and another from Joey Schwartz (senior). According to Diane, the [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2023/10/04/athlete-of-the-week-oury-diane-makes-a-multifaceted-impact-on-mens-soccer-team/2909662">Athlete of the week Oury Diane makes a multifaceted impact on men&#8217;s soccer team</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
- 
-
-<https://theoccidentalnews.com/sports/2023/10/04/athlete-of-the-week-oury-diane-makes-a-multifaceted-impact-on-mens-soccer-team/2909662>
-
----
-
-## New required training bridges gap between student and worker experience
-
-date: 2023-10-04, from: The Occidental News (Occidental College Student Newspaper)
-
-<p>In a proactive measure aimed at ensuring the safety and well-being of its student workforce and staff, Occidental College is introducing a sexual harassment prevention program specifically tailored for students and staff employees according to Title IX Director Alexandra Fulcher. The Discrimination and Harassment Prevention Course is a mandatory initiative that has been instituted with [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2023/10/04/new-required-training-bridges-gap-between-student-and-worker-experience/2909639">New required training bridges gap between student and worker experience</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
- 
-
-<https://theoccidentalnews.com/news/2023/10/04/new-required-training-bridges-gap-between-student-and-worker-experience/2909639>
-
----
-
-## Classifieds – October 4, 2023
-
-date: 2023-10-04, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/04/classifieds-october-4-2023/">Classifieds &#8211; October 4, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/04/classifieds-october-4-2023/>
-
----
-
-## Ryder Cup reveals lack of representation
-
-date: 2023-10-04, from: The Daily Trojan (USC Student Newspaper)
-
-<p>American team is almost representative — but almost only counts in horseshoes and hand grenades.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/04/ryder-cup-reveals-lack-of-representation/">Ryder Cup reveals lack of representation</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/04/ryder-cup-reveals-lack-of-representation/>
-
----
-
-## Women’s volleyball ventures to the desert
-
-date: 2023-10-04, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Trojans will hope to extend their winning streak to double digits this week.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/04/womens-volleyball-ventures-to-the-desert/">Women’s volleyball ventures to the desert</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/04/womens-volleyball-ventures-to-the-desert/>
-
----
-
-## Faith, fulfillment and a high-80s fastball
-
-date: 2023-10-04, from: The Daily Trojan (USC Student Newspaper)
-
-<p>USC alum Anthony Vasquez looks back on his baseball career with a vast gratitude.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/04/faith-fulfillment-and-a-high-80s-fastball/">Faith, fulfillment and a high-80s fastball</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/04/faith-fulfillment-and-a-high-80s-fastball/>
-
----
-
-## Political science students call for faculty diversity
-
-date: 2023-10-04, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Students of color mobilized to email over 100 Black and Latine professors across the US seeking a more diverse faculty.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/04/political-science-students-call-for-faculty-diversity/">Political science students call for faculty diversity</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/04/political-science-students-call-for-faculty-diversity/>
-
----
-
-## Addressing impostor syndrome as a transfer
-
-date: 2023-10-04, from: The Daily Trojan (USC Student Newspaper)
-
-<p>An acceptance letter isn’t enough for transfer students to assimilate to life at USC.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/04/addressing-impostor-syndrome-as-a-transfer/">Addressing impostor syndrome as a transfer</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/04/addressing-impostor-syndrome-as-a-transfer/>
-
----
-
-## Book bans will disarm the next generation of activists
-
-date: 2023-10-04, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Say goodbye to a better future!</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/04/book-bans-will-disarm-the-next-generation-of-activists/">Book bans will disarm the next generation of activists</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/04/book-bans-will-disarm-the-next-generation-of-activists/>
-
----
-
-## Celebrate Latine LGBTQIA+ superstars
-
-date: 2023-10-04, from: The Daily Trojan (USC Student Newspaper)
-
-<p>October offers the perfect opportunity to recognize intersectionality in art. </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/04/celebrate-latine-lgbtqia-superstars/">Celebrate Latine LGBTQIA+ superstars</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/04/celebrate-latine-lgbtqia-superstars/>
-
----
-
-## DJ, turn it up!
-
-date: 2023-10-04, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Is Balmain’s new collection an indication of the end of quiet luxury?</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/04/dj-turn-it-up/">DJ, turn it up!</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/04/dj-turn-it-up/>
-
----
-
-## USG closes multiple RSO funds for semester
-
-date: 2023-10-04, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Senate heard reports from the executive branch, CFO and various senators.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/04/usg-closes-multiple-rso-funds-for-semester/">USG closes multiple RSO funds for semester</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/04/usg-closes-multiple-rso-funds-for-semester/>
-
----
-
-## Pickleball bounces into students’ hearts
-
-date: 2023-10-04, from: The Daily Trojan (USC Student Newspaper)
-
-<p>USC is the latest place in the United States to join in on the recent sports craze.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/04/pickleball-bounces-into-students-hearts/">Pickleball bounces into students’ hearts</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/04/pickleball-bounces-into-students-hearts/>
-
----
-
-## Join Us for the Official Ribbon-Cutting Ceremony of the Central Park Buildout Project
-
-date: 2023-10-03, from: City of Santa Clarita
-
-<p>JOIN US FOR THE OFFICIAL RIBBON-CUTTING CEREMONY OF THE CENTRAL PARK BUILDOUT PROJECT The wait is almost over! The City of Santa Clarita is excited to invite the community to a ribbon-cutting ceremony for the Central Park Buildout Project. The event is scheduled to take place on Tuesday, October 17, at 10:00 a.m. at Central [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/03/join-us-for-the-official-ribbon-cutting-ceremony-of-the-central-park-buildout-project/">Join Us for the Official Ribbon-Cutting Ceremony of the Central Park Buildout Project</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<https://santaclarita.gov/blog/2023/10/03/join-us-for-the-official-ribbon-cutting-ceremony-of-the-central-park-buildout-project/>
-
----
-
-## Classifieds – October 3, 2023
-
-date: 2023-10-03, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/03/classifieds-october-3-2023/">Classifieds &#8211; October 3, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/03/classifieds-october-3-2023/>
-
----
-
-## Women’s soccer continues streak after win against Washington
-
-date: 2023-10-03, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Trojans secured the away 3-0 victory extending their win streak to four. </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/03/womens-soccer-continues-streak-after-win-against-washington/">Women’s soccer continues streak after win against Washington</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/03/womens-soccer-continues-streak-after-win-against-washington/>
-
----
-
-## USC men’s water polo sinks Tigers
-
-date: 2023-10-03, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Trojans earned their 10th win with a dominant 16-6 victory over Pacific.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/03/usc-mens-water-polo-sinks-tigers/">USC men’s water polo sinks Tigers</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/03/usc-mens-water-polo-sinks-tigers/>
-
----
-
-## In memory of Nic Kerdiles
-
-date: 2023-10-03, from: The Daily Trojan (USC Student Newspaper)
-
-<p>he Southern California hockey trailblazer leaves a legacy of love.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/03/in-memory-of-nic-kerdiles/">In memory of Nic Kerdiles</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/03/in-memory-of-nic-kerdiles/>
-
----
-
-## Women’s volleyball remains perfect in Pac-12 play with victory over Buffaloes
-
-date: 2023-10-03, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Trojans adjusted after dropping the first set and swept the next three.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/03/womens-volleyball-remains-perfect-in-pac-12-play-with-victory-over-buffaloes/">Women’s volleyball remains perfect in Pac-12 play with victory over Buffaloes</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/03/womens-volleyball-remains-perfect-in-pac-12-play-with-victory-over-buffaloes/>
-
----
-
-## Creating an accessible involvement fair
-
-date: 2023-10-03, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Disabled students face barriers when trying to become involved at USC.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/03/creating-an-accessible-involvement-fair/">Creating an accessible involvement fair</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/03/creating-an-accessible-involvement-fair/>
-
----
-
-## Disappointed but not surprised, we’re being tokenized
-
-date: 2023-10-03, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Don’t let the recent surge of Asian and Asian American representation fool you.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/03/apida-tokenization-is-no-surprise/">Disappointed but not surprised, we&#8217;re being tokenized</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/03/apida-tokenization-is-no-surprise/>
-
----
-
-## ‘It’ll Pass’ embraces love in new relationships
-
-date: 2023-10-03, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The student film screened at Norris Theater Sunday night to a standing ovation.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/03/itll-pass-embraces-love-in-new-relationships/">‘It’ll Pass’ embraces love in new relationships</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/03/itll-pass-embraces-love-in-new-relationships/>
-
----
-
-## Reneé Rapp stuns the Greek Theatre
-
-date: 2023-10-03, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The audience heard the pop singer’s debut album,“Snow Angel,” live Saturday night. </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/03/renee-rapp-stuns-the-greek-theatre/">Reneé Rapp stuns the Greek Theatre</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/03/renee-rapp-stuns-the-greek-theatre/>
-
----
-
-## Students, faculty breathe sigh of relief as writers’ strike ends
-
-date: 2023-10-03, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The deal addresses the size of writers’ rooms, residuals and AI usage in scripts.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/03/students-faculty-breathe-sigh-of-relief-as-writers-strike-ends/">Students, faculty breathe sigh of relief as writers’ strike ends</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/03/students-faculty-breathe-sigh-of-relief-as-writers-strike-ends/>
-
----
-
-## Reusable containers coming to dining halls
-
-date: 2023-10-03, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Reusable stainless steel bowls will replace current compostable containers.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/03/reusable-metal-containers-sustainability/">Reusable containers coming to dining halls</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/03/reusable-metal-containers-sustainability/>
-
----
-
-## The Hollywood Writers Strike Is Over, But The Actors Strike Could Drag On. Here's Why
-
-date: 2023-10-02, from: The LAist
-
-The actors union, SAG-AFTRA, is hoping to cut as good a deal with the studios as the writers union, WGA, did last week. But the negotiations, starting Monday, could be more complicated. 
-
-<https://laist.com/news/arts-and-entertainment/the-hollywood-writers-strike-is-over-but-the-actors-strike-could-drag-on-heres-why>
-
----
-
-## Classifieds – October 2, 2023
-
-date: 2023-10-02, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/02/classifieds-october-2-2023/">Classifieds &#8211; October 2, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/02/classifieds-october-2-2023/>
-
----
-
-## Rockin’ in the Rockies: Football scales Colorado and summits the Pac-12 planets
-
-date: 2023-10-02, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The 48-41 shootout delivered a nailbitter, but USC pulled through with the victory.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/02/rockin-in-the-rockies-football-scales-colorado-and-summits-the-pac-12-planets/">Rockin’ in the Rockies: Football scales Colorado and summits the Pac-12 planets</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/02/rockin-in-the-rockies-football-scales-colorado-and-summits-the-pac-12-planets/>
-
----
-
-## USC before breakfast: You better get used to it
-
-date: 2023-10-02, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Trojans got a taste of an early morning kickoff this weekend.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/02/usc-before-breakfast-you-better-get-used-to-it/">USC before breakfast: You better get used to it</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/02/usc-before-breakfast-you-better-get-used-to-it/>
-
----
-
-## Students shouldn’t pay for textbooks
-
-date: 2023-10-02, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The burden of purchasing textbooks should be on the University, not its students.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/02/students-shouldnt-pay-for-textbooks/">Students shouldn&#8217;t pay for textbooks</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/02/students-shouldnt-pay-for-textbooks/>
-
----
-
-## I’m not sure how to keep going, but I have to try
-
-date: 2023-10-02, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The world doesn’t stop for one person and neither can I.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/02/im-not-sure-how-to-keep-going-but-i-have-to-try/">I’m not sure how to keep going, but I have to try</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/02/im-not-sure-how-to-keep-going-but-i-have-to-try/>
-
----
-
-## Arctic Monkeys astounds at the Kia Forum
-
-date: 2023-10-02, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The band rang in the end of its North American tour with three sold-out shows.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/02/arctic-monkeys-astounds-at-the-kia-forum/">Arctic Monkeys astounds at the Kia Forum</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/02/arctic-monkeys-astounds-at-the-kia-forum/>
-
----
-
-## Ed Sheeran’s ‘Autumn Variations’’s melodies are simple, but so are its joys
-
-date: 2023-10-02, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Sheeran’s stripped-back seventh studio album packages corny blues with heartwarming seasonal reflections.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/02/ed-sheerans-autumn-variationss-melodies-are-simple-but-so-are-its-joys/">Ed Sheeran’s ‘Autumn Variations’’s melodies are simple, but so are its joys</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/02/ed-sheerans-autumn-variationss-melodies-are-simple-but-so-are-its-joys/>
-
----
-
-## Looking inside ‘The Last Days of Judas Iscariot’
-
-date: 2023-10-02, from: The Daily Trojan (USC Student Newspaper)
-
-<p>In just six weeks, the School of Dramatic Arts put on a show of biblical proportions.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/02/looking-inside-the-last-days-of-judas-iscariot/">Looking inside ‘The Last Days of Judas Iscariot’</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/02/looking-inside-the-last-days-of-judas-iscariot/>
-
----
-
-## USC releases 2021-2022 financial aid data
-
-date: 2023-10-02, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The University published its 2021-2022 data on need and non-need-based aid.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/02/usc-releases-2021-2022-financial-aid-data/">USC releases 2021-2022 financial aid data</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/02/usc-releases-2021-2022-financial-aid-data/>
-
----
-
-## Characters in college football
-
-date: 2023-10-01, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/01/189420/">Characters in college football</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<https://dailytrojan.com/2023/10/01/189420/>
-
----
-
-## Going Bananas at the Port of Hueneme’s 10th Annual Port Festival
-
-date: 2023-10-01, from: Port Hueneme
-
-September 30, 2023 Download Press Release [Port Hueneme, CA] — Yellow banana wigs, boat rides, sounds of a tropical steel drum band and perfect late summer weather got the party started at the Port for the 10th Annual Banana Festival! Welcoming people inside the Port, Oxnard Harbor District President Jess Herrera stated, “The Banana Festival <a class="read-more-style" href="https://www.portofhueneme.org/10thbf-9-30-23/">Read More</a> 
-
-<https://www.portofhueneme.org/10thbf-9-30-23/>
 

@@ -1,0 +1,4 @@
+#
+# This is a list related to State and National Parks
+#
+https://castateparks.wordpress.com/feed/ "~California State Parks blog"
