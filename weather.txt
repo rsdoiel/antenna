@@ -13,4 +13,5 @@
 # NOAA RSS Libraries and Podcasts
 https://www.spc.noaa.gov/products/spcfwrss.xml "~NOAA Weather Forecasts"
 https://www.spc.noaa.gov/products/spcrss.xml "~NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks"
-
+https://www.weather.gov/rss_page.php?site_name=gum "~NWS Forecast Office - Tiyan, Guam"
+https://www.weather.gov/gum/WSOYap "~Yap, NOAA Weather Office"

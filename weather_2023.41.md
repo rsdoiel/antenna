@@ -1,20 +1,63 @@
 ---
 
-## SPC - No watches are valid as of Sat Oct 14 22:40:02 UTC 2023
+## SPC Oct 15, 2023 0100 UTC Day 1 Convective Outlook
 
-date: 2023-10-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Sat Oct 14 22:40:02 UTC 2023. 
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0724 PM CDT Sat Oct 14 2023
+
+Valid 150100Z - 151200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe weather threat has ended over the eastern North Carolina
+vicinty.  Severe storms are not expected across the U.S. through the
+remainder of the period.
+
+...Discussion...
+A surface low now in the vicinity of southern portions of the
+Chesapeake Bay will move offshore this evening, as mid-level
+short-wave troughing continues to move eastward across the central
+Appalachians.  Earlier warm-sector convection over far eastern North
+Carolina and the Outer Banks has moved offshore, and with it, any
+potential for stronger storms.  As such, MRGL risk is being removed
+from the outlook at this time.  A few lightning strikes will remain
+possible, however, across portions of the Mid-Atlantic region
+through this evening.
+
+Elsewhere, a few thunderstorms may persist this evening over South
+Florida, while lightning is not expected across the remainder of the
+CONUS through 15/12Z.
+
+..Goss.. 10/15/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html>
+
+---
+
+## SPC - No watches are valid as of Sun Oct 15 00:29:02 UTC 2023
+
+date: 2023-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Sun Oct 15 00:29:02 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Sat Oct 14 22:40:02 UTC 2023
+## SPC - No MDs are in effect as of Sun Oct 15 00:29:02 UTC 2023
 
-date: 2023-10-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Sat Oct 14 22:40:02 UTC 2023. 
+No Mesoscale Discussions are in effect as of Sun Oct 15 00:29:02 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/md/>
 
