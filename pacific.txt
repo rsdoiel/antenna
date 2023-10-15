@@ -27,16 +27,26 @@ https://islandtimes.org/feed/ "~Island Times"
 https://marshallislandsjournal.com/feed/ "~Marshal Islands Journal"
 
 # Tonga
-https://www.nepituno.to/index.php?format=feed&type=rss "~Nepituno (Tonga)"
+#https://www.nepituno.to/index.php?format=feed&type=rss "~Nepituno (Tonga)"
 
 # Fiji bases, covering the whole Pacific region
-https://islandsbusiness.com/category/news-break/feed/ "~Island Business, news break"
+#https://islandsbusiness.com/category/news-break/feed/ "~Island Business, news break"
 
 #
 # PNG based news services
 #
-https://www.postcourier.com.pg/feed/ "~Post Courier (PNG)"
-https://www.looppng.com/section/40068/rss "~The Loop (PNG)"
+#https://www.postcourier.com.pg/feed/ "~Post Courier (PNG)"
+#https://www.looppng.com/section/40068/rss "~The Loop (PNG)"
+
+#
+# State of Hawaii
+#
+https://www.hawaiipublicradio.org/index.rss "~Hawaii Public Radio"
+https://www.pbshawaii.org/programs/kakou-hawaiis-town-hall/feed/ "~KĀKOU: Hawaiʻi’s Town Hall"
+https://www.pbshawaii.org/programs/hiki-no/feed/ "~HIKI NŌ ON PBS HAWAIʻI"
+https://www.pbshawaii.org/programs/home-is-here/feed/ "~Home is Here"
+https://www.pbshawaii.org/programs/insights-on-pbs-hawaii/feed/ "~INSIGHTS ON PBS HAWAIʻI"
+
 
 #
 # American Samoa News
@@ -59,7 +69,7 @@ https://www.theguardian.com/world/micronesia/rss "~The Guardian, World/Micronesi
 # FSM Government feeds
 #
 https://gov.fm/index.php/component/content/category/35-pio-articles?Itemid=177&format=feed&type=rss "~FSM Public Information Office (Simina Adminstration)"
-https://gov.fm/index.php/component/content/category/34-pio-articles?Itemid=177&format=feed&type=rss "~FSM Public Information Office (Panuelo Adminstration)"
+#https://gov.fm/index.php/component/content/category/34-pio-articles?Itemid=177&format=feed&type=rss "~FSM Public Information Office (Panuelo Adminstration)"
 
 #
 # Sometimes features articles on Micronesia (like when the U.S. wants somethig
