@@ -23,7 +23,7 @@ About this software
 
 ### Authors
 
-- R. S. Doiel
+- R. S. Doiel (orcid: [https://orcid.org/0000-0003-0900-6903](https://orcid.org/0000-0003-0900-6903))
 
 
 
@@ -48,3 +48,5 @@ This is a proof of concept demonstrating building a personal news aggregation us
 - Pandoc
 - GNU Make
 - SQLite3
+
+

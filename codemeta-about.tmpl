@@ -26,7 +26,7 @@ ${if(author)}
 ### Authors
 
 ${for(author)}
-- ${it.givenName} ${it.familyName}
+- ${it.givenName} ${it.familyName} ${if(it.at__id)}(orcid: [${it.at__id}](${it.at__id}))${endif}
 ${endfor}
 ${endif}
 
@@ -78,4 +78,6 @@ ${for(softwareRequirements)}
 - ${softwareRequirements}
 ${endfor}
 $endif$
+
+
 

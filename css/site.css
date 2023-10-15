@@ -6,224 +6,222 @@ html {
 }
 
 body {
-    font-family: 'Atkinson-Hyperlegible', 'Open Sans', sans-serif;
-    /* font-size: calc(1em+1vw); */
-    padding: 0;
-    margin: 0;
-    width: 95%;
-    height: auto;
-    color: black;
-    background-color: white;
+	font-family: 'Atkinson-Hyperlegible', 'Open Sans', sans-serif;
+	/* font-size: calc(1em+1vw); */
+	padding: 0;
+	margin: 0;
+	width: 95%;
+	height: auto;
+	color: black;
+	background-color: white;
 }
 
 a, a:link, a:visited {
-    /* color:  forestgreen; */
-    font-size: 110%;
-    color: darkgreen;
-    text-decoration: none;
+	/* color:  forestgreen; */
+	font-size: 110%;
+	color: darkgreen;
+	text-decoration: none;
 }
 
 a:active, a:focus, a:hover {
-    font-size: 110%;
-    color: maroon;
-    text-decoration: underline;
+	font-size: 110%;
+	color: maroon;
+	text-decoration: underline;
 }
 
 
 
 ul {
-    padding: 0;
-    margin-left: 1.24em;
-    /* list-style-type: disc;*/
+	padding: 0;
+	margin-left: 1.24em;
+	/* list-style-type: disc;*/
 }
 
 nav {
 /*     
-    position:fixed;
-    top:0;
+	position:fixed;
+	top:0;
 */
-    display: block;
-    width: 100%;
-    height: auto;
-    padding: 0;
-    padding: 0.20em;
-    /* caltech orange, white and black
-    color: white;
-    background-color: #FF6E1E; 
-    */
-    /* white on deep red */
+	display: block;
+	width: 100%;
+	height: auto;
+	padding: 0;
+	padding: 0.20em;
+	/* caltech orange, white and black
+	color: white;
+	background-color: #FF6E1E; 
+	*/
+	/* white on deep red */
 	/*
-    color: white;
-    background-color: #5f0202;
+	color: white;
+	background-color: #5f0202;
 	*/
 }
 
 nav a, nav a:link, nav a:visited {
-    font-weight: lighter;
+	font-weight: lighter;
 	/*
-    color: white; 
+	color: white; 
 	*/
-    text-decoration: none;
+	text-decoration: none;
 }
 
 nav a:active, nav a:focus, nav a:hover {
-    font-weight: lighter;
+	font-weight: lighter;
 	/*
-    color: orange;
+	color: orange;
 	*/
-    text-decoration: none;
-    text-transform: uppercase;
+	text-decoration: none;
+	text-transform: uppercase;
 }
 
 
 nav ul {
-    display: block;
-    width: 100%;
-    height: auto;
-    list-style: none;
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
+	display: block;
+	width: 100%;
+	height: auto;
+	list-style: none;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
 }
 
 nav ul li {
-    display: inline-block;
-    text-align: left;
-    padding-top: 0em;
-    padding-left: 0.82em;
-    padding-right: 0.24em;
-    padding-bottom: 0em;
-    margin: 0;
+	display: inline-block;
+	text-align: left;
+	padding-top: 0em;
+	padding-left: 0.82em;
+	padding-right: 0.24em;
+	padding-bottom: 0em;
+	margin: 0;
 }
 
 section, article {
-    display: block;
-    max-width: 90%;
-    height: auto;
-    padding: 1.24em;
-    margin-top: 1.24em;
-    margin-bottom: 0.24em;
+	display: block;
+	max-width: 90%;
+	height: auto;
+	padding: 1.24em;
+	margin-top: 1.24em;
+	margin-bottom: 0.24em;
 }
 
 
 img.rss-valid {
-    display: inline;
-    width: auto;
-    height: 0.82em;
+	display: inline;
+	width: auto;
+	height: 0.82em;
 }
 
 h1 {
-    font-size: 200%;
+	font-size: 200%;
 }
 
 h2 {
-    font-weight: lighter;
-    font-size: 170%;
+	font-weight: lighter;
+	font-size: 170%;
 }
 
 h3 {
-    font-weight: lighter;
-    font-size: 120%;
-    text-transform: uppercase;
+	font-weight: lighter;
+	font-size: 120%;
+	text-transform: uppercase;
 }
 
 h4 {
-    font-weight: lighter;
-    font-size: 100%;
-    text-transform: lowercase;
+	font-weight: lighter;
+	font-size: 100%;
+	text-transform: lowercase;
 }
 
 h1 code, h2 code, h3 code, h4 code {
-    text-transform:none;
+	text-transform:none;
 }
 
 
 footer {
-    position: fixed;
-    bottom: 0;
-    font-size: 0.82em;
-    font-weight: lighter;
-    padding: 0;
-    margin: 0;
-    width: 100%;
-    height: auto;
-    color: white;
-    background-color: black;
+	font-size: 0.82em;
+	font-weight: lighter;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: auto;
+	color: white;
+	background-color: black;
 }
 
 /* NOTE: Ingnore a P tag inserted by Markdown when rendering headers */
 footer p {
-    display: block;
-    width: 100%;
-    height: auto;
-    padding: 0;
-    margin: 0;
-    font-family: 'Dosis', sans-serif;
-    font-size: 0.82em;
-    font-weight: lighter;
-    margin-top: 0.32em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-bottom: 0;
+	display: block;
+	width: 100%;
+	height: auto;
+	padding: 0;
+	margin: 0;
+	font-family: 'Dosis', sans-serif;
+	font-size: 0.82em;
+	font-weight: lighter;
+	margin-top: 0.32em;
+	margin-left: 0;
+	margin-right: 0;
+	margin-bottom: 0;
 }
 
 footer img {
-    display: block;
-    float: left;
-    vertical-align: top;
-    border: 1px solid black;
-    border-top-left-radius: 1.2em;
-    border-top-right-radius: 1.2em;
-    box-shadow: inset 0.12em 0.12em black;
-    width: 3.2em;
-    height: auto;
-    margin: 0.24em;
+	display: block;
+	float: left;
+	vertical-align: top;
+	border: 1px solid black;
+	border-top-left-radius: 1.2em;
+	border-top-right-radius: 1.2em;
+	box-shadow: inset 0.12em 0.12em black;
+	width: 3.2em;
+	height: auto;
+	margin: 0.24em;
 }
 
 footer a, footer a:link, footer a:visited {
-    font-weight: lighter;
-    /* caltech orange */
-    color: #FF6E1E; 
+	font-weight: lighter;
+	/* caltech orange */
+	color: #FF6E1E; 
 }
 
 footer a:active, footer a:focus, footer a:hover {
-    font-weight: lighter;
-    color: lightgreen;
+	font-weight: lighter;
+	color: lightgreen;
 }
 
 /* color injections for AndOr */
 .red {
-    color: red;
+	color: red;
 }
 
 /* Google prittyprint customizaions CSS */
 li.L0, li.L1, li.L2, li.L3, li.L4, li.L5, li.L6, li.L7, li.L8, li.L9
 {
-    color: #555;
-    list-style-type: decimal;
+	color: #555;
+	list-style-type: decimal;
 }
 
 
 /* Mmark css */
 #footnote-section {
-    font-size: 80%;
-    display: none;
+	font-size: 80%;
+	display: none;
 }
 
 .footnotes {
-    font-size: 80%;
+	font-size: 80%;
 }
 
 /*
  * Project Customizations
  */
 div.project-name {
-    display: block;
-    width: 100%;
-    height: auto;
-    padding-top: 1.24em;
-    padding-left: 1.24em;
-    margin-top: 1.24em;
+	display: block;
+	width: 100%;
+	height: auto;
+	padding-top: 1.24em;
+	padding-left: 1.24em;
+	margin-top: 1.24em;
 }
 
 header {
@@ -235,65 +233,64 @@ header {
 }
 
 
-header > div {
-	margin: 0;
-	padding: 0;
-	width: 100%;
-	height: auto;
-}
-
-header > div > h1 {
-    font-size: 300%;
+header h1 {
+	position: absolute;
+	top: 0;
+	left: 8em;
+	font-size: 300%;
 	margin: 0;
 	padding: 0;
 	text-align: center;
 	/* text-shadow: 3px 3px 1px gray;*/
 	text-shadow: 0 1px #808d93,
-       	              -1px 0 #cdd2d5,
-       	              -1px 2px #808d93,
-       	              -2px 1px #cdd2d5,
-       	              -2px 3px #808d93,
-       	              -3px 2px #cdd2d5,
-       	              -3px 4px #808d93,
-       	              -4px 3px #cdd2d5,
-       	              -4px 5px #808d93,
-       	              -5px 4px #cdd2d5,
-       	              -5px 6px #808d93,
-       	              -6px 5px #cdd2d5,
-       	              -6px 7px #808d93,
-       	              -7px 6px #cdd2d5,
-       	              -7px 8px #808d93,
-       	              -8px 7px #cdd2d5;
+	   	              -1px 0 #cdd2d5,
+	   	              -1px 2px #808d93,
+	   	              -2px 1px #cdd2d5,
+	   	              -2px 3px #808d93,
+	   	              -3px 2px #cdd2d5,
+	   	              -3px 4px #808d93,
+	   	              -4px 3px #cdd2d5,
+	   	              -4px 5px #808d93,
+	   	              -5px 4px #cdd2d5,
+	   	              -5px 6px #808d93,
+	   	              -6px 5px #cdd2d5,
+	   	              -6px 7px #808d93,
+	   	              -7px 6px #cdd2d5,
+	   	              -7px 8px #808d93,
+	   	              -8px 7px #cdd2d5;
 }
 
-header > div > h2 {
-	/* display: inline-block;*/
+header h2 {
+	position: absolute;
+	top: 4em;
+	left: 24em;;
 	font-style: italic;
-    font-size: 100%;
+	font-size: 100%;
 	margin: 0;
 	padding-top:0;
 	padding-left:0;
 	padding-right:0;
 	padding-bottom: 1em;
 	text-align: center;
-    text-decoration: blue wavy underline;
+	text-decoration: blue wavy underline;
 }
 
-header div > img {
+header img {
+	display: inline;
+	position: absolute:
+	top: 0px;
+	left: 0px;
+	z-index: -5;
 	padding: 0;
 	margin: 0;
-	position: relative;
-	top: -70px;
-	left: 60%;
-	z-index: -1;
 }
 
 header blockquote {
-    display: block;
-    width: 100%;
-    height: auto;
-    padding: 0em;
-    margin-left: 2.48em;
+	display: block;
+	width: 100%;
+	height: auto;
+	padding: 0em;
+	margin-left: 2.48em;
 }
 
 section {

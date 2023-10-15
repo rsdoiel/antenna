@@ -133,8 +133,8 @@ CITATION.cff: .FORCE
 
 about.md: .FORCE
 	@cat codemeta.json | sed -E 's/"@context"/"at__context"/g;s/"@type"/"at__type"/g;s/"@id"/"at__id"/g' >_codemeta.json
-	@echo "" | pandoc --metadata-file=_codemeta.json --template codemeta-about.tmpl >about.md 2>/dev/null;
-	@if [ -f _codemeta.json ]; then rm _codemeta.json; fi
+	@echo "" | pandoc --metadata title="About $(PROJECT)" --metadata-file=_codemeta.json --template codemeta-about.tmpl >about.md #2>/dev/null;
+	#@if [ -f _codemeta.json ]; then rm _codemeta.json; fi
 
 pagefind: .FORCE
 	pagefind --verbose --bundle-dir ./pagefind --source .

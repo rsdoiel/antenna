@@ -143,26 +143,6 @@ date: 2023-10-13, from:  "~Samoa News"
 
 ---
 
-## Kaiser Permanente Reaches Tentative Deal With 75,000 Health Care Workers
-
-date: 2023-10-13, from: The Guam Daily Post
-
-FRIDAY, Oct. 13, 2023 (HealthDay News) -- A tentative deal has been reached between Kaiser Permanente and its 75,000 health care workers following a three-day strike last week. 
-
-<https://www.postguam.com/lifestyles/health/kaiser-permanente-reaches-tentative-deal-with-75-000-health-care-workers/article_4bf094d9-6bf0-50d8-a5ef-dc6537598c39.html>
-
----
-
-## Use of Hair Relaxers Raises Women's Odds for Uterine Cancer
-
-date: 2023-10-13, from: The Guam Daily Post
-
-FRIDAY, Oct. 13, 2023 (HealthDay News) -- Older Black women who use chemical hair relaxers may be more likely to develop uterine cancer, new research suggests. 
-
-<https://www.postguam.com/lifestyles/health/use-of-hair-relaxers-raises-womens-odds-for-uterine-cancer/article_242848fd-991d-5302-908e-89f7281e6918.html>
-
----
-
 ## N.Korea has sent arms to Russia for use in Ukraine: White House
 
 date: 2023-10-13, from: The Guam Daily Post
@@ -194,16 +174,6 @@ date: 2023-10-13, from:  "~Samoa News"
 
 ---
 
-## Monkey Given Gene-Edited Pig Kidney Still Alive Two Years Later
-
-date: 2023-10-13, from: The Guam Daily Post
-
-FRIDAY, Oct. 13, 2023 (HealthDay News) -- Two years after a gene-edited pig kidney was transplanted into a monkey, researchers report the monkey is still alive. 
-
-<https://www.postguam.com/lifestyles/health/monkey-given-gene-edited-pig-kidney-still-alive-two-years-later/article_d33ca45b-4c59-5a0e-b107-d783d8576b3a.html>
-
----
-
 ## College Student 101: Help Take Care of Your Eyes with These 5 Tips
 
 date: 2023-10-13, from: Marianas Variety
@@ -211,16 +181,6 @@ date: 2023-10-13, from: Marianas Variety
 (BPT) - While college is often a positive experience, it can also take a take a toll on students' eyes. From intense screen time to late study sessions and nights out with friends, prioritizing eye health may not always be top of mind. While parents may not be there to oversee their children when they’re away at college, they can still share important tips to set them up for success. 
 
 <https://www.mvariety.com/online_features/health_and_wellness/college-student-101-help-take-care-of-your-eyes-with-these-5-tips/article_b89d7a29-4380-5df3-9044-84415a8c9693.html>
-
----
-
-## Could Tissue-Zapping Procedure Be Non-Antibiotic Option for Recurrent UTIs?
-
-date: 2023-10-13, from: The Guam Daily Post
-
-FRIDAY, Oct. 13, 2023 (HealthDay News) -- For some older women, recurring urinary tract infections — and the antibiotics typically prescribed for them — become a fact of life, but a new study offers a novel treatment that may deliver… 
-
-<https://www.postguam.com/lifestyles/health/could-tissue-zapping-procedure-be-non-antibiotic-option-for-recurrent-utis/article_596fc270-1522-5330-a653-bb74bfc37bd4.html>
 
 ---
 
@@ -281,66 +241,6 @@ date: 2023-10-13, from: The Guam Daily Post
 Whispers of ghosts, the occult, and things that lurk in the night have been part of storytelling since the dawn of time. From the Salem Witch Trials to haunted lore found in historic cities across the U.S., paranormal tourism is… 
 
 <https://www.postguam.com/news/national/orbs-voices-shadows-10-ghost-tours-in-america-to-put-on-your-paranormal-radar/article_5920af4f-645f-51cc-a7d9-5ce375dc6828.html>
-
----
-
-## More Than 7 Million Americans Have Gotten the New COVID Shots
-
-date: 2023-10-13, from: The Guam Daily Post
-
-FRIDAY, Oct. 13, 2023 (HealthDay News) -- Following a rocky rollout, more than 7 million Americans have now gotten the newly updated COVID vaccines. 
-
-<https://www.postguam.com/lifestyles/health/more-than-7-million-americans-have-gotten-the-new-covid-shots/article_df5c587e-f569-5d57-ad68-dfc69dd02b37.html>
-
----
-
-## Doctor's Group Pulls Paper on 'Excited Delirium,' Often Cited in Cases Involving Excessive Force by Police
-
-date: 2023-10-13, from: The Guam Daily Post
-
-FRIDAY, Oct. 13, 2023 (HealthDay News) -- A paper that has been used in court cases to justify excessive police force was withdrawn Thursday by the American College of Emergency Physicians, a prominent doctor’s group. 
-
-<https://www.postguam.com/lifestyles/health/doctors-group-pulls-paper-on-excited-delirium-often-cited-in-cases-involving-excessive-force-by/article_4fd319de-c255-547a-93ad-d0928b67b269.html>
-
----
-
-## Abnormal Result on a Cancer Screen? Your Family Doctor Could Be Key to Follow-Up
-
-date: 2023-10-13, from: The Guam Daily Post
-
-FRIDAY, Oct. 13, 2023 (HealthDay News) -- Extra efforts by primary care doctors to reach out to patients who need follow-up after an abnormal cancer test result leads to better results in getting that care, a new clinical trial shows. 
-
-<https://www.postguam.com/lifestyles/health/abnormal-result-on-a-cancer-screen-your-family-doctor-could-be-key-to-follow-up/article_2304e846-b43d-5378-bb68-d07914f2583c.html>
-
----
-
-## Latest AI Has 100% Success Rate in Spotting Melanomas
-
-date: 2023-10-13, from: The Guam Daily Post
-
-FRIDAY, Oct. 13, 2023 (HealthDay News) -- The ability to detect skin cancer using artificial intelligence (AI) software has rapidly improved. 
-
-<https://www.postguam.com/lifestyles/health/latest-ai-has-100-success-rate-in-spotting-melanomas/article_d5174c89-2973-52c7-b650-6955f200f84d.html>
-
----
-
-## Smaller Blood Draws for Lab Tests Reduce Need for Transfusions
-
-date: 2023-10-13, from: The Guam Daily Post
-
-FRIDAY, Oct. 13, 2023 (HealthDay News) -- Drawing smaller amounts of blood from patients in the intensive care unit could lead to fewer blood transfusions, according to new research. 
-
-<https://www.postguam.com/lifestyles/health/smaller-blood-draws-for-lab-tests-reduce-need-for-transfusions/article_84df6197-1d43-551a-8f2b-2e2950e454fe.html>
-
----
-
-## When Lung Cancer Strikes the Young, Women Face Higher Risks Than Men
-
-date: 2023-10-13, from: The Guam Daily Post
-
-FRIDAY, Oct. 13, 2023 (HealthDay News) -- New research uncovers troubling trends for lung cancer in young and middle-aged women. 
-
-<https://www.postguam.com/lifestyles/health/when-lung-cancer-strikes-the-young-women-face-higher-risks-than-men/article_a37f2a7b-461d-54f8-8dfd-7e6c9fd2f0b9.html>
 
 ---
 
