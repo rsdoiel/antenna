@@ -1,7 +1,7 @@
 
 # The Antenna
 
-> An experiment in personal news aggragration
+> An experiment in personal news aggregation
 
 The Antenna is organized around lists of RSS, Atom and JSONfeeds that website publish
 to promote their content. Right now Antenna is build from two lists
