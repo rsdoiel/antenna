@@ -79,32 +79,32 @@ pacific.html: pacific.md front_page.tmpl
 		   pacific.md \
 		   >pacific.html
 
-pacific_$(VOL_NO).md: pacific.txt
-	./pacific_filter.bash
+pacific.md: pacific.txt
 	sqlite3 pacific.skim "UPDATE items SET status = 'read' WHERE published <= '$(SUNDAY)' AND published >= '$(SATURDAY)'"
 	sqlite3 pacific.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
+	./pacific_filter.bash
 	skim2md pacific.skim >pacific.md
 	cp pacific.md $(YEAR)/pacific_$(VOL_NO).md
 
 pacific.txt:
 	-skimmer pacific.txt
 
-weather: weather_$(VOL_NO).html 
+weather: weather.html 
 
-weather_$(VOL_NO).html: weather_$(VOL_NO).md front_page.tmpl
+weather.html: weather.md front_page.tmpl
 	pandoc -f markdown -t html5 \
                --lua-filter=links-to-html.lua \
 	       --metadata title="Weather, vol. $(VOL_NO)" \
 	       --metadata feed_name="Weather" \
-	       --metadata socal_north_page="socal_north_$(VOL_NO).html" \
-	       --metadata pacific_page="pacific_$(VOL_NO).html" \
-	       --metadata weather_page="weather_$(VOL_NO).html" \
+	       --metadata socal_north_page="socal_north.html" \
+	       --metadata pacific_page="pacific.html" \
+	       --metadata weather_page="weather.html" \
 	       --metadata urls_file="weather.txt" \
 		   --template front_page.tmpl \
 		   weather.md \
 		   >"weather.html"
 
-weather_$(VOL_NO).md: weather.txt
+weather.md: weather.txt
 	sqlite3 weather.skim "UPDATE items SET status = 'saved'" 
 	skim2md weather.skim >"weather.md"
 	cp weather.md $(YEAR)/weather_$(VOL_NO).md
@@ -155,6 +155,7 @@ publish: .FORCE build
 	./publish.bash
 
 get_updates: .FORCE
+	touch socal_north.txt pacific.txt weather.txt
 	-skimmer socal_north.txt
 	-skimmer pacific.txt
 	-skimmer weather.txt

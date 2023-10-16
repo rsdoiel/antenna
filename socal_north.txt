@@ -12,7 +12,7 @@ https://api.weather.gov/points/34.3917,-118.5426 "~NOAA Forcast for Santa Clarit
 #
 # Non-Profit news organizations
 #
-https://chumash.gov/latest-news?format=rss "~Chumash News"
+#https://chumash.gov/latest-news?format=rss "~Chumash News"
 https://transitinglosangeles.com/feed/ "~Transiting Los Angeles"
 https://laist.com/index.atom "~The LAist"
 https://thecatalinaislander.com/feed/ "~Catalina Islander"

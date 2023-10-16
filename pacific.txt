@@ -12,12 +12,12 @@ https://micronesia.expatreporter.com/?feed=rss2 "~Micronesia -- The Expat Report
 #
 # Comercial News Papers, Guam and the Northern Marianas, Republic of Belau
 #
-https://www.guampdn.com/search/?f=rss&amp;t=article&l=50&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News"
+https://www.guampdn.com/search/?f=rss&amp;t=article&l=50&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News" # getting errors, to many requests, 2023-10-16
 https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post"
-https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times"
+https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times" # getting errors, too many requests, 2023-10-16
 # Northern Marianas Papers
 https://www.mvariety.com/search/?nsa=eeditionl=50&t=article&f=atom "~Marianas Variety"
-https://www.saipantribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k[]=#topstory "~Saipan Tribune"
+https://www.saipantribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k[]=#topstory "~Saipan Tribune" # getting errors, to many requests, 2023-10-16
 
 
 # From the Republic of Belau
@@ -46,14 +46,18 @@ https://www.pbshawaii.org/programs/kakou-hawaiis-town-hall/feed/ "~KĀKOU: Hawai
 https://www.pbshawaii.org/programs/hiki-no/feed/ "~HIKI NŌ ON PBS HAWAIʻI"
 https://www.pbshawaii.org/programs/home-is-here/feed/ "~Home is Here"
 https://www.pbshawaii.org/programs/insights-on-pbs-hawaii/feed/ "~INSIGHTS ON PBS HAWAIʻI"
+https://www.hawaii.edu/news/feed/ "~University of Hawaiʻi News"
+http://www.manoanow.org/search/?f=rss&t=article&c=kaleo&l=50&s=start_time&sd=desc "~Ka Leo O Hawaiʻi (UH Manoa student newspaper)"
+https://thesilversword.com/feed/rss/ "~Chaminade Silversword (Chaminade Univ. student newspaper)"
+https://hawaiipacificreview.org/feed/ "~Hawai'i Pacific Review (HPU Literary Magazine)"
 
 
 #
 # American Samoa News
 #
-https://www.samoanews.com/rss.xml  "~Samoa News"
-https://www.talanei.com/feed/ "~Talanei"
-https://talamua.com/feed/ "~Talamua"
+#https://www.samoanews.com/rss.xml  "~Samoa News"
+#https://www.talanei.com/feed/ "~Talanei"
+#https://talamua.com/feed/ "~Talamua"
 
 #
 # U.S. Based News Services
@@ -75,5 +79,5 @@ https://gov.fm/index.php/component/content/category/35-pio-articles?Itemid=177&f
 # Sometimes features articles on Micronesia (like when the U.S. wants somethig
 # from them)
 #
-https://statemag.state.gov/feed/ "~State Magazine (U.S. Department of State)"
+#https://statemag.state.gov/feed/ "~State Magazine (U.S. Department of State)"
 https://www.doi.gov/feeds/list/19446/rss.xml "~OIA News (U.S. Department of the Interior)"

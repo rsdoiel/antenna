@@ -1,5 +1,58 @@
 ---
 
+## The WGA Strike is Officially Over
+
+date: 2023-10-16, from: The Canyon News (COC Student Newspaper)
+
+<p>By: Eli Kern The 2023 writers strike lasted 144 days and the&#8230;</p>
+<p>The post <a rel="nofollow" href="https://canyonsnews.com/the-wga-strike-is-officially-over/">The WGA Strike is Officially Over</a> appeared first on <a rel="nofollow" href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<https://canyonsnews.com/the-wga-strike-is-officially-over/>
+
+---
+
+## Student owner of CrochetvilleGoods finds joy in creating amigurumi plushies
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+From keychains to plushies, Melanie Beltran has many projects under her hook.
+The third-year psychology student runs CrochetvilleGoods, a crochet business that includes a shop on Etsy and commissioned work. 
+
+<https://dailybruin.com/2023/10/16/student-owner-of-crochetvillegoods-finds-joy-in-creating-amigurumi-plushies/>
+
+---
+
+## Is Halloween Horror Nights worth the cost?
+
+date: 2023-10-16, from: The Sundail (CSUN Student Newspaper)
+
+Universal Studios Hollywood Horror Nights is an event that draws in upwards of 30,000 attendees each night during the fall season. I had to stop to wonder, is it really worth it? Before answering the big question, it is necessary to understand the two types of people who go to this kind of event: those... 
+
+<https://sundial.csun.edu/176408/opinions/is-halloween-horror-nights-worth-the-cost/>
+
+---
+
+## Glendale photo exhibit sheds light on domestic abuse
+
+date: 2023-10-16, from: The Sundail (CSUN Student Newspaper)
+
+In a small library gallery, an intimate collection of photos displays the painful aftermath of domestic abuse. One image capturing a quiet moment of vulnerability stands out. A woman in a hospital bed, her hand reaching towards the person behind the camera. Extending from the bottom frame is the hand of her daughter, Hannah Kozak,... 
+
+<https://sundial.csun.edu/176400/featured/glendale-photo-exhibit-sheds-light-on-domestic-abuse/>
+
+---
+
+## How Chicano studies came to CSUN
+
+date: 2023-10-16, from: The Sundail (CSUN Student Newspaper)
+
+The Chicano Studies program did not come about without a fight; in 1968, students took over the administration building, demanding more diversity on campus, including faculty, programs, and resources that would help establish their success as minorities. Although the students were arrested, their resilience helped pave the way for programs such as the Educational Opportunity... 
+
+<https://sundial.csun.edu/176395/featured/how-chicano-studies-came-to-csun/>
+
+---
+
 ## Mens soccer fails to take the lead in draw with Sacramento State
 
 date: 2023-10-16, from: The Sundail (CSUN Student Newspaper)
@@ -193,7 +246,7 @@ With a changing formation, a number of chances in the six-yard box and 12 shots 
 
 ## Slow Down, SoCal: Speed Cameras Are Coming to LA, Long Beach, Glendale
 
-date: 2023-10-15, from: The LAist
+date: 2023-10-16, from: The LAist
 
 Gov. Gavin Newsom signed a bill permitting speed cameras in three Southern California cities as part of a statewide pilot program aimed at decreasing traffic accidents and deaths. 
 
