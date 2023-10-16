@@ -80,11 +80,9 @@ pacific.html: pacific.md front_page.tmpl
 		   >pacific.html
 
 pacific_$(VOL_NO).md: pacific.txt
+	./pacific_filter.bash
 	sqlite3 pacific.skim "UPDATE items SET status = 'read' WHERE published <= '$(SUNDAY)' AND published >= '$(SATURDAY)'"
 	sqlite3 pacific.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
-	sqlite3 pacific.skim "UPDATE items SET status = 'read' WHERE description LIKE '%(Reuters)%'"
-	sqlite3 pacific.skim "UPDATE items SET status = 'read' WHERE description LIKE '%(The Center Square)%'"
-	sqlite3 pacific.skim "UPDATE items SET status = 'read' WHERE description LIKE '%(HealthDay News)%'"
 	skim2md pacific.skim >pacific.md
 	cp pacific.md $(YEAR)/pacific_$(VOL_NO).md
 
