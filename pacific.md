@@ -1,5 +1,324 @@
 ---
 
+## Peter Manuma celebrates photo & caption
+
+date: 2023-10-16, from:  "~Samoa News"
+
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="galleria-content clearfix" id="galleria-1">
+  <a href="https://www.samoanews.com/sites/default/files/styles/article_normal_image/public/field/image/manuma_interception_1.jpg?itok=hrBpPbb1"  rel="https://www.samoanews.com/sites/default/files/field/image/manuma_interception_1.jpg"><span><img src="https://www.samoanews.com/sites/default/files/styles/slideshow/public/field/image/manuma_interception_1.jpg?itok=ETSD60qC" width="618" height="350" alt="Peter Manuma" /></span></a></div>
+</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>UH Rainbow Warrior Defensive Back, Peter Manuma, celebrated his first interception of the season by pointing acknowledgement to his family (seated directly above the Samoa News photo position).  University of Hawaii was defeated by San Diego State University 41-34 on Saturday, Oct. 14, 2023, at Clarence T.C. Ching Complex Stadium, University of Hawaii Campus, Honolulu, Hawaii. [photo: Barry Markowitz]</p>
+</div></div></div><div class="field field-name-field-section field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Section:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/linking-samoans" ><span>Linking Samoans</span></a></div></div></div><div class="field field-name-field-tags field-type-taxonomy-term-reference field-label-inline clearfix clearfix"><div class="field-label">Tags:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/uh-football" ><span>UH football</span></a></div></div></div><div class="field field-name-field-google-ad-prefilled- field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><div align="center">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- samoa --><script>
+<!--//--><![CDATA[// ><!--
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+//--><!]]>
+</script></div>
+</div></div></div><div id="disqus_thread"><noscript><p><a href="http://samoanews.disqus.com/?url=https%3A%2F%2Fwww.samoanews.com%2Flinking-samoans%2Fpeter-manuma-celebrates-photo-caption" ><span>View the discussion thread.</span></a></p></noscript></div> 
+
+<https://www.samoanews.com/linking-samoans/peter-manuma-celebrates-photo-caption>
+
+---
+
+## Ayuyu: CPA should work closely with governor
+
+date: 2023-10-16, from: Marianas Variety
+
+COMMONWEALTH Ports Authority board nominee Jose C. Ayuyu said the CPA board and managers should "work more closely" with Gov. Arnold I. Palacios, who will "ultimately have to answer to the people who elected him." 
+
+<https://www.mvariety.com/news/local/ayuyu-cpa-should-work-closely-with-governor/article_2fdff74a-6be4-11ee-97e9-3796c987dc2a.html>
+
+---
+
+## Bill to 'enhance fiscal responsibility and transparency' in land use plan
+
+date: 2023-10-16, from: Marianas Variety
+
+SENATE Floor Leader Corina L. Magofna on Monday pre-filed Senate Bill 23-48 which would “enhance fiscal responsibility and transparency” in developing and updating the CNMI's comprehensive land use plan. 
+
+<https://www.mvariety.com/news/local/bill-to-enhance-fiscal-responsibility-and-transparency-in-land-use-plan/article_94ca3e06-6bf1-11ee-af2f-63254fcbb03f.html>
+
+---
+
+## Priority Care shuts down Docomo, 80-65
+
+date: 2023-10-16, from: Marianas Variety
+
+PRIORITY Care trounced Docomo, 80-65, in the 2023 R&amp;J Wine and Liquor Inter-Government/Business League at the Ada gym on Saturday. 
+
+<https://www.mvariety.com/sports/localsports/priority-care-shuts-down-docomo-80-65/article_98c59bfe-6bdd-11ee-b971-d3b6f1c374fa.html>
+
+---
+
+## Man charged with stealing cash, food stamp coupons, other items from store
+
+date: 2023-10-16, from: Marianas Variety
+
+MICHAEL Jesse Aguon Manalo has been arrested for breaking and entering New CK Market, and taking cash, food stamp coupons, and other items. 
+
+<https://www.mvariety.com/news/local/man-charged-with-stealing-cash-food-stamp-coupons-other-items-from-store/article_a582585e-6bed-11ee-819b-7f983c8dcb11.html>
+
+---
+
+## Marpac Brewmaster Dinner set for Friday, Oct. 20
+
+date: 2023-10-16, from: Marianas Variety
+
+GUY Pudney, resident manager of Marpac, which distributes Budweiser products in the CNMI, said tickets have been sold for the Brewmaster Dinner, which will be held on Friday, Oct. 20 at the Crowne Plaza Resort. 
+
+<https://www.mvariety.com/lifestyle/marpac-brewmaster-dinner-set-for-friday-oct-20/article_889305f4-6bed-11ee-a281-b7350bf9eaac.html>
+
+---
+
+## Purple Wave, Walk, and Roll takes place in San Vicente
+
+date: 2023-10-16, from: Marianas Variety
+
+MAISE B. Tenorio, executive director of the Northern Marianas Coalition Against Domestic and Sexual Violence, invites community members to join the Purple Wave, Walk, and Roll event this Thursday, Oct. 19 at 4 p.m. at San Vicente Children’s Park. 
+
+<https://www.mvariety.com/news/local/purple-wave-walk-and-roll-takes-place-in-san-vicente/article_a5c782b8-6bf6-11ee-b11f-fb2940bfcd86.html>
+
+---
+
+## Joe Torres is Amigos October Ace
+
+date: 2023-10-16, from: Marianas Variety
+
+AMIGOS Golf Club President Joe Torres bested Ed Manglona in a scorecard playoff to win the October Ace of the Month title Sunday at  LaoLao Bay Golf &amp; Resort east course. 
+
+<https://www.mvariety.com/sports/localsports/joe-torres-is-amigos-october-ace/article_014394de-6be7-11ee-ad3f-73b1cca512ac.html>
+
+---
+
+## OPINION | Truth 22: Bamboozling the people, island-style
+
+date: 2023-10-16, from: Marianas Variety
+
+THE TRUTH of the matter is too many of our leaders have continued to FAIL miserably and bamboozled the people by not putting forth a legitimate effort to find NEW MONEY for the CNMI. I was asked on the Marianas Agupa Show if I were to advise the governor/government on what to do about our economy and my answer was “find new money.”  In the past our leaders didn’t have to work at finding investors but times and the situation have changed an instead of doing the work to FIND new investors our leaders seem to be lost about what to do. Unfortunately, they have gone down the same old path of “raising taxes and fees ON the People” when they should have been looking for new money and new tourists to replace the Chinese on DAY-ONE — learn to walk &amp; chew gum at the same time! 
+
+<https://www.mvariety.com/views/columnists/opinion-truth-22-bamboozling-the-people-island-style/article_92bd294e-6c31-11ee-abab-bf0fbdf1496b.html>
+
+---
+
+## Kilili: James Kennedy Benjamin appointed to VA Advisory Committee
+
+date: 2023-10-16, from: Marianas Variety
+
+U.S. Congressman Gregorio Kilili Camacho Sablan congratulates James Kennedy Benjamin on his appointment to the Advisory Committee on U.S. Outlying Areas and Freely Associated States. 
+
+<https://www.mvariety.com/news/local/kilili-james-kennedy-benjamin-appointed-to-va-advisory-committee/article_1db2513a-6c2f-11ee-85ba-fb453e1048d2.html>
+
+---
+
+## Israel-Hamas war hits home hard, drives New Yorkers to take action
+
+date: 2023-10-16, from: The Guam Daily Post
+
+NEW YORK — The ripples from the conflict between Israel and Hamas have hit New York hard. 
+
+<https://www.postguam.com/news/israel-hamas-war-hits-home-hard-drives-new-yorkers-to-take-action/article_03488ba4-6b6a-11ee-a83b-575b335c8a39.html>
+
+---
+
+## 2 in 3 only see a doctor when something feels extremely wrong
+
+date: 2023-10-16, from: The Guam Daily Post
+
+Nearly two-thirds of Americans only go to the doctor when something feels “extremely wrong,” new research suggests. A recent survey of 2,000 respondents found that 64% take a more reactive approach to their health, rather than a proactive one. Men… 
+
+<https://www.postguam.com/lifestyles/health/2-in-3-only-see-a-doctor-when-something-feels-extremely-wrong/article_3dc1a932-73a8-5a74-9669-f72476b1ca3d.html>
+
+---
+
+## New AI tool may detect patients’ pain before, during and after surgery
+
+date: 2023-10-16, from: The Guam Daily Post
+
+Scientists say the automated pain recognition system using AI holds "promise" for those going under the knife. 
+
+<https://www.postguam.com/lifestyles/health/new-ai-tool-may-detect-patients-pain-before-during-and-after-surgery/article_bf076fc7-1836-5a3c-81b8-dcf1a6f8c82b.html>
+
+---
+
+## Study shows adults need more education on breast cancer symptoms
+
+date: 2023-10-16, from: The Guam Daily Post
+
+Breast cancer is one of the most common cancers diagnosed in women. 
+
+<https://www.postguam.com/lifestyles/health/study-shows-adults-need-more-education-on-breast-cancer-symptoms/article_2ab89721-8cdc-5223-8685-ff258703a291.html>
+
+---
+
+## Judiciary mourns John Unpingco
+
+date: 2023-10-16, from: The Guam Daily Post
+
+The Judiciary of Guam will remember the late John Unpingco as a "defender of justice and a dedicated public servant for the people of Guam." 
+
+<https://www.postguam.com/news/judiciary-mourns-john-unpingco/article_8038cebe-6bae-11ee-ad4e-cfa2ea3afffd.html>
+
+---
+
+## Senators to hear bill on speedy trial right for the prosecution
+
+date: 2023-10-16, from: The Guam Daily Post
+
+Legislation authorizing prosecutors to assert the right to speedy trial is among the measures slated for a public hearing Tuesday. 
+
+<https://www.postguam.com/news/local/senators-to-hear-bill-on-speedy-trial-right-for-the-prosecution/article_3745eeda-6bc7-11ee-a4e1-af8cb0ca52f6.html>
+
+---
+
+## No FEMA aid for people with post-Bolaven damage
+
+date: 2023-10-16, from: The Guam Daily Post
+
+Typhoon Bolaven prompted weather officials to issue flood advisories for the island, but according to the governor's office, residents who may have experienced flood damage will not be receiving any federal help. 
+
+<https://www.postguam.com/news/no-fema-aid-for-people-with-post-bolaven-damage/article_0e299316-6bd7-11ee-897e-f38ab41f10fc.html>
+
+---
+
+## Jury selection begins: Moore's 2nd trial for drive-by shooting
+
+date: 2023-10-16, from: The Guam Daily Post
+
+The second trial for Nicholas Moore's alleged shooting in October 2020 began with jury selection. 
+
+<https://www.postguam.com/news/local/jury-selection-begins-moores-2nd-trial-for-drive-by-shooting/article_4e9fd5e2-6bb2-11ee-997e-8f561025c8f5.html>
+
+---
+
+## Torres is honored for 'Making the World a More Just Place'
+
+date: 2023-10-16, from: The Guam Daily Post
+
+Supreme Court of Guam Chief Justice Robert Torres Jr. received an award for making a more just world. 
+
+<https://www.postguam.com/news/torres-is-honored-for-making-the-world-a-more-just-place/article_b6b69fb6-6bae-11ee-be2f-876d78174427.html>
+
+---
+
+## Burglary suspect, 22, tells police he was 17
+
+date: 2023-10-16, from: The Guam Daily Post
+
+A 22-year-old man suspected of a Dededo burglary told police when apprehended that he was a 17-year-old high school student. 
+
+<https://www.postguam.com/news/burglary-suspect-22-tells-police-he-was-17/article_3a11262c-6bb6-11ee-bb8d-ff2d27b3b2ba.html>
+
+---
+
+## Emergency funding headed to hospital, Bill 164 now law
+
+date: 2023-10-16, from: The Guam Daily Post
+
+Emergency funding headed to hospital, Bill 164 now law ==By Jolene Tovesjolene@postguam.comA total of $50 million in funding is headed to the Guam Memorial Hospital as the acting governor has signed Bill 164 into law.Public Law 37-43 provides $30 million… 
+
+<https://www.postguam.com/news/emergency-funding-headed-to-hospital-bill-164-now-law/article_fb2ff806-6be3-11ee-a2c9-43cf79c58757.html>
+
+---
+
+## Man tells cops, 'You may as well take me in'
+
+date: 2023-10-16, from: The Guam Daily Post
+
+A man was charged with drug possession after being in a car without a license plate. 
+
+<https://www.postguam.com/news/man-tells-cops-you-may-as-well-take-me-in/article_fa4c9650-6bb7-11ee-8aa4-df7710582a4e.html>
+
+---
+
+## Flags to be flown half-staff for late former mayor
+
+date: 2023-10-16, from: The Guam Daily Post
+
+Acting Gov. Josh Tenorio has issued a statement on the death of former Hågat Mayor Joaquin G. Topasna. 
+
+<https://www.postguam.com/news/local/flags-to-be-flown-half-staff-for-late-former-mayor/article_a1a88e4a-6be0-11ee-84c2-a7b884118101.html>
+
+---
+
+## US pharmacy chain Rite Aid files for bankruptcy
+
+date: 2023-10-16, from: The Guam Daily Post
+
+US pharmacy chain Rite Aid filed for bankruptcy Sunday, the company said, after suffering declining sales and legal threats over its alleged involvement in the opioid crisis. 
+
+<https://www.postguam.com/news/national/us-pharmacy-chain-rite-aid-files-for-bankruptcy/article_7ebe6277-1eef-522c-85a3-83a803019ac9.html>
+
+---
+
+## How Belize became a poster child for 'debt-for-nature' swaps
+
+date: 2023-10-16, from: The Guam Daily Post
+
+When Covid hit Belize, its economy nosedived: closed borders meant fisheries and farmers had no export markets, and tourism centered on the tiny Central American nation's warm waters and wonders of biodiversity came to a halt. 
+
+<https://www.postguam.com/news/national/how-belize-became-a-poster-child-for-debt-for-nature-swaps/article_6564790d-d19b-5e80-9e0c-d2bf537e7801.html>
+
+---
+
+## Police investigate discovery of lifeless body in Sumay
+
+date: 2023-10-16, from: The Guam Daily Post
+
+A death investigation has been launched following the discovery of a deceased man in Sumay. 
+
+<https://www.postguam.com/news/local/police-investigate-discovery-of-lifeless-body-in-sumay/article_5bc59436-6b22-11ee-8ea7-eb03f2867028.html>
+
+---
+
+## Travel Advisory
+
+date: 2023-10-15, from: FSM Public Information Office (Simina Adminstration)
+
+<p><img src="https://gov.fm/images/2023/sm-travel-advisory.jpg" /></p><p align="center">
+	&nbsp;</p>
+<p align="center">
+	<img alt="" class="cke-resize" src="https://gov.fm/images/govlogo2.png" style="width: 208px; height: 207px;" /></p>
+<p style="text-align: center;">
+	<span style="font-family:times new roman,times,serif;"><span style="font-size:48px;"><strong>FEDERATED STATES OF MICRONESIA </strong><br align="center" />
+	<strong>TRAVEL ADVISORY</strong><br align="center" />
+	</span><strong style="font-family: &quot;times new roman&quot;, times, serif; font-size: 48px;">NOTICE TO THE GENERAL PUBLIC</strong></span></p>
+<p style="text-align: justify;">
+	<br span="" style="font-family: &quot;times new roman&quot;, times, serif; font-size: 28px;" />
+	<span style="font-family:times new roman,times,serif;"><span style="font-size:40px;">In response to the continued escalation of conflict between Israel and Palestinian militant groups led by Hamas, resulting in the increased loss of life and massive displacement of people, the Federated States of Micronesia hereby issues an advisory to the general public to avoid all non-essential travel to Israel, the Gaza Strip and all neighboring European and African countries.</span></span><br />
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<span style="font-size: 40px; font-family: &quot;times new roman&quot;, times, serif;">If essential travel is necessary and unavoidable, citizens are advised to exercise caution and to prioritize their safety at all times.</span></p>
+<div id="ckimgrsz" style="left: 578.5px; top: 12px;">
+	<div class="preview">
+		&nbsp;</div>
+</div>
+ 
+
+<https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/765-travel-advisory?Itemid=177>
+
+---
+
+## Fears mount that Israel-Hamas war could spark wider conflict
+
+date: 2023-10-15, from: The Guam Daily Post
+
+Fears that the Israel-Hamas conflict might spread were growing Sunday, with Israeli troops poised to launch a ground offensive into Gaza, Tehran saying that if it does so "no one can guarantee control of the situation," and Washington expressing fears… 
+
+<https://www.postguam.com/news/national/fears-mount-that-israel-hamas-war-could-spark-wider-conflict/article_ace79a15-1e73-5b05-a29c-778b6f4968ac.html>
+
+---
+
+## Taylor Swift conquers N.America box office with concert film
+
+date: 2023-10-15, from: The Guam Daily Post
+
+After her sold-out stadium tour, pop superstar Taylor Swift filled movie theaters with screaming fans as her concert film took in an estimated $96 million in its opening weekend in North America, smashing records in the category. 
+
+<https://www.postguam.com/news/national/taylor-swift-conquers-n-america-box-office-with-concert-film/article_b9ab6a89-6622-5141-812c-57176a317ed6.html>
+
+---
+
 ## PMV operators to petition, plan protest for increase in fuel prices
 
 date: 2023-10-15, from: Post Courier (PNG)
@@ -221,7 +540,7 @@ date: 2023-10-15, from: Post Courier (PNG)
 
 date: 2023-10-15, from:  "~Samoa News"
 
-<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="galleria-content clearfix" id="galleria-1">
+<div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><div class="galleria-content clearfix" id="galleria-2">
   <div id="photowithcaption"><a href="https://www.samoanews.com/sites/default/files/styles/article_normal_image/public/field/image/as_ws_flags_8.jpg?itok=tTRPyODW"  rel="https://www.samoanews.com/sites/default/files/field/image/as_ws_flags_8.jpg"><span><img src="https://www.samoanews.com/sites/default/files/styles/slideshow/public/field/image/as_ws_flags_8.jpg?itok=cWcfnYz0" width="618" height="350" alt="" /></span></a><br />
 <blockquote class"image_field_caption">
  <div id="capption"> [ata: foa'i]</div>

@@ -1,5 +1,450 @@
 ---
 
+## Mens soccer fails to take the lead in draw with Sacramento State
+
+date: 2023-10-16, from: The Sundail (CSUN Student Newspaper)
+
+CSUN&#8217;s AJ Johnson netted the only goal of the game to rally the Matadors to a 1-1 draw with the Hornets of Sacramento State University on Oct. 7, 2023. Having lost their first three conference games by one goal, CSUN’s men’s soccer (2-6-5, 0-3-1 Big West) returned to their home turf searching to secure their... 
+
+<https://sundial.csun.edu/176378/sports/mens-soccer-fails-to-take-the-lead-in-draw-with-sacramento-state/>
+
+---
+
+## Gazans Remain Trapped At The Egypt Border Crossing; Israel Renews Evacuation Demand
+
+date: 2023-10-16, from: The LAist
+
+Israel's military said that it would continue to allow Gazans to evacuate south as hundreds of thousands had already moved. Israeli strikes on the Gaza Strip have killed more than 2,600 Palestinians. 
+
+<https://laist.com/news/blinken-says-the-crossing-to-egypt-will-open-to-aid-as-israel-prepares-to-strike-gaza>
+
+---
+
+## 2023 Sidewalk Poetry Winners
+
+date: 2023-10-16, from: City of Santa Clarita
+
+<p>2023 SIDEWALK POETRY WINNERS Bringing Artistic Expression to City Streets &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; The City of Santa Clarita is proud to announce the Sidewalk Poetry Winners for 2023. This year, poets were tasked with invoking The Senses of Home, delving into the sights, sounds, smells and more that define a person&#8217;s home within the community. &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Congratulations [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/16/2023-sidewalk-poetry-winners/">2023 Sidewalk Poetry Winners</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2023/10/16/2023-sidewalk-poetry-winners/>
+
+---
+
+## War in Artsakh
+
+date: 2023-10-16, from: The Canyon News (COC Student Newspaper)
+
+<p>By: Nareg Charkhedian Green hills and blue skies on campus at College&#8230;</p>
+<p>The post <a rel="nofollow" href="https://canyonsnews.com/war-in-artsakh/">War in Artsakh</a> appeared first on <a rel="nofollow" href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<https://canyonsnews.com/war-in-artsakh/>
+
+---
+
+## It's The Warmest September On Record Thanks To El Niño And, Yes, Climate Change
+
+date: 2023-10-16, from: The LAist
+
+A new government report finds that September was the hottest in the agency's 174-year global climate record. Climate change and El Niño are driving the heat. 
+
+<https://laist.com/news/climate-environment/warmest-september-on-record-el-nino-climate-change>
+
+---
+
+## Best Things To Do This Week In Los Angeles And SoCal: Oct. 16 - 19
+
+date: 2023-10-16, from: The LAist
+
+View William Blake's art at the Getty. Catch Janelle Monáe in concert. Screen "L’Inferno" (1911) with live musical accompaniment. Attend a panel on The Living Queer Archive at LACE. 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-los-angeles-southern-california-october-16-19>
+
+---
+
+## Revealed: How A Little-Known Pollution Rule Keeps The Air Dirty For Millions Of Americans
+
+date: 2023-10-16, from: The LAist
+
+Major investigation shows local governments are increasingly exploiting a loophole in the Clean Air Act, leaving more than 21 million Americans with air that’s dirtier than they realize. California leads the nation it its use. 
+
+<https://laist.com/news/climate-environment/clean-air-loophole-epa-pollution-exceptional-events>
+
+---
+
+## What Is The Exceptional Events Rule? The Loophole Letting US Regulators Wipe Air Pollution From The Record
+
+date: 2023-10-16, from: The LAist
+
+First pushed through by the Republican senator and climate denier Jim Inhofe, the rule has become a "regulatory escape hatch" for states that want to meet federal air-quality standards. 
+
+<https://laist.com/news/climate-environment/exceptional-events-rule-loophole-pollution-epa-investigation>
+
+---
+
+## A Fast-Moving Wildfire In Topanga Canyon Is A Nightmare Scenario. How To Get Ready
+
+date: 2023-10-16, from: The LAist
+
+The area is a longstanding concern for fire experts because it has just a handful of narrow roads to evacuate thousands of residents. 
+
+<https://laist.com/news/climate-environment/topanga-canyon-wildfire-risk>
+
+---
+
+## Op-ed: We must move beyond zero-sum thinking in Israel-Palestine
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Our campus has been riven by sharply opposing perspectives on the unfolding disaster in Israel-Palestine. Recent gatherings by supporters of Israel and supporters of Palestinian liberation point to a chasm that will only widen and become ever more combustible. 
+
+<https://dailybruin.com/2023/10/15/op-ed-we-must-move-beyond-zero-sum-thinking-in-israel-palestine/>
+
+---
+
+## USAC recap – Oct. 10
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its second fall quarter meeting Oct. 10.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<https://dailybruin.com/2023/10/15/usac-recap-oct-10-2/>
+
+---
+
+## Q&A: Dean Alissa Park aims to foster diversity, inclusion in UCLA engineering school
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ah-Hyung “Alissa” Park, the Ronald and Valerie Sugar Dean of the UCLA Henry Samueli School of Engineering and Applied Science, sat down with the Daily Bruin to discuss her plans in the new role for the upcoming year. 
+
+<https://dailybruin.com/2023/10/15/qa-dean-alissa-park-aims-to-foster-diversity-inclusion-in-ucla-engineering-school/>
+
+---
+
+## UCLA hosts Latinx Welcome event to cultivate inclusivity on campus
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Latinx Welcome was held Oct. 9 to foster a welcoming environment for Latino students and families. 
+The annual event was hosted from 4 p.m. 
+
+<https://dailybruin.com/2023/10/15/ucla-hosts-latinx-welcome-event-to-cultivate-inclusivity-on-campus/>
+
+---
+
+## Annual Black Convocation unites and celebrates Black community at UCLA
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA&#8217;s annual Black Convocation, which was held Wednesday evening, welcomed Black community members back to campus and celebrated their achievements.
+Hundreds of Black students, faculty and staff gathered in Carnesale Commons for the celebration, which featured guest speakers, including California Assembly Majority Leader Isaac Bryan and Tananarive Due, a continuing lecturer of African American studies. 
+
+<https://dailybruin.com/2023/10/15/annual-black-convocation-unites-and-celebrates-black-community-at-ucla/>
+
+---
+
+## Editorial: Permanent funding is crucial for ensuring continued access to The New York Times
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 15 at 11:03 p.m.</em>
+“All the news that’s fit to print” is now free to peruse for all UCLA students thanks to a new funding program under the Undergraduate Students Association Council. 
+
+<https://dailybruin.com/2023/10/15/editorial-permanent-funding-is-crucial-for-ensuring-continued-access-to-the-new-york-times/>
+
+---
+
+## Why LA's Bird Populations Today Are Evidence Of Historical Redlining
+
+date: 2023-10-16, from: The LAist
+
+A Cal State LA study looks at how the historic practice of redlining contributed to modern biodiversity in our local bird populations 
+
+<https://laist.com/news/climate-environment/why-las-bird-populations-today-are-evidence-of-historical-redlining>
+
+---
+
+## UCLA men’s water polo blows USC out of water in 18th straight win
+
+date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Statistics can tell a story.
+But the scoreboard isn’t enough to encapsulate Saturday&#8217;s crosstown showdown.
+In its best defensive game of the season, No. 1 UCLA men’s water polo (18-0, 4-0 MPSF) held No. 
+
+<https://dailybruin.com/2023/10/15/ucla-mens-water-polo-blows-usc-out-of-water-in-18th-straight-win/>
+
+---
+
+## Following slow start, UCLA men’s soccer displays versatility in LMU loss
+
+date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 15 at 10:56 p.m.</em>
+With a changing formation, a number of chances in the six-yard box and 12 shots on goal, the Bruins threw everything they could at the Lions. 
+
+<https://dailybruin.com/2023/10/15/following-slow-start-ucla-mens-soccer-displays-versatility-in-lmu-loss/>
+
+---
+
+## Slow Down, SoCal: Speed Cameras Are Coming to LA, Long Beach, Glendale
+
+date: 2023-10-15, from: The LAist
+
+Gov. Gavin Newsom signed a bill permitting speed cameras in three Southern California cities as part of a statewide pilot program aimed at decreasing traffic accidents and deaths. 
+
+<https://laist.com/news/slow-down-socal-speed-cameras-are-coming-to-la-long-beach-glendale>
+
+---
+
+## Local Pitcher Earns Herself a Spot On Team USA
+
+date: 2023-10-15, from: The Canyon News (COC Student Newspaper)
+
+<p>By Katherine Brook Defying odds and tradition. this past summer Valencia High&#8230;</p>
+<p>The post <a rel="nofollow" href="https://canyonsnews.com/local-pitcher-earns-herself-a-spot-on-team-usa/">Local Pitcher Earns Herself a Spot On Team USA</a> appeared first on <a rel="nofollow" href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<https://canyonsnews.com/local-pitcher-earns-herself-a-spot-on-team-usa/>
+
+---
+
+## Trader Joe's Is Suing Trader Joe For Trademark Infringement
+
+date: 2023-10-16, from: The LAist
+
+The grocer is suing the cryptocurrency exchange for using its name. 
+
+<https://laist.com/news/tjs-v-tj-beloved-grocer-sues-crypto-exchange-over-use-of-the-name-trader-joe>
+
+---
+
+## SENSES: A Main Street Monster Mash
+
+date: 2023-10-15, from: City of Santa Clarita
+
+<p>SENSES: A Main Street Monster Mash By City Manager Ken Striplin It seems as though we were just announcing the transformation of Main Street in Old Town Newhall into a one-night Saint Patrick’s Day party, but time flies when you’re having a great time at SENSES Block Party. This event series has become a City-wide [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/15/senses-a-main-street-monster-mash/">SENSES: A Main Street Monster Mash</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2023/10/15/senses-a-main-street-monster-mash/>
+
+---
+
+## Rock and Roll fest comes to Castaic
+
+date: 2023-10-15, from: The Canyon News (COC Student Newspaper)
+
+<p>By: Chris Casey With guitars strumming and music in the air, that&#8230;</p>
+<p>The post <a rel="nofollow" href="https://canyonsnews.com/rock-and-roll-fest-comes-to-castaic/">Rock and Roll fest comes to Castaic</a> appeared first on <a rel="nofollow" href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<https://canyonsnews.com/rock-and-roll-fest-comes-to-castaic/>
+
+---
+
+## Rescuers from Pasadena Land In Fire-Ravaged Maui To Search for Lost Pets
+
+date: 2023-10-15, from: The LAist
+
+The Maui Humane Society is still looking for some pets lost during August's wildfires on the island — and Pasadena Humane Society is among the organizations sending staff members to help. 
+
+<https://laist.com/news/rescuers-from-pasadena-land-in-fire-ravaged-maui-to-search-for-lost-pets>
+
+---
+
+## How A Wild Daisy Could Ward Off Mining At A SoCal Mountain Range
+
+date: 2023-10-15, from: The LAist
+
+The Inyo rock daisy has been registered as a threatened species in a region prone to mining 
+
+<https://laist.com/news/how-a-wild-daisy-could-ward-off-mining-at-a-socal-mountain-range>
+
+---
+
+## Oregon State chops down UCLA football after three first-half interceptions
+
+date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 15 at 10:49 p.m.</em>
+CORVALLIS – Freshman Dante Moore does not have much history with the Bruins.
+Yet history continues to repeat itself for the young quarterback, just not in a way that aids him or his team.&#160;
+The former five-star recruit made it three consecutive games with both an opening-drive interception and a first-half pick six as No. 
+
+<https://dailybruin.com/2023/10/14/oregon-state-chops-down-ucla-football-after-three-first-half-interceptions/>
+
+---
+
+## Notre Dame wallops USC wire-to-wire
+
+date: 2023-10-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Junior quarterback Caleb Williams threw three first half interceptions in Saturday’s loss.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/14/notre-dame-wallops-usc-wire-to-wire/">Notre Dame wallops USC wire-to-wire</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/14/notre-dame-wallops-usc-wire-to-wire/>
+
+---
+
+## With a recovered squad, UCLA women’s volleyball secures victory over California
+
+date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins managed to break out of their three-game losing streak.
+UCLA women&#8217;s volleyball (10-7, 2-5 Pac-12) swept its first contest against California (12-6, 1-6) on Friday night with a healthy Bruin squad. 
+
+<https://dailybruin.com/2023/10/14/with-a-recovered-squad-ucla-womens-volleyball-secures-victory-over-california/>
+
+---
+
+## With a united team, UCLA women’s soccer maintains focus to hold Utah scoreless
+
+date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct 15. at 10:55 p.m.</em>
+The Bruins claimed another victory to preserve their undefeated streak in conference play.
+No. 5 UCLA women&#8217;s soccer (12-1, 6-0 Pac-12) faced off against Utah (5-5-5, 1-3-2) in a 4-0 shutout contest Friday evening. 
+
+<https://dailybruin.com/2023/10/14/with-a-united-team-ucla-womens-soccer-maintains-focus-to-hold-utah-scoreless/>
+
+---
+
+## Theater review: ‘The Engagement Party’ shines with a dazzling script, multifaceted drama
+
+date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 15 at 7:51 p.m.</em>
+“The Engagement Party” is well worth putting a ring on.
+Directed by Tony Award winner Darko Tresnjak, the contemporary drama unveils the strife that shakes the table of the wealthy young couple Josh (Jonah Platt) and Katherine’s (Bella Heathcote) intimate engagement party. 
+
+<https://dailybruin.com/2023/10/14/theater-review-the-engagement-party-shines-with-a-dazzling-script-multifaceted-drama/>
+
+---
+
+## UCLA swim and dive defeats Washington State as 4 swimmers make top 6 in points
+
+date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 15 at 10:57 p.m.</em>
+The Bruins kicked off a series of five consecutive dual meets with a win over the Cougars. 
+
+<https://dailybruin.com/2023/10/14/ucla-swim-and-dive-defeats-washington-state-as-4-swimmers-make-top-6-in-points/>
+
+---
+
+## Celebrating Día de los Muertos at The Soraya with Lila Downs
+
+date: 2023-10-15, from: The Sundail (CSUN Student Newspaper)
+
+The Soraya will be hosting a performance in celebration of Día de los Muertos (Day of the Dead) on Saturday, Oct. 14 at 8 p.m. at The Soraya’s Great Hall. “Dos Corazones: Día de Muertos” will feature singer Lila Downs, performing alongside dancers from the group Ballet Folklórico de Los Ángeles. Día de los Muertos... 
+
+<https://sundial.csun.edu/176373/arts-entertainment/celebrating-dia-de-los-muertos-at-the-soraya-with-lila-downs/>
+
+---
+
+## At Battle for the Bell, UCLA women’s golf channels back-nine surge to defeat USC
+
+date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Victory Bell is staying in Westwood.
+No. 9 UCLA women’s golf defeated No. 14 USC in the second annual Battle for the Bell at Bel-Air Country Club on Thursday. 
+
+<https://dailybruin.com/2023/10/14/at-battle-for-the-bell-ucla-womens-golf-channels-back-nine-surge-to-defeat-usc/>
+
+---
+
+## Beatboxing Bruins voices goal to create community for present, future beatboxers
+
+date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 15 at 7:40 p.m.</em>
+The Beatboxing Bruins members are marching to the beat of their own drum.
+Having had its first meeting of the academic year Thursday, the only student organization at UCLA centered around beatboxing – an art form that manipulates vocal sounds to imitate musical instruments – will continue to serve as a hub for beatboxers to practice and showcase their craft. 
+
+<https://dailybruin.com/2023/10/14/beatboxing-bruins-voices-goal-to-create-community-for-present-future-beatboxers/>
+
+---
+
+## Sheriff’s Log: Oct. 5 to Oct. 11, 2023
+
+date: 2023-10-13, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Oct. 5 to Oct. 11, 2023. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-oct-5-to-oct-11-2023/>
+
+---
+
+## Bravo’s Landscaping and Straight Up Builders win
+
+date: 2023-10-13, from: Catalina Islander
+
+Thursday night was the night for standings tie breaking. Bravo’s Landscaping faced off against Coyote Joe’s in game one. Justin Hernandez hit a double for Bravo’s Landscaping in the first inning, but was left stranded at second. In the bottom of the inning Joe Talsky laid out at first to deny Marco Gallegos a hit. [&#8230;] 
+
+<https://thecatalinaislander.com/bravos-landscaping-and-straight-up-builders-win-2/>
+
+---
+
+## The High Cost of Cheap Concert Tickets
+
+date: 2023-10-13, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>Late last year, during the aftermath of the COVID-19 lockdowns that kept musicians off the road for more than two years, superstar Taylor Swift announced her Eras tour. In a self-proclaimed act of generosity, tickets for the concerts were priced extremely low with VIP packages costing just $900 and other tickets selling for as little [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/the-high-cost-of-cheap-concert-tickets/">The High Cost of Cheap Concert Tickets</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/the-high-cost-of-cheap-concert-tickets/?utm_source=rss&utm_medium=rss&utm_campaign=the-high-cost-of-cheap-concert-tickets>
+
+---
+
+## Schickling: Allow recreational cannabis
+
+date: 2023-10-13, from: Catalina Islander
+
+Councilmember says revenue would be alternative to STR During last week’s council meeting, Councilmember Mary Schickling argued that a dispensary for recreation marijuana would relieve the city’s dependancy on the short term rental tax. Schickling brought up the idea during council comments, so the council took no action on her idea. “A lot of cities [&#8230;] 
+
+<https://thecatalinaislander.com/schickling-allow-recreational-cannabis/>
+
+---
+
+## Pepperdine Rankings Drop from 55th to 76th Nationally
+
+date: 2023-10-13, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>Pepperdine University, once nearing the pinnacle in higher education rankings a few years ago, now finds itself in uncharted territory, ranking 76th of National Universities in the 2023 U.S. News and World Report (USNWR) rankings. This unexpected and substantial drop has sent shockwaves through the Pepperdine community and beyond. But what exactly led to this [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/pepperdine-rankings-drop-from-55th-to-76th-nationally/">Pepperdine Rankings Drop from 55th to 76th Nationally</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/pepperdine-rankings-drop-from-55th-to-76th-nationally/?utm_source=rss&utm_medium=rss&utm_campaign=pepperdine-rankings-drop-from-55th-to-76th-nationally>
+
+---
+
+## Letters to the Editor: published Oct. 13, 2023
+
+date: 2023-10-13, from: Catalina Islander
+
+Catalina Island Humane Society opposes deer eradication The Catalina Island Humane Society (CIHS), as the voice of compassion for animals on Catalina Island, strongly opposes the recent decision by the Catalina Island Conservancy to eradicate the entire population of mule deer on Catalina Island. This move, driven by the Conservancy’s stated goal to return the [&#8230;] 
+
+<https://thecatalinaislander.com/letters-to-the-editor-published-oct-13-2023/>
+
+---
+
+## How To Help Humanitarian Efforts In Israel And Gaza
+
+date: 2023-10-14, from: The LAist
+
+Humanitarian groups are working to respond to the violence in Israel and Gaza. Here are some ways to help — and avoid getting scammed. 
+
+<https://laist.com/news/how-to-help-humanitarian-efforts-in-israel-and-gaza>
+
+---
+
 ## Agua Dulce Animal Sanctuary
 
 date: 2023-10-13, from: The Canyon News (COC Student Newspaper)
@@ -22,6 +467,36 @@ The surprise attack on Israel has brought the militant group back into the spotl
 
 ---
 
+## Long Beach Locks In Lower Natural Gas Prices For Customers
+
+date: 2023-10-13, from: The LAist
+
+The new contract is designed to stabilize natural gas prices this winter through early 2026. 
+
+<https://laist.com/news/long-beach-locks-in-lower-natural-gas-prices-for-customers>
+
+---
+
+## Your SoCal Weather Report For Friday, Oct. 13: Enjoy The Cooldown This Weekend
+
+date: 2023-10-13, from: The LAist
+
+It's going to be cooler today through Saturday but come Sunday, another warming trend. 
+
+<https://laist.com/news/climate-environment/la-weather-report-october-13-onshore-flow-cooler-temps>
+
+---
+
+## 'Ring Of Fire' Solar Eclipse Will Be Here Saturday Morning. Here's How To View In LA
+
+date: 2023-10-13, from: The LAist
+
+L.A. won't get a full eclipse, but at 9:24 a.m. about 70% of the sun will be obscured. 
+
+<https://laist.com/news/heres-how-you-can-see-saturdays-ring-of-fire-solar-eclipse-los-angeles>
+
+---
+
 ## Here's How You Can See Saturday's 'Ring Of Fire' Solar Eclipse
 
 date: 2023-10-13, from: The LAist
@@ -36,9 +511,29 @@ People in some areas of the western U.S. will be able to see the annular eclipse
 
 date: 2023-10-13, from: The LAist
 
-The order from Israel faced immediate international objections, including from the U.N., which warned such an evacuation would have "devastating humanitarian consequences." 
+The evacuation order from Israel affecting 1 million people faced immediate objections, including from the U.N., which warned such an evacuation would have "devastating humanitarian consequences." 
 
 <https://laist.com/news/israel-warns-more-than-1-million-people-to-evacuate-northern-gaza>
+
+---
+
+## Discover The Simple Beauty of Spanish And Portuguese Cooking In Los Angeles
+
+date: 2023-10-15, from: The LAist
+
+Recently, a new crop of local chefs began to offer their take on Iberian cooking 
+
+<https://laist.com/news/food/discover-the-simple-beauty-of-spanish-and-portuguese-cooking-in-los-angeles>
+
+---
+
+## Wax Nostalgic About That LAUSD Coffee Cake? Here’s How You Can Make Your Own
+
+date: 2023-10-14, from: The LAist
+
+Two amateur bakers take on a beloved, almost sacrosanct school treasure. 
+
+<https://laist.com/news/food/los-angeles-unified-coffee-cake-make-it-at-home>
 
 ---
 
@@ -52,29 +547,9 @@ Octoberfest is calling. Here are some of our favorite places to get a hot, salty
 
 ---
 
-## Wax Nostalgic About That LAUSD Coffee Cake? Here’s How You Can Make Your Own
-
-date: 2023-10-13, from: The LAist
-
-Two amateur bakers take on a beloved, almost sacrosanct school treasure. 
-
-<https://laist.com/news/food/los-angeles-unified-coffee-cake-make-it-at-home>
-
----
-
-## Discover The Simple Beauty of Spanish And Portuguese Cooking In Los Angeles
-
-date: 2023-10-13, from: The LAist
-
-Recently, a new crop of local chefs began to offer their take on Iberian cooking 
-
-<https://laist.com/news/food/discover-the-simple-beauty-of-spanish-and-portuguese-cooking-in-los-angeles>
-
----
-
 ## UCLA students attend walkout, teach-in following violence in Palestine
 
-date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
 
 A couple hundred people gathered in Bruin Plaza on Thursday during a walkout to demonstrate in support of Palestine.
 The walkout – which was organized by more than 10 student groups, including Students for Justice in Palestine at UCLA and UC Divest Coalition at UCLA – began at 2 p.m. 
@@ -85,7 +560,7 @@ The walkout – which was organized by more than 10 student groups, including St
 
 ## Jewish organizations at UCLA host vigil honoring lives lost in recent attacks
 
-date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
 
 Hundreds of people attended a vigil Wednesday evening in Bruin Plaza to honor the lives lost in attacks on Israeli civilians and soldiers.
 The vigil, which was hosted at 7 p.m. 
@@ -96,7 +571,7 @@ The vigil, which was hosted at 7 p.m.
 
 ## Op-ed: UCLA community should participate in Great ShakeOut to prepare for earthquakes
 
-date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
 
 October is Bruin Earthquake Awareness Month, and in the case of an unexpected natural disaster, there is no question that practice and preparation can save lives. 
 
@@ -116,7 +591,7 @@ Boyle Heights is one of L.A.'s oldest neighborhoods, full of interesting history
 
 ## Opinion: Bridging generations and embracing change can inspire self-growth
 
-date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
 
 My heart pounded faster as the taxi turned onto the familiar street from my childhood. Steam was wafting from a nearby dumpling house and children were gathered around a row of concession stands. 
 
@@ -126,7 +601,7 @@ My heart pounded faster as the taxi turned onto the familiar street from my chil
 
 ## Examining data privacy issues in wake of social media, technological developments
 
-date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Oct 12 at 10:58 p.m.</em>
 As increasingly advanced technological developments manifest in Bruins&#8217; daily lives through social media and other internet applications, questions arise regarding their implications on data privacy issues. 
@@ -137,7 +612,7 @@ As increasingly advanced technological developments manifest in Bruins&#8217; da
 
 ## Scouting Report: UCLA football vs. Oregon State
 
-date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Oct 12 at 9:55 p.m.</em>
 No. 18 UCLA football (4-1, 1-1 Pac-12) will journey to Corvallis to face No. 15 Oregon State (5-1, 2-1) after its win over No. 
@@ -148,7 +623,7 @@ No. 18 UCLA football (4-1, 1-1 Pac-12) will journey to Corvallis to face No. 15 
 
 ## No. 18 UCLA football to spar with No. 15 Oregon State, top-15 rushing offense
 
-date: 2023-10-13, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-13, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Oct 12 at 10:05 p.m.</em>
 The Bruins last traveled to Corvallis for a conference football game Nov. 7, 2015.
@@ -160,7 +635,7 @@ They shut out the Beavers 41-0 that day.
 
 ## UCLA women’s volleyball seeks Pac-12 resurgence against California, Stanford
 
-date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Oct 12 at 9:54 p.m.</em>
 The Bruins have yearned for their shot at a championship since the beginning.
@@ -172,7 +647,7 @@ The Bruins have yearned for their shot at a championship since the beginning.
 
 ## Ms. Magazine celebrates 50-year anniversary with discussion panel at Hammer Museum
 
-date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Oct. 12 at 10:49 p.m.</em>
 Ms. Magazine celebrated its 50-year anniversary at the Hammer Museum through a discussion panel Oct. 5.
@@ -184,7 +659,7 @@ Since the magazine’s inception in 1973, Ms.
 
 ## Honey Krush opens in Westwood, fuses organic ingredients with cultural roots
 
-date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
 
 Honey Krush, a cafe serving organic drinks, boba and chicken, opened on Westwood Boulevard.
 The restaurant &#8211; which had its soft launch Sept. 23  &#8211; is co-owned by Brian Ko and Richard Han, both of whom created the idea for the cafe while in college. 
@@ -195,7 +670,7 @@ The restaurant &#8211; which had its soft launch Sept. 23  &#8211; is co-owned b
 
 ## Weekend in preview: Oct. 12
 
-date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Oct 12 at 10:01 p.m.</em>
 Men’s soccer
@@ -218,7 +693,7 @@ The Warren Bears will take on the Downey Vikings on Friday for the first high sc
 
 ## UCLA athletic director Martin Jarmond discusses Big Ten move, NIL
 
-date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Oct 12 at 9:53 p.m.</em>
 UCLA athletic director Martin Jarmond met with Daily Bruin Sports on Tuesday.
@@ -296,7 +771,7 @@ Federal pandemic relief funds for childcare programs expired Sept. 30, leaving p
 
 ## This Prolific LA Eviction Law Firm Was Caught Faking Cases In Court. Did They Misuse AI?
 
-date: 2023-10-12, from: The LAist
+date: 2023-10-16, from: The LAist
 
 Dennis Block runs what he says is California’s “leading eviction law firm.” A judge said legal citations submitted in Block's name for a recent case were fake. Six legal experts told LAist the errors likely stemmed from AI misuse. 
 
@@ -316,7 +791,7 @@ Watch a night of 'Comical Magic.' Attend a Haiku Duel. Check out the largest car
 
 ## Gallery: UCLA football’s defense dominates in comeback win against Washington State
 
-date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
 
 The Bruins’ stifling defense clamped down on the Cougars during Saturday afternoon’s 25-17 victory, dealing Washington State quarterback Cameron Ward his first two interceptions of the season and sacking him three times. 
 
@@ -326,7 +801,7 @@ The Bruins’ stifling defense clamped down on the Cougars during Saturday after
 
 ## Former prime minister of Finland discusses international peace at Burkle Center
 
-date: 2023-10-12, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-12, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Oct 12 at 10:51 p.m.</em>
 The UCLA Burkle Center for International Relations hosted former Prime Minister of Finland Sanna Marin on Oct. 
@@ -337,7 +812,7 @@ The UCLA Burkle Center for International Relations hosted former Prime Minister 
 
 ## Out of Bounds: Is UCLA’s defense elite under D’Anton Lynn? Recapping Washington State
 
-date: 2023-10-11, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 
 No. 18 UCLA football is back in the AP Top 25 after defeating then-No. 13 Washington State at the Rose Bowl. Sports staff writer Gavin Carlson sits down with Sports editor Joseph Crosby to recap the Bruins&#8217; win. 
 
@@ -347,7 +822,7 @@ No. 18 UCLA football is back in the AP Top 25 after defeating then-No. 13 Washin
 
 ## UCLA Center for Liberal Arts and Free Institutions celebrates the humanities
 
-date: 2023-10-11, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 
 For one UCLA center, 2023 is not the year of &#8220;The Eras Tour&#8221; or the &#8220;Barbie&#8221; movie.
 It is the 400th anniversary of the First Folio, a first-edition copy of William Shakespeare’s plays, which resides in UCLA’s Clark Library, according to Daniel Lowenstein, a professor of law emeritus. 
@@ -358,7 +833,7 @@ It is the 400th anniversary of the First Folio, a first-edition copy of William 
 
 ## ‘This Is Not a True Story’ rewrites the stories of tragic Asian heroines
 
-date: 2023-10-11, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Oct. 12 at 8:47 p.m.&#160;</em>
 <em>Editor&#8217;s Note: This article contains references to suicide.&#160;</em>
@@ -566,7 +1041,7 @@ Buster prepares for the big pumpkin harvest of the fall. Good grief!
 
 ## ASUCLA announces revamp of on-campus dining options, on-campus meal swipes
 
-date: 2023-10-11, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Oct. 10 at 10:46 p.m.</em>
 Associated Students UCLA announced new on-campus dining options for this academic year, including two new restaurants.
@@ -578,7 +1053,7 @@ ASUCLA opened the açaí bowl shop SAMBAZON in Ackerman Student Union, a Chocola
 
 ## Concert preview: Past tracks, new hits come calling for fall performances
 
-date: 2023-10-11, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-11, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Oct. 12 at 8:56 p.m.</em>
 This spooky season, past sonatas lurk behind the concert stage.
@@ -590,7 +1065,7 @@ With a cloud of dust and doom, this autumn’s melodies are here to chill one&#8
 
 ## Beyond Bruin Walk: Removal of McCarthy as House speaker reveals congressional dysfunction
 
-date: 2023-10-10, from: The Daily Bruild (UCLA Student Newspaper)
+date: 2023-10-10, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Oct. 10 at 9:39 p.m.&#160;</em>
 On Oct. 3, California Rep. Kevin McCarthy became the first speaker of the House in the history of the United States to be removed by a congressional vote. 
@@ -1269,7 +1744,7 @@ date: 2023-10-05, from: City of Santa Clarita
 
 ## Years Of Putrid Odors, Scores Of Complaints. The Fight Over A Facility That Recycles Dead Animals In Southeast LA
 
-date: 2023-10-10, from: The LAist
+date: 2023-10-13, from: The LAist
 
 Baker Commodities Inc. in the city of Vernon is suing the government agency that oversees it for $200 million in damages. Neighbors had celebrated its temporary shutdown. Now an upcoming court decision could allow a full reopening. 
 

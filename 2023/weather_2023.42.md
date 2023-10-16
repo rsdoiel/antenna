@@ -1,44 +1,62 @@
 ---
 
-## SPC Oct 15, 2023 1730 UTC Day 2 Convective Outlook
+## SPC - No watches are valid as of Mon Oct 16 17:36:01 UTC 2023
 
-date: 2023-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Mon Oct 16 17:36:01 UTC 2023. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Mon Oct 16 17:36:01 UTC 2023
+
+date: 2023-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Mon Oct 16 17:36:01 UTC 2023. 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Oct 16, 2023 1730 UTC Day 2 Convective Outlook
+
+date: 2023-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 2 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-1147 AM CDT Sun Oct 15 2023
+1229 PM CDT Mon Oct 16 2023
 
-Valid 161200Z - 171200Z
+Valid 171200Z - 181200Z
 
 ...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Severe thunderstorms are not expected on Monday.
+Severe thunderstorms are not expected on Tuesday.
 
-...Pacific Northwest...
-A negatively tilted mid/upper-level shortwave trough is forecast to
-move inland across the Pacific Northwest and British Columbia on
-Monday. A surface low is forecast to move northward near the BC
-coast, with secondary cyclogenesis expected Monday evening in the
-lee of the Canadian Rockies. A cold front will begin to move inland
-across the Pacific Northwest Monday morning, and move into parts of
-the interior Northwest and northern Rockies Monday evening into
-Tuesday morning. 
+...Synopsis...
+An expansive continental polar surface high will shift eastward from
+the southern Plains into the southern Appalachians, favoring
+cool/dry boundary-layer conditions and limited thunderstorm
+potential across much of the central/eastern CONUS. Farther west, a
+shortwave trough will cross the northern Rockies/adjacent Plains,
+while a related cold front sweeps east/southeastward across the
+northern/central Plains. However, thunderstorms are not expected
+given limited moisture/instability ahead of the front. 
 
-A frontal precipitation band will move through western WA/OR Monday
-morning, which may contain some weak embedded convective elements.
-Somewhat more robust convection will be possible Monday
-afternoon/evening within the post-frontal regime, in closer
-proximity to the approaching shortwave trough. Steepening
-low/midlevel lapse rates will support at least isolated thunderstorm
-potential across western WA and northwest OR. Rather strong
-low/midlevel flow and cool temperatures aloft may support gusty
-winds and small hail with the strongest storms, but very weak
-buoyancy and a tendency for convection to be rather
-shallow/low-topped is expected to limit severe potential.
+Over parts of southeastern AZ, diurnal heating/steepening low-level
+lapse rates beneath a plume of adequate midlevel moisture will yield
+a weakly unstable air mass. While large-scale forcing for ascent
+will be minimal, isolated diurnally driven thunderstorms are
+possible during the afternoon/early evening given the adequate
+instability and gradually eroding inhibition. Inverted-V
+thermodynamic profiles could support locally strong gusts, though
+the weak instability and lack of vertical shear should limit updraft
+intensity.
 
-..Dean.. 10/15/2023
+..Weinman/Thompson.. 10/16/2023
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
@@ -48,58 +66,34 @@ shallow/low-topped is expected to limit severe potential.
 
 ---
 
-## SPC - No watches are valid as of Sun Oct 15 16:52:02 UTC 2023
-
-date: 2023-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Sun Oct 15 16:52:02 UTC 2023. 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Sun Oct 15 16:52:02 UTC 2023
-
-date: 2023-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Sun Oct 15 16:52:02 UTC 2023. 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
 ## SPC Day 1 Fire Weather Outlook
 
-date: 2023-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-1145 AM CDT Sun Oct 15 2023
+1158 AM CDT Mon Oct 16 2023
 
-Valid 151700Z - 161200Z
+Valid 161700Z - 171200Z
 
 ...NO CRITICAL AREAS...
 
-No changes. Fire weather conditions are expected to be minimal
-today.
+No changes. See previous discussion below.
 
-..Bentley.. 10/15/2023
+..Bentley.. 10/16/2023
 
-.PREV DISCUSSION... /ISSUED 1148 PM CDT Sat Oct 14 2023/
+.PREV DISCUSSION... /ISSUED 0141 AM CDT Mon Oct 16 2023/
 
 ...Synopsis...
-Fire weather concerns remain low across the CONUS today. High
-pressure will continue to build across the western and central US
-with troughing across the eastern US. An impulse rotating
-through the eastern trough will increase northerly gradients across
-the Great Plains into the Ohio and Mississippi River Valleys.
-Northerly breezes will be possible, but generally cool temperatures,
-higher relative humidity, and moist fuels will keep the risk of fire
-spread low. Relative humidity across Louisiana may drop as low as
-35-40 percent amid sustained winds around 15 mph.  Latest fuel
-guidance suggests fuels within this region are moist from recent
-rainfall, which precludes the need to add areas at this time.
+Fire weather concerns will remain low across the CONUS today. A
+shortwave will move across the Pacific Northwest, shifting the
+western US ridge eastward across the Rockies. A trough across the
+eastern US will continue to move eastward offshore. A few areas of
+breezy westerly winds will be possible across southeastern Oregon
+and southern Montana. Relative humidity will stay above Elevated or
+Critical thresholds with moist fuels in place, keeping fire concerns
+low.
 
 ...Please see www.spc.noaa.gov/fire for graphic product...
 
@@ -111,35 +105,47 @@ rainfall, which precludes the need to add areas at this time.
 
 ---
 
-## SPC Oct 15, 2023 1630 UTC Day 1 Convective Outlook
+## SPC Oct 16, 2023 1630 UTC Day 1 Convective Outlook
 
-date: 2023-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-1101 AM CDT Sun Oct 15 2023
+1128 AM CDT Mon Oct 16 2023
 
-Valid 151630Z - 161200Z
+Valid 161630Z - 171200Z
 
 ...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Severe thunderstorms are not expected.
+Isolated lightning strikes are possible over parts of Washington
+state and perhaps southeatern Arizona. However, severe thunderstorms
+are not expected today and tonight.
 
-...Synopsis...
-An initial wind shift and association convection has shifted south
-of the FL Keys and into the FL Straits.  Farther northwest, the
-synoptic cold front (denoted by a narrow cloud line) will continue
-to move southeastward across south FL and the Keys this afternoon
-into this evening.  Lingering low-level moisture and shallow ascent
-along the front could support isolated thunderstorm development
-later this afternoon/evening, but storm coverage will be rather
-sparse.  Otherwise, a midlevel shortwave trough will approach the
-Pacific Northwest early Monday, but any threat for isolated
-lightning flashes will occur after 12z.
+A deep, mid-level, long-wave trough centered over the Atlantic Coast
+is forecast to slowly weaken as it consolidates into a broader
+mid-level low and moves offshore late in the forecast period. In the
+wake of the large eastern US trough, northerly offshore flow and
+cool temperatures will dominate the eastern 2/3rds of the CONUS,
+limiting thunderstorm chances. To the west, transient mid-level
+ridging over the Southwest will be suppressed and shift eastward
+under the influence of an advancing shortwave trough along the
+border of southern BC. Weak inland advection of a modified eastern
+Pacific air mass across western and northern WA State may briefly
+support destabilization sufficient for a few thunderstorms late this
+afternoon into the early evening. However, scant buoyancy (less than
+500 J/kg of MUCAPE) confined within the lowest few km, will limit
+the potential for strong, organized and persistent updrafts capable
+of more widespread lightning. A few lightning strikes are also
+possible over portions of southeastern AZ where strong surface
+heating and marginal moisture may support a brief thunderstorm.
+However, coverage appears unlikely to reach 10% and no thunder area
+will be included. With limited to negligible thunderstorm chances
+for much of the country, severe storms are unlikely over the CONUS
+today and tonight.
 
-..Thompson/Lyons.. 10/15/2023
+..Lyons/Thompson.. 10/16/2023
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>

@@ -1,5 +1,240 @@
 ---
 
+## Mens soccer fails to take the lead in draw with Sacramento State
+
+date: 2023-10-16, from: The Sundail (CSUN Student Newspaper)
+
+CSUN&#8217;s AJ Johnson netted the only goal of the game to rally the Matadors to a 1-1 draw with the Hornets of Sacramento State University on Oct. 7, 2023. Having lost their first three conference games by one goal, CSUN’s men’s soccer (2-6-5, 0-3-1 Big West) returned to their home turf searching to secure their... 
+
+<https://sundial.csun.edu/176378/sports/mens-soccer-fails-to-take-the-lead-in-draw-with-sacramento-state/>
+
+---
+
+## Gazans Remain Trapped At The Egypt Border Crossing; Israel Renews Evacuation Demand
+
+date: 2023-10-16, from: The LAist
+
+Israel's military said that it would continue to allow Gazans to evacuate south as hundreds of thousands had already moved. Israeli strikes on the Gaza Strip have killed more than 2,600 Palestinians. 
+
+<https://laist.com/news/blinken-says-the-crossing-to-egypt-will-open-to-aid-as-israel-prepares-to-strike-gaza>
+
+---
+
+## 2023 Sidewalk Poetry Winners
+
+date: 2023-10-16, from: City of Santa Clarita
+
+<p>2023 SIDEWALK POETRY WINNERS Bringing Artistic Expression to City Streets &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; The City of Santa Clarita is proud to announce the Sidewalk Poetry Winners for 2023. This year, poets were tasked with invoking The Senses of Home, delving into the sights, sounds, smells and more that define a person&#8217;s home within the community. &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Congratulations [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/16/2023-sidewalk-poetry-winners/">2023 Sidewalk Poetry Winners</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2023/10/16/2023-sidewalk-poetry-winners/>
+
+---
+
+## War in Artsakh
+
+date: 2023-10-16, from: The Canyon News (COC Student Newspaper)
+
+<p>By: Nareg Charkhedian Green hills and blue skies on campus at College&#8230;</p>
+<p>The post <a rel="nofollow" href="https://canyonsnews.com/war-in-artsakh/">War in Artsakh</a> appeared first on <a rel="nofollow" href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<https://canyonsnews.com/war-in-artsakh/>
+
+---
+
+## It's The Warmest September On Record Thanks To El Niño And, Yes, Climate Change
+
+date: 2023-10-16, from: The LAist
+
+A new government report finds that September was the hottest in the agency's 174-year global climate record. Climate change and El Niño are driving the heat. 
+
+<https://laist.com/news/climate-environment/warmest-september-on-record-el-nino-climate-change>
+
+---
+
+## Best Things To Do This Week In Los Angeles And SoCal: Oct. 16 - 19
+
+date: 2023-10-16, from: The LAist
+
+View William Blake's art at the Getty. Catch Janelle Monáe in concert. Screen "L’Inferno" (1911) with live musical accompaniment. Attend a panel on The Living Queer Archive at LACE. 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-los-angeles-southern-california-october-16-19>
+
+---
+
+## Revealed: How A Little-Known Pollution Rule Keeps The Air Dirty For Millions Of Americans
+
+date: 2023-10-16, from: The LAist
+
+Major investigation shows local governments are increasingly exploiting a loophole in the Clean Air Act, leaving more than 21 million Americans with air that’s dirtier than they realize. California leads the nation it its use. 
+
+<https://laist.com/news/climate-environment/clean-air-loophole-epa-pollution-exceptional-events>
+
+---
+
+## What Is The Exceptional Events Rule? The Loophole Letting US Regulators Wipe Air Pollution From The Record
+
+date: 2023-10-16, from: The LAist
+
+First pushed through by the Republican senator and climate denier Jim Inhofe, the rule has become a "regulatory escape hatch" for states that want to meet federal air-quality standards. 
+
+<https://laist.com/news/climate-environment/exceptional-events-rule-loophole-pollution-epa-investigation>
+
+---
+
+## A Fast-Moving Wildfire In Topanga Canyon Is A Nightmare Scenario. How To Get Ready
+
+date: 2023-10-16, from: The LAist
+
+The area is a longstanding concern for fire experts because it has just a handful of narrow roads to evacuate thousands of residents. 
+
+<https://laist.com/news/climate-environment/topanga-canyon-wildfire-risk>
+
+---
+
+## Op-ed: We must move beyond zero-sum thinking in Israel-Palestine
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Our campus has been riven by sharply opposing perspectives on the unfolding disaster in Israel-Palestine. Recent gatherings by supporters of Israel and supporters of Palestinian liberation point to a chasm that will only widen and become ever more combustible. 
+
+<https://dailybruin.com/2023/10/15/op-ed-we-must-move-beyond-zero-sum-thinking-in-israel-palestine/>
+
+---
+
+## USAC recap – Oct. 10
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its second fall quarter meeting Oct. 10.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<https://dailybruin.com/2023/10/15/usac-recap-oct-10-2/>
+
+---
+
+## Q&A: Dean Alissa Park aims to foster diversity, inclusion in UCLA engineering school
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ah-Hyung “Alissa” Park, the Ronald and Valerie Sugar Dean of the UCLA Henry Samueli School of Engineering and Applied Science, sat down with the Daily Bruin to discuss her plans in the new role for the upcoming year. 
+
+<https://dailybruin.com/2023/10/15/qa-dean-alissa-park-aims-to-foster-diversity-inclusion-in-ucla-engineering-school/>
+
+---
+
+## UCLA hosts Latinx Welcome event to cultivate inclusivity on campus
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Latinx Welcome was held Oct. 9 to foster a welcoming environment for Latino students and families. 
+The annual event was hosted from 4 p.m. 
+
+<https://dailybruin.com/2023/10/15/ucla-hosts-latinx-welcome-event-to-cultivate-inclusivity-on-campus/>
+
+---
+
+## Annual Black Convocation unites and celebrates Black community at UCLA
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA&#8217;s annual Black Convocation, which was held Wednesday evening, welcomed Black community members back to campus and celebrated their achievements.
+Hundreds of Black students, faculty and staff gathered in Carnesale Commons for the celebration, which featured guest speakers, including California Assembly Majority Leader Isaac Bryan and Tananarive Due, a continuing lecturer of African American studies. 
+
+<https://dailybruin.com/2023/10/15/annual-black-convocation-unites-and-celebrates-black-community-at-ucla/>
+
+---
+
+## Editorial: Permanent funding is crucial for ensuring continued access to The New York Times
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 15 at 11:03 p.m.</em>
+“All the news that’s fit to print” is now free to peruse for all UCLA students thanks to a new funding program under the Undergraduate Students Association Council. 
+
+<https://dailybruin.com/2023/10/15/editorial-permanent-funding-is-crucial-for-ensuring-continued-access-to-the-new-york-times/>
+
+---
+
+## Why LA's Bird Populations Today Are Evidence Of Historical Redlining
+
+date: 2023-10-16, from: The LAist
+
+A Cal State LA study looks at how the historic practice of redlining contributed to modern biodiversity in our local bird populations 
+
+<https://laist.com/news/climate-environment/why-las-bird-populations-today-are-evidence-of-historical-redlining>
+
+---
+
+## UCLA men’s water polo blows USC out of water in 18th straight win
+
+date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Statistics can tell a story.
+But the scoreboard isn’t enough to encapsulate Saturday&#8217;s crosstown showdown.
+In its best defensive game of the season, No. 1 UCLA men’s water polo (18-0, 4-0 MPSF) held No. 
+
+<https://dailybruin.com/2023/10/15/ucla-mens-water-polo-blows-usc-out-of-water-in-18th-straight-win/>
+
+---
+
+## Following slow start, UCLA men’s soccer displays versatility in LMU loss
+
+date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 15 at 10:56 p.m.</em>
+With a changing formation, a number of chances in the six-yard box and 12 shots on goal, the Bruins threw everything they could at the Lions. 
+
+<https://dailybruin.com/2023/10/15/following-slow-start-ucla-mens-soccer-displays-versatility-in-lmu-loss/>
+
+---
+
+## Slow Down, SoCal: Speed Cameras Are Coming to LA, Long Beach, Glendale
+
+date: 2023-10-15, from: The LAist
+
+Gov. Gavin Newsom signed a bill permitting speed cameras in three Southern California cities as part of a statewide pilot program aimed at decreasing traffic accidents and deaths. 
+
+<https://laist.com/news/slow-down-socal-speed-cameras-are-coming-to-la-long-beach-glendale>
+
+---
+
+## Local Pitcher Earns Herself a Spot On Team USA
+
+date: 2023-10-15, from: The Canyon News (COC Student Newspaper)
+
+<p>By Katherine Brook Defying odds and tradition. this past summer Valencia High&#8230;</p>
+<p>The post <a rel="nofollow" href="https://canyonsnews.com/local-pitcher-earns-herself-a-spot-on-team-usa/">Local Pitcher Earns Herself a Spot On Team USA</a> appeared first on <a rel="nofollow" href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<https://canyonsnews.com/local-pitcher-earns-herself-a-spot-on-team-usa/>
+
+---
+
+## Trader Joe's Is Suing Trader Joe For Trademark Infringement
+
+date: 2023-10-16, from: The LAist
+
+The grocer is suing the cryptocurrency exchange for using its name. 
+
+<https://laist.com/news/tjs-v-tj-beloved-grocer-sues-crypto-exchange-over-use-of-the-name-trader-joe>
+
+---
+
+## SENSES: A Main Street Monster Mash
+
+date: 2023-10-15, from: City of Santa Clarita
+
+<p>SENSES: A Main Street Monster Mash By City Manager Ken Striplin It seems as though we were just announcing the transformation of Main Street in Old Town Newhall into a one-night Saint Patrick’s Day party, but time flies when you’re having a great time at SENSES Block Party. This event series has become a City-wide [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/15/senses-a-main-street-monster-mash/">SENSES: A Main Street Monster Mash</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2023/10/15/senses-a-main-street-monster-mash/>
+
+---
+
 ## Rock and Roll fest comes to Castaic
 
 date: 2023-10-15, from: The Canyon News (COC Student Newspaper)
@@ -36,7 +271,7 @@ The Inyo rock daisy has been registered as a threatened species in a region pron
 
 date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 24 at 11:15 p.m.</em>
+<em>This post was updated Oct. 15 at 10:49 p.m.</em>
 CORVALLIS – Freshman Dante Moore does not have much history with the Bruins.
 Yet history continues to repeat itself for the young quarterback, just not in a way that aids him or his team.&#160;
 The former five-star recruit made it three consecutive games with both an opening-drive interception and a first-half pick six as No. 
@@ -72,8 +307,9 @@ UCLA women&#8217;s volleyball (10-7, 2-5 Pac-12) swept its first contest against
 
 date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct 15. at 10:55 p.m.</em>
 The Bruins claimed another victory to preserve their undefeated streak in conference play.
-No. 5 UCLA women&#8217;s soccer (12-1, 6-0 Pac-12)  faced off against Utah (5-5-5, 1-3-2)  in a 4-0 shutout contest Friday evening. 
+No. 5 UCLA women&#8217;s soccer (12-1, 6-0 Pac-12) faced off against Utah (5-5-5, 1-3-2) in a 4-0 shutout contest Friday evening. 
 
 <https://dailybruin.com/2023/10/14/with-a-united-team-ucla-womens-soccer-maintains-focus-to-hold-utah-scoreless/>
 
@@ -83,8 +319,9 @@ No. 5 UCLA women&#8217;s soccer (12-1, 6-0 Pac-12)  faced off against Utah (5-5-
 
 date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
 
-&#8220;The Engagement Party&#8221; is well worth putting a ring on.
-Directed by Tony Award winner Darko Tresnjak, the contemporary drama unveils the strife that shakes the table of the wealthy young couple Josh (Jonah Platt) and Katherine&#8217;s (Bella Heathcote) intimate engagement party. 
+<em>This post was updated Oct. 15 at 7:51 p.m.</em>
+“The Engagement Party” is well worth putting a ring on.
+Directed by Tony Award winner Darko Tresnjak, the contemporary drama unveils the strife that shakes the table of the wealthy young couple Josh (Jonah Platt) and Katherine’s (Bella Heathcote) intimate engagement party. 
 
 <https://dailybruin.com/2023/10/14/theater-review-the-engagement-party-shines-with-a-dazzling-script-multifaceted-drama/>
 
@@ -94,8 +331,8 @@ Directed by Tony Award winner Darko Tresnjak, the contemporary drama unveils the
 
 date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Bruins kicked off a series of five consecutive dual meets with a win over the Cougars.
-No. 23 UCLA swim and dive (1-0, 1-0 Pac-12) defeated Washington State (0-1, 0-1) by a score of 153-109 on Friday. 
+<em>This post was updated Oct. 15 at 10:57 p.m.</em>
+The Bruins kicked off a series of five consecutive dual meets with a win over the Cougars. 
 
 <https://dailybruin.com/2023/10/14/ucla-swim-and-dive-defeats-washington-state-as-4-swimmers-make-top-6-in-points/>
 
@@ -126,7 +363,8 @@ No. 9 UCLA women’s golf defeated No. 14 USC in the second annual Battle for th
 
 date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Beatboxing Bruins are marching to the beat of their own drum.
+<em>This post was updated Oct. 15 at 7:40 p.m.</em>
+The Beatboxing Bruins members are marching to the beat of their own drum.
 Having had its first meeting of the academic year Thursday, the only student organization at UCLA centered around beatboxing – an art form that manipulates vocal sounds to imitate musical instruments – will continue to serve as a hub for beatboxers to practice and showcase their craft. 
 
 <https://dailybruin.com/2023/10/14/beatboxing-bruins-voices-goal-to-create-community-for-present-future-beatboxers/>
@@ -533,7 +771,7 @@ Federal pandemic relief funds for childcare programs expired Sept. 30, leaving p
 
 ## This Prolific LA Eviction Law Firm Was Caught Faking Cases In Court. Did They Misuse AI?
 
-date: 2023-10-12, from: The LAist
+date: 2023-10-16, from: The LAist
 
 Dennis Block runs what he says is California’s “leading eviction law firm.” A judge said legal citations submitted in Block's name for a recent case were fake. Six legal experts told LAist the errors likely stemmed from AI misuse. 
 

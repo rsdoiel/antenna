@@ -16,32 +16,32 @@ TXT
 
 # Find all our socal_north markdown files to archive.
 printf '\n## Socal North\n\n' >>"${YEAR}/index.md"
-ls -1 socal_north_*.md | sort -r |\
+CMD="ls -1 ${YEAR}/socal_north_*.md"
+$CMD | sort -r |\
 while read -r FNAME; do
-	cp -v "$FNAME" "$YEAR/"
 	BNAME=$(basename "$FNAME" ".md")
 	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
-	printf '* [%s](%s)\n' "$LABEL" "$FNAME" >>"$YEAR/index.md"
+	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
 done
 
 # Find all the weather markdown files to archive.
 printf '\n## Weather\n\n' >>"${YEAR}/index.md"
-ls -1 weather_*.md | sort -r |\
+CMD="ls -1 ${YEAR}/weather_*.md"
+$CMD | sort -r |\
 while read -r FNAME; do
-	cp -v "$FNAME" "$YEAR/"
 	BNAME=$(basename "$FNAME" ".md")
 	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
-	printf '* [%s](%s)\n' "$LABEL" "$FNAME" >>"$YEAR/index.md"
+	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
 done
 
 # Find all our socal_north markdown files to archive.
 printf '\n## Pacific\n\n' >>"${YEAR}/index.md"
-ls -1 pacific_*.md | sort -r |\
+CMD="ls -1 ${YEAR}/pacific_*.md"
+$CMD | sort -r |\
 while read -r FNAME; do
-	cp -v "$FNAME" "$YEAR/"
 	BNAME=$(basename "$FNAME" ".md")
 	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
-	printf '* [%s](%s)\n' "$LABEL" "$FNAME" >>"$YEAR/index.md"
+	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
 done
 
 echo >>"$YEAR/index.md"
