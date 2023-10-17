@@ -1,22 +1,72 @@
 ---
 
-## SPC - No watches are valid as of Mon Oct 16 17:36:01 UTC 2023
+## SPC - No watches are valid as of Tue Oct 17 12:47:02 UTC 2023
 
-date: 2023-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Oct 16 17:36:01 UTC 2023. 
+No watches are valid as of Tue Oct 17 12:47:02 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Mon Oct 16 17:36:01 UTC 2023
+## SPC - No MDs are in effect as of Tue Oct 17 12:47:02 UTC 2023
 
-date: 2023-10-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Mon Oct 16 17:36:01 UTC 2023. 
+No Mesoscale Discussions are in effect as of Tue Oct 17 12:47:02 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Oct 17, 2023 1300 UTC Day 1 Convective Outlook
+
+date: 2023-10-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0619 AM CDT Tue Oct 17 2023
+
+Valid 171300Z - 181200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected today.
+
+...Discussion...
+Thunderstorm potential will be limited to two confined areas within
+the CONUS. The northern extent of a Gulf of CA/Pacific coastal
+Mexico lobe of higher PW values should support isolated
+thunderstorms peaking in the late afternoon across southeast AZ to
+perhaps as far north as the Mogollon Rim. Weak deep-layer shear and
+surface temperature-dew point spreads in excess of 40 degrees may
+foster pulse microbursts capable of locally gusts from 40-55 mph.
+
+A shortwave trough over the southern Canadian Rockies will amplify
+as it digs east-southeast into the northern Great Plains.
+Strengthening ascent and moistening near 700 mb should yield scant
+elevated buoyancy from late afternoon into this evening across
+central ND to the Upper Red River Valley. Very isolated
+thunderstorms may form within a developing band of elevated showers.
+Separately, low-topped showers should also form within a
+post-frontal regime centered on southeast MT and adjacent border
+areas during the late afternoon to early evening. Shower downdrafts
+will further enhance already strengthening gradient winds and likely
+result in strong gusts over parts of the northern High Plains.
+Models largely suggest only a sliver of buoyancy at most is
+anticipated, but aggressive ones infer a low-probability threat of a
+thunderstorm or two.
+
+..Grams/Jewell.. 10/17/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -152,49 +202,6 @@ today and tonight.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
-
----
-
-## SPC Oct 15, 2023 1300 UTC Day 1 Convective Outlook
-
-date: 2023-10-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0731 AM CDT Sun Oct 15 2023
-
-Valid 151300Z - 161200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected.
-
-...Synopsis...
-In mid/upper levels, a positively tilted longwave pattern is
-expected to persist over most of the CONUS, with ridging from the
-Desert Southwest across the northern Rockies/High Plains to Hudson
-Bay.  Mean troughing will continue from an elongated cyclone over
-the Canadian Maritimes southwestward across the Northeast, central/
-southern Appalachians and northern Gulf.  The associated surface
-cold front has cleared all of the East Coast, except for a small
-area of extreme southern FL and the Keys, where weak convergence and
-a moist boundary layer still may support showers and isolated
-thunderstorms south of some midlevel stable layers sampled by the
-12Z MFL RAOB.  Elsewhere, a strong shortwave trough over the
-northeastern Pacific -- evident in moisture-channel imagery between
-140W-150W -- will remain far enough offshore through the period that
-any associated thunderstorm-favoring destabilization aloft should
-not move inland in the Northwest until day 2.
-
-..Edwards/Broyles.. 10/15/2023
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 

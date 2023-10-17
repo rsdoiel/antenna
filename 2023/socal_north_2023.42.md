@@ -1,5 +1,240 @@
 ---
 
+## Editor’s Epilogue: When life gives you lemons, make your own bagels
+
+date: 2023-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>I struggled to find the community I’d left, only to realize I could make my own.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/17/editors-epilogue/">Editor&#8217;s Epilogue: When life gives you lemons, make your own bagels</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/17/editors-epilogue/>
+
+---
+
+## Have You Heard Of Margaret Winkler? She's The Woman Behind Disney's 100th Birthday
+
+date: 2023-10-17, from: The LAist
+
+On Oct. 16, 1923, Margaret Winkler agreed to produce and distribute Alice Comedies, a new series by Walt Disney. That contract is considered the founding document of The Walt Disney Company. 
+
+<https://laist.com/news/la-history/have-you-heard-of-margaret-winkler-shes-the-woman-behind-disneys-100th-birthday>
+
+---
+
+## Why Is Finding COVID Shots For Young Children Still So Hard?
+
+date: 2023-10-17, from: The LAist
+
+It’s a confluence of problems, from technicalities about who can administer vaccines to kids to lack of accurate information online. 
+
+<https://laist.com/news/health/why-is-finding-covid-shots-for-young-children-still-so-hard>
+
+---
+
+## In Detroit, A ‘Magic Wand’ Makes Dirty Air Look Clean — And Lets Polluters Off The Hook
+
+date: 2023-10-17, from: The LAist
+
+Across the US, local governments, lobbyists and industry have spent millions to get wildfire pollution excluded from the record. People like Robert Shobe pay the price 
+
+<https://laist.com/news/climate-environment/in-detroit-a-magic-wand-makes-dirty-air-look-clean-and-lets-polluters-off-the-hook>
+
+---
+
+## Classifieds – October 17, 2023
+
+date: 2023-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/17/classifieds-october-17-2023/">Classifieds &#8211; October 17, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/17/classifieds-october-17-2023/>
+
+---
+
+## Pressure too much for USC, Caleb Williams in South Bend
+
+date: 2023-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans suffered a very humbling 48-20 loss to the Fighting Irish on the road.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/17/pressure-too-much-for-usc-caleb-williams-in-south-bend/">Pressure too much for USC, Caleb Williams in South Bend</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/17/pressure-too-much-for-usc-caleb-williams-in-south-bend/>
+
+---
+
+## The verge of Trevor Moore
+
+date: 2023-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Kings star Trevor Moore hopes to bring L.A. hockey to new heights.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/17/the-verge-of-trevor-moore/">The verge of Trevor Moore</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/17/the-verge-of-trevor-moore/>
+
+---
+
+## Women’s volleyball goes winless in the Bay
+
+date: 2023-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans win one set out of seven in two games up against Cal and Stanford.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/17/womens-volleyball-goes-winless-in-the-bay/">Women’s volleyball goes winless in the Bay</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/17/womens-volleyball-goes-winless-in-the-bay/>
+
+---
+
+## City Council reforms won’t be enough
+
+date: 2023-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Voters must turn out to hold officials accountable in the next city council election.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/17/la-city-council/">City Council reforms won’t be enough</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/17/la-city-council/>
+
+---
+
+## Don’t silence ‘Dreamers’
+
+date: 2023-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>We must advocate for the implementation of pro-DACA legislation in Los Angeles.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/17/dont-silence-dreamers/">Don&#8217;t silence ‘Dreamers’</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/17/dont-silence-dreamers/>
+
+---
+
+## Experts urge healthy student eating habits
+
+date: 2023-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students with unhealthy eating habits often don't have places to learn them.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/17/eating-habits-w-student-health/">Experts urge healthy student eating habits</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/17/eating-habits-w-student-health/>
+
+---
+
+## Students create sustainable blockchain project
+
+date: 2023-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Two Viterbi seniors have developed a new ticketing platform named SCTicket.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/17/students-create-sustainable-blockchain-project/">Students create sustainable blockchain project</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/17/students-create-sustainable-blockchain-project/>
+
+---
+
+## Sophie Grey is doing it all
+
+date: 2023-10-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Thornton pop music alum released her newest single, “Do It Again.,” Friday. </p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/17/sophie-grey-is-doing-it-all/">Sophie Grey is doing it all</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/17/sophie-grey-is-doing-it-all/>
+
+---
+
+## Indie rock band socialghosts discusses latest track ‘silverlake,’ origins of group
+
+date: 2023-10-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+socialghosts is meeting at the junction of music, law and insurance.
+Composed of Sean Embrey-Stine, Connor Daniel and UCLA School of Law alumnus Dhruva Krishna, the indie rock band released their latest single, &#8220;silverlake,&#8221; on Friday. 
+
+<https://dailybruin.com/2023/10/16/indie-rock-band-socialghosts-discusses-latest-track-silverlake-origins-of-group/>
+
+---
+
+## North Westwood Neighborhood Council recap – Oct. 11
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The North Westwood Neighborhood Council – the official neighborhood council advocating for UCLA and Westwood to the Los Angeles City Council – met Oct. 11. The council’s meetings are open to the public and are held on the first Wednesday of the month at UCLA’s Weyburn Terrace. 
+
+<https://dailybruin.com/2023/10/16/north-westwood-neighborhood-council-recap-oct-11/>
+
+---
+
+## Five Things: UCLA vs. Oregon State
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 16 at 8:32 p.m.</em>
+&#160;
+No. 25 UCLA football (4-2, 1-2 Pac-12) notched its second conference defeat of the season Saturday, this time at the hands of No. 
+
+<https://dailybruin.com/2023/10/16/five-things-ucla-vs-oregon-state-2/>
+
+---
+
+## Huntington Beach City Council Looks To Restrict Minors' Access To Books With Sexual Content
+
+date: 2023-10-17, from: The LAist
+
+If passed, a community review board would approve or reject childrens' books proposed for acquisition by the city library. 
+
+<https://laist.com/news/huntington-beach-restrict-books-sexual-content>
+
+---
+
+## Flag Football Set To Make Olympic Debut At Los Angeles 2028 Games
+
+date: 2023-10-16, from: The LAist
+
+The game has been growing in popularity. 
+
+<https://laist.com/news/los-angeles-activities/flag-football-set-to-make-olympic-debut-at-los-angeles-2028-games>
+
+---
+
+## A ‘Vanlord’ Crackdown Could Be Coming To LA County Unincorporated Areas
+
+date: 2023-10-17, from: The LAist
+
+A vote on the issue is expected Tuesday by the L.A. County Board of Supervisors. 
+
+<https://laist.com/news/housing-homelessness/vanlord-crackdown-rv-homelessness-los-angeles-county-unincorporated-areas>
+
+---
+
+## UCLA women’s volleyball falls to No. 3 Stanford, focuses on playing freely
+
+date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The pressure of facing one of the nation&#8217;s best would generally weigh a team down.
+But Desiree Becker said instead, the Bruins&#8217; word of the day was &#8220;free.&#8221;
+&#8220;That means something different for everyone in a lot of different ways,&#8221; said the graduate student middle blocker. 
+
+<https://dailybruin.com/2023/10/16/ucla-womens-volleyball-falls-to-no-3-stanford-focuses-on-playing-freely/>
+
+---
+
+## CSUN welcomes Latinx students for the 2023-24 school year
+
+date: 2023-10-16, from: The Sundail (CSUN Student Newspaper)
+
+The University Student Union at CSUN hosted a Cultural Welcome event in honor of its Latinx student body on Tuesday, Sept. 19, in the Grand Salon as a means of representing and celebrating the cultural identities that make up the campus community. The event hosted numerous cultural clubs and sororities that students could join, along... 
+
+<https://sundial.csun.edu/176413/news/communities/communities-malone-latin-welcome-event/>
+
+---
+
 ## The WGA Strike is Officially Over
 
 date: 2023-10-16, from: The Canyon News (COC Student Newspaper)
@@ -119,7 +354,7 @@ View William Blake's art at the Getty. Catch Janelle Monáe in concert. Screen "
 
 ## Revealed: How A Little-Known Pollution Rule Keeps The Air Dirty For Millions Of Americans
 
-date: 2023-10-16, from: The LAist
+date: 2023-10-17, from: The LAist
 
 Major investigation shows local governments are increasingly exploiting a loophole in the Clean Air Act, leaving more than 21 million Americans with air that’s dirtier than they realize. California leads the nation it its use. 
 
@@ -151,6 +386,7 @@ The area is a longstanding concern for fire experts because it has just a handfu
 
 date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 16 at 1:50 p.m.</em>
 Our campus has been riven by sharply opposing perspectives on the unfolding disaster in Israel-Palestine. Recent gatherings by supporters of Israel and supporters of Palestinian liberation point to a chasm that will only widen and become ever more combustible. 
 
 <https://dailybruin.com/2023/10/15/op-ed-we-must-move-beyond-zero-sum-thinking-in-israel-palestine/>
@@ -416,7 +652,7 @@ No. 9 UCLA women’s golf defeated No. 14 USC in the second annual Battle for th
 
 date: 2023-10-15, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 15 at 7:40 p.m.</em>
+<em>This post was updated Oct. 16 at 6:51 p.m.</em>
 The Beatboxing Bruins members are marching to the beat of their own drum.
 Having had its first meeting of the academic year Thursday, the only student organization at UCLA centered around beatboxing – an art form that manipulates vocal sounds to imitate musical instruments – will continue to serve as a hub for beatboxers to practice and showcase their craft. 
 
