@@ -4,6 +4,7 @@
 ## Bugs
 
 - [ ] The attenna SVG isn't place correctly it needs to be in the mast head to the right of the site name and slogan
+- [ ] Sometimes the data in the feed is wrong, e.g. https://islandtimes.org/ngarametal-attorney-refuses-to-comply-with-court-order-held-in-contempt-of-court/ is listed in the islandtimes feed but returns a 404 if you go to it.  Need to filter out broken links and exclude from feed output.
 
 ## Next
 

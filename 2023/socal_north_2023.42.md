@@ -1,5 +1,486 @@
 ---
 
+## UCLA commuter students voice concerns over parking permit accessibility
+
+date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA commuter students started fall quarter without parking permits or with spaces located in inconvenient areas of campus.
+Students need to apply for a parking permit on the UCLA Transportation website and have to pay a quarterly fee if their application is accepted. 
+
+<https://dailybruin.com/2023/10/18/ucla-commuter-students-voice-concerns-over-parking-permit-accessibility/>
+
+---
+
+## Gov. Gavin Newsom vetoes bill that decriminalizes psychedelic substances
+
+date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+California Gov. Gavin Newsom vetoed a bill Oct. 7 that would have decriminalized the possession and use of some hallucinogenic substances.
+Senate Bill 58, introduced by State Senator Scott Wiener, would have eliminated criminal penalties for the personal use of controlled psychedelic drugs, including mescaline, psilocybin, psilocyn and dimethyltryptamine. 
+
+<https://dailybruin.com/2023/10/18/gov-gavin-newsom-vetoes-bill-that-decriminalizes-psychedelic-substances/>
+
+---
+
+## California assembly bill allows establishment of speed safety system pilot in LA
+
+date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+A new bill signed by Gov. Gavin Newsom on Oct. 13 authorizes the installation of speed safety camera systems in Los Angeles.
+Assembly Bill 645 was first introduced to the Assembly in February to permit the establishment of the speed safety system pilot program. 
+
+<https://dailybruin.com/2023/10/18/california-assembly-bill-allows-establishment-of-speed-safety-system-pilot-in-la/>
+
+---
+
+## Santa Ana May Expand Voting Rights To Noncitizens
+
+date: 2023-10-18, from: The LAist
+
+City officials will come back with a ballot measure for the city council's consideration on Nov. 7. 
+
+<https://laist.com/news/politics/santa-ana-voting-rights-noncitizens-after-2024-elections>
+
+---
+
+## 4 Pepperdine Students Killed In PCH Crash. Women Were All Seniors
+
+date: 2023-10-19, from: The LAist
+
+University officials have identified students killed when a driver hit them Tuesday evening along the busy coastal route. 
+
+<https://laist.com/news/four-pepperdine-students-killed-in-pch-crash>
+
+---
+
+## California Test Scores Show Students Need More Reading, Math Support
+
+date: 2023-10-19, from: The LAist
+
+Most students don’t meet state standards for reading, writing, and math. Students scored slightly better in math compared to the previous year, but showed few gains in reading and writing. 
+
+<https://laist.com/news/education/california-test-scores-2023-smarter-balanced-reading-math-results>
+
+---
+
+## Out of Bounds: Can UCLA football continue its winning streak at Oregon State?
+
+date: 2023-10-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+No. 18 UCLA football will look to make two straight wins against ranked opponents as it travels to face No. 15 Oregon State. Sports staff writer Gavin Carlson sits down with Sports editor Joseph Crosby to discuss the Bruins&#8217; chances in Corvallis, Oregon, before bringing back the Buy or Sell and DB Debates segments. 
+
+<https://dailybruin.com/2023/10/18/out-of-bounds-can-ucla-football-continue-its-winning-streak-at-oregon-state/>
+
+---
+
+## In Huntington Beach, A Move To Censor Children's Books With 'Sexual Content'
+
+date: 2023-10-18, from: The LAist
+
+The measure was passed by the council's conservative majority on a 4-3 vote after about five hours of public comment. 
+
+<https://laist.com/news/politics/huntington-beach-city-censor-books-sexual-content>
+
+---
+
+## Occidental student loses family members – 3 dead, 9 missing – in Oct. 7 Hamas attack on Israel
+
+date: 2023-10-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The militant group Hamas attacked Israeli territory Oct. 7, killing more than 1,400 Israelis. Jake Trust (first year), said he lost contact with 12 family members in the attack. After a five-hour flight from Boston to LA Oct. 10, Trust said his phone was flooded with missed phone calls from his parents. Trust was returning to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2023/10/18/occidental-student-loses-family-members-3-dead-9-missing-in-oct-7-hamas-attack-on-israel/2909813">Occidental student loses family members – 3 dead, 9 missing – in Oct. 7 Hamas attack on Israel</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2023/10/18/occidental-student-loses-family-members-3-dead-9-missing-in-oct-7-hamas-attack-on-israel/2909813>
+
+---
+
+## Letter to the editor: An open letter to the Oxy community
+
+date: 2023-10-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Dear students, As I pen down this note, waves of memories wash over me, reminding me of the extraordinary journey we have embarked upon together at Occidental College. It&#8217;s been an honor to serve as the inaugural Associate Director for Racial Equity, a position where I aimed to not just be an administrator but an [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/ltes/2023/10/18/letter-to-the-editor-an-open-letter-to-the-oxy-community/2909834">Letter to the editor: An open letter to the Oxy community</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/opinions/ltes/2023/10/18/letter-to-the-editor-an-open-letter-to-the-oxy-community/2909834>
+
+---
+
+## Opinion: My memories are made with music
+
+date: 2023-10-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Tilting my head back, I blinked hard to stop the sudden tears. &#8220;Oh, I feel so down When you’re not with me&#8230;&#8221; Listening to The Blaze’s performance of “Eyes” last week in downtown LA, familiar emotions overcame me. I was transported back one year ago to summertime in Amsterdam, when sweaty days meant discussing ancient [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2023/10/18/opinion-my-memories-are-made-with-music/2909820">Opinion: My memories are made with music</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/opinions/2023/10/18/opinion-my-memories-are-made-with-music/2909820>
+
+---
+
+## Armenian Students Association seeks to raise awareness for Artsakh cause
+
+date: 2023-10-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The surrounding country of Azerbaijan invaded the region of Artsakh, also known as Nagorno-Karabakh, in late September. Artsakh surrendered Sept. 20. Dean of Students Rob Flot wrote in an Oct. 3 campus-wide email that tens of thousands of Armenians who lived in Nagorno-Karabakh had fled to Armenia. Flot said that the conflict directly touches the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2023/10/18/armenian-students-association-seeks-to-raise-awareness-for-artsakh-cause/2909817">Armenian Students Association seeks to raise awareness for Artsakh cause</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/news/2023/10/18/armenian-students-association-seeks-to-raise-awareness-for-artsakh-cause/2909817>
+
+---
+
+## Eagle Rock High girls’ flag football opens doors for women in sports
+
+date: 2023-10-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Eagle Rock High School Girl’s Flag Football moves together as a team on and off the field. On the field, they cling to each other on the sidelines, moving along with the action, hair bows flapping in the wind as they cheer each other on. Off the field, senior defensive back Miriam Ramirez said the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2023/10/18/eagle-rock-high-girls-flag-football-opens-doors-for-women-in-sports/2909850">Eagle Rock High girls&#8217; flag football opens doors for women in sports</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/community/2023/10/18/eagle-rock-high-girls-flag-football-opens-doors-for-women-in-sports/2909850>
+
+---
+
+## Gap Year Column: Digging deeper into my family history
+
+date: 2023-10-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>“Laokele” is a word in the Shanghainese dialect used to describe old gentlemen who thrive in delicacy and luxury influenced by the Western culture. Some say &#8220;laokele&#8221; came from the direct translation of the English word “old clerk”, referring to the white collars who worked at the banking district established by British colonizers in the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2023/10/18/gap-year-column-digging-deeper-into-my-family-history/2909831">Gap Year Column: Digging deeper into my family history</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/opinions/2023/10/18/gap-year-column-digging-deeper-into-my-family-history/2909831>
+
+---
+
+## Homecoming Weekend is a celebration for past and present students
+
+date: 2023-10-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>This year, Homecoming Weekend will take place Oct. 20-22 and includes &#8220;Student for a Day&#8221; events, sports games and the annual Spirit Parade. President Elam will also be sharing his future vision in the Occidental Promise keynote address Oct. 21 at 11:30 a.m. accompanied by speeches from alumni music industry leaders and artists. Two of the &#8220;Student for a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2023/10/18/homecoming-weekend-is-a-celebration-for-past-and-present-students/2909829">Homecoming Weekend is a celebration for past and present students</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2023/10/18/homecoming-weekend-is-a-celebration-for-past-and-present-students/2909829>
+
+---
+
+## Athletes of the Week Aiden Cawley and Leena Albelo reflect on their lifelong passions
+
+date: 2023-10-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Aiden Cawley Aiden Cawley (junior) said he began playing water polo when he was 10, having been inspired by his younger sister’s swimming lessons. Cawley said the sport stuck with him and the lessons learned from it have followed him for over a decade, including three years of his time at Occidental. “I tried other [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2023/10/18/athletes-of-the-week-aiden-cawley-and-leena-albelo-reflect-on-their-lifelong-passions/2909854">Athletes of the Week Aiden Cawley and Leena Albelo reflect on their lifelong passions</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/sports/2023/10/18/athletes-of-the-week-aiden-cawley-and-leena-albelo-reflect-on-their-lifelong-passions/2909854>
+
+---
+
+## Spring athletes keep their heads in the game thanks to preseason prep
+
+date: 2023-10-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>With the Fall sports seasons in full swing, Occidental&#8217;s Spring athletes are gearing up for their upcoming seasons. According to Sydney Acol (sophomore), a defender on the lacrosse team, preseason training is mainly focused on staying active in the sport. Acol said that the lacrosse team lifts, scrimmages and trains in small groups twice a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2023/10/18/spring-athletes-keep-their-heads-in-the-game-thanks-to-preseason-prep/2909845">Spring athletes keep their heads in the game thanks to preseason prep</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/sports/2023/10/18/spring-athletes-keep-their-heads-in-the-game-thanks-to-preseason-prep/2909845>
+
+---
+
+## Random Mammal Generator is everywhere—literally and figuratively
+
+date: 2023-10-18, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Random Mammal Generator, a band consisting of Henry Miller (junior), Nate Harris (sophomore), Ben Torres (junior) and Mt. San Antonio College&#8217;s Cooper Wayne (junior), has performed in the basement of an abandoned church in Glendale, Junior High in Glendale, a student house on York Boulevard and at an underpass in the Arts District, according to the band. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2023/10/18/random-mammal-generator-is-everywhere-literally-and-figuratively/2909839">Random Mammal Generator is everywhere—literally and figuratively</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/culture/2023/10/18/random-mammal-generator-is-everywhere-literally-and-figuratively/2909839>
+
+---
+
+## What You Need To Know About Biden's Wartime Trip To Israel
+
+date: 2023-10-18, from: The LAist
+
+President Biden is in Tel Aviv on Wednesday as Israel gets ready for a ground invasion against Hamas in Gaza. But after a deadly explosion at a Gaza hospital, Biden canceled plans to go to Jordan. 
+
+<https://laist.com/news/what-you-need-to-know-about-bidens-wartime-trip-to-israel>
+
+---
+
+## For Monterey Park’s Shooting Survivors, A Place To Mend The Mind and Spirit
+
+date: 2023-10-19, from: The LAist
+
+Mental health is a top priority at the first “resiliency center” to open in L.A. County 
+
+<https://laist.com/news/monterey-park-shooting-survivors-resiliency-center>
+
+---
+
+## How Decades Of Environmental Woes Have Hurt, And Mobilized, Southeast LA
+
+date: 2023-10-18, from: The LAist
+
+In Southeast L.A., as well as Boyle Heights and unincorporated East L.A., community members have organized against the stench of dead animals, and other environmental problems, for years. 
+
+<https://laist.com/news/climate-environment/southeast-la-baker-lawsuit-vernon-smell-environment-exide-community-odors>
+
+---
+
+## 9 Candidates For LA County DA Will Debate Tonight. The Current DA Won't Be One Of Them
+
+date: 2023-10-18, from: The LAist
+
+A spokesperson for George Gascón said the district attorney won't attend because of a previously scheduled event. 
+
+<https://laist.com/news/politics/nine-candidates-for-la-county-da-will-debate-tonight-the-current-da-wont-be-one-of-them>
+
+---
+
+## LA County Supervisors Approve 'Vanlord' Resolution
+
+date: 2023-10-18, from: The LAist
+
+L.A. County Supervisors approve a resolution to crack down on "Vanlords" who rent out RVs for people to live in. 
+
+<https://laist.com/news/housing-homelessness/la-county-supervisors-approve-vanlord-resolution-rv-encampments>
+
+---
+
+## As US Wildfires Pollute The Skies, A Loophole Is Obscuring The Impact. Can It Be Fixed?
+
+date: 2023-10-18, from: The LAist
+
+Everyone agrees it’s time to change the Clean Air act's exceptional events rule, but has different solutions 
+
+<https://laist.com/news/climate-environment/as-us-wildfires-pollute-the-skies-a-loophole-is-obscuring-the-impact-can-it-be-fixed>
+
+---
+
+## Classifieds – October 18, 2023
+
+date: 2023-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/18/classifieds-october-18-2023/">Classifieds &#8211; October 18, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/18/classifieds-october-18-2023/>
+
+---
+
+## AAPI Alliance hosts town hall for School of Medicine students, faculty
+
+date: 2023-10-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA David Geffen School of Medicine hosted a town hall Oct. 10 to discuss challenges faced by Asian American and Pacific Islander students, faculty and staff. 
+
+<https://dailybruin.com/2023/10/18/aapi-alliance-hosts-town-hall-for-school-of-medicine-students-faculty/>
+
+---
+
+## Metrolink passes now free for students
+
+date: 2023-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Student Adventure Pass program will be available for six months.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/18/metrolink-passes-now-free-for-students/">Metrolink passes now free for students</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/18/metrolink-passes-now-free-for-students/>
+
+---
+
+## Non-conference rivalries are here to stay
+
+date: 2023-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Teams should search for non-conference rivals.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/18/non-conference-rivalries-are-here-to-stay/">Non-conference rivalries are here to stay</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/18/non-conference-rivalries-are-here-to-stay/>
+
+---
+
+## Women’s golf shakes up its roster
+
+date: 2023-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A new lineup hopes to bring a sense of urgency ahead of the upcoming tournament.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/18/womens-golf-shakes-up-its-roster/">Women’s golf shakes up its roster</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/18/womens-golf-shakes-up-its-roster/>
+
+---
+
+## Trojan Transfer Plan isn’t for all Trojans
+
+date: 2023-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University’s treatment of legacy student transfers shows its hidden priorities.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/18/trojan-transfer-plan-isnt-for-all-trojans/">Trojan Transfer Plan isn’t for all Trojans</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/18/trojan-transfer-plan-isnt-for-all-trojans/>
+
+---
+
+## A 9 to 5 in Shanghai
+
+date: 2023-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Markgong’s Spring 2024 collection was a corporate-fashion wonderland, but why does it still feel slightly unfulfilling?</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/18/a-9-to-5-in-shanghai/">A 9 to 5 in Shanghai</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/18/a-9-to-5-in-shanghai/>
+
+---
+
+## The government is letting college kids go hungry
+
+date: 2023-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Working shouldn’t be a requirement to eat, but that’s the bleak future for recipients of SNAP, including college students at USC and in the South.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/18/the-government-is-letting-college-kids-go-hungry/">The government is letting college kids go hungry</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/18/the-government-is-letting-college-kids-go-hungry/>
+
+---
+
+## Students react to Gaza siege at USG meeting
+
+date: 2023-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Senators also passed a resolution supporting undocumented students.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/18/students-react-to-gaza-siege-at-usg-meeting/">Students react to Gaza siege at USG meeting</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/18/students-react-to-gaza-siege-at-usg-meeting/>
+
+---
+
+## Destroying boundaries with Mark Rios
+
+date: 2023-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The USC alum discussed his philosophies at a Visions and Voices event Monday.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/18/destroying-boundaries-with-mark-rios/">Destroying boundaries with Mark Rios</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/18/destroying-boundaries-with-mark-rios/>
+
+---
+
+## Students protest on campus to ‘Free Palestine’
+
+date: 2023-10-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>More than 100 students marched across campus, raising signs and voices for an hour and a half.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/18/students-protest-on-campus-to-free-palestine/">Students protest on campus to ‘Free Palestine’</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/18/students-protest-on-campus-to-free-palestine/>
+
+---
+
+## October installment of Broxton Nights features ‘Tricks and Treats’ theme
+
+date: 2023-10-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 17 at 11:24 p.m.</em>
+Bruins and community members gathered on Broxton Avenue on Saturday for the Halloween-themed installment of Broxton Nights. 
+
+<https://dailybruin.com/2023/10/17/october-installment-of-broxton-nights-features-tricks-and-treats-theme/>
+
+---
+
+## Students discuss rushing process for fraternities, sororities at UCLA
+
+date: 2023-10-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 17 at 11:50 p.m.</em>
+One of Caleb Wallis’ most significant moments in UCLA Greek life was spent smashing IKEA chairs while chanting with and hugging his fraternity brothers. 
+
+<https://dailybruin.com/2023/10/17/students-discuss-rushing-process-for-fraternities-sororities-at-ucla/>
+
+---
+
+## UCLA cross country saves new bests for last regular season meet before Pac-12
+
+date: 2023-10-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 17 at 9:59 p.m.</em>
+The Bruins had a personal best-laden Friday in Texas.
+For its third and final regular season meet of 2023, UCLA cross country traveled to College Station, Texas, for the Arturo Barrios Invitational on Friday. 
+
+<https://dailybruin.com/2023/10/17/ucla-cross-country-saves-new-bests-for-last-regular-season-meet-before-pac-12/>
+
+---
+
+## Getty Center unveils new exhibition, ‘William Blake: Visionary’
+
+date: 2023-10-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Visionary tales and texts are lighting up the Getty Center.
+On Monday night, the Getty Center unveiled the &#8220;William Blake: Visionary&#8221; exhibition to an audience for the first time during a private reception. 
+
+<https://dailybruin.com/2023/10/17/getty-center-unveils-new-exhibition-william-blake-visionary/>
+
+---
+
+## UCLA alumni bring passion and kindness to ‘Mean Girls’ musical tour ensemble
+
+date: 2023-10-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Bruin alumni are bringing &#8220;fetch&#8221; back.
+As artists on the ensemble team, Thalia Atallah and Joi McCoy are currently touring on the &#8220;Mean Girls&#8221; musical&#8217;s North American circuit. 
+
+<https://dailybruin.com/2023/10/17/ucla-alumni-bring-passion-and-kindness-to-mean-girls-musical-tour-ensemble/>
+
+---
+
+## Undefeated men’s water polo to battle Princeton, UCSB
+
+date: 2023-10-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 17 at 9:47 p.m.</em>
+The Bruins plan to stick to their defensive strategy as they reach the middle portion of a five-game homestand. 
+
+<https://dailybruin.com/2023/10/17/undefeated-mens-water-polo-to-battle-princeton-ucsb/>
+
+---
+
+## UCLA football plans to turn down its turnovers following Oregon State loss
+
+date: 2023-10-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 17 at 9:27 p.m.</em>
+Coach Chip Kelly provided a simple summary of what went wrong for the Bruins this past weekend. 
+
+<https://dailybruin.com/2023/10/17/ucla-football-plans-to-turn-down-its-turnovers-following-oregon-state-loss/>
+
+---
+
+## Oaktober
+
+date: 2023-10-17, from: Theodore Paine Foundation
+
+It’s Oaktober! And yes, Seedtember just finished &#8211; we’re very fond of calendar puns here at Theodore Payne Foundation. For me, of all the CA native plants out there, oaks are probably most deserving of their own pun of the month. They are the workhorses of Southern California landscapes, providing an abundance of food to [&#8230;] 
+
+<https://theodorepayne.org/oaktober/>
+
+---
+
 ## Editor’s Epilogue: When life gives you lemons, make your own bagels
 
 date: 2023-10-17, from: The Daily Trojan (USC Student Newspaper)
@@ -154,10 +635,112 @@ date: 2023-10-17, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2023-10-17, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 17 at 8:14 p.m.</em>
 socialghosts is meeting at the junction of music, law and insurance.
-Composed of Sean Embrey-Stine, Connor Daniel and UCLA School of Law alumnus Dhruva Krishna, the indie rock band released their latest single, &#8220;silverlake,&#8221; on Friday. 
+Composed of Sean Embrey-Stine, Connor Daniel and UCLA School of Law alumnus Dhruva Krishna, the indie rock band released its latest single, “silverlake,” on Friday. 
 
 <https://dailybruin.com/2023/10/16/indie-rock-band-socialghosts-discusses-latest-track-silverlake-origins-of-group/>
+
+---
+
+## Are Privacy and the Honor Code Compatible?
+
+date: 2023-10-17, from: California Tech (Caltech Student Newspaper)
+
+It’s the beginning of term, and the new frosh class are met with their first challenge of the year: attempting to socialize with random upperclass students. Each night for their first week at Caltech they rotate, attending events from all the houses, trying to find the perfect fit for their four years at Caltech. Then comes the cannon fire, and rotation comes to an end. The end of rotation brings every frosh a new housing assignment they have to move into. A very exhausting day follows as frosh move across campus, the dread of the boat problem and the first week of sets lingering overhead all the while. 
+
+<https://tech.caltech.edu/2023/10/17/bechtel-room-codes/>
+
+---
+
+## Divorce, Drinks, and Long Drives: The Mountain Goats Experience
+
+date: 2023-10-17, from: California Tech (Caltech Student Newspaper)
+
+John Darnielle, lead singer for The Mountain Goats 
+
+<https://tech.caltech.edu/2023/10/17/divorce-drinks-and-long-drives-the-mountain-goats-experience/>
+
+---
+
+## Housing in Pasadena: A Zero-Sum Game?
+
+date: 2023-10-17, from: California Tech (Caltech Student Newspaper)
+
+While Caltech is able to house all undergraduate students who wish to live on campus, this is not the case for graduate students. Only G1’s are guaranteed housing from the Housing Office; thereafter, graduates must enter an extremely competitive lottery to live in Caltech-owned apartments. 
+
+<https://tech.caltech.edu/2023/10/17/apartment-building/>
+
+---
+
+## HSS Course Offerings: An Analysis of the Past Five Years
+
+date: 2023-10-17, from: California Tech (Caltech Student Newspaper)
+
+A common concern heard among the undergraduates on registration day these past few terms is “there aren’t enough hums!”. Broadly referring to all Humanities and Social Science (HSS) courses offered in a given term by the word ‘hum’, what specifically does the statement mean? That there aren’t enough advanced humanities courses being offered in any given term (i.e. not enough_ total <em>HSS courses)? That there isn’t enough breadth of courses to satisfy their interests (i.e. not enough</em> “interesting”_ HSS courses for any given student)? That there aren’t enough courses that fit into their schedule (i.e. not enough HSS courses <em>at a given time</em>)? The Academics and Research Committee (ARC) has compiled the following data to understand the source of the concern. 
+
+<https://tech.caltech.edu/2023/10/17/hss-course-offerings-an-analysis-of-the-past-five-years/>
+
+---
+
+## Men’s Soccer and Men’s Water Polo Start the Weekend Strong
+
+date: 2023-10-17, from: California Tech (Caltech Student Newspaper)
+
+The Caltech Men’s Water Polo and Men’s Soccer teams saw success on Friday, October 13<sup>th</sup> and Saturday, October 14<sup>th</sup> – a strong start to the weekend for Caltech athletics. 
+
+<https://tech.caltech.edu/2023/10/17/mens-soccer-and-mens-water-polo-start-the-weekend-strong/>
+
+---
+
+## New Changes in Caltech Athletics and Recreation to Fix Old Problems
+
+date: 2023-10-17, from: California Tech (Caltech Student Newspaper)
+
+At the start of 2023, students began to hear rumors of major renovations coming to Braun Athletic Center and Scott Brown Gym. We heard that the distribution of gym equipment would be changing, that the athletic training office would be moving, and circulating most of all, that the locker rooms were to see major renovations. For students and members, athletes and otherwise, this was an exciting change. The locker rooms had been outdated for a long time, both in their facilities and the ideas they reflected, and in April 2023, this much needed change began. 
+
+<https://tech.caltech.edu/2023/10/17/new-changes-in-caltech-athletics-and-recreation-to-fix-old-problems/>
+
+---
+
+## Question the Quail
+
+date: 2023-10-17, from: California Tech (Caltech Student Newspaper)
+
+<strong>Q</strong> I&rsquo;m a grad student looking for club funding. How do I go about applying for money? -Madeline Hatter
+<strong>A</strong> Simple! Just follow this 4-step plan: 
+
+<https://tech.caltech.edu/2023/10/17/question-the-quail/>
+
+---
+
+## The CalAI Odyssey
+
+date: 2023-10-17, from: California Tech (Caltech Student Newspaper)
+
+Tik Tak… Tik Tak, it is almost 1 PM. 
+
+<https://tech.caltech.edu/2023/10/17/the-calai-odyssey/>
+
+---
+
+## The Unstandardization of Caltech: Bathrooms
+
+date: 2023-10-17, from: California Tech (Caltech Student Newspaper)
+
+After arriving at Caltech, one of the first things I noticed about the campus once I finally had time to wander around was that, from what I could tell, this place lacked a consistent architectural style. There&rsquo;s a mix of Spanish-style architecture like Beckman Institute, more modern-looking buildings like Chen, and silly guys like the Beckman Hall (and also ugly ass ones like Downs-Lauritsen). This mixing of styles continues inside, with some buildings like Bridge keeping their old-fashioned style but Gates-Thomas deciding to modernize. That&rsquo;s all neat and cool, but it goes a little further than what you see walking up and down the halls. The place I noticed these tiny details is a sacred place where you have time to yourself, a place free of distraction, a place of relief: the bathroom. 
+
+<https://tech.caltech.edu/2023/10/17/the-unstandardization-of-caltech-bathrooms/>
+
+---
+
+## To Unionize or Not to Unionize
+
+date: 2023-10-17, from: California Tech (Caltech Student Newspaper)
+
+On Friday, September 29, 2023, the Caltech Graduate Students and Postdocs United (C/GPU) hosted a rally to celebrate reaching a majority of signed union authorization cards. For those unfamiliar or just confused about the process, this was not a vote. Those in charge of the union effort made it clear that according to their recorded numbers, enough graduate students and postdocs currently support moving forward to a vote to force the issue. These same leaders have also been very vocal about the fact that a vote would not have needed to be forced if the administration had simply consented early on to let us hold one. 
+
+<https://tech.caltech.edu/2023/10/17/to-unionize-or-not-to-unionize/>
 
 ---
 
@@ -165,7 +748,8 @@ Composed of Sean Embrey-Stine, Connor Daniel and UCLA School of Law alumnus Dhru
 
 date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
 
-The North Westwood Neighborhood Council – the official neighborhood council advocating for UCLA and Westwood to the Los Angeles City Council – met Oct. 11. The council’s meetings are open to the public and are held on the first Wednesday of the month at UCLA’s Weyburn Terrace. 
+<em>This post was updated Oct. 17 at 11:57 p.m.</em>
+The North Westwood Neighborhood Council – the official neighborhood council advocating for UCLA and Westwood to the Los Angeles City Council – met Oct. 
 
 <https://dailybruin.com/2023/10/16/north-westwood-neighborhood-council-recap-oct-11/>
 
@@ -175,7 +759,7 @@ The North Westwood Neighborhood Council – the official neighborhood council ad
 
 date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 16 at 8:32 p.m.</em>
+<em>This post was updated Oct. 17 at 9:45 p.m.</em>
 &#160;
 No. 25 UCLA football (4-2, 1-2 Pac-12) notched its second conference defeat of the season Saturday, this time at the hands of No. 
 
@@ -217,9 +801,10 @@ A vote on the issue is expected Tuesday by the L.A. County Board of Supervisors.
 
 date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
 
-The pressure of facing one of the nation&#8217;s best would generally weigh a team down.
-But Desiree Becker said instead, the Bruins&#8217; word of the day was &#8220;free.&#8221;
-&#8220;That means something different for everyone in a lot of different ways,&#8221; said the graduate student middle blocker. 
+<em>This post was updated Oct. 17 at 9:26 p.m.</em>
+The pressure of facing one of the nation’s best would generally weigh a team down.
+But Desiree Becker said that instead, the Bruins&#8217; word of the day was &#8220;free.&#8221;
+“That means something different for everyone in a lot of different ways,” said the graduate student middle blocker. 
 
 <https://dailybruin.com/2023/10/16/ucla-womens-volleyball-falls-to-no-3-stanford-focuses-on-playing-freely/>
 
@@ -251,6 +836,7 @@ date: 2023-10-16, from: The Canyon News (COC Student Newspaper)
 
 date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 17 at 7:53 p.m.</em>
 From keychains to plushies, Melanie Beltran has many projects under her hook.
 The third-year psychology student runs CrochetvilleGoods, a crochet business that includes a shop on Etsy and commissioned work. 
 
@@ -408,6 +994,7 @@ USAC is the official student government representing the undergraduate student b
 
 date: 2023-10-16, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 17 at 5:20 p.m.</em>
 Ah-Hyung “Alissa” Park, the Ronald and Valerie Sugar Dean of the UCLA Henry Samueli School of Engineering and Applied Science, sat down with the Daily Bruin to discuss her plans in the new role for the upcoming year. 
 
 <https://dailybruin.com/2023/10/15/qa-dean-alissa-park-aims-to-foster-diversity-inclusion-in-ucla-engineering-school/>

@@ -22,7 +22,7 @@ https://thecatalinaislander.com/feed/ "~Catalina Islander"
 #
 https://tech.caltech.edu/index.xml "~California Tech (Caltech Student Newspaper)"
 https://sundial.csun.edu/feed/ "~The Sundail (CSUN Student Newspaper)"
-http://www.laloyolan.com/search/?f=rss "~Laloyolan (LMU Student Newspaper)"
+https://www.laloyolan.com/search/?f=rss "~Laloyolan (LMU Student Newspaper)"
 https://pepperdinebeacon.com/feed/ "~Pepperdine Beacon (Pepperdine Student Newspaper)
 https://caltechletters.org/feed.xml "~Caltech Letters (a student blog)"
 https://canyonsnews.com/feed/ "~The Canyon News (COC Student Newspaper)"
@@ -38,7 +38,7 @@ https://www.pcccourier.com/feed "~PCC Courier (PCC Student Newspaper)"
 #
 # NGO and community sites
 #
-http://www.tataviam-nsn.us/feed/ "~Tatavium Tribal News"
+https://www.tataviam-nsn.us/feed/ "~Tatavium Tribal News"
 https://gabrielinotribe.org/tribal-news/feed/ "~Tongva Tribal News"
 https://laconservancy.tumblr.com/rss "~L.A. Conservancy Blog"
 https://www.sgvlug.org/feeds/all.atom.xml "~San Gabriel Valley Linux User Group"

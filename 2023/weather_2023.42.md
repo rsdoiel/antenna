@@ -1,22 +1,108 @@
 ---
 
-## SPC - No watches are valid as of Tue Oct 17 12:47:02 UTC 2023
+## SPC - No watches are valid as of Thu Oct 19 02:19:01 UTC 2023
 
-date: 2023-10-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Oct 17 12:47:02 UTC 2023. 
+No watches are valid as of Thu Oct 19 02:19:01 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Tue Oct 17 12:47:02 UTC 2023
+## SPC - No MDs are in effect as of Thu Oct 19 02:19:01 UTC 2023
 
-date: 2023-10-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Oct 17 12:47:02 UTC 2023. 
+No Mesoscale Discussions are in effect as of Thu Oct 19 02:19:01 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Oct 19, 2023 0100 UTC Day 1 Convective Outlook
+
+date: 2023-10-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0733 PM CDT Wed Oct 18 2023
+
+Valid 190100Z - 191200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+The risk for thunderstorms appears negligible across the U.S.
+through tonight.
+
+...01Z Update...
+Convection, beneath the mid-level cold core of the low digging to
+the east-southeast of the mid Missouri Valley, briefly produced some
+lightning during the late afternoon near the western Minnesota/Iowa
+border vicinity.  However, this appeared largely supported by
+destabilization associated with insolation, and has diminished with
+the loss of daytime heating.
+
+More recently, some lightning has been noted within the convective
+band ahead of the trailing short wave trough, along an associated
+weak southeastward advancing cold front, to the west-northwest of
+Springfield MO.  While this convective band could generate
+additional lightning as it spreads eastward across the middle
+Mississippi/lower Ohio Valleys overnight, it appears that this will
+be rather sporadic and sparse, with destabilization forecast to
+remain limited by only modest steepening of mid/upper lapse rates
+and weak boundary-layer moisture return.
+
+..Kerr.. 10/19/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2023-10-18, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0413 PM CDT Wed Oct 18 2023
+
+Valid 201200Z - 261200Z
+
+A large upper-level trough will amplify across the eastern CONUS
+this weekend. At the surface, a strong surface low will develop.
+This will result in dry and breezy conditions across much of the
+eastern CONUS. However, temperatures will be cool, much of this area
+will see precipitation in the prior days, and fuels remain moist
+across this region. This should mitigate the fire weather threat. 
+
+Next week, a strong upper-level jet will move into the western CONUS
+and a large trough will develop. This strong mid-level flow and a
+developing lee cyclone should bring some dry and windy conditions to
+the southwest and southern High Plains. Fuels are moist in these
+regions at this time, but continued dry conditions this week and
+this weekend may dry fuels sufficiently for some fire weather threat
+ahead of the cold front early next week. However, this system is
+also expected to bring sufficient moisture which may mitigate the
+threat and is expected to bring widespread wetting rain to much of
+this region.
+
+..Bentley.. 10/18/2023
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 

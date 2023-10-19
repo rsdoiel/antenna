@@ -21,6 +21,7 @@ https://www.saipantribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&
 
 
 # From the Republic of Belau
+https://www.tiabelaunews.com/?feed=rss2 "~Tia Belau (Palau's First Newspaper)"
 https://islandtimes.org/feed/ "~Island Times"
 
 # Republic of the Marshal Islands
@@ -47,8 +48,8 @@ https://www.pbshawaii.org/programs/hiki-no/feed/ "~HIKI NŌ ON PBS HAWAIʻI"
 https://www.pbshawaii.org/programs/home-is-here/feed/ "~Home is Here"
 https://www.pbshawaii.org/programs/insights-on-pbs-hawaii/feed/ "~INSIGHTS ON PBS HAWAIʻI"
 https://www.hawaii.edu/news/feed/ "~University of Hawaiʻi News"
-http://www.manoanow.org/search/?f=rss&t=article&c=kaleo&l=50&s=start_time&sd=desc "~Ka Leo O Hawaiʻi (UH Manoa student newspaper)"
-https://thesilversword.com/feed/rss/ "~Chaminade Silversword (Chaminade Univ. student newspaper)"
+https://www.manoanow.org/search/?f=rss&t=article&c=kaleo&l=50&s=start_time&sd=desc "~Ka Leo O Hawaiʻi (UH Manoa student newspaper)"
+https://thesilversword.com/feed/ "~Chaminade Silversword (Chaminade Univ. student newspaper)"
 https://hawaiipacificreview.org/feed/ "~Hawai'i Pacific Review (HPU Literary Magazine)"
 
 

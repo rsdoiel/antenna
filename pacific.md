@@ -1,5 +1,420 @@
 ---
 
+## Paid internship available at War in the Pacific National Historical Park
+
+date: 2023-10-19, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — A paid internship position with the War in the Pacific National Historical Park is now open for applications. Employment will be from Jan. 22 to Dec. 20, 2024. 
+
+<https://www.mvariety.com/news/regional_world/paid-internship-available-at-war-in-the-pacific-national-historical-park/article_2e8a5298-6e21-11ee-8b08-179814768ef4.html>
+
+---
+
+## Man accused of breaking into offices, car and identity theft
+
+date: 2023-10-19, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — A man was charged in connection to a burglary at the Public Defender Service Corp.'s office, as well as several other crimes reported over the last month. 
+
+<https://www.mvariety.com/news/regional_world/man-accused-of-breaking-into-offices-car-and-identity-theft/article_e723d65e-6e20-11ee-892a-93a1f5fb1142.html>
+
+---
+
+## Minor, 15, taken into custody, suspected terroristic conduct
+
+date: 2023-10-19, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — A 15-year-old was taken into police custody in connection to a social media post that incited a riot at Tiyan High School. 
+
+<https://www.mvariety.com/news/regional_world/minor-15-taken-into-custody-suspected-terroristic-conduct/article_4ceb5080-6e20-11ee-9811-5b18e57db6f3.html>
+
+---
+
+## Yano removed as Ngircheteet
+
+date: 2023-10-19, from: Tia Belau (Palau's First Newspaper)
+
+Affidavit of Yano in court calls Lebuu Ibedul “This letter is to inform you that effective immediately on this day&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7280>
+
+---
+
+## Koror to celebrate 40th Anniversary on Saturday
+
+date: 2023-10-19, from: Tia Belau (Palau's First Newspaper)
+
+Koror, the commercial center and largest state in the Republic with about 70% of the country’s population, will celebrate the &#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7278>
+
+---
+
+## Reklai is hospitalized in Taiwan
+
+date: 2023-10-19, from: Tia Belau (Palau's First Newspaper)
+
+Sources in Melekeok State confirmed that Reklai Raphael Bao Ngirmang was flown to Taiwan last Saturday for medical treatment of&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7275>
+
+---
+
+## Gogo nominated to be next U.S. attorney
+
+date: 2023-10-19, from: The Guam Daily Post
+
+California Judge Johnny Cepeda Gogo has been nominated by President Joe Biden to be the next United States attorney for Guam and the Commonwealth of the Northern Mariana Islands. 
+
+<https://www.postguam.com/news/gogo-nominated-to-be-next-u-s-attorney/article_2b7e1460-6e15-11ee-abbb-13827d377e25.html>
+
+---
+
+## Held in contempt of court, facing fine and jail time: Kennedy pays $2.4M to court
+
+date: 2023-10-19, from: Tia Belau (Palau's First Newspaper)
+
+After refusing to transfer the $2.4 million fund for Ngarametal to the Clerk of Court for six months and after&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7272>
+
+---
+
+## Youth dance competition restarts in Ngatpang
+
+date: 2023-10-19, from: Tia Belau (Palau's First Newspaper)
+
+The youth contemporary dance competition that President Surangel Whipps, Jr. initiated at Koksai, Ngatpang when he was a candidate in&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7269>
+
+---
+
+## Aimeliik, Ngeremlengui,and Melekeok to hold elections at year end
+
+date: 2023-10-19, from: Tia Belau (Palau's First Newspaper)
+
+The three children of the legendary mother of Palau, Milad – Ngeremlengui, Melekeok, and Aimeliik will hold elections in November&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7266>
+
+---
+
+## Inmate attacked in jail
+
+date: 2023-10-19, from: Tia Belau (Palau's First Newspaper)
+
+$350,000 settlement for Takisang death in prison not released An inmate was injured in the Palau prison in Madalaii while&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7264>
+
+---
+
+## Angaur Gov’t shutdown prompts warning from OEN President
+
+date: 2023-10-19, from: Tia Belau (Palau's First Newspaper)
+
+By Kambes Kesolei The Olbiil Era Ngeaur (OEN) President Arkagius Orak has issued a stern warning to Governor Steven Salii&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7261>
+
+---
+
+## Child Raising Subsidy first payout to benefit over 1,300 children
+
+date: 2023-10-19, from: Tia Belau (Palau's First Newspaper)
+
+By Kambes Kesolei The Ministry of Health and Human Services (MHHS) will soon begin disbursing the $100 per eligible child&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7258>
+
+---
+
+## President Whipps submits nominations for various boards
+
+date: 2023-10-19, from: Tia Belau (Palau's First Newspaper)
+
+By Kambes Kesolei President Surangel Whipps Jr. has submitted nine names for various boards and commissions to the Senate for&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7256>
+
+---
+
+## RMI signs 20-year Compact
+
+date: 2023-10-18, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON The Marshall Islands signed off on the Compact of Free Association Monday in Honolulu, the last of the three freely associated states to renew its Compact relationship with the United States. The signing was held at the East-West Center in Honolulu. East-West Center President Suzanne Vares-Lum hailed the signing as an “historic agreement.” [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://marshallislandsjournal.com/rmi-signs-20-year-compact/">RMI signs 20-year Compact</a> appeared first on <a rel="nofollow" href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/rmi-signs-20-year-compact/>
+
+---
+
+## Israel-Hamas  conflict reaches campus
+
+date: 2023-10-18, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+The tension of the Israel-Hamas war touches O‘ahu, as rallies for both sides of the conflict occurred on Oct. 9. 
+
+<https://www.manoanow.org/kaleo/israel-hamas-conflict-reaches-campus/article_70acfc88-6d46-11ee-b997-df1482f95d84.html>
+
+---
+
+## UH Hilo to lead $6.6M National Native Language Resource Center
+
+date: 2023-10-18, from: University of Hawaiʻi News
+
+<p>The award is the first of its kind to lead, advocate for and implement training and resource development for Indigenous language education pathways in the U.S.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/18/uh-hilo-to-lead-n-nalrc/"><abbr>UH</abbr> Hilo to lead $6.6M National Native Language Resource Center</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/18/uh-hilo-to-lead-n-nalrc/>
+
+---
+
+## American Samoa sea-level rise viewer available for public
+
+date: 2023-10-18, from: University of Hawaiʻi News
+
+<p>The tool will be an essential component in future planning to assess the short and long-term impacts of rising seas and to minimize the risks to coastal communities.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/18/american-samoa-sea-level-viewer/">American Samoa sea-level rise viewer available for public</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/18/american-samoa-sea-level-viewer/>
+
+---
+
+## UH News Image of the Week: ʻOhiʻa Lehua
+
+date: 2023-10-18, from: University of Hawaiʻi News
+
+<p>This week's image is from <abbr>UH</abbr> Mānoa's Hailey Hesseltine.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/18/uh-news-image-of-the-week-ohia-lehua/"><abbr>UH</abbr> News Image of the Week: ʻOhiʻa Lehua</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/18/uh-news-image-of-the-week-ohia-lehua/>
+
+---
+
+## AI identifies potential new treatment for brittle bone disease
+
+date: 2023-10-18, from: The Guam Daily Post
+
+Artificial intelligence has soared in popularity and is being utilized by some scientists. 
+
+<https://www.postguam.com/lifestyles/health/ai-identifies-potential-new-treatment-for-brittle-bone-disease/article_23620873-43fc-59b8-a2d3-51ccdd803771.html>
+
+---
+
+## New skin patches could soon replace needles to deliver drugs
+
+date: 2023-10-18, from: The Guam Daily Post
+
+Scientists hope the patches will be ready for public use within the next five to 10 years. 
+
+<https://www.postguam.com/lifestyles/health/new-skin-patches-could-soon-replace-needles-to-deliver-drugs/article_75e850ac-c13f-5dd5-b7e4-51db39bdd5e1.html>
+
+---
+
+## Study finds how Americans define productivity
+
+date: 2023-10-18, from: The Guam Daily Post
+
+People look at an average of two screens while doing other things, and feel most productive with two screens in front of them. 
+
+<https://www.postguam.com/lifestyles/health/study-finds-how-americans-define-productivity/article_4b1e273f-f52a-5031-870e-71d4e0f4ab0d.html>
+
+---
+
+## HIKI NŌ ON PBS HAWAIʻI: Students Share What Makes Maui Strong
+
+date: 2023-10-18, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>This episode features a special collection of student voices and a montage of student-captured footage from Montessori School of Maui, H.P. Baldwin High School and Kihei Elementary School about what makes Maui unique and what it’s like to grow up there. H.P. Baldwin High School senior Samuel Paci, who was born and raised on Maui, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbi-students-shar-maui/">HIKI NŌ ON PBS HAWAIʻI: &lt;br/&gt;Students Share What Makes Maui Strong</a> appeared first on <a rel="nofollow" href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbi-students-shar-maui/>
+
+---
+
+## Paid internship available at War in the Pacific National Historical Park
+
+date: 2023-10-18, from: The Guam Daily Post
+
+A paid internship position with the War in the Pacific National Historical Park is now open for applications. Employment will be from Jan. 22 to Dec. 20, 2024. 
+
+<https://www.postguam.com/news/local/paid-internship-available-at-war-in-the-pacific-national-historical-park/article_3f22427a-6c8f-11ee-9523-0b674649774f.html>
+
+---
+
+## Man accused of breaking into offices, car and identity theft
+
+date: 2023-10-18, from: The Guam Daily Post
+
+A man was charged in connection to a burglary at the Public Defender Service Corp.'s office, as well as several other crimes reported over the last month. 
+
+<https://www.postguam.com/news/local/man-accused-of-breaking-into-offices-car-and-identity-theft/article_7f0b2090-6d4e-11ee-84ec-5fd38ba34d29.html>
+
+---
+
+## GDOE: 2 threats made to George Washington High School this week
+
+date: 2023-10-18, from: The Guam Daily Post
+
+George Washington High School will not allow bags on campus until the end of the week in response to two anonymous threats made on social media. 
+
+<https://www.postguam.com/news/local/gdoe-2-threats-made-to-george-washington-high-school-this-week/article_43bf60f4-6d54-11ee-94ef-6390893a03fe.html>
+
+---
+
+## Humanities Guåhan awarded national endowment grant
+
+date: 2023-10-18, from: The Guam Daily Post
+
+October is National Arts and Humanities Month and Humanities Guåhan announced that it has been awarded a federal grant from the National Endowment for the Humanities as part of its “United We Stand: Connecting through Culture” initiative, which recognizes its… 
+
+<https://www.postguam.com/news/local/humanities-gu-han-awarded-national-endowment-grant/article_4298852e-6323-11ee-9745-3fbadfd2fe94.html>
+
+---
+
+## Speaker to push for power credit after funding taken by GMHA bill
+
+date: 2023-10-18, from: The Guam Daily Post
+
+The funding source eyed to support another extension to the local energy credit program is no longer available, as the Guam Legislature fully appropriated that money to the Guam Memorial Hospital Authority through a recently enacted bailout measure, according to… 
+
+<https://www.postguam.com/news/local/speaker-to-push-for-power-credit-after-funding-taken-by-gmha-bill/article_90c91fe4-6d58-11ee-a0c3-b7d37fff66f6.html>
+
+---
+
+## Lawmakers hear testimony on risk assessment bill
+
+date: 2023-10-18, from: The Guam Daily Post
+
+The Judiciary of Guam and defense attorneys believe a bill introduced to conduct risk assessments for criminal defendants is not required because of what is already in place. 
+
+<https://www.postguam.com/news/lawmakers-hear-testimony-on-risk-assessment-bill/article_a45473f6-6d5d-11ee-8b51-970da747d8a4.html>
+
+---
+
+## Adelup signs partnership with FDA
+
+date: 2023-10-18, from: The Guam Daily Post
+
+Acting Gov. Josh Tenorio joined key officials at the Department of Public Health and Social Services and the Guam Customs and Quarantine Agency in signing a three-year-long partnership agreement with the U.S. Food and Drug Administration on Wednesday. 
+
+<https://www.postguam.com/news/local/adelup-signs-partnership-with-fda/article_e40612f8-6d66-11ee-9ba9-7391b634883f.html>
+
+---
+
+## Minor, 15, taken into custody, suspected terroristic conduct
+
+date: 2023-10-18, from: The Guam Daily Post
+
+A 15-year-old was taken into police custody in connection to a social media post that incited a riot at Tiyan High School. 
+
+<https://www.postguam.com/news/local/minor-15-taken-into-custody-suspected-terroristic-conduct/article_6e4fff42-6d52-11ee-988d-77325df2416e.html>
+
+---
+
+## Fisher: Speedy trial right for  prosecution unconstitutional
+
+date: 2023-10-18, from: The Guam Daily Post
+
+Sen. Thomas Fisher thinks allowing the prosecution to assert their right to a speedy trial "would be at the expense of (the) constitutional rights of the people of Guam." 
+
+<https://www.postguam.com/news/fisher-speedy-trial-right-for-prosecution-unconstitutional/article_3977c178-6d67-11ee-a31d-2f5243afce51.html>
+
+---
+
+## Alternative models to incarceration discussed in UH-hosted symposium
+
+date: 2023-10-18, from: University of Hawaiʻi News
+
+<p>To share knowledge and explore new approaches to corrections, diversion and reentry, the <abbr>UH</abbr> Community Design Center hosted a breaking cycles symposium.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/17/alternative-models-incarceration/">Alternative models to incarceration discussed in <abbr>UH</abbr>-hosted symposium</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/17/alternative-models-incarceration/>
+
+---
+
+## UH experts provide advice on how to salvage fire damaged items
+
+date: 2023-10-18, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa library experts contributed their knowledge in a series of webinar presentations presented by the American Institute for Conservation.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/17/how-to-salvage-fire-damaged-items/"><abbr>UH</abbr> experts provide advice on how to salvage fire damaged items</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/17/how-to-salvage-fire-damaged-items/>
+
+---
+
+## Home is Here Kawaii Kon & OG SLICK
+
+date: 2023-10-18, from: Home is Here
+
+<p>The post <a rel="nofollow" href="https://www.pbshawaii.org/home-is-here-kawaii-kon-og-slick/">Home is Here &lt;br/&gt;Kawaii Kon &#038; OG SLICK</a> appeared first on <a rel="nofollow" href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/home-is-here-kawaii-kon-og-slick/>
+
+---
+
+## Rare music, dance, song opportunity for Filipino American History Month
+
+date: 2023-10-17, from: University of Hawaiʻi News
+
+<p>Helobung is an artist collective from Mindanao’s Indigenous Tboli community, Lake Sebu in Southern Philippines.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/17/music-dance-song-filipino-american-history-month/">Rare music, dance, song opportunity for Filipino American History Month</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/17/music-dance-song-filipino-american-history-month/>
+
+---
+
+## UH Press publishes Filipino American history journal
+
+date: 2023-10-17, from: University of Hawaiʻi News
+
+<p>The journal is devoted exclusively to the identification, gathering, preservation and dissemination of Filipino American history and culture.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/17/uh-press-filipino-american-journal/"><abbr>UH</abbr> Press publishes Filipino American history journal</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/17/uh-press-filipino-american-journal/>
+
+---
+
+## Hawaiian Word of the Week: Hana paʻa
+
+date: 2023-10-17, from: University of Hawaiʻi News
+
+<p>Hana <span aria-label="paa">pa&#699;a</span>&#8212;To fasten; to make fast</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/17/hawaiian-word-of-the-week-hana-paa/">Hawaiian Word of the Week: Hana paʻa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/17/hawaiian-word-of-the-week-hana-paa/>
+
+---
+
+## Medicine and basketball inspires UH alumna to dream big
+
+date: 2023-10-17, from: University of Hawaiʻi News
+
+<p>Jessica Natale said she is fueled by giving people hope and motivation to do better, to feel better and to be better.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/17/medicine-and-bball-inspires-alumna/">Medicine and basketball inspires <abbr>UH</abbr> alumna to dream big</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/17/medicine-and-bball-inspires-alumna/>
+
+---
+
+## Rainbow Warrior, Wahine basketball teams announce 2023–24 season schedules
+
+date: 2023-10-17, from: University of Hawaiʻi News
+
+<p>The Rainbow Warriors will headline a full season of 31 games while the Rainbow Wahine will headline with 29 games for the 2023&#8211;24 season.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/17/uh-basketball-2023-24-season/">Rainbow Warrior, Wahine basketball teams announce 2023–24 season schedules</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/17/uh-basketball-2023-24-season/>
+
+---
+
 ## ‘Property Brothers’ Drew & Jonathan Scott Set 2 New HGTV Shows, ‘Celebrity IOU’ Renewed
 
 date: 2023-10-17, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
@@ -17,6 +432,16 @@ date: 2023-10-17, from: Pacific Daily News" # getting errors, to many requests, 
 Taylor Swift’s tour security guard, who wishes to remain anonymous, has left his post to return to Israel to rejoin the Israeli Defense Forces. According to Israel Today, the security guard who worked on Swift’s The Eras Tour, is going&#8230; 
 
 <https://www.guampdn.com/lifestyle/entertainment/taylor-swift-s-security-guard-rejoins-israel-defense-forces/video_df6ae766-b4dc-56cb-8fd2-dfc1da4ece09.html>
+
+---
+
+## The Fall Season is One Big Boo
+
+date: 2023-10-17, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+Your pumpkin spice latte is a lie.  Yes, it’s fall and pumpkin spice is all the rage. Except for me. I hate pumpkin spice (which contains 0 pumpkin), and I hate fall. People go absolutely crazy for fall. When late September rolls around, people are off the rails for everything fall. On the other hand,... 
+
+<https://thesilversword.com/top-stories/2023/10/17/the-boo-of-fall/>
 
 ---
 
