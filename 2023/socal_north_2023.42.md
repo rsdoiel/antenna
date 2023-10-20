@@ -1,5 +1,395 @@
 ---
 
+## Student created Evryee app aims to help students find local discounts, save money
+
+date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+A new app is sharing savings with UCLA students and beyond.
+Launched in the summer of 2023, Evyree collaborates with local businesses to serve as a centralized platform for advertising student discounts and deals. 
+
+<https://dailybruin.com/2023/10/19/student-created-evryee-app-aims-to-help-students-find-local-discounts-save-money/>
+
+---
+
+## Out of Bounds: Oregon State recap, Dante Moore and Chip Kelly disappoint
+
+date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Freshman quarterback Dante Moore threw three interceptions as then-No. 18 UCLA fell to then-No. 15 Oregon State in Corvallis, Oregon on Saturday. Sports staff writer Gavin Carlson recaps the Bruins&#8217; struggles with Sports senior staff writer Jack Nelson before revisiting the Out of Bounds Tier List and Chip-o-meter to analyze where UCLA&#8217;s football program stands heading into the latter half of the season. 
+
+<https://dailybruin.com/2023/10/19/out-of-bounds-oregon-state-recap-dante-moore-and-chip-kelly-disappoint/>
+
+---
+
+## UCLA women’s volleyball ignites ‘fiery mentality’ for Washington school matchups
+
+date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins strike a balance in contributions from newcomers and veterans compared to their upcoming opponents.
+Following a win and a loss in the Bay Area, UCLA women’s volleyball (10-8, 2-6 Pac-12) will face Washington (13-6, 4-4) and No. 
+
+<https://dailybruin.com/2023/10/19/ucla-womens-volleyball-ignites-fiery-mentality-for-washington-school-matchups/>
+
+---
+
+## ‘We’re lucky to have a player like him’: Andre Ochoa uplifts UCLA men’s soccer
+
+date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sean Karani had an accusation to make about his locker mate.
+&#8220;He sucks at FIFA,&#8221; the graduate student midfielder said. &#8220;He&#8217;s just not good, but he&#8217;ll tell you otherwise.&#8221;
+Luckily for fellow transfer Andre Ochoa, Karani feels differently about the former&#8217;s play on the pitch. 
+
+<https://dailybruin.com/2023/10/19/were-lucky-to-have-a-player-like-him-andre-ochoa-uplifts-ucla-mens-soccer/>
+
+---
+
+## Understanding LA’s zero-bail policy with CJ Haddad
+
+date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>This week on "The Soapbox", hosts Fabián Gutiérrez and Zaynah Waseem unpack Los Angeles County's new zero-bail policy with associate managing editor and opinion columnist CJ Haddad, who spoke on its background, implications, and what it can teach about the future of policy in the United States at local and federal levels.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/19/understanding-las-zero-bail-policy-with-cj-haddad/">Understanding LA&#8217;s zero-bail policy with CJ Haddad</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/19/understanding-las-zero-bail-policy-with-cj-haddad/>
+
+---
+
+## Stanford’s historic comeback spells uncertainty for UCLA football’s upcoming game
+
+date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Oct. 19 at 4:47 p.m.</em>
+The Bruins&#8217; potential final clash with a longtime adversary appeared to be a write-off, with their opponent struggling to stay afloat under new guidance. 
+
+<https://dailybruin.com/2023/10/19/stanfords-historic-comeback-spells-uncertainty-for-ucla-footballs-upcoming-match/>
+
+---
+
+## Selective admissions processes for competitive clubs create challenges for Bruins
+
+date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+With over 1,200 clubs and student organizations at UCLA, many students can find a space that satisfies their interests or desire for a community. Some clubs, however, have far more applicants than spots available. 
+
+<https://dailybruin.com/2023/10/19/selective-admissions-processes-for-competitive-clubs-create-challenges-for-bruins/>
+
+---
+
+## No Barbenheimer Costumes For Actors Union Members This Halloween
+
+date: 2023-10-20, from: The LAist
+
+SAG-AFTRA put out the dos and don’ts for members who want to dress up without breaking strike rules. 
+
+<https://laist.com/news/arts-and-entertainment/no-barbenheimer-costumes-for-actors-union-members-this-halloween>
+
+---
+
+## Scouting Report: UCLA football vs. Stanford
+
+date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+No. 25 UCLA football (4-2, 1-2 Pac-12) will face Stanford (2-4, 1-3) on Saturday in its second consecutive game on the road. The Bruins are coming off a loss to No. 
+
+<https://dailybruin.com/2023/10/19/scouting-report-ucla-football-vs-stanford-3/>
+
+---
+
+## Sen. Laphonza Butler Will Not Run for US Senate Seat in 2024
+
+date: 2023-10-19, from: The LAist
+
+Butler was appointed to the Senate seat earlier this month by Gov. Gavin Newsom. 
+
+<https://laist.com/news/politics/sen-laphonza-butler-will-not-run-for-us-senate-seat-in-2024>
+
+---
+
+## Razón Por La Cual Deseábamos Entrevistar A Nury Martinez, Previa Presidenta Del Consejo Municipal De LA
+
+date: 2023-10-19, from: The LAist
+
+Antonia Cereijido reflexiona sobre su motivación para presentar “Nury & The Secret Tapes”, la serie de cuatro partes para la nueva temporada del podcast “Paraíso Imperfecto” de LAist Studios. 
+
+<https://laist.com/news/politics/razon-por-la-cual-deseabamos-entrevistar-a-nury-martinez-los-angeles>
+
+---
+
+## Candidates For LA County District Attorney Blast George Gascón During Debate
+
+date: 2023-10-19, from: The LAist
+
+The district attorney himself didn't participate. The debate organizers placed an empty podium on stage in his place. 
+
+<https://laist.com/news/politics/candidates-for-la-county-district-attorney-blast-george-gascon-during-debate>
+
+---
+
+## Children Make Up Nearly Half Of Gaza's Population. Here's What It Means For The War
+
+date: 2023-10-19, from: The LAist
+
+The population of Gaza is one of the youngest in the world. Here's why, what it means for this war, and what it means for the future. 
+
+<https://laist.com/news/children-make-up-nearly-half-of-gazas-population-heres-what-it-means-for-the-war>
+
+---
+
+## UCLA women’s swim and dive prepares to face off against the Gauchos
+
+date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins will spend their next two weekends at home.
+No. 23 UCLA (1-0, 1-0 Pac-12) will return to competition Friday to face off against UC Santa Barbara. 
+
+<https://dailybruin.com/2023/10/19/ucla-womens-swim-and-dive-prepares-to-face-off-against-the-gauchos/>
+
+---
+
+## Why You Got Jolted Out Of Your Sleep At 3 AM By A False Earthquake Alarm
+
+date: 2023-10-19, from: The LAist
+
+Blame it on a ‘time configuration glitch.' 
+
+<https://laist.com/news/climate-environment/why-you-got-jolted-out-of-your-sleep-at-3-am-by-a-false-earthquake-alarm>
+
+---
+
+## Looking to continue hot streak, UCLA women’s soccer travels for Arizona matches
+
+date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Counting the number of goals the Bruins have conceded in October so far would take no time at all.
+After securing four consecutive shutouts, the Bruins have climbed their way to second in the nation. 
+
+<https://dailybruin.com/2023/10/19/looking-to-continue-hot-streak-ucla-womens-soccer-travels-for-arizona-matches/>
+
+---
+
+## UCLA men’s water polo bests Princeton, extends winning streak to 19 games
+
+date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Ben&#8217;s blitzed the Tigers.
+Utilities redshirt freshman Ben Larsen and freshman Ben Liechty&#8217;s five-combined goals helped create the distance to avoid a late-night upset at Spieker Aquatics Center. 
+
+<https://dailybruin.com/2023/10/19/ucla-mens-water-polo-bests-princeton-extends-winning-streak-to-19-games/>
+
+---
+
+## Observational stand-up comedian Joshua Dittrich leaves audiences laughing
+
+date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Joshua Dittrich&#8217;s parents might stitch people up, but he keeps people in stitches.
+The son of doctors from Boise, Idaho, the fourth-year communication student said he was first inspired to pursue comedy when watching &#8220;Saturday Night Live&#8221; as a teenager. 
+
+<https://dailybruin.com/2023/10/19/observational-stand-up-comedian-joshua-dittrich-leaves-audiences-laughing/>
+
+---
+
+## Katrina Weti, el ‘pilar’ del ICC, se despide de Occidental
+
+date: 2023-10-19, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>El 30 de septiembre marcó el último día de Katrina Weti en Occidental, quien desempeñó el rol de Coordinadora del Programa del Centro Comunitario Intercultural (ICC, por sus siglas en inglés) y formó parte de la promoción &#8217;22. Según su compañera de trabajo y la Embajadora Principal de Equidad del ICC, Sueli Zalazar (estudiante de [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2023/10/19/katrina-weti-el-pilar-del-icc-se-despide-de-occidental/2909948">Katrina Weti, el &#8216;pilar&#8217; del ICC, se despide de Occidental</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/espanol/2023/10/19/katrina-weti-el-pilar-del-icc-se-despide-de-occidental/2909948>
+
+---
+
+## Taco/Social reúne a la comunidad de Eagle Rock
+
+date: 2023-10-19, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Taco/Social crea tacos frescos de forma libre con sabores como tikka masala, queso de pollo y barbacoa coreana. Según el socio fundador André Vener, el restaurante abrió sus puertas en Colorado Boulevard el 27 de septiembre. Vener afirmó que la misión de Taco/Social es reunir a la comunidad en torno a una excelente comida. &#8220;Queremos [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2023/10/19/taco-social-reune-a-la-comunidad-de-eagle-rock/2909925">Taco/Social reúne a la comunidad de Eagle Rock</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/espanol/2023/10/19/taco-social-reune-a-la-comunidad-de-eagle-rock/2909925>
+
+---
+
+## Local Humanitarian Aid Efforts For Israel and Palestine Grow As War Intensifies
+
+date: 2023-10-19, from: The LAist
+
+Local temples, mosques, and nonprofits have been calling for donations to help Israelis and Palestinians who’ve been injured and displaced. 
+
+<https://laist.com/news/local-humanitarian-aid-efforts-for-israel-and-palestine-grow-as-war-intensifies>
+
+---
+
+## Next Stop, Vista Canyon!
+
+date: 2023-10-19, from: City of Santa Clarita
+
+<p>Next Stop, Vista Canyon!&#160; By Councilwoman Marsha McLean&#160; We are closing in on the completion of a project that I have been waiting for since its inception. Tomorrow, we will cut the ribbon and officially welcome commuters and residents alike to the Vista Canyon Multi-Modal Center! Located on the east side of Santa Clarita (27550 [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/19/next-stop-vista-canyon/">Next Stop, Vista Canyon!</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2023/10/19/next-stop-vista-canyon/>
+
+---
+
+## Here's The Available Evidence Of What Happened At Al Ahli Arab Hospital In Gaza
+
+date: 2023-10-19, from: The LAist
+
+Videos and photos provide some clues, but much remains unknown about the horrific explosion at the site. 
+
+<https://laist.com/news/heres-the-available-evidence-of-what-happened-at-al-ahli-arab-hospital-in-gaza>
+
+---
+
+## Toys and tips: Sexploration tent returns
+
+date: 2023-10-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Sex Week kicked off last week, featuring events aimed at promoting sex positivity, wellbeing and education.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/19/toys-and-tips-sexploration-tent-returns/">Toys and tips: Sexploration tent returns</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/19/toys-and-tips-sexploration-tent-returns/>
+
+---
+
+## Students gather at Hillel to fundraise, bake cookies
+
+date: 2023-10-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Money raised will go to Magen David Adom, a healthcare service in Israel.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/19/students-gather-at-hillel-to-fundraise-bake-cookies/">Students gather at Hillel to fundraise, bake cookies</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/19/students-gather-at-hillel-to-fundraise-bake-cookies/>
+
+---
+
+## No blurred lines: ‘Sexpert’ teaches consent
+
+date: 2023-10-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Attendees learned about consent and agency’s applications to kinks.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/19/no-blurred-lines-sexpert-teaches-consent/">No blurred lines: ‘Sexpert’ teaches consent</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/19/no-blurred-lines-sexpert-teaches-consent/>
+
+---
+
+## Classifieds – October 19, 2023
+
+date: 2023-10-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/19/classifieds-october-19-2023/">Classifieds &#8211; October 19, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/19/classifieds-october-19-2023/>
+
+---
+
+## Rising Ballers: Florian Wirtz is here to stay
+
+date: 2023-10-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The German midfielder has already excelled for club and country at just 20 years old. </p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/19/rising-ballers-florian-wirtz-is-here-to-stay/">Rising Ballers: Florian Wirtz is here to stay</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/19/rising-ballers-florian-wirtz-is-here-to-stay/>
+
+---
+
+## Exploring the link between Catholic guilt and people-pleasing
+
+date: 2023-10-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As a Catholic, I’ve noticed my faith’s perpetuation of a toxic self-sacrifice culture.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/19/exploring-the-link-between-catholic-guilt-and-people-pleasing/">Exploring the link between Catholic guilt and people-pleasing</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/19/exploring-the-link-between-catholic-guilt-and-people-pleasing/>
+
+---
+
+## Soccer looks to bring the heat to Arizona
+
+date: 2023-10-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC will need to bounce back from a disappointing draw in their last match.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/19/soccer-looks-to-bring-the-heat-to-arizona/">Soccer looks to bring the heat to Arizona</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/19/soccer-looks-to-bring-the-heat-to-arizona/>
+
+---
+
+## Men’s tennis to defend Malibu
+
+date: 2023-10-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC is the reigning singles and doubles champion at the Southwest Regionals.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/19/mens-tennis-to-defend-malibu/">Men’s tennis to defend Malibu</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/19/mens-tennis-to-defend-malibu/>
+
+---
+
+## Halloweekend warrants strict crowd control
+
+date: 2023-10-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Last year’s crowd crush in Seoul shows the need for better crowd management.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/19/crowd-control-at-parties/">Halloweekend warrants strict crowd control</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/19/crowd-control-at-parties/>
+
+---
+
+## ‘UNDERSCORED’ connects generations
+
+date: 2023-10-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Visions and Voices honors<br />
+underground club culture with multimedia theater.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/19/underscored-connects-generations/">&#8216;UNDERSCORED&#8217; connects generations</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/19/underscored-connects-generations/>
+
+---
+
+## To quote Nancy Sinatra: ‘There’s no place like home’
+
+date: 2023-10-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Shared music taste with my family has kept me sane through college.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/19/to-quote-nancy-sinatra-theres-no-place-like-home/">To quote Nancy Sinatra: ‘There’s no place like home’</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/19/to-quote-nancy-sinatra-theres-no-place-like-home/>
+
+---
+
+## Guest Editorial: What does it mean for a major to be dying?
+
+date: 2023-10-19, from: Laloyolan (LMU Student Newspaper)
+
+Assistant professor of theology Sarah Emanuel, Ph.D., and professors of theological studies Jonathan Rothchild, Ph.D., and Tracy Tiemeier, Ph.D., argue against the stigma of dying majors. 
+
+<https://www.laloyolan.com/opinion/guest-editorial-what-does-it-mean-for-a-major-to-be-dying/article_49f0c821-04cd-5837-9dee-445bf19ca689.html>
+
+---
+
 ## UCLA commuter students voice concerns over parking permit accessibility
 
 date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
@@ -83,12 +473,12 @@ The measure was passed by the council's conservative majority on a 4-3 vote afte
 
 ---
 
-## Occidental student loses family members – 3 dead, 9 missing – in Oct. 7 Hamas attack on Israel
+## Occidental student loses family members – 12 missing – in Oct. 7 Hamas attack on Israel
 
 date: 2023-10-18, from: The Occidental News (Occidental College Student Newspaper)
 
 <p>The militant group Hamas attacked Israeli territory Oct. 7, killing more than 1,400 Israelis. Jake Trust (first year), said he lost contact with 12 family members in the attack. After a five-hour flight from Boston to LA Oct. 10, Trust said his phone was flooded with missed phone calls from his parents. Trust was returning to [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2023/10/18/occidental-student-loses-family-members-3-dead-9-missing-in-oct-7-hamas-attack-on-israel/2909813">Occidental student loses family members – 3 dead, 9 missing – in Oct. 7 Hamas attack on Israel</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2023/10/18/occidental-student-loses-family-members-3-dead-9-missing-in-oct-7-hamas-attack-on-israel/2909813">Occidental student loses family members – 12 missing – in Oct. 7 Hamas attack on Israel</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
 <https://theoccidentalnews.com/news/2023/10/18/occidental-student-loses-family-members-3-dead-9-missing-in-oct-7-hamas-attack-on-israel/2909813>
@@ -393,6 +783,86 @@ date: 2023-10-18, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
+## Friendship Bracelet
+
+date: 2023-10-18, from: Laloyolan (LMU Student Newspaper)
+
+My response to Towell's lack of enthusiasm. 
+
+<https://www.laloyolan.com/the_bluff/friendship-bracelet/image_26997b69-1ea9-5035-931d-e65117f81f42.html>
+
+---
+
+## "The Westchester: Spooky season" Comic Strip
+
+date: 2023-10-18, from: Laloyolan (LMU Student Newspaper)
+
+As spooky season comes into full swing, its arrival is met with various levels of enthusiasm across the board. 
+
+<https://www.laloyolan.com/cartoons/the-westchester-spooky-season-comic-strip/article_b34a56d2-6d62-11ee-affc-fb1e07fdd79a.html>
+
+---
+
+## A chair on the Bluff
+
+date: 2023-10-18, from: Laloyolan (LMU Student Newspaper)
+
+Campbell Karres with Will Bozman's dead body on some orange chair on the bluff. Blends right in! 
+
+<https://www.laloyolan.com/the_bluff/a-chair-on-the-bluff/image_85cd0d14-cbcc-58fa-a1e1-d71b37ecfdde.html>
+
+---
+
+## Here
+
+date: 2023-10-18, from: Laloyolan (LMU Student Newspaper)
+
+Karres posing with her murder victim Will Bozman... somewhere. 
+
+<https://www.laloyolan.com/the_bluff/here/image_98472265-1016-5760-b725-f6beec31375b.html>
+
+---
+
+## That weird c-store in the Lair
+
+date: 2023-10-18, from: Laloyolan (LMU Student Newspaper)
+
+Karres in that one c-store. You know? You know that c-store? 
+
+<https://www.laloyolan.com/the_bluff/that-weird-c-store-in-the-lair/image_1c2258c0-34ab-5bac-aab3-185c88346101.html>
+
+---
+
+## Eras tour
+
+date: 2023-10-18, from: Laloyolan (LMU Student Newspaper)
+
+Addilae Carmichael (left) and Eva Afshary (right) embraced the magic of the Eras tour this summer in Los Angeles. 
+
+<https://www.laloyolan.com/news/eras-tour/image_218d6934-6207-52fd-b712-1bd512066f80.html>
+
+---
+
+## Being a Swiftie
+
+date: 2023-10-18, from: Laloyolan (LMU Student Newspaper)
+
+Why the number 13? If you have to ask the question, you're definitely not a Swiftie. 
+
+<https://www.laloyolan.com/news/being-a-swiftie/image_0a375f09-9712-5126-9f0a-e2d2151d38aa.html>
+
+---
+
+## Church
+
+date: 2023-10-18, from: Laloyolan (LMU Student Newspaper)
+
+Karres praying with the artist formerly known as Will Bozman. 
+
+<https://www.laloyolan.com/the_bluff/church/image_7d91a5f1-a54e-5f73-b075-b08cf4f8863d.html>
+
+---
+
 ## October installment of Broxton Nights features ‘Tricks and Treats’ theme
 
 date: 2023-10-18, from: The Daily Bruin (UCLA Student Newspaper)
@@ -408,7 +878,7 @@ Bruins and community members gathered on Broxton Avenue on Saturday for the Hall
 
 date: 2023-10-18, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 17 at 11:50 p.m.</em>
+<em>This post was updated Oct. 18 at 11:44 p.m.</em>
 One of Caleb Wallis’ most significant moments in UCLA Greek life was spent smashing IKEA chairs while chanting with and hugging his fraternity brothers. 
 
 <https://dailybruin.com/2023/10/17/students-discuss-rushing-process-for-fraternities-sororities-at-ucla/>

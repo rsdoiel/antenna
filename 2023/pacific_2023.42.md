@@ -1,5 +1,330 @@
 ---
 
+## GDOL working to batch DUA claims next week
+
+date: 2023-10-20, from: The Guam Daily Post
+
+The Guam Department of Labor is doing its best to clear what it can among the thousands of Disaster Unemployment Assistance claims that have been submitted, so that it can begin batching them next week, according to Janela Carrera, the… 
+
+<https://www.postguam.com/news/local/gdol-working-to-batch-dua-claims-next-week/article_1c501398-6e39-11ee-93a4-839662f80d79.html>
+
+---
+
+## Speaker's office: oversight hearing affirms Ypao Point as viable option for new hospital
+
+date: 2023-10-20, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Ypao Point is ranked as the second best option for the construction of a medical complex, and more specifically, a new hospital. And during a hearing on Thursday, the viability of the site was affirmed as the "practical choice" for construction, according to the office of Speaker Therese Terlaje. 
+
+<https://www.mvariety.com/news/regional_world/speakers-office-oversight-hearing-affirms-ypao-point-as-viable-option-for-new-hospital/article_f0ec1178-6ee4-11ee-96c5-6bd242037d43.html>
+
+---
+
+## Cybersecurity working group proposed
+
+date: 2023-10-20, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Cybersecurity concerns on Guam are perhaps no more visible to the average resident than today, as a number of attacks on local entities made headlines just this year, and published reports have indicated that state-sponsored threat actors have locked their sights on the island, particularly as tensions remain between the U.S. and the People's Republic of China over Taiwan. 
+
+<https://www.mvariety.com/news/regional_world/cybersecurity-working-group-proposed/article_93b104fa-6ee4-11ee-b139-cb62434c7355.html>
+
+---
+
+## GDOE won’t tolerate violence
+
+date: 2023-10-20, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — The superintendent of the Guam Department of Education will not tolerate acts of violence within the public school community, the department said in a press release which addressed the recent arrest of a Tiyan High School student. 
+
+<https://www.mvariety.com/news/regional_world/gdoe-won-t-tolerate-violence/article_2970f460-6ee4-11ee-b1dd-f76f1eb640b7.html>
+
+---
+
+## DOL says 3 foreign workers reported missing 'absconded'
+
+date: 2023-10-20, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — The Guam Police Department and Homeland Security are seeking assistance in finding three foreign national H-2B workers who have been reported missing. 
+
+<https://www.mvariety.com/news/regional_world/dol-says-3-foreign-workers-reported-missing-absconded/article_c81439de-6ee3-11ee-8fc7-173fba30a5dd.html>
+
+---
+
+## Man accused of 2 machete attacks
+
+date: 2023-10-20, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — A man facing two aggravated assault charges was accused of two separate machete attacks in March and April. 
+
+<https://www.mvariety.com/news/regional_world/man-accused-of-2-machete-attacks/article_78616fec-6ee3-11ee-915a-d36f756fab5b.html>
+
+---
+
+## UH Hilo’s goalkeepers named PacWest Defender of the Week
+
+date: 2023-10-19, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo men’s and women’s soccer teams  took victory over Biola with the women’s team having the only shutout of the week.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/19/uh-hilo-pacwest-defender-week/"><abbr>UH</abbr> Hilo’s goalkeepers named PacWest Defender of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/19/uh-hilo-pacwest-defender-week/>
+
+---
+
+## Hogan Program Celebrates 21st Anniversary with Annual Kickoff Event
+
+date: 2023-10-19, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+On Wednesday night, Hogan hosted its annual kickoff event at the Sullivan Family Library to showcase the program as well as the businesses created by Chaminade students. “It’s a lot of fun,” said Carol An Nacario, a fourth-year student  in the Hogan program and also a part of the Re-Thread business team. “I think depending... 
+
+<https://thesilversword.com/news/2023/10/19/hogan-program-celebrates-21st-anniversary-with-annual-kickoff-event/>
+
+---
+
+## Rainbow Wahine basketball team selected first in preseason poll
+
+date: 2023-10-19, from: University of Hawaiʻi News
+
+<p>Lily Wahinekapu and Daejah Phillips voted to Preseason Coachesʻs Team after earning All Big West honors last year.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/19/rainbow-wahine-preseason-poll/">Rainbow Wahine basketball team selected first in preseason poll</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/19/rainbow-wahine-preseason-poll/>
+
+---
+
+## UH Mānoa’s Bukovics earns swimming, diving athlete of the week
+
+date: 2023-10-19, from: University of Hawaiʻi News
+
+<p>Milan Bukovics earned the third fastest time in program history competing in the 400 Individual Medley.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/19/bukovics-mpsf-athlete-manoa/"><abbr>UH</abbr> Mānoa’s Bukovics earns swimming, diving athlete of the week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/19/bukovics-mpsf-athlete-manoa/>
+
+---
+
+## UH Mānoa men’s basketball team voted 3rd in Big West preseason poll
+
+date: 2023-10-19, from: University of Hawaiʻi News
+
+<p>JoVon McCalanahan earned a spot on the all-Big West preseason team.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/19/manoa-mens-basketball-preseason-poll/"><abbr>UH</abbr> Mānoa men’s basketball team voted 3rd in Big West preseason poll</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/19/manoa-mens-basketball-preseason-poll/>
+
+---
+
+## October President’s report: Lahainaluna scholarship extended, more
+
+date: 2023-10-19, from: University of Hawaiʻi News
+
+<p>Lassner also explained <abbr>UH</abbr>’s extensive involvement in the state’s broadband initiative and announced two recently awarded federal grants</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/19/october-presidents-report-2023/">October President’s report: Lahainaluna scholarship extended, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/19/october-presidents-report-2023/>
+
+---
+
+## Kessai is top contender
+
+date: 2023-10-19, from: Marshal Islands Journal
+
+<p>Journal 10/23/1987 P1 $18m connection for new phonesThe Marshalls has received approval for a multi-million dollar loan to install a modern communications system replacing the antiquated telephone system now in operation. The US Rural Utilities Service has approved a loan of $18.8 million to the National Telecommunication Authority for a new telephone systems, said Transportation [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://marshallislandsjournal.com/kessai-is-top-contender/">Kessai is top contender</a> appeared first on <a rel="nofollow" href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/kessai-is-top-contender/>
+
+---
+
+## Hawaiʻi fishermen can win prizes for reporting catches of newly released pāpio
+
+date: 2023-10-19, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> M&#257;noa researchers raised and tagged 150 p&#257;pio and released them into the wild to demonstrate the species' potential for restorative aquaculture.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/19/released-papio-himb/">Hawaiʻi fishermen can win prizes for reporting catches of newly released pāpio</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/19/released-papio-himb/>
+
+---
+
+## Doetinchem elected Fellow of American Physical Society
+
+date: 2023-10-19, from: University of Hawaiʻi News
+
+<p>Doetinchem’s work is focused on the development and analysis of cosmic-ray detectors.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/19/doetinchem-american-physical-society/">Doetinchem elected Fellow of American Physical Society</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/19/doetinchem-american-physical-society/>
+
+---
+
+## House panel may summon Torres, other ex-officials
+
+date: 2023-10-19, from: Marianas Variety
+
+THE House Special Committee on Federal Assistance &amp; Disaster-Related Funding will decide on Tuesday if former Gov. Ralph DLG Torres and other former administration officials will be summoned in an ongoing investigation of the $17 million Building Optimism, Opportunities and Stability Together or BOOST program. 
+
+<https://www.mvariety.com/news/local/house-panel-may-summon-torres-other-ex-officials/article_15a6e504-6e51-11ee-933f-439c440bc15d.html>
+
+---
+
+## Carrion’s Haunting
+
+date: 2023-10-19, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Anne Champion In East Texas, the vultures’ hunchback stare, starving and relentless, pierces you like a beak to the gut, as if they know something you don’t. They circle in flight, stalk from telephone poles, glare in a way &#8230; <a href="https://hawaiipacificreview.org/2023/10/19/carrions-hunting/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2023/10/19/carrions-hunting/>
+
+---
+
+## School lunches crank up
+
+date: 2023-10-19, from: Marshal Islands Journal
+
+<p>The start of the week brought good news to public school students in Majuro with the return of the hot lunch program following temporary halt since the beginning of the new fiscal year October 1. Public School System confirmed the lunch program has resumed in Majuro beginning on Monday. Even with the lunch program operational, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://marshallislandsjournal.com/school-lunches-crank-up/">School lunches crank up</a> appeared first on <a rel="nofollow" href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/school-lunches-crank-up/>
+
+---
+
+## Aldan: Reduce size of 'overbloated' government
+
+date: 2023-10-19, from: The Guam Daily Post
+
+SAIPAN - Commonwealth of the Northern Mariana Islands Rep. Vincent "Kobre" Aldan said there is a need to reduce the size of the CNMI government because it is "overbloated" and "we cannot afford" the cost. 
+
+<https://www.postguam.com/news/cnmi/aldan-reduce-size-of-overbloated-government/article_4d542c80-6e17-11ee-912e-53cc0361c878.html>
+
+---
+
+## Pugua distributor speaks out on tax on imported betel nut, lime
+
+date: 2023-10-19, from: The Guam Daily Post
+
+SAIPAN - Cris M. Sablan, the owner of Sablan Betel Nut Distributor on Saipan, said he is opposed to Commonwealth of the Northern Mariana Islands House Bill 23-41, which would tax imported betel nut and lime. He will circulate a… 
+
+<https://www.postguam.com/news/cnmi/pugua-distributor-speaks-out-on-tax-on-imported-betel-nut-lime/article_c114a8c8-6e14-11ee-a271-e3b86238fddf.html>
+
+---
+
+## Speaker's office: oversight hearing affirms Ypao Point as viable option for new hospital
+
+date: 2023-10-19, from: The Guam Daily Post
+
+Ypao Point is ranked as the second best option for the construction of a medical complex, and more specifically, a new hospital. And during a hearing on Thursday, the viability of the site was affirmed as the "practical choice" for… 
+
+<https://www.postguam.com/news/speakers-office-oversight-hearing-affirms-ypao-point-as-viable-option-for-new-hospital/article_23aebae6-6e65-11ee-bb33-670bfecd0888.html>
+
+---
+
+## Cybersecurity working group proposed
+
+date: 2023-10-19, from: The Guam Daily Post
+
+Cybersecurity concerns on Guam are perhaps no more visible to the average resident than today, as a number of attacks on local entities made headlines just this year, and published reports have indicated that state-sponsored threat actors have locked their… 
+
+<https://www.postguam.com/news/local/cybersecurity-working-group-proposed/article_d76292c8-6e20-11ee-a2ca-1fe5e3ab22e0.html>
+
+---
+
+## GDOE won’t tolerate violence
+
+date: 2023-10-19, from: The Guam Daily Post
+
+The superintendent of the Guam Department of Education will not tolerate acts of violence within the public school community, the department said in a press release which addressed the recent arrest of a Tiyan High School student. 
+
+<https://www.postguam.com/news/local/gdoe-won-t-tolerate-violence/article_c497e1b0-6e12-11ee-897f-2f13cb3a528b.html>
+
+---
+
+## Man accused of 2 machete attacks
+
+date: 2023-10-19, from: The Guam Daily Post
+
+A man facing two aggravated assault charges was accused of two separate machete attacks in March and April. 
+
+<https://www.postguam.com/news/local/man-accused-of-2-machete-attacks/article_a208db34-6e0f-11ee-937f-23dc1d1e87e3.html>
+
+---
+
+## Chancery back on the market, archdiocese prepares to move
+
+date: 2023-10-19, from: The Guam Daily Post
+
+The Chancery is back on the market as a nonprofit organization's effort to save it has fallen short. 
+
+<https://www.postguam.com/news/local/chancery-back-on-the-market-archdiocese-prepares-to-move/article_6ad9608a-6e31-11ee-a53d-4708b54c45d8.html>
+
+---
+
+## Teacher accused of inappropriate conduct still employed at GACS
+
+date: 2023-10-19, from: The Guam Daily Post
+
+The Guåhan Academy Charter School teacher who allegedly handled a second grade student inappropriately is still employed. 
+
+<https://www.postguam.com/news/local/teacher-accused-of-inappropriate-conduct-still-employed-at-gacs/article_d319bc8a-6e27-11ee-bab1-1ba2ab39d9ac.html>
+
+---
+
+## Murder suspect released, not facing charges
+
+date: 2023-10-19, from: The Guam Daily Post
+
+A man suspected of murder has been released from confinement. 
+
+<https://www.postguam.com/news/local/murder-suspect-released-not-facing-charges/article_6cd55c2e-6e1b-11ee-918d-57dc43016fa7.html>
+
+---
+
+## Juror misconduct alleged by 3rd party, Jerry Kitchen trial paused
+
+date: 2023-10-19, from: The Guam Daily Post
+
+The trial for a woman facing charges related to a red Jeep crashing into Jerry Kitchen, a Tamuning restaurant, has been paused because of alleged misconduct by a juror. 
+
+<https://www.postguam.com/news/local/juror-misconduct-alleged-by-3rd-party-jerry-kitchen-trial-paused/article_fc9b6404-6e32-11ee-8166-4fb696233bfb.html>
+
+---
+
+## DOL says 3 foreign workers reported missing 'absconded'
+
+date: 2023-10-19, from: The Guam Daily Post
+
+The Guam Police Department and Homeland Security are seeking assistance in finding three foreign national H-2B workers who have been reported missing. 
+
+<https://www.postguam.com/news/local/dol-says-3-foreign-workers-reported-missing-absconded/article_444a7784-6c82-11ee-a4c5-730bcc1be2b5.html>
+
+---
+
+## Clubs crank up at CMI
+
+date: 2023-10-19, from: Marshal Islands Journal
+
+<p>WILMER JOEL In conjunction with cultural week last month, the student government association hosted a club rush at the end of September on the CMI campus. SGA President Marlin Doulatram told the Journal that the event promotes community services that students and CMI have to offer. “The event promotes local businesses, fosters social interaction, and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://marshallislandsjournal.com/clubs-crank-up-at-cmi/">Clubs crank up at CMI</a> appeared first on <a rel="nofollow" href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/clubs-crank-up-at-cmi/>
+
+---
+
+## Rhino beetle takes root
+
+date: 2023-10-19, from: Marshal Islands Journal
+
+<p>After spotting and destroying one coconut rhinoceros beetle at Amata Kabua International Airport in September, RMI government authorities identified an infestation of these coconut-destroying beetles at Ļojemwā weto, Ajeltake — the area just past the PII rock crushing location. A team from the Ministry of Natural Resources and Commerce was dispatched to further investigate the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://marshallislandsjournal.com/rhino-beetle-takes-root/">Rhino beetle takes root</a> appeared first on <a rel="nofollow" href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/rhino-beetle-takes-root/>
+
+---
+
 ## Paid internship available at War in the Pacific National Historical Park
 
 date: 2023-10-19, from: Marianas Variety
