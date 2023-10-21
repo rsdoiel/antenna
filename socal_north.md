@@ -1,6 +1,542 @@
 ---
 
-## Student created Evryee app aims to help students find local discounts, save money
+## UCLA men’s golf leaves Georgia with 11th place finish, Morales’ individual medal
+
+date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Omar Morales added yet another accolade to his career.
+The junior capped off his second year with the Bruins as the leading scorer and headed straight to the 123rd U.S. 
+
+<https://dailybruin.com/2023/10/20/ucla-mens-golf-leaves-georgia-with-11th-place-finish-morales-individual-medal/>
+
+---
+
+## No. 2 UCLA women’s soccer remains undefeated in Pac-12 play with win at Arizona
+
+date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Lilly Reale fell to the ground after committing a foul. 
+The junior defender &#8211; who averages 77 minutes of play per game &#8211; lifted herself back up and stumbled her way back over to her position, shaking off the tough hit she endured in the previous play. 
+
+<https://dailybruin.com/2023/10/20/no-2-ucla-womens-soccer-remains-undefeated-in-pac-12-play-with-win-at-arizona/>
+
+---
+
+## What is The CI View and Why Should You Read It?
+
+date: 2023-10-20, from: CI View (CSCI Student Newspaper)
+
+By Ashley Tolteca and Allen Monge Graphic by Ashley Tolteca 
+
+<http://civiewnews.com/broadcasting/what-is-the-ci-view-and-why-should-you-read-it/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-ci-view-and-why-should-you-read-it>
+
+---
+
+## First Case In California Of Mosquito-Borne Dengue Not Related To Travel Reported In LA County
+
+date: 2023-10-20, from: The LAist
+
+The Pasadena resident who contracted the virus is said to be recovering. 
+
+<https://laist.com/news/health/first-case-of-mosquito-spread-dengue-not-related-to-travel-reported-in-la-county>
+
+---
+
+## Lions Club donates $25k to Islanders now living in Maui
+
+date: 2023-10-20, from: Catalina Islander
+
+On Saturday, Oct. 14, a Benefit Golf Tournament was held at the Avalon Golf Course. This event was a fund raiser for six families from Avalon who now live in Lahaina on the Island of Maui that had their homes destroyed by wildfire. Most of the six transplanted Catalina Island families flew back to their [&#8230;] 
+
+<https://thecatalinaislander.com/lions-club-donates-25k-to-islanders-now-living-in-maui/>
+
+---
+
+## $30 Million Donation: The Larraburus’ Lavish Donation to CI
+
+date: 2023-10-20, from: CI View (CSCI Student Newspaper)
+
+By Emily Chang Graphic by Javier Vargas&#160; On Sept. 8, President Richard Yao announced in a campus global a $30 million gift to CI – [&#8230;] 
+
+<http://civiewnews.com/news/6596/?utm_source=rss&utm_medium=rss&utm_campaign=6596>
+
+---
+
+## Council flooded on deer eradication; Conservancy states its case
+
+date: 2023-10-20, from: Catalina Islander
+
+The Council Chambers were full for this week’s meeting. The public and the Catalina Island Conservancy both argued their cases to the Oct. 17 Avalon City Council meeting. The public spoke for about two hours. At least 155 people saw the video on YouTube; 314 comments were posted on the city’s Facebook page. The public [&#8230;] 
+
+<https://thecatalinaislander.com/council-flooded-on-deer-eradication-conservancy-states-its-case/>
+
+---
+
+## Coyote Joe’s, Bravo’s Landscaping victorious
+
+date: 2023-10-20, from: Catalina Islander
+
+The first game of the night was between Coyote Joe’s and Straight Up Builders. Both teams were scoreless after one inning. The second inning saw Coyote Joe’s get on the board with four runs off a base hit, two errors, a walk and a double from Melissa Schafer.  Straight Up Builders answered with a walk [&#8230;] 
+
+<https://thecatalinaislander.com/coyote-joes-bravos-landscaping-victorious/>
+
+---
+
+## Pepperdine Mourns Loss of Four Seniors
+
+date: 2023-10-20, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>On Tuesday night, seniors Niamh Rolston, Peyton Stewart, Asha Weir and Deslyn Williams were killed by a vehicle as they walked alongside Pacific Coast Highway. The following day, the university announced the names of the students lost upon confirmation with the Los Angeles County Sheriff&#8217;s Department (LASD). Vice President for Student Affairs Connie Horton said [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/pepperdine-mourns-loss-of-four-seniors/">Pepperdine Mourns Loss of Four Seniors</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/pepperdine-mourns-loss-of-four-seniors/?utm_source=rss&utm_medium=rss&utm_campaign=pepperdine-mourns-loss-of-four-seniors>
+
+---
+
+## Letter to the Editor: Open Letter To The Catalina Island Conservancy
+
+date: 2023-10-20, from: Catalina Islander
+
+To “gaslight” someone means to manipulate another person into doubting their own perceptions, experiences or understanding of events. As a former resident of Avalon, I know CIC is famous for it. Manipulating information to make people believe what their own eyes and personal experiences tell them is untrue. First, in the spirit of transparency, CIC [&#8230;] 
+
+<https://thecatalinaislander.com/letter-to-the-editor-open-letter-to-the-catalina-island-conservancy/>
+
+---
+
+## Highlight: Student Research Program
+
+date: 2023-10-20, from: CI View (CSCI Student Newspaper)
+
+By Ryanne Slagiel  Graphic by Javier Vargas Student research is not just for graduate students! CI has a student research center right here on campus [&#8230;] 
+
+<http://civiewnews.com/opinion/highlight-student-research-program/?utm_source=rss&utm_medium=rss&utm_campaign=highlight-student-research-program>
+
+---
+
+## Opinion: Ensuring safety for Jewish students on campus requires stronger action from UCLA
+
+date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+For most Bruins, the morning of Oct. 7 marked the first home football game of the quarter and an exciting day at the Rose Bowl.
+For me, it signified the start of a heartbreaking war between Israel &#8211; the Jewish homeland &#8211; and Hamas, the Iran-supported, Gaza-governing militant group that the United States has declared a terrorist organization. 
+
+<https://dailybruin.com/2023/10/20/opinion-ensuring-safety-for-jewish-students-on-campus-requires-stronger-action-from-ucla/>
+
+---
+
+## Reclaimed: One LA Family’s Quest To Recover Artwork Stolen By The Nazis
+
+date: 2023-10-20, from: The LAist
+
+A new exhibition at the Skirball Cultural Center traces the 80-year effort to track down a painting taken from a family’s home in Czechoslovakia. 
+
+<https://laist.com/news/arts-and-entertainment/family-quest-to-recover-artwork-stolen-by-nazis>
+
+---
+
+## Catalina Story Project Film Screening: Jay Guion
+
+date: 2023-10-20, from: Catalina Islander
+
+The community is invited to join the Catalina Museum for Art &#38; History in celebrating Jay Guion’s birthday and the premiere of their sixth Catalina Story Project documentary at 7:30 p.m. on Saturday, Oct. 21, at the museum’s Ackerman Family Amphitheater, set beneath the starry Catalina sky. This documentary offers a profound exploration of the [&#8230;] 
+
+<https://thecatalinaislander.com/catalina-story-project-film-screening-jay-guion/>
+
+---
+
+## Avalon council calls 2024 election rules
+
+date: 2023-10-20, from: Catalina Islander
+
+The Avalon City Council this week called the March 2024 election. The council also approved a resolution asking the County Board of Supervisors to provide election services. The mayor’s seat, two City Council seats, the office of treasurer will be in play. The winners will serve four-year terms. In a series of unanimous votes, the [&#8230;] 
+
+<https://thecatalinaislander.com/avalon-council-calls-2024-election-rules/>
+
+---
+
+## When competition calls, UCLA women’s golf’s Meghan Royal answers with confidence
+
+date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+A phone call earlier this year has proved to be momentous for UCLA women&#8217;s golf coach Alicia Um Holmes.
+When then-freshman Meghan Royal entered the transfer portal and expressed her hopes of joining the Bruin pack, Um Holmes eyed the prospect. 
+
+<https://dailybruin.com/2023/10/20/when-competition-calls-ucla-womens-golfs-meghan-royal-answers-with-confidence/>
+
+---
+
+## Mobile Spay and Neuter Services Coming to Santa Clarita
+
+date: 2023-10-20, from: City of Santa Clarita
+
+<p>MOBILE SPAY AND NEUTER SERVICES COMING TO SANTA CLARITA Spay and Neuter Clinic to be located at the Newhall Community Center &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; The City of Santa Clarita, in partnership with our contractor, the Los Angeles County Department of Animal Care and Control (DACC), is excited to announce that Simi Valley Non-Profit Spay and Neuter Clinic [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/20/mobile-spay-and-neuter-services-coming-to-santa-clarita/">Mobile Spay and Neuter Services Coming to Santa Clarita</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2023/10/20/mobile-spay-and-neuter-services-coming-to-santa-clarita/>
+
+---
+
+## Analysis: Israel's Battle With Hamas Recalls Yom Kippur War And Its Fateful Effects
+
+date: 2023-10-20, from: The LAist
+
+It is too soon to know whether current events will be nearly as momentous as those of 1973 — for the region, for the U.S. or for the world at large. But it is also possible they could be more so. 
+
+<https://laist.com/news/analysis-israels-battle-with-hamas-recalls-yom-kippur-war-and-its-fateful-effects>
+
+---
+
+## Join Us for Make a Difference Day and Help Better Our Community
+
+date: 2023-10-20, from: City of Santa Clarita
+
+<p>JOIN US FOR MAKE A DIFFERENCE DAY AND HELP BETTER OUR COMMUNITY Give Back and Make a Difference! The City of Santa Clarita is preparing for Make A Difference Day on Saturday, October 28, and we&#8217;re looking for enthusiastic residents to join us on this incredible day of community service. Make A Difference Day is [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/20/join-us-for-make-a-difference-day-and-help-better-our-community/">Join Us for Make a Difference Day and Help Better Our Community</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2023/10/20/join-us-for-make-a-difference-day-and-help-better-our-community/>
+
+---
+
+## One High School Senior’s Mission To Get More Mental Health Education In Class
+
+date: 2023-10-20, from: The LAist
+
+Culver City High School senior Emi Sakamoto experienced the so-called ‘youth mental health crisis’ firsthand. So she decided to do something about it. 
+
+<https://laist.com/news/health/were-stressed-out-a-high-school-seniors-mission-to-get-more-mental-health-education-in-class>
+
+---
+
+## I Am Going On A Coffee Cake Sabbatical. But First I Did Make the 1954 LAUSD Recipe
+
+date: 2023-10-20, from: The LAist
+
+An editor-slash-amateur-baker will be on hiatus from making many versions of LAUSD's iconic coffee cake for his colleagues. But how did the 1954 recipe compare to today's? 
+
+<https://laist.com/news/food/no-more-homemade-lausd-coffee-cake-for-now>
+
+---
+
+## From Citrus Groves To Warehouses: A Pop Up Art Exhibit Traces The Damaging Impacts Of The Inland Empire's Industrial History
+
+date: 2023-10-20, from: The LAist
+
+The multimedia art exhibit traces the region's complex evolution from agriculture to military base to vast rows of warehouses. 
+
+<https://laist.com/news/climate-environment/from-citrus-groves-to-warehouses-a-pop-up-art-exhibit-traces-the-damaging-impacts-of-the-inland-empires-industrial-history>
+
+---
+
+## LA Runs On Fusion Cuisine: Here Are 4 New(ish) Restaurants To Try
+
+date: 2023-10-20, from: The LAist
+
+Fusion used to mean cringe and eye-rolling; meet the chefs who are bringing playfulness and culinary innovation to create brand new dishes. 
+
+<https://laist.com/news/food/la-runs-on-fusion-cuisine-here-are-four-new-ish-restaurants-to-try>
+
+---
+
+## Inflation Has A New Victim: Girl Scout Cookies
+
+date: 2023-10-20, from: The LAist
+
+That means your favorite box of Samoas that used to sell for $5 will soon cost a dollar more. 
+
+<https://laist.com/news/food/inflation-has-a-new-victim-girl-scout-cookies>
+
+---
+
+## Classifieds – October 20, 2023
+
+date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/classifieds-october-20-2023/">Classifieds &#8211; October 20, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/20/classifieds-october-20-2023/>
+
+---
+
+## Sports staff’s predictions for USC’s win total
+
+date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Trojan football has a lot of season left, but many tough games remain.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/sports-staffs-predictions-for-uscs-win-total/">Sports staff’s predictions for USC’s win total</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/20/sports-staffs-predictions-for-uscs-win-total/>
+
+---
+
+## Women’s volleyball to face Washington schools
+
+date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans will take on No. 4 Washington State and Washington at Galen.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/womens-volleyball-to-face-washington-schools/">Women’s volleyball to face Washington schools</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/20/womens-volleyball-to-face-washington-schools/>
+
+---
+
+## You’re overreacting to the Notre Dame loss
+
+date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>While the loss may have been embarrassing, USC has plenty of time to make up for it.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/youre-overreacting-to-the-notre-dame-loss/">You’re overreacting to the Notre Dame loss</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/20/youre-overreacting-to-the-notre-dame-loss/>
+
+---
+
+## USC seeks revenge against Utah
+
+date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC was 0-2 against the Utes last season, the only USC losses in Pac-12 play.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/usc-seeks-revenge-against-utah/">USC seeks revenge against Utah</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/20/usc-seeks-revenge-against-utah/>
+
+---
+
+## USC’s elusive Pac-12 championship
+
+date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Why the Trojans haven't conquered in more than five years.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/uscs-elusive-pac-12-championship/">USC’s elusive Pac-12 championship</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/20/uscs-elusive-pac-12-championship/>
+
+---
+
+## We won’t stop until Palestine is free
+
+date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC students need to tell the truth about Israel’s history of violence and colonialism.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/we-wont-stop-until-palestine-is-free/">We won’t stop until Palestine is free</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/20/we-wont-stop-until-palestine-is-free/>
+
+---
+
+## Life as the elephant in the room
+
+date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>I’m not having a “marginalization olympics” with you.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/life-as-the-elephant-in-the-room/">Life as the elephant in the room</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/20/life-as-the-elephant-in-the-room/>
+
+---
+
+## Getty Center opens ‘William Blake: Visionary’
+
+date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The exhibition marks Blake’s first major international loan on the West Coast.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/getty-center-opens-william-blake-visionary/">Getty Center opens ‘William Blake: Visionary’</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/20/getty-center-opens-william-blake-visionary/>
+
+---
+
+## Comedy fatigue is a funny feeling
+
+date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Humor is a constant in my life that reminds me I will be OK. </p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/column-comic-relief/">Comedy fatigue is a funny feeling</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/20/column-comic-relief/>
+
+---
+
+## USC-area lawmakers talk student issues
+
+date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Officials discussed support of affirmative action, college affordability and destigmatizing mental health.</p>
+<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/usc-area-lawmakers-talk-student-issues/">USC-area lawmakers talk student issues</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/10/20/usc-area-lawmakers-talk-student-issues/>
+
+---
+
+## How young adults have softened the perception of plush toy collections
+
+date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the 2012 film &#8220;Pitch Perfect,&#8221; the protagonist Beca walks onto her college campus, Barden University, during move-in to start her freshman year.
+Beca notices a student transporting several bins of stuffed animals, which fall over on the student’s way to their dorm. 
+
+<https://dailybruin.com/2023/10/19/how-young-adults-have-softened-the-perception-of-plush-toy-collections/>
+
+---
+
+## Using nanotechnology, UCLA researchers develop safer method for bone regrowth
+
+date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA researchers have developed new nanotechnology that can be used to regenerate bone in patients facing bone loss.
+In a study published in September, the researchers found that simultaneously altering the expression levels of two genes related to bone formation led to increased production of a protein that forms bones called BMP-2, said Dr. 
+
+<https://dailybruin.com/2023/10/19/using-nanotechnology-ucla-researchers-develop-safer-method-for-bone-regrowth/>
+
+---
+
+## Reopened RISE Center strives to create space dedicated to student mental health
+
+date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Resilience In Your Student Experience Center celebrated its completed renovations at its reopening Tuesday.
+The RISE Center, an extension of UCLA Counseling and Psychological Services, helps students connect to resources and tools they can use to better support themselves, according to the RISE Center website. 
+
+<https://dailybruin.com/2023/10/19/reopened-rise-center-strives-to-create-space-dedicated-to-student-mental-health/>
+
+---
+
+## Opinion: Finding the balance between self-improvement and self-discovery
+
+date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+The start of the pandemic marked the beginning of my infatuation with self-improvement. In late 2019, my brother and I started working out in our basement. 
+
+<https://dailybruin.com/2023/10/19/opinion-finding-the-balance-between-self-improvement-and-self-discovery/>
+
+---
+
+## Editorial: UCLA Housing should prevent future infestations by revamping cleaning protocols
+
+date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor’s Note: Editorials do not represent the Daily Bruin as a whole. The Board encourages readers to respond to our editorials at dailybruin.com/submit.
+Students weren’t the only ones moving into university-owned housing at the start of the quarter. 
+
+<https://dailybruin.com/2023/10/19/editorial-ucla-housing-should-prevent-future-infestations-by-revamping-cleaning-protocols/>
+
+---
+
+## Fake Accounts, Old Videos, And Rumors Fuel Chaos Around Gaza Hospital Explosion
+
+date: 2023-10-20, from: The LAist
+
+Misleading and false information is muddying efforts to uncover who is responsible for the deadly blast that killed hundreds of people. 
+
+<https://laist.com/news/fake-accounts-old-videos-and-rumors-fuel-chaos-around-gaza-hospital-explosion>
+
+---
+
+## IMG_0060.jpg
+
+date: 2023-10-20, from: Laloyolan (LMU Student Newspaper)
+
+Roy Pereira, S.J., showcases the Jesuit Community, a group of Jesuit priests who serve LMU. 
+
+<https://www.laloyolan.com/life_and_arts/img-0060-jpg/image_7b1996f3-cd27-50ed-953b-944a958c366b.html>
+
+---
+
+## Roy Pereira, S.J., leads the charge in LMU wellness
+
+date: 2023-10-20, from: Laloyolan (LMU Student Newspaper)
+
+Roy Pereira, S.J., is a central figure for LMU wellness. His neuroscience and Jesuit backgrounds give him a nuanced perspective and unique look into how to care for one another's well-being. 
+
+<https://www.laloyolan.com/life_and_arts/roy-pereira-s-j-leads-the-charge-in-lmu-wellness/article_b9806fb8-e1fc-5e0c-881d-e9949b0d73dd.html>
+
+---
+
+## Cybersecurity
+
+date: 2023-10-20, from: Laloyolan (LMU Student Newspaper)
+
+As academic coursework at LMU is largely digital, and the use of artificial intelligence becomes a more prevalent tool for students, cybersecurity education is an increasingly relevant topic to discuss on campus. 
+
+<https://www.laloyolan.com/news/cybersecurity/image_df013c32-601f-53f7-9bb8-e6ed8718281d.html>
+
+---
+
+## Cybersecurity Awareness Month: How students can protect themselves online
+
+date: 2023-10-20, from: Laloyolan (LMU Student Newspaper)
+
+In recognition of the 20th Cybersecurity Awareness Month, the National Cybersecurity Alliance (NCSA) launched the Secure Our World program, which offers resources that detail how to maintain safety online for families, businesses and products. 
+
+<https://www.laloyolan.com/news/cybersecurity-awareness-month-how-students-can-protect-themselves-online/article_63d43bad-26ab-5350-86b3-4c0a3f97d4a9.html>
+
+---
+
+## Cybersecurity
+
+date: 2023-10-20, from: Laloyolan (LMU Student Newspaper)
+
+A study conducted by BestColleges earlier this year revealed that 43% of student respondents reported using ChatGPT or a similar application. 
+
+<https://www.laloyolan.com/news/cybersecurity/image_f3b68bc8-83ef-5b9f-811b-6cdfd1792621.html>
+
+---
+
+## nhl
+
+date: 2023-10-20, from: Laloyolan (LMU Student Newspaper)
+
+The National Hockey League (NHL) banned players from wearing specialty jerseys, ribbons, stickers and Pride tape on the ice. 
+
+<https://www.laloyolan.com/sports/nhl/image_25312ab3-2488-5125-9e03-4ad296ad5eb6.html>
+
+---
+
+## NHL’s jersey ban marks another step in the wrong direction
+
+date: 2023-10-20, from: Laloyolan (LMU Student Newspaper)
+
+NHL's restrictive ban on specialty jerseys, stickers, ribbons and Pride tape is a decision that sets back the fight for diversity and inclusion within sports. 
+
+<https://www.laloyolan.com/sports/nhl-s-jersey-ban-marks-another-step-in-the-wrong-direction/article_084f2551-ef53-5e2b-a8d4-88495dfa3512.html>
+
+---
+
+## Students react to the appointment of Laphonza Butler
+
+date: 2023-10-20, from: Laloyolan (LMU Student Newspaper)
+
+Laphonza Butler's historic appointment to finish the late Senator Dianne Feinstein's term got students on campus talking and also revealed the complexity of GenZ. 
+
+<https://www.laloyolan.com/e2024/students-react-to-the-appointment-of-laphonza-butler/article_e3645082-df59-5ed7-bc8b-762437cdf214.html>
+
+---
+
+## Rap has a huge double standard for vulgarity
+
+date: 2023-10-20, from: Laloyolan (LMU Student Newspaper)
+
+Bias toward female musicians’ sexual lyrics is unfair, especially when music will never reach the PG dream of concerned listeners. 
+
+<https://www.laloyolan.com/opinion/rap-has-a-huge-double-standard-for-vulgarity/article_ce439e1c-4ea8-5dfc-aba5-e25e405eb228.html>
+
+---
+
+## Student created Evyree app aims to help students find local discounts, save money
 
 date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
 
@@ -25,6 +561,7 @@ Freshman quarterback Dante Moore threw three interceptions as then-No. 18 UCLA f
 
 date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 19 at 11:36 p.m.&#160;</em>
 The Bruins strike a balance in contributions from newcomers and veterans compared to their upcoming opponents.
 Following a win and a loss in the Bay Area, UCLA women’s volleyball (10-8, 2-6 Pac-12) will face Washington (13-6, 4-4) and No. 
 
@@ -60,7 +597,7 @@ date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 19 at 4:47 p.m.</em>
+<em>This post was updated Oct. 19 at 11:34 p.m.&#160;</em>
 The Bruins&#8217; potential final clash with a longtime adversary appeared to be a write-off, with their opponent struggling to stay afloat under new guidance. 
 
 <https://dailybruin.com/2023/10/19/stanfords-historic-comeback-spells-uncertainty-for-ucla-footballs-upcoming-match/>
@@ -71,7 +608,8 @@ The Bruins&#8217; potential final clash with a longtime adversary appeared to be
 
 date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
 
-With over 1,200 clubs and student organizations at UCLA, many students can find a space that satisfies their interests or desire for a community. Some clubs, however, have far more applicants than spots available. 
+<em>This post was updated Oct. 19 at 10:44 p.m.&#160;</em>
+With over 1,200 clubs and student organizations at UCLA, many students can find a space that satisfies their interests or desire for a community. 
 
 <https://dailybruin.com/2023/10/19/selective-admissions-processes-for-competitive-clubs-create-challenges-for-bruins/>
 
@@ -91,7 +629,8 @@ SAG-AFTRA put out the dos and don’ts for members who want to dress up without 
 
 date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
 
-No. 25 UCLA football (4-2, 1-2 Pac-12) will face Stanford (2-4, 1-3) on Saturday in its second consecutive game on the road. The Bruins are coming off a loss to No. 
+<em>This post was updated Oct. 19 at 11:41 p.m.&#160;</em>
+No. 25 UCLA football (4-2, 1-2 Pac-12) will face Stanford (2-4, 1-3) on Saturday in its second consecutive game on the road. 
 
 <https://dailybruin.com/2023/10/19/scouting-report-ucla-football-vs-stanford-3/>
 
@@ -99,7 +638,7 @@ No. 25 UCLA football (4-2, 1-2 Pac-12) will face Stanford (2-4, 1-3) on Saturday
 
 ## Sen. Laphonza Butler Will Not Run for US Senate Seat in 2024
 
-date: 2023-10-19, from: The LAist
+date: 2023-10-20, from: The LAist
 
 Butler was appointed to the Senate seat earlier this month by Gov. Gavin Newsom. 
 
@@ -141,6 +680,7 @@ The population of Gaza is one of the youngest in the world. Here's why, what it 
 
 date: 2023-10-19, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 19 at 11:38 p.m.&#160;</em>
 The Bruins will spend their next two weekends at home.
 No. 23 UCLA (1-0, 1-0 Pac-12) will return to competition Friday to face off against UC Santa Barbara. 
 

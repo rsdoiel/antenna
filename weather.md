@@ -1,62 +1,58 @@
 ---
 
-## SPC - No watches are valid as of Fri Oct 20 00:51:02 UTC 2023
+## SPC - No watches are valid as of Sat Oct 21 01:30:02 UTC 2023
 
-date: 2023-10-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Fri Oct 20 00:51:02 UTC 2023. 
+No watches are valid as of Sat Oct 21 01:30:02 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Fri Oct 20 00:51:02 UTC 2023
+## SPC - No MDs are in effect as of Sat Oct 21 01:30:02 UTC 2023
 
-date: 2023-10-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Fri Oct 20 00:51:02 UTC 2023. 
+No Mesoscale Discussions are in effect as of Sat Oct 21 01:30:02 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/md/>
 
 ---
 
-## SPC Oct 20, 2023 0100 UTC Day 1 Convective Outlook
+## SPC Oct 21, 2023 0100 UTC Day 1 Convective Outlook
 
-date: 2023-10-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0733 PM CDT Thu Oct 19 2023
+0750 PM CDT Fri Oct 20 2023
 
-Valid 200100Z - 201200Z
+Valid 210100Z - 211200Z
 
 ...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-The risk of severe thunderstorms appears negligible across the U.S.
-through tonight.
+Organized severe thunderstorms are not forecast through tonight
+across the contiguous United States.
 
-...01Z Update...
-Scattered thunderstorm development has been increasing in a general
-corridor near/southwest of Louisville KY into areas around the
-Nashville TN vicinity.  This is in the wake of an initial mid-level
-perturbation shifting from the lower Ohio Valley into the lower
-Great Lakes, and ahead of another strengthening impulse forecast to
-continue digging southeast of the Upper Midwest through the lower
-Ohio and Tennessee Valleys by late tonight.  Aided by a narrow
-corridor of modest low-level moistening, within a zone of enhanced
-low-level warm advection, it appears that ongoing activity may
-slowly spread eastward across portions of central Kentucky and
-middle Tennessee through 03-05Z before diminishing.  Overnight,
-additional thunderstorm development is possible as forcing for
-ascent refocuses southeastward into the southern Appalachians
-vicinity.  Despite the presence of at least modest shear, it still
-appears that thermodynamic profiles characterized by only modest
-steepening of lapse rates, coupled with the limited moisture return,
-will minimize the risk for severe hail and/or wind.
+...Synopsis...
+Water-vapor imagery early this evening shows a large-scale mid-level
+trough over the eastern U.S., a ridge over the High Plains, and a
+trough over the Sierra Nevada.  The mid-level trough over the East
+will continue east into the western Atlantic waters off the Carolina
+coast and into the Northeast by late tonight.  A thunderstorm band
+near the Carolina coast will continue moving east into the shelf
+waters this evening as a cold front sweeps through much of the
+Southeast and Mid-Atlantic states.  Isolated thunderstorms are
+possible early this evening along the coastal Carolinas before
+drier/more stable air advects into the region.  Weak buoyancy
+located near the immediate coast will likely hinder strong storm
+development.  Farther north, a few thunderstorms are possible over
+portions of the Northeast tonight.
 
-..Kerr.. 10/20/2023
+..Smith.. 10/21/2023
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -68,31 +64,32 @@ will minimize the risk for severe hail and/or wind.
 
 ## SPC Day 3-8 Fire Weather Outlook
 
-date: 2023-10-19, from: NOAA Weather Forecasts
+date: 2023-10-20, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 3-8 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-0354 PM CDT Thu Oct 19 2023
+0324 PM CDT Fri Oct 20 2023
 
-Valid 211200Z - 271200Z
+Valid 221200Z - 281200Z
 
-A surface cyclone will develop off the Northeast coast this weekend.
-This will result in a large wind field with dry and breezy
-conditions expected across much of the eastern CONUS. However, much
-of this area will see precipitation in the next few days and fuels
-remain moist. In addition, temperatures should be relatively cool.
-Therefore, fire weather concerns should be minimal.
+Generally light zonal upper-level flow will be present over the
+CONUS at the start of the extended period before a mid-level trough
+develops along the West Coast and shifts east during the early part
+of next week. The evolution of this trough varies considerably among
+medium-range guidance. Given this uncertainty and the lack of
+appreciable flow over most of the CONUS, fire-weather concerns
+remain minimal. 
 
-An extended period of dry weather across the Southwest and southern
-Plains has started to dry fuels somewhat, but they likely will not
-become critically dry before precipitation arrives toward the middle
-of next week. Some increase in initial attack is possible as winds
-strengthen ahead of an approaching trough next week, but given the
-marginally dry relative humidity and marginally dry fuels, the
-threat for large fires should remain muted.
+Perhaps locally elevated fire-weather conditions are possible across
+parts of western Oklahoma and the Texas Panhandle on D3/Sun, as
+dry/breezy southerly flow develops during the afternoon. Fuels
+appear at least marginally receptive across this region, but the
+overall coverage of Meteorological conditions approaching or
+exceeding elevated thresholds appears too localized to introduce any
+probabilities at this time.
 
-..Bentley.. 10/19/2023
+..Karstens.. 10/20/2023
 
 ...Please see www.spc.noaa.gov/fire for graphic product...
 

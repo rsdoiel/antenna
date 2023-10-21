@@ -131,7 +131,7 @@ about.md: .FORCE
 	#@if [ -f _codemeta.json ]; then rm _codemeta.json; fi
 
 pagefind: .FORCE
-	pagefind --verbose --bundle-dir ./pagefind --source .
+	pagefind --verbose --output-path ./pagefind --site .
 	git add pagefind
 
 #clean-website:
