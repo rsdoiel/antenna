@@ -50,6 +50,16 @@ SAIPAN - Trustee Joyce C.H. Tang said the continued success of the Settlement Fu
 
 ---
 
+## SNIP program coming to Sinajana
+
+date: 2023-10-20, from: The Guam Daily Post
+
+The Department of Agriculture and the Guam Animals in Need Spay and Neuter Island Pets program will be holding their fifth community service event next month, performing spay and neuter surgeries for the island’s dogs and cats, the Department of… 
+
+<https://www.postguam.com/news/local/snip-program-coming-to-sinajana/article_f83ebefa-6ef6-11ee-b30a-e73604881a6e.html>
+
+---
+
 ## Study reveals why many kids are quitting sports
 
 date: 2023-10-20, from: The Guam Daily Post

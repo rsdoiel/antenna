@@ -1,22 +1,150 @@
 ---
 
-## SPC - No watches are valid as of Sat Oct 21 01:30:02 UTC 2023
+## SPC - No watches are valid as of Sun Oct 22 05:44:01 UTC 2023
 
-date: 2023-10-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Sat Oct 21 01:30:02 UTC 2023. 
+No watches are valid as of Sun Oct 22 05:44:01 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Sat Oct 21 01:30:02 UTC 2023
+## SPC - No MDs are in effect as of Sun Oct 22 05:44:01 UTC 2023
 
-date: 2023-10-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Sat Oct 21 01:30:02 UTC 2023. 
+No Mesoscale Discussions are in effect as of Sun Oct 22 05:44:01 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Oct 22, 2023 0600 UTC Day 2 Convective Outlook
+
+date: 2023-10-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1216 AM CDT Sun Oct 22 2023
+
+Valid 231200Z - 241200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected on Monday.
+
+...Synopsis...
+
+An upper shortwave trough migrating through broader upper ridging
+centered over the Midwest will lift northeast from MN/IA through the
+upper Great Lakes and into southern Ontario on Monday. Isolated
+showers and thunderstorms may be ongoing at the beginning of the
+period in association with this feature across IA/MN/WI. This
+activity will shift east into MI during the afternoon/evening. Poor
+surface heating and weak lapse rates will limit destabilization, and
+severe storms are not expected.
+
+Further west, an upper trough over the Great Basin/CA will develop
+east/southeast across the western states through early Tuesday
+morning. As this occurs, modestly enhanced southwesterly deep-layer
+flow is forecast across the southern Plains. Southerly low-level
+winds will support northward transport of Gulf moisture, and a
+tongue of low/mid 60s F surface dewpoints are expected across much
+of TX/OK into the Mid-MO Valley. Despite increasing moisture in
+TX/OK, somewhat warm midlevel temperatures will lead to poor lapse
+rates, precluding stronger instability. A shortwave impulse
+migrating through southwesterly flow ahead of the western trough
+will support shower and thunderstorm development, especially from
+west-central into north TX and southern OK. However, severe
+potential appears limited.
+
+..Leitman.. 10/22/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_0600.html>
+
+---
+
+## SPC Oct 22, 2023 0600 UTC Day 1 Convective Outlook
+
+date: 2023-10-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1155 PM CDT Sat Oct 21 2023
+
+Valid 221200Z - 231200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected through tonight across the
+contiguous United States.
+
+...Synopsis...
+A series of mid-level troughs will move east across portions of the
+north-central states and the CA/NV vicinity during the period.  A
+surface high initially centered over the middle to upper MS Valley
+will shift eastward to the central Appalachians.  Southerly
+low-level flow will strengthen across the central Great Plains in
+response to a low amplitude mid-level disturbance moving east from
+CO/WY into the lower to mid MO Valley by mid evening.  The northern
+rim of appreciable low-level moisture will reside across the
+northwest Gulf Coast this morning with a narrow plume of modest
+moisture advecting northward during the day.  A few weak elevated
+thunderstorms are forecast to develop in an area centered on IA
+overnight.  Elsewhere, widely scattered showers and isolated
+thunderstorms are possible over the Great Basin northward into the
+northern Rockies.
+
+..Smith/Supinie.. 10/22/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1200.html>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2023-10-21, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0420 PM CDT Sat Oct 21 2023
+
+Valid 231200Z - 291200Z
+
+A mid/upper-level trough is forecast to shift from portions of the
+West Coast and across the Southwestern U.S. Day 3/Monday through Day
+4/Tuesday while becoming largely cut off from the northern stream
+mid-level flow. Thereafter, medium-range ensemble guidance begins to
+diverge substantially regarding how quickly the trough ejects across
+the plains and upper Midwest and re-joins the northern stream. At
+this time, confidence in any Critical fire weather concerns during
+the medium-range forecast remains low due to the uncertainty in the
+flow pattern coupled with a general lack of forecast stronger winds
+and critically-lowered RH values overlapping receptive fuels.
+
+..Elliott.. 10/21/2023
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 
@@ -59,45 +187,6 @@ portions of the Northeast tonight.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html>
-
----
-
-## SPC Day 3-8 Fire Weather Outlook
-
-date: 2023-10-20, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3-8 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0324 PM CDT Fri Oct 20 2023
-
-Valid 221200Z - 281200Z
-
-Generally light zonal upper-level flow will be present over the
-CONUS at the start of the extended period before a mid-level trough
-develops along the West Coast and shifts east during the early part
-of next week. The evolution of this trough varies considerably among
-medium-range guidance. Given this uncertainty and the lack of
-appreciable flow over most of the CONUS, fire-weather concerns
-remain minimal. 
-
-Perhaps locally elevated fire-weather conditions are possible across
-parts of western Oklahoma and the Texas Panhandle on D3/Sun, as
-dry/breezy southerly flow develops during the afternoon. Fuels
-appear at least marginally receptive across this region, but the
-overall coverage of Meteorological conditions approaching or
-exceeding elevated thresholds appears too localized to introduce any
-probabilities at this time.
-
-..Karstens.. 10/20/2023
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 

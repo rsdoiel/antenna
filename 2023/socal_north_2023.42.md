@@ -419,7 +419,8 @@ The RISE Center, an extension of UCLA Counseling and Psychological Services, hel
 
 date: 2023-10-20, from: The Daily Bruin (UCLA Student Newspaper)
 
-The start of the pandemic marked the beginning of my infatuation with self-improvement. In late 2019, my brother and I started working out in our basement. 
+<em>This post was updated Oct. 21 at 11:26 a.m.</em>
+The start of the pandemic marked the beginning of my infatuation with self-improvement. In late 2020, my brother and I started working out in our basement. 
 
 <https://dailybruin.com/2023/10/19/opinion-finding-the-balance-between-self-improvement-and-self-discovery/>
 
@@ -658,7 +659,7 @@ Antonia Cereijido reflexiona sobre su motivación para presentar “Nury & The S
 
 ## Candidates For LA County District Attorney Blast George Gascón During Debate
 
-date: 2023-10-19, from: The LAist
+date: 2023-10-21, from: The LAist
 
 The district attorney himself didn't participate. The debate organizers placed an empty podium on stage in his place. 
 
