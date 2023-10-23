@@ -39,6 +39,7 @@ build: socal_north weather pacific archives $(HTML_PAGES) pagefind
 archives: mk_archives.bash archives.tmpl
 	./mk_archives.bash	
 	cd $(YEAR) && make
+	git add $(YEAR)
 
 socal_north: socal_north.html
 
