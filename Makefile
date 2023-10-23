@@ -188,9 +188,10 @@ publish: .FORCE build
 	./publish.bash
 
 get_updates: .FORCE
-	touch socal_north.txt pacific.txt weather.txt
 	-skimmer socal_north.txt
 	-skimmer pacific.txt
+	-skimmer mid_central.txt
 	-skimmer weather.txt
+	touch socal_north.txt pacific.txt mid_central.txt weather.txt
 
 .FORCE:
