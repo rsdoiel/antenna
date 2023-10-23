@@ -1,5 +1,567 @@
 ---
 
+## Water outage from Tuesday night to Wednesday morning in Harmon
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+The Guam Waterworks Authority announced a scheduled water outage in the Harmon area of Tamuning, starting at 9 p.m. Tuesday to 5 a.m. Wednesday. Crew will repair a fire hydrant. 
+
+<https://www.guampdn.com/news/water-outage-from-tuesday-night-to-wednesday-morning-in-harmon/article_5d475652-715b-11ee-99b0-37d29535032c.html>
+
+---
+
+## Parkinson's bill seeks to improve GovGuam procurement process by using IDIQ contracts
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+Sen. William A. Parkinson has introduced a bill aimed at enhancing efficiency and flexibility in public sector procurement through the use of Indefinite Delivery/Indefinite Quantity, or IDIQ, contracts. 
+
+<https://www.guampdn.com/news/parkinsons-bill-seeks-to-improve-govguam-procurement-process-by-using-idiq-contracts/article_89e8d1e4-7157-11ee-b655-076797f1f35c.html>
+
+---
+
+## Koror celebrates 40th Constitution Day
+
+date: 2023-10-23, from: Tia Belau (Palau's First Newspaper)
+
+By Kambes Kesolei Ngermalk Long Island Park was abuzz with activity on Saturday, October 21, 2023, as people from all&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7306>
+
+---
+
+## Angaur State boat found submerged
+
+date: 2023-10-23, from: Tia Belau (Palau's First Newspaper)
+
+By Kambes Kesolei Angaur State is facing a new challenge, as one of its two state boats was found completely&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7303>
+
+---
+
+## Ngersuul has third Rechetuker installed
+
+date: 2023-10-23, from: Tia Belau (Palau's First Newspaper)
+
+A third bearer of RECHETUKER title, the second-ranking chief of Ngaratmachel, the council of chiefs of Ngersuul Hamlet of Ngchesar&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7300>
+
+---
+
+## Palau’s longest and costliest title dispute continues
+
+date: 2023-10-23, from: Tia Belau (Palau's First Newspaper)
+
+Observers and those interested in preserving Palauan tradition and customs are aghast at the recent explosion of conflicting claims for&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7298>
+
+---
+
+## Senators seek to allow exports of reef fish
+
+date: 2023-10-23, from: Tia Belau (Palau's First Newspaper)
+
+By Kambes Kesolei Six years after the law banning reef fish exports was passed, a group of senators is seeking&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7295>
+
+---
+
+## 2023 Matthew Carbullido Miller Scholarship awarded to 5 Harvest Christian Academy student athletes
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+The 2023 Matthew Carbullido Miller Memorial Scholarship has been awarded to five outstanding Harvest Christian Academy student athletes who exemplify the qualities of the late Matthew C. Miller, a 2015 HCA graduate. 
+
+<https://www.guampdn.com/money/2023-matthew-carbullido-miller-scholarship-awarded-to-5-harvest-christian-academy-student-athletes/article_0e7dc7ae-7138-11ee-9651-dba42d2d42f9.html>
+
+---
+
+## Alii Palau Airlines to launch on Nov 23
+
+date: 2023-10-23, from: Tia Belau (Palau's First Newspaper)
+
+By Kambes Kesolei (Oct 23, 2022) Alii Palau Airlines has once again announced its launching date, this time for November&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7293>
+
+---
+
+## Palau Storyboard Art attracts attention in Honolulu
+
+date: 2023-10-23, from: Tia Belau (Palau's First Newspaper)
+
+The East West Center Art Gallery, on the University of Hawaii campus, has changing exhibits, that focus on the art&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7290>
+
+---
+
+## President Whipps optimistic about tourism outlook
+
+date: 2023-10-23, from: Tia Belau (Palau's First Newspaper)
+
+By Kambes Kesolei President Surangel Whipps Jr. is optimistic about the future of tourism in Palau, citing recent increases in&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7288>
+
+---
+
+## Pacific delegates urged to make their voices heard in the latest global plastics treaty negotiations next month
+
+date: 2023-10-23, from: Tia Belau (Palau's First Newspaper)
+
+KOROR, 19 OCTOBER 2023 (SPREP) &#8212; Plastic pollution has infiltrated every corner of the earth, from the depths of our&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7286>
+
+---
+
+## Palau Seeks Accession to being Members of the World Customs Organisation (WCO)
+
+date: 2023-10-23, from: Tia Belau (Palau's First Newspaper)
+
+On October 17, 2023, the Honorable Minister of State, Gustav Aitaro signed the accession to the Convention Establishing a Customs&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7283>
+
+---
+
+## Brooklyn Beckham endures so much ‘hate’ he’s got used to being trolled!
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+After months of attacks over his photography and cookery efforts, Brooklyn Beckham has admitted he’s got used to the torrents of “hate” he faces. 
+
+<https://www.guampdn.com/lifestyle/entertainment/brooklyn-beckham-endures-so-much-hate-he-s-got-used-to-being-trolled/article_ec0348e7-25a7-57be-aa12-3ee84e12253d.html>
+
+---
+
+## Billy Porter reveals he’s ‘dating around’ six months after divorce
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+After he and his husband Adam Smith announced in July they were splitting, Billy Porter says he has started “dating around”. 
+
+<https://www.guampdn.com/lifestyle/entertainment/billy-porter-reveals-he-s-dating-around-six-months-after-divorce/article_3332f41d-838b-5f4f-ac80-19162644864b.html>
+
+---
+
+## David Beckham accused of ‘playing victim’ by his ‘mistress’ Rebecca Loos
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+While hitting out at his new Netflix documentary, David Beckham’s alleged mistress Rebecca Loos has accused him of “playing the victim” when he tackles their apparent fling in the film. 
+
+<https://www.guampdn.com/lifestyle/entertainment/david-beckham-accused-of-playing-victim-by-his-mistress-rebecca-loos/article_08c283e9-5282-5b2c-8b60-d07ea5bdd476.html>
+
+---
+
+## Arnold Schwarzenegger reveals secret behind end of his feud with Sylvester Stallone
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+While paying tribute to late Hollywood lawyer Jake Bloom at a memorial service for the larger-than-life attorney, Arnold Schwarzenegger revealed he was behind the ending of his famous rift with Sylvester Stallone by bringing them together for the Planet Hollywood… 
+
+<https://www.guampdn.com/lifestyle/entertainment/arnold-schwarzenegger-reveals-secret-behind-end-of-his-feud-with-sylvester-stallone/article_fd8978d6-bc76-5767-b1eb-60d82162678c.html>
+
+---
+
+## Ollie.jpeg
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+Ollie is a special case and requires a very patient family. She's got a bit of a sensitive tummy but she still thrives in everything else. She uses her litter box diligently, she's friendly with new people, and loves to… 
+
+<https://www.guampdn.com/ollie-jpeg/image_db25fba0-7151-11ee-9606-2f18cde56ed2.html>
+
+---
+
+## Pretty Boy.jpg
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+Pretty Boy has more than just good looks. He is daring, clever, and ready to set paws in his new home and explore! He is enchantingly curious and loves to observe the world around him. Take Pretty Boy home! 
+
+<https://www.guampdn.com/pretty-boy-jpg/image_dbfc6abe-7151-11ee-a518-93f87344b1ab.html>
+
+---
+
+## Stripes.jpg
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+Stripes is an adorable sweet girl. It takes her a few minutes to warm up to new faces but once she does, she is a love bug! She does well with her kennelmates and loves her toys! Stripes is ready… 
+
+<https://www.guampdn.com/stripes-jpg/image_dd1423ba-7151-11ee-a4d9-579240ce31ef.html>
+
+---
+
+## Tigress.jpeg
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+Tigress is a sweet, friendly and playful girl. She enjoys walks and generously gives kisses. She would make the perfect companion to the family that decides to take her in and give her all the love she deserves! 
+
+<https://www.guampdn.com/tigress-jpeg/image_dede9fb8-7151-11ee-b274-737a565424a8.html>
+
+---
+
+## Blue Planet-6_1.jpg
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+Artist Mark Dell'Isola's art piece, "Blue Planet (SM) 2023," shows the ocean's enormous blue expanse and the power of typhoons. 
+
+<https://www.guampdn.com/news/local/blue-planet-6-1-jpg/image_dc787258-7142-11ee-870f-cb30a5510396.html>
+
+---
+
+## Blue Planet-7_1.jpg
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+"Cartoon: Blue Planet (Typhoon #1, DB). 2023" is among Mark Dell'Isola's pieces featured at his ongoing Blue Planet art exhibit at Hyatt Regency Guam. 
+
+<https://www.guampdn.com/news/local/blue-planet-7-1-jpg/image_de5be1ae-7142-11ee-ae98-474e06b69cf3.html>
+
+---
+
+## Blue Planet-5_1.jpg
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+Hyatt Regency Guam in Tumon collaborates with local artist Mark Dell' Isola in showcasing the beautiful art environment of the Pacific Islands through the ongoing Blue Planet art exhibit. This art piece, "Blue Planet #2", is made with acrylic, oil,… 
+
+<https://www.guampdn.com/news/local/blue-planet-5-1-jpg/image_d97838ea-7142-11ee-aae0-afc679415aed.html>
+
+---
+
+## Blue Planet-2_1.jpg
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+Artist Mark Dell'Isola's artwork, "Blue Planet #1 (2023)," shows the ocean's enormous blue expanse and the power of typhoons. It is part of his ongoing Blue Planet art exhibit at Hyatt Regency Guam in Tumon. 
+
+<https://www.guampdn.com/news/local/blue-planet-2-1-jpg/image_cd8299a4-7142-11ee-beb8-436db50e9a05.html>
+
+---
+
+## Blue Planet-1_1.jpg
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+Title: ART AND OUR 'BLUE PLANET'A resident marvels at artist Mark Dell'Isola's painting, "Blue Planet (Typhoon 2)," on Oct. 21, 2023, at Hyatt Regency Guam in Tumon. This huge piece of art, created with acrylics, oil and enamel on canvas,… 
+
+<https://www.guampdn.com/news/local/blue-planet-1-1-jpg/image_c9ccaec6-7142-11ee-957f-4b3f4546caea.html>
+
+---
+
+## Blue Planet-4_1.jpg
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+Artist Mark Dell'Isola's artwork, "Blue Planet (Typhoon #2)," created with acrylics, oil, and enamel on canvas, shows the ocean's enormous blue expanse and the power of typhoons. The art exhibit at Hyatt Regency Guam lasts through March 2024. 
+
+<https://www.guampdn.com/news/local/blue-planet-4-1-jpg/image_d58533aa-7142-11ee-8368-b3ecf7245126.html>
+
+---
+
+## Blue Planet-3_1.jpg
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+The beautiful environment of the Pacific Islands, "Blue Planet (Typhoon #3). 2023" is a painting by Mark Dell created with acrylics, oil, and enamel on canvas. It shows the ocean's enormous blue expanse and the power of typhoons and it… 
+
+<https://www.guampdn.com/news/local/blue-planet-3-1-jpg/image_d0d879ac-7142-11ee-9695-73ae1d8666ce.html>
+
+---
+
+## Miller family
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+From left, Marianna Hernandez (Matthew Miller's fiancé), Dr. Greg Miller, Norma Miller, Pastor Gary Walton of Harvest Baptist Church, and Dr. Neal Ring, Head of School, Harvest Christian Academy. 
+
+<https://www.guampdn.com/miller-family/image_2f5ee4d0-7138-11ee-8bc2-d3a22fccb904.html>
+
+---
+
+## Life in Color: There's no such thing as too much purple
+
+date: 2023-10-23, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+Violet, aka The Purple Girl, is absolutely crazy about all things purple. And while some may call her passion an obsession, she looks at it as a way to embrace who she truly is. 
+
+<https://www.guampdn.com/lifestyle/entertainment/life-in-color-theres-no-such-thing-as-too-much-purple/video_9dcdd298-f538-5675-bf37-fb765cd277c0.html>
+
+---
+
+## Gangster-turned-actor Dave Courtney shoots himself dead at home aged 64
+
+date: 2023-10-22, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+After going from a life of crime to writing and acting, notorious London hardman Dave Courtney took his life with a gun at his so-called ‘Camelot Castle’ home in the early hours of Sunday. 
+
+<https://www.guampdn.com/lifestyle/entertainment/gangster-turned-actor-dave-courtney-shoots-himself-dead-at-home-aged-64/article_5b663bd0-6a0a-5acb-b0a9-ba01792f7948.html>
+
+---
+
+## Olivia Culpo graphically details family plans: ‘I feel like the day after my wedding, I’m just gonna rip out my IUD!’
+
+date: 2023-10-22, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+Ahead of her wedding to NFL star Christian McCaffrey, actress and ex-Miss Universe Olivia Culpo has declared she wants to “rip out” her birth control device as soon as their nuptials are over so they can start trying for kids. 
+
+<https://www.guampdn.com/lifestyle/entertainment/olivia-culpo-graphically-details-family-plans-i-feel-like-the-day-after-my-wedding-i/article_8fdbcb2f-6284-5592-8afa-d4b4fd3fc040.html>
+
+---
+
+## TWO-WORD text Justin Timberlake used to dump Britney Spears revealed: ‘It’s over!!!’
+
+date: 2023-10-22, from: Pacific Daily News" # getting errors, to many requests, 2023-10-16
+
+Britney Spears’ former music video producer has revealed he saw her sat on the floor of her trailer on the set of one of their promos after getting a two-word text from Justin Timberlake telling her their relationship was over… 
+
+<https://www.guampdn.com/lifestyle/entertainment/two-word-text-justin-timberlake-used-to-dump-britney-spears-revealed-it-s-over/article_a8e45611-480b-5785-9929-fd2d73b8d843.html>
+
+---
+
+## Pioneering microbiome science aims for breakthroughs at UH center
+
+date: 2023-10-22, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr>’s microbiome center has developed an insectary, microscopy and genomic analysis cores that benefit research across disciplines.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/22/pioneering-microbiome-science-uh-center/">Pioneering microbiome science aims for breakthroughs at <abbr>UH</abbr> center</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/22/pioneering-microbiome-science-uh-center/>
+
+---
+
+## Fukuoka University appoints Dr. Zaidul Sarker of NMC-CREES as visiting professor
+
+date: 2023-10-22, from: Marianas Variety
+
+(NMC) — Fukuoka University of Japan has bestowed the title of visiting professor to Dr. Zaidul Sarker, professor and CNMI food science program leader of Northern Marianas College’s Cooperative Research, Extension, and Education Services. 
+
+<https://www.mvariety.com/news/community_bulletins/fukuoka-university-appoints-dr-zaidul-sarker-of-nmc-crees-as-visiting-professor/article_07b56218-70f4-11ee-a4d8-7366b1383100.html>
+
+---
+
+## Youth group assails latest Chinese aggression in West Philippine Sea
+
+date: 2023-10-22, from: Marianas Variety
+
+(NYMWPS) — The presence of China Coast Guard Vessel 5203 that caused its collision with a Philippine public vessel used for the resupply mission to the troops at BRP Sierra Madre in Ayungin Shoal (Second Thomas Shoal) in the West Philippine Sea on Oct. 22, 2023 is a blatant violation by China of international law, which it has been perpetrating for years. 
+
+<https://www.mvariety.com/news/regional_world/youth-group-assails-latest-chinese-aggression-in-west-philippine-sea/article_d7a709f4-70e5-11ee-9d6f-e789443c8f01.html>
+
+---
+
+## Britney Spears’ book ‘The Woman In Me’ makes private details public, and public events personal
+
+date: 2023-10-22, from: Marianas Variety
+
+LOS ANGELES (AP) — Britney Spears’ highly anticipated memoir “The Woman in Me” will be released Tuesday, revealing the pop superstar’s personal take on events that have played out publicly in her decades as one of the most scrutinized figures in American life, along with private moments that she previously kept under wraps. 
+
+<https://www.mvariety.com/lifestyle/britney-spears-book-the-woman-in-me-makes-private-details-public-and-public-events-personal/article_f9ba99dc-70f1-11ee-b504-5798563ee622.html>
+
+---
+
+## Variety editor’s new book available on amazon.com
+
+date: 2023-10-22, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available on amazon.com/. 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-new-book-available-on-amazon-com/article_ec6e070e-d15b-11ed-a531-4335810003be.html>
+
+---
+
+## UPDATED: Green Meadow School soars at Primary Grade Forensic Competition
+
+date: 2023-10-22, from: Marianas Variety
+
+(GMS) — Green Meadow School is delighted to announce its students’ remarkable successes at the Primary Grade Forensic Competition held on Oct. 7, 2023, which featured two divisions: K-2 and Grade 3-5. The young talents from Green Meadow School put up an outstanding performance in various categories, showcasing their exceptional skills and abilities in public speaking, interpretation, and dramatic arts. 
+
+<https://www.mvariety.com/news/community_bulletins/updated-green-meadow-school-soars-at-primary-grade-forensic-competition/article_da2d7972-6dc7-11ee-b35e-276fb413d1a6.html>
+
+---
+
+## Police: Arrested woman was soliciting money
+
+date: 2023-10-22, from: Marianas Variety
+
+JUANITA P. Villanueva was soliciting money for sex, according to the police complaint and affidavit of probable cause in support of the issuance of an arrest warrant against her. 
+
+<https://www.mvariety.com/news/local/police-arrested-woman-was-soliciting-money/article_070e50ae-706d-11ee-8a97-47a50b247622.html>
+
+---
+
+## An unforgettable evening of beer and food
+
+date: 2023-10-22, from: Marianas Variety
+
+OVER 150 food and beer lovers relished Marpac’s Brewmaster dinner at the Crowne Plaza Resort on Oct. 20, Friday evening. 
+
+<https://www.mvariety.com/lifestyle/an-unforgettable-evening-of-beer-and-food/article_b71d7028-70a5-11ee-87d0-370618ac2eeb.html>
+
+---
+
+## Five-year grant for Project Higai
+
+date: 2023-10-22, from: Marianas Variety
+
+From left, June Deleon of Guam CEDDERs, Dr. Joanne Cashman, Interim Commissioner of Education and Special Education Director Donna M. Flores, and Board of Education Chairman Antonio L. Borja pose for a photo during a PSS-SPED Program’s Project Higai stakeholders professional development session on Oct. 6. The PSS-SPED Program Project Higai is one of the only five throughout the nation that was awarded a five-year grant of close to $2 million. 
+
+<https://www.mvariety.com/news/local/five-year-grant-for-project-higai/article_c8df4282-70e6-11ee-89db-eb626aa78949.html>
+
+---
+
+## Nava Khorram Ahmad graduates with master’s degree
+
+date: 2023-10-22, from: Marianas Variety
+
+NAVA Khorram Ahmad, who was born and raised on Saipan, has graduated with a Master’s Degree in International Public Law and Human Rights from the Riga Graduate School of Law, in Riga, Latvia.  She is currently living in Riga, with her husband who is studying medicine. 
+
+<https://www.mvariety.com/news/community_bulletins/nava-khorram-ahmad-graduates-with-master-s-degree/article_816d05ea-70e3-11ee-8539-0fd46883242c.html>
+
+---
+
+## SNIP program coming to Sinajana
+
+date: 2023-10-22, from: The Guam Daily Post
+
+The Department of Agriculture and the Guam Animals in Need Spay and Neuter Island Pets program will be holding their fifth community service event next month, performing spay and neuter surgeries for the island’s dogs and cats, the Department of… 
+
+<https://www.postguam.com/news/local/snip-program-coming-to-sinajana/article_f83ebefa-6ef6-11ee-b30a-e73604881a6e.html>
+
+---
+
+## Mount Carmel School’s Catholic ties cut
+
+date: 2023-10-22, from: The Guam Daily Post
+
+Mount Carmel School in Hågat is officially no longer tied to the Catholic school system, as the Archdiocese of Agana has signed a decree closing that chapter of the school’s history. 
+
+<https://www.postguam.com/news/local/mount-carmel-school-s-catholic-ties-cut/article_473be0be-7082-11ee-b508-5f96ce95b94d.html>
+
+---
+
+## Taijeron retires, Burch acting CLTC head
+
+date: 2023-10-22, from: The Guam Daily Post
+
+Alice Taijeron is no longer at the helm of the Chamorro Land Trust Commission. After serving as the executive director of the CLTC since January, Taijeron retired, effective Oct. 13, according to Krystal Paco-San Agustin, spokesperson for the Office of… 
+
+<https://www.postguam.com/news/local/taijeron-retires-burch-acting-cltc-head/article_6472ad4a-6eeb-11ee-a9a2-2b5455f065b2.html>
+
+---
+
+## GDOE shuffles teachers to fill school vacancies
+
+date: 2023-10-22, from: The Guam Daily Post
+
+With only $2.5 million to fill critical positions, the Guam Department of Education is taking steps to reduce the need to hire teachers while attempting to make good on the contract between the teachers union and the school board. 
+
+<https://www.postguam.com/news/local/gdoe-shuffles-teachers-to-fill-school-vacancies/article_11c27666-707b-11ee-9b4f-77b243b3f166.html>
+
+---
+
+## GDOE wants $20M back, reports little to no progress on repairs
+
+date: 2023-10-22, from: The Guam Daily Post
+
+Typhoon Mawar recovery efforts at the Guam Department of Education have seen little to no movement, according to the superintendent of schools. Now the department wants the $20 million appropriation back from the governor. 
+
+<https://www.postguam.com/news/local/gdoe-wants-20m-back-reports-little-to-no-progress-on-repairs/article_d32350b2-6fbf-11ee-ac1e-ab6ca05f2115.html>
+
+---
+
+## GMH administrator: Phones down, but operations stable
+
+date: 2023-10-22, from: The Guam Daily Post
+
+Guam Memorial Hospital had some trouble with its phone lines on Sunday, but its administrator said patient services were not affected. 
+
+<https://www.postguam.com/news/local/gmh-administrator-phones-down-but-operations-stable/article_4a346088-7083-11ee-b72b-4731f2553deb.html>
+
+---
+
+## GRMC volunteer program now accepting applications
+
+date: 2023-10-22, from: The Guam Daily Post
+
+Applications to join the new "iCARE Heroes" volunteer program are being accepted this month by the Guam Regional Medical City. 
+
+<https://www.postguam.com/news/local/grmc-volunteer-program-now-accepting-applications/article_025bc138-6d5f-11ee-81c0-b7f0cc1c4a66.html>
+
+---
+
+## Man charged in rape case released, 2nd suspect still wanted by GPD
+
+date: 2023-10-22, from: The Guam Daily Post
+
+Two men implicated in the sexual assault of a 34-year-old woman were named in a magistrate's complaint filed Saturday by the Attorney General of Guam. 
+
+<https://www.postguam.com/news/local/man-charged-in-rape-case-released-2nd-suspect-still-wanted-by-gpd/article_ac1149ee-7095-11ee-a94b-0f60e1f806e7.html>
+
+---
+
+## Claimants urged to submit docs, GDOL works to batch DUA claims this week
+
+date: 2023-10-22, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — The Guam Department of Labor is doing its best to clear what it can among the thousands of Disaster Unemployment Assistance claims that have been submitted, so that it can begin batching cleared claims by this week, according to Janela Carrera, the special projects coordinator at the department. 
+
+<https://www.mvariety.com/news/regional_world/claimants-urged-to-submit-docs-gdol-works-to-batch-dua-claims-this-week/article_923ae16c-7089-11ee-bd9f-7fe899542ee0.html>
+
+---
+
+## Lawmakers go back to session Monday
+
+date: 2023-10-22, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Lawmakers are scheduled to once again set foot in the legislative session hall of the Guam Congress Building as they move ahead with regular session Monday, just about a week after emerging from an emergency session over critical issues at the Guam Memorial Hospital. 
+
+<https://www.mvariety.com/news/regional_world/lawmakers-go-back-to-session-monday/article_26015346-7089-11ee-8b45-5f24aa1de5a3.html>
+
+---
+
+## Woman’s death marks 24th traffic fatality
+
+date: 2023-10-22, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — An early morning car crash in Tumon on Saturday claimed the life of a woman and marked the 24th traffic fatality of the year. 
+
+<https://www.mvariety.com/news/regional_world/woman-s-death-marks-24th-traffic-fatality/article_b8f68956-7088-11ee-815e-0f63c2a0b67b.html>
+
+---
+
+## Suspect arrested in sexual conduct case, police continue search for second suspect
+
+date: 2023-10-22, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Police have arrested one of two men wanted in connection with a criminal sexual conduct case. 
+
+<https://www.mvariety.com/news/regional_world/suspect-arrested-in-sexual-conduct-case-police-continue-search-for-second-suspect/article_4b7243ca-7088-11ee-84c6-b7a3c4fb1ea5.html>
+
+---
+
+## Future ‘Bows ‘Discover UH Mānoa’ at open house
+
+date: 2023-10-22, from: University of Hawaiʻi News
+
+<p>The attendees had the opportunity to engage with students, faculty and staff from approximately 200 academic programs and services.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/21/discover-uh-manoa-2023/">Future ‘Bows ‘Discover <abbr>UH</abbr> Mānoa’ at open house</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/21/discover-uh-manoa-2023/>
+
+---
+
 ## Questions You Aren’t Asking (but Should) During Open Enrollment
 
 date: 2023-10-20, from: The Guam Daily Post
@@ -47,16 +609,6 @@ date: 2023-10-20, from: The Guam Daily Post
 SAIPAN - Trustee Joyce C.H. Tang said the continued success of the Settlement Fund is dependent on the Commonwealth of the Northern Mariana Islands government’s ability to make the minimum annual payment, or MAP, in a timely and consistent manner. 
 
 <https://www.postguam.com/news/cnmi/trustee-nmi-government-struggles-to-make-payments/article_73faa832-6ed5-11ee-9e6b-ffe4fe6c14c0.html>
-
----
-
-## SNIP program coming to Sinajana
-
-date: 2023-10-20, from: The Guam Daily Post
-
-The Department of Agriculture and the Guam Animals in Need Spay and Neuter Island Pets program will be holding their fifth community service event next month, performing spay and neuter surgeries for the island’s dogs and cats, the Department of… 
-
-<https://www.postguam.com/news/local/snip-program-coming-to-sinajana/article_f83ebefa-6ef6-11ee-b30a-e73604881a6e.html>
 
 ---
 
