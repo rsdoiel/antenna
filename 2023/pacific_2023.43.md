@@ -1,5 +1,45 @@
 ---
 
+## Biden looks at buying more ads amid ongoing polling concerns
+
+date: 2023-10-23, from: The Guam Daily Post
+
+The Biden campaign has drawn up options for expanding its unconventional $25 million early advertising effort this year, as the president continues to express frustration in private conversations about the state of his polling in battleground states, according to people… 
+
+<https://www.postguam.com/news/biden-looks-at-buying-more-ads-amid-ongoing-polling-concerns/article_e01f2e56-70f2-11ee-84e2-ff9f3cce8bc2.html>
+
+---
+
+## Daily cup of tea or coffee can keep you stronger in old age: study
+
+date: 2023-10-23, from: The Guam Daily Post
+
+Drinking coffee and tea at midlife may be associated with a reduced likelihood of physical frailty in late life. 
+
+<https://www.postguam.com/lifestyles/health/daily-cup-of-tea-or-coffee-can-keep-you-stronger-in-old-age-study/article_f49f97fc-52d2-583a-aeb1-870b05ae287e.html>
+
+---
+
+## Just one hot yoga session a week can help beat the blues
+
+date: 2023-10-23, from: The Guam Daily Post
+
+Hot yoga is a form of traditional exercise performed under hot and humid conditions. 
+
+<https://www.postguam.com/lifestyles/health/just-one-hot-yoga-session-a-week-can-help-beat-the-blues/article_7fd77edd-e9b3-52e8-aca9-d38e29d498d8.html>
+
+---
+
+## Study says new dads should be screened for depression
+
+date: 2023-10-23, from: The Guam Daily Post
+
+Doctors who screened new fathers discovered 30 percent had postpartum depression. 
+
+<https://www.postguam.com/lifestyles/health/study-says-new-dads-should-be-screened-for-depression/article_ede6c254-d5a7-5f68-b54c-20dc81522a37.html>
+
+---
+
 ## Fired employee accuses AG of retaliation and discrimination
 
 date: 2023-10-23, from: The Guam Daily Post
