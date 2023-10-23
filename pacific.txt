@@ -12,12 +12,15 @@ https://micronesia.expatreporter.com/?feed=rss2 "~Micronesia -- The Expat Report
 #
 # Comercial News Papers, Guam and the Northern Marianas, Republic of Belau
 #
-https://www.guampdn.com/search/?f=rss&amp;t=article&l=50&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News" # getting errors, to many requests, 2023-10-16
+# guampdn.com: getting errors, to many requests, 2023-10-16
+https://www.guampdn.com/search/?f=rss&amp;t=article&l=50&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News"
 https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post"
-https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times" # getting errors, too many requests, 2023-10-16
+# pacificialndtimes.com: getting errors, too many requests, 2023-10-16
+https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times"
 # Northern Marianas Papers
 https://www.mvariety.com/search/?nsa=eeditionl=50&t=article&f=atom "~Marianas Variety"
-https://www.saipantribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k[]=#topstory "~Saipan Tribune" # getting errors, to many requests, 2023-10-16
+# saipantrimbine.com: getting errors, to many requests, 2023-10-16
+https://www.saipantribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k[]=#topstory "~Saipan Tribune"
 
 
 # From the Republic of Belau

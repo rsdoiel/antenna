@@ -1,0 +1,12 @@
+# Mid Central is California News in the central valley with a focus on
+# Merced County.
+https://www.atwater.org/feed/ "~City of Atwater News Releases"
+https://feeds.mcclatchy.com/mercedsunstar/sections/news/local/community/atwater/stories "~Atwater Signal/Merced Sun-Star"
+https://mercedcountytimes.com/wp-json/ "~Merced County Times"
+https://www.stmarymagdalenechurch.org/news/ "~St. Mary Magdalene Church, Atwater"
+http://arrl.org/news/rss "~Amateur Radio Relay League News"
+https://www.arnewsline.org/?format=rss "~Amateur Radio NewslinE"
+https://stepoutside.org/rss/ "~Step Outside, Fishing, Atwater, CA"
+https://www.mccd.edu/news/feed/ "~Blue Devil News (Merced Community College Student Newspaper)"
+https://blogs.ucmerced.edu/prodigy/feed/ "~The Prodogy (UC Merced's Student Newspaper)"
+https://fscollegian.com/feed/ "~The Collegian (Cal State Fresno's Student Newspaper)"

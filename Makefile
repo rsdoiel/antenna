@@ -23,12 +23,13 @@ HTML_PAGES=$(shell ls -1 *.md | sed -E "s/.md/.html/")
 #
 # build, the start of the rules to build the site
 #
-build: socal_north weather pacific archives $(HTML_PAGES) pagefind
+build: mid_central socal_north weather pacific archives $(HTML_PAGES) pagefind
 
 %.html: %.md front_page.tmpl
 	pandoc -f markdown -t html5 \
  	       --lua-filter=links-to-html.lua \
 	       --metadata title="The Antenna" \
+		   --metadata mid_central_page="mid_central.html" \
 	       --metadata pacific_page="pacific.html" \
 	       --metadata socal_north_page="socal_north.html" \
 	       --metadata weather_page="weather.html" \
@@ -41,6 +42,31 @@ archives: mk_archives.bash archives.tmpl
 	cd $(YEAR) && make
 	git add $(YEAR)
 
+mid_central: mid_central.html
+
+mid_central.html: mid_central.md front_page.tmpl
+	pandoc -f markdown -t html5 \
+	       --lua-filter=links-to-html.lua \
+	       --metadata title="Mid Central, vol. $(VOL_NO)" \
+	       --metadata feed_name="Mid Central" \
+		   --metadata mid_central_page="mid_central.html" \
+	       --metadata socal_north_page="socal_north.html" \
+	       --metadata pacific_page="pacific.html" \
+	       --metadata weather_page="weather.html" \
+	       --metadata urls_file="mid_central.txt" \
+		   --template front_page.tmpl \
+		   mid_central.md \
+		   >mid_central.html
+
+mid_central.md: mid_central.txt
+	skim2md mid_central.skim >mid_central.md
+	cp mid_central.md $(YEAR)/mid_central_$(VOL_NO).md
+
+mid_central.txt:
+	-skimmer mid_central.txt
+	sqlite3 mid_central.skim "UPDATE items SET status = 'read' WHERE published <= '$(SUNDAY)' AND published >= '$(SATURDAY)'"
+	sqlite3 mid_central.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
+
 socal_north: socal_north.html
 
 socal_north.html: socal_north.md front_page.tmpl
@@ -48,6 +74,7 @@ socal_north.html: socal_north.md front_page.tmpl
 	       --lua-filter=links-to-html.lua \
 	       --metadata title="SoCal North, vol. $(VOL_NO)" \
 	       --metadata feed_name="SoCal North" \
+		   --metadata mid_central_page="mid_central.html" \
 	       --metadata socal_north_page="socal_north.html" \
 	       --metadata pacific_page="pacific.html" \
 	       --metadata weather_page="weather.html" \
@@ -57,13 +84,13 @@ socal_north.html: socal_north.md front_page.tmpl
 		   >socal_north.html
 
 socal_north.md: socal_north.txt
-	sqlite3 socal_north.skim "UPDATE items SET status = 'read' WHERE published <= '$(SUNDAY)' AND published >= '$(SATURDAY)'"
-	sqlite3 socal_north.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 	skim2md socal_north.skim >socal_north.md
 	cp socal_north.md $(YEAR)/socal_north_$(VOL_NO).md
 
 socal_north.txt:
 	-skimmer socal_north.txt
+	sqlite3 socal_north.skim "UPDATE items SET status = 'read' WHERE published <= '$(SUNDAY)' AND published >= '$(SATURDAY)'"
+	sqlite3 socal_north.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
 pacific: pacific.html
 
@@ -72,6 +99,7 @@ pacific.html: pacific.md front_page.tmpl
                --lua-filter=links-to-html.lua \
 	       --metadata title="Pacific, vol. $(VOL_NO)" \
 	       --metadata feed_name="Pacific" \
+		   --metadata mid_central_page="mid_central.html" \
 	       --metadata socal_north_page="socal_north.html" \
 	       --metadata pacific_page="pacific.html" \
 	       --metadata weather_page="weather.html" \
@@ -81,14 +109,14 @@ pacific.html: pacific.md front_page.tmpl
 		   >pacific.html
 
 pacific.md: pacific.txt
-	sqlite3 pacific.skim "UPDATE items SET status = 'read' WHERE published <= '$(SUNDAY)' AND published >= '$(SATURDAY)'"
-	sqlite3 pacific.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 	./pacific_filter.bash
 	skim2md pacific.skim >pacific.md
 	cp pacific.md $(YEAR)/pacific_$(VOL_NO).md
 
 pacific.txt:
 	-skimmer pacific.txt
+	sqlite3 pacific.skim "UPDATE items SET status = 'read' WHERE published <= '$(SUNDAY)' AND published >= '$(SATURDAY)'"
+	sqlite3 pacific.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
 weather: weather.html 
 
@@ -106,18 +134,22 @@ weather.html: weather.md front_page.tmpl
 		   >"weather.html"
 
 weather.md: weather.txt
-	sqlite3 weather.skim "UPDATE items SET status = 'saved'" 
 	skim2md weather.skim >"weather.md"
 	cp weather.md $(YEAR)/weather_$(VOL_NO).md
 
 weather.txt:
 	-skimmer weather.txt
+	sqlite3 weather.skim "UPDATE items SET status = 'saved'" 
 
 # Clean only removes up the current volume pages
 clean: .FORCE
+	-rm mid_central.md 2>/dev/null
+	-rm mid_central.html 2>/dev/null
 	-rm socal_north.md 2>/dev/null
 	-rm socal_north.html 2>/dev/null
+	-rm weather.md 2>/dev/null
 	-rm weather.html 2>/dev/null
+	-rm pacific.md 2>/dev/null
 	-rm pacific.html 2>/dev/null
 	cd $(YEAR) && make clean
 
