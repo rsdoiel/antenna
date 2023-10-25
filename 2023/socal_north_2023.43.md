@@ -2179,7 +2179,7 @@ Universal Studios Hollywood Horror Nights is an event that draws in upwards of 3
 
 date: 2023-10-16, from: The Sundail (CSUN Student Newspaper)
 
-In a small library gallery, an intimate collection of photos displays the painful aftermath of domestic abuse. One image capturing a quiet moment of vulnerability stands out. A woman in a hospital bed, her hand reaching towards the person behind the camera. Extending from the bottom frame is the hand of her daughter, Hannah Kozak,... 
+In a small library gallery, an intimate collection of photos displays the painful aftermath of domestic abuse. One image capturing a quiet moment of vulnerability stands out. A woman in a hospital bed, her hand reaching towards the person behind the camera. Extending from the bottom of the frame is the hand of her daughter,... 
 
 <https://sundial.csun.edu/176400/featured/glendale-photo-exhibit-sheds-light-on-domestic-abuse/>
 
