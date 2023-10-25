@@ -1,15 +1,5 @@
 ---
 
-## Supreme Court To Hear Court Ban On Government Contact With Social Media Companies
-
-date: 2023-10-23, from: The LAist
-
-The case has profound implications for almost every aspect of American life, especially at a time when there are great national security concerns about false information online. 
-
-<https://laist.com/news/politics/supreme-court-to-hear-court-ban-on-government-contact-with-social-media-companies>
-
----
-
 ## At LA Mission College, Spanish Speakers Find The Right Words To Improve Their Mental Health
 
 date: 2023-10-23, from: The LAist
@@ -17,6 +7,16 @@ date: 2023-10-23, from: The LAist
 Therapists say that giving speakers of other languages mental health vocabulary in their own language is a first step toward better mental health. 
 
 <https://laist.com/news/education/la-mission-college-language-barrier-mental-health-spanish-speakers>
+
+---
+
+## Supreme Court To Hear Court Ban On Government Contact With Social Media Companies
+
+date: 2023-10-23, from: The LAist
+
+The case has profound implications for almost every aspect of American life, especially at a time when there are great national security concerns about false information online. 
+
+<https://laist.com/news/politics/supreme-court-to-hear-court-ban-on-government-contact-with-social-media-companies>
 
 ---
 

@@ -1,83 +1,129 @@
 ---
 
-## SPC - No watches are valid as of Mon Oct 23 13:52:02 UTC 2023
+## SPC - No watches are valid as of Wed Oct 25 13:15:02 UTC 2023
 
-date: 2023-10-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Oct 23 13:52:02 UTC 2023. 
+No watches are valid as of Wed Oct 25 13:15:02 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Mon Oct 23 13:52:02 UTC 2023
+## SPC - No MDs are in effect as of Wed Oct 25 13:15:02 UTC 2023
 
-date: 2023-10-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Mon Oct 23 13:52:02 UTC 2023. 
+No Mesoscale Discussions are in effect as of Wed Oct 25 13:15:02 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/md/>
 
 ---
 
-## SPC Oct 23, 2023 1300 UTC Day 1 Convective Outlook
+## SPC Oct 25, 2023 1300 UTC Day 1 Convective Outlook
 
-date: 2023-10-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-10-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0731 AM CDT Mon Oct 23 2023
+0750 AM CDT Wed Oct 25 2023
 
-Valid 231300Z - 241200Z
+Valid 251300Z - 261200Z
 
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS PARTS OF
-SOUTHWEST TX AND THE UPPER MS VALLEY...
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS NORTH TO
+SOUTH-CENTRAL TX...
 
 ...SUMMARY...
-A brief tornado is possible across a portion of southwest Texas this
-evening into tonight. Isolated large hail will be possible late
-tonight across parts of the Upper Mississippi Valley.
+Very isolated severe wind gusts and a brief tornado are possible
+across parts of north to south-central Texas, mainly this afternoon
+through early evening.
 
-...Big Bend to western Edwards Plateau of TX...
-A persistent fetch of gradually increasing low-level moisture is
-forecast across this region to the east of a weak surface
-trough/diffuse dryline. A cirrus canopy associated with the decayed
-remnants of TC Norma will act to limit the overall magnitude of
-destabilization. However, weak buoyancy is expected to develop and
-episodic bouts of isolated to scattered thunderstorms will focus
-from the Big Bend north-northeast across the western Edwards
-Plateau, mainly this evening through tonight. A strengthening
-low-level jet during this time frame will enlarge hodographs and may
-be sufficient for a transient supercell or two. But weak lapse rates
-through much of the vertical column will likely mitigate a threat
-beyond a low probability for a brief/weak tornado.
+...Southern Great Plains...
+A persistent, but generally decaying swath of showers and
+thunderstorms extends across western OK through the Edwards Plateau
+of TX this morning. This eastern extent of this activity has
+generally been outpacing the bulk of 00Z to early morning CAM
+guidance. Extensive stratus exists ahead of this morning's
+convection and will limit diabatic surface heating. This combined
+with modest mid-level lapse rates will likely maintain only weak
+MLCAPE north of the Rio Grande Valley, despite the presence of rich
+boundary-layer moisture characterized by upper 60s to low 70s
+dewpoints. 
 
-...Upper MS Valley...
-A low-amplitude shortwave trough near the MN/IA border has aided in
-scattered showers/thunderstorms this morning. In its wake, a capping
-inversion will likely limit renewed thunderstorm activity until at
-least the late evening when a southwesterly low-level jet becomes
-maximized across parts of NE/KS/IA. This will probably result in a
-west-east oriented band of thunderstorms overnight. But
-above-average spread does exist across guidance in terms of spatial
-and temporal extent of storm development, perhaps related to the
-lack of a focused shortwave impulse compared to this morning and
-handling of capping around 700 mb. As such, have expanded the level
-1/MRGL area to account for greater areal uncertainty. Conditionally,
-ample elevated buoyancy owing to the plume of steep mid-level lapse
-rates will favor potential for isolated large hail. Despite
-strengthening upper-level flow late in the period, modest effective
-bulk shear should tend to favor multicell clustering and mitigate a
-more substantial severe hail threat.
+Persistent large-scale ascent will maintain regenerative showers and
+thunderstorms atop the large-scale convective outflow, further
+yielding gradual eastward progression of the outflow through the
+day. Despite the limited surface heating, some diurnal uptick in
+thunderstorm intensity will probably occur this afternoon. Given mid
+to upper-level winds largely paralleling the large-scale outflow
+boundary, appreciably organized convection appears unlikely. Still,
+adequate low-level shear will exist for moderately enlarged
+hodographs with a low-probability threat of a tornado and/or
+localized severe wind gust. Heavy rain should be the primary
+overarching threat (see WPC Excessive Rainfall Outlook). 
 
-..Grams.. 10/23/2023
+...Central Great Plains...
+A surface low exists over west-central KS, anchoring to a slowing
+cold front that extends to northeast KS before bisecting IA. 06Z NAM
+and 09Z RAP guidance both attempt to stall and then advance the
+trailing portion of this front northwest as a warm front across
+southeast NE by this evening. Near and south of the surface front,
+scattered showers and thunderstorms are ongoing across parts of
+central/eastern KS into west-central MO. Given this activity along
+with extensive stratus ahead of and behind the frontal boundary,
+destabilization near the front will likely be quite limited today.
+While multiple rounds of thunderstorm development should persist
+through tonight, probabilities of severe hail and wind appear to be
+very low (sub 5 percent).
+
+..Grams/Goss.. 10/25/2023
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2023-10-25, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1155 PM CDT Tue Oct 24 2023
+
+Valid 261200Z - 271200Z
+
+...NO CRITICAL AREAS...
+
+...Synopsis...
+The strong trough in the Great Basin will eject into the central
+Plains late on Thursday. A strong lee cyclone will develop during
+mid to late afternoon near the CO/KS border. Areas of stronger
+surface winds are possible within the lee of the Rockies in
+southeastern Colorado as well as northeast New Mexico into the Texas
+Panhandle. Fuels appear most receptive to fire within southeast
+Colorado. Given the position of the surface low, the strongest winds
+are likely to remain within and near terrain features where RH will
+most likely be a bit higher than in the Plains to the east. Farther
+south, RH below 20% is less certain and there is some potential for
+precipitation to further reduce marginal fuel receptiveness.
+Overall, fire weather concerns are expected to remain locally
+elevated as a result.
+
+..Wendt.. 10/25/2023
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -573,38 +619,4 @@ LAT...LON   42619475 42959474 42939397 42269255 41609231 40939237
  
 
 <https://www.spc.noaa.gov/products/md/md2250.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2023-10-13, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0138 AM CDT Fri Oct 13 2023
-
-Valid 141200Z - 151200Z
-
-...NO CRITICAL AREAS...
-
-...Synopsis...
-The risk of fire spread will remain low across the CONUS on
-Saturday. Building high pressure across the western US will keep
-winds light where the driest air mass resides, within the
-southwestern US and southern Plains on Saturday. Pockets of breezy
-northwesterly flow will be possible across the central Plains and
-the Great Lakes region. However, cooler temperatures will lead to
-higher humidity and overall low risk of fire spread.
-
-..Thornton.. 10/13/2023
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
