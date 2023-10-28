@@ -1296,9 +1296,9 @@ University officials have identified students killed when a driver hit them Tues
 
 ## California Test Scores Show Students Need More Reading, Math Support
 
-date: 2023-10-19, from: The LAist
+date: 2023-10-25, from: The LAist
 
-Most students don’t meet state standards for reading, writing, and math. Students scored slightly better in math compared to the previous year, but showed few gains in reading and writing. 
+Most students don’t meet state standards for reading, writing and math. Students scored slightly better in math compared to the previous year, but showed few gains in reading and writing. 
 
 <https://laist.com/news/education/california-test-scores-2023-smarter-balanced-reading-math-results>
 

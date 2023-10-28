@@ -2318,7 +2318,7 @@ The post <a href="https://www.hawaii.edu/news/2023/10/16/reusable-food-drinkware
 
 date: 2023-10-16, from: KĀKOU: Hawaiʻi’s Town Hall
 
-<p>Join the conversation on our Facebook , Thursday, October 26 at 7:30 pm on KĀKOU: Hawaiʻi’s Town Hall. Kākou Panelists: Moderator, Yunji De Nies Clare Apana, Mālama Kakanilua President Moses Barrios, Faith Action Hawaiʻi President Christine Camp, Avalon Group President Stanford Carr, Stanford Carr Development Sen. Stanley Chang (D), Housing Committee Chair Colin Moore, Public Policy Analyst [&#8230;]</p>
+<p>Join the conversation on our Facebook , Thursday, October 26 at 7:30 pm on KĀKOU: Hawaiʻi’s Town Hall. Kākou Panelists: Moderator, Yunji De Nies Clare Apana, Mālama Kakanilua President Christine Camp, Avalon Group President Stanford Carr, Stanford Carr Development Sen. Stanley Chang (D), Housing Committee Chair Colin Moore, Public Policy Analyst Hakim Ouansafi, Public Housing Authority Executive [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://www.pbshawaii.org/kakou-hawai%ca%bbis-town-hall-affordable-housing-at-what-cost/">KĀKOU: Hawaiʻi’s Town Hall &lt;br/&gt;Affordable Housing: At What Cost?</a> appeared first on <a rel="nofollow" href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
  
 
