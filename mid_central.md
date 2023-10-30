@@ -1,252 +1,100 @@
 ---
 
-## Water Polo Coach Makes a Happy Return to Merced
+## Deadline Extended to November 28, 2023 for 60-Meter Comments
 
-date: 2023-10-24, from: Blue Devil News (Merced Community College Student Newspaper)
+date: 2023-10-30, from: Amateur Radio Relay League News
 
-<p>A teenage Johnny Bega was perfectly happy playing soccer, when his older brother ruined land-based sports for him. “Hey, you should try water polo,” Mike Bega said. “It’s like soccer,&#8230;</p>
-<p>The post <a rel="nofollow" href="https://www.mccd.edu/news/water-polo-coach-makes-a-happy-return-to-merced/">Water Polo Coach Makes a Happy Return to Merced</a> appeared first on <a rel="nofollow" href="https://www.mccd.edu">Merced College</a>.</p>
- 
+<p>The deadline to file comments on the 60-meter band proposal has been extended by the Federal Communications Commission (FCC) to November 28, 2023. Replies to comments will be due December 28, 2023. The public comment period was originally to close October 30, 2023.</p><p>ARRL  The National Association for Amateur Radio® strongly encourages all amateurs to submit comments expressing support to the FCC ...</p> 
 
-<https://www.mccd.edu/news/water-polo-coach-makes-a-happy-return-to-merced/>
+<http://www.arrl.org/news/view/deadline-extended-to-november-28-2023-for-60-meter-comments>
 
 ---
 
-## Using Amateur Radio to Play Chess
+## Eleven Students Participate in Armenian Studies Summer Trip to Armenia: May 23-June 8, 2023
 
-date: 2023-10-20, from: Amateur Radio Relay League News
+date: 2023-10-30, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-<p>Playing chess using amateur radio? The concept may have begun in 1912 when a group of college students from Case Western Reserve University (CWRU) wanted to challenge chess players at The Ohio State University (OSU). Though the official origin is still debated, clippings from a 1912 issue of The Case Tech, one of CWRU's former student newspapers, reveal that the challenge was made when the CWRU...</p> 
+“I am grateful to be part of the Armenian community and to experience everything the country had to offer. I now feel that Armenia is full of rich history and beauty which I am privileged to have experienced. The impression I was left with of other Armenians is that they want to share the beauty... 
 
-<http://www.arrl.org/news/view/using-amateur-radio-to-play-chess>
-
----
-
-## The K7RA Solar Update
-
-date: 2023-10-20, from: Amateur Radio Relay League News
-
-<p>Sunspot activity dropped dramatically this week, with only two new<br />sunspot groups emerging, on October 14 and 16.<br /><br />Compared to last week, the average daily sunspot number slipped from<br />144.1 to 89.4, and average daily solar flux from 159.1 to 145.1.<br /><br />Average daily planetary A index changed from 7.6 to 6.4, and average<br />daily middle latitude A index from 8.3 to 5.<br /><br />Predicted solar flux is 128 and 130 Octob...</p> 
-
-<http://www.arrl.org/news/view/the-k7ra-solar-update-800>
+<https://fscollegian.com/2023/10/eleven-students-participate-in-armenian-studies-summer-trip-to-armenia/>
 
 ---
 
-## Hurricane Watch Net Activates for Hurricanes Tammy and Norma
+## Pianist Arsen Jamkotchian Newest Addition to the Department of Music at Fresno State
 
-date: 2023-10-20, from: Amateur Radio Relay League News
+date: 2023-10-30, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-<p>The Hurricane Watch Net (HWN) is activating for Hurricanes Tammy and Norma. In an e-mail sent on the morning of Friday, October 20, 2023, HWN Net Manager Bobby Graves, KB5HAV, wrote: </p><p><em>This morning, we have 2 Hurricanes threatening landfall. </em> </p><ul><li><em>In the Atlantic, we have Tammy which strengthened into a Cat 1 Hurricane overnight.</em> </li> <li><em>In the Eastern Pacific, we have Hurricane Norma. Once a Cat 4 Hurricane...</em></li></ul> 
+“It is really fun to perform with the students, because I love the music. They love the music – it is written well,” said Dr. Arsen Jamkotchian. Dr. Jamkotchian is a newly hired collaborative pianist in Fresno State’s Department of Music. He was born and raised in Glendale, California, and moved to Fresno in February... 
 
-<http://www.arrl.org/news/view/hurricane-watch-net-activates-for-hurricanes-tammy-and-norma>
-
----
-
-## A POTA Book for Park Activators and Hunters
-
-date: 2023-10-19, from: Amateur Radio Relay League News
-
-<p>ARRL  The National Association for Amateur Radio® has a new book to help radio amateurs enjoy one of the fastest growing communities within the hobby. Participants in Parks on the Air® (POTA) have built one of the most vibrant on-air communities in contemporary ham radio. Park hunters comb the airwaves for activators operating from the lawns of sprawling public mansions, stoops at urban histori...</p> 
-
-<http://www.arrl.org/news/view/a-pota-book-for-park-activators-and-hunters>
+<https://fscollegian.com/2023/10/pianist-arsen-jamkotchian-newest-addition-to-the-department-of-music-at-fresno-state/>
 
 ---
 
-## Amateur Radio Supports 2023 Chicago Marathon
+## Armenian 1A-Elementary Armenian Language Course Attracts Diverse Students at Fresno State
 
-date: 2023-10-19, from: Amateur Radio Relay League News
+date: 2023-10-30, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-<p>On October 8, 2023, more than 140 amateur radio operators from five Midwest states assisted 2,000 volunteer medical personnel at the Bank of America Chicago Marathon. This is the 15th consecutive year that amateur radio operators have helped coordinate medical responses and arrange for medical resupplies. About 49,000 runners entered this year’s event.</p><p> </p><p> </p><p>The city-wide marathon uses six main repe...</p> 
+Armenian 1A, Elementary Armenian, is a four-unit course offered every Fall Semester by the Armenian Studies Program. The class is taught by Prof. Barlow Der Mugrdechian and is a language course for beginners. Western Armenian is a dialect that was spoken by Armenians who lived in the Ottoman Empire prior to the Armenian Genocide. Survivors... 
 
-<http://www.arrl.org/news/view/amateur-radio-supports-2023-chicago-marathon>
-
----
-
-## The Great Shake Out ‼ Thursday, October 19, 2023 ‼
-
-date: 2023-10-18, from: City of Atwater News Releases
-
-The City of Atwater will be joining the Merced County&#8217;s Office of Emergency Services in the largest earthquake safety drill on Thursday, October 19, 2023 at 10:19am. Please see more information below. 
-
-<https://www.atwater.org/the-great-shake-out-%e2%80%bc-thursday-october-19-2023-%e2%80%bc/>
+<https://fscollegian.com/2023/10/armenian-1a-elementary-armenian-language-course-attracts-diverse-students-at-fresno-state/>
 
 ---
 
-## ARRL Website to be Unavailable Monday, October 23, 2023, for Scheduled Maintenance
+## Michael Krikorian in the Faculty of the Department of Music
 
-date: 2023-10-17, from: Amateur Radio Relay League News
+date: 2023-10-30, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-<p>The ARRL  The National Association for Amateur Radio® website, ARRL.org, will be unavailable on Monday, October 23, 2023, due to scheduled maintenance. Those needing assistance with joining ARRL or renewing their existing memberships, as well as anyone interested in ordering products offered by ARRL, are invited to call the ARRL Member Services team at 888-277-5289 (toll-free US) or 860-594-020...</p> 
+Hye Sharzhoom welcomes Dr. Michael Krikorian, one of Fresno State’s newest music professors. Dr. Krikorian was born and raised in Fresno, graduating from University High School and receiving his Bachelor’s degree in Piano Performance from Fresno State, where he took a number of Armenian Studies courses. He now serves as Assistant Professor of Piano and... 
 
-<http://www.arrl.org/news/view/arrl-website-to-be-unavailable-monday-october-23-2023-for-scheduled-maintenance>
-
----
-
-## Sports Science Programs Offer Hands-On Experience, Career Options
-
-date: 2023-10-17, from: Blue Devil News (Merced Community College Student Newspaper)
-
-<p>Sophomore Miku Chikakane traveled more than 5,000 miles across the Pacific Ocean and the international date line to study kinesiology at Merced College. She chose to leave Tokyo, one of&#8230;</p>
-<p>The post <a rel="nofollow" href="https://www.mccd.edu/news/sports-science-programs-offer-hands-on-experience-career-options/">Sports Science Programs Offer Hands-On Experience, Career Options</a> appeared first on <a rel="nofollow" href="https://www.mccd.edu">Merced College</a>.</p>
- 
-
-<https://www.mccd.edu/news/sports-science-programs-offer-hands-on-experience-career-options/>
+<https://fscollegian.com/2023/10/michael-krikorian-in-the-faculty-of-the-department-of-music/>
 
 ---
 
-## Jamboree-on-the-Air is on October 20 - 22, 2023
+## Dr. Katia Karaguezian Discusses Her New Book: Forbidden Homeland: Story of a Diasporan
 
-date: 2023-10-14, from: Amateur Radio Relay League News
+date: 2023-10-30, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-<p>Jamboree-on-the-Air (JOTA), the largest Scouting event in the world, takes place on the third weekend of October (10/20 - 10/22).</p><p></p><p></p><p>This annual global operating event allows Scouts to use amateur radio to connect with hams around the world. The event is supported by many local amateur radio clubs and individual operators. JOTA starts Friday and ends Sunday, but there are no offi­cial hours of oper...</p> 
+“How can I get students to read the book?” said Dr. Katia Karageuzian during a discussion of her new book, Forbidden Homeland: Story of a Diasporan. Her presentation was part of the Armenian Studies Program Fall Lecture Series and was held on Friday, September 8, 2023, with many Fresno State students in attendance. At her... 
 
-<http://www.arrl.org/news/view/jamboree-on-the-air-is-on-october-20-22-2023>
-
----
-
-## ARRL Online Auction Now Open
-
-date: 2023-10-13, from: Amateur Radio Relay League News
-
-<p>Want to get some cool stuff at a great price and help amateur radio at the same time? Bid and to show support for ARRL education programming during the 18th Annual <b>ARRL Online Auction</b>. The auction is open now, and bidding began on Friday, October 13 at 10 AM EDT, and continues through Thursday, October 19 at 10 PM EDT.</p><p></p><p></p><p><b>RT Systems, Inc</b><b>.</b> is sponsoring this year's auction, which will feature <i>QST</i> Pr...</p> 
-
-<http://www.arrl.org/news/view/arrl-online-auction-now-open>
+<https://fscollegian.com/2023/10/dr-katia-karaguezian-discusses-her-new-book/>
 
 ---
 
-## Local Amateur Community Rallies to Support Collegiate Club for QSO Party
+## Students gather at Bulldog Bowl as part of the 2023 homecoming festivities
 
-date: 2023-10-13, from: Amateur Radio Relay League News
+date: 2023-10-30, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-<p><b><i>By Todd Emmert, W9TWE</i></b></p><p>Indiana State University Amateur Radio Club, W9ISU, had a successful ARRL Collegiate QSO Party, held October 7 - 8, thanks to the support of local hams.</p><p>The club has faced challenges in recent months, including being displaced due to campus renovations and having minimal student involvement; they didn't even have a multimode, multiband transceiver. In an effort to boost inte...</p> 
+Fresno State students rolled their way to the lower level of the University Student Union on Wednesday, Oct. 25, for a night of bowling, billiards, root beer floats, board games and more. The event was free for all Fresno State students and took place at Bulldog Bowl, and the Bulldog Zone as part of homecoming... 
 
-<http://www.arrl.org/news/view/local-amateur-community-rallies-to-support-collegiate-club-for-qso-party>
-
----
-
-## The K7RA Solar Update
-
-date: 2023-10-13, from: Amateur Radio Relay League News
-
-<p>The numbers looked better during this reporting week, October 5-11.<br /><br />Average daily sunspot numbers rose from 128.6 to 144.1, and average<br />solar flux from 155.6 to 159.1.<br /><br />Average daily planetary A index went from 9.1 to 7.6, and average<br />middle latitude A index from 8.9 to 8.3.<br /><br />For some reason the middle latitude numbers were not available from<br />Fredericksburg, Virginia so we used the data from Boulder, C...</p> 
-
-<http://www.arrl.org/news/view/the-k7ra-solar-update-799>
+<https://fscollegian.com/2023/10/students-gather-at-bulldog-bowl-as-part-of-the-2023-homecoming-festivities/>
 
 ---
 
-## ‼ Traffic Advisory: Road Closure on Shaffer Road near Santa Fe (10/16 through 10/19) ‼
+## State wage increase boosts fast-food workers, but will campus employees benefit?
 
-date: 2023-10-12, from: City of Atwater News Releases
+date: 2023-10-30, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-Shaffer Road crossing will be closing for repair beginning 9am on 10/16/23. The crossing will reopen 9am on 10/19/23. See image below for more details. 
+A new law in California will significantly raise the minimum wage, but only for fast food workers. On Sept. 28, California Gov. Gavin Newsom, signed AB 1228, which is a bill that will require all fast food employees in California to be paid $20 an hour. It will take effect on April 1, 2024. According... 
 
-<https://www.atwater.org/%e2%80%bc-traffic-advisory-road-closure-on-shaffer-road-near-santa-fe-10-16-through-10-19-%e2%80%bc/>
-
----
-
-## Merced College Athletes Find All the Support They Need to Thrive
-
-date: 2023-10-11, from: Blue Devil News (Merced Community College Student Newspaper)
-
-<p>Merced College athletes excel academically. It’s no accident, and the key to in-class success for these Blue Devils is no big secret. “Our athletes do so well because they find&#8230;</p>
-<p>The post <a rel="nofollow" href="https://www.mccd.edu/news/merced-college-athletes-find-all-the-support-they-need-to-thrive/">Merced College Athletes Find All the Support They Need to Thrive</a> appeared first on <a rel="nofollow" href="https://www.mccd.edu">Merced College</a>.</p>
- 
-
-<https://www.mccd.edu/news/merced-college-athletes-find-all-the-support-they-need-to-thrive/>
+<https://fscollegian.com/2023/10/fast-food-wage-increase-raises-controversial-thoughts-in-the-workforce/>
 
 ---
 
-## All for One, One for All: ‘Three Musketeers’ Opens Oct. 20 at Merced College
+## Column: With win against UNLV, ‘Dogs can control how they finish Mountain West play
 
-date: 2023-10-10, from: Blue Devil News (Merced Community College Student Newspaper)
+date: 2023-10-30, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-<p>A timeless tale of adventure with epic live swordfights comes to Merced next week, as “The Three Musketeers” opens Friday, Oct. 20, at the Merced College Theater. Adapted for the&#8230;</p>
-<p>The post <a rel="nofollow" href="https://www.mccd.edu/news/all-for-one-one-for-all-three-musketeers-opens-oct-20-at-merced-college/">All for One, One for All: ‘Three Musketeers’ Opens Oct. 20 at Merced College</a> appeared first on <a rel="nofollow" href="https://www.mccd.edu">Merced College</a>.</p>
- 
+Fresno State&#8217;s 31-24 win over the University of Nevada, Las Vegas on Oct. 29 was a homecoming in multiple ways. The game capped off Fresno State&#8217;s Homecoming week festivities. It also was Fresno State&#8217;s first home game in nearly a month. With the win, the Bulldogs improve to 7-1 and 3-1 in the Mountain West... 
 
-<https://www.mccd.edu/news/all-for-one-one-for-all-three-musketeers-opens-oct-20-at-merced-college/>
+<https://fscollegian.com/2023/10/column-the-dogs-can-control-how-they-finish-mountain-west-play/>
 
 ---
 
-## ARRL Urges Comments to FCC on 60-Meter Band
+## The ‘Dogs quell the Rebels in Homecoming game
 
-date: 2023-10-10, from: Amateur Radio Relay League News
+date: 2023-10-29, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-<p><em>Updated 10/30/23</em><br /><br />The FCC has extended the public comment period until 11/28/23 with replies to comments due 12/28/23.</p><hr /><p>ARRL  The National Association for Amateur Radio® is asking that all radio amateurs urge the Federal Communications Commission (FCC) to continue the existing use of the 60-meter band. A public comment period is open until November 28, 2023. Replies to comments are due December 28,...</p> 
+Fresno State football returned home after 28 days to top off Homecoming week with a 31-24 win over the University of Nevada, Las Vegas. The Bulldogs went through a tough second quarter and trailed at the end of the first half, but managed to bounce back and take the victory. “That’s a 6-1 team we... 
 
-<http://www.arrl.org/news/view/arrl-urges-comments-to-fcc-on-60-meter-band>
-
----
-
-## Enjoy the Solar Eclipse—and Free Donuts—at Merced College Oct. 14
-
-date: 2023-10-09, from: Blue Devil News (Merced Community College Student Newspaper)
-
-<p>Merced College invites astronomy enthusiasts and curious community members to experience the annular solar eclipse happening Saturday morning, Oct. 14, with a gathering on the lawn near the front of&#8230;</p>
-<p>The post <a rel="nofollow" href="https://www.mccd.edu/news/enjoy-the-solar-eclipse-and-free-donuts-at-merced-college-oct-14/">Enjoy the Solar Eclipse—and Free Donuts—at Merced College Oct. 14</a> appeared first on <a rel="nofollow" href="https://www.mccd.edu">Merced College</a>.</p>
- 
-
-<https://www.mccd.edu/news/enjoy-the-solar-eclipse-and-free-donuts-at-merced-college-oct-14/>
-
----
-
-## The K7RA Solar Update
-
-date: 2023-10-06, from: Amateur Radio Relay League News
-
-<p> <span>At 2308 UTC on October 5, the Australian Space Weather Forecasting Centre issued a geomagnetic disturbance warning. </span></p><p><span>"A recent, mild CME impact, combined with the expected arrival of a coronal hole high speed wind stream on 7 Oct, gives the chance for G1 geomagnetic conditions over 6 and 7 Oct." </span></p><p><span>Seven new sunspot groups emerged over the past week, but overall solar activity declined. </span></p><p><span>With conse...</span></p> 
-
-<http://www.arrl.org/news/view/the-k7ra-solar-update-798>
-
----
-
-## ARRL Launches The NTS Letter
-
-date: 2023-10-06, from: Amateur Radio Relay League News
-
-<p>There's a new newsletter in the ARRL repertoire as of this week. The first issue of <em>The NTS Letter</em> was published on October 3, 2023. The NTS Letter is a monthly digest of all things related to the ARRL National Traffic System®. It is edited by Marcia Forde, KW1U, who is a veteran traffic handler and serves as the Section Traffic Manager for the ARRL Eastern and Western Massachusetts and Rhode I...</p> 
-
-<http://www.arrl.org/news/view/arrl-launches-the-nts-letter>
-
----
-
-## WestFest STEM Event Offers Hands-On Experience
-
-date: 2023-10-06, from: Amateur Radio Relay League News
-
-<p>Amateur radio was represented at the seventh annual WestFest event at The Ohio State University in Columbus, Ohio, on Saturday, September 30, 2023. WestFest is a public engagement event that highlights science, technology, engineering and mathematics (STEM) research, sustainability initiatives, and outreach programs at The Ohio State University. The event featured three behind-the-scenes tours ...</p> 
-
-<http://www.arrl.org/news/view/westfest-stem-event-offers-hands-on-experience>
-
----
-
-## ARRL Foundation Accepting Applications for Grants in October
-
-date: 2023-10-04, from: Amateur Radio Relay League News
-
-<p>The ARRL Foundation is now accepting grant applications from amateur radio organizations for eligible amateur radio-related projects and initiatives, particularly those focused on educating, licensing, and supporting amateur radio activities. To grow amateur radio's future, youth-based projects and initiatives are especially encouraged. The ARRL Foundation grants program accepts proposals on a ...</p> 
-
-<http://www.arrl.org/news/view/arrl-foundation-accepting-applications-for-grants-in-october>
-
----
-
-## Splash Park Closing October 8, 2023, for the Season💦
-
-date: 2023-10-04, from: City of Atwater News Releases
-
-Summer 2023 has ended, and Fall is in the air. We hope the B-52 Splash Park was a &#8220;cool&#8221; addition to your seasonal activities! The Splash Park is scheduled to close Sunday, October 8, 2023. The Splash Park will re-open Easter Weekend on Saturday, March 30, 2024, operating hours 10AM-6PM. 
-
-<https://www.atwater.org/splash-park-closing-october-8-2023-for-the-season%f0%9f%92%a6/>
-
----
-
-## Merced College Expanding ESL, Citizenship Classes for Local Residents
-
-date: 2023-10-03, from: Blue Devil News (Merced Community College Student Newspaper)
-
-<p>Hispanic Heritage Month is upon us, and Merced College is celebrating the many ways it educates and supports Hispanic students. As a federally designated Hispanic-Serving Institution (HSI), the college supports&#8230;</p>
-<p>The post <a rel="nofollow" href="https://www.mccd.edu/news/merced-college-expanding-esl-citizenship-classes-for-local-residents/">Merced College Expanding ESL, Citizenship Classes for Local Residents</a> appeared first on <a rel="nofollow" href="https://www.mccd.edu">Merced College</a>.</p>
- 
-
-<https://www.mccd.edu/news/merced-college-expanding-esl-citizenship-classes-for-local-residents/>
+<https://fscollegian.com/2023/10/the-dogs-quell-the-rebels-in-homecoming-game/>
 

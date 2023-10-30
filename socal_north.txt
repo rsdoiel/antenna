@@ -39,7 +39,8 @@ https://www.pcccourier.com/feed "~PCC Courier (PCC Student Newspaper)"
 # NGO and community sites
 #
 https://www.tataviam-nsn.us/feed/ "~Tatavium Tribal News"
-https://gabrielinotribe.org/tribal-news/feed/ "~Tongva Tribal News"
+# Gabrielinotribe feeds and be returning forbidden for a couple weeks, 2023-10-30 RSD
+#https://gabrielinotribe.org/tribal-news/feed/ "~Tongva Tribal News"
 https://laconservancy.tumblr.com/rss "~L.A. Conservancy Blog"
 https://www.sgvlug.org/feeds/all.atom.xml "~San Gabriel Valley Linux User Group"
 https://theodorepayne.org/feed/ "~Theodore Paine Foundation"

@@ -2,8 +2,8 @@
 # Build the Antenna site
 #
 
-SUNDAY=$(shell reldate -- -1 sunday)
-SATURDAY=$(shell reldate 1 saturday)
+SUNDAY=$(shell reldate sunday)
+SATURDAY=$(shell reldate saturday)
 VOL_NO=$(shell date +%Y.%W)
 
 YEAR=2023
@@ -63,8 +63,8 @@ mid_central.md: mid_central.txt
 	cp mid_central.md $(YEAR)/mid_central_$(VOL_NO).md
 
 mid_central.txt:
-	-skimmer mid_central.txt
-	sqlite3 mid_central.skim "UPDATE items SET status = 'read' WHERE published <= '$(SUNDAY)' AND published >= '$(SATURDAY)'"
+	env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer mid_central.txt
+	sqlite3 mid_central.skim "UPDATE items SET status = 'read'"
 	sqlite3 mid_central.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
 socal_north: socal_north.html
@@ -88,8 +88,8 @@ socal_north.md: socal_north.txt
 	cp socal_north.md $(YEAR)/socal_north_$(VOL_NO).md
 
 socal_north.txt:
-	-skimmer socal_north.txt
-	sqlite3 socal_north.skim "UPDATE items SET status = 'read' WHERE published <= '$(SUNDAY)' AND published >= '$(SATURDAY)'"
+	env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer socal_north.txt
+	sqlite3 socal_north.skim "UPDATE items SET status = 'read'"
 	sqlite3 socal_north.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
 pacific: pacific.html
@@ -114,8 +114,8 @@ pacific.md: pacific.txt
 	cp pacific.md $(YEAR)/pacific_$(VOL_NO).md
 
 pacific.txt:
-	-skimmer pacific.txt
-	sqlite3 pacific.skim "UPDATE items SET status = 'read' WHERE published <= '$(SUNDAY)' AND published >= '$(SATURDAY)'"
+	env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer pacific.txt
+	sqlite3 pacific.skim "UPDATE items SET status = 'read'"
 	sqlite3 pacific.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
 weather: weather.html 
@@ -138,8 +138,9 @@ weather.md: weather.txt
 	cp weather.md $(YEAR)/weather_$(VOL_NO).md
 
 weather.txt:
-	-skimmer weather.txt
-	sqlite3 weather.skim "UPDATE items SET status = 'saved'" 
+	env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer weather.txt
+	sqlite3 weather.skim "UPDATE items SET status = 'read'"
+	sqlite3 weather.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
 # Clean only removes up the current volume pages
 clean: .FORCE
@@ -189,9 +190,17 @@ publish: .FORCE build
 
 get_updates: .FORCE
 	-skimmer socal_north.txt
+	sqlite3 mid_central.skim "UPDATE items SET status = 'read'"
+	sqlite3 mid_central.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 	-skimmer pacific.txt
+	sqlite3 pacific.skim "UPDATE items SET status = 'read'"
+	sqlite3 pacific.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 	-skimmer mid_central.txt
+	sqlite3 mid_central.skim "UPDATE items SET status = 'read'"
+	sqlite3 mid_central.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 	-skimmer weather.txt
+	sqlite3 weather.skim "UPDATE items SET status = 'read'"
+	sqlite3 weather.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 	touch socal_north.txt pacific.txt mid_central.txt weather.txt
 
 .FORCE:
