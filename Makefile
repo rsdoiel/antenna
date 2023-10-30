@@ -126,6 +126,7 @@ weather.html: weather.md front_page.tmpl
 	       --metadata title="Weather, vol. $(VOL_NO)" \
 	       --metadata feed_name="Weather" \
 	       --metadata socal_north_page="socal_north.html" \
+		   --metadata mid_central_page="mid_central.html" \
 	       --metadata pacific_page="pacific.html" \
 	       --metadata weather_page="weather.html" \
 	       --metadata urls_file="weather.txt" \

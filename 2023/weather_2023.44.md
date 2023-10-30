@@ -1,5 +1,240 @@
 ---
 
+## Central Pacific Tropical Weather Outlook
+
+date: 2023-10-30, from: Central Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ACPN50 PHFO 302345<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 200 PM HST Mon Oct 30 2023<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Wroe<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Advisory #009A Forecast Track [kmz] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-10-30, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Mon, 30 Oct 2023 23:43:49 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP192023_009Aadv_TRACK.kmz>
+
+---
+
+## Advisory #009A Watches/Warnings [kmz] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-10-30, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Mon, 30 Oct 2023 23:43:44 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP192023_009Aadv_WW.kmz>
+
+---
+
+## Advisory #009 Wind Field [shp] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-10-30, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Mon, 30 Oct 2023 23:43:16 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep192023_fcst_009.zip>
+
+---
+
+## Advisory #009A Cone of Uncertainty [kmz] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-10-30, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Mon, 30 Oct 2023 23:43:10 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP192023_009Aadv_CONE.kmz>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-10-30, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Mon, 30 Oct 2023 23:42:58 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep192023_best_track.zip>
+
+---
+
+## Preliminary Best Track Points [kmz] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-10-30, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Mon, 30 Oct 2023 23:42:58 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep192023_best_track.kmz>
+
+---
+
+## Advisory #009A Forecast [shp] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-10-30, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Mon, 30 Oct 2023 23:42:56 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep192023_5day_009A.zip>
+
+---
+
+## Tropical Storm Pilar Graphics
+
+date: 2023-10-30, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/234218.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP19/EP192023_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Pilar 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Mon, 30 Oct 2023 23:42:18 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/234218.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP19/EP192023_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Pilar 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Mon, 30 Oct 2023 21:23:01 GMT
+ 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/234218.shtml?cone>
+
+---
+
+## Tropical Storm Pilar Public Advisory Number 9A
+
+date: 2023-10-30, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ34 KNHC 302340
+TCPEP4
+ 
+BULLETIN
+Tropical Storm Pilar Intermediate Advisory Number 9A
+NWS National Hurricane Center Miami FL       EP192023
+700 PM CDT Mon Oct 30 2023
+ 
+...PILAR EXPECTED TO CAUSE HEAVY RAINS AND FLASH FLOODING OVER 
+PORTIONS OF CENTRAL AMERICA DURING THE NEXT FEW DAYS...
+ 
+ 
+SUMMARY OF 700 PM CDT...0000 UTC...INFORMATION
+----------------------------------------------
+LOCATION...11.6N 90.9W
+ABOUT 195 MI...315 KM SW OF SAN SALVADOR EL SALVADOR
+ABOUT 320 MI...515 KM W OF MANAGUA NICARAGUA
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...ENE OR 60 DEGREES AT 5 MPH...7 KM/H
+MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Watch is in effect for...
+* Entire coast of El Salvador
+* Pacific coast of Honduras including the Gulf of Fonseca
+* Honduras/Nicaragua border southward to Puerto Sandino.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, in this case within 36 hours.
+ 
+Interests elsewhere along the Pacific coast of Nicaragua
+and in southern Guatemala should monitor the progress of this
+system.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 700 PM CDT (0000 UTC), the center of Tropical Storm Pilar was
+located near latitude 11.6 North, longitude 90.9 West.  Pilar is
+moving toward the east-northeast near 5 mph (7 km/h) and this motion
+is expected to continue through early Wednesday.  On the forecast
+track, Pilar could be near the coast of El Salvador or Nicaragua
+Tuesday through early Wednesday, though the core of the system is
+expected to remain offshore.  The storm is forecast to move
+west-southwestward away from land on Thursday.
+ 
+Maximum sustained winds are near 50 mph (85 km/h) with higher
+gusts.  Further strengthening is expected during the next day or so,
+and Pilar could be near hurricane strength on Tuesday.  Weakening is
+expected to begin on Wednesday and continue through Thursday.
+ 
+Tropical-storm-force winds extend outward up to 70 miles (110 km)
+from the center.
+ 
+The estimated minimum central pressure is 1000 mb (29.53 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Pilar can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDEP4 and WMO header WTPZ44 KNHC
+and on the web at hurricanes.gov/text/MIATCDEP4.shtml
+ 
+RAINFALL: Pilar is expected to produce storm total rainfall of 5 to
+10 inches, with local amounts to 15 inches, over portions of Central
+America from El Salvador southward to Costa Rica through Wednesday.
+This rainfall will produce flash and urban flooding, along with
+mudslides in areas of higher terrain.
+ 
+SURF:  Swells generated by Pilar are expected to continue affecting
+the Pacific coast of Central America during the next few days. These
+swells are likely to cause life-threatening surf and rip current
+conditions. Please consult products from your local weather office.
+ 
+WIND:  Tropical storm conditions could begin in the Tropical
+Storm Watch area early Tuesday.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1000 PM CDT.
+ 
+$$
+Forecaster Pasch
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP4+shtml/302340.shtml>
+
+---
+
+## ATCF XML Prototype [xml] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-10-30, from: Eastern Pacific Basin GIS Data
+
+Issued at  Mon, 30 Oct 2023 23:40:15 GMT. This is only a prototype and the file format may change without notice. 
+
+<https://www.nhc.noaa.gov/storm_graphics/EP19/atcf-ep192023.xml>
+
+---
+
 ## SPC - No watches are valid as of Mon Oct 30 22:20:01 UTC 2023
 
 date: 2023-10-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -116,16 +351,6 @@ KMZ last updated Mon, 30 Oct 2023 20:48:25 GMT
 
 ---
 
-## Advisory #009 Wind Field [shp] - Tropical Storm Pilar (EP4/EP192023)
-
-date: 2023-10-30, from: Eastern Pacific Basin GIS Data
-
-Initial and Forecast Surface Winds. Shapefile last updated Mon, 30 Oct 2023 20:47:54 GMT 
-
-<https://www.nhc.noaa.gov/gis/forecast/archive/ep192023_fcst_009.zip>
-
----
-
 ## Advisory #009 Cone of Uncertainty [kmz] - Tropical Storm Pilar (EP4/EP192023)
 
 date: 2023-10-30, from: Eastern Pacific Basin GIS Data
@@ -133,26 +358,6 @@ date: 2023-10-30, from: Eastern Pacific Basin GIS Data
 KMZ last updated Mon, 30 Oct 2023 20:47:44 GMT 
 
 <https://www.nhc.noaa.gov/storm_graphics/api/EP192023_009adv_CONE.kmz>
-
----
-
-## Preliminary Best Track [shp] - Tropical Storm Pilar (EP4/EP192023)
-
-date: 2023-10-30, from: Eastern Pacific Basin GIS Data
-
-Track, Points, and Wind Swath. Shapefile last updated Mon, 30 Oct 2023 20:47:35 GMT 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep192023_best_track.zip>
-
----
-
-## Preliminary Best Track Points [kmz] - Tropical Storm Pilar (EP4/EP192023)
-
-date: 2023-10-30, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Mon, 30 Oct 2023 20:47:35 GMT 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep192023_best_track.kmz>
 
 ---
 
@@ -455,16 +660,6 @@ FORECASTER BUCCI
 
 ---
 
-## ATCF XML Prototype [xml] - Tropical Storm Pilar (EP4/EP192023)
-
-date: 2023-10-30, from: Eastern Pacific Basin GIS Data
-
-Issued at  Mon, 30 Oct 2023 20:44:52 GMT. This is only a prototype and the file format may change without notice. 
-
-<https://www.nhc.noaa.gov/storm_graphics/EP19/atcf-ep192023.xml>
-
----
-
 ## SPC Oct 30, 2023 2000 UTC Day 1 Convective Outlook
 
 date: 2023-10-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -665,30 +860,4 @@ date: 2023-10-30, from: Eastern Pacific Tropical Weather Outlook
   
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2023-10-30, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 301736<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-800 AM HST Mon Oct 30 2023<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Houston<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 

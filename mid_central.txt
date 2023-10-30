@@ -14,4 +14,5 @@ https://fscollegian.com/feed/ "~The Collegian (Cal State Fresno's Student Newspa
 #NOAA feeds 
 https://alerts.weather.gov/cap/wwaatmget.php?x=CAZ302&y=1 "~Merced, Madera and Mendota Alerts"
 https://www.weather.gov/rss_page.php?site_name=hnx "~San Joaquin Valley"
+https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0 "~Merced, Weather.gov CAP v1.1 alerts"
 
