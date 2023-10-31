@@ -1,6 +1,544 @@
-# Updates
 
-(date: 2023-10-30 17:06:58)
+(date: 2023-10-31 16:17:24)
+
+---
+
+## In the booth with the ‘Braddahood broadcasters’ Veneri brothers, UH alums
+
+date: 2023-10-31, from: University of Hawaiʻi News
+
+<p>The Veneri brothers share the impact the UH Football program has made on them.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/31/veneri-brothers-uh-alums/">In the booth with the ‘Braddahood broadcasters’ Veneri brothers, <abbr>UH</abbr> alums</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/31/veneri-brothers-uh-alums/>
+
+---
+
+## Kosrae’s stratification and burial practices
+
+date: 2023-10-31, from: Pacific Island Times
+
+By Raquel Bagnol The line between the hierarchical levels in Kosrae, both for the living and the dead, created a well-defined web of... 
+
+<https://www.pacificislandtimes.com/post/kosrae-s-stratification-and-burial-practices>
+
+---
+
+## UH Maui College culinary students pivot from food prep to packing produce
+
+date: 2023-10-31, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Maui College culinary arts students have been packing and distributing produce for community members impacted by the Maui fires.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/31/uh-maui-college-culinary-students-packing-produce/"><abbr>UH</abbr> Maui College culinary students pivot from food prep to packing produce</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/31/uh-maui-college-culinary-students-packing-produce/>
+
+---
+
+## Guam surpasses 5,000 H-2B workers
+
+date: 2023-10-31, from: Marianas Variety
+
+HAGÅTÑA, Guam (Department of Labor) — The number of H-2B workers on Guam has now surpassed the 5,000-worker mark last seen in the early 1990s. This number may increase to 6,000 to 7,000 H-2B workers in the next fiscal year. The influx of H-2B workers not only represents a crucial boost to Guam’s construction capacity but also underscores the island’s continuing economic development. 
+
+<https://www.mvariety.com/news/regional_world/guam-surpasses-5-000-h-2b-workers/article_72cf3a42-77b6-11ee-b209-bbb127af1e7b.html>
+
+---
+
+## Darty Minds outshoot Vicious to claim SEDA Ladies Bud Light Cup
+
+date: 2023-10-31, from: Marianas Variety
+
+BLACK 8 Darty Minds took home the Bud Light Cup in the Ladies Division of the 2023 SEDA Bud Light Dart League by outscoring the no. 1 seed, 6JMS Vicious, 8-3, at the 6JMS Sports Bar on Monday, Oct. 23. 
+
+<https://www.mvariety.com/sports/localsports/darty-minds-outshoot-vicious-to-claim-seda-ladies-bud-light-cup/article_1967d6cc-7797-11ee-bfc8-9fe2f906bd87.html>
+
+---
+
+## SIS, ACS clinch handful of titles in cross country finale
+
+date: 2023-10-31, from: Marianas Variety
+
+SAIPAN International School and Agape Christian School continue to rule the running scene as they claimed most of the titles in the team aspect of the PSS-NMA All School Cross Country Series SY23-24 during the finale held at the Saipan Country Club in Saipan Vegas on Saturday. 
+
+<https://www.mvariety.com/sports/localsports/sis-acs-clinch-handful-of-titles-in-cross-country-finale/article_a70b80a4-77ac-11ee-80ac-2724cfcf8148.html>
+
+---
+
+## Ayuyu is new CPA board chairman
+
+date: 2023-10-31, from: Marianas Variety
+
+THE Commonwealth Ports Authority board of directors on Tuesday elected businessman Jose C. Ayuyu as its new chairman. 
+
+<https://www.mvariety.com/news/local/ayuyu-is-new-cpa-board-chairman/article_50299c64-77a0-11ee-931c-bb8ff8f0efd9.html>
+
+---
+
+## 22nd Legislature JGO members issue statement on high court ruling
+
+date: 2023-10-31, from: Marianas Variety
+
+IN reaction to the CNMI Supreme Court’s dismissal on Tuesday of former Gov. Ralph DLG Torres’ appeal of the Superior Court's dismissal of his lawsuit against the 22nd Legislature's House Committee on Judiciary &amp; Governmental Operations, its former members issued the following statement: 
+
+<https://www.mvariety.com/news/local/22nd-legislature-jgo-members-issue-statement-on-high-court-ruling/article_3f8beefc-77aa-11ee-9c0d-ebcbd9b8a7d7.html>
+
+---
+
+## Transit CNMI: Connecting our community through public transportation
+
+date: 2023-10-31, from: Marianas Variety
+
+(COTA)  —  The  Commonwealth  Office  of  Transit  Authority under the Office of the Governor has a fresh new look and a new name for its public transportation services. 
+
+<https://www.mvariety.com/news/local/transit-cnmi-connecting-our-community-through-public-transportation/article_3de0b7de-77bb-11ee-a6ad-9ba79cfa3005.html>
+
+---
+
+## SSHS cadets assist in celebrating St. Jude Fiesta
+
+date: 2023-10-31, from: Marianas Variety
+
+SAIPAN Southern High School’s Manta Ray Battalion’s cadets assisted the St. Jude Parish in celebrating its annual fiesta. The event took place over the weekend on Oct 28 from 2 p.m. to 8 p.m. and Oct 29 from 11 a.m. to 3:30 p.m. On both days, SSHS’s Sabre Team and Road Guard Detail assisted in the celebration. 
+
+<https://www.mvariety.com/news/community_bulletins/sshs-cadets-assist-in-celebrating-st-jude-fiesta/article_5e1d08e0-77c0-11ee-9163-635a1c04d234.html>
+
+---
+
+## Wanted: Kelvin Cabrera Sanchez
+
+date: 2023-10-31, from: Marianas Variety
+
+KELVIN Cabrera Sanchez, 35, has been charged with unlawful transportation of firearms, person permitted to possess a firearm, removal of serial number from a firearm, no firearm permit, and illegal possession of narcotics. 
+
+<https://www.mvariety.com/news/local/wanted-kelvin-cabrera-sanchez/article_77a69bce-77ba-11ee-b153-fb5113ed8599.html>
+
+---
+
+## NMC awarded $197K to bolster local natural resource management workforce
+
+date: 2023-10-31, from: Marianas Variety
+
+(NMC) — The U.S. Department of Agriculture’s National Institute of Food and Agriculture has awarded Northern Marianas College’s Natural Resource Management or NRM Program $197,000 to build student and professional capacity in agricultural and natural resource management through upcoming Geographic Information System and Remote Sensing coursework at NMC. 
+
+<https://www.mvariety.com/news/community_bulletins/nmc-awarded-197k-to-bolster-local-natural-resource-management-workforce/article_a5a46c78-77c8-11ee-a018-53d72be4054f.html>
+
+---
+
+## CHCC wants retroactive application of commercial utility rate
+
+date: 2023-10-31, from: Marianas Variety
+
+THE Commonwealth Healthcare Corp. is asking the Legislature to amend House Bill 23-59, which would “transition governmental electric rates to commercial rates.” 
+
+<https://www.mvariety.com/news/local/chcc-wants-retroactive-application-of-commercial-utility-rate/article_e2ab6ae8-77a7-11ee-b9c1-f3364fecf0b4.html>
+
+---
+
+## How this woman’s unborn baby saved her life
+
+date: 2023-10-31, from: The Guam Daily Post
+
+"They told me I had a brain tumor and that the baby saved my life." 
+
+<https://www.postguam.com/lifestyles/health/how-this-woman-s-unborn-baby-saved-her-life/article_20b58920-9781-5c13-bbc9-620761040b03.html>
+
+---
+
+## Study reveals best way cruise ships can stop spread of viruses like COVID-19
+
+date: 2023-10-31, from: The Guam Daily Post
+
+They found that simply more ventilation did not mean safer cabin conditions for passengers and crew. 
+
+<https://www.postguam.com/lifestyles/health/study-reveals-best-way-cruise-ships-can-stop-spread-of-viruses-like-covid-19/article_053a33b2-d278-539d-a2d4-55ec5b732cdc.html>
+
+---
+
+## Wearable ECG patch could save millions of heart disease patients
+
+date: 2023-10-31, from: The Guam Daily Post
+
+The ultra-light state-of-the-art device, incorporating wireless technology, is a major improvement on previous wearable electrocardiograms. 
+
+<https://www.postguam.com/lifestyles/health/wearable-ecg-patch-could-save-millions-of-heart-disease-patients/article_f8fe5358-3018-5cf4-ae86-2ea364b220b5.html>
+
+---
+
+## Sablan named special assistant for climate policy and planning
+
+date: 2023-10-31, from: The Guam Daily Post
+
+SAIPAN - Commonwealth of the Northern Mariana Islands Gov. Arnold I. Palacios has appointed former CNMI Rep. Tina Sablan special assistant for climate policy and planning. 
+
+<https://www.postguam.com/news/cnmi/sablan-named-special-assistant-for-climate-policy-and-planning/article_50a2d1b2-7771-11ee-a0d3-0318fba5d948.html>
+
+---
+
+## Governor, other NMI officials visit Taiwan
+
+date: 2023-10-31, from: The Guam Daily Post
+
+SAIPAN - Commonwealth of the Northern Mariana Islands Gov. Arnold I. Palacios and other CNMI officials left for Taiwan on Monday for a six-day visit. 
+
+<https://www.postguam.com/news/cnmi/governor-other-nmi-officials-visit-taiwan/article_3dabe784-7770-11ee-81f2-4f3e8e22002f.html>
+
+---
+
+## Kingman refiles contempt charge against Torres
+
+date: 2023-10-31, from: The Guam Daily Post
+
+SAIPAN - Special prosecutor James Robert Kingman has refiled the contempt charge against former Commonwealth of the Northern Mariana Islands Gov. Ralph DLG Torres for failing to comply with a legislative subpoena on Dec. 10, 2021. 
+
+<https://www.postguam.com/news/cnmi/kingman-refiles-contempt-charge-against-torres/article_493d60a8-7772-11ee-b74f-fbc0824b3c26.html>
+
+---
+
+## Children are dying because antibiotics are failing: study
+
+date: 2023-10-31, from: The Guam Daily Post
+
+Researchers discovered many antibiotics were less than 50 percent effective at treating infections pneumonia, sepsis and meningitis in kids. 
+
+<https://www.postguam.com/lifestyles/health/children-are-dying-because-antibiotics-are-failing-study/article_46158131-fa3a-5b4b-91d2-57d14eb8fd22.html>
+
+---
+
+## Moylan’s ‘Deliver for Veterans Act’ gets public hearing
+
+date: 2023-10-31, from: The Guam Daily Post
+
+A bill in Congress to provide veterans with "adaptive vehicles at no cost" will get a public hearing on Thursday. 
+
+<https://www.postguam.com/news/local/moylan-s-deliver-for-veterans-act-gets-public-hearing/article_01a75b4a-7795-11ee-a64a-47f4b23a83ea.html>
+
+---
+
+## New UOG Press children’s book series promotes CHamoru culture
+
+date: 2023-10-31, from: The Guam Daily Post
+
+The University of Guam Press recently announced that it will be launching a children’s book series. 
+
+<https://www.postguam.com/news/local/new-uog-press-children-s-book-series-promotes-chamoru-culture/article_15f01bb0-73c5-11ee-9a27-13b515008238.html>
+
+---
+
+## Mother, son accused of assaulting officers
+
+date: 2023-10-31, from: The Guam Daily Post
+
+A man suspected of violating a court order allegedly assaulted two officers with the Guam Police Department who had to use a stun gun and a baton to restrain him, while also preventing the man's mother and a dog from… 
+
+<https://www.postguam.com/news/local/mother-son-accused-of-assaulting-officers/article_923eb434-7784-11ee-aae1-1f9c7c0465b0.html>
+
+---
+
+## 'Joyride to prison' suspect charged with aggravated assault of woman
+
+date: 2023-10-31, from: The Guam Daily Post
+
+A man who last year was suspected of livestreaming a "joyride to prison" is facing new charges of aggravated assault. 
+
+<https://www.postguam.com/news/local/joyride-to-prison-suspect-charged-with-aggravated-assault-of-woman/article_f8d02946-7791-11ee-83bf-a7ccf4c17c78.html>
+
+---
+
+## Governor: Medical complex not a  pet project, will attract specialists
+
+date: 2023-10-31, from: The Guam Daily Post
+
+As some call for local leaders to scale down plans for a full medical complex to just a new public hospital, Gov. Lou Leon Guerrero asks "why do we limit ourselves" from the possibility of "getting comprehensive continuum, 360-degree care… 
+
+<https://www.postguam.com/news/local/governor-medical-complex-not-a-pet-project-will-attract-specialists/article_87f0836e-771f-11ee-9aa1-3323de2f30ae.html>
+
+---
+
+## San Nicolas fireworks bill passes
+
+date: 2023-10-31, from: The Guam Daily Post
+
+Bill 9-37, the measure to legalize consumer-grade fireworks on Guam, had proven to be one of the most contentious measures that lawmakers have taken up this session, drawing concerns about conflicts of interest, discourse on parliamentary procedure and even statements… 
+
+<https://www.postguam.com/news/local/san-nicolas-fireworks-bill-passes/article_381a9a88-77b4-11ee-847d-83f112bdffd6.html>
+
+---
+
+## Palau National Marine Sanctuary Named a Blue Spark in Growing Network of Outstanding Marine Protected Areas
+
+date: 2023-10-31, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="66873" data-permalink="https://islandtimes.org/palau-national-marine-sanctuary-named-a-blue-spark-in-growing-network-of-outstanding-marine-protected-areas/pr_photo2_researchersinpnms/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?fit=2560%2C1920&amp;ssl=1" data-orig-size="2560,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR_Photo2_ResearchersInPNMS" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PR_Photo2_ResearchersInPNMS-scaled.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>The Marine Conservation&#160;Institute and the Palau International Coral Reef Center (PICRC), announced that Palau National Marine Sanctuary (PNMS) is a Blue Spark marine protected area collaboration. The Blue Spark designation reflects the leadership and commitment of PICRC to effectively implement the PNMS and shows that the protected area is making progress towards earning a prestigious [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-national-marine-sanctuary-named-a-blue-spark-in-growing-network-of-outstanding-marine-protected-areas/">Palau National Marine Sanctuary Named a Blue Spark in Growing Network of Outstanding Marine Protected Areas</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-national-marine-sanctuary-named-a-blue-spark-in-growing-network-of-outstanding-marine-protected-areas/>
+
+---
+
+## GAO  finds US agencies did not timely address questioned grant spending of RMI, Palau, FSM
+
+date: 2023-10-31, from: Island Times
+
+<p>The United States Accountability Office said agencies such as the U.S. Department of Health and Human Services (HHS) and the U.S. Department of the Interior (DOI) did not address “questioned spending “ of more than $3 million in grants given to Palau, RMI, and FSM. The report released late last week said each country must [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/gao-finds-us-agencies-did-not-timely-address-questioned-grant-spending-of-rmi-palau-fsm/">GAO  finds US agencies did not timely address questioned grant spending of RMI, Palau, FSM</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/gao-finds-us-agencies-did-not-timely-address-questioned-grant-spending-of-rmi-palau-fsm/>
+
+---
+
+## Lift of the reef fish export ban proposed
+
+date: 2023-10-31, from: Island Times
+
+<p>A proposal to lift the ban on the export of reef fish and other marine products has been introduced in the Senate, a year before the general election. The proposal comes amid pressure on politicians to amend the law, which was passed in 2020 to protect Palau&#8217;s reef fish populations. “This is a request we [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/lift-of-the-reef-fish-export-ban-proposed/">Lift of the reef fish export ban proposed</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/lift-of-the-reef-fish-export-ban-proposed/>
+
+---
+
+## MHHS Bai turned over after renovation
+
+date: 2023-10-31, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="66867" data-permalink="https://islandtimes.org/mhhs-bai-turned-over-after-renovation/img_1634/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?fit=2560%2C1707&amp;ssl=1" data-orig-size="2560,1707" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 90D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1698250212&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;35&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_1634" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/IMG_1634-scaled.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>Palau Ministry of Health and Human Services (MHHS) received a fully renovated and colorful meeting house (bai) for the patients at the Mantekang, waterfront area of the Belau National Hospital yesterday. The facility was renovated within three weeks by the Palau Community College and turned over to the Ministry of Health. The facility was first [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/mhhs-bai-turned-over-after-renovation/">MHHS Bai turned over after renovation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/mhhs-bai-turned-over-after-renovation/>
+
+---
+
+## Three states up for general elections before year-end
+
+date: 2023-10-31, from: Island Times
+
+<p>Aimeliik State with mostly unopposed hamlet candidates Before 2023 ends, three states will hold general elections, selecting their state governors and the hamlet representatives.&#160; Aimeliik State, Ngeremlengui State, and Melekeok State will hold their general elections with Aimeliik State elections this November 14, 2023. Ngeremlengui will have its election on December 5th, with a deadline [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/three-states-up-for-general-elections-before-year-end/">Three states up for general elections before year-end</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/three-states-up-for-general-elections-before-year-end/>
+
+---
+
+## Majority of Pacific nations voted against the UN resolution on the humanitarian truce
+
+date: 2023-10-31, from: Island Times
+
+<p>Most Pacific Islands Forum member nations voted against a UN resolution calling for a humanitarian truce in Gaza. Fiji, &#160;Marshall Islands, Federated States of Micronesia ( FSM), Nauru, Papua New Guinea, and Tonga voted with the United States and Israel. Australia, &#160;Palau, Tuvalu, Kiribati, and Vanuatu abstained while Samoa did not participate in the voting. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/majority-of-pacific-nations-voted-against-the-un-resolution-on-the-humanitarian-truce/">Majority of Pacific nations voted against the UN resolution on the humanitarian truce</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/majority-of-pacific-nations-voted-against-the-un-resolution-on-the-humanitarian-truce/>
+
+---
+
+## ADB marks formal opening of Marshall Islands office
+
+date: 2023-10-31, from: Island Times
+
+<p>MAJURO, 30 OCTOBER 2023 (ADB) &#8212; The Asian Development Bank (ADB) joined the Government of Marshall Islands in a ceremony today to officially open ADB’s Marshall Islands Pacific Country Office (PCO) in Majuro.&#160; The Marshall Islands PCO has been operational since 2019, but the opening of a dedicated office space was delayed due to the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/adb-marks-formal-opening-of-marshall-islands-office/">ADB marks formal opening of Marshall Islands office</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/adb-marks-formal-opening-of-marshall-islands-office/>
+
+---
+
+## Letter to Editor
+
+date: 2023-10-31, from: Island Times
+
+<figure><img width="1024" height="691" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?fit=1024%2C691&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?resize=300%2C202&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?resize=1024%2C691&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?resize=768%2C518&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?resize=1536%2C1037&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?resize=2048%2C1382&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?resize=1200%2C810&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?resize=1568%2C1058&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?resize=400%2C270&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?fit=1024%2C691&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="66856" data-permalink="https://islandtimes.org/letter-to-editor-2/swj-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?fit=2560%2C1728&amp;ssl=1" data-orig-size="2560,1728" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="SWJ-2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?fit=300%2C202&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/SWJ-2-scaled.jpeg?fit=780%2C526&amp;ssl=1" /></figure>
+<p>Dear Editor, As we know, much has been said and written, in the local media, and will likely continue, about Mr. Surangel S. Whipps, Jr., (SWJ), as our president, a leader, a politician, and a businessman. However, little is known about the man as a person from a humble beginning, to who he is today. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/letter-to-editor-2/">Letter to Editor</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/letter-to-editor-2/>
+
+---
+
+## HUMILITY and GRACE
+
+date: 2023-10-31, from: Island Times
+
+<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/WC1-1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/WC1-1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/WC1-1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/WC1-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/WC1-1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/WC1-1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/WC1-1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="66853" data-permalink="https://islandtimes.org/humility-and-grace/wc1-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/WC1-1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/WC1-1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/WC1-1.jpg?fit=524%2C522&amp;ssl=1" /></figure>
+<p>Pride covers shame and hides our fears.&#160; Pride lies. C.S. Lewis in his book Mere Christianity writes, &#8220;Pride is competitive by its very nature: that is why it goes on and on. If I am a proud man (human), then as long as there in one man in the whole world more powerful, or richer [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/humility-and-grace/">HUMILITY and GRACE</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/humility-and-grace/>
+
+---
+
+## Why Blue Pacific’s leaders should be discussing Seabed Mining in Rarotonga?
+
+date: 2023-10-31, from: Island Times
+
+<figure><img width="225" height="225" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/images-1-1.png?fit=225%2C225&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/images-1-1.png?w=225&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/images-1-1.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/images-1-1.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/images-1-1.png?fit=225%2C225&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/images-1-1.png?fit=225%2C225&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="66851" data-permalink="https://islandtimes.org/why-blue-pacifics-leaders-should-be-discussing-seabed-mining-in-rarotonga/images-1-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/images-1-1.png?fit=225%2C225&amp;ssl=1" data-orig-size="225,225" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (1)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/images-1-1.png?fit=225%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/images-1-1.png?fit=225%2C225&amp;ssl=1" /></figure>
+<p>By Dr Satyendra Prasad, Senior Fellow – Carnegie Endowment for International Peace&#160; WASHINGTON (CEFIP) &#8212; Seabed mining needs to be discussed at the Pacific Islands Forum Meeting in Rarotonga. Because the ocean is such a large part of the Pacific’s economic and social fabric, this cannot be left to the International Seabed Authority (ISA) and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/why-blue-pacifics-leaders-should-be-discussing-seabed-mining-in-rarotonga/">Why Blue Pacific’s leaders should be discussing Seabed Mining in Rarotonga?</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/why-blue-pacifics-leaders-should-be-discussing-seabed-mining-in-rarotonga/>
+
+---
+
+## China believes the path to a Xi-Biden meeting in San Francisco in November won’t be ‘smooth sailing’
+
+date: 2023-10-31, from: Island Times
+
+<figure><img width="1024" height="702" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/China-believes.jpg?fit=1024%2C702&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/China-believes.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/China-believes.jpg?resize=300%2C206&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/China-believes.jpg?resize=1024%2C702&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/China-believes.jpg?resize=768%2C526&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/China-believes.jpg?resize=1200%2C822&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/China-believes.jpg?resize=400%2C274&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/China-believes.jpg?fit=1024%2C702&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="66849" data-permalink="https://islandtimes.org/china-believes-the-path-to-a-xi-biden-meeting-in-san-francisco-in-november-wont-be-smooth-sailing/antony-blinkenwang-yi/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/China-believes.jpg?fit=1249%2C856&amp;ssl=1" data-orig-size="1249,856" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4.5&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;ILCE-9M2&quot;,&quot;caption&quot;:&quot;Secretary of State Antony Blinken shake hands with China&#039;s Foreign Minister Wang Yi after a bilateral meeting at the State Department in Washington, Thursday, Oct. 26, 2023. (AP Photo\/Jose Luis Magana)&quot;,&quot;created_timestamp&quot;:&quot;1698354715&quot;,&quot;copyright&quot;:&quot;Copyright 2023 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;43&quot;,&quot;iso&quot;:&quot;2000&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;Antony Blinken,Wang Yi&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Antony Blinken,Wang Yi" data-image-description="" data-image-caption="&lt;p&gt;Secretary of State Antony Blinken shake hands with China&#8217;s Foreign Minister Wang Yi after a bilateral meeting at the State Department in Washington, Thursday, Oct. 26, 2023. (AP Photo/Jose Luis Magana)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/China-believes.jpg?fit=300%2C206&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/China-believes.jpg?fit=780%2C535&amp;ssl=1" /></figure>
+<p>BEIJING (AP) — China’s foreign minister believes the road to an expected meeting between President Xi Jinping and U.S. President Joe Biden will not be &#8220;smooth sailing” and both sides must work together to achieve results, the foreign ministry said Sunday. Wang Yi met with Biden, as well as Secretary of State Antony Blinken and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-believes-the-path-to-a-xi-biden-meeting-in-san-francisco-in-november-wont-be-smooth-sailing/">China believes the path to a Xi-Biden meeting in San Francisco in November won&#8217;t be &#8216;smooth sailing&#8217;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/china-believes-the-path-to-a-xi-biden-meeting-in-san-francisco-in-november-wont-be-smooth-sailing/>
+
+---
+
+## Fiji PM announces Partnership with Google to establish a major cable project to enhance conectivity
+
+date: 2023-10-31, from: Island Times
+
+<p>SUVA, 27 OCTOBER 2023 (FIJI GOVT) &#8212; Fiji&#8217;s Prime Minister Sitiveni Rabuka has announced the South Pacific Connect Initiative a significant milestone in reducing the digital divide and enhancing the capacity, resilience and reliability of digital connectivity across the Pacific.&#160; The initiative will establish a new subsea cable to link the United States, Fiji, Australia, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/fiji-pm-announces-partnership-with-google-to-establish-a-major-cable-project-to-enhance-conectivity/">Fiji PM announces Partnership with Google to establish a major cable project to enhance conectivity</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/fiji-pm-announces-partnership-with-google-to-establish-a-major-cable-project-to-enhance-conectivity/>
+
+---
+
+## ‘Lack of compassion’ Former Fiji PM Bainimarama says of UN vote
+
+date: 2023-10-31, from: Island Times
+
+<p>SUVA, 30 OCTOBER 2023 (FIJI LIVE) &#8212; The former Prime Minister Voreqe Bainimarama says Fiji’s vote at the United Nations on the war between Israel and Hamas demmonstrated our lack of compassion for those who have been displaced as a result of the conflict. Bainimarama said that instead of taking sides in the conflict, government’s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/lack-of-compassion-former-fiji-pm-bainimarama-says-of-un-vote/">&#8216;Lack of compassion&#8217; Former Fiji PM Bainimarama says of UN vote</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/lack-of-compassion-former-fiji-pm-bainimarama-says-of-un-vote/>
+
+---
+
+## David Adeang elected as new Nauru President
+
+date: 2023-10-31, from: Island Times
+
+<p>YAREN, 30 OCTOBER 2023 (PACNEWS/RNZ PACIFIC) &#8212; Nauru&#8217;s Parliament has elected Member of Parliament from Ubenide, David Adeang as the Pacific nation’s new President. The member for Menen, Lionel Aingimea nominated David Adeang who accepted the nomination while the member from Buada, Bingham nominated Delvin Thoma from the constituency of Aiwo.&#160; A secret ballot was [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/david-adeang-elected-as-new-nauru-president/">David Adeang elected as new Nauru President</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/david-adeang-elected-as-new-nauru-president/>
+
+---
+
+## Team Palau prepares to leave for Pacific Games
+
+date: 2023-10-31, from: Island Times
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="66839" data-permalink="https://islandtimes.org/team-palau-prepares-to-leave-for-pacific-games/team-palau-prepares-for-pacific-games/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?fit=1500%2C2000&amp;ssl=1" data-orig-size="1500,2000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Team Palau prepares for Pacific Games" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Team-Palau-prepares-for-Pacific-Games.jpeg?fit=768%2C1024&amp;ssl=1" /></figure>
+<p>Team Palau gathered and met Oct 26th to finalize Team travel plans for departing Palau to Solomon Islands for the Pacific Games, on November 15th and returning Dec 3rd. The total athletes and officials confirmed now to the games is now at 101. Palau will participate in 9 sports of Archery, Athletics, 3&#215;3 Basketball, Beach [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/team-palau-prepares-to-leave-for-pacific-games/">Team Palau prepares to leave for Pacific Games</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/team-palau-prepares-to-leave-for-pacific-games/>
+
+---
+
+## Palau Weightlifting Federation host first annual weightlifting competition
+
+date: 2023-10-31, from: Island Times
+
+<figure><img width="1024" height="641" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PWF-2023-Competition.png?fit=1024%2C641&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PWF-2023-Competition.png?w=1400&amp;ssl=1 1400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PWF-2023-Competition.png?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PWF-2023-Competition.png?resize=1024%2C641&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PWF-2023-Competition.png?resize=768%2C481&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PWF-2023-Competition.png?resize=1200%2C751&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PWF-2023-Competition.png?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PWF-2023-Competition.png?fit=1024%2C641&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="66837" data-permalink="https://islandtimes.org/palau-weightlifting-federation-host-first-annual-weightlifting-competition/pwf-2023-competition/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PWF-2023-Competition.png?fit=1400%2C876&amp;ssl=1" data-orig-size="1400,876" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="PWF 2023 Competition" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PWF-2023-Competition.png?fit=300%2C188&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/PWF-2023-Competition.png?fit=780%2C488&amp;ssl=1" /></figure>
+<p>On Saturday, October 14th, 2023, the Palau Weightlifting Federation (PWF) hosted its 1st Annual Weightlifting Competition. The competition took place at the Palau National Gymnasium and was attended by 60 people. Participants in the competition were members of the Team Palau Weightlifting Team. This competition was a showcase of these athletes who will represent the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-weightlifting-federation-host-first-annual-weightlifting-competition/">Palau Weightlifting Federation host first annual weightlifting competition</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-weightlifting-federation-host-first-annual-weightlifting-competition/>
+
+---
+
+## D-backs, Rangers combine for no errors in first two World Series games, continuing year-long trend
+
+date: 2023-10-31, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Dbacks.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Dbacks.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Dbacks.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Dbacks.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Dbacks.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Dbacks.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="66834" data-permalink="https://islandtimes.org/d-backs-rangers-combine-for-no-errors-in-first-two-world-series-games-continuing-year-long-trend/world-series-diamondbacks-rangers-baseball/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Dbacks.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Arizona Diamondbacks&#039; Geraldo Perdomo, left, and Ketel Marte celebrate after Game 2 of the baseball World Series against the Texas Rangers Saturday, Oct. 28, 2023, in Arlington, Texas. The Diamondbacks won 9-1. (AP Photo\/Godofredo A. V\u00e1squez)&quot;,&quot;created_timestamp&quot;:&quot;1698548712&quot;,&quot;copyright&quot;:&quot;Copyright 2023 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;2000&quot;,&quot;shutter_speed&quot;:&quot;0.0005&quot;,&quot;title&quot;:&quot;World Series Diamondbacks Rangers Baseball&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="World Series Diamondbacks Rangers Baseball" data-image-description="" data-image-caption="&lt;p&gt;Arizona Diamondbacks&#8217; Geraldo Perdomo, left, and Ketel Marte celebrate after Game 2 of the baseball World Series against the Texas Rangers Saturday, Oct. 28, 2023, in Arlington, Texas. The Diamondbacks won 9-1. (AP Photo/Godofredo A. Vásquez)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Dbacks.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/10/Dbacks.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By DAVID BRANDT AP Baseball Writer PHOENIX (AP) — Arizona Diamondbacks shortstop Geraldo Perdomo&#160;ranged a step to his right and snagged a hot smash with a smooth, backhanded play, wheeling and firing to first baseman Christian Walker, who stretched for the ball, picked up the short hop and somehow managed to keep his foot on [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/d-backs-rangers-combine-for-no-errors-in-first-two-world-series-games-continuing-year-long-trend/">D-backs, Rangers combine for no errors in first two World Series games, continuing year-long trend</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/d-backs-rangers-combine-for-no-errors-in-first-two-world-series-games-continuing-year-long-trend/>
+
+---
+
+## Guam Supreme Court: abortion ban has no force or effect
+
+date: 2023-10-31, from: The Guam Daily Post
+
+The Supreme Court of Guam has held that the island's 30-year-old ban on abortion, Public Law 20-134, was repealed by implication through subsequent legislation and "no longer possesses any force or effect in Guam." 
+
+<https://www.postguam.com/news/local/guam-supreme-court-abortion-ban-has-no-force-or-effect/article_798997e4-77b4-11ee-af1c-07b7b77045cb.html>
+
+---
+
+## Energy credit extension passes
+
+date: 2023-10-31, from: The Guam Daily Post
+
+With a vote of nine to six, Bill 173-37, the energy credit extension measure, passed the Guam Legislature Tuesday afternoon. 
+
+<https://www.postguam.com/news/local/energy-credit-extension-passes/article_8c3d0a1e-77b5-11ee-9066-d7f6b6c6a812.html>
+
+---
+
+## Ka Ipu Kukui Me Ka ‘Ie ‘Ie Dedicates Heartfelt Performances for PIR
+
+date: 2023-10-31, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+Ka Ipu Kukui Me Ka &#8216;Ie &#8216;Ie, also known as the Hawaiian Club, kicked off Chaminade University&#8217;s 2023 Pacific Island Review on Friday with three performances. Although the annual PIR is a time of celebration with upbeat music, the Hawaiian Club brought the calm before the storm and dedicated its performances to the Maui fire tragedy... 
+
+<https://thesilversword.com/news/2023/10/30/ka-ipu-kukui-me-ka-ie-ie-dedicates-heartfelt-performances-for-pir/>
+
+---
+
+## Isaiah Atalig Makes the Most of His Chaminade Experience
+
+date: 2023-10-31, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+Audience members might have seen a familiar face amongst the performers at the annual PIR event on Friday. Isaiah Atalig was a part of Tao Tao Marianas, Chaminade Micronesian Club, and The Filipino Club which were three of the clubs that performed. The Pacific Island Review is an annual event for clubs (Hawaiian Club, Tao... 
+
+<https://thesilversword.com/features/2023/10/30/isaiah-atalig-makes-the-most-of-his-chaminade-experience/>
+
+---
+
+## Inclusive sports program encourages all keiki to keep active
+
+date: 2023-10-31, from: University of Hawaiʻi News
+
+<p>The <abbr>P.L.A.Y.</abbr> for All program allows keiki, including those with disabilities, to participate in warm-ups, motor skills and locomotor activities and games.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/30/cds-play-for-all-program/">Inclusive sports program encourages all keiki to keep active</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/30/cds-play-for-all-program/>
+
+---
+
+## Free mental health toolkit helps individuals with disabilities with Maui wildfire trauma
+
+date: 2023-10-31, from: University of Hawaiʻi News
+
+<p>The toolkit consists of trauma-informed workbooks and resource cards for individuals with disabilities and their families recovering from the Maui wildfires.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/30/cds-toolkit-for-individuals-with-disabilities/">Free mental health toolkit helps individuals with disabilities with Maui wildfire trauma</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/30/cds-toolkit-for-individuals-with-disabilities/>
 
 ---
 
@@ -574,6 +1112,16 @@ date: 2023-10-30, from: Tia Belau (Palau's First Newspaper)
 By Kambes Kesolei The Ministry of Agriculture, Fisheries, and the Environment (MAFE) is proposing new regulations to incentivize local pork,&#8230; You must be logged in and subscribed to view this content. 
 
 <https://www.tiabelaunews.com/?p=7349>
+
+---
+
+## GAO found questionable COFA-related expenditures in freely associated states
+
+date: 2023-10-30, from: Pacific Island Times
+
+By Bryan Manabat The U.S. Government Accountability Office has found questionable expenditures of grants awarded to the Federated States... 
+
+<https://www.pacificislandtimes.com/post/gao-found-questionable-cofa-related-expenditures-by-freely-associated-states>
 
 ---
 

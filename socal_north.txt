@@ -31,7 +31,8 @@ https://wp.dailybruin.com/feed/ "~The Daily Bruin (UCLA Student Newspaper)"
 https://theroundupnews.com/feed/ "~The Round Up (Peirce College Student Newspaper)"
 https://theoccidentalnews.com/feed "~The Occidental News (Occidental College Student Newspaper)"
 http://civiewnews.com/feed/ "~CI View (CSCI Student Newspaper)"
-https://www.pcccourier.com/feed "~PCC Courier (PCC Student Newspaper)"
+# Pasadena City College Courier has some specific header/user agent strings it is expecting, 2023-10-31 RSD
+#https://www.pcccourier.com/feed "~PCC Courier (PCC Student Newspaper)"
 # Add Mount Saint Mary's University Student Newspapers
 # UCSB Student Paper
 

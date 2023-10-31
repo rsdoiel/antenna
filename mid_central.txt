@@ -7,9 +7,9 @@ https://www.stmarymagdalenechurch.org/news/ "~St. Mary Magdalene Church, Atwater
 https://www.arrl.org/arrl.rss "~Amateur Radio Relay League News"
 https://www.arnewsline.org/?format=rss "~Amateur Radio NewslinE"
 #https://stepoutside.org/rss/ "~Step Outside, Fishing, Atwater, CA"
-https://www.mccd.edu/news/feed/ "~Blue Devil News (Merced Community College Student Newspaper)"
-https://blogs.ucmerced.edu/prodigy/feed/ "~The Prodogy (UC Merced's Student Newspaper)"
-https://fscollegian.com/feed/ "~The Collegian (Cal State Fresno's Student Newspaper)"
+https://www.mccd.edu/news/feed/ "~Blue Devil News (Merced Community College Student Newspaper)" curl/8.4.0
+https://blogs.ucmerced.edu/prodigy/feed/ "~The Prodogy (UC Merced's Student Newspaper)" curl/8.4.0
+https://fscollegian.com/feed/ "~The Collegian (Cal State Fresno's Student Newspaper)" curl/8.4.0
 
 #NOAA feeds 
 https://alerts.weather.gov/cap/wwaatmget.php?x=CAZ302&y=1 "~Merced, Madera and Mendota Alerts"

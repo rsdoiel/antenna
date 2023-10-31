@@ -1,12 +1,11 @@
-# Updates
 
-(date: 2023-10-30 17:06:56)
+(date: 2023-10-31 16:17:22)
 
 ---
 
 ## From 'Halloween' To 'Back To The Future': Why Filmmakers Love Pasadena and South Pas
 
-date: 2023-10-30, from: The LAist
+date: 2023-10-31, from: The LAist
 
 Pasadena and South Pasadena are go-to destinations for film location scouts on the lookout for stand-ins for the Midwest and East Coast. 
 
@@ -209,7 +208,7 @@ The decision – enacted by the LA Superior Court – created a new pre-trial ar
 
 date: 2023-10-30, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Oct. 29 at 7:48 p.m.</em>
+<em>This post was updated Oct. 31 at 4:14 p.m.</em>
 I love Google. I love the sleek, minimalist and colorful aesthetics of its products and the convenience of a centralized, easily accessible cloud. 
 
 <https://dailybruin.com/2023/10/29/opinion-internet-privacy-matters-more-than-googles-glittering-facade/>
@@ -278,7 +277,7 @@ Seven members of the UCLA men&#8217;s tennis team traveled to Pepperdine to comp
 date: 2023-10-29, from: City of Santa Clarita
 
 <p>Tips for a Spooky and Safe Halloween By City Manager Ken Striplin Halloween is just a few days away and with a number of spirited and spooky activities, there is something for everyone to enjoy in Santa Clarita. Whether you’re dressing in costume to take the kids trick-or-treating or gathering with friends, family and neighbors [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/29/tips-for-a-spooky-and-safe-halloween/">Tips for a Spooky and Safe Halloween</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/10/29/tips-for-a-spooky-and-safe-halloween/">Tips for a Spooky and Safe Halloween</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
  
 
 <https://santaclarita.gov/blog/2023/10/29/tips-for-a-spooky-and-safe-halloween/>
@@ -360,7 +359,7 @@ In “The Allure of Thug Life,” the audience follows the coming-of-age story o
 
 date: 2023-10-28, from: The Daily Trojan (USC Student Newspaper)
 
-<p>Jack Hallinan and Kasey Kazliner report live from Los Angeles Memorial Coliseum.</p>
+<p>Jack Hallinan and Kasey Kazliner report live from California Memorial Stadium.</p>
 <p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/28/usc-vs-cal-live-updates/">USC at Cal — as it happened</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
@@ -483,7 +482,7 @@ By Aileen Lawrence On Nov. 18, 2022, CI students came together to protest for Ti
 date: 2023-10-27, from: City of Santa Clarita
 
 <p>“TOUCHSTONES – TRANSITIONS – TRANQUILITY” BY FRANK ROCK AT THE MAIN The City of Santa Clarita is proud to present “Touchstones – Transitions – Tranquility” by celebrated local artist Frank Rock at The MAIN in Old Town Newhall. This captivating exhibition will be on display from Monday, October 30, through Tuesday, November 28, 2023, with [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/27/touchstones-transitions-tranquility-by-frank-rock-at-the-main/">&#8220;Touchstones &#8211; Transitions &#8211; Tranquility&#8221; by Frank Rock at The MAIN</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/10/27/touchstones-transitions-tranquility-by-frank-rock-at-the-main/">&#8220;Touchstones &#8211; Transitions &#8211; Tranquility&#8221; by Frank Rock at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
  
 
 <https://santaclarita.gov/blog/2023/10/27/touchstones-transitions-tranquility-by-frank-rock-at-the-main/>
@@ -575,7 +574,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 
 <p>Many people, including students at our Christian-oriented Pepperdine University, have altogether given up on dating because it has become impossible to differentiate between who is seeking to date long-term and who is not. Regardless of one’s stance on topics like hook-up culture, society’s lack of setting boundaries between what type of dating people want has [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/is-dating-hopeless/">Is Dating Hopeless?</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+<p>The post <a href="https://pepperdinebeacon.com/is-dating-hopeless/">Is Dating Hopeless?</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
  
 
 <https://pepperdinebeacon.com/is-dating-hopeless/?utm_source=rss&utm_medium=rss&utm_campaign=is-dating-hopeless>
@@ -587,7 +586,7 @@ date: 2023-10-27, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 date: 2023-10-27, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 
 <p>On September 16, 2023, hundreds of Pepperdine students, faculty, alumni, and visitors gathered for the annual worship summit in Firestone Fieldhouse. Jonathan Evans, Dallas Cowboys Chaplain and former NFL Fullback gave the message with celebrated artists United Voice Worship and Phil Wickham performing.&#160; Wickham is a two-time Grammy-nominated contemporary Christian artist with hundreds of millions [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/interview-with-christian-musician-phil-wickham/">Award-Winning Musician Phil Wickham Gives Insight into Worship</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+<p>The post <a href="https://pepperdinebeacon.com/interview-with-christian-musician-phil-wickham/">Award-Winning Musician Phil Wickham Gives Insight into Worship</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
  
 
 <https://pepperdinebeacon.com/interview-with-christian-musician-phil-wickham/?utm_source=rss&utm_medium=rss&utm_campaign=interview-with-christian-musician-phil-wickham>
@@ -1681,7 +1680,7 @@ date: 2023-10-22, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-22, from: City of Santa Clarita
 
 <p>State of the City 2023 – Event Extravaganza By City Manager Ken Striplin Santa Clarita is more than just a City; it’s an experience. It&#8217;s where families thrive, businesses prosper and community spirit is strong. You don’t need to look further than the City&#8217;s roster of top-tier events to see why. Be it the rhythmic [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/22/state-of-the-city-2023-event-extravaganza/">State of the City 2023 &#8211; Event Extravaganza</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/10/22/state-of-the-city-2023-event-extravaganza/">State of the City 2023 &#8211; Event Extravaganza</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
  
 
 <https://santaclarita.gov/blog/2023/10/22/state-of-the-city-2023-event-extravaganza/>
@@ -1827,7 +1826,7 @@ The first game of the night was between Coyote Joe’s and Straight Up Builders.
 date: 2023-10-20, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 
 <p>On Tuesday night, seniors Niamh Rolston, Peyton Stewart, Asha Weir and Deslyn Williams were killed by a vehicle as they walked alongside Pacific Coast Highway. The following day, the university announced the names of the students lost upon confirmation with the Los Angeles County Sheriff&#8217;s Department (LASD). Vice President for Student Affairs Connie Horton said [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/pepperdine-mourns-loss-of-four-seniors/">Pepperdine Mourns Loss of Four Seniors</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+<p>The post <a href="https://pepperdinebeacon.com/pepperdine-mourns-loss-of-four-seniors/">Pepperdine Mourns Loss of Four Seniors</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
  
 
 <https://pepperdinebeacon.com/pepperdine-mourns-loss-of-four-seniors/?utm_source=rss&utm_medium=rss&utm_campaign=pepperdine-mourns-loss-of-four-seniors>
@@ -1859,7 +1858,7 @@ By Ryanne Slagiel  Graphic by Javier Vargas Student research is not just for gr
 date: 2023-10-20, from: City of Santa Clarita
 
 <p>MOBILE SPAY AND NEUTER SERVICES COMING TO SANTA CLARITA Spay and Neuter Clinic to be located at the Newhall Community Center &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; The City of Santa Clarita, in partnership with our contractor, the Los Angeles County Department of Animal Care and Control (DACC), is excited to announce that Simi Valley Non-Profit Spay and Neuter Clinic [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/20/mobile-spay-and-neuter-services-coming-to-santa-clarita/">Mobile Spay and Neuter Services Coming to Santa Clarita</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/10/20/mobile-spay-and-neuter-services-coming-to-santa-clarita/">Mobile Spay and Neuter Services Coming to Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
  
 
 <https://santaclarita.gov/blog/2023/10/20/mobile-spay-and-neuter-services-coming-to-santa-clarita/>
@@ -1871,7 +1870,7 @@ date: 2023-10-20, from: City of Santa Clarita
 date: 2023-10-20, from: City of Santa Clarita
 
 <p>JOIN US FOR MAKE A DIFFERENCE DAY AND HELP BETTER OUR COMMUNITY Give Back and Make a Difference! The City of Santa Clarita is preparing for Make A Difference Day on Saturday, October 28, and we&#8217;re looking for enthusiastic residents to join us on this incredible day of community service. Make A Difference Day is [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/20/join-us-for-make-a-difference-day-and-help-better-our-community/">Join Us for Make a Difference Day and Help Better Our Community</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/10/20/join-us-for-make-a-difference-day-and-help-better-our-community/">Join Us for Make a Difference Day and Help Better Our Community</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
  
 
 <https://santaclarita.gov/blog/2023/10/20/join-us-for-make-a-difference-day-and-help-better-our-community/>
@@ -2087,7 +2086,7 @@ Back for the first time since COVID-19, the 28th Annual Central Avenue Jazz Fest
 date: 2023-10-19, from: City of Santa Clarita
 
 <p>Next Stop, Vista Canyon!&#160; By Councilwoman Marsha McLean&#160; We are closing in on the completion of a project that I have been waiting for since its inception. Tomorrow, we will cut the ribbon and officially welcome commuters and residents alike to the Vista Canyon Multi-Modal Center! Located on the east side of Santa Clarita (27550 [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/19/next-stop-vista-canyon/">Next Stop, Vista Canyon!</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/10/19/next-stop-vista-canyon/">Next Stop, Vista Canyon!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
  
 
 <https://santaclarita.gov/blog/2023/10/19/next-stop-vista-canyon/>
@@ -2469,7 +2468,7 @@ Universal Studios Hollywood Horror Nights is an event that draws in upwards of 3
 date: 2023-10-16, from: City of Santa Clarita
 
 <p>2023 SIDEWALK POETRY WINNERS Bringing Artistic Expression to City Streets &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; The City of Santa Clarita is proud to announce the Sidewalk Poetry Winners for 2023. This year, poets were tasked with invoking The Senses of Home, delving into the sights, sounds, smells and more that define a person&#8217;s home within the community. &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Congratulations [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/16/2023-sidewalk-poetry-winners/">2023 Sidewalk Poetry Winners</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/10/16/2023-sidewalk-poetry-winners/">2023 Sidewalk Poetry Winners</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
  
 
 <https://santaclarita.gov/blog/2023/10/16/2023-sidewalk-poetry-winners/>
@@ -2505,7 +2504,7 @@ date: 2023-10-15, from: The Canyon News (COC Student Newspaper)
 date: 2023-10-15, from: City of Santa Clarita
 
 <p>SENSES: A Main Street Monster Mash By City Manager Ken Striplin It seems as though we were just announcing the transformation of Main Street in Old Town Newhall into a one-night Saint Patrick’s Day party, but time flies when you’re having a great time at SENSES Block Party. This event series has become a City-wide [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://santaclarita.gov/blog/2023/10/15/senses-a-main-street-monster-mash/">SENSES: A Main Street Monster Mash</a> appeared first on <a rel="nofollow" href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/10/15/senses-a-main-street-monster-mash/">SENSES: A Main Street Monster Mash</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
  
 
 <https://santaclarita.gov/blog/2023/10/15/senses-a-main-street-monster-mash/>
@@ -2547,7 +2546,7 @@ By Ashley Tolteca and Allen Monge
 date: 2023-10-13, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 
 <p>Late last year, during the aftermath of the COVID-19 lockdowns that kept musicians off the road for more than two years, superstar Taylor Swift announced her Eras tour. In a self-proclaimed act of generosity, tickets for the concerts were priced extremely low with VIP packages costing just $900 and other tickets selling for as little [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/the-high-cost-of-cheap-concert-tickets/">The High Cost of Cheap Concert Tickets</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+<p>The post <a href="https://pepperdinebeacon.com/the-high-cost-of-cheap-concert-tickets/">The High Cost of Cheap Concert Tickets</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
  
 
 <https://pepperdinebeacon.com/the-high-cost-of-cheap-concert-tickets/?utm_source=rss&utm_medium=rss&utm_campaign=the-high-cost-of-cheap-concert-tickets>
@@ -2559,7 +2558,7 @@ date: 2023-10-13, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 date: 2023-10-13, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 
 <p>Pepperdine University, once nearing the pinnacle in higher education rankings a few years ago, now finds itself in uncharted territory, ranking 76th of National Universities in the 2023 U.S. News and World Report (USNWR) rankings. This unexpected and substantial drop has sent shockwaves through the Pepperdine community and beyond. But what exactly led to this [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/pepperdine-rankings-drop-from-55th-to-76th-nationally/">Pepperdine Rankings Drop from 55th to 76th Nationally</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+<p>The post <a href="https://pepperdinebeacon.com/pepperdine-rankings-drop-from-55th-to-76th-nationally/">Pepperdine Rankings Drop from 55th to 76th Nationally</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
  
 
 <https://pepperdinebeacon.com/pepperdine-rankings-drop-from-55th-to-76th-nationally/?utm_source=rss&utm_medium=rss&utm_campaign=pepperdine-rankings-drop-from-55th-to-76th-nationally>
@@ -2743,7 +2742,7 @@ date: 2023-09-30, from: The Round Up (Peirce College Student Newspaper)
 date: 2023-09-29, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 
 <p>Prior to undergrad, life past the age of twenty-two seemed unfathomable. Now, as a proud class of 2022 Pepperdine alumna, the harsh realities of rental payments, personal finances, and the probability of wrinkles have proven to become constant threats to my personal pursuit of happiness.&#160; Though I once fell subject to the false promises of [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/the-case-against-higher-education-and-other-post-grad-revelations/">The Case Against Higher Education and Other Post-Grad Revelations</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+<p>The post <a href="https://pepperdinebeacon.com/the-case-against-higher-education-and-other-post-grad-revelations/">The Case Against Higher Education and Other Post-Grad Revelations</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
  
 
 <https://pepperdinebeacon.com/the-case-against-higher-education-and-other-post-grad-revelations/?utm_source=rss&utm_medium=rss&utm_campaign=the-case-against-higher-education-and-other-post-grad-revelations>
@@ -2755,7 +2754,7 @@ date: 2023-09-29, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 date: 2023-09-29, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 
 <p>Eyes of students, faculty, and Pepperdine community members glued upon the celebrity actor and producer, Chris Pratt, as he took his seat in the 16th annual September 11 Remembrance Ceremony. Over the course of the morning, special remarks were shared and the national anthem was sung; each portion of the ceremony operated familiarly to the [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/chris-pratt-revisits-american-patriotism-on-9-11/">Chris Pratt Revisits American Patriotism on 9/11</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+<p>The post <a href="https://pepperdinebeacon.com/chris-pratt-revisits-american-patriotism-on-9-11/">Chris Pratt Revisits American Patriotism on 9/11</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
  
 
 <https://pepperdinebeacon.com/chris-pratt-revisits-american-patriotism-on-9-11/?utm_source=rss&utm_medium=rss&utm_campaign=chris-pratt-revisits-american-patriotism-on-9-11>
@@ -2825,7 +2824,7 @@ date: 2023-10-09, from: The LAist
 date: 2023-09-22, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 
 <p>Imagine that your professor divides your class into small groups to discuss a particular question. Perhaps you are discussing a social challenge like homelessness or discrimination, or perhaps you are discussing a controversial essay concerning sexual identity or gun rights. After twenty minutes, your small group will report your group’s opinion with supporting arguments back [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/pursuing-the-truth-at-pepperdine/">Pursuing the Truth at Pepperdine</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+<p>The post <a href="https://pepperdinebeacon.com/pursuing-the-truth-at-pepperdine/">Pursuing the Truth at Pepperdine</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
  
 
 <https://pepperdinebeacon.com/pursuing-the-truth-at-pepperdine/?utm_source=rss&utm_medium=rss&utm_campaign=pursuing-the-truth-at-pepperdine>
@@ -2837,7 +2836,7 @@ date: 2023-09-22, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 date: 2023-09-22, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 
 <p>As a student enrolled in a Christian university, a specific question constantly circulates in my mind: How can I represent Jesus to individuals who know the story of Christ like the back of their hand, who attend church services, and who identify themselves as Christians? In Mark 16:15, Jesus states, &#8220;Go into all the world [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/being-a-beacon-of-faith-to-college-students/">Being a Beacon of Faith to College Students</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+<p>The post <a href="https://pepperdinebeacon.com/being-a-beacon-of-faith-to-college-students/">Being a Beacon of Faith to College Students</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
  
 
 <https://pepperdinebeacon.com/being-a-beacon-of-faith-to-college-students/?utm_source=rss&utm_medium=rss&utm_campaign=being-a-beacon-of-faith-to-college-students>
@@ -2998,7 +2997,7 @@ Of course none of this matters because you&rsquo;re reading it online.
 
 date: 2023-09-19, from: CSUN Library Blog, Cited
 
-<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2023/09/11.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" fetchpriority="high" /></div>Each year from September 15 to October 15, we get together and observe Latinx Heritage Month to celebrate the contributions of Latinx Americans. During this&#8230; 
+<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2023/09/11.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" /></div>Each year from September 15 to October 15, we get together and observe Latinx Heritage Month to celebrate the contributions of Latinx Americans. During this&#8230; 
 
 <https://library.csun.edu/blogs/cited/2023/09/19/celebrando-cultura-2023-spotlight-on-trailblazing-latinas/>
 
@@ -3019,7 +3018,7 @@ Here is a list of books from our catalog to assist you will end-of-life planning
 date: 2023-09-15, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 
 <p>What is academic freedom? To whom does it apply and where? What is its purpose and scope? What are its limits, and who determines its boundaries? Are academic freedom and the First Amendment right of “freedom of speech” identical concepts? If not, how are they related?&#160; These questions are probed by Daniel Gordon, professor of [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://pepperdinebeacon.com/academic-freedom-and-the-politicized-classroom/">Academic Freedom and the Politicized Classroom</a> appeared first on <a rel="nofollow" href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+<p>The post <a href="https://pepperdinebeacon.com/academic-freedom-and-the-politicized-classroom/">Academic Freedom and the Politicized Classroom</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
  
 
 <https://pepperdinebeacon.com/academic-freedom-and-the-politicized-classroom/?utm_source=rss&utm_medium=rss&utm_campaign=academic-freedom-and-the-politicized-classroom>
@@ -3195,7 +3194,7 @@ As we head into the long, hot stretch of Southern California summer, things typi
 
 date: 2023-07-15, from: CSUN Library Blog, Cited
 
-<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2023/07/Untitled-design2.png" class="attachment-medium size-medium wp-post-image" alt="Yellow sunglasses on blue and pink background" decoding="async" style="margin-bottom: 15px;" /></div>The CSUN University Library is here to keep you cool and connected this summer. While the hours may be shorter, the library remains your go-to&#8230; 
+<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2023/07/Untitled-design2.png" class="attachment-medium size-medium wp-post-image" alt="Yellow sunglasses on blue and pink background" decoding="async" style="margin-bottom: 15px;" loading="lazy" /></div>The CSUN University Library is here to keep you cool and connected this summer. While the hours may be shorter, the library remains your go-to&#8230; 
 
 <https://library.csun.edu/blogs/cited/2023/07/15/summer-updates-and-digital-connections/>
 

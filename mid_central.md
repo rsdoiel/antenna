@@ -1,6 +1,15 @@
-# Updates
 
-(date: 2023-10-30 17:06:55)
+(date: 2023-10-31 16:17:22)
+
+---
+
+## 95% of California Faculty Association union members vote to support CSU-wide strike
+
+date: 2023-10-31, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+After last week&#8217;s strike authorization vote, The California Faculty Association (CFA) announced in an email today that 95% of voting members support a strike. The CFA union represents 29,000 faculty across the 23 California State Universities, which serve 485,000 students, according to CFA’s website. The vote does not mean that a strike will happen. It... 
+
+<https://fscollegian.com/2023/10/95-of-california-faculty-association-union-members-vote-to-support-csu-wide-strike/>
 
 ---
 
