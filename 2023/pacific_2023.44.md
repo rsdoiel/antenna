@@ -1,5 +1,332 @@
 
-(date: 2023-10-31 16:17:24)
+(date: 2023-11-01 09:22:36)
+
+---
+
+## Fukushima water released without technical concerns, IAEA says
+
+date: 2023-11-01, from: Marianas Variety
+
+TOKYO (The Japan Times/Pacnews) — Japan's release of treated radioactive water from the crippled Fukushima No. 1 nuclear plant into the sea is “progressing as planned and without any technical concerns,” the United Nations nuclear watchdog has said. 
+
+<https://www.mvariety.com/news/regional_world/fukushima-water-released-without-technical-concerns-iaea-says/article_35bf70c0-7876-11ee-a8e9-e7c39ef98402.html>
+
+---
+
+## Fierce competition in men’s beach volleyball
+
+date: 2023-11-01, from: Marianas Variety
+
+(Northern Marianas Sports Association) — With 17 teams entered in the men’s beach volleyball event in the 2023 Pacific Games, Tyce Mister sees intense competition on the sand court in Honiara, the Solomon Islands. 
+
+<https://www.mvariety.com/sports/localsports/fierce-competition-in-men-s-beach-volleyball/article_5fbc5d48-7899-11ee-98ae-37b2b1c3d706.html>
+
+---
+
+## Mayor, faith-based leaders meet to discuss public cemetery, crime
+
+date: 2023-11-01, from: Marianas Variety
+
+SAIPAN Mayor RB Camacho met with leaders of different Christian denominations on Tuesday, Nov. 1, to seek their input on the public cemetery in Marpi and how they and the mayor’s office can help prevent crime. 
+
+<https://www.mvariety.com/news/local/mayor-faith-based-leaders-meet-to-discuss-public-cemetery-crime/article_5456097c-7894-11ee-a8ec-c79d382c174d.html>
+
+---
+
+## Kagman remains undefeated in softball league
+
+date: 2023-11-01, from: Marianas Variety
+
+KAGMAN High School’s varsity and junior varsity teams continue to dominate the SBL-PSS Interscholastic Boys High School Slow Pitch Softball League SY 23-24 after defeating their respective opponents Monday at the Dandan baseball field. 
+
+<https://www.mvariety.com/sports/localsports/kagman-remains-undefeated-in-softball-league/article_1debbaa4-7889-11ee-8584-6b8e19774485.html>
+
+---
+
+## Finance files tax lien against CNMI Manpower Services
+
+date: 2023-11-01, from: Marianas Variety
+
+THE Department of Finance on Thursday last week filed in the District Court of NMI a notice of tax lien against VR Company LLC, dba CNMI Manpower Services, in the amount of $161,117.47. 
+
+<https://www.mvariety.com/news/local/finance-files-tax-lien-against-cnmi-manpower-services/article_848f115a-7886-11ee-8cb1-fbb27f0d0151.html>
+
+---
+
+## Marpac edges Joeten, 82-81
+
+date: 2023-11-01, from: Marianas Variety
+
+IN the battle between the top two teams of the 2023 R&amp;J Wine and Liquor Inter-Government/Business League, Marpac came out victorious against Joeten in a thrilling game, 82-81, on Tuesday at the Ada gym. 
+
+<https://www.mvariety.com/sports/localsports/marpac-edges-joeten-82-81/article_aa5398ae-7898-11ee-b46b-8b1c62e4a8ce.html>
+
+---
+
+## NMC to host agroforestry workshops on Saipan, Tinian, Rota
+
+date: 2023-11-01, from: Marianas Variety
+
+NORTHERN Marianas College-Cooperative Research, Extension, and Education Services will host commercial and family food forest agroforestry workshops and seminars on Saipan, Tinian, and Rota beginning Nov. 4 on Saipan. 
+
+<https://www.mvariety.com/news/local/nmc-to-host-agroforestry-workshops-on-saipan-tinian-rota/article_a2eb8608-7898-11ee-ac20-e710703656f4.html>
+
+---
+
+## Why this dad creates pictures with his running app
+
+date: 2023-11-01, from: The Guam Daily Post
+
+He has drawn elephants, helicopters and castles during his daily runs. 
+
+<https://www.postguam.com/lifestyles/health/why-this-dad-creates-pictures-with-his-running-app/article_b09e8302-d9d4-5429-bb96-0e564466ff8b.html>
+
+---
+
+## Adding salt to food increases Type 2 Diabetes risk: study
+
+date: 2023-11-01, from: The Guam Daily Post
+
+It has long been known that sugar intake is bad but this is the first time that salt has been linked to the condition. 
+
+<https://www.postguam.com/lifestyles/health/adding-salt-to-food-increases-type-2-diabetes-risk-study/article_b6306c93-4402-567e-b5ef-da0a5e2a7c0a.html>
+
+---
+
+## Ayuyu is new CPA board chairman
+
+date: 2023-11-01, from: The Guam Daily Post
+
+SAIPAN — The Commonwealth Ports Authority board of directors on Tuesday elected businessman Jose Ayuyu as its new chairman. 
+
+<https://www.postguam.com/news/cnmi/ayuyu-is-new-cpa-board-chairman/article_f2889f92-7849-11ee-b667-27088571945b.html>
+
+---
+
+## NMI Supreme Court dismisses former governor's appeal; says it's moot
+
+date: 2023-11-01, from: The Guam Daily Post
+
+SAIPAN — The Commonwealth of the Northern Mariana Islands Supreme Court on Tuesday declined to review the merits of former Gov. Ralph DLG Torres’s appeal of the trial court’s dismissal of his lawsuit against a House committee that found him… 
+
+<https://www.postguam.com/news/cnmi/nmi-supreme-court-dismisses-former-governors-appeal-says-its-moot/article_5403482a-784b-11ee-bbac-2b8eb51f1a2a.html>
+
+---
+
+## CNMI announces plans to expand public transportation system  
+
+date: 2023-11-01, from: Pacific Island Times
+
+By Pacific Island Times News Staff Saipan — The Commonwealth Office of Transit Authority announced the rebranding of the islands' public... 
+
+<https://www.pacificislandtimes.com/post/cnmi-announces-plans-to-expand-public-transportation-system>
+
+---
+
+## Triple J Bubble Color Run 5K/10K set for Nov. 18 in Upper Tumon
+
+date: 2023-11-01, from: The Guam Daily Post
+
+Triple J Auto Group recently announced in a news release that its 5K and 10K Bubble Color Run is scheduled for Saturday, Nov. 18, starting at the dealership’s main location in Upper Tumon in front of Kmart. 
+
+<https://www.postguam.com/news/local/triple-j-bubble-color-run-5k-10k-set-for-nov-18-in-upper-tumon/article_2e7a66e2-77a1-11ee-9409-c314fb2d73dc.html>
+
+---
+
+## 3 men facing drug charges after traffic stops
+
+date: 2023-11-01, from: The Guam Daily Post
+
+Three men were charged in the Superior Court of Guam on Tuesday in connection to possessing methamphetamine. 
+
+<https://www.postguam.com/news/local/3-men-facing-drug-charges-after-traffic-stops/article_030e7bb2-7862-11ee-a6ea-fb58d81bd3b6.html>
+
+---
+
+## Adelup: Supreme Court decision holds abortion ban as 'dead law'
+
+date: 2023-11-01, from: The Guam Daily Post
+
+Tuesday's decision out of the Supreme Court of Guam, which found that the 30-year-old local ban on abortion holds no sway on the island, "upholds the rule of law" and protects people "from political maneuvers seeking to impose stale laws"… 
+
+<https://www.postguam.com/news/local/adelup-supreme-court-decision-holds-abortion-ban-as-dead-law/article_0f73e980-7873-11ee-a419-63b036ffdbeb.html>
+
+---
+
+## Talent call for artists, writers,  photographers and translators
+
+date: 2023-11-01, from: The Guam Daily Post
+
+The University of Guam Press is seeking illustrators, photographers, filmmakers, graphic designers, website designers, writers, editors and translators for contract work on a project-by-project basis. 
+
+<https://www.postguam.com/news/local/talent-call-for-artists-writers-photographers-and-translators/article_84c4bc96-76c5-11ee-8b9d-fff5d186a480.html>
+
+---
+
+## Former charter school teacher found guilty of sexual assault
+
+date: 2023-11-01, from: The Guam Daily Post
+
+A former Guahan Academy Charter School teacher was found guilty of sexually assaulting a 14-year-old student in 2021. 
+
+<https://www.postguam.com/news/local/former-charter-school-teacher-found-guilty-of-sexual-assault/article_de0a1124-7842-11ee-a393-0f299f5e2b81.html>
+
+---
+
+## 6 bills pass after heated session
+
+date: 2023-11-01, from: The Guam Daily Post
+
+The Guam Legislature wrapped up another round of session on Wednesday, passing six bills, including legislation to extend the longstanding energy credit program another three months. But out of all the measures that lawmakers addressed, it was the bill on… 
+
+<https://www.postguam.com/news/local/6-bills-pass-after-heated-session/article_88c266c8-7863-11ee-bdaf-2392127bfdbf.html>
+
+---
+
+## Perez talks trash with village mayors
+
+date: 2023-11-01, from: The Guam Daily Post
+
+Sen. Sabina Perez got some feedback from village mayors regarding two bills designed to address waste removal. 
+
+<https://www.postguam.com/news/perez-talks-trash-with-village-mayors/article_6c1b65e8-7853-11ee-90e5-9fefeb705ab6.html>
+
+---
+
+## Police arrest man involved in fatal February auto-motorcycle crash
+
+date: 2023-11-01, from: The Guam Daily Post
+
+A man was arrested in connection to the February death of a motorcyclist. 
+
+<https://www.postguam.com/news/local/police-arrest-man-involved-in-fatal-february-auto-motorcycle-crash/article_4a101e98-7782-11ee-99cf-4b1e5104c155.html>
+
+---
+
+## Sablan to retire as Mayors' Council executive director Dec. 1
+
+date: 2023-11-01, from: The Guam Daily Post
+
+Angel Sablan announced Wednesday that he will be stepping down from his position as the executive director of the Mayors' Council of Guam after serving 15 yeas with the council. 
+
+<https://www.postguam.com/news/sablan-to-retire-as-mayors-council-executive-director-dec-1/article_c48cf8cc-787b-11ee-850d-4f90a6b01b89.html>
+
+---
+
+## GPA announces potential outage schedule
+
+date: 2023-11-01, from: The Guam Daily Post
+
+A possible outage schedule for November was just announced in a news release from the Guam Power Authority. The announcement states the approach will act as a precautionary notice to customers in the event that ongoing maintenance or repairs prevent… 
+
+<https://www.postguam.com/news/local/gpa-announces-potential-outage-schedule/article_df0a1e8e-7874-11ee-80da-cf7c38bb6378.html>
+
+---
+
+## Hawaiian Word of the Week: Hōʻailona
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p><span aria-label="Hoailona">H&#333;&#699;ailona</span>&#8212;Sign, symbol, omen.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/31/hawaiian-word-of-the-week-hoailona/">Hawaiian Word of the Week: Hōʻailona</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/31/hawaiian-word-of-the-week-hoailona/>
+
+---
+
+## RCUH honors 20 employees for impactful research, leadership
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p>Outstanding employees earned recognition for their contributions and impact to research at <abbr>UH</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/31/rcuh-honors-employees-2023/"><abbr>RCUH</abbr> honors 20 employees for impactful research, leadership</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/31/rcuh-honors-employees-2023/>
+
+---
+
+## Moylan pushes for extension of expired Compact impact funds for Guam
+
+date: 2023-11-01, from: Pacific Island Times
+
+NDAA's provisions for Guam still unclear By Naina Rao Guam Del. James Moylan is pressing for a one-year extension of funding for... 
+
+<https://www.pacificislandtimes.com/post/moylan-pushes-for-extension-of-expired-compact-impact-funds-for-guam>
+
+---
+
+## Nuclear deterrence, nonproliferation, disarmament discussed at policy workshop
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p>Students were encouraged to think critically about how nuclear policy debates impact <span aria-label="Hawaii">Hawai&#699;i</span> and the Asia-Pacific region.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/31/nuclear-policy-workshop-honolulu/">Nuclear deterrence, nonproliferation, disarmament discussed at policy workshop</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/31/nuclear-policy-workshop-honolulu/>
+
+---
+
+## UH Hilo’s Tani Hoke voted PacWest Defender of the Week
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p>Hoke had a season high of four aces and reigned victory over Biola Eagles.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/31/hilo-tani-hoke-pacwest-defender/"><abbr>UH</abbr> Hilo’s Tani Hoke voted PacWest Defender of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/31/hilo-tani-hoke-pacwest-defender/>
+
+---
+
+## Rainbow Wahine Kate Lang awarded ninth Big West Setter of the Week
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p>This is Lang's sixth Setter of the Week award of 2023 and ninth of the junior's career.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/31/kate-lang-manoa-big-west-ninth/">Rainbow Wahine Kate Lang awarded ninth Big West Setter of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/31/kate-lang-manoa-big-west-ninth/>
+
+---
+
+## First DUA checks released
+
+date: 2023-11-01, from: The Guam Daily Post
+
+The first batch of Disaster Unemployment Assistance benefits totaling $252,898 has been processed and released, according to a statement from the Guam Department of Labor. 
+
+<https://www.postguam.com/news/local/first-dua-checks-released/article_4704b6a0-7840-11ee-bb46-67eb3a2d2ee5.html>
+
+---
+
+## UH Mānoa women’s soccer players earns postseason recognition
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p>Eliza Ammendolia, Jacey Jicha, Amber Gilbert, Izzy Ayala were selected to The Big West 2023 All Conference team.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/31/manoa-womens-soccer-postseason-recognition/"><abbr>UH</abbr> Mānoa women’s soccer players earns postseason recognition</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/31/manoa-womens-soccer-postseason-recognition/>
+
+---
+
+## Pasifika-based pathways to mental health, well-being
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p>Ka Malu a <span aria-label="Waahila">Wa&#699;ahila</span> provides free individual therapy, discussion  and group support sessions for Pasifika-identifying students at <abbr>UH</abbr> M&#257;noa.</p>
+The post <a href="https://www.hawaii.edu/news/2023/10/31/pasifika-based-pathways-mental-health/">Pasifika-based pathways to mental health, well-being</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/10/31/pasifika-based-pathways-mental-health/>
+
+---
+
+## Guam Supreme Court: 1990 abortion ban is dead law
+
+date: 2023-10-31, from: Pacific Island Times
+
+By Pacific Island Times News Staff A 1990 statute that sought to impose a total ban on abortion on Guam is void, the Supreme Court of... 
+
+<https://www.pacificislandtimes.com/post/guam-supreme-court-1990-abortion-ban-is-dead-law>
 
 ---
 

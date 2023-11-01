@@ -1,5 +1,25 @@
 
-(date: 2023-10-31 16:17:22)
+(date: 2023-11-01 09:22:33)
+
+---
+
+## Flores, luces y memorias luminosas
+
+date: 2023-11-01, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+After attending a Society of Professional Journalists conference with The Collegian, I was immediately inspired to write a Día de los Muertos story with my own twist. The first thing that came to my mind when the speaker from USC brought up the way her newsroom did a piece on the tradition was honoring my... 
+
+<https://fscollegian.com/2023/11/flores-luces-y-memorias-luminosas/>
+
+---
+
+## Movie review: Enchanting ‘Taylor Swift: The Eras Tour’ is worth the hype
+
+date: 2023-11-01, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Taylor Swift is one of the most defining voices of her generation, so it makes sense that “Taylor Swift: The Eras Tour,” which was released in theaters on Oct. 13, was the most anticipated concert film since&#8230;well, ever. I was one of the lucky ones who were able to see it opening weekend, and if... 
+
+<https://fscollegian.com/2023/10/movie-review-enchanting-taylor-swift-the-eras-tour-is-worth-the-hype/>
 
 ---
 

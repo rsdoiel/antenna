@@ -1,5 +1,5 @@
 
-(date: 2023-10-31 16:17:22)
+(date: 2023-11-01 09:22:34)
 
 ---
 
@@ -27,7 +27,8 @@ The data set is for a three-week period tracking the controversial policy.
 
 date: 2023-10-30, from: The Daily Bruin (UCLA Student Newspaper)
 
-Julia Montoya&#8217;s floral shop is in full bloom.
+<em>This post was updated Oct. 31 at 8:03 p.m.&#160;</em>
+Julia Montoya’s floral shop is in full bloom.
 In May, the second-year political science student opened Floral Fantasies, a business in which she said she designs and assembles bouquets, after discovering her passion for the craft when she created one for her 18th birthday. 
 
 <https://dailybruin.com/2023/10/30/student-owner-julia-montoya-creates-custom-bouquets-at-floral-fantasies/>
@@ -38,7 +39,8 @@ In May, the second-year political science student opened Floral Fantasies, a bus
 
 date: 2023-10-30, from: The Daily Bruin (UCLA Student Newspaper)
 
-In front of a packed stadium, 2,000 fans collectively held their breath. 
+<em>This post was updated Oct. 31 at 10:12 p.m.&#160;</em>
+In front of a packed stadium, 2,000 fans collectively held their breath.
 The Bruins had a penalty kick against their main competition at a critical point in the race for their 9th Pac-12 conference championship. 
 
 <https://dailybruin.com/2023/10/30/ucla-mens-soccer-narrowly-ties-oregon-state-in-senior-day-showdown/>
@@ -59,8 +61,9 @@ A web series that’s a love letter to queer and undocumented communities, with 
 
 date: 2023-10-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Oct. 31 at 10:08 p.m.&#160;</em>
 The Bruins&#8217; gameplay continuously scaled new peaks as the weekend unfolded.
-Their head coach said this pattern was reminiscent of the team&#8217;s hopes for the rest of their Pac-12 play. 
+Their head coach said this pattern was reminiscent of the team’s hopes for the rest of their Pac-12 play. 
 
 <https://dailybruin.com/2023/10/30/ucla-womens-volleyball-climbs-to-victory-against-utah-colorado-in-mountain-trip/>
 
@@ -152,7 +155,7 @@ As Israel continues to push into Gaza, it says its forces freed an Israeli soldi
 date: 2023-10-30, from: The Daily Trojan (USC Student Newspaper)
 
 <p>McCarthy Quad hosted one of the Asian Pacific American Student Assembly’s biggest and brightest events of the year Thursday night.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/30/apasa-night-market-celebrates-food-fun-togetherness/">APASA Night Market celebrates food, fun, togetherness</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/30/apasa-night-market-celebrates-food-fun-togetherness/">APASA Night Market celebrates food, fun, togetherness</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/30/apasa-night-market-celebrates-food-fun-togetherness/>
@@ -163,7 +166,8 @@ date: 2023-10-30, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2023-10-30, from: The Daily Bruin (UCLA Student Newspaper)
 
-Two UCLA professors were named as recipients of the MacArthur Fellowship &#8211; which is awarded to leading artists, scholars and entrepreneurs across the nation &#8211; on Oct. 
+<em>This post was updated Oct. 31 at 11:13 p.m.&#160;</em>
+Two UCLA professors were named as recipients of the MacArthur Fellowship – which is awarded to leading artists, scholars and entrepreneurs across the nation – on Oct. 
 
 <https://dailybruin.com/2023/10/29/ucla-professors-awarded-macarthur-genius-grants-to-further-innovative-work/>
 
@@ -301,7 +305,7 @@ The youth were left to try and keep the trophy in-house – but they didn’t.
 date: 2023-10-29, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Hosts Thomas Johnson and Kasey Kazliner sit down and debate whether or not the Trojans and Golden Bears are "real" rivals. Staff writer Jack Hallinan also briefly caught up with a football writer from the Daily Californian, and the hosts discussed USC basketball's newfound recruiting success.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/28/last-chapter-in-the-usc-cal-rivalry/">Last chapter in the USC-Cal rivalry</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/28/last-chapter-in-the-usc-cal-rivalry/">Last chapter in the USC-Cal rivalry</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/28/last-chapter-in-the-usc-cal-rivalry/>
@@ -325,7 +329,7 @@ With a pirouette-esque toe drag, the senior wide receiver’s one-handed grab wa
 date: 2023-10-29, from: The Daily Trojan (USC Student Newspaper)
 
 <p> Both teams suffered from uninspiring defensive performances, but USC’s second-half rush attack saved the day.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/28/football-comes-back-from-21-point-hole-defeats-cal-in-chaotic-fashion/">Football scores 21 straight, defeats Cal in chaotic fashion</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/28/football-comes-back-from-21-point-hole-defeats-cal-in-chaotic-fashion/">Football scores 21 straight, defeats Cal in chaotic fashion</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/28/football-comes-back-from-21-point-hole-defeats-cal-in-chaotic-fashion/>
@@ -360,7 +364,7 @@ In “The Allure of Thug Life,” the audience follows the coming-of-age story o
 date: 2023-10-28, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Jack Hallinan and Kasey Kazliner report live from California Memorial Stadium.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/28/usc-vs-cal-live-updates/">USC at Cal — as it happened</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/28/usc-vs-cal-live-updates/">USC at Cal — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/28/usc-vs-cal-live-updates/>
@@ -514,7 +518,7 @@ There is no question that the student demand for housing is high. But much about
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Students and faculty laid in front of Bovard Auditorium to protest violence against Palestinians.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/students-stage-die-in-protest-for-gaza/">Students stage ‘die-in’ protest for Gaza</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/students-stage-die-in-protest-for-gaza/">Students stage ‘die-in’ protest for Gaza</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/students-stage-die-in-protest-for-gaza/>
@@ -526,7 +530,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>USC professor Dr. David Agus is transforming medicine with artificial intelligence cancer research.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/the-wizard-of-interdisciplinary-science-turns-to-ai/">The wizard of interdisciplinary science turns to AI</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/the-wizard-of-interdisciplinary-science-turns-to-ai/">The wizard of interdisciplinary science turns to AI</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/the-wizard-of-interdisciplinary-science-turns-to-ai/>
@@ -538,7 +542,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>A closer look at course learning surrounding AI, ChatGPT and generative machines in the classroom.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/can-artificial-intelligence-write-your-academic-paper-it-depends/">Can artificial intelligence write your academic paper? It depends</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/can-artificial-intelligence-write-your-academic-paper-it-depends/">Can artificial intelligence write your academic paper? It depends</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/can-artificial-intelligence-write-your-academic-paper-it-depends/>
@@ -550,7 +554,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Explore what USC and South Los Angeles has to say about AI learning.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/five-events-to-attend-for-intelligence-on-ai-initiatives/">Five events to attend for intelligence on AI initiatives</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/five-events-to-attend-for-intelligence-on-ai-initiatives/">Five events to attend for intelligence on AI initiatives</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/five-events-to-attend-for-intelligence-on-ai-initiatives/>
@@ -562,7 +566,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Members of the School of Cinematic Arts, Annenberg School of Communication and Journalism, and Thornton School of Music spoke on the future of AI in the creative workforce. </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/ai-rattles-creative-fields-like-never-before/">AI rattles creative fields like never before</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/ai-rattles-creative-fields-like-never-before/">AI rattles creative fields like never before</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/ai-rattles-creative-fields-like-never-before/>
@@ -598,7 +602,7 @@ date: 2023-10-27, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/classifieds-october-27-2023/">Classifieds &#8211; October 27, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/classifieds-october-27-2023/">Classifieds &#8211; October 27, 2023</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/classifieds-october-27-2023/>
@@ -610,7 +614,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Pulitzer Prize-winning author Toluse Olorunnipa spoke about the life and times of Floyd.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/at-usc-lets-talk-about-george-floyd/">At USC, “Let’s Talk About George Floyd”</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/at-usc-lets-talk-about-george-floyd/">At USC, “Let’s Talk About George Floyd”</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/at-usc-lets-talk-about-george-floyd/>
@@ -622,7 +626,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Pac-12 foes will square off one final time before realignment next season.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/cal-vs-usc-a-108-year-tradition-gets-its-final-chapter/">Cal vs. USC, a 108-year tradition, gets its final chapter</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/cal-vs-usc-a-108-year-tradition-gets-its-final-chapter/">Cal vs. USC, a 108-year tradition, gets its final chapter</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/cal-vs-usc-a-108-year-tradition-gets-its-final-chapter/>
@@ -634,7 +638,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Following back-to-back wins, Women’s volleyball shifts to sweeping the Buffaloes.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/womens-volleyball-set-for-colorado/">Women’s volleyball set for Colorado</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/womens-volleyball-set-for-colorado/">Women’s volleyball set for Colorado</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/womens-volleyball-set-for-colorado/>
@@ -646,7 +650,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Trojans need a wake-up call on both sides of the ball, and this is the perfect game.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/football-heads-to-berkeley-to-battle-the-bears/">Football heads to Berkeley to battle the Bears</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/football-heads-to-berkeley-to-battle-the-bears/">Football heads to Berkeley to battle the Bears</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/football-heads-to-berkeley-to-battle-the-bears/>
@@ -658,7 +662,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>We must fulfill all of our moral obligations, even if we can’t do it all at once.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/the-urgent-and-the-important-how-to-talk-about-israel-and-gaza/">The urgent and the important: How to talk about Israel and Gaza</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/the-urgent-and-the-important-how-to-talk-about-israel-and-gaza/">The urgent and the important: How to talk about Israel and Gaza</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/the-urgent-and-the-important-how-to-talk-about-israel-and-gaza/>
@@ -670,7 +674,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The language queer people use to describe their lived experience is important.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/identity-labels-matter-in-the-queer-community/">Identity labels matter in the queer community</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/identity-labels-matter-in-the-queer-community/">Identity labels matter in the queer community</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/identity-labels-matter-in-the-queer-community/>
@@ -682,7 +686,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>In her first solo exhibition, photographer Angel Itua delves into L.A. culture.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/student-debuts-exhibition-ive-seen-la/">Student debuts exhibition ‘I’ve Seen LA’</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/student-debuts-exhibition-ive-seen-la/">Student debuts exhibition ‘I’ve Seen LA’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/student-debuts-exhibition-ive-seen-la/>
@@ -694,7 +698,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Chinese Filmmakers’ Voices on the Pandemic screened four moving short films.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/filmmakers-shed-a-new-light-on-the-pandemic/">Filmmakers shed a new light on the pandemic</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/filmmakers-shed-a-new-light-on-the-pandemic/">Filmmakers shed a new light on the pandemic</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/filmmakers-shed-a-new-light-on-the-pandemic/>
@@ -706,7 +710,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Despite the many challenges of studying abroad, it only makes one appreciate the experience more.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/studying-abroad-gives-confidence/">Studying abroad gives confidence</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/studying-abroad-gives-confidence/">Studying abroad gives confidence</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/studying-abroad-gives-confidence/>
@@ -718,7 +722,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Reuben de Maid said his anti-bullying work helped earn him the recognition.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/student-honored-in-teen-vogues-20-under-20/">Student honored in Teen Vogue’s ‘20 under 20</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/student-honored-in-teen-vogues-20-under-20/">Student honored in Teen Vogue’s ‘20 under 20</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/student-honored-in-teen-vogues-20-under-20/>
@@ -730,7 +734,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Charlotte Korchak, a senior educator with StandWithUs, spoke about the Jewish community and Hamas.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/27/hillel-hosts-speaker-on-israel-hamas-war/">Hillel hosts speaker on Israel-Hamas war</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/27/hillel-hosts-speaker-on-israel-hamas-war/">Hillel hosts speaker on Israel-Hamas war</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/27/hillel-hosts-speaker-on-israel-hamas-war/>
@@ -742,7 +746,7 @@ date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Despite a very dominating performance, USC failed to score against No. 4 Stanford.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/26/soccers-missed-chances-headline-draw-with-stanford/">Soccer’s missed chances headline draw with Stanford</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/26/soccers-missed-chances-headline-draw-with-stanford/">Soccer’s missed chances headline draw with Stanford</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/26/soccers-missed-chances-headline-draw-with-stanford/>
@@ -844,7 +848,7 @@ Kawanna Leggett, Ed.D., senior vice president for Student Affairs, talked about 
 date: 2023-10-27, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Host Jonathan Park dives deep with assistant news editor Benjamin Gamson on what it was like interviewing the two elected state officials representing the districts containing USC: California State Sen. Lola Smallwood-Cuevas and Assemblymember Reggie Jones-Sawyer.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/26/on-interviewing-elected-state-officials-with-benjamin-gamson/">On interviewing elected state officials with Benjamin Gamson</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/26/on-interviewing-elected-state-officials-with-benjamin-gamson/">On interviewing elected state officials with Benjamin Gamson</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/26/on-interviewing-elected-state-officials-with-benjamin-gamson/>
@@ -960,7 +964,7 @@ Rhode Montijo debuts a Día de los Muertos-inspired story told with just two wor
 date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/26/classifieds-october-26-2023/">Classifieds &#8211; October 26, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/26/classifieds-october-26-2023/">Classifieds &#8211; October 26, 2023</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/26/classifieds-october-26-2023/>
@@ -972,7 +976,7 @@ date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The fall of Nagorno-Karabakh displaced hundreds of thousands of Armenians. How can poets help us grieve? </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/26/the-poetic-world-of-hovhannes-tumanyan/">The poetic world of Hovhannes Tumanyan</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/26/the-poetic-world-of-hovhannes-tumanyan/">The poetic world of Hovhannes Tumanyan</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/26/the-poetic-world-of-hovhannes-tumanyan/>
@@ -984,7 +988,7 @@ date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Video game lovers should buckle up for a month full of diverse, quirky releases.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/26/bluey-with-a-side-of-robocop-novembers-top-games/">Bluey with a side of RoboCop: November&#8217;s top games</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/26/bluey-with-a-side-of-robocop-novembers-top-games/">Bluey with a side of RoboCop: November&#8217;s top games</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/26/bluey-with-a-side-of-robocop-novembers-top-games/>
@@ -996,7 +1000,7 @@ date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Fellow USC fans, it’s time to fill up the Coliseum. </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/26/stadiums-are-as-important-as-players/">Stadiums are as important as players</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/26/stadiums-are-as-important-as-players/">Stadiums are as important as players</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/26/stadiums-are-as-important-as-players/>
@@ -1008,7 +1012,7 @@ date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Trojans hit the road for another Top-10 matchup against Long Beach State.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/26/mens-water-polo-looks-to-get-back-on-track/">Men’s water polo looks to get back on track</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/26/mens-water-polo-looks-to-get-back-on-track/">Men’s water polo looks to get back on track</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/26/mens-water-polo-looks-to-get-back-on-track/>
@@ -1020,7 +1024,7 @@ date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Trojans aim to defeat an elite Cardinal team after three games without a win.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/26/womens-soccer-looks-to-upset-stanford/">Women’s soccer looks to upset Stanford</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/26/womens-soccer-looks-to-upset-stanford/">Women’s soccer looks to upset Stanford</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/26/womens-soccer-looks-to-upset-stanford/>
@@ -1032,7 +1036,7 @@ date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 
 <p>A report explores L.A.’s landscapes through the eyes of Indigenous people.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/26/new-report-examines-l-a-s-native-landscapes/">New report examines L.A.’s native landscapes</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/26/new-report-examines-l-a-s-native-landscapes/">New report examines L.A.’s native landscapes</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/26/new-report-examines-l-a-s-native-landscapes/>
@@ -1044,7 +1048,7 @@ date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Panelists said there is a path forward for those interested in diverse higher education.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/26/expert-panel-discusses-the-implications-of-us-college-admissions-post-affirmative-action/">Expert panel discusses the implications of US college admissions post-affirmative action</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/26/expert-panel-discusses-the-implications-of-us-college-admissions-post-affirmative-action/">Expert panel discusses the implications of US college admissions post-affirmative action</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/26/expert-panel-discusses-the-implications-of-us-college-admissions-post-affirmative-action/>
@@ -1056,7 +1060,7 @@ date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Our experiences are not, and will not ever, be the same — so let’s not pretend.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/26/we-must-address-white-privilege-in-activism/">We must address white privilege in activism</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/26/we-must-address-white-privilege-in-activism/">We must address white privilege in activism</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/26/we-must-address-white-privilege-in-activism/>
@@ -1068,7 +1072,7 @@ date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-26, from: The Daily Trojan (USC Student Newspaper)
 
 <p>A lot can change once you get legally married in the United States.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/26/public-disclosure-4-marriage-laws/"> What to know before you put a ring on it</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/26/public-disclosure-4-marriage-laws/"> What to know before you put a ring on it</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/26/public-disclosure-4-marriage-laws/>
@@ -1092,7 +1096,7 @@ date: 2023-10-26, from: The Occidental News (Occidental College Student Newspape
 date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 
 <p>This week on “The Soapbox”, host Fabián Gutiérrez welcomes assistant opinion editor Antonio Wu, who delves into his assessment of the idea of coming out and some of its significant flaws, alongside other ways in which queerness can be expressed and celebrated in the context of LGBTQIA+ History Month.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/25/the-pros-and-progress-of-coming-out-with-antonio-wu/">The pros and progress of coming out with Antonio Wu</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/25/the-pros-and-progress-of-coming-out-with-antonio-wu/">The pros and progress of coming out with Antonio Wu</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/25/the-pros-and-progress-of-coming-out-with-antonio-wu/>
@@ -1232,7 +1236,7 @@ date: 2023-10-25, from: The Occidental News (Occidental College Student Newspape
 date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/25/classifieds-october-25-2023/">Classifieds &#8211; October 25, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/25/classifieds-october-25-2023/">Classifieds &#8211; October 25, 2023</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/25/classifieds-october-25-2023/>
@@ -1244,7 +1248,7 @@ date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The new rules will provide designated time for public comment prior to debate.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/25/usg-reforms-meeting-rules/">USG reforms meeting rules, hears project updates</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/25/usg-reforms-meeting-rules/">USG reforms meeting rules, hears project updates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/25/usg-reforms-meeting-rules/>
@@ -1256,7 +1260,7 @@ date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Trojans dominated in the crucial ITA Southwest Regional Championships.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/25/emma-charney-takes-first-place-for-the-trojans/">Emma Charney takes first place for the Trojans</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/25/emma-charney-takes-first-place-for-the-trojans/">Emma Charney takes first place for the Trojans</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/25/emma-charney-takes-first-place-for-the-trojans/>
@@ -1268,7 +1272,7 @@ date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Trojans have a mediocre weekend at the ITA Southwest Regional Championships.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/25/mens-tennis-comes-up-just-short-in-malibu/">Men’s tennis comes up just short in Malibu</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/25/mens-tennis-comes-up-just-short-in-malibu/">Men’s tennis comes up just short in Malibu</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/25/mens-tennis-comes-up-just-short-in-malibu/>
@@ -1280,7 +1284,7 @@ date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Gambling can negatively impact finance, relationships and mental health. </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/25/the-unfortunate-ugly-side-of-sports-gambling/">The unfortunate ugly side of sports gambling</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/25/the-unfortunate-ugly-side-of-sports-gambling/">The unfortunate ugly side of sports gambling</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/25/the-unfortunate-ugly-side-of-sports-gambling/>
@@ -1292,7 +1296,7 @@ date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 
 <p>People should see aging beyond the physical and look to the beauty within.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/25/natural-aging-needs-to-be-more-accepted/">Natural aging needs to be more accepted</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/25/natural-aging-needs-to-be-more-accepted/">Natural aging needs to be more accepted</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/25/natural-aging-needs-to-be-more-accepted/>
@@ -1304,7 +1308,7 @@ date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Politics should never be more important than the law itself.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/25/government-affairs-are-not-personal-affairs/">Government affairs are not personal affairs</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/25/government-affairs-are-not-personal-affairs/">Government affairs are not personal affairs</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/25/government-affairs-are-not-personal-affairs/>
@@ -1316,7 +1320,7 @@ date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The song was performed at the halftime show Oct. 21 by USC students and alumni.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/25/alumni-compose-new-coliseum-theme/">Alumni compose new Coliseum theme</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/25/alumni-compose-new-coliseum-theme/">Alumni compose new Coliseum theme</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/25/alumni-compose-new-coliseum-theme/>
@@ -1328,7 +1332,7 @@ date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Young filmmakers exhibited their short horror films at Zemeckis Center Sunday.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/25/50-50-horror-fest-debuts-with-scares/">50/50 Horror Fest debuts with scares</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/25/50-50-horror-fest-debuts-with-scares/">50/50 Horror Fest debuts with scares</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/25/50-50-horror-fest-debuts-with-scares/>
@@ -1340,7 +1344,7 @@ date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Out with the old doesn’t have to mean it’s immediately tossed out the window.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/25/a-growth-mindset-for-your-vision-board/">A growth mindset for your vision board</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/25/a-growth-mindset-for-your-vision-board/">A growth mindset for your vision board</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/25/a-growth-mindset-for-your-vision-board/>
@@ -1352,7 +1356,7 @@ date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The USC Student Cookbook aims to ease cooking for students with quick recipes.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/25/student-health-cookbook/">USC Student Health releases cookbook for college meals</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/25/student-health-cookbook/">USC Student Health releases cookbook for college meals</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/25/student-health-cookbook/>
@@ -1364,7 +1368,7 @@ date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 
 <p>U.S. Secretary of Transportation Pete Buttigieg spoke to USC students Tuesday at a virtual event.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/24/secretary-buttigieg-discusses-future-of-american-politics/">Secretary Buttigieg discusses future of American politics</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/24/secretary-buttigieg-discusses-future-of-american-politics/">Secretary Buttigieg discusses future of American politics</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/24/secretary-buttigieg-discusses-future-of-american-politics/>
@@ -1376,7 +1380,7 @@ date: 2023-10-25, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 
 <p>International students are often left out of festivities, but it isn’t bad.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/24/191802/">Spending Family Weekend without my family</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/24/191802/">Spending Family Weekend without my family</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/24/191802/>
@@ -1388,7 +1392,7 @@ date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Constantly obsessing over academic performance is unhealthy and unproductive.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/24/stop-comparing-yourself-to-others-in-school/">Stop comparing yourself to others in school</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/24/stop-comparing-yourself-to-others-in-school/">Stop comparing yourself to others in school</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/24/stop-comparing-yourself-to-others-in-school/>
@@ -1410,7 +1414,7 @@ If one were to look for an extravagant and elaborate time machine to go back to 
 date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Confidence turned to cockiness, costing USC a perfect at-home record. </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/24/attitude-over-algorithms-why-usc-football-loses-winnable-games/">Attitude over algorithms: Why USC football loses winnable games</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/24/attitude-over-algorithms-why-usc-football-loses-winnable-games/">Attitude over algorithms: Why USC football loses winnable games</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/24/attitude-over-algorithms-why-usc-football-loses-winnable-games/>
@@ -1422,7 +1426,7 @@ date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Unable to capitalize on its scoring opportunities, USC lost one and tied another.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/24/ties-feel-like-losses-soccer-leaves-arizona-winless/">‘Ties feel like losses’: Soccer leaves Arizona winless</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/24/ties-feel-like-losses-soccer-leaves-arizona-winless/">‘Ties feel like losses’: Soccer leaves Arizona winless</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/24/ties-feel-like-losses-soccer-leaves-arizona-winless/>
@@ -1434,7 +1438,7 @@ date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/24/classifieds-october-24-2023/">Classifieds &#8211; October 24, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/24/classifieds-october-24-2023/">Classifieds &#8211; October 24, 2023</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/24/classifieds-october-24-2023/>
@@ -1446,7 +1450,7 @@ date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 
 <p>OpenAI is facing a stern reality check as legal and ethical quandaries loom.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/24/usc-experts-weigh-in-on-chatgpt-and-openais-meteoric-rise/">USC experts weigh in on ChatGPT and OpenAI’s meteoric rise</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/24/usc-experts-weigh-in-on-chatgpt-and-openais-meteoric-rise/">USC experts weigh in on ChatGPT and OpenAI’s meteoric rise</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/24/usc-experts-weigh-in-on-chatgpt-and-openais-meteoric-rise/>
@@ -1458,7 +1462,7 @@ date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-24, from: The Round Up (Peirce College Student Newspaper)
 
 <p>&#160; Pierce College made a contract with virtual service Timelycare this year, intended to provide well-being and mental health access for students.  &#160; Given recent</p>
-<p>The post <a rel="nofollow" href="https://theroundupnews.com/2023/10/24/new-virtual-center-to-care-for-students/">New virtual center to care for students</a> appeared first on <a rel="nofollow" href="https://theroundupnews.com">The Roundup</a>.</p>
+<p>The post <a href="https://theroundupnews.com/2023/10/24/new-virtual-center-to-care-for-students/">New virtual center to care for students</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
  
 
 <https://theroundupnews.com/2023/10/24/new-virtual-center-to-care-for-students/?utm_source=rss&utm_medium=rss&utm_campaign=new-virtual-center-to-care-for-students>
@@ -1470,7 +1474,7 @@ date: 2023-10-24, from: The Round Up (Peirce College Student Newspaper)
 date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 
 <p>USC came from behind for the second straight game to sweep the weekend.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/24/womens-volleyball-fights-off-huskies/">Women’s volleyball fights off Huskies</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/24/womens-volleyball-fights-off-huskies/">Women’s volleyball fights off Huskies</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/24/womens-volleyball-fights-off-huskies/>
@@ -1482,7 +1486,7 @@ date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The thrilling book is an irresistible page turner. </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/24/all-that-consumes-us-spooks-this-season/">‘All That Consumes Us’ spooks this season</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/24/all-that-consumes-us-spooks-this-season/">‘All That Consumes Us’ spooks this season</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/24/all-that-consumes-us-spooks-this-season/>
@@ -1494,7 +1498,7 @@ date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Mexican band captivated the Angeleno audience for four nights.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/24/rbd-revolutionizes-los-angeles/">RBD revolutionizes Los Angeles</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/24/rbd-revolutionizes-los-angeles/">RBD revolutionizes Los Angeles</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/24/rbd-revolutionizes-los-angeles/>
@@ -1506,7 +1510,7 @@ date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Imagine if casinos had no age limit and could be accessed from anywhere in the world.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/24/the-kids-have-gambling-addictions-mr-president/">The kids have gambling addictions, Mr. President!</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/24/the-kids-have-gambling-addictions-mr-president/">The kids have gambling addictions, Mr. President!</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/24/the-kids-have-gambling-addictions-mr-president/>
@@ -1518,7 +1522,7 @@ date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 
 <p>USC can learn from how UF handled the growing problem of antisemitism.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/24/usc-is-failing-its-jewish-students-uf-does-better/">USC is failing its Jewish students, UF does better</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/24/usc-is-failing-its-jewish-students-uf-does-better/">USC is failing its Jewish students, UF does better</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/24/usc-is-failing-its-jewish-students-uf-does-better/>
@@ -1530,7 +1534,7 @@ date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-24, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The County is now facing a profound crisis of disparity in quality healthcare access.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/24/las-healthcare-needs-an-intervention/">LA’s healthcare needs an intervention</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/24/las-healthcare-needs-an-intervention/">LA’s healthcare needs an intervention</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/24/las-healthcare-needs-an-intervention/>
@@ -1572,7 +1576,7 @@ The case has profound implications for almost every aspect of American life, esp
 date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/23/classifieds-october-23-2023/">Classifieds &#8211; October 23, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/23/classifieds-october-23-2023/">Classifieds &#8211; October 23, 2023</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/23/classifieds-october-23-2023/>
@@ -1584,7 +1588,7 @@ date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Dining halls may be more focused on making money than students’ well-being.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/23/usc-meal-plans-exploit-students/">USC meal plans exploit students</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/23/usc-meal-plans-exploit-students/">USC meal plans exploit students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/23/usc-meal-plans-exploit-students/>
@@ -1596,7 +1600,7 @@ date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 
 <p>“When We Danced” was screened for attendees at Norris Cinema Theatre.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/23/short-film-honors-filipino-american-experiences/">Short film honors Filipino American experiences</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/23/short-film-honors-filipino-american-experiences/">Short film honors Filipino American experiences</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/23/short-film-honors-filipino-american-experiences/>
@@ -1608,7 +1612,7 @@ date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Martin Scorsese explores Oklahoma’s Osage Nation amid the “Reign of Terror.”</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/23/killers-of-the-flower-moon-is-a-harrowing-look-into-americas-past/">‘Killers of the Flower Moon’ is a harrowing look into America’s past</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/23/killers-of-the-flower-moon-is-a-harrowing-look-into-americas-past/">‘Killers of the Flower Moon’ is a harrowing look into America’s past</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/23/killers-of-the-flower-moon-is-a-harrowing-look-into-americas-past/>
@@ -1620,7 +1624,7 @@ date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Musical Theater Repertory’s production of “Fun Home” celebrates representation.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/23/lgbtqia-identity-thrives-in-fun-home/">LGBTQIA+ identity thrives in ‘Fun Home’</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/23/lgbtqia-identity-thrives-in-fun-home/">LGBTQIA+ identity thrives in ‘Fun Home’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/23/lgbtqia-identity-thrives-in-fun-home/>
@@ -1632,7 +1636,7 @@ date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The food culture of sports reveals rich customs.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/23/exploring-culinary-traditions-in-sports/">Exploring culinary traditions in sports</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/23/exploring-culinary-traditions-in-sports/">Exploring culinary traditions in sports</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/23/exploring-culinary-traditions-in-sports/>
@@ -1644,7 +1648,7 @@ date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Fast food employees in California will earn $20 an hour starting April 2024.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/23/students-experts-talk-new-fast-food-minimum-wage/">Students, experts talk new fast food minimum wage</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/23/students-experts-talk-new-fast-food-minimum-wage/">Students, experts talk new fast food minimum wage</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/23/students-experts-talk-new-fast-food-minimum-wage/>
@@ -1656,7 +1660,7 @@ date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Joanna Maniti credits a USC class with inspiring her to launch the nonprofit.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/23/marshall-alum-creates-nonprofit-builds-orphanage-in-the-philippines/">Marshall alum creates nonprofit, builds orphanage in the Philippines</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/23/marshall-alum-creates-nonprofit-builds-orphanage-in-the-philippines/">Marshall alum creates nonprofit, builds orphanage in the Philippines</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/23/marshall-alum-creates-nonprofit-builds-orphanage-in-the-philippines/>
@@ -1668,7 +1672,7 @@ date: 2023-10-23, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-22, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Mishaps on both sides of the ball terminated USC’s perfect Pac-12 record.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/22/football-just-cannot-defeat-the-utes/">Football just cannot defeat the Utes</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/22/football-just-cannot-defeat-the-utes/">Football just cannot defeat the Utes</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/22/football-just-cannot-defeat-the-utes/>
@@ -1692,7 +1696,7 @@ date: 2023-10-22, from: City of Santa Clarita
 date: 2023-10-22, from: The Round Up (Peirce College Student Newspaper)
 
 <p>Teachers should be able to share their political views with their students. According to the Hechinger Report by Charlotte West, studies show that teachers’ political</p>
-<p>The post <a rel="nofollow" href="https://theroundupnews.com/2023/10/21/pro-teachers-should-express-their-political-views-in-the-classroom/">Pro: Teachers should express their political views in the classroom</a> appeared first on <a rel="nofollow" href="https://theroundupnews.com">The Roundup</a>.</p>
+<p>The post <a href="https://theroundupnews.com/2023/10/21/pro-teachers-should-express-their-political-views-in-the-classroom/">Pro: Teachers should express their political views in the classroom</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
  
 
 <https://theroundupnews.com/2023/10/21/pro-teachers-should-express-their-political-views-in-the-classroom/?utm_source=rss&utm_medium=rss&utm_campaign=pro-teachers-should-express-their-political-views-in-the-classroom>
@@ -1704,7 +1708,7 @@ date: 2023-10-22, from: The Round Up (Peirce College Student Newspaper)
 date: 2023-10-22, from: The Round Up (Peirce College Student Newspaper)
 
 <p>Teachers have a great amount of influence to the benefit or the detriment of the students in the classroom.   For that reason, teachers should not</p>
-<p>The post <a rel="nofollow" href="https://theroundupnews.com/2023/10/21/con-teachers-should-not-express-their-political-opinion-in-the-classroom/">Con: Teachers should not express their political opinion in the classroom</a> appeared first on <a rel="nofollow" href="https://theroundupnews.com">The Roundup</a>.</p>
+<p>The post <a href="https://theroundupnews.com/2023/10/21/con-teachers-should-not-express-their-political-opinion-in-the-classroom/">Con: Teachers should not express their political opinion in the classroom</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
  
 
 <https://theroundupnews.com/2023/10/21/con-teachers-should-not-express-their-political-opinion-in-the-classroom/?utm_source=rss&utm_medium=rss&utm_campaign=con-teachers-should-not-express-their-political-opinion-in-the-classroom>
@@ -1716,7 +1720,7 @@ date: 2023-10-22, from: The Round Up (Peirce College Student Newspaper)
 date: 2023-10-22, from: The Round Up (Peirce College Student Newspaper)
 
 <p>Community colleges are known for being beneficial to a wide demographic of people, from those learning new skills, to others looking to cut costs and</p>
-<p>The post <a rel="nofollow" href="https://theroundupnews.com/2023/10/21/make-pierce-college-more-accessible-to-students-2/">Make Pierce College more accessible to students</a> appeared first on <a rel="nofollow" href="https://theroundupnews.com">The Roundup</a>.</p>
+<p>The post <a href="https://theroundupnews.com/2023/10/21/make-pierce-college-more-accessible-to-students-2/">Make Pierce College more accessible to students</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
  
 
 <https://theroundupnews.com/2023/10/21/make-pierce-college-more-accessible-to-students-2/?utm_source=rss&utm_medium=rss&utm_campaign=make-pierce-college-more-accessible-to-students-2>
@@ -1728,7 +1732,7 @@ date: 2023-10-22, from: The Round Up (Peirce College Student Newspaper)
 date: 2023-10-22, from: The Round Up (Peirce College Student Newspaper)
 
 <p>This is the story of a 22-year-old young man who graduated from university with a bachelor’s degree, and he thought the degree could earn him</p>
-<p>The post <a rel="nofollow" href="https://theroundupnews.com/2023/10/21/make-pierce-college-more-accessible-to-students/">Mentorship program would help students be job-ready</a> appeared first on <a rel="nofollow" href="https://theroundupnews.com">The Roundup</a>.</p>
+<p>The post <a href="https://theroundupnews.com/2023/10/21/make-pierce-college-more-accessible-to-students/">Mentorship program would help students be job-ready</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
  
 
 <https://theroundupnews.com/2023/10/21/make-pierce-college-more-accessible-to-students/?utm_source=rss&utm_medium=rss&utm_campaign=make-pierce-college-more-accessible-to-students>
@@ -1740,7 +1744,7 @@ date: 2023-10-22, from: The Round Up (Peirce College Student Newspaper)
 date: 2023-10-22, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Trojans were unable to get revenge in their fourth straight loss to the Utes. </p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/21/football-endures-another-heartbreaking-loss-to-utah/">Football endures another heartbreaking loss to Utah</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/21/football-endures-another-heartbreaking-loss-to-utah/">Football endures another heartbreaking loss to Utah</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/21/football-endures-another-heartbreaking-loss-to-utah/>
@@ -1752,7 +1756,7 @@ date: 2023-10-22, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-21, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Assistant sports editor Leila MacKenzie and staff writer Daniel Palmore report live from Los Angeles Memorial Coliseum.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/21/usc-vs-utah-live-updates/">USC vs. Utah — as it happened</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/21/usc-vs-utah-live-updates/">USC vs. Utah — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/21/usc-vs-utah-live-updates/>
@@ -1764,7 +1768,7 @@ date: 2023-10-21, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-21, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Hosts Jack Hallinan, Kasey Kazliner, Marcus Partida and Darren Parry talk about their reactions (and overreactions) to USC's 48-20 loss against Notre Dame, along with a preview of men's and women's basketball.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/usc-football-suffers-its-first-defeat-is-all-hope-lost/">USC football suffers its first defeat: Is all hope lost?</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/20/usc-football-suffers-its-first-defeat-is-all-hope-lost/">USC football suffers its first defeat: Is all hope lost?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/20/usc-football-suffers-its-first-defeat-is-all-hope-lost/>
@@ -1882,7 +1886,7 @@ date: 2023-10-20, from: City of Santa Clarita
 date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/classifieds-october-20-2023/">Classifieds &#8211; October 20, 2023</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/20/classifieds-october-20-2023/">Classifieds &#8211; October 20, 2023</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/20/classifieds-october-20-2023/>
@@ -1894,7 +1898,7 @@ date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Trojan football has a lot of season left, but many tough games remain.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/sports-staffs-predictions-for-uscs-win-total/">Sports staff’s predictions for USC’s win total</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/20/sports-staffs-predictions-for-uscs-win-total/">Sports staff’s predictions for USC’s win total</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/20/sports-staffs-predictions-for-uscs-win-total/>
@@ -1906,7 +1910,7 @@ date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Trojans will take on No. 4 Washington State and Washington at Galen.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/womens-volleyball-to-face-washington-schools/">Women’s volleyball to face Washington schools</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/20/womens-volleyball-to-face-washington-schools/">Women’s volleyball to face Washington schools</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/20/womens-volleyball-to-face-washington-schools/>
@@ -1918,7 +1922,7 @@ date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
 date: 2023-10-20, from: The Daily Trojan (USC Student Newspaper)
 
 <p>While the loss may have been embarrassing, USC has plenty of time to make up for it.</p>
-<p>The post <a rel="nofollow" href="https://dailytrojan.com/2023/10/20/youre-overreacting-to-the-notre-dame-loss/">You’re overreacting to the Notre Dame loss</a> appeared first on <a rel="nofollow" href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2023/10/20/youre-overreacting-to-the-notre-dame-loss/">You’re overreacting to the Notre Dame loss</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <https://dailytrojan.com/2023/10/20/youre-overreacting-to-the-notre-dame-loss/>
@@ -2730,7 +2734,7 @@ September 30, 2023 Download Press Release [Port Hueneme, CA] — Yellow banana w
 date: 2023-09-30, from: The Round Up (Peirce College Student Newspaper)
 
 <p>&#160; Correction: The event was organized by Administrative Operations Technician Grace Ochoa and COVID-19 Reporting &#38; ADA Accommodations Safety Officer Raquel Matosic and only faculty attended.</p>
-<p>The post <a rel="nofollow" href="https://theroundupnews.com/2023/09/29/in-the-event-of-an-active-shooter/">In the event of an active shooter</a> appeared first on <a rel="nofollow" href="https://theroundupnews.com">The Roundup</a>.</p>
+<p>The post <a href="https://theroundupnews.com/2023/09/29/in-the-event-of-an-active-shooter/">In the event of an active shooter</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
  
 
 <https://theroundupnews.com/2023/09/29/in-the-event-of-an-active-shooter/?utm_source=rss&utm_medium=rss&utm_campaign=in-the-event-of-an-active-shooter>
@@ -2766,7 +2770,7 @@ date: 2023-09-29, from: Pepperdine Beacon (Pepperdine Student Newspaper)
 date: 2023-09-27, from: The Round Up (Peirce College Student Newspaper)
 
 <p>&#160; The Lady Brahmas earned their second win of the season at Shepard stadium against Victor Valley College, advancing their overall record 2-2.  &#160; LA</p>
-<p>The post <a rel="nofollow" href="https://theroundupnews.com/2023/09/27/victory-over-victor-valley/">Victory over Victor Valley</a> appeared first on <a rel="nofollow" href="https://theroundupnews.com">The Roundup</a>.</p>
+<p>The post <a href="https://theroundupnews.com/2023/09/27/victory-over-victor-valley/">Victory over Victor Valley</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
  
 
 <https://theroundupnews.com/2023/09/27/victory-over-victor-valley/?utm_source=rss&utm_medium=rss&utm_campaign=victory-over-victor-valley>

@@ -1,50 +1,55 @@
 
-(date: 2023-10-31 16:17:24)
+(date: 2023-11-01 09:22:35)
 
 ---
 
-## Central North Pacific Tropical Weather Outlook
+## SPC Nov 1, 2023 1630 UTC Day 1 Convective Outlook
 
-date: 2023-10-31, from: Central Pacific Basin Tropical Cyclones
+date: 2023-11-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1054 AM CDT Wed Nov 01 2023
 
-<br/>
-277 <br/>
-ACPN50 PHFO 312316<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-200 PM HST Tue Oct 31 2023<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster TS<br/>
-<br/>
+Valid 011630Z - 021200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+No thunderstorm areas are forecast today.
+
+A few lightning flashes have been noted this morning with snow
+showers in the lee of Lakes Erie and Ontario.  The associated
+mid-level shortwave trough is rapidly departing this area,
+suggesting the risk of further lightning is diminishing rapidly. 
+Elsewhere, no thunderstorms are forecast today.
+
+..Hart/Thornton.. 11/01/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
  
 
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 
-## SPC - No watches are valid as of Tue Oct 31 21:58:02 UTC 2023
+## SPC - No watches are valid as of Wed Nov  1 15:59:02 UTC 2023
 
-date: 2023-10-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-11-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Oct 31 21:58:02 UTC 2023. 
+No watches are valid as of Wed Nov  1 15:59:02 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Tue Oct 31 21:58:02 UTC 2023
+## SPC - No MDs are in effect as of Wed Nov  1 15:59:02 UTC 2023
 
-date: 2023-10-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-11-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Oct 31 21:58:02 UTC 2023. 
+No Mesoscale Discussions are in effect as of Wed Nov  1 15:59:02 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/md/>
 
@@ -52,11 +57,526 @@ No Mesoscale Discussions are in effect as of Tue Oct 31 21:58:02 UTC 2023.
 
 ## 120h 0.5 Degree Wind Speed Probabilities [shp] - Multiple Basins
 
-date: 2023-10-31, from: Eastern Pacific Basin GIS Data
+date: 2023-11-01, from: Eastern Pacific Basin GIS Data
 
-Shapefile last updated Tue, 31 Oct 2023 21:23:26 GMT 
+Shapefile last updated Wed, 01 Nov 2023 15:23:33 GMT 
 
 <https://www.nhc.noaa.gov/gis/forecast/archive/wsp_120hrhalfDeg_latest.zip>
+
+---
+
+## Advisory #016 Forecast Track [kmz] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-11-01, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Wed, 01 Nov 2023 14:48:32 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP192023_016adv_TRACK.kmz>
+
+---
+
+## Advisory #016 Watches/Warnings [kmz] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-11-01, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Wed, 01 Nov 2023 14:48:26 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP192023_016adv_WW.kmz>
+
+---
+
+## Preliminary Best Track [shp] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-11-01, from: Eastern Pacific Basin GIS Data
+
+Track, Points, and Wind Swath. Shapefile last updated Wed, 01 Nov 2023 14:47:53 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep192023_best_track.zip>
+
+---
+
+## Preliminary Best Track Points [kmz] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-11-01, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Wed, 01 Nov 2023 14:47:53 GMT 
+
+<https://www.nhc.noaa.gov/gis/best_track/ep192023_best_track.kmz>
+
+---
+
+## Advisory #016 Wind Field [shp] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-11-01, from: Eastern Pacific Basin GIS Data
+
+Initial and Forecast Surface Winds. Shapefile last updated Wed, 01 Nov 2023 14:47:53 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep192023_fcst_016.zip>
+
+---
+
+## Advisory #016 Cone of Uncertainty [kmz] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-11-01, from: Eastern Pacific Basin GIS Data
+
+KMZ last updated Wed, 01 Nov 2023 14:47:40 GMT 
+
+<https://www.nhc.noaa.gov/storm_graphics/api/EP192023_016adv_CONE.kmz>
+
+---
+
+## Advisory #016 Forecast [shp] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-11-01, from: Eastern Pacific Basin GIS Data
+
+Forecast Track, Cone of Uncertainty, Watches/Warnings. Shapefile last updated Wed, 01 Nov 2023 14:47:33 GMT 
+
+<https://www.nhc.noaa.gov/gis/forecast/archive/ep192023_5day_016.zip>
+
+---
+
+## Tropical Storm Pilar Graphics
+
+date: 2023-11-01, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<a href="https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/144659.shtml?cone">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP19/EP192023_5day_cone_with_line_and_wind_sm2.png"
+alt="Tropical Storm Pilar 5-Day Uncertainty Track Image"
+width="500" height="400" /></a><br/>
+5-Day Uncertainty Track last updated Wed, 01 Nov 2023 14:46:59 GMT
+<br /><br /><a href="https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/144659.shtml?tswind120">
+<img src="https://www.nhc.noaa.gov/storm_graphics/EP19/EP192023_wind_probs_34_F120_sm2.png"
+alt="Tropical Storm Pilar 34-Knot Wind Speed Probabilities"
+width="500" height="400" /> </a><br/>
+Wind Speed Probabilities last updated Wed, 01 Nov 2023 15:22:55 GMT
+ 
+
+<https://www.nhc.noaa.gov/refresh/graphics_ep4+shtml/144659.shtml?cone>
+
+---
+
+## Tropical Storm Pilar Forecast Discussion Number 16
+
+date: 2023-11-01, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ44 KNHC 011446
+TCDEP4
+ 
+Tropical Storm Pilar Discussion Number  16
+NWS National Hurricane Center Miami FL       EP192023
+1000 AM CDT Wed Nov 01 2023
+ 
+Deep convection has continued to burst over the western portion of 
+Pilar's circulation this morning.  However, the cloud tops have been 
+warming during the past couple of hours, and recent visible imagery 
+still indicates that the low-level circulation is located near the 
+eastern edge of the convection.  The initial intensity is again held 
+at 50 kt, which is a blend of the latest subjective Dvorak T- and 
+CI-numbers from TAFB and SAB.
+ 
+Recent satellite fixes show that Pilar is now moving westward or
+270 degrees at 6 kt. A much faster westward to west-southwestward
+motion is expected during the next few days as a narrow mid-level
+ridge builds across southern Mexico.  The dynamical model guidance
+continues to trend toward a faster solution, and the NHC track
+forecast has again been sped up from the previous advisory.  The
+new forecast track lies between the previous interpolated forecast
+and the latest HCCA and TVCE consensus aids.
+ 
+The moderate shear that has been plaguing Pilar is expected to
+continue for another day or so.  Although the shear may decrease
+somewhat after that time, the storm is likely to encounter a drier
+and more stable airmass from an ongoing Gulf of Tehuantepec gap wind
+event.  In addition, Pilar is expected to pass over an area of
+slightly cooler upwelled waters to the south and southwest of the
+Gulf of Tehuantepec.  As a result of these unfavorable conditions,
+most of the dynamical model guidance shows gradual weakening
+during the next few days, and the NHC intensity forecast follows
+suit.  It should be noted that simulated satellite imagery from the
+GFS suggests that Pilar could struggle to maintain organized deep
+convection by the weekend.  The NHC forecast maintains Pilar as a
+tropical cyclone for the entire 5-day period, but it is possible
+that the system degenerates into a remnant low or trough before the
+end of the period.  There is still a fair amount of uncertainty in 
+the longer range status and intensity of the system.
+ 
+ 
+Key Messages:
+ 
+1. Additional heavy rainfall from Pilar will produce flash and urban
+flooding, along with mudslides in areas of higher terrain of the
+Pacific coast of Central America from southern El Salvador, across
+southern Honduras, western Nicaragua into northern Costa Rica
+through today.
+ 
+2. Tropical storm conditions are possible along portions of the
+Pacific coast of El Salvador where a Tropical Storm Watch remains
+in effect.
+ 
+3. Swells generated by Pilar will continue to affect the Pacific
+coast of Central America during the next day or two.  These
+swells are likely to cause life-threatening surf and rip current
+conditions.
+ 
+ 
+FORECAST POSITIONS AND MAX WINDS
+ 
+INIT  01/1500Z 12.5N  90.5W   50 KT  60 MPH
+ 12H  02/0000Z 12.2N  91.8W   45 KT  50 MPH
+ 24H  02/1200Z 11.6N  94.2W   45 KT  50 MPH
+ 36H  03/0000Z 10.6N  97.3W   45 KT  50 MPH
+ 48H  03/1200Z  9.9N 100.4W   40 KT  45 MPH
+ 60H  04/0000Z  9.4N 103.3W   40 KT  45 MPH
+ 72H  04/1200Z  9.3N 105.8W   35 KT  40 MPH
+ 96H  05/1200Z  9.6N 110.2W   35 KT  40 MPH
+120H  06/1200Z 10.4N 113.7W   30 KT  35 MPH
+ 
+$$
+Forecaster Brown
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCDEP4+shtml/011446.shtml>
+
+---
+
+## Tropical Storm Pilar Wind Speed Probabilities Number 16
+
+date: 2023-11-01, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+FOPZ14 KNHC 011445
+PWSEP4
+                                                                    
+TROPICAL STORM PILAR WIND SPEED PROBABILITIES NUMBER  16            
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP192023               
+1500 UTC WED NOV 01 2023                                            
+                                                                    
+AT 1500Z THE CENTER OF TROPICAL STORM PILAR WAS LOCATED NEAR        
+LATITUDE 12.5 NORTH...LONGITUDE 90.5 WEST WITH MAXIMUM SUSTAINED    
+WINDS NEAR 50 KTS...60 MPH...95 KM/H.                               
+                                                                    
+Z INDICATES COORDINATED UNIVERSAL TIME (GREENWICH)                  
+   PACIFIC  DAYLIGHT TIME (PDT)...SUBTRACT 7 HOURS FROM Z TIME      
+   HAWAIIAN STANDARD TIME (HST)...SUBTRACT 10 HOURS FROM Z TIME     
+                                                                    
+WIND SPEED PROBABILITY TABLE FOR SPECIFIC LOCATIONS                 
+                                                                    
+CHANCES OF SUSTAINED (1-MINUTE AVERAGE) WIND SPEEDS OF AT LEAST     
+   ...34 KT (39 MPH... 63 KM/H)...                                  
+   ...50 KT (58 MPH... 93 KM/H)...                                  
+   ...64 KT (74 MPH...119 KM/H)...                                  
+FOR LOCATIONS AND TIME PERIODS DURING THE NEXT 5 DAYS               
+                                                                    
+PROBABILITIES FOR LOCATIONS ARE GIVEN AS OP(CP) WHERE               
+    OP  IS THE PROBABILITY OF THE EVENT BEGINNING DURING            
+        AN INDIVIDUAL TIME PERIOD (ONSET PROBABILITY)               
+   (CP) IS THE PROBABILITY OF THE EVENT OCCURRING BETWEEN           
+        12Z WED AND THE FORECAST HOUR (CUMULATIVE PROBABILITY)      
+                                                                    
+PROBABILITIES ARE GIVEN IN PERCENT                                  
+X INDICATES PROBABILITIES LESS THAN 1 PERCENT                       
+PROBABILITIES FOR 34 KT AND 50 KT ARE SHOWN AT A GIVEN LOCATION WHEN
+THE 5-DAY CUMULATIVE PROBABILITY IS AT LEAST 3 PERCENT.             
+PROBABILITIES FOR 34...50...64 KT SHOWN WHEN THE 5-DAY              
+64-KT CUMULATIVE PROBABILITY IS AT LEAST 1 PERCENT.                 
+                                                                    
+                                                                    
+  - - - - WIND SPEED PROBABILITIES FOR SELECTED LOCATIONS - - - -   
+                                                                    
+               FROM    FROM    FROM    FROM    FROM    FROM    FROM 
+  TIME       12Z WED 00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN
+PERIODS         TO      TO      TO      TO      TO      TO      TO  
+             00Z THU 12Z THU 00Z FRI 12Z FRI 12Z SAT 12Z SUN 12Z MON
+                                                                    
+FORECAST HOUR    (12)   (24)    (36)    (48)    (72)    (96)   (120)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+LOCATION       KT                                                   
+                                                                    
+10N 105W       34  X   X( X)   X( X)   X( X)  18(18)   1(19)   X(19)
+10N 105W       50  X   X( X)   X( X)   X( X)   3( 3)   X( 3)   X( 3)
+ 
+10N 100W       34  X   X( X)   2( 2)  31(33)   3(36)   X(36)   X(36)
+10N 100W       50  X   X( X)   X( X)   6( 6)   1( 7)   X( 7)   X( 7)
+10N 100W       64  X   X( X)   X( X)   1( 1)   1( 2)   X( 2)   X( 2)
+ 
+10N 95W        34  X   4( 4)  10(14)   X(14)   X(14)   X(14)   X(14)
+ 
+CLIPPERTON IS  34  X   X( X)   X( X)   X( X)   1( 1)   7( 8)   2(10)
+ 
+10N 110W       34  X   X( X)   X( X)   X( X)   1( 1)   8( 9)   2(11)
+ 
+$$                                                                  
+FORECASTER BROWN                                                    
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIAPWSEP4+shtml/011445.shtml>
+
+---
+
+## NHC Eastern North Pacific Outlook
+
+date: 2023-11-01, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_2d0_resize.gif" alt="Eastern North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_7d0_resize.gif" alt="Eastern North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOEP ALL<br />
+TTAA00 KNHC DDHHMM<br />
+<br />
+Tropical Weather Outlook<br />
+NWS National Hurricane Center Miami FL<br />
+500 AM PDT Wed Nov 1 2023<br />
+<br />
+For the eastern North Pacific...east of 140 degrees west longitude:<br />
+<br />
+Active Systems:<br />
+The National Hurricane Center is issuing advisories on Tropical <br />
+Storm Pilar, located about 100 miles south of the coast of El <br />
+Salvador.<br />
+<br />
+1. Central East Pacific (EP93):<br />
+An area of low pressure located several hundred miles south- <br />
+southwest of the southern tip of the Baja California peninsula has <br />
+become a little better defined since yesterday.  However, the <br />
+thunderstorm activity remains limited and displaced well to the <br />
+north of the circulation center. Environmental conditions are <br />
+forecast to become increasingly unfavorable for development during <br />
+the next day or two, and significant development of this system <br />
+appears unlikely as it meanders over the central portion of the <br />
+eastern Pacific basin.<br />
+* Formation chance through 48 hours...low...10 percent.<br />
+* Formation chance through 7 days...low...10 percent.<br />
+<br />
+Forecaster Brown<br />
+<br />
+</div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## Summary - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-11-01, from: Eastern Pacific Basin GIS Data
+
+...PILAR NOW MOVING WESTWARD AWAY FROM THE PACIFIC COAST OF CENTRAL AMERICA.... ...HEAVY RAINFALL AND FLASH FLOODING STILL A THREAT OVER PORTIONS OF CENTRAL AMERICA...
+ As of 10:00 AM CDT Wed Nov 1
+ the center of Pilar was located near 12.5, -90.5
+ with movement W at 7 mph.
+ The minimum central pressure was 996 mb
+ with maximum sustained winds of about 60 mph. 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCPEP4+shtml/011445.shtml>
+
+---
+
+## Tropical Storm Pilar Forecast Advisory Number 16
+
+date: 2023-11-01, from: Eastern Pacific Basin Tropical Cyclones
+
+<pre>
+
+000
+WTPZ24 KNHC 011445
+TCMEP4
+ 
+TROPICAL STORM PILAR FORECAST/ADVISORY NUMBER  16
+NWS NATIONAL HURRICANE CENTER MIAMI FL       EP192023
+1500 UTC WED NOV 01 2023
+ 
+NOTICE... LAND-BASED TROPICAL CYCLONE WATCHES AND WARNINGS ARE NO
+LONGER INCLUDED IN THE TROPICAL CYCLONE FORECAST/ADVISORY...(TCM).
+CURRENT LAND-BASED COASTAL WATCHES AND WARNINGS CAN BE FOUND IN THE
+MOST RECENTLY ISSUED TROPICAL CYCLONE PUBLIC ADVISORY...(TCP).
+ 
+TROPICAL STORM CENTER LOCATED NEAR 12.5N  90.5W AT 01/1500Z
+POSITION ACCURATE WITHIN  40 NM
+ 
+PRESENT MOVEMENT TOWARD THE WEST OR 270 DEGREES AT   6 KT
+ 
+ESTIMATED MINIMUM CENTRAL PRESSURE  996 MB
+MAX SUSTAINED WINDS  50 KT WITH GUSTS TO  60 KT.
+50 KT.......  0NE   0SE  30SW  30NW.
+34 KT....... 60NE  50SE  60SW  70NW.
+12 FT SEAS.. 60NE  60SE  60SW  90NW.
+WINDS AND SEAS VARY GREATLY IN EACH QUADRANT.  RADII IN NAUTICAL
+MILES ARE THE LARGEST RADII EXPECTED ANYWHERE IN THAT QUADRANT.
+ 
+REPEAT...CENTER LOCATED NEAR 12.5N  90.5W AT 01/1500Z
+AT 01/1200Z CENTER WAS LOCATED NEAR 12.4N  90.1W
+ 
+FORECAST VALID 02/0000Z 12.2N  91.8W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 60NE  40SE  40SW  60NW.
+ 
+FORECAST VALID 02/1200Z 11.6N  94.2W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 60NE  30SE  30SW  60NW.
+ 
+FORECAST VALID 03/0000Z 10.6N  97.3W
+MAX WIND  45 KT...GUSTS  55 KT.
+34 KT... 50NE  30SE  30SW  50NW.
+ 
+FORECAST VALID 03/1200Z  9.9N 100.4W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 40NE   0SE  20SW  40NW.
+ 
+FORECAST VALID 04/0000Z  9.4N 103.3W
+MAX WIND  40 KT...GUSTS  50 KT.
+34 KT... 30NE   0SE   0SW  30NW.
+ 
+FORECAST VALID 04/1200Z  9.3N 105.8W
+MAX WIND  35 KT...GUSTS  45 KT.
+34 KT... 30NE   0SE   0SW  30NW.
+ 
+EXTENDED OUTLOOK. NOTE...ERRORS FOR TRACK HAVE AVERAGED NEAR 100 NM
+ON DAY 4 AND 125 NM ON DAY 5...AND FOR INTENSITY NEAR 15 KT EACH DAY
+ 
+OUTLOOK VALID 05/1200Z  9.6N 110.2W
+MAX WIND  35 KT...GUSTS  45 KT.
+ 
+OUTLOOK VALID 06/1200Z 10.4N 113.7W
+MAX WIND  30 KT...GUSTS  40 KT.
+ 
+REQUEST FOR 3 HOURLY SHIP REPORTS WITHIN 300 MILES OF 12.5N  90.5W
+ 
+INTERMEDIATE PUBLIC ADVISORY...WTNT34 KNHC/MIATCPEP4...AT 01/1800Z
+ 
+NEXT ADVISORY AT 01/2100Z
+ 
+$$
+FORECASTER BROWN
+ 
+ 
+</pre> 
+
+<https://www.nhc.noaa.gov/text/refresh/MIATCMEP4+shtml/011445.shtml>
+
+---
+
+## ATCF XML Prototype [xml] - Tropical Storm Pilar (EP4/EP192023)
+
+date: 2023-11-01, from: Eastern Pacific Basin GIS Data
+
+Issued at  Wed, 01 Nov 2023 14:45:08 GMT. This is only a prototype and the file format may change without notice. 
+
+<https://www.nhc.noaa.gov/storm_graphics/EP19/atcf-ep192023.xml>
+
+---
+
+## SPC Nov 1, 2023 1300 UTC Day 1 Convective Outlook
+
+date: 2023-11-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0648 AM CDT Wed Nov 01 2023
+
+Valid 011300Z - 021200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+No overland thunderstorm areas are forecast today.
+
+...Synopsis/Discussion...
+In mid/upper levels, a longwave trough will persist over eastern
+North America, though its amplitude will decrease somewhat, due to
+the ejection/weakening of a strong shortwave trough now over Lake
+Ontario and the central Appalachians.  Ridging aloft will prevail
+over the Pacific Coast States, before a day-2 trough's moving
+ashore.  Following a major low-level cold-frontal intrusion across 
+the central/eastern CONUS and Gulf, and with a lack of moisture and
+lift in the West as well, the air mass will be unfavorable for
+thunderstorm areas across the CONUS.
+
+..Edwards.. 11/01/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## Central North Pacific Tropical Weather Outlook
+
+date: 2023-11-01, from: Central Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ACPN50 PHFO 011102<br/>
+TWOCP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS Central Pacific Hurricane Center Honolulu HI<br/>
+200 AM HST Wed Nov 1 2023<br/>
+<br/>
+For the central North Pacific...between 140W and 180W:<br/>
+<br/>
+No tropical cyclones are expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Jelsema<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2023-11-01, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br />
+TTAA00 KNHC DDHHMM<br />
+<br />
+Tropical Weather Outlook<br />
+NWS National Hurricane Center Miami FL<br />
+800 AM EDT Wed Nov 1 2023<br />
+<br />
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />
+<br />
+1. Central Caribbean Sea (AL97):<br />
+Disorganized showers and thunderstorms over the central Caribbean <br />
+Sea are associated with a trough of low pressure.  Environmental <br />
+conditions could become a little more conducive for development in a <br />
+day or two, and a tropical depression could form when the system <br />
+moves over the southwestern Caribbean Sea during the latter part of <br />
+this week.  Regardless of development, this system has the potential <br />
+to produce heavy rains over portions of Central America late this <br />
+week and into the weekend. <br />
+* Formation chance through 48 hours...low...20 percent. <br />
+* Formation chance through 7 days...medium...50 percent.<br />
+<br />
+Forecaster Brown<br />
+<br />
+</div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
@@ -157,26 +677,6 @@ date: 2023-10-31, from: Eastern Pacific Basin GIS Data
 KMZ last updated Tue, 31 Oct 2023 20:35:40 GMT 
 
 <https://www.nhc.noaa.gov/storm_graphics/api/EP192023_013adv_CONE.kmz>
-
----
-
-## Preliminary Best Track [shp] - Tropical Storm Pilar (EP4/EP192023)
-
-date: 2023-10-31, from: Eastern Pacific Basin GIS Data
-
-Track, Points, and Wind Swath. Shapefile last updated Tue, 31 Oct 2023 20:35:32 GMT 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep192023_best_track.zip>
-
----
-
-## Preliminary Best Track Points [kmz] - Tropical Storm Pilar (EP4/EP192023)
-
-date: 2023-10-31, from: Eastern Pacific Basin GIS Data
-
-KMZ last updated Tue, 31 Oct 2023 20:35:32 GMT 
-
-<https://www.nhc.noaa.gov/gis/best_track/ep192023_best_track.kmz>
 
 ---
 
@@ -490,16 +990,6 @@ FORECASTER KELLY
 
 ---
 
-## ATCF XML Prototype [xml] - Tropical Storm Pilar (EP4/EP192023)
-
-date: 2023-10-31, from: Eastern Pacific Basin GIS Data
-
-Issued at  Tue, 31 Oct 2023 20:33:57 GMT. This is only a prototype and the file format may change without notice. 
-
-<https://www.nhc.noaa.gov/storm_graphics/EP19/atcf-ep192023.xml>
-
----
-
 ## Tropical Storm Pilar Forecast Advisory Number 13
 
 date: 2023-10-31, from: Eastern Pacific Basin Tropical Cyclones
@@ -697,88 +1187,6 @@ potential, with fire weather highlights withheld for now.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2023-10-31, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br />
-TTAA00 KNHC DDHHMM<br />
-<br />
-Tropical Weather Outlook<br />
-NWS National Hurricane Center Miami FL<br />
-200 PM EDT Tue Oct 31 2023<br />
-<br />
-For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />
-<br />
-1. Eastern Caribbean Sea (AL97):<br />
-Shower and thunderstorm activity in association with a trough of low <br />
-pressure over the eastern Caribbean Sea has diminished and not <br />
-become any better organized this afternoon. Although environmental <br />
-conditions appear marginally conducive for further development <br />
-during the next several days while the system moves westward over <br />
-the central and southwestern Caribbean Sea, a tropical depression <br />
-could form by the latter part of this week. Regardless of <br />
-development, this system has the potential to produce heavy rains <br />
-over portions of Central America towards the end of the week. <br />
-* Formation chance through 48 hours...low...20 percent. <br />
-* Formation chance through 7 days...medium...60 percent.<br />
-<br />
-Forecaster Kelly<br />
-<br />
-</div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2023-10-31, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 311740<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-1100 AM PDT Tue Oct 31 2023<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Active Systems:<br/>
-The National Hurricane Center is issuing advisories on Tropical <br/>
-Storm Pilar, located a couple of hundred miles south-southwest of <br/>
-the coast of El Salvador.<br/>
-<br/>
-Southwestern East Pacific (EP93):<br/>
-Disorganized showers and thunderstorms located about 900 miles <br/>
-south-southwest of the southern tip of the Baja California peninsula <br/>
-are associated with an elongated area of low pressure.  This system <br/>
-has not become any better organized since yesterday, and <br/>
-environmental conditions are forecast to become increasingly <br/>
-unfavorable for development during the next day or two while the<br/>
-low drifts generally northeastward. <br/>
-* Formation chance through 48 hours...low...10 percent.<br/>
-* Formation chance through 7 days...low...10 percent.<br/>
-<br/>
-$$<br/>
-Forecaster Brown<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 
