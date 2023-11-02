@@ -1,5 +1,15 @@
 
-(date: 2023-11-01 09:22:33)
+(date: 2023-11-01 17:10:25)
+
+---
+
+## Video game review: ‘Spider-Man 2’ combines two beloved Spider-men into one
+
+date: 2023-11-01, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Five years after the rousing success of 2018&#8217;s Marvel&#8217;s Spider-Man, the long-awaited sequel was released on Oct. 20 and was worth the wait. In between those five years, the Miles Morales spin-off game, “Marvel’s Spider-Man: Miles Morales” was released on Nov. 12, 2020 ,and was very well-received by fans despite its short game length. In... 
+
+<https://fscollegian.com/2023/11/video-game-review-spider-man-2-combines-two-beloved-spider-men-into-one/>
 
 ---
 

@@ -1,5 +1,125 @@
 
-(date: 2023-11-01 09:22:36)
+(date: 2023-11-01 17:10:27)
+
+---
+
+## UH defensive lineman nominated for Burlsworth Trophy
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p>Andrew Choi is recognized for his outstanding performance on the field.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/01/andrew-choi-uh-football-trophy/"><abbr>UH</abbr> defensive lineman nominated for Burlsworth Trophy</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/01/andrew-choi-uh-football-trophy/>
+
+---
+
+## Guam, Puerto Rico must team up for decolonization through congressional or judicial routes
+
+date: 2023-11-01, from: Pacific Island Times
+
+Beginning on what Americans alternately celebrate as Columbus Day and/or Indigenous People’s Day, the United Nations Human Rights... 
+
+<https://www.pacificislandtimes.com/post/guam-puerto-rico-must-team-up-for-decolonization-through-congressional-or-judicial-routes>
+
+---
+
+## Woman accused of killing 1-year-old son
+
+date: 2023-11-01, from: The Guam Daily Post
+
+Police have arrested a mother on suspicion of murdering her 1-year-old son. 
+
+<https://www.postguam.com/news/woman-accused-of-killing-1-year-old-son/article_f4b98a96-790d-11ee-8ab3-53bca3660e05.html>
+
+---
+
+## ‘Entre-Pinoy-Ship’ spotlights business journeys of Filipino Americans
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p>To celebrate National Filipino American History month, Filipino American entrepreneurs shared they knowledge and inspiration to students at <abbr>RISE</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/01/entre-pinoy-ship/">‘Entre-Pinoy-Ship’ spotlights business journeys of Filipino Americans</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/01/entre-pinoy-ship/>
+
+---
+
+## Bikini’s last hope effort
+
+date: 2023-11-01, from: Marshal Islands Journal
+
+<p>Journal 11/7/1986P1 RepMar invests $150m fundThe $150 million nuclear claims fund was turned over to RepMar by the US government last week and deposited into an account with the Irving Trust Company over the weekend.P3 Palau voting againPalauans will vote by December 15 on a pact that would allow the United States to operate nuclear-propelled [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/bikinis-last-hope-effort/">Bikini&#8217;s last hope effort</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/bikinis-last-hope-effort/>
+
+---
+
+## UH Foundation launches historic $1 billion campaign: For UH • For Hawaiʻi
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p>Private support for <abbr>UH</abbr> is critical for maintaining academic and research excellence as public funding fluctuates with <span aria-label="Hawaii">Hawai&#699;i</span>’s economy.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/01/uh-foundation-campaign-for-uh-for-hawaii/"><abbr>UH</abbr> Foundation launches historic $1 billion campaign: For <abbr>UH</abbr> • For Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/01/uh-foundation-campaign-for-uh-for-hawaii/>
+
+---
+
+## Celebrating 50 years of ʻImi Hoʻōla
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p>The program is credited with putting 300 Native Hawaiians and others from underserved backgrounds on the path to medicine.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/01/50-years-of-imi-hoola/">Celebrating 50 years of ʻImi Hoʻōla</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/01/50-years-of-imi-hoola/>
+
+---
+
+## From baking aficionado to social media influencer, Shidler alumna shares success
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p>When she puts on her @fiveftfoodie hat, Quach is busy showcasing eateries around the island and other locations she travels to.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/01/corina-quach-shidler-college/">From baking aficionado to social media influencer, Shidler alumna shares success</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/01/corina-quach-shidler-college/>
+
+---
+
+## Pumpkin carving, costumes bring Halloween spirit to School of Architecture
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p>Pumpkin carving, a costume contest and spontaneous karaoke were featured in this year’s <abbr>UH</abbr> M&#257;noa School of Architecture’s Pumpkin Equisse event on October 27.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/01/pumpkin-carving-architecture/">Pumpkin carving, costumes bring Halloween spirit to School of Architecture</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/01/pumpkin-carving-architecture/>
+
+---
+
+## November 2023 anniversaries
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p>The University of <span aria-label="Hawaii">Hawai&#699;i</span> celebrates November 2023 faculty and staff anniversaries</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/01/november-2023-anniversaries/">November 2023 anniversaries</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/01/november-2023-anniversaries/>
+
+---
+
+## Share your UH-mazing holiday recipe
+
+date: 2023-11-01, from: University of Hawaiʻi News
+
+<p>Share a favorite recipe and short write up for the holiday season.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/01/uh-mazing-holiday-recipe-2023/">Share your <abbr>UH</abbr>-mazing holiday recipe</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/01/uh-mazing-holiday-recipe-2023/>
 
 ---
 
