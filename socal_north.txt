@@ -45,6 +45,7 @@ https://www.tataviam-nsn.us/feed/ "~Tatavium Tribal News"
 https://laconservancy.tumblr.com/rss "~L.A. Conservancy Blog"
 https://www.sgvlug.org/feeds/all.atom.xml "~San Gabriel Valley Linux User Group"
 https://theodorepayne.org/feed/ "~Theodore Paine Foundation"
+https://www.cnps.org/feed "~California Native Plants Society"
 
 #
 # Research Libraries and organizations
