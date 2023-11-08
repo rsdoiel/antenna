@@ -1,5 +1,25 @@
 
-(date: 2023-11-08 11:05:47)
+(date: 2023-11-08 11:33:36)
+
+---
+
+## 'You go online and you see everyone saying the worst things to each other, and it’s hard to stay positive...' Find out what makes these stars TRIGGERED!
+
+date: 2023-11-08, from: Pacific Daily News
+
+Who'd have thought some of the world's biggest stars could be so sensitive. These famous folk just can't stand to hear certain opinions or descend into an emotional spiral when these things happen to them. This is what triggers them! 
+
+<https://www.guampdn.com/lifestyle/entertainment/you-go-online-and-you-see-everyone-saying-the-worst-things-to-each-other-and/collection_a728f544-5491-54b3-8bd1-e5a4ea0849d1.html>
+
+---
+
+## ‘General Hospital’ Star John J. York Gives Health Update Amid Cancer Battle
+
+date: 2023-11-08, from: Pacific Daily News
+
+The actor is undergoing a stem cell transplant. 
+
+<https://www.guampdn.com/lifestyle/entertainment/general-hospital-star-john-j-york-gives-health-update-amid-cancer-battle/article_7918272b-931a-58b1-a3b5-356fa2b75078.html>
 
 ---
 
@@ -14,6 +34,76 @@ The post <a href="https://www.hawaii.edu/news/2023/11/08/uh-news-image-of-the-we
 
 ---
 
+## NFL: New York Giants at Las Vegas Raiders
+
+date: 2023-11-08, from: Pacific Daily News
+
+Nov 5, 2023; Paradise, Nevada, USA; New York Giants quarterback Tommy DeVito (15) is pressured by Las Vegas Raiders defensive end Maxx Crosby (98) during the fourth quarter at Allegiant Stadium. Mandatory Credit: Stephen R. Sylvanie-USA TODAY Sports 
+
+<https://www.guampdn.com/sports/national/nfl-new-york-giants-at-las-vegas-raiders/image_e3df708a-4a14-5bc2-8393-f36ea932137e.html>
+
+---
+
+## Giants tab QB Tommy DeVito to start vs. Cowboys
+
+date: 2023-11-08, from: Pacific Daily News
+
+Giants tab QB Tommy DeVito to start vs. Cowboys 
+
+<https://www.guampdn.com/sports/national/giants-tab-qb-tommy-devito-to-start-vs-cowboys/article_587e8320-6e1b-5158-b25b-216f6fba281e.html>
+
+---
+
+## Ryan Reynolds' kids 'obsessed' with Wrexham AFC
+
+date: 2023-11-08, from: Pacific Daily News
+
+Ryan Reynolds bonds with his kids over their mutual love of Wrexham AFC. 
+
+<https://www.guampdn.com/lifestyle/entertainment/ryan-reynolds-kids-obsessed-with-wrexham-afc/article_0efd75b5-682b-5a6c-b3e4-b12a6ad24689.html>
+
+---
+
+## NCAA Football: Tulane at East Carolina
+
+date: 2023-11-08, from: Pacific Daily News
+
+Nov 4, 2023; Greenville, North Carolina, USA; Tulane Green Wave quarterback Michael Pratt (7) looks on before the game against the East Carolina Pirates at Dowdy-Ficklen Stadium. Mandatory Credit: James Guillory-USA TODAY Sports 
+
+<https://www.guampdn.com/sports/national/ncaa-football-tulane-at-east-carolina/image_6a6709c7-5675-530e-82a9-8d86ae2a2579.html>
+
+---
+
+## No. 23 Tulane chasing eight in a row, clashes with Tulsa
+
+date: 2023-11-08, from: Pacific Daily News
+
+No. 23 Tulane chasing eight in a row, clashes with Tulsa 
+
+<https://www.guampdn.com/sports/national/no-23-tulane-chasing-eight-in-a-row-clashes-with-tulsa/article_50fb879d-8f91-5c0d-b7f7-2efa3ce72eaa.html>
+
+---
+
+## NCAA Football: Oregon State at Arizona
+
+date: 2023-11-08, from: Pacific Daily News
+
+Oct 28, 2023; Tucson, Arizona, USA; Arizona Wildcats quarterback Noah Fifita #11 drops back to make a pass against Oregon State Beavers defensive lineman Sione Lolohea #8 during the first half at Arizona Stadium. Mandatory Credit: Zachary BonDurant-USA TODAY Sports 
+
+<https://www.guampdn.com/sports/national/ncaa-football-oregon-state-at-arizona/image_98726ac6-ccc1-5f80-a00c-a914b5033dbe.html>
+
+---
+
+## Noah Fifita, No. 21 Arizona set to challenge Colorado
+
+date: 2023-11-08, from: Pacific Daily News
+
+Noah Fifita, No. 21 Arizona set to challenge Colorado 
+
+<https://www.guampdn.com/sports/national/noah-fifita-no-21-arizona-set-to-challenge-colorado/article_8f96b8bb-c336-54c8-9c27-cf68fd8a4811.html>
+
+---
+
 ## Why these five moms jumped out of a plane together
 
 date: 2023-11-08, from: The Guam Daily Post
@@ -21,6 +111,96 @@ date: 2023-11-08, from: The Guam Daily Post
 The moms wanted to honor their children who died from brain tumors, and to raise money for charity. 
 
 <https://www.postguam.com/lifestyles/health/why-these-five-moms-jumped-out-of-a-plane-together/article_568ee6e7-70d3-5f66-930c-a17a1b2dfd13.html>
+
+---
+
+## Why these five moms jumped out of a plane together
+
+date: 2023-11-08, from: Pacific Daily News
+
+Louise Fox and other mums decided to skydive to raise cash for brain cancer charity Tessa Jowell Foundation (Pix via SWNS) 
+
+<https://www.guampdn.com/lifestyle/wellness/why-these-five-moms-jumped-out-of-a-plane-together/image_c9fdd1bc-6a3c-5a76-a8cf-8ec1aa44bd63.html>
+
+---
+
+## Why these five moms jumped out of a plane together
+
+date: 2023-11-08, from: Pacific Daily News
+
+Louise Fox and other moms decided to skydive to raise cash for brain cancer charity Tessa Jowell Foundation. (SWNS) 
+
+<https://www.guampdn.com/lifestyle/wellness/why-these-five-moms-jumped-out-of-a-plane-together/image_87cdc8e2-cd69-5343-97fd-28acd5224a1e.html>
+
+---
+
+## Why these five moms jumped out of a plane together
+
+date: 2023-11-08, from: Pacific Daily News
+
+Louise Fox and other moms decided to skydive to raise cash for brain cancer charity Tessa Jowell Foundation. (SWNS) 
+
+<https://www.guampdn.com/lifestyle/wellness/why-these-five-moms-jumped-out-of-a-plane-together/image_a112a9fd-3218-5213-8d68-adde85c5b299.html>
+
+---
+
+## Why these five moms jumped out of a plane together
+
+date: 2023-11-08, from: Pacific Daily News
+
+Louise Fox and other moms decided to skydive to raise cash for brain cancer charity Tessa Jowell Foundation (Pix via SWNS) 
+
+<https://www.guampdn.com/lifestyle/wellness/why-these-five-moms-jumped-out-of-a-plane-together/image_cd6e8197-5992-515d-b4d5-1406869cce33.html>
+
+---
+
+## Why these five moms jumped out of a plane together
+
+date: 2023-11-08, from: Pacific Daily News
+
+The moms wanted to honor their children who died from brain tumors, and to raise money for charity. 
+
+<https://www.guampdn.com/lifestyle/wellness/why-these-five-moms-jumped-out-of-a-plane-together/article_fcc7164c-6e4b-5656-bb7a-2dc9aca42dfc.html>
+
+---
+
+## ‘The Boys’ Season 4 Sets Premiere With New Billy Butcher & Homelander Posters (PHOTOS)
+
+date: 2023-11-08, from: Pacific Daily News
+
+Find out when the Prime Video hit will be back on screen. 
+
+<https://www.guampdn.com/lifestyle/entertainment/the-boys-season-4-sets-premiere-with-new-billy-butcher-homelander-posters-photos/article_34445136-9203-595c-ab84-5e6920ffd16d.html>
+
+---
+
+## NFL: Cincinnati Bengals at Arizona Cardinals
+
+date: 2023-11-08, from: Pacific Daily News
+
+Oct 8, 2023; Glendale, Arizona, USA; Arizona Cardinals running back James Conner (6) against diving Cincinnati Bengals cornerback Cam Taylor-Britt at State Farm Stadium. Mandatory Credit: Mark J. Rebilas-USA TODAY Sports 
+
+<https://www.guampdn.com/sports/national/nfl-cincinnati-bengals-at-arizona-cardinals/image_e53751cf-4929-5d79-8afd-3e257df6ea48.html>
+
+---
+
+## Cardinals open 21-day practice window for RB James Conner
+
+date: 2023-11-08, from: Pacific Daily News
+
+Cardinals open 21-day practice window for RB James Conner 
+
+<https://www.guampdn.com/sports/national/cardinals-open-21-day-practice-window-for-rb-james-conner/article_19c6edfc-2103-5793-9fcf-d033f3709935.html>
+
+---
+
+## 'Britain's obsession with conformity suffocates individuality. I refuse to be part of the sheep herd...' Find out which stars HATE the UK!
+
+date: 2023-11-08, from: Pacific Daily News
+
+Britain is known around the globe for the Royal Family, James Bond, tea and crumpets, Big Ben, fish and chips, The Beatles, Doctor Who, and much more that makes it a beloved country. But, believe it or not, there are&#8230; 
+
+<https://www.guampdn.com/lifestyle/entertainment/britains-obsession-with-conformity-suffocates-individuality-i-refuse-to-be-part-of-the-sheep-herd/collection_b1de94f4-5c59-594c-878d-136bd1af1f37.html>
 
 ---
 

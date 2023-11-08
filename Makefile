@@ -70,6 +70,8 @@ mid_central.txt:
 socal_north: socal_north.html
 
 socal_north.html: socal_north.md front_page.tmpl
+	skim2md socal_north.skim >socal_north.md
+	cp socal_north.md $(YEAR)/socal_north_$(VOL_NO).md
 	pandoc -f markdown -t html5 \
 	       --lua-filter=links-to-html.lua \
 	       --metadata title="SoCal North, vol. $(VOL_NO)" \
@@ -84,8 +86,6 @@ socal_north.html: socal_north.md front_page.tmpl
 		   >socal_north.html
 
 socal_north.md: socal_north.txt
-	skim2md socal_north.skim >socal_north.md
-	cp socal_north.md $(YEAR)/socal_north_$(VOL_NO).md
 
 socal_north.txt:
 	env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer socal_north.txt
@@ -95,6 +95,9 @@ socal_north.txt:
 pacific: pacific.html
 
 pacific.html: pacific.md front_page.tmpl
+	./pacific_filter.bash
+	skim2md pacific.skim >pacific.md
+	cp pacific.md $(YEAR)/pacific_$(VOL_NO).md
 	pandoc -f markdown -t html5 \
                --lua-filter=links-to-html.lua \
 	       --metadata title="Pacific, vol. $(VOL_NO)" \
@@ -109,9 +112,6 @@ pacific.html: pacific.md front_page.tmpl
 		   >pacific.html
 
 pacific.md: pacific.txt
-	./pacific_filter.bash
-	skim2md pacific.skim >pacific.md
-	cp pacific.md $(YEAR)/pacific_$(VOL_NO).md
 
 pacific.txt:
 	env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer pacific.txt
@@ -121,6 +121,8 @@ pacific.txt:
 weather: weather.html 
 
 weather.html: weather.md front_page.tmpl
+	skim2md weather.skim >"weather.md"
+	cp weather.md $(YEAR)/weather_$(VOL_NO).md
 	pandoc -f markdown -t html5 \
                --lua-filter=links-to-html.lua \
 	       --metadata title="Weather, vol. $(VOL_NO)" \
@@ -135,8 +137,6 @@ weather.html: weather.md front_page.tmpl
 		   >"weather.html"
 
 weather.md: weather.txt
-	skim2md weather.skim >"weather.md"
-	cp weather.md $(YEAR)/weather_$(VOL_NO).md
 
 weather.txt:
 	env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer weather.txt
@@ -153,7 +153,7 @@ clean: .FORCE
 	-rm weather.html 2>/dev/null
 	-rm pacific.md 2>/dev/null
 	-rm pacific.html 2>/dev/null
-	cd $(YEAR) && make clean
+#	cd $(YEAR) && make clean
 
 
 CITATION.cff: .FORCE
@@ -189,7 +189,7 @@ refresh:
 publish: .FORCE build
 	./publish.bash
 
-get_updates: .FORCE
+get_updates: clean .FORCE
 	-skimmer socal_north.txt
 	sqlite3 mid_central.skim "UPDATE items SET status = 'read'"
 	sqlite3 mid_central.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
@@ -202,6 +202,5 @@ get_updates: .FORCE
 	-skimmer weather.txt
 	sqlite3 weather.skim "UPDATE items SET status = 'read'"
 	sqlite3 weather.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
-	touch socal_north.txt pacific.txt mid_central.txt weather.txt
 
 .FORCE:

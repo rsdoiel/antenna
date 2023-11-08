@@ -1,5 +1,5 @@
 
-(date: 2023-11-08 11:05:47)
+(date: 2023-11-08 11:33:36)
 
 ---
 
@@ -30,42 +30,6 @@ date: 2023-11-08, from: NOAA tornado/severe thunderstorm watches, mesoscale disc
 No Mesoscale Discussions are in effect as of Wed Nov  8 17:40:02 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/md/>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2023-11-08, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 081731<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-800 AM HST Wed Nov 8 2023<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Foster<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2023-11-08, from: Central Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Wed, 08 Nov 2023 18:06:36 GMT 
-
-<https://www.nhc.noaa.gov/>
 
 ---
 
@@ -163,28 +127,39 @@ NNNN<br />
 
 ---
 
-## Eastern Pacific Tropical Weather Outlook
+## Eastern North Pacific Tropical Weather Outlook
 
-date: 2023-11-08, from: Eastern Pacific Tropical Weather Outlook
+date: 2023-11-08, from: Eastern Pacific Basin Tropical Cyclones
 
- <br />
- 000<br />
- ABPZ20 KNHC 081718<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 1000 AM PST Wed Nov 8 2023<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Tropical cyclone formation is not expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster Cangialosi<br />
-  
+
+<br/>
+000<br/>
+ABPZ20 KNHC 081718<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+1000 AM PST Wed Nov 8 2023<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Cangialosi<br/>
+ 
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2023-11-08, from: Eastern Pacific Basin Tropical Cyclones
+
+No tropical cyclones as of Wed, 08 Nov 2023 18:06:36 GMT 
+
+<https://www.nhc.noaa.gov/>
 
 ---
 
@@ -269,6 +244,39 @@ Elevated delineation.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
+
+---
+
+## CPHC Central North Pacific Outlook
+
+date: 2023-11-08, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br />
+TTAA00 PHFO DDHHMM<br />
+<br />
+Tropical Weather Outlook<br />
+NWS Central Pacific Hurricane Center Honolulu HI<br />
+200 AM HST Wed Nov 8 2023<br />
+<br />
+For the central North Pacific...between 140W and 180W:<br />
+<br />
+No tropical cyclones are expected during the next 7 days.<br />
+<br />
+$$<br />
+Forecaster Shigesato<br />
+NNNN<br />
+<br />
+</div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
 ---
 
