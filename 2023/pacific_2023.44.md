@@ -1,5 +1,25 @@
 
-(date: 2023-11-05 10:03:00)
+(date: 2023-11-05 13:02:41)
+
+---
+
+## Australia says no. Charles III will ‘acknowledge.’ What now for Pacific islanders? 
+
+date: 2023-11-05, from: Pacific Island Times
+
+London-- Australia overwhelmingly rejected a plan to give its indigenous people greater political rights this month. This comes against... 
+
+<https://www.pacificislandtimes.com/post/australia-says-no-charles-iii-will-acknowledge-what-now-for-pacific-islanders>
+
+---
+
+## The silent battle beneath the waves
+
+date: 2023-11-05, from: Pacific Island Times
+
+US-China competition in the Pacific extends to the floors of Pacific Ocean By Mar-Vic Cagurangan Undersea fiber optic cables started out... 
+
+<https://www.pacificislandtimes.com/post/the-silent-battle-beneath-the-waves>
 
 ---
 
