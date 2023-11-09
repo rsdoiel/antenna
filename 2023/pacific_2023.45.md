@@ -1,5 +1,475 @@
 
-(date: 2023-11-08 11:33:36)
+(date: 2023-11-09 10:02:42)
+
+---
+
+## Special toothpaste could save lives of people with peanut allergies
+
+date: 2023-11-09, from: The Guam Daily Post
+
+The proposed product would contain tiny amounts of the nut to build patients’ immunity over time. 
+
+<https://www.postguam.com/lifestyles/health/special-toothpaste-could-save-lives-of-people-with-peanut-allergies/article_da5a1ae9-6ca6-578a-89e4-d17a708392eb.html>
+
+---
+
+## Sold
+
+date: 2023-11-09, updated: 2023-11-09, from: Marianas Variety
+
+Uninstructed lawmaking 
+
+<https://www.mvariety.com/views/editorials/sold/article_1a6757ce-7f1b-11ee-84c1-b3abed656f03.html>
+
+---
+
+## Va’a gives opportunities to young athletes
+
+date: 2023-11-09, updated: 2023-11-09, from: Marianas Variety
+
+(NMA) — The Northern Mariana Islands Va’a National Team is made up of many young paddlers and the sport’s leadership would like to give them opportunities to experience competing in high-level events such as the upcoming 2023 Pacific Games in Honiara, the Solomon Islands. 
+
+<https://www.mvariety.com/sports/localsports/va-a-gives-opportunities-to-young-athletes/article_3ec70452-7ee4-11ee-b0c5-cb3dcc93c3c9.html>
+
+---
+
+## Grants office: Updates received on fisheries relief applications
+
+date: 2023-11-09, updated: 2023-11-09, from: Marianas Variety
+
+(OGM-SC) — This past weekend, the Office of Grants Management &amp; State Clearinghouse, Office of the Governor, received email from the Pacific States Marine Fisheries Commission in Portland, Oregon, informing the grants office of errors in 175 applications submitted.  About 9.65% contained errors that include the lack of photo identification, missing signatures, affidavit not filled out completely, and/or invalid Social Security numbers. 
+
+<https://www.mvariety.com/news/local/grants-office-updates-received-on-fisheries-relief-applications/article_f4c039a0-7f15-11ee-bb73-0b4e3e40af94.html>
+
+---
+
+## PalmTrio670’s SoMe Awards to honor NMI content creators
+
+date: 2023-11-09, updated: 2023-11-09, from: Marianas Variety
+
+CONTENT creators PalmTrio670 are preparing for their biggest undertaking: the SoMe Awards, which will be held at the Saipan World Resort on Feb. 3, 2024 to recognize CNMI content creators. 
+
+<https://www.mvariety.com/news/local/palmtrio670-s-some-awards-to-honor-nmi-content-creators/article_9d11a1bc-7eed-11ee-8b40-afe79636b9ad.html>
+
+---
+
+## Maritime academy commends ‘trailblazing’ candidate, Augustine Diaz
+
+date: 2023-11-09, updated: 2023-11-09, from: Marianas Variety
+
+AUGUSTINE Diaz, a resident of Saipan, will be Western Pacific Maritime Academy’s first candidate to join the Military Sealift Command or MSC as an entry-level civilian mariner, the academy’s executive director, Capt. Michael Bacher, said. 
+
+<https://www.mvariety.com/news/local/maritime-academy-commends-trailblazing-candidate-augustine-diaz/article_fbd89d70-7eb3-11ee-ba95-07d4f63f130a.html>
+
+---
+
+## IPI ordered to appear in court regarding unpaid judgment
+
+date: 2023-11-09, updated: 2023-11-09, from: Marianas Variety
+
+THE District Court for the NMI on Thursday ordered Imperial Pacific International to appear at 1:30 p.m. on Dec. 21, 2023, and tell the court if it can pay the judgment due to Tang’s Corporation. 
+
+<https://www.mvariety.com/news/local/ipi-ordered-to-appear-in-court-regarding-unpaid-judgment/article_79529ece-7eda-11ee-8dd6-1b5d49a47c23.html>
+
+---
+
+## MVA joins JATA Tourism  EXPO 2023, hosts Marianas  seminar
+
+date: 2023-11-09, updated: 2023-11-09, from: Marianas Variety
+
+THE Marianas  Visitors  Authority  joined representatives  of other international  countries and regions, businesses, and organizations  at JATA Tourism EXPO 2023 on Oct. 26-29, 2023, in Osaka,  Japan.   A Marianas  Seminar for travel trade and media representatives  was also held in Osaka on Oct. 30. 
+
+<https://www.mvariety.com/news/local/mva-joins-jata-tourism-expo-2023-hosts-marianas-seminar/article_8da9ef74-7f13-11ee-93f2-4b8282307065.html>
+
+---
+
+## Higher taxes mean higher prices
+
+date: 2023-11-09, updated: 2023-11-09, from: Marianas Variety
+
+BUSINESSES that will be affected by House Bill 23-78 spoke to Variety this week about the controversial legislation. 
+
+<https://www.mvariety.com/news/local/higher-taxes-mean-higher-prices/article_fed056bc-7ee5-11ee-8763-cb033d687087.html>
+
+---
+
+## KONFITMA Exercise is back
+
+date: 2023-11-09, updated: 2023-11-09, from: Marianas Variety
+
+FOUR years after it was last held on Saipan, KONFITMA Exercise is back. This time, it will involve civil support teams from Texas, Utah and Guam on Nov. 14 and 15, 2023 in separate locations on Saipan. 
+
+<https://www.mvariety.com/news/local/konfitma-exercise-is-back/article_97f53be4-7ecf-11ee-967e-53a957dbaae9.html>
+
+---
+
+## NMI to honor veterans, military members, families
+
+date: 2023-11-09, updated: 2023-11-09, from: Marianas Variety
+
+THE Office of the Governor, CNMI Office of Veterans Affairs would like to invite all veterans, military members, families, and the public to observe November as CNMI Veterans and Military Families Month and the week of Nov. 7-11 as Veterans Week. 
+
+<https://www.mvariety.com/news/local/nmi-to-honor-veterans-military-members-families/article_1729775a-7f15-11ee-8b96-f7324a900ce7.html>
+
+---
+
+## Kikiriki Live Poultry, Inc.
+
+date: 2023-11-09, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Katrina Dahl Vogl Cleo has let the Hiss get too loud again. It’s been two days now since she’s had any money, since she got high, and the Hiss is hissing. Saying, it’s time. So an hour ago she &#8230; <a href="https://hawaiipacificreview.org/2023/11/09/kikiriki-live-poultry-inc/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2023/11/09/kikiriki-live-poultry-inc/>
+
+---
+
+## CUH Alumna Joins Forces with Student Athlete to Promote Thrift Business
+
+date: 2023-11-09, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+Alumna Jackie Martinez made her way back to Chaminade as she and others from the community came together to participate in CUH’s Campus Open Marketplace on Wednesday.  The Open Marketplace, featuring nearly 20 businesses, was open to the public and encouraged students, faculty, staff, retired faculty, alumni, friends and families to sell their homemade crafts,... 
+
+<https://thesilversword.com/features/2023/11/09/cuh-alumna-joins-forces-with-student-athlete-to-promote-thrift-business/>
+
+---
+
+## Outages sap students strength
+
+date: 2023-11-09, from: Marshal Islands Journal
+
+<p>The past week saw frequent power outages. Darkness and immense warm temperatures were felt in homes or businesses without solar power or generators. Suffice it to say, many had a hard time sleeping at night. The constant power outages resulted in the computer labs at the College of the Marshall Islands being temporarily shut off. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/outages-sap-students-strength/">Outages sap students strength</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/outages-sap-students-strength/>
+
+---
+
+## Smartphones could use your voice to detect if you’re drunk
+
+date: 2023-11-09, from: The Guam Daily Post
+
+Sensors in the smart devices could help determine a person's level of alcohol intoxication based on changes in their voice, say scientists. 
+
+<https://www.postguam.com/lifestyles/health/smartphones-could-use-your-voice-to-detect-if-you-re-drunk/article_9e47eebd-440d-5d5d-8551-fb8b4152e955.html>
+
+---
+
+## Adelup to lobby support from engineers for medical complex
+
+date: 2023-11-09, from: The Guam Daily Post
+
+With the debate on where to build the medical complex as contentious as it was when the governor proposed Eagles Field in Mangilao, the administration continues its effort to lobby support for the Eda Agaga area of Barrigada one talk… 
+
+<https://www.postguam.com/news/local/adelup-to-lobby-support-from-engineers-for-medical-complex/article_ffbac5cc-7eb2-11ee-91d9-2b52842b0080.html>
+
+---
+
+## Double session at JFK costly
+
+date: 2023-11-09, from: The Guam Daily Post
+
+Failure to maintain Guam Department of Education Schools already is costing the government of Guam money, as double session at John F. Kennedy High School has increased lease costs. 
+
+<https://www.postguam.com/news/local/double-session-at-jfk-costly/article_e09d1be4-7e9f-11ee-b9cf-8f91f60c951d.html>
+
+---
+
+## 2 honored by Japan government
+
+date: 2023-11-09, from: The Guam Daily Post
+
+Two men were honored for their role in strengthening the friendly relationship between Japan and Guam. 
+
+<https://www.postguam.com/news/local/2-honored-by-japan-government/article_d57452f8-7dfc-11ee-a5b2-5fc1f6ee2165.html>
+
+---
+
+## Conflict? Judge might disqualify AG from Transit corruption case
+
+date: 2023-11-09, from: The Guam Daily Post
+
+A judge is considering whether to disqualify the Office of the Attorney General from prosecuting government employees because of a possible conflict of interest. 
+
+<https://www.postguam.com/news/local/conflict-judge-might-disqualify-ag-from-transit-corruption-case/article_6d92cf56-7de4-11ee-a858-b3670b617161.html>
+
+---
+
+## Leachate flow discussed as court tours Ordot dump site
+
+date: 2023-11-09, from: The Guam Daily Post
+
+District Court of Guam Chief Judge Frances Tydingco-Gatewood toured the former Ordot dump on Thursday to get additional information on the facility's condition and learn about its operation and maintenance. She visited various areas at the now-capped former dump facility,… 
+
+<https://www.postguam.com/news/local/leachate-flow-discussed-as-court-tours-ordot-dump-site/article_1eede42c-7e10-11ee-8171-4bb93321f2d7.html>
+
+---
+
+## Parkinson wrong about pay for rank and file at utilities, says CCU’s Sanchez
+
+date: 2023-11-09, from: The Guam Daily Post
+
+A pay increase for the chief financial officer at the Guam Power Authority, one of three pay raises approved Wednesday by the Consolidated Commission on Utilities, drew criticism from Sen. William Parkinson, who said the CCU should reassess its decision… 
+
+<https://www.postguam.com/news/local/parkinson-wrong-about-pay-for-rank-and-file-at-utilities-says-ccu-s-sanchez/article_40fe761a-7e08-11ee-818f-336871b7039f.html>
+
+---
+
+## Man allegedly removed AC to break into home
+
+date: 2023-11-09, from: The Guam Daily Post
+
+A man on pretrial release in a burglary case from this year was accused of breaking into a home by removing an air conditioning unit. 
+
+<https://www.postguam.com/news/local/man-allegedly-removed-ac-to-break-into-home/article_40a2a6bc-7e9b-11ee-b859-3312395261a6.html>
+
+---
+
+## Resurrection week in Majuro
+
+date: 2023-11-09, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON We don’t use the word “resurrection” lightly. But in the non-religious sphere of the Marshall Islands, we believe it is fitting to use that term for two events that took place largely out of the view of most local residents in Majuro. Twelve-and-a-half-years after the roof collapse halted use of the ECC national [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/resurrection-week-in-majuro/">Resurrection week in Majuro</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/resurrection-week-in-majuro/>
+
+---
+
+## ‘Government waste’ is a tautology
+
+date: 2023-11-09, from: Pacific Island Times
+
+Saipan — A lawmaker here has complained about “boxes and boxes of Personal Protective Equipment worth millions of dollars [that] have... 
+
+<https://www.pacificislandtimes.com/post/government-waste-is-a-tautology>
+
+---
+
+## Pacific wrestles with the great China-US divide
+
+date: 2023-11-09, from: Pacific Island Times
+
+By Henryk Szadziewski Pacific Islands Forum members face challenging conversations about the prickly US-China relationship and its effect... 
+
+<https://www.pacificislandtimes.com/post/pacific-wrestles-with-the-great-china-us-divide>
+
+---
+
+## Port police officer, 3 others injured in Piti crash
+
+date: 2023-11-09, from: The Guam Daily Post
+
+A Port Authority of Guam police officer and three others were taken to the hospital after a three car crash in Piti. 
+
+<https://www.postguam.com/news/port-police-officer-3-others-injured-in-piti-crash/article_7fa8f1da-7eba-11ee-b924-b76ca82a5f9f.html>
+
+---
+
+## How to Avoid the Cost, Risk and Stress of Unneeded Medical Tests
+
+date: 2023-11-09, from: The Guam Daily Post
+
+You might not be surprised to learn that U.S. health care facilities administer an enormous number of tests. One study in the American Journal of Medicine estimated 4 billion to 5 billion imaging, lab and other diagnostics annually. But here’s… 
+
+<https://www.postguam.com/lifestyles/health/how-to-avoid-the-cost-risk-and-stress-of-unneeded-medical-tests/article_77ab4eca-8a94-524d-bd4d-4580c5e8a2eb.html>
+
+---
+
+## From Poʻipū to Pāhoa, UH shines in campaign video
+
+date: 2023-11-09, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> Foundationʻs campaign video features 22 <abbr>UH</abbr> voices from across the state.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/08/from-poipu-to-pahoa-uh-shines/">From Poʻipū to Pāhoa, <abbr>UH</abbr> shines in campaign video</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/08/from-poipu-to-pahoa-uh-shines/>
+
+---
+
+## Modeling Laura flood affects
+
+date: 2023-11-09, from: Marshal Islands Journal
+
+<p>Projected coastal flooding can be recognized in a three-dimensional model of the Laura area that was officially handed over to the RMI government in late October, according to a release from the Pacific Community&#8217;s Geoscience, Energy and Maritime Division.&#160;The model shows the terrain on land as well as underwater and also shows the shape of [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/modeling-laura-flood-affects/">Modeling Laura flood affects</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/modeling-laura-flood-affects/>
+
+---
+
+## Chaminade Shows Off Campus for Preview Day
+
+date: 2023-11-09, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+On Saturday, Chaminade held its annual Chaminade Preview Day open house where future students can see what it would be like to be a Silversword. Students thinking of coming to Chaminade can learn more about the admissions process, financial aid, majors and programs offered, on-campus and off-campus housing, student life, and interact with booths from... 
+
+<https://thesilversword.com/news/2023/11/08/chaminade-shows-off-campus-for-preview-day/>
+
+---
+
+## Palau seeks closer economic ties with Japan
+
+date: 2023-11-09, from: Tia Belau (Palau's First Newspaper)
+
+By Kambes Kesolei Palau is taking steps to strengthen its economic relationship with Japan by establishing a commission to explore&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7458>
+
+---
+
+## Bena is alive and well in Quezon hospice
+
+date: 2023-11-09, from: Tia Belau (Palau's First Newspaper)
+
+Founder of Palau’s dive tourism coming home? Friends were asking for the whereabouts of Belhaim Bena Sakuma, the founder of&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7455>
+
+---
+
+## U.S. military conducts live-fire rocket launch at Palau International Airport
+
+date: 2023-11-09, from: Tia Belau (Palau's First Newspaper)
+
+By Kambes Kesolei A rapid deployment live-fire exercise was held on two separate days at the Palau International Airport.&#160; A&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7452>
+
+---
+
+## Court denies Yano’s letter to get $2.4M Ngarametal’s fund
+
+date: 2023-11-09, from: Tia Belau (Palau's First Newspaper)
+
+Ngarametal lawyer and some members to be sued for trashing hotel Not only families, lineages, and clans in Palau are&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7450>
+
+---
+
+## Committee formed to address employment and compensation issues
+
+date: 2023-11-09, from: Tia Belau (Palau's First Newspaper)
+
+By Kambes Kesolei President Surangel Whipps Jr. has established an employment and compensation committee to develop a strategy for the&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7448>
+
+---
+
+## MOU strengthens Palau’s resolve in combating human trafficking
+
+date: 2023-11-09, from: Tia Belau (Palau's First Newspaper)
+
+In a pivotal move towards fortifying Palau&#8217;s commitment to combating human trafficking, the Office of the Vice President and the&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7445>
+
+---
+
+## Working to improve emergency response in Palau
+
+date: 2023-11-09, from: Tia Belau (Palau's First Newspaper)
+
+The National Emergency Committee today launched a four-day Palau Mass Rescue Operations Exercise. The goal of the exercise is to&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7442>
+
+---
+
+## Bridging the climate change funding gap
+
+date: 2023-11-09, from: Tia Belau (Palau's First Newspaper)
+
+President Surangel S. Whipps, Jr. met with UNGA President Dennis Francis (left) and former President of the Republic of Costa&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7439>
+
+---
+
+## PICRC launches two new intercession programs
+
+date: 2023-11-09, from: Tia Belau (Palau's First Newspaper)
+
+The Palau International Coral Reef Center (PICRC) launched two new intercession programs over the last two months. The Ocean Explorers&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7435>
+
+---
+
+## President Whipps meets with head of IOM
+
+date: 2023-11-09, from: Tia Belau (Palau's First Newspaper)
+
+Sharing Palau&#8217;s story and goal to address Climate Change challenges and ensure there&#8217;s a strong and resilient Palau 10 to&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7432>
+
+---
+
+## Nauru’s president David Adeang walks out of Forum Leaders meeting
+
+date: 2023-11-09, from: Pacific Island Times
+
+By Pita Ligaiula Rarotonga (PacNews)--Nauru's President David Adeang and his delegation walked out of the Pacific Islands Forum plenary... 
+
+<https://www.pacificislandtimes.com/post/nauru-s-president-david-adeang-walks-out-of-forum-leaders-meeting>
+
+---
+
+## COFA renewal bill sweeps through Natural Resources committee
+
+date: 2023-11-09, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The U.S. House Committee on Natural Resources today greenlighted the Compact of Free Association Amendments Act of... 
+
+<https://www.pacificislandtimes.com/post/cofa-renewal-bill-sweeps-through-natural-resources-committee>
+
+---
+
+## Free symposium encourages space, STEM careers
+
+date: 2023-11-09, from: University of Hawaiʻi News
+
+<p>The virtual symposium launched to give students a realistic overview of careers in space exploration and technology.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/08/symposium-encourages-space-stem-careers/">Free symposium encourages space, <abbr>STEM</abbr> careers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/08/symposium-encourages-space-stem-careers/>
+
+---
+
+## REMARKS: PIF SG, Henry Puna at the 52nd Pacific Islands Forum Leaders Plenary
+
+date: 2023-11-08, from: Pacific Island Forum
+
+Delivered by the Secretary General of the Pacific Islands Forum, Henry Puna at the 52nd Pacific Islands Forum Leaders Plenary 08 November 2023, Rarotonga, Cook Islands.<span class="excerpt-hellip"> […]</span> 
+
+<https://www.forumsec.org/2023/11/09/remarks-pif-sg-at-the-52nd-pacific-islands-forum-leaders-plenary/>
+
+---
+
+## REMARKS: PIF Chair, Hon Mark Brown at the 52nd Pacific Islands Forum Plenary
+
+date: 2023-11-08, from: Pacific Island Forum
+
+Delivered by the Chair of the Pacific Islands Forum and Prime Minister of Cook Islands, Hon Mark Brown at the 52nd Pacific Islands Forum Plenary 08<span class="excerpt-hellip"> […]</span> 
+
+<https://www.forumsec.org/2023/11/09/remarks-pif-chair-hon-mark-brown-at-the-52nd-pacific-islands-forum-plenary/>
+
+---
+
+## Navy band rocks Majuro
+
+date: 2023-11-08, from: Marshal Islands Journal
+
+<p>WILMER JOEL Several schools on Majuro were treated to a mini-concert by the US Navy Pacific Fleet band last week. The College of the Marshall Islands was the third school to be visited by the band. As the band kicked off the event with a dynamic opening, the CMI faculty, staff, and students went berserk. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/navy-band-rocks-majuro/">Navy band rocks Majuro</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/navy-band-rocks-majuro/>
 
 ---
 
@@ -314,6 +784,16 @@ Scientists tested the instrument in 65-feet-deep Mediterranean Sea caves that co
 
 ---
 
+## My Dream of the Perfect Chaminade Campus
+
+date: 2023-11-08, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+There is no perfect college campus in the world. But we all have wishes for the Chaminade campus that would make our experience here a whole lot better. Here are my 10 wishlist items I wish we had here at Chaminade.  Stress Relief Room We have a type of stress relief area here at Chaminade... 
+
+<https://thesilversword.com/editorial/2023/11/08/my-dream-of-the-perfect-chaminade-campus/>
+
+---
+
 ## Saipan Chamber of Commerce supports proposed 2023 apprenticeship program
 
 date: 2023-11-08, from: The Guam Daily Post
@@ -510,13 +990,13 @@ Delivered by the Secretary General of the Pacific Islands Forum Henry Puna at th
 
 date: 2023-11-08, from: Pacific Island Forum
 
-Delivered by the Chair of the Pacific ACP Leaders Meeting and Prime Minister of Fiji, Hon, Mark Brown at the Pacific ACP Leaders Meeting 8 November<span class="excerpt-hellip"> […]</span> 
+Delivered by the Chair of the Pacific ACP Leaders Meeting and Prime Minister of Cook Islands , Hon, Mark Brown at the Pacific ACP Leaders Meeting<span class="excerpt-hellip"> […]</span> 
 
 <https://www.forumsec.org/2023/11/08/remarks-chair-of-the-pacific-acp-leaders-meeting-hon-mark-brown/>
 
 ---
 
-## Island leaders Convene in Bangkok to shape future of Global Plastics Treaty
+## Island leaders convene in Bangkok to shape future of Global Plastics Treaty
 
 date: 2023-11-08, from: Pacific Island Times
 
@@ -631,6 +1111,16 @@ date: 2023-11-07, from: INSIGHTS ON PBS HAWAIʻI
  
 
 <https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-hawai%ca%bbis-annexation-why-knowledge-on-the-history-matters/>
+
+---
+
+## Feds must pick up the tab for convicted COFA citizens, Moylan says 
+
+date: 2023-11-07, from: Pacific Island Times
+
+Territorial delegate also proposes screening of Guam-bound migrants By Mar-Vic Cagurangan Federal law enforcement agencies must assume... 
+
+<https://www.pacificislandtimes.com/post/feds-must-pick-up-the-tabs-for-convicted-cofa-citizens-moylan-says>
 
 ---
 
@@ -867,7 +1357,7 @@ By Maima Koro The Pacific Islands Forum Leaders Meeting this week takes place am
 
 date: 2023-11-07, from: Pacific Island Times
 
-By Pacific Island Times News Staff The Medical Arts Center, a three-story building adjacent to Guam Regional Medical City in Dededo,... 
+Adelup nixes short-term solutions, maintains focus on new construction By Pacific Island Times News Staff The Medical Arts Center, a... 
 
 <https://www.pacificislandtimes.com/post/senator-eyeing-private-facility-as-temporary-site-for-guam-hospital>
 

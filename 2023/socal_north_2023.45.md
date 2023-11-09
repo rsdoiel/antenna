@@ -1,5 +1,5 @@
 
-(date: 2023-11-08 11:45:18)
+(date: 2023-11-09 10:02:41)
 
 ---
 
@@ -145,7 +145,7 @@ date: 2023-11-08, from: The Occidental News (Occidental College Student Newspape
 
 ## Cal State Faculty Have Authorized a Strike. One Demand? Better Paid Family Leave
 
-date: 2023-11-08, updated: 2023-11-08, from: The LAist
+date: 2023-11-08, updated: 2023-11-09, from: The LAist
 
 The Cal State system offers 30 days of paid family leave. Faculty who have authorized a strike are demanding one semester. 
 
@@ -1018,7 +1018,7 @@ date: 2023-11-06, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Letters to Artsakh
+## Students write letters to displaced children from Artsakh
 
 date: 2023-11-06, from: The Sundail (CSUN Student Newspaper)
 

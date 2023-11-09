@@ -1,5 +1,15 @@
 
-(date: 2023-11-08 11:33:33)
+(date: 2023-11-09 10:02:41)
+
+---
+
+## ARRL Closed Friday, Nov 10, 2023 in Observance of Veteran's Day
+
+date: 2023-11-08, from: Amateur Radio Relay League News
+
+<p>ARRL  The National Association for Amateur Radio® will be closed on Friday, November 10, 2023 in observance of Veterans Day. There will be no W1AW bulletins or code practice that day. ARRL Headquarters will reopen on Monday, November 13, 2023 at 8:00 am Eastern time. <br /><br />We are grateful for the sacrifices and service of Veterans. </p> 
+
+<http://www.arrl.org/news/view/arrl-closed-friday-nov-10-2023-in-observance-of-veteran-s-day>
 
 ---
 
