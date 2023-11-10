@@ -1,5 +1,5 @@
 
-(date: 2023-11-09 10:02:41)
+(date: 2023-11-10 12:56:01)
 
 ---
 
@@ -75,7 +75,7 @@ date: 2023-11-08, from: The Occidental News (Occidental College Student Newspape
 
 date: 2023-11-08, from: The Occidental News (Occidental College Student Newspaper)
 
-<p>From what began as an effort to get rid of an excess of clothes, accessories and knickknacks, Pattye&#8217;s Closet II on N. Avenue 50 has grown into an oasis for vintage lovers. After falling in love with vintage as a child in Mexico, owner Renee Davila said she amassed quite a collection of things that [&#8230;]</p>
+<p>From what began as an effort to get rid of an excess of clothes, accessories and knickknacks, Pattye&#8217;s Closet II on N. Avenue 50 has grown into an oasis for vintage lovers. After falling in love with vintage as a child in Mexico, owner Renee said she amassed quite a collection of things that overflowed [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2023/11/08/pattyes-closet-ii-is-a-treasure-trove-in-the-vintage-world/2910442">Pattye&#8217;s Closet II is a treasure trove in the vintage world</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
@@ -95,12 +95,12 @@ date: 2023-11-08, from: The Occidental News (Occidental College Student Newspape
 
 ---
 
-## Editorial: From pop to psychadelic rock, our editors list their albums of the year
+## Editorial: From pop to psychedelic rock, our editors list their albums of the year
 
 date: 2023-11-08, from: The Occidental News (Occidental College Student Newspaper)
 
 <p>&#8220;The Rise and Fall of a Midwest Princess&#8221; by Chappell Roan Kawena Jacobs (Arts and Culture editor) When you think of a pop song, most envision squeaky clean lyrics and an infectious, heavily produced beat underneath. But while Chappell Roan has a clear grasp on the pop sound, her biggest strength is saying things your [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2023/11/08/editorial-from-pop-to-psychadelic-rock-our-editors-list-their-albums-of-the-year/2910481">Editorial: From pop to psychadelic rock, our editors list their albums of the year</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2023/11/08/editorial-from-pop-to-psychadelic-rock-our-editors-list-their-albums-of-the-year/2910481">Editorial: From pop to psychedelic rock, our editors list their albums of the year</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
 <https://theoccidentalnews.com/culture/2023/11/08/editorial-from-pop-to-psychadelic-rock-our-editors-list-their-albums-of-the-year/2910481>
@@ -840,7 +840,7 @@ CSUN’s Pride Center provides many resources to aid queer students on campus, b
 
 ---
 
-## First home win for CSUN’s hockey team and a loss for UCLA
+## First home win for CSUN’s hockey team and a loss against UCLA
 
 date: 2023-11-06, from: The Sundail (CSUN Student Newspaper)
 

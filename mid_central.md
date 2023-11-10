@@ -1,5 +1,35 @@
 
-(date: 2023-11-09 10:02:41)
+(date: 2023-11-10 12:56:01)
+
+---
+
+## Relax and Refresh event provides insights on issues of mental health
+
+date: 2023-11-09, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno State students gathered at the Ruiz Ballroom in the Resnick Student Union on Nov. 8 as the Student Health and Counseling Center and students in the Public Health (PH) 133 class hosted a relaxing and refreshing event. Fresno State Spotlight Events hosted the activity Relax and Refresh as part of “Stress Free Week.” The... 
+
+<https://fscollegian.com/2023/11/relax-and-refresh-event-provides-insight-to-difficult-subjects/>
+
+---
+
+## The First Worked All States Certificate Awarded for the 33-Centimeter Band
+
+date: 2023-11-09, from: Amateur Radio Relay League News
+
+<p>On November 4, 2023, Al Ward's, W5LUA, 38-year quest to contact all 50 states on the 33-centimeter band ended when he received the first-ever Worked All States (WAS) certificate for (902 - 928 MHz). Ward started collecting states on the band shortly after it was opened in 1985.</p><p>"I am extremely grateful to Peter Van Horne, KA6U, for his EME [Earth-moon-Earth] efforts. I was able to work Wisconsin...</p> 
+
+<http://www.arrl.org/news/view/the-first-worked-all-states-certificate-awarded-for-the-33-centimeter-band>
+
+---
+
+## Changes in the ARRL Pacific Section
+
+date: 2023-11-09, from: Amateur Radio Relay League News
+
+<p><span>Section Manager of the ARRL Pacific Section Joe Speroni, AH0A, has retired from the position. Speroni served in the role for 7 years. He was active with ARRL in a variety of positions dating back to the creation of the Volunteer Examiner program in 1984. He has also been an instructor and Affiliated Club Coordinator (ACC). His contributions to emergency communications and management in the Hawa...</span></p> 
+
+<http://www.arrl.org/news/view/changes-in-the-arrl-pacific-section>
 
 ---
 

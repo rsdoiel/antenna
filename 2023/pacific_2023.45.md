@@ -1,5 +1,452 @@
 
-(date: 2023-11-09 10:02:42)
+(date: 2023-11-10 12:56:02)
+
+---
+
+## Man with bionic arm trying to set bench press world record
+
+date: 2023-11-10, from: The Guam Daily Post
+
+“It is such a big, life changing experience." 
+
+<https://www.postguam.com/lifestyles/health/man-with-bionic-arm-trying-to-set-bench-press-world-record/article_653d5320-4ff9-5bc0-87a2-a0b53fdab739.html>
+
+---
+
+## Sharkskin could be used to help humans heal wounds
+
+date: 2023-11-10, from: The Guam Daily Post
+
+Sharks have a “remarkable” ability to heal from wounds. 
+
+<https://www.postguam.com/lifestyles/health/sharkskin-could-be-used-to-help-humans-heal-wounds/article_92cc9bdc-479e-5dae-8ccd-e7d923ce8808.html>
+
+---
+
+## Celebrating 70 years of US-Korean cooperation
+
+date: 2023-11-10, from: The Guam Daily Post
+
+Luminaries of the Korean consulate, the U.S. military and the Guam Legislature gathered Thursday at the Lotte Hotel Guam in Tumon to commemorate the 70th anniversary of the U.S. alliance with the Republic of Korea. 
+
+<https://www.postguam.com/news/local/celebrating-70-years-of-us-korean-cooperation/article_21b82752-7f79-11ee-a4cf-73af224c71ef.html>
+
+---
+
+## GPD: 'Excessive speed' caused recent traffic fatalities
+
+date: 2023-11-10, from: The Guam Daily Post
+
+The Guam Police Department has identified "excessive speed" as the cause of recent traffic-related fatalities. 
+
+<https://www.postguam.com/news/local/gpd-excessive-speed-caused-recent-traffic-fatalities/article_de2554ac-7f54-11ee-a2d9-a733bef0cddb.html>
+
+---
+
+## GVB working hard to reach pre-pandemic arrivals peak
+
+date: 2023-11-10, from: The Guam Daily Post
+
+It may take three years for Guam’s visitor arrivals to reach the pre-pandemic peak of 1.7 million per year, but the Guam Visitors Bureau is working hard to get there, according to the board’s chair. 
+
+<https://www.postguam.com/news/local/gvb-working-hard-to-reach-pre-pandemic-arrivals-peak/article_32b91e32-7f77-11ee-ba37-73e2f3ebbcd8.html>
+
+---
+
+## US Department of Transportation grounds plan for Haneda route to Guam
+
+date: 2023-11-10, from: The Guam Daily Post
+
+The Guam Visitors Bureau had hoped that a new route from Haneda, Japan, to Guam would help boost visitor arrivals, but the light at the end of the tunnel has been dimmed by the U.S. Department of Transportation. 
+
+<https://www.postguam.com/news/local/us-department-of-transportation-grounds-plan-for-haneda-route-to-guam/article_8f3e3788-7ec2-11ee-920b-a3d6c7d91f57.html>
+
+---
+
+## Study says any activity is better for your heart than sitting
+
+date: 2023-11-10, from: The Guam Daily Post
+
+Research found that time spent doing moderate-vigorous activity provided the most benefit to heart health 
+
+<https://www.postguam.com/lifestyles/health/study-says-any-activity-is-better-for-your-heart-than-sitting/article_e6ffef8e-1152-576c-af14-08ace9966735.html>
+
+---
+
+## Police identify Sånta Rita-Sumai homicide victim
+
+date: 2023-11-10, from: The Guam Daily Post
+
+The victim of a homicide in Sånta Rita-Sumai last month was identified as Edwin Babauta Pirando, a 54-year-old man from Hågat. 
+
+<https://www.postguam.com/news/local/police-identify-s-nta-rita-sumai-homicide-victim/article_245b33ec-7f64-11ee-8918-b789351d4449.html>
+
+---
+
+## Doctor criticized for disparaging remarks against veterans
+
+date: 2023-11-10, from: The Guam Daily Post
+
+Statements made by a doctor on a local radio talk show have received a lot of backlash from elected leaders who rose to defend military veterans on island. 
+
+<https://www.postguam.com/news/local/doctor-criticized-for-disparaging-remarks-against-veterans/article_9ad3918a-7f6a-11ee-8016-d79acb0a68d8.html>
+
+---
+
+## Fireworks, energy credit extension among new laws
+
+date: 2023-11-10, from: The Guam Daily Post
+
+Gov. Lou Leon has signed into law legislation legalizing consumer-grade fireworks on Guam, as well as a three-month extension to the Prugråman Ayuda Para I Taotao-ta Energy Credit Program. 
+
+<https://www.postguam.com/news/local/fireworks-energy-credit-extension-among-new-laws/article_0aab769a-7fba-11ee-8d88-6fd05738bdf8.html>
+
+---
+
+## Man, woman arrested after 2 ounces of meth, $4k cash found in car
+
+date: 2023-11-10, from: The Guam Daily Post
+
+A traffic stop Thursday resulted in the arrest of a man and woman, as well as the seizure of a little more than two ounces of methamphetamine and $4,132 cash. 
+
+<https://www.postguam.com/news/man-woman-arrested-after-2-ounces-of-meth-4k-cash-found-in-car/article_f69c30b2-7f97-11ee-80c4-2f3439cfe88f.html>
+
+---
+
+## Commission to push for “special” relationship with Japan established
+
+date: 2023-11-10, from: Island Times
+
+<p>A Presidential Directive was issued on November 3, 2023, establishing a “Palau-Japan Special Economic Agreement Commission” with objectives to build a “special” relationship with Japan. The presidential directive follows a Joint House Resolution No. 11-419S that recognizes historical ties with Japan and calls for closer economic cooperation. Although Palau already enjoys a close relationship with [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/commission-to-push-for-special-relationship-with-japan-established/">Commission to push for “special” relationship with Japan established</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/commission-to-push-for-special-relationship-with-japan-established/>
+
+---
+
+## Nauru walked out of PIF Leaders meeting, no-show at Leaders’ retreat
+
+date: 2023-11-10, from: Island Times
+
+<figure><img width="400" height="400" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/nauru.jpg?fit=400%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/nauru.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/nauru.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/nauru.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/nauru.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/nauru.jpg?fit=400%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67087" data-permalink="https://islandtimes.org/nauru-walked-out-of-pif-leaders-meeting-no-show-at-leaders-retreat/nauru-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/nauru.jpg?fit=400%2C400&amp;ssl=1" data-orig-size="400,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="nauru" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/nauru.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/nauru.jpg?fit=400%2C400&amp;ssl=1" /></figure>
+<p>Micronesia stands in support of Nauru The Nauru delegation led by President David Adeang walked out of the Pacific Islands Forum Leaders plenary meeting yesterday and did not show up at the Leaders’ Retreat at Aitutaki.  The walkout was reportedly protesting the decision to include the discussion of the next Secretary-General on the leaders&#8217; agenda [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/nauru-walked-out-of-pif-leaders-meeting-no-show-at-leaders-retreat/">Nauru walked out of PIF Leaders meeting, no-show at Leaders’ retreat</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/nauru-walked-out-of-pif-leaders-meeting-no-show-at-leaders-retreat/>
+
+---
+
+## Search for Special Prosecutor continues
+
+date: 2023-11-10, from: Island Times
+
+<p>Nearly five months since Special Prosecutor April Dawns Cripps&#8217;s term expired, the search for the next Special Prosecutor is still ongoing. The position of a Special Prosecutor, created by law, gives the President the responsibility to appoint a special prosecutor who then needs confirmation of the Senate.&#160; So far, President Surangel Whipps Jr. has not [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/search-for-special-prosecutor-continues/">Search for Special Prosecutor continues</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/search-for-special-prosecutor-continues/>
+
+---
+
+## Palau government seeks IMF help with employment and compensation policies
+
+date: 2023-11-10, from: Island Times
+
+<figure><img width="600" height="731" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/pre.jpg?fit=600%2C731&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/pre.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/pre.jpg?resize=246%2C300&amp;ssl=1 246w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/pre.jpg?resize=400%2C487&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/pre.jpg?fit=600%2C731&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67094" data-permalink="https://islandtimes.org/palau-government-seeks-imf-help-with-employment-and-compensation-policies/pre/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/pre.jpg?fit=600%2C731&amp;ssl=1" data-orig-size="600,731" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1699445127&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;40&quot;,&quot;shutter_speed&quot;:&quot;0.005524861878453&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="pre" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/pre.jpg?fit=246%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/pre.jpg?fit=600%2C731&amp;ssl=1" /></figure>
+<p>The Palau government is asking the International Monetary Fund (IMF) for help reviewing its employment and compensation system and developing policies to keep employees. A presidential directive says the government is concerned about the high number of people leaving the country, especially government employees. &#8220;The Republic is deeply concerned about the high levels of net [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-government-seeks-imf-help-with-employment-and-compensation-policies/">Palau government seeks IMF help with employment and compensation policies</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/palau-government-seeks-imf-help-with-employment-and-compensation-policies/>
+
+---
+
+## Protection of the high seas at hand, implementation pushed for BBNJ Agreement
+
+date: 2023-11-10, from: Island Times
+
+<p>After nearly two decades, the protection of biodiversity and marine life beyond the national jurisdictions is within reach with the ratification of the Biodiversity Beyond National Jurisdiction (BBNJ) Agreement by over 70 countries, 11 of which are Pacific Island countries. Yesterday, the Office of the Pacific Ocean Commissioner, with representatives of member countries, hosted a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/protection-of-the-high-seas-at-hand-implementation-pushed-for-bbnj-agreement/">Protection of the high seas at hand, implementation pushed for BBNJ Agreement</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/protection-of-the-high-seas-at-hand-implementation-pushed-for-bbnj-agreement/>
+
+---
+
+## MOU strengthens Palau’s resolve in Combating Human Trafficking
+
+date: 2023-11-10, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0376-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0376-1.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0376-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0376-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0376-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0376-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0376-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0376-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67067" data-permalink="https://islandtimes.org/picrc-launches-two-new-intercession-programs/rs2500_dsc_0376-1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0376-1.jpg?fit=1230%2C820&amp;ssl=1" data-orig-size="1230,820" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="rs2500_DSC_0376 (1)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0376-1.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0376-1.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>Palau, November 06, 2023 – In a pivotal move towards fortifying Palau&#8217;s commitment to combating human trafficking, the Office of the Vice President and the Ministry of Justice, led by the Honorable Vice President and Minister of Justice, J. Uduch Sengebau Senior, joined hands with Minister of Finance, Kaleb Udui, Jr., Director of the Bureau [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/mou-strengthens-palaus-resolve-in-combating-human-trafficking/">MOU strengthens Palau&#8217;s resolve in Combating Human Trafficking</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/mou-strengthens-palaus-resolve-in-combating-human-trafficking/>
+
+---
+
+## PICRC launches two new intercession programs
+
+date: 2023-11-10, from: Island Times
+
+<figure><img width="1024" height="669" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0058-1.jpg?fit=1024%2C669&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0058-1.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0058-1.jpg?resize=300%2C196&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0058-1.jpg?resize=1024%2C669&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0058-1.jpg?resize=768%2C501&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0058-1.jpg?resize=1200%2C783&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0058-1.jpg?resize=400%2C261&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0058-1.jpg?fit=1024%2C669&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67065" data-permalink="https://islandtimes.org/picrc-launches-two-new-intercession-programs/rs2500_dsc_0058-1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0058-1.jpg?fit=1230%2C803&amp;ssl=1" data-orig-size="1230,803" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="rs2500_DSC_0058 (1)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0058-1.jpg?fit=300%2C196&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0058-1.jpg?fit=780%2C510&amp;ssl=1" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) launched two new intercession programs over the last two months. The Ocean Explorers Program was held on September 25-29, 2023, targeting students in 6th &#38; 7th grades. 20 slots were made available and a total of 18 students participated throughout the week. The program touched on the different [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-launches-two-new-intercession-programs/">PICRC launches two new intercession programs</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/picrc-launches-two-new-intercession-programs/>
+
+---
+
+## Calling for Climate Solutions: A Story of Solidarity Across the Asia Pacific
+
+date: 2023-11-10, from: Island Times
+
+<p>By Norly Mercado and Joseph Sikulu for The Diplomat SYDNEY/SUVA (THE DIPLOMAT) &#8212; We stand at a collectively pivotal moment: While the impacts of the climate crisis are ravaging our world – and the Asia-Pacific region with particular potency – communities are uniting in unprecedented numbers across islands, archipelagos, and continents, calling on leaders to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/calling-for-climate-solutions-a-story-of-solidarity-across-the-asia-pacific/">Calling for Climate Solutions: A Story of Solidarity Across the Asia Pacific</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/calling-for-climate-solutions-a-story-of-solidarity-across-the-asia-pacific/>
+
+---
+
+## Patience is a Virtue
+
+date: 2023-11-10, from: Island Times
+
+<figure><img width="400" height="378" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="65054" data-permalink="https://islandtimes.org/intimacy-gone-bad-2/womens-corner-1-7/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" data-orig-size="400,378" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" /></figure>
+<p>The more you know yourself the more you forgive yourself.             -Confucius My heaviest burden was self- condemnation:&#160; anxiety &#8211; fear of failure and shame. I know I&#160; blamed myself so much that made me physically sick. A result of being the family scapegoat growing up. A good friend said to me many years ago:&#160; &#8220;Stop [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/patience-is-a-virtue/">Patience is a Virtue</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/patience-is-a-virtue/>
+
+---
+
+## No split in the Forum: Fiji PM Rabuka
+
+date: 2023-11-10, from: Island Times
+
+<p>By Pita Ligaiula in Rarotonga RAROTONGA/AITUTAKI (PACNEWS) &#8212; Fiji&#8217;s Prime Minister Sitiveni Rabuka has played down suggestion there is a rift among Leaders of the Pacific Islands Forum after reports that Nauru President David Adeang stormed out at the plenary Wednesday when Micronesia&#8217;s nomination for Secretary General Baron Waqa was on the agenda. The 63-year-old [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/no-split-in-the-forum-fiji-pm-rabuka/">No split in the Forum: Fiji PM Rabuka</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/no-split-in-the-forum-fiji-pm-rabuka/>
+
+---
+
+## Samsung’s visits South Pacific Island for Expo bid
+
+date: 2023-11-10, from: Island Times
+
+<p>RAROTONGA (YONHAP NEWS) &#8212; Samsung Electronics Co. Chairman Lee Jae-yong has visited a political event on a South Pacific Island nation to gain the region&#8217;s support for South Korea&#8217;s bid to host the 2030 World Expo, according to a photo posted on X, formerly Twitter, and local reports Thursday. Lee had a meeting with Fiji&#8217;s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/samsungs-visits-south-pacific-island-for-expo-bid/">Samsung’s visits South Pacific Island for Expo bid</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/samsungs-visits-south-pacific-island-for-expo-bid/>
+
+---
+
+## Pacific Resilience Facility created out of difficulty in accessing climate financing
+
+date: 2023-11-10, from: Island Times
+
+<p>By Pita Ligaiula in Rarotonga RAROTONGA (PACNEWS) &#8212; The difficulty of accessing global climate finance led to the creation of the Pacific Resilience Facility (PRF). Cook Islands Foreign Affairs and Immigration secretary Tepaeru Herrmann said Pacific countries have for a number of years voiced their concerns at the difficulty in accessing climate financing.&#160; “The execution [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-resilience-facility-created-out-of-difficulty-in-accessing-climate-financing/">Pacific Resilience Facility created out of difficulty in accessing climate financing</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/pacific-resilience-facility-created-out-of-difficulty-in-accessing-climate-financing/>
+
+---
+
+## UN must act decisively to support small islands states impacted by sea level rise: UNGA President
+
+date: 2023-11-10, from: Island Times
+
+<p>By Pita Ligaiula in Rarotonga RAROTONGA (PACNEWS) &#8212; The United Nations General Assembly (UNGA) President has commended member states of the Pacific Island Forum in elevating sea-level rise for the attention of the international community, whose support and intervention is absolutely necessary to address these dire issues of climate change impacts. Francis Denis told journalists [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/un-must-act-decisively-to-support-small-islands-states-impacted-by-sea-level-rise-unga-president/">UN must act decisively to support small islands states impacted by sea level rise: UNGA President</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/un-must-act-decisively-to-support-small-islands-states-impacted-by-sea-level-rise-unga-president/>
+
+---
+
+## Wembanyama has a rough debut at Madison Square Garden as the Knicks rout the Spurs 126-105
+
+date: 2023-11-10, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Wembanyama-has-a-rough-debut.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Wembanyama-has-a-rough-debut.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Wembanyama-has-a-rough-debut.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Wembanyama-has-a-rough-debut.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Wembanyama-has-a-rough-debut.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Wembanyama-has-a-rough-debut.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Wembanyama-has-a-rough-debut.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Wembanyama-has-a-rough-debut.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67054" data-permalink="https://islandtimes.org/wembanyama-has-a-rough-debut-at-madison-square-garden-as-the-knicks-rout-the-spurs-126-105/mitchell-robinsonvictor-wembanyama/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Wembanyama-has-a-rough-debut.jpg?fit=1230%2C820&amp;ssl=1" data-orig-size="1230,820" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;New York Knicks&#039; Mitchell Robinson, left, and San Antonio Spurs&#039; Victor Wembanyama fight for position during the first half of an NBA basketball game, Wednesday, Nov. 8, 2023, in New York. (AP Photo\/Seth Wenig)&quot;,&quot;created_timestamp&quot;:&quot;1699491122&quot;,&quot;copyright&quot;:&quot;Copyright 2023 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;106&quot;,&quot;iso&quot;:&quot;3200&quot;,&quot;shutter_speed&quot;:&quot;0.00066666666666667&quot;,&quot;title&quot;:&quot;Mitchell Robinson,Victor Wembanyama&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Mitchell Robinson,Victor Wembanyama" data-image-description="" data-image-caption="&lt;p&gt;New York Knicks&#8217; Mitchell Robinson, left, and San Antonio Spurs&#8217; Victor Wembanyama fight for position during the first half of an NBA basketball game, Wednesday, Nov. 8, 2023, in New York. (AP Photo/Seth Wenig)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Wembanyama-has-a-rough-debut.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Wembanyama-has-a-rough-debut.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By BRIAN MAHONEY AP Basketball Writer NEW YORK (AP) — Victor Wembanyama saw the retired jerseys, soaked in the atmosphere and quickly understood why his coach and so many others told him Madison Square Garden was the best place to play basketball. “I think no matter how many times I will play here, it will [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/wembanyama-has-a-rough-debut-at-madison-square-garden-as-the-knicks-rout-the-spurs-126-105/">Wembanyama has a rough debut at Madison Square Garden as the Knicks rout the Spurs 126-105</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/wembanyama-has-a-rough-debut-at-madison-square-garden-as-the-knicks-rout-the-spurs-126-105/>
+
+---
+
+## Shohei Ohtani is donating 60,000 baseball gloves to Japanese schoolchildren
+
+date: 2023-11-10, from: Island Times
+
+<figure><img width="1024" height="801" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Shohei-Ohtani-is-donating.jpg?fit=1024%2C801&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Shohei-Ohtani-is-donating.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Shohei-Ohtani-is-donating.jpg?resize=300%2C235&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Shohei-Ohtani-is-donating.jpg?resize=1024%2C801&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Shohei-Ohtani-is-donating.jpg?resize=768%2C601&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Shohei-Ohtani-is-donating.jpg?resize=1200%2C939&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Shohei-Ohtani-is-donating.jpg?resize=400%2C313&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Shohei-Ohtani-is-donating.jpg?fit=1024%2C801&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67051" data-permalink="https://islandtimes.org/shohei-ohtani-is-donating-60000-baseball-gloves-to-japanese-schoolchildren/free-agents-baseball-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Shohei-Ohtani-is-donating.jpg?fit=1230%2C962&amp;ssl=1" data-orig-size="1230,962" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;FILE - Los Angeles Angels&#039; Shohei Ohtani walks in the dugout during the ninth inning of the team&#039;s baseball game against the Detroit Tigers in Anaheim, Calif., Sept. 16, 2023. Ohtani, Cody Bellinger, Jordan Montgomery, Blake Snell and Aaron Nola were among the 130 players who became free agents Thursday, Nov. 2, as baseball&#039;s business season began the day following the Texas Rangers&#039; first World Series title. Max Muncy, Joe Jim\u00e9nez and Colin Rea gave up a chance to go free and agreed to new contracts with their teams. (AP Photo\/Ashley Landis, File)&quot;,&quot;created_timestamp&quot;:&quot;1694923373&quot;,&quot;copyright&quot;:&quot;Copyright 2023 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;4000&quot;,&quot;shutter_speed&quot;:&quot;0.0008&quot;,&quot;title&quot;:&quot;Free Agents Baseball&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Free Agents Baseball" data-image-description="" data-image-caption="&lt;p&gt;FILE &#8211; Los Angeles Angels&#8217; Shohei Ohtani walks in the dugout during the ninth inning of the team&#8217;s baseball game against the Detroit Tigers in Anaheim, Calif., Sept. 16, 2023. Ohtani, Cody Bellinger, Jordan Montgomery, Blake Snell and Aaron Nola were among the 130 players who became free agents Thursday, Nov. 2, as baseball&#8217;s business season began the day following the Texas Rangers&#8217; first World Series title. Max Muncy, Joe Jiménez and Colin Rea gave up a chance to go free and agreed to new contracts with their teams. (AP Photo/Ashley Landis, File)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Shohei-Ohtani-is-donating.jpg?fit=300%2C235&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Shohei-Ohtani-is-donating.jpg?fit=780%2C610&amp;ssl=1" /></figure>
+<p>ANAHEIM, Calif. (AP) — Two-way star and coveted free agent Shohei Ohtani is donating about 60,000 baseball gloves to Japanese elementary schools. Ohtani, a free agent who has spent the past six seasons with the&#160;Los Angeles Angels, announced Wednesday on Instagram that he&#8217;s donating the youth gloves to schools throughout Japan. “I’m happy to announce that I [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/shohei-ohtani-is-donating-60000-baseball-gloves-to-japanese-schoolchildren/">Shohei Ohtani is donating 60,000 baseball gloves to Japanese schoolchildren</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<https://islandtimes.org/shohei-ohtani-is-donating-60000-baseball-gloves-to-japanese-schoolchildren/>
+
+---
+
+## Adelup to lobby support from engineers for medical complex
+
+date: 2023-11-10, updated: 2023-11-10, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — With the debate on where to build the medical complex as contentious as it was when the governor proposed Eagles Field in Mangilao, the administration continues its effort to lobby support for the Eda Agaga area of Barrigada one talk at a time. 
+
+<https://www.mvariety.com/news/adelup-to-lobby-support-from-engineers-for-medical-complex/article_97d70d48-7f99-11ee-a7fc-b7ee7817776d.html>
+
+---
+
+## Amata welcomes House committee passage of Compact amendments
+
+date: 2023-11-10, updated: 2023-11-10, from: Marianas Variety
+
+WASHINGTON, D.C. (Office of the American Samoa Congressional Delegate) — U.S. Congresswoman Uifa’atali Amata is welcoming House Natural Resources Committee passage of the Compact of Free Association Amendments Act of 2023, H.J. Res 96, which she cosponsored, as a key priority in U.S. commitment to the Indo-Pacific region. 
+
+<https://www.mvariety.com/news/regional_world/amata-welcomes-house-committee-passage-of-compact-amendments/article_97b7e1ee-7f75-11ee-8b33-17c5739752c8.html>
+
+---
+
+## FSM now allows dual citizenship
+
+date: 2023-11-10, from: Pacific Island Times
+
+By Pacific Island Times News Staff Micronesians who have acquired citizenship in another country may now be able to apply for an FSM... 
+
+<https://www.pacificislandtimes.com/post/fsm-now-allows-dual-citizenship>
+
+---
+
+## 'AeroBlasting' Tumon hotel with drones
+
+date: 2023-11-10, updated: 2023-11-10, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — A Tumon hotel has welcomed the use of drones to clean and maintain the appearance of the facility. 
+
+<https://www.mvariety.com/news/aeroblasting-tumon-hotel-with-drones/article_30ff600c-7f71-11ee-b3e4-87b6313e4071.html>
+
+---
+
+## UH to use AI to advance health equity with $500K grant
+
+date: 2023-11-10, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> was selected for the competitive subaward from the National Institutes of Health.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/09/grant-ai-advance-health-equity/"><abbr>UH</abbr> to use <abbr>AI</abbr> to advance health equity with $500<abbr>K</abbr> grant</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/09/grant-ai-advance-health-equity/>
+
+---
+
+## International law, dispute resolution focus of international workshop
+
+date: 2023-11-10, from: University of Hawaiʻi News
+
+<p>The workshop offered an opportunity for researchers in this niche area to network and collaborate on future projects.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/09/international-law-dispute-resolution-workshop/">International law, dispute resolution focus of international workshop</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/09/international-law-dispute-resolution-workshop/>
+
+---
+
+## Legacy of William Kwai-Fong Yap inspires historic UH Foundation campaign
+
+date: 2023-11-10, from: University of Hawaiʻi News
+
+<p>Yap’s story was recounted by Tim Dolan at the November 1 event marking the launch of the foundation’s historic $1 billion campaign: For <abbr>UH</abbr> • For <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/09/legacy-of-william-kwai-fong-yap/">Legacy of William Kwai-Fong Yap inspires historic <abbr>UH</abbr> Foundation campaign</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/09/legacy-of-william-kwai-fong-yap/>
+
+---
+
+## UH sea-level rise data informs award-winning Kauaʻi County planning
+
+date: 2023-11-09, from: University of Hawaiʻi News
+
+<p>The county used data from the <abbr>UH</abbr> M&#257;noa Climate Resilience Collaborative to determine elevations for future safe building construction on <span aria-label="Kauai.">Kaua&#699;i.</span></p>
+The post <a href="https://www.hawaii.edu/news/2023/11/09/kauai-county-planning-award/"><abbr>UH</abbr> sea-level rise data informs award-winning Kauaʻi County planning</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/09/kauai-county-planning-award/>
+
+---
+
+## A hard landing for soft power
+
+date: 2023-11-09, from: Pacific Island Times
+
+One year, a niece in the throes of adolescence gave me a birthday card in the form of a piece of construction paper torn in half with... 
+
+<https://www.pacificislandtimes.com/post/a-hard-landing-for-soft-power>
+
+---
+
+## Construction begins on new soccer, track and field facility
+
+date: 2023-11-09, from: University of Hawaiʻi News
+
+<p>The second phase of the $30-million project is expected to finish in September 2024.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/09/construction-begins-soccer-track/">Construction begins on new soccer, track and field facility</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/09/construction-begins-soccer-track/>
+
+---
+
+## Henry Kapono Foundation concert supports Windward CC music program
+
+date: 2023-11-09, from: University of Hawaiʻi News
+
+<p>A concert filled with renowned local artists will donate proceeds to music students at Windward <abbr>CC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/09/windward-henry-kapono-foundation/">Henry Kapono Foundation concert supports Windward <abbbr>CC</abbr> music program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/09/windward-henry-kapono-foundation/>
+
+---
+
+## Kwajalein ‘is the gem’,
+
+date: 2023-11-09, from: Marshal Islands Journal
+
+<p>Journal 11/14/1986 P1 Soviets threaten UN vetoThe Soviet Union is preparing to mount a challenge to the Marshalls and the Federated States of Micronesia Compacts and the Mariana Islands commonwealth when they come before the United Nations Security Council. “The territories must get full, unrestricted independence which is not the case under this trust territory [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/kwajalein-is-the-gem/">Kwajalein &#8216;is the gem&#8217;,</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/kwajalein-is-the-gem/>
+
+---
+
+## Brief chat with Marcus Landon Aydlett: 
+
+date: 2023-11-09, from: Pacific Island Times
+
+'An informed public is a prepared public' By Louella Losinio Marcus Landon Aydlett, the warning coordination meteorologist at the... 
+
+<https://www.pacificislandtimes.com/post/brief-chat-with-marcus-landon-aydlett>
+
+---
+
+## Merging science and community involvement in fishery conservation
+
+date: 2023-11-09, from: Pacific Island Times
+
+By Louella Losinio Fishery biologist Leilani Sablan is breaking new grounds as a young CHamoru scientist involved in an innovative creel... 
+
+<https://www.pacificislandtimes.com/post/merging-science-and-community-involvement-in-fishery-conservation>
 
 ---
 
@@ -1191,7 +1638,7 @@ Guam, with its vast array of military infrastructure and key location in the Pac
 
 date: 2023-11-07, from: Island Times
 
-<figure><img width="640" height="360" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?fit=640%2C360&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?w=640&amp;ssl=1 640w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?fit=640%2C360&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67029" data-permalink="https://islandtimes.org/whipps-arrives-at-the-52nd-pacific-islands-forum-leaders-meeting/whipps-at-piflm3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?fit=640%2C360&amp;ssl=1" data-orig-size="640,360" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Whipps at PIFLM3" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?fit=640%2C360&amp;ssl=1" /></figure>
+<figure><img width="640" height="360" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?fit=640%2C360&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?w=640&amp;ssl=1 640w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?fit=640%2C360&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67029" data-permalink="https://islandtimes.org/whipps-arrives-at-the-52nd-pacific-islands-forum-leaders-meeting/whipps-at-piflm3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?fit=640%2C360&amp;ssl=1" data-orig-size="640,360" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Whipps at PIFLM3" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Whipps-at-PIFLM3.jpg?fit=640%2C360&amp;ssl=1" /></figure>
 <p>(Cook Islands) Palau President Surangel Whipps Jr. arrived in Rarotonga, Cook Islands, yesterday to attend the 52nd Pacific Islands Forum Leaders Meeting. Some of the important issues to be discussed at the meeting include: Endorsement of an Implementation Plan for the 2050 Strategy for the Blue Pacific Continent, Climate Change, including a Regional Framework for [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/whipps-arrives-at-the-52nd-pacific-islands-forum-leaders-meeting/">Whipps arrives at the 52nd Pacific Islands Forum Leaders Meeting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
