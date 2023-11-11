@@ -3,8 +3,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
 title: "antenna"
-abstract: "This is a proof of concept demonstrating building a personal
-news aggregation using skimmer, SQLite3, Pandoc and Make."
+abstract: "This is a proof of concept demonstrating building a personal news aggregation using skimmer, SQLite3, Pandoc and Make."
 authors:
   - family-names: Doiel
     given-names: R. S.
@@ -24,13 +23,11 @@ About this software
 
 ### Authors
 
-- R.
-S. Doiel (orcid: [https://orcid.org/0000-0003-0900-6903](https://orcid.org/0000-0003-0900-6903))
+- R. S. Doiel (orcid: [https://orcid.org/0000-0003-0900-6903](https://orcid.org/0000-0003-0900-6903))
 
 
 
-This is a proof of concept demonstrating building a personal news
-aggregation using skimmer, SQLite3, Pandoc and Make.
+This is a proof of concept demonstrating building a personal news aggregation using skimmer, SQLite3, Pandoc and Make.
 
 
 - GitHub: <git+https://github.com/rsdoiel/antenna>
