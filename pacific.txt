@@ -2,6 +2,9 @@
 # Items of interest to the Pacific community and the Pacific RIM
 #
 
+# Universities and Research Organizations
+https://www.usp.ac.fj/feed/ "~University of the South Pacific (Fiji)"
+
 # NGOs
 https://www.forumsec.org/feed/ "~Pacific Island Forum" curl/8.4.0
 # Micronesian Conservation Coalition fails to open, they are whitelisting some how, works in Firefox, Chrome, but not with skimmer or wget.
