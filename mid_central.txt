@@ -11,8 +11,7 @@ https://www.mccd.edu/news/feed/ "~Blue Devil News (Merced Community College Stud
 https://blogs.ucmerced.edu/prodigy/feed/ "~The Prodogy (UC Merced's Student Newspaper)" curl/8.4.0
 https://fscollegian.com/feed/ "~The Collegian (Cal State Fresno's Student Newspaper)" curl/8.4.0
 
-#NOAA feeds 
-https://alerts.weather.gov/cap/wwaatmget.php?x=CAZ302&y=1 "~Merced, Madera and Mendota Alerts"
+# NOAA feeds 
 https://www.weather.gov/rss_page.php?site_name=hnx "~San Joaquin Valley"
 https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0 "~Merced, Weather.gov CAP v1.1 alerts"
 
