@@ -62,8 +62,7 @@ mid_central.md: mid_central.txt
 	skim2md mid_central.skim >mid_central.md
 	cp mid_central.md $(YEAR)/mid_central_$(VOL_NO).md
 
-mid_central.txt:
-	env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer mid_central.txt
+mid_central.txt: mid_central.skim
 	sqlite3 mid_central.skim "UPDATE items SET status = 'read'"
 	sqlite3 mid_central.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
@@ -87,8 +86,7 @@ socal_north.html: socal_north.md front_page.tmpl
 
 socal_north.md: socal_north.txt
 
-socal_north.txt:
-	env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer socal_north.txt
+socal_north.txt: socal_north.skim
 	sqlite3 socal_north.skim "UPDATE items SET status = 'read'"
 	sqlite3 socal_north.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
@@ -113,8 +111,7 @@ pacific.html: pacific.md front_page.tmpl
 
 pacific.md: pacific.txt
 
-pacific.txt:
-	env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer pacific.txt
+pacific.txt: pacific.skim
 	sqlite3 pacific.skim "UPDATE items SET status = 'read'"
 	sqlite3 pacific.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
@@ -138,10 +135,21 @@ weather.html: weather.md front_page.tmpl
 
 weather.md: weather.txt
 
-weather.txt:
-	env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer weather.txt
+weather.txt: weather.skim
 	sqlite3 weather.skim "UPDATE items SET status = 'read'"
 	sqlite3 weather.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
+
+socal_north.skim:
+	-env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer socal_north.txt
+
+mid_central.skim:
+	-env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer mid_central.txt
+
+pacific.skim:
+	-env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer pacific.txt
+
+weather.skim:
+	-env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer weather.txt
 
 # Clean only removes up the current volume pages
 clean: .FORCE

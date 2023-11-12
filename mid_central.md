@@ -1,5 +1,5 @@
 
-(date: 2023-11-11 14:39:44)
+(date: 2023-11-11 17:12:34)
 
 ---
 
@@ -10,6 +10,16 @@ date: 2023-11-10, from: The Collegian (Cal State Fresno's Student Newspaper)
 On Nov. 9, the California Faculty Association announced that members will be striking. The union declared four one-day strikes that will take place at four CSU campuses between Dec. 4-7: Dec. 4, Cal Poly Pomona Dec. 5, San Francisco State Dec. 6, CSU Los Angeles Dec. 7, Sacramento State Teamsters Local 2010 will also be... 
 
 <https://fscollegian.com/2023/11/cfa-and-teamsters-are-going-on-strike-heres-what-to-expect/>
+
+---
+
+## Amateur Radio Newsline Report 2402 for Friday November 10th, 2023
+
+date: 2023-11-10, from: Amateur Radio NewslinE
+
+<p class=""> - FIRE DESTROYS KEY BEACON ON MADEIRA ISLAND<br> - IN GERMANY, AN EASIER WAY TO REPORT RFI<br> - INDIA CONTINUES WORK TOWARD CREWED SPACEFLIGHT<br> - 'ADVENT CALENDAR' EVENT ACTIVATES UK BUNKERS<br> - EVENT ENGAGES VINTAGE-STYLE RADIOS IN QSO PARTY<br> - HAMS ENCOURAGED TO CONTACT DE-ORBITING DUTCH CUBESAT<br> - UK FOUNDATION TO SUBSIDIZE ENTRY LEVEL LICENSE EXAMS<br> - STRAIGHT KEY CENTURY CLUB CONTEST<br> - RAGCHEWS ENCOURAGED DURING ESSEX CW'S ACTIVITY WEEK<br> - WORLD OF DX<br> - KICKER: 'ALL THE LIGHT' THAT THEY COULD HEAR</p><p class=""><a href="https://www.arnewsline.org/s/nsln2402.txt">SCRIPT</a></p><p class=""><a href="https://www.arnewsline.org/s/Report2402.mp3">AUDIO</a></p> 
+
+<https://www.arnewsline.org/news/2023/11/9/amateur-radio-newsline-report-2402-for-friday-november-10th-2023>
 
 ---
 

@@ -1,7 +1,7 @@
 # SoCal North's feeds.
 
 # Weather Data
-https://api.weather.gov/points/34.3917,-118.5426 "~NOAA Forcast for Santa Clarita"
+https://api.weather.gov/points/34.3917,-118.5426 "~NOAA Forcast for Santa Clarita" curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #
 # For Profit news organizations

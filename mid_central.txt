@@ -12,6 +12,6 @@ https://blogs.ucmerced.edu/prodigy/feed/ "~The Prodogy (UC Merced's Student News
 https://fscollegian.com/feed/ "~The Collegian (Cal State Fresno's Student Newspaper)" curl/8.4.0
 
 # NOAA feeds 
-https://www.weather.gov/rss_page.php?site_name=hnx "~San Joaquin Valley"
-https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0 "~Merced, Weather.gov CAP v1.1 alerts"
+https://www.weather.gov/rss_page.php?site_name=hnx "~San Joaquin Valley" curl/8.4.3 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0 "~Merced, Weather.gov CAP v1.1 alerts" curl/8.4.3 (rsdoiel@gmail.com, rsdoiel.github.io)
 
