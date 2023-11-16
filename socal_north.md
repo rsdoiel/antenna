@@ -1,17 +1,368 @@
 
-(date: 2023-11-15 08:27:36)
+(date: 2023-11-16 13:23:28)
 
 ---
 
-## Womxn’s Rugby gears up for Scrum by the Sea and Spring season
+## Moorpark Man Arrested In Death Of A Jewish Protestor Paul Kessler Who Died After Falling At  Israel-Palestinian Demonstrations
 
-date: 2023-11-15, from: The Occidental News (Occidental College Student Newspaper)
+date: 2023-11-16, updated: 2023-11-16, from: The LAist
 
-<p>Occidental Womxn&#8217;s Rugby competes in the Pacific Desert College Women&#8217;s Rugby Conference. In preparation for the season, the team has been practicing and has competed in two tournaments so far. Match secretary Emily Wills (junior) said the league games are in the Spring so the focus for the Fall is competing in tournaments. According to Wills, [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2023/11/15/womxns-rugby-gears-up-for-scrum-by-the-sea-and-spring-season/2910671">Womxn&#8217;s Rugby gears up for Scrum by the Sea and Spring season</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+The suspect was booked on charges of involuntary manslaughter. 
+
+<https://laist.com/news/criminal-justice/moorpark-man-arrested-in-death-of-a-jewish-protestor-paul-kessler-who-died-after-falling-at-israel-palestinian-demonstrations>
+
+---
+
+## UCLA researchers receive grant to develop cannabis-based painkiller
+
+date: 2023-11-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Researchers at UCLA and New York University received a $5 million grant from the National Institute of Neurological Disorders and Stroke to develop new pain medications for people with oral cancer. 
+
+<https://dailybruin.com/2023/11/16/ucla-researchers-receive-grant-to-develop-cannabis-based-painkiller/>
+
+---
+
+## TB Testing For Asylum Seekers From Ukraine Another Chapter In LA's Long Fight Against The Disease
+
+date: 2023-11-16, updated: 2023-11-16, from: The LAist
+
+Tuberculosis kills more people worldwide than any other infectious disease besides COVID-19 
+
+<https://laist.com/news/health/tb-testing-for-asylum-seekers-from-ukraine-another-chapter-in-las-long-fight-against-the-disease>
+
+---
+
+## Classifieds – November 16, 2023
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/classifieds-november-16-2023/">Classifieds &#8211; November 16, 2023</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
-<https://theoccidentalnews.com/sports/2023/11/15/womxns-rugby-gears-up-for-scrum-by-the-sea-and-spring-season/2910671>
+<https://dailytrojan.com/2023/11/16/classifieds-november-16-2023/>
+
+---
+
+## Hacen falta más profesores latinos en la Universidad
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>La falta de diversidad del profesorado afecta la experiencia universitaria.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/hacen-falta-mas-profesores-latinos-en-la-universidad/">Hacen falta más profesores latinos en la Universidad</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/hacen-falta-mas-profesores-latinos-en-la-universidad/>
+
+---
+
+## Mi patrimonio generacional no es como el tuyo
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Para muchas familias inmigrantes, la educación es el patrimonio generacional.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/mi-patrimonio-generacional-no-es-como-el-tuyo/">Mi patrimonio generacional no es como el tuyo</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/mi-patrimonio-generacional-no-es-como-el-tuyo/>
+
+---
+
+## La música trasciende hacia el más allá
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Aunque nunca conocí a mi abuelo, siempre se comunica a través de la música.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/la-musica-trasciende-hacia-el-mas-alla/">La música trasciende hacia el más allá</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/la-musica-trasciende-hacia-el-mas-alla/>
+
+---
+
+## Narcisa Hirsch: In Relation  Un viaje ético, político y filosófico
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Narcisa Hirsch alcanza através del tiempo y sus ideas todavía nos conmueven.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/narcisa-hirsch-in-relation-un-viaje-etico-politico-y-filosofico/">Narcisa Hirsch: In Relation  Un viaje ético, político y filosófico</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/narcisa-hirsch-in-relation-un-viaje-etico-politico-y-filosofico/>
+
+---
+
+## Salvadoreños empoderan sus comunidades
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Gardenia Rosales, Marvin García y Johanna Toruño celebran su herencia.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/salvadorenos-empoderan-sus-comunidades/">Salvadoreños empoderan sus comunidades</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/salvadorenos-empoderan-sus-comunidades/>
+
+---
+
+## El Latine Student Assembly celebra 40 años
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>La organización reflexiona sobre sus logros e historia y mira hacia el porvenir.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/el-latine-student-assembly-celebra-40-anos/">El Latine Student Assembly celebra 40 años</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/el-latine-student-assembly-celebra-40-anos/>
+
+---
+
+## USC celebrates Native American Heritage Month
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Native American faculty, students and others spoke on education and support.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/usc-celebrates-native-american-heritage-month/">USC celebrates Native American Heritage Month</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/usc-celebrates-native-american-heritage-month/>
+
+---
+
+## New School of Dramatic Arts course will explore Israeli and Palestinian narratives
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Professor Brent Blair hopes to foster community healing amid the Israel-Hamas war. </p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/new-school-of-dramatic-arts-course-will-explore-israeli-and-palestinian-narratives/">New School of Dramatic Arts course will explore Israeli and Palestinian narratives</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/new-school-of-dramatic-arts-course-will-explore-israeli-and-palestinian-narratives/>
+
+---
+
+## ‘Bridge of Spies’ screening demonstrates resilience
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Isolation and patriotism shined through in the film, shown by Visions &#038; Voices.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/bridge-of-spies-screening-demonstrates-resilience/">‘Bridge of Spies’ screening demonstrates resilience</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/bridge-of-spies-screening-demonstrates-resilience/>
+
+---
+
+## All my favorite music sucks
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Ramones saved me from the loss of my childhood anger.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/all-my-favorite-music-sucks/">All my favorite music sucks</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/all-my-favorite-music-sucks/>
+
+---
+
+## The unfortunate process of finding roommates on Instagram
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Instagram college accounts are unreliable, misleading and promote superficial relationships.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/the-unfortunate-process-of-finding-roommates-on-instagram/">The unfortunate process of finding roommates on Instagram</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/the-unfortunate-process-of-finding-roommates-on-instagram/>
+
+---
+
+## Pre-med students can’t exploit patients
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students in healthcare must go into the field motivated to serve their community.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/pre-med-students-cant-exploit-patients/">Pre-med students can’t exploit patients</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/pre-med-students-cant-exploit-patients/>
+
+---
+
+## CSUN Poetry: Lunch Break
+
+date: 2023-11-16, from: The Sundail (CSUN Student Newspaper)
+
+I did not intend to have any difficulties with my supervisor. “Good morning, doll.” I hate him. He’s a creep and I can hear him speaking to her, my cubicle neighbor. I hate that I can hear everything that wrongfully exists in the world, and hate that I can envision the congo-line of ants making... 
+
+<https://sundial.csun.edu/176815/print-editions/print-stories/csun-poetry-lunch-break/>
+
+---
+
+## Students express frustration with price of goods at UCLA Store
+
+date: 2023-11-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students have complained about prices at the UCLA Store market being more expensive than stores such as Target and Ralph&#8217;s.
+The UCLA Store market sells an array of food, drinks, toiletries and cleaning supplies, carrying many of the same products as other grocery stores in Westwood. 
+
+<https://dailybruin.com/2023/11/15/students-express-frustration-with-price-of-goods-at-ucla-store/>
+
+---
+
+## Frontcourt starters lead UCLA men’s basketball to 20-point victory
+
+date: 2023-11-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Mick Cronin chose to deploy a two-big starting lineup last Friday.
+The coach’s decision resulted in a halftime deficit for the Bruins, and Cronin said after the game that it wasn’t the optimal lineup in the contest. 
+
+<https://dailybruin.com/2023/11/15/frontcourt-starters-lead-ucla-mens-basketball-to-20-point-victory/>
+
+---
+
+## Editorial Cartoon: “The Hunger Games of UCLA”
+
+date: 2023-11-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<https://dailybruin.com/2023/11/15/editorial-cartoon-the-hunger-games-of-ucla/>
+
+---
+
+## What We Know About The Legal Disputes Behind The 10 Freeway Property That Burned
+
+date: 2023-11-16, updated: 2023-11-16, from: The LAist
+
+Caltrans says the company that leased the space illegally sublet it to other companies. 
+
+<https://laist.com/news/politics/what-we-know-about-the-legal-disputes-behind-the-10-freeway-property-that-burned>
+
+---
+
+## Café 1919 reopens after recovering from staffing shortages
+
+date: 2023-11-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Bruins expressed excitement about the reopening of Caf&#233; 1919 but also shared concerns about portion sizes.
+Caf&#233; 1919, a takeout dining hall located in Sproul Plaza, which serves gelato and other dessert options, reopened Oct. 
+
+<https://dailybruin.com/2023/11/15/caf-1919-reopens-after-recovering-from-staffing-shortages/>
+
+---
+
+## LA Traffic Is Worse, But Not Terrible And It Probably Won’t Get Better
+
+date: 2023-11-16, updated: 2023-11-16, from: The LAist
+
+Detours push cars into neighborhoods already plagued by some of the worst air pollution. 
+
+<https://laist.com/news/transportation/what-is-10-traffic-freeway-impact-2023-closure-pollution-inequity>
+
+---
+
+## UCLA men’s soccer NCAA tournament predictions
+
+date: 2023-11-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+No. 13 seed UCLA men’s soccer awaits the winner of Loyola Marymount and UC Irvine’s first-round contest. The Pac-12 Champions have earned a spot in their third tournament in a row, with their first top-16 seed and first round bye since 2014. 
+
+<https://dailybruin.com/2023/11/15/ucla-mens-soccer-ncaa-tournament-predictions-2024/>
+
+---
+
+## In run-up to UCLA-USC matchup, iconic rivalry week traditions bring thrills
+
+date: 2023-11-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the days leading up to the crosstown rivalry game, many traditions manifest themselves: ones that have been deep-rooted into the histories of UCLA and USC. 
+
+<https://dailybruin.com/2023/11/15/in-run-up-to-ucla-usc-matchup-iconic-rivalry-week-traditions-bring-thrills/>
+
+---
+
+## SoCal History: The Significance Of The Tustin Airfield Hangars
+
+date: 2023-11-15, updated: 2023-11-15, from: The LAist
+
+A marine base, movie sets, and more memories of the Tustin hangars 
+
+<https://laist.com/news/la-history/socal-history-the-significance-of-the-tustin-airfield-hangars>
+
+---
+
+## UCLA men’s water polo relies on experience, camaraderie for MPSF championship
+
+date: 2023-11-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins are preparing to face off against a familiar conference tournament foe.
+As the top seed in the country and in its conference, No. 1 UCLA men&#8217;s water polo (23-0, 6-0 MPSF) is headed up north to Berkeley on Friday to compete against No. 
+
+<https://dailybruin.com/2023/11/15/ucla-mens-water-polo-relies-on-experience-camaraderie-for-mpsf-championship/>
+
+---
+
+## New York Times Names CSUN Most Economically Diverse Campus In Nation
+
+date: 2023-11-15, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN Instagram page announced that they&#8217;re the most economically diverse campus in the nation. However, that&#8217;s not entirely the case. On Tuesday afternoon, the csun_edu Instagram page said, according to the New York Times database, the school beat out 293 other public institutions. While CSUN does not appear on the official ‘Greatest Economic Diversity’... 
+
+<https://sundial.csun.edu/176968/news/new-york-times-names-csun-most-economically-diverse-campus-in-nation/>
+
+---
+
+## UCLA swim and dive to divide and conquer consecutive season-end invitationals
+
+date: 2023-11-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins will split to compete in not one, but two invitationals.
+No. 23 UCLA swim and dive (4-1, 2-1 Pac-12) is sending its swimmers to State College, Texas to compete in the Art Adamson Invitational, while its divers will be staying in Los Angeles to compete in the Trojan Diving Invitational at Uytengsu Aquatics Center. 
+
+<https://dailybruin.com/2023/11/15/ucla-swim-and-dive-to-divide-and-conquer-consecutive-season-end-invitationals/>
+
+---
+
+## Santa Ana: Early Results Show Councilmember Avoiding Recall
+
+date: 2023-11-15, updated: 2023-11-16, from: The LAist
+
+As the vote count comes in, the recall election for Santa Ana Councilmember Jessie Lopez is mired in legal questions. 
+
+<https://laist.com/news/politics/santa-ana-recall-jessie-lopez-early-results>
+
+---
+
+## CSUN Poetry: The imposter is not you
+
+date: 2023-11-15, from: The Sundail (CSUN Student Newspaper)
+
+You belong here, you know? Your dreams are valid, and you don’t need to have it all figured out. It’s scary to dream so big, right? Your parents didn’t even have the space to dream at this level, or maybe even at all, so you feel alone. I understand where your fear comes from. No... 
+
+<https://sundial.csun.edu/176947/opinions/csun-poetry-the-imposter-is-not-you/>
+
+---
+
+## Overcoming impostor syndrome
+
+date: 2023-11-15, from: The Sundail (CSUN Student Newspaper)
+
+Impostor syndrome looks different for everyone; however, the symptoms may be similar for all those affected by it. Over the years, professionals have found that students as well as minorities are susceptible to experiencing impostor syndrome. It usually presents as an overwhelming amount of self-doubt that typically stems from internalized stigmas about self-competency. Those suffering... 
+
+<https://sundial.csun.edu/176959/featured/overcoming-impostor-syndrome/>
+
+---
+
+## BRIEF: Men’s soccer finishes first  season in 43 years
+
+date: 2023-11-15, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Men’s soccer wrapped up their first season after 43 years with a 3-1 win at Citrus College. The Owls took the lead through Takechika Ito,</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/15/brief-mens-soccer-finishes-first-season-in-43-years/">BRIEF: Men’s soccer finishes first  season in 43 years</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/15/brief-mens-soccer-finishes-first-season-in-43-years/?utm_source=rss&utm_medium=rss&utm_campaign=brief-mens-soccer-finishes-first-season-in-43-years>
 
 ---
 
@@ -36,6 +387,30 @@ date: 2023-11-15, from: The Occidental News (Occidental College Student Newspape
  
 
 <https://theoccidentalnews.com/opinions/2023/11/15/opinion-is-independent-film-dead/2910635>
+
+---
+
+## Oxy SJP occupies AGC after two-day demonstration, next steps are unclear
+
+date: 2023-11-15, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Since the Oct. 7 Hamas attack on Israel, the Occidental College community has been embroiled in controversy about how to react on campus, starting with email exchanges among faculty members and culminating in sit-ins and demonstrations led by Occidental&#8217;s chapter of Students for Justice in Palestine (Oxy SJP). As of Nov. 14, Oxy SJP occupied [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/features/2023/11/15/oxy-sjp-occupies-agc-after-two-day-demonstration-next-steps-are-unclear/2910696">Oxy SJP occupies AGC after two-day demonstration, next steps are unclear</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/features/2023/11/15/oxy-sjp-occupies-agc-after-two-day-demonstration-next-steps-are-unclear/2910696>
+
+---
+
+## Womxn’s Rugby gears up for Scrum by the Sea and Spring season
+
+date: 2023-11-15, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental Womxn&#8217;s Rugby competes in the Pacific Desert College Women&#8217;s Rugby Conference. In preparation for the season, the team has been practicing and has competed in two tournaments so far. Match secretary Emily Wills (junior) said the league games are in the Spring so the focus for the Fall is competing in tournaments. According to Wills, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2023/11/15/womxns-rugby-gears-up-for-scrum-by-the-sea-and-spring-season/2910671">Womxn&#8217;s Rugby gears up for Scrum by the Sea and Spring season</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/sports/2023/11/15/womxns-rugby-gears-up-for-scrum-by-the-sea-and-spring-season/2910671>
 
 ---
 
@@ -91,7 +466,7 @@ date: 2023-11-15, from: The Occidental News (Occidental College Student Newspape
 
 date: 2023-11-15, from: The Occidental News (Occidental College Student Newspaper)
 
-<p>Oct. 11, Director of Financial Aid Sheryl Reinschmidt sent an email to Occidental students informing them that the launch of the 2023–2024 Free Application for Federal Student Aid (FAFSA) Form will be delayed until Dec. 2023. The deadline to reapply for financial aid at Occidental for 2024–2025 will remain Mar. 2, 2024, according to the email. Reinschmidt [&#8230;]</p>
+<p>Oct. 11, Director of Financial Aid Sheryl Reinschmidt sent an email to Occidental students informing them that the launch of the 2024–2025 Free Application for Federal Student Aid (FAFSA) Form will be delayed until Dec. 2023. The deadline to reapply for financial aid at Occidental for 2024–2025 will remain Mar. 2, 2024, according to the email. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2023/11/15/changes-in-fafsa-calculations-pushes-form-release-to-december/2910621">Changes in FAFSA calculations pushes form release to December</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
  
 
@@ -123,6 +498,114 @@ date: 2023-11-15, from: The Occidental News (Occidental College Student Newspape
 
 ---
 
+## Star-spangled panels
+
+date: 2023-11-15, from: The Round Up (Peirce College Student Newspaper)
+
+<p>&#160; There are many issues that Angelenos face, such as bad access to public transportation and housing insecurity. Even air conditioning is unobtainable to some.</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/15/star-spangled-panels/">Star-spangled panels</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/15/star-spangled-panels/?utm_source=rss&utm_medium=rss&utm_campaign=star-spangled-panels>
+
+---
+
+## Season ends in heartbreak
+
+date: 2023-11-15, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Pierce Women’s Volleyball played their last game of the season on Wednesday, rematching the Moorpark College Raiders in the Pierce gym and winning 3-0. Only</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/15/season-ends-in-heartbreak/">Season ends in heartbreak</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/15/season-ends-in-heartbreak/?utm_source=rss&utm_medium=rss&utm_campaign=season-ends-in-heartbreak>
+
+---
+
+## Streetbeat: Do you think voting makes a difference?
+
+date: 2023-11-15, from: The Round Up (Peirce College Student Newspaper)
+
+<p>&#160; &#160; &#160; “I think voting makes a difference because everyone’s opinion is important and valued, and when everyone votes, we get a clear sense</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/15/streetbeat-do-you-think-voting-makes-a-difference/">Streetbeat: Do you think voting makes a difference?</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/15/streetbeat-do-you-think-voting-makes-a-difference/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-do-you-think-voting-makes-a-difference>
+
+---
+
+## Pierce should provide school supply kits
+
+date: 2023-11-15, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Even though community college is known to be a more accessible option to receiving higher education, it can still be costly for students. BestColleges is</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/15/pierce-should-provide-school-supply-kits/">Pierce should provide school supply kits</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/15/pierce-should-provide-school-supply-kits/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-should-provide-school-supply-kits>
+
+---
+
+## Hey batta batta
+
+date: 2023-11-15, from: The Round Up (Peirce College Student Newspaper)
+
+<p>It may not be baseball season, but preparations are underway for 2024. The Brahmas had games this fall playing against teams they could potentially face</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/15/hey-batta-batta/">Hey batta batta</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/15/hey-batta-batta/?utm_source=rss&utm_medium=rss&utm_campaign=hey-batta-batta>
+
+---
+
+## Football loses final game
+
+date: 2023-11-15, from: The Round Up (Peirce College Student Newspaper)
+
+<p>The football team’s season ended against the Santa Monica Corsairs with a 38-14 loss. The Brahmas had a dismal first half against the visiting Santa</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/15/football-loses-final-game/">Football loses final game</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/15/football-loses-final-game/?utm_source=rss&utm_medium=rss&utm_campaign=football-loses-final-game>
+
+---
+
+## Voice recital features Pierce professors
+
+date: 2023-11-15, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Percussion Instructor Kevin Good presented a Voice Recital on Thursday starring vocalist Garineh Avakian and pianist Joseph Lee in the Performing Arts Building. The duo</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/15/voice-recital-features-pierce-professors/">Voice recital features Pierce professors</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/15/voice-recital-features-pierce-professors/?utm_source=rss&utm_medium=rss&utm_campaign=voice-recital-features-pierce-professors>
+
+---
+
+## Lives honored at board meeting
+
+date: 2023-11-15, from: The Round Up (Peirce College Student Newspaper)
+
+<p>After roll call and a flag salute, Board of Trustees President David Vela requested a moment of silence for the casualties lost in the Middle</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/15/lives-honored-at-board-meeting/">Lives honored at board meeting</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/15/lives-honored-at-board-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=lives-honored-at-board-meeting>
+
+---
+
+## Does voting make a difference? Yes, it does
+
+date: 2023-11-15, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Voting is a right as well as a privilege. Those who don’t vote should not complain about the outcome of an election and the consequences.</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/15/does-voting-make-a-difference-yes-it-does/">Does voting make a difference? Yes, it does</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/15/does-voting-make-a-difference-yes-it-does/?utm_source=rss&utm_medium=rss&utm_campaign=does-voting-make-a-difference-yes-it-does>
+
+---
+
 ## It’s Been More Than A Year Since LAUSD Pledged To Green Schools. But There’s Still No Finalized Plan In Place
 
 date: 2023-11-15, updated: 2023-11-15, from: The LAist
@@ -135,7 +618,7 @@ It’s November, and kids are still being impacted by the heat.
 
 ## How A Conference About Climate Change Tackled Its Own Food Waste (But Didn't Skimp On The Coffee)
 
-date: 2023-11-15, updated: 2023-11-15, from: The LAist
+date: 2023-11-15, updated: 2023-11-16, from: The LAist
 
 Big events are a big source of food waste. So what does it take to “walk the sustainability walk” when you have to feed lots of people? 
 
@@ -310,6 +793,7 @@ date: 2023-11-15, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2023-11-15, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Nov. 15 at 1:47 p.m.&#160;</em>
 Emergency medicine physicians across the country – including some at UCLA – launched a social media campaign in October that aimed to raise awareness about mental health and burnout in emergency medicine. 
 
 <https://dailybruin.com/2023/11/14/stopthestigmaem-campaign-broaches-mental-health-stigma-for-emergency-physicians/>
@@ -324,6 +808,76 @@ This post was updated Nov. 15 at 12:25 a.m.
 Katy Yaroslavsky, the District 5 Los Angeles City Council member, sat down with the Daily Bruin to discuss her achievements in the first year of her four-year term, as well as share insight on what Westwood can expect in the future. 
 
 <https://dailybruin.com/2023/11/14/qa-councilmember-katy-yaroslavsky-discusses-past-present-goals-for-westwood/>
+
+---
+
+## Guest Editorial: Why I believe in a restorative university
+
+date: 2023-11-15, from: Laloyolan (LMU Student Newspaper)
+
+Julia Wade, associate director for restorative practices, reflects on restorative justice as a critical piece of LMU's student conduct process. 
+
+<https://www.laloyolan.com/opinion/guest-editorial-why-i-believe-in-a-restorative-university/article_7df3154f-f762-58f3-b000-b35dded823d9.html>
+
+---
+
+## Press Release: LMU instates new policy banning men with visible abs from wearing shirts in Sunken Gardens
+
+date: 2023-11-15, from: Laloyolan (LMU Student Newspaper)
+
+You heard that right: Shirts are now banned in Sunken Gardens for hot guys. 
+
+<https://www.laloyolan.com/the_bluff/press-release-lmu-instates-new-policy-banning-men-with-visible-abs-from-wearing-shirts-in/article_85997847-fe78-5217-afce-159a7ce0d2bc.html>
+
+---
+
+## Delectable Thanksgiving delights around LMU
+
+date: 2023-11-15, from: Laloyolan (LMU Student Newspaper)
+
+Just because you're not able to go home for the break doesn't mean you can't get a great Thanksgiving meal around Westchester. 
+
+<https://www.laloyolan.com/life_and_arts/delectable-thanksgiving-delights-around-lmu/article_f0b1b821-99d8-587f-ae33-cbced47322b7.html>
+
+---
+
+## LMU student gets superpowers after getting dunked in the Foley Fountain
+
+date: 2023-11-15, from: Laloyolan (LMU Student Newspaper)
+
+Look, up in the sky! It’s a bird! It’s a plane! It’s a… LMU student? 
+
+<https://www.laloyolan.com/the_bluff/lmu-student-gets-superpowers-after-getting-dunked-in-the-foley-fountain/article_1fa91b15-4b62-5399-b155-4ee5905dfc8d.html>
+
+---
+
+## UFC Graphic.jpeg
+
+date: 2023-11-15, from: Laloyolan (LMU Student Newspaper)
+
+The litany of techniques from these fighters show the dynamic range of UFC 
+
+<https://www.laloyolan.com/sports/ufc-graphic-jpeg/image_6c211730-47d8-5262-abe1-7cdc0e9e5900.html>
+
+---
+
+## The hidden beauty behind UFC
+
+date: 2023-11-15, from: Laloyolan (LMU Student Newspaper)
+
+Yes, it's violent. But it's so much more than just violence. It's an art form. 
+
+<https://www.laloyolan.com/sports/the-hidden-beauty-behind-ufc/article_5a558b3b-4f1b-5516-9e66-31f7f20bce35.html>
+
+---
+
+## Self-proclaimed 'sexiest man alive' devastated over Patrick Dempsey win
+
+date: 2023-11-15, from: Laloyolan (LMU Student Newspaper)
+
+Not only is Patrick Dempsey the sexiest man alive, he is the only man alive who is happy about this news. 
+
+<https://www.laloyolan.com/the_bluff/self-proclaimed-sexiest-man-alive-devastated-over-patrick-dempsey-win/article_08132a45-ccb0-5628-8590-eda4f934bec6.html>
 
 ---
 

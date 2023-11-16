@@ -1,5 +1,520 @@
 
-(date: 2023-11-15 08:27:36)
+(date: 2023-11-16 13:23:29)
+
+---
+
+## Atalig, Taisague, others to be subpoenaed today
+
+date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
+
+THE Legislative Bureau's sergeant-at-arms, Pete Towai, will deliver a subpoena duces tecum today, Friday, Nov. 17, 2023, to former Finance Secretary David DLG Atalig, former Department of Commerce-Economic Development Director Jesus Taisague, and Building Optimism, Opportunities and Stability Together contractors Robert Travilla, Salina Sapp and Shane Villanueva. 
+
+<https://www.mvariety.com/news/local/atalig-taisague-others-to-be-subpoenaed-today/article_39ec7df4-8457-11ee-8eb7-33d4fdb98ebc.html>
+
+---
+
+## Pet health clinic on Rota
+
+date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
+
+ON Saturday, Nov. 18, from 10 a.m. to 4 p.m., a clinic service for pets on Rota will be conducted by the Saipan Humane Society in collaboration with the office of Rep. Julie A. Ogo, the Rota Mayor’s Office, the 19th Rota Municipal Council Office, and the Rota Department of Lands &amp; Natural Resources-Fish &amp; Wildlife Division. 
+
+<https://www.mvariety.com/news/community_bulletins/pet-health-clinic-on-rota/article_844d8150-8451-11ee-9b01-f77980d04a93.html>
+
+---
+
+## NMI celebrates apprenticeship growth
+
+date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
+
+(NMC) — As part of the effort to recognize the vital role that registered apprenticeships play in providing opportunities to the people of the CNMI by allowing apprentices to earn while they learn and preparing a pathway to good, quality jobs and well-paying careers, Gov. Arnold I. Palacios proclaimed the week of Nov. 13-19, 2023, as National Apprenticeship Week. 
+
+<https://www.mvariety.com/news/community_bulletins/nmi-celebrates-apprenticeship-growth/article_0dc165dc-8448-11ee-b56f-e399c6897d6c.html>
+
+---
+
+## Docomo Pacific sponsors Japan Autumn Festival in Guam
+
+date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
+
+TAMUNING, Guam — Docomo Pacific, the regional leader in innovation, telecommunications, &amp; entertainment, sponsors the 42nd Annual Japan Autumn Festival on Saturday, Nov. 18, 2023, at the Joseph Flores Beach Park (formerly Ypao Beach Park). 
+
+<https://www.mvariety.com/lifestyle/docomo-pacific-sponsors-japan-autumn-festival-in-guam/article_313b8758-8449-11ee-9617-47ec7d4d65e0.html>
+
+---
+
+## Wishes come true in MCS Theatre Club production of Disney’s Aladdin Jr.
+
+date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
+
+WISHES will come true when Mount Carmel School’s Theatre Club proudly presents its next theatrical production, Disney’s Aladdin Jr. on Friday and Saturday, December 1 and 2, at the school’s historic stage. Based on the 1992 Disney film and the 2014 Broadway adaptation, the show marks the club’s 57th production since the club was founded in 1996. Join Aladdin, Jasmine, and the fast-talking, wisecracking Genie as they discover mystical caves, take magic carpet rides, and outwit the evil sorcerer, Jafar. Adapted especially for young performers, this musical includes favorite Alan Menken songs such as “Friend Like Me,” “A Whole New World,” and “Prince Ali,” as well as wonderful new songs added for the Broadway production. 
+
+<https://www.mvariety.com/lifestyle/wishes-come-true-in-mcs-theatre-club-production-of-disney-s-aladdin-jr/article_3ab53654-844d-11ee-9210-9f8f9f7e2c0f.html>
+
+---
+
+## Palacios, Huang and Jiang top Pacifica’s 10th Annual Art Contest
+
+date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
+
+PACIFICA Insurance Underwriters Inc. concluded its 10th Annual Pacifica Art Contest or PAC on Monday, Oct.16 with a total of 191 art entries. 
+
+<https://www.mvariety.com/lifestyle/palacios-huang-and-jiang-top-pacifica-s-10th-annual-art-contest/article_8d403272-8491-11ee-ba1d-bb0181713d3f.html>
+
+---
+
+## AG can’t represent Saipan mayor’s office
+
+date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
+
+ATTORNEY General Edward Manibusan told Saipan Mayor Ramon “RB” Camacho that under the Commonwealth Constitution, the Office of the Attorney General does not provide legal representation to the mayors or agencies of municipalities. 
+
+<https://www.mvariety.com/news/local/ag-can-t-represent-saipan-mayor-s-office/article_c74e29fc-8440-11ee-8998-e3f790902334.html>
+
+---
+
+## DPS: Possible suspects in school break-ins identified
+
+date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
+
+THE Department of Public Safety has identified possible suspects in the recent break-ins at Da'ok Academy and Koblerville Elementary School, DPS public information officer Sergeant Fred Sato said. 
+
+<https://www.mvariety.com/news/local/dps-possible-suspects-in-school-break-ins-identified/article_7729c864-8459-11ee-93b0-b3bc828ae94a.html>
+
+---
+
+## COTA: Inaugural bus route marks a milestone in island transportation
+
+date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
+
+(COTA) — The Commonwealth Office of Transit Authority, under the Office of the Governor, is set to make history with the launch of its first-ever dual-directional bus route, the Blue Line, by Transit CNMI. Saipan’s groundbreaking public transportation launches Friday, Nov. 24, and will make the island more accessible, connected, and environmentally conscious. 
+
+<https://www.mvariety.com/news/local/cota-inaugural-bus-route-marks-a-milestone-in-island-transportation/article_149b8022-8443-11ee-8913-7b838a3a0f66.html>
+
+---
+
+## USCGC Myrtle Hazard completes successful patrol emphasizing community commitment in NMI
+
+date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
+
+SANTA RITA, Guam (U.S. Coast Guard Forces Micronesia/Sector Guam) — The USCGC Myrtle Hazard (WPC 1139) crew successfully completed a multifaceted patrol from Oct. 16 to Nov. 5, 2023, underscoring the Service’s unwavering commitment to the community and partners in the Commonwealth of the Northern Mariana Islands. 
+
+<https://www.mvariety.com/news/local/uscgc-myrtle-hazard-completes-successful-patrol-emphasizing-community-commitment-in-nmi/article_bca874fa-8452-11ee-997b-379faec3f603.html>
+
+---
+
+## Variations on Summer
+
+date: 2023-11-16, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Melissent Zumwalt The prompt from writing class last week was, “Summertime—wishful thinking—the summers of youth and their unparalleled magic:” an exercise intended to be fun, upbeat. Good Lord! I’d thought, was I the only one without a fondness for &#8230; <a href="https://hawaiipacificreview.org/2023/11/16/variations-on-summer/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2023/11/16/variations-on-summer/>
+
+---
+
+## Making viral videos
+
+date: 2023-11-16, from: Marshal Islands Journal
+
+<p>CMI student and video editing whiz Pijja Matuato never fails to enthrall Majuro with his deft shooting and filmmaking. He told the Journal his schedule is flooded with school basketball video introductions and candidate campaign speeches. He’s shown here filming the MIHS girls’ basketball team, who were getting ready to face Majuro Co-op High School [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/making-viral-videos/">Making viral videos</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/making-viral-videos/>
+
+---
+
+## Former governor says Section 902 talks are not for negotiating
+
+date: 2023-11-16, from: The Guam Daily Post
+
+SAIPAN - At a civics workshop organized by the Northern Marianas Humanities Council on Wednesday, former Commonwealth of the Northern Mariana Islands Gov. Juan N. Babauta answered questions regarding using Section 902 of the Covenant as a mechanism for the… 
+
+<https://www.postguam.com/news/cnmi/former-governor-says-section-902-talks-are-not-for-negotiating/article_824ce5e4-840b-11ee-b832-430ddf4f39a2.html>
+
+---
+
+## Senate joint resolution calls for additional Labor employee
+
+date: 2023-11-16, from: The Guam Daily Post
+
+SAIPAN - The Commonwealth of the Northern Mariana Islands Senate on Monday adopted Senate Joint Resolution 23-6, which approves the hiring of an additional staff member for the CNMI Department of Labor administrative hearing office. 
+
+<https://www.postguam.com/news/cnmi/senate-joint-resolution-calls-for-additional-labor-employee/article_467f4f4e-840a-11ee-9040-6fd56e54866b.html>
+
+---
+
+## DPW: No $1M security deposit from IPI
+
+date: 2023-11-16, from: The Guam Daily Post
+
+SAIPAN - The Commonwealth of the Northern Mariana Islands Department of Public Works did not receive $1 million in construction security deposit from Imperial Pacific International, DPW Secretary Ray N. Yumul said. 
+
+<https://www.postguam.com/news/cnmi/dpw-no-1m-security-deposit-from-ipi/article_54aad71a-8409-11ee-a09b-53c875db1298.html>
+
+---
+
+## GBHWC leads efforts to address opioids and illicit drugs on Guam
+
+date: 2023-11-16, from: The Guam Daily Post
+
+The Guam Behavioral Health and Wellness Center was awarded the Strategic Prevention Framework for Prescription Drugs, or SPF-Rx, grant, the agency announced in a press release. GBHWC will get $2.5 million in funding, from the Substance Abuse and Mental Health… 
+
+<https://www.postguam.com/news/local/gbhwc-leads-efforts-to-address-opioids-and-illicit-drugs-on-guam/article_c9fb2c62-837e-11ee-a105-67626d174173.html>
+
+---
+
+## Funding, workforce needed to bolster cybersecurity capacity
+
+date: 2023-11-16, from: The Guam Daily Post
+
+Additional funding, along with workforce development and training, appear to be some of the key factors to bolstering cybersecurity capacity on Guam, according to discussions Tuesday at a legislative roundtable hearing on cybersecurity within the government of Guam. 
+
+<https://www.postguam.com/news/local/funding-workforce-needed-to-bolster-cybersecurity-capacity/article_f4d5d2ac-827a-11ee-9181-43e1397b4d17.html>
+
+---
+
+## Woman denies murdering 1-year-old son
+
+date: 2023-11-16, from: The Guam Daily Post
+
+A woman pleaded not guilty to charges related to the death of her 1-year-old child earlier this month. 
+
+<https://www.postguam.com/news/local/woman-denies-murdering-1-year-old-son/article_6ab31f66-8433-11ee-adc9-1ffde7ee0c29.html>
+
+---
+
+## Lujan named 1st Chamoru woman federal public defender in Guam
+
+date: 2023-11-16, from: The Guam Daily Post
+
+Leilani Lujan has become the first woman of CHamoru descent to serve as the federal public defender. 
+
+<https://www.postguam.com/news/local/lujan-named-1st-chamoru-woman-federal-public-defender-in-guam/article_9d559534-8415-11ee-b331-0760e3e02dbf.html>
+
+---
+
+## Man accused of robbing woman he was ordered to stay away from
+
+date: 2023-11-16, from: The Guam Daily Post
+
+A man was accused of robbing a woman of six dollars in cash. 
+
+<https://www.postguam.com/news/local/man-accused-of-robbing-woman-he-was-ordered-to-stay-away-from/article_2d4a0458-8412-11ee-911d-affc861f8e02.html>
+
+---
+
+## Woman, man dead in Toto shootings
+
+date: 2023-11-16, from: The Guam Daily Post
+
+A 67-year-old woman who died Wednesday is believed to have been shot by a man in Toto. The suspect was later found dead at the Harvest Christian Academy soccer field. 
+
+<https://www.postguam.com/news/local/woman-man-dead-in-toto-shootings/article_2b26da94-8443-11ee-8f52-6f64891598da.html>
+
+---
+
+## Man charged in connection to 2021 assault
+
+date: 2023-11-16, from: The Guam Daily Post
+
+A man was charged in connection to throwing a knife at a woman more than two years ago. 
+
+<https://www.postguam.com/news/local/man-charged-in-connection-to-2021-assault/article_84f361a4-840d-11ee-a665-6b7d9e4fbfcb.html>
+
+---
+
+## Man, allegedly drunk, crashes car into pole
+
+date: 2023-11-16, from: The Guam Daily Post
+
+A man was charged in connection to crashing a car into a utility pole, which resulted in his passenger being injured. 
+
+<https://www.postguam.com/news/local/man-allegedly-drunk-crashes-car-into-pole/article_50549316-8294-11ee-bae7-4b33f8bb0162.html>
+
+---
+
+## Director, senator butt heads over Guthertz nomination to Port board
+
+date: 2023-11-16, from: The Guam Daily Post
+
+The Port Authority of Guam board of directors has been left one member shy of being able to make quorum, as eight lawmakers decided against passing the nomination for Judith Guthertz to continue serving as a director. 
+
+<https://www.postguam.com/news/local/director-senator-butt-heads-over-guthertz-nomination-to-port-board/article_c6f019f0-8389-11ee-9918-c7cd49937685.html>
+
+---
+
+## Major crash on Route 10 sends woman to hospital with serious injuries
+
+date: 2023-11-16, from: The Guam Daily Post
+
+Guam Fire Department units responded to a major crash along Route 10 near Uncle Cho's Mart in Mangilao at around 5:43 p.m. Thursday. 
+
+<https://www.postguam.com/news/local/major-crash-on-route-10-sends-woman-to-hospital-with-serious-injuries/article_76e1acf2-845c-11ee-b440-db48fcfe5846.html>
+
+---
+
+## Chamber memberships spikes in ’23
+
+date: 2023-11-16, from: Marshal Islands Journal
+
+<p>Majuro Chamber of Commerce achieved a membership milestone this year, with 91 businesses and individuals joining since the beginning of 2023. The surge in membership is a testament to the growing enthusiasm within the private sector, reflecting a collective understanding that fostering the development of the private sector is integral to securing a stable and [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/chamber-memberships-spikes-in-23/">Chamber memberships spikes in ’23</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/chamber-memberships-spikes-in-23/>
+
+---
+
+## Guam's training programs slowly  alleviating manpower shortages in private and public sectors
+
+date: 2023-11-16, from: Pacific Island Times
+
+By Pacific Island Times News Staff For decades, jobs for skilled professions on Guam have been sitting empty due to a perennial labor... 
+
+<https://www.pacificislandtimes.com/post/guam-s-training-programs-slowly-alleviating-manpower-shortages-in-private-and-public-sectors>
+
+---
+
+## Pacific island countries tie up with EU via Samoa Agreement
+
+date: 2023-11-16, from: Pacific Island Times
+
+By Pacific Island Times News Staff Apia—Pacific island nations have sealed a comprehensive trade partnership with the European Union... 
+
+<https://www.pacificislandtimes.com/post/pacific-island-countries-tie-up-with-eu-via-samoa-agreement>
+
+---
+
+## Cool Beans: 5th Graders Learn Budgeting During Day-Long Visit to Chaminade
+
+date: 2023-11-16, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+On Thursday, students at Chaminade were given 15 beans at the start of class to learn financial literacy and the importance of budgeting. On a worksheet, they had to use beans wisely to provide for all their “needs” and chosen “wants.&#8221; As soon as the students used all 15 beans, they found out that they... 
+
+<https://thesilversword.com/news/2023/11/15/cool-beans-5th-graders-learn-budgeting-during-day-long-visit-to-chaminade/>
+
+---
+
+## Loeak crowned iroojlaplap
+
+date: 2023-11-16, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Christopher Jorebon Loeak was officially crowned paramount chief following his coronation ceremony at the United Church of Christ last Saturday. Hundreds in attendance and thousands more via the National Telecommunication Authority livestream witnessed Loeak being ordained on the alter by UCC Reverend Herbert Langijota. Reverend Langijota presented a Bible and Hymn to Loeak [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/loeak-crowned-iroojlaplap/">Loeak crowned iroojlaplap</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/loeak-crowned-iroojlaplap/>
+
+---
+
+## Palau athletes take to Solomons for Pacific Games
+
+date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
+
+Team Palau’23 gathered with Palau leaders to recieve blessings and best wishes By Kambes Kesolei A total of 94 athletes&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7514>
+
+---
+
+## Unopposed Simer, hamlet candidates and a write-in win Aimeliik polls
+
+date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
+
+Interest in state elections low Recent state elections show lack of people’s interest in state legislative seats as indicated in&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7512>
+
+---
+
+## Koror chiefs win in first test case of enforcing traditional laws in court
+
+date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
+
+The Koror traditional chiefs &#8211; Ngarameketii and Rubekul Kldeu &#8211; as House of Traditional Leaders(HOTL) led by High Chief Ibedul&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7509>
+
+---
+
+## Palauan teenager wins junior golfer of the year in Texas
+
+date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
+
+A Palauan teenager in Texas, USA, has been awarded the Junior Golfer of the Year according to the November 1,&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7506>
+
+---
+
+## Palau receives Best Performance Award for 4th straight year at Taipei International Travel Fair
+
+date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
+
+On November 3-6, 2023, Taiwan hosted the 2023 Taipei International Travel Fair held atTaipei Nangang Exhibition Center. In total, the&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7503>
+
+---
+
+## USAID Partners with SPC to support local organizations
+
+date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
+
+Koror, Palau – ON October 30, U.S. Agency for International Development (USAID) Assistant Administrator for Asia Michael Schiffer announced USAID’s&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7500>
+
+---
+
+## Lifetime achievement award in marine biology for UH professor
+
+date: 2023-11-16, from: University of Hawaiʻi News
+
+<p>The Western Society of Naturalists is the oldest professional marine biological society in western North America.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/15/mark-hixon-lifetime-achievement-award/">Lifetime achievement award in marine biology for <abbr>UH</abbr> professor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/15/mark-hixon-lifetime-achievement-award/>
+
+---
+
+## Japan Airlines to operate charter flights to Palau in March
+
+date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
+
+By Kambes Kesolei Japan Airlines will resume its chartered flights to Palau starting March 2024.&#160; The airline will initially operate&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7498>
+
+---
+
+## Ceremony marks completion of Fishers Learning Center
+
+date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
+
+A ribbon cutting ceremony was held on November 13, 2023, to mark the successful completion of the FishersLearning Center located&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7495>
+
+---
+
+## Workshop conducted targeting the management capacity of PAN State staff
+
+date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
+
+On Thursday, the 9th of November 2023, a workshop was held at Palau Coral Reef International Center (PICRC) bringing together&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7492>
+
+---
+
+## Palau hosts 32nd PIALA Conference!
+
+date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
+
+Librarians from across the Pacific are in Palau this week for the 32nd annual Pacific Islands Association of Libraries, Archives,&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7489>
+
+---
+
+## RELEASE: Forum SG Puna welcomes “milestone” Samoa Agreement Signing
+
+date: 2023-11-16, from: Pacific Island Forum
+
+16th November 2023, Apia, Samoa&#8211; Leaders across Africa, the Caribbean and Pacific were in Apia this week to seal a historic multilateral development and trade partnership<span class="excerpt-hellip"> […]</span> 
+
+<https://www.forumsec.org/2023/11/16/release-forum-sg-puna-welcomes-milestone-samoa-agreement-signing/>
+
+---
+
+## Using microbubble gene therapy may protect against heart disease
+
+date: 2023-11-16, from: University of Hawaiʻi News
+
+<p>Microbubbles were used to deliver <abbr>CRISPR</abbr> tools to the liver to inhibit a gene that increases cardiovascular risk.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/15/microbubble-gene-therapy/">Using microbubble gene therapy may protect against heart disease</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/15/microbubble-gene-therapy/>
+
+---
+
+## HIKI NŌ ON PBS HAWAIʻI: 2023 Fall Challenge
+
+date: 2023-11-15, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>On this special episode of HIKI NŌ on PBS Hawaiʻi, find out which schools produced the winning entries of the HIKI NŌ on PBS Hawaiʻi 2023 Fall Challenge, with host Sloan Billingsley, a junior at Campbell High School. A day before the storytelling contest began, on Oct. 18, 2023, dozens of students and their teachers [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbi-2023-fall-challenge/">HIKI NŌ ON PBS HAWAIʻI: &lt;br/&gt;2023 Fall Challenge</a> appeared first on <a rel="nofollow" href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbi-2023-fall-challenge/>
+
+---
+
+## US Veterans Affairs to lease Medical Arts Center for clinic expansion
+
+date: 2023-11-15, from: Pacific Island Times
+
+By Pacific Island Times News Staff A new Veterans Affairs Clinic will soon open at the Medical Arts Center, promising to be a... 
+
+<https://www.pacificislandtimes.com/post/us-veterans-affairs-to-lease-medical-arts-center-for-clinic-expansion>
+
+---
+
+## Guam Medical Association snubs governor's invitation to meet on hospital project planning
+
+date: 2023-11-15, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Guam Medical Association has declined Gov. Lou Leon Guerrero's invitation to an upcoming... 
+
+<https://www.pacificislandtimes.com/post/guam-medical-association-snubs-governor-s-invitation-to-meet-on-hospital-project-planning>
+
+---
+
+## CMI students: Vote!
+
+date: 2023-11-15, from: Marshal Islands Journal
+
+<p>A class at the College of the Marshall Islands has been in action to promote voting awareness and encourage students to vote in Monday&#8217;s national election. As part of their class project, about 30 students from CMI 101 sections two and three last week created posters, charts, surveys, and flyers with election-related content and posted [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/cmi-students-vote/">CMI students: Vote!</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/cmi-students-vote/>
+
+---
+
+## Parking information: UH Mānoa hosting multiple events Thanksgiving Week
+
+date: 2023-11-15, from: University of Hawaiʻi News
+
+<p>Please plan accordingly for parking and traffic in the area.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/15/parking-information-uh-manoa-thanksgiving-week/">Parking information: <abbr>UH</abbr> Mānoa hosting multiple events Thanksgiving Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/15/parking-information-uh-manoa-thanksgiving-week/>
+
+---
+
+## New study shows need for inclusive approach to Indigenous microbiome research
+
+date: 2023-11-15, from: University of Hawaiʻi News
+
+<p>Ethical inclusion of Indigenous communities in microbiome research can provide benefits for all populations and reinforce mutually beneficial partnerships.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/15/inclusive-microbiome-research/">New study shows need for inclusive approach to Indigenous microbiome research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/15/inclusive-microbiome-research/>
+
+---
+
+## UH News Image of the Week: Palau
+
+date: 2023-11-15, from: University of Hawaiʻi News
+
+<p>This week's image is from <abbr>UH</abbr> Hilo's Jim Mellon.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/15/uh-news-image-of-the-week-palau/"><abbr>UH</abbr> News Image of the Week: Palau</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/15/uh-news-image-of-the-week-palau/>
 
 ---
 

@@ -1,5 +1,45 @@
 
-(date: 2023-11-15 08:27:36)
+(date: 2023-11-16 13:23:28)
+
+---
+
+## The Fresno State Art History club tackles femicide in art
+
+date: 2023-11-16, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Trigger warning: This story features sensitive topics. Judithe Hernández, a prominent Chicana artist who is the fifth and only female member in Los Angeles art collective, Los Four, has been showcasing the brutalities that happen to Mexican women through art. In the late 1990s and into the early 2000s, hundreds of women and girls were... 
+
+<https://fscollegian.com/2023/11/the-fresno-state-art-history-club-tackles-femicide-in-art/>
+
+---
+
+## Fresno State’s Bulldog Marching Band joins the Metallica marching band competition
+
+date: 2023-11-16, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The iconic heavy metal band Metallica is challenging marching bands of any level to perform spectacular and energized covers of their music. Divided between collegiate and high school divisions, bands with the most impressive performances will win customized music equipment, furnished by Metallica and competition sponsors for their school’s programs. Fresno State’s Bulldog Marching Band... 
+
+<https://fscollegian.com/2023/11/fresno-states-marching-band-joins-the-metallica-marching-band-competition/>
+
+---
+
+## 🧸🚒 Atwater City Fire Fundraiser – Tri-Tip Dinner 🚒🧸
+
+date: 2023-11-15, from: City of Atwater News Releases
+
+Support the Fire &#38; Police Toy Drive by purchasing a Dinner Ticker for only $60!! Every purchased ticket will be entered into a drawing for a chance to win hand-crafted BBQ and other various prizes!! See flyer below for more information and scan the QR code to purchase your ticket today! (Please note: ticket sales &#8230; 
+
+<https://www.atwater.org/%f0%9f%a7%b8%f0%9f%9a%92-atwater-city-fire-fundraiser-tri-tip-dinner-%f0%9f%9a%92%f0%9f%a7%b8/>
+
+---
+
+## Alexander Payne’s direction in ‘The Holdovers’ provides a comforting approach to a new holiday classic
+
+date: 2023-11-15, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+After facing messy traffic due to Gabriel Inglesias’ 2023 comedy tour at The Save Mart Center which lead me to miss the first 10 minutes of the movie that was projected off-centered for the first half an hour, ‘The Holdovers’ continued to raise my holiday spirit and had me forget all about the small inconveniences... 
+
+<https://fscollegian.com/2023/11/alexander-paynes-the-holdovers-provides-a-comforting-approach-to-a-new-holiday-classic/>
 
 ---
 
