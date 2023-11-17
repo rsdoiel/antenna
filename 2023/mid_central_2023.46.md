@@ -1,5 +1,55 @@
 
-(date: 2023-11-16 13:23:28)
+(date: 2023-11-17 13:31:56)
+
+---
+
+## Fresno State’s Hmong Student Association celebrates the history of Hmong New Year
+
+date: 2023-11-17, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+On Nov. 14, Fresno State celebrated the history of Hmong New Year at the Satellite Student Union, with President Saúl Jiménez-Sandoval announcing Fresno State&#8217;s Hmong digital repository located on the library website. The repository is a public collection of photographs, documents and videos that follow the Hmong people’s journey from Laos to the United States.... 
+
+<https://fscollegian.com/2023/11/fresno-states-hmong-student-association-celebrates-the-history-of-hmong-new-year/>
+
+---
+
+## The K7RA Solar Update
+
+date: 2023-11-17, from: Amateur Radio Relay League News
+
+<p>"ASWFC GEOMAGNETIC DISTURBANCE WARNING ISSUED AT 2306 UTC 16 NOVEMBER 2023 BY THE AUSTRALIAN SPACE WEATHER FORECASTING CENTRE.<br /><br />"Two recent CMEs associated with small solar filament eruptions are<br />expected to increase geomagnetic activity from mid 19-Nov to 20-Nov.<br /><br />"INCREASED GEOMAGNETIC ACTIVITY EXPECTED DUE TO CORONAL MASS EJECTION FROM 19-20 NOVEMBER 2023."<br /><br />Solar activity was lower this week, Nove...</p> 
+
+<http://www.arrl.org/news/view/the-k7ra-solar-update-804>
+
+---
+
+## 2023 ARRL November Sweepstakes Continues
+
+date: 2023-11-17, from: Amateur Radio Relay League News
+
+<p>The second part of the ARRL November Sweepstakes is for phone contacts, and it begins Saturday, November 18 at 2100 UTC, and runs through Monday, November 20 at 0259 UTC.</p><p>The contest objective is to support amateur self-training in radiocommunications, including improving amateur operating skills, conducting technical investigations, and intercommunicating with other amateurs. Amateur stations i...</p> 
+
+<http://www.arrl.org/news/view/2023-arrl-november-sweepstakes-continues>
+
+---
+
+## Guest column: Open letter to President Saúl Jiménez-Sandoval
+
+date: 2023-11-17, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Dear President Saúl Jiménez-Sandoval, We write to you as artists and humanists who care deeply about the power of language to shape or misshape our realities. Language links us as humans, but it can also humanize and individualize some groups at the expense of others and thereby enable and uphold oppressive, hierarchical structures. We who... 
+
+<https://fscollegian.com/2023/11/open-letter-to-president-saul-jimenez-sandoval/>
+
+---
+
+## Hill and Yap lead ‘Dogs to victory over Morgan State
+
+date: 2023-11-16, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+After suffering its first defeat of the season to Kent State on Nov. 11, the Fresno State men&#8217;s basketball team improved its record to 2-1 after a commanding 87-68 win over Morgan State at the Save Mart Center. The team was led by guards Donavan Yap and Isaiah Hill, who both set milestones in the... 
+
+<https://fscollegian.com/2023/11/hill-and-yap-lead-dogs-to-victory-over-morgan-state/>
 
 ---
 
@@ -27,7 +77,7 @@ The iconic heavy metal band Metallica is challenging marching bands of any level
 
 date: 2023-11-15, from: City of Atwater News Releases
 
-Support the Fire &#38; Police Toy Drive by purchasing a Dinner Ticker for only $60!! Every purchased ticket will be entered into a drawing for a chance to win hand-crafted BBQ and other various prizes!! See flyer below for more information and scan the QR code to purchase your ticket today! (Please note: ticket sales &#8230; 
+Support the Fire &#38; Police Toy Drive by purchasing a Dinner Ticket for only $60!! Every purchased ticket will be entered into a drawing for a chance to win hand-crafted BBQ and other various prizes!! See flyer below for more information and scan the QR code to purchase your ticket today! (Please note: ticket sales &#8230; 
 
 <https://www.atwater.org/%f0%9f%a7%b8%f0%9f%9a%92-atwater-city-fire-fundraiser-tri-tip-dinner-%f0%9f%9a%92%f0%9f%a7%b8/>
 
@@ -157,7 +207,7 @@ Mercedez Espino gave up on seeking help for her mental health because of a poor 
 
 date: 2023-11-14, from: Amateur Radio Relay League News
 
-<p>ARRL  The National Association for Amateur Radio® reports that earlier today, the FCC Commissioners unanimously voted to amend the Amateur Radio Service rules to replace the baud rate limit on the Amateur HF bands with a 2.8 kHz bandwidth limit to permit greater flexibility in data communications.<br /><br />“The Federal Communications Commission today adopted new rules to incentivize innovation and experi...</p> 
+<p>ARRL<span>  </span>The National Association for Amateur Radio® reports that earlier today, the FCC Commissioners unanimously voted to amend the Amateur Radio Service rules to replace the baud rate limit on the amateur HF bands with a 2.8 kHz bandwidth limit to permit greater flexibility in data communications.<br /><br />“The Federal Communications Commission today adopted to incentivize innovation and experimentation ...</p> 
 
 <http://www.arrl.org/news/view/arrl-hails-fcc-action-to-remove-symbol-rate-restrictions>
 

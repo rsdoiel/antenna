@@ -1,11 +1,649 @@
 
-(date: 2023-11-16 13:23:28)
+(date: 2023-11-17 13:31:56)
 
 ---
 
-## Moorpark Man Arrested In Death Of A Jewish Protestor Paul Kessler Who Died After Falling At  Israel-Palestinian Demonstrations
+## UCLA men’s soccer to shoot for redemption against Loyola Marymount in NCAA round 2
 
-date: 2023-11-16, updated: 2023-11-16, from: The LAist
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+The road from conference play to the postseason can be treacherous for some teams, but coach Ryan Jorden said nothing is different for the Bruins as they head into their first NCAA tournament matchup. 
+
+<https://dailybruin.com/2023/11/17/ucla-mens-soccer-to-shoot-for-redemption-against-loyola-marymount-in-ncaa-round-2/>
+
+---
+
+## The Transiting Los Angeles Podcast – #8: Freeway’s Closed
+
+date: 2023-11-17, from: Transiting Los Angeles
+
+We discuss the sudden closure of the 10 freeway in downtown and what it has meant for transportation in Los Angeles. 
+
+<https://transitinglosangeles.com/2023/11/17/podcast-8-freeways-closed/>
+
+---
+
+## Interning With The CI View!
+
+date: 2023-11-17, from: CI View (CSCI Student Newspaper)
+
+By Aileen Lawrence Graphic by Aileen Lawrence Navigating internships and undergraduate work experience can be a daunting and confusing process, with a plethora of information [&#8230;] 
+
+<http://civiewnews.com/opinion/interning-with-the-ci-view/?utm_source=rss&utm_medium=rss&utm_campaign=interning-with-the-ci-view>
+
+---
+
+## CSU: Step Up or Strike Out!
+
+date: 2023-11-17, from: CI View (CSCI Student Newspaper)
+
+By Ryanne Slagiel Photo by Colyn Messecar CSU: Step Up or Strike Out! This is the chant that was on signs, shirts and fliers as [&#8230;] 
+
+<http://civiewnews.com/news/csu-step-up-or-strike-out/?utm_source=rss&utm_medium=rss&utm_campaign=csu-step-up-or-strike-out>
+
+---
+
+## Netanyahu Says Gaza Needs A New 'Civilian Government,' But Won't Say Who
+
+date: 2023-11-17, updated: 2023-11-17, from: The LAist
+
+NPR's Steve Inskeep talks to Israeli Prime Minister Benjamin Netanyahu about Israel's war on Hamas. Netanyahu says once Hamas is defeated, Israel has to make sure there is no resurgence of terrorism. 
+
+<https://laist.com/news/netanyahu-says-gaza-needs-a-new-civilian-government-but-wont-say-who>
+
+---
+
+## Israel Will Allow Limited Deliveries Of Fuel To Gaza For Aid Needs, US Officials Say
+
+date: 2023-11-17, updated: 2023-11-17, from: The LAist
+
+Israel will allow 140,000 liters of fuel into Gaza every two days for the United Nations' use to distribute aid and for telecommunications provider Paltel to keep phone and internet service available. 
+
+<https://laist.com/news/israel-will-allow-limited-deliveries-of-fuel-to-gaza-for-aid-needs-us-officials-say>
+
+---
+
+## Gov. Newsom signs bills to raise minimum wages for fast food, health care workers
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Gov. Gavin Newsom recently approved two bills raising the hourly minimum wages for fast food and health care workers in California.
+Assembly Bill 1228 &#8211; introduced by state assemblymember Chris Holden, who represents Pasadena and parts of San Bernardino County, and signed into law by Newsom on Sept. 
+
+<https://dailybruin.com/2023/11/17/gov-newsom-signs-bills-to-raise-minimum-wages-for-fast-food-health-care-workers/>
+
+---
+
+## Op-ed: UCLA is complicit in the genocide of Palestinians
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+For over a month, we have witnessed the murder of over 11,000 Palestinians at the hands of the Israeli military. Since then, the Zionist state has cut off all water, food, fuel and other humanitarian supplies from Gaza. 
+
+<https://dailybruin.com/2023/11/17/op-ed-ucla-is-complicit-in-the-genocide-of-palestinians/>
+
+---
+
+## Distinguished Public Servant Richard Haass Discusses The Obligations of Citizens
+
+date: 2023-11-17, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>Dr. Richard Haass, a distinguished public servant and president emeritus of the Council of Foreign Relations, presented “The Future of American Democracy” on November 7 as part of the President’s Speaker Series. He also answered questions in a discussion moderated by Professor of Public Policy Luisa Blanco and Emeritus Distinguished Professor of Political Science Dan [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/distinguished-public-servant-richard-haass-discusses-the-obligations-of-citizens/">Distinguished Public Servant Richard Haass Discusses The Obligations of Citizens</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+ 
+
+<https://pepperdinebeacon.com/distinguished-public-servant-richard-haass-discusses-the-obligations-of-citizens/?utm_source=rss&utm_medium=rss&utm_campaign=distinguished-public-servant-richard-haass-discusses-the-obligations-of-citizens>
+
+---
+
+## Undefeated teams face off in rare game between UCLA women’s basketball, Princeton
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins will take on the Tigers for just the third time in program history.
+No. 3 UCLA women’s basketball (3-0) will face Princeton (2-0) on Friday morning at Pauley Pavilion. 
+
+<https://dailybruin.com/2023/11/17/undefeated-teams-face-off-in-rare-game-between-ucla-womens-basketball-princeton/>
+
+---
+
+## Multiple town halls discuss UCLA’s search for new chancellor
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Members of the UCLA community attended virtual town halls separated by faculty, staff, students and alumni to discuss the search for UCLA’s next chancellor Nov. 8. 
+
+<https://dailybruin.com/2023/11/17/multiple-town-halls-discuss-uclas-search-for-new-chancellor/>
+
+---
+
+## UC Regents file lawsuit against Mattel for alleged violation of $50M contract
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Regents filed a lawsuit against Mattel, Inc. last week in light of a $50 million pledge to the UCLA Mattel Children&#8217;s Hospital that was allegedly never fulfilled. 
+
+<https://dailybruin.com/2023/11/17/uc-regents-file-lawsuit-against-mattel-for-alleged-violation-of-50m-contract/>
+
+---
+
+## The Fascinating, Controversial History Of Quentin Tarantino’s Revamped Vista Theater
+
+date: 2023-11-17, updated: 2023-11-17, from: The LAist
+
+Restored with care, Sunset Boulevard’s 120-year-old movie theater is now ready for its closeup. 
+
+<https://laist.com/news/la-history/the-fascinating-controversial-history-of-quentin-tarantinos-revamped-vista-theater>
+
+---
+
+## CARE Court Offers A Way To Get Family Members With Severe Mental Illness Into Treatment. Is LA Ready?
+
+date: 2023-11-17, updated: 2023-11-17, from: The LAist
+
+The new program launching Dec. 1 means families and other caregivers can ask a judge to offer a treatment plan, but there are staffing and other concerns. 
+
+<https://laist.com/news/health/care-court-california-mental-health-mental-illness>
+
+---
+
+## Where To Get Your Thanksgiving Feast If You Hate Turkey
+
+date: 2023-11-17, updated: 2023-11-17, from: The LAist
+
+The much-loved bird (at least for some) doesn't have to be the centerpiece of your Thanksgiving table. Here are some of the many places in L.A. to get the fall celebration dish of your choice. 
+
+<https://laist.com/news/food/where-to-get-your-thanksgiving-feast-if-you-hate-turkey>
+
+---
+
+## Want A Healthy Thanksgiving, But Can't Cook? These Recipes Are For You
+
+date: 2023-11-17, updated: 2023-11-17, from: The LAist
+
+Simple, healthy recipes for those (like me) who don't know where to start 
+
+<https://laist.com/news/food/want-a-healthy-thanksgiving-but-cant-cook-these-recipes-are-for-you>
+
+---
+
+## Need A Thanksgiving Gluten-Free Or Vegan Pie? Here's Where To Buy One (or Many) In LA
+
+date: 2023-11-17, updated: 2023-11-17, from: The LAist
+
+For hosts wanting to be inclusive, these places sell pies to suit a range of dietary restrictions 
+
+<https://laist.com/news/food/need-a-thanksgiving-gluten-free-or-vegan-pie-heres-where-to-buy-one-or-many-in-la>
+
+---
+
+## Hosting A Friendsgiving? LAist's Guide To Less Stress And More Fun
+
+date: 2023-11-17, updated: 2023-11-17, from: The LAist
+
+Worried about hosting your first Friendsgiving? Don’t be! Follow these tips to win over the crowd you’re hosting. 
+
+<https://laist.com/news/food/hosting-a-friendsgiving-laists-guide-to-less-stress-and-more-fun>
+
+---
+
+## 2023 Rivalry Issue
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+The annual rivalry game between UCLA football and USC is upon fans once more. The Bruins claimed the Victory Bell in a road victory at the Los Angeles Memorial Coliseum in 2021, but USC&#8217;s then-first year coach Lincoln Riley and quarterback Caleb Williams returned the favor with a three-point win at the Rose Bowl in 2022. 
+
+<https://features.dailybruin.com/2023/rivalry-issue-2023/>
+
+---
+
+## Victory Bell 2023: State of the crosstown rivals pre-Big Ten move
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Where the Trojans and Bruins’ programs stand as they clash in their final Pac-12 meeting.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/victory-bell-2023-state-of-the-crosstown-rivals-pre-big-ten-move/">Victory Bell 2023: State of the crosstown rivals pre-Big Ten move</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/victory-bell-2023-state-of-the-crosstown-rivals-pre-big-ten-move/>
+
+---
+
+## Men’s basketball looks to shake off upset, takes on Brown
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans were without key players and fell to UC Irvine on Tuesday night.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/mens-basketball-looks-to-shake-off-upset-takes-on-brown/">Men’s basketball looks to shake off upset, takes on Brown</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/mens-basketball-looks-to-shake-off-upset-takes-on-brown/>
+
+---
+
+## Women’s soccer’s season cut short
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>BYU shut the Trojans out 1-0 in the second round of the NCAA Tournament.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/womens-soccers-season-cut-short/">Women’s soccer’s season cut short</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/womens-soccers-season-cut-short/>
+
+---
+
+## How good is this USC football offense?
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC's offense is great, but not as great as past Trojan offenses.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/how-good-is-this-usc-football-offense/">How good is this USC football offense?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/how-good-is-this-usc-football-offense/>
+
+---
+
+## Q&A: Daily Bruin sports editor talks rivalry game
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan sat down with its rival paper to discuss the upcoming game.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/qa-daily-bruin-sports-editor-talks-rivalry-game/">Q&#038;A: Daily Bruin sports editor talks rivalry game</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/qa-daily-bruin-sports-editor-talks-rivalry-game/>
+
+---
+
+## The opinions that didn’t make it, part 2
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>With the semester almost over, it’s time to dig up the takes that never got their own article.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/the-opinions-that-didnt-make-it-part-2/">The opinions that didn’t make it, part 2</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/the-opinions-that-didnt-make-it-part-2/>
+
+---
+
+## Renowned rivalry to resume at the Coliseum
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans will take on UCLA as they look to finish the season on a high note.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/renowned-rivalry-to-resume-at-the-coliseum/">Renowned rivalry to resume at the Coliseum</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/renowned-rivalry-to-resume-at-the-coliseum/>
+
+---
+
+## Pac-12 goodbye: A look back on USC’s legacy
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans have had many memorable moments in the Pac-12’s history. </p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/pac-12-goodbye-a-look-back-on-uscs-legacy/">Pac-12 goodbye: A look back on USC’s legacy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/pac-12-goodbye-a-look-back-on-uscs-legacy/>
+
+---
+
+## Classifieds – November 17, 2023
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/classifieds-november-17-2023/">Classifieds &#8211; November 17, 2023</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/classifieds-november-17-2023/>
+
+---
+
+## Senior sports staff’s Blood Bowl predictions
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The annual football match with the Daily Trojan and the Daily Bruin will be close.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/blood-bowl-predictions/">Senior sports staff’s Blood Bowl predictions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/blood-bowl-predictions/>
+
+---
+
+## USC’s reputation erases its diverse students
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University’s stereotype of wealth overshadows first-generation students at USC.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/uscs-reputation-erases-its-diverse-students/">USC’s reputation erases its diverse students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/uscs-reputation-erases-its-diverse-students/>
+
+---
+
+## Yes, Chef — cooking a love letter to my heritage
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Food has always been my love language, and it has helped me learn to love my identity a little bit more.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/yes-chef-cooking-a-love-letter-to-my-heritage/">Yes, Chef — cooking a love letter to my heritage</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/yes-chef-cooking-a-love-letter-to-my-heritage/>
+
+---
+
+## LACMA hosts film about Nam June Paik
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The film follows the Korean artist’s journey through the struggles of life and art.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/lacma-hosts-film-about-nam-june-paik/">LACMA hosts film about Nam June Paik</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/lacma-hosts-film-about-nam-june-paik/>
+
+---
+
+## ‘Saltburn’ is a twisted exploration of wealth, desire
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Emerald Fennell, writer-director of “Promising Young Woman,” is back with a gutsy black comedy full of stellar cinematography and stand-out performances from Jacob Elordi and Barry Keoghan.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/saltburn-is-a-twisted-exploration-of-wealth-desire/">‘Saltburn’ is a twisted exploration of wealth, desire</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/saltburn-is-a-twisted-exploration-of-wealth-desire/>
+
+---
+
+## Looking toward Taylor Tomlinson
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>“After Midnight” will make Tomlinson the only woman late-night host, beginning in 2024. </p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/looking-toward-taylor-tomlinson/">Looking toward Taylor Tomlinson</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/looking-toward-taylor-tomlinson/>
+
+---
+
+## A startup for startups: USC students, alumni create Unistart
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Unistart helps job seekers connect to startups founded by university students.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/17/a-startup-for-startups-usc-students-alumni-create-unistart/">A startup for startups: USC students, alumni create Unistart</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/17/a-startup-for-startups-usc-students-alumni-create-unistart/>
+
+---
+
+## Teamsters union on strike
+
+date: 2023-11-17, from: The Sundail (CSUN Student Newspaper)
+
+Teamsters Local 2010 walked out across the 22 CSU campuses on Tuesday, rallying 1,100 of their skilled trade workers to demand better wages. At noon, the Teamsters gathered California Faculty Association members, California State University Employees Union members, and students outside the University Library for a loud demonstration. The Teamsters then marched from the library... 
+
+<https://sundial.csun.edu/177024/news/teamsters-union-on-strike/>
+
+---
+
+## Gameday Predictions: UCLA vs. USC
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA football (6-4, 3-4 Pac-12) and USC (7-4, 5-3) will face off at the Los Angeles Memorial Coliseum as Pac-12 rivals for the final time Saturday, with both teams losing two of their last three games. 
+
+<https://dailybruin.com/2023/11/16/gameday-predictions-ucla-vs-usc-10/>
+
+---
+
+## Q&A: Daily Trojan Sports editors discuss 2023 rivalry game
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA football (6-4, 3-4 Pac-12) is heading to the Los Angeles Memorial Coliseum to face USC (7-4, 5-3) for the final edition of the crosstown rivalry as Pac-12 teams. 
+
+<https://dailybruin.com/2023/11/16/qa-daily-trojan-sports-editors-discuss-2023-rivalry-game/>
+
+---
+
+## Royer Gets Real: Chip Kelly’s time as UCLA football coach has expired
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Save Westwood the national embarrassment.
+$4.50 for a Diddy Riese ice cream sandwich? Outrageous. 
+However, there is one thing more loathsome than the cost of a late-night sweet treat: the current occupancy of UCLA football&#8217;s head coaching job. 
+
+<https://dailybruin.com/2023/11/16/royer-gets-real-chip-kellys-time-as-ucla-football-coach-has-expired/>
+
+---
+
+## West Point to Westwood: Anthony Adkins embraces search for larger purpose
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+“Duty,” “honor” and “country” adorn the logo of the United States Military Academy as words meant to guide the school’s cadets.
+Anthony Adkins was one of them, drawn to Army West Point for the value of the education he would receive and the opportunity that the academy provided. 
+
+<https://dailybruin.com/2023/11/16/west-point-to-westwood-anthony-adkins-embraces-search-for-larger-purpose/>
+
+---
+
+## UCLA football prepares for rivalry redemption attempt against USC
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+There was little debate about the stature of USC quarterback Caleb Williams when he squared off against UCLA at the Rose Bowl last season.
+Williams was in the midst of a Heisman-level campaign, and he improved his chances with a 470-yard, three total touchdown performance to knock off the Bruins in a high-scoring classic. 
+
+<https://dailybruin.com/2023/11/16/ucla-football-prepares-for-rivalry-redemption-attempt-against-usc/>
+
+---
+
+## boss-unit-220728-00595r-crop.jpg
+
+date: 2023-11-17, from: Laloyolan (LMU Student Newspaper)
+
+"We had so much freedom to kind of create new, and because it's a story about a young man's descent into darkness and not about a girl's story to survive," explained Lawrence. 
+
+<https://www.laloyolan.com/life_and_arts/boss-unit-220728-00595r-crop-jpg/image_2e83909f-2bc2-50ff-9f82-39205e709103.html>
+
+---
+
+## The NBA struck gold with the in-season tournament
+
+date: 2023-11-17, from: Laloyolan (LMU Student Newspaper)
+
+This offseason, the NBA announced the inaugural edition of the in-season tournament for the 2023-24 season. The NBA is always trying new ways to shake up the game, and the in-season tournament might change the landscape of the league for… 
+
+<https://www.laloyolan.com/sports/the-nba-struck-gold-with-the-in-season-tournament/article_27f63c3e-81a5-556a-b44d-664bfe2241c7.html>
+
+---
+
+## Clash of the Quarterbacks: Breaking down UCLA, USC’s signal-callers for 2023 rivalry game
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+A year after crosstown rivals UCLA football (6-4, 3-4 Pac-12) and USC (7-4, 5-3) faced off in a top-20 battle, both are absent from the latest edition of the polls. 
+
+<https://dailybruin.com/2023/11/16/clash-of-the-quarterbacks-breaking-down-ucla-uscs-signal-callers-for-2023-rivalry-game/>
+
+---
+
+## Students show support for Palestine, call for UC Regents to divest from BlackRock
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dozens of students demonstrated in support of Palestine and called for divestment from companies involved with weapons manufacturing outside of the Meyer and Renee Luskin Conference Center and Murphy Hall on Thursday.&#160;
+The assembly began at 8:15 a.m. 
+
+<https://dailybruin.com/2023/11/16/students-show-support-for-palestine-call-for-uc-regents-to-divest-from-blackrock/>
+
+---
+
+## Waging War: Incomes are rising, yet it’s harder than ever to live in Los Angeles
+
+date: 2023-11-17, from: The Sundail (CSUN Student Newspaper)
+
+Five-dollar coffee, $6-a-gallon gas and $300-a-month groceries have become the norm for many Angelenos over the years. While the price of these necessities of life continues to grow, people’s wages only slightly increase, forcing many residents to work multiple jobs to afford living expenses. The cost of living in Los Angeles is 49.1% higher than... 
+
+<https://sundial.csun.edu/176797/print-editions/print-stories/waging-war-incomes-are-rising-yet-its-harder-than-ever-to-live-in-los-angeles/>
+
+---
+
+## Take a hike: CSU Board of Trustees approves tuition increase
+
+date: 2023-11-17, from: The Sundail (CSUN Student Newspaper)
+
+The California State University Board of Trustees unanimously approved a tuition increase proposal on Sept. 13, 2023. Students are against the proposal because it would make higher education harder to obtain. The increase in tuition will affect nearly 460,000 students attending CSU’s 23 campuses, according to the Committee on Finance. The CSU system is currently... 
+
+<https://sundial.csun.edu/176809/print-editions/print-stories/take-a-hike-csu-board-of-trustees-approves-tuition-increase/>
+
+---
+
+## USG to hold special election for three vacant senate seats
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The senate approved a budget for the spring and a trial laundry stipend.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/usg-to-hold-special-election-for-three-vacant-senate-seats/">USG to hold special election for three vacant senate seats</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/usg-to-hold-special-election-for-three-vacant-senate-seats/>
+
+---
+
+## How CSUN with a HEART aids students in need
+
+date: 2023-11-17, from: The Sundail (CSUN Student Newspaper)
+
+CSUN with a HEART is a program that aims to provide students with assistance and essential information about university resources. HEART is an acronym that represents the program&#8217;s mission in “addressing hunger/homeless and emergency needs with assistance and resources together.” CSUN with a HEART strives to eliminate barriers to students&#8217; success by connecting students to... 
+
+<https://sundial.csun.edu/176811/print-editions/print-stories/how-csun-with-a-heart-aids-students-in-need/>
+
+---
+
+## The Hollywood strike: CSUN film students’ futures amidst picketing
+
+date: 2023-11-17, from: The Sundail (CSUN Student Newspaper)
+
+Jan-David Soutar is an experienced actor with nearly 20 years of work. He is a screenwriting major at CSUN who expects to graduate in the spring. He is the current president of the Cinema Club, but his life hasn’t just been made up of a series of highs. It is common for lesser known writers... 
+
+<https://sundial.csun.edu/176795/print-editions/print-stories/the-hollywood-strike-csun-film-students-futures-amidst-picketing/>
+
+---
+
+## Panel discusses aftermath in Artsakh
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Visiting scholars and USC students gathered to honor Artsakh Awareness Month.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/panel-discusses-aftermath-in-artsakh/">Panel discusses aftermath in Artsakh</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/panel-discusses-aftermath-in-artsakh/>
+
+---
+
+## Rising Ballers: Warren Zaïre-Emery is ahead of schedule
+
+date: 2023-11-17, from: The Daily Trojan (USC Student Newspaper)
+
+<p>France has its next prodigy — how do we keep letting this happen?</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/rising-ballers-warren-zaire-emery-is-ahead-of-schedule/">Rising Ballers: Warren Zaïre-Emery is ahead of schedule</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/rising-ballers-warren-zaire-emery-is-ahead-of-schedule/>
+
+---
+
+## In Plain Sight: As students sleep, UCLA bakeries turn on the ovens
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+At 4 a.m. every day, the Hill is silent as undergraduates sleep in preparation for the next day of classes and exams – but underneath De Neve Commons, a machine carefully squeezes out dough, molded into a sandwich baguette and ready for the oven. 
+
+<https://dailybruin.com/2023/11/16/in-plain-sight-as-students-sleep-ucla-bakeries-turn-on-the-ovens/>
+
+---
+
+## Live Near The Tustin Hangar Fire? Here’s The Latest On The Cleanup
+
+date: 2023-11-17, updated: 2023-11-17, from: The LAist
+
+The rain this week has helped dampen smoke from the hangar fire on the former Marine Corps base. 
+
+<https://laist.com/news/climate-environment/tustin-hangar-fire-latest-on-the-cleanup-asbestos-arsenic-lead-rain-smoke>
+
+---
+
+## UC Board of Regents puts off decision announcing undocumented hiring plan
+
+date: 2023-11-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The University of California Board of Regents delayed an announcement regarding the employment of students without legal status, leaving the board two weeks to meet its self-imposed deadline to produce a plan that could allow thousands of students to apply for on-campus positions. 
+
+<https://dailybruin.com/2023/11/16/uc-board-of-regents-puts-off-decision-announcing-undocumented-hiring-plan/>
+
+---
+
+## Scouting Report: UCLA football vs. USC
+
+date: 2023-11-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA football (6-4, 3-4 Pac-12) and USC (7-4, 5-3) are each on two-game losing streaks heading into this Saturday&#8217;s matchup at the Los Angeles Memorial Coliseum. 
+
+<https://dailybruin.com/2023/11/16/scouting-report-ucla-football-vs-usc-3/>
+
+---
+
+## UCLA women’s volleyball to host final home contests against Bay Area foes
+
+date: 2023-11-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The country&#8217;s second-best team is on the slate for the Bruins&#8217; final homestand.
+UCLA women&#8217;s volleyball (16-10, 8-8 Pac-12) will host No. 2 Stanford (22-3, 15-1) and California (15-12, 4-12) on Friday and Sunday, respectively, in its last time facing off against its Bay Area adversaries as conference opponents. 
+
+<https://dailybruin.com/2023/11/16/ucla-womens-volleyball-to-host-final-home-contests-against-bay-area-foes/>
+
+---
+
+## How Exercise Helps Me
+
+date: 2023-11-16, from: The Sundail (CSUN Student Newspaper)
+
+Exercise benefits me in many ways and makes me feel better about myself. I’ve been working out consistently for two years now and I’ve noticed a big difference. For one, working out reduces stress and calms the brain down. According to Harvard Health, “Exercise reduces stress hormones and stimulates production of endorphins, which together help... 
+
+<https://sundial.csun.edu/177012/opinions/how-exercise-helps-me/>
+
+---
+
+## The irony of smoking
+
+date: 2023-11-16, from: The Sundail (CSUN Student Newspaper)
+
+Every third Thursday in November is referred to as the Great American Smokeout. It’s a day to encourage individuals to quit smoking and embrace a non-smoker lifestyle. By the time you read this, it has now been over 275 days since I stopped smoking. So, roughly over nine months with no nicotine in sight, but... 
+
+<https://sundial.csun.edu/177007/opinions/the-irony-of-smoking/>
+
+---
+
+## Moorpark Man Charged In Death Of Jewish Protester Paul Kessler, Who Died After Falling At Israel-Palestinian Demonstrations
+
+date: 2023-11-16, updated: 2023-11-17, from: The LAist
 
 The suspect was booked on charges of involuntary manslaughter. 
 
@@ -189,6 +827,30 @@ date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
+## No. 24 women’s volleyball takes on Cal after heartbreaking loss
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans aim to preserve their perfect home record against the Golden Bears.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/no-24-womens-volleyball-takes-on-cal-after-heartbreaking-loss/">No. 24 women’s volleyball takes on Cal after heartbreaking loss</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/no-24-womens-volleyball-takes-on-cal-after-heartbreaking-loss/>
+
+---
+
+## Hobbled Collier, USC shocked by Irvine
+
+date: 2023-11-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans were unable to overcome injuries to key players in upset at home.</p>
+<p>The post <a href="https://dailytrojan.com/2023/11/16/hobbled-collier-usc-shocked-by-irvine/">Hobbled Collier, USC shocked by Irvine</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2023/11/16/hobbled-collier-usc-shocked-by-irvine/>
+
+---
+
 ## CSUN Poetry: Lunch Break
 
 date: 2023-11-16, from: The Sundail (CSUN Student Newspaper)
@@ -203,7 +865,7 @@ I did not intend to have any difficulties with my supervisor. “Good morning, d
 
 date: 2023-11-16, from: The Daily Bruin (UCLA Student Newspaper)
 
-Students have complained about prices at the UCLA Store market being more expensive than stores such as Target and Ralph&#8217;s.
+Students have complained about prices at the UCLA Store market being more expensive than stores such as Target and Ralph’s.
 The UCLA Store market sells an array of food, drinks, toiletries and cleaning supplies, carrying many of the same products as other grocery stores in Westwood. 
 
 <https://dailybruin.com/2023/11/15/students-express-frustration-with-price-of-goods-at-ucla-store/>
@@ -303,7 +965,7 @@ As the top seed in the country and in its conference, No. 1 UCLA men&#8217;s wat
 
 ---
 
-## New York Times Names CSUN Most Economically Diverse Campus In Nation
+## New York Times names CSUN most economically diverse campus in nation
 
 date: 2023-11-15, from: The Sundail (CSUN Student Newspaper)
 
@@ -618,7 +1280,7 @@ It’s November, and kids are still being impacted by the heat.
 
 ## How A Conference About Climate Change Tackled Its Own Food Waste (But Didn't Skimp On The Coffee)
 
-date: 2023-11-15, updated: 2023-11-16, from: The LAist
+date: 2023-11-15, updated: 2023-11-17, from: The LAist
 
 Big events are a big source of food waste. So what does it take to “walk the sustainability walk” when you have to feed lots of people? 
 
@@ -628,7 +1290,7 @@ Big events are a big source of food waste. So what does it take to “walk the s
 
 ## At Santa Monica College, Students Rethink Trash — And Their Careers
 
-date: 2023-11-15, updated: 2023-11-15, from: The LAist
+date: 2023-11-15, updated: 2023-11-16, from: The LAist
 
 Santa Monica College's recycling and resource management program is among a growing list responding to the climate emergency's impact on the economy. 
 
