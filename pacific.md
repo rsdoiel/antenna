@@ -1,5 +1,16 @@
 
-(date: 2023-11-17 13:31:57)
+(date: 2023-11-17 17:10:36)
+
+---
+
+## UH alumnus Masaru Oshiro named Social Work Pioneer®
+
+date: 2023-11-17, from: University of Hawaiʻi News
+
+<p>Oshiro dedicated his life’s career to social work and focused on helping meet people’s basic needs to enhance their well-being.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/17/oshiro-named-social-work-pioneer/"><abbr>UH</abbr> alumnus Masaru Oshiro named Social Work Pioneer<sup>®</sup></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/17/oshiro-named-social-work-pioneer/>
 
 ---
 

@@ -1,5 +1,5 @@
 
-(date: 2023-11-17 13:31:57)
+(date: 2023-11-17 17:10:36)
 
 ---
 
@@ -7,29 +7,9 @@
 
 date: 2023-11-17, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Fri, 17 Nov 2023 21:23:24 GMT 
+No tropical cyclones as of Fri, 17 Nov 2023 23:57:08 GMT 
 
 <https://www.nhc.noaa.gov/gis/>
-
----
-
-## SPC - No watches are valid as of Fri Nov 17 21:15:02 UTC 2023
-
-date: 2023-11-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Fri Nov 17 21:15:02 UTC 2023. 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Fri Nov 17 21:15:02 UTC 2023
-
-date: 2023-11-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Fri Nov 17 21:15:02 UTC 2023. 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -49,32 +29,138 @@ TTAA00 KNHC DDHHMM<br />
 <br />
 Tropical Weather Outlook<br />
 NWS National Hurricane Center Miami FL<br />
-100 PM EST Fri Nov 17 2023<br />
+700 PM EST Fri Nov 17 2023<br />
 <br />
 For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />
 <br />
 Active Systems:<br />
 The National Hurricane Center is issuing advisories on Potential <br />
-Tropical Cyclone Twenty-Two, located over the west-central <br />
+Tropical Cyclone Twenty-Two, located over the north-central <br />
 Caribbean Sea.<br />
-* Formation chance through 48 hours...medium...40 percent.<br />
-* Formation chance through 7 days...medium...40 percent.<br />
-<br />
-&&<br />
-Public Advisories on Potential Tropical Cyclone Twenty-Two are <br />
-issued under WMO header WTNT32 KNHC and under AWIPS header <br />
-MIATCPAT2. Forecast/Advisories on Potential Tropical Cyclone <br />
-Twenty-Two are issued under WMO header WTNT22 KNHC and under AWIPS <br />
-header MIATCMAT2.<br />
+* Formation chance through 48 hours...low...20 percent.<br />
+* Formation chance through 7 days...low...20 percent.<br />
 <br />
 $$<br />
-Forecaster Roberts<br />
+Forecaster Cangialosi<br />
 NNNN<br />
 <br />
 </div></div><br />
  
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2023-11-17, from: Central Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ACPN50 PHFO 172332<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 200 PM HST Fri Nov 17 2023<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ $$<br />
+ Forecaster Kodama<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2023-11-17, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ABPZ20 KNHC 172330<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+400 PM PST Fri Nov 17 2023<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Central East Pacific:<br/>
+An area of low pressure located about 850 miles south-southwest of <br/>
+the southern tip of the Baja California Peninsula is producing <br/>
+disorganized showers and thunderstorms.  Development, if any, of <br/>
+this system is expected to be slow to occur over the next day or two <br/>
+while the disturbance moves slowly westward.  By early next week, <br/>
+environmental conditions are forecast to become less conducive for <br/>
+further development.  <br/>
+* Formation chance through 48 hours...low...10 percent.<br/>
+* Formation chance through 7 days...low...10 percent.<br/>
+<br/>
+$$<br/>
+Forecaster Cangialosi<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2023-11-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0335 PM CST Fri Nov 17 2023
+
+Valid 191200Z - 251200Z
+
+A strong upper-level trough will dig into the Southwest late this
+weekend and continue eastward through the Southeast. While ridging
+aloft will quickly build in the West behind this features, another
+trough is forecast to take a similar path mid/late next week. At the
+surface, a cold front will move through the southern Plains early
+next week with another expected as the second trough moves eastward
+late next week into the weekend.
+
+...Southern High Plains...
+With the approach of the trough this weekend, areas of dry and
+breezy conditions will be possible. Precipitation associated with
+the trough will occur within parts of the region, but some areas may
+not receive much rainfall. At present, the driest conditions appear
+most likely from the Trans-Pecos into the South Plains. Additional
+dry and windy conditions are possible toward the end of next week
+with the next trough forecast to move into the region. Given the
+potential for precipitation and the cooler temperatures behind the
+initial cold front, the threat of critical fire weather remains low
+at this time.
+
+...Southern California...
+Model guidance continues to suggest potential for strong
+northerly/northeasterly wind even late Sunday into Monday afternoon.
+Given the upper-level wind support along the western flank of the
+trough, strong wind gusts will be likely, particularly within the
+terrain. Even with dry and windy conditions, current fuel
+information, in addition to the rain expected to occur into this
+Saturday, suggests fire weather risk with this event does not appear
+to be high.
+
+..Wendt.. 11/17/2023
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 
@@ -187,66 +273,6 @@ unseasonably dry fuels and recent fire activity.
  
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2023-11-17, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 171735<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-800 AM HST Fri Nov 17 2023<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Foster<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2023-11-17, from: Eastern Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ABPZ20 KNHC 171733<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 1000 AM PST Fri Nov 17 2023<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Central East Pacific:<br />
- An area of low pressure located about 850 miles south-southwest of <br />
- the southern tip of the Baja California Peninsula is producing <br />
- disorganized showers and thunderstorms.  Development, if any, of <br />
- this system is expected to be slow to occur over the next day or <br />
- two as the disturbance moves generally westward.  By early next <br />
- week, environmental conditions are forecast to become less <br />
- conducive for further development.  <br />
- * Formation chance through 48 hours...low...10 percent.<br />
- * Formation chance through 7 days...low...10 percent.<br />
- <br />
- $$<br />
- Forecaster Roberts<br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
 
 ---
 

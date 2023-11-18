@@ -1,5 +1,86 @@
 
-(date: 2023-11-17 13:31:56)
+(date: 2023-11-17 17:10:35)
+
+---
+
+## In UC's Plan To Ease Tensions On Campus, The Money Comes Before The Plan
+
+date: 2023-11-17, updated: 2023-11-18, from: The LAist
+
+The University of California announced it will spend $7 million to address tensions over the Israel-Hamas war. Details are sparse. 
+
+<https://laist.com/news/education/university-of-california-7-million-israel-hamas-tensions>
+
+---
+
+## Matadors come back and win after thrilling buzzer beater
+
+date: 2023-11-17, from: The Sundail (CSUN Student Newspaper)
+
+Despite trailing as much as 18 points, the Matadors hit a miraculous buzzer beater as they came back and defeated the Seattle University Redhawks in a thrilling overtime battle Thursday, Nov. 9 at the Premier America Credit Union Arena. While the Matadors struggled to score initially due to the overwhelming Redhawks half court traps, they... 
+
+<https://sundial.csun.edu/177060/sports/matadors-come-back-and-win-after-thrilling-buzzer-beater/>
+
+---
+
+## Irvine Buys Controversial Asphalt Plant To Convert It Into Open Space
+
+date: 2023-11-17, updated: 2023-11-17, from: The LAist
+
+The move comes after nearby residents had long complained of foul odors from the property. 
+
+<https://laist.com/news/irvine-buys-controversial-asphalt-plant-to-convert-it-into-open-space>
+
+---
+
+## Lancer boys basketball prepares for season
+
+date: 2023-11-17, from: Catalina Islander
+
+The Avalon Boys Basketball season is upon us and our local high school hoopsters are working hard in the gym to get ready for their opening games of the season. Last week we got things started with a double header scrimmage against First Baptist. The Lancers played sloppily in both games, but showed good effort. [&#8230;] 
+
+<https://thecatalinaislander.com/lancer-boys-basketball-prepares-for-season/>
+
+---
+
+## UCLA women’s basketball narrowly survives Princeton nail-biter
+
+date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Nov. 17 at 2:56 p.m.</em>
+If there has been any lesson within the last week, it’s that upsets are the name of the game in basketball. 
+
+<https://dailybruin.com/2023/11/17/ucla-womens-basketball-narrowly-survives-princeton-nail-biter/>
+
+---
+
+## Sheriff’s Log: Nov. 9 to Nov. 15, 2023
+
+date: 2023-11-17, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Nov. 9 to Nov. 15, 2023. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted, [&#8230;] 
+
+<https://thecatalinaislander.com/sheriffs-log-nov-9-to-nov-15-2023/>
+
+---
+
+## Avalon observes Veterans Day 2023
+
+date: 2023-11-17, from: Catalina Islander
+
+Text of speech delivered by Cal Parsons Honorable Mayor, Council members, fellow Veterans, first responders, community members and honored guests. I come here today to honor and acknowledge our Veterans, living and dead. Veterans Day is different from Memorial Day as it commemorates all veterans throughout our country’s history. Memorial Day on the other hand [&#8230;] 
+
+<https://thecatalinaislander.com/avalon-observes-veterans-day-2023/>
+
+---
+
+## Authorities Explain What Led To Manslaughter Charges in Paul Kessler's Death
+
+date: 2023-11-17, updated: 2023-11-18, from: The LAist
+
+Loay Alnaji was arrested and charged with involuntary manslaughter and battery in the Nov. 6 death of Jewish demonstrator Paul Kessler. 
+
+<https://laist.com/news/authorities-explain-what-led-to-charges-in-paul-kesslers-death>
 
 ---
 
@@ -10,6 +91,16 @@ date: 2023-11-17, from: The Daily Bruin (UCLA Student Newspaper)
 The road from conference play to the postseason can be treacherous for some teams, but coach Ryan Jorden said nothing is different for the Bruins as they head into their first NCAA tournament matchup. 
 
 <https://dailybruin.com/2023/11/17/ucla-mens-soccer-to-shoot-for-redemption-against-loyola-marymount-in-ncaa-round-2/>
+
+---
+
+## “I didn’t ask to be a Half Blood!” CSUCI Performing Arts show: “The Lightning Thief: The Percy Jackson Musical”
+
+date: 2023-11-17, from: CI View (CSCI Student Newspaper)
+
+By Ashley Tolteca and Allen Monge Graphic by Ella Torres and Javier Vargas 
+
+<http://civiewnews.com/broadcasting/i-didnt-ask-to-be-a-half-blood-csuci-performing-arts-show-the-lightning-thief-the-percy-jackson-musical/?utm_source=rss&utm_medium=rss&utm_campaign=i-didnt-ask-to-be-a-half-blood-csuci-performing-arts-show-the-lightning-thief-the-percy-jackson-musical>
 
 ---
 
@@ -127,6 +218,26 @@ The UC Regents filed a lawsuit against Mattel, Inc. last week in light of a $50 
 
 ---
 
+## Hosting A Friendsgiving? LAist's Guide To Less Stress And More Fun
+
+date: 2023-11-17, updated: 2023-11-17, from: The LAist
+
+Worried about hosting your first Friendsgiving? Don’t be! Follow these tips to win over the crowd you’re hosting. 
+
+<https://laist.com/news/food/hosting-a-friendsgiving-laists-guide-to-less-stress-and-more-fun>
+
+---
+
+## Want A Healthy Thanksgiving, But Can't Cook? These Recipes Are For You
+
+date: 2023-11-17, updated: 2023-11-17, from: The LAist
+
+Simple, healthy recipes for those (like me) who don't know where to start 
+
+<https://laist.com/news/food/want-a-healthy-thanksgiving-but-cant-cook-these-recipes-are-for-you>
+
+---
+
 ## The Fascinating, Controversial History Of Quentin Tarantino’s Revamped Vista Theater
 
 date: 2023-11-17, updated: 2023-11-17, from: The LAist
@@ -157,16 +268,6 @@ The much-loved bird (at least for some) doesn't have to be the centerpiece of yo
 
 ---
 
-## Want A Healthy Thanksgiving, But Can't Cook? These Recipes Are For You
-
-date: 2023-11-17, updated: 2023-11-17, from: The LAist
-
-Simple, healthy recipes for those (like me) who don't know where to start 
-
-<https://laist.com/news/food/want-a-healthy-thanksgiving-but-cant-cook-these-recipes-are-for-you>
-
----
-
 ## Need A Thanksgiving Gluten-Free Or Vegan Pie? Here's Where To Buy One (or Many) In LA
 
 date: 2023-11-17, updated: 2023-11-17, from: The LAist
@@ -174,16 +275,6 @@ date: 2023-11-17, updated: 2023-11-17, from: The LAist
 For hosts wanting to be inclusive, these places sell pies to suit a range of dietary restrictions 
 
 <https://laist.com/news/food/need-a-thanksgiving-gluten-free-or-vegan-pie-heres-where-to-buy-one-or-many-in-la>
-
----
-
-## Hosting A Friendsgiving? LAist's Guide To Less Stress And More Fun
-
-date: 2023-11-17, updated: 2023-11-17, from: The LAist
-
-Worried about hosting your first Friendsgiving? Don’t be! Follow these tips to win over the crowd you’re hosting. 
-
-<https://laist.com/news/food/hosting-a-friendsgiving-laists-guide-to-less-stress-and-more-fun>
 
 ---
 
@@ -582,7 +673,7 @@ At 4 a.m. every day, the Hill is silent as undergraduates sleep in preparation f
 
 ## Live Near The Tustin Hangar Fire? Here’s The Latest On The Cleanup
 
-date: 2023-11-17, updated: 2023-11-17, from: The LAist
+date: 2023-11-17, updated: 2023-11-18, from: The LAist
 
 The rain this week has helped dampen smoke from the hangar fire on the former Marine Corps base. 
 

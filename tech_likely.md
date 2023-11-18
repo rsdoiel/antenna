@@ -1,0 +1,2522 @@
+
+(date: 2023-11-17 17:29:17)
+
+---
+
+## Ethernet is still going strong after 50 years
+
+date: 2023-11-17, from: OS News
+
+The PARC facility also is known for the invention of Ethernet, a networking technology that allows high-speed data transmission over coaxial cables. Ethernet has become the standard wired local area network around the world, and it is widely used in businesses and homes. It was honored this year as an IEEE Milestone, a half century after it was born. Truly one of the success stories of the technology world. Sure, those first Ethernet cables and accessories have changed a lot over the decades, but we&#8217;re still using it to this day, and we&#8217;ll be using it for many more decades to come. 
+
+<https://www.osnews.com/story/137865/ethernet-is-still-going-strong-after-50-years/>
+
+---
+
+## Microsoft deprecates even more Windows features, Steps Recorder gets the axe
+
+date: 2023-11-17, from: OS News
+
+Shortly after announcing the end of three services, one of which is as old as MS-DOS, Microsoft deprecated the Tips app. Now, another utility is about to get the axe: Microsoft has updated its Windows documentation again, detailing the end of the story for Steps Recorder (psr.exe). Steps Recorder is an old utility from the Windows 7 era that lets you, as the name implies, record your steps while doing something in Windows. Although long abandoned, Steps Recorder is a handy tool for describing to your grandma how to perform specific actions in Windows, troubleshoot apps, or report bugs. Steps Recorder is simple and very effective, and you can launch it by pressing Win + R and typing psr. With Windows being as massively popular as it is, even removals of weird, obscure utilities and services that small percentages of Windows users used, still means hundreds of thousands of people can be affected. So, let&#8217;s pour one out for psr. 
+
+<https://www.osnews.com/story/137862/microsoft-deprecates-even-more-windows-features-steps-recorder-gets-the-axe/>
+
+---
+
+## This Week in the IndieWeb
+
+date: 2023-11-17, from: This week in Indie Web
+
+
+
+<h1><a href="https://indieweb.org/this-week/2023-11-17.html">November 10-17, 2023</a></h1>
+<h2 id="recent-events">Recent Events</h2><p>From <a href="https://events.indieweb.org/archive">events.indieweb.org/archive</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2023/11/homebrew-website-club-europe-london-H8e0ImhSncdo" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2023-11-15T19:00:00+00:00">Wednesday, November 15 at 7:00pm</time><br>
+<div><img src="https://indieweb.org/this-week/images/2023-11-17/329a257a86de3feeca50a124e1b7242a167e83fd.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2023/11/homebrew-website-club-nuremberg-germany-the-restart-b64Nmgr9lYZx" class="u-url">Homebrew Website Club - Nuremberg/Germany - The Restart</a></div>
+<time class="dt-start" datetime="2023-11-15T18:00:00+00:00">Wednesday, November 15 at 6:00pm</time><br>
+<ul><li>FÜRTH, Bayern: Fab Lab Region Nürnberg e.V.</li></ul><div style="font-style: italic" class="e-summary">
+        <p>HWC Nuremberg is going to restart - in Fürth.
+After a long pause we're meeting once again and hope make this a regular event.
+We moved from tollwerk to the Fab Lab and welcome anyone interested in personal websites and a distributed web.</p>
+    </div><div><img src="https://indieweb.org/this-week/images/2023-11-17/22c628c055c12ca8415aa95706f26132339faf70.jpg" style="width:100%" class="u-photo"></div></div>
+<h2 id="upcoming-events">Upcoming Events</h2><p>From <a href="https://events.indieweb.org/">events.indieweb.org</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2023/11/homebrew-website-club-pacific-thanksgiving-edition-Rt2imhnu6vfn" class="u-url">Homebrew Website Club - Pacific - Thanksgiving Edition</a></div>
+<time class="dt-start" datetime="2023-11-22T18:00:00-08:00">Wednesday, November 22 at 6:00pm</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2023/11/indieweb-black-friday-create-day-build-don-t-buy-P4ZVmtnyGR6v" class="u-url">IndieWeb Black Friday Create Day — Build Don't Buy</a></div>
+<time class="dt-start" datetime="2023-11-24T09:00:00-08:00">Friday, November 24 at 9:00am</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2023/12/homebrew-website-club-nuremberg-germany-jN6jzfTFs8RS" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2023-12-13T18:00:00+01:00">Wednesday, December 13 at 6:00pm</time><br>
+<ul><li>FÜRTH, Bayern: Fab Lab Region Nürnberg e.V.</li></ul><div style="font-style: italic" class="e-summary">
+        <p>HWC Nuremberg is now a regular meeting.
+We moved from tollwerk to the Fab Lab and welcome anyone interested in personal websites and a distributed web.</p>
+    </div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/01/homebrew-website-club-nuremberg-germany-M9GDjV5VoUKh" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-01-10T18:00:00+01:00">Wednesday, January 10 at 6:00pm</time><br>
+<ul><li>FÜRTH, Bayern: Fab Lab Region Nürnberg e.V.</li></ul><div style="font-style: italic" class="e-summary">
+        <p>HWC Nuremberg is now a regular meeting.
+We moved from tollwerk to the Fab Lab and welcome anyone interested in personal websites and a distributed web.</p>
+    </div></div>
+<h2 id="podcasts">Podcasts</h2><p>From <a href="https://huffduffer.com/tags/indieweb">huffduffer.com/tags/indieweb</a>:</p><div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://huffduffer.com/nsmsn/680533" class="u-url p-name">Matthias Pfefferle on ActivityPub, WordPress and Decentralised Social Networks – WP Tavern</a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://huffduffer.com/kevinmarks/680094" class="u-url p-name">How Apple Shaped Podcasting | On the Media | WNYC Studios</a></div></div>
+<h2 id="news">Posts about the IndieWeb</h2><p>From <a href="https://news.indieweb.org/en">news.indieweb.org</a>:</p><div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://sightlessscribbles.micro.blog/2023/11/17/alternative-blogging-platforms.html" class="u-url p-name">Alternative blogging platforms.</a></div><div>by <a href="https://sightlessscribbles.micro.blog" class="p-author h-card">sightlessscribbles.micro.blog</a> on <a href="https://sightlessscribbles.micro.blog/2023/11/17/alternative-blogging-platforms.html"><time class="dt-published" datetime="2023-11-17T14:32:06+00:00">November 17</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://www.bikobatanari.art/posts/2023/east-west-website-culture" class="u-url p-name">Personal website conventions in the East versus the West</a></div><div>by <a href="https://www.bikobatanari.art" class="p-author h-card">www.bikobatanari.art</a> on <a href="https://www.bikobatanari.art/posts/2023/east-west-website-culture"><time class="dt-published" datetime="2023-11-16T04:24:51+00:00">November 16</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://sightlessscribbles.micro.blog/2023/11/12/accessibility-ready-micro.html" class="u-url p-name">Accessibility ready Micro Blog themes.</a></div><div>by <a href="https://sightlessscribbles.micro.blog" class="p-author h-card">sightlessscribbles.micro.blog</a> on <a href="https://sightlessscribbles.micro.blog/2023/11/12/accessibility-ready-micro.html"><time class="dt-published" datetime="2023-11-13T19:48:04+00:00">November 13</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://seirdy.one/posts/2023/11/12/spoiler-element/" class="u-url p-name">Proposal: an HTML element for spoilers</a></div><div>by <a href="https://seirdy.one/" class="p-author h-card">seirdy.one</a> on <a href="https://seirdy.one/posts/2023/11/12/spoiler-element/"><time class="dt-published" datetime="2023-11-13T01:07:51+00:00">November 13</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://srijan.ch/notes/2023-11-10-001" class="u-url">a post</a></div><div>by <a href="https://srijan.ch" class="p-author h-card">srijan.ch</a> on <a href="https://srijan.ch/notes/2023-11-10-001"><time class="dt-published" datetime="2023-11-12T04:48:05+00:00">November 12</time></a></div><div>My new #IndieWeb enabled website is now live!
+
+You can follow my microblog posts or blog articles by entering <a class="auto-link h-cassis-username" href="https://twitter.com/srijan">@srijan</a>.ch@srijan.ch in your Fediverse app search bar or reply and interact with any post using #Webmention or your Mastodon/Fediverse app.
+Site Features:
+
+Indieauth
+Webmentions
+Federation with the fediverse (via Bridgy Fed)
+Structured author, posts, and feeds using microformats
+Microsub
+
+
+
+Also posted on IndieNews</div></div>
+
+<h2 id="new-community-members">New Community Members</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=2">IndieWeb Wiki: New User Pages</a>:</p>
+<h3><a href="https://indieweb.org/User%3ACidney.org">User:Cidney.org</a></h3><p style="font-size:0.8em;">Created by Cidney.org on Saturday</p>
+<h2 id="new-wiki-pages">Top New Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+<h3><a href="https://indieweb.org/client_ID">client ID</a></h3><p>client ID is how a website or web app identifies itself in IndieAuth and OAuth.</p><p style="font-size:0.8em;">Created by aaronpk on Tuesday and edited 1 more time</p>
+<h3><a href="https://indieweb.org/indielib">indielib</a></h3><p>indielib is a Go library maintained by Henrique Dias that implements several IndieWeb building blocks.</p><p style="font-size:0.8em;">Created by Hacdias.com on Saturday and edited 1 more time</p>
+<h3><a href="https://indieweb.org/Knot_System">Knot System</a></h3><p>Knot System is a small system with a personal website and a feed reader, based on the Micropub, Microsub and IndieAuth protocols, developed and used by Max Häßlein.</p><p style="font-size:0.8em;">Created by Bjoern.stierand.org on Wednesday and edited 1 more time</p>
+<h2 id="new-event-notes">New Event Notes</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+
+<p><b>Homebrew Website Club - Nuremberg/Germany - The Restart:</b> <a href="https://indieweb.org/events/2023-11-15-homebrew-website-club">2023-11-15</a></p>
+<p><b>Homebrew Website Club Europe/London:</b> <a href="https://indieweb.org/events/2023-11-15-hwc-europe">2023-11-15</a></p>
+
+<h2 id="changed-wiki-pages">Top Edited Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?namespace=0&title=Special%3ARecentChanges">IndieWeb Wiki: Recent Changes</a>:</p>
+<ul>
+<li><b><a href="https://indieweb.org/Planning">Planning</a></b> <a href="https://indieweb.org/wiki/index.php?title=Planning&amp;action=historysubmit&amp;diff=90642&amp;oldid=90462">8 edits</a> by artlung.com, tantek.com, www.ciccarello.me and david.shanske.com</li>
+<li><b><a href="https://indieweb.org/Main_Page">Main Page</a></b> <a href="https://indieweb.org/wiki/index.php?title=Main+Page&amp;action=historysubmit&amp;diff=90635&amp;oldid=86348">5 edits</a> by paulrobertlloyd.com and tantek.com</li>
+<li><b><a href="https://indieweb.org/services">services</a></b> <a href="https://indieweb.org/wiki/index.php?title=services&amp;action=historysubmit&amp;diff=90634&amp;oldid=67300">5 edits</a> by tantek.com</li>
+<li><b><a href="https://indieweb.org/Homebrew_Website_Club">Homebrew Website Club</a></b> <a href="https://indieweb.org/wiki/index.php?title=Homebrew+Website+Club&amp;action=historysubmit&amp;diff=90601&amp;oldid=90454">4 edits</a> by bjoern.stierand.org</li>
+<li><b><a href="https://indieweb.org/IndieAuth">IndieAuth</a></b> <a href="https://indieweb.org/wiki/index.php?title=IndieAuth&amp;action=historysubmit&amp;diff=90557&amp;oldid=90503">4 edits</a> by hacdias.com</li>
+<li><b><a href="https://indieweb.org/Micropub-extensions">Micropub-extensions</a></b> <a href="https://indieweb.org/wiki/index.php?title=Micropub-extensions&amp;action=historysubmit&amp;diff=90619&amp;oldid=89045">3 edits</a> by paulrobertlloyd.com</li>
+<li><b><a href="https://indieweb.org/Shock">Shock</a></b> <a href="https://indieweb.org/wiki/index.php?title=Shock&amp;action=historysubmit&amp;diff=90563&amp;oldid=85084">2 edits</a> by jacky.wtf</li>
+<li><b><a href="https://indieweb.org/Go">Go</a></b> <a href="https://indieweb.org/wiki/index.php?title=Go&amp;action=historysubmit&amp;diff=90554&amp;oldid=90500">2 edits</a> by hacdias.com</li>
+<li><b><a href="https://indieweb.org/React">React</a></b> <a href="https://indieweb.org/wiki/index.php?title=React&amp;action=historysubmit&amp;diff=90615&amp;oldid=86590">2 edits</a> by gregorlove.com and loqi.me</li>
+<li><b><a href="https://indieweb.org/Ticketing_for_IndieAuth">Ticketing for IndieAuth</a></b> <a href="https://indieweb.org/wiki/index.php?title=Ticketing+for+IndieAuth&amp;action=historysubmit&amp;diff=90561&amp;oldid=90486">2 edits</a> by david.shanske.com</li></ul>
+
+ 
+
+<https://indieweb.org/this-week/2023-11-17.html>
+
+---
+
+## Altman and Brockman Out at OpenAI
+
+date: 2023-11-17, from: Michael Tsai
+
+OpenAI (Hacker News): Sam Altman will depart as CEO and leave the board of directors. [&#8230;] Mr. Altman&#8217;s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities. The board no longer has confidence in [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/17/altman-and-brockman-out-at-openai/>
+
+---
+
+## SpamSieve 3.0.2
+
+date: 2023-11-17, from: Michael Tsai
+
+SpamSieve 3.0.2 greatly improves the workaround for the macOS bug where sometimes Mail extensions don&#8217;t work at all. By reading Mail&#8217;s database directly, instead of using AppleScript, SpamSieve is able to work much faster, with no overhead in Mail itself. It&#8217;s also no longer limited by mailboxes that have so many messages that Mail would [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/17/spamsieve-3-0-2/>
+
+---
+
+## Mail Extension Postmortem
+
+date: 2023-11-17, from: Michael Tsai
+
+Tucky Wong: While Daylite, including the Daylite Mail Assistant, is compatible with macOS Sonoma, we strongly recommend that you hold off on upgrading to Sonoma at this time. Our recommendation is based on feedback from early adopters, which has highlighted a potential significant interruption in your current email workflows. Additionally, we are actively addressing certain [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/17/mail-extension-postmortem/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/09/gary.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">We're starting to work with people on <i>artcasting.</i> The idea is we want to send visual art over RSS 2.0 feeds. Photographs. Paintings. News. The consensus seems to be that we should use the <a href="https://cyber.harvard.edu/rss/rss.html#ltenclosuregtSubelementOfLtitemgt">enclosure</a> element, as with podcasting. In this case, if the type begins with "image/" then an <i>artcast</i> viewer should handle it, and others should ignore it. We were at this place with podcasting in 2001, and needed some examples, so we had a feed of <a href="http://scripting.com/misc/fromDaveOfsCom/rss/gratefulDead.xml">Grateful Dead music</a> to start using the technology. There's a big difference between an idea and something you can use. So anyway, here's the artcasting <a href="http://scripting.com/misc/artfeed.xml">test feed</a>. Try subscribing to it in a feed reader you like. Hopefully it either ignores the enclosure or it does the right thing with it, displays it. Here's a <a href="https://github.com/scripting/Scripting-News/issues/278">thread</a> for comments and questions. 
+
+<http://scripting.com/2023/11/17.html#a222122>
+
+---
+
+## Friday Squid Blogging: Unpatched Vulnerabilities in the Squid Caching Proxy
+
+date: 2023-11-17, updated: 2023-11-08, from: Bruce Schneier blog
+
+<p>In a rare squid/security post, here&#8217;s an <a href="https://www.theregister.com/2023/10/13/squid_proxy_bugs_remain_unfixed/">article</a> about unpatched vulnerabilities in the Squid caching proxy.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p>Read my blog posting guidelines <a href="https://www.schneier.com/blog/archives/2017/03/commenting_poli.html">here</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2023/11/friday-squid-blogging-unpatched-vulnerabilities-in-the-squid-caching-proxy.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2023-11-17, from: Miguel de Icaza Mastondon feed)
+
+<p>By corporate standards, that OpenAI blog post is pretty vicious.</p> 
+
+<https://mastodon.social/@Migueldeicaza/111427983706049480>
+
+---
+
+## The Transiting Los Angeles Podcast – #8: Freeway’s Closed
+
+date: 2023-11-17, from: Transiting Los Angeles
+
+We discuss the sudden closure of the 10 freeway in downtown and what it has meant for transportation in Los Angeles. 
+
+<https://transitinglosangeles.com/2023/11/17/podcast-8-freeways-closed/>
+
+---
+
+## Sam Altman appears to have been pushed out 
+
+date: 2023-11-17, from: Gary Marcus blog
+
+Wow, just wow: "Mr. Altman&#8217;s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities&#8221; Marcus on AI is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber. 
+
+<https://garymarcus.substack.com/p/sam-altman-appears-to-have-been-pushed>
+
+---
+
+## Celebrating Astronaut Alan Shepard’s 100th Birthday
+
+date: 2023-11-17, from: NASA breaking news
+
+Born barely 20 years after the Wright Brothers’ first flight, Alan Shepard grew up to fly combat missions in World War II, test multiple new aircraft, become the first American in space, and ultimately hit the first golf shot on the Moon. Born on Nov. 18, 1923, Shepard lifted off in the Freedom 7 spacecraft [&#8230;] 
+
+<https://www.nasa.gov/image-article/celebrating-astronaut-alan-shepards-100th-birthday/>
+
+---
+
+## Artemis II Astronauts View SLS Core Stage at Michoud
+
+date: 2023-11-17, from: NASA breaking news
+
+Artemis II NASA astronauts Reid Wiseman and Christina Koch of NASA, and CSA (Canadian Space Agency) astronaut Jeremy Hansen view the core stage for the SLS (Space Launch System) rocket at the agency’s Michoud Assembly Facility in New Orleans on Nov. 16. The three astronauts, along with NASA’s Victor Glover, will launch atop the rocket [&#8230;] 
+
+<https://www.nasa.gov/image-article/artemis-ii-astronauts-view-sls-core-stage-at-michoud/>
+
+---
+
+## Apple Configurator 2.17
+
+date: 2023-11-17, from: TidBITS blog
+
+<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2023/11/Configurator-2_17-icon.png" class="type:primaryImage wp-post-image" alt="Configurator 2.17 icon" decoding="async" /></figure>Adds support for the latest MacBook Pro and iMac models. (Free, 52.2 MB, macOS 14+)<p style="margin-top: 3em"><a href="https://tidbits.com/2018/01/15/what-to-do-if-your-ipad-gets-disabled-by-too-many-passcode-entries/"><picture><source srcset="https://tidbits.com/wp/../uploads/2018/09/TB-iPad-disabled-ad-640x200.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2018/09/TB-iPad-disabled-ad-1456x180.png" srcset="https://tidbits.com/wp/../uploads/2018/09/TB-iPad-disabled-ad-1456x180.png 1456w, https://tidbits.com/wp/../uploads/2018/09/TB-iPad-disabled-ad-1456x180-640x79.png 640w" alt="What to Do If Your iPad Gets Disabled By Too Many Passcode Entries"></picture></a></p> 
+
+<https://tidbits.com/watchlist/apple-configurator-2-17/>
+
+---
+
+## Camo Studio 2.1
+
+date: 2023-11-17, from: TidBITS blog
+
+<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2022/05/Camo-1-icon.png" class="type:primaryImage wp-post-image" alt="Camo 1 icon" decoding="async" srcset="https://tidbits.com/wp/../uploads/2022/05/Camo-1-icon.png 1024w, https://tidbits.com/wp/../uploads/2022/05/Camo-1-icon-640x640.png 640w" sizes="(max-width: 96px) 100vw, 96px" /></figure>Brings user interface improvements and an an unsupported hardware mode to the virtual-camera system. ($39.99 annual subscription, free update, 30 MB, macOS 10.13+)<p style="margin-top: 3em"><picture><source srcset="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-640x200_v1.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1.png" srcset="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1.png 1456w, https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1-640x79.png 640w" alt="Steve Jobs focusing on privacy at the 2003 launch of the iSight webcam with an integrated shutter… “Here's the shutter. Boom. You know, no peeping toms here.”"></picture></p> 
+
+<https://tidbits.com/watchlist/camo-studio-2-1/>
+
+---
+
+## Audio Hijack 4.3.1
+
+date: 2023-11-17, from: TidBITS blog
+
+<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2022/04/Audio-Hijack-4-icon.png" class="type:primaryImage wp-post-image" alt="Audio Hijack 4 icon" decoding="async" srcset="https://tidbits.com/wp/../uploads/2022/04/Audio-Hijack-4-icon.png 1024w, https://tidbits.com/wp/../uploads/2022/04/Audio-Hijack-4-icon-640x640.png 640w" sizes="(max-width: 96px) 100vw, 96px" /></figure>Tweaks the recently added Transcribe beta feature. ($64 new, free update, 37.3 MB, macOS 11+)<p style="margin-top: 3em"><a href="https://textexpander.com/individual?utm_campaign=2021-q4-tidbits&utm_medium=display&utm_source=tidbits&utm_content=tidbits-v4"><picture><source srcset="https://tidbits.com/wp/../uploads/2018/01/TextExpander-640-v4.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2018/01/TextExpander-1456-v4.png" srcset="https://tidbits.com/wp/../uploads/2018/01/TextExpander-1456-v4.png 1456w, https://tidbits.com/wp/../uploads/2018/01/TextExpander-1456-v4-640x79.png 640w" alt="TextExpander: Level Up Your Productivity. Try It For Free!"></picture></a></p> 
+
+<https://tidbits.com/watchlist/audio-hijack-4-3-1/>
+
+---
+
+## 1Password 8.10.20
+
+date: 2023-11-17, from: TidBITS blog
+
+<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2022/05/1Password-7-icon.png" class="type:primaryImage wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://tidbits.com/wp/../uploads/2022/05/1Password-7-icon.png 1000w, https://tidbits.com/wp/../uploads/2022/05/1Password-7-icon-640x640.png 640w" sizes="(max-width: 96px) 100vw, 96px" /></figure>Maintenance update with a lengthy list of improvements and bug fixes for the password manager. ($35.88 annual subscription, free update, 4.8 MB, macOS 10.15+)<p style="margin-top: 3em"><picture><source srcset="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-640x200_v1.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1.png" srcset="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1.png 1456w, https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1-640x79.png 640w" alt="Steve Jobs focusing on privacy at the 2003 launch of the iSight webcam with an integrated shutter… “Here's the shutter. Boom. You know, no peeping toms here.”"></picture></p> 
+
+<https://tidbits.com/watchlist/1password-8-10-20/>
+
+---
+
+## Apple to Support RCS in Messages Next Year
+
+date: 2023-11-17, from: TidBITS blog
+
+In an announcement that the tech press likely cares about more than everyday users, Apple said Messages will support the RCS messaging standard alongside SMS and MMS sometime next year.<p><strong><a href='https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/'>Read original article</a></strong></p><p style="margin-top: 3em"><a href="https://vpdae.com/redirect/7brje6fg49wkxh4vjdbsoc50y3o"><picture><source srcset="https://tidbits.com/wp/../uploads/2019/04/Setapp-640x200_v1.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2019/04/Setapp-1456x180_v1.png" srcset="https://tidbits.com/wp/../uploads/2019/04/Setapp-1456x180_v1.png 1456w, https://tidbits.com/wp/../uploads/2019/04/Setapp-1456x180_v1-1280x158.png 1280w" alt="Setapp Mac Apps Report: Discover biggest trends in the use of apps on Mac"></picture></a></p> 
+
+<https://tidbits.com/2023/11/17/apple-to-support-rcs-in-messages-next-year/>
+
+---
+
+## NASA Mission Excels at Spotting Greenhouse Gas Emission Sources
+
+date: 2023-11-17, from: NASA breaking news
+
+Since launching 16 months ago, the EMIT imaging spectrometer aboard the International Space Station has shown an ability to detect more than just surface minerals. More than a year after first detecting methane plumes from its perch aboard the International Space Station, data from NASA’s EMIT instrument is now being used to identify point-source emissions [&#8230;] 
+
+<https://www.nasa.gov/missions/emit/nasa-mission-excels-at-spotting-greenhouse-gas-emission-sources/>
+
+---
+
+## A PCIe Coral TPU FINALLY works on Raspberry Pi 5
+
+date: 2023-11-17, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">A PCIe Coral TPU FINALLY works on Raspberry Pi 5</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="https://coral.ai/products/">Coral.ai TPUs</a> are AI accelerators used for tasks like machine vision and audio processing. Raspberry Pis are often integrated into small robotics and IoT products—or used to analyze live video feeds with <a href="https://frigate.video">Frigate</a>.</p>
+
+<p>Until today, nobody I know of has been able to get a PCI Express Coral TPU working on the Raspberry Pi. The Compute Module 4, unfortunately, had some quirks in its PCIe implementation, preventing the use of the Coral over PCIe.</p>
+
+<p><img src="https://www.jeffgeerling.com/sites/default/files/images/google-coral-tpu-pcie-raspberry-pi-5.jpg" width="700" height="auto" class="insert-image" alt="Google Coral TPU running over PCIe on Raspberry Pi 5" /></p>
+
+<p>The Raspberry Pi 5 has a much improved PCIe bus—capable of reaching Gen 3 speeds even!—and I've already tested the <a href="https://www.youtube.com/watch?v=EXWu4SUsaY8">first PCIe NVMe HATs for Pi 5</a>.</p>
+
+<p>So can the Pi 5 handle the Coral TPU natively over PCIe?</p>
+
+<p><em>Yes</em>. Though currently, you need to tweak a few things to get it working.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2023-11-17T13:03:27-06:00" title="Friday, November 17, 2023 - 13:03" class="datetime">November 17, 2023</time></span> 
+
+<https://www.jeffgeerling.com/blog/2023/pcie-coral-tpu-finally-works-on-raspberry-pi-5>
+
+---
+
+## NASA Researcher Honored by Goddard Tech Office for Earth Science Work
+
+date: 2023-11-17, from: NASA breaking news
+
+Goddard researcher Dr. Antonia Gambacorta the 2023 IRAD Innovator of the Year for her work developing hyperspectral microwave technology to dissect Earth's atmosphere from orbit. 
+
+<https://www.nasa.gov/centers-and-facilities/goddard/gambacorta-irad-innovation-leader/>
+
+---
+
+## How to customize the dtb (device tree overlay) on the Raspberry Pi
+
+date: 2023-11-17, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">How to customize the dtb (device tree overlay) on the Raspberry Pi</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Every so often, when you're debugging weird hardware issues on SBCs like the Raspberry Pi, it's useful to get way down into the guts of how the Pi represents its hardware to Linux.</p>
+
+<p>And the Linux kernel uses a method called <a href="https://www.kernel.org/doc/html/latest/devicetree/usage-model.html">Device Tree</a> overlays to do it. On the Pi 5 (and other Pis), these overlays are stored as <code>.dtb</code> files inside the <code>/boot/firmware</code> directory, and there's an overlay for every major Raspberry Pi hardware model.</p>
+
+<p>I've had to modify the <code>dtb</code> files in the past to <a href="https://gist.github.com/geerlingguy/9d78ea34cab8e18d71ee5954417429df">increase the PCIe BAR space</a> for early GPU testing on the Compute Module 4. And recently I've had to <a href="https://github.com/geerlingguy/raspberry-pi-pcie-devices/issues/44#issuecomment-1816810789">mess with how the PCIe address space is set up</a> for testing certain devices on the Raspberry Pi 5.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2023-11-17T11:24:46-06:00" title="Friday, November 17, 2023 - 11:24" class="datetime">November 17, 2023</time></span> 
+
+<https://www.jeffgeerling.com/blog/2023/how-customize-dtb-device-tree-overlay-on-raspberry-pi>
+
+---
+
+## NASA Wallops Supports Hypersonic Rocket Launches
+
+date: 2023-11-17, from: NASA breaking news
+
+NASA’s Wallops Flight Facility supported the launch of two suborbital sounding rockets on Nov. 15, 2023, for Navy Strategic Systems Programs (SSP), and the Missile Defense Agency (MDA), in coordination with Naval Surface Warfare Center, Crane Division (NSWC Crane) and the Office of the Secretary of Defense’s Test Resource Management Center (TRMC) Multi-Service Advanced Capability [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-supports-hypersonic-rocket-launches/>
+
+---
+
+## Ransomware Gang Files SEC Complaint
+
+date: 2023-11-17, updated: 2023-11-17, from: Bruce Schneier blog
+
+<p>A ransomware gang, annoyed at not being paid, <a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-files-sec-complaint-over-victims-undisclosed-breach/">filed an SEC complaint</a> against its victim for not disclosing its security breach within the required four days.</p>
+<p>This is over the top, but is just another example of the extreme pressure ransomware gangs put on companies after seizing their data. Gangs are now going through the data, looking for particularly important or embarrassing pieces of data to threaten executives with exposing. I have heard stories of executives&#8217; families being threatened, of consensual porn being identified (people regularly mix work and personal email) and exposed, and of victims&#8217; customers and partners being directly contacted. Ransoms are in the millions, and gangs do their best to ensure that the pressure to pay is intense...</p> 
+
+<https://www.schneier.com/blog/archives/2023/11/ransomware-gang-files-sec-complaint.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-17, from: Dave Winer's Scripting News)
+
+I think a basic hookup to a chatbot is going to become part of the <a href="http://textcasting.org/">textcasting</a> spec pretty quickly. So far the best one I've seen is Guy Kawasaki's. I want to be able to ask for a list of things I've written on a given topic, and to be able to ask the questions in the same straightforward way I ask ChatGPT. 
+
+<http://scripting.com/2023/11/17.html#a162117>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2023-11-17, from: Tomosino's Mastodon feed)
+
+<h1>The Disabled Community</h1><h2>Solarpunk Prompts - S02E03</h2><p>How will our Solarpunk future be shaped by the tenacity and activism of the disabled community? What role does inclusivity and accessibility play in creating that future vision? What new challenges await us all?</p><p><em>Special thanks to Martyna Lysiakiewicz for a sensitivity read on this episode.</em></p><p><a href="https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-disabled-community" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">podcast.tomasino.org/@Solarpun</span><span class="invisible">kPrompts/episodes/the-disabled-community</span></a></p><p><a href="https://tilde.zone/tags/disability" class="mention hashtag" rel="tag">#<span>disability</span></a> <a href="https://tilde.zone/tags/solarpunk" class="mention hashtag" rel="tag">#<span>solarpunk</span></a> <a href="https://tilde.zone/tags/writing" class="mention hashtag" rel="tag">#<span>writing</span></a> <a href="https://tilde.zone/tags/future" class="mention hashtag" rel="tag">#<span>future</span></a> <a href="https://tilde.zone/tags/hope" class="mention hashtag" rel="tag">#<span>hope</span></a> <a href="https://tilde.zone/tags/activism" class="mention hashtag" rel="tag">#<span>activism</span></a></p> 
+
+<https://tilde.zone/@tomasino/111426730425704309>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-17, from: Dave Winer's Scripting News)
+
+Polls are not news. 
+
+<http://scripting.com/2023/11/17.html#a151025>
+
+---
+
+## The Heat is On! NASA’s “Flawless” Heat Shield Demo Passes the Test
+
+date: 2023-11-17, from: NASA breaking news
+
+A little more than a year ago, a NASA flight test article came screaming back from space at more than 18,000 mph, reaching temperatures of nearly 2,700 degrees Fahrenheit before gently splashing down in the Pacific Ocean. At that moment, it became the largest blunt body — a type of reentry vehicle that creates a [&#8230;] 
+
+<https://www.nasa.gov/missions/tech-demonstration/loftid/the-heat-is-on-nasas-flawless-heat-shield-demo-passes-the-test/>
+
+---
+
+## World’s smallest Dance Dance Revolution arcade machine
+
+date: 2023-11-17, from: Raspberry Pi News (.com)
+
+<p>Behold: the world's smallest Dance Dance Revolution arcade machine. Made by BigRig Creates and powered by Raspberry Pi 4. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/worlds-smallest-dance-dance-revolution-arcade-machine/">World&#8217;s smallest Dance Dance Revolution arcade machine</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/worlds-smallest-dance-dance-revolution-arcade-machine/>
+
+---
+
+## Hubble Images Galaxy with an Explosive Past
+
+date: 2023-11-17, from: NASA breaking news
+
+This image from NASA’s Hubble Space Telescope features the spiral galaxy NGC 941, which lies about 55 million light-years from Earth. Hubble’s Advanced Camera for Surveys (ACS) collected the data that created this image. Beautiful NGC 941 is undoubtedly the main attraction in this view; however, the hazy-looking galaxy was not the motivation for collecting the data. That […] 
+
+<https://science.nasa.gov/missions/hubble/hubble-images-galaxy-with-an-explosive-past/>
+
+---
+
+## A MARKED MAN 
+
+date: 2023-11-17, from: Howard Jacobson blog
+
+You know the story. Everybody knows the story. I do what it is inscribed in my nature to do, for which I am sent out friendless into the world. &#8216;So where am I supposed to go?&#8217; I ask &#8216;Not my business,&#8217; The Boss says. &#8216;Henceforth an exile and a fugitive and a wanderer shalt thou be. Go find a quiet bench and cool off on that for a few thousand years. And don&#8217;t look so glum. There are worse things.&#8217; 
+
+<https://jacobsonh.substack.com/p/a-marked-man>
+
+---
+
+## Taking things literally
+
+date: 2023-11-17, from: Status-Q blog
+
+John Naughton linked to a splendid post by my friend and erstwhile colleague Alan Blackwell, entitled &#8220;Oops! We Automated Bullshit.&#8220; I won&#8217;t try to summarise it here, or even discuss the topics he raises, because you should cetainly go and read the article. But I did like the aside where he questions his own use <a class="more-link excerpt-link" href="https://statusq.org/archives/2023/11/17/11826/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2023/11/17/11826/>
+
+---
+
+## No Bing, no Edge, no upselling: De-crufted Windows 11 coming to Europe soon
+
+date: 2023-11-17, from: OS News
+
+In order to comply with the EU&#8217;s Digital Markets Act, Microsoft is planning a number of changes to Windows to comply with this new legislation. Ars sums them up nicely: All of the above will be exclusive to the EU/EEA, so Windows users elsewhere are out of luck. 
+
+<https://www.osnews.com/story/137857/no-bing-no-edge-no-upselling-de-crufted-windows-11-coming-to-europe-soon/>
+
+---
+
+## Google resumes transition to Manifest V3
+
+date: 2023-11-17, from: OS News
+
+With these changes in place, we’ve seen support for Manifest V3 increase significantly among the extension developer community. Specifically, we are encouraged by our ongoing dialogue with the developers of content blocking extensions, who initially felt Manifest V3 could impact their ability to provide users with the features they’ve come to expect. Google has made several changes to Manifest V3 specifically to ease concerns among developers of content blocking extensions, and it seems those changes have been positively received. The maximum number of active rulesets has been increased, as well as the number of dynamic rules, which are rules ad blocker developers can change and update without having to update the extension as a whole. Regardless of these changes, I would still advise everyone to get a Raspberry Pi or whatever and run Pi-Hole &#8211; this will block ads for your entire network, and all devices, regardless of browser or operating system. 
+
+<https://www.osnews.com/story/137855/google-resumes-transition-to-manifest-v3/>
+
+---
+
+## Microsoft is finally making custom chips — and they’re all about AI
+
+date: 2023-11-17, from: OS News
+
+The rumors are true: Microsoft has built its own custom AI chip that can be used to train large language models and potentially avoid a costly reliance on Nvidia. Microsoft has also built its own Arm-based CPU for cloud workloads. Both custom silicon chips are designed to power its Azure data centers and ready the company and its enterprise customers for a future full of AI. Microsoft’s Azure Maia AI chip and Arm-powered Azure Cobalt CPU are arriving in 2024, on the back of a surge in demand this year for Nvidia’s H100 GPUs that are widely used to train and operate generative image tools and large language models. There’s such high demand for these GPUs that some have even fetched more than $40,000 on eBay. Amazon and Google, the two other major cloud providers, are already using all kinds of custom, in-house silicon in their datacentres, so it&#8217;s not exactly surprising Microsoft is following in their footsteps. 
+
+<https://www.osnews.com/story/137852/microsoft-is-finally-making-custom-chips-and-theyre-all-about-ai/>
+
+---
+
+## Apple announces that RCS support is coming to iPhone next year
+
+date: 2023-11-17, from: OS News
+
+The European Union making tech better for everyone. We&#8217;ll have to wait and see if supporting RCS will be enough to prevent the EU from requiring Apple open up iMessage. 
+
+<https://www.osnews.com/story/137849/apple-announces-that-rcs-support-is-coming-to-iphone-next-year/>
+
+---
+
+## Friday 17 November, 2023
+
+date: 2023-11-17, from: John Naughton's online diary
+
+Wood Henge? Thornham, Norfolk the other day. Quote of the Day ”Because of the impropriety of entertaining guests of the opposite sex in the bedroom, it is suggested that the lobby be used for this purpose.” Hotel Notice, Zurich Musical &#8230; <a href="https://memex.naughtons.org/friday-17-november-2023/38820/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/friday-17-november-2023/38820/>
+
+---
+
+## NASA’s Deep Space Optical Comm Demo Sends, Receives First Data
+
+date: 2023-11-17, from: NASA breaking news
+
+DSOC, an experiment that could transform how spacecraft communicate, has achieved ‘first light,’ sending data via laser to and from far beyond the Moon for the first time. NASA’s Deep Space Optical Communications (DSOC) experiment has beamed a near-infrared laser encoded with test data fromnearly 10 million miles (16 million kilometers) away – about 40 [&#8230;] 
+
+<https://www.nasa.gov/missions/psyche-mission/nasas-deep-space-optical-comm-demo-sends-receives-first-data/>
+
+---
+
+## Has Sam Altman gone full Gary Marcus?
+
+date: 2023-11-16, from: Gary Marcus blog
+
+What a difference a year makes 
+
+<https://garymarcus.substack.com/p/has-sam-altman-gone-full-gary-marcus>
+
+---
+
+## The Hidden Secrets of the Fn Key
+
+date: 2023-11-16, from: TidBITS blog
+
+The Fn key has been a fixture on Apple keyboards for decades, but many Mac users lack a sense of its purpose. Adam Engst thought he was going to write a quick article listing hidden keyboard shortcuts that tap the Fn key but got dragged into documenting the history and capabilities of this unsung key.<p style="margin-top: 3em"><a href="https://tidbits.com/2016/07/11/os-x-hidden-treasures-typing-exotic-characters/"><picture><source srcset="https://tidbits.com/wp/../uploads/2018/05/TB-Special-Characters-ad-640x200.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2018/05/TB-Special-Characters-ad-1456x180.png" srcset="https://tidbits.com/wp/../uploads/2018/05/TB-Special-Characters-ad-1456x180.png 1456w, https://tidbits.com/wp/../uploads/2018/05/TB-Special-Characters-ad-1456x180-640x79.png 640w" alt="macOS Hidden Treasures: Typing Exotic Characters"></picture></a></p> 
+
+<https://tidbits.com/2023/11/16/the-hidden-secrets-of-the-fn-key/>
+
+---
+
+## 55 Years Ago: Eight Months Before the Moon Landing
+
+date: 2023-11-16, from: NASA breaking news
+
+November 1968 proved pivotal to achieving the goal of landing a man on the Moon before the end of the decade. The highly successful Apollo 7 mission that returned American astronauts to space provided the confidence for NASA to decide to send the next flight, Apollo 8, on a trip to orbit the Moon in [&#8230;] 
+
+<https://www.nasa.gov/history/55-years-ago-eight-months-before-the-moon-landing/>
+
+---
+
+## 50 Years Ago: Launch of Skylab 4, The Final Mission to Skylab
+
+date: 2023-11-16, from: NASA breaking news
+
+The third and final crewed mission to the Skylab space station, Skylab 4, got underway on Nov. 16, 1973, with a thunderous launch from NASA’s Kennedy Space Center (KSC) in Florida. Docking eight hours later, astronauts Gerald P. Carr, Edward G. Gibson, and William R. Pogue began a planned 56-day mission that program managers extended [&#8230;] 
+
+<https://www.nasa.gov/history/50-years-ago-launch-of-skylab-4-the-final-mission-to-skylab/>
+
+---
+
+## P&B: Chris Coyier
+
+date: 2023-11-16, from: Manu - I write blog
+
+<p>This is the 12th edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Chris Coyier and his blog, <a href="https://chriscoyier.net" rel="noreferrer" target="_blank">chriscoyier.net</a>.</p>
+<p>As many many others I got to knew Chris thanks to his <a href="https://css-tricks.com" rel="noreferrer" target="_blank">CSS-Tricks</a> and I'm very happy to see that he's not done blogging! Chris is also co-founder of <a href="https://codepen.io" rel="noreferrer" target="_blank">CodePen</a> and co-host of the <a href="https://shoptalkshow.com" rel="noreferrer" target="_blank">ShopTalk</a> podcast.</p>
+<p>To follow this series <a href="https://peopleandblogs.com" rel="noreferrer" target="_blank">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<hr />
+<div class="q"><p><strong>Let&#039;s start from the basics: can you introduce yourself?</strong></p></div>
+<div class="a"><p>I’m Chris Coyier. Professionally, I’m the co-founder of CodePen, along with Alex Vazquez. We’re over 10 years on that project and are hard at work still today, evolving it. With my friend Dave Rupert, I co-host a podcast called ShopTalk Show which is all about web design &amp; development. I also used to run a blog called CSS-Tricks for 15 years, which I sold a little over a year ago. So my professional life has been very focused on the web. Outside of work, I hang out with my family in Bend, Oregon. My main hobby is playing old-time music with local friends.</p></div>
+<div class="q"><p><strong>What&#039;s the story behind your blog?</strong></p></div>
+<div class="a"><p>I think I originally bought <a href="http://chriscoyier.net/" rel="noreferrer" target="_blank">ChrisCoyier.net</a> just out of the general obviousness that people should have a personal website (I think most people should). A lot of my early website-building experience involved WordPress, so I chucked that up on it. WordPress is pretty capable for a variety of types of websites, but I do still think the design of it encourages use as a blog. Blogging kinda clicked with me anyway, so that was always a part of it. There is something intoxicating about writing and publishing something anyone in the world can see and read.</p>
+<p>I have no idea how many times it’s been redesigned over the years! It’s my 8th design since I’ve been properly versioning my WordPress theme, but surely a few before that. And honestly: not enough. Redesigning your personal website is one of life’s great pleasures.</p></div>
+<div class="q"><p><strong>What does your creative process look like when it comes to blogging?</strong></p></div>
+<div class="a"><p>Ideally, I’m asking myself: what is interesting about this? Is there a hook to this that makes this worthwhile? What can I say about this that might make it click for someone? Can I share how it clicked for me? Can I be helpful in some other way?</p>
+<p>But sometimes I just don’t care. I remember one time a very popular blogger posting to say that it was his wife’s birthday, and noting that it was a good reminder that blogs are never that serious and you should be able to post whatever you want whenever you want to. That’s what makes a good blog, I think. That is to say, usually, I try to make things interesting for everyone, but it’s good enough if it's interesting just to me.</p>
+<p>My writing process has always been rather hot’n’fast. I might make a few passes during writing to rejigger things, but usually, I get done with things same-day and just hit the publish button. Back in the CSS-Tricks days, I had a great editor in Geoff Graham, so I probably seemed a little more polished than usual, but even then, it’s not like either of us were super professional editors and spent weeks on things. I think that might take the fun out of writing for me.</p>
+<p>Tools-wise, I think the most important thing for me is <a href="https://chriscoyier.net/2023/08/20/how-do-i-save-links-for-later/" rel="noreferrer" target="_blank">saving links</a> and then being able to look over them and think about them and see if any thoughts have formulated about them since saving/reading them.</p></div>
+<div class="q"><p><strong>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</strong></p></div>
+<div class="a"><p>Nah, not really. What I do think is helpful is scenery changes. I’ve got a great desk and I can do the majority of my work there, but sometimes I like to take a laptop over to a coffee shop just to switch it up a bit and usually combine that with changing gears with what I’m working on.</p>
+<p>But I’ve blogged just fine in my parent’s unfinished basement, in a tiny room with a tilted floor and unreliable internet in a house of questionably employed late twenty somethings, from a pool bar at a resort in Costa Rica, in lonely second story flat with a creaky floor, from the sunroom of a house in Florida that was a little too big for just one dude and a puppy, from a coffeeshop I’d never find again in Kraków, from a ferry on the inside passages of Southeast Alaska, and from a glass-walled office with my hand-picked inspirational art surrounding me. You just need a laptop, an idea, and a little desire to press publish.</p></div>
+<div class="q"><p><strong>A question for the techie readers: can you run us through your tech stack?</strong></p></div>
+<div class="a"><p>GoDaddy gets a lot of flack for an ex-CEO and a story involving killing an elephant and a purportedly objectifying advertising campaign. I think those things are more complicated than they seem on the surface, and never convinced me the company as a whole was evil. I find GoDaddy to be a pretty good domain registrant product, actually. I think the UI is fairly sensible, the pricing acceptable, and, well, it just works well. I used MediaTemple hosting for a long time, and I even thought they did pretty well running that post-acquisition for quite a while. Most importantly to me, though, as a loyal guy, GoDaddy once went to bat for me when, through a complex social engineering attack, I had a website stolen from me. It was no small effort for them to get it back, they did, and protected the heck out of it for all the years after. Anyway: my domains are there.</p>
+<p>As I mentioned, I like WordPress, and I’m using Flywheel hosting for that at the moment. I find the hosting and the support pretty good. But my favorite feature is that they make this product <a href="https://localwp.com/" rel="noreferrer" target="_blank">Local</a> for great local development.</p></div>
+<div class="q"><p><strong>Given your experience, if you were to start a blog today, would you do anything differently?</strong></p></div>
+<div class="a"><p>I think the most important thing anyone can do when setting up a blogging tech stack is to make sure it’s very easy to write and publish. For a lot of techy folks, that’s Markdown and committing a file, and that’s great. I’m a big fan of the static-site-generator approach to site building, as there is just tons of advantages there to being low cost, secure, easy to move around, lots of control, etc.</p>
+<p>But me, I’m still a big fan of WordPress. I just have so much muscle memory for how it works. Now that the Block Editor is a thing in WordPress, I’m an even bigger fan. It allows you to do just enough customization inside of a blog post that makes it feel right. Too much customization would make redesigns obnoxious. Too little feels stifling and would lead to too much one-off fighting against it. The Block Editor allows you to, for example, set up some side-by-side columns, or drop in a photo gallery, or adjust some one-off colors just for one part.</p>
+<p>Everybody’s gotta do what works for them, though. Building your own stack of tech and learning it deeply is part of the journey. You’ll never love every single aspect of it, so be ready to evolve.<br />
+I would say: be liberal in how you syndicate. Your blog on the web can be home base, but meet any reader where they are. Push that content to anywhere that will take it.</p></div>
+<div class="q"><p><strong>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what&#039;s your position on people monetising personal blogs?</strong></p></div>
+<div class="a"><p>I don’t monetize my personal blog at the moment aside from putting a big obvious “Go PRO on CodePen” link in various spots. I don’t, like, pay myself directly for that placement or even track its effectiveness, but it’s an ad, and as a co-owner of CodePen, I profit from that.</p>
+<p>I don’t mind what people choose to monetize, go nuts. I’ve always thought it can be done tastefully and be the best monetization option for tons of sites. The fact that it craps up a ton of websites is unfortunate, so, don’t do that. I do think people, generally, will have a hard time making meaningful money from a personal website. The scale is generally just a little too small to make it work, and the fact that it’s just some-persons-name.com might just be a bit too niche and weird for a many direct advertisers to bother. I’m sure there are counter-examples, like people that do self-help stuff and monetize with memberships or downloads or something. CSS-Tricks did OK with advertising revenue, but it was a real grind getting enough content produced on a daily basis to keep traffic up to the point of supporting just an editor and a few writers.</p>
+<p>If you need a zero-dollar option, WordPress.com has a free plan that’s easy to grow out of (I swear WordPress doesn’t pay me, uhm, anymore). But also picking a static site generator and using Netlify’s free plan is totally an option. If you have any budget at all, buy a domain and keep it up over the years. I’m very sure you’ll never regret that.</p></div>
+<div class="q"><p><strong>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</strong></p></div>
+<div class="a"><p><a href="https://chriscoyier.net/2023/01/05/a-big-pile-of-personal-developer-designer-blogs-in-an-opml-file/" rel="noreferrer" target="_blank">I have a bit of a dump of blogs</a> I follow here in case anyone wants a head start getting into RSS. But here’s a few hand-picked ones (<em>that are mostly pretty web-tech-y because that’s what I like!</em>)</p>
+<ul>
+<li><a href="https://maggieappleton.com/garden" rel="noreferrer" target="_blank">Maggie Appleton</a></li>
+<li><a href="https://adactio.com/" rel="noreferrer" target="_blank">Jeremy Keith</a></li>
+<li><a href="https://blog.jim-nielsen.com/" rel="noreferrer" target="_blank">Jim Neilsen</a> (<a href="https://manuelmoreale.com/pb-jim-nielsen">read his P&amp;B interview</a>)</li>
+<li><a href="https://kottke.org/" rel="noreferrer" target="_blank">Jason Kottke</a></li>
+<li><a href="https://2019.wattenberger.com/blog" rel="noreferrer" target="_blank">Amelia Wattenberger</a></li>
+<li><a href="https://brucelawson.co.uk/" rel="noreferrer" target="_blank">Bruce Lawson</a></li>
+<li><a href="https://rachsmith.com/" rel="noreferrer" target="_blank">Rachel Smith</a></li>
+<li><a href="https://lea.verou.me/" rel="noreferrer" target="_blank">Lea Verou</a></li>
+<li><a href="https://shkspr.mobi/blog/" rel="noreferrer" target="_blank">Terence Eden</a></li>
+</ul></div>
+<div class="q"><p><strong>Final question: is there anything you want to share with us?</strong></p></div>
+<div class="a"><p>Keep an eye on <a href="https://codepen.io/your-work" rel="noreferrer" target="_blank">CodePen</a>. Little biased, but it’s already this incredible hive of creative web designers and developers, and we’re hard at work making it even more useful for everyone.</p></div>
+<hr />
+<p>This was the 12th edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Chris. Make sure to <a href="https://chriscoyier.net" rel="noreferrer" target="_blank">follow his blog</a> (<a href="https://chriscoyier.net/feed/" rel="noreferrer" target="_blank">RSS</a>) and get in touch with him if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale" rel="noreferrer" target="_blank">Ko-Fi</a> and top supporters will be listed here as well as on the <a href="https://peopleandblogs.com" rel="noreferrer" target="_blank">official site</a> of the newsletter.</p>
+<ul>
+<li><a href="https://www.thingelstad.com" rel="noreferrer" target="_blank">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="https://some.studio" rel="noreferrer" target="_blank">Piet Terheyden</a></li>
+<li><a href="https://minim.blog" rel="noreferrer" target="_blank">Raul Montala</a> (<a href="https://minim.blog/feed.rss" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li>Eleonora</li>
+</ul>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale" rel="noreferrer" target="_blank">donate or subscribe</a> on Ko-Fi;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol> 
+
+<https://manuelmoreale.com/@/page/sdex5YNIyGbFsbCj>
+
+---
+
+## An Overview of Privacy-Focused, Decentralized Instant Messengers
+
+date: 2023-11-16, from: mrusme blog
+
+An overview of privacy-focused, decentralized, open source alternatives to
+popular non-free ~~spyware~~ instant messengers like WhatsApp, Telegram,
+Signal, Viber, Facebook Messenger, Skype, and Apple iMessage. 
+
+<https://xn--gckvb8fzb.com/an-overview-of-privacy-focused-decentralized-instant-messengers/>
+
+---
+
+## Apple to Add RCS Messaging in iOS 17 Update
+
+date: 2023-11-16, from: Michael Tsai
+
+Lance Ulanoff (Hacker News, MacRumors): Apple will finally add RCS messaging standard support to the iPhone through a software release early next year, the company told TechRadar.[&#8230;]&#8220;Later next year, we will be adding support for RCS Universal Profile, the standard as currently published by the GSM Association. We believe the RCS Universal Profile will offer [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/16/apple-to-add-rcs-messaging-in-ios-17-update/>
+
+---
+
+## Why Do People Still Use VBA?
+
+date: 2023-11-16, from: Michael Tsai
+
+Sancarn (via Hacker News): From these data, we can clearly see that the majority of people who use VBA do so mainly because they have no other choice. Many organisations run their entire business processes with Excel, and when a little bit of automation is required VBA is usually #1 on the list. [&#8230;] Looks [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/16/why-do-people-still-use-vba/>
+
+---
+
+## Lightroom Classic 13.0.1
+
+date: 2023-11-16, from: Michael Tsai
+
+Adobe: Blur any image to make it seem like it&#8217;s been taken with a wide aperture lens. Lens Blur easily alters the background or foreground of your images by making a depth map using Adobe Sensei.[&#8230;]Edit, display, and save images in High Dynamic Range (HDR) to experience increased depth with brighter highlights, deeper shadows, and [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/16/lightroom-classic-13-0-1/>
+
+---
+
+## The Myth and Reality of Mac OS X Snow Leopard
+
+date: 2023-11-16, from: Michael Tsai
+
+Jeff Johnson: This famous keynote slide was, to put it euphemistically, a bit of product marketing. Non-euphemistically, it was a big lie. Snow Leopard had quite a few new features, including significant changes &#8220;under the hood&#8221;, so to speak. In fairness, though, 10.6 was a smaller update than 10.5, 10.4, 10.3, or 10.2, and its [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/16/the-myth-and-reality-of-mac-os-x-snow-leopard/>
+
+---
+
+## Apple INA Hiring Discrimination Settlement
+
+date: 2023-11-16, from: Michael Tsai
+
+Jon Brodkin (Hacker News, 9to5Mac, ): Apple illegally discriminated against US citizens and other US residents in its hiring and recruitment practices for certain types of positions that went to foreign workers, the US Department of Justice said yesterday. Apple agreed to pay up to $25 million in back pay and civil penalties to settle [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/16/apple-ina-hiring-discrimination-settlement/>
+
+---
+
+## Practice Guide for Computer
+
+date: 2023-11-16, from: Tilde.news
+
+<p><a href="https://tilde.news/s/ypruzy/practice_guide_for_computer">Comments</a></p> 
+
+<https://codeberg.org/oneirophage/practice-guide-for-computer>
+
+---
+
+## FTC’s Voice Cloning Challenge
+
+date: 2023-11-16, updated: 2023-11-16, from: Bruce Schneier blog
+
+<p>The Federal Trade Commission is running a <a href="https://www.ftc.gov/news-events/contests/ftc-voice-cloning-challenge">competition</a> &#8220;to foster breakthrough ideas on preventing, monitoring, and evaluating malicious voice cloning.&#8221;</p>
+ 
+
+<https://www.schneier.com/blog/archives/2023/11/ftcs-voice-cloning-challenge.html>
+
+---
+
+## How will Capitalism End? The Orville, Eduard Bernstein, and What is to be Done
+
+date: 2023-11-16, from: Literate Machine
+
+Video Version &#124; Audio Version &#124; Get this in Your Inbox When Star Trek’s Federation is brought up as an example of how “actual” socialism might work, as I did in Star Trek into Socialism, frequently one is met with the objection that it only works in Star Trek because they’ve solved the problem of<p><a href="https://literatemachine.com/2023/11/16/how-will-capitalism-end-the-orville-eduard-bernstein-and-what-is-to-be-done/" class="more-link themebutton">Read More</a></p> 
+
+<https://literatemachine.com/2023/11/16/how-will-capitalism-end-the-orville-eduard-bernstein-and-what-is-to-be-done/>
+
+---
+
+## The Evolution of Rogue Amoeba App Icons
+
+date: 2023-11-16, from: TidBITS blog
+
+Rogue Amoeba has posted a graphical timeline showing how the company’s app icons have evolved over the years.<p><strong><a href='https://weblog.rogueamoeba.com/2023/09/30/rogue-amoeba-icon-timeline/'>Read original article</a></strong></p><p style="margin-top: 3em"><picture><source srcset="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-640x200_v1.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1.png" srcset="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1.png 1456w, https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1-640x79.png 640w" alt="Steve Jobs focusing on privacy at the 2003 launch of the iSight webcam with an integrated shutter… “Here's the shutter. Boom. You know, no peeping toms here.”"></picture></p> 
+
+<https://tidbits.com/2023/11/16/the-evolution-of-rogue-amoeba-app-icons/>
+
+---
+
+## PicoGUS sound card emulator for ISA retro PCs
+
+date: 2023-11-16, from: Tilde.news
+
+<p><a href="https://tilde.news/s/wxms9r/picogus_sound_card_emulator_for_isa_retro">Comments</a></p> 
+
+<https://www.tindie.com/products/polpo/picogus-sound-card-emulator-for-isa-retro-pcs/>
+
+---
+
+## Mozilla AI Guide Launch with Summarization Code Example
+
+date: 2023-11-16, from: Mozilla Developer Network blog
+
+<p>Mozilla has just launched the AI Guide, a collaborative hub for developers to join forces, inspire each other, and lead the way in groundbreaking generative AI advancements.  The AI Guide’s initial focus begins with language models and the aim is to become a collaborative community-driven resource covering other types of models.</p>
+<p>The post <a rel="nofollow" href="https://hacks.mozilla.org/2023/11/mozilla-ai-guide-launch-with-summarization-code-example/">Mozilla AI Guide Launch with Summarization Code Example</a> appeared first on <a rel="nofollow" href="https://hacks.mozilla.org">Mozilla Hacks - the Web developer blog</a>.</p>
+ 
+
+<https://hacks.mozilla.org/2023/11/mozilla-ai-guide-launch-with-summarization-code-example/>
+
+---
+
+## The Mighty 'MOX: 50kW AM Tower site tour
+
+date: 2023-11-16, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">The Mighty 'MOX: 50kW AM Tower site tour</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Nearing it's centennial, <a href="https://en.wikipedia.org/wiki/KMOX">KMOX-AM</a> (1120 kHz) is a 50,000-watt clear-channel AM radio station with studios located in downtown St. Louis, MO, USA.</p>
+
+<p>But their broadcast tower is located about 10 miles northeast, in Pontoon Beach, IL. My Dad was the director of engineering overseeing the tower and studios for about 20 years, and though he's no longer there, he and I got permission from Audacy and the St. Louis engineers (thanks!) to tour the site, and learn a bit about how they broadcast their AM signal—which reaches all the way into Canada and Mexico at night!</p>
+
+<p><img src="https://www.jeffgeerling.com/sites/default/files/images/jeff-joe-geerling-kmox-am-50kw-harris-transmitter.jpg" width="700" height="auto" class="insert-image" alt="Jeff Geerling holds a dumb not smart light switch" /></p>
+
+<p>In this blog post, I'll write a bit about KMOX's tower system (AM towers are a <em>lot</em> different than FM, like the <a href="https://www.jeffgeerling.com/blog/2022/1-million-watts-rf-how-fm-supertower-works">FM Supertower</a> we toured last year), the transmitter, and the some of the history found at that tower site.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2023-11-16T10:16:35-06:00" title="Thursday, November 16, 2023 - 10:16" class="datetime">November 16, 2023</time></span> 
+
+<https://www.jeffgeerling.com/blog/2023/mighty-mox-50kw-am-tower-site-tour>
+
+---
+
+## NDSA Sustainability Excellence Award
+
+date: 2023-11-16, from: David Rosenthal's blog
+
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsW7x_4i-TUwFG6xNVH2q_nk5jXabNhRGxUbnEeDV6vKapZoAmu9eDP1JY4Oavw508eDSbFy734Gxb2crvCI-eAQVjL-3LjYp0olWhqIR4OM6AhehgFJTKFxrKEdrLJHUOdsrPCeODqpu4dVDUT2sggb73rBj_EomjFI1YirWH2THzPUgP4_KwTIDX1Q/s151/LOCKSS.logo.png" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" data-original-height="151" data-original-width="151" height="151" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsW7x_4i-TUwFG6xNVH2q_nk5jXabNhRGxUbnEeDV6vKapZoAmu9eDP1JY4Oavw508eDSbFy734Gxb2crvCI-eAQVjL-3LjYp0olWhqIR4OM6AhehgFJTKFxrKEdrLJHUOdsrPCeODqpu4dVDUT2sggb73rBj_EomjFI1YirWH2THzPUgP4_KwTIDX1Q/s1600/LOCKSS.logo.png" width="151" /></a>Yesterday, at the DigiPres conference, Vicky Reich and I were awarded a "<a href="https://ndsa.org/awards/">Sustainability Excellence Award</a>" by the <a href="https://ndsa.org/">National Digital Stewardship Alliance</a>. This is a tribute to the sustained hard work of the entire LOCKSS team over more than a <a href="https://blog.dshr.org/2023/10/lockss-program-turns-25.html">quarter-century</a>.<br />
+<br />
+Below the fold are the <a href="https://www.diglib.org/announcing-the-2023-ndsa-excellence-award-winners/">citation</a> and our response.<br />
+<span><a name='more'></a></span>
+<h3>Citation</h3>
+2023 marks a significant date for the LOCKSS Program: It is the twenty-fifth anniversary of the friendly hikes in Joseph Grant State Park and Big Basin where Victoria Reich and Dr. David S.R.[sic]  Rosenthal first conceived of LOCKSS, “lots of copies keeps stuff safe,” as a guiding principle for long-term access and preservation to digital library resources. It is also the twentieth anniversary of the transition of the LOCKSS project from beta testing in 2002 to full production release. In the words of the duo’s nominator, “Even if you don’t know David Rosenthal and Vicky Reich by name, you’ve almost certainly heard their rallying cry for digital preservation: Lots Of Copies Keep Stuff Safe. This ethos has informed digital preservation best practices since its introduction, and has shaped the design and implementation of the LOCKSS open-source software.”<br />
+<br />
+David Rosenthal and Vicky Reich’s brainchild—and the enduring preservation networks that it has made possible—was at the leading edge of a global wave of digital preservation initiatives in the early 20th century. The effectiveness and reliability of LOCKSS software has been validated through rigorous third-party evaluation, including ongoing certification of the CLOCKSS archive as a trustworthy digital repository under the TRAC standard since 2014. The LOCKSS project has provided enduring proof of the concept that large-scale digital preservation work can be accomplished cost-effectively and with community benefits (not vendor profits) as the primary driver.<br /> 
+<br />
+Rosenthal and Reich’s work on LOCKSS stands as a benchmark against which other approaches to digital preservation and persistent access to digital resources are measured. 
+<br />
+<h3>Response</h3>
+The LOCKSS Program was <a href="https://blog.dshr.org/2023/10/lockss-program-turns-25.html">25 years old</a> last month. Vicky and David would like to thank:<br />
+<ul>
+  <li>The international user community and Stanford staff who are using, evolving and improving the software.</li>
+  <li>Our far sighted funders who got the program up and running — <a href="https://en.wikipedia.org/wiki/Mike_Lesk">Michael Lesk</a> at the NSF and then <a href="https://blog.dshr.org/2019/08/a-tribute-to-don-waters.html">Don Waters</a> at the Mellon Foundation.</li>
+  <li>And three brilliant Stanford Computer Science PhD students who provided the <a href="http://dx.doi.org/10.1145/945445.945451">award winning science</a> behind the technology — Mema Roussopoulos, Petros Maniatis and TJ Giuli.</li>
+</ul>
+We learned many lessons over the two decades we worked on the program, none of them a surprise to anyone in the preservation business. Two that are key. For a program to survive the long term it is critical to:<br />
+<ul>
+  <li>Build and nurture relationships, among the staff, among the user community, and with the funders.</li>
+  <li>Document, document, document. Write it down, whatever it is. Over a quarter-century it is easy to forget things such as "why was it done this way?".</li>
+</ul>
+We are honored by and grateful for this award, and happy that the program we left for our new career as full-time grandparents is flourishing in good hands.<br />
+<br /> 
+
+<https://blog.dshr.org/2023/11/ndsa-sustainability-excellence-award.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-16, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/10/24/rssCoffeeMug.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Here's a <a href="https://artshow2.scripting.com/">demo app</a> that scrolls through pictures recently posted by one of the <a href="https://lists.feedcorps.org/artshow.opml">art feeds</a> on Bluesky. Artshow is not itself a feed reader, it calls FeedLand, <a href="https://feedland.com/getriverfromreadinglist?url=https://lists.feedcorps.org/artshow.opml">via an API</a>, to get the recent posts from feeds in the list. It's all very simple, small pieces loosely joined. An illustration that there’s more to feed “reading” than we might think (podcasting is a another form of feed reading that doesn’t look like a feed reader). 
+
+<http://scripting.com/2023/11/16.html#a144450>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-16, from: Dave Winer's Scripting News)
+
+We need something like Black Lives Matter for Jews. Our lives do matter. But our right to continue to live is always up for debate. 
+
+<http://scripting.com/2023/11/16.html#a144441>
+
+---
+
+## Game Boy for giants
+
+date: 2023-11-16, from: Raspberry Pi News (.com)
+
+<p>Warner Skoch has built a fully functioning Raspberry Pi-powered Game Boy for giants, because he is a genius.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/game-boy-for-giants/">Game Boy for giants</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/game-boy-for-giants/>
+
+---
+
+## How Deco.cx, Brazil's top frontend platform, uses Deno Subhosting to move fast and serve their clients' storefronts even faster
+
+date: 2023-11-16, updated: 2023-11-16, from: Deno blog
+
+Building on top of an all Deno stack unlocks a simple, modern developer experience for Deco.cx's developer platform while maintaining high PageSpeed scores. 
+
+<https://deno.com/blog/deco-cx-subhosting-serve-their-clients-storefronts-fast>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2023-11-16, from: Miguel de Icaza Mastondon feed)
+
+<p>On my Godot/Editor iPad prototype:</p><p>I am running into too many rough edges, the need for bandaids is too large, and I think people would hate using it in practice.</p><p>Rather than bridging with a universe of hacks the Godot UI with iOS, I am thinking: rewrite the shell entirely in SwiftUI and call into the editor core</p> 
+
+<https://mastodon.social/@Migueldeicaza/111420630632270576>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2023-11-16, from: Miguel de Icaza Mastondon feed)
+
+<p>My 10yo son yesterday:</p><p>“We created a chat group for the whole grade, we have like 30 people there.  It’s crazy”</p><p>Me: what did you do about the kids with androids?  Are they there?</p><p>Him: no.   We just didn’t add them.</p><p>This wasn’t a blue vs green bubble split, just a FaceTime-abled split.  They jump on massive conference calls to play games.</p> 
+
+<https://mastodon.social/@Migueldeicaza/111420578202885170>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-16, from: Dave Winer's Scripting News)
+
+BTW, Bluesky has excellent RSS 2.0 support. Here's <a href="https://rss.firesky.tv/?filter=from:scripting.com">my feed</a> on Bluesky. You can hook that up to any feed reader, obviously. But think about it, this is something new. 
+
+<http://scripting.com/2023/11/16.html#a135746>
+
+---
+
+## Leaving Authentication Credentials in Public Code
+
+date: 2023-11-16, updated: 2023-11-16, from: Bruce Schneier blog
+
+<p>Interesting <a href="https://arstechnica.com/security/2023/11/developers-cant-seem-to-stop-exposing-credentials-in-publicly-accessible-code/">article</a> about a surprisingly common vulnerability: programmers leaving authentication credentials and other secrets in publicly accessible software code:</p>
+<blockquote><p>Researchers from security firm GitGuardian this week <a href="https://blog.gitguardian.com/uncovering-thousands-of-unique-secrets-in-pypi-packages/">reported</a> finding almost 4,000 unique secrets stashed inside a total of 450,000 projects submitted to PyPI, the official code repository for the Python programming language. Nearly 3,000 projects contained at least one unique secret. Many secrets were leaked more than once, bringing the total number of exposed secrets to almost 57,000...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2023/11/leaving-authentication-credentials-in-public-code.html>
+
+---
+
+## Celebrating the community: St Joseph’s Secondary School
+
+date: 2023-11-16, from: Raspberry Pi (.org)
+
+<p>In our series of community stories, we celebrate some of the amazing young people and educators who are using their passion for technology to create positive change in the world around them.&#160; In our latest story, we’re sharing the inspiring journey of St Joseph’s Secondary School in Rush, Ireland. Over the past few years, the&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/celebrating-the-community-st-josephs/">Celebrating the community: St Joseph’s Secondary School</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/celebrating-the-community-st-josephs/>
+
+---
+
+## Personal software
+
+date: 2023-11-16, from: Alex Schroeder's Blog
+
+<h1>Personal software</h1>
+
+<p>A few days ago, I was wondering about people writing the software for their personal site – a blog or a wiki or a digital garden or a Zettelkasten – running software the authors wrote themselves or got from a friend. As it turns out, a few people sent me their links and so I&rsquo;ve started a collection called <a href="https://transjovian.org/view/web-sites/index">The text and the code go hand in hand</a>.</p>
+
+<p>The following is a copy of the intro to the collection.</p>
+
+<p>Sometimes I hear of “opinionated” software. That is, software which has a strong vision of how to do a thing. If you like it, use it. If you don’t, then don’t. But what happens if the software turns out to be something the author of a site wrote for themselves? It’s more than opinionated. It’s personal.</p>
+
+<p>This website presents a number of sites and the tools they use to create and update them.</p>
+
+<p>If you’re wondering why the list is small, the explanation is that personal tools are not tidied up and yet we live in a world of software that is written for being shared. In the corporate context, team members, reviewers and successors need to understand the code. In the private world, public code is polished in order to reflect well on programmers and their abilities.</p>
+
+<p>But <em>night software</em> is not like that. It’s not written for the day job. It’s not written to see the light of day at all. It’s not written to be looked at and scrutinized by anybody. It’s intimate and personal, it’s messy and buggy. To take a look is to transgress.</p>
+
+<p>And yet, this software offers the unique chance of being the kernel of convivial software: a tool that we can not only learn how to use but that we can disassemble and reassemble. We can imagine little computer clubs discussing our tools, showing how we added this feature or that feature. It is possible because the tools are small.</p>
+
+<p>So if you’re thinking “that stuff is all a huge tangled mess” and “the code generating my website is not for the public…” – then rest assured. This is exactly what I’m trying to show. I remember my first system being a collection of GNU M4 macros and a Makefile and I’d publish it in a heartbeat, if I still had it. That’s how I wrote my GeoCities pages.</p>
+
+<p>I’d love to show the world the unpolished, “just good enough with a number of bugs I know of” solutions. Let me know if you have one.</p>
+
+<p><a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23Programming">#Programming</a></p> 
+
+<https://alexschroeder.ch/view/2023-11-16-personal-software>
+
+---
+
+**@Mike Hukka's Mastodon feed** (date: 2023-11-16, from: Mike Hukka's Mastodon feed)
+
+<p>People talk about &quot;finding your superpower&quot;. I have concluded that my superpower is the ability to go down rabbit holes.</p> 
+
+<https://scholar.social/@mhucka/111417896763256772>
+
+---
+
+## Plastic Waste in the Fuel Tank?
+
+date: 2023-11-16, from: Low-tech magazine
+
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/images/dithers/intro-plastic-waste-in-fuel-tank-gijs-schalkx_dithered.png" alt='Image: This car drives on plastic. Image credit: Gijs Schalkx.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: This car drives on plastic. Image credit: Gijs Schalkx. 
+</figcaption>
+</div>
+</div>
+<h2 id="from-wood-gas-to-plastic-waste">From wood gas to plastic waste</h2>
+<p>During the Second World War, <a href="https://solar.lowtechmagazine.com/2010/01/wood-gas-vehicles-firewood-in-the-fuel-tank/">many motorized vehicles in continental Europe were converted to drive on firewood</a>. <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> That happened as a consequence of the rationing of fossil fuels. Wood gas vehicles were a not-so-elegant alternative to their petrol cousins, but their range was comparable to today&rsquo;s electric vehicles. In Germany alone, around 500,000 wood gas cars, buses, and trucks operated by the end of WWII. An even more cumbersome alternative was the <a href="https://solar.lowtechmagazine.com/2011/11/gas-bag-vehicles/">gas bag vehicle</a>. <sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<p>Nowadays, there&rsquo;s much less firewood available than in the 1940s, especially in industrialized regions. So, what would be the solution to the disruption of gasoline or electricity in the Third World War? Dutch artist <a href="https://gijsschalkx.nl">Gijs Schalkx</a> found another fuel supply, which is abundant: plastic waste. The production of plastics only started in the 1950s, after the Second World War. Since then, plastic has become an increasingly popular material, growing to a global annual production of 460 million metric tons in 2019 – twice as much as in 2000 and eight times as much as in 1976. <sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup><sup id="fnref:4"><a href="#fn:4" class="footnote-ref" role="doc-noteref">4</a></sup></p>
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/images/dithers/burning.gijs-schalkx_dithered.png" alt='Image: Diesel production on the roof. Image credit: Gijs Schalkx.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Diesel production on the roof. Image credit: Gijs Schalkx. 
+</figcaption>
+</div>
+</div>
+<p>Plastics are made from fossil fuels, and the process can be turned around. Gijs Schalkx converted an abandoned Volvo 240 to run on diesel that he makes from the plastic waste he collects. The “de-refinery” converts plastic waste back into fuel and is installed on the luggage carrier of the car, making the vehicle independent of the fossil fuel infrastructure. The plastic waste is heated in a boiler to about 700 degrees Celsius, after which it evaporates. The gas is then cooled down, and turns into a diesel-like liquid one hour later. Gijs collects it in plastic bottles – themselves the raw material for the diesel they contain. The fuel looks like Coca-Cola – one of the largest producers of plastic waste.</p>
+<h2 id="how-far-can-we-drive-on-plastic-waste">How far can we drive on plastic waste?</h2>
+<p>Making fuel can happen while the car drives, but Gijs has kept the two activities separate for safety reasons. At a speed of 80 km/u, his Volvo 240 drives a distance of 7 kilometres per kilogram of plastic (which corresponds to 14 kg of plastic per 100 km driven). That includes the fuel used to heat up the plastic waste on the roof (1 kg of plastic gives 0.5 liter of diesel). Plastic waste is a rather voluminous material, and it takes several garbage bags full of plastic waste to make one liter of fuel. Schalkx plans to use a small shredder to reduce the volume of the plastic waste he collects, but for now he relies on a supply of discarded plastic granulate from a neighbour, consisting of PET and HDPE.</p>
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/images/dithers/gijs-schalkx-on-roof-volvo_dithered.png" alt='Image: Gijs Schalkx adds plastic waste to the de-refinery. Image credit: Gijs Schalkx.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Gijs Schalkx adds plastic waste to the de-refinery. Image credit: Gijs Schalkx. 
+</figcaption>
+</div>
+</div>
+<p>How far could we drive if we would convert all plastic waste into fuel? The Netherlands produced roughly 1,650 kiloton of plastic waste in 2017 (1,650,000,000 kg), enough to drive 11.55 billion km (11,550,000,000 km). <sup id="fnref:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup> That corresponds to about 1/10th of kilometers driven by all passenger cars in the Netherlands in 2021 (114.3 billion km). <sup id="fnref:6"><a href="#fn:6" class="footnote-ref" role="doc-noteref">6</a></sup> On a smaller scale, the average passenger vehicle in the Netherlands drives 12,000 km per year, requiring each driver and their passengers to collect 1,714 kg of plastic. On the other hand, even the current amount of plastic waste per capita in the Netherlands (97 kg) would be enough to drive 679 km – perhaps sufficient for those who use their automobile wisely. The amount of plastic waste grows faster than the number of cars so that we could drive increasingly longer distances in the future. <sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup></p>
+<h2 id="how-sustainable-is-driving-on-plastic-waste">How sustainable is driving on plastic waste?</h2>
+<p>Being able to drive a vehicle on plastic waste has benefits in terms of resilience. For example, it could allow medics to operate ambulances without a regular fuel supply in a war zone. However, how does a vehicle driven on plastic waste performs in times of peace? After all, plastic waste is a huge problem, and Gijs Schalkx’s car gets rid of it. With less than 10% of plastic waste recycled worldwide, would it make sense to encourage people to convert their vehicles to run on diesel oil made of plastic waste? Sure, it would be a more affordable alternative to electric cars, but what about the carbon emissions?</p>
+<p>On the one hand, the embodied carbon emissions of the Volvo 240 are almost zero: Gijs found most components – including the car itself – in the dump, others on the second-hand market. <sup id="fnref:8"><a href="#fn:8" class="footnote-ref" role="doc-noteref">8</a></sup> In contrast, manufacturing new vehicles – especially electric ones – adds a significant carbon footprint before they drive their first kilometer. They also need an extensive infrastructure to produce and distribute fuel and electricity, adding more carbon emissions. In contrast, the Volvo has its fuel infrastructure on the roof, built from scrap.</p>
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/images/dithers/gijs-schalkx-volvo-smiles_dithered.png" alt='Image: Gijs Schalkx in his car. The design is a nod to wood gas cars built by other Dutchmen, Dutch John and Joost Conijn. Image credit: Frank Hanswijk.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Gijs Schalkx in his car. The design is a nod to wood gas cars built by other Dutchmen, Dutch John and Joost Conijn. Image credit: Frank Hanswijk. 
+</figcaption>
+</div>
+</div>
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/images/dithers/dashboard-volvo-frank-hanswijk_dithered.png" alt='Image: The interior of the car. Image credit: Frank Hanswijk.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: The interior of the car. Image credit: Frank Hanswijk. 
+</figcaption>
+</div>
+</div>
+<p>On the other hand, the CO2-emissions from the fuel production and the fuel combustion are not praiseworthy. First, there is the burning of plastic on the roof of the car. Making 1 liter of diesel requires the burning of 1 kg of plastic, which results in 2-2.7 kg carbon emissions. <sup id="fnref:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup> Second, there is the combustion of the diesel fuel while driving, which emits 2.7 kg of carbon dioxide per liter. <sup id="fnref:10"><a href="#fn:10" class="footnote-ref" role="doc-noteref">10</a></sup> Together, that becomes 4.7 to 5.4 kg CO2 per liter. Consequently, with a 14:1 fuel economy, the Volvo emits 65.8 to 75.6 kg of greenhouse gases per 100 km.</p>
+<p>In contrast, the emissions of the average fossil fuel powered car in Europe amount to 25.8 kg/100 km, including crude oil production, fuel refining and vehicle manufacturing. <sup id="fnref:11"><a href="#fn:11" class="footnote-ref" role="doc-noteref">11</a></sup> The emissions of a small electric car like the Nissan Leaf amount to 10.9 kg/100km in Europe, including the emissions of the fuel that is burned to produce the electricity. <sup id="fnref1:11"><a href="#fn:11" class="footnote-ref" role="doc-noteref">11</a></sup> The Volvo thus emits 2.5 times more CO2 than the average fossil fuel powered car in Europe, and 7 times more than a small electric car. The difference will be somewhat smaller, because the data for the other cars do not include the emissions for building the oil and power infrastructure. However, this is unlikely to tip the balance.</p>
+<p>There are several reasons for the high carbon emissions. First, fuel production by burning plastic on the roof is four times more carbon intensive than producing fuel from crude oil in a refinery. <sup id="fnref:12"><a href="#fn:12" class="footnote-ref" role="doc-noteref">12</a></sup> Second, the Volvo dates from 1980, when cars had lower fuel economy. Gijs Schalkx: &ldquo;Hypothetically, you could convert a newer car to drive on plastic waste and have much lower carbon emissions. Likewise, the de-refinery is one of the first of its kind and could be made more efficient by real engineers. Oil refineries have been developped for more than 100 years. However, newer cars have proprietary electronic motor controls that prevent using alternative fuels.&rdquo;</p>
+<h2 id="externalizing-pollution">Externalizing pollution</h2>
+<p>Carbon emissions are not the only worry. Because of the chemicals added to plastic, burning it to make fuel creates a lot of nasty air pollution. Nobody in their right mind will propose a switch to cars fuelled by plastic waste. However, it is instructive to examine the motives behind this unanimous conclusion. Much of the plastic waste that the Volvo 240 burns burns anyways. Not in cars but incinerators. That is the case for 44% of plastic waste in Europe. <sup id="fnref:13"><a href="#fn:13" class="footnote-ref" role="doc-noteref">13</a></sup> That plastic waste burns to produce electricity, which can then charge electric cars. How is that more sustainable than burning plastic on the roof of your car?</p>
+<div class="article-img  vertical">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/images/dithers/derefinery-gijs-schalkx-portrait_dithered.png" alt='Image: Burning plastic. Image credit: Gijs Schalkx.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Burning plastic. Image credit: Gijs Schalkx. 
+</figcaption>
+</div>
+</div>
+<p>The carbon emissions are the same. So is the air pollution, although it’s easier to put a flue gas scrubber on thousands of incinerators than on millions of cars. The main difference is that burning plastic waste in incinerators to power electric cars allows many of us to <em>externalize</em> the side effects of car driving. An incinerator can be (and always is) located in a poor neighbourhood, where it causes high incidences of cancer and other health problems in spite of air pollution control. Meanwhile, it produces electricity that charges electric cars which drive around low emission zones in well-to-do neighbourhoods.</p>
+<h2 id="internalizing-pollution">Internalizing pollution</h2>
+<p>In contrast, Schalkx’s Volvo <em>internalizes</em> all the side effects of driving automobiles. The car is not a pleasure to drive, at least not regularly. It is dirty. Its interior stinks of plastic, which cannot be healthy – Gijs keeps the car windows open no matter the weather. Furthermore, he needs to spend a lot of time collecting plastic and making fuel, and all these disadvantages make him think twice before he gets behind the wheel. It’s unlikely that Schalkx will drive 12,000 km per year, and so, ultimately, he will produce less pollution than the drivers of more sustainable-looking cars that face none of these problems.</p>
+<p>Somehow, the Dutch authorities, who are not known for their permissivity, officially approved the car after inspection. Schalkx drives tax-free and – thanks to his car being an oldtimer – can enter low-emission zones, where he parks alongside the latest electric SUV. Justice is not yet out of this world.</p>
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/images/dithers/trunk-volvo-240_dithered.png" alt='Image: Plastic fuel bottles. Image credit: Kris De Decker.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Plastic fuel bottles. Image credit: Kris De Decker. 
+</figcaption>
+</div>
+</div>
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/images/dithers/plastic-fuel-gijs-schalkx_dithered.png" alt='Image: Part of the de-refinery on the roof, showing the air blower for the oil burner. It was made from an old heater fan from the Volvo. Image credit: Gijs Schalkx.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Part of the de-refinery on the roof, showing the air blower for the oil burner. It was made from an old heater fan from the Volvo. Image credit: Gijs Schalkx. 
+</figcaption>
+</div>
+</div>
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/images/dithers/stookketel_dithered.png" alt='Image: Part of the de-refinery on the roof, showing the Ursutz-style oil burner that stokes the refinery hot. Image credit: Gijs Schalkx.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Part of the de-refinery on the roof, showing the Ursutz-style oil burner that stokes the refinery hot. Image credit: Gijs Schalkx. 
+</figcaption>
+</div>
+</div>
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/images/dithers/recycled-steel_dithered.png" alt='Image: Gijs Schalkx repaired the car with scrap steel. Image credit: Gijs Schalkx.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Gijs Schalkx repaired the car with scrap steel. Image credit: Gijs Schalkx. 
+</figcaption>
+</div>
+</div>
+<div class="article-img ">
+<figure data-imgstate="dither">
+<img src="https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/images/dithers/door-interior_dithered.png" alt='Image: Gijs Schalkx stripped the car down to its essentials. Image credit: Kris De Decker.' loading="lazy"/></figure>
+<figcaption class="caption">
+ Image: Gijs Schalkx stripped the car down to its essentials. Image credit: Kris De Decker. 
+</figcaption>
+</div>
+</div>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Woodgas vehicles: firewood in the fuel tank, Kris De Decker, Low-tech Magazine, 2010. <a href="https://solar.lowtechmagazine.com/2010/01/wood-gas-vehicles-firewood-in-the-fuel-tank/">https://solar.lowtechmagazine.com/2010/01/wood-gas-vehicles-firewood-in-the-fuel-tank/</a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>Gas Bag Vehicles, Kris De Decker, Low-tech Magazine, 2011. <a href="https://solar.lowtechmagazine.com/2011/11/gas-bag-vehicles/">https://solar.lowtechmagazine.com/2011/11/gas-bag-vehicles/</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p><a href="https://www.statista.com/statistics/282732/global-production-of-plastics-since-1950/">https://www.statista.com/statistics/282732/global-production-of-plastics-since-1950/</a> &#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:4">
+<p><a href="https://www.oecd.org/environment/plastic-pollution-is-growing-relentlessly-as-waste-management-and-recycling-fall-short.htm">https://www.oecd.org/environment/plastic-pollution-is-growing-relentlessly-as-waste-management-and-recycling-fall-short.htm</a>&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:5">
+<p><a href="https://ce.nl/publicaties/plasticgebruik-en-verwerking-van-plastic-afval-in-nederland/">https://ce.nl/publicaties/plasticgebruik-en-verwerking-van-plastic-afval-in-nederland/</a>&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:6">
+<p><a href="https://www.cbs.nl/nl-nl/visualisaties/verkeer-en-vervoer/verkeer/verkeersprestaties-personenautos#:~:text=Van%20de%20114%2C3%20miljard,overige%20kilometers%20werden%20zakelijk%20gereden">https://www.cbs.nl/nl-nl/visualisaties/verkeer-en-vervoer/verkeer/verkeersprestaties-personenautos#:~:text=Van%20de%20114%2C3%20miljard,overige%20kilometers%20werden%20zakelijk%20gereden</a>.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:7">
+<p>The plastics industry now consumes 14% of all oil production, compared to only 4% in 2012. By 2050, the share of the plastics industry is forecasted to be 20% of oil production. Sources: <a href="https://e360.yale.edu/features/the-plastics-pipeline-a-surge-of-new-production-is-on-the-way">https://e360.yale.edu/features/the-plastics-pipeline-a-surge-of-new-production-is-on-the-way</a> &amp; <a href="https://www.reuters.com/business/environment/big-oils-plastic-boom-threatens-uns-historic-pollution-pact-2022-03-04/">https://www.reuters.com/business/environment/big-oils-plastic-boom-threatens-uns-historic-pollution-pact-2022-03-04/</a> &amp; <a href="https://oilprice.com/Energy/Energy-General/How-Much-Crude-Oil-Does-Plastic-Production-Really-Consume.html">https://oilprice.com/Energy/Energy-General/How-Much-Crude-Oil-Does-Plastic-Production-Really-Consume.html</a> See also <sup id="fnref1:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>&#160;<a href="#fnref:7" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:8">
+<p>New parts in the car are fuel hoses, coolant hoses, paint, tyres, brake lines and brake pads. Most of these were required to pass vehicle inspection.&#160;<a href="#fnref:8" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:9">
+<p>Rubio-Domingo, Gabriela, et al. &ldquo;Making Plastics Emissions Transparent.&rdquo; COMET. Last modified February 2022. https://ccsi. columbia. edu/sites/default/files/content/COMET-making-plastics-emissions-transparent. Pdf (2022). <a href="https://ccsi.columbia.edu/sites/default/files/content/COMET-making-plastics-emissions-transparent.pdf">https://ccsi.columbia.edu/sites/default/files/content/COMET-making-plastics-emissions-transparent.pdf</a>.&#160;<a href="#fnref:9" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:10">
+<p><a href="https://iopscience.iop.org/article/10.1088/1742-6596/2307/1/012025/pdf">https://iopscience.iop.org/article/10.1088/1742-6596/2307/1/012025/pdf</a>&#160;<a href="#fnref:10" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:11">
+<p><a href="https://www.carbonbrief.org/factcheck-how-electric-vehicles-help-to-tackle-climate-change/">https://www.carbonbrief.org/factcheck-how-electric-vehicles-help-to-tackle-climate-change/</a>&#160;<a href="#fnref:11" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:11" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:12">
+<p><a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC85326">https://publications.jrc.ec.europa.eu/repository/handle/JRC85326</a>&#160;<a href="#fnref:12" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:13">
+<p><a href="https://www.oecd.org/environment/plastic-pollution-is-growing-relentlessly-as-waste-management-and-recycling-fall-short.htm#:~:text=Another%2019%25%20is%20incinerated%2C%2050,environments%2C%20especially%20in%20poorer%20countries">https://www.oecd.org/environment/plastic-pollution-is-growing-relentlessly-as-waste-management-and-recycling-fall-short.htm#:~:text=Another%2019%25%20is%20incinerated%2C%2050,environments%2C%20especially%20in%20poorer%20countries</a>.&#160;<a href="#fnref:13" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div> 
+
+<https://solar.lowtechmagazine.com/2023/11/plastic-waste-in-the-fuel-tank/>
+
+---
+
+## Toward Federation and an Open Network
+
+date: 2023-11-16, from: Bluesky web news
+
+One year ago, the first post on Bluesky was created. Now, we're working toward federation and a truly open network. 
+
+<https://blueskyweb.xyz/blog/11-15-2023-toward-federation>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2023-11-15, from: Miguel de Icaza Mastondon feed)
+
+<p>My good friend <span class="h-card" translate="no"><a href="https://mastodon.acm.org/@djmax" class="u-url mention">@<span>djmax</span></a></span> is hiring engineering managers, data scientist and typescript developers in Boston.</p><p>He is awesome to work for, check this out: <a href="https://jobs.lever.co/sesame/cafb2d62-d7b8-4bb0-b1f8-b23ce2b132ea" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">jobs.lever.co/sesame/cafb2d62-</span><span class="invisible">d7b8-4bb0-b1f8-b23ce2b132ea</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/111416911550804852>
+
+---
+
+## Search Suggestion Menus in AppKit
+
+date: 2023-11-15, from: Michael Tsai
+
+John Brayton: Even though Safari, Mail, and Finder implement search suggestion menus, there is no standard AppKit mechanism for providing them in AppKit. Popping up an NSMenu does not work because the search field cannot receive keystrokes while the menu is displayed. Interestingly there is a good mechanism for providing search suggestion menus in SwiftUI, [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/15/search-suggestion-menus-in-appkit/>
+
+---
+
+## Xcode 15 Logs nil As an Empty String
+
+date: 2023-11-15, from: Michael Tsai
+
+Jeff Johnson: [The] functions os_log and NSLog now log nil as an empty string. The previous behavior, going back forever as far as I remember, was to log nil as (null).[&#8230;]I don&#8217;t know whether this is a bug or intended behavior, but it makes debugging our apps markedly worse, because now there&#8217;s no easy way [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/15/xcode-15-logs-nil-as-an-empty-string/>
+
+---
+
+## Kindle for Mac 7.0
+
+date: 2023-11-15, from: Michael Tsai
+
+Filipe Esp&#243;sito: Amazon launched an official Kindle app for macOS more than eight years ago, allowing Mac users to download and read their ebooks from Amazon&#8217;s platform on their computer. [&#8230;] On Tuesday, the official Kindle app available on the Mac App Store was updated to version 1.40.2. But while the release notes mention that [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/15/kindle-for-mac-7-0/>
+
+---
+
+## Ye Olde Wordle
+
+date: 2023-11-15, from: Status-Q blog
+
+Rose and I have long enjoyed playing Wordle &#8211; we do it each evening after dinner, taking alternate lines, and then move on to do the same with Quordle.  (Quordle needs a bit more screen real-estate, so I recommend a decent-size iPad at least.) Anyway, I was pondering the idea of more literary variations.  Suppose <a class="more-link excerpt-link" href="https://statusq.org/archives/2023/11/15/11808/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2023/11/15/11808/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2023-11-15, from: Miguel de Icaza Mastondon feed)
+
+<p>This is what I worked on during my last two years at Microsoft.   </p><p>Finally public!</p><p><a href="https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">theverge.com/2023/11/15/239603</span><span class="invisible">45/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/111415954222582634>
+
+---
+
+## Apple Extends Free Emergency SOS via Satellite for iPhone 14 Users for Another Year
+
+date: 2023-11-15, from: TidBITS blog
+
+Apple promised its Emergency SOS via satellite service would be free for two years when it launched for the iPhone 14 lineup in November 2022. The company has now given itself more time to figure out how to charge by extending free service through November 2025.<p style="margin-top: 3em"><a href="https://www.macvoices.com/macvoices-22189-adam-engst-discusses-apple-announcements-at-limac-1/"><picture><source srcset="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-640x200_v1.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1.png" srcset="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1.png 1456w, https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1-640x79.png 640w" alt="Press Play to hear TidBITS publisher Adam Engst and MacVoices host Chuck Joiner talk to the Long Island Mac User Group about the details around the iPhone 14, Apple Watch Ultra, and other September releases."></picture></a></p> 
+
+<https://tidbits.com/2023/11/15/apple-extends-free-emergency-sos-via-satellite-for-iphone-14-users-for-another-year/>
+
+---
+
+## New SSH Vulnerability
+
+date: 2023-11-15, updated: 2023-11-15, from: Bruce Schneier blog
+
+<p>This is <a href="https://arstechnica.com/security/2023/11/hackers-can-steal-ssh-cryptographic-keys-in-new-cutting-edge-attack/">interesting</a>:</p>
+<blockquote><p>For the first time, researchers have demonstrated that a large portion of cryptographic keys used to protect data in computer-to-server SSH traffic are vulnerable to complete compromise when naturally occurring computational errors occur while the connection is being established.</p>
+<p>[&#8230;]</p>
+<p>The vulnerability occurs when there are errors during the signature generation that takes place when a client and server are establishing a connection. It affects only keys using the RSA cryptographic algorithm, which the researchers found in roughly a third of the SSH signatures they examined. That translates to roughly 1 billion signatures out of the 3.2 billion signatures examined. Of the roughly 1 billion RSA signatures, about one in a million exposed the private key of the host...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2023/11/new-ssh-vulnerability.html>
+
+---
+
+## Some spillover links from CAE #32 + personal updates
+
+date: 2023-11-15, from: Curious about everything blog
+
+That's right, there's more. 
+
+<https://jodiettenberg.substack.com/p/thirty-two-spillover>
+
+---
+
+## Gary Kildall Chats with Computer Language Magazine
+
+date: 2023-11-15, from: Computer ads from the Past
+
+The man behind CP/M talks about his operating system and programming languages 
+
+<https://computeradsfromthepast.substack.com/p/gary-kildall-chats-with-computer>
+
+---
+
+## Elevating the developer experience on Windows with new AI tools and productivity tools
+
+date: 2023-11-15, from: Windows Developer Blog
+
+<p>With the latest Windows 11 update on Sept. 26 we released a host of developer features as the core component of the Windows OS with an intent to make every developer more productive on Windows. Today we are excited to announce Windows AI Studio, a ne</p>
+<p>The post <a rel="nofollow" href="https://blogs.windows.com/windowsdeveloper/2023/11/15/elevating-the-developer-experience-on-windows-with-new-ai-tools-and-productivity-tools/">Elevating the developer experience on Windows with new AI tools and productivity tools</a> appeared first on <a rel="nofollow" href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<https://blogs.windows.com/windowsdeveloper/2023/11/15/elevating-the-developer-experience-on-windows-with-new-ai-tools-and-productivity-tools/>
+
+---
+
+## Announcing preview support for Llama 2 in DirectML
+
+date: 2023-11-15, from: Windows Developer Blog
+
+<p>At Inspire this year we <a href="https://blogs.microsoft.com/blog/2023/07/18/microsoft-and-meta-expand-their-ai-partnership-with-llama-2-on-azure-and-windows/">talked</a> about how developers will be able to run Llama 2 on Windows with DirectML and t</p>
+<p>The post <a rel="nofollow" href="https://blogs.windows.com/windowsdeveloper/2023/11/15/announcing-preview-support-for-llama-2-in-directml/">Announcing preview support for Llama 2 in DirectML</a> appeared first on <a rel="nofollow" href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<https://blogs.windows.com/windowsdeveloper/2023/11/15/announcing-preview-support-for-llama-2-in-directml/>
+
+---
+
+## Free of charge and without embargo: How to meet the SNSF’s new open access requirements using the Rights Retention Strategy
+
+date: 2023-11-15, from: ETH Zurich Research Archives
+
+Coffee Lecture, 22 November 2023, 3.15 &#8211; 3.30 pm. Read more<img src="https://analytics.library.ethz.ch/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A%2F%2Fwww.rc-blog.ethz.ch%2Fen%2Ffree-of-charge-and-without-embargo-how-to-meet-the-snsfs-new-open-access-requirements-using-the-rights-retention-strategy%2F&amp;action_name=Free+of+charge+and+without+embargo%3A+How+to+meet+the+SNSF%26%238217%3Bs+new+open+access+requirements+using+the+Rights+Retention+Strategy&amp;urlref=https%3A%2F%2Fwww.rc-blog.ethz.ch%2Fen%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" /> 
+
+<https://www.rc-blog.ethz.ch/en/free-of-charge-and-without-embargo-how-to-meet-the-snsfs-new-open-access-requirements-using-the-rights-retention-strategy/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-15, from: Dave Winer's Scripting News)
+
+<a href="https://github.com/scripting/feedlandSupport/issues/229">WordPress signin</a> is now the default for feedland.org. I'm looking forward to being able to do some interesting things in the future with the WordPress connection. 
+
+<http://scripting.com/2023/11/15.html#a152443>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-15, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/07/28/marshmallowManFromGhostbusters.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="http://textcasting.org/">textcasting</a> and ActivityPub are not mutually exclusive. It would be great if an ActivityPub instance would also support the features outlined in the Textcasting <a href="http://scripting.com/images/2023/07/28/marshmallowManFromGhostbusters.png">doc</a>. It's equally possible that a non-ActivityPub app could support Textcasting. It's like saying you can send an MP3 over email and over SMS. Textcasting is the MP3. As the Textcasting doc says I'm interested in supporting writers. Really if we work on it, we <i>can</i> have a great writing and reading environment. 
+
+<http://scripting.com/2023/11/15.html#a143957>
+
+---
+
+## What makes a Linux distro light?
+
+date: 2023-11-15, from: Liam on Linux
+
+This is an extremely broad question and it needs a tonne of context to give an unambiguous answer.<div data-testid="comment" class="_3cjCphgls6DH-irkVaA0GM "><div class="_292iotee39Lmt0MkQZ2hPV RichTextJSON-root"><ul class="_33MEMislY0GAlB78wL1_CR"><li class="_3gqTEjt4x9UIIpWiro7YXz"><p class="_1qeIAgB0cPwnLhDF9XSiJM">For what role?</p><ul class="_33MEMislY0GAlB78wL1_CR"><li class="_3gqTEjt4x9UIIpWiro7YXz"><p class="_1qeIAgB0cPwnLhDF9XSiJM">Server...</p><ul class="_33MEMislY0GAlB78wL1_CR"><li class="_3gqTEjt4x9UIIpWiro7YXz"><p class="_1qeIAgB0cPwnLhDF9XSiJM">Web server?</p></li><li class="_3gqTEjt4x9UIIpWiro7YXz"><p class="_1qeIAgB0cPwnLhDF9XSiJM">File server?</p></li><li class="_3gqTEjt4x9UIIpWiro7YXz"><p class="_1qeIAgB0cPwnLhDF9XSiJM">Print server?</p></li><li class="_3gqTEjt4x9UIIpWiro7YXz"><p class="_1qeIAgB0cPwnLhDF9XSiJM">Router/firewall?</p></li></ul></li><li class="_3gqTEjt4x9UIIpWiro7YXz"><p class="_1qeIAgB0cPwnLhDF9XSiJM">Desktop?</p><ul class="_33MEMislY0GAlB78wL1_CR"><li class="_3gqTEjt4x9UIIpWiro7YXz"><p class="_1qeIAgB0cPwnLhDF9XSiJM">General purpose desktop?</p></li><li class="_3gqTEjt4x9UIIpWiro7YXz"><p class="_1qeIAgB0cPwnLhDF9XSiJM">Gaming desktop?</p></li><li class="_3gqTEjt4x9UIIpWiro7YXz"><p class="_1qeIAgB0cPwnLhDF9XSiJM">Emergency recovery desktop?</p></li><li class="_3gqTEjt4x9UIIpWiro7YXz"><p class="_1qeIAgB0cPwnLhDF9XSiJM">App-specific desktop?</p></li></ul></li></ul></li></ul><p class="_1qeIAgB0cPwnLhDF9XSiJM">Alpine is lightweight because almost nothing is pre-configured for you and you must DIY... <em class="_7s4syPYtk5hfUIjySXcRE">but</em>  saying that its origins are as a router distro repurposed to be  general-purpose. It uses a different libc, which is a huge change. Every  single app has to be recompiled to work with musl libc instead of  glibc.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">Open_WRT is lightweight because it's dedicated to running on routers.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">CBL Mariner is lightweight because it's only for certain niche server VMs.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">antiX  is lightweight because it's a general-purpose graphical desktop but  ruthlessly purged of heavyweight components, all replaced with the  smallest lightest-weight alternatives.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">Raspberry  Pi Desktop is lightweight because it's an x86 version of a brutally  pared-down Debian originally meant for a single-core Arm computer with  512MB of RAM.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">Bodhi Linux is  lightweight because it's Ubuntu but with all the desktop stuff removed,  replaced with a forked old version of a very lightweight window manager  and almost nothing else. Any functionality you want you must install.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">Lots of different answers, lots of different use cases, lots of different strategies.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">This is not a &quot;yes/no&quot; question. It's complex and nuanced.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">Debian  is not lightweight. Its strapline is &quot;the universal operating system&quot;.  It's a Swiss Army knife that can do anything and that's part of its  definition.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">You can make a  lightweight install of it if you know what you're doing but ticking the  box for a lightweight desktop and installing is not doing that.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">Comparison:  you see a lightweight sports motorcycle. It's green. You buy a Harley  and paint it green and say &quot;look mine is a lightweight sports bike now!&quot;</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">Devuan  is just Debian with systemd removed and openrc or sysvinit in its  place. This is not a big sweeping change. It's equivalent to looking at  the sports bike, seeing it has Bridgestone tyres instead of Dunlop, and  swapping the tyres on the Harley to Bridgestone tyres.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">It  is a trivial change compared to a libc change. It's routine maintenance  to change your tyres. You need to do it regularly anyway. It doesn't  need the bike to be rebuilt.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">It's not <em class="_7s4syPYtk5hfUIjySXcRE">easy</em>. It takes hours and&nbsp;skills and tools and so on but it's not sweeping.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">Devuan  has rebuilt a tonne of packages to remove dependencies on systemd and  that's not trivial but it's still Debian. By and large you can download  any Debian package and install it and it'll just work because most  things never interact with the init daemon and it won't make a big  difference.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">A Swiss Army knife  with a different axle that pivots a bit more smoothly and with less  force is still a Swiss Army knife and only a knife expert will be able  to even tell the difference.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">It doesn't make it into a super-slim lightweight knife, like -- I know nothing about knives -- something <a href="https://wildstags.co.uk/products/blaser-lightweight-knife" class="_3t5uN8xUmg0TOwRCOGQEcU" rel="noopener nofollow ugc" target="_blank">like this</a>.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">You  could disassemble a Victorinox and rebuild it into something like that  but it's really hard and an amateur will end up with a broken pile of  bits.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">So the fact that people  build lightweight distros out of Debian doesn't mean Debian is  lightweight or that you can do it yourself. Think about it: if it was  easy, lightweight remixes wouldn't exist! There'd be no point.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">How do you tell if it's lightweight or not?</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">Look at how big the ISO file you download is.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">4-5GB is big.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">2-3GB is typical.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">&lt;2GB is small.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">~1GB is tiny.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">Run <code class="_34q3PgLsx9zIU5BiSOjFoM">df -h</code> and look at how much disk space it takes. Much the same applies.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">Run <code class="_34q3PgLsx9zIU5BiSOjFoM">free -h</code> on a newly-booted machine and look at how much RAM it's using.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">200MB is light in 2023.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">Under 0.5GB is good.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">0.75GB is OK.</p><p class="_1qeIAgB0cPwnLhDF9XSiJM">Over 1GB is typical.</p></div></div><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=89980" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<https://liam-on-linux.dreamwidth.org/89980.html>
+
+---
+
+## My gravestone visualized
+
+date: 2023-11-15, from: Dave Winer's Scripting News
+
+<p>I love that ChatGPT makes it possible to create visualizations for ideas that previously I could only present in words. </p>
+<p>For example, I like to say that when I die my gravestone should say <i>He's Done Digging</i> or something like that, to stand in contrast to my long-lived motto -- <a href="http://scripting.com/2023/07/03/150022.html">Still diggin!</a> I did some writing this morning about <a href="https://www.google.com/search?q=site%3Ascripting.com+Future-Safe+Archives">Future-Safe Archives</a>, and thought to get that as a picture. The piece isn't ready to publish yet, but no reason not to share the illustration. So here it is.. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2023/11/15/headstone.png"></center>Uncle Davy, no longer diggin.</div></p>
+<p>PS: No need for an actual gravestone. Online is fine. Hopefully we'll figure out how to make such things persist before it's needed. <span class="spOldSchoolEmoji">😄</span></p>
+ 
+
+<http://scripting.com/2023/11/15/135527.html?title=myGravestoneVisualized>
+
+---
+
+## Mariposa: a giant Raspberry Pi-controlled LED butterfly
+
+date: 2023-11-15, from: Raspberry Pi News (.com)
+
+<p>LED sculptor Christopher Schardt created Mariposa, a giant butterfly sculpture with 39,000 LEDs that provides Raspberry Pi-controlled light and music choreography.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/mariposa-a-giant-raspberry-pi-controlled-led-butterfly/">Mariposa: a giant Raspberry Pi-controlled LED butterfly</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/mariposa-a-giant-raspberry-pi-controlled-led-butterfly/>
+
+---
+
+## TIL that some people can't remember the difference between the 386 & 486
+
+date: 2023-11-15, from: Liam on Linux
+
+I suppose it was a long time ago.<br /><br />So...<br /><br /><span class="commtext c00"><p>The 80386DX was the first x86 CPU to be 32-bit and have an on-chip MMU. And nothing else: no cache, no FPU.</p><p>The FPU was a discrete part, the 80387DX.</p><p>Because  OS/2 1.x didn't support the 80386, and so couldn't run DOS apps well,  and so flopped, the 16-bit 80286 kept selling well. It ran DOS fast and  it could run Windows 2/286 and Windows 3 in Standard Mode which was good  enough. It could only address 16MB of RAM but that was fantastically  expensive <i>and</i> it was more than enough for DOS and Windows 3.</p><p>So,  because DOS still ruled, Intel made a cost-reduced version of the  80386DX, the 80386SX. This had a 16-bit data bus, so it could use  cheaper 16-bit motherboards and 16-bit wide RAM, still limited to a max  of 16MB. Still enough.</p><p>That needed a maths copro for hardware floating point, too: a different part, the 80387SX.</p><p>Then  Windows 3 came along, which was also good enough, and started a move in  PC apps to GUIs. Windows 3.1 (1992) was better still.</p><p>So Intel  had a 2nd go at the 32-bit chip market with the 80486, marketed as the  &quot;486&quot;. This integrated a better 386DX-compatible CPU core with a few  extra instructions, complete with MMU, <i>plus</i> a 387-style FPU, plus a small amount of L1 cache, all onto one die.</p><p>But it was expensive, and didn't sell well.</p><p>Also,  all the 3rd party x86 makers leapt on the bandwagon and integrated the  extra instructions into 16-bit bus 386SX compatible chips and branded  them as 486s: the Cyrix and IBM &quot;486slc&quot; for instance. This ate into  sales of the real 486.</p><p>So Intel came up with an ethically very  dodgy borderline scam: it shipped 486s with the FPU disabled, calling  them the &quot;486DX&quot; to reuse the branding that distinguished the 32-bit-bus  models of 386 from the 16-bit-bus.</p><p>People don't understand stuff like bus widths or part numbers, as your post demonstrates, and I mean no offense. They don't.</p><p>So now there was a new model of 486, the 486SX with a disabled FPU, and the 486DX with it still turned on.</p><p>The  &quot;SX&quot; model needed a new motherboard with a 2nd CPU socket that accepted  a &quot;floating point co-processor&quot;, called the &quot;487&quot;, which was nothing of  the kind. The &quot;SX&quot; was a lie and so was the &quot;487 copro&quot;. The 487 was a  2nd complete 486 chip that disabled the original and took over.</p><p>But it reused the older branding, which is what you've remembered.</p><p>Later,  briefly, Intel made a cheaper cost-reduced 486SX with a smaller die  with no FPU present, but not many of them. The clock-doubled 486DX2 took  over quite quickly and killed the 486DX <i>and</i> 486SX market.</p><p>Some  commentators speculated that the 486DX vs 486SX marketing thing allowed  Intel to sell defective 486s in which the FPU didn't work but if it did  that was a tiny tiny number: a rounding error.</p><div class="reply"><p><font size="1">                       </font></p></div></span>&nbsp;<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=89795" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<https://liam-on-linux.dreamwidth.org/89795.html>
+
+---
+
+## AI literacy for teachers and students all over the world
+
+date: 2023-11-15, from: Raspberry Pi (.org)
+
+<p>I am delighted to announce that the Raspberry Pi Foundation and Google DeepMind are building a global network of educational organisations to bring AI literacy to teachers and students all over the world, starting with Canada, Kenya, and Romania. Experience AI&#160; We launched Experience AI in September 2022 to help teachers and students learn about&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/experience-ai-canada-kenya-romania/">AI literacy for teachers and students all over the world</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/experience-ai-canada-kenya-romania/>
+
+---
+
+## ASCII art in motd
+
+date: 2023-11-15, from: Miek Giebin blog
+
+I wanted a nicer login experience (see image above) when logging into my server.
+For this I used the following sites, tools and steps.
+ https://www.svgrepo.com/ https://asciiart.club/ Little Go program from below  Steps:
+ Search a nice SVG image at &ldquo;svgrepo&rdquo; and save it; Upload it to &ldquo;asciiart&rdquo;, and generate an ASCII art you are happy with; Download the BBCode variant of the image and (if you want colors) run the program to translate [color=#. 
+
+<https://miek.nl/2023/november/15/ascii-art-in-motd/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-15, from: Dave Winer's Scripting News)
+
+I did my 500th Peloton ride today. 
+
+<http://scripting.com/2023/11/14.html#a024109>
+
+---
+
+## .NET 8 released
+
+date: 2023-11-15, from: OS News
+
+With this release, .NET reshapes the way we build intelligent, cloud-native applications and high-traffic services that scale on demand. Whether you’re deploying to Linux or Windows, using containers or a cloud app model of your choice, .NET 8 makes building these apps easier. It includes a set of proven libraries that are used today by the many high-scale services at Microsoft to help you with fundamental challenges around observability, resiliency, scalability, manageability, and more. Integrate large language models (LLMs) like OpenAI’s GPT directly into your .NET app. Use a single powerful component model to handle all your web UI needs with Blazor. Deploy your mobile applications to the latest version of iOS and Android with .NET MAUI. Discover new language enhancements that make your code more concise and expressive with C# 12. It&#8217;s still wild to me to that Microsoft provides detailed installation instructions for .NET for a variety of Linux distributions, down to stuff like Alpine. 
+
+<https://www.osnews.com/story/137845/net-8-released/>
+
+---
+
+## Google Play tightens up rules for Android app developers to require testing, increased app review
+
+date: 2023-11-15, from: OS News
+
+Google today is announcing strengthened protections for Android developers publishing apps to its Google Play store. The changes are a part of Google’s broader efforts at keeping low-quality and unsafe apps out of its app store and off consumers’ devices, which also recently included the launch of a new real-time app scanning feature to combat malicious apps. Today, the company says it will now require new Android developers with personal accounts to test their app with a minimum of 20 people for at least 2 weeks prior to publication. It additionally plans to increase its investment in the app review processes, warning of potential slowdowns in approvals for a small number of apps as these changes roll out. At first glance, this sounds like a good idea &#8211; more testing leads to better applications, is the reasoning &#8211; but it&#8217;s going to be a massive burden for many small indie developers to even find 20 testers. In my experience, it&#8217;s usually the small indie teams or individual developers that make the best applications on Android, while the large, well-known brands release steady streams of garbage. In other words, this is going to disproportionately affect the wrong people. 
+
+<https://www.osnews.com/story/137843/google-play-tightens-up-rules-for-android-app-developers-to-require-testing-increased-app-review/>
+
+---
+
+## Wednesday 15 November, 2023
+
+date: 2023-11-15, from: John Naughton's online diary
+
+Neil McGregor Former Director of the British Museum, photographed in Cambridge in 2017 after a lecture. Quote of the Day “On some great and glorious day the plain folks of the land will reach their heart&#8217;s desire at last, and &#8230; <a href="https://memex.naughtons.org/wednesday-15-november-2023/38813/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-15-november-2023/38813/>
+
+---
+
+## Conversation enders
+
+date: 2023-11-14, from: Manu - I write blog
+
+<p>Years ago I wanted to do a deep dive on Japanese aesthetics and I needed a list of good books to read on the subject. Rather than googling for books, I sent an email to a fellow human being and asked for recommendations.</p>
+<p>I had to wait a few days but what I got in return was something that I could have never google myself and more importantly a new human connection was born, one I still treasure today.</p>
+<p>It's 2023 and I could probably ask the same question to some AI-chat-thingy and it would probably spit out a very comprehensive list of books—that may or may not exist—in 20 seconds. That's fine but it's also a conversation ender.</p> 
+
+<https://manuelmoreale.com/@/page/62VSDoayQ3Rj1hvB>
+
+---
+
+## Cursorless Is Alien Magic From the Future
+
+date: 2023-11-14, from: Michael Tsai
+
+Xe Iaso (via Hacker News): Cursorless is a plugin that integrates with voice control software to let you do AST level code editing with your voice. This is crazy alien magic from the future. [&#8230;] The most magic parts about this are the ideas of destinations and targets when it comes to cursorless inputs. Targets [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/14/cursorless-is-alien-magic-from-the-future/>
+
+---
+
+## On-Crash Backtraces in Swift
+
+date: 2023-11-14, from: Michael Tsai
+
+Alastair Houghton: Prior to Swift 5.9, all you would get when your program fails is a message from the parent process (often the shell) telling you that the child process crashed[&#8230;] [&#8230;] Now, instead of the opaque message above, the result looks something like this[&#8230;] [&#8230;] This new feature greatly improves the on-crash debugging experience [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/14/on-crash-backtraces-in-swift/>
+
+---
+
+## Computers Are Magical; Computers Are Awful
+
+date: 2023-11-14, from: Michael Tsai
+
+Nick Heer: I was reminded of Nikita Prokopov&#8217;s classic post today &#8212; &#8220;People Expect Technology to Suck Because It Actually Sucks&#8221; &#8212; in much the same way I think of it many days but, and especially, today. These are all things which happened today from when I woke up[&#8230;] [&#8230;] None of the problems above [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/14/computers-are-magical-computers-are-awful/>
+
+---
+
+## Google AdSense Changes From CPC to CPM
+
+date: 2023-11-14, from: Michael Tsai
+
+Dan Taylor (via Hacker News): Today, website owners use a combination of direct sales, ad networks and sell-side platforms to sell their ad space, often using multiple technologies simultaneously. This is why we are making two changes: updating AdSense&#8217;s revenue-share structure and moving to paying publishers by impression. These changes will provide a consistent way [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/14/google-adsense-changes-from-cpc-to-cpm/>
+
+---
+
+## Riding the Rails to San Juan Capistrano
+
+date: 2023-11-14, from: Transiting Los Angeles
+
+A train ride to San Juan Capistrano is one of the best day trips you can do from Los Angeles. Find out how to get there and what you can see when you arrive. 
+
+<https://transitinglosangeles.com/2023/11/14/san-juan-capistrano/>
+
+---
+
+## How to add an index to your PDF
+
+date: 2023-11-14, from: Alex Schroeder's Blog
+
+<h1>How to add an index to your PDF</h1>
+
+<blockquote>
+<p>I mean, it&rsquo;s great if you want to write a bunch of Perl scripts. But
+really… do you? Or indeed: Would you rather like to learn Perl or
+LaTeX? 🥶 ❓ 🤷‍♂️ ❓ 🥵</p>
+</blockquote>
+
+<p>I like my Markdown → HTML + CSS → PDF pipeline. For new PDFs of mine,
+I try to use this setup rather than relying on LaTeX. It&rsquo;s true, LaTeX
+documents probably look better in the end. But I don&rsquo;t write enough
+LaTeX at the end of the day. Everything is always tricky to find.
+Packages are hard to pick. I always end up on some StackExchange site
+and nothing is ever simple.</p>
+
+<p>Now, the Markdown → HTML + CSS → PDF pipeline isn&rsquo;t simple, either.
+But it uses HTML and CSS and I use those two more often. I can look at
+the temporary HTML file using my browser.
+When I have questions, I end up on the Mozilla
+Developer Network (MDN) and it&rsquo;s not too bad. It&rsquo;s the kind of bad
+that I&rsquo;m used to.</p>
+
+<p>I&rsquo;m not sure I&rsquo;m doing a great job selling this. Remember how many
+years ago I tried to be objective about it all and concluded that using
+Libre Office would be the most efficient tool.
+You can go back and read the <a href="2010-06-30_LaTeX_vs._Docbook">blog post from 2010</a>. But I guess I got
+burned back in the last millenium when Word 5.1 was new and liked to
+crash, and Open Office was not great either, and Abi Word was too
+limited.</p>
+
+<p>I learned to love Emacs and LaTeX and I don&rsquo;t want to go back
+to those graphical user interfaces.
+Somehow they make it hard to use styles correctly and consistenly.
+So text-based it is!</p>
+
+<p>What follows is a short summary of how the Markdown → HTML + CSS → PDF
+pipeline works.</p>
+
+<p>There are a number of things you need:</p>
+
+<ul>
+<li>a bunch of Markdown files, which you write using your favourite
+text editor</li>
+<li>a program to turn Markdown into HTML; I use
+Python with the Markdown module but any other command line tool would do</li>
+<li>a CSS file to format the HTML generated</li>
+<li>a program to turn HTML and CSS into PDF; the one I use is called
+<code>weasyprint</code></li>
+</ul>
+
+<p>Weasyprint is also written in Python, which shouldn&rsquo;t matter too much
+– except that I have Debian installed and the weasyprint it comes with
+doesn&rsquo;t know how to hyphenate my text, which is bad news when you&rsquo;re
+writing a German text with long words. And what German text doesn&rsquo;t
+have long words? We love smashing words together!</p>
+
+<p>This leads me to an immediate problem that LaTeX solves but that
+weasyprint does not: In German, you can&rsquo;t have ligatures connecting
+parts of a word that are themselves smashed-together words. For
+example, the word Auffahrt (up-drive, also known as Ascension Day)
+consists of the prefix &ldquo;auf&rdquo; and the word &ldquo;fahrt&rdquo; so you can&rsquo;t use the
+ﬀ ligature. There&rsquo;s a LaTeX package for that,
+<a href="https://github.com/micoloretan/selnolig/">selnolig</a>.</p>
+
+<p>A while ago I wrote a Perl script that takes this file and does the
+right thing for HTML: it inserts ZERO WIDTH NON-JOINER characters in
+all those places. This Perl script is called
+<a href="https://src.alexschroeder.ch/keine-ligaturen.git">keine-ligaturen</a>,
+no ligatures.</p>
+
+<p>So I need that.</p>
+
+<p>Now, the Python&rsquo;s Markdown module doesn&rsquo;t generate a stand-alone HTML
+file. I need to provide my own prefix and suffix.</p>
+
+<p><code>prefix</code> is where I define the language to use for hyphenation and the
+CSS file to use for the formatting.</p>
+
+<pre><code>&lt;!doctype html&gt;
+&lt;html lang=de&gt;
+  &lt;head&gt;
+    &lt;meta charset=&quot;utf-8&quot;/&gt;
+    &lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; href=&quot;Horte.css&quot;/&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+</code></pre>
+
+<p><code>suffix</code> is the file where I close the <code>html</code> and <code>body</code> tags I opened
+in the <code>prefix</code> file.</p>
+
+<pre><code>&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+
+<p>I tie all of this together in my <code>Makefile</code>. Here&rsquo;s how it might work.</p>
+
+<pre><code>SHELL=/bin/bash
+KAPITEL=$(sort $(wildcard [0-9A-F]-*.md))
+
+all: Horte.pdf
+
+%.pdf: %.html %.css
+	weasyprint $&lt; $@
+
+%.html: %.html.tmp prefix suffix append-index
+	cat prefix $&lt; suffix | perl append-index &gt; $@
+
+%.html.tmp: %.md
+	python3 -m markdown \n
+		--extension=markdown.extensions.attr_list \
+		--extension=markdown.extensions.tables \
+		--extension markdown.extensions.smarty \
+		$&lt; \
+	| keine-ligaturen &gt; $@
+
+Horte.md: Titelblatt.md Lizenz.md $(KAPITEL)
+	date '+&lt;p class=&quot;timestamp&quot;&gt;%F&lt;/p&gt;' &gt; timestamp
+	cat Titelblatt.md timestamp $(KAPITEL) Lizenz.md &gt; $@
+
+clean:
+	rm -f Horte.md Horte.html Horte.html.tmp \
+	      Horte.pdf
+</code></pre>
+
+<p>So this is what happens:</p>
+
+<ul>
+<li>all the Markdown files are concatenated into <code>Horte.md</code> (and a timestamp is added after the titlepage)</li>
+<li>the Markdown file is turned into a temporary HTML file called <code>Horte.html.tmp</code> using the Python Markdown module and the German ligature breaks are added by the <code>keine-ligaturen</code> Perl script</li>
+<li>the temporary HTML file is concatenated with the <code>prefix</code> and <code>sufix</code> files to form the real HTML file, called <code>Horte.html</code> and here yet another Perl script is used: <code>append-index</code> (more about that below)</li>
+<li>finally, the HTML file is turned into PDF using <code>weasyprint</code> resulting in <code>Horte.pdf</code></li>
+</ul>
+
+<p>Now we&rsquo;re finally getting to the script I wanted to talk about this
+entire time. What&rsquo;s the role of <code>append-index</code>? It parses the HTML
+file and determines which terms should be in the index using XPath.
+And then it adds an index at the end.</p>
+
+<p>There are two parts to the script. In the first part, the terms to
+index are collected.</p>
+
+<ul>
+<li>the HMTL is parsed and an XPath expression is used to search for strings to index (in this case: H3 headings and bold text in blockquotes if they have the <code>ref</code> class)</li>
+<li>if the term has no <code>id</code>, an <code>id</code> is computed based on the term to index; a number is appended if the <code>id</code> computed turns out to be a duplicate</li>
+<li>every term is associated with a list of ids (in case a term appears multiple times)</li>
+</ul>
+
+<p>In the second part, the HTML for the Index page is assembled. Every
+term is printed, followed by a link for every <code>id</code> recorded above. The
+text of the link is a ZERO WIDTH SPACE so that it doesn&rsquo;t look weird
+in the PDF. The actual page number to use is still unknown at this
+point because only the PDF generator knows about the pages! See below
+for more.</p>
+
+<pre><code>use Modern::Perl '2018';
+use XML::LibXML;
+
+undef $/;
+my $doc = XML::LibXML-&gt;load_html(string =&gt; &lt;STDIN&gt;);
+
+my @nodes = $doc-&gt;findnodes('//h3 | //blockquote/p/strong[@class=&quot;ref&quot;]'),
+
+my %terms;
+my %n;
+for my $node (@nodes) {
+  my $content = $node-&gt;getAttribute('ref') || $node-&gt;textContent;
+  next unless length($content) &gt; 1;
+  my $id = $node-&gt;getAttribute('id');
+  if (not $id) {
+    $id = lc($content);
+    $id =~ tr/A-Za-z//cd;
+    $n{$id}++;
+    $id .= $n{$id} if $n{$id} &gt; 1;
+    $node-&gt;setAttribute('id', $id);
+  }
+  $terms{$content} //= [];
+  push(@{$terms{$content}}, $id);
+  $node-&gt;setAttribute('class', 'indexed');
+}
+my @body = $doc-&gt;findnodes('//body');
+$body[0]-&gt;appendTextNode(&quot;\n&quot;);
+my $div = XML::LibXML::Element-&gt;new('div');
+$div-&gt;setAttribute('id', 'index');
+$body[0]-&gt;appendChild($div);
+$div-&gt;appendTextNode(&quot;\n&quot;);
+my $h2 = XML::LibXML::Element-&gt;new('h2');
+$h2-&gt;appendTextNode('Index');
+$div-&gt;appendChild($h2);
+$div-&gt;appendTextNode(&quot;\n&quot;);
+for my $term (sort keys %terms) {
+  my $p = XML::LibXML::Element-&gt;new('p');
+  $div-&gt;appendChild($p);
+  $p-&gt;appendTextNode($term);
+  for my $id (@{$terms{$term}}) {
+    my $an = XML::LibXML::Element-&gt;new('a');
+    $an-&gt;setAttribute('class', 'ref');
+    $an-&gt;setAttribute('href', '#' . $id);
+    $an-&gt;appendTextNode(&quot;​&quot;); # zero-width space to prevent minimizing
+    $p-&gt;appendChild($an);
+  }
+  $div-&gt;appendTextNode(&quot;\n&quot;);
+}
+
+print $doc;
+</code></pre>
+
+<p>Here is some example Markdown illustrating the functionality:</p>
+
+<pre><code>Elfen verwenden gerne grosse [Raubkatzen](#katze) zum Schutz ihrer Lager.
+
+&gt; **Pumas**{: .ref ref=&quot;Puma&quot;} (1W6-3) TW 3 RK 14 1W6 RW +1 BW 24 ML 7
+&gt; EP 300
+
+### Raubkatzen {: #katze}
+
+&gt; **Puma**{: .ref} TW 3 RK 14 1W6 RW +1 BW 24 ML 7 EP 300
+</code></pre>
+
+<p>The XPath expression find the following terms:</p>
+
+<ul>
+<li>&ldquo;Pumas&rdquo; because of <code>class=&quot;ref&quot;</code> and determines that the term to use
+is &ldquo;Puma&rdquo; (singular) because of <code>ref=&quot;Puma&quot;</code></li>
+<li>&ldquo;Raubkatzen&rdquo; because it&rsquo;s a H3 heading</li>
+<li>&ldquo;Puma&rdquo; because of <code>class=&quot;ref&quot;</code> and this time the term is the text
+content</li>
+</ul>
+
+<p>HTML generated for the Index:</p>
+
+<pre><code>&lt;div id=&quot;index&quot;&gt;
+&lt;h2&gt;Index&lt;/h2&gt;
+…
+&lt;p&gt;Puma&lt;a class=&quot;ref&quot; href=&quot;#puma&quot;&gt;​&lt;/a&gt;&lt;a class=&quot;ref&quot; href=&quot;#puma2&quot;&gt;​&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Raubkatzen&lt;a class=&quot;ref&quot; href=&quot;#katze&quot;&gt;​&lt;/a&gt;&lt;/p&gt;
+…
+&lt;/div&gt;
+</code></pre>
+
+<p>The magic for page numbers is in the CSS, namely in the last rule
+where it says that the content of index links is a space and
+<code>target-counter(attr(href), page)</code>.</p>
+
+<pre><code>/* index */
+#index {
+    columns: 3;
+    column-gap: 2ex;
+    font-size: 11pt;
+    line-height: 13pt;
+    text-align: left;
+}
+#index h2 {
+    column-span: all;
+}
+#index p {
+    margin: 0;
+    padding-left: 1em;
+    text-indent: -1em;
+}
+#index a {
+    color: inherit;
+    text-decoration: none;
+}
+#index a::after {
+    content: ' ' target-counter(attr(href), page);
+}
+</code></pre>
+
+<p>See for yourself:</p>
+
+<p><img loading="lazy" src="2023-11-10-index-markdown.jpg" alt="a three-column index page" /></p>
+
+<p><a class="tag" href="/search/?q=%23Markdown">#Markdown</a> <a class="tag" href="/search/?q=%23Perl">#Perl</a> <a class="tag" href="/search/?q=%23Programming">#Programming</a></p> 
+
+<https://alexschroeder.ch/view/2023-11-10-index-markdown>
+
+---
+
+## A Steely Dan tribute band
+
+date: 2023-11-14, from: Dave Winer's Scripting News
+
+<p>Another in the series of fantasy concerts, locations and fans. </p>
+<p>"In Madison Square Garden in NYC. A tribute band for Steely Dan. The audience are New Yorkers. Very well educated and well behaved."</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2023/11/14/msgAndSteelyDan.png"></center>Madison Square and Steely Dan.</div></p>
+ 
+
+<http://scripting.com/2023/11/14/171154.html?title=aSteelyDanTributeBand>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-14, from: Dave Winer's Scripting News)
+
+I've often felt I should be able to stay in places I've lived sort of on an <a href="https://en.wikipedia.org/wiki/Emeritus">emeritus</a> basis. A certain number of days a year based on the number of years I've lived there and maybe the number of people who live there who'd like to go out for a walk or a meal. 
+
+<http://scripting.com/2023/11/14.html#a170757>
+
+---
+
+## Upcoming Speaking Engagements
+
+date: 2023-11-14, updated: 2023-11-08, from: Bruce Schneier blog
+
+<p>This is a current list of where and when I am scheduled to speak:</p>
+<ul>
+<li>I&#8217;m speaking at the <a href="https://newyork.theaisummit.com/">AI Summit New York</a> on December 6, 2023.</li>
+</ul>
+<p>The list is maintained on <a href="https://www.schneier.com/events/">this page</a>.</p>
+ 
+
+<https://www.schneier.com/blog/archives/2023/11/upcoming-speaking-engagements-32.html>
+
+---
+
+## Deno Subhosting: the easiest and most secure way to run untrusted multi-tenant code
+
+date: 2023-11-14, updated: 2023-11-14, from: Deno blog
+
+Subhosting is a new way to leverage Deno Deploy's fast, scalable multi-tenant v8 isolate cloud to run your users code securely. 
+
+<https://deno.com/blog/subhosting>
+
+---
+
+## Alameda's On-Ramp
+
+date: 2023-11-14, from: David Rosenthal's blog
+
+Tether has been one of the major mysteries of the cryptosphere for a long time. It has never been audited, and has been described as being "<a href="https://www.bloomberg.com/news/features/2021-10-07/crypto-mystery-where-s-the-69-billion-backing-the-stablecoin-tether">practically quilted out of red flags</a>". Matt Levine <a href="https://www.bloomberg.com/opinion/articles/2023-10-31/bad-passwords-are-securities-fraud">says</a> "I feel like eventually Tether is going to be an incredibly interesting story, but I still don’t know what it is." He was commenting on Emily Nicolle's <a href="https://www.bloomberg.com/news/articles/2023-10-30/bankman-fried-trial-renews-speculation-about-alameda-s-tether-usdt-pile"><i>Bankman-Fried Trial Renews Conjecture About Alameda’s $40 Billion Tether Stablecoin Pile</i></a> by Emily Nicolle. It includes a lot of interesting information, starting with this:<br />
+<blockquote>
+Alameda was Tether’s largest non-exchange customer between 2020 and 2022, with blockchain data showing it received almost $40 billion in transfers of its stablecoin USDT directly from the company — equal to roughly 20% of all USDT tokens ever issued.<br />
+</blockquote>
+Below the fold, I discuss the questions Nicolle raises, and go on to ask one she doesn't<br />
+<span><a name='more'></a></span>
+<br />
+The <a href="https://www.bloomberg.com/news/articles/2023-10-30/bankman-fried-trial-renews-speculation-about-alameda-s-tether-usdt-pile">obvious question is</a>:<br />
+<blockquote>
+The vast amount has raised questions about where Alameda got the money to fund the issuance of the stablecoin, which is typically used as a dollar proxy and is the world’s most traded cryptocurrency. That even led to speculation Alameda might have used other means to help fund the purchases, similar to its bets on startups or dealings with lenders.
+</blockquote>
+By "other means" Nicolle means using FTX's FTT token. But, if you can believe Tether, that <a href="https://www.bloomberg.com/news/articles/2023-10-30/bankman-fried-trial-renews-speculation-about-alameda-s-tether-usdt-pile">isn't what happened</a>:<br />
+<blockquote>
+Tether’s incoming chief executive Paolo Ardoino appeared to clear up the mystery in a social media <a href="https://x.com/paoloardoino/status/1715083160109683181?s=20">post</a> this month, reiterating an earlier statement that the hedge fund wired dollars to Tether in exchange for the cryptocurrency.
+</blockquote>
+An important part of the story is that most people and institutions can't buy USDT from, or sell USDT to, Tether directly. They have to go via one of the small number of institutions that are Tether customers. And those customers can only buy or sell in large amounts. Alameda was one of these customers. Nicolle quotes <a href="https://www.bloomberg.com/news/articles/2023-10-30/bankman-fried-trial-renews-speculation-about-alameda-s-tether-usdt-pile">Jonathan Reiter</a>:<br />
+<blockquote>
+“This was one major on-ramp, maybe the major on-ramp” for traders seeking access to USDT, said Jonathan Reiter, CEO of blockchain analytics firm ChainArgos. “It is certainly peculiar that FTX, which is now alleged to have run an essentially fraudulent exchange, still somehow managed to intermediate tens of billions in one-way flow from USD into USDT.”
+</blockquote>
+My oversimplified mental model of stablecoins like USDT is that they are the chips in the casino. If you want to play the tables, you need to hand dollars to the cashier and get chips in return, because the tables only accept chips.  The cashiers in the cryptocurrency casino need accounts at banks, so they can receive dollars or other fiat, and accounts at Tether, so they can receive USDT. Since the early days of Tether, it has been increasingly difficult for cryptocurrency traders and exchanges to maintain accounts at banks. For example, in this interview of <a href="https://www.youtube.com/watch?v=pKeMfxLV8K8">Charles Yang by John Riggins</a>, Yang (head trader of Genesis Block based in Hong Kong) says:<br />
+<blockquote>
+bank acccounts are the absolute most valuable thing — you have to set up a bunch of different companies, a lot of different bank accounts just to facilitate trades that aren't that big, maybe $50K. The moment you tell them this is for a USDT trade, you're basically asking them to shut your bank account down.
+</blockquote>
+Alameda, run by ex-Wall Street whiz-kid US citizens, had the savvy and credentials to have bank accounts through which <a href="https://www.bloomberg.com/news/articles/2023-10-30/bankman-fried-trial-renews-speculation-about-alameda-s-tether-usdt-pile">billions of dollars could be moved</a>:<br />
+<blockquote>
+Alameda received around $39.6 billion in USDT tokens from Tether’s treasury wallet, according to on-chain data tracking its wallets, as labeled by the Arkham Intelligence platform.<br />
+<br />
+Meanwhile wallets connected to FTX sent $3.9 billion in USDT tokens back to Tether, all during the crash of TerraUSD and Luna in May 2022 — meaning that Alameda largely transferred the tokens it received to other entities, rather than cashing it out for dollars with Tether directly. It’s worth noting that this may not record all of FTX or Alameda’s redeemed tokens due to the way Tether swaps its coins between different blockchains, according to Coinbase’s Conor Grogan, who updated Alameda’s USDT total after most of its transactions were <a href="https://protos.com/tether-papers-crypto-stablecoin-usdt-investigation-analysis/">first reported</a> by Protos in 2021.
+</blockquote>
+Presumably, Alameda received dollars via their accounts at US banks such as the late lamented Signature and Silvergate, aggregated them into orders big enough for Tether, <a href="https://www.bloomberg.com/news/articles/2023-10-30/bankman-fried-trial-renews-speculation-about-alameda-s-tether-usdt-pile">then</a>:<br />
+<blockquote>
+To mint or redeem USDT, FTX would transfer funds via its own accounts at Tether’s Bahamas-based bank Deltec Bank or a US-based correspondent bank, Bankman-Fried said in a series of social media posts in 2021. A popular solution utilized by Tether and other crypto firms were banking networks established by Signature Bank and Silvergate Bank, both of which collapsed earlier this year.
+</blockquote>
+The mismatch between the minting and redeeming is why Reiter talks about a "one-way flow from USD into USDT". It seems clear that Alameda was exploiting its access to both the banking system and Tether to facilitate this flow. How big a player were they <a href="https://www.bloomberg.com/news/articles/2023-10-30/bankman-fried-trial-renews-speculation-about-alameda-s-tether-usdt-pile">in this flow?</a>:<br />
+<blockquote>
+A rough estimate using transactional data for USDT’s main two networks — Ethereum and Tron, which support about 98% of USDT’s current circulation — shows Tether has issued about $190 billion in USDT between its inception and Oct. 20, according to analysis by ChainArgos.<br />
+<br />
+Conversely, Tether has redeemed about $108 billion in its lifetime. The difference is about $82 billion, compared with around $84 billion in circulation. The discrepancy can be attributed to the amount of USDT trading on other blockchains, according to ChainArgos.
+</blockquote>
+Alameda bought $40B of USDT out of a total mint of $190B and sold $4B out of total burn of $108B.  They were ~21% of the on-ramp but only 4% of the off-ramp.<br />
+<br />
+Nicolle again <a href="https://www.bloomberg.com/news/articles/2023-10-30/bankman-fried-trial-renews-speculation-about-alameda-s-tether-usdt-pile">quotes Reiter</a>:<br />
+<blockquote>
+“This does not really look like a market-maker or trading firm as those terms are normally used. It looks more like a money changer,” said Reiter.<br />
+<br />
+Inflows and outflows from Alameda’s main wallet each month were almost equal, Reiter said, indicating that the main purpose for the mints was most likely to facilitate USDT purchases on behalf of FTX and its customers. This is supported by Bankman-Fried’s statements that FTX would transfer funds via bank accounts to Tether, in addition to evidence submitted to his trial which alleged that FTX often relied on Alameda’s bank accounts for exchange purposes.<br />
+<br />
+“These guys were running a one-way USD to USDT bureau de change,” said Reiter, adding that any USDT that Alameda actually held on to was never in large size relative to its minting activity.
+</blockquote>
+This explains how a significant part of the $190B Tether minted was funded. But it begs the question of where the $104B redeemed went that didn't go to Alameda? Who were the Tether customers who made the redemptions and what did they do with the dollars?<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7HGis5DNHrBvK6W-LNHaIL-bf6CPvPD-b51Phk0rNOxHClJToM33ZPuQ50dilmVu1s_CMalSxxElS1EaksSb769fd9ThOBKF1BPw_pRpbsqxCrATJejhjIgwaxbf8jVrW73Rw2ykO2ZI3zwlkiQMXhsm2y0hx1hyphenhyphenAFeMnNadmLDM3ceLS3cJCxArLkxbM/s824/WhaleActivity.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="447" data-original-width="824" height="109" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7HGis5DNHrBvK6W-LNHaIL-bf6CPvPD-b51Phk0rNOxHClJToM33ZPuQ50dilmVu1s_CMalSxxElS1EaksSb769fd9ThOBKF1BPw_pRpbsqxCrATJejhjIgwaxbf8jVrW73Rw2ykO2ZI3zwlkiQMXhsm2y0hx1hyphenhyphenAFeMnNadmLDM3ceLS3cJCxArLkxbM/w200-h109/WhaleActivity.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://medium.com/chainargos/a-tale-of-tether-on-tron-before-and-after-the-russian-invasion-of-ukraine-b9d4c63196b4">Source</a></td></tr></tbody></table>
+On the Chain Argos blog, Patrick Tan's <a href="https://medium.com/chainargos/a-tale-of-tether-on-tron-before-and-after-the-russian-invasion-of-ukraine-b9d4c63196b4"><i>A Tale of Tether on TRON Before and After the Russian Invasion of Ukraine</i></a> suggests one answer. Tan notes that:<br />
+<blockquote>
+Although most attention is focused on the use of Tether on the Ethereum blockchain, the reality is the bulk of transactions occur on TRON for a simple reason — low or zero transaction fees.<br />
+...<br />
+Using data from ChainArgos, 50 so-called “whale wallets” for USDT on the TRON blockchain were analyzed in the weeks leading up to, and following, the Russian invasion of Ukraine.<br />
+<br />
+From the chart above, it’s clear that the 50 biggest wallets that transact in Tether on TRON saw a larger cluster of activity just before and after the Russian invasion of Ukraine in February 2022.<br />
+<br />
+None of the wallets (as far as has been identified) are wallets belonging to cryptocurrency exchanges.
+</blockquote>
+<a href="https://medium.com/chainargos/a-tale-of-tether-on-tron-before-and-after-the-russian-invasion-of-ukraine-b9d4c63196b4">But</a>:<br />
+<blockquote>
+one of those wallet addresses:<br />
+<br />
+TCTrwC2rxGFRS74XihgdMkp5mLYGezdrDL<br />
+<br />
+(the “Alameda Wallet”) also happens to be the wallet used by Alameda Research (yes that one) to deposit funds into cryptocurrency exchange FTX.com.<br />
+<br />
+Even as the trial of FTX.com founder Sam Bankman-Fried proceeds in earnest, the Alameda Wallet saw a massive $300 mm in Tether flow into it, occurring just days before the Russian invasion.
+</blockquote>
+<a href="https://medium.com/chainargos/a-tale-of-tether-on-tron-before-and-after-the-russian-invasion-of-ukraine-b9d4c63196b4">And then</a>:<br />
+<blockquote>
+Of particular note was this wallet address:<br />
+<br />
+TYZseM53iSPB75aN1V5N762GgzAjBp7PcX<br />
+<br />
+which sent a whopping $194 mm USDT in just two weeks around the time of the invasion.<br />
+<br />
+And a quick Google search of the address reveals Telegram (the messaging service) posts by “The Ghost of New Russia” containing this wallet address that appeared to be raising funds for Russia’s invasion.<br />
+<br />
+On further analysis, this wallet, and others with large USDT transactions in the run-up to the Russian invasion are part of a massive Russian-Kazakh pyramid scheme that had already been blacklisted by the Russian central bank in 2022.<br />
+<br />
+After the USDT is collected into:<br />
+<br />
+TYZseM53iSPB75aN1V5N762GgzAjBp7PcX<br />
+<br />
+it’s then withdrawn into a collection of wallets, but with two in particularly large sizes:<br />
+<ol>
+<li>TXxU8LJ9wwQxUdg1YNP7LPz4YSXB5guhc5</li>
+<li>TCtVdT6XSoWcQifTHbBzFcuaUDX9oo8Yr5</li>
+</ol>
+Then there’s a few withdrawals for less than $2 mm, almost as if someone is taking their “commission” or “fees” for facilitating the transactions.<br />
+<br />
+What happens next is relatively predictable, from these withdrawal wallets, the USDT was sent to cryptocurrency exchange Binance, probably for the final cashing out into fiat currency.
+</blockquote>
+That <a href="https://blog.dshr.org/2023/01/binances-time-in-barrel.html">Binance</a> provided an off-ramp isn't unexpected. What was unexpected was that the spike in off-ramping started two weeks before the invasion. The Russians maintained good enough operational secrecy that Ukraine was suprised and the troops thought they were on exercise. Knowing two weeks ahead that Ukraine would be invaded means the off-rampers were very close to Putin. Tan speculates that the funds were destined for the <a href="https://medium.com/chainargos/a-tale-of-tether-on-tron-before-and-after-the-russian-invasion-of-ukraine-b9d4c63196b4">Wagner Group</a>:<br />
+<blockquote>
+One possible explanation is Russia’s heavy use of the Wagner Group — mercenaries closely affiliated with the Kremlin, but disavowed when convenient.<br />
+<br />
+And as is known, mercenaries, whether at the Battle of Waterloo or the Donbas, need to be paid, whether in gold, or a hard currency like the dollar, failing which Tether will do.<br />
+<br />
+This explanation becomes all the more plausible because the shadowy Wagner Group has been operating in the Donbas since 2014.<br />
+<br />
+So if Russia wanted to wage an all-out invasion of Ukraine, and the Wagner Group needed to recruit mercenaries in a hurry without an audit trail linked to the Kremlin, what better way than using stablecoins such as Tether?<br />
+<br />
+And if a Wagner Group mercenary wanted to ensure he’d get paid no matter what, which would he prefer, the ruble against a backdrop of soon-to-be sanctioned Russian banks, or Tether on TRON?<br />
+</blockquote>
+It is very plausible that the uptick in USDT activity was related to the invasion, but I am more skeptical about the far end of the off-ramp being the Wagner Group. As I understand it, the Russians did not plan an "all-out invasion of Ukraine"; they expected their armored thrusts and airborne landings to swiftly capture Kyiv and its government, which would be replaced by a puppet administration supported by the mass of the Ukrainian population. <a href="https://en.wikipedia.org/wiki/Wagner_Group#2022_invasion_of_Ukraine">Wikipedia suggests</a> that Wagner's initial involvement was limited to two of three attempts to assassinate Zelenskyy.<br />
+<br />
+Doubtless, <a href="https://en.wikipedia.org/wiki/Yevgeny_Prigozhin">Yevgeny Prigozhin</a> and Wagner's leadership would have known of the invasion plans, probably much more than two weeks ahead, and seen it as prudent to accumulate fiat. But I doubt that this fiat was intended for recruiting additional mercenaries, which wouldn't have been needed had the invasion plans worked out.<br />
+<br />
+Nevertheless, I agree with Tan when <a href="https://medium.com/chainargos/a-tale-of-tether-on-tron-before-and-after-the-russian-invasion-of-ukraine-b9d4c63196b4">he argues</a>:<br />
+<blockquote>
+that’s why it’s so important to monitor stablecoin flows — because they can provide an orthogonal data point that most fund and risk managers may miss.<br />
+<br />
+Whether as an indicator of leverage or risk appetite, or as a precursor to a potentially economically destabilizing conflict, stablecoin flows are becoming an increasingly important metric to monitor.
+</blockquote> 
+
+<https://blog.dshr.org/2023/11/alamedas-on-ramp.html>
+
+---
+
+## curl on 100 operating systems
+
+date: 2023-11-14, from: Daniel Stenberg Blog
+
+In a recent pull-request for curl, I clarified to the contributor that their change would only be accepted and merged into curl&#8217;s git code repository if they made sure that the change was done in a way so that it did not break (testing) for and on legacy platforms. In that thread, I could almost &#8230; <a href="https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/" class="more-link">Continue reading <span class="screen-reader-text">curl on 100 operating systems</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2023/11/14/curl-on-100-operating-systems/>
+
+---
+
+## What 5G Fixed Wireless Boom Can Teach Us About Technology
+
+date: 2023-11-14, from: Om Malik blog
+
+The 5G Home Broadband is booming. However, the journey of fixed wireless access has neither been simple, easy, nor cheap. This recent boom teaches us a big lesson: the unpredictable and often arduous journey of technology breakthroughs.  
+
+<https://om.co/2023/11/14/what-5g-fixed-wireless-boom-can-teach-us-about-technology/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-14, from: Dave Winer's Scripting News)
+
+We have too many modes of writing. I just wrote a post that's also a tweet. Why didn't it go to my followers on all the social nets I'm on? Why do I have to use a different editor to post to each of the services? That's the point of <a href="http://textcasting.org/">textcasting</a>, btw. 
+
+<http://scripting.com/2023/11/14.html#a144157>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-14, from: Dave Winer's Scripting News)
+
+Someone must be working on a ChatGPT for SQL databases. I want to talk to my friend the chatbot, so it can write the queries for me. All the time. For example, instead of <a href="https://chat.openai.com/share/d005b639-6976-4391-bab7-e06ca9939b45">asking ChatGPT</a> how to ask for the number of rows in a table, it could just tell me how many rows there are. 
+
+<http://scripting.com/2023/11/14.html#a144104>
+
+---
+
+## Huawei is ditching Android app support with ‘HarmonyOS Next’
+
+date: 2023-11-14, from: OS News
+
+It’s definitely clear that Huawei is pulling the plug on Android apps, but it’s still rather hard to believe that the company is throwing away Android (AOSP) entirely. For that, we’ll just have to wait and see, as more digging can be done when “Next” hits the scene next year. The Chinese market is big enough to sustain its own application ecosystem, and many western services are banned in China anyway, so the Play Store is of lesser value there. It makes sense for Huawei to not waste time and resources on maintaining Android application compatibility. 
+
+<https://www.osnews.com/story/137840/huawei-is-ditching-android-app-support-with-harmonyos-next/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-14, from: Dave Winer's Scripting News)
+
+<a href="https://github.com/scripting/Scripting-News/issues/277#issue-1992415528">Report</a> that <a href="http://news.scripting.com/">news.scripting.com</a> wasn't working. Fixed. 
+
+<http://scripting.com/2023/11/14.html#a140237>
+
+---
+
+## Don’t waste money on a math coprocessor they said
+
+date: 2023-11-14, from: OS News
+
+I tried to launch BattleTech over and over and had zero success. I couldn’t figure out why it was struggling on my model 80 board, where it runs just great on 86Box. What is going on? One thing I had stumbled upon was that if I launched an ancient Infocom game in a DOS box, and then launched BattleTech it had a much higher chance of running. But this did not always equate to it working. How is launching an old COM file from the early 80’s excise the ‘devil’ of some 1988 EXE from running? As the title suggests, it&#8217;s got to do with the math coprocessor. I know I say this often, but I&#8217;m so glad people dive into these sorts of things decades later to figure out what&#8217;s going on. It makes for great reading. 
+
+<https://www.osnews.com/story/137838/dont-waste-money-on-a-math-coprocessor-they-said/>
+
+---
+
+## RISC-V with Linux 6.7 gains optimized TLB flushing, software shadow call stacks
+
+date: 2023-11-14, from: OS News
+
+Phoronix listed some of the major work happening in 6.7 for the RISC-V architecture: Merged last week was support for cbo.zero in user-space, support for CBOs on ACPI-based RISC-V systems, support for software shadow call stacks, improvements for the T-Head cache flushing operations, and other clean-ups and fixes.  Meanwhile sent out today was a secondary pull request of more RISC-V changes for Linux 6.7. This latest pull has support for handling misaligned accesses in S-mode, performance improvements for TLB flushing, support for many new relocations in the module loader, and other enhancements. Momentum is definitely going for RISC-V. 
+
+<https://www.osnews.com/story/137836/risc-v-with-linux-6-7-gains-optimized-tlb-flushing-software-shadow-call-stacks/>
+
+---
+
+## Sunny suggestion for a student project
+
+date: 2023-11-14, from: Status-Q blog
+
+I think this would be a fun student project. I would certainly have enjoyed it. Here&#8217;s a year&#8217;s worth of my solar-generation data. My roof is oriented approximately 5 degrees west of south. How close can you get to discovering where I live, from this data alone? How can you improve your estimate by incorporating <a class="more-link excerpt-link" href="https://statusq.org/archives/2023/11/14/11800/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2023/11/14/11800/>
+
+---
+
+## Sanitize HTML and SVG?
+
+date: 2023-11-14, from: Alex Schroeder's Blog
+
+<h1>Sanitize HTML and SVG?</h1>
+
+<p>Would you do it? Is &ldquo;writing your own website&rdquo; an activity that could be described as &ldquo;untrusted user generated content&rdquo;? I get the feeling that perhaps it is not! It is your site, you are writing the thing, so it&rsquo;s trusted. Your visitors need to trust you, too.</p>
+
+<p>Now, in order for an attacker to hurt your visitors, they would need to get access to the file system via the web server somehow.</p>
+
+<p>Do you feel that the situation changes when there&rsquo;s a service like <a href="oddmu">Oddmu</a> that generates the HTML based on Markdown?</p>
+
+<p>I guess the source remains the same, you&rsquo;re writing the Markdown, therefore the HTML, and so on. But now the attack surface is larger: attackers can attack either the web server (the reverse proxy in front) or the service itself (in the backend). I don&rsquo;t run the service in a &ldquo;demilitarized zone&rdquo; (DMZ) – what a word! – so there&rsquo;s that.</p>
+
+<p>The reason I&rsquo;m wondering about all that is because I wonder whether I need to sanitize the output of the Markdown to HTML conversion using a library like <a href="https://github.com/microcosm-cc/bluemonday">bluemonday</a>.</p>
+
+<blockquote>
+<p>bluemonday takes untrusted user generated content as an input, and will return HTML that has been sanitised against an allowlist of approved HTML elements and attributes so that you can safely include the content in your web page.</p>
+</blockquote>
+
+<p>Hm. Even if Oddmu is used by a group of people, I would still assume that they trust each other. In such a context, there are no &ldquo;untrusted users&rdquo;.</p>
+
+<p>So why not take the easy route and just apply sanitization always? The reason is that I sometimes (rarely!) include SVG in my Markdown, like in <a href="2022-06-30_How_to_communicate_dungeon_maps_to_players">2022-06-30 How to communicate dungeon maps to players</a>.</p>
+
+<p>Yesterday evening and this morning I spent a fair amount of time writing code that adds SVG validation to a bluemonday policy. You can take a look in <a href="https://github.com/microcosm-cc/bluemonday/issues/196">issue #196</a>. It&rsquo;s awful. And I suspect that the specs will keep changing over time and so I will keep running into issues. It would be much easier to just drop it.</p>
+
+<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a> <a class="tag" href="/search/?q=%23Web">#Web</a> <a class="tag" href="/search/?q=%23SVG">#SVG</a></p>
+
+<p><strong>2023-11-14</strong> I removed the sanitization code from Oddµ. Thanks for the feedback, <a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a>.</p> 
+
+<https://alexschroeder.ch/view/2023-11-09-sanitize>
+
+---
+
+## How .tk Became a TLD for Scammers
+
+date: 2023-11-14, updated: 2023-11-08, from: Bruce Schneier blog
+
+<p>Sad <a href="https://www.technologyreview.com/2023/11/02/1082798/tiny-pacific-island-global-capital-cybercrime/">story</a> of Tokelau, and how its top-level domain &#8220;became the unwitting host to the dark underworld by providing a never-ending supply of domain names that could be weaponized against internet users. Scammers began using .tk websites to do everything from harvesting passwords and payment information to displaying pop-up ads or delivering malware.&#8221;</p>
+ 
+
+<https://www.schneier.com/blog/archives/2023/11/how-tk-became-a-tld-for-scammers.html>
+
+---
+
+## Code Editor update: Support for HTML and mobile devices
+
+date: 2023-11-14, from: Raspberry Pi (.org)
+
+<p>Earlier this year, we launched our Code Editor, a free online tool to help make learning text-based programming simple and accessible for kids age 9 and up. We focus on supporting the needs of young people who are learning programming at school, in Code Clubs and CoderDojos, and at home. Today, we have two exciting&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/html-code-editor/">Code Editor update: Support for HTML and mobile devices </a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/html-code-editor/>
+
+---
+
+## An update on our work in Africa
+
+date: 2023-11-14, from: Raspberry Pi News (.com)
+
+<p>It’s been a little over a year since Ken Okolo last provided an update on our work in Africa and quite a lot has happened in the last 12 months...</p>
+<p>The post <a href="https://www.raspberrypi.com/news/an-update-on-our-work-in-africa/">An update on our work in Africa</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/an-update-on-our-work-in-africa/>
+
+---
+
+## Cracking a “Developer Tools Killer” script…
+
+date: 2023-11-14, from: Chris Heilmann
+
+The other day I got an email from somebody who took one of my developer tools courses and he said he found a website that cannot be debugged. So I looked, found a nasty script and show you how to work around that one. You can watch the video on YouTube or read on&#8230; I [&#8230;] 
+
+<https://christianheilmann.com/2023/11/14/cracking-a-developer-tools-killer-script/>
+
+---
+
+## DATA FILE: MODULATION OF BETA-ADRENOCEPTOR-STIMULATED cAMP SIGNALLING KINETICS BY GRK2 IN A CELLULAR MODEL
+
+date: 2023-11-14, from: ETH Zurich, recently added
+
+Weinmann, Christian 
+
+<http://hdl.handle.net/20.500.11850/641999>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-13, from: Dave Winer's Scripting News)
+
+You know I don't always like the same soda. Sometimes it's <a href="https://www.coca-cola.com/us/en/brands/diet-coke">Diet Coke</a>, and other times, <a href="https://www.drpepper.com/s/products/diet-dr-pepper">Diet Dr Pepper</a>. But for the last year or so the drink of choice around these parts is <a href="https://www.coca-cola.com/us/en/brands/fresca-sparking-soda">Fresca</a>. But you know what's funny. No matter what my favored drink is, it's always the one you can't get at the local <a href="https://stores.hannaford.com/ny/west-hurley/8444">supermarket</a>. Always sold out. Very weird. 
+
+<http://scripting.com/2023/11/13.html#a220910>
+
+---
+
+## A Picture Is Worth a Thousand Permissions Requests
+
+date: 2023-11-13, from: Michael Tsai
+
+Jason Snell (Reddit, Hacker News): Due to an extremely weird series of troubleshooting maneuvers, I recently found myself having to set my Mac up from scratch without migrating any of my preferences for the first time in longer than I&#8217;d like to admit.[&#8230;]More than anything else, though, the experience reminded me that Apple has a [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/13/a-picture-is-worth-a-thousand-permissions-requests/>
+
+---
+
+## Final Cut Pro 10.7 and Final Cut Pro for iPad 1.3
+
+date: 2023-11-13, from: Michael Tsai
+
+Apple: Final Cut Pro now includes improvements in timeline navigation and organization, as well as new ways to simplify complex edits. The apps leverage the power-efficient performance of Apple silicon along with an all-new machine learning model for Object Tracker, and export speeds are turbocharged on Mac models powered by multiple media engines. Final Cut [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/13/final-cut-pro-10-7-and-final-cut-pro-for-ipad-1-3/>
+
+---
+
+## iPhone Parts Pairing
+
+date: 2023-11-13, from: Michael Tsai
+
+Tripp Mickle, Ella Koeze, and Brian X. Chen (via Hacker News): Unlike cars, which can be repaired with generic parts by auto shops and do-it-yourself mechanics, new iPhones are coded to recognize the serial numbers for original components and may malfunction if the parts are changed.This year, seven iPhone parts can trigger issues during repairs, [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/13/iphone-parts-pairing/>
+
+---
+
+## Fitbit Charge 6 and Google Pixel Watch 2
+
+date: 2023-11-13, from: Michael Tsai
+
+Victoria Song: Fitbit is back with the Charge 6 &#8212; and on paper, this one feels like the most Fitbit-y Fitbit since Google actively began folding the company into its ecosystem. Not only has the price been lowered from $179.95 to $159.95 but the device also adds an improved heart rate tracking algorithm, compatibility with [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/13/fitbit-charge-6-and-google-pixel-watch-2/>
+
+---
+
+## Do You Use It? Apple Services
+
+date: 2023-11-13, from: TidBITS blog
+
+This week's Do You Use It? poll asks which Apple services: iCloud+, Apple Music, Apple TV+, Apple News+, Apple Fitness+, and Apple Arcade—and the Apple One bundle—you both pay for and actually use.<p><strong><a href='https://talk.tidbits.com/t/do-you-use-it-apple-services/25273?u=ace'>Read original article</a></strong></p><p style="margin-top: 3em"><a href="https://vpdae.com/redirect/7brje6fg49wkxh4vjdbsoc50y3o"><picture><source srcset="https://tidbits.com/wp/../uploads/2019/04/Setapp-640x200_v1.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2019/04/Setapp-1456x180_v1.png" srcset="https://tidbits.com/wp/../uploads/2019/04/Setapp-1456x180_v1.png 1456w, https://tidbits.com/wp/../uploads/2019/04/Setapp-1456x180_v1-1280x158.png 1280w" alt="Setapp Mac Apps Report: Discover biggest trends in the use of apps on Mac"></picture></a></p> 
+
+<https://tidbits.com/2023/11/13/do-you-use-it-apple-services/>
+
+---
+
+## LittleBITS: Email Delivery Problem and Blocking Spambot Accounts
+
+date: 2023-11-13, from: TidBITS blog
+
+We’ve been dealing with some server-side issues of late, and Adam Engst takes you behind the curtains to apologize for an email delivery failure and explain how we blocked an onslaught of spambot-created accounts.<p style="margin-top: 3em"><a href="https://tidbits.com/2016/06/11/os-x-hidden-treasures-copy-and-paste/"><picture><source srcset="https://tidbits.com/wp/../uploads/2018/05/TB-Copy-Paste-ad-640x200.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2018/05/TB-Copy-Paste-ad-1456x180.png" srcset="https://tidbits.com/wp/../uploads/2018/05/TB-Copy-Paste-ad-1456x180.png 1456w, https://tidbits.com/wp/../uploads/2018/05/TB-Copy-Paste-ad-1456x180-640x79.png 640w" alt="macOS Hidden Treasures: Copy and Paste"></picture></a></p> 
+
+<https://tidbits.com/2023/11/13/littlebits-email-delivery-problem-and-blocking-spambot-accounts/>
+
+---
+
+## GarageBand 10.4.9
+
+date: 2023-11-13, from: TidBITS blog
+
+<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2020/11/Garageband-10_4_1-icon.jpg" class="type:primaryImage wp-post-image" alt="Garageband 10.4.1 icon" decoding="async" loading="lazy" srcset="https://tidbits.com/wp/../uploads/2020/11/Garageband-10_4_1-icon.jpg 1024w, https://tidbits.com/wp/../uploads/2020/11/Garageband-10_4_1-icon-640x640.jpg 640w, https://tidbits.com/wp/../uploads/2020/11/Garageband-10_4_1-icon-912x912.jpg 912w, https://tidbits.com/wp/../uploads/2020/11/Garageband-10_4_1-icon-550x550.jpg 550w, https://tidbits.com/wp/../uploads/2020/11/Garageband-10_4_1-icon-470x470.jpg 470w" sizes="(max-width: 96px) 100vw, 96px" /></figure>Maintenance release with a variety of improvements and bug fixes. (Free, 854.1 MB, macOS 13.5+)<p style="margin-top: 3em"><a href="https://textexpander.com/individual?utm_campaign=2021-q4-tidbits&utm_medium=display&utm_source=tidbits&utm_content=tidbits-v10"><picture><source srcset="https://tidbits.com/wp/../uploads/2018/01/TextExpander-640-v10.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2018/01/TextExpander-1456-v10.png" srcset="https://tidbits.com/wp/../uploads/2018/01/TextExpander-1456-v10.png 1456w, https://tidbits.com/wp/../uploads/2018/01/TextExpander-1456-v10-640x79.png 640w" alt="TextExpander: Type With Impact. Try It For Free!"></picture></a></p> 
+
+<https://tidbits.com/watchlist/garageband-10-4-9/>
+
+---
+
+## Retrobatch 2.0
+
+date: 2023-11-13, from: TidBITS blog
+
+<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2023/11/Retrobatch-2-icon.png" class="type:primaryImage wp-post-image" alt="Retrobatch 2 icon" decoding="async" loading="lazy" /></figure>Upgraded bulk image processing app adds numerous new capabilities. ($29.99 new, free update, 51.2 MB, macOS 12+)<p style="margin-top: 3em"><a href="https://tidbits.com/2018/01/15/what-to-do-if-your-ipad-gets-disabled-by-too-many-passcode-entries/"><picture><source srcset="https://tidbits.com/wp/../uploads/2018/09/TB-iPad-disabled-ad-640x200.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2018/09/TB-iPad-disabled-ad-1456x180.png" srcset="https://tidbits.com/wp/../uploads/2018/09/TB-iPad-disabled-ad-1456x180.png 1456w, https://tidbits.com/wp/../uploads/2018/09/TB-iPad-disabled-ad-1456x180-640x79.png 640w" alt="What to Do If Your iPad Gets Disabled By Too Many Passcode Entries"></picture></a></p> 
+
+<https://tidbits.com/watchlist/retrobatch-2-0/>
+
+---
+
+## BusyCal 2023.4.4
+
+date: 2023-11-13, from: TidBITS blog
+
+<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2021/07/BusyCal-2021_3-icon.jpg" class="type:primaryImage wp-post-image" alt="BusyCal 2021-3 icon" decoding="async" loading="lazy" srcset="https://tidbits.com/wp/../uploads/2021/07/BusyCal-2021_3-icon.jpg 1024w, https://tidbits.com/wp/../uploads/2021/07/BusyCal-2021_3-icon-640x640.jpg 640w" sizes="(max-width: 96px) 100vw, 96px" /></figure>Adds natural language input support for Spanish, Italian, and Dutch to Quick Entry. ($49.99 new, free update, 57.7 MB, macOS 10.15+)<p style="margin-top: 3em"><a href="https://vpdae.com/redirect/7brje6fg49wkxh4vjdbsoc50y3o"><picture><source srcset="https://tidbits.com/wp/../uploads/2019/04/Setapp-640x200_v1.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2019/04/Setapp-1456x180_v1.png" srcset="https://tidbits.com/wp/../uploads/2019/04/Setapp-1456x180_v1.png 1456w, https://tidbits.com/wp/../uploads/2019/04/Setapp-1456x180_v1-1280x158.png 1280w" alt="Setapp Mac Apps Report: Discover biggest trends in the use of apps on Mac"></picture></a></p> 
+
+<https://tidbits.com/watchlist/busycal-2023-4-4/>
+
+---
+
+## Debugging SQL with LLMS
+
+date: 2023-11-13, from: John Udell blog
+
+Here&#8217;s the latest installment in the series on LLM-assisted coding over at The New Stack: Techniques for Using LLMs to Improve SQL Queries. The join was failing because the two network_interfaces columns contained JSONB objects with differing shapes; Postgres’ JSONB containment operator, @>, couldn’t match them. Since the JSONB objects are arrays, and since the &#8230; <a href="https://blog.jonudell.net/2023/11/13/debugging-sql-with-llms/" class="more-link">Continue reading <span class="screen-reader-text">Debugging SQL with LLMS</span></a> 
+
+<https://blog.jonudell.net/2023/11/13/debugging-sql-with-llms/>
+
+---
+
+## Nice Morning View
+
+date: 2023-11-13, from: Miek Giebin blog
+
+A foggy morning view. 
+
+<https://miek.nl/2023/november/13/nice-morning-view/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-13, from: Dave Winer's Scripting News)
+
+Mastodon is like CP/M. Bluesky is like the Apple II. Threads is like the IBM PC (though not nearly as open). And Twitter is.. hmmm. 
+
+<http://scripting.com/2023/11/13.html#a171031>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-13, from: Dave Winer's Scripting News)
+
+Bluesky has a hidden feature no one knows about yet. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2023/11/13.html#a171018>
+
+---
+
+## Proxmox on the Raspberry Pi 4 – First Looks
+
+date: 2023-11-13, from: How to Raspberry
+
+Now that we&#8217;ve got Proxmox running on the Raspberry Pi 4, let&#8217;s take a little look around. Once you&#8217;re logged in, let&#8217;s explore the &#8220;Datacenter&#8221; in the upper left. This is a listing of all the Pis in the cluster. We haven&#8217;t clustered yet, so there is just this one. Click on Summary in the [&#8230;] 
+
+<https://www.howtoraspberry.com/2023/11/proxmox-on-the-raspberry-pi-4-first-looks/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-13, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/13/dollar.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I just got a link to a <a href="https://www.theinformation.com/articles/the-tech-evangelist-who-lives-life-according-to-the-tides">story</a> on The Information about my longtime friend <a href="https://www.google.com/search?q=site%3Ascripting.com+Guy+Kawasaki">Guy Kawasaki</a>. We had a couple of great adventures together, early in our careers, and I'll never forget the moment when he gave me the idea that blasted my company out of poverty to success. I would have loved to read the article, but to do so I'd have to sign on, and I'm sure they would sell my address, and I wouldn't be surprised if I had to subscribe. So as much as it pained me, I hit the back button and wrote this post to say I would have been happy to <a href="https://www.google.com/search?q=site%3Ascripting.com+ez+pass+for+news">spend $1</a> to read the article, and authenticate myself with a service I control (ie no selling my identity thank you). We've been around this block so many times. The writing world of the web is full of disappointment like this. I've written this post 100,000 times by now. 
+
+<http://scripting.com/2023/11/13.html#a160521>
+
+---
+
+## (#eklzdvq) Oh so that's what the geo-info is use for - sunrise and sunset.
+It reminds be about  that is very useful for online meetings across t ...
+
+date: 2023-11-13, updated: 2023-11-13, from: Darch (sørenpeter) neotxt blog
+
+<p><p>Oh so that’s what the geo-info is use for - sunrise and sunset.<br>
+It reminds be about <a href="https://poleclock.com/" target="_blank" rel="nofollow noopener">https://poleclock.com/</a> that is very useful for online meetings across timezone - like when we were having our yarn social calls back in the days</p>
+</p> 
+
+<https://neotxt.dk/twt/dkxckvq>
+
+---
+
+## Ten Ways AI Will Change Democracy
+
+date: 2023-11-13, updated: 2023-11-08, from: Bruce Schneier blog
+
+<p>Artificial intelligence will change so many aspects of society, largely in ways that we cannot conceive of yet. Democracy, and the systems of governance that surround it, will be no exception. In this short essay, I want to move beyond the &#8220;AI-generated disinformation&#8221; trope and speculate on some of the ways AI will change how democracy functions&#8212;in both large and small ways.</p>
+<p>When I survey how artificial intelligence might upend different aspects of modern society, democracy included, I look at four different dimensions of change: speed, scale, scope, and sophistication. Look for places where changes in degree result in changes of kind. Those are where the societal upheavals will happen...</p> 
+
+<https://www.schneier.com/blog/archives/2023/11/ten-ways-ai-will-change-democracy.html>
+
+---
+
+## How to Install Proxmox 8 on a Raspberry Pi Cluster
+
+date: 2023-11-13, from: How to Raspberry
+
+Proxmox? Proxmox is awesome! Proxmox is the perfect hosting platform for all your VMs! Proxmox lets you easily build and break down full virtual machines and containers. They sell it better themselves. From the proxmox.com website: Proxmox Virtual Environment is a complete open-source platform for enterprise virtualization. With the built-in web interface you can easily [&#8230;] 
+
+<https://www.howtoraspberry.com/2023/11/how-to-install-proxmox-8-on-a-raspberry-pi-cluster/>
+
+---
+
+## Build a file server with Raspberry Pi 5 | #MagPiMonday
+
+date: 2023-11-13, from: Raspberry Pi News (.com)
+
+<p>This #MagPiMonday, learn how to make a better NAS with the new features of Raspberry Pi 5.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/build-a-file-server-with-raspberry-pi-5-magpimonday/">Build a file server with Raspberry Pi 5 | #MagPiMonday</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/build-a-file-server-with-raspberry-pi-5-magpimonday/>
+
+---
+
+## The world has enough minerals for low-carbon electricity
+
+date: 2023-11-13, from: Hannah Richie at Substack
+
+Total reserves are not the issue &#8211; mine construction and geopolitical risks are likely to be larger barriers to progress. 
+
+<https://www.sustainabilitybynumbers.com/p/minerals-for-electricity>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2023-11-13, from: Miguel de Icaza Mastondon feed)
+
+<p>The problem with Bloomberg leaks on Apple products it is that they are undistinguishable from fanfic.</p> 
+
+<https://mastodon.social/@Migueldeicaza/111400511950306952>
+
+---
+
+## Monday 13 November, 2023
+
+date: 2023-11-13, from: John Naughton's online diary
+
+Bike Park Seen on a riverside walk on Saturday. Quote of the Day “Conservative, n: A statesman who is enamored of existing evils, as distinguished from the Liberal who wishes to replace them with others.” Ambrose Bierce (from his Devil’s &#8230; <a href="https://memex.naughtons.org/monday-13-november-2023/38807/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/monday-13-november-2023/38807/>
+
+---
+
+## The Apple Network Server’s all-too-secret weapon: PPC Toolbox
+
+date: 2023-11-13, from: OS News
+
+However, there was a secret weapon hidden in ANS AIX most of us at the time never knew about. Built-in to the operating system was a fully Unix-native AppleTalk stack and support for receiving and sending Apple Events, surfaced in the form of Apple&#8217;s disk administration tools and AppleShare. But Apple had a much more expansive vision for this feature: full server-client &#8220;symbiotic&#8221; applications that could do their number-crunching on the ANS and present the results on a desktop Mac. Using the Program-to-Program Communication Toolbox (&#8220;PPCToolbox&#8221;), and because AIX&#8217;s throughput far exceeded anything the classic Mac OS ever could ever handle, an ANS could augment a whole bunch of Macs at once that didn&#8217;t have to stop to do the work themselves. Well, today we&#8217;re going to write one of those &#8220;symbiotic&#8221; applications doing something this little Mystic Color Classic could never efficiently do itself — accessing and processing a JSON API over TLS 1.3 — and demonstrate not only how such an client application looked on the Mac side, but also how the server component worked on the AIX side. If you&#8217;re lucky enough to have an ANS running AIX too, you can even compile and run it yourself. But before we do that, it might be a little instructive to talk about how the Apple Network Server came to run AIX in the first place. I had no idea the ANS could do this. That&#8217;s an incredibly cool feature, and clearly fits in the whole &#8220;the network is the computer&#8221; idea that dominated the late &#8217;90s. 
+
+<https://www.osnews.com/story/137832/the-apple-network-servers-all-too-secret-weapon-ppc-toolbox/>
+
+---
+
+## Episode 120 - Simply COSMAC
+
+date: 2023-11-13, from: Advent of Computing
+
+<div class="DraftEditor-paragraphElement" data-block="true" data-editor="alg3b" data-offset-key="1qehk-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1qehk-0-0"><span data-offset-key= "1qehk-0-0"><span data-text="true">Have you ever opined for a simpler time? Have you ever wanted a computer that you can understand all the way down to the silicon? Then RCA's COSMAC might be the architecture for you! COSMAC was a simplified computer architecture designed in the early 70s. It's tiny, cheap, and built to be easy to understand. But is the chip actually useful?</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1qehk-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="alg3b" data-offset-key="41g17-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="41g17-0-0"><span data-offset-key= "41g17-0-0"><span data-text="true">Selected Sources:</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="41g17-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="alg3b" data-offset-key="53td3-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="53td3-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.org/details/manualzilla-id-5721710/page/26/mode/1up?view=theater"> <span data-offset-key="53td3-0-0"><span data-text= "true">https://archive.org/details/manualzilla-id-5721710/page/26/mode/1up?view=theater</span></span></a> <span data-offset-key="53td3-1-0"><span data-text="true">- All the ELF articles in one place!</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="53td3-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="alg3b" data-offset-key="4bmgt-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="4bmgt-0-0"><span data-offset-key= "4bmgt-0-0"><span data-text="true"><a href= "https://sci-hub.se/10.1109/MC.1974.6323475">https://sci-hub.se/10.1109/MC.1974.6323475</a> - A Simplified Microcomputer Architecture</span></span></div> </div> 
+
+<https://adventofcomputing.libsyn.com/episode-120-simply-cosmac>
+
+---
+
+## How a kernel developer made my styluses work again on newer kernels
+
+date: 2023-11-13, from: OS News
+
+Remember when we linked to David Revoy&#8217;s story about how his drawing pen&#8217;s buttons stopped working properly due to a Linux kernel update? Well, it turns out that Linux kernel developers took this one up, and a fix is already being tested. This solution is still W.I.P. and I still have some homework to send more data about my tablets after this blog post, but in overall I&#8217;m already using a newer kernel (Linux workstation 6.5.10-200.fc38.x86_64) and I don&#8217;t have the problem with the eraser mode on the top button of my XPPen Artist 24 Pro and XPPen Artist 16 Pro Gen2 styluses. The buttons are also now perfectly customisable via xsetwacom CLI tool. Yay! That&#8217;s why I wanted to share this blog-post as soon as possible. Be sure to read the whole article for an in-depth explanation of what&#8217;s being done to fix this. 
+
+<https://www.osnews.com/story/137830/how-a-kernel-developer-made-my-styluses-work-again-on-newer-kernels/>
+
+---
+
+## Proposal: an HTML element for spoilers
+
+date: 2023-11-12, from: Tilde.news
+
+<p><a href="https://tilde.news/s/7pztjo/proposal_html_element_for_spoilers">Comments</a></p> 
+
+<https://seirdy.one/posts/2023/11/12/spoiler-element/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-12, from: Dave Winer's Scripting News)
+
+If <a href="https://www.threads.net/@davew/post/Czjlp2eJZxj">Threads</a> is serious about being open, what's preventing them from adding a simple <a href="https://en.wikipedia.org/wiki/OAuth">posting API</a> and <a href="https://rss.firesky.tv/?filter=from:scripting.com">outbound RSS</a>. Very lightweight well-established technology. We could start building around it now. 
+
+<http://scripting.com/2023/11/12.html#a183520>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2023-11-12, from: Miguel de Icaza Mastondon feed)
+
+<p>No VT100 or VAX 11/780 will be left behind.</p><p>La Terminal on VisionOS (there is a higher resolution version on Twitter):</p> 
+
+<https://mastodon.social/@Migueldeicaza/111398962783946711>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2023-11-12, from: Miguel de Icaza Mastondon feed)
+
+<p>Previously on LOST:</p><p><a href="https://mastodon.social/@Migueldeicaza/111302428298515374" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@Migueldeicaza</span><span class="invisible">/111302428298515374</span></a></p><p>Progress on Godot on iPad.</p><p>Making Godot launch a game on the iPad was a lot more work than I anticipated as you can&#39;t run separate processes on iOS.   But I got it working:</p><p>397 files changed, 7644 insertions(+), 3184 deletions(-)</p><p>Shown ARM binary on the Mac, since my physical iPad is downstairs:</p> 
+
+<https://mastodon.social/@Migueldeicaza/111398952199848083>
+
+---
+
+## New Outlook sends passwords, mails and other data to Microsoft
+
+date: 2023-11-12, from: OS News
+
+&#8220;Microsoft steals access data&#8221; &#8211; When the well-known German IT portal &#8220;Heise Online&#8221; uses such drastic words in its headline, then something is up. If Microsoft has its way, all Windows users will have to switch to the latest version of Microsoft Outlook. But: Not only can the IMAP and SMTP access data of your e-mail account be transferred to Microsoft, but all e-mails in the INBOX can also be copied to the Microsoft servers, even if you have your mailbox with a completely different provider such as mailbox.org. They&#8217;re going to use it for AI, I&#8217;m assuming. In any event, don&#8217;t use the new Outlook &#8211; it&#8217;s a web app anyway and there&#8217;s better clients for Windows. I think. I&#8217;m not sure people are still developing e-mail clients for Windows. 
+
+<https://www.osnews.com/story/137828/new-outlook-sends-passwords-mails-and-other-data-to-microsoft/>
+
+---
+
+## KDE Plasma 6.0 goes Wayland by default
+
+date: 2023-11-12, from: OS News
+
+Yep you read that right, we’ve decided to throw the lever and go Wayland by default! The three remaining showstoppers are in the process of being fixed and we expect them to be done soon–certainly before the final release of Plasma 6. So we wanted to make the change early to gather as much feedback as possible. Excellent news. Of course, distributions will still be able to opt for the unmaintained, deprecated X.org if they want to, but most distributions will opt for Wayland, as all the major ones have been doing for a while now. 
+
+<https://www.osnews.com/story/137826/kde-plasma-6-0-goes-wayland-by-default/>
+
+---
+
+## FreeDOS Edlin 2.23
+
+date: 2023-11-12, from: FreeDOS News
+
+<div class="markdown_content"><p>The FreeDOS Edlin project is the standard line editor in FreeDOS, replacing the classic edlin program from original DOS. Gregory Pietsch has released Edlin 2.23, which fixes a compile time warning when compiling with OpenWatcom C. You can download the source from <a class="" href="https://sourceforge.net/projects/freedos-edlin/">Edlin on SourceForge</a>. We've also mirrored this version (plus a compiled 16-bit DOS executable, as EDLIN16.EXE) on the FreeDOS Files Archive at Ibiblio under <a class="" href="https://ibiblio.org/pub/micro/pc-stuff/freedos/files/dos/edlin/2.23/" rel="nofollow">/files/dos/edlin</a></p></div> 
+
+<https://sourceforge.net/p/freedos/news/2023/11/freedos-edlin-223/>
+
+---
+
+## New libm-0.6 and libmpi-0.2
+
+date: 2023-11-12, from: FreeDOS News
+
+<div class="markdown_content"><p>Gregory Pietsch has released libm-0.6 and libmpi-0.2. libmpi is a Multiple Precision Integer library, and libm is a C math library. Both are public domain. You can find both on the FreeDOS Files Archive at Ibiblio, under <a class="" href="https://ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/libs/libm/0.6/" rel="nofollow">/files/devel/libs/libm</a> and <a class="" href="https://ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/libs/libmpi/0.2/" rel="nofollow">/files/devel/libs/libmpi</a>.</p></div> 
+
+<https://sourceforge.net/p/freedos/news/2023/11/new-libm-06-and-libmpi-02/>
+
+---
+
+## Southwest 2024 date confirmed
+
+date: 2023-11-12, from: RiscOS Story
+
+And a round-up of other show dates, whether known or likely! The time is almost here to say goodbye to 2023 and welcome in a whole new year, which we should probably call &#8216;2024&#8217; &#8211; and if we&#8217;re looking at a new year, we may as well start thinking about the RISC OS shows that we&#8217;ll be attending, the first of which is usually the Southwest Show. Organised by R-Comp&#8216;s Andrew Rawnsley and Orpheus Internet&#8216;s Richard Brown &#8211; both also of RISC OS Developments &#8211; the show usually takes place&#8230; 
+
+<https://www.riscository.com/2023/southwest-2024-date-confirmed/>
+
+---
+
+## Repairing and upgrading old RISC OS computers with ROUGOL – 27th November
+
+date: 2023-11-12, from: RiscOS Story
+
+The RISC OS User Group of London (ROUGOL) usually holds its meetings on the third Monday of each month, but it has been pushed back a week for November &#8211; so if you have 20th November marked in your diaries, scrub it out and add 27th November. With the meeting that far off, it might seem unusual to see an announcement this early, but there&#8217;s a good reason for that. The topic for the meeting will be repairing and upgrading Archimedes and RISC OS machines. The group will be looking&#8230; 
+
+<https://www.riscository.com/2023/repairing-old-kit-rougol-27th-november/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-12, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/04/24/cheshireCat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Some news. I've been working with <a href="https://automattic.com/">Automattic</a> for most of this year on a new version of <a href="https://feedland.org/">FeedLand</a> that runs in their cloud. The advantage is it will scale like the most popular websites, as <a href="https://wordpress.com/">WordPress</a> does. There have been lots of internal changes in the software, but at the same time, it still runs on a $10 a month <a href="https://feedland.org/">Digital Ocean server</a>, and on desktops as well. The next FeedLand works at all these levels, for a person, a workgroup and the world. Obviously, lots more to say about all this. <span class="spOldSchoolEmoji">😄</span> 
+
+<http://scripting.com/2023/11/12.html#a142810>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-12, from: Dave Winer's Scripting News)
+
+The great thing about the private Facebook group is I have invited friends from all stages of my life. People I knew in from high school, New Orleans, Madison, Palo Alto, Cambridge and Berkeley, NYC and Woodstock. Even people I knew as a child. People I only or mostly know virtually. Imho, people who won't use Facebook miss out. Its greatest feature are the people who use it. It's the kind of village we yearn for, at a DNA level. People you will never stop loving. I don't think I've ever mentioned this group on the blog, but maybe I should do that more, because it's a uniquely civilized, friendly and soul-nourishing online place, at least for me. 
+
+<http://scripting.com/2023/11/12.html#a134833>
+
+---
+
+## Happy Diwali
+
+date: 2023-11-12, from: Om Malik blog
+
+Happy Diwali everyone. Diwali is the Festival of Lights. It symbolizes the spiritual &#8216;victory of light over darkness, good over evil, and knowledge over ignorance.&#8217; We could all use some light in these dark times. 
+
+<https://om.co/2023/11/12/happy-diwali-6/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-12, from: Dave Winer's Scripting News)
+
+But first I need to be able to interact ChatGPT-style with the archive I've already created. Yesterday I saw <a href="https://www.kawasakigpt.com/">Guy Kawasaki's chatbot</a>, trained with transcripts of his podcast, and I have total LLM-envy. Guy <a href="https://www.threads.net/@guykawasaki/post/CzgmjLOLyZG">says</a> it was created for him by a company named <a href="https://www.linkedin.com/company/sentiyen/about/">Sentiyen</a>. 
+
+<http://scripting.com/2023/11/12.html#a133843>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-12, from: Dave Winer's Scripting News)
+
+Someday an author is going to construct a universe in a LLM and let users interact with it. That sounds boring, but here's the interesting idea that led to it. Yesterday I asked <a href="http://scripting.com/2023/11/11/013609.html">ChatGPT to draw</a> me a image of an ancient band performing in the desert with cacti as the audience. Then this morning I had the idea of moving the concert into the pond behind my house, except this time <a href="https://imgs.scripting.com/2023/11/12/concertInThePond.png">the audience are frogs</a>. I have a private Facebook group where I tell the story of the pond, including the animals who come to visit. Some of them I invent, they don't actually exist. And they have relationships with each other, at least in my mind. A natural thing to make part of this private group would be the LLM of all the animals, and their stories and relationships. And other people's models could incorporate mine. This was an idea I had for SimCity, and the <a href="https://www.google.com/search?q=site%3Ascripting.com+world+outline">web of outlines</a>, neither of which happened. Maybe it'll happen in LLM-land. 
+
+<http://scripting.com/2023/11/12.html#a133514>
+
+---
+
+## Tell me lies, tell me sweet little lies
+
+date: 2023-11-12, from: Status-Q blog
+
+&#8220;We are experiencing an unusually large volume of calls at the moment. We apologise for the delay.  Please stay on the line and your call will be answered in turn.&#8221; My friend Andy Stanford-Clark was complaining about this on Twitter,  &#8220;No, there are an unexpectedly low number of people answering the phones at the moment. Don’t <a class="more-link excerpt-link" href="https://statusq.org/archives/2023/11/12/11794/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2023/11/12/11794/>
+
+---
+
+## Staying Dry and Stealthy
+
+date: 2023-11-12, from: Status-Q blog
+
+I&#8217;ve always been a little bit of a Gore-Tex skeptic.  While I have owned, and do currently own, several garments and shoes incorporating the fabric, I&#8217;ve always felt a little bit let-down by it. &#8220;If this is both waterproof and breathable&#8221;, I would ask myself as I ascended the hill in a slight drizzle, &#8220;then <a class="more-link excerpt-link" href="https://statusq.org/archives/2023/11/12/11784/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<https://statusq.org/archives/2023/11/12/11784/>
+
+---
+
+## PHP File Download Hit Counter
+
+date: 2023-11-12, from: Dave Jarvis' Blog
+
+Describes technical hurdles while building a file download hit counter in PHP. 
+
+<https://dave.autonoma.ca/blog/2023/11/12/php-download-hit-counter>
+
+---
+
+## Ancient band in Arizona desert
+
+date: 2023-11-12, from: Dave Winer's Scripting News
+
+<p>I asked for an ancient rock band performing on stage in the middle of the Arizona desert, and the audience members are all cacti, and they’re partying and grooving on the tunes.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2023/11/11/rockconcertinarizonadesert.png"></center>Ancient band in Arizona desert with cacti audience.</div></p>
+ 
+
+<http://scripting.com/2023/11/11/013609.html?title=ancientBandInArizonaDesert>
+
+---
+
+## Full Circle Weekly News 339
+
+date: 2023-11-12, from: Full Circle Magazine
+
+<ul>
+<li>
+<p><a href="https://github.com/Ubuntu-Sway/Ubuntu-Sway-Remix">Release of Ubuntu Sway Remix 23.10:</a></p>
+</li>
+<li>
+<p><a href="https://www.ghostbsd.org/news/GhostBSD_23.10.1_Now_Available">GhostBSD 23.10.1:</a></p>
+</li>
+<li>
+<p><a href="https://stgraber.org/2023/10/30/announcing-incus-0-2/">Release of Incus 0.2:</a></p>
+</li>
+<li>
+<p><a href="https://code.videolan.org/videolan/vlc/-/tags/3.0.20">Release of VLC 3.0.20:</a></p>
+</li>
+<li>
+<p><a href="https://astian.org/midori-en/explore-midori-11-0-faster-and-lighter-than-ever/">Midori 11 web browser based on the Floorp project:</a></p>
+</li>
+<li>
+<p><a href="https://forum.palemoon.org/viewtopic.php?t=30485&amp;p=245150#p245150">Release of Pale Moon 32.5:</a></p>
+</li>
+<li>
+<p><a href="https://yggdrasil-network.github.io/">Release of Yggdrasil 0.5:</a></p>
+</li>
+<li>
+<p><a href="https://www.audacityteam.org/blog/audacity-3-4/">Audacity 3.4:</a></p>
+</li>
+<li>
+<p><a href="http://www.gnu.org/software/gawk">New version of the GNU Awk 5.3 interpreter:</a></p>
+</li>
+<li>
+<p><a href="https://nxos.org/changelog/release-announcement-nitrux-3-1-0/">Release of Nitrux 3.1:</a></p>
+</li>
+<li>
+<p><a href="https://openela.org/news/2023.11.02-governance_and_code_availability/">OpenELA repositories for RHEL-compatible distributions:</a></p>
+</li>
+<li>
+<p><a href="https://radix.pro/platform/install/">Release of Radix cross 1.9.212:</a></p>
+</li>
+<li>
+<p><a href="https://lists.exim.org/lurker/message/20231104.135832.37148bbd.en.html">New version of Exim 4.97 mail server:</a></p>
+</li>
+</ul>
+<p><strong>Credits</strong></p>
+<ul>
+<li>Host: <a href="https://twitter.com/bardictriad">@bardictriad</a>, <a href="mailto:zaivala@hostux.social">@zaivala</a></li>
+<li>Bumper: <a href="https://canonical.com/">Canonical</a></li>
+<li>Theme Music: From The Dust - Stardust</li>
+<li><a href="https://soundcloud.com/ftdmusic">https://soundcloud.com/ftdmusic</a></li>
+<li><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></li>
+</ul> 
+
+<https://fullcirclemagazine.org/podcasts/podcast-339/>
+

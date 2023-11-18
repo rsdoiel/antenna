@@ -23,7 +23,7 @@ HTML_PAGES=$(shell ls -1 *.md | sed -E "s/.md/.html/")
 #
 # build, the start of the rules to build the site
 #
-build: mid_central socal_north weather pacific archives $(HTML_PAGES) pagefind
+build: socal_north mid_central pacific tech_likely weather archives $(HTML_PAGES) pagefind
 
 %.html: %.md front_page.tmpl
 	pandoc -f markdown -t html5 \
@@ -32,6 +32,7 @@ build: mid_central socal_north weather pacific archives $(HTML_PAGES) pagefind
 		   --metadata mid_central_page="mid_central.html" \
 	       --metadata pacific_page="pacific.html" \
 	       --metadata socal_north_page="socal_north.html" \
+	       --metadata tech_likely_page="tech_likely.html" \
 	       --metadata weather_page="weather.html" \
 		   --template front_page.tmpl \
 		   $< \
@@ -52,6 +53,7 @@ mid_central.html: mid_central.md front_page.tmpl
 		   --metadata mid_central_page="mid_central.html" \
 	       --metadata socal_north_page="socal_north.html" \
 	       --metadata pacific_page="pacific.html" \
+	       --metadata tech_likely_page="tech_likely.html" \
 	       --metadata weather_page="weather.html" \
 	       --metadata urls_file="mid_central.txt" \
 		   --template front_page.tmpl \
@@ -63,8 +65,29 @@ mid_central.md: mid_central.txt
 	cp mid_central.md $(YEAR)/mid_central_$(VOL_NO).md
 
 mid_central.txt: mid_central.skim
-	sqlite3 mid_central.skim "UPDATE items SET status = 'read'"
-	sqlite3 mid_central.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
+
+tech_likely: tech_likely.html
+
+tech_likely.html: tech_likely.md front_page.tmpl
+	pandoc -f markdown -t html5 \
+	       --lua-filter=links-to-html.lua \
+	       --metadata title="Tech Likely, vol. $(VOL_NO)" \
+	       --metadata feed_name="Tech Likely" \
+		   --metadata mid_central_page="mid_central.html" \
+	       --metadata socal_north_page="socal_north.html" \
+	       --metadata pacific_page="pacific.html" \
+	       --metadata tech_likely_page="tech_likely.html" \
+	       --metadata weather_page="weather.html" \
+	       --metadata urls_file="mid_central.txt" \
+		   --template front_page.tmpl \
+		   tech_likely.md \
+		   >tech_likely.html
+
+tech_likely.md: tech_likely.txt
+	skim2md tech_likely.skim >tech_likely.md
+	cp tech_likely.md $(YEAR)/tech_likely_$(VOL_NO).md
+
+tech_likely.txt: tech_likely.skim
 
 socal_north: socal_north.html
 
@@ -78,6 +101,7 @@ socal_north.html: socal_north.md front_page.tmpl
 		   --metadata mid_central_page="mid_central.html" \
 	       --metadata socal_north_page="socal_north.html" \
 	       --metadata pacific_page="pacific.html" \
+	       --metadata tech_likely_page="tech_likely.html" \
 	       --metadata weather_page="weather.html" \
 	       --metadata urls_file="socal_north.txt" \
 		   --template front_page.tmpl \
@@ -87,8 +111,6 @@ socal_north.html: socal_north.md front_page.tmpl
 socal_north.md: socal_north.txt
 
 socal_north.txt: socal_north.skim
-	sqlite3 socal_north.skim "UPDATE items SET status = 'read'"
-	sqlite3 socal_north.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
 pacific: pacific.html
 
@@ -103,6 +125,7 @@ pacific.html: pacific.md front_page.tmpl
 		   --metadata mid_central_page="mid_central.html" \
 	       --metadata socal_north_page="socal_north.html" \
 	       --metadata pacific_page="pacific.html" \
+	       --metadata tech_likely_page="tech_likely.html" \
 	       --metadata weather_page="weather.html" \
 	       --metadata urls_file="pacific.txt" \
 		   --template front_page.tmpl \
@@ -112,8 +135,6 @@ pacific.html: pacific.md front_page.tmpl
 pacific.md: pacific.txt
 
 pacific.txt: pacific.skim
-	sqlite3 pacific.skim "UPDATE items SET status = 'read'"
-	sqlite3 pacific.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
 weather: weather.html 
 
@@ -127,6 +148,7 @@ weather.html: weather.md front_page.tmpl
 	       --metadata socal_north_page="socal_north.html" \
 		   --metadata mid_central_page="mid_central.html" \
 	       --metadata pacific_page="pacific.html" \
+	       --metadata tech_likely_page="tech_likely.html" \
 	       --metadata weather_page="weather.html" \
 	       --metadata urls_file="weather.txt" \
 		   --template front_page.tmpl \
@@ -136,25 +158,41 @@ weather.html: weather.md front_page.tmpl
 weather.md: weather.txt
 
 weather.txt: weather.skim
+
+tech_likely.skim:
+	-skimmer tech_likely.txt
+	sqlite3 tech_likely.skim "UPDATE items SET status = 'read'"
+	sqlite3 tech_likely.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
+
+socal_north.skim:
+	-skimmer socal_north.txt
+	sqlite3 socal_north.skim "UPDATE items SET status = 'read'"
+	sqlite3 socal_north.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
+
+pacific.skim:
+	-skimmer pacific.txt
+	sqlite3 pacific.skim "UPDATE items SET status = 'read'"
+	sqlite3 pacific.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
+
+mid_central.skim:
+	-skimmer mid_central.txt
+	sqlite3 mid_central.skim "UPDATE items SET status = 'read'"
+	sqlite3 mid_central.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
+
+weather.skim:
+	-skimmer weather.txt
 	sqlite3 weather.skim "UPDATE items SET status = 'read'"
 	sqlite3 weather.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
-socal_north.skim:
-	-env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer socal_north.txt
+get_updates: clean socal_north.skim pacific.skim mid_central.skim
 
-mid_central.skim:
-	-env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer mid_central.txt
-
-pacific.skim:
-	-env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer pacific.txt
-
-weather.skim:
-	-env SKIM_USER_AGENT="User-Agent: curl/8.4.0" skimmer weather.txt
 
 # Clean only removes up the current volume pages
 clean: .FORCE
 	-rm mid_central.md 2>/dev/null
 	-rm mid_central.html 2>/dev/null
+	-rm tech_likely.md 2>/dev/null
+	-rm tech_likely.html 2>/dev/null
 	-rm socal_north.md 2>/dev/null
 	-rm socal_north.html 2>/dev/null
 	-rm weather.md 2>/dev/null
@@ -196,19 +234,5 @@ refresh:
 
 publish: .FORCE build
 	./publish.bash
-
-get_updates: clean .FORCE
-	-skimmer socal_north.txt
-	sqlite3 mid_central.skim "UPDATE items SET status = 'read'"
-	sqlite3 mid_central.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
-	-skimmer pacific.txt
-	sqlite3 pacific.skim "UPDATE items SET status = 'read'"
-	sqlite3 pacific.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
-	-skimmer mid_central.txt
-	sqlite3 mid_central.skim "UPDATE items SET status = 'read'"
-	sqlite3 mid_central.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
-	-skimmer weather.txt
-	sqlite3 weather.skim "UPDATE items SET status = 'read'"
-	sqlite3 weather.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
 .FORCE:

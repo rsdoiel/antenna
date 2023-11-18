@@ -1,5 +1,15 @@
 
-(date: 2023-11-17 13:31:56)
+(date: 2023-11-17 17:10:35)
+
+---
+
+## 2023 ARRL Board of Directors Election Results
+
+date: 2023-11-17, from: Amateur Radio Relay League News
+
+<p>ARRL  The National Association for Amateur Radio® announces the results of the 2023 ARRL Division elections.</p><p>ARRL Great Lakes Division Vice Director Scott Yonally, N8SY (2,175 votes), of Lexington, Ohio, defeated candidate Michael Kalter, W8CI (2,023 votes), for the position of Division Director. Yonally will assume the role when Director Dale Williams, WA8EFK, who has held the seat since 2014, ...</p> 
+
+<http://www.arrl.org/news/view/2023-arrl-board-of-directors-election-results>
 
 ---
 
