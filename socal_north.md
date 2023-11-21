@@ -1,5 +1,140 @@
 
-(date: 2023-11-20 08:44:33)
+(date: 2023-11-20 20:26:31)
+
+---
+
+## USAC Recap – Nov. 14
+
+date: 2023-11-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its second meeting of November on Tuesday.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<https://dailybruin.com/2023/11/20/usac-recap-nov-14/>
+
+---
+
+## UCLA men’s basketball gears up in full strength for Maui Invitational
+
+date: 2023-11-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins have played short-handed all season for reasons beyond their control.
+Their record doesn&#8217;t show it – they haven&#8217;t taken a loss through three nonconference games. 
+
+<https://dailybruin.com/2023/11/20/ucla-mens-basketball-gears-up-in-full-strength-for-maui-invitational/>
+
+---
+
+## Artemisia Template
+
+date: 2023-11-20, from: California Native Plants Society
+
+<p>Activists take a stand for Jackson Demonstration State Forest, a magical place on the Mendocino Coast filled with coast redwoods and brimming with biodiversity.</p>
+<p>The post <a href="https://www.cnps.org/artemisia-journal/artemisia-template-36496">Artemisia Template</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<https://www.cnps.org/artemisia-journal/artemisia-template-36496>
+
+---
+
+## The similarity between the Tet Offensive and Israel-Hamas today
+
+date: 2023-11-20, from: The Sundail (CSUN Student Newspaper)
+
+“Crack the sky, shake the earth.” This was the message from North Vietnamese forces that inaugurated the Tet Offensive. The historical parallels are jarring: a force perceived to be on their backheels demonstrating a willful display of aggression during a holiday that changed the complexion of a conflict henceforth. The Tet Offensive was a significant... 
+
+<https://sundial.csun.edu/177143/opinions/the-similarity-between-the-tet-offensive-and-israel-hamas-today/>
+
+---
+
+## Despite a STEM background, alumnus Sally Qiu inks own path as tattoo artist
+
+date: 2023-11-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sally Qiu is breaking down boundaries with every move of their tattoo machine.
+The alumnus works as a tattoo artist in Los Angeles despite their background as a molecular, cell and developmental biology student. 
+
+<https://dailybruin.com/2023/11/20/despite-a-stem-background-alumnus-sally-qiu-inks-own-path-as-tattoo-artist/>
+
+---
+
+## Anna Dodson leads UCLA women’s volleyball with heart, human connection
+
+date: 2023-11-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Anna Dodson&#8217;s performance on the court holds an emotional undercurrent.
+“Anna has tremendous heart,&#8221; said coach Alfee Reft. &#8220;And she’s OK wearing that heart on her sleeve.&#8221;
+Since the redshirt senior middle blocker landed in Westwood in 2019, she has picked up two All-Pac-12 honors and an AVCA Pacific South All-Region mention and was named to the 2023 U.S. 
+
+<https://dailybruin.com/2023/11/20/anna-dodson-leads-ucla-womens-volleyball-with-heart-human-connection/>
+
+---
+
+## What You Need To Know About Getting RSV Shots Amid Shortage
+
+date: 2023-11-20, updated: 2023-11-21, from: The LAist
+
+Cases of the common but potentially deadly respiratory virus are on the rise in California. 
+
+<https://laist.com/news/health/thousands-of-rsv-shots-may-not-be-enough-to-ease-shortage-before-winter-surge>
+
+---
+
+## UCLA men’s water polo drops second straight in MPSF tournament third-place game
+
+date: 2023-11-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins had the chance to relight the spark of their undefeated season but ultimately failed to exit the loss column. 
+&#8220;We can really see that if we don&#8217;t play the right way and play the way we need to, the result that shows,&#8221; said senior goalkeeper Garret Griggs. 
+
+<https://dailybruin.com/2023/11/20/ucla-mens-water-polo-drops-second-straight-in-mpsf-tournament-third-place-game/>
+
+---
+
+## Despite Senior Day festivities, UCLA women’s volleyball falls to Cal
+
+date: 2023-11-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruin faithful held their bated breath as coach Alfee Reft challenged a call that could have allowed his squad to see a fifth set.
+But when the challenge was overruled, the Bruins had failed to defend Pauley Pavilion from what could be their last time playing at home in 2023. 
+
+<https://dailybruin.com/2023/11/20/despite-senior-day-festivities-ucla-womens-volleyball-falls-to-cal/>
+
+---
+
+## El primer micro bosque de Occidental tendrá un impacto macro
+
+date: 2023-11-20, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Un rincón no explorado entre el Norris Hall de Química y el Centro Administrativo Arthur G. Coons pronto se transformará en un próspero e interactivo microbosque gracias a voluntarios estudiantiles inscritos en la clase de Forma y Función de las Plantas, impartida por la profesora de biología Gretchen North. Según North, la plantación de este [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2023/11/20/el-primer-micro-bosque-de-occidental-tendra-un-impacto-macro/2910730">El primer micro bosque de Occidental tendrá un impacto macro</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/espanol/2023/11/20/el-primer-micro-bosque-de-occidental-tendra-un-impacto-macro/2910730>
+
+---
+
+## Kim Bryant Lundy, Directora Asistente de Campus Safety, fallece a los 68 años
+
+date: 2023-11-20, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Kim Bryant Lundy, Directora Asistente de Campus Safety, cuyo trabajo se centraba en los sobrevivientes dentro de la comunidad de Occidental, dejó una huella indeleble tras su fallecimiento el 22 de octubre. Tenía 68 años. Su hija, Autumn Lundy, de 25 años, dijo que su fallecimiento fue causado por complicaciones derivadas del cáncer. Kim Lundy [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2023/11/20/kim-bryant-lundy-directora-asistente-de-campus-safety-fallece-a-los-68-anos/2910522">Kim Bryant Lundy, Directora Asistente de Campus Safety, fallece a los 68 años</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<https://theoccidentalnews.com/espanol/2023/11/20/kim-bryant-lundy-directora-asistente-de-campus-safety-fallece-a-los-68-anos/2910522>
+
+---
+
+## Launch Into a Galactic World at the Family Literacy Festival
+
+date: 2023-11-20, from: City of Santa Clarita
+
+<p>Launch Into a Galactic World at the Family Literacy Festival By City Manager Ken Striplin “The more that you read, the more you will know” – Dr. Seuss Are you looking for a day full of out-of-this-world engaging activities, with a big dose of intergalactic information? Look no further than the 16th annual Family Literacy [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/11/20/launch-into-a-galactic-world-at-the-family-literacy-festival/">Launch Into a Galactic World at the Family Literacy Festival</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2023/11/20/launch-into-a-galactic-world-at-the-family-literacy-festival/>
 
 ---
 
@@ -33,6 +168,16 @@ The holiday season in L.A. is magical — a winterland of holiday lights, withou
 
 ---
 
+## LA’s Century-Long Battle To Keep The Ocean From Poisoning Our Drinking Water
+
+date: 2023-11-20, updated: 2023-11-20, from: The LAist
+
+The ocean is trying to contaminate our aquifers. 
+
+<https://laist.com/news/climate-environment/las-century-long-battle-to-keep-the-ocean-from-poisoning-our-drinking-water>
+
+---
+
 ## Best Things To Do This Thanksgiving Week In Los Angeles And SoCal: Nov. 20 - 22
 
 date: 2023-11-20, updated: 2023-11-20, from: The LAist
@@ -40,16 +185,6 @@ date: 2023-11-20, updated: 2023-11-20, from: The LAist
 Wander in an Enchanted Forest of Light. Attend The West Coast Feast with The Pharcyde, Talib Kweli and others. Test your chess skills in an open tournament. 
 
 <https://laist.com/news/arts-and-entertainment/best-things-to-do-this-week-los-angeles-southern-california-november-20-22>
-
----
-
-## LA’s Century Long Battle To Keep The Ocean From Poisoning Our Drinking Water
-
-date: 2023-11-20, updated: 2023-11-20, from: The LAist
-
-The ocean is trying to contaminate our aquifers. 
-
-<https://laist.com/news/climate-environment/las-century-long-battle-to-keep-the-ocean-from-poisoning-our-drinking-water>
 
 ---
 

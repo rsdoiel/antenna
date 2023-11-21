@@ -78,7 +78,7 @@ tech_likely.html: tech_likely.md front_page.tmpl
 	       --metadata pacific_page="pacific.html" \
 	       --metadata tech_likely_page="tech_likely.html" \
 	       --metadata weather_page="weather.html" \
-	       --metadata urls_file="mid_central.txt" \
+	       --metadata urls_file="tech_likely.txt" \
 		   --template front_page.tmpl \
 		   tech_likely.md \
 		   >tech_likely.html
@@ -159,27 +159,27 @@ weather.md: weather.txt
 
 weather.txt: weather.skim
 
-tech_likely.skim:
+tech_likely.skim: .FORCE
 	-skimmer tech_likely.txt
 	sqlite3 tech_likely.skim "UPDATE items SET status = 'read'"
 	sqlite3 tech_likely.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
-socal_north.skim:
+socal_north.skim: .FORCE
 	-skimmer socal_north.txt
 	sqlite3 socal_north.skim "UPDATE items SET status = 'read'"
 	sqlite3 socal_north.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
-pacific.skim:
+pacific.skim: .FORCE
 	-skimmer pacific.txt
 	sqlite3 pacific.skim "UPDATE items SET status = 'read'"
 	sqlite3 pacific.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
-mid_central.skim:
+mid_central.skim: .FORCE
 	-skimmer mid_central.txt
 	sqlite3 mid_central.skim "UPDATE items SET status = 'read'"
 	sqlite3 mid_central.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
-weather.skim:
+weather.skim: .FORCE
 	-skimmer weather.txt
 	sqlite3 weather.skim "UPDATE items SET status = 'read'"
 	sqlite3 weather.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"

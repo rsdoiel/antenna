@@ -1,1897 +1,386 @@
 
-(date: 2023-11-20 08:44:34)
+(date: 2023-11-20 20:26:56)
 
 ---
 
-## UH alumnus Masaru Oshiro named Social Work Pioneer®
+## GWA lane closures for Wednesday
 
-date: 2023-11-17, from: University of Hawaiʻi News
+date: 2023-11-21, from: Pacific Daily News
 
-<p>Oshiro dedicated his life’s career to social work and focused on helping meet people’s basic needs to enhance their well-being.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/17/oshiro-named-social-work-pioneer/"><abbr>UH</abbr> alumnus Masaru Oshiro named Social Work Pioneer<sup>®</sup></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+Guam Waterworks Authority lane closures for Wednesday 
 
-<https://www.hawaii.edu/news/2023/11/17/oshiro-named-social-work-pioneer/>
-
----
-
-## UH partners with Propeller to accelerate climate solutions
-
-date: 2023-11-17, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> M&#257;noa has forged a new partnership with Propeller Ventures to build on initiatives to accelerate climate solutions.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/17/uh-partnership-propeller/"><abbr>UH</abbr> partners with Propeller to accelerate climate solutions</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/17/uh-partnership-propeller/>
+<https://www.guampdn.com/gwa-lane-closures-for-wednesday/image_8881ed06-8825-11ee-abd0-5b6b65d53783.html>
 
 ---
 
-## UH-mazing holiday recipes: Richard Ramirez’s chilaquiles
+## GovGuam's $105 million revenue surplus depleted due to overappropriations
 
-date: 2023-11-17, from: University of Hawaiʻi News
+date: 2023-11-21, from: Pacific Island Times
 
-<p>Ramirez's grandmother and mother made chilaquiles, a traditional Mexican breakfast dish, for him and his siblings/</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/17/uh-mazing-holiday-recipes-ramirez-chilaquiles/"><abbr>UH</abbr>-mazing holiday recipes: Richard Ramirez’s chilaquiles</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+By Pacific Island Times News Staff The government of Guam ended fiscal year 2022 with a surplus of $105.1 million, which has since been... 
 
-<https://www.hawaii.edu/news/2023/11/17/uh-mazing-holiday-recipes-ramirez-chilaquiles/>
-
----
-
-## Students connect to business, cybersecurity career opportunities
-
-date: 2023-11-17, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> West O&#699;ahu students connect with local businesses and alumni in hopes of internships and to guide their path after college.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/17/business-cybersecurity-career-opportunities/">Students connect to business, cybersecurity career opportunities</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/17/business-cybersecurity-career-opportunities/>
+<https://www.pacificislandtimes.com/post/govguam-s-revenue-surplus-depleted-due-to-overappropations>
 
 ---
 
-## Murder trial set for February
+## RELEASE: PIFLM52 – Global pledges begin as Leaders endorse new Pacific Resilience Facility
 
-date: 2023-11-17, from: The Guam Daily Post
+date: 2023-11-21, from: Pacific Island Forum
 
-A man accused of being involved in the death of Jason Susuico will go to trial in January. 
+21 November, 2023 A US 50 million pledge from Saudi Arabia has opened the investor search for a new US 500 million Pacific Resilience Fund (PRF)<span class="excerpt-hellip"> […]</span> 
 
-<https://www.postguam.com/news/local/murder-trial-set-for-february/article_5238d5bc-84eb-11ee-8452-6ff8ed61926d.html>
-
----
-
-## Behavioral Health director: Sanctuary to shut down, become part of WestCare
-
-date: 2023-11-17, from: The Guam Daily Post
-
-Sanctuary Inc. of Guam, as a nonprofit organization, will no longer be "a player out there," according to Theresa Arriola, director of the Guam Behavioral Health and Wellness Center and a former executive director at Sanctuary. 
-
-<https://www.postguam.com/news/local/behavioral-health-director-sanctuary-to-shut-down-become-part-of-westcare/article_ef10ddf6-842f-11ee-85cc-1354c739a271.html>
+<https://www.forumsec.org/2023/11/21/release-piflm52-global-pledges-begin-as-leaders-endorse-new-pacific-resilience-facility/>
 
 ---
 
-## ERA, HAF continue to provide pandemic relief
+## REMARKS: PIF SG Henry Puna at the Seventh Pacific Forum on Sustainable Development
 
-date: 2023-11-17, from: The Guam Daily Post
+date: 2023-11-21, from: Pacific Island Forum
 
-Roughly 500 Guam residents are still in need of Emergency Rental Assistance as a result of hardship experienced during the COVID-19 pandemic and homeowners will soon be able to apply for continued aid under the Homeowners Assistance Fund. 
+Delivered by the Secretary General of the Pacific Islands Forum, Henry Puna. at the Seventh Pacific Forum on Sustainable Development 21 November 2023, Suva Fiji. &#160;<span class="excerpt-hellip"> […]</span> 
 
-<https://www.postguam.com/news/local/era-haf-continue-to-provide-pandemic-relief/article_a8e1814c-84ec-11ee-9709-9f984b1961e1.html>
-
----
-
-## Apprenticeship Week celebrates increase in program enrollment
-
-date: 2023-11-17, from: The Guam Daily Post
-
-The number of apprentices enrolled in the Guam Registered Apprenticeship Program has grown in the last six fiscal years, from 229 registered apprentices in fiscal year 2018 to 433 in fiscal 2023, the administration announced in a press release. 
-
-<https://www.postguam.com/news/local/apprenticeship-week-celebrates-increase-in-program-enrollment/article_74ff4e02-84ee-11ee-8914-23ed97b7dfac.html>
+<https://www.forumsec.org/2023/11/21/remarks-pif-sg-henry-puna-at-the-seventh-pacific-forum-on-sustainable-development/>
 
 ---
 
-## Commando Warrior training continues at Andersen AFB
+## Revitalised Pacific Leaders Gender Equality Declaration
 
-date: 2023-11-17, from: The Guam Daily Post
+date: 2023-11-21, from: Pacific Island Forum
 
-Andersen Air Force Base, home to the Pacific Regional Training Center, continues to operate the Commando Warrior sustainment training through members of the 736th Security Forces Squadron Commando Warrior Flight, the Air Force announced in a press release. The sustainment… 
+Pacific Forum Leaders Declaration on achieving gender equality through the 2050 Strategy for the Blue Pacific Continent View/Download PDF PREAMBLE 1. Recalling the 2012 Pacific Leaders<span class="excerpt-hellip"> […]</span> 
 
-<https://www.postguam.com/news/local/commando-warrior-training-continues-at-andersen-afb/article_aeaa59bc-8502-11ee-bf37-87dac800eff2.html>
-
----
-
-## GPD reveals car encroached into oncoming lane in Mangilao crash
-
-date: 2023-11-17, from: The Guam Daily Post
-
-A three-car collision Thursday evening in Mangilao was the result of a car encroaching into the oncoming lane, according to police. 
-
-<https://www.postguam.com/news/local/gpd-reveals-car-encroached-into-oncoming-lane-in-mangilao-crash/article_0415b5a4-84e5-11ee-be29-af1d6ee4cbc2.html>
+<https://www.forumsec.org/2023/11/21/revitalised-pacific-leaders-gender-equality-declaration/>
 
 ---
 
-## Man, 64, sought by police in criminal sexual conduct offenses
+## Parkinson proposes abolishing elected CCU
 
-date: 2023-11-17, from: The Guam Daily Post
+date: 2023-11-21, from: The Guam Daily Post
 
-Police are looking for a 64-year-old man to question in connection to offenses related to criminal sexual conduct. 
+Sen. William Parkinson has introduced legislation proposing to abolish the elected Consolidated Commission on Utilities and replace it with an appointed board, a measure proposed earlier by Attorney General Douglas Moylan. 
 
-<https://www.postguam.com/news/local/man-64-sought-by-police-in-criminal-sexual-conduct-offenses/article_7e151cac-84e8-11ee-832e-4fd9702fdaae.html>
-
----
-
-## Triple J Bubble Color Run 5K/10K Saturday in Upper Tumon
-
-date: 2023-11-17, from: The Guam Daily Post
-
-Triple J Auto Group recently announced in a news release that its 5K and 10K Bubble Color Run is scheduled for Saturday, starting at the dealership’s main location in Upper Tumon in front of Kmart. 
-
-<https://www.postguam.com/news/local/triple-j-bubble-color-run-5k-10k-saturday-in-upper-tumon/article_2e7a66e2-77a1-11ee-9409-c314fb2d73dc.html>
+<https://www.postguam.com/news/local/parkinson-proposes-abolishing-elected-ccu/article_5fd9e834-880e-11ee-ac50-9f22f81d1f87.html>
 
 ---
 
-## Nearby disturbance could become tropical depression by Saturday
+## UH sailing team finished season in second at Pacific Coast Championships
 
-date: 2023-11-17, from: The Guam Daily Post
+date: 2023-11-21, from: University of Hawaiʻi News
 
-A tropical disturbance in the region could possibly develop into a tropical depression by the time it passes near Guam on Saturday. 
+<p>The coed sailing team will host the Peter Wenner Rainbow Invite in the spring, January 20&#8211;21.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/20/uh-sailing-wrapped-up-fall-season/"><abbr>UH</abbr> sailing team finished season in second at Pacific Coast Championships</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
-<https://www.postguam.com/news/local/nearby-disturbance-could-become-tropical-depression-by-saturday/article_33289d7e-8504-11ee-bffd-afff3294a780.html>
-
----
-
-## Music festival takes Guam Beyond the Reef this weekend
-
-date: 2023-11-17, from: The Guam Daily Post
-
-The upcoming Beyond the Reef Volume 2 Music Festival will bring island vibes this weekend, with food trucks, food vendors and talented singers from Guam and across the Pacific. 
-
-<https://www.postguam.com/news/local/music-festival-takes-guam-beyond-the-reef-this-weekend/article_17bf0a3a-829f-11ee-a75c-8327b90a23c9.html>
+<https://www.hawaii.edu/news/2023/11/20/uh-sailing-wrapped-up-fall-season/>
 
 ---
 
-## Economic Symposium rebranded Development Symposium;
+## Deep-sea exploration expedition to launch in Palau next year
 
-date: 2023-11-17, from: Island Times
+date: 2023-11-21, from: Pacific Island Times
 
-<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67209" data-permalink="https://islandtimes.org/economic-symposium-rebranded-development-symposium/20231116_105744/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?fit=2560%2C1440&amp;ssl=1" data-orig-size="2560,1440" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1700132265&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.03030303030303&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20231116_105744" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231116_105744-scaled.jpg?fit=780%2C439&amp;ssl=1" /></figure>
-<p>Focuses on development sustainability, community-focused growth Palau’s Economic Symposium was successfully rebranded this year as the Development Symposium, focusing on sustainable development and community-focused growth.  “Our theme reflects our expanded focus.&#160; We are not just talking about economic growth. We are exploring energy, tourism, education, technological innovations, and social initiatives …all crucial drivers of our [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/economic-symposium-rebranded-development-symposium/">Economic Symposium rebranded Development Symposium;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+By Pacific Island Times News Staff Koror-- A deep ocean exploration expedition is being planned for 2024 in preparation for the mapping... 
+
+<https://www.pacificislandtimes.com/post/deep-sea-exploration-expedition-to-launch-in-palau-next-year>
+
+---
+
+## Wahine Vulcans recognized for their soccer performances
+
+date: 2023-11-21, from: University of Hawaiʻi News
+
+<p>Teani Arakawa voted as the PacWest Preseason Player of the Year.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/20/wahine-vulcans-recognized-performances/">Wahine Vulcans recognized for their soccer performances</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/20/wahine-vulcans-recognized-performances/>
+
+---
+
+## The old hospital at Ypao Point
+
+date: 2023-11-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff Currently pending in the 37th Guam Legislature is Sen. Chris Barnett’s bill seeking to end the debate... 
+
+<https://www.pacificislandtimes.com/post/the-old-hospital-at-ypao-point>
+
+---
+
+## GMH doctors back Ypao Point for new hospital, but Adelup says the site is located on faultline
+
+date: 2023-11-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff The debate on the future location of Guam's new medical facility continued to flare up on Monday... 
+
+<https://www.pacificislandtimes.com/post/gmh-doctors-back-ypao-point-for-new-hospital-but-adelup-says-the-site-is-located-on-faultline>
+
+---
+
+## INSIGHTS ON PBS HAWAIʻI The Challenge of Giving
+
+date: 2023-11-21, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Join the conversation on our Facebook , Thursday, November 30 at 7:30 pm on INSIGHTS ON PBS HAWAIʻI. Scheduled Guests: tba &#160;</p>
+<p>The post <a rel="nofollow" href="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-the-challenge-of-giving/">INSIGHTS ON PBS HAWAIʻI &lt;br/&gt;The Challenge of Giving</a> appeared first on <a rel="nofollow" href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
  
 
-<https://islandtimes.org/economic-symposium-rebranded-development-symposium/>
+<https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-the-challenge-of-giving/>
 
 ---
 
-## South Australian fugitive arrested in Palau,
+## UH joins APEC leaders to tackle climate change, biodiversity
 
-date: 2023-11-17, from: Island Times
+date: 2023-11-21, from: University of Hawaiʻi News
 
-<figure><img width="600" height="600" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/s200_lisa.lines_.jpg?fit=600%2C600&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/s200_lisa.lines_.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/s200_lisa.lines_.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/s200_lisa.lines_.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/s200_lisa.lines_.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/s200_lisa.lines_.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/s200_lisa.lines_.jpg?fit=600%2C600&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67206" data-permalink="https://islandtimes.org/south-australian-fugitive-arrested-in-palau/s200_lisa-lines/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/s200_lisa.lines_.jpg?fit=600%2C600&amp;ssl=1" data-orig-size="600,600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="s200_lisa.lines" data-image-description="" data-image-caption="&lt;p&gt;Australian fugitive, arrested in Palau, for charges of attempted murder in her country.&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/s200_lisa.lines_.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/s200_lisa.lines_.jpg?fit=600%2C600&amp;ssl=1" /></figure>
-<p>Awaiting extradition to Australia An Australian fugitive, sought in Australia on charges of attempted murder and conspiracy to murder, was arrested in Palau on Wednesday, November 15, 2023, through collaborative work between the South Australian Police criminal investigation unit, Australian Federal Police, and Palau law enforcement.&#160; The accused, Ms. Lisa Lines, a 43-year-old woman, is [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/south-australian-fugitive-arrested-in-palau/">South Australian fugitive arrested in Palau,</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+<p>President Lassner joined the APEC University Leaders’ Forum discussions on sustainability.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/20/uh-apec-climate-change-biodiversity/"><abbr>UH</abbr> joins APEC leaders to tackle climate change, biodiversity</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/20/uh-apec-climate-change-biodiversity/>
+
+---
+
+## Gallagher, Ivanov qualify for Olympic swimming trials
+
+date: 2023-11-21, from: University of Hawaiʻi News
+
+<p>Gallagher finished .38 seconds under the Olympic standard at the <abbr>SMU</abbr> Invitational Long Course Time Trials.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/20/gallagher-ivanov-olympic-trials/">Gallagher, Ivanov qualify for Olympic swimming trials</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/20/gallagher-ivanov-olympic-trials/>
+
+---
+
+## Taiwan working with the world toward a net-zero future
+
+date: 2023-11-20, from: Pacific Island Times
+
+Taiwan is making significant efforts and is committed to addressing the urgent issue of climate change and achieving a net-zero future in... 
+
+<https://www.pacificislandtimes.com/post/taiwan-working-with-the-world-toward-a-net-zero-future>
+
+---
+
+## All One Time
+
+date: 2023-11-20, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Michael Copperman When I saw uncle Robert out back of my Aunty Ruby&#8217;s house after mochi-making a few days before the New Year, I was in my early twenties and he seemed unchanged from my memories of childhood. His &#8230; <a href="https://hawaiipacificreview.org/2023/11/20/all-one-time/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://hawaiipacificreview.org/2023/11/20/all-one-time/>
+
+---
+
+## UH-mazing holiday recipes: Jacqueline Maly’s Lemon Squares
+
+date: 2023-11-20, from: University of Hawaiʻi News
+
+<p>Windward Community College Professor Emerita Jacqueline Maly offers her recipe for lemon squares.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/20/uh-mazing-holiday-recipe-maly-lemon-squares/"><abbr>UH</abbr>-mazing holiday recipes: Jacqueline Maly’s Lemon Squares</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/20/uh-mazing-holiday-recipe-maly-lemon-squares/>
+
+---
+
+## Scientists solve the mystery of red wine headaches
+
+date: 2023-11-20, from: The Guam Daily Post
+
+A red wine headache can occur within 30 minutes to three hours after drinking as little as a small glass of wine. 
+
+<https://www.postguam.com/lifestyles/health/scientists-solve-the-mystery-of-red-wine-headaches/article_0cc7b0f6-a429-5cd4-af15-a502e6a29823.html>
+
+---
+
+## Mitigating, preventing disaster losses focus of new UH-led resource
+
+date: 2023-11-20, from: University of Hawaiʻi News
+
+<p>The document outlines the field’s current challenges and key research questions and includes example research campaigns.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/20/nheri-science-plan-third-edition/">Mitigating, preventing disaster losses focus of new <abbr>UH</abbr>-led resource</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/20/nheri-science-plan-third-edition/>
+
+---
+
+## UH Foundation invites donors to ‘Stand with Maui’ on Giving Tuesday
+
+date: 2023-11-20, from: University of Hawaiʻi News
+
+<p>Join together on November 28 to raise funds for Maui’s recovery.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/20/uh-foundation-invites-donors-to-stand-with-maui-on-giving-tuesday/"><abbr>UH</abbr> Foundation invites donors to ‘Stand with Maui’ on Giving Tuesday</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/20/uh-foundation-invites-donors-to-stand-with-maui-on-giving-tuesday/>
+
+---
+
+## Most Americans more likely to take naps during the holiday season
+
+date: 2023-11-20, from: The Guam Daily Post
+
+A survey found naps peak during the holiday season. 
+
+<https://www.postguam.com/lifestyles/health/most-americans-more-likely-to-take-naps-during-the-holiday-season/article_ee902643-d4b2-523c-bb64-d36ce82ba4ac.html>
+
+---
+
+## Court settles Ngerbeched title dispute
+
+date: 2023-11-20, from: Tia Belau (Palau's First Newspaper)
+
+While the longest traditional title dispute of Inglai clan of over 50 years, is still raging in court, another long&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7548>
+
+---
+
+## Ngeremlengui gubernatorial candidates engage in Q&A Session
+
+date: 2023-11-20, from: Tia Belau (Palau's First Newspaper)
+
+By Kambes Kesolei The Ngeremlengui Ngara-Imeong Council of Chiefs hosted a Q&#38;A session with gubernatorial and legislative candidates ahead of&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7545>
+
+---
+
+## Decline for Melekeok election closes:
+
+date: 2023-11-20, from: Tia Belau (Palau's First Newspaper)
+
+Woman candidate to contest governor’s seat for first time While Palau as matriarchal and traditional society where control of clan&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7542>
+
+---
+
+## Palau-Taiwan Goodwill Games won by Palau
+
+date: 2023-11-20, from: Tia Belau (Palau's First Newspaper)
+
+Little league training starts this week The national sport of baseball continues to be promoted with the second goodwill game&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7539>
+
+---
+
+## Australian woman fugitive still in Koror jail
+
+date: 2023-11-20, from: Tia Belau (Palau's First Newspaper)
+
+A woman fugitive from South Australia is still under custody in Koror Jail according to jail security guards last night.&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7536>
+
+---
+
+## Japan reaffirms its commitment to Palau as Japan and BPW sign the 100th GGP in Palau
+
+date: 2023-11-20, from: Tia Belau (Palau's First Newspaper)
+
+On November 17, 2023, Ambassador of Japan ORIKASA Hiroyuki and Minister of Public Infrastructure and Industries Hon. Charles Obichang signed&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7533>
+
+---
+
+## Senate approves11 appointments for various boards
+
+date: 2023-11-20, from: Tia Belau (Palau's First Newspaper)
+
+By Kambes Kesolei The Senate in last week’s session approved 11 presidential appointments to various boards. Among the approved was&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7531>
+
+---
+
+## Bangladeshi group donates to Palau Library Association
+
+date: 2023-11-20, from: Tia Belau (Palau's First Newspaper)
+
+The Bangladeshi Association of Palau, Inc.has donated a $150 to the Palau Library Association to help with the recently concluded&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7528>
+
+---
+
+## Maiberel food donation to Koror Jail
+
+date: 2023-11-20, from: Tia Belau (Palau's First Newspaper)
+
+It&#8217;s encouraging to see Maiberel&#8217;s continued commitment to our community empowerment, specially during this Thanksgiving season. Today, November 16, 2023,&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7525>
+
+---
+
+## Ngaraard embarks on eco-tourism showcasing cultural sites
+
+date: 2023-11-20, from: Tia Belau (Palau's First Newspaper)
+
+Ngerchokl and the story of Tulei and Surech anchors the eco-tour By Kambes Kesolei Ngaraard State is poised to unveil&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7521>
+
+---
+
+## USP Celebrates Global Ranking for Tourism and Hospitality Programmes
+
+date: 2023-11-19, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) was recently awarded by the International Centre of...</p>
+<p>The post <a rel="nofollow" href="https://www.usp.ac.fj/news/usp-celebrates-global-ranking-for-tourism-and-hospitality-programmes/">USP Celebrates Global Ranking for Tourism and Hospitality Programmes</a> appeared first on <a rel="nofollow" href="https://www.usp.ac.fj">University of the South Pacfic</a>.</p>
  
 
-<https://islandtimes.org/south-australian-fugitive-arrested-in-palau/>
+<https://www.usp.ac.fj/news/usp-celebrates-global-ranking-for-tourism-and-hospitality-programmes/>
 
 ---
 
-## Court declares K. Isechal as Iechadribukel, Naomi Mobel, Bechekeldil of Ngeribukel Clan
+## ‘Bows earn No. 2 seed in inaugural Big West Championship after senior night win
 
-date: 2023-11-17, from: Island Times
+date: 2023-11-19, from: University of Hawaiʻi News
 
-<p>Palau Trial Court declared defendants Kione Isechal as Iechadribukel and Naomi Mobel as Bechekeldil of Ngeribukel Clan of Ngerbeched, Koror, Palau.  The Court order also states that they are strong members of Ngeribukel clan “and as such, have authority or power over the lands, traditional titles, and affairs of Ngeribukel Clan.” Another long-running case of [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/court-declares-k-isechal-as-iechadribukel-naomi-mobel-bechekeldil-of-ngeribukel-clan/">Court declares K. Isechal as Iechadribukel, Naomi Mobel, Bechekeldil of Ngeribukel Clan</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
+<p>The Rainbow Wahine are three-time defending Big West champions.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/19/volleyball-prepares-for-big-west-championship/">‘Bows earn <abbr>No</abbr>. 2 seed in inaugural Big West Championship after senior night win</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
-<https://islandtimes.org/court-declares-k-isechal-as-iechadribukel-naomi-mobel-bechekeldil-of-ngeribukel-clan/>
+<https://www.hawaii.edu/news/2023/11/19/volleyball-prepares-for-big-west-championship/>
 
 ---
 
-## Alii Palau Airline  to bring more than tourists: Minister Tmetuchl
+## Free training leading to immediate employment available for all Hawaiʻi residents
 
-date: 2023-11-17, from: Island Times
+date: 2023-11-19, from: University of Hawaiʻi News
 
-<figure><img width="371" height="450" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Minister-Ngirai-Tmetuchl.jpg?fit=371%2C450&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Minister-Ngirai-Tmetuchl.jpg?w=371&amp;ssl=1 371w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Minister-Ngirai-Tmetuchl.jpg?resize=247%2C300&amp;ssl=1 247w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Minister-Ngirai-Tmetuchl.jpg?fit=371%2C450&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Minister-Ngirai-Tmetuchl.jpg?fit=371%2C450&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="57854" data-permalink="https://islandtimes.org/tmetuchl-says-the-ministry-aims-to-enhance-youth-participation/minister-ngirai-tmetuchl/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Minister-Ngirai-Tmetuchl.jpg?fit=371%2C450&amp;ssl=1" data-orig-size="371,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Minister Ngirai Tmetuchl" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Minister-Ngirai-Tmetuchl.jpg?fit=247%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Minister-Ngirai-Tmetuchl.jpg?fit=371%2C450&amp;ssl=1" /></figure>
-<p>Alii Palau Airlines, the new locally incorporated airline company, will arrive on Thanksgiving Day, November 23, 2023, adding new routes and more flights to Palau. “The flight routes will open Singapore, India, and Bhutan to us, expressed Minister Ngirai Tmetuchl of the Ministry of Human Resources, Culture, Tourism and Development.&#160; He added that it will [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/alii-palau-airline-to-bring-more-than-tourists-minister-tmetuchl/">Alii Palau Airline  to bring more than tourists: Minister Tmetuchl</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
+<p>The <abbr>UH</abbr> Community Colleges are providing free training in the healthcare, clean energy, skilled trades and technology industries.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/19/free-training-employment-residents/">Free training leading to immediate employment available for all Hawaiʻi residents</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
-<https://islandtimes.org/alii-palau-airline-to-bring-more-than-tourists-minister-tmetuchl/>
+<https://www.hawaii.edu/news/2023/11/19/free-training-employment-residents/>
 
 ---
 
-## Aimeliik has the lowest voter turnout
+## U.S. Indo-Pacific Command Officials and Palau Representatives Conclude JointCommittee Meeting in Pa
 
-date: 2023-11-17, from: Island Times
+date: 2023-11-19, from: Pacific Island Times
 
-<figure><img width="400" height="254" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Aimeliik.jpg?fit=400%2C254&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Aimeliik.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Aimeliik.jpg?resize=300%2C191&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Aimeliik.jpg?fit=400%2C254&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="65112" data-permalink="https://islandtimes.org/aimeliik-constitutional-amendments-failed-to-gain-majority-votes/aimeliik-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Aimeliik.jpg?fit=400%2C254&amp;ssl=1" data-orig-size="400,254" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Aimeliik" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Aimeliik.jpg?fit=300%2C191&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Aimeliik.jpg?fit=400%2C254&amp;ssl=1" /></figure>
-<p>Governor Simer remains unopposed Unofficial results of the 13th Aimeliik State Government General Election held on November 14, 2023, revealed the lowest voter turnout in its general election history, with only 35% total voter turnout. Out of the total 850 registered voters, only 300 votes were cast.&#160; If 81 expected absentee ballots are received in [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/aimeliik-has-the-lowest-voter-turnout/">Aimeliik has the lowest voter turnout</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
+By Pacific Island Times News Staff Koror--Rear Adm. Gregory Huffman, the U.S. Indo-Pacific Command Senior Military Official for Palau,... 
 
-<https://islandtimes.org/aimeliik-has-the-lowest-voter-turnout/>
+<https://www.pacificislandtimes.com/post/u-s-indo-pacific-command-officials-and-palau-representatives-conclude-jointcommittee-meeting-in-pa>
 
 ---
 
-## PICRC launches Tal Ngimech – One Drop Film Festival
+## Three upcoming events that could torpedo Pacific peace
 
-date: 2023-11-17, from: Island Times
+date: 2023-11-19, from: Pacific Island Times
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0844.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0844.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0844.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0844.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0844.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0844.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0844.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0844.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67192" data-permalink="https://islandtimes.org/picrc-launches-tal-ngimech-one-drop-film-festival/rs2500_dsc_0844/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0844.jpg?fit=1230%2C820&amp;ssl=1" data-orig-size="1230,820" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="rs2500_DSC_0844" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0844.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/rs2500_DSC_0844.jpg?fit=780%2C520&amp;ssl=1" /></figure>
-<p>In celebration of the Palau National Marine Sanctuary’s (PNMS) 8th Anniversary, the Palau International Coral Reef Center (PICRC) launched a call to all students from Kindergarten to PCC to submit a 2–3-minute film on what the ocean means to them and tying it to the importance of the PNMS. There were four (4) categories: K-4th [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/picrc-launches-tal-ngimech-one-drop-film-festival/">PICRC launches Tal Ngimech – One Drop Film Festival</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
+Across the Pacific, aided in some cases by the domestic policy confusion of others, the Chinese Communist Party is on the march. By Cleo... 
 
-<https://islandtimes.org/picrc-launches-tal-ngimech-one-drop-film-festival/>
+<https://www.pacificislandtimes.com/post/three-upcoming-events-that-could-torpedo-pacific-peace>
 
 ---
 
-## PICRC, MAFE, and Airai State PAN Office staffs attended JICA’s mangrove training in Iriomote Island, Japan
+## Senator maintains Tamuning is the most suitable site for new Guam hospital
 
-date: 2023-11-17, from: Island Times
+date: 2023-11-19, from: Pacific Island Times
 
-<figure><img width="1024" height="715" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/IMG_7886.jpg?fit=1024%2C715&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/IMG_7886.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/IMG_7886.jpg?resize=300%2C210&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/IMG_7886.jpg?resize=1024%2C715&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/IMG_7886.jpg?resize=768%2C536&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/IMG_7886.jpg?resize=1200%2C838&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/IMG_7886.jpg?resize=400%2C279&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/IMG_7886.jpg?fit=1024%2C715&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67186" data-permalink="https://islandtimes.org/picrc-mafe-and-airai-state-pan-office-staffs-attended-jicas-mangrove-training-in-iriomote-island-japan/img_7886/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/IMG_7886.jpg?fit=1230%2C859&amp;ssl=1" data-orig-size="1230,859" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone SE (2nd generation)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1697706821&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.99&quot;,&quot;iso&quot;:&quot;20&quot;,&quot;shutter_speed&quot;:&quot;0.0017513134851138&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_7886" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/IMG_7886.jpg?fit=300%2C210&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/IMG_7886.jpg?fit=780%2C545&amp;ssl=1" /></figure>
-<p>Staffs of Palau International Coral Reef Center (PICRC), Ministry of Agriculture, Fisheries, and the Environment (MAFE), and Airai State PAN Office attended the mangrove training in Okinawa Prefecture, Japan. This training was organized by Japan International Cooperation Agency (JICA) as part of a three-year joint coastal ecosystem management project of JICA and PICRC. The training [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/picrc-mafe-and-airai-state-pan-office-staffs-attended-jicas-mangrove-training-in-iriomote-island-japan/">PICRC, MAFE, and Airai State PAN Office staffs attended JICA’s mangrove training in Iriomote Island, Japan</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
+By Pacific Island Times News Staff Ypao Point in Tamuning would be the most feasible site to build a new Guam medical facility, Sen.... 
 
-<https://islandtimes.org/picrc-mafe-and-airai-state-pan-office-staffs-attended-jicas-mangrove-training-in-iriomote-island-japan/>
-
----
-
-## Community-led marine monitoring in Yap and Palau
-
-date: 2023-11-17, from: Island Times
-
-<figure><img width="521" height="81" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/one-reef.jpg?fit=521%2C81&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/one-reef.jpg?w=521&amp;ssl=1 521w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/one-reef.jpg?resize=300%2C47&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/one-reef.jpg?resize=400%2C62&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/one-reef.jpg?fit=521%2C81&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67183" data-permalink="https://islandtimes.org/community-led-marine-monitoring-in-yap-and-palau/pr-community-led-marine-monitoring-in-yap-and-palau/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/one-reef.jpg?fit=521%2C81&amp;ssl=1" data-orig-size="521,81" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;PR: Community-Led Marine Monitoring in Yap and Palau&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR: Community-Led Marine Monitoring in Yap and Palau" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/one-reef.jpg?fit=300%2C47&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/one-reef.jpg?fit=521%2C81&amp;ssl=1" /></figure>
-<p>Since July, a team of Palau-based OneReef Micronesia members and trained conservation oﬃcers from partner communities conducted a series of marine imaging missions in Yap state, FSM and Ngardmau State, Palau. Two missions took place in Yap: the ﬁrst in Ngulu Atoll evaluating 12 sites, followed by another covering 13 sites around Yap proper. All [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/community-led-marine-monitoring-in-yap-and-palau/">Community-led marine monitoring in Yap and Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/community-led-marine-monitoring-in-yap-and-palau/>
-
----
-
-## Ceremony marks completion of Fishers Learning Center
-
-date: 2023-11-17, from: Island Times
-
-<figure><img width="1024" height="480" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PR_-Ceremony-Marks-Completion-of-Fishers-Learning-Center.jpg?fit=1024%2C480&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PR_-Ceremony-Marks-Completion-of-Fishers-Learning-Center.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PR_-Ceremony-Marks-Completion-of-Fishers-Learning-Center.jpg?resize=300%2C141&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PR_-Ceremony-Marks-Completion-of-Fishers-Learning-Center.jpg?resize=1024%2C480&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PR_-Ceremony-Marks-Completion-of-Fishers-Learning-Center.jpg?resize=768%2C360&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PR_-Ceremony-Marks-Completion-of-Fishers-Learning-Center.jpg?resize=1200%2C563&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PR_-Ceremony-Marks-Completion-of-Fishers-Learning-Center.jpg?resize=400%2C188&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PR_-Ceremony-Marks-Completion-of-Fishers-Learning-Center.jpg?fit=1024%2C480&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67179" data-permalink="https://islandtimes.org/ceremony-marks-completion-of-fishers-learning-center/pr-ceremony-marks-completion-of-fishers-learning-center/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PR_-Ceremony-Marks-Completion-of-Fishers-Learning-Center.jpg?fit=1230%2C577&amp;ssl=1" data-orig-size="1230,577" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;PR: Ceremony Marks Completion of Fishers Learning Center&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR: Ceremony Marks Completion of Fishers Learning Center" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PR_-Ceremony-Marks-Completion-of-Fishers-Learning-Center.jpg?fit=300%2C141&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PR_-Ceremony-Marks-Completion-of-Fishers-Learning-Center.jpg?fit=780%2C366&amp;ssl=1" /></figure>
-<p>A ribbon cutting ceremony was held on November 13, 2023, to mark the successful completion of the Fishers Learning Center located at Ngetmeduch Park, Koror. The Center- a product of the public-private partnership between Uchul A Chei Fishers (UACF), Koror State Government (KSG) and OneReef Micronesia (OneReef) established early this year- is an alternative learning [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/ceremony-marks-completion-of-fishers-learning-center/">Ceremony marks completion of Fishers Learning Center</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/ceremony-marks-completion-of-fishers-learning-center/>
-
----
-
-## Workshop conducted targeting the management capacity of PAN State staff
-
-date: 2023-11-17, from: Island Times
-
-<figure><img width="1024" height="682" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Pacific-BioScapes-Inception-Workshop-PRESS-RELEASE-Photo.png?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Pacific-BioScapes-Inception-Workshop-PRESS-RELEASE-Photo.png?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Pacific-BioScapes-Inception-Workshop-PRESS-RELEASE-Photo.png?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Pacific-BioScapes-Inception-Workshop-PRESS-RELEASE-Photo.png?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Pacific-BioScapes-Inception-Workshop-PRESS-RELEASE-Photo.png?resize=768%2C511&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Pacific-BioScapes-Inception-Workshop-PRESS-RELEASE-Photo.png?resize=1200%2C799&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Pacific-BioScapes-Inception-Workshop-PRESS-RELEASE-Photo.png?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Pacific-BioScapes-Inception-Workshop-PRESS-RELEASE-Photo.png?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67175" data-permalink="https://islandtimes.org/workshop-conducted-targeting-the-management-capacity-of-pan-state-staff/pacific-bioscapes-inception-workshop-press-release-photo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Pacific-BioScapes-Inception-Workshop-PRESS-RELEASE-Photo.png?fit=1230%2C819&amp;ssl=1" data-orig-size="1230,819" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Pacific BioScapes Inception Workshop PRESS RELEASE Photo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Pacific-BioScapes-Inception-Workshop-PRESS-RELEASE-Photo.png?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Pacific-BioScapes-Inception-Workshop-PRESS-RELEASE-Photo.png?fit=780%2C519&amp;ssl=1" /></figure>
-<p>On Thursday, the 9th of November 2023, a workshop was held at Palau Coral Reef International Center (PICRC) bringing together the working hands of the Palau Protected Area Network (PAN) and its conservation partner agencies.  The purpose of the workshop was to provide an overview of the Pacific Biodiversity and Sustainable LandSeascapes (Pacific BioScapes) Program [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/workshop-conducted-targeting-the-management-capacity-of-pan-state-staff/">Workshop conducted targeting the management capacity of PAN State staff</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/workshop-conducted-targeting-the-management-capacity-of-pan-state-staff/>
-
----
-
-## PacREF lauds Palau’s Educational Progress Setting the Bar for Regional Progress
-
-date: 2023-11-17, from: Island Times
-
-<figure><img width="600" height="686" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231109_133446.jpg?fit=600%2C686&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231109_133446.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231109_133446.jpg?resize=262%2C300&amp;ssl=1 262w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231109_133446.jpg?resize=400%2C457&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231109_133446.jpg?fit=600%2C686&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67170" data-permalink="https://islandtimes.org/pacref-lauds-palaus-educational-progress-setting-the-bar-for-regional-progress/20231109_133446/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231109_133446.jpg?fit=600%2C686&amp;ssl=1" data-orig-size="600,686" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S23 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1699536886&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20231109_133446" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231109_133446.jpg?fit=262%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231109_133446.jpg?fit=600%2C686&amp;ssl=1" /></figure>
-<p>The Pacific Regional Education Framework (PacREF) Programme Joint Oversight Mission team has expressed its admiration for Palau&#8217;s unwavering commitment to education excellence, citing the nation&#8217;s proactive approaches to implementing PacREF activities to complement its own national efforts in striving to achieve its national education targets. During a recent four-day Joint Oversight Mission (JOM) to Palau, [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/pacref-lauds-palaus-educational-progress-setting-the-bar-for-regional-progress/">PacREF lauds Palau&#8217;s Educational Progress Setting the Bar for Regional Progress</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/pacref-lauds-palaus-educational-progress-setting-the-bar-for-regional-progress/>
-
----
-
-## USAID partners with SPC to support local organizations
-
-date: 2023-11-17, from: Island Times
-
-<figure><img width="1024" height="720" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Small-Grants2-002.jpg?fit=1024%2C720&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Small-Grants2-002.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Small-Grants2-002.jpg?resize=300%2C211&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Small-Grants2-002.jpg?resize=1024%2C720&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Small-Grants2-002.jpg?resize=768%2C540&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Small-Grants2-002.jpg?resize=1200%2C844&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Small-Grants2-002.jpg?resize=400%2C281&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Small-Grants2-002.jpg?fit=1024%2C720&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67167" data-permalink="https://islandtimes.org/usaid-partners-with-spc-to-support-local-organizations/small-grants2-002/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Small-Grants2-002.jpg?fit=1230%2C865&amp;ssl=1" data-orig-size="1230,865" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Small Grants2 (002)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Small-Grants2-002.jpg?fit=300%2C211&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Small-Grants2-002.jpg?fit=780%2C548&amp;ssl=1" /></figure>
-<p>Koror, Palau – ON October 30, U.S. Agency for International Development (USAID) Assistant Administrator for Asia Michael Schiffer announced USAID’s support to three civil society organizations in partnership with the Pacific Community (SPC) as part of its Pacific People Advancing Change program. Through funding and technical assistance, USAID aims to bolster these local organizations to [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/usaid-partners-with-spc-to-support-local-organizations/">USAID partners with SPC to support local organizations</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/usaid-partners-with-spc-to-support-local-organizations/>
-
----
-
-## Palau sweeps the Best Performance Award for the fourth consecutive time at this year’s Taipei International Travel Fair
-
-date: 2023-11-17, from: Island Times
-
-<figure><img width="600" height="329" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/2023-Taipe2.jpg?fit=600%2C329&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/2023-Taipe2.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/2023-Taipe2.jpg?resize=300%2C165&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/2023-Taipe2.jpg?resize=400%2C219&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/2023-Taipe2.jpg?fit=600%2C329&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67161" data-permalink="https://islandtimes.org/palau-sweeps-the-best-performance-award-for-the-fourth-consecutive-time-at-this-years-taipei-international-travel-fair/2023-taipei-international-travel-fair/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/2023-Taipe2.jpg?fit=600%2C329&amp;ssl=1" data-orig-size="600,329" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;2023 Taipei International Travel Fair&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="2023 Taipei International Travel Fair" data-image-description="" data-image-caption="&lt;p&gt;TPSA Dancers from (R-L): Yolsau Emma Victor, Anthea Dir-Oumelei Sengebau, Mirang Subediang, R-Jane Skebong, Dawn Oluchel Rechelulk, Samantha O. Iyar&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/2023-Taipe2.jpg?fit=300%2C165&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/2023-Taipe2.jpg?fit=600%2C329&amp;ssl=1" /></figure>
-<p>On November 3-6, 2023, Taiwan hosted the 2023 Taipei International Travel Fair held at Taipei Nangang Exhibition Center. In total, the event welcomed 344,475 attendees, marking a 76.3% growth from last year&#8217;s 195,366 attendees. The Palau delegation consisted of Jennifer Olegeriil-Orrukem, Vice Chairwoman of the Palau Visitors Authority (PVA) Board, Sharrise Ngiraked, Manager of the [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/palau-sweeps-the-best-performance-award-for-the-fourth-consecutive-time-at-this-years-taipei-international-travel-fair/">Palau sweeps the Best Performance Award for the fourth consecutive time at this year&#8217;s Taipei International Travel Fair</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/palau-sweeps-the-best-performance-award-for-the-fourth-consecutive-time-at-this-years-taipei-international-travel-fair/>
-
----
-
-## PAWS  Mobile Spay/Neuter Clinic is going to Melekeok State
-
-date: 2023-11-17, from: Island Times
-
-<figure><img width="1024" height="299" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/10/paws.jpeg?fit=1024%2C299&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/10/paws.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/10/paws.jpeg?resize=300%2C88&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/10/paws.jpeg?resize=1024%2C299&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/10/paws.jpeg?resize=768%2C224&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/10/paws.jpeg?resize=1200%2C351&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/10/paws.jpeg?resize=400%2C117&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/10/paws.jpeg?fit=1024%2C299&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="58712" data-permalink="https://islandtimes.org/paws-mobile-spay-neuter-clinic-goint-to-aimeliik/paws-8/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/10/paws.jpeg?fit=1249%2C365&amp;ssl=1" data-orig-size="1249,365" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="paws" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/10/paws.jpeg?fit=300%2C88&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/10/paws.jpeg?fit=780%2C228&amp;ssl=1" /></figure>
-<p>Palau Animal Welfare Society (PAWS) alongside Governor Henaro Polloi will be holding a Spay/Neuter Mobile Clinic at Melekeok State on November 17, 2023; starting at 9am we will be at the beach summer house across the State office, and we will hold our services till 2pm. This clinic is made possible with a grant from [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/paws-mobile-spay-neuter-clinic-is-going-to-melekeok-state/">PAWS  Mobile Spay/Neuter Clinic is going to Melekeok State</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/paws-mobile-spay-neuter-clinic-is-going-to-melekeok-state/>
-
----
-
-## REINVENT YOUR LIFE
-
-date: 2023-11-17, from: Island Times
-
-<figure><img width="400" height="378" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="65054" data-permalink="https://islandtimes.org/intimacy-gone-bad-2/womens-corner-1-7/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" data-orig-size="400,378" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Womens-Corner-1.jpg?fit=400%2C378&amp;ssl=1" /></figure>
-<p>Love requires hard work that shed blood, sweat and tears so you may want to salvage the precious jewels lost after the shipwreck.  If you were created in the image of God you were born of love with incredible gifts and talents that came with the whole package. Healing is finding your meaning. Always remember [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/reinvent-your-life/">REINVENT YOUR LIFE</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/reinvent-your-life/>
-
----
-
-## New Zealand and Australia must follow PIF aspiration with action
-
-date: 2023-11-17, from: Island Times
-
-<p>WELLINGTON (OXFAM) &#8212; Oxfam welcomes the Pacific Island Forum’s acknowledgement that the response to the climate crisismust involve a just and equitable transition away from fossil fuels, but notes this acknowledgement falls short of Pacific civil society demands for the statement to go further and call for an end to all production of fossil fuels [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/new-zealand-and-australia-must-follow-pif-aspiration-with-action/">New Zealand and Australia must follow PIF aspiration with action</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/new-zealand-and-australia-must-follow-pif-aspiration-with-action/>
-
----
-
-## Palau, as PSIDS Chair, calls for a revolution to end plastic pollution
-
-date: 2023-11-17, from: Island Times
-
-<p>NAIROBI (SPREP) &#8212; Twenty-three million tonnes of plastic are released to the environment every year and half of it ends up in the Pacific Ocean every time. This number is expected to double by 2030 under a business-as-usual scenario.  With this in mind, 14 Pacific Small Island Developing States (PSIDS) are in Nairobi, Kenya, reiterating [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/palau-as-psids-chair-calls-for-a-revolution-to-end-plastic-pollution/">Palau, as PSIDS Chair, calls for a revolution to end plastic pollution</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/palau-as-psids-chair-calls-for-a-revolution-to-end-plastic-pollution/>
-
----
-
-## USAID Supports Pacific Energy Stakeholders to Accelerate Transition Towards a Fossil Fuel Free Pacific
-
-date: 2023-11-17, from: Island Times
-
-<p>SUVA (USAID) &#8212; Energy sector leaders and stakeholders from more than ten Pacific Island countries have come together today to collaborate on project ideas and action plans that will help accelerate the transition to clean and resilient energy in the region.   The two-day regional workshop on Accelerating Clean Energy Transitions and Resilience in Pacific Island [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/usaid-supports-pacific-energy-stakeholders-to-accelerate-transition-towards-a-fossil-fuel-free-pacific/">USAID Supports Pacific Energy Stakeholders to Accelerate Transition Towards a Fossil Fuel Free Pacific</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/usaid-supports-pacific-energy-stakeholders-to-accelerate-transition-towards-a-fossil-fuel-free-pacific/>
-
----
-
-## Fresh off meeting with China’s Xi, Biden is turning his attention to Asia-Pacific economies
-
-date: 2023-11-17, from: Island Times
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Xi-Biden-meeting.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Xi-Biden-meeting.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Xi-Biden-meeting.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Xi-Biden-meeting.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Xi-Biden-meeting.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Xi-Biden-meeting.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Xi-Biden-meeting.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Xi-Biden-meeting.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67146" data-permalink="https://islandtimes.org/fresh-off-meeting-with-chinas-xi-biden-is-turning-his-attention-to-asia-pacific-economies/apec-biden-xi/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Xi-Biden-meeting.jpg?fit=1230%2C820&amp;ssl=1" data-orig-size="1230,820" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;President Joe Biden greets China&#039;s President President Xi Jinping at the Filoli Estate in Woodside, Calif., Wednesday, Nov, 15, 2023, on the sidelines of the Asia-Pacific Economic Cooperative conference. (Doug Mills\/The New York Times via AP, Pool)&quot;,&quot;created_timestamp&quot;:&quot;1700068620&quot;,&quot;copyright&quot;:&quot;New York Times&quot;,&quot;focal_length&quot;:&quot;175&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;APEC Biden XI&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="APEC Biden XI" data-image-description="" data-image-caption="&lt;p&gt;President Joe Biden greets China&#8217;s President President Xi Jinping at the Filoli Estate in Woodside, Calif., Wednesday, Nov, 15, 2023, on the sidelines of the Asia-Pacific Economic Cooperative conference. (Doug Mills/The New York Times via AP, Pool)&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Xi-Biden-meeting.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Xi-Biden-meeting.jpg?fit=780%2C520&amp;ssl=1" /></figure>
-<p>By COLLEEN LONG and AAMER MADHANI Associated Press SAN FRANCISCO (AP) — Fresh off his&#160;meeting with the leader of China, President Joe Biden on Thursday will address CEOs grappling with the risks to their businesses from world crises and spend time trying to persuade other Indo-Pacific leaders that the U.S. is committed to nurturing economic [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/fresh-off-meeting-with-chinas-xi-biden-is-turning-his-attention-to-asia-pacific-economies/">Fresh off meeting with China&#8217;s Xi, Biden is turning his attention to Asia-Pacific economies</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/fresh-off-meeting-with-chinas-xi-biden-is-turning-his-attention-to-asia-pacific-economies/>
-
----
-
-## Stock market today: Asian shares wobble and oil prices fall after Biden’s meeting with China’s Xi
-
-date: 2023-11-17, from: Island Times
-
-<p>By ELAINE KURTENBACH AP Business Writer BANGKOK (AP) — Asian shares have retreated after Wall Street added a bit more to its big rally from a day before, while U.S. futures and oil prices were lower. Any lift in sentiment from a&#160;meeting between U.S. President Joe Biden&#160;and Chinese leader Xi Jinping appeared to fade after [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/stock-market-today-asian-shares-wobble-and-oil-prices-fall-after-bidens-meeting-with-chinas-xi/">Stock market today: Asian shares wobble and oil prices fall after Biden&#8217;s meeting with China&#8217;s Xi</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/stock-market-today-asian-shares-wobble-and-oil-prices-fall-after-bidens-meeting-with-chinas-xi/>
-
----
-
-## GBHWC leads efforts to address opioids and illicit drugs on Guam
-
-date: 2023-11-17, updated: 2023-11-17, from: Marianas Variety
-
-HAGÅTÑA (The Guam Daily Post) — The Guam Behavioral Health and Wellness Center was awarded the Strategic Prevention Framework for Prescription Drugs, or SPF-Rx, grant, the agency announced in a press release. GBHWC will get $2.5 million in funding, from the Substance Abuse and Mental Health Services Administration, to address prescription medication misuse in the country through a strategic prevention framework, GBHWC said in the release. 
-
-<https://www.mvariety.com/news/gbhwc-leads-efforts-to-address-opioids-and-illicit-drugs-on-guam/article_59876cde-850e-11ee-bb5e-1b4303e6d26d.html>
-
----
-
-##  Guam governor lectures legislature on fiscal prudence
-
-date: 2023-11-17, from: Pacific Island Times
-
-By Mar-Vic Cagurangan While signing the energy credit extension into law, Gov. Lou Leon Guerrero reprimanded the legislature for making... 
-
-<https://www.pacificislandtimes.com/post/guam-governor-lectures-legislature-on-financial-prudence>
-
----
-
-## OPA reports an increase in Guam education agency's expenditures 
-
-date: 2023-11-17, from: Pacific Island Times
-
-By Pacific Island Times News Staff The Guam Department of Education’s expenditures jumped by $36.4 million,  from $346.7 million in 2021... 
-
-<https://www.pacificislandtimes.com/post/opa-reports-an-increase-in-guam-education-agency-s-expenditures>
-
----
-
-## Chef Roy Yamaguchi selected as Culinary Institute of the Pacific executive director
-
-date: 2023-11-17, from: University of Hawaiʻi News
-
-<p>Among the executive director’s duties is developing the Culinary Institute of the Pacific’s new restaurant on Diamond Head.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/16/new-culinary-institute-of-the-pacific-executive-director/">Chef Roy Yamaguchi selected as Culinary Institute of the Pacific executive director</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/16/new-culinary-institute-of-the-pacific-executive-director/>
-
----
-
-## Mānoa professor wins National Book Award for Indigenous poetry
-
-date: 2023-11-17, from: University of Hawaiʻi News
-
-<p>Craig Santos Perez’ book was one of 10 finalists in the running for the 2023 National Book Award for Poetry.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/16/perez-indigenous-poetry-book-award/">Mānoa professor wins National Book Award for Indigenous poetry</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/16/perez-indigenous-poetry-book-award/>
-
----
-
-## Ensuring safe drinking water for all
-
-date: 2023-11-17, from: Pacific Island Times
-
-As a community member dedicated to water safety, I respectfully call for collaborative action to strengthen protections for our island’s... 
-
-<https://www.pacificislandtimes.com/post/ensuring-safe-drinking-water-for-all>
-
----
-
-## Fostering the next generation of STEM leaders through hands-on activities
-
-date: 2023-11-16, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> Mānoa students, faculty and staff led the students through different hands-on activities.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/16/liholiho-elementary-visits-uh/">Fostering the next generation of <abbr>STEM</abbr> leaders through hands-on activities</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/16/liholiho-elementary-visits-uh/>
-
----
-
-## November President’s report: Evaluating UH structure
-
-date: 2023-11-16, from: University of Hawaiʻi News
-
-<p>Lassner discussed that <abbr>UH</abbr> leadership is engaging with a third party to help evaluate the structure of the 10-campus system.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/16/november-presidents-report-2023/">November President’s report: Evaluating <abbr>UH</abbr> structure</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/16/november-presidents-report-2023/>
-
----
-
-## President Lassner provides remarks on Israel-Gaza situation
-
-date: 2023-11-16, from: University of Hawaiʻi News
-
-<p>&#8220;I am proud that our campuses have not been roiled by the kinds of physical violence and injury taking place at many other great universities around the world.&#8221;</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/16/president-lassner-remarks-israel-gaza/">President Lassner provides remarks on Israel-Gaza situation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/16/president-lassner-remarks-israel-gaza/>
-
----
-
-## Hawaiʻi teens boost disaster preparedness through CTAHR Extension program
-
-date: 2023-11-16, from: University of Hawaiʻi News
-
-<p>A total of 110 students from 13 high schools statewide participated in hands-on training and disaster preparedness discussions.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/16/ctahr-extension-disaster-prep-for-teens/">Hawaiʻi teens boost disaster preparedness through <abbr>CTAHR</abbr> Extension program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/16/ctahr-extension-disaster-prep-for-teens/>
-
----
-
-## 17 escape from the jail
-
-date: 2023-11-16, from: Marshal Islands Journal
-
-<p>Journal 11/21/1986 P1 Small budget, big payoffIt’s underfunded, understaffed and lacks adequate space for the job at hand, but that isn’t slowing down a major program of Marshalls Community Action Agency/Youth Options. For many Marshallese youth, their shot at continuing formal education ended when school began in September. More than 50 percent of eighth grade [&#8230;]</p>
-<p>The post <a href="https://marshallislandsjournal.com/17-escape-from-the-jail/">17 escape from the jail</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
- 
-
-<https://marshallislandsjournal.com/17-escape-from-the-jail/>
-
----
-
-## UH enrollment up, community colleges see first increase since 2010
-
-date: 2023-11-16, from: University of Hawaiʻi News
-
-<p>There are 48,933 credit student enrollments at <abbr>UH</abbr> campuses, 560 more than a year ago.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/16/uh-enrollment-up-2023/"><abbr>UH</abbr> enrollment up, community colleges see first increase since 2010</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/16/uh-enrollment-up-2023/>
-
----
-
-## Atalig, Taisague, others to be subpoenaed today
-
-date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
-
-THE Legislative Bureau's sergeant-at-arms, Pete Towai, will deliver a subpoena duces tecum today, Friday, Nov. 17, 2023, to former Finance Secretary David DLG Atalig, former Department of Commerce-Economic Development Director Jesus Taisague, and Building Optimism, Opportunities and Stability Together contractors Robert Travilla, Salina Sapp and Shane Villanueva. 
-
-<https://www.mvariety.com/news/local/atalig-taisague-others-to-be-subpoenaed-today/article_39ec7df4-8457-11ee-8eb7-33d4fdb98ebc.html>
-
----
-
-## Pet health clinic on Rota
-
-date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
-
-ON Saturday, Nov. 18, from 10 a.m. to 4 p.m., a clinic service for pets on Rota will be conducted by the Saipan Humane Society in collaboration with the office of Rep. Julie A. Ogo, the Rota Mayor’s Office, the 19th Rota Municipal Council Office, and the Rota Department of Lands &amp; Natural Resources-Fish &amp; Wildlife Division. 
-
-<https://www.mvariety.com/news/community_bulletins/pet-health-clinic-on-rota/article_844d8150-8451-11ee-9b01-f77980d04a93.html>
-
----
-
-## NMI celebrates apprenticeship growth
-
-date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
-
-(NMC) — As part of the effort to recognize the vital role that registered apprenticeships play in providing opportunities to the people of the CNMI by allowing apprentices to earn while they learn and preparing a pathway to good, quality jobs and well-paying careers, Gov. Arnold I. Palacios proclaimed the week of Nov. 13-19, 2023, as National Apprenticeship Week. 
-
-<https://www.mvariety.com/news/community_bulletins/nmi-celebrates-apprenticeship-growth/article_0dc165dc-8448-11ee-b56f-e399c6897d6c.html>
-
----
-
-## Docomo Pacific sponsors Japan Autumn Festival in Guam
-
-date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
-
-TAMUNING, Guam — Docomo Pacific, the regional leader in innovation, telecommunications, &amp; entertainment, sponsors the 42nd Annual Japan Autumn Festival on Saturday, Nov. 18, 2023, at the Joseph Flores Beach Park (formerly Ypao Beach Park). 
-
-<https://www.mvariety.com/lifestyle/docomo-pacific-sponsors-japan-autumn-festival-in-guam/article_313b8758-8449-11ee-9617-47ec7d4d65e0.html>
-
----
-
-## Wishes come true in MCS Theatre Club production of Disney’s Aladdin Jr.
-
-date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
-
-WISHES will come true when Mount Carmel School’s Theatre Club proudly presents its next theatrical production, Disney’s Aladdin Jr. on Friday and Saturday, December 1 and 2, at the school’s historic stage. Based on the 1992 Disney film and the 2014 Broadway adaptation, the show marks the club’s 57th production since the club was founded in 1996. Join Aladdin, Jasmine, and the fast-talking, wisecracking Genie as they discover mystical caves, take magic carpet rides, and outwit the evil sorcerer, Jafar. Adapted especially for young performers, this musical includes favorite Alan Menken songs such as “Friend Like Me,” “A Whole New World,” and “Prince Ali,” as well as wonderful new songs added for the Broadway production. 
-
-<https://www.mvariety.com/lifestyle/wishes-come-true-in-mcs-theatre-club-production-of-disney-s-aladdin-jr/article_3ab53654-844d-11ee-9210-9f8f9f7e2c0f.html>
-
----
-
-## Palacios, Huang and Jiang top Pacifica’s 10th Annual Art Contest
-
-date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
-
-PACIFICA Insurance Underwriters Inc. concluded its 10th Annual Pacifica Art Contest or PAC on Monday, Oct.16 with a total of 191 art entries. 
-
-<https://www.mvariety.com/lifestyle/palacios-huang-and-jiang-top-pacifica-s-10th-annual-art-contest/article_8d403272-8491-11ee-ba1d-bb0181713d3f.html>
-
----
-
-## AG can’t represent Saipan mayor’s office
-
-date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
-
-ATTORNEY General Edward Manibusan told Saipan Mayor Ramon “RB” Camacho that under the Commonwealth Constitution, the Office of the Attorney General does not provide legal representation to the mayors or agencies of municipalities. 
-
-<https://www.mvariety.com/news/local/ag-can-t-represent-saipan-mayor-s-office/article_c74e29fc-8440-11ee-8998-e3f790902334.html>
-
----
-
-## DPS: Possible suspects in school break-ins identified
-
-date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
-
-THE Department of Public Safety has identified possible suspects in the recent break-ins at Da'ok Academy and Koblerville Elementary School, DPS public information officer Sergeant Fred Sato said. 
-
-<https://www.mvariety.com/news/local/dps-possible-suspects-in-school-break-ins-identified/article_7729c864-8459-11ee-93b0-b3bc828ae94a.html>
-
----
-
-## COTA: Inaugural bus route marks a milestone in island transportation
-
-date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
-
-(COTA) — The Commonwealth Office of Transit Authority, under the Office of the Governor, is set to make history with the launch of its first-ever dual-directional bus route, the Blue Line, by Transit CNMI. Saipan’s groundbreaking public transportation launches Friday, Nov. 24, and will make the island more accessible, connected, and environmentally conscious. 
-
-<https://www.mvariety.com/news/local/cota-inaugural-bus-route-marks-a-milestone-in-island-transportation/article_149b8022-8443-11ee-8913-7b838a3a0f66.html>
-
----
-
-## USCGC Myrtle Hazard completes successful patrol emphasizing community commitment in NMI
-
-date: 2023-11-16, updated: 2023-11-16, from: Marianas Variety
-
-SANTA RITA, Guam (U.S. Coast Guard Forces Micronesia/Sector Guam) — The USCGC Myrtle Hazard (WPC 1139) crew successfully completed a multifaceted patrol from Oct. 16 to Nov. 5, 2023, underscoring the Service’s unwavering commitment to the community and partners in the Commonwealth of the Northern Mariana Islands. 
-
-<https://www.mvariety.com/news/local/uscgc-myrtle-hazard-completes-successful-patrol-emphasizing-community-commitment-in-nmi/article_bca874fa-8452-11ee-997b-379faec3f603.html>
-
----
-
-## Variations on Summer
-
-date: 2023-11-16, from: Hawai'i Pacific Review (HPU Literary Magazine)
-
-by Melissent Zumwalt The prompt from writing class last week was, “Summertime—wishful thinking—the summers of youth and their unparalleled magic:” an exercise intended to be fun, upbeat. Good Lord! I’d thought, was I the only one without a fondness for &#8230; <a href="https://hawaiipacificreview.org/2023/11/16/variations-on-summer/">Continue reading <span class="meta-nav">&#8594;</span></a> 
-
-<https://hawaiipacificreview.org/2023/11/16/variations-on-summer/>
-
----
-
-## Making viral videos
-
-date: 2023-11-16, from: Marshal Islands Journal
-
-<p>CMI student and video editing whiz Pijja Matuato never fails to enthrall Majuro with his deft shooting and filmmaking. He told the Journal his schedule is flooded with school basketball video introductions and candidate campaign speeches. He’s shown here filming the MIHS girls’ basketball team, who were getting ready to face Majuro Co-op High School [&#8230;]</p>
-<p>The post <a href="https://marshallislandsjournal.com/making-viral-videos/">Making viral videos</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
- 
-
-<https://marshallislandsjournal.com/making-viral-videos/>
-
----
-
-## Former governor says Section 902 talks are not for negotiating
-
-date: 2023-11-16, from: The Guam Daily Post
-
-SAIPAN - At a civics workshop organized by the Northern Marianas Humanities Council on Wednesday, former Commonwealth of the Northern Mariana Islands Gov. Juan N. Babauta answered questions regarding using Section 902 of the Covenant as a mechanism for the… 
-
-<https://www.postguam.com/news/cnmi/former-governor-says-section-902-talks-are-not-for-negotiating/article_824ce5e4-840b-11ee-b832-430ddf4f39a2.html>
-
----
-
-## Senate joint resolution calls for additional Labor employee
-
-date: 2023-11-16, from: The Guam Daily Post
-
-SAIPAN - The Commonwealth of the Northern Mariana Islands Senate on Monday adopted Senate Joint Resolution 23-6, which approves the hiring of an additional staff member for the CNMI Department of Labor administrative hearing office. 
-
-<https://www.postguam.com/news/cnmi/senate-joint-resolution-calls-for-additional-labor-employee/article_467f4f4e-840a-11ee-9040-6fd56e54866b.html>
-
----
-
-## DPW: No $1M security deposit from IPI
-
-date: 2023-11-16, from: The Guam Daily Post
-
-SAIPAN - The Commonwealth of the Northern Mariana Islands Department of Public Works did not receive $1 million in construction security deposit from Imperial Pacific International, DPW Secretary Ray N. Yumul said. 
-
-<https://www.postguam.com/news/cnmi/dpw-no-1m-security-deposit-from-ipi/article_54aad71a-8409-11ee-a09b-53c875db1298.html>
-
----
-
-## GBHWC leads efforts to address opioids and illicit drugs on Guam
-
-date: 2023-11-16, from: The Guam Daily Post
-
-The Guam Behavioral Health and Wellness Center was awarded the Strategic Prevention Framework for Prescription Drugs, or SPF-Rx, grant, the agency announced in a press release. GBHWC will get $2.5 million in funding, from the Substance Abuse and Mental Health… 
-
-<https://www.postguam.com/news/local/gbhwc-leads-efforts-to-address-opioids-and-illicit-drugs-on-guam/article_c9fb2c62-837e-11ee-a105-67626d174173.html>
-
----
-
-## Funding, workforce needed to bolster cybersecurity capacity
-
-date: 2023-11-16, from: The Guam Daily Post
-
-Additional funding, along with workforce development and training, appear to be some of the key factors to bolstering cybersecurity capacity on Guam, according to discussions Tuesday at a legislative roundtable hearing on cybersecurity within the government of Guam. 
-
-<https://www.postguam.com/news/local/funding-workforce-needed-to-bolster-cybersecurity-capacity/article_f4d5d2ac-827a-11ee-9181-43e1397b4d17.html>
-
----
-
-## Woman denies murdering 1-year-old son
-
-date: 2023-11-16, from: The Guam Daily Post
-
-A woman pleaded not guilty to charges related to the death of her 1-year-old child earlier this month. 
-
-<https://www.postguam.com/news/local/woman-denies-murdering-1-year-old-son/article_6ab31f66-8433-11ee-adc9-1ffde7ee0c29.html>
-
----
-
-## Lujan named 1st Chamoru woman federal public defender in Guam
-
-date: 2023-11-16, from: The Guam Daily Post
-
-Leilani Lujan has become the first woman of CHamoru descent to serve as the federal public defender. 
-
-<https://www.postguam.com/news/local/lujan-named-1st-chamoru-woman-federal-public-defender-in-guam/article_9d559534-8415-11ee-b331-0760e3e02dbf.html>
-
----
-
-## Man accused of robbing woman he was ordered to stay away from
-
-date: 2023-11-16, from: The Guam Daily Post
-
-A man was accused of robbing a woman of six dollars in cash. 
-
-<https://www.postguam.com/news/local/man-accused-of-robbing-woman-he-was-ordered-to-stay-away-from/article_2d4a0458-8412-11ee-911d-affc861f8e02.html>
-
----
-
-## Woman, man dead in Toto shootings
-
-date: 2023-11-16, from: The Guam Daily Post
-
-A 67-year-old woman who died Wednesday is believed to have been shot by a man in Toto. The suspect was later found dead at the Harvest Christian Academy soccer field. 
-
-<https://www.postguam.com/news/local/woman-man-dead-in-toto-shootings/article_2b26da94-8443-11ee-8f52-6f64891598da.html>
-
----
-
-## Man charged in connection to 2021 assault
-
-date: 2023-11-16, from: The Guam Daily Post
-
-A man was charged in connection to throwing a knife at a woman more than two years ago. 
-
-<https://www.postguam.com/news/local/man-charged-in-connection-to-2021-assault/article_84f361a4-840d-11ee-a665-6b7d9e4fbfcb.html>
-
----
-
-## Man, allegedly drunk, crashes car into pole
-
-date: 2023-11-16, from: The Guam Daily Post
-
-A man was charged in connection to crashing a car into a utility pole, which resulted in his passenger being injured. 
-
-<https://www.postguam.com/news/local/man-allegedly-drunk-crashes-car-into-pole/article_50549316-8294-11ee-bae7-4b33f8bb0162.html>
-
----
-
-## Director, senator butt heads over Guthertz nomination to Port board
-
-date: 2023-11-16, from: The Guam Daily Post
-
-The Port Authority of Guam board of directors has been left one member shy of being able to make quorum, as eight lawmakers decided against passing the nomination for Judith Guthertz to continue serving as a director. 
-
-<https://www.postguam.com/news/local/director-senator-butt-heads-over-guthertz-nomination-to-port-board/article_c6f019f0-8389-11ee-9918-c7cd49937685.html>
-
----
-
-## Major crash on Route 10 sends woman to hospital with serious injuries
-
-date: 2023-11-16, from: The Guam Daily Post
-
-Guam Fire Department units responded to a major crash along Route 10 near Uncle Cho's Mart in Mangilao at around 5:43 p.m. Thursday. 
-
-<https://www.postguam.com/news/local/major-crash-on-route-10-sends-woman-to-hospital-with-serious-injuries/article_76e1acf2-845c-11ee-b440-db48fcfe5846.html>
-
----
-
-## Chamber memberships spikes in ’23
-
-date: 2023-11-16, from: Marshal Islands Journal
-
-<p>Majuro Chamber of Commerce achieved a membership milestone this year, with 91 businesses and individuals joining since the beginning of 2023. The surge in membership is a testament to the growing enthusiasm within the private sector, reflecting a collective understanding that fostering the development of the private sector is integral to securing a stable and [&#8230;]</p>
-<p>The post <a href="https://marshallislandsjournal.com/chamber-memberships-spikes-in-23/">Chamber memberships spikes in ’23</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
- 
-
-<https://marshallislandsjournal.com/chamber-memberships-spikes-in-23/>
-
----
-
-## Guam's training programs slowly  alleviating manpower shortages in private and public sectors
-
-date: 2023-11-16, from: Pacific Island Times
-
-By Pacific Island Times News Staff For decades, jobs for skilled professions on Guam have been sitting empty due to a perennial labor... 
-
-<https://www.pacificislandtimes.com/post/guam-s-training-programs-slowly-alleviating-manpower-shortages-in-private-and-public-sectors>
-
----
-
-## Pacific island countries tie up with EU via Samoa Agreement
-
-date: 2023-11-16, from: Pacific Island Times
-
-By Pacific Island Times News Staff Apia—Pacific island nations have sealed a comprehensive trade partnership with the European Union... 
-
-<https://www.pacificislandtimes.com/post/pacific-island-countries-tie-up-with-eu-via-samoa-agreement>
-
----
-
-## Cool Beans: 5th Graders Learn Budgeting During Day-Long Visit to Chaminade
-
-date: 2023-11-16, from: Chaminade Silversword (Chaminade Univ. student newspaper)
-
-On Thursday, students at Chaminade were given 15 beans at the start of class to learn financial literacy and the importance of budgeting. On a worksheet, they had to use beans wisely to provide for all their “needs” and chosen “wants.&#8221; As soon as the students used all 15 beans, they found out that they... 
-
-<https://thesilversword.com/news/2023/11/15/cool-beans-5th-graders-learn-budgeting-during-day-long-visit-to-chaminade/>
-
----
-
-## Loeak crowned iroojlaplap
-
-date: 2023-11-16, from: Marshal Islands Journal
-
-<p>HILARY HOSIA Christopher Jorebon Loeak was officially crowned paramount chief following his coronation ceremony at the United Church of Christ last Saturday. Hundreds in attendance and thousands more via the National Telecommunication Authority livestream witnessed Loeak being ordained on the alter by UCC Reverend Herbert Langijota. Reverend Langijota presented a Bible and Hymn to Loeak [&#8230;]</p>
-<p>The post <a href="https://marshallislandsjournal.com/loeak-crowned-iroojlaplap/">Loeak crowned iroojlaplap</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
- 
-
-<https://marshallislandsjournal.com/loeak-crowned-iroojlaplap/>
-
----
-
-## Palau athletes take to Solomons for Pacific Games
-
-date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
-
-Team Palau’23 gathered with Palau leaders to recieve blessings and best wishes By Kambes Kesolei A total of 94 athletes&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7514>
-
----
-
-## Unopposed Simer, hamlet candidates and a write-in win Aimeliik polls
-
-date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
-
-Interest in state elections low Recent state elections show lack of people’s interest in state legislative seats as indicated in&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7512>
-
----
-
-## Koror chiefs win in first test case of enforcing traditional laws in court
-
-date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
-
-The Koror traditional chiefs &#8211; Ngarameketii and Rubekul Kldeu &#8211; as House of Traditional Leaders(HOTL) led by High Chief Ibedul&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7509>
-
----
-
-## Palauan teenager wins junior golfer of the year in Texas
-
-date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
-
-A Palauan teenager in Texas, USA, has been awarded the Junior Golfer of the Year according to the November 1,&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7506>
-
----
-
-## Palau receives Best Performance Award for 4th straight year at Taipei International Travel Fair
-
-date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
-
-On November 3-6, 2023, Taiwan hosted the 2023 Taipei International Travel Fair held atTaipei Nangang Exhibition Center. In total, the&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7503>
-
----
-
-## USAID Partners with SPC to support local organizations
-
-date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
-
-Koror, Palau – ON October 30, U.S. Agency for International Development (USAID) Assistant Administrator for Asia Michael Schiffer announced USAID’s&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7500>
-
----
-
-## Lifetime achievement award in marine biology for UH professor
-
-date: 2023-11-16, from: University of Hawaiʻi News
-
-<p>The Western Society of Naturalists is the oldest professional marine biological society in western North America.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/15/mark-hixon-lifetime-achievement-award/">Lifetime achievement award in marine biology for <abbr>UH</abbr> professor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/15/mark-hixon-lifetime-achievement-award/>
-
----
-
-## Japan Airlines to operate charter flights to Palau in March
-
-date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
-
-By Kambes Kesolei Japan Airlines will resume its chartered flights to Palau starting March 2024.&#160; The airline will initially operate&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7498>
-
----
-
-## Ceremony marks completion of Fishers Learning Center
-
-date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
-
-A ribbon cutting ceremony was held on November 13, 2023, to mark the successful completion of the FishersLearning Center located&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7495>
-
----
-
-## Workshop conducted targeting the management capacity of PAN State staff
-
-date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
-
-On Thursday, the 9th of November 2023, a workshop was held at Palau Coral Reef International Center (PICRC) bringing together&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7492>
-
----
-
-## Palau hosts 32nd PIALA Conference!
-
-date: 2023-11-16, from: Tia Belau (Palau's First Newspaper)
-
-Librarians from across the Pacific are in Palau this week for the 32nd annual Pacific Islands Association of Libraries, Archives,&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7489>
-
----
-
-## RELEASE: Forum SG Puna welcomes “milestone” Samoa Agreement Signing
-
-date: 2023-11-16, from: Pacific Island Forum
-
-16th November 2023, Apia, Samoa&#8211; Leaders across Africa, the Caribbean and Pacific were in Apia this week to seal a historic multilateral development and trade partnership<span class="excerpt-hellip"> […]</span> 
-
-<https://www.forumsec.org/2023/11/16/release-forum-sg-puna-welcomes-milestone-samoa-agreement-signing/>
-
----
-
-## Using microbubble gene therapy may protect against heart disease
-
-date: 2023-11-16, from: University of Hawaiʻi News
-
-<p>Microbubbles were used to deliver <abbr>CRISPR</abbr> tools to the liver to inhibit a gene that increases cardiovascular risk.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/15/microbubble-gene-therapy/">Using microbubble gene therapy may protect against heart disease</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/15/microbubble-gene-therapy/>
-
----
-
-## HIKI NŌ ON PBS HAWAIʻI: 2023 Fall Challenge
-
-date: 2023-11-15, from: HIKI NŌ ON PBS HAWAIʻI
-
-<p>On this special episode of HIKI NŌ on PBS Hawaiʻi, find out which schools produced the winning entries of the HIKI NŌ on PBS Hawaiʻi 2023 Fall Challenge, with host Sloan Billingsley, a junior at Campbell High School. A day before the storytelling contest began, on Oct. 18, 2023, dozens of students and their teachers [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbi-2023-fall-challenge/">HIKI NŌ ON PBS HAWAIʻI: &lt;br/&gt;2023 Fall Challenge</a> appeared first on <a rel="nofollow" href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
- 
-
-<https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbi-2023-fall-challenge/>
-
----
-
-## US Veterans Affairs to lease Medical Arts Center for clinic expansion
-
-date: 2023-11-15, from: Pacific Island Times
-
-By Pacific Island Times News Staff A new Veterans Affairs Clinic will soon open at the Medical Arts Center, promising to be a... 
-
-<https://www.pacificislandtimes.com/post/us-veterans-affairs-to-lease-medical-arts-center-for-clinic-expansion>
-
----
-
-## Guam Medical Association snubs governor's invitation to meet on hospital project planning
-
-date: 2023-11-15, from: Pacific Island Times
-
-By Pacific Island Times News Staff The Guam Medical Association has declined Gov. Lou Leon Guerrero's invitation to an upcoming... 
-
-<https://www.pacificislandtimes.com/post/guam-medical-association-snubs-governor-s-invitation-to-meet-on-hospital-project-planning>
-
----
-
-## CMI students: Vote!
-
-date: 2023-11-15, from: Marshal Islands Journal
-
-<p>A class at the College of the Marshall Islands has been in action to promote voting awareness and encourage students to vote in Monday&#8217;s national election. As part of their class project, about 30 students from CMI 101 sections two and three last week created posters, charts, surveys, and flyers with election-related content and posted [&#8230;]</p>
-<p>The post <a href="https://marshallislandsjournal.com/cmi-students-vote/">CMI students: Vote!</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
- 
-
-<https://marshallislandsjournal.com/cmi-students-vote/>
-
----
-
-## Parking information: UH Mānoa hosting multiple events Thanksgiving Week
-
-date: 2023-11-15, from: University of Hawaiʻi News
-
-<p>Please plan accordingly for parking and traffic in the area.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/15/parking-information-uh-manoa-thanksgiving-week/">Parking information: <abbr>UH</abbr> Mānoa hosting multiple events Thanksgiving Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/15/parking-information-uh-manoa-thanksgiving-week/>
-
----
-
-## New study shows need for inclusive approach to Indigenous microbiome research
-
-date: 2023-11-15, from: University of Hawaiʻi News
-
-<p>Ethical inclusion of Indigenous communities in microbiome research can provide benefits for all populations and reinforce mutually beneficial partnerships.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/15/inclusive-microbiome-research/">New study shows need for inclusive approach to Indigenous microbiome research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/15/inclusive-microbiome-research/>
-
----
-
-## UH News Image of the Week: Palau
-
-date: 2023-11-15, from: University of Hawaiʻi News
-
-<p>This week's image is from <abbr>UH</abbr> Hilo's Jim Mellon.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/15/uh-news-image-of-the-week-palau/"><abbr>UH</abbr> News Image of the Week: Palau</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/15/uh-news-image-of-the-week-palau/>
-
----
-
-## Deputy AG: Lack of funds not reason to abandon duty
-
-date: 2023-11-15, from: The Guam Daily Post
-
-Just because the Civil Service Commission lacks funding does not mean it can "abdicate" its responsibility to hear the complaints of aggrieved government employees, Deputy Attorney General Lilian A. Tenorio told the commission's chairman, Raymond M. Muna. 
-
-<https://www.postguam.com/news/cnmi/deputy-ag-lack-of-funds-not-reason-to-abandon-duty/article_bc923b2a-8341-11ee-bf51-436d1eca341c.html>
-
----
-
-## Defendant wants judge to recuse from his case
-
-date: 2023-11-15, from: The Guam Daily Post
-
-Sergio Mangarero Rangamar has requested Superior Court Associate Judge Teresa Kim-Tenorio to recuse and disqualify herself from his case because one of the material witnesses is a Drug Court Program participant. 
-
-<https://www.postguam.com/news/cnmi/defendant-wants-judge-to-recuse-from-his-case/article_ca68c29c-8345-11ee-b59b-6bbae4667fc9.html>
-
----
-
-## Saipan Humane Society outlines challenges it faces
-
-date: 2023-11-15, from: The Guam Daily Post
-
-The Saipan Humane Society informed the Rotary Club of Saipan on Tuesday about the challenges of providing healthcare to island pets with a staff of only four people. 
-
-<https://www.postguam.com/news/cnmi/saipan-humane-society-outlines-challenges-it-faces/article_e817d6a4-8343-11ee-9abe-2b62aa7fc627.html>
-
----
-
-## Humanities Guåhan announces  2023 community grant awardees
-
-date: 2023-11-15, from: The Guam Daily Post
-
-In collaboration with the National Endowment for the Humanities, Humanities Guåhan announced the awardees of its 2023 Community Grant Cycle. This year's grants will empower nonprofit organizations to deliver outstanding humanities programs that promote and foster cultural enrichment, community engagement,… 
-
-<https://www.postguam.com/news/local/humanities-gu-han-announces-2023-community-grant-awardees/article_11c9a27e-829b-11ee-9c0a-ab7b09f936fa.html>
-
----
-
-## Airport exercise simulates hijacking, crash
-
-date: 2023-11-15, from: The Guam Daily Post
-
-A full-scale disaster exercise at the airport involved simulating an aircraft hijacking and subsequent crash. 
-
-<https://www.postguam.com/news/local/airport-exercise-simulates-hijacking-crash/article_89eb5b34-8350-11ee-bf3e-3b29b9601d23.html>
-
----
-
-## Pair plead not guilty to August rape charges
-
-date: 2023-11-15, from: The Guam Daily Post
-
-Two men suspected in a criminal sexual conduct case in August pleaded not guilty to their charges. 
-
-<https://www.postguam.com/news/local/pair-plead-not-guilty-to-august-rape-charges/article_edf8bb46-8353-11ee-89e6-972131a4443b.html>
-
----
-
-## Governor, GMA president trade jabs over medical complex issue
-
-date: 2023-11-15, from: The Guam Daily Post
-
-Governor, GMA president trade 
-
-<https://www.postguam.com/news/local/governor-gma-president-trade-jabs-over-medical-complex-issue/article_dbc40980-835d-11ee-85b5-8be90a5bab91.html>
-
----
-
-## Chief deputy AG denies alleged assault of Guam Bar president
-
-date: 2023-11-15, from: The Guam Daily Post
-
-The chief deputy attorney general said he did not intend to threaten or hurt the Guam Bar president or board of governors when he said he "wanted to smash the faces of the powers that be." 
-
-<https://www.postguam.com/news/chief-deputy-ag-denies-alleged-assault-of-guam-bar-president/article_bfd5e66e-8360-11ee-a3a8-672699a487e1.html>
-
----
-
-## REMARKS: Pacific Statement delivered at the signing of the Samoa Agreement
-
-date: 2023-11-15, from: Pacific Island Forum
-
-Pacific Statement on Signing of the New OACPS-EU Partnership Agreement Signing (Samoa Agreement) Delivered by Honorable Jelta Wong, Minister for Fisheries and Marine Resources -Papua New<span class="excerpt-hellip"> […]</span> 
-
-<https://www.forumsec.org/2023/11/15/remarks-pacific-statement-delivered-at-the-signing-of-the-samoa-agreement/>
-
----
-
-## GPD investigating shootings in Toto
-
-date: 2023-11-15, from: The Guam Daily Post
-
-Police are investigating reports of two separate shootings in Toto earlier this afternoon. 
-
-<https://www.postguam.com/news/gpd-investigating-shootings-in-toto/article_b12f7eb4-8373-11ee-b6e1-6b740a5e493d.html>
-
----
-
-## Students get a deep dive into Native Hawaiian cultural practices
-
-date: 2023-11-15, from: University of Hawaiʻi News
-
-<p>Preserving the knowledge of Native Hawaiian cultural practitioners lies at the heart of this course and program.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/14/native-hawaiian-culture-course/">Students get a deep dive into Native Hawaiian cultural practices</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/14/native-hawaiian-culture-course/>
-
----
-
-## Hawaiian Word of the Week: Kani
-
-date: 2023-11-15, from: University of Hawaiʻi News
-
-<p>Kani&#8212;To sound, to cry out, to roar.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/14/hawaiian-word-of-the-week-kani/">Hawaiian Word of the Week: Kani</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/14/hawaiian-word-of-the-week-kani/>
-
----
-
-## Bright pink Maui water likely caused by bacteria
-
-date: 2023-11-15, from: University of Hawaiʻi News
-
-<p>The early findings have led the experts to suggest that halophilic (thriving in salt conditions) prokaryotes, also known as archaea and bacteria, were likely the cause of the brightly colored water.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/14/pink-maui-water-likely-caused-by-bacteria/">Bright pink Maui water likely caused by bacteria</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/14/pink-maui-water-likely-caused-by-bacteria/>
-
----
-
-## Fusion of art and science in new Chinatown exhibit
-
-date: 2023-11-15, from: University of Hawaiʻi News
-
-<p>The sci-art exhibit will close on November 24 and host a screening along with a talk story.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/14/hawaii-sea-grant-sci-art-exhibition/">Fusion of art and science in new Chinatown exhibit</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/14/hawaii-sea-grant-sci-art-exhibition/>
-
----
-
-## New exhibit to spotlight Kānaka ʻōiwi artists
-
-date: 2023-11-14, from: University of Hawaiʻi News
-
-<p><em>Mai N&#257; K&#363;puna Mai, From the Ancestors</em> will be showcased at the Art Gallery from November 19 to February 2024.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/14/kanaka-oiwi-exhibit-artists/">New exhibit to spotlight Kānaka ʻōiwi artists</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/14/kanaka-oiwi-exhibit-artists/>
-
----
-
-## Lang, Hakas earn Big West weekly honors after road victories
-
-date: 2023-11-14, from: University of Hawaiʻi News
-
-<p>Tali Hakas earns her first Big West weekly honors as a freshman pin-hitter.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/14/land-hakas-big-west-weekly-honors/">Lang, Hakas earn Big West weekly honors after road victories</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/14/land-hakas-big-west-weekly-honors/>
-
----
-
-## Daughter of immigrants, UH grad, focused on Maui immigrant relief
-
-date: 2023-11-14, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> Maui College alumna Alejandra Ramirez helps immigrants on campus and off.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/14/daughter-immigrants-maui-relief/">Daughter of immigrants, <abbr>UH</abbr> grad, focused on Maui immigrant relief</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/14/daughter-immigrants-maui-relief/>
-
----
-
-## Manuma earns first Mountain West Defensive Player of the Week since 2021
-
-date: 2023-11-14, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr>’s victory over Air Force earned Peter Manuma Mountain West Defensive Player of the Week for his outstanding performance.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/14/manuma-bw-defensive-player/">Manuma earns first Mountain West Defensive Player of the Week since 2021</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/14/manuma-bw-defensive-player/>
-
----
-
-## Climate actions centered on Indigenous knowledge can improve resilience
-
-date: 2023-11-14, from: University of Hawaiʻi News
-
-<p>These are among the findings of the <abbr>U.S. National Climate Assessment</abbr>, released by the Biden Administration which involved five <abbr>UH</abbr> M&#257;noa researchers.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/14/national-climate-assessment/">Climate actions centered on Indigenous knowledge can improve resilience</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/14/national-climate-assessment/>
-
----
-
-## Supporting the search for alien life by exploring geologic faulting on icy moons
-
-date: 2023-11-14, from: University of Hawaiʻi News
-
-<p>Conducting geologic investigations prior to launch and arrival of space exploration missions, helps identify interesting locations for lander exploration.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/14/geologic-faulting-icy-moons/">Supporting the search for alien life by exploring geologic faulting on icy moons</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/14/geologic-faulting-icy-moons/>
-
----
-
-## New Changes Come to CSGA
-
-date: 2023-11-14, from: Chaminade Silversword (Chaminade Univ. student newspaper)
-
-The Chaminade Student Government Association (CSGA) has been around since the late 1990s and has gone through many changes. This semester is no different, with a new structure in place and new faces in the association. CSGA serves as the voice for students on campus. The association goes over student concerns and is the connecting... 
-
-<https://thesilversword.com/news/2023/11/14/new-changes-come-to-csga/>
-
----
-
-## 52nd Pacific Islands Forum Leaders Retreat at Aitutaki, Cook Islands
-
-date: 2023-11-14, from: Island Times
-
-<figure><img width="1024" height="532" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?fit=1024%2C532&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?resize=300%2C156&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?resize=1024%2C532&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?resize=768%2C399&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?resize=1536%2C798&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?resize=2048%2C1064&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?resize=1200%2C623&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?resize=1568%2C815&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?resize=400%2C208&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?fit=1024%2C532&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67135" data-permalink="https://islandtimes.org/52nd-pacific-islands-forum-leaders-retreat-at-aitutaki-cook-islands/pif-leaders-2023creditpif2023/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?fit=2560%2C1330&amp;ssl=1" data-orig-size="2560,1330" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;10&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D780&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1699577186&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;29&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.00125&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PIF Leaders 2023creditPIF2023" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?fit=300%2C156&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/PIF-Leaders-2023creditPIF2023-scaled.jpg?fit=780%2C405&amp;ssl=1" /></figure>
-<p>Minister of State Gustap Aitaro pictured in place of President Whipps who left earlier. (Photo credit: Lisa Williams-Lahari at Pacific Islands Forum Secretariat)</p>
-<p>The post <a href="https://islandtimes.org/52nd-pacific-islands-forum-leaders-retreat-at-aitutaki-cook-islands/">52nd Pacific Islands Forum Leaders Retreat at Aitutaki, Cook Islands</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/52nd-pacific-islands-forum-leaders-retreat-at-aitutaki-cook-islands/>
-
----
-
-## 22% of Palau adult population has diabetes
-
-date: 2023-11-14, from: Island Times
-
-<p>A study conducted in 2021 by the Association of State and Territorial Health Officials (ASTHO), requested by the Palau HealthCare Fund to determine the feasibility of Palau Health Care Insurance coverage of hemodialysis treatment, revealed that 22% or (3,015) of Palau’s adult population have diabetes. Of the 3,105, 34% or 1,025 are diagnosed, while 66%&#160; [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/22-of-palau-adult-population-has-diabetes/">22% of Palau adult population has diabetes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/22-of-palau-adult-population-has-diabetes/>
-
----
-
-## EU and SPAIN support OPOCefforts on BBNJ implementation
-
-date: 2023-11-14, from: Island Times
-
-<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67131" data-permalink="https://islandtimes.org/eu-and-spain-support-opocefforts-on-bbnj-implementation/20231110_183113/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?fit=2560%2C1440&amp;ssl=1" data-orig-size="2560,1440" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1699641074&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20231110_183113" data-image-description="" data-image-caption="&lt;p&gt;Representative of Spain, OPOC Commissioner Dr. Fillion Manoni and EU Director General Koen Doens meeting with OPOC.&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231110_183113-scaled.jpg?fit=780%2C439&amp;ssl=1" /></figure>
-<p>(Cook Islands) The Office of the Oceans Commissioner (OPOC) announced the commitment of the European Union and Spain to support OPOC’s mandate to provide coordinated support of the Pacific Islands Forum members&#8217; implementation of the Biodiversity Beyond National Jurisdiction Agreement.The European Union and Spain, through the Team Europe mechanism, will fund a position within OPOC [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/eu-and-spain-support-opocefforts-on-bbnj-implementation/">EU and SPAIN support OPOCefforts on BBNJ implementation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/eu-and-spain-support-opocefforts-on-bbnj-implementation/>
-
----
-
-## Angaur claims Whipps’ designating Obichang as applicant in TACMOR EQPB application illegal; Seeks hearing with court and sanction against government counsel
-
-date: 2023-11-14, from: Island Times
-
-<p>Angaur Governor Steven Salii and legal counsel Brien Sers Nicholas, representing the Angaur government, filed a motion claiming, among other allegations, that President Surangel Whipps Jr. does not have the authority to appoint Minister Charles Obichang as an applicant in the EQPB permit on TACMOR (Tactical Multi-Mission Over the Horizon Radar) project in Angaur and [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/angaur-claims-whipps-designating-obichang-as-applicant-in-tacmor-eqpb-application-illegal-seeks-hearing-with-court-and-sanction-against-government-counsel/">Angaur claims Whipps’ designating Obichang as applicant in TACMOR EQPB application illegal; Seeks hearing with court and sanction against government counsel</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/angaur-claims-whipps-designating-obichang-as-applicant-in-tacmor-eqpb-application-illegal-seeks-hearing-with-court-and-sanction-against-government-counsel/>
-
----
-
-## Whipps “Blue Prosperity Plan” adopted by Pacific Islands Forum Leaders
-
-date: 2023-11-14, from: Island Times
-
-<figure><img width="1024" height="807" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?fit=1024%2C807&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?resize=300%2C236&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?resize=1024%2C807&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?resize=768%2C605&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?resize=1536%2C1210&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?resize=2048%2C1614&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?resize=1200%2C945&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?resize=1568%2C1235&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?resize=400%2C315&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?fit=1024%2C807&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67125" data-permalink="https://islandtimes.org/whipps-blue-prosperity-plan-adopted-by-pacific-islands-forum-leaders/20231107_142420/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?fit=2560%2C2017&amp;ssl=1" data-orig-size="2560,2017" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1699367060&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.23&quot;,&quot;iso&quot;:&quot;40&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20231107_142420" data-image-description="" data-image-caption="&lt;p&gt;President Whipps at the 52nd Pacific Island Forum Leaders Meeting in Cook Islands, November 7 to 10, 2023.&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?fit=300%2C236&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/20231107_142420-scaled.jpg?fit=780%2C615&amp;ssl=1" /></figure>
-<p>The “Blue Prosperity Plan” proposal by President Surangel Whipps in 2021 in Palau was scaled up and renamed “Unlocking the Blue Pacific Prosperity Plan” and presented at the 52nd Pacific Islands Forum Leaders in the Cook Islands this November 7th to 10th, 2023.&#160; During the Leaders Retreat in Aitutaki, Cook Islands, the Pacific Islands leaders [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/whipps-blue-prosperity-plan-adopted-by-pacific-islands-forum-leaders/">Whipps “Blue Prosperity Plan” adopted by Pacific Islands Forum Leaders</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/whipps-blue-prosperity-plan-adopted-by-pacific-islands-forum-leaders/>
-
----
-
-## GOPAC calls on Forum Leaders to Implement Teieniwa Vision
-
-date: 2023-11-14, from: Island Times
-
-<p>Pacific Island Forum leaders meeting in the Cook Islands this week need to prioritise the governance tools in their anti-corruption roadmap to make sure the&#160;2050 Strategy for the Blue Pacific Continent can bring full benefits for Pacific peoples, according to Lord Fusitu&#8217;a, Chair of the Oceania region of the Global Organisation of Parliamentarians Against Corruption [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/gopac-calls-on-forum-leaders-to-implement-teieniwa-vision/">GOPAC calls on Forum Leaders to Implement Teieniwa Vision</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/gopac-calls-on-forum-leaders-to-implement-teieniwa-vision/>
-
----
-
-## NHI expenses exceed contributions in the last three years
-
-date: 2023-11-14, from: Island Times
-
-<p>Palau National Health Insurance (NHI) expenses have grown over the years, exceeding contributions in the last three (3) years. The contributions from NHI members have been growing, but expenses now match and exceed contributions, especially in the last three years. The Health Care Fund report submitted to the Senate Committee on Health and Social Welfare [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/nhi-expenses-exceed-contributions-in-the-last-three-years/">NHI expenses exceed contributions in the last three years</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/nhi-expenses-exceed-contributions-in-the-last-three-years/>
-
----
-
-## Japanese Dental Team assists BNH Oral Health Clinic
-
-date: 2023-11-14, from: Island Times
-
-<figure><img width="1024" height="473" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?fit=1024%2C473&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?w=2409&amp;ssl=1 2409w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?resize=300%2C138&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?resize=1024%2C473&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?resize=768%2C355&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?resize=1536%2C709&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?resize=2048%2C945&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?resize=1200%2C554&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?resize=1568%2C724&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?resize=400%2C185&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?fit=1024%2C473&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67121" data-permalink="https://islandtimes.org/japanese-dental-team-assists-bnh-oral-health-clinic/japan-dentists_001-november-13-2023/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?fit=2409%2C1112&amp;ssl=1" data-orig-size="2409,1112" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Japan Dentists_001 (November 13, 2023)" data-image-description="" data-image-caption="&lt;p&gt;Belau National Hospital Oral Health Team with the team of Japanese dentists who volunteered to assist at the Oral Health Clinic.&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?fit=300%2C138&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Japan-Dentists_001-November-13-2023.jpeg?fit=780%2C360&amp;ssl=1" /></figure>
-<p>From November 02 to 07, 2023 a team of dentists from Japan assisted with the oral health services at the Oral Health Clinic of Belau National Hospital (BNH). The team consisted of Dr. Moe Ishikawa, Dr. Mai Uchida, Dr. Takanori Minamikawa, Dr. Junji Nunomaki, and Dr. Eiki Osaka. They were headed by Dr. Mitsutomo Ogawa [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/japanese-dental-team-assists-bnh-oral-health-clinic/">Japanese Dental Team assists BNH Oral Health Clinic</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/japanese-dental-team-assists-bnh-oral-health-clinic/>
-
----
-
-## 12th Koror State Legislature donated AC units to Meyuns Elem. School
-
-date: 2023-11-14, from: Island Times
-
-<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Koror-State-Legislature-2.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Koror-State-Legislature-2.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Koror-State-Legislature-2.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Koror-State-Legislature-2.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Koror-State-Legislature-2.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Koror-State-Legislature-2.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Koror-State-Legislature-2.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Koror-State-Legislature-2.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Koror-State-Legislature-2.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Koror-State-Legislature-2.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Koror-State-Legislature-2.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67119" data-permalink="https://islandtimes.org/12th-koror-state-legislature-donated-ac-units-to-meyuns-elem-school/koror-state-legislature-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Koror-State-Legislature-2.jpg?fit=1500%2C1125&amp;ssl=1" data-orig-size="1500,1125" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Koror State Legislature 2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Koror-State-Legislature-2.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Koror-State-Legislature-2.jpg?fit=780%2C585&amp;ssl=1" /></figure>
-<p>The 12th Koror State Legislature, Meyuns and Ngerkebesang legislators donated Air Conditioning units to Meyuns Elementary School this week. Speaker Millan Isaack and the 12th KSL donated 2 AC units while Legislator Edwenor Sadang and Rhinehart Silas, donated one unit each personally to the school.&#160; Altogether, the 4 AC units were given to the school [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/12th-koror-state-legislature-donated-ac-units-to-meyuns-elem-school/">12th Koror State Legislature donated AC units to Meyuns Elem. School</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/12th-koror-state-legislature-donated-ac-units-to-meyuns-elem-school/>
-
----
-
-## FREEDOM
-
-date: 2023-11-14, from: Island Times
-
-<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67112" data-permalink="https://islandtimes.org/freedom/wc1-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1.jpg?fit=524%2C522&amp;ssl=1" /></figure>
-<p>Freedom consists not in doing what we like, but in having the right to do what we ought.  ~Pope John Paul II When I talk about freedom (in Christ) I&#8217;m saying, &#8220;In Christ I am free from legalistic religious man-made rules and regulations. I belong to GOD, my Creator. I&#8217;m no longer slave to sin. [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/freedom/">FREEDOM</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/freedom/>
-
----
-
-## What they want: Biden and Xi are looking for clarity in an increasingly difficult relationship
-
-date: 2023-11-14, from: Island Times
-
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/What-they-want.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/What-they-want.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/What-they-want.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/What-they-want.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/What-they-want.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/What-they-want.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/What-they-want.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/What-they-want.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67109" data-permalink="https://islandtimes.org/what-they-want-biden-and-xi-are-looking-for-clarity-in-an-increasingly-difficult-relationship/xi-jinpingjoe-biden/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/What-they-want.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;ILCE-9M2&quot;,&quot;caption&quot;:&quot;FILE - President Joe Biden, right, and Chinese President Xi Jinping shake hands before their meeting on the sidelines of the G20 summit meeting, Nov. 14, 2022, in Nusa Dua, in Bali, Indonesia. As President Joe Biden and Chinese leader Xi Jinping prepare to meet at the upcoming Asia-Pacific Economic Cooperation summit in San Francisco, basic information has remained guarded. That could ratchet up the pressure on how each side negotiates, down to the smallest detail. (AP Photo\/Alex Brandon, File)&quot;,&quot;created_timestamp&quot;:&quot;1668700266&quot;,&quot;copyright&quot;:&quot;Copyright 2023 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;4000&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;Xi Jinping,Joe Biden&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Xi Jinping,Joe Biden" data-image-description="" data-image-caption="&lt;p&gt;FILE &#8211; President Joe Biden, right, and Chinese President Xi Jinping shake hands before their meeting on the sidelines of the G20 summit meeting, Nov. 14, 2022, in Nusa Dua, in Bali, Indonesia. As President Joe Biden and Chinese leader Xi Jinping prepare to meet at the upcoming Asia-Pacific Economic Cooperation summit in San Francisco, basic information has remained guarded. That could ratchet up the pressure on how each side negotiates, down to the smallest detail. (AP Photo/Alex Brandon, File)&lt;/p&gt;
-" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/What-they-want.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/What-they-want.jpg?fit=780%2C520&amp;ssl=1" /></figure>
-<p>By AAMER MADHANI and DIDI TANG Associated Press WASHINGTON (AP) —&#160;President Joe Biden&#160;and China’s&#160;Xi Jinping&#160;have no shortage of difficult issues to discuss when they sit down for their first talks in a year, even if expectations are low that&#160;their meeting&#160;will lead to major breakthroughs. Each leader has clear objectives for the&#160;highly anticipated talks Wednesday&#160;on the [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/what-they-want-biden-and-xi-are-looking-for-clarity-in-an-increasingly-difficult-relationship/">What they want: Biden and Xi are looking for clarity in an increasingly difficult relationship</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/what-they-want-biden-and-xi-are-looking-for-clarity-in-an-increasingly-difficult-relationship/>
-
----
-
-## ‘Misunderstanding’: Brown on Nauru President’s exit
-
-date: 2023-11-14, from: Island Times
-
-<p>RAROTONGA, 13 NOVEMBER 2023 (COOK ISLANDS NEWS)&#8212;Nauru President David Adeang’s abrupt departure from the 52nd Pacific Islands Forum Leaders Meeting may have been a case of misunderstanding, says Forum chair and Cook Islands Prime Minister Mark Brown. Brown, speaking at a press conference Friday, said the leaders affirmed their strong support for the Suva Agreements [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/misunderstanding-brown-on-nauru-presidents-exit/">‘Misunderstanding’: Brown on Nauru President’s exit</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/misunderstanding-brown-on-nauru-presidents-exit/>
-
----
-
-## Vanuatu President to reveal dissolution decision this week
-
-date: 2023-11-14, from: Island Times
-
-<p>PORT VILA, 13 NOVEMBER 2023 (VANUATU DAILY POST) &#8212;Vanuatu Prime Minister Charlot Salwai held discussions with Head of State Nikenike Vurobaravu Friday, following the Council of Ministers’ (COM) decision to recommend the dissolution of the parliament. The COM, during its meeting Friday, advised President Vurobaravu to dissolve the parliament on Monday, November 13, 2023, citing [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/vanuatu-president-to-reveal-dissolution-decision-this-week/">Vanuatu President to reveal dissolution decision this week</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/vanuatu-president-to-reveal-dissolution-decision-this-week/>
-
----
-
-## Australia offers climate refuge to Tuvalu citizens
-
-date: 2023-11-14, from: Island Times
-
-<p>AITUTAKI/RAROTONGA, 10 NOVEMBER 2023 (WIRES/PACNEWS)&#8212;-Australia has offered refuge to citizens of Tuvalu because of the catastrophic impacts of climate change, in a landmark new pact. Tuvalu &#8211; a series of low-lying atolls in the Pacific &#8211; is among the nations most at risk from rising seas. It is home to 11,200 people and has repeatedly [&#8230;]</p>
-<p>The post <a href="https://islandtimes.org/australia-offers-climate-refuge-to-tuvalu-citizens/">Australia offers climate refuge to Tuvalu citizens</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
-
-<https://islandtimes.org/australia-offers-climate-refuge-to-tuvalu-citizens/>
-
----
-
-## Australia: Neo-imperialist or climate change savior?
-
-date: 2023-11-14, from: Pacific Island Times
-
-Australia gets a remarkable set of rights from Tuvalu in exchange for things it can mostly find a reason to not do if it wants. By Cleo... 
-
-<https://www.pacificislandtimes.com/post/australia-neo-imperialist-or-climate-change-savior>
-
----
-
-## Island vibes to rock Guam at Saturday's music festival
-
-date: 2023-11-14, from: Pacific Island Times
-
-By Pacific Island Times News Staff Beyond the Reef Music Festival Volume 2 returns to Plaza de España in Hagåtña on Nov. 18, featuring an... 
-
-<https://www.pacificislandtimes.com/post/island-vibes-to-rock-guam-at-saturday-s-music-festival>
-
----
-
-## Guam Republicans back Israel, condemn Hamas
-
-date: 2023-11-14, from: Pacific Island Times
-
-By Pacific Island Times News Staff The Republican Party of Guam today adopted a resolution expressing support for Israel and its affected... 
-
-<https://www.pacificislandtimes.com/post/guam-republicans-back-israel-condemns-hamas>
-
----
-
-## Infrastructure gaps at the port posing a setback to Guam's military readiness
-
-date: 2023-11-14, from: Pacific Island Times
-
-By Mar-Vic Cagurangan Making do with aging assets that occasionally break down, the Port Authority of Guam is seeking federal assistance... 
-
-<https://www.pacificislandtimes.com/post/infrastructure-gaps-at-the-port-posing-a-setback-to-guam-s-military-readiness>
-
----
-
-## 52nd PIF Leaders Statement on the Fukushima ALPS-Treated Nuclear Wastewater Issue
-
-date: 2023-11-14, from: Pacific Island Forum
-
-52ND PACIFIC ISLANDS FORUM LEADERS STATEMENT ON THE FUKUSHIMA ALPS-TREATED NUCLEAR WASTEWATER ISSUE 9 November 2023 As Leaders of the Pacific Islands Forum, we re-emphasise the<span class="excerpt-hellip"> […]</span> 
-
-<https://www.forumsec.org/2023/11/14/39415/>
-
----
-
-## Feds approve Guam's cybersecurity plan 
-
-date: 2023-11-14, from: Pacific Island Times
-
-By Pacific Island Times News Staff The U.S. Department of Homeland Security’s Cybersecurity &#38; Infrastructure Security Agency has approved... 
-
-<https://www.pacificislandtimes.com/post/feds-approve-guam-s-cybersecurity-plan>
-
----
-
-## Duterte's critic released on bail after languishing in jail for nearly seven years 
-
-date: 2023-11-14, from: Pacific Island Times
-
-By Jinky Jorgio Manila-- Philippine Sen. Leila De Lima is finally free to go home after being in detention for six years, eight months... 
-
-<https://www.pacificislandtimes.com/post/philippine-senator-released-on-bail-after-languishing-in-jail-for-six-years>
-
----
-
-## Micronesia? What’s that?
-
-date: 2023-11-14, from: Pacific Island Times
-
-When I announced to friends in 2016 that I had joined the Peace Corps and been assigned to Yap to provide marketing services for the 2018... 
-
-<https://www.pacificislandtimes.com/post/micronesia-what-s-that>
-
----
-
-## Real Money Online Casinos
-
-date: 2023-11-13, from: Pacific Island Forum
-
-You can have fun playing real-money online casino games on these websites. These sites offer games such as Lucky Red, Lucky Dog, El Royale, and other<span class="excerpt-hellip"> […]</span> 
-
-<https://www.forumsec.org/2023/11/14/real-money-online-casinos/>
-
----
-
-## Hawai’i ambushes Air Force to recapture the Kuter Trophy from Air Force, 27-13
-
-date: 2023-11-13, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
-
-The Rainbow Warriors dominated in all facets of the game and upset the Air Force Falcons, 27-13 on Veterans Day. From the first to the last snap, the ‘Bows didn’t let up and played an excellent game. 
-
-<https://www.manoanow.org/kaleo/hawai-i-ambushes-air-force-to-recapture-the-kuter-trophy-from-air-force-27-13/article_e45e6b2c-8267-11ee-979b-a32a75b29e62.html>
-
----
-
-## Dahlias
-
-date: 2023-11-13, from: Hawai'i Pacific Review (HPU Literary Magazine)
-
-by Donna Pucciani Your favorite flower, though I never knew why, and you never could explain. Their bright faces reflect the sun, aflame in yellows and reds. They turn from shadows, disrespect the dark. They choose petaled light, fanning out &#8230; <a href="https://hawaiipacificreview.org/2023/11/13/dahlias/">Continue reading <span class="meta-nav">&#8594;</span></a> 
-
-<https://hawaiipacificreview.org/2023/11/13/dahlias/>
-
----
-
-## 14 new US citizens sworn in
-
-date: 2023-11-13, updated: 2023-11-13, from: Marianas Variety
-
-FOURTEEN new U.S. citizens were sworn in at a naturalization ceremony at the District Court for the NMI on Monday. 
-
-<https://www.mvariety.com/news/local/14-new-us-citizens-sworn-in/article_b0cc99fc-8210-11ee-ada9-63be34ebbc11.html>
-
----
-
-## A Plus Team outlasts Blue Haus to win masters division title
-
-date: 2023-11-13, updated: 2023-11-13, from: Marianas Variety
-
-THE A Plus Team ended the 2023 Saipan Magalahi Eagles Club Invitational Basketball League with a bang and an undefeated record after claiming the masters division championship by defeating Blue Haus, 69-57, at the Gualo Rai basketball court on Saturday. 
-
-<https://www.mvariety.com/sports/localsports/a-plus-team-outlasts-blue-haus-to-win-masters-division-title/article_b03bfd92-81da-11ee-9faf-07b1995f69d3.html>
-
----
-
-## Magofna introduces whistleblower protection bill
-
-date: 2023-11-13, updated: 2023-11-13, from: Marianas Variety
-
-SENATE Floor Leader Corina L. Magofna has introduced Senate Bill 23-46 which aims to protect and reward whistleblowers in the government and in the community. 
-
-<https://www.mvariety.com/news/local/magofna-introduces-whistleblower-protection-bill/article_fffd6198-81eb-11ee-9013-ffe9188e93a8.html>
-
----
-
-## Over 120 cyclists and counting for Hell of the Marianas on Dec. 2
-
-date: 2023-11-13, updated: 2023-11-13, from: Marianas Variety
-
-122 cyclists from five countries and territories have signed up to ride in the Hell of the Marianas century cycle on Dec. 2, 2023 on Saipan.  The early bird registration deadline for the event is this Wednesday, Nov. 15. 
-
-<https://www.mvariety.com/sports/localsports/over-120-cyclists-and-counting-for-hell-of-the-marianas-on-dec-2/article_be76efee-8233-11ee-bf6b-dfa043650d66.html>
-
----
-
-## ‘The Marvels’ melts down at the box office, marking a new low for the MCU
-
-date: 2023-11-13, updated: 2023-11-13, from: Marianas Variety
-
-NEW YORK (AP) — Since 2008’s “Iron Man,” the Marvel machine has been one of the most unstoppable forces in box-office history. Now, though, that aura of invincibility is showing signs of wear and tear. The superhero factory hit a new low with the weekend launch of “The Marvels,” which opened with just $47 million, according to studio estimates Sunday. 
-
-<https://www.mvariety.com/lifestyle/the-marvels-melts-down-at-the-box-office-marking-a-new-low-for-the-mcu/article_d0608246-8234-11ee-8098-0ff06cb84ab9.html>
-
----
-
-## NMI’s lone Pacific Games triathlete: Leo Wania
-
-date: 2023-11-13, updated: 2023-11-13, from: Marianas Variety
-
-LOCAL athletes will participate as a team in the 2023 Pacific Games in the Solomon Islands, except for one sport — triathlon — where Leo Wania stands as the lone NMI competitor. 
-
-<https://www.mvariety.com/sports/localsports/nmi-s-lone-pacific-games-triathlete-leo-wania/article_9ba612f6-81e3-11ee-9149-4f5db81e34d1.html>
-
----
-
-## 5 Marianas Got Talent finalists perform in Senate chamber
-
-date: 2023-11-13, updated: 2023-11-13, from: Marianas Variety
-
-FIVE of the Music Performing Arts Competition Corp.'s Marianas Got Talent finalists on Monday performed in the Senate chamber ahead of the singing competition's grand finale, which is set for Nov. 26 at Saipan World Resort's Royal Taga Hall. 
-
-<https://www.mvariety.com/lifestyle/5-marianas-got-talent-finalists-perform-in-senate-chamber/article_e073818c-81f9-11ee-9e76-cbd02b4aa10f.html>
-
----
-
-## NMI looks forward to playing against Pacific soccer teams
-
-date: 2023-11-13, updated: 2023-11-13, from: Marianas Variety
-
-THE NMI Men’s National Football Team playing against the other national squads in the Pacific region is a rare occasion, and head coach Michiteru Mita said they are excited for the opportunity as compete in the 2023 Pacific Games in Honiara, the Solomon Islands. 
-
-<https://www.mvariety.com/sports/localsports/nmi-looks-forward-to-playing-against-pacific-soccer-teams/article_26af95ac-8234-11ee-b369-bb234cf0dbf7.html>
-
----
-
-## Public invited to new Chamorro canoe launching
-
-date: 2023-11-13, updated: 2023-11-13, from: Marianas Variety
-
-500 Sails is excited to invite the public to join the launching of the newest Chamorro canoe; a 15-foot duduli named Den Yo Povi. 
-
-<https://www.mvariety.com/lifestyle/public-invited-to-new-chamorro-canoe-launching/article_7591c726-8234-11ee-913a-0fd3f8172502.html>
-
----
-
-## Docomo Pacific donates $5,000 to Red Cross
-
-date: 2023-11-13, updated: 2023-11-13, from: Marianas Variety
-
-Docomo Pacific has donated $5,000 to support the upcoming Red Cross 1980’s fundraising dinner. The donation will be used locally to support the NMI chapter’s programs including disaster preparedness, response and recovery efforts as well as emergency messaging for military families. “Docomo is a trusted communications partner of the Red Cross here in the CNMI and Guam,” said Juan Diego Tenorio, disaster program manager. “During disasters we heavily rely on a solid communications infrastructure and thankful to Docomo for all their support,” said Tenorio. The Red Cross will host a 1980’s themed fundraising dinner on Saturaday, Nov.18 at Kensington Hotel. The evening will feature dinner, drinks, live entertainment, door prizes and costume contest. For more information about the Red Cross and how you can help, visit www.redcross.org/nmi or the dinner event page at  www.redcross.org/nmigala/. 
-
-<https://www.mvariety.com/news/community_bulletins/docomo-pacific-donates-5-000-to-red-cross/article_2c624c8c-8235-11ee-846b-77397da4d3b5.html>
-
----
-
-## Genetic testing can identify patients with family history of high cholesterol
-
-date: 2023-11-13, from: The Guam Daily Post
-
-New research has found that genetic screening can identify these patients and make them candidates for treatment. 
-
-<https://www.postguam.com/lifestyles/health/genetic-testing-can-identify-patients-with-family-history-of-high-cholesterol/article_21605778-fd98-5718-b6f3-3cb9d6310d0b.html>
-
----
-
-## Eating strawberries could help prevent dementia and depression: study
-
-date: 2023-11-13, from: The Guam Daily Post
-
-Researchers hope their findings could assist in the prevention of dementia. 
-
-<https://www.postguam.com/lifestyles/health/eating-strawberries-could-help-prevent-dementia-and-depression-study/article_aa2d39de-a935-50d3-913a-1d3e03179c55.html>
-
----
-
-## Organizations want more time to submit  Guam info for change on salaried threshold
-
-date: 2023-11-13, from: The Guam Daily Post
-
-While the comment deadline has passed for the U.S. Department of Labor's proposed change for salaried workers, local human resource and business organizations are hoping more time will be granted to provide Guam-centric information to guide the change. At the… 
-
-<https://www.postguam.com/news/local/organizations-want-more-time-to-submit-guam-info-for-change-on-salaried-threshold/article_6319b866-7f7c-11ee-9c6e-eb2dd10dd765.html>
-
----
-
-## Korean helicopter carrier Dokdo arrives at US Naval Base Guam
-
-date: 2023-11-13, from: The Guam Daily Post
-
-The Republic of Korea Navy Fleet held a ceremony welcoming cadets to their annual training on Guam while providing a tour of the ROKS Dokdo (LPH-6111) for the Korean Consulate of Guam and the press Sunday at Victor Wharf on… 
-
-<https://www.postguam.com/news/local/korean-helicopter-carrier-dokdo-arrives-at-us-naval-base-guam/article_f3c75726-81b4-11ee-ae0a-2b8b6c46ace6.html>
-
----
-
-## Another former AG employee files an appeal with the CSC
-
-date: 2023-11-13, from: The Guam Daily Post
-
-Another former employee of the Office of the Attorney General has taken her case up to the Civil Service Commission. This time, a former legal clerk is hoping the commission will void her termination over various procedural defects that "denied… 
-
-<https://www.postguam.com/news/local/another-former-ag-employee-files-an-appeal-with-the-csc/article_ca91e3f6-81ca-11ee-b639-0f6517e7fa9c.html>
-
----
-
-## Local doctor asks Congress to make cancer a national priority
-
-date: 2023-11-13, from: The Guam Daily Post
-
-Cancer is one of the top three causes of death on Guam each year, but a local doctor who traveled to the nation’s capitol is hopeful that pleas to Congress to make cancer a top priority will help change that. 
-
-<https://www.postguam.com/news/local-doctor-asks-congress-to-make-cancer-a-national-priority/article_c84d2ba6-81c4-11ee-9dcf-6f0403f60603.html>
-
----
-
-## Recycling up 8% on the island
-
-date: 2023-11-13, from: The Guam Daily Post
-
-Recycling on Guam is up despite taking a little dip during the pandemic, according to the Guam Environmental Protection Agency 
-
-<https://www.postguam.com/news/recycling-up-8-on-the-island/article_e9a1d26a-81d4-11ee-bf67-bf41817567af.html>
-
----
-
-## Guam senator seeks repeal of newly signed fireworks legalization law
-
-date: 2023-11-13, from: Pacific Island Times
-
-By Pacific Island Times News Staff Legalizing the sale of fireworks all year-round is "dangerous," according to Sen. Telo T. Taitague,... 
-
-<https://www.pacificislandtimes.com/post/guam-senator-seeks-repeal-of-newly-signed-fireworks-legalization-law>
-
----
-
-## Palau under Tropical Storm COR 3 ; Storm watch in effect for Yap
-
-date: 2023-11-13, from: Pacific Island Times
-
-By Pacific Island Times News Staff A Tropical Storm Watch has been issued for Palau, according to Landon Aydlett of the National Weather... 
-
-<https://www.pacificislandtimes.com/post/palau-under-tropical-storm-cor-3>
-
----
-
-## Senator red-flags vague items listed in GovGuam's ARP expenditures report
-
-date: 2023-11-13, from: Pacific Island Times
-
-By Pacific Island Times News Staff Sen. Telo Taitague is to scrutinize certain expenditures listed in the Bureau of Budget &#38; Management... 
-
-<https://www.pacificislandtimes.com/post/govguam-s-arp-expenditure-under-scrutiny>
-
----
-
-## Taiwan can offer help in combating transnational crime
-
-date: 2023-11-13, from: Pacific Island Times
-
-Jointly combating new forms of transnational crime through real-time cooperation: Support Taiwan’s participation in INTERPOL as an... 
-
-<https://www.pacificislandtimes.com/post/taiwan-can-offer-help-in-combating-transnational-crime>
-
----
-
-## Pension Plan could suspend payouts if investments drop to $18M
-
-date: 2023-11-13, from: Tia Belau (Palau's First Newspaper)
-
-By Kambes Kesolei The Civil Service Pension Plan is at risk of running out of money and suspending payouts to&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7481>
-
----
-
-## Majority of FIAC companies non-compliant with employment requirement
-
-date: 2023-11-13, from: Tia Belau (Palau's First Newspaper)
-
-By Kambes Kesolei The Foreign Investment Board (FIB) has disclosed that 61% of the Foreign Investment Approval Certificate (FIAC) companies&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7478>
-
----
-
-## Mass rescue exercise at T-Dock
-
-date: 2023-11-13, from: Tia Belau (Palau's First Newspaper)
-
-On November 9, 2023, the National Emergency Committee (NEC), in collaboration with Mutual Aid Partners, Agencies, and Aviation Stakeholders, held&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7475>
-
----
-
-## Ngeremlengui candidates to appear in a forum?
-
-date: 2023-11-13, from: Tia Belau (Palau's First Newspaper)
-
-2 women, 2 men for governor, candidates for legislature unopposed The politically conservative state of Ngeremlengui has a first woman&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7473>
-
----
-
-## Stormy weather could impact Palau by mid-week
-
-date: 2023-11-13, from: Tia Belau (Palau's First Newspaper)
-
-By Kambes Kesolei Palau could experience stormy weather this week as a tropical disturbance known as “Invest 95W” is moving&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7471>
-
----
-
-## Palau Development Symposium set for Thursday
-
-date: 2023-11-13, from: Tia Belau (Palau's First Newspaper)
-
-By Kambes Kesolei The renamed Palau Development Symposium, formerly the Economic Symposium, is set for Thursday with an all day&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7469>
-
----
-
-## Palau wages see strong growth in second quarter
-
-date: 2023-11-13, from: Tia Belau (Palau's First Newspaper)
-
-By Kambes Kesolei Palau&#8217;s economy is making a robust recovery, as evidenced by a nearly 12% increase in overall wages&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7466>
-
----
-
-## Cultural visit and handover of interpretive signage at Oublallang in Ngereklengong
-
-date: 2023-11-13, from: Tia Belau (Palau's First Newspaper)
-
-On November 08, 2023, Minister Ngiraibelas Tmetuchl along with Director of Tourism MelsonMiko and Registrar McMichael Mutok Jr. visit a&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7463>
-
----
-
-## Sonsorol State community meeting of Pulo Anna remains in Germany
-
-date: 2023-11-13, from: Tia Belau (Palau's First Newspaper)
-
-On November 09, 2023, Minister Ngiraibelas Tmetuchl along with Sonsorol Delegate Yutaka Gibbons Jr., Sonsorol Governor Nicholas Aquino, Chief Damian&#8230; You must be logged in and subscribed to view this content. 
-
-<https://www.tiabelaunews.com/?p=7460>
-
----
-
-## From bean to bar, UH alum turned international chocolatier got his start at Mānoa
-
-date: 2023-11-12, from: University of Hawaiʻi News
-
-<p>Founder and owner of M&#257;noa Chocolate Dylan Butterbaugh’s passion for the business began in his undergraduate studies at <abbr>UH</abbr> M&#257;noa.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/12/manoa-chocolate-butterbaugh/">From bean to bar, <abbr>UH</abbr> alum turned international chocolatier got his start at Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<https://www.hawaii.edu/news/2023/11/12/manoa-chocolate-butterbaugh/>
-
----
-
-**@Pacific Island Forum** (date: 2023-11-12, from: Pacific Island Forum)
-
-Why not play free online slots? You can play for free when you are planning to play for real money. You can also test new strategies<span class="excerpt-hellip"> […]</span> 
-
-<https://www.forumsec.org/2023/11/12/39379/>
-
----
-
-## Philippines hits China's repeated attempts to block resupply mission to West Philippine Sea
-
-date: 2023-11-12, from: Pacific Island Times
-
-By Jinky Jorgio Manila-- The Philippine Coast Guard successfully escorted two military ships on a resupply mission to BRP Sierra Madre on... 
-
-<https://www.pacificislandtimes.com/post/philippines-hits-china-s-repeated-attempts-to-block-resupply-missions-to-west-philippine-sea>
-
----
-
-## Guam artist named finalist for Lewis Prize for Music
-
-date: 2023-11-12, from: Pacific Island Times
-
-New York, NY – The Lewis Prize for Music – Guam a philanthropic music arts organization advancing systems change through creative youth... 
-
-<https://www.pacificislandtimes.com/post/guam-artist-named-finalist-for-lewis-prize-for-music>
+<https://www.pacificislandtimes.com/post/senator-maintains-tamuning-is-the-most-suitable-site-for-new-guam-hospital>
 
