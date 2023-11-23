@@ -1,5 +1,15 @@
 
-(date: 2023-11-22 08:39:29)
+(date: 2023-11-22 14:33:07)
+
+---
+
+## 2023 Fall Section Manager Election Results
+
+date: 2023-11-22, from: Amateur Radio Relay League News
+
+<p> </p><p>Two balloted Section Manager elections were conducted this fall. Ballots were counted on Tuesday, November 21, at ARRL Headquarters. All two-year terms of office will begin on January 1, 2024.</p><p></p><p><b>For Section Manager of the ARRL Alaska Section:</b></p><p><b></b></p><b></b><ul><li>David Stevens, KL7EB (incumbent), received 105 votes<p></p></li> <li>Jeffrey Wolf, N8EX, received 72 votes<p></p></li></ul><p>David Stevens, KL7EB, of Anchorage, Alaska, has been declared re-el...</p> 
+
+<http://www.arrl.org/news/view/2023-fall-section-manager-election-results>
 
 ---
 
