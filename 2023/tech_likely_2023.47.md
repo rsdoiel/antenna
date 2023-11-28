@@ -872,7 +872,7 @@ date: 2023-11-21, from: Miek Giebin blog
 
 I&rsquo;m using the following shortcode (saved as gallery.html) in Hugo to generate a gallery containing both video and photos. Comments in the code.
 May it be helpful for you. It comes (of course) with no support. The cover photo handling is done by my Hugo theme (terminal) btw.
-&lt;!-- All img/*.{webm,ogv} video files are taken and simularly the caption file is used to generate a video control. --&gt; {{- $videos := . 
+&lt;!-- All `img/*.{webm,ogv}` video files are taken and simularly the caption file is used to generate a video control. --&gt; `{{- $videos := . `
 
 <https://miek.nl/2023/november/21/gallery-shortcode/>
 
