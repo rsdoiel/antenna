@@ -232,7 +232,7 @@ refresh:
 	git fetch origin
 	git pull origin $(BRANCH)
 
-publish: .FORCE build
+publish: .FORCE
 	./publish.bash
 
 .FORCE:

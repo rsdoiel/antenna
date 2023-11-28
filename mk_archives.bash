@@ -44,5 +44,25 @@ while read -r FNAME; do
 	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
 done
 
+# Find all our mid_central markdown files to archive.
+printf '\n## Mid Central\n\n' >>"${YEAR}/index.md"
+CMD="ls -1 ${YEAR}/mid_central_*.md"
+$CMD | sort -r |\
+while read -r FNAME; do
+	BNAME=$(basename "$FNAME" ".md")
+	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
+	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
+done
+
+# Find all our mid_central markdown files to archive.
+printf '\n## Tech Likely\n\n' >>"${YEAR}/index.md"
+CMD="ls -1 ${YEAR}/tech_likely_*.md"
+$CMD | sort -r |\
+while read -r FNAME; do
+	BNAME=$(basename "$FNAME" ".md")
+	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
+	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
+done
+
 echo >>"$YEAR/index.md"
 git add "$YEAR/"

@@ -19,6 +19,21 @@
 <nav>
 <ul>
 	<li><a href="../">The Antenna</a></li>
+$if(socal_north_page)$
+	<li><a href="../$socal_north_page$" title="news from the Northern side of Southern California" >SoCal North!</a></li>
+$endif$
+$if(pacific_page)$
+	<li><a href="../$pacific_page$" title="News from Micronesia and Pacific">Pacific</a></li>
+$endif$
+$if(mid_central_page)$
+	<li><a href="../$mid_central_page$" title="news from Mid Central California">Mid Central</a></li>
+$endif$
+$if(tech_likely_page)$
+	<li><a href="../$tech_likely_page$" title="likely tech news fed but other stuff happens too">Tech Likely</a></li>
+$endif$
+$if(weather_page)$
+	<li><a href="$weather_page$" title="U.S. National Weather">Weather</a></li>
+$endif$
 	<li><a href="./">Archives</a></li>
 	<li><a href="../search.html">Search</a></li>
 	<li><a href="../about.html">About</a></li>

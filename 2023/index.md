@@ -34,3 +34,17 @@
 * [pacific 2023.42](pacific_2023.42.md)
 * [pacific 2023.41](pacific_2023.41.md)
 
+## Mid Central
+
+* [mid central 2023.47](mid_central_2023.47.md)
+* [mid central 2023.46](mid_central_2023.46.md)
+* [mid central 2023.45](mid_central_2023.45.md)
+* [mid central 2023.44](mid_central_2023.44.md)
+* [mid central 2023.43](mid_central_2023.43.md)
+
+## Tech Likely
+
+* [tech likely 2023.48](tech_likely_2023.48.md)
+* [tech likely 2023.47](tech_likely_2023.47.md)
+* [tech likely 2023.46](tech_likely_2023.46.md)
+
