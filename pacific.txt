@@ -83,8 +83,8 @@ https://www.theguardian.com/world/micronesia/rss "~The Guardian, World/Micronesi
 #
 # FSM Government feeds
 #
-https://gov.fm/index.php/component/content/category/35-pio-articles?Itemid=177&format=feed&type=rss "~FSM Public Information Office (Simina Adminstration)"
-#https://gov.fm/index.php/component/content/category/34-pio-articles?Itemid=177&format=feed&type=rss "~FSM Public Information Office (Panuelo Adminstration)"
+https://gov.fm/index.php/component/content/category/35-pio-articles?Itemid=177&format=feed&type=rss "~FSM Public Information Office (Simina Administration)"
+#https://gov.fm/index.php/component/content/category/34-pio-articles?Itemid=177&format=feed&type=rss "~FSM Public Information Office (Panuelo Administration)"
 
 #
 # Sometimes features articles on Micronesia (like when the U.S. wants somethig

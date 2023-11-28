@@ -4,6 +4,7 @@
 
 ## Socal North
 
+* [socal north 2023.48](socal_north_2023.48.md)
 * [socal north 2023.47](socal_north_2023.47.md)
 * [socal north 2023.46](socal_north_2023.46.md)
 * [socal north 2023.45](socal_north_2023.45.md)
@@ -15,6 +16,7 @@
 
 ## Weather
 
+* [weather 2023.48](weather_2023.48.md)
 * [weather 2023.47](weather_2023.47.md)
 * [weather 2023.46](weather_2023.46.md)
 * [weather 2023.45](weather_2023.45.md)
@@ -26,6 +28,7 @@
 
 ## Pacific
 
+* [pacific 2023.48](pacific_2023.48.md)
 * [pacific 2023.47](pacific_2023.47.md)
 * [pacific 2023.46](pacific_2023.46.md)
 * [pacific 2023.45](pacific_2023.45.md)
@@ -36,6 +39,7 @@
 
 ## Mid Central
 
+* [mid central 2023.48](mid_central_2023.48.md)
 * [mid central 2023.47](mid_central_2023.47.md)
 * [mid central 2023.46](mid_central_2023.46.md)
 * [mid central 2023.45](mid_central_2023.45.md)

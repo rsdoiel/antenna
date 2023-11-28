@@ -60,7 +60,7 @@ mid_central.html: mid_central.md front_page.tmpl
 		   mid_central.md \
 		   >mid_central.html
 
-mid_central.md: mid_central.txt
+mid_central.md: mid_central.txt mid_central.skim
 	skim2md mid_central.skim >mid_central.md
 	cp mid_central.md $(YEAR)/mid_central_$(VOL_NO).md
 
@@ -83,7 +83,7 @@ tech_likely.html: tech_likely.md front_page.tmpl
 		   tech_likely.md \
 		   >tech_likely.html
 
-tech_likely.md: tech_likely.txt
+tech_likely.md: tech_likely.skim tech_likely.txt 
 	skim2md tech_likely.skim >tech_likely.md
 	cp tech_likely.md $(YEAR)/tech_likely_$(VOL_NO).md
 
@@ -92,8 +92,6 @@ tech_likely.txt: tech_likely.skim
 socal_north: socal_north.html
 
 socal_north.html: socal_north.md front_page.tmpl
-	skim2md socal_north.skim >socal_north.md
-	cp socal_north.md $(YEAR)/socal_north_$(VOL_NO).md
 	pandoc -f markdown -t html5 \
 	       --lua-filter=links-to-html.lua \
 	       --metadata title="SoCal North, vol. $(VOL_NO)" \
@@ -108,16 +106,15 @@ socal_north.html: socal_north.md front_page.tmpl
 		   socal_north.md \
 		   >socal_north.html
 
-socal_north.md: socal_north.txt
+socal_north.md: socal_north.txt socal_north.skim
+	skim2md socal_north.skim >socal_north.md
+	cp socal_north.md $(YEAR)/socal_north_$(VOL_NO).md
 
 socal_north.txt: socal_north.skim
 
 pacific: pacific.html
 
 pacific.html: pacific.md front_page.tmpl
-	./pacific_filter.bash
-	skim2md pacific.skim >pacific.md
-	cp pacific.md $(YEAR)/pacific_$(VOL_NO).md
 	pandoc -f markdown -t html5 \
                --lua-filter=links-to-html.lua \
 	       --metadata title="Pacific, vol. $(VOL_NO)" \
@@ -132,15 +129,16 @@ pacific.html: pacific.md front_page.tmpl
 		   pacific.md \
 		   >pacific.html
 
-pacific.md: pacific.txt
+pacific.md: pacific.skim pacific.txt
+	./pacific_filter.bash
+	skim2md pacific.skim >pacific.md
+	cp pacific.md $(YEAR)/pacific_$(VOL_NO).md
 
 pacific.txt: pacific.skim
 
 weather: weather.html 
 
 weather.html: weather.md front_page.tmpl
-	skim2md weather.skim >"weather.md"
-	cp weather.md $(YEAR)/weather_$(VOL_NO).md
 	pandoc -f markdown -t html5 \
                --lua-filter=links-to-html.lua \
 	       --metadata title="Weather, vol. $(VOL_NO)" \
@@ -155,7 +153,9 @@ weather.html: weather.md front_page.tmpl
 		   weather.md \
 		   >"weather.html"
 
-weather.md: weather.txt
+weather.md: weather.skim weather.txt
+	skim2md weather.skim >"weather.md"
+	cp weather.md $(YEAR)/weather_$(VOL_NO).md
 
 weather.txt: weather.skim
 
