@@ -1,5 +1,190 @@
 
-(date: 2023-11-28 13:34:41)
+(date: 2023-11-29 08:20:37)
+
+---
+
+## Wayland takes the wheel as Red Hat bids farewell to X.org
+
+date: 2023-11-29, updated: 2023-11-29, from: Liam Proven's articles at the Register
+
+<h4>Firefox 121, freshly in beta test, will default to the protocol too</h4>
+      <p>Red Hat reckons Wayland is now mature enough to take over as the only display server in the forthcoming RHEL 10.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/29/rhel_10_dropping_x11/>
+
+---
+
+## Save the date: FreeDOS virtual get-together
+
+date: 2023-11-29, from: FreeDOS News
+
+<div class="markdown_content"><p>Every month, we like to get together for an online meet-up, so we can get to know each other as more than just an email address. We're planning the next virtual get-together on Sunday, December 17 at 11am US/Central. (Use your favorite timezone converter to find your local time.) This month, we are switching to Google Meet for the meeting. As always, we'll share the meeting URL when the meeting starts. We like to alternate topics every month; this month's focus is "technical" - it's a great opportunity to do online debugging, ask for programming help, and otherwise talk about tech issues so we can bring them back to the email list.</p></div> 
+
+<https://sourceforge.net/p/freedos/news/2023/11/save-the-date-freedos-virtual-get-together/>
+
+---
+
+## Ham Radio in Space: Engaging with Students Worldwide for 40 Years
+
+date: 2023-11-29, from: NASA breaking news
+
+In May 2018, a student at Mill Springs Academy in Alpharetta, Georgia, Andrew Maichle, talked to NASA astronaut Scott Tingle on the International Space Station via amateur or ham radio. The experience profoundly affected Maichle, who went on to study electrical engineering at Clemson University in South Carolina. “It was so cool to see in [&#8230;] 
+
+<https://www.nasa.gov/missions/station/iss-research/ham-radio-in-space-engaging-with-students-worldwide-for-40-years/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-29, from: Dave Winer's Scripting News)
+
+I've heard ActivityPub described as <a href="http://scripting.com/2022/07/12/170955.html?title=twoWayRss">two-way RSS</a>. If so, there are imho more direct ways to arrive at that. I think it's possible to create a federation system that takes a few days to implement. Maybe it doesn't need all the features they've put into ActivityPub. I'm pretty sure a lightweight social network is what's called for now. I know 20 different ventures have started up to do this, but isn't it weird that none of them have built on RSS. That's the only approach imho that has a chance of doing something unique here. I'd rather work with other people, but I'm not into replacing simplicity with something that's not very simple. 
+
+<http://scripting.com/2023/11/29.html#a135720>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-29, from: Dave Winer's Scripting News)
+
+I'm back on <a href="https://www.nytimes.com/games/wordle/">Wordle</a>, having solved the puzzle every day for the last 36 days. It's training my mind -- I see patterns I wouldn't ordinarily see, because I spend as much as an hour or two every day looking for patterns in letters, and finding them, eventually. I wish at times my mind worked more like a computer. When their bot says "there were only three possible solutions at that point" -- I wish I could see what they are at each point, or at least know how many they are, if not what they are. The training has also helped my mind debug software. I'm not as daunted as I often am when there appears to be no solution to the problem I'm working on. I'm sure I'll find it eventually. 
+
+<http://scripting.com/2023/11/29.html#a135404>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-29, from: Dave Winer's Scripting News)
+
+People who say Twitter is over aren't considering how vast it is. Same kind of situation as with Atom many years ago. It wasn't obvious how deeply installed RSS was, all the networks that had been created with it. It was basically impossible at that time to displace RSS. Anyway, same thing with Twitter today, no matter how vile <a href="https://gizmodo.com/elon-musk-tweets-pizzagate-conspiracy-pedo-epstein-1851053448">the owner</a> of the network is. It has been around since 2006, a time of huge growth in networking, and it captured basically all of it. So if there's anyone you need to reach, and they're hooked up to the net, you almost certainly will be able to reach them on Twitter. This is another situation like Napster. Never have you had all the music of our civilization available so easily to so many people. We could have done so much with that. The most prudent thing to do with Twitter is to organize a buyout for Musk, and get him out of that position. We don't need to delete it, not that we could, we need to get Musk out of a position of control. 
+
+<http://scripting.com/2023/11/29.html#a134808>
+
+---
+
+## Real-time monochrome camera input on Raspberry Pi Pico
+
+date: 2023-11-29, from: Raspberry Pi News (.com)
+
+<p>Learn how to connect a Raspberry Pi Pico to a Himax HM01B0-based camera module and capture monochrome images using PIO and DMA in real time.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/real-time-monochrome-camera-input-on-raspberry-pi-pico/">Real-time monochrome camera input on Raspberry Pi Pico</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/real-time-monochrome-camera-input-on-raspberry-pi-pico/>
+
+---
+
+## Breaking Laptop Fingerprint Sensors
+
+date: 2023-11-29, updated: 2023-11-28, from: Bruce Schneier blog
+
+<p>They&#8217;re <a href="https://arstechnica.com/gadgets/2023/11/researchers-beat-windows-hello-fingerprint-sensors-with-raspberry-pi-and-linux/">not that good</a>:</p>
+<blockquote><p>Security researchers Jesse D&#8217;Aguanno and Timo Teräs write that, with varying degrees of reverse-engineering and using some external hardware, they were able to fool the Goodix fingerprint sensor in a Dell Inspiron 15, the Synaptic sensor in a Lenovo ThinkPad T14, and the ELAN sensor in one of Microsoft&#8217;s own Surface Pro Type Covers. These are just three laptop models from the wide universe of PCs, but one of these three companies usually does make the fingerprint sensor in every laptop we&#8217;ve reviewed in the last few years. It&#8217;s likely that most Windows PCs with fingerprint readers will be vulnerable to similar exploits...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2023/11/breaking-laptop-fingerprint-sensors.html>
+
+---
+
+## Announcing Deno Cron
+
+date: 2023-11-29, updated: 2023-11-29, from: Deno blog
+
+`Deno.cron` allows you to easily create scheduled jobs and is available on Deno Deploy. Here's how it works. 
+
+<https://deno.com/blog/cron>
+
+---
+
+## External GPUs working on the Raspberry Pi 5
+
+date: 2023-11-29, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">External GPUs working on the Raspberry Pi 5</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>My journey testing various graphics cards on the Raspberry Pi began soon after the Compute Module 4 was launched in 2020. Since then I've <a href="https://pipci.jeffgeerling.com/#gpus-graphics-cards">tested</a> almost 20 graphics cards—with a <a href="https://www.jeffgeerling.com/blog/2023/i-built-special-pcie-card-test-gpus-on-pi"><em>little</em></a> success.</p>
+
+<p>But there were two roadblocks to getting drivers for even older AMD <code>radeon</code> drivers working well:</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2023-11-28T21:13:59-06:00" title="Tuesday, November 28, 2023 - 21:13" class="datetime">November 28, 2023</time></span> 
+
+<https://www.jeffgeerling.com/blog/2023/external-gpus-working-on-raspberry-pi-5>
+
+---
+
+## Please, United: Don’t Do It.
+
+date: 2023-11-29, from: Doc Searls (at Harvard), New Old Blog
+
+I&#8217;ve flown 1,500,242 miles with United Airlines. My wife has flown at least a million more. Both of us currently enjoy Premier status, though we&#8217;ve spent much of our time with United at the fancier 1K level. We have also both been lifetime United Club members for (counting&#8230;) thirty-three years. Unlike many passengers of big [&#8230;] 
+
+<https://doc.searls.com/2023/11/28/united-dont/>
+
+---
+
+## Wednesday 29 November, 2023
+
+date: 2023-11-29, from: John Naughton's online diary
+
+The ‘alignment’ problem Nice cover of the New Yorker’s special issue on AI. Quote of the Day ”We are here on Earth to help others. What on earth the others are here for I do not know&#8221; W. H. Auden &#8230; <a href="https://memex.naughtons.org/wednesday-29-november-2023/38856/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-29-november-2023/38856/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-29, from: Dave Winer's Scripting News)
+
+I spent today working on the plumbing of FeedLand-on-Automattic. Hopefully tomorrow I will get to work on more user-facing features. 
+
+<http://scripting.com/2023/11/28.html#a002803>
+
+---
+
+## Windows NT: peeking into the cradle
+
+date: 2023-11-29, from: OS News
+
+Reading the story of how Windows NT came to be was entertaining, as it is a story of the system itself and the dynamics between Dave Cutler, the original designer and lead for NT, and the other people involved in the project. I was shy of being 10 years old when Windows NT launched and I didn’t comprehend what was going on in the operating systems world and why this release was such a big deal. Reading the book made me learn various new things about the development process, the role of Microsoft in that era, and allowed me to settle some questions I’ve had over the years. This article is a mixture of a book review and a collection of thoughts and reflections that the book evoked. Let’s begin because we have a lot of ground to cover. Dave Cutler&#8217;s impact on the word of computing really can&#8217;t be understated. I often wonder how he truly feels about what his and his team&#8217;s creation turned into today &#8211; does he like what Windows NT has become? Does he consider Windows 11 worthy of carrying on the torch of NT? As Cutler still works at Microsoft, we won&#8217;t get an answer any time soon, but I sure do hope he intends to write down his memoirs in a tell-all book about his life and career, because I&#8217;d be down for reading that. 
+
+<https://www.osnews.com/story/137951/windows-nt-peeking-into-the-cradle/>
+
+---
+
+## Microsoft contributes Azure RTOS to open source
+
+date: 2023-11-29, from: OS News
+
+We’re pleased to share an important update regarding Azure RTOS – an embedded development suite with the ThreadX real-time operating system that has been deployed on more than 12 billion devices worldwide. Reinforcing our commitment to innovation and community collaboration, Azure RTOS will be transitioning to an open-source model under the stewardship of the Eclipse Foundation, a recognized leader in hosting open-source IoT projects. With Eclipse Foundation as the new home, Azure RTOS becomes Eclipse ThreadX – a comprehensive embedded development suite including a small but powerful real-time operating system that provides reliable, ultra-fast performance for resource-constrained devices. It’s easy-to-use, market proven, and trusted by developers and manufacturers for over two decades. It also supports the most popular 32-bit microcontrollers and embedded development tools so teams can make the most of their existing skills. The Eclipse&#8217;s Foundation announcement post has more details. 
+
+<https://www.osnews.com/story/137949/microsoft-contributes-azure-rtos-to-open-source/>
+
+---
+
+## New Chinese Loongsoon chip matches Intel’s 14600K in IPC tests
+
+date: 2023-11-29, from: OS News
+
+Chinese chip designer Loongson has finally launched its loong teased &#8220;next-generation&#8221; 3A6000-series processors based on the LoongArch microarchitecture. IPC tests showed the 3A6000 matching Intel&#8217;s Raptor Lake i5-14600K in IPC (instructions per clock), with both chips clocked at 2.5GHz. As well as the headlining x86 compatible processor came the announcement of numerous partner desktop, laptop, and all-in-one machines — plus a consumer-grade motherboard from Asus. It was also entertaining to see a recorded overclocking session, which took an LN2-cooled 3A6000 chip to the current maximum 3 GHz. Many of us are being dismissive now, but give it a few more generations and Chinese PC users won&#8217;t be depending on Intel or AMD anymore &#8211; and that&#8217;s pretty impressive. 
+
+<https://www.osnews.com/story/137947/new-chinese-loongsoon-chip-matches-intels-14600k-in-ipc-tests/>
+
+---
+
+## Policy: Seductions and Silences
+
+date: 2023-11-28, from: Care
+
+
+                <p>A legitimately technological undertaking must deeply engage with poetry and testimonies from the wretched of the earth.</p>
+
+             
+
+<https://logicmag.io/policy/policy-seductions-and-silences>
+
+---
+
+## Analyzing the Monoprice Blackbird HDCP 2.2 to 1.4 down converter
+
+date: 2023-11-28, from: OS News
+
+I got my hands on a Monoprice Blackbird 4K Pro HDCP 2.2 to 1.4 Converter. According to the marketing copy it “is the definitive solution for playback of new 4K HDCP 2.2 encoded content on 4K displays with the old HDCP 1.4 standard.” Stuffed after a delicious Thanksgiving meal, I decided to take it apart after the guests had left. It’s a simple single-function device, so I didn’t expect much, but maybe there’s some things to be learned? Turns out there&#8217;s a lot to learn, and it&#8217;s also incredibly interesting. The note at the end about the legality of this device is also interesting. 
+
+<https://www.osnews.com/story/137945/analyzing-the-monoprice-blackbird-hdcp-2-2-to-1-4-down-converter/>
 
 ---
 
@@ -138,7 +323,7 @@ A model of the Mariner-C spacecraft seems to float in the darkness of space in t
 
 ---
 
-## A72 assembler veresion 1.05
+## A72 assembler version 1.05
 
 date: 2023-11-28, from: FreeDOS News
 
@@ -309,7 +494,7 @@ On Nov. 28, 1983, space shuttle Columbia took to the skies for its sixth trip in
 
 date: 2023-11-28, from: NASA breaking news
 
-This new&#160;Picture of the Month&#160;from the NASA/ESA/CSA James Webb Space Telescope reveals intricate details of the Herbig Haro object 797 (HH 797). Herbig-Haro objects are luminous regions surrounding newborn stars (known as protostars), and are formed when stellar winds or jets of gas spewing from these newborn stars form shockwaves colliding with nearby gas and [&#8230;] 
+This new Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope reveals intricate details of the Herbig Haro object 797 (HH 797). Herbig-Haro objects are luminous regions surrounding newborn stars (known as protostars), and are formed when stellar winds or jets of gas spewing from these newborn stars form shockwaves colliding with nearby gas and [&#8230;] 
 
 <https://www.nasa.gov/missions/webb/webb-telescope-a-prominent-protostar-in-perseus/>
 

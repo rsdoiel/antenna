@@ -1,5 +1,186 @@
 
-(date: 2023-11-28 13:31:07)
+(date: 2023-11-29 08:17:50)
+
+---
+
+## The 10 Freeway, Explained: The Early 'Flying Route' That Changed LA Driving
+
+date: 2023-11-29, updated: 2023-11-29, from: The LAist
+
+We look at key moments in the history of the 10, including an early highway path that influenced the safety of freeways today. 
+
+<https://laist.com/news/transportation/los-angeles-10-freeway-history-ramona-airline-marilyn-reece>
+
+---
+
+## What You Need To Know About LA’s Independent Redistricting Commission Proposal
+
+date: 2023-11-29, updated: 2023-11-29, from: The LAist
+
+The idea gained momentum after the release of secretly recorded audio that featured council members discussing how to preserve their own power through the redistricting process. 
+
+<https://laist.com/news/politics/what-you-need-to-know-about-las-independent-redistricting-commission-proposal>
+
+---
+
+## California Makes Strides Toward Improving HBCU Transfer Pathway For Community College Students
+
+date: 2023-11-29, updated: 2023-11-29, from: The LAist
+
+This fall, California made it easier for community college students to transfer to out-of-state Historically Black Colleges and Universities. 
+
+<https://laist.com/news/education/hbcu-community-college-student-transfers>
+
+---
+
+## Get Moving, Long Beach College Students: Applications For City Corps Due Soon
+
+date: 2023-11-29, updated: 2023-11-29, from: The LAist
+
+The paid fellowship prioritizes students from Cal State Dominguez Hills, Cal State Long Beach, and Long Beach City College. 
+
+<https://laist.com/news/education/public-service-city-corps-college-fellowship-long-beach>
+
+---
+
+## Are Electric Bikes Allowed At Your College In California? Depends On Where You Go To School
+
+date: 2023-11-29, updated: 2023-11-29, from: The LAist
+
+As electric bikes and scooters gain popularity among college students, California campuses vary over their regulation. The devices pose safety risks yet are cheaper, more convenient and better for the environment than gas-powered vehicles. 
+
+<https://laist.com/news/education/are-electric-bikes-allowed-at-your-college-in-california-depends-on-where-you-go-to-school>
+
+---
+
+## Falling In And Out Of Love With LA's Mystery-Cloaked Magic Castle
+
+date: 2023-11-29, updated: 2023-11-29, from: The LAist
+
+For one devoted hobbyist magician, the members-only Los Angeles institution was too alluring to resist. But the love faded. 'Imperfect Paradise: The Castle,' Part 1. 
+
+<https://laist.com/news/arts-and-entertainment/imperfect-paradise-the-castle-part-1>
+
+---
+
+## Dashew Center hosts Fall English Language Circle for international students
+
+date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Dashew Center for International Students and Scholars hosts an English language circle to help international students practice speaking English. 
+The Fall English Language Circle is a weekly meeting where international students looking to practice their English can build fluency and language advancement with a native English speaker, according to an emailed statement from the Dashew Center. 
+
+<https://dailybruin.com/2023/11/28/dashew-center-hosts-fall-english-language-circle-for-international-students/>
+
+---
+
+## UCLA’s Student Run Homeless Clinics offers treatment to underserved communities
+
+date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Department of Family Medicine&#8217;s Student Run Homeless Clinics received a neighborhood purpose grant from the North Westwood Neighborhood Council during the council&#8217;s November meeting. 
+
+<https://dailybruin.com/2023/11/28/uclas-student-run-homeless-clinics-offers-treatment-to-underserved-communities/>
+
+---
+
+## USAC Recap – Nov. 21
+
+date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its third meeting of November on Nov. 21.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<https://dailybruin.com/2023/11/28/usac-recap-nov-21-2/>
+
+---
+
+## Opinion: Student organizations must be made more accessible to transfer students
+
+date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Nov. 28 at 9:44 p.m.</em>
+As prospective transfers all over California face the approaching undergraduate transfer application deadline, they eagerly look to the schools they hope to attend for the next two years. 
+
+<https://dailybruin.com/2023/11/28/opinion-student-organizations-must-be-made-more-accessible-to-transfer-students/>
+
+---
+
+## Bruin Birding Club builds community through campus bird walks
+
+date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Nov. 28 at 10:46 p.m.</em>
+At 8 a.m. in the Mildred E. Mathias Botanical Garden, only the birds are awake. But every couple of weeks, the birds aren’t alone. 
+
+<https://dailybruin.com/2023/11/28/bruin-birding-club-builds-community-through-campus-bird-walks/>
+
+---
+
+## UCLA Sexperts strives to destigmatize discussions about sexual health
+
+date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Nov. 28 at 10:48 p.m.</em>
+While some Bruins shy away from talking about sex, one group on campus is trying to start conversations. 
+
+<https://dailybruin.com/2023/11/28/ucla-sexperts-strives-to-destigmatize-discussions-about-sexual-health/>
+
+---
+
+## Candid Carlson: Record-breaking No. 2 UCLA women’s basketball deserves historic attendance
+
+date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Nov. 28 at 9:13 p.m.</em>
+As the game tipped off just prior to noon, the sideline sections of Pauley Pavilion were near full capacity. 
+
+<https://dailybruin.com/2023/11/28/candid-carlson-record-breaking-no-2-ucla-womens-basketball-deserves-historic-attendance/>
+
+---
+
+## Nelson’s Noggin: Dante Moore’s lackluster performance, mismanagement hinder UCLA football
+
+date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Nov. 28 at 9:06 p.m.</em>
+One man absorbed most of the criticism as the Bruins stumbled and sputtered toward a tumultuous end. 
+
+<https://dailybruin.com/2023/11/28/nelsons-noggin-dante-moores-lackluster-performance-mismanagement-hinder-ucla-football/>
+
+---
+
+## Family Of LA County Sheriff’s Deputy Plan To Claim In Lawsuit That Forced Overtime Contributed To His Death
+
+date: 2023-11-29, updated: 2023-11-29, from: The LAist
+
+The parents of Deputy Ryan Clinkunbroomer say his killing while on duty outside the Palmdale station could have been prevented. 
+
+<https://laist.com/news/criminal-justice/family-of-la-county-sheriffs-deputy-plan-to-claim-in-lawsuit-that-forced-overtime-contributed-to-his-death>
+
+---
+
+## Kat Lutz endeavors to spread adoption awareness and importance, dismantle stigma
+
+date: 2023-11-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Nov. 28 at 9:00 p.m.</em>
+Drawing a family tree doesn’t typically invoke much thought for an eight-year-old.
+However, the elementary school activity triggered intrigue and emotion for Kat Lutz. 
+
+<https://dailybruin.com/2023/11/28/kat-lutz-endeavors-to-spread-adoption-awareness-and-importance-dismantle-stigma/>
+
+---
+
+## UCLA football wide receivers Kam Brown and Keegan Jones enter transfer portal
+
+date: 2023-11-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Nov. 28 at 9:09 p.m.</em>
+Two veteran Bruins are searching for new homes.
+UCLA football senior wide receivers Kam Brown and Keegan Jones entered the transfer portal Monday morning. 
+
+<https://dailybruin.com/2023/11/28/ucla-football-wide-receivers-kam-brown-and-keegan-jones-enter-transfer-portal/>
 
 ---
 
@@ -327,6 +508,7 @@ The small Tundra Bean Goose is typically found in Alaska, China, and Russia.
 
 date: 2023-11-28, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Nov. 28 at 9:18 p.m.</em>
 UCLA football (7-5, 4-5 Pac-12) was blown out 33-7 by California (6-6, 4-5) on Saturday night, marking the Bruins&#8217; largest margin of defeat to close out their regular season. 
 
 <https://dailybruin.com/2023/11/27/five-things-ucla-vs-california-5/>
@@ -371,8 +553,8 @@ As tensions rise from conflict in the Middle East, Israeli and Palestinian stude
 
 date: 2023-11-27, from: The Daily Bruin (UCLA Student Newspaper)
 
-In the musical &#8220;Like Father,&#8221; alumnus Caroline Pernick and her creative partner Jacob Ryan Smith harmoniously blend coming-of-age themes with true crime. 
-Earlier this year, the up-and-coming horror dramedy &#8220;Like Father,&#8221; won the inaugural Open Jar Shark Tank and was a finalist for the Eugene O&#8217;Neill New Music Theater Festival. 
+<em>This post was updated Nov. 28 at 7:30 p.m.</em>
+In the musical “Like Father,” alumnus Caroline Pernick and her creative partner Jacob Ryan Smith harmoniously blend coming-of-age themes with true crime. 
 
 <https://dailybruin.com/2023/11/27/serial-killers-daughter-comes-of-age-in-ucla-alumnus-led-musical-like-father/>
 

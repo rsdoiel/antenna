@@ -1,25 +1,189 @@
 
-(date: 2023-11-28 13:34:43)
+(date: 2023-11-29 08:20:39)
 
 ---
 
-## SPC - No MDs are in effect as of Tue Nov 28 21:31:02 UTC 2023
+## There are no tropical cyclones at this time.
 
-date: 2023-11-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-11-29, from: Eastern Pacific Basin GIS Data
 
-No Mesoscale Discussions are in effect as of Tue Nov 28 21:31:02 UTC 2023. 
+No tropical cyclones as of Wed, 29 Nov 2023 16:09:19 GMT 
+
+<https://www.nhc.noaa.gov/gis/>
+
+---
+
+## SPC - No watches are valid as of Wed Nov 29 14:41:02 UTC 2023
+
+date: 2023-11-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Wed Nov 29 14:41:02 UTC 2023. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Wed Nov 29 14:41:02 UTC 2023
+
+date: 2023-11-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Wed Nov 29 14:41:02 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/md/>
 
 ---
 
-## SPC - No watches are valid as of Tue Nov 28 21:31:02 UTC 2023
+## SPC Nov 29, 2023 1300 UTC Day 1 Convective Outlook
 
-date: 2023-11-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-11-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Nov 28 21:31:02 UTC 2023. 
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0657 AM CST Wed Nov 29 2023
 
-<https://www.spc.noaa.gov/products/watch/>
+Valid 291300Z - 301200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Organized severe thunderstorms are not expected through tonight.
+
+...West...
+A few thunderstorms will remain possible today offshore and near
+central/southern California coastal areas. This will be as a
+shortwave trough and related mid-level cold core progress
+east-southeastward over the region, with minimal buoyancy remaining
+maximized in offshore/near-coastal areas.
+
+Farther east, forcing for ascent and mid-level cooling will
+overspread the southern Rockies later today and tonight, with the
+exit region of a 70-80 kt 500 mb jet streak nosing across northern
+Mexico. Scattered weak thunderstorm development is possible during
+the evening into the overnight hours across parts of Arizona and New
+Mexico.
+
+...Central/East Texas including the Middle Texas Coast...
+Air mass modification will occur today into tonight across the
+western Gulf of Mexico, with increasing low-level moisture from the
+western Gulf of Mexico into the Texas Coastal Plain tonight as a
+30-50 kt southerly low-level develops across a sizable part of
+Texas. It seems likely that a shallow stable layer will persist over
+inland areas, although modest-caliber elevated MUCAPE is expected to
+develop late tonight across central/east Texas, with isolated
+thunderstorm development becoming more probable overnight through
+the predawn hours of Thursday. Although richer maritime air may
+reach lower-middle coastal areas just before daybreak, severe storms
+still appear unlikely through 12z/6am CST Thursday.
+
+..Guyer/Mosier.. 11/29/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2023-11-29, from: Central Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ACPN50 PHFO 291137<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 200 AM HST Wed Nov 29 2023<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ The central North Pacific hurricane season officialy ends on <br />
+ November 30. The final Tropical Weather Outlook of the season will <br />
+ be issued at 8 PM on November 30. Routine issuance of the Tropical <br />
+ Weather Outlook will resume on June 1, 2024. During the off-season, <br />
+ Special Tropical Weather Outlooks will be issued as conditions <br />
+ warrant. <br />
+ <br />
+ $$<br />
+ Forecaster Bohlin<br />
+  
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2023-11-29, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br />
+TTAA00 KNHC DDHHMM<br />
+<br />
+Tropical Weather Outlook<br />
+NWS National Hurricane Center Miami FL<br />
+700 AM EST Wed Nov 29 2023<br />
+<br />
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />
+<br />
+Tropical cyclone formation is not expected during the next 7 days.<br />
+<br />
+$$<br />
+Forecaster Papin<br />
+NNNN<br />
+<br />
+</div></div><br />
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2023-11-29, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ABPZ20 KNHC 291123<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+400 AM PST Wed Nov 29 2023<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Papin<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2023-11-29, from: Eastern Pacific Basin Tropical Cyclones
+
+No tropical cyclones as of Wed, 29 Nov 2023 16:09:19 GMT 
+
+<https://www.nhc.noaa.gov/>
 
 ---
 
@@ -149,56 +313,6 @@ concerns.
 
 ---
 
-## There are no tropical cyclones at this time.
-
-date: 2023-11-28, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Tue, 28 Nov 2023 17:56:33 GMT 
-
-<https://www.nhc.noaa.gov/gis/>
-
----
-
-## CPHC Central North Pacific Outlook
-
-date: 2023-11-28, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br />
-TTAA00 PHFO DDHHMM<br />
-<br />
-Tropical Weather Outlook<br />
-NWS Central Pacific Hurricane Center Honolulu HI<br />
-800 AM HST Tue Nov 28 2023<br />
-<br />
-For the central North Pacific...between 140W and 180W:<br />
-<br />
-No tropical cyclones are expected during the next 7 days.<br />
-<br />
-The central North Pacific hurricane season officialy ends on <br />
-November 30. The final Tropical Weather Outlook of the season will <br />
-be issued at 8 PM on November 30. Routine issuance of the Tropical <br />
-Weather Outlook will resume on June 1, 2024. During the off-season, <br />
-Special Tropical Weather Outlooks will be issued as conditions <br />
-warrant. <br />
-<br />
-$$<br />
-Forecaster Almanza<br />
-NNNN<br />
-<br />
-</div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
-
----
-
 ## SPC Nov 28, 2023 1730 UTC Day 2 Convective Outlook
 
 date: 2023-11-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -243,74 +357,6 @@ potential appears low late Wednesday into early Thursday.
  
 
 <https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2023-11-28, from: Eastern Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ABPZ20 KNHC 281703<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 1000 AM PST Tue Nov 28 2023<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Tropical cyclone formation is not expected during the next 7 days.<br />
- <br />
- $$<br />
- Forecaster Berg<br />
-  
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2023-11-28, from: Eastern Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Tue, 28 Nov 2023 17:56:33 GMT 
-
-<https://www.nhc.noaa.gov/>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2023-11-28, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br />
-TTAA00 KNHC DDHHMM<br />
-<br />
-Tropical Weather Outlook<br />
-NWS National Hurricane Center Miami FL<br />
-100 PM EST Tue Nov 28 2023<br />
-<br />
-For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />
-<br />
-Tropical cyclone formation is not expected during the next 7 days.<br />
-<br />
-$$<br />
-Forecaster Berg<br />
-NNNN<br />
-<br />
-</div></div><br />
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 
@@ -399,50 +445,4 @@ lightning flashes near the end of the period along the coast.
  
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
-
----
-
-## SPC Nov 28, 2023 1300 UTC Day 1 Convective Outlook
-
-date: 2023-11-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0658 AM CST Tue Nov 28 2023
-
-Valid 281300Z - 291200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected today or tonight.
-
-...Lower Great Lakes...
-In proximity to the mid-level cold core (-40C at 500 mb) centered
-over eastern Ontario and Quebec, steep lapse rates persist with
-lake-induced CAPE and lake effect snow in the lee of the Great
-Lakes. This low-topped convection may be still conducive to a few
-lightning flashes through the morning/early afternoon, particularly
-in the lee of Lake Ontario.
-
-...California coast...
-A southern-stream trough will approach the California coast late
-tonight and early Wednesday. Given the expected weakening nature of
-the approaching surface cyclone, and its offshore forecast track,
-the potential for appreciable boundary-layer destabilization inland
-of northern/central coastal areas appears quite low. While mid-level
-cooling ahead of the modest mid-level cold core (500 mb temperatures
-around -22 to -24C) may contribute to convection capable of
-lightning offshore, lightning production with the convection should
-tend to wane as it approaches central California coastal areas late
-tonight into early Wednesday.
-
-..Guyer/Mosier.. 11/28/2023
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 

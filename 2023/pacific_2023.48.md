@@ -1,5 +1,353 @@
 
-(date: 2023-11-28 13:31:59)
+(date: 2023-11-29 08:18:27)
+
+---
+
+## CUC: Falling fuel prices result in decrease of Fuel Adjustment Charge for December
+
+date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
+
+(Commonwealth Utilities Corp.) — CUC has been notified by Mobil Oil Mariana Islands Inc. that there has been a decrease in the average  international  fuel  oil prices  which  may  affect  the  Fuel  Adjustment  Charge. 
+
+<https://www.mvariety.com/news/local/cuc-falling-fuel-prices-result-in-decrease-of-fuel-adjustment-charge-for-december/article_07ff9576-8eb9-11ee-8cba-db1d504260cc.html>
+
+---
+
+## Pacific Judicial Council discusses new technology in digital era
+
+date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
+
+(CNMI Judiciary) — On Wednesday, at the opening of the Pacific Judicial Council's 2023 Technology Conference, Justice F. Philip  Carbullido of the Supreme Court of Guam addressed a gathering of esteemed judges, attorneys, and distinguished guests throughout Micronesia at the Pacific Islands Club Hotel. With a theme titled "Welcome to the New Age," the conference aims to explore the intersection of law and technology in the current digital era. 
+
+<https://www.mvariety.com/news/local/pacific-judicial-council-discusses-new-technology-in-digital-era/article_eaa61692-8eba-11ee-87df-2fd228dcfa5a.html>
+
+---
+
+## Green flag on Managaha
+
+date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Managaha’s recreational beaches and dock as part of the regularly scheduled sampling.  None of the samples collected this week contained excessive concentrations of fecal indicator bacteria nor did they exceed the CNMI marine water quality standards. Therefore, BECQ assigns all of the sampled beach sites a green flag. Enjoy our waters! 
+
+<https://www.mvariety.com/news/local/green-flag-on-managaha/article_ef2bfcaa-8ebe-11ee-b58f-d7254ee2a593.html>
+
+---
+
+## Airport firefighter charged with assault and battery
+
+date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
+
+AIRPORT Firefighter Hekido Kaipat Helgen appeared before Superior Court Associate Judge Joseph N. Camacho on Wednesday for a bail hearing. 
+
+<https://www.mvariety.com/news/local/airport-firefighter-charged-with-assault-and-battery/article_31734fd2-8e8d-11ee-b802-efe6d52cc3c9.html>
+
+---
+
+## DPS: Large portion of 2023 budget spent on personnel salary
+
+date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
+
+A LARGE portion of the allotted budget for the CNMI Department of Public Safety in fiscal year 2023 was prioritized for personnel salary, according to its recently released Citizen Centric Report. 
+
+<https://www.mvariety.com/news/local/dps-large-portion-of-2023-budget-spent-on-personnel-salary/article_05f70218-8e97-11ee-a329-57c5f4cd1092.html>
+
+---
+
+## Civil Service Commission seeks funding for hearing officer
+
+date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
+
+RAY Muna, chairman of the CNMI Civil Service Commission, on Wednesday, urged members of the Saipan and Northern Islands Legislative Delegation to provide funds that will allow him to hire an administrative hearing officer. 
+
+<https://www.mvariety.com/news/local/civil-service-commission-seeks-funding-for-hearing-officer/article_27ca47a2-8e9b-11ee-84d4-ffc6335de1cb.html>
+
+---
+
+## Made-up legal citations have been submitted to courts, says Justice Carbullido
+
+date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
+
+LEGAL briefs with made-up ChatGPT and Artificial Intelligence citations have been submitted to the courts, Justice F. Philip Carbullido of the Supreme Court of Guam said in an interview during the Pacific Judicial Council's 2023 Technology Conference at the Pacific Islands Club on Wednesday. 
+
+<https://www.mvariety.com/news/local/made-up-legal-citations-have-been-submitted-to-courts-says-justice-carbullido/article_097854ce-8e96-11ee-930c-5fa90cc43f91.html>
+
+---
+
+## New local law lifts ban on Rota sea bean export
+
+date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios last week signed House Local Bill 23-19 into law to lift the ban on the exportation of raw bayogo or sea bean from Rota. 
+
+<https://www.mvariety.com/news/local/new-local-law-lifts-ban-on-rota-sea-bean-export/article_c7f29e42-8e77-11ee-b5ff-fb6ff17b1661.html>
+
+---
+
+## Saipan delegation confirms 3 SHEFA board nominees
+
+date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
+
+THE Saipan and Northern Islands Legislative Delegation on Wednesday confirmed the re-appointment of Kaelani Demapan and the nominations of Henry Hofschneider and Guadalupe Ingham as members of the Saipan Higher Educational Financial Assistance board. 
+
+<https://www.mvariety.com/news/local/saipan-delegation-confirms-3-shefa-board-nominees/article_b48284c8-8e9d-11ee-b6a5-53693513bcb6.html>
+
+---
+
+## Nick Leon Guerrero is Amigos December Ace
+
+date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
+
+NICK Leon Guerrero clinched the Amigos Golf Club’s December Ace of the Month title on Sunday at the Laolao Bay Golf &amp; Resort east course. 
+
+<https://www.mvariety.com/sports/localsports/nick-leon-guerrero-is-amigos-december-ace/article_9dee56f8-8e73-11ee-8941-0fbc4db3146d.html>
+
+---
+
+## Chaminade’s Macabre Background Creates Interesting History on Kalaepohaku
+
+date: 2023-11-29, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+Many people know Chaminade is located on Kalaepohaku or that the men&#8217;s basketball team pulled off one of the greatest upsets in basketball history in 1982 versus the University of Virginia or that the women’s volleyball team is currently ranked number one in the west region. But there&#8217;s so much more history here than that,... 
+
+<https://thesilversword.com/features/2023/11/29/chaminades-macabre-background-creates-interesting-history-on-kalaepohaku/>
+
+---
+
+## Senate fails to override governor's veto of utility cost
+
+date: 2023-11-29, from: The Guam Daily Post
+
+By a vote of 5 yes and 1 no, and with three senators absent, the Senate on Monday failed to garner the two-thirds vote required to override Gov. Arnold I. Palacios' line-item veto of the allotments for the utility costs… 
+
+<https://www.postguam.com/news/cnmi/senate-fails-to-override-governors-veto-of-utility-cost/article_ed40651e-8e4d-11ee-9ee4-df17ead97883.html>
+
+---
+
+## Parks and Recreation to collect $5 Grotto fee starting Dec. 4
+
+date: 2023-11-29, from: The Guam Daily Post
+
+Starting Dec. 4, the Division of Parks and Recreation, which is under the Department of Lands and Natural Resources, will collect a $5 Grotto dive site entrance fee from non-CNMI residents pursuant to Public Law 14-27. 
+
+<https://www.postguam.com/news/cnmi/parks-and-recreation-to-collect-5-grotto-fee-starting-dec-4/article_6d49795a-8e4c-11ee-b95c-5fc4958309ef.html>
+
+---
+
+## Public defenders asked to review  conflicts of interest in old cases
+
+date: 2023-11-29, from: The Guam Daily Post
+
+Lawyers with the Public Defender Service Corp. have been asked to review the cases they had previously withdrawn from. 
+
+<https://www.postguam.com/news/local/public-defenders-asked-to-review-conflicts-of-interest-in-old-cases/article_1b8c4098-8da2-11ee-aa5d-ff9dadfd962f.html>
+
+---
+
+## Night of drinking leads to fight, stabbing
+
+date: 2023-11-29, from: The Guam Daily Post
+
+A man was stabbed over accusations he was having an affair with another man's girlfriend. 
+
+<https://www.postguam.com/news/local/night-of-drinking-leads-to-fight-stabbing/article_443400c6-8e4c-11ee-8d14-a3ee55cc2bf8.html>
+
+---
+
+## Man allegedly threatens, restrains, strangles woman
+
+date: 2023-11-29, from: The Guam Daily Post
+
+A man was accused of strangling a woman, threatening to kill her if she left, and later making her sit under a sink in a Tamuning residence. 
+
+<https://www.postguam.com/news/local/man-allegedly-threatens-restrains-strangles-woman/article_0f15ac3e-8e54-11ee-b5b9-b3d2ab3f645a.html>
+
+---
+
+## Supreme Court affirms killer's  2020 conviction and sentence
+
+date: 2023-11-29, from: The Guam Daily Post
+
+The Supreme Court of Guam affirmed the conviction and 25-year sentence for a man found guilty in the 2020 killing of 45-year-old Peter John Tadeo Rios Jr. 
+
+<https://www.postguam.com/news/local/supreme-court-affirms-killers-2020-conviction-and-sentence/article_c8bd59de-8e45-11ee-8c65-4b0eb96763ca.html>
+
+---
+
+## $10K awarded to UOG student
+
+date: 2023-11-29, from: The Guam Daily Post
+
+Ivan Sablan Blanco, a junior at the University of Guam, has been chosen as the new Rotary Club of Tokyo-Atago scholar and awarded $10,000 toward his degree in business administration. 
+
+<https://www.postguam.com/news/local/10k-awarded-to-uog-student/article_d94f771c-8ccb-11ee-833b-ff6c9989206d.html>
+
+---
+
+## UOG breaks ground for new  WERI, nursing annex buildings
+
+date: 2023-11-29, from: The Guam Daily Post
+
+The University of Guam and its partners celebrated the groundbreaking for two new buildings on Nov. 17, marking a turning point for the projects that overcame a host of challenges including the COVID-19 pandemic, rising cost of construction, regulatory processes,… 
+
+<https://www.postguam.com/news/local/uog-breaks-ground-for-new-weri-nursing-annex-buildings/article_f3460f22-8e3e-11ee-a25a-83ecd08cb3c1.html>
+
+---
+
+## Witness pleads the 5th on juror misconduct in Jerry Kitchen trial
+
+date: 2023-11-29, from: The Guam Daily Post
+
+A man decided to invoke his Fifth Amendment right to remain silent when asked to discuss allegedly speaking with a juror sitting on the trial for Nakita Aguon, a woman accused of driving a red Jeep into Jerry Kitchen, a… 
+
+<https://www.postguam.com/news/witness-pleads-the-5th-on-juror-misconduct-in-jerry-kitchen-trial/article_16fc47f0-8e72-11ee-8e3c-831ee493d360.html>
+
+---
+
+## Man accused of throwing food, punching and trying to stab woman with a fork
+
+date: 2023-11-29, from: The Guam Daily Post
+
+A man was accused of throwing a plate of food, canned food, punching and trying to stab a woman with a fork. 
+
+<https://www.postguam.com/news/local/man-accused-of-throwing-food-punching-and-trying-to-stab-woman-with-a-fork/article_28ecc600-8e50-11ee-9dba-df6397f2f1f7.html>
+
+---
+
+## Delegate Moylan introduces Mawar Reconstruction Act
+
+date: 2023-11-29, from: The Guam Daily Post
+
+Guam Del. James Moylan has introduced the Typhoon Mawar Reconstruction Act, or H.R. 6478, which aims to provide the Federal Emergency Management Agency with the authority to seek out and allocate funds to address infrastructure damage resulting from the storm. 
+
+<https://www.postguam.com/news/local/delegate-moylan-introduces-mawar-reconstruction-act/article_84f18494-8cc6-11ee-8270-77e1b8f14049.html>
+
+---
+
+## RELEASE: Action, ambition, urgency call from Forum SG as Pacific leaders arrive at COP28
+
+date: 2023-11-29, from: Pacific Island Forum
+
+November 29th, COP28 UAE –Pacific nations including those bearing the brunt of the global climate crisis are coming to the COP 28 in UAE this week ready<span class="excerpt-hellip"> […]</span> 
+
+<https://www.forumsec.org/2023/11/29/release-action-ambition-urgency-call-from-forum-sg-as-pacific-leaders-arrive-at-cop28/>
+
+---
+
+## Hawaiian Word of the Week: Makana
+
+date: 2023-11-29, from: University of Hawaiʻi News
+
+<p>Makana&#8212;Gift, present; reward, award, donation, prize.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/28/hawaiian-word-of-the-week-makana-2/">Hawaiian Word of the Week: Makana</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/28/hawaiian-word-of-the-week-makana-2/>
+
+---
+
+## UH-mazing holiday recipes: Elise’s Favorite Spicy Clam Pasta
+
+date: 2023-11-29, from: University of Hawaiʻi News
+
+<p>Leeward Community College's Erin Maruoka shared her spicy clam pasta.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/28/uh-mazing-holiday-recipes-maruoka-spicy-clam-pasta/"><abbr>UH</abbr>-mazing holiday recipes: Elise’s Favorite Spicy Clam Pasta</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/28/uh-mazing-holiday-recipes-maruoka-spicy-clam-pasta/>
+
+---
+
+## What is Taylor Swift’s tie to UH?
+
+date: 2023-11-29, from: University of Hawaiʻi News
+
+<p>It’s football and no, not <abbr>NFL</abbr> Tight End Travis Kelce.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/28/taylor-swift-tie-to-uh/">What is Taylor Swift’s tie to <abbr>UH</abbr>?</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/28/taylor-swift-tie-to-uh/>
+
+---
+
+## UH football players named to All-Mountain West teams
+
+date: 2023-11-29, from: University of Hawaiʻi News
+
+<p>Steven McBride, Pofele Ashlock, Peter Manuma, Brayden Schager, Matthew Shipley, Cam Stone recognized for their performance on the field.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/28/uh-football-all-mountain-west-team/"><abbr>UH</abbr> football players named to All-Mountain West teams</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/28/uh-football-all-mountain-west-team/>
+
+---
+
+## Shared vision, shared goals, shared struggles
+
+date: 2023-11-28, from: Pacific Island Times
+
+The Summit on Colonialism held Oct. 26 in New York City this year was an incredible experience as it brought territorial natives and... 
+
+<https://www.pacificislandtimes.com/post/right-to-democracy-shared-goals-shared-struggles-shared-vision>
+
+---
+
+## Paying it forward: JABSOM alumni give back to current students
+
+date: 2023-11-28, from: University of Hawaiʻi News
+
+<p>Through the <abbr title="doctor of medicine">MD</abbr> Alumni Scholarship, Grace Crittenden and others hope that current <abbr>JABSOM</abbr> students will get to practice medicine in <span aria-label="Hawaii">Hawai&#699;i</span>&#8212;without much debt.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/28/jabsom-alum-pay-it-forward/">Paying it forward: <abbr>JABSOM</abbr> alumni give back to current students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/28/jabsom-alum-pay-it-forward/>
+
+---
+
+## UH sweeps state hackathon, solutions aim to modernize community services
+
+date: 2023-11-28, from: University of Hawaiʻi News
+
+<p>The hackathon culminated in presentations at <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> on November 18.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/28/hawaii-annual-code-challenge-2023/"><abbr>UH</abbr> sweeps state hackathon, solutions aim to modernize community services</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/28/hawaii-annual-code-challenge-2023/>
+
+---
+
+## Blas: No excuse for stalled action on mold issue at Guam Memorial Hospital 
+
+date: 2023-11-28, from: Pacific Island Times
+
+By Pacific Island Times News Staff With fresh funds recently made available to Guam Memorial Hospital, there is no excuse to further... 
+
+<https://www.pacificislandtimes.com/post/blas-no-excuse-for-stalled-action-on-mold-issue-at-guam-memorial-hospital>
+
+---
+
+## Starlink now available on Guam, CNMI
+
+date: 2023-11-28, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Starlink high-speed internet network is now available on Guam and the Northern Mariana Islands,... 
+
+<https://www.pacificislandtimes.com/post/starlink-now-available-on-guam-cnmi>
+
+---
+
+## Local food entrepreneurs win $10K and $5K with Leeward CC support
+
+date: 2023-11-28, from: University of Hawaiʻi News
+
+<p>The local businesses were scored on the use of locally sourced products, innovation, business model, presentation, taste and flavor.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/28/local-food-entrepreneurs-leeward/">Local food entrepreneurs win $10<abbr>K</abbr> and $5</abbr>K</abbr> with Leeward <abbr>CC</abbr> support</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/28/local-food-entrepreneurs-leeward/>
+
+---
+
+## Dean Hall classroom transforms into an innovative culture lab
+
+date: 2023-11-28, from: University of Hawaiʻi News
+
+<p>Designed to accommodate 25 students, the de-centered classroom introduces multiple points of focus, fostering an inclusive and engaging learning environment.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/28/dean-hall-classroom-transforms/">Dean Hall classroom transforms into an innovative culture lab</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/28/dean-hall-classroom-transforms/>
 
 ---
 

@@ -1,5 +1,27 @@
 
-(date: 2023-11-28 13:31:15)
+(date: 2023-11-29 08:17:56)
+
+---
+
+## Bulldog men’s basketball team loses game in final seconds to the Gauchos
+
+date: 2023-11-29, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Coming off of a 31 point loss to No. 22 ranked James Madison University in the Cancun Challenge championship game, the Bulldogs couldn’t hold up against the University of California, Santa Barbara in the final seconds of the game. “I was bitterly disappointed,” said Head Coach Justin Hutson.  On Monday, Nov. 27, The Fresno State... 
+
+<https://fscollegian.com/2023/11/bulldog-mens-basketball-team-loses-game-in-final-seconds-to-the-gauchos/>
+
+---
+
+## Aspiring First Responders Can Start Great Careers at Merced College
+
+date: 2023-11-29, from: Blue Devil News (Merced Community College Student Newspaper)
+
+<p>To ensure public safety in any community, you need qualified and talented first responders in law enforcement, paramedicine and firefighting. To excel in such rigorous careers as these requires both&#8230;</p>
+<p>The post <a href="https://www.mccd.edu/news/aspiring-first-responders-can-start-great-careers-at-merced-college/">Aspiring First Responders Can Start Great Careers at Merced College</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
+ 
+
+<https://www.mccd.edu/news/aspiring-first-responders-can-start-great-careers-at-merced-college/>
 
 ---
 
