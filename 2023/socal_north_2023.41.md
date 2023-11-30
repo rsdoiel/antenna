@@ -1,4 +1,8 @@
 ---
+title: SoCal North 2023.41
+---
+
+---
 
 ## Rock and Roll fest comes to Castaic
 

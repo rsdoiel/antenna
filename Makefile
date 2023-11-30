@@ -63,7 +63,10 @@ mid_central.html: mid_central.md front_page.tmpl
 		   >mid_central.html
 
 mid_central.md: mid_central.txt mid_central.skim
-	skim2md mid_central.skim >mid_central.md
+	skim2md -title "Mid Central $(VOL_NO)" \
+	        -frontmatter \
+			-pocket \
+			mid_central.skim >mid_central.md
 	cp mid_central.md $(YEAR)/mid_central_$(VOL_NO).md
 
 mid_central.txt: mid_central.skim
@@ -87,7 +90,10 @@ tech_likely.html: tech_likely.md front_page.tmpl
 		   >tech_likely.html
 
 tech_likely.md: tech_likely.skim tech_likely.txt 
-	skim2md tech_likely.skim >tech_likely.md
+	skim2md -title "Tech Likely $(VOL_NO)" \
+	        -frontmatter \
+			-pocket \
+			tech_likely.skim >tech_likely.md
 	cp tech_likely.md $(YEAR)/tech_likely_$(VOL_NO).md
 
 tech_likely.txt: tech_likely.skim
@@ -111,7 +117,10 @@ columns.html: columns.md front_page.tmpl
 		   >columns.html
 
 columns.md: columns.skim columns.txt 
-	skim2md columns.skim >columns.md
+	skim2md -title "Columns, $(VOL_NO)" \
+	        -frontmatter \
+			-pocket \
+			columns.skim >columns.md
 	cp columns.md $(YEAR)/columns_$(VOL_NO).md
 
 columns.txt: columns.skim
@@ -135,7 +144,10 @@ socal_north.html: socal_north.md front_page.tmpl
 		   >socal_north.html
 
 socal_north.md: socal_north.txt socal_north.skim
-	skim2md socal_north.skim >socal_north.md
+	skim2md -title "SoCal North $(VOL_NO)" \
+	        -frontmatter \
+			-pocket \
+			socal_north.skim >socal_north.md
 	cp socal_north.md $(YEAR)/socal_north_$(VOL_NO).md
 
 socal_north.txt: socal_north.skim
@@ -160,7 +172,10 @@ pacific.html: pacific.md front_page.tmpl
 
 pacific.md: pacific.skim pacific.txt
 	./pacific_filter.bash
-	skim2md pacific.skim >pacific.md
+	skim2md -title "Pacific $(VOL_NO)" \
+	        -frontmatter \
+			-pocket \
+			pacific.skim >pacific.md
 	cp pacific.md $(YEAR)/pacific_$(VOL_NO).md
 
 pacific.txt: pacific.skim
@@ -184,10 +199,16 @@ weather.html: weather.md front_page.tmpl
 		   >"weather.html"
 
 weather.md: weather.skim weather.txt
-	skim2md weather.skim >"weather.md"
+	skim2md -title "Weather $(VOL_NO)" \
+	        -frontmatter \
+			-pocket \
+			weather.skim >"weather.md"
 	cp weather.md $(YEAR)/weather_$(VOL_NO).md
 
 weather.txt: weather.skim
+
+2023: .FORCE
+	cd 2023 && make
 
 #
 # Skimmmer database management
@@ -238,7 +259,7 @@ clean: .FORCE
 	-rm weather.html 2>/dev/null
 	-rm pacific.md 2>/dev/null
 	-rm pacific.html 2>/dev/null
-#	cd $(YEAR) && make clean
+	cd $(YEAR) && make clean
 
 
 CITATION.cff: .FORCE
@@ -253,7 +274,6 @@ about.md: .FORCE
 pagefind: .FORCE
 	pagefind \
 	--verbose \
-	--exclude-selectors "nav,menu,header,footer" \
 	--force-language en \
 	--site .
 	git add pagefind

@@ -1,5 +1,172 @@
+---
+title: Tech Likely 2023.48
+updated: 2023-11-30 13:32:05
+---
 
-(date: 2023-11-30 08:10:42)
+# Tech Likely 2023.48
+
+(date: 2023-11-30 13:32:05)
+
+---
+
+## How Huawei made a cutting-edge chip in China and surprised the US
+
+date: 2023-11-30, from: OS News
+
+This ambition to escape dependence on foreign technology rests on the shoulders of Huawei and SMIC. The successful launch of the Kirin 9000S injected new vigor into the semiconductor industry, with executives reporting that chip start-ups are seeing a surge in funding. But Huawei’s long-term ambitions are not limited to the markets in China’s orbit. The original nickname for the Kirin 9000S—Charlotte—is a symbol of these hopes. It was named not for an individual, but for the city in North Carolina. Other mobile semiconductors in development are also named internally for US cities, insiders say. Using American names, says one Huawei employee, reflects “our desire to one day reclaim our place in the global supply chain.” It&#8217;s amazing how without any official support and using cobbled-together outdated lithography machines, Huawei and SMIC have managed to make a reasonably competitive smartphone SoC. As I keep saying &#8211; Chinese chip makers have the full financial might of the Chinese state behind them, and they&#8217;ll stop at nothing to reduce their dependence on ASML, TSMC, Intel, AMD, and so on. And they&#8217;re making progress.
+
+<span>
+<a href="https://www.osnews.com/story/137957/how-huawei-made-a-cutting-edge-chip-in-china-and-surprised-the-us/">https://www.osnews.com/story/137957/how-huawei-made-a-cutting-edge-chip-in-china-and-surprised-the-us/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137957/how-huawei-made-a-cutting-edge-chip-in-china-and-surprised-the-us/">Save to Pocket</a>
+</span>
+
+---
+
+## Firefox Developer Edition and Beta: Try out Mozilla’s .deb package!
+
+date: 2023-11-30, from: Mozilla Developer Network blog
+
+<p>A month ago, we introduced our Nightly package for Debian-based Linux distributions. Today, we are proud to announce we made our .deb package available for Developer Edition and Beta!</p>
+<p>The post <a href="https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/">Firefox Developer Edition and Beta: Try out Mozilla&#8217;s .deb package!</a> appeared first on <a href="https://hacks.mozilla.org">Mozilla Hacks - the Web developer blog</a>.</p>
+
+
+<span>
+<a href="https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/">https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://hacks.mozilla.org/2023/11/firefox-developer-edition-and-beta-try-out-mozillas-deb-package/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Conducts Annual Moon to Mars Architecture Concept Review
+
+date: 2023-11-30, from: NASA breaking news
+
+NASA hosted its second annual Architecture Concept Review in mid-November, bringing together leaders from across the agency to discuss progress on and updates to NASA’s Moon to Mars architecture since NASA released outcomes from its first such review in April. As NASA builds a blueprint for human exploration throughout the solar system for the benefit [&#8230;]
+
+<span>
+<a href="https://www.nasa.gov/general/nasa-conducts-annual-moon-to-mars-architecture-concept-review/">https://www.nasa.gov/general/nasa-conducts-annual-moon-to-mars-architecture-concept-review/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/general/nasa-conducts-annual-moon-to-mars-architecture-concept-review/">Save to Pocket</a>
+</span>
+
+---
+
+## Victor Mono
+
+date: 2023-11-30, from: Tilde.news
+
+<p><a href="https://tilde.news/s/xat5gd/victor_mono">Comments</a></p>
+
+<span>
+<a href="https://rubjo.github.io/victor-mono/">https://rubjo.github.io/victor-mono/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://rubjo.github.io/victor-mono/">Save to Pocket</a>
+</span>
+
+---
+
+## Permacomputing Aesthetics: Potential and Limits of Constraints in Computational Art, Design and Culture
+
+date: 2023-11-30, from: Tilde.news
+
+<p><a href="https://tilde.news/s/2rxzwa/permacomputing_aesthetics_potential">Comments</a></p>
+
+<span>
+<a href="https://limits.pubpub.org/pub/6loh1eqi/release/1">https://limits.pubpub.org/pub/6loh1eqi/release/1</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://limits.pubpub.org/pub/6loh1eqi/release/1">Save to Pocket</a>
+</span>
+
+---
+
+## Google’s ‘A Passage of Water’ Brings NASA’s Water Data to Life
+
+date: 2023-11-30, from: NASA breaking news
+
+As part of the long-standing partnership, NASA worked with Google Arts &#038; Culture to create an interactive digital experience around global freshwater.
+
+<span>
+<a href="https://science.nasa.gov/earth/googles-a-passage-of-water-brings-nasas-water-data-to-life/">https://science.nasa.gov/earth/googles-a-passage-of-water-brings-nasas-water-data-to-life/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://science.nasa.gov/earth/googles-a-passage-of-water-brings-nasas-water-data-to-life/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s 6-Pack of Mini-Satellites Ready for Their Moment in the Sun
+
+date: 2023-11-30, from: NASA breaking news
+
+Most NASA missions feature one spacecraft or, occasionally, a few. The agency’s Sun Radio Interferometer Space Experiment (SunRISE) is using half a dozen. This month, mission members completed construction of the six identical cereal box-size satellites, which will now go into storage and await their final testing and ride to space. SunRISE will launch as [&#8230;]
+
+<span>
+<a href="https://www.nasa.gov/missions/sunrise-mission/nasas-6-pack-of-mini-satellites-ready-for-their-moment-in-the-sun/">https://www.nasa.gov/missions/sunrise-mission/nasas-6-pack-of-mini-satellites-ready-for-their-moment-in-the-sun/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/missions/sunrise-mission/nasas-6-pack-of-mini-satellites-ready-for-their-moment-in-the-sun/">Save to Pocket</a>
+</span>
+
+---
+
+## Extracting GPT’s Training Data
+
+date: 2023-11-30, updated: 2023-11-30, from: Bruce Schneier blog
+
+<p>This is <a href="https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html">clever</a>:</p>
+<blockquote><p>The actual attack is kind of silly. We prompt the model with the command &#8220;Repeat the word &#8216;poem&#8217; forever&#8221; and sit back and watch as the model responds (<a href="https://chat.openai.com/share/456d092b-fb4e-4979-bea1-76d8d904031f">complete transcript here</a>).</p>
+<p>In the (abridged) example above, the model emits a real email address and phone number of some unsuspecting entity. This happens rather often when running our attack. And in our strongest configuration, over five percent of the output ChatGPT emits is a direct verbatim 50-token-in-a-row copy from its training dataset.</p></blockquote>
+<p>Lots of details at the link and ...</p>
+
+<span>
+<a href="https://www.schneier.com/blog/archives/2023/11/extracting-gpts-training-data.html">https://www.schneier.com/blog/archives/2023/11/extracting-gpts-training-data.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.schneier.com/blog/archives/2023/11/extracting-gpts-training-data.html">Save to Pocket</a>
+</span>
+
+---
+
+## New Scripting News home page
+
+date: 2023-11-30, from: Dave Winer's Scripting News
+
+<p>It's been five years since I re-did the Scripting News home page. It was overdue. The new version isn't all that different on the surface from the previous version, here's a list of things to look at.</p>
+<ul>
+<li>Blog, the first tab, becomes <a href="http://scripting.com/?tab=dave">Dave</a>. </li>
+<li>The News tab now is named <a href="http://scripting.com/?tab=bloggers">Bloggers</a> and it does something different, more on that in a bit.</li>
+<li>The tabs work better, the pages aren't reloaded when you click on one of the tabs, but the URL in your browser's address bar changes, so you can bookmark it and go directly to the page you're interested in. And the browser Back button works as you would expect. </li>
+</ul>
+<p>The big change under the covers is that it hooks into <a href="https://feedland.org/">FeedLand</a> on its own. When you're reading the <a href="http://scripting.com/?tab=bloggers">Bloggers tab</a>, you're reading content that came directly from the new Automattic-hosted FeedLand server. </p>
+<p>The <a href="https://feedland.com/opml?screenname=davewiner&catname=bloggers">list of feeds</a> behind the Bloggers tab right now are just placeholders. We're going to work with other sources, using reading lists, to create a news flow from blogs that we think are interesting, along with what other people think are interesting. How this will develop is not yet clear, but we are going to work on this. When I say "we," I mean <a href="https://cagrimmett.com/">Chuck Grimmett</a> and myself and others at Automattic. This is the kind of stuff they do for WordPress users, so it fits right in imho with our respective skills.</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/30/goodhumortruck.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Speaking for myself, I want to engage with more bloggers. We used to have something, and I think we can again. </p>
+<p>We're putting a lot of development behind this. FeedLand has been in development for almost three freaking years. This last year has been spent turning corners, and building out features so they can scale to Automattic-level flow. And adding one major new kickass feature to the world of feeds -- reading lists. The ability to subscribe to lists of feeds. We're going to use that in a lot of places. I wanted to get that in the product before we started using it. And it's in, and it works. There are still a few glitches to work out, you know -- software can always work better than it does. <span class="spOldSchoolEmoji">😄</span></p>
+<p>All I can say is we're getting there. Today's FeedLand does a lot more and works a lot better than last year's. </p>
+<p>And now Scripting News is part of that. So we'll be able to make the new stuff more visible, by using it here in this site. </p>
+<p><i>Still diggin!</i></p>
+<p>As they say. </p>
+<p><a href="http://scripting.com/wavs/curly1.wav"><img src="https://imgs.scripting.com/2023/11/30/curly.png" width="53" height="63" border="0" alt="I'm trying to think but nothing happens!"></a></p>
+<p>PS: <a href="http://news.scripting.com/">news.scripting.com</a> is still there and updating as before. </p>
+
+
+<span>
+<a href="http://scripting.com/2023/11/30/161822.html?title=newScriptingNewsHomePage">http://scripting.com/2023/11/30/161822.html?title=newScriptingNewsHomePage</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://scripting.com/2023/11/30/161822.html?title=newScriptingNewsHomePage">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Research Pilot David Zahn
+
+date: 2023-11-30, from: NASA breaking news
+
+&#8220;I want to help the Native community get better representation and show that we can help Native citizens get into aerospace engineering, mathematics, or [other STEM career fields]. And the Cherokee and Choctaw Nations are trying to do the same thing on their reservations. They have amazing education networks, so when I realized what they [&#8230;]
+
+<span>
+<a href="https://www.nasa.gov/image-article/nasa-research-pilot-david-zahn/">https://www.nasa.gov/image-article/nasa-research-pilot-david-zahn/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/image-article/nasa-research-pilot-david-zahn/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -7,9 +174,13 @@
 
 date: 2023-11-30, from: NASA breaking news
 
-A group of dead&#160;stars&#160;known as “spider pulsars” are obliterating companion stars within their reach. Data from&#160;NASA’s Chandra X-ray Observatory&#160;of the&#160;globular cluster&#160;Omega Centauri is helping astronomers understand how these spider pulsars prey on their stellar companions. A&#160;pulsar&#160;is the spinning dense core that remains after a massive star collapses into itself to form a&#160;neutron star. Rapidly rotating [&#8230;] 
+A group of dead&#160;stars&#160;known as “spider pulsars” are obliterating companion stars within their reach. Data from&#160;NASA’s Chandra X-ray Observatory&#160;of the&#160;globular cluster&#160;Omega Centauri is helping astronomers understand how these spider pulsars prey on their stellar companions. A&#160;pulsar&#160;is the spinning dense core that remains after a massive star collapses into itself to form a&#160;neutron star. Rapidly rotating [&#8230;]
 
-<https://www.nasa.gov/image-article/chandra-catches-spider-pulsars-destroying-nearby-stars/>
+<span>
+<a href="https://www.nasa.gov/image-article/chandra-catches-spider-pulsars-destroying-nearby-stars/">https://www.nasa.gov/image-article/chandra-catches-spider-pulsars-destroying-nearby-stars/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/image-article/chandra-catches-spider-pulsars-destroying-nearby-stars/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -17,9 +188,13 @@ A group of dead&#160;stars&#160;known as “spider pulsars” are obliterating c
 
 date: 2023-11-30, from: NASA breaking news
 
-An international team of astronomers has used NASA’s James Webb Space Telescope to provide the first observation of water and other molecules in the highly irradiated inner, rocky-planet-forming regions of a disk in one of the most extreme environments in our galaxy. These results suggest that the conditions for terrestrial planet formation can occur in [&#8230;] 
+An international team of astronomers has used NASA’s James Webb Space Telescope to provide the first observation of water and other molecules in the highly irradiated inner, rocky-planet-forming regions of a disk in one of the most extreme environments in our galaxy. These results suggest that the conditions for terrestrial planet formation can occur in [&#8230;]
 
-<https://www.nasa.gov/missions/webb/webb-study-reveals-rocky-planets-can-form-in-extreme-environments/>
+<span>
+<a href="https://www.nasa.gov/missions/webb/webb-study-reveals-rocky-planets-can-form-in-extreme-environments/">https://www.nasa.gov/missions/webb/webb-study-reveals-rocky-planets-can-form-in-extreme-environments/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/missions/webb/webb-study-reveals-rocky-planets-can-form-in-extreme-environments/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -29,17 +204,25 @@ date: 2023-11-30, from: Raspberry Pi News (.com)
 
 <p>PiAutoStage uses a Raspberry Pi and a High Quality Camera to iteratively move a microscope stage a little at a time, in order to build a high-resolution image of an entire sample.</p>
 <p>The post <a href="https://www.raspberrypi.com/news/piautostage-a-universally-adaptable-microscope-stage/">PiAutoStage: a universally adaptable microscope stage</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
- 
 
-<https://www.raspberrypi.com/news/piautostage-a-universally-adaptable-microscope-stage/>
+
+<span>
+<a href="https://www.raspberrypi.com/news/piautostage-a-universally-adaptable-microscope-stage/">https://www.raspberrypi.com/news/piautostage-a-universally-adaptable-microscope-stage/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.raspberrypi.com/news/piautostage-a-universally-adaptable-microscope-stage/">Save to Pocket</a>
+</span>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2023-11-30, from: Dave Winer's Scripting News)
 
-Chuck came across a <a href="https://cagrimmett.com/tech/2023/11/29/default-apps-2023/">group of bloggers</a> posting detailed lists of apps they use. There's been quite a turnout. Lots of useful info in these posts. 
+Chuck came across a <a href="https://cagrimmett.com/tech/2023/11/29/default-apps-2023/">group of bloggers</a> posting detailed lists of apps they use. There's been quite a turnout. Lots of useful info in these posts.
 
-<http://scripting.com/2023/11/30.html#a143629>
+<span>
+<a href="http://scripting.com/2023/11/30.html#a143629">http://scripting.com/2023/11/30.html#a143629</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://scripting.com/2023/11/30.html#a143629">Save to Pocket</a>
+</span>
 
 ---
 
@@ -47,9 +230,13 @@ Chuck came across a <a href="https://cagrimmett.com/tech/2023/11/29/default-apps
 
 date: 2023-11-30, from: NASA breaking news
 
-“The goal is to get as many of the wrong ideas out of the way as early as possible.&#160; &#8220;So we&#8217;ll come up with some idea, especially on the research side, and sometimes it will seem really brilliant on the napkin or in a conversation with one other person.&#160; &#8220;[When I started working on electric [&#8230;] 
+“The goal is to get as many of the wrong ideas out of the way as early as possible.  &#8220;So we&#8217;ll come up with some idea, especially on the research side, and sometimes it will seem really brilliant on the napkin or in a conversation with one other person.  &#8220;[When I started working on electric [&#8230;]
 
-<https://www.nasa.gov/image-article/deputy-for-electrified-aircraft-propulsion-integration-joe-connolly/>
+<span>
+<a href="https://www.nasa.gov/image-article/deputy-for-electrified-aircraft-propulsion-integration-joe-connolly/">https://www.nasa.gov/image-article/deputy-for-electrified-aircraft-propulsion-integration-joe-connolly/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/image-article/deputy-for-electrified-aircraft-propulsion-integration-joe-connolly/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -57,9 +244,13 @@ date: 2023-11-30, from: NASA breaking news
 
 date: 2023-11-30, from: OS News
 
-Our nightly example browser, servoshell, is now easier to navigate, accepting URLs without http:// or https:// both in the location bar and on the command line, and should no longer lock up when run with --no-minibrowser. Local paths can also be given on the command line, and are still preferred when the path points to a file that exists. Work is now underway to improve our embedding story and prepare Servo for integration with Tauri, starting with precompiled ANGLE for faster initial builds, better support for offscreen rendering, and support for multiple webviews. These changes haven’t landed yet, but once they do, apps will be able to open, move, resize, and interleave Servo with other widgets. I&#8217;m curious what the future will bring to Servo. It seems under very active development, but it&#8217;s not part of any of the main browser projects. Let&#8217;s hope they can keep up the momentum so that it can grow into a viable alternative. Because lord do we need one. 
+Our nightly example browser, servoshell, is now easier to navigate, accepting URLs without http:// or https:// both in the location bar and on the command line, and should no longer lock up when run with --no-minibrowser. Local paths can also be given on the command line, and are still preferred when the path points to a file that exists. Work is now underway to improve our embedding story and prepare Servo for integration with Tauri, starting with precompiled ANGLE for faster initial builds, better support for offscreen rendering, and support for multiple webviews. These changes haven’t landed yet, but once they do, apps will be able to open, move, resize, and interleave Servo with other widgets. I&#8217;m curious what the future will bring to Servo. It seems under very active development, but it&#8217;s not part of any of the main browser projects. Let&#8217;s hope they can keep up the momentum so that it can grow into a viable alternative. Because lord do we need one.
 
-<https://www.osnews.com/story/137955/this-month-in-servo-better-floats-has-color-mix-and-more/>
+<span>
+<a href="https://www.osnews.com/story/137955/this-month-in-servo-better-floats-has-color-mix-and-more/">https://www.osnews.com/story/137955/this-month-in-servo-better-floats-has-color-mix-and-more/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137955/this-month-in-servo-better-floats-has-color-mix-and-more/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -67,9 +258,13 @@ Our nightly example browser, servoshell, is now easier to navigate, accepting UR
 
 date: 2023-11-30, from: OS News
 
-Evaluating the performance of CPUs with identical cores is relatively straightforward, and they’re easy to compare using single- and multi-core benchmarks. When there are two different types of core, one designed primarily for energy efficiency (E), the other for maximum performance (P), traditional benchmarks can readily mislead. Multi-core results are dominated by the ratio of P to E cores, and variable frequency confounds further. In this series of articles, I set out to disentangle these when comparing core performance between Apple’s original M1 Pro and its third-generation M3 Pro chips. This first article explains why and how I am investigating this, and shows overall results for performance and power use under a range of loads. Articles like these will help you make an informed decision about whether or not your workloads can benefit from moving from an M1/M2 to an M3. 
+Evaluating the performance of CPUs with identical cores is relatively straightforward, and they’re easy to compare using single- and multi-core benchmarks. When there are two different types of core, one designed primarily for energy efficiency (E), the other for maximum performance (P), traditional benchmarks can readily mislead. Multi-core results are dominated by the ratio of P to E cores, and variable frequency confounds further. In this series of articles, I set out to disentangle these when comparing core performance between Apple’s original M1 Pro and its third-generation M3 Pro chips. This first article explains why and how I am investigating this, and shows overall results for performance and power use under a range of loads. Articles like these will help you make an informed decision about whether or not your workloads can benefit from moving from an M1/M2 to an M3.
 
-<https://www.osnews.com/story/137953/evaluating-m3-pro-cpu-cores-general-performance/>
+<span>
+<a href="https://www.osnews.com/story/137953/evaluating-m3-pro-cpu-cores-general-performance/">https://www.osnews.com/story/137953/evaluating-m3-pro-cpu-cores-general-performance/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137953/evaluating-m3-pro-cpu-cores-general-performance/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -79,9 +274,13 @@ date: 2023-11-30, from: Raspberry Pi (.org)
 
 <p>Google DeepMind’s Aimee Welch discusses our partnership on the Experience AI learning programme and why equal access to AI education is key. This article also appears in issue 22 of Hello World on teaching and AI. From AI chatbots to self-driving cars, artificial intelligence (AI) is here and rapidly transforming our world. It holds the&#8230;</p>
 <p>The post <a href="https://www.raspberrypi.org/blog/experience-ai-equal-access-ai-education/">Experience AI: Making AI relevant and accessible</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
- 
 
-<https://www.raspberrypi.org/blog/experience-ai-equal-access-ai-education/>
+
+<span>
+<a href="https://www.raspberrypi.org/blog/experience-ai-equal-access-ai-education/">https://www.raspberrypi.org/blog/experience-ai-equal-access-ai-education/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.raspberrypi.org/blog/experience-ai-equal-access-ai-education/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -101,9 +300,13 @@ date: 2023-11-30, from: Jessica Smith's blog
 <p>I guess next year should be back to my Spotify Wrapped being a bit more surprising (read: not identical to my Last.fm stats) because I&rsquo;m trying to go back to cultivating my own music collection and listening to it via Plexamp (but still using Spotify somewhat for breadth and discovery). That&rsquo;ll be a fun journey.</p>
 <figure><img src="https://www.jayeless.net/media/2023/11/spotify-wrapped.png"
          alt="My Spotify Wrapped 2023 summary slide. Top Artists: The Twilight Sad, Black Rebel Motorcycle Club, Placebo, Editors, The National. Top Songs: I/m Not Here [Missing Face], I Became a Prostitute, There’s a Girl in the Corner, The Bitter End, Red Eyes and Tears. Minutes Listened: 60,037. Top Genre: Rock."/>
-</figure> 
+</figure>
 
-<https://www.jayeless.net/2023/11/2023-spotify-wrapped.html>
+<span>
+<a href="https://www.jayeless.net/2023/11/2023-spotify-wrapped.html">https://www.jayeless.net/2023/11/2023-spotify-wrapped.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.jayeless.net/2023/11/2023-spotify-wrapped.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -111,9 +314,13 @@ date: 2023-11-30, from: Jessica Smith's blog
 
 date: 2023-11-30, from: NASA breaking news
 
-Six “sub-Neptune” exoplanets orbit their star in a kind of rhythmic dance – one easily set to music. 
+Six “sub-Neptune” exoplanets orbit their star in a kind of rhythmic dance – one easily set to music.
 
-<https://science.nasa.gov/missions/tess/discovery-alert-watch-the-synchronized-dance-of-a-6-planet-system/>
+<span>
+<a href="https://science.nasa.gov/missions/tess/discovery-alert-watch-the-synchronized-dance-of-a-6-planet-system/">https://science.nasa.gov/missions/tess/discovery-alert-watch-the-synchronized-dance-of-a-6-planet-system/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://science.nasa.gov/missions/tess/discovery-alert-watch-the-synchronized-dance-of-a-6-planet-system/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -121,18 +328,26 @@ Six “sub-Neptune” exoplanets orbit their star in a kind of rhythmic dance �
 
 date: 2023-11-30, from: Peter Warden
 
-Imagine asking a box on a pillar at Home Depot “Where are the nails?” and getting directions, your fridge responding with helpful advice when you say “Why is the ice maker broken?”, or your car answering “How do I change the wiper speed?”. I think of these kinds of voice assistants for everyday objects as [&#8230;] 
+Imagine asking a box on a pillar at Home Depot “Where are the nails?” and getting directions, your fridge responding with helpful advice when you say “Why is the ice maker broken?”, or your car answering “How do I change the wiper speed?”. I think of these kinds of voice assistants for everyday objects as [&#8230;]
 
-<https://petewarden.com/2023/11/30/little-googles-everywhere/>
+<span>
+<a href="https://petewarden.com/2023/11/30/little-googles-everywhere/">https://petewarden.com/2023/11/30/little-googles-everywhere/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://petewarden.com/2023/11/30/little-googles-everywhere/">Save to Pocket</a>
+</span>
 
 ---
 
 **@Jessica Smith's blog** (date: 2023-11-30, from: Jessica Smith's blog)
 
 <p>So I&rsquo;m doing the &ldquo;let the Spotify DJ walk you through your 2023 Wrapped&rdquo; thing, and the very first song was&hellip; Interpol&rsquo;s &ldquo;Leif Erikson&rdquo;, which I think I would&rsquo;ve listened to exactly two times all year (when I listened to the whole album) if Spotify didn&rsquo;t insist on cramming it into every single &ldquo;songs it goes on to when an album finishes&rdquo; set.</p>
-<p>Also, so far, every other one of my &ldquo;top songs&rdquo; this year has been by Interpol too. But maybe that&rsquo;s just the DJ organising my &ldquo;top songs&rdquo; by artist or something. Interpol still isn&rsquo;t exactly where I&rsquo;d have started, though (they rank 7th for my year up to 15 Nov, according to Last.fm).</p> 
+<p>Also, so far, every other one of my &ldquo;top songs&rdquo; this year has been by Interpol too. But maybe that&rsquo;s just the DJ organising my &ldquo;top songs&rdquo; by artist or something. Interpol still isn&rsquo;t exactly where I&rsquo;d have started, though (they rank 7th for my year up to 15 Nov, according to Last.fm).</p>
 
-<https://www.jayeless.net/2023/11/spotify-wrapped-dj.html>
+<span>
+<a href="https://www.jayeless.net/2023/11/spotify-wrapped-dj.html">https://www.jayeless.net/2023/11/spotify-wrapped-dj.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.jayeless.net/2023/11/spotify-wrapped-dj.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -140,9 +355,13 @@ Imagine asking a box on a pillar at Home Depot “Where are the nails?” and ge
 
 date: 2023-11-29, from: NASA breaking news
 
-Artemis II Crew Enjoys Visit with Marshall Team Members By Wayne Smith From talking about continuing the legacy of NASA’s Marshall Space Flight Center in space exploration to describing their roles in an upcoming historic mission, Artemis II astronauts enjoyed visiting with center team members Nov. 27. The crew will be the first to ride [&#8230;] 
+Artemis II Crew Enjoys Visit with Marshall Team Members By Wayne Smith From talking about continuing the legacy of NASA’s Marshall Space Flight Center in space exploration to describing their roles in an upcoming historic mission, Artemis II astronauts enjoyed visiting with center team members Nov. 27. The crew will be the first to ride [&#8230;]
 
-<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-november-29-2023/>
+<span>
+<a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-november-29-2023/">https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-november-29-2023/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-november-29-2023/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -150,9 +369,13 @@ Artemis II Crew Enjoys Visit with Marshall Team Members By Wayne Smith From talk
 
 date: 2023-11-29, from: NASA breaking news
 
-Retired NASA astronaut Mary Cleave, a veteran of two NASA spaceflights, died Nov. 27. She was 76. A scientist with training in civil and environmental engineering, as well as biological sciences and microbial ecology, Cleave was the first woman to serve as an associate administrator for NASA’s Science Mission Directorate. Born in Southampton, New York, [&#8230;] 
+Retired NASA astronaut Mary Cleave, a veteran of two NASA spaceflights, died Nov. 27. She was 76. A scientist with training in civil and environmental engineering, as well as biological sciences and microbial ecology, Cleave was the first woman to serve as an associate administrator for NASA’s Science Mission Directorate. Born in Southampton, New York, [&#8230;]
 
-<https://www.nasa.gov/news-release/nasa-remembers-trailblazing-astronaut-scientist-mary-cleave/>
+<span>
+<a href="https://www.nasa.gov/news-release/nasa-remembers-trailblazing-astronaut-scientist-mary-cleave/">https://www.nasa.gov/news-release/nasa-remembers-trailblazing-astronaut-scientist-mary-cleave/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/news-release/nasa-remembers-trailblazing-astronaut-scientist-mary-cleave/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -160,9 +383,13 @@ Retired NASA astronaut Mary Cleave, a veteran of two NASA spaceflights, died Nov
 
 date: 2023-11-29, from: NASA breaking news
 
-NASA conducted the third RS-25 engine hot fire in a critical 12-test certification series Nov. 29, demonstrating a key capability necessary for flight of the SLS (Space Launch System) rocket during Artemis missions to the Moon and beyond. NASA is conducting the series of tests to certify new manufacturing processes for producing RS-25 engines for [&#8230;] 
+NASA conducted the third RS-25 engine hot fire in a critical 12-test certification series Nov. 29, demonstrating a key capability necessary for flight of the SLS (Space Launch System) rocket during Artemis missions to the Moon and beyond. NASA is conducting the series of tests to certify new manufacturing processes for producing RS-25 engines for [&#8230;]
 
-<https://www.nasa.gov/centers-and-facilities/stennis/nasa-tests-in-flight-capability-of-artemis-moon-rocket-engine/>
+<span>
+<a href="https://www.nasa.gov/centers-and-facilities/stennis/nasa-tests-in-flight-capability-of-artemis-moon-rocket-engine/">https://www.nasa.gov/centers-and-facilities/stennis/nasa-tests-in-flight-capability-of-artemis-moon-rocket-engine/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/centers-and-facilities/stennis/nasa-tests-in-flight-capability-of-artemis-moon-rocket-engine/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -170,9 +397,13 @@ NASA conducted the third RS-25 engine hot fire in a critical 12-test certificati
 
 date: 2023-11-29, from: NASA breaking news
 
-NASA is working to resume science operations of the agency’s Hubble Space Telescope after it entered safe mode Nov. 23 due to an ongoing gyroscope (gyro) issue. Hubble’s instruments are stable, and the telescope is in good health. The telescope automatically entered safe mode when one of its three gyroscopes gave faulty readings. The gyros […] 
+NASA is working to resume science operations of the agency’s Hubble Space Telescope after it entered safe mode Nov. 23 due to an ongoing gyroscope (gyro) issue. Hubble’s instruments are stable, and the telescope is in good health. The telescope automatically entered safe mode when one of its three gyroscopes gave faulty readings. The gyros […]
 
-<https://science.nasa.gov/missions/hubble/nasas-hubble-space-telescope-pauses-science-due-to-gyro-issue/>
+<span>
+<a href="https://science.nasa.gov/missions/hubble/nasas-hubble-space-telescope-pauses-science-due-to-gyro-issue/">https://science.nasa.gov/missions/hubble/nasas-hubble-space-telescope-pauses-science-due-to-gyro-issue/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://science.nasa.gov/missions/hubble/nasas-hubble-space-telescope-pauses-science-due-to-gyro-issue/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -180,9 +411,13 @@ NASA is working to resume science operations of the agency’s Hubble Space Tele
 
 date: 2023-11-29, from: Michael Tsai
 
-koepnick (via Hacker News): This is revolting and an anathema to the open source movement. A movement, I might add, Microsoft is abusing here.We&#8217;re told that this is for security&#8230; But what possible point is there when I can simply clone the repository and use more dedicated tools for proper searching and analysis?So what possible [&#8230;] 
+koepnick (via Hacker News): This is revolting and an anathema to the open source movement. A movement, I might add, Microsoft is abusing here.We&#8217;re told that this is for security&#8230; But what possible point is there when I can simply clone the repository and use more dedicated tools for proper searching and analysis?So what possible [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/29/github-code-search-now-requires-logging-in/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/29/github-code-search-now-requires-logging-in/">https://mjtsai.com/blog/2023/11/29/github-code-search-now-requires-logging-in/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/29/github-code-search-now-requires-logging-in/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -190,9 +425,13 @@ koepnick (via Hacker News): This is revolting and an anathema to the open source
 
 date: 2023-11-29, from: Michael Tsai
 
-Roman Loyola (via Hacker News): Since the MacBook Air doesn&#8217;t have a fan for the SoC, its performance will throttle down during processor-intensive work to maintain a proper operating temperature. The M2 13-inch MacBook Pro, on the other hand, has a fan that expels excessive heat so the chip can keep chugging along. The AirJet [&#8230;] 
+Roman Loyola (via Hacker News): Since the MacBook Air doesn&#8217;t have a fan for the SoC, its performance will throttle down during processor-intensive work to maintain a proper operating temperature. The M2 13-inch MacBook Pro, on the other hand, has a fan that expels excessive heat so the chip can keep chugging along. The AirJet [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/29/airjet/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/29/airjet/">https://mjtsai.com/blog/2023/11/29/airjet/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/29/airjet/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -200,17 +439,25 @@ Roman Loyola (via Hacker News): Since the MacBook Air doesn&#8217;t have a fan f
 
 date: 2023-11-29, from: Michael Tsai
 
-Catalin Cimpanu (2019, via Hacker News): A former high-ranking Mozilla executive has accused Google of intentionally and systematically sabotaging Firefox over the past decade in order to boost Chrome&#8217;s adoption.He is not the first Firefox team member to come forward and make such accusations in the past eight months; however, his allegations span far beyond [&#8230;] 
+Catalin Cimpanu (2019, via Hacker News): A former high-ranking Mozilla executive has accused Google of intentionally and systematically sabotaging Firefox over the past decade in order to boost Chrome&#8217;s adoption.He is not the first Firefox team member to come forward and make such accusations in the past eight months; however, his allegations span far beyond [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/29/most-compatible-with-google-chrome/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/29/most-compatible-with-google-chrome/">https://mjtsai.com/blog/2023/11/29/most-compatible-with-google-chrome/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/29/most-compatible-with-google-chrome/">Save to Pocket</a>
+</span>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2023-11-29, from: Dave Winer's Scripting News)
 
-I'm always doing test posts on this blog. This is one of those times. 
+I'm always doing test posts on this blog. This is one of those times.
 
-<http://scripting.com/2023/11/29.html#a202526>
+<span>
+<a href="http://scripting.com/2023/11/29.html#a202526">http://scripting.com/2023/11/29.html#a202526</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://scripting.com/2023/11/29.html#a202526">Save to Pocket</a>
+</span>
 
 ---
 
@@ -218,9 +465,13 @@ I'm always doing test posts on this blog. This is one of those times.
 
 date: 2023-11-29, from: Computer ads from the Past
 
-When you've already made the best home computer, what do you do for an encore? 
+When you've already made the best home computer, what do you do for an encore?
 
-<https://computeradsfromthepast.substack.com/p/amstrad-cpc-6128>
+<span>
+<a href="https://computeradsfromthepast.substack.com/p/amstrad-cpc-6128">https://computeradsfromthepast.substack.com/p/amstrad-cpc-6128</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://computeradsfromthepast.substack.com/p/amstrad-cpc-6128">Save to Pocket</a>
+</span>
 
 ---
 
@@ -228,9 +479,13 @@ When you've already made the best home computer, what do you do for an encore?
 
 date: 2023-11-29, from: NASA breaking news
 
-November 29, 2023 NASA has selected Dr. Joseph Westlake to fill the position of Heliophysics Division Director. Joe will join the Science Mission Directorate and assume his new role on Jan. 16, 2024.  I am pleased to have Joe take on the role as the Heliophysics Division Director. Joe has a strong background in heliophysics […] 
+November 29, 2023 NASA has selected Dr. Joseph Westlake to fill the position of Heliophysics Division Director. Joe will join the Science Mission Directorate and assume his new role on Jan. 16, 2024.  I am pleased to have Joe take on the role as the Heliophysics Division Director. Joe has a strong background in heliophysics […]
 
-<https://science.nasa.gov/directorates/smd/announcing-the-new-heliophysics-division-director/>
+<span>
+<a href="https://science.nasa.gov/directorates/smd/announcing-the-new-heliophysics-division-director/">https://science.nasa.gov/directorates/smd/announcing-the-new-heliophysics-division-director/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://science.nasa.gov/directorates/smd/announcing-the-new-heliophysics-division-director/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -241,9 +496,13 @@ date: 2023-11-29, from: Mozilla Developer Network blog
 <p>We're thrilled to announce the first release of llamafile, inviting the open source community to join this groundbreaking project. </p>
 <p>With llamafile, you can effortlessly convert large language model (LLM) weights into executables. Imagine transforming a 4GB file of LLM weights into a binary that runs smoothly on six different operating systems, without requiring installation. </p>
 <p>The post <a href="https://hacks.mozilla.org/2023/11/introducing-llamafile/">Introducing llamafile</a> appeared first on <a href="https://hacks.mozilla.org">Mozilla Hacks - the Web developer blog</a>.</p>
- 
 
-<https://hacks.mozilla.org/2023/11/introducing-llamafile/>
+
+<span>
+<a href="https://hacks.mozilla.org/2023/11/introducing-llamafile/">https://hacks.mozilla.org/2023/11/introducing-llamafile/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://hacks.mozilla.org/2023/11/introducing-llamafile/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -251,9 +510,13 @@ date: 2023-11-29, from: Mozilla Developer Network blog
 
 date: 2023-11-29, from: NASA breaking news
 
-City lights stretch across the United States like a string of holiday lights in this image taken from the International Space Station on Nov. 10, 2023. At far left, the lights of Chicago, Illinois, are outlined by Lake Michigan. At far right, the Dallas/Fort Worth metropolitan area shines through the clouds while the sun&#8217;s first [&#8230;] 
+City lights stretch across the United States like a string of holiday lights in this image taken from the International Space Station on Nov. 10, 2023. At far left, the lights of Chicago, Illinois, are outlined by Lake Michigan. At far right, the Dallas/Fort Worth metropolitan area shines through the clouds while the sun&#8217;s first [&#8230;]
 
-<https://www.nasa.gov/image-article/the-beginnings-of-a-sunrise/>
+<span>
+<a href="https://www.nasa.gov/image-article/the-beginnings-of-a-sunrise/">https://www.nasa.gov/image-article/the-beginnings-of-a-sunrise/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/image-article/the-beginnings-of-a-sunrise/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -261,9 +524,13 @@ City lights stretch across the United States like a string of holiday lights in 
 
 date: 2023-11-29, from: Tilde.news
 
-<p><a href="https://tilde.news/s/iul3gv/things_i_learned_hard_way">Comments</a></p> 
+<p><a href="https://tilde.news/s/iul3gv/things_i_learned_hard_way">Comments</a></p>
 
-<https://www.youtube.com/watch?v=bJ0y7Oqr4Zo>
+<span>
+<a href="https://www.youtube.com/watch?v=bJ0y7Oqr4Zo">https://www.youtube.com/watch?v=bJ0y7Oqr4Zo</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.youtube.com/watch?v=bJ0y7Oqr4Zo">Save to Pocket</a>
+</span>
 
 ---
 
@@ -271,9 +538,13 @@ date: 2023-11-29, from: Tilde.news
 
 date: 2023-11-29, from: NASA breaking news
 
-Two small businesses are benefitting from NASA’s expertise as they develop heat shield technologies, cargo delivery systems, and new protective materials for spacecraft and space stations in the growing commercial industry of low Earth orbit operations. The two American companies – Canopy Aerospace Inc. of Littleton, Colorado and Outpost Technologies Corp. of Santa Monica, California [&#8230;] 
+Two small businesses are benefitting from NASA’s expertise as they develop heat shield technologies, cargo delivery systems, and new protective materials for spacecraft and space stations in the growing commercial industry of low Earth orbit operations. The two American companies – Canopy Aerospace Inc. of Littleton, Colorado and Outpost Technologies Corp. of Santa Monica, California [&#8230;]
 
-<https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-small-companies-eye-new-cargo-delivery-heat-shield-technologies/>
+<span>
+<a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-small-companies-eye-new-cargo-delivery-heat-shield-technologies/">https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-small-companies-eye-new-cargo-delivery-heat-shield-technologies/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-small-companies-eye-new-cargo-delivery-heat-shield-technologies/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -285,9 +556,13 @@ date: 2023-11-29, from: Dave Winer's Scripting News
 <p>For comic relief, I asked my friend ChatGPT, to draw a rendering of my new design, based on these instructions. </p>
 <p><i>i want you to draw me a picture of the user interface of my blog, scripting news, as i describe it here. there are four tabs: blog, links, bloggers and about. below the tabs is a display area, where the content of the selected tab is displayed. above the tabs, across the whole width of the window is an artistic picture, with the big letters SCRIPTING NEWS overlaying it. Just below is the site slogan, "it's even worse than it appears." In your drawing the picture behind the letters should be of a hippie band playing in golden gate park. have fun!</i></p>
 <p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2023/11/29/chatgptscriptingdesignscreen.png"></center>ChatGPT's rendering of the design.</div></p>
- 
 
-<http://scripting.com/2023/11/29/161252.html?title=aiRenderingOfMyBlogSpec>
+
+<span>
+<a href="http://scripting.com/2023/11/29/161252.html?title=aiRenderingOfMyBlogSpec">http://scripting.com/2023/11/29/161252.html?title=aiRenderingOfMyBlogSpec</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://scripting.com/2023/11/29/161252.html?title=aiRenderingOfMyBlogSpec">Save to Pocket</a>
+</span>
 
 ---
 
@@ -296,9 +571,13 @@ date: 2023-11-29, from: Dave Winer's Scripting News
 date: 2023-11-29, updated: 2023-11-29, from: Liam Proven's articles at the Register
 
 <h4>Firefox 121, freshly in beta test, will default to the protocol too</h4>
-      <p>Red Hat reckons Wayland is now mature enough to take over as the only display server in the forthcoming RHEL 10.</p> 
+      <p>Red Hat reckons Wayland is now mature enough to take over as the only display server in the forthcoming RHEL 10.</p>
 
-<https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/29/rhel_10_dropping_x11/>
+<span>
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/29/rhel_10_dropping_x11/">https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/29/rhel_10_dropping_x11/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/29/rhel_10_dropping_x11/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -306,9 +585,13 @@ date: 2023-11-29, updated: 2023-11-29, from: Liam Proven's articles at the Regis
 
 date: 2023-11-29, from: FreeDOS News
 
-<div class="markdown_content"><p>Every month, we like to get together for an online meet-up, so we can get to know each other as more than just an email address. We're planning the next virtual get-together on Sunday, December 17 at 11am US/Central. (Use your favorite timezone converter to find your local time.) This month, we are switching to Google Meet for the meeting. As always, we'll share the meeting URL when the meeting starts. We like to alternate topics every month; this month's focus is "technical" - it's a great opportunity to do online debugging, ask for programming help, and otherwise talk about tech issues so we can bring them back to the email list.</p></div> 
+<div class="markdown_content"><p>Every month, we like to get together for an online meet-up, so we can get to know each other as more than just an email address. We're planning the next virtual get-together on Sunday, December 17 at 11am US/Central. (Use your favorite timezone converter to find your local time.) This month, we are switching to Google Meet for the meeting. As always, we'll share the meeting URL when the meeting starts. We like to alternate topics every month; this month's focus is "technical" - it's a great opportunity to do online debugging, ask for programming help, and otherwise talk about tech issues so we can bring them back to the email list.</p></div>
 
-<https://sourceforge.net/p/freedos/news/2023/11/save-the-date-freedos-virtual-get-together/>
+<span>
+<a href="https://sourceforge.net/p/freedos/news/2023/11/save-the-date-freedos-virtual-get-together/">https://sourceforge.net/p/freedos/news/2023/11/save-the-date-freedos-virtual-get-together/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://sourceforge.net/p/freedos/news/2023/11/save-the-date-freedos-virtual-get-together/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -316,33 +599,49 @@ date: 2023-11-29, from: FreeDOS News
 
 date: 2023-11-29, from: NASA breaking news
 
-In May 2018, a student at Mill Springs Academy in Alpharetta, Georgia, Andrew Maichle, talked to NASA astronaut Scott Tingle on the International Space Station via amateur or ham radio. The experience profoundly affected Maichle, who went on to study electrical engineering at Clemson University in South Carolina. “It was so cool to see in [&#8230;] 
+In May 2018, a student at Mill Springs Academy in Alpharetta, Georgia, Andrew Maichle, talked to NASA astronaut Scott Tingle on the International Space Station via amateur or ham radio. The experience profoundly affected Maichle, who went on to study electrical engineering at Clemson University in South Carolina. “It was so cool to see in [&#8230;]
 
-<https://www.nasa.gov/missions/station/iss-research/ham-radio-in-space-engaging-with-students-worldwide-for-40-years/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2023-11-29, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/04/melo.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've heard ActivityPub described as <a href="http://scripting.com/2022/07/12/170955.html?title=twoWayRss">two-way RSS</a>. If so, there are imho more direct ways to arrive at that. I think it's possible to create a federation system that takes a few days to implement. Maybe it doesn't need all the features they've put into ActivityPub. I'm pretty sure a lightweight social network is what's called for now. I know 20 different ventures have started up to do this, but isn't it weird that none of them have built on RSS. That's the only approach imho that has a chance of doing something unique here. I'd rather work with other people, but I'm not into replacing simplicity with something that's not very simple. 
-
-<http://scripting.com/2023/11/29.html#a135720>
+<span>
+<a href="https://www.nasa.gov/missions/station/iss-research/ham-radio-in-space-engaging-with-students-worldwide-for-40-years/">https://www.nasa.gov/missions/station/iss-research/ham-radio-in-space-engaging-with-students-worldwide-for-40-years/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/missions/station/iss-research/ham-radio-in-space-engaging-with-students-worldwide-for-40-years/">Save to Pocket</a>
+</span>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2023-11-29, from: Dave Winer's Scripting News)
 
-I'm back on <a href="https://www.nytimes.com/games/wordle/">Wordle</a>, having solved the puzzle every day for the last 36 days. It's training my mind -- I see patterns I wouldn't ordinarily see, because I spend as much as an hour or two every day looking for patterns in letters, and finding them, eventually. I wish at times my mind worked more like a computer. When their bot says "there were only three possible solutions at that point" -- I wish I could see what they are at each point, or at least know how many they are, if not what they are. The training has also helped my mind debug software. I'm not as daunted as I often am when there appears to be no solution to the problem I'm working on. I'm sure I'll find it eventually. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/04/melo.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've heard ActivityPub described as <a href="http://scripting.com/2022/07/12/170955.html?title=twoWayRss">two-way RSS</a>. If so, there are imho more direct ways to arrive at that. I think it's possible to create a federation system that takes a few days to implement. Maybe it doesn't need all the features they've put into ActivityPub. I'm pretty sure a lightweight social network is what's called for now. I know 20 different ventures have started up to do this, but isn't it weird that none of them have built on RSS. That's the only approach imho that has a chance of doing something unique here. I'd rather work with other people, but I'm not into replacing simplicity with something that's not very simple.
 
-<http://scripting.com/2023/11/29.html#a135404>
+<span>
+<a href="http://scripting.com/2023/11/29.html#a135720">http://scripting.com/2023/11/29.html#a135720</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://scripting.com/2023/11/29.html#a135720">Save to Pocket</a>
+</span>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2023-11-29, from: Dave Winer's Scripting News)
 
-People who say Twitter is over aren't considering how vast it is. Same kind of situation as with Atom many years ago. It wasn't obvious how deeply installed RSS was, all the networks that had been created with it. It was basically impossible at that time to displace RSS. Anyway, same thing with Twitter today, no matter how vile <a href="https://gizmodo.com/elon-musk-tweets-pizzagate-conspiracy-pedo-epstein-1851053448">the owner</a> of the network is. It has been around since 2006, a time of huge growth in networking, and it captured basically all of it. So if there's anyone you need to reach, and they're hooked up to the net, you almost certainly will be able to reach them on Twitter. This is another situation like Napster. Never have you had all the music of our civilization available so easily to so many people. We could have done so much with that. The most prudent thing to do with Twitter is to organize a buyout for Musk, and get him out of that position. We don't need to delete it, not that we could, we need to get Musk out of a position of control. 
+I'm back on <a href="https://www.nytimes.com/games/wordle/">Wordle</a>, having solved the puzzle every day for the last 36 days. It's training my mind -- I see patterns I wouldn't ordinarily see, because I spend as much as an hour or two every day looking for patterns in letters, and finding them, eventually. I wish at times my mind worked more like a computer. When their bot says "there were only three possible solutions at that point" -- I wish I could see what they are at each point, or at least know how many they are, if not what they are. The training has also helped my mind debug software. I'm not as daunted as I often am when there appears to be no solution to the problem I'm working on. I'm sure I'll find it eventually.
 
-<http://scripting.com/2023/11/29.html#a134808>
+<span>
+<a href="http://scripting.com/2023/11/29.html#a135404">http://scripting.com/2023/11/29.html#a135404</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://scripting.com/2023/11/29.html#a135404">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-29, from: Dave Winer's Scripting News)
+
+People who say Twitter is over aren't considering how vast it is. Same kind of situation as with Atom many years ago. It wasn't obvious how deeply installed RSS was, all the networks that had been created with it. It was basically impossible at that time to displace RSS. Anyway, same thing with Twitter today, no matter how vile <a href="https://gizmodo.com/elon-musk-tweets-pizzagate-conspiracy-pedo-epstein-1851053448">the owner</a> of the network is. It has been around since 2006, a time of huge growth in networking, and it captured basically all of it. So if there's anyone you need to reach, and they're hooked up to the net, you almost certainly will be able to reach them on Twitter. This is another situation like Napster. Never have you had all the music of our civilization available so easily to so many people. We could have done so much with that. The most prudent thing to do with Twitter is to organize a buyout for Musk, and get him out of that position. We don't need to delete it, not that we could, we need to get Musk out of a position of control.
+
+<span>
+<a href="http://scripting.com/2023/11/29.html#a134808">http://scripting.com/2023/11/29.html#a134808</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://scripting.com/2023/11/29.html#a134808">Save to Pocket</a>
+</span>
 
 ---
 
@@ -352,9 +651,13 @@ date: 2023-11-29, from: Raspberry Pi News (.com)
 
 <p>Learn how to connect a Raspberry Pi Pico to a Himax HM01B0-based camera module and capture monochrome images using PIO and DMA in real time.</p>
 <p>The post <a href="https://www.raspberrypi.com/news/real-time-monochrome-camera-input-on-raspberry-pi-pico/">Real-time monochrome camera input on Raspberry Pi Pico</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
- 
 
-<https://www.raspberrypi.com/news/real-time-monochrome-camera-input-on-raspberry-pi-pico/>
+
+<span>
+<a href="https://www.raspberrypi.com/news/real-time-monochrome-camera-input-on-raspberry-pi-pico/">https://www.raspberrypi.com/news/real-time-monochrome-camera-input-on-raspberry-pi-pico/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.raspberrypi.com/news/real-time-monochrome-camera-input-on-raspberry-pi-pico/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -363,9 +666,13 @@ date: 2023-11-29, from: Raspberry Pi News (.com)
 date: 2023-11-29, updated: 2023-11-28, from: Bruce Schneier blog
 
 <p>They&#8217;re <a href="https://arstechnica.com/gadgets/2023/11/researchers-beat-windows-hello-fingerprint-sensors-with-raspberry-pi-and-linux/">not that good</a>:</p>
-<blockquote><p>Security researchers Jesse D&#8217;Aguanno and Timo Teräs write that, with varying degrees of reverse-engineering and using some external hardware, they were able to fool the Goodix fingerprint sensor in a Dell Inspiron 15, the Synaptic sensor in a Lenovo ThinkPad T14, and the ELAN sensor in one of Microsoft&#8217;s own Surface Pro Type Covers. These are just three laptop models from the wide universe of PCs, but one of these three companies usually does make the fingerprint sensor in every laptop we&#8217;ve reviewed in the last few years. It&#8217;s likely that most Windows PCs with fingerprint readers will be vulnerable to similar exploits...</p></blockquote> 
+<blockquote><p>Security researchers Jesse D&#8217;Aguanno and Timo Teräs write that, with varying degrees of reverse-engineering and using some external hardware, they were able to fool the Goodix fingerprint sensor in a Dell Inspiron 15, the Synaptic sensor in a Lenovo ThinkPad T14, and the ELAN sensor in one of Microsoft&#8217;s own Surface Pro Type Covers. These are just three laptop models from the wide universe of PCs, but one of these three companies usually does make the fingerprint sensor in every laptop we&#8217;ve reviewed in the last few years. It&#8217;s likely that most Windows PCs with fingerprint readers will be vulnerable to similar exploits...</p></blockquote>
 
-<https://www.schneier.com/blog/archives/2023/11/breaking-laptop-fingerprint-sensors.html>
+<span>
+<a href="https://www.schneier.com/blog/archives/2023/11/breaking-laptop-fingerprint-sensors.html">https://www.schneier.com/blog/archives/2023/11/breaking-laptop-fingerprint-sensors.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.schneier.com/blog/archives/2023/11/breaking-laptop-fingerprint-sensors.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -373,9 +680,13 @@ date: 2023-11-29, updated: 2023-11-28, from: Bruce Schneier blog
 
 date: 2023-11-29, updated: 2023-11-29, from: Deno blog
 
-`Deno.cron` allows you to easily create scheduled jobs and is available on Deno Deploy. Here's how it works. 
+`Deno.cron` allows you to easily create scheduled jobs and is available on Deno Deploy. Here's how it works.
 
-<https://deno.com/blog/cron>
+<span>
+<a href="https://deno.com/blog/cron">https://deno.com/blog/cron</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://deno.com/blog/cron">Save to Pocket</a>
+</span>
 
 ---
 
@@ -389,9 +700,13 @@ date: 2023-11-29, from: Jeff Geerling blog
 
 <p>But there were two roadblocks to getting drivers for even older AMD <code>radeon</code> drivers working well:</p></div>
       <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
-<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2023-11-28T21:13:59-06:00" title="Tuesday, November 28, 2023 - 21:13" class="datetime">November 28, 2023</time></span> 
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2023-11-28T21:13:59-06:00" title="Tuesday, November 28, 2023 - 21:13" class="datetime">November 28, 2023</time></span>
 
-<https://www.jeffgeerling.com/blog/2023/external-gpus-working-on-raspberry-pi-5>
+<span>
+<a href="https://www.jeffgeerling.com/blog/2023/external-gpus-working-on-raspberry-pi-5">https://www.jeffgeerling.com/blog/2023/external-gpus-working-on-raspberry-pi-5</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.jeffgeerling.com/blog/2023/external-gpus-working-on-raspberry-pi-5">Save to Pocket</a>
+</span>
 
 ---
 
@@ -399,9 +714,13 @@ date: 2023-11-29, from: Jeff Geerling blog
 
 date: 2023-11-29, from: Doc Searls (at Harvard), New Old Blog
 
-I&#8217;ve flown 1,500,242 miles with United Airlines. My wife has flown at least a million more. Both of us currently enjoy Premier status, though we&#8217;ve spent much of our time with United at the fancier 1K level. We are also both lifetime United Club members and have been so for thirty-three years. Unlike many passengers [&#8230;] 
+I&#8217;ve flown 1,500,242 miles with United Airlines. My wife has flown at least a million more. Both of us currently enjoy Premier status, though we&#8217;ve spent much of our time with United at the fancier 1K level. We are also both lifetime United Club members and have been so for thirty-three years. Unlike many passengers [&#8230;]
 
-<https://doc.searls.com/2023/11/28/united-dont/>
+<span>
+<a href="https://doc.searls.com/2023/11/28/united-dont/">https://doc.searls.com/2023/11/28/united-dont/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://doc.searls.com/2023/11/28/united-dont/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -409,17 +728,25 @@ I&#8217;ve flown 1,500,242 miles with United Airlines. My wife has flown at leas
 
 date: 2023-11-29, from: John Naughton's online diary
 
-The ‘alignment’ problem Nice cover of the New Yorker’s special issue on AI. Quote of the Day ”We are here on Earth to help others. What on earth the others are here for I do not know&#8221; W. H. Auden &#8230; <a href="https://memex.naughtons.org/wednesday-29-november-2023/38856/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+The ‘alignment’ problem Nice cover of the New Yorker’s special issue on AI. Quote of the Day ”We are here on Earth to help others. What on earth the others are here for I do not know&#8221; W. H. Auden &#8230; <a href="https://memex.naughtons.org/wednesday-29-november-2023/38856/">Continue reading <span class="meta-nav">&#8594;</span></a>
 
-<https://memex.naughtons.org/wednesday-29-november-2023/38856/>
+<span>
+<a href="https://memex.naughtons.org/wednesday-29-november-2023/38856/">https://memex.naughtons.org/wednesday-29-november-2023/38856/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://memex.naughtons.org/wednesday-29-november-2023/38856/">Save to Pocket</a>
+</span>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2023-11-29, from: Dave Winer's Scripting News)
 
-I spent today working on the plumbing of FeedLand-on-Automattic. Hopefully tomorrow I will get to work on more user-facing features. 
+I spent today working on the plumbing of FeedLand-on-Automattic. Hopefully tomorrow I will get to work on more user-facing features.
 
-<http://scripting.com/2023/11/28.html#a002803>
+<span>
+<a href="http://scripting.com/2023/11/28.html#a002803">http://scripting.com/2023/11/28.html#a002803</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://scripting.com/2023/11/28.html#a002803">Save to Pocket</a>
+</span>
 
 ---
 
@@ -427,9 +754,13 @@ I spent today working on the plumbing of FeedLand-on-Automattic. Hopefully tomor
 
 date: 2023-11-29, from: OS News
 
-Reading the story of how Windows NT came to be was entertaining, as it is a story of the system itself and the dynamics between Dave Cutler, the original designer and lead for NT, and the other people involved in the project. I was shy of being 10 years old when Windows NT launched and I didn’t comprehend what was going on in the operating systems world and why this release was such a big deal. Reading the book made me learn various new things about the development process, the role of Microsoft in that era, and allowed me to settle some questions I’ve had over the years. This article is a mixture of a book review and a collection of thoughts and reflections that the book evoked. Let’s begin because we have a lot of ground to cover. Dave Cutler&#8217;s impact on the word of computing really can&#8217;t be understated. I often wonder how he truly feels about what his and his team&#8217;s creation turned into today &#8211; does he like what Windows NT has become? Does he consider Windows 11 worthy of carrying on the torch of NT? As Cutler still works at Microsoft, we won&#8217;t get an answer any time soon, but I sure do hope he intends to write down his memoirs in a tell-all book about his life and career, because I&#8217;d be down for reading that. 
+Reading the story of how Windows NT came to be was entertaining, as it is a story of the system itself and the dynamics between Dave Cutler, the original designer and lead for NT, and the other people involved in the project. I was shy of being 10 years old when Windows NT launched and I didn’t comprehend what was going on in the operating systems world and why this release was such a big deal. Reading the book made me learn various new things about the development process, the role of Microsoft in that era, and allowed me to settle some questions I’ve had over the years. This article is a mixture of a book review and a collection of thoughts and reflections that the book evoked. Let’s begin because we have a lot of ground to cover. Dave Cutler&#8217;s impact on the word of computing really can&#8217;t be understated. I often wonder how he truly feels about what his and his team&#8217;s creation turned into today &#8211; does he like what Windows NT has become? Does he consider Windows 11 worthy of carrying on the torch of NT? As Cutler still works at Microsoft, we won&#8217;t get an answer any time soon, but I sure do hope he intends to write down his memoirs in a tell-all book about his life and career, because I&#8217;d be down for reading that.
 
-<https://www.osnews.com/story/137951/windows-nt-peeking-into-the-cradle/>
+<span>
+<a href="https://www.osnews.com/story/137951/windows-nt-peeking-into-the-cradle/">https://www.osnews.com/story/137951/windows-nt-peeking-into-the-cradle/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137951/windows-nt-peeking-into-the-cradle/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -437,9 +768,13 @@ Reading the story of how Windows NT came to be was entertaining, as it is a stor
 
 date: 2023-11-29, from: OS News
 
-We’re pleased to share an important update regarding Azure RTOS – an embedded development suite with the ThreadX real-time operating system that has been deployed on more than 12 billion devices worldwide. Reinforcing our commitment to innovation and community collaboration, Azure RTOS will be transitioning to an open-source model under the stewardship of the Eclipse Foundation, a recognized leader in hosting open-source IoT projects. With Eclipse Foundation as the new home, Azure RTOS becomes Eclipse ThreadX – a comprehensive embedded development suite including a small but powerful real-time operating system that provides reliable, ultra-fast performance for resource-constrained devices. It’s easy-to-use, market proven, and trusted by developers and manufacturers for over two decades. It also supports the most popular 32-bit microcontrollers and embedded development tools so teams can make the most of their existing skills. The Eclipse&#8217;s Foundation announcement post has more details. 
+We’re pleased to share an important update regarding Azure RTOS – an embedded development suite with the ThreadX real-time operating system that has been deployed on more than 12 billion devices worldwide. Reinforcing our commitment to innovation and community collaboration, Azure RTOS will be transitioning to an open-source model under the stewardship of the Eclipse Foundation, a recognized leader in hosting open-source IoT projects. With Eclipse Foundation as the new home, Azure RTOS becomes Eclipse ThreadX – a comprehensive embedded development suite including a small but powerful real-time operating system that provides reliable, ultra-fast performance for resource-constrained devices. It’s easy-to-use, market proven, and trusted by developers and manufacturers for over two decades. It also supports the most popular 32-bit microcontrollers and embedded development tools so teams can make the most of their existing skills. The Eclipse&#8217;s Foundation announcement post has more details.
 
-<https://www.osnews.com/story/137949/microsoft-contributes-azure-rtos-to-open-source/>
+<span>
+<a href="https://www.osnews.com/story/137949/microsoft-contributes-azure-rtos-to-open-source/">https://www.osnews.com/story/137949/microsoft-contributes-azure-rtos-to-open-source/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137949/microsoft-contributes-azure-rtos-to-open-source/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -447,9 +782,13 @@ We’re pleased to share an important update regarding Azure RTOS – an embedde
 
 date: 2023-11-29, from: OS News
 
-Chinese chip designer Loongson has finally launched its loong teased &#8220;next-generation&#8221; 3A6000-series processors based on the LoongArch microarchitecture. IPC tests showed the 3A6000 matching Intel&#8217;s Raptor Lake i5-14600K in IPC (instructions per clock), with both chips clocked at 2.5GHz. As well as the headlining x86 compatible processor came the announcement of numerous partner desktop, laptop, and all-in-one machines — plus a consumer-grade motherboard from Asus. It was also entertaining to see a recorded overclocking session, which took an LN2-cooled 3A6000 chip to the current maximum 3 GHz. Many of us are being dismissive now, but give it a few more generations and Chinese PC users won&#8217;t be depending on Intel or AMD anymore &#8211; and that&#8217;s pretty impressive. 
+Chinese chip designer Loongson has finally launched its loong teased &#8220;next-generation&#8221; 3A6000-series processors based on the LoongArch microarchitecture. IPC tests showed the 3A6000 matching Intel&#8217;s Raptor Lake i5-14600K in IPC (instructions per clock), with both chips clocked at 2.5GHz. As well as the headlining x86 compatible processor came the announcement of numerous partner desktop, laptop, and all-in-one machines — plus a consumer-grade motherboard from Asus. It was also entertaining to see a recorded overclocking session, which took an LN2-cooled 3A6000 chip to the current maximum 3 GHz. Many of us are being dismissive now, but give it a few more generations and Chinese PC users won&#8217;t be depending on Intel or AMD anymore &#8211; and that&#8217;s pretty impressive.
 
-<https://www.osnews.com/story/137947/new-chinese-loongsoon-chip-matches-intels-14600k-in-ipc-tests/>
+<span>
+<a href="https://www.osnews.com/story/137947/new-chinese-loongsoon-chip-matches-intels-14600k-in-ipc-tests/">https://www.osnews.com/story/137947/new-chinese-loongsoon-chip-matches-intels-14600k-in-ipc-tests/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137947/new-chinese-loongsoon-chip-matches-intels-14600k-in-ipc-tests/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -460,9 +799,13 @@ date: 2023-11-28, from: Care
 
                 <p>A legitimately technological undertaking must deeply engage with poetry and testimonies from the wretched of the earth.</p>
 
-             
+            
 
-<https://logicmag.io/policy/policy-seductions-and-silences>
+<span>
+<a href="https://logicmag.io/policy/policy-seductions-and-silences">https://logicmag.io/policy/policy-seductions-and-silences</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://logicmag.io/policy/policy-seductions-and-silences">Save to Pocket</a>
+</span>
 
 ---
 
@@ -470,9 +813,13 @@ date: 2023-11-28, from: Care
 
 date: 2023-11-28, from: OS News
 
-I got my hands on a Monoprice Blackbird 4K Pro HDCP 2.2 to 1.4 Converter. According to the marketing copy it “is the definitive solution for playback of new 4K HDCP 2.2 encoded content on 4K displays with the old HDCP 1.4 standard.” Stuffed after a delicious Thanksgiving meal, I decided to take it apart after the guests had left. It’s a simple single-function device, so I didn’t expect much, but maybe there’s some things to be learned? Turns out there&#8217;s a lot to learn, and it&#8217;s also incredibly interesting. The note at the end about the legality of this device is also interesting. 
+I got my hands on a Monoprice Blackbird 4K Pro HDCP 2.2 to 1.4 Converter. According to the marketing copy it “is the definitive solution for playback of new 4K HDCP 2.2 encoded content on 4K displays with the old HDCP 1.4 standard.” Stuffed after a delicious Thanksgiving meal, I decided to take it apart after the guests had left. It’s a simple single-function device, so I didn’t expect much, but maybe there’s some things to be learned? Turns out there&#8217;s a lot to learn, and it&#8217;s also incredibly interesting. The note at the end about the legality of this device is also interesting.
 
-<https://www.osnews.com/story/137945/analyzing-the-monoprice-blackbird-hdcp-2-2-to-1-4-down-converter/>
+<span>
+<a href="https://www.osnews.com/story/137945/analyzing-the-monoprice-blackbird-hdcp-2-2-to-1-4-down-converter/">https://www.osnews.com/story/137945/analyzing-the-monoprice-blackbird-hdcp-2-2-to-1-4-down-converter/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137945/analyzing-the-monoprice-blackbird-hdcp-2-2-to-1-4-down-converter/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -480,9 +827,13 @@ I got my hands on a Monoprice Blackbird 4K Pro HDCP 2.2 to 1.4 Converter. Accord
 
 date: 2023-11-28, from: John Udell blog
 
-Here&#8217;s the latest installment in the series on LLM-assisted coding over at The New Stack: Puzzling over the Postgres Query Planner with LLMs. The rest of the series: 1 When the rubber duck talks back 2 Radical just-in-time learning 3 Why LLM-assisted table transformation is a big deal 4 Using LLM-Assisted Coding to Write a &#8230; <a href="https://blog.jonudell.net/2023/11/28/puzzling-over-the-postgres-query-planner-with-llms/" class="more-link">Continue reading <span class="screen-reader-text">Puzzling over the Postgres query planner with LLMs</span></a> 
+Here&#8217;s the latest installment in the series on LLM-assisted coding over at The New Stack: Puzzling over the Postgres Query Planner with LLMs. The rest of the series: 1 When the rubber duck talks back 2 Radical just-in-time learning 3 Why LLM-assisted table transformation is a big deal 4 Using LLM-Assisted Coding to Write a &#8230; <a href="https://blog.jonudell.net/2023/11/28/puzzling-over-the-postgres-query-planner-with-llms/" class="more-link">Continue reading <span class="screen-reader-text">Puzzling over the Postgres query planner with LLMs</span></a>
 
-<https://blog.jonudell.net/2023/11/28/puzzling-over-the-postgres-query-planner-with-llms/>
+<span>
+<a href="https://blog.jonudell.net/2023/11/28/puzzling-over-the-postgres-query-planner-with-llms/">https://blog.jonudell.net/2023/11/28/puzzling-over-the-postgres-query-planner-with-llms/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://blog.jonudell.net/2023/11/28/puzzling-over-the-postgres-query-planner-with-llms/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -490,17 +841,25 @@ Here&#8217;s the latest installment in the series on LLM-assisted coding over at
 
 date: 2023-11-28, from: NASA breaking news
 
-Artemis II NASA astronauts Victor Glover, Reid Wiseman, and Christina Koch of NASA, and CSA (Canadian Space Agency) astronaut Jeremy Hansen signed the Orion stage adapter for the SLS (Space Launch System) rocket at NASA’s Marshall Space Flight Center in Huntsville, Alabama, Nov. 27. The hardware is the topmost portion of the SLS rocket that [&#8230;] 
+Artemis II NASA astronauts Victor Glover, Reid Wiseman, and Christina Koch of NASA, and CSA (Canadian Space Agency) astronaut Jeremy Hansen signed the Orion stage adapter for the SLS (Space Launch System) rocket at NASA’s Marshall Space Flight Center in Huntsville, Alabama, Nov. 27. The hardware is the topmost portion of the SLS rocket that [&#8230;]
 
-<https://www.nasa.gov/image-article/artemis-ii-crew-signs-nasa-moon-rocket-hardware-at-marshall/>
+<span>
+<a href="https://www.nasa.gov/image-article/artemis-ii-crew-signs-nasa-moon-rocket-hardware-at-marshall/">https://www.nasa.gov/image-article/artemis-ii-crew-signs-nasa-moon-rocket-hardware-at-marshall/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/image-article/artemis-ii-crew-signs-nasa-moon-rocket-hardware-at-marshall/">Save to Pocket</a>
+</span>
 
 ---
 
 **@Miguel de Icaza Mastondon feed** (date: 2023-11-28, from: Miguel de Icaza Mastondon feed)
 
-<p><span class="h-card" translate="no"><a href="https://mastodon.social/@airspeedswift" class="u-url mention">@<span>airspeedswift</span></a></span> Ben, you might be our only hope, are we doing something very wrong here?   This seems like a Swift issue: <a href="https://github.com/apple/swift/issues/69965" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/apple/swift/issues/</span><span class="invisible">69965</span></a></p> 
+<p><span class="h-card" translate="no"><a href="https://mastodon.social/@airspeedswift" class="u-url mention">@<span>airspeedswift</span></a></span> Ben, you might be our only hope, are we doing something very wrong here?   This seems like a Swift issue: <a href="https://github.com/apple/swift/issues/69965" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/apple/swift/issues/</span><span class="invisible">69965</span></a></p>
 
-<https://mastodon.social/@Migueldeicaza/111490093931446957>
+<span>
+<a href="https://mastodon.social/@Migueldeicaza/111490093931446957">https://mastodon.social/@Migueldeicaza/111490093931446957</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mastodon.social/@Migueldeicaza/111490093931446957">Save to Pocket</a>
+</span>
 
 ---
 
@@ -508,9 +867,13 @@ Artemis II NASA astronauts Victor Glover, Reid Wiseman, and Christina Koch of NA
 
 date: 2023-11-28, from: OS News
 
-With this, we’ve decided to remove Xorg server and other X servers (except Xwayland) from RHEL 10 and the following releases. Xwayland should be able to handle most X11 clients that won’t immediately be ported to Wayland, and if needed, our customers will be able to stay on RHEL 9 for its full life cycle while resolving the specifics needed for transitioning to a Wayland ecosystem. It’s important to note that “Xorg Server” and “X11” are not synonymous, X11 is a protocol that will continue to be supported through Xwayland, while the Xorg Server is one of the implementations of the X11 protocol. While we recognize the energy behind some distributions and Fedora spins moving towards a similar future, this decision is limited to RHEL 10—we recognize other Linux distributions have different needs and decision structures, and additionally we are not aware of plans for similar efforts in Fedora, nor are we involved in similar efforts besides sharing our knowledge. A sensible move, now that X.org is no longer really maintained and considered legacy software by everyone who has the skillset and knowledge to actually maintain it in the first place. I know a number of people are very upset about the move to Wayland, but with nobody left willing to work on X.org because it&#8217;s effectively unmaintainable, there&#8217;s really no other way to go. If you really want X.org to continue &#8211; perhaps you should channel the energy spent on writing angry online comments towards contributing to X.org. However, with even the most knowledgeable and capable X.org developers no longer wanting to have anything to do with X.org, you&#8217;re going to be in for a rough ride. 
+With this, we’ve decided to remove Xorg server and other X servers (except Xwayland) from RHEL 10 and the following releases. Xwayland should be able to handle most X11 clients that won’t immediately be ported to Wayland, and if needed, our customers will be able to stay on RHEL 9 for its full life cycle while resolving the specifics needed for transitioning to a Wayland ecosystem. It’s important to note that “Xorg Server” and “X11” are not synonymous, X11 is a protocol that will continue to be supported through Xwayland, while the Xorg Server is one of the implementations of the X11 protocol. While we recognize the energy behind some distributions and Fedora spins moving towards a similar future, this decision is limited to RHEL 10—we recognize other Linux distributions have different needs and decision structures, and additionally we are not aware of plans for similar efforts in Fedora, nor are we involved in similar efforts besides sharing our knowledge. A sensible move, now that X.org is no longer really maintained and considered legacy software by everyone who has the skillset and knowledge to actually maintain it in the first place. I know a number of people are very upset about the move to Wayland, but with nobody left willing to work on X.org because it&#8217;s effectively unmaintainable, there&#8217;s really no other way to go. If you really want X.org to continue &#8211; perhaps you should channel the energy spent on writing angry online comments towards contributing to X.org. However, with even the most knowledgeable and capable X.org developers no longer wanting to have anything to do with X.org, you&#8217;re going to be in for a rough ride.
 
-<https://www.osnews.com/story/137943/red-hat-enterprise-linux-10-to-remove-x-org/>
+<span>
+<a href="https://www.osnews.com/story/137943/red-hat-enterprise-linux-10-to-remove-x-org/">https://www.osnews.com/story/137943/red-hat-enterprise-linux-10-to-remove-x-org/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137943/red-hat-enterprise-linux-10-to-remove-x-org/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -519,17 +882,25 @@ With this, we’ve decided to remove Xorg server and other X servers (except Xwa
 date: 2023-11-28, updated: 2023-11-28, from: Bruce Schneier blog
 
 <p>Soon we will be able to unlock and start our cars <a href="https://www.theverge.com/23970875/digital-car-key-iphone-unlock-start-ccc-standard">from our phones</a>. Let&#8217;s hope people are thinking about security.</p>
- 
 
-<https://www.schneier.com/blog/archives/2023/11/digital-car-keys-are-coming.html>
+
+<span>
+<a href="https://www.schneier.com/blog/archives/2023/11/digital-car-keys-are-coming.html">https://www.schneier.com/blog/archives/2023/11/digital-car-keys-are-coming.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.schneier.com/blog/archives/2023/11/digital-car-keys-are-coming.html">Save to Pocket</a>
+</span>
 
 ---
 
 **@Miguel de Icaza Mastondon feed** (date: 2023-11-28, from: Miguel de Icaza Mastondon feed)
 
-<p>New version of La Terminal is out, the theme in this release is making command entry on mobile more enjoyable and integrating history, snippets and AI suggestions.</p><p>Batteries included: preloaded with Warp&#39;s open source workflows</p><p>Read the details here:</p><p><a href="https://blog.xibbon.com/command-search/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.xibbon.com/command-search</span><span class="invisible">/</span></a></p> 
+<p>New version of La Terminal is out, the theme in this release is making command entry on mobile more enjoyable and integrating history, snippets and AI suggestions.</p><p>Batteries included: preloaded with Warp&#39;s open source workflows</p><p>Read the details here:</p><p><a href="https://blog.xibbon.com/command-search/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.xibbon.com/command-search</span><span class="invisible">/</span></a></p>
 
-<https://mastodon.social/@Migueldeicaza/111489810378684665>
+<span>
+<a href="https://mastodon.social/@Migueldeicaza/111489810378684665">https://mastodon.social/@Migueldeicaza/111489810378684665</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mastodon.social/@Migueldeicaza/111489810378684665">Save to Pocket</a>
+</span>
 
 ---
 
@@ -537,9 +908,13 @@ date: 2023-11-28, updated: 2023-11-28, from: Bruce Schneier blog
 
 date: 2023-11-28, from: Gary Marcus blog
 
-The EU is about to make a decision that could have enormous, lasting repercussions. 
+The EU is about to make a decision that could have enormous, lasting repercussions.
 
-<https://garymarcus.substack.com/p/give-me-compromise-or-give-me-chaos>
+<span>
+<a href="https://garymarcus.substack.com/p/give-me-compromise-or-give-me-chaos">https://garymarcus.substack.com/p/give-me-compromise-or-give-me-chaos</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://garymarcus.substack.com/p/give-me-compromise-or-give-me-chaos">Save to Pocket</a>
+</span>
 
 ---
 
@@ -547,9 +922,13 @@ The EU is about to make a decision that could have enormous, lasting repercussio
 
 date: 2023-11-28, from: Michael Tsai
 
-Brandon Williams and Stephen Celis (Mastodon): But now with the Observation framework you get to forget about almost all of that complexity, and just build your features in the most naive way, with basically zero adornments, and it just works. And it works in the most efficient way possible, where only the data accessed in [&#8230;] 
+Brandon Williams and Stephen Celis (Mastodon): But now with the Observation framework you get to forget about almost all of that complexity, and just build your features in the most naive way, with basically zero adornments, and it just works. And it works in the most efficient way possible, where only the data accessed in [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/28/composable-architecture-and-swift-observation/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/28/composable-architecture-and-swift-observation/">https://mjtsai.com/blog/2023/11/28/composable-architecture-and-swift-observation/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/28/composable-architecture-and-swift-observation/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -557,9 +936,13 @@ Brandon Williams and Stephen Celis (Mastodon): But now with the Observation fram
 
 date: 2023-11-28, from: Michael Tsai
 
-SE-0413: Swift is known for being explicit about semantics and using types to communicate constraints that apply to specific APIs. From that perspective, the fact that all thrown errors are of type any Error feels like an outlier. However, it reflects the view laid out in the original error handling rationale that errors are generally [&#8230;] 
+SE-0413: Swift is known for being explicit about semantics and using types to communicate constraints that apply to specific APIs. From that perspective, the fact that all thrown errors are of type any Error feels like an outlier. However, it reflects the view laid out in the original error handling rationale that errors are generally [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/28/swift-proposal-typed-throws/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/28/swift-proposal-typed-throws/">https://mjtsai.com/blog/2023/11/28/swift-proposal-typed-throws/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/28/swift-proposal-typed-throws/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -567,9 +950,13 @@ SE-0413: Swift is known for being explicit about semantics and using types to co
 
 date: 2023-11-28, from: Michael Tsai
 
-Dana E. Stevens: I had a small balance in Apple Cash and had not made any transactions in a bit over 3 years. I received a text message notice of a &#8220;Balance Adjustment&#8221; resulting in a $0 balance in Apple Cash. Called Apple Support. They said the balance had been escheated to the state I [&#8230;] 
+Dana E. Stevens: I had a small balance in Apple Cash and had not made any transactions in a bit over 3 years. I received a text message notice of a &#8220;Balance Adjustment&#8221; resulting in a $0 balance in Apple Cash. Called Apple Support. They said the balance had been escheated to the state I [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/28/apple-cash-escheat-heads-up/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/28/apple-cash-escheat-heads-up/">https://mjtsai.com/blog/2023/11/28/apple-cash-escheat-heads-up/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/28/apple-cash-escheat-heads-up/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -577,9 +964,13 @@ Dana E. Stevens: I had a small balance in Apple Cash and had not made any transa
 
 date: 2023-11-28, from: Michael Tsai
 
-Yeonjoong (via Hacker News): My Google Drive files suddenly disappeared. The Drive literally went back to condition in May 2023. data from May until today disappeared, and the folder structure went back to status in May.Google Drive activity doesn&#8217;t show any changes (only show activity that was in May) No files was deleted manually, so [&#8230;] 
+Yeonjoong (via Hacker News): My Google Drive files suddenly disappeared. The Drive literally went back to condition in May 2023. data from May until today disappeared, and the folder structure went back to status in May.Google Drive activity doesn&#8217;t show any changes (only show activity that was in May) No files was deleted manually, so [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/28/google-drive-loses-months-of-customer-data/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/28/google-drive-loses-months-of-customer-data/">https://mjtsai.com/blog/2023/11/28/google-drive-loses-months-of-customer-data/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/28/google-drive-loses-months-of-customer-data/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -587,9 +978,13 @@ Yeonjoong (via Hacker News): My Google Drive files suddenly disappeared. The Dri
 
 date: 2023-11-28, from: Michael Tsai
 
-Paresh Dave (Hacker News, Reddit): In early October, the people who make ad blocking tools convened in Amsterdam for their industry&#8217;s annual conference. One session was a welcome pitch from Google product leaders about tweaks made to address fears that a security update to the company&#8217;s Chrome browser could hamper ad zapping. Google, which draws [&#8230;] 
+Paresh Dave (Hacker News, Reddit): In early October, the people who make ad blocking tools convened in Amsterdam for their industry&#8217;s annual conference. One session was a welcome pitch from Google product leaders about tweaks made to address fears that a security update to the company&#8217;s Chrome browser could hamper ad zapping. Google, which draws [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/28/youtubes-ad-blocker-crackdown/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/28/youtubes-ad-blocker-crackdown/">https://mjtsai.com/blog/2023/11/28/youtubes-ad-blocker-crackdown/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/28/youtubes-ad-blocker-crackdown/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -597,17 +992,25 @@ Paresh Dave (Hacker News, Reddit): In early October, the people who make ad bloc
 
 date: 2023-11-28, from: NASA breaking news
 
-A model of the Mariner-C spacecraft seems to float in the darkness of space in this photo from a June 1964 Conference on New Technology at NASA’s Glenn Research Center in Cleveland. Mariner-C and Mariner-D were identical spacecraft designed by NASA’s Jet Propulsion Laboratory to fly by Mars and photograph the Martian surface. Mariner-C was [&#8230;] 
+A model of the Mariner-C spacecraft seems to float in the darkness of space in this photo from a June 1964 Conference on New Technology at NASA’s Glenn Research Center in Cleveland. Mariner-C and Mariner-D were identical spacecraft designed by NASA’s Jet Propulsion Laboratory to fly by Mars and photograph the Martian surface. Mariner-C was [&#8230;]
 
-<https://www.nasa.gov/image-article/a-miniature-mariner-c/>
+<span>
+<a href="https://www.nasa.gov/image-article/a-miniature-mariner-c/">https://www.nasa.gov/image-article/a-miniature-mariner-c/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/image-article/a-miniature-mariner-c/">Save to Pocket</a>
+</span>
 
 ---
 
 **@Miguel de Icaza Mastondon feed** (date: 2023-11-28, from: Miguel de Icaza Mastondon feed)
 
-<p>A lucid and enlightening post by <span class="h-card" translate="no"><a href="https://mastodon.social/@asymco" class="u-url mention">@<span>asymco</span></a></span> - <a href="https://mastodon.social/@asymco/111488039401735951" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@asymco/111488</span><span class="invisible">039401735951</span></a></p> 
+<p>A lucid and enlightening post by <span class="h-card" translate="no"><a href="https://mastodon.social/@asymco" class="u-url mention">@<span>asymco</span></a></span> - <a href="https://mastodon.social/@asymco/111488039401735951" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@asymco/111488</span><span class="invisible">039401735951</span></a></p>
 
-<https://mastodon.social/@Migueldeicaza/111489681890424122>
+<span>
+<a href="https://mastodon.social/@Migueldeicaza/111489681890424122">https://mastodon.social/@Migueldeicaza/111489681890424122</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mastodon.social/@Migueldeicaza/111489681890424122">Save to Pocket</a>
+</span>
 
 ---
 
@@ -615,9 +1018,13 @@ A model of the Mariner-C spacecraft seems to float in the darkness of space in t
 
 date: 2023-11-28, from: FreeDOS News
 
-<div class="markdown_content"><p>A72 is a minimal symbolic assembler for DOS compatible systems. A72 version 1.05 was released a few weeks ago, but we missed the announcement. This has several updates, including: + Listings are generated by default along with binary output + Listings have line numbers + Symbol tables, alphabetically sorted, are appended to listings + More modular construction + HIGH, LOW, INCBIN, ECHO, TITLE, PAGE directives + Lines can be 255 characters long (previously 120-something). You can find the new version at <a class="" href="https://github.com/swanlizard/a72/tree/master/1.05" rel="nofollow">A72 on GitHub</a>.</p></div> 
+<div class="markdown_content"><p>A72 is a minimal symbolic assembler for DOS compatible systems. A72 version 1.05 was released a few weeks ago, but we missed the announcement. This has several updates, including: + Listings are generated by default along with binary output + Listings have line numbers + Symbol tables, alphabetically sorted, are appended to listings + More modular construction + HIGH, LOW, INCBIN, ECHO, TITLE, PAGE directives + Lines can be 255 characters long (previously 120-something). You can find the new version at <a class="" href="https://github.com/swanlizard/a72/tree/master/1.05" rel="nofollow">A72 on GitHub</a>.</p></div>
 
-<https://sourceforge.net/p/freedos/news/2023/11/a72-assembler-veresion-105/>
+<span>
+<a href="https://sourceforge.net/p/freedos/news/2023/11/a72-assembler-veresion-105/">https://sourceforge.net/p/freedos/news/2023/11/a72-assembler-veresion-105/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://sourceforge.net/p/freedos/news/2023/11/a72-assembler-veresion-105/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -625,9 +1032,13 @@ date: 2023-11-28, from: FreeDOS News
 
 date: 2023-11-28, from: NASA breaking news
 
-The field of aerial vehicle autonomy focuses on self-reliance, building the flight equivalent of puppets without puppeteers. Behind the scenes, however, is a rich network of people and systems that work together to develop frameworks, test new technologies, and inspire a pipeline of engineers to create the breakthroughs of the future. Encouraging kids to dream [&#8230;] 
+The field of aerial vehicle autonomy focuses on self-reliance, building the flight equivalent of puppets without puppeteers. Behind the scenes, however, is a rich network of people and systems that work together to develop frameworks, test new technologies, and inspire a pipeline of engineers to create the breakthroughs of the future. Encouraging kids to dream [&#8230;]
 
-<https://www.nasa.gov/general/aero-engineer-brings-nasa-into-hawaiis-classrooms/>
+<span>
+<a href="https://www.nasa.gov/general/aero-engineer-brings-nasa-into-hawaiis-classrooms/">https://www.nasa.gov/general/aero-engineer-brings-nasa-into-hawaiis-classrooms/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/general/aero-engineer-brings-nasa-into-hawaiis-classrooms/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -635,9 +1046,13 @@ The field of aerial vehicle autonomy focuses on self-reliance, building the flig
 
 date: 2023-11-28, from: NASA breaking news
 
-NASA will provide live launch and docking coverage of the Roscosmos Progress 86 cargo spacecraft carrying about three tons of food, fuel, and supplies for the Expedition 70 crew aboard the International Space Station. The unpiloted spacecraft is scheduled to launch at 4:25 a.m. EST on Friday, Dec. 1 (2:25 p.m. Baikonur time), on a [&#8230;] 
+NASA will provide live launch and docking coverage of the Roscosmos Progress 86 cargo spacecraft carrying about three tons of food, fuel, and supplies for the Expedition 70 crew aboard the International Space Station. The unpiloted spacecraft is scheduled to launch at 4:25 a.m. EST on Friday, Dec. 1 (2:25 p.m. Baikonur time), on a [&#8230;]
 
-<https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking-6/>
+<span>
+<a href="https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking-6/">https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking-6/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/news-release/nasa-to-provide-live-coverage-of-space-station-cargo-launch-docking-6/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -645,9 +1060,13 @@ NASA will provide live launch and docking coverage of the Roscosmos Progress 86 
 
 date: 2023-11-28, from: NASA breaking news
 
-The Odyssey orbiter captured clouds and dust in the Red Planet’s skies, along with one of its two tiny moons. Astronauts often react with awe when they see the curvature of the Earth below the International Space Station. Now Mars scientists are getting a taste of what that’s like, thanks to NASA’s 2001 Mars Odyssey [&#8230;] 
+The Odyssey orbiter captured clouds and dust in the Red Planet’s skies, along with one of its two tiny moons. Astronauts often react with awe when they see the curvature of the Earth below the International Space Station. Now Mars scientists are getting a taste of what that’s like, thanks to NASA’s 2001 Mars Odyssey [&#8230;]
 
-<https://www.nasa.gov/missions/odyssey/nasa-orbiter-snaps-stunning-views-of-mars-horizon/>
+<span>
+<a href="https://www.nasa.gov/missions/odyssey/nasa-orbiter-snaps-stunning-views-of-mars-horizon/">https://www.nasa.gov/missions/odyssey/nasa-orbiter-snaps-stunning-views-of-mars-horizon/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/missions/odyssey/nasa-orbiter-snaps-stunning-views-of-mars-horizon/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -655,9 +1074,13 @@ The Odyssey orbiter captured clouds and dust in the Red Planet’s skies, along 
 
 date: 2023-11-28, from: TidBITS blog
 
-<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2021/10/Mimestream-beta-icon.png" class="type:primaryImage wp-post-image" alt="Mimestream beta icon" decoding="async" srcset="https://tidbits.com/wp/../uploads/2021/10/Mimestream-beta-icon.png 1024w, https://tidbits.com/wp/../uploads/2021/10/Mimestream-beta-icon-640x640.png 640w" sizes="(max-width: 96px) 100vw, 96px" /></figure>Adds support for inline text predictions when composing messages in macOS 14 Sonoma. ($49.99 annual subscription, free update, 12.2 MB, macOS 12+)<p style="margin-top: 3em"><a href="https://www.macvoices.com/macvoices-22189-adam-engst-discusses-apple-announcements-at-limac-1/"><picture><source srcset="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-640x200_v1.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1.png" srcset="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1.png 1456w, https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1-640x79.png 640w" alt="Press Play to hear TidBITS publisher Adam Engst and MacVoices host Chuck Joiner talk to the Long Island Mac User Group about the details around the iPhone 14, Apple Watch Ultra, and other September releases."></picture></a></p> 
+<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2021/10/Mimestream-beta-icon.png" class="type:primaryImage wp-post-image" alt="Mimestream beta icon" decoding="async" srcset="https://tidbits.com/wp/../uploads/2021/10/Mimestream-beta-icon.png 1024w, https://tidbits.com/wp/../uploads/2021/10/Mimestream-beta-icon-640x640.png 640w" sizes="(max-width: 96px) 100vw, 96px" /></figure>Adds support for inline text predictions when composing messages in macOS 14 Sonoma. ($49.99 annual subscription, free update, 12.2 MB, macOS 12+)<p style="margin-top: 3em"><a href="https://www.macvoices.com/macvoices-22189-adam-engst-discusses-apple-announcements-at-limac-1/"><picture><source srcset="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-640x200_v1.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1.png" srcset="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1.png 1456w, https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1-640x79.png 640w" alt="Press Play to hear TidBITS publisher Adam Engst and MacVoices host Chuck Joiner talk to the Long Island Mac User Group about the details around the iPhone 14, Apple Watch Ultra, and other September releases."></picture></a></p>
 
-<https://tidbits.com/watchlist/mimestream-1-2/>
+<span>
+<a href="https://tidbits.com/watchlist/mimestream-1-2/">https://tidbits.com/watchlist/mimestream-1-2/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tidbits.com/watchlist/mimestream-1-2/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -665,9 +1088,13 @@ date: 2023-11-28, from: TidBITS blog
 
 date: 2023-11-28, from: NASA breaking news
 
-NASA’s Dragonfly mission has been authorized to proceed with work on final mission design and fabrication – known as Phase C – during fiscal year (FY) 2024. The agency is postponing formal confirmation of the mission (including its total cost and schedule) until mid-2024, following the release of the FY 2025 President’s Budget Request. Earlier […] 
+NASA’s Dragonfly mission has been authorized to proceed with work on final mission design and fabrication – known as Phase C – during fiscal year (FY) 2024. The agency is postponing formal confirmation of the mission (including its total cost and schedule) until mid-2024, following the release of the FY 2025 President’s Budget Request. Earlier […]
 
-<https://science.nasa.gov/missions/dragonfly/nasas-dragonfly-to-proceed-with-final-mission-design-work/>
+<span>
+<a href="https://science.nasa.gov/missions/dragonfly/nasas-dragonfly-to-proceed-with-final-mission-design-work/">https://science.nasa.gov/missions/dragonfly/nasas-dragonfly-to-proceed-with-final-mission-design-work/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://science.nasa.gov/missions/dragonfly/nasas-dragonfly-to-proceed-with-final-mission-design-work/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -737,9 +1164,13 @@ Why does the centralization of Defi matter? First, for all the bad things concen
 I've argued many times, most recently to the <a href="https://blog.dshr.org/2023/09/brief-remarks-to-iosco-defi-wg.html">IOSCO DeFi Working Group</a>, that regulators should ignore the alleged "decentralization" of cryptocurrency systems and <a href="https://blog.dshr.org/2022/12/dominoes.html">go after the major players</a> in each area. With lawsuits against <a href="https://web3isgoinggreat.com/?id=sam-bankman-fried-convicted">FTX' management</a>, <a href="https://davidgerard.co.uk/blockchain/2023/06/07/the-sec-sues-coinbase-its-on/">Coinbase</a>, <a href="https://davidgerard.co.uk/blockchain/2023/10/30/new-york-vs-dcg-genesis-and-gemini-kids-kids-youre-both-ugly/">DCG/Genesis and Gemini</a>, <a href="https://web3isgoinggreat.com/?id=kraken-sued-by-us-sec">Kraken</a>, and <a href="https://davidgerard.co.uk/blockchain/2023/07/15/crypto-collapse-alex-mashinsky-of-celsius-arrested-ripples-bizarre-xrp-win-gemini-sues-genesis-gisele-bundchen-knew-nothing/">Celsius and Alex Mashinsky</a>, and now their <a href="https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution">$4.3B criminal conviction of Binance and CZ</a>, the US regulators no longer seem to be going after the small fry. Presumably, they used winning against the small fry to build precedents they are now using against bigger fish.<br />
 <br />
 If despite claims of "decentralization" regulators can shut down the few big players in a market, the decentralized systems will be paying the massive extra costs but not reaping the unregulated profits. Of course, there is a <a href="https://en.wikipedia.org/wiki/Whac-A-Mole">Whac-A-Mole</a> aspect; kill a big player and one or more smaller players will get bigger enough to be worth taking out. But it won't take many of these cycles for the market to get the message.<br />
-<br /> 
+<br />
 
-<https://blog.dshr.org/2023/11/decentralized-finance-isnt.html>
+<span>
+<a href="https://blog.dshr.org/2023/11/decentralized-finance-isnt.html">https://blog.dshr.org/2023/11/decentralized-finance-isnt.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://blog.dshr.org/2023/11/decentralized-finance-isnt.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -747,9 +1178,13 @@ If despite claims of "decentralization" regulators can shut down the few big pla
 
 date: 2023-11-28, from: TidBITS blog
 
-If friends or relatives are asking or telling you about how NameDrop is a privacy risk based on Facebook posts from police departments, set them straight by explaining how it's completely safe.<p><strong><a href='https://www.macrumors.com/2023/11/27/ios-17-namedrop-misinformation/'>Read original article</a></strong></p><p style="margin-top: 3em"><a href="https://www.macvoices.com/macvoices-22189-adam-engst-discusses-apple-announcements-at-limac-1/"><picture><source srcset="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-640x200_v1.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1.png" srcset="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1.png 1456w, https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1-640x79.png 640w" alt="Press Play to hear TidBITS publisher Adam Engst and MacVoices host Chuck Joiner talk to the Long Island Mac User Group about the details around the iPhone 14, Apple Watch Ultra, and other September releases."></picture></a></p> 
+If friends or relatives are asking or telling you about how NameDrop is a privacy risk based on Facebook posts from police departments, set them straight by explaining how it's completely safe.<p><strong><a href='https://www.macrumors.com/2023/11/27/ios-17-namedrop-misinformation/'>Read original article</a></strong></p><p style="margin-top: 3em"><a href="https://www.macvoices.com/macvoices-22189-adam-engst-discusses-apple-announcements-at-limac-1/"><picture><source srcset="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-640x200_v1.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1.png" srcset="https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1.png 1456w, https://tidbits.com/wp/../uploads/2019/02/Podcast-MacVoices-Adam-22189-ad-1456x180_v1-640x79.png 640w" alt="Press Play to hear TidBITS publisher Adam Engst and MacVoices host Chuck Joiner talk to the Long Island Mac User Group about the details around the iPhone 14, Apple Watch Ultra, and other September releases."></picture></a></p>
 
-<https://tidbits.com/2023/11/28/push-back-on-namedrop-privacy-insinuations/>
+<span>
+<a href="https://tidbits.com/2023/11/28/push-back-on-namedrop-privacy-insinuations/">https://tidbits.com/2023/11/28/push-back-on-namedrop-privacy-insinuations/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tidbits.com/2023/11/28/push-back-on-namedrop-privacy-insinuations/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -762,9 +1197,13 @@ date: 2023-11-28, from: Manu - I write blog
 <p>This site now runs on Kirby 4! I absolutely love Kirby, been using it to run this site since 2017 and I also used it for countless other projects. The <a href="https://getkirby.com" rel="noreferrer" target="_blank">new V4 has officially been released</a> earlier today and the upgrade process went super smoothly. Only had to update 2 lines of code inside 1 single file and that was it. Stoked about that.</p>
 <p>Next up, as mentioned in a previous post, Craig Mod has a new book out and copies are moving FAST. Signed copies have sold out in I think 24 hours and unsigned copies are also selling quickly. So if you want one, <a href="https://shop.specialprojects.jp/products/things-become-other-things-1st-ed/" rel="noreferrer" target="_blank">I suggest you act now and don&#039;t wait too long</a>.</p>
 <p>Carl is <a href="https://www.producthunt.com/posts/099-supply" rel="noreferrer" target="_blank">running a campaign on Product Hunt</a> to spread the word about his 099. The project itself is neat and Carl has put a lot of effort into it so if you happen to be a PH user, just give it an upvote.</p>
-<p>Lastly, an update from me: I'm busy as hell, working on way too many things at once but also excited because it's nice to have things to do, plus Christmas is approaching fast and that puts me in a good mood 🎄</p> 
+<p>Lastly, an update from me: I'm busy as hell, working on way too many things at once but also excited because it's nice to have things to do, plus Christmas is approaching fast and that puts me in a good mood 🎄</p>
 
-<https://manuelmoreale.com/@/page/Cjt8gGpvO18K3ort>
+<span>
+<a href="https://manuelmoreale.com/@/page/Cjt8gGpvO18K3ort">https://manuelmoreale.com/@/page/Cjt8gGpvO18K3ort</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://manuelmoreale.com/@/page/Cjt8gGpvO18K3ort">Save to Pocket</a>
+</span>
 
 ---
 
@@ -772,9 +1211,13 @@ date: 2023-11-28, from: Manu - I write blog
 
 date: 2023-11-28, from: NASA breaking news
 
-On Nov. 28, 1983, space shuttle Columbia took to the skies for its sixth trip into space on the first dedicated science mission using the Spacelab module provided by the European Space Agency (ESA). The longest shuttle mission at the time also included many other firsts. Aboard Columbia to conduct dozens of science experiments, the [&#8230;] 
+On Nov. 28, 1983, space shuttle Columbia took to the skies for its sixth trip into space on the first dedicated science mission using the Spacelab module provided by the European Space Agency (ESA). The longest shuttle mission at the time also included many other firsts. Aboard Columbia to conduct dozens of science experiments, the [&#8230;]
 
-<https://www.nasa.gov/history/40-years-ago-sts-9-the-first-spacelab-science-mission/>
+<span>
+<a href="https://www.nasa.gov/history/40-years-ago-sts-9-the-first-spacelab-science-mission/">https://www.nasa.gov/history/40-years-ago-sts-9-the-first-spacelab-science-mission/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/history/40-years-ago-sts-9-the-first-spacelab-science-mission/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -782,9 +1225,13 @@ On Nov. 28, 1983, space shuttle Columbia took to the skies for its sixth trip in
 
 date: 2023-11-28, from: NASA breaking news
 
-This new Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope reveals intricate details of the Herbig Haro object 797 (HH 797). Herbig-Haro objects are luminous regions surrounding newborn stars (known as protostars), and are formed when stellar winds or jets of gas spewing from these newborn stars form shockwaves colliding with nearby gas and [&#8230;] 
+This new Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope reveals intricate details of the Herbig Haro object 797 (HH 797). Herbig-Haro objects are luminous regions surrounding newborn stars (known as protostars), and are formed when stellar winds or jets of gas spewing from these newborn stars form shockwaves colliding with nearby gas and [&#8230;]
 
-<https://www.nasa.gov/missions/webb/webb-telescope-a-prominent-protostar-in-perseus/>
+<span>
+<a href="https://www.nasa.gov/missions/webb/webb-telescope-a-prominent-protostar-in-perseus/">https://www.nasa.gov/missions/webb/webb-telescope-a-prominent-protostar-in-perseus/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/missions/webb/webb-telescope-a-prominent-protostar-in-perseus/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -792,25 +1239,37 @@ This new Picture of the Month from the NASA/ESA/CSA James Webb Space Telescope
 
 date: 2023-11-28, from: NASA breaking news
 
-A new catalog produced by a French-led international team of astronomers shows that NASA’s Fermi Gamma-ray Space Telescope has discovered 294 gamma-ray-emitting pulsars, while another 34 suspects await confirmation. This is 27 times the number known before the mission launched in 2008. “Pulsars touch on a wide range of astrophysics research, from cosmic rays and […] 
+A new catalog produced by a French-led international team of astronomers shows that NASA’s Fermi Gamma-ray Space Telescope has discovered 294 gamma-ray-emitting pulsars, while another 34 suspects await confirmation. This is 27 times the number known before the mission launched in 2008. “Pulsars touch on a wide range of astrophysics research, from cosmic rays and […]
 
-<https://science.nasa.gov/universe/stars/neutron-stars/pulsars/nasas-fermi-mission-nets-300-gamma-ray-pulsars-and-counting/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2023-11-28, from: Dave Winer's Scripting News)
-
-<a href="https://github.com/scripting/Scripting-News/issues/280">A braintrust query</a> for implementors of <a href="http://scripting.com/stories/2009/09/08/whatDoesRsscloudMeanToYou.html">rssCloud</a>. Do you ping only when an item is created, or every time it changes? 
-
-<http://scripting.com/2023/11/28.html#a142358>
+<span>
+<a href="https://science.nasa.gov/universe/stars/neutron-stars/pulsars/nasas-fermi-mission-nets-300-gamma-ray-pulsars-and-counting/">https://science.nasa.gov/universe/stars/neutron-stars/pulsars/nasas-fermi-mission-nets-300-gamma-ray-pulsars-and-counting/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://science.nasa.gov/universe/stars/neutron-stars/pulsars/nasas-fermi-mission-nets-300-gamma-ray-pulsars-and-counting/">Save to Pocket</a>
+</span>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2023-11-28, from: Dave Winer's Scripting News)
 
-<a href="https://www.threads.net/@davew/post/C0MSucwMo-S">Posted on Threads</a>: "Replies are almost always spam, they aren't talking to the author (though technically they are), rather they are talking over the author's head, trying to reach the people who read the author's post. If this is what's really going on, surely we can come up with a more realistic structure/UI that doesn't even involve the author." 
+<a href="https://github.com/scripting/Scripting-News/issues/280">A braintrust query</a> for implementors of <a href="http://scripting.com/stories/2009/09/08/whatDoesRsscloudMeanToYou.html">rssCloud</a>. Do you ping only when an item is created, or every time it changes?
 
-<http://scripting.com/2023/11/28.html#a135336>
+<span>
+<a href="http://scripting.com/2023/11/28.html#a142358">http://scripting.com/2023/11/28.html#a142358</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://scripting.com/2023/11/28.html#a142358">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-28, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@davew/post/C0MSucwMo-S">Posted on Threads</a>: "Replies are almost always spam, they aren't talking to the author (though technically they are), rather they are talking over the author's head, trying to reach the people who read the author's post. If this is what's really going on, surely we can come up with a more realistic structure/UI that doesn't even involve the author."
+
+<span>
+<a href="http://scripting.com/2023/11/28.html#a135336">http://scripting.com/2023/11/28.html#a135336</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://scripting.com/2023/11/28.html#a135336">Save to Pocket</a>
+</span>
 
 ---
 
@@ -820,9 +1279,13 @@ date: 2023-11-28, from: Raspberry Pi News (.com)
 
 <p>Christopher Barnatt (of Explaining Computers) has gone and built his own Raspberry Pi 500. He beat us to it!</p>
 <p>The post <a href="https://www.raspberrypi.com/news/explaining-computers-beat-us-to-raspberry-pi-500/">Explaining Computers beat us to Raspberry Pi 500</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
- 
 
-<https://www.raspberrypi.com/news/explaining-computers-beat-us-to-raspberry-pi-500/>
+
+<span>
+<a href="https://www.raspberrypi.com/news/explaining-computers-beat-us-to-raspberry-pi-500/">https://www.raspberrypi.com/news/explaining-computers-beat-us-to-raspberry-pi-500/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.raspberrypi.com/news/explaining-computers-beat-us-to-raspberry-pi-500/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -831,9 +1294,13 @@ date: 2023-11-28, from: Raspberry Pi News (.com)
 date: 2023-11-28, updated: 2023-11-28, from: Liam Proven's articles at the Register
 
 <h4>The 'Azure RTOS' used in millions of Raspberry Pis is now FOSS</h4>
-      <p>Microsoft is open sourcing the realtime operating system that it acquired with Express Logic, donating it to the Eclipse Foundation.</p> 
+      <p>Microsoft is open sourcing the realtime operating system that it acquired with Express Logic, donating it to the Eclipse Foundation.</p>
 
-<https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/>
+<span>
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/">https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/28/microsoft_opens_sources_threadx/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -841,9 +1308,13 @@ date: 2023-11-28, updated: 2023-11-28, from: Liam Proven's articles at the Regis
 
 date: 2023-11-28, from: Tilde.news
 
-<p><a href="https://tilde.news/s/ivjzs5/rosy_crow">Comments</a></p> 
+<p><a href="https://tilde.news/s/ivjzs5/rosy_crow">Comments</a></p>
 
-<https://rosy-crow.app>
+<span>
+<a href="https://rosy-crow.app">https://rosy-crow.app</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://rosy-crow.app">Save to Pocket</a>
+</span>
 
 ---
 
@@ -851,9 +1322,13 @@ date: 2023-11-28, from: Tilde.news
 
 date: 2023-11-28, from: Gary Marcus blog
 
-Increasingly, they are. 
+Increasingly, they are.
 
-<https://garymarcus.substack.com/p/critical-national-security-questions>
+<span>
+<a href="https://garymarcus.substack.com/p/critical-national-security-questions">https://garymarcus.substack.com/p/critical-national-security-questions</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://garymarcus.substack.com/p/critical-national-security-questions">Save to Pocket</a>
+</span>
 
 ---
 
@@ -861,9 +1336,13 @@ Increasingly, they are.
 
 date: 2023-11-28, from: OS News
 
-FreeBSD has supported nesting of jails natively since version 8.0, which dates back to 2009. Looking at the jail(8) man page, there is an entire paragraph named Hierarchical Jails that explains the concept of jail hierarchy well. It’s one of the many gems of FreeBSD that, although not widely known or used, is, in my opinion, extremely useful. BastilleBSD plays a central role in this article, and that&#8217;s a project I&#8217;ve been hearing a lot about recently. I feel like the various BSDs are currently hitting a stride, and there seems to be a lot of movement from Linux to BSD at the moment. 
+FreeBSD has supported nesting of jails natively since version 8.0, which dates back to 2009. Looking at the jail(8) man page, there is an entire paragraph named Hierarchical Jails that explains the concept of jail hierarchy well. It’s one of the many gems of FreeBSD that, although not widely known or used, is, in my opinion, extremely useful. BastilleBSD plays a central role in this article, and that&#8217;s a project I&#8217;ve been hearing a lot about recently. I feel like the various BSDs are currently hitting a stride, and there seems to be a lot of movement from Linux to BSD at the moment.
 
-<https://www.osnews.com/story/137940/migrating-from-vm-to-hierarchical-jails-in-freebsd/>
+<span>
+<a href="https://www.osnews.com/story/137940/migrating-from-vm-to-hierarchical-jails-in-freebsd/">https://www.osnews.com/story/137940/migrating-from-vm-to-hierarchical-jails-in-freebsd/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137940/migrating-from-vm-to-hierarchical-jails-in-freebsd/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -871,9 +1350,13 @@ FreeBSD has supported nesting of jails natively since version 8.0, which dates b
 
 date: 2023-11-28, from: OS News
 
-PipeWire 1.0 now has all the features that are expected to move media streams inside a system. It takes advantage of advanced features of the Linux kernel to provide low latency, low footprint, and high performance while being secure. It is the perfect tool to build an embedded system or to securely share streams between containers. Linux audio and video has come a long way, and PipeWire is part of that. Excellent work. 
+PipeWire 1.0 now has all the features that are expected to move media streams inside a system. It takes advantage of advanced features of the Linux kernel to provide low latency, low footprint, and high performance while being secure. It is the perfect tool to build an embedded system or to securely share streams between containers. Linux audio and video has come a long way, and PipeWire is part of that. Excellent work.
 
-<https://www.osnews.com/story/137938/pipewire-1-0-released/>
+<span>
+<a href="https://www.osnews.com/story/137938/pipewire-1-0-released/">https://www.osnews.com/story/137938/pipewire-1-0-released/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137938/pipewire-1-0-released/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -881,9 +1364,13 @@ PipeWire 1.0 now has all the features that are expected to move media streams in
 
 date: 2023-11-28, from: OS News
 
-Frore Systems is a startup with $116 million in funding, and I’ve shown you its first product before: the AirJet Mini is a piezoelectric cooling chip that weighs just nine grams and is thinner than two US quarters stacked together. Each nominally consumes one watt and can remove 4.25 additional watts of heat. Here’s the question: what would happen if Frore used those AirJets to cool a laptop that normally doesn’t have a fan at all? What the company discovered — and I saw firsthand — is that Apple’s M2 chip can run faster, for longer, with Frore’s tech on board. Without it, a 15-inch M2 MacBook Air was like a runner that can’t sprint indefinitely without running out of breath. But with three AirJet Minis, the same laptop got a permanent second wind. Frore&#8217;s AirJet coolers have been featured on YouTube channels like LTT as well, and there&#8217;s no doubt in my mind these will be the future of laptop cooling, especially in the thinner segment of the laptop market. At least in thin laptops, AirJets are better in virtually every way than fans, and provide far superior cooling compared to fanless designs without adding bulk or noise. The only thing that sucks as an enthusiast is that you can&#8217;t really modify an existing laptop yourself. Either this company gets gobbled up by an OEM, or their products will make their way in almost every thin laptop. 
+Frore Systems is a startup with $116 million in funding, and I’ve shown you its first product before: the AirJet Mini is a piezoelectric cooling chip that weighs just nine grams and is thinner than two US quarters stacked together. Each nominally consumes one watt and can remove 4.25 additional watts of heat. Here’s the question: what would happen if Frore used those AirJets to cool a laptop that normally doesn’t have a fan at all? What the company discovered — and I saw firsthand — is that Apple’s M2 chip can run faster, for longer, with Frore’s tech on board. Without it, a 15-inch M2 MacBook Air was like a runner that can’t sprint indefinitely without running out of breath. But with three AirJet Minis, the same laptop got a permanent second wind. Frore&#8217;s AirJet coolers have been featured on YouTube channels like LTT as well, and there&#8217;s no doubt in my mind these will be the future of laptop cooling, especially in the thinner segment of the laptop market. At least in thin laptops, AirJets are better in virtually every way than fans, and provide far superior cooling compared to fanless designs without adding bulk or noise. The only thing that sucks as an enthusiast is that you can&#8217;t really modify an existing laptop yourself. Either this company gets gobbled up by an OEM, or their products will make their way in almost every thin laptop.
 
-<https://www.osnews.com/story/137936/this-company-just-put-the-air-in-apples-macbook-air/>
+<span>
+<a href="https://www.osnews.com/story/137936/this-company-just-put-the-air-in-apples-macbook-air/">https://www.osnews.com/story/137936/this-company-just-put-the-air-in-apples-macbook-air/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137936/this-company-just-put-the-air-in-apples-macbook-air/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -891,9 +1378,13 @@ Frore Systems is a startup with $116 million in funding, and I’ve shown you it
 
 date: 2023-11-28, from: OS News
 
-App developer Elias Saba has had some bad luck with Digital Millennium Copyright Act (DMCA) takedowns. His Android TV app Downloader, which combines a web browser with a file manager, was suspended by Google Play in May after several Israeli TV companies complained that the app could be used to load a pirate website. Google reversed that suspension after three weeks. But Downloader has been suspended by Google Play again, and this time the reason is even harder to understand. Based on a vague DMCA notice, it appears that Downloader was suspended simply because it can load the Warner Bros. website. Application stores are basically random number generators. The worst possible applications, from non-functional garbage to ad-ridden gambling games designed to prey on children, make up the bulk of what&#8217;s on offer, but functional, useful applications spiral into Kafkaesque bureaucratic dark holes. Being a mobile developer in 2023 is a nightmare. 
+App developer Elias Saba has had some bad luck with Digital Millennium Copyright Act (DMCA) takedowns. His Android TV app Downloader, which combines a web browser with a file manager, was suspended by Google Play in May after several Israeli TV companies complained that the app could be used to load a pirate website. Google reversed that suspension after three weeks. But Downloader has been suspended by Google Play again, and this time the reason is even harder to understand. Based on a vague DMCA notice, it appears that Downloader was suspended simply because it can load the Warner Bros. website. Application stores are basically random number generators. The worst possible applications, from non-functional garbage to ad-ridden gambling games designed to prey on children, make up the bulk of what&#8217;s on offer, but functional, useful applications spiral into Kafkaesque bureaucratic dark holes. Being a mobile developer in 2023 is a nightmare.
 
-<https://www.osnews.com/story/137934/google-play-keeps-banning-the-same-web-browser-due-to-vague-dmca-notices/>
+<span>
+<a href="https://www.osnews.com/story/137934/google-play-keeps-banning-the-same-web-browser-due-to-vague-dmca-notices/">https://www.osnews.com/story/137934/google-play-keeps-banning-the-same-web-browser-due-to-vague-dmca-notices/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137934/google-play-keeps-banning-the-same-web-browser-due-to-vague-dmca-notices/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -901,9 +1392,13 @@ App developer Elias Saba has had some bad luck with Digital Millennium Copyright
 
 date: 2023-11-28, from: Peter Warden
 
-As you might know I&#8217;m working on my PhD at Stanford, and one of my favorite parts is taking courses. For this second year I need to follow the new foundation and breadth requirements which in practice means taking a course a quarter, with each course chosen from one of four areas. For the fall [&#8230;] 
+As you might know I&#8217;m working on my PhD at Stanford, and one of my favorite parts is taking courses. For this second year I need to follow the new foundation and breadth requirements which in practice means taking a course a quarter, with each course chosen from one of four areas. For the fall [&#8230;]
 
-<https://petewarden.com/2023/11/28/stanford-cs-phd-course-choices-for-winter-2024/>
+<span>
+<a href="https://petewarden.com/2023/11/28/stanford-cs-phd-course-choices-for-winter-2024/">https://petewarden.com/2023/11/28/stanford-cs-phd-course-choices-for-winter-2024/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://petewarden.com/2023/11/28/stanford-cs-phd-course-choices-for-winter-2024/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -911,9 +1406,13 @@ As you might know I&#8217;m working on my PhD at Stanford, and one of my favorit
 
 date: 2023-11-28, from: NASA breaking news
 
-Where were you during the storm? In 2011, NASA’s Cassini spacecraft circled Saturn for a front-row view of the huge storm there. One of those looks made the mission scientists’ list of Top 10 images of 2011. What else made the list? Check it out. Groovy Enceladus Churning Psychedelia Hiding Little Brother Quintet of Moons […] 
+Where were you during the storm? In 2011, NASA’s Cassini spacecraft circled Saturn for a front-row view of the huge storm there. One of those looks made the mission scientists’ list of Top 10 images of 2011. What else made the list? Check it out. Groovy Enceladus Churning Psychedelia Hiding Little Brother Quintet of Moons […]
 
-<https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2011/>
+<span>
+<a href="https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2011/">https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2011/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2011/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -921,9 +1420,13 @@ Where were you during the storm? In 2011, NASA’s Cassini spacecraft circled Sa
 
 date: 2023-11-28, from: NASA breaking news
 
-As the Cassini spacecraft roams the Saturnian system, each year it opens new windows on an amazing corner of our solar system. Images of mighty Saturn, its majestic rings, and the dynamic moons continue to stun us, offering ever-changing vistas that are truly inspiring. This collection of 10 best images was selected by the scientists […] 
+As the Cassini spacecraft roams the Saturnian system, each year it opens new windows on an amazing corner of our solar system. Images of mighty Saturn, its majestic rings, and the dynamic moons continue to stun us, offering ever-changing vistas that are truly inspiring. This collection of 10 best images was selected by the scientists […]
 
-<https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2012/>
+<span>
+<a href="https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2012/">https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2012/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2012/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -931,9 +1434,13 @@ As the Cassini spacecraft roams the Saturnian system, each year it opens new win
 
 date: 2023-11-28, from: NASA breaking news
 
-We’ve shared 150 press images through 40 news releases and special features during 2013. As the Cassini science team members look forward to a great 2014 and beyond, here’s a look back at their top ten 10 images of the year. ‘Tis the Season Fire and Ice Titan’s North — Unannotated The Day the Earth […] 
+We’ve shared 150 press images through 40 news releases and special features during 2013. As the Cassini science team members look forward to a great 2014 and beyond, here’s a look back at their top ten 10 images of the year. ‘Tis the Season Fire and Ice Titan’s North — Unannotated The Day the Earth […]
 
-<https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2013/>
+<span>
+<a href="https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2013/">https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2013/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2013/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -941,9 +1448,13 @@ We’ve shared 150 press images through 40 news releases and special features du
 
 date: 2023-11-28, from: NASA breaking news
 
-The Cassini team is proud to celebrate 10 years since arriving at Saurn with this collection of images selected by members of the team. Enceladus North Pole Montage Peering Through Titan’s Haze Water World Enceladus Up-Close Saturnian Snowman A Fractured Pole Imminent Approach to Dione Red Arcs on Tethys Spongy Surface Serene Saturn Simulations of […] 
+The Cassini team is proud to celebrate 10 years since arriving at Saurn with this collection of images selected by members of the team. Enceladus North Pole Montage Peering Through Titan’s Haze Water World Enceladus Up-Close Saturnian Snowman A Fractured Pole Imminent Approach to Dione Red Arcs on Tethys Spongy Surface Serene Saturn Simulations of […]
 
-<https://science.nasa.gov/missions/cassini/cassini-10-years-at-saturn-top-images/>
+<span>
+<a href="https://science.nasa.gov/missions/cassini/cassini-10-years-at-saturn-top-images/">https://science.nasa.gov/missions/cassini/cassini-10-years-at-saturn-top-images/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://science.nasa.gov/missions/cassini/cassini-10-years-at-saturn-top-images/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -951,9 +1462,13 @@ The Cassini team is proud to celebrate 10 years since arriving at Saurn with thi
 
 date: 2023-11-28, from: NASA breaking news
 
-As the Cassini science team members look forward to a great 2015 and beyond, here’s a look back at their top 10 images of 2014. Translucent Rings Color Map of Mimas (2014) Circling Saturn Specular Spectacular Mysterious Changing Feature in Ligeia Mare — Unannotated The Odd Trio Shepherd and Flock Encroaching Shadow Arrival and Departure […] 
+As the Cassini science team members look forward to a great 2015 and beyond, here’s a look back at their top 10 images of 2014. Translucent Rings Color Map of Mimas (2014) Circling Saturn Specular Spectacular Mysterious Changing Feature in Ligeia Mare — Unannotated The Odd Trio Shepherd and Flock Encroaching Shadow Arrival and Departure […]
 
-<https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2014/>
+<span>
+<a href="https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2014/">https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2014/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://science.nasa.gov/missions/cassini/cassini-top-10-images-of-2014/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -961,9 +1476,13 @@ As the Cassini science team members look forward to a great 2015 and beyond, her
 
 date: 2023-11-28, from: NASA breaking news
 
-As the Cassini science team members look forward to a great 2016 and beyond, here’s a look back at their top 10 images of 2015. Enceladus North Pole Montage Peering Through Titan’s Haze Water World Enceladus Up-Close Saturnian Snowman A Fractured Pole Imminent Approach to Dione Red Arcs on Tethys Spongy Surface Serene Saturn Simulations […] 
+As the Cassini science team members look forward to a great 2016 and beyond, here’s a look back at their top 10 images of 2015. Enceladus North Pole Montage Peering Through Titan’s Haze Water World Enceladus Up-Close Saturnian Snowman A Fractured Pole Imminent Approach to Dione Red Arcs on Tethys Spongy Surface Serene Saturn Simulations […]
 
-<https://science.nasa.gov/missions/cassini/cassini-top-10-images-2015/>
+<span>
+<a href="https://science.nasa.gov/missions/cassini/cassini-top-10-images-2015/">https://science.nasa.gov/missions/cassini/cassini-top-10-images-2015/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://science.nasa.gov/missions/cassini/cassini-top-10-images-2015/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -971,9 +1490,13 @@ As the Cassini science team members look forward to a great 2016 and beyond, her
 
 date: 2023-11-28, from: ETH Zurich, recently added
 
-Roth, Lukas 
+Roth, Lukas
 
-<http://hdl.handle.net/20.500.11850/644285>
+<span>
+<a href="http://hdl.handle.net/20.500.11850/644285">http://hdl.handle.net/20.500.11850/644285</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://hdl.handle.net/20.500.11850/644285">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1008,17 +1531,25 @@ date: 2023-11-28, from: Crossref Blog
 <li>Stakeholders responsible for research assessment take into account data sharing and data citation in their reward and recognition system structures.</li>
 </ol>
 <p>We, the following signatories shall adopt and promote the relevant best practices laid out above. We hope that our action inspires the community, including researchers, research funders, research institutions, data repositories and publishers, to join us in making it easy for researchers to share, link and cite research data.</p>
-<p><a href="https://docs.google.com/forms/d/1Anc6EAs02YTveU3PqELJU2jnTK1R84hMWgB9kNX01p0/edit" target="_blank">Endorse the statement here.</a></p> 
+<p><a href="https://docs.google.com/forms/d/1Anc6EAs02YTveU3PqELJU2jnTK1R84hMWgB9kNX01p0/edit" target="_blank">Endorse the statement here.</a></p>
 
-<https://www.crossref.org/blog/joint-statement-on-research-data/>
+<span>
+<a href="https://www.crossref.org/blog/joint-statement-on-research-data/">https://www.crossref.org/blog/joint-statement-on-research-data/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.crossref.org/blog/joint-statement-on-research-data/">Save to Pocket</a>
+</span>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2023-11-27, from: Dave Winer's Scripting News)
 
-<a href="https://daverupert.com/rss-club/">RSS Club</a> is fascinating. I <a href="https://feedland.org/?readinglist=https%3A%2F%2Fdaverupert.com%2Frss-club%2Ffeeds.xml">subscribed</a> to their <a href="https://daverupert.com/rss-club/feeds.xml">OPML file</a>. Now I get <a href="https://feedland.org/?readinglistnews=https%3A%2F%2Fdaverupert.com%2Frss-club%2Ffeeds.xml">all their posts</a>, even if the list changes. 
+<a href="https://daverupert.com/rss-club/">RSS Club</a> is fascinating. I <a href="https://feedland.org/?readinglist=https%3A%2F%2Fdaverupert.com%2Frss-club%2Ffeeds.xml">subscribed</a> to their <a href="https://daverupert.com/rss-club/feeds.xml">OPML file</a>. Now I get <a href="https://feedland.org/?readinglistnews=https%3A%2F%2Fdaverupert.com%2Frss-club%2Ffeeds.xml">all their posts</a>, even if the list changes.
 
-<http://scripting.com/2023/11/27.html#a213710>
+<span>
+<a href="http://scripting.com/2023/11/27.html#a213710">http://scripting.com/2023/11/27.html#a213710</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://scripting.com/2023/11/27.html#a213710">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1026,9 +1557,13 @@ date: 2023-11-28, from: Crossref Blog
 
 date: 2023-11-27, from: NASA breaking news
 
-NASA Administrator Bill Nelson and other agency leaders will participate in the 28th United Nations Climate Change Conference of the Parties (COP28) beginning Thursday, Nov. 30, through Tuesday, Dec. 12, in Dubai, United Arab Emirates. This global conference brings together countries committed to addressing climate change, which is a key priority for the Biden-Harris Administration [&#8230;] 
+NASA Administrator Bill Nelson and other agency leaders will participate in the 28th United Nations Climate Change Conference of the Parties (COP28) beginning Thursday, Nov. 30, through Tuesday, Dec. 12, in Dubai, United Arab Emirates. This global conference brings together countries committed to addressing climate change, which is a key priority for the Biden-Harris Administration [&#8230;]
 
-<https://www.nasa.gov/news-release/nasa-leadership-to-participate-in-global-climate-change-conference/>
+<span>
+<a href="https://www.nasa.gov/news-release/nasa-leadership-to-participate-in-global-climate-change-conference/">https://www.nasa.gov/news-release/nasa-leadership-to-participate-in-global-climate-change-conference/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/news-release/nasa-leadership-to-participate-in-global-climate-change-conference/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1036,9 +1571,13 @@ NASA Administrator Bill Nelson and other agency leaders will participate in the 
 
 date: 2023-11-27, from: OS News
 
-When I used OpenBSD, I was a big fan of bsd.rd: a kernel that includes a root file system with an installer and a few tools. When I invariably did something bad to my root file system, I could use that to repair things. bsd.rd is also helpful for OS updates. And there is only a single file involved. On NetBSD however, there is usually no netbsd.rd kernel installed, or even available by default. The facility is there, it’s just not standard. To be fair, there are a number of architectures that use kernels with a ramdisk for installation. Recently, I have been toying with NetBSD on an Orange Pi 5. This is a 64-bit ARM board, using the evbarm-aarch64 architecture. I am booting from an SD card (details in a followup post) but once booted, the kernel does not see the card any more, only the NVMe SSD. So my thoughts went back to bsd.rd and I decided that I want one! Such a kernel seems like a very useful tool to have, so if you&#8217;re running NetBSD &#8211; this guide will help you add it to your toolbox. 
+When I used OpenBSD, I was a big fan of bsd.rd: a kernel that includes a root file system with an installer and a few tools. When I invariably did something bad to my root file system, I could use that to repair things. bsd.rd is also helpful for OS updates. And there is only a single file involved. On NetBSD however, there is usually no netbsd.rd kernel installed, or even available by default. The facility is there, it’s just not standard. To be fair, there are a number of architectures that use kernels with a ramdisk for installation. Recently, I have been toying with NetBSD on an Orange Pi 5. This is a 64-bit ARM board, using the evbarm-aarch64 architecture. I am booting from an SD card (details in a followup post) but once booted, the kernel does not see the card any more, only the NVMe SSD. So my thoughts went back to bsd.rd and I decided that I want one! Such a kernel seems like a very useful tool to have, so if you&#8217;re running NetBSD &#8211; this guide will help you add it to your toolbox.
 
-<https://www.osnews.com/story/137929/building-a-netbsd-ramdisk-kernel/>
+<span>
+<a href="https://www.osnews.com/story/137929/building-a-netbsd-ramdisk-kernel/">https://www.osnews.com/story/137929/building-a-netbsd-ramdisk-kernel/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137929/building-a-netbsd-ramdisk-kernel/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1046,9 +1585,13 @@ When I used OpenBSD, I was a big fan of bsd.rd: a kernel that includes a root fi
 
 date: 2023-11-27, from: Michael Tsai
 
-Howard Oakley: For the first ten years of Mac OS X, its closest substitute was Single User Mode, or SUM, entered by starting the Mac up with the Command and S keys held down. OS X then booted into the command line, where you could for example repair your startup volume[&#8230;] [&#8230;] With Mac OS [&#8230;] 
+Howard Oakley: For the first ten years of Mac OS X, its closest substitute was Single User Mode, or SUM, entered by starting the Mac up with the Command and S keys held down. OS X then booted into the command line, where you could for example repair your startup volume[&#8230;] [&#8230;] With Mac OS [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/27/a-short-history-of-recovery-in-macos/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/27/a-short-history-of-recovery-in-macos/">https://mjtsai.com/blog/2023/11/27/a-short-history-of-recovery-in-macos/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/27/a-short-history-of-recovery-in-macos/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1056,9 +1599,13 @@ Howard Oakley: For the first ten years of Mac OS X, its closest substitute was S
 
 date: 2023-11-27, from: Michael Tsai
 
-David Rutland (via Hacker News): If you&#8217;ve spent your hard earned cash supporting independent artists through Bandcamp, a series of ownership changes and layoffs suggest that now might be the best time for audiophiles to download their audio files to secure offline storage.[&#8230;]According to Aftermath, Bandcamp is a mess right now, with most of the [&#8230;] 
+David Rutland (via Hacker News): If you&#8217;ve spent your hard earned cash supporting independent artists through Bandcamp, a series of ownership changes and layoffs suggest that now might be the best time for audiophiles to download their audio files to secure offline storage.[&#8230;]According to Aftermath, Bandcamp is a mess right now, with most of the [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/27/time-to-back-up-bandcamp/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/27/time-to-back-up-bandcamp/">https://mjtsai.com/blog/2023/11/27/time-to-back-up-bandcamp/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/27/time-to-back-up-bandcamp/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1066,9 +1613,13 @@ David Rutland (via Hacker News): If you&#8217;ve spent your hard earned cash sup
 
 date: 2023-11-27, from: Michael Tsai
 
-Sam Rowlands: Since 1998, I&#8217;ve built every single Mac app with the Xojo development tool (Aka Real Studio and REALbasic).Over the last &#xBE; of a decade, Xojo started ignoring bugs, feature requests and industry trends. New features felt rushed, incomplete and sometimes unusable. Dark mode support and concurrency are two prime examples. Something is clearly [&#8230;] 
+Sam Rowlands: Since 1998, I&#8217;ve built every single Mac app with the Xojo development tool (Aka Real Studio and REALbasic).Over the last &#xBE; of a decade, Xojo started ignoring bugs, feature requests and industry trends. New features felt rushed, incomplete and sometimes unusable. Dark mode support and concurrency are two prime examples. Something is clearly [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/27/moving-on-from-xojo/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/27/moving-on-from-xojo/">https://mjtsai.com/blog/2023/11/27/moving-on-from-xojo/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/27/moving-on-from-xojo/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1076,9 +1627,13 @@ Sam Rowlands: Since 1998, I&#8217;ve built every single Mac app with the Xojo de
 
 date: 2023-11-27, from: Michael Tsai
 
-Adamya Sharma: The ongoing Google vs. Epic trial has brought out another interesting piece of information. As per testimony presented by Epic Games (via Bloomberg), Google paid Samsung $8 billion over a period of four years to keep Search, Assistant, and Play Store as default services on Samsung phones.[&#8230;]One internal document also shows how Google [&#8230;] 
+Adamya Sharma: The ongoing Google vs. Epic trial has brought out another interesting piece of information. As per testimony presented by Epic Games (via Bloomberg), Google paid Samsung $8 billion over a period of four years to keep Search, Assistant, and Play Store as default services on Samsung phones.[&#8230;]One internal document also shows how Google [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/27/google-pays-to-be-default-on-samsung-phones/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/27/google-pays-to-be-default-on-samsung-phones/">https://mjtsai.com/blog/2023/11/27/google-pays-to-be-default-on-samsung-phones/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/27/google-pays-to-be-default-on-samsung-phones/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1086,9 +1641,13 @@ Adamya Sharma: The ongoing Google vs. Epic trial has brought out another interes
 
 date: 2023-11-27, from: Michael Tsai
 
-Richard Speed (via Hacker News): A jury has sided with Computer Sciences Corporation (CSC) against Tata Consultancy Services (TCS) over the theft of source code and documentation. A total of $210 million was this week awarded.According to the verdict [PDF], a Texas jury agreed that TCS had &#8220;willfully and maliciously&#8221; misappropriated both source and confidential [&#8230;] 
+Richard Speed (via Hacker News): A jury has sided with Computer Sciences Corporation (CSC) against Tata Consultancy Services (TCS) over the theft of source code and documentation. A total of $210 million was this week awarded.According to the verdict [PDF], a Texas jury agreed that TCS had &#8220;willfully and maliciously&#8221; misappropriated both source and confidential [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/27/tata-code-theft/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/27/tata-code-theft/">https://mjtsai.com/blog/2023/11/27/tata-code-theft/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/27/tata-code-theft/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1096,9 +1655,13 @@ Richard Speed (via Hacker News): A jury has sided with Computer Sciences Corpora
 
 date: 2023-11-27, from: Tilde.news
 
-<p><a href="https://tilde.news/s/jqwwor/emacsconf_2023">Comments</a></p> 
+<p><a href="https://tilde.news/s/jqwwor/emacsconf_2023">Comments</a></p>
 
-<https://emacsconf.org/2023/>
+<span>
+<a href="https://emacsconf.org/2023/">https://emacsconf.org/2023/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://emacsconf.org/2023/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1106,9 +1669,13 @@ date: 2023-11-27, from: Tilde.news
 
 date: 2023-11-27, from: Om Malik blog
 
-…we have a generation that is growing up with modern computing interfaces. Instead, we are still pushing the “classic” models onto them. Why? If computing has to become modern, then we have to use modern models for everything.&#160; That’s me in May 2021. Amazon,&#160;according to the internet,&#160;is launching a $195 thin client computer that allows &#8230; 
+…we have a generation that is growing up with modern computing interfaces. Instead, we are still pushing the “classic” models onto them. Why? If computing has to become modern, then we have to use modern models for everything.&#160; That’s me in May 2021. Amazon,&#160;according to the internet,&#160;is launching a $195 thin client computer that allows &#8230;
 
-<https://om.co/2023/11/27/amazons-thin-client-wrong-idea-wrong-time-heres-why/>
+<span>
+<a href="https://om.co/2023/11/27/amazons-thin-client-wrong-idea-wrong-time-heres-why/">https://om.co/2023/11/27/amazons-thin-client-wrong-idea-wrong-time-heres-why/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://om.co/2023/11/27/amazons-thin-client-wrong-idea-wrong-time-heres-why/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1116,9 +1683,13 @@ date: 2023-11-27, from: Om Malik blog
 
 date: 2023-11-27, from: NASA breaking news
 
-Read this release in English here. El astronauta de la NASA Frank Rubio, quien batió récords con su reciente misión, es el presentador de un video con el primer tour narrado en español creado por la agencia del hogar de la humanidad en el espacio: la Estación Espacial Internacional. Rubio da la bienvenida al público [&#8230;] 
+Read this release in English here. El astronauta de la NASA Frank Rubio, quien batió récords con su reciente misión, es el presentador de un video con el primer tour narrado en español creado por la agencia del hogar de la humanidad en el espacio: la Estación Espacial Internacional. Rubio da la bienvenida al público [&#8230;]
 
-<https://www.nasa.gov/news-release/la-nasa-publica-el-primer-tour-en-espanol-de-la-estacion-espacial/>
+<span>
+<a href="https://www.nasa.gov/news-release/la-nasa-publica-el-primer-tour-en-espanol-de-la-estacion-espacial/">https://www.nasa.gov/news-release/la-nasa-publica-el-primer-tour-en-espanol-de-la-estacion-espacial/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/news-release/la-nasa-publica-el-primer-tour-en-espanol-de-la-estacion-espacial/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1126,9 +1697,13 @@ Read this release in English here. El astronauta de la NASA Frank Rubio, quien b
 
 date: 2023-11-27, from: NASA breaking news
 
-Lee esta nota de prensa en español aquí. Record-breaking NASA astronaut Frank Rubio provides the agency&#8217;s first Spanish-language video tour of humanity’s home in space – the International Space Station. Rubio welcomes the public aboard the microgravity science laboratory in a behind-the-scenes look at living and working in space recorded during his 371-day mission aboard [&#8230;] 
+Lee esta nota de prensa en español aquí. Record-breaking NASA astronaut Frank Rubio provides the agency&#8217;s first Spanish-language video tour of humanity’s home in space – the International Space Station. Rubio welcomes the public aboard the microgravity science laboratory in a behind-the-scenes look at living and working in space recorded during his 371-day mission aboard [&#8230;]
 
-<https://www.nasa.gov/news-release/nasa-releases-first-international-space-station-tour-in-spanish/>
+<span>
+<a href="https://www.nasa.gov/news-release/nasa-releases-first-international-space-station-tour-in-spanish/">https://www.nasa.gov/news-release/nasa-releases-first-international-space-station-tour-in-spanish/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/news-release/nasa-releases-first-international-space-station-tour-in-spanish/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1136,9 +1711,13 @@ Lee esta nota de prensa en español aquí. Record-breaking NASA astronaut Frank 
 
 date: 2023-11-27, updated: 2023-11-27, from: Deno blog
 
-Deno Deploy and Deno Subhosting was designed with security and tenant isolation in mind. Here's how it works. 
+Deno Deploy and Deno Subhosting was designed with security and tenant isolation in mind. Here's how it works.
 
-<https://deno.com/blog/subhosting-security-run-untrusted-code>
+<span>
+<a href="https://deno.com/blog/subhosting-security-run-untrusted-code">https://deno.com/blog/subhosting-security-run-untrusted-code</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://deno.com/blog/subhosting-security-run-untrusted-code">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1146,9 +1725,13 @@ Deno Deploy and Deno Subhosting was designed with security and tenant isolation 
 
 date: 2023-11-27, from: TidBITS blog
 
-<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2020/12/Default-Folder-X-5_5-icon.png" class="type:primaryImage wp-post-image" alt="Default Folder X 5.5 icon" decoding="async" srcset="https://tidbits.com/wp/../uploads/2020/12/Default-Folder-X-5_5-icon.png 1024w, https://tidbits.com/wp/../uploads/2020/12/Default-Folder-X-5_5-icon-640x640.png 640w, https://tidbits.com/wp/../uploads/2020/12/Default-Folder-X-5_5-icon-912x912.png 912w, https://tidbits.com/wp/../uploads/2020/12/Default-Folder-X-5_5-icon-550x550.png 550w, https://tidbits.com/wp/../uploads/2020/12/Default-Folder-X-5_5-icon-470x470.png 470w" sizes="(max-width: 96px) 100vw, 96px" /></figure>Brings bug fixes and improvements to the recently upgraded Open/Save dialog utility. ($39.95 new, free update, 17.3 MB, macOS 10.13+)<p style="margin-top: 3em"><a href="https://tidbits.com/2016/12/21/how-to-fix-connection-problems-with-the-airpods/"><picture><source srcset="https://tidbits.com/wp/../uploads/2018/04/TB-AirPods-ad-640x200.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2018/04/TB-AirPods-ad-1456x180.png" srcset="https://tidbits.com/wp/../uploads/2018/04/TB-AirPods-ad-1456x180.png 1456w, https://tidbits.com/wp/../uploads/2018/04/TB-AirPods-ad-1456x180-640x79.png 640w" alt="How to Fix Connection Problems with the AirPods"></picture></a></p> 
+<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2020/12/Default-Folder-X-5_5-icon.png" class="type:primaryImage wp-post-image" alt="Default Folder X 5.5 icon" decoding="async" srcset="https://tidbits.com/wp/../uploads/2020/12/Default-Folder-X-5_5-icon.png 1024w, https://tidbits.com/wp/../uploads/2020/12/Default-Folder-X-5_5-icon-640x640.png 640w, https://tidbits.com/wp/../uploads/2020/12/Default-Folder-X-5_5-icon-912x912.png 912w, https://tidbits.com/wp/../uploads/2020/12/Default-Folder-X-5_5-icon-550x550.png 550w, https://tidbits.com/wp/../uploads/2020/12/Default-Folder-X-5_5-icon-470x470.png 470w" sizes="(max-width: 96px) 100vw, 96px" /></figure>Brings bug fixes and improvements to the recently upgraded Open/Save dialog utility. ($39.95 new, free update, 17.3 MB, macOS 10.13+)<p style="margin-top: 3em"><a href="https://tidbits.com/2016/12/21/how-to-fix-connection-problems-with-the-airpods/"><picture><source srcset="https://tidbits.com/wp/../uploads/2018/04/TB-AirPods-ad-640x200.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2018/04/TB-AirPods-ad-1456x180.png" srcset="https://tidbits.com/wp/../uploads/2018/04/TB-AirPods-ad-1456x180.png 1456w, https://tidbits.com/wp/../uploads/2018/04/TB-AirPods-ad-1456x180-640x79.png 640w" alt="How to Fix Connection Problems with the AirPods"></picture></a></p>
 
-<https://tidbits.com/watchlist/default-folder-x-6-0-2/>
+<span>
+<a href="https://tidbits.com/watchlist/default-folder-x-6-0-2/">https://tidbits.com/watchlist/default-folder-x-6-0-2/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tidbits.com/watchlist/default-folder-x-6-0-2/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1156,9 +1739,13 @@ date: 2023-11-27, from: TidBITS blog
 
 date: 2023-11-27, from: TidBITS blog
 
-<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2022/09/Zoom-5_12-icon.png" class="type:primaryImage wp-post-image" alt="Zoom 5.12 icon" decoding="async" srcset="https://tidbits.com/wp/../uploads/2022/09/Zoom-5_12-icon.png 1024w, https://tidbits.com/wp/../uploads/2022/09/Zoom-5_12-icon-640x640.png 640w" sizes="(max-width: 96px) 100vw, 96px" /></figure>Changes the local storage duration for free accounts to one year. (Free, 119.2 MB, macOS 10.11+)<p style="margin-top: 3em"><a href="https://textexpander.com/individual?utm_campaign=2021-q4-tidbits&utm_medium=display&utm_source=tidbits&utm_content=tidbits-v11"><picture><source srcset="https://tidbits.com/wp/../uploads/2018/01/TextExpander-640-v11.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2018/01/TextExpander-1456-v11.png" srcset="https://tidbits.com/wp/../uploads/2018/01/TextExpander-1456-v11.png 1456w, https://tidbits.com/wp/../uploads/2018/01/TextExpander-1456-v11-640x79.png 640w" alt="TextExpander: Communicate Smarter. Try It For Free!"></picture></a></p> 
+<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2022/09/Zoom-5_12-icon.png" class="type:primaryImage wp-post-image" alt="Zoom 5.12 icon" decoding="async" srcset="https://tidbits.com/wp/../uploads/2022/09/Zoom-5_12-icon.png 1024w, https://tidbits.com/wp/../uploads/2022/09/Zoom-5_12-icon-640x640.png 640w" sizes="(max-width: 96px) 100vw, 96px" /></figure>Changes the local storage duration for free accounts to one year. (Free, 119.2 MB, macOS 10.11+)<p style="margin-top: 3em"><a href="https://textexpander.com/individual?utm_campaign=2021-q4-tidbits&utm_medium=display&utm_source=tidbits&utm_content=tidbits-v11"><picture><source srcset="https://tidbits.com/wp/../uploads/2018/01/TextExpander-640-v11.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2018/01/TextExpander-1456-v11.png" srcset="https://tidbits.com/wp/../uploads/2018/01/TextExpander-1456-v11.png 1456w, https://tidbits.com/wp/../uploads/2018/01/TextExpander-1456-v11-640x79.png 640w" alt="TextExpander: Communicate Smarter. Try It For Free!"></picture></a></p>
 
-<https://tidbits.com/watchlist/zoom-5-16-10/>
+<span>
+<a href="https://tidbits.com/watchlist/zoom-5-16-10/">https://tidbits.com/watchlist/zoom-5-16-10/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tidbits.com/watchlist/zoom-5-16-10/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1166,9 +1753,13 @@ date: 2023-11-27, from: TidBITS blog
 
 date: 2023-11-27, from: TidBITS blog
 
-<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2022/04/Agenda-14-icon.png" class="type:primaryImage wp-post-image" alt="Agenda 14 icon" decoding="async" loading="lazy" srcset="https://tidbits.com/wp/../uploads/2022/04/Agenda-14-icon.png 1024w, https://tidbits.com/wp/../uploads/2022/04/Agenda-14-icon-640x640.png 640w" sizes="(max-width: 96px) 100vw, 96px" /></figure>Adds support for grouping notes in projects and overviews by their Done status. (Free with a $34.99 Premium subscription or $119.99 one-time Premium purchase, free update for subscribers, 73 MB, macOS 10.14+)<p style="margin-top: 3em"><picture><source srcset="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-640x200_v1.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1.png" srcset="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1.png 1456w, https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1-640x79.png 640w" alt="Steve Jobs focusing on privacy at the 2003 launch of the iSight webcam with an integrated shutter… “Here's the shutter. Boom. You know, no peeping toms here.”"></picture></p> 
+<figure style="float:left; margin: 0 1.5em 1em 0;"><img width="96" height="96" src="https://tidbits.com/wp/../uploads/2022/04/Agenda-14-icon.png" class="type:primaryImage wp-post-image" alt="Agenda 14 icon" decoding="async" loading="lazy" srcset="https://tidbits.com/wp/../uploads/2022/04/Agenda-14-icon.png 1024w, https://tidbits.com/wp/../uploads/2022/04/Agenda-14-icon-640x640.png 640w" sizes="(max-width: 96px) 100vw, 96px" /></figure>Adds support for grouping notes in projects and overviews by their Done status. (Free with a $34.99 Premium subscription or $119.99 one-time Premium purchase, free update for subscribers, 73 MB, macOS 10.14+)<p style="margin-top: 3em"><picture><source srcset="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-640x200_v1.png" media="(max-width: 600px)" type="image/png"><img src="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1.png" srcset="https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1.png 1456w, https://tidbits.com/wp/../uploads/2020/07/Quote-iSight-ad-1456x180_v1-640x79.png 640w" alt="Steve Jobs focusing on privacy at the 2003 launch of the iSight webcam with an integrated shutter… “Here's the shutter. Boom. You know, no peeping toms here.”"></picture></p>
 
-<https://tidbits.com/watchlist/agenda-18-3/>
+<span>
+<a href="https://tidbits.com/watchlist/agenda-18-3/">https://tidbits.com/watchlist/agenda-18-3/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tidbits.com/watchlist/agenda-18-3/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1217,9 +1808,13 @@ date: 2023-11-27, from: Alex Schroeder's Blog
 
 <p>Die Portale in andere Welten beziehen sich natürlich auf die <a href="2023-11-21-kosmologie">Kosmologie</a>. Die <a href="2023-11-18-magische-waffen">magischen Waffen</a> wurden auch schon besprochen.</p>
 
-<p><a class="tag" href="/search/?q=%23RSP">#RSP</a> <a class="tag" href="/search/?q=%23Horte">#Horte</a></p> 
+<p><a class="tag" href="/search/?q=%23RSP">#RSP</a> <a class="tag" href="/search/?q=%23Horte">#Horte</a></p>
 
-<https://alexschroeder.ch/view/2023-11-27-schatzkarten>
+<span>
+<a href="https://alexschroeder.ch/view/2023-11-27-schatzkarten">https://alexschroeder.ch/view/2023-11-27-schatzkarten</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://alexschroeder.ch/view/2023-11-27-schatzkarten">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1227,9 +1822,13 @@ date: 2023-11-27, from: Alex Schroeder's Blog
 
 date: 2023-11-27, from: NASA breaking news
 
-NASA kicks off its annual Antarctic Long Duration Balloon Campaign around Dec. 1, which includes three scientific balloon flights planned for launch from the long-duration balloon (LDB) Camp near McMurdo Station, Antarctica. NASA’s stadium-sized, zero-pressure balloons will support a total of five missions on the long-duration flights with one mission vying to break NASA’s heavy-lift, [&#8230;] 
+NASA kicks off its annual Antarctic Long Duration Balloon Campaign around Dec. 1, which includes three scientific balloon flights planned for launch from the long-duration balloon (LDB) Camp near McMurdo Station, Antarctica. NASA’s stadium-sized, zero-pressure balloons will support a total of five missions on the long-duration flights with one mission vying to break NASA’s heavy-lift, [&#8230;]
 
-<https://www.nasa.gov/missions/scientific-balloons/nasa-scientific-balloons-ready-for-flights-over-antarctica/>
+<span>
+<a href="https://www.nasa.gov/missions/scientific-balloons/nasa-scientific-balloons-ready-for-flights-over-antarctica/">https://www.nasa.gov/missions/scientific-balloons/nasa-scientific-balloons-ready-for-flights-over-antarctica/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nasa.gov/missions/scientific-balloons/nasa-scientific-balloons-ready-for-flights-over-antarctica/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1238,9 +1837,13 @@ NASA kicks off its annual Antarctic Long Duration Balloon Campaign around Dec. 1
 date: 2023-11-27, updated: 2023-11-27, from: Liam Proven's articles at the Register
 
 <h4>Check if file block cloning is on and disable it – or upgrade to 2.2.1 ASAP</h4>
-      <p>A data-destroying bug has been discovered in a new feature of OpenZFS 2.2.0, as found in FreeBSD 14 among other OSes.</p> 
+      <p>A data-destroying bug has been discovered in a new feature of OpenZFS 2.2.0, as found in FreeBSD 14 among other OSes.</p>
 
-<https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/27/bug_openzfs_2_2_0/>
+<span>
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/27/bug_openzfs_2_2_0/">https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/27/bug_openzfs_2_2_0/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/27/bug_openzfs_2_2_0/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1249,9 +1852,13 @@ date: 2023-11-27, updated: 2023-11-27, from: Liam Proven's articles at the Regis
 date: 2023-11-27, updated: 2023-11-27, from: Liam Proven's articles at the Register
 
 <h4><span class="label">Updated</span> Earlier and later versions may be affected – worth your while reading the advisories</h4>
-      <p>A data-destroying bug has been discovered following the release of OpenZFS 2.2.0 as found in FreeBSD 14 among other OSes.</p> 
+      <p>A data-destroying bug has been discovered following the release of OpenZFS 2.2.0 as found in FreeBSD 14 among other OSes.</p>
 
-<https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/27/openzfs_2_2_0_data_corruption/>
+<span>
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/27/openzfs_2_2_0_data_corruption/">https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/27/openzfs_2_2_0_data_corruption/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2023/11/27/openzfs_2_2_0_data_corruption/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1260,9 +1867,13 @@ date: 2023-11-27, updated: 2023-11-27, from: Liam Proven's articles at the Regis
 date: 2023-11-27, updated: 2023-11-23, from: Bruce Schneier blog
 
 <p>There seems to be no end to <a href="https://www.wired.com/story/hemisphere-das-white-house-surveillance-trillions-us-call-records/">warrantless surveillance</a>:</p>
-<blockquote><p>According to the letter, a surveillance program now known as Data Analytical Services (DAS) has for more than a decade allowed federal, state, and local law enforcement agencies to mine the details of Americans’ calls, analyzing the phone records of countless people who are not suspected of any crime, including victims. Using a technique known as chain analysis, the program targets not only those in direct phone contact with a criminal suspect but anyone with whom those individuals have been in contact as well...</p></blockquote> 
+<blockquote><p>According to the letter, a surveillance program now known as Data Analytical Services (DAS) has for more than a decade allowed federal, state, and local law enforcement agencies to mine the details of Americans’ calls, analyzing the phone records of countless people who are not suspected of any crime, including victims. Using a technique known as chain analysis, the program targets not only those in direct phone contact with a criminal suspect but anyone with whom those individuals have been in contact as well...</p></blockquote>
 
-<https://www.schneier.com/blog/archives/2023/11/secret-white-house-warrantless-surveillance-program.html>
+<span>
+<a href="https://www.schneier.com/blog/archives/2023/11/secret-white-house-warrantless-surveillance-program.html">https://www.schneier.com/blog/archives/2023/11/secret-white-house-warrantless-surveillance-program.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.schneier.com/blog/archives/2023/11/secret-white-house-warrantless-surveillance-program.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1270,9 +1881,13 @@ date: 2023-11-27, updated: 2023-11-23, from: Bruce Schneier blog
 
 date: 2023-11-27, from: Tilde.news
 
-<p><a href="https://tilde.news/s/cgipsv/workings_stationery_pad_2011">Comments</a></p> 
+<p><a href="https://tilde.news/s/cgipsv/workings_stationery_pad_2011">Comments</a></p>
 
-<https://www.macworld.com/article/213733/stationary-pad.html>
+<span>
+<a href="https://www.macworld.com/article/213733/stationary-pad.html">https://www.macworld.com/article/213733/stationary-pad.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.macworld.com/article/213733/stationary-pad.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1280,9 +1895,13 @@ date: 2023-11-27, from: Tilde.news
 
 date: 2023-11-27, from: Howard Jacobson blog
 
-Streetwalking with Howard Jacobson is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber. 
+Streetwalking with Howard Jacobson is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
 
-<https://jacobsonh.substack.com/p/a-conversation-about-writing>
+<span>
+<a href="https://jacobsonh.substack.com/p/a-conversation-about-writing">https://jacobsonh.substack.com/p/a-conversation-about-writing</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://jacobsonh.substack.com/p/a-conversation-about-writing">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1292,9 +1911,13 @@ date: 2023-11-27, from: Raspberry Pi (.org)
 
 <p>How do you best teach programming in school? It&#8217;s one of the core questions for primary and secondary computing teachers. That&#8217;s why we&#8217;re making it the focus of our free online seminars in 2024. You&#8217;re invited to attend and hear about the newest research about the teaching and learning of programming, with or without AI&#8230;</p>
 <p>The post <a href="https://www.raspberrypi.org/blog/teaching-programming-ai-seminar-series-2024/">Spotlight on teaching programming with and without AI in our 2024 seminar series</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
- 
 
-<https://www.raspberrypi.org/blog/teaching-programming-ai-seminar-series-2024/>
+
+<span>
+<a href="https://www.raspberrypi.org/blog/teaching-programming-ai-seminar-series-2024/">https://www.raspberrypi.org/blog/teaching-programming-ai-seminar-series-2024/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.raspberrypi.org/blog/teaching-programming-ai-seminar-series-2024/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1304,9 +1927,13 @@ date: 2023-11-27, from: Raspberry Pi News (.com)
 
 <p>Here’s a selection of some of the awesome things we got sent this month – and remember to follow along at the hashtag #MagPiMonday!</p>
 <p>The post <a href="https://www.raspberrypi.com/news/its-magpimonday-show-us-your-makes/">It&#8217;s #MagPiMonday, show us your makes</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
- 
 
-<https://www.raspberrypi.com/news/its-magpimonday-show-us-your-makes/>
+
+<span>
+<a href="https://www.raspberrypi.com/news/its-magpimonday-show-us-your-makes/">https://www.raspberrypi.com/news/its-magpimonday-show-us-your-makes/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.raspberrypi.com/news/its-magpimonday-show-us-your-makes/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1314,9 +1941,13 @@ date: 2023-11-27, from: Raspberry Pi News (.com)
 
 date: 2023-11-27, from: Michael Tsai
 
-Jeff Johnson: I&#8217;ve recently run into a case that seems to call into question all extant sample code for Mac App Store receipt validation. [&#8230;] I learned that the ethernet port of the customer&#8217;s Mac was fried as a result of electrical damage from a lightning strike. The Mac&#8217;s motherboard was replaced, but afterward the [&#8230;] 
+Jeff Johnson: I&#8217;ve recently run into a case that seems to call into question all extant sample code for Mac App Store receipt validation. [&#8230;] I learned that the ethernet port of the customer&#8217;s Mac was fried as a result of electrical damage from a lightning strike. The Mac&#8217;s motherboard was replaced, but afterward the [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/26/receipt-validation-with-all-the-ethernet-interfaces/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/26/receipt-validation-with-all-the-ethernet-interfaces/">https://mjtsai.com/blog/2023/11/26/receipt-validation-with-all-the-ethernet-interfaces/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/26/receipt-validation-with-all-the-ethernet-interfaces/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1324,9 +1955,13 @@ Jeff Johnson: I&#8217;ve recently run into a case that seems to call into questi
 
 date: 2023-11-27, from: Michael Tsai
 
-Mariella Moon (via Hacker News): NVIDIA is facing a lawsuit filed by French automotive company Valeo after a screensharing blunder by one of its employees. According to Valeo&#8217;s complaint, Mohammad Moniruzzaman, an engineer for NVIDIA who used to work for its company, had mistakenly showed its source code files on his computer as he was [&#8230;] 
+Mariella Moon (via Hacker News): NVIDIA is facing a lawsuit filed by French automotive company Valeo after a screensharing blunder by one of its employees. According to Valeo&#8217;s complaint, Mohammad Moniruzzaman, an engineer for NVIDIA who used to work for its company, had mistakenly showed its source code files on his computer as he was [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/26/nvidia-sued-for-stealing-trade-secrets/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/26/nvidia-sued-for-stealing-trade-secrets/">https://mjtsai.com/blog/2023/11/26/nvidia-sued-for-stealing-trade-secrets/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/26/nvidia-sued-for-stealing-trade-secrets/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1334,9 +1969,13 @@ Mariella Moon (via Hacker News): NVIDIA is facing a lawsuit filed by French auto
 
 date: 2023-11-27, from: Michael Tsai
 
-Bruce Schneier: Jake Appelbaum&#8217;s PhD thesis contains several new revelations from the classified NSA documents provided to journalists by Edward Snowden. Stefania Maurizi: Communication in a world of pervasive surveillance is a public document and has been downloaded over 18,000 times since March 2022 when it was first published.[&#8230;]In 2013, Jacob Appelbaum published a remarkable [&#8230;] 
+Bruce Schneier: Jake Appelbaum&#8217;s PhD thesis contains several new revelations from the classified NSA documents provided to journalists by Edward Snowden. Stefania Maurizi: Communication in a world of pervasive surveillance is a public document and has been downloaded over 18,000 times since March 2022 when it was first published.[&#8230;]In 2013, Jacob Appelbaum published a remarkable [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/26/cavium-networking-hardware-may-contain-backdoor/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/26/cavium-networking-hardware-may-contain-backdoor/">https://mjtsai.com/blog/2023/11/26/cavium-networking-hardware-may-contain-backdoor/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/26/cavium-networking-hardware-may-contain-backdoor/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1344,9 +1983,13 @@ Bruce Schneier: Jake Appelbaum&#8217;s PhD thesis contains several new revelatio
 
 date: 2023-11-27, from: Michael Tsai
 
-Dell Cameron and Dhruv Mehrotra (Hacker News): A little-known surveillance program tracks more than a trillion domestic phone records within the United States each year, according to a letter Wired obtained that was sent by US senator Ron Wyden to the Department of Justice (DOJ) on Sunday, challenging the program&#8217;s legality. According to the letter, [&#8230;] 
+Dell Cameron and Dhruv Mehrotra (Hacker News): A little-known surveillance program tracks more than a trillion domestic phone records within the United States each year, according to a letter Wired obtained that was sent by US senator Ron Wyden to the Department of Justice (DOJ) on Sunday, challenging the program&#8217;s legality. According to the letter, [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/26/data-analytical-services-das/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/26/data-analytical-services-das/">https://mjtsai.com/blog/2023/11/26/data-analytical-services-das/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/26/data-analytical-services-das/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1354,9 +1997,13 @@ Dell Cameron and Dhruv Mehrotra (Hacker News): A little-known surveillance progr
 
 date: 2023-11-27, from: Michael Tsai
 
-Jon Miltimore (Hacker News): &#8220;Marketed to Congress as a benign tool to help prevent drunk driving, the measure will mandate that automobile manufacturers build into every car what amounts to a &#8216;vehicle kill switch,&#8217;&#8221; wrote Barr, who was the Libertarian Party&#8217;s nominee for president in 2008.[&#8230;]To my relief, I saw several fact-checkers at legacy institutions [&#8230;] 
+Jon Miltimore (Hacker News): &#8220;Marketed to Congress as a benign tool to help prevent drunk driving, the measure will mandate that automobile manufacturers build into every car what amounts to a &#8216;vehicle kill switch,&#8217;&#8221; wrote Barr, who was the Libertarian Party&#8217;s nominee for president in 2008.[&#8230;]To my relief, I saw several fact-checkers at legacy institutions [&#8230;]
 
-<https://mjtsai.com/blog/2023/11/26/section-24220-advanced-impaired-driving-technology/>
+<span>
+<a href="https://mjtsai.com/blog/2023/11/26/section-24220-advanced-impaired-driving-technology/">https://mjtsai.com/blog/2023/11/26/section-24220-advanced-impaired-driving-technology/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mjtsai.com/blog/2023/11/26/section-24220-advanced-impaired-driving-technology/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1364,9 +2011,13 @@ Jon Miltimore (Hacker News): &#8220;Marketed to Congress as a benign tool to hel
 
 date: 2023-11-27, from: OS News
 
-NTDEV, the developer behind Tiny11, has released a new update for its miniature Windows 11 operating system, called Tiny11 2311, that adds Microsoft&#8217;s latest feature update, 23H2, into the OS and introduces a plethora of bug fixes addressing issues in the outgoing version of Tiny11. On top of this, the new update also shrinks Tiny11&#8217;s install size by a whopping 20%, making Tiny11&#8217;s renowned footprint even smaller. There is absolutely no need for Windows 11 to be as big and invasive as it is, and it feels like such a shame and missed opportunity to burden an otherwise good and capable operating system with such cruft and useless junk. 
+NTDEV, the developer behind Tiny11, has released a new update for its miniature Windows 11 operating system, called Tiny11 2311, that adds Microsoft&#8217;s latest feature update, 23H2, into the OS and introduces a plethora of bug fixes addressing issues in the outgoing version of Tiny11. On top of this, the new update also shrinks Tiny11&#8217;s install size by a whopping 20%, making Tiny11&#8217;s renowned footprint even smaller. There is absolutely no need for Windows 11 to be as big and invasive as it is, and it feels like such a shame and missed opportunity to burden an otherwise good and capable operating system with such cruft and useless junk.
 
-<https://www.osnews.com/story/137927/super-tiny-windows-11-os-gets-a-big-update-tiny11-2311-shrinks-20-and-allows-cumulative-updates/>
+<span>
+<a href="https://www.osnews.com/story/137927/super-tiny-windows-11-os-gets-a-big-update-tiny11-2311-shrinks-20-and-allows-cumulative-updates/">https://www.osnews.com/story/137927/super-tiny-windows-11-os-gets-a-big-update-tiny11-2311-shrinks-20-and-allows-cumulative-updates/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137927/super-tiny-windows-11-os-gets-a-big-update-tiny11-2311-shrinks-20-and-allows-cumulative-updates/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1374,9 +2025,13 @@ NTDEV, the developer behind Tiny11, has released a new update for its miniature 
 
 date: 2023-11-27, from: Gary Marcus blog
 
-Three top ML researchers, a leading physicist, and a former French Minister, at each other&#8217;s throats 
+Three top ML researchers, a leading physicist, and a former French Minister, at each other&#8217;s throats
 
-<https://garymarcus.substack.com/p/hinton-vs-lecun-vs-ng-vs-tegmark>
+<span>
+<a href="https://garymarcus.substack.com/p/hinton-vs-lecun-vs-ng-vs-tegmark">https://garymarcus.substack.com/p/hinton-vs-lecun-vs-ng-vs-tegmark</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://garymarcus.substack.com/p/hinton-vs-lecun-vs-ng-vs-tegmark">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1384,9 +2039,13 @@ Three top ML researchers, a leading physicist, and a former French Minister, at 
 
 date: 2023-11-27, from: John Naughton's online diary
 
-Ce n’est pas une fenêtre Intriguing feature on an internal wall of St Mary’s Church, Cong, Co Mayo. With apologies to René Magritte. Quote of the Day &#8220;A guy walks into a pub with a lump of asphalt on his &#8230; <a href="https://memex.naughtons.org/monday-27-november-2023/38849/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+Ce n’est pas une fenêtre Intriguing feature on an internal wall of St Mary’s Church, Cong, Co Mayo. With apologies to René Magritte. Quote of the Day &#8220;A guy walks into a pub with a lump of asphalt on his &#8230; <a href="https://memex.naughtons.org/monday-27-november-2023/38849/">Continue reading <span class="meta-nav">&#8594;</span></a>
 
-<https://memex.naughtons.org/monday-27-november-2023/38849/>
+<span>
+<a href="https://memex.naughtons.org/monday-27-november-2023/38849/">https://memex.naughtons.org/monday-27-november-2023/38849/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://memex.naughtons.org/monday-27-november-2023/38849/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1394,9 +2053,13 @@ Ce n’est pas une fenêtre Intriguing feature on an internal wall of St Mary’
 
 date: 2023-11-27, from: ETH Zurich, recently added
 
-Bedarf, Patrick; Szabo, Anna; Zanini, Michele; Dillenburger, Benjamin 
+Bedarf, Patrick; Szabo, Anna; Zanini, Michele; Dillenburger, Benjamin
 
-<http://hdl.handle.net/20.500.11850/644343>
+<span>
+<a href="http://hdl.handle.net/20.500.11850/644343">http://hdl.handle.net/20.500.11850/644343</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://hdl.handle.net/20.500.11850/644343">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1405,9 +2068,13 @@ Bedarf, Patrick; Szabo, Anna; Zanini, Michele; Dillenburger, Benjamin
 date: 2023-11-26, from: Manu - I write blog
 
 <p>In a <a href="https://manuelmoreale.com/on-creating-beautiful-things">recent post</a> I mentioned that I am a <em>sucker for signed books and limited editions</em>. The reason for that has nothing to do with the uniqueness of a signed object or its potential extra monetary value. Those are all aspects that have no meaning to me. The reason why I love signed books it’s the same reason why I love handmade objects: the human connection. Knowing that someone picked up that book and took a second to open it up and sign it adds that extra something that makes my brain happy.</p>
-<p>And in a world that’s more and more digital and artificial, I think these small human touches are going to become increasingly more valuable.</p> 
+<p>And in a world that’s more and more digital and artificial, I think these small human touches are going to become increasingly more valuable.</p>
 
-<https://manuelmoreale.com/@/page/YqoFoAVtjeJDQf3V>
+<span>
+<a href="https://manuelmoreale.com/@/page/YqoFoAVtjeJDQf3V">https://manuelmoreale.com/@/page/YqoFoAVtjeJDQf3V</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://manuelmoreale.com/@/page/YqoFoAVtjeJDQf3V">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1415,9 +2082,13 @@ date: 2023-11-26, from: Manu - I write blog
 
 date: 2023-11-26, from: OS News
 
-After I wrote about the possibility of programmable Mac ROM SIMMs in Quadras a couple of months ago, I suspected that there had been a way for developers at Apple in the 68k Mac era to reflash the ROM in their Macs during development, just like BIOS updates on PCs. The reason I believed this is because the ROM SIMM socket in the Quadras brought out pins for 12V (VPP) and write enable (/WE). I had verified that the write enable pin was going into the memory controller chip in several Mac models, so I was pretty confident that in-system programming was possible. As luck would have it, multiple people pointed out to me that an Apple internal utility used for ROM flashing had been uploaded to the Macintosh Garden. It was recovered from a prototype PowerBook 520 purchased in 2020. Of course, I had to download this utility and figure out how it works. I honestly cannot believe it&#8217;s taken this long for such a tool to become available one way or the other. Classic Macs are incredibly popular in the retro community, and being able to reflash the ROMs like this is incredibly useful. It took some work and disassembly, but Doug Brown got it working. 
+After I wrote about the possibility of programmable Mac ROM SIMMs in Quadras a couple of months ago, I suspected that there had been a way for developers at Apple in the 68k Mac era to reflash the ROM in their Macs during development, just like BIOS updates on PCs. The reason I believed this is because the ROM SIMM socket in the Quadras brought out pins for 12V (VPP) and write enable (/WE). I had verified that the write enable pin was going into the memory controller chip in several Mac models, so I was pretty confident that in-system programming was possible. As luck would have it, multiple people pointed out to me that an Apple internal utility used for ROM flashing had been uploaded to the Macintosh Garden. It was recovered from a prototype PowerBook 520 purchased in 2020. Of course, I had to download this utility and figure out how it works. I honestly cannot believe it&#8217;s taken this long for such a tool to become available one way or the other. Classic Macs are incredibly popular in the retro community, and being able to reflash the ROMs like this is incredibly useful. It took some work and disassembly, but Doug Brown got it working.
 
-<https://www.osnews.com/story/137924/how-apples-developers-reflashed-mac-roms-in-the-90s/>
+<span>
+<a href="https://www.osnews.com/story/137924/how-apples-developers-reflashed-mac-roms-in-the-90s/">https://www.osnews.com/story/137924/how-apples-developers-reflashed-mac-roms-in-the-90s/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137924/how-apples-developers-reflashed-mac-roms-in-the-90s/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1425,17 +2096,25 @@ After I wrote about the possibility of programmable Mac ROM SIMMs in Quadras a c
 
 date: 2023-11-26, from: Computer ads from the Past
 
-Help direct the future of Computer Ads from the Past. 
+Help direct the future of Computer Ads from the Past.
 
-<https://computeradsfromthepast.substack.com/p/which-ads-should-i-look-for>
+<span>
+<a href="https://computeradsfromthepast.substack.com/p/which-ads-should-i-look-for">https://computeradsfromthepast.substack.com/p/which-ads-should-i-look-for</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://computeradsfromthepast.substack.com/p/which-ads-should-i-look-for">Save to Pocket</a>
+</span>
 
 ---
 
 **@Miguel de Icaza Mastondon feed** (date: 2023-11-26, from: Miguel de Icaza Mastondon feed)
 
-<p>Join the Mac Gaming Revolution, via <span class="h-card" translate="no"><a href="https://mastodon.social/@ij_baird" class="u-url mention">@<span>ij_baird</span></a></span> - a native Mac shell to Wine and Apple’s game porting toolkit:</p><p><a href="https://getwhisky.app" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="">getwhisky.app</span><span class="invisible"></span></a></p> 
+<p>Join the Mac Gaming Revolution, via <span class="h-card" translate="no"><a href="https://mastodon.social/@ij_baird" class="u-url mention">@<span>ij_baird</span></a></span> - a native Mac shell to Wine and Apple’s game porting toolkit:</p><p><a href="https://getwhisky.app" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="">getwhisky.app</span><span class="invisible"></span></a></p>
 
-<https://mastodon.social/@Migueldeicaza/111478679981466339>
+<span>
+<a href="https://mastodon.social/@Migueldeicaza/111478679981466339">https://mastodon.social/@Migueldeicaza/111478679981466339</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://mastodon.social/@Migueldeicaza/111478679981466339">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1443,9 +2122,13 @@ Help direct the future of Computer Ads from the Past.
 
 date: 2023-11-26, from: OS News
 
-Debian&#8217;s MIPS64EL that is a 64-bit little endian port using the N64 ABI is at risk due to declining access for building the Debian 64-bit MIPS packages. MIPS64EL is now being treated as an &#8220;out of sync&#8221; architecture due to lacking sufficient build daemon resources for timely building new packages and if the situation doesn&#8217;t improve, it may not be suitable as a release architecture for Debian 13 &#8220;Trixie&#8221;. Not all architectures last forever, and as time goes on, more and more of these once promising architectures will simply no longer be part of the modern Linux world. It makes sense &#8211; but it&#8217;s still sad. 
+Debian&#8217;s MIPS64EL that is a 64-bit little endian port using the N64 ABI is at risk due to declining access for building the Debian 64-bit MIPS packages. MIPS64EL is now being treated as an &#8220;out of sync&#8221; architecture due to lacking sufficient build daemon resources for timely building new packages and if the situation doesn&#8217;t improve, it may not be suitable as a release architecture for Debian 13 &#8220;Trixie&#8221;. Not all architectures last forever, and as time goes on, more and more of these once promising architectures will simply no longer be part of the modern Linux world. It makes sense &#8211; but it&#8217;s still sad.
 
-<https://www.osnews.com/story/137921/debians-mips64el-cpu-port-is-at-risk-due-to-declining-hardware-access/>
+<span>
+<a href="https://www.osnews.com/story/137921/debians-mips64el-cpu-port-is-at-risk-due-to-declining-hardware-access/">https://www.osnews.com/story/137921/debians-mips64el-cpu-port-is-at-risk-due-to-declining-hardware-access/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137921/debians-mips64el-cpu-port-is-at-risk-due-to-declining-hardware-access/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1453,33 +2136,49 @@ Debian&#8217;s MIPS64EL that is a 64-bit little endian port using the N64 ABI is
 
 date: 2023-11-26, from: OS News
 
-Ironically, the second commercial game that Microsoft published, after Microsoft Adventure in 1979, was an attempt at a sports game sim. It was called Microsoft Olympic Decathlon, and like Microsoft Adventure, it was first launched as a TRS-80 PC game, this time in 1980. Microsoft has so many unexpected products in its long history. 
+Ironically, the second commercial game that Microsoft published, after Microsoft Adventure in 1979, was an attempt at a sports game sim. It was called Microsoft Olympic Decathlon, and like Microsoft Adventure, it was first launched as a TRS-80 PC game, this time in 1980. Microsoft has so many unexpected products in its long history.
 
-<https://www.osnews.com/story/137919/a-quick-look-back-at-microsofts-first-sports-video-game-microsoft-olympic-decathlon/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2023-11-26, from: Dave Winer's Scripting News)
-
-<a href="https://imgs.scripting.com/2023/11/26/screenShotScriptingNewsPrototype.png">Screen shot</a> of the latest prototype for the new Scripting News home page. It does the job I wanted it to do, presents in one user interface the content of my blog, linkblog, and several timelines from FeedLand. The previous version had the tab links <a href="http://scripting.com/2023/11/24/190107.html">down the left edge</a>. I loved the way it looked on my desktop system, but then I tried it on my iPad, and realized it didn't work. Not enough horizonal real estate to pull it off. So I went back to the tabs-across-the-top format. I had to drop one of the tabs, and not use the nice Font-Awesome icons I used previously on Scripting News when there was <a href="https://imgs.scripting.com/2023/11/26/currentScriptingHome.png">plenty of room</a>. The page is entirely assembled when you load it, so it only works with JavaScript turned on. 
-
-<http://scripting.com/2023/11/26.html#a165916>
+<span>
+<a href="https://www.osnews.com/story/137919/a-quick-look-back-at-microsofts-first-sports-video-game-microsoft-olympic-decathlon/">https://www.osnews.com/story/137919/a-quick-look-back-at-microsofts-first-sports-video-game-microsoft-olympic-decathlon/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.osnews.com/story/137919/a-quick-look-back-at-microsofts-first-sports-video-game-microsoft-olympic-decathlon/">Save to Pocket</a>
+</span>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2023-11-26, from: Dave Winer's Scripting News)
 
-<a href="https://colinwalker.blog/blog/?date=2023-11-26#p1">Colin Walker wonders</a> if he should try <a href="https://bsky.app/">Bluesky</a>. I say yes. At first I was pretty negative, after the implosion of Twitter, here was another <a href="https://en.wikipedia.org/wiki/Jack_Dorsey">Jack Dorsey</a> network. I wasn't in the mood. But eventually I tried it, and I liked it very much. The mood is civil and often artistic. There are some very creative people there. And I think the API, while it's <a href="https://chat.openai.com/share/892d671e-1dc9-4ffc-9101-cadbca842adc">inscrutable</a> to me, is understandable to developers who put their minds to it, and I expect Colin is one who will figure it out. And I don't think there's any hope of ActivityPub, it's far too underspecified, and interop is likely to be product-based, not based on the protocol, where the Bluesky protocol appears to be overly-well-thought-out, or maybe the docs could have more examples. I didn't have the time to dive into it when I looked. 
+<a href="https://imgs.scripting.com/2023/11/26/screenShotScriptingNewsPrototype.png">Screen shot</a> of the latest prototype for the new Scripting News home page. It does the job I wanted it to do, presents in one user interface the content of my blog, linkblog, and several timelines from FeedLand. The previous version had the tab links <a href="http://scripting.com/2023/11/24/190107.html">down the left edge</a>. I loved the way it looked on my desktop system, but then I tried it on my iPad, and realized it didn't work. Not enough horizonal real estate to pull it off. So I went back to the tabs-across-the-top format. I had to drop one of the tabs, and not use the nice Font-Awesome icons I used previously on Scripting News when there was <a href="https://imgs.scripting.com/2023/11/26/currentScriptingHome.png">plenty of room</a>. The page is entirely assembled when you load it, so it only works with JavaScript turned on.
 
-<http://scripting.com/2023/11/26.html#a145014>
+<span>
+<a href="http://scripting.com/2023/11/26.html#a165916">http://scripting.com/2023/11/26.html#a165916</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://scripting.com/2023/11/26.html#a165916">Save to Pocket</a>
+</span>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2023-11-26, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/26/oppenheimer.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Watched <a href="https://www.metacritic.com/movie/oppenheimer/">Oppenheimer</a> last night. Very good movie. I like the artistic flourishes, reminds me of another movie I watched recently and liked, a lot, <a href="https://www.metacritic.com/movie/spencer/">Spencer</a>. I wasn't really interested in the life and death of Lady Di, but I also got through the latest episodes of The Crown, which I had resisted when the newest Queen was <a href="https://en.wikipedia.org/wiki/The_Crown_(season_5)">introduced</a>. I find it hard to make the adjustment to new actors playing the roles of characters I had come to love, esp <a href="https://en.wikipedia.org/wiki/Claire_Foy">Claire Foy</a> as young Queen Elizabeth, a fantastic actress who played in one of the most spectacular dramatic <a href="https://www.youtube.com/watch?v=rBwQICiGRmw">scenes</a> anywhere anytime. The <a href="https://en.wikipedia.org/wiki/The_Crown_(season_6)">latest episodes</a> of The Crown were about Diana mostly, and were fantastic. Back to Oppenheimer. I'll try not to spoil it too much, but the drama is puzzling, why are they going after Oppenheimer when he miraculously put together the <a href="https://en.wikipedia.org/wiki/Manhattan_Project">Manhattan Project</a> which created, in a race with Germany and the USSR, the bomb that ended World War II. The final scene, a flashback to an earlier scene where we didn't hear the dialog, between Oppenheimer and his colleague at Princeton, <a href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>, about what happens when you create something that changes the direction of humanity. What happens is this -- they push you aside. I'm not comparing myself to these two giants, but I have had the same question about how tech reacted to my contributions. My conclusion was that our culture has reason to erase the accomplishments of outliers. We prefer innovation to come in nice predictable packages, with a PR person on top, and when that's disturbed, we close ranks to make it all appear very ordinary. Anyway, all of this is very good holiday entertainment and thought provoking. My next adventure in video is <a href="https://www.metacritic.com/tv/pachinko/">Pachinko</a> on Apple TV, which is somewhat confusing, but keeps me coming back, it's so compelling. I still have the last seasons of <a href="https://www.metacritic.com/tv/ted-lasso/">Ted Lasso</a> and <a href="https://www.metacritic.com/tv/reservation-dogs/">Reservation Dogs</a> in the queue. And of course there's a new season of <a href="https://en.wikipedia.org/wiki/Fargo_(season_5)">Fargo</a>, which I'm sure I'll love. Right now my plan is to wait for the series to end and watch it all in a binge. 
+<a href="https://colinwalker.blog/blog/?date=2023-11-26#p1">Colin Walker wonders</a> if he should try <a href="https://bsky.app/">Bluesky</a>. I say yes. At first I was pretty negative, after the implosion of Twitter, here was another <a href="https://en.wikipedia.org/wiki/Jack_Dorsey">Jack Dorsey</a> network. I wasn't in the mood. But eventually I tried it, and I liked it very much. The mood is civil and often artistic. There are some very creative people there. And I think the API, while it's <a href="https://chat.openai.com/share/892d671e-1dc9-4ffc-9101-cadbca842adc">inscrutable</a> to me, is understandable to developers who put their minds to it, and I expect Colin is one who will figure it out. And I don't think there's any hope of ActivityPub, it's far too underspecified, and interop is likely to be product-based, not based on the protocol, where the Bluesky protocol appears to be overly-well-thought-out, or maybe the docs could have more examples. I didn't have the time to dive into it when I looked.
 
-<http://scripting.com/2023/11/26.html#a141822>
+<span>
+<a href="http://scripting.com/2023/11/26.html#a145014">http://scripting.com/2023/11/26.html#a145014</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://scripting.com/2023/11/26.html#a145014">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-26, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/26/oppenheimer.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Watched <a href="https://www.metacritic.com/movie/oppenheimer/">Oppenheimer</a> last night. Very good movie. I like the artistic flourishes, reminds me of another movie I watched recently and liked, a lot, <a href="https://www.metacritic.com/movie/spencer/">Spencer</a>. I wasn't really interested in the life and death of Lady Di, but I also got through the latest episodes of The Crown, which I had resisted when the newest Queen was <a href="https://en.wikipedia.org/wiki/The_Crown_(season_5)">introduced</a>. I find it hard to make the adjustment to new actors playing the roles of characters I had come to love, esp <a href="https://en.wikipedia.org/wiki/Claire_Foy">Claire Foy</a> as young Queen Elizabeth, a fantastic actress who played in one of the most spectacular dramatic <a href="https://www.youtube.com/watch?v=rBwQICiGRmw">scenes</a> anywhere anytime. The <a href="https://en.wikipedia.org/wiki/The_Crown_(season_6)">latest episodes</a> of The Crown were about Diana mostly, and were fantastic. Back to Oppenheimer. I'll try not to spoil it too much, but the drama is puzzling, why are they going after Oppenheimer when he miraculously put together the <a href="https://en.wikipedia.org/wiki/Manhattan_Project">Manhattan Project</a> which created, in a race with Germany and the USSR, the bomb that ended World War II. The final scene, a flashback to an earlier scene where we didn't hear the dialog, between Oppenheimer and his colleague at Princeton, <a href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>, about what happens when you create something that changes the direction of humanity. What happens is this -- they push you aside. I'm not comparing myself to these two giants, but I have had the same question about how tech reacted to my contributions. My conclusion was that our culture has reason to erase the accomplishments of outliers. We prefer innovation to come in nice predictable packages, with a PR person on top, and when that's disturbed, we close ranks to make it all appear very ordinary. Anyway, all of this is very good holiday entertainment and thought provoking. My next adventure in video is <a href="https://www.metacritic.com/tv/pachinko/">Pachinko</a> on Apple TV, which is somewhat confusing, but keeps me coming back, it's so compelling. I still have the last seasons of <a href="https://www.metacritic.com/tv/ted-lasso/">Ted Lasso</a> and <a href="https://www.metacritic.com/tv/reservation-dogs/">Reservation Dogs</a> in the queue. And of course there's a new season of <a href="https://en.wikipedia.org/wiki/Fargo_(season_5)">Fargo</a>, which I'm sure I'll love. Right now my plan is to wait for the series to end and watch it all in a binge.
+
+<span>
+<a href="http://scripting.com/2023/11/26.html#a141822">http://scripting.com/2023/11/26.html#a141822</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://scripting.com/2023/11/26.html#a141822">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1487,9 +2186,13 @@ Ironically, the second commercial game that Microsoft published, after Microsoft
 
 date: 2023-11-26, from: Daniel Stenberg Blog
 
-I&#8217;ve shown you email examples many times before. Today I received this. I don&#8217;t know this person. Clearly a troubled individual. I suspect she found my name and address somewhere and then managed to put me somewhere in the middle of the conspiracy against her. The entire mail is written in a single paragraph and &#8230; <a href="https://daniel.haxx.se/blog/2023/11/26/you-have-hacked-into-my-devices/" class="more-link">Continue reading <span class="screen-reader-text">&#8220;you have hacked into my devices&#8221;</span> <span class="meta-nav">&#8594;</span></a> 
+I&#8217;ve shown you email examples many times before. Today I received this. I don&#8217;t know this person. Clearly a troubled individual. I suspect she found my name and address somewhere and then managed to put me somewhere in the middle of the conspiracy against her. The entire mail is written in a single paragraph and &#8230; <a href="https://daniel.haxx.se/blog/2023/11/26/you-have-hacked-into-my-devices/" class="more-link">Continue reading <span class="screen-reader-text">&#8220;you have hacked into my devices&#8221;</span> <span class="meta-nav">&#8594;</span></a>
 
-<https://daniel.haxx.se/blog/2023/11/26/you-have-hacked-into-my-devices/>
+<span>
+<a href="https://daniel.haxx.se/blog/2023/11/26/you-have-hacked-into-my-devices/">https://daniel.haxx.se/blog/2023/11/26/you-have-hacked-into-my-devices/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://daniel.haxx.se/blog/2023/11/26/you-have-hacked-into-my-devices/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1551,7 +2254,15 @@ date: 2023-11-26, from: Full Circle Magazine
 <li>Theme Music: From The Dust - Stardust</li>
 <li><a href="https://soundcloud.com/ftdmusic">https://soundcloud.com/ftdmusic</a></li>
 <li><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></li>
-</ul> 
+</ul>
 
-<https://fullcirclemagazine.org/podcasts/podcast-341/>
+<span>
+<a href="https://fullcirclemagazine.org/podcasts/podcast-341/">https://fullcirclemagazine.org/podcasts/podcast-341/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://fullcirclemagazine.org/podcasts/podcast-341/">Save to Pocket</a>
+</span>
+
+
+
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
 

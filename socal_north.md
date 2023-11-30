@@ -1,5 +1,128 @@
+---
+title: SoCal North 2023.48
+updated: 2023-11-30 13:29:23
+---
 
-(date: 2023-11-30 08:07:10)
+# SoCal North 2023.48
+
+(date: 2023-11-30 13:29:23)
+
+---
+
+## UCLA football freshman quarterback Dante Moore to enter transfer portal
+
+date: 2023-11-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dante Moore will enter the transfer portal, he told 247Sports on Thursday.&#160;
+UCLA football’s freshman quarterback will enter the portal Dec. 4 when it opens for undergraduate students.
+
+<span>
+<a href="https://dailybruin.com/2023/11/30/ucla-football-freshman-quarterback-dante-moore-to-enter-transfer-portal/">https://dailybruin.com/2023/11/30/ucla-football-freshman-quarterback-dante-moore-to-enter-transfer-portal/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/30/ucla-football-freshman-quarterback-dante-moore-to-enter-transfer-portal/">Save to Pocket</a>
+</span>
+
+---
+
+## Guards ‘control the game’ for No. 2 UCLA women’s basketball, sweep UConn
+
+date: 2023-11-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Coach Cori Close reiterated a common phrase after her team&#8217;s historic win over then-No. 6 Connecticut. 
+&#8220;The work done in the dark always eventually gets revealed in the light,&#8221; Close said.
+
+<span>
+<a href="https://dailybruin.com/2023/11/30/guards-control-the-game-for-no-2-ucla-womens-basketball-sweep-uconn/">https://dailybruin.com/2023/11/30/guards-control-the-game-for-no-2-ucla-womens-basketball-sweep-uconn/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/30/guards-control-the-game-for-no-2-ucla-womens-basketball-sweep-uconn/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s basketball prepares to face Riverside, defend 28-game home win streak
+
+date: 2023-11-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Stationed in the blue waters of the Pacific, the Bruins tested top-ranked waters with their young squad in the Maui Invitational last week.
+UCLA men’s basketball played three games in three days, with then-No.4 Marquette and then-No.11 Gonzaga bookending the Honolulu stint.
+
+<span>
+<a href="https://dailybruin.com/2023/11/30/ucla-mens-basketball-prepares-to-face-riverside-defend-28-game-home-win-streak/">https://dailybruin.com/2023/11/30/ucla-mens-basketball-prepares-to-face-riverside-defend-28-game-home-win-streak/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/30/ucla-mens-basketball-prepares-to-face-riverside-defend-28-game-home-win-streak/">Save to Pocket</a>
+</span>
+
+---
+
+## LA Secures Funding For Bus Shelters. Community Calls It 'Long Overdue'
+
+date: 2023-11-30, updated: 2023-11-30, from: The LAist
+
+More than $90 million will be invested in building around 3,000 shelters across the city.
+
+<span>
+<a href="https://laist.com/news/climate-environment/la-secures-funding-for-bus-shelters-community-calls-it-long-overdue">https://laist.com/news/climate-environment/la-secures-funding-for-bus-shelters-community-calls-it-long-overdue</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/climate-environment/la-secures-funding-for-bus-shelters-community-calls-it-long-overdue">Save to Pocket</a>
+</span>
+
+---
+
+## 405 Express Lanes Will Open On Friday, Easing Commuter Congestion Woes
+
+date: 2023-11-30, updated: 2023-11-30, from: The LAist
+
+OCTA expects commuters to shave 15 minutes from their commute time.
+
+<span>
+<a href="https://laist.com/news/transportation/405-express-lanes-will-open-on-friday-easing-commuter-congestion-woes">https://laist.com/news/transportation/405-express-lanes-will-open-on-friday-easing-commuter-congestion-woes</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/transportation/405-express-lanes-will-open-on-friday-easing-commuter-congestion-woes">Save to Pocket</a>
+</span>
+
+---
+
+## Embark on a Galactic Adventure at the Family Literacy Festival
+
+date: 2023-11-30, from: City of Santa Clarita
+
+<p>Embark on a Galactic Adventure at the Family Literacy Festival By Councilmember Laurene Weste “Reading can take you places you have never been before.” – Dr. Seuss Nestled in the hearts of our community, the Santa Clarita Public Library system holds an important place in the lives of our residents. Libraries are a cultural hub, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/11/30/embark-on-a-galactic-adventure-at-the-family-literacy-festival/">Embark on a Galactic Adventure at the Family Literacy Festival</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span>
+<a href="https://santaclarita.gov/blog/2023/11/30/embark-on-a-galactic-adventure-at-the-family-literacy-festival/">https://santaclarita.gov/blog/2023/11/30/embark-on-a-galactic-adventure-at-the-family-literacy-festival/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://santaclarita.gov/blog/2023/11/30/embark-on-a-galactic-adventure-at-the-family-literacy-festival/">Save to Pocket</a>
+</span>
+
+---
+
+## Navigating feminism as an autistic person
+
+date: 2023-11-30, from: The Sundail (CSUN Student Newspaper)
+
+My mom was what I would call an old-school feminist. She grew up a Jewish cisgender female in Albany, New York, during the second-wave feminism of the 1960s and ’70s. This period has primarily influenced her outlook on feminism. Growing up, she raised me with similar feminist values. However, unlike my mom, I identify as...
+
+<span>
+<a href="https://sundial.csun.edu/177220/opinions/navigating-feminism-as-an-autistic-person/">https://sundial.csun.edu/177220/opinions/navigating-feminism-as-an-autistic-person/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://sundial.csun.edu/177220/opinions/navigating-feminism-as-an-autistic-person/">Save to Pocket</a>
+</span>
+
+---
+
+## An enchanting evening with Disney at CSUN
+
+date: 2023-11-30, from: The Sundail (CSUN Student Newspaper)
+
+The Soraya hosted Disney 100’s “Sound of Magic” concert on Nov. 18 from 8 p.m. to 10 p.m. in the Great Hall. The performance was conducted by CSUN alumni Richard Kaufman and included live performances of Disney classics done by the New West Symphony Orchestra. The show’s theme was the beauty of Disney shown through...
+
+<span>
+<a href="https://sundial.csun.edu/177223/arts-entertainment/an-enchanting-evening-with-disney-at-csun/">https://sundial.csun.edu/177223/arts-entertainment/an-enchanting-evening-with-disney-at-csun/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://sundial.csun.edu/177223/arts-entertainment/an-enchanting-evening-with-disney-at-csun/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -7,9 +130,27 @@
 
 date: 2023-11-30, updated: 2023-11-30, from: The LAist
 
-The secretary of state said the U.S. is committed to seeing the release of all hostages held by Hamas. And gunmen killed three Israelis in an attack on the outskirts of West Jerusalem early Thursday. 
+As both sides prepare for the final planned hostage-for-prison swap, gunmen killed three Israelis in an attack on the outskirts of West Jerusalem early Thursday.
 
-<https://laist.com/news/the-gaza-cease-fire-with-hamas-is-extended-another-day-as-blinken-arrives-in-israel>
+<span>
+<a href="https://laist.com/news/the-gaza-cease-fire-with-hamas-is-extended-another-day-as-blinken-arrives-in-israel">https://laist.com/news/the-gaza-cease-fire-with-hamas-is-extended-another-day-as-blinken-arrives-in-israel</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/the-gaza-cease-fire-with-hamas-is-extended-another-day-as-blinken-arrives-in-israel">Save to Pocket</a>
+</span>
+
+---
+
+## City Of LA Estimates It Would Take Five Years, $68 Million To Give Renters Free Eviction Attorneys
+
+date: 2023-11-30, updated: 2023-11-30, from: The LAist
+
+A long-awaited report from the city’s housing department lays out the steps to potentially providing L.A. renters with a right to counsel.
+
+<span>
+<a href="https://laist.com/news/housing-homelessness/los-angeles-city-right-to-counsel-eviction-court-lawyers-attorneys-housing-report-landlord">https://laist.com/news/housing-homelessness/los-angeles-city-right-to-counsel-eviction-court-lawyers-attorneys-housing-report-landlord</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/housing-homelessness/los-angeles-city-right-to-counsel-eviction-court-lawyers-attorneys-housing-report-landlord">Save to Pocket</a>
+</span>
 
 ---
 
@@ -17,9 +158,13 @@ The secretary of state said the U.S. is committed to seeing the release of all h
 
 date: 2023-11-30, updated: 2023-11-30, from: The LAist
 
-A Markup examination of a typical college shows how students are subject to a vast and growing array of watchful tech, from homework trackers to test-taking software, even license plate readers 
+A Markup examination of a typical college shows how students are subject to a vast and growing array of watchful tech, from homework trackers to test-taking software, even license plate readers
 
-<https://laist.com/news/education/privacy-data-collection-mt-san-antonio-college>
+<span>
+<a href="https://laist.com/news/education/privacy-data-collection-mt-san-antonio-college">https://laist.com/news/education/privacy-data-collection-mt-san-antonio-college</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/education/privacy-data-collection-mt-san-antonio-college">Save to Pocket</a>
+</span>
 
 ---
 
@@ -27,9 +172,13 @@ A Markup examination of a typical college shows how students are subject to a va
 
 date: 2023-11-30, from: CSUN Library Blog, Cited
 
-<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2023/11/Untitled-design7.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" fetchpriority="high" /></div>Just in time for the Finals Countdown, LAPL Northridge Branch invites CSUN students and community to meet a miniature therapy horse on Wednesday, December 6th,&#8230; 
+<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2023/11/Untitled-design7.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" fetchpriority="high" /></div>Just in time for the Finals Countdown, LAPL Northridge Branch invites CSUN students and community to meet a miniature therapy horse on Wednesday, December 6th,&#8230;
 
-<https://library.csun.edu/blogs/cited/2023/11/30/take-a-study-break-meet-a-miniature-horse/>
+<span>
+<a href="https://library.csun.edu/blogs/cited/2023/11/30/take-a-study-break-meet-a-miniature-horse/">https://library.csun.edu/blogs/cited/2023/11/30/take-a-study-break-meet-a-miniature-horse/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://library.csun.edu/blogs/cited/2023/11/30/take-a-study-break-meet-a-miniature-horse/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -37,9 +186,13 @@ date: 2023-11-30, from: CSUN Library Blog, Cited
 
 date: 2023-11-30, updated: 2023-11-30, from: The LAist
 
-A majority of the 23 flagged locations are in the downtown L.A. area. Still, officials caution that doesn't mean we'll see another 10 Freeway fire. 
+A majority of the 23 flagged locations are in the downtown L.A. area. Still, officials caution that doesn't mean we'll see another 10 Freeway fire.
 
-<https://laist.com/news/transportation/lafd-finds-nearly-two-dozen-freeways-underpasses-need-fixing-but-that-doesnt-mean-well-see-another-10-freeway-fire>
+<span>
+<a href="https://laist.com/news/transportation/lafd-finds-nearly-two-dozen-freeways-underpasses-need-fixing-but-that-doesnt-mean-well-see-another-10-freeway-fire">https://laist.com/news/transportation/lafd-finds-nearly-two-dozen-freeways-underpasses-need-fixing-but-that-doesnt-mean-well-see-another-10-freeway-fire</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/transportation/lafd-finds-nearly-two-dozen-freeways-underpasses-need-fixing-but-that-doesnt-mean-well-see-another-10-freeway-fire">Save to Pocket</a>
+</span>
 
 ---
 
@@ -47,10 +200,14 @@ A majority of the 23 flagged locations are in the downtown L.A. area. Still, off
 
 date: 2023-11-30, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Nov. 29 at 10:03 p.m.</em>
-Nearly 100 students and community members gathered Wednesday for a “die-in” and demonstration to recognize Palestinian lives lost in the recent violence in Gaza. 
+<em>This post was updated Nov. 30 at 11:51 a.m.</em>
+Nearly 100 students and community members gathered Wednesday for a “die-in” and demonstration to recognize Palestinian lives lost in the recent violence in Gaza.
 
-<https://dailybruin.com/2023/11/29/students-for-justice-in-palestine-hosts-die-in-to-honor-victims-of-gaza-violence/>
+<span>
+<a href="https://dailybruin.com/2023/11/29/students-for-justice-in-palestine-hosts-die-in-to-honor-victims-of-gaza-violence/">https://dailybruin.com/2023/11/29/students-for-justice-in-palestine-hosts-die-in-to-honor-victims-of-gaza-violence/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/29/students-for-justice-in-palestine-hosts-die-in-to-honor-victims-of-gaza-violence/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -59,9 +216,13 @@ Nearly 100 students and community members gathered Wednesday for a “die-in” 
 date: 2023-11-30, from: The Daily Bruin (UCLA Student Newspaper)
 
 UCLA students and community members have long awaited the opening of 99 Ranch Market. 
-A ribbon cutting ceremony marked the end of the three-year wait Wednesday. 
+A ribbon cutting ceremony marked the end of the three-year wait Wednesday.
 
-<https://dailybruin.com/2023/11/29/99-ranch-market-officially-opens-doors-for-business-in-westwood/>
+<span>
+<a href="https://dailybruin.com/2023/11/29/99-ranch-market-officially-opens-doors-for-business-in-westwood/">https://dailybruin.com/2023/11/29/99-ranch-market-officially-opens-doors-for-business-in-westwood/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/29/99-ranch-market-officially-opens-doors-for-business-in-westwood/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -69,9 +230,13 @@ A ribbon cutting ceremony marked the end of the three-year wait Wednesday.
 
 date: 2023-11-30, updated: 2023-11-30, from: The LAist
 
-Black, Jewish and LGBTQIA+ residents endured the most reported hate crimes in the county, officials say. 
+Black, Jewish and LGBTQIA+ residents endured the most reported hate crimes in the county, officials say.
 
-<https://laist.com/news/criminal-justice/la-county-reports-another-steep-increase-in-the-number-of-hate-crimes>
+<span>
+<a href="https://laist.com/news/criminal-justice/la-county-reports-another-steep-increase-in-the-number-of-hate-crimes">https://laist.com/news/criminal-justice/la-county-reports-another-steep-increase-in-the-number-of-hate-crimes</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/criminal-justice/la-county-reports-another-steep-increase-in-the-number-of-hate-crimes">Save to Pocket</a>
+</span>
 
 ---
 
@@ -80,9 +245,13 @@ Black, Jewish and LGBTQIA+ residents endured the most reported hate crimes in th
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
 Déjà vu is in the air.
-UCLA women’s volleyball missed out on an NCAA tournament appearance for the second straight year on Sunday after yet another up-and-down season plagued by injuries and unforeseen losses. 
+UCLA women’s volleyball missed out on an NCAA tournament appearance for the second straight year on Sunday after yet another up-and-down season plagued by injuries and unforeseen losses.
 
-<https://dailybruin.com/2023/11/29/reft-revitalizes-ucla-womens-volleyball-despite-rocky-season/>
+<span>
+<a href="https://dailybruin.com/2023/11/29/reft-revitalizes-ucla-womens-volleyball-despite-rocky-season/">https://dailybruin.com/2023/11/29/reft-revitalizes-ucla-womens-volleyball-despite-rocky-season/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/29/reft-revitalizes-ucla-womens-volleyball-despite-rocky-season/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -91,9 +260,13 @@ UCLA women’s volleyball missed out on an NCAA tournament appearance for the se
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
 Sequins and self-expression were on display as drag queens strutted in Royce Hall.
-Bimbos Theatre Co. and the Student Committee for the Arts at UCLA hosted a drag showcase for charity Tuesday evening in the Royce Rehearsal Room. 
+Bimbos Theatre Co. and the Student Committee for the Arts at UCLA hosted a drag showcase for charity Tuesday evening in the Royce Rehearsal Room.
 
-<https://dailybruin.com/2023/11/29/student-hosted-drag-showcase-shines-spotlight-on-self-expression-lgbtq-advocacy/>
+<span>
+<a href="https://dailybruin.com/2023/11/29/student-hosted-drag-showcase-shines-spotlight-on-self-expression-lgbtq-advocacy/">https://dailybruin.com/2023/11/29/student-hosted-drag-showcase-shines-spotlight-on-self-expression-lgbtq-advocacy/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/29/student-hosted-drag-showcase-shines-spotlight-on-self-expression-lgbtq-advocacy/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -103,9 +276,13 @@ date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
 
 <p>Women’s Soccer tied 1-1 against Ventura College on Oct. 6. Ventura is ranked in the top 10 of the state, but the Brahmas were able</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/29/bramhas-tie-8-ranked-team/">Bramhas tie #8 ranked team</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/29/bramhas-tie-8-ranked-team/?utm_source=rss&utm_medium=rss&utm_campaign=bramhas-tie-8-ranked-team>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/29/bramhas-tie-8-ranked-team/?utm_source=rss&utm_medium=rss&utm_campaign=bramhas-tie-8-ranked-team">https://theroundupnews.com/2023/11/29/bramhas-tie-8-ranked-team/?utm_source=rss&utm_medium=rss&utm_campaign=bramhas-tie-8-ranked-team</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/29/bramhas-tie-8-ranked-team/?utm_source=rss&utm_medium=rss&utm_campaign=bramhas-tie-8-ranked-team">Save to Pocket</a>
+</span>
 
 ---
 
@@ -113,9 +290,13 @@ date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
 
 date: 2023-11-29, updated: 2023-11-29, from: The LAist
 
-Tens of thousands of gallons of raw sewage spilled in the area, prompting warnings from health officials. 
+Tens of thousands of gallons of raw sewage spilled in the area, prompting warnings from health officials.
 
-<https://laist.com/news/climate-environment/sewage-spill-shuts-down-a-stretch-of-laguna-beach-coast>
+<span>
+<a href="https://laist.com/news/climate-environment/sewage-spill-shuts-down-a-stretch-of-laguna-beach-coast">https://laist.com/news/climate-environment/sewage-spill-shuts-down-a-stretch-of-laguna-beach-coast</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/climate-environment/sewage-spill-shuts-down-a-stretch-of-laguna-beach-coast">Save to Pocket</a>
+</span>
 
 ---
 
@@ -123,9 +304,13 @@ Tens of thousands of gallons of raw sewage spilled in the area, prompting warnin
 
 date: 2023-11-29, updated: 2023-11-29, from: The LAist
 
-It’s the second high-profile instance to emerge recently of O.C. Supervisor Andrew Do not disclosing a relevant family relationship during official proceedings. 
+It’s the second high-profile instance to emerge recently of O.C. Supervisor Andrew Do not disclosing a relevant family relationship during official proceedings.
 
-<https://laist.com/news/housing-homelessness/orange-county-supervisor-andrew-do-homeless-services-mistrial>
+<span>
+<a href="https://laist.com/news/housing-homelessness/orange-county-supervisor-andrew-do-homeless-services-mistrial">https://laist.com/news/housing-homelessness/orange-county-supervisor-andrew-do-homeless-services-mistrial</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/housing-homelessness/orange-county-supervisor-andrew-do-homeless-services-mistrial">Save to Pocket</a>
+</span>
 
 ---
 
@@ -133,9 +318,13 @@ It’s the second high-profile instance to emerge recently of O.C. Supervisor An
 
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-&#160; 
+&#160;
 
-<https://dailybruin.com/2023/11/29/editorial-cartoon-everyones-catching-it/>
+<span>
+<a href="https://dailybruin.com/2023/11/29/editorial-cartoon-everyones-catching-it/">https://dailybruin.com/2023/11/29/editorial-cartoon-everyones-catching-it/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/29/editorial-cartoon-everyones-catching-it/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -143,9 +332,13 @@ date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-No. 1 seed UCLA men&#8217;s water polo (24-2, 7-0 MPSF) enters the NCAA tournament on a two-game skid from the MPSF tournament &#8211; its first two losses of the season. 
+No. 1 seed UCLA men&#8217;s water polo (24-2, 7-0 MPSF) enters the NCAA tournament on a two-game skid from the MPSF tournament &#8211; its first two losses of the season.
 
-<https://dailybruin.com/2023/11/29/ucla-mens-water-polo-2023-ncaa-tournament-predictions/>
+<span>
+<a href="https://dailybruin.com/2023/11/29/ucla-mens-water-polo-2023-ncaa-tournament-predictions/">https://dailybruin.com/2023/11/29/ucla-mens-water-polo-2023-ncaa-tournament-predictions/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/29/ucla-mens-water-polo-2023-ncaa-tournament-predictions/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -155,9 +348,13 @@ date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
 
 <p>Andrew Abonales writes a repair order for the shop management class in the Advanced Automotive Technology Building at Pierce College in Woodland Hills, Calif., on</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/29/not-cool-automotive-deals-with-faulty-air-conditioners/">Not cool: Automotive deals with faulty air conditioners</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/29/not-cool-automotive-deals-with-faulty-air-conditioners/?utm_source=rss&utm_medium=rss&utm_campaign=not-cool-automotive-deals-with-faulty-air-conditioners>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/29/not-cool-automotive-deals-with-faulty-air-conditioners/?utm_source=rss&utm_medium=rss&utm_campaign=not-cool-automotive-deals-with-faulty-air-conditioners">https://theroundupnews.com/2023/11/29/not-cool-automotive-deals-with-faulty-air-conditioners/?utm_source=rss&utm_medium=rss&utm_campaign=not-cool-automotive-deals-with-faulty-air-conditioners</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/29/not-cool-automotive-deals-with-faulty-air-conditioners/?utm_source=rss&utm_medium=rss&utm_campaign=not-cool-automotive-deals-with-faulty-air-conditioners">Save to Pocket</a>
+</span>
 
 ---
 
@@ -167,9 +364,13 @@ date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
 
 <p>Annie Gonzalez speaks to students during at Pierce College in Woodland Hills, Calif., on Oct. 5, 2023. &#160; An East LA sixth generation Latina/Chicana actress</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/29/sharing-her-superpower/">Sharing her superpower</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/29/sharing-her-superpower/?utm_source=rss&utm_medium=rss&utm_campaign=sharing-her-superpower>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/29/sharing-her-superpower/?utm_source=rss&utm_medium=rss&utm_campaign=sharing-her-superpower">https://theroundupnews.com/2023/11/29/sharing-her-superpower/?utm_source=rss&utm_medium=rss&utm_campaign=sharing-her-superpower</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/29/sharing-her-superpower/?utm_source=rss&utm_medium=rss&utm_campaign=sharing-her-superpower">Save to Pocket</a>
+</span>
 
 ---
 
@@ -179,9 +380,13 @@ date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
 
 <p>An emotional comedy that will resonate with audiences while having a holiday kick is set to premiere. Robert Harling’s “Steel Magnolias” will open at the</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/29/spitfires-take-the-stage/">Spitfires take the stage</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/29/spitfires-take-the-stage/?utm_source=rss&utm_medium=rss&utm_campaign=spitfires-take-the-stage>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/29/spitfires-take-the-stage/?utm_source=rss&utm_medium=rss&utm_campaign=spitfires-take-the-stage">https://theroundupnews.com/2023/11/29/spitfires-take-the-stage/?utm_source=rss&utm_medium=rss&utm_campaign=spitfires-take-the-stage</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/29/spitfires-take-the-stage/?utm_source=rss&utm_medium=rss&utm_campaign=spitfires-take-the-stage">Save to Pocket</a>
+</span>
 
 ---
 
@@ -191,9 +396,13 @@ date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
 
 <p>The lobby is filled with excitement as the moviegoers await their turn in the concession lines. The smell of popcorn saturates the air and patrons</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/29/what-is-the-better-viewing-experience-come-for-the-popcorn-stay-for-the-movie/">What is the better viewing experience? Come for the popcorn, stay for the movie</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/29/what-is-the-better-viewing-experience-come-for-the-popcorn-stay-for-the-movie/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-better-viewing-experience-come-for-the-popcorn-stay-for-the-movie>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/29/what-is-the-better-viewing-experience-come-for-the-popcorn-stay-for-the-movie/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-better-viewing-experience-come-for-the-popcorn-stay-for-the-movie">https://theroundupnews.com/2023/11/29/what-is-the-better-viewing-experience-come-for-the-popcorn-stay-for-the-movie/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-better-viewing-experience-come-for-the-popcorn-stay-for-the-movie</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/29/what-is-the-better-viewing-experience-come-for-the-popcorn-stay-for-the-movie/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-better-viewing-experience-come-for-the-popcorn-stay-for-the-movie">Save to Pocket</a>
+</span>
 
 ---
 
@@ -203,9 +412,13 @@ date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
 
 <p>The Brahmas took on Mt. San Jacinto this Saturday. After an intense game, the Eagles earned the victory with the final score standing at 100-82.</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/29/eagles-soar-over-brahmas-pierce-fall-to-1-6/">Eagles soar over Brahmas, Pierce fall to 1-6</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/29/eagles-soar-over-brahmas-pierce-fall-to-1-6/?utm_source=rss&utm_medium=rss&utm_campaign=eagles-soar-over-brahmas-pierce-fall-to-1-6>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/29/eagles-soar-over-brahmas-pierce-fall-to-1-6/?utm_source=rss&utm_medium=rss&utm_campaign=eagles-soar-over-brahmas-pierce-fall-to-1-6">https://theroundupnews.com/2023/11/29/eagles-soar-over-brahmas-pierce-fall-to-1-6/?utm_source=rss&utm_medium=rss&utm_campaign=eagles-soar-over-brahmas-pierce-fall-to-1-6</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/29/eagles-soar-over-brahmas-pierce-fall-to-1-6/?utm_source=rss&utm_medium=rss&utm_campaign=eagles-soar-over-brahmas-pierce-fall-to-1-6">Save to Pocket</a>
+</span>
 
 ---
 
@@ -215,9 +428,13 @@ date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
 
 <p>A cozy couch, homemade snacks, subtitles and your preferred volume and brightness. That’s a movie-watching environment some may prefer over a one-size-fits-all theater setup. “Movies</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/29/what-is-the-better-viewing-experience-customizable-entertainment-at-home/">What is the better viewing experience? Customizable entertainment at home</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/29/what-is-the-better-viewing-experience-customizable-entertainment-at-home/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-better-viewing-experience-customizable-entertainment-at-home>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/29/what-is-the-better-viewing-experience-customizable-entertainment-at-home/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-better-viewing-experience-customizable-entertainment-at-home">https://theroundupnews.com/2023/11/29/what-is-the-better-viewing-experience-customizable-entertainment-at-home/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-better-viewing-experience-customizable-entertainment-at-home</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/29/what-is-the-better-viewing-experience-customizable-entertainment-at-home/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-better-viewing-experience-customizable-entertainment-at-home">Save to Pocket</a>
+</span>
 
 ---
 
@@ -227,9 +444,13 @@ date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
 
 <p>&#160; &#160; “Probably ‘Napoleon.’ From what I’ve seen, the trailers look amazing and very beautiful.” Luka Mena &#8211; Computer Science major &#160; &#160; &#160; &#160;</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/29/streetbeat-what-movies-are-you-excited-to-see/">Streetbeat: What movies are you excited to see?</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/29/streetbeat-what-movies-are-you-excited-to-see/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-what-movies-are-you-excited-to-see>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/29/streetbeat-what-movies-are-you-excited-to-see/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-what-movies-are-you-excited-to-see">https://theroundupnews.com/2023/11/29/streetbeat-what-movies-are-you-excited-to-see/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-what-movies-are-you-excited-to-see</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/29/streetbeat-what-movies-are-you-excited-to-see/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-what-movies-are-you-excited-to-see">Save to Pocket</a>
+</span>
 
 ---
 
@@ -239,9 +460,13 @@ date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
 
 <p>The 2023 season for the Pierce women’s soccer team was a year of adapting for both the sophomore and freshman players. As a team coming</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/29/womens-soccer-season-review/">Women’s soccer season review</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/29/womens-soccer-season-review/?utm_source=rss&utm_medium=rss&utm_campaign=womens-soccer-season-review>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/29/womens-soccer-season-review/?utm_source=rss&utm_medium=rss&utm_campaign=womens-soccer-season-review">https://theroundupnews.com/2023/11/29/womens-soccer-season-review/?utm_source=rss&utm_medium=rss&utm_campaign=womens-soccer-season-review</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/29/womens-soccer-season-review/?utm_source=rss&utm_medium=rss&utm_campaign=womens-soccer-season-review">Save to Pocket</a>
+</span>
 
 ---
 
@@ -251,9 +476,13 @@ date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
 
 <p>Between classes, homework, parent duties and work, single parents barely have any time to themselves, let alone have time for dating. We all hope and</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/29/pierce-should-help-students-find-love/">Pierce should help students find love</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/29/pierce-should-help-students-find-love/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-should-help-students-find-love>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/29/pierce-should-help-students-find-love/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-should-help-students-find-love">https://theroundupnews.com/2023/11/29/pierce-should-help-students-find-love/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-should-help-students-find-love</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/29/pierce-should-help-students-find-love/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-should-help-students-find-love">Save to Pocket</a>
+</span>
 
 ---
 
@@ -261,9 +490,13 @@ date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
 
 date: 2023-11-29, updated: 2023-11-29, from: The LAist
 
-The idea gained momentum after the release of secretly recorded audio that featured council members discussing how to preserve their own power through the redistricting process. 
+The idea gained momentum after the release of secretly recorded audio that featured council members discussing how to preserve their own power through the redistricting process.
 
-<https://laist.com/news/politics/what-you-need-to-know-about-las-independent-redistricting-commission-proposal>
+<span>
+<a href="https://laist.com/news/politics/what-you-need-to-know-about-las-independent-redistricting-commission-proposal">https://laist.com/news/politics/what-you-need-to-know-about-las-independent-redistricting-commission-proposal</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/politics/what-you-need-to-know-about-las-independent-redistricting-commission-proposal">Save to Pocket</a>
+</span>
 
 ---
 
@@ -271,9 +504,13 @@ The idea gained momentum after the release of secretly recorded audio that featu
 
 date: 2023-11-29, updated: 2023-11-29, from: The LAist
 
-The paid fellowship prioritizes students from Cal State Dominguez Hills, Cal State Long Beach, and Long Beach City College. 
+The paid fellowship prioritizes students from Cal State Dominguez Hills, Cal State Long Beach, and Long Beach City College.
 
-<https://laist.com/news/education/public-service-city-corps-college-fellowship-long-beach>
+<span>
+<a href="https://laist.com/news/education/public-service-city-corps-college-fellowship-long-beach">https://laist.com/news/education/public-service-city-corps-college-fellowship-long-beach</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/education/public-service-city-corps-college-fellowship-long-beach">Save to Pocket</a>
+</span>
 
 ---
 
@@ -281,9 +518,13 @@ The paid fellowship prioritizes students from Cal State Dominguez Hills, Cal Sta
 
 date: 2023-11-29, updated: 2023-11-29, from: The LAist
 
-This fall, California made it easier for community college students to transfer to out-of-state Historically Black Colleges and Universities. 
+This fall, California made it easier for community college students to transfer to out-of-state Historically Black Colleges and Universities.
 
-<https://laist.com/news/education/hbcu-community-college-student-transfers>
+<span>
+<a href="https://laist.com/news/education/hbcu-community-college-student-transfers">https://laist.com/news/education/hbcu-community-college-student-transfers</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/education/hbcu-community-college-student-transfers">Save to Pocket</a>
+</span>
 
 ---
 
@@ -291,9 +532,13 @@ This fall, California made it easier for community college students to transfer 
 
 date: 2023-11-29, updated: 2023-11-29, from: The LAist
 
-For one devoted hobbyist magician, the members-only Los Angeles institution was too alluring to resist. But the love faded. 'Imperfect Paradise: The Castle,' Part 1. 
+For one devoted hobbyist magician, the members-only Los Angeles institution was too alluring to resist. But the love faded. 'Imperfect Paradise: The Castle,' Part 1.
 
-<https://laist.com/news/arts-and-entertainment/imperfect-paradise-the-castle-part-1>
+<span>
+<a href="https://laist.com/news/arts-and-entertainment/imperfect-paradise-the-castle-part-1">https://laist.com/news/arts-and-entertainment/imperfect-paradise-the-castle-part-1</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/arts-and-entertainment/imperfect-paradise-the-castle-part-1">Save to Pocket</a>
+</span>
 
 ---
 
@@ -301,9 +546,13 @@ For one devoted hobbyist magician, the members-only Los Angeles institution was 
 
 date: 2023-11-29, updated: 2023-11-29, from: The LAist
 
-We look at key moments in the history of the 10, including an early highway path that influenced the safety of freeways today. 
+We look at key moments in the history of the 10, including an early highway path that influenced the safety of freeways today.
 
-<https://laist.com/news/transportation/los-angeles-10-freeway-history-ramona-airline-marilyn-reece>
+<span>
+<a href="https://laist.com/news/transportation/los-angeles-10-freeway-history-ramona-airline-marilyn-reece">https://laist.com/news/transportation/los-angeles-10-freeway-history-ramona-airline-marilyn-reece</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/transportation/los-angeles-10-freeway-history-ramona-airline-marilyn-reece">Save to Pocket</a>
+</span>
 
 ---
 
@@ -311,9 +560,13 @@ We look at key moments in the history of the 10, including an early highway path
 
 date: 2023-11-29, updated: 2023-11-29, from: The LAist
 
-As electric bikes and scooters gain popularity among college students, California campuses vary over their regulation. The devices pose safety risks yet are cheaper, more convenient and better for the environment than gas-powered vehicles. 
+As electric bikes and scooters gain popularity among college students, California campuses vary over their regulation. The devices pose safety risks yet are cheaper, more convenient and better for the environment than gas-powered vehicles.
 
-<https://laist.com/news/education/are-electric-bikes-allowed-at-your-college-in-california-depends-on-where-you-go-to-school>
+<span>
+<a href="https://laist.com/news/education/are-electric-bikes-allowed-at-your-college-in-california-depends-on-where-you-go-to-school">https://laist.com/news/education/are-electric-bikes-allowed-at-your-college-in-california-depends-on-where-you-go-to-school</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/education/are-electric-bikes-allowed-at-your-college-in-california-depends-on-where-you-go-to-school">Save to Pocket</a>
+</span>
 
 ---
 
@@ -322,9 +575,13 @@ As electric bikes and scooters gain popularity among college students, Californi
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
 The UCLA Dashew Center for International Students and Scholars hosts an English language circle to help international students practice speaking English. 
-The Fall English Language Circle is a weekly meeting where international students looking to practice their English can build fluency and language advancement with a native English speaker, according to an emailed statement from the Dashew Center. 
+The Fall English Language Circle is a weekly meeting where international students looking to practice their English can build fluency and language advancement with a native English speaker, according to an emailed statement from the Dashew Center.
 
-<https://dailybruin.com/2023/11/28/dashew-center-hosts-fall-english-language-circle-for-international-students/>
+<span>
+<a href="https://dailybruin.com/2023/11/28/dashew-center-hosts-fall-english-language-circle-for-international-students/">https://dailybruin.com/2023/11/28/dashew-center-hosts-fall-english-language-circle-for-international-students/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/28/dashew-center-hosts-fall-english-language-circle-for-international-students/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -332,9 +589,13 @@ The Fall English Language Circle is a weekly meeting where international student
 
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-The UCLA Department of Family Medicine&#8217;s Student Run Homeless Clinics received a neighborhood purpose grant from the North Westwood Neighborhood Council during the council&#8217;s November meeting. 
+The UCLA Department of Family Medicine&#8217;s Student Run Homeless Clinics received a neighborhood purpose grant from the North Westwood Neighborhood Council during the council&#8217;s November meeting.
 
-<https://dailybruin.com/2023/11/28/uclas-student-run-homeless-clinics-offers-treatment-to-underserved-communities/>
+<span>
+<a href="https://dailybruin.com/2023/11/28/uclas-student-run-homeless-clinics-offers-treatment-to-underserved-communities/">https://dailybruin.com/2023/11/28/uclas-student-run-homeless-clinics-offers-treatment-to-underserved-communities/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/28/uclas-student-run-homeless-clinics-offers-treatment-to-underserved-communities/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -343,9 +604,13 @@ The UCLA Department of Family Medicine&#8217;s Student Run Homeless Clinics rece
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
 The Undergraduate Students Association Council held its third meeting of November on Nov. 21.
-USAC is the official student government representing the undergraduate student body at UCLA. 
+USAC is the official student government representing the undergraduate student body at UCLA.
 
-<https://dailybruin.com/2023/11/28/usac-recap-nov-21-2/>
+<span>
+<a href="https://dailybruin.com/2023/11/28/usac-recap-nov-21-2/">https://dailybruin.com/2023/11/28/usac-recap-nov-21-2/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/28/usac-recap-nov-21-2/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -353,9 +618,13 @@ USAC is the official student government representing the undergraduate student b
 
 date: 2023-11-29, from: Laloyolan (LMU Student Newspaper)
 
-Chim Chim Cher-ee! For those who don’t think a chimney belongs on top of LMU’s Sacred Heart Chapel: Have Faith. 
+Chim Chim Cher-ee! For those who don’t think a chimney belongs on top of LMU’s Sacred Heart Chapel: Have Faith.
 
-<https://www.laloyolan.com/the_bluff/lmu-installs-chimney-after-santa-gets-stuck-at-back-gate/article_39b0bdb7-2fa0-56c1-9896-510107f5d1e8.html>
+<span>
+<a href="https://www.laloyolan.com/the_bluff/lmu-installs-chimney-after-santa-gets-stuck-at-back-gate/article_39b0bdb7-2fa0-56c1-9896-510107f5d1e8.html">https://www.laloyolan.com/the_bluff/lmu-installs-chimney-after-santa-gets-stuck-at-back-gate/article_39b0bdb7-2fa0-56c1-9896-510107f5d1e8.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/the_bluff/lmu-installs-chimney-after-santa-gets-stuck-at-back-gate/article_39b0bdb7-2fa0-56c1-9896-510107f5d1e8.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -363,9 +632,13 @@ Chim Chim Cher-ee! For those who don’t think a chimney belongs on top of LMU�
 
 date: 2023-11-29, from: Laloyolan (LMU Student Newspaper)
 
-LMU's Grinch has just finished his spree, robbing the campus of joy and of glee. Why did he do it? What filled him with rage? Read all the details right here on this page. 
+LMU's Grinch has just finished his spree, robbing the campus of joy and of glee. Why did he do it? What filled him with rage? Read all the details right here on this page.
 
-<https://www.laloyolan.com/the_bluff/lmu-grinch-caught-stealing-university-hall-christmas-tree/article_141b5b7c-1f5c-5b45-901c-ecd68f89a8ed.html>
+<span>
+<a href="https://www.laloyolan.com/the_bluff/lmu-grinch-caught-stealing-university-hall-christmas-tree/article_141b5b7c-1f5c-5b45-901c-ecd68f89a8ed.html">https://www.laloyolan.com/the_bluff/lmu-grinch-caught-stealing-university-hall-christmas-tree/article_141b5b7c-1f5c-5b45-901c-ecd68f89a8ed.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/the_bluff/lmu-grinch-caught-stealing-university-hall-christmas-tree/article_141b5b7c-1f5c-5b45-901c-ecd68f89a8ed.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -373,9 +646,13 @@ LMU's Grinch has just finished his spree, robbing the campus of joy and of glee.
 
 date: 2023-11-29, from: Laloyolan (LMU Student Newspaper)
 
-Lucero-Corona alongside the board of directors and team members of the Chingona Community. 
+Lucero-Corona alongside the board of directors and team members of the Chingona Community.
 
-<https://www.laloyolan.com/life_and_arts/chignona/image_a4510c10-8298-53cf-90e3-bacf1f1a43b7.html>
+<span>
+<a href="https://www.laloyolan.com/life_and_arts/chignona/image_a4510c10-8298-53cf-90e3-bacf1f1a43b7.html">https://www.laloyolan.com/life_and_arts/chignona/image_a4510c10-8298-53cf-90e3-bacf1f1a43b7.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/life_and_arts/chignona/image_a4510c10-8298-53cf-90e3-bacf1f1a43b7.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -383,9 +660,13 @@ Lucero-Corona alongside the board of directors and team members of the Chingona 
 
 date: 2023-11-29, from: Laloyolan (LMU Student Newspaper)
 
-Roz Lucero-Corona is a native Angeleno, a first generation college student and the founder of the Chingona Community. 
+Roz Lucero-Corona is a native Angeleno, a first generation college student and the founder of the Chingona Community.
 
-<https://www.laloyolan.com/life_and_arts/rozheadshot/image_91bec00f-343f-51e5-af3b-ed33f3e4f5c5.html>
+<span>
+<a href="https://www.laloyolan.com/life_and_arts/rozheadshot/image_91bec00f-343f-51e5-af3b-ed33f3e4f5c5.html">https://www.laloyolan.com/life_and_arts/rozheadshot/image_91bec00f-343f-51e5-af3b-ed33f3e4f5c5.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/life_and_arts/rozheadshot/image_91bec00f-343f-51e5-af3b-ed33f3e4f5c5.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -393,9 +674,13 @@ Roz Lucero-Corona is a native Angeleno, a first generation college student and t
 
 date: 2023-11-29, from: Laloyolan (LMU Student Newspaper)
 
-Members are pictured on a youth day event wearing themed Chingona Community shirts. 
+Members are pictured on a youth day event wearing themed Chingona Community shirts.
 
-<https://www.laloyolan.com/life_and_arts/youth-day/image_123385d5-5af1-5abb-9d91-1cc51133b376.html>
+<span>
+<a href="https://www.laloyolan.com/life_and_arts/youth-day/image_123385d5-5af1-5abb-9d91-1cc51133b376.html">https://www.laloyolan.com/life_and_arts/youth-day/image_123385d5-5af1-5abb-9d91-1cc51133b376.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/life_and_arts/youth-day/image_123385d5-5af1-5abb-9d91-1cc51133b376.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -403,9 +688,13 @@ Members are pictured on a youth day event wearing themed Chingona Community shir
 
 date: 2023-11-29, from: Laloyolan (LMU Student Newspaper)
 
-Are you guilty of procrastinating over break? There’s still time to do all your assignments and there are ways to make it more manageable. 
+Are you guilty of procrastinating over break? There’s still time to do all your assignments and there are ways to make it more manageable.
 
-<https://www.laloyolan.com/life_and_arts/navigating-the-between-breaks-cram-session/article_22eabcd7-2a13-504e-bf67-ecfbad4f02be.html>
+<span>
+<a href="https://www.laloyolan.com/life_and_arts/navigating-the-between-breaks-cram-session/article_22eabcd7-2a13-504e-bf67-ecfbad4f02be.html">https://www.laloyolan.com/life_and_arts/navigating-the-between-breaks-cram-session/article_22eabcd7-2a13-504e-bf67-ecfbad4f02be.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/life_and_arts/navigating-the-between-breaks-cram-session/article_22eabcd7-2a13-504e-bf67-ecfbad4f02be.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -413,9 +702,13 @@ Are you guilty of procrastinating over break? There’s still time to do all you
 
 date: 2023-11-29, from: Laloyolan (LMU Student Newspaper)
 
-After a taste of home, the final stretch between breaks leaves students yearning for home-cooked meals. 
+After a taste of home, the final stretch between breaks leaves students yearning for home-cooked meals.
 
-<https://www.laloyolan.com/cartoons/craving-break-comic-strip/article_49ef3c4e-8e5e-11ee-beeb-d7d4ab66e14c.html>
+<span>
+<a href="https://www.laloyolan.com/cartoons/craving-break-comic-strip/article_49ef3c4e-8e5e-11ee-beeb-d7d4ab66e14c.html">https://www.laloyolan.com/cartoons/craving-break-comic-strip/article_49ef3c4e-8e5e-11ee-beeb-d7d4ab66e14c.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/cartoons/craving-break-comic-strip/article_49ef3c4e-8e5e-11ee-beeb-d7d4ab66e14c.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -424,9 +717,13 @@ After a taste of home, the final stretch between breaks leaves students yearning
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 28 at 9:44 p.m.</em>
-As prospective transfers all over California face the approaching undergraduate transfer application deadline, they eagerly look to the schools they hope to attend for the next two years. 
+As prospective transfers all over California face the approaching undergraduate transfer application deadline, they eagerly look to the schools they hope to attend for the next two years.
 
-<https://dailybruin.com/2023/11/28/opinion-student-organizations-must-be-made-more-accessible-to-transfer-students/>
+<span>
+<a href="https://dailybruin.com/2023/11/28/opinion-student-organizations-must-be-made-more-accessible-to-transfer-students/">https://dailybruin.com/2023/11/28/opinion-student-organizations-must-be-made-more-accessible-to-transfer-students/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/28/opinion-student-organizations-must-be-made-more-accessible-to-transfer-students/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -435,9 +732,13 @@ As prospective transfers all over California face the approaching undergraduate 
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 28 at 10:46 p.m.</em>
-At 8 a.m. in the Mildred E. Mathias Botanical Garden, only the birds are awake. But every couple of weeks, the birds aren’t alone. 
+At 8 a.m. in the Mildred E. Mathias Botanical Garden, only the birds are awake. But every couple of weeks, the birds aren’t alone.
 
-<https://dailybruin.com/2023/11/28/bruin-birding-club-builds-community-through-campus-bird-walks/>
+<span>
+<a href="https://dailybruin.com/2023/11/28/bruin-birding-club-builds-community-through-campus-bird-walks/">https://dailybruin.com/2023/11/28/bruin-birding-club-builds-community-through-campus-bird-walks/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/28/bruin-birding-club-builds-community-through-campus-bird-walks/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -446,9 +747,13 @@ At 8 a.m. in the Mildred E. Mathias Botanical Garden, only the birds are awake. 
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 28 at 10:48 p.m.</em>
-While some Bruins shy away from talking about sex, one group on campus is trying to start conversations. 
+While some Bruins shy away from talking about sex, one group on campus is trying to start conversations.
 
-<https://dailybruin.com/2023/11/28/ucla-sexperts-strives-to-destigmatize-discussions-about-sexual-health/>
+<span>
+<a href="https://dailybruin.com/2023/11/28/ucla-sexperts-strives-to-destigmatize-discussions-about-sexual-health/">https://dailybruin.com/2023/11/28/ucla-sexperts-strives-to-destigmatize-discussions-about-sexual-health/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/28/ucla-sexperts-strives-to-destigmatize-discussions-about-sexual-health/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -457,9 +762,13 @@ While some Bruins shy away from talking about sex, one group on campus is trying
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 28 at 9:13 p.m.</em>
-As the game tipped off just prior to noon, the sideline sections of Pauley Pavilion were near full capacity. 
+As the game tipped off just prior to noon, the sideline sections of Pauley Pavilion were near full capacity.
 
-<https://dailybruin.com/2023/11/28/candid-carlson-record-breaking-no-2-ucla-womens-basketball-deserves-historic-attendance/>
+<span>
+<a href="https://dailybruin.com/2023/11/28/candid-carlson-record-breaking-no-2-ucla-womens-basketball-deserves-historic-attendance/">https://dailybruin.com/2023/11/28/candid-carlson-record-breaking-no-2-ucla-womens-basketball-deserves-historic-attendance/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/28/candid-carlson-record-breaking-no-2-ucla-womens-basketball-deserves-historic-attendance/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -468,9 +777,13 @@ As the game tipped off just prior to noon, the sideline sections of Pauley Pavil
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 28 at 9:06 p.m.</em>
-One man absorbed most of the criticism as the Bruins stumbled and sputtered toward a tumultuous end. 
+One man absorbed most of the criticism as the Bruins stumbled and sputtered toward a tumultuous end.
 
-<https://dailybruin.com/2023/11/28/nelsons-noggin-dante-moores-lackluster-performance-mismanagement-hinder-ucla-football/>
+<span>
+<a href="https://dailybruin.com/2023/11/28/nelsons-noggin-dante-moores-lackluster-performance-mismanagement-hinder-ucla-football/">https://dailybruin.com/2023/11/28/nelsons-noggin-dante-moores-lackluster-performance-mismanagement-hinder-ucla-football/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/28/nelsons-noggin-dante-moores-lackluster-performance-mismanagement-hinder-ucla-football/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -478,9 +791,13 @@ One man absorbed most of the criticism as the Bruins stumbled and sputtered towa
 
 date: 2023-11-29, updated: 2023-11-29, from: The LAist
 
-The parents of Deputy Ryan Clinkunbroomer say his killing while on duty outside the Palmdale station could have been prevented. 
+The parents of Deputy Ryan Clinkunbroomer say his killing while on duty outside the Palmdale station could have been prevented.
 
-<https://laist.com/news/criminal-justice/family-of-la-county-sheriffs-deputy-plan-to-claim-in-lawsuit-that-forced-overtime-contributed-to-his-death>
+<span>
+<a href="https://laist.com/news/criminal-justice/family-of-la-county-sheriffs-deputy-plan-to-claim-in-lawsuit-that-forced-overtime-contributed-to-his-death">https://laist.com/news/criminal-justice/family-of-la-county-sheriffs-deputy-plan-to-claim-in-lawsuit-that-forced-overtime-contributed-to-his-death</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/criminal-justice/family-of-la-county-sheriffs-deputy-plan-to-claim-in-lawsuit-that-forced-overtime-contributed-to-his-death">Save to Pocket</a>
+</span>
 
 ---
 
@@ -490,9 +807,13 @@ date: 2023-11-28, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 28 at 9:00 p.m.</em>
 Drawing a family tree doesn’t typically invoke much thought for an eight-year-old.
-However, the elementary school activity triggered intrigue and emotion for Kat Lutz. 
+However, the elementary school activity triggered intrigue and emotion for Kat Lutz.
 
-<https://dailybruin.com/2023/11/28/kat-lutz-endeavors-to-spread-adoption-awareness-and-importance-dismantle-stigma/>
+<span>
+<a href="https://dailybruin.com/2023/11/28/kat-lutz-endeavors-to-spread-adoption-awareness-and-importance-dismantle-stigma/">https://dailybruin.com/2023/11/28/kat-lutz-endeavors-to-spread-adoption-awareness-and-importance-dismantle-stigma/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/28/kat-lutz-endeavors-to-spread-adoption-awareness-and-importance-dismantle-stigma/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -502,9 +823,13 @@ date: 2023-11-28, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 28 at 9:09 p.m.</em>
 Two veteran Bruins are searching for new homes.
-UCLA football senior wide receivers Kam Brown and Keegan Jones entered the transfer portal Monday morning. 
+UCLA football senior wide receivers Kam Brown and Keegan Jones entered the transfer portal Monday morning.
 
-<https://dailybruin.com/2023/11/28/ucla-football-wide-receivers-kam-brown-and-keegan-jones-enter-transfer-portal/>
+<span>
+<a href="https://dailybruin.com/2023/11/28/ucla-football-wide-receivers-kam-brown-and-keegan-jones-enter-transfer-portal/">https://dailybruin.com/2023/11/28/ucla-football-wide-receivers-kam-brown-and-keegan-jones-enter-transfer-portal/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/28/ucla-football-wide-receivers-kam-brown-and-keegan-jones-enter-transfer-portal/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -512,9 +837,13 @@ UCLA football senior wide receivers Kam Brown and Keegan Jones entered the trans
 
 date: 2023-11-28, updated: 2023-11-28, from: The LAist
 
-Listen to the latest How To LA podcast episode about the role water played in shaping the size of L.A. County. 
+Listen to the latest How To LA podcast episode about the role water played in shaping the size of L.A. County.
 
-<https://laist.com/news/la-history/the-true-story-of-how-la-got-to-be-so-big>
+<span>
+<a href="https://laist.com/news/la-history/the-true-story-of-how-la-got-to-be-so-big">https://laist.com/news/la-history/the-true-story-of-how-la-got-to-be-so-big</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/la-history/the-true-story-of-how-la-got-to-be-so-big">Save to Pocket</a>
+</span>
 
 ---
 
@@ -524,9 +853,13 @@ date: 2023-11-28, from: The Round Up (Peirce College Student Newspaper)
 
 <p>International Student Services hosted a tie-dye event for students on Wednesday at the Student Services Building at Pierce College. Meagan Truxal, the International Student Services</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/28/pierce-gets-groovy-man/">Pierce gets groovy, man</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/28/pierce-gets-groovy-man/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-gets-groovy-man>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/28/pierce-gets-groovy-man/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-gets-groovy-man">https://theroundupnews.com/2023/11/28/pierce-gets-groovy-man/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-gets-groovy-man</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/28/pierce-gets-groovy-man/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-gets-groovy-man">Save to Pocket</a>
+</span>
 
 ---
 
@@ -536,9 +869,13 @@ date: 2023-11-28, from: The Round Up (Peirce College Student Newspaper)
 
 <p>Everything that we do as parents, we do for our children in some way or form.  All around America, the third Thursday in April is</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/28/pierce-should-host-bring-your-kid-to-school-event/">Pierce should host bring-your-kid-to-school event</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/28/pierce-should-host-bring-your-kid-to-school-event/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-should-host-bring-your-kid-to-school-event>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/28/pierce-should-host-bring-your-kid-to-school-event/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-should-host-bring-your-kid-to-school-event">https://theroundupnews.com/2023/11/28/pierce-should-host-bring-your-kid-to-school-event/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-should-host-bring-your-kid-to-school-event</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/28/pierce-should-host-bring-your-kid-to-school-event/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-should-host-bring-your-kid-to-school-event">Save to Pocket</a>
+</span>
 
 ---
 
@@ -548,9 +885,13 @@ date: 2023-11-28, from: The Round Up (Peirce College Student Newspaper)
 
 <p>I still wear a mask after all these years. &#160; Now, I realize it’s 2023. I really don’t hear about COVID-19 on the news anymore,</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/28/why-i-still-wear-a-mask/">Why I still wear a mask</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/28/why-i-still-wear-a-mask/?utm_source=rss&utm_medium=rss&utm_campaign=why-i-still-wear-a-mask>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/28/why-i-still-wear-a-mask/?utm_source=rss&utm_medium=rss&utm_campaign=why-i-still-wear-a-mask">https://theroundupnews.com/2023/11/28/why-i-still-wear-a-mask/?utm_source=rss&utm_medium=rss&utm_campaign=why-i-still-wear-a-mask</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/28/why-i-still-wear-a-mask/?utm_source=rss&utm_medium=rss&utm_campaign=why-i-still-wear-a-mask">Save to Pocket</a>
+</span>
 
 ---
 
@@ -560,9 +901,13 @@ date: 2023-11-28, from: The Round Up (Peirce College Student Newspaper)
 
 <p>The American Sign Language (ASL) Club hosted a Fall Gathering event on Tuesday, Nov. 14, at the IRIS room 901 at Pierce College featuring seasonal</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/28/connecting-with-people/">Connecting with people</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/28/connecting-with-people/?utm_source=rss&utm_medium=rss&utm_campaign=connecting-with-people>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/28/connecting-with-people/?utm_source=rss&utm_medium=rss&utm_campaign=connecting-with-people">https://theroundupnews.com/2023/11/28/connecting-with-people/?utm_source=rss&utm_medium=rss&utm_campaign=connecting-with-people</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/28/connecting-with-people/?utm_source=rss&utm_medium=rss&utm_campaign=connecting-with-people">Save to Pocket</a>
+</span>
 
 ---
 
@@ -572,9 +917,13 @@ date: 2023-11-28, from: The Round Up (Peirce College Student Newspaper)
 
 <p>Post-pandemic my relationship with health has changed drastically. I did not respect my well-being as much as I should have during those two and a</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/28/my-relationship-with-health-post-pandemic/">My relationship with health post-pandemic</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/28/my-relationship-with-health-post-pandemic/?utm_source=rss&utm_medium=rss&utm_campaign=my-relationship-with-health-post-pandemic>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/28/my-relationship-with-health-post-pandemic/?utm_source=rss&utm_medium=rss&utm_campaign=my-relationship-with-health-post-pandemic">https://theroundupnews.com/2023/11/28/my-relationship-with-health-post-pandemic/?utm_source=rss&utm_medium=rss&utm_campaign=my-relationship-with-health-post-pandemic</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/28/my-relationship-with-health-post-pandemic/?utm_source=rss&utm_medium=rss&utm_campaign=my-relationship-with-health-post-pandemic">Save to Pocket</a>
+</span>
 
 ---
 
@@ -584,9 +933,13 @@ date: 2023-11-28, from: The Round Up (Peirce College Student Newspaper)
 
 <p>Pierce women’s basketball continued their four game winning streak as they defeated the Golden West Rustlers 72-70 in the final minutes.  Defense is what brought</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/28/brahmas-win-nail-biter-in-final-seconds/">Brahmas win nail-biter in final seconds</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/28/brahmas-win-nail-biter-in-final-seconds/?utm_source=rss&utm_medium=rss&utm_campaign=brahmas-win-nail-biter-in-final-seconds>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/28/brahmas-win-nail-biter-in-final-seconds/?utm_source=rss&utm_medium=rss&utm_campaign=brahmas-win-nail-biter-in-final-seconds">https://theroundupnews.com/2023/11/28/brahmas-win-nail-biter-in-final-seconds/?utm_source=rss&utm_medium=rss&utm_campaign=brahmas-win-nail-biter-in-final-seconds</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/28/brahmas-win-nail-biter-in-final-seconds/?utm_source=rss&utm_medium=rss&utm_campaign=brahmas-win-nail-biter-in-final-seconds">Save to Pocket</a>
+</span>
 
 ---
 
@@ -596,9 +949,13 @@ date: 2023-11-28, from: The Round Up (Peirce College Student Newspaper)
 
 <p>Women’s soccer had an exciting postseason, getting a win against Antelope Valley College in penalty kicks but losing to Saddleback College.  In the play-in game</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/28/brief-womens-soccer-playoff-season-ends/">BRIEF: Women&#8217;s soccer playoff season ends</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/28/brief-womens-soccer-playoff-season-ends/?utm_source=rss&utm_medium=rss&utm_campaign=brief-womens-soccer-playoff-season-ends>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/28/brief-womens-soccer-playoff-season-ends/?utm_source=rss&utm_medium=rss&utm_campaign=brief-womens-soccer-playoff-season-ends">https://theroundupnews.com/2023/11/28/brief-womens-soccer-playoff-season-ends/?utm_source=rss&utm_medium=rss&utm_campaign=brief-womens-soccer-playoff-season-ends</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/28/brief-womens-soccer-playoff-season-ends/?utm_source=rss&utm_medium=rss&utm_campaign=brief-womens-soccer-playoff-season-ends">Save to Pocket</a>
+</span>
 
 ---
 
@@ -608,9 +965,13 @@ date: 2023-11-28, from: The Round Up (Peirce College Student Newspaper)
 
 <p>The program Tonal Centers performed as part of a series of dance routines for the 2023 Dance Concerts held on Nov. 17, 18 and 19. </p>
 <p>The post <a href="https://theroundupnews.com/2023/11/28/dancing-the-night-away-2/">Dancing the night away</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/28/dancing-the-night-away-2/?utm_source=rss&utm_medium=rss&utm_campaign=dancing-the-night-away-2>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/28/dancing-the-night-away-2/?utm_source=rss&utm_medium=rss&utm_campaign=dancing-the-night-away-2">https://theroundupnews.com/2023/11/28/dancing-the-night-away-2/?utm_source=rss&utm_medium=rss&utm_campaign=dancing-the-night-away-2</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/28/dancing-the-night-away-2/?utm_source=rss&utm_medium=rss&utm_campaign=dancing-the-night-away-2">Save to Pocket</a>
+</span>
 
 ---
 
@@ -620,9 +981,13 @@ date: 2023-11-28, from: The Round Up (Peirce College Student Newspaper)
 
 <p>The Academic Senate meeting began with a word from President Ara Aguiar. She wished all the participants a warm and safe Thanksgiving for the holiday.</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/28/new-winter-classes-added/">New winter classes added</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/28/new-winter-classes-added/?utm_source=rss&utm_medium=rss&utm_campaign=new-winter-classes-added>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/28/new-winter-classes-added/?utm_source=rss&utm_medium=rss&utm_campaign=new-winter-classes-added">https://theroundupnews.com/2023/11/28/new-winter-classes-added/?utm_source=rss&utm_medium=rss&utm_campaign=new-winter-classes-added</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/28/new-winter-classes-added/?utm_source=rss&utm_medium=rss&utm_campaign=new-winter-classes-added">Save to Pocket</a>
+</span>
 
 ---
 
@@ -632,9 +997,13 @@ date: 2023-11-28, from: The Round Up (Peirce College Student Newspaper)
 
 <p>Ariel Ein-Gal, a 26-year-old Israeli and a survivor of the Oct. 7 Hamas terrorist attacks, stood up to the attentive audience and stretched out his</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/28/hamas-attack-survivors-share-their-stories-at-csun/">Hamas attack survivors share their stories at CSUN</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/28/hamas-attack-survivors-share-their-stories-at-csun/?utm_source=rss&utm_medium=rss&utm_campaign=hamas-attack-survivors-share-their-stories-at-csun>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/28/hamas-attack-survivors-share-their-stories-at-csun/?utm_source=rss&utm_medium=rss&utm_campaign=hamas-attack-survivors-share-their-stories-at-csun">https://theroundupnews.com/2023/11/28/hamas-attack-survivors-share-their-stories-at-csun/?utm_source=rss&utm_medium=rss&utm_campaign=hamas-attack-survivors-share-their-stories-at-csun</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/28/hamas-attack-survivors-share-their-stories-at-csun/?utm_source=rss&utm_medium=rss&utm_campaign=hamas-attack-survivors-share-their-stories-at-csun">Save to Pocket</a>
+</span>
 
 ---
 
@@ -642,9 +1011,13 @@ date: 2023-11-28, from: The Round Up (Peirce College Student Newspaper)
 
 date: 2023-11-28, from: The Sundail (CSUN Student Newspaper)
 
-Project D.A.T.E., a student-run group devoted to raising awareness of sexual assault at CSUN, hosted a tabling event on Oct. 24th in the middle of the quad next to the Matador Statue. This is all a part of their annual campus-wide event, which is part of a national campaign called “It’s On Us” that seeks... 
+Project D.A.T.E., a student-run group devoted to raising awareness of sexual assault at CSUN, hosted a tabling event on Oct. 24th in the middle of the quad next to the Matador Statue. This is all a part of their annual campus-wide event, which is part of a national campaign called “It’s On Us” that seeks...
 
-<https://sundial.csun.edu/177194/news/project-d-a-t-e-raises-awareness-of-sexual-assault-on-campus/>
+<span>
+<a href="https://sundial.csun.edu/177194/news/project-d-a-t-e-raises-awareness-of-sexual-assault-on-campus/">https://sundial.csun.edu/177194/news/project-d-a-t-e-raises-awareness-of-sexual-assault-on-campus/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://sundial.csun.edu/177194/news/project-d-a-t-e-raises-awareness-of-sexual-assault-on-campus/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -652,9 +1025,13 @@ Project D.A.T.E., a student-run group devoted to raising awareness of sexual ass
 
 date: 2023-11-28, updated: 2023-11-28, from: The LAist
 
-It's Giving Tuesday. And donations, no matter how small, make a difference. And so does your time. Here's our guide to donating and volunteering in and around L.A. 
+It's Giving Tuesday. And donations, no matter how small, make a difference. And so does your time. Here's our guide to donating and volunteering in and around L.A.
 
-<https://laist.com/news/los-angeles-activities/los-angeles-gift-guide-giving-tuesday-2023>
+<span>
+<a href="https://laist.com/news/los-angeles-activities/los-angeles-gift-guide-giving-tuesday-2023">https://laist.com/news/los-angeles-activities/los-angeles-gift-guide-giving-tuesday-2023</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/los-angeles-activities/los-angeles-gift-guide-giving-tuesday-2023">Save to Pocket</a>
+</span>
 
 ---
 
@@ -662,9 +1039,13 @@ It's Giving Tuesday. And donations, no matter how small, make a difference. And 
 
 date: 2023-11-28, updated: 2023-11-28, from: The LAist
 
-Union negotiators won first-of-their-kind protections around artificial intelligence. But some performers still have questions. 
+Union negotiators won first-of-their-kind protections around artificial intelligence. But some performers still have questions.
 
-<https://laist.com/news/arts-and-entertainment/some-actors-concerned-about-ai-provisions-in-sag-aftra-contract-as-ratification-deadline-approaches>
+<span>
+<a href="https://laist.com/news/arts-and-entertainment/some-actors-concerned-about-ai-provisions-in-sag-aftra-contract-as-ratification-deadline-approaches">https://laist.com/news/arts-and-entertainment/some-actors-concerned-about-ai-provisions-in-sag-aftra-contract-as-ratification-deadline-approaches</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/arts-and-entertainment/some-actors-concerned-about-ai-provisions-in-sag-aftra-contract-as-ratification-deadline-approaches">Save to Pocket</a>
+</span>
 
 ---
 
@@ -672,9 +1053,13 @@ Union negotiators won first-of-their-kind protections around artificial intellig
 
 date: 2023-11-28, updated: 2023-11-28, from: The LAist
 
-Many candidates do not buy space in printed sample ballots because they say it's cost prohibitive. A new plan would add lower-cost online publishing. 
+Many candidates do not buy space in printed sample ballots because they say it's cost prohibitive. A new plan would add lower-cost online publishing.
 
-<https://laist.com/news/politics/la-county-candidates-lower-cost-online-publishing-ballot-statements>
+<span>
+<a href="https://laist.com/news/politics/la-county-candidates-lower-cost-online-publishing-ballot-statements">https://laist.com/news/politics/la-county-candidates-lower-cost-online-publishing-ballot-statements</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/politics/la-county-candidates-lower-cost-online-publishing-ballot-statements">Save to Pocket</a>
+</span>
 
 ---
 
@@ -682,9 +1067,13 @@ Many candidates do not buy space in printed sample ballots because they say it's
 
 date: 2023-11-28, updated: 2023-11-28, from: The LAist
 
-Are you looking to be more mindful about where you spend your money? If you want to shop local this holiday season, we can help with this guide to some of our favorite placed to drop some dough IRL. 
+Are you looking to be more mindful about where you spend your money? If you want to shop local this holiday season, we can help with this guide to some of our favorite placed to drop some dough IRL.
 
-<https://laist.com/news/los-angeles-activities/los-angeles-gift-guide-shop-local-2023>
+<span>
+<a href="https://laist.com/news/los-angeles-activities/los-angeles-gift-guide-shop-local-2023">https://laist.com/news/los-angeles-activities/los-angeles-gift-guide-shop-local-2023</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/los-angeles-activities/los-angeles-gift-guide-shop-local-2023">Save to Pocket</a>
+</span>
 
 ---
 
@@ -692,9 +1081,13 @@ Are you looking to be more mindful about where you spend your money? If you want
 
 date: 2023-11-28, updated: 2023-11-28, from: The LAist
 
-The vast majority of people housed over the past year have moved into temporary housing. 
+The vast majority of people housed over the past year have moved into temporary housing.
 
-<https://laist.com/news/politics/bass-says-she-has-housed-18-000-angelenos-but-will-they-stay-housed>
+<span>
+<a href="https://laist.com/news/politics/bass-says-she-has-housed-18-000-angelenos-but-will-they-stay-housed">https://laist.com/news/politics/bass-says-she-has-housed-18-000-angelenos-but-will-they-stay-housed</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/politics/bass-says-she-has-housed-18-000-angelenos-but-will-they-stay-housed">Save to Pocket</a>
+</span>
 
 ---
 
@@ -702,9 +1095,13 @@ The vast majority of people housed over the past year have moved into temporary 
 
 date: 2023-11-28, from: Laloyolan (LMU Student Newspaper)
 
-Residents of Palm South Apartments have access to all sorts of amenities like a beautiful outdoor lounge, hammocks, a large downstairs kitchen, a living room and a media room. 
+Residents of Palm South Apartments have access to all sorts of amenities like a beautiful outdoor lounge, hammocks, a large downstairs kitchen, a living room and a media room.
 
-<https://www.laloyolan.com/image-of-palm-south-residence/image_b362c3d8-8db1-11ee-a468-6fd2ce34a549.html>
+<span>
+<a href="https://www.laloyolan.com/image-of-palm-south-residence/image_b362c3d8-8db1-11ee-a468-6fd2ce34a549.html">https://www.laloyolan.com/image-of-palm-south-residence/image_b362c3d8-8db1-11ee-a468-6fd2ce34a549.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/image-of-palm-south-residence/image_b362c3d8-8db1-11ee-a468-6fd2ce34a549.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -712,9 +1109,13 @@ Residents of Palm South Apartments have access to all sorts of amenities like a 
 
 date: 2023-11-28, from: Laloyolan (LMU Student Newspaper)
 
-The new ordinance, starting in February 2024, will apply to LMU students living in off-campus housing not supported by LMU. 
+The new ordinance, starting in February 2024, will apply to LMU students living in off-campus housing not supported by LMU.
 
-<https://www.laloyolan.com/news/photo1-jpg/image_18c76681-37d3-5050-8080-ff0de2397ff8.html>
+<span>
+<a href="https://www.laloyolan.com/news/photo1-jpg/image_18c76681-37d3-5050-8080-ff0de2397ff8.html">https://www.laloyolan.com/news/photo1-jpg/image_18c76681-37d3-5050-8080-ff0de2397ff8.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/news/photo1-jpg/image_18c76681-37d3-5050-8080-ff0de2397ff8.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -722,9 +1123,13 @@ The new ordinance, starting in February 2024, will apply to LMU students living 
 
 date: 2023-11-28, from: Laloyolan (LMU Student Newspaper)
 
-Rent increases have been frozen since the COVID-19 pandemic, and increases could cause major changes for LMU off-campus residents. 
+Rent increases have been frozen since the COVID-19 pandemic, and increases could cause major changes for LMU off-campus residents.
 
-<https://www.laloyolan.com/news/los-angeles-implements-4-cap-on-rent-increases-starting-in-february-2024/article_c6d969bb-1487-5564-b573-d3ab205eb523.html>
+<span>
+<a href="https://www.laloyolan.com/news/los-angeles-implements-4-cap-on-rent-increases-starting-in-february-2024/article_c6d969bb-1487-5564-b573-d3ab205eb523.html">https://www.laloyolan.com/news/los-angeles-implements-4-cap-on-rent-increases-starting-in-february-2024/article_c6d969bb-1487-5564-b573-d3ab205eb523.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/news/los-angeles-implements-4-cap-on-rent-increases-starting-in-february-2024/article_c6d969bb-1487-5564-b573-d3ab205eb523.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -732,9 +1137,13 @@ Rent increases have been frozen since the COVID-19 pandemic, and increases could
 
 date: 2023-11-28, from: Laloyolan (LMU Student Newspaper)
 
-Jose Membribes has worked at LMU for nearly 44 years. Before his retirement, he sat down with the Loyolan to discuss his time on the Bluff. 
+Jose Membribes has worked at LMU for nearly 44 years. Before his retirement, he sat down with the Loyolan to discuss his time on the Bluff.
 
-<https://www.laloyolan.com/news/i-did-my-job-inside-jose-membribes-43-years-in-facilities-management/article_18642992-8f97-56ad-a72f-e3851b09a684.html>
+<span>
+<a href="https://www.laloyolan.com/news/i-did-my-job-inside-jose-membribes-43-years-in-facilities-management/article_18642992-8f97-56ad-a72f-e3851b09a684.html">https://www.laloyolan.com/news/i-did-my-job-inside-jose-membribes-43-years-in-facilities-management/article_18642992-8f97-56ad-a72f-e3851b09a684.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/news/i-did-my-job-inside-jose-membribes-43-years-in-facilities-management/article_18642992-8f97-56ad-a72f-e3851b09a684.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -742,9 +1151,13 @@ Jose Membribes has worked at LMU for nearly 44 years. Before his retirement, he 
 
 date: 2023-11-28, from: Laloyolan (LMU Student Newspaper)
 
-Jose Membribes has worked in practically every building on campus in his 43 years at Facilities Management. 
+Jose Membribes has worked in practically every building on campus in his 43 years at Facilities Management.
 
-<https://www.laloyolan.com/news/jose-membribes-on-palm-walk/image_17f1ee82-be3a-5d27-bace-18ce4b11a98b.html>
+<span>
+<a href="https://www.laloyolan.com/news/jose-membribes-on-palm-walk/image_17f1ee82-be3a-5d27-bace-18ce4b11a98b.html">https://www.laloyolan.com/news/jose-membribes-on-palm-walk/image_17f1ee82-be3a-5d27-bace-18ce4b11a98b.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/news/jose-membribes-on-palm-walk/image_17f1ee82-be3a-5d27-bace-18ce4b11a98b.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -752,9 +1165,13 @@ Jose Membribes has worked in practically every building on campus in his 43 year
 
 date: 2023-11-28, from: Laloyolan (LMU Student Newspaper)
 
-Beyond his devotion to LMU, Jose treasures time with his grandkids Sophia and Michael Membribes. 
+Beyond his devotion to LMU, Jose treasures time with his grandkids Sophia and Michael Membribes.
 
-<https://www.laloyolan.com/news/jose-and-grandchild/image_8b70848d-0a96-5937-9bf9-6ed931633687.html>
+<span>
+<a href="https://www.laloyolan.com/news/jose-and-grandchild/image_8b70848d-0a96-5937-9bf9-6ed931633687.html">https://www.laloyolan.com/news/jose-and-grandchild/image_8b70848d-0a96-5937-9bf9-6ed931633687.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/news/jose-and-grandchild/image_8b70848d-0a96-5937-9bf9-6ed931633687.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -762,9 +1179,13 @@ Beyond his devotion to LMU, Jose treasures time with his grandkids Sophia and Mi
 
 date: 2023-11-28, from: Laloyolan (LMU Student Newspaper)
 
-The entire Membribes family is bonded by their love of LMU as both sons graduated from LMU. 
+The entire Membribes family is bonded by their love of LMU as both sons graduated from LMU.
 
-<https://www.laloyolan.com/news/membribes-family/image_de7ea71a-c78b-51d1-ba4e-243885b766fd.html>
+<span>
+<a href="https://www.laloyolan.com/news/membribes-family/image_de7ea71a-c78b-51d1-ba4e-243885b766fd.html">https://www.laloyolan.com/news/membribes-family/image_de7ea71a-c78b-51d1-ba4e-243885b766fd.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/news/membribes-family/image_de7ea71a-c78b-51d1-ba4e-243885b766fd.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -772,9 +1193,13 @@ The entire Membribes family is bonded by their love of LMU as both sons graduate
 
 date: 2023-11-28, from: Laloyolan (LMU Student Newspaper)
 
-Leticia Stassi, Sebastian Reyes and Marianna Villa were all digging around in a University Hall storage area in August 2011 when they found these comically oversized ceremonial ribbon-cutting scissors. “Perfect for a haircut! Just a little bit off the ends,”… 
+Leticia Stassi, Sebastian Reyes and Marianna Villa were all digging around in a University Hall storage area in August 2011 when they found these comically oversized ceremonial ribbon-cutting scissors. “Perfect for a haircut! Just a little bit off the ends,”…
 
-<https://www.laloyolan.com/haircut-jpg/image_08d03c65-562d-5e7a-9397-c9d857878919.html>
+<span>
+<a href="https://www.laloyolan.com/haircut-jpg/image_08d03c65-562d-5e7a-9397-c9d857878919.html">https://www.laloyolan.com/haircut-jpg/image_08d03c65-562d-5e7a-9397-c9d857878919.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/haircut-jpg/image_08d03c65-562d-5e7a-9397-c9d857878919.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -782,9 +1207,13 @@ Leticia Stassi, Sebastian Reyes and Marianna Villa were all digging around in a 
 
 date: 2023-11-28, from: Laloyolan (LMU Student Newspaper)
 
-The Lions dominated the University of Texas, El Paso, winning 67-47. LMU held the Miners to 30.2% shooting from the field and 11.8% from three point range. 
+The Lions dominated the University of Texas, El Paso, winning 67-47. LMU held the Miners to 30.2% shooting from the field and 11.8% from three point range.
 
-<https://www.laloyolan.com/sports/basketball/dsc00237-jpeg/image_5517499f-1223-51fd-9088-eb696dfefa2f.html>
+<span>
+<a href="https://www.laloyolan.com/sports/basketball/dsc00237-jpeg/image_5517499f-1223-51fd-9088-eb696dfefa2f.html">https://www.laloyolan.com/sports/basketball/dsc00237-jpeg/image_5517499f-1223-51fd-9088-eb696dfefa2f.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/sports/basketball/dsc00237-jpeg/image_5517499f-1223-51fd-9088-eb696dfefa2f.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -792,9 +1221,13 @@ The Lions dominated the University of Texas, El Paso, winning 67-47. LMU held th
 
 date: 2023-11-28, from: Laloyolan (LMU Student Newspaper)
 
-Leavey 4 is an excellent apartment situated right by the Bluff. 
+Leavey 4 is an excellent apartment situated right by the Bluff.
 
-<https://www.laloyolan.com/opinion/leavey-photo-jpg/image_6a04c308-4977-53cc-837d-484e3f96ad59.html>
+<span>
+<a href="https://www.laloyolan.com/opinion/leavey-photo-jpg/image_6a04c308-4977-53cc-837d-484e3f96ad59.html">https://www.laloyolan.com/opinion/leavey-photo-jpg/image_6a04c308-4977-53cc-837d-484e3f96ad59.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/opinion/leavey-photo-jpg/image_6a04c308-4977-53cc-837d-484e3f96ad59.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -802,9 +1235,13 @@ Leavey 4 is an excellent apartment situated right by the Bluff.
 
 date: 2023-11-28, updated: 2023-11-28, from: The LAist
 
-The tentative contract raises pay and benefits for about 3,000 graduate students at USC. 
+The tentative contract raises pay and benefits for about 3,000 graduate students at USC.
 
-<https://laist.com/news/education/usc-graduate-students-reach-deal-avert-campus-wide-strike>
+<span>
+<a href="https://laist.com/news/education/usc-graduate-students-reach-deal-avert-campus-wide-strike">https://laist.com/news/education/usc-graduate-students-reach-deal-avert-campus-wide-strike</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/education/usc-graduate-students-reach-deal-avert-campus-wide-strike">Save to Pocket</a>
+</span>
 
 ---
 
@@ -812,9 +1249,13 @@ The tentative contract raises pay and benefits for about 3,000 graduate students
 
 date: 2023-11-28, from: The Daily Bruin (UCLA Student Newspaper)
 
-In Plain Sight is a Daily Bruin features series designed to showcase the work that goes into making everyday life as a Bruin possible. As part of the series, our writers go behind the scenes to discover secrets of the university that are hidden in plain sight. 
+In Plain Sight is a Daily Bruin features series designed to showcase the work that goes into making everyday life as a Bruin possible. As part of the series, our writers go behind the scenes to discover secrets of the university that are hidden in plain sight.
 
-<https://dailybruin.com/tag/in-plain-sight>
+<span>
+<a href="https://dailybruin.com/tag/in-plain-sight">https://dailybruin.com/tag/in-plain-sight</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/tag/in-plain-sight">Save to Pocket</a>
+</span>
 
 ---
 
@@ -822,9 +1263,13 @@ In Plain Sight is a Daily Bruin features series designed to showcase the work th
 
 date: 2023-11-28, updated: 2023-11-28, from: The LAist
 
-The small Tundra Bean Goose is typically found in Alaska, China, and Russia. 
+The small Tundra Bean Goose is typically found in Alaska, China, and Russia.
 
-<https://laist.com/news/climate-environment/a-rare-arctic-visitor-shows-up-in-south-la>
+<span>
+<a href="https://laist.com/news/climate-environment/a-rare-arctic-visitor-shows-up-in-south-la">https://laist.com/news/climate-environment/a-rare-arctic-visitor-shows-up-in-south-la</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/climate-environment/a-rare-arctic-visitor-shows-up-in-south-la">Save to Pocket</a>
+</span>
 
 ---
 
@@ -833,9 +1278,13 @@ The small Tundra Bean Goose is typically found in Alaska, China, and Russia.
 date: 2023-11-28, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 28 at 9:18 p.m.</em>
-UCLA football (7-5, 4-5 Pac-12) was blown out 33-7 by California (6-6, 4-5) on Saturday night, marking the Bruins&#8217; largest margin of defeat to close out their regular season. 
+UCLA football (7-5, 4-5 Pac-12) was blown out 33-7 by California (6-6, 4-5) on Saturday night, marking the Bruins&#8217; largest margin of defeat to close out their regular season.
 
-<https://dailybruin.com/2023/11/27/five-things-ucla-vs-california-5/>
+<span>
+<a href="https://dailybruin.com/2023/11/27/five-things-ucla-vs-california-5/">https://dailybruin.com/2023/11/27/five-things-ucla-vs-california-5/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/27/five-things-ucla-vs-california-5/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -844,9 +1293,13 @@ UCLA football (7-5, 4-5 Pac-12) was blown out 33-7 by California (6-6, 4-5) on S
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
 <p><em>Introduction:</em></p>
-<p>In the dystopian world of Panem, where each choice defines destinies and the division between good and evil is blurred more often than not, &ldquo;The Hunger Games: The Ballad of Songbirds and Snakes&rdquo; dives into the core conflicts present in the entire Hunger Games franchise. Themes of desperation, morality, and the human condition are revisited by diving into the origin story of the tyrannical President Coriolanus Snow, the originator of the state of the Games that we saw in the main franchise. For ASCIT’s annual free movie night held on November 19th, 2023, Caltech students were teleported into the world of the twelve districts and the Capitol to follow along as Coriolanus goes from ambitious student to cold-blooded manipulator.</p> 
+<p>In the dystopian world of Panem, where each choice defines destinies and the division between good and evil is blurred more often than not, &ldquo;The Hunger Games: The Ballad of Songbirds and Snakes&rdquo; dives into the core conflicts present in the entire Hunger Games franchise. Themes of desperation, morality, and the human condition are revisited by diving into the origin story of the tyrannical President Coriolanus Snow, the originator of the state of the Games that we saw in the main franchise. For ASCIT’s annual free movie night held on November 19th, 2023, Caltech students were teleported into the world of the twelve districts and the Capitol to follow along as Coriolanus goes from ambitious student to cold-blooded manipulator.</p>
 
-<https://tech.caltech.edu/2023/11/28/arc-tip-of-the-week/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/arc-tip-of-the-week/">https://tech.caltech.edu/2023/11/28/arc-tip-of-the-week/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/arc-tip-of-the-week/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -854,9 +1307,13 @@ date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-Caltech&rsquo;s rigorous academic environment is well-known, but to shed some new light on the actual daily grind of undergraduates. 
+Caltech&rsquo;s rigorous academic environment is well-known, but to shed some new light on the actual daily grind of undergraduates.
 
-<https://tech.caltech.edu/2023/11/28/behind-the-numbers/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/behind-the-numbers/">https://tech.caltech.edu/2023/11/28/behind-the-numbers/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/behind-the-numbers/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -864,9 +1321,13 @@ Caltech&rsquo;s rigorous academic environment is well-known, but to shed some ne
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-PASADENA, CA — In a based and green-pilled display of social responsibility, the California Institute of Technology reported its first year of carbon neutrality since 1898, according to a press release issued by the CalTech Sustainability Council on Monday. 
+PASADENA, CA — In a based and green-pilled display of social responsibility, the California Institute of Technology reported its first year of carbon neutrality since 1898, according to a press release issued by the CalTech Sustainability Council on Monday.
 
-<https://tech.caltech.edu/2023/11/28/caltech-eliminates/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/caltech-eliminates/">https://tech.caltech.edu/2023/11/28/caltech-eliminates/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/caltech-eliminates/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -875,9 +1336,13 @@ PASADENA, CA — In a based and green-pilled display of social responsibility, t
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
 In mid-October, the Caltech Undergraduate Admissions Office held their annual Caltech Up Close (CUC) event. This year the program accepted 194 high school seniors, nearly double the 103 present the previous year.
-According to the Undergraduate Admissions website, the program is designed for “students of exceptional promise and will focus on the experiences of students from historically underserved backgrounds in STEM.” Selected participants have opportunities to “Explore Caltech&rsquo;s campus; Connect with campus community members, including faculty and current students; discover undergrad academics, research and internships, as well as student life; Grasp admissions and financial aid processes; and experience a glimpse of life in Southern California.” 
+According to the Undergraduate Admissions website, the program is designed for “students of exceptional promise and will focus on the experiences of students from historically underserved backgrounds in STEM.” Selected participants have opportunities to “Explore Caltech&rsquo;s campus; Connect with campus community members, including faculty and current students; discover undergrad academics, research and internships, as well as student life; Grasp admissions and financial aid processes; and experience a glimpse of life in Southern California.”
 
-<https://tech.caltech.edu/2023/11/28/caltech-up-close-2023/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/caltech-up-close-2023/">https://tech.caltech.edu/2023/11/28/caltech-up-close-2023/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/caltech-up-close-2023/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -885,9 +1350,13 @@ According to the Undergraduate Admissions website, the program is designed for �
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-<em>Editor’s note: This letter was emailed to the <em>Tech</em>’s business address with the subject line “Letter to the editor (okay to publish)” from one <a href="mailto:wlela@yahoo.com">wlela@yahoo.com</a>. The ‘yahoo.com’ should have been enough to justify deleting the email immediately. So should’ve the first sentence of the article. But upon googling the guy, and reading the first result: “Heterosexuals Organized for a Moral Environment (HOME) is an American pro-heterosexuality, anti-homosexuality organization founded by Wayne Lela and…”, I realized that this is far too funny not to publish. So without further ado, enjoy.</em> 
+<em>Editor’s note: This letter was emailed to the <em>Tech</em>’s business address with the subject line “Letter to the editor (okay to publish)” from one <a href="mailto:wlela@yahoo.com">wlela@yahoo.com</a>. The ‘yahoo.com’ should have been enough to justify deleting the email immediately. So should’ve the first sentence of the article. But upon googling the guy, and reading the first result: “Heterosexuals Organized for a Moral Environment (HOME) is an American pro-heterosexuality, anti-homosexuality organization founded by Wayne Lela and…”, I realized that this is far too funny not to publish. So without further ado, enjoy.</em>
 
-<https://tech.caltech.edu/2023/11/28/gayboys/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/gayboys/">https://tech.caltech.edu/2023/11/28/gayboys/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/gayboys/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -897,9 +1366,13 @@ date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
 <ul>
 <li>Office of Student Experience Accused of &lsquo;Robbing&rsquo; Caltech House System and Student Government to Bankroll Lavish Outings Under Guise of &lsquo;Student Recreation Events&rsquo;</li>
-</ul> 
+</ul>
 
-<https://tech.caltech.edu/2023/11/28/hotel-rivet-headlines/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/hotel-rivet-headlines/">https://tech.caltech.edu/2023/11/28/hotel-rivet-headlines/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/hotel-rivet-headlines/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -909,9 +1382,13 @@ date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
 <ul>
 <li>In a shocking development that has significantly impacted the political scene, Congressman George Santos from New York&rsquo;s 3rd congressional district is under intense scrutiny due to allegations of fraud and deceit. This situation has led to a thorough investigation by the House Ethics Committee.</li>
-</ul> 
+</ul>
 
-<https://tech.caltech.edu/2023/11/28/house-ethics-commitee/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/house-ethics-commitee/">https://tech.caltech.edu/2023/11/28/house-ethics-commitee/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/house-ethics-commitee/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -919,9 +1396,13 @@ date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-L + ratio + don&rsquo;t care + didn&rsquo;t ask + you go to Caltech + you&rsquo;re in booty house + you live in Braun + you were on the roof + you fell off + you&rsquo;re probably a CS/BEM/QF + if not you&rsquo;re probably an English major or something + you don’t even go to lecture + dark matter might as well be avocados floating through space + she lattice on my lecture till i + walk some olives on deez nuts + the hovse system violates the honor code + it&rsquo;s hazing too + the scientific project is fundamentally a negative dialectic + civilizing project too + blue hair and pronouns + the average caltech student takes more than the required number of hums + dean nye deez nuts + your best is not good enough + Email not displaying correctly? 
+L + ratio + don&rsquo;t care + didn&rsquo;t ask + you go to Caltech + you&rsquo;re in booty house + you live in Braun + you were on the roof + you fell off + you&rsquo;re probably a CS/BEM/QF + if not you&rsquo;re probably an English major or something + you don’t even go to lecture + dark matter might as well be avocados floating through space + she lattice on my lecture till i + walk some olives on deez nuts + the hovse system violates the honor code + it&rsquo;s hazing too + the scientific project is fundamentally a negative dialectic + civilizing project too + blue hair and pronouns + the average caltech student takes more than the required number of hums + dean nye deez nuts + your best is not good enough + Email not displaying correctly?
 
-<https://tech.caltech.edu/2023/11/28/l-ratio/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/l-ratio/">https://tech.caltech.edu/2023/11/28/l-ratio/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/l-ratio/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -929,9 +1410,13 @@ L + ratio + don&rsquo;t care + didn&rsquo;t ask + you go to Caltech + you&rsquo;
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-Everyone knows Mario is cool as fuck. But who knows what he&rsquo;s thinking? Who knows why he crushes turtles? And why do we think about him as fondly as we think of the mystical (nonexistent?) Dr Pepper? Perchance. 
+Everyone knows Mario is cool as fuck. But who knows what he&rsquo;s thinking? Who knows why he crushes turtles? And why do we think about him as fondly as we think of the mystical (nonexistent?) Dr Pepper? Perchance.
 
-<https://tech.caltech.edu/2023/11/28/mario-the-idea/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/mario-the-idea/">https://tech.caltech.edu/2023/11/28/mario-the-idea/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/mario-the-idea/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -939,9 +1424,13 @@ Everyone knows Mario is cool as fuck. But who knows what he&rsquo;s thinking? Wh
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-<h1 id="ascit-screening-room-suggestions-wanted">ASCIT Screening Room Suggestions Wanted</h1> 
+<h1 id="ascit-screening-room-suggestions-wanted">ASCIT Screening Room Suggestions Wanted</h1>
 
-<https://tech.caltech.edu/2023/11/28/mocktails/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/mocktails/">https://tech.caltech.edu/2023/11/28/mocktails/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/mocktails/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -949,9 +1438,13 @@ date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-<em>Introduction:</em> In the dystopian world of Panem, where each choice defines destinies and the division between good and evil is blurred more often than not, &ldquo;The Hunger Games: The Ballad of Songbirds and Snakes&rdquo; dives into the core conflicts present in the entire Hunger Games franchise. Themes of desperation, morality, and the human condition are revisited by diving into the origin story of the tyrannical President Coriolanus Snow, the originator of the state of the Games that we saw in the main franchise. For ASCIT’s annual free movie night held on November 19th, 2023, Caltech students were teleported into the world of the twelve districts and the Capitol to follow along as Coriolanus goes from ambitious student to cold-blooded manipulator. 
+<em>Introduction:</em> In the dystopian world of Panem, where each choice defines destinies and the division between good and evil is blurred more often than not, &ldquo;The Hunger Games: The Ballad of Songbirds and Snakes&rdquo; dives into the core conflicts present in the entire Hunger Games franchise. Themes of desperation, morality, and the human condition are revisited by diving into the origin story of the tyrannical President Coriolanus Snow, the originator of the state of the Games that we saw in the main franchise. For ASCIT’s annual free movie night held on November 19th, 2023, Caltech students were teleported into the world of the twelve districts and the Capitol to follow along as Coriolanus goes from ambitious student to cold-blooded manipulator.
 
-<https://tech.caltech.edu/2023/11/28/movie-review/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/movie-review/">https://tech.caltech.edu/2023/11/28/movie-review/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/movie-review/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -959,9 +1452,13 @@ date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-The most fundamental tenet of a Caltech undergraduate education is training students to collaborate effectively in order to solve the most difficult problems in science and math today. And yet, the sanctity of every common lounge space in every undergraduate house, the home of collaboration, is at risk due to a recent renovation effort by the Housing Office. 
+The most fundamental tenet of a Caltech undergraduate education is training students to collaborate effectively in order to solve the most difficult problems in science and math today. And yet, the sanctity of every common lounge space in every undergraduate house, the home of collaboration, is at risk due to a recent renovation effort by the Housing Office.
 
-<https://tech.caltech.edu/2023/11/28/new-couches/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/new-couches/">https://tech.caltech.edu/2023/11/28/new-couches/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/new-couches/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -969,9 +1466,13 @@ The most fundamental tenet of a Caltech undergraduate education is training stud
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-Life. Food. Family. Home. These are what Olive Garden seems to symbolize to the American public. And according to the SNL Olive Garden sketch (sketches? I don&rsquo;t know how many have been made). But if I had to choose one word to describe Olive Garden, it would just be &lsquo;big&rsquo;. 
+Life. Food. Family. Home. These are what Olive Garden seems to symbolize to the American public. And according to the SNL Olive Garden sketch (sketches? I don&rsquo;t know how many have been made). But if I had to choose one word to describe Olive Garden, it would just be &lsquo;big&rsquo;.
 
-<https://tech.caltech.edu/2023/11/28/olive-garden/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/olive-garden/">https://tech.caltech.edu/2023/11/28/olive-garden/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/olive-garden/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -979,9 +1480,13 @@ Life. Food. Family. Home. These are what Olive Garden seems to symbolize to the 
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-On Friday, October 13, 2023, all freshmen received an email from “ughousing@caltech.edu” with the subject “ACTION REQUIRED: UG Housing Eligibility Assessment for 2024-25 School Year.” This email led students to believe that there would be a merit-based assessment to decide what proportion of the freshmen class would live on campus and what proportion would need to search for off-campus options next year. 
+On Friday, October 13, 2023, all freshmen received an email from “ughousing@caltech.edu” with the subject “ACTION REQUIRED: UG Housing Eligibility Assessment for 2024-25 School Year.” This email led students to believe that there would be a merit-based assessment to decide what proportion of the freshmen class would live on campus and what proportion would need to search for off-campus options next year.
 
-<https://tech.caltech.edu/2023/11/28/on-housing-eligibility/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/on-housing-eligibility/">https://tech.caltech.edu/2023/11/28/on-housing-eligibility/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/on-housing-eligibility/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -991,9 +1496,13 @@ date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
 Looking to get your holiday light fix? Check out these locations:
 <strong>Holiday Light Spotting in the Neighborhoods:</strong>
-<strong>Christmas Tree Lane</strong> 
+<strong>Christmas Tree Lane</strong>
 
-<https://tech.caltech.edu/2023/11/28/pasadena-new-column/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/pasadena-new-column/">https://tech.caltech.edu/2023/11/28/pasadena-new-column/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/pasadena-new-column/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1001,9 +1510,13 @@ Looking to get your holiday light fix? Check out these locations:
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-Q: &ldquo;I&rsquo;m stumped on what to get for my significant other who seems to have everything. Any unique gift ideas that show thoughtfulness?&rdquo; 
+Q: &ldquo;I&rsquo;m stumped on what to get for my significant other who seems to have everything. Any unique gift ideas that show thoughtfulness?&rdquo;
 
-<https://tech.caltech.edu/2023/11/28/question-the-quail/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/question-the-quail/">https://tech.caltech.edu/2023/11/28/question-the-quail/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/question-the-quail/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1012,9 +1525,13 @@ Q: &ldquo;I&rsquo;m stumped on what to get for my significant other who seems to
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
 Experience:
-TLDR: Great Seafood restaurant not too far from campus. Go try some lobster! 
+TLDR: Great Seafood restaurant not too far from campus. Go try some lobster!
 
-<https://tech.caltech.edu/2023/11/28/restaurants-review/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/restaurants-review/">https://tech.caltech.edu/2023/11/28/restaurants-review/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/restaurants-review/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1022,9 +1539,13 @@ TLDR: Great Seafood restaurant not too far from campus. Go try some lobster!
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-Interhouse basketball just finished, and I would like to reflect on the season. Dabney showed up to a full 3 out of our 7 games and proudly lost all of them. Personally, I scored a whole one point for my team which is more than I ever could have imagined given basketball is my least favorite sport and I don’t actually know all the rules. 
+Interhouse basketball just finished, and I would like to reflect on the season. Dabney showed up to a full 3 out of our 7 games and proudly lost all of them. Personally, I scored a whole one point for my team which is more than I ever could have imagined given basketball is my least favorite sport and I don’t actually know all the rules.
 
-<https://tech.caltech.edu/2023/11/28/sports-ball/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/sports-ball/">https://tech.caltech.edu/2023/11/28/sports-ball/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/sports-ball/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1032,9 +1553,13 @@ Interhouse basketball just finished, and I would like to reflect on the season. 
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-<h2 id="_the-15th-fking-person-to-submit-an-anonymous-article-about-squirrels-this-term_"><em>The 15th F**king Person to Submit an Anonymous Article about Squirrels This Term</em></h2> 
+<h2 id="_the-15th-fking-person-to-submit-an-anonymous-article-about-squirrels-this-term_"><em>The 15th F**king Person to Submit an Anonymous Article about Squirrels This Term</em></h2>
 
-<https://tech.caltech.edu/2023/11/28/squirrels-unleashed/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/squirrels-unleashed/">https://tech.caltech.edu/2023/11/28/squirrels-unleashed/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/squirrels-unleashed/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1042,9 +1567,13 @@ date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-PASADENA, CA — In a based and green-pilled display of social responsibility, the California Institute of Technology reported its first year of carbon neutrality since 1898, according to a press release issued by the CalTech Sustainability Council on Monday. 
+PASADENA, CA — In a based and green-pilled display of social responsibility, the California Institute of Technology reported its first year of carbon neutrality since 1898, according to a press release issued by the CalTech Sustainability Council on Monday.
 
-<https://tech.caltech.edu/2023/11/28/fnaf-movie/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/fnaf-movie/">https://tech.caltech.edu/2023/11/28/fnaf-movie/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/fnaf-movie/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1052,9 +1581,13 @@ PASADENA, CA — In a based and green-pilled display of social responsibility, t
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-Caltech Faculty members have begun reevaluating the relevance of the Honor Code in their classrooms because they are losing faith in the ability of the student body to fulfill their responsibilities to the Honor Code. Students are worried about the state of the Honor Code because they think they are the only ones following it, believing faculty and administrative offices on campus are not held accountable for honor code violations. The number of reports of honor code violations has been elevated since the 2015-16 academic year, but during the year of online learning, reports of honor code violations further increased to 3 to 4 times the baseline case load. While the number of reports of honor code violations has fallen to the 2015-16 level, the stress placed on the Board of Control pushed it to the verge of failure. The BoC system implemented almost 100 years ago was not built to process this high case load, not built to withstand the ire of distrustful members of the Caltech community, and not built to protect a community, who, whether due to disinterest, fear, or overworkedness, is in some part negligent of the implications and applications of the Honor Code. 
+Caltech Faculty members have begun reevaluating the relevance of the Honor Code in their classrooms because they are losing faith in the ability of the student body to fulfill their responsibilities to the Honor Code. Students are worried about the state of the Honor Code because they think they are the only ones following it, believing faculty and administrative offices on campus are not held accountable for honor code violations. The number of reports of honor code violations has been elevated since the 2015-16 academic year, but during the year of online learning, reports of honor code violations further increased to 3 to 4 times the baseline case load. While the number of reports of honor code violations has fallen to the 2015-16 level, the stress placed on the Board of Control pushed it to the verge of failure. The BoC system implemented almost 100 years ago was not built to process this high case load, not built to withstand the ire of distrustful members of the Caltech community, and not built to protect a community, who, whether due to disinterest, fear, or overworkedness, is in some part negligent of the implications and applications of the Honor Code.
 
-<https://tech.caltech.edu/2023/11/28/the-honor-code-is-falling-apart/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/the-honor-code-is-falling-apart/">https://tech.caltech.edu/2023/11/28/the-honor-code-is-falling-apart/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/the-honor-code-is-falling-apart/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1064,9 +1597,13 @@ date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
 <ul>
 <li>Unleash Your Inner Prankster with Caltech&rsquo;s Official Prank Club!</li>
-</ul> 
+</ul>
 
-<https://tech.caltech.edu/2023/11/28/unleash-your-inner-plankter/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/unleash-your-inner-plankter/">https://tech.caltech.edu/2023/11/28/unleash-your-inner-plankter/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/unleash-your-inner-plankter/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1074,9 +1611,13 @@ date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-There has been a lot of buzz about the vague spectre of “admin” banning undergraduate house events, both during and outside Rotation this year. In continuing this discussion between tradition and inclusivity, the <em>Tech</em> interviewed Dr. Kevin Gilmartin, Vice President for Student Affairs, to get his perspective on the matter. Our conversation focused on two specific issues: Blacker Hovse’s Potato Cannon, and Ricketts Hovse’s Rotation Dinner Skits. 
+There has been a lot of buzz about the vague spectre of “admin” banning undergraduate house events, both during and outside Rotation this year. In continuing this discussion between tradition and inclusivity, the <em>Tech</em> interviewed Dr. Kevin Gilmartin, Vice President for Student Affairs, to get his perspective on the matter. Our conversation focused on two specific issues: Blacker Hovse’s Potato Cannon, and Ricketts Hovse’s Rotation Dinner Skits.
 
-<https://tech.caltech.edu/2023/11/28/vice-president-of-student-affairs/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/vice-president-of-student-affairs/">https://tech.caltech.edu/2023/11/28/vice-president-of-student-affairs/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/vice-president-of-student-affairs/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1084,9 +1625,13 @@ There has been a lot of buzz about the vague spectre of “admin” banning unde
 
 date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
 
-If you are a friend, an enemy, or even a vague acquaintance of mine, you have likely heard me tell you to write for the Tech. And yet my research has shown the vast majority of you have never written for the tech! What utter disgrace, frankly I’m disappointed. So in an effort to convince more of you to write for the tech I have written a very comprehensive guide about how to write for the tech. 
+If you are a friend, an enemy, or even a vague acquaintance of mine, you have likely heard me tell you to write for the Tech. And yet my research has shown the vast majority of you have never written for the tech! What utter disgrace, frankly I’m disappointed. So in an effort to convince more of you to write for the tech I have written a very comprehensive guide about how to write for the tech.
 
-<https://tech.caltech.edu/2023/11/28/write-for-the-tech/>
+<span>
+<a href="https://tech.caltech.edu/2023/11/28/write-for-the-tech/">https://tech.caltech.edu/2023/11/28/write-for-the-tech/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://tech.caltech.edu/2023/11/28/write-for-the-tech/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1096,9 +1641,13 @@ date: 2023-11-27, from: City of Santa Clarita
 
 <p>THE CITY OF SANTA CLARITA PUBLIC LIBRARY UNVEILS WEBSITE UPGRADE Explore a World of Knowledge at Your Fingertips with the City’s Modernized Library Hub The Santa Clarita Public Library is thrilled to unveil its newly redesigned website, residing under the same domain &#8211; SantaClaritaLibrary.com. This exciting development signifies a momentous leap toward providing the community [&#8230;]</p>
 <p>The post <a href="https://santaclarita.gov/blog/2023/11/27/the-city-of-santa-clarita-public-library-unveils-website-upgrade/">The City of Santa Clarita Public Library Unveils Website Upgrade</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
 
-<https://santaclarita.gov/blog/2023/11/27/the-city-of-santa-clarita-public-library-unveils-website-upgrade/>
+
+<span>
+<a href="https://santaclarita.gov/blog/2023/11/27/the-city-of-santa-clarita-public-library-unveils-website-upgrade/">https://santaclarita.gov/blog/2023/11/27/the-city-of-santa-clarita-public-library-unveils-website-upgrade/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://santaclarita.gov/blog/2023/11/27/the-city-of-santa-clarita-public-library-unveils-website-upgrade/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1108,9 +1657,13 @@ date: 2023-11-27, from: The Round Up (Peirce College Student Newspaper)
 
 <p>For students who wanted to show their support for the LGBT community, the Multicultural Center located at the Library And The Learning Crossroads Building was</p>
 <p>The post <a href="https://theroundupnews.com/2023/11/27/spirt-day-pride/">Spirt Day pride</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
- 
 
-<https://theroundupnews.com/2023/11/27/spirt-day-pride/?utm_source=rss&utm_medium=rss&utm_campaign=spirt-day-pride>
+
+<span>
+<a href="https://theroundupnews.com/2023/11/27/spirt-day-pride/?utm_source=rss&utm_medium=rss&utm_campaign=spirt-day-pride">https://theroundupnews.com/2023/11/27/spirt-day-pride/?utm_source=rss&utm_medium=rss&utm_campaign=spirt-day-pride</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://theroundupnews.com/2023/11/27/spirt-day-pride/?utm_source=rss&utm_medium=rss&utm_campaign=spirt-day-pride">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1118,9 +1671,13 @@ date: 2023-11-27, from: The Round Up (Peirce College Student Newspaper)
 
 date: 2023-11-27, from: The Sundail (CSUN Student Newspaper)
 
-As tensions rise from conflict in the Middle East, Israeli and Palestinian students at CSUN have been voicing concerns about their safety on campus. The ongoing war between Israel and Palestine has left some students feeling uneasy about repercussions, such as doxxing, reflecting the impact the conflict has locally. On Oct. 11, students held a... 
+As tensions rise from conflict in the Middle East, Israeli and Palestinian students at CSUN have been voicing concerns about their safety on campus. The ongoing war between Israel and Palestine has left some students feeling uneasy about repercussions, such as doxxing, reflecting the impact the conflict has locally. On Oct. 11, students held a...
 
-<https://sundial.csun.edu/177204/news/students-voice-safety-concerns-amid-escalating-conflict-between-israel-and-palestine/>
+<span>
+<a href="https://sundial.csun.edu/177204/news/students-voice-safety-concerns-amid-escalating-conflict-between-israel-and-palestine/">https://sundial.csun.edu/177204/news/students-voice-safety-concerns-amid-escalating-conflict-between-israel-and-palestine/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://sundial.csun.edu/177204/news/students-voice-safety-concerns-amid-escalating-conflict-between-israel-and-palestine/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1129,9 +1686,13 @@ As tensions rise from conflict in the Middle East, Israeli and Palestinian stude
 date: 2023-11-27, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 28 at 7:30 p.m.</em>
-In the musical “Like Father,” alumnus Caroline Pernick and her creative partner Jacob Ryan Smith harmoniously blend coming-of-age themes with true crime. 
+In the musical “Like Father,” alumnus Caroline Pernick and her creative partner Jacob Ryan Smith harmoniously blend coming-of-age themes with true crime.
 
-<https://dailybruin.com/2023/11/27/serial-killers-daughter-comes-of-age-in-ucla-alumnus-led-musical-like-father/>
+<span>
+<a href="https://dailybruin.com/2023/11/27/serial-killers-daughter-comes-of-age-in-ucla-alumnus-led-musical-like-father/">https://dailybruin.com/2023/11/27/serial-killers-daughter-comes-of-age-in-ucla-alumnus-led-musical-like-father/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/27/serial-killers-daughter-comes-of-age-in-ucla-alumnus-led-musical-like-father/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1141,9 +1702,13 @@ date: 2023-11-27, from: City of Santa Clarita
 
 <p>JOURNEY TO THE STARS AT THE SANTA CLARITA PUBLIC LIBRARY’S 16TH ANNUAL FAMILY LITERACY FESTIVAL Embark on Intergalactic Reading Adventures on December 2 Brace yourselves for an interstellar adventure at the 16th annual Family Literacy Festival, where imagination knows no bounds! Hosted at the Old Town Newhall Library Branch (24500 Main Street) on Saturday, December [&#8230;]</p>
 <p>The post <a href="https://santaclarita.gov/blog/2023/11/27/journey-to-the-stars-at-the-santa-clarita-public-librarys-16th-annual-family-literacy-festival/">Journey to the Stars at the Santa Clarita Public Library&#8217;s 16th Annual Family Literacy Festival</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
 
-<https://santaclarita.gov/blog/2023/11/27/journey-to-the-stars-at-the-santa-clarita-public-librarys-16th-annual-family-literacy-festival/>
+
+<span>
+<a href="https://santaclarita.gov/blog/2023/11/27/journey-to-the-stars-at-the-santa-clarita-public-librarys-16th-annual-family-literacy-festival/">https://santaclarita.gov/blog/2023/11/27/journey-to-the-stars-at-the-santa-clarita-public-librarys-16th-annual-family-literacy-festival/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://santaclarita.gov/blog/2023/11/27/journey-to-the-stars-at-the-santa-clarita-public-librarys-16th-annual-family-literacy-festival/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1151,9 +1716,13 @@ date: 2023-11-27, from: City of Santa Clarita
 
 date: 2023-11-27, from: The Sundail (CSUN Student Newspaper)
 
-The Institute for College Access &#38; Success and the Cal State Student Association released a report that explained the unequal costs and graduation rates among low-income students in the California State University system. The report included estimated net prices based on the perspective of low-income students who live off campus and the estimated comparison of... 
+The Institute for College Access &#38; Success and the Cal State Student Association released a report that explained the unequal costs and graduation rates among low-income students in the California State University system. The report included estimated net prices based on the perspective of low-income students who live off campus and the estimated comparison of...
 
-<https://sundial.csun.edu/177187/news/cssa-and-the-institute-for-college-access-success-report-inequity-on-tuition-net-prices-for-low-income-students/>
+<span>
+<a href="https://sundial.csun.edu/177187/news/cssa-and-the-institute-for-college-access-success-report-inequity-on-tuition-net-prices-for-low-income-students/">https://sundial.csun.edu/177187/news/cssa-and-the-institute-for-college-access-success-report-inequity-on-tuition-net-prices-for-low-income-students/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://sundial.csun.edu/177187/news/cssa-and-the-institute-for-college-access-success-report-inequity-on-tuition-net-prices-for-low-income-students/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1161,9 +1730,13 @@ The Institute for College Access &#38; Success and the Cal State Student Associa
 
 date: 2023-11-27, updated: 2023-11-27, from: The LAist
 
-Hamas released 11 Israelis and a bus with Palestinian prisoners arrived in the West Bank after the two sides announced a continuation of their temporary cease-fire to facilitate more exchanges. 
+Hamas released 11 Israelis and a bus with Palestinian prisoners arrived in the West Bank after the two sides announced a continuation of their temporary cease-fire to facilitate more exchanges.
 
-<https://laist.com/news/israel-and-hamas-agree-to-a-2-day-extension-of-the-truce-in-gaza>
+<span>
+<a href="https://laist.com/news/israel-and-hamas-agree-to-a-2-day-extension-of-the-truce-in-gaza">https://laist.com/news/israel-and-hamas-agree-to-a-2-day-extension-of-the-truce-in-gaza</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/israel-and-hamas-agree-to-a-2-day-extension-of-the-truce-in-gaza">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1171,9 +1744,13 @@ Hamas released 11 Israelis and a bus with Palestinian prisoners arrived in the W
 
 date: 2023-11-27, updated: 2023-11-27, from: The LAist
 
-As graphic images from Gaza flood social media platforms, many people are claiming those images are fake, in the latest iteration of a disturbing trope. 
+As graphic images from Gaza flood social media platforms, many people are claiming those images are fake, in the latest iteration of a disturbing trope.
 
-<https://laist.com/news/civilian-deaths-are-being-dismissed-as-crisis-actors-in-gaza-and-israel>
+<span>
+<a href="https://laist.com/news/civilian-deaths-are-being-dismissed-as-crisis-actors-in-gaza-and-israel">https://laist.com/news/civilian-deaths-are-being-dismissed-as-crisis-actors-in-gaza-and-israel</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/civilian-deaths-are-being-dismissed-as-crisis-actors-in-gaza-and-israel">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1181,9 +1758,13 @@ As graphic images from Gaza flood social media platforms, many people are claimi
 
 date: 2023-11-27, updated: 2023-11-27, from: The LAist
 
-If you haven't logged in with your Google account recently, it's at risk of vanishing. So is any data in that account. Here's how to ensure you don't lose your account, emails, photos and more. 
+If you haven't logged in with your Google account recently, it's at risk of vanishing. So is any data in that account. Here's how to ensure you don't lose your account, emails, photos and more.
 
-<https://laist.com/news/google-is-deleting-unused-accounts-this-week-heres-how-to-save-your-old-data>
+<span>
+<a href="https://laist.com/news/google-is-deleting-unused-accounts-this-week-heres-how-to-save-your-old-data">https://laist.com/news/google-is-deleting-unused-accounts-this-week-heres-how-to-save-your-old-data</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/google-is-deleting-unused-accounts-this-week-heres-how-to-save-your-old-data">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1191,9 +1772,13 @@ If you haven't logged in with your Google account recently, it's at risk of vani
 
 date: 2023-11-27, updated: 2023-11-27, from: The LAist
 
-Car dependency is a systemic problem, but your actions can be part of the solution. 
+Car dependency is a systemic problem, but your actions can be part of the solution.
 
-<https://laist.com/news/climate-environment/want-to-live-in-a-walkable-bikeable-city-follow-these-tips>
+<span>
+<a href="https://laist.com/news/climate-environment/want-to-live-in-a-walkable-bikeable-city-follow-these-tips">https://laist.com/news/climate-environment/want-to-live-in-a-walkable-bikeable-city-follow-these-tips</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/climate-environment/want-to-live-in-a-walkable-bikeable-city-follow-these-tips">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1201,9 +1786,13 @@ Car dependency is a systemic problem, but your actions can be part of the soluti
 
 date: 2023-11-27, updated: 2023-11-27, from: The LAist
 
-Lawyers who don’t typically handle eviction cases are answering L.A. Mayor Karen Bass’s call to help Angelenos stay housed. 
+Lawyers who don’t typically handle eviction cases are answering L.A. Mayor Karen Bass’s call to help Angelenos stay housed.
 
-<https://laist.com/news/housing-homelessness/los-angeles-eviction-defense-pro-bono-mayors-fund-bass-lawyers>
+<span>
+<a href="https://laist.com/news/housing-homelessness/los-angeles-eviction-defense-pro-bono-mayors-fund-bass-lawyers">https://laist.com/news/housing-homelessness/los-angeles-eviction-defense-pro-bono-mayors-fund-bass-lawyers</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/housing-homelessness/los-angeles-eviction-defense-pro-bono-mayors-fund-bass-lawyers">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1211,9 +1800,13 @@ Lawyers who don’t typically handle eviction cases are answering L.A. Mayor Kar
 
 date: 2023-11-27, updated: 2023-11-27, from: The LAist
 
-Toys that move, make noise, and light up are winding up in landfills — but they could be recycled, with better policies. 
+Toys that move, make noise, and light up are winding up in landfills — but they could be recycled, with better policies.
 
-<https://laist.com/news/climate-environment/discarded-toys-are-creating-an-e-waste-disaster-heres-how-to-stop-it>
+<span>
+<a href="https://laist.com/news/climate-environment/discarded-toys-are-creating-an-e-waste-disaster-heres-how-to-stop-it">https://laist.com/news/climate-environment/discarded-toys-are-creating-an-e-waste-disaster-heres-how-to-stop-it</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/climate-environment/discarded-toys-are-creating-an-e-waste-disaster-heres-how-to-stop-it">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1221,9 +1814,13 @@ Toys that move, make noise, and light up are winding up in landfills — but the
 
 date: 2023-11-27, updated: 2023-11-27, from: The LAist
 
-It takes a lot of ginger oil. 
+It takes a lot of ginger oil.
 
-<https://laist.com/news/climate-environment/millions-of-fruit-flies-are-being-dropped-on-la-heres-how-theyre-raised>
+<span>
+<a href="https://laist.com/news/climate-environment/millions-of-fruit-flies-are-being-dropped-on-la-heres-how-theyre-raised">https://laist.com/news/climate-environment/millions-of-fruit-flies-are-being-dropped-on-la-heres-how-theyre-raised</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/climate-environment/millions-of-fruit-flies-are-being-dropped-on-la-heres-how-theyre-raised">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1232,9 +1829,13 @@ It takes a lot of ginger oil.
 date: 2023-11-27, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 26 at 11:25 p.m.</em>
-The Middle Eastern Student Association at UCLA has raised $24,300 for a charity working to provide medical care to children in Gaza. 
+The Middle Eastern Student Association at UCLA has raised $24,300 for a charity working to provide medical care to children in Gaza.
 
-<https://dailybruin.com/2023/11/26/middle-eastern-student-association-at-ucla-fundraises-24300-for-gaza-relief/>
+<span>
+<a href="https://dailybruin.com/2023/11/26/middle-eastern-student-association-at-ucla-fundraises-24300-for-gaza-relief/">https://dailybruin.com/2023/11/26/middle-eastern-student-association-at-ucla-fundraises-24300-for-gaza-relief/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/26/middle-eastern-student-association-at-ucla-fundraises-24300-for-gaza-relief/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1243,9 +1844,13 @@ The Middle Eastern Student Association at UCLA has raised $24,300 for a charity 
 date: 2023-11-27, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 26 at 11:23 p.m.</em>
-The Los Angeles City Council signed a compromise proposal Nov. 14 to allow rent increases in the city, ending a pandemic-era ban that has stood since 2020. 
+The Los Angeles City Council signed a compromise proposal Nov. 14 to allow rent increases in the city, ending a pandemic-era ban that has stood since 2020.
 
-<https://dailybruin.com/2023/11/26/ahead-of-pandemic-era-freeze-expiration-la-city-council-approves-rent-increases/>
+<span>
+<a href="https://dailybruin.com/2023/11/26/ahead-of-pandemic-era-freeze-expiration-la-city-council-approves-rent-increases/">https://dailybruin.com/2023/11/26/ahead-of-pandemic-era-freeze-expiration-la-city-council-approves-rent-increases/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/26/ahead-of-pandemic-era-freeze-expiration-la-city-council-approves-rent-increases/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1254,9 +1859,13 @@ The Los Angeles City Council signed a compromise proposal Nov. 14 to allow rent 
 date: 2023-11-27, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 26 at 10:23 p.m.</em>
-Take the maximum number of Advanced Placement classes you can fit into your schedule. Be your class president. 
+Take the maximum number of Advanced Placement classes you can fit into your schedule. Be your class president.
 
-<https://dailybruin.com/2023/11/26/opinion-college-application-process-sustains-inequality-and-exhausting-expectations/>
+<span>
+<a href="https://dailybruin.com/2023/11/26/opinion-college-application-process-sustains-inequality-and-exhausting-expectations/">https://dailybruin.com/2023/11/26/opinion-college-application-process-sustains-inequality-and-exhausting-expectations/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/26/opinion-college-application-process-sustains-inequality-and-exhausting-expectations/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1265,9 +1874,13 @@ Take the maximum number of Advanced Placement classes you can fit into your sche
 date: 2023-11-27, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 26 at 11:29 p.m.</em>
-On any given day, thousands of people walk past a traffic light next to the Gonda Neuroscience and Genetics Research Center. 
+On any given day, thousands of people walk past a traffic light next to the Gonda Neuroscience and Genetics Research Center.
 
-<https://dailybruin.com/2023/11/26/ucla-mobility-lab-works-to-decrease-traffic-and-improve-safety-in-westwood/>
+<span>
+<a href="https://dailybruin.com/2023/11/26/ucla-mobility-lab-works-to-decrease-traffic-and-improve-safety-in-westwood/">https://dailybruin.com/2023/11/26/ucla-mobility-lab-works-to-decrease-traffic-and-improve-safety-in-westwood/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/26/ucla-mobility-lab-works-to-decrease-traffic-and-improve-safety-in-westwood/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1277,9 +1890,13 @@ date: 2023-11-27, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 26 at 10:27 p.m.</em>
 At the beginning of 2018, a small group of students had an idea.
-Instead of throwing out unused clothes, school supplies and hygiene products, what if students could easily donate those items back to their peers? 
+Instead of throwing out unused clothes, school supplies and hygiene products, what if students could easily donate those items back to their peers?
 
-<https://dailybruin.com/2023/11/26/op-ed-five-years-on-uclas-basic-needs-redistribution-center-shows-promising-growth/>
+<span>
+<a href="https://dailybruin.com/2023/11/26/op-ed-five-years-on-uclas-basic-needs-redistribution-center-shows-promising-growth/">https://dailybruin.com/2023/11/26/op-ed-five-years-on-uclas-basic-needs-redistribution-center-shows-promising-growth/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/26/op-ed-five-years-on-uclas-basic-needs-redistribution-center-shows-promising-growth/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1288,9 +1905,13 @@ Instead of throwing out unused clothes, school supplies and hygiene products, wh
 date: 2023-11-26, from: The Daily Bruin (UCLA Student Newspaper)
 
 Grumpy Baby Chunky Wheels is rolling into stardom.
-The sketch comedy group Grumpy Baby Chunky Wheels created by alumni Hanna Barlow and Nick Delzompo, is currently growing in popularity on multiple platforms, including TikTok. 
+The sketch comedy group Grumpy Baby Chunky Wheels created by alumni Hanna Barlow and Nick Delzompo, is currently growing in popularity on multiple platforms, including TikTok.
 
-<https://dailybruin.com/2023/11/26/alumni-created-sketch-comedy-group-grumpy-baby-chunky-wheels-rises-in-popularity/>
+<span>
+<a href="https://dailybruin.com/2023/11/26/alumni-created-sketch-comedy-group-grumpy-baby-chunky-wheels-rises-in-popularity/">https://dailybruin.com/2023/11/26/alumni-created-sketch-comedy-group-grumpy-baby-chunky-wheels-rises-in-popularity/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/26/alumni-created-sketch-comedy-group-grumpy-baby-chunky-wheels-rises-in-popularity/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1299,9 +1920,13 @@ The sketch comedy group Grumpy Baby Chunky Wheels created by alumni Hanna Barlow
 date: 2023-11-26, from: The Daily Bruin (UCLA Student Newspaper)
 
 Dakota Higgins is making the DMV the spot to be.
-The graduate student in fine arts co-founded Departure from Music Venue(s) – or the DMV – a small music venue in Commerce, California that typically puts on a monthly show highlighting underrepresented experimental artists. 
+The graduate student in fine arts co-founded Departure from Music Venue(s) – or the DMV – a small music venue in Commerce, California that typically puts on a monthly show highlighting underrepresented experimental artists.
 
-<https://dailybruin.com/2023/11/26/ucla-graduate-student-creates-open-venue-for-experimental-music-artists/>
+<span>
+<a href="https://dailybruin.com/2023/11/26/ucla-graduate-student-creates-open-venue-for-experimental-music-artists/">https://dailybruin.com/2023/11/26/ucla-graduate-student-creates-open-venue-for-experimental-music-artists/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/26/ucla-graduate-student-creates-open-venue-for-experimental-music-artists/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1309,9 +1934,13 @@ The graduate student in fine arts co-founded Departure from Music Venue(s) – o
 
 date: 2023-11-26, updated: 2023-11-26, from: The LAist
 
-The announcement from the Islamist militant group came after a third hostages-for-prisoners swap with Israel in which 17 captives and 39 Palestinian prisoners were released. 
+The announcement from the Islamist militant group came after a third hostages-for-prisoners swap with Israel in which 17 captives and 39 Palestinian prisoners were released.
 
-<https://laist.com/news/13-israelis-and-4-others-were-released-in-the-latest-israel-hamas-swap-of-captives>
+<span>
+<a href="https://laist.com/news/13-israelis-and-4-others-were-released-in-the-latest-israel-hamas-swap-of-captives">https://laist.com/news/13-israelis-and-4-others-were-released-in-the-latest-israel-hamas-swap-of-captives</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/13-israelis-and-4-others-were-released-in-the-latest-israel-hamas-swap-of-captives">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1319,9 +1948,13 @@ The announcement from the Islamist militant group came after a third hostages-fo
 
 date: 2023-11-26, updated: 2023-11-27, from: The LAist
 
-A massive VA campus in West Los Angeles is finally housing hundreds of vets, and may finally change the city's worst-in-the-nation status on veterans homelessness. 
+A massive VA campus in West Los Angeles is finally housing hundreds of vets, and may finally change the city's worst-in-the-nation status on veterans homelessness.
 
-<https://laist.com/news/housing-homelessness/the-answer-to-veterans-homelessness-could-be-one-of-las-most-expensive-neighborhoods>
+<span>
+<a href="https://laist.com/news/housing-homelessness/the-answer-to-veterans-homelessness-could-be-one-of-las-most-expensive-neighborhoods">https://laist.com/news/housing-homelessness/the-answer-to-veterans-homelessness-could-be-one-of-las-most-expensive-neighborhoods</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/housing-homelessness/the-answer-to-veterans-homelessness-could-be-one-of-las-most-expensive-neighborhoods">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1329,9 +1962,13 @@ A massive VA campus in West Los Angeles is finally housing hundreds of vets, and
 
 date: 2023-11-26, updated: 2023-11-26, from: The LAist
 
-Astra Lumina returns to the South Coast Botanic Garden this year, bringing an immersive light show to Palos Verdes. 
+Astra Lumina returns to the South Coast Botanic Garden this year, bringing an immersive light show to Palos Verdes.
 
-<https://laist.com/news/los-angeles-activities/astra-lumina-lights-up-the-south-coast-botanic-garden>
+<span>
+<a href="https://laist.com/news/los-angeles-activities/astra-lumina-lights-up-the-south-coast-botanic-garden">https://laist.com/news/los-angeles-activities/astra-lumina-lights-up-the-south-coast-botanic-garden</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/los-angeles-activities/astra-lumina-lights-up-the-south-coast-botanic-garden">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1339,9 +1976,13 @@ Astra Lumina returns to the South Coast Botanic Garden this year, bringing an im
 
 date: 2023-11-26, updated: 2023-11-27, from: The LAist
 
-Congratulations, you made it through Thanksgiving! Now you have to get home. Here’s some tips on how to stay safe along the way 
+Congratulations, you made it through Thanksgiving! Now you have to get home. Here’s some tips on how to stay safe along the way
 
-<https://laist.com/news/transportation/how-to-navigate-travel-this-hectic-holiday-season>
+<span>
+<a href="https://laist.com/news/transportation/how-to-navigate-travel-this-hectic-holiday-season">https://laist.com/news/transportation/how-to-navigate-travel-this-hectic-holiday-season</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/transportation/how-to-navigate-travel-this-hectic-holiday-season">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1351,9 +1992,13 @@ date: 2023-11-26, from: The Daily Bruin (UCLA Student Newspaper)
 
 <em>This post was updated Nov. 26 at 8:46 p.m.</em>
 Ethan Garbers dropped back to pass on the Bruins’ first drive of the game.
-Boom. Pac-12 After Dark struck. 
+Boom. Pac-12 After Dark struck.
 
-<https://dailybruin.com/2023/11/25/ucla-football-crumbles-under-california-in-final-pac-12-matchup/>
+<span>
+<a href="https://dailybruin.com/2023/11/25/ucla-football-crumbles-under-california-in-final-pac-12-matchup/">https://dailybruin.com/2023/11/25/ucla-football-crumbles-under-california-in-final-pac-12-matchup/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/25/ucla-football-crumbles-under-california-in-final-pac-12-matchup/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1361,9 +2006,13 @@ Boom. Pac-12 After Dark struck.
 
 date: 2023-11-26, from: CSUN Library Blog, Cited
 
-<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2023/11/Copy-of-WordPress-Featured-Images-290-x-200.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" /></div>Got finals stress? We&#8217;ve got you! With the &#8220;Finals Countdown&#8221; underway, the CSUN University Library is excited to announce a special workshop in collaboration with&#8230; 
+<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2023/11/Copy-of-WordPress-Featured-Images-290-x-200.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" /></div>Got finals stress? We&#8217;ve got you! With the &#8220;Finals Countdown&#8221; underway, the CSUN University Library is excited to announce a special workshop in collaboration with&#8230;
 
-<https://library.csun.edu/blogs/cited/2023/11/26/november-29th-library-workshop-from-overcoming-test-anxiety-procrastination-and-last-minute-research-clinic/>
+<span>
+<a href="https://library.csun.edu/blogs/cited/2023/11/26/november-29th-library-workshop-from-overcoming-test-anxiety-procrastination-and-last-minute-research-clinic/">https://library.csun.edu/blogs/cited/2023/11/26/november-29th-library-workshop-from-overcoming-test-anxiety-procrastination-and-last-minute-research-clinic/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://library.csun.edu/blogs/cited/2023/11/26/november-29th-library-workshop-from-overcoming-test-anxiety-procrastination-and-last-minute-research-clinic/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1371,7 +2020,15 @@ date: 2023-11-26, from: CSUN Library Blog, Cited
 
 date: 2023-11-26, from: The Daily Bruin (UCLA Student Newspaper)
 
-With the Undergraduate Students Association Council funding students&#8217; complimentary access to The New York Times, Bruins will now have free access to the site for the 2023-2024 academic year. 
+With the Undergraduate Students Association Council funding students&#8217; complimentary access to The New York Times, Bruins will now have free access to the site for the 2023-2024 academic year.
 
-<https://dailybruin.com/2023/11/25/navigating-the-implications-and-accessibility-of-paywall-journalism/>
+<span>
+<a href="https://dailybruin.com/2023/11/25/navigating-the-implications-and-accessibility-of-paywall-journalism/">https://dailybruin.com/2023/11/25/navigating-the-implications-and-accessibility-of-paywall-journalism/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/25/navigating-the-implications-and-accessibility-of-paywall-journalism/">Save to Pocket</a>
+</span>
+
+
+
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
 

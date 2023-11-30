@@ -1,4 +1,8 @@
 ---
+title: Pacific 2023.42
+---
+
+---
 
 ## Water outage from Tuesday night to Wednesday morning in Harmon
 

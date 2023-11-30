@@ -1,4 +1,8 @@
 ---
+title: Weather 2023.42
+---
+
+---
 
 ## SPC - No watches are valid as of Mon Oct 23 02:47:02 UTC 2023
 

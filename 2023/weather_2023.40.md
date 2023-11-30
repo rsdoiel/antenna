@@ -1,4 +1,8 @@
 ---
+title: Weather 2023.40
+---
+
+---
 
 ## SPC Day 1 Fire Weather Outlook
 

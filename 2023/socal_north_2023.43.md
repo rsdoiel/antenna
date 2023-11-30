@@ -1,4 +1,8 @@
 ---
+title: SoCal North 2023.43
+---
+
+---
 
 ## At LA Mission College, Spanish Speakers Find The Right Words To Improve Their Mental Health
 

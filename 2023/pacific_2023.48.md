@@ -1,5 +1,99 @@
+---
+title: Pacific 2023.48
+updated: 2023-11-30 13:29:54
+---
 
-(date: 2023-11-30 08:08:18)
+# Pacific 2023.48
+
+(date: 2023-11-30 13:29:54)
+
+---
+
+## UH Mānoa launches partnership with National Taiwan Ocean University
+
+date: 2023-11-30, from: University of Hawaiʻi News
+
+<p>The partnership encourages faculty and staff collaboration, student exchange programs and the exchange of academic materials and publications.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/30/partnership-national-taiwan-ocean-uni/"><abbr>UH</abbr> Mānoa launches partnership with National Taiwan Ocean University</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/30/partnership-national-taiwan-ocean-uni/">https://www.hawaii.edu/news/2023/11/30/partnership-national-taiwan-ocean-uni/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/30/partnership-national-taiwan-ocean-uni/">Save to Pocket</a>
+</span>
+
+---
+
+## Frank covers TOEFL fees
+
+date: 2023-11-30, from: Marshal Islands Journal
+
+<p>Journal 12/5/1986 P1 Taking task forces to taskThat governments in Micronesia are big and unwieldy is nothing new. But if you thought the many-layered bureaucracy in the Marshall Islands was cumbersome, get a load of this one. In the Federated States of Micronesia, lawmakers have come to the conclusion that something must be done about [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/frank-covers-toefl-fees/">Frank covers TOEFL fees</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span>
+<a href="https://marshallislandsjournal.com/frank-covers-toefl-fees/">https://marshallislandsjournal.com/frank-covers-toefl-fees/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://marshallislandsjournal.com/frank-covers-toefl-fees/">Save to Pocket</a>
+</span>
+
+---
+
+## UH law school alumna appointed to federal judgeship
+
+date: 2023-11-30, from: University of Hawaiʻi News
+
+<p>Shanlyn Park, the first Native Hawaiian woman federal district court judge, was confirmed by the U.S. Senate on November 30.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/30/federal-judgeship-shanlyn-park/"><abbr>UH</abbr> law school alumna appointed to federal judgeship</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/30/federal-judgeship-shanlyn-park/">https://www.hawaii.edu/news/2023/11/30/federal-judgeship-shanlyn-park/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/30/federal-judgeship-shanlyn-park/">Save to Pocket</a>
+</span>
+
+---
+
+## FR 232
+
+date: 2023-11-30, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by R.A. Pavoldi Alan used to haul lobster from this bay pulling traps from the thick breathing air, dove under in winter for urchins spiny and cold on the dark green shelves, a slow crab breathing through a hose while &#8230; <a href="https://hawaiipacificreview.org/2023/11/30/fr-232/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span>
+<a href="https://hawaiipacificreview.org/2023/11/30/fr-232/">https://hawaiipacificreview.org/2023/11/30/fr-232/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://hawaiipacificreview.org/2023/11/30/fr-232/">Save to Pocket</a>
+</span>
+
+---
+
+## Over a third of young adults had anxiety or depression during pandemic
+
+date: 2023-11-30, from: The Guam Daily Post
+
+High levels of anxiety and depression were identified early in the COVID-19 pandemic.
+
+<span>
+<a href="https://www.postguam.com/lifestyles/health/over-a-third-of-young-adults-had-anxiety-or-depression-during-pandemic/article_485500d3-e166-5fbb-ba53-9100cd4e96d8.html">https://www.postguam.com/lifestyles/health/over-a-third-of-young-adults-had-anxiety-or-depression-during-pandemic/article_485500d3-e166-5fbb-ba53-9100cd4e96d8.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/lifestyles/health/over-a-third-of-young-adults-had-anxiety-or-depression-during-pandemic/article_485500d3-e166-5fbb-ba53-9100cd4e96d8.html">Save to Pocket</a>
+</span>
+
+---
+
+## Vegan diet can help rapidly improve heart health: study
+
+date: 2023-11-30, from: The Guam Daily Post
+
+The study, which examined identical twins, compared vegan and omnivore diets and found that a vegan diet improves overall cardiovascular health.
+
+<span>
+<a href="https://www.postguam.com/lifestyles/health/vegan-diet-can-help-rapidly-improve-heart-health-study/article_875ee50a-f5c0-5fe4-a3e2-ec5f829b58f7.html">https://www.postguam.com/lifestyles/health/vegan-diet-can-help-rapidly-improve-heart-health-study/article_875ee50a-f5c0-5fe4-a3e2-ec5f829b58f7.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/lifestyles/health/vegan-diet-can-help-rapidly-improve-heart-health-study/article_875ee50a-f5c0-5fe4-a3e2-ec5f829b58f7.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -7,9 +101,13 @@
 
 date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
 
-THE Association of Mariana Islands Mayors, Vice Mayors and Municipal Council Members unanimously adopted AMIM Resolution No. 2023-28-01 to recognize and congratulate University of Guam President Dr. Anita Borja-Enriquez on the occasion of her investiture at the Calvo Field House in Mangilao, Guam, on Nov. 14, 2023, and for her exemplary leadership and achievement as UOG’s 12th president and 2nd woman president. 
+THE Association of Mariana Islands Mayors, Vice Mayors and Municipal Council Members unanimously adopted AMIM Resolution No. 2023-28-01 to recognize and congratulate University of Guam President Dr. Anita Borja-Enriquez on the occasion of her investiture at the Calvo Field House in Mangilao, Guam, on Nov. 14, 2023, and for her exemplary leadership and achievement as UOG’s 12th president and 2nd woman president.
 
-<https://www.mvariety.com/news/community_bulletins/amim-resolution-honors-new-uog-president/article_79c4d632-8f43-11ee-95eb-ebae1c8cf2d0.html>
+<span>
+<a href="https://www.mvariety.com/news/community_bulletins/amim-resolution-honors-new-uog-president/article_79c4d632-8f43-11ee-95eb-ebae1c8cf2d0.html">https://www.mvariety.com/news/community_bulletins/amim-resolution-honors-new-uog-president/article_79c4d632-8f43-11ee-95eb-ebae1c8cf2d0.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/community_bulletins/amim-resolution-honors-new-uog-president/article_79c4d632-8f43-11ee-95eb-ebae1c8cf2d0.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -17,9 +115,13 @@ THE Association of Mariana Islands Mayors, Vice Mayors and Municipal Council Mem
 
 date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
 
-(Office of the CNMI Congressional Delegate) — Mount Carmel School seniors Paul Santos and Jerry Chen’s winning app called NoteTime has won this year’s NMI Congressional App Challenge. 
+(Office of the CNMI Congressional Delegate) — Mount Carmel School seniors Paul Santos and Jerry Chen’s winning app called NoteTime has won this year’s NMI Congressional App Challenge.
 
-<https://www.mvariety.com/lifestyle/kilili-santos-and-chen-winners-of-this-year-s-nmi-congressional-app-challenge/article_c71fb23a-8f39-11ee-981f-3f2442db5a82.html>
+<span>
+<a href="https://www.mvariety.com/lifestyle/kilili-santos-and-chen-winners-of-this-year-s-nmi-congressional-app-challenge/article_c71fb23a-8f39-11ee-981f-3f2442db5a82.html">https://www.mvariety.com/lifestyle/kilili-santos-and-chen-winners-of-this-year-s-nmi-congressional-app-challenge/article_c71fb23a-8f39-11ee-981f-3f2442db5a82.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/lifestyle/kilili-santos-and-chen-winners-of-this-year-s-nmi-congressional-app-challenge/article_c71fb23a-8f39-11ee-981f-3f2442db5a82.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -27,9 +129,13 @@ date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
 
 date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
 
-On Wednesday morning, Youth Advisory Panel leaders from Francisco M. Sablan Middle School, Tanapag Middle School, Oleai Elementary School, and Hopwood Middle School participated in several learning activities pertaining to Science, Technology, Engineering and Mathematics. Held in Hopwood Middle School’s cafeteria and facilitated by HMS Science Teacher Shirley Crisostomo, the STEM activities included a rover station, a catapult station, fun-with-numbers and a graphic puzzle station. Interim Commissioner of Education Donna Flores joined the student leaders in their activities to cap the month-long STEM Month celebration of the Public School System. 
+On Wednesday morning, Youth Advisory Panel leaders from Francisco M. Sablan Middle School, Tanapag Middle School, Oleai Elementary School, and Hopwood Middle School participated in several learning activities pertaining to Science, Technology, Engineering and Mathematics. Held in Hopwood Middle School’s cafeteria and facilitated by HMS Science Teacher Shirley Crisostomo, the STEM activities included a rover station, a catapult station, fun-with-numbers and a graphic puzzle station. Interim Commissioner of Education Donna Flores joined the student leaders in their activities to cap the month-long STEM Month celebration of the Public School System.
 
-<https://www.mvariety.com/news/community_bulletins/student-leaders-in-stem/article_1d159502-8f39-11ee-81c7-5f546332232e.html>
+<span>
+<a href="https://www.mvariety.com/news/community_bulletins/student-leaders-in-stem/article_1d159502-8f39-11ee-81c7-5f546332232e.html">https://www.mvariety.com/news/community_bulletins/student-leaders-in-stem/article_1d159502-8f39-11ee-81c7-5f546332232e.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/community_bulletins/student-leaders-in-stem/article_1d159502-8f39-11ee-81c7-5f546332232e.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -37,9 +143,13 @@ On Wednesday morning, Youth Advisory Panel leaders from Francisco M. Sablan Midd
 
 date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
 
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available on amazon.com/. 
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available on amazon.com/.
 
-<https://www.mvariety.com/lifestyle/variety-editor-s-new-book-available-on-amazon-com/article_ec6e070e-d15b-11ed-a531-4335810003be.html>
+<span>
+<a href="https://www.mvariety.com/lifestyle/variety-editor-s-new-book-available-on-amazon-com/article_ec6e070e-d15b-11ed-a531-4335810003be.html">https://www.mvariety.com/lifestyle/variety-editor-s-new-book-available-on-amazon-com/article_ec6e070e-d15b-11ed-a531-4335810003be.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/lifestyle/variety-editor-s-new-book-available-on-amazon-com/article_ec6e070e-d15b-11ed-a531-4335810003be.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -47,9 +157,13 @@ MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then
 
 date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
 
-GOVERNOR Arnold I. Palacios told reporters Thursday that he and Lt. Gov. David M. Apatang will create a CNMI team for Section 902 talks with the U.S. government. 
+GOVERNOR Arnold I. Palacios told reporters Thursday that he and Lt. Gov. David M. Apatang will create a CNMI team for Section 902 talks with the U.S. government.
 
-<https://www.mvariety.com/news/local/palacios-apatang-to-create-nmi-902-team/article_cbf5d45e-8f63-11ee-b073-1391b58427db.html>
+<span>
+<a href="https://www.mvariety.com/news/local/palacios-apatang-to-create-nmi-902-team/article_cbf5d45e-8f63-11ee-b073-1391b58427db.html">https://www.mvariety.com/news/local/palacios-apatang-to-create-nmi-902-team/article_cbf5d45e-8f63-11ee-b073-1391b58427db.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/palacios-apatang-to-create-nmi-902-team/article_cbf5d45e-8f63-11ee-b073-1391b58427db.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -57,9 +171,13 @@ GOVERNOR Arnold I. Palacios told reporters Thursday that he and Lt. Gov. David M
 
 date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
 
-SEVENTH-DAY Adventist School students and other island residents participated in a free Community Recycles Plastic workshop conducted by the Mariana Islands Nature Alliance on Thursday, Nov. 30, at American Memorial Park. 
+SEVENTH-DAY Adventist School students and other island residents participated in a free Community Recycles Plastic workshop conducted by the Mariana Islands Nature Alliance on Thursday, Nov. 30, at American Memorial Park.
 
-<https://www.mvariety.com/news/local/mina-conducts-community-recycles-plastic-workshop/article_52dfdb7e-8f53-11ee-81e2-5bd9859f604e.html>
+<span>
+<a href="https://www.mvariety.com/news/local/mina-conducts-community-recycles-plastic-workshop/article_52dfdb7e-8f53-11ee-81e2-5bd9859f604e.html">https://www.mvariety.com/news/local/mina-conducts-community-recycles-plastic-workshop/article_52dfdb7e-8f53-11ee-81e2-5bd9859f604e.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/mina-conducts-community-recycles-plastic-workshop/article_52dfdb7e-8f53-11ee-81e2-5bd9859f604e.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -67,9 +185,41 @@ SEVENTH-DAY Adventist School students and other island residents participated in
 
 date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
 
-HOUSE Local Bill 23-22, which was introduced by House Minority Leader Patrick San Nicolas, is now Tinian Local Law 23-6. It will include Tinian’s Kastiyu agriculture homestead expansion project on the list of the beneficiaries of $140,000 in earned bond interest income appropriated more than two years ago by Tinian Local Law 22-2. 
+HOUSE Local Bill 23-22, which was introduced by House Minority Leader Patrick San Nicolas, is now Tinian Local Law 23-6. It will include Tinian’s Kastiyu agriculture homestead expansion project on the list of the beneficiaries of $140,000 in earned bond interest income appropriated more than two years ago by Tinian Local Law 22-2.
 
-<https://www.mvariety.com/news/local/tinian-local-bill-becomes-law-without-governors-signature/article_1ef965a4-8f4a-11ee-b164-1fd0b48272ed.html>
+<span>
+<a href="https://www.mvariety.com/news/local/tinian-local-bill-becomes-law-without-governors-signature/article_1ef965a4-8f4a-11ee-b164-1fd0b48272ed.html">https://www.mvariety.com/news/local/tinian-local-bill-becomes-law-without-governors-signature/article_1ef965a4-8f4a-11ee-b164-1fd0b48272ed.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/tinian-local-bill-becomes-law-without-governors-signature/article_1ef965a4-8f4a-11ee-b164-1fd0b48272ed.html">Save to Pocket</a>
+</span>
+
+---
+
+## Hyatt champions local artists on its 43rd anniversary
+
+date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
+
+(Special Advertising Feature) — Hyatt Regency Saipan will officially welcome the Christmas season by unveiling this year’s theme, “Tropical Christmas at Hyatt Regency Saipan,” in the main lobby on Saturday, Dec. 2, 2023 at 3 p.m.
+
+<span>
+<a href="https://www.mvariety.com/lifestyle/hyatt-champions-local-artists-on-its-43rd-anniversary/article_fcb9ecf8-8f3e-11ee-84ef-5fcfe75025ed.html">https://www.mvariety.com/lifestyle/hyatt-champions-local-artists-on-its-43rd-anniversary/article_fcb9ecf8-8f3e-11ee-84ef-5fcfe75025ed.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/lifestyle/hyatt-champions-local-artists-on-its-43rd-anniversary/article_fcb9ecf8-8f3e-11ee-84ef-5fcfe75025ed.html">Save to Pocket</a>
+</span>
+
+---
+
+## Legislature passes bill to renew Guam's apprenticeship program 
+
+date: 2023-11-30, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Guam legislature today unanimously passed a bill that would authorize the renewal of the Guam...
+
+<span>
+<a href="https://www.pacificislandtimes.com/post/legislature-passes-bill-to-renew-guam-s-apprenticeship-program">https://www.pacificislandtimes.com/post/legislature-passes-bill-to-renew-guam-s-apprenticeship-program</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/legislature-passes-bill-to-renew-guam-s-apprenticeship-program">Save to Pocket</a>
+</span>
 
 ---
 
@@ -77,9 +227,27 @@ HOUSE Local Bill 23-22, which was introduced by House Minority Leader Patrick Sa
 
 date: 2023-11-30, from: Chaminade Silversword (Chaminade Univ. student newspaper)
 
-A study by the Associated Press in May concluded that about 30% (in a poll of 1,680) of respondents do not associate with any sort of organized religion in the United States.  This has been a continuing trend across the country, spanning across decades of polls and research. Pew Research Center estimated that, if the... 
+A study by the Associated Press in May concluded that about 30% (in a poll of 1,680) of respondents do not associate with any sort of organized religion in the United States.  This has been a continuing trend across the country, spanning across decades of polls and research. Pew Research Center estimated that, if the...
 
-<https://thesilversword.com/editorial/2023/11/30/being-a-religious-one-with-the-uptick-of-religious-nones/>
+<span>
+<a href="https://thesilversword.com/editorial/2023/11/30/being-a-religious-one-with-the-uptick-of-religious-nones/">https://thesilversword.com/editorial/2023/11/30/being-a-religious-one-with-the-uptick-of-religious-nones/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://thesilversword.com/editorial/2023/11/30/being-a-religious-one-with-the-uptick-of-religious-nones/">Save to Pocket</a>
+</span>
+
+---
+
+## Science panel warns against ramifications of marine monument expansion in the Pacific
+
+date: 2023-11-30, from: Pacific Island Times
+
+By Pacific Island Times News Staff Science advisors to the Western Pacific Fishery Management Council said they found no scientific...
+
+<span>
+<a href="https://www.pacificislandtimes.com/post/science-panel-warns-against-ramification-of-marine-monument-expansion-in-the-pacific">https://www.pacificislandtimes.com/post/science-panel-warns-against-ramification-of-marine-monument-expansion-in-the-pacific</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/science-panel-warns-against-ramification-of-marine-monument-expansion-in-the-pacific">Save to Pocket</a>
+</span>
 
 ---
 
@@ -89,9 +257,13 @@ date: 2023-11-30, from: Marshal Islands Journal
 
 <p>Thirteen students in the College of the Marshall Islands Bachelor of Arts in Elementary (BAEE) Education program have completed their courses and are waiting to graduate in May next year. They are the sixth cohort to graduate from this program. Faith Lanwi, one of the soon-to-be graduates, says it takes four semesters or two academic [&#8230;]</p>
 <p>The post <a href="https://marshallislandsjournal.com/13-get-bas/">13 get BAs</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
- 
 
-<https://marshallislandsjournal.com/13-get-bas/>
+
+<span>
+<a href="https://marshallislandsjournal.com/13-get-bas/">https://marshallislandsjournal.com/13-get-bas/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://marshallislandsjournal.com/13-get-bas/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -99,9 +271,13 @@ date: 2023-11-30, from: Marshal Islands Journal
 
 date: 2023-11-30, from: The Guam Daily Post
 
-A man was accused of damaging another man's car with a machete and throwing rocks at him. 
+A man was accused of damaging another man's car with a machete and throwing rocks at him.
 
-<https://www.postguam.com/news/local/suspect-allegedly-threw-rocks-at-man-damaged-car-with-machete/article_5512c504-8f1d-11ee-aea9-bfa7aa7baad0.html>
+<span>
+<a href="https://www.postguam.com/news/local/suspect-allegedly-threw-rocks-at-man-damaged-car-with-machete/article_5512c504-8f1d-11ee-aea9-bfa7aa7baad0.html">https://www.postguam.com/news/local/suspect-allegedly-threw-rocks-at-man-damaged-car-with-machete/article_5512c504-8f1d-11ee-aea9-bfa7aa7baad0.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/suspect-allegedly-threw-rocks-at-man-damaged-car-with-machete/article_5512c504-8f1d-11ee-aea9-bfa7aa7baad0.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -109,9 +285,13 @@ A man was accused of damaging another man's car with a machete and throwing rock
 
 date: 2023-11-30, from: The Guam Daily Post
 
-A man indicted on federal drug charges in 2021 on Guam was located in Texas. 
+A man indicted on federal drug charges in 2021 on Guam was located in Texas.
 
-<https://www.postguam.com/news/local/man-accused-of-selling-meth-in-2021-found-in-custody-in-texas/article_5a07a7be-8d92-11ee-a236-4f34be5e4b6b.html>
+<span>
+<a href="https://www.postguam.com/news/local/man-accused-of-selling-meth-in-2021-found-in-custody-in-texas/article_5a07a7be-8d92-11ee-a236-4f34be5e4b6b.html">https://www.postguam.com/news/local/man-accused-of-selling-meth-in-2021-found-in-custody-in-texas/article_5a07a7be-8d92-11ee-a236-4f34be5e4b6b.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/man-accused-of-selling-meth-in-2021-found-in-custody-in-texas/article_5a07a7be-8d92-11ee-a236-4f34be5e4b6b.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -119,9 +299,13 @@ A man indicted on federal drug charges in 2021 on Guam was located in Texas.
 
 date: 2023-11-30, from: The Guam Daily Post
 
-The Guam Customs and Quarantine Agency now has 36 more officers on duty. 
+The Guam Customs and Quarantine Agency now has 36 more officers on duty.
 
-<https://www.postguam.com/news/local/guam-customs-graduates-36-officers/article_f51bf35e-8f0e-11ee-ba15-77fcb15d9d2e.html>
+<span>
+<a href="https://www.postguam.com/news/local/guam-customs-graduates-36-officers/article_f51bf35e-8f0e-11ee-ba15-77fcb15d9d2e.html">https://www.postguam.com/news/local/guam-customs-graduates-36-officers/article_f51bf35e-8f0e-11ee-ba15-77fcb15d9d2e.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/guam-customs-graduates-36-officers/article_f51bf35e-8f0e-11ee-ba15-77fcb15d9d2e.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -129,9 +313,13 @@ The Guam Customs and Quarantine Agency now has 36 more officers on duty.
 
 date: 2023-11-30, from: The Guam Daily Post
 
-Tourism is a two-way street and in 2024 Japan and the United States will be promoting travel between the two countries, to include Guam. 
+Tourism is a two-way street and in 2024 Japan and the United States will be promoting travel between the two countries, to include Guam.
 
-<https://www.postguam.com/news/local/2024-declared-us-japan-tourism-year/article_c2568028-8f28-11ee-b115-6369aa77d076.html>
+<span>
+<a href="https://www.postguam.com/news/local/2024-declared-us-japan-tourism-year/article_c2568028-8f28-11ee-b115-6369aa77d076.html">https://www.postguam.com/news/local/2024-declared-us-japan-tourism-year/article_c2568028-8f28-11ee-b115-6369aa77d076.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/2024-declared-us-japan-tourism-year/article_c2568028-8f28-11ee-b115-6369aa77d076.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -139,9 +327,13 @@ Tourism is a two-way street and in 2024 Japan and the United States will be prom
 
 date: 2023-11-30, from: The Guam Daily Post
 
-Bill 201-37, the measure that would waive certain procurement requirements to facilitate the maintenance, operation and overhaul of specific island generators, failed to make the session agenda Wednesday afternoon. The measure is intended to mitigate load shedding issues by helping… 
+Bill 201-37, the measure that would waive certain procurement requirements to facilitate the maintenance, operation and overhaul of specific island generators, failed to make the session agenda Wednesday afternoon. The measure is intended to mitigate load shedding issues by helping…
 
-<https://www.postguam.com/news/local/bill-seeking-to-help-relieve-load-shedding-fails-to-make-agenda/article_356ea0e0-8f24-11ee-b357-17f20682e1d0.html>
+<span>
+<a href="https://www.postguam.com/news/local/bill-seeking-to-help-relieve-load-shedding-fails-to-make-agenda/article_356ea0e0-8f24-11ee-b357-17f20682e1d0.html">https://www.postguam.com/news/local/bill-seeking-to-help-relieve-load-shedding-fails-to-make-agenda/article_356ea0e0-8f24-11ee-b357-17f20682e1d0.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/bill-seeking-to-help-relieve-load-shedding-fails-to-make-agenda/article_356ea0e0-8f24-11ee-b357-17f20682e1d0.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -149,9 +341,13 @@ Bill 201-37, the measure that would waive certain procurement requirements to fa
 
 date: 2023-11-30, from: The Guam Daily Post
 
-The International Model United Nations invited nine students from Guam's St. John's School to the 2023 International Model United Nations Conference in Manila, Philippines, which took place from Nov. 8 to Nov. 10. 
+The International Model United Nations invited nine students from Guam's St. John's School to the 2023 International Model United Nations Conference in Manila, Philippines, which took place from Nov. 8 to Nov. 10.
 
-<https://www.postguam.com/news/local/st-johns-school-attends-model-un-conference-in-philippines/article_f31db6fa-8743-11ee-893c-935047519103.html>
+<span>
+<a href="https://www.postguam.com/news/local/st-johns-school-attends-model-un-conference-in-philippines/article_f31db6fa-8743-11ee-893c-935047519103.html">https://www.postguam.com/news/local/st-johns-school-attends-model-un-conference-in-philippines/article_f31db6fa-8743-11ee-893c-935047519103.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/st-johns-school-attends-model-un-conference-in-philippines/article_f31db6fa-8743-11ee-893c-935047519103.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -159,9 +355,13 @@ The International Model United Nations invited nine students from Guam's St. Joh
 
 date: 2023-11-30, from: The Guam Daily Post
 
-If you’re driving by the Guam International Airport Authority on Friday afternoon, you may come across United Airlines flight attendants rallying for “improved working conditions.” 
+If you’re driving by the Guam International Airport Authority on Friday afternoon, you may come across United Airlines flight attendants rallying for “improved working conditions.”
 
-<https://www.postguam.com/news/local/united-airlines-flight-attendants-rally-for-better-work-conditions/article_b1f62a16-8f2e-11ee-8dc9-7f64179a08cb.html>
+<span>
+<a href="https://www.postguam.com/news/local/united-airlines-flight-attendants-rally-for-better-work-conditions/article_b1f62a16-8f2e-11ee-8dc9-7f64179a08cb.html">https://www.postguam.com/news/local/united-airlines-flight-attendants-rally-for-better-work-conditions/article_b1f62a16-8f2e-11ee-8dc9-7f64179a08cb.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/united-airlines-flight-attendants-rally-for-better-work-conditions/article_b1f62a16-8f2e-11ee-8dc9-7f64179a08cb.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -169,9 +369,13 @@ If you’re driving by the Guam International Airport Authority on Friday aftern
 
 date: 2023-11-30, from: The Guam Daily Post
 
-An alleged threat made on social media led Harvest Christian Academy to cancel classes Thursday. 
+An alleged threat made on social media led Harvest Christian Academy to cancel classes Thursday.
 
-<https://www.postguam.com/news/local/social-media-threat-cancels-classes-at-school-prompts-police-response/article_56ffbc9e-8f29-11ee-b6f9-2b27795df10c.html>
+<span>
+<a href="https://www.postguam.com/news/local/social-media-threat-cancels-classes-at-school-prompts-police-response/article_56ffbc9e-8f29-11ee-b6f9-2b27795df10c.html">https://www.postguam.com/news/local/social-media-threat-cancels-classes-at-school-prompts-police-response/article_56ffbc9e-8f29-11ee-b6f9-2b27795df10c.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/social-media-threat-cancels-classes-at-school-prompts-police-response/article_56ffbc9e-8f29-11ee-b6f9-2b27795df10c.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -179,9 +383,13 @@ An alleged threat made on social media led Harvest Christian Academy to cancel c
 
 date: 2023-11-30, from: The Guam Daily Post
 
-Lawmakers adjourned session Thursday without debating Bill 201-37, despite placing the measure on agenda less than half an hour before adjourning. Now that session has ended, a new agenda will need to be made for lawmakers to address next session,… 
+Lawmakers adjourned session Thursday without debating Bill 201-37, despite placing the measure on agenda less than half an hour before adjourning. Now that session has ended, a new agenda will need to be made for lawmakers to address next session,…
 
-<https://www.postguam.com/news/local/bill-201-added-to-agenda-but-session-ended-without-addressing-it/article_d6f6d542-8f45-11ee-802c-b3d93f6a25ed.html>
+<span>
+<a href="https://www.postguam.com/news/local/bill-201-added-to-agenda-but-session-ended-without-addressing-it/article_d6f6d542-8f45-11ee-802c-b3d93f6a25ed.html">https://www.postguam.com/news/local/bill-201-added-to-agenda-but-session-ended-without-addressing-it/article_d6f6d542-8f45-11ee-802c-b3d93f6a25ed.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/bill-201-added-to-agenda-but-session-ended-without-addressing-it/article_d6f6d542-8f45-11ee-802c-b3d93f6a25ed.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -191,9 +399,27 @@ date: 2023-11-30, from: Marshal Islands Journal
 
 <p>HILARY HOSIA Even limited to a four-man team, the Environmental Protection Authority on Ebeye continues to ensure drinking water is safe for public consumption on top of its many tasks. Ebeye’s miniature stature EPA (compared to Majuro) is an advantage for the EPA crew when it comes to conducting water quality tests, which EPA does [&#8230;]</p>
 <p>The post <a href="https://marshallislandsjournal.com/ebeye-team-tracks-water-safety/">Ebeye team tracks water safety</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
- 
 
-<https://marshallislandsjournal.com/ebeye-team-tracks-water-safety/>
+
+<span>
+<a href="https://marshallislandsjournal.com/ebeye-team-tracks-water-safety/">https://marshallislandsjournal.com/ebeye-team-tracks-water-safety/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://marshallislandsjournal.com/ebeye-team-tracks-water-safety/">Save to Pocket</a>
+</span>
+
+---
+
+## Critical habitat proposed for threatened corals in Guam, CNMI and surrounding atolls 
+
+date: 2023-11-30, from: Pacific Island Times
+
+By Pacific Island Times News Staff The National Oceanic and Atmospheroc Administration today proposed to designate critical habitat for...
+
+<span>
+<a href="https://www.pacificislandtimes.com/post/critical-habitat-proposed-for-threatened-corals-in-guam-cnmi-and-surrounding-atolls">https://www.pacificislandtimes.com/post/critical-habitat-proposed-for-threatened-corals-in-guam-cnmi-and-surrounding-atolls</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/critical-habitat-proposed-for-threatened-corals-in-guam-cnmi-and-surrounding-atolls">Save to Pocket</a>
+</span>
 
 ---
 
@@ -201,9 +427,13 @@ date: 2023-11-30, from: Marshal Islands Journal
 
 date: 2023-11-30, from: Chaminade Silversword (Chaminade Univ. student newspaper)
 
-Aisea Toetu&#8217;u was a sixth grader at Jarrett Middle School with dreams of playing college football on the mainland when he was asked to join the KA&#8217;I Program. The program helped pave the way for him to succeed in Kaiser High School and eventually pursue his love for football in college. He was accepted to... 
+Aisea Toetu&#8217;u was a sixth grader at Jarrett Middle School with dreams of playing college football on the mainland when he was asked to join the KA&#8217;I Program. The program helped pave the way for him to succeed in Kaiser High School and eventually pursue his love for football in college. He was accepted to...
 
-<https://thesilversword.com/features/2023/11/29/kai-program-changes-lives/>
+<span>
+<a href="https://thesilversword.com/features/2023/11/29/kai-program-changes-lives/">https://thesilversword.com/features/2023/11/29/kai-program-changes-lives/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://thesilversword.com/features/2023/11/29/kai-program-changes-lives/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -213,9 +443,13 @@ date: 2023-11-30, from: Marshal Islands Journal
 
 <p>JACOB WOITZEL* US Navy and Marshallese medical personnel delivered a joint effort to eliminate tuberculosis in Aur Atoll during the Pacific Partnership visit earlier this month. “Together, with our Marshallese partners, we are testing all residents of Aur for tuberculosis, and also starting treatment for those who tested positive,” said Lt. Hoel Rupert David, officer [&#8230;]</p>
 <p>The post <a href="https://marshallislandsjournal.com/us-pride-in-aur-service/">US pride in Aur service</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
- 
 
-<https://marshallislandsjournal.com/us-pride-in-aur-service/>
+
+<span>
+<a href="https://marshallislandsjournal.com/us-pride-in-aur-service/">https://marshallislandsjournal.com/us-pride-in-aur-service/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://marshallislandsjournal.com/us-pride-in-aur-service/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -223,9 +457,13 @@ date: 2023-11-30, from: Marshal Islands Journal
 
 date: 2023-11-30, from: Tia Belau (Palau's First Newspaper)
 
-The next meeting of the Palau Council of Chiefs with the state’s traditional leaders of Koror will be the most&#8230; You must be logged in and subscribed to view this content. 
+The next meeting of the Palau Council of Chiefs with the state’s traditional leaders of Koror will be the most&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7634>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7634">https://www.tiabelaunews.com/?p=7634</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7634">Save to Pocket</a>
+</span>
 
 ---
 
@@ -233,9 +471,13 @@ The next meeting of the Palau Council of Chiefs with the state’s traditional l
 
 date: 2023-11-30, from: Tia Belau (Palau's First Newspaper)
 
-Mike Taman who was convicted of transport of illegal drugs, methamphetamine, also known earlier as shabu, this year by the&#8230; You must be logged in and subscribed to view this content. 
+Mike Taman who was convicted of transport of illegal drugs, methamphetamine, also known earlier as shabu, this year by the&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7631>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7631">https://www.tiabelaunews.com/?p=7631</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7631">Save to Pocket</a>
+</span>
 
 ---
 
@@ -243,9 +485,13 @@ Mike Taman who was convicted of transport of illegal drugs, methamphetamine, als
 
 date: 2023-11-30, from: Tia Belau (Palau's First Newspaper)
 
-Palau is now represented in the United Nations Industrial Development Organization (UNIDO) becoming the 190th member and joined the International&#8230; You must be logged in and subscribed to view this content. 
+Palau is now represented in the United Nations Industrial Development Organization (UNIDO) becoming the 190th member and joined the International&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7628>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7628">https://www.tiabelaunews.com/?p=7628</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7628">Save to Pocket</a>
+</span>
 
 ---
 
@@ -253,9 +499,13 @@ Palau is now represented in the United Nations Industrial Development Organizati
 
 date: 2023-11-30, from: Tia Belau (Palau's First Newspaper)
 
-Story by Chief Warrant Officer Sara Muir, U.S. Coast Guard Forces Micronesia / Sector Guam Nov. 28, 2023, SANTA RITA,&#8230; You must be logged in and subscribed to view this content. 
+Story by Chief Warrant Officer Sara Muir, U.S. Coast Guard Forces Micronesia / Sector Guam Nov. 28, 2023, SANTA RITA,&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7625>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7625">https://www.tiabelaunews.com/?p=7625</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7625">Save to Pocket</a>
+</span>
 
 ---
 
@@ -263,9 +513,13 @@ Story by Chief Warrant Officer Sara Muir, U.S. Coast Guard Forces Micronesia / S
 
 date: 2023-11-30, from: Tia Belau (Palau's First Newspaper)
 
-In November, the SKH International HealthCare Center (SKH) dispatched to Palau a medical team comprised of Dr. Wei Ying Lun&#8230; You must be logged in and subscribed to view this content. 
+In November, the SKH International HealthCare Center (SKH) dispatched to Palau a medical team comprised of Dr. Wei Ying Lun&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7622>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7622">https://www.tiabelaunews.com/?p=7622</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7622">Save to Pocket</a>
+</span>
 
 ---
 
@@ -273,9 +527,13 @@ In November, the SKH International HealthCare Center (SKH) dispatched to Palau a
 
 date: 2023-11-30, from: Tia Belau (Palau's First Newspaper)
 
-Less than half of the 93,723 that visited the country in the pre-covid 2019 By Kambes Kesolei The Palau Visitors&#8230; You must be logged in and subscribed to view this content. 
+Less than half of the 93,723 that visited the country in the pre-covid 2019 By Kambes Kesolei The Palau Visitors&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7620>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7620">https://www.tiabelaunews.com/?p=7620</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7620">Save to Pocket</a>
+</span>
 
 ---
 
@@ -283,9 +541,13 @@ Less than half of the 93,723 that visited the country in the pre-covid 2019 By K
 
 date: 2023-11-30, from: Tia Belau (Palau's First Newspaper)
 
-The spirit of giving takes to the skies beginning on Dec. 3 from Andersen Air Force Base, Guam, as the&#8230; You must be logged in and subscribed to view this content. 
+The spirit of giving takes to the skies beginning on Dec. 3 from Andersen Air Force Base, Guam, as the&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7618>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7618">https://www.tiabelaunews.com/?p=7618</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7618">Save to Pocket</a>
+</span>
 
 ---
 
@@ -294,9 +556,13 @@ The spirit of giving takes to the skies beginning on Dec. 3 from Andersen Air Fo
 date: 2023-11-30, from: University of Hawaiʻi News
 
 <p>The study examined placentas donated by women who delivered in <span aria-label="Hawaii">Hawai&#699;i</span> from 2006 to 2021.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/29/rise-of-microplastics-in-placentas/">Rise of microplastics discovered in placentas of Hawaiʻi mothers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/29/rise-of-microplastics-in-placentas/">Rise of microplastics discovered in placentas of Hawaiʻi mothers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/29/rise-of-microplastics-in-placentas/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/29/rise-of-microplastics-in-placentas/">https://www.hawaii.edu/news/2023/11/29/rise-of-microplastics-in-placentas/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/29/rise-of-microplastics-in-placentas/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -306,9 +572,13 @@ date: 2023-11-30, from: University of the South Pacific (Fiji)
 
 <p>Suva, Fiji, Nov. 30, 2023 – The University of South Pacific (USP), a public research...</p>
 <p>The post <a href="https://www.usp.ac.fj/news/37223/">USP, Cisco, and Telecom Fiji Partner to Help Bridge the Digital Divide in the Pacific Islands</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacfic</a>.</p>
- 
 
-<https://www.usp.ac.fj/news/37223/>
+
+<span>
+<a href="https://www.usp.ac.fj/news/37223/">https://www.usp.ac.fj/news/37223/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.usp.ac.fj/news/37223/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -317,9 +587,27 @@ date: 2023-11-30, from: University of the South Pacific (Fiji)
 date: 2023-11-30, from: University of Hawaiʻi News
 
 <p>The <abbr>UH</abbr> Rainbow Warriors will host the Big West Conference tournament as part of the men's volleyball schedule in 2024.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/29/mens-volleyball-2024-schedule/"><abbr>UH</abbr> men’s volleyball 2024 schedule announced</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/29/mens-volleyball-2024-schedule/"><abbr>UH</abbr> men’s volleyball 2024 schedule announced</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/29/mens-volleyball-2024-schedule/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/29/mens-volleyball-2024-schedule/">https://www.hawaii.edu/news/2023/11/29/mens-volleyball-2024-schedule/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/29/mens-volleyball-2024-schedule/">Save to Pocket</a>
+</span>
+
+---
+
+## 'Buy America' rule temporarily paused for Guam, CNMI, American Samoa
+
+date: 2023-11-30, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The U.S. Department of Housing and Urban Development has issued a temporary waiver that exempts Guam, the Northern...
+
+<span>
+<a href="https://www.pacificislandtimes.com/post/buy-america-rule-temporarily-paused-for-guam-cnmi-american-samoa">https://www.pacificislandtimes.com/post/buy-america-rule-temporarily-paused-for-guam-cnmi-american-samoa</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/buy-america-rule-temporarily-paused-for-guam-cnmi-american-samoa">Save to Pocket</a>
+</span>
 
 ---
 
@@ -327,9 +615,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/29/mens-volleyball-2024-sc
 
 date: 2023-11-29, from: The Guam Daily Post
 
-Police are attending to a terroristic conduct complaint at Harvest Christian Academy in Toto this morning. 
+Police are attending to a terroristic conduct complaint at Harvest Christian Academy in Toto this morning.
 
-<https://www.postguam.com/news/gpd-respond-to-terroristic-conduct-complaint-at-harvest-this-morning/article_0331638a-8f0e-11ee-ae5c-37a45533ce85.html>
+<span>
+<a href="https://www.postguam.com/news/gpd-respond-to-terroristic-conduct-complaint-at-harvest-this-morning/article_0331638a-8f0e-11ee-ae5c-37a45533ce85.html">https://www.postguam.com/news/gpd-respond-to-terroristic-conduct-complaint-at-harvest-this-morning/article_0331638a-8f0e-11ee-ae5c-37a45533ce85.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/gpd-respond-to-terroristic-conduct-complaint-at-harvest-this-morning/article_0331638a-8f0e-11ee-ae5c-37a45533ce85.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -337,9 +629,13 @@ Police are attending to a terroristic conduct complaint at Harvest Christian Aca
 
 date: 2023-11-29, from: Pacific Daily News
 
-Serena Williams has taken to social media to discuss her mental health. 
+Serena Williams has taken to social media to discuss her mental health.
 
-<https://www.guampdn.com/lifestyle/entertainment/serena-williams-its-ok-not-to-be-ok/article_7e8617a3-f10f-541b-a129-b3de6abc1b5a.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/serena-williams-its-ok-not-to-be-ok/article_7e8617a3-f10f-541b-a129-b3de6abc1b5a.html">https://www.guampdn.com/lifestyle/entertainment/serena-williams-its-ok-not-to-be-ok/article_7e8617a3-f10f-541b-a129-b3de6abc1b5a.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/serena-williams-its-ok-not-to-be-ok/article_7e8617a3-f10f-541b-a129-b3de6abc1b5a.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -347,9 +643,13 @@ Serena Williams has taken to social media to discuss her mental health.
 
 date: 2023-11-29, from: Pacific Daily News
 
-Tan France has described Gigi Hadid - his 'Next in Fashion' co-star - as his "angel". 
+Tan France has described Gigi Hadid - his 'Next in Fashion' co-star - as his "angel".
 
-<https://www.guampdn.com/lifestyle/entertainment/gigi-hadid-is-my-angel-says-tan-france/article_821fb3d7-aa15-5158-9a54-34c9b2670302.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/gigi-hadid-is-my-angel-says-tan-france/article_821fb3d7-aa15-5158-9a54-34c9b2670302.html">https://www.guampdn.com/lifestyle/entertainment/gigi-hadid-is-my-angel-says-tan-france/article_821fb3d7-aa15-5158-9a54-34c9b2670302.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/gigi-hadid-is-my-angel-says-tan-france/article_821fb3d7-aa15-5158-9a54-34c9b2670302.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -357,9 +657,13 @@ Tan France has described Gigi Hadid - his 'Next in Fashion' co-star - as his "an
 
 date: 2023-11-29, from: Pacific Daily News
 
-Brian Austin Green has heaped praise on Shannen Doherty, describing her as "strong" and "honest". 
+Brian Austin Green has heaped praise on Shannen Doherty, describing her as "strong" and "honest".
 
-<https://www.guampdn.com/lifestyle/entertainment/brian-austin-green-hails-strong-and-honest-shannen-doherty/article_6d41a7e8-670d-503b-9c99-bdb0681ea21b.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/brian-austin-green-hails-strong-and-honest-shannen-doherty/article_6d41a7e8-670d-503b-9c99-bdb0681ea21b.html">https://www.guampdn.com/lifestyle/entertainment/brian-austin-green-hails-strong-and-honest-shannen-doherty/article_6d41a7e8-670d-503b-9c99-bdb0681ea21b.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/brian-austin-green-hails-strong-and-honest-shannen-doherty/article_6d41a7e8-670d-503b-9c99-bdb0681ea21b.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -367,9 +671,13 @@ Brian Austin Green has heaped praise on Shannen Doherty, describing her as "stro
 
 date: 2023-11-29, from: Pacific Daily News
 
-Olivia Rodrigo has revealed that she feels "less alone" when she's writing music. 
+Olivia Rodrigo has revealed that she feels "less alone" when she's writing music.
 
-<https://www.guampdn.com/lifestyle/entertainment/music-makes-me-feel-less-alone-says-olivia-rodrigo/article_45096f5f-1c93-5162-93b5-391c5045067c.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/music-makes-me-feel-less-alone-says-olivia-rodrigo/article_45096f5f-1c93-5162-93b5-391c5045067c.html">https://www.guampdn.com/lifestyle/entertainment/music-makes-me-feel-less-alone-says-olivia-rodrigo/article_45096f5f-1c93-5162-93b5-391c5045067c.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/music-makes-me-feel-less-alone-says-olivia-rodrigo/article_45096f5f-1c93-5162-93b5-391c5045067c.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -377,9 +685,13 @@ Olivia Rodrigo has revealed that she feels "less alone" when she's writing music
 
 date: 2023-11-29, from: Pacific Daily News
 
-Emilie A. Villanueva 
+Emilie A. Villanueva
 
-<https://www.guampdn.com/emilie-a-villanueva/image_e4fee0b4-8f0c-11ee-a8a1-230ac8f04f5e.html>
+<span>
+<a href="https://www.guampdn.com/emilie-a-villanueva/image_e4fee0b4-8f0c-11ee-a8a1-230ac8f04f5e.html">https://www.guampdn.com/emilie-a-villanueva/image_e4fee0b4-8f0c-11ee-a8a1-230ac8f04f5e.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/emilie-a-villanueva/image_e4fee0b4-8f0c-11ee-a8a1-230ac8f04f5e.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -387,9 +699,13 @@ Emilie A. Villanueva
 
 date: 2023-11-29, from: Pacific Daily News
 
-50 Cent Offers to Buy Revolt From Diddy , Amid Sexual Assault Lawsuits. On Nov. 28, it was announced that Sean "Diddy" Combs would be stepping down as chairman of Revolt as he faces sexual assault lawsuits against him. While&#8230; 
+50 Cent Offers to Buy Revolt From Diddy , Amid Sexual Assault Lawsuits. On Nov. 28, it was announced that Sean "Diddy" Combs would be stepping down as chairman of Revolt as he faces sexual assault lawsuits against him. While&#8230;
 
-<https://www.guampdn.com/lifestyle/entertainment/50-cent-offers-to-buy-revolt-from-diddy-amid-sexual-assault-lawsuits/video_cd8273e7-9a9f-5e80-8645-6894315ccb3a.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/50-cent-offers-to-buy-revolt-from-diddy-amid-sexual-assault-lawsuits/video_cd8273e7-9a9f-5e80-8645-6894315ccb3a.html">https://www.guampdn.com/lifestyle/entertainment/50-cent-offers-to-buy-revolt-from-diddy-amid-sexual-assault-lawsuits/video_cd8273e7-9a9f-5e80-8645-6894315ccb3a.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/50-cent-offers-to-buy-revolt-from-diddy-amid-sexual-assault-lawsuits/video_cd8273e7-9a9f-5e80-8645-6894315ccb3a.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -398,9 +714,13 @@ date: 2023-11-29, from: Pacific Daily News
 date: 2023-11-29, from: University of Hawaiʻi News
 
 <p>The special issue of <em>Health Services Research</em> provides a framework for federal agencies and the broader health service research community.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/29/healthcare-equity-federal-push/">Thompson School dean leads publication in federal push for healthcare equity</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/29/healthcare-equity-federal-push/">Thompson School dean leads publication in federal push for healthcare equity</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/29/healthcare-equity-federal-push/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/29/healthcare-equity-federal-push/">https://www.hawaii.edu/news/2023/11/29/healthcare-equity-federal-push/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/29/healthcare-equity-federal-push/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -410,9 +730,13 @@ date: 2023-11-29, from: Marshal Islands Journal
 
 <p>WILMER JOEL Election day in the Marshall Islands saw a varied turnout of voters. From seven in the morning until seven in the evening on Monday, young and old Marshallese voters waited at the polling stations. Throughout the day, there were fluctuations in voter turnout, but some polling stations, such as Maloelap, Namo, Aur, Arno, [&#8230;]</p>
 <p>The post <a href="https://marshallislandsjournal.com/youth-proud-to-vote/">Youth proud to vote</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
- 
 
-<https://marshallislandsjournal.com/youth-proud-to-vote/>
+
+<span>
+<a href="https://marshallislandsjournal.com/youth-proud-to-vote/">https://marshallislandsjournal.com/youth-proud-to-vote/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://marshallislandsjournal.com/youth-proud-to-vote/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -421,9 +745,13 @@ date: 2023-11-29, from: Marshal Islands Journal
 date: 2023-11-29, from: University of Hawaiʻi News
 
 <p>This week's image is from Leeward Community College's Donald Carreira Ching.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/29/uh-news-image-of-the-week-relief-letter-print/"><abbr>UH</abbr> News Image of the Week: Relief letter print</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/29/uh-news-image-of-the-week-relief-letter-print/"><abbr>UH</abbr> News Image of the Week: Relief letter print</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/29/uh-news-image-of-the-week-relief-letter-print/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/29/uh-news-image-of-the-week-relief-letter-print/">https://www.hawaii.edu/news/2023/11/29/uh-news-image-of-the-week-relief-letter-print/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/29/uh-news-image-of-the-week-relief-letter-print/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -431,9 +759,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/29/uh-news-image-of-the-we
 
 date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
-(Commonwealth Utilities Corp.) — CUC has been notified by Mobil Oil Mariana Islands Inc. that there has been a decrease in the average  international  fuel  oil prices  which  may  affect  the  Fuel  Adjustment  Charge. 
+(Commonwealth Utilities Corp.) — CUC has been notified by Mobil Oil Mariana Islands Inc. that there has been a decrease in the average  international  fuel  oil prices  which  may  affect  the  Fuel  Adjustment  Charge.
 
-<https://www.mvariety.com/news/local/cuc-falling-fuel-prices-result-in-decrease-of-fuel-adjustment-charge-for-december/article_07ff9576-8eb9-11ee-8cba-db1d504260cc.html>
+<span>
+<a href="https://www.mvariety.com/news/local/cuc-falling-fuel-prices-result-in-decrease-of-fuel-adjustment-charge-for-december/article_07ff9576-8eb9-11ee-8cba-db1d504260cc.html">https://www.mvariety.com/news/local/cuc-falling-fuel-prices-result-in-decrease-of-fuel-adjustment-charge-for-december/article_07ff9576-8eb9-11ee-8cba-db1d504260cc.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/cuc-falling-fuel-prices-result-in-decrease-of-fuel-adjustment-charge-for-december/article_07ff9576-8eb9-11ee-8cba-db1d504260cc.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -441,9 +773,13 @@ date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
 date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
-(CNMI Judiciary) — On Wednesday, at the opening of the Pacific Judicial Council's 2023 Technology Conference, Justice F. Philip  Carbullido of the Supreme Court of Guam addressed a gathering of esteemed judges, attorneys, and distinguished guests throughout Micronesia at the Pacific Islands Club Hotel. With a theme titled "Welcome to the New Age," the conference aims to explore the intersection of law and technology in the current digital era. 
+(CNMI Judiciary) — On Wednesday, at the opening of the Pacific Judicial Council's 2023 Technology Conference, Justice F. Philip  Carbullido of the Supreme Court of Guam addressed a gathering of esteemed judges, attorneys, and distinguished guests throughout Micronesia at the Pacific Islands Club Hotel. With a theme titled "Welcome to the New Age," the conference aims to explore the intersection of law and technology in the current digital era.
 
-<https://www.mvariety.com/news/local/pacific-judicial-council-discusses-new-technology-in-digital-era/article_eaa61692-8eba-11ee-87df-2fd228dcfa5a.html>
+<span>
+<a href="https://www.mvariety.com/news/local/pacific-judicial-council-discusses-new-technology-in-digital-era/article_eaa61692-8eba-11ee-87df-2fd228dcfa5a.html">https://www.mvariety.com/news/local/pacific-judicial-council-discusses-new-technology-in-digital-era/article_eaa61692-8eba-11ee-87df-2fd228dcfa5a.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/pacific-judicial-council-discusses-new-technology-in-digital-era/article_eaa61692-8eba-11ee-87df-2fd228dcfa5a.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -451,9 +787,13 @@ date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
 date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
-(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Managaha’s recreational beaches and dock as part of the regularly scheduled sampling.  None of the samples collected this week contained excessive concentrations of fecal indicator bacteria nor did they exceed the CNMI marine water quality standards. Therefore, BECQ assigns all of the sampled beach sites a green flag. Enjoy our waters! 
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Managaha’s recreational beaches and dock as part of the regularly scheduled sampling.  None of the samples collected this week contained excessive concentrations of fecal indicator bacteria nor did they exceed the CNMI marine water quality standards. Therefore, BECQ assigns all of the sampled beach sites a green flag. Enjoy our waters!
 
-<https://www.mvariety.com/news/local/green-flag-on-managaha/article_ef2bfcaa-8ebe-11ee-b58f-d7254ee2a593.html>
+<span>
+<a href="https://www.mvariety.com/news/local/green-flag-on-managaha/article_ef2bfcaa-8ebe-11ee-b58f-d7254ee2a593.html">https://www.mvariety.com/news/local/green-flag-on-managaha/article_ef2bfcaa-8ebe-11ee-b58f-d7254ee2a593.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/green-flag-on-managaha/article_ef2bfcaa-8ebe-11ee-b58f-d7254ee2a593.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -461,9 +801,13 @@ date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
 date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
-AIRPORT Firefighter Hekido Kaipat Helgen appeared before Superior Court Associate Judge Joseph N. Camacho on Wednesday for a bail hearing. 
+AIRPORT Firefighter Hekido Kaipat Helgen appeared before Superior Court Associate Judge Joseph N. Camacho on Wednesday for a bail hearing.
 
-<https://www.mvariety.com/news/local/airport-firefighter-charged-with-assault-and-battery/article_31734fd2-8e8d-11ee-b802-efe6d52cc3c9.html>
+<span>
+<a href="https://www.mvariety.com/news/local/airport-firefighter-charged-with-assault-and-battery/article_31734fd2-8e8d-11ee-b802-efe6d52cc3c9.html">https://www.mvariety.com/news/local/airport-firefighter-charged-with-assault-and-battery/article_31734fd2-8e8d-11ee-b802-efe6d52cc3c9.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/airport-firefighter-charged-with-assault-and-battery/article_31734fd2-8e8d-11ee-b802-efe6d52cc3c9.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -471,9 +815,13 @@ AIRPORT Firefighter Hekido Kaipat Helgen appeared before Superior Court Associat
 
 date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
-A LARGE portion of the allotted budget for the CNMI Department of Public Safety in fiscal year 2023 was prioritized for personnel salary, according to its recently released Citizen Centric Report. 
+A LARGE portion of the allotted budget for the CNMI Department of Public Safety in fiscal year 2023 was prioritized for personnel salary, according to its recently released Citizen Centric Report.
 
-<https://www.mvariety.com/news/local/dps-large-portion-of-2023-budget-spent-on-personnel-salary/article_05f70218-8e97-11ee-a329-57c5f4cd1092.html>
+<span>
+<a href="https://www.mvariety.com/news/local/dps-large-portion-of-2023-budget-spent-on-personnel-salary/article_05f70218-8e97-11ee-a329-57c5f4cd1092.html">https://www.mvariety.com/news/local/dps-large-portion-of-2023-budget-spent-on-personnel-salary/article_05f70218-8e97-11ee-a329-57c5f4cd1092.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/dps-large-portion-of-2023-budget-spent-on-personnel-salary/article_05f70218-8e97-11ee-a329-57c5f4cd1092.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -481,9 +829,13 @@ A LARGE portion of the allotted budget for the CNMI Department of Public Safety 
 
 date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
-RAY Muna, chairman of the CNMI Civil Service Commission, on Wednesday, urged members of the Saipan and Northern Islands Legislative Delegation to provide funds that will allow him to hire an administrative hearing officer. 
+RAY Muna, chairman of the CNMI Civil Service Commission, on Wednesday, urged members of the Saipan and Northern Islands Legislative Delegation to provide funds that will allow him to hire an administrative hearing officer.
 
-<https://www.mvariety.com/news/local/civil-service-commission-seeks-funding-for-hearing-officer/article_27ca47a2-8e9b-11ee-84d4-ffc6335de1cb.html>
+<span>
+<a href="https://www.mvariety.com/news/local/civil-service-commission-seeks-funding-for-hearing-officer/article_27ca47a2-8e9b-11ee-84d4-ffc6335de1cb.html">https://www.mvariety.com/news/local/civil-service-commission-seeks-funding-for-hearing-officer/article_27ca47a2-8e9b-11ee-84d4-ffc6335de1cb.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/civil-service-commission-seeks-funding-for-hearing-officer/article_27ca47a2-8e9b-11ee-84d4-ffc6335de1cb.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -491,9 +843,13 @@ RAY Muna, chairman of the CNMI Civil Service Commission, on Wednesday, urged mem
 
 date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
-LEGAL briefs with made-up ChatGPT and Artificial Intelligence citations have been submitted to the courts, Justice F. Philip Carbullido of the Supreme Court of Guam said in an interview during the Pacific Judicial Council's 2023 Technology Conference at the Pacific Islands Club on Wednesday. 
+LEGAL briefs with made-up ChatGPT and Artificial Intelligence citations have been submitted to the courts, Justice F. Philip Carbullido of the Supreme Court of Guam said in an interview during the Pacific Judicial Council's 2023 Technology Conference at the Pacific Islands Club on Wednesday.
 
-<https://www.mvariety.com/news/local/made-up-legal-citations-have-been-submitted-to-courts-says-justice-carbullido/article_097854ce-8e96-11ee-930c-5fa90cc43f91.html>
+<span>
+<a href="https://www.mvariety.com/news/local/made-up-legal-citations-have-been-submitted-to-courts-says-justice-carbullido/article_097854ce-8e96-11ee-930c-5fa90cc43f91.html">https://www.mvariety.com/news/local/made-up-legal-citations-have-been-submitted-to-courts-says-justice-carbullido/article_097854ce-8e96-11ee-930c-5fa90cc43f91.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/made-up-legal-citations-have-been-submitted-to-courts-says-justice-carbullido/article_097854ce-8e96-11ee-930c-5fa90cc43f91.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -501,9 +857,13 @@ LEGAL briefs with made-up ChatGPT and Artificial Intelligence citations have bee
 
 date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
-GOVERNOR Arnold I. Palacios last week signed House Local Bill 23-19 into law to lift the ban on the exportation of raw bayogo or sea bean from Rota. 
+GOVERNOR Arnold I. Palacios last week signed House Local Bill 23-19 into law to lift the ban on the exportation of raw bayogo or sea bean from Rota.
 
-<https://www.mvariety.com/news/local/new-local-law-lifts-ban-on-rota-sea-bean-export/article_c7f29e42-8e77-11ee-b5ff-fb6ff17b1661.html>
+<span>
+<a href="https://www.mvariety.com/news/local/new-local-law-lifts-ban-on-rota-sea-bean-export/article_c7f29e42-8e77-11ee-b5ff-fb6ff17b1661.html">https://www.mvariety.com/news/local/new-local-law-lifts-ban-on-rota-sea-bean-export/article_c7f29e42-8e77-11ee-b5ff-fb6ff17b1661.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/new-local-law-lifts-ban-on-rota-sea-bean-export/article_c7f29e42-8e77-11ee-b5ff-fb6ff17b1661.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -511,9 +871,13 @@ GOVERNOR Arnold I. Palacios last week signed House Local Bill 23-19 into law to 
 
 date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
-THE Saipan and Northern Islands Legislative Delegation on Wednesday confirmed the re-appointment of Kaelani Demapan and the nominations of Henry Hofschneider and Guadalupe Ingham as members of the Saipan Higher Educational Financial Assistance board. 
+THE Saipan and Northern Islands Legislative Delegation on Wednesday confirmed the re-appointment of Kaelani Demapan and the nominations of Henry Hofschneider and Guadalupe Ingham as members of the Saipan Higher Educational Financial Assistance board.
 
-<https://www.mvariety.com/news/local/saipan-delegation-confirms-3-shefa-board-nominees/article_b48284c8-8e9d-11ee-b6a5-53693513bcb6.html>
+<span>
+<a href="https://www.mvariety.com/news/local/saipan-delegation-confirms-3-shefa-board-nominees/article_b48284c8-8e9d-11ee-b6a5-53693513bcb6.html">https://www.mvariety.com/news/local/saipan-delegation-confirms-3-shefa-board-nominees/article_b48284c8-8e9d-11ee-b6a5-53693513bcb6.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/saipan-delegation-confirms-3-shefa-board-nominees/article_b48284c8-8e9d-11ee-b6a5-53693513bcb6.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -521,9 +885,13 @@ THE Saipan and Northern Islands Legislative Delegation on Wednesday confirmed th
 
 date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
-NICK Leon Guerrero clinched the Amigos Golf Club’s December Ace of the Month title on Sunday at the Laolao Bay Golf &amp; Resort east course. 
+NICK Leon Guerrero clinched the Amigos Golf Club’s December Ace of the Month title on Sunday at the Laolao Bay Golf &amp; Resort east course.
 
-<https://www.mvariety.com/sports/localsports/nick-leon-guerrero-is-amigos-december-ace/article_9dee56f8-8e73-11ee-8941-0fbc4db3146d.html>
+<span>
+<a href="https://www.mvariety.com/sports/localsports/nick-leon-guerrero-is-amigos-december-ace/article_9dee56f8-8e73-11ee-8941-0fbc4db3146d.html">https://www.mvariety.com/sports/localsports/nick-leon-guerrero-is-amigos-december-ace/article_9dee56f8-8e73-11ee-8941-0fbc4db3146d.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/sports/localsports/nick-leon-guerrero-is-amigos-december-ace/article_9dee56f8-8e73-11ee-8941-0fbc4db3146d.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -531,9 +899,13 @@ NICK Leon Guerrero clinched the Amigos Golf Club’s December Ace of the Month t
 
 date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
-(Department of Public Safety) — DPS would like to inform our community that we will continue to monitor the entry and exit points of Hopwood Middle School during this week. Our top priority is the safety of our students, staff, and bus drivers, so we kindly ask you to follow the guidelines below: 
+(Department of Public Safety) — DPS would like to inform our community that we will continue to monitor the entry and exit points of Hopwood Middle School during this week. Our top priority is the safety of our students, staff, and bus drivers, so we kindly ask you to follow the guidelines below:
 
-<https://www.mvariety.com/news/community_bulletins/drop-off-and-pick-up-locations-for-hopwood/article_ba9e0b48-8ec5-11ee-8d6d-0bb0dd7fbd3a.html>
+<span>
+<a href="https://www.mvariety.com/news/community_bulletins/drop-off-and-pick-up-locations-for-hopwood/article_ba9e0b48-8ec5-11ee-8d6d-0bb0dd7fbd3a.html">https://www.mvariety.com/news/community_bulletins/drop-off-and-pick-up-locations-for-hopwood/article_ba9e0b48-8ec5-11ee-8d6d-0bb0dd7fbd3a.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/community_bulletins/drop-off-and-pick-up-locations-for-hopwood/article_ba9e0b48-8ec5-11ee-8d6d-0bb0dd7fbd3a.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -541,9 +913,13 @@ date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
 date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
-(NMC) — Northern Marianas College Board of Regents Chairman Charles V. Cepeda has been appointed by the Association of Community College Trustees Chairman, Jay Nardini, to serve on the ACCT Diversity, Equity, and Inclusion Committee. 
+(NMC) — Northern Marianas College Board of Regents Chairman Charles V. Cepeda has been appointed by the Association of Community College Trustees Chairman, Jay Nardini, to serve on the ACCT Diversity, Equity, and Inclusion Committee.
 
-<https://www.mvariety.com/news/community_bulletins/nmc-board-chair-appointed-to-diversity-equity-and-inclusion-committee/article_1dbe39dc-8ec6-11ee-a439-03d3cd5a1d89.html>
+<span>
+<a href="https://www.mvariety.com/news/community_bulletins/nmc-board-chair-appointed-to-diversity-equity-and-inclusion-committee/article_1dbe39dc-8ec6-11ee-a439-03d3cd5a1d89.html">https://www.mvariety.com/news/community_bulletins/nmc-board-chair-appointed-to-diversity-equity-and-inclusion-committee/article_1dbe39dc-8ec6-11ee-a439-03d3cd5a1d89.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/community_bulletins/nmc-board-chair-appointed-to-diversity-equity-and-inclusion-committee/article_1dbe39dc-8ec6-11ee-a439-03d3cd5a1d89.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -551,9 +927,13 @@ date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
 date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 
-TINIAN — On Nov. 11, 2023, Veterans Day, the Tinian Stallion Battalion marched together as a unit to honor the veterans who have served this country. Along with the U.S. and CNMI colors, cadets marched with the U.S. armed forces service flags and eight U.S. state flags. 
+TINIAN — On Nov. 11, 2023, Veterans Day, the Tinian Stallion Battalion marched together as a unit to honor the veterans who have served this country. Along with the U.S. and CNMI colors, cadets marched with the U.S. armed forces service flags and eight U.S. state flags.
 
-<https://www.mvariety.com/news/community_bulletins/stallion-battalion-participates-in-veterans-day-ceremony/article_108b3b44-8ec5-11ee-b2cb-3f3ab8d513c0.html>
+<span>
+<a href="https://www.mvariety.com/news/community_bulletins/stallion-battalion-participates-in-veterans-day-ceremony/article_108b3b44-8ec5-11ee-b2cb-3f3ab8d513c0.html">https://www.mvariety.com/news/community_bulletins/stallion-battalion-participates-in-veterans-day-ceremony/article_108b3b44-8ec5-11ee-b2cb-3f3ab8d513c0.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/community_bulletins/stallion-battalion-participates-in-veterans-day-ceremony/article_108b3b44-8ec5-11ee-b2cb-3f3ab8d513c0.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -561,9 +941,13 @@ TINIAN — On Nov. 11, 2023, Veterans Day, the Tinian Stallion Battalion marched
 
 date: 2023-11-29, from: The Guam Daily Post
 
-Those who had negative traits were more at risk of developing dementia. 
+Those who had negative traits were more at risk of developing dementia.
 
-<https://www.postguam.com/lifestyles/health/being-optimistic-in-life-could-help-protect-against-dementia/article_6c734972-5cd6-582f-8659-a02fe8504377.html>
+<span>
+<a href="https://www.postguam.com/lifestyles/health/being-optimistic-in-life-could-help-protect-against-dementia/article_6c734972-5cd6-582f-8659-a02fe8504377.html">https://www.postguam.com/lifestyles/health/being-optimistic-in-life-could-help-protect-against-dementia/article_6c734972-5cd6-582f-8659-a02fe8504377.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/lifestyles/health/being-optimistic-in-life-could-help-protect-against-dementia/article_6c734972-5cd6-582f-8659-a02fe8504377.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -571,9 +955,13 @@ Those who had negative traits were more at risk of developing dementia.
 
 date: 2023-11-29, from: Chaminade Silversword (Chaminade Univ. student newspaper)
 
-Many people know Chaminade is located on Kalaepohaku or that the men&#8217;s basketball team pulled off one of the greatest upsets in basketball history in 1982 versus the University of Virginia or that the women’s volleyball team is currently ranked number one in the west region. But there&#8217;s so much more history here than that,... 
+Many people know Chaminade is located on Kalaepohaku or that the men&#8217;s basketball team pulled off one of the greatest upsets in basketball history in 1982 versus the University of Virginia or that the women’s volleyball team is currently ranked number one in the west region. But there&#8217;s so much more history here than that,...
 
-<https://thesilversword.com/features/2023/11/29/chaminades-macabre-background-creates-interesting-history-on-kalaepohaku/>
+<span>
+<a href="https://thesilversword.com/features/2023/11/29/chaminades-macabre-background-creates-interesting-history-on-kalaepohaku/">https://thesilversword.com/features/2023/11/29/chaminades-macabre-background-creates-interesting-history-on-kalaepohaku/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://thesilversword.com/features/2023/11/29/chaminades-macabre-background-creates-interesting-history-on-kalaepohaku/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -581,9 +969,13 @@ Many people know Chaminade is located on Kalaepohaku or that the men&#8217;s bas
 
 date: 2023-11-29, from: The Guam Daily Post
 
-By a vote of 5 yes and 1 no, and with three senators absent, the Senate on Monday failed to garner the two-thirds vote required to override Gov. Arnold I. Palacios' line-item veto of the allotments for the utility costs… 
+By a vote of 5 yes and 1 no, and with three senators absent, the Senate on Monday failed to garner the two-thirds vote required to override Gov. Arnold I. Palacios' line-item veto of the allotments for the utility costs…
 
-<https://www.postguam.com/news/cnmi/senate-fails-to-override-governors-veto-of-utility-cost/article_ed40651e-8e4d-11ee-9ee4-df17ead97883.html>
+<span>
+<a href="https://www.postguam.com/news/cnmi/senate-fails-to-override-governors-veto-of-utility-cost/article_ed40651e-8e4d-11ee-9ee4-df17ead97883.html">https://www.postguam.com/news/cnmi/senate-fails-to-override-governors-veto-of-utility-cost/article_ed40651e-8e4d-11ee-9ee4-df17ead97883.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/cnmi/senate-fails-to-override-governors-veto-of-utility-cost/article_ed40651e-8e4d-11ee-9ee4-df17ead97883.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -591,9 +983,13 @@ By a vote of 5 yes and 1 no, and with three senators absent, the Senate on Monda
 
 date: 2023-11-29, from: The Guam Daily Post
 
-Starting Dec. 4, the Division of Parks and Recreation, which is under the Department of Lands and Natural Resources, will collect a $5 Grotto dive site entrance fee from non-CNMI residents pursuant to Public Law 14-27. 
+Starting Dec. 4, the Division of Parks and Recreation, which is under the Department of Lands and Natural Resources, will collect a $5 Grotto dive site entrance fee from non-CNMI residents pursuant to Public Law 14-27.
 
-<https://www.postguam.com/news/cnmi/parks-and-recreation-to-collect-5-grotto-fee-starting-dec-4/article_6d49795a-8e4c-11ee-b95c-5fc4958309ef.html>
+<span>
+<a href="https://www.postguam.com/news/cnmi/parks-and-recreation-to-collect-5-grotto-fee-starting-dec-4/article_6d49795a-8e4c-11ee-b95c-5fc4958309ef.html">https://www.postguam.com/news/cnmi/parks-and-recreation-to-collect-5-grotto-fee-starting-dec-4/article_6d49795a-8e4c-11ee-b95c-5fc4958309ef.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/cnmi/parks-and-recreation-to-collect-5-grotto-fee-starting-dec-4/article_6d49795a-8e4c-11ee-b95c-5fc4958309ef.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -601,9 +997,13 @@ Starting Dec. 4, the Division of Parks and Recreation, which is under the Depart
 
 date: 2023-11-29, from: The Guam Daily Post
 
-Lawyers with the Public Defender Service Corp. have been asked to review the cases they had previously withdrawn from. 
+Lawyers with the Public Defender Service Corp. have been asked to review the cases they had previously withdrawn from.
 
-<https://www.postguam.com/news/local/public-defenders-asked-to-review-conflicts-of-interest-in-old-cases/article_1b8c4098-8da2-11ee-aa5d-ff9dadfd962f.html>
+<span>
+<a href="https://www.postguam.com/news/local/public-defenders-asked-to-review-conflicts-of-interest-in-old-cases/article_1b8c4098-8da2-11ee-aa5d-ff9dadfd962f.html">https://www.postguam.com/news/local/public-defenders-asked-to-review-conflicts-of-interest-in-old-cases/article_1b8c4098-8da2-11ee-aa5d-ff9dadfd962f.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/public-defenders-asked-to-review-conflicts-of-interest-in-old-cases/article_1b8c4098-8da2-11ee-aa5d-ff9dadfd962f.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -611,9 +1011,13 @@ Lawyers with the Public Defender Service Corp. have been asked to review the cas
 
 date: 2023-11-29, from: The Guam Daily Post
 
-A man was stabbed over accusations he was having an affair with another man's girlfriend. 
+A man was stabbed over accusations he was having an affair with another man's girlfriend.
 
-<https://www.postguam.com/news/local/night-of-drinking-leads-to-fight-stabbing/article_443400c6-8e4c-11ee-8d14-a3ee55cc2bf8.html>
+<span>
+<a href="https://www.postguam.com/news/local/night-of-drinking-leads-to-fight-stabbing/article_443400c6-8e4c-11ee-8d14-a3ee55cc2bf8.html">https://www.postguam.com/news/local/night-of-drinking-leads-to-fight-stabbing/article_443400c6-8e4c-11ee-8d14-a3ee55cc2bf8.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/night-of-drinking-leads-to-fight-stabbing/article_443400c6-8e4c-11ee-8d14-a3ee55cc2bf8.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -621,9 +1025,13 @@ A man was stabbed over accusations he was having an affair with another man's gi
 
 date: 2023-11-29, from: The Guam Daily Post
 
-A man was accused of strangling a woman, threatening to kill her if she left, and later making her sit under a sink in a Tamuning residence. 
+A man was accused of strangling a woman, threatening to kill her if she left, and later making her sit under a sink in a Tamuning residence.
 
-<https://www.postguam.com/news/local/man-allegedly-threatens-restrains-strangles-woman/article_0f15ac3e-8e54-11ee-b5b9-b3d2ab3f645a.html>
+<span>
+<a href="https://www.postguam.com/news/local/man-allegedly-threatens-restrains-strangles-woman/article_0f15ac3e-8e54-11ee-b5b9-b3d2ab3f645a.html">https://www.postguam.com/news/local/man-allegedly-threatens-restrains-strangles-woman/article_0f15ac3e-8e54-11ee-b5b9-b3d2ab3f645a.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/man-allegedly-threatens-restrains-strangles-woman/article_0f15ac3e-8e54-11ee-b5b9-b3d2ab3f645a.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -631,9 +1039,13 @@ A man was accused of strangling a woman, threatening to kill her if she left, an
 
 date: 2023-11-29, from: The Guam Daily Post
 
-The Supreme Court of Guam affirmed the conviction and 25-year sentence for a man found guilty in the 2020 killing of 45-year-old Peter John Tadeo Rios Jr. 
+The Supreme Court of Guam affirmed the conviction and 25-year sentence for a man found guilty in the 2020 killing of 45-year-old Peter John Tadeo Rios Jr.
 
-<https://www.postguam.com/news/local/supreme-court-affirms-killers-2020-conviction-and-sentence/article_c8bd59de-8e45-11ee-8c65-4b0eb96763ca.html>
+<span>
+<a href="https://www.postguam.com/news/local/supreme-court-affirms-killers-2020-conviction-and-sentence/article_c8bd59de-8e45-11ee-8c65-4b0eb96763ca.html">https://www.postguam.com/news/local/supreme-court-affirms-killers-2020-conviction-and-sentence/article_c8bd59de-8e45-11ee-8c65-4b0eb96763ca.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/supreme-court-affirms-killers-2020-conviction-and-sentence/article_c8bd59de-8e45-11ee-8c65-4b0eb96763ca.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -641,9 +1053,13 @@ The Supreme Court of Guam affirmed the conviction and 25-year sentence for a man
 
 date: 2023-11-29, from: The Guam Daily Post
 
-Ivan Sablan Blanco, a junior at the University of Guam, has been chosen as the new Rotary Club of Tokyo-Atago scholar and awarded $10,000 toward his degree in business administration. 
+Ivan Sablan Blanco, a junior at the University of Guam, has been chosen as the new Rotary Club of Tokyo-Atago scholar and awarded $10,000 toward his degree in business administration.
 
-<https://www.postguam.com/news/local/10k-awarded-to-uog-student/article_d94f771c-8ccb-11ee-833b-ff6c9989206d.html>
+<span>
+<a href="https://www.postguam.com/news/local/10k-awarded-to-uog-student/article_d94f771c-8ccb-11ee-833b-ff6c9989206d.html">https://www.postguam.com/news/local/10k-awarded-to-uog-student/article_d94f771c-8ccb-11ee-833b-ff6c9989206d.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/10k-awarded-to-uog-student/article_d94f771c-8ccb-11ee-833b-ff6c9989206d.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -651,9 +1067,13 @@ Ivan Sablan Blanco, a junior at the University of Guam, has been chosen as the n
 
 date: 2023-11-29, from: The Guam Daily Post
 
-The University of Guam and its partners celebrated the groundbreaking for two new buildings on Nov. 17, marking a turning point for the projects that overcame a host of challenges including the COVID-19 pandemic, rising cost of construction, regulatory processes,… 
+The University of Guam and its partners celebrated the groundbreaking for two new buildings on Nov. 17, marking a turning point for the projects that overcame a host of challenges including the COVID-19 pandemic, rising cost of construction, regulatory processes,…
 
-<https://www.postguam.com/news/local/uog-breaks-ground-for-new-weri-nursing-annex-buildings/article_f3460f22-8e3e-11ee-a25a-83ecd08cb3c1.html>
+<span>
+<a href="https://www.postguam.com/news/local/uog-breaks-ground-for-new-weri-nursing-annex-buildings/article_f3460f22-8e3e-11ee-a25a-83ecd08cb3c1.html">https://www.postguam.com/news/local/uog-breaks-ground-for-new-weri-nursing-annex-buildings/article_f3460f22-8e3e-11ee-a25a-83ecd08cb3c1.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/uog-breaks-ground-for-new-weri-nursing-annex-buildings/article_f3460f22-8e3e-11ee-a25a-83ecd08cb3c1.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -661,9 +1081,13 @@ The University of Guam and its partners celebrated the groundbreaking for two ne
 
 date: 2023-11-29, from: The Guam Daily Post
 
-A man decided to invoke his Fifth Amendment right to remain silent when asked to discuss allegedly speaking with a juror sitting on the trial for Nakita Aguon, a woman accused of driving a red Jeep into Jerry Kitchen, a… 
+A man decided to invoke his Fifth Amendment right to remain silent when asked to discuss allegedly speaking with a juror sitting on the trial for Nakita Aguon, a woman accused of driving a red Jeep into Jerry Kitchen, a…
 
-<https://www.postguam.com/news/witness-pleads-the-5th-on-juror-misconduct-in-jerry-kitchen-trial/article_16fc47f0-8e72-11ee-8e3c-831ee493d360.html>
+<span>
+<a href="https://www.postguam.com/news/witness-pleads-the-5th-on-juror-misconduct-in-jerry-kitchen-trial/article_16fc47f0-8e72-11ee-8e3c-831ee493d360.html">https://www.postguam.com/news/witness-pleads-the-5th-on-juror-misconduct-in-jerry-kitchen-trial/article_16fc47f0-8e72-11ee-8e3c-831ee493d360.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/witness-pleads-the-5th-on-juror-misconduct-in-jerry-kitchen-trial/article_16fc47f0-8e72-11ee-8e3c-831ee493d360.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -671,9 +1095,13 @@ A man decided to invoke his Fifth Amendment right to remain silent when asked to
 
 date: 2023-11-29, from: The Guam Daily Post
 
-A man was accused of throwing a plate of food, canned food, punching and trying to stab a woman with a fork. 
+A man was accused of throwing a plate of food, canned food, punching and trying to stab a woman with a fork.
 
-<https://www.postguam.com/news/local/man-accused-of-throwing-food-punching-and-trying-to-stab-woman-with-a-fork/article_28ecc600-8e50-11ee-9dba-df6397f2f1f7.html>
+<span>
+<a href="https://www.postguam.com/news/local/man-accused-of-throwing-food-punching-and-trying-to-stab-woman-with-a-fork/article_28ecc600-8e50-11ee-9dba-df6397f2f1f7.html">https://www.postguam.com/news/local/man-accused-of-throwing-food-punching-and-trying-to-stab-woman-with-a-fork/article_28ecc600-8e50-11ee-9dba-df6397f2f1f7.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/man-accused-of-throwing-food-punching-and-trying-to-stab-woman-with-a-fork/article_28ecc600-8e50-11ee-9dba-df6397f2f1f7.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -681,9 +1109,13 @@ A man was accused of throwing a plate of food, canned food, punching and trying 
 
 date: 2023-11-29, from: The Guam Daily Post
 
-Guam Del. James Moylan has introduced the Typhoon Mawar Reconstruction Act, or H.R. 6478, which aims to provide the Federal Emergency Management Agency with the authority to seek out and allocate funds to address infrastructure damage resulting from the storm. 
+Guam Del. James Moylan has introduced the Typhoon Mawar Reconstruction Act, or H.R. 6478, which aims to provide the Federal Emergency Management Agency with the authority to seek out and allocate funds to address infrastructure damage resulting from the storm.
 
-<https://www.postguam.com/news/local/delegate-moylan-introduces-mawar-reconstruction-act/article_84f18494-8cc6-11ee-8270-77e1b8f14049.html>
+<span>
+<a href="https://www.postguam.com/news/local/delegate-moylan-introduces-mawar-reconstruction-act/article_84f18494-8cc6-11ee-8270-77e1b8f14049.html">https://www.postguam.com/news/local/delegate-moylan-introduces-mawar-reconstruction-act/article_84f18494-8cc6-11ee-8270-77e1b8f14049.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/delegate-moylan-introduces-mawar-reconstruction-act/article_84f18494-8cc6-11ee-8270-77e1b8f14049.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -691,9 +1123,13 @@ Guam Del. James Moylan has introduced the Typhoon Mawar Reconstruction Act, or H
 
 date: 2023-11-29, from: Pacific Island Forum
 
-November 29th, COP28 UAE –Pacific nations including those bearing the brunt of the global climate crisis are coming to the COP 28 in UAE this week ready<span class="excerpt-hellip"> […]</span> 
+November 29th, COP28 UAE –Pacific nations including those bearing the brunt of the global climate crisis are coming to the COP 28 in UAE this week ready<span class="excerpt-hellip"> […]</span>
 
-<https://www.forumsec.org/2023/11/29/release-action-ambition-urgency-call-from-forum-sg-as-pacific-leaders-arrive-at-cop28/>
+<span>
+<a href="https://www.forumsec.org/2023/11/29/release-action-ambition-urgency-call-from-forum-sg-as-pacific-leaders-arrive-at-cop28/">https://www.forumsec.org/2023/11/29/release-action-ambition-urgency-call-from-forum-sg-as-pacific-leaders-arrive-at-cop28/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.forumsec.org/2023/11/29/release-action-ambition-urgency-call-from-forum-sg-as-pacific-leaders-arrive-at-cop28/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -702,9 +1138,13 @@ November 29th, COP28 UAE –Pacific nations including those bearing the brunt o
 date: 2023-11-29, from: University of Hawaiʻi News
 
 <p>Makana&#8212;Gift, present; reward, award, donation, prize.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/28/hawaiian-word-of-the-week-makana-2/">Hawaiian Word of the Week: Makana</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/28/hawaiian-word-of-the-week-makana-2/">Hawaiian Word of the Week: Makana</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/28/hawaiian-word-of-the-week-makana-2/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/28/hawaiian-word-of-the-week-makana-2/">https://www.hawaii.edu/news/2023/11/28/hawaiian-word-of-the-week-makana-2/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/28/hawaiian-word-of-the-week-makana-2/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -713,9 +1153,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/28/hawaiian-word-of-the-we
 date: 2023-11-29, from: University of Hawaiʻi News
 
 <p>Leeward Community College's Erin Maruoka shared her spicy clam pasta.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/28/uh-mazing-holiday-recipes-maruoka-spicy-clam-pasta/"><abbr>UH</abbr>-mazing holiday recipes: Elise’s Favorite Spicy Clam Pasta</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/28/uh-mazing-holiday-recipes-maruoka-spicy-clam-pasta/"><abbr>UH</abbr>-mazing holiday recipes: Elise’s Favorite Spicy Clam Pasta</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/28/uh-mazing-holiday-recipes-maruoka-spicy-clam-pasta/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/28/uh-mazing-holiday-recipes-maruoka-spicy-clam-pasta/">https://www.hawaii.edu/news/2023/11/28/uh-mazing-holiday-recipes-maruoka-spicy-clam-pasta/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/28/uh-mazing-holiday-recipes-maruoka-spicy-clam-pasta/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -724,9 +1168,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/28/uh-mazing-holiday-recip
 date: 2023-11-29, from: University of Hawaiʻi News
 
 <p>It’s football and no, not <abbr>NFL</abbr> Tight End Travis Kelce.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/28/taylor-swift-tie-to-uh/">What is Taylor Swift’s tie to <abbr>UH</abbr>?</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/28/taylor-swift-tie-to-uh/">What is Taylor Swift’s tie to <abbr>UH</abbr>?</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/28/taylor-swift-tie-to-uh/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/28/taylor-swift-tie-to-uh/">https://www.hawaii.edu/news/2023/11/28/taylor-swift-tie-to-uh/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/28/taylor-swift-tie-to-uh/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -735,9 +1183,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/28/taylor-swift-tie-to-uh/
 date: 2023-11-29, from: University of Hawaiʻi News
 
 <p>Steven McBride, Pofele Ashlock, Peter Manuma, Brayden Schager, Matthew Shipley, Cam Stone recognized for their performance on the field.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/28/uh-football-all-mountain-west-team/"><abbr>UH</abbr> football players named to All-Mountain West teams</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/28/uh-football-all-mountain-west-team/"><abbr>UH</abbr> football players named to All-Mountain West teams</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/28/uh-football-all-mountain-west-team/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/28/uh-football-all-mountain-west-team/">https://www.hawaii.edu/news/2023/11/28/uh-football-all-mountain-west-team/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/28/uh-football-all-mountain-west-team/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -745,9 +1197,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/28/uh-football-all-mountai
 
 date: 2023-11-28, from: Pacific Island Times
 
-The Summit on Colonialism held Oct. 26 in New York City this year was an incredible experience as it brought territorial natives and... 
+The Summit on Colonialism held Oct. 26 in New York City this year was an incredible experience as it brought territorial natives and...
 
-<https://www.pacificislandtimes.com/post/right-to-democracy-shared-goals-shared-struggles-shared-vision>
+<span>
+<a href="https://www.pacificislandtimes.com/post/right-to-democracy-shared-goals-shared-struggles-shared-vision">https://www.pacificislandtimes.com/post/right-to-democracy-shared-goals-shared-struggles-shared-vision</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/right-to-democracy-shared-goals-shared-struggles-shared-vision">Save to Pocket</a>
+</span>
 
 ---
 
@@ -756,9 +1212,13 @@ The Summit on Colonialism held Oct. 26 in New York City this year was an incredi
 date: 2023-11-28, from: University of Hawaiʻi News
 
 <p>Through the <abbr title="doctor of medicine">MD</abbr> Alumni Scholarship, Grace Crittenden and others hope that current <abbr>JABSOM</abbr> students will get to practice medicine in <span aria-label="Hawaii">Hawai&#699;i</span>&#8212;without much debt.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/28/jabsom-alum-pay-it-forward/">Paying it forward: <abbr>JABSOM</abbr> alumni give back to current students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/28/jabsom-alum-pay-it-forward/">Paying it forward: <abbr>JABSOM</abbr> alumni give back to current students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/28/jabsom-alum-pay-it-forward/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/28/jabsom-alum-pay-it-forward/">https://www.hawaii.edu/news/2023/11/28/jabsom-alum-pay-it-forward/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/28/jabsom-alum-pay-it-forward/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -767,9 +1227,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/28/jabsom-alum-pay-it-forw
 date: 2023-11-28, from: University of Hawaiʻi News
 
 <p>The hackathon culminated in presentations at <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> on November 18.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/28/hawaii-annual-code-challenge-2023/"><abbr>UH</abbr> sweeps state hackathon, solutions aim to modernize community services</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/28/hawaii-annual-code-challenge-2023/"><abbr>UH</abbr> sweeps state hackathon, solutions aim to modernize community services</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/28/hawaii-annual-code-challenge-2023/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/28/hawaii-annual-code-challenge-2023/">https://www.hawaii.edu/news/2023/11/28/hawaii-annual-code-challenge-2023/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/28/hawaii-annual-code-challenge-2023/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -777,9 +1241,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/28/hawaii-annual-code-chal
 
 date: 2023-11-28, from: Pacific Island Times
 
-By Pacific Island Times News Staff With fresh funds recently made available to Guam Memorial Hospital, there is no excuse to further... 
+By Pacific Island Times News Staff With fresh funds recently made available to Guam Memorial Hospital, there is no excuse to further...
 
-<https://www.pacificislandtimes.com/post/blas-no-excuse-for-stalled-action-on-mold-issue-at-guam-memorial-hospital>
+<span>
+<a href="https://www.pacificislandtimes.com/post/blas-no-excuse-for-stalled-action-on-mold-issue-at-guam-memorial-hospital">https://www.pacificislandtimes.com/post/blas-no-excuse-for-stalled-action-on-mold-issue-at-guam-memorial-hospital</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/blas-no-excuse-for-stalled-action-on-mold-issue-at-guam-memorial-hospital">Save to Pocket</a>
+</span>
 
 ---
 
@@ -787,9 +1255,13 @@ By Pacific Island Times News Staff With fresh funds recently made available to G
 
 date: 2023-11-28, from: Pacific Island Times
 
-By Pacific Island Times News Staff The Starlink high-speed internet network is now available on Guam and the Northern Mariana Islands,... 
+By Pacific Island Times News Staff The Starlink high-speed internet network is now available on Guam and the Northern Mariana Islands,...
 
-<https://www.pacificislandtimes.com/post/starlink-now-available-on-guam-cnmi>
+<span>
+<a href="https://www.pacificislandtimes.com/post/starlink-now-available-on-guam-cnmi">https://www.pacificislandtimes.com/post/starlink-now-available-on-guam-cnmi</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/starlink-now-available-on-guam-cnmi">Save to Pocket</a>
+</span>
 
 ---
 
@@ -798,9 +1270,13 @@ By Pacific Island Times News Staff The Starlink high-speed internet network is n
 date: 2023-11-28, from: University of Hawaiʻi News
 
 <p>The local businesses were scored on the use of locally sourced products, innovation, business model, presentation, taste and flavor.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/28/local-food-entrepreneurs-leeward/">Local food entrepreneurs win $10<abbr>K</abbr> and $5</abbr>K</abbr> with Leeward <abbr>CC</abbr> support</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/28/local-food-entrepreneurs-leeward/">Local food entrepreneurs win $10<abbr>K</abbr> and $5</abbr>K</abbr> with Leeward <abbr>CC</abbr> support</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/28/local-food-entrepreneurs-leeward/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/28/local-food-entrepreneurs-leeward/">https://www.hawaii.edu/news/2023/11/28/local-food-entrepreneurs-leeward/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/28/local-food-entrepreneurs-leeward/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -809,9 +1285,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/28/local-food-entrepreneur
 date: 2023-11-28, from: University of Hawaiʻi News
 
 <p>Designed to accommodate 25 students, the de-centered classroom introduces multiple points of focus, fostering an inclusive and engaging learning environment.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/28/dean-hall-classroom-transforms/">Dean Hall classroom transforms into an innovative culture lab</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/28/dean-hall-classroom-transforms/">Dean Hall classroom transforms into an innovative culture lab</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/28/dean-hall-classroom-transforms/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/28/dean-hall-classroom-transforms/">https://www.hawaii.edu/news/2023/11/28/dean-hall-classroom-transforms/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/28/dean-hall-classroom-transforms/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -819,9 +1299,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/28/dean-hall-classroom-tra
 
 date: 2023-11-28, updated: 2023-11-28, from: Marianas Variety
 
-HONOLULU, Hawaii — Coffman Engineers congratulates Honolulu fire protection engineering principal Jay Higashi, PE, on his 30-year career milestone. Jay is a principal specializing in the design of fire protection systems for state, military, and commercial facilities. He plays a vital role at Coffman having supported over 1,000 projects across three continents. 
+HONOLULU, Hawaii — Coffman Engineers congratulates Honolulu fire protection engineering principal Jay Higashi, PE, on his 30-year career milestone. Jay is a principal specializing in the design of fire protection systems for state, military, and commercial facilities. He plays a vital role at Coffman having supported over 1,000 projects across three continents.
 
-<https://www.mvariety.com/business/business_news/coffman-engineers-celebrates-30-year-career-milestone-for-jay-higashi/article_ae9abd30-8db4-11ee-9144-675752399268.html>
+<span>
+<a href="https://www.mvariety.com/business/business_news/coffman-engineers-celebrates-30-year-career-milestone-for-jay-higashi/article_ae9abd30-8db4-11ee-9144-675752399268.html">https://www.mvariety.com/business/business_news/coffman-engineers-celebrates-30-year-career-milestone-for-jay-higashi/article_ae9abd30-8db4-11ee-9144-675752399268.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/business/business_news/coffman-engineers-celebrates-30-year-career-milestone-for-jay-higashi/article_ae9abd30-8db4-11ee-9144-675752399268.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -829,9 +1313,13 @@ HONOLULU, Hawaii — Coffman Engineers congratulates Honolulu fire protection en
 
 date: 2023-11-28, updated: 2023-11-28, from: Marianas Variety
 
-FORMER Nutrition Assistance Program Certification Unit Supervisor Vanessa SN Andres has asked the Superior Court to issue an order finding that her termination from NAP was unlawful. 
+FORMER Nutrition Assistance Program Certification Unit Supervisor Vanessa SN Andres has asked the Superior Court to issue an order finding that her termination from NAP was unlawful.
 
-<https://www.mvariety.com/news/local/former-nap-employee-appeals-termination/article_c86f700c-8dc3-11ee-8889-f7356d9353fe.html>
+<span>
+<a href="https://www.mvariety.com/news/local/former-nap-employee-appeals-termination/article_c86f700c-8dc3-11ee-8889-f7356d9353fe.html">https://www.mvariety.com/news/local/former-nap-employee-appeals-termination/article_c86f700c-8dc3-11ee-8889-f7356d9353fe.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/former-nap-employee-appeals-termination/article_c86f700c-8dc3-11ee-8889-f7356d9353fe.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -839,9 +1327,13 @@ FORMER Nutrition Assistance Program Certification Unit Supervisor Vanessa SN And
 
 date: 2023-11-28, updated: 2023-11-28, from: Marianas Variety
 
-THE local judiciary will host the Commonwealth’s first ever high school moot court competition on Dec. 6-7. Eighteen high school students from across the Commonwealth have participated in a 10-week moot court program that will culminate in a two-day tournament at the Guma’ Hustisia. The students have learned how to argue in a court of appeals by participating in workshops, drafting legal briefs, and practicing analytical skills. 
+THE local judiciary will host the Commonwealth’s first ever high school moot court competition on Dec. 6-7. Eighteen high school students from across the Commonwealth have participated in a 10-week moot court program that will culminate in a two-day tournament at the Guma’ Hustisia. The students have learned how to argue in a court of appeals by participating in workshops, drafting legal briefs, and practicing analytical skills.
 
-<https://www.mvariety.com/news/community_bulletins/judiciary-to-host-inaugural-high-school-moot-court-competition/article_b2ce2456-8db8-11ee-906d-3f783c0b84a0.html>
+<span>
+<a href="https://www.mvariety.com/news/community_bulletins/judiciary-to-host-inaugural-high-school-moot-court-competition/article_b2ce2456-8db8-11ee-906d-3f783c0b84a0.html">https://www.mvariety.com/news/community_bulletins/judiciary-to-host-inaugural-high-school-moot-court-competition/article_b2ce2456-8db8-11ee-906d-3f783c0b84a0.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/community_bulletins/judiciary-to-host-inaugural-high-school-moot-court-competition/article_b2ce2456-8db8-11ee-906d-3f783c0b84a0.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -849,9 +1341,13 @@ THE local judiciary will host the Commonwealth’s first ever high school moot c
 
 date: 2023-11-28, updated: 2023-11-28, from: Marianas Variety
 
-UNRESOLVED work orders pertaining to water leaks, unmetered waterline investigation, repair, maintenance, replacement and new installation are piling up at the Commonwealth Utilities Corp.'s water division, according to its former water and wastewater division manager, Mariano Iglesias. 
+UNRESOLVED work orders pertaining to water leaks, unmetered waterline investigation, repair, maintenance, replacement and new installation are piling up at the Commonwealth Utilities Corp.'s water division, according to its former water and wastewater division manager, Mariano Iglesias.
 
-<https://www.mvariety.com/news/local/former-cuc-official-says-unresolved-work-orders-piling-up-at-water-division/article_4c3eb514-8dbf-11ee-8c9a-a77b11d947fc.html>
+<span>
+<a href="https://www.mvariety.com/news/local/former-cuc-official-says-unresolved-work-orders-piling-up-at-water-division/article_4c3eb514-8dbf-11ee-8c9a-a77b11d947fc.html">https://www.mvariety.com/news/local/former-cuc-official-says-unresolved-work-orders-piling-up-at-water-division/article_4c3eb514-8dbf-11ee-8c9a-a77b11d947fc.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/former-cuc-official-says-unresolved-work-orders-piling-up-at-water-division/article_4c3eb514-8dbf-11ee-8c9a-a77b11d947fc.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -859,9 +1355,13 @@ UNRESOLVED work orders pertaining to water leaks, unmetered waterline investigat
 
 date: 2023-11-28, updated: 2023-11-28, from: Marianas Variety
 
-MARIANAS High School sophomore Alyana Rotap topped the inaugural Kids' Rising Star Singing Contest at the Gov. Pedro P. Tenorio Multi-Purpose Center on Friday. 
+MARIANAS High School sophomore Alyana Rotap topped the inaugural Kids' Rising Star Singing Contest at the Gov. Pedro P. Tenorio Multi-Purpose Center on Friday.
 
-<https://www.mvariety.com/lifestyle/mhs-sophomore-is-nmis-inaugural-kids-rising-star/article_b4c4a534-8db1-11ee-808e-338faf89e6f4.html>
+<span>
+<a href="https://www.mvariety.com/lifestyle/mhs-sophomore-is-nmis-inaugural-kids-rising-star/article_b4c4a534-8db1-11ee-808e-338faf89e6f4.html">https://www.mvariety.com/lifestyle/mhs-sophomore-is-nmis-inaugural-kids-rising-star/article_b4c4a534-8db1-11ee-808e-338faf89e6f4.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/lifestyle/mhs-sophomore-is-nmis-inaugural-kids-rising-star/article_b4c4a534-8db1-11ee-808e-338faf89e6f4.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -869,9 +1369,13 @@ MARIANAS High School sophomore Alyana Rotap topped the inaugural Kids' Rising St
 
 date: 2023-11-28, updated: 2023-11-28, from: Marianas Variety
 
-THE Commonwealth Healthcare Corporation, in collaboration with the Division of Youth Services, completed a 20-hour intensive training of 10 teen educators hired under the newly implemented PATCH CNMI program. 
+THE Commonwealth Healthcare Corporation, in collaboration with the Division of Youth Services, completed a 20-hour intensive training of 10 teen educators hired under the newly implemented PATCH CNMI program.
 
-<https://www.mvariety.com/news/local/chcc-dys-implement-patch-cnmi-hire-10-teen-educators/article_5bed36e6-8db2-11ee-98ad-2bc34087239f.html>
+<span>
+<a href="https://www.mvariety.com/news/local/chcc-dys-implement-patch-cnmi-hire-10-teen-educators/article_5bed36e6-8db2-11ee-98ad-2bc34087239f.html">https://www.mvariety.com/news/local/chcc-dys-implement-patch-cnmi-hire-10-teen-educators/article_5bed36e6-8db2-11ee-98ad-2bc34087239f.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/chcc-dys-implement-patch-cnmi-hire-10-teen-educators/article_5bed36e6-8db2-11ee-98ad-2bc34087239f.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -879,9 +1383,13 @@ THE Commonwealth Healthcare Corporation, in collaboration with the Division of Y
 
 date: 2023-11-28, updated: 2023-11-28, from: Marianas Variety
 
-(AP) — Two years ago Emerald Fennell stood on the Oscars stage hoisting her writing trophy for “Promising Young Woman,” a scathing look at rape culture and a balancing act of wit, style, shock value, audacity, great acting and pitch-black humor — plus a timely #MeToo message. 
+(AP) — Two years ago Emerald Fennell stood on the Oscars stage hoisting her writing trophy for “Promising Young Woman,” a scathing look at rape culture and a balancing act of wit, style, shock value, audacity, great acting and pitch-black humor — plus a timely #MeToo message.
 
-<https://www.mvariety.com/lifestyle/emerald-fennell-chronicles-a-promising-young-man-in-audacious-shock-filled-saltburn/article_1341a0ca-8df9-11ee-bbb7-5f0b9ac80d62.html>
+<span>
+<a href="https://www.mvariety.com/lifestyle/emerald-fennell-chronicles-a-promising-young-man-in-audacious-shock-filled-saltburn/article_1341a0ca-8df9-11ee-bbb7-5f0b9ac80d62.html">https://www.mvariety.com/lifestyle/emerald-fennell-chronicles-a-promising-young-man-in-audacious-shock-filled-saltburn/article_1341a0ca-8df9-11ee-bbb7-5f0b9ac80d62.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/lifestyle/emerald-fennell-chronicles-a-promising-young-man-in-audacious-shock-filled-saltburn/article_1341a0ca-8df9-11ee-bbb7-5f0b9ac80d62.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -889,9 +1397,13 @@ date: 2023-11-28, updated: 2023-11-28, from: Marianas Variety
 
 date: 2023-11-28, updated: 2023-11-28, from: Marianas Variety
 
-(MVA) — The Marianas Visitors Authority, in collaboration with PDM Promoters, Team PDI, and DFS Saipan, will kick off the 19th Annual Christmas in the Marianas signature event with a full evening of holiday events beginning on Dec. 2, 2023. 
+(MVA) — The Marianas Visitors Authority, in collaboration with PDM Promoters, Team PDI, and DFS Saipan, will kick off the 19th Annual Christmas in the Marianas signature event with a full evening of holiday events beginning on Dec. 2, 2023.
 
-<https://www.mvariety.com/lifestyle/christmas-in-the-marianas-kicks-off-at-t-galleria-on-dec-2/article_75738e7c-8dbb-11ee-96f4-4fedf0757897.html>
+<span>
+<a href="https://www.mvariety.com/lifestyle/christmas-in-the-marianas-kicks-off-at-t-galleria-on-dec-2/article_75738e7c-8dbb-11ee-96f4-4fedf0757897.html">https://www.mvariety.com/lifestyle/christmas-in-the-marianas-kicks-off-at-t-galleria-on-dec-2/article_75738e7c-8dbb-11ee-96f4-4fedf0757897.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/lifestyle/christmas-in-the-marianas-kicks-off-at-t-galleria-on-dec-2/article_75738e7c-8dbb-11ee-96f4-4fedf0757897.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -899,9 +1411,13 @@ date: 2023-11-28, updated: 2023-11-28, from: Marianas Variety
 
 date: 2023-11-28, updated: 2023-11-28, from: Marianas Variety
 
-(DPS) — The Department of Public Safety will conduct two sobriety checkpoints on Wednesday, Nov. 29, 2023. 
+(DPS) — The Department of Public Safety will conduct two sobriety checkpoints on Wednesday, Nov. 29, 2023.
 
-<https://www.mvariety.com/news/community_bulletins/sobriety-checkpoints-on-nov-29/article_b2a1a430-8dbd-11ee-8ced-939f7777456d.html>
+<span>
+<a href="https://www.mvariety.com/news/community_bulletins/sobriety-checkpoints-on-nov-29/article_b2a1a430-8dbd-11ee-8ced-939f7777456d.html">https://www.mvariety.com/news/community_bulletins/sobriety-checkpoints-on-nov-29/article_b2a1a430-8dbd-11ee-8ced-939f7777456d.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/community_bulletins/sobriety-checkpoints-on-nov-29/article_b2a1a430-8dbd-11ee-8ced-939f7777456d.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -909,9 +1425,13 @@ date: 2023-11-28, updated: 2023-11-28, from: Marianas Variety
 
 date: 2023-11-28, from: Pacific Daily News
 
-Music historians believe the country music genre originated in the 1910s with Southern Appalachian fiddlers; however, it wasn't until the following decade that artists started pressing commercial recordings.Stacker looked at data on all songs with recorded covers from Second Hand… 
+Music historians believe the country music genre originated in the 1910s with Southern Appalachian fiddlers; however, it wasn't until the following decade that artists started pressing commercial recordings.Stacker looked at data on all songs with recorded covers from Second Hand…
 
-<https://www.guampdn.com/lifestyle/entertainment/25-most-covered-country-songs-of-all-time/image_6856f76f-78d8-576f-93f1-9b6f7111cc53.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/25-most-covered-country-songs-of-all-time/image_6856f76f-78d8-576f-93f1-9b6f7111cc53.html">https://www.guampdn.com/lifestyle/entertainment/25-most-covered-country-songs-of-all-time/image_6856f76f-78d8-576f-93f1-9b6f7111cc53.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/25-most-covered-country-songs-of-all-time/image_6856f76f-78d8-576f-93f1-9b6f7111cc53.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -919,9 +1439,13 @@ Music historians believe the country music genre originated in the 1910s with So
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Hank Williams with His Drifting Cowboys, Clyde Grubb and His Tennessee Valley Boys- Written by: Hank Williams- Covers: 162- Adaptations: 5"I Saw The Light," released in September 1948, was one of the first songs Hank Williams… 
+- Originally recorded by: Hank Williams with His Drifting Cowboys, Clyde Grubb and His Tennessee Valley Boys- Written by: Hank Williams- Covers: 162- Adaptations: 5"I Saw The Light," released in September 1948, was one of the first songs Hank Williams…
 
-<https://www.guampdn.com/lifestyle/entertainment/25-i-saw-the-light/image_c1592dfc-1e54-510c-bd0b-c532b329cbb1.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/25-i-saw-the-light/image_c1592dfc-1e54-510c-bd0b-c532b329cbb1.html">https://www.guampdn.com/lifestyle/entertainment/25-i-saw-the-light/image_c1592dfc-1e54-510c-bd0b-c532b329cbb1.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/25-i-saw-the-light/image_c1592dfc-1e54-510c-bd0b-c532b329cbb1.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -929,9 +1453,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Kenny Brown and Marilyn Kaye and The Arkansas Ramblers- Written by: Ralph Mooney, Chuck Seals- Covers: 170- Adaptations: 3Kenny Brown and Marilyn Kaye and The Arkansas Ramblers may be the first group to record and release… 
+- Originally recorded by: Kenny Brown and Marilyn Kaye and The Arkansas Ramblers- Written by: Ralph Mooney, Chuck Seals- Covers: 170- Adaptations: 3Kenny Brown and Marilyn Kaye and The Arkansas Ramblers may be the first group to record and release…
 
-<https://www.guampdn.com/lifestyle/entertainment/24-crazy-arms/image_61fc54f1-0f61-5007-93b6-e804b7361c37.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/24-crazy-arms/image_61fc54f1-0f61-5007-93b6-e804b7361c37.html">https://www.guampdn.com/lifestyle/entertainment/24-crazy-arms/image_61fc54f1-0f61-5007-93b6-e804b7361c37.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/24-crazy-arms/image_61fc54f1-0f61-5007-93b6-e804b7361c37.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -939,9 +1467,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Tammy Wynette- Written by: Tammy Wynette, Billy Sherrill- Covers: 188- Adaptations: 25Tammy Wynette released hundreds of songs during her decades-long career, but 1968's chart-topping "Stand by Your Man" was the most popular single in her catalog.… 
+- Originally recorded by: Tammy Wynette- Written by: Tammy Wynette, Billy Sherrill- Covers: 188- Adaptations: 25Tammy Wynette released hundreds of songs during her decades-long career, but 1968's chart-topping "Stand by Your Man" was the most popular single in her catalog.…
 
-<https://www.guampdn.com/lifestyle/entertainment/23-stand-by-your-man/image_6bbcaee6-dea9-55e2-acf2-b0c9b245ef54.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/23-stand-by-your-man/image_6bbcaee6-dea9-55e2-acf2-b0c9b245ef54.html">https://www.guampdn.com/lifestyle/entertainment/23-stand-by-your-man/image_6bbcaee6-dea9-55e2-acf2-b0c9b245ef54.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/23-stand-by-your-man/image_6bbcaee6-dea9-55e2-acf2-b0c9b245ef54.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -949,9 +1481,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Dolly Parton- Written by: Dolly Parton- Covers: 189- Adaptations: 13Dolly Parton has written many hits, but few are as iconic as "Jolene." The 1974 single was her second to top the charts and has been covered… 
+- Originally recorded by: Dolly Parton- Written by: Dolly Parton- Covers: 189- Adaptations: 13Dolly Parton has written many hits, but few are as iconic as "Jolene." The 1974 single was her second to top the charts and has been covered…
 
-<https://www.guampdn.com/lifestyle/entertainment/22-jolene/image_f91eb6bb-4c92-515f-981a-e05f040973ac.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/22-jolene/image_f91eb6bb-4c92-515f-981a-e05f040973ac.html">https://www.guampdn.com/lifestyle/entertainment/22-jolene/image_f91eb6bb-4c92-515f-981a-e05f040973ac.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/22-jolene/image_f91eb6bb-4c92-515f-981a-e05f040973ac.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -959,9 +1495,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Hank Williams with His Drifting Cowboys- Written by: Hank Williams- Covers: 191- Adaptations: 5You'll notice a theme as you continue reading this list, and that theme is Hank Williams. The country legend wrote so many songs… 
+- Originally recorded by: Hank Williams with His Drifting Cowboys- Written by: Hank Williams- Covers: 191- Adaptations: 5You'll notice a theme as you continue reading this list, and that theme is Hank Williams. The country legend wrote so many songs…
 
-<https://www.guampdn.com/lifestyle/entertainment/21-i-cant-help-it-if-im-still-in-love-with-you/image_a8349e73-87b2-58b1-8159-899793d2f6c2.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/21-i-cant-help-it-if-im-still-in-love-with-you/image_a8349e73-87b2-58b1-8159-899793d2f6c2.html">https://www.guampdn.com/lifestyle/entertainment/21-i-cant-help-it-if-im-still-in-love-with-you/image_a8349e73-87b2-58b1-8159-899793d2f6c2.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/21-i-cant-help-it-if-im-still-in-love-with-you/image_a8349e73-87b2-58b1-8159-899793d2f6c2.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -969,9 +1509,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Bill Monroe and His Bluegrass Boys- Written by: Bill Monroe- Covers: 193- Adaptations: 2Many people think of Elvis Presley when they think of "Blue Moon of Kentucky," but his 1954 pop rendition isn't the original. Bill… 
+- Originally recorded by: Bill Monroe and His Bluegrass Boys- Written by: Bill Monroe- Covers: 193- Adaptations: 2Many people think of Elvis Presley when they think of "Blue Moon of Kentucky," but his 1954 pop rendition isn't the original. Bill…
 
-<https://www.guampdn.com/lifestyle/entertainment/20-blue-moon-of-kentucky/image_ecc46912-f4a8-56d1-9646-1f6419c0a991.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/20-blue-moon-of-kentucky/image_ecc46912-f4a8-56d1-9646-1f6419c0a991.html">https://www.guampdn.com/lifestyle/entertainment/20-blue-moon-of-kentucky/image_ecc46912-f4a8-56d1-9646-1f6419c0a991.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/20-blue-moon-of-kentucky/image_ecc46912-f4a8-56d1-9646-1f6419c0a991.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -979,9 +1523,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Patsy Cline with The Jordanaires- Written by: Hank Cochran, Harlan Howard- Covers: 202- Adaptations: 4"I Fall to Pieces" is considered a country classic, but it took six months for Patsy Cline's 1961 single to hit #1… 
+- Originally recorded by: Patsy Cline with The Jordanaires- Written by: Hank Cochran, Harlan Howard- Covers: 202- Adaptations: 4"I Fall to Pieces" is considered a country classic, but it took six months for Patsy Cline's 1961 single to hit #1…
 
-<https://www.guampdn.com/lifestyle/entertainment/19-i-fall-to-pieces/image_82e7e83a-917f-5c1d-8e8b-4ccca826dc29.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/19-i-fall-to-pieces/image_82e7e83a-917f-5c1d-8e8b-4ccca826dc29.html">https://www.guampdn.com/lifestyle/entertainment/19-i-fall-to-pieces/image_82e7e83a-917f-5c1d-8e8b-4ccca826dc29.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/19-i-fall-to-pieces/image_82e7e83a-917f-5c1d-8e8b-4ccca826dc29.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -989,9 +1537,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Roy Acuff and His Smoky Mountain Boys, Elton Britt and The Skytoppers- Written by: Fred Rose- Covers: 210- Adaptations: 11Willie Nelson was the one to make "Blue Eyes Crying in the Rain" a hit in 1975,… 
+- Originally recorded by: Roy Acuff and His Smoky Mountain Boys, Elton Britt and The Skytoppers- Written by: Fred Rose- Covers: 210- Adaptations: 11Willie Nelson was the one to make "Blue Eyes Crying in the Rain" a hit in 1975,…
 
-<https://www.guampdn.com/lifestyle/entertainment/18-blue-eyes-crying-in-the-rain/image_083fc73b-3df3-5043-a14d-86edce233d52.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/18-blue-eyes-crying-in-the-rain/image_083fc73b-3df3-5043-a14d-86edce233d52.html">https://www.guampdn.com/lifestyle/entertainment/18-blue-eyes-crying-in-the-rain/image_083fc73b-3df3-5043-a14d-86edce233d52.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/18-blue-eyes-crying-in-the-rain/image_083fc73b-3df3-5043-a14d-86edce233d52.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -999,9 +1551,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Charlie McCoy and Bo Chatman- Written by: Mitchell Parish, J. Mayo Williams, Bo Carter- Covers: 213- Adaptations: 10"Corrine Corrina" was initially released in 1928 by blues artists Charlie McCoy and Bo Chatman, but Bob Wills and… 
+- Originally recorded by: Charlie McCoy and Bo Chatman- Written by: Mitchell Parish, J. Mayo Williams, Bo Carter- Covers: 213- Adaptations: 10"Corrine Corrina" was initially released in 1928 by blues artists Charlie McCoy and Bo Chatman, but Bob Wills and…
 
-<https://www.guampdn.com/lifestyle/entertainment/17-corrine-corrina/image_a771d4b1-79c9-5f82-9448-e4265e6c765e.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/17-corrine-corrina/image_a771d4b1-79c9-5f82-9448-e4265e6c765e.html">https://www.guampdn.com/lifestyle/entertainment/17-corrine-corrina/image_a771d4b1-79c9-5f82-9448-e4265e6c765e.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/17-corrine-corrina/image_a771d4b1-79c9-5f82-9448-e4265e6c765e.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1009,9 +1565,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Johnny Cash and Tennessee Two- Written by: Johnny Cash- Covers: 216- Adaptations: 11Johnny Cash wrote a lot of hits in his lifetime, but his first #1 single was "I Walk the Line." The 1956 song is… 
+- Originally recorded by: Johnny Cash and Tennessee Two- Written by: Johnny Cash- Covers: 216- Adaptations: 11Johnny Cash wrote a lot of hits in his lifetime, but his first #1 single was "I Walk the Line." The 1956 song is…
 
-<https://www.guampdn.com/lifestyle/entertainment/16-i-walk-the-line/image_91a10bcf-7e53-5e50-97ba-c80f820e4b5b.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/16-i-walk-the-line/image_91a10bcf-7e53-5e50-97ba-c80f820e4b5b.html">https://www.guampdn.com/lifestyle/entertainment/16-i-walk-the-line/image_91a10bcf-7e53-5e50-97ba-c80f820e4b5b.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/16-i-walk-the-line/image_91a10bcf-7e53-5e50-97ba-c80f820e4b5b.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1019,9 +1579,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Hank Williams with His Drifting Cowboys- Written by: Hank Williams- Covers: 224- Adaptations: 9Hank Williams' life was tragically cut short at the age of 29, but in the short time he was on this earth, he… 
+- Originally recorded by: Hank Williams with His Drifting Cowboys- Written by: Hank Williams- Covers: 224- Adaptations: 9Hank Williams' life was tragically cut short at the age of 29, but in the short time he was on this earth, he…
 
-<https://www.guampdn.com/lifestyle/entertainment/15-hey-good-lookin/image_8036155e-5016-5b75-87f7-7cb1e1c82e49.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/15-hey-good-lookin/image_8036155e-5016-5b75-87f7-7cb1e1c82e49.html">https://www.guampdn.com/lifestyle/entertainment/15-hey-good-lookin/image_8036155e-5016-5b75-87f7-7cb1e1c82e49.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/15-hey-good-lookin/image_8036155e-5016-5b75-87f7-7cb1e1c82e49.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1029,9 +1593,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Hank Williams with His Drifting Cowboys- Written by: Hank Williams- Covers: 238- Adaptations: 5Hank Williams had a successful year in 1951, which began with the release of "Cold, Cold Heart." Tony Bennett put a pop spin… 
+- Originally recorded by: Hank Williams with His Drifting Cowboys- Written by: Hank Williams- Covers: 238- Adaptations: 5Hank Williams had a successful year in 1951, which began with the release of "Cold, Cold Heart." Tony Bennett put a pop spin…
 
-<https://www.guampdn.com/lifestyle/entertainment/14-cold-cold-heart/image_0c281731-4dad-5027-aa1a-fe0821f1105c.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/14-cold-cold-heart/image_0c281731-4dad-5027-aa1a-fe0821f1105c.html">https://www.guampdn.com/lifestyle/entertainment/14-cold-cold-heart/image_0c281731-4dad-5027-aa1a-fe0821f1105c.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/14-cold-cold-heart/image_0c281731-4dad-5027-aa1a-fe0821f1105c.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1039,9 +1607,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Dolly Parton- Written by: Dolly Parton- Covers: 255- Adaptations: 10Hundreds of artists have covered Dolly Parton's "I Will Always Love You," including Whitney Houston in 1992 for "The Bodyguard," but one star who loved the song… 
+- Originally recorded by: Dolly Parton- Written by: Dolly Parton- Covers: 255- Adaptations: 10Hundreds of artists have covered Dolly Parton's "I Will Always Love You," including Whitney Houston in 1992 for "The Bodyguard," but one star who loved the song…
 
-<https://www.guampdn.com/lifestyle/entertainment/13-i-will-always-love-you/image_d1145afe-90eb-5930-b0ee-a9e591b02dbf.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/13-i-will-always-love-you/image_d1145afe-90eb-5930-b0ee-a9e591b02dbf.html">https://www.guampdn.com/lifestyle/entertainment/13-i-will-always-love-you/image_d1145afe-90eb-5930-b0ee-a9e591b02dbf.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/13-i-will-always-love-you/image_d1145afe-90eb-5930-b0ee-a9e591b02dbf.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1049,9 +1621,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Hank Williams with His Drifting Cowboys- Written by: Hank Williams- Covers: 306- Adaptations: 9"Your Cheatin' Heart" was another #1 single for Hank Williams, but sadly it was posthumous. The song came out in February 1953, and… 
+- Originally recorded by: Hank Williams with His Drifting Cowboys- Written by: Hank Williams- Covers: 306- Adaptations: 9"Your Cheatin' Heart" was another #1 single for Hank Williams, but sadly it was posthumous. The song came out in February 1953, and…
 
-<https://www.guampdn.com/lifestyle/entertainment/12-your-cheatin-heart/image_37da69b0-eff4-5782-8b52-f36c21bd8549.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/12-your-cheatin-heart/image_37da69b0-eff4-5782-8b52-f36c21bd8549.html">https://www.guampdn.com/lifestyle/entertainment/12-your-cheatin-heart/image_37da69b0-eff4-5782-8b52-f36c21bd8549.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/12-your-cheatin-heart/image_37da69b0-eff4-5782-8b52-f36c21bd8549.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1059,9 +1635,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Fiddlin' John Carson- Written by: Traditional- Covers: 310- Adaptations: 3"John Henry" is considered one of the most popular folk songs in American history. Fiddlin' John Carson first recorded it in 1924, but several versions abound. The… 
+- Originally recorded by: Fiddlin' John Carson- Written by: Traditional- Covers: 310- Adaptations: 3"John Henry" is considered one of the most popular folk songs in American history. Fiddlin' John Carson first recorded it in 1924, but several versions abound. The…
 
-<https://www.guampdn.com/lifestyle/entertainment/11-john-henry/image_21de38ca-ebac-5266-b457-ac429ab87256.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/11-john-henry/image_21de38ca-ebac-5266-b457-ac429ab87256.html">https://www.guampdn.com/lifestyle/entertainment/11-john-henry/image_21de38ca-ebac-5266-b457-ac429ab87256.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/11-john-henry/image_21de38ca-ebac-5266-b457-ac429ab87256.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1069,9 +1649,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Anita Carter- Written by: June Carter, Merle Kilgore- Covers: 312- Adaptations: 18If "Love's Ring of Fire" sounds familiar, you probably recall Johnny Cash's hit "Ring of Fire." The song was co-written by Cash's second wife, June… 
+- Originally recorded by: Anita Carter- Written by: June Carter, Merle Kilgore- Covers: 312- Adaptations: 18If "Love's Ring of Fire" sounds familiar, you probably recall Johnny Cash's hit "Ring of Fire." The song was co-written by Cash's second wife, June…
 
-<https://www.guampdn.com/lifestyle/entertainment/10-loves-ring-of-fire/image_43789c75-c77b-585d-8634-4159f82f3fe6.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/10-loves-ring-of-fire/image_43789c75-c77b-585d-8634-4159f82f3fe6.html">https://www.guampdn.com/lifestyle/entertainment/10-loves-ring-of-fire/image_43789c75-c77b-585d-8634-4159f82f3fe6.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/10-loves-ring-of-fire/image_43789c75-c77b-585d-8634-4159f82f3fe6.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1079,9 +1663,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: John Denver- Written by: John Denver, Bill Danoff, Taffy Nivert- Covers: 325- Adaptations: 34"Poems, Prayers, and Promises" was John Denver's fifth album, and its single "Take Me Home, Country Roads" is what launched him into superstardom.… 
+- Originally recorded by: John Denver- Written by: John Denver, Bill Danoff, Taffy Nivert- Covers: 325- Adaptations: 34"Poems, Prayers, and Promises" was John Denver's fifth album, and its single "Take Me Home, Country Roads" is what launched him into superstardom.…
 
-<https://www.guampdn.com/lifestyle/entertainment/9-take-me-home-country-roads/image_17921dd4-de26-5e40-8a27-c24b1f93140b.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/9-take-me-home-country-roads/image_17921dd4-de26-5e40-8a27-c24b1f93140b.html">https://www.guampdn.com/lifestyle/entertainment/9-take-me-home-country-roads/image_17921dd4-de26-5e40-8a27-c24b1f93140b.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/9-take-me-home-country-roads/image_17921dd4-de26-5e40-8a27-c24b1f93140b.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1089,9 +1677,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Hank Williams with His Drifting Cowboys- Written by: Hank Williams- Covers: 330- Adaptations: 8"I'm So Lonesome I Could Cry" was a B-Side to Hank Williams' 1949 single "My Bucket's Got a Hole in It," but it… 
+- Originally recorded by: Hank Williams with His Drifting Cowboys- Written by: Hank Williams- Covers: 330- Adaptations: 8"I'm So Lonesome I Could Cry" was a B-Side to Hank Williams' 1949 single "My Bucket's Got a Hole in It," but it…
 
-<https://www.guampdn.com/lifestyle/entertainment/8-im-so-lonesome-i-could-cry/image_5c603959-a437-5317-aa91-b01fcc8c668f.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/8-im-so-lonesome-i-could-cry/image_5c603959-a437-5317-aa91-b01fcc8c668f.html">https://www.guampdn.com/lifestyle/entertainment/8-im-so-lonesome-i-could-cry/image_5c603959-a437-5317-aa91-b01fcc8c668f.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/8-im-so-lonesome-i-could-cry/image_5c603959-a437-5317-aa91-b01fcc8c668f.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1099,9 +1691,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Bob Geddins Cavaliers- Written by: Stan Jones- Covers: 348- Adaptations: 19"(Ghost) Riders in the Sky" was first recorded by Bob Geddins Cavaliers in 1948; however, its cover versions may be more popular than the original. Johnny… 
+- Originally recorded by: Bob Geddins Cavaliers- Written by: Stan Jones- Covers: 348- Adaptations: 19"(Ghost) Riders in the Sky" was first recorded by Bob Geddins Cavaliers in 1948; however, its cover versions may be more popular than the original. Johnny…
 
-<https://www.guampdn.com/lifestyle/entertainment/7-riders-in-the-sky/image_0635e2c4-c89c-53aa-a606-2a88040c0efd.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/7-riders-in-the-sky/image_0635e2c4-c89c-53aa-a606-2a88040c0efd.html">https://www.guampdn.com/lifestyle/entertainment/7-riders-in-the-sky/image_0635e2c4-c89c-53aa-a606-2a88040c0efd.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/7-riders-in-the-sky/image_0635e2c4-c89c-53aa-a606-2a88040c0efd.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1109,9 +1705,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Fiddlin' John Carson- Written by: Traditional- Covers: 351- Adaptations: 29It's thought Fiddlin' John Carson is the first musician ever to record a country hit. His 1924 track "I'm Nine Hundred Miles Away from Home" became one… 
+- Originally recorded by: Fiddlin' John Carson- Written by: Traditional- Covers: 351- Adaptations: 29It's thought Fiddlin' John Carson is the first musician ever to record a country hit. His 1924 track "I'm Nine Hundred Miles Away from Home" became one…
 
-<https://www.guampdn.com/lifestyle/entertainment/6-im-nine-hundred-miles-away-from-home/image_56498e92-2a5c-5fa2-aa9b-c704cb49ebc6.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/6-im-nine-hundred-miles-away-from-home/image_56498e92-2a5c-5fa2-aa9b-c704cb49ebc6.html">https://www.guampdn.com/lifestyle/entertainment/6-im-nine-hundred-miles-away-from-home/image_56498e92-2a5c-5fa2-aa9b-c704cb49ebc6.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/6-im-nine-hundred-miles-away-from-home/image_56498e92-2a5c-5fa2-aa9b-c704cb49ebc6.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1119,9 +1719,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Patsy Cline with The Jordanaires- Written by: Willie Nelson- Covers: 372- Adaptations: 11"Crazy" was the follow-up single to Patsy Cline's chart-topper "I Fall to Pieces," but what's even crazier is that Willie Nelson was an unknown… 
+- Originally recorded by: Patsy Cline with The Jordanaires- Written by: Willie Nelson- Covers: 372- Adaptations: 11"Crazy" was the follow-up single to Patsy Cline's chart-topper "I Fall to Pieces," but what's even crazier is that Willie Nelson was an unknown…
 
-<https://www.guampdn.com/lifestyle/entertainment/5-crazy/image_54fc983d-18f1-5342-bf34-aa01d2d0f3ae.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/5-crazy/image_54fc983d-18f1-5342-bf34-aa01d2d0f3ae.html">https://www.guampdn.com/lifestyle/entertainment/5-crazy/image_54fc983d-18f1-5342-bf34-aa01d2d0f3ae.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/5-crazy/image_54fc983d-18f1-5342-bf34-aa01d2d0f3ae.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1129,9 +1733,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Kris Kristofferson, Percy Sledge- Written by: Kris Kristofferson- Covers: 403- Adaptations: 35Kris Kristofferson's "Help Me Make It Through the Night" was deemed controversial due to its racy lyrics when it came out in 1970, but that… 
+- Originally recorded by: Kris Kristofferson, Percy Sledge- Written by: Kris Kristofferson- Covers: 403- Adaptations: 35Kris Kristofferson's "Help Me Make It Through the Night" was deemed controversial due to its racy lyrics when it came out in 1970, but that…
 
-<https://www.guampdn.com/lifestyle/entertainment/4-help-me-make-it-through-the-night/image_73290e5e-4b80-5a72-892a-3277a91abb3a.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/4-help-me-make-it-through-the-night/image_73290e5e-4b80-5a72-892a-3277a91abb3a.html">https://www.guampdn.com/lifestyle/entertainment/4-help-me-make-it-through-the-night/image_73290e5e-4b80-5a72-892a-3277a91abb3a.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/4-help-me-make-it-through-the-night/image_73290e5e-4b80-5a72-892a-3277a91abb3a.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1139,9 +1747,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Gene Autry and The Cass County Boys- Written by: Jack Rollins, Steve Nelson- Covers: 436- Adaptations: 14"Frosty the Snow Man" is an iconic holiday tune first introduced in 1950. Gene Autry and The Cass County Boys… 
+- Originally recorded by: Gene Autry and The Cass County Boys- Written by: Jack Rollins, Steve Nelson- Covers: 436- Adaptations: 14"Frosty the Snow Man" is an iconic holiday tune first introduced in 1950. Gene Autry and The Cass County Boys…
 
-<https://www.guampdn.com/lifestyle/entertainment/3-frosty-the-snow-man/image_d5a0848a-b3ca-52e4-9788-7baed7e5a410.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/3-frosty-the-snow-man/image_d5a0848a-b3ca-52e4-9788-7baed7e5a410.html">https://www.guampdn.com/lifestyle/entertainment/3-frosty-the-snow-man/image_d5a0848a-b3ca-52e4-9788-7baed7e5a410.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/3-frosty-the-snow-man/image_d5a0848a-b3ca-52e4-9788-7baed7e5a410.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1149,9 +1761,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: The Pine Ridge Boys- Written by: Jimmie Davis- Covers: 439- Adaptations: 13"You Are My Sunshine" is a well-loved children's lullaby, but the original version is a 1939 country standard by The Pine Ridge Boys. The versatile… 
+- Originally recorded by: The Pine Ridge Boys- Written by: Jimmie Davis- Covers: 439- Adaptations: 13"You Are My Sunshine" is a well-loved children's lullaby, but the original version is a 1939 country standard by The Pine Ridge Boys. The versatile…
 
-<https://www.guampdn.com/lifestyle/entertainment/2-you-are-my-sunshine/image_6313f71f-8c06-52f9-ad90-17cce05a8a1c.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/2-you-are-my-sunshine/image_6313f71f-8c06-52f9-ad90-17cce05a8a1c.html">https://www.guampdn.com/lifestyle/entertainment/2-you-are-my-sunshine/image_6313f71f-8c06-52f9-ad90-17cce05a8a1c.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/2-you-are-my-sunshine/image_6313f71f-8c06-52f9-ad90-17cce05a8a1c.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1159,9 +1775,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-- Originally recorded by: Cowboy Copas, Pee Wee King and His Golden West Cowboys- Written by: Pee Wee King, Redd Stewart- Covers: 458- Adaptations: 16When the Cowboy Copas first recorded the "Tennessee Waltz" in 1947, and Pee Wee King and… 
+- Originally recorded by: Cowboy Copas, Pee Wee King and His Golden West Cowboys- Written by: Pee Wee King, Redd Stewart- Covers: 458- Adaptations: 16When the Cowboy Copas first recorded the "Tennessee Waltz" in 1947, and Pee Wee King and…
 
-<https://www.guampdn.com/lifestyle/entertainment/1-tennessee-waltz/image_e4c548af-a201-546a-90f4-a6b73da44a5e.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/1-tennessee-waltz/image_e4c548af-a201-546a-90f4-a6b73da44a5e.html">https://www.guampdn.com/lifestyle/entertainment/1-tennessee-waltz/image_e4c548af-a201-546a-90f4-a6b73da44a5e.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/1-tennessee-waltz/image_e4c548af-a201-546a-90f4-a6b73da44a5e.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1169,9 +1789,13 @@ date: 2023-11-28, from: Pacific Daily News
 
 date: 2023-11-28, from: Pacific Daily News
 
-Stacker looked at data on recorded covers from Second Hand Songs and ranked the top 25 songs that fit in the country genre. 
+Stacker looked at data on recorded covers from Second Hand Songs and ranked the top 25 songs that fit in the country genre.
 
-<https://www.guampdn.com/lifestyle/entertainment/25-most-covered-country-songs-of-all-time/collection_86ed0f11-c74b-5e9d-bc30-07af6deb4c92.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/25-most-covered-country-songs-of-all-time/collection_86ed0f11-c74b-5e9d-bc30-07af6deb4c92.html">https://www.guampdn.com/lifestyle/entertainment/25-most-covered-country-songs-of-all-time/collection_86ed0f11-c74b-5e9d-bc30-07af6deb4c92.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/25-most-covered-country-songs-of-all-time/collection_86ed0f11-c74b-5e9d-bc30-07af6deb4c92.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1179,9 +1803,13 @@ Stacker looked at data on recorded covers from Second Hand Songs and ranked the 
 
 date: 2023-11-28, from: Pacific Daily News
 
-Nov 27, 2023; Minneapolis, Minnesota, USA; Minnesota Vikings quarterback Joshua Dobbs (15) warms up before the game between the Minnesota Vikings and the Chicago Bears at U.S. Bank Stadium. Mandatory Credit: Jeffrey Becker-USA TODAY Sports 
+Nov 27, 2023; Minneapolis, Minnesota, USA; Minnesota Vikings quarterback Joshua Dobbs (15) warms up before the game between the Minnesota Vikings and the Chicago Bears at U.S. Bank Stadium. Mandatory Credit: Jeffrey Becker-USA TODAY Sports
 
-<https://www.guampdn.com/sports/national/nfl-chicago-bears-at-minnesota-vikings/image_1a240a21-f846-5d17-a24e-ffef431dddd7.html>
+<span>
+<a href="https://www.guampdn.com/sports/national/nfl-chicago-bears-at-minnesota-vikings/image_1a240a21-f846-5d17-a24e-ffef431dddd7.html">https://www.guampdn.com/sports/national/nfl-chicago-bears-at-minnesota-vikings/image_1a240a21-f846-5d17-a24e-ffef431dddd7.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/sports/national/nfl-chicago-bears-at-minnesota-vikings/image_1a240a21-f846-5d17-a24e-ffef431dddd7.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1189,9 +1817,13 @@ Nov 27, 2023; Minneapolis, Minnesota, USA; Minnesota Vikings quarterback Joshua 
 
 date: 2023-11-28, from: Pacific Daily News
 
-Vikings to review QB options after Joshua Dobbs' 4-INT night 
+Vikings to review QB options after Joshua Dobbs' 4-INT night
 
-<https://www.guampdn.com/sports/national/vikings-to-review-qb-options-after-joshua-dobbs-4-int-night/article_9f2c4909-3c8f-58ed-b8ac-f234a3a95a9f.html>
+<span>
+<a href="https://www.guampdn.com/sports/national/vikings-to-review-qb-options-after-joshua-dobbs-4-int-night/article_9f2c4909-3c8f-58ed-b8ac-f234a3a95a9f.html">https://www.guampdn.com/sports/national/vikings-to-review-qb-options-after-joshua-dobbs-4-int-night/article_9f2c4909-3c8f-58ed-b8ac-f234a3a95a9f.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/sports/national/vikings-to-review-qb-options-after-joshua-dobbs-4-int-night/article_9f2c4909-3c8f-58ed-b8ac-f234a3a95a9f.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1199,9 +1831,13 @@ Vikings to review QB options after Joshua Dobbs' 4-INT night
 
 date: 2023-11-28, from: Chaminade Silversword (Chaminade Univ. student newspaper)
 
-Nearly three weeks ago, Chaminade University&#8217;s campus was overrun by smaller bodies and high-pitched screams of excitement. In collaboration with Hawai&#8217;i Catholic Schools, 166 fifth graders from eight Catholic schools around Hawai&#8217;i attended an &#8220;I Go To College&#8221; event that aims to expose 5th graders to higher education. According to Llewellyn Young, Ph.D., superintendent of... 
+Nearly three weeks ago, Chaminade University&#8217;s campus was overrun by smaller bodies and high-pitched screams of excitement. In collaboration with Hawai&#8217;i Catholic Schools, 166 fifth graders from eight Catholic schools around Hawai&#8217;i attended an &#8220;I Go To College&#8221; event that aims to expose 5th graders to higher education. According to Llewellyn Young, Ph.D., superintendent of...
 
-<https://thesilversword.com/news/2023/11/28/5th-graders-take-over-chaminade/>
+<span>
+<a href="https://thesilversword.com/news/2023/11/28/5th-graders-take-over-chaminade/">https://thesilversword.com/news/2023/11/28/5th-graders-take-over-chaminade/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://thesilversword.com/news/2023/11/28/5th-graders-take-over-chaminade/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1209,9 +1845,13 @@ Nearly three weeks ago, Chaminade University&#8217;s campus was overrun by small
 
 date: 2023-11-28, from: Pacific Daily News
 
-In a recent interview, Kylie Jenner revealed that she and Jordyn Woods never stopped being friends despite the cheating incident. The scandal in question involved Woods allegedly having an affair with Tristan Thompson, the husband of Jenner's sister, Khloe Kardashian.&#8230; 
+In a recent interview, Kylie Jenner revealed that she and Jordyn Woods never stopped being friends despite the cheating incident. The scandal in question involved Woods allegedly having an affair with Tristan Thompson, the husband of Jenner's sister, Khloe Kardashian.&#8230;
 
-<https://www.guampdn.com/lifestyle/entertainment/kylie-jenners-friendship-with-jordyn-woods-survived-in-secret/video_ba743ebf-54ba-5fb2-a093-fad22534ad8e.html>
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/kylie-jenners-friendship-with-jordyn-woods-survived-in-secret/video_ba743ebf-54ba-5fb2-a093-fad22534ad8e.html">https://www.guampdn.com/lifestyle/entertainment/kylie-jenners-friendship-with-jordyn-woods-survived-in-secret/video_ba743ebf-54ba-5fb2-a093-fad22534ad8e.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/kylie-jenners-friendship-with-jordyn-woods-survived-in-secret/video_ba743ebf-54ba-5fb2-a093-fad22534ad8e.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1219,9 +1859,13 @@ In a recent interview, Kylie Jenner revealed that she and Jordyn Woods never sto
 
 date: 2023-11-28, from: The Guam Daily Post
 
-The Office of the Attorney General has launched an investigation into "illegal damages" to public roadways allegedly caused by the Guam Waterworks Authority. 
+The Office of the Attorney General has launched an investigation into "illegal damages" to public roadways allegedly caused by the Guam Waterworks Authority.
 
-<https://www.postguam.com/news/local/oag-investigates-road-damage-says-it-was-caused-by-gwa/article_e99ef36e-8ced-11ee-8d2f-1b664a465203.html>
+<span>
+<a href="https://www.postguam.com/news/local/oag-investigates-road-damage-says-it-was-caused-by-gwa/article_e99ef36e-8ced-11ee-8d2f-1b664a465203.html">https://www.postguam.com/news/local/oag-investigates-road-damage-says-it-was-caused-by-gwa/article_e99ef36e-8ced-11ee-8d2f-1b664a465203.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/oag-investigates-road-damage-says-it-was-caused-by-gwa/article_e99ef36e-8ced-11ee-8d2f-1b664a465203.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1229,9 +1873,13 @@ The Office of the Attorney General has launched an investigation into "illegal d
 
 date: 2023-11-28, from: The Guam Daily Post
 
-SAIPAN - The Commonwealth Healthcare Corp. Oncology Center has improved patient outcomes in the Commonwealth of the Northern Mariana Islands, CHCC Chief Executive Officer Esther L. Muna, who holds a doctorate, said. 
+SAIPAN - The Commonwealth Healthcare Corp. Oncology Center has improved patient outcomes in the Commonwealth of the Northern Mariana Islands, CHCC Chief Executive Officer Esther L. Muna, who holds a doctorate, said.
 
-<https://www.postguam.com/news/cnmi/ceo-says-chcc-oncology-center-has-improved-patient-outcomes/article_90802dca-8d79-11ee-b500-5fc7dfd28a85.html>
+<span>
+<a href="https://www.postguam.com/news/cnmi/ceo-says-chcc-oncology-center-has-improved-patient-outcomes/article_90802dca-8d79-11ee-b500-5fc7dfd28a85.html">https://www.postguam.com/news/cnmi/ceo-says-chcc-oncology-center-has-improved-patient-outcomes/article_90802dca-8d79-11ee-b500-5fc7dfd28a85.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/cnmi/ceo-says-chcc-oncology-center-has-improved-patient-outcomes/article_90802dca-8d79-11ee-b500-5fc7dfd28a85.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1239,9 +1887,13 @@ SAIPAN - The Commonwealth Healthcare Corp. Oncology Center has improved patient 
 
 date: 2023-11-28, from: The Guam Daily Post
 
-SAIPAN - The only industry in the Commonwealth of the Northern Mariana Islands, tourism, is in a “desperate mode,” according to the officers of the Saipan Chamber of Commerce and the Hotel Association of NMI. 
+SAIPAN - The only industry in the Commonwealth of the Northern Mariana Islands, tourism, is in a “desperate mode,” according to the officers of the Saipan Chamber of Commerce and the Hotel Association of NMI.
 
-<https://www.postguam.com/news/cnmi/nmi-tourism-is-in-desperate-mode/article_741aa1d0-8d77-11ee-9a87-0bfa80689ce8.html>
+<span>
+<a href="https://www.postguam.com/news/cnmi/nmi-tourism-is-in-desperate-mode/article_741aa1d0-8d77-11ee-9a87-0bfa80689ce8.html">https://www.postguam.com/news/cnmi/nmi-tourism-is-in-desperate-mode/article_741aa1d0-8d77-11ee-9a87-0bfa80689ce8.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/cnmi/nmi-tourism-is-in-desperate-mode/article_741aa1d0-8d77-11ee-9a87-0bfa80689ce8.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1249,9 +1901,13 @@ SAIPAN - The only industry in the Commonwealth of the Northern Mariana Islands, 
 
 date: 2023-11-28, from: The Guam Daily Post
 
-A man was charged in connection to a burglary at an Anigua residence and subsequently running from officers with the Guam Police Department on Thanksgiving. 
+A man was charged in connection to a burglary at an Anigua residence and subsequently running from officers with the Guam Police Department on Thanksgiving.
 
-<https://www.postguam.com/news/local/man-accused-of-thanksgiving-burglary/article_ef8b3b92-8ccb-11ee-8ce6-f3c623bc84c7.html>
+<span>
+<a href="https://www.postguam.com/news/local/man-accused-of-thanksgiving-burglary/article_ef8b3b92-8ccb-11ee-8ce6-f3c623bc84c7.html">https://www.postguam.com/news/local/man-accused-of-thanksgiving-burglary/article_ef8b3b92-8ccb-11ee-8ce6-f3c623bc84c7.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/man-accused-of-thanksgiving-burglary/article_ef8b3b92-8ccb-11ee-8ce6-f3c623bc84c7.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1259,9 +1915,13 @@ A man was charged in connection to a burglary at an Anigua residence and subsequ
 
 date: 2023-11-28, from: The Guam Daily Post
 
-A man on pretrial release in a felony case filed last month was accused of assaulting a man with a flashlight and a baseball bat. 
+A man on pretrial release in a felony case filed last month was accused of assaulting a man with a flashlight and a baseball bat.
 
-<https://www.postguam.com/news/local/man-on-pretrial-release-accused-of-assault-with-flashlight-and-bat/article_c3f3a8d0-8ccf-11ee-83ab-73f6e8a75986.html>
+<span>
+<a href="https://www.postguam.com/news/local/man-on-pretrial-release-accused-of-assault-with-flashlight-and-bat/article_c3f3a8d0-8ccf-11ee-83ab-73f6e8a75986.html">https://www.postguam.com/news/local/man-on-pretrial-release-accused-of-assault-with-flashlight-and-bat/article_c3f3a8d0-8ccf-11ee-83ab-73f6e8a75986.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/man-on-pretrial-release-accused-of-assault-with-flashlight-and-bat/article_c3f3a8d0-8ccf-11ee-83ab-73f6e8a75986.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1269,9 +1929,13 @@ A man on pretrial release in a felony case filed last month was accused of assau
 
 date: 2023-11-28, from: The Guam Daily Post
 
-A man who allegedly was found with two meth pipes in his pants pocket told officers with the Guam Police Department, "This is not my pants." 
+A man who allegedly was found with two meth pipes in his pants pocket told officers with the Guam Police Department, "This is not my pants."
 
-<https://www.postguam.com/news/local/this-is-not-my-pants-2-men-allegedly-found-with-meth-in-a-stolen-work/article_37f2685e-8d82-11ee-aba9-0f4e2e6140fb.html>
+<span>
+<a href="https://www.postguam.com/news/local/this-is-not-my-pants-2-men-allegedly-found-with-meth-in-a-stolen-work/article_37f2685e-8d82-11ee-aba9-0f4e2e6140fb.html">https://www.postguam.com/news/local/this-is-not-my-pants-2-men-allegedly-found-with-meth-in-a-stolen-work/article_37f2685e-8d82-11ee-aba9-0f4e2e6140fb.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/this-is-not-my-pants-2-men-allegedly-found-with-meth-in-a-stolen-work/article_37f2685e-8d82-11ee-aba9-0f4e2e6140fb.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1279,9 +1943,13 @@ A man who allegedly was found with two meth pipes in his pants pocket told offic
 
 date: 2023-11-28, from: The Guam Daily Post
 
-The number of traffic deaths this year has now reached 29, which is more than double the number in 2022. 
+The number of traffic deaths this year has now reached 29, which is more than double the number in 2022.
 
-<https://www.postguam.com/news/local/the-highest-ive-ever-seen-traffic-death-toll-for-2023-rises-to-29/article_f9ea44d6-8d78-11ee-8755-3f01c946be57.html>
+<span>
+<a href="https://www.postguam.com/news/local/the-highest-ive-ever-seen-traffic-death-toll-for-2023-rises-to-29/article_f9ea44d6-8d78-11ee-8755-3f01c946be57.html">https://www.postguam.com/news/local/the-highest-ive-ever-seen-traffic-death-toll-for-2023-rises-to-29/article_f9ea44d6-8d78-11ee-8755-3f01c946be57.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/the-highest-ive-ever-seen-traffic-death-toll-for-2023-rises-to-29/article_f9ea44d6-8d78-11ee-8755-3f01c946be57.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1289,9 +1957,13 @@ The number of traffic deaths this year has now reached 29, which is more than do
 
 date: 2023-11-28, from: The Guam Daily Post
 
-Gov. Lou Leon Guerrero met with a full room of health care workers Monday night for an informational meeting on the medical complex, one of several such meetings the governor has held to drum up support for the project. 
+Gov. Lou Leon Guerrero met with a full room of health care workers Monday night for an informational meeting on the medical complex, one of several such meetings the governor has held to drum up support for the project.
 
-<https://www.postguam.com/news/local/some-doctors-show-support-for-governor-s-medical-complex-plan/article_96a67ec8-8d8a-11ee-8c96-379705033740.html>
+<span>
+<a href="https://www.postguam.com/news/local/some-doctors-show-support-for-governor-s-medical-complex-plan/article_96a67ec8-8d8a-11ee-8c96-379705033740.html">https://www.postguam.com/news/local/some-doctors-show-support-for-governor-s-medical-complex-plan/article_96a67ec8-8d8a-11ee-8c96-379705033740.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/some-doctors-show-support-for-governor-s-medical-complex-plan/article_96a67ec8-8d8a-11ee-8c96-379705033740.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1299,9 +1971,13 @@ Gov. Lou Leon Guerrero met with a full room of health care workers Monday night 
 
 date: 2023-11-28, from: The Guam Daily Post
 
-Sen. Frank Blas Jr. is asking Gov. Lou Leon Guerrero to utilize American Rescue Plan funding to upgrade the Southern Region Community Health Center, including the addition of a 24-hour urgent care facility, to better serve the island's southern residents. 
+Sen. Frank Blas Jr. is asking Gov. Lou Leon Guerrero to utilize American Rescue Plan funding to upgrade the Southern Region Community Health Center, including the addition of a 24-hour urgent care facility, to better serve the island's southern residents.
 
-<https://www.postguam.com/news/local/blas-upgrade-southern-health-center-to-include-urgent-care/article_d52a5d2c-8ce0-11ee-9412-ef9e546c4d07.html>
+<span>
+<a href="https://www.postguam.com/news/local/blas-upgrade-southern-health-center-to-include-urgent-care/article_d52a5d2c-8ce0-11ee-9412-ef9e546c4d07.html">https://www.postguam.com/news/local/blas-upgrade-southern-health-center-to-include-urgent-care/article_d52a5d2c-8ce0-11ee-9412-ef9e546c4d07.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/blas-upgrade-southern-health-center-to-include-urgent-care/article_d52a5d2c-8ce0-11ee-9412-ef9e546c4d07.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1313,9 +1989,13 @@ date: 2023-11-28, from: Island Times
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?fit=780%2C780&amp;ssl=1" /></figure>
 <p>[Koror, Palau] – Nauru Airlines, the national airline of Nauru, announced the launch of its new Island Hopper Service connecting Palau to Brisbane, Australia. The inaugural flight will depart Brisbane on Thursday, November 30, 2023, and arrive in Koror, Palau, on Friday, December 1st, 2023 at 2:20 PM. The weekly service will operate with stopovers [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/nauru-airlines-new-island-hopper-service-connecting-palau-to-australia/">Nauru Airlines New Island Hopper Service Connecting Palau to Australia</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
 
-<https://islandtimes.org/nauru-airlines-new-island-hopper-service-connecting-palau-to-australia/>
+
+<span>
+<a href="https://islandtimes.org/nauru-airlines-new-island-hopper-service-connecting-palau-to-australia/">https://islandtimes.org/nauru-airlines-new-island-hopper-service-connecting-palau-to-australia/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/nauru-airlines-new-island-hopper-service-connecting-palau-to-australia/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1325,9 +2005,13 @@ date: 2023-11-28, from: Island Times
 
 <p>The United States military is looking to build as well as improve certain infrastructures in Palau for its military use and joint use, stated Rear Admiral Gregory Huffman, Senior Military Official, INDOPACOM after the Joint Committee Meeting (JCM) held in Palau this month. In addition to the TACMOR (Tactical Multi-Mission Over the Horizon Radar) project [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/us-military-to-build-infrastructures-in-near-future/">US military to build infrastructures in near future</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
 
-<https://islandtimes.org/us-military-to-build-infrastructures-in-near-future/>
+
+<span>
+<a href="https://islandtimes.org/us-military-to-build-infrastructures-in-near-future/">https://islandtimes.org/us-military-to-build-infrastructures-in-near-future/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/us-military-to-build-infrastructures-in-near-future/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1337,9 +2021,13 @@ date: 2023-11-28, from: Island Times
 
 <p>Former Binance CEO Changpeng Zhao pled guilty to failing to maintain an effective anti-money laundering program causing the global cryptocurrency exchange to fail.He was charged in the United States for breaking U.S. anti-money laundering laws for failing to report more than 100,000 suspicious transactions with organizations that the United States deemed to be terrorist groups, [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/former-binance-ceo-pled-guilty-to-money-laundering-violations/">Former Binance CEO pled guilty to money laundering violations</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
 
-<https://islandtimes.org/former-binance-ceo-pled-guilty-to-money-laundering-violations/>
+
+<span>
+<a href="https://islandtimes.org/former-binance-ceo-pled-guilty-to-money-laundering-violations/">https://islandtimes.org/former-binance-ceo-pled-guilty-to-money-laundering-violations/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/former-binance-ceo-pled-guilty-to-money-laundering-violations/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1349,9 +2037,13 @@ date: 2023-11-28, from: Island Times
 
 <p>The incoming 13th Aimeliik State government is mostly unchanged, with incumbent Governor Browny Simer keeping his seat and eight (8) out of nine (9) legislators re-elected. Official results of the 13th Aimeliik State Government General Election confirmed Browny Simer as Governor in the 13th Aimeliik government, Lucio Obakerbau, Siriano Kailang, Larry Mamis, and Scott Weers [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/13th-aimeliik-state-government-mostly-unchanged/">13th Aimeliik State Government mostly unchanged</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
 
-<https://islandtimes.org/13th-aimeliik-state-government-mostly-unchanged/>
+
+<span>
+<a href="https://islandtimes.org/13th-aimeliik-state-government-mostly-unchanged/">https://islandtimes.org/13th-aimeliik-state-government-mostly-unchanged/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/13th-aimeliik-state-government-mostly-unchanged/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1361,9 +2053,13 @@ date: 2023-11-28, from: Island Times
 
 <p>Governor Eyos Rudimch emphasizes efforts to control expenses while maintaining government operations KOROR, PALAU – Koror State Government is facing a budget shortfall of nearly $2.5 million at year-end, a consequence of the COVID-19 pandemic that severely impacted the state’s revenue streams. The pandemic wiped out more than 60% of Koror State’s annual revenue for [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/koror-state-faces-budget-shortfall-seeks-10m-loan-from-national-government/">Koror State Faces Budget Shortfall, Seeks $10M Loan from National Government</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
 
-<https://islandtimes.org/koror-state-faces-budget-shortfall-seeks-10m-loan-from-national-government/>
+
+<span>
+<a href="https://islandtimes.org/koror-state-faces-budget-shortfall-seeks-10m-loan-from-national-government/">https://islandtimes.org/koror-state-faces-budget-shortfall-seeks-10m-loan-from-national-government/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/koror-state-faces-budget-shortfall-seeks-10m-loan-from-national-government/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1373,9 +2069,13 @@ date: 2023-11-28, from: Island Times
 
 <p>Q and A with H.E Ambassador Ilana Seid, Permanent Representative of Palau to the UN and Chair of Pacific Small Island Developing States and Gwendalyn Kingtaro Sisior, of Palau&#160; NAIROBI, 27 NOVEMBER 2023 (SPREP) &#8212; Pacific negotiators joined more than 1,900 delegates at the third session of the Intergovernmental Negotiating Committee to develop an international [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/psids-chair-notes-inc-progress-looks-to-next-steps-of-plastics-treaty-negotiations/">PSIDS Chair notes INC progress, looks to next steps of plastics treaty negotiations</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
 
-<https://islandtimes.org/psids-chair-notes-inc-progress-looks-to-next-steps-of-plastics-treaty-negotiations/>
+
+<span>
+<a href="https://islandtimes.org/psids-chair-notes-inc-progress-looks-to-next-steps-of-plastics-treaty-negotiations/">https://islandtimes.org/psids-chair-notes-inc-progress-looks-to-next-steps-of-plastics-treaty-negotiations/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/psids-chair-notes-inc-progress-looks-to-next-steps-of-plastics-treaty-negotiations/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1386,9 +2086,13 @@ date: 2023-11-28, from: Island Times
 <figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1-1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1-1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1-1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1-1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1-1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1-1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1-1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67372" data-permalink="https://islandtimes.org/unconditional-love-vs-admiration/wc1-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1-1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1-1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/WC1-1.jpg?fit=524%2C522&amp;ssl=1" /></figure>
 <p>&#8220;Unconditional love means not expecting anything in return but cherishing the happiness of the person you love.” -Anonymous The first year of my inner healming of deep wounds was very hard at first.&#160; Retrieving some repressed memories were close to being unbearable. They frightened me. I wanted to stop. At the same time I was [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/unconditional-love-vs-admiration/">UNCONDITIONAL LOVE vs ADMIRATION</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
 
-<https://islandtimes.org/unconditional-love-vs-admiration/>
+
+<span>
+<a href="https://islandtimes.org/unconditional-love-vs-admiration/">https://islandtimes.org/unconditional-love-vs-admiration/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/unconditional-love-vs-admiration/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1399,9 +2103,13 @@ date: 2023-11-28, from: Island Times
 <figure><img width="400" height="403" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/review-icon-png-23-1.png?fit=400%2C403&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/review-icon-png-23-1.png?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/review-icon-png-23-1.png?resize=298%2C300&amp;ssl=1 298w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/review-icon-png-23-1.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/review-icon-png-23-1.png?fit=400%2C403&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67365" data-permalink="https://islandtimes.org/many-small-islands-have-no-room-for-manoeuvre-at-cop28/review-icon-png-23-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/review-icon-png-23-1.png?fit=400%2C403&amp;ssl=1" data-orig-size="400,403" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="review-icon-png-23" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/review-icon-png-23-1.png?fit=298%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/review-icon-png-23-1.png?fit=400%2C403&amp;ssl=1" /></figure>
 <p>Simply put, their goal is staving off annihilation RAROTONGA, 27 NOVEMBER 2023 (THE ECONIOMIST) &#8212; At the latest climate summit convened by the UN, COP28, which opens in Dubai on November 30th, one group is sure to have an outsize voice. These are the small island developing states (SIDS). Their club numbers just 39 full [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/many-small-islands-have-no-room-for-manoeuvre-at-cop28/">Many small islands have no room for manoeuvre at COP28</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
 
-<https://islandtimes.org/many-small-islands-have-no-room-for-manoeuvre-at-cop28/>
+
+<span>
+<a href="https://islandtimes.org/many-small-islands-have-no-room-for-manoeuvre-at-cop28/">https://islandtimes.org/many-small-islands-have-no-room-for-manoeuvre-at-cop28/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/many-small-islands-have-no-room-for-manoeuvre-at-cop28/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1413,9 +2121,13 @@ date: 2023-11-28, from: Island Times
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Christopher-Luxon-sworn-in.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Christopher-Luxon-sworn-in.jpg?fit=780%2C520&amp;ssl=1" /></figure>
 <p>By NICK PERRY Associated Press WELLINGTON, New Zealand (AP) — Christopher Luxon was sworn in as New Zealand&#8217;s prime minister on Monday and said his top priority was to improve the economy. The 53-year-old former businessman leads a conservative coalition after his National Party&#160;struck a deal&#160;Friday with two smaller parties following a&#160;general election&#160;last month. After [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/christopher-luxon-sworn-in-as-new-zealand-prime-minister-says-priority-is-to-improve-economy/">Christopher Luxon sworn in as New Zealand prime minister, says priority is to improve economy</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
 
-<https://islandtimes.org/christopher-luxon-sworn-in-as-new-zealand-prime-minister-says-priority-is-to-improve-economy/>
+
+<span>
+<a href="https://islandtimes.org/christopher-luxon-sworn-in-as-new-zealand-prime-minister-says-priority-is-to-improve-economy/">https://islandtimes.org/christopher-luxon-sworn-in-as-new-zealand-prime-minister-says-priority-is-to-improve-economy/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/christopher-luxon-sworn-in-as-new-zealand-prime-minister-says-priority-is-to-improve-economy/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1425,9 +2137,13 @@ date: 2023-11-28, from: Island Times
 
 <p>SAIPAN, 27 NOVEMBER 2023 (RNZ PACIFIC) &#8212; The Commonwealth of Northern Mariana Islands (CNMI) economy is showing signs of recovery as the islands move further away from the Covid-19 pandemic. And one tell-tale sign of the economic bounce back is the number of new businesses opening as records from the Department of Finance showing that [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/northern-marianas-economy-shows-signs-of-post-covid-recovery/">Northern Marianas economy shows signs of post-Covid recovery</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
 
-<https://islandtimes.org/northern-marianas-economy-shows-signs-of-post-covid-recovery/>
+
+<span>
+<a href="https://islandtimes.org/northern-marianas-economy-shows-signs-of-post-covid-recovery/">https://islandtimes.org/northern-marianas-economy-shows-signs-of-post-covid-recovery/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/northern-marianas-economy-shows-signs-of-post-covid-recovery/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1437,9 +2153,13 @@ date: 2023-11-28, from: Island Times
 
 <p>MAJURO, 27 NOVEMBER 2023 (MARIANAS VARIETY) &#8212; The Marshall Islands domestic election result shows that as many as one-third of all members of parliament are likely to change when the body is sworn in during early January. But the Marshall Islands domestic vote result comes with a big asterisk: Until the offshore postal ballots are [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/marshalls-election-shows-big-shakeup-in-parliament/">Marshall’s election shows big shakeup in parliament</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
 
-<https://islandtimes.org/marshalls-election-shows-big-shakeup-in-parliament/>
+
+<span>
+<a href="https://islandtimes.org/marshalls-election-shows-big-shakeup-in-parliament/">https://islandtimes.org/marshalls-election-shows-big-shakeup-in-parliament/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/marshalls-election-shows-big-shakeup-in-parliament/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1451,9 +2171,13 @@ date: 2023-11-28, from: Island Times
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Embiid-has-35-points.jpg?fit=200%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/Embiid-has-35-points.jpg?fit=683%2C1024&amp;ssl=1" /></figure>
 <p>By MURRAY EVANS Associated Press OKLAHOMA CITY (AP) — NBA scoring leader Joel Embiid just missed what would have been Philadelphia’s first triple-double of the season with 35 points, 11 rebounds and nine assists, and the 76ers ended the Oklahoma City Thunder’s six-game winning streak with a 127-123 victory on Saturday. Embiid made 19 of [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/embiid-has-35-points-11-rebounds-and-nine-assists-as-76ers-beat-thunder-127-123/">Embiid has 35 points, 11 rebounds and nine assists as 76ers beat Thunder 127-123</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
- 
 
-<https://islandtimes.org/embiid-has-35-points-11-rebounds-and-nine-assists-as-76ers-beat-thunder-127-123/>
+
+<span>
+<a href="https://islandtimes.org/embiid-has-35-points-11-rebounds-and-nine-assists-as-76ers-beat-thunder-127-123/">https://islandtimes.org/embiid-has-35-points-11-rebounds-and-nine-assists-as-76ers-beat-thunder-127-123/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/embiid-has-35-points-11-rebounds-and-nine-assists-as-76ers-beat-thunder-127-123/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1461,9 +2185,13 @@ date: 2023-11-28, from: Island Times
 
 date: 2023-11-28, from: Pacific Island Times
 
-UN official stands up for Pacific island nations, says climate adaptation initiatives are underfunded By Mar-Vic Cagurangan Against the... 
+UN official stands up for Pacific island nations, says climate adaptation initiatives are underfunded By Mar-Vic Cagurangan Against the...
 
-<https://www.pacificislandtimes.com/post/this-is-not-a-distant-dystopian-fantasy>
+<span>
+<a href="https://www.pacificislandtimes.com/post/this-is-not-a-distant-dystopian-fantasy">https://www.pacificislandtimes.com/post/this-is-not-a-distant-dystopian-fantasy</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/this-is-not-a-distant-dystopian-fantasy">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1471,9 +2199,13 @@ UN official stands up for Pacific island nations, says climate adaptation initia
 
 date: 2023-11-28, from: The Guam Daily Post
 
-Sen. Frank Blas Jr. is calling attention to the mold issue at the Guam Memorial Hospital, telling Gov. Lou Leon Guerrero that it is unacceptable to let the problem persist and not prioritize efforts to tackle it. 
+Sen. Frank Blas Jr. is calling attention to the mold issue at the Guam Memorial Hospital, telling Gov. Lou Leon Guerrero that it is unacceptable to let the problem persist and not prioritize efforts to tackle it.
 
-<https://www.postguam.com/news/local/blas-seeks-answers-on-mold-issue/article_0da5964e-8da4-11ee-9ebd-7350364c45f3.html>
+<span>
+<a href="https://www.postguam.com/news/local/blas-seeks-answers-on-mold-issue/article_0da5964e-8da4-11ee-9ebd-7350364c45f3.html">https://www.postguam.com/news/local/blas-seeks-answers-on-mold-issue/article_0da5964e-8da4-11ee-9ebd-7350364c45f3.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/blas-seeks-answers-on-mold-issue/article_0da5964e-8da4-11ee-9ebd-7350364c45f3.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1481,9 +2213,13 @@ Sen. Frank Blas Jr. is calling attention to the mold issue at the Guam Memorial 
 
 date: 2023-11-28, from: Pacific Island Times
 
-By Bryan Manabat Saipan-- Scandals continue to shadow Imperial Pacific International, which has been closed for three years. Ji Xiaobo,... 
+By Bryan Manabat Saipan-- Scandals continue to shadow Imperial Pacific International, which has been closed for three years. Ji Xiaobo,...
 
-<https://www.pacificislandtimes.com/post/scandals-continue-to-hound-saipan-casino-former-executive-in-hiding>
+<span>
+<a href="https://www.pacificislandtimes.com/post/scandals-continue-to-hound-saipan-casino-former-executive-in-hiding">https://www.pacificislandtimes.com/post/scandals-continue-to-hound-saipan-casino-former-executive-in-hiding</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/scandals-continue-to-hound-saipan-casino-former-executive-in-hiding">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1493,9 +2229,13 @@ date: 2023-11-28, from: University of the South Pacific (Fiji)
 
 <p>The University of the South Pacific Council commenced its 96th meeting session on Monday, 27...</p>
 <p>The post <a href="https://www.usp.ac.fj/news/96th-meeting-of-the-usp-council-concluded/">96th Meeting of the USP Council Concluded</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacfic</a>.</p>
- 
 
-<https://www.usp.ac.fj/news/96th-meeting-of-the-usp-council-concluded/>
+
+<span>
+<a href="https://www.usp.ac.fj/news/96th-meeting-of-the-usp-council-concluded/">https://www.usp.ac.fj/news/96th-meeting-of-the-usp-council-concluded/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.usp.ac.fj/news/96th-meeting-of-the-usp-council-concluded/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1504,9 +2244,13 @@ date: 2023-11-28, from: University of the South Pacific (Fiji)
 date: 2023-11-28, from: University of Hawaiʻi News
 
 <p>This column by University of Hawai&#699;i Maui College Chancellor Lui Hokoana was published by The Maui News on November, 2023.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/27/uh-maui-college-giving-thanks/">Giving thanks is different this year</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/27/uh-maui-college-giving-thanks/">Giving thanks is different this year</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/27/uh-maui-college-giving-thanks/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/27/uh-maui-college-giving-thanks/">https://www.hawaii.edu/news/2023/11/27/uh-maui-college-giving-thanks/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/27/uh-maui-college-giving-thanks/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1514,9 +2258,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/27/uh-maui-college-giving-
 
 date: 2023-11-28, from: Pacific Island Times
 
-By Ron Rocky Coloma The Mañenggon Memorial Foundation is preparing to host the 2023 Christmases Not Forgotten event, a tribute to World... 
+By Ron Rocky Coloma The Mañenggon Memorial Foundation is preparing to host the 2023 Christmases Not Forgotten event, a tribute to World...
 
-<https://www.pacificislandtimes.com/post/reclaiming-guam-s-lost-christmases>
+<span>
+<a href="https://www.pacificislandtimes.com/post/reclaiming-guam-s-lost-christmases">https://www.pacificislandtimes.com/post/reclaiming-guam-s-lost-christmases</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/reclaiming-guam-s-lost-christmases">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1525,9 +2273,13 @@ By Ron Rocky Coloma The Mañenggon Memorial Foundation is preparing to host the 
 date: 2023-11-28, from: University of Hawaiʻi News
 
 <p>The 2023 All-PacWest Conference women’s volleyball teams were announced on November 22.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/27/three-vulcans-pacwest-second-team/">Three Vulcans named to All-PacWest second team</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/27/three-vulcans-pacwest-second-team/">Three Vulcans named to All-PacWest second team</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/27/three-vulcans-pacwest-second-team/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/27/three-vulcans-pacwest-second-team/">https://www.hawaii.edu/news/2023/11/27/three-vulcans-pacwest-second-team/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/27/three-vulcans-pacwest-second-team/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1536,9 +2288,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/27/three-vulcans-pacwest-s
 date: 2023-11-28, from: University of Hawaiʻi News
 
 <p>Carlos Ramsey Jr. scored a career-high 31 points, including nine of <abbr>UH</abbr> Hilo’s 11 in overtime.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/27/ramsey-jr-pacwest-player-of-week/">Ramsey Jr. named PacWest Player of the Week after overtime victory</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/27/ramsey-jr-pacwest-player-of-week/">Ramsey Jr. named PacWest Player of the Week after overtime victory</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/27/ramsey-jr-pacwest-player-of-week/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/27/ramsey-jr-pacwest-player-of-week/">https://www.hawaii.edu/news/2023/11/27/ramsey-jr-pacwest-player-of-week/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/27/ramsey-jr-pacwest-player-of-week/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1547,9 +2303,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/27/ramsey-jr-pacwest-playe
 date: 2023-11-28, from: University of Hawaiʻi News
 
 <p>This was Shipley’s second game-winning field goal this season.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/27/shipley-winning-field-goal-senior-night/">Shipley’s 51-yard field goal gives Rainbow Warriors 27-24 senior night win</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/27/shipley-winning-field-goal-senior-night/">Shipley’s 51-yard field goal gives Rainbow Warriors 27-24 senior night win</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/27/shipley-winning-field-goal-senior-night/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/27/shipley-winning-field-goal-senior-night/">https://www.hawaii.edu/news/2023/11/27/shipley-winning-field-goal-senior-night/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/27/shipley-winning-field-goal-senior-night/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1559,9 +2319,13 @@ date: 2023-11-28, from: University of the South Pacific (Fiji)
 
 <p>In the heart of Samoa, where the azure waters meet the vibrant culture, the Poalaga...</p>
 <p>The post <a href="https://www.usp.ac.fj/news/legacy-of-the-seas-the-poalaga-womens-journey-from-fishers-to-pioneers-in-samoas-fishing-industry/">Legacy of the Seas: The Poalaga Women&#8217;s Journey from Fishers to Pioneers in Samoa&#8217;s Fishing Industry</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacfic</a>.</p>
- 
 
-<https://www.usp.ac.fj/news/legacy-of-the-seas-the-poalaga-womens-journey-from-fishers-to-pioneers-in-samoas-fishing-industry/>
+
+<span>
+<a href="https://www.usp.ac.fj/news/legacy-of-the-seas-the-poalaga-womens-journey-from-fishers-to-pioneers-in-samoas-fishing-industry/">https://www.usp.ac.fj/news/legacy-of-the-seas-the-poalaga-womens-journey-from-fishers-to-pioneers-in-samoas-fishing-industry/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.usp.ac.fj/news/legacy-of-the-seas-the-poalaga-womens-journey-from-fishers-to-pioneers-in-samoas-fishing-industry/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1570,9 +2334,13 @@ date: 2023-11-28, from: University of the South Pacific (Fiji)
 date: 2023-11-27, from: University of Hawaiʻi News
 
 <p>The menu included sous vide turkey with gravy, and &#699;ulu and Portuguese sausage stuffing.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/27/thanksgiving-meals-uh-maui/">About 650 Thanksgiving meals prepared at <abbr>UH</abbr> Maui College</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/27/thanksgiving-meals-uh-maui/">About 650 Thanksgiving meals prepared at <abbr>UH</abbr> Maui College</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/27/thanksgiving-meals-uh-maui/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/27/thanksgiving-meals-uh-maui/">https://www.hawaii.edu/news/2023/11/27/thanksgiving-meals-uh-maui/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/27/thanksgiving-meals-uh-maui/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1580,9 +2348,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/27/thanksgiving-meals-uh-m
 
 date: 2023-11-27, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
 
-The Mānoa magic is real! The Rainbow Warriors won with a last-second field goal against the Colorado State Rams, 27-24, sending the seniors into the sunset on a perfect note. 
+The Mānoa magic is real! The Rainbow Warriors won with a last-second field goal against the Colorado State Rams, 27-24, sending the seniors into the sunset on a perfect note.
 
-<https://www.manoanow.org/kaleo/hawaii-wins-in-a-panic-struck-finish-on-senior-night-27-24/article_a743bdc4-8d6a-11ee-9161-9bb212b22758.html>
+<span>
+<a href="https://www.manoanow.org/kaleo/hawaii-wins-in-a-panic-struck-finish-on-senior-night-27-24/article_a743bdc4-8d6a-11ee-9161-9bb212b22758.html">https://www.manoanow.org/kaleo/hawaii-wins-in-a-panic-struck-finish-on-senior-night-27-24/article_a743bdc4-8d6a-11ee-9161-9bb212b22758.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.manoanow.org/kaleo/hawaii-wins-in-a-panic-struck-finish-on-senior-night-27-24/article_a743bdc4-8d6a-11ee-9161-9bb212b22758.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1591,9 +2363,13 @@ The Mānoa magic is real! The Rainbow Warriors won with a last-second field goal
 date: 2023-11-27, from: University of Hawaiʻi News
 
 <p>The Department of English also considered the word &#8220;polarization.&#8221;</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/27/resurgence-hawaii-2023-word-of-the-year/">‘Resurgence’ is Hawaiʻi’s 2023 Word of the Year</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/27/resurgence-hawaii-2023-word-of-the-year/">‘Resurgence’ is Hawaiʻi’s 2023 Word of the Year</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/27/resurgence-hawaii-2023-word-of-the-year/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/27/resurgence-hawaii-2023-word-of-the-year/">https://www.hawaii.edu/news/2023/11/27/resurgence-hawaii-2023-word-of-the-year/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/27/resurgence-hawaii-2023-word-of-the-year/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1602,9 +2378,13 @@ The post <a href="https://www.hawaii.edu/news/2023/11/27/resurgence-hawaii-2023-
 date: 2023-11-27, from: University of Hawaiʻi News
 
 <p>This finding can be used to improve numerical weather prediction of nearshore cloud formation and rainfall patterns across the Hawaiian islands.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/27/coastline-aerosols-hawaii-rainfall/">Coastlines: Unsung heroes in Hawaiʻi’s rainfall creation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/27/coastline-aerosols-hawaii-rainfall/">Coastlines: Unsung heroes in Hawaiʻi’s rainfall creation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/27/coastline-aerosols-hawaii-rainfall/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/27/coastline-aerosols-hawaii-rainfall/">https://www.hawaii.edu/news/2023/11/27/coastline-aerosols-hawaii-rainfall/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/27/coastline-aerosols-hawaii-rainfall/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1614,9 +2394,13 @@ date: 2023-11-27, from: HIKI NŌ ON PBS HAWAIʻI
 
 <p>On this episode of HIKI NŌ on PBS Hawaiʻi, watch a special collection of stories from Hawai‘i’s New Wave of Storytellers’ first round of shows this season. Maya and Miya Tasaka, 5th graders at Waikīkī Elementary School, join as hosts, making history as HIKI NŌ’s first twin hosts. They share two videos they produced with [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbis-fall-2023-compilation-show/">HIKI NŌ on PBS Hawaiʻi’s &lt;br/&gt;Fall 2023 Compilation Show</a> appeared first on <a rel="nofollow" href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
- 
 
-<https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbis-fall-2023-compilation-show/>
+
+<span>
+<a href="https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbis-fall-2023-compilation-show/">https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbis-fall-2023-compilation-show/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbis-fall-2023-compilation-show/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1624,9 +2408,13 @@ date: 2023-11-27, from: HIKI NŌ ON PBS HAWAIʻI
 
 date: 2023-11-27, from: Hawai'i Pacific Review (HPU Literary Magazine)
 
-by Terra Oliveira four &#38; a half million people visit the island of O`ahu per year, watch the red sun climb down into the Pacific, escape into paradise, laugh with the water as petroleum from Red Hill leaks under the &#8230; <a href="https://hawaiipacificreview.org/2023/11/27/shut-down-red-hill/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+by Terra Oliveira four &#38; a half million people visit the island of O`ahu per year, watch the red sun climb down into the Pacific, escape into paradise, laugh with the water as petroleum from Red Hill leaks under the &#8230; <a href="https://hawaiipacificreview.org/2023/11/27/shut-down-red-hill/">Continue reading <span class="meta-nav">&#8594;</span></a>
 
-<https://hawaiipacificreview.org/2023/11/27/shut-down-red-hill/>
+<span>
+<a href="https://hawaiipacificreview.org/2023/11/27/shut-down-red-hill/">https://hawaiipacificreview.org/2023/11/27/shut-down-red-hill/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://hawaiipacificreview.org/2023/11/27/shut-down-red-hill/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1634,9 +2422,13 @@ by Terra Oliveira four &#38; a half million people visit the island of O`ahu per
 
 date: 2023-11-27, updated: 2023-11-27, from: Marianas Variety
 
-THE Office of the Governor on Monday evening announced the passing of Ross H. Manglona, the resident executive of the Office of Indigenous Affairs. 
+THE Office of the Governor on Monday evening announced the passing of Ross H. Manglona, the resident executive of the Office of Indigenous Affairs.
 
-<https://www.mvariety.com/news/local/indigenous-affairs-chief-passes-away/article_a7e8d93a-8d0b-11ee-9b39-2be372982624.html>
+<span>
+<a href="https://www.mvariety.com/news/local/indigenous-affairs-chief-passes-away/article_a7e8d93a-8d0b-11ee-9b39-2be372982624.html">https://www.mvariety.com/news/local/indigenous-affairs-chief-passes-away/article_a7e8d93a-8d0b-11ee-9b39-2be372982624.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/indigenous-affairs-chief-passes-away/article_a7e8d93a-8d0b-11ee-9b39-2be372982624.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1644,9 +2436,13 @@ THE Office of the Governor on Monday evening announced the passing of Ross H. Ma
 
 date: 2023-11-27, updated: 2023-11-27, from: Marianas Variety
 
-TO ensure the highest standards of excellence and preparedness among NMC nursing students, Northern Marianas College’s Nursing Department has increased the grade point average requirement from 2.50 to 3.00 for admission into the college’s nursing program for the Fall 2024 Admission Cohort. 
+TO ensure the highest standards of excellence and preparedness among NMC nursing students, Northern Marianas College’s Nursing Department has increased the grade point average requirement from 2.50 to 3.00 for admission into the college’s nursing program for the Fall 2024 Admission Cohort.
 
-<https://www.mvariety.com/news/community_bulletins/nmc-enhances-admission-criteria-for-nursing-program/article_bdc5d0ea-8cf3-11ee-8436-abf9f4e07ed6.html>
+<span>
+<a href="https://www.mvariety.com/news/community_bulletins/nmc-enhances-admission-criteria-for-nursing-program/article_bdc5d0ea-8cf3-11ee-8436-abf9f4e07ed6.html">https://www.mvariety.com/news/community_bulletins/nmc-enhances-admission-criteria-for-nursing-program/article_bdc5d0ea-8cf3-11ee-8436-abf9f4e07ed6.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/community_bulletins/nmc-enhances-admission-criteria-for-nursing-program/article_bdc5d0ea-8cf3-11ee-8436-abf9f4e07ed6.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1654,9 +2450,13 @@ TO ensure the highest standards of excellence and preparedness among NMC nursing
 
 date: 2023-11-27, updated: 2023-11-27, from: Marianas Variety
 
-HONIARA, Solomon Islands (Northern Marianas Sports Association) — Team Marianas began the second and final week of competitions in the 2023 Pacific Games in style, winning a pair of gold medals and one bronze and recording a dominant victory in football yesterday in Honiara, the Solomon Islands. 
+HONIARA, Solomon Islands (Northern Marianas Sports Association) — Team Marianas began the second and final week of competitions in the 2023 Pacific Games in style, winning a pair of gold medals and one bronze and recording a dominant victory in football yesterday in Honiara, the Solomon Islands.
 
-<https://www.mvariety.com/sports/localsports/fruitful-day-for-nmi-athletes/article_654b4284-8d24-11ee-8291-03e7b5866516.html>
+<span>
+<a href="https://www.mvariety.com/sports/localsports/fruitful-day-for-nmi-athletes/article_654b4284-8d24-11ee-8291-03e7b5866516.html">https://www.mvariety.com/sports/localsports/fruitful-day-for-nmi-athletes/article_654b4284-8d24-11ee-8291-03e7b5866516.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/sports/localsports/fruitful-day-for-nmi-athletes/article_654b4284-8d24-11ee-8291-03e7b5866516.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1664,9 +2464,13 @@ HONIARA, Solomon Islands (Northern Marianas Sports Association) — Team Mariana
 
 date: 2023-11-27, updated: 2023-11-27, from: Marianas Variety
 
-GUAM and CNMI activists are staging protests on Saipan and Guam on Thursday, the International Day of Solidarity with Palestine, according to Marianas for Palestine organizers Isa Arriola and Monaeka Flores. 
+GUAM and CNMI activists are staging protests on Saipan and Guam on Thursday, the International Day of Solidarity with Palestine, according to Marianas for Palestine organizers Isa Arriola and Monaeka Flores.
 
-<https://www.mvariety.com/news/local/pro-palestine-activists-to-hold-protests-on-guam-and-saipan/article_a9071f1a-8ce4-11ee-a07a-af0e39199d9a.html>
+<span>
+<a href="https://www.mvariety.com/news/local/pro-palestine-activists-to-hold-protests-on-guam-and-saipan/article_a9071f1a-8ce4-11ee-a07a-af0e39199d9a.html">https://www.mvariety.com/news/local/pro-palestine-activists-to-hold-protests-on-guam-and-saipan/article_a9071f1a-8ce4-11ee-a07a-af0e39199d9a.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/pro-palestine-activists-to-hold-protests-on-guam-and-saipan/article_a9071f1a-8ce4-11ee-a07a-af0e39199d9a.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1674,9 +2478,13 @@ GUAM and CNMI activists are staging protests on Saipan and Guam on Thursday, the
 
 date: 2023-11-27, updated: 2023-11-27, from: Marianas Variety
 
-THE Commonwealth Healthcare Corp.'s oncology center has improved patient outcomes in the CNMI, CHCC Chief Executive Officer Esther L. Muna, PhD, said. 
+THE Commonwealth Healthcare Corp.'s oncology center has improved patient outcomes in the CNMI, CHCC Chief Executive Officer Esther L. Muna, PhD, said.
 
-<https://www.mvariety.com/news/local/ceo-says-chcc-oncology-center-has-improved-patient-outcomes/article_7f1d2e2a-8cfc-11ee-bc4d-0b4a93a79c0f.html>
+<span>
+<a href="https://www.mvariety.com/news/local/ceo-says-chcc-oncology-center-has-improved-patient-outcomes/article_7f1d2e2a-8cfc-11ee-bc4d-0b4a93a79c0f.html">https://www.mvariety.com/news/local/ceo-says-chcc-oncology-center-has-improved-patient-outcomes/article_7f1d2e2a-8cfc-11ee-bc4d-0b4a93a79c0f.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/ceo-says-chcc-oncology-center-has-improved-patient-outcomes/article_7f1d2e2a-8cfc-11ee-bc4d-0b4a93a79c0f.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1684,9 +2492,13 @@ THE Commonwealth Healthcare Corp.'s oncology center has improved patient outcome
 
 date: 2023-11-27, updated: 2023-11-27, from: Marianas Variety
 
-FORMER Superior Court law clerk Robert Edward Mang III wants the court to issue an order striking Presiding Judge Robert Naraja and the Office of the Attorney General’s  motion to dismiss Mang’s lawsuit. 
+FORMER Superior Court law clerk Robert Edward Mang III wants the court to issue an order striking Presiding Judge Robert Naraja and the Office of the Attorney General’s  motion to dismiss Mang’s lawsuit.
 
-<https://www.mvariety.com/news/local/former-law-clerk-asks-court-not-to-dismiss-his-lawsuit-against-presiding-judge/article_2807f850-8cf6-11ee-8e1c-e7c9c07a8f78.html>
+<span>
+<a href="https://www.mvariety.com/news/local/former-law-clerk-asks-court-not-to-dismiss-his-lawsuit-against-presiding-judge/article_2807f850-8cf6-11ee-8e1c-e7c9c07a8f78.html">https://www.mvariety.com/news/local/former-law-clerk-asks-court-not-to-dismiss-his-lawsuit-against-presiding-judge/article_2807f850-8cf6-11ee-8e1c-e7c9c07a8f78.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/former-law-clerk-asks-court-not-to-dismiss-his-lawsuit-against-presiding-judge/article_2807f850-8cf6-11ee-8e1c-e7c9c07a8f78.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1694,9 +2506,13 @@ FORMER Superior Court law clerk Robert Edward Mang III wants the court to issue 
 
 date: 2023-11-27, updated: 2023-11-27, from: Marianas Variety
 
-THE Commonwealth Healthcare Corp. on Monday morning held a ceremonial ribbon-cutting ceremony to mark the opening of its outpatient pharmacy drive-thru. 
+THE Commonwealth Healthcare Corp. on Monday morning held a ceremonial ribbon-cutting ceremony to mark the opening of its outpatient pharmacy drive-thru.
 
-<https://www.mvariety.com/news/local/chcc-opens-pharmacy-drive-thru/article_154df54e-8cf5-11ee-a692-cfa3516aec7d.html>
+<span>
+<a href="https://www.mvariety.com/news/local/chcc-opens-pharmacy-drive-thru/article_154df54e-8cf5-11ee-a692-cfa3516aec7d.html">https://www.mvariety.com/news/local/chcc-opens-pharmacy-drive-thru/article_154df54e-8cf5-11ee-a692-cfa3516aec7d.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/chcc-opens-pharmacy-drive-thru/article_154df54e-8cf5-11ee-a692-cfa3516aec7d.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1704,9 +2520,13 @@ THE Commonwealth Healthcare Corp. on Monday morning held a ceremonial ribbon-cut
 
 date: 2023-11-27, updated: 2023-11-27, from: Marianas Variety
 
-SUPERIOR Court Associate Judge Joseph N. Camacho has imposed a $10,000 cash bail on Oliver Castro, who was accused of robbing Royal Poker in Afetnas on Nov. 23. 
+SUPERIOR Court Associate Judge Joseph N. Camacho has imposed a $10,000 cash bail on Oliver Castro, who was accused of robbing Royal Poker in Afetnas on Nov. 23.
 
-<https://www.mvariety.com/news/local/man-charged-with-robbing-a-poker-arcade/article_323fc5e6-8ce2-11ee-b922-13fd48d3dd8b.html>
+<span>
+<a href="https://www.mvariety.com/news/local/man-charged-with-robbing-a-poker-arcade/article_323fc5e6-8ce2-11ee-b922-13fd48d3dd8b.html">https://www.mvariety.com/news/local/man-charged-with-robbing-a-poker-arcade/article_323fc5e6-8ce2-11ee-b922-13fd48d3dd8b.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mvariety.com/news/local/man-charged-with-robbing-a-poker-arcade/article_323fc5e6-8ce2-11ee-b922-13fd48d3dd8b.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1714,9 +2534,13 @@ SUPERIOR Court Associate Judge Joseph N. Camacho has imposed a $10,000 cash bail
 
 date: 2023-11-27, from: The Guam Daily Post
 
-Over half of those surveyed give up on their resolutions by March (52%). 
+Over half of those surveyed give up on their resolutions by March (52%).
 
-<https://www.postguam.com/lifestyles/health/new-year-s-resolutions-most-americans-believe-that-concept-is-outdated/article_d412353a-4f69-59b5-81e2-3467db1edb77.html>
+<span>
+<a href="https://www.postguam.com/lifestyles/health/new-year-s-resolutions-most-americans-believe-that-concept-is-outdated/article_d412353a-4f69-59b5-81e2-3467db1edb77.html">https://www.postguam.com/lifestyles/health/new-year-s-resolutions-most-americans-believe-that-concept-is-outdated/article_d412353a-4f69-59b5-81e2-3467db1edb77.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/lifestyles/health/new-year-s-resolutions-most-americans-believe-that-concept-is-outdated/article_d412353a-4f69-59b5-81e2-3467db1edb77.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1724,9 +2548,13 @@ Over half of those surveyed give up on their resolutions by March (52%).
 
 date: 2023-11-27, from: The Guam Daily Post
 
-Researchers have found proof that video conferences and online education formats lead to greater fatigue than face-to-face alternatives. 
+Researchers have found proof that video conferences and online education formats lead to greater fatigue than face-to-face alternatives.
 
-<https://www.postguam.com/lifestyles/health/zoom-calls-and-video-meetings-can-lead-to-extreme-fatigue-study/article_b7bc7b2e-4530-5680-92ae-717aefe03cb2.html>
+<span>
+<a href="https://www.postguam.com/lifestyles/health/zoom-calls-and-video-meetings-can-lead-to-extreme-fatigue-study/article_b7bc7b2e-4530-5680-92ae-717aefe03cb2.html">https://www.postguam.com/lifestyles/health/zoom-calls-and-video-meetings-can-lead-to-extreme-fatigue-study/article_b7bc7b2e-4530-5680-92ae-717aefe03cb2.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/lifestyles/health/zoom-calls-and-video-meetings-can-lead-to-extreme-fatigue-study/article_b7bc7b2e-4530-5680-92ae-717aefe03cb2.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1734,9 +2562,13 @@ Researchers have found proof that video conferences and online education formats
 
 date: 2023-11-27, from: Chaminade Silversword (Chaminade Univ. student newspaper)
 
-Being the only Catholic university in the Pacific, our students can look to the saints for some intercessory prayers when students are in search of some divine help. So, dust off your rosaries and say your &#8220;Hail Mary&#8217;s,&#8221; it&#8217;s finals season. Here are five saints to help you through the last push of the semester.... 
+Being the only Catholic university in the Pacific, our students can look to the saints for some intercessory prayers when students are in search of some divine help. So, dust off your rosaries and say your &#8220;Hail Mary&#8217;s,&#8221; it&#8217;s finals season. Here are five saints to help you through the last push of the semester....
 
-<https://thesilversword.com/editorial/2023/11/27/5-saints-to-help-students-survive-finals/>
+<span>
+<a href="https://thesilversword.com/editorial/2023/11/27/5-saints-to-help-students-survive-finals/">https://thesilversword.com/editorial/2023/11/27/5-saints-to-help-students-survive-finals/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://thesilversword.com/editorial/2023/11/27/5-saints-to-help-students-survive-finals/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1744,9 +2576,13 @@ Being the only Catholic university in the Pacific, our students can look to the 
 
 date: 2023-11-27, from: The Guam Daily Post
 
-Recent research shows that 40 percent of the population don’t get enough sleep. 
+Recent research shows that 40 percent of the population don’t get enough sleep.
 
-<https://www.postguam.com/lifestyles/health/exercise-can-improve-brain-function-even-after-poor-sleep-study/article_e150361e-129f-57cc-9aed-40b5e28c8067.html>
+<span>
+<a href="https://www.postguam.com/lifestyles/health/exercise-can-improve-brain-function-even-after-poor-sleep-study/article_e150361e-129f-57cc-9aed-40b5e28c8067.html">https://www.postguam.com/lifestyles/health/exercise-can-improve-brain-function-even-after-poor-sleep-study/article_e150361e-129f-57cc-9aed-40b5e28c8067.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/lifestyles/health/exercise-can-improve-brain-function-even-after-poor-sleep-study/article_e150361e-129f-57cc-9aed-40b5e28c8067.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1754,9 +2590,13 @@ Recent research shows that 40 percent of the population don’t get enough sleep
 
 date: 2023-11-27, from: The Guam Daily Post
 
-Before the year is out, eligible schoolchildren will receive nutritional assistance through the Pandemic Electronic Benefit Transfer program, or P-EBT, a type of food stamp card. 
+Before the year is out, eligible schoolchildren will receive nutritional assistance through the Pandemic Electronic Benefit Transfer program, or P-EBT, a type of food stamp card.
 
-<https://www.postguam.com/news/local/expect-p-ebt-benefits-by-dec-31/article_ec10a1de-8cce-11ee-b5f4-fb50c6bebc2f.html>
+<span>
+<a href="https://www.postguam.com/news/local/expect-p-ebt-benefits-by-dec-31/article_ec10a1de-8cce-11ee-b5f4-fb50c6bebc2f.html">https://www.postguam.com/news/local/expect-p-ebt-benefits-by-dec-31/article_ec10a1de-8cce-11ee-b5f4-fb50c6bebc2f.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/expect-p-ebt-benefits-by-dec-31/article_ec10a1de-8cce-11ee-b5f4-fb50c6bebc2f.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1764,9 +2604,13 @@ Before the year is out, eligible schoolchildren will receive nutritional assista
 
 date: 2023-11-27, from: The Guam Daily Post
 
-Issues regarding the use of e-cigarettes on the island will be discussed at What's In The Air: The Vape Debate, hosted by a University of Guam master of public administration practicum class. The meeting will have people from the fields… 
+Issues regarding the use of e-cigarettes on the island will be discussed at What's In The Air: The Vape Debate, hosted by a University of Guam master of public administration practicum class. The meeting will have people from the fields…
 
-<https://www.postguam.com/news/local/vaping-to-be-discussed-at-uog/article_fed01854-8823-11ee-80e5-67adfacb4278.html>
+<span>
+<a href="https://www.postguam.com/news/local/vaping-to-be-discussed-at-uog/article_fed01854-8823-11ee-80e5-67adfacb4278.html">https://www.postguam.com/news/local/vaping-to-be-discussed-at-uog/article_fed01854-8823-11ee-80e5-67adfacb4278.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/vaping-to-be-discussed-at-uog/article_fed01854-8823-11ee-80e5-67adfacb4278.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1774,9 +2618,13 @@ Issues regarding the use of e-cigarettes on the island will be discussed at What
 
 date: 2023-11-27, from: The Guam Daily Post
 
-The number of traffic-related deaths that have happened this year is twice as many as all of last year. 
+The number of traffic-related deaths that have happened this year is twice as many as all of last year.
 
-<https://www.postguam.com/news/local/28-traffic-deaths-this-year-double-2022-s/article_a2f17352-8cbf-11ee-a9e0-0b2a1c95a601.html>
+<span>
+<a href="https://www.postguam.com/news/local/28-traffic-deaths-this-year-double-2022-s/article_a2f17352-8cbf-11ee-a9e0-0b2a1c95a601.html">https://www.postguam.com/news/local/28-traffic-deaths-this-year-double-2022-s/article_a2f17352-8cbf-11ee-a9e0-0b2a1c95a601.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/28-traffic-deaths-this-year-double-2022-s/article_a2f17352-8cbf-11ee-a9e0-0b2a1c95a601.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1784,9 +2632,13 @@ The number of traffic-related deaths that have happened this year is twice as ma
 
 date: 2023-11-27, from: The Guam Daily Post
 
-Children can join Santa Claus for breakfast at Mañe'lu’s Breakfast with Santa event, which will feature a breakfast buffet, arts and crafts, and a photo session with Saint Nick himself. 
+Children can join Santa Claus for breakfast at Mañe'lu’s Breakfast with Santa event, which will feature a breakfast buffet, arts and crafts, and a photo session with Saint Nick himself.
 
-<https://www.postguam.com/news/local/breakfast-with-santa-this-weekend/article_f6f0f63c-8759-11ee-8f5d-433fe65f059c.html>
+<span>
+<a href="https://www.postguam.com/news/local/breakfast-with-santa-this-weekend/article_f6f0f63c-8759-11ee-8f5d-433fe65f059c.html">https://www.postguam.com/news/local/breakfast-with-santa-this-weekend/article_f6f0f63c-8759-11ee-8f5d-433fe65f059c.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/breakfast-with-santa-this-weekend/article_f6f0f63c-8759-11ee-8f5d-433fe65f059c.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1794,9 +2646,13 @@ Children can join Santa Claus for breakfast at Mañe'lu’s Breakfast with Santa
 
 date: 2023-11-27, from: The Guam Daily Post
 
-Pediatricians, anesthesiologists and now obstetricians and gynecologists have voiced their support for building a new hospital in Tamuning. 
+Pediatricians, anesthesiologists and now obstetricians and gynecologists have voiced their support for building a new hospital in Tamuning.
 
-<https://www.postguam.com/news/ob-gyns-support-ypao-point-tamuning-location-for-hospital/article_144b870a-8cc4-11ee-aaf9-c3241705bc92.html>
+<span>
+<a href="https://www.postguam.com/news/ob-gyns-support-ypao-point-tamuning-location-for-hospital/article_144b870a-8cc4-11ee-aaf9-c3241705bc92.html">https://www.postguam.com/news/ob-gyns-support-ypao-point-tamuning-location-for-hospital/article_144b870a-8cc4-11ee-aaf9-c3241705bc92.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/ob-gyns-support-ypao-point-tamuning-location-for-hospital/article_144b870a-8cc4-11ee-aaf9-c3241705bc92.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1804,9 +2660,13 @@ Pediatricians, anesthesiologists and now obstetricians and gynecologists have vo
 
 date: 2023-11-27, from: The Guam Daily Post
 
-The Guam Legislature is meeting for another round of session this week and the first measure tackled Monday was Bill 2-37, which proposes to create a Special Cost of Living Economic Task Force to develop recommendations for a cost-of-living allowance… 
+The Guam Legislature is meeting for another round of session this week and the first measure tackled Monday was Bill 2-37, which proposes to create a Special Cost of Living Economic Task Force to develop recommendations for a cost-of-living allowance…
 
-<https://www.postguam.com/news/local/cola-task-force-bill-up-for-vote/article_05ac0d2a-8cb8-11ee-bc83-bf113662bc07.html>
+<span>
+<a href="https://www.postguam.com/news/local/cola-task-force-bill-up-for-vote/article_05ac0d2a-8cb8-11ee-bc83-bf113662bc07.html">https://www.postguam.com/news/local/cola-task-force-bill-up-for-vote/article_05ac0d2a-8cb8-11ee-bc83-bf113662bc07.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/cola-task-force-bill-up-for-vote/article_05ac0d2a-8cb8-11ee-bc83-bf113662bc07.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1814,9 +2674,13 @@ The Guam Legislature is meeting for another round of session this week and the f
 
 date: 2023-11-27, from: The Guam Daily Post
 
-Public Health’s Mangilao facility has been sitting unused and in disrepair for four years, raising the question: Is the same in store for the existing Guam Memorial Hospital and the Guam Behavioral Health and Wellness Center, should the governor’s medical… 
+Public Health’s Mangilao facility has been sitting unused and in disrepair for four years, raising the question: Is the same in store for the existing Guam Memorial Hospital and the Guam Behavioral Health and Wellness Center, should the governor’s medical…
 
-<https://www.postguam.com/news/adelup-phenomenal-things-planned-for-existing-facilities/article_b0e2837a-8cd8-11ee-8350-ffee9ce06022.html>
+<span>
+<a href="https://www.postguam.com/news/adelup-phenomenal-things-planned-for-existing-facilities/article_b0e2837a-8cd8-11ee-8350-ffee9ce06022.html">https://www.postguam.com/news/adelup-phenomenal-things-planned-for-existing-facilities/article_b0e2837a-8cd8-11ee-8350-ffee9ce06022.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/adelup-phenomenal-things-planned-for-existing-facilities/article_b0e2837a-8cd8-11ee-8350-ffee9ce06022.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1824,9 +2688,13 @@ Public Health’s Mangilao facility has been sitting unused and in disrepair for
 
 date: 2023-11-27, from: The Guam Daily Post
 
-The Office of the Attorney General has launched an investigation into "illegal damages" to public roadways allegedly caused by the Guam Waterworks Authority. 
+The Office of the Attorney General has launched an investigation into "illegal damages" to public roadways allegedly caused by the Guam Waterworks Authority.
 
-<https://www.postguam.com/news/oag-investigates-roadway-damages-allegedly-caused-by-gwa/article_93c5f188-8ce6-11ee-80d9-ef4f4eec7686.html>
+<span>
+<a href="https://www.postguam.com/news/oag-investigates-roadway-damages-allegedly-caused-by-gwa/article_93c5f188-8ce6-11ee-80d9-ef4f4eec7686.html">https://www.postguam.com/news/oag-investigates-roadway-damages-allegedly-caused-by-gwa/article_93c5f188-8ce6-11ee-80d9-ef4f4eec7686.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/oag-investigates-roadway-damages-allegedly-caused-by-gwa/article_93c5f188-8ce6-11ee-80d9-ef4f4eec7686.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1834,9 +2702,13 @@ The Office of the Attorney General has launched an investigation into "illegal d
 
 date: 2023-11-27, from: Pacific Island Times
 
-By Pacific Island Times News Staff Guam Del. James Moylan has introduced a measure that would authorize the Federal Emergency Management... 
+By Pacific Island Times News Staff Guam Del. James Moylan has introduced a measure that would authorize the Federal Emergency Management...
 
-<https://www.pacificislandtimes.com/post/moylan-s-bill-seeks-more-federal-funds-for-rehabilitation-of-mawar-damaged-guam-infrastructures>
+<span>
+<a href="https://www.pacificislandtimes.com/post/moylan-s-bill-seeks-more-federal-funds-for-rehabilitation-of-mawar-damaged-guam-infrastructures">https://www.pacificislandtimes.com/post/moylan-s-bill-seeks-more-federal-funds-for-rehabilitation-of-mawar-damaged-guam-infrastructures</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/moylan-s-bill-seeks-more-federal-funds-for-rehabilitation-of-mawar-damaged-guam-infrastructures">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1844,9 +2716,13 @@ By Pacific Island Times News Staff Guam Del. James Moylan has introduced a measu
 
 date: 2023-11-27, from: The Guam Daily Post
 
-Sen. Frank Blas Jr. is asking Gov. Lou Leon Guerrero to utilize American Rescue Plan funding to upgrade the Southern Regional Community Health Center, to include a 24-hour urgent care facility, in order to better serve the island's southern residents. 
+Sen. Frank Blas Jr. is asking Gov. Lou Leon Guerrero to utilize American Rescue Plan funding to upgrade the Southern Regional Community Health Center, to include a 24-hour urgent care facility, in order to better serve the island's southern residents.
 
-<https://www.postguam.com/news/local/blas-suggests-upgrading-southern-center-to-include-urgent-care/article_234bddce-8cd6-11ee-9a09-d32e9ada080b.html>
+<span>
+<a href="https://www.postguam.com/news/local/blas-suggests-upgrading-southern-center-to-include-urgent-care/article_234bddce-8cd6-11ee-9a09-d32e9ada080b.html">https://www.postguam.com/news/local/blas-suggests-upgrading-southern-center-to-include-urgent-care/article_234bddce-8cd6-11ee-9a09-d32e9ada080b.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/blas-suggests-upgrading-southern-center-to-include-urgent-care/article_234bddce-8cd6-11ee-9a09-d32e9ada080b.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1856,9 +2732,13 @@ date: 2023-11-27, from: University of the South Pacific (Fiji)
 
 <p>FREEDOM of the press is a cornerstone of any vibrant democracy, and it’s our collective...</p>
 <p>The post <a href="https://www.usp.ac.fj/news/journalism-students-recognised-for-outstanding-achievement/">Journalism Students recognised for outstanding achievement</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacfic</a>.</p>
- 
 
-<https://www.usp.ac.fj/news/journalism-students-recognised-for-outstanding-achievement/>
+
+<span>
+<a href="https://www.usp.ac.fj/news/journalism-students-recognised-for-outstanding-achievement/">https://www.usp.ac.fj/news/journalism-students-recognised-for-outstanding-achievement/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.usp.ac.fj/news/journalism-students-recognised-for-outstanding-achievement/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1866,9 +2746,13 @@ date: 2023-11-27, from: University of the South Pacific (Fiji)
 
 date: 2023-11-27, from: Pacific Island Times
 
-By Pacific Island Times News Staff  Seeking a potential solution to the "distance" aspect of the debate over the location of a new Guam... 
+By Pacific Island Times News Staff  Seeking a potential solution to the "distance" aspect of the debate over the location of a new Guam...
 
-<https://www.pacificislandtimes.com/post/beef-up-urgent-care-systems-for-guam-s-southern-residents-blas-tells-governor>
+<span>
+<a href="https://www.pacificislandtimes.com/post/beef-up-urgent-care-systems-for-guam-s-southern-residents-blas-tells-governor">https://www.pacificislandtimes.com/post/beef-up-urgent-care-systems-for-guam-s-southern-residents-blas-tells-governor</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/beef-up-urgent-care-systems-for-guam-s-southern-residents-blas-tells-governor">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1876,9 +2760,13 @@ By Pacific Island Times News Staff  Seeking a potential solution to the "distanc
 
 date: 2023-11-27, from: Tia Belau (Palau's First Newspaper)
 
-No pay raise mentioned in FY2024 state block grants &#8211; Governor Rudimch The reduced loan request of $10M was approved&#8230; You must be logged in and subscribed to view this content. 
+No pay raise mentioned in FY2024 state block grants &#8211; Governor Rudimch The reduced loan request of $10M was approved&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7615>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7615">https://www.tiabelaunews.com/?p=7615</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7615">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1886,9 +2774,13 @@ No pay raise mentioned in FY2024 state block grants &#8211; Governor Rudimch The
 
 date: 2023-11-27, from: Tia Belau (Palau's First Newspaper)
 
-Once again in November of each year, Palau top government officials are junketing to Manila to participate in a privately&#8230; You must be logged in and subscribed to view this content. 
+Once again in November of each year, Palau top government officials are junketing to Manila to participate in a privately&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7613>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7613">https://www.tiabelaunews.com/?p=7613</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7613">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1896,9 +2788,13 @@ Once again in November of each year, Palau top government officials are junketin
 
 date: 2023-11-27, from: Tia Belau (Palau's First Newspaper)
 
-The price of the most important commodity in the world and Palau, fuel, fell last week as reflected in the&#8230; You must be logged in and subscribed to view this content. 
+The price of the most important commodity in the world and Palau, fuel, fell last week as reflected in the&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7610>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7610">https://www.tiabelaunews.com/?p=7610</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7610">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1906,9 +2802,13 @@ The price of the most important commodity in the world and Palau, fuel, fell las
 
 date: 2023-11-27, from: Tia Belau (Palau's First Newspaper)
 
-Palau Major League registering teams, to debut first game on Jan.12, 2024 The second Palau baseball league, Palau National Baseball&#8230; You must be logged in and subscribed to view this content. 
+Palau Major League registering teams, to debut first game on Jan.12, 2024 The second Palau baseball league, Palau National Baseball&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7607>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7607">https://www.tiabelaunews.com/?p=7607</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7607">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1916,9 +2816,13 @@ Palau Major League registering teams, to debut first game on Jan.12, 2024 The se
 
 date: 2023-11-27, from: Tia Belau (Palau's First Newspaper)
 
-First in a series of analyses introducing the Palau Development Plan 2023-2026 By Kambes Kesolei The Palau Development Plan, 2023&#8230; You must be logged in and subscribed to view this content. 
+First in a series of analyses introducing the Palau Development Plan 2023-2026 By Kambes Kesolei The Palau Development Plan, 2023&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7604>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7604">https://www.tiabelaunews.com/?p=7604</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7604">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1926,9 +2830,13 @@ First in a series of analyses introducing the Palau Development Plan 2023-2026 B
 
 date: 2023-11-27, from: Tia Belau (Palau's First Newspaper)
 
-By Kambes Kesolei Government retirees and current employees are being urged to engage with their elected officials, including members of&#8230; You must be logged in and subscribed to view this content. 
+By Kambes Kesolei Government retirees and current employees are being urged to engage with their elected officials, including members of&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7601>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7601">https://www.tiabelaunews.com/?p=7601</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7601">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1936,9 +2844,13 @@ By Kambes Kesolei Government retirees and current employees are being urged to e
 
 date: 2023-11-27, from: Tia Belau (Palau's First Newspaper)
 
-These promising young future archaeologists from Palau High School were able to share their ideas and present their special project&#8230; You must be logged in and subscribed to view this content. 
+These promising young future archaeologists from Palau High School were able to share their ideas and present their special project&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7598>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7598">https://www.tiabelaunews.com/?p=7598</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7598">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1946,9 +2858,13 @@ These promising young future archaeologists from Palau High School were able to 
 
 date: 2023-11-27, from: Tia Belau (Palau's First Newspaper)
 
-By Kambes Kesolei The Palau Stablecoin (PSC) pilot project, which concluded in September, has received a favorable response from both&#8230; You must be logged in and subscribed to view this content. 
+By Kambes Kesolei The Palau Stablecoin (PSC) pilot project, which concluded in September, has received a favorable response from both&#8230; You must be logged in and subscribed to view this content.
 
-<https://www.tiabelaunews.com/?p=7595>
+<span>
+<a href="https://www.tiabelaunews.com/?p=7595">https://www.tiabelaunews.com/?p=7595</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.tiabelaunews.com/?p=7595">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1956,9 +2872,13 @@ By Kambes Kesolei The Palau Stablecoin (PSC) pilot project, which concluded in S
 
 date: 2023-11-27, from: Pacific Island Times
 
-The Australia-Tuvalu ‘falepili’ strategy is bullish and most alarming. The initiative was never consulted with the people of Tuvalu, nor... 
+The Australia-Tuvalu ‘falepili’ strategy is bullish and most alarming. The initiative was never consulted with the people of Tuvalu, nor...
 
-<https://www.pacificislandtimes.com/post/where-would-tuvalu-stop-auctioning-its-sovereignty-for-money>
+<span>
+<a href="https://www.pacificislandtimes.com/post/where-would-tuvalu-stop-auctioning-its-sovereignty-for-money">https://www.pacificislandtimes.com/post/where-would-tuvalu-stop-auctioning-its-sovereignty-for-money</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/where-would-tuvalu-stop-auctioning-its-sovereignty-for-money">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1966,9 +2886,13 @@ The Australia-Tuvalu ‘falepili’ strategy is bullish and most alarming. The i
 
 date: 2023-11-26, from: Pacific Island Times
 
-By Giff Johnson Majuro (Marianas Variety) -- The Marshall Islands domestic election result shows that as many as one-third of all members... 
+By Giff Johnson Majuro (Marianas Variety) -- The Marshall Islands domestic election result shows that as many as one-third of all members...
 
-<https://www.pacificislandtimes.com/post/marshall-s-election-shows-big-shakeup-in-parliament>
+<span>
+<a href="https://www.pacificislandtimes.com/post/marshall-s-election-shows-big-shakeup-in-parliament">https://www.pacificislandtimes.com/post/marshall-s-election-shows-big-shakeup-in-parliament</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/marshall-s-election-shows-big-shakeup-in-parliament">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1977,7 +2901,15 @@ By Giff Johnson Majuro (Marianas Variety) -- The Marshall Islands domestic elect
 date: 2023-11-26, from: University of Hawaiʻi News
 
 <p><abbr>UH</abbr> is headed to the Division I Women’s Volleyball Championship Tournament for the 30th straight year and 41st overall.</p>
-The post <a href="https://www.hawaii.edu/news/2023/11/25/bows-win-inaugural-big-west-tournament/">‘Bows win inaugural Big West tournament with sweep over Long Beach State</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2023/11/25/bows-win-inaugural-big-west-tournament/">‘Bows win inaugural Big West tournament with sweep over Long Beach State</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
-<https://www.hawaii.edu/news/2023/11/25/bows-win-inaugural-big-west-tournament/>
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/25/bows-win-inaugural-big-west-tournament/">https://www.hawaii.edu/news/2023/11/25/bows-win-inaugural-big-west-tournament/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/25/bows-win-inaugural-big-west-tournament/">Save to Pocket</a>
+</span>
+
+
+
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
 
