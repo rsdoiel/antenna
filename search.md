@@ -13,7 +13,10 @@
             element: "#search",
             showSubResults: true,
             highlightParam: "highlight",
-            bundlePath: "./"
+            bundlePath: "./",
+            mergeIndex: [
+                { bundlePath: "https://rsdoiel.github.io/pagefind" }
+            ]
         });
     });
 </script>
