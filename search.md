@@ -1,9 +1,9 @@
 
 # project search
 
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<link href="./pagefind/pagefind-ui.css" rel="stylesheet">
 
-<script src="/pagefind/pagefind-ui.js"></script>
+<script src="./pagefind/pagefind-ui.js"></script>
 
 <div id="search"></div>
 
@@ -12,7 +12,8 @@
         new PagefindUI({ 
             element: "#search",
             showSubResults: true,
-            highlightParam: "highlight"
+            highlightParam: "highlight",
+            bundlePath: "./"
         });
     });
 </script>

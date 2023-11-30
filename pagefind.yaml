@@ -1,0 +1,10 @@
+exclude_selectors:
+  - ".pocket-btn"
+  - "#search"
+  - "header"
+  - "footer"
+  - "nav"
+  - "menu"
+  - "form"
+  - "script"
+  - "img"

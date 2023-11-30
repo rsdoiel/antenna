@@ -1,4 +1,8 @@
 ---
+title: Weather 2023.41
+---
+
+---
 
 ## SPC Oct 15, 2023 1730 UTC Day 2 Convective Outlook
 

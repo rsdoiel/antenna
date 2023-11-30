@@ -1,4 +1,6 @@
 ---
+title: Mid Central 2023.43
+---
 
 ## Water Polo Coach Makes a Happy Return to Merced
 

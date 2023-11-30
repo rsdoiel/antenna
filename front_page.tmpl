@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="$lang$" xml:lang="$lang$"$if(dir)$ dir="$dir$"$endif$>
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta charset="utf-8" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" >
   $if(title)$<title>$title$</title>$endif$
-  <link rel="stylesheet" type="text/css"  href="webfonts/fonts.css" media="screen" />
-  <link rel="stylesheet" type="text/css"  href="css/site.css" media="screen" />
+  <link rel="stylesheet" type="text/css"  href="webfonts/fonts.css" media="screen" >
+  <link rel="stylesheet" type="text/css"  href="css/site.css" media="screen" >
 </head>
 <body>
 <header>
 	<img class="logo" 
 		src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Antenna_1_-_The_Noun_Project.svg"
 		alt="line art showing an antenna"
-		height="80" width="60" />
-	<h1>The Antenna</h2> 
+		height="80" width="60" >
+	<h1>The Antenna</h1> 
 	<h2>finding signal in the noise</h2>
 </header>
 <nav>
@@ -55,13 +55,13 @@ $endif$
 $endif$
 $body$
 </section>
-<script type="module">
-    await import('/pagefind/pagefind-highlight.js');
-    new PagefindHighlight({ highlightParam: "highlight" });
-</script>
 <footer>
 Antenna is a personal aggregation of items found around the web.
 Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a> with search provided by <a href="https://pagefind.app">PageFind</a>.
 </footer>
+<script type="module">
+    await import('./pagefind/pagefind-highlight.js');
+    new PagefindHighlight({ highlightParam: "highlight" });
+</script>
 </body>
 </html>
