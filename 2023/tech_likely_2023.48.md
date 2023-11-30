@@ -1,5 +1,293 @@
 
-(date: 2023-11-29 08:20:37)
+(date: 2023-11-30 08:10:42)
+
+---
+
+## Chandra Catches Spider Pulsars Destroying Nearby Stars
+
+date: 2023-11-30, from: NASA breaking news
+
+A group of dead&#160;stars&#160;known as “spider pulsars” are obliterating companion stars within their reach. Data from&#160;NASA’s Chandra X-ray Observatory&#160;of the&#160;globular cluster&#160;Omega Centauri is helping astronomers understand how these spider pulsars prey on their stellar companions. A&#160;pulsar&#160;is the spinning dense core that remains after a massive star collapses into itself to form a&#160;neutron star. Rapidly rotating [&#8230;] 
+
+<https://www.nasa.gov/image-article/chandra-catches-spider-pulsars-destroying-nearby-stars/>
+
+---
+
+## Webb Study Reveals Rocky Planets Can Form in Extreme Environments
+
+date: 2023-11-30, from: NASA breaking news
+
+An international team of astronomers has used NASA’s James Webb Space Telescope to provide the first observation of water and other molecules in the highly irradiated inner, rocky-planet-forming regions of a disk in one of the most extreme environments in our galaxy. These results suggest that the conditions for terrestrial planet formation can occur in [&#8230;] 
+
+<https://www.nasa.gov/missions/webb/webb-study-reveals-rocky-planets-can-form-in-extreme-environments/>
+
+---
+
+## PiAutoStage: a universally adaptable microscope stage
+
+date: 2023-11-30, from: Raspberry Pi News (.com)
+
+<p>PiAutoStage uses a Raspberry Pi and a High Quality Camera to iteratively move a microscope stage a little at a time, in order to build a high-resolution image of an entire sample.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/piautostage-a-universally-adaptable-microscope-stage/">PiAutoStage: a universally adaptable microscope stage</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/piautostage-a-universally-adaptable-microscope-stage/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-30, from: Dave Winer's Scripting News)
+
+Chuck came across a <a href="https://cagrimmett.com/tech/2023/11/29/default-apps-2023/">group of bloggers</a> posting detailed lists of apps they use. There's been quite a turnout. Lots of useful info in these posts. 
+
+<http://scripting.com/2023/11/30.html#a143629>
+
+---
+
+## Deputy for Electrified Aircraft Propulsion Integration Joe Connolly
+
+date: 2023-11-30, from: NASA breaking news
+
+“The goal is to get as many of the wrong ideas out of the way as early as possible.&#160; &#8220;So we&#8217;ll come up with some idea, especially on the research side, and sometimes it will seem really brilliant on the napkin or in a conversation with one other person.&#160; &#8220;[When I started working on electric [&#8230;] 
+
+<https://www.nasa.gov/image-article/deputy-for-electrified-aircraft-propulsion-integration-joe-connolly/>
+
+---
+
+## This month in Servo: better floats, :has(), color-mix(), and more!
+
+date: 2023-11-30, from: OS News
+
+Our nightly example browser, servoshell, is now easier to navigate, accepting URLs without http:// or https:// both in the location bar and on the command line, and should no longer lock up when run with --no-minibrowser. Local paths can also be given on the command line, and are still preferred when the path points to a file that exists. Work is now underway to improve our embedding story and prepare Servo for integration with Tauri, starting with precompiled ANGLE for faster initial builds, better support for offscreen rendering, and support for multiple webviews. These changes haven’t landed yet, but once they do, apps will be able to open, move, resize, and interleave Servo with other widgets. I&#8217;m curious what the future will bring to Servo. It seems under very active development, but it&#8217;s not part of any of the main browser projects. Let&#8217;s hope they can keep up the momentum so that it can grow into a viable alternative. Because lord do we need one. 
+
+<https://www.osnews.com/story/137955/this-month-in-servo-better-floats-has-color-mix-and-more/>
+
+---
+
+## Evaluating M3 Pro CPU cores: general performance
+
+date: 2023-11-30, from: OS News
+
+Evaluating the performance of CPUs with identical cores is relatively straightforward, and they’re easy to compare using single- and multi-core benchmarks. When there are two different types of core, one designed primarily for energy efficiency (E), the other for maximum performance (P), traditional benchmarks can readily mislead. Multi-core results are dominated by the ratio of P to E cores, and variable frequency confounds further. In this series of articles, I set out to disentangle these when comparing core performance between Apple’s original M1 Pro and its third-generation M3 Pro chips. This first article explains why and how I am investigating this, and shows overall results for performance and power use under a range of loads. Articles like these will help you make an informed decision about whether or not your workloads can benefit from moving from an M1/M2 to an M3. 
+
+<https://www.osnews.com/story/137953/evaluating-m3-pro-cpu-cores-general-performance/>
+
+---
+
+## Experience AI: Making AI relevant and accessible
+
+date: 2023-11-30, from: Raspberry Pi (.org)
+
+<p>Google DeepMind’s Aimee Welch discusses our partnership on the Experience AI learning programme and why equal access to AI education is key. This article also appears in issue 22 of Hello World on teaching and AI. From AI chatbots to self-driving cars, artificial intelligence (AI) is here and rapidly transforming our world. It holds the&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/experience-ai-equal-access-ai-education/">Experience AI: Making AI relevant and accessible</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/experience-ai-equal-access-ai-education/>
+
+---
+
+## My 2023 Spotify Wrapped
+
+date: 2023-11-30, from: Jessica Smith's blog
+
+<p>OK, I bothered opening up Spotify on my phone to check out my actual Wrapped. Fun discoveries:</p>
+<ol>
+<li>“Permanent wave” is apparently a genre that exists. And it’s my 3rd most listened to this year.</li>
+<li>Apparently the city whose music taste most closely resembles mine is Perth 😆</li>
+<li>I am in the top 0.1% of The Twilight Sad listeneners 👑</li>
+<li>Placebo/their management <abbr title="Couldn't Be Fucked">CBF</abbr> uploading a proper &ldquo;artist message&rdquo; but didn’t <em>just not</em> either, so they uploaded a soundless compilation of clips from their concerts</li>
+<li>Spotify labelled my listening pattern as “Hypnotist” because I “like to play albums the whole way through”</li>
+</ol>
+<p>Because I use Last.fm there were no surprises with regard to my top artists or anything. I think my favourite feature was the artist messages, at least the ones who seemed earnest and not totally phoning it in. I was excited Alexandra Savior said she had new music coming &ldquo;very, very soon&rdquo;, because the other day I read a 2021 interview with her where she said much the same thing and was like, “…where did it go?”</p>
+<p>I guess next year should be back to my Spotify Wrapped being a bit more surprising (read: not identical to my Last.fm stats) because I&rsquo;m trying to go back to cultivating my own music collection and listening to it via Plexamp (but still using Spotify somewhat for breadth and discovery). That&rsquo;ll be a fun journey.</p>
+<figure><img src="https://www.jayeless.net/media/2023/11/spotify-wrapped.png"
+         alt="My Spotify Wrapped 2023 summary slide. Top Artists: The Twilight Sad, Black Rebel Motorcycle Club, Placebo, Editors, The National. Top Songs: I/m Not Here [Missing Face], I Became a Prostitute, There’s a Girl in the Corner, The Bitter End, Red Eyes and Tears. Minutes Listened: 60,037. Top Genre: Rock."/>
+</figure> 
+
+<https://www.jayeless.net/2023/11/2023-spotify-wrapped.html>
+
+---
+
+## Discovery Alert: Watch the Synchronized Dance of a 6-Planet System
+
+date: 2023-11-30, from: NASA breaking news
+
+Six “sub-Neptune” exoplanets orbit their star in a kind of rhythmic dance – one easily set to music. 
+
+<https://science.nasa.gov/missions/tess/discovery-alert-watch-the-synchronized-dance-of-a-6-planet-system/>
+
+---
+
+## Little Googles Everywhere
+
+date: 2023-11-30, from: Peter Warden
+
+Imagine asking a box on a pillar at Home Depot “Where are the nails?” and getting directions, your fridge responding with helpful advice when you say “Why is the ice maker broken?”, or your car answering “How do I change the wiper speed?”. I think of these kinds of voice assistants for everyday objects as [&#8230;] 
+
+<https://petewarden.com/2023/11/30/little-googles-everywhere/>
+
+---
+
+**@Jessica Smith's blog** (date: 2023-11-30, from: Jessica Smith's blog)
+
+<p>So I&rsquo;m doing the &ldquo;let the Spotify DJ walk you through your 2023 Wrapped&rdquo; thing, and the very first song was&hellip; Interpol&rsquo;s &ldquo;Leif Erikson&rdquo;, which I think I would&rsquo;ve listened to exactly two times all year (when I listened to the whole album) if Spotify didn&rsquo;t insist on cramming it into every single &ldquo;songs it goes on to when an album finishes&rdquo; set.</p>
+<p>Also, so far, every other one of my &ldquo;top songs&rdquo; this year has been by Interpol too. But maybe that&rsquo;s just the DJ organising my &ldquo;top songs&rdquo; by artist or something. Interpol still isn&rsquo;t exactly where I&rsquo;d have started, though (they rank 7th for my year up to 15 Nov, according to Last.fm).</p> 
+
+<https://www.jayeless.net/2023/11/spotify-wrapped-dj.html>
+
+---
+
+## The Marshall Star for November 29, 2023
+
+date: 2023-11-29, from: NASA breaking news
+
+Artemis II Crew Enjoys Visit with Marshall Team Members By Wayne Smith From talking about continuing the legacy of NASA’s Marshall Space Flight Center in space exploration to describing their roles in an upcoming historic mission, Artemis II astronauts enjoyed visiting with center team members Nov. 27. The crew will be the first to ride [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-november-29-2023/>
+
+---
+
+## NASA Remembers Trailblazing Astronaut, Scientist Mary Cleave
+
+date: 2023-11-29, from: NASA breaking news
+
+Retired NASA astronaut Mary Cleave, a veteran of two NASA spaceflights, died Nov. 27. She was 76. A scientist with training in civil and environmental engineering, as well as biological sciences and microbial ecology, Cleave was the first woman to serve as an associate administrator for NASA’s Science Mission Directorate. Born in Southampton, New York, [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-remembers-trailblazing-astronaut-scientist-mary-cleave/>
+
+---
+
+## NASA Tests In-Flight Capability of Artemis Moon Rocket Engine
+
+date: 2023-11-29, from: NASA breaking news
+
+NASA conducted the third RS-25 engine hot fire in a critical 12-test certification series Nov. 29, demonstrating a key capability necessary for flight of the SLS (Space Launch System) rocket during Artemis missions to the Moon and beyond. NASA is conducting the series of tests to certify new manufacturing processes for producing RS-25 engines for [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/stennis/nasa-tests-in-flight-capability-of-artemis-moon-rocket-engine/>
+
+---
+
+## NASA’s Hubble Space Telescope Pauses Science Due to Gyro Issue
+
+date: 2023-11-29, from: NASA breaking news
+
+NASA is working to resume science operations of the agency’s Hubble Space Telescope after it entered safe mode Nov. 23 due to an ongoing gyroscope (gyro) issue. Hubble’s instruments are stable, and the telescope is in good health. The telescope automatically entered safe mode when one of its three gyroscopes gave faulty readings. The gyros […] 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-space-telescope-pauses-science-due-to-gyro-issue/>
+
+---
+
+## GitHub Code Search Now Requires Logging In
+
+date: 2023-11-29, from: Michael Tsai
+
+koepnick (via Hacker News): This is revolting and an anathema to the open source movement. A movement, I might add, Microsoft is abusing here.We&#8217;re told that this is for security&#8230; But what possible point is there when I can simply clone the repository and use more dedicated tools for proper searching and analysis?So what possible [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/29/github-code-search-now-requires-logging-in/>
+
+---
+
+## AirJet
+
+date: 2023-11-29, from: Michael Tsai
+
+Roman Loyola (via Hacker News): Since the MacBook Air doesn&#8217;t have a fan for the SoC, its performance will throttle down during processor-intensive work to maintain a proper operating temperature. The M2 13-inch MacBook Pro, on the other hand, has a fan that expels excessive heat so the chip can keep chugging along. The AirJet [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/29/airjet/>
+
+---
+
+## Most Compatible With Google Chrome
+
+date: 2023-11-29, from: Michael Tsai
+
+Catalin Cimpanu (2019, via Hacker News): A former high-ranking Mozilla executive has accused Google of intentionally and systematically sabotaging Firefox over the past decade in order to boost Chrome&#8217;s adoption.He is not the first Firefox team member to come forward and make such accusations in the past eight months; however, his allegations span far beyond [&#8230;] 
+
+<https://mjtsai.com/blog/2023/11/29/most-compatible-with-google-chrome/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-11-29, from: Dave Winer's Scripting News)
+
+I'm always doing test posts on this blog. This is one of those times. 
+
+<http://scripting.com/2023/11/29.html#a202526>
+
+---
+
+## Amstrad CPC 6128
+
+date: 2023-11-29, from: Computer ads from the Past
+
+When you've already made the best home computer, what do you do for an encore? 
+
+<https://computeradsfromthepast.substack.com/p/amstrad-cpc-6128>
+
+---
+
+## Announcing the New Heliophysics Division Director
+
+date: 2023-11-29, from: NASA breaking news
+
+November 29, 2023 NASA has selected Dr. Joseph Westlake to fill the position of Heliophysics Division Director. Joe will join the Science Mission Directorate and assume his new role on Jan. 16, 2024.  I am pleased to have Joe take on the role as the Heliophysics Division Director. Joe has a strong background in heliophysics […] 
+
+<https://science.nasa.gov/directorates/smd/announcing-the-new-heliophysics-division-director/>
+
+---
+
+## Introducing llamafile
+
+date: 2023-11-29, from: Mozilla Developer Network blog
+
+<p>We're thrilled to announce the first release of llamafile, inviting the open source community to join this groundbreaking project. </p>
+<p>With llamafile, you can effortlessly convert large language model (LLM) weights into executables. Imagine transforming a 4GB file of LLM weights into a binary that runs smoothly on six different operating systems, without requiring installation. </p>
+<p>The post <a href="https://hacks.mozilla.org/2023/11/introducing-llamafile/">Introducing llamafile</a> appeared first on <a href="https://hacks.mozilla.org">Mozilla Hacks - the Web developer blog</a>.</p>
+ 
+
+<https://hacks.mozilla.org/2023/11/introducing-llamafile/>
+
+---
+
+## The Beginnings of a Sunrise
+
+date: 2023-11-29, from: NASA breaking news
+
+City lights stretch across the United States like a string of holiday lights in this image taken from the International Space Station on Nov. 10, 2023. At far left, the lights of Chicago, Illinois, are outlined by Lake Michigan. At far right, the Dallas/Fort Worth metropolitan area shines through the clouds while the sun&#8217;s first [&#8230;] 
+
+<https://www.nasa.gov/image-article/the-beginnings-of-a-sunrise/>
+
+---
+
+## Things I Learned The Hard Way
+
+date: 2023-11-29, from: Tilde.news
+
+<p><a href="https://tilde.news/s/iul3gv/things_i_learned_hard_way">Comments</a></p> 
+
+<https://www.youtube.com/watch?v=bJ0y7Oqr4Zo>
+
+---
+
+## NASA, Small Companies Eye New Cargo Delivery, Heat Shield Technologies
+
+date: 2023-11-29, from: NASA breaking news
+
+Two small businesses are benefitting from NASA’s expertise as they develop heat shield technologies, cargo delivery systems, and new protective materials for spacecraft and space stations in the growing commercial industry of low Earth orbit operations. The two American companies – Canopy Aerospace Inc. of Littleton, Colorado and Outpost Technologies Corp. of Santa Monica, California [&#8230;] 
+
+<https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-small-companies-eye-new-cargo-delivery-heat-shield-technologies/>
+
+---
+
+## AI rendering of my blog spec
+
+date: 2023-11-29, from: Dave Winer's Scripting News
+
+<p>I'm finally happy with the next iteration of Scripting News. It'll be quite a bit simpler than what I demo'd over the weekend. </p>
+<p>For comic relief, I asked my friend ChatGPT, to draw a rendering of my new design, based on these instructions. </p>
+<p><i>i want you to draw me a picture of the user interface of my blog, scripting news, as i describe it here. there are four tabs: blog, links, bloggers and about. below the tabs is a display area, where the content of the selected tab is displayed. above the tabs, across the whole width of the window is an artistic picture, with the big letters SCRIPTING NEWS overlaying it. Just below is the site slogan, "it's even worse than it appears." In your drawing the picture behind the letters should be of a hippie band playing in golden gate park. have fun!</i></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2023/11/29/chatgptscriptingdesignscreen.png"></center>ChatGPT's rendering of the design.</div></p>
+ 
+
+<http://scripting.com/2023/11/29/161252.html?title=aiRenderingOfMyBlogSpec>
 
 ---
 
@@ -36,7 +324,7 @@ In May 2018, a student at Mill Springs Academy in Alpharetta, Georgia, Andrew Ma
 
 **@Dave Winer's Scripting News** (date: 2023-11-29, from: Dave Winer's Scripting News)
 
-I've heard ActivityPub described as <a href="http://scripting.com/2022/07/12/170955.html?title=twoWayRss">two-way RSS</a>. If so, there are imho more direct ways to arrive at that. I think it's possible to create a federation system that takes a few days to implement. Maybe it doesn't need all the features they've put into ActivityPub. I'm pretty sure a lightweight social network is what's called for now. I know 20 different ventures have started up to do this, but isn't it weird that none of them have built on RSS. That's the only approach imho that has a chance of doing something unique here. I'd rather work with other people, but I'm not into replacing simplicity with something that's not very simple. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/08/04/melo.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've heard ActivityPub described as <a href="http://scripting.com/2022/07/12/170955.html?title=twoWayRss">two-way RSS</a>. If so, there are imho more direct ways to arrive at that. I think it's possible to create a federation system that takes a few days to implement. Maybe it doesn't need all the features they've put into ActivityPub. I'm pretty sure a lightweight social network is what's called for now. I know 20 different ventures have started up to do this, but isn't it weird that none of them have built on RSS. That's the only approach imho that has a chance of doing something unique here. I'd rather work with other people, but I'm not into replacing simplicity with something that's not very simple. 
 
 <http://scripting.com/2023/11/29.html#a135720>
 
@@ -111,7 +399,7 @@ date: 2023-11-29, from: Jeff Geerling blog
 
 date: 2023-11-29, from: Doc Searls (at Harvard), New Old Blog
 
-I&#8217;ve flown 1,500,242 miles with United Airlines. My wife has flown at least a million more. Both of us currently enjoy Premier status, though we&#8217;ve spent much of our time with United at the fancier 1K level. We have also both been lifetime United Club members for (counting&#8230;) thirty-three years. Unlike many passengers of big [&#8230;] 
+I&#8217;ve flown 1,500,242 miles with United Airlines. My wife has flown at least a million more. Both of us currently enjoy Premier status, though we&#8217;ve spent much of our time with United at the fancier 1K level. We are also both lifetime United Club members and have been so for thirty-three years. Unlike many passengers [&#8230;] 
 
 <https://doc.searls.com/2023/11/28/united-dont/>
 

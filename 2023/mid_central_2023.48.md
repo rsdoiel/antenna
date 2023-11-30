@@ -1,5 +1,45 @@
 
-(date: 2023-11-29 08:17:56)
+(date: 2023-11-30 08:07:19)
+
+---
+
+## Review: ‘The Hunger Games: The Ballad of Songbirds and Snakes’ is a worthy addition to the ‘Hunger Games’ universe
+
+date: 2023-11-29, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Suzanne Collins conceived “The Hunger Games” as a metaphor for our divided times. In 2023, that metaphor is stronger than ever, and “The Ballad of Songbirds and Snakes” uses it to great effect, despite certain changes from the book. Lionsgate’s “The Hunger Games: The Ballad of Songbirds and Snakes,” which released in theaters worldwide on... 
+
+<https://fscollegian.com/2023/11/review-the-hunger-games-the-ballad-of-songbirds-and-snakes-is-a-worthy-addition-to-the-hunger-games-universe/>
+
+---
+
+## Power outage in Speech Arts building leads to evacuation and cancellation of classes
+
+date: 2023-11-29, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Update 10:48 p.m. Nov. 29 Following a power outage and flooding in the Speech Arts building caused by an issue with a hot water line, the building remains closed. &#8220;In regards to an update on the status of restoring power and heat as a result of the hot water line break and flooding of the... 
+
+<https://fscollegian.com/2023/11/power-outage-in-speech-arts-building-leads-to-evacuation-and-cancelation-of-classes/>
+
+---
+
+## Fresno State quarterback Logan Fife announces intention to enter NCAA transfer portal
+
+date: 2023-11-29, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno State quarterback Logan Fife will be entering the NCAA transfer portal when it officially opens on Dec. 4 with two years of eligibility remaining , he announced yesterday in a statement on X (formerly Twitter). Fife’s statement read: “First off I would like to thank God for blessing me with the gifts and abilities... 
+
+<https://fscollegian.com/2023/11/fresno-state-quarterback-logan-fife-announces-intention-to-enter-ncaa-transfer-portal/>
+
+---
+
+## Guest column: An open letter to the students of Fresno State about the faculty ‘Open Letter to President Jiménez-Sandoval’
+
+date: 2023-11-29, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+I am writing this letter in response to the recent “Open Letter to President Saúl Jiménez-Sandoval” about the Hamas/Israel conflict. I believe the letter was unfair to Jiménez-Sandoval, but worse, it was unfair to the students of Fresno State. It should not stand as the only statement by faculty about the war published to the... 
+
+<https://fscollegian.com/2023/11/guest-column-an-open-letter-to-the-students-of-fresno-state-about-the-faculty-open-letter-to-president-jimenez-sandoval/>
 
 ---
 

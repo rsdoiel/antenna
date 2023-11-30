@@ -1,5 +1,429 @@
 
-(date: 2023-11-29 08:18:27)
+(date: 2023-11-30 08:08:18)
+
+---
+
+## AMIM resolution honors new UOG president
+
+date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
+
+THE Association of Mariana Islands Mayors, Vice Mayors and Municipal Council Members unanimously adopted AMIM Resolution No. 2023-28-01 to recognize and congratulate University of Guam President Dr. Anita Borja-Enriquez on the occasion of her investiture at the Calvo Field House in Mangilao, Guam, on Nov. 14, 2023, and for her exemplary leadership and achievement as UOG’s 12th president and 2nd woman president. 
+
+<https://www.mvariety.com/news/community_bulletins/amim-resolution-honors-new-uog-president/article_79c4d632-8f43-11ee-95eb-ebae1c8cf2d0.html>
+
+---
+
+## Kilili:  Santos and Chen winners of this year’s NMI Congressional App Challenge
+
+date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
+
+(Office of the CNMI Congressional Delegate) — Mount Carmel School seniors Paul Santos and Jerry Chen’s winning app called NoteTime has won this year’s NMI Congressional App Challenge. 
+
+<https://www.mvariety.com/lifestyle/kilili-santos-and-chen-winners-of-this-year-s-nmi-congressional-app-challenge/article_c71fb23a-8f39-11ee-981f-3f2442db5a82.html>
+
+---
+
+## Student leaders in STEM
+
+date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
+
+On Wednesday morning, Youth Advisory Panel leaders from Francisco M. Sablan Middle School, Tanapag Middle School, Oleai Elementary School, and Hopwood Middle School participated in several learning activities pertaining to Science, Technology, Engineering and Mathematics. Held in Hopwood Middle School’s cafeteria and facilitated by HMS Science Teacher Shirley Crisostomo, the STEM activities included a rover station, a catapult station, fun-with-numbers and a graphic puzzle station. Interim Commissioner of Education Donna Flores joined the student leaders in their activities to cap the month-long STEM Month celebration of the Public School System. 
+
+<https://www.mvariety.com/news/community_bulletins/student-leaders-in-stem/article_1d159502-8f39-11ee-81c7-5f546332232e.html>
+
+---
+
+## Variety editor’s new book available on amazon.com
+
+date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available on amazon.com/. 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-new-book-available-on-amazon-com/article_ec6e070e-d15b-11ed-a531-4335810003be.html>
+
+---
+
+## Palacios, Apatang to create NMI 902 team
+
+date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios told reporters Thursday that he and Lt. Gov. David M. Apatang will create a CNMI team for Section 902 talks with the U.S. government. 
+
+<https://www.mvariety.com/news/local/palacios-apatang-to-create-nmi-902-team/article_cbf5d45e-8f63-11ee-b073-1391b58427db.html>
+
+---
+
+## MINA conducts Community Recycles Plastic workshop
+
+date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
+
+SEVENTH-DAY Adventist School students and other island residents participated in a free Community Recycles Plastic workshop conducted by the Mariana Islands Nature Alliance on Thursday, Nov. 30, at American Memorial Park. 
+
+<https://www.mvariety.com/news/local/mina-conducts-community-recycles-plastic-workshop/article_52dfdb7e-8f53-11ee-81e2-5bd9859f604e.html>
+
+---
+
+## Tinian local bill becomes law without governor's signature
+
+date: 2023-11-30, updated: 2023-11-30, from: Marianas Variety
+
+HOUSE Local Bill 23-22, which was introduced by House Minority Leader Patrick San Nicolas, is now Tinian Local Law 23-6. It will include Tinian’s Kastiyu agriculture homestead expansion project on the list of the beneficiaries of $140,000 in earned bond interest income appropriated more than two years ago by Tinian Local Law 22-2. 
+
+<https://www.mvariety.com/news/local/tinian-local-bill-becomes-law-without-governors-signature/article_1ef965a4-8f4a-11ee-b164-1fd0b48272ed.html>
+
+---
+
+## Being a Religious One With the Uptick of Religious ‘Nones’
+
+date: 2023-11-30, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+A study by the Associated Press in May concluded that about 30% (in a poll of 1,680) of respondents do not associate with any sort of organized religion in the United States.  This has been a continuing trend across the country, spanning across decades of polls and research. Pew Research Center estimated that, if the... 
+
+<https://thesilversword.com/editorial/2023/11/30/being-a-religious-one-with-the-uptick-of-religious-nones/>
+
+---
+
+## 13 get BAs
+
+date: 2023-11-30, from: Marshal Islands Journal
+
+<p>Thirteen students in the College of the Marshall Islands Bachelor of Arts in Elementary (BAEE) Education program have completed their courses and are waiting to graduate in May next year. They are the sixth cohort to graduate from this program. Faith Lanwi, one of the soon-to-be graduates, says it takes four semesters or two academic [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/13-get-bas/">13 get BAs</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/13-get-bas/>
+
+---
+
+## Suspect allegedly threw rocks at  man, damaged car with machete
+
+date: 2023-11-30, from: The Guam Daily Post
+
+A man was accused of damaging another man's car with a machete and throwing rocks at him. 
+
+<https://www.postguam.com/news/local/suspect-allegedly-threw-rocks-at-man-damaged-car-with-machete/article_5512c504-8f1d-11ee-aea9-bfa7aa7baad0.html>
+
+---
+
+## Man accused of selling meth in 2021 found, in custody in Texas
+
+date: 2023-11-30, from: The Guam Daily Post
+
+A man indicted on federal drug charges in 2021 on Guam was located in Texas. 
+
+<https://www.postguam.com/news/local/man-accused-of-selling-meth-in-2021-found-in-custody-in-texas/article_5a07a7be-8d92-11ee-a236-4f34be5e4b6b.html>
+
+---
+
+## Guam Customs graduates 36 officers
+
+date: 2023-11-30, from: The Guam Daily Post
+
+The Guam Customs and Quarantine Agency now has 36 more officers on duty. 
+
+<https://www.postguam.com/news/local/guam-customs-graduates-36-officers/article_f51bf35e-8f0e-11ee-ba15-77fcb15d9d2e.html>
+
+---
+
+## 2024 declared US-Japan Tourism Year
+
+date: 2023-11-30, from: The Guam Daily Post
+
+Tourism is a two-way street and in 2024 Japan and the United States will be promoting travel between the two countries, to include Guam. 
+
+<https://www.postguam.com/news/local/2024-declared-us-japan-tourism-year/article_c2568028-8f28-11ee-b115-6369aa77d076.html>
+
+---
+
+## Bill seeking to help relieve load shedding fails to make agenda
+
+date: 2023-11-30, from: The Guam Daily Post
+
+Bill 201-37, the measure that would waive certain procurement requirements to facilitate the maintenance, operation and overhaul of specific island generators, failed to make the session agenda Wednesday afternoon. The measure is intended to mitigate load shedding issues by helping… 
+
+<https://www.postguam.com/news/local/bill-seeking-to-help-relieve-load-shedding-fails-to-make-agenda/article_356ea0e0-8f24-11ee-b357-17f20682e1d0.html>
+
+---
+
+## St. John's School attends model UN conference in Philippines
+
+date: 2023-11-30, from: The Guam Daily Post
+
+The International Model United Nations invited nine students from Guam's St. John's School to the 2023 International Model United Nations Conference in Manila, Philippines, which took place from Nov. 8 to Nov. 10. 
+
+<https://www.postguam.com/news/local/st-johns-school-attends-model-un-conference-in-philippines/article_f31db6fa-8743-11ee-893c-935047519103.html>
+
+---
+
+## United Airlines flight attendants rally for better work conditions
+
+date: 2023-11-30, from: The Guam Daily Post
+
+If you’re driving by the Guam International Airport Authority on Friday afternoon, you may come across United Airlines flight attendants rallying for “improved working conditions.” 
+
+<https://www.postguam.com/news/local/united-airlines-flight-attendants-rally-for-better-work-conditions/article_b1f62a16-8f2e-11ee-8dc9-7f64179a08cb.html>
+
+---
+
+## Social media threat cancels classes at school, prompts police response
+
+date: 2023-11-30, from: The Guam Daily Post
+
+An alleged threat made on social media led Harvest Christian Academy to cancel classes Thursday. 
+
+<https://www.postguam.com/news/local/social-media-threat-cancels-classes-at-school-prompts-police-response/article_56ffbc9e-8f29-11ee-b6f9-2b27795df10c.html>
+
+---
+
+## Bill 201 added to agenda, but session ended without addressing it
+
+date: 2023-11-30, from: The Guam Daily Post
+
+Lawmakers adjourned session Thursday without debating Bill 201-37, despite placing the measure on agenda less than half an hour before adjourning. Now that session has ended, a new agenda will need to be made for lawmakers to address next session,… 
+
+<https://www.postguam.com/news/local/bill-201-added-to-agenda-but-session-ended-without-addressing-it/article_d6f6d542-8f45-11ee-802c-b3d93f6a25ed.html>
+
+---
+
+## Ebeye team tracks water safety
+
+date: 2023-11-30, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Even limited to a four-man team, the Environmental Protection Authority on Ebeye continues to ensure drinking water is safe for public consumption on top of its many tasks. Ebeye’s miniature stature EPA (compared to Majuro) is an advantage for the EPA crew when it comes to conducting water quality tests, which EPA does [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/ebeye-team-tracks-water-safety/">Ebeye team tracks water safety</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/ebeye-team-tracks-water-safety/>
+
+---
+
+## KA’I Program Changes Lives
+
+date: 2023-11-30, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+Aisea Toetu&#8217;u was a sixth grader at Jarrett Middle School with dreams of playing college football on the mainland when he was asked to join the KA&#8217;I Program. The program helped pave the way for him to succeed in Kaiser High School and eventually pursue his love for football in college. He was accepted to... 
+
+<https://thesilversword.com/features/2023/11/29/kai-program-changes-lives/>
+
+---
+
+## US pride in Aur service
+
+date: 2023-11-30, from: Marshal Islands Journal
+
+<p>JACOB WOITZEL* US Navy and Marshallese medical personnel delivered a joint effort to eliminate tuberculosis in Aur Atoll during the Pacific Partnership visit earlier this month. “Together, with our Marshallese partners, we are testing all residents of Aur for tuberculosis, and also starting treatment for those who tested positive,” said Lt. Hoel Rupert David, officer [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/us-pride-in-aur-service/">US pride in Aur service</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/us-pride-in-aur-service/>
+
+---
+
+## Koror chiefs to host next meet with Rubekul Belau
+
+date: 2023-11-30, from: Tia Belau (Palau's First Newspaper)
+
+The next meeting of the Palau Council of Chiefs with the state’s traditional leaders of Koror will be the most&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7634>
+
+---
+
+## Taman acquitted by Philippine appeal court
+
+date: 2023-11-30, from: Tia Belau (Palau's First Newspaper)
+
+Mike Taman who was convicted of transport of illegal drugs, methamphetamine, also known earlier as shabu, this year by the&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7631>
+
+---
+
+## Palau joins UNIDO and INTERPOL
+
+date: 2023-11-30, from: Tia Belau (Palau's First Newspaper)
+
+Palau is now represented in the United Nations Industrial Development Organization (UNIDO) becoming the 190th member and joined the International&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7628>
+
+---
+
+## U.S. Coast Guard enhances partnership and security commitments with Palau during recent JCM alongside Joint Region Marianas
+
+date: 2023-11-30, from: Tia Belau (Palau's First Newspaper)
+
+Story by Chief Warrant Officer Sara Muir, U.S. Coast Guard Forces Micronesia / Sector Guam Nov. 28, 2023, SANTA RITA,&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7625>
+
+---
+
+## SKH medical team November mission to Palau
+
+date: 2023-11-30, from: Tia Belau (Palau's First Newspaper)
+
+In November, the SKH International HealthCare Center (SKH) dispatched to Palau a medical team comprised of Dr. Wei Ying Lun&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7622>
+
+---
+
+## PVA estimates about 40,000 tourists in 2023
+
+date: 2023-11-30, from: Tia Belau (Palau's First Newspaper)
+
+Less than half of the 93,723 that visited the country in the pre-covid 2019 By Kambes Kesolei The Palau Visitors&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7620>
+
+---
+
+## Operation Christmas Drop 2023
+
+date: 2023-11-30, from: Tia Belau (Palau's First Newspaper)
+
+The spirit of giving takes to the skies beginning on Dec. 3 from Andersen Air Force Base, Guam, as the&#8230; You must be logged in and subscribed to view this content. 
+
+<https://www.tiabelaunews.com/?p=7618>
+
+---
+
+## Rise of microplastics discovered in placentas of Hawaiʻi mothers
+
+date: 2023-11-30, from: University of Hawaiʻi News
+
+<p>The study examined placentas donated by women who delivered in <span aria-label="Hawaii">Hawai&#699;i</span> from 2006 to 2021.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/29/rise-of-microplastics-in-placentas/">Rise of microplastics discovered in placentas of Hawaiʻi mothers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/29/rise-of-microplastics-in-placentas/>
+
+---
+
+## USP, Cisco, and Telecom Fiji Partner to Help Bridge the Digital Divide in the Pacific Islands
+
+date: 2023-11-30, from: University of the South Pacific (Fiji)
+
+<p>Suva, Fiji, Nov. 30, 2023 – The University of South Pacific (USP), a public research...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/37223/">USP, Cisco, and Telecom Fiji Partner to Help Bridge the Digital Divide in the Pacific Islands</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacfic</a>.</p>
+ 
+
+<https://www.usp.ac.fj/news/37223/>
+
+---
+
+## UH men’s volleyball 2024 schedule announced
+
+date: 2023-11-30, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> Rainbow Warriors will host the Big West Conference tournament as part of the men's volleyball schedule in 2024.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/29/mens-volleyball-2024-schedule/"><abbr>UH</abbr> men’s volleyball 2024 schedule announced</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/29/mens-volleyball-2024-schedule/>
+
+---
+
+## GPD respond to terroristic conduct complaint at Harvest this morning
+
+date: 2023-11-29, from: The Guam Daily Post
+
+Police are attending to a terroristic conduct complaint at Harvest Christian Academy in Toto this morning. 
+
+<https://www.postguam.com/news/gpd-respond-to-terroristic-conduct-complaint-at-harvest-this-morning/article_0331638a-8f0e-11ee-ae5c-37a45533ce85.html>
+
+---
+
+## Serena Williams: It's OK not to be OK
+
+date: 2023-11-29, from: Pacific Daily News
+
+Serena Williams has taken to social media to discuss her mental health. 
+
+<https://www.guampdn.com/lifestyle/entertainment/serena-williams-its-ok-not-to-be-ok/article_7e8617a3-f10f-541b-a129-b3de6abc1b5a.html>
+
+---
+
+## Gigi Hadid is my angel, says Tan France
+
+date: 2023-11-29, from: Pacific Daily News
+
+Tan France has described Gigi Hadid - his 'Next in Fashion' co-star - as his "angel". 
+
+<https://www.guampdn.com/lifestyle/entertainment/gigi-hadid-is-my-angel-says-tan-france/article_821fb3d7-aa15-5158-9a54-34c9b2670302.html>
+
+---
+
+## Brian Austin Green hails 'strong' and 'honest' Shannen Doherty
+
+date: 2023-11-29, from: Pacific Daily News
+
+Brian Austin Green has heaped praise on Shannen Doherty, describing her as "strong" and "honest". 
+
+<https://www.guampdn.com/lifestyle/entertainment/brian-austin-green-hails-strong-and-honest-shannen-doherty/article_6d41a7e8-670d-503b-9c99-bdb0681ea21b.html>
+
+---
+
+## Music makes me feel less alone, says Olivia Rodrigo
+
+date: 2023-11-29, from: Pacific Daily News
+
+Olivia Rodrigo has revealed that she feels "less alone" when she's writing music. 
+
+<https://www.guampdn.com/lifestyle/entertainment/music-makes-me-feel-less-alone-says-olivia-rodrigo/article_45096f5f-1c93-5162-93b5-391c5045067c.html>
+
+---
+
+## Emilie A. Villanueva
+
+date: 2023-11-29, from: Pacific Daily News
+
+Emilie A. Villanueva 
+
+<https://www.guampdn.com/emilie-a-villanueva/image_e4fee0b4-8f0c-11ee-a8a1-230ac8f04f5e.html>
+
+---
+
+## 50 Cent Offers to Buy Revolt From Diddy Amid Sexual Assault Lawsuits
+
+date: 2023-11-29, from: Pacific Daily News
+
+50 Cent Offers to Buy Revolt From Diddy , Amid Sexual Assault Lawsuits. On Nov. 28, it was announced that Sean "Diddy" Combs would be stepping down as chairman of Revolt as he faces sexual assault lawsuits against him. While&#8230; 
+
+<https://www.guampdn.com/lifestyle/entertainment/50-cent-offers-to-buy-revolt-from-diddy-amid-sexual-assault-lawsuits/video_cd8273e7-9a9f-5e80-8645-6894315ccb3a.html>
+
+---
+
+## Thompson School dean leads publication in federal push for healthcare equity
+
+date: 2023-11-29, from: University of Hawaiʻi News
+
+<p>The special issue of <em>Health Services Research</em> provides a framework for federal agencies and the broader health service research community.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/29/healthcare-equity-federal-push/">Thompson School dean leads publication in federal push for healthcare equity</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/29/healthcare-equity-federal-push/>
+
+---
+
+## Youth proud to vote
+
+date: 2023-11-29, from: Marshal Islands Journal
+
+<p>WILMER JOEL Election day in the Marshall Islands saw a varied turnout of voters. From seven in the morning until seven in the evening on Monday, young and old Marshallese voters waited at the polling stations. Throughout the day, there were fluctuations in voter turnout, but some polling stations, such as Maloelap, Namo, Aur, Arno, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/youth-proud-to-vote/">Youth proud to vote</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<https://marshallislandsjournal.com/youth-proud-to-vote/>
+
+---
+
+## UH News Image of the Week: Relief letter print
+
+date: 2023-11-29, from: University of Hawaiʻi News
+
+<p>This week's image is from Leeward Community College's Donald Carreira Ching.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/29/uh-news-image-of-the-week-relief-letter-print/"><abbr>UH</abbr> News Image of the Week: Relief letter print</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2023/11/29/uh-news-image-of-the-week-relief-letter-print/>
 
 ---
 
@@ -100,6 +524,46 @@ date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
 NICK Leon Guerrero clinched the Amigos Golf Club’s December Ace of the Month title on Sunday at the Laolao Bay Golf &amp; Resort east course. 
 
 <https://www.mvariety.com/sports/localsports/nick-leon-guerrero-is-amigos-december-ace/article_9dee56f8-8e73-11ee-8941-0fbc4db3146d.html>
+
+---
+
+## Drop-off and pick up locations for Hopwood
+
+date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
+
+(Department of Public Safety) — DPS would like to inform our community that we will continue to monitor the entry and exit points of Hopwood Middle School during this week. Our top priority is the safety of our students, staff, and bus drivers, so we kindly ask you to follow the guidelines below: 
+
+<https://www.mvariety.com/news/community_bulletins/drop-off-and-pick-up-locations-for-hopwood/article_ba9e0b48-8ec5-11ee-8d6d-0bb0dd7fbd3a.html>
+
+---
+
+## NMC board chair appointed to Diversity, Equity, and Inclusion Committee
+
+date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
+
+(NMC) — Northern Marianas College Board of Regents Chairman Charles V. Cepeda has been appointed by the Association of Community College Trustees Chairman, Jay Nardini, to serve on the ACCT Diversity, Equity, and Inclusion Committee. 
+
+<https://www.mvariety.com/news/community_bulletins/nmc-board-chair-appointed-to-diversity-equity-and-inclusion-committee/article_1dbe39dc-8ec6-11ee-a439-03d3cd5a1d89.html>
+
+---
+
+## Stallion Battalion participates in Veterans Day ceremony
+
+date: 2023-11-29, updated: 2023-11-29, from: Marianas Variety
+
+TINIAN — On Nov. 11, 2023, Veterans Day, the Tinian Stallion Battalion marched together as a unit to honor the veterans who have served this country. Along with the U.S. and CNMI colors, cadets marched with the U.S. armed forces service flags and eight U.S. state flags. 
+
+<https://www.mvariety.com/news/community_bulletins/stallion-battalion-participates-in-veterans-day-ceremony/article_108b3b44-8ec5-11ee-b2cb-3f3ab8d513c0.html>
+
+---
+
+## Being optimistic in life could help protect against dementia
+
+date: 2023-11-29, from: The Guam Daily Post
+
+Those who had negative traits were more at risk of developing dementia. 
+
+<https://www.postguam.com/lifestyles/health/being-optimistic-in-life-could-help-protect-against-dementia/article_6c734972-5cd6-582f-8659-a02fe8504377.html>
 
 ---
 
