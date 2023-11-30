@@ -23,7 +23,7 @@ HTML_PAGES=$(shell ls -1 *.md | sed -E "s/.md/.html/")
 #
 # build, the start of the rules to build the site
 #
-build: socal_north mid_central pacific tech_likely weather archives $(HTML_PAGES) pagefind
+build: socal_north mid_central pacific tech_likely columns weather archives $(HTML_PAGES) pagefind
 
 %.html: %.md front_page.tmpl
 	pandoc -f markdown -t html5 \
@@ -33,6 +33,7 @@ build: socal_north mid_central pacific tech_likely weather archives $(HTML_PAGES
 	       --metadata pacific_page="pacific.html" \
 	       --metadata socal_north_page="socal_north.html" \
 	       --metadata tech_likely_page="tech_likely.html" \
+	       --metadata columns_page="columns.html" \
 	       --metadata weather_page="weather.html" \
 		   --template front_page.tmpl \
 		   $< \
@@ -54,6 +55,7 @@ mid_central.html: mid_central.md front_page.tmpl
 	       --metadata socal_north_page="socal_north.html" \
 	       --metadata pacific_page="pacific.html" \
 	       --metadata tech_likely_page="tech_likely.html" \
+	       --metadata columns_page="columns.html" \
 	       --metadata weather_page="weather.html" \
 	       --metadata urls_file="mid_central.txt" \
 		   --template front_page.tmpl \
@@ -77,6 +79,7 @@ tech_likely.html: tech_likely.md front_page.tmpl
 	       --metadata socal_north_page="socal_north.html" \
 	       --metadata pacific_page="pacific.html" \
 	       --metadata tech_likely_page="tech_likely.html" \
+	       --metadata columns_page="columns.html" \
 	       --metadata weather_page="weather.html" \
 	       --metadata urls_file="tech_likely.txt" \
 		   --template front_page.tmpl \
@@ -89,6 +92,30 @@ tech_likely.md: tech_likely.skim tech_likely.txt
 
 tech_likely.txt: tech_likely.skim
 
+columns: columns.html
+
+columns.html: columns.md front_page.tmpl
+	pandoc -f markdown -t html5 \
+	       --lua-filter=links-to-html.lua \
+	       --metadata title="Columns, vol. $(VOL_NO)" \
+	       --metadata feed_name="Columns" \
+		   --metadata mid_central_page="mid_central.html" \
+	       --metadata socal_north_page="socal_north.html" \
+	       --metadata pacific_page="pacific.html" \
+	       --metadata tech_likely_page="tech_likely.html" \
+	       --metadata columns_page="columns.html" \
+	       --metadata weather_page="weather.html" \
+	       --metadata urls_file="columns.txt" \
+		   --template front_page.tmpl \
+		   columns.md \
+		   >columns.html
+
+columns.md: columns.skim columns.txt 
+	skim2md columns.skim >columns.md
+	cp columns.md $(YEAR)/columns_$(VOL_NO).md
+
+columns.txt: columns.skim
+
 socal_north: socal_north.html
 
 socal_north.html: socal_north.md front_page.tmpl
@@ -100,6 +127,7 @@ socal_north.html: socal_north.md front_page.tmpl
 	       --metadata socal_north_page="socal_north.html" \
 	       --metadata pacific_page="pacific.html" \
 	       --metadata tech_likely_page="tech_likely.html" \
+	       --metadata columns_page="columns.html" \
 	       --metadata weather_page="weather.html" \
 	       --metadata urls_file="socal_north.txt" \
 		   --template front_page.tmpl \
@@ -123,6 +151,7 @@ pacific.html: pacific.md front_page.tmpl
 	       --metadata socal_north_page="socal_north.html" \
 	       --metadata pacific_page="pacific.html" \
 	       --metadata tech_likely_page="tech_likely.html" \
+	       --metadata columns_page="columns.html" \
 	       --metadata weather_page="weather.html" \
 	       --metadata urls_file="pacific.txt" \
 		   --template front_page.tmpl \
@@ -148,6 +177,7 @@ weather.html: weather.md front_page.tmpl
 	       --metadata pacific_page="pacific.html" \
 	       --metadata tech_likely_page="tech_likely.html" \
 	       --metadata weather_page="weather.html" \
+	       --metadata columns_page="columns.html" \
 	       --metadata urls_file="weather.txt" \
 		   --template front_page.tmpl \
 		   weather.md \
@@ -159,6 +189,10 @@ weather.md: weather.skim weather.txt
 
 weather.txt: weather.skim
 
+#
+# Skimmmer database management
+#
+
 tech_likely.skim: .FORCE
 	-skimmer tech_likely.txt
 	sqlite3 tech_likely.skim "UPDATE items SET status = 'read'"
@@ -168,6 +202,11 @@ socal_north.skim: .FORCE
 	-skimmer socal_north.txt
 	sqlite3 socal_north.skim "UPDATE items SET status = 'read'"
 	sqlite3 socal_north.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
+
+columns.skim: .FORCE
+	-skimmer columns.txt
+	sqlite3 columns.skim "UPDATE items SET status = 'read'"
+	sqlite3 columns.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 
 pacific.skim: .FORCE
 	-skimmer pacific.txt
@@ -212,7 +251,11 @@ about.md: .FORCE
 	#@if [ -f _codemeta.json ]; then rm _codemeta.json; fi
 
 pagefind: .FORCE
-	pagefind --verbose --output-path ./pagefind --site .
+	pagefind \
+	--verbose \
+	--exclude-selectors "nav,menu,header,footer" \
+	--force-language en \
+	--site .
 	git add pagefind
 
 #clean-website:

@@ -23,6 +23,7 @@
 	<li><a href="pacific.html" title="News from Micronesia and Pacific">Pacific</a></li>
 	<li><a href="mid_central.html" title="news from Mid Central California">Mid Central</a></li>
 	<li><a href="tech_likely.html" title="likely tech news fed but other stuff happens too">Tech Likely</a></li>
+	<li><a href="../columns.html" title="blogs I read like columnists">Columns</a></li>
 	<li><a href="weather.html" title="U.S. National Weather">Weather</a></li>
 	<li><a href="2023/">Archives</a></li>
 	<li><a href="search.html">Search</a></li>
@@ -75,9 +76,13 @@ the skimmer database used to generate the page.</p>
 <li><a href="weather.txt">Weather</a> URLs</li>
 </ul>
 </section>
+<script type="module">
+    await import('/pagefind/pagefind-highlight.js');
+    new PagefindHighlight({ highlightParam: "highlight" });
+</script>
 <footer>
 Antenna is a personal aggregation of items found around the web.
-Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a>.
+Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a> with search provided by <a href="https://pagefind.app">PageFind</a>.
 </footer>
 </body>
 </html>

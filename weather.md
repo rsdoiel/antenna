@@ -1,82 +1,101 @@
 
-(date: 2023-11-29 08:20:39)
+(date: 2023-11-30 08:10:52)
 
 ---
 
 ## There are no tropical cyclones at this time.
 
-date: 2023-11-29, from: Eastern Pacific Basin GIS Data
+date: 2023-11-30, from: Eastern Pacific Basin GIS Data
 
-No tropical cyclones as of Wed, 29 Nov 2023 16:09:19 GMT 
+No tropical cyclones as of Thu, 30 Nov 2023 15:22:52 GMT 
 
 <https://www.nhc.noaa.gov/gis/>
 
 ---
 
-## SPC - No watches are valid as of Wed Nov 29 14:41:02 UTC 2023
+## SPC - No watches are valid as of Thu Nov 30 14:37:01 UTC 2023
 
-date: 2023-11-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-11-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Wed Nov 29 14:41:02 UTC 2023. 
+No watches are valid as of Thu Nov 30 14:37:01 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Wed Nov 29 14:41:02 UTC 2023
+## SPC - No MDs are in effect as of Thu Nov 30 14:37:01 UTC 2023
 
-date: 2023-11-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-11-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Wed Nov 29 14:41:02 UTC 2023. 
+No Mesoscale Discussions are in effect as of Thu Nov 30 14:37:01 UTC 2023. 
 
 <https://www.spc.noaa.gov/products/md/>
 
 ---
 
-## SPC Nov 29, 2023 1300 UTC Day 1 Convective Outlook
+## SPC Nov 30, 2023 1300 UTC Day 1 Convective Outlook
 
-date: 2023-11-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-11-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0657 AM CST Wed Nov 29 2023
+0704 AM CST Thu Nov 30 2023
 
-Valid 291300Z - 301200Z
+Valid 301300Z - 011200Z
 
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS
+SOUTHEAST TEXAS...
 
 ...SUMMARY...
-Organized severe thunderstorms are not expected through tonight.
+Scattered severe thunderstorms are possible today especially over
+southeast Texas. A few tornadoes will be possible, along with hail
+and isolated damaging wind gusts. Farther north, hail along with a
+few strong wind gusts will also be possible across parts of
+East/North Texas and southern Oklahoma.
 
-...West...
-A few thunderstorms will remain possible today offshore and near
-central/southern California coastal areas. This will be as a
-shortwave trough and related mid-level cold core progress
-east-southeastward over the region, with minimal buoyancy remaining
-maximized in offshore/near-coastal areas.
+...Central/Eastern Texas and Louisiana...
+A progressive southern-stream shortwave trough centered over
+Arizona/New Mexico in the predawn hours will continue eastward
+toward the southern High Plains, before ejecting more northeastward
+toward the Ozarks/Lower Missouri Valley tonight, with surface
+cyclogenesis in a similar southwest/northeast-oriented corridor
+today.
 
-Farther east, forcing for ascent and mid-level cooling will
-overspread the southern Rockies later today and tonight, with the
-exit region of a 70-80 kt 500 mb jet streak nosing across northern
-Mexico. Scattered weak thunderstorm development is possible during
-the evening into the overnight hours across parts of Arizona and New
-Mexico.
+As this occurs, an increasingly moisture-rich maritime warm sector
+will spread inland along the middle/upper Texas coastal plain toward
+east-central Texas, although source-region trajectories have been
+somewhat deleteriously augmented, at least temporally, by overnight
+convection that developed over the western Gulf of Mexico. 
 
-...Central/East Texas including the Middle Texas Coast...
-Air mass modification will occur today into tonight across the
-western Gulf of Mexico, with increasing low-level moisture from the
-western Gulf of Mexico into the Texas Coastal Plain tonight as a
-30-50 kt southerly low-level develops across a sizable part of
-Texas. It seems likely that a shallow stable layer will persist over
-inland areas, although modest-caliber elevated MUCAPE is expected to
-develop late tonight across central/east Texas, with isolated
-thunderstorm development becoming more probable overnight through
-the predawn hours of Thursday. Although richer maritime air may
-reach lower-middle coastal areas just before daybreak, severe storms
-still appear unlikely through 12z/6am CST Thursday.
+As additional low-level moistening (65-70F surface dewpoints)
+occurs, confluence/convergence should increase within the broadening
+warm sector across southeast/east-central Texas. Curved/relatively
+elongated hodographs will exist today, such as noted in the 12z
+observed sounding from Corpus Christi, TX, where 0-1 km SRH was
+around 180 m2/s2, although a flow weakness and a residual capping
+layer were both noted around 700 mb. Regardless, hodographs will
+further lengthen as 1-3 km AGL (850mb/750mb) southwesterly winds
+strengthen this afternoon. 
 
-..Guyer/Mosier.. 11/29/2023
+This will support an increasing potential for supercells into
+midday/afternoon across southeast/perhaps east-central Texas, with
+associated potential for a few tornadoes aside from thunderstorm
+wind damage and possibly some hail. The potential for severe storms
+including a tornado risk should continue into the evening as a
+convective cluster moves across southeast Texas into southwest
+Louisiana.
+
+...North Texas/Oklahoma...
+Farther north, convection will tend to be elevated with a more
+isolated severe risk in the form of hail and possibly locally
+damaging winds. However, even with limited moisture, a few stronger
+near-surface-based low-topped storms could materialize across
+western north Texas/western Oklahoma in vicinity of the surface
+low/triple point, where a very steep lapse rate environment will
+exist.
+
+..Guyer/Mosier.. 11/30/2023
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -86,41 +105,86 @@ still appear unlikely through 12z/6am CST Thursday.
 
 ---
 
-## Central Pacific Tropical Weather Outlook
+## CPHC Central North Pacific Outlook
 
-date: 2023-11-29, from: Central Pacific Tropical Weather Outlook
+date: 2023-11-30, from: Graphical Tropical Weather Outlooks
 
- <br />
- 000<br />
- ACPN50 PHFO 291137<br />
- TWOCP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS Central Pacific Hurricane Center Honolulu HI<br />
- 200 AM HST Wed Nov 29 2023<br />
- <br />
- For the central North Pacific...between 140W and 180W:<br />
- <br />
- No tropical cyclones are expected during the next 7 days.<br />
- <br />
- The central North Pacific hurricane season officialy ends on <br />
- November 30. The final Tropical Weather Outlook of the season will <br />
- be issued at 8 PM on November 30. Routine issuance of the Tropical <br />
- Weather Outlook will resume on June 1, 2024. During the off-season, <br />
- Special Tropical Weather Outlooks will be issued as conditions <br />
- warrant. <br />
- <br />
- $$<br />
- Forecaster Bohlin<br />
-  
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br />
+TTAA00 PHFO DDHHMM<br />
+<br />
+Tropical Weather Outlook<br />
+NWS Central Pacific Hurricane Center Honolulu HI<br />
+200 AM HST Thu Nov 30 2023<br />
+<br />
+For the central North Pacific...between 140W and 180W:<br />
+<br />
+No tropical cyclones are expected during the next 7 days.<br />
+<br />
+The central North Pacific hurricane season officialy ends on <br />
+November 30. The final Tropical Weather Outlook of the season will <br />
+be issued at 8 PM on November 30. Routine issuance of the Tropical <br />
+Weather Outlook will resume on June 1, 2024. During the off-season, <br />
+Special Tropical Weather Outlooks will be issued as conditions <br />
+warrant. <br />
+<br />
+$$<br />
+Forecaster Jelsema<br />
+NNNN<br />
+<br />
+</div></div><br />
+ 
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=cpac>
 
 ---
 
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2023-11-30, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+893 <br/>
+ABPZ20 KNHC 301124<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+400 AM PST Thu Nov 30 2023<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Papin<br/>
+<br/>
+ 
+
+<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2023-11-30, from: Eastern Pacific Basin Tropical Cyclones
+
+No tropical cyclones as of Thu, 30 Nov 2023 15:22:52 GMT 
+
+<https://www.nhc.noaa.gov/>
+
+---
+
 ## NHC Atlantic Outlook
 
-date: 2023-11-29, from: Graphical Tropical Weather Outlooks
+date: 2023-11-30, from: Graphical Tropical Weather Outlooks
 
 
 <br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
@@ -134,7 +198,7 @@ TTAA00 KNHC DDHHMM<br />
 <br />
 Tropical Weather Outlook<br />
 NWS National Hurricane Center Miami FL<br />
-700 AM EST Wed Nov 29 2023<br />
+700 AM EST Thu Nov 30 2023<br />
 <br />
 For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />
 <br />
@@ -151,70 +215,28 @@ NNNN<br />
 
 ---
 
-## Eastern North Pacific Tropical Weather Outlook
-
-date: 2023-11-29, from: Eastern Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ABPZ20 KNHC 291123<br/>
-TWOEP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS National Hurricane Center Miami FL<br/>
-400 AM PST Wed Nov 29 2023<br/>
-<br/>
-For the eastern North Pacific...east of 140 degrees west longitude:<br/>
-<br/>
-Tropical cyclone formation is not expected during the next 7 days.<br/>
-<br/>
-$$<br/>
-Forecaster Papin<br/>
- 
-
-<https://www.nhc.noaa.gov/gtwo.php?basin=epac>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2023-11-29, from: Eastern Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Wed, 29 Nov 2023 16:09:19 GMT 
-
-<https://www.nhc.noaa.gov/>
-
----
-
 ## SPC Day 3-8 Fire Weather Outlook
 
-date: 2023-11-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-11-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 3-8 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-0320 PM CST Tue Nov 28 2023
+0232 PM CST Wed Nov 29 2023
 
-Valid 301200Z - 061200Z
+Valid 011200Z - 071200Z
 
-A progressive upper-air pattern is expected through the extended
-period, with a series of mid-level troughs traversing the U.S. and
-corresponding surface lee troughs/surface cyclones developing over
-the central Plains. While cool or moist surface conditions will
-limit wildfire-spread potential over most locales, prolonged dry and
-breezy conditions are expected across the central and southern High
-Plains most days. At the moment, the main reasons for not adding
-Critical probabilities this outlook are 1) uncertainty in fuel
-receptiveness, and 2) strength of the larger-scale surface wind
-field. Widespread, appreciable precipitation accumulations may not
-occur across the central/southern High Plains into early next week,
-suggesting that some continued drying of fuels should take place. If
-guidance agreement in overlapping Elevated conditions can persist
-over the next few days, lower-end Critical probabilities may be
-introduced in future outlooks.
+Multiple mid-level troughs will traverse the central and eastern
+CONUS, accompanied by surface lee troughs/cyclones through at least
+Days 5-6/Sunday-Monday, before upper ridging builds into the western
+and central U.S. by mid next week. Before the upper ridging sets in,
+dry downslope flow is likely each day (Friday-Monday) across the
+southern High Plains. Nonetheless, the marginally receptive fuels
+and lack of agreement between medium-range guidance members
+regarding overlapping Elevated-equivalent conditions precludes
+Critical probabilities this outlook.
 
-..Squitieri.. 11/28/2023
+..Squitieri.. 11/29/2023
 
 ...Please see www.spc.noaa.gov/fire for graphic product...
 
@@ -226,43 +248,45 @@ introduced in future outlooks.
 
 ---
 
-## SPC Nov 28, 2023 2000 UTC Day 1 Convective Outlook
+## SPC Nov 29, 2023 2000 UTC Day 1 Convective Outlook
 
-date: 2023-11-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-11-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0146 PM CST Tue Nov 28 2023
+0143 PM CST Wed Nov 29 2023
 
-Valid 282000Z - 291200Z
+Valid 292000Z - 301200Z
 
 ...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Severe thunderstorms are not expected today or tonight.
+Organized severe thunderstorms are not expected through tonight.
 
 ...20z Update...
 
-No changes are needed with the 20z update. A few lightning flashes
-are still expected through early Wednesday along and offshore from
-the central/northern CA coast.
+No changes are needed with the 20z update. See discussion below for
+more forecast info.
 
-..Leitman.. 11/28/2023
+..Leitman.. 11/29/2023
 
-.PREV DISCUSSION... /ISSUED 1026 AM CST Tue Nov 28 2023/
+.PREV DISCUSSION... /ISSUED 1016 AM CST Wed Nov 29 2023/
 
-...Synopsis...
-A midlevel shortwave trough is moving over the Lower Great Lakes
-now, and subtle veering of flow this afternoon will result in
-shorter over-lake fetches and reduced depth/organization to the lake
-effect snow bands.  Given the marginal thermodynamic profiles for
-charge separation, the threat for isolated lightning flashes is
-expected to diminish through the afternoon.  Farther west, a
-midlevel low will move slowly eastward toward the central/northern
-CA coast by early Wednesday.  There may be sufficient
-cooling/moistening of profiles for weak buoyancy and isolated
-lightning flashes near the end of the period along the coast.
+...Southern Rockies to TX tonight...
+As part of a split flow regime, a midlevel shortwave trough now
+approaching southern CA will continue eastward to southern NM/far
+west TX by early Thursday morning.  Isolated thunderstorms will also
+be possible this evening into tonight across the higher terrain of
+northern/eastern AZ into western NM as sufficient midlevel
+cooling/moistening contributes to weak buoyancy within the left exit
+region of the mid-upper jet.  Overnight, a modifying Gulf of Mexico
+air mass will return northward to near the lower/middle TX coast at
+the surface, and aloft into north/northeast TX.  There will be
+sufficient destabilization aloft to support elevated thunderstorms
+in a strengthening warm advection regime, mainly 08-12z.  Any severe
+threat will likely be delayed until early in the day 2 forecast
+period.
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -274,34 +298,43 @@ lightning flashes near the end of the period along the coast.
 
 ## SPC Day 2 Fire Weather Outlook
 
-date: 2023-11-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-11-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 2 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-0142 PM CST Tue Nov 28 2023
+0129 PM CST Wed Nov 29 2023
 
-Valid 291200Z - 301200Z
+Valid 301200Z - 011200Z
 
 ...NO CRITICAL AREAS...
 
 The previous forecast remains on track, with no changes or additions
 made. Please see the previous forecast below for more details.
 
-..Squitieri.. 11/28/2023
+..Squitieri.. 11/29/2023
 
-.PREV DISCUSSION... /ISSUED 0140 AM CST Tue Nov 28 2023/
+.PREV DISCUSSION... /ISSUED 0150 AM CST Wed Nov 29 2023/
 
 ...Synopsis...
-A southern-stream midlevel trough will track eastward across the
-Southwest, preceded by strengthening southwesterly flow and
-increasing mid/high-level clouds crossing the southern Rockies. This
-will promote breezy/gusty southerly return flow over portions of the
-southern and central Plains. However, the increasing cloud coverage
-and low-level moisture advection (albeit weak) should limit RH
-reductions where the breezy winds are expected. Elsewhere across the
-CONUS, cool and/or moist conditions should limit fire-weather
-concerns.
+A southern-stream midlevel trough accompanied by strong deep-layer
+westerly flow will cross the southern Rockies, while an attendant
+surface low tracks east-northeastward from NM across north TX. On
+the southern periphery of the surface low, a tight pressure gradient
+and boundary-layer mixing into the strong westerlies aloft will
+yield 20+ mph sustained westerly surface winds (with higher gusts)
+over portions of southeastern NM, the TX Trans-Pecos, and TX South
+Plains. These winds, coupled with 25-30 percent RH, could support
+locally elevated fire-weather conditions. However, the marginal RH
+reductions (stunted by upper 20s/lower 30s surface dewpoints) and
+limited fuels should mitigate the overall fire-weather threat.
+
+Farther east over parts of the Ohio Valley and Great Lakes,
+breezy/gusty southwesterly surface winds are expected along the
+western periphery of an expansive surface high centered off the
+Carolinas coast. Limited RH reductions should generally temper
+fire-weather potential here, though receptive fuels may still favor
+spotty elevated conditions.
 
 ...Please see www.spc.noaa.gov/fire for graphic product...
 
@@ -313,44 +346,75 @@ concerns.
 
 ---
 
-## SPC Nov 28, 2023 1730 UTC Day 2 Convective Outlook
+## SPC Nov 29, 2023 1730 UTC Day 2 Convective Outlook
 
-date: 2023-11-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-11-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 2 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-1101 AM CST Tue Nov 28 2023
+1106 AM CST Wed Nov 29 2023
 
-Valid 291200Z - 301200Z
+Valid 301200Z - 011200Z
 
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS
+SOUTHEAST TEXAS...
 
 ...SUMMARY...
-Scattered thunderstorms will develop late Wednesday into early
-Thursday over much of southern and eastern Texas, and far southeast
-Oklahoma. Isolated thunderstorms also are possible over parts of
-Arizona and New Mexico, as well as near or just offshore from the
-central California coast. Severe weather appears unlikely.
+Scattered storms, some severe, will be possible during the day on
+Thursday, mainly over southeast Texas. A conditional risk for a few
+tornadoes will be possible during the day. Otherwise, marginal hail
+will be possible extending northward into parts of Oklahoma.
 
 ...Discussion...
 
-A shortwave trough along the Pacific Coast will shift east toward
-the Four Corners and northern Mexico on Wednesday. Ensuing height
-falls across the southern High Plains vicinity will foster
-increasing southerly low-level flow across TX. Strong theta-e
-advection from near the surface through around 700 mb will support
-increasing destabilization during the second half of the period.
-Shear profiles will conditionally favor supercells overnight across
-the TX coastal vicinity. However, most instability will remain
-elevated from near the top of the moist layer between 850-700 mb
-through 400 mb, while strong low-level inhibition prevails. This
-will allow for isolated thunderstorms, but surface-based convection
-is unlikely. Given a lack of stronger large-scale ascent and weak
-low-level convergence, coupled with low-level inhibition, severe
-potential appears low late Wednesday into early Thursday.
+A rather conditional severe thunderstorm set up is expected on
+Thursday, mainly during the morning and afternoon hours across
+southeast Texas. A warm advection regime, resulting in widespread
+cloudiness and ongoing showers/thunderstorms will be underway at the
+beginning of the period as a shortwave trough tracks across the
+central/southern Plains vicinity. Upper 60s F dewpoints will be
+focused near the Middle and Upper Texas Coast with low to mid-60s F
+dewpoints extending northward toward the Red River/ArkLaTex
+vicinity. A surface low will develop and shift east/northeast across
+OK/MO as a trailing cold front moves southeast across the southern
+Plains after 00z.
 
-..Leitman.. 11/28/2023
+Forecast vertical shear profiles are impressive with large, curved
+low-level hodographs becoming elongated/straight near 3 km. Strong
+low-level southerly flow, with around 40-50 kt at 850 mb, is
+expected. Effective SRH values greater than 300 m2/s2 near and north
+of a warm front across east TX are depicted in forecast guidance as
+well. This shear space conditionally would support supercell
+thunderstorms. 
+
+However, low-level thermodynamics appear problematic. Surface
+temperatures and dewpoints may struggle to reach higher than 68-69 F
+(except perhaps near the immediate coast). Furthermore, cloudiness
+and morning convection will limit heating, and forecast soundings
+indicate low-level lapse rates remaining quite poor and nearly moist
+adiabatic. HREF members also continue to depict stronger negative UH
+tracks than positive UH tracks, which is an indication that storms
+may struggle to be rooted near the surface, limiting access to
+better low-level vertical shear. Additionally, forecast guidance
+shows modest warming through the day in the 850-500 mb layer, while
+stronger large-scale ascent remains focused north of the region.
+
+An outlook downgrade was considered. However, if boundary-layer
+moisture is greater than forecast, or any stronger heating can
+occur, low-level thermodynamics would improve and allow convection
+to access better low-level shear, resulting in an increased risk for
+a few tornadoes. As such, will maintain the Enhanced (level 3 of 5)
+risk with only minor changes/eastward adjustments compared to the
+previous outlook based on latest guidance.
+
+Further north across north TX into OK, steeper midlevel lapse rates
+are forecast closer to the midlevel speed max. Convection will
+remain elevated, but sufficient elevated instability within a
+favorable shear environment will support isolated hail in the
+stronger cells through early evening.
+
+..Leitman.. 11/29/2023
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
@@ -362,43 +426,42 @@ potential appears low late Wednesday into early Thursday.
 
 ## SPC Day 1 Fire Weather Outlook
 
-date: 2023-11-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-11-29, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-1031 AM CST Tue Nov 28 2023
+1030 AM CST Wed Nov 29 2023
 
-Valid 281700Z - 291200Z
+Valid 291700Z - 301200Z
 
 ...NO CRITICAL AREAS...
 
-The previous forecast (see below) remains on track.
+The previous forecast (see below) remains on track. Dry conditions
+will also be present across portions of the central and southern
+Appalachians. Here, a severe to exceptional drought is in place,
+with appreciable rainfall accumulations lacking in the past week.
+The absence of a stronger sustained surface wind field will limit
+robust wildfire spread (hence no highlights). However, localized
+wildfire-spread concerns could materialize by afternoon peak heating
+if RH can drop below 30 percent and overlap with any wind gusts.
 
-..Squitieri.. 11/28/2023
+..Squitieri.. 11/29/2023
 
-.PREV DISCUSSION... /ISSUED 0140 AM CST Tue Nov 28 2023/
+.PREV DISCUSSION... /ISSUED 0149 AM CST Wed Nov 29 2023/
 
 ...Synopsis...
-On the backside of a departing large-scale trough over the
-Northeast, strong deep-layer west-northwesterly flow will overspread
-the Southeast. At the same time, surface high pressure will shift
-east-southeastward from the Great Plains into the central Gulf
-Coast. Along the eastern periphery of the surface high, an enhanced
-pressure gradient will support 10-15 mph northwesterly surface winds
-(with higher gusts), while shallow boundary-layer mixing into dry
-air aloft favors 25-35 percent minimum RH across portions of the
-Southeast and southern Appalachians. While locally elevated
-fire-weather conditions are possible for these areas, recent
-rainfall and generally cool surface temperatures should limit the
-overall threat.
-
-Farther west, strong northwesterly flow aloft will cross the
-northern Rockies, yielding dry/breezy downslope flow into the
-northern High Plains. A lack of appreciable precipitation over this
-area suggests that fuels are at least modestly receptive, and
-locally elevated fire-weather conditions are possible. Similar to
-the Southeast, cool surface temperatures should mitigate the threat.
+A southern-stream midlevel trough will track eastward across the
+Desert Southwest. Preceding this feature, a low-amplitude impulse
+embedded in southwesterly flow aloft will cross the central Rockies,
+promoting lee troughing and breezy/gusty southerly return flow over
+the central High Plains. Increasing mid/high-level clouds
+accompanying the impulse may stunt diurnal heating to an extent,
+though modest downslope flow should offset this and yield around
+15-20 percent RH. While locally elevated fire-weather conditions are
+possible here, a limited overlap of the breezy winds and low RH,
+combined with marginal fuels, should limit the overall fire-weather
+threat.
 
 ...Please see www.spc.noaa.gov/fire for graphic product...
 
@@ -410,35 +473,38 @@ the Southeast, cool surface temperatures should mitigate the threat.
 
 ---
 
-## SPC Nov 28, 2023 1630 UTC Day 1 Convective Outlook
+## SPC Nov 29, 2023 1630 UTC Day 1 Convective Outlook
 
-date: 2023-11-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-11-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-1026 AM CST Tue Nov 28 2023
+1016 AM CST Wed Nov 29 2023
 
-Valid 281630Z - 291200Z
+Valid 291630Z - 301200Z
 
 ...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Severe thunderstorms are not expected today or tonight.
+Organized severe thunderstorms are not expected through tonight.
 
-...Synopsis...
-A midlevel shortwave trough is moving over the Lower Great Lakes
-now, and subtle veering of flow this afternoon will result in
-shorter over-lake fetches and reduced depth/organization to the lake
-effect snow bands.  Given the marginal thermodynamic profiles for
-charge separation, the threat for isolated lightning flashes is
-expected to diminish through the afternoon.  Farther west, a
-midlevel low will move slowly eastward toward the central/northern
-CA coast by early Wednesday.  There may be sufficient
-cooling/moistening of profiles for weak buoyancy and isolated
-lightning flashes near the end of the period along the coast.
+...Southern Rockies to TX tonight...
+As part of a split flow regime, a midlevel shortwave trough now
+approaching southern CA will continue eastward to southern NM/far
+west TX by early Thursday morning.  Isolated thunderstorms will also
+be possible this evening into tonight across the higher terrain of
+northern/eastern AZ into western NM as sufficient midlevel
+cooling/moistening contributes to weak buoyancy within the left exit
+region of the mid-upper jet.  Overnight, a modifying Gulf of Mexico
+air mass will return northward to near the lower/middle TX coast at
+the surface, and aloft into north/northeast TX.  There will be
+sufficient destabilization aloft to support elevated thunderstorms
+in a strengthening warm advection regime, mainly 08-12z.  Any severe
+threat will likely be delayed until early in the day 2 forecast
+period.
 
-..Thompson/Moore.. 11/28/2023
+..Thompson/Moore.. 11/29/2023
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>

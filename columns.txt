@@ -1,0 +1,18 @@
+#
+# Columns is a feed list of things I almost always send to Pocket to read
+#
+https://billmoyers.com/feed/ "~Bill Moyer's website"
+https://steady.substack.com/feed "~Dan Rather's Steady"
+http://feeds.kottke.org/main "~Jason Kottke blog"
+https://memex.naughtons.org/feed/ "~John Naughton's online diary"
+https://christianheilmann.com/feed/ "~Chris Heilmann's blog"
+https://scholar.social/@mhucka.rss "~Mike Hukka's Mastodon feed"
+http://doc.blog/rss.xml "~Doc Searls' doc.blog"
+https://blog.dshr.org/feeds/posts/default?alt=rss "~David Rosenthal's blog"
+https://economicsfromthetopdown.com/feed/ "~Economics from the Top-Down"
+https://jvns.ca/atom.xml "~Julia Evans blog"
+https://liam-on-linux.dreamwidth.org/data/rss "~Liam on Linux"
+https://om.co/feed/ "~Om Malik blog"
+https://ptsefton.com/feed/atom "~Peter Sefton's Blog"
+https://daniel.haxx.se/blog/feed/ "~Daniel Stenberg Blog"
+https://daringfireball.net/feeds/main "~Daring Fireball"

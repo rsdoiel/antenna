@@ -1,35 +1,269 @@
 
-(date: 2023-11-29 08:17:50)
+(date: 2023-11-30 08:07:10)
 
 ---
 
-## The 10 Freeway, Explained: The Early 'Flying Route' That Changed LA Driving
+## The Gaza Cease-Fire With Hamas Is Extended Another Day As Blinken Arrives In Israel
+
+date: 2023-11-30, updated: 2023-11-30, from: The LAist
+
+The secretary of state said the U.S. is committed to seeing the release of all hostages held by Hamas. And gunmen killed three Israelis in an attack on the outskirts of West Jerusalem early Thursday. 
+
+<https://laist.com/news/the-gaza-cease-fire-with-hamas-is-extended-another-day-as-blinken-arrives-in-israel>
+
+---
+
+## He Wanted Privacy. His College Gave Him None
+
+date: 2023-11-30, updated: 2023-11-30, from: The LAist
+
+A Markup examination of a typical college shows how students are subject to a vast and growing array of watchful tech, from homework trackers to test-taking software, even license plate readers 
+
+<https://laist.com/news/education/privacy-data-collection-mt-san-antonio-college>
+
+---
+
+## Take a Study Break. Meet a Miniature Horse!
+
+date: 2023-11-30, from: CSUN Library Blog, Cited
+
+<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2023/11/Untitled-design7.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" fetchpriority="high" /></div>Just in time for the Finals Countdown, LAPL Northridge Branch invites CSUN students and community to meet a miniature therapy horse on Wednesday, December 6th,&#8230; 
+
+<https://library.csun.edu/blogs/cited/2023/11/30/take-a-study-break-meet-a-miniature-horse/>
+
+---
+
+## LAFD Finds Nearly 2 Dozen Freeway Underpasses Need Fixing
+
+date: 2023-11-30, updated: 2023-11-30, from: The LAist
+
+A majority of the 23 flagged locations are in the downtown L.A. area. Still, officials caution that doesn't mean we'll see another 10 Freeway fire. 
+
+<https://laist.com/news/transportation/lafd-finds-nearly-two-dozen-freeways-underpasses-need-fixing-but-that-doesnt-mean-well-see-another-10-freeway-fire>
+
+---
+
+## Students for Justice in Palestine hosts ‘die-in’ to honor victims of Gaza violence
+
+date: 2023-11-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Nov. 29 at 10:03 p.m.</em>
+Nearly 100 students and community members gathered Wednesday for a “die-in” and demonstration to recognize Palestinian lives lost in the recent violence in Gaza. 
+
+<https://dailybruin.com/2023/11/29/students-for-justice-in-palestine-hosts-die-in-to-honor-victims-of-gaza-violence/>
+
+---
+
+## 99 Ranch Market officially opens doors for business in Westwood
+
+date: 2023-11-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA students and community members have long awaited the opening of 99 Ranch Market. 
+A ribbon cutting ceremony marked the end of the three-year wait Wednesday. 
+
+<https://dailybruin.com/2023/11/29/99-ranch-market-officially-opens-doors-for-business-in-westwood/>
+
+---
+
+## LA County Reports Another Steep Increase In The Number Of Hate Crimes
+
+date: 2023-11-30, updated: 2023-11-30, from: The LAist
+
+Black, Jewish and LGBTQIA+ residents endured the most reported hate crimes in the county, officials say. 
+
+<https://laist.com/news/criminal-justice/la-county-reports-another-steep-increase-in-the-number-of-hate-crimes>
+
+---
+
+## Reft revitalizes UCLA women’s volleyball despite rocky season
+
+date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Déjà vu is in the air.
+UCLA women’s volleyball missed out on an NCAA tournament appearance for the second straight year on Sunday after yet another up-and-down season plagued by injuries and unforeseen losses. 
+
+<https://dailybruin.com/2023/11/29/reft-revitalizes-ucla-womens-volleyball-despite-rocky-season/>
+
+---
+
+## Student-hosted drag showcase shines spotlight on self-expression, LGBTQ+ advocacy
+
+date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sequins and self-expression were on display as drag queens strutted in Royce Hall.
+Bimbos Theatre Co. and the Student Committee for the Arts at UCLA hosted a drag showcase for charity Tuesday evening in the Royce Rehearsal Room. 
+
+<https://dailybruin.com/2023/11/29/student-hosted-drag-showcase-shines-spotlight-on-self-expression-lgbtq-advocacy/>
+
+---
+
+## Bramhas tie #8 ranked team
+
+date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Women’s Soccer tied 1-1 against Ventura College on Oct. 6. Ventura is ranked in the top 10 of the state, but the Brahmas were able</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/29/bramhas-tie-8-ranked-team/">Bramhas tie #8 ranked team</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/29/bramhas-tie-8-ranked-team/?utm_source=rss&utm_medium=rss&utm_campaign=bramhas-tie-8-ranked-team>
+
+---
+
+## Sewage Spill Shuts Down A Stretch Of Laguna Beach Coast
 
 date: 2023-11-29, updated: 2023-11-29, from: The LAist
 
-We look at key moments in the history of the 10, including an early highway path that influenced the safety of freeways today. 
+Tens of thousands of gallons of raw sewage spilled in the area, prompting warnings from health officials. 
 
-<https://laist.com/news/transportation/los-angeles-10-freeway-history-ramona-airline-marilyn-reece>
+<https://laist.com/news/climate-environment/sewage-spill-shuts-down-a-stretch-of-laguna-beach-coast>
 
 ---
 
-## What You Need To Know About LA’s Independent Redistricting Commission Proposal
+## OC Supervisor Testified Without Disclosing His Wife Is The Assistant Presiding Judge. It Led To A Mistrial
+
+date: 2023-11-29, updated: 2023-11-29, from: The LAist
+
+It’s the second high-profile instance to emerge recently of O.C. Supervisor Andrew Do not disclosing a relevant family relationship during official proceedings. 
+
+<https://laist.com/news/housing-homelessness/orange-county-supervisor-andrew-do-homeless-services-mistrial>
+
+---
+
+## Editorial Cartoon: “Everyone’s Catching It!”
+
+date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<https://dailybruin.com/2023/11/29/editorial-cartoon-everyones-catching-it/>
+
+---
+
+## UCLA men’s water polo 2023 NCAA tournament predictions
+
+date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+No. 1 seed UCLA men&#8217;s water polo (24-2, 7-0 MPSF) enters the NCAA tournament on a two-game skid from the MPSF tournament &#8211; its first two losses of the season. 
+
+<https://dailybruin.com/2023/11/29/ucla-mens-water-polo-2023-ncaa-tournament-predictions/>
+
+---
+
+## Not cool: Automotive deals with faulty air conditioners
+
+date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Andrew Abonales writes a repair order for the shop management class in the Advanced Automotive Technology Building at Pierce College in Woodland Hills, Calif., on</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/29/not-cool-automotive-deals-with-faulty-air-conditioners/">Not cool: Automotive deals with faulty air conditioners</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/29/not-cool-automotive-deals-with-faulty-air-conditioners/?utm_source=rss&utm_medium=rss&utm_campaign=not-cool-automotive-deals-with-faulty-air-conditioners>
+
+---
+
+## Sharing her superpower
+
+date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Annie Gonzalez speaks to students during at Pierce College in Woodland Hills, Calif., on Oct. 5, 2023. &#160; An East LA sixth generation Latina/Chicana actress</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/29/sharing-her-superpower/">Sharing her superpower</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/29/sharing-her-superpower/?utm_source=rss&utm_medium=rss&utm_campaign=sharing-her-superpower>
+
+---
+
+## Spitfires take the stage
+
+date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
+
+<p>An emotional comedy that will resonate with audiences while having a holiday kick is set to premiere. Robert Harling’s “Steel Magnolias” will open at the</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/29/spitfires-take-the-stage/">Spitfires take the stage</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/29/spitfires-take-the-stage/?utm_source=rss&utm_medium=rss&utm_campaign=spitfires-take-the-stage>
+
+---
+
+## What is the better viewing experience? Come for the popcorn, stay for the movie
+
+date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
+
+<p>The lobby is filled with excitement as the moviegoers await their turn in the concession lines. The smell of popcorn saturates the air and patrons</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/29/what-is-the-better-viewing-experience-come-for-the-popcorn-stay-for-the-movie/">What is the better viewing experience? Come for the popcorn, stay for the movie</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/29/what-is-the-better-viewing-experience-come-for-the-popcorn-stay-for-the-movie/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-better-viewing-experience-come-for-the-popcorn-stay-for-the-movie>
+
+---
+
+## Eagles soar over Brahmas, Pierce fall to 1-6
+
+date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
+
+<p>The Brahmas took on Mt. San Jacinto this Saturday. After an intense game, the Eagles earned the victory with the final score standing at 100-82.</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/29/eagles-soar-over-brahmas-pierce-fall-to-1-6/">Eagles soar over Brahmas, Pierce fall to 1-6</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/29/eagles-soar-over-brahmas-pierce-fall-to-1-6/?utm_source=rss&utm_medium=rss&utm_campaign=eagles-soar-over-brahmas-pierce-fall-to-1-6>
+
+---
+
+## What is the better viewing experience? Customizable entertainment at home
+
+date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
+
+<p>A cozy couch, homemade snacks, subtitles and your preferred volume and brightness. That’s a movie-watching environment some may prefer over a one-size-fits-all theater setup. “Movies</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/29/what-is-the-better-viewing-experience-customizable-entertainment-at-home/">What is the better viewing experience? Customizable entertainment at home</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/29/what-is-the-better-viewing-experience-customizable-entertainment-at-home/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-better-viewing-experience-customizable-entertainment-at-home>
+
+---
+
+## Streetbeat: What movies are you excited to see?
+
+date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
+
+<p>&#160; &#160; “Probably ‘Napoleon.’ From what I’ve seen, the trailers look amazing and very beautiful.” Luka Mena &#8211; Computer Science major &#160; &#160; &#160; &#160;</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/29/streetbeat-what-movies-are-you-excited-to-see/">Streetbeat: What movies are you excited to see?</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/29/streetbeat-what-movies-are-you-excited-to-see/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-what-movies-are-you-excited-to-see>
+
+---
+
+## Women’s soccer season review
+
+date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
+
+<p>The 2023 season for the Pierce women’s soccer team was a year of adapting for both the sophomore and freshman players. As a team coming</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/29/womens-soccer-season-review/">Women’s soccer season review</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/29/womens-soccer-season-review/?utm_source=rss&utm_medium=rss&utm_campaign=womens-soccer-season-review>
+
+---
+
+## Pierce should help students find love
+
+date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Between classes, homework, parent duties and work, single parents barely have any time to themselves, let alone have time for dating. We all hope and</p>
+<p>The post <a href="https://theroundupnews.com/2023/11/29/pierce-should-help-students-find-love/">Pierce should help students find love</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+ 
+
+<https://theroundupnews.com/2023/11/29/pierce-should-help-students-find-love/?utm_source=rss&utm_medium=rss&utm_campaign=pierce-should-help-students-find-love>
+
+---
+
+## In ‘Historic’ Vote, LA City Council Places Independent Redistricting On 2024 Ballot
 
 date: 2023-11-29, updated: 2023-11-29, from: The LAist
 
 The idea gained momentum after the release of secretly recorded audio that featured council members discussing how to preserve their own power through the redistricting process. 
 
 <https://laist.com/news/politics/what-you-need-to-know-about-las-independent-redistricting-commission-proposal>
-
----
-
-## California Makes Strides Toward Improving HBCU Transfer Pathway For Community College Students
-
-date: 2023-11-29, updated: 2023-11-29, from: The LAist
-
-This fall, California made it easier for community college students to transfer to out-of-state Historically Black Colleges and Universities. 
-
-<https://laist.com/news/education/hbcu-community-college-student-transfers>
 
 ---
 
@@ -43,13 +277,13 @@ The paid fellowship prioritizes students from Cal State Dominguez Hills, Cal Sta
 
 ---
 
-## Are Electric Bikes Allowed At Your College In California? Depends On Where You Go To School
+## California Makes Strides Toward Improving HBCU Transfer Pathway For Community College Students
 
 date: 2023-11-29, updated: 2023-11-29, from: The LAist
 
-As electric bikes and scooters gain popularity among college students, California campuses vary over their regulation. The devices pose safety risks yet are cheaper, more convenient and better for the environment than gas-powered vehicles. 
+This fall, California made it easier for community college students to transfer to out-of-state Historically Black Colleges and Universities. 
 
-<https://laist.com/news/education/are-electric-bikes-allowed-at-your-college-in-california-depends-on-where-you-go-to-school>
+<https://laist.com/news/education/hbcu-community-college-student-transfers>
 
 ---
 
@@ -60,6 +294,26 @@ date: 2023-11-29, updated: 2023-11-29, from: The LAist
 For one devoted hobbyist magician, the members-only Los Angeles institution was too alluring to resist. But the love faded. 'Imperfect Paradise: The Castle,' Part 1. 
 
 <https://laist.com/news/arts-and-entertainment/imperfect-paradise-the-castle-part-1>
+
+---
+
+## The 10 Freeway, Explained: The Early 'Flying Route' That Changed LA Driving
+
+date: 2023-11-29, updated: 2023-11-29, from: The LAist
+
+We look at key moments in the history of the 10, including an early highway path that influenced the safety of freeways today. 
+
+<https://laist.com/news/transportation/los-angeles-10-freeway-history-ramona-airline-marilyn-reece>
+
+---
+
+## Are Electric Bikes Allowed At Your College In California? Depends On Where You Go To School
+
+date: 2023-11-29, updated: 2023-11-29, from: The LAist
+
+As electric bikes and scooters gain popularity among college students, California campuses vary over their regulation. The devices pose safety risks yet are cheaper, more convenient and better for the environment than gas-powered vehicles. 
+
+<https://laist.com/news/education/are-electric-bikes-allowed-at-your-college-in-california-depends-on-where-you-go-to-school>
 
 ---
 
@@ -92,6 +346,76 @@ The Undergraduate Students Association Council held its third meeting of Novembe
 USAC is the official student government representing the undergraduate student body at UCLA. 
 
 <https://dailybruin.com/2023/11/28/usac-recap-nov-21-2/>
+
+---
+
+## LMU installs chimney after Santa gets stuck at back gate
+
+date: 2023-11-29, from: Laloyolan (LMU Student Newspaper)
+
+Chim Chim Cher-ee! For those who don’t think a chimney belongs on top of LMU’s Sacred Heart Chapel: Have Faith. 
+
+<https://www.laloyolan.com/the_bluff/lmu-installs-chimney-after-santa-gets-stuck-at-back-gate/article_39b0bdb7-2fa0-56c1-9896-510107f5d1e8.html>
+
+---
+
+## LMU Grinch caught stealing University Hall Christmas tree
+
+date: 2023-11-29, from: Laloyolan (LMU Student Newspaper)
+
+LMU's Grinch has just finished his spree, robbing the campus of joy and of glee. Why did he do it? What filled him with rage? Read all the details right here on this page. 
+
+<https://www.laloyolan.com/the_bluff/lmu-grinch-caught-stealing-university-hall-christmas-tree/article_141b5b7c-1f5c-5b45-901c-ecd68f89a8ed.html>
+
+---
+
+## Chignona
+
+date: 2023-11-29, from: Laloyolan (LMU Student Newspaper)
+
+Lucero-Corona alongside the board of directors and team members of the Chingona Community. 
+
+<https://www.laloyolan.com/life_and_arts/chignona/image_a4510c10-8298-53cf-90e3-bacf1f1a43b7.html>
+
+---
+
+## rozheadshot
+
+date: 2023-11-29, from: Laloyolan (LMU Student Newspaper)
+
+Roz Lucero-Corona is a native Angeleno, a first generation college student and the founder of the Chingona Community. 
+
+<https://www.laloyolan.com/life_and_arts/rozheadshot/image_91bec00f-343f-51e5-af3b-ed33f3e4f5c5.html>
+
+---
+
+## Youth day
+
+date: 2023-11-29, from: Laloyolan (LMU Student Newspaper)
+
+Members are pictured on a youth day event wearing themed Chingona Community shirts. 
+
+<https://www.laloyolan.com/life_and_arts/youth-day/image_123385d5-5af1-5abb-9d91-1cc51133b376.html>
+
+---
+
+## Navigating the between-breaks cram session
+
+date: 2023-11-29, from: Laloyolan (LMU Student Newspaper)
+
+Are you guilty of procrastinating over break? There’s still time to do all your assignments and there are ways to make it more manageable. 
+
+<https://www.laloyolan.com/life_and_arts/navigating-the-between-breaks-cram-session/article_22eabcd7-2a13-504e-bf67-ecfbad4f02be.html>
+
+---
+
+## "Craving Break" Comic Strip
+
+date: 2023-11-29, from: Laloyolan (LMU Student Newspaper)
+
+After a taste of home, the final stretch between breaks leaves students yearning for home-cooked meals. 
+
+<https://www.laloyolan.com/cartoons/craving-break-comic-strip/article_49ef3c4e-8e5e-11ee-beeb-d7d4ab66e14c.html>
 
 ---
 
@@ -515,6 +839,257 @@ UCLA football (7-5, 4-5 Pac-12) was blown out 33-7 by California (6-6, 4-5) on S
 
 ---
 
+## ARC Tip of the Week:
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+<p><em>Introduction:</em></p>
+<p>In the dystopian world of Panem, where each choice defines destinies and the division between good and evil is blurred more often than not, &ldquo;The Hunger Games: The Ballad of Songbirds and Snakes&rdquo; dives into the core conflicts present in the entire Hunger Games franchise. Themes of desperation, morality, and the human condition are revisited by diving into the origin story of the tyrannical President Coriolanus Snow, the originator of the state of the Games that we saw in the main franchise. For ASCIT’s annual free movie night held on November 19th, 2023, Caltech students were teleported into the world of the twelve districts and the Capitol to follow along as Coriolanus goes from ambitious student to cold-blooded manipulator.</p> 
+
+<https://tech.caltech.edu/2023/11/28/arc-tip-of-the-week/>
+
+---
+
+## Behind the Numbers: A Close Look at Caltech Undergrads’ Workload
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+Caltech&rsquo;s rigorous academic environment is well-known, but to shed some new light on the actual daily grind of undergraduates. 
+
+<https://tech.caltech.edu/2023/11/28/behind-the-numbers/>
+
+---
+
+## CalTech Eliminates All Waste from Campus Operations – Part of a long-term push for (.*)-neutrality, Institute says
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+PASADENA, CA — In a based and green-pilled display of social responsibility, the California Institute of Technology reported its first year of carbon neutrality since 1898, according to a press release issued by the CalTech Sustainability Council on Monday. 
+
+<https://tech.caltech.edu/2023/11/28/caltech-eliminates/>
+
+---
+
+## Caltech Up Close 2023
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+In mid-October, the Caltech Undergraduate Admissions Office held their annual Caltech Up Close (CUC) event. This year the program accepted 194 high school seniors, nearly double the 103 present the previous year.
+According to the Undergraduate Admissions website, the program is designed for “students of exceptional promise and will focus on the experiences of students from historically underserved backgrounds in STEM.” Selected participants have opportunities to “Explore Caltech&rsquo;s campus; Connect with campus community members, including faculty and current students; discover undergrad academics, research and internships, as well as student life; Grasp admissions and financial aid processes; and experience a glimpse of life in Southern California.” 
+
+<https://tech.caltech.edu/2023/11/28/caltech-up-close-2023/>
+
+---
+
+## Gayboys
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+<em>Editor’s note: This letter was emailed to the <em>Tech</em>’s business address with the subject line “Letter to the editor (okay to publish)” from one <a href="mailto:wlela@yahoo.com">wlela@yahoo.com</a>. The ‘yahoo.com’ should have been enough to justify deleting the email immediately. So should’ve the first sentence of the article. But upon googling the guy, and reading the first result: “Heterosexuals Organized for a Moral Environment (HOME) is an American pro-heterosexuality, anti-homosexuality organization founded by Wayne Lela and…”, I realized that this is far too funny not to publish. So without further ado, enjoy.</em> 
+
+<https://tech.caltech.edu/2023/11/28/gayboys/>
+
+---
+
+## Hot Rivet Headlines
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+<ul>
+<li>Office of Student Experience Accused of &lsquo;Robbing&rsquo; Caltech House System and Student Government to Bankroll Lavish Outings Under Guise of &lsquo;Student Recreation Events&rsquo;</li>
+</ul> 
+
+<https://tech.caltech.edu/2023/11/28/hotel-rivet-headlines/>
+
+---
+
+## House Ethics Committee Probes Congressman Santos Amidst Fraud Allegations and Lavish Misuse of Campaign Funds
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+<ul>
+<li>In a shocking development that has significantly impacted the political scene, Congressman George Santos from New York&rsquo;s 3rd congressional district is under intense scrutiny due to allegations of fraud and deceit. This situation has led to a thorough investigation by the House Ethics Committee.</li>
+</ul> 
+
+<https://tech.caltech.edu/2023/11/28/house-ethics-commitee/>
+
+---
+
+## L + ratio
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+L + ratio + don&rsquo;t care + didn&rsquo;t ask + you go to Caltech + you&rsquo;re in booty house + you live in Braun + you were on the roof + you fell off + you&rsquo;re probably a CS/BEM/QF + if not you&rsquo;re probably an English major or something + you don’t even go to lecture + dark matter might as well be avocados floating through space + she lattice on my lecture till i + walk some olives on deez nuts + the hovse system violates the honor code + it&rsquo;s hazing too + the scientific project is fundamentally a negative dialectic + civilizing project too + blue hair and pronouns + the average caltech student takes more than the required number of hums + dean nye deez nuts + your best is not good enough + Email not displaying correctly? 
+
+<https://tech.caltech.edu/2023/11/28/l-ratio/>
+
+---
+
+## Mario, the Idea vs. Mario, the Man
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+Everyone knows Mario is cool as fuck. But who knows what he&rsquo;s thinking? Who knows why he crushes turtles? And why do we think about him as fondly as we think of the mystical (nonexistent?) Dr Pepper? Perchance. 
+
+<https://tech.caltech.edu/2023/11/28/mario-the-idea/>
+
+---
+
+## Mocktails
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+<h1 id="ascit-screening-room-suggestions-wanted">ASCIT Screening Room Suggestions Wanted</h1> 
+
+<https://tech.caltech.edu/2023/11/28/mocktails/>
+
+---
+
+## Movie review - ballad of songbirds and snakes
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+<em>Introduction:</em> In the dystopian world of Panem, where each choice defines destinies and the division between good and evil is blurred more often than not, &ldquo;The Hunger Games: The Ballad of Songbirds and Snakes&rdquo; dives into the core conflicts present in the entire Hunger Games franchise. Themes of desperation, morality, and the human condition are revisited by diving into the origin story of the tyrannical President Coriolanus Snow, the originator of the state of the Games that we saw in the main franchise. For ASCIT’s annual free movie night held on November 19th, 2023, Caltech students were teleported into the world of the twelve districts and the Capitol to follow along as Coriolanus goes from ambitious student to cold-blooded manipulator. 
+
+<https://tech.caltech.edu/2023/11/28/movie-review/>
+
+---
+
+## New Couches
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+The most fundamental tenet of a Caltech undergraduate education is training students to collaborate effectively in order to solve the most difficult problems in science and math today. And yet, the sanctity of every common lounge space in every undergraduate house, the home of collaboration, is at risk due to a recent renovation effort by the Housing Office. 
+
+<https://tech.caltech.edu/2023/11/28/new-couches/>
+
+---
+
+## Olive Garden = Big
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+Life. Food. Family. Home. These are what Olive Garden seems to symbolize to the American public. And according to the SNL Olive Garden sketch (sketches? I don&rsquo;t know how many have been made). But if I had to choose one word to describe Olive Garden, it would just be &lsquo;big&rsquo;. 
+
+<https://tech.caltech.edu/2023/11/28/olive-garden/>
+
+---
+
+## On the Housing Eligibility Exam Prank
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+On Friday, October 13, 2023, all freshmen received an email from “ughousing@caltech.edu” with the subject “ACTION REQUIRED: UG Housing Eligibility Assessment for 2024-25 School Year.” This email led students to believe that there would be a merit-based assessment to decide what proportion of the freshmen class would live on campus and what proportion would need to search for off-campus options next year. 
+
+<https://tech.caltech.edu/2023/11/28/on-housing-eligibility/>
+
+---
+
+## Pasadena News Column
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+Looking to get your holiday light fix? Check out these locations:
+<strong>Holiday Light Spotting in the Neighborhoods:</strong>
+<strong>Christmas Tree Lane</strong> 
+
+<https://tech.caltech.edu/2023/11/28/pasadena-new-column/>
+
+---
+
+## Question the Quail
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+Q: &ldquo;I&rsquo;m stumped on what to get for my significant other who seems to have everything. Any unique gift ideas that show thoughtfulness?&rdquo; 
+
+<https://tech.caltech.edu/2023/11/28/question-the-quail/>
+
+---
+
+## Restaurant Reviews with Tom Mannion: Full House, Chinatown
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+Experience:
+TLDR: Great Seafood restaurant not too far from campus. Go try some lobster! 
+
+<https://tech.caltech.edu/2023/11/28/restaurants-review/>
+
+---
+
+## Sportspabll
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+Interhouse basketball just finished, and I would like to reflect on the season. Dabney showed up to a full 3 out of our 7 games and proudly lost all of them. Personally, I scored a whole one point for my team which is more than I ever could have imagined given basketball is my least favorite sport and I don’t actually know all the rules. 
+
+<https://tech.caltech.edu/2023/11/28/sports-ball/>
+
+---
+
+## Squirrels Unleashed
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+<h2 id="_the-15th-fking-person-to-submit-an-anonymous-article-about-squirrels-this-term_"><em>The 15th F**king Person to Submit an Anonymous Article about Squirrels This Term</em></h2> 
+
+<https://tech.caltech.edu/2023/11/28/squirrels-unleashed/>
+
+---
+
+## The FNAF Movie: A Fan and Moviegoer’s Perspective
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+PASADENA, CA — In a based and green-pilled display of social responsibility, the California Institute of Technology reported its first year of carbon neutrality since 1898, according to a press release issued by the CalTech Sustainability Council on Monday. 
+
+<https://tech.caltech.edu/2023/11/28/fnaf-movie/>
+
+---
+
+## The Honor Code is Falling Apart – We are the Solution.
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+Caltech Faculty members have begun reevaluating the relevance of the Honor Code in their classrooms because they are losing faith in the ability of the student body to fulfill their responsibilities to the Honor Code. Students are worried about the state of the Honor Code because they think they are the only ones following it, believing faculty and administrative offices on campus are not held accountable for honor code violations. The number of reports of honor code violations has been elevated since the 2015-16 academic year, but during the year of online learning, reports of honor code violations further increased to 3 to 4 times the baseline case load. While the number of reports of honor code violations has fallen to the 2015-16 level, the stress placed on the Board of Control pushed it to the verge of failure. The BoC system implemented almost 100 years ago was not built to process this high case load, not built to withstand the ire of distrustful members of the Caltech community, and not built to protect a community, who, whether due to disinterest, fear, or overworkedness, is in some part negligent of the implications and applications of the Honor Code. 
+
+<https://tech.caltech.edu/2023/11/28/the-honor-code-is-falling-apart/>
+
+---
+
+## Unleash Your Inner Prankster with Caltech's Official Prank Club!
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+<ul>
+<li>Unleash Your Inner Prankster with Caltech&rsquo;s Official Prank Club!</li>
+</ul> 
+
+<https://tech.caltech.edu/2023/11/28/unleash-your-inner-plankter/>
+
+---
+
+## Vice President of Student Affairs Addresses Controversy Over Discontinuing Rotation Events
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+There has been a lot of buzz about the vague spectre of “admin” banning undergraduate house events, both during and outside Rotation this year. In continuing this discussion between tradition and inclusivity, the <em>Tech</em> interviewed Dr. Kevin Gilmartin, Vice President for Student Affairs, to get his perspective on the matter. Our conversation focused on two specific issues: Blacker Hovse’s Potato Cannon, and Ricketts Hovse’s Rotation Dinner Skits. 
+
+<https://tech.caltech.edu/2023/11/28/vice-president-of-student-affairs/>
+
+---
+
+## Write For the Tech.
+
+date: 2023-11-28, from: California Tech (Caltech Student Newspaper)
+
+If you are a friend, an enemy, or even a vague acquaintance of mine, you have likely heard me tell you to write for the Tech. And yet my research has shown the vast majority of you have never written for the tech! What utter disgrace, frankly I’m disappointed. So in an effort to convince more of you to write for the tech I have written a very comprehensive guide about how to write for the tech. 
+
+<https://tech.caltech.edu/2023/11/28/write-for-the-tech/>
+
+---
+
 ## The City of Santa Clarita Public Library Unveils Website Upgrade
 
 date: 2023-11-27, from: City of Santa Clarita
@@ -786,7 +1361,7 @@ Boom. Pac-12 After Dark struck.
 
 date: 2023-11-26, from: CSUN Library Blog, Cited
 
-<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2023/11/Copy-of-WordPress-Featured-Images-290-x-200.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" fetchpriority="high" /></div>Got finals stress? We&#8217;ve got you! With the &#8220;Finals Countdown&#8221; underway, the CSUN University Library is excited to announce a special workshop in collaboration with&#8230; 
+<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2023/11/Copy-of-WordPress-Featured-Images-290-x-200.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" /></div>Got finals stress? We&#8217;ve got you! With the &#8220;Finals Countdown&#8221; underway, the CSUN University Library is excited to announce a special workshop in collaboration with&#8230; 
 
 <https://library.csun.edu/blogs/cited/2023/11/26/november-29th-library-workshop-from-overcoming-test-anxiety-procrastination-and-last-minute-research-clinic/>
 
