@@ -1,6 +1,7 @@
 #
 # Tech-like, things I read, mostly involving tech that are not specific to the other columns
 #
+https://us-rse.org/feed.xml "~The United States Research Software Engineer Association"
 https://daverupert.com/atom.xml "~Dave Rupert blog"
 https://robinrendle.com/feed.xml "~Robin Rendle Essays"
 https://liam-on-linux.dreamwidth.org/data/rss "~Liam on Linux"
