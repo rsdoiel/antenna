@@ -1,11 +1,39 @@
 ---
 title: Columns, 2023.48
-updated: 2023-11-30 13:32:14
+updated: 2023-11-30 17:17:39
 ---
 
 # Columns, 2023.48
 
-(date: 2023-11-30 13:32:14)
+(date: 2023-11-30 17:17:39)
+
+---
+
+## Friday 1 December, 2023
+
+date: 2023-12-01, from: John Naughton's online diary
+
+Xmas gift ideas! In an American newspaper — in 1912! We EV owners used to feel smug about being ‘early adopters’. Turns out we are over a century behind the curve! Thanks to Quentin (a fellow EV owner) for spotting &#8230; <a href="https://memex.naughtons.org/friday-1-december-2023/38863/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span>
+<a href="https://memex.naughtons.org/friday-1-december-2023/38863/">https://memex.naughtons.org/friday-1-december-2023/38863/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://memex.naughtons.org/friday-1-december-2023/38863/">Save to Pocket</a>
+</span>
+
+---
+
+## Is There Any Reason For Hope In the Middle East?
+
+date: 2023-11-30, from: Dan Rather's Steady
+
+Despite a last-minute deal to once again extend a tenuous pause in fighting and the release of hostages, despair continues to blanket Israel, Gaza, and the broader world. The news out of the Middle East remains horrific, fraught, and in danger of getting worse. Hamas&#8217;s massacre, torture, and rape of Israelis &#8212; mostly civilians, many women, children, and the elderly &#8212; is still impossible to fathom. It was the deadliest day for Jews since the Holocaust and raised similar unanswerable questions about the capacity of our species to do evil. How can anyone murder the defenseless and innocent with such glee?
+
+<span>
+<a href="https://steady.substack.com/p/is-there-any-reason-for-hope-in-the">https://steady.substack.com/p/is-there-any-reason-for-hope-in-the</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://steady.substack.com/p/is-there-any-reason-for-hope-in-the">Save to Pocket</a>
+</span>
 
 ---
 

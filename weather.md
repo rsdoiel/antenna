@@ -1,24 +1,245 @@
 ---
 title: Weather 2023.48
-updated: 2023-11-30 13:32:16
+updated: 2023-11-30 17:17:41
 ---
 
 # Weather 2023.48
 
-(date: 2023-11-30 13:32:16)
+(date: 2023-11-30 17:17:41)
 
 ---
 
-## SPC - No watches are valid as of Thu Nov 30 21:30:02 UTC 2023
+## SPC - No watches are valid as of Fri Dec  1 01:01:01 UTC 2023
 
-date: 2023-11-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-12-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Thu Nov 30 21:30:02 UTC 2023.
+No watches are valid as of Fri Dec  1 01:01:01 UTC 2023.
 
 <span>
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> 
 <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
    data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 2294
+
+date: 2023-12-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md2294.html"><img src="https://www.spc.noaa.gov/products/md/mcd2294.png" border="1" alt="MD 2294 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 2294
+NWS Storm Prediction Center Norman OK
+0652 PM CST Thu Nov 30 2023
+
+Areas affected...Far southeast TX and southwest LA
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 010052Z - 010245Z
+
+Probability of Watch Issuance...20 percent
+
+SUMMARY...A spatially limited threat for a tornado should persist
+along a portion of the northwest Gulf Coast this evening.
+
+DISCUSSION...A deep convective cluster has become confined to the
+far southeast three counties of TX (Chambers, Jefferson, and
+Orange). This convection has struggled to organize beyond sporadic
+attempts at lower-end/transient mid-level rotation. The overall
+thermodynamic environment, which has been the primary mitigating
+factor to severe weather thus far, might become slightly more
+conducive to generating a surface-based supercell as temperatures
+have warmed into the upper 60s near/just south of this activity
+along the immediate coast. This should gradually translate east
+through the rest of the evening into southwest LA, improving upon
+the nil instability sampled in the 00Z LCH sounding. While the
+low-level wind profile has been in the process of strengthening over
+the past few hours, resulting in increasingly enlarged hodographs,
+confidence remains low that sustained supercell development will
+occur as depicted in the 23Z RRFS compared to the negligible signal
+in the 00Z WoFS.
+
+..Grams/Smith.. 12/01/2023
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...LCH...HGX...
+
+LAT...LON   30249413 30369376 30349328 30249298 30089289 29909290
+            29769299 29739308 29679349 29599407 29549447 29649457
+            29699457 30249413 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md2294.html">Read more</a>
+
+
+<span>
+<a href="https://www.spc.noaa.gov/products/md/md2294.html">https://www.spc.noaa.gov/products/md/md2294.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.spc.noaa.gov/products/md/md2294.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Dec 1, 2023 0100 UTC Day 1 Convective Outlook
+
+date: 2023-12-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0648 PM CST Thu Nov 30 2023
+
+Valid 010100Z - 011200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS SOUTHEAST
+TEXAS INTO SOUTHERN LOUISIANA...
+
+...SUMMARY...
+A few severe storms/tornadoes remain possible tonight from southeast
+Texas into southern Louisiana. Isolated hail is also possible across
+southern Oklahoma into northeast Texas.
+
+...01z Update...
+
+Early-evening water-vapor imagery depicts a well-defined short-wave
+trough over the southern High Plains, ejecting northeast in line
+with earlier model guidance. Seasonally cold 500mb temperatures
+(less than -20C) are spreading across western OK/northwestern TX
+which is contributing to elevated buoyancy for parcels lifted above
+the boundary layer. 00z sounding from OUN exhibited steep 3-6km
+lapse rates and MUCAPE around 400 J/kg. Marginally severe hail
+appears possible with convection immediately ahead of the ejecting
+vort/short wave.
+
+Farther southeast along the upper TX Coast, deep-layer flow is
+beginning to veer which has shunted the primary zone of confluence
+for deep convection just east of the Houston metro region. Latest
+radar data suggests the most robust updrafts are noted along the
+southwestern flank of a southwest-northeast line that extends from
+the lower Sabine River Valley toward Galveston Bay. This is likely
+due to higher dew points/buoyancy along the western fringe of the
+strongest low-level warm advection. Current thinking is warm
+advection will continue to be the primary instigator in thunderstorm
+activity along the upper TX/southwestern LA Coast tonight as the
+main zone of strong midlevel height falls will spread well north of
+this region. Greatest potential for a tornado or two will occur with
+near-surface-based storms in proximity to greater SRH, which is now
+east of Houston. Even so, the tornado threat should remain isolated.
+
+..Darrow.. 12/01/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">Save to Pocket</a>
+</span>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2023-11-30, from: Eastern Pacific Basin GIS Data
+
+No tropical cyclones as of Thu, 30 Nov 2023 23:29:21 GMT
+
+<span>
+<a href="https://www.nhc.noaa.gov/gis/">https://www.nhc.noaa.gov/gis/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nhc.noaa.gov/gis/">Save to Pocket</a>
+</span>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2023-11-30, from: Central Pacific Basin Tropical Cyclones
+
+No tropical cyclones as of Thu, 30 Nov 2023 23:29:21 GMT
+
+<span>
+<a href="https://www.nhc.noaa.gov/">https://www.nhc.noaa.gov/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nhc.noaa.gov/">Save to Pocket</a>
+</span>
+
+---
+
+## NHC Atlantic Outlook
+
+date: 2023-11-30, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br />
+TTAA00 KNHC DDHHMM<br />
+<br />
+Tropical Weather Outlook<br />
+NWS National Hurricane Center Miami FL<br />
+700 PM EST Thu Nov 30 2023<br />
+<br />
+For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />
+<br />
+Tropical cyclone formation is not expected during the next 7 days. <br />
+<br />
+This is the last regularly scheduled Tropical Weather Outlook of the <br />
+2023 Atlantic Hurricane Season. Routine issuance of the Tropical <br />
+Weather Outlook will resume on May 15, 2024. During the off-season, <br />
+Special Tropical Weather Outlooks will be issued as conditions <br />
+warrant.<br />
+<br />
+$$<br />
+Forecaster Cangialosi<br />
+NNNN<br />
+<br />
+</div></div><br />
+
+
+<span>
+<a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc">https://www.nhc.noaa.gov/gtwo.php?basin=atlc</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nhc.noaa.gov/gtwo.php?basin=atlc">Save to Pocket</a>
+</span>
+
+---
+
+## Eastern North Pacific Tropical Weather Outlook
+
+date: 2023-11-30, from: Eastern Pacific Basin Tropical Cyclones
+
+
+<br/>
+000<br/>
+ABPZ20 KNHC 302311<br/>
+TWOEP <br/>
+<br/>
+Tropical Weather Outlook<br/>
+NWS National Hurricane Center Miami FL<br/>
+400 PM PST Thu Nov 30 2023<br/>
+<br/>
+For the eastern North Pacific...east of 140 degrees west longitude:<br/>
+<br/>
+Tropical cyclone formation is not expected during the next 7 days.<br/>
+<br/>
+$$<br/>
+Forecaster Cangialosi<br/>
+
+
+<span>
+<a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac">https://www.nhc.noaa.gov/gtwo.php?basin=epac</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nhc.noaa.gov/gtwo.php?basin=epac">Save to Pocket</a>
 </span>
 
 ---
@@ -33,20 +254,6 @@ No Mesoscale Discussions are in effect as of Thu Nov 30 21:30:02 UTC 2023.
 <a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> 
 <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
    data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
-</span>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2023-11-30, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Thu, 30 Nov 2023 21:10:04 GMT
-
-<span>
-<a href="https://www.nhc.noaa.gov/gis/">https://www.nhc.noaa.gov/gis/</a> 
-<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
-   data-save-url="https://www.nhc.noaa.gov/gis/">Save to Pocket</a>
 </span>
 
 ---
@@ -359,87 +566,6 @@ LAT...LON   28639647 29129651 29409613 29869520 30139443 29829409
 
 ---
 
-## CPHC Central North Pacific Outlook
-
-date: 2023-11-30, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC HFOTWOCP ALL<br />
-TTAA00 PHFO DDHHMM<br />
-<br />
-Tropical Weather Outlook<br />
-NWS Central Pacific Hurricane Center Honolulu HI<br />
-800 AM HST Thu Nov 30 2023<br />
-<br />
-For the central North Pacific...between 140W and 180W:<br />
-<br />
-No tropical cyclones are expected during the next 7 days.<br />
-<br />
-The central North Pacific hurricane season officialy ends today,<br />
-November 30. The final Tropical Weather Outlook of the season will <br />
-be issued at 8 PM tonight, November 30. Routine issuance of the <br />
-Tropical Weather Outlook will resume on June 1, 2024. During the <br />
-off-season, Special Tropical Weather Outlooks will be issued as <br />
-conditions warrant. <br />
-<br />
-$$<br />
-Forecaster Blood<br />
-NNNN<br />
-<br />
-</div></div><br />
-
-
-<span>
-<a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac">https://www.nhc.noaa.gov/gtwo.php?basin=cpac</a> 
-<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
-   data-save-url="https://www.nhc.noaa.gov/gtwo.php?basin=cpac">Save to Pocket</a>
-</span>
-
----
-
-## NHC Atlantic Outlook
-
-date: 2023-11-30, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOAT ALL<br />
-TTAA00 KNHC DDHHMM<br />
-<br />
-Tropical Weather Outlook<br />
-NWS National Hurricane Center Miami FL<br />
-100 PM EST Thu Nov 30 2023<br />
-<br />
-For the North Atlantic...Caribbean Sea and the Gulf of Mexico:<br />
-<br />
-Tropical cyclone formation is not expected during the next 7 days.<br />
-<br />
-$$<br />
-Forecaster Papin<br />
-NNNN<br />
-<br />
-</div></div><br />
-
-
-<span>
-<a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc">https://www.nhc.noaa.gov/gtwo.php?basin=atlc</a> 
-<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
-   data-save-url="https://www.nhc.noaa.gov/gtwo.php?basin=atlc">Save to Pocket</a>
-</span>
-
----
-
 ## SPC Nov 30, 2023 1730 UTC Day 2 Convective Outlook
 
 date: 2023-11-30, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -493,57 +619,6 @@ forecast guidance.
 <a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> 
 <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
    data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
-</span>
-
----
-
-## NHC Eastern North Pacific Outlook
-
-date: 2023-11-30, from: Graphical Tropical Weather Outlooks
-
-
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=2">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_2d0_resize.gif" alt="Eastern North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=7">
-<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_7d0_resize.gif" alt="Eastern North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
-<br /><br />
-<div class='textbackground'><div class='textproduct'><br />
-ZCZC MIATWOEP ALL<br />
-TTAA00 KNHC DDHHMM<br />
-<br />
-Tropical Weather Outlook<br />
-NWS National Hurricane Center Miami FL<br />
-1000 AM PST Thu Nov 30 2023<br />
-<br />
-For the eastern North Pacific...east of 140 degrees west longitude:<br />
-<br />
-Tropical cyclone formation is not expected during the next 7 days.<br />
-<br />
-$$<br />
-Forecaster Papin<br />
-NNNN<br />
-<br />
-</div></div><br />
-
-
-<span>
-<a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac">https://www.nhc.noaa.gov/gtwo.php?basin=epac</a> 
-<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
-   data-save-url="https://www.nhc.noaa.gov/gtwo.php?basin=epac">Save to Pocket</a>
-</span>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2023-11-30, from: Eastern Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Thu, 30 Nov 2023 21:10:04 GMT
-
-<span>
-<a href="https://www.nhc.noaa.gov/">https://www.nhc.noaa.gov/</a> 
-<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
-   data-save-url="https://www.nhc.noaa.gov/">Save to Pocket</a>
 </span>
 
 ---
@@ -746,6 +821,42 @@ exist.
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> 
 <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
    data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
+</span>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2023-11-30, from: Central Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ACPN50 PHFO 301133<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 200 AM HST Thu Nov 30 2023<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ The central North Pacific hurricane season officialy ends on <br />
+ November 30. The final Tropical Weather Outlook of the season will <br />
+ be issued at 8 PM on November 30. Routine issuance of the Tropical <br />
+ Weather Outlook will resume on June 1, 2024. During the off-season, <br />
+ Special Tropical Weather Outlooks will be issued as conditions <br />
+ warrant. <br />
+ <br />
+ $$<br />
+ Forecaster Jelsema<br />
+ 
+
+<span>
+<a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac">https://www.nhc.noaa.gov/gtwo.php?basin=cpac</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nhc.noaa.gov/gtwo.php?basin=cpac">Save to Pocket</a>
 </span>
 
 

@@ -1,11 +1,125 @@
 ---
 title: Pacific 2023.48
-updated: 2023-11-30 13:29:54
+updated: 2023-11-30 17:13:38
 ---
 
 # Pacific 2023.48
 
-(date: 2023-11-30 13:29:54)
+(date: 2023-11-30 17:13:38)
+
+---
+
+## TakeCare hosting free health fair on Saturday at Micronesia Mall, free health screenings available
+
+date: 2023-12-01, from: Pacific Daily News
+
+TakeCare will be hosting a free health fair on Saturday, Dec. 2 at the Micronesia Mall.
+
+<span>
+<a href="https://www.guampdn.com/news/takecare-hosting-free-health-fair-on-saturday-at-micronesia-mall-free-health-screenings-available/article_b191b746-8fda-11ee-af4c-53a74f25356e.html">https://www.guampdn.com/news/takecare-hosting-free-health-fair-on-saturday-at-micronesia-mall-free-health-screenings-available/article_b191b746-8fda-11ee-af4c-53a74f25356e.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/news/takecare-hosting-free-health-fair-on-saturday-at-micronesia-mall-free-health-screenings-available/article_b191b746-8fda-11ee-af4c-53a74f25356e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Around the World: These German castles are straight out of a fairytale
+
+date: 2023-12-01, from: Pacific Daily News
+
+If you're ever in Germany, make sure you visit these three incredible castles. You won't regret it.
+
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/around-the-world-these-german-castles-are-straight-out-of-a-fairytale/video_2f7bfd8b-7c7f-53df-8272-a5be21c8f35b.html">https://www.guampdn.com/lifestyle/entertainment/around-the-world-these-german-castles-are-straight-out-of-a-fairytale/video_2f7bfd8b-7c7f-53df-8272-a5be21c8f35b.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/around-the-world-these-german-castles-are-straight-out-of-a-fairytale/video_2f7bfd8b-7c7f-53df-8272-a5be21c8f35b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Here are 5 remote jobs that have six-figure salaries!
+
+date: 2023-12-01, from: Pacific Daily News
+
+Have you ever thought about working remotely? If you haven't, now might be a good time to start.
+
+<span>
+<a href="https://www.guampdn.com/lifestyle/entertainment/here-are-5-remote-jobs-that-have-six-figure-salaries/video_0e38d7d1-29fc-548f-830e-9d09c3741681.html">https://www.guampdn.com/lifestyle/entertainment/here-are-5-remote-jobs-that-have-six-figure-salaries/video_0e38d7d1-29fc-548f-830e-9d09c3741681.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/lifestyle/entertainment/here-are-5-remote-jobs-that-have-six-figure-salaries/video_0e38d7d1-29fc-548f-830e-9d09c3741681.html">Save to Pocket</a>
+</span>
+
+---
+
+## Syndication: The Record
+
+date: 2023-12-01, from: Pacific Daily News
+
+New England Patriots quarterback Mac Jones (10) gets ready to pass the ball at MetLife Stadium, Sunday, November 26, 2023.
+
+<span>
+<a href="https://www.guampdn.com/sports/national/syndication-the-record/image_9f1daeb6-9de7-57f4-bbf2-a06e434eba1b.html">https://www.guampdn.com/sports/national/syndication-the-record/image_9f1daeb6-9de7-57f4-bbf2-a06e434eba1b.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/sports/national/syndication-the-record/image_9f1daeb6-9de7-57f4-bbf2-a06e434eba1b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Crumbling Patriots, slumping Chargers set for battle
+
+date: 2023-12-01, from: Pacific Daily News
+
+Crumbling Patriots, slumping Chargers set for battle
+
+<span>
+<a href="https://www.guampdn.com/sports/national/crumbling-patriots-slumping-chargers-set-for-battle/article_edd95204-d3db-56bb-8fe9-dc839e3d15ab.html">https://www.guampdn.com/sports/national/crumbling-patriots-slumping-chargers-set-for-battle/article_edd95204-d3db-56bb-8fe9-dc839e3d15ab.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.guampdn.com/sports/national/crumbling-patriots-slumping-chargers-set-for-battle/article_edd95204-d3db-56bb-8fe9-dc839e3d15ab.html">Save to Pocket</a>
+</span>
+
+---
+
+## Lujan urges support for efforts to reaffirm ties with Philippines amid China conflicts
+
+date: 2023-11-30, from: The Guam Daily Post
+
+Sen. Jesse Anderson Lujan has introduced a local resolution to support a congressional effort to reaffirm ties between the U.S. and the Republic of the Philippines amid the latter's conflicts with China.
+
+<span>
+<a href="https://www.postguam.com/news/local/lujan-urges-support-for-efforts-to-reaffirm-ties-with-philippines-amid-china-conflicts/article_331f9ca2-8f12-11ee-a84a-ebd719b46286.html">https://www.postguam.com/news/local/lujan-urges-support-for-efforts-to-reaffirm-ties-with-philippines-amid-china-conflicts/article_331f9ca2-8f12-11ee-a84a-ebd719b46286.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.postguam.com/news/local/lujan-urges-support-for-efforts-to-reaffirm-ties-with-philippines-amid-china-conflicts/article_331f9ca2-8f12-11ee-a84a-ebd719b46286.html">Save to Pocket</a>
+</span>
+
+---
+
+## Revolutionizing Hawaiʻi’s food systems focus of summit
+
+date: 2023-11-30, from: University of Hawaiʻi News
+
+<p>The <span aria-label="Hawaii">Hawai&#699;i</span>Food System Summit will be live streamed on December 14 and 15.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/30/hawaii-food-systems-focus/">Revolutionizing Hawaiʻi’s food systems focus of summit</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/30/hawaii-food-systems-focus/">https://www.hawaii.edu/news/2023/11/30/hawaii-food-systems-focus/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/30/hawaii-food-systems-focus/">Save to Pocket</a>
+</span>
+
+---
+
+## Aloha, Hola, Konnichiwa! Multicultural mural welcomes at Leeward CC
+
+date: 2023-11-30, from: University of Hawaiʻi News
+
+<p>Many hands and languages contributed to bringing the wall to life.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/30/leeward-multicultural-mural/">Aloha, Hola, Konnichiwa! Multicultural mural welcomes at Leeward <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/30/leeward-multicultural-mural/">https://www.hawaii.edu/news/2023/11/30/leeward-multicultural-mural/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/30/leeward-multicultural-mural/">Save to Pocket</a>
+</span>
 
 ---
 
