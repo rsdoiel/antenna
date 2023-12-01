@@ -1,11 +1,69 @@
 ---
 title: SoCal North 2023.48
-updated: 2023-11-30 13:29:23
+updated: 2023-11-30 17:12:48
 ---
 
 # SoCal North 2023.48
 
-(date: 2023-11-30 13:29:23)
+(date: 2023-11-30 17:12:48)
+
+---
+
+## Editorial Cartoon: “Weather Woes”
+
+date: 2023-12-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span>
+<a href="https://dailybruin.com/2023/11/30/editorial-cartoon-weather-woes/">https://dailybruin.com/2023/11/30/editorial-cartoon-weather-woes/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/30/editorial-cartoon-weather-woes/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s water polo is ready to bounce back, dive into NCAA championships
+
+date: 2023-11-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins are heading into the NCAA championships with a wake-up call.
+That&#8217;s according to Noah Rowe, at least. 
+&#8220;Now we have something to fight for,&#8221; the sophomore attacker said.
+
+<span>
+<a href="https://dailybruin.com/2023/11/30/ucla-mens-water-polo-is-ready-to-bounce-back-dive-into-ncaa-championships/">https://dailybruin.com/2023/11/30/ucla-mens-water-polo-is-ready-to-bounce-back-dive-into-ncaa-championships/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/30/ucla-mens-water-polo-is-ready-to-bounce-back-dive-into-ncaa-championships/">Save to Pocket</a>
+</span>
+
+---
+
+## CARE Court Launches In LA County On Friday
+
+date: 2023-11-30, updated: 2023-11-30, from: The LAist
+
+It will allow family members to ask a judge to step in with a treatment plan for loved ones living with severe and untreated mental illness.
+
+<span>
+<a href="https://laist.com/news/health/care-court-launches-in-la-county-on-friday">https://laist.com/news/health/care-court-launches-in-la-county-on-friday</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/health/care-court-launches-in-la-county-on-friday">Save to Pocket</a>
+</span>
+
+---
+
+## The Matadors bounce back, crush Mississippi Valley State at home
+
+date: 2023-11-30, from: The Sundail (CSUN Student Newspaper)
+
+CSUN men’s basketball (5-2) secured their second home win of the season Friday night at the Premier America Credit Union Arena, overwhelming the Mississippi Valley State Delta Devils (0-7) 84-48, and bouncing back from a ten-point home loss last Tuesday to the Le Moyne Dolphins. It was a strong defensive performance for the Matadors as...
+
+<span>
+<a href="https://sundial.csun.edu/177236/sports/the-matadors-bounce-back-crush-mississippi-valley-state-at-home/">https://sundial.csun.edu/177236/sports/the-matadors-bounce-back-crush-mississippi-valley-state-at-home/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://sundial.csun.edu/177236/sports/the-matadors-bounce-back-crush-mississippi-valley-state-at-home/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -130,7 +188,7 @@ The Soraya hosted Disney 100’s “Sound of Magic” concert on Nov. 18 from 8 
 
 date: 2023-11-30, updated: 2023-11-30, from: The LAist
 
-As both sides prepare for the final planned hostage-for-prison swap, gunmen killed three Israelis in an attack on the outskirts of West Jerusalem early Thursday.
+As both sides prepared for the final planned hostage-for-prison swap, gunmen killed three Israelis in an attack on the outskirts of West Jerusalem early Thursday.
 
 <span>
 <a href="https://laist.com/news/the-gaza-cease-fire-with-hamas-is-extended-another-day-as-blinken-arrives-in-israel">https://laist.com/news/the-gaza-cease-fire-with-hamas-is-extended-another-day-as-blinken-arrives-in-israel</a> 
