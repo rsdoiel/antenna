@@ -32,7 +32,7 @@ $if(tech_likely_page)$
 	<li><a href="$tech_likely_page$" title="likely tech news fed but other stuff happens too">Tech Likely</a></li>
 $endif$
 $if(columns_page)$
-	<li><a href="../$columns_page$" title="blogs I read like columnists">Columns</a></li>
+	<li><a href="$columns_page$" title="blogs I read like columnists">Columns</a></li>
 $endif$
 $if(weather_page)$
 	<li><a href="$weather_page$" title="U.S. National Weather">Weather</a></li>
@@ -43,14 +43,9 @@ $endif$
 </ul>
 </nav>
 <section>
-$if(title)$
-<div class="description-for-items">
-<h2>$title$</h2>
 $if(urls_file)$
+<div class="description-for-items">
 Items collected from feeds in <a href="$urls_file$">$urls_file$</a>
-$else$
-An experiment in personal news aggregation.
-$endif$
 </div>
 $endif$
 $body$

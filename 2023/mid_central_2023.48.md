@@ -1,11 +1,11 @@
 ---
-title: Mid Central 2023.48
-updated: 2023-12-01 18:09:47
+title: mid central 2023.48
+updated: 2023-12-01 19:50:59
 ---
 
-# Mid Central 2023.48
+# mid central 2023.48
 
-(date: 2023-12-01 18:09:47)
+(date: 2023-12-01 19:50:59)
 
 ---
 
