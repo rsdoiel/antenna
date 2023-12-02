@@ -1,11 +1,125 @@
 ---
 title: Mid Central 2023.48
-updated: 2023-11-30 17:12:59
+updated: 2023-12-01 18:09:47
 ---
 
 # Mid Central 2023.48
 
-(date: 2023-11-30 17:12:59)
+(date: 2023-12-01 18:09:47)
+
+---
+
+## The K7RA Solar Update
+
+date: 2023-12-01, from: Amateur Radio Relay League News
+
+<p><span>"GEOMAGNETIC DISTURBANCE WARNING 23/74 ISSUED AT 2321UT/29 NOVEMBER 2023 BY THE AUSTRALIAN SPACE WEATHER FORECASTING CENTRE. </span></p><p><span>"Several CMEs are expected to impact Earth over 30 Nov and 01 Dec. Two CMEs were observed on 27 Nov that were expected to arrive on 30 Nov, followed shortly by a very mild glancing blow from a third. </span></p><p><span>"One or possibly two halo CMEs were observed on 29 Nov which are Earth d...</span></p>
+
+<span>
+<a href="http://www.arrl.org/news/view/the-k7ra-solar-update-806">http://www.arrl.org/news/view/the-k7ra-solar-update-806</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://www.arrl.org/news/view/the-k7ra-solar-update-806">Save to Pocket</a>
+</span>
+
+---
+
+## Hmong business student encourages others to find opportunities to learn and grow on campus
+
+date: 2023-12-01, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Grace Moua, 20, is in her third year at Fresno State majoring in business with an emphasis on marketing. She also minors in media arts. As someone who is attending Fresno State as a Hmong student, “finding that opportunity to socialize in Hmong club or just with other Hmong students is kind of hard to...
+
+<span>
+<a href="https://fscollegian.com/2023/12/hmong-business-student-encourages-others-to-find-opportunities-to-learn-and-grow-on-campus/">https://fscollegian.com/2023/12/hmong-business-student-encourages-others-to-find-opportunities-to-learn-and-grow-on-campus/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://fscollegian.com/2023/12/hmong-business-student-encourages-others-to-find-opportunities-to-learn-and-grow-on-campus/">Save to Pocket</a>
+</span>
+
+---
+
+## Air Force Veteran Found Success on Second Try at Merced College
+
+date: 2023-12-01, from: Blue Devil News (Merced Community College Student Newspaper)
+
+<p>When Samuel Rashe enrolled at Merced College in 2013, it was his second attempt at a college education. He’d been away for 15 years before that, having successful careers with&#8230;</p>
+<p>The post <a href="https://www.mccd.edu/news/air-force-veteran-found-success-on-second-try-at-merced-college/">Air Force Veteran Found Success on Second Try at Merced College</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
+
+
+<span>
+<a href="https://www.mccd.edu/news/air-force-veteran-found-success-on-second-try-at-merced-college/">https://www.mccd.edu/news/air-force-veteran-found-success-on-second-try-at-merced-college/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.mccd.edu/news/air-force-veteran-found-success-on-second-try-at-merced-college/">Save to Pocket</a>
+</span>
+
+---
+
+## Football Head Coach Jeff Tedford will miss the bowl game due to health concerns
+
+date: 2023-12-01, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno State football Head Coach Jeff Tedford has stepped away from his position effective immediately due to health concerns. The development was announced Friday by Terry Tumey, director of athletics, via social media. Chris Vannini of The Athletic shared on X, formerly known as Twitter to clarify Tedford’s absence. To clarify, Jeff Tedford stepping away...
+
+<span>
+<a href="https://fscollegian.com/2023/12/football-head-coach-jeff-tedford-will-miss-the-bowl-game-due-to-health-concerns/">https://fscollegian.com/2023/12/football-head-coach-jeff-tedford-will-miss-the-bowl-game-due-to-health-concerns/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://fscollegian.com/2023/12/football-head-coach-jeff-tedford-will-miss-the-bowl-game-due-to-health-concerns/">Save to Pocket</a>
+</span>
+
+---
+
+## WX1AW Active for 2023 SKYWARN™ Recognition Day
+
+date: 2023-12-01, from: Amateur Radio Relay League News
+
+<p>As part of the celebrations for SKYWARN™ Recognition Day (SRD) on December 2, 2023, hams will be on the air as WX1AW from the ARRL® Radio Laboratory station, W1HQ. ARRL Director of Emergency Management Josh Johnston, KE5MHV, and other amateurs plan to be on the air for several hours Saturday morning and midday. </p><p>The event honors all SKYWARN storm spotters and amateur radio operators for their co...</p>
+
+<span>
+<a href="http://www.arrl.org/news/view/wx1aw-active-for-2023-skywarn-recognition-day">http://www.arrl.org/news/view/wx1aw-active-for-2023-skywarn-recognition-day</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://www.arrl.org/news/view/wx1aw-active-for-2023-skywarn-recognition-day">Save to Pocket</a>
+</span>
+
+---
+
+## ARRL RF Safety Committee Develops New Guidelines to Communicate RF Safety
+
+date: 2023-12-01, from: Amateur Radio Relay League News
+
+<p>Radio amateurs now have a new tool from ARRL  The National Association for Amateur Radio® to help answer questions about their stations. Neighbors of amateur radio operators are sometimes concerned about transmissions and radio frequency exposure from amateur stations. The ARRL RF Safety Committee, with their international counterparts at the Radio Society of Great Britain (RSGB), the Irish Rad...</p>
+
+<span>
+<a href="http://www.arrl.org/news/view/arrl-rf-safety-committee-develops-new-guidelines-to-communicate-rf-safety">http://www.arrl.org/news/view/arrl-rf-safety-committee-develops-new-guidelines-to-communicate-rf-safety</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://www.arrl.org/news/view/arrl-rf-safety-committee-develops-new-guidelines-to-communicate-rf-safety">Save to Pocket</a>
+</span>
+
+---
+
+## Speech Arts building remains closed until Monday as repairs continue, but ‘Seminar’ will go on as planned
+
+date: 2023-12-01, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Speech Arts will remain closed until Monday, Dec. 4, after a damaged hot water line led to the evacuation and closure of the building on Wednesday. The Fresno State Department of Theatre and Dance is suffering the consequences of the event. “Seminar,” the upcoming theater production scheduled to hold its opening night in the John...
+
+<span>
+<a href="https://fscollegian.com/2023/12/speech-arts-building-remains-closed-until-monday-as-repairs-continue-but-seminar-will-go-on-as-planned/">https://fscollegian.com/2023/12/speech-arts-building-remains-closed-until-monday-as-repairs-continue-but-seminar-will-go-on-as-planned/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://fscollegian.com/2023/12/speech-arts-building-remains-closed-until-monday-as-repairs-continue-but-seminar-will-go-on-as-planned/">Save to Pocket</a>
+</span>
+
+---
+
+## The fall mainstage theater season closes with ‘Seminar’
+
+date: 2023-12-01, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+University Theatre gears up to present Theresa Rebeck&#8217;s acclaimed play, &#8220;Seminar.&#8221; This production aims to be a hilarious exploration of the complexities that lie beneath the surface of creative pursuits. “Seminar” is a visual representation of artistic ambition that involves sexual politics and self-sacrifice. Director Brad Myers leads a double-cast, meaning two casts of student...
+
+<span>
+<a href="https://fscollegian.com/2023/11/the-fall-mainstage-theater-season-closes-with-seminar/">https://fscollegian.com/2023/11/the-fall-mainstage-theater-season-closes-with-seminar/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://fscollegian.com/2023/11/the-fall-mainstage-theater-season-closes-with-seminar/">Save to Pocket</a>
+</span>
 
 ---
 

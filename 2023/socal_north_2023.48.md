@@ -1,11 +1,483 @@
 ---
 title: SoCal North 2023.48
-updated: 2023-11-30 17:12:48
+updated: 2023-12-01 18:09:42
 ---
 
 # SoCal North 2023.48
 
-(date: 2023-11-30 17:12:48)
+(date: 2023-12-01 18:09:42)
+
+---
+
+## Sheriff’s Log: Nov. 23 to Nov. 29, 2023
+
+date: 2023-12-01, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Nov. 23 to Nov. 29, 2023. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted, [&#8230;]
+
+<span>
+<a href="https://thecatalinaislander.com/sheriffs-log-nov-23-to-nov-29-2023/">https://thecatalinaislander.com/sheriffs-log-nov-23-to-nov-29-2023/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://thecatalinaislander.com/sheriffs-log-nov-23-to-nov-29-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Winter fun at Avalon Library
+
+date: 2023-12-01, from: Catalina Islander
+
+The days may be getting shorter, and the nights longer, and the winds may blow, causing the boat to be cancelled due to High Seas—but at Avalon Library, we are setting up for a month of exciting programs for all ages and sensibilities! On Dec. 12 at 4 p.m., we’re particularly excited to welcome back [&#8230;]
+
+<span>
+<a href="https://thecatalinaislander.com/winter-fun-at-avalon-library/">https://thecatalinaislander.com/winter-fun-at-avalon-library/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://thecatalinaislander.com/winter-fun-at-avalon-library/">Save to Pocket</a>
+</span>
+
+---
+
+## Thriving Through Finals
+
+date: 2023-12-01, from: CI View (CSCI Student Newspaper)
+
+By Miriam Packard As we approach the conclusion of this semester, the air is thick with anticipation and the scent of freshly brewed coffee (confession: [&#8230;]
+
+<span>
+<a href="http://civiewnews.com/opinion/thriving-through-finals/?utm_source=rss&utm_medium=rss&utm_campaign=thriving-through-finals">http://civiewnews.com/opinion/thriving-through-finals/?utm_source=rss&utm_medium=rss&utm_campaign=thriving-through-finals</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://civiewnews.com/opinion/thriving-through-finals/?utm_source=rss&utm_medium=rss&utm_campaign=thriving-through-finals">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s water polo sinks Biola to advance to NCAA tournament semifinal
+
+date: 2023-12-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+The NCAA men’s water polo tournament featured a true David versus Goliath matchup.
+Fortunately for the Bruins, Friday’s first-round bout would be one of few surprises.&#160;
+No.
+
+<span>
+<a href="https://dailybruin.com/2023/12/01/ucla-mens-water-polo-sinks-biola-to-advance-to-ncaa-tournament-semifinal/">https://dailybruin.com/2023/12/01/ucla-mens-water-polo-sinks-biola-to-advance-to-ncaa-tournament-semifinal/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/12/01/ucla-mens-water-polo-sinks-biola-to-advance-to-ncaa-tournament-semifinal/">Save to Pocket</a>
+</span>
+
+---
+
+## Broadcasting: How We Fell in Love with CSUCI
+
+date: 2023-12-01, from: CI View (CSCI Student Newspaper)
+
+By Ashley Tolteca and Allen Monge
+
+<span>
+<a href="http://civiewnews.com/broadcasting/broadcasting-how-we-fell-in-love-with-csuci/?utm_source=rss&utm_medium=rss&utm_campaign=broadcasting-how-we-fell-in-love-with-csuci">http://civiewnews.com/broadcasting/broadcasting-how-we-fell-in-love-with-csuci/?utm_source=rss&utm_medium=rss&utm_campaign=broadcasting-how-we-fell-in-love-with-csuci</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://civiewnews.com/broadcasting/broadcasting-how-we-fell-in-love-with-csuci/?utm_source=rss&utm_medium=rss&utm_campaign=broadcasting-how-we-fell-in-love-with-csuci">Save to Pocket</a>
+</span>
+
+---
+
+## Homelessness and Hunger Plaguing the CSU
+
+date: 2023-12-01, from: CI View (CSCI Student Newspaper)
+
+By Sydney Beck (*Editor’s note: All the names of students have been changed in order to protect their identity and prevent repercussions from future professors [&#8230;]
+
+<span>
+<a href="http://civiewnews.com/opinion/homelessness-and-hunger-plaguing-the-csu/?utm_source=rss&utm_medium=rss&utm_campaign=homelessness-and-hunger-plaguing-the-csu">http://civiewnews.com/opinion/homelessness-and-hunger-plaguing-the-csu/?utm_source=rss&utm_medium=rss&utm_campaign=homelessness-and-hunger-plaguing-the-csu</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://civiewnews.com/opinion/homelessness-and-hunger-plaguing-the-csu/?utm_source=rss&utm_medium=rss&utm_campaign=homelessness-and-hunger-plaguing-the-csu">Save to Pocket</a>
+</span>
+
+---
+
+## President Jim Gash is Fizz Famous
+
+date: 2023-12-01, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>On the evening of October 6th, 2023, Pepperdine President Jim Gash spent his night practicing free throws in the Firestone Fieldhouse, hoping to accomplish one simple goal. At Blue and Orange Madness, in front of the packed bleachers, Gash made the half-court shot, winning one lucky Pepperdine student free tuition for the year. Following the [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/president-jim-gash-is-fizz-famous/">President Jim Gash is Fizz Famous</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+
+
+<span>
+<a href="https://pepperdinebeacon.com/president-jim-gash-is-fizz-famous/?utm_source=rss&utm_medium=rss&utm_campaign=president-jim-gash-is-fizz-famous">https://pepperdinebeacon.com/president-jim-gash-is-fizz-famous/?utm_source=rss&utm_medium=rss&utm_campaign=president-jim-gash-is-fizz-famous</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://pepperdinebeacon.com/president-jim-gash-is-fizz-famous/?utm_source=rss&utm_medium=rss&utm_campaign=president-jim-gash-is-fizz-famous">Save to Pocket</a>
+</span>
+
+---
+
+## Broadway Star Audra McDonald Named Grand Marshal Of The Tournament Of Roses
+
+date: 2023-12-01, updated: 2023-12-01, from: The LAist
+
+McDonald said she and her family are grateful to kick off 2024 in her home state, “underneath the California sunshine, surrounded by flowers, football, fans and music."
+
+<span>
+<a href="https://laist.com/news/broadway-star-audra-mcdonald-named-grand-marshal-of-the-tournament-of-roses">https://laist.com/news/broadway-star-audra-mcdonald-named-grand-marshal-of-the-tournament-of-roses</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/broadway-star-audra-mcdonald-named-grand-marshal-of-the-tournament-of-roses">Save to Pocket</a>
+</span>
+
+---
+
+## Academic Freedom and the Christian College
+
+date: 2023-12-01, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>As documented in the two previous articles in this series, simple appeals to academic freedom soon find themselves mired in disputes about the purpose and limits of such freedom. This dispute expands inevitably to disagreements about the nature of the teaching profession, the academic ideal, and the place of the university in society. Even in [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/academic-freedom-and-the-christian-college/">Academic Freedom and the Christian College</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+
+
+<span>
+<a href="https://pepperdinebeacon.com/academic-freedom-and-the-christian-college/?utm_source=rss&utm_medium=rss&utm_campaign=academic-freedom-and-the-christian-college">https://pepperdinebeacon.com/academic-freedom-and-the-christian-college/?utm_source=rss&utm_medium=rss&utm_campaign=academic-freedom-and-the-christian-college</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://pepperdinebeacon.com/academic-freedom-and-the-christian-college/?utm_source=rss&utm_medium=rss&utm_campaign=academic-freedom-and-the-christian-college">Save to Pocket</a>
+</span>
+
+---
+
+## Hilá Plitmann, UCLA music students debut original compositions at Schoenberg Hall
+
+date: 2023-12-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+This December, a flurry of musical knowledge falls over Schoenberg.
+Following a weeklong residency at the Herb Alpert School of Music, Grammy Award-winning vocalist Hil&#225; Plitmann will premiere new student works in concert at Schoenberg Hall.
+
+<span>
+<a href="https://dailybruin.com/2023/12/01/hil-plitmann-ucla-music-students-debut-original-compositions-at-schoenberg-hall/">https://dailybruin.com/2023/12/01/hil-plitmann-ucla-music-students-debut-original-compositions-at-schoenberg-hall/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/12/01/hil-plitmann-ucla-music-students-debut-original-compositions-at-schoenberg-hall/">Save to Pocket</a>
+</span>
+
+---
+
+## Gallery: Events on campus bring LatinX community together for Día de los Muertos
+
+date: 2023-12-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Organizations like Mariachi de Uclatl&#225;n, Movimiento Estudiantil Chicana/o/x de Aztla&#769;n de UCLA, and Grupo Folk&#243;rico de UCLA brought the LatinX community on campus together to celebrate D&#237;a de los Muertos.
+
+<span>
+<a href="https://dailybruin.com/2023/12/01/gallery-events-on-campus-bring-latinx-community-together-for-da-de-los-muertos/">https://dailybruin.com/2023/12/01/gallery-events-on-campus-bring-latinx-community-together-for-da-de-los-muertos/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/12/01/gallery-events-on-campus-bring-latinx-community-together-for-da-de-los-muertos/">Save to Pocket</a>
+</span>
+
+---
+
+## LA To Require Hotels And Short Term Rentals Like Airbnb To Obtain A Police Permit
+
+date: 2023-12-01, updated: 2023-12-01, from: The LAist
+
+Hotel owners and the Los Angeles Police Commission say the new requirement will overburden the system.
+
+<span>
+<a href="https://laist.com/news/housing-homelessness/la-to-require-hotels-and-short-term-rentals-like-airbnb-to-obtain-a-police-permit">https://laist.com/news/housing-homelessness/la-to-require-hotels-and-short-term-rentals-like-airbnb-to-obtain-a-police-permit</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/housing-homelessness/la-to-require-hotels-and-short-term-rentals-like-airbnb-to-obtain-a-police-permit">Save to Pocket</a>
+</span>
+
+---
+
+## Letter From the Editor
+
+date: 2023-12-01, from: CI View (CSCI Student Newspaper)
+
+By Miriam Packard Dear Dolphins, As we wrap up the fall semester, I cannot help but look back on this last semester. Brand new to [&#8230;]
+
+<span>
+<a href="http://civiewnews.com/opinion/letter-from-the-editor-3/?utm_source=rss&utm_medium=rss&utm_campaign=letter-from-the-editor-3">http://civiewnews.com/opinion/letter-from-the-editor-3/?utm_source=rss&utm_medium=rss&utm_campaign=letter-from-the-editor-3</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="http://civiewnews.com/opinion/letter-from-the-editor-3/?utm_source=rss&utm_medium=rss&utm_campaign=letter-from-the-editor-3">Save to Pocket</a>
+</span>
+
+---
+
+## Port of Hueneme Receives Grant to Build the First in the US Port Auto Parking Structure
+
+date: 2023-12-01, from: Port Hueneme
+
+Download Press Release [PORT HUENEME, CA – November 28, 2023] – Earlier this month, the Port of Hueneme was awarded a $2 million federal grant for planning activities related to a parking structure that will serve as the transfer point between ocean-going vessels and the rail or trucks being used to transport automobiles off port. <a class="read-more-style" href="https://www.portofhueneme.org/parking-structure-11-28-2023/">Read More</a>
+
+<span>
+<a href="https://www.portofhueneme.org/parking-structure-11-28-2023/">https://www.portofhueneme.org/parking-structure-11-28-2023/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.portofhueneme.org/parking-structure-11-28-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Nice Looking Gingerbread House You Got There... But Can It Withstand An Earthquake?
+
+date: 2023-12-01, updated: 2023-12-01, from: The LAist
+
+This weekend kicks off the second annual Southern California Gingerbread Challenge, wherein structural engineers from the region compete to make the best gingerbread constructions for a charitable cause.
+
+<span>
+<a href="https://laist.com/news/food/nice-looking-gingerbread-house-you-got-there-but-can-it-withstand-an-earthquake">https://laist.com/news/food/nice-looking-gingerbread-house-you-got-there-but-can-it-withstand-an-earthquake</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/food/nice-looking-gingerbread-house-you-got-there-but-can-it-withstand-an-earthquake">Save to Pocket</a>
+</span>
+
+---
+
+## Can’t Find Parking In K-Town? Try Eating Your Way Through Buena Park
+
+date: 2023-12-01, updated: 2023-12-01, from: The LAist
+
+Orange County’s newly designated Koreatown has long-rivaled LA's K-town food scene. Here are some of the best spots to take family and friends for the holidays.
+
+<span>
+<a href="https://laist.com/news/food/buena-park-koreatown-korean-food-cant-find-parking-in-k-town-try-eating-your-way">https://laist.com/news/food/buena-park-koreatown-korean-food-cant-find-parking-in-k-town-try-eating-your-way</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/food/buena-park-koreatown-korean-food-cant-find-parking-in-k-town-try-eating-your-way">Save to Pocket</a>
+</span>
+
+---
+
+## A Mexican Foodie Paradise Opens In Costa Mesa
+
+date: 2023-12-01, updated: 2023-12-01, from: The LAist
+
+Northgate Market's 44th store aims to evoke a traditional mercado with a modern flair.
+
+<span>
+<a href="https://laist.com/news/food/mercado-gonzalez-mexican-foodie-paradise-opens-in-costa-mesa">https://laist.com/news/food/mercado-gonzalez-mexican-foodie-paradise-opens-in-costa-mesa</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/food/mercado-gonzalez-mexican-foodie-paradise-opens-in-costa-mesa">Save to Pocket</a>
+</span>
+
+---
+
+## Cheap Fast Eats: $10 Dining Deals In Mid-City (Including Some Of The Best Pizza In LA)
+
+date: 2023-12-01, updated: 2023-12-01, from: The LAist
+
+From some of the best pizza you can find in L.A. to smash burgers, plant-based tacos and strip mall dim sum, the Mid-City area delivers tasty bites for less.
+
+<span>
+<a href="https://laist.com/news/food/cheap-fast-eats-10-dining-deals-in-mid-city-including-some-of-the-best-pizza-in-la">https://laist.com/news/food/cheap-fast-eats-10-dining-deals-in-mid-city-including-some-of-the-best-pizza-in-la</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/food/cheap-fast-eats-10-dining-deals-in-mid-city-including-some-of-the-best-pizza-in-la">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s basketball sinks UC Riverside with last-second shot
+
+date: 2023-12-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 1 at 12:06 a.m.</em>
+Down 65-63 with 40 seconds to go, freshman Aday Mara – a center who averages .500 from the charity stripe – was sent to the line.&#160;
+Mara met expectations, swishing one free throw and giving UC Riverside the ball back.
+
+<span>
+<a href="https://dailybruin.com/2023/11/30/ucla-sinks-riverside-with-last-second-shot/">https://dailybruin.com/2023/11/30/ucla-sinks-riverside-with-last-second-shot/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/30/ucla-sinks-riverside-with-last-second-shot/">Save to Pocket</a>
+</span>
+
+---
+
+## 5-IMG_4950.jpg
+
+date: 2023-12-01, from: Laloyolan (LMU Student Newspaper)
+
+Live tabla and trumpet performed by Agrawal, left, and Ireesh Lal, right.
+
+<span>
+<a href="https://www.laloyolan.com/photo/5-img-4950-jpg/image_5458589a-350e-5c00-b60a-87d30a8759e6.html">https://www.laloyolan.com/photo/5-img-4950-jpg/image_5458589a-350e-5c00-b60a-87d30a8759e6.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/photo/5-img-4950-jpg/image_5458589a-350e-5c00-b60a-87d30a8759e6.html">Save to Pocket</a>
+</span>
+
+---
+
+## 7-IMG_5212.jpg
+
+date: 2023-12-01, from: Laloyolan (LMU Student Newspaper)
+
+Students dancing and enjoying the celebration.
+
+<span>
+<a href="https://www.laloyolan.com/photo/7-img-5212-jpg/image_02ebaca9-f7b5-5f08-b285-6a2b95bea391.html">https://www.laloyolan.com/photo/7-img-5212-jpg/image_02ebaca9-f7b5-5f08-b285-6a2b95bea391.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/photo/7-img-5212-jpg/image_02ebaca9-f7b5-5f08-b285-6a2b95bea391.html">Save to Pocket</a>
+</span>
+
+---
+
+## 2-IMG_5064.jpg
+
+date: 2023-12-01, from: Laloyolan (LMU Student Newspaper)
+
+Students posted in the photo booth at the event.
+
+<span>
+<a href="https://www.laloyolan.com/photo/2-img-5064-jpg/image_2e8f5c99-7dbc-54fc-8cae-64eb4cc6e37c.html">https://www.laloyolan.com/photo/2-img-5064-jpg/image_2e8f5c99-7dbc-54fc-8cae-64eb4cc6e37c.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/photo/2-img-5064-jpg/image_2e8f5c99-7dbc-54fc-8cae-64eb4cc6e37c.html">Save to Pocket</a>
+</span>
+
+---
+
+## 1-IMG_5167.jpg
+
+date: 2023-12-01, from: Laloyolan (LMU Student Newspaper)
+
+Junior film, TV and media studies major Sriram Vijay, left, and junior finance major Armaan Jhangiani, right, dancing to Naatu Naatu from the film "RRR."
+
+<span>
+<a href="https://www.laloyolan.com/photo/1-img-5167-jpg/image_22e3c303-7ab3-511c-95a8-1a13becae157.html">https://www.laloyolan.com/photo/1-img-5167-jpg/image_22e3c303-7ab3-511c-95a8-1a13becae157.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/photo/1-img-5167-jpg/image_22e3c303-7ab3-511c-95a8-1a13becae157.html">Save to Pocket</a>
+</span>
+
+---
+
+## 6-IMG_5144.jpg
+
+date: 2023-12-01, from: Laloyolan (LMU Student Newspaper)
+
+Event runners, senior marketing and management and leadership double major Drishti Jhangiani, left, and sophomore theatre arts and economics double major Dhruv Kanani, right, wearing a Lehengha and Kurta respectively.
+
+<span>
+<a href="https://www.laloyolan.com/photo/6-img-5144-jpg/image_1cbeb26a-45de-5a21-a1c8-155e44409cbe.html">https://www.laloyolan.com/photo/6-img-5144-jpg/image_1cbeb26a-45de-5a21-a1c8-155e44409cbe.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/photo/6-img-5144-jpg/image_1cbeb26a-45de-5a21-a1c8-155e44409cbe.html">Save to Pocket</a>
+</span>
+
+---
+
+## 3-IMG_5129.jpg
+
+date: 2023-12-01, from: Laloyolan (LMU Student Newspaper)
+
+Digital Projects Librarian at William H. Hannon Library Neel Agrawal, showcased his talent with an interactive tabla performance.
+
+<span>
+<a href="https://www.laloyolan.com/photo/3-img-5129-jpg/image_cddcd9ff-fe26-5f0a-ba0e-fa9798afe45e.html">https://www.laloyolan.com/photo/3-img-5129-jpg/image_cddcd9ff-fe26-5f0a-ba0e-fa9798afe45e.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/photo/3-img-5129-jpg/image_cddcd9ff-fe26-5f0a-ba0e-fa9798afe45e.html">Save to Pocket</a>
+</span>
+
+---
+
+## 4-IMG_5238.jpg
+
+date: 2023-12-01, from: Laloyolan (LMU Student Newspaper)
+
+LMU SASA executive board posed for a photo dressed in traditional attire.
+
+<span>
+<a href="https://www.laloyolan.com/photo/4-img-5238-jpg/image_fca0d331-02f2-5551-8057-7066a1a96d90.html">https://www.laloyolan.com/photo/4-img-5238-jpg/image_fca0d331-02f2-5551-8057-7066a1a96d90.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/photo/4-img-5238-jpg/image_fca0d331-02f2-5551-8057-7066a1a96d90.html">Save to Pocket</a>
+</span>
+
+---
+
+## Photo Feature: Diwali Celebration
+
+date: 2023-12-01, from: Laloyolan (LMU Student Newspaper)
+
+On Friday, Nov. 17, LMU’s South Asian Students Association held their annual Diwali Celebration at St. Robert's Auditorium. The event included traditional Indian food, henna designs, live music and various performances.
+
+<span>
+<a href="https://www.laloyolan.com/photo/photo-feature-diwali-celebration/article_23ae6bc5-54c2-5ae3-b498-5d64ce485f7d.html">https://www.laloyolan.com/photo/photo-feature-diwali-celebration/article_23ae6bc5-54c2-5ae3-b498-5d64ce485f7d.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/photo/photo-feature-diwali-celebration/article_23ae6bc5-54c2-5ae3-b498-5d64ce485f7d.html">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: Together with Alternative 6, Alternative 5 presents opportunity for more efficient transit
+
+date: 2023-12-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+After recognizing the benefits offered by Alternative 6, the Editorial Board also endorses Alternative 5 as a tangible solution for reduced transit times and more efficient travel.
+
+<span>
+<a href="https://dailybruin.com/2023/11/30/editorial-together-with-alternative-6-alternative-5-presents-opportunity-for-more-efficient-transit/">https://dailybruin.com/2023/11/30/editorial-together-with-alternative-6-alternative-5-presents-opportunity-for-more-efficient-transit/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/30/editorial-together-with-alternative-6-alternative-5-presents-opportunity-for-more-efficient-transit/">Save to Pocket</a>
+</span>
+
+---
+
+## 2023: The year prequels took over Hollywood
+
+date: 2023-12-01, from: Laloyolan (LMU Student Newspaper)
+
+Does everything need an origin story? According to Hollywood this year, the answer seems to be yes.
+
+<span>
+<a href="https://www.laloyolan.com/life_and_arts/2023-the-year-prequels-took-over-hollywood/article_7153f206-79ed-5c21-8ffc-5d380ba63f41.html">https://www.laloyolan.com/life_and_arts/2023-the-year-prequels-took-over-hollywood/article_7153f206-79ed-5c21-8ffc-5d380ba63f41.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/life_and_arts/2023-the-year-prequels-took-over-hollywood/article_7153f206-79ed-5c21-8ffc-5d380ba63f41.html">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s swimming looks to close out the year with a win
+
+date: 2023-12-01, from: Laloyolan (LMU Student Newspaper)
+
+LMU women’s swimming approaches their final meet of the year on Dec. 15. With their season hitting the halfway mark, the Lions have shown promise in their past meets, but have also shown room for improvement.
+
+<span>
+<a href="https://www.laloyolan.com/sports/swimming/women-s-swimming-looks-to-close-out-the-year-with-a-win/article_33ed4566-d3e6-5cc2-9b82-4a6aaf1cc3f2.html">https://www.laloyolan.com/sports/swimming/women-s-swimming-looks-to-close-out-the-year-with-a-win/article_33ed4566-d3e6-5cc2-9b82-4a6aaf1cc3f2.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.laloyolan.com/sports/swimming/women-s-swimming-looks-to-close-out-the-year-with-a-win/article_33ed4566-d3e6-5cc2-9b82-4a6aaf1cc3f2.html">Save to Pocket</a>
+</span>
+
+---
+
+## School of Medicine brings together community with Diwali celebration
+
+date: 2023-12-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA David Geffen School of Medicine hosted a celebration Nov. 16 in honor of Diwali, a prominent South Asian cultural and religious holiday known as the Festival of Lights.
+
+<span>
+<a href="https://dailybruin.com/2023/11/30/school-of-medicine-brings-together-community-with-diwali-celebration/">https://dailybruin.com/2023/11/30/school-of-medicine-brings-together-community-with-diwali-celebration/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/30/school-of-medicine-brings-together-community-with-diwali-celebration/">Save to Pocket</a>
+</span>
+
+---
+
+## Pi Kappa Phi fraternity to return to UCLA following disbanding
+
+date: 2023-12-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Nov. 30 at 9:43 p.m.&#160;</em>
+Editor&#8217;s note: This article contains strong language that The Bruin decided was necessary to demonstrate the severity of comments members made before the fraternity was dissolved.
+
+<span>
+<a href="https://dailybruin.com/2023/11/30/pi-kappa-phi-fraternity-to-return-to-ucla-following-disbanding/">https://dailybruin.com/2023/11/30/pi-kappa-phi-fraternity-to-return-to-ucla-following-disbanding/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://dailybruin.com/2023/11/30/pi-kappa-phi-fraternity-to-return-to-ucla-following-disbanding/">Save to Pocket</a>
+</span>
+
+---
+
+## OC Supervisor Faces Calls To Resign Including From Within Little Saigon
+
+date: 2023-12-01, updated: 2023-12-01, from: The LAist
+
+An LAist investigation into Supervisor Andrew Do is creating waves in the Vietnamese American community that helped him win the county's highest office.
+
+<span>
+<a href="https://laist.com/news/politics/oc-supervisor-faces-calls-to-resign-including-from-within-little-saigon">https://laist.com/news/politics/oc-supervisor-faces-calls-to-resign-including-from-within-little-saigon</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/politics/oc-supervisor-faces-calls-to-resign-including-from-within-little-saigon">Save to Pocket</a>
+</span>
 
 ---
 
@@ -27,9 +499,9 @@ date: 2023-12-01, from: The Daily Bruin (UCLA Student Newspaper)
 
 date: 2023-11-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+This&#160;post was updated Nov. 30 at 11:30 p.m.
 The Bruins are heading into the NCAA championships with a wake-up call.
-That&#8217;s according to Noah Rowe, at least. 
-&#8220;Now we have something to fight for,&#8221; the sophomore attacker said.
+That&#8217;s according to Noah Rowe, at least.
 
 <span>
 <a href="https://dailybruin.com/2023/11/30/ucla-mens-water-polo-is-ready-to-bounce-back-dive-into-ncaa-championships/">https://dailybruin.com/2023/11/30/ucla-mens-water-polo-is-ready-to-bounce-back-dive-into-ncaa-championships/</a> 
@@ -71,8 +543,9 @@ CSUN men’s basketball (5-2) secured their second home win of the season Friday
 
 date: 2023-11-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+This post was updated Nov. 30 at 11:21 p.m.
 Dante Moore will enter the transfer portal, he told 247Sports on Thursday.&#160;
-UCLA football’s freshman quarterback will enter the portal Dec. 4 when it opens for undergraduate students.
+UCLA football’s freshman quarterback will enter the portal Dec.
 
 <span>
 <a href="https://dailybruin.com/2023/11/30/ucla-football-freshman-quarterback-dante-moore-to-enter-transfer-portal/">https://dailybruin.com/2023/11/30/ucla-football-freshman-quarterback-dante-moore-to-enter-transfer-portal/</a> 
@@ -258,8 +731,8 @@ A majority of the 23 flagged locations are in the downtown L.A. area. Still, off
 
 date: 2023-11-30, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Nov. 30 at 11:51 a.m.</em>
-Nearly 100 students and community members gathered Wednesday for a “die-in” and demonstration to recognize Palestinian lives lost in the recent violence in Gaza.
+<em>This post was updated Nov. 30 at 9:29 p.m.&#160;</em>
+Nearly 100 students and community members gathered Wednesday for a “die-in” and demonstration to recognize Palestinian lives lost in recent violence in Gaza.
 
 <span>
 <a href="https://dailybruin.com/2023/11/29/students-for-justice-in-palestine-hosts-die-in-to-honor-victims-of-gaza-violence/">https://dailybruin.com/2023/11/29/students-for-justice-in-palestine-hosts-die-in-to-honor-victims-of-gaza-violence/</a> 
@@ -273,7 +746,8 @@ Nearly 100 students and community members gathered Wednesday for a “die-in” 
 
 date: 2023-11-30, from: The Daily Bruin (UCLA Student Newspaper)
 
-UCLA students and community members have long awaited the opening of 99 Ranch Market. 
+<em>This post was updated Nov. 30 at 9:58 p.m.&#160;</em>
+UCLA students and community members have long awaited the opening of 99 Ranch Market.
 A ribbon cutting ceremony marked the end of the three-year wait Wednesday.
 
 <span>
@@ -302,8 +776,9 @@ Black, Jewish and LGBTQIA+ residents endured the most reported hate crimes in th
 
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
+This post was updated&#160;Nov. 30 at 11:37 p.m.
 Déjà vu is in the air.
-UCLA women’s volleyball missed out on an NCAA tournament appearance for the second straight year on Sunday after yet another up-and-down season plagued by injuries and unforeseen losses.
+UCLA women’s volleyball missed out on an NCAA tournament appearance for the second straight year Sunday after yet another up-and-down season plagued by injuries and unforeseen losses.
 
 <span>
 <a href="https://dailybruin.com/2023/11/29/reft-revitalizes-ucla-womens-volleyball-despite-rocky-season/">https://dailybruin.com/2023/11/29/reft-revitalizes-ucla-womens-volleyball-despite-rocky-season/</a> 
@@ -317,6 +792,7 @@ UCLA women’s volleyball missed out on an NCAA tournament appearance for the se
 
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Nov. 30 at 7:52 p.m.&#160;</em>
 Sequins and self-expression were on display as drag queens strutted in Royce Hall.
 Bimbos Theatre Co. and the Student Committee for the Arts at UCLA hosted a drag showcase for charity Tuesday evening in the Royce Rehearsal Room.
 
@@ -390,7 +866,8 @@ date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
 date: 2023-11-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-No. 1 seed UCLA men&#8217;s water polo (24-2, 7-0 MPSF) enters the NCAA tournament on a two-game skid from the MPSF tournament &#8211; its first two losses of the season.
+<em>This post was updated Nov. 30 at 11:45 p.m.</em>
+No. 1 seed UCLA men’s water polo (24-2, 7-0 MPSF) enters the NCAA tournament on a two-game skid from the MPSF tournament – its first two losses of the season.
 
 <span>
 <a href="https://dailybruin.com/2023/11/29/ucla-mens-water-polo-2023-ncaa-tournament-predictions/">https://dailybruin.com/2023/11/29/ucla-mens-water-polo-2023-ncaa-tournament-predictions/</a> 
@@ -544,6 +1021,20 @@ date: 2023-11-29, from: The Round Up (Peirce College Student Newspaper)
 
 ---
 
+## Falling In And Out Of Love With LA's Mystery-Cloaked Magic Castle
+
+date: 2023-11-29, updated: 2023-12-01, from: The LAist
+
+For one devoted hobbyist magician, the members-only Los Angeles institution was too alluring to resist. But the love faded. 'Imperfect Paradise: The Castle,' Part 1.
+
+<span>
+<a href="https://laist.com/news/arts-and-entertainment/imperfect-paradise-the-castle-part-1">https://laist.com/news/arts-and-entertainment/imperfect-paradise-the-castle-part-1</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://laist.com/news/arts-and-entertainment/imperfect-paradise-the-castle-part-1">Save to Pocket</a>
+</span>
+
+---
+
 ## In ‘Historic’ Vote, LA City Council Places Independent Redistricting On 2024 Ballot
 
 date: 2023-11-29, updated: 2023-11-29, from: The LAist
@@ -582,20 +1073,6 @@ This fall, California made it easier for community college students to transfer 
 <a href="https://laist.com/news/education/hbcu-community-college-student-transfers">https://laist.com/news/education/hbcu-community-college-student-transfers</a> 
 <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
    data-save-url="https://laist.com/news/education/hbcu-community-college-student-transfers">Save to Pocket</a>
-</span>
-
----
-
-## Falling In And Out Of Love With LA's Mystery-Cloaked Magic Castle
-
-date: 2023-11-29, updated: 2023-11-29, from: The LAist
-
-For one devoted hobbyist magician, the members-only Los Angeles institution was too alluring to resist. But the love faded. 'Imperfect Paradise: The Castle,' Part 1.
-
-<span>
-<a href="https://laist.com/news/arts-and-entertainment/imperfect-paradise-the-castle-part-1">https://laist.com/news/arts-and-entertainment/imperfect-paradise-the-castle-part-1</a> 
-<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
-   data-save-url="https://laist.com/news/arts-and-entertainment/imperfect-paradise-the-castle-part-1">Save to Pocket</a>
 </span>
 
 ---
@@ -855,6 +1332,22 @@ The parents of Deputy Ryan Clinkunbroomer say his killing while on duty outside 
 <a href="https://laist.com/news/criminal-justice/family-of-la-county-sheriffs-deputy-plan-to-claim-in-lawsuit-that-forced-overtime-contributed-to-his-death">https://laist.com/news/criminal-justice/family-of-la-county-sheriffs-deputy-plan-to-claim-in-lawsuit-that-forced-overtime-contributed-to-his-death</a> 
 <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
    data-save-url="https://laist.com/news/criminal-justice/family-of-la-county-sheriffs-deputy-plan-to-claim-in-lawsuit-that-forced-overtime-contributed-to-his-death">Save to Pocket</a>
+</span>
+
+---
+
+## Indigenous Ecologies: Cultivating Fire, Plants, and Climate Futurity
+
+date: 2023-11-28, from: California Native Plants Society
+
+<p>Eco-cultural restoration led by Native women invokes societal roles held since time immemorial while also offering a unique perspective of the environment, including land tending and care.</p>
+<p>The post <a href="https://www.cnps.org/artemisia-journal/indigenous-ecologies-cultivating-fire-plants-and-climate-futurity-36553">Indigenous Ecologies: Cultivating Fire, Plants, and Climate Futurity</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+
+
+<span>
+<a href="https://www.cnps.org/artemisia-journal/indigenous-ecologies-cultivating-fire-plants-and-climate-futurity-36553">https://www.cnps.org/artemisia-journal/indigenous-ecologies-cultivating-fire-plants-and-climate-futurity-36553</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.cnps.org/artemisia-journal/indigenous-ecologies-cultivating-fire-plants-and-climate-futurity-36553">Save to Pocket</a>
 </span>
 
 ---

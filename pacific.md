@@ -1,11 +1,413 @@
 ---
 title: Pacific 2023.48
-updated: 2023-11-30 17:13:38
+updated: 2023-12-01 18:10:14
 ---
 
 # Pacific 2023.48
 
-(date: 2023-11-30 17:13:38)
+(date: 2023-12-01 18:10:14)
+
+---
+
+## Molding Artistry: Telly Kongolo and The Potter’s Studio
+
+date: 2023-12-01, from: Pacific Island Times
+
+By Myracle Mugol Telly Kongolo, an artist and small business owner, shares his journey from the bustling streets of Kinshasa, the capital...
+
+<span>
+<a href="https://www.pacificislandtimes.com/post/molding-artistry-telly-kongolo-and-the-potter-s-studio">https://www.pacificislandtimes.com/post/molding-artistry-telly-kongolo-and-the-potter-s-studio</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/molding-artistry-telly-kongolo-and-the-potter-s-studio">Save to Pocket</a>
+</span>
+
+---
+
+## Top chapter award for UH Mānoa history honor society
+
+date: 2023-12-01, from: University of Hawaiʻi News
+
+<p>Alpha Beta Epsilon, was recognized as one of the best Phi Alpha Theta National History Honor Society chapters in the nation.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/01/alpha-beta-epsilon-award-2/">Top chapter award for <abbr>UH</abbr> Mānoa history honor society</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span>
+<a href="https://www.hawaii.edu/news/2023/12/01/alpha-beta-epsilon-award-2/">https://www.hawaii.edu/news/2023/12/01/alpha-beta-epsilon-award-2/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/12/01/alpha-beta-epsilon-award-2/">Save to Pocket</a>
+</span>
+
+---
+
+## National awards for UH Hawaiian language production
+
+date: 2023-12-01, from: University of Hawaiʻi News
+
+<p>Written and directed by <abbr>UH</abbr> M&#257;noa alumnus &#256;kea Kahikina, <span aria-label="Hooilina">Ho&#699;oilina</span> explores real-time issues such as what it takes to be considered Hawaiian.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/01/hawaiian-language-production-kcactf-award/">National awards for <abbr>UH</abbr> Hawaiian language production</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span>
+<a href="https://www.hawaii.edu/news/2023/12/01/hawaiian-language-production-kcactf-award/">https://www.hawaii.edu/news/2023/12/01/hawaiian-language-production-kcactf-award/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/12/01/hawaiian-language-production-kcactf-award/">Save to Pocket</a>
+</span>
+
+---
+
+## Chaminade Early College Program in Full Swing
+
+date: 2023-12-01, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+Chaminade University&#8217;s Early College program with Sacred Hearts Academy has given students a preview of what college has to offer.  In 2020, an idea to provide Sacred Hearts students the opportunity to take college courses arose. Fast forward to 2023, the program has officially opened and is in its first year of operation. The goal...
+
+<span>
+<a href="https://thesilversword.com/features/2023/12/01/chaminade-early-college-program-in-full-swing/">https://thesilversword.com/features/2023/12/01/chaminade-early-college-program-in-full-swing/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://thesilversword.com/features/2023/12/01/chaminade-early-college-program-in-full-swing/">Save to Pocket</a>
+</span>
+
+---
+
+## Guam senators pass bills authorizing COLA adjusments, police body camera 
+
+date: 2023-12-01, from: Pacific Island Times
+
+By Pacific Island Times News Staff A bill that would authorize annual adjustments to the cost of living allowance received by government...
+
+<span>
+<a href="https://www.pacificislandtimes.com/post/guam-senators-pass-bills-authorizing-cola-adjusments-police-body-camera">https://www.pacificislandtimes.com/post/guam-senators-pass-bills-authorizing-cola-adjusments-police-body-camera</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.pacificislandtimes.com/post/guam-senators-pass-bills-authorizing-cola-adjusments-police-body-camera">Save to Pocket</a>
+</span>
+
+---
+
+## PHS students learn journalism skills
+
+date: 2023-12-01, from: Island Times
+
+<figure><img width="1024" height="577" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?fit=1024%2C577&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?resize=1024%2C577&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?resize=1536%2C865&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?resize=2048%2C1153&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?resize=1200%2C676&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?resize=1568%2C883&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?fit=1024%2C577&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67441" data-permalink="https://islandtimes.org/phs-students-learn-journalism-skills/20231128_130444/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?fit=2560%2C1442&amp;ssl=1" data-orig-size="2560,1442" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1701176684&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.23&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20231128_130444" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/20231128_130444-scaled.jpg?fit=780%2C440&amp;ssl=1" /></figure>
+<p>KOROR, Palau &#8211; Twenty-three (23) students from Palau High School experienced what it is like to produce, publish, and report a story as journalists during a six (6) day exposure workshop conducted by members of Palau Media Council under a project called “Nurturing Future Journalists” made possible through a grant from the Republic of China-Taiwan’s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/phs-students-learn-journalism-skills/">PHS students learn journalism skills</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/phs-students-learn-journalism-skills/">https://islandtimes.org/phs-students-learn-journalism-skills/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/phs-students-learn-journalism-skills/">Save to Pocket</a>
+</span>
+
+---
+
+## Operation Christmas Drop 2023
+
+date: 2023-12-01, from: Island Times
+
+<p>The spirit of giving takes to the skies beginning on Dec. 3 from Andersen Air Force Base, Guam, as the U.S. Air Force and partner nations prepare for the Joint Operation Christmas Drop 2023. This annual humanitarian mission will, once again, bring essential supplies to remote communities in the Pacific. Operation Christmas Drop, which dates [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/operation-christmas-drop-2023/">Operation Christmas Drop 2023</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/operation-christmas-drop-2023/">https://islandtimes.org/operation-christmas-drop-2023/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/operation-christmas-drop-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## 5th BPS Acting Director appointed
+
+date: 2023-12-01, from: Island Times
+
+<figure><img width="600" height="998" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Director-of-Public-Safety-Cary-Levitre.jpg?fit=600%2C998&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Director-of-Public-Safety-Cary-Levitre.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Director-of-Public-Safety-Cary-Levitre.jpg?resize=180%2C300&amp;ssl=1 180w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Director-of-Public-Safety-Cary-Levitre.jpg?resize=400%2C665&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Director-of-Public-Safety-Cary-Levitre.jpg?fit=600%2C998&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="65225" data-permalink="https://islandtimes.org/police-director-levitre-resigns-after-3-months-in-office/director-of-public-safety-cary-levitre/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Director-of-Public-Safety-Cary-Levitre.jpg?fit=600%2C998&amp;ssl=1" data-orig-size="600,998" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1690379497&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;50&quot;,&quot;shutter_speed&quot;:&quot;0.0083&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Director of Public Safety Cary Levitre" data-image-description="" data-image-caption="&lt;p&gt;Director of Public Safety Cary Levitre &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Director-of-Public-Safety-Cary-Levitre.jpg?fit=180%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/07/Director-of-Public-Safety-Cary-Levitre.jpg?fit=600%2C998&amp;ssl=1" /></figure>
+<p>The Bureau of Public Safety Director Cary Levitre has appointed the 5th Acting Director of the Bureau of Public Safety, Lt. John Gabriel, to cover during his now going on four-month medical leave. Since his departure on July 29th, there have been four acting director appointees, three appointed by Levitre and one appointed by Minister [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/5th-bps-acting-director-appointed/">5th BPS Acting Director appointed</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/5th-bps-acting-director-appointed/">https://islandtimes.org/5th-bps-acting-director-appointed/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/5th-bps-acting-director-appointed/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau’s Climate Change negotiator, Xavier Matsutaro emphasises ambition and urgency at COP28
+
+date: 2023-12-01, from: Island Times
+
+<p>By Pita Ligaiula at COP28 in Dubai, UAE DUBAI (PACNEWS) &#8212; Palau’s climate change negotiator and Chair of Pacific Small Island Developing States(PSIDS), Xavier Matsutaro has emphasised the critical need for ambition and urgency at COP28, underscoring the pivotal role of emission reduction in the ongoing global climate negotiations. “If I can sum it up [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-climate-change-negotiator-xavier-matsutaro-emphasises-ambition-and-urgency-at-cop28/">Palau&#8217;s Climate Change negotiator, Xavier Matsutaro emphasises ambition and urgency at COP28</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/palaus-climate-change-negotiator-xavier-matsutaro-emphasises-ambition-and-urgency-at-cop28/">https://islandtimes.org/palaus-climate-change-negotiator-xavier-matsutaro-emphasises-ambition-and-urgency-at-cop28/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/palaus-climate-change-negotiator-xavier-matsutaro-emphasises-ambition-and-urgency-at-cop28/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Senate Proposes Bill to Affirm Legal Authority of Customary Law
+
+date: 2023-12-01, from: Island Times
+
+<figure><img width="317" height="500" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2016/12/basilius.png?fit=317%2C500&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2016/12/basilius.png?w=317&amp;ssl=1 317w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2016/12/basilius.png?resize=190%2C300&amp;ssl=1 190w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2016/12/basilius.png?fit=317%2C500&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2016/12/basilius.png?fit=317%2C500&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="4676" data-permalink="https://islandtimes.org/lawsuit-to-disqualify-delegate-elect-basilius-filed/basilius-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2016/12/basilius.png?fit=317%2C500&amp;ssl=1" data-orig-size="317,500" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="basilius" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2016/12/basilius.png?fit=190%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2016/12/basilius.png?fit=317%2C500&amp;ssl=1" /></figure>
+<p>Koror, Palau – A bill proposed in the Palau Senate seeks to reinforce the legal authority of customary law, aligning government practices with the country’s constitution. Senate Bill 11-95, introduced by Senator Lentcer Basilius, aims to uphold Article V, Section 2 of the Constitution of the Republic of Palau, which establishes the equal standing of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-senate-proposes-bill-to-affirm-legal-authority-of-customary-law/">Palau Senate Proposes Bill to Affirm Legal Authority of Customary Law</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/palau-senate-proposes-bill-to-affirm-legal-authority-of-customary-law/">https://islandtimes.org/palau-senate-proposes-bill-to-affirm-legal-authority-of-customary-law/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/palau-senate-proposes-bill-to-affirm-legal-authority-of-customary-law/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Grapples with Balancing Tourism and Environmental Protection
+
+date: 2023-12-01, from: Island Times
+
+<p>By: Anika M. Rubia, Ucheliou Tadao, Ali Kwak, Faith Z. Chen (Palau High School participants in the Palau Media Council’s Nurturing Future Journalists Project, funded by the Republic of China-Taiwan’s small grant program) KOROR, Palau &#8211; The pristine archipelago of Palau, renowned for its vibrant coral reefs and lush rainforests, faces a delicate balancing act [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-grapples-with-balancing-tourism-and-environmental-protection/">Palau Grapples with Balancing Tourism and Environmental Protection</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/palau-grapples-with-balancing-tourism-and-environmental-protection/">https://islandtimes.org/palau-grapples-with-balancing-tourism-and-environmental-protection/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/palau-grapples-with-balancing-tourism-and-environmental-protection/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau’s Youth take a stand to Preserve Cultural Integrity
+
+date: 2023-12-01, from: Island Times
+
+<p>By: Delaine Termeteet, Nalani Marquez, Kyra Iskawa, Roger Santos &#38; Ethan Alfonso (Palau High School participants in the Palau Media Council’s Nurturing Future Journalists Project, funded by the Republic of China-Taiwan’s small grant program) KOROR, PALAU – Amidst rising concerns about the erosion of Palauan culture, the country&#8217;s youth are taking a proactive stance to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-youth-take-a-stand-to-preserve-cultural-integrity/">Palau&#8217;s Youth take a stand to Preserve Cultural Integrity</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/palaus-youth-take-a-stand-to-preserve-cultural-integrity/">https://islandtimes.org/palaus-youth-take-a-stand-to-preserve-cultural-integrity/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/palaus-youth-take-a-stand-to-preserve-cultural-integrity/">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 OCTF International Workshop on Human Rights in the Digital Age in Taipei, Taiwan
+
+date: 2023-12-01, from: Island Times
+
+<figure><img width="660" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/IMEs-Trip-writing2.jpg?fit=660%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/IMEs-Trip-writing2.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/IMEs-Trip-writing2.jpg?resize=193%2C300&amp;ssl=1 193w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/IMEs-Trip-writing2.jpg?resize=660%2C1024&amp;ssl=1 660w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/IMEs-Trip-writing2.jpg?resize=768%2C1191&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/IMEs-Trip-writing2.jpg?resize=991%2C1536&amp;ssl=1 991w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/IMEs-Trip-writing2.jpg?resize=1200%2C1860&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/IMEs-Trip-writing2.jpg?resize=400%2C620&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/IMEs-Trip-writing2.jpg?fit=660%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67424" data-permalink="https://islandtimes.org/2023-octf-international-workshop-on-human-rights-in-the-digital-age-in-taipei-taiwan/imes-trip-writing2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/IMEs-Trip-writing2.jpg?fit=1230%2C1907&amp;ssl=1" data-orig-size="1230,1907" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Lbong Walter&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IME&#8217;s Trip writing2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/IMEs-Trip-writing2.jpg?fit=193%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/IMEs-Trip-writing2.jpg?fit=660%2C1024&amp;ssl=1" /></figure>
+<p>On November 15 to 18, 2024, an international workshop on protecting human rights in the digital age was held at Marriot Hotel in Taipei City in Taiwan. The three-day training started on Tuesday and ended on Thursday but we were grateful that we flew in on Saturday, November 11, 2023 so we had two days [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/2023-octf-international-workshop-on-human-rights-in-the-digital-age-in-taipei-taiwan/">2023 OCTF International Workshop on Human Rights in the Digital Age in Taipei, Taiwan</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/2023-octf-international-workshop-on-human-rights-in-the-digital-age-in-taipei-taiwan/">https://islandtimes.org/2023-octf-international-workshop-on-human-rights-in-the-digital-age-in-taipei-taiwan/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/2023-octf-international-workshop-on-human-rights-in-the-digital-age-in-taipei-taiwan/">Save to Pocket</a>
+</span>
+
+---
+
+## “The Climate Change Conference is an opportunity – if we all play our part”
+
+date: 2023-12-01, from: Island Times
+
+<figure><img width="952" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/220711_IAA_PHT04.jpg?fit=952%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/220711_IAA_PHT04.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/220711_IAA_PHT04.jpg?resize=279%2C300&amp;ssl=1 279w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/220711_IAA_PHT04.jpg?resize=952%2C1024&amp;ssl=1 952w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/220711_IAA_PHT04.jpg?resize=768%2C826&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/220711_IAA_PHT04.jpg?resize=1200%2C1291&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/220711_IAA_PHT04.jpg?resize=400%2C430&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/220711_IAA_PHT04.jpg?fit=952%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67421" data-permalink="https://islandtimes.org/the-climate-change-conference-is-an-opportunity-if-we-all-play-our-part/bmin-baerbock-in-japan/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/220711_IAA_PHT04.jpg?fit=1230%2C1323&amp;ssl=1" data-orig-size="1230,1323" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.6&quot;,&quot;credit&quot;:&quot;Thomas Imo\/photothek.net&quot;,&quot;camera&quot;:&quot;Canon EOS R5&quot;,&quot;caption&quot;:&quot;Annalena Baerbock (Buendnis 90\/Die Gruenen), Bundesaussenministerin.&quot;,&quot;created_timestamp&quot;:&quot;1657504951&quot;,&quot;copyright&quot;:&quot;Thomas Imo\/photothek.net&quot;,&quot;focal_length&quot;:&quot;35&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.0025&quot;,&quot;title&quot;:&quot;BMin Baerbock in Japan&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="BMin Baerbock in Japan" data-image-description="" data-image-caption="&lt;p&gt;Annalena Baerbock (Buendnis 90/Die Gruenen), Bundesaussenministerin.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/220711_IAA_PHT04.jpg?fit=279%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/220711_IAA_PHT04.jpg?fit=780%2C839&amp;ssl=1" /></figure>
+<p>Translation A farmer in the Niger whose fields have dried up due to the heat. A father in Palau who does not know whether his house will still be standing when his children are grown up – or whether the rising sea levels will swallow up his village. Mayors in Spain, Germany or Lithuania who [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-climate-change-conference-is-an-opportunity-if-we-all-play-our-part/">“The Climate Change Conference is an opportunity – if we all play our part”</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/the-climate-change-conference-is-an-opportunity-if-we-all-play-our-part/">https://islandtimes.org/the-climate-change-conference-is-an-opportunity-if-we-all-play-our-part/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/the-climate-change-conference-is-an-opportunity-if-we-all-play-our-part/">Save to Pocket</a>
+</span>
+
+---
+
+## New Zealand leader plans to ban cellphone use in schools and end tobacco controls in first 100 days
+
+date: 2023-12-01, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/New-Zealand-leader.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/New-Zealand-leader.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/New-Zealand-leader.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/New-Zealand-leader.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/New-Zealand-leader.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/New-Zealand-leader.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/New-Zealand-leader.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/New-Zealand-leader.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67417" data-permalink="https://islandtimes.org/new-zealand-leader-plans-to-ban-cellphone-use-in-schools-and-end-tobacco-controls-in-first-100-days/christopher-luxon/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/New-Zealand-leader.jpg?fit=1230%2C820&amp;ssl=1" data-orig-size="1230,820" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;Canon EOS-1D X Mark II&quot;,&quot;caption&quot;:&quot;New Zealand Prime Minister Christopher Luxon gestures during his first post-Cabinet press conference at Parliament in Wellington, New Zealand, Wednesday, Nov. 29, 2023. (Mark Mitchell\/New Zealand Herald via AP)&quot;,&quot;created_timestamp&quot;:&quot;1701216000&quot;,&quot;copyright&quot;:&quot;NZME&quot;,&quot;focal_length&quot;:&quot;312&quot;,&quot;iso&quot;:&quot;2500&quot;,&quot;shutter_speed&quot;:&quot;0.00625&quot;,&quot;title&quot;:&quot;Christopher Luxon&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Christopher Luxon" data-image-description="" data-image-caption="&lt;p&gt;New Zealand Prime Minister Christopher Luxon gestures during his first post-Cabinet press conference at Parliament in Wellington, New Zealand, Wednesday, Nov. 29, 2023. (Mark Mitchell/New Zealand Herald via AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/New-Zealand-leader.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/New-Zealand-leader.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By NICK PERRY Associated Press WELLINGTON, New Zealand (AP) — New Zealand’s new prime minister plans to ban cellphone use in schools and repeal tobacco controls in the ambitious agenda he released Wednesday for his first 100 days in office. Christopher Luxon outlined 49 actions he said his conservative government intended to take over the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/new-zealand-leader-plans-to-ban-cellphone-use-in-schools-and-end-tobacco-controls-in-first-100-days/">New Zealand leader plans to ban cellphone use in schools and end tobacco controls in first 100 days</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/new-zealand-leader-plans-to-ban-cellphone-use-in-schools-and-end-tobacco-controls-in-first-100-days/">https://islandtimes.org/new-zealand-leader-plans-to-ban-cellphone-use-in-schools-and-end-tobacco-controls-in-first-100-days/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/new-zealand-leader-plans-to-ban-cellphone-use-in-schools-and-end-tobacco-controls-in-first-100-days/">Save to Pocket</a>
+</span>
+
+---
+
+## Most sponsors of Cop28 have not signed up to UN-backed net zero targets
+
+date: 2023-12-01, from: Island Times
+
+<p>DUBAI (THE GUARDIAN) &#8212; Most companies sponsoring the UN climate talks in Dubai are not committed to cutting their greenhouse gas emissions in line with globally recognised net zero targets, it has been revealed. Only one of the more than 20 sponsors of Cop28 has signed up to UN-backed net zero science-based targets, (SBTi), according [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/most-sponsors-of-cop28-have-not-signed-up-to-un-backed-net-zero-targets/">Most sponsors of Cop28 have not signed up to UN-backed net zero targets</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/most-sponsors-of-cop28-have-not-signed-up-to-un-backed-net-zero-targets/">https://islandtimes.org/most-sponsors-of-cop28-have-not-signed-up-to-un-backed-net-zero-targets/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/most-sponsors-of-cop28-have-not-signed-up-to-un-backed-net-zero-targets/">Save to Pocket</a>
+</span>
+
+---
+
+## Japan suspends its own Osprey flights after a fatal US Air Force crash of the aircraft
+
+date: 2023-12-01, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Japan-suspends.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Japan-suspends.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Japan-suspends.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Japan-suspends.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Japan-suspends.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Japan-suspends.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Japan-suspends.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Japan-suspends.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67412" data-permalink="https://islandtimes.org/japan-suspends-its-own-osprey-flights-after-a-fatal-us-air-force-crash-of-the-aircraft/japan-us-osprey-crash/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Japan-suspends.jpg?fit=1230%2C820&amp;ssl=1" data-orig-size="1230,820" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Japanese coast guard members pick up a floating object as they conduct search and rescue operation in the waters off Yakushima Island, Kagoshima prefecture, southern Japan Thursday, Nov. 30, 2023. Japan plans to suspend its own Osprey flights after a U.S. Air Force Osprey based in Japan crashed into waters off the southern coast during a training mission, officials said Thursday. (Kyodo News via AP)&quot;,&quot;created_timestamp&quot;:&quot;1701311589&quot;,&quot;copyright&quot;:&quot;Kyodo News&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Japan US Osprey Crash&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Japan US Osprey Crash" data-image-description="" data-image-caption="&lt;p&gt;Japanese coast guard members pick up a floating object as they conduct search and rescue operation in the waters off Yakushima Island, Kagoshima prefecture, southern Japan Thursday, Nov. 30, 2023. Japan plans to suspend its own Osprey flights after a U.S. Air Force Osprey based in Japan crashed into waters off the southern coast during a training mission, officials said Thursday. (Kyodo News via AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Japan-suspends.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Japan-suspends.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By MARI YAMAGUCHI and TARA COPP Associated Press TOKYO (AP) — Japan suspended its own Osprey flights Thursday after a U.S. Air Force Osprey based in Japan crashed into the sea during a training mission, officials said. Tokyo has also asked the U.S. military to stop all Ospreys operating in Japan except for those searching [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japan-suspends-its-own-osprey-flights-after-a-fatal-us-air-force-crash-of-the-aircraft/">Japan suspends its own Osprey flights after a fatal US Air Force crash of the aircraft</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/japan-suspends-its-own-osprey-flights-after-a-fatal-us-air-force-crash-of-the-aircraft/">https://islandtimes.org/japan-suspends-its-own-osprey-flights-after-a-fatal-us-air-force-crash-of-the-aircraft/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/japan-suspends-its-own-osprey-flights-after-a-fatal-us-air-force-crash-of-the-aircraft/">Save to Pocket</a>
+</span>
+
+---
+
+## Henry Kissinger, secretary of state under Presidents Nixon and Ford, dies at 100
+
+date: 2023-12-01, from: Island Times
+
+<p>By NANCY BENAC Associated Press WASHINGTON (AP) — Former Secretary of State Henry Kissinger, the diplomat with the thick glasses and gravelly voice who dominated foreign policy as the United States extricated itself from Vietnam and broke down barriers with China, died Wednesday, his consulting firm said. He was 100. With his gruff yet commanding [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/henry-kissinger-secretary-of-state-under-presidents-nixon-and-ford-dies-at-100/">Henry Kissinger, secretary of state under Presidents Nixon and Ford, dies at 100</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/henry-kissinger-secretary-of-state-under-presidents-nixon-and-ford-dies-at-100/">https://islandtimes.org/henry-kissinger-secretary-of-state-under-presidents-nixon-and-ford-dies-at-100/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/henry-kissinger-secretary-of-state-under-presidents-nixon-and-ford-dies-at-100/">Save to Pocket</a>
+</span>
+
+---
+
+## Jokic’s triple-double lifts Nuggets past Rockets 134-124 in Murray’s return
+
+date: 2023-12-01, from: Island Times
+
+<figure><img width="1024" height="654" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Jokic.jpg?fit=1024%2C654&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Jokic.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Jokic.jpg?resize=300%2C192&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Jokic.jpg?resize=1024%2C654&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Jokic.jpg?resize=768%2C491&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Jokic.jpg?resize=1200%2C767&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Jokic.jpg?resize=400%2C256&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Jokic.jpg?fit=1024%2C654&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67407" data-permalink="https://islandtimes.org/jokics-triple-double-lifts-nuggets-past-rockets-134-124-in-murrays-return/rockets-nuggets-basketball/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Jokic.jpg?fit=1230%2C786&amp;ssl=1" data-orig-size="1230,786" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Denver Nuggets guard Reggie Jackson, right, drives the lane as Houston Rockets forward Jeff Green defends in the first half of an NBA basketball game on Wednesday, Nov. 29, 2023, in Denver. (AP Photo\/David Zalubowski)&quot;,&quot;created_timestamp&quot;:&quot;1701289994&quot;,&quot;copyright&quot;:&quot;Copyright 2023 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;129&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;Rockets Nuggets Basketball&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Rockets Nuggets Basketball" data-image-description="" data-image-caption="&lt;p&gt;Denver Nuggets guard Reggie Jackson, right, drives the lane as Houston Rockets forward Jeff Green defends in the first half of an NBA basketball game on Wednesday, Nov. 29, 2023, in Denver. (AP Photo/David Zalubowski)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Jokic.jpg?fit=300%2C192&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Jokic.jpg?fit=780%2C498&amp;ssl=1" /></figure>
+<p>By CRAIG MEYER Associated Press DENVER (AP) — Nikola Jokic had 32 points, 15 assists and 10 rebounds, Michael Porter Jr. scored a season-high 30 points and the Denver Nuggets rolled past the Houston Rockets 134-124 on Wednesday night in Jamal Murray&#8217;s return from a hamstring injury. Murray scored 16 points after missing Denver’s past [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/jokics-triple-double-lifts-nuggets-past-rockets-134-124-in-murrays-return/">Jokic&#8217;s triple-double lifts Nuggets past Rockets 134-124 in Murray&#8217;s return</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/jokics-triple-double-lifts-nuggets-past-rockets-134-124-in-murrays-return/">https://islandtimes.org/jokics-triple-double-lifts-nuggets-past-rockets-134-124-in-murrays-return/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/jokics-triple-double-lifts-nuggets-past-rockets-134-124-in-murrays-return/">Save to Pocket</a>
+</span>
+
+---
+
+## US$1.8m Games investment for Olympic Committees in the region, ONOC SG Blas informs the Pacific Games Council Meeting in Honiara
+
+date: 2023-12-01, from: Island Times
+
+<p>HONIARA (ONOC) &#8212; Oceania National Olympic Committees Secretary General says the ONOC Financial Support for their members has been through the Olympic Solidarity Programme Grants for Games Initiatives. He said ONOC is undertaking a total of 24 Activations in Honiara as part of its Games Support Programme for the Sol 2023 XVII Pacific Games. “The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/us1-8m-games-investment-for-olympic-committees-in-the-region-onoc-sg-blas-informs-the-pacific-games-council-meeting-in-honiara/">US$1.8m Games investment for Olympic Committees in the region, ONOC SG Blas informs the Pacific Games Council Meeting in Honiara</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/us1-8m-games-investment-for-olympic-committees-in-the-region-onoc-sg-blas-informs-the-pacific-games-council-meeting-in-honiara/">https://islandtimes.org/us1-8m-games-investment-for-olympic-committees-in-the-region-onoc-sg-blas-informs-the-pacific-games-council-meeting-in-honiara/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/us1-8m-games-investment-for-olympic-committees-in-the-region-onoc-sg-blas-informs-the-pacific-games-council-meeting-in-honiara/">Save to Pocket</a>
+</span>
+
+---
+
+## Tigers sign Japanese RHP Kenta Maeda to $24M, 2-year contract to win games and mentor young pitchers
+
+date: 2023-12-01, from: Island Times
+
+<figure><img width="900" height="600" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Tigers-sign-Japanese.jpg?fit=900%2C600&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Tigers-sign-Japanese.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Tigers-sign-Japanese.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Tigers-sign-Japanese.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Tigers-sign-Japanese.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Tigers-sign-Japanese.jpg?fit=900%2C600&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67402" data-permalink="https://islandtimes.org/tigers-sign-japanese-rhp-kenta-maeda-to-24m-2-year-contract-to-win-games-and-mentor-young-pitchers/tigers-maeda-baseball/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Tigers-sign-Japanese.jpg?fit=900%2C600&amp;ssl=1" data-orig-size="900,600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;FILE - Minnesota Twins relief pitcher Kenta Maeda throws during the fourth inning in Game 1 of an American League Division Series baseball game against the Houston Astros, Oct. 7, 2023, in Houston. Right-hander Maeda and the Detroit Tigers agreed to a $24 million, two-year contract, a person familiar with the deal told The Associated Press. The person spoke on condition of anonymity Sunday, Nov. 26, 2023, because the agreement was subject to a successful physical and had not been announced. (AP Photo\/Tony Gutierrez, File)&quot;,&quot;created_timestamp&quot;:&quot;1696711820&quot;,&quot;copyright&quot;:&quot;Copyright 2023 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;2000&quot;,&quot;shutter_speed&quot;:&quot;0.0005&quot;,&quot;title&quot;:&quot;Tigers Maeda Baseball&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Tigers Maeda Baseball" data-image-description="" data-image-caption="&lt;p&gt;FILE &#8211; Minnesota Twins relief pitcher Kenta Maeda throws during the fourth inning in Game 1 of an American League Division Series baseball game against the Houston Astros, Oct. 7, 2023, in Houston. Right-hander Maeda and the Detroit Tigers agreed to a $24 million, two-year contract, a person familiar with the deal told The Associated Press. The person spoke on condition of anonymity Sunday, Nov. 26, 2023, because the agreement was subject to a successful physical and had not been announced. (AP Photo/Tony Gutierrez, File)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Tigers-sign-Japanese.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Tigers-sign-Japanese.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>DETROIT (AP) —&#160;Kenta Maeda&#160;gave the&#160;Detroit Tigers&#160;what they were looking for in free agency, a veteran talented enough to bolster their rotation with an approach they want pitchers on model on the mound. “We think he’s going to both help us win games and influence our young starters,” general manager&#160;Scott Harris&#160;said Tuesday after Detroit and the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tigers-sign-japanese-rhp-kenta-maeda-to-24m-2-year-contract-to-win-games-and-mentor-young-pitchers/">Tigers sign Japanese RHP Kenta Maeda to $24M, 2-year contract to win games and mentor young pitchers</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span>
+<a href="https://islandtimes.org/tigers-sign-japanese-rhp-kenta-maeda-to-24m-2-year-contract-to-win-games-and-mentor-young-pitchers/">https://islandtimes.org/tigers-sign-japanese-rhp-kenta-maeda-to-24m-2-year-contract-to-win-games-and-mentor-young-pitchers/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://islandtimes.org/tigers-sign-japanese-rhp-kenta-maeda-to-24m-2-year-contract-to-win-games-and-mentor-young-pitchers/">Save to Pocket</a>
+</span>
+
+---
+
+## REMARKS: Acting Director – Policy,  Joel Nilon, At the opening session of the Women in Tech Conference
+
+date: 2023-12-01, from: Pacific Island Forum
+
+Address by Pacific Islands Forum Secretariat Acting Director of Policy, Mr Joel Nilon At the opening session of the Women in Tech Conference Friday 1 December<span class="excerpt-hellip"> […]</span>
+
+<span>
+<a href="https://www.forumsec.org/2023/12/01/remarks-acting-director-policy-joel-nilon-at-the-opening-session-of-the-women-in-tech-conference/">https://www.forumsec.org/2023/12/01/remarks-acting-director-policy-joel-nilon-at-the-opening-session-of-the-women-in-tech-conference/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.forumsec.org/2023/12/01/remarks-acting-director-policy-joel-nilon-at-the-opening-session-of-the-women-in-tech-conference/">Save to Pocket</a>
+</span>
+
+---
+
+## Poinsettia sale spreads holiday cheer with student-grown plants
+
+date: 2023-12-01, from: University of Hawaiʻi News
+
+<p>Students from the <abbr>UH</abbr> Mānoa Horticulture Society and Department of Tropical Plant and Soil Sciences prepare the plants for sale throughout the fall semester.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/30/uh-manoa-poinsettia-sale-2023/">Poinsettia sale spreads holiday cheer with student-grown plants</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/30/uh-manoa-poinsettia-sale-2023/">https://www.hawaii.edu/news/2023/11/30/uh-manoa-poinsettia-sale-2023/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/30/uh-manoa-poinsettia-sale-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Bows victorious in four sets over Iowa State, advance to second round
+
+date: 2023-12-01, from: University of Hawaiʻi News
+
+<p>The Rainbow Wahine dropped the first set and trailed by as much as seven points in the second set before bouncing back and winning the second, third and fourth sets.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/30/first-round-ncaa-tournament-2023/">‘Bows victorious in four sets over Iowa State, advance to second round</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/30/first-round-ncaa-tournament-2023/">https://www.hawaii.edu/news/2023/11/30/first-round-ncaa-tournament-2023/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/30/first-round-ncaa-tournament-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Popular ‘Aunty’ of UH Mānoa cafe retires at 95, 30 years of serving
+
+date: 2023-12-01, from: University of Hawaiʻi News
+
+<p>Eloise Luzader is famous for greeting students and other Gateway Café patrons with a bright smile, and being the unofficial Mānoa matchmaker.</p>
+The post <a href="https://www.hawaii.edu/news/2023/11/30/eloise-luzader-retires-at-95/">Popular ‘Aunty’ of <abbr>UH</abbr> Mānoa cafe retires at 95, 30 years of serving</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span>
+<a href="https://www.hawaii.edu/news/2023/11/30/eloise-luzader-retires-at-95/">https://www.hawaii.edu/news/2023/11/30/eloise-luzader-retires-at-95/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.hawaii.edu/news/2023/11/30/eloise-luzader-retires-at-95/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -2099,7 +2501,7 @@ Sen. Frank Blas Jr. is asking Gov. Lou Leon Guerrero to utilize American Rescue 
 
 date: 2023-11-28, from: Island Times
 
-<figure><img width="1024" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?fit=1024%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?fit=1024%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67381" data-permalink="https://islandtimes.org/nauru-airlines-new-island-hopper-service-connecting-palau-to-australia/fb_img_1701113184840/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?fit=1080%2C1080&amp;ssl=1" data-orig-size="1080,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="FB_IMG_1701113184840" data-image-description="" data-image-caption="&lt;p&gt;Credit photos to Nauru Airlines and Palau Visitors Authority&lt;/p&gt;
+<figure><img width="1024" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?fit=1024%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?fit=1024%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67381" data-permalink="https://islandtimes.org/nauru-airlines-new-island-hopper-service-connecting-palau-to-australia/fb_img_1701113184840/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?fit=1080%2C1080&amp;ssl=1" data-orig-size="1080,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="FB_IMG_1701113184840" data-image-description="" data-image-caption="&lt;p&gt;Credit photos to Nauru Airlines and Palau Visitors Authority&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/11/FB_IMG_1701113184840.jpg?fit=780%2C780&amp;ssl=1" /></figure>
 <p>[Koror, Palau] – Nauru Airlines, the national airline of Nauru, announced the launch of its new Island Hopper Service connecting Palau to Brisbane, Australia. The inaugural flight will depart Brisbane on Thursday, November 30, 2023, and arrive in Koror, Palau, on Friday, December 1st, 2023 at 2:20 PM. The weekly service will operate with stopovers [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/nauru-airlines-new-island-hopper-service-connecting-palau-to-australia/">Nauru Airlines New Island Hopper Service Connecting Palau to Australia</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
