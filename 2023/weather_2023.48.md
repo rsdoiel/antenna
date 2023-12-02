@@ -1,11 +1,11 @@
 ---
 title: Weather 2023.48
-updated: 2023-12-01 18:00:14
+updated: 2023-12-01 18:12:17
 ---
 
 # Weather 2023.48
 
-(date: 2023-12-01 18:00:14)
+(date: 2023-12-01 18:12:17)
 
 ---
 
@@ -25,7 +25,7 @@ No tropical cyclones as of Fri, 01 Dec 2023 23:13:08 GMT
 
 ## SPC Day 3-8 Fire Weather Outlook
 
-date: 2023-12-01, from: NOAA Weather Forecasts
+date: 2023-12-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 3-8 Fire Weather Outlook  
