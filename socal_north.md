@@ -1,11 +1,11 @@
 ---
-title: SoCal North 2023.48
-updated: 2023-12-01 18:09:42
+title: socal north 2023.48
+updated: 2023-12-01 19:25:05
 ---
 
-# SoCal North 2023.48
+# socal north 2023.48
 
-(date: 2023-12-01 18:09:42)
+(date: 2023-12-01 19:25:05)
 
 ---
 

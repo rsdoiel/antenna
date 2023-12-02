@@ -1,31 +1,17 @@
 ---
 title: Weather 2023.48
-updated: 2023-12-01 18:12:17
+updated: 2023-12-01 19:27:51
 ---
 
 # Weather 2023.48
 
-(date: 2023-12-01 18:12:17)
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2023-12-01, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Fri, 01 Dec 2023 23:13:08 GMT
-
-<span>
-<a href="https://www.nhc.noaa.gov/gis/">https://www.nhc.noaa.gov/gis/</a> 
-<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
-   data-save-url="https://www.nhc.noaa.gov/gis/">Save to Pocket</a>
-</span>
+(date: 2023-12-01 19:27:51)
 
 ---
 
 ## SPC Day 3-8 Fire Weather Outlook
 
-date: 2023-12-01, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-12-01, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 3-8 Fire Weather Outlook  
@@ -70,34 +56,33 @@ minimal.
 
 ---
 
-## Central North Pacific Tropical Weather Outlook
+## Central Pacific Tropical Weather Outlook
 
-date: 2023-12-01, from: Central Pacific Basin Tropical Cyclones
+date: 2023-12-01, from: Central Pacific Tropical Weather Outlook
 
-
-<br/>
-000<br/>
-ACPN50 PHFO 010510<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook<br/>
-NWS Central Pacific Hurricane Center Honolulu HI<br/>
-800 PM HST Thu Nov 30 2023<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-The central North Pacific hurricane season officialy ends today,<br/>
-November 30. The is the last regularly scheduled Tropical Weather <br/>
-Outlook of the 2023 central North Pacific Hurricane Season. Routine <br/>
-issuance of the Tropical Weather Outlook will resume on June 1, <br/>
-2024. During the off-season, Special Tropical Weather outlooks will <br/>
-be issued as conditions warrant. <br/>
-<br/>
-$$<br/>
-Forecaster Bohlin<br/>
-
+ <br />
+ 000<br />
+ ACPN50 PHFO 010510<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook<br />
+ NWS Central Pacific Hurricane Center Honolulu HI<br />
+ 800 PM HST Thu Nov 30 2023<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ The central North Pacific hurricane season officialy ends today,<br />
+ November 30. The is the last regularly scheduled Tropical Weather <br />
+ Outlook of the 2023 central North Pacific Hurricane Season. Routine <br />
+ issuance of the Tropical Weather Outlook will resume on June 1, <br />
+ 2024. During the off-season, Special Tropical Weather outlooks will <br />
+ be issued as conditions warrant. <br />
+ <br />
+ $$<br />
+ Forecaster Bohlin<br />
+ 
 
 <span>
 <a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac">https://www.nhc.noaa.gov/gtwo.php?basin=cpac</a> 
@@ -138,6 +123,20 @@ date: 2023-12-01, from: Eastern Pacific Tropical Weather Outlook
 <a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac">https://www.nhc.noaa.gov/gtwo.php?basin=epac</a> 
 <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
    data-save-url="https://www.nhc.noaa.gov/gtwo.php?basin=epac">Save to Pocket</a>
+</span>
+
+---
+
+## There are no tropical cyclones at this time.
+
+date: 2023-12-01, from: Eastern Pacific Basin Tropical Cyclones
+
+No tropical cyclones as of Sat, 02 Dec 2023 02:31:10 GMT
+
+<span>
+<a href="https://www.nhc.noaa.gov/">https://www.nhc.noaa.gov/</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nhc.noaa.gov/">Save to Pocket</a>
 </span>
 
 ---

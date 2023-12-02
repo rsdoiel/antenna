@@ -1,11 +1,11 @@
 ---
-title: Tech Likely 2023.48
-updated: 2023-12-01 18:12:07
+title: tech likely 2023.48
+updated: 2023-12-01 19:25:05
 ---
 
-# Tech Likely 2023.48
+# tech likely 2023.48
 
-(date: 2023-12-01 18:12:07)
+(date: 2023-12-01 19:25:05)
 
 ---
 
