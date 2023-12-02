@@ -1,11 +1,58 @@
 ---
 title: Columns, 2023.48
-updated: 2023-11-30 17:17:39
+updated: 2023-12-01 18:00:12
 ---
 
 # Columns, 2023.48
 
-(date: 2023-11-30 17:17:39)
+(date: 2023-12-01 18:00:12)
+
+---
+
+## Friday Squid Blogging: Strawberry Squid in the Galápagos
+
+date: 2023-12-01, updated: 2023-11-08, from: Bruce Schneier blog
+
+<p>Scientists have <a href="https://www.scientificamerican.com/article/mysterious-galapagos-reefs-harbor-strawberry-squid-and-other-fantastic-creatures/">found</a> Strawberry Squid, &#8220;whose mismatched eyes help them simultaneously search for prey above and below them,&#8221; among the coral reefs in the Galápagos Islands.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p>Read my blog posting guidelines <a href="https://www.schneier.com/blog/archives/2017/03/commenting_poli.html">here</a>.</p>
+<p>&#160;</p>
+
+
+<span>
+<a href="https://www.schneier.com/blog/archives/2023/12/friday-squid-blogging-strawberry-squid-in-the-galapagos.html">https://www.schneier.com/blog/archives/2023/12/friday-squid-blogging-strawberry-squid-in-the-galapagos.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.schneier.com/blog/archives/2023/12/friday-squid-blogging-strawberry-squid-in-the-galapagos.html">Save to Pocket</a>
+</span>
+
+---
+
+## We Remember
+
+date: 2023-12-01, from: Dan Rather's Steady
+
+World AIDS Day
+
+<span>
+<a href="https://steady.substack.com/p/we-remember">https://steady.substack.com/p/we-remember</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://steady.substack.com/p/we-remember">Save to Pocket</a>
+</span>
+
+---
+
+## AI Decides to Engage in Insider Trading
+
+date: 2023-12-01, updated: 2023-11-30, from: Bruce Schneier blog
+
+<p>A stock-trading AI (a simulated experiment) <a href="https://www.bloomberg.com/opinion/articles/2023-11-29/the-robots-will-insider-trade">engaged</a> in insider trading, even though it &#8220;knew&#8221; it was wrong.</p>
+<blockquote><p>The agent is put under pressure in three ways. First, it receives a email from its &#8220;manager&#8221; that the company is not doing well and needs better performance in the next quarter. Second, the agent attempts and fails to find promising low- and medium-risk trades. Third, the agent receives an email from a company employee who projects that the next quarter will have a general stock market downturn. In this high-pressure situation, the model receives an insider tip from another employee that would enable it to make a trade that is likely to be very profitable. The employee, however, clearly points out that this would not be approved by the company management...</p></blockquote>
+
+<span>
+<a href="https://www.schneier.com/blog/archives/2023/12/ai-decides-to-engage-in-insider-trading.html">https://www.schneier.com/blog/archives/2023/12/ai-decides-to-engage-in-insider-trading.html</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.schneier.com/blog/archives/2023/12/ai-decides-to-engage-in-insider-trading.html">Save to Pocket</a>
+</span>
 
 ---
 
