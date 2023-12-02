@@ -1,11 +1,11 @@
 ---
-title: Weather 2023.48
-updated: 2023-12-01 19:27:51
+title: weather 2023.48
+updated: 2023-12-01 19:51:00
 ---
 
-# Weather 2023.48
+# weather 2023.48
 
-(date: 2023-12-01 19:27:51)
+(date: 2023-12-01 19:51:00)
 
 ---
 
@@ -56,33 +56,41 @@ minimal.
 
 ---
 
-## Central Pacific Tropical Weather Outlook
+## CPHC Central North Pacific Outlook
 
-date: 2023-12-01, from: Central Pacific Tropical Weather Outlook
+date: 2023-12-01, from: Graphical Tropical Weather Outlooks
 
- <br />
- 000<br />
- ACPN50 PHFO 010510<br />
- TWOCP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS Central Pacific Hurricane Center Honolulu HI<br />
- 800 PM HST Thu Nov 30 2023<br />
- <br />
- For the central North Pacific...between 140W and 180W:<br />
- <br />
- No tropical cyclones are expected during the next 7 days.<br />
- <br />
- The central North Pacific hurricane season officialy ends today,<br />
- November 30. The is the last regularly scheduled Tropical Weather <br />
- Outlook of the 2023 central North Pacific Hurricane Season. Routine <br />
- issuance of the Tropical Weather Outlook will resume on June 1, <br />
- 2024. During the off-season, Special Tropical Weather outlooks will <br />
- be issued as conditions warrant. <br />
- <br />
- $$<br />
- Forecaster Bohlin<br />
- 
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_2d0_resize.gif" alt="Central North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_cpac_7d0_resize.gif" alt="Central North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC HFOTWOCP ALL<br />
+TTAA00 PHFO DDHHMM<br />
+<br />
+Tropical Weather Outlook<br />
+NWS Central Pacific Hurricane Center Honolulu HI<br />
+800 PM HST Thu Nov 30 2023<br />
+<br />
+For the central North Pacific...between 140W and 180W:<br />
+<br />
+No tropical cyclones are expected during the next 7 days.<br />
+<br />
+The central North Pacific hurricane season officialy ends today,<br />
+November 30. The is the last regularly scheduled Tropical Weather <br />
+Outlook of the 2023 central North Pacific Hurricane Season. Routine <br />
+issuance of the Tropical Weather Outlook will resume on June 1, <br />
+2024. During the off-season, Special Tropical Weather outlooks will <br />
+be issued as conditions warrant. <br />
+<br />
+$$<br />
+Forecaster Bohlin<br />
+NNNN<br />
+<br />
+</div></div><br />
+
 
 <span>
 <a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac">https://www.nhc.noaa.gov/gtwo.php?basin=cpac</a> 
@@ -92,44 +100,9 @@ date: 2023-12-01, from: Central Pacific Tropical Weather Outlook
 
 ---
 
-## Eastern Pacific Tropical Weather Outlook
-
-date: 2023-12-01, from: Eastern Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ABPZ20 KNHC 010500<br />
- TWOEP <br />
- <br />
- Tropical Weather Outlook<br />
- NWS National Hurricane Center Miami FL<br />
- 1000 PM PST Thu Nov 30 2023<br />
- <br />
- For the eastern North Pacific...east of 140 degrees west longitude:<br />
- <br />
- Tropical cyclone formation is not expected during the next 7 days. <br />
- <br />
- This is the last regularly scheduled Tropical Weather Outlook of the <br />
- 2023 eastern North Pacific Hurricane Season.  Routine issuance of <br />
- the Tropical Weather Outlook will resume on May 15, 2024.  During <br />
- the off-season, Special Tropical Weather Outlooks will be issued as <br />
- conditions warrant.<br />
- <br />
- $$<br />
- Forecaster Cangialosi<br />
- 
-
-<span>
-<a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac">https://www.nhc.noaa.gov/gtwo.php?basin=epac</a> 
-<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
-   data-save-url="https://www.nhc.noaa.gov/gtwo.php?basin=epac">Save to Pocket</a>
-</span>
-
----
-
 ## There are no tropical cyclones at this time.
 
-date: 2023-12-01, from: Eastern Pacific Basin Tropical Cyclones
+date: 2023-12-01, from: Central Pacific Basin Tropical Cyclones
 
 No tropical cyclones as of Sat, 02 Dec 2023 02:31:10 GMT
 
@@ -137,6 +110,49 @@ No tropical cyclones as of Sat, 02 Dec 2023 02:31:10 GMT
 <a href="https://www.nhc.noaa.gov/">https://www.nhc.noaa.gov/</a> 
 <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
    data-save-url="https://www.nhc.noaa.gov/">Save to Pocket</a>
+</span>
+
+---
+
+## NHC Eastern North Pacific Outlook
+
+date: 2023-12-01, from: Graphical Tropical Weather Outlooks
+
+
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_2d0_resize.gif" alt="Eastern North Pacific 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_pac_7d0_resize.gif" alt="Eastern North Pacific 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOEP ALL<br />
+TTAA00 KNHC DDHHMM<br />
+<br />
+Tropical Weather Outlook<br />
+NWS National Hurricane Center Miami FL<br />
+1000 PM PST Thu Nov 30 2023<br />
+<br />
+For the eastern North Pacific...east of 140 degrees west longitude:<br />
+<br />
+Tropical cyclone formation is not expected during the next 7 days. <br />
+<br />
+This is the last regularly scheduled Tropical Weather Outlook of the <br />
+2023 eastern North Pacific Hurricane Season.  Routine issuance of <br />
+the Tropical Weather Outlook will resume on May 15, 2024.  During <br />
+the off-season, Special Tropical Weather Outlooks will be issued as <br />
+conditions warrant.<br />
+<br />
+$$<br />
+Forecaster Cangialosi<br />
+NNNN<br />
+<br />
+</div></div><br />
+
+
+<span>
+<a href="https://www.nhc.noaa.gov/gtwo.php?basin=epac">https://www.nhc.noaa.gov/gtwo.php?basin=epac</a> 
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en"
+   data-save-url="https://www.nhc.noaa.gov/gtwo.php?basin=epac">Save to Pocket</a>
 </span>
 
 ---

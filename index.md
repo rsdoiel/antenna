@@ -14,6 +14,7 @@ to promote their content. Right now Antenna is build from five lists
 - [Weather](weather.html), national weather information from [NOAA's](https://noaa.gov) [weather.gov](https://weather.gov) website.
 	- [weather.txt](weather.txt)
 - [Tech Likely](tech_likely.html), miscellanious feeds but mostly computing related, ported from my newsboat list
+- [Columns](columns.html), posts that frequently end up in my [Pocket](https://getpocket.com) reading list
 
 All the feed items are responsibility of the organizations that publish the feed. My choice is the specific feeds I select for my aggregation.
 

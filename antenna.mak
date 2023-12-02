@@ -26,7 +26,7 @@ md_files = $(addsuffix .md,$(section_names))
 
 html_files = $(addsuffix .html,$(section_names))
 
-build: harvest assemble_md html archives index.html about.html search.html CITATION.cff pagefind
+build: harvest assemble_md html archives index.html about.html search.html README.html CITATION.cff pagefind
 
 harvest: *.skim
 
@@ -123,7 +123,7 @@ index.html: .FORCE
 		index.md >index.html
 
 search.html: .FORCE
-	@echo '' | pandoc --metadata title="The $(PROJECT)" \
+	@echo '' | pandoc --metadata title="$(PROJECT) Search" \
 		--lua-filter=links-to-html.lua \
 		--metadata mid_central_page="mid_central.html" \
 		--metadata pacific_page="pacific.html" \
@@ -134,6 +134,19 @@ search.html: .FORCE
 		--template front_page.tmpl \
 		search.md >search.html
 
+README.html: .FORCE
+	@echo '' | pandoc --metadata title="Read about $(PROJECT)" \
+		--lua-filter=links-to-html.lua \
+		--metadata mid_central_page="mid_central.html" \
+		--metadata pacific_page="pacific.html" \
+		--metadata socal_north_page="socal_north.html" \
+		--metadata tech_likely_page="tech_likely.html" \
+		--metadata columns_page="columns.html" \
+		--metadata weather_page="weather.html" \
+		--template front_page.tmpl \
+		README.md >README.html
+
+	
 status:
 	git status
 

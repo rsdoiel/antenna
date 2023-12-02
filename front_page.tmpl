@@ -43,14 +43,9 @@ $endif$
 </ul>
 </nav>
 <section>
-$if(title)$
-<div class="description-for-items">
-<h2>$title$</h2>
 $if(urls_file)$
+<div class="description-for-items">
 Items collected from feeds in <a href="$urls_file$">$urls_file$</a>
-$else$
-An experiment in personal news aggregation.
-$endif$
 </div>
 $endif$
 $body$
