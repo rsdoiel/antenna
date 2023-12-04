@@ -5,7 +5,7 @@ https://www.atwater.org/feed/ "~City of Atwater News Releases"
 https://mercedcountytimes.com/wp-json/ "~Merced County Times"
 https://www.stmarymagdalenechurch.org/news/ "~St. Mary Magdalene Church, Atwater"
 https://www.arrl.org/arrl.rss "~Amateur Radio Relay League News"
-https://www.arnewsline.org/?format=rss "~Amateur Radio NewslinE"
+#https://www.arnewsline.org/?format=rss "~Amateur Radio NewslinE" # failing, 2023-12-04
 #https://stepoutside.org/rss/ "~Step Outside, Fishing, Atwater, CA"
 https://www.mccd.edu/news/feed/ "~Blue Devil News (Merced Community College Student Newspaper)" curl/8.4.0
 https://blogs.ucmerced.edu/prodigy/feed/ "~The Prodogy (UC Merced's Student Newspaper)" curl/8.4.0
