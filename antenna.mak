@@ -26,22 +26,43 @@ md_files = $(addsuffix .md,$(section_names))
 
 html_files = $(addsuffix .html,$(section_names))
 
-build: harvest assemble_md html archives index.html about.html search.html README.html CITATION.cff pagefind
+build: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind
 
 harvest: *.skim
 
 *.skim: *.txt
 
 *.txt: .FORCE
-	-skimmer $@
+	skimmer $@
 
-assemble_md: $(md_files)
+#
+# Helper rules to retrieve and debug specific feed lists
+#
+socal_north: .FORCE
+	skimmer socal_north.txt
+
+pacific: .FORCE
+	skimmer pacific.txt
+
+mid_central: .FORCE
+	skimmer mid_central.txt
+
+tech_likely: .FORCE
+	skimmer tech_likely.txt
+
+columns: .FORCE
+	skimmer columns.txt
+
+weather: .FORCE
+	skimmer weather.txt
+
+markdown: $(md_files)
 
 $(md_files): .FORCE
 	sqlite3 $(basename $@).skim "UPDATE items SET status = 'read'"
 	sqlite3 $(basename $@).skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 	skim2md -title "$(shell echo $(basename $@) | sed -E 's/_/ /g') $(VOL_NO)" \
-		-pocket -frontmatter $(basename $@).skim \
+		-frontmatter -pocket $(basename $@).skim \
 		>$@
 	mkdir -p $(YEAR)
 	cp -v "$@" "$(YEAR)/$(basename $@)_$(VOL_NO).md"
