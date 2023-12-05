@@ -1,11 +1,35 @@
 ---
 title: weather 2023.49
-updated: 2023-12-04 19:31:05
+updated: 2023-12-04 20:01:30
 ---
 
 # weather 2023.49
 
-(date: 2023-12-04 19:31:05)
+(date: 2023-12-04 20:01:30)
+
+---
+
+## SPC - No watches are valid as of Tue Dec  5 03:21:02 UTC 2023
+
+date: 2023-12-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Tue Dec  5 03:21:02 UTC 2023.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No MDs are in effect as of Tue Dec  5 03:21:02 UTC 2023
+
+date: 2023-12-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Dec  5 03:21:02 UTC 2023.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -17,30 +41,6 @@ No tropical cyclones as of Tue, 05 Dec 2023 02:52:19 GMT
 
 <span class="feed-item-link">
 <a href="https://www.nhc.noaa.gov/gis/">https://www.nhc.noaa.gov/gis/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nhc.noaa.gov/gis/">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No MDs are in effect as of Tue Dec  5 01:00:06 UTC 2023
-
-date: 2023-12-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Tue Dec  5 01:00:06 UTC 2023.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No watches are valid as of Tue Dec  5 01:00:06 UTC 2023
-
-date: 2023-12-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Tue Dec  5 01:00:06 UTC 2023.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
 </span>
 
 ---
@@ -87,7 +87,7 @@ thunder probabilities to less than 10%.
 
 ## SPC Day 3-8 Fire Weather Outlook
 
-date: 2023-12-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-12-04, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 3-8 Fire Weather Outlook  
@@ -318,40 +318,6 @@ West) will preclude thunderstorms.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
-</span>
-
----
-
-## Central Pacific Tropical Weather Outlook
-
-date: 2023-12-03, from: Central Pacific Tropical Weather Outlook
-
- <br />
- 000<br />
- ACPN50 PHFO 031144 CCA<br />
- TWOCP <br />
- <br />
- Tropical Weather Outlook...Corrected <br />
- NWS Central Pacific Hurricane Center Honolulu HI <br />
- 800 PM HST Thu Nov 30 2023<br />
- <br />
- For the central North Pacific...between 140W and 180W:<br />
- <br />
- No tropical cyclones are expected during the next 7 days.<br />
- <br />
- The central North Pacific hurricane season officially ends today, <br />
- November 30. The is the last regularly scheduled Tropical Weather <br />
- Outlook of the 2023 central North Pacific Hurricane Season. Routine <br />
- issuance of the Tropical Weather Outlook will resume on June 1, <br />
- 2024. During the off-season, Special Tropical Weather outlooks will <br />
- be issued as conditions warrant. <br />
- <br />
- $$<br />
- Forecaster Bohlin<br />
- 
-
-<span class="feed-item-link">
-<a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac">https://www.nhc.noaa.gov/gtwo.php?basin=cpac</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nhc.noaa.gov/gtwo.php?basin=cpac">Save to Pocket</a>
 </span>
 
 

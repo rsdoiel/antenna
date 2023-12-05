@@ -214,7 +214,9 @@ https://ghuntley.com/rss/ "~Geoffrey Hunntley's blog"
 https://www.htmhell.dev/feed_tips.xml "~HTMH(ell) newsletter, improving the web toolbox"
 https://blog.getpocket.com/feed/ "~GetPocket blog"
 https://www.hangaroundtheweb.com/index.xml "~Hanging Around the Web blog"
-https://kilianvalkhof.com/feed/ "~Kilian Valkhof's blog"
+#https://kilianvalkhof.com/feed/ "~Kilian Valkhof's blog"
+http://feeds.feedburner.com/Kilianvalkhofcom "~Kilian Valkhof's blog"
+
 #
 # Problem feeds
 #

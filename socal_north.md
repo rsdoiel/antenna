@@ -1,11 +1,24 @@
 ---
 title: socal north 2023.49
-updated: 2023-12-04 19:31:04
+updated: 2023-12-04 20:01:29
 ---
 
 # socal north 2023.49
 
-(date: 2023-12-04 19:31:04)
+(date: 2023-12-04 20:01:29)
+
+---
+
+## Students, faculty discuss 19-1 student-faculty ratio
+
+date: 2023-12-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+U.S. News &#38; World Report listed UCLA&#8217;s student-faculty ratio at 19-1, a ratio far higher than some private universities in California.
+The September report found that although UCLA is in a similar range to other UC campuses, it still differs significantly in comparison to other top-ranked universities such as the University of Southern California and Stanford, which have student-faculty ratios of 9-1 and 6-1, respectively.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/04/students-faculty-discuss-19-1-student-faculty-ratio/">https://dailybruin.com/2023/12/04/students-faculty-discuss-19-1-student-faculty-ratio/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/04/students-faculty-discuss-19-1-student-faculty-ratio/">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: tech likely 2023.49
-updated: 2023-12-04 19:31:05
+updated: 2023-12-04 20:01:30
 ---
 
 # tech likely 2023.49
 
-(date: 2023-12-04 19:31:05)
+(date: 2023-12-04 20:01:30)
 
 ---
 
@@ -18,6 +18,16 @@ Schepers, Névine
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/645443">http://hdl.handle.net/20.500.11850/645443</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/645443">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2023-12-05, from: Miguel de Icaza Mastondon feed)
+
+<p>A beautiful bouquet: <a href="https://infosec.exchange/@lcamtuf/111525589436089266" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">infosec.exchange/@lcamtuf/1115</span><span class="invisible">25589436089266</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111525724338288047">https://mastodon.social/@Migueldeicaza/111525724338288047</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111525724338288047">Save to Pocket</a>
 </span>
 
 ---
