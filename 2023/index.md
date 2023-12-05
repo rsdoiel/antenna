@@ -57,3 +57,7 @@
 * [tech likely 2023.47](tech_likely_2023.47.md)
 * [tech likely 2023.46](tech_likely_2023.46.md)
 
+## IF & Writing
+
+* [writing 2023.49](writing_2023.49.md)
+
