@@ -1,253 +1,103 @@
 #
-# Build the Antenna site
+# A rethink on my site build makefile
 #
 
-SUNDAY=$(shell reldate sunday)
-SATURDAY=$(shell reldate saturday)
-VOL_NO=$(shell date +%Y.%W)
+SUNDAY = $(shell reldate sunday)
+SATURDAY = $(shell reldate saturday)
+VOL_NO = $(shell date +%Y.%W)
 
-YEAR=2023
+YEAR = 2023
 ifneq ($(vol),)
-	VOL_NO=$(vol)
+        VOL_NO=$(vol)
 endif
 
 ifneq ($(start),)
-	SUNDAY = $(start)
+        SUNDAY = $(start)
 endif
 ifneq ($(end),)
-	SATURDAY = $(end)
+        SATURDAY = $(end)
 endif
 
-HTML_PAGES=$(shell ls -1 *.md | sed -E "s/.md/.html/")
+PROJECT = Antenna
+
+section_names = socal_north pacific mid_central tech_likely columns weather writing
+
+md_files = $(addsuffix .md,$(section_names))
+
+html_files = $(addsuffix .html,$(section_names))
+
+build: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind
+
+harvest: *.skim
+
+*.skim: *.txt
+
+*.txt: .FORCE
+	skimmer $@
 
 #
-# build, the start of the rules to build the site
+# Helper rules to retrieve and debug specific feed lists
 #
-build: socal_north mid_central pacific tech_likely columns weather archives $(HTML_PAGES) pagefind
+socal_north: .FORCE
+	skimmer socal_north.txt
+
+pacific: .FORCE
+	skimmer pacific.txt
+
+mid_central: .FORCE
+	skimmer mid_central.txt
+
+tech_likely: .FORCE
+	skimmer tech_likely.txt
+
+columns: .FORCE
+	skimmer columns.txt
+
+weather: .FORCE
+	skimmer weather.txt
+
+writing: .FORCE
+	skimmer writing.txt
+
+markdown: $(md_files)
+
+$(md_files): .FORCE
+	sqlite3 $(basename $@).skim "UPDATE items SET status = 'read'"
+	sqlite3 $(basename $@).skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
+	skim2md -title "$(shell echo $(basename $@) | sed -E 's/_/ /g') $(VOL_NO)" \
+		-frontmatter -pocket $(basename $@).skim \
+		>$@
+	mkdir -p $(YEAR)
+	cp -v "$@" "$(YEAR)/$(basename $@)_$(VOL_NO).md"
+
+html: front_page.tmpl $(html_files)
 
 %.html: %.md front_page.tmpl
 	pandoc -f markdown -t html5 \
- 	       --lua-filter=links-to-html.lua \
-	       --metadata title="The Antenna" \
-		   --metadata mid_central_page="mid_central.html" \
-	       --metadata pacific_page="pacific.html" \
-	       --metadata socal_north_page="socal_north.html" \
-	       --metadata tech_likely_page="tech_likely.html" \
-	       --metadata columns_page="columns.html" \
-	       --metadata weather_page="weather.html" \
-		   --template front_page.tmpl \
-		   $< \
-		   >$@
+           --lua-filter=links-to-html.lua \
+	       --metadata urls_file="$(basename $@).txt" \
+           --metadata mid_central_page="mid_central.html" \
+           --metadata pacific_page="pacific.html" \
+           --metadata socal_north_page="socal_north.html" \
+           --metadata tech_likely_page="tech_likely.html" \
+           --metadata columns_page="columns.html" \
+           --metadata weather_page="weather.html" \
+           --template front_page.tmpl \
+           $< \
+           >$@
 
 archives: mk_archives.bash archives.tmpl
-	./mk_archives.bash	
+	./mk_archives.bash      
 	cd $(YEAR) && make
 	git add $(YEAR)
 
-mid_central: mid_central.html
+pagefind: .FORCE
+	pagefind \
+	--verbose \
+	--force-language en \
+	--site .
+	git add pagefind
 
-mid_central.html: mid_central.md front_page.tmpl
-	pandoc -f markdown -t html5 \
-	       --lua-filter=links-to-html.lua \
-	       --metadata title="Mid Central, vol. $(VOL_NO)" \
-	       --metadata feed_name="Mid Central" \
-		   --metadata mid_central_page="mid_central.html" \
-	       --metadata socal_north_page="socal_north.html" \
-	       --metadata pacific_page="pacific.html" \
-	       --metadata tech_likely_page="tech_likely.html" \
-	       --metadata columns_page="columns.html" \
-	       --metadata weather_page="weather.html" \
-	       --metadata urls_file="mid_central.txt" \
-		   --template front_page.tmpl \
-		   mid_central.md \
-		   >mid_central.html
-
-mid_central.md: mid_central.txt mid_central.skim
-	skim2md -title "Mid Central $(VOL_NO)" \
-	        -frontmatter \
-			-pocket \
-			mid_central.skim >mid_central.md
-	cp mid_central.md $(YEAR)/mid_central_$(VOL_NO).md
-
-mid_central.txt: mid_central.skim
-
-tech_likely: tech_likely.html
-
-tech_likely.html: tech_likely.md front_page.tmpl
-	pandoc -f markdown -t html5 \
-	       --lua-filter=links-to-html.lua \
-	       --metadata title="Tech Likely, vol. $(VOL_NO)" \
-	       --metadata feed_name="Tech Likely" \
-		   --metadata mid_central_page="mid_central.html" \
-	       --metadata socal_north_page="socal_north.html" \
-	       --metadata pacific_page="pacific.html" \
-	       --metadata tech_likely_page="tech_likely.html" \
-	       --metadata columns_page="columns.html" \
-	       --metadata weather_page="weather.html" \
-	       --metadata urls_file="tech_likely.txt" \
-		   --template front_page.tmpl \
-		   tech_likely.md \
-		   >tech_likely.html
-
-tech_likely.md: tech_likely.skim tech_likely.txt 
-	skim2md -title "Tech Likely $(VOL_NO)" \
-	        -frontmatter \
-			-pocket \
-			tech_likely.skim >tech_likely.md
-	cp tech_likely.md $(YEAR)/tech_likely_$(VOL_NO).md
-
-tech_likely.txt: tech_likely.skim
-
-columns: columns.html
-
-columns.html: columns.md front_page.tmpl
-	pandoc -f markdown -t html5 \
-	       --lua-filter=links-to-html.lua \
-	       --metadata title="Columns, vol. $(VOL_NO)" \
-	       --metadata feed_name="Columns" \
-		   --metadata mid_central_page="mid_central.html" \
-	       --metadata socal_north_page="socal_north.html" \
-	       --metadata pacific_page="pacific.html" \
-	       --metadata tech_likely_page="tech_likely.html" \
-	       --metadata columns_page="columns.html" \
-	       --metadata weather_page="weather.html" \
-	       --metadata urls_file="columns.txt" \
-		   --template front_page.tmpl \
-		   columns.md \
-		   >columns.html
-
-columns.md: columns.skim columns.txt 
-	skim2md -title "Columns, $(VOL_NO)" \
-	        -frontmatter \
-			-pocket \
-			columns.skim >columns.md
-	cp columns.md $(YEAR)/columns_$(VOL_NO).md
-
-columns.txt: columns.skim
-
-socal_north: socal_north.html
-
-socal_north.html: socal_north.md front_page.tmpl
-	pandoc -f markdown -t html5 \
-	       --lua-filter=links-to-html.lua \
-	       --metadata title="SoCal North, vol. $(VOL_NO)" \
-	       --metadata feed_name="SoCal North" \
-		   --metadata mid_central_page="mid_central.html" \
-	       --metadata socal_north_page="socal_north.html" \
-	       --metadata pacific_page="pacific.html" \
-	       --metadata tech_likely_page="tech_likely.html" \
-	       --metadata columns_page="columns.html" \
-	       --metadata weather_page="weather.html" \
-	       --metadata urls_file="socal_north.txt" \
-		   --template front_page.tmpl \
-		   socal_north.md \
-		   >socal_north.html
-
-socal_north.md: socal_north.txt socal_north.skim
-	skim2md -title "SoCal North $(VOL_NO)" \
-	        -frontmatter \
-			-pocket \
-			socal_north.skim >socal_north.md
-	cp socal_north.md $(YEAR)/socal_north_$(VOL_NO).md
-
-socal_north.txt: socal_north.skim
-
-pacific: pacific.html
-
-pacific.html: pacific.md front_page.tmpl
-	pandoc -f markdown -t html5 \
-               --lua-filter=links-to-html.lua \
-	       --metadata title="Pacific, vol. $(VOL_NO)" \
-	       --metadata feed_name="Pacific" \
-		   --metadata mid_central_page="mid_central.html" \
-	       --metadata socal_north_page="socal_north.html" \
-	       --metadata pacific_page="pacific.html" \
-	       --metadata tech_likely_page="tech_likely.html" \
-	       --metadata columns_page="columns.html" \
-	       --metadata weather_page="weather.html" \
-	       --metadata urls_file="pacific.txt" \
-		   --template front_page.tmpl \
-		   pacific.md \
-		   >pacific.html
-
-pacific.md: pacific.skim pacific.txt
-	./pacific_filter.bash
-	skim2md -title "Pacific $(VOL_NO)" \
-	        -frontmatter \
-			-pocket \
-			pacific.skim >pacific.md
-	cp pacific.md $(YEAR)/pacific_$(VOL_NO).md
-
-pacific.txt: pacific.skim
-
-weather: weather.html 
-
-weather.html: weather.md front_page.tmpl
-	pandoc -f markdown -t html5 \
-               --lua-filter=links-to-html.lua \
-	       --metadata title="Weather, vol. $(VOL_NO)" \
-	       --metadata feed_name="Weather" \
-	       --metadata socal_north_page="socal_north.html" \
-		   --metadata mid_central_page="mid_central.html" \
-	       --metadata pacific_page="pacific.html" \
-	       --metadata tech_likely_page="tech_likely.html" \
-	       --metadata weather_page="weather.html" \
-	       --metadata columns_page="columns.html" \
-	       --metadata urls_file="weather.txt" \
-		   --template front_page.tmpl \
-		   weather.md \
-		   >"weather.html"
-
-weather.md: weather.skim weather.txt
-	skim2md -title "Weather $(VOL_NO)" \
-	        -frontmatter \
-			-pocket \
-			weather.skim >"weather.md"
-	cp weather.md $(YEAR)/weather_$(VOL_NO).md
-
-weather.txt: weather.skim
-
-2023: .FORCE
-	cd 2023 && make
-
-#
-# Skimmmer database management
-#
-
-tech_likely.skim: .FORCE
-	-skimmer tech_likely.txt
-	sqlite3 tech_likely.skim "UPDATE items SET status = 'read'"
-	sqlite3 tech_likely.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
-
-socal_north.skim: .FORCE
-	-skimmer socal_north.txt
-	sqlite3 socal_north.skim "UPDATE items SET status = 'read'"
-	sqlite3 socal_north.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
-
-columns.skim: .FORCE
-	-skimmer columns.txt
-	sqlite3 columns.skim "UPDATE items SET status = 'read'"
-	sqlite3 columns.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
-
-pacific.skim: .FORCE
-	-skimmer pacific.txt
-	sqlite3 pacific.skim "UPDATE items SET status = 'read'"
-	sqlite3 pacific.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
-
-mid_central.skim: .FORCE
-	-skimmer mid_central.txt
-	sqlite3 mid_central.skim "UPDATE items SET status = 'read'"
-	sqlite3 mid_central.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
-
-weather.skim: .FORCE
-	-skimmer weather.txt
-	sqlite3 weather.skim "UPDATE items SET status = 'read'"
-	sqlite3 weather.skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
-
-get_updates: clean socal_north.skim pacific.skim mid_central.skim
-
-
-# Clean only removes up the current volume pages
 clean: .FORCE
 	-rm mid_central.md 2>/dev/null
 	-rm mid_central.html 2>/dev/null
@@ -261,29 +111,66 @@ clean: .FORCE
 	-rm pacific.html 2>/dev/null
 	cd $(YEAR) && make clean
 
-
 CITATION.cff: .FORCE
 	@cat codemeta.json | sed -E   's/"@context"/"at__context"/g;s/"@type"/"at__type"/g;s/"@id"/"at__id"/g' >_codemeta.json
 	@echo '' | pandoc --metadata title="Cite $(PROJECT)" --metadata-file=_codemeta.json --template=codemeta-cff.tmpl >CITATION.cff
 
+about.html: about.md
+	pandoc --metadata title="About $(PROJECT)" \
+		--lua-filter=links-to-html.lua \
+		--metadata mid_central_page="mid_central.html" \
+		--metadata pacific_page="pacific.html" \
+		--metadata socal_north_page="socal_north.html" \
+		--metadata tech_likely_page="tech_likely.html" \
+		--metadata columns_page="columns.html" \
+		--metadata weather_page="weather.html" \
+		--template front_page.tmpl \
+		about.md >about.html
+
 about.md: .FORCE
 	@cat codemeta.json | sed -E 's/"@context"/"at__context"/g;s/"@type"/"at__type"/g;s/"@id"/"at__id"/g' >_codemeta.json
-	@echo "" | pandoc --metadata title="About $(PROJECT)" --metadata-file=_codemeta.json --template codemeta-about.tmpl >about.md #2>/dev/null;
-	#@if [ -f _codemeta.json ]; then rm _codemeta.json; fi
+	@echo "" | pandoc --metadata title="About $(PROJECT)" \
+		--metadata-file=_codemeta.json \
+		--template codemeta-about.tmpl >about.md #2>/dev/null;
+	@if [ -f _codemeta.json ]; then rm _codemeta.json; fi
 
-pagefind: .FORCE
-	pagefind \
-	--verbose \
-	--force-language en \
-	--site .
-	git add pagefind
+index.html: .FORCE
+	@echo '' | pandoc --metadata title="The $(PROJECT)" \
+		--lua-filter=links-to-html.lua \
+		--metadata mid_central_page="mid_central.html" \
+		--metadata pacific_page="pacific.html" \
+		--metadata socal_north_page="socal_north.html" \
+		--metadata tech_likely_page="tech_likely.html" \
+		--metadata columns_page="columns.html" \
+		--metadata weather_page="weather.html" \
+		--template front_page.tmpl \
+		index.md >index.html
 
-#clean-website:
-#	make -f website.mak clean
+search.html: .FORCE
+	@echo '' | pandoc --metadata title="$(PROJECT) Search" \
+		--lua-filter=links-to-html.lua \
+		--metadata mid_central_page="mid_central.html" \
+		--metadata pacific_page="pacific.html" \
+		--metadata socal_north_page="socal_north.html" \
+		--metadata tech_likely_page="tech_likely.html" \
+		--metadata columns_page="columns.html" \
+		--metadata weather_page="weather.html" \
+		--template front_page.tmpl \
+		search.md >search.html
 
-#website: clean-website .FORCE
-#	make -f website.mak
+README.html: .FORCE
+	@echo '' | pandoc --metadata title="Read about $(PROJECT)" \
+		--lua-filter=links-to-html.lua \
+		--metadata mid_central_page="mid_central.html" \
+		--metadata pacific_page="pacific.html" \
+		--metadata socal_north_page="socal_north.html" \
+		--metadata tech_likely_page="tech_likely.html" \
+		--metadata columns_page="columns.html" \
+		--metadata weather_page="weather.html" \
+		--template front_page.tmpl \
+		README.md >README.html
 
+	
 status:
 	git status
 
