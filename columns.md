@@ -1,11 +1,23 @@
 ---
-title: columns 2023.49
-updated: 2023-12-04 11:48:50
+title: Columns, 2023.49
+updated: 2023-12-04 19:05:14
 ---
 
-# columns 2023.49
+# Columns, 2023.49
 
-(date: 2023-12-04 11:48:50)
+(date: 2023-12-04 19:05:14)
+
+---
+
+## Dictatorship
+
+date: 2023-12-04, from: Dan Rather's Steady
+
+The threat is real
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/dictatorship">https://steady.substack.com/p/dictatorship</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/dictatorship">Save to Pocket</a>
+</span>
 
 ---
 

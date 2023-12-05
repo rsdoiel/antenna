@@ -1,0 +1,9 @@
+#
+# Writing list provides resources and inspiration for writing projects
+#
+https://locusmag.com/feed/ "~Locus Magazine"
+https://blog.finaldraft.com/rss.xml "~Final Draft blog"
+https://www.literatureandlatte.com/rss/blog.xml "~Literature & a Latte blog"
+http://www.spagmag.org/feed/ "~SPAG Magizine blog"
+https://ganelson.github.io/inform-website/feed.xml "~Inform 7 IF language blog"
+https://chrisklimas.com/rss.xml "~Chris Klimas blog (creator of Twine)"

@@ -1,31 +1,31 @@
 ---
-title: weather 2023.49
-updated: 2023-12-04 11:48:50
+title: Weather 2023.49
+updated: 2023-12-04 19:05:16
 ---
 
-# weather 2023.49
+# Weather 2023.49
 
-(date: 2023-12-04 11:48:50)
+(date: 2023-12-04 19:05:16)
 
 ---
 
-## SPC - No watches are valid as of Mon Dec  4 17:59:02 UTC 2023
+## There are no tropical cyclones at this time.
 
-date: 2023-12-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-12-05, from: Eastern Pacific Basin GIS Data
 
-No watches are valid as of Mon Dec  4 17:59:02 UTC 2023.
+No tropical cyclones as of Tue, 05 Dec 2023 02:52:19 GMT
 
 <span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+<a href="https://www.nhc.noaa.gov/gis/">https://www.nhc.noaa.gov/gis/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nhc.noaa.gov/gis/">Save to Pocket</a>
 </span>
 
 ---
 
-## SPC - No MDs are in effect as of Mon Dec  4 17:59:02 UTC 2023
+## SPC - No MDs are in effect as of Tue Dec  5 01:00:06 UTC 2023
 
-date: 2023-12-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-12-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Mon Dec  4 17:59:02 UTC 2023.
+No Mesoscale Discussions are in effect as of Tue Dec  5 01:00:06 UTC 2023.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
@@ -33,14 +33,98 @@ No Mesoscale Discussions are in effect as of Mon Dec  4 17:59:02 UTC 2023.
 
 ---
 
-## There are no tropical cyclones at this time.
+## SPC - No watches are valid as of Tue Dec  5 01:00:06 UTC 2023
 
-date: 2023-12-04, from: Eastern Pacific Basin GIS Data
+date: 2023-12-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No tropical cyclones as of Mon, 04 Dec 2023 17:32:38 GMT
+No watches are valid as of Tue Dec  5 01:00:06 UTC 2023.
 
 <span class="feed-item-link">
-<a href="https://www.nhc.noaa.gov/gis/">https://www.nhc.noaa.gov/gis/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nhc.noaa.gov/gis/">Save to Pocket</a>
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Dec 5, 2023 0100 UTC Day 1 Convective Outlook
+
+date: 2023-12-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0616 PM CST Mon Dec 04 2023
+
+Valid 050100Z - 051200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Thunderstorms are not forecast the rest of tonight.
+
+...01z Update...
+
+Midlevel speed max is translating quickly off the middle Atlantic
+Coast early this evening. Large-scale ascent and associated buoyancy
+have progressed well offshore and thunderstorms are no longer
+forecast over the southern Appalachians.
+
+Upstream across the Pacific Northwest, poor lapse rates within the
+warm conveyor do not appear favorable for more than a rogue flash of
+lightning within the deepest updrafts. For this reason have lowered
+thunder probabilities to less than 10%.
+
+..Darrow.. 12/05/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2023-12-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0415 PM CST Mon Dec 04 2023
+
+Valid 061200Z - 121200Z
+
+Some increase in fire weather conditions is expected across the
+southern High Plains late this week and into the weekend as a series
+of mid-level shortwaves traverse the Central Rockies and Southwest.
+This will lead to several days of lee troughing and strengthening
+winds and downslope flow in the region. The driest and windiest
+conditions are likely on Friday as the trough deepens and stronger
+mid-level flow overspreads the region. Freeze cured fine fuels will
+likely support some increase in initial attack, but ERC values near
+seasonal norm should mitigate a greater threat for large fire.
+Therefore, Elevated fire weather conditions are possible, but
+Critical fire weather conditions remain unlikely and therefore, no
+probabilities are warranted at this time. 
+
+Some precipitation may fall in this region on Saturday which would
+limit fuel receptiveness, but where fuels remain dry, especially
+across Far West Texas and southern New Mexico, dry and breezy
+conditions will continue to dry fuels which may eventually lead to
+fire weather concerns in the region.
+
+..Bentley.. 12/04/2023
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">https://www.spc.noaa.gov/products/exper/fire_wx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/exper/fire_wx/">Save to Pocket</a>
 </span>
 
 ---
@@ -234,6 +318,40 @@ West) will preclude thunderstorms.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
+</span>
+
+---
+
+## Central Pacific Tropical Weather Outlook
+
+date: 2023-12-03, from: Central Pacific Tropical Weather Outlook
+
+ <br />
+ 000<br />
+ ACPN50 PHFO 031144 CCA<br />
+ TWOCP <br />
+ <br />
+ Tropical Weather Outlook...Corrected <br />
+ NWS Central Pacific Hurricane Center Honolulu HI <br />
+ 800 PM HST Thu Nov 30 2023<br />
+ <br />
+ For the central North Pacific...between 140W and 180W:<br />
+ <br />
+ No tropical cyclones are expected during the next 7 days.<br />
+ <br />
+ The central North Pacific hurricane season officially ends today, <br />
+ November 30. The is the last regularly scheduled Tropical Weather <br />
+ Outlook of the 2023 central North Pacific Hurricane Season. Routine <br />
+ issuance of the Tropical Weather Outlook will resume on June 1, <br />
+ 2024. During the off-season, Special Tropical Weather outlooks will <br />
+ be issued as conditions warrant. <br />
+ <br />
+ $$<br />
+ Forecaster Bohlin<br />
+ 
+
+<span class="feed-item-link">
+<a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac">https://www.nhc.noaa.gov/gtwo.php?basin=cpac</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nhc.noaa.gov/gtwo.php?basin=cpac">Save to Pocket</a>
 </span>
 
 
