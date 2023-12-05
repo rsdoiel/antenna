@@ -15,6 +15,7 @@ to promote their content. Right now Antenna is build from five lists
 	- [weather.txt](weather.txt)
 - [Tech Likely](tech_likely.html), miscellanious feeds but mostly computing related, ported from my newsboat list
 - [Columns](columns.html), posts that frequently end up in my [Pocket](https://getpocket.com) reading list
+- [IF & Writing](writing.html), feeds about writing and IF (Interactive Fiction)
 
 All the feed items are responsibility of the organizations that publish the feed. My choice is the specific feeds I select for my aggregation.
 
