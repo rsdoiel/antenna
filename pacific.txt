@@ -27,7 +27,7 @@ https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times" curl/8.
 # Northern Marianas Papers
 https://www.mvariety.com/search/?nsa=eeditionl=50&t=article&f=atom "~Marianas Variety"
 # saipantrimbine.com: getting errors, to many requests, 2023-10-16
-https://www.saipantribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k[]=#topstory "~Saipan Tribune"
+#https://www.saipantribune.com/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k[]=#topstory "~Saipan Tribune" # dropped 2023-12-05, not reliable
 
 
 # From the Republic of Belau
@@ -91,4 +91,4 @@ https://gov.fm/index.php/component/content/category/35-pio-articles?Itemid=177&f
 # from them)
 #
 #https://statemag.state.gov/feed/ "~State Magazine (U.S. Department of State)"
-https://www.doi.gov/feeds/list/19446/rss.xml "~OIA News (U.S. Department of the Interior)"
+#https://www.doi.gov/feeds/list/19446/rss.xml "~OIA News (U.S. Department of the Interior)" # not available (404) 2023-12-05 after being a "maintenance" page on 2023-12-04
