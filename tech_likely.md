@@ -1,11 +1,11 @@
 ---
 title: tech likely 2023.49
-updated: 2023-12-05 09:52:38
+updated: 2023-12-05 10:00:01
 ---
 
 # tech likely 2023.49
 
-(date: 2023-12-05 09:52:38)
+(date: 2023-12-05 10:00:01)
 
 ---
 
@@ -18,6 +18,18 @@ Schepers, Névine
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/645443">http://hdl.handle.net/20.500.11850/645443</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/645443">Save to Pocket</a>
+</span>
+
+---
+
+## Google’s $100 million to Canada’s news industry is a small price to pay to avoid regulation
+
+date: 2023-12-05, from: Nieman Journalism Lab
+
+The deal between Google and the federal government to resolve their dispute over paying for news online will come as a relief for the media industry in Canada. News publishers were facing the prospect of disappearing from Google Search and other services — the equivalent of vanishing from the internet — after Google had threatened...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/googles-100-million-to-canadas-news-industry-is-a-small-price-to-pay-to-avoid-regulation/">https://www.niemanlab.org/2023/12/googles-100-million-to-canadas-news-industry-is-a-small-price-to-pay-to-avoid-regulation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/googles-100-million-to-canadas-news-industry-is-a-small-price-to-pay-to-avoid-regulation/">Save to Pocket</a>
 </span>
 
 ---

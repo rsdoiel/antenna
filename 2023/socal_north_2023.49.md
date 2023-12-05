@@ -1,11 +1,134 @@
 ---
 title: socal north 2023.49
-updated: 2023-12-05 09:52:37
+updated: 2023-12-05 10:00:01
 ---
 
 # socal north 2023.49
 
-(date: 2023-12-05 09:52:37)
+(date: 2023-12-05 10:00:01)
+
+---
+
+## Concerned About Your Winter Gas Bill? This Text Service Could Help
+
+date: 2023-12-05, updated: 2023-12-05, from: The LAist
+
+While SoCalGas isn’t expecting huge increases like last winter, it’s trying to help customers avoid any surprises.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/los-angeles-gas-bill-help-socalgas-utility-winter-southern-california">https://laist.com/news/climate-environment/los-angeles-gas-bill-help-socalgas-utility-winter-southern-california</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/los-angeles-gas-bill-help-socalgas-utility-winter-southern-california">Save to Pocket</a>
+</span>
+
+---
+
+## LA’s Proposed Gondola Project Releases Final Environmental Impact Report
+
+date: 2023-12-05, updated: 2023-12-05, from: The LAist
+
+The gondola would take people from Union Station in downtown L.A. through Chinatown to Dodger Stadium.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/transportation/las-proposed-gondola-project-releases-final-environmental-impact-report">https://laist.com/news/transportation/las-proposed-gondola-project-releases-final-environmental-impact-report</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/transportation/las-proposed-gondola-project-releases-final-environmental-impact-report">Save to Pocket</a>
+</span>
+
+---
+
+## LA County Overdose Deaths In 2022 Climb To More Than 3,200
+
+date: 2023-12-05, updated: 2023-12-05, from: The LAist
+
+From 2016 to 2022, fentanyl overdose deaths in Los Angeles County increased 1,652%.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/health/la-county-overdose-deaths-in-2022-climb-to-more-than-3-200">https://laist.com/news/health/la-county-overdose-deaths-in-2022-climb-to-more-than-3-200</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/health/la-county-overdose-deaths-in-2022-climb-to-more-than-3-200">Save to Pocket</a>
+</span>
+
+---
+
+## These Volunteers Are Trying To Fill The Gaps In LA’s Response To The Homelessness Crisis
+
+date: 2023-12-05, updated: 2023-12-05, from: The LAist
+
+From fresh water to clean needles, volunteers hit the streets each day to provide services to the unhoused.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/how-to-la/these-volunteers-are-trying-to-fill-the-gaps-in-las-response-to-the-homelessness-crisis">https://laist.com/news/how-to-la/these-volunteers-are-trying-to-fill-the-gaps-in-las-response-to-the-homelessness-crisis</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/how-to-la/these-volunteers-are-trying-to-fill-the-gaps-in-las-response-to-the-homelessness-crisis">Save to Pocket</a>
+</span>
+
+---
+
+## How To Get Your Name On The Ballot In LA
+
+date: 2023-12-05, updated: 2023-12-05, from: The LAist
+
+This week is the deadline for candidates to file for the March 2024 primary. Here’s what it takes to make it in.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/how-to-get-your-name-on-the-ballot-in-la">https://laist.com/news/politics/how-to-get-your-name-on-the-ballot-in-la</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/how-to-get-your-name-on-the-ballot-in-la">Save to Pocket</a>
+</span>
+
+---
+
+## LA's Hate Flier Proposal Aimed At Anti-Semitic Messaging Raises First Amendment Concerns
+
+date: 2023-12-05, updated: 2023-12-05, from: The LAist
+
+Two members of the City Council want the city attorney to look at how littering laws can be used to outlaw antisemitic fliers on people's properties.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/las-hate-flier-proposal-aimed-at-anti-semitic-messaging-raises-first-amendment-concerns">https://laist.com/news/politics/las-hate-flier-proposal-aimed-at-anti-semitic-messaging-raises-first-amendment-concerns</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/las-hate-flier-proposal-aimed-at-anti-semitic-messaging-raises-first-amendment-concerns">Save to Pocket</a>
+</span>
+
+---
+
+## Crimewatch: November 2023
+
+date: 2023-12-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sources: UCPD. Graphic reporting by Sharla Steinman, City and Crime Editor. Interactive by Junwon Choi, Data editor.
+UCPD recorded 637 unique entries in its November daily crime log.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/04/crimewatch-november-2023/">https://dailybruin.com/2023/12/04/crimewatch-november-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/04/crimewatch-november-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## USAC passes resolution in favor of naming November Sikh Heritage Month
+
+date: 2023-12-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council passed a resolution calling on the UC to recognize November as Sikh Heritage Month.
+The resolution, which passed unanimously Nov. 14, acknowledges the historical trauma and ongoing violence experienced by the Sikh community, as well as the community’s contributions in the state of California and beyond.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/04/usac-passes-resolution-in-favor-of-naming-november-sikh-heritage-month/">https://dailybruin.com/2023/12/04/usac-passes-resolution-in-favor-of-naming-november-sikh-heritage-month/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/04/usac-passes-resolution-in-favor-of-naming-november-sikh-heritage-month/">Save to Pocket</a>
+</span>
+
+---
+
+## USAC Recap – Nov. 28
+
+date: 2023-12-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its last meeting of November on Tuesday.
+USAC is the official student government representing the undergraduate student body at UCLA.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/04/usac-recap-nov-28-2/">https://dailybruin.com/2023/12/04/usac-recap-nov-28-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/04/usac-recap-nov-28-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Anthropology Fiat Lux seminar explores social impact of folk music
+
+date: 2023-12-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+For many, listening to folk music is a fun pastime or interest. However, for distinguished professor of anthropology Paul Kroskrity, the songs have far more meaning when it comes to social movements.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/04/anthropology-fiat-lux-seminar-explores-social-impact-of-folk-music/">https://dailybruin.com/2023/12/04/anthropology-fiat-lux-seminar-explores-social-impact-of-folk-music/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/04/anthropology-fiat-lux-seminar-explores-social-impact-of-folk-music/">Save to Pocket</a>
+</span>
 
 ---
 
