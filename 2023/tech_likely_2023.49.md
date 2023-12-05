@@ -1,11 +1,11 @@
 ---
 title: tech likely 2023.49
-updated: 2023-12-04 11:48:50
+updated: 2023-12-04 19:31:05
 ---
 
 # tech likely 2023.49
 
-(date: 2023-12-04 11:48:50)
+(date: 2023-12-04 19:31:05)
 
 ---
 
@@ -18,6 +18,225 @@ Schepers, Névine
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/645443">http://hdl.handle.net/20.500.11850/645443</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/645443">Save to Pocket</a>
+</span>
+
+---
+
+## A year in recap: Windows accessibility
+
+date: 2023-12-05, from: OS News
+
+The Windows Accessibility team adheres to the disability community’s guiding principle, “nothing about us without us,” emphasizing the creation of products that empower everyone. We launched and announced new and exciting features last September through our Windows 11 2022 Update and with your feedback, we have improved upon those experiences in a number of ways. ↫ Divya Bhaskaran on Microsoft&#8217;s official Windows blog In this blog post, Microsoft details some of the accessibility features it has added to Windows in 2023.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138003/a-year-in-recap-windows-accessibility/">https://www.osnews.com/story/138003/a-year-in-recap-windows-accessibility/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138003/a-year-in-recap-windows-accessibility/">Save to Pocket</a>
+</span>
+
+---
+
+## The hidden secrets of the Fn key on the Mac
+
+date: 2023-12-05, from: OS News
+
+Even if you’ve used the Mac for decades, I suspect you have never fully understood the Fn key. Not helping is the fact that Apple sometimes calls it the Function key, but all Mac keyboards already have 12 or more numbered F-for-Function keys! The Fn key first appeared in 1998 in the PowerBook G3 Series (Wallstreet) and has become a fixture in the lower-left corner of laptop keyboards ever since. The Fn key migrated to standalone keyboards only in 2007 with the release of the Apple Keyboard with Numeric Keypad, where it occupies a spot between the Delete key and the Home key. On Apple’s compact desktop keyboards, it reverts to the lower-left corner. ↫ Adam Engst at TibBITS This article made me wonder when the Fn key first appeared, but searching for it leads to a lot of SEO spam that is clearly all wrong. As the article notes, Apple first introduced it in 1998, and IBM already it in on the monochrome ThinkPad 300 in 1992. It&#8217;s much older than that, though; the IBM PC Convertible from 1986 also had one, as did the IBM PCjr from 1984. At this point I&#8217;m starting to think it was actually a fairly common key, but with the explosion of IBM compatibles in the early &#8217;80s it&#8217;s basically impossible to check them all, and, of course, there&#8217;s the possibility it may have existed on earlier systems, or third-party keyboards long lost to time. This would be an interesting mystery to solve.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138001/the-hidden-secrets-of-the-fn-key-on-the-mac/">https://www.osnews.com/story/138001/the-hidden-secrets-of-the-fn-key-on-the-mac/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138001/the-hidden-secrets-of-the-fn-key-on-the-mac/">Save to Pocket</a>
+</span>
+
+---
+
+## macOS Sonoma is setting records for update size
+
+date: 2023-12-04, from: OS News
+
+It was Big Sur that focussed attention on the size of macOS updates. In Mojave and earlier, updates had essentially been Installer packages that brought a minimum of overhead. By the time that many had installed Big Sur’s new Signed System Volume (SSV), we were starting to discover just how large its updates were. Those were early days with its completely new updating process that builds a new System volume, takes a snapshot of it, and constructs a tree of hashes that verify the integrity of every last bit within it. ↫ Howard Oakley I had no idea macOS updates had become as big as they had, and good on Apple for trying to bring this back down again, and speed up installation of updates, too.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/137999/macos-sonoma-is-setting-records-for-update-size/">https://www.osnews.com/story/137999/macos-sonoma-is-setting-records-for-update-size/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/137999/macos-sonoma-is-setting-records-for-update-size/">Save to Pocket</a>
+</span>
+
+---
+
+## Expedition 68 Crew With Three NASA Astronauts to Discuss Mission
+
+date: 2023-12-04, from: NASA breaking news
+
+Dec. 4, 2023 MEDIA ADVISORY: M23-001 Four astronauts, including the current record-holder for the longest single stay in space aboard the International Space Station, will make their first public appearance in Houston since returning to Earth. The crew will be available for interviews at 5 p.m. CST Wednesday, Dec. 6, at Space Center Houston. NASA [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/expedition-68-crew-with-three-nasa-astronauts-to-discuss-mission/">https://www.nasa.gov/news-release/expedition-68-crew-with-three-nasa-astronauts-to-discuss-mission/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/expedition-68-crew-with-three-nasa-astronauts-to-discuss-mission/">Save to Pocket</a>
+</span>
+
+---
+
+## Overseen: memories of the search for a thing that maybe never was
+
+date: 2023-12-04, from: Care
+
+
+                <p>After attending a man’s second funeral, Kalundi Serumaga discovers an archive of African State TV broadcasts in London. He describes the fight to save colonial archives of Ugandan history and the stakes for Black African Indigenous peoples.</p>
+
+            
+
+<span class="feed-item-link">
+<a href="https://logicmag.io/policy/under-seen-african-state-tv-postcolonial-archives">https://logicmag.io/policy/under-seen-african-state-tv-postcolonial-archives</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/policy/under-seen-african-state-tv-postcolonial-archives">Save to Pocket</a>
+</span>
+
+---
+
+## Smaller and Faster Updates With Sonoma
+
+date: 2023-12-04, from: Michael Tsai
+
+Howard Oakley (Hacker News): When a user accepts Software Update&#8217;s invitation to upgrade to macOS 13 or 14, rather than downloading a full installer app of about 12 GB, Ventura or Sonoma will instead attempt an update, in which only changed files are copied to the System volume, substantially reducing the amount to be downloaded, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/04/smaller-and-faster-updates-with-sonoma/">https://mjtsai.com/blog/2023/12/04/smaller-and-faster-updates-with-sonoma/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/04/smaller-and-faster-updates-with-sonoma/">Save to Pocket</a>
+</span>
+
+---
+
+## Sony Removing Purchased Discovery TV Shows
+
+date: 2023-12-04, from: Michael Tsai
+
+PlayStation Store (via Hacker News, Reddit): As of 31 December 2023, due to our content licensing arrangements with content providers, you will no longer be able to watch any of your previously purchased Discovery content and the content will be removed from your video library. It isn&#8217;t that streaming content is no longer available; they [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/04/sony-removing-purchased-discovery-tv-shows/">https://mjtsai.com/blog/2023/12/04/sony-removing-purchased-discovery-tv-shows/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/04/sony-removing-purchased-discovery-tv-shows/">Save to Pocket</a>
+</span>
+
+---
+
+## Amazon Employees Returning to Offices
+
+date: 2023-12-04, from: Michael Tsai
+
+Jane Thier (via Hacker News): Mike Hopkins, senior vice president of Prime Video and Amazon Studios, reportedly told members in an internal meeting that when it comes to returning to the office, &#8220;it&#8217;s time to disagree and commit. We&#8217;re here, we&#8217;re back&#8212;it&#8217;s working,&#8221; he said. &#8220;I don&#8217;t have data to back it up, but I [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/04/amazon-employees-returning-to-offices/">https://mjtsai.com/blog/2023/12/04/amazon-employees-returning-to-offices/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/04/amazon-employees-returning-to-offices/">Save to Pocket</a>
+</span>
+
+---
+
+## Computational Bridal Photo
+
+date: 2023-12-04, from: Michael Tsai
+
+Matt Growcoot: A woman says that &#8220;the fabric of reality crumbled&#8221; after she looked at an iPhone photo of herself trying on a wedding dress and noticed that her reflection looked different.Standing in front of two large mirrors, Tessa Coates&#8217; reflection does not return the same pose that she is making, and not only that, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/04/computational-bridal-photo/">https://mjtsai.com/blog/2023/12/04/computational-bridal-photo/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/04/computational-bridal-photo/">Save to Pocket</a>
+</span>
+
+---
+
+## Dave Cutler Interview
+
+date: 2023-12-04, from: Michael Tsai
+
+Dave Plummer (via Hacker News): Dave Cutler is a seminal figure in computer science, renowned for his contributions to operating systems. Born in 1942, he played pivotal roles in the development of several OSes, most notably VMS for Digital Equipment Corporation (DEC) and Windows NT for Microsoft. Cutler&#8217;s design principles emphasize performance, reliability, and scalability. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/04/dave-cutler-interview/">https://mjtsai.com/blog/2023/12/04/dave-cutler-interview/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/04/dave-cutler-interview/">Save to Pocket</a>
+</span>
+
+---
+
+## Disabled Safari Extensions Are Not Fully Disabled
+
+date: 2023-12-04, from: Michael Tsai
+
+Jeff Johnson: The good news is that when you navigate to a new page in a Safari tab after disabling the extension, its content script won&#8217;t get injected into the new page. The bad news is that if you navigate back to the old page with Safari&#8217;s back button, the disabled extension&#8217;s injected content script [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/04/disabled-safari-extensions-are-not-fully-disabled/">https://mjtsai.com/blog/2023/12/04/disabled-safari-extensions-are-not-fully-disabled/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/04/disabled-safari-extensions-are-not-fully-disabled/">Save to Pocket</a>
+</span>
+
+---
+
+## Just five days to go until the MUG RISC OS Xmas Market
+
+date: 2023-12-04, from: RiscOS Story
+
+In case you haven&#8217;t noticed any previous references, such as the first announcement, or the banner along the top of all the pages on this site1, there is an extra (sort of2) RISC OS show taking place in just five days time on 9th December &#8211; the MUG RISC OS Xmas market. If you want to take the opportunity to get that last minute Christmas present for a family member (okay, for yourself really) then the place to head for is: Dodderhill Parish Community Hall,School Road,Wychbold,Droitwich,Worcestershire,WR9 7PU. The Hall is&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.riscository.com/2023/mug-risc-os-xmas-market-5-days-to-go/">https://www.riscository.com/2023/mug-risc-os-xmas-market-5-days-to-go/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.riscository.com/2023/mug-risc-os-xmas-market-5-days-to-go/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Audio Specialist Named in Forbes 30 Under 30 List of Innovators
+
+date: 2023-12-04, from: NASA breaking news
+
+Katie Konans, NASA’s audio and podcasting lead at the agency’s Goddard Space Flight Center in Greenbelt, Maryland, is one of two NASA employees named to Forbes’ 30 Under 30 Class of 2024. The other agency honoree, Clare Luckey, is a systems engineer at NASA’s Johnson Space Center in Houston. Forbes’ 30 Under 30 list is [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-audio-specialist-named-in-forbes-30-under-30-list-of-innovators/">https://www.nasa.gov/centers-and-facilities/goddard/nasa-audio-specialist-named-in-forbes-30-under-30-list-of-innovators/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/goddard/nasa-audio-specialist-named-in-forbes-30-under-30-list-of-innovators/">Save to Pocket</a>
+</span>
+
+---
+
+## Gprobe
+
+date: 2023-12-04, from: Tilde.news
+
+<p><a href="https://tilde.news/s/gkyohe/gprobe">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://zeromips.org/posts/2023-11-18-gprobe/">https://zeromips.org/posts/2023-11-18-gprobe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://zeromips.org/posts/2023-11-18-gprobe/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Administrator Bill Nelson Participates in Space Agencies Leaders’ Summit at COP 28
+
+date: 2023-12-04, from: NASA breaking news
+
+NASA Administrator Bill Nelson participated in the first-ever Space Agencies Leaders’ Summit at COP 28 in Dubai, UAE, on Dec. 4, 2023. At the summit, organized by the UAE Space Agency, Nelson underscored the importance of sharing climate data transparently and openly with the world. Leaders from two dozen space agencies discussed enhancing data sharing [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasa-administrator-bill-nelson-participates-in-space-agencies-leaders-summit-at-cop-28/">https://www.nasa.gov/image-article/nasa-administrator-bill-nelson-participates-in-space-agencies-leaders-summit-at-cop-28/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasa-administrator-bill-nelson-participates-in-space-agencies-leaders-summit-at-cop-28/">Save to Pocket</a>
+</span>
+
+---
+
+## Ousted propaganda scholar Joan Donovan accuses Harvard of bowing to Meta
+
+date: 2023-12-04, from: OS News
+
+A prominent disinformation scholar has accused Harvard University of dismissing her to curry favor with Facebook and its current and former executives in violation of her right to free speech. Joan Donovan claimed in a filing with the Education Department and the Massachusetts attorney general that her superiors soured on her as Harvard was getting a record $500 million pledge from Meta founder Mark Zuckerberg’s charitable arm. ↫Joseph Menn for The Washington Post This is why &#8220;voting with your wallet&#8221; is such an empty platitude, usually used by corporatists trying to absolve corporations from misdeeds and shifting the blame to us, mere consumers. How on earth can us regular folks vote with our wallet when someone like Zuckerberg can just buy the entire &#8220;election&#8221; without blinking?
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/137996/ousted-propaganda-scholar-joan-donovan-accuses-harvard-of-bowing-to-meta/">https://www.osnews.com/story/137996/ousted-propaganda-scholar-joan-donovan-accuses-harvard-of-bowing-to-meta/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/137996/ousted-propaganda-scholar-joan-donovan-accuses-harvard-of-bowing-to-meta/">Save to Pocket</a>
+</span>
+
+---
+
+## Comic - A Worthwhile Trade
+
+date: 2023-12-04, from: Computer ads from the Past
+
+Soda or bytes
+
+<span class="feed-item-link">
+<a href="https://computeradsfromthepast.substack.com/p/comic-a-worthwhile-trade">https://computeradsfromthepast.substack.com/p/comic-a-worthwhile-trade</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://computeradsfromthepast.substack.com/p/comic-a-worthwhile-trade">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Continues Progress on Artemis III Rocket Adapter with Key Joint Installation
+
+date: 2023-12-04, from: NASA breaking news
+
+Engineers and technicians at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently installed a key component called the frangible joint assembly onto the adapter that connects the core stage to the upper part of the NASA’s SLS (Space Launch System) rocket. The cone-shaped stage adapter, called the launch vehicle stage adapter, will be part [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasa-continues-progress-on-artemis-iii-rocket-adapter-with-key-joint-installation/">https://www.nasa.gov/image-article/nasa-continues-progress-on-artemis-iii-rocket-adapter-with-key-joint-installation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasa-continues-progress-on-artemis-iii-rocket-adapter-with-key-joint-installation/">Save to Pocket</a>
 </span>
 
 ---

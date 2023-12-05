@@ -1,11 +1,134 @@
 ---
 title: socal north 2023.49
-updated: 2023-12-04 11:48:49
+updated: 2023-12-04 19:31:04
 ---
 
 # socal north 2023.49
 
-(date: 2023-12-04 11:48:49)
+(date: 2023-12-04 19:31:04)
+
+---
+
+## Holocaust survivor speaks at CSUN
+
+date: 2023-12-04, from: The Sundail (CSUN Student Newspaper)
+
+When Joseph Alexander was just 16 years old, he and his family were forced to leave their home in Kowal, Poland. The year was 1939 and Nazi Germany had just invaded the area. Alexander’s entire family was killed, leaving him as the only survivor. But Alexander said that he remained hopeful, all throughout the war....
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177268/news/holocaust-survivor-speaks-at-csun/">https://sundial.csun.edu/177268/news/holocaust-survivor-speaks-at-csun/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177268/news/holocaust-survivor-speaks-at-csun/">Save to Pocket</a>
+</span>
+
+---
+
+## Caltrans Inspecting Sites Under Freeways And Bridges For Potential Risks
+
+date: 2023-12-04, updated: 2023-12-04, from: The LAist
+
+The review comes after a massive arson fire shut down a portion of the 10 Freeway in downtown L.A.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/transportation/caltrans-inspecting-sites-under-freeways-and-bridges-for-potential-risks">https://laist.com/news/transportation/caltrans-inspecting-sites-under-freeways-and-bridges-for-potential-risks</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/transportation/caltrans-inspecting-sites-under-freeways-and-bridges-for-potential-risks">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “What is Psychobio?”
+
+date: 2023-12-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/04/editorial-cartoon-what-is-psychobio/">https://dailybruin.com/2023/12/04/editorial-cartoon-what-is-psychobio/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/04/editorial-cartoon-what-is-psychobio/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “Freestyle Shopping”
+
+date: 2023-12-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/04/editorial-cartoon-freestyle-shopping/">https://dailybruin.com/2023/12/04/editorial-cartoon-freestyle-shopping/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/04/editorial-cartoon-freestyle-shopping/">Save to Pocket</a>
+</span>
+
+---
+
+## Urgent Need for Blood Donors
+
+date: 2023-12-04, from: City of Santa Clarita
+
+<p>URGENT NEED FOR BLOOD DONORS Make a Life-Saving Appointment Today! The American Red Cross has a critical need for blood donations, and the City of Santa Clarita is urging residents to make a life-saving appointment today. There are three upcoming City blood drives scheduled for the month of December. The first one takes place Friday, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/12/04/urgent-need-for-blood-donors-7/">Urgent Need for Blood Donors</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2023/12/04/urgent-need-for-blood-donors-7/">https://santaclarita.gov/blog/2023/12/04/urgent-need-for-blood-donors-7/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2023/12/04/urgent-need-for-blood-donors-7/">Save to Pocket</a>
+</span>
+
+---
+
+## Israeli Forces Push Into Southern Gaza, As Humanitarian Crisis Worsens
+
+date: 2023-12-04, updated: 2023-12-04, from: The LAist
+
+As Israel's military begins to concentrate its siege in southern Gaza, a United Nations agency warns that the people there could soon begin dying from diseases as well as Israel's bombardment.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/israeli-forces-push-into-southern-gaza-as-humanitarian-crisis-worsens">https://laist.com/news/israeli-forces-push-into-southern-gaza-as-humanitarian-crisis-worsens</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/israeli-forces-push-into-southern-gaza-as-humanitarian-crisis-worsens">Save to Pocket</a>
+</span>
+
+---
+
+## Matadors drop final game on senior night
+
+date: 2023-12-04, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN Matadors (6-23) dropped their final game of the season to the CSUF Titans (2-25) Nov. 18 at the Premier America Credit Union Arena. The Matadors won the first set but subsequently lost the following three due to poor defense and errors as they hosted their senior night, which was the final collegiate game...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177262/sports/matadors-drop-final-game-on-senior-night/">https://sundial.csun.edu/177262/sports/matadors-drop-final-game-on-senior-night/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177262/sports/matadors-drop-final-game-on-senior-night/">Save to Pocket</a>
+</span>
+
+---
+
+## Alarm Will Sound takes The Nimoy on orchestral journey of self-discovery
+
+date: 2023-12-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+An orchestral exploration of self-discovery finds a home at The Nimoy for one night only. 
+The historic theater hosted Alarm Will Sound, a 20-member ensemble known for its arch-modern and pop-influenced repertoire of energetic works.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/04/alarm-will-sound-takes-the-nimoy-on-orchestral-journey-of-self-discovery/">https://dailybruin.com/2023/12/04/alarm-will-sound-takes-the-nimoy-on-orchestral-journey-of-self-discovery/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/04/alarm-will-sound-takes-the-nimoy-on-orchestral-journey-of-self-discovery/">Save to Pocket</a>
+</span>
+
+---
+
+## Matadors are swept in second to last game of the season
+
+date: 2023-12-04, from: The Sundail (CSUN Student Newspaper)
+
+The UC Irvine Anteaters (11-19) swept the Matadors (6-23) in the second-to-last game of the season Nov. 17 at the Premier America Credit Union Arena. Although CSUN maintained great effort throughout the game, the team struggled to close out each tightly contested set due to their poor defense, as all three sets were ultimately decided...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177258/sports/matadors-are-swept-in-second-to-last-game-of-the-season/">https://sundial.csun.edu/177258/sports/matadors-are-swept-in-second-to-last-game-of-the-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177258/sports/matadors-are-swept-in-second-to-last-game-of-the-season/">Save to Pocket</a>
+</span>
+
+---
+
+## Santa Clarita Bus Strike Concludes
+
+date: 2023-12-04, updated: 2023-12-04, from: The LAist
+
+The strike ends with new contract, and all routes resumed today.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/transportation/santa-clarita-bus-strike-concludes">https://laist.com/news/transportation/santa-clarita-bus-strike-concludes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/transportation/santa-clarita-bus-strike-concludes">Save to Pocket</a>
+</span>
 
 ---
 

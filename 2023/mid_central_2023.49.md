@@ -1,11 +1,35 @@
 ---
 title: mid central 2023.49
-updated: 2023-12-04 11:48:50
+updated: 2023-12-04 19:31:04
 ---
 
 # mid central 2023.49
 
-(date: 2023-12-04 11:48:50)
+(date: 2023-12-04 19:31:04)
+
+---
+
+## Dense Fog Advisory issued December 04 at 3:14PM PST until December 05 at 11:00AM PST by NWS
+
+date: 2023-12-04, updated: 2023-12-04, from: Merced, Weather.gov CAP v1.1 alerts
+
+...DENSE FOG ADVISORY IN EFFECT FROM 2 AM TO 11 AM PST TUESDAY... * WHAT...Visibility one quarter mile or less in dense fog. * WHERE...Caruthers - San Joaquin - Selma, Hanford - Corcoran - Lemoore, Los Banos - Dos Palos, Merced - Madera - Mendota, and West Side of Fresno and Kings Counties. * WHEN...From 2 AM to 11 AM PST Tuesday.
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126671BDD8E8.DenseFogAdvisory.126671CC7970CA.HNXNPWHNX.a6776088e2a64b942f27034d3535808a">https://alerts.weather.gov/cap/wwacapget.php?x=CA126671BDD8E8.DenseFogAdvisory.126671CC7970CA.HNXNPWHNX.a6776088e2a64b942f27034d3535808a</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA126671BDD8E8.DenseFogAdvisory.126671CC7970CA.HNXNPWHNX.a6776088e2a64b942f27034d3535808a">Save to Pocket</a>
+</span>
+
+---
+
+## Western Armenian Music: From Asia Minor to the United States Published by Armenian Series
+
+date: 2023-12-04, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Staff Report &#160; The Armenian Studies Program announces the publication of Hachig Kazarian’s Western Armenian Music: From Asia Minor to the United States, Volume 18 in the Armenian Series of The Press at California State University, Fresno. Western Armenian Music is a comprehensive overview of the history and development of the traditional music brought by...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2023/12/western-armenian-music-from-asia-minor-to-the-united-states-published-by-armenian-series/">https://fscollegian.com/2023/12/western-armenian-music-from-asia-minor-to-the-united-states-published-by-armenian-series/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/western-armenian-music-from-asia-minor-to-the-united-states-published-by-armenian-series/">Save to Pocket</a>
+</span>
 
 ---
 
