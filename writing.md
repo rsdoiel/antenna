@@ -1,11 +1,53 @@
 ---
 title: writing 2023.49
-updated: 2023-12-04 20:15:04
+updated: 2023-12-05 09:52:38
 ---
 
 # writing 2023.49
 
-(date: 2023-12-04 20:15:04)
+(date: 2023-12-05 09:52:38)
+
+---
+
+## New Books 5 December 2023
+
+date: 2023-12-05, from: Locus Magazine
+
+<p>Anderson, Justin Lee: <b>The Bitter Crown</b>
+(Orbit US 9780316454308, $19.99, 560pp, formats: trade paperback, ebook, audio, 12/05/2023)</p>
+<p>Fantasy novel, the second in the Eidyn Saga series. The fog of war is lifted and the conspiracy at the heart of Eidyn finally exposed. Now that they know the truth, Aranok and his allies must find a way to free a country that doesn’t know it’s held captive.</p>
+<p>&#160;</p>
+<p>Armstrong, Jess: <b>The </b> <a href="https://locusmag.com/2023/12/new-books-5-december-2023/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/new-books-5-december-2023/">https://locusmag.com/2023/12/new-books-5-december-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/new-books-5-december-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Gary K. Wolfe Reviews Monstrous Alterations by Christopher Barzak
+
+date: 2023-12-05, from: Locus Magazine
+
+<p><strong>Monstrous Alterations</strong>, Christopher Barzak (Lethe 978-1-59021-761-0, $20.00, 206pp, tp) September 2023.</p>
+<p>Fiction which deliberately sets itself in dialogue with specific works of earlier fiction is an ancient tradition, but it often seems like catnip for SFF writers. Just in the last few years we’ve seen Nghi Vo on F. Scott Fitzgerald, Elizabeth Hand on Shirley Jackson, Kij Johnson on Kenneth Gra­hame and H.P. Lovecraft, John Kessel on Austen and  <a href="https://locusmag.com/2023/12/gary-k-wolfe-reviews-monstrous-alterations-by-christopher-barzak/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/gary-k-wolfe-reviews-monstrous-alterations-by-christopher-barzak/">https://locusmag.com/2023/12/gary-k-wolfe-reviews-monstrous-alterations-by-christopher-barzak/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/gary-k-wolfe-reviews-monstrous-alterations-by-christopher-barzak/">Save to Pocket</a>
+</span>
+
+---
+
+## Interview with Tobi Ogundiran
+
+date: 2023-12-05, from: Locus Magazine
+
+<p>Y<strong>ou began publishing SF stories about five years ago. Describe how you got your start as a writer, and your path to publication.</strong></p>
+<p>I came to short fiction by chance. The goal was always to publish a novel, as the received wisdom was that if one wanted to earn some sort of liv­ing through writing, or reach a wider audience, then publishing full-length novels was the way to go.  <a href="https://locusmag.com/2023/12/interview-with-tobi-ogundiran/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/interview-with-tobi-ogundiran/">https://locusmag.com/2023/12/interview-with-tobi-ogundiran/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/interview-with-tobi-ogundiran/">Save to Pocket</a>
+</span>
 
 ---
 

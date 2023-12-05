@@ -223,5 +223,5 @@ http://feeds.feedburner.com/Kilianvalkhofcom "~Kilian Valkhof's blog"
 https://prolost.com/blog?format=RSS "~Stu Maschwitz blog" curl/8.4.0
 https://www.gregegan.net/feed.rss "~Greg Egan's feed" curl/8.4.0
 https://blogs.windows.com/windowsdeveloper/feed/ "~Windows Developer Blog" curl/8.4.0
-https://losnettos.net/feed/ "~Los Nettos News" curl/8.4.0
+#https://losnettos.net/feed/ "~Los Nettos News" curl/8.4.0 # feed unavailable 2023-12-05
 https://cea.cals.cornell.edu/feed/ "~Cornell Controlled Environment Agriculture" curl/8.4.0
