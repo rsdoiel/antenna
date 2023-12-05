@@ -1,5 +1,5 @@
 #
-# Writing list provides resources and inspiration for writing projects
+# Writing list provides resources and inspiration for writing projects and IF (Interactive Fiction)
 #
 https://locusmag.com/feed/ "~Locus Magazine"
 https://blog.finaldraft.com/rss.xml "~Final Draft blog"
@@ -8,3 +8,4 @@ http://www.spagmag.org/feed/ "~SPAG Magizine blog"
 https://ganelson.github.io/inform-website/feed.xml "~Inform 7 IF language blog"
 https://chrisklimas.com/rss.xml "~Chris Klimas blog (creator of Twine, an IF language)"
 https://emshort.blog/feed/ "~Emily Short's blog (interactive fiction)"
+https://ifdb.org/news?rss  "~IF Database News"
