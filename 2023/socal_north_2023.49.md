@@ -1,11 +1,523 @@
 ---
 title: socal north 2023.49
-updated: 2023-12-05 10:00:01
+updated: 2023-12-07 11:20:13
 ---
 
 # socal north 2023.49
 
-(date: 2023-12-05 10:00:01)
+(date: 2023-12-07 11:20:13)
+
+---
+
+## Here’s What Progress LA's Mayor Has Made On Homelessness So Far
+
+date: 2023-12-07, updated: 2023-12-07, from: The LAist
+
+One year in, L.A. Mayor Karen Bass’ administration says 3,551 people have been permanently housed.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/bass-homeless-progress-city-hall-data-inside-safe-permanent-housing">https://laist.com/news/housing-homelessness/bass-homeless-progress-city-hall-data-inside-safe-permanent-housing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/bass-homeless-progress-city-hall-data-inside-safe-permanent-housing">Save to Pocket</a>
+</span>
+
+---
+
+## LA County Sets Goal To Greatly Increase Stormwater Capture By 2045
+
+date: 2023-12-07, updated: 2023-12-07, from: The LAist
+
+We need clear plans if we're going to have enough water for the future.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/la-county-sets-goal-to-greatly-increase-stormwater-capture-by-2045">https://laist.com/news/climate-environment/la-county-sets-goal-to-greatly-increase-stormwater-capture-by-2045</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/la-county-sets-goal-to-greatly-increase-stormwater-capture-by-2045">Save to Pocket</a>
+</span>
+
+---
+
+## Battle of the Editors: Which UCLA team is the most anticipated ahead of upcoming seasons?
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 6 at 4:20 p.m.</em>
+Fall quarter is nearly over, and the LA Bowl represents the final game for any of UCLA’s fall sports.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/06/battle-of-the-editors-which-ucla-team-is-the-most-anticipated-ahead-of-upcoming-seasons/">https://dailybruin.com/2023/12/06/battle-of-the-editors-which-ucla-team-is-the-most-anticipated-ahead-of-upcoming-seasons/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/06/battle-of-the-editors-which-ucla-team-is-the-most-anticipated-ahead-of-upcoming-seasons/">Save to Pocket</a>
+</span>
+
+---
+
+## Deep Dive: ChatGPT, Part 2
+
+date: 2023-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+How does ChatGPT impact the humanities and higher education as a whole? In the second and final installation of this miniseries, Podcasts contributor Phoebe Brous hands off the questioning to fellow contributors Kaitlyn Esperon and Sonia Wong.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/06/deep-dive-chatgpt-part-2/">https://dailybruin.com/2023/12/06/deep-dive-chatgpt-part-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/06/deep-dive-chatgpt-part-2/">Save to Pocket</a>
+</span>
+
+---
+
+## The Season Finale
+
+date: 2023-12-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Hosts Thomas Johnson, Stefano Fendrich, Darren Parry and Jack Hallinan start off the podcast with a deep dive into what the USC football needs to do to improve on a 7-5 season with transfer portal, quarterback and defensive coordinator debates. Afterwards, hosts Rylan Bohnett and Kasey Kazliner talk some women's volleyball, then are joined by Marcus Partida to discuss the Talkin' Troy fantasy football league. And to conclude the longest episode in Talkin' Troy history, Thomas is joined by Leila MacKenzie and former-editor Grace Ingram to discuss which USC head coaches Grace would want to hang out with the most.</p>
+<p>The post <a href="https://dailytrojan.com/2023/12/06/the-season-finale/">The Season Finale</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2023/12/06/the-season-finale/">https://dailytrojan.com/2023/12/06/the-season-finale/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2023/12/06/the-season-finale/">Save to Pocket</a>
+</span>
+
+---
+
+## Christmas Tree Lighting in Newhall
+
+date: 2023-12-06, from: The Canyon News (COC Student Newspaper)
+
+<p>By: Roberto Acala Many will remember this special day of the year.&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/christmas-tree-lighting-in-newhall/">Christmas Tree Lighting in Newhall</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/christmas-tree-lighting-in-newhall/">https://canyonsnews.com/christmas-tree-lighting-in-newhall/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/christmas-tree-lighting-in-newhall/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA football deals with dichotomy between shrinking squad, Pac-12 honors
+
+date: 2023-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 6 at 3:05 p.m.</em>
+The last month has been full of losses for UCLA football.
+On the field, the Bruins lost three of their last four games to end the regular season.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/06/ucla-football-deals-with-dichotomy-between-shrinking-squad-pac-12-honors/">https://dailybruin.com/2023/12/06/ucla-football-deals-with-dichotomy-between-shrinking-squad-pac-12-honors/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/06/ucla-football-deals-with-dichotomy-between-shrinking-squad-pac-12-honors/">Save to Pocket</a>
+</span>
+
+---
+
+## Theater Review: ‘Dog Man: The Musical’ leaves audiences barking for more
+
+date: 2023-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Though he&#8217;s not quite yet the best in show, Dog Man&#8217;s musical debut will leave audiences howling with laughter.
+Based on author and &#8220;Captain Underpants&#8221; creator Dav Pilkey&#8217;s beloved children&#8217;s books, &#8220;Dog Man: The Musical&#8221; has hang-glided to Los Angeles with a crime-biting adventure for all ages.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/06/theater-review-dog-man-the-musical-leaves-audiences-barking-for-more/">https://dailybruin.com/2023/12/06/theater-review-dog-man-the-musical-leaves-audiences-barking-for-more/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/06/theater-review-dog-man-the-musical-leaves-audiences-barking-for-more/">Save to Pocket</a>
+</span>
+
+---
+
+## Student organization holds protest for Palestine
+
+date: 2023-12-06, from: The Sundail (CSUN Student Newspaper)
+
+Students for Justice in Palestine (SJP) organized a student walkout at CSUN alongside Filipino rights groups on Thursday, which brought out over a hundred students. The walkout began with a rally of demonstrators by the Matador Statue on Cleary Walk to protest CSUN’s continued stance of neutrality on the Israel-Hamas war. SJP called out the...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177285/news/student-organization-holds-protest-for-palestine/">https://sundial.csun.edu/177285/news/student-organization-holds-protest-for-palestine/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177285/news/student-organization-holds-protest-for-palestine/">Save to Pocket</a>
+</span>
+
+---
+
+## Why Norman Lear's 'All In The Family' Also Spoke To Mexican Americans Like My Mom
+
+date: 2023-12-06, updated: 2023-12-06, from: The LAist
+
+The groundbreaking sitcom poke to the Black-and-white racial rubric that defined, and roiled, our country — and also forced my mom to confront her own ignorance.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/arts-and-entertainment/how-norman-lears-all-in-the-family-spoke-to-mexian-americans-like-my-mom">https://laist.com/news/arts-and-entertainment/how-norman-lears-all-in-the-family-spoke-to-mexian-americans-like-my-mom</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/arts-and-entertainment/how-norman-lears-all-in-the-family-spoke-to-mexian-americans-like-my-mom">Save to Pocket</a>
+</span>
+
+---
+
+## BRIEF: Men’s soccer coach honored
+
+date: 2023-12-06, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Fielding a team for the first time in 43 years had its reward. Head coach Julio Castillo was named the Western State Conference &#8211; South</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/06/brief-mens-soccer-coach-honored/">BRIEF: Men’s soccer coach honored</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/06/brief-mens-soccer-coach-honored/?utm_source=rss&utm_medium=rss&utm_campaign=brief-mens-soccer-coach-honored">https://theroundupnews.com/2023/12/06/brief-mens-soccer-coach-honored/?utm_source=rss&utm_medium=rss&utm_campaign=brief-mens-soccer-coach-honored</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/06/brief-mens-soccer-coach-honored/?utm_source=rss&utm_medium=rss&utm_campaign=brief-mens-soccer-coach-honored">Save to Pocket</a>
+</span>
+
+---
+
+## Brahmas on point
+
+date: 2023-12-06, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Pierce College women’s basketball annihilated Santa Monica City College Corsairs 89-60 on Nov. 29. Pierce guard Derricka Millinghaus led the team in scoring with 29</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/06/brahmas-on-point/">Brahmas on point</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/06/brahmas-on-point/?utm_source=rss&utm_medium=rss&utm_campaign=brahmas-on-point">https://theroundupnews.com/2023/12/06/brahmas-on-point/?utm_source=rss&utm_medium=rss&utm_campaign=brahmas-on-point</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/06/brahmas-on-point/?utm_source=rss&utm_medium=rss&utm_campaign=brahmas-on-point">Save to Pocket</a>
+</span>
+
+---
+
+## Hot cocoa and coloring bring holiday cheer before finals
+
+date: 2023-12-06, from: The Round Up (Peirce College Student Newspaper)
+
+<p>The Associated Student Organization (ASO) hosted a “Coloring and Cocoa” event on Thursday at the ASO building for students to spend the afternoon coloring and</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/06/hot-cocoa-and-coloring-bring-holiday-cheer-before-finals/">Hot cocoa and coloring bring holiday cheer before finals</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/06/hot-cocoa-and-coloring-bring-holiday-cheer-before-finals/?utm_source=rss&utm_medium=rss&utm_campaign=hot-cocoa-and-coloring-bring-holiday-cheer-before-finals">https://theroundupnews.com/2023/12/06/hot-cocoa-and-coloring-bring-holiday-cheer-before-finals/?utm_source=rss&utm_medium=rss&utm_campaign=hot-cocoa-and-coloring-bring-holiday-cheer-before-finals</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/06/hot-cocoa-and-coloring-bring-holiday-cheer-before-finals/?utm_source=rss&utm_medium=rss&utm_campaign=hot-cocoa-and-coloring-bring-holiday-cheer-before-finals">Save to Pocket</a>
+</span>
+
+---
+
+## Streetbeat: Should vaping be allowed in school?
+
+date: 2023-12-06, from: The Round Up (Peirce College Student Newspaper)
+
+<p>&#160; &#160; “I think vaping should not be allowed because I think it would encourage more vaping and nicotine is a bad thing for your</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/06/streetbeat-should-vaping-be-allowed-in-school/">Streetbeat: Should vaping be allowed in school?</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/06/streetbeat-should-vaping-be-allowed-in-school/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-should-vaping-be-allowed-in-school">https://theroundupnews.com/2023/12/06/streetbeat-should-vaping-be-allowed-in-school/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-should-vaping-be-allowed-in-school</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/06/streetbeat-should-vaping-be-allowed-in-school/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-should-vaping-be-allowed-in-school">Save to Pocket</a>
+</span>
+
+---
+
+## From athlete to director
+
+date: 2023-12-06, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Athletic Director Deborah Hefter ruled the swimming pool many years ago and has come back to guide Pierce student athletes. “I’d like them to know</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/06/from-athlete-to-director/">From athlete to director</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/06/from-athlete-to-director/?utm_source=rss&utm_medium=rss&utm_campaign=from-athlete-to-director">https://theroundupnews.com/2023/12/06/from-athlete-to-director/?utm_source=rss&utm_medium=rss&utm_campaign=from-athlete-to-director</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/06/from-athlete-to-director/?utm_source=rss&utm_medium=rss&utm_campaign=from-athlete-to-director">Save to Pocket</a>
+</span>
+
+---
+
+## Should Pierce have a harm reduction center? YES: Provide help to students with addiction and withhold judgment
+
+date: 2023-12-06, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Amidst the constantly changing field of higher education, establishments are realizing the value of creating a welcoming and inclusive atmosphere for every student. The necessity</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/06/should-pierce-have-a-harm-reduction-center-yes-provide-help-to-students-with-addiction-and-withhold-judgment/">Should Pierce have a harm reduction center? YES: Provide help to students with addiction and withhold judgment</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/06/should-pierce-have-a-harm-reduction-center-yes-provide-help-to-students-with-addiction-and-withhold-judgment/?utm_source=rss&utm_medium=rss&utm_campaign=should-pierce-have-a-harm-reduction-center-yes-provide-help-to-students-with-addiction-and-withhold-judgment">https://theroundupnews.com/2023/12/06/should-pierce-have-a-harm-reduction-center-yes-provide-help-to-students-with-addiction-and-withhold-judgment/?utm_source=rss&utm_medium=rss&utm_campaign=should-pierce-have-a-harm-reduction-center-yes-provide-help-to-students-with-addiction-and-withhold-judgment</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/06/should-pierce-have-a-harm-reduction-center-yes-provide-help-to-students-with-addiction-and-withhold-judgment/?utm_source=rss&utm_medium=rss&utm_campaign=should-pierce-have-a-harm-reduction-center-yes-provide-help-to-students-with-addiction-and-withhold-judgment">Save to Pocket</a>
+</span>
+
+---
+
+## Students need more pathways to job security
+
+date: 2023-12-06, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Finally, you’re done. You have put in the work needed and accomplished the grades necessary to graduate. Your future begins now, but where do you</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/06/students-need-more-pathways-to-job-security/">Students need more pathways to job security</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/06/students-need-more-pathways-to-job-security/?utm_source=rss&utm_medium=rss&utm_campaign=students-need-more-pathways-to-job-security">https://theroundupnews.com/2023/12/06/students-need-more-pathways-to-job-security/?utm_source=rss&utm_medium=rss&utm_campaign=students-need-more-pathways-to-job-security</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/06/students-need-more-pathways-to-job-security/?utm_source=rss&utm_medium=rss&utm_campaign=students-need-more-pathways-to-job-security">Save to Pocket</a>
+</span>
+
+---
+
+## Academic Senate discusses campus events
+
+date: 2023-12-06, from: The Round Up (Peirce College Student Newspaper)
+
+<p>As the semester comes to an end, the Associated Student Organization has come up with ways to help students prepare for the end of the</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/06/academic-senate-discusses-campus-events/">Academic Senate discusses campus events</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/06/academic-senate-discusses-campus-events/?utm_source=rss&utm_medium=rss&utm_campaign=academic-senate-discusses-campus-events">https://theroundupnews.com/2023/12/06/academic-senate-discusses-campus-events/?utm_source=rss&utm_medium=rss&utm_campaign=academic-senate-discusses-campus-events</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/06/academic-senate-discusses-campus-events/?utm_source=rss&utm_medium=rss&utm_campaign=academic-senate-discusses-campus-events">Save to Pocket</a>
+</span>
+
+---
+
+## Should Pierce have a harm reduction center? NO: There are other alternatives for combatting addiction
+
+date: 2023-12-06, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Harm reduction is an approach to addictive substance use that recognizes that people may not be able to abstain from drug use fully, and it</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/06/should-pierce-have-a-harm-reduction-center-no-there-are-other-alternatives-for-combatting-addiction/">Should Pierce have a harm reduction center? NO: There are other alternatives for combatting addiction</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/06/should-pierce-have-a-harm-reduction-center-no-there-are-other-alternatives-for-combatting-addiction/?utm_source=rss&utm_medium=rss&utm_campaign=should-pierce-have-a-harm-reduction-center-no-there-are-other-alternatives-for-combatting-addiction">https://theroundupnews.com/2023/12/06/should-pierce-have-a-harm-reduction-center-no-there-are-other-alternatives-for-combatting-addiction/?utm_source=rss&utm_medium=rss&utm_campaign=should-pierce-have-a-harm-reduction-center-no-there-are-other-alternatives-for-combatting-addiction</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/06/should-pierce-have-a-harm-reduction-center-no-there-are-other-alternatives-for-combatting-addiction/?utm_source=rss&utm_medium=rss&utm_campaign=should-pierce-have-a-harm-reduction-center-no-there-are-other-alternatives-for-combatting-addiction">Save to Pocket</a>
+</span>
+
+---
+
+## REVIEW: Truvy’s Beauty Spot is open to audiences
+
+date: 2023-12-06, from: The Round Up (Peirce College Student Newspaper)
+
+<p>Nostalgia from the 1980s has dominated the current entertainment landscape, and a snippet of the era from the American South has come to Pierce College.</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/06/review-truvys-beauty-spot-is-open-to-audiences/">REVIEW: Truvy’s Beauty Spot is open to audiences</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/06/review-truvys-beauty-spot-is-open-to-audiences/?utm_source=rss&utm_medium=rss&utm_campaign=review-truvys-beauty-spot-is-open-to-audiences">https://theroundupnews.com/2023/12/06/review-truvys-beauty-spot-is-open-to-audiences/?utm_source=rss&utm_medium=rss&utm_campaign=review-truvys-beauty-spot-is-open-to-audiences</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/06/review-truvys-beauty-spot-is-open-to-audiences/?utm_source=rss&utm_medium=rss&utm_campaign=review-truvys-beauty-spot-is-open-to-audiences">Save to Pocket</a>
+</span>
+
+---
+
+## LA Mayor Promised To Fast-Track Affordable Housing. But Plans Near Single-Family Homes Have Stalled
+
+date: 2023-12-06, updated: 2023-12-06, from: The LAist
+
+Developers were counting on the mayor’s initiative to streamline projects in residential areas. Then the rules changed.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/los-angeles-housing-affordable-executive-directive-one-ed1-mayor-karen-bass-raman-blumenfield-yimby-lawsuit">https://laist.com/news/housing-homelessness/los-angeles-housing-affordable-executive-directive-one-ed1-mayor-karen-bass-raman-blumenfield-yimby-lawsuit</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/los-angeles-housing-affordable-executive-directive-one-ed1-mayor-karen-bass-raman-blumenfield-yimby-lawsuit">Save to Pocket</a>
+</span>
+
+---
+
+## Community College Can Often Be A Fresh Start. For Author Reyna Grande, It Was A Lifeline
+
+date: 2023-12-06, updated: 2023-12-06, from: The LAist
+
+An English professor convinced her that she had a story worth telling — and the capacity to write professionally.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/community-college-author-reyna-grande">https://laist.com/news/education/community-college-author-reyna-grande</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/community-college-author-reyna-grande">Save to Pocket</a>
+</span>
+
+---
+
+## One Hobbyist Magician’s Disillusionment With The Magic Castle
+
+date: 2023-12-06, updated: 2023-12-06, from: The LAist
+
+In Part 2 of "Imperfect Paradise: The Castle," Carly Usdin describes the draw — and the drawbacks — of the Magic Castle's old-timey atmosphere.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/arts-and-entertainment/one-hobbyist-magicians-disillusionment-with-the-magic-castle">https://laist.com/news/arts-and-entertainment/one-hobbyist-magicians-disillusionment-with-the-magic-castle</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/arts-and-entertainment/one-hobbyist-magicians-disillusionment-with-the-magic-castle">Save to Pocket</a>
+</span>
+
+---
+
+## State Data Collection Systems Failing Students In Juvenile Detention, Report Says
+
+date: 2023-12-06, updated: 2023-12-06, from: The LAist
+
+Current metrics don't fully capture needs and outcomes.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/state-data-collection-systems-failing-students-in-juvenile-detention-report-says">https://laist.com/news/education/state-data-collection-systems-failing-students-in-juvenile-detention-report-says</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/state-data-collection-systems-failing-students-in-juvenile-detention-report-says">Save to Pocket</a>
+</span>
+
+---
+
+## Reading Scores Climb After Targeted Intervention At California’s Worst-Performing Schools
+
+date: 2023-12-06, updated: 2023-12-06, from: The LAist
+
+In 2020, the state agreed to a settlement in a lawsuit that claimed too many students were not learning to read. As part of that agreement, the state spent more than $50 million on 75 schools with the lowest reading scores.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/reading-scores-climb-after-targeted-intervention-at-californias-worst-performing-schools">https://laist.com/news/education/reading-scores-climb-after-targeted-intervention-at-californias-worst-performing-schools</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/reading-scores-climb-after-targeted-intervention-at-californias-worst-performing-schools">Save to Pocket</a>
+</span>
+
+---
+
+## Free mugs: A beloved Christmas Tree Lighting tradition
+
+date: 2023-12-06, from: Laloyolan (LMU Student Newspaper)
+
+During this year’s Christmas Tree Lighting, students crowded Sunken Gardens in pursuit of a beloved commodity: a free mug. Each year, ASLMU hands out free mugs to commemorate the Christmas Tree Lighting Celebration — and students go wild for them.&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/videos/free-mugs-a-beloved-christmas-tree-lighting-tradition/video_ef48229c-93f8-11ee-8de0-3728dc689b5f.html">https://www.laloyolan.com/videos/free-mugs-a-beloved-christmas-tree-lighting-tradition/video_ef48229c-93f8-11ee-8de0-3728dc689b5f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/videos/free-mugs-a-beloved-christmas-tree-lighting-tradition/video_ef48229c-93f8-11ee-8de0-3728dc689b5f.html">Save to Pocket</a>
+</span>
+
+---
+
+## chatgpt prompt 1.png
+
+date: 2023-12-06, from: Laloyolan (LMU Student Newspaper)
+
+With a basic understanding of coding, ChatGPT can help people execute basic programming tasks.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/opinion/chatgpt-prompt-1-png/image_2e38c658-ab51-5c51-8ecf-38d5cfd0b70d.html">https://www.laloyolan.com/opinion/chatgpt-prompt-1-png/image_2e38c658-ab51-5c51-8ecf-38d5cfd0b70d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/opinion/chatgpt-prompt-1-png/image_2e38c658-ab51-5c51-8ecf-38d5cfd0b70d.html">Save to Pocket</a>
+</span>
+
+---
+
+## chatgpt prompt 2.png
+
+date: 2023-12-06, from: Laloyolan (LMU Student Newspaper)
+
+ChatGPT can distill complex, well-established topics into simple terms while answering any clarifying questions.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/opinion/chatgpt-prompt-2-png/image_d184391c-8e8b-5155-ad94-76a0bbe6c687.html">https://www.laloyolan.com/opinion/chatgpt-prompt-2-png/image_d184391c-8e8b-5155-ad94-76a0bbe6c687.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/opinion/chatgpt-prompt-2-png/image_d184391c-8e8b-5155-ad94-76a0bbe6c687.html">Save to Pocket</a>
+</span>
+
+---
+
+## ChatGPT is a calculator, not a cheat code
+
+date: 2023-12-06, from: Laloyolan (LMU Student Newspaper)
+
+As students continue to use ChatGPT for school assignments, we cannot lose sight of the importance of integrating AI into education.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/opinion/chatgpt-is-a-calculator-not-a-cheat-code/article_1be66f8e-2c2a-5a1b-af75-ed90553b2452.html">https://www.laloyolan.com/opinion/chatgpt-is-a-calculator-not-a-cheat-code/article_1be66f8e-2c2a-5a1b-af75-ed90553b2452.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/opinion/chatgpt-is-a-calculator-not-a-cheat-code/article_1be66f8e-2c2a-5a1b-af75-ed90553b2452.html">Save to Pocket</a>
+</span>
+
+---
+
+## Confessions of a 'concerthead': A 2023 concert roundup
+
+date: 2023-12-06, from: Laloyolan (LMU Student Newspaper)
+
+Assistant Life+Arts Editor Christianne Tubola is a certified "concerthead." Join her as she breaks down the most memorable concert experiences she’s had in 2023.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/life_and_arts/confessions-of-a-concerthead-a-2023-concert-roundup/article_d97d514f-d54c-53fe-a5a8-581152a20c93.html">https://www.laloyolan.com/life_and_arts/confessions-of-a-concerthead-a-2023-concert-roundup/article_d97d514f-d54c-53fe-a5a8-581152a20c93.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/life_and_arts/confessions-of-a-concerthead-a-2023-concert-roundup/article_d97d514f-d54c-53fe-a5a8-581152a20c93.html">Save to Pocket</a>
+</span>
+
+---
+
+## Op-ed: UCLA must protect free speech, academic freedom of those advocating for Palestine
+
+date: 2023-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s note: This submission is an edited version of an open letter to the university. More than 250 members of UCLA faculty signed this submission. Please see the original letter to view the complete list of signatories.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/05/op-ed-ucla-must-protect-free-speech-academic-freedom-of-those-advocating-for-palestine/">https://dailybruin.com/2023/12/05/op-ed-ucla-must-protect-free-speech-academic-freedom-of-those-advocating-for-palestine/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/05/op-ed-ucla-must-protect-free-speech-academic-freedom-of-those-advocating-for-palestine/">Save to Pocket</a>
+</span>
+
+---
+
+## Op-ed: UCLA must condemn Hamas attacks, fight antisemitism on campus
+
+date: 2023-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor’s Note: This submission is an updated version of an open letter to the university. More than 350 members of UCLA faculty signed this submission. Please see the original letter to view the complete list of signatories.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/05/op-ed-ucla-must-condemn-hamas-attacks-fight-antisemitism-on-campus/">https://dailybruin.com/2023/12/05/op-ed-ucla-must-condemn-hamas-attacks-fight-antisemitism-on-campus/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/05/op-ed-ucla-must-condemn-hamas-attacks-fight-antisemitism-on-campus/">Save to Pocket</a>
+</span>
+
+---
+
+## USAC passes referendum calling on university to end contracts with Starbucks
+
+date: 2023-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council unanimously passed a resolution Nov. 7 calling for the university to cut all contracts with Starbucks. 
+The resolution called on the Associated Students UCLA Board of Directors to publish a statement saying they would not renew leases for Starbucks locations on-campus and would terminate existing agreements where possible.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/05/usac-passes-referendum-calling-on-university-to-end-contracts-with-starbucks/">https://dailybruin.com/2023/12/05/usac-passes-referendum-calling-on-university-to-end-contracts-with-starbucks/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/05/usac-passes-referendum-calling-on-university-to-end-contracts-with-starbucks/">Save to Pocket</a>
+</span>
+
+---
+
+## USAC urges UCLA to allocate more resources to students in recovery from addiction
+
+date: 2023-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council unanimously passed a resolution Nov. 7 calling on the university to hire a full-time paid employee to oversee the Collegiate Recovery Program, a program that helps students with recovery from addiction.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/05/usac-urges-ucla-to-allocate-more-resources-to-students-in-recovery-from-addiction/">https://dailybruin.com/2023/12/05/usac-urges-ucla-to-allocate-more-resources-to-students-in-recovery-from-addiction/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/05/usac-urges-ucla-to-allocate-more-resources-to-students-in-recovery-from-addiction/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA faces scrutiny for safety issues at protests for Israel, Palestine
+
+date: 2023-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Organizers of and participants in recent protests on campus related to the ongoing Israel-Hamas war said UCLA’s approach to policing these protests has been imbalanced and insufficient.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine/">https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/05/ucla-faces-scrutiny-for-safety-issues-at-protests-for-israel-palestine/">Save to Pocket</a>
+</span>
+
+---
+
+## Second Take: With its unfair voting system, ‘Dancing with the Stars’ may be losing its shimmer
+
+date: 2023-12-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+The &#8220;Dancing with the Stars&#8221; mirrorball is shining bright &#8211; but its series producers aren&#8217;t checking for cracks.
+On Tuesday night, the celebrity dance show will wrap up its 32nd season with a three-hour finale, naming a victor after eleven weeks of competition.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/05/second-take-with-its-unfair-voting-system-dancing-with-the-stars-may-be-losing-its-shimmer/">https://dailybruin.com/2023/12/05/second-take-with-its-unfair-voting-system-dancing-with-the-stars-may-be-losing-its-shimmer/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/05/second-take-with-its-unfair-voting-system-dancing-with-the-stars-may-be-losing-its-shimmer/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon
+
+date: 2023-12-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/05/editorial-cartoon-16/">https://dailybruin.com/2023/12/05/editorial-cartoon-16/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/05/editorial-cartoon-16/">Save to Pocket</a>
+</span>
+
+---
+
+## Lindsey Horvath becomes the youngest chair of the Los Angeles Board of Supervisors
+
+date: 2023-12-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Los Angeles County Supervisor Lindsey Horvath, who serves the county’s third district, became the youngest chair of the County Board of Supervisors on Tuesday.&#160;
+Horvath, who is 41, first gained her position on the board in December 2022.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/05/lindsey-horvath-becomes-the-youngest-chair-of-the-los-angeles-board-of-supervisors/">https://dailybruin.com/2023/12/05/lindsey-horvath-becomes-the-youngest-chair-of-the-los-angeles-board-of-supervisors/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/05/lindsey-horvath-becomes-the-youngest-chair-of-the-los-angeles-board-of-supervisors/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA Phi Delta Epsilon chapter closes doors during university investigation
+
+date: 2023-12-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Pre-professional medical fraternity Phi Delta Epsilon has closed its UCLA chapter amid a university investigation.
+The national fraternity, which has had a chapter on UCLA’s campus since 2004, closed its UCLA chapter after the opening of a university investigation into its activities, according to an emailed statement by Karen Katz, the fraternity’s CEO.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/05/ucla-phi-delta-epsilon-chapter-closes-doors-during-university-investigation/">https://dailybruin.com/2023/12/05/ucla-phi-delta-epsilon-chapter-closes-doors-during-university-investigation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/05/ucla-phi-delta-epsilon-chapter-closes-doors-during-university-investigation/">Save to Pocket</a>
+</span>
+
+---
+
+## Narrated Articles—Opinion: Running past my limits was a turning point in my college experience
+
+date: 2023-12-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Listen to Daily Bruin News contributor Danielle Cho read her article about how running changed her life in college. The article was published in the Opinion Columns on August 19, 2023.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/05/narrated-articles-opinion-running-past-my-limits-was-a-turning-point-in-my-college-experience/">https://dailybruin.com/2023/12/05/narrated-articles-opinion-running-past-my-limits-was-a-turning-point-in-my-college-experience/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/05/narrated-articles-opinion-running-past-my-limits-was-a-turning-point-in-my-college-experience/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -99,7 +611,7 @@ UCPD recorded 637 unique entries in its November daily crime log.
 date: 2023-12-05, from: The Daily Bruin (UCLA Student Newspaper)
 
 The Undergraduate Students Association Council passed a resolution calling on the UC to recognize November as Sikh Heritage Month.
-The resolution, which passed unanimously Nov. 14, acknowledges the historical trauma and ongoing violence experienced by the Sikh community, as well as the community’s contributions in the state of California and beyond.
+The resolution, which passed unanimously Nov. 14, acknowledges the historical trauma and ongoing violence experienced by the Sikh community, as well as the community&#8217;s contributions in the state of California and beyond.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2023/12/04/usac-passes-resolution-in-favor-of-naming-november-sikh-heritage-month/">https://dailybruin.com/2023/12/04/usac-passes-resolution-in-favor-of-naming-november-sikh-heritage-month/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/04/usac-passes-resolution-in-favor-of-naming-november-sikh-heritage-month/">Save to Pocket</a>
@@ -111,6 +623,7 @@ The resolution, which passed unanimously Nov. 14, acknowledges the historical tr
 
 date: 2023-12-05, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Dec. 5 at 3:40 p.m.</em>
 The Undergraduate Students Association Council held its last meeting of November on Tuesday.
 USAC is the official student government representing the undergraduate student body at UCLA.
 
@@ -357,11 +870,11 @@ date: 2023-12-04, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## CSUN professor arrested under suspicion of death of protester
+## CSUN faculty member arrested under suspicion of death of protester
 
 date: 2023-12-04, from: The Sundail (CSUN Student Newspaper)
 
-CSUN and Moorpark college computer science professor Loay Alnaji was arrested on Nov. 16 for the death of Jewish man Paul Kessler at a protest in Thousand Oaks, California. The 50-year-old professor, a husband and father of three, was charged with involuntary manslaughter and battery after Kessler, 69, fell backwards and hit his head at...
+Moorpark college computer science professor and CSUN lecturer Loay Alnaji was arrested on Nov. 16 for the death of Jewish man Paul Kessler at a protest in Thousand Oaks, California. The 50-year-old husband and father of three was charged with involuntary manslaughter and battery after Kessler, 69, fell backwards and hit his head at a...
 
 <span class="feed-item-link">
 <a href="https://sundial.csun.edu/177245/news/csun-professor-arrested-under-suspicion-of-death-of-protester/">https://sundial.csun.edu/177245/news/csun-professor-arrested-under-suspicion-of-death-of-protester/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177245/news/csun-professor-arrested-under-suspicion-of-death-of-protester/">Save to Pocket</a>

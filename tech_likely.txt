@@ -195,7 +195,8 @@ https://www.osnews.com/feed/ "~OS News"
 https://www.pcjs.org/feed.xml "~PCjs Blog"
 https://www.raspberrypi.com/news/feed/ "~Raspberry Pi News (.com)"
 https://www.raspberrypi.org/feed/ "~Raspberry Pi (.org)"
-https://www.rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives"
+#https://www.rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives", redirects as of 2023-12-06
+https://rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives"
 https://www.redox-os.org/news/index.xml "~Redox OS News"
 https://www.research-collection.ethz.ch/feed/rss_2.0/site "~ETH Zurich, recently added"
 https://www.riscository.com/feed/ "~RiscOS Story"
@@ -216,6 +217,7 @@ https://blog.getpocket.com/feed/ "~GetPocket blog"
 https://www.hangaroundtheweb.com/index.xml "~Hanging Around the Web blog"
 #https://kilianvalkhof.com/feed/ "~Kilian Valkhof's blog"
 http://feeds.feedburner.com/Kilianvalkhofcom "~Kilian Valkhof's blog"
+https://infrequently.org/feed/ "~Alex Russel's blog"
 
 #
 # Problem feeds
