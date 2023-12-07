@@ -20,8 +20,8 @@ https://micronesia.expatreporter.com/?feed=rss2 "~Micronesia -- The Expat Report
 # Comercial News Papers, Guam and the Northern Marianas, Republic of Belau
 #
 # guampdn.com: getting errors, to many requests, 2023-10-16
-https://www.guampdn.com/search/?f=rss&amp;t=article&l=50&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News"
-https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post"
+https://www.guampdn.com/search/?f=rss&amp;t=article&l=50&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News" curl 8.4.0
+https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post" curl 8.4.0
 # pacificialndtimes.com: getting errors, too many requests, 2023-10-16
 https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times" curl/8.4.0
 # Northern Marianas Papers

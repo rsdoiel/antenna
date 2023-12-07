@@ -1,11 +1,641 @@
 ---
 title: tech likely 2023.49
-updated: 2023-12-05 10:00:01
+updated: 2023-12-06 16:57:22
 ---
 
 # tech likely 2023.49
 
-(date: 2023-12-05 10:00:01)
+(date: 2023-12-06 16:57:22)
+
+---
+
+## systemd 255 released
+
+date: 2023-12-07, from: OS News
+
+systemd 255 has been released, and it contains one particular new feature I want to highlight. A new component &#8220;systemd-bsod&#8221; has been added to show logged error messages full-screen if they have a &#8220;LOG_EMERG&#8221; log level. This is intended as a tool for displaying emergency log messages full-screen on boot failures. Yes, BSOD in this case short for &#8220;Blue Screen of Death&#8221;. This was worked on as part of Outreachy 2023. The systemd-bsod will also display a QR code for getting more information on the error causing the boot failure. ↫ Michael Larabel at Phoronix I like this. Operating systems usually have excellent logging capabilities, but getting to these logs and making sense of them isn&#8217;t always easy, especially if you&#8217;re not elbow-deep in the weeds of how your operating system of choice works. Giving a useful error screen when things really hit a brick wall at 200 km/h is a good thing, and will make at least some troubleshooting easier.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138020/systemd-255-released/">https://www.osnews.com/story/138020/systemd-255-released/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138020/systemd-255-released/">Save to Pocket</a>
+</span>
+
+---
+
+## Federal government is using data from push notifications to track contacts
+
+date: 2023-12-07, from: OS News
+
+Government investigators in the United States have used push notification data to pursue people of interest, Sen. Ron Wyden (D-Ore.) said in a letter Wednesday to the Justice Department, revealing for the first time a way in which Americans can be tracked through a basic service provided by their smartphones. Wyden’s letter said the Justice Department had prohibited Apple and Google from discussing the technique and asked it to change the rule, noting that his office had received a tip that foreign governments had also begun requesting the push-notification data. ↫ Drew Harwell for The Washington Post Not surprising, of course. The one nugget of good news here is that while Apple&#8217;s policy is to hand over this data after a mere subpoena (&#8220;privacy is a fundamental human right&#8220;, everybody), Google requires an actual court order, meaning federal officials must convince a judge of the validity of the request. Assuming this is not a nebulous secret backroom deal but a proper judicial process, I&#8217;m actually okay with that &#8211; law enforcement does need the ability to investigate potential criminals, and as long as this happens within the boundaries of the law and properly overseen and approved by the judiciary every step along the way, I can support it.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138018/federal-government-is-using-data-from-push-notifications-to-track-contacts/">https://www.osnews.com/story/138018/federal-government-is-using-data-from-push-notifications-to-track-contacts/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138018/federal-government-is-using-data-from-push-notifications-to-track-contacts/">Save to Pocket</a>
+</span>
+
+---
+
+## The Marshall Star for December 6, 2023
+
+date: 2023-12-07, from: NASA breaking news
+
+Marshall Kicks Off Holiday Season with Tree-Lighting Ceremony NASA’s Marshall Space Flight Center celebrated its annual tree-lighting ceremony in the courtyard of Building 4221 on Nov 30. Marshall team members and their children gathered for the lighting of the 32-foot artificial tree decorated with blue lights and a 10-pointed star representing each NASA center. Joseph [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-december-6-2023/">https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-december-6-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-december-6-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Introducing Gemini: Google’s largest and most capable AI model
+
+date: 2023-12-07, from: OS News
+
+This promise of a world responsibly empowered by AI continues to drive our work at Google DeepMind. For a long time, we’ve wanted to build a new generation of AI models, inspired by the way people understand and interact with the world. AI that feels less like a smart piece of software and more like something useful and intuitive — an expert helper or assistant. Today, we’re a step closer to this vision as we introduce Gemini, the most capable and general model we’ve ever built. Gemini is the result of large-scale collaborative efforts by teams across Google, including our colleagues at Google Research. It was built from the ground up to be multimodal, which means it can generalize and seamlessly understand, operate across and combine different types of information including text, code, audio, image and video. ↫ Demis Hassabis on Google&#8217;s official blog It&#8217;s no secret I&#8217;m not particularly impressed by &#8220;AI&#8221;, not least because its ability to autocomplete complete nonsense based on copyrighted works it&#8217;s drawing from without permission and the dangers this might represent to our society. That being said, Google&#8217;s new &#8220;AI&#8221; thing, as demonstrated in this video, actually seems a tiny bit impressive. It still looks like to me like it&#8217;s just blurting out random information using fairly mundane things like object and speech recognition, but the fluidity of it all definitely feels a lot more natural than whatever OpenAI and Microsoft have shown so far. I&#8217;m still not even remotely interested in any of this stuff, but this at least seems slightly more possibly useful than other examples I&#8217;ve seen so far.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138015/introducing-gemini-googles-largest-and-most-capable-ai-model/">https://www.osnews.com/story/138015/introducing-gemini-googles-largest-and-most-capable-ai-model/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138015/introducing-gemini-googles-largest-and-most-capable-ai-model/">Save to Pocket</a>
+</span>
+
+---
+
+## 25 Years Ago: NASA, Partners Begin Space Station Assembly
+
+date: 2023-12-06, from: NASA breaking news
+
+NASA is marking 25 years since the first two elements of the International Space Station were launched and joined in space. Today, the space station remains a global endeavor with 273 people from 21 countries now having visited the microgravity laboratory and has hosted more than 3,700 research and educational investigations from people in 108 [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/history/25-years-ago-nasa-partners-begin-space-station-assembly/">https://www.nasa.gov/history/25-years-ago-nasa-partners-begin-space-station-assembly/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/history/25-years-ago-nasa-partners-begin-space-station-assembly/">Save to Pocket</a>
+</span>
+
+---
+
+## 25 Years Ago: The First Pieces of the International Space Station
+
+date: 2023-12-06, from: NASA breaking news
+
+The mated Russian-built Zarya (left) and U.S.-built Unity modules are backdropped against the blackness of space and Earth&#8217;s horizon shortly after leaving Endeavour&#8217;s cargo bay on Dec. 13, 1998. A few days earlier, on Dec. 6, 1998, the space shuttle Endeavour, mission STS-88, launched from NASA’s Kennedy Space Center in Florida carrying the Unity connecting [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/25-years-ago-the-first-pieces-of-the-international-space-station/">https://www.nasa.gov/image-article/25-years-ago-the-first-pieces-of-the-international-space-station/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/25-years-ago-the-first-pieces-of-the-international-space-station/">Save to Pocket</a>
+</span>
+
+---
+
+## A little Yuletide pedantry
+
+date: 2023-12-06, from: Status-Q blog
+
+&#8216;Gift&#8217; is generally a noun. &#8216;Give&#8217; is a verb. When did we start using &#8216;gifted&#8217; to mean &#8216;gave&#8217;? As in, &#8220;A friend gifted me this radio.&#8221; I seem to hear it all the time now, and not just from Americans, though I think it was a transatlantic trend initially. Perhaps people feel the need to <a class="more-link excerpt-link" href="https://statusq.org/archives/2023/12/06/11835/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>
+
+<span class="feed-item-link">
+<a href="https://statusq.org/archives/2023/12/06/11835/">https://statusq.org/archives/2023/12/06/11835/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://statusq.org/archives/2023/12/06/11835/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Invites Media to Northrop Grumman, SpaceX Space Station Launch
+
+date: 2023-12-06, from: NASA breaking news
+
+Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. This launch is the 20th Northrop Grumman commercial resupply services mission to the orbital laboratory for the agency. NASA, Northrop Grumman, and SpaceX are targeting no earlier than Monday, Jan. 29, for a Falcon [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-spacex-space-station-launch/">https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-spacex-space-station-launch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-spacex-space-station-launch/">Save to Pocket</a>
+</span>
+
+---
+
+## Rise of the news DJs
+
+date: 2023-12-06, from: Nieman Journalism Lab
+
+In 2024, the ascent of AI in news won’t lead to a Cambrian explosion of articles written by souped-up autofill algorithms. Instead, we’ll see the beginnings of ultra-segmented news presentations. This evolution will be driven by the genre-redefining changes in search engines we’re seeing today: AI summaries of query results that make clicking through to...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/rise-of-the-news-djs/">https://www.niemanlab.org/2023/12/rise-of-the-news-djs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/rise-of-the-news-djs/">Save to Pocket</a>
+</span>
+
+---
+
+## The future-of-journalism crowd stops ignoring local TV news
+
+date: 2023-12-06, from: Nieman Journalism Lab
+
+Take The Breakfast Club or Fast Times at Ridgemont High or High School Musical, or any other Hollywoodized version of high school. Now map this on as a metaphor for local news ecologies. Local TV journalists are the beautiful, popular people in this hierarchy — with local newspapers and local nonprofits some version of the...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/the-future-of-journalism-crowd-stops-ignoring-local-tv-news/">https://www.niemanlab.org/2023/12/the-future-of-journalism-crowd-stops-ignoring-local-tv-news/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/the-future-of-journalism-crowd-stops-ignoring-local-tv-news/">Save to Pocket</a>
+</span>
+
+---
+
+## Journalism prepares for a post-search, post-social future
+
+date: 2023-12-06, from: Nieman Journalism Lab
+
+The journalism industry has to prepare for an imminent post-search and post-social world. While news organizations have come to rely over the past decade on digital intermediaries such as Google and Meta to distribute their stories and amplify their reach, this era looks set to come to an end. Both technology giants have signaled over...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/journalism-prepares-for-a-post-search-post-social-future/">https://www.niemanlab.org/2023/12/journalism-prepares-for-a-post-search-post-social-future/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/journalism-prepares-for-a-post-search-post-social-future/">Save to Pocket</a>
+</span>
+
+---
+
+## Hyperlocal information warfare rises up
+
+date: 2023-12-06, from: Nieman Journalism Lab
+
+Alabama isn’t a bellwether for much. Political change down here has often required mass civil disobedience and federal court orders. Even by contemporary “red state” political standards, we tend to follow rather than lead. Texas and Florida have been in the vanguard of attacks on state-led diversity, equity, and inclusion initiatives, for instance. Tennessee and...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/hyperlocal-information-warfare-rises-up/">https://www.niemanlab.org/2023/12/hyperlocal-information-warfare-rises-up/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/hyperlocal-information-warfare-rises-up/">Save to Pocket</a>
+</span>
+
+---
+
+## One issue will dominate election coverage in both red and blue states
+
+date: 2023-12-06, from: Nieman Journalism Lab
+
+Move aside, debate about horse race coverage vs. substantive policy differences. An even more existential issue will dominate coverage of the 2024 election in newsrooms of all sizes, in every corner of the country: Will a multiracial democracy survive an assault without precedent over the past 60 years? Have we ever really had an even...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/one-issue-will-dominate-election-coverage-in-both-red-and-blue-states/">https://www.niemanlab.org/2023/12/one-issue-will-dominate-election-coverage-in-both-red-and-blue-states/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/one-issue-will-dominate-election-coverage-in-both-red-and-blue-states/">Save to Pocket</a>
+</span>
+
+---
+
+## Nonprofits embrace profits
+
+date: 2023-12-06, from: Nieman Journalism Lab
+
+The adage “nonprofit is a tax code, not a business model” has been around as long as nonprofits themselves. But 2024 is poised to be a pivotal year for the income streams of nonprofit journalism organizations in Europe, which, in the face of shifting market forces, will accelerate the diversification of their revenue. It’s tough...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/nonprofits-embrace-profits/">https://www.niemanlab.org/2023/12/nonprofits-embrace-profits/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/nonprofits-embrace-profits/">Save to Pocket</a>
+</span>
+
+---
+
+## Celebrities will endorse publishers (and get paid for it)
+
+date: 2023-12-06, from: Nieman Journalism Lab
+
+It was just four minutes into the Blink-182 Peloton ride with Kendall Toole that it occurred to me just how next-level of an infomercial this exercise class was. The conceit: Travis Barker, drummer of said pop-punk band, would drum along live to Kendall’s indoor cycling class in split screen. Peloton gets a headliner “show” for...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/celebrities-will-endorse-publishers-and-get-paid-for-it/">https://www.niemanlab.org/2023/12/celebrities-will-endorse-publishers-and-get-paid-for-it/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/celebrities-will-endorse-publishers-and-get-paid-for-it/">Save to Pocket</a>
+</span>
+
+---
+
+## AI takes center stage
+
+date: 2023-12-06, from: Nieman Journalism Lab
+
+We welcomed generative AI to the scene over the past year and took our first tentative baby steps onto the dance floor with it. Publishers and content creators tested, experimented, and learned cautiously. This year, we&#8217;ll see a more focused, coordinated choreography emerge as more creators and media organizations harness the power of gen AI...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/ai-takes-center-stage/">https://www.niemanlab.org/2023/12/ai-takes-center-stage/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/ai-takes-center-stage/">Save to Pocket</a>
+</span>
+
+---
+
+## Collaboration with ethnic and identity publishers becomes a must
+
+date: 2023-12-06, from: Nieman Journalism Lab
+
+For years, news leaders and funders all but wrote off the publishers of local alt-weeklies, legacy Black publications, and Spanish-language papers. The contemporary wisdom was that these papers — and, by extension, their publishers — would never adapt their business models and their mindsets to the needs and habits of digital audiences. And, indeed, hundreds of these...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/collaboration-with-ethnic-and-identity-publishers-becomes-a-must/">https://www.niemanlab.org/2023/12/collaboration-with-ethnic-and-identity-publishers-becomes-a-must/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/collaboration-with-ethnic-and-identity-publishers-becomes-a-must/">Save to Pocket</a>
+</span>
+
+---
+
+## The AI copyright watershed comes into view
+
+date: 2023-12-06, from: Nieman Journalism Lab
+
+Last year — I went back and counted — fully a dozen of these predictions concerned generative AI, a topic I am convinced most Americans hadn’t even heard of at that time. A year later, that’s only still widely true among those frequenting caves. But comparatively little of the attention around news and AI has...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/the-ai-copyright-watershed-comes-into-view/">https://www.niemanlab.org/2023/12/the-ai-copyright-watershed-comes-into-view/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/the-ai-copyright-watershed-comes-into-view/">Save to Pocket</a>
+</span>
+
+---
+
+## The press adopts a new level of transparency around images
+
+date: 2023-12-06, from: Nieman Journalism Lab
+
+AI images became top of mind this year due to the increasing availability of updated tools, all capable of creating images in various styles based on other images. Services like Dall-E 3, Midjourney, and Stable Diffusion have received the most attention for their ability to create images that resemble photographs. Midjourney v5, released earlier this...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/the-press-adopts-a-new-level-of-transparency-around-images/">https://www.niemanlab.org/2023/12/the-press-adopts-a-new-level-of-transparency-around-images/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/the-press-adopts-a-new-level-of-transparency-around-images/">Save to Pocket</a>
+</span>
+
+---
+
+## Everyone in the newsroom gets training
+
+date: 2023-12-06, from: Nieman Journalism Lab
+
+Up to now, the world’s newsrooms have been populated by roughly two phenotypes. On the one hand, there have been the content people (many of whom would never call their journalism &#8220;content,&#8221; of course). These include seasoned reporters, investigators, or commentators who spend their time deep diving into subjects, research, analysis, and cultivating sources and...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/everyone-in-the-newsroom-gets-training/">https://www.niemanlab.org/2023/12/everyone-in-the-newsroom-gets-training/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/everyone-in-the-newsroom-gets-training/">Save to Pocket</a>
+</span>
+
+---
+
+## AI changes everything…and nothing
+
+date: 2023-12-06, from: Nieman Journalism Lab
+
+In the final discussion post in my digital media innovation capstone course this semester, I asked the question, &#8220;What are your thoughts on the future of innovation?&#8221; It was no surprise that every student mentioned artificial intelligence. Many expressed concerns about ethical implications and its effect on future employment. But in most cases, their comments...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/ai-changes-everything-and-nothing/">https://www.niemanlab.org/2023/12/ai-changes-everything-and-nothing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/ai-changes-everything-and-nothing/">Save to Pocket</a>
+</span>
+
+---
+
+## Processing PACE Continues for Launch in Early 2024
+
+date: 2023-12-06, from: NASA breaking news
+
+Engineers are executing a comprehensive performance test to ensure the PACE spacecraft is ready for launch. NASA’s Plankton, Aerosol, Cloud ocean Ecosystem (PACE) mission will study what makes Earth so different from every other planet we study: life itself. PACE will extend and improve upon NASA’s 20-plus years of global satellite observations of our living [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/processing-pace-continues-for-launch-in-early-2024/">https://www.nasa.gov/image-article/processing-pace-continues-for-launch-in-early-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/processing-pace-continues-for-launch-in-early-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Vote for the December (Mouse edition) 2023 Paid Post
+
+date: 2023-12-06, from: Computer ads from the Past
+
+Vote while you can
+
+<span class="feed-item-link">
+<a href="https://computeradsfromthepast.substack.com/p/vote-for-the-december-mouse-edition">https://computeradsfromthepast.substack.com/p/vote-for-the-december-mouse-edition</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://computeradsfromthepast.substack.com/p/vote-for-the-december-mouse-edition">Save to Pocket</a>
+</span>
+
+---
+
+## Standalone Beeper Mini Brings iMessage to Android
+
+date: 2023-12-06, from: Michael Tsai
+
+Beeper (Hacker News, MacRumors): It&#8217;s our beautiful new Android app built specifically to send and receive blue bubble messages to friends with iPhones.[&#8230;]Full end-to-end encryption.It&#8217;s a standalone Android app - no server, laptop, Mac or iPhone required. erohead: The app connects directly to Apple servers to send and receive end-to-end encrypted messages. Encryption keys never [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/06/standalone-beeper-mini-brings-imessage-to-android/">https://mjtsai.com/blog/2023/12/06/standalone-beeper-mini-brings-imessage-to-android/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/06/standalone-beeper-mini-brings-imessage-to-android/">Save to Pocket</a>
+</span>
+
+---
+
+## Governments Using Push Notifications to Surveil Users
+
+date: 2023-12-06, from: Michael Tsai
+
+Tim Hardwick (Hacker News): Senator Ron Wyden said foreign officials were demanding the data from the tech giants to track smartphones. The traffic flowing from apps that send push notifications put the companies &#8220;in a unique position to facilitate government surveillance of how users are using particular apps,&#8221; Wyden said.[&#8230;]In a statement given to Reuters, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/06/governments-using-push-notifications-to-surveil-users/">https://mjtsai.com/blog/2023/12/06/governments-using-push-notifications-to-surveil-users/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/06/governments-using-push-notifications-to-surveil-users/">Save to Pocket</a>
+</span>
+
+---
+
+## iCloud Advanced Data Protection Uptake
+
+date: 2023-12-06, from: Michael Tsai
+
+John Gruber: Back in August I ran a poll on Mastodon, asking my followers if they have iCloud Advanced Data Protection enabled. iCloud Advanced Data Protection was announced two years ago this week, alongside support for security keys (e.g. Yubico). I&#8217;m in the last group, too. I still use some older devices that would be [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/06/icloud-advanced-data-protection-uptake/">https://mjtsai.com/blog/2023/12/06/icloud-advanced-data-protection-uptake/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/06/icloud-advanced-data-protection-uptake/">Save to Pocket</a>
+</span>
+
+---
+
+## Misinformation About NameDrop
+
+date: 2023-12-06, from: Michael Tsai
+
+Juli Clover: As noted by The Washington Post, there have been warnings about NameDrop popping up on FaceTime. Police departments in Pennsylvania, Oklahoma, Ohio, and other states have been suggesting that contact information can be shared &#8220;just by bringing your phones close together.&#8221;[&#8230;]While it&#8217;s true that NameDrop is turned on by default, the way that [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/06/misinformation-about-namedrop/">https://mjtsai.com/blog/2023/12/06/misinformation-about-namedrop/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/06/misinformation-about-namedrop/">Save to Pocket</a>
+</span>
+
+---
+
+## NSFileManager’s File Copy Error Messages Lie
+
+date: 2023-12-06, from: Michael Tsai
+
+Jeff Johnson: The error says that the source file InstallHistory.plist doesn&#8217;t exist, but the file does exist! The true reason for the copy failure is that the destination directory /Users/Shared/nonexistent/ doesn&#8217;t exist. Sigh.I tested my command-line tool all the way back to macOS 10.13 High Sierra, and the behavior is the same! This is an [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/06/nsfilemanagers-file-copy-error-messages-lie/">https://mjtsai.com/blog/2023/12/06/nsfilemanagers-file-copy-error-messages-lie/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/06/nsfilemanagers-file-copy-error-messages-lie/">Save to Pocket</a>
+</span>
+
+---
+
+## Emergency SOS via Satellite Pricing
+
+date: 2023-12-06, from: Michael Tsai
+
+Adam Chandler: Garmin had a few benefits Apple&#8217;s hardware did not thanks to a larger antenna and dedicated hardware. My InReach could be tracked by my wife anywhere. She could see my location instantly by going to a special web page and entering a passcode. I could also text anything I wanted to any phone [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/06/emergency-sos-via-satellite-pricing/">https://mjtsai.com/blog/2023/12/06/emergency-sos-via-satellite-pricing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/06/emergency-sos-via-satellite-pricing/">Save to Pocket</a>
+</span>
+
+---
+
+## Prophet version 4.14 now available
+
+date: 2023-12-06, from: RiscOS Story
+
+There is a new version of accounts and stock management application Prophet available from Elesar Ltd. Version 4.14 is free to existing users of 3.93 or later &#8211; the initial and subsequent releases from Elesar, who took on maintenance and sales of the package from its original developer, Quinten Pain of Apricote Studios (subsequently Accountz). The new version includes a mixture of fixes and new features (that have come from user suggestions). For VAT registered businesses, one of the key changes in version 4.14 is that it can now cope&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.riscository.com/2023/prophet-version-4-14/">https://www.riscository.com/2023/prophet-version-4-14/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.riscository.com/2023/prophet-version-4-14/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2023-12-06, from: Miguel de Icaza Mastondon feed)
+
+<p>One of my all time favorite expressions is (edited):</p><p>&quot;This looks shopped.  I can tell from some of the pixels and from seeing quite a few shops in my time”</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111535007443245334">https://mastodon.social/@Migueldeicaza/111535007443245334</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111535007443245334">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Podcasts Now Available on Spotify
+
+date: 2023-12-06, from: NASA breaking news
+
+NASA recently released its collection of original podcasts on Spotify, giving more people access to in-depth conversations, stories, and Spanish-language content as the agency works to explore the unknown in air and space.&#160; NASA now offers five podcasts on Spotify, including:&#160; In the coming months, NASA plans to offer more audio-first products on Spotify, including [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/nasa-podcasts-now-available-on-spotify/">https://www.nasa.gov/general/nasa-podcasts-now-available-on-spotify/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/nasa-podcasts-now-available-on-spotify/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Glenn Director, NASA Astronaut Visit Pittsburgh
+
+date: 2023-12-06, from: NASA breaking news
+
+What do a rover, an astronaut, and a rally towel have in common? They all came together for a NASA-filled weekend in Pittsburgh on Dec. 2 and 3.&#160;&#160; Dr. Jimmy Kenyon, director of NASA’s Glenn Research Center in Cleveland, and NASA astronaut Woody Hoburg, who piloted NASA’s recent SpaceX Crew-6 mission to the International Space [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/nasa-glenn-director-nasa-astronaut-visit-pittsburgh/">https://www.nasa.gov/general/nasa-glenn-director-nasa-astronaut-visit-pittsburgh/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/nasa-glenn-director-nasa-astronaut-visit-pittsburgh/">Save to Pocket</a>
+</span>
+
+---
+
+## Local Mayors, City Managers Visit NASA Center
+
+date: 2023-12-06, from: NASA breaking news
+
+NASA’s Glenn Research Center Deputy Director Dawn Schaible provided an overview to more than 20 mayors and city manager from northeast Ohio during an event at the Ohio Aerospace Institute in Brook Park, Ohio, on Nov. 9. She highlighted Glenn’s work and the positive impact it has on the local community, state, and region. Following the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/local-mayors-city-managers-visit-nasa-center/">https://www.nasa.gov/general/local-mayors-city-managers-visit-nasa-center/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/local-mayors-city-managers-visit-nasa-center/">Save to Pocket</a>
+</span>
+
+---
+
+## Six Finalists Named in NASA’s $3.5 Million Break the Ice Challenge
+
+date: 2023-12-06, from: NASA breaking news
+
+By Savannah Bullard The stage is set for the finale of NASA’s Break the Ice Lunar Challenge. Conceived in 2020, Break the Ice tasked innovators with creating robotic systems that can traverse the volatile terrain of the Lunar South Pole. These robots must be able to dig into the Moon’s regolith – the dusty, icy [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/centennial-challenges/six-finalists-named-in-nasas-3-5-million-break-the-ice-challenge/">https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/centennial-challenges/six-finalists-named-in-nasas-3-5-million-break-the-ice-challenge/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/centennial-challenges/six-finalists-named-in-nasas-3-5-million-break-the-ice-challenge/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-06, from: Dave Winer's Scripting News)
+
+We could make this election a literary expo. Get the great apocalypse scifi and poliscifi authors to write a daily installment of what President Trump and his governing mafia will be doing on 1/20/25 on 1/20/24. Every day a new atrocity in serial form. A textcast. Finally something worth writing about.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/06.html#a164851">http://scripting.com/2023/12/06.html#a164851</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/06.html#a164851">Save to Pocket</a>
+</span>
+
+---
+
+## Hot take on Google’s Gemini and GPT-4
+
+date: 2023-12-06, from: Gary Marcus blog
+
+Gemini was just announced. Here&#8217;s my hot take: Gemini seems to have by many measures matched (or slightly exceeded) GPT-4, but not to have blown it away. From a commercial standpoint GPT-4 is no longer unique. That&#8217;s a huge problem for OpenAI, especially post drama, when many customers are now seeking a backup plan. From a technical standpoint, the key question is: are LLMs close to a plateau?
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/hot-take-on-googles-gemini-and-gpt">https://garymarcus.substack.com/p/hot-take-on-googles-gemini-and-gpt</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/hot-take-on-googles-gemini-and-gpt">Save to Pocket</a>
+</span>
+
+---
+
+## New Course from NASA Helps Build Open, Inclusive Science Community
+
+date: 2023-12-06, from: NASA breaking news
+
+NASA released its free Open Science 101 curriculum Wednesday to empower researchers, early career scientists, and underrepresented communities with the knowledge and tools necessary to embrace open science practices. The curriculum&#8217;s initial goal is to train 20,000 scientists and researchers over the next five years, enabling them to embrace open science practices and maximize the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/new-course-from-nasa-helps-build-open-inclusive-science-community/">https://www.nasa.gov/news-release/new-course-from-nasa-helps-build-open-inclusive-science-community/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/new-course-from-nasa-helps-build-open-inclusive-science-community/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-06, from: Dave Winer's Scripting News)
+
+Recreating Twitter is boring. One of these ventures that's trying to do that should blow the doors off the whole thing, and get rid of every limit. Just support writing and reading and <a href="http://textcasting.org/">get on with it</a>.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/06.html#a150248">http://scripting.com/2023/12/06.html#a150248</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/06.html#a150248">Save to Pocket</a>
+</span>
+
+---
+
+## Veteran editors Notepad++ and Geany hit milestone versions
+
+date: 2023-12-06, updated: 2023-12-06, from: Liam Proven's articles at the Register
+
+<h4>There are still good, modern, graphical text editors that are not Electron-based</h4>
+      <p>One of the best FOSS text editors for Windows, Notepad++, is turning 20, while cross platform Geany just hit version 2.0 as it turns 18 years old.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2023/12/06/veteran_editors_notepad_and_geany/">https://go.theregister.com/i/cfa/https://www.theregister.com/2023/12/06/veteran_editors_notepad_and_geany/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2023/12/06/veteran_editors_notepad_and_geany/">Save to Pocket</a>
+</span>
+
+---
+
+## One a Month
+
+date: 2023-12-06, from: Manu - I write blog
+
+<p>Over the past 10+ years, I created countless side projects and tried all sorts of monetization schemes. I tried to sell digital products, I tried memberships, I tried affiliate links and none ever felt right. Not saying those methods aren’t right, just saying they don’t feel right to me.</p>
+<p>When I started People and Blogs a few months ago I decided I didn’t want to focus too much on the financial aspects of the project which is why I set up a simple Ko-Fi account, created three tiers of memberships/donations, and called it a day.</p>
+<p>But I recently realized that tiers are the wrong approach. At least for me. I believe in kindness. I believe that if you decide to support something I do, you should get all the benefits, no matter how much you pay.</p>
+<p>I also realized that 1$+/month is the best price possible when it comes to supporting online creators. The 1$ part means you can set it up and forget about it because it’s a low enough amount that won’t make too much of a difference for the majority of people who are considering supporting online creators. The + part allows you to contribute more if you want to do so. And that’s just perfect.</p>
+<p>As a result of that I decided to <a href="https://ko-fi.com/manuelmoreale" rel="noreferrer" target="_blank">simplify my Ko-Fi page</a>. If you like what I’m doing with my various online projects—this blog, <a href="https://peopleandblogs.com" rel="noreferrer" target="_blank">the P&amp;B series</a>, <a href="https://theforest.link" rel="noreferrer" target="_blank">the forest</a>, <a href="https://buttondown.email/manuelmoreale" rel="noreferrer" target="_blank">the summit newsletter</a>—and want to contribute you can do it there. Also, if you do agree with me on the one-a-month membership and decide to set up one for yourself, <a href="mailto:hello@manuelmoreale.com">get in touch</a>. I’m going to subscribe to a bunch of you and list them here on the site to spread some good vibes. Because as they say, sharing is caring.</p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/FzQB8gwtyZXZ2yq3">https://manuelmoreale.com/@/page/FzQB8gwtyZXZ2yq3</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/FzQB8gwtyZXZ2yq3">Save to Pocket</a>
+</span>
+
+---
+
+## Simplicity
+
+date: 2023-12-06, from: Rob Pike's blog
+
+<p><span style="font-family: georgia;"><span><span style="font-size: 14px; font-variant-ligatures: no-common-ligatures;">In May 2009, Google hosted an internal "Design Wizardry" panel, with talks by Jeff Dean,&nbsp;</span></span></span><span style="font-family: georgia; font-size: 13px;">Mike Burrows, Paul Haahr, Alfred Spector, Bill Coughran, and myself.</span><span style="font-family: georgia;"><span style="font-size: 14px; font-variant-ligatures: no-common-ligatures;">&nbsp;Here is a lightly edited transcript of my talk. Some of the details have aged out, but the themes live on, now perhaps more than ever.</span></span></p><p><span style="font-family: georgia; font-size: 14px; font-variant-ligatures: no-common-ligatures;">---</span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;"><br /></span></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">Simplicity is better than complexity.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">Simpler things are easier to understand, easier to build, easier to debug, and easier to maintain. Easier to understand is the most important, because it leads to the others.&nbsp;</span></span><span style="font-family: georgia; font-variant-ligatures: no-common-ligatures;">Look at the web page for google.com. One text box. Type your query, get useful results. That's brilliantly simple design and a major reason for Google's success. Earlier search engines had much more complicated interfaces. Today they have either mimicked ours, or feel really hard to use.</span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">That's google.com. But what about what's behind it? What about GWS? How you do you invoke it? I looked at the argument list of a running GWS (<a href="https://en.wikipedia.org/wiki/Google_Web_Server" target="_blank">Google Web Server</a>) instance. XX,XXX characters of configuration flags. XXX arguments. A few name backend machines. Some configure backends. Some enable or disable properties. Most of them are probably correct. I guarantee some of them are wrong or at least obsolete.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">So, here's my question: How can the company that designed google.com be the same company that designed GWS? The answer is that GWS configuration structure was not really designed. It grew organically. Organic growth is not simple; it generates fantastic complexity. Each piece, each change may be simple, but put together the complexity becomes overwhelming.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">Complexity is multiplicative. In a system, like Google, that is assembled from components, every time you make one part more complex, some of the added complexity is reflected in the other components. It's complexity runaway.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">It's also endemic.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">Many years ago, Tom Cargill took a year off from Bell Labs Research to work in development. He joined a group where every subsystem's code was printed in a separate binder and stored on a shelf in each office. Tom discovered that one of those subsystems was almost completely redundant; most of its services were implemented elsewhere. So he spent a few months making it completely redundant. He deleted 15,000 lines of code. When he was done, he removed an entire binder from everybody's shelf. He reduced the complexity of the system. Less code, less to test, less to maintain. His coworkers loved it.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">But there was a catch. During his performance review, he learned that management had a metric for productivity: lines of code. Tom had negative productivity. In fact, because he was so successful, his entire group had negative productivity. He returned to Research with his tail between his legs.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">And he learned his lesson: complexity is endemic. Simplicity is not rewarded.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">You can laugh at that story. We don't do performance review based on lines of code.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">But we're actually not far off. Who ever got promoted for deleting Google code? We revel in the code we have. It's huge and complex. New hires struggle to grasp it and we spend enormous resources training and mentoring them so they can cope. We pride ourselves in being able to understand it and in the freedom to change it.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">Google is a democracy; the code is there for all to see, to modify, to improve, to add to. But every time you add something, you add complexity. Add a new library, you add complexity. Add a new storage wrapper, you add complexity. Add an option to a subsystem, you complicate the configuration. And when you complicate something central, such as a networking library, you complicate everything.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">Complexity just happens and its costs are literally exponential.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">On the other hand, simplicity takes work—but it's all up front. Simplicity is very hard to design, but it's easier to build and much easier to maintain. By avoiding complexity, simplicity's benefits are exponential.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">Pardon the solipsism but look at the query logging system. It's far from perfect but it was designed to be—and still is—the only system at Google that solves the particular, central problem it was designed to solve. Because it is the only one, it guarantees stability, security, uniformity of use, and all the economies of scale. There is no way Google would be where it is today if every team rolled out its own logging infrastructure.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">But the lesson didn't spread. Teams are constantly proposing new storage systems, new workflow managers, new libraries, new infrastructure.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">All that duplication and proliferation is far too complex and it is killing us because the complexity is slowing us down.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">We have a number of engineering principles at Google. Make code readable. Make things testable. Don't piss off the SREs. Make things fast.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">Simplicity has never been on that list. But here's the thing: Simplicity is more important than any of them. Simpler designs are more readable. Simpler code is easier to test. Simpler systems are easier to explain to the SREs, and easier to fix when they fail.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">Plus, simpler systems run faster.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">Notice I said systems there, not code. Sometimes—not always—to make code fast you need to complicate it; that can be unavoidable. But complex systems are NEVER fast—they have more pieces and their interactions are too poorly understood to make them fast. Complexity generates inefficiency.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">Simplicity is even more important than performance. Because of the multiplicative effects of complexity, getting 2% performance improvement by adding 2% complexity—or 1% or maybe even .1%—isn't worth it.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">But hold on! What about our Utilization Code Red?</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">We don't have utilization problems because our systems are too slow. We have utilization problems because our systems are too complex. We don't understand how they perform, individually or together. We don't know how to characterize their interactions.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">The app writers don't fully understand the infrastructure.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">The infrastructure writers don't fully understand the networks.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">Or the apps for that matter. And so on and so on.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">To compensate, everyone overprovisions and adds zillions of configuration options and adjustments. That makes everything even harder to understand.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">Products manage to launch only by building walls around their products to isolate them from the complexity—which just adds more complexity.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">It's a vicious cycle.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">So think hard about what you're working on. Can it be simpler? Do you really need that feature? Can you make something better by simplifying, deleting, combining, or sharing? Sit down with the groups you depend on and understand how you can combine forces with them to design a simpler, shared architecture that doesn't involve defending against each other.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">Learn about the systems that already exist, and build on them rather than around them. If an existing system doesn't do what you want, maybe the problem is in the design of your system, not that one.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">If you do build a new component, make sure it's of general utility. Don't build infrastructure that solves only the problems of your own team.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">It's easy to build complexity. In the rush to launch, it's quicker and easier to code than to redesign. But the costs accumulate and you lose in the long run.</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">The code repository contains 50% more lines of code than it did a year ago. Where will we be in another year? In 5 years?</span></span></p><p class="p2" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px; min-height: 16px;"><span style="font-family: georgia;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"></span><br /></span></p><p class="p1" style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size: 14px; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal; margin: 0px;"><span class="s1" style="font-variant-ligatures: no-common-ligatures;"><span style="font-family: georgia;">If we don't bring the complexity under control, one day it won't be a Utilization Code Red. Things will get so complex, so slow, they'll just grind to a halt. That's called a Code Black.</span></span></p>
+
+<span class="feed-item-link">
+<a href="https://commandcenter.blogspot.com/2023/12/simplicity.html">https://commandcenter.blogspot.com/2023/12/simplicity.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://commandcenter.blogspot.com/2023/12/simplicity.html">Save to Pocket</a>
+</span>
+
+---
+
+## Culturally relevant Computing: Experiences of primary learners
+
+date: 2023-12-06, from: Raspberry Pi (.org)
+
+<p>Today&#8217;s blog is written by Dr Alex Hadwen-Bennett, who we worked with to find out primary school learners&#8217; experiences of engaging with culturally relevant Computing lessons. Alex is a Lecturer in Computing Education at King’s College London, where he undertakes research focusing on inclusive computing education and the pedagogy of making. Despite many efforts to&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/culturally-relevant-pedagogy-experiences-primary-computing/">Culturally relevant Computing: Experiences of primary learners</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.org/blog/culturally-relevant-pedagogy-experiences-primary-computing/">https://www.raspberrypi.org/blog/culturally-relevant-pedagogy-experiences-primary-computing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.org/blog/culturally-relevant-pedagogy-experiences-primary-computing/">Save to Pocket</a>
+</span>
+
+---
+
+## I’m theme-ing of a dark Christmas…
+
+date: 2023-12-06, from: Raspberry Pi News (.com)
+
+<p>It's a Christmas miracle — you can now use Raspberry Pi OS in dark mode. Plus updates and improvements for WayVNC, Thonny, Mathematica, Scratch 3, and a bunch more tweaks and fixes.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/im-theme-ing-of-a-dark-christmas/">I&#8217;m theme-ing of a dark Christmas&#8230;</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/im-theme-ing-of-a-dark-christmas/">https://www.raspberrypi.com/news/im-theme-ing-of-a-dark-christmas/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/im-theme-ing-of-a-dark-christmas/">Save to Pocket</a>
+</span>
+
+---
+
+## NaNoWriMo Is Disintegrating
+
+date: 2023-12-06, from: Jessica Smith's blog
+
+<p>One of my guilty pleasures over the past few weeks has been frequenting the NaNoWriMo forums and reading all the posts about what an unmitigated clusterfuck that organisation has become.</p>
+<p>For some background: I first did NaNoWriMo when I had <em>just</em> turned 13, in 2005. I loved the experience, the encouragement to &ldquo;just get it written&rdquo;, the creative experimentation (I didn&rsquo;t have a well thought-out idea going in, so I let the draft take its own direction – it ended up messy and unsalvageable, but so much fun to write!), and of course the forums, where I learnt so much about the craft of writing along with enjoying the more &ldquo;silly&rdquo; posts. I did NaNoWriMo every year up until I finished my bachelor&rsquo;s degree. After that I got too busy to do it every year, but I still did it a few times more, most recently <a href="https://www.jayeless.net/2022/10/nanowrimo-idea.html" title="my blog post from last year where I announced what I planned to do for NaNoWriMo">last year</a>. I&rsquo;d chosen to sit this year out before the current storm broke.</p>
+<p>So, regardless of me not attempting the challenge this year, I did see <a href="https://wandering.shop/@greene/111394641333446828" title="Post by @greene@wandering.shop on 12 Nov 2023">a Mastodon post<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> linking to <a href="https://twitter.com/Arumi_kai/status/1722007756058574916" title="Twitter thread by @Arumi_kai on 8 Nov 2023">a Twitter thread<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> which made a bombshell allegation about the organisation. Specifically, it&rsquo;s alleged that an extremely active moderator may have been using her position to funnel teenagers into an &ldquo;age play&rdquo; fetish website she was heavily involved in, and was also allegedly inviting adults from that website to interact with teens on the NaNoWriMo forums. The NaNoers who uncovered this were infuriated by NaNoWriMo HQ&rsquo;s reaction, which was to <em>say</em> they&rsquo;d investigate, and then&hellip; do absolutely nothing, at least outwardly. The moderator was <em>later</em> de-modded, and a few months later than that banned from the forums, but both those things had nothing to do with the allegations. (The de-modding was for misusing moderator powers and the banning was for making threats against HQ&rsquo;s hosting contract for their forums on Discourse, iirc.) On top of this, the fetish website seemed to have caught wind of the allegations too, because they went dark and started scrubbing <em>their</em> site of submissions. Did HQ&rsquo;s investigation amount to nothing more than asking the moderator, &ldquo;Hey, did you do this?&rdquo; That would seem insane, but the lack of satisfactory response had people speculating.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>In early November, unsatisfied NaNoers sent an email to the organisation&rsquo;s Board of Directors detailing the issue. The Board of Directors moved in and largely shut down the forums, leaving only a couple of threads open for the specific purpose of communicating with challenge participants about the issues and the Board&rsquo;s response. In fact, as of a day or two ago the forums are now frozen entirely, with the Board having decided it got too unwieldy to keep up with the two threads they&rsquo;d left. And, to be fair, having read <em><strong>THOUSANDS</strong></em> of posts over the last few weeks about everything that&rsquo;s gone wrong&hellip; there are a <em>ton</em> of issues with that organisation, to the point that I&rsquo;m not sure shutting it all down is the wrong decision, much as I&rsquo;m filled with warm fuzzy feelings for the NaNo I participated in as a teen.</p>
+<p>The biggest issue, at least to me, is that NaNoWriMo has long had a toxic attitude of &ldquo;no one can be excluded&rdquo; and &ldquo;everyone has a story to tell&rdquo;. One haunting example of the way this played out in practice was detailed by a former <abbr title="Municipal Liaison">ML</abbr> (that&rsquo;s a volunteer who, among other things, organises in-person meet-ups in their local region) in <a href="https://forums.nanowrimo.org/t/board-response-overview-pausing-the-forums/579464/3118">this post<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a>, which I&rsquo;m going to quote below because I believe that link requires you to be logged in to view it:</p>
+<blockquote>
+<p>In 2012 (might have been 2011) I had an adult participant explain the explicit omegaverse erotica that she was writing to a 14 year old. She then left her laptop open to go and get a drink, with the instruction “i’m not telling you to read it, but I’m not <em>not</em> telling you that, and if I just leave my laptop open and you <em>happen</em> to see it, there’s nothing wrong with that, is there?”</p>
+<p>The teenager approached me before NaNo the next year and told me about this. She said that it made her extremely uncomfortable and that the adult participant had spent a lot of time telling her how clever she (the teen) was, how she was more mature than other teens, and how other adults just didn’t understand. Which is all classic grooming. The teen asked if this person was going to be at events that year, because she didn’t want to see her again.</p>
+<p>I contacted HQ (I think it would have been Paige Knorr back then?) with this, and asked if they would back me up if I told this person that they were no longer welcome at our events.</p>
+<p>The response I got was that not only would they not back me up, I was <em>not allowed</em> to ban this person from our events because they had to be held in a public space and be open to <em>anyone</em> who wanted to come and write.</p>
+<p>She came back, the teenager never came to another in-person event.</p>
+<p>The adult in question came back, and that year groomed and sexually assaulted a 17-year-old who she met at our events. I didn’t learn about this until several months afterwards. I once again contacted HQ, and was told that I still couldn’t ask her to stay away from our region because the incident took place <em>after</em> our event and we weren’t allowed to ban people based on behaviour outside the scope of our events (sound familiar, anyone?).</p>
+<p>I then posed the question:</p>
+<p>If the abusive ex of one of our wrimos turned up at an event, with the apparent intent to write with us, could I ask <em>them</em> to leave?</p>
+<p>Once again the answer was no, unless there was evidence of a police report, or the ex became abusive <em>during the event</em>. It was heavily implied that the victim ought to leave if they were uncomfortable.</p>
+<p>I was 22, I had no training in how to handle this kind of thing, and I received the <em>opposite</em> of support. Having heard stories from other MLs I am convinced that the only reason I was not removed from the position is that I chose not to fight them.</p>
+<p>I still, and probably always will, regret trusting HQ in that matter instead of my own instincts. <em>A teenager was abused</em> because I trusted them, and not myself.</p>
+</blockquote>
+<p>In the last few days before the forum closure, there had been <strong>so many</strong> complaints about the way the <abbr title="Municipal Liaison">ML</abbr> program had been run. A number of <abbr title="Municipal Liaisons">MLs</abbr> said that NaNoWriMo HQ gave them pretty much no support, basically just some free stickers. If you believe the account of the volunteer I quoted, they admonished <abbr title="Municipal Liaisons">MLs</abbr> to allow predators at events. Others reported that HQ didn&rsquo;t really care if <abbr title="Municipal Liaisons">MLs</abbr> were themselves bullies or harassers, either. My own region, Melbourne, had <strong>no</strong> <abbr title="Municipal Liaisons">MLs</abbr> this year because one of the three there had been alleged that another one bullied them, and rather than trying to get to the bottom of the issue, NaNoWriMo HQ just removed them both for being unable to get along. Then a few days before November, they removed the last one left for taking sides in that conflict. A number of other <abbr title="Municipal Liaisons">MLs</abbr> and ex-<abbr title="Municipal Liaisons">MLs</abbr>, from different regions, reported that this was HQ&rsquo;s standard strategy for dealing with reports of inter-<abbr title="Municipal Liaison">ML</abbr> bullying: to tell the victim, &ldquo;Just get along, and if you can&rsquo;t, we&rsquo;ll remove you.&rdquo;</p>
+<p>To be fair, the coordinator of the <abbr title="Municipal Liaison">ML</abbr> program has something like 800 <abbr title="Municipal Liaisons">MLs</abbr> to try to manage, which is probably beyond the ability of a single person. However, this is <em>another</em> complaint: the organisation&rsquo;s resources are laughably inadequate for everything they want to do. They have something like eight employees, many of which are not even full-time, and are <em>absolutely dependent</em> on volunteer labour – <abbr title="Municipal Liaisons">MLs</abbr> and forum moderators – for their core programs. The Board hinted, in one of their posts in the last few weeks, that they might just shut the forum and <em>only</em> have the <abbr title="Municipal Liaison">ML</abbr> program, as a better use of limited resources. This made quite a lot of NaNoers pretty mad, because while the forum needs a lot more moderators than the 10 or so that HQ has, from ~2019 till now, been willing to have, it probably doesn&rsquo;t need <em>eight hundred</em>. And if the concern is that the forums are unsafe for minors, well, the reason why the <abbr title="Municipal Liaison">ML</abbr> I quoted shared her story was to point out that HQ can&rsquo;t guarantee – and didn&rsquo;t seem like they cared too much about – minors&rsquo; safety at in-person gatherings either.</p>
+<p>Another issue with the <abbr title="Municipal Liaison">ML</abbr> program has been the &ldquo;unofficially official&rdquo; Discord that the NaNoWriMo HQ uses to communicate with <abbr title="Municipal Liaisons">MLs</abbr>. Because it&rsquo;s &ldquo;unofficial&rdquo;, <abbr title="Municipal Liaisons">MLs</abbr> aren&rsquo;t actually required to be members of it, and the Discord admin (who is not affiliated with HQ, because like I said, &ldquo;unofficial&rdquo;) is able to throw her weight around and bully <abbr title="Municipal Liaisons">MLs</abbr> who don&rsquo;t adhere to the culture she&rsquo;s decided she wants there, which is one of toxic positivity, arse-kissing of HQ, and sharing screenshots to mock ordinary NaNo participants who have criticisms of the way the organisation&rsquo;s been doing things. (Apparently open transphobia is acceptable, though.) <strong>However</strong>, this Discord has become literally the only place <abbr title="Municipal Liaisons">MLs</abbr> can ask questions of the <abbr title="Municipal Liaison">ML</abbr> program coordinator and have them answered in any kind of timely fashion. Apparently she&rsquo;s glacially slow replying to emails. She also forgets to post updates in the dedicated subforum that&rsquo;s supposed to be used to share info with <abbr title="Municipal Liaisons">MLs</abbr>, so being a member of the Discord is basically required for <abbr title="Municipal Liaisons">MLs</abbr> who want to stay up-to-date with wtf is going on.</p>
+<p>But with all of that said, the bulk of the complaints have been to do with the mismanagement and poor moderation of the forum. The NaNoWriMo forums have one paid &ldquo;lead moderator&rdquo; – which is only a part-time position – and a number of volunteer moderators. Apparently they lost a huge number of volunteer moderators when they migrated from their own bespoke software to Discourse in 2019, and they&rsquo;ve just&hellip; not replaced them. Or not at anywhere a 1:1 ratio. There was a comment somewhere that they couldn&rsquo;t take on more volunteer moderators because they give each of them a $100 gift card each year as a thank-you, and the budget only extends to ten gift cards, an explanation which <strong>exasperated</strong> the people who were adamant they&rsquo;d volunteer to help moderate if it&rsquo;d get the forums back on track, and they didn&rsquo;t care about damn gift cards. So anyway, because of the dire shortage of moderators, what moderation there <em>has</em> been has been inconsistent, heavy-handed against critics of the organisation, and way too permissive of a certain contingent who&rsquo;ve allegedly been posting homophobic and transphobic bullshit, along with loads of Bible quotes and &ldquo;Christian only&rdquo; threads to try to make non-Christian users feel unwelcome.</p>
+<p>Like I said, I&rsquo;ve read thousands of posts, and there have been loads of controversies. One of the biggest (aside from the current &ldquo;moderator may have been luring teens to a fetish site&rdquo; one) involved an active, high-profile moderator (and the former lead moderator) stepping down after it was revealed she&rsquo;d made a racist comment about the <em>new</em> lead moderator. People were angry about the racism, but also angry that the context indicated there was a broader culture of racism at NaNoWriMo HQ that was going unaddressed in favour of offering up &ldquo;the one who got caught&rdquo; as a sacrificial lamb. (btw, the Black lead moderator was abruptly placed on &ldquo;administrative leave&rdquo; about a month later.) Another huge incident occurred around the time of last year&rsquo;s NaNoWriMo challenge, when the organisation accepted a sponsorship from <a href="https://writerbeware.blog/2016/04/29/spam-spam-spam-spam-inkitt-and-the-grand-novel-contest/" title="Post on the Writer Beware blog about Inkitt&#39;s shadiness">Inkitt, a highly disreputable &ldquo;publisher&rdquo;<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a>. NaNo participants tried to raise the alarm, and found their posts heavily suppressed and hidden from public view. NaNo actually issued an apology <em>to Inkitt</em> before the backlash became so huge that they were forced into an about-face. A moderator was let go. While the userbase &ldquo;won&rdquo; this time, this pretty much set the template for how HQ would react to every controversy thereafter: with heavy-handed silencing and, often, unprofessional arguing with users. This was also their initial response to the current controversy over minors being groomed on their site, before the Board stepped in.</p>
+<p>I think the Inkitt deal is symptomatic of a broader shift in NaNoWriMo the organisation&rsquo;s sense of purpose: where once they saw it as their primary mission to run an annual novel-writing challenge, now they see it as their primary mission to solicit donations. I&rsquo;m sure everyone else who&rsquo;s got NaNoWriMo emails in their inbox for years on end, like I have, has noticed the transition over time. Where once HQ sent out whimsical &ldquo;pep talks&rdquo;, now they just send out endless requests for me to give them money. Sometimes this is under the guise of requesting me to buy merch from their store (extremely <em>expensive</em> merch where the shipping costs as much as the products themselves somehow!)<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>, and other times it&rsquo;s tone-deaf demands for cash money. &ldquo;A donation as small as $25&hellip;&rdquo; Like seriously, you think I&rsquo;m giving AUD$42 to a silly writing challenge? There was even a much-panned slideshow that got leaked where NaNoWriMo HQ were strategising about how they could convince people living below the poverty line to donate to their organisation.</p>
+<p>So how much money does NaNoWriMo bring in, and where does it all go? Well, they&rsquo;re a registered not-for-profit in the US, so a certain amount is public knowledge. <a href="https://s3.amazonaws.com/files.wordpress.nanowrimo.org/wp-content/uploads/2023/11/02133918/2022-Tax-Return-Documents-National-Novel-Writing-990-PUBLIC-FILE-COPY.pdf">As per their most recent 990 filing<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a>, in the last financial year, they took in US$1,158,793 in total revenue, of which they spent $902,164 on employee compensation. <em>All</em> their other expenses put together were less than half that, at $437,577. Their &ldquo;information technology&rdquo; expenses – which I assume includes what I think of as their core task, running the website and forums – were $49,087. The vast majority of their revenue ($859,397) came from donations, with most of the remainder ($255,749) coming from merchandise sales, and a curious $36,646 from &ldquo;affiliate fees&rdquo;. The organisation doesn&rsquo;t seem to get any grants or anything, it&rsquo;s mostly all just donations and merch sales. Which I guess helps to explain the aggressive email campaigns. I swear, over the first weekend of November <em>alone</em>, I got more than a dozen emails from them begging for money.</p>
+<p>So: where to for NaNoWriMo next? The sad truth is, I find it hard to see how <em>any</em> of this situation is salvageable. People were quipping about how NaNoWriMo without the forums (which the Board seems to want to dump) and the <abbr title="Municipal Liaison">ML</abbr> program (which seems especially unsalvageable) is basically just &ldquo;a hashtag and a coupon&rdquo;, and that&rsquo;s about the sum of it. The Board of Directors has stepped in now to save the organisation, but I&rsquo;m just asking myself what&rsquo;s left that&rsquo;s worth saving. The <em>organisation</em> doesn&rsquo;t need to exist for people to challenge themselves to write 50,000 words in November, or track their word counts, or talk to other writers online, or to meet with other writers in their local area. Dare I say that other spaces where writers congregate are likely to have healthier cultures and saner rules than &ldquo;well, so long this person didn&rsquo;t perpetrate their sexual assault of a teen <em>actually at</em> the NaNoWriMo event, you can&rsquo;t ban them from any future ones&rdquo;. Perhaps the collapse of NaNoWriMo as a not-for-profit, and future existence as an idea (and a hashtag), would actually be best for it. The whimsy and fun of the challenge didn&rsquo;t come from HQ (well, the founders might have set the tone, but then they moved on); it was the participants who made that, and the participants can again, with safe and encouraging spaces to congregate. Volunteers were running such spaces on behalf of HQ anyway, and their work might actually become <em>easier</em> without all the overhead of HQ&rsquo;s bad choices.</p>
+<p>Now, you might well point out that if NaNoWriMo can&rsquo;t guarantee minors&rsquo; safety on their own website (and the dedicated <abbr title="Young Writers Program">YWP</abbr> website has its own multitude of issues<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup>), they&rsquo;re not going to be any <em>better</em> at guaranteeing it if participants scatter to the four winds. And I mean, this is true, but the truth is that <em>no space</em> can be 100% guaranteed to be safe for young people – not even with compulsory background checks for volunteers, because so many creeps fly under the radar of the authorities – and with all the stories coming out over the last few weeks, you&rsquo;d be hard-pressed to say NaNoWriMo has made an absolute best-faith effort. There must be other writing communities on the internet doing a better job. I also think, <em>along with</em> forum admins &amp; moderators making those best-faith efforts, kids themselves have to be educated about internet safety, and really should have trusted adults IRL (preferably their parents) that they can use as a sounding board when things feel off and they need guidance. I know not all kids have parents who can be reasoned with, and I think this has been a particular problem for the NaNoWriMo site – it seems to have a relatively large contingent of teenage users who aren&rsquo;t really allowed on social media, but their parents let them go on NaNoWriMo because they think it&rsquo;s an educational site. I don&rsquo;t think there are any easy answers for those kids, unfortunately.</p>
+<p>While no one – not even the Board at this stage – knows what NaNoWriMo&rsquo;s going to look like in 2024 and beyond, it really feels like this is the end of the road for NaNoWriMo as we&rsquo;ve known it. If the organisation itself survives, it seems clear that there&rsquo;ll be a lot of drastic changes between this year and the next, and that&rsquo;s a big &ldquo;if&rdquo; in the first place. Of course, you can write and indulge your creativity without a specific challenge to complete 50,000 words in November&hellip; but there&rsquo;s a reason so many of us <em>have</em> taken part in the challenge and look back on it with fondness. It&rsquo;s a crying shame that it&rsquo;s come to this. But we don&rsquo;t <em>need</em> NaNoWriMo to be enthusiastic about our writing and share in that creative joy together. And certainly, as far as the official organisation behind the challenge is concerned, it seems like time to let it go.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Incidentally, it&rsquo;s alleged this is not even the first time a NaNoWriMo moderator has groomed teenage participants. If you are logged into the NaNoWriMo forums, <a href="https://forums.nanowrimo.org/t/nanowrimo-forum-mod-drama-is-nothing-new-a-story-from-nanowrimo-history-the-mod-that-liked-to-write-explicit-content-with-children/544216">this is another report<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> from a former participant who said that in the late 2000s, a moderator was inappropriate with teenagers and engaged in sexually explicit roleplay with a 15-year-old. She reportedly wasn&rsquo;t banned or even de-modded, either.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>I mean, to be fair, I could understand the merch being pricey-ish because it exists for fundraising. The <em>shipping</em> being so expensive was a kick in the teeth though. So many other online stores have solved this problem. But I digress, since at this point I don&rsquo;t think anyone should be buying NaNoWriMo merch anyway.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3">
+<p>I understand <a href="https://speak-out.carrd.co/">this website<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> was made by a bunch of the <abbr title="Young Writers Program">YWP</abbr> users to publicise their issues with the way NaNoWriMo was being run. I&rsquo;m not sure all the issues there relate strictly to the <abbr title="Young Writers Program">YWP</abbr> site because there&rsquo;s a lot of crossover, but I&rsquo;ve certainly also seen posts on the main forum from <abbr title="Young Writers Program">YWP</abbr> users reporting that their forums are often left pretty much unmoderated, with the kids left with no recourse but to try to bully creeps off the forum.&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+<span class="feed-item-link">
+<a href="https://www.jayeless.net/2023/12/nanowrimo-is-disintegrating.html">https://www.jayeless.net/2023/12/nanowrimo-is-disintegrating.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jayeless.net/2023/12/nanowrimo-is-disintegrating.html">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2023-12-06, from: Miguel de Icaza Mastondon feed)
+
+<p>I often think of the corporate expression “they have conviction and are not confused”</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111531604315221536">https://mastodon.social/@Migueldeicaza/111531604315221536</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111531604315221536">Save to Pocket</a>
+</span>
+
+---
+
+## Windows 10 gets three more years of security updates, if you can afford them
+
+date: 2023-12-06, from: OS News
+
+Windows 10&#8217;s end-of-support date is October 14, 2025. That&#8217;s the day that most Windows 10 PCs will receive their last security update and the date when most people should find a way to move to Windows 11 to ensure that they stay secure. As it has done for other stubbornly popular versions of Windows, though, Microsoft is offering a reprieve for those who want or need to stay on Windows 10: three additional years of security updates, provided to those who can pay for the Extended Security Updates (ESU) program. ↫ Andrew Cunningham for Ars Technica Getting users to upgrade from Windows 10 to 11 at that point isn&#8217;t going to be easy, because at this point Windows 10 users who can technically upgrade are clearly not doing so for a reason. I also wonder what this will mean for the large number of Windows 10 users who simply cannot upgrade because they have a processor that&#8217;s artificially restricted from running Windows 11.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138013/windows-10-gets-three-more-years-of-security-updates-if-you-can-afford-them/">https://www.osnews.com/story/138013/windows-10-gets-three-more-years-of-security-updates-if-you-can-afford-them/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138013/windows-10-gets-three-more-years-of-security-updates-if-you-can-afford-them/">Save to Pocket</a>
+</span>
+
+---
+
+## Firefox on the brink?
+
+date: 2023-12-06, from: OS News
+
+A somewhat obscure guideline for developers of U.S. government websites may be about to accelerate the long, sad decline of Mozilla’s Firefox browser. There already are plenty of large entities, both public and private, whose websites lack proper support for Firefox; and that will get only worse in the near future, because the ’fox’s auburn paws are perilously close to the lip of the proverbial slippery slope. ↫ Bryce Wray US government guidelines say that US government websites only need to be tested on browsers with more than 2% market share &#8211; and Firefox is getting perilously close to that threshold. While it won&#8217;t kill Firefox overnight, it would definitely make Firefox progressively more cumbersome to use for American users, and could have ripple effects elsewhere.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138011/firefox-on-the-brink/">https://www.osnews.com/story/138011/firefox-on-the-brink/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138011/firefox-on-the-brink/">Save to Pocket</a>
+</span>
+
+---
+
+## HP Smart is auto installing on Windows 11 and Windows 10 on non HP-machines
+
+date: 2023-12-06, from: OS News
+
+According to our tests and reports seen by us, HP Smart is auto-installing on all versions of Windows that use Microsoft Store, including Windows 11 23H2 or 22H2. HP Smart is an app that allows you to manage HP printers, and it’s typically pre-installed on HP PCs. It’s not supposed to be installed when you’re not using an HP device like a PC or printer. However, the Microsoft Store is auto-installing the “HP Smart” app on Windows installations. ↫ Mayank Parmar for Windows Latest Microsoft is giving away free applications to Windows users the world over, and even installing it for them! What a nice, altruistic gesture. I feel all warm and fuzzy inside.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138007/hp-smart-is-auto-installing-on-windows-11-and-windows-10-on-non-hp-machines/">https://www.osnews.com/story/138007/hp-smart-is-auto-installing-on-windows-11-and-windows-10-on-non-hp-machines/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138007/hp-smart-is-auto-installing-on-windows-11-and-windows-10-on-non-hp-machines/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -18,6 +648,178 @@ Schepers, Névine
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/645443">http://hdl.handle.net/20.500.11850/645443</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/645443">Save to Pocket</a>
+</span>
+
+---
+
+## Updates on trademark actions against the PostgreSQL community
+
+date: 2023-12-06, from: PostgreSQL News
+
+<p>The PostgreSQL Community Association wishes to provide an update on trademark actions that were taken by Fundación PostgreSQL. </p>
+<p>On November 17, 2023, the PostgreSQL Community Association, PostgreSQL Europe, and Fundación PostgreSQL reached a settlement on all outstanding trademark issues. Fundación PostgreSQL has surrendered all trademarks and entered into a trademark license with the PostgreSQL Community Association. </p>
+<p>All three organizations are pleased to have reached an amicable resolution, and all will continue to work on activities to help grow the PostgreSQL community.</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/updates-on-trademark-actions-against-the-postgresql-community-2762/">https://www.postgresql.org/about/news/updates-on-trademark-actions-against-the-postgresql-community-2762/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/updates-on-trademark-actions-against-the-postgresql-community-2762/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-05, from: Dave Winer's Scripting News)
+
+We're thinking about different ways to render art. For example, <a href="https://feedland.com/?river=true&screenname=davewiner&catname=art">this is news</a> from my Art category. I could see this kind of timeline feeding another kind of image viewer app, maybe something running on a kiosk or in a store window.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/05.html#a210008">http://scripting.com/2023/12/05.html#a210008</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/05.html#a210008">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-05, from: Dave Winer's Scripting News)
+
+BTW, we care when an item changes, so if we see the text has changed, or a link has been added, or an image enclosure, we update the database and update the rendering on-screen.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/05.html#a205748">http://scripting.com/2023/12/05.html#a205748</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/05.html#a205748">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-05, from: Dave Winer's Scripting News)
+
+If you've been reading <a href="http://news.scripting.com/">news.scripting.com</a> and only want one panel (as some people do), you can bookmark just that panel. For example, this is the <a href="https://feedland.com/?river=true&screenname=davewiner&catname=tech">link</a> for my Tech news category. Or the Bloggers tab on Scripting News can be accessed directly in FeedLand <a href="https://feedland.com/?river=true&screenname=davewiner&catname=bloggers">like this</a>. "By category" is just one way FeedLand can display a timeline of news.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/05.html#a204943">http://scripting.com/2023/12/05.html#a204943</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/05.html#a204943">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-05, from: Dave Winer's Scripting News)
+
+<a href="https://feedland.com/?river=true&screenname=davewiner">This is how I read my news</a>. In FeedLand most pages are public.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/05.html#a201110">http://scripting.com/2023/12/05.html#a201110</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/05.html#a201110">Save to Pocket</a>
+</span>
+
+---
+
+## “Not consistently candid”
+
+date: 2023-12-05, from: Gary Marcus blog
+
+Maybe OpenAI&#8217;s board had a point, after all
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/not-consistently-candid">https://garymarcus.substack.com/p/not-consistently-candid</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/not-consistently-candid">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2023-12-05, from: Miguel de Icaza Mastondon feed)
+
+<p>First meeting of the Boston Godot Users Group is next week at the Microsoft NERD center.</p><p>Come and join us!</p><p><a href="https://www.meetup.com/bostongamedev/events/297776448" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">meetup.com/bostongamedev/event</span><span class="invisible">s/297776448</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111529380740822501">https://mastodon.social/@Migueldeicaza/111529380740822501</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111529380740822501">Save to Pocket</a>
+</span>
+
+---
+
+## Most readers want publishers to label AI-generated articles — but trust outlets less when they do
+
+date: 2023-12-05, from: Nieman Journalism Lab
+
+An overwhelming majority of readers would like news publishers to tell them when AI has shaped the news coverage they&#8217;re seeing. But, new research finds, news outlets pay a price when they disclose using generative AI. That’s the conundrum at the heart of new research from University of Minnesota’s Benjamin Toff and Oxford Internet Institute’s...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/most-readers-want-publishers-to-label-ai-generated-articles-but-trust-outlets-less-when-they-do/">https://www.niemanlab.org/2023/12/most-readers-want-publishers-to-label-ai-generated-articles-but-trust-outlets-less-when-they-do/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/most-readers-want-publishers-to-label-ai-generated-articles-but-trust-outlets-less-when-they-do/">Save to Pocket</a>
+</span>
+
+---
+
+## Filmic’s Entire Staff Laid Off
+
+date: 2023-12-05, from: Michael Tsai
+
+Jaron Schneider (Hacker News): Filmic, or FiLMiC as written by the brand, no longer has any dedicated staff as parent company Bending Spoons has laid off the entire team including the company&#8217;s founder and CEO, PetaPixel has learned.[&#8230;]Considered for years as the best video capture application for mobile devices, the team behind Filmic Pro and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/05/filmics-entire-staff-laid-off/">https://mjtsai.com/blog/2023/12/05/filmics-entire-staff-laid-off/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/05/filmics-entire-staff-laid-off/">Save to Pocket</a>
+</span>
+
+---
+
+## Ads When You Start Your Fire TV
+
+date: 2023-12-05, from: Michael Tsai
+
+Luke Bouma (Hacker News): Amazon is adding full-screen video ads that will play when you start your Fire TV unless you quickly perform an action on it.This new update will be rolling out to all Fire TVs made in 2016 or newer. With this update, the ad at the top of your Fire TV will [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/05/ads-when-you-start-your-fire-tv/">https://mjtsai.com/blog/2023/12/05/ads-when-you-start-your-fire-tv/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/05/ads-when-you-start-your-fire-tv/">Save to Pocket</a>
+</span>
+
+---
+
+## Slower Chrome Extension Updates
+
+date: 2023-12-05, from: Michael Tsai
+
+Ron Amadeo (via Hacker News): Google&#8217;s war on ad blockers is just gearing up, with YouTube doing its best to detect and block ad blockers and Chrome aiming to roll out the ad block-limiting Manifest V3 extension platform in June 2024. A new article from Engadget detailing the &#8220;arms race&#8221; over ad blocking brings up [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/05/slower-chrome-extension-updates/">https://mjtsai.com/blog/2023/12/05/slower-chrome-extension-updates/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/05/slower-chrome-extension-updates/">Save to Pocket</a>
+</span>
+
+---
+
+## Keyboard Cowboy 3.19
+
+date: 2023-12-05, from: Michael Tsai
+
+Christoffer Winterkvist (Reddit): With Keyboard Cowboy, users can automate repetitive actions, launch applications and scripts, control system settings, manipulate files and folders, and perform a wide range of actions &#x2013; all without ever having to take their hands off the keyboard. [&#8230;] Automating workflows by triggering them through application events, such as opening, switching, or [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/05/keyboardcowboy-3-19/">https://mjtsai.com/blog/2023/12/05/keyboardcowboy-3-19/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/05/keyboardcowboy-3-19/">Save to Pocket</a>
+</span>
+
+---
+
+## Castro May Be Dying
+
+date: 2023-12-05, from: Michael Tsai
+
+Jason Snell: The cloud database that backs the service is broken and needs to be replaced. As a result, the app has broken. (You can&#8217;t even export subscriptions out of it, because even that function apparently relies on the cloud database.) &#8220;The team is in the progress of setting up a database replacement, which might [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/05/castro-may-be-dying/">https://mjtsai.com/blog/2023/12/05/castro-may-be-dying/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/05/castro-may-be-dying/">Save to Pocket</a>
+</span>
+
+---
+
+## iMessage Contact Key Verification
+
+date: 2023-12-05, from: Michael Tsai
+
+macOS 14.2 Beta: With iMessage Contact Key Verification, users can choose to further verify that they are messaging only with the people they intend. iMessage Contact Key Verification uses Key Transparency to enable automatic verification that the iMessage key distribution service returns device keys that have been logged to a verifiable and auditable map. When [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/05/imessage-contact-key-verification/">https://mjtsai.com/blog/2023/12/05/imessage-contact-key-verification/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/05/imessage-contact-key-verification/">Save to Pocket</a>
+</span>
+
+---
+
+## Portable Legacy – Part 2
+
+date: 2023-12-05, from: Tilde.news
+
+<p><a href="https://tilde.news/s/ylfzhv/portable_legacy_part_2">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.geeklan.co.uk/?p=3246">https://www.geeklan.co.uk/?p=3246</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.geeklan.co.uk/?p=3246">Save to Pocket</a>
 </span>
 
 ---
@@ -333,6 +1135,50 @@ SQL queries need to be optimized.</p>
 
 <span class="feed-item-link">
 <a href="https://www.postgresql.org/about/news/pgbadger-v123-released-2758/">https://www.postgresql.org/about/news/pgbadger-v123-released-2758/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pgbadger-v123-released-2758/">Save to Pocket</a>
+</span>
+
+---
+
+## Greenmask Beta Release
+
+date: 2023-12-05, from: PostgreSQL News
+
+<h2>PostgreSQL Dump and Obfuscation Tool</h2>
+<p>We are thrilled to announce the first beta release of Greenmask, an innovative open-source utility designed for PostgreSQL logical backup dumping, obfuscation, and restoration. This tool is a significant addition to the PostgreSQL "family" news, aligning with the PostgreSQL community's interest in related open-source projects.</p>
+<h3>Key Features</h3>
+<ul>
+<li><strong>Cross-Platform Support:</strong> Developed in Go, Greenmask is free of platform dependencies.</li>
+<li><strong>Type-Safe Database Operations:</strong> Ensures data validation and encoding, maintaining integrity.</li>
+<li><strong>Transformation Validation:</strong> Guarantees correct and maintainable data transformations.</li>
+<li><strong>Partitioned Table Support:</strong> Eases configuration for partitioned tables.</li>
+<li><strong>Stateless and Backward Compatible:</strong> Compatible with standard PostgreSQL utilities.</li>
+<li><strong>Parallel Execution:</strong> Boosts efficiency in dumping and restoration processes.</li>
+<li><strong>Multiple Storage Options:</strong> Offers support for both local and remote storage solutions.</li>
+</ul>
+<h3>Use Cases</h3>
+<ul>
+<li>Perfect for routine backup and restoration tasks.</li>
+<li>Aids in anonymization and data masking for staging environments and analytics.</li>
+</ul>
+<h3>Our Vision</h3>
+<ul>
+<li>Greenmask aims to be a key component in managing obfuscation processes, with plans for a future UI-based solution.</li>
+</ul>
+<h3>Compatibility</h3>
+<ul>
+<li>Compatible with PostgreSQL version 11 and higher.</li>
+</ul>
+<h3>Community Participation</h3>
+<p>As this is a beta release, we highly value feedback and suggestions from the PostgreSQL community. Your insights and testing are crucial for enhancing Greenmask's robustness and utility.</p>
+<h3>Useful Links</h3>
+<ul>
+<li><a href="https://greenmask.io/">Documentation</a></li>
+<li><a href="https://github.com/GreenmaskIO/greenmask/releases/tag/v0.1.0-beta">Release on GitHub</a></li>
+<li><a href="mailto:support@greenmask.io">Email Support</a></li>
+</ul>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/greenmask-beta-release-2761/">https://www.postgresql.org/about/news/greenmask-beta-release-2761/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/greenmask-beta-release-2761/">Save to Pocket</a>
 </span>
 
 ---
