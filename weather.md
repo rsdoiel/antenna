@@ -1,11 +1,198 @@
 ---
 title: weather 2023.49
-updated: 2023-12-06 16:57:22
+updated: 2023-12-07 11:20:15
 ---
 
 # weather 2023.49
 
-(date: 2023-12-06 16:57:22)
+(date: 2023-12-07 11:20:15)
+
+---
+
+## SPC - No watches are valid as of Thu Dec  7 17:44:02 UTC 2023
+
+date: 2023-12-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu Dec  7 17:44:02 UTC 2023.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No MDs are in effect as of Thu Dec  7 17:44:02 UTC 2023
+
+date: 2023-12-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu Dec  7 17:44:02 UTC 2023.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Dec 7, 2023 1730 UTC Day 2 Convective Outlook
+
+date: 2023-12-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+Issued by 15th OWS Scott Air Force Base IL
+1110 AM CST Thu Dec 07 2023
+
+Valid 081200Z - 091200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS NORTHEAST
+TX TO AR AND SOUTHERN MO...
+
+...SUMMARY...
+Isolated severe hail will be possible late night Friday from
+northeast Texas and southeast Oklahoma through central Arkansas and
+southwest Missouri.
+
+...Synopsis...
+Guidance has clearly trended over the past 36 hours to multiple
+distinct shortwave impulses ejecting within the broad upper trough
+over the western and central states. The lead impulse in the Four
+Corners area at 12Z Friday will amplify across the central Great
+Plains towards the Mid-MS Valley. Meanwhile, a secondary impulse and
+attendant speed max will hold back within the basal portion of the
+broad trough over the Four Corners. The net result will be more
+prominent surface cyclogenesis occurring ahead of the lead wave,
+mainly on Friday night across the Lower MO Valley towards southern
+Lake MI. A surface cold front will sweep more rapidly east in
+vicinity of the cyclone track, and slow its southeast push across
+the southeast OK/Ark-La-Tex area late in the period.
+
+...Northeast TX to AR/Southern MO...
+The aforementioned synoptic trends suggest that forcing for ascent
+appears to be limited across the modifying warm sector from east TX
+towards the Ozarks on Friday night. Timing of the wave ejections
+indicate near-neutral mid-level height change is anticipated
+overnight in this region. With substantial modification necessary of
+the continental polar air mass that is across the northwest Gulf
+coast, more than meager surface-based instability will likely
+struggle to advect north to/beyond the Ozarks. Within a
+southwesterly low to mid-level flow regime, moderate MLCIN and low
+RH above the capping inversion suggest that warm-sector thunderstorm
+initiation ahead of the cold front is unlikely through 12Z Saturday.
+Low-level warm theta-e advection could still be adequate for
+isolated slightly elevated thunderstorms centered on the southeast
+OK/Ark-La-Tex region deeper into AR overnight, with a primary threat
+of localized severe hail.
+
+..15_ows.. 12/07/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2023-12-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1058 AM CST Thu Dec 07 2023
+
+Valid 071700Z - 081200Z
+
+...NO CRITICAL AREAS...
+
+No changes. See previous discussion below.
+
+..Bentley.. 12/07/2023
+
+.PREV DISCUSSION... /ISSUED 1227 AM CST Thu Dec 07 2023/
+
+...Synopsis...
+A belt of strong mid-level westerly flow will move across the
+Rockies today which will result in development of a surface cyclone
+across central Plains late in the period. Dry and warm westerly
+downslope flow will increase across portions of the Southern Plains.
+Afternoon relative humidity reductions to around 15 percent will
+overlap sustained winds at 15-20 mph across portions of eastern New
+Mexico into the Texas and Oklahoma Panhandles and extending as far
+north as the southeast plains of Colorado. Fuels within this region
+are largely near normal moisture and only marginally receptive to
+spread. Locally Elevated fire weather conditions will be possible in
+areas where fine fuels have cured and become dormant.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Dec 7, 2023 1630 UTC Day 1 Convective Outlook
+
+date: 2023-12-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+Issued by 15th OWS Scott Air Force Base IL
+1012 AM CST Thu Dec 07 2023
+
+Valid 071630Z - 081200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected through tonight.
+
+...Synopsis/Discussion...
+The mid/upper-level pattern will evolve toward a progressive,
+high-amplitude western CONUS trough through the period, as
+associated increasingly cyclonic flow is traversed by a series of
+shortwaves.  Accompanying cold midlevel air (-20 to -34 deg C)
+500-mb temperatures will spread eastward/inland across a vast
+section of the northwestern CONUS through the period, from the
+northern Great Basin northward, and the central/northern Rockies
+westward.  Mesobeta-scale shots of localized, enhanced large-scale
+lift, where moving atop pockets of marginally favorable low/middle-
+level moisture, may prompt transient bursts of shallow cells with
+very isolated/brief thunder potential, almost anywhere in that
+swath. 
+
+However, the most favorable areas for 10% or greater thunderstorm
+coverage appears to be 1) near-coastal Northwest from northern CA to
+WA, from portions of the Cascades westward, where the coldest air
+aloft will overlie the greatest low-level moisture content near its
+Pacific source, and 2) eastern OR/southwestern ID and vicinity.  A
+strong shortwave trough now nearing the coast has contributed to
+some lightning offshore and near coastal southwestern OR the last
+few hours, and that potential should continue and shift inland
+through the remainder of the morning and afternoon.  Another round
+of potential this evening may accompany a field of ascent preceding
+a perturbation now well west of Vancouver Island, and progged to dig
+southeastward toward the northern OR Coast.
+
+..15_ows.. 12/07/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -45,42 +232,6 @@ favor some risk for isolated thunderstorms.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No watches are valid as of Thu Dec  7 00:33:02 UTC 2023
-
-date: 2023-12-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Thu Dec  7 00:33:02 UTC 2023.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No MDs are in effect as of Thu Dec  7 00:33:02 UTC 2023
-
-date: 2023-12-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Thu Dec  7 00:33:02 UTC 2023.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
-</span>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2023-12-06, from: Eastern Pacific Basin GIS Data
-
-No tropical cyclones as of Wed, 06 Dec 2023 23:49:20 GMT
-
-<span class="feed-item-link">
-<a href="https://www.nhc.noaa.gov/gis/">https://www.nhc.noaa.gov/gis/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nhc.noaa.gov/gis/">Save to Pocket</a>
 </span>
 
 ---
@@ -239,121 +390,26 @@ be possible in areas where fine fuels have cured and become dormant.
 
 ---
 
-## SPC Dec 5, 2023 1730 UTC Day 2 Convective Outlook
+## CPHC Central North Pacific Outlook
 
-date: 2023-12-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-12-06, from: Graphical Tropical Weather Outlooks
 
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1125 AM CST Tue Dec 05 2023
-
-Valid 061200Z - 071200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected on Wednesday.
-
-...Synopsis...
-A midlevel trough will track eastward from the northeast Pacific
-into the northwestern CONUS, as an attendant cold front moves ashore
-over coastal Oregon and northwest California. Cold temperatures
-aloft/steepening lapse rates atop adequate boundary-layer moisture
-will yield sufficient buoyancy for embedded lightning flashes within
-a larger swath of precipitation. This activity may persist from the
-late afternoon into the overnight hours. Shallow/weak buoyancy
-should generally limit strong/severe storm potential despite a
-modest increase in low-level shear/hodograph curvature along
-immediate coastal areas late in the period. 
-
-Elsewhere, cool/stable surface conditions will limit thunderstorm
-potential.
-
-..Weinman/Mosier.. 12/05/2023
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
-
+The Central North Pacific hurricane season runs from June 1st through November 30th.
 
 <span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
+<a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac">https://www.nhc.noaa.gov/gtwo.php?basin=cpac</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nhc.noaa.gov/gtwo.php?basin=cpac">Save to Pocket</a>
 </span>
 
 ---
 
-## SPC Day 1 Fire Weather Outlook
+## The Central North Pacific hurricane season runs from June 1st through November 30th.
 
-date: 2023-12-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-12-06, from: Central Pacific Basin Tropical Cyclones
 
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1055 AM CST Tue Dec 05 2023
-
-Valid 051700Z - 061200Z
-
-...NO CRITICAL AREAS...
-
-Fire weather concerns remain minimal today. See previous discussion
-below.
-
-..Bentley.. 12/05/2023
-
-.PREV DISCUSSION... /ISSUED 1120 PM CST Mon Dec 04 2023/
-
-...Synopsis...
-An upper-level ridge will shift eastward over the Divide today. At
-the surface, high pressure will strengthen in the Plains as it moves
-southeastward with time. Surface high pressure will also remain
-within the Great Basin into the Western Slope. Fire weather concerns
-throughout the CONUS should remain low given generally unreceptive
-fuels and light winds. Some stronger offshore winds are likely in
-southern California. These winds will peak this morning before
-weakening through the day. Though fuels are not overly receptive and
-the lowest RH will not phase well with the strongest winds, locally
-elevated conditions would be possible where pockets of dry fuels
-exits within the terrain.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
-
+The Central North Pacific hurricane season runs from June 1st through November 30th.
 
 <span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Dec 5, 2023 1630 UTC Day 1 Convective Outlook
-
-date: 2023-12-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1020 AM CST Tue Dec 05 2023
-
-Valid 051630Z - 061200Z
-
-...NO THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Thunderstorm areas are not expected through early Wednesday morning.
-
-Relatively dry and stable conditions are expected to preclude
-organized lightning activity across the CONUS today.
-
-..Hart/Lyons.. 12/05/2023
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
+<a href="https://www.nhc.noaa.gov/">https://www.nhc.noaa.gov/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nhc.noaa.gov/">Save to Pocket</a>
 </span>
 
 ---
@@ -405,53 +461,6 @@ thunderstorms.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
-</span>
-
----
-
-## Central North Pacific Tropical Weather Outlook
-
-date: 2023-12-04, from: Central Pacific Basin Tropical Cyclones
-
-
-<br/>
-000<br/>
-ACPN50 PHFO 031144 CCA<br/>
-TWOCP <br/>
-<br/>
-Tropical Weather Outlook...Corrected <br/>
-NWS Central Pacific Hurricane Center Honolulu HI <br/>
-800 PM HST Thu Nov 30 2023<br/>
-<br/>
-For the central North Pacific...between 140W and 180W:<br/>
-<br/>
-No tropical cyclones are expected during the next 7 days.<br/>
-<br/>
-The central North Pacific hurricane season officially ends today, <br/>
-November 30. The is the last regularly scheduled Tropical Weather <br/>
-Outlook of the 2023 central North Pacific Hurricane Season. Routine <br/>
-issuance of the Tropical Weather Outlook will resume on June 1, <br/>
-2024. During the off-season, Special Tropical Weather outlooks will <br/>
-be issued as conditions warrant. <br/>
-<br/>
-$$<br/>
-Forecaster Bohlin<br/>
-
-
-<span class="feed-item-link">
-<a href="https://www.nhc.noaa.gov/gtwo.php?basin=cpac">https://www.nhc.noaa.gov/gtwo.php?basin=cpac</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nhc.noaa.gov/gtwo.php?basin=cpac">Save to Pocket</a>
-</span>
-
----
-
-## There are no tropical cyclones at this time.
-
-date: 2023-12-04, from: Central Pacific Basin Tropical Cyclones
-
-No tropical cyclones as of Wed, 06 Dec 2023 23:49:20 GMT
-
-<span class="feed-item-link">
-<a href="https://www.nhc.noaa.gov/">https://www.nhc.noaa.gov/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nhc.noaa.gov/">Save to Pocket</a>
 </span>
 
 

@@ -1,11 +1,38 @@
 ---
 title: columns 2023.49
-updated: 2023-12-06 16:57:22
+updated: 2023-12-07 11:20:15
 ---
 
 # columns 2023.49
 
-(date: 2023-12-06 16:57:22)
+(date: 2023-12-07 11:20:15)
+
+---
+
+## Spying through Push Notifications
+
+date: 2023-12-07, updated: 2023-12-06, from: Bruce Schneier blog
+
+<p>When you get a push notification on your Apple or Google phone, those notifications go through Apple and Google servers. Which means that those companies can spy on them&#8212;either for their own reasons or in response to government demands.</p>
+<p>Sen. Wyden is trying to <a href="https://www.reuters.com/technology/cybersecurity/governments-spying-apple-google-users-through-push-notifications-us-senator-2023-12-06/">get to the bottom of this</a>:</p>
+<blockquote><p>In a statement, Apple said that Wyden&#8217;s letter gave them the opening they needed to share more details with the public about how governments monitored push notifications.</p>
+<p>&#8220;In this case, the federal government prohibited us from sharing any information,&#8221; the company said in a statement. &#8220;Now that this method has become public we are updating our transparency reporting to detail these kinds of requests.&#8221;...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2023/12/spying-through-push-notifications.html">https://www.schneier.com/blog/archives/2023/12/spying-through-push-notifications.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2023/12/spying-through-push-notifications.html">Save to Pocket</a>
+</span>
+
+---
+
+## The GOP’s death cycle
+
+date: 2023-12-07, from: Robert Reich's blog
+
+How the Republican Party turns fascist
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/the-gops-integrity-death-cycle">https://robertreich.substack.com/p/the-gops-integrity-death-cycle</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/the-gops-integrity-death-cycle">Save to Pocket</a>
+</span>
 
 ---
 

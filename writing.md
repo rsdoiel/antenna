@@ -1,11 +1,38 @@
 ---
 title: writing 2023.49
-updated: 2023-12-06 16:57:22
+updated: 2023-12-07 11:20:15
 ---
 
 # writing 2023.49
 
-(date: 2023-12-06 16:57:22)
+(date: 2023-12-07 11:20:15)
+
+---
+
+## Liz Bourke Reviews A Sword of Bronze and Ashes by Anna Smith Spark
+
+date: 2023-12-07, from: Locus Magazine
+
+<p><strong>A Sword of Bronze and Ashes</strong>, Anna Smith Spark (Flame Tree Press 978-1-78758-839-4, $16.95, 336pp, tp) September 2023.</p>
+<p>I haven’t read Anna Smith Spark’s work before, though I understand her debut, <strong>The Court of Broken Knives </strong>(2018), received some critical attention. Her latest, <strong>A Sword of Bronze and Ashes</strong>, is a peculiar, ambitious novel. It delib­erately sets out, with its use of language, its use of repetition and  <a href="https://locusmag.com/2023/12/liz-bourke-reviews-a-sword-of-bronze-and-ashes-by-anna-smith-spark/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/liz-bourke-reviews-a-sword-of-bronze-and-ashes-by-anna-smith-spark/">https://locusmag.com/2023/12/liz-bourke-reviews-a-sword-of-bronze-and-ashes-by-anna-smith-spark/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/liz-bourke-reviews-a-sword-of-bronze-and-ashes-by-anna-smith-spark/">Save to Pocket</a>
+</span>
+
+---
+
+## A Ramble on How Short Stories Have Shaped my Chaotic Writing Career by Ai Jiang
+
+date: 2023-12-07, from: Locus Magazine
+
+<p></p>
+<p>I suppose, before diving in, to put it in short, short fiction has opened a tremendous num­ber of doors for me personally as a writer – craft-wise, career-wise, opportunity-wise. I don’t think the trajectory of my writing journey so far would have been as wildly fortunate and luck-filled – at least to me – without short stories.</p>
+<p>In the summer of 2019, I met a man in a coffee shop  <a href="https://locusmag.com/2023/12/a-ramble-on-how-short-stories-have-shaped-my-chaotic-writing-career-by-ai-jiang/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/a-ramble-on-how-short-stories-have-shaped-my-chaotic-writing-career-by-ai-jiang/">https://locusmag.com/2023/12/a-ramble-on-how-short-stories-have-shaped-my-chaotic-writing-career-by-ai-jiang/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/a-ramble-on-how-short-stories-have-shaped-my-chaotic-writing-career-by-ai-jiang/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -173,7 +200,7 @@ date: 2023-12-05, from: Locus Magazine
 date: 2023-12-05, from: Locus Magazine
 
 <p><strong></strong></p>
-<p><strong>TOBI OGUNDIRAN is the author of Jackal, Jackal, a collection of dark and fantastic tales. Tobi has been nominated for BSFA, Shirley Jack­son, Ignyte, and Nommo awards. His work has appeared in The Book of Witches and Africa Risen, and in several Year&#8217;s Best anthologies. His debut novella, In the Shadow of the Fall, is out from Tordotcom in 2024. Born and raised in Nigeria, he spent seven years in </strong> <a href="https://locusmag.com/2023/12/interview-with-tobi-ogundiran/" class="read-more">...Read More </a></p>
+<p>TOBI OGUNDIRAN is the author of Jackal, Jackal, a collection of dark and fantastic tales. Ogundiran has been nominated for BSFA, Shirley Jack­son, Ignyte, and Nommo awards. His work has appeared in The Book of Witches and Africa Risen, and in several Year&#8217;s Best anthologies. His debut novella, In the Shadow of the Fall, is out from Tordotcom in 2024. Born and raised in Nigeria, he spent seven years in  <a href="https://locusmag.com/2023/12/interview-with-tobi-ogundiran/" class="read-more">...Read More </a></p>
 
 <span class="feed-item-link">
 <a href="https://locusmag.com/2023/12/interview-with-tobi-ogundiran/">https://locusmag.com/2023/12/interview-with-tobi-ogundiran/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/interview-with-tobi-ogundiran/">Save to Pocket</a>

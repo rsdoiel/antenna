@@ -1,11 +1,95 @@
 ---
 title: mid central 2023.49
-updated: 2023-12-06 16:57:22
+updated: 2023-12-07 11:20:14
 ---
 
 # mid central 2023.49
 
-(date: 2023-12-06 16:57:22)
+(date: 2023-12-07 11:20:14)
+
+---
+
+## Dora Sakayan’s Death Marches Past the Front Door Published
+
+date: 2023-12-07, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The Armenian Studies Program announces the publication of Death Marches Past the Front Door: Clara and Fritz Sigrist-Hilty, Swiss Eyewitnesses to the Armenian Dante-Inferno in Turkey (1915-1918), by Dora Sakayan, Volume 20 in the Armenian Series of The Press at California State University, Fresno. The book was edited by Barlow Der Mugrdechian and Zareh Tjeknavorian....
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2023/12/dora-sakayans-death-marches-past-the-front-door-published/">https://fscollegian.com/2023/12/dora-sakayans-death-marches-past-the-front-door-published/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/dora-sakayans-death-marches-past-the-front-door-published/">Save to Pocket</a>
+</span>
+
+---
+
+## Three Generations of Hagopian Family Featured in “Echoes of Kef Time” Film Premiere on Oct. 27
+
+date: 2023-12-07, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; “‘Echoes of Kef Time’ is a celebration, not just of Armenian culture but the Armenian spirit. It’s a story about intergenerational struggle for legacy, despite the odds of fading into obscurity,” said director Avo John Kambourian. The intricacies of a melody can harbor language, folk dances, traditional...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2023/12/three-generations-of-hagopian-family-featured-in-echoes-of-kef-time-film-premiere-on-oct-27/">https://fscollegian.com/2023/12/three-generations-of-hagopian-family-featured-in-echoes-of-kef-time-film-premiere-on-oct-27/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/three-generations-of-hagopian-family-featured-in-echoes-of-kef-time-film-premiere-on-oct-27/">Save to Pocket</a>
+</span>
+
+---
+
+## Symphonic Band Ensemble ends the semester with a festive concert program
+
+date: 2023-12-07, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+In a dimly lit concert hall, the audience filled with family and friends taking their seats, eager to see their loved ones doing what they love. Band members were dressed in all black and walked in a single file line to take their seats. With instruments in hand and anxious smiles on their faces, audience...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2023/12/symphonic-band-ensemble-ends-the-semester-with-a-festive-concert-program/">https://fscollegian.com/2023/12/symphonic-band-ensemble-ends-the-semester-with-a-festive-concert-program/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/symphonic-band-ensemble-ends-the-semester-with-a-festive-concert-program/">Save to Pocket</a>
+</span>
+
+---
+
+## VOTA Red Badges On The Air Event December 17
+
+date: 2023-12-07, from: Amateur Radio Relay League News
+
+<p>2023 has been a fun operating year for ARRL’s Year of the Volunteers with the Volunteers On the Air (VOTA) event. To help members boost their VOTA point totals, ARRL is hosting a Red Badges on the Air activity on December 17, 2023, from 1500 - 2100 UTC. The objective of the event is to provide an opportunity for VOTA participants to work more ARRL officers and elected officials, such as Directo...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/vota-red-badges-on-the-air-event-december-17">http://www.arrl.org/news/view/vota-red-badges-on-the-air-event-december-17</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/vota-red-badges-on-the-air-event-december-17">Save to Pocket</a>
+</span>
+
+---
+
+## New Amateur Extra-Class Question Pool Released Effective July 1, 2024
+
+date: 2023-12-07, from: Amateur Radio Relay League News
+
+<p>The National Conference of Volunteer Examiner Coordinators (NCVEC) Question Pool Committee (QPC) has released the 2024 - 2028 Extra-Class FCC Element 4 Question Pool and Syllabus to the public. The new Extra-Class Question Pool is effective from July 1, 2024, through June 30, 2028.</p><p> </p><p>The 2024 - 2028 pool is available as a Microsoft Word document and as a PDF. The 10 graphics required for the new ...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/new-amateur-extra-class-question-pool-released-effective-july-1-2024">http://www.arrl.org/news/view/new-amateur-extra-class-question-pool-released-effective-july-1-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/new-amateur-extra-class-question-pool-released-effective-july-1-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Freeze Watch issued December 07 at 1:38AM PST until December 13 at 8:00AM PST by NWS
+
+date: 2023-12-07, updated: 2023-12-07, from: Merced, Weather.gov CAP v1.1 alerts
+
+...FREEZE WATCH IN EFFECT FROM LATE FRIDAY NIGHT THROUGH WEDNESDAY MORNING... * WHAT...Sub-freezing temperatures as low as 28 degrees in rural areas of the San Joaquin Valley. * WHERE...Buttonwillow - Lost Hills - I5, Caruthers - San Joaquin - Selma, Delano-Wasco-Shafter, Hanford - Corcoran - Lemoore, Los
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126671E98628.FreezeWatch.126672461640CA.HNXNPWHNX.78e457fe95bcf4ca2bf59b0c622e0ede">https://alerts.weather.gov/cap/wwacapget.php?x=CA126671E98628.FreezeWatch.126672461640CA.HNXNPWHNX.78e457fe95bcf4ca2bf59b0c622e0ede</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA126671E98628.FreezeWatch.126672461640CA.HNXNPWHNX.78e457fe95bcf4ca2bf59b0c622e0ede">Save to Pocket</a>
+</span>
+
+---
+
+## Fresno State men’s basketball takes home win over Idaho State
+
+date: 2023-12-07, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+After struggling on the road for the past three games, the Fresno State men’s basketball team pulled off a home win at the Save Mart Center against Idaho State University on Dec. 5.  Many of the players contributed to the 79-67 win, but Bulldog freshman Isaac Taveras stood out in the pack as the second...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2023/12/fresno-state-mens-basketball-takes-home-win-over-idaho-state/">https://fscollegian.com/2023/12/fresno-state-mens-basketball-takes-home-win-over-idaho-state/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/fresno-state-mens-basketball-takes-home-win-over-idaho-state/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +97,7 @@ updated: 2023-12-06 16:57:22
 
 date: 2023-12-07, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-Fresno, Merced, Parlier, Woodlake, Visalia and Madera; these towns are the main focal points behind 13 short documentaries created by local filmmakers. Behind each story, the filmmakers won an $8,000 grant to develop their films on the big screen to be shown at the historic Tower Theatre on Nov. 30. Some people find passion through...
+Fresno, Merced, Parlier, Woodlake, Visalia and Madera: these towns are the main focal points behind 13 short documentaries created by local filmmakers. Behind each story, the filmmakers each won an $8,000 grant to develop their films for the big screen. At The Big Tell, which premiered Nov. 30 at the Tower Theatre, the filmmakers got...
 
 <span class="feed-item-link">
 <a href="https://fscollegian.com/2023/12/the-big-tell-showcases-13-documentaries-that-capture-central-valley-stories/">https://fscollegian.com/2023/12/the-big-tell-showcases-13-documentaries-that-capture-central-valley-stories/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/the-big-tell-showcases-13-documentaries-that-capture-central-valley-stories/">Save to Pocket</a>

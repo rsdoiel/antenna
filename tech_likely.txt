@@ -217,6 +217,7 @@ https://blog.getpocket.com/feed/ "~GetPocket blog"
 https://www.hangaroundtheweb.com/index.xml "~Hanging Around the Web blog"
 #https://kilianvalkhof.com/feed/ "~Kilian Valkhof's blog"
 http://feeds.feedburner.com/Kilianvalkhofcom "~Kilian Valkhof's blog"
+https://infrequently.org/feed/ "~Alex Russel's blog"
 
 #
 # Problem feeds

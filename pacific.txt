@@ -14,7 +14,7 @@ https://www.forumsec.org/feed/ "~Pacific Island Forum" curl/8.4.0
 #https://micronesianconservation.org/feed/ "~Micronesian Conservation Coalition"
 
 # Web Based News services
-https://micronesia.expatreporter.com/?feed=rss2 "~Micronesia -- The Expat Reporter"
+#https://micronesia.expatreporter.com/?feed=rss2 "~Micronesia -- The Expat Reporter" # host is unknown as of 2023-12-07
 
 #
 # Comercial News Papers, Guam and the Northern Marianas, Republic of Belau
