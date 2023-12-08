@@ -1,11 +1,47 @@
 ---
 title: mid central 2023.49
-updated: 2023-12-07 11:20:14
+updated: 2023-12-07 18:16:13
 ---
 
 # mid central 2023.49
 
-(date: 2023-12-07 11:20:14)
+(date: 2023-12-07 18:16:13)
+
+---
+
+## Column: New Mexico Bowl game is underwhelming but deserved
+
+date: 2023-12-08, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+A lackluster season capped off by an underwhelming bowl game. That is the predicament the Fresno State football team finds itself in this year. The Bulldogs (8-4) are slated to play New Mexico State (10-4) on Saturday, Dec. 16, in the Isleta New Mexico Bowl.  The Aggies are no slouch. The 10-win team beat Auburn...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2023/12/column-new-mexico-bowl-game-is-underwhelming-but-deserved/">https://fscollegian.com/2023/12/column-new-mexico-bowl-game-is-underwhelming-but-deserved/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/column-new-mexico-bowl-game-is-underwhelming-but-deserved/">Save to Pocket</a>
+</span>
+
+---
+
+## Freeze Watch issued December 07 at 1:09PM PST until December 13 at 8:00AM PST by NWS
+
+date: 2023-12-07, updated: 2023-12-07, from: Merced, Weather.gov CAP v1.1 alerts
+
+...FREEZE WATCH REMAINS IN EFFECT FROM LATE FRIDAY NIGHT THROUGH WEDNESDAY MORNING... * WHAT...Sub-freezing temperatures as low as 31 possible. * WHERE...Buttonwillow - Lost Hills - I5, Caruthers - San Joaquin - Selma, Delano-Wasco-Shafter, Hanford - Corcoran - Lemoore, Los Banos - Dos Palos, Merced - Madera - Mendota, Planada - Le Grand -
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126671EB4F94.FreezeWatch.126672461640CA.HNXNPWHNX.78e457fe95bcf4ca2bf59b0c622e0ede">https://alerts.weather.gov/cap/wwacapget.php?x=CA126671EB4F94.FreezeWatch.126672461640CA.HNXNPWHNX.78e457fe95bcf4ca2bf59b0c622e0ede</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA126671EB4F94.FreezeWatch.126672461640CA.HNXNPWHNX.78e457fe95bcf4ca2bf59b0c622e0ede">Save to Pocket</a>
+</span>
+
+---
+
+## Students incorporate their identities into artwork at Student Art Show
+
+date: 2023-12-07, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Stefania Garcia, a fourth year student who won Best of Show for her work in the Student Art Show, said that her piece and the series is a part of combining her two identities. She states that she wanted to incorporate Talavera, Mexican pottery inspired patterns, which is part of a culture that she pushed...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2023/12/students-incorporate-their-identities-into-artwork-at-student-art-show/">https://fscollegian.com/2023/12/students-incorporate-their-identities-into-artwork-at-student-art-show/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/students-incorporate-their-identities-into-artwork-at-student-art-show/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -93,6 +129,18 @@ After struggling on the road for the past three games, the Fresno State men’s 
 
 ---
 
+## There are no active watches, warnings or advisories
+
+date: 2023-12-07, updated: 2023-12-07, from: Merced, Weather.gov CAP v1.1 alerts
+
+
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
+</span>
+
+---
+
 ## The Big Tell showcases 13 documentaries that capture Central Valley stories
 
 date: 2023-12-07, from: The Collegian (Cal State Fresno's Student Newspaper)
@@ -101,6 +149,18 @@ Fresno, Merced, Parlier, Woodlake, Visalia and Madera: these towns are the main 
 
 <span class="feed-item-link">
 <a href="https://fscollegian.com/2023/12/the-big-tell-showcases-13-documentaries-that-capture-central-valley-stories/">https://fscollegian.com/2023/12/the-big-tell-showcases-13-documentaries-that-capture-central-valley-stories/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/the-big-tell-showcases-13-documentaries-that-capture-central-valley-stories/">Save to Pocket</a>
+</span>
+
+---
+
+## ARDC and ARRL Announce $2.1 Million for the Next Generation of Amateur Radio
+
+date: 2023-12-06, from: Amateur Radio Relay League News
+
+
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/ardc-and-arrl-announce-2-1-million-for-the-next-generation-of-amateur-radio">http://www.arrl.org/news/view/ardc-and-arrl-announce-2-1-million-for-the-next-generation-of-amateur-radio</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/ardc-and-arrl-announce-2-1-million-for-the-next-generation-of-amateur-radio">Save to Pocket</a>
 </span>
 
 ---
