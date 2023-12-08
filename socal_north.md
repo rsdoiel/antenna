@@ -1,11 +1,344 @@
 ---
 title: socal north 2023.49
-updated: 2023-12-08 10:29:33
+updated: 2023-12-08 12:41:25
 ---
 
 # socal north 2023.49
 
-(date: 2023-12-08 10:29:33)
+(date: 2023-12-08 12:41:25)
+
+---
+
+## Islander birthday
+
+date: 2023-12-08, from: Catalina Islander
+
+Amaya Morales lives on Catalina and turns 2 on Dec. 9.
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/islander-birthday/">https://thecatalinaislander.com/islander-birthday/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/islander-birthday/">Save to Pocket</a>
+</span>
+
+---
+
+## Sheriff’s Log: Nov. 30 to Dec. 6, 2023
+
+date: 2023-12-08, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Nov. 30 to Dec. 6, 2023. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/sheriffs-log-nov-30-to-dec-6-2023/">https://thecatalinaislander.com/sheriffs-log-nov-30-to-dec-6-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/sheriffs-log-nov-30-to-dec-6-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## NHL’S “United by Hockey” Mobile Museum Comes to Santa Clarita
+
+date: 2023-12-08, from: City of Santa Clarita
+
+<p>NHL’S “UNITED BY HOCKEY” MOBILE MUSEUM COMES TO SANTA CLARITA Do you have a love for history and hockey? If you do, head over to The Cube—Ice and Entertainment Center, Powered by FivePoint Valencia for the “United by Hockey” Mobile Museum on Wednesday, December 13, from 3:00 – 9:00 p.m. Owned by the National Hockey [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/12/08/nhls-united-by-hockey-mobile-museum-comes-to-santa-clarita/">NHL&#8217;S &#8220;United by Hockey&#8221; Mobile Museum Comes to Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2023/12/08/nhls-united-by-hockey-mobile-museum-comes-to-santa-clarita/">https://santaclarita.gov/blog/2023/12/08/nhls-united-by-hockey-mobile-museum-comes-to-santa-clarita/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2023/12/08/nhls-united-by-hockey-mobile-museum-comes-to-santa-clarita/">Save to Pocket</a>
+</span>
+
+---
+
+## Letters to the Editor: published Dec. 8, 2023
+
+date: 2023-12-08, from: Catalina Islander
+
+Another deer scenario When I read the Catalina Island Conservancy (CIC) plans to kill all the deer on the island to best control the over-population of them, I am putting out a possible scenario instead. How about use a gas to render them unconscious and then you can sterilize/neuter them in the field. Then it [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/letters-to-the-editor-published-dec-8-2023/">https://thecatalinaislander.com/letters-to-the-editor-published-dec-8-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/letters-to-the-editor-published-dec-8-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Most LA City Employees Didn’t Live In Los Angeles Last Year
+
+date: 2023-12-08, updated: 2023-12-08, from: The LAist
+
+Only about a third of L.A. city employees called Los Angeles home, according to the City Controller’s office.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/most-la-city-employees-didnt-live-in-los-angeles-last-year">https://laist.com/news/most-la-city-employees-didnt-live-in-los-angeles-last-year</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/most-la-city-employees-didnt-live-in-los-angeles-last-year">Save to Pocket</a>
+</span>
+
+---
+
+## We Asked: What's The Odd Object You're Emotionally Attached To? Hilarity Ensued
+
+date: 2023-12-08, updated: 2023-12-08, from: The LAist
+
+AirTalk listeners share the sentimental object they're most mortified about hanging onto.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/los-angeles-activities/we-asked-whats-the-odd-object-youre-emotionally-attached-to-hilarity-ensued">https://laist.com/news/los-angeles-activities/we-asked-whats-the-odd-object-youre-emotionally-attached-to-hilarity-ensued</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/los-angeles-activities/we-asked-whats-the-odd-object-youre-emotionally-attached-to-hilarity-ensued">Save to Pocket</a>
+</span>
+
+---
+
+## Winter Wonderland in the SCV
+
+date: 2023-12-08, from: The Canyon News (COC Student Newspaper)
+
+<p>By Dakkota Searcy Have you ever been to Disneyland and been blown&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/winter-wonderland-in-the-scv/">Winter Wonderland in the SCV</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/winter-wonderland-in-the-scv/">https://canyonsnews.com/winter-wonderland-in-the-scv/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/winter-wonderland-in-the-scv/">Save to Pocket</a>
+</span>
+
+---
+
+## The Santa Clarita Valley Gets Festive For a Good Cause at The Festival of Trees
+
+date: 2023-12-08, from: The Canyon News (COC Student Newspaper)
+
+<p>With the holiday season just around the corner, The Boys and Girls&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/the-santa-clarita-valley-gets-festive-for-a-good-cause-at-the-festival-of-trees/">The Santa Clarita Valley Gets Festive For a Good Cause at The Festival of Trees</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/the-santa-clarita-valley-gets-festive-for-a-good-cause-at-the-festival-of-trees/">https://canyonsnews.com/the-santa-clarita-valley-gets-festive-for-a-good-cause-at-the-festival-of-trees/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/the-santa-clarita-valley-gets-festive-for-a-good-cause-at-the-festival-of-trees/">Save to Pocket</a>
+</span>
+
+---
+
+## Filming in LA Is Coming Back After a Slow Strike Summer (And Fall)
+
+date: 2023-12-08, updated: 2023-12-08, from: The LAist
+
+The SAG-AFTRA strike meant that nearly all scripted TV stopped shooting in the Los Angeles Area, according to the agency FilmLA, but it's started to come back after the actor's union ratified its new contract.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/arts-and-entertainment/on-location-filming-in-l-a-is-coming-back-after-a-slow-strike-summer-and-fall">https://laist.com/news/arts-and-entertainment/on-location-filming-in-l-a-is-coming-back-after-a-slow-strike-summer-and-fall</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/arts-and-entertainment/on-location-filming-in-l-a-is-coming-back-after-a-slow-strike-summer-and-fall">Save to Pocket</a>
+</span>
+
+---
+
+## Pints On A Saturday? Awesome. Doing It With Your Buddies While LAFC Tries To 2-Peat? Priceless
+
+date: 2023-12-08, updated: 2023-12-08, from: The LAist
+
+The LAFC Offsiders, one of the football club's many supporter groups, are gathering in Pasadena for a MLS Final watch party.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/los-angeles-activities/pints-on-a-saturday-awesome-doing-it-with-your-buddies-while-lafc-tries-to-2-peat-priceless">https://laist.com/news/los-angeles-activities/pints-on-a-saturday-awesome-doing-it-with-your-buddies-while-lafc-tries-to-2-peat-priceless</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/los-angeles-activities/pints-on-a-saturday-awesome-doing-it-with-your-buddies-while-lafc-tries-to-2-peat-priceless">Save to Pocket</a>
+</span>
+
+---
+
+## Churros For Hanukkah? Why Yes, And Other Multicultural Fried Dough Treats To Explore
+
+date: 2023-12-08, updated: 2023-12-08, from: The LAist
+
+Whether you’re noshing on churros or zoolbia, beignets or bomboloni, may your fritters be crisp, may your candles shine bright, and may it be a Hanukkah of light, sweetness, and unity.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/churros-for-hanukkah-why-yes-and-other-multicultural-fried-dough-treats-to-explore">https://laist.com/news/food/churros-for-hanukkah-why-yes-and-other-multicultural-fried-dough-treats-to-explore</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/churros-for-hanukkah-why-yes-and-other-multicultural-fried-dough-treats-to-explore">Save to Pocket</a>
+</span>
+
+---
+
+## Turning Your Grandmother’s 'Best Birria In Town' Into A Vegan Business
+
+date: 2023-12-08, updated: 2023-12-08, from: The LAist
+
+Desiree Flores didn’t know any other vegans when she grew up in Boyle Heights. Today, she’s the founder and owner of Dear Mama, a plant-based Mexican pop-up eatery and catering business.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/turning-your-grandmothers-best-birria-in-town-into-a-vegan-business">https://laist.com/news/food/turning-your-grandmothers-best-birria-in-town-into-a-vegan-business</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/turning-your-grandmothers-best-birria-in-town-into-a-vegan-business">Save to Pocket</a>
+</span>
+
+---
+
+## The quest for organization visibility in UCLA’s complex campus events landscape
+
+date: 2023-12-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Niche ranks UCLA as the top school in California for student life, as each day on campus, students are met with countless fundraisers, pop-ups, events and activities to enjoy.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/07/the-quest-for-organization-visibility-in-uclas-complex-campus-events-landscape/">https://dailybruin.com/2023/12/07/the-quest-for-organization-visibility-in-uclas-complex-campus-events-landscape/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/07/the-quest-for-organization-visibility-in-uclas-complex-campus-events-landscape/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon
+
+date: 2023-12-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/07/editorial-cartoon-17/">https://dailybruin.com/2023/12/07/editorial-cartoon-17/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/07/editorial-cartoon-17/">Save to Pocket</a>
+</span>
+
+---
+
+## Nostalgia: Connecting Bruins to their roots and inspiring the college experience
+
+date: 2023-12-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Nostalgia has the powerful ability to connect people to their needs and sense of self, a theme presented even as far back as the tale of Greek mythological character Odysseus, according to the Society for Classical Studies.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/07/nostalgia-connecting-bruins-to-their-roots-and-inspiring-the-college-experience/">https://dailybruin.com/2023/12/07/nostalgia-connecting-bruins-to-their-roots-and-inspiring-the-college-experience/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/07/nostalgia-connecting-bruins-to-their-roots-and-inspiring-the-college-experience/">Save to Pocket</a>
+</span>
+
+---
+
+## Spurred by Kiki Rice, UCLA women’s basketball overcomes CSUN by 63-point margin
+
+date: 2023-12-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 7 at 10:00 p.m.</em>
+An otherwise mundane moment made history for one Bruin on Thursday.
+Off a missed jump shot from the Matadors, sophomore guard Kiki Rice was the first to get the rebound.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/07/spurred-by-kiki-rice-ucla-womens-basketball-overcomes-csun-by-63-point-margin/">https://dailybruin.com/2023/12/07/spurred-by-kiki-rice-ucla-womens-basketball-overcomes-csun-by-63-point-margin/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/07/spurred-by-kiki-rice-ucla-womens-basketball-overcomes-csun-by-63-point-margin/">Save to Pocket</a>
+</span>
+
+---
+
+## Voices of the Newsroom: LMU men's soccer makes history
+
+date: 2023-12-08, from: Laloyolan (LMU Student Newspaper)
+
+As LMU men’s soccer’s historic run in the NCAA Tournament comes to an end, assistant sports editor Kathryn Powell talks about what this meant for the team this season, and forecasts what this could mean for the future of the…
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/podcast/voices-of-the-newsroom-lmu-mens-soccer-makes-history/article_5556349e-956f-11ee-9cab-bf9d93d6c5d9.html">https://www.laloyolan.com/podcast/voices-of-the-newsroom-lmu-mens-soccer-makes-history/article_5556349e-956f-11ee-9cab-bf9d93d6c5d9.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/podcast/voices-of-the-newsroom-lmu-mens-soccer-makes-history/article_5556349e-956f-11ee-9cab-bf9d93d6c5d9.html">Save to Pocket</a>
+</span>
+
+---
+
+## Men’s soccer: What they did and what's to come
+
+date: 2023-12-08, from: Laloyolan (LMU Student Newspaper)
+
+As LMU men’s soccer’s historic run in the NCAA Tournament comes to an end, assistant sports editor Kathryn Powell talks about what this meant for the team this season, and forecasts what this could mean for the future of the&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/podcast/men-s-soccer-what-they-did-and-whats-to-come/audio_36970428-956c-11ee-9432-df4560840746.html">https://www.laloyolan.com/podcast/men-s-soccer-what-they-did-and-whats-to-come/audio_36970428-956c-11ee-9432-df4560840746.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/podcast/men-s-soccer-what-they-did-and-whats-to-come/audio_36970428-956c-11ee-9432-df4560840746.html">Save to Pocket</a>
+</span>
+
+---
+
+## Is "defund the police" dead?
+
+date: 2023-12-08, from: Laloyolan (LMU Student Newspaper)
+
+In the summer of 2020, support for the abolishment of the police was soaring. The “defund the police” movement sought to drastically change the approach to crime in America, which has a long history of politicization. But a few months&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/e2024/is-defund-the-police-dead/video_3db790f4-9587-11ee-971c-c31e9f6effe2.html">https://www.laloyolan.com/e2024/is-defund-the-police-dead/video_3db790f4-9587-11ee-971c-c31e9f6effe2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/e2024/is-defund-the-police-dead/video_3db790f4-9587-11ee-971c-c31e9f6effe2.html">Save to Pocket</a>
+</span>
+
+---
+
+## NTT candid 1
+
+date: 2023-12-08, from: Laloyolan (LMU Student Newspaper)
+
+NTT faculty met on the steps of Sacred Heart Chapel on Wednesday, Dec. 6, sharing union stickers and discussing next steps.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/ntt-candid-1/image_8f4352b4-3a71-52c5-9a04-0757844f1012.html">https://www.laloyolan.com/news/ntt-candid-1/image_8f4352b4-3a71-52c5-9a04-0757844f1012.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/ntt-candid-1/image_8f4352b4-3a71-52c5-9a04-0757844f1012.html">Save to Pocket</a>
+</span>
+
+---
+
+## Home for the holidays: LMU students reflect on a semester abroad
+
+date: 2023-12-08, from: Laloyolan (LMU Student Newspaper)
+
+Every semester, masses of students pack up, say goodbye to their loved ones and fly thousands of miles away to pursue their education overseas. Although the idea may seem a little daunting, studying abroad is widely considered one of the&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/videos/home-for-the-holidays-lmu-students-reflect-on-a-semester-abroad/video_2db19558-9580-11ee-9152-5f1983caf93b.html">https://www.laloyolan.com/videos/home-for-the-holidays-lmu-students-reflect-on-a-semester-abroad/video_2db19558-9580-11ee-9152-5f1983caf93b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/videos/home-for-the-holidays-lmu-students-reflect-on-a-semester-abroad/video_2db19558-9580-11ee-9152-5f1983caf93b.html">Save to Pocket</a>
+</span>
+
+---
+
+## NTT Faculty Union
+
+date: 2023-12-08, from: Laloyolan (LMU Student Newspaper)
+
+Since launching their campaign last month, non-tenure-track (NTT) faculty have garnered support from both tenured and non-tenured faculty, furthered by the passing of a Faculty Senate resolution on Thursday, Nov. 30, in support of the NTT faculty’s right to unionize.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/ntt-faculty-union/image_3fbaf200-d741-5135-b15e-9ecbf706baf0.html">https://www.laloyolan.com/news/ntt-faculty-union/image_3fbaf200-d741-5135-b15e-9ecbf706baf0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/ntt-faculty-union/image_3fbaf200-d741-5135-b15e-9ecbf706baf0.html">Save to Pocket</a>
+</span>
+
+---
+
+## NTT candid 2
+
+date: 2023-12-08, from: Laloyolan (LMU Student Newspaper)
+
+NTT faculty told the Loyolan they have been encouraged by the community reception to their union effort, first announced in November 2023.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/ntt-candid-2/image_75988d02-5f3d-59de-9705-4a0525f7218b.html">https://www.laloyolan.com/news/ntt-candid-2/image_75988d02-5f3d-59de-9705-4a0525f7218b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/ntt-candid-2/image_75988d02-5f3d-59de-9705-4a0525f7218b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Arik Greenberg
+
+date: 2023-12-08, from: Laloyolan (LMU Student Newspaper)
+
+"We would like to see LMU lead the way and allow us NTT faculty to help implement the kind of changes we think only can be [achieved] through a union," said Arik Greenberg, a clinical assistant professor in interreligious dialogue.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/arik-greenberg/image_8f6fe425-9330-5bd6-a502-74e90798ecd2.html">https://www.laloyolan.com/news/arik-greenberg/image_8f6fe425-9330-5bd6-a502-74e90798ecd2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/arik-greenberg/image_8f6fe425-9330-5bd6-a502-74e90798ecd2.html">Save to Pocket</a>
+</span>
+
+---
+
+## Lauren Cole
+
+date: 2023-12-08, from: Laloyolan (LMU Student Newspaper)
+
+"I invite the provost to clarify how keeping NTT faculty on short-term contracts that pay below inflation wages enables LMU to provide the best educational experience for students," said Lauren Cole, a senior lecturer in the history department.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/lauren-cole/image_5a6b5d10-8639-5b95-8b85-6127e7f2c5d1.html">https://www.laloyolan.com/news/lauren-cole/image_5a6b5d10-8639-5b95-8b85-6127e7f2c5d1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/lauren-cole/image_5a6b5d10-8639-5b95-8b85-6127e7f2c5d1.html">Save to Pocket</a>
+</span>
+
+---
+
+## Non-tenured faculty speak out as union effort gains momentum
+
+date: 2023-12-08, from: Laloyolan (LMU Student Newspaper)
+
+In light of LMU’s announcement to increase faculty and staff salaries through a multiyear compensation initiative, non-tenure-track faculty remain committed to pursuing unionization as the campaign picks up steam.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/non-tenured-faculty-speak-out-as-union-effort-gains-momentum/article_025914db-c4c1-50e1-a1f9-9ce025040110.html">https://www.laloyolan.com/news/non-tenured-faculty-speak-out-as-union-effort-gains-momentum/article_025914db-c4c1-50e1-a1f9-9ce025040110.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/non-tenured-faculty-speak-out-as-union-effort-gains-momentum/article_025914db-c4c1-50e1-a1f9-9ce025040110.html">Save to Pocket</a>
+</span>
+
+---
+
+## Composer Tod Machover speaks on collaborative AI, progress of media technology
+
+date: 2023-12-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Tod Machover is generating new collaborations.
+On Wednesday evening, the MIT Media Lab faculty member and Musical America&#8217;s 2016 Composer of the Year gave a two-hour presentation at the Herb Alpert School of Music.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/07/composer-tod-machover-speaks-on-collaborative-ai-progress-of-media-technology/">https://dailybruin.com/2023/12/07/composer-tod-machover-speaks-on-collaborative-ai-progress-of-media-technology/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/07/composer-tod-machover-speaks-on-collaborative-ai-progress-of-media-technology/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -50,7 +383,7 @@ The climate crisis will increase the number of marine mammals needing treatment,
 
 ## LA's Metro Buses Will Use AI To Ticket Drivers Parked In Bus Lanes
 
-date: 2023-12-07, updated: 2023-12-07, from: The LAist
+date: 2023-12-07, updated: 2023-12-08, from: The LAist
 
 Metro is partnering with Hayden AI to install the cameras and be fully operating by spring 2024.
 
@@ -87,12 +420,12 @@ Four road games on the opposite coast in as many weeks.
 
 ---
 
-## People Dressed in Purple to Walk for a Good Cause
+## The Community Dressed in Purple to Walk for a Good Cause
 
 date: 2023-12-07, from: The Canyon News (COC Student Newspaper)
 
 <p>You may have seen crowds of purple along Centre Pointe Parkway last&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/people-gathered-in-purple-to-walk-for-a-good-cause/">People Dressed in Purple to Walk for a Good Cause</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+<p>The post <a href="https://canyonsnews.com/people-gathered-in-purple-to-walk-for-a-good-cause/">The Community Dressed in Purple to Walk for a Good Cause</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
 
 
 <span class="feed-item-link">

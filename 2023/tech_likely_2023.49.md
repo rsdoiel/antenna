@@ -1,11 +1,143 @@
 ---
 title: tech likely 2023.49
-updated: 2023-12-08 10:29:35
+updated: 2023-12-08 12:41:26
 ---
 
 # tech likely 2023.49
 
-(date: 2023-12-08 10:29:35)
+(date: 2023-12-08 12:41:26)
+
+---
+
+## We interrupt this programming
+
+date: 2023-12-08, from: Gary Marcus blog
+
+Oh no. Oh no. Please tell me this isn&#8217;t true. And, ugh, it&#8217;s going to be impossible not to watch: &#167; Business Insider&#8217;s scoop is here: https://www.businessinsider.com/openai-cofounder-ilya-sutskever-invisible-future-uncertain-2023-12 and here&#8217;s a juicy excerpt for those who don&#8217;t subscribe:
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/we-interrupt-this-programming">https://garymarcus.substack.com/p/we-interrupt-this-programming</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/we-interrupt-this-programming">Save to Pocket</a>
+</span>
+
+---
+
+## Selecting Multiple Tabs in Safari
+
+date: 2023-12-08, from: Michael Tsai
+
+John Gruber (video): Just like making multiple selections in a list view, Shift-click will select an entire range at once, and Command-clicking lets you select (and deselect) noncontiguous tabs. [&#8230;] Once you have multiple tabs selected, you can drag them together to create a new window, or do things like close them all at once. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/08/selecting-multiple-tabs-in-safari/">https://mjtsai.com/blog/2023/12/08/selecting-multiple-tabs-in-safari/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/08/selecting-multiple-tabs-in-safari/">Save to Pocket</a>
+</span>
+
+---
+
+## Mac Menu Bar Icons and the Notch
+
+date: 2023-12-08, from: Michael Tsai
+
+Jesse Squires (Mastodon): On my 13&#8221; Intel MacBook Pro, the icons reached to about halfway across the screen. On the 14&#8221; M3 MacBook Pro, ironically a machine with a larger display, at least 3 icons get hidden. This &#8220;design&#8221; (or lack thereof) is so dumb. It is utterly ridiculous to me that this is still [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/08/mac-menu-bar-icons-and-the-notch/">https://mjtsai.com/blog/2023/12/08/mac-menu-bar-icons-and-the-notch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/08/mac-menu-bar-icons-and-the-notch/">Save to Pocket</a>
+</span>
+
+---
+
+## Bartender 5
+
+date: 2023-12-08, from: Michael Tsai
+
+Surtees Studios: With support for macOS Sonoma and a multitude of innovative features, Bartender 5 represents the pinnacle of Mac menu bar mastery. [&#8230;] Conceal select menu bar items while retaining quick and easy access through intuitive methods. Swipe and scroll within the menu bar to unveil hidden items instantly, simplifying access to multiple screens [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/08/bartender-5/">https://mjtsai.com/blog/2023/12/08/bartender-5/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/08/bartender-5/">Save to Pocket</a>
+</span>
+
+---
+
+## 23andMe Breach
+
+date: 2023-12-08, from: Michael Tsai
+
+Lorenzo Franceschi-Bicchierai (Hacker News): On Friday, genetic testing company 23andMe announced that hackers accessed the personal data of 0.1% of customers, or about 14,000 individuals. The company also said that by accessing those accounts, hackers were also able to access &#8220;a significant number of files containing profile information about other users&#8217; ancestry.&#8221; But 23andMe would [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/08/23andme-breach/">https://mjtsai.com/blog/2023/12/08/23andme-breach/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/08/23andme-breach/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Names Winners of 2023 NASA Entrepreneurs Challenge
+
+date: 2023-12-08, from: NASA breaking news
+
+NASA is announcing final winners of the 2023 NASA Entrepreneurs Challenge, which focused this year on lunar exploration and climate science. Entrepreneurs from across the United States came together at the Defense TechConnect Innovation Summit and Expo in Washington to pitch their ideas to a panel of NASA judges and venture experts. Winning organizations will [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-names-winners-of-2023-nasa-entrepreneurs-challenge/">https://www.nasa.gov/news-release/nasa-names-winners-of-2023-nasa-entrepreneurs-challenge/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-names-winners-of-2023-nasa-entrepreneurs-challenge/">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;Using tweezers, carefully remove the lines and now your cake is revealed.&#8221;... 
+
+date: 2023-12-08, updated: 2023-12-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043595-using-tweezers-carefully-">https://kottke.org/23/12/0043595-using-tweezers-carefully-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043595-using-tweezers-carefully-">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Signs Memorandum of Agreement for Space Weather
+
+date: 2023-12-08, from: NASA breaking news
+
+On Dec. 7, 2023, Nicola Fox, associate administrator for NASA’s Science Mission Directorate, signed on behalf of the agency the Memorandum of Agreement for Space Weather Research-To-Operations-To-Research Collaboration. This quad-agency agreement is between NASA, the National Oceanic and Atmospheric Administration, the National Science Foundation, and the U.S. Air Force. The memorandum outlines the responsibilities for [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasa-signs-memorandum-of-agreement-for-space-weather/">https://www.nasa.gov/image-article/nasa-signs-memorandum-of-agreement-for-space-weather/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasa-signs-memorandum-of-agreement-for-space-weather/">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;&#8230;court data revealed that the percentage of divorces leading to equal joint... 
+
+date: 2023-12-08, updated: 2023-12-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043594-court-data-revealed-that-">https://kottke.org/23/12/0043594-court-data-revealed-that-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043594-court-data-revealed-that-">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Laser Reflecting Instruments to Help Pinpoint Earth Measurements
+
+date: 2023-12-08, from: NASA breaking news
+
+The best known use of GPS satellites is to help people know their location whether driving a car, navigating a ship or plane, or trekking across remote territory. Another important, but lesser-known, use is to distribute information to other Earth-viewing satellites to help them pinpoint measurements of our planet. NASA and several other federal agencies, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-laser-reflecting-instruments-to-help-pinpoint-earth-measurements/">https://www.nasa.gov/centers-and-facilities/goddard/nasa-laser-reflecting-instruments-to-help-pinpoint-earth-measurements/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/goddard/nasa-laser-reflecting-instruments-to-help-pinpoint-earth-measurements/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s Hubble Space Telescope Returns to Science Operations
+
+date: 2023-12-08, from: NASA breaking news
+
+Updated, Dec. 8, 2023 NASA restored the agency’s Hubble Space Telescope to science operations Friday, Dec. 8. The telescope had paused science observations Nov. 23 due to an issue with one of its gyros. The spacecraft is in good health and once again operating using all three of its gyros. Hubble’s two main cameras, Wide […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/nasas-hubble-space-telescope-pauses-science-due-to-gyro-issue/">https://science.nasa.gov/missions/hubble/nasas-hubble-space-telescope-pauses-science-due-to-gyro-issue/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/nasas-hubble-space-telescope-pauses-science-due-to-gyro-issue/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -29,6 +161,18 @@ This striking Hubble Space Telescope image shows the densely packed globular 
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/image-article/hubble-captures-a-cluster-in-the-cloud/">https://www.nasa.gov/image-article/hubble-captures-a-cluster-in-the-cloud/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/hubble-captures-a-cluster-in-the-cloud/">Save to Pocket</a>
+</span>
+
+---
+
+##  Cool Old Songs: Graham Smith, a.k.a. Kleenex Girl Wonder 
+
+date: 2023-12-08, updated: 2023-12-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/graham-smith-appreciation-post">https://kottke.org/23/12/graham-smith-appreciation-post</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/graham-smith-appreciation-post">Save to Pocket</a>
 </span>
 
 ---
@@ -63,6 +207,18 @@ Astronomers found what looks like a glowing cloud of dust from a massive planeta
 
 <span class="feed-item-link">
 <a href="https://science.nasa.gov/get-involved/citizen-science/amateur-astronomers-help-discover-cosmic-crash/">https://science.nasa.gov/get-involved/citizen-science/amateur-astronomers-help-discover-cosmic-crash/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/get-involved/citizen-science/amateur-astronomers-help-discover-cosmic-crash/">Save to Pocket</a>
+</span>
+
+---
+
+##  Jogging Stroller (Comic) 
+
+date: 2023-12-08, updated: 2023-12-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/jogging-stroller-comic">https://kottke.org/23/12/jogging-stroller-comic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/jogging-stroller-comic">Save to Pocket</a>
 </span>
 
 ---
@@ -191,12 +347,36 @@ date: 2023-12-08, from: Dave Winer's Scripting News
 
 ---
 
+##  ASMR Recommendations: Ecuador Live & Moonlight Cottage 
+
+date: 2023-12-08, updated: 2023-12-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/asmr-recommendations-moonlight-cottage-ecuador-live">https://kottke.org/23/12/asmr-recommendations-moonlight-cottage-ecuador-live</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/asmr-recommendations-moonlight-cottage-ecuador-live">Save to Pocket</a>
+</span>
+
+---
+
 **@Dave Winer's Scripting News** (date: 2023-12-08, from: Dave Winer's Scripting News)
 
 We know journalists are not The Resistance, which begs the question -- who is and why aren't journalists searching for them?
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2023/12/08.html#a150259">http://scripting.com/2023/12/08.html#a150259</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/08.html#a150259">Save to Pocket</a>
+</span>
+
+---
+
+##  In the summer, I saw a ton of people linking to this... 
+
+date: 2023-12-08, updated: 2023-12-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043590-i-saw-a-ton-of">https://kottke.org/23/12/0043590-i-saw-a-ton-of</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043590-i-saw-a-ton-of">Save to Pocket</a>
 </span>
 
 ---
@@ -219,6 +399,18 @@ date: 2023-12-08, updated: 2023-12-08, from: One Foot Tsunami
 
 <span class="feed-item-link">
 <a href="https://onefoottsunami.com/2023/12/08/destroying-twitter/">https://onefoottsunami.com/2023/12/08/destroying-twitter/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2023/12/08/destroying-twitter/">Save to Pocket</a>
+</span>
+
+---
+
+##  Here is a very pleasing drawing of a piece of bread. And... 
+
+date: 2023-12-08, updated: 2023-12-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043589-here-is-a-very-pleasing">https://kottke.org/23/12/0043589-here-is-a-very-pleasing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043589-here-is-a-very-pleasing">Save to Pocket</a>
 </span>
 
 ---
@@ -665,6 +857,18 @@ If you’re not paying close attention, you might dismiss generative AI as a fle
 
 ---
 
+##  Diary Comics, Nov. 9 
+
+date: 2023-12-07, updated: 2023-12-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/diary-comics-nov-9">https://kottke.org/23/12/diary-comics-nov-9</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/diary-comics-nov-9">Save to Pocket</a>
+</span>
+
+---
+
 **@Tomosino's Mastodon feed** (date: 2023-12-07, from: Tomosino's Mastodon feed)
 
 <p><a href="https://lithub.com/censoring-imagination-why-prisons-ban-fantasy-and-science-fiction/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">lithub.com/censoring-imaginati</span><span class="invisible">on-why-prisons-ban-fantasy-and-science-fiction/</span></a></p><p>👿​</p>
@@ -753,24 +957,24 @@ On Nov. 16, 2023, NASA astronauts Reid Wiseman (left) and Christina Koch (middle
 
 ---
 
-## NASA’s Hubble Space Telescope to Resume Science Operations Soon
-
-date: 2023-12-07, from: NASA breaking news
-
-Updated, Dec. 7, 2023 NASA plans to restore the agency’s Hubble Space Telescope to science operations Friday, Dec. 8, following a series of tests to gain insight into the gyro performance that caused the spacecraft to pause science operations last week.  After analyzing the data, the team has determined science operations can resume under three-gyro […]
-
-<span class="feed-item-link">
-<a href="https://science.nasa.gov/missions/hubble/nasas-hubble-space-telescope-pauses-science-due-to-gyro-issue/">https://science.nasa.gov/missions/hubble/nasas-hubble-space-telescope-pauses-science-due-to-gyro-issue/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/nasas-hubble-space-telescope-pauses-science-due-to-gyro-issue/">Save to Pocket</a>
-</span>
-
----
-
 **@Dave Winer's Scripting News** (date: 2023-12-07, from: Dave Winer's Scripting News)
 
 I'm following my old programming buddy <a href="https://feedland.com/?feedurl=https%3A%2F%2Frss.firesky.tv%2F%3Ffilter%3Dfrom%3Amrwheat.bsky.social">in FeedLand</a>, on Automattic, via Bluesky. This is the kind of stuff I build. Chains of formats and servers where the interop goes where you want it to. A bell-ringer. <i>bing!</i>
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2023/12/07.html#a161735">http://scripting.com/2023/12/07.html#a161735</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/07.html#a161735">Save to Pocket</a>
+</span>
+
+---
+
+##  Basement Sign (Comic) 
+
+date: 2023-12-07, updated: 2023-12-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/basement-sign-comic">https://kottke.org/23/12/basement-sign-comic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/basement-sign-comic">Save to Pocket</a>
 </span>
 
 ---
@@ -879,6 +1083,18 @@ In the dynamic digital landscape of 2024, the development of technology platform
 
 ---
 
+##  The Cloisters, but make it gingerbread. (On view at the Museum of... 
+
+date: 2023-12-07, updated: 2023-12-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043583-the-cloisters-but-make-it">https://kottke.org/23/12/0043583-the-cloisters-but-make-it</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043583-the-cloisters-but-make-it">Save to Pocket</a>
+</span>
+
+---
+
 ## Why we want feeds in Bluesky
 
 date: 2023-12-07, from: Dave Winer's Scripting News
@@ -902,6 +1118,18 @@ date: 2023-12-07, from: Dave Winer's Scripting News
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2023/12/07/140505.html?title=whyWeWantFeedsInBluesky">http://scripting.com/2023/12/07/140505.html?title=whyWeWantFeedsInBluesky</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/07/140505.html?title=whyWeWantFeedsInBluesky">Save to Pocket</a>
+</span>
+
+---
+
+##  Out Today 
+
+date: 2023-12-07, updated: 2023-12-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/out-today">https://kottke.org/23/12/out-today</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/out-today">Save to Pocket</a>
 </span>
 
 ---
@@ -1241,6 +1469,18 @@ The mated Russian-built Zarya (left) and U.S.-built Unity modules are backdroppe
 
 ---
 
+##  Harry Clarke&#8217;s Illustrations 
+
+date: 2023-12-06, updated: 2023-12-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/harry-clarkes-illustrations">https://kottke.org/23/12/harry-clarkes-illustrations</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/harry-clarkes-illustrations">Save to Pocket</a>
+</span>
+
+---
+
 ## A little Yuletide pedantry
 
 date: 2023-12-06, from: Status-Q blog
@@ -1517,6 +1757,18 @@ Adam Chandler: Garmin had a few benefits Apple&#8217;s hardware did not thanks t
 
 ---
 
+##  Diary Comics, Nov. 7 
+
+date: 2023-12-06, updated: 2023-12-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/diary-comics-nov-7">https://kottke.org/23/12/diary-comics-nov-7</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/diary-comics-nov-7">Save to Pocket</a>
+</span>
+
+---
+
 ## Prophet version 4.14 now available
 
 date: 2023-12-06, from: RiscOS Story
@@ -1535,6 +1787,18 @@ There is a new version of accounts and stock management application Prophet avai
 
 <span class="feed-item-link">
 <a href="https://mastodon.social/@Migueldeicaza/111535007443245334">https://mastodon.social/@Migueldeicaza/111535007443245334</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111535007443245334">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;A funny story about Norman Lear on the day of his passing,... 
+
+date: 2023-12-06, updated: 2023-12-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043579-a-funny-story-about-norma">https://kottke.org/23/12/0043579-a-funny-story-about-norma</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043579-a-funny-story-about-norma">Save to Pocket</a>
 </span>
 
 ---
@@ -1575,6 +1839,18 @@ NASA’s Glenn Research Center Deputy Director Dawn Schaible provided an overvie
 
 ---
 
+##  The Story of &#8220;The Wexford Carol&#8221;  
+
+date: 2023-12-06, updated: 2023-12-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/the-story-of-the-wexford-carol">https://kottke.org/23/12/the-story-of-the-wexford-carol</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/the-story-of-the-wexford-carol">Save to Pocket</a>
+</span>
+
+---
+
 ## Six Finalists Named in NASA’s $3.5 Million Break the Ice Challenge
 
 date: 2023-12-06, from: NASA breaking news
@@ -1593,6 +1869,18 @@ We could make this election a literary expo. Get the great apocalypse scifi and 
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2023/12/06.html#a164851">http://scripting.com/2023/12/06.html#a164851</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/06.html#a164851">Save to Pocket</a>
+</span>
+
+---
+
+##  Owl (Comic) 
+
+date: 2023-12-06, updated: 2023-12-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/owl-comic">https://kottke.org/23/12/owl-comic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/owl-comic">Save to Pocket</a>
 </span>
 
 ---
@@ -1633,12 +1921,48 @@ NASA released its free Open Science 101 curriculum Wednesday to empower research
 
 ---
 
+##  Millennial Mom-hood 
+
+date: 2023-12-06, updated: 2023-12-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/millennial-mom-hood">https://kottke.org/23/12/millennial-mom-hood</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/millennial-mom-hood">Save to Pocket</a>
+</span>
+
+---
+
 **@Dave Winer's Scripting News** (date: 2023-12-06, from: Dave Winer's Scripting News)
 
 Recreating Twitter is boring. One of these ventures that's trying to do that should blow the doors off the whole thing, and get rid of every limit. Just support writing and reading and <a href="http://textcasting.org/">get on with it</a>.
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2023/12/06.html#a150248">http://scripting.com/2023/12/06.html#a150248</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/06.html#a150248">Save to Pocket</a>
+</span>
+
+---
+
+##  Victorian seaweed-themed Christmas cards, why not? The rhymes could be a little... 
+
+date: 2023-12-06, updated: 2023-12-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043572-seaweed-themed-christmas-">https://kottke.org/23/12/0043572-seaweed-themed-christmas-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043572-seaweed-themed-christmas-">Save to Pocket</a>
+</span>
+
+---
+
+##  Great Kids&#8217; Book: Little Witch Hazel 
+
+date: 2023-12-06, updated: 2023-12-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/great-kids-book-little-witch-hazel">https://kottke.org/23/12/great-kids-book-little-witch-hazel</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/great-kids-book-little-witch-hazel">Save to Pocket</a>
 </span>
 
 ---
@@ -1920,6 +2244,18 @@ If you've been reading <a href="http://news.scripting.com/">news.scripting.com</
 
 ---
 
+##  Another Knitting Post: The Pengweeno Cardigan 
+
+date: 2023-12-05, updated: 2023-12-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/another-knitting-post">https://kottke.org/23/12/another-knitting-post</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/another-knitting-post">Save to Pocket</a>
+</span>
+
+---
+
 ## “Not consistently candid”
 
 date: 2023-12-05, from: Gary Marcus blog
@@ -1950,6 +2286,18 @@ An overwhelming majority of readers would like news publishers to tell them when
 
 <span class="feed-item-link">
 <a href="https://www.niemanlab.org/2023/12/most-readers-want-publishers-to-label-ai-generated-articles-but-trust-outlets-less-when-they-do/">https://www.niemanlab.org/2023/12/most-readers-want-publishers-to-label-ai-generated-articles-but-trust-outlets-less-when-they-do/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/most-readers-want-publishers-to-label-ai-generated-articles-but-trust-outlets-less-when-they-do/">Save to Pocket</a>
+</span>
+
+---
+
+##  When I was collecting links to share in advance of this guest-blogging... 
+
+date: 2023-12-05, updated: 2023-12-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043569-when-i-was-collecting-lin">https://kottke.org/23/12/0043569-when-i-was-collecting-lin</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043569-when-i-was-collecting-lin">Save to Pocket</a>
 </span>
 
 ---
@@ -2038,6 +2386,18 @@ date: 2023-12-05, from: Tilde.news
 
 ---
 
+##  Diary Comics, Nov. 5 & 6 
+
+date: 2023-12-05, updated: 2023-12-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/diary-comics-nov-5-6">https://kottke.org/23/12/diary-comics-nov-5-6</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/diary-comics-nov-5-6">Save to Pocket</a>
+</span>
+
+---
+
 ## Google’s $100 million to Canada’s news industry is a small price to pay to avoid regulation
 
 date: 2023-12-05, from: Nieman Journalism Lab
@@ -2050,6 +2410,18 @@ The deal between Google and the federal government to resolve their dispute over
 
 ---
 
+##  Yesterday I learned that there&#8217;s a newsletter dedicated to reviewing New Yorker... 
+
+date: 2023-12-05, updated: 2023-12-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043568-yesterday-i-learned-that-">https://kottke.org/23/12/0043568-yesterday-i-learned-that-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043568-yesterday-i-learned-that-">Save to Pocket</a>
+</span>
+
+---
+
 ## NASA Leaders to Highlight 25th Anniversary of Space Station with Crew
 
 date: 2023-12-05, from: NASA breaking news
@@ -2058,6 +2430,18 @@ NASA is celebrating the 25th anniversary of International Space Station operatio
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/news-release/nasa-leaders-to-highlight-25th-anniversary-of-space-station-with-crew/">https://www.nasa.gov/news-release/nasa-leaders-to-highlight-25th-anniversary-of-space-station-with-crew/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-leaders-to-highlight-25th-anniversary-of-space-station-with-crew/">Save to Pocket</a>
+</span>
+
+---
+
+##  Tricycle Magazine and an Essay About Stuttering 
+
+date: 2023-12-05, updated: 2023-12-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/tricycle">https://kottke.org/23/12/tricycle</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/tricycle">Save to Pocket</a>
 </span>
 
 ---
@@ -2082,6 +2466,30 @@ date: 2023-12-05, updated: 2023-12-05, from: One Foot Tsunami
 
 <span class="feed-item-link">
 <a href="https://onefoottsunami.com/2023/12/05/it-knows-what-not-to-do/">https://onefoottsunami.com/2023/12/05/it-knows-what-not-to-do/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2023/12/05/it-knows-what-not-to-do/">Save to Pocket</a>
+</span>
+
+---
+
+##  Mermaid Entrepreneur (Comic) 
+
+date: 2023-12-05, updated: 2023-12-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/mermaid-entrepreneur-comic">https://kottke.org/23/12/mermaid-entrepreneur-comic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/mermaid-entrepreneur-comic">Save to Pocket</a>
+</span>
+
+---
+
+##  I Drink Water and Mind My Business 
+
+date: 2023-12-05, updated: 2023-12-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/i-drink-water-and-mind-my-business">https://kottke.org/23/12/i-drink-water-and-mind-my-business</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/i-drink-water-and-mind-my-business">Save to Pocket</a>
 </span>
 
 ---
@@ -2520,6 +2928,18 @@ Jeff Johnson: The good news is that when you navigate to a new page in a Safari 
 
 ---
 
+##  Fruit-Themed Running Clothes for Adults 
+
+date: 2023-12-04, updated: 2023-12-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/fruit-themed-running-clothes-for-adults">https://kottke.org/23/12/fruit-themed-running-clothes-for-adults</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/fruit-themed-running-clothes-for-adults">Save to Pocket</a>
+</span>
+
+---
+
 ## Just five days to go until the MUG RISC OS Xmas Market
 
 date: 2023-12-04, from: RiscOS Story
@@ -2532,6 +2952,18 @@ In case you haven&#8217;t noticed any previous references, such as the first ann
 
 ---
 
+##  &#8220;The next day, his Twitter &#8230; mentions were filled with angry people... 
+
+date: 2023-12-04, updated: 2023-12-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043564-the-next-day-his-twitter">https://kottke.org/23/12/0043564-the-next-day-his-twitter</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043564-the-next-day-his-twitter">Save to Pocket</a>
+</span>
+
+---
+
 ## NASA Audio Specialist Named in Forbes 30 Under 30 List of Innovators
 
 date: 2023-12-04, from: NASA breaking news
@@ -2540,6 +2972,18 @@ Katie Konans, NASA’s audio and podcasting lead at the agency’s Goddard Space
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-audio-specialist-named-in-forbes-30-under-30-list-of-innovators/">https://www.nasa.gov/centers-and-facilities/goddard/nasa-audio-specialist-named-in-forbes-30-under-30-list-of-innovators/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/goddard/nasa-audio-specialist-named-in-forbes-30-under-30-list-of-innovators/">Save to Pocket</a>
+</span>
+
+---
+
+##  Roz Chast&#8217;s Embroidery: An Appreciation 
+
+date: 2023-12-04, updated: 2023-12-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/roz-chasts-embroidery">https://kottke.org/23/12/roz-chasts-embroidery</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/roz-chasts-embroidery">Save to Pocket</a>
 </span>
 
 ---
@@ -2580,6 +3024,18 @@ A prominent disinformation scholar has accused Harvard University of dismissing 
 
 ---
 
+##  Diary Comics: Nov. 2, 3, & 4 
+
+date: 2023-12-04, updated: 2023-12-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/diary-comics-nov-3-4">https://kottke.org/23/12/diary-comics-nov-3-4</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/diary-comics-nov-3-4">Save to Pocket</a>
+</span>
+
+---
+
 ## Comic - A Worthwhile Trade
 
 date: 2023-12-04, from: Computer ads from the Past
@@ -2600,6 +3056,18 @@ Engineers and technicians at NASA’s Marshall Space Flight Center in Huntsville
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/image-article/nasa-continues-progress-on-artemis-iii-rocket-adapter-with-key-joint-installation/">https://www.nasa.gov/image-article/nasa-continues-progress-on-artemis-iii-rocket-adapter-with-key-joint-installation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasa-continues-progress-on-artemis-iii-rocket-adapter-with-key-joint-installation/">Save to Pocket</a>
+</span>
+
+---
+
+##  Cool Old Songs, Part One 
+
+date: 2023-12-04, updated: 2023-12-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/random-old-song-recommendation">https://kottke.org/23/12/random-old-song-recommendation</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/random-old-song-recommendation">Save to Pocket</a>
 </span>
 
 ---
@@ -2648,6 +3116,18 @@ date: 2023-12-04, from: Tilde.news
 
 <span class="feed-item-link">
 <a href="https://www.datagubbe.se/30yearcomp/">https://www.datagubbe.se/30yearcomp/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.datagubbe.se/30yearcomp/">Save to Pocket</a>
+</span>
+
+---
+
+##  The &#8220;Sunday Long Read&#8221; newsletter linked to two parenting-adjacent stories yesterday, on... 
+
+date: 2023-12-04, updated: 2023-12-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043560-the-sunday-long-read-news">https://kottke.org/23/12/0043560-the-sunday-long-read-news</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043560-the-sunday-long-read-news">Save to Pocket</a>
 </span>
 
 ---
@@ -2701,6 +3181,30 @@ In 2019, the GLOBE Land Cover project began asking volunteers to help map plan
 
 ---
 
+##  Reading NYT book critic Dwight Garner&#8217;s memories of the books that he... 
+
+date: 2023-12-04, updated: 2023-12-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043559-reading-nyt-book-critic-d">https://kottke.org/23/12/0043559-reading-nyt-book-critic-d</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043559-reading-nyt-book-critic-d">Save to Pocket</a>
+</span>
+
+---
+
+##  Searching for a Wedding Dress Accessory (Comic) 
+
+date: 2023-12-04, updated: 2023-12-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/searching-for-a-wedding-dress-accessory-comic">https://kottke.org/23/12/searching-for-a-wedding-dress-accessory-comic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/searching-for-a-wedding-dress-accessory-comic">Save to Pocket</a>
+</span>
+
+---
+
 ## 30 Years Ago: STS-61, the First Hubble Servicing Mission
 
 date: 2023-12-04, from: NASA breaking news
@@ -2733,6 +3237,18 @@ date: 2023-12-04, updated: 2023-12-05, from: One Foot Tsunami
 
 <span class="feed-item-link">
 <a href="https://onefoottsunami.com/2023/12/04/dont-lead-with-your-love-rap/">https://onefoottsunami.com/2023/12/04/dont-lead-with-your-love-rap/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2023/12/04/dont-lead-with-your-love-rap/">Save to Pocket</a>
+</span>
+
+---
+
+##  How to Cook Turkey With Just Chicken and Cinnamon 
+
+date: 2023-12-04, updated: 2023-12-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/how-to-cook-a-turkey-with-just-chicken-and-cinnamon">https://kottke.org/23/12/how-to-cook-a-turkey-with-just-chicken-and-cinnamon</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/how-to-cook-a-turkey-with-just-chicken-and-cinnamon">Save to Pocket</a>
 </span>
 
 ---

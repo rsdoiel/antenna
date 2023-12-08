@@ -31,7 +31,7 @@ https://www.mvariety.com/search/?nsa=eeditionl=50&t=article&f=atom "~Marianas Va
 
 
 # From the Republic of Belau
-https://www.tiabelaunews.com/?feed=rss2 "~Tia Belau (Palau's First Newspaper)"
+#https://www.tiabelaunews.com/?feed=rss2 "~Tia Belau (Palau's First Newspaper)" # gives warning about logging to view content, 2023-12-08
 https://islandtimes.org/feed/ "~Island Times"
 
 # Republic of the Marshal Islands
