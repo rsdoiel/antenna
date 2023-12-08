@@ -218,6 +218,7 @@ https://www.hangaroundtheweb.com/index.xml "~Hanging Around the Web blog"
 #https://kilianvalkhof.com/feed/ "~Kilian Valkhof's blog"
 http://feeds.feedburner.com/Kilianvalkhofcom "~Kilian Valkhof's blog"
 https://infrequently.org/feed/ "~Alex Russel's blog"
+https://go-colly.org/articles/index.xml "~Coly blog (Golang web scraper library)"
 
 #
 # Problem feeds

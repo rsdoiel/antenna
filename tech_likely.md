@@ -1,11 +1,276 @@
 ---
 title: tech likely 2023.49
-updated: 2023-12-07 11:20:14
+updated: 2023-12-07 18:16:13
 ---
 
 # tech likely 2023.49
 
-(date: 2023-12-07 11:20:14)
+(date: 2023-12-07 18:16:13)
+
+---
+
+## Fvwm3 1.0.9 released
+
+date: 2023-12-08, from: OS News
+
+Fvwm3, the successor to fvwm 2.6, has a new version, 1.0.9. This highly customisable and lightweight window manager for X has been around for a very long time, since 1993, and has been in development ever since. This new release, as the version number suggests, does not have the longest changelog. If you&#8217;re a user of fvwm, you already know exactly what 1.0.9 will mean for you.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138027/fvwm3-1-0-9-released/">https://www.osnews.com/story/138027/fvwm3-1-0-9-released/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138027/fvwm3-1-0-9-released/">Save to Pocket</a>
+</span>
+
+---
+
+## HP misreads room, awkwardly brags about its “less hated” printers
+
+date: 2023-12-08, from: OS News
+
+HP knows people have grown to hate printers. It even knows that people hate HP printers. But based on a new marketing campaign the company launched, HP is OK with that—so long as it can convince people that there are worse options out there. The marketing campaign hitting parts of Europe aims to present HP as real and empathetic. The tagline &#8220;Made to be less hated&#8221; seems to acknowledge people&#8217;s frustration with printers. But HP&#8217;s a top proponent of the exact sort of money-grabbing, disruptive practices that have turned people against printers. ↫ Scharon Harding at Ars Technica I need to print something maybe a few times a year, and I still hate dealing with my printer more than any other tech item in my house. Everything about them is bad, and no cutesy marketing campaign centrered on them being bad is going to change that.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138025/hp-misreads-room-awkwardly-brags-about-its-less-hated-printers/">https://www.osnews.com/story/138025/hp-misreads-room-awkwardly-brags-about-its-less-hated-printers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138025/hp-misreads-room-awkwardly-brags-about-its-less-hated-printers/">Save to Pocket</a>
+</span>
+
+---
+
+## Gifts that Keep Giving: December’s Federal Funding Finds!
+
+date: 2023-12-08, from: Infrastructure LA Blog
+
+Gifts that Keep Giving: December's Federal Funding Finds!  Infrastructure Forum: Reflecting on Progress and Commitment  We extend our heartfelt gratitude to all those who participated in the enlightening LA Infrastructure Forum hosted by Engineering News Record (ENR) on November 20 in Los Angeles. The day was filled with insightful discussions, presentations, and  [...]
+
+<span class="feed-item-link">
+<a href="https://infrastructurela.org/intel20/?utm_source=rss&utm_medium=rss&utm_campaign=intel20">https://infrastructurela.org/intel20/?utm_source=rss&utm_medium=rss&utm_campaign=intel20</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://infrastructurela.org/intel20/?utm_source=rss&utm_medium=rss&utm_campaign=intel20">Save to Pocket</a>
+</span>
+
+---
+
+## ahcc: Atari ST C89 Compiler (Mirror)
+
+date: 2023-12-07, from: Tilde.news
+
+<p><a href="https://tilde.news/s/w4wvsl/ahcc_atari_st_c89_compiler_mirror">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://github.com/swetland/ahcc">https://github.com/swetland/ahcc</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://github.com/swetland/ahcc">Save to Pocket</a>
+</span>
+
+---
+
+## Notes from #WIRED30
+
+date: 2023-12-07, from: Dave Karpf's blog
+
+Tech's center of gravity has shifted a lot over the past thirty years
+
+<span class="feed-item-link">
+<a href="https://davekarpf.substack.com/p/notes-from-wired30">https://davekarpf.substack.com/p/notes-from-wired30</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://davekarpf.substack.com/p/notes-from-wired30">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Selects Contractors for Ground Support Equipment Fabrication
+
+date: 2023-12-07, from: NASA breaking news
+
+NASA has selected the following companies for a multiple award, indefinite-delivery/indefinite-quantity contract to fabricate ground support equipment at the agency’s Kennedy Space Center in Florida: The work will support Artemis, including missions to land the first woman and person of color on the Moon. The contractors will provide management, labor, facilities, materials, equipment, and other [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-selects-contractors-for-ground-support-equipment-fabrication/">https://www.nasa.gov/news-release/nasa-selects-contractors-for-ground-support-equipment-fabrication/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-selects-contractors-for-ground-support-equipment-fabrication/">Save to Pocket</a>
+</span>
+
+---
+
+## Grandma on a snowy winter day
+
+date: 2023-12-07, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2023/12/07/grandmaMooseAndBarnabyOnAColdDayInTheMountains.png"></center>Moose the cat sits in Grandma's lap while Lionel the dog keeps her feet warm.</div></p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/07/205026.html?title=grandmaOnASnowyWinterDay">http://scripting.com/2023/12/07/205026.html?title=grandmaOnASnowyWinterDay</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/07/205026.html?title=grandmaOnASnowyWinterDay">Save to Pocket</a>
+</span>
+
+---
+
+## Sony officially launches its PS5 Access Controller for disabled gamers
+
+date: 2023-12-07, from: OS News
+
+The controller, which was created in collaboration with disabled gaming groups such as AbleGamers, Stack-Up, and SpecialEffect, has a unique circular design. The controller comes with a number of different button caps, along with three stick caps that can be changed out to suit the specific needs of the gamer. The controller itself is also designed to rest on a flat surface for players that would require that kind of feature. ↫ John Callaham at Neowin Microsoft has a similar product as well, and it&#8217;s great that disabled people who want to play games are being taken so much more seriously these days. Excellent work from both console giants.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138023/sony-officially-launches-its-ps5-access-controller-for-disabled-gamers/">https://www.osnews.com/story/138023/sony-officially-launches-its-ps5-access-controller-for-disabled-gamers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138023/sony-officially-launches-its-ps5-access-controller-for-disabled-gamers/">Save to Pocket</a>
+</span>
+
+---
+
+## End-to-End Security for Facebook Messenger
+
+date: 2023-12-07, from: Michael Tsai
+
+Jon Millican and Reed Riley (Hacker News): We are beginning to upgrade people&#8217;s personal conversations on Messenger to use end-to-end encryption (E2EE) by default.Meta is publishing two technical white papers on end-to-end encryption:Our Messenger end-to-end encryption whitepaper describes the core cryptographic protocol for transmitting messages between clients.The Labyrinth encrypted storage protocol whitepaper explains our protocol [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/07/end-to-end-security-for-facebook-messenger/">https://mjtsai.com/blog/2023/12/07/end-to-end-security-for-facebook-messenger/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/07/end-to-end-security-for-facebook-messenger/">Save to Pocket</a>
+</span>
+
+---
+
+## Privacy Manifests Update
+
+date: 2023-12-07, from: Michael Tsai
+
+Apple: Starting in spring 2024, if your new app or app update submission adds a third-party SDK that is commonly used in apps on the App&#160;Store, you&#8217;ll need to include the privacy manifest for the SDK. Signatures are also required when the SDK is used as a binary dependency. [&#8230;] Based on the feedback we [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/07/privacy-manifests-update/">https://mjtsai.com/blog/2023/12/07/privacy-manifests-update/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/07/privacy-manifests-update/">Save to Pocket</a>
+</span>
+
+---
+
+## TV.app in tvOS 17.2
+
+date: 2023-12-07, from: Michael Tsai
+
+Benjamin Mayo (MacRumors): Apple will discontinue the standalone iTunes Movies and iTunes TV Shows apps on the Apple TV box, starting with tvOS 17.2 The warning message seen above has started appearing in the release candidate version of tvOS 17.2 beta, released yesterday. [&#8230;] Apple has updated the TV app in 17.2 in preparation of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/07/tv-app-in-tvos-17-2/">https://mjtsai.com/blog/2023/12/07/tv-app-in-tvos-17-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/07/tv-app-in-tvos-17-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Sonoma’s “cp -l” Won’t Create Links
+
+date: 2023-12-07, from: Michael Tsai
+
+Rob Griffiths: I ran into this while working on a Keyboard Maestro macro that creates hard links: The macOS version of cp won&#8217;t create links, at least not in Sonoma. In Ventura, it works even though it throws the same error as it does in Sonoma.[&#8230;]I have filed this bug as FB13255408 with Apple, and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/07/sonomas-cp-l-wont-create-links/">https://mjtsai.com/blog/2023/12/07/sonomas-cp-l-wont-create-links/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/07/sonomas-cp-l-wont-create-links/">Save to Pocket</a>
+</span>
+
+---
+
+## The MacBook Air Gap
+
+date: 2023-12-07, from: Michael Tsai
+
+Joe Rosensteel: Why do I care about the &#8220;Pro&#8221; chip so much? Despite the name the Pro is really the middle chip, but there&#8217;s no middle laptop for it. The base M2 and M3 can be configured with more RAM (to a point) but they can&#8217;t be configured with extra ports, or even drive more [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/07/the-macbook-air-gap/">https://mjtsai.com/blog/2023/12/07/the-macbook-air-gap/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/07/the-macbook-air-gap/">Save to Pocket</a>
+</span>
+
+---
+
+## Filing Mail Messages on Sonoma Using the Keyboard
+
+date: 2023-12-07, from: Michael Tsai
+
+Adam Tow: As I continue to investigate how to bring MsgFiler to macOS Sonoma, here&#8217;s a tip from a user that allows you to file messages via the keyboard on Sonoma. It also works on previous versions of macOS dating back to 2011.Select a message to fileClick on the Help menu or press Command-Shift-/Type in [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/07/filing-mail-messages-on-sonoma-using-the-keyboard/">https://mjtsai.com/blog/2023/12/07/filing-mail-messages-on-sonoma-using-the-keyboard/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/07/filing-mail-messages-on-sonoma-using-the-keyboard/">Save to Pocket</a>
+</span>
+
+---
+
+## FastSpring Risk Screening
+
+date: 2023-12-07, from: Michael Tsai
+
+I received a pair of e-mails from one of my payment processors, FastSpring, which included this text: Our implemented process is designed to ensure full alignment and compliance with regulatory standards, including KYC/KYB (Know Your Customer/Know Your Business) requirements, Anti-Money Laundering (AML) regulations, Countering the Financing of Terrorism (CFT) guidelines, and international sanctions screening. We&#8217;ve [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/07/fastspring-risk-screening/">https://mjtsai.com/blog/2023/12/07/fastspring-risk-screening/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/07/fastspring-risk-screening/">Save to Pocket</a>
+</span>
+
+---
+
+## The truth about Google’s amazing new demo
+
+date: 2023-12-07, from: Gary Marcus blog
+
+Friends don&#8217;t let friends take demos seriously
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/the-truth-about-googles-amazing-new">https://garymarcus.substack.com/p/the-truth-about-googles-amazing-new</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/the-truth-about-googles-amazing-new">Save to Pocket</a>
+</span>
+
+---
+
+## Media owners in the crosshairs as Trump craves retribution
+
+date: 2023-12-07, from: Nieman Journalism Lab
+
+Think ahead to the fall of 2024. The Republican party nominee for president pledges that his administration will open investigations into media companies that make statements his voters don&#8217;t like to hear. This nominee has a very real chance of winning the election. And he has promised to act not on his own impulses, not...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/media-owners-in-the-crosshairs-as-trump-craves-retribution/">https://www.niemanlab.org/2023/12/media-owners-in-the-crosshairs-as-trump-craves-retribution/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/media-owners-in-the-crosshairs-as-trump-craves-retribution/">Save to Pocket</a>
+</span>
+
+---
+
+## TV rewards the authoritarian candidate
+
+date: 2023-12-07, from: Nieman Journalism Lab
+
+The stakes have never been higher for American democracy. The most likely winner of the Republican primary in 2024 called for the disruption of the certification of the electoral vote in 2020, insists without evidence that the 2020 election was stolen, refuses to take part in the Republican National Committee primary debates, refers to political...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/tv-rewards-the-authoritarian-candidate/">https://www.niemanlab.org/2023/12/tv-rewards-the-authoritarian-candidate/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/tv-rewards-the-authoritarian-candidate/">Save to Pocket</a>
+</span>
+
+---
+
+## Newsrooms (re)discover the magic of project management
+
+date: 2023-12-07, from: Nieman Journalism Lab
+
+If you want to see a journalist recoil and slowly back away from you, start talking about Gantt charts, RACI responsibility matrices and project post-mortem meetings. But they can’t run forever. As newsrooms face increasing pressure to develop new ways of working, and to adapt to changing audience behaviors, many more reporters and editors will...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/newsrooms-rediscover-the-magic-of-project-management/">https://www.niemanlab.org/2023/12/newsrooms-rediscover-the-magic-of-project-management/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/newsrooms-rediscover-the-magic-of-project-management/">Save to Pocket</a>
+</span>
+
+---
+
+## Humans hold their own against the robots
+
+date: 2023-12-07, from: Nieman Journalism Lab
+
+I spent a decent amount of time conversing with chatbots this year, trying to gauge how effective they are at writing and editing. Their headlines were boring. Their social posts sounded like they were written by overcaffeinated marketers. Their copy was predictable, or it was inaccurate. They certainly couldn’t gain the trust of sources or...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/humans-hold-their-own-against-the-robots/">https://www.niemanlab.org/2023/12/humans-hold-their-own-against-the-robots/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/humans-hold-their-own-against-the-robots/">Save to Pocket</a>
+</span>
+
+---
+
+## Local news will adapt to low demand
+
+date: 2023-12-07, from: Nieman Journalism Lab
+
+In 2023, many public discussions about the future of American democracy centered on increasing the supply of local news. The situation is certainly dire: By the end of 2024, Northwestern’s Local News Initiative predicts that the United States will have lost one-third of its newspapers since 2005. Press Forward — a collaborative of philanthropists including...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/local-news-will-adapt-to-low-demand/">https://www.niemanlab.org/2023/12/local-news-will-adapt-to-low-demand/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/local-news-will-adapt-to-low-demand/">Save to Pocket</a>
+</span>
+
+---
+
+## The rise of the AI class
+
+date: 2023-12-07, from: Nieman Journalism Lab
+
+If you’re not paying close attention, you might dismiss generative AI as a fleeting technophilic trend or an existential threat. This year&#8217;s breathless chatter about ChatGPT echoes past hoopla over blockchain, NFTs, or the “pivot to video.” Moreover, AI certainly had its pitfalls this year. Missteps involving AI-driven articles not only embarrassed the responsible news...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/the-rise-of-the-ai-class/">https://www.niemanlab.org/2023/12/the-rise-of-the-ai-class/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/the-rise-of-the-ai-class/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -127,7 +392,7 @@ date: 2023-12-07, from: Jeff Geerling blog
 
             <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Following up on my <a href="https://www.jeffgeerling.com/blog/2021/look-inside-raspberry-pi-zero-2-w-and-rp3a0-au">X-ray scans of the Raspberry Pi Zero 2 W</a> two years ago, I had the opportunity to scan the Raspberry Pi 5, working with an electronics inspection lab:</p>
 
-<p><img src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-5-xray-transition-geerling.jpg" width="500" height="auto" class="insert-image" alt="Raspberry Pi 5 transition to X-ray" /></p>
+<p><img src="https://www.jeffgeerling.com/sites/default/files/images/raspberry-pi-5-transition-x-ray.jpg" width="700" height="auto" class="insert-image" alt="Raspberry Pi 5 Transition to X-ray" /></p>
 
 <p>I posted <a href="https://www.youtube.com/watch?v=MoTSSTfPXEA">a video detailing everything I imaged on the board</a>, but in this blog post, I'll hit on the highlights—the new chips at the heart of the Pi 5: the BCM2712 SoC and the RP1 'southbridge'.</p></div>
       <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
@@ -147,6 +412,18 @@ Audience development roles became ever more challenging in 2023 with Big Tech pi
 
 <span class="feed-item-link">
 <a href="https://www.niemanlab.org/2023/12/for-audience-development-less-is-more/">https://www.niemanlab.org/2023/12/for-audience-development-less-is-more/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/for-audience-development-less-is-more/">Save to Pocket</a>
+</span>
+
+---
+
+## We get past “post-platform”
+
+date: 2023-12-07, from: Nieman Journalism Lab
+
+Audience development roles became ever more challenging in 2023 with Big Tech pivots, new platform launches, and the unknown threats and opportunities of generative AI. In 2024, we&#8217;ll need new frameworks to help us prioritize the places we go to to meet our audiences. 2023 timeline: The year of &#8220;post-platform&#8221; fragmentation A snafu by Meta...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/we-get-past-post-platform/">https://www.niemanlab.org/2023/12/we-get-past-post-platform/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/we-get-past-post-platform/">Save to Pocket</a>
 </span>
 
 ---
@@ -274,10 +551,22 @@ A <a href="https://en.wikipedia.org/wiki/Corollary">corrollary</a> to the <a hre
 
 **@Dave Winer's Scripting News** (date: 2023-12-07, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2019/12/24/santa.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Twitter poisoned our minds with the idea that by taking away the basic features of writing on the web they were encouraging people to write shorter, better, more to-the-point posts and that would make communication on the web like poetry. It was a very zen-like mystical idea, and <s>totally wrong</s> complete bullshit. And it's still repeated as if it were gospel -- it's a typical response when I beg for a standard that is more realistic, that incorporates the <a href="http://textcasting.org/">basic features of web writing</a>: simple styles, links, optional titles, enclosures, the ability to edit and unlimited length. The fallacy of this response is that you are free to write however you want, if you feel your ideas are better communicated in short messages, go ahead. I want to use all the tools in my writing. And if you don't want to read all that I write or any of it, there are tools that make that easy. So everyone wins, and you don't have to try to impose your ideas of religiously pure writing on anyone but yourself.
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/12/24/santa.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Twitter poisoned our minds with the idea that by taking away the basic features of writing on the web they were encouraging people to write shorter, better, more to-the-point posts and that would make communication on the web like poetry. It was a very zen-like mystical idea, and imho totally wrong. And it's still repeated as if it were gospel -- it's a typical response when I beg for a standard that is more realistic, that incorporates the <a href="http://textcasting.org/">basic features of web writing</a>: simple styles, links, optional titles, enclosures, the ability to edit and unlimited length. The fallacy of this response is that you are free to write however you want, if you feel your ideas are better communicated in short messages, go ahead. I want to use all the tools in my writing. And if you don't want to read all that I write or any of it, there are tools that make that easy. So everyone wins, and you don't have to try to impose your ideas of religiously pure writing on anyone but yourself.
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2023/12/07.html#a132459">http://scripting.com/2023/12/07.html#a132459</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/07.html#a132459">Save to Pocket</a>
+</span>
+
+---
+
+## The “I’d Give a Kidney” Sort of Bond
+
+date: 2023-12-07, updated: 2023-12-07, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2023/12/07/the-id-give-a-kidney-sort-of-bond/">https://onefoottsunami.com/2023/12/07/the-id-give-a-kidney-sort-of-bond/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2023/12/07/the-id-give-a-kidney-sort-of-bond/">Save to Pocket</a>
 </span>
 
 ---
@@ -917,6 +1206,18 @@ We could make this election a literary expo. Get the great apocalypse scifi and 
 
 ---
 
+## I am a poem I am not software
+
+date: 2023-12-06, updated: 2023-12-06, from: Robin Rendle Essays
+
+
+
+<span class="feed-item-link">
+<a href="https://robinrendle.com/notes/i-am-a-poem-i-am-not-software/">https://robinrendle.com/notes/i-am-a-poem-i-am-not-software/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robinrendle.com/notes/i-am-a-poem-i-am-not-software/">Save to Pocket</a>
+</span>
+
+---
+
 ## Hot take on Google’s Gemini and GPT-4
 
 date: 2023-12-06, from: Gary Marcus blog
@@ -947,6 +1248,18 @@ Recreating Twitter is boring. One of these ventures that's trying to do that sho
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2023/12/06.html#a150248">http://scripting.com/2023/12/06.html#a150248</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/06.html#a150248">Save to Pocket</a>
+</span>
+
+---
+
+## That Name Is Also Terribly Derivative of “Hannah Montana”
+
+date: 2023-12-06, updated: 2023-12-06, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2023/12/06/that-name-is-also-terribly-derivative-of-hannah-montana/">https://onefoottsunami.com/2023/12/06/that-name-is-also-terribly-derivative-of-hannah-montana/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2023/12/06/that-name-is-also-terribly-derivative-of-hannah-montana/">Save to Pocket</a>
 </span>
 
 ---
@@ -1366,6 +1679,18 @@ Terraform is a popular tool used to safely and predictably provision and manage 
 
 <span class="feed-item-link">
 <a href="https://deno.com/blog/terraform">https://deno.com/blog/terraform</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://deno.com/blog/terraform">Save to Pocket</a>
+</span>
+
+---
+
+## It Knows What Not to Do
+
+date: 2023-12-05, updated: 2023-12-05, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2023/12/05/it-knows-what-not-to-do/">https://onefoottsunami.com/2023/12/05/it-knows-what-not-to-do/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2023/12/05/it-knows-what-not-to-do/">Save to Pocket</a>
 </span>
 
 ---
@@ -2005,6 +2330,18 @@ Early language acquisition students, at the elementary and middle school levels,
 
 <span class="feed-item-link">
 <a href="https://typeclasses.substack.com/p/mise-en-place">https://typeclasses.substack.com/p/mise-en-place</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://typeclasses.substack.com/p/mise-en-place">Save to Pocket</a>
+</span>
+
+---
+
+## Don’t Lead With Your Love Rap
+
+date: 2023-12-04, updated: 2023-12-05, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2023/12/04/dont-lead-with-your-love-rap/">https://onefoottsunami.com/2023/12/04/dont-lead-with-your-love-rap/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2023/12/04/dont-lead-with-your-love-rap/">Save to Pocket</a>
 </span>
 
 ---

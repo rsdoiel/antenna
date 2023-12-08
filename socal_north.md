@@ -1,11 +1,491 @@
 ---
 title: socal north 2023.49
-updated: 2023-12-07 11:20:13
+updated: 2023-12-07 18:16:13
 ---
 
 # socal north 2023.49
 
-(date: 2023-12-07 11:20:13)
+(date: 2023-12-07 18:16:13)
+
+---
+
+## Focusing on the Reason for the Season at the Annual Winter Wonderland Event
+
+date: 2023-12-08, from: The Canyon News (COC Student Newspaper)
+
+<p>Members of the Santa Clarita Valley had the chance to enjoy a&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/focusing-on-the-reason-for-the-season-at-the-annual-winter-wonderland-event/">Focusing on the Reason for the Season at the Annual Winter Wonderland Event</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/focusing-on-the-reason-for-the-season-at-the-annual-winter-wonderland-event/">https://canyonsnews.com/focusing-on-the-reason-for-the-season-at-the-annual-winter-wonderland-event/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/focusing-on-the-reason-for-the-season-at-the-annual-winter-wonderland-event/">Save to Pocket</a>
+</span>
+
+---
+
+## Students in Rieber Hall express concern about rodents in dorm area
+
+date: 2023-12-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students living in Rieber Hall said they have seen rats and mice in their dorms during fall quarter.
+In an emailed statement, UCLA Housing said it has received reports of rodents in some residential buildings.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/07/students-in-rieber-hall-express-concern-about-rodents-in-dorm-area/">https://dailybruin.com/2023/12/07/students-in-rieber-hall-express-concern-about-rodents-in-dorm-area/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/07/students-in-rieber-hall-express-concern-about-rodents-in-dorm-area/">Save to Pocket</a>
+</span>
+
+---
+
+## The 10,000th Marine Mammal Has Been Treated And Released From A San Pedro Center
+
+date: 2023-12-08, updated: 2023-12-08, from: The LAist
+
+The climate crisis will increase the number of marine mammals needing treatment, experts say.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/10000th-marine-mammal-released-san-pedro-center">https://laist.com/news/climate-environment/10000th-marine-mammal-released-san-pedro-center</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/10000th-marine-mammal-released-san-pedro-center">Save to Pocket</a>
+</span>
+
+---
+
+## LA's Metro Buses Will Use AI To Ticket Drivers Parked In Bus Lanes
+
+date: 2023-12-07, updated: 2023-12-07, from: The LAist
+
+Metro is partnering with Hayden AI to install the cameras and be fully operating by spring 2024.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/transportation/las-metro-buses-will-use-ai-to-ticket-drivers-parked-in-bus-lanes">https://laist.com/news/transportation/las-metro-buses-will-use-ai-to-ticket-drivers-parked-in-bus-lanes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/transportation/las-metro-buses-will-use-ai-to-ticket-drivers-parked-in-bus-lanes">Save to Pocket</a>
+</span>
+
+---
+
+## Expect Lane Closures on Lyons Avenue for Southern California Edison Upgrade Project
+
+date: 2023-12-07, from: City of Santa Clarita
+
+<p>EXPECT LANE CLOSURES ON LYONS AVENUE FOR SOUTHERN CALIFORNIA EDISON UPGRADE PROJECT A Southern California Edison Electric System Upgrade on Lyons Avenue will begin on Monday, December 11. Southern California Edison, along with their contractor, HotLine Construction Inc., will perform underground vault and conduit installations on Lyons Avenue, from Railroad Avenue to Wiley Canyon Road. [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/12/07/expect-lane-closures-on-lyons-avenue-for-southern-california-edison-upgrade-project/">Expect Lane Closures on Lyons Avenue for Southern California Edison Upgrade Project</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2023/12/07/expect-lane-closures-on-lyons-avenue-for-southern-california-edison-upgrade-project/">https://santaclarita.gov/blog/2023/12/07/expect-lane-closures-on-lyons-avenue-for-southern-california-edison-upgrade-project/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2023/12/07/expect-lane-closures-on-lyons-avenue-for-southern-california-edison-upgrade-project/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s basketball prepares to face CSUN, hopes to maintain win streak
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins&#8217; nonconference slate has developed into a new demanding test following a four-game homestand to commence the season.
+Four road games on the opposite coast in as many weeks.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/07/ucla-womens-basketball-prepares-to-face-csun-hopes-to-maintain-win-streak/">https://dailybruin.com/2023/12/07/ucla-womens-basketball-prepares-to-face-csun-hopes-to-maintain-win-streak/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/07/ucla-womens-basketball-prepares-to-face-csun-hopes-to-maintain-win-streak/">Save to Pocket</a>
+</span>
+
+---
+
+## People Dressed in Purple to Walk for a Good Cause
+
+date: 2023-12-07, from: The Canyon News (COC Student Newspaper)
+
+<p>You may have seen crowds of purple along Centre Pointe Parkway last&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/people-gathered-in-purple-to-walk-for-a-good-cause/">People Dressed in Purple to Walk for a Good Cause</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/people-gathered-in-purple-to-walk-for-a-good-cause/">https://canyonsnews.com/people-gathered-in-purple-to-walk-for-a-good-cause/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/people-gathered-in-purple-to-walk-for-a-good-cause/">Save to Pocket</a>
+</span>
+
+---
+
+## California Budget Rollercoaster: Analyst Predicts $68 Billion Deficit
+
+date: 2023-12-07, updated: 2023-12-07, from: The LAist
+
+California’s Legislative Analyst’s Office projects a 2024-25 budget deficit twice as large as 2023-24. It says the state could dip into reserves and cut some one-time spending.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/california-budget-rollercoaster-analyst-predicts-68-billion-deficit">https://laist.com/news/politics/california-budget-rollercoaster-analyst-predicts-68-billion-deficit</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/california-budget-rollercoaster-analyst-predicts-68-billion-deficit">Save to Pocket</a>
+</span>
+
+---
+
+## Canyon Country Community Thanksgiving Dinner
+
+date: 2023-12-07, from: The Canyon News (COC Student Newspaper)
+
+<p>By Rose Navarro Every year people of all ages gather at the&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/canyon-country-community-thanksgiving-dinner/">Canyon Country Community Thanksgiving Dinner</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/canyon-country-community-thanksgiving-dinner/">https://canyonsnews.com/canyon-country-community-thanksgiving-dinner/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/canyon-country-community-thanksgiving-dinner/">Save to Pocket</a>
+</span>
+
+---
+
+## HOOLIGAN Theatre Company explores the ‘art of making art’ through upcoming musical
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+HOOLIGAN Theatre Company is &#8220;Putting It Together&#8221; this fall.
+The student-run theater group is taking the stage with its first mainstage show of the season, presenting &#8220;Sunday in the Park with George&#8221; from Dec.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/07/hooligan-theatre-company-explores-the-art-of-making-art-through-upcoming-musical/">https://dailybruin.com/2023/12/07/hooligan-theatre-company-explores-the-art-of-making-art-through-upcoming-musical/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/07/hooligan-theatre-company-explores-the-art-of-making-art-through-upcoming-musical/">Save to Pocket</a>
+</span>
+
+---
+
+## CSUN holds 38th Annual Powwow
+
+date: 2023-12-07, from: The Sundail (CSUN Student Newspaper)
+
+Crowds gathered around the green field at the center of campus on Nov. 25 on the Sierra Quad to watch a ceremonial performance, the Gourd Dance. It honors veterans, the culture and acts as a prayer to the creator of the Kiowa tribe. Starting off with a bang, arena director Victor Chavez and Randy Pico...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177307/news/csun-holds-38th-annual-powwow/">https://sundial.csun.edu/177307/news/csun-holds-38th-annual-powwow/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177307/news/csun-holds-38th-annual-powwow/">Save to Pocket</a>
+</span>
+
+---
+
+## Skate Around the Tree this Holiday Season!
+
+date: 2023-12-07, from: City of Santa Clarita
+
+<p>Skate Around the Tree this Holiday Season! By Mayor Pro Tem Cameron Smyth “Just because I cannot see it, doesn’t mean I can’t believe it!” – Jack Skellington, A Nightmare Before Christmas What a year it has been – from ribbon cuttings and new amenities to summer events and fall programming, it is wonderful to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/12/07/skate-around-the-tree-this-holiday-season/">Skate Around the Tree this Holiday Season!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2023/12/07/skate-around-the-tree-this-holiday-season/">https://santaclarita.gov/blog/2023/12/07/skate-around-the-tree-this-holiday-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2023/12/07/skate-around-the-tree-this-holiday-season/">Save to Pocket</a>
+</span>
+
+---
+
+## Posters in Support of Israel are Reportedly Being Ripped Down from the Walls of COC
+
+date: 2023-12-07, from: The Canyon News (COC Student Newspaper)
+
+<p>The walls at College of the Canyons are usually covered in posters&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/posters-in-support-of-israeli-hostages-are-reportedly-being-ripped-from-college-of-the-canyons-walls/">Posters in Support of Israel are Reportedly Being Ripped Down from the Walls of COC</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/posters-in-support-of-israeli-hostages-are-reportedly-being-ripped-from-college-of-the-canyons-walls/">https://canyonsnews.com/posters-in-support-of-israeli-hostages-are-reportedly-being-ripped-from-college-of-the-canyons-walls/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/posters-in-support-of-israeli-hostages-are-reportedly-being-ripped-from-college-of-the-canyons-walls/">Save to Pocket</a>
+</span>
+
+---
+
+## COC Intercultural Center Hosts Celebration for Native American History Month
+
+date: 2023-12-07, from: The Canyon News (COC Student Newspaper)
+
+<p>Students at COC were treated to a special demonstration at the school&#8217;s&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/coc-intercultural-center-hosts-celebration-for-native-american-history-month/">COC Intercultural Center Hosts Celebration for Native American History Month</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/coc-intercultural-center-hosts-celebration-for-native-american-history-month/">https://canyonsnews.com/coc-intercultural-center-hosts-celebration-for-native-american-history-month/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/coc-intercultural-center-hosts-celebration-for-native-american-history-month/">Save to Pocket</a>
+</span>
+
+---
+
+## The Forgotten Pedways: How LA’s Plan For Futuristic Walkways Went Unfinished
+
+date: 2023-12-07, updated: 2023-12-07, from: The LAist
+
+As remnants of the past, this group of high-rise bridges links us to an abandoned future of what Los Angeles could have been.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/transportation/los-angeles-history-pedway-pedestrian-walkway-public-safety-calvin-hamilton">https://laist.com/news/transportation/los-angeles-history-pedway-pedestrian-walkway-public-safety-calvin-hamilton</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/transportation/los-angeles-history-pedway-pedestrian-walkway-public-safety-calvin-hamilton">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “Bruin Voices for Change”
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/07/editorial-cartoon-bruin-voices-for-change/">https://dailybruin.com/2023/12/07/editorial-cartoon-bruin-voices-for-change/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/07/editorial-cartoon-bruin-voices-for-change/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “Week Ten Mania”
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/07/editorial-cartoon-week-ten-mania/">https://dailybruin.com/2023/12/07/editorial-cartoon-week-ten-mania/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/07/editorial-cartoon-week-ten-mania/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “UCLA Advent Calendar”
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/07/editorial-cartoon-ucla-advent-calendar/">https://dailybruin.com/2023/12/07/editorial-cartoon-ucla-advent-calendar/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/07/editorial-cartoon-ucla-advent-calendar/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “Post Midterm Nap”
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/07/editorial-cartoon-post-midterm-nap/">https://dailybruin.com/2023/12/07/editorial-cartoon-post-midterm-nap/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/07/editorial-cartoon-post-midterm-nap/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “A Bruin Thanksgiving”
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/07/editorial-cartoon-a-bruin-thanksgiving/">https://dailybruin.com/2023/12/07/editorial-cartoon-a-bruin-thanksgiving/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/07/editorial-cartoon-a-bruin-thanksgiving/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “Wrong Holiday”
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/07/editorial-cartoon-wrong-holiday/">https://dailybruin.com/2023/12/07/editorial-cartoon-wrong-holiday/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/07/editorial-cartoon-wrong-holiday/">Save to Pocket</a>
+</span>
+
+---
+
+## Developing: Graduate student workers vote to ratify first contract with University
+
+date: 2023-12-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The agreement, reached Nov. 26 comes after seven months of negotiation. USC had been under pressure to finalize a deal as a potential strike was imminent.</p>
+<p>The post <a href="https://dailytrojan.com/2023/12/07/usc-gswoc-developing/">Developing: Graduate student workers vote to ratify first contract with University</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2023/12/07/usc-gswoc-developing/">https://dailytrojan.com/2023/12/07/usc-gswoc-developing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2023/12/07/usc-gswoc-developing/">Save to Pocket</a>
+</span>
+
+---
+
+## Despite protective policies, discrimination by financial institutions persists
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Equal Credit Opportunity Act aims to enforce equal financial opportunities for all Americans through regulation of lenders by conducting regulatory checks and investigating consumer complaints.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/06/despite-protective-policies-discrimination-by-financial-institutions-persists/">https://dailybruin.com/2023/12/06/despite-protective-policies-discrimination-by-financial-institutions-persists/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/06/despite-protective-policies-discrimination-by-financial-institutions-persists/">Save to Pocket</a>
+</span>
+
+---
+
+## Holiday Tour Gala
+
+date: 2023-12-07, from: The Canyon News (COC Student Newspaper)
+
+<p>The Holiday Home tour hosted its 43rd anniversary at Hyatt Regency Valencia&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/holiday-tour-gala/">Holiday Tour Gala</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/holiday-tour-gala/">https://canyonsnews.com/holiday-tour-gala/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/holiday-tour-gala/">Save to Pocket</a>
+</span>
+
+---
+
+## InfluenceHER Promotes Women’s Empowerment at  Local Event
+
+date: 2023-12-07, from: The Canyon News (COC Student Newspaper)
+
+<p>InfluencerHER is an organization within the SCV Chamber ofCommerce where women help&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/influenceher-santa-clarita-valley-event-promotes-women-empowerment/">InfluenceHER Promotes Women&#8217;s Empowerment at  Local Event</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/influenceher-santa-clarita-valley-event-promotes-women-empowerment/">https://canyonsnews.com/influenceher-santa-clarita-valley-event-promotes-women-empowerment/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/influenceher-santa-clarita-valley-event-promotes-women-empowerment/">Save to Pocket</a>
+</span>
+
+---
+
+## Santa Clarita Valley Bar Association hosts annual gala
+
+date: 2023-12-07, from: The Canyon News (COC Student Newspaper)
+
+<p>The Santa Clarita Valley Bar Association, or SCVBA, held its annual gala&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/santa-clarita-valley-bar-association-hosts-annual-gala/">Santa Clarita Valley Bar Association hosts annual gala</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/santa-clarita-valley-bar-association-hosts-annual-gala/">https://canyonsnews.com/santa-clarita-valley-bar-association-hosts-annual-gala/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/santa-clarita-valley-bar-association-hosts-annual-gala/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Friends of Castaic Lake’ hosts the Winter Magic Boat Parade
+
+date: 2023-12-07, from: The Canyon News (COC Student Newspaper)
+
+<p>This past Saturday, members of the Santa Clarita Valley gathered at Castaic&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/friends-of-castaic-lake-hosts-the-winter-magic-boat-parade/">&#8216;Friends of Castaic Lake&#8217; hosts the Winter Magic Boat Parade</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/friends-of-castaic-lake-hosts-the-winter-magic-boat-parade/">https://canyonsnews.com/friends-of-castaic-lake-hosts-the-winter-magic-boat-parade/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/friends-of-castaic-lake-hosts-the-winter-magic-boat-parade/">Save to Pocket</a>
+</span>
+
+---
+
+## West Ranch High School puts on a Disney GOJazz performance
+
+date: 2023-12-07, from: The Canyon News (COC Student Newspaper)
+
+<p>Imagine hearing your favorite Disney songs coming to life. A band calledThe&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/west-ranch-high-school-puts-on-disney-gojazz-performance/">West Ranch High School puts on a Disney GOJazz performance</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/west-ranch-high-school-puts-on-disney-gojazz-performance/">https://canyonsnews.com/west-ranch-high-school-puts-on-disney-gojazz-performance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/west-ranch-high-school-puts-on-disney-gojazz-performance/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA Blood and Platelet Processing Lab ensures patients receive healthy blood
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Center for Health Sciences is a complex maze to most students &#8211; but behind one particular door, another intricate system of machines works around the clock to filter, sort and label units of donated red blood cells.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/06/ucla-blood-and-platelet-processing-lab-ensures-patients-receive-healthy-blood/">https://dailybruin.com/2023/12/06/ucla-blood-and-platelet-processing-lab-ensures-patients-receive-healthy-blood/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/06/ucla-blood-and-platelet-processing-lab-ensures-patients-receive-healthy-blood/">Save to Pocket</a>
+</span>
+
+---
+
+## Faculty reacts to ruling against use of Voting Rights Act provision
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA experts discussed the decision of a federal appeals court to rule against the use of a key provision of the Voting Rights Act.
+Two judges on the United States Court of Appeals for the 8th Circuit &#8211; whose rulings apply to Arkansas, Iowa, Minnesota, Missouri, Nebraska, North Dakota and South Dakota &#8211; voted Nov.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/06/faculty-reacts-to-ruling-against-use-of-voting-rights-act-provision/">https://dailybruin.com/2023/12/06/faculty-reacts-to-ruling-against-use-of-voting-rights-act-provision/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/06/faculty-reacts-to-ruling-against-use-of-voting-rights-act-provision/">Save to Pocket</a>
+</span>
+
+---
+
+## What’s your love language? Exploring the theory’s origins and criticisms
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+With the heart of holiday season and winter break approaching, Bruins may look forward to building on relationships with their loved ones through avenues such as love languages.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/06/whats-your-love-language-exploring-the-theorys-origins-and-criticisms/">https://dailybruin.com/2023/12/06/whats-your-love-language-exploring-the-theorys-origins-and-criticisms/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/06/whats-your-love-language-exploring-the-theorys-origins-and-criticisms/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Don’t do what’s just easier’: Desiree Becker balances volleyball, law
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 6 at 9:34 p.m.</em>
+Desiree Becker rises before the sun most days.
+“I wake up at 6 a.m., rush to put clothes on, leave the house by 6:15,” the middle blocker said.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/06/dont-do-whats-just-easier-desiree-becker-balances-volleyball-law/">https://dailybruin.com/2023/12/06/dont-do-whats-just-easier-desiree-becker-balances-volleyball-law/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/06/dont-do-whats-just-easier-desiree-becker-balances-volleyball-law/">Save to Pocket</a>
+</span>
+
+---
+
+## Independent redistricting commission plan unanimously approved by LA City Council
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 6 at 11:55 p.m.</em>
+The Los Angeles City Council unanimously approved a proposal Nov. 29 that, if approved by voters in 2024, will allow an independent redistricting commission to redraw council districts for future elections.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/06/independent-redistricting-commission-plan-unanimously-approved-by-la-city-council/">https://dailybruin.com/2023/12/06/independent-redistricting-commission-plan-unanimously-approved-by-la-city-council/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/06/independent-redistricting-commission-plan-unanimously-approved-by-la-city-council/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA commuter students navigate daily challenges, utilize campus resources
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+On weekday mornings, as Westwood students rouse from sleep, third-year physics student Josh Jose sits in 7 a.m. traffic.
+Jose, who drives 45 minutes from the Torrance area to campus, is one of many commuter students at UCLA.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/06/ucla-commuter-students-navigate-daily-challenges-utilize-campus-resources/">https://dailybruin.com/2023/12/06/ucla-commuter-students-navigate-daily-challenges-utilize-campus-resources/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/06/ucla-commuter-students-navigate-daily-challenges-utilize-campus-resources/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s basketball to face Villanova in 1st true road game of season
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+This post&#160;was updated Dec. 6 at 9:39 p.m.
+Sophomore forward/center Adem Bona is the only Bruin who held a consistent starting role last season amid this season’s roster full of fresh talent.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/06/ucla-mens-basketball-to-face-villanova-in-1st-true-road-game-of-season/">https://dailybruin.com/2023/12/06/ucla-mens-basketball-to-face-villanova-in-1st-true-road-game-of-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/06/ucla-mens-basketball-to-face-villanova-in-1st-true-road-game-of-season/">Save to Pocket</a>
+</span>
+
+---
+
+## NCAA President Charlie Baker calls for new NIL rules in ever-evolving field
+
+date: 2023-12-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was&#160;</em>updated Dec. 6 at 9:37 p.m.
+In the 1950s, the NCAA failed to provide workers&#8217; compensation to the widow of a football player who died following an in-game injury.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/06/ncaa-president-charlie-baker-calls-for-new-nil-rules-in-ever-evolving-field/">https://dailybruin.com/2023/12/06/ncaa-president-charlie-baker-calls-for-new-nil-rules-in-ever-evolving-field/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/06/ncaa-president-charlie-baker-calls-for-new-nil-rules-in-ever-evolving-field/">Save to Pocket</a>
+</span>
+
+---
+
+## BREAKING: LMU announces multiyear compensation initiative to increase faculty and staff salaries
+
+date: 2023-12-07, from: Laloyolan (LMU Student Newspaper)
+
+The University announced a multiyear compensation initiative aiming to raise faculty and staff salaries over the next several years on Wednesday, Dec. 6. This initiative will involve the University investing “millions of dollars” in order to raise faculty and staff…
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/breaking-lmu-announces-multiyear-compensation-initiative-to-increase-faculty-and-staff-salaries/article_96f271ae-9495-11ee-bb14-1fce5d66d395.html">https://www.laloyolan.com/news/breaking-lmu-announces-multiyear-compensation-initiative-to-increase-faculty-and-staff-salaries/article_96f271ae-9495-11ee-bb14-1fce5d66d395.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/breaking-lmu-announces-multiyear-compensation-initiative-to-increase-faculty-and-staff-salaries/article_96f271ae-9495-11ee-bb14-1fce5d66d395.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -17,6 +497,18 @@ One year in, L.A. Mayor Karen Bass’ administration says 3,551 people have been
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/housing-homelessness/bass-homeless-progress-city-hall-data-inside-safe-permanent-housing">https://laist.com/news/housing-homelessness/bass-homeless-progress-city-hall-data-inside-safe-permanent-housing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/bass-homeless-progress-city-hall-data-inside-safe-permanent-housing">Save to Pocket</a>
+</span>
+
+---
+
+## flag
+
+date: 2023-12-07, from: Laloyolan (LMU Student Newspaper)
+
+The University announced a multiyear compensation initiative aiming to raise faculty and staff salaries on Wednesday, Dec. 6.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/flag/image_1234ebbc-9496-11ee-8e84-ff724f10af73.html">https://www.laloyolan.com/flag/image_1234ebbc-9496-11ee-8e84-ff724f10af73.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/flag/image_1234ebbc-9496-11ee-8e84-ff724f10af73.html">Save to Pocket</a>
 </span>
 
 ---
@@ -385,6 +877,18 @@ As students continue to use ChatGPT for school assignments, we cannot lose sight
 
 ---
 
+## Confessions of a Concerthead.png
+
+date: 2023-12-06, from: Laloyolan (LMU Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/life_and_arts/confessions-of-a-concerthead-png/image_ad56bc0f-ce59-5b16-b1e6-6c54ed37329b.html">https://www.laloyolan.com/life_and_arts/confessions-of-a-concerthead-png/image_ad56bc0f-ce59-5b16-b1e6-6c54ed37329b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/life_and_arts/confessions-of-a-concerthead-png/image_ad56bc0f-ce59-5b16-b1e6-6c54ed37329b.html">Save to Pocket</a>
+</span>
+
+---
+
 ## Confessions of a 'concerthead': A 2023 concert roundup
 
 date: 2023-12-06, from: Laloyolan (LMU Student Newspaper)
@@ -393,6 +897,54 @@ Assistant Life+Arts Editor Christianne Tubola is a certified "concerthead." Join
 
 <span class="feed-item-link">
 <a href="https://www.laloyolan.com/life_and_arts/confessions-of-a-concerthead-a-2023-concert-roundup/article_d97d514f-d54c-53fe-a5a8-581152a20c93.html">https://www.laloyolan.com/life_and_arts/confessions-of-a-concerthead-a-2023-concert-roundup/article_d97d514f-d54c-53fe-a5a8-581152a20c93.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/life_and_arts/confessions-of-a-concerthead-a-2023-concert-roundup/article_d97d514f-d54c-53fe-a5a8-581152a20c93.html">Save to Pocket</a>
+</span>
+
+---
+
+## "Early Finals" Comic Strip
+
+date: 2023-12-06, from: Laloyolan (LMU Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/cartoons/early-finals-comic-strip/article_558b20c4-93d9-11ee-aa1d-57cfd5648782.html">https://www.laloyolan.com/cartoons/early-finals-comic-strip/article_558b20c4-93d9-11ee-aa1d-57cfd5648782.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/cartoons/early-finals-comic-strip/article_558b20c4-93d9-11ee-aa1d-57cfd5648782.html">Save to Pocket</a>
+</span>
+
+---
+
+## Who should have voiced Anxiety in "Inside Out 2?"
+
+date: 2023-12-06, from: Laloyolan (LMU Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/the_bluff/who-should-have-voiced-anxiety-in-inside-out-2/image_1af1d884-93e0-11ee-9cfe-4bea35523611.html">https://www.laloyolan.com/the_bluff/who-should-have-voiced-anxiety-in-inside-out-2/image_1af1d884-93e0-11ee-9cfe-4bea35523611.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/the_bluff/who-should-have-voiced-anxiety-in-inside-out-2/image_1af1d884-93e0-11ee-9cfe-4bea35523611.html">Save to Pocket</a>
+</span>
+
+---
+
+## Frazzled Professor
+
+date: 2023-12-06, from: Laloyolan (LMU Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/the_bluff/frazzled-professor/image_bf43e287-f33c-5616-8e02-71faae233354.html">https://www.laloyolan.com/the_bluff/frazzled-professor/image_bf43e287-f33c-5616-8e02-71faae233354.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/the_bluff/frazzled-professor/image_bf43e287-f33c-5616-8e02-71faae233354.html">Save to Pocket</a>
+</span>
+
+---
+
+## Zaterka studying hard
+
+date: 2023-12-06, from: Laloyolan (LMU Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/life_and_arts/zaterka-studying-hard/image_d3a77ff3-f3ef-5456-a302-fdf6d114b304.html">https://www.laloyolan.com/life_and_arts/zaterka-studying-hard/image_d3a77ff3-f3ef-5456-a302-fdf6d114b304.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/life_and_arts/zaterka-studying-hard/image_d3a77ff3-f3ef-5456-a302-fdf6d114b304.html">Save to Pocket</a>
 </span>
 
 ---
