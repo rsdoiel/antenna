@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"version":"1.0.4","languages":{"en":{"hash":"en_d17892a93f","wasm":"en","page_count":47}}}
 =======
 {"version":"1.0.4","languages":{"en":{"hash":"en_cb2b613f40","wasm":"en","page_count":47}}}
@@ -35,3 +36,6 @@
 =======
 {"version":"1.0.4","languages":{"en":{"hash":"en_bee57969a2","wasm":"en","page_count":56}}}
 >>>>>>> c0c7b9085272eedb21c604b2e4738a27e0b46a27
+=======
+{"version":"1.0.4","languages":{"en":{"hash":"en_28429f8e6a","wasm":"en","page_count":56}}}
+>>>>>>> 523e6b418dbf47ed757a14f44b4f5cdee7de3c52

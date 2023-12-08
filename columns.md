@@ -1,11 +1,23 @@
 ---
 title: columns 2023.49
-updated: 2023-12-08 10:29:35
+updated: 2023-12-08 12:41:27
 ---
 
 # columns 2023.49
 
-(date: 2023-12-08 10:29:35)
+(date: 2023-12-08 12:41:27)
+
+---
+
+## Nosocomial
+
+date: 2023-12-08, from: Om Malik blog
+
+My endocrinologist wanted me to go get some bloodwork done, just to make sure I am doing okay, my diabetes is under control, and if all my markers were in line. I popped over to UCSF to get the bloodwork done. I wore a mask and used sanitizer. You know the drill. And yet, a &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2023/12/08/nosocomial/">https://om.co/2023/12/08/nosocomial/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2023/12/08/nosocomial/">Save to Pocket</a>
+</span>
 
 ---
 

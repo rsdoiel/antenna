@@ -3,7 +3,6 @@
 #
 https://billmoyers.com/feed/ "~Bill Moyer's website"
 https://steady.substack.com/feed "~Dan Rather's Steady"
-http://feeds.kottke.org/main "~Jason Kottke blog"
 https://memex.naughtons.org/feed/ "~John Naughton's online diary"
 https://christianheilmann.com/feed/ "~Chris Heilmann's blog"
 https://scholar.social/@mhucka.rss "~Mike Hukka's Mastodon feed"

@@ -1,11 +1,94 @@
 ---
 title: writing 2023.49
-updated: 2023-12-08 10:29:35
+updated: 2023-12-08 12:41:27
 ---
 
 # writing 2023.49
 
-(date: 2023-12-08 10:29:35)
+(date: 2023-12-08 12:41:27)
+
+---
+
+## Gordon  Burn  Prize Longlist
+
+date: 2023-12-08, from: Locus Magazine
+
+<p>The longlist has been announced for the 2023-2024 Gordon Burn Prize. The prize recognizes &#8220;fiction and non-fiction books that are fearless in their ambition and execution.&#8221; Longlisted works of genre interest include <strong>Chain-Gang All-Stars </strong>by Nana Kwame Adeji-Brenyah (Harvill Secker) and <strong>Split Tooth </strong>by Tanya Tagaq (And Other Stories).</p>
+<p>Judges include Terri White, Charlie Brinkhurst-Cuff, Andrew Hankinson, and Sheena Patel. The shortlist will be announced in January 2024, and the  <a href="https://locusmag.com/2023/12/gordon%e2%80%af-burn-%e2%80%afprize-longlist/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/gordon%e2%80%af-burn-%e2%80%afprize-longlist/">https://locusmag.com/2023/12/gordon%e2%80%af-burn-%e2%80%afprize-longlist/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/gordon%e2%80%af-burn-%e2%80%afprize-longlist/">Save to Pocket</a>
+</span>
+
+---
+
+## Mohamed to Be Writer-In-Residence
+
+date: 2023-12-08, from: Locus Magazine
+
+<p>Premee Mohamed has been named a 2024 Writer-In-Residence at Edmonton Public Library (EPL) in Edmonton, Canada, and will mentor local writers and facilitate community programs.</p>
+<p>Mohamed said, &#8220;I am honoured to be chosen as the EPL&#8217;s next Writer in Residence, particularly because I would never be where I am today without a lifetime of accessing Edmonton&#8217;s amazing library resources&#8230;. I am excited to support creators working in all formats and  <a href="https://locusmag.com/2023/12/mohamed-to-be-writer-in-residence/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/mohamed-to-be-writer-in-residence/">https://locusmag.com/2023/12/mohamed-to-be-writer-in-residence/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/mohamed-to-be-writer-in-residence/">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 Goodreads Choice Awards Winners
+
+date: 2023-12-08, from: Locus Magazine
+
+<p>Winners of the 2023 Goodreads Choice Awards for the &#8220;best books of 2023,&#8221; as chosen by users of the site, have been announced. There are several winners of genre interest.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Fiction</strong></p>
+<ul>
+<li><strong>Yellowface</strong>, R.F. Kuang (William Morrow)</li>
+</ul>
+<p><strong>Best Science Fiction</strong></p>
+<ul>
+<li><strong>In the Lives of Puppets</strong>, T.J. Klune (Tor)</li>
+</ul>
+<p><strong>Best Fantasy</strong></p>
+<ul>
+<li><strong>Hell Bent</strong>, Leigh Bardugo (Flatiron)</li>
+</ul>
+<p><strong>Best Young Adult Fantasy</strong></p>
+<ul>
+<li><strong>Divine Rivals</strong>, Rebecca Ross (Wednesday)</li>
+</ul>
+<p><strong>Best Romantasy</strong></p></div> <a href="https://locusmag.com/2023/12/2023-goodreads-choice-awards-winners/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/2023-goodreads-choice-awards-winners/">https://locusmag.com/2023/12/2023-goodreads-choice-awards-winners/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/2023-goodreads-choice-awards-winners/">Save to Pocket</a>
+</span>
+
+---
+
+## Write On: Writer Chris Hicks Talks Massive Sale of His Short Story 'I Am Not Alone'
+
+date: 2023-12-08, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-writer-chris-hicks-talks-massive-sale-of-his-short-story-i-am-not-alone" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Writer%20Chris%20Hicks%20Talks%20Massive%20Sale%20of%20His%20Short%20Story%20I%20Am%20Not%20Alone-2.png" alt="Write On: Writer Chris Hicks Talks Massive Sale of His Short Story 'I Am Not Alone'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“My cardinal rule – the rule that you cannot break is: don't be boring. Because you can have the perfect script that follows every screenplay formatting rule, but if you're boring, it doesn't matter. First and foremost, you’ve got to hook the reader,” says screenplay and short story writer Chris Hicks.</p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/write-on-writer-chris-hicks-talks-massive-sale-of-his-short-story-i-am-not-alone">https://blog.finaldraft.com/write-on-writer-chris-hicks-talks-massive-sale-of-his-short-story-i-am-not-alone</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/write-on-writer-chris-hicks-talks-massive-sale-of-his-short-story-i-am-not-alone">Save to Pocket</a>
+</span>
+
+---
+
+## Authors Alliance Amicus Briefs: Defending Free Expression from Trademark, Social Media, and Copyright Law Challenges
+
+date: 2023-12-08, from: Author's Union blog
+
+The cases that threaten authors’ rights aren’t always obvious. You might have noticed in the last year that we’ve filed amicus briefs in some unusual ones—for example, a trademark lawsuit about squishy dog toys, or a case about YouTube recommendation algorithms. It’s often true that cases like these raise legal questions that extend well beyond [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.authorsalliance.org/2023/12/08/authors-alliance-amicus-briefs-defending-free-expression-from-trademark-social-media-and-copyright-law-challenges/">https://www.authorsalliance.org/2023/12/08/authors-alliance-amicus-briefs-defending-free-expression-from-trademark-social-media-and-copyright-law-challenges/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.authorsalliance.org/2023/12/08/authors-alliance-amicus-briefs-defending-free-expression-from-trademark-social-media-and-copyright-law-challenges/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -175,6 +258,18 @@ date: 2023-12-05, from: Final Draft blog
 
 <span class="feed-item-link">
 <a href="https://blog.finaldraft.com/5-reasons-writers-should-take-an-acting-class">https://blog.finaldraft.com/5-reasons-writers-should-take-an-acting-class</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/5-reasons-writers-should-take-an-acting-class">Save to Pocket</a>
+</span>
+
+---
+
+## Authors Alliance Releases New Legal Guide to Writing About Real People
+
+date: 2023-12-05, from: Author's Union blog
+
+We are delighted to announce the publication of our brand new guide, the Authors Alliance Guide to Writing About Real People, a legal guide for authors writing nonfiction works about real people. The guide was written by students in two clinical teams at the UC Berkeley Samuelson Law and Public Policy Clinic—Lily Baggott, Jameson Davis, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.authorsalliance.org/2023/12/05/authors-alliance-releases-new-legal-guide-to-writing-about-real-people/">https://www.authorsalliance.org/2023/12/05/authors-alliance-releases-new-legal-guide-to-writing-about-real-people/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.authorsalliance.org/2023/12/05/authors-alliance-releases-new-legal-guide-to-writing-about-real-people/">Save to Pocket</a>
 </span>
 
 ---
