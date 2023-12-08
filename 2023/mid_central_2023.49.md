@@ -1,11 +1,35 @@
 ---
 title: mid central 2023.49
-updated: 2023-12-07 18:16:13
+updated: 2023-12-08 10:29:34
 ---
 
 # mid central 2023.49
 
-(date: 2023-12-07 18:16:13)
+(date: 2023-12-08 10:29:34)
+
+---
+
+## Three Fresno State Students Graduate in Fall 2023 with Minor in Armenian Studies
+
+date: 2023-12-08, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Christine Pambukyan Nursing Minor in Armenian Studies &#160; What encouraged you to take an Armenian Studies course? Growing up, I was always interested in learning more about Armenia and Armenian culture. However, what really encouraged me to take an Armenian Studies course was my first trip to Armenia in 2018. I wanted to learn more...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2023/12/three-fresno-state-students-graduate-in-fall-2023-with-minor-in-armenian-studies/">https://fscollegian.com/2023/12/three-fresno-state-students-graduate-in-fall-2023-with-minor-in-armenian-studies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/three-fresno-state-students-graduate-in-fall-2023-with-minor-in-armenian-studies/">Save to Pocket</a>
+</span>
+
+---
+
+## Freeze Warning issued December 08 at 6:34AM PST until December 13 at 8:00AM PST by NWS
+
+date: 2023-12-08, updated: 2023-12-08, from: Merced, Weather.gov CAP v1.1 alerts
+
+...A FREEZE WARNING REMAINS IN EFFECT FROM 2 AM PST SATURDAY UNTIL 8 AM PST WEDNESDAY... * WHAT...Sub-freezing temperatures as low as 27 degrees expected. * WHERE...Rural areas in the San Joaquin Valley. * WHEN...From 2 AM PST Saturday until 8 AM PST Wednesday. * IMPACTS...Frost and freeze conditions could kill crops and other
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126671F98A28.FreezeWarning.126672461640CA.HNXNPWHNX.3b6e89560ea16be90f3b4bebb9d52b8d">https://alerts.weather.gov/cap/wwacapget.php?x=CA126671F98A28.FreezeWarning.126672461640CA.HNXNPWHNX.3b6e89560ea16be90f3b4bebb9d52b8d</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA126671F98A28.FreezeWarning.126672461640CA.HNXNPWHNX.3b6e89560ea16be90f3b4bebb9d52b8d">Save to Pocket</a>
+</span>
 
 ---
 

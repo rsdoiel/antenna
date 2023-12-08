@@ -1,11 +1,111 @@
 ---
 title: columns 2023.49
-updated: 2023-12-07 18:16:13
+updated: 2023-12-08 10:29:35
 ---
 
 # columns 2023.49
 
-(date: 2023-12-07 18:16:13)
+(date: 2023-12-08 10:29:35)
+
+---
+
+## Friday 8 December, 2023
+
+date: 2023-12-08, from: John Naughton's online diary
+
+Vanishing point Green Park Tube Station the other day. Quote of the Day “When the missionaries came to Africa they had the Bible and we had the land. They said &#8216;Let us pray.&#8217; We closed our eyes. When we opened &#8230; <a href="https://memex.naughtons.org/friday-8-december-2023/38884/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/friday-8-december-2023/38884/">https://memex.naughtons.org/friday-8-december-2023/38884/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/friday-8-december-2023/38884/">Save to Pocket</a>
+</span>
+
+---
+
+##  Cool Old Songs: Graham Smith, a.k.a. Kleenex Girl Wonder 
+
+date: 2023-12-08, updated: 2023-12-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/graham-smith-appreciation-post">https://kottke.org/23/12/graham-smith-appreciation-post</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/graham-smith-appreciation-post">Save to Pocket</a>
+</span>
+
+---
+
+##  Jogging Stroller (Comic) 
+
+date: 2023-12-08, updated: 2023-12-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/jogging-stroller-comic">https://kottke.org/23/12/jogging-stroller-comic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/jogging-stroller-comic">Save to Pocket</a>
+</span>
+
+---
+
+##  ASMR Recommendations: Ecuador Live & Moonlight Cottage 
+
+date: 2023-12-08, updated: 2023-12-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/asmr-recommendations-moonlight-cottage-ecuador-live">https://kottke.org/23/12/asmr-recommendations-moonlight-cottage-ecuador-live</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/asmr-recommendations-moonlight-cottage-ecuador-live">Save to Pocket</a>
+</span>
+
+---
+
+##  In the summer, I saw a ton of people linking to this... 
+
+date: 2023-12-08, updated: 2023-12-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043590-i-saw-a-ton-of">https://kottke.org/23/12/0043590-i-saw-a-ton-of</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043590-i-saw-a-ton-of">Save to Pocket</a>
+</span>
+
+---
+
+##  Here is a very pleasing drawing of a piece of bread. And... 
+
+date: 2023-12-08, updated: 2023-12-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043589-here-is-a-very-pleasing">https://kottke.org/23/12/0043589-here-is-a-very-pleasing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043589-here-is-a-very-pleasing">Save to Pocket</a>
+</span>
+
+---
+
+## New Bluetooth Attack
+
+date: 2023-12-08, updated: 2023-12-08, from: Bruce Schneier blog
+
+<p>New attack <a href="https://www.cvedetails.com/cve/CVE-2023-24023/">breaks</a> forward secrecy in Bluetooth.</p>
+<p><a href="https://www.theregister.com/2023/12/06/bluetooth_bug_apple_linux/">Three</a> <a href="https://thehackernews.com/2023/12/new-bluffs-bluetooth-attack-expose.html">news</a> <a href="https://www.bleepingcomputer.com/news/security/new-bluffs-attack-lets-attackers-hijack-bluetooth-connections/">articles</a>:</p>
+<blockquote><p>BLUFFS is a <a href="https://francozappa.github.io/post/2023/bluffs-ccs23/">series of exploits</a> targeting Bluetooth, aiming to break Bluetooth sessions&#8217; forward and future secrecy, compromising the confidentiality of past and future communications between devices.</p>
+<p>This is achieved by exploiting four flaws in the session key derivation process, two of which are new, to force the derivation of a short, thus weak and predictable session key (SKC).</p>
+<p>Next, the attacker brute-forces the key, enabling them to decrypt past communication and decrypt or manipulate future communications...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2023/12/new-bluetooth-attack.html">https://www.schneier.com/blog/archives/2023/12/new-bluetooth-attack.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2023/12/new-bluetooth-attack.html">Save to Pocket</a>
+</span>
+
+---
+
+## The Myth of the Market (Why American capitalism is so rotten, Part 3)
+
+date: 2023-12-08, from: Robert Reich's blog
+
+The so-called &#8220;free market&#8221; is a dangerous illusion
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/the-biggest-myth-of-all">https://robertreich.substack.com/p/the-biggest-myth-of-all</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/the-biggest-myth-of-all">Save to Pocket</a>
+</span>
 
 ---
 
@@ -17,6 +117,18 @@ date: 2023-12-08, updated: 2023-12-08, from: Daring Fireball
 
 <span class="feed-item-link">
 <a href="https://mastodon.social/@jackwellborn/111539651190313429">https://mastodon.social/@jackwellborn/111539651190313429</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@jackwellborn/111539651190313429">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Quietly Releases MLX, an Open Source Array Framework for Machine Learning on Apple Silicon
+
+date: 2023-12-08, updated: 2023-12-08, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://github.com/ml-explore/mlx">https://github.com/ml-explore/mlx</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://github.com/ml-explore/mlx">Save to Pocket</a>
 </span>
 
 ---
@@ -389,7 +501,7 @@ America isn&#8217;t equipped to deal with this sort of campaign rhetoric. And it
 
 date: 2023-12-06, from: Daniel Stenberg Blog
 
-Release presentation Today, December 6 at 09:00 UTC (10:00 CET), I will live-stream the curl 8.5.0 release presentation over at Twitch. After the fact, the release video will be made available on YouTube. Numbers the 253rd release2 changes56 days (total: 9,392)188 bug-fixes (total: 9,734)266 commits (total: 31,427)0 new public libcurl function (total: 93)0 new curl_easy_setopt() &#8230; <a href="https://daniel.haxx.se/blog/2023/12/06/curl-8-5-0/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.5.0</span> <span class="meta-nav">&#8594;</span></a>
+Release presentation Numbers the 253rd release2 changes56 days (total: 9,392)188 bug-fixes (total: 9,734)266 commits (total: 31,427)0 new public libcurl function (total: 93)0 new curl_easy_setopt() option (total: 303)0 new curl command line option (total: 258)78 contributors, 43 new (total: 3,039)40 authors, 19 new (total: 1,219)2 security fixes (total: 150) Security cookie mixed case PSL bypass (CVE-2023-46218) &#8230; <a href="https://daniel.haxx.se/blog/2023/12/06/curl-8-5-0/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.5.0</span> <span class="meta-nav">&#8594;</span></a>
 
 <span class="feed-item-link">
 <a href="https://daniel.haxx.se/blog/2023/12/06/curl-8-5-0/">https://daniel.haxx.se/blog/2023/12/06/curl-8-5-0/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daniel.haxx.se/blog/2023/12/06/curl-8-5-0/">Save to Pocket</a>

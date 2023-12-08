@@ -1,11 +1,24 @@
 ---
 title: writing 2023.49
-updated: 2023-12-07 18:16:13
+updated: 2023-12-08 10:29:35
 ---
 
 # writing 2023.49
 
-(date: 2023-12-07 18:16:13)
+(date: 2023-12-08 10:29:35)
+
+---
+
+## Jake Casella Brookins Reviews The Museum of Human History by Rebekah Bergman
+
+date: 2023-12-08, from: Locus Magazine
+
+<p><strong>The Museum of Human History</strong>, Rebekah Berg­man (Tin House 978-1-95353-491-0, $17.95, 256pp, tp) August 2023. Cover by Beth Steidle &#38; Yang Cao.</p>
+<p>Told in chapters that jump between disparate characters and across years, Rebekah Bergman’s <strong>The Museum of Human History </strong>is very loosely centered on twin sisters, Evangeline and Maeve Wilhelm. Following an initially unexplained accident, Maeve falls into an uninterrupted and ageless sleep. As the narrative loops around  <a href="https://locusmag.com/2023/12/jake-casella-brookins-reviews-the-museum-of-human-history-by-rebekah-bergman/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/jake-casella-brookins-reviews-the-museum-of-human-history-by-rebekah-bergman/">https://locusmag.com/2023/12/jake-casella-brookins-reviews-the-museum-of-human-history-by-rebekah-bergman/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/jake-casella-brookins-reviews-the-museum-of-human-history-by-rebekah-bergman/">Save to Pocket</a>
+</span>
 
 ---
 
