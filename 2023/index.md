@@ -4,6 +4,7 @@
 
 ## Socal North
 
+* [socal north 2023.50](socal_north_2023.50.md)
 * [socal north 2023.49](socal_north_2023.49.md)
 * [socal north 2023.48](socal_north_2023.48.md)
 * [socal north 2023.47](socal_north_2023.47.md)
@@ -17,6 +18,7 @@
 
 ## Weather
 
+* [weather 2023.50](weather_2023.50.md)
 * [weather 2023.49](weather_2023.49.md)
 * [weather 2023.48](weather_2023.48.md)
 * [weather 2023.47](weather_2023.47.md)
@@ -30,6 +32,7 @@
 
 ## Pacific
 
+* [pacific 2023.50](pacific_2023.50.md)
 * [pacific 2023.49](pacific_2023.49.md)
 * [pacific 2023.48](pacific_2023.48.md)
 * [pacific 2023.47](pacific_2023.47.md)
@@ -42,6 +45,7 @@
 
 ## Mid Central
 
+* [mid central 2023.50](mid_central_2023.50.md)
 * [mid central 2023.49](mid_central_2023.49.md)
 * [mid central 2023.48](mid_central_2023.48.md)
 * [mid central 2023.47](mid_central_2023.47.md)
@@ -52,6 +56,7 @@
 
 ## Tech Likely
 
+* [tech likely 2023.50](tech_likely_2023.50.md)
 * [tech likely 2023.49](tech_likely_2023.49.md)
 * [tech likely 2023.48](tech_likely_2023.48.md)
 * [tech likely 2023.47](tech_likely_2023.47.md)
@@ -59,5 +64,6 @@
 
 ## IF & Writing
 
+* [writing 2023.50](writing_2023.50.md)
 * [writing 2023.49](writing_2023.49.md)
 
