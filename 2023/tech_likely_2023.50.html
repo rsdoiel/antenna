@@ -1,0 +1,942 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" >
+  <title>tech likely 2023.50</title>
+  <link rel="stylesheet" type="text/css"  href="../webfonts/fonts.css" media="screen" >
+  <link rel="stylesheet" type="text/css"  href="../css/site.css" media="screen" >
+</head>
+<body>
+<header>
+	<img class="logo" 
+	src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Antenna_1_-_The_Noun_Project.svg"
+	alt="line art showing an antenna"
+	height="80" width="60" >
+	<h1>The Antenna</h1> 
+	<h2>finding signal in the noise</h2>
+</header>
+<nav>
+<ul>
+	<li><a href="../">The Antenna</a></li>
+	<li><a href="../../socal_north.html" title="news from the Northern side of Southern California" >SoCal North!</a></li>
+	<li><a href="../../pacific.html" title="News from Micronesia and Pacific">Pacific</a></li>
+	<li><a href="../../mid_central.html" title="news from Mid Central California">Mid Central</a></li>
+	<li><a href="../../tech_likely.html" title="likely tech news fed but other stuff happens too">Tech Likely</a></li>
+	<li><a href="../../weather.html" title="U.S. National Weather">Weather</a></li>
+	<li><a href="./">Archives</a></li>
+	<li><a href="../search.html">Search</a></li>
+	<li><a href="../about.html">About</a></li>
+</ul>
+</nav>
+<section>
+<div class="description-for-items">
+<h2>tech likely 2023.50</h2>
+An experiment in personal news aggregation.
+</div>
+<h1 id="tech-likely-2023.50">tech likely 2023.50</h1>
+<p>(date: 2023-12-11 08:09:12)</p>
+<hr />
+<h2 id="i-bought-a-keyboard">I bought a keyboard</h2>
+<p>date: 2023-12-11, from: Alex Schroeder’s Blog</p>
+<h1>
+I bought a keyboard
+</h1>
+<p>
+I was at the <a href="https://swissmk.ch/">Swiss Mechanical Keyboard</a>
+Meetup. I wanted to get rid of my keyboards and instead I bought one. 😓
+</p>
+<p>
+<a class="account" href="https://chaos.social/@xtaran" title="@xtaran@chaos.social"><span
+class="citation" data-cites="xtaran">@xtaran</span></a>’s table with
+colourful keyboards and a MNT Reform laptop in the middle:
+</p>
+<p>
+<img loading="lazy" src="2023-12-10-keyboards-1.jpg" alt="" />
+</p>
+<p>
+<a class="account" href="https://fosstodon.org/@deshipu" title="@deshipu@fosstodon.org"><span
+class="citation" data-cites="deshipu">@deshipu</span></a>’s table with a
+lot of very flat keyboards with few keys, some of them steno keyboards:
+</p>
+<p>
+<img loading="lazy" src="2023-12-10-keyboards-2.jpg" alt="" />
+</p>
+<p>
+Keyboards by Nicolas and Valerio:
+</p>
+<p>
+<img loading="lazy" src="2023-12-10-keyboards-3.jpg" alt="" />
+</p>
+<p>
+Sam’s keyboards:
+</p>
+<p>
+<img loading="lazy" src="2023-12-10-keyboards-4.jpg" alt="" />
+</p>
+<p>
+This is the keyboard I bought from Sam:
+</p>
+<p>
+<img loading="lazy" src="2023-12-10-keyboards-5.jpg" alt="" />
+</p>
+<p>
+It is labelled as
+<a href="https://www.monsgeek.com/product/m6/">Monsgeek M6</a>, KTT
+Matcha, GMK DMG Clones.
+</p>
+<p>
+Right now my fingers are confused and seemed to expect the Atreus layout
+I had been using recently, at least as far as the thumbs go.
+</p>
+<p>
+I get the feeling that not all keys work as intended, though. The right
+Ctrl key <del>has no effect</del> is a layer switch that enables &lt;
+and &gt; to control the volume, for example. The left Alt key is GUI.
+The right Alt key <del>has no effect</del> had a bent pin on their
+switch. The App key <del>has no effect</del> had a bent pin on their
+switch. The App key is actually Alt. The ] and = keys <del>have no
+effect</del> had a bent pin on their switches. The Volume Up key is
+mapped to Delete. The Volume Down key is mapped to Prior. The Mute Key
+is mapped to Next.
+</p>
+<p>
+Hm.
+</p>
+<p>
+As it turns out, the problem was the firmware. My guess is that it was
+too old.
+</p>
+<p>
+So here’s what I did:
+</p>
+<ul>
+<li>
+download <code>monsgeek_m6_via.bin</code> from
+<a href="https://www.caniusevia.com/docs/download_firmware">the VIA
+site</a>
+</li>
+<li>
+download <a href="https://github.com/qmk/qmk_toolbox/releases">QMK
+Toolbox</a>
+</li>
+<li>
+install it and have it install all the drivers
+</li>
+<li>
+plug the keyboard in while Esc is being pressed
+</li>
+<li>
+pick the firmware downloaded and flash it
+</li>
+</ul>
+<pre><code>* QMK Toolbox 0.2.2+0fcc8d2be51846956c2fc4edad6362c194d6b2ca (https://qmk.fm/toolbox)
+* Supported bootloaders:
+*  - ARM DFU (APM32, Kiibohd, STM32, STM32duino) and RISC-V DFU (GD32V) via dfu-util (http://dfu-util.sourceforge.net/)
+*  - Atmel/LUFA/QMK DFU via dfu-programmer (http://dfu-programmer.github.io/)
+*  - Atmel SAM-BA (Massdrop) via Massdrop Loader (https://github.com/massdrop/mdloader)
+*  - BootloadHID (Atmel, PS2AVRGB) via bootloadHID (https://www.obdev.at/products/vusb/bootloadhid.html)
+*  - Caterina (Arduino, Pro Micro) via avrdude (http://nongnu.org/avrdude/)
+*  - HalfKay (Teensy, Ergodox EZ) via Teensy Loader (https://pjrc.com/teensy/loader_cli.html)
+*  - LUFA/QMK HID via hid_bootloader_cli (https://github.com/abcminiuser/lufa)
+*  - WB32 DFU via wb32-dfu-updater_cli (https://github.com/WestberryTech/wb32-dfu-updater)
+*  - LUFA Mass Storage
+* Supported ISP flashers:
+*  - AVRISP (Arduino ISP)
+*  - USBasp (AVR ISP)
+*  - USBTiny (AVR Pocket)
+* Auto-flash enabled
+* Auto-flash disabled
+WB32 DFU device connected (WinUSB): (Undefined Vendor) WB Device in DFU Mode (342D:DFA0:0100)
+Attempting to flash, please don't remove device
+&gt; wb32-dfu-updater_cli.exe --toolbox-mode --dfuse-address 0x08000000 --download &quot;C:\Users\asc\Downloads\monsgeek_m6_via.bin&quot;
+&gt; ----------------------------------------
+&gt; C:\Users\asc\Downloads\monsgeek_m6_via.bin file opened
+&gt; ----------------------------------------
+&gt; Found DFU
+&gt; Opening DFU capable USB device ...
+&gt; Device ID 342d:dfa0
+&gt; ----------------------------------------
+&gt; The device bootloader version: 0.4
+&gt; Chip id: 0x3A50E980
+&gt; Flash size: 256 KBytes
+&gt; Sram size: 36 KBytes
+&gt; ----------------------------------------
+&gt; Start Download ...
+&gt; Download block start address: 0x08000000
+&gt; Download block size: 39884 Bytes
+&gt; Writing ...
+&gt; OK
+&gt; Download completed!
+Flash complete
+WB32 DFU device disconnected (WinUSB): (Undefined Vendor) WB Device in DFU Mode (342D:DFA0:0100)
+</code></pre>
+<p>
+Then return to the <a href="https://usevia.app/">VIA site</a> with a
+browser that supports the USB stuff, so either Chrome or Edge 😭 and
+configure the keyboard. And <em>now</em> it works.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Keyboards">#Keyboards</a>
+</p>
+<p><span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2023-12-10-keyboards">https://alexschroeder.ch/view/2023-12-10-keyboards</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2023-12-10-keyboards">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="some-of-the-most-defining-memes-of-2023-from-nepo-babies">“…
+some of the most defining memes of 2023, from nepo babies…</h2>
+<p>date: 2023-12-11, updated: 2023-12-11, from: Jason Kottke blog</p>
+<p><span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043605--some-of-the-most">https://kottke.org/23/12/0043605–some-of-the-most</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043605--some-of-the-most">Save
+to Pocket</a> </span></p>
+<hr />
+<h2
+id="fifty-years-ago-eight-americans-set-off-for-south-america-to-climb">“Fifty
+years ago, eight Americans set off for South America to climb…</h2>
+<p>date: 2023-12-11, updated: 2023-12-11, from: Jason Kottke blog</p>
+<p><span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043601-fifty-years-ago-eight-ame">https://kottke.org/23/12/0043601-fifty-years-ago-eight-ame</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043601-fifty-years-ago-eight-ame">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="diary-comics-nov.-10-12">Diary Comics, Nov. 10-12</h2>
+<p>date: 2023-12-11, updated: 2023-12-11, from: Jason Kottke blog</p>
+<p><span class="feed-item-link">
+<a href="https://kottke.org/23/12/diary-comic-nov-10-12">https://kottke.org/23/12/diary-comic-nov-10-12</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/diary-comic-nov-10-12">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="nasa-and-partners-study-contrail-formation">NASA and Partners
+Study Contrail Formation</h2>
+<p>date: 2023-12-11, from: NASA breaking news</p>
+<p>In a collaboration between multiple partners in the aviation
+industry, NASA is helping determine if the latest advances in aircraft
+engines and fuels can reduce atmospheric warming from condensation
+trails. Those condensation trails can trap heat in our atmosphere under
+specific conditions and increase the impact the aviation industry has on
+global warming. NASA partnered […]</p>
+<p><span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasa-and-partners-study-contrail-formation/">https://www.nasa.gov/image-article/nasa-and-partners-study-contrail-formation/</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasa-and-partners-study-contrail-formation/">Save
+to Pocket</a> </span></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2023-12-11, from: Dave Winer’s Scripting
+News)</p>
+<p>Obviously, at some point Musk will sell Twitter to Zuckerberg.</p>
+<p><span class="feed-item-link">
+<a href="http://scripting.com/2023/12/11.html#a145817">http://scripting.com/2023/12/11.html#a145817</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/11.html#a145817">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="package-camoflauge">Package Camoflauge</h2>
+<p>date: 2023-12-11, updated: 2023-12-11, from: One Foot Tsunami</p>
+<p><span class="feed-item-link">
+<a href="https://onefoottsunami.com/2023/12/11/package-camoflauge/">https://onefoottsunami.com/2023/12/11/package-camoflauge/</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2023/12/11/package-camoflauge/">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="single-item-gift-guide">Single-Item Gift Guide</h2>
+<p>date: 2023-12-11, updated: 2023-12-11, from: Jason Kottke blog</p>
+<p><span class="feed-item-link">
+<a href="https://kottke.org/23/12/single-item-gift-guide">https://kottke.org/23/12/single-item-gift-guide</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/single-item-gift-guide">Save
+to Pocket</a> </span></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2023-12-11, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2021/12/24/dontLookUp.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Something
+that should make you cry. So many of our friends on the web are happy to
+let Facebook run the new Twitter. What is wrong with you. I don’t know
+any better way to put it. Quitting Twitter is pointless, meaningless,
+powerless. But not building Threads for Facebook is not meaningless. For
+once can people look out for the future, keep the window open for
+independence for writers and developers, and let us try out some new
+ideas that might not be something Zuckerberg would love? Come on
+already. This is the saddest moment, when there’s so much possibility,
+and you all are ready to just throw it away. (And no, I don’t believe
+for a minute they’re going to do anything that helps the Fediverse. I
+know the playbook. Saying you’ll be open is what you do until you
+dominate, then it’s just business. Truth is it’s always just business,
+and saying you’re going to be open at this stage of network development
+<i>is</i> good for business.)</p>
+<p><span class="feed-item-link">
+<a href="http://scripting.com/2023/12/11.html#a142747">http://scripting.com/2023/12/11.html#a142747</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/11.html#a142747">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="general-note">General note</h2>
+<p>date: 2023-12-11, from: Dave Winer’s Scripting News</p>
+<p>
+If you develop one of the ideas I write about here, tell me about it!
+</p>
+<p>
+Let me try it out. Lately there have been people doing this, but for
+some reason I don’t find out about the work until it’s too late.
+</p>
+<p>
+What are people thinking? If I ask for something, there’s a reason – I
+want to learn from it.
+</p>
+<p>
+I think programmers are shy. You need to stop doing that. <span
+class="spOldSchoolEmoji">😄</span>
+</p>
+<p>
+And of course I’ll share what I learn here on my blog, of course.
+</p>
+<p><span class="feed-item-link">
+<a href="http://scripting.com/2023/12/11/142016.html?title=generalNote">http://scripting.com/2023/12/11/142016.html?title=generalNote</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/11/142016.html?title=generalNote">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="working-together-for-writers">Working together for writers</h2>
+<p>date: 2023-12-11, from: Dave Winer’s Scripting News</p>
+<p>
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/06/29/alice.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I
+want to say this as loudly and clearly as I can. If we want independent
+writing on the web to flourish, we need our own search engine, to help
+us find each other, and build associations of writers, so we can
+influence each other, and help developers create new tools for all
+writers. Or simply to find something I wrote about 15 years ago, so I
+can refer back to it. I really don’t have a good way yet to find stuff
+I’ve written. It’s all there on the web, for crying out loud.
+</p>
+<p>
+More important, we need to learn to work together, we do very very
+little of that. It’s amazingly difficult to get a new idea heard by
+other developers. This is a huge problem, it’s why we’ve always been
+dominated by big companies who don’t care about what we do.
+</p>
+<p>
+Start with a search engine for bloggers. I’ll help. And let’s do lots of
+them, so no one can stand in the way of trying out new ideas.
+</p>
+<p><span class="feed-item-link">
+<a href="http://scripting.com/2023/12/11/141811.html?title=workingTogetherForWriters">http://scripting.com/2023/12/11/141811.html?title=workingTogetherForWriters</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/11/141811.html?title=workingTogetherForWriters">Save
+to Pocket</a> </span></p>
+<hr />
+<h2
+id="better-to-ask-directly-and-be-refused-than-to-wish-endlessly-for">“Better
+to ask directly and be refused than to wish endlessly for…</h2>
+<p>date: 2023-12-11, updated: 2023-12-11, from: Jason Kottke blog</p>
+<p><span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043597-better-to-ask-directly-an">https://kottke.org/23/12/0043597-better-to-ask-directly-an</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043597-better-to-ask-directly-an">Save
+to Pocket</a> </span></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2023-12-11, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2020/06/17/mlkButton.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Before
+moving on to this year’s BOTY, I thought HCR could help figure out how
+we could move past merely reporting on Trump’s danger to democracy,
+something that was clear going back to 2015, the news could start
+reporting on The Resistance, what we’re doing to prevent the end of
+democracy. And in order for that to happen, we have to do newsworthy
+things for them to write about! We’re not doing that. It started out
+well, with the
+<a href="https://en.wikipedia.org/wiki/2017_Women%27s_March#:~:text=The%20Women's%20March%20was%20a,to%20the%20rights%20of%20women.">Woman’s
+March on January 20, 2017</a>, but that was it. We can and must keep
+showing up, and I’m not advocating huge marches, I want to see
+neighborhood-level marching. Once a month, rain or shine, we all walk
+(if possible) or drive to our voting places, where there will be music,
+food, people with ideas, dancing, whatever you like. Making civic
+participation a regular thing. You go because you want to be there. Not
+against something but <i>for</i> all of us. All we have to do is figure
+out how this works, how to beat the drum, to get the ball rolling. The
+idea is that if we got close to 100 percent voter participation, our
+democracy would be in the best shape it’s been in probably since
+inception. I had another idea that’s worth considering. We should all
+wear the same button, just a picture, no slogans, an idea of what we
+stand for as Americans. It could be an American flag, or it could be a
+photo of
+<a href="http://scripting.com/2016/12/30/theMlkButtonsArrived.html">Martin
+Luther King</a>. The latter was my choice. People love the button, but
+it didn’t catch on. If we all did, it’s omission would be noticed, and
+we’d know there’s someone we should talk with about America and offer
+them a free button, nicely, if they’ll put it on right now. Anyway, I’m
+putting this out there again, and I’ll keep doing it.</p>
+<p><span class="feed-item-link">
+<a href="http://scripting.com/2023/12/11.html#a135926">http://scripting.com/2023/12/11.html#a135926</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/11.html#a135926">Save
+to Pocket</a> </span></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2023-12-11, from: Dave Winer’s Scripting
+News)</p>
+<p>Starting in September or so I start thinking about
+<a href="https://www.google.com/search?q=site%3Ascripting.com+boty">Blogger
+of the Year</a>, a thing I do at the end of most years. Not too many
+people care, but it’s a good thing for me to do – to review what makes a
+blog the most interesting and valuable of the year, to me – obviously.
+We all should name a BOTY, or give out any award we feel is deserved.
+People think “well it’s just me and I don’t matter” – which is totally
+true, and is why you might as well pick someone. At least <i>they’ll</i>
+know you appreciate them. And it gets you to think about what you value,
+which builds over time to a better understanding of everything. Last
+year I <a href="http://scripting.com/2023/01/01.html#a032915">chose</a>
+Heather Cox Richardson, whose
+<a href="https://heathercoxrichardson.substack.com/">Substack site</a>
+is a constant read for me. Every night an email arrives, at different
+times, and if I’m up and in the mood, I’ll spend a few minutes with HCR
+and it’s always illuminating. She was my choice last year because her
+writing re-kindled my interest in American history, and I started
+reading books on most slavery, something that was seriously missing from
+my NYC education, and is so important to who we are as a country.</p>
+<p><span class="feed-item-link">
+<a href="http://scripting.com/2023/12/11.html#a134710">http://scripting.com/2023/12/11.html#a134710</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/11.html#a134710">Save
+to Pocket</a> </span></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2023-12-11, from: Dave Winer’s Scripting
+News)</p>
+<p>There’s an interesting recent development in the world of feeds and
+blogs – blogs that are only feeds. Designed to be read in feed readers
+of all sizes and shapes. I have a few of these myself. My
+<a href="http://data.feedland.org/feeds/davewiner.xml">linkblog</a> for
+example. Also, FeedLand provides an outbound
+<a href="https://feedland.com/?myfeed">feed to every user</a>, which
+meets all the qualifications of a feed-only blog.</p>
+<p><span class="feed-item-link">
+<a href="http://scripting.com/2023/12/11.html#a133756">http://scripting.com/2023/12/11.html#a133756</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/11.html#a133756">Save
+to Pocket</a> </span></p>
+<hr />
+<h2
+id="too-many-news-orgs-adopt-right-wing-frames-about-trans-people">Too
+many news orgs adopt right-wing frames about trans people</h2>
+<p>date: 2023-12-11, from: Nieman Journalism Lab</p>
+<p>If 2023 is anything to go by, 2024 will see a continued wave of
+attacks on trans people, driven by politicians who believe they can
+weaponize our existence as a wedge issue to electoral success and
+victory in the “culture wars.” And if 2023 is anything to go by, I
+predict 2024 will continue to…</p>
+<p><span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/too-many-news-orgs-adopt-right-wing-frames-about-trans-people/">https://www.niemanlab.org/2023/12/too-many-news-orgs-adopt-right-wing-frames-about-trans-people/</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/too-many-news-orgs-adopt-right-wing-frames-about-trans-people/">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="more-public-funding-for-local-news">More public funding for
+local news</h2>
+<p>date: 2023-12-11, from: Nieman Journalism Lab</p>
+<p>Local news outlets continue to fight for their lives nationwide: The
+State of Local News 2023 report maps current news deserts in 204
+counties and identifies hundreds more at risk. Like the nation,
+California’s local news ecosystem is fragile: In 2023, four of our 58
+counties are without news outlets and 11 have just one,…</p>
+<p><span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/more-public-funding-for-local-news/">https://www.niemanlab.org/2023/12/more-public-funding-for-local-news/</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/more-public-funding-for-local-news/">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="news-publishers-find-their-brand-voice-on-social">News
+publishers find their brand voice on social</h2>
+<p>date: 2023-12-11, from: Nieman Journalism Lab</p>
+<p>During the Thanksgiving break, while scrolling on X (formerly
+Twitter), I stumbled upon a post from Auntie Anne’s, the mall pretzel
+company. The post featured a greyed-out, grainy photo of a pretzel,
+accompanied by lowercase text that read: “are you ready for it?” are you
+ready for it? pic.twitter.com/HOw6C2G3nS — Auntie Anne’s (<span
+class="citation" data-cites="AuntieAnnes">@AuntieAnnes</span>) November
+27,…</p>
+<p><span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/news-publishers-find-their-brand-voice-on-social/">https://www.niemanlab.org/2023/12/news-publishers-find-their-brand-voice-on-social/</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/news-publishers-find-their-brand-voice-on-social/">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="durable-over-disposable">Durable over disposable</h2>
+<p>date: 2023-12-11, from: Nieman Journalism Lab</p>
+<p>2024 will be the year we focus more on durable, not disposable
+journalism. Have you ever researched and filed a story only to struggle
+to remember what it was about a day or two later? The flow of news is so
+rapid that if the people writing the stories can’t remember them, what
+do you…</p>
+<p><span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/durable-over-disposable/">https://www.niemanlab.org/2023/12/durable-over-disposable/</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/durable-over-disposable/">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="returning-to-a-contextual-focus">Returning to a contextual
+focus</h2>
+<p>date: 2023-12-11, from: Nieman Journalism Lab</p>
+<p>It’s always fascinating to read all the predictions that come out
+this time of year, but they fall into three different types: predictions
+about things we think are going to happen, predictions about things we
+wish would happen, and predictions for things that we should actively
+do. I’m going to focus on the last one,…</p>
+<p><span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/returning-to-a-contextual-focus/">https://www.niemanlab.org/2023/12/returning-to-a-contextual-focus/</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/returning-to-a-contextual-focus/">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="publishers-embrace-open-source">Publishers embrace open
+source</h2>
+<p>date: 2023-12-11, from: Nieman Journalism Lab</p>
+<p>Publishers are more skeptical than ever, and they should be. After a
+particularly harsh year of being burned by Big Tech, publishers will be
+forced to develop strategies to reduce their reliance on tech companies.
+They will finally see open source software as a competitive advantage,
+and the cheapest way to keep up with the…</p>
+<p><span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/publishers-embrace-open-source/">https://www.niemanlab.org/2023/12/publishers-embrace-open-source/</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/publishers-embrace-open-source/">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="bringing-the-unix-philosophy-to-the-21st-century">Bringing the
+Unix philosophy to the 21st century</h2>
+<p>date: 2023-12-11, from: OS News</p>
+<p>The Unix philosophy of using compact expert tools that do one thing
+well and pipelining them together to manipulate data is a great idea and
+has worked well for the past few decades. This philosophy was outlined
+in the 1978 Foreword to the Bell System Technical Journal describing the
+UNIX Time-Sharing System: Items i and ii are oft repeated, and for good
+reason. But it is time to take this philosophy to the 21st century by
+further defining a standard output format for non-interactive use. ↫
+Kelly Brazil This seems like a topic people will have calm opinions
+about.</p>
+<p><span class="feed-item-link">
+<a href="https://www.osnews.com/story/138047/bringing-the-unix-philosophy-to-the-21st-century/">https://www.osnews.com/story/138047/bringing-the-unix-philosophy-to-the-21st-century/</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138047/bringing-the-unix-philosophy-to-the-21st-century/">Save
+to Pocket</a> </span></p>
+<hr />
+<h2
+id="build-real-time-applications-with-the-new-watch-api-in-deno-kv">Build
+Real-time Applications with the new “watch” API in Deno KV</h2>
+<p>date: 2023-12-11, updated: 2023-12-11, from: Deno blog</p>
+<p>Detecting changes in Deno KV with <code>kv.watch</code> makes it
+easier to build real-time applications like newsfeeds, analytics,
+multi-user collaboration tools, and more.</p>
+<p><span class="feed-item-link">
+<a href="https://deno.com/blog/kv-watch">https://deno.com/blog/kv-watch</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://deno.com/blog/kv-watch">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="christmas-with-raspberry-pi-5-magpimonday">Christmas with
+Raspberry Pi 5 | #MagPiMonday</h2>
+<p>date: 2023-12-11, from: Raspberry Pi News (.com)</p>
+<p>
+Writing about Christmas in early November is weird, even for Rob
+Zwetsloot. But it had to be done in order to get it in the December
+issue of The MagPi, and it means we get to sprinkle some festive cheer
+over this week’s #MagPiMonday.
+</p>
+<p>
+The post
+<a href="https://www.raspberrypi.com/news/christmas-with-raspberry-pi-5-magpimonday/">Christmas
+with Raspberry Pi 5 | #MagPiMonday</a> appeared first on
+<a href="https://www.raspberrypi.com">Raspberry Pi</a>.
+</p>
+<p><span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/christmas-with-raspberry-pi-5-magpimonday/">https://www.raspberrypi.com/news/christmas-with-raspberry-pi-5-magpimonday/</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/christmas-with-raspberry-pi-5-magpimonday/">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="second-look---ibm-jx">Second Look - IBM JX</h2>
+<p>date: 2023-12-11, from: Computer ads from the Past</p>
+<p>Ads from the East</p>
+<p><span class="feed-item-link">
+<a href="https://computeradsfromthepast.substack.com/p/second-look-ibm-jx">https://computeradsfromthepast.substack.com/p/second-look-ibm-jx</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://computeradsfromthepast.substack.com/p/second-look-ibm-jx">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="death-and-the-gorgon">Death and the Gorgon</h2>
+<p>date: 2023-12-11, from: Greg Egan’s feed</p>
+<p>My new story “Death and the Gorgon” has just been published in
+Asimov’s SF Magazine</p>
+<p><span class="feed-item-link">
+<a href="https://www.gregegan.net/BIBLIOGRAPHY/Bibliography.html">https://www.gregegan.net/BIBLIOGRAPHY/Bibliography.html</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.gregegan.net/BIBLIOGRAPHY/Bibliography.html">Save
+to Pocket</a> </span></p>
+<hr />
+<h2
+id="nasas-webb-stuns-with-new-high-definition-look-at-exploded-star">NASA’s
+Webb Stuns With New High-Definition Look at Exploded Star</h2>
+<p>date: 2023-12-11, from: NASA breaking news</p>
+<p>Mysterious features hide in near-infrared light Like a shiny, round
+ornament ready to be placed in the perfect spot on a holiday tree,
+supernova remnant Cassiopeia A (Cas A) gleams in a new image from NASA’s
+James Webb Space Telescope. As part of the 2023 Holidays at the White
+House, First Lady of the United States […]</p>
+<p><span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/webb/nasas-webb-stuns-with-new-high-definition-look-at-exploded-star/">https://www.nasa.gov/missions/webb/nasas-webb-stuns-with-new-high-definition-look-at-exploded-star/</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/webb/nasas-webb-stuns-with-new-high-definition-look-at-exploded-star/">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="trustnet-trust-based-moderation-pdf">TrustNet: Trust-based
+Moderation (pdf)</h2>
+<p>date: 2023-12-11, from: Tilde.news</p>
+<p>
+<a href="https://tilde.news/s/g9rbfi/trustnet_trust_based_moderation_pdf">Comments</a>
+</p>
+<p><span class="feed-item-link">
+<a href="https://cblgh.org/dl/trustnet-cblgh.pdf">https://cblgh.org/dl/trustnet-cblgh.pdf</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://cblgh.org/dl/trustnet-cblgh.pdf">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="bots-again">Bots, again</h2>
+<p>date: 2023-12-10, from: Alex Schroeder’s Blog</p>
+<h1>
+Bots, again
+</h1>
+<p>
+I come home from a friendly meetup and notice that my tiny web-server
+has a load of 80 instead of the usual 0.5. What the hell is going on? I
+look at the logs of the last 24 hours and see an IP number with more
+than 100 000 hits in the last 24h. What are they doing?
+</p>
+<p>
+Whois is tells me it is from the “Alibaba Cloud”. Oh yeah? What are the
+Chinese trying to do on my site?
+</p>
+<p>
+I start poking around. More and more IP numbers from all over the net
+show up. Alibaba Cloud, Tencent Cloud.
+</p>
+<p>
+All right, so I’m blocking some of them individually as I go, but after
+a while I realize that I probably have to block them at the network
+level.
+</p>
+<p>
+For the moment I’m also taking down one of the wikis that’s overloading
+my server.
+</p>
+<p>
+Just looking at the top 10 offenders for two of my domains, and running
+whois on them to find the entire network they belong to, and checking
+that it’s Alibaba or Tencent:
+</p>
+<pre><code># Alibaba Cloud 2023-12-10
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.76.0.0/14'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.80.0.0/13'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.74.0.0/14'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.235.0.0/16'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.246.0.0/16'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.244.0.0/15'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.240.0.0/14'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.236.0.0/14'&quot; [or]
+# Tencent Cloud
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '42.192.0.0/15'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '49.232.0.0/14'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '101.34.0.0/15'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '43.142.0.0/16'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '124.220.0.0/14'&quot;
+RewriteRule ^ https://alexschroeder.ch/nobots [redirect=410,last]
+</code></pre>
+<p>
+If I want this to be for the entire server and not repeat it for each
+location, I guess I’ll have to use Apache rewrite rules.
+</p>
+<p>
+While I’m doing this, I notice a new pattern… My wiki software allows
+you to fetch a feed for every page. Either it contains updates to the
+page (Oddmuse), or a feed of the pages linked (Oddmu). It’s for humans.
+</p>
+<p>
+Of course some shit engineer decided that it was a good idea to scan the
+web for all the feeds that are out there (so rare! so precious!) and to
+download them all, forever (uncover the darknet! server our customers!)
+and now I have to block IP number ranges, add robot agents to robots.txt
+files (not all of them provide one), or block user agents (not all of
+them provide a useful one) and I block and block and block (for the
+environment! to avoid +2.0°C and the end of human civilization!) and all
+this while I know that all these shit requests exist out there, for all
+the sites, everywhere – a hundred thousand requests or more per day, per
+site, wasting CO₂ – and what am I going to do, kill the feeds for humans
+because some shit engineer decided to feed a machine?
+</p>
+<p>
+I’m on the
+<a href="https://en.wikipedia.org/wiki/Dune_(franchise)#The_Butlerian_Jihad">Butlerian
+Jihad</a> again.
+</p>
+<p>
+Oh, and Virgin Media is downloading tons of PDFs I’m hosting? Are they
+looking for copyright violations? On the blocklist they go.
+</p>
+<p>
+And what’s this, Feedly is also downloading feeds like crazy, every few
+minutes? Slow down, idiots. My news is not important. On the blocklist
+they go. Or are you trying to train you stupid intelligence? Fuck this
+AI training stuff. I already use “X-Robots-Tag: noimageai” but I guess I
+should add even more HTTP headers to block even more engineers
+overstepping boundaries?
+</p>
+<p>
+Ah, and MonitoRSS going into overdrive, from the Amazon Cloud. Really, I
+don’t think there are humans in the Amazon Cloud. Onto the blocklist
+they go. Well, at least this IP range.
+</p>
+<p>
+And who’s that VelenPublicWebCrawler, zealously collecting pages? Onto
+the blocklists they go.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Bots">#Bots</a>
+<a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a>
+<a class="tag" href="/search/?q=%23Administration">#Administration</a>
+</p>
+<p><span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2023-12-10-bots-again">https://alexschroeder.ch/view/2023-12-10-bots-again</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2023-12-10-bots-again">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="the-curious-about-everything-newsletter-33">The Curious About
+Everything Newsletter #33</h2>
+<p>date: 2023-12-10, from: Curious about everything blog</p>
+<p>The many interesting things I read in November 2023.</p>
+<p><span class="feed-item-link">
+<a href="https://jodiettenberg.substack.com/p/thirty-three">https://jodiettenberg.substack.com/p/thirty-three</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://jodiettenberg.substack.com/p/thirty-three">Save
+to Pocket</a> </span></p>
+<hr />
+<p><strong><span class="citation" data-cites="Miguel">@Miguel</span> de
+Icaza Mastondon feed</strong> (date: 2023-12-10, from: Miguel de Icaza
+Mastondon feed)</p>
+<p>
+From twitter, I enjoyed this thread of threads on Palestine:
+</p>
+<p>
+<a href="https://x.com/_zachfoster/status/1718633421348499849" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span
+class="invisible">https://</span><span class="ellipsis">x.com/_zachfoster/status/17186</span><span
+class="invisible">33421348499849</span></a>
+</p>
+<p><span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111556693179921904">https://mastodon.social/<span
+class="citation"
+data-cites="Migueldeicaza/111556693179921904">@Migueldeicaza/111556693179921904</span></a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111556693179921904">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="how-we-got-here">How we got here</h2>
+<p>date: 2023-12-10, from: Dave Winer’s Scripting News</p>
+<p>
+First an apology. To all the people who clicked on a
+<a href="https://feedland.com/?river=true&screenname=davewiner">link</a>
+to a FeedLand page on a phone in the past, I am sorry to have put you
+through that. Now that it works on phones, I can see how nice it is to
+be able to skim the news while you’re out and about.
+</p>
+<p>
+When you’re working alone on a huge product like this, you have to keep
+your head down and focus on the problem of the moment. There have been
+some huge ones this year. The product’s identity system had to be
+replaced, while people were using it, because Twitter was getting ready
+to explode their API. Then the move from a Digital Ocean server to the
+<a href="https://docs.wpvip.com/technical-references/node-js/">Automattic
+VIP server</a> required fairly large pieces of the software to be
+rewritten, again, in-place, while feedland.org continued to run. There’s
+a huge change between writing software for a server where the runtime
+environment doesn’t include local storage. Everything has to be stored
+in a database.
+</p>
+<p>
+All the pieces were rewritten, one by one, until we discovered another
+that needed to be rewritten. And then at almost the last minute I
+<a href="http://scripting.com/2023/10/09/135922.html">decided</a> we had
+to have <a href="http://scripting.com/2023/10/21/143159.html">reading
+lists</a>, because of the kind of feed network I wanted to build with
+this product. And one more thing, let’s get this mofo working on mobile
+devices as it was meant to, which turned out to be not as hard as I
+imagined, and very nice to have.
+</p>
+<p>
+The new version of the software with all the new code turned on is at
+<a href="https://feedland.com/">feedland.com</a>. That’s the version
+that’s running on Automattic’s servers, and should be able to scale to
+far more users. The docs aren’t converted yet, but the software is
+basically the same. You should read the
+<a href="http://docs.feedland.org/firstThings.opml">first page</a> of
+the docs, at least, so you aren’t surprised to find out that your
+subscriptions are public. This is not the usual kind of feed product,
+it’s more of a community of news users. Just like a social network, you
+can see what other people are reading. The idea of FeedLand is to see
+what would happen if instead of building something complicated around
+conversations, we limited ourselves to what feeds could do and then see
+where we could go with that. That’s what FeedLand is.
+</p>
+<p>
+PS: I can’t believe how fast Automattic’s system is. I don’t understand
+how it does all that work in so little time.
+</p>
+<p>
+PPS: The menus are different on the mobile version, by necessity. I
+included the Bookmarks menu, it’s really important to have the news you
+want to read available one click away in mobile. I imagine doing setup
+on your home computer, with links you’ll use when you’re using the
+mobile version.
+</p>
+<p>
+<div class="divInlineImage">
+<center>
+<img class="imgInline" src="https://imgs.scripting.com/2023/12/10/feedlandScreen1.png">
+</center>
+The mobile-ready <a href="https://feedland.com/">FeedLand</a> is ready
+to use.
+</div>
+</p>
+<p><span class="feed-item-link">
+<a href="http://scripting.com/2023/12/10/140353.html?title=howWeGotHere">http://scripting.com/2023/12/10/140353.html?title=howWeGotHere</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/10/140353.html?title=howWeGotHere">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="bsd-on-windows-things-i-wish-i-knew-existed">BSD on Windows:
+things I wish I knew existed</h2>
+<p>date: 2023-12-10, from: OS News</p>
+<p>It’s 1995 and I’ve been nearly two years in the professional
+workspace. OS/2 is the dominant workstation product, Netware servers
+rule the world, and the year of the Linux desktop is going to happen any
+moment now. If you weren’t running OS/2, you were probably running
+Windows 3.1, only very few people were using that Linux thing. What
+would have been the prefect OS at the time would have been NT with a
+competent POSIX subsystem, but since we were denied that, enter Hiroshi
+Oota with BSD on Windows. ↫ neozeed at Virtually Fun This is absolutely
+wild.</p>
+<p><span class="feed-item-link">
+<a href="https://www.osnews.com/story/138045/bsd-on-windows-things-i-wish-i-knew-existed/">https://www.osnews.com/story/138045/bsd-on-windows-things-i-wish-i-knew-existed/</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138045/bsd-on-windows-things-i-wish-i-knew-existed/">Save
+to Pocket</a> </span></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2023-12-10, from: Dave Winer’s Scripting
+News)</p>
+<p>Heard on ski lift: “I’m not particular, I’ll work with anyone as long
+as the goal is to keep one company from controlling something
+worthwhile.”</p>
+<p><span class="feed-item-link">
+<a href="http://scripting.com/2023/12/09.html#a021933">http://scripting.com/2023/12/09.html#a021933</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/09.html#a021933">Save
+to Pocket</a> </span></p>
+<hr />
+<h2 id="full-circle-weekly-news-343">Full Circle Weekly News 343</h2>
+<p>date: 2023-12-10, from: Full Circle Magazine</p>
+<ul>
+<li>
+<p>
+<a href="https://delta.chat/en/2023-11-23-jumbo-42">Delta Chat 1.42:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://discuss.linuxcontainers.org/t/incus-0-3-has-been-released/18351">Release
+of Incus 0.3:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://docs.comentario.app/en/about/features/">Comentario
+3.0.0:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://www.redhat.com/en/blog/rhel-10-plans-wayland-and-xorg-server">Red
+Hat to remove X.org server and related components from RHEL 10:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://tails.net/news/version_5.20/index.en.html">Tails
+5.20:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://framablog.org/2023/11/28/peertube-v6-is-out-and-powered-by-your-ideas/">PeerTube
+6.0:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://translate.google.com/website?sl=auto&amp;tl=en&amp;hl=en-US&amp;u=https://www.armbian.com/newsflash/armbian-23-11-topi/">Release
+of Armbian 23.11:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://github.com/checkpoint-restore/criu/releases/tag/v3.19">Release
+of CRIU 3.19:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://github.com/linuxmint/cinnamon/releases/tag/6.0.0">Release
+of Cinnamon 6.0 with initial Wayland support:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://lists.freedesktop.org/archives/mesa-announce/2023-November/000740.html">Release
+of Mesa 23.3:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://github.com/jliljebl/flowblade/releases/tag/v2.12">Flowblade
+2.12:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://content.minetest.net/packages/Wuzzy/repixture/">Repixture
+3.11.0:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://wz2100.net/news/version-4-4-2/">Release of Warzone 2100
+4.4.2:</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://github.com/JordanCpp/Lib-LDL">LDL multimedia library
+optimized for low-power systems:</a>
+</p>
+</li>
+</ul>
+<p>
+<strong>Credits</strong>
+</p>
+<ul>
+<li>
+Host: <a href="https://twitter.com/bardictriad"><span class="citation"
+data-cites="bardictriad">@bardictriad</span></a>,
+<a href="mailto:zaivala@hostux.social"><span class="citation"
+data-cites="zaivala">@zaivala</span></a>
+</li>
+<li>
+Bumper: <a href="https://canonical.com/">Canonical</a>
+</li>
+<li>
+Theme Music: From The Dust - Stardust
+</li>
+<li>
+<a href="https://soundcloud.com/ftdmusic">https://soundcloud.com/ftdmusic</a>
+</li>
+<li>
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+</li>
+</ul>
+<p><span class="feed-item-link">
+<a href="https://fullcirclemagazine.org/podcasts/podcast-343/">https://fullcirclemagazine.org/podcasts/podcast-343/</a>
+<a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fullcirclemagazine.org/podcasts/podcast-343/">Save
+to Pocket</a> </span></p>
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+</section>
+<footer>
+Antenna is a personal aggregation of items found around the web.
+Curated with <a href="https://rsdoiel.github.io/skimmer">skimmer</a> and <a href="https://sqlite.org">sqlite</a> then rendered with <a href="https://pandoc.org">Pandoc</a> with search provided by <a href="https://pagefind.app">PageFind</a>.
+</footer>
+<script type="module">
+    await import('/pagefind/pagefind-highlight.js');
+    new PagefindHighlight({ highlightParam: "highlight" });
+</script>
+</body>
+</html>
