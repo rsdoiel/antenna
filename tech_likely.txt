@@ -1,6 +1,7 @@
 #
 # Tech-like, things I read, mostly involving tech that are not specific to the other columns
 #
+https://timwright.org/blog/feed/ "~Tim Wright's blog (met at USC)"  curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://feeds.feedburner.com/NiemanJournalismLab "~Nieman Journalism Lab"
 https://www.postgresql.org/news.rss "~PostgreSQL News"
 https://us-rse.org/feed.xml "~The United States Research Software Engineer Association"

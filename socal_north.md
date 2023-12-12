@@ -1,11 +1,47 @@
 ---
 title: socal north 2023.50
-updated: 2023-12-12 12:37:41
+updated: 2023-12-12 14:27:36
 ---
 
 # socal north 2023.50
 
-(date: 2023-12-12 12:37:41)
+(date: 2023-12-12 14:27:36)
+
+---
+
+## At 1 Gaza Hospital, Doctors Are Fleeing, Supplies Are Low And There's Not Enough Beds
+
+date: 2023-12-12, updated: 2023-12-12, from: The LAist
+
+In the Palestinian territory's second-largest city, Khan Younis, thousands have taken shelter on the grounds of Nasser Medical Complex, where staff describe an increasingly desperate situation.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/at-1-gaza-hospital-doctors-are-fleeing-supplies-are-low-and-theres-not-enough-beds">https://laist.com/news/at-1-gaza-hospital-doctors-are-fleeing-supplies-are-low-and-theres-not-enough-beds</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/at-1-gaza-hospital-doctors-are-fleeing-supplies-are-low-and-theres-not-enough-beds">Save to Pocket</a>
+</span>
+
+---
+
+## Why Egypt Doesn't Want Palestinians In Gaza To Cross The Border
+
+date: 2023-12-12, updated: 2023-12-12, from: The LAist
+
+Hemmed in by Israeli forces and the Mediterranean Sea, Palestinians in Gaza seemingly have only one place left to go — across the border to Egypt. But Egypt is resistant to letting them in.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/why-egypt-doesnt-want-palestinians-in-gaza-to-cross-the-border">https://laist.com/news/why-egypt-doesnt-want-palestinians-in-gaza-to-cross-the-border</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/why-egypt-doesnt-want-palestinians-in-gaza-to-cross-the-border">Save to Pocket</a>
+</span>
+
+---
+
+## Jackie Goldberg Reelected As LA Unified Board President
+
+date: 2023-12-12, updated: 2023-12-12, from: The LAist
+
+The longstanding public servant will spend her last year before retirement overseeing the board that steers the education of more than 400,000 students.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/jackie-goldberg-reelected-lausd-school-board-president-2023">https://laist.com/news/education/jackie-goldberg-reelected-lausd-school-board-president-2023</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/jackie-goldberg-reelected-lausd-school-board-president-2023">Save to Pocket</a>
+</span>
 
 ---
 
@@ -105,18 +141,6 @@ A crowd stood across the University Library, with unlit candles in one hand and 
 
 ---
 
-## LA City Council Members Wrestle With Increasing Their Numbers
-
-date: 2023-12-12, updated: 2023-12-12, from: The LAist
-
-Activists worry support for expanding the L.A. City Council is losing momentum.
-
-<span class="feed-item-link">
-<a href="https://laist.com/news/politics/la-city-council-members-wrestle-with-increasing-their-numbers">https://laist.com/news/politics/la-city-council-members-wrestle-with-increasing-their-numbers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/la-city-council-members-wrestle-with-increasing-their-numbers">Save to Pocket</a>
-</span>
-
----
-
 ## For ‘More Vibes,’ Listen To Music Like An LA High School Student
 
 date: 2023-12-12, updated: 2023-12-12, from: The LAist
@@ -125,6 +149,18 @@ More than a dozen students talked to LAist about how music powered them through 
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/education/los-angeles-high-school-gen-z-best-music-2023">https://laist.com/news/education/los-angeles-high-school-gen-z-best-music-2023</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/los-angeles-high-school-gen-z-best-music-2023">Save to Pocket</a>
+</span>
+
+---
+
+## LA City Council Members Wrestle With Increasing Their Numbers
+
+date: 2023-12-12, updated: 2023-12-12, from: The LAist
+
+Activists worry support for expanding the L.A. City Council is losing momentum.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/la-city-council-members-wrestle-with-increasing-their-numbers">https://laist.com/news/politics/la-city-council-members-wrestle-with-increasing-their-numbers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/la-city-council-members-wrestle-with-increasing-their-numbers">Save to Pocket</a>
 </span>
 
 ---

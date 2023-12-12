@@ -1,11 +1,83 @@
 ---
 title: tech likely 2023.50
-updated: 2023-12-12 12:37:41
+updated: 2023-12-12 14:27:36
 ---
 
 # tech likely 2023.50
 
-(date: 2023-12-12 12:37:41)
+(date: 2023-12-12 14:27:36)
+
+---
+
+## GNU Unifont Glyphs
+
+date: 2023-12-12, from: Tilde.news
+
+<p><a href="https://tilde.news/s/qsb7ky/gnu_unifont_glyphs">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://unifoundry.com/unifont/">https://unifoundry.com/unifont/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://unifoundry.com/unifont/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s Perseverance Rover Deciphers Ancient History of Martian Lake
+
+date: 2023-12-12, from: NASA breaking news
+
+Now at 1,000 days on Mars, the mission has traversed an ancient river and lake system, collecting valuable samples along the way. Marking its 1,000th Martian day on the Red Planet, NASA’s Perseverance rover recently completed its exploration of the ancient river delta that holds evidence of a lake that filled Jezero Crater billions of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-deciphers-ancient-history-of-martian-lake/">https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-deciphers-ancient-history-of-martian-lake/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-deciphers-ancient-history-of-martian-lake/">Save to Pocket</a>
+</span>
+
+---
+
+##  Thanks, and Bye! 
+
+date: 2023-12-12, updated: 2023-12-12, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/thanks">https://kottke.org/23/12/thanks</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/thanks">Save to Pocket</a>
+</span>
+
+---
+
+## Webb Sheds Light on an Exploded Star
+
+date: 2023-12-12, from: NASA breaking news
+
+Supernova remnant Cassiopeia A (Cas A) shines in a new image from Dec. 10, 2023, from NASA’s James Webb Space Telescope. Webb’s Near-Infrared Camera (NIRCam) view of Cas A displays this stellar explosion at a resolution previously unreachable at these wavelengths, revealing intricate details of the expanding shell of material slamming into the gas shed [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/webb-sheds-light-on-an-exploded-star/">https://www.nasa.gov/image-article/webb-sheds-light-on-an-exploded-star/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/webb-sheds-light-on-an-exploded-star/">Save to Pocket</a>
+</span>
+
+---
+
+## Breaking Records, Returning Asteroid Samples Among NASA’s Big 2023
+
+date: 2023-12-12, from: NASA breaking news
+
+In 2023, as NASA pushed the limits of exploration for the benefit of humanity, the agency celebrated astronaut Frank Rubio becoming the first American astronaut to spend more than one year in space; delivered samples from an asteroid to Earth; sent a spacecraft to study a metal-rich asteroid for the first time; launched multiple initiatives [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/breaking-records-returning-asteroid-samples-among-nasas-big-2023/">https://www.nasa.gov/news-release/breaking-records-returning-asteroid-samples-among-nasas-big-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/breaking-records-returning-asteroid-samples-among-nasas-big-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Seeing and Believing: 15 Years of Exoplanet Images
+
+date: 2023-12-12, from: NASA breaking news
+
+Fifteen years ago, astronomers delivered what is now an iconic direct image of an exoplanet, Beta Pictoris b.
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/universe/exoplanets/seeing-and-believing-15-years-of-exoplanet-images/">https://science.nasa.gov/universe/exoplanets/seeing-and-believing-15-years-of-exoplanet-images/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/universe/exoplanets/seeing-and-believing-15-years-of-exoplanet-images/">Save to Pocket</a>
+</span>
 
 ---
 
