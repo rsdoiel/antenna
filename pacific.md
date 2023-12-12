@@ -1,11 +1,2152 @@
 ---
 title: pacific 2023.50
-updated: 2023-12-11 17:24:24
+updated: 2023-12-12 12:37:41
 ---
 
 # pacific 2023.50
 
-(date: 2023-12-11 17:24:24)
+(date: 2023-12-12 12:37:41)
+
+---
+
+## 'The first thing I ever loved in my life was a pigeon...'  Discover the weird and wonderful hobbies of the world's biggest stars
+
+date: 2023-12-12, from: Pacific Daily News
+
+Former James Bond star Pierce Brosnan, 72, recently revealed he finds painting an "essential" form of "therapy" to cope with the challenges of life. Speaking to The Sunday Times Style magazine, he said: "Art has been cathartic and continues to&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/lifestyle/entertainment/the-first-thing-i-ever-loved-in-my-life-was-a-pigeon-discover-the-weird/collection_8865a3bb-4e6b-5dda-8302-2aca851964e6.html">https://www.guampdn.com/lifestyle/entertainment/the-first-thing-i-ever-loved-in-my-life-was-a-pigeon-discover-the-weird/collection_8865a3bb-4e6b-5dda-8302-2aca851964e6.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/lifestyle/entertainment/the-first-thing-i-ever-loved-in-my-life-was-a-pigeon-discover-the-weird/collection_8865a3bb-4e6b-5dda-8302-2aca851964e6.html">Save to Pocket</a>
+</span>
+
+---
+
+## South Africa has Africa's only nuclear power plant at Koeberg near Cape Town and plans to add 2,500MW of nuclear power starting from 2032-33
+
+date: 2023-12-12, from: Pacific Daily News
+
+South Africa has Africa's only nuclear power plant at Koeberg near Cape Town and plans to add 2,500MW of nuclear power starting from 2032-33
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/south-africa-has-africas-only-nuclear-power-plant-at-koeberg-near-cape-town-and-plans/image_1831b062-38f8-5277-8aea-ba128c8db92b.html">https://www.guampdn.com/news/national/south-africa-has-africas-only-nuclear-power-plant-at-koeberg-near-cape-town-and-plans/image_1831b062-38f8-5277-8aea-ba128c8db92b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/south-africa-has-africas-only-nuclear-power-plant-at-koeberg-near-cape-town-and-plans/image_1831b062-38f8-5277-8aea-ba128c8db92b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Rishi Sunak is facing a key challenge to his authority over his immigration plans
+
+date: 2023-12-12, from: Pacific Daily News
+
+Rishi Sunak is facing a key challenge to his authority over his immigration plans
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/rishi-sunak-is-facing-a-key-challenge-to-his-authority-over-his-immigration-plans/image_a176b764-2803-57c3-8a23-137de30a1551.html">https://www.guampdn.com/news/national/rishi-sunak-is-facing-a-key-challenge-to-his-authority-over-his-immigration-plans/image_a176b764-2803-57c3-8a23-137de30a1551.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/rishi-sunak-is-facing-a-key-challenge-to-his-authority-over-his-immigration-plans/image_a176b764-2803-57c3-8a23-137de30a1551.html">Save to Pocket</a>
+</span>
+
+---
+
+## Ticket prices are kept low thanks to state subsidies
+
+date: 2023-12-12, from: Pacific Daily News
+
+Ticket prices are kept low thanks to state subsidies
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/ticket-prices-are-kept-low-thanks-to-state-subsidies/image_e6475aa8-a5d6-5edc-8216-4bbcd37e9757.html">https://www.guampdn.com/news/national/ticket-prices-are-kept-low-thanks-to-state-subsidies/image_e6475aa8-a5d6-5edc-8216-4bbcd37e9757.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/ticket-prices-are-kept-low-thanks-to-state-subsidies/image_e6475aa8-a5d6-5edc-8216-4bbcd37e9757.html">Save to Pocket</a>
+</span>
+
+---
+
+## Beaune called the trip 'magnificent'
+
+date: 2023-12-12, from: Pacific Daily News
+
+Beaune called the trip 'magnificent'
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/beaune-called-the-trip-magnificent/image_559e1700-d958-52e4-9bad-13d477e5ab40.html">https://www.guampdn.com/news/national/beaune-called-the-trip-magnificent/image_559e1700-d958-52e4-9bad-13d477e5ab40.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/beaune-called-the-trip-magnificent/image_559e1700-d958-52e4-9bad-13d477e5ab40.html">Save to Pocket</a>
+</span>
+
+---
+
+## The start of 14 hours of fun
+
+date: 2023-12-12, from: Pacific Daily News
+
+The start of 14 hours of fun
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/the-start-of-14-hours-of-fun/image_4ccf41f1-7134-5fe8-bdae-4b2888214f92.html">https://www.guampdn.com/news/national/the-start-of-14-hours-of-fun/image_4ccf41f1-7134-5fe8-bdae-4b2888214f92.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/the-start-of-14-hours-of-fun/image_4ccf41f1-7134-5fe8-bdae-4b2888214f92.html">Save to Pocket</a>
+</span>
+
+---
+
+## Myanmar produced an estimated 1,080 metric tonnes of opium -- essential for producing heroin -- this year
+
+date: 2023-12-12, from: Pacific Daily News
+
+Myanmar produced an estimated 1,080 metric tonnes of opium -- essential for producing heroin -- this year
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/myanmar-produced-an-estimated-1-080-metric-tonnes-of-opium----essential-for/image_2e8575d1-0db2-5744-bbea-651b65299859.html">https://www.guampdn.com/news/national/myanmar-produced-an-estimated-1-080-metric-tonnes-of-opium----essential-for/image_2e8575d1-0db2-5744-bbea-651b65299859.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/myanmar-produced-an-estimated-1-080-metric-tonnes-of-opium----essential-for/image_2e8575d1-0db2-5744-bbea-651b65299859.html">Save to Pocket</a>
+</span>
+
+---
+
+## Tennessee Titans rookie quarterback Will Levis led a stunning late rally in a 28-27 upset of the Miami Dolphins on Monday
+
+date: 2023-12-12, from: Pacific Daily News
+
+Tennessee Titans rookie quarterback Will Levis led a stunning late rally in a 28-27 upset of the Miami Dolphins on Monday
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/tennessee-titans-rookie-quarterback-will-levis-led-a-stunning-late-rally-in-a-28-27/image_e690df97-8dff-5df9-a7e8-4497839654e0.html">https://www.guampdn.com/news/national/tennessee-titans-rookie-quarterback-will-levis-led-a-stunning-late-rally-in-a-28-27/image_e690df97-8dff-5df9-a7e8-4497839654e0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/tennessee-titans-rookie-quarterback-will-levis-led-a-stunning-late-rally-in-a-28-27/image_e690df97-8dff-5df9-a7e8-4497839654e0.html">Save to Pocket</a>
+</span>
+
+---
+
+## National Agricultural Research Center director Nizar Haddad says Jordan's ancient olive trees are an integral part of its identity and cuture
+
+date: 2023-12-12, from: Pacific Daily News
+
+National Agricultural Research Center director Nizar Haddad says Jordan's ancient olive trees are an integral part of its identity and cuture
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/national-agricultural-research-center-director-nizar-haddad-says-jordans-ancient-olive-trees-are-an-integral/image_1517864b-7520-5395-af11-89a6ad166d0e.html">https://www.guampdn.com/news/national/national-agricultural-research-center-director-nizar-haddad-says-jordans-ancient-olive-trees-are-an-integral/image_1517864b-7520-5395-af11-89a6ad166d0e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/national-agricultural-research-center-director-nizar-haddad-says-jordans-ancient-olive-trees-are-an-integral/image_1517864b-7520-5395-af11-89a6ad166d0e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Jordan's oldest olive trees "have been here since the Romans ruled this region"
+
+date: 2023-12-12, from: Pacific Daily News
+
+Jordan's oldest olive trees "have been here since the Romans ruled this region"
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/jordans-oldest-olive-trees-have-been-here-since-the-romans-ruled-this-region/image_54e17068-ab66-5fd8-b0f5-aa16fdab1aa0.html">https://www.guampdn.com/news/national/jordans-oldest-olive-trees-have-been-here-since-the-romans-ruled-this-region/image_54e17068-ab66-5fd8-b0f5-aa16fdab1aa0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/jordans-oldest-olive-trees-have-been-here-since-the-romans-ruled-this-region/image_54e17068-ab66-5fd8-b0f5-aa16fdab1aa0.html">Save to Pocket</a>
+</span>
+
+---
+
+## Chinese social media was flooded with comments paying tribute to Gao, appearing on a list of top searches on the Google-like Baidu search engine
+
+date: 2023-12-12, from: Pacific Daily News
+
+Chinese social media was flooded with comments paying tribute to Gao, appearing on a list of top searches on the Google-like Baidu search engine
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/chinese-social-media-was-flooded-with-comments-paying-tribute-to-gao-appearing-on-a-list/image_bdb12993-0f40-51ab-bfa5-f8b724cc1cd6.html">https://www.guampdn.com/news/national/chinese-social-media-was-flooded-with-comments-paying-tribute-to-gao-appearing-on-a-list/image_bdb12993-0f40-51ab-bfa5-f8b724cc1cd6.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/chinese-social-media-was-flooded-with-comments-paying-tribute-to-gao-appearing-on-a-list/image_bdb12993-0f40-51ab-bfa5-f8b724cc1cd6.html">Save to Pocket</a>
+</span>
+
+---
+
+## "These trees represent the history of Jordan," says Ali Salih Atta, 84
+
+date: 2023-12-12, from: Pacific Daily News
+
+"These trees represent the history of Jordan," says Ali Salih Atta, 84
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/these-trees-represent-the-history-of-jordan-says-ali-salih-atta-84/image_2e001a6f-07d6-5c84-b2af-cc3694ead1ac.html">https://www.guampdn.com/news/national/these-trees-represent-the-history-of-jordan-says-ali-salih-atta-84/image_2e001a6f-07d6-5c84-b2af-cc3694ead1ac.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/these-trees-represent-the-history-of-jordan-says-ali-salih-atta-84/image_2e001a6f-07d6-5c84-b2af-cc3694ead1ac.html">Save to Pocket</a>
+</span>
+
+---
+
+## Gao Yaojie, who dedicated her retirement to helping AIDS patients and orphans, passed away in New York City on Sunday
+
+date: 2023-12-12, from: Pacific Daily News
+
+Gao Yaojie, who dedicated her retirement to helping AIDS patients and orphans, passed away in New York City on Sunday
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/gao-yaojie-who-dedicated-her-retirement-to-helping-aids-patients-and-orphans-passed-away-in/image_8fb462a1-7527-5678-8670-30fb22f883d0.html">https://www.guampdn.com/news/national/gao-yaojie-who-dedicated-her-retirement-to-helping-aids-patients-and-orphans-passed-away-in/image_8fb462a1-7527-5678-8670-30fb22f883d0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/gao-yaojie-who-dedicated-her-retirement-to-helping-aids-patients-and-orphans-passed-away-in/image_8fb462a1-7527-5678-8670-30fb22f883d0.html">Save to Pocket</a>
+</span>
+
+---
+
+## Table Mountain in Cape Town is one of Africa's biggest tourism draws
+
+date: 2023-12-12, from: Pacific Daily News
+
+Table Mountain in Cape Town is one of Africa's biggest tourism draws
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/table-mountain-in-cape-town-is-one-of-africas-biggest-tourism-draws/image_dbe062d0-084a-56df-aa21-21afd5c82386.html">https://www.guampdn.com/news/national/table-mountain-in-cape-town-is-one-of-africas-biggest-tourism-draws/image_dbe062d0-084a-56df-aa21-21afd5c82386.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/table-mountain-in-cape-town-is-one-of-africas-biggest-tourism-draws/image_dbe062d0-084a-56df-aa21-21afd5c82386.html">Save to Pocket</a>
+</span>
+
+---
+
+## Tourists look down from the platueau of Cape Town's Table Mountain where dozens of people have been attacked in recent weeks
+
+date: 2023-12-12, from: Pacific Daily News
+
+Tourists look down from the platueau of Cape Town's Table Mountain where dozens of people have been attacked in recent weeks
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/tourists-look-down-from-the-platueau-of-cape-towns-table-mountain-where-dozens-of-people/image_bda88d9f-d6a4-5eb8-9e2c-7bf2b0388cd2.html">https://www.guampdn.com/news/national/tourists-look-down-from-the-platueau-of-cape-towns-table-mountain-where-dozens-of-people/image_bda88d9f-d6a4-5eb8-9e2c-7bf2b0388cd2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/tourists-look-down-from-the-platueau-of-cape-towns-table-mountain-where-dozens-of-people/image_bda88d9f-d6a4-5eb8-9e2c-7bf2b0388cd2.html">Save to Pocket</a>
+</span>
+
+---
+
+## Tourism to Table Mountain, where dozens of attacks have been reported in recent weeks, and the rest of Cape Town accounts for nearly 240,000 jobs, according to city leaders
+
+date: 2023-12-12, from: Pacific Daily News
+
+Tourism to Table Mountain, where dozens of attacks have been reported in recent weeks, and the rest of Cape Town accounts for nearly 240,000 jobs, according to city leaders
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/tourism-to-table-mountain-where-dozens-of-attacks-have-been-reported-in-recent-weeks-and/image_31584378-9320-574e-9b89-92cb55d51be1.html">https://www.guampdn.com/news/national/tourism-to-table-mountain-where-dozens-of-attacks-have-been-reported-in-recent-weeks-and/image_31584378-9320-574e-9b89-92cb55d51be1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/tourism-to-table-mountain-where-dozens-of-attacks-have-been-reported-in-recent-weeks-and/image_31584378-9320-574e-9b89-92cb55d51be1.html">Save to Pocket</a>
+</span>
+
+---
+
+## Shops shuttered during a general strike in West Bank city of Hebron
+
+date: 2023-12-12, from: Pacific Daily News
+
+Shops shuttered during a general strike in West Bank city of Hebron
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/shops-shuttered-during-a-general-strike-in-west-bank-city-of-hebron/image_09dbb4a2-7e22-5ea1-b382-64feb5c10c75.html">https://www.guampdn.com/news/national/shops-shuttered-during-a-general-strike-in-west-bank-city-of-hebron/image_09dbb4a2-7e22-5ea1-b382-64feb5c10c75.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/shops-shuttered-during-a-general-strike-in-west-bank-city-of-hebron/image_09dbb4a2-7e22-5ea1-b382-64feb5c10c75.html">Save to Pocket</a>
+</span>
+
+---
+
+## Explosions over northern Gaza on December 11
+
+date: 2023-12-12, from: Pacific Daily News
+
+Explosions over northern Gaza on December 11
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/explosions-over-northern-gaza-on-december-11/image_8d2b5d7e-d36b-5afb-9da5-1c61b352c6c9.html">https://www.guampdn.com/news/national/explosions-over-northern-gaza-on-december-11/image_8d2b5d7e-d36b-5afb-9da5-1c61b352c6c9.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/explosions-over-northern-gaza-on-december-11/image_8d2b5d7e-d36b-5afb-9da5-1c61b352c6c9.html">Save to Pocket</a>
+</span>
+
+---
+
+## Epic sued Google and Apple in 2020, accusing the tech titans of abusing control of their respective shops selling apps and other digital content on mobile devices
+
+date: 2023-12-12, from: Pacific Daily News
+
+Epic sued Google and Apple in 2020, accusing the tech titans of abusing control of their respective shops selling apps and other digital content on mobile devices
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/epic-sued-google-and-apple-in-2020-accusing-the-tech-titans-of-abusing-control-of/image_500beccd-2216-5751-aacc-314ca44c587b.html">https://www.guampdn.com/news/national/epic-sued-google-and-apple-in-2020-accusing-the-tech-titans-of-abusing-control-of/image_500beccd-2216-5751-aacc-314ca44c587b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/epic-sued-google-and-apple-in-2020-accusing-the-tech-titans-of-abusing-control-of/image_500beccd-2216-5751-aacc-314ca44c587b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Zion Williamson's 36 points helped New Orleans upset leaders Minnesota in the NBA on Monday
+
+date: 2023-12-12, from: Pacific Daily News
+
+Zion Williamson's 36 points helped New Orleans upset leaders Minnesota in the NBA on Monday
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/zion-williamsons-36-points-helped-new-orleans-upset-leaders-minnesota-in-the-nba-on-monday/image_623635ae-3577-5f50-a1fd-506f1b40914e.html">https://www.guampdn.com/news/national/zion-williamsons-36-points-helped-new-orleans-upset-leaders-minnesota-in-the-nba-on-monday/image_623635ae-3577-5f50-a1fd-506f1b40914e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/zion-williamsons-36-points-helped-new-orleans-upset-leaders-minnesota-in-the-nba-on-monday/image_623635ae-3577-5f50-a1fd-506f1b40914e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Luka Doncic (right) led an injury-hit Dallas to victory over the Memphis Grizzlies on Monday
+
+date: 2023-12-12, from: Pacific Daily News
+
+Luka Doncic (right) led an injury-hit Dallas to victory over the Memphis Grizzlies on Monday
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/luka-doncic-right-led-an-injury-hit-dallas-to-victory-over-the-memphis-grizzlies-on/image_70780131-36ab-5350-ae0c-07469cde4ab7.html">https://www.guampdn.com/news/national/luka-doncic-right-led-an-injury-hit-dallas-to-victory-over-the-memphis-grizzlies-on/image_70780131-36ab-5350-ae0c-07469cde4ab7.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/luka-doncic-right-led-an-injury-hit-dallas-to-victory-over-the-memphis-grizzlies-on/image_70780131-36ab-5350-ae0c-07469cde4ab7.html">Save to Pocket</a>
+</span>
+
+---
+
+## Images of former Japanese soldier and sexual assault victim Rina Gonoi arriving at Fukushima District Court.
+
+date: 2023-12-12, from: Pacific Daily News
+
+
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/images-of-former-japanese-soldier-and-sexual-assault-victim-rina-gonoi-arriving-at-fukushima-district/image_d75fc445-da54-5c7c-93a6-7c44f5767783.html">https://www.guampdn.com/news/national/images-of-former-japanese-soldier-and-sexual-assault-victim-rina-gonoi-arriving-at-fukushima-district/image_d75fc445-da54-5c7c-93a6-7c44f5767783.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/images-of-former-japanese-soldier-and-sexual-assault-victim-rina-gonoi-arriving-at-fukushima-district/image_d75fc445-da54-5c7c-93a6-7c44f5767783.html">Save to Pocket</a>
+</span>
+
+---
+
+## Rina Gonoi, 24, recevied both praise and vitriol when she took to YouTube to share her account after the military dropped its inquiry
+
+date: 2023-12-12, from: Pacific Daily News
+
+Rina Gonoi, 24, recevied both praise and vitriol when she took to YouTube to share her account after the military dropped its inquiry
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/rina-gonoi-24-recevied-both-praise-and-vitriol-when-she-took-to-youtube-to-share/image_2166908f-ffb0-5adc-82ce-2397a9be3667.html">https://www.guampdn.com/news/national/rina-gonoi-24-recevied-both-praise-and-vitriol-when-she-took-to-youtube-to-share/image_2166908f-ffb0-5adc-82ce-2397a9be3667.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/rina-gonoi-24-recevied-both-praise-and-vitriol-when-she-took-to-youtube-to-share/image_2166908f-ffb0-5adc-82ce-2397a9be3667.html">Save to Pocket</a>
+</span>
+
+---
+
+## Rina Gonoi told AFP in February that her decision to go public was 'desperate rather than brave'
+
+date: 2023-12-12, from: Pacific Daily News
+
+Rina Gonoi told AFP in February that her decision to go public was 'desperate rather than brave'
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/rina-gonoi-told-afp-in-february-that-her-decision-to-go-public-was-desperate-rather/image_4dd3c365-4c3e-5429-a3a4-e46f585140e8.html">https://www.guampdn.com/news/national/rina-gonoi-told-afp-in-february-that-her-decision-to-go-public-was-desperate-rather/image_4dd3c365-4c3e-5429-a3a4-e46f585140e8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/rina-gonoi-told-afp-in-february-that-her-decision-to-go-public-was-desperate-rather/image_4dd3c365-4c3e-5429-a3a4-e46f585140e8.html">Save to Pocket</a>
+</span>
+
+---
+
+## E.T.'s animatronic head is among the items available this weekend in California
+
+date: 2023-12-12, from: Pacific Daily News
+
+E.T.'s animatronic head is among the items available this weekend in California
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/e-t-s-animatronic-head-is-among-the-items-available-this-weekend-in-california/image_fbbc2c3f-0a6f-55de-83db-887e1c5e106b.html">https://www.guampdn.com/news/national/e-t-s-animatronic-head-is-among-the-items-available-this-weekend-in-california/image_fbbc2c3f-0a6f-55de-83db-887e1c5e106b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/e-t-s-animatronic-head-is-among-the-items-available-this-weekend-in-california/image_fbbc2c3f-0a6f-55de-83db-887e1c5e106b.html">Save to Pocket</a>
+</span>
+
+---
+
+## The blouse worn by Britain's Princess Diana in her official engagement photo is expected to fetch up to $100,000 at auction
+
+date: 2023-12-12, from: Pacific Daily News
+
+The blouse worn by Britain's Princess Diana in her official engagement photo is expected to fetch up to $100,000 at auction
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/the-blouse-worn-by-britains-princess-diana-in-her-official-engagement-photo-is-expected-to/image_c4ef75df-4404-5d86-80e3-7accd20ade37.html">https://www.guampdn.com/news/national/the-blouse-worn-by-britains-princess-diana-in-her-official-engagement-photo-is-expected-to/image_c4ef75df-4404-5d86-80e3-7accd20ade37.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/the-blouse-worn-by-britains-princess-diana-in-her-official-engagement-photo-is-expected-to/image_c4ef75df-4404-5d86-80e3-7accd20ade37.html">Save to Pocket</a>
+</span>
+
+---
+
+## A life of loafing and White Russians can be yours if you bid on these items from 'The Big Lebowski' when they go under the hammer
+
+date: 2023-12-12, from: Pacific Daily News
+
+A life of loafing and White Russians can be yours if you bid on these items from 'The Big Lebowski' when they go under the hammer
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/a-life-of-loafing-and-white-russians-can-be-yours-if-you-bid-on-these/image_c06b5a3d-bf05-5822-83ae-509dfe2df9fd.html">https://www.guampdn.com/news/national/a-life-of-loafing-and-white-russians-can-be-yours-if-you-bid-on-these/image_c06b5a3d-bf05-5822-83ae-509dfe2df9fd.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/a-life-of-loafing-and-white-russians-can-be-yours-if-you-bid-on-these/image_c06b5a3d-bf05-5822-83ae-509dfe2df9fd.html">Save to Pocket</a>
+</span>
+
+---
+
+## War fatigue was a big worry when Zelensky visited in September 2023
+
+date: 2023-12-12, from: Pacific Daily News
+
+War fatigue was a big worry when Zelensky visited in September 2023
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/war-fatigue-was-a-big-worry-when-zelensky-visited-in-september-2023/image_8205015b-3ddf-5b40-bddb-3759ee61136e.html">https://www.guampdn.com/news/national/war-fatigue-was-a-big-worry-when-zelensky-visited-in-september-2023/image_8205015b-3ddf-5b40-bddb-3759ee61136e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/war-fatigue-was-a-big-worry-when-zelensky-visited-in-september-2023/image_8205015b-3ddf-5b40-bddb-3759ee61136e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Kate Cox, a 31-year-old mother of two from Dallas, is more than 20 weeks pregnant with a fetus that has a rare genetic defect that means it will likely die before birth or at most live a few days
+
+date: 2023-12-12, from: Pacific Daily News
+
+Kate Cox, a 31-year-old mother of two from Dallas, is more than 20 weeks pregnant with a fetus that has a rare genetic defect that means it will likely die before birth or at most live a few days
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/kate-cox-a-31-year-old-mother-of-two-from-dallas-is-more-than-20/image_722e248b-9763-535b-a64c-86290fa93cc3.html">https://www.guampdn.com/news/national/kate-cox-a-31-year-old-mother-of-two-from-dallas-is-more-than-20/image_722e248b-9763-535b-a64c-86290fa93cc3.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/kate-cox-a-31-year-old-mother-of-two-from-dallas-is-more-than-20/image_722e248b-9763-535b-a64c-86290fa93cc3.html">Save to Pocket</a>
+</span>
+
+---
+
+## Biden and Zelensky, seen here at the White House in December 2022, have become close allies
+
+date: 2023-12-12, from: Pacific Daily News
+
+Biden and Zelensky, seen here at the White House in December 2022, have become close allies
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/biden-and-zelensky-seen-here-at-the-white-house-in-december-2022-have-become-close/image_08843d6d-e68c-5ef1-95d3-8351cb290311.html">https://www.guampdn.com/news/national/biden-and-zelensky-seen-here-at-the-white-house-in-december-2022-have-become-close/image_08843d6d-e68c-5ef1-95d3-8351cb290311.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/biden-and-zelensky-seen-here-at-the-white-house-in-december-2022-have-become-close/image_08843d6d-e68c-5ef1-95d3-8351cb290311.html">Save to Pocket</a>
+</span>
+
+---
+
+## Former US president Donald Trump has claimed 'absolute immunity' from prosecution
+
+date: 2023-12-12, from: Pacific Daily News
+
+Former US president Donald Trump has claimed 'absolute immunity' from prosecution
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/former-us-president-donald-trump-has-claimed-absolute-immunity-from-prosecution/image_ba138e45-a61a-5e84-939e-a788f304ce07.html">https://www.guampdn.com/news/national/former-us-president-donald-trump-has-claimed-absolute-immunity-from-prosecution/image_ba138e45-a61a-5e84-939e-a788f304ce07.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/former-us-president-donald-trump-has-claimed-absolute-immunity-from-prosecution/image_ba138e45-a61a-5e84-939e-a788f304ce07.html">Save to Pocket</a>
+</span>
+
+---
+
+## The number of people displaced worldwide passed 114 million by the end of September, an all-time high
+
+date: 2023-12-12, from: Pacific Daily News
+
+The number of people displaced worldwide passed 114 million by the end of September, an all-time high
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/the-number-of-people-displaced-worldwide-passed-114-million-by-the-end-of-september-an/image_87267167-34bc-52ac-bfa7-4767efe2b4da.html">https://www.guampdn.com/news/national/the-number-of-people-displaced-worldwide-passed-114-million-by-the-end-of-september-an/image_87267167-34bc-52ac-bfa7-4767efe2b4da.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/the-number-of-people-displaced-worldwide-passed-114-million-by-the-end-of-september-an/image_87267167-34bc-52ac-bfa7-4767efe2b4da.html">Save to Pocket</a>
+</span>
+
+---
+
+## An analysis published Monday in the journal iScience found that while animals are well represented by the current emoji catalog, plants, fungi, and microorganisms get short shrift
+
+date: 2023-12-12, from: Pacific Daily News
+
+An analysis published Monday in the journal iScience found that while animals are well represented by the current emoji catalog, plants, fungi, and microorganisms get short shrift
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/an-analysis-published-monday-in-the-journal-iscience-found-that-while-animals-are-well-represented/image_f02bf58d-927e-50da-b5fb-810811d4fb30.html">https://www.guampdn.com/news/national/an-analysis-published-monday-in-the-journal-iscience-found-that-while-animals-are-well-represented/image_f02bf58d-927e-50da-b5fb-810811d4fb30.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/an-analysis-published-monday-in-the-journal-iscience-found-that-while-animals-are-well-represented/image_f02bf58d-927e-50da-b5fb-810811d4fb30.html">Save to Pocket</a>
+</span>
+
+---
+
+## Jung Kook (3rd from L) and Jimin (5th from L) are the final two members of the megagroup to enlist for the mandatory military service
+
+date: 2023-12-12, from: Pacific Daily News
+
+Jung Kook (3rd from L) and Jimin (5th from L) are the final two members of the megagroup to enlist for the mandatory military service
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/jung-kook-3rd-from-l-and-jimin-5th-from-l-are-the-final-two-members/image_19e004b4-ab41-5f6a-b8df-c4ffa7c0d1f0.html">https://www.guampdn.com/news/national/jung-kook-3rd-from-l-and-jimin-5th-from-l-are-the-final-two-members/image_19e004b4-ab41-5f6a-b8df-c4ffa7c0d1f0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/jung-kook-3rd-from-l-and-jimin-5th-from-l-are-the-final-two-members/image_19e004b4-ab41-5f6a-b8df-c4ffa7c0d1f0.html">Save to Pocket</a>
+</span>
+
+---
+
+## The partnership began in 1999, when Renault rescued Nissan from bankruptcy
+
+date: 2023-12-12, from: Pacific Daily News
+
+The partnership began in 1999, when Renault rescued Nissan from bankruptcy
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/the-partnership-began-in-1999-when-renault-rescued-nissan-from-bankruptcy/image_a98e04c9-7cd6-5090-b96c-4825372828f4.html">https://www.guampdn.com/news/national/the-partnership-began-in-1999-when-renault-rescued-nissan-from-bankruptcy/image_a98e04c9-7cd6-5090-b96c-4825372828f4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/the-partnership-began-in-1999-when-renault-rescued-nissan-from-bankruptcy/image_a98e04c9-7cd6-5090-b96c-4825372828f4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Sembene is celebrated for championing social and political issues throughout his career as a writer and filmmaker
+
+date: 2023-12-12, from: Pacific Daily News
+
+Sembene is celebrated for championing social and political issues throughout his career as a writer and filmmaker
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/sembene-is-celebrated-for-championing-social-and-political-issues-throughout-his-career-as-a-writer/image_bc69f5e0-49ea-559c-913c-425ac71f0cea.html">https://www.guampdn.com/news/national/sembene-is-celebrated-for-championing-social-and-political-issues-throughout-his-career-as-a-writer/image_bc69f5e0-49ea-559c-913c-425ac71f0cea.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/sembene-is-celebrated-for-championing-social-and-political-issues-throughout-his-career-as-a-writer/image_bc69f5e0-49ea-559c-913c-425ac71f0cea.html">Save to Pocket</a>
+</span>
+
+---
+
+## The African cinema archive fund ASM is digitalising old negatives of photos of Senegalese writer and director Ousmane Sembene
+
+date: 2023-12-12, from: Pacific Daily News
+
+The African cinema archive fund ASM is digitalising old negatives of photos of Senegalese writer and director Ousmane Sembene
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/the-african-cinema-archive-fund-asm-is-digitalising-old-negatives-of-photos-of-senegalese-writer/image_ebb05a8c-709d-5dd0-b92b-5efdd3b37f03.html">https://www.guampdn.com/news/national/the-african-cinema-archive-fund-asm-is-digitalising-old-negatives-of-photos-of-senegalese-writer/image_ebb05a8c-709d-5dd0-b92b-5efdd3b37f03.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/the-african-cinema-archive-fund-asm-is-digitalising-old-negatives-of-photos-of-senegalese-writer/image_ebb05a8c-709d-5dd0-b92b-5efdd3b37f03.html">Save to Pocket</a>
+</span>
+
+---
+
+## Machne Chabad 'gives people a sense of security', says Ukrainian Jew Hana Shatagin
+
+date: 2023-12-12, from: Pacific Daily News
+
+Machne Chabad 'gives people a sense of security', says Ukrainian Jew Hana Shatagin
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/machne-chabad-gives-people-a-sense-of-security-says-ukrainian-jew-hana-shatagin/image_847881d9-3ef1-51d9-9d0e-24e8c75ccb2d.html">https://www.guampdn.com/news/national/machne-chabad-gives-people-a-sense-of-security-says-ukrainian-jew-hana-shatagin/image_847881d9-3ef1-51d9-9d0e-24e8c75ccb2d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/machne-chabad-gives-people-a-sense-of-security-says-ukrainian-jew-hana-shatagin/image_847881d9-3ef1-51d9-9d0e-24e8c75ccb2d.html">Save to Pocket</a>
+</span>
+
+---
+
+## The former government holiday resort was refurbished in 2022 to accommodate practising Ukrainian Jews
+
+date: 2023-12-12, from: Pacific Daily News
+
+The former government holiday resort was refurbished in 2022 to accommodate practising Ukrainian Jews
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/the-former-government-holiday-resort-was-refurbished-in-2022-to-accommodate-practising-ukrainian-jews/image_967603b7-b041-54d5-9e6c-05d5ad86d421.html">https://www.guampdn.com/news/national/the-former-government-holiday-resort-was-refurbished-in-2022-to-accommodate-practising-ukrainian-jews/image_967603b7-b041-54d5-9e6c-05d5ad86d421.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/the-former-government-holiday-resort-was-refurbished-in-2022-to-accommodate-practising-ukrainian-jews/image_967603b7-b041-54d5-9e6c-05d5ad86d421.html">Save to Pocket</a>
+</span>
+
+---
+
+## As the children received "certificates of achievement", their beaming relatives applauded and ululated
+
+date: 2023-12-12, from: Pacific Daily News
+
+As the children received "certificates of achievement", their beaming relatives applauded and ululated
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/as-the-children-received-certificates-of-achievement-their-beaming-relatives-applauded-and-ululated/image_bf91ad04-8749-5ca5-be5e-570d0957c2b3.html">https://www.guampdn.com/news/national/as-the-children-received-certificates-of-achievement-their-beaming-relatives-applauded-and-ululated/image_bf91ad04-8749-5ca5-be5e-570d0957c2b3.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/as-the-children-received-certificates-of-achievement-their-beaming-relatives-applauded-and-ululated/image_bf91ad04-8749-5ca5-be5e-570d0957c2b3.html">Save to Pocket</a>
+</span>
+
+---
+
+## Young girls play at the 'rescue village' run by the Association of Hungarian Jewish Communities
+
+date: 2023-12-12, from: Pacific Daily News
+
+Young girls play at the 'rescue village' run by the Association of Hungarian Jewish Communities
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/young-girls-play-at-the-rescue-village-run-by-the-association-of-hungarian-jewish-communities/image_c465006a-8973-529c-a606-206df0eca35a.html">https://www.guampdn.com/news/national/young-girls-play-at-the-rescue-village-run-by-the-association-of-hungarian-jewish-communities/image_c465006a-8973-529c-a606-206df0eca35a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/young-girls-play-at-the-rescue-village-run-by-the-association-of-hungarian-jewish-communities/image_c465006a-8973-529c-a606-206df0eca35a.html">Save to Pocket</a>
+</span>
+
+---
+
+## Demand for medicalised FGM comes from all quarters, including upper middle-class households, says activist Esnahs Nyaramba (L)
+
+date: 2023-12-12, from: Pacific Daily News
+
+Demand for medicalised FGM comes from all quarters, including upper middle-class households, says activist Esnahs Nyaramba (L)
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/demand-for-medicalised-fgm-comes-from-all-quarters-including-upper-middle-class-households-says-activist/image_1e292527-f308-5b1b-86d7-3135b409063e.html">https://www.guampdn.com/news/national/demand-for-medicalised-fgm-comes-from-all-quarters-including-upper-middle-class-households-says-activist/image_1e292527-f308-5b1b-86d7-3135b409063e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/demand-for-medicalised-fgm-comes-from-all-quarters-including-upper-middle-class-households-says-activist/image_1e292527-f308-5b1b-86d7-3135b409063e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Organisations have created alternative rites of passage, combining celebratory coming-of-age rituals with traditional teachings
+
+date: 2023-12-12, from: Pacific Daily News
+
+Organisations have created alternative rites of passage, combining celebratory coming-of-age rituals with traditional teachings
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/organisations-have-created-alternative-rites-of-passage-combining-celebratory-coming-of-age-rituals-with-traditional/image_51537a6e-9536-58f9-8dde-e18a62240f2e.html">https://www.guampdn.com/news/national/organisations-have-created-alternative-rites-of-passage-combining-celebratory-coming-of-age-rituals-with-traditional/image_51537a6e-9536-58f9-8dde-e18a62240f2e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/organisations-have-created-alternative-rites-of-passage-combining-celebratory-coming-of-age-rituals-with-traditional/image_51537a6e-9536-58f9-8dde-e18a62240f2e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Medicalised FGM -- performed using tools like these -- is defended by practitioners and communities alike as a "safe" way to preserve the custom, despite risks to the victim's physical, psychological and sexual health
+
+date: 2023-12-12, from: Pacific Daily News
+
+Medicalised FGM -- performed using tools like these -- is defended by practitioners and communities alike as a "safe" way to preserve the custom, despite risks to the victim's physical, psychological and sexual health
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/medicalised-fgm----performed-using-tools-like-these----is-defended/image_d2139bad-f44c-5178-86bc-6d56f8476c92.html">https://www.guampdn.com/news/national/medicalised-fgm----performed-using-tools-like-these----is-defended/image_d2139bad-f44c-5178-86bc-6d56f8476c92.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/medicalised-fgm----performed-using-tools-like-these----is-defended/image_d2139bad-f44c-5178-86bc-6d56f8476c92.html">Save to Pocket</a>
+</span>
+
+---
+
+## Doris Kemunto Onsomu spent years administering the cut to schoolgirls, believing it was a significantly safer alternative to the traditional procedure she underwent as an adolescent
+
+date: 2023-12-12, from: Pacific Daily News
+
+Doris Kemunto Onsomu spent years administering the cut to schoolgirls, believing it was a significantly safer alternative to the traditional procedure she underwent as an adolescent
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/doris-kemunto-onsomu-spent-years-administering-the-cut-to-schoolgirls-believing-it-was-a-significantly/image_2fa7dd3c-ba21-5a65-945b-7db7cc792f82.html">https://www.guampdn.com/news/national/doris-kemunto-onsomu-spent-years-administering-the-cut-to-schoolgirls-believing-it-was-a-significantly/image_2fa7dd3c-ba21-5a65-945b-7db7cc792f82.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/doris-kemunto-onsomu-spent-years-administering-the-cut-to-schoolgirls-believing-it-was-a-significantly/image_2fa7dd3c-ba21-5a65-945b-7db7cc792f82.html">Save to Pocket</a>
+</span>
+
+---
+
+## Edinah Nyasuguta Omwenga (L) underwent female genital mutilation (FGM) in a hospital, at the hands of a health worker -- part of a worrying trend keeping the illegal practice alive
+
+date: 2023-12-12, from: Pacific Daily News
+
+Edinah Nyasuguta Omwenga (L) underwent female genital mutilation (FGM) in a hospital, at the hands of a health worker -- part of a worrying trend keeping the illegal practice alive
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/edinah-nyasuguta-omwenga-l-underwent-female-genital-mutilation-fgm-in-a-hospital-at-the-hands/image_17fd4764-1223-5d63-9adb-43ff339673ea.html">https://www.guampdn.com/news/national/edinah-nyasuguta-omwenga-l-underwent-female-genital-mutilation-fgm-in-a-hospital-at-the-hands/image_17fd4764-1223-5d63-9adb-43ff339673ea.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/edinah-nyasuguta-omwenga-l-underwent-female-genital-mutilation-fgm-in-a-hospital-at-the-hands/image_17fd4764-1223-5d63-9adb-43ff339673ea.html">Save to Pocket</a>
+</span>
+
+---
+
+## Trains have whisked us off on adventures for almost two centuries
+
+date: 2023-12-12, from: Pacific Daily News
+
+Trains have whisked us off on adventures for almost two centuries
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/trains-have-whisked-us-off-on-adventures-for-almost-two-centuries/image_85914368-629f-5110-8cb7-98208312acfe.html">https://www.guampdn.com/news/national/trains-have-whisked-us-off-on-adventures-for-almost-two-centuries/image_85914368-629f-5110-8cb7-98208312acfe.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/trains-have-whisked-us-off-on-adventures-for-almost-two-centuries/image_85914368-629f-5110-8cb7-98208312acfe.html">Save to Pocket</a>
+</span>
+
+---
+
+## Ozzy Osbourne's 'Crazy Train' was about the impact of the Cold War
+
+date: 2023-12-12, from: Pacific Daily News
+
+Ozzy Osbourne's 'Crazy Train' was about the impact of the Cold War
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/ozzy-osbournes-crazy-train-was-about-the-impact-of-the-cold-war/image_41094599-a656-5ef3-bde2-3fe60f5ccac8.html">https://www.guampdn.com/news/national/ozzy-osbournes-crazy-train-was-about-the-impact-of-the-cold-war/image_41094599-a656-5ef3-bde2-3fe60f5ccac8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/ozzy-osbournes-crazy-train-was-about-the-impact-of-the-cold-war/image_41094599-a656-5ef3-bde2-3fe60f5ccac8.html">Save to Pocket</a>
+</span>
+
+---
+
+## Tolstoy was no fan of trains, as readers of 'Anna Karenina' will know
+
+date: 2023-12-12, from: Pacific Daily News
+
+Tolstoy was no fan of trains, as readers of 'Anna Karenina' will know
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/tolstoy-was-no-fan-of-trains-as-readers-of-anna-karenina-will-know/image_7190c3f1-b58f-5453-b5b1-b45b18cfa172.html">https://www.guampdn.com/news/national/tolstoy-was-no-fan-of-trains-as-readers-of-anna-karenina-will-know/image_7190c3f1-b58f-5453-b5b1-b45b18cfa172.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/tolstoy-was-no-fan-of-trains-as-readers-of-anna-karenina-will-know/image_7190c3f1-b58f-5453-b5b1-b45b18cfa172.html">Save to Pocket</a>
+</span>
+
+---
+
+## Agatha Christie's best-known book was set on the Orient Express
+
+date: 2023-12-12, from: Pacific Daily News
+
+Agatha Christie's best-known book was set on the Orient Express
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/agatha-christies-best-known-book-was-set-on-the-orient-express/image_f0a583f1-b550-523e-bba7-92949c9f0af0.html">https://www.guampdn.com/news/national/agatha-christies-best-known-book-was-set-on-the-orient-express/image_f0a583f1-b550-523e-bba7-92949c9f0af0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/agatha-christies-best-known-book-was-set-on-the-orient-express/image_f0a583f1-b550-523e-bba7-92949c9f0af0.html">Save to Pocket</a>
+</span>
+
+---
+
+## Palestinian economy severely impacted by Israel-Hamas war: World Bank
+
+date: 2023-12-12, from: The Guam Daily Post
+
+The Israel-Hamas war in Gaza is having a severe impact on the Palestinian economy, the World Bank said Tuesday, adding that a sharp economic contraction is likely this year and next.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/palestinian-economy-severely-impacted-by-israel-hamas-war-world-bank/article_c4e72f3e-833e-5db2-bc2a-d967feb9fdad.html">https://www.postguam.com/news/national/palestinian-economy-severely-impacted-by-israel-hamas-war-world-bank/article_c4e72f3e-833e-5db2-bc2a-d967feb9fdad.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/palestinian-economy-severely-impacted-by-israel-hamas-war-world-bank/article_c4e72f3e-833e-5db2-bc2a-d967feb9fdad.html">Save to Pocket</a>
+</span>
+
+---
+
+## Kremlin slams US 'interference' on Navalny case
+
+date: 2023-12-12, from: The Guam Daily Post
+
+The Kremlin on Tuesday criticised what it called US "interference" in the case of jailed opposition leader Alexei Navalny, whose whereabouts are unknown according to his allies.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/kremlin-slams-us-interference-on-navalny-case/article_ee52c4a7-8d04-53e0-aafd-d0370c0f4834.html">https://www.postguam.com/news/national/kremlin-slams-us-interference-on-navalny-case/article_ee52c4a7-8d04-53e0-aafd-d0370c0f4834.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/kremlin-slams-us-interference-on-navalny-case/article_ee52c4a7-8d04-53e0-aafd-d0370c0f4834.html">Save to Pocket</a>
+</span>
+
+---
+
+## US intel says 315,000 Russian casualties in Ukraine: Congress source
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Some 315,000 Russian troops have been killed or wounded in Ukraine since the war began in February 2022, nearly 90 percent of its pre-war force, a congressional source said Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/us-intel-says-315-000-russian-casualties-in-ukraine-congress-source/article_3619e711-24de-5472-b0ac-926c06bbd9e6.html">https://www.postguam.com/news/national/us-intel-says-315-000-russian-casualties-in-ukraine-congress-source/article_3619e711-24de-5472-b0ac-926c06bbd9e6.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/us-intel-says-315-000-russian-casualties-in-ukraine-congress-source/article_3619e711-24de-5472-b0ac-926c06bbd9e6.html">Save to Pocket</a>
+</span>
+
+---
+
+## Poland's Tusk urges West to support Ukraine, slams war fatigue
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Polish prime minister-designate Donald Tusk on Tuesday called on the West to mobilise behind Ukraine and lashed out at leaders voicing war "fatigue" as he listed the priorities of his incoming government.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/polands-tusk-urges-west-to-support-ukraine-slams-war-fatigue/article_b6dd3f71-02f7-5e74-a8b7-4128993abddd.html">https://www.postguam.com/news/national/polands-tusk-urges-west-to-support-ukraine-slams-war-fatigue/article_b6dd3f71-02f7-5e74-a8b7-4128993abddd.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/polands-tusk-urges-west-to-support-ukraine-slams-war-fatigue/article_b6dd3f71-02f7-5e74-a8b7-4128993abddd.html">Save to Pocket</a>
+</span>
+
+---
+
+## Judge Rules Hyundai, Kia Lawsuit Can Move Forward | Insurify
+
+date: 2023-12-12, from: The Guam Daily Post
+
+A judge has ruled that insurers' lawsuits tied to Hyundai, Kia thefts can move forward.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/judge-rules-hyundai-kia-lawsuit-can-move-forward-insurify/article_4d2f646e-eeef-5ae1-8a0e-b05fbfe56411.html">https://www.postguam.com/news/national/judge-rules-hyundai-kia-lawsuit-can-move-forward-insurify/article_4d2f646e-eeef-5ae1-8a0e-b05fbfe56411.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/judge-rules-hyundai-kia-lawsuit-can-move-forward-insurify/article_4d2f646e-eeef-5ae1-8a0e-b05fbfe56411.html">Save to Pocket</a>
+</span>
+
+---
+
+## Texas AG: Fraudulent emails with official AG seal seek to steal personal information
+
+date: 2023-12-12, from: The Guam Daily Post
+
+(The Center Square) – Texas Attorney General Ken Paxton has warned Texans a second time this year about scammers sending fraudulent emails using his name, signature, and official Office of the Attorney General Seal to obtain, steal and misuse personal…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/texas-ag-fraudulent-emails-with-official-ag-seal-seek-to-steal-personal-information/article_cb45bc50-ab70-58a1-93d5-1f6b7bdc92fb.html">https://www.postguam.com/news/national/texas-ag-fraudulent-emails-with-official-ag-seal-seek-to-steal-personal-information/article_cb45bc50-ab70-58a1-93d5-1f6b7bdc92fb.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/texas-ag-fraudulent-emails-with-official-ag-seal-seek-to-steal-personal-information/article_cb45bc50-ab70-58a1-93d5-1f6b7bdc92fb.html">Save to Pocket</a>
+</span>
+
+---
+
+## UH Maui College culinary students distribute 1,600 produce boxes, more
+
+date: 2023-12-12, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Maui College culinary arts students organized and distributed more than 13,000 lbs. of local produce.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/12/uh-maui-college-distribute-produce-boxes/"><abbr>UH</abbr> Maui College culinary students distribute 1,600 produce boxes, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/12/uh-maui-college-distribute-produce-boxes/">https://www.hawaii.edu/news/2023/12/12/uh-maui-college-distribute-produce-boxes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/12/uh-maui-college-distribute-produce-boxes/">Save to Pocket</a>
+</span>
+
+---
+
+## Embattled Harvard University president to stay after anti-Semitism row
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Harvard University's president, under fire over testimony she gave about anti-Semitism on campus, will remain in her job after a meeting of the institution's governing body issued a statement backing her on Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/embattled-harvard-university-president-to-stay-after-anti-semitism-row/article_b79bf64c-5cc8-5268-93e5-9fb0fd04f10b.html">https://www.postguam.com/news/national/embattled-harvard-university-president-to-stay-after-anti-semitism-row/article_b79bf64c-5cc8-5268-93e5-9fb0fd04f10b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/embattled-harvard-university-president-to-stay-after-anti-semitism-row/article_b79bf64c-5cc8-5268-93e5-9fb0fd04f10b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Israel battles Hamas as UN calls Gaza 'hell on earth'
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Israeli forces battled Hamas militants and bombed more targets in the devastated Gaza Strip Tuesday with the UN General Assembly due to vote on a new demand for a ceasefire.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/israel-battles-hamas-as-un-calls-gaza-hell-on-earth/article_082dc29d-64f1-5bc0-9c64-e98737eebf04.html">https://www.postguam.com/news/national/israel-battles-hamas-as-un-calls-gaza-hell-on-earth/article_082dc29d-64f1-5bc0-9c64-e98737eebf04.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/israel-battles-hamas-as-un-calls-gaza-hell-on-earth/article_082dc29d-64f1-5bc0-9c64-e98737eebf04.html">Save to Pocket</a>
+</span>
+
+---
+
+## Ranchers suing Colorado, federal agencies over wolf reintroduction
+
+date: 2023-12-12, from: The Guam Daily Post
+
+(The Center Square) – A pair of trade groups representing Colorado ranchers are suing state and federal wildlife agencies to delay reintroducing gray wolves to the Western Slope.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/ranchers-suing-colorado-federal-agencies-over-wolf-reintroduction/article_05fc1e91-b32e-5875-a7c9-b302c12d15f6.html">https://www.postguam.com/news/national/ranchers-suing-colorado-federal-agencies-over-wolf-reintroduction/article_05fc1e91-b32e-5875-a7c9-b302c12d15f6.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/ranchers-suing-colorado-federal-agencies-over-wolf-reintroduction/article_05fc1e91-b32e-5875-a7c9-b302c12d15f6.html">Save to Pocket</a>
+</span>
+
+---
+
+## Zelensky's last-ditch plea for US aid runs into partisan divide
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Ukrainian President Volodymyr Zelensky pleaded Tuesday in Washington for continued US military aid but the Republican House speaker poured cold water on the desperate bid for help.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/zelenskys-last-ditch-plea-for-us-aid-runs-into-partisan-divide/article_77874d7a-3da5-532b-8899-c9076be0f95e.html">https://www.postguam.com/news/national/zelenskys-last-ditch-plea-for-us-aid-runs-into-partisan-divide/article_77874d7a-3da5-532b-8899-c9076be0f95e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/zelenskys-last-ditch-plea-for-us-aid-runs-into-partisan-divide/article_77874d7a-3da5-532b-8899-c9076be0f95e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Thames Water says needs more time for financial turnaround
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Struggling UK utility firm Thames Firm needs more time to turn around its fortunes after announcing a slump in profits and mounting debt, one of its bosses said Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/thames-water-says-needs-more-time-for-financial-turnaround/article_0d49a20b-b29f-5a03-817a-3f2a0b2415eb.html">https://www.postguam.com/news/national/thames-water-says-needs-more-time-for-financial-turnaround/article_0d49a20b-b29f-5a03-817a-3f2a0b2415eb.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/thames-water-says-needs-more-time-for-financial-turnaround/article_0d49a20b-b29f-5a03-817a-3f2a0b2415eb.html">Save to Pocket</a>
+</span>
+
+---
+
+## 0% Credit Card Offers Can Provide Holiday Relief — If Used Wisely
+
+date: 2023-12-12, from: The Guam Daily Post
+
+It’s hard to say what kills the holiday buzz more: Putting away the festive decorations or a mountain of credit card debt that swells with every interest charge. But not all credit cards charge interest, at least for a time.…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/0-credit-card-offers-can-provide-holiday-relief-if-used-wisely/article_7c3caea4-402e-52c3-a99f-cb344438fc2a.html">https://www.postguam.com/news/national/0-credit-card-offers-can-provide-holiday-relief-if-used-wisely/article_7c3caea4-402e-52c3-a99f-cb344438fc2a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/0-credit-card-offers-can-provide-holiday-relief-if-used-wisely/article_7c3caea4-402e-52c3-a99f-cb344438fc2a.html">Save to Pocket</a>
+</span>
+
+---
+
+## Asylum seeker dies on board UK accommodation barge: police
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Charities on Tuesday criticised the UK government after an asylum seeker died onboard the controversial Bibby Stockholm accommodation barge docked on the southwest English coast.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/asylum-seeker-dies-on-board-uk-accommodation-barge-police/article_73320e68-0e0d-51ef-b8ca-d180065c882e.html">https://www.postguam.com/news/national/asylum-seeker-dies-on-board-uk-accommodation-barge-police/article_73320e68-0e0d-51ef-b8ca-d180065c882e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/asylum-seeker-dies-on-board-uk-accommodation-barge-police/article_73320e68-0e0d-51ef-b8ca-d180065c882e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Warmest Arctic summer caused by accelerating climate change
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Summer surface air temperatures in 2023 were the warmest ever observed in the Arctic as a result of accelerating human-caused climate change, an official report card published Tuesday said.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/warmest-arctic-summer-caused-by-accelerating-climate-change/article_a2b32f24-0e8f-543c-9324-8e04681fcb9c.html">https://www.postguam.com/news/national/warmest-arctic-summer-caused-by-accelerating-climate-change/article_a2b32f24-0e8f-543c-9324-8e04681fcb9c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/warmest-arctic-summer-caused-by-accelerating-climate-change/article_a2b32f24-0e8f-543c-9324-8e04681fcb9c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Climate negotiators eye compromise on fossil fuel exit
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Negotiators awaited a new draft deal on the fate of fossil fuels as UN climate talks went into overtime in Dubai on Tuesday after nations pushing for a phase-out clashed with Saudi-led oil producers.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/climate-negotiators-eye-compromise-on-fossil-fuel-exit/article_513a7eb7-31ac-5e25-a08a-108403b6a74f.html">https://www.postguam.com/news/national/climate-negotiators-eye-compromise-on-fossil-fuel-exit/article_513a7eb7-31ac-5e25-a08a-108403b6a74f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/climate-negotiators-eye-compromise-on-fossil-fuel-exit/article_513a7eb7-31ac-5e25-a08a-108403b6a74f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Blue Origin announces space launch next week, first since 2022 crash
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Blue Origin said on Tuesday it was aiming to launch its New Shepard suborbital rocket next week, the first mission since an uncrewed crash in September 2022 set back Jeff Bezos' space company.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/blue-origin-announces-space-launch-next-week-first-since-2022-crash/article_970974e0-3047-5a8e-bdfa-30147d6a9a54.html">https://www.postguam.com/news/national/blue-origin-announces-space-launch-next-week-first-since-2022-crash/article_970974e0-3047-5a8e-bdfa-30147d6a9a54.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/blue-origin-announces-space-launch-next-week-first-since-2022-crash/article_970974e0-3047-5a8e-bdfa-30147d6a9a54.html">Save to Pocket</a>
+</span>
+
+---
+
+## 'Appalling': Abortion advocacy groups received nearly $2B in taxpayer money
+
+date: 2023-12-12, from: The Guam Daily Post
+
+(The Center Square) – Abortion-providing groups received $1.89 billion in taxpayer money from fiscal years 2019 to 2021, a newly released federal watchdog report shows.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/appalling-abortion-advocacy-groups-received-nearly-2b-in-taxpayer-money/article_c3019fa5-0654-5075-b553-83ad47398d6f.html">https://www.postguam.com/news/national/appalling-abortion-advocacy-groups-received-nearly-2b-in-taxpayer-money/article_c3019fa5-0654-5075-b553-83ad47398d6f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/appalling-abortion-advocacy-groups-received-nearly-2b-in-taxpayer-money/article_c3019fa5-0654-5075-b553-83ad47398d6f.html">Save to Pocket</a>
+</span>
+
+---
+
+## ASML, Samsung ink 700mn chip plant deal as S.Korea president visits
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Dutch tech giant ASML and Samsung Tuesday signed a deal worth around 700 million euros to build a semiconductor research plant in South Korea, as President Yoon Suk Yeol wrapped up day one of a technology-focused visit.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/asml-samsung-ink-700mn-chip-plant-deal-as-s-korea-president-visits/article_65bbca34-1ae8-5533-b3cc-1c97da19c5b0.html">https://www.postguam.com/news/national/asml-samsung-ink-700mn-chip-plant-deal-as-s-korea-president-visits/article_65bbca34-1ae8-5533-b3cc-1c97da19c5b0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/asml-samsung-ink-700mn-chip-plant-deal-as-s-korea-president-visits/article_65bbca34-1ae8-5533-b3cc-1c97da19c5b0.html">Save to Pocket</a>
+</span>
+
+---
+
+## African antelope first species to be brought back from brink of extinction
+
+date: 2023-12-12, from: The Guam Daily Post
+
+The scimitar-horned oryx, also known as the Sahara oryx, was once widespread across its native North Africa.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/african-antelope-first-species-to-be-brought-back-from-brink-of-extinction/article_09d27281-8ce3-58cb-8b65-c63fc218334d.html">https://www.postguam.com/news/national/african-antelope-first-species-to-be-brought-back-from-brink-of-extinction/article_09d27281-8ce3-58cb-8b65-c63fc218334d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/african-antelope-first-species-to-be-brought-back-from-brink-of-extinction/article_09d27281-8ce3-58cb-8b65-c63fc218334d.html">Save to Pocket</a>
+</span>
+
+---
+
+## Extremely rare half-female, half-male bird caught on camera
+
+date: 2023-12-12, from: The Guam Daily Post
+
+It is only the second example recorded in over 100 years.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/extremely-rare-half-female-half-male-bird-caught-on-camera/article_c2d0e4b8-1839-512c-a793-185efd354e74.html">https://www.postguam.com/news/national/extremely-rare-half-female-half-male-bird-caught-on-camera/article_c2d0e4b8-1839-512c-a793-185efd354e74.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/extremely-rare-half-female-half-male-bird-caught-on-camera/article_c2d0e4b8-1839-512c-a793-185efd354e74.html">Save to Pocket</a>
+</span>
+
+---
+
+## UN assembly moves past Security Council to take lead on Gaza
+
+date: 2023-12-12, from: The Guam Daily Post
+
+The UN General Assembly was due to vote Tuesday on a non-binding resolution demanding an immediate humanitarian ceasefire in Gaza -- a call that the paralyzed Security Council has so far failed to make.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/un-assembly-moves-past-security-council-to-take-lead-on-gaza/article_a7a2ae2f-0940-58fb-b65b-488c7984c4d1.html">https://www.postguam.com/news/national/un-assembly-moves-past-security-council-to-take-lead-on-gaza/article_a7a2ae2f-0940-58fb-b65b-488c7984c4d1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/un-assembly-moves-past-security-council-to-take-lead-on-gaza/article_a7a2ae2f-0940-58fb-b65b-488c7984c4d1.html">Save to Pocket</a>
+</span>
+
+---
+
+## Federal prosecutors have asked the US Supreme Court to decide whether Donald Trump has immunity from prosecution on charges of conspiring to overturn the 2020 election
+
+date: 2023-12-12, from: Pacific Daily News
+
+Federal prosecutors have asked the US Supreme Court to decide whether Donald Trump has immunity from prosecution on charges of conspiring to overturn the 2020 election
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/federal-prosecutors-have-asked-the-us-supreme-court-to-decide-whether-donald-trump-has-immunity/image_5b7d2497-ec4c-5372-ac52-9ce57f4f749d.html">https://www.guampdn.com/news/national/federal-prosecutors-have-asked-the-us-supreme-court-to-decide-whether-donald-trump-has-immunity/image_5b7d2497-ec4c-5372-ac52-9ce57f4f749d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/federal-prosecutors-have-asked-the-us-supreme-court-to-decide-whether-donald-trump-has-immunity/image_5b7d2497-ec4c-5372-ac52-9ce57f4f749d.html">Save to Pocket</a>
+</span>
+
+---
+
+## Colombia's Leicy Santos (L) was quoted in the FIFA report
+
+date: 2023-12-12, from: Pacific Daily News
+
+Colombia's Leicy Santos (L) was quoted in the FIFA report
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/colombias-leicy-santos-l-was-quoted-in-the-fifa-report/image_b28d7ebc-9bd0-55e6-b133-60facd14a05b.html">https://www.guampdn.com/news/national/colombias-leicy-santos-l-was-quoted-in-the-fifa-report/image_b28d7ebc-9bd0-55e6-b133-60facd14a05b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/colombias-leicy-santos-l-was-quoted-in-the-fifa-report/image_b28d7ebc-9bd0-55e6-b133-60facd14a05b.html">Save to Pocket</a>
+</span>
+
+---
+
+## US President Joe Biden and Ukrainian President Volodymyr Zelensky are seen at the White House in Washington, DC, on September 21, 2023
+
+date: 2023-12-12, from: Pacific Daily News
+
+US President Joe Biden and Ukrainian President Volodymyr Zelensky are seen at the White House in Washington, DC, on September 21, 2023
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/us-president-joe-biden-and-ukrainian-president-volodymyr-zelensky-are-seen-at-the-white-house/image_22f726a6-2ccf-5036-ab7d-9538010c26a7.html">https://www.guampdn.com/news/national/us-president-joe-biden-and-ukrainian-president-volodymyr-zelensky-are-seen-at-the-white-house/image_22f726a6-2ccf-5036-ab7d-9538010c26a7.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/us-president-joe-biden-and-ukrainian-president-volodymyr-zelensky-are-seen-at-the-white-house/image_22f726a6-2ccf-5036-ab7d-9538010c26a7.html">Save to Pocket</a>
+</span>
+
+---
+
+## Alexei Navalny at a Moscow court hearing in February 2021
+
+date: 2023-12-12, from: Pacific Daily News
+
+Alexei Navalny at a Moscow court hearing in February 2021
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/alexei-navalny-at-a-moscow-court-hearing-in-february-2021/image_5d62c280-b825-52c5-9a78-1e6065868b82.html">https://www.guampdn.com/news/national/alexei-navalny-at-a-moscow-court-hearing-in-february-2021/image_5d62c280-b825-52c5-9a78-1e6065868b82.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/alexei-navalny-at-a-moscow-court-hearing-in-february-2021/image_5d62c280-b825-52c5-9a78-1e6065868b82.html">Save to Pocket</a>
+</span>
+
+---
+
+## Israeli soldiers on a hill overlooking northern Gaza
+
+date: 2023-12-12, from: Pacific Daily News
+
+Israeli soldiers on a hill overlooking northern Gaza
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/israeli-soldiers-on-a-hill-overlooking-northern-gaza/image_c5c382ab-9734-599d-934f-ed262f7ad24e.html">https://www.guampdn.com/news/national/israeli-soldiers-on-a-hill-overlooking-northern-gaza/image_c5c382ab-9734-599d-934f-ed262f7ad24e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/israeli-soldiers-on-a-hill-overlooking-northern-gaza/image_c5c382ab-9734-599d-934f-ed262f7ad24e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Aftermath of strike in Holon, on the outskirts of Tel Aviv
+
+date: 2023-12-12, from: Pacific Daily News
+
+
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/aftermath-of-strike-in-holon-on-the-outskirts-of-tel-aviv/image_fa0d0e6e-422c-5664-a58b-cc38fc04d937.html">https://www.guampdn.com/news/national/aftermath-of-strike-in-holon-on-the-outskirts-of-tel-aviv/image_fa0d0e6e-422c-5664-a58b-cc38fc04d937.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/aftermath-of-strike-in-holon-on-the-outskirts-of-tel-aviv/image_fa0d0e6e-422c-5664-a58b-cc38fc04d937.html">Save to Pocket</a>
+</span>
+
+---
+
+## Animated map : image of damages in northern Gaza strip
+
+date: 2023-12-12, from: Pacific Daily News
+
+
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/animated-map-image-of-damages-in-northern-gaza-strip/image_9d6c0ff3-07ba-5191-a37f-b31c5bdcba3d.html">https://www.guampdn.com/news/national/animated-map-image-of-damages-in-northern-gaza-strip/image_9d6c0ff3-07ba-5191-a37f-b31c5bdcba3d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/animated-map-image-of-damages-in-northern-gaza-strip/image_9d6c0ff3-07ba-5191-a37f-b31c5bdcba3d.html">Save to Pocket</a>
+</span>
+
+---
+
+## French Education Minister Gabriel Attal said the students would be disciplined
+
+date: 2023-12-12, from: Pacific Daily News
+
+French Education Minister Gabriel Attal said the students would be disciplined
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/french-education-minister-gabriel-attal-said-the-students-would-be-disciplined/image_7eea6c77-09ed-53a1-9455-df5384a29d4b.html">https://www.guampdn.com/news/national/french-education-minister-gabriel-attal-said-the-students-would-be-disciplined/image_7eea6c77-09ed-53a1-9455-df5384a29d4b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/french-education-minister-gabriel-attal-said-the-students-would-be-disciplined/image_7eea6c77-09ed-53a1-9455-df5384a29d4b.html">Save to Pocket</a>
+</span>
+
+---
+
+## A new study published Monday in the Journal of the American Medical Association shows much of the weight loss achieved by Zepbound comes back when people stop using the medicine
+
+date: 2023-12-12, from: Pacific Daily News
+
+A new study published Monday in the Journal of the American Medical Association shows much of the weight loss achieved by Zepbound comes back when people stop using the medicine
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/a-new-study-published-monday-in-the-journal-of-the-american-medical-association-shows-much/image_750e8f00-1a98-5059-8711-8c92f16939a7.html">https://www.guampdn.com/news/national/a-new-study-published-monday-in-the-journal-of-the-american-medical-association-shows-much/image_750e8f00-1a98-5059-8711-8c92f16939a7.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/a-new-study-published-monday-in-the-journal-of-the-american-medical-association-shows-much/image_750e8f00-1a98-5059-8711-8c92f16939a7.html">Save to Pocket</a>
+</span>
+
+---
+
+## US President Joe Biden and Ukraine's President Volodymyr Zelensky hold a press conference in the East Room of the White House in Washington, DC, on December 21, 2022.   Ukraine's President Volodymyr Zelensky was expected to visit Washington on Wednesday for a possible meeting with Joe Biden and an address to Congress -- his first trip abroad since Russia invaded in February.
+
+date: 2023-12-12, from: Pacific Daily News
+
+US President Joe Biden and Ukraine's President Volodymyr Zelensky hold a press conference in the East Room of the White House in Washington, DC, on December 21, 2022. Ukraine's President Volodymyr Zelensky was expected to visit Washington on Wednesday for…
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/us-president-joe-biden-and-ukraines-president-volodymyr-zelensky-hold-a-press-conference-in-the/image_798c59e6-4f87-573c-a5d1-d424cfbe1862.html">https://www.guampdn.com/news/national/us-president-joe-biden-and-ukraines-president-volodymyr-zelensky-hold-a-press-conference-in-the/image_798c59e6-4f87-573c-a5d1-d424cfbe1862.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/us-president-joe-biden-and-ukraines-president-volodymyr-zelensky-hold-a-press-conference-in-the/image_798c59e6-4f87-573c-a5d1-d424cfbe1862.html">Save to Pocket</a>
+</span>
+
+---
+
+## Biden made a surprise visit to Kyiv in February 2023
+
+date: 2023-12-12, from: Pacific Daily News
+
+Biden made a surprise visit to Kyiv in February 2023
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/biden-made-a-surprise-visit-to-kyiv-in-february-2023/image_e54b1e0e-622a-5971-8846-8ceb181aaa15.html">https://www.guampdn.com/news/national/biden-made-a-surprise-visit-to-kyiv-in-february-2023/image_e54b1e0e-622a-5971-8846-8ceb181aaa15.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/biden-made-a-surprise-visit-to-kyiv-in-february-2023/image_e54b1e0e-622a-5971-8846-8ceb181aaa15.html">Save to Pocket</a>
+</span>
+
+---
+
+## The first meeting between Biden and Zelensky in 2021 did not go well
+
+date: 2023-12-12, from: Pacific Daily News
+
+The first meeting between Biden and Zelensky in 2021 did not go well
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/the-first-meeting-between-biden-and-zelensky-in-2021-did-not-go-well/image_9b2ca54a-07a1-59bb-8b3b-e8372ba206d3.html">https://www.guampdn.com/news/national/the-first-meeting-between-biden-and-zelensky-in-2021-did-not-go-well/image_9b2ca54a-07a1-59bb-8b3b-e8372ba206d3.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/the-first-meeting-between-biden-and-zelensky-in-2021-did-not-go-well/image_9b2ca54a-07a1-59bb-8b3b-e8372ba206d3.html">Save to Pocket</a>
+</span>
+
+---
+
+## The yen retreated on diminishing expectations of a monetary policy pivot by the Bank of Japan
+
+date: 2023-12-12, from: Pacific Daily News
+
+The yen retreated on diminishing expectations of a monetary policy pivot by the Bank of Japan
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/the-yen-retreated-on-diminishing-expectations-of-a-monetary-policy-pivot-by-the-bank-of/image_5c47f491-5196-5fa1-805a-fe018891e00e.html">https://www.guampdn.com/news/national/the-yen-retreated-on-diminishing-expectations-of-a-monetary-policy-pivot-by-the-bank-of/image_5c47f491-5196-5fa1-805a-fe018891e00e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/the-yen-retreated-on-diminishing-expectations-of-a-monetary-policy-pivot-by-the-bank-of/image_5c47f491-5196-5fa1-805a-fe018891e00e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Faith Kipyegon beats Sifan Hassan of the Netherlands to win the women's 5,000m final at the world championships
+
+date: 2023-12-12, from: Pacific Daily News
+
+Faith Kipyegon beats Sifan Hassan of the Netherlands to win the women's 5,000m final at the world championships
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/faith-kipyegon-beats-sifan-hassan-of-the-netherlands-to-win-the-womens-5-000m-final/image_748b4c90-8445-5aa2-8753-2318e76fd21f.html">https://www.guampdn.com/news/national/faith-kipyegon-beats-sifan-hassan-of-the-netherlands-to-win-the-womens-5-000m-final/image_748b4c90-8445-5aa2-8753-2318e76fd21f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/faith-kipyegon-beats-sifan-hassan-of-the-netherlands-to-win-the-womens-5-000m-final/image_748b4c90-8445-5aa2-8753-2318e76fd21f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Rudy Giuliani arrives in court for a trial to determine how much the former New York mayor has to pay in damages to two Georgia election workers
+
+date: 2023-12-12, from: Pacific Daily News
+
+Rudy Giuliani arrives in court for a trial to determine how much the former New York mayor has to pay in damages to two Georgia election workers
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/rudy-giuliani-arrives-in-court-for-a-trial-to-determine-how-much-the-former-new/image_370f98e1-c7f2-5859-92a1-9412aba4fbfe.html">https://www.guampdn.com/news/national/rudy-giuliani-arrives-in-court-for-a-trial-to-determine-how-much-the-former-new/image_370f98e1-c7f2-5859-92a1-9412aba4fbfe.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/rudy-giuliani-arrives-in-court-for-a-trial-to-determine-how-much-the-former-new/image_370f98e1-c7f2-5859-92a1-9412aba4fbfe.html">Save to Pocket</a>
+</span>
+
+---
+
+## Noah Lyles has said he will target four golds at the Paris Olympics
+
+date: 2023-12-12, from: Pacific Daily News
+
+Noah Lyles has said he will target four golds at the Paris Olympics
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/noah-lyles-has-said-he-will-target-four-golds-at-the-paris-olympics/image_d27b34e8-d0cb-5952-8896-3b9f771ccfae.html">https://www.guampdn.com/news/national/noah-lyles-has-said-he-will-target-four-golds-at-the-paris-olympics/image_d27b34e8-d0cb-5952-8896-3b9f771ccfae.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/noah-lyles-has-said-he-will-target-four-golds-at-the-paris-olympics/image_d27b34e8-d0cb-5952-8896-3b9f771ccfae.html">Save to Pocket</a>
+</span>
+
+---
+
+## Inokashira Park Zoo in Tokyo is investigating the death of 31 squirrels after keepers injected the animals with anti-parasitic medicine and sprayed insecticide over their nest boxes as part of a sanitary precaution
+
+date: 2023-12-12, from: Pacific Daily News
+
+Inokashira Park Zoo in Tokyo is investigating the death of 31 squirrels after keepers injected the animals with anti-parasitic medicine and sprayed insecticide over their nest boxes as part of a sanitary precaution
+
+<span class="feed-item-link">
+<a href="https://www.guampdn.com/news/national/inokashira-park-zoo-in-tokyo-is-investigating-the-death-of-31-squirrels-after-keepers-injected/image_f0a5b825-95fc-57ea-aeed-6f8798dd45e4.html">https://www.guampdn.com/news/national/inokashira-park-zoo-in-tokyo-is-investigating-the-death-of-31-squirrels-after-keepers-injected/image_f0a5b825-95fc-57ea-aeed-6f8798dd45e4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/inokashira-park-zoo-in-tokyo-is-investigating-the-death-of-31-squirrels-after-keepers-injected/image_f0a5b825-95fc-57ea-aeed-6f8798dd45e4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Sticky US inflation data robs stocks of momentum
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Sticky US inflation data on Tuesday robbed stocks of momentum although indices held near peaks or records as investors awaited the latest indications from the Fed on interest rates.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/sticky-us-inflation-data-robs-stocks-of-momentum/article_fd950e5e-fd73-580c-be0f-8591e0b3438e.html">https://www.postguam.com/news/national/sticky-us-inflation-data-robs-stocks-of-momentum/article_fd950e5e-fd73-580c-be0f-8591e0b3438e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/sticky-us-inflation-data-robs-stocks-of-momentum/article_fd950e5e-fd73-580c-be0f-8591e0b3438e.html">Save to Pocket</a>
+</span>
+
+---
+
+## NDAA 2024 authorizes $3.2B spending for defense projects on Guam 
+
+date: 2023-12-12, from: Pacific Island Times
+
+By Pacific Island Times News Staff The compromise version of the 2024 National Defense Authorization Act includes $3.2 billion in new...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/ndaa-2024-authorizes-3-2b-spending-for-defense-projects-on-guam">https://www.pacificislandtimes.com/post/ndaa-2024-authorizes-3-2b-spending-for-defense-projects-on-guam</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/ndaa-2024-authorizes-3-2b-spending-for-defense-projects-on-guam">Save to Pocket</a>
+</span>
+
+---
+
+## Macron's govt defiant after immigration bill rejection
+
+date: 2023-12-12, from: The Guam Daily Post
+
+France's government insisted Tuesday it would implement tough measures against illegal migrants as it battled a political crisis following the rejection of its flagship immigration bill in the lower house of parliament.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/macrons-govt-defiant-after-immigration-bill-rejection/article_abd5e365-9598-5888-bf1b-af0af4b3a45a.html">https://www.postguam.com/news/national/macrons-govt-defiant-after-immigration-bill-rejection/article_abd5e365-9598-5888-bf1b-af0af4b3a45a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/macrons-govt-defiant-after-immigration-bill-rejection/article_abd5e365-9598-5888-bf1b-af0af4b3a45a.html">Save to Pocket</a>
+</span>
+
+---
+
+## French celebrity writer Beigbeder held after rape allegation
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Police detained French best-selling writer Frederic Beigbeder on Tuesday to question him about a rape allegation, sources close to the case told AFP.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/french-celebrity-writer-beigbeder-held-after-rape-allegation/article_f132a00c-2e86-5055-b0b4-83e8fda4310d.html">https://www.postguam.com/news/national/french-celebrity-writer-beigbeder-held-after-rape-allegation/article_f132a00c-2e86-5055-b0b4-83e8fda4310d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/french-celebrity-writer-beigbeder-held-after-rape-allegation/article_f132a00c-2e86-5055-b0b4-83e8fda4310d.html">Save to Pocket</a>
+</span>
+
+---
+
+## Former Villa boss Smith appointed Charlotte head coach
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Former Aston Villa manager Dean Smith has been appointed the new head coach of Major League Soccer club Charlotte FC, the team said on Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/former-villa-boss-smith-appointed-charlotte-head-coach/article_c2dd4aa4-6b2b-5e3c-b15d-3aaad384eaae.html">https://www.postguam.com/news/national/former-villa-boss-smith-appointed-charlotte-head-coach/article_c2dd4aa4-6b2b-5e3c-b15d-3aaad384eaae.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/former-villa-boss-smith-appointed-charlotte-head-coach/article_c2dd4aa4-6b2b-5e3c-b15d-3aaad384eaae.html">Save to Pocket</a>
+</span>
+
+---
+
+## Spain lawmakers begin debating divisive amnesty bill
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Spanish lawmakers on Tuesday began debating a controversial bill to grant an amnesty to Catalan separatists that was pledged by Prime Minister Pedro Sanchez in order to remain in power.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/spain-lawmakers-begin-debating-divisive-amnesty-bill/article_87031726-b277-5e7c-a71c-9bd74c936c53.html">https://www.postguam.com/news/national/spain-lawmakers-begin-debating-divisive-amnesty-bill/article_87031726-b277-5e7c-a71c-9bd74c936c53.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/spain-lawmakers-begin-debating-divisive-amnesty-bill/article_87031726-b277-5e7c-a71c-9bd74c936c53.html">Save to Pocket</a>
+</span>
+
+---
+
+## Harvard board reaffirms support for embattled university president
+
+date: 2023-12-12, from: The Guam Daily Post
+
+(The Center Square) – Harvard has “reaffirmed” its support of embattled university President Claudine Gay.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/harvard-board-reaffirms-support-for-embattled-university-president/article_562426e6-29e1-5c6f-8015-6e9ef256753f.html">https://www.postguam.com/news/national/harvard-board-reaffirms-support-for-embattled-university-president/article_562426e6-29e1-5c6f-8015-6e9ef256753f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/harvard-board-reaffirms-support-for-embattled-university-president/article_562426e6-29e1-5c6f-8015-6e9ef256753f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Republican impeachment inquiry to be voted on this week
+
+date: 2023-12-12, from: The Guam Daily Post
+
+(The Center Square) – House Republican leadership announced Tuesday that they would bring the impeachment inquiry into President Joe Biden to the House floor, likely Wednesday, for an official vote.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/republican-impeachment-inquiry-to-be-voted-on-this-week/article_59ccb243-9b12-51f0-8108-f43b724553fa.html">https://www.postguam.com/news/national/republican-impeachment-inquiry-to-be-voted-on-this-week/article_59ccb243-9b12-51f0-8108-f43b724553fa.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/republican-impeachment-inquiry-to-be-voted-on-this-week/article_59ccb243-9b12-51f0-8108-f43b724553fa.html">Save to Pocket</a>
+</span>
+
+---
+
+## Argentine government to unveil measures to avoid 'hyperinflation'
+
+date: 2023-12-12, from: The Guam Daily Post
+
+President Javier Milei's new government will on Tuesday unveil a set of emergency measures to avoid "hyperinflation" that are expected to deliver a shock to the country's ailing economy.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/argentine-government-to-unveil-measures-to-avoid-hyperinflation/article_89bfe668-6e00-587b-8fe1-d893dbdc1eff.html">https://www.postguam.com/news/national/argentine-government-to-unveil-measures-to-avoid-hyperinflation/article_89bfe668-6e00-587b-8fe1-d893dbdc1eff.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/argentine-government-to-unveil-measures-to-avoid-hyperinflation/article_89bfe668-6e00-587b-8fe1-d893dbdc1eff.html">Save to Pocket</a>
+</span>
+
+---
+
+## US consumer inflation slows in November but pressures remain
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Consumer inflation in the United States edged down for a second straight month in November, government data showed Tuesday, providing good news for policymakers seeking to get prices under control.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/us-consumer-inflation-slows-in-november-but-pressures-remain/article_26b98966-e564-5298-8080-841de7650c07.html">https://www.postguam.com/news/national/us-consumer-inflation-slows-in-november-but-pressures-remain/article_26b98966-e564-5298-8080-841de7650c07.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/us-consumer-inflation-slows-in-november-but-pressures-remain/article_26b98966-e564-5298-8080-841de7650c07.html">Save to Pocket</a>
+</span>
+
+---
+
+## Where do relinquished babies go? 
+
+date: 2023-12-12, from: Pacific Island Times
+
+Guam's adoption agency hits GMH for skipping proper adoption process By Mar-Vic Cagurangan On June 26, 2018, a newborn baby boy wrapped...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/where-do-relinquished-babies-go">https://www.pacificislandtimes.com/post/where-do-relinquished-babies-go</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/where-do-relinquished-babies-go">Save to Pocket</a>
+</span>
+
+---
+
+## US Fed kicks off rate meeting with another pause expected
+
+date: 2023-12-12, from: The Guam Daily Post
+
+The US Federal Reserve began a two-day interest rate meeting Tuesday at which policymakers are widely expected to hold rates steady for a third straight meeting as they continue the fight against high inflation.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/us-fed-kicks-off-rate-meeting-with-another-pause-expected/article_1f3e03a8-1232-53d0-af6c-9ea1ccbf3932.html">https://www.postguam.com/news/national/us-fed-kicks-off-rate-meeting-with-another-pause-expected/article_1f3e03a8-1232-53d0-af6c-9ea1ccbf3932.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/us-fed-kicks-off-rate-meeting-with-another-pause-expected/article_1f3e03a8-1232-53d0-af6c-9ea1ccbf3932.html">Save to Pocket</a>
+</span>
+
+---
+
+## UK climate minister jets back from COP28 for key vote
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Environmental groups on Tuesday slammed the UK government after its climate minister jetted back from the final stages of talks at the COP28 conference in Dubai to vote on a crunch immigration bill.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/uk-climate-minister-jets-back-from-cop28-for-key-vote/article_fdf63a37-61c8-583b-b673-6a187b4a09e2.html">https://www.postguam.com/news/national/uk-climate-minister-jets-back-from-cop28-for-key-vote/article_fdf63a37-61c8-583b-b673-6a187b4a09e2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/uk-climate-minister-jets-back-from-cop28-for-key-vote/article_fdf63a37-61c8-583b-b673-6a187b4a09e2.html">Save to Pocket</a>
+</span>
+
+---
+
+## Australian, American charged with running crypto Ponzi scheme
+
+date: 2023-12-12, from: The Guam Daily Post
+
+An Australian man and a US national have been charged in California with operating a cryptocurrency Ponzi scheme, the Justice Department said Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/australian-american-charged-with-running-crypto-ponzi-scheme/article_c3ee500e-7778-5036-bf95-1658c0666f3d.html">https://www.postguam.com/news/national/australian-american-charged-with-running-crypto-ponzi-scheme/article_c3ee500e-7778-5036-bf95-1658c0666f3d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/australian-american-charged-with-running-crypto-ponzi-scheme/article_c3ee500e-7778-5036-bf95-1658c0666f3d.html">Save to Pocket</a>
+</span>
+
+---
+
+## UK PM Sunak faces leadership test over Rwanda plan
+
+date: 2023-12-12, from: The Guam Daily Post
+
+UK Prime Minister Rishi Sunak on Tuesday sought to avoid a humiliating defeat for his latest plans to send migrants to Rwanda that have split his ruling Conservative party.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/uk-pm-sunak-faces-leadership-test-over-rwanda-plan/article_cffc014a-a814-5fc6-837b-f37e528e5bee.html">https://www.postguam.com/news/national/uk-pm-sunak-faces-leadership-test-over-rwanda-plan/article_cffc014a-a814-5fc6-837b-f37e528e5bee.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/uk-pm-sunak-faces-leadership-test-over-rwanda-plan/article_cffc014a-a814-5fc6-837b-f37e528e5bee.html">Save to Pocket</a>
+</span>
+
+---
+
+## Living in a different world
+
+date: 2023-12-12, from: Pacific Island Times
+
+I was enjoying the latest episode of Magnum P.I., where Thomas and Higgy discuss the prospect of having children.  When Thomas exclaimed,...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/living-in-a-different-world">https://www.pacificislandtimes.com/post/living-in-a-different-world</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/living-in-a-different-world">Save to Pocket</a>
+</span>
+
+---
+
+## Disposable vape pens serious environmental threat: study
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Popular single-use e-cigarettes contain batteries that last hundreds of cycles after being discarded.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/lifestyles/health/disposable-vape-pens-serious-environmental-threat-study/article_98b3c973-b1fe-569f-889b-0754e0937595.html">https://www.postguam.com/lifestyles/health/disposable-vape-pens-serious-environmental-threat-study/article_98b3c973-b1fe-569f-889b-0754e0937595.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/lifestyles/health/disposable-vape-pens-serious-environmental-threat-study/article_98b3c973-b1fe-569f-889b-0754e0937595.html">Save to Pocket</a>
+</span>
+
+---
+
+## It’s the season
+
+date: 2023-12-12, updated: 2023-12-12, from: Marianas Variety
+
+Art by Saipan Community School student Daniel Nae from the Pacifica Insurance Underwriters 10th Annual Pacifica Art Contest held in October this year. This year’s theme: “Rest assured, it’s Christmas.” Check out Pacifica’s new online art exhibition on www.pacificains.com/artcontest/.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/it-s-the-season/article_e3e7d96e-98b3-11ee-962f-1367e872d3d3.html">https://www.mvariety.com/lifestyle/it-s-the-season/article_e3e7d96e-98b3-11ee-962f-1367e872d3d3.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/it-s-the-season/article_e3e7d96e-98b3-11ee-962f-1367e872d3d3.html">Save to Pocket</a>
+</span>
+
+---
+
+## Costumes, skits at Christmas in the Marianas on Dec. 16
+
+date: 2023-12-12, updated: 2023-12-12, from: Marianas Variety
+
+IT'S a visual feast planned for this Saturday’s (Dec. 16) Christmas in the Marianas holiday fete at T Galleria in Saipan.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/costumes-skits-at-christmas-in-the-marianas-on-dec-16/article_9aa3f71a-98c2-11ee-b634-5fffd983d767.html">https://www.mvariety.com/lifestyle/costumes-skits-at-christmas-in-the-marianas-on-dec-16/article_9aa3f71a-98c2-11ee-b634-5fffd983d767.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/costumes-skits-at-christmas-in-the-marianas-on-dec-16/article_9aa3f71a-98c2-11ee-b634-5fffd983d767.html">Save to Pocket</a>
+</span>
+
+---
+
+## MCS Senior Xin Wen Jin is a QuestBridge scholar
+
+date: 2023-12-12, updated: 2023-12-12, from: Marianas Variety
+
+MOUNT Carmel School is thrilled to announce that 12th-grader Xin Wen Jin is a QuestBridge scholar matched to Boston College. According to their website, QuestBridge “is a national nonprofit that connects high-achieving students from low-income backgrounds with leading institutions of higher education and further life opportunities. By recruiting, developing, and motivating these students. . .QuestBridge aims to help talented students attend the nation’s best colleges and to support them to achieve success in their respective careers and communities.”
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/mcs-senior-xin-wen-jin-is-a-questbridge-scholar/article_0977feba-98b5-11ee-a644-57032c45087a.html">https://www.mvariety.com/news/community_bulletins/mcs-senior-xin-wen-jin-is-a-questbridge-scholar/article_0977feba-98b5-11ee-a644-57032c45087a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/mcs-senior-xin-wen-jin-is-a-questbridge-scholar/article_0977feba-98b5-11ee-a644-57032c45087a.html">Save to Pocket</a>
+</span>
+
+---
+
+## Upcoming sobriety checkpoints
+
+date: 2023-12-12, updated: 2023-12-12, from: Marianas Variety
+
+THE CNMI Department of Public Safety will conduct four separate DUI checkpoints on Friday, Dec. 15.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/upcoming-sobriety-checkpoints/article_85411e84-98b3-11ee-b078-c3bf9b65095d.html">https://www.mvariety.com/news/community_bulletins/upcoming-sobriety-checkpoints/article_85411e84-98b3-11ee-b078-c3bf9b65095d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/upcoming-sobriety-checkpoints/article_85411e84-98b3-11ee-b078-c3bf9b65095d.html">Save to Pocket</a>
+</span>
+
+---
+
+## MTEC, MVA start SY 2023-2024 presentations
+
+date: 2023-12-12, updated: 2023-12-12, from: Marianas Variety
+
+(MVA) — Marianas Tourism Education Council and the Marianas Visitors Authority have kicked off their annual school presentations this month.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/mtec-mva-start-sy-2023-2024-presentations/article_d176e894-98bb-11ee-a5a1-b38d10ca42a3.html">https://www.mvariety.com/news/community_bulletins/mtec-mva-start-sy-2023-2024-presentations/article_d176e894-98bb-11ee-a5a1-b38d10ca42a3.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/mtec-mva-start-sy-2023-2024-presentations/article_d176e894-98bb-11ee-a5a1-b38d10ca42a3.html">Save to Pocket</a>
+</span>
+
+---
+
+## Red flag at 3 Saipan sites
+
+date: 2023-12-12, updated: 2023-12-12, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan's west coast recreational beaches and storm drainages every week.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/red-flag-at-3-saipan-sites/article_e9a61274-98b5-11ee-b6b8-c3c3f703484b.html">https://www.mvariety.com/news/community_bulletins/red-flag-at-3-saipan-sites/article_e9a61274-98b5-11ee-b6b8-c3c3f703484b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/red-flag-at-3-saipan-sites/article_e9a61274-98b5-11ee-b6b8-c3c3f703484b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Variety editor’s new book now available at Joeten Susupe
+
+date: 2023-12-12, updated: 2023-12-12, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is now available at the Joeten Shopping Center in Susupe.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/variety-editor-s-new-book-now-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html">https://www.mvariety.com/lifestyle/variety-editor-s-new-book-now-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/variety-editor-s-new-book-now-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Merry Christmas to Everyone
+
+date: 2023-12-12, updated: 2023-12-12, from: Marianas Variety
+
+The bells are ringing on Christmas day
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/merry-christmas-to-everyone/article_7bae8eb4-98b4-11ee-988b-93b43961155e.html">https://www.mvariety.com/lifestyle/merry-christmas-to-everyone/article_7bae8eb4-98b4-11ee-988b-93b43961155e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/merry-christmas-to-everyone/article_7bae8eb4-98b4-11ee-988b-93b43961155e.html">Save to Pocket</a>
+</span>
+
+---
+
+## CUC official: Fuel rate is a global issue
+
+date: 2023-12-12, updated: 2023-12-12, from: Marianas Variety
+
+“FUEL rate is a global issue not a utility corporation issue,” acting Commonwealth Utilities Corp. Executive Director Betty Terlaje said in an interview on Thursday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/cuc-official-fuel-rate-is-a-global-issue/article_42c86f78-9893-11ee-b228-bffb4b6b8665.html">https://www.mvariety.com/news/local/cuc-official-fuel-rate-is-a-global-issue/article_42c86f78-9893-11ee-b228-bffb4b6b8665.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/cuc-official-fuel-rate-is-a-global-issue/article_42c86f78-9893-11ee-b228-bffb4b6b8665.html">Save to Pocket</a>
+</span>
+
+---
+
+## Antetokounmpo leads Bucks past Bulls 133-129 in OT
+
+date: 2023-12-12, updated: 2023-12-12, from: Marianas Variety
+
+MILWAUKEE (AP) — Giannis Antetokounmpo had 32 points and 12 rebounds to lead the Milwaukee Bucks to a 133-129 victory over the Chicago Bulls in overtime Monday night.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/antetokounmpo-leads-bucks-past-bulls-133-129-in-ot/article_0167a824-98f6-11ee-b0b9-3bd3589d5da6.html">https://www.mvariety.com/sports/nationalsports/antetokounmpo-leads-bucks-past-bulls-133-129-in-ot/article_0167a824-98f6-11ee-b0b9-3bd3589d5da6.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/antetokounmpo-leads-bucks-past-bulls-133-129-in-ot/article_0167a824-98f6-11ee-b0b9-3bd3589d5da6.html">Save to Pocket</a>
+</span>
+
+---
+
+## World’s most expensive gingerbread house worth over $7 million
+
+date: 2023-12-12, from: The Guam Daily Post
+
+A designer and food artist spent two weeks crafting the confessionary which featured edible rice paper clothes inside.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/world-s-most-expensive-gingerbread-house-worth-over-7-million/article_454ab2ca-3fb0-52a0-960a-194e858b9174.html">https://www.postguam.com/news/national/world-s-most-expensive-gingerbread-house-worth-over-7-million/article_454ab2ca-3fb0-52a0-960a-194e858b9174.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/world-s-most-expensive-gingerbread-house-worth-over-7-million/article_454ab2ca-3fb0-52a0-960a-194e858b9174.html">Save to Pocket</a>
+</span>
+
+---
+
+## French celebrity writer Beigbeder arrested
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Police detained French best-selling writer Frederic Beigbeder on Tuesday, prosecutors told AFP, without giving the reason for the arrest.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/french-celebrity-writer-beigbeder-arrested/article_f132a00c-2e86-5055-b0b4-83e8fda4310d.html">https://www.postguam.com/news/national/french-celebrity-writer-beigbeder-arrested/article_f132a00c-2e86-5055-b0b4-83e8fda4310d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/french-celebrity-writer-beigbeder-arrested/article_f132a00c-2e86-5055-b0b4-83e8fda4310d.html">Save to Pocket</a>
+</span>
+
+---
+
+## S. Korean president tours ASML inner sanctum on chip trip
+
+date: 2023-12-12, from: The Guam Daily Post
+
+South Korea's president became the first foreign leader to visit the highly secure "cleanroom" of Dutch tech giant ASML Tuesday, on a trip focused on forging a "chip alliance" between the two global semiconductor powerhouses.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/s-korean-president-tours-asml-inner-sanctum-on-chip-trip/article_65bbca34-1ae8-5533-b3cc-1c97da19c5b0.html">https://www.postguam.com/news/national/s-korean-president-tours-asml-inner-sanctum-on-chip-trip/article_65bbca34-1ae8-5533-b3cc-1c97da19c5b0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/s-korean-president-tours-asml-inner-sanctum-on-chip-trip/article_65bbca34-1ae8-5533-b3cc-1c97da19c5b0.html">Save to Pocket</a>
+</span>
+
+---
+
+## Indonesia presidential candidates talk corruption, Papua in first debate
+
+date: 2023-12-12, from: The Guam Daily Post
+
+The three candidates vying to be Indonesia's next president clashed in their first debate on Tuesday over issues including corruption, human rights and separatist rebels in the world's third-largest democracy.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/indonesia-presidential-candidates-talk-corruption-papua-in-first-debate/article_a404975e-c73f-5a43-a25c-ccdba4e9dbfa.html">https://www.postguam.com/news/national/indonesia-presidential-candidates-talk-corruption-papua-in-first-debate/article_a404975e-c73f-5a43-a25c-ccdba4e9dbfa.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/indonesia-presidential-candidates-talk-corruption-papua-in-first-debate/article_a404975e-c73f-5a43-a25c-ccdba4e9dbfa.html">Save to Pocket</a>
+</span>
+
+---
+
+## Is cooking the secret ingredient to living stress-free?
+
+date: 2023-12-12, from: The Guam Daily Post
+
+A third of Americans crowned ice cream as the top comfort food.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/lifestyles/health/is-cooking-the-secret-ingredient-to-living-stress-free/article_a8140678-35e9-58a0-8354-b0b8c7f99456.html">https://www.postguam.com/lifestyles/health/is-cooking-the-secret-ingredient-to-living-stress-free/article_a8140678-35e9-58a0-8354-b0b8c7f99456.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/lifestyles/health/is-cooking-the-secret-ingredient-to-living-stress-free/article_a8140678-35e9-58a0-8354-b0b8c7f99456.html">Save to Pocket</a>
+</span>
+
+---
+
+## At UN climate talks, no consensus on what consensus is
+
+date: 2023-12-12, from: The Guam Daily Post
+
+The world's climate negotiators meeting in Dubai have spent sleepless nights in an elusive quest for consensus, but there is no consensus on what consensus means.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/at-un-climate-talks-no-consensus-on-what-consensus-is/article_cf034d6d-9436-55cc-8563-74e17f62407c.html">https://www.postguam.com/news/national/at-un-climate-talks-no-consensus-on-what-consensus-is/article_cf034d6d-9436-55cc-8563-74e17f62407c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/at-un-climate-talks-no-consensus-on-what-consensus-is/article_cf034d6d-9436-55cc-8563-74e17f62407c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Sticky US inflation data holds back stocks
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Sticky US inflation data kept stocks from making further sharp gains on Tuesday although indices held near peaks or records as investors bet on interest rate cuts.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/sticky-us-inflation-data-holds-back-stocks/article_fd950e5e-fd73-580c-be0f-8591e0b3438e.html">https://www.postguam.com/news/national/sticky-us-inflation-data-holds-back-stocks/article_fd950e5e-fd73-580c-be0f-8591e0b3438e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/sticky-us-inflation-data-holds-back-stocks/article_fd950e5e-fd73-580c-be0f-8591e0b3438e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Fight on fossil fuels as Dubai summit goes into overtime
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Negotiators haggled Tuesday to find a compromise over the fate of fossil fuels as the Dubai climate summit went into overtime, with Saudi-led crude producers resisting a phase-out of oil, gas and coal.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/fight-on-fossil-fuels-as-dubai-summit-goes-into-overtime/article_513a7eb7-31ac-5e25-a08a-108403b6a74f.html">https://www.postguam.com/news/national/fight-on-fossil-fuels-as-dubai-summit-goes-into-overtime/article_513a7eb7-31ac-5e25-a08a-108403b6a74f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/fight-on-fossil-fuels-as-dubai-summit-goes-into-overtime/article_513a7eb7-31ac-5e25-a08a-108403b6a74f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Ancient Roman home with 'unparalleled' mosaic found in Italy
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Italian archaeologists have uncovered a luxurious Roman home near the Colosseum, boasting an "unparalleled" mosaic featuring shells, marble and precious glass, the culture ministry said Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/ancient-roman-home-with-unparalleled-mosaic-found-in-italy/article_b4e5a542-806f-5e8b-8313-8ae127307c90.html">https://www.postguam.com/news/national/ancient-roman-home-with-unparalleled-mosaic-found-in-italy/article_b4e5a542-806f-5e8b-8313-8ae127307c90.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/ancient-roman-home-with-unparalleled-mosaic-found-in-italy/article_b4e5a542-806f-5e8b-8313-8ae127307c90.html">Save to Pocket</a>
+</span>
+
+---
+
+## Berlin film festival names new head
+
+date: 2023-12-12, from: The Guam Daily Post
+
+The Berlinale film festival on Tuesday named Tricia Tuttle, the former head of the BFI London Film Festival, as its new director as it prepares for a slimmed-down 2024 edition.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/berlin-film-festival-names-new-head/article_82739a27-c317-597c-972c-67f2aa208265.html">https://www.postguam.com/news/national/berlin-film-festival-names-new-head/article_82739a27-c317-597c-972c-67f2aa208265.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/berlin-film-festival-names-new-head/article_82739a27-c317-597c-972c-67f2aa208265.html">Save to Pocket</a>
+</span>
+
+---
+
+## Average American spends this much time planning for the next day
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Men take more time to prepare for the next day than women, according to a new survey.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/average-american-spends-this-much-time-planning-for-the-next-day/article_6f722a1d-bda7-5f3c-bf47-f9c4252ef333.html">https://www.postguam.com/news/national/average-american-spends-this-much-time-planning-for-the-next-day/article_6f722a1d-bda7-5f3c-bf47-f9c4252ef333.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/average-american-spends-this-much-time-planning-for-the-next-day/article_6f722a1d-bda7-5f3c-bf47-f9c4252ef333.html">Save to Pocket</a>
+</span>
+
+---
+
+## Embattled Harvard University president to stay in post
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Harvard University's president, under fire over testimony she gave about anti-Semitism on campus, will remain in her job after a meeting of the institution's governing body issued a statement backing her on Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/embattled-harvard-university-president-to-stay-in-post/article_ffaad80e-811e-5194-bbcf-207e12d769ee.html">https://www.postguam.com/news/national/embattled-harvard-university-president-to-stay-in-post/article_ffaad80e-811e-5194-bbcf-207e12d769ee.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/embattled-harvard-university-president-to-stay-in-post/article_ffaad80e-811e-5194-bbcf-207e12d769ee.html">Save to Pocket</a>
+</span>
+
+---
+
+## China's Xi visits Vietnam in bid to counter US
+
+date: 2023-12-12, from: The Guam Daily Post
+
+China and Vietnam pledged on Tuesday to deepen ties during President Xi Jinping's first visit in six years, as Beijing seeks to counter growing US influence with the communist nation.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/chinas-xi-visits-vietnam-in-bid-to-counter-us/article_439162ee-4a40-57b6-83c7-56b5ebff3851.html">https://www.postguam.com/news/national/chinas-xi-visits-vietnam-in-bid-to-counter-us/article_439162ee-4a40-57b6-83c7-56b5ebff3851.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/chinas-xi-visits-vietnam-in-bid-to-counter-us/article_439162ee-4a40-57b6-83c7-56b5ebff3851.html">Save to Pocket</a>
+</span>
+
+---
+
+## 5th suspect facing charges in Susuico murder investigation
+
+date: 2023-12-12, from: The Guam Daily Post
+
+A fifth individual is now facing charges in connection to the death of Jason Susuico earlier this year.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/5th-suspect-facing-charges-in-susuico-murder-investigation/article_198d0592-9898-11ee-bf83-b77a77119722.html">https://www.postguam.com/news/local/5th-suspect-facing-charges-in-susuico-murder-investigation/article_198d0592-9898-11ee-bf83-b77a77119722.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/5th-suspect-facing-charges-in-susuico-murder-investigation/article_198d0592-9898-11ee-bf83-b77a77119722.html">Save to Pocket</a>
+</span>
+
+---
+
+## Ex-officer's termination appeal waits on criminal proceeding
+
+date: 2023-12-12, from: The Guam Daily Post
+
+A former police officer terminated after an alleged altercation in July has appealed his case at the Civil Service Commission, but those proceedings will have to wait until pending criminal matters are completed at the Superior Court of Guam.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/ex-officers-termination-appeal-waits-on-criminal-proceeding/article_c067b590-97f5-11ee-b2a7-0788207b72ba.html">https://www.postguam.com/news/local/ex-officers-termination-appeal-waits-on-criminal-proceeding/article_c067b590-97f5-11ee-b2a7-0788207b72ba.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/ex-officers-termination-appeal-waits-on-criminal-proceeding/article_c067b590-97f5-11ee-b2a7-0788207b72ba.html">Save to Pocket</a>
+</span>
+
+---
+
+## 721st Army Band fills DFS with holiday melodies
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Santa runs across the DFS T-Galleria, on his way to play the drums, leaving one band and joining another outside the front of the mall for the tourists along Tumon Bay.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/721st-army-band-fills-dfs-with-holiday-melodies/article_c416d7de-97cd-11ee-a95e-3b83e3827830.html">https://www.postguam.com/news/local/721st-army-band-fills-dfs-with-holiday-melodies/article_c416d7de-97cd-11ee-a95e-3b83e3827830.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/721st-army-band-fills-dfs-with-holiday-melodies/article_c416d7de-97cd-11ee-a95e-3b83e3827830.html">Save to Pocket</a>
+</span>
+
+---
+
+## Man sleeping at a bus stop near school accused of having meth
+
+date: 2023-12-12, from: The Guam Daily Post
+
+A man was allegedly found with methamphetamine at a bus stop near a school in Sinajana.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/man-sleeping-at-a-bus-stop-near-school-accused-of-having-meth/article_c6da306c-97e4-11ee-be4b-6747336aabbe.html">https://www.postguam.com/news/local/man-sleeping-at-a-bus-stop-near-school-accused-of-having-meth/article_c6da306c-97e4-11ee-be4b-6747336aabbe.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/man-sleeping-at-a-bus-stop-near-school-accused-of-having-meth/article_c6da306c-97e4-11ee-be4b-6747336aabbe.html">Save to Pocket</a>
+</span>
+
+---
+
+## UOG awarded $5M to work with growers on sustainable farming
+
+date: 2023-12-12, from: The Guam Daily Post
+
+The U.S. Department of Agriculture awarded $5 million to the University of Guam to work with forestry managers and farmers to produce more eco-friendly and sustainable materials and practices, the university announced in a press release.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/uog-awarded-5m-to-work-with-growers-on-sustainable-farming/article_528105a0-97c7-11ee-9709-3f57c752b2fd.html">https://www.postguam.com/news/local/uog-awarded-5m-to-work-with-growers-on-sustainable-farming/article_528105a0-97c7-11ee-9709-3f57c752b2fd.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/uog-awarded-5m-to-work-with-growers-on-sustainable-farming/article_528105a0-97c7-11ee-9709-3f57c752b2fd.html">Save to Pocket</a>
+</span>
+
+---
+
+## Adelup says it will continue to seek relief on H-2B issue
+
+date: 2023-12-12, from: The Guam Daily Post
+
+With the extension to Guam's H2-B limit exemption within the compromise version of the fiscal year 2024 National Defense Authorization Act, the governor's administration stated over the weekend that it will continue to find solutions to restrictions on bringing foreign…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/adelup-says-it-will-continue-to-seek-relief-on-h-2b-issue/article_ab09f9f4-97b1-11ee-91db-7f19c48a702b.html">https://www.postguam.com/news/local/adelup-says-it-will-continue-to-seek-relief-on-h-2b-issue/article_ab09f9f4-97b1-11ee-91db-7f19c48a702b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/adelup-says-it-will-continue-to-seek-relief-on-h-2b-issue/article_ab09f9f4-97b1-11ee-91db-7f19c48a702b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Detective: Defendant admitted to punching victim in fatal attack
+
+date: 2023-12-12, from: The Guam Daily Post
+
+A man on trial for murder admitted to police he punched a man multiple times in a fight. The victim died days later.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/detective-defendant-admitted-to-punching-victim-in-fatal-attack/article_a7a8b614-988e-11ee-8dcb-ab17c53e2c0e.html">https://www.postguam.com/news/local/detective-defendant-admitted-to-punching-victim-in-fatal-attack/article_a7a8b614-988e-11ee-8dcb-ab17c53e2c0e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/detective-defendant-admitted-to-punching-victim-in-fatal-attack/article_a7a8b614-988e-11ee-8dcb-ab17c53e2c0e.html">Save to Pocket</a>
+</span>
+
+---
+
+## $3.2B could come to Guam in NDAA, still a chance for RECA
+
+date: 2023-12-12, from: The Guam Daily Post
+
+More than $3.2 billion in defense authorizations will be heading to Guam through the fiscal 2024 National Defense Authorization Act, should it be signed into law, according to Guam Del. James Moylan.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/3-2b-could-come-to-guam-in-ndaa-still-a-chance-for-reca/article_ca1a5e7c-988f-11ee-bfb0-db0354e0cb58.html">https://www.postguam.com/news/local/3-2b-could-come-to-guam-in-ndaa-still-a-chance-for-reca/article_ca1a5e7c-988f-11ee-bfb0-db0354e0cb58.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/3-2b-could-come-to-guam-in-ndaa-still-a-chance-for-reca/article_ca1a5e7c-988f-11ee-bfb0-db0354e0cb58.html">Save to Pocket</a>
+</span>
+
+---
+
+## ‘I'm dying’: Drug dealing suspect tells police he did 'too much' meth
+
+date: 2023-12-12, from: The Guam Daily Post
+
+A man suspected of having methamphetamine with intent to deliver was arrested and charged after allegedly "swerving" his car toward a Guam Police Department vehicle.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/im-dying-drug-dealing-suspect-tells-police-he-did-too-much-meth/article_f7c0d612-97e5-11ee-b28e-a7db179620bc.html">https://www.postguam.com/news/local/im-dying-drug-dealing-suspect-tells-police-he-did-too-much-meth/article_f7c0d612-97e5-11ee-b28e-a7db179620bc.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/im-dying-drug-dealing-suspect-tells-police-he-did-too-much-meth/article_f7c0d612-97e5-11ee-b28e-a7db179620bc.html">Save to Pocket</a>
+</span>
+
+---
+
+## South Africa pop sensation Zahara dies aged 36
+
+date: 2023-12-12, from: The Guam Daily Post
+
+The family of award-winning singer Zahara on Tuesday led tributes to the Afro-pop star who has died at the age of 36.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/south-africa-pop-sensation-zahara-dies-aged-36/article_c4fb1ecb-3724-5348-8a2b-1d5a7681877c.html">https://www.postguam.com/news/national/south-africa-pop-sensation-zahara-dies-aged-36/article_c4fb1ecb-3724-5348-8a2b-1d5a7681877c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/south-africa-pop-sensation-zahara-dies-aged-36/article_c4fb1ecb-3724-5348-8a2b-1d5a7681877c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Israel battles Hamas as UN labels Gaza 'hell on earth'
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Israeli forces battled Hamas militants and bombed more targets in the devastated Gaza Strip on Tuesday as the UN General Assembly was due to vote on a new demand for a ceasefire.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/israel-battles-hamas-as-un-labels-gaza-hell-on-earth/article_082dc29d-64f1-5bc0-9c64-e98737eebf04.html">https://www.postguam.com/news/national/israel-battles-hamas-as-un-labels-gaza-hell-on-earth/article_082dc29d-64f1-5bc0-9c64-e98737eebf04.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/israel-battles-hamas-as-un-labels-gaza-hell-on-earth/article_082dc29d-64f1-5bc0-9c64-e98737eebf04.html">Save to Pocket</a>
+</span>
+
+---
+
+## Zelensky makes plea for US aid as Russia claims advances
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Ukrainian President Volodymyr Zelensky will press Tuesday for more US military aid to battle Russia, which said any funding would be a "fiasco" and claimed its forces were advancing on the front.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/zelensky-makes-plea-for-us-aid-as-russia-claims-advances/article_77874d7a-3da5-532b-8899-c9076be0f95e.html">https://www.postguam.com/news/national/zelensky-makes-plea-for-us-aid-as-russia-claims-advances/article_77874d7a-3da5-532b-8899-c9076be0f95e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/zelensky-makes-plea-for-us-aid-as-russia-claims-advances/article_77874d7a-3da5-532b-8899-c9076be0f95e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Campaigners 'losing trust in COP', says leading activist
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Environmental campaigners are losing faith in the UN-led COP climate process after signs that a phase-out of fossil fuels may not be agreed in Dubai, a leading activist said on Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/campaigners-losing-trust-in-cop-says-leading-activist/article_5ce7fcf3-863a-5012-9771-6f31706640c4.html">https://www.postguam.com/news/national/campaigners-losing-trust-in-cop-says-leading-activist/article_5ce7fcf3-863a-5012-9771-6f31706640c4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/campaigners-losing-trust-in-cop-says-leading-activist/article_5ce7fcf3-863a-5012-9771-6f31706640c4.html">Save to Pocket</a>
+</span>
+
+---
+
+## UK PM Sunak faces leadership test over Rwanda plan
+
+date: 2023-12-12, from: The Guam Daily Post
+
+UK Prime Minister Rishi Sunak on Tuesday seeks to avoid a humiliating defeat for his latest plans to send migrants to Rwanda that have split his ruling Conservative party.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/uk-pm-sunak-faces-leadership-test-over-rwanda-plan/article_07305bcc-2604-53c7-bea1-db7d199e4740.html">https://www.postguam.com/news/national/uk-pm-sunak-faces-leadership-test-over-rwanda-plan/article_07305bcc-2604-53c7-bea1-db7d199e4740.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/uk-pm-sunak-faces-leadership-test-over-rwanda-plan/article_07305bcc-2604-53c7-bea1-db7d199e4740.html">Save to Pocket</a>
+</span>
+
+---
+
+## Small business owners pessimistic about the economy, poll shows
+
+date: 2023-12-12, from: The Guam Daily Post
+
+(The Center Square) – Small business owners are pessimistic about the future of the economy, according to a new poll.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/small-business-owners-pessimistic-about-the-economy-poll-shows/article_3c9416c9-5ee4-508c-b60c-0fe0c9e6a30f.html">https://www.postguam.com/news/national/small-business-owners-pessimistic-about-the-economy-poll-shows/article_3c9416c9-5ee4-508c-b60c-0fe0c9e6a30f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/small-business-owners-pessimistic-about-the-economy-poll-shows/article_3c9416c9-5ee4-508c-b60c-0fe0c9e6a30f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Poland's Tusk calls for 'stronger' EU, Ukraine support
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Donald Tusk on Tuesday urged firm support for war-torn Ukraine and called for a stronger EU, as the Polish premier-designate previewed his priorities ahead of lawmakers' vote on his proposed government.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/polands-tusk-calls-for-stronger-eu-ukraine-support/article_b6dd3f71-02f7-5e74-a8b7-4128993abddd.html">https://www.postguam.com/news/national/polands-tusk-calls-for-stronger-eu-ukraine-support/article_b6dd3f71-02f7-5e74-a8b7-4128993abddd.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/polands-tusk-calls-for-stronger-eu-ukraine-support/article_b6dd3f71-02f7-5e74-a8b7-4128993abddd.html">Save to Pocket</a>
+</span>
+
+---
+
+## 'New era': Berlin-Paris sleeper train completes maiden trip
+
+date: 2023-12-12, from: The Guam Daily Post
+
+A new sleeper service between Berlin and Paris arrived in the French capital on Tuesday, reflecting a growing drive for night trains as an alternative to short-haul flights.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/new-era-berlin-paris-sleeper-train-completes-maiden-trip/article_26434487-5f78-5f75-a718-2467a680c0af.html">https://www.postguam.com/news/national/new-era-berlin-paris-sleeper-train-completes-maiden-trip/article_26434487-5f78-5f75-a718-2467a680c0af.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/new-era-berlin-paris-sleeper-train-completes-maiden-trip/article_26434487-5f78-5f75-a718-2467a680c0af.html">Save to Pocket</a>
+</span>
+
+---
+
+## Turkish football plunges into crisis after referee attack
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Turkey's football plunged into all-out crisis Tuesday following an on the pitch attack on a referee by a club president who was mentioned as a possible candidate for mayor of Ankara.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/turkish-football-plunges-into-crisis-after-referee-attack/article_f0193c54-34d4-52fd-a58e-fd948241fca8.html">https://www.postguam.com/news/national/turkish-football-plunges-into-crisis-after-referee-attack/article_f0193c54-34d4-52fd-a58e-fd948241fca8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/turkish-football-plunges-into-crisis-after-referee-attack/article_f0193c54-34d4-52fd-a58e-fd948241fca8.html">Save to Pocket</a>
+</span>
+
+---
+
+## Renault sells Nissan stake as part of rebalanced alliance
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Renault said Tuesday that it was selling to Nissan part of the stake it owns in the Japanese automaker as the two companies rebalance their alliance.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/renault-sells-nissan-stake-as-part-of-rebalanced-alliance/article_f158fb66-92b3-5a9b-88be-7229e77d25a8.html">https://www.postguam.com/news/national/renault-sells-nissan-stake-as-part-of-rebalanced-alliance/article_f158fb66-92b3-5a9b-88be-7229e77d25a8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/renault-sells-nissan-stake-as-part-of-rebalanced-alliance/article_f158fb66-92b3-5a9b-88be-7229e77d25a8.html">Save to Pocket</a>
+</span>
+
+---
+
+## CSPP Investment Fund Shrinks as Pension Shortfall Widens
+
+date: 2023-12-12, from: Island Times
+
+<p>Palau&#8217;s Civil Service Pension Plan (CSPP) is facing a deepening financial crisis, with its investment fund declining and a growing gap between contributions and payouts. A recent report from the plan&#8217;s administrator revealed a $1.36 million drop in the fund, now standing at $22.27 million. Despite a slight increase in revenue from the Pristine Paradise [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/cspp-investment-fund-shrinks-as-pension-shortfall-widens/">CSPP Investment Fund Shrinks as Pension Shortfall Widens</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/cspp-investment-fund-shrinks-as-pension-shortfall-widens/">https://islandtimes.org/cspp-investment-fund-shrinks-as-pension-shortfall-widens/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/cspp-investment-fund-shrinks-as-pension-shortfall-widens/">Save to Pocket</a>
+</span>
+
+---
+
+## UN Conference in Atlanta to Develop Anti-Corruption Vision
+
+date: 2023-12-12, from: Island Times
+
+<figure><img width="1024" height="605" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Pacific-journalists-training-on-anti-corruption-and-investigative-journalism-at-52thPIF-in-Cook-Islands.jpg?fit=1024%2C605&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Pacific-journalists-training-on-anti-corruption-and-investigative-journalism-at-52thPIF-in-Cook-Islands.jpg?w=1080&amp;ssl=1 1080w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Pacific-journalists-training-on-anti-corruption-and-investigative-journalism-at-52thPIF-in-Cook-Islands.jpg?resize=300%2C177&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Pacific-journalists-training-on-anti-corruption-and-investigative-journalism-at-52thPIF-in-Cook-Islands.jpg?resize=1024%2C605&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Pacific-journalists-training-on-anti-corruption-and-investigative-journalism-at-52thPIF-in-Cook-Islands.jpg?resize=768%2C454&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Pacific-journalists-training-on-anti-corruption-and-investigative-journalism-at-52thPIF-in-Cook-Islands.jpg?resize=400%2C236&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Pacific-journalists-training-on-anti-corruption-and-investigative-journalism-at-52thPIF-in-Cook-Islands.jpg?fit=1024%2C605&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67605" data-permalink="https://islandtimes.org/un-conference-in-atlanta-to-develop-anti-corruption-vision/pacific-journalists-training-on-anti-corruption-and-investigative-journalism-at-52thpif-in-cook-islands/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Pacific-journalists-training-on-anti-corruption-and-investigative-journalism-at-52thPIF-in-Cook-Islands.jpg?fit=1080%2C638&amp;ssl=1" data-orig-size="1080,638" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Pacific journalists training on anti-corruption and investigative journalism at 52thPIF in Cook Islands" data-image-description="" data-image-caption="&lt;p&gt;Pacific journalists training on anti-corruption and investigative journalism at 52thPIF in Cook Islands&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Pacific-journalists-training-on-anti-corruption-and-investigative-journalism-at-52thPIF-in-Cook-Islands.jpg?fit=300%2C177&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Pacific-journalists-training-on-anti-corruption-and-investigative-journalism-at-52thPIF-in-Cook-Islands.jpg?fit=780%2C461&amp;ssl=1" /></figure>
+<p>ATLANTA (AP) &#8211; The tenth session of the Conference of the States Parties to the United Nations Convention against Corruption (CoSP10) is underway in Atlanta, aiming to build international cooperation and develop a common vision for future anti-corruption efforts. CoSP10 is a major gathering of member states committed to the United Nations Convention against Corruption [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/un-conference-in-atlanta-to-develop-anti-corruption-vision/">UN Conference in Atlanta to Develop Anti-Corruption Vision</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/un-conference-in-atlanta-to-develop-anti-corruption-vision/">https://islandtimes.org/un-conference-in-atlanta-to-develop-anti-corruption-vision/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/un-conference-in-atlanta-to-develop-anti-corruption-vision/">Save to Pocket</a>
+</span>
+
+---
+
+## Nauru Airlines: A Boon for Micronesian Trade & Travel
+
+date: 2023-12-12, from: Island Times
+
+<figure><img width="1024" height="577" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?fit=1024%2C577&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?resize=1024%2C577&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?resize=1536%2C865&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?resize=2048%2C1153&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?resize=1200%2C676&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?resize=1568%2C883&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?fit=1024%2C577&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67603" data-permalink="https://islandtimes.org/nauru-airlines-a-boon-for-micronesian-trade-travel/fsm-vice-president/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?fit=2560%2C1442&amp;ssl=1" data-orig-size="2560,1442" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1701443437&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.23&quot;,&quot;iso&quot;:&quot;250&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="FSM Vice President" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/FSM-Vice-President-scaled.jpg?fit=780%2C440&amp;ssl=1" /></figure>
+<p>Vice President Aren Palik of the Federated States of Micronesia said that the Air Nauru Island Hopper Flight, connecting Kiribati, Nauru, Marshall Islands, Pohnpei and Palau brings new opportunities for the Micronesian countries, especially trade and tourism. Joining the President of Nauru David Ranibok Adeang, Nauru Speaker Stephen, and other officials from Nauru, FSM Vice [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/nauru-airlines-a-boon-for-micronesian-trade-travel/">Nauru Airlines: A Boon for Micronesian Trade &amp; Travel</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/nauru-airlines-a-boon-for-micronesian-trade-travel/">https://islandtimes.org/nauru-airlines-a-boon-for-micronesian-trade-travel/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/nauru-airlines-a-boon-for-micronesian-trade-travel/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Approves Accession to the BBNJ Treaty
+
+date: 2023-12-12, from: Island Times
+
+<p>Palau Takes a Stand for Ocean Conservation A House Joint Resolution No. 11-59-12S adopted by Olbiil Era Kelulau approves Palau’s accession to the United Nations’s Biological Biodiversity beyond National Jurisdiction (BBNJ), a legally binding instrument to protect and conserve marine biodiversity beyond the national jurisdiction. After nearly 20 years of work, the BBNJ Treaty was [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-approves-accession-to-the-bbnj-treaty/">Palau Approves Accession to the BBNJ Treaty</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-approves-accession-to-the-bbnj-treaty/">https://islandtimes.org/palau-approves-accession-to-the-bbnj-treaty/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-approves-accession-to-the-bbnj-treaty/">Save to Pocket</a>
+</span>
+
+---
+
+## Whipps asks Congress for money to pay Iyar family’s wrongful death claim
+
+date: 2023-12-12, from: Island Times
+
+<p>President Surangel Whipps Jr. asked Congress last month for appropriation to settle a wrongful death claim of the family of the late Takisang Iyar. Iyar was a young inmate who was stabbed in the neck by another inmate at Koror jail during an altercation where both were seen chasing each other earlier this year. According [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-asks-congress-for-money-to-pay-iyar-familys-wrongful-death-claim/">Whipps asks Congress for money to pay Iyar family&#8217;s wrongful death claim</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/whipps-asks-congress-for-money-to-pay-iyar-familys-wrongful-death-claim/">https://islandtimes.org/whipps-asks-congress-for-money-to-pay-iyar-familys-wrongful-death-claim/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/whipps-asks-congress-for-money-to-pay-iyar-familys-wrongful-death-claim/">Save to Pocket</a>
+</span>
+
+---
+
+## Japan’s large Pacific bluefin tuna catch limit to be raised in 2024
+
+date: 2023-12-12, from: Island Times
+
+<p>RAROTONGA, 11 DECEMBER 2023 (PACNEWS) &#8212; An international commission responsible for managing Pacific bluefin tuna stocks has decided to allow Japan to effectively increase its catch limit for larger sizes in 2024, reflecting a recovery in their population, the Japanese Fisheries Agency said Sunday. The country, known as a major tuna consumer, can currently transfer [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japans-large-pacific-bluefin-tuna-catch-limit-to-be-raised-in-2024/">Japan&#8217;s large Pacific bluefin tuna catch limit to be raised in 2024</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/japans-large-pacific-bluefin-tuna-catch-limit-to-be-raised-in-2024/">https://islandtimes.org/japans-large-pacific-bluefin-tuna-catch-limit-to-be-raised-in-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/japans-large-pacific-bluefin-tuna-catch-limit-to-be-raised-in-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Illuminating Resilience in Palau’s Battle Against Gender-Based Violence
+
+date: 2023-12-12, from: Island Times
+
+<p>By Kambes Kesolei In the global context, gender-based violence (GBV) persists as a formidable public health crisis, affecting women and girls universally. Despite age, race, or socioeconomic status, 31% of women aged 15-49 in Palau experience intimate partner violence, surpassing the global average (World Bank, 2023). Addressing this, Palau enacted the Palau Family Protection Act [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/illuminating-resilience-in-palaus-battle-against-gender-based-violence/">Illuminating Resilience in Palau&#8217;s Battle Against Gender-Based Violence</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/illuminating-resilience-in-palaus-battle-against-gender-based-violence/">https://islandtimes.org/illuminating-resilience-in-palaus-battle-against-gender-based-violence/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/illuminating-resilience-in-palaus-battle-against-gender-based-violence/">Save to Pocket</a>
+</span>
+
+---
+
+## STOICISM
+
+date: 2023-12-12, from: Island Times
+
+<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/WC1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/WC1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/WC1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/WC1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/WC1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/WC1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/WC1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67592" data-permalink="https://islandtimes.org/stoicism/wc1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/WC1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/WC1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/WC1.jpg?fit=524%2C522&amp;ssl=1" /></figure>
+<p>Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth. &#8212; MARCUS AURELIUS, ROMAN EMPEROR AND PHILOSOPHER When I was a child my mother told me a fable about a father and the son and their donkey&#160; that made me understand what being virtuous is. I was [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/stoicism/">STOICISM</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/stoicism/">https://islandtimes.org/stoicism/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/stoicism/">Save to Pocket</a>
+</span>
+
+---
+
+## PALAU NATIONAL OLYMPIC COMMITTEE
+
+date: 2023-12-12, from: Island Times
+
+<p>December 8, 2023 Editor Tia Belau News Koror, Palau Dear Editor: I write to express my deep disappointment with Tia Belau&#8217;s negative December 4th article on Team Palau&#8217;s participation in Pacific Games 2023. While winning medals is one goal of athletic competition, it should not be the only or even the ultimate benchmark for success. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-national-olympic-committee/">PALAU NATIONAL OLYMPIC COMMITTEE</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-national-olympic-committee/">https://islandtimes.org/palau-national-olympic-committee/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-national-olympic-committee/">Save to Pocket</a>
+</span>
+
+---
+
+## Marshall Islands climate envoy Tina Stege stands firm against weakening of SIDS’s voice at COP28
+
+date: 2023-12-12, from: Island Times
+
+<p>By Pita Ligaiula at COP28 in Dubai, UAE DUBAI, 11 DECEMBER 2023 (PACNEWS) &#8212; The climate envoy of the Republic of the Marshall Islands (RMI) Tina Stege, Saturday expressed grave concerns about attempts by certain countries to weaken the emphasis on Small Island Developing States (SIDS) at the ongoing COP28 climate change negotiations in Dubai. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/marshall-islands-climate-envoy-tina-stege-stands-firm-against-weakening-of-sidss-voice-at-cop28/">Marshall Islands climate envoy Tina Stege stands firm against weakening of SIDS’s voice at COP28</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/marshall-islands-climate-envoy-tina-stege-stands-firm-against-weakening-of-sidss-voice-at-cop28/">https://islandtimes.org/marshall-islands-climate-envoy-tina-stege-stands-firm-against-weakening-of-sidss-voice-at-cop28/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/marshall-islands-climate-envoy-tina-stege-stands-firm-against-weakening-of-sidss-voice-at-cop28/">Save to Pocket</a>
+</span>
+
+---
+
+## Hopes high for ambitious, on-time agreement: PSIDS Climate negotiator Matsutaro
+
+date: 2023-12-12, from: Island Times
+
+<p>By Pita Ligaiula at COP28 in Dubai DUBAI, 11 DECEMBER 2023 (PACNEWS) &#8212; Palau’s climate change negotiator and chair of the Pacific Small Island Developing States (PSIDS) Xavier Matsutaro, Sunday offered a fair assessment of the ongoing COP28 negotiations as the conference approaches its final days in Dubai. Matsutaro described the current atmosphere as both [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/hopes-high-for-ambitious-on-time-agreement-psids-climate-negotiator-matsutaro/">Hopes high for ambitious, on-time agreement: PSIDS Climate negotiator Matsutaro</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/hopes-high-for-ambitious-on-time-agreement-psids-climate-negotiator-matsutaro/">https://islandtimes.org/hopes-high-for-ambitious-on-time-agreement-psids-climate-negotiator-matsutaro/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/hopes-high-for-ambitious-on-time-agreement-psids-climate-negotiator-matsutaro/">Save to Pocket</a>
+</span>
+
+---
+
+## Philippines says Chinese coast guard used water cannons against its vessels for a second day
+
+date: 2023-12-12, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Philippines-says-Chinese.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Philippines-says-Chinese.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Philippines-says-Chinese.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Philippines-says-Chinese.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Philippines-says-Chinese.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Philippines-says-Chinese.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Philippines-says-Chinese.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Philippines-says-Chinese.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67582" data-permalink="https://islandtimes.org/philippines-says-chinese-coast-guard-used-water-cannons-against-its-vessels-for-a-second-day/philippines-south-china-sea-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Philippines-says-Chinese.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;In this handout photo provided by the Philippine Coast Guard, a Chinese Coast Guard ship uses water cannons on Philippine navy-operated supply boat M\/L Kalayaan as it approaches Second Thomas Shoal, locally known as Ayungin Shoal, in the disputed South China Sea on Sunday Dec. 10, 2023. The Chinese coast guard targeted Philippine vessels with water cannon blasts Sunday and rammed one of them, causing damage and endangering Filipino crew members off a disputed shoal in the South China Sea, just a day after similar hostilities at another contested shoal, Philippine officials said. (Philippine Coast Guard via AP)&quot;,&quot;created_timestamp&quot;:&quot;1702210454&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Philippines South China Sea&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Philippines South China Sea" data-image-description="" data-image-caption="&lt;p&gt;In this handout photo provided by the Philippine Coast Guard, a Chinese Coast Guard ship uses water cannons on Philippine navy-operated supply boat M/L Kalayaan as it approaches Second Thomas Shoal, locally known as Ayungin Shoal, in the disputed South China Sea on Sunday Dec. 10, 2023. The Chinese coast guard targeted Philippine vessels with water cannon blasts Sunday and rammed one of them, causing damage and endangering Filipino crew members off a disputed shoal in the South China Sea, just a day after similar hostilities at another contested shoal, Philippine officials said. (Philippine Coast Guard via AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Philippines-says-Chinese.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Philippines-says-Chinese.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By JIM GOMEZ Associated Press MANILA, Philippines (AP) — The Chinese coast guard targeted Philippine vessels with water cannon blasts Sunday and rammed one of them, causing damage and endangering Filipino crew members off a disputed shoal in the South China Sea, just&#160;a day after similar hostilities&#160;at another contested shoal, Philippine officials said. The Philippines [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/philippines-says-chinese-coast-guard-used-water-cannons-against-its-vessels-for-a-second-day/">Philippines says Chinese coast guard used water cannons against its vessels for a second day</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/philippines-says-chinese-coast-guard-used-water-cannons-against-its-vessels-for-a-second-day/">https://islandtimes.org/philippines-says-chinese-coast-guard-used-water-cannons-against-its-vessels-for-a-second-day/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/philippines-says-chinese-coast-guard-used-water-cannons-against-its-vessels-for-a-second-day/">Save to Pocket</a>
+</span>
+
+---
+
+## Anthony Davis leads Lakers to NBA In-Season Tournament title, 123-109 over Pacers
+
+date: 2023-12-12, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Anthony-Davis.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Anthony-Davis.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Anthony-Davis.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Anthony-Davis.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Anthony-Davis.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Anthony-Davis.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67580" data-permalink="https://islandtimes.org/anthony-davis-leads-lakers-to-nba-in-season-tournament-title-123-109-over-pacers/pacers-lakers-basketball/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Anthony-Davis.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;Canon EOS-1D X Mark III&quot;,&quot;caption&quot;:&quot;Indiana Pacers center Myles Turner (33) shoots over Los Angeles Lakers forward Anthony Davis (3) during the first half of the championship game in the NBA basketball In-Season Tournament Saturday, Dec. 9, 2023, in Las Vegas. (AP Photo\/Ian Maule)&quot;,&quot;created_timestamp&quot;:&quot;1702144532&quot;,&quot;copyright&quot;:&quot;Copyright 2023 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;6400&quot;,&quot;shutter_speed&quot;:&quot;0.0008&quot;,&quot;title&quot;:&quot;Pacers Lakers Basketball&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Pacers Lakers Basketball" data-image-description="" data-image-caption="&lt;p&gt;Indiana Pacers center Myles Turner (33) shoots over Los Angeles Lakers forward Anthony Davis (3) during the first half of the championship game in the NBA basketball In-Season Tournament Saturday, Dec. 9, 2023, in Las Vegas. (AP Photo/Ian Maule)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Anthony-Davis.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Anthony-Davis.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By MARK ANDERSON AP Sports Writer LAS VEGAS (AP) — As Commissioner Adam Silver prepared to hand LeBron James the MVP trophy of the inaugural NBA In-Season Tournament, he cautioned that “it doesn&#8217;t come with a franchise.” James&#160;bent over in laughter, but he has been serious about wanting to own an NBA expansion team in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/anthony-davis-leads-lakers-to-nba-in-season-tournament-title-123-109-over-pacers/">Anthony Davis leads Lakers to NBA In-Season Tournament title, 123-109 over Pacers</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/anthony-davis-leads-lakers-to-nba-in-season-tournament-title-123-109-over-pacers/">https://islandtimes.org/anthony-davis-leads-lakers-to-nba-in-season-tournament-title-123-109-over-pacers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/anthony-davis-leads-lakers-to-nba-in-season-tournament-title-123-109-over-pacers/">Save to Pocket</a>
+</span>
+
+---
+
+## South Africa to build new nuclear plants: govt
+
+date: 2023-12-12, from: The Guam Daily Post
+
+South Africa, battling crippling power blackouts, plans to add 2,500 megawatts of new nuclear generation, the government announced Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/south-africa-to-build-new-nuclear-plants-govt/article_29f947b7-6f86-5e08-ac3c-2e2ee4e1870a.html">https://www.postguam.com/news/national/south-africa-to-build-new-nuclear-plants-govt/article_29f947b7-6f86-5e08-ac3c-2e2ee4e1870a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/south-africa-to-build-new-nuclear-plants-govt/article_29f947b7-6f86-5e08-ac3c-2e2ee4e1870a.html">Save to Pocket</a>
+</span>
+
+---
+
+## The Dodgers gave Shohei Ohtani $700 million to hit and pitch — but also because he can sell
+
+date: 2023-12-12, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/The-Dodgers.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/The-Dodgers.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/The-Dodgers.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/The-Dodgers.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/The-Dodgers.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/The-Dodgers.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67578" data-permalink="https://islandtimes.org/the-dodgers-gave-shohei-ohtani-700-million-to-hit-and-pitch-but-also-because-he-can-sell/japan-baseball-dodgers-ohtani-reax/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/The-Dodgers.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;ILCE-7C&quot;,&quot;caption&quot;:&quot;A person reads an extra edition of the Yomiuri Shimbun newspaper reporting on Shohei Ohtani to move to the Los Angeles Dodgers Sunday, Dec. 10, 2023, in Tokyo. Ohtani agreed to a record $700 million, 10-year contract with the Dodgers.  (AP Photo\/Eugene Hoshiko)&quot;,&quot;created_timestamp&quot;:&quot;1702205861&quot;,&quot;copyright&quot;:&quot;Copyright 2023 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;78&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.0003125&quot;,&quot;title&quot;:&quot;Japan Baseball Dodgers Ohtani Reax&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Japan Baseball Dodgers Ohtani Reax" data-image-description="" data-image-caption="&lt;p&gt;A person reads an extra edition of the Yomiuri Shimbun newspaper reporting on Shohei Ohtani to move to the Los Angeles Dodgers Sunday, Dec. 10, 2023, in Tokyo. Ohtani agreed to a record $700 million, 10-year contract with the Dodgers.  (AP Photo/Eugene Hoshiko)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/The-Dodgers.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/The-Dodgers.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By DAVID BRANDT AP Baseball Writer PHOENIX (AP) — Shohei Ohtani&#8217;s&#160;jaw-dropping $700 million, 10-year deal&#160;with the Los Angeles Dodgers has some similarities to other contracts for the&#160;world&#8217;s biggest sports stars, including soccer icons Lionel Messi and Cristiano Ronaldo, along with NFL quarterback Patrick Mahomes. In terms of his marketability, experts point to another name. The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-dodgers-gave-shohei-ohtani-700-million-to-hit-and-pitch-but-also-because-he-can-sell/">The Dodgers gave Shohei Ohtani $700 million to hit and pitch — but also because he can sell</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/the-dodgers-gave-shohei-ohtani-700-million-to-hit-and-pitch-but-also-because-he-can-sell/">https://islandtimes.org/the-dodgers-gave-shohei-ohtani-700-million-to-hit-and-pitch-but-also-because-he-can-sell/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/the-dodgers-gave-shohei-ohtani-700-million-to-hit-and-pitch-but-also-because-he-can-sell/">Save to Pocket</a>
+</span>
+
+---
+
+## Myanmar overtakes Afghanistan as world's biggest opium producer: UN
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Myanmar became the world's biggest producer of opium in 2023, overtaking Afghanistan after the Taliban government's crackdown on the trade, according to a United Nations report released on Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/myanmar-overtakes-afghanistan-as-worlds-biggest-opium-producer-un/article_bc621ef8-425f-5778-b97a-ce96461bf9d9.html">https://www.postguam.com/news/national/myanmar-overtakes-afghanistan-as-worlds-biggest-opium-producer-un/article_bc621ef8-425f-5778-b97a-ce96461bf9d9.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/myanmar-overtakes-afghanistan-as-worlds-biggest-opium-producer-un/article_bc621ef8-425f-5778-b97a-ce96461bf9d9.html">Save to Pocket</a>
+</span>
+
+---
+
+## Chinese laud 'great' Gao Yaojie, dissident doctor and AIDS whistleblower
+
+date: 2023-12-12, from: The Guam Daily Post
+
+A dissident doctor who became China's most outspoken AIDS campaigner was praised in her home country on Tuesday, days after she died in self-exile in the United States at age 95.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/chinese-laud-great-gao-yaojie-dissident-doctor-and-aids-whistleblower/article_996fddd6-8cc4-5735-a72e-e3925da3d8f5.html">https://www.postguam.com/news/national/chinese-laud-great-gao-yaojie-dissident-doctor-and-aids-whistleblower/article_996fddd6-8cc4-5735-a72e-e3925da3d8f5.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/chinese-laud-great-gao-yaojie-dissident-doctor-and-aids-whistleblower/article_996fddd6-8cc4-5735-a72e-e3925da3d8f5.html">Save to Pocket</a>
+</span>
+
+---
+
+## Suspended sentences in Japan army sexual assault case
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Three Japanese ex-soldiers were found guilty Tuesday but given only suspended jail sentences for sexually assaulting a female colleague who won praise but also online hate for going public with her accusations.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/suspended-sentences-in-japan-army-sexual-assault-case/article_555c78b1-3131-537e-bbea-579a6e247d36.html">https://www.postguam.com/news/national/suspended-sentences-in-japan-army-sexual-assault-case/article_555c78b1-3131-537e-bbea-579a6e247d36.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/suspended-sentences-in-japan-army-sexual-assault-case/article_555c78b1-3131-537e-bbea-579a6e247d36.html">Save to Pocket</a>
+</span>
+
+---
+
+## Fleeing Israel too, Ukrainian Jews seek refuge in Hungary
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Rabbi Mendel Moscowitz from the northeastern city of Kharkiv never imagined his family would be forced to flee a second war after leaving Ukraine for Israel last year.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/fleeing-israel-too-ukrainian-jews-seek-refuge-in-hungary/article_7afeffbd-6ecf-5e5d-b3ee-4e834f645c79.html">https://www.postguam.com/news/national/fleeing-israel-too-ukrainian-jews-seek-refuge-in-hungary/article_7afeffbd-6ecf-5e5d-b3ee-4e834f645c79.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/fleeing-israel-too-ukrainian-jews-seek-refuge-in-hungary/article_7afeffbd-6ecf-5e5d-b3ee-4e834f645c79.html">Save to Pocket</a>
+</span>
+
+---
+
+## Table Mountain attacks highlight crime threat to S.Africa tourism
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Hikers hit the trail before dawn at South Africa's natural jewel Table Mountain, but instead of simply trekking its rugged landscape they were also demonstrating against a surge in attacks on walkers and tourists.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/table-mountain-attacks-highlight-crime-threat-to-s-africa-tourism/article_a6427c4e-d954-52d2-888f-bf6062b5c274.html">https://www.postguam.com/news/national/table-mountain-attacks-highlight-crime-threat-to-s-africa-tourism/article_a6427c4e-d954-52d2-888f-bf6062b5c274.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/table-mountain-attacks-highlight-crime-threat-to-s-africa-tourism/article_a6427c4e-d954-52d2-888f-bf6062b5c274.html">Save to Pocket</a>
+</span>
+
+---
+
+## Sex, death and madness on the night train from Tolstoy to Bond
+
+date: 2023-12-12, from: The Guam Daily Post
+
+The return of the sleeper train from Berlin to Paris is a reminder of the romance of railways that has long inspired writers, musicians and filmmakers.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/sex-death-and-madness-on-the-night-train-from-tolstoy-to-bond/article_828f9322-7633-5ecd-a050-9ed26f18144f.html">https://www.postguam.com/news/national/sex-death-and-madness-on-the-night-train-from-tolstoy-to-bond/article_828f9322-7633-5ecd-a050-9ed26f18144f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/sex-death-and-madness-on-the-night-train-from-tolstoy-to-bond/article_828f9322-7633-5ecd-a050-9ed26f18144f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Senegalese cinemas pay tribute to Sembene on 100th anniversary
+
+date: 2023-12-12, from: The Guam Daily Post
+
+The lights fade and the screen lights up, transporting Senegalese cinemagoers back in time to the world of Ousmane Sembene, who would have been 100 this year.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/senegalese-cinemas-pay-tribute-to-sembene-on-100th-anniversary/article_874b7470-18ac-530e-bfce-088b0b38d9ef.html">https://www.postguam.com/news/national/senegalese-cinemas-pay-tribute-to-sembene-on-100th-anniversary/article_874b7470-18ac-530e-bfce-088b0b38d9ef.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/senegalese-cinemas-pay-tribute-to-sembene-on-100th-anniversary/article_874b7470-18ac-530e-bfce-088b0b38d9ef.html">Save to Pocket</a>
+</span>
+
+---
+
+## The dangerous rise of 'medicalised' genital mutilation in Kenya
+
+date: 2023-12-12, from: The Guam Daily Post
+
+As Edinah Nyasuguta Omwenga fought for her life after developing complications during childbirth, she overheard doctors in the Kenyan hospital describe her condition as a textbook example of the damaging -- even deadly -- effects of genital mutilation.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/the-dangerous-rise-of-medicalised-genital-mutilation-in-kenya/article_a5c7b9eb-35e1-51cc-be0c-70c2f3767431.html">https://www.postguam.com/news/national/the-dangerous-rise-of-medicalised-genital-mutilation-in-kenya/article_a5c7b9eb-35e1-51cc-be0c-70c2f3767431.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/the-dangerous-rise-of-medicalised-genital-mutilation-in-kenya/article_a5c7b9eb-35e1-51cc-be0c-70c2f3767431.html">Save to Pocket</a>
+</span>
+
+---
+
+## Wolves sunk by Pelicans, Doncic dazzles for Mavs
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Zion Williamson erupted for 36 points as the New Orleans Pelicans exploited the absence of Anthony Edwards to upset the Minnesota Timberwolves 121-107 on Monday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/wolves-sunk-by-pelicans-doncic-dazzles-for-mavs/article_d5854d08-3ef5-56d3-80fc-03f42f7e3d23.html">https://www.postguam.com/news/national/wolves-sunk-by-pelicans-doncic-dazzles-for-mavs/article_d5854d08-3ef5-56d3-80fc-03f42f7e3d23.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/wolves-sunk-by-pelicans-doncic-dazzles-for-mavs/article_d5854d08-3ef5-56d3-80fc-03f42f7e3d23.html">Save to Pocket</a>
+</span>
+
+---
+
+## 'From despair to hope': UN urges leaders to support refugees
+
+date: 2023-12-12, from: The Guam Daily Post
+
+As the number of refugees soars worldwide, the United Nations is appealing for countries to support displaced people at a global summit this week with the aim of showing that "change is possible".
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/from-despair-to-hope-un-urges-leaders-to-support-refugees/article_961c1f9f-ed2e-5321-a30b-7181c65b7c55.html">https://www.postguam.com/news/national/from-despair-to-hope-un-urges-leaders-to-support-refugees/article_961c1f9f-ed2e-5321-a30b-7181c65b7c55.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/from-despair-to-hope-un-urges-leaders-to-support-refugees/article_961c1f9f-ed2e-5321-a30b-7181c65b7c55.html">Save to Pocket</a>
+</span>
+
+---
+
+## Massive ‘Math Jam’ boosts UH Mānoa students’ exam prep
+
+date: 2023-12-12, from: University of Hawaiʻi News
+
+<p>Nine study rooms in Keller Hall were filled with precalculus, trigonometry, analytic geometry and calculus students for approximately five hours on December 8.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/11/math-jam-study-session/">Massive ‘Math Jam’ boosts <abbr>UH</abbr> Mānoa students’ exam prep</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/11/math-jam-study-session/">https://www.hawaii.edu/news/2023/12/11/math-jam-study-session/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/11/math-jam-study-session/">Save to Pocket</a>
+</span>
+
+---
+
+## UH’s Igiede picked in 1st round of new Pro Volleyball Federation draft
+
+date: 2023-12-12, from: University of Hawaiʻi News
+
+<p>Igiede and four other draftees will join the current roster in January as they attempt to make the Omaha Supernovas' final roster.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/11/igiede-drafted-omaha-supernovas/"><abbr>UH</abbr>’s Igiede picked in 1st round of new Pro Volleyball Federation draft</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/11/igiede-drafted-omaha-supernovas/">https://www.hawaii.edu/news/2023/12/11/igiede-drafted-omaha-supernovas/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/11/igiede-drafted-omaha-supernovas/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -105,18 +2246,6 @@ Kyle Richards is trying to "figure out" what to buy her estranged husband for Ch
 
 ---
 
-## Federal prosecutors have asked the US Supreme Court to decide whether Donald Trump has immunity from prosecution on charges of conspiring to overturn the 2020 election
-
-date: 2023-12-12, from: Pacific Daily News
-
-Federal prosecutors have asked the US Supreme Court to decide whether Donald Trump has immunity from prosecution on charges of conspiring to overturn the 2020 election
-
-<span class="feed-item-link">
-<a href="https://www.guampdn.com/news/national/federal-prosecutors-have-asked-the-us-supreme-court-to-decide-whether-donald-trump-has-immunity/image_5b7d2497-ec4c-5372-ac52-9ce57f4f749d.html">https://www.guampdn.com/news/national/federal-prosecutors-have-asked-the-us-supreme-court-to-decide-whether-donald-trump-has-immunity/image_5b7d2497-ec4c-5372-ac52-9ce57f4f749d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/federal-prosecutors-have-asked-the-us-supreme-court-to-decide-whether-donald-trump-has-immunity/image_5b7d2497-ec4c-5372-ac52-9ce57f4f749d.html">Save to Pocket</a>
-</span>
-
----
-
 ## Eggs are a vital ingredient of many Russian dishes including the 'Olivier' salad
 
 date: 2023-12-12, from: Pacific Daily News
@@ -137,42 +2266,6 @@ Navalny is seen on a screen via a video link from his penal colony during court 
 
 <span class="feed-item-link">
 <a href="https://www.guampdn.com/news/national/navalny-is-seen-on-a-screen-via-a-video-link-from-his-penal-colony-during/image_81c3c1eb-4a23-562e-8295-1d39b965c814.html">https://www.guampdn.com/news/national/navalny-is-seen-on-a-screen-via-a-video-link-from-his-penal-colony-during/image_81c3c1eb-4a23-562e-8295-1d39b965c814.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/navalny-is-seen-on-a-screen-via-a-video-link-from-his-penal-colony-during/image_81c3c1eb-4a23-562e-8295-1d39b965c814.html">Save to Pocket</a>
-</span>
-
----
-
-## Alexei Navalny at a Moscow court hearing in February 2021
-
-date: 2023-12-12, from: Pacific Daily News
-
-Alexei Navalny at a Moscow court hearing in February 2021
-
-<span class="feed-item-link">
-<a href="https://www.guampdn.com/news/national/alexei-navalny-at-a-moscow-court-hearing-in-february-2021/image_5d62c280-b825-52c5-9a78-1e6065868b82.html">https://www.guampdn.com/news/national/alexei-navalny-at-a-moscow-court-hearing-in-february-2021/image_5d62c280-b825-52c5-9a78-1e6065868b82.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/alexei-navalny-at-a-moscow-court-hearing-in-february-2021/image_5d62c280-b825-52c5-9a78-1e6065868b82.html">Save to Pocket</a>
-</span>
-
----
-
-## Explosions over northern Gaza on December 11
-
-date: 2023-12-12, from: Pacific Daily News
-
-Explosions over northern Gaza on December 11
-
-<span class="feed-item-link">
-<a href="https://www.guampdn.com/news/national/explosions-over-northern-gaza-on-december-11/image_8d2b5d7e-d36b-5afb-9da5-1c61b352c6c9.html">https://www.guampdn.com/news/national/explosions-over-northern-gaza-on-december-11/image_8d2b5d7e-d36b-5afb-9da5-1c61b352c6c9.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/explosions-over-northern-gaza-on-december-11/image_8d2b5d7e-d36b-5afb-9da5-1c61b352c6c9.html">Save to Pocket</a>
-</span>
-
----
-
-## Animated map : image of damages in northern Gaza strip
-
-date: 2023-12-12, from: Pacific Daily News
-
-
-
-<span class="feed-item-link">
-<a href="https://www.guampdn.com/news/national/animated-map-image-of-damages-in-northern-gaza-strip/image_9d6c0ff3-07ba-5191-a37f-b31c5bdcba3d.html">https://www.guampdn.com/news/national/animated-map-image-of-damages-in-northern-gaza-strip/image_9d6c0ff3-07ba-5191-a37f-b31c5bdcba3d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/animated-map-image-of-damages-in-northern-gaza-strip/image_9d6c0ff3-07ba-5191-a37f-b31c5bdcba3d.html">Save to Pocket</a>
 </span>
 
 ---
@@ -273,90 +2366,6 @@ Egyptian medics prepare to receive premature babies evacuated from Gaza at the R
 
 ---
 
-## French Education Minister Gabriel Attal said the students would be disciplined
-
-date: 2023-12-12, from: Pacific Daily News
-
-French Education Minister Gabriel Attal said the students would be disciplined
-
-<span class="feed-item-link">
-<a href="https://www.guampdn.com/news/national/french-education-minister-gabriel-attal-said-the-students-would-be-disciplined/image_7eea6c77-09ed-53a1-9455-df5384a29d4b.html">https://www.guampdn.com/news/national/french-education-minister-gabriel-attal-said-the-students-would-be-disciplined/image_7eea6c77-09ed-53a1-9455-df5384a29d4b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/french-education-minister-gabriel-attal-said-the-students-would-be-disciplined/image_7eea6c77-09ed-53a1-9455-df5384a29d4b.html">Save to Pocket</a>
-</span>
-
----
-
-## A new study published Monday in the Journal of the American Medical Association shows much of the weight loss achieved by Zepbound comes back when people stop using the medicine
-
-date: 2023-12-12, from: Pacific Daily News
-
-A new study published Monday in the Journal of the American Medical Association shows much of the weight loss achieved by Zepbound comes back when people stop using the medicine
-
-<span class="feed-item-link">
-<a href="https://www.guampdn.com/news/national/a-new-study-published-monday-in-the-journal-of-the-american-medical-association-shows-much/image_750e8f00-1a98-5059-8711-8c92f16939a7.html">https://www.guampdn.com/news/national/a-new-study-published-monday-in-the-journal-of-the-american-medical-association-shows-much/image_750e8f00-1a98-5059-8711-8c92f16939a7.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/a-new-study-published-monday-in-the-journal-of-the-american-medical-association-shows-much/image_750e8f00-1a98-5059-8711-8c92f16939a7.html">Save to Pocket</a>
-</span>
-
----
-
-## Former US president Donald Trump has claimed 'absolute immunity' from prosecution
-
-date: 2023-12-12, from: Pacific Daily News
-
-Former US president Donald Trump has claimed 'absolute immunity' from prosecution
-
-<span class="feed-item-link">
-<a href="https://www.guampdn.com/news/national/former-us-president-donald-trump-has-claimed-absolute-immunity-from-prosecution/image_ba138e45-a61a-5e84-939e-a788f304ce07.html">https://www.guampdn.com/news/national/former-us-president-donald-trump-has-claimed-absolute-immunity-from-prosecution/image_ba138e45-a61a-5e84-939e-a788f304ce07.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/former-us-president-donald-trump-has-claimed-absolute-immunity-from-prosecution/image_ba138e45-a61a-5e84-939e-a788f304ce07.html">Save to Pocket</a>
-</span>
-
----
-
-## The yen retreated on diminishing expectations of a monetary policy pivot by the Bank of Japan
-
-date: 2023-12-12, from: Pacific Daily News
-
-The yen retreated on diminishing expectations of a monetary policy pivot by the Bank of Japan
-
-<span class="feed-item-link">
-<a href="https://www.guampdn.com/news/national/the-yen-retreated-on-diminishing-expectations-of-a-monetary-policy-pivot-by-the-bank-of/image_5c47f491-5196-5fa1-805a-fe018891e00e.html">https://www.guampdn.com/news/national/the-yen-retreated-on-diminishing-expectations-of-a-monetary-policy-pivot-by-the-bank-of/image_5c47f491-5196-5fa1-805a-fe018891e00e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/the-yen-retreated-on-diminishing-expectations-of-a-monetary-policy-pivot-by-the-bank-of/image_5c47f491-5196-5fa1-805a-fe018891e00e.html">Save to Pocket</a>
-</span>
-
----
-
-## Faith Kipyegon beats Sifan Hassan of the Netherlands to win the women's 5,000m final at the world championships
-
-date: 2023-12-12, from: Pacific Daily News
-
-Faith Kipyegon beats Sifan Hassan of the Netherlands to win the women's 5,000m final at the world championships
-
-<span class="feed-item-link">
-<a href="https://www.guampdn.com/news/national/faith-kipyegon-beats-sifan-hassan-of-the-netherlands-to-win-the-womens-5-000m-final/image_748b4c90-8445-5aa2-8753-2318e76fd21f.html">https://www.guampdn.com/news/national/faith-kipyegon-beats-sifan-hassan-of-the-netherlands-to-win-the-womens-5-000m-final/image_748b4c90-8445-5aa2-8753-2318e76fd21f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/faith-kipyegon-beats-sifan-hassan-of-the-netherlands-to-win-the-womens-5-000m-final/image_748b4c90-8445-5aa2-8753-2318e76fd21f.html">Save to Pocket</a>
-</span>
-
----
-
-## Rudy Giuliani arrives in court for a trial to determine how much the former New York mayor has to pay in damages to two Georgia election workers
-
-date: 2023-12-12, from: Pacific Daily News
-
-Rudy Giuliani arrives in court for a trial to determine how much the former New York mayor has to pay in damages to two Georgia election workers
-
-<span class="feed-item-link">
-<a href="https://www.guampdn.com/news/national/rudy-giuliani-arrives-in-court-for-a-trial-to-determine-how-much-the-former-new/image_370f98e1-c7f2-5859-92a1-9412aba4fbfe.html">https://www.guampdn.com/news/national/rudy-giuliani-arrives-in-court-for-a-trial-to-determine-how-much-the-former-new/image_370f98e1-c7f2-5859-92a1-9412aba4fbfe.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/rudy-giuliani-arrives-in-court-for-a-trial-to-determine-how-much-the-former-new/image_370f98e1-c7f2-5859-92a1-9412aba4fbfe.html">Save to Pocket</a>
-</span>
-
----
-
-## Noah Lyles has said he will target four golds at the Paris Olympics
-
-date: 2023-12-12, from: Pacific Daily News
-
-Noah Lyles has said he will target four golds at the Paris Olympics
-
-<span class="feed-item-link">
-<a href="https://www.guampdn.com/news/national/noah-lyles-has-said-he-will-target-four-golds-at-the-paris-olympics/image_d27b34e8-d0cb-5952-8896-3b9f771ccfae.html">https://www.guampdn.com/news/national/noah-lyles-has-said-he-will-target-four-golds-at-the-paris-olympics/image_d27b34e8-d0cb-5952-8896-3b9f771ccfae.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/noah-lyles-has-said-he-will-target-four-golds-at-the-paris-olympics/image_d27b34e8-d0cb-5952-8896-3b9f771ccfae.html">Save to Pocket</a>
-</span>
-
----
-
 ## Interior Minister Gerald Darmanin offered his resignation, which was not accepted
 
 date: 2023-12-12, from: Pacific Daily News
@@ -401,18 +2410,6 @@ The Golden Globes are trying to bounce back from years of notoriety
 
 <span class="feed-item-link">
 <a href="https://www.guampdn.com/news/national/the-golden-globes-are-trying-to-bounce-back-from-years-of-notoriety/image_ffc12960-c101-5d35-a3d7-80fc0c49d968.html">https://www.guampdn.com/news/national/the-golden-globes-are-trying-to-bounce-back-from-years-of-notoriety/image_ffc12960-c101-5d35-a3d7-80fc0c49d968.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/the-golden-globes-are-trying-to-bounce-back-from-years-of-notoriety/image_ffc12960-c101-5d35-a3d7-80fc0c49d968.html">Save to Pocket</a>
-</span>
-
----
-
-## An analysis published Monday in the journal iScience found that while animals are well represented by the current emoji catalog, plants, fungi, and microorganisms get short shrift
-
-date: 2023-12-12, from: Pacific Daily News
-
-An analysis published Monday in the journal iScience found that while animals are well represented by the current emoji catalog, plants, fungi, and microorganisms get short shrift
-
-<span class="feed-item-link">
-<a href="https://www.guampdn.com/news/national/an-analysis-published-monday-in-the-journal-iscience-found-that-while-animals-are-well-represented/image_f02bf58d-927e-50da-b5fb-810811d4fb30.html">https://www.guampdn.com/news/national/an-analysis-published-monday-in-the-journal-iscience-found-that-while-animals-are-well-represented/image_f02bf58d-927e-50da-b5fb-810811d4fb30.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.guampdn.com/news/national/an-analysis-published-monday-in-the-journal-iscience-found-that-while-animals-are-well-represented/image_f02bf58d-927e-50da-b5fb-810811d4fb30.html">Save to Pocket</a>
 </span>
 
 ---
@@ -2597,6 +4594,18 @@ The post <a href="https://www.hawaii.edu/news/2023/12/10/100-years-of-hawaii-kab
 
 <span class="feed-item-link">
 <a href="https://www.hawaii.edu/news/2023/12/10/100-years-of-hawaii-kabuki/">https://www.hawaii.edu/news/2023/12/10/100-years-of-hawaii-kabuki/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/10/100-years-of-hawaii-kabuki/">Save to Pocket</a>
+</span>
+
+---
+
+## White House urged Congress to swiftly act on COFA-related agreements 
+
+date: 2023-12-10, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The Biden administration has called on the U.S. Congress to take immediate action on new agreements forged by U.S....
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/white-house-urged-congress-to-swiftly-act-on-cofa-related-agreements">https://www.pacificislandtimes.com/post/white-house-urged-congress-to-swiftly-act-on-cofa-related-agreements</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/white-house-urged-congress-to-swiftly-act-on-cofa-related-agreements">Save to Pocket</a>
 </span>
 
 ---

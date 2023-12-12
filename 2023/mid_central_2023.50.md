@@ -1,11 +1,35 @@
 ---
 title: mid central 2023.50
-updated: 2023-12-11 17:24:24
+updated: 2023-12-12 12:37:41
 ---
 
 # mid central 2023.50
 
-(date: 2023-12-11 17:24:24)
+(date: 2023-12-12 12:37:41)
+
+---
+
+## Freeze Warning issued December 12 at 9:34AM PST until December 13 at 8:00AM PST by NWS
+
+date: 2023-12-12, updated: 2023-12-12, from: Merced, Weather.gov CAP v1.1 alerts
+
+...FREEZE WARNING REMAINS IN EFFECT UNTIL 8 AM PST WEDNESDAY... * WHAT...Sub-freezing temperatures as low as 31. * WHERE...Buttonwillow - Lost Hills - I5, Caruthers - San Joaquin - Selma, Delano-Wasco-Shafter, Hanford - Corcoran - Lemoore, Los Banos - Dos Palos, Merced - Madera - Mendota, Planada - Le Grand - Snelling, Southeast San Joaquin Valley, Visalia - Porterville -
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126672370858.FreezeWarning.126672461640CA.HNXNPWHNX.3b6e89560ea16be90f3b4bebb9d52b8d">https://alerts.weather.gov/cap/wwacapget.php?x=CA126672370858.FreezeWarning.126672461640CA.HNXNPWHNX.3b6e89560ea16be90f3b4bebb9d52b8d</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA126672370858.FreezeWarning.126672461640CA.HNXNPWHNX.3b6e89560ea16be90f3b4bebb9d52b8d">Save to Pocket</a>
+</span>
+
+---
+
+## Freeze Warning issued December 12 at 1:34AM PST until December 13 at 8:00AM PST by NWS
+
+date: 2023-12-12, updated: 2023-12-12, from: Merced, Weather.gov CAP v1.1 alerts
+
+...FREEZE WARNING REMAINS IN EFFECT UNTIL 8 AM PST WEDNESDAY... * WHAT...Sub-freezing temperatures as low as 29. * WHERE...Rural areas of the San Joaquin Valley. * WHEN...Until 8 AM PST Wednesday. * IMPACTS...Frost and freeze conditions could kill crops and other sensitive vegetation.
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12667235CFD8.FreezeWarning.126672461640CA.HNXNPWHNX.3b6e89560ea16be90f3b4bebb9d52b8d">https://alerts.weather.gov/cap/wwacapget.php?x=CA12667235CFD8.FreezeWarning.126672461640CA.HNXNPWHNX.3b6e89560ea16be90f3b4bebb9d52b8d</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA12667235CFD8.FreezeWarning.126672461640CA.HNXNPWHNX.3b6e89560ea16be90f3b4bebb9d52b8d">Save to Pocket</a>
+</span>
 
 ---
 

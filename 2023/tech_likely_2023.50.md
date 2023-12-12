@@ -1,11 +1,596 @@
 ---
 title: tech likely 2023.50
-updated: 2023-12-11 17:24:24
+updated: 2023-12-12 12:37:41
 ---
 
 # tech likely 2023.50
 
-(date: 2023-12-11 17:24:24)
+(date: 2023-12-12 12:37:41)
+
+---
+
+##  Turtles (Comic) 
+
+date: 2023-12-12, updated: 2023-12-12, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/turtle-riddle-comic">https://kottke.org/23/12/turtle-riddle-comic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/turtle-riddle-comic">Save to Pocket</a>
+</span>
+
+---
+
+## macOS 14.2
+
+date: 2023-12-12, from: Michael Tsai
+
+Juli Clover (release notes, security, developer, full installer, IPSW): macOS Sonoma 14.2 introduces an Enhanced AutoFill feature for PDFs, which Apple announced earlier this year. It automatically identifies common fields like name and address, allowing them to be autofilled similar to a website.In the Messages app, stickers can be added directly to chat bubbles with [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/12/macos-14-2/">https://mjtsai.com/blog/2023/12/12/macos-14-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/12/macos-14-2/">Save to Pocket</a>
+</span>
+
+---
+
+## macOS 13.6.3 and macOS 12.7.2
+
+date: 2023-12-12, from: Michael Tsai
+
+Apple (full installer): This document describes the security content of macOS Ventura 13.6.3. Apple (full installer): This document describes the security content of macOS Monterey 12.7.2. Previously: macOS 14.2 macOS 13.6.2 macOS 13.6.1 and macOS 12.7.1
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/12/macos-13-6-3-and-macos-12-7-2/">https://mjtsai.com/blog/2023/12/12/macos-13-6-3-and-macos-12-7-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/12/macos-13-6-3-and-macos-12-7-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Launches Journal App
+
+date: 2023-12-12, from: Michael Tsai
+
+Apple: Journal, a new iPhone app available today, helps users reflect and practice gratitude through journaling, which has been shown to improve wellbeing. With Journal, users can capture and write about everyday moments and special events in their lives, and include photos, videos, audio recordings, locations, and more to create rich memories. On-device machine learning [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/12/apple-launches-journal-app/">https://mjtsai.com/blog/2023/12/12/apple-launches-journal-app/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/12/apple-launches-journal-app/">Save to Pocket</a>
+</span>
+
+---
+
+## iOS 17.2 and iPadOS 17.2
+
+date: 2023-12-12, from: Michael Tsai
+
+Juli Clover (release notes, security, developer): The iOS 17.2 update includes the new Journal app, which is designed to allow iOS users to record key moments in their lives. The Journal app includes journaling suggestions, scheduled notifications, and options for adding photos, locations, and more.For the iPhone 15 Pro models, iOS 17.2 adds a Translate [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/12/ios-17-2-and-ipados-17-2/">https://mjtsai.com/blog/2023/12/12/ios-17-2-and-ipados-17-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/12/ios-17-2-and-ipados-17-2/">Save to Pocket</a>
+</span>
+
+---
+
+## watchOS 10.2
+
+date: 2023-12-12, from: Michael Tsai
+
+Juli Clover (release notes, security, developer): The watchOS 10.2 update adds support for using Siri to access and record data in the Health app on the Apple Watch Series 9 and the Apple Watch Ultra 2. Users can ask Siri questions like &#8220;How did I sleep last night?&#8221; or &#8220;How many steps have I taken [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/12/watchos-10-2/">https://mjtsai.com/blog/2023/12/12/watchos-10-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/12/watchos-10-2/">Save to Pocket</a>
+</span>
+
+---
+
+## HomePod 17.2
+
+date: 2023-12-12, from: Michael Tsai
+
+Juli Clover: Apple does not specify what's included in the HomePod 17.2 software, and the generic release notes only say that it includes bug fixes and performance improvements. All I know is that it&#8217;s 2.6 GB, took a really long time to install, and doesn&#8217;t fix the bug with not being able to play music [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/12/homepod-17-2/">https://mjtsai.com/blog/2023/12/12/homepod-17-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/12/homepod-17-2/">Save to Pocket</a>
+</span>
+
+---
+
+## tvOS 17.2
+
+date: 2023-12-12, from: Michael Tsai
+
+Apple (MacRumors): Today Apple unveiled a redesigned Apple TV app that makes it even easier for users to watch Apple&#8217;s award-winning original series and films, as well as live sports, movies, and television shows across their favorite Apple devices, smart TVs, streaming sticks, gaming consoles, and more. The simplified interface&#8217;s new sidebar allows users to [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/12/tvos-17-2/">https://mjtsai.com/blog/2023/12/12/tvos-17-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/12/tvos-17-2/">Save to Pocket</a>
+</span>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2023-12-12, from: Tomosino's Mastodon feed)
+
+<p><strong>Step 1</strong>: Think of an animal. Any animal.</p><p><strong>Step 2</strong>: Imagine that animal drawn as a cartoon. Style is up to you. Disney, Rankin/Bass, whatever. Not 3D, though. 2D. Got it?</p><p><strong>Step 3</strong>: Is your animal a protagonist or a villain? Base your choice purely on your imagined cartoon character.</p>
+
+<span class="feed-item-link">
+<a href="https://tilde.zone/@tomasino/111569070801051141">https://tilde.zone/@tomasino/111569070801051141</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tilde.zone/@tomasino/111569070801051141">Save to Pocket</a>
+</span>
+
+---
+
+##  Playing the SpiderHarp 
+
+date: 2023-12-12, updated: 2023-12-12, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/playing-the-spiderharp">https://kottke.org/23/12/playing-the-spiderharp</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/playing-the-spiderharp">Save to Pocket</a>
+</span>
+
+---
+
+## New NASA Satellite To Unravel Mysteries About Clouds, Aerosols
+
+date: 2023-12-12, from: NASA breaking news
+
+Some of the same properties of light and optics that make the sky blue and cause rainbows can also help scientists unlock mysteries about cloud formation and the effects of tiny particles in our air. NASA’s upcoming PACE mission will offer important insights on airborne particles of sea salt, smoke, human-made pollutants, and dust – [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/earth/new-nasa-satellite-to-unravel-mysteries-about-clouds-aerosols/">https://www.nasa.gov/earth/new-nasa-satellite-to-unravel-mysteries-about-clouds-aerosols/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/earth/new-nasa-satellite-to-unravel-mysteries-about-clouds-aerosols/">Save to Pocket</a>
+</span>
+
+---
+
+## Journalism intermediaries start to coordinate
+
+date: 2023-12-12, from: Nieman Journalism Lab
+
+People in our industry love the word ecosystem. We especially love to talk about healthy news ecosystems. The thinking goes that when publications champion each others’ work, collaborate on big news stories, and even fundraise together, their impact becomes greater than the sum of their parts. Journalism support organizations herald that kind of networked systems...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/journalism-intermediaries-start-to-coordinate/">https://www.niemanlab.org/2023/12/journalism-intermediaries-start-to-coordinate/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/journalism-intermediaries-start-to-coordinate/">Save to Pocket</a>
+</span>
+
+---
+
+## Publishers will finally be influenced by influencers
+
+date: 2023-12-12, from: Nieman Journalism Lab
+
+For a long time, legacy publishers have looked down on social media influencers and Patreon-style creators, if indeed they think of them at all. Meanwhile, thousands of successful influencers and content creators have been building real and valuable relationships with their communities, who now trust them more than traditional journalism — and sometimes pay for...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/publishers-will-finally-be-influenced-by-influencers/">https://www.niemanlab.org/2023/12/publishers-will-finally-be-influenced-by-influencers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/publishers-will-finally-be-influenced-by-influencers/">Save to Pocket</a>
+</span>
+
+---
+
+## In a year of polarized elections, media will be a target
+
+date: 2023-12-12, from: Nieman Journalism Lab
+
+More than half the world’s population will get to vote for their government in 2024, making it the biggest election year in history, according to The Economist. It should be a high point for the press. Even countries where elections are not free or fair may see a bump in people’s demand for news. Unfortunately,...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/in-a-year-of-polarized-elections-media-will-be-a-target/">https://www.niemanlab.org/2023/12/in-a-year-of-polarized-elections-media-will-be-a-target/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/in-a-year-of-polarized-elections-media-will-be-a-target/">Save to Pocket</a>
+</span>
+
+---
+
+## Trust good, crap bad
+
+date: 2023-12-12, from: Nieman Journalism Lab
+
+Generative AI makes it easier than ever to crank out commoditized content. Local newsrooms are understaffed, fighting to keep their heads above water, and often owned by private equity firms who worship volume and scale. What could possibly go wrong? I see two short-term futures for generative AI in local news: The first is one...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/trust-good-crap-bad/">https://www.niemanlab.org/2023/12/trust-good-crap-bad/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/trust-good-crap-bad/">Save to Pocket</a>
+</span>
+
+---
+
+## The algorithm will be the message
+
+date: 2023-12-12, from: Nieman Journalism Lab
+
+A significant portion of designing a text on future scenarios in the media industry involves a retrospective process — not as an exercise in intellectual nostalgia, but as a way to contextualize the relationship between technologies, media, and societies to identify emerging paradigms. As a journalist, communications professor, and digital media consultant, I’ve strived to...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/the-algorithm-will-be-the-message/">https://www.niemanlab.org/2023/12/the-algorithm-will-be-the-message/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/the-algorithm-will-be-the-message/">Save to Pocket</a>
+</span>
+
+---
+
+## More open source AI
+
+date: 2023-12-12, from: Nieman Journalism Lab
+
+It is truly magical to speak to a machine using the same language you’d use to talk to a human. And that initial awe at the technology commonly known as generative AI caught a lot of us in the hype over artificial intelligence this past year. We also learned that while the large language models...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/more-open-source-ai/">https://www.niemanlab.org/2023/12/more-open-source-ai/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/more-open-source-ai/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-12, from: Dave Winer's Scripting News)
+
+My idea of a friend is someone who laughs at my jokes.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/12.html#a175636">http://scripting.com/2023/12/12.html#a175636</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/12.html#a175636">Save to Pocket</a>
+</span>
+
+---
+
+##  Full Moon Haiku Cards 
+
+date: 2023-12-12, updated: 2023-12-12, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/full-moon-haiku-cards">https://kottke.org/23/12/full-moon-haiku-cards</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/full-moon-haiku-cards">Save to Pocket</a>
+</span>
+
+---
+
+## TV reporters become TikTok influencers
+
+date: 2023-12-12, from: Nieman Journalism Lab
+
+Television journalists have long been encouraged to have a social media presence to build their brands and provide additional outlets for network content. Journalists have always been influencers for their stations — but in 2024, we&#8217;ll see them start to be additionally compensated for this labor, and financially benefit from their own social media presence....
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/tv-reporters-become-tiktok-influencers/">https://www.niemanlab.org/2023/12/tv-reporters-become-tiktok-influencers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/tv-reporters-become-tiktok-influencers/">Save to Pocket</a>
+</span>
+
+---
+
+## Publishers keep trying to extract revenue from Google
+
+date: 2023-12-12, from: Nieman Journalism Lab
+
+The next year will see alliances of news publishers around the world trying again to get payments from Google, and possibly Meta, influenced by the successes of Australia&#8217;s News Media Bargaining Code. These alliances will be useful for the negotiations that need to happen with AI companies using news content in their large language models....
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/publishers-keep-trying-to-extract-revenue-from-google/">https://www.niemanlab.org/2023/12/publishers-keep-trying-to-extract-revenue-from-google/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/publishers-keep-trying-to-extract-revenue-from-google/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s Commercial Partners Continue Progress on New Space Stations
+
+date: 2023-12-12, from: NASA breaking news
+
+Three NASA-funded commercial space station partners are on track for the design and development of their orbital destinations and the transition of agency’s low Earth orbit needs from the International Space Station. “We are ending the year on a high note with multiple important milestones being completed by our partners,” said Angela Hart, manager of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasas-commercial-partners-continue-progress-on-new-space-stations/">https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasas-commercial-partners-continue-progress-on-new-space-stations/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasas-commercial-partners-continue-progress-on-new-space-stations/">Save to Pocket</a>
+</span>
+
+---
+
+## Linux Mint 21.3 and Zorin 17 are beta buddies
+
+date: 2023-12-12, updated: 2023-12-12, from: Liam Proven's articles at the Register
+
+<h4>Irish software projects gear up for latest iterations</h4>
+      <p>Devs at well-loved distros Mint and Zorin are hard at work, with Mint 21.3 expected before the holidays, although Zorin OS 17 may take a little longer. Their respective betas show both are shaping up nicely and boast attractive desktops.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2023/12/12/mint_21_3_zorin_17/">https://go.theregister.com/i/cfa/https://www.theregister.com/2023/12/12/mint_21_3_zorin_17/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2023/12/12/mint_21_3_zorin_17/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-12, from: Dave Winer's Scripting News)
+
+Working my way through loose-ends. The feed-only <a href="https://feedland.com/?myfeed">editor</a> built into FeedLand has now been <a href="https://imgs.scripting.com/2023/12/12/feedOnlyEditorScreenShot.png">converted to mobile</a>.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/12.html#a161822">http://scripting.com/2023/12/12.html#a161822</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/12.html#a161822">Save to Pocket</a>
+</span>
+
+---
+
+## Puppeteer Support for the Cross-Browser WebDriver BiDi Standard
+
+date: 2023-12-12, from: Mozilla Developer Network blog
+
+<p>Puppeteer now supports the next-generation, cross-browser WebDriver BiDi standard. This new protocol makes it easy for web developers to write automated tests that work across multiple browser engines.</p>
+<p>The post <a href="https://hacks.mozilla.org/2023/12/puppeteer-webdriver-bidi/">Puppeteer Support for the Cross-Browser WebDriver BiDi Standard</a> appeared first on <a href="https://hacks.mozilla.org">Mozilla Hacks - the Web developer blog</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://hacks.mozilla.org/2023/12/puppeteer-webdriver-bidi/">https://hacks.mozilla.org/2023/12/puppeteer-webdriver-bidi/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://hacks.mozilla.org/2023/12/puppeteer-webdriver-bidi/">Save to Pocket</a>
+</span>
+
+---
+
+##  Diary Comics, Nov. 13-15 
+
+date: 2023-12-12, updated: 2023-12-12, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/diary-comics-nov-13-15">https://kottke.org/23/12/diary-comics-nov-13-15</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/diary-comics-nov-13-15">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;Five sweaters to knit for a little girl.&#8221; My faves are Nos.... 
+
+date: 2023-12-12, updated: 2023-12-12, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043608-five-sweaters-to-knit-for">https://kottke.org/23/12/0043608-five-sweaters-to-knit-for</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043608-five-sweaters-to-knit-for">Save to Pocket</a>
+</span>
+
+---
+
+## Forget spaceships; I just want my music
+
+date: 2023-12-12, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Forget spaceships; I just want my music</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>A couple weeks ago, as my kids settled into the car, I asked like I always do, "what songs do you want me to play?"</p>
+
+<p>They have a range of favored earworms, from Baby Shark to Babaloo, and usually the songs are tolerable, at least.</p>
+
+<p>But a few albums, like Bluey's soundtrack, transcend the children's genre. They're genuinely fun to listen to, for everyone in the car.</p>
+
+<p>Well, that fine day, the kids chose Ladybug Music. And let me tell you, besides a few duds, Ladybug Music <em>slaps</em>. And the songs incorporate diverse styles, too, it's not just the same nursery rhymes regurgitated in a bubbly voice.</p>
+
+<p>So I found the album on my phone and noticed the songs were all greyed out.</p>
+
+<p>I tapped one, and <em>nothing</em>. Just this notice:</p>
+
+<p><img src="https://www.jeffgeerling.com/sites/default/files/images/song-not-available.jpg" width="700" height="auto" class="insert-image" alt="Song not available Apple Music on iPhone" /></p>
+
+<p>Not available in my region? Well, that's weird. I pay for Apple Music. And I know the artist is in the US, and <em>I'm</em> in the US...</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2023-12-12T09:00:41-06:00" title="Tuesday, December 12, 2023 - 09:00" class="datetime">December 12, 2023</time></span>
+
+<span class="feed-item-link">
+<a href="https://www.jeffgeerling.com/blog/2023/forget-spaceships-i-just-want-my-music">https://www.jeffgeerling.com/blog/2023/forget-spaceships-i-just-want-my-music</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jeffgeerling.com/blog/2023/forget-spaceships-i-just-want-my-music">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Stennis Engineers Share the Stage on Test Day
+
+date: 2023-12-12, from: NASA breaking news
+
+The last Wednesday in November proved to be a full-circle moment for two engineers at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Josh Greiner heard a familiar voice on the headset as he prepared to conduct an RS-25 engine test on the Fred Haise Test Stand on Nov. 29. It was Peyton Pinson, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/stennis/nasa-stennis-engineers-share-the-stage-on-test-day/">https://www.nasa.gov/centers-and-facilities/stennis/nasa-stennis-engineers-share-the-stage-on-test-day/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/stennis/nasa-stennis-engineers-share-the-stage-on-test-day/">Save to Pocket</a>
+</span>
+
+---
+
+## Media Invited to NASA’s SpaceX Crew-6, Expedition 69 Visit to Marshall
+
+date: 2023-12-12, from: NASA breaking news
+
+NASA astronauts Frank Rubio, Stephen Bowen, and Woody Hoburg, as well as UAE (United Arab Emirates) astronaut Sultan Alneyadi will visit the agency&#8217;s Marshall Space Flight Center in Huntsville, Alabama at 1 p.m. CST Thursday, Dec. 14, to discuss their recent missions to the International Space Station. Media are invited to speak with the astronauts [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/media-invited-to-nasas-spacex-crew-6-expedition-69-visit-to-marshall/">https://www.nasa.gov/news-release/media-invited-to-nasas-spacex-crew-6-expedition-69-visit-to-marshall/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/media-invited-to-nasas-spacex-crew-6-expedition-69-visit-to-marshall/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-12, from: Dave Winer's Scripting News)
+
+Chuck did a <a href="https://arc.net/boost/B3857C94-AA7F-4FC3-9FE2-98104E93DE1E">Dark Mode for FeedLand</a> "boost" for the Arc browser.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/12.html#a144431">http://scripting.com/2023/12/12.html#a144431</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/12.html#a144431">Save to Pocket</a>
+</span>
+
+---
+
+##  “This family with young kids loves to entertain, so they walled off... 
+
+date: 2023-12-12, updated: 2023-12-12, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043609-this-family-with-young-ki">https://kottke.org/23/12/0043609-this-family-with-young-ki</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043609-this-family-with-young-ki">Save to Pocket</a>
+</span>
+
+---
+
+## NASA MSI Incubator: Wildfire Climate Tech Challenge
+
+date: 2023-12-12, from: NASA breaking news
+
+NASA&#8217;s Wildfire Climate Tech Challenge, part of the MSI Incubator initiative, seeks innovative solutions for wildfire prevention and climate technology. NASA invites students and employees of Minority Serving Institutions (MSIs) to address the escalating issues caused by wildfires exacerbated by climate change. Successful participants will have the opportunity to join a startup incubator program and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-msi-incubator-wildfire-climate-tech-challenge/">https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-msi-incubator-wildfire-climate-tech-challenge/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-msi-incubator-wildfire-climate-tech-challenge/">Save to Pocket</a>
+</span>
+
+---
+
+##  This is perhaps a little specific, but since I&#8217;m expecting Baby No.... 
+
+date: 2023-12-12, updated: 2023-12-12, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043607-this-is-perhaps-a-little">https://kottke.org/23/12/0043607-this-is-perhaps-a-little</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043607-this-is-perhaps-a-little">Save to Pocket</a>
+</span>
+
+---
+
+## Scarcity Is Part of the Appeal
+
+date: 2023-12-12, updated: 2023-12-12, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2023/12/12/scarcity-is-part-of-the-appeal/">https://onefoottsunami.com/2023/12/12/scarcity-is-part-of-the-appeal/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2023/12/12/scarcity-is-part-of-the-appeal/">Save to Pocket</a>
+</span>
+
+---
+
+## It’s time to prioritize audiences we know we can’t monetize
+
+date: 2023-12-12, from: Nieman Journalism Lab
+
+Monetization and the push for traffic still drive most business decisions in the media industry. Whether publishers seek to generate subscription revenue directly from readers or indirectly monetize reader attention through advertising or sponsorship, their target audiences are shaped through the lens of profitability. This is not necessarily a bad thing — monetization can serve...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/its-time-to-prioritize-audiences-we-know-we-cant-monetize/">https://www.niemanlab.org/2023/12/its-time-to-prioritize-audiences-we-know-we-cant-monetize/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/its-time-to-prioritize-audiences-we-know-we-cant-monetize/">Save to Pocket</a>
+</span>
+
+---
+
+## An open letter to the incoming CEO of NPR
+
+date: 2023-12-12, from: Nieman Journalism Lab
+
+Dear TK, Congratulations on being named CEO of NPR! You are inheriting a world-class journalism organization at a pivotal moment in U.S. history. While the need for a non-partisan, independent press has never been more urgent, the headwinds you’re facing have never been stronger. Think F-5 hurricane. They include the collapse of local journalism and...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/an-open-letter-to-the-incoming-ceo-of-npr/">https://www.niemanlab.org/2023/12/an-open-letter-to-the-incoming-ceo-of-npr/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/an-open-letter-to-the-incoming-ceo-of-npr/">Save to Pocket</a>
+</span>
+
+---
+
+## We learn to unlearn
+
+date: 2023-12-12, from: Nieman Journalism Lab
+
+Every day, for four decades, I have put my right shoe on first, and then my left. Same goes for my socks and pant legs. Over the past week, I tried switching it up. Each morning, I forced my right foot to stay put, as I raised my left. It felt hard and quite unnatural,...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/we-learn-to-unlearn/">https://www.niemanlab.org/2023/12/we-learn-to-unlearn/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/we-learn-to-unlearn/">Save to Pocket</a>
+</span>
+
+---
+
+## AI gets accurate
+
+date: 2023-12-12, from: Nieman Journalism Lab
+
+My prediction is that 2024 will be the year when the generative AI models begin to stop confabulating, hallucinating, or, as journalists put it more bluntly, stop making things up. As soon as the public got access to AI chatbots, the models became infamous for their unreliability. Lawyers were shocked their AI-generated briefs included made-up...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/ai-gets-accurate/">https://www.niemanlab.org/2023/12/ai-gets-accurate/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/ai-gets-accurate/">Save to Pocket</a>
+</span>
+
+---
+
+## The year of the horizontal newsroom
+
+date: 2023-12-12, from: Nieman Journalism Lab
+
+It’s not about innovating; it’s about surviving. With the rise of conversational search, media outlets will have to move on from obsessing over the Google algorithm. Even if the reach provided by Google maintains its pace, the real success needle for media shouldn’t be vanity reach, but cultural relevance. In the content industry, what will...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/the-year-of-the-horizontal-newsroom/">https://www.niemanlab.org/2023/12/the-year-of-the-horizontal-newsroom/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/the-year-of-the-horizontal-newsroom/">Save to Pocket</a>
+</span>
+
+---
+
+## News confronts reaching audiences in a post-social world
+
+date: 2023-12-12, from: Nieman Journalism Lab
+
+Over the next year, the news industry will have to confront the realities of building an audience in a post-social media world — a world where the news not only doesn’t reach those who aren’t looking for it, but is not a consistent presence in many Americans’ lives. The last year has reminded many news...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/news-confronts-reaching-audiences-in-a-post-social-world/">https://www.niemanlab.org/2023/12/news-confronts-reaching-audiences-in-a-post-social-world/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/news-confronts-reaching-audiences-in-a-post-social-world/">Save to Pocket</a>
+</span>
+
+---
+
+## Use Deno KV in Node with the new official npm package
+
+date: 2023-12-12, updated: 2023-12-12, from: Deno blog
+
+Access our zero config distributed database, Deno KV, in your Node projects with our new npm package.
+
+<span class="feed-item-link">
+<a href="https://deno.com/blog/kv-npm">https://deno.com/blog/kv-npm</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://deno.com/blog/kv-npm">Save to Pocket</a>
+</span>
+
+---
+
+## AI isn’t just robots: How to talk to young children about AI
+
+date: 2023-12-12, from: Raspberry Pi (.org)
+
+<p>Young children have a unique perspective on the world they live in. They often seem oblivious to what’s going on around them, but then they will ask a question that makes you realise they did get some insight from a news story or a conversation they overheard. This happened to me with a class of&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/how-to-talk-to-young-children-about-ai/">AI isn’t just robots: How to talk to young children about AI</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.org/blog/how-to-talk-to-young-children-about-ai/">https://www.raspberrypi.org/blog/how-to-talk-to-young-children-about-ai/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.org/blog/how-to-talk-to-young-children-about-ai/">Save to Pocket</a>
+</span>
+
+---
+
+## SolarSPELL off-grid wireless hotspots
+
+date: 2023-12-12, from: Raspberry Pi News (.com)
+
+<p>SolarSPELL brings digital libraries to remote, unconnected places via rugged, portable Raspberry Pi-powered devices.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/solarspell-off-grid-wireless-hotspots/">SolarSPELL off-grid wireless hotspots</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/solarspell-off-grid-wireless-hotspots/">https://www.raspberrypi.com/news/solarspell-off-grid-wireless-hotspots/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/solarspell-off-grid-wireless-hotspots/">Save to Pocket</a>
+</span>
+
+---
+
+## Kernel kerfuffle kiboshes Debian 12.3 release
+
+date: 2023-12-12, updated: 2023-12-12, from: Liam Proven's articles at the Register
+
+<h4>A mis-merged patch causing corruption on ext4 volumes is to blame</h4>
+      <p>The Debian maintainers have identified a problem in kernel 6.1 that can cause corruption on ext4 volumes. As a result, the planned 12.3 release won't happen.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2023/12/12/kernel_6_1_ext4_corruption/">https://go.theregister.com/i/cfa/https://www.theregister.com/2023/12/12/kernel_6_1_ext4_corruption/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2023/12/12/kernel_6_1_ext4_corruption/">Save to Pocket</a>
+</span>
+
+---
+
+## Things I don't have to do
+
+date: 2023-12-12, from: Rachel Kwon blog
+
+I spent a lot of time and energy in my life worrying about things I felt like I had to do for one reason or another. Either everyone else was doing the thing, or specific people were pressuring me to do the thing, or I never saw real examples or models of people who didn&rsquo;t do the thing, etc.
+At some point I started to realize that, if I really challenged myself, I didn&rsquo;t have to do some of the things I believed I had to in order to win at life (and I would include the idea of having to &ldquo;win at life&rdquo; on this list).
+
+<span class="feed-item-link">
+<a href="https://kwon.nyc/notes/things-i-dont-have-to-do/">https://kwon.nyc/notes/things-i-dont-have-to-do/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kwon.nyc/notes/things-i-dont-have-to-do/">Save to Pocket</a>
+</span>
+
+---
+
+## A lighter note
+
+date: 2023-12-12, from: Dave Winer's Scripting News
+
+<p>Former House Speaker Kevin McCarthy has officially pledged his fealty to former President Donald Trump in the 2024 presidential election — despite some concerns about Trump’s messaging.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2023/12/11/aMeetingOfMinds.png"></center>A meeting of minds.</div></p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/11/023402.html?title=aLighterNote">http://scripting.com/2023/12/11/023402.html?title=aLighterNote</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/11/023402.html?title=aLighterNote">Save to Pocket</a>
+</span>
 
 ---
 
@@ -51,6 +636,109 @@ Porporo is an experimental operating system specification for Varvara, written i
 
 <span class="feed-item-link">
 <a href="https://www.osnews.com/story/138053/porporo-an-experimental-operating-system-specification-for-varvara/">https://www.osnews.com/story/138053/porporo-an-experimental-operating-system-specification-for-varvara/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138053/porporo-an-experimental-operating-system-specification-for-varvara/">Save to Pocket</a>
+</span>
+
+---
+
+## Finding unreachable functions with deadcode
+
+date: 2023-12-12, updated: 2023-12-12, from: Go language blog
+
+deadcode is a new command to help identify functions that cannot be called.
+
+<span class="feed-item-link">
+<a href="https://go.dev/blog/deadcode">https://go.dev/blog/deadcode</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.dev/blog/deadcode">Save to Pocket</a>
+</span>
+
+---
+
+## IvorySQL 3.0 released
+
+date: 2023-12-12, from: PostgreSQL News
+
+<h2>Announcing IvorySQL 3.0: Enhanced PostgreSQL 16 Support with Oracle Compatibility</h2>
+<p>Dear Community Members,</p>
+<p>We are excited to announce the release of IvorySQL 3.0, a significant update to our PostgreSQL database project with enhanced Oracle compatibility features.</p>
+<h2>IvorySQL</h2>
+<h3>What's New in IvorySQL 3.0:</h3>
+<ul>
+<li><strong>Dual Parsers</strong>: Now supports different database parsers on two distinct listening ports.</li>
+<li><strong><code>initdb -m</code> Feature</strong>: Choose between <code>postgres</code> mode or <code>oracle</code> mode for flexible database management.</li>
+<li><strong>Oracle-Compatible Commands</strong>: Includes Oracle Merge, Q escaping, and similar functionalities.</li>
+<li><strong>Enhanced PL/SQL Support</strong>: Introduces features like anonymous blocks for improved compatibility.</li>
+</ul>
+<p>For a detailed list of all the new features and fixes, please visit our release notes at <a href="https://github.com/IvorySQL/IvorySQL/releases">IvorySQL GitHub Releases</a> and <a href="https://www.ivorysql.org/releases-page">IvorySQL Release Page</a>.</p>
+<h3>Acknowledgments and Contributions:</h3>
+<p>A huge thank you to all our users who contributed patches, reported bugs, and proposed new features. The names of all contributors to this release are listed in the release notes.</p>
+<p>IvorySQL thrives on community contributions. We warmly welcome your ideas, feature requests, or patches. Please share your contributions on our <a href="https://github.com/IvorySQL/IvorySQL/">GitHub page</a>.</p>
+<h3>Useful Links:</h3>
+<ul>
+<li><strong>Homepage</strong>: <a href="https://www.ivorysql.org">IvorySQL Official Site</a></li>
+<li><strong>Documentation</strong>: <a href="https://docs.ivorysql.org/">IvorySQL Docs</a></li>
+<li><strong>GitHub Repository</strong>: <a href="https://github.com/IvorySQL/IvorySQL">IvorySQL GitHub</a></li>
+<li><strong>Website Repository</strong>: <a href="https://github.com/IvorySQL/Ivory-www">Website GitHub</a></li>
+<li><strong>Document Repository</strong>: <a href="https://github.com/IvorySQL/ivory-doc-builder">Document Site GitHub</a></li>
+<li><strong>Download IvorySQL</strong>: <a href="https://www.ivorysql.org/releases-page">Download Page</a></li>
+<li><strong>Support</strong>: Report issues <a href="https://github.com/IvorySQL/IvorySQL/">here</a> or contact contact(at)highgo(dot)ca</li>
+</ul>
+<p>We look forward to your feedback on IvorySQL 3.0 and your continued support in making IvorySQL even better.</p>
+<p>Best regards,</p>
+<p>IvorySQL Dev Team</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/ivorysql-30-released-2764/">https://www.postgresql.org/about/news/ivorysql-30-released-2764/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/ivorysql-30-released-2764/">Save to Pocket</a>
+</span>
+
+---
+
+## Pgpool-II 4.5.0 is now released.
+
+date: 2023-12-12, from: PostgreSQL News
+
+<p>Pgpool Global Development Group is pleased to announce the availability of Pgpool-II 4.5.0.
+This is the first stable release of Pgpool-II 4.5.x. </p>
+<p>Pgpool-II is a tool to add useful features to PostgreSQL, including:</p>
+<ul>
+<li>connection pooling</li>
+<li>load balancing</li>
+<li>automatic fail over and more.</li>
+</ul>
+<p>For more information, please see the <a href="https://www.pgpool.net/">website</a>.</p>
+<p>V4.5 contains new features and enhancements, including:</p>
+<ul>
+<li>Allow to use more kind of multiple statements in a query string.</li>
+<li>Allow to load balance PREPARE/EXECUTE/DEALLOCATE.</li>
+<li>Allow to set delay_threshold_by_time in milliseconds.</li>
+<li>Avoid session disconnection issue in failover/failback/backend error in some cases.</li>
+<li>Allow to route queries to a specific backend node for a specific user connection.</li>
+<li>Support multiple directories specification for pcp_socket_dir.</li>
+<li>Import PostgreSQL 16's SQL parser.</li>
+</ul>
+<p>You can download it from <a href="https://www.pgpool.net/mediawiki/index.php/Downloads">here</a>.</p>
+<p>Please take a look at <a href="https://www.pgpool.net/docs/45/en/html/release-4-5-0.html">release notes</a>.</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/pgpool-ii-450-is-now-released-2763/">https://www.postgresql.org/about/news/pgpool-ii-450-is-now-released-2763/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pgpool-ii-450-is-now-released-2763/">Save to Pocket</a>
+</span>
+
+---
+
+## PostgreSQL JDBC 42.7.1 Released
+
+date: 2023-12-12, from: PostgreSQL News
+
+<p>The PostgreSQL pgJDBC project has a new release. This release deals with a few regressions. </p>
+<ul>
+<li>Revert Use canonical DateStyle name</li>
+<li>Revert support SET statements combining with other queries with semicolon in PreparedStatement</li>
+<li>Use java.release=8 when building pgjdbc from the generated source distribution, the driver uses Java 8 methods only</li>
+</ul>
+<p>See full <a href="https://github.com/pgjdbc/pgjdbc/releases/tag/REL42.7.1">release notes</a> </p>
+<p>Many thanks to all who contributed.</p>
+<p>The project is located in our <a href="https://github.com/pgjdbc/pgjdbc/">Github Repo</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/postgresql-jdbc-4271-released-2765/">https://www.postgresql.org/about/news/postgresql-jdbc-4271-released-2765/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/postgresql-jdbc-4271-released-2765/">Save to Pocket</a>
 </span>
 
 ---
@@ -159,6 +847,16 @@ date: 2023-12-11, updated: 2023-12-11, from: Jason Kottke blog
 
 <span class="feed-item-link">
 <a href="https://kottke.org/23/12/more-christmas-music-recs">https://kottke.org/23/12/more-christmas-music-recs</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/more-christmas-music-recs">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-11, from: Dave Winer's Scripting News)
+
+Do you have a feed-only blog?
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/11.html#a205809">http://scripting.com/2023/12/11.html#a205809</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/11.html#a205809">Save to Pocket</a>
 </span>
 
 ---
@@ -696,7 +1394,7 @@ Obviously, at some point Musk will sell Twitter to Zuckerberg.
 
 ## Package Camoflauge
 
-date: 2023-12-11, updated: 2023-12-11, from: One Foot Tsunami
+date: 2023-12-11, updated: 2023-12-12, from: One Foot Tsunami
 
 
 
