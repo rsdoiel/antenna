@@ -136,7 +136,7 @@ https://ooh.directory/blog/feeds/posts.xml "~ooh.directory blog"
 https://optimism.substack.com/feed "~Howard Weaver Blog"
 https://p1k3.com/feed "~p1k3.com community feed"
 https://passo.uno/index.xml "~Blog by Fabrizio Ferri-Benedetti"
-https://petermolnar.net/feed/ "~Peter Molnar blog"
+#https://petermolnar.net/feed/ "~Peter Molnar blog" # Hostname appears down, 2023-12-11 5:21 PST
 https://petewarden.com/feed/ "~Peter Warden"
 https://phiresky.github.io/blog/rss.xml "~Phiresky's blog"
 https://pointersgonewild.com/feed/ "~Pointers gone wild blog"

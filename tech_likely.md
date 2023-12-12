@@ -1,11 +1,528 @@
 ---
 title: tech likely 2023.50
-updated: 2023-12-11 08:09:12
+updated: 2023-12-11 17:24:24
 ---
 
 # tech likely 2023.50
 
-(date: 2023-12-11 08:09:12)
+(date: 2023-12-11 17:24:24)
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2023-12-12, from: Tomosino's Mastodon feed)
+
+<p>I forgot to tell you all, Godzilla Minus One is great. If you like the big guy, go see this one.</p>
+
+<span class="feed-item-link">
+<a href="https://tilde.zone/@tomasino/111564790015288808">https://tilde.zone/@tomasino/111564790015288808</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tilde.zone/@tomasino/111564790015288808">Save to Pocket</a>
+</span>
+
+---
+
+## Apple releases iOS 17.2 and macOS 14.2
+
+date: 2023-12-12, from: OS News
+
+Today, Apple pushed out the public releases of iOS 17.2, iPadOS 17.2, macOS Sonoma 14.2, watchOS 10.2, and tvOS 17.2. iOS 17.2 and iPadOS 17.2&#8217;s flagship feature is the new Journal app, which Apple teased when it first introduced iOS 17 earlier. The app mimics several existing popular journaling apps in the App Store from third-party developers but leverages data from your Photos, workouts, and other Apple apps to make journaling suggestions. Other features include the ability to tap a &#8220;catch-up arrow&#8221; to scroll to the first missed message in a conversation in Messages, the ability to take spatial video photos for later viewing on Vision Pro, and several tweaks and additions to the Weather app. ↫ Samuel Axon for Ars Technica Makers of journalling applications for iOS are not going to be in a good mood today, I reckon.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138057/apple-releases-ios-17-2-and-macos-14-2/">https://www.osnews.com/story/138057/apple-releases-ios-17-2-and-macos-14-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138057/apple-releases-ios-17-2-and-macos-14-2/">Save to Pocket</a>
+</span>
+
+---
+
+## NetDrive: access remote disk images in DOS
+
+date: 2023-12-12, from: OS News
+
+NetDrive is a DOS device driver that allows you to access a remote disk image hosted by another machine as though it was a local device with an assigned drive letter. The remote disk image can be a floppy disk image or a hard drive image. ↫ Michael B. Brutman An incredibly useful tool for modern-day DOS work.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138055/netdrive-access-remote-disk-images-in-dos/">https://www.osnews.com/story/138055/netdrive-access-remote-disk-images-in-dos/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138055/netdrive-access-remote-disk-images-in-dos/">Save to Pocket</a>
+</span>
+
+---
+
+## Porporo: an experimental operating system specification for Varvara
+
+date: 2023-12-12, from: OS News
+
+Porporo is an experimental operating system specification for Varvara, written in TAL and ANSI C. This is a work in progress, for more details follow the development during december. ↫ rabbits So, what is Varvara? Varvara is a specification for devices communicating with the Uxn CPU intended to run little audio and visual programs. ↫ Varvara official website &#8230;so, what is the Uxn CPU? This one-page computer, programmable in Uxntal, was designed with an implementation-first mindset and a focus on creating portable graphical tools and games. It lives at the heart of the Varvara personal computer. ↫ Official Uxn CPU website I have no idea what any of this means, but I feel like there&#8217;s something incredibly cool going on here.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138053/porporo-an-experimental-operating-system-specification-for-varvara/">https://www.osnews.com/story/138053/porporo-an-experimental-operating-system-specification-for-varvara/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138053/porporo-an-experimental-operating-system-specification-for-varvara/">Save to Pocket</a>
+</span>
+
+---
+
+## Bots, again
+
+date: 2023-12-11, from: Alex Schroeder's Blog
+
+<h1>Bots, again</h1>
+
+<p>I come home from a friendly meetup and notice that my tiny web-server has a load of 80 instead of the usual 0.5. What the hell is going on? I look at the logs of the last 24 hours and see an IP number with more than 100 000 hits in the last 24h. What are they doing?</p>
+
+<p>Whois tells me it is from the &ldquo;Alibaba Cloud&rdquo;. Oh yeah? What are the Chinese trying to do on my site?</p>
+
+<p>I start poking around. More and more IP numbers from all over the net show up. Alibaba Cloud, Tencent Cloud.</p>
+
+<p>All right, so I&rsquo;m blocking some of them individually as I go, but after a while I realize that I probably have to block them at the network level.</p>
+
+<p>For the moment I&rsquo;m also taking down one of the wikis that&rsquo;s overloading my server.</p>
+
+<p>Just looking at the top 10 offenders for two of my domains, and running whois on them to find the entire network they belong to, and checking that it&rsquo;s Alibaba or Tencent:</p>
+
+<pre><code># Alibaba Cloud 2023-12-10
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.76.0.0/14'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.80.0.0/13'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.74.0.0/14'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.235.0.0/16'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.246.0.0/16'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.244.0.0/15'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.240.0.0/14'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.236.0.0/14'&quot; [or]
+# Tencent Cloud
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '42.192.0.0/15'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '49.232.0.0/14'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '101.34.0.0/15'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '43.142.0.0/16'&quot; [or]
+RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '124.220.0.0/14'&quot;
+RewriteRule ^ https://alexschroeder.ch/nobots [redirect=410,last]
+</code></pre>
+
+<p>If I want this to be for the entire server and not repeat it for each location, I guess I&rsquo;ll have to use Apache rewrite rules.</p>
+
+<p>While I&rsquo;m doing this, I notice a new pattern… My wiki software allows you to fetch a feed for every page. Either it contains updates to the page (Oddmuse), or a feed of the pages linked (Oddmu). It&rsquo;s for humans.</p>
+
+<p>Of course some shit engineer decided that it was a good idea to scan the web for all the feeds that are out there (so rare! so precious!) and to download them all, forever (uncover the darknet! server our customers!) and now I have to block IP number ranges, add robot agents to robots.txt files (not all of them provide one), or block user agents (not all of them provide a useful one) and I block and block and block (for the environment! to avoid +2.0°C and the end of human civilization!) and all this while I know that all these shit requests exist out there, for all the sites, everywhere – a hundred thousand requests or more per day, per site, wasting CO₂ – and what am I going to do, kill the feeds for humans because some shit engineer decided to feed a machine?</p>
+
+<p>I&rsquo;m on the <a href="https://en.wikipedia.org/wiki/Dune_(franchise)#The_Butlerian_Jihad">Butlerian Jihad</a> again.</p>
+
+<p>Oh, and Virgin Media is downloading tons of PDFs I&rsquo;m hosting? Are they looking for copyright violations? On the blocklist they go.</p>
+
+<p>And what&rsquo;s this, Feedly is also downloading feeds like crazy, every few minutes? Slow down, idiots. My news is not important. On the blocklist they go. Or are you trying to train your stupid intelligence? Fuck this AI training stuff. I already use &ldquo;X-Robots-Tag: noimageai&rdquo; but I guess I should add even more HTTP headers to block even more engineers overstepping boundaries?</p>
+
+<p>Ah, and MonitoRSS going into overdrive, from the Amazon Cloud. Really, I don&rsquo;t think there are humans in the Amazon Cloud. Onto the blocklist they go. Well, at least this IP range.</p>
+
+<p>And who&rsquo;s that VelenPublicWebCrawler, zealously collecting pages? Onto the blocklists they go.</p>
+
+<p><a class="tag" href="/search/?q=%23Bots">#Bots</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Administration">#Administration</a></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2023-12-10-bots-again">https://alexschroeder.ch/view/2023-12-10-bots-again</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2023-12-10-bots-again">Save to Pocket</a>
+</span>
+
+---
+
+## Four-time Space Veteran Jeff Williams to Retire from NASA
+
+date: 2023-12-11, from: NASA breaking news
+
+Dec. 11, 2023 RELEASE: J23-007 NASA astronaut and retired U.S. Army Col. Jeffrey Williams, who played a key role in the design, construction, and operation of the International Space Station, is retiring on Sunday, Jan. 14, 2024, after more than 27 years of service at the agency. The two-time station commander spent 534 cumulative days [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/four-time-space-veteran-jeff-williams-to-retire-from-nasa/">https://www.nasa.gov/news-release/four-time-space-veteran-jeff-williams-to-retire-from-nasa/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/four-time-space-veteran-jeff-williams-to-retire-from-nasa/">Save to Pocket</a>
+</span>
+
+---
+
+## Branch Chief Margarita Sampson
+
+date: 2023-12-11, from: NASA breaking news
+
+“There’s this thing called the overview effect: Space has this effect on people that you could probably call almost spiritual. Everyone returns from spaceflight changed in one way or another. … They see the Earth from space, and that’s how they continue to see it after flight. “&#8230; The more people travel to space and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/branch-chief-margarita-sampson/">https://www.nasa.gov/image-article/branch-chief-margarita-sampson/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/branch-chief-margarita-sampson/">Save to Pocket</a>
+</span>
+
+---
+
+## RISCOSbits on the ROAD to WROCC
+
+date: 2023-12-11, from: RiscOS Story
+
+The next Wakefield RISC OS Computer Club (WROCC) meeting will take place a week later than usual, on 13th December &#8211; the second Wednesday of this month, rather than the customary first. The guest speaker will be Andy Marks from RISCOSbits. The weekend just gone saw the MUG RISC OS Xmas Market take place, a small show put on as a last minute replacement for the London Show, which couldn&#8217;t take place this year. RISCOSbits exhibited at the show, with some new kit and developments, and was also punting a&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.riscository.com/2023/riscosbits-on-the-road-to-wrocc/">https://www.riscository.com/2023/riscosbits-on-the-road-to-wrocc/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.riscository.com/2023/riscosbits-on-the-road-to-wrocc/">Save to Pocket</a>
+</span>
+
+---
+
+##  More Christmas Music Recs 
+
+date: 2023-12-11, updated: 2023-12-11, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/more-christmas-music-recs">https://kottke.org/23/12/more-christmas-music-recs</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/more-christmas-music-recs">Save to Pocket</a>
+</span>
+
+---
+
+## Pinebook Pro ROM update brings sound and PCIe
+
+date: 2023-12-11, from: RiscOS Story
+
+Users of R-Comp&#8216;s Pinebook Pro are now able to fetch a new ROM image for the ARM-based laptop from the users&#8217; download site, the address and log-in details for which should be in the computer&#8217;s documentation. The Pinebook Pro is built around a Rockchip RK3399 processor, and several months of work on the port of RISC OS to this chip means there are a number of improvements to it &#8211; but the two features particularly highlighted by R-Comp are that sound and PCIe are now enabled. The enabling of sound&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.riscository.com/2023/pinebook-pro-rom-update-sound-pcie/">https://www.riscository.com/2023/pinebook-pro-rom-update-sound-pcie/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.riscository.com/2023/pinebook-pro-rom-update-sound-pcie/">Save to Pocket</a>
+</span>
+
+---
+
+## R-Comp releases ClockSave to prevent chronological chaos
+
+date: 2023-12-11, from: RiscOS Story
+
+In the days of old, the computers RISC OS was supplied on by Acorn included a battery backed real time clock, which &#8211; while the battery lasted &#8211; kept ticking on and maintaining the time. These days, RISC OS runs on a number of single-board computers (SBCs) and not all of them have such a clock. One solution is NetTime, which can check the time from a remote server and thus correct the computer if it has the wrong value, but it can only work via an internet connection, so&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.riscository.com/2023/r-comp-releases-clocksave/">https://www.riscository.com/2023/r-comp-releases-clocksave/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.riscository.com/2023/r-comp-releases-clocksave/">Save to Pocket</a>
+</span>
+
+---
+
+## Contributions of the DC-8 to Earth System Science at NASA: A Workshop
+
+date: 2023-12-11, from: NASA breaking news
+
+Call for Papers Date: August 13–14, 2024Location: Washington, D.C. Jointly organized by the NASA History Office and the Earth Science Division, this workshop seeks to document the important contributions of airborne campaigns implemented on NASA’s DC-8 Airborne Science Laboratory. The workshop will be a combination of keynote talks, panel discussions, and roundtables. The intention is [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/history/contributions-of-the-dc-8-to-earth-system-science-at-nasa-a-workshop/">https://www.nasa.gov/history/contributions-of-the-dc-8-to-earth-system-science-at-nasa-a-workshop/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/history/contributions-of-the-dc-8-to-earth-system-science-at-nasa-a-workshop/">Save to Pocket</a>
+</span>
+
+---
+
+## Is RISC-V ready for HPC prime-time: evaluating the 64-core Sophon SG2042 RISC-V CPU
+
+date: 2023-12-11, from: OS News
+
+The Sophon SG2042 is the world&#8217;s first commodity 64-core RISC-V CPU for high performance workloads and an important question is whether the SG2042 has the potential to encourage the HPC community to embrace RISC-V. In this paper we undertaking a performance exploration of the SG2042 against existing RISC-V hardware and high performance x86 CPUs in use by modern supercomputers. Leveraging the RAJAPerf benchmarking suite, we discover that on average, the SG2042 delivers, per core, between five and ten times the performance compared to the nearest widely available RISC-V hardware. We found that, on average, the x86 high performance CPUs under test outperform the SG2042 by between four and eight times for multi-threaded workloads, although some individual kernels do perform faster on the SG2042. The result of this work is a performance study that not only contrasts this new RISC-V CPU against existing technologies, but furthermore shares performance best practice. ↫ Nick Brown, Maurice Jamieson, Joseph Lee, Paul Wang The Sophon SG2042 is the RISC-V processor found in the Milk-V Pioneer workstation, which was recently featured on LTT as well, for the video crowd among us. There&#8217;s definitely still a way to go for RISC-V, but the gains over the past few years are clear, and if this keeps progressing this way, it won&#8217;t be long before RISC-V becomes a valid, competitive architecture.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138049/is-risc-v-ready-for-hpc-prime-time-evaluating-the-64-core-sophon-sg2042-risc-v-cpu/">https://www.osnews.com/story/138049/is-risc-v-ready-for-hpc-prime-time-evaluating-the-64-core-sophon-sg2042-risc-v-cpu/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138049/is-risc-v-ready-for-hpc-prime-time-evaluating-the-64-core-sophon-sg2042-risc-v-cpu/">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Blocks Beeper Mini
+
+date: 2023-12-11, from: Michael Tsai
+
+John Gruber: I installed Beeper Mini on my Pixel 4, and it worked like a charm. In addition to working seamlessly&#x2009;&#8212;&#x2009;including support for group chats, tapbacks (albeit substituting animated emoji in place of Apple&#8217;s monochromatic badges), undoing sent messages, and editing recent messages&#x2009;&#8212;&#x2009;it&#8217;s just a really nice chat app. It looks a lot like what [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/11/apple-blocks-beeper-mini/">https://mjtsai.com/blog/2023/12/11/apple-blocks-beeper-mini/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/11/apple-blocks-beeper-mini/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Teams Prepare Moon Rocket-to-Spacecraft Connector for Assembly
+
+date: 2023-12-11, from: NASA breaking news
+
+The elements of the super-heavy lift SLS (Space Launch System) rocket for NASA’s Artemis II mission are undergoing final preparations before shipment to NASA’s Kennedy Space Center in Florida for stacking and pre-launch activities in 2024. Teams at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently rotated the Orion stage adapter– a ring structure [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasa-teams-prepare-moon-rocket-to-spacecraft-connector-for-assembly/">https://www.nasa.gov/image-article/nasa-teams-prepare-moon-rocket-to-spacecraft-connector-for-assembly/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasa-teams-prepare-moon-rocket-to-spacecraft-connector-for-assembly/">Save to Pocket</a>
+</span>
+
+---
+
+## Where Have the Network Tools Gone?
+
+date: 2023-12-11, from: Michael Tsai
+
+Howard Oakley: When writing about network tools available in macOS just eight years ago, I identified three GUI apps:Network Utility, tucked away in /System/Library/CoreServices/Applications,Wireless Diagnostics, accessed via the WiFi menu,Network Diagnostics, hidden in /System/Library/CoreServices.It seems strange that of those three, only one has survived into Sonoma.[&#8230;]In Apple&#8217;s current support documents, there appears to be no [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/11/where-have-the-network-tools-gone/">https://mjtsai.com/blog/2023/12/11/where-have-the-network-tools-gone/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/11/where-have-the-network-tools-gone/">Save to Pocket</a>
+</span>
+
+---
+
+## WhatsApp Supports Photos and Video in Original Quality
+
+date: 2023-12-11, from: Michael Tsai
+
+Tim Hardwick: WhatsApp is rolling out a new option that lets users on iPhone share photos and video over the messaging platform in their original quality.[&#8230;]WhatsApp&#8217;s latest feature avoids compression altogether by allowing photos and video to be shared as files, thereby preserving their original quality. Being able to send full-quality media is one of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/11/whatsapp-supports-photos-and-video-in-original-quality/">https://mjtsai.com/blog/2023/12/11/whatsapp-supports-photos-and-video-in-original-quality/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/11/whatsapp-supports-photos-and-video-in-original-quality/">Save to Pocket</a>
+</span>
+
+---
+
+## Opening URLs in Private Safari Windows
+
+date: 2023-12-11, from: Michael Tsai
+
+Jeff Johnson: The problem with using both private and public windows is that when I open a URL in Safari from another app, such as Mail app, or such as my own Link Unshortener, which I use as my default web browser, I can&#8217;t control where exactly the URL opens. If the frontmost Safari window [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/11/opening-urls-in-private-safari-windows/">https://mjtsai.com/blog/2023/12/11/opening-urls-in-private-safari-windows/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/11/opening-urls-in-private-safari-windows/">Save to Pocket</a>
+</span>
+
+---
+
+##  Edith&#8217;s Best Running Gear of 2020-2023 
+
+date: 2023-12-11, updated: 2023-12-11, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/running-gear">https://kottke.org/23/12/running-gear</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/running-gear">Save to Pocket</a>
+</span>
+
+---
+
+## Google Maps in Late 2023
+
+date: 2023-12-11, from: Michael Tsai
+
+Tim Hardwick: When users get directions for driving, walking, or cycling, Google Maps now offers a &#8220;multidimensional experience&#8221; that can be used to preview bike lanes, sidewalks, intersections, and parking along the route, according to Google.A time slider can be used to see air quality information and how the route looks as the weather changes [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/11/google-maps-in-late-2023/">https://mjtsai.com/blog/2023/12/11/google-maps-in-late-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/11/google-maps-in-late-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Google’s Gemini
+
+date: 2023-12-11, from: Michael Tsai
+
+Casey Newton: Google this morning announced the rollout of Gemini, its largest and most capable large language model to date. Starting today, the company&#8217;s Bard chatbot will be powered by a version of Gemini, and will be available in English in more than 170 countries and territories. Developers and enterprise customers will get access to [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/11/googles-gemini/">https://mjtsai.com/blog/2023/12/11/googles-gemini/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/11/googles-gemini/">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;I&#8217;ll finish this, then call him and confess everything.&#8221; Artist Gabrielle Bell&#8217;s... 
+
+date: 2023-12-11, updated: 2023-12-11, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043606-artist-gabrielle-bells-dr">https://kottke.org/23/12/0043606-artist-gabrielle-bells-dr</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043606-artist-gabrielle-bells-dr">Save to Pocket</a>
+</span>
+
+---
+
+## Fixing Classical Cats; or, How I Got Tricked by 28-year-old Defensive Programming
+
+date: 2023-12-11, from: Tilde.news
+
+<p><a href="https://tilde.news/s/rbqkso/fixing_classical_cats_how_i_got_tricked_by">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/">https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mistys-internet.website/blog/blog/2023/12/10/fixing-classical-cats-or/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA invita a medios al lanzamiento de misión para estudiar océanos y nubes
+
+date: 2023-12-11, from: NASA breaking news
+
+Read this release in English here. Ya está abierta la acreditación para los medios de comunicación para el próximo lanzamiento de la misión científica de observación de la Tierra PACE (acrónimo inglés para Plancton, Aerosoles, Nubes y Ecosistemas Oceánicos) de la NASA. La NASA y SpaceX planean poner en órbita PACE no antes del martes 6 [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-invita-a-medios-al-lanzamiento-de-mision-para-estudiar-oceanos-y-nubes/">https://www.nasa.gov/news-release/nasa-invita-a-medios-al-lanzamiento-de-mision-para-estudiar-oceanos-y-nubes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-invita-a-medios-al-lanzamiento-de-mision-para-estudiar-oceanos-y-nubes/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Invites Media to Launch of New Mission to Study Oceans, Clouds
+
+date: 2023-12-11, from: NASA breaking news
+
+Lee esta nota de prensa en español&#160;aquí. Media accreditation is open for the upcoming launch of NASA’s PACE (Plankton, Aerosol, Cloud ocean Ecosystem) Earth observing science mission. NASA and SpaceX are targeting no earlier than Tuesday, Feb. 6, for a Falcon 9 rocket to launch PACE to orbit from Space Launch Complex 40 at Cape [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-invites-media-to-launch-of-new-mission-to-study-oceans-clouds/">https://www.nasa.gov/news-release/nasa-invites-media-to-launch-of-new-mission-to-study-oceans-clouds/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-invites-media-to-launch-of-new-mission-to-study-oceans-clouds/">Save to Pocket</a>
+</span>
+
+---
+
+## Astronaut Kathryn Thornton Works on Hubble Space Telescope
+
+date: 2023-12-11, from: NASA breaking news
+
+In this image from Dec. 8, 1993, astronaut Kathryn C. Thornton works with equipment during a spacewalk. The spacewalk was part of an 11-day mission, Servicing Mission 1, to service the Hubble Space Telescope. Shortly after Hubble was launched in 1990, NASA discovered a flaw in the observatory&#8217;s primary mirror that affected the clarity of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/astronaut-kathryn-thornton-works-on-hubble-space-telescope/">https://www.nasa.gov/image-article/astronaut-kathryn-thornton-works-on-hubble-space-telescope/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/astronaut-kathryn-thornton-works-on-hubble-space-telescope/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Sensor Produces First Global Maps of Surface Minerals in Arid Regions
+
+date: 2023-12-11, from: NASA breaking news
+
+EMIT delivers first-of-a-kind maps of minerals in Earth’s dust-source areas, enabling scientists to model the fine particles’ role in climate change and more. NASA’s EMIT mission has created the first comprehensive maps of the world’s mineral dust-source regions, providing precise locations of 10 key minerals based on how they reflect and absorb light. When winds [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/emit/nasa-sensor-produces-first-global-maps-of-surface-minerals-in-arid-regions/">https://www.nasa.gov/missions/emit/nasa-sensor-produces-first-global-maps-of-surface-minerals-in-arid-regions/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/emit/nasa-sensor-produces-first-global-maps-of-surface-minerals-in-arid-regions/">Save to Pocket</a>
+</span>
+
+---
+
+## Ignore the coming election bump
+
+date: 2023-12-11, from: Nieman Journalism Lab
+
+2024 will be a big election year, in the United States and elsewhere. Many news publishers will see an uptick in audience attention, perhaps even advertising, and a few upmarket titles will do a brisk business with discounted trial subscriptions. I fear that some will mistake this cyclical bump for a structural turning point. It...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/ignore-the-coming-election-bump/">https://www.niemanlab.org/2023/12/ignore-the-coming-election-bump/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/ignore-the-coming-election-bump/">Save to Pocket</a>
+</span>
+
+---
+
+## Experts — not influencers — will cover more Black news
+
+date: 2023-12-11, from: Nieman Journalism Lab
+
+Tory Lanez shot Megan thee Stallion. That is a fact. He was found guilty of this crime and is serving a ten-year sentence in California. That is also a fact. But the road to this verdict and the unveiling of these facts was filled with misinformation and misogynoir from media bloggers who’ve cosplayed as journalists...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/experts-not-influencers-will-cover-more-black-news/">https://www.niemanlab.org/2023/12/experts-not-influencers-will-cover-more-black-news/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/experts-not-influencers-will-cover-more-black-news/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Leadership Changes to Include NASA Stennis Director’s Retirement
+
+date: 2023-12-11, from: NASA breaking news
+
+NASA Administrator Bill Nelson announced Monday that after more than 30 years of service, the agency’s Stennis Space Center Director Richard Gilbrech will retire on Saturday, Jan. 13. Stennis Deputy Director John Bailey will serve as acting center director after Gilbrech’s departure, and a permanent successor will be identified following a search and competition. Nelson [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/2024-leadership-changes-to-include-nasa-stennis-directors-retirement/">https://www.nasa.gov/news-release/2024-leadership-changes-to-include-nasa-stennis-directors-retirement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/2024-leadership-changes-to-include-nasa-stennis-directors-retirement/">Save to Pocket</a>
+</span>
+
+---
+
+## A major sports betting journalism scandal is coming
+
+date: 2023-12-11, from: Nieman Journalism Lab
+
+The predictions in this series are often happy, joyful, optimistic about the coming year, bursting with all the promise and possibilities facing journalism in the next 12 months.  Allow me to be a downer just this once. My prediction for 2024 is that there will be a major scandal involving a sports journalist and sports...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/a-major-sports-betting-journalism-scandal-is-coming/">https://www.niemanlab.org/2023/12/a-major-sports-betting-journalism-scandal-is-coming/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/a-major-sports-betting-journalism-scandal-is-coming/">Save to Pocket</a>
+</span>
+
+---
+
+##  Baby Drawings 
+
+date: 2023-12-11, updated: 2023-12-11, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/baby-drawings">https://kottke.org/23/12/baby-drawings</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/baby-drawings">Save to Pocket</a>
+</span>
+
+---
+
+## This election year, don’t forget there’s more than one story
+
+date: 2023-12-11, from: Nieman Journalism Lab
+
+To a journalist, a presidential election year is kind of like Christmas morning to a six-year-old — as the event gets closer, conversation, planning, and feverish anticipation accelerates to an obsessive frenzy. To a great degree, it&#8217;s all they can think about. But there is one piece of advice I give my friends, colleagues, and clients...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/this-election-year-dont-forget-theres-more-than-one-story/">https://www.niemanlab.org/2023/12/this-election-year-dont-forget-theres-more-than-one-story/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/this-election-year-dont-forget-theres-more-than-one-story/">Save to Pocket</a>
+</span>
+
+---
+
+## AI gets widely adopted by smaller newsrooms
+
+date: 2023-12-11, from: Nieman Journalism Lab
+
+Throughout our two years of work on AP’s Local News AI Initiative, funded by the Knight Foundation, we’ve come to this general observation: Smaller newsrooms are hungry for automation and AI. Along with my colleague, AI program manager Aimee Rinehart, we published the first nationwide findings in March 2022 on how local newsrooms were approaching...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/ai-gets-widely-adopted-by-smaller-newsrooms/">https://www.niemanlab.org/2023/12/ai-gets-widely-adopted-by-smaller-newsrooms/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/ai-gets-widely-adopted-by-smaller-newsrooms/">Save to Pocket</a>
+</span>
+
+---
+
+## Journalists will go on camera for social video
+
+date: 2023-12-11, from: Nieman Journalism Lab
+
+
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/journalists-will-go-on-camera-for-social-video/">https://www.niemanlab.org/2023/12/journalists-will-go-on-camera-for-social-video/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/journalists-will-go-on-camera-for-social-video/">Save to Pocket</a>
+</span>
+
+---
+
+## Seoul’s Imported Prophets
+
+date: 2023-12-11, from: Care
+
+
+                <p>Sam Altman arrives as a mythological hero in the self-help-saturated capital city of South Korea. However, there’s more than meets the eye, including a radical art space that deconstructs the AI hype cycle for a Korean audience.</p>
+
+            
+
+<span class="feed-item-link">
+<a href="https://logicmag.io/policy/seouls-imported-prophets">https://logicmag.io/policy/seouls-imported-prophets</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/policy/seouls-imported-prophets">Save to Pocket</a>
+</span>
+
+---
+
+##  Pleasantly surprised to find that Arts & Letters Daily &#8212; a great... 
+
+date: 2023-12-11, updated: 2023-12-11, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043600-pleasantly-surprised-to-f">https://kottke.org/23/12/0043600-pleasantly-surprised-to-f</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043600-pleasantly-surprised-to-f">Save to Pocket</a>
+</span>
+
+---
+
+## Solving the Looming Developer Liability Problem
+
+date: 2023-12-11, from: James Bottomley's blog
+
+Even if you&#8217;re a developer with legal leanings like me, you probably haven&#8217;t given much thought to the warranty disclaimer and the liability disclaimer that appears in almost every Open Source licence (see sections 14 and 15 of GPLv3). This post is designed to help you understand what they are, why they&#8217;re there and why [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.hansenpartnership.com/solving-the-looming-developer-liability-problem/">https://blog.hansenpartnership.com/solving-the-looming-developer-liability-problem/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.hansenpartnership.com/solving-the-looming-developer-liability-problem/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Engineer Named in Forbes 30 Under 30 List of Innovators
+
+date: 2023-12-11, from: NASA breaking news
+
+Clare Luckey, an engineer at NASA’s Johnson Space Center in Houston, has been named one of Forbes’ 30 under 30 Class of 2024. The other NASA honoree is Katie Konans, audio and podcasting lead at the agency’s Goddard Space Flight Center in Greenbelt, Maryland. Forbes’ 30 Under 30 list is a selection of young, creative, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/johnson/nasa-engineer-named-in-forbes-30-under-30-list-of-innovators-2/">https://www.nasa.gov/centers-and-facilities/johnson/nasa-engineer-named-in-forbes-30-under-30-list-of-innovators-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/johnson/nasa-engineer-named-in-forbes-30-under-30-list-of-innovators-2/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -384,6 +901,18 @@ tools, and more.
 
 ---
 
+## Genealogist uncovers family histories with help of Internet Archive
+
+date: 2023-12-11, from: Internet Archive Blog
+
+In tracing her family history, Taneya Koonce discovered stories about her African American ancestors in records going back to the late 1700s. Many were enslaved. She followed the path of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.archive.org/2023/12/11/genealogist-uncovers-family-histories-with-help-of-internet-archive/">https://blog.archive.org/2023/12/11/genealogist-uncovers-family-histories-with-help-of-internet-archive/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.archive.org/2023/12/11/genealogist-uncovers-family-histories-with-help-of-internet-archive/">Save to Pocket</a>
+</span>
+
+---
+
 ## Christmas with Raspberry Pi 5 | #MagPiMonday
 
 date: 2023-12-11, from: Raspberry Pi News (.com)
@@ -442,66 +971,6 @@ date: 2023-12-11, from: Tilde.news
 
 <span class="feed-item-link">
 <a href="https://cblgh.org/dl/trustnet-cblgh.pdf">https://cblgh.org/dl/trustnet-cblgh.pdf</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://cblgh.org/dl/trustnet-cblgh.pdf">Save to Pocket</a>
-</span>
-
----
-
-## Bots, again
-
-date: 2023-12-10, from: Alex Schroeder's Blog
-
-<h1>Bots, again</h1>
-
-<p>I come home from a friendly meetup and notice that my tiny web-server has a load of 80 instead of the usual 0.5. What the hell is going on? I look at the logs of the last 24 hours and see an IP number with more than 100 000 hits in the last 24h. What are they doing?</p>
-
-<p>Whois is tells me it is from the &ldquo;Alibaba Cloud&rdquo;. Oh yeah? What are the Chinese trying to do on my site?</p>
-
-<p>I start poking around. More and more IP numbers from all over the net show up. Alibaba Cloud, Tencent Cloud.</p>
-
-<p>All right, so I&rsquo;m blocking some of them individually as I go, but after a while I realize that I probably have to block them at the network level.</p>
-
-<p>For the moment I&rsquo;m also taking down one of the wikis that&rsquo;s overloading my server.</p>
-
-<p>Just looking at the top 10 offenders for two of my domains, and running whois on them to find the entire network they belong to, and checking that it&rsquo;s Alibaba or Tencent:</p>
-
-<pre><code># Alibaba Cloud 2023-12-10
-RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.76.0.0/14'&quot; [or]
-RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.80.0.0/13'&quot; [or]
-RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.74.0.0/14'&quot; [or]
-RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.235.0.0/16'&quot; [or]
-RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.246.0.0/16'&quot; [or]
-RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.244.0.0/15'&quot; [or]
-RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.240.0.0/14'&quot; [or]
-RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '47.236.0.0/14'&quot; [or]
-# Tencent Cloud
-RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '42.192.0.0/15'&quot; [or]
-RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '49.232.0.0/14'&quot; [or]
-RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '101.34.0.0/15'&quot; [or]
-RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '43.142.0.0/16'&quot; [or]
-RewriteCond &quot;%{REMOTE_ADDR}&quot; &quot;-R '124.220.0.0/14'&quot;
-RewriteRule ^ https://alexschroeder.ch/nobots [redirect=410,last]
-</code></pre>
-
-<p>If I want this to be for the entire server and not repeat it for each location, I guess I&rsquo;ll have to use Apache rewrite rules.</p>
-
-<p>While I&rsquo;m doing this, I notice a new pattern… My wiki software allows you to fetch a feed for every page. Either it contains updates to the page (Oddmuse), or a feed of the pages linked (Oddmu). It&rsquo;s for humans.</p>
-
-<p>Of course some shit engineer decided that it was a good idea to scan the web for all the feeds that are out there (so rare! so precious!) and to download them all, forever (uncover the darknet! server our customers!) and now I have to block IP number ranges, add robot agents to robots.txt files (not all of them provide one), or block user agents (not all of them provide a useful one) and I block and block and block (for the environment! to avoid +2.0°C and the end of human civilization!) and all this while I know that all these shit requests exist out there, for all the sites, everywhere – a hundred thousand requests or more per day, per site, wasting CO₂ – and what am I going to do, kill the feeds for humans because some shit engineer decided to feed a machine?</p>
-
-<p>I&rsquo;m on the <a href="https://en.wikipedia.org/wiki/Dune_(franchise)#The_Butlerian_Jihad">Butlerian Jihad</a> again.</p>
-
-<p>Oh, and Virgin Media is downloading tons of PDFs I&rsquo;m hosting? Are they looking for copyright violations? On the blocklist they go.</p>
-
-<p>And what&rsquo;s this, Feedly is also downloading feeds like crazy, every few minutes? Slow down, idiots. My news is not important. On the blocklist they go. Or are you trying to train you stupid intelligence? Fuck this AI training stuff. I already use &ldquo;X-Robots-Tag: noimageai&rdquo; but I guess I should add even more HTTP headers to block even more engineers overstepping boundaries?</p>
-
-<p>Ah, and MonitoRSS going into overdrive, from the Amazon Cloud. Really, I don&rsquo;t think there are humans in the Amazon Cloud. Onto the blocklist they go. Well, at least this IP range.</p>
-
-<p>And who&rsquo;s that VelenPublicWebCrawler, zealously collecting pages? Onto the blocklists they go.</p>
-
-<p><a class="tag" href="/search/?q=%23Bots">#Bots</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Administration">#Administration</a></p>
-
-<span class="feed-item-link">
-<a href="https://alexschroeder.ch/view/2023-12-10-bots-again">https://alexschroeder.ch/view/2023-12-10-bots-again</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2023-12-10-bots-again">Save to Pocket</a>
 </span>
 
 ---
