@@ -1,11 +1,59 @@
 ---
 title: mid central 2023.50
-updated: 2023-12-11 08:09:12
+updated: 2023-12-11 17:24:24
 ---
 
 # mid central 2023.50
 
-(date: 2023-12-11 08:09:12)
+(date: 2023-12-11 17:24:24)
+
+---
+
+## Armenian Studies Program Library and Archive Grows with New Addition of Memoirs and Maps
+
+date: 2023-12-11, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The Armenian Studies Program has recently acquired some interesting unpublished works donated to the Armenian Studies Program Library and Archive. One of the newest collections, “The Margossian Collection,” was donated by Knarik Clara Margossian, daughter of Margos Der Margossian. The collection contains Margos Margossian’s handwritten diaries and family history; two of his published books from...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2023/12/armenian-studies-program-library-and-archive-grows-with-new-addition-of-memoirs-and-maps/">https://fscollegian.com/2023/12/armenian-studies-program-library-and-archive-grows-with-new-addition-of-memoirs-and-maps/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/armenian-studies-program-library-and-archive-grows-with-new-addition-of-memoirs-and-maps/">Save to Pocket</a>
+</span>
+
+---
+
+## WRC-23 Reaches Acceptable Conclusion on 23-centimeter Issue
+
+date: 2023-12-11, from: Amateur Radio Relay League News
+
+
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/wrc-23-reaches-acceptable-conclusion-on-23-centimeter-issue">http://www.arrl.org/news/view/wrc-23-reaches-acceptable-conclusion-on-23-centimeter-issue</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/wrc-23-reaches-acceptable-conclusion-on-23-centimeter-issue">Save to Pocket</a>
+</span>
+
+---
+
+## Freeze Warning issued December 11 at 9:47AM PST until December 13 at 8:00AM PST by NWS
+
+date: 2023-12-11, updated: 2023-12-11, from: Merced, Weather.gov CAP v1.1 alerts
+
+...FREEZE WARNING REMAINS IN EFFECT UNTIL 8 AM PST WEDNESDAY... * WHAT...Sub-freezing temperatures as low as 30. * WHERE...Buttonwillow - Lost Hills - I5, Caruthers - San Joaquin - Selma, Delano-Wasco-Shafter, Hanford - Corcoran - Lemoore, Los Banos - Dos Palos, Merced - Madera - Mendota, Planada - Le Grand - Snelling, Southeast San Joaquin Valley, Visalia - Porterville -
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12667227CB2C.FreezeWarning.126672461640CA.HNXNPWHNX.3b6e89560ea16be90f3b4bebb9d52b8d">https://alerts.weather.gov/cap/wwacapget.php?x=CA12667227CB2C.FreezeWarning.126672461640CA.HNXNPWHNX.3b6e89560ea16be90f3b4bebb9d52b8d</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA12667227CB2C.FreezeWarning.126672461640CA.HNXNPWHNX.3b6e89560ea16be90f3b4bebb9d52b8d">Save to Pocket</a>
+</span>
+
+---
+
+## Setrak Timourian’s New Memoir – In Front of the Eyes of the World – Topic of Panel Discussion
+
+date: 2023-12-11, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+“Every day I used to go and touch the memoir and say – when is your time going to come?” said Maggie Mangasarian-Goschen, director of Ararat Eskijian Museum, in reference to a visionary memoir by Setrak Timourian. On Saturday, November 11, 2023, the Armenian Studies Program held a Zoom presentation on the publication of Timourian’s...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2023/12/setrak-timourians-new-memoir-in-front-of-the-eyes-of-the-world-topic-of-panel-discussion/">https://fscollegian.com/2023/12/setrak-timourians-new-memoir-in-front-of-the-eyes-of-the-world-topic-of-panel-discussion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/setrak-timourians-new-memoir-in-front-of-the-eyes-of-the-world-topic-of-panel-discussion/">Save to Pocket</a>
+</span>
 
 ---
 

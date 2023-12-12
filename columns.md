@@ -1,11 +1,35 @@
 ---
 title: columns 2023.50
-updated: 2023-12-11 08:09:12
+updated: 2023-12-11 17:24:24
 ---
 
 # columns 2023.50
 
-(date: 2023-12-11 08:09:12)
+(date: 2023-12-11 17:24:24)
+
+---
+
+## Jury Rules for Epic Games in Lawsuit Against Google
+
+date: 2023-12-12, updated: 2023-12-12, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play">https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theverge.com/23994174/epic-google-trial-jury-verdict-monopoly-google-play">Save to Pocket</a>
+</span>
+
+---
+
+## Navigating the Bumpy Road Ahead: AI and the Lessons from History
+
+date: 2023-12-11, from: Om Malik blog
+
+Microsoft &#038; the AFL-CIO have formed a partnership aimed at shaping the future of AI in the workforce. Big news! If you look beyond the headlines, and questions emerge about the actual impact of AI on employment, particularly in white-collar sectors. 
+
+<span class="feed-item-link">
+<a href="https://om.co/2023/12/11/microsoft-afl-cio-ai-deal/">https://om.co/2023/12/11/microsoft-afl-cio-ai-deal/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2023/12/11/microsoft-afl-cio-ai-deal/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -74,7 +98,7 @@ And last week&#8217;s winner
 
 ## University of Pennsylvania President Liz Magill Resigns After Embarrassing Testimony in Congressional Antisemitism Hearing
 
-date: 2023-12-10, updated: 2023-12-10, from: Daring Fireball
+date: 2023-12-10, updated: 2023-12-11, from: Daring Fireball
 
 
 
