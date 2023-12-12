@@ -1,11 +1,11 @@
 ---
 title: columns 2023.50
-updated: 2023-12-12 12:37:41
+updated: 2023-12-12 14:27:36
 ---
 
 # columns 2023.50
 
-(date: 2023-12-12 12:37:41)
+(date: 2023-12-12 14:27:36)
 
 ---
 
@@ -13,7 +13,7 @@ updated: 2023-12-12 12:37:41
 
 date: 2023-12-12, from: Om Malik blog
 
-It shouldn’t come as a surprise to anyone that I am a big fan of Apple’s Vision Pro, a spatial computer that probably will reshape our relationship with entertainment, media, and content—if nothing else—when it comes to market. Ever since Apple announced the device at WWDC 2023, I have used it twice—and both times I came away &#8230;
+It shouldn’t come as a surprise to anyone that I am a big fan of Apple’s Vision Pro, a spatial computer that&#160;probably will reshape our relationship with entertainment, media, and content—if nothing else—when it comes to market. Ever since&#160;Apple announced the device at WWDC 2023, I have used it twice—and both times I came away &#8230;
 
 <span class="feed-item-link">
 <a href="https://om.co/2023/12/12/so-whats-the-latest-with-apples-visionpro/">https://om.co/2023/12/12/so-whats-the-latest-with-apples-visionpro/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2023/12/12/so-whats-the-latest-with-apples-visionpro/">Save to Pocket</a>
