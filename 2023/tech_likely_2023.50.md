@@ -1,11 +1,23 @@
 ---
 title: tech likely 2023.50
-updated: 2023-12-12 14:27:36
+updated: 2023-12-12 15:31:36
 ---
 
 # tech likely 2023.50
 
-(date: 2023-12-12 14:27:36)
+(date: 2023-12-12 15:31:36)
+
+---
+
+## Meta’s Chief AI Officer is lying about the EU AI Act
+
+date: 2023-12-12, from: Gary Marcus blog
+
+A few days ago it looked like the EU AI Act had finally been negotiated, and resolved. There was much rejoicing. But the big tech executives that would need to deal with it aren&#8217;t happy, and are doing their best after the fact to undermine a hard-won compromise that involved years of negotiations and multiple all-nighters.
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/metas-chief-ai-officer-is-lying-about">https://garymarcus.substack.com/p/metas-chief-ai-officer-is-lying-about</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/metas-chief-ai-officer-is-lying-about">Save to Pocket</a>
+</span>
 
 ---
 

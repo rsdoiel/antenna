@@ -1,11 +1,35 @@
 ---
 title: socal north 2023.50
-updated: 2023-12-12 14:27:36
+updated: 2023-12-12 15:31:36
 ---
 
 # socal north 2023.50
 
-(date: 2023-12-12 14:27:36)
+(date: 2023-12-12 15:31:36)
+
+---
+
+## LA Leaders Tackle Homelessness Crisis, But Many Services Are Still ‘Woefully Inadequate’
+
+date: 2023-12-12, updated: 2023-12-12, from: The LAist
+
+Why service gaps are being filled by volunteers and mutual aid groups
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/how-to-la/la-leaders-homelessness-crisis-services-mutual-aid">https://laist.com/news/how-to-la/la-leaders-homelessness-crisis-services-mutual-aid</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/how-to-la/la-leaders-homelessness-crisis-services-mutual-aid">Save to Pocket</a>
+</span>
+
+---
+
+## At A Gaza Hospital, Doctors Are Fleeing, Supplies Are Low And There's Not Enough Beds
+
+date: 2023-12-12, updated: 2023-12-12, from: The LAist
+
+In the Palestinian territory's second-largest city, Khan Younis, thousands have taken shelter on the grounds of Nasser Medical Complex, where staff describe an increasingly desperate situation.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/gaza-hospital-doctors-fleeing-supplies-low">https://laist.com/news/gaza-hospital-doctors-fleeing-supplies-low</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/gaza-hospital-doctors-fleeing-supplies-low">Save to Pocket</a>
+</span>
 
 ---
 

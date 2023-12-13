@@ -1,11 +1,83 @@
 ---
 title: pacific 2023.50
-updated: 2023-12-12 14:27:36
+updated: 2023-12-12 15:31:36
 ---
 
 # pacific 2023.50
 
-(date: 2023-12-12 14:27:36)
+(date: 2023-12-12 15:31:36)
+
+---
+
+## Biden backs Ukraine, warns against allowing Putin to win
+
+date: 2023-12-12, from: The Guam Daily Post
+
+President Joe Biden told President Volodymyr Zelensky on Tuesday that the United States will not abandon Ukraine in its desperate fight against Russia, even as Republicans signaled opposition to extending US war funding.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/biden-backs-ukraine-warns-against-allowing-putin-to-win/article_77874d7a-3da5-532b-8899-c9076be0f95e.html">https://www.postguam.com/news/national/biden-backs-ukraine-warns-against-allowing-putin-to-win/article_77874d7a-3da5-532b-8899-c9076be0f95e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/biden-backs-ukraine-warns-against-allowing-putin-to-win/article_77874d7a-3da5-532b-8899-c9076be0f95e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Embattled Harvard University president to stay after anti-Semitism row
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Harvard University's president, under fire over testimony she gave about anti-Semitism on campus, will remain in her job after a meeting of the institution's governing body issued a statement backing her on Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/embattled-harvard-university-president-to-stay-after-anti-semitism-row/article_b79bf64c-5cc8-5268-93e5-9fb0fd04f10b.html">https://www.postguam.com/news/national/embattled-harvard-university-president-to-stay-after-anti-semitism-row/article_b79bf64c-5cc8-5268-93e5-9fb0fd04f10b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/embattled-harvard-university-president-to-stay-after-anti-semitism-row/article_b79bf64c-5cc8-5268-93e5-9fb0fd04f10b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Biden, UN General Assembly pile pressure on Israel's Hamas war
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Pressure intensified on Israel on Tuesday as US President Joe Biden warned it risked losing support in its war on Hamas by "indiscriminate" bombing in Gaza and the UN General Assembly demanded a ceasefire.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/biden-un-general-assembly-pile-pressure-on-israels-hamas-war/article_082dc29d-64f1-5bc0-9c64-e98737eebf04.html">https://www.postguam.com/news/national/biden-un-general-assembly-pile-pressure-on-israels-hamas-war/article_082dc29d-64f1-5bc0-9c64-e98737eebf04.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/biden-un-general-assembly-pile-pressure-on-israels-hamas-war/article_082dc29d-64f1-5bc0-9c64-e98737eebf04.html">Save to Pocket</a>
+</span>
+
+---
+
+## UN General Assembly overwhelmingly demands Gaza ceasefire
+
+date: 2023-12-12, from: The Guam Daily Post
+
+The UN General Assembly overwhelmingly passed a non-binding resolution Tuesday demanding a ceasefire in Gaza -- taking the lead from the paralyzed Security Council, and piling pressure on Israel and Washington.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/un-general-assembly-overwhelmingly-demands-gaza-ceasefire/article_a7a2ae2f-0940-58fb-b65b-488c7984c4d1.html">https://www.postguam.com/news/national/un-general-assembly-overwhelmingly-demands-gaza-ceasefire/article_a7a2ae2f-0940-58fb-b65b-488c7984c4d1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/un-general-assembly-overwhelmingly-demands-gaza-ceasefire/article_a7a2ae2f-0940-58fb-b65b-488c7984c4d1.html">Save to Pocket</a>
+</span>
+
+---
+
+## Climate negotiators eye fossil fuel compromise in marathon talks
+
+date: 2023-12-12, from: The Guam Daily Post
+
+UN climate talks went deep into overtime Wednesday with another night of negotiations aimed at breaking a deadlock between nations pushing for a historic phase-out of fossil fuels and Saudi-led oil producers.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/climate-negotiators-eye-fossil-fuel-compromise-in-marathon-talks/article_513a7eb7-31ac-5e25-a08a-108403b6a74f.html">https://www.postguam.com/news/national/climate-negotiators-eye-fossil-fuel-compromise-in-marathon-talks/article_513a7eb7-31ac-5e25-a08a-108403b6a74f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/climate-negotiators-eye-fossil-fuel-compromise-in-marathon-talks/article_513a7eb7-31ac-5e25-a08a-108403b6a74f.html">Save to Pocket</a>
+</span>
+
+---
+
+## US stocks shrug off mixed inflation data, extending rally
+
+date: 2023-12-12, from: The Guam Daily Post
+
+US stocks finished solidly higher Tuesday, shaking off early weakness on continued bullish sentiment as a mixed inflation report contributed to a drop in oil prices.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/us-stocks-shrug-off-mixed-inflation-data-extending-rally/article_fd950e5e-fd73-580c-be0f-8591e0b3438e.html">https://www.postguam.com/news/national/us-stocks-shrug-off-mixed-inflation-data-extending-rally/article_fd950e5e-fd73-580c-be0f-8591e0b3438e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/us-stocks-shrug-off-mixed-inflation-data-extending-rally/article_fd950e5e-fd73-580c-be0f-8591e0b3438e.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -18,6 +90,18 @@ The post <a href="https://www.hawaii.edu/news/2023/12/12/lang-womens-national-te
 
 <span class="feed-item-link">
 <a href="https://www.hawaii.edu/news/2023/12/12/lang-womens-national-team-open/">https://www.hawaii.edu/news/2023/12/12/lang-womens-national-team-open/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/12/lang-womens-national-team-open/">Save to Pocket</a>
+</span>
+
+---
+
+## Man Utd crash out of Europe after 1-0 defeat to Bayern
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Manchester United crashed out of Europe as a 1-0 home defeat to Bayern Munich on Tuesday rounded off a miserable Champions League campaign for the Red Devils.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/man-utd-crash-out-of-europe-after-1-0-defeat-to-bayern/article_31e0a6b9-5d68-5d3f-aaab-e729da501a0c.html">https://www.postguam.com/news/national/man-utd-crash-out-of-europe-after-1-0-defeat-to-bayern/article_31e0a6b9-5d68-5d3f-aaab-e729da501a0c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/man-utd-crash-out-of-europe-after-1-0-defeat-to-bayern/article_31e0a6b9-5d68-5d3f-aaab-e729da501a0c.html">Save to Pocket</a>
 </span>
 
 ---
@@ -55,6 +139,30 @@ Blue Origin said on Tuesday it was aiming to launch its New Shepard suborbital r
 
 <span class="feed-item-link">
 <a href="https://www.postguam.com/news/national/blue-origin-announces-space-launch-next-week-first-since-2022-crash/article_970974e0-3047-5a8e-bdfa-30147d6a9a54.html">https://www.postguam.com/news/national/blue-origin-announces-space-launch-next-week-first-since-2022-crash/article_970974e0-3047-5a8e-bdfa-30147d6a9a54.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/blue-origin-announces-space-launch-next-week-first-since-2022-crash/article_970974e0-3047-5a8e-bdfa-30147d6a9a54.html">Save to Pocket</a>
+</span>
+
+---
+
+## Donald Tusk: recent EU bigwig back in command in Poland
+
+date: 2023-12-12, from: The Guam Daily Post
+
+Polish Prime Minister Donald Tusk, who ousted the conservatives from power, is a veteran politician and former EU chief with a passion for football and roots in the anti-communist movement.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/donald-tusk-recent-eu-bigwig-back-in-command-in-poland/article_b185ba6c-2628-52a0-9ce9-b94a9b32a50d.html">https://www.postguam.com/news/national/donald-tusk-recent-eu-bigwig-back-in-command-in-poland/article_b185ba6c-2628-52a0-9ce9-b94a9b32a50d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/donald-tusk-recent-eu-bigwig-back-in-command-in-poland/article_b185ba6c-2628-52a0-9ce9-b94a9b32a50d.html">Save to Pocket</a>
+</span>
+
+---
+
+## Biden warns Netanyahu risks losing support for Hamas war
+
+date: 2023-12-12, from: The Guam Daily Post
+
+US President Joe Biden warned Prime Minister Benjamin Netanyahu Tuesday that Israel risked losing global support for its war against Hamas by "indiscriminate" bombing of Gaza.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/biden-warns-netanyahu-risks-losing-support-for-hamas-war/article_fa0bba43-f231-59fc-9fbc-553d738582a9.html">https://www.postguam.com/news/national/biden-warns-netanyahu-risks-losing-support-for-hamas-war/article_fa0bba43-f231-59fc-9fbc-553d738582a9.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/biden-warns-netanyahu-risks-losing-support-for-hamas-war/article_fa0bba43-f231-59fc-9fbc-553d738582a9.html">Save to Pocket</a>
 </span>
 
 ---
@@ -885,18 +993,6 @@ The post <a href="https://www.hawaii.edu/news/2023/12/12/uh-maui-college-distrib
 
 <span class="feed-item-link">
 <a href="https://www.hawaii.edu/news/2023/12/12/uh-maui-college-distribute-produce-boxes/">https://www.hawaii.edu/news/2023/12/12/uh-maui-college-distribute-produce-boxes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/12/uh-maui-college-distribute-produce-boxes/">Save to Pocket</a>
-</span>
-
----
-
-## Embattled Harvard University president to stay after anti-Semitism row
-
-date: 2023-12-12, from: The Guam Daily Post
-
-Harvard University's president, under fire over testimony she gave about anti-Semitism on campus, will remain in her job after a meeting of the institution's governing body issued a statement backing her on Tuesday.
-
-<span class="feed-item-link">
-<a href="https://www.postguam.com/news/national/embattled-harvard-university-president-to-stay-after-anti-semitism-row/article_b79bf64c-5cc8-5268-93e5-9fb0fd04f10b.html">https://www.postguam.com/news/national/embattled-harvard-university-president-to-stay-after-anti-semitism-row/article_b79bf64c-5cc8-5268-93e5-9fb0fd04f10b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/embattled-harvard-university-president-to-stay-after-anti-semitism-row/article_b79bf64c-5cc8-5268-93e5-9fb0fd04f10b.html">Save to Pocket</a>
 </span>
 
 ---
