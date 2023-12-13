@@ -6,7 +6,7 @@
 https://www.usp.ac.fj/feed/ "~University of the South Pacific (Fiji)"
 
 # NGOs
-https://www.forumsec.org/feed/ "~Pacific Island Forum" curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.forumsec.org/feed/ "~Pacific Island Forum" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 # Micronesian Conservation Coalition fails to open, they are whitelisting some how, works in Firefox, Chrome, but not with skimmer or wget.
 # Curl response shows a HTML document with JavaScript, that appears to be some sort of redirect have doing tracking creepy stuff.
 # This may explain why it works in FireFox, Chrome, Safari but not in skimmer.  But when I use Firefox and disable JS
@@ -20,10 +20,10 @@ https://www.forumsec.org/feed/ "~Pacific Island Forum" curl/8.4.0 (rsdoiel@gmail
 # Comercial News Papers, Guam and the Northern Marianas, Republic of Belau
 #
 # guampdn.com: getting errors, to many requests, 2023-10-16
-https://www.guampdn.com/search/?f=rss&amp;t=article&l=50&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News" curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post" curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.guampdn.com/search/?f=rss&amp;t=article&l=50&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 # pacificialndtimes.com: getting errors, too many requests, 2023-10-16
-https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times" curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 # Northern Marianas Papers
 https://www.mvariety.com/search/?nsa=eeditionl=50&t=article&f=atom "~Marianas Variety"
 # saipantrimbine.com: getting errors, to many requests, 2023-10-16

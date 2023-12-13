@@ -1,7 +1,7 @@
 #
 # Tech-like, things I read, mostly involving tech that are not specific to the other columns
 #
-https://timwright.org/blog/feed/ "~Tim Wright's blog (met at USC)"  curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://timwright.org/blog/feed/ "~Tim Wright's blog (met at USC)"  curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://feeds.feedburner.com/NiemanJournalismLab "~Nieman Journalism Lab"
 https://www.postgresql.org/news.rss "~PostgreSQL News"
 https://us-rse.org/feed.xml "~The United States Research Software Engineer Association"
@@ -198,7 +198,7 @@ https://www.raspberrypi.com/news/feed/ "~Raspberry Pi News (.com)"
 https://www.raspberrypi.org/feed/ "~Raspberry Pi (.org)"
 #https://www.rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives", redirects as of 2023-12-06
 https://rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives"
-https://www.redox-os.org/news/index.xml "~Redox OS News" curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.redox-os.org/news/index.xml "~Redox OS News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://www.research-collection.ethz.ch/feed/rss_2.0/site "~ETH Zurich, recently added"
 https://www.riscository.com/feed/ "~RiscOS Story"
 https://www.riscosopen.org/news/xml/rss20/feed.xml "~RiscOS Open"
@@ -226,8 +226,8 @@ https://reb00ted.org/index.xml "~reb00ted blog (Johannes Ernst)"
 #
 # Problem feeds
 #
-https://prolost.com/blog?format=RSS "~Stu Maschwitz blog" curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://www.gregegan.net/feed.rss "~Greg Egan's feed" curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://blogs.windows.com/windowsdeveloper/feed/ "~Windows Developer Blog" curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-#https://losnettos.net/feed/ "~Los Nettos News" curl/8.4.0 # feed unavailable 2023-12-05
-https://cea.cals.cornell.edu/feed/ "~Cornell Controlled Environment Agriculture" curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://prolost.com/blog?format=RSS "~Stu Maschwitz blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.gregegan.net/feed.rss "~Greg Egan's feed" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://blogs.windows.com/windowsdeveloper/feed/ "~Windows Developer Blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+#https://losnettos.net/feed/ "~Los Nettos News" curl/8.5.0 # feed unavailable 2023-12-05
+https://cea.cals.cornell.edu/feed/ "~Cornell Controlled Environment Agriculture" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)

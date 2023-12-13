@@ -7,11 +7,11 @@ https://www.stmarymagdalenechurch.org/news/ "~St. Mary Magdalene Church, Atwater
 https://www.arrl.org/arrl.rss "~Amateur Radio Relay League News"
 #https://www.arnewsline.org/?format=rss "~Amateur Radio NewslinE" # failing, 2023-12-04
 #https://stepoutside.org/rss/ "~Step Outside, Fishing, Atwater, CA"
-https://www.mccd.edu/news/feed/ "~Blue Devil News (Merced Community College Student Newspaper)" curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://blogs.ucmerced.edu/prodigy/feed/ "~The Prodogy (UC Merced's Student Newspaper)" curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://fscollegian.com/feed/ "~The Collegian (Cal State Fresno's Student Newspaper)" curl/8.4.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.mccd.edu/news/feed/ "~Blue Devil News (Merced Community College Student Newspaper)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://blogs.ucmerced.edu/prodigy/feed/ "~The Prodogy (UC Merced's Student Newspaper)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://fscollegian.com/feed/ "~The Collegian (Cal State Fresno's Student Newspaper)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 # NOAA feeds 
 https://www.weather.gov/rss_page.php?site_name=hnx "~San Joaquin Valley" curl/8.4.3 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0 "~Merced, Weather.gov CAP v1.1 alerts" curl/8.4.3 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0 "~Merced, Weather.gov CAP v1.1 alerts" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
