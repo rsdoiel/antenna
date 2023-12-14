@@ -1,11 +1,49 @@
 ---
 title: mid central 2023.50
-updated: 2023-12-12 15:31:36
+updated: 2023-12-13 15:59:50
 ---
 
 # mid central 2023.50
 
-(date: 2023-12-12 15:31:36)
+(date: 2023-12-13 15:59:50)
+
+---
+
+## There are no active watches, warnings or advisories
+
+date: 2023-12-13, updated: 2023-12-13, from: Merced, Weather.gov CAP v1.1 alerts
+
+
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
+</span>
+
+---
+
+## Merced College Renames Business Resource Center in Honor of Ben Duran
+
+date: 2023-12-13, from: Blue Devil News (Merced Community College Student Newspaper)
+
+<p>In tribute to a storied career that helped shape the fabric of higher education in the Central Valley, the Merced Community College District Board of Trustees voted Tuesday to rename&#8230;</p>
+<p>The post <a href="https://www.mccd.edu/news/merced-college-renames-business-resource-center-in-honor-of-ben-duran/">Merced College Renames Business Resource Center in Honor of Ben Duran</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.mccd.edu/news/merced-college-renames-business-resource-center-in-honor-of-ben-duran/">https://www.mccd.edu/news/merced-college-renames-business-resource-center-in-honor-of-ben-duran/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mccd.edu/news/merced-college-renames-business-resource-center-in-honor-of-ben-duran/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Jingle and Mingle’ opens up opportunities to meet new people
+
+date: 2023-12-13, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+With finals week fast approaching, students had the opportunity to take their focus away from their studies and enjoy some holiday activities. Fresno State Spotlight Events hosted Jingle and Mingle in the Resnick Student Union (RSU) on Dec. 5 and the event was free for all Fresno State students. The event had many different activities...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2023/12/jingle-and-mingle-opens-up-opportunities-to-meet-new-people/">https://fscollegian.com/2023/12/jingle-and-mingle-opens-up-opportunities-to-meet-new-people/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/jingle-and-mingle-opens-up-opportunities-to-meet-new-people/">Save to Pocket</a>
+</span>
 
 ---
 
