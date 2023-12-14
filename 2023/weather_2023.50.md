@@ -1,19 +1,59 @@
 ---
 title: weather 2023.50
-updated: 2023-12-12 15:31:37
+updated: 2023-12-13 15:59:51
 ---
 
 # weather 2023.50
 
-(date: 2023-12-12 15:31:37)
+(date: 2023-12-13 15:59:51)
 
 ---
 
-## SPC - No watches are valid as of Tue Dec 12 22:31:02 UTC 2023
+## SPC Dec 13, 2023 0100 UTC Day 1 Convective Outlook
 
-date: 2023-12-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-12-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Dec 12 22:31:02 UTC 2023.
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0647 PM CST Tue Dec 12 2023
+
+Valid 130100Z - 131200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Isolated thunderstorms will be possible this evening into tonight
+across parts of the southern High Plains.
+
+...DISCUSSION...
+An upper-level trough will move across the Desert Southwest this
+evening, as southwesterly mid-level flow remains over the southern
+Rockies and southern High Plains. A 40 to 50 knot low-level jet will
+strengthen across west Texas. Lift associated with the low-level
+jet, along with large-scale ascent ahead of the approaching system,
+will make isolated thunderstorm development possible late this
+evening into tonight. No severe threat is forecast, and
+thunderstorms are not expected over the remainder of the continental
+U.S. through tonight.
+
+..Broyles.. 12/13/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No watches are valid as of Wed Dec 13 00:52:02 UTC 2023
+
+date: 2023-12-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Wed Dec 13 00:52:02 UTC 2023.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
@@ -21,11 +61,11 @@ No watches are valid as of Tue Dec 12 22:31:02 UTC 2023.
 
 ---
 
-## SPC - No MDs are in effect as of Tue Dec 12 22:31:02 UTC 2023
+## SPC - No MDs are in effect as of Wed Dec 13 00:52:02 UTC 2023
 
-date: 2023-12-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-12-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Dec 12 22:31:02 UTC 2023.
+No Mesoscale Discussions are in effect as of Wed Dec 13 00:52:02 UTC 2023.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
@@ -331,43 +371,6 @@ late tonight.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Dec 12, 2023 0100 UTC Day 1 Convective Outlook
-
-date: 2023-12-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0641 PM CST Mon Dec 11 2023
-
-Valid 120100Z - 121200Z
-
-...NO THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Thunderstorms are not expected in the U.S. through tonight.
-
-...DISCUSSION...
-An upper-level trough will move eastward across the Northeast
-tonight, as west to northwest mid-level flow remains over much of
-the remainder of the U.S. At the surface, a large area of high
-pressure from the Ohio Valley southwestward into the lower
-Mississippi Valley will suppress moisture return. The relatively dry
-and cool airmass associated with the high will make thunderstorms
-unlikely through tonight.
-
-..Broyles.. 12/12/2023
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">Save to Pocket</a>
 </span>
 
 ---

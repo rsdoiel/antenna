@@ -1,11 +1,59 @@
 ---
 title: tech likely 2023.50
-updated: 2023-12-12 15:31:36
+updated: 2023-12-13 15:59:51
 ---
 
 # tech likely 2023.50
 
-(date: 2023-12-12 15:31:36)
+(date: 2023-12-13 15:59:51)
+
+---
+
+## Epic win: jury decides Google has illegal monopoly in app store fight
+
+date: 2023-12-13, from: OS News
+
+Three years after Fortnite-maker Epic Games sued Apple and Google for allegedly running illegal app store monopolies, Epic has a win. The jury in Epic v. Google has just delivered its verdict — and it found that Google turned its Google Play app store and Google Play Billing service into an illegal monopoly. After just a few hours of deliberation, the jury unanimously answered yes to every question put before them — that Google has monopoly power in the Android app distribution markets and in-app billing services markets, that Google did anticompetitive things in those markets, and that Epic was injured by that behavior. They decided Google has an illegal tie between its Google Play app store and its Google Play Billing payment services, too, and that its distribution agreement, Project Hug deals with game developers, and deals with OEMs were all anticompetitive. ↫ Sean Hollister for The Verge Good news, of course, but it does make one wonder why a judge in Epic&#8217;s case versus Apple ruled the exact opposite as the jury did today. We don&#8217;t yet know what this verdict will mean for Google in a practical sense &#8211; that&#8217;s up to the judge, and Google intends to appeal, for course &#8211; so if consumers will actually see any benefit from this remains to be seen.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138063/epic-win-jury-decides-google-has-illegal-monopoly-in-app-store-fight/">https://www.osnews.com/story/138063/epic-win-jury-decides-google-has-illegal-monopoly-in-app-store-fight/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138063/epic-win-jury-decides-google-has-illegal-monopoly-in-app-store-fight/">Save to Pocket</a>
+</span>
+
+---
+
+## Libreboot 10-year anniversary
+
+date: 2023-12-13, from: Tilde.news
+
+<p><a href="https://tilde.news/s/panuql/libreboot_10_year_anniversary">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://libreboot.org/news/10.html">https://libreboot.org/news/10.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://libreboot.org/news/10.html">Save to Pocket</a>
+</span>
+
+---
+
+## Broadcom stops selling perpetual VMware licenses, subscription-only from now on
+
+date: 2023-12-13, from: OS News
+
+As part of our transition to subscription and a simplified portfolio, beginning today, we will no longer sell perpetual licenses. All offerings will continue to be available as subscriptions going forward. Additionally, we are ending the sale of Support and Subscription (SnS) renewals for perpetual offerings beginning today. ↫ Krish Prasad of VMware This sucks. Every few years, I would buy a cheap VMware license on eBay for like €10 or something, to keep my Windows virtual machine going for the incredibly rare cases where I need one for my job because some popular CAT tools are Windows-only. I really do not wish to buy a subscription for that. I guess it&#8217;s time to transition to VirtualBox.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138061/broadcom-stops-selling-perpetual-vmware-licenses-subscription-only-from-now-on/">https://www.osnews.com/story/138061/broadcom-stops-selling-perpetual-vmware-licenses-subscription-only-from-now-on/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138061/broadcom-stops-selling-perpetual-vmware-licenses-subscription-only-from-now-on/">Save to Pocket</a>
+</span>
+
+---
+
+## Google to move location data and Maps history to your device
+
+date: 2023-12-13, from: OS News
+
+The Timeline feature in Maps helps you remember places you’ve been and is powered by a setting called Location History. If you’re among the subset of users who have chosen to turn Location History on (it’s off by default), soon your Timeline will be saved right on your device — giving you even more control over your data. Just like before, you can delete all or part of your information at any time or disable the setting entirely. If you’re getting a new phone or are worried about losing your existing one, you can always choose to back up your data to the cloud so it doesn’t get lost. We’ll automatically encrypt your backed-up data so no one can read it, including Google. ↫ Marlo McGriff, Director of Product, Google Maps, at Google&#8217;s official blog All else being equal, moving location data from residing unencrypted in the cloud to on your device is a good thing. That being said, if Google is giving up access to this data, it most likely means they&#8217;ve gotten really good at estimating your whereabouts using other data instead.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138059/google-to-move-location-data-and-maps-history-to-your-device/">https://www.osnews.com/story/138059/google-to-move-location-data-and-maps-history-to-your-device/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138059/google-to-move-location-data-and-maps-history-to-your-device/">Save to Pocket</a>
+</span>
 
 ---
 

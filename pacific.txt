@@ -20,7 +20,7 @@ https://www.forumsec.org/feed/ "~Pacific Island Forum" curl/8.5.0 (rsdoiel@gmail
 # Comercial News Papers, Guam and the Northern Marianas, Republic of Belau
 #
 # guampdn.com: getting errors, to many requests, 2023-10-16
-https://www.guampdn.com/search/?f=rss&amp;t=article&l=50&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.guampdn.com/search/?f=rss&amp;t=article&l=10&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 # pacificialndtimes.com: getting errors, too many requests, 2023-10-16
 https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)

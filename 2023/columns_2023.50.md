@@ -1,11 +1,97 @@
 ---
 title: columns 2023.50
-updated: 2023-12-12 15:31:37
+updated: 2023-12-13 15:59:51
 ---
 
 # columns 2023.50
 
-(date: 2023-12-12 15:31:37)
+(date: 2023-12-13 15:59:51)
+
+---
+
+## Surveillance by the US Postal Service
+
+date: 2023-12-13, updated: 2023-12-13, from: Bruce Schneier blog
+
+<p>This is not about <a href="https://www.schneier.com/blog/archives/2013/05/mail_cover.html">mass surveillance of mail</a>, this is about the sorts of targeted surveillance the US Postal Inspection Service uses to <a href="https://www.404media.co/how-usps-uspis-catches-mail-thieves-gps-hidden-cameras-arrow-keys/">catch mail thieves</a>:</p>
+<blockquote><p>To track down an alleged mail thief, a US postal inspector used license plate reader technology, GPS data collected by a rental car company, and, most damning of all, hid a camera inside one of the targeted blue post boxes which captured the suspect&#8217;s full face as they allegedly helped themselves to swathes of peoples&#8217; mail.</p></blockquote>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2023/12/surveillance-by-the-us-postal-service.html">https://www.schneier.com/blog/archives/2023/12/surveillance-by-the-us-postal-service.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2023/12/surveillance-by-the-us-postal-service.html">Save to Pocket</a>
+</span>
+
+---
+
+## Office Hours: Should the U.S. put more pressure on Israel to protect innocent civilians in Gaza?
+
+date: 2023-12-13, from: Robert Reich's blog
+
+If so, how?
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/office-hours-should-the-us-pressure">https://robertreich.substack.com/p/office-hours-should-the-us-pressure</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/office-hours-should-the-us-pressure">Save to Pocket</a>
+</span>
+
+---
+
+## Making it harder to do wrong
+
+date: 2023-12-13, from: Daniel Stenberg Blog
+
+You know I spend all my days working on curl and related matters. I also spend a lot of time thinking on the project; like how we do things and how we should do things. The security angle of this project is one of the most crucial ones and an area where I spend a &#8230; <a href="https://daniel.haxx.se/blog/2023/12/13/making-it-harder-to-do-wrong/" class="more-link">Continue reading <span class="screen-reader-text">Making it harder to do wrong</span> <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://daniel.haxx.se/blog/2023/12/13/making-it-harder-to-do-wrong/">https://daniel.haxx.se/blog/2023/12/13/making-it-harder-to-do-wrong/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daniel.haxx.se/blog/2023/12/13/making-it-harder-to-do-wrong/">Save to Pocket</a>
+</span>
+
+---
+
+## ★ iOS 17.3, Now in Beta, Includes New ‘Stolen Device Protection’ Feature
+
+date: 2023-12-13, updated: 2023-12-13, from: Daring Fireball
+
+This new feature will add significant protection against a thief who steals your iPhone and knows your device passcode.
+
+<span class="feed-item-link">
+<a href="https://daringfireball.net/2023/12/ios_17-3_stolen_device_protection">https://daringfireball.net/2023/12/ios_17-3_stolen_device_protection</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/2023/12/ios_17-3_stolen_device_protection">Save to Pocket</a>
+</span>
+
+---
+
+## Shohei Ohtani’s $700 Million Contract With the Dodgers Will Pay Him Just $2 Million Per Year
+
+date: 2023-12-13, updated: 2023-12-13, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.wsj.com/sports/baseball/shohei-ohtani-700-million-contract-deferral-067a345f?mod=hp_lead_pos9">https://www.wsj.com/sports/baseball/shohei-ohtani-700-million-contract-deferral-067a345f?mod=hp_lead_pos9</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.wsj.com/sports/baseball/shohei-ohtani-700-million-contract-deferral-067a345f?mod=hp_lead_pos9">Save to Pocket</a>
+</span>
+
+---
+
+## Wednesday 13 December, 2023
+
+date: 2023-12-13, from: John Naughton's online diary
+
+Remembering Tony Holden On Monday I went to the Memorial Service for Tony Holden in St Martin-in-the-Fields. He was one of the best journalists of his generation, but also a hospitable friend and a writer who was vastly more erudite &#8230; <a href="https://memex.naughtons.org/wednesday-13-december-2023/38897/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/wednesday-13-december-2023/38897/">https://memex.naughtons.org/wednesday-13-december-2023/38897/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/wednesday-13-december-2023/38897/">Save to Pocket</a>
+</span>
+
+---
+
+## "An Extraordinary Case"
+
+date: 2023-12-12, from: Dan Rather's Steady
+
+At Steady, we are fans of clear, compelling writing, whatever its source and whoever the author. But rarely do we turn to U.S. Supreme Court appeals for stirring prose. Yesterday, however, Jack Smith, the special counsel investigating former President Trump, argued that the ex-president should not be immune from prosecution. It&#8217;s a legal matter, but one that will define the future of American democracy. And we were struck by the language Smith used in making his case.
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/an-extraordinary-case">https://steady.substack.com/p/an-extraordinary-case</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/an-extraordinary-case">Save to Pocket</a>
+</span>
 
 ---
 
@@ -193,7 +279,7 @@ The same person who sought Zelensky&#8217;s help in digging up dirt on Hunter an
 
 ## ★ Beeper Mini Is Back, But Without Phone Number Registration
 
-date: 2023-12-12, updated: 2023-12-12, from: Daring Fireball
+date: 2023-12-12, updated: 2023-12-13, from: Daring Fireball
 
 It’s fun watching this cat-and-mouse game from the sidelines, but if I were Beeper, I wouldn’t want to be playing.
 
@@ -292,7 +378,7 @@ Wonders of nature A large log that’s been lying on our driveway for a while ha
 
 ## ★ Beeper? I Hardly Knew Her.
 
-date: 2023-12-11, updated: 2023-12-11, from: Daring Fireball
+date: 2023-12-11, updated: 2023-12-13, from: Daring Fireball
 
 The three-day saga of an unauthorized iMessage client for Android.
 

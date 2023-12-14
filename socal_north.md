@@ -1,11 +1,273 @@
 ---
 title: socal north 2023.50
-updated: 2023-12-12 15:31:36
+updated: 2023-12-13 15:59:49
 ---
 
 # socal north 2023.50
 
-(date: 2023-12-12 15:31:36)
+(date: 2023-12-13 15:59:49)
+
+---
+
+## LA To Host 2027 Super Bowl At SoFi Stadium
+
+date: 2023-12-13, updated: 2023-12-13, from: The LAist
+
+Super Bowl LXI will be L.A.’s ninth time hosting the event.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/la-host-2027-super-bowl-sofi-stadium">https://laist.com/news/la-host-2027-super-bowl-sofi-stadium</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/la-host-2027-super-bowl-sofi-stadium">Save to Pocket</a>
+</span>
+
+---
+
+## Why It's So Hard To Know How Many Unhoused People Mayor Bass Has Housed
+
+date: 2023-12-13, updated: 2023-12-13, from: The LAist
+
+Mayor Bass made an ambitious campaign pledge to address homelessness by housing 17,000 Angelenos. We’ve been trying to keep tabs, but it’s complicated.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/why-its-so-hard-to-know-how-many-unhoused-people-mayor-bass-has-housed">https://laist.com/news/housing-homelessness/why-its-so-hard-to-know-how-many-unhoused-people-mayor-bass-has-housed</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/why-its-so-hard-to-know-how-many-unhoused-people-mayor-bass-has-housed">Save to Pocket</a>
+</span>
+
+---
+
+## Recent departures leave UCLA football with moving parts ahead of LA Bowl
+
+date: 2023-12-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Patchwork has become a necessary craft for Chip Kelly by no choice of his own.
+The coach has dealt with departures in a regular basis the past three weeks, from colleagues working along side him to players taking the field.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/13/recent-departures-leave-ucla-football-with-moving-parts-ahead-of-la-bowl/">https://dailybruin.com/2023/12/13/recent-departures-leave-ucla-football-with-moving-parts-ahead-of-la-bowl/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/13/recent-departures-leave-ucla-football-with-moving-parts-ahead-of-la-bowl/">Save to Pocket</a>
+</span>
+
+---
+
+## Foggy Mornings
+
+date: 2023-12-13, from: Theodore Paine Foundation
+
+On the ride to drop my daughter of at school a couple of days ago on a cold December morning, it was foggy. Really foggy. We could barely see ten feet in front of us. As the car heater was warming up, she shivered in the back seat. Don’t worry I told her, it will [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://theodorepayne.org/foggy-mornings/">https://theodorepayne.org/foggy-mornings/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theodorepayne.org/foggy-mornings/">Save to Pocket</a>
+</span>
+
+---
+
+## How To Watch Geminids In SoCal, The Year's Best Meteor Shower
+
+date: 2023-12-13, updated: 2023-12-13, from: The LAist
+
+Even in a sort-of dark location you’ll see some spectacular sights.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/how-to-watch-geminids-in-socal-the-years-best-meteor-shower">https://laist.com/news/climate-environment/how-to-watch-geminids-in-socal-the-years-best-meteor-shower</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/how-to-watch-geminids-in-socal-the-years-best-meteor-shower">Save to Pocket</a>
+</span>
+
+---
+
+## Protesters Calling For Ceasefire In Israel-Hamas War Shut Down Portion Of 110 Freeway Near Downtown LA
+
+date: 2023-12-13, updated: 2023-12-13, from: The LAist
+
+The CHP said 75 people were arrested in connections with the demonstration that snarled traffic for miles.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/protesters-calling-for-ceasefire-in-israel-hamas-war-shut-down-portion-of-110-freeway-near-downtown-la">https://laist.com/news/protesters-calling-for-ceasefire-in-israel-hamas-war-shut-down-portion-of-110-freeway-near-downtown-la</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/protesters-calling-for-ceasefire-in-israel-hamas-war-shut-down-portion-of-110-freeway-near-downtown-la">Save to Pocket</a>
+</span>
+
+---
+
+## Streetbeat: Did you accomplish your New Year’s resolution?
+
+date: 2023-12-13, from: The Round Up (Peirce College Student Newspaper)
+
+<p>&#160; &#160; “I had a really tough year, so I’m just trying to get back on track. One of my New Year’s resolutions is to</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/13/streetbeat-did-you-accomplish-your-new-years-resolution/">Streetbeat: Did you accomplish your New Year’s resolution?</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/13/streetbeat-did-you-accomplish-your-new-years-resolution/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-did-you-accomplish-your-new-years-resolution">https://theroundupnews.com/2023/12/13/streetbeat-did-you-accomplish-your-new-years-resolution/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-did-you-accomplish-your-new-years-resolution</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/13/streetbeat-did-you-accomplish-your-new-years-resolution/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-did-you-accomplish-your-new-years-resolution">Save to Pocket</a>
+</span>
+
+---
+
+## A Formula For Success
+
+date: 2023-12-13, from: The Sundail (CSUN Student Newspaper)
+
+Doing your homework is hard enough. Now, imagine your assignment is to construct a Formula One-style race car that goes head-to-head in an international competition against other universities. While this may sound like the plot for a “Fast and Furious” spinoff, this is the reality for CSUN’s Formula Society of Automotive Engineers (FSAE) team, a...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177326/print-editions/print-stories/a-formula-for-success/">https://sundial.csun.edu/177326/print-editions/print-stories/a-formula-for-success/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177326/print-editions/print-stories/a-formula-for-success/">Save to Pocket</a>
+</span>
+
+---
+
+## Eat to Win: The Diet of an Athlete
+
+date: 2023-12-13, from: The Sundail (CSUN Student Newspaper)
+
+To an athlete, the body is a temple. The way they treat their bodies from the offseason to the regular season can be the deciding factor for a great year. No matter what sport they play, an athlete must dedicate their time to becoming a great player. For many, that begins with what they eat....
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177332/print-editions/print-stories/eat-to-win-the-diet-of-an-athlete/">https://sundial.csun.edu/177332/print-editions/print-stories/eat-to-win-the-diet-of-an-athlete/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177332/print-editions/print-stories/eat-to-win-the-diet-of-an-athlete/">Save to Pocket</a>
+</span>
+
+---
+
+## First-Of-Its-Kind Korean American Studies Class Helps High Schoolers Unearth Their Own Stories
+
+date: 2023-12-13, updated: 2023-12-13, from: The LAist
+
+The new course at Anaheim Union High School District teaches Korean American history while encouraging students to learn their family's past.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/korean-american-history-virtual-anaheim-orange-county-california">https://laist.com/news/education/korean-american-history-virtual-anaheim-orange-county-california</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/korean-american-history-virtual-anaheim-orange-county-california">Save to Pocket</a>
+</span>
+
+---
+
+## The Fallout From The 2020 Reckoning At The Magic Castle
+
+date: 2023-12-13, updated: 2023-12-13, from: The LAist
+
+When the summer of 2020 brought a reckoning over diversity and inclusion, hobbyist magician Carly Usdin renewed their commitment to making the club better — just as two members tried to get Carly kicked out. 'Imperfect Paradise: The Castle,' Part 3.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/arts-and-entertainment/the-fallout-from-the-2020-reckoning-at-the-magic-castle">https://laist.com/news/arts-and-entertainment/the-fallout-from-the-2020-reckoning-at-the-magic-castle</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/arts-and-entertainment/the-fallout-from-the-2020-reckoning-at-the-magic-castle">Save to Pocket</a>
+</span>
+
+---
+
+## California Can Take Kids From Abused Moms. Why The Separation Can Harm Both
+
+date: 2023-12-13, updated: 2023-12-13, from: The LAist
+
+California’s ‘failure to protect’ law allows child welfare agencies to take kids from households scarred by domestic violence. Advocates say the separation can worsen a family’s trauma.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/california-can-take-kids-from-abused-moms-why-the-separation-can-harm-both">https://laist.com/news/education/california-can-take-kids-from-abused-moms-why-the-separation-can-harm-both</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/california-can-take-kids-from-abused-moms-why-the-separation-can-harm-both">Save to Pocket</a>
+</span>
+
+---
+
+## LA County Invests Big In Free Virtual Mental Health Therapy For K-12 Students
+
+date: 2023-12-13, updated: 2023-12-13, from: The LAist
+
+California is spending almost $5 billion to address a growing youth mental health crisis. In Los Angeles County, a contract with teletherapy provider Hazel Health is funding free therapy sessions for all interested students.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/la-county-invests-big-in-free-virtual-mental-health-therapy-for-k-12-students">https://laist.com/news/education/la-county-invests-big-in-free-virtual-mental-health-therapy-for-k-12-students</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/la-county-invests-big-in-free-virtual-mental-health-therapy-for-k-12-students">Save to Pocket</a>
+</span>
+
+---
+
+## Fall Foodie Digest 2023
+
+date: 2023-12-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://features.dailybruin.com/2023/fall-foodie-2023/">https://features.dailybruin.com/2023/fall-foodie-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://features.dailybruin.com/2023/fall-foodie-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Local Car Show Rolls into Town at the Burgers and Brews Car Show
+
+date: 2023-12-13, from: The Canyon News (COC Student Newspaper)
+
+<p>Car enthusiasts of the Santa Clarita Valley gathered for the highly anticipated&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/local-car-show-rolls-into-town-at-the-burgers-and-brews-car-show/">Local Car Show Rolls into Town at the Burgers and Brews Car Show</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/local-car-show-rolls-into-town-at-the-burgers-and-brews-car-show/">https://canyonsnews.com/local-car-show-rolls-into-town-at-the-burgers-and-brews-car-show/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/local-car-show-rolls-into-town-at-the-burgers-and-brews-car-show/">Save to Pocket</a>
+</span>
+
+---
+
+## Santa Clarita hosts Good Karma Music and Arts Festival
+
+date: 2023-12-13, from: The Canyon News (COC Student Newspaper)
+
+<p>Harmony strikes a chord in Santa Clarita at the Good Karma Music&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/santa-clarita-hosts-good-karma-music-and-arts-festival/">Santa Clarita hosts Good Karma Music and Arts Festival</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/santa-clarita-hosts-good-karma-music-and-arts-festival/">https://canyonsnews.com/santa-clarita-hosts-good-karma-music-and-arts-festival/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/santa-clarita-hosts-good-karma-music-and-arts-festival/">Save to Pocket</a>
+</span>
+
+---
+
+## College of the Canyons Farmer’s Market protects against Fruit Flies
+
+date: 2023-12-13, from: The Canyon News (COC Student Newspaper)
+
+<p>The Farmers Market at College of the Canyons supplies many fruits and&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/college-of-the-canyons-farmers-market-protects-against-fruit-flies/">College of the Canyons Farmer&#8217;s Market protects against Fruit Flies</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/college-of-the-canyons-farmers-market-protects-against-fruit-flies/">https://canyonsnews.com/college-of-the-canyons-farmers-market-protects-against-fruit-flies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/college-of-the-canyons-farmers-market-protects-against-fruit-flies/">Save to Pocket</a>
+</span>
+
+---
+
+## Students in off-campus apartments left without gas because of gas line repairs
+
+date: 2023-12-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Dec. 12 at 9:25 p.m.&#160;</em>
+Residents in some university-owned apartment buildings, including Palo Verde, Weyburn Terrace and Tipuana, reported outages to cooking, hot water and laundry services as a result of an emergency gas line being repaired Monday.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/12/students-in-off-campus-apartments-left-without-gas-because-of-gas-line-repairs/">https://dailybruin.com/2023/12/12/students-in-off-campus-apartments-left-without-gas-because-of-gas-line-repairs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/12/students-in-off-campus-apartments-left-without-gas-because-of-gas-line-repairs/">Save to Pocket</a>
+</span>
+
+---
+
+## The Menu: Affordable eating
+
+date: 2023-12-13, from: The Sundail (CSUN Student Newspaper)
+
+If you ask a student on campus about what they eat on a daily basis, they might joke and say that they survive on Cup Noodles. For a number of students, there is some truth to that. According to a Health Affairs survey, 30% of college students faced food insecurities. Prior to the COVID-19 pandemic,...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/176805/print-editions/print-stories/the-menu-affordable-eating/">https://sundial.csun.edu/176805/print-editions/print-stories/the-menu-affordable-eating/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/176805/print-editions/print-stories/the-menu-affordable-eating/">Save to Pocket</a>
+</span>
+
+---
+
+## LA Council Votes To Let Renters Keep Pandemic Pets Without Fear Of Eviction
+
+date: 2023-12-13, updated: 2023-12-13, from: The LAist
+
+A new proposal would keep eviction protections in place for renters in the city of L.A. who adopted COVID cats or pandemic pups.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/los-angeles-city-pets-covid-19-eviction-protections-pandemic-housing-landlord-renters-tenants">https://laist.com/news/housing-homelessness/los-angeles-city-pets-covid-19-eviction-protections-pandemic-housing-landlord-renters-tenants</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/los-angeles-city-pets-covid-19-eviction-protections-pandemic-housing-landlord-renters-tenants">Save to Pocket</a>
+</span>
+
+---
+
+## World Cup Down Under Brings Women’s Soccer to New Heights
+
+date: 2023-12-13, from: The Sundail (CSUN Student Newspaper)
+
+There is no longer a significant competitive gap in the sport of women’s soccer. There is a brighter future than we expected. The 2023 Women’s World Cup held in Australia and New Zealand has wrapped up, where for the first time since the inaugural edition in 1991, the final featured two new teams: Spain and...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177338/print-editions/print-stories/world-cup-down-under-brings-womens-soccer-to-new-heights/">https://sundial.csun.edu/177338/print-editions/print-stories/world-cup-down-under-brings-womens-soccer-to-new-heights/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177338/print-editions/print-stories/world-cup-down-under-brings-womens-soccer-to-new-heights/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -59,7 +321,7 @@ Hemmed in by Israeli forces and the Mediterranean Sea, Palestinians in Gaza seem
 
 ## Jackie Goldberg Reelected As LA Unified Board President
 
-date: 2023-12-12, updated: 2023-12-12, from: The LAist
+date: 2023-12-12, updated: 2023-12-13, from: The LAist
 
 The longstanding public servant will spend her last year before retirement overseeing the board that steers the education of more than 400,000 students.
 
