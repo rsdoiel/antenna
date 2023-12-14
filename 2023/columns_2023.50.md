@@ -1,11 +1,23 @@
 ---
 title: columns 2023.50
-updated: 2023-12-13 15:59:51
+updated: 2023-12-14 08:16:44
 ---
 
 # columns 2023.50
 
-(date: 2023-12-13 15:59:51)
+(date: 2023-12-14 08:16:44)
+
+---
+
+## Finding moral clarity on campus about the Hamas-Israeli War
+
+date: 2023-12-14, from: Robert Reich's blog
+
+Seven basic principles
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/moral-clarity-on-campus-about-the">https://robertreich.substack.com/p/moral-clarity-on-campus-about-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/moral-clarity-on-campus-about-the">Save to Pocket</a>
+</span>
 
 ---
 
