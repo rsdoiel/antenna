@@ -2,12 +2,12 @@
 # 	- https://www.weather.gov/documentation/services-web-api
 # 	- https://weather-gov.github.io/api/gridpoints
 #
-# URL To use to find our focast URL (also hourly is listed)
+# URL To use to find our forecast URL (also hourly is listed)
 # 	- See https://weather-gov.github.io/api/general-faqs#geocoding
 #
 # 	https://api.weather.gov/points/34.3917,-118.5426 "~NOAA Weather API information"
 #
-# This should get our forcast but will need to be translated by skimmer into the gofeed feed struct.
+# This should get our forecast but will need to be translated by skimmer into the gofeed feed struct.
 #https://api.weather.gov/gridpoints/LKN/30,57/forecast "~NOAA Forecast for Santa Clarita, CA"
 
 # NOAA RSS Libraries and Podcasts
@@ -20,7 +20,7 @@ https://www.spc.noaa.gov/products/spcrss.xml "~NOAA tornado/severe thunderstorm 
 https://www.nhc.noaa.gov/gtwo.xml "~Graphical Tropical Weather Outlooks"
 https://www.nhc.noaa.gov/index-ep.xml "~Eastern Pacific Basin Tropical Cyclones"
 https://www.nhc.noaa.gov/index-cp.xml "~Central Pacific Basin Tropical Cyclones"
-https://www.nhc.noaa.gov/gis-ep.xml "~Central Paacific Basic GIS Data"
+https://www.nhc.noaa.gov/gis-ep.xml "~Central Pacific Basic GIS Data"
 https://www.nhc.noaa.gov/gis-ep.xml "~Eastern Pacific Basin GIS Data"
 https://www.nhc.noaa.gov/xml/TWOEP.xml "~Eastern Pacific Tropical Weather Outlook" 
 https://www.nhc.noaa.gov/xml/TWOCP.xml "~Central Pacific Tropical Weather Outlook"

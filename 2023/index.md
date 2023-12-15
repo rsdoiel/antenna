@@ -1,3 +1,6 @@
+---
+title: Antenna Archives
+---
 
 # Antenna Archives for 2023
 
@@ -66,4 +69,12 @@
 
 * [writing 2023.50](writing_2023.50.md)
 * [writing 2023.49](writing_2023.49.md)
+
+## Parks
+
+* [parks 2023.50](parks_2023.50.md)
+
+## Libraries, Archives and Museums
+
+* [libraries 2023.50](libraries_2023.50.md)
 

@@ -9,7 +9,7 @@ https://www.usp.ac.fj/feed/ "~University of the South Pacific (Fiji)"
 https://www.forumsec.org/feed/ "~Pacific Island Forum" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 # Micronesian Conservation Coalition fails to open, they are whitelisting some how, works in Firefox, Chrome, but not with skimmer or wget.
 # Curl response shows a HTML document with JavaScript, that appears to be some sort of redirect have doing tracking creepy stuff.
-# This may explain why it works in FireFox, Chrome, Safari but not in skimmer.  But when I use Firefox and disable JS
+# This may explain why it works in Firefox, Chrome, Safari but not in skimmer.  But when I use Firefox and disable JS
 # I still get to the feed content. Lynx will treat the content as downloadable and ask to download (which it can).
 #https://micronesianconservation.org/feed/ "~Micronesian Conservation Coalition"
 
@@ -17,10 +17,10 @@ https://www.forumsec.org/feed/ "~Pacific Island Forum" curl/8.5.0 (rsdoiel@gmail
 #https://micronesia.expatreporter.com/?feed=rss2 "~Micronesia -- The Expat Reporter" # host is unknown as of 2023-12-07
 
 #
-# Comercial News Papers, Guam and the Northern Marianas, Republic of Belau
+# Commercial News Papers, Guam and the Northern Marianas, Republic of Belau
 #
 # guampdn.com: getting errors, to many requests, 2023-10-16
-https://www.guampdn.com/search/?f=rss&amp;t=article&l=10&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+#https://www.guampdn.com/search/?f=rss&amp;t=article&l=10&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # even after adding the agent string retrieving the feed is not reliable, 2023-12-15
 https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 # pacificialndtimes.com: getting errors, too many requests, 2023-10-16
 https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
@@ -87,7 +87,7 @@ https://gov.fm/index.php/component/content/category/35-pio-articles?Itemid=177&f
 #https://gov.fm/index.php/component/content/category/34-pio-articles?Itemid=177&format=feed&type=rss "~FSM Public Information Office (Panuelo Administration)"
 
 #
-# Sometimes features articles on Micronesia (like when the U.S. wants somethig
+# Sometimes features articles on Micronesia (like when the U.S. wants something
 # from them)
 #
 #https://statemag.state.gov/feed/ "~State Magazine (U.S. Department of State)"

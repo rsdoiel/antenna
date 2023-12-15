@@ -2,3 +2,5 @@
 # This is a list related to State and National Parks
 #
 https://castateparks.wordpress.com/feed/ "~California State Parks blog"
+https://www.blm.gov/press-release/california/rss "~Bureau of Land Management, California"
+https://www.blm.gov/blog/rss "~Bureau of Land Management, blog"
