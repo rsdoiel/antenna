@@ -1,11 +1,134 @@
 ---
 title: columns 2023.50
-updated: 2023-12-14 08:16:44
+updated: 2023-12-15 10:19:02
 ---
 
 # columns 2023.50
 
-(date: 2023-12-14 08:16:44)
+(date: 2023-12-15 10:19:02)
+
+---
+
+## A Robot the Size of the World
+
+date: 2023-12-15, updated: 2023-12-08, from: Bruce Schneier blog
+
+<p>In 2016, I wrote about an Internet that affected the world in a direct, physical manner. It was connected to your smartphone. It had sensors like cameras and thermostats. It had actuators: Drones, autonomous cars. And it had smarts in the middle, using sensor data to figure out what to do and then actually do it. This was the Internet of Things (IoT).</p>
+<p>The classical definition of a robot is something that senses, thinks, and acts&#8212;that&#8217;s today&#8217;s Internet. We&#8217;ve been building a world-sized robot without even realizing it.</p>
+<p>In 2023, we upgraded the &#8220;thinking&#8221; part with large-language models (LLMs) like GPT. ChatGPT both surprised and amazed the world with its ability to understand human language and generate credible, on-topic, humanlike responses. But what these are really good at is interacting with systems formerly designed for humans. Their accuracy will get better, and they will be used to replace actual humans...</p>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2023/12/a-robot-the-size-of-the-world.html">https://www.schneier.com/blog/archives/2023/12/a-robot-the-size-of-the-world.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2023/12/a-robot-the-size-of-the-world.html">Save to Pocket</a>
+</span>
+
+---
+
+## Freedom and Power (Why American capitalism is so rotten, Part 4)
+
+date: 2023-12-15, from: Robert Reich's blog
+
+Why so many Americans feel powerless, and some are turning to Trump's neofascism.
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/freedom-and-power-why-american-capitalism">https://robertreich.substack.com/p/freedom-and-power-why-american-capitalism</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/freedom-and-power-why-american-capitalism">Save to Pocket</a>
+</span>
+
+---
+
+## GM Floats a Bullshit ‘Safety’ Excuse for Dropping CarPlay
+
+date: 2023-12-15, updated: 2023-12-15, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.motortrend.com/news/general-motors-removing-apple-carplay-android-auto-for-safety-tim-babbitt/">https://www.motortrend.com/news/general-motors-removing-apple-carplay-android-auto-for-safety-tim-babbitt/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.motortrend.com/news/general-motors-removing-apple-carplay-android-auto-for-safety-tim-babbitt/">Save to Pocket</a>
+</span>
+
+---
+
+## Threads Has Begun Federating Via ActivityPub
+
+date: 2023-12-15, updated: 2023-12-15, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.threads.net/@mosseri/post/C01zMgWp4V-">https://www.threads.net/@mosseri/post/C01zMgWp4V-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.threads.net/@mosseri/post/C01zMgWp4V-">Save to Pocket</a>
+</span>
+
+---
+
+## ★ App Store Rankings as a Proxy for Social Network Momentum
+
+date: 2023-12-15, updated: 2023-12-15, from: Daring Fireball
+
+Looking at the rankings of Threads, Twitter/X, and others in the App Store and Play Store.
+
+<span class="feed-item-link">
+<a href="https://daringfireball.net/2023/12/app_store_rankings_as_a_proxy_for_social_network_momentum">https://daringfireball.net/2023/12/app_store_rankings_as_a_proxy_for_social_network_momentum</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/2023/12/app_store_rankings_as_a_proxy_for_social_network_momentum">Save to Pocket</a>
+</span>
+
+---
+
+## Friday 15 December, 2023
+
+date: 2023-12-15, from: John Naughton's online diary
+
+London&#8217;s other East End Gerrard Street yesterday. Quote of the Day ”Too much of anything is bad, but too much good whisky is barely enough.” Mark Twain (Especially if it’s a good single malt.) Musical alternative to the morning’s radio &#8230; <a href="https://memex.naughtons.org/friday-15-december-2023/38905/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/friday-15-december-2023/38905/">https://memex.naughtons.org/friday-15-december-2023/38905/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/friday-15-december-2023/38905/">Save to Pocket</a>
+</span>
+
+---
+
+## Threads Launches in the E.U., Where, Apparently, Many People Live
+
+date: 2023-12-14, updated: 2023-12-15, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.theverge.com/2023/12/14/23953986/threads-european-union-launch-eu-meta-twitter-rival">https://www.theverge.com/2023/12/14/23953986/threads-european-union-launch-eu-meta-twitter-rival</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theverge.com/2023/12/14/23953986/threads-european-union-launch-eu-meta-twitter-rival">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Now Sells the AirPods Pro USB-C Case by Itself
+
+date: 2023-12-14, updated: 2023-12-14, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.theverge.com/2023/12/13/24000010/apple-airpods-pro-usb-c-case-now-available">https://www.theverge.com/2023/12/13/24000010/apple-airpods-pro-usb-c-case-now-available</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theverge.com/2023/12/13/24000010/apple-airpods-pro-usb-c-case-now-available">Save to Pocket</a>
+</span>
+
+---
+
+## Why Vision Pro Will Change Photography
+
+date: 2023-12-14, from: Om Malik blog
+
+For photographers and videographers, Apple's Vision Pro will serve as a catalyst to rethink traditional photography. This technology, when combined with smartphones, represents yet another step towards a life dominated by digital screens filled with photos. It also heralds a shift from simple captures to vibrant three-dimensional storytelling, revolutionizing how we document the world around us.
+
+<span class="feed-item-link">
+<a href="https://om.co/2023/12/14/why-vision-pro-will-change-photography/">https://om.co/2023/12/14/why-vision-pro-will-change-photography/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2023/12/14/why-vision-pro-will-change-photography/">Save to Pocket</a>
+</span>
+
+---
+
+## Surveillance Cameras Disguised as Clothes Hooks
+
+date: 2023-12-14, updated: 2023-12-14, from: Bruce Schneier blog
+
+<p><a href="https://www.bbc.com/news/technology-67652317">This</a> seems like a bad idea. And there are ongoing lawsuits against Amazon for selling them.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2023/12/surveillance-cameras-disguised-as-clothes-hooks.html">https://www.schneier.com/blog/archives/2023/12/surveillance-cameras-disguised-as-clothes-hooks.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2023/12/surveillance-cameras-disguised-as-clothes-hooks.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -315,7 +438,7 @@ date: 2023-12-12, updated: 2023-12-12, from: Daring Fireball
 
 ## Jury Rules for Epic Games in Lawsuit Against Google
 
-date: 2023-12-12, updated: 2023-12-12, from: Daring Fireball
+date: 2023-12-12, updated: 2023-12-15, from: Daring Fireball
 
 
 

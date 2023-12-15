@@ -64,6 +64,9 @@ writing: .FORCE
 games: .FORCE
 	skimmer games.txt
 
+libraries: .FORCE
+	skimmer libraries.txt
+
 markdown: $(md_files)
 
 $(md_files): .FORCE

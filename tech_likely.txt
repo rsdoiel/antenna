@@ -222,6 +222,8 @@ https://infrequently.org/feed/ "~Alex Russel's blog"
 https://go-colly.org/articles/index.xml "~Coly blog (Golang web scraper library)"
 http://feeds.kottke.org/main "~Jason Kottke blog"
 https://reb00ted.org/index.xml "~reb00ted blog (Johannes Ernst)"
+https://blog.ayjay.org/feed/ "~Ayjay blog"
+https://poynder.blogspot.com/feeds/posts/default?alt=rss "~Richard Poydner blog"
 
 #
 # Problem feeds

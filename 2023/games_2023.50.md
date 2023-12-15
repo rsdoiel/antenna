@@ -1,11 +1,131 @@
 ---
 title: games 2023.50
-updated: 2023-12-14 08:16:44
+updated: 2023-12-15 10:19:02
 ---
 
 # games 2023.50
 
-(date: 2023-12-14 08:16:44)
+(date: 2023-12-15 10:19:02)
+
+---
+
+## Starfield ‘First Contact’ walkthrough, quest steps, and best choice
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/starfield-guide/23860204/first-contact-walkthrough-quest-steps-choice">https://www.polygon.com/starfield-guide/23860204/first-contact-walkthrough-quest-steps-choice</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/starfield-guide/23860204/first-contact-walkthrough-quest-steps-choice">Save to Pocket</a>
+</span>
+
+---
+
+## Where to find hacked drone hotspots in Fortnite Winterfest Chapter 5 Season 1
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/fortnite-guide/24002730/hacked-drone-hotspot-locations-winterfest-c5s1">https://www.polygon.com/fortnite-guide/24002730/hacked-drone-hotspot-locations-winterfest-c5s1</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/fortnite-guide/24002730/hacked-drone-hotspot-locations-winterfest-c5s1">Save to Pocket</a>
+</span>
+
+---
+
+## Valve literally gift-wrapped its permanent bans for Dota 2 players this Frostivus
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24002666/dota-2-frostivus-2023-bans-valve-toxic-lump-coal">https://www.polygon.com/24002666/dota-2-frostivus-2023-bans-valve-toxic-lump-coal</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24002666/dota-2-frostivus-2023-bans-valve-toxic-lump-coal">Save to Pocket</a>
+</span>
+
+---
+
+## God of War Ragnarök’s roguelite DLC is an excellent ode to Hades
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24001843/god-of-war-ragnarok-valhalla-review-roguelite-free-dlc">https://www.polygon.com/reviews/24001843/god-of-war-ragnarok-valhalla-review-roguelite-free-dlc</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24001843/god-of-war-ragnarok-valhalla-review-roguelite-free-dlc">Save to Pocket</a>
+</span>
+
+---
+
+## Zack Snyder’s Rebel Moon Part One is just a surface-level, sketchy Star Wars
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24001958/rebel-moon-part-one-child-of-fire-review-zack-snyder-star-wars">https://www.polygon.com/reviews/24001958/rebel-moon-part-one-child-of-fire-review-zack-snyder-star-wars</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24001958/rebel-moon-part-one-child-of-fire-review-zack-snyder-star-wars">Save to Pocket</a>
+</span>
+
+---
+
+## Naughty Dog cancels its The Last of Us multiplayer game
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24002161/the-last-of-us-online-canceled-naughty-dog-tlou2-multiplayer">https://www.polygon.com/24002161/the-last-of-us-online-canceled-naughty-dog-tlou2-multiplayer</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24002161/the-last-of-us-online-canceled-naughty-dog-tlou2-multiplayer">Save to Pocket</a>
+</span>
+
+---
+
+## How to keep warm in Lego Fortnite
+
+date: 2023-12-14, updated: 2023-12-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/lego-fortnite-guides/24001715/how-to-keep-warm-spicy-pepper-burger-inner-flame-charm">https://www.polygon.com/lego-fortnite-guides/24001715/how-to-keep-warm-spicy-pepper-burger-inner-flame-charm</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/lego-fortnite-guides/24001715/how-to-keep-warm-spicy-pepper-burger-inner-flame-charm">Save to Pocket</a>
+</span>
+
+---
+
+## How to keep cool in Lego Fortnite
+
+date: 2023-12-14, updated: 2023-12-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/lego-fortnite-guides/24001680/how-to-keep-cool-snowberry-shake-cool-headed-charm">https://www.polygon.com/lego-fortnite-guides/24001680/how-to-keep-cool-snowberry-shake-cool-headed-charm</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/lego-fortnite-guides/24001680/how-to-keep-cool-snowberry-shake-cool-headed-charm">Save to Pocket</a>
+</span>
+
+---
+
+## PSA: Scarlet and Violet’s new feature lets you kill shiny Pokémon
+
+date: 2023-12-14, updated: 2023-12-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/pokemon/24001553/pokemon-scarlet-violet-dlc-synchro-machine-kill-shiny">https://www.polygon.com/pokemon/24001553/pokemon-scarlet-violet-dlc-synchro-machine-kill-shiny</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/pokemon/24001553/pokemon-scarlet-violet-dlc-synchro-machine-kill-shiny">Save to Pocket</a>
+</span>
+
+---
+
+## What to know before watching Wonka, which is worth watching
+
+date: 2023-12-14, updated: 2023-12-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/23999721/wonka-run-time-post-credits-cast-explained">https://www.polygon.com/23999721/wonka-run-time-post-credits-cast-explained</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/23999721/wonka-run-time-post-credits-cast-explained">Save to Pocket</a>
+</span>
 
 ---
 
