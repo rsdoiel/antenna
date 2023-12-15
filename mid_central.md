@@ -1,22 +1,70 @@
 ---
 title: mid central 2023.50
-updated: 2023-12-15 10:19:30
+updated: 2023-12-15 11:58:16
 ---
 
 # mid central 2023.50
 
-(date: 2023-12-15 10:19:30)
+(date: 2023-12-15 11:58:16)
 
 ---
 
 ## There are no active watches, warnings or advisories
 
-date: 2023-12-13, updated: 2023-12-13, from: Merced, Weather.gov CAP v1.1 alerts
+date: 2023-12-15, updated: 2023-12-15, from: Merced, Weather.gov CAP v1.1 alerts
 
 
 
 <span class="feed-item-link">
 <a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
+</span>
+
+---
+
+## New Experimental Probabilistic Snowfall Forecasts
+
+date: 2023-12-15, from: San Joaquin Valley
+
+
+
+<span class="feed-item-link">
+<a href="https://www.weather.gov/hnx/winter.html">https://www.weather.gov/hnx/winter.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.weather.gov/hnx/winter.html">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 ARRL National Convention to be at Hamvention
+
+date: 2023-12-15, from: Amateur Radio Relay League News
+
+<p> ARRL and Hamvention® have announced that Hamvention will host the 2024 ARRL National Convention, May 17, 18, and 19 at the Greene County Fairgrounds in Xenia, Ohio. Hamvention is the world's largest annual gathering of radio amateurs and has been sponsored by the Dayton Amateur Radio Association (DARA) since 1952.</p><p>"We are pleased to unveil our 2024 logo and theme," announced 2024 Hamvention Gen...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/2024-arrl-national-convention-to-be-at-hamvention">http://www.arrl.org/news/view/2024-arrl-national-convention-to-be-at-hamvention</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/2024-arrl-national-convention-to-be-at-hamvention">Save to Pocket</a>
+</span>
+
+---
+
+## Student-Led ARISS Contact a Success
+
+date: 2023-12-15, from: Amateur Radio Relay League News
+
+<p> A student-led contact with astronauts through the Amateur Radio on the International Space Station (ARISS) program was a great success that earned significant media attention. On Monday, December 11, students at Harbor Creek High School in Harborcreek, Pennsylvania, used amateur radio to talk with Astronaut Andreas Mogensen, KG5GCZ.</p><p>The students are part of the Advanced Technologies Group, KC3S...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/student-led-ariss-contact-a-success">http://www.arrl.org/news/view/student-led-ariss-contact-a-success</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/student-led-ariss-contact-a-success">Save to Pocket</a>
+</span>
+
+---
+
+## The K7RA Solar Update
+
+date: 2023-12-15, from: Amateur Radio Relay League News
+
+<p>"GEOMAGNETIC DISTURBANCE WARNING ISSUED AT 0132 UTC ON 15 DECEMBER 2023 BY THE AUSTRALIAN SPACE WEATHER FORECASTING CENTRE.<br /><br />"Two predominately westward CMEs were observed on 14-Dec and<br />component arrivals are expected on 17-Dec.<br /><br />"INCREASED GEOMAGNETIC ACTIVITY EXPECTED FOR 17 DECEMBER 2023."<br /><br />Spaceweather.com issued this alert on Thursday:<br /><br />"MAJOR X-CLASS SOLAR FLARE: The Sun just unleashed the stronge...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/the-k7ra-solar-update-808">http://www.arrl.org/news/view/the-k7ra-solar-update-808</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/the-k7ra-solar-update-808">Save to Pocket</a>
 </span>
 
 ---

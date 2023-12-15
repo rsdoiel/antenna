@@ -1,7 +1,7 @@
 # SoCal North's feeds.
 
 # Weather Data
-https://api.weather.gov/points/34.3917,-118.5426 "~NOAA Forcast for Santa Clarita" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://api.weather.gov/points/34.3917,-118.5426 "~NOAA Forecast for Santa Clarita" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #
 # For Profit news organizations
@@ -28,7 +28,7 @@ https://caltechletters.org/feed.xml "~Caltech Letters (a student blog)"
 https://canyonsnews.com/feed/ "~The Canyon News (COC Student Newspaper)"
 https://dailytrojan.com/feed/ "~The Daily Trojan (USC Student Newspaper)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://wp.dailybruin.com/feed/ "~The Daily Bruin (UCLA Student Newspaper)"
-https://theroundupnews.com/feed/ "~The Round Up (Peirce College Student Newspaper)"
+https://theroundupnews.com/feed/ "~The Round Up (Pierce College Student Newspaper)"
 https://theoccidentalnews.com/feed "~The Occidental News (Occidental College Student Newspaper)"
 http://civiewnews.com/feed/ "~CI View (CSCI Student Newspaper)"
 # Pasadena City College Courier has some specific header/user agent strings it is expecting, 2023-10-31 RSD
@@ -40,7 +40,7 @@ http://civiewnews.com/feed/ "~CI View (CSCI Student Newspaper)"
 # NGO and community sites
 #
 https://www.tataviam-nsn.us/feed/ "~Tatavium Tribal News"
-# Gabrielinotribe feeds and be returning forbidden for a couple weeks, 2023-10-30 RSD
+# Gabrielino Tribe feeds and be returning forbidden for a couple weeks, 2023-10-30 RSD
 #https://gabrielinotribe.org/tribal-news/feed/ "~Tongva Tribal News"
 https://laconservancy.tumblr.com/rss "~L.A. Conservancy Blog"
 https://theodorepayne.org/feed/ "~Theodore Paine Foundation"

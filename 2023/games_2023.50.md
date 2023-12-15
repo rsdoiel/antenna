@@ -1,11 +1,143 @@
 ---
 title: games 2023.50
-updated: 2023-12-15 10:19:30
+updated: 2023-12-15 11:58:16
 ---
 
 # games 2023.50
 
-(date: 2023-12-15 10:19:30)
+(date: 2023-12-15 11:58:16)
+
+---
+
+## ‘Almost nobody left’ of D&D team that helped get Baldur’s Gate 3 off the ground, says Larian CEO
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24003046/hasbro-layoffs-bg3-baldurs-gate-3-wotc-dnd">https://www.polygon.com/24003046/hasbro-layoffs-bg3-baldurs-gate-3-wotc-dnd</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24003046/hasbro-layoffs-bg3-baldurs-gate-3-wotc-dnd">Save to Pocket</a>
+</span>
+
+---
+
+## How to evolve Tyrogue in Pokémon Scarlet and Violet: The Indigo Disk
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/pokemon-scarlet-violet-guide/24002835/evolve-tyrogue-hitmonlee-hitmontop-hitmonchan">https://www.polygon.com/pokemon-scarlet-violet-guide/24002835/evolve-tyrogue-hitmonlee-hitmontop-hitmonchan</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/pokemon-scarlet-violet-guide/24002835/evolve-tyrogue-hitmonlee-hitmontop-hitmonchan">Save to Pocket</a>
+</span>
+
+---
+
+## Every Wonka candy seen in a Wonka movie, ranked
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24001212/wonka-candy-ranked-chocolate-factory-willy-charlie">https://www.polygon.com/24001212/wonka-candy-ranked-chocolate-factory-willy-charlie</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24001212/wonka-candy-ranked-chocolate-factory-willy-charlie">Save to Pocket</a>
+</span>
+
+---
+
+## All Zelda: Tears of the Kingdom amiibo rewards and unlocks list
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list">https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list">Save to Pocket</a>
+</span>
+
+---
+
+## Gravity Falls creator wrote a new Bill Cipher book for ‘older readers’
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24002938/gravity-falls-bill-cipher-alex-hirsch-new-book">https://www.polygon.com/24002938/gravity-falls-bill-cipher-alex-hirsch-new-book</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24002938/gravity-falls-bill-cipher-alex-hirsch-new-book">Save to Pocket</a>
+</span>
+
+---
+
+## Nemesis, one of the best modern board games, shatters records on Gamefound
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/tabletop-games/24002807/nemesis-retaliation-sequel-crowdfunding-release-date-price">https://www.polygon.com/tabletop-games/24002807/nemesis-retaliation-sequel-crowdfunding-release-date-price</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/tabletop-games/24002807/nemesis-retaliation-sequel-crowdfunding-release-date-price">Save to Pocket</a>
+</span>
+
+---
+
+## How to evolve Duraludon into Archaludon in Pokémon Scarlet and Violet: The Indigo Disk
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/pokemon-scarlet-violet-guide/24002832/evolve-duraludon-into-archaludon-metal-alloy-location">https://www.polygon.com/pokemon-scarlet-violet-guide/24002832/evolve-duraludon-into-archaludon-metal-alloy-location</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/pokemon-scarlet-violet-guide/24002832/evolve-duraludon-into-archaludon-metal-alloy-location">Save to Pocket</a>
+</span>
+
+---
+
+## Overwatch 2’s winter event returns with holiday skins and... a second battle pass?
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24001997/overwatch-2-winter-wonderland-2023-date-skins-event-pass">https://www.polygon.com/24001997/overwatch-2-winter-wonderland-2023-date-skins-event-pass</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24001997/overwatch-2-winter-wonderland-2023-date-skins-event-pass">Save to Pocket</a>
+</span>
+
+---
+
+## Fortnite’s Marriott Bonvoy Land is a ghost town of video game sadness
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/23998884/fortnite-marriott-bonvoy-land-wraps-ad-w-hotel-moxy">https://www.polygon.com/23998884/fortnite-marriott-bonvoy-land-wraps-ad-w-hotel-moxy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/23998884/fortnite-marriott-bonvoy-land-wraps-ad-w-hotel-moxy">Save to Pocket</a>
+</span>
+
+---
+
+## The best ship for every Starfield player
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/starfield-guide/23862276/best-ships-shieldbreaker-where-to-buy">https://www.polygon.com/starfield-guide/23862276/best-ships-shieldbreaker-where-to-buy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/starfield-guide/23862276/best-ships-shieldbreaker-where-to-buy">Save to Pocket</a>
+</span>
+
+---
+
+## Honkai: Star Rail version 1.6 livestream codes
+
+date: 2023-12-15, updated: 2023-12-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/honkai-star-rail-guides/23999967/version-patch-1-6-livestream-codes-redeem">https://www.polygon.com/honkai-star-rail-guides/23999967/version-patch-1-6-livestream-codes-redeem</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/honkai-star-rail-guides/23999967/version-patch-1-6-livestream-codes-redeem">Save to Pocket</a>
+</span>
 
 ---
 

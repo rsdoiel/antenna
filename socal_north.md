@@ -1,11 +1,497 @@
 ---
 title: socal north 2023.50
-updated: 2023-12-15 10:19:30
+updated: 2023-12-15 11:58:16
 ---
 
 # socal north 2023.50
 
-(date: 2023-12-15 10:19:30)
+(date: 2023-12-15 11:58:16)
+
+---
+
+## With depleted roster, UCLA football readies to face Boise State in LA Bowl
+
+date: 2023-12-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+The team set to march onto the field Saturday will look much different than the one that&#8217;s preceded it this year.
+Amid a purge of eight players to the transfer portal &#8211; and the loss of three coaches &#8211; the Bruins will put together what pieces remain as they close the 2023 campaign.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/15/with-depleted-roster-ucla-football-readies-to-face-boise-state-in-la-bowl/">https://dailybruin.com/2023/12/15/with-depleted-roster-ucla-football-readies-to-face-boise-state-in-la-bowl/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/15/with-depleted-roster-ucla-football-readies-to-face-boise-state-in-la-bowl/">Save to Pocket</a>
+</span>
+
+---
+
+## Students discuss special seasonal decorations, menus at dining halls
+
+date: 2023-12-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Normally, when students enter De Neve residential restaurant, they are greeted with the sight of the dining hall&#8217;s large pizza ovens.
+But for one month a year, they instead enter to find lights, poinsettias, hanging honeycomb paper balls and giant ornaments.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/15/students-discuss-special-seasonal-decorations-menus-at-dining-halls/">https://dailybruin.com/2023/12/15/students-discuss-special-seasonal-decorations-menus-at-dining-halls/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/15/students-discuss-special-seasonal-decorations-menus-at-dining-halls/">Save to Pocket</a>
+</span>
+
+---
+
+## Sheriff’s Log: Dec. 7 to Dec. 13, 2023
+
+date: 2023-12-15, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Dec. 7 to Dec. 13, 2023. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/sheriffs-log-dec-7-to-dec-13-2023/">https://thecatalinaislander.com/sheriffs-log-dec-7-to-dec-13-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/sheriffs-log-dec-7-to-dec-13-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Letters to the Editor: published Dec. 15, 2023
+
+date: 2023-12-15, from: Catalina Islander
+
+Offended by New York Times article Editor’s note: The author of this letter originally sent it to the New York Times. The author sent a copy of the letter to the Islander. I am writing about the New York Times article, “The Plan to Save a California Island: Shoot All of the Deer.” As a [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/letters-to-the-editor-published-dec-15-2023/">https://thecatalinaislander.com/letters-to-the-editor-published-dec-15-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/letters-to-the-editor-published-dec-15-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Tustin Schools Closed By Hangar Fire Set To Reopen
+
+date: 2023-12-15, updated: 2023-12-15, from: The LAist
+
+Heritage Elementary School and Legacy Magnet Academy are scheduled to reopen next week following asbestos testing at schools and the removal of hangar doors.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/tustin-schools-hangar-fire-heritage-legacy-asbestos-testing">https://laist.com/news/climate-environment/tustin-schools-hangar-fire-heritage-legacy-asbestos-testing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/tustin-schools-hangar-fire-heritage-legacy-asbestos-testing">Save to Pocket</a>
+</span>
+
+---
+
+## Cantando: Workout Music
+
+date: 2023-12-15, from: The Sundail (CSUN Student Newspaper)
+
+Headphones are essential for any workout, and whatever is playing through them can determine the tone of the workout. Athletic performance can be increased with faster-paced music, according to the National Center for Health Research. Whether it be the high-energy instrumental of a song, or motivating lyrics, music can help a person reach a higher...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177340/print-editions/print-stories/cantando-workout-music/">https://sundial.csun.edu/177340/print-editions/print-stories/cantando-workout-music/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177340/print-editions/print-stories/cantando-workout-music/">Save to Pocket</a>
+</span>
+
+---
+
+## Matador Marquee: Sports Films
+
+date: 2023-12-15, from: The Sundail (CSUN Student Newspaper)
+
+“The Art of Racing in The Rain” is a 2019 film adaptation of a book of the same name about a lifelong bond between a race car driver and his golden retriever. The owner, Denny, starts out at an auto shop with a passion for racing, and his dog, Enzo, follows along his journey. The...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177342/print-editions/print-stories/matador-marquee-sports-films/">https://sundial.csun.edu/177342/print-editions/print-stories/matador-marquee-sports-films/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177342/print-editions/print-stories/matador-marquee-sports-films/">Save to Pocket</a>
+</span>
+
+---
+
+## The LAist Guide To Eating Your Way Through Grand Central Market
+
+date: 2023-12-15, updated: 2023-12-15, from: The LAist
+
+When in DTLA, Grand Central Market is a must. Here are some of our best picks, hacks and tricks for enjoying it all. Don't forget a cooler and some ice packs.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/the-laist-guide-to-eating-your-way-through-grand-central-market">https://laist.com/news/food/the-laist-guide-to-eating-your-way-through-grand-central-market</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/the-laist-guide-to-eating-your-way-through-grand-central-market">Save to Pocket</a>
+</span>
+
+---
+
+## 12 Of Our Favorite Places To Get Holiday Tamales. (Order Now, Many Will Sell Out!)
+
+date: 2023-12-15, updated: 2023-12-15, from: The LAist
+
+For many of us, it's not the holidays without tamales (hot sauce optional). But the time to order is running out. We asked the LAist staff for their favorite places to buy. Here's what they said.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/12-of-our-favorite-places-to-get-holiday-tamales-order-now-many-will-sell-out">https://laist.com/news/food/12-of-our-favorite-places-to-get-holiday-tamales-order-now-many-will-sell-out</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/12-of-our-favorite-places-to-get-holiday-tamales-order-now-many-will-sell-out">Save to Pocket</a>
+</span>
+
+---
+
+## LA's Original Food Hall: How Grand Central Market Has Evolved Over The Years
+
+date: 2023-12-15, updated: 2023-12-15, from: The LAist
+
+The city’s first and oldest food hall has gone through many iterations, evolving with the neighborhood. One thing that hasn't changed? It provides a sampling of L.A.’s wide variety of culinary offerings — all in one open-air structure.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/las-original-food-hall-how-grand-central-market-has-evolved-over-the-years">https://laist.com/news/food/las-original-food-hall-how-grand-central-market-has-evolved-over-the-years</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/las-original-food-hall-how-grand-central-market-has-evolved-over-the-years">Save to Pocket</a>
+</span>
+
+---
+
+## Fans Rejoice As Shohei Ohtani Is Introduced As An LA Dodger. What It Means To The Japanese Diaspora
+
+date: 2023-12-15, updated: 2023-12-15, from: The LAist
+
+Ohtani's arrival brings special excitement for the LA's large Japanese diaspora.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/los-angeles-activities/shohei-ohtani-introduced-dodgers">https://laist.com/news/los-angeles-activities/shohei-ohtani-introduced-dodgers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/los-angeles-activities/shohei-ohtani-introduced-dodgers">Save to Pocket</a>
+</span>
+
+---
+
+## California Issues Emergency Rule To Address Silicosis Epidemic
+
+date: 2023-12-15, updated: 2023-12-15, from: The LAist
+
+One hundred cases of the fatal lung disease have been documented among fabricators of artificial-stone countertops in the state. LAist partnered with Public Health Watch and Univision to break the news of the silicosis cluster in Los Angeles last year.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/health/california-issues-emergency-rule-to-address-silicosis-epidemic">https://laist.com/news/health/california-issues-emergency-rule-to-address-silicosis-epidemic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/health/california-issues-emergency-rule-to-address-silicosis-epidemic">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA included in Title VI investigation over alleged ethnic discrimination
+
+date: 2023-12-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+The United States Department of Education&#8217;s Office for Civil Rights announced an investigation Monday into antisemitic and Islamophobic activities on UCLA&#8217;s campus.
+The investigation is part of a broader Title VI inquiry announced by U.S.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/14/ucla-included-in-title-vi-investigation-over-alleged-ethnic-discrimination/">https://dailybruin.com/2023/12/14/ucla-included-in-title-vi-investigation-over-alleged-ethnic-discrimination/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/14/ucla-included-in-title-vi-investigation-over-alleged-ethnic-discrimination/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Historic’ Ruling Paves Way To House LA’s Unhoused Veterans With Disabilities, Attorney Says
+
+date: 2023-12-14, updated: 2023-12-15, from: The LAist
+
+Federal judge David O. Carter says he wants the VA’s West L.A. campus to dramatically increase the housing available for veterans to include space for about 4,000 people.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/homeless-veterans-affairs-disabilities-housing-los-angeles-west-la-va-campus">https://laist.com/news/housing-homelessness/homeless-veterans-affairs-disabilities-housing-los-angeles-west-la-va-campus</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/homeless-veterans-affairs-disabilities-housing-los-angeles-west-la-va-campus">Save to Pocket</a>
+</span>
+
+---
+
+## Letter from the editor – Fall 2023
+
+date: 2023-12-14, from: The Round Up (Pierce College Student Newspaper)
+
+<p>I am the Roundup newspaper Fall 2023 editor-in-chief. I have been a student in the Media Arts Department since Fall 2019. (I know, I know.</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/14/letter-from-the-editor-fall-2023/">Letter from the editor &#8211; Fall 2023</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/14/letter-from-the-editor-fall-2023/?utm_source=rss&utm_medium=rss&utm_campaign=letter-from-the-editor-fall-2023">https://theroundupnews.com/2023/12/14/letter-from-the-editor-fall-2023/?utm_source=rss&utm_medium=rss&utm_campaign=letter-from-the-editor-fall-2023</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/14/letter-from-the-editor-fall-2023/?utm_source=rss&utm_medium=rss&utm_campaign=letter-from-the-editor-fall-2023">Save to Pocket</a>
+</span>
+
+---
+
+## Congregations on campus can bring unity to students
+
+date: 2023-12-14, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The significance of transitioning from a community college to a four-year university is substantial. In this era of rapid advancements and evolving job markets, the</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/14/congregations-on-campus-can-bring-unity-to-students/">Congregations on campus can bring unity to students</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/14/congregations-on-campus-can-bring-unity-to-students/?utm_source=rss&utm_medium=rss&utm_campaign=congregations-on-campus-can-bring-unity-to-students">https://theroundupnews.com/2023/12/14/congregations-on-campus-can-bring-unity-to-students/?utm_source=rss&utm_medium=rss&utm_campaign=congregations-on-campus-can-bring-unity-to-students</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/14/congregations-on-campus-can-bring-unity-to-students/?utm_source=rss&utm_medium=rss&utm_campaign=congregations-on-campus-can-bring-unity-to-students">Save to Pocket</a>
+</span>
+
+---
+
+## Fast track to four year university success
+
+date: 2023-12-14, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The significance of transitioning from a community college to a four-year university is substantial. In this era of rapid advancements and evolving job markets, the</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/14/fast-track-to-four-year-university-success/">Fast track to four year university success</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/14/fast-track-to-four-year-university-success/?utm_source=rss&utm_medium=rss&utm_campaign=fast-track-to-four-year-university-success">https://theroundupnews.com/2023/12/14/fast-track-to-four-year-university-success/?utm_source=rss&utm_medium=rss&utm_campaign=fast-track-to-four-year-university-success</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/14/fast-track-to-four-year-university-success/?utm_source=rss&utm_medium=rss&utm_campaign=fast-track-to-four-year-university-success">Save to Pocket</a>
+</span>
+
+---
+
+## The college experience is not worth rushing
+
+date: 2023-12-14, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The college life of the average American student is considered to be ideally an education starting and ending at a four-year university, private or public.</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/14/the-college-experience-is-not-worth-rushing/">The college experience is not worth rushing</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/14/the-college-experience-is-not-worth-rushing/?utm_source=rss&utm_medium=rss&utm_campaign=the-college-experience-is-not-worth-rushing">https://theroundupnews.com/2023/12/14/the-college-experience-is-not-worth-rushing/?utm_source=rss&utm_medium=rss&utm_campaign=the-college-experience-is-not-worth-rushing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/14/the-college-experience-is-not-worth-rushing/?utm_source=rss&utm_medium=rss&utm_campaign=the-college-experience-is-not-worth-rushing">Save to Pocket</a>
+</span>
+
+---
+
+## FAFSA process for 2024 applicants
+
+date: 2023-12-14, from: The Round Up (Pierce College Student Newspaper)
+
+<p>At the beginning of the 2024-2025 school year, the Free Application for Federal Student Aid (FAFSA) application process will be streamlined to enable more families</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/14/fafsa-process-for-2024-applicants/">FAFSA process for 2024 applicants</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/14/fafsa-process-for-2024-applicants/?utm_source=rss&utm_medium=rss&utm_campaign=fafsa-process-for-2024-applicants">https://theroundupnews.com/2023/12/14/fafsa-process-for-2024-applicants/?utm_source=rss&utm_medium=rss&utm_campaign=fafsa-process-for-2024-applicants</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/14/fafsa-process-for-2024-applicants/?utm_source=rss&utm_medium=rss&utm_campaign=fafsa-process-for-2024-applicants">Save to Pocket</a>
+</span>
+
+---
+
+## Presidential Q&A
+
+date: 2023-12-14, from: The Round Up (Pierce College Student Newspaper)
+
+<p>It is never a dull day at Pierce College, according to Interim President Ara Aguiar. This semester alone, she has juggled a number of responsibilities,</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/14/presidential-qa/">Presidential Q&#038;A</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/14/presidential-qa/?utm_source=rss&utm_medium=rss&utm_campaign=presidential-qa">https://theroundupnews.com/2023/12/14/presidential-qa/?utm_source=rss&utm_medium=rss&utm_campaign=presidential-qa</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/14/presidential-qa/?utm_source=rss&utm_medium=rss&utm_campaign=presidential-qa">Save to Pocket</a>
+</span>
+
+---
+
+## Valley Village car show
+
+date: 2023-12-14, from: The Round Up (Pierce College Student Newspaper)
+
+<p>European and Japanese tuners with a touch of American muscle were on display for Valley Village residents on Sunday in Parking Lot One from 10</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/14/valley-village-car-show/">Valley Village car show</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/14/valley-village-car-show/?utm_source=rss&utm_medium=rss&utm_campaign=valley-village-car-show">https://theroundupnews.com/2023/12/14/valley-village-car-show/?utm_source=rss&utm_medium=rss&utm_campaign=valley-village-car-show</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/14/valley-village-car-show/?utm_source=rss&utm_medium=rss&utm_campaign=valley-village-car-show">Save to Pocket</a>
+</span>
+
+---
+
+## Student returns to assist ASO
+
+date: 2023-12-14, from: The Round Up (Pierce College Student Newspaper)
+
+<p>During his youth, Associated Student Organization (ASO) Student Service Assistant Jason &#8220;Ozzy&#8221; Portillo had a strong aspiration to work within a school district. &#160; As</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/14/student-returns-to-assist-aso/">Student returns to assist ASO</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/14/student-returns-to-assist-aso/?utm_source=rss&utm_medium=rss&utm_campaign=student-returns-to-assist-aso">https://theroundupnews.com/2023/12/14/student-returns-to-assist-aso/?utm_source=rss&utm_medium=rss&utm_campaign=student-returns-to-assist-aso</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/14/student-returns-to-assist-aso/?utm_source=rss&utm_medium=rss&utm_campaign=student-returns-to-assist-aso">Save to Pocket</a>
+</span>
+
+---
+
+## Thoughts from a Filipino American kid who never wanted to be a nurse
+
+date: 2023-12-14, from: The Sundail (CSUN Student Newspaper)
+
+I sat in the hospital room, frozen. The patient I was assigned to watch died from old age, 15 minutes into my night shift. I panic, and as I’m about to call for a code blue, I remember to check the patient’s file. The patient is classified as a “DNR” or “do not resuscitate.” My...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177583/opinions/thoughts-from-a-filipino-american-kid-who-never-wanted-to-be-a-nurse/">https://sundial.csun.edu/177583/opinions/thoughts-from-a-filipino-american-kid-who-never-wanted-to-be-a-nurse/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177583/opinions/thoughts-from-a-filipino-american-kid-who-never-wanted-to-be-a-nurse/">Save to Pocket</a>
+</span>
+
+---
+
+## Street Vendors bring community to the North Hollywood Station
+
+date: 2023-12-14, from: The Sundail (CSUN Student Newspaper)
+
+The North Hollywood Station sees hundreds of people everyday. Students, workers and community members alike make their way in and out of the station as they commute to their respective places each day. The train ride may not be the most attractive or exciting part of the journey, but it’s sure to bring you closer...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177566/opinions/street-vendors-bring-community-to-the-north-hollywood-station/">https://sundial.csun.edu/177566/opinions/street-vendors-bring-community-to-the-north-hollywood-station/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177566/opinions/street-vendors-bring-community-to-the-north-hollywood-station/">Save to Pocket</a>
+</span>
+
+---
+
+## Social media’s negative impact on mental health
+
+date: 2023-12-14, from: The Sundail (CSUN Student Newspaper)
+
+Social media surrounds our everyday lives. Many of us check our accounts hourly. Perhaps without even realizing it, though, social media is affecting our mental health in a negative way. For one, social media can trigger mental health symptoms. Social media can promote negative experiences of isolation, fear of missing out (FOMO), social media addiction,...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177553/opinions/social-medias-negative-impact-on-mental-health/">https://sundial.csun.edu/177553/opinions/social-medias-negative-impact-on-mental-health/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177553/opinions/social-medias-negative-impact-on-mental-health/">Save to Pocket</a>
+</span>
+
+---
+
+## Scouting Report: UCLA football vs. Boise State
+
+date: 2023-12-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+For the finale of its 2023 season – and its last-ever game as a member of the Pac-12 conference – UCLA football (7-5, 4-5 Pac-12) will make a short trip over to SoFi Stadium on Saturday to face Boise State (8-5, 6-2 Mountain West) in the LA Bowl.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/14/scouting-report-ucla-football-vs-boise-state/">https://dailybruin.com/2023/12/14/scouting-report-ucla-football-vs-boise-state/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/14/scouting-report-ucla-football-vs-boise-state/">Save to Pocket</a>
+</span>
+
+---
+
+## Top 10 Latino Alternative Artists
+
+date: 2023-12-14, from: The Sundail (CSUN Student Newspaper)
+
+Latinos have dominated music over the years, with Latin music revenue hitting $1 billion for the first time in 2022. However, alternative Latino music isn’t always as recognized, compared to giants in reggaeton like Bad Bunny. Still, their music is a big part of our community, and so much endless talent out there deserves to...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/175606/opinions/top-10-latino-alternative-artists/">https://sundial.csun.edu/175606/opinions/top-10-latino-alternative-artists/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/175606/opinions/top-10-latino-alternative-artists/">Save to Pocket</a>
+</span>
+
+---
+
+## The ethical use of AI in higher education
+
+date: 2023-12-14, from: The Sundail (CSUN Student Newspaper)
+
+In the era of digital education, the intertwining of innovation and academia has brought forth advancements and challenges alike. Google recently vowed to protect generative AI users from copyright infringement claims, shedding light on new ethical complexities. This, however, comes with a caveat: user protection does not apply if the generated outcome infringes on the...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177539/opinions/the-ethical-use-of-ai-in-higher-education/">https://sundial.csun.edu/177539/opinions/the-ethical-use-of-ai-in-higher-education/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177539/opinions/the-ethical-use-of-ai-in-higher-education/">Save to Pocket</a>
+</span>
+
+---
+
+## Overcoming Barriers as a Woman in STEM
+
+date: 2023-12-14, from: The Sundail (CSUN Student Newspaper)
+
+I have a learning disability, which makes higher education challenging for me. It has been this way since the third grade, being placed in a special education class. Fast forward to highschool, I was told by my school counselor that I wouldn&#8217;t go to college, much less become a STEM major. I was told that...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177534/opinions/overcoming-barriers-as-a-woman-in-stem/">https://sundial.csun.edu/177534/opinions/overcoming-barriers-as-a-woman-in-stem/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177534/opinions/overcoming-barriers-as-a-woman-in-stem/">Save to Pocket</a>
+</span>
+
+---
+
+## My Experience as a Starbucks Barista
+
+date: 2023-12-14, from: The Sundail (CSUN Student Newspaper)
+
+I never intended to work at Starbucks. I knew about the hectic work environment. I heard about baristas moving back and forth with 20 different drinks lined up. It looked stressful. Fast forward to spring of 2021. I was fresh out of a job, and searching for another. Borderline hopeless, I applied to a local...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177527/opinions/my-experience-as-a-starbucks-barista/">https://sundial.csun.edu/177527/opinions/my-experience-as-a-starbucks-barista/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177527/opinions/my-experience-as-a-starbucks-barista/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA gymnastics centers team culture in run-up to 2024 season
+
+date: 2023-12-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Directly outside Yates Gym, the Bruins&#8217; practice facility, John Wooden’s Pyramid of Success is printed on the wall.
+A visual framework of behaviors for athletes, businesspeople and individuals alike, the pyramid has guided UCLA teams for over 50 years.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/14/ucla-gymnastics-centers-team-culture-in-run-up-to-2024-season/">https://dailybruin.com/2023/12/14/ucla-gymnastics-centers-team-culture-in-run-up-to-2024-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/14/ucla-gymnastics-centers-team-culture-in-run-up-to-2024-season/">Save to Pocket</a>
+</span>
+
+---
+
+## California State Assembly committee meets at CSUN to address electric vehicle accessibility
+
+date: 2023-12-14, from: The Sundail (CSUN Student Newspaper)
+
+If California plans for all new cars, trucks, and SUVs to be electric by 2035, we&#8217;re going to need a lot more chargers – about 1.2 million to be exact. Electric vehicles (EVs) are quickly becoming the future of transportation in California. Since cars and trucks are the largest source of air pollution, the shift...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177522/news/california-state-assembly-committee-meets-at-csun-to-address-electric-vehicle-accessibility/">https://sundial.csun.edu/177522/news/california-state-assembly-committee-meets-at-csun-to-address-electric-vehicle-accessibility/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177522/news/california-state-assembly-committee-meets-at-csun-to-address-electric-vehicle-accessibility/">Save to Pocket</a>
+</span>
+
+---
+
+## Keep the Holidays Jolly with These Safety Tips
+
+date: 2023-12-14, from: City of Santa Clarita
+
+<p>Keep the Holidays Jolly with These Safety Tips By Councilmember Bill Miranda Cold nights, fireplaces, the fresh scent of pine – all markers that the holiday season is upon us. As residents enjoy the glistening light displays around the City and frequent local shops for the perfect gift for their loved ones, criminals are scoping [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/12/14/keep-the-holidays-jolly-with-these-safety-tips/">Keep the Holidays Jolly with These Safety Tips</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2023/12/14/keep-the-holidays-jolly-with-these-safety-tips/">https://santaclarita.gov/blog/2023/12/14/keep-the-holidays-jolly-with-these-safety-tips/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2023/12/14/keep-the-holidays-jolly-with-these-safety-tips/">Save to Pocket</a>
+</span>
+
+---
+
+## Tustin Residents, We Asked Your Questions About The Hangar Fire. Here's What We Found Out
+
+date: 2023-12-14, updated: 2023-12-14, from: The LAist
+
+We talked with officials and experts. Here’s a breakdown of answers to commonly asked questions following the Tustin hangar fire.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/tustin-hangar-fire-safety-help-house-neighborhood-school">https://laist.com/news/climate-environment/tustin-hangar-fire-safety-help-house-neighborhood-school</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/tustin-hangar-fire-safety-help-house-neighborhood-school">Save to Pocket</a>
+</span>
+
+---
+
+## Finish The Ride and Finish The Run Event holds a deeper meaning to the community
+
+date: 2023-12-14, from: The Canyon News (COC Student Newspaper)
+
+<p>With traffic fatalities increasing around southern California,one organization is using it’s wheels&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/finish-the-ride-and-finish-the-run-event-holds-a-deeper-meaning-to-the-community/">Finish The Ride and Finish The Run Event holds a deeper meaning to the community</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/finish-the-ride-and-finish-the-run-event-holds-a-deeper-meaning-to-the-community/">https://canyonsnews.com/finish-the-ride-and-finish-the-run-event-holds-a-deeper-meaning-to-the-community/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/finish-the-ride-and-finish-the-run-event-holds-a-deeper-meaning-to-the-community/">Save to Pocket</a>
+</span>
+
+---
+
+## College of the Canyons Friday Night Films Festival shows appreciation For independent cinema
+
+date: 2023-12-14, from: The Canyon News (COC Student Newspaper)
+
+<p>When watching a film, it is usually a feature movie. But not&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/college-of-the-canyons-friday-night-films-festival-shows-appreciation-for-independent-films/">College of the Canyons Friday Night Films Festival shows appreciation For independent cinema</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://canyonsnews.com/college-of-the-canyons-friday-night-films-festival-shows-appreciation-for-independent-films/">https://canyonsnews.com/college-of-the-canyons-friday-night-films-festival-shows-appreciation-for-independent-films/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://canyonsnews.com/college-of-the-canyons-friday-night-films-festival-shows-appreciation-for-independent-films/">Save to Pocket</a>
+</span>
+
+---
+
+## Stretching to the finish line
+
+date: 2023-12-14, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The Associated Student Organization (ASO) hosted De-Stress Fest on Thursday, an event designed to focus on students’ mindfulness approaching final exams. The event, run by</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/13/stretching-to-the-finish-line/">Stretching to the finish line</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/13/stretching-to-the-finish-line/?utm_source=rss&utm_medium=rss&utm_campaign=stretching-to-the-finish-line">https://theroundupnews.com/2023/12/13/stretching-to-the-finish-line/?utm_source=rss&utm_medium=rss&utm_campaign=stretching-to-the-finish-line</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/13/stretching-to-the-finish-line/?utm_source=rss&utm_medium=rss&utm_campaign=stretching-to-the-finish-line">Save to Pocket</a>
+</span>
+
+---
+
+## Exploring the meaning of life
+
+date: 2023-12-14, from: The Round Up (Pierce College Student Newspaper)
+
+<p>As the semester comes to its end, students gathered to ponder the meaning of life through poetry and song. The Philosopher’s Cabaret began at 3</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/13/exploring-the-meaning-of-life/">Exploring the meaning of life</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/13/exploring-the-meaning-of-life/?utm_source=rss&utm_medium=rss&utm_campaign=exploring-the-meaning-of-life">https://theroundupnews.com/2023/12/13/exploring-the-meaning-of-life/?utm_source=rss&utm_medium=rss&utm_campaign=exploring-the-meaning-of-life</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/13/exploring-the-meaning-of-life/?utm_source=rss&utm_medium=rss&utm_campaign=exploring-the-meaning-of-life">Save to Pocket</a>
+</span>
 
 ---
 
@@ -423,6 +909,18 @@ A crowd stood across the University Library, with unlit candles in one hand and 
 
 <span class="feed-item-link">
 <a href="https://sundial.csun.edu/177347/featured/chabad-at-csun-celebrates-hanukkah-on-campus/">https://sundial.csun.edu/177347/featured/chabad-at-csun-celebrates-hanukkah-on-campus/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177347/featured/chabad-at-csun-celebrates-hanukkah-on-campus/">Save to Pocket</a>
+</span>
+
+---
+
+## The Best Songs Of 2023, According To LA Teenagers
+
+date: 2023-12-12, updated: 2023-12-14, from: The LAist
+
+Not every song came out in 2023, but that doesn’t make the act of discovery any less special.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/best-songs-of-2023-los-angeles-high-school-students">https://laist.com/news/education/best-songs-of-2023-los-angeles-high-school-students</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/best-songs-of-2023-los-angeles-high-school-students">Save to Pocket</a>
 </span>
 
 ---

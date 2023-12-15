@@ -9,6 +9,9 @@ YEAR=$(date +%Y)
 mkdir -p "$YEAR"
 # Generate the start of the archives index.md
 cat <<TXT >"${YEAR}/index.md"
+---
+title: Antenna Archives
+---
 
 # Antenna Archives for $YEAR
 
@@ -67,6 +70,26 @@ done
 # Find all our mid_central markdown files to archive.
 printf '\n## IF & Writing\n\n' >>"${YEAR}/index.md"
 CMD="ls -1 ${YEAR}/writing_*.md"
+$CMD | sort -r |\
+while read -r FNAME; do
+	BNAME=$(basename "$FNAME" ".md")
+	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
+	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
+done
+
+# Find all our parks markdown files to archive.
+printf '\n## Parks\n\n' >>"${YEAR}/index.md"
+CMD="ls -1 ${YEAR}/parks_*.md"
+$CMD | sort -r |\
+while read -r FNAME; do
+	BNAME=$(basename "$FNAME" ".md")
+	LABEL=$(echo "$BNAME" | sed -E 's/_/ /g')
+	printf '* [%s](%s)\n' "$LABEL" "$BNAME.md" >>"$YEAR/index.md"
+done
+
+# Find all our mid_central markdown files to archive.
+printf '\n## Libraries, Archives and Museums\n\n' >>"${YEAR}/index.md"
+CMD="ls -1 ${YEAR}/libraries_*.md"
 $CMD | sort -r |\
 while read -r FNAME; do
 	BNAME=$(basename "$FNAME" ".md")

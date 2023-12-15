@@ -1,11 +1,317 @@
 ---
 title: weather 2023.50
-updated: 2023-12-15 10:19:30
+updated: 2023-12-15 11:58:16
 ---
 
 # weather 2023.50
 
-(date: 2023-12-15 10:19:30)
+(date: 2023-12-15 11:58:16)
+
+---
+
+## SPC Dec 15, 2023 2000 UTC Day 1 Convective Outlook
+
+date: 2023-12-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0145 PM CST Fri Dec 15 2023
+
+Valid 152000Z - 161200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+The risk for severe thunderstorms appears negligible across the U.S.
+through tonight.
+
+...20Z Update...
+Lightning has diminished with convection embedded within a band of
+precipitation, ahead of mid-level troughing slowly progressing
+across the Great Plains.  Stronger mid/upper support and colder air
+aloft, associated with a remnant embedded low, appear to be shifting
+northeast of the better low-level moisture return off the
+northwestern Gulf, and potential for renewed thunderstorm activity
+may be low in the near term.  However, as the trailing flank of the
+mid-level troughing begins to dig across central Texas, toward the
+coastal plain, guidance suggests that probabilities for scattered
+weak thunderstorm activity may increase across parts of
+eastern/southeastern Texas later this evening or overnight.
+
+..Kerr.. 12/15/2023
+
+.PREV DISCUSSION... /ISSUED 1020 AM CST Fri Dec 15 2023/
+
+...Discussion...
+A central U.S. upper trough -- flanked by ridging over both eastern
+and western portions of the country -- will shift slowly eastward
+today and tonight.  In response, very weak surface cyclogenesis will
+occur, with a low expected to reside over the southern
+Iowa/northwestern Missouri area early Saturday morning. 
+
+Ahead of this low, and the associated/trailing weak surface
+trough/front, very little in the way of moisture return is expected,
+given the northeasterly/northerly cyclonic flow over the northern
+and western Gulf of Mexico.  As such, an overall lack of buoyancy
+with this system suggests only occasional/sporadic lightning through
+tonight -- primarily across the eastern Texas/western
+Louisiana/Arklatex area.
+
+A few flashes may also occur across southern Florida and the Keys
+later in the period, within easterly low-level flow east of the weak
+southern Gulf surface low.  
+
+Elsewhere, thunderstorms are not expected.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No watches are valid as of Fri Dec 15 19:50:02 UTC 2023
+
+date: 2023-12-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Dec 15 19:50:02 UTC 2023.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No MDs are in effect as of Fri Dec 15 19:50:02 UTC 2023
+
+date: 2023-12-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri Dec 15 19:50:02 UTC 2023.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2023-12-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0142 PM CST Fri Dec 15 2023
+
+Valid 161200Z - 171200Z
+
+...NO CRITICAL AREAS...
+
+...Southern CA...
+Locally elevated offshore winds and low humidity are possible early
+Saturday and into early Sunday across parts of southern CA. High
+pressure over the interior West will continue to support moderate
+offshore pressure gradients and dry conditions. A few hours of
+breezy winds greater than 15-20 mph and RH below 20% are possible.
+However, weak upper-level support and spotty fuels should keep
+broader concerns limited. Elsewhere across the country, seasonably
+cool and moist conditions will negate fire-weather concerns.
+
+..Lyons.. 12/15/2023
+
+.PREV DISCUSSION... /ISSUED 0146 AM CST Fri Dec 15 2023/
+
+...Synopsis...
+A mid-level trough will deepen across the eastern CONUS as a surface
+cyclone deepens across the eastern Gulf of Mexico and traverses the
+Florida Peninsula. Surface high pressure should overspread most of
+the rest of the CONUS, promoting relatively cooler surface
+conditions amid poorly receptive fuels, dampening significant
+wildfire-spread potential.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Dec 15, 2023 1730 UTC Day 2 Convective Outlook
+
+date: 2023-12-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1121 AM CST Fri Dec 15 2023
+
+Valid 161200Z - 171200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS LATE SATURDAY
+EVENING THROUGH SATURDAY NIGHT ACROSS MUCH OF THE CENTRAL AND 
+SOUTHERN FLORIDA PENINSULA AND KEYS...
+
+...SUMMARY...
+Strong thunderstorms may impact the Florida Peninsula and Keys
+Saturday night, with a few possibly becoming severe and posing a
+risk for tornadoes and damaging wind gusts.
+
+...Synopsis...
+Stronger, more zonal westerlies will remain confined to the northern
+mid-latitudes through this period, while flow remains more amplified
+in lower latitudes.  The latter regime will include a broad and
+deep, occluded cyclone over the southern mid-latitude eastern
+Pacific and prominent downstream mid/upper ridging across the
+Pacific coast and much of the Intermountain West.
+
+Farther downstream, developments, particularly in the shorter
+wavelengths, remain more unclear.  The axis of mean larger-scale
+mid-level troughing is forecast to dig across and east-southeast of
+the Mississippi Valley Saturday through Saturday night.  This may
+include one embedded short wave perturbation digging across the 
+Texas Gulf coast, before coming in phase with amplifying short wave
+troughing in a branch of westerlies emanating from the subtropical
+eastern Pacific, across the northwestern into central Gulf of
+Mexico.
+
+Surface cyclogenesis may already be underway along a remnant frontal
+zone across the south central Gulf of Mexico at the outset of the
+period, associated with a preceding subtropical perturbation. 
+Substantive further deepening of this cyclone appears probable, but
+notable differences in its evolution remain apparent within the
+various model output, particularly as it approaches and crosses the
+central through northeastern Florida vicinity during the evening and
+overnight hours.
+
+...Florida Peninsula...
+Given the model spread concerning the cyclone evolution, coupled
+with initially dry and stable boundary-layer conditions across much
+of the peninsula early Saturday and potential increasing inhibition
+associated with pronounced mid/upper warming Saturday into Saturday
+night, the risk for severe weather still appears largely conditional
+at this point.  However, destabilization associated with rapid
+low-level moistening within the inland spreading warm sector,
+coincident with strengthening deep-layer shear and enlarging,
+clockwise-curved low-level hodographs, could become sufficient for
+organized convection, including supercells, with potential to
+produce tornadoes and damaging wind gusts.  
+
+Given this concern, slight risk probabilities will be maintained,
+and extended southward through the remainder of the peninsula and
+Florida Keys.  However, highest severe probabilities may ultimately
+become focused near and just inland of coastal areas between Tampa
+and Fort Myers Saturday evening, and near/offshore east central and
+southeast coastal areas overnight, where low-level forcing and
+destabilization will be most favorable.
+
+..Kerr.. 12/15/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Dec 15, 2023 1630 UTC Day 1 Convective Outlook
+
+date: 2023-12-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1020 AM CST Fri Dec 15 2023
+
+Valid 151630Z - 161200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not forecast across the United States
+through tonight.
+
+...Discussion...
+A central U.S. upper trough -- flanked by ridging over both eastern
+and western portions of the country -- will shift slowly eastward
+today and tonight.  In response, very weak surface cyclogenesis will
+occur, with a low expected to reside over the southern
+Iowa/northwestern Missouri area early Saturday morning. 
+
+Ahead of this low, and the associated/trailing weak surface
+trough/front, very little in the way of moisture return is expected,
+given the northeasterly/northerly cyclonic flow over the northern
+and western Gulf of Mexico.  As such, an overall lack of buoyancy
+with this system suggests only occasional/sporadic lightning through
+tonight -- primarily across the eastern Texas/western
+Louisiana/Arklatex area.
+
+A few flashes may also occur across southern Florida and the Keys
+later in the period, within easterly low-level flow east of the weak
+southern Gulf surface low.  
+
+Elsewhere, thunderstorms are not expected.
+
+..Goss/Thornton.. 12/15/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2023-12-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1022 AM CST Fri Dec 15 2023
+
+Valid 151700Z - 161200Z
+
+...NO CRITICAL AREAS...
+
+Cool conditions and widespread precipitation ongoing this morning
+will keep fire-weather conditions minimal through the forecast
+period.
+
+..Lyons.. 12/15/2023
+
+.PREV DISCUSSION... /ISSUED 0146 AM CST Fri Dec 15 2023/
+
+...Synopsis...
+A mid-level trough and an accompanying surface low will traverse the
+MS Valley today as surface high pressure resides over the East and
+West Coasts. Relatively cool and or moist surface conditions should
+overspread most locales and limit significant wildfire-spread
+potential.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -49,30 +355,6 @@ U.S. through tonight.
 
 ---
 
-## SPC - No watches are valid as of Wed Dec 13 00:52:02 UTC 2023
-
-date: 2023-12-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Wed Dec 13 00:52:02 UTC 2023.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No MDs are in effect as of Wed Dec 13 00:52:02 UTC 2023
-
-date: 2023-12-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed Dec 13 00:52:02 UTC 2023.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
-</span>
-
----
-
 ## SPC Day 3-8 Fire Weather Outlook
 
 date: 2023-12-12, from: NOAA Weather Forecasts
@@ -106,271 +388,6 @@ most fire weather concerns.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/exper/fire_wx/">https://www.spc.noaa.gov/products/exper/fire_wx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/exper/fire_wx/">Save to Pocket</a>
-</span>
-
----
-
-## SPC Dec 12, 2023 2000 UTC Day 1 Convective Outlook
-
-date: 2023-12-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0154 PM CST Tue Dec 12 2023
-
-Valid 122000Z - 131200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-The risk of thunderstorms appears negligible across much of the U.S.
-through daybreak Wednesday.
-
-...20Z Update...
-Forecast soundings suggest that moistening supportive of very weak
-CAPE across the Texas South Plains vicinity tonight will be largely
-rooted near or above 700 mb.  The extent of any potential for warm
-advection driven convection to produce lightning remains unclear.
-However, the categorical thunderstorm line (10 percent probability)
-has been adjusted somewhat, to focus where latest model output
-suggests that weak mid-level ascent and slightly cooler mid-level
-temperatures might contribute to thermodynamic profiles most
-conducive to lightning.
-
-..Kerr.. 12/12/2023
-
-.PREV DISCUSSION... /ISSUED 1013 AM CST Tue Dec 12 2023/
-
-...Synopsis...
-
-No changes to the ongoing outlook are needed with the 1630z update.
-Moistening midlevels and steepening lapse rates ahead of the western
-U.S. upper trough will foster modest elevated instability overnight
-across eastern NM/west TX. Increasing ascent in a continued warm
-advection regime may be sufficient for a few lightning flashes in
-elevated convective showers. Severe storms are not expected.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2023-12-12, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1243 PM CST Tue Dec 12 2023
-
-Valid 131200Z - 141200Z
-
-...NO CRITICAL AREAS...
-
-The previous forecast remains on track with minimal fire weather
-potential expected over most of the CONUS for Wednesday. Details in
-the previous discussion (below) outlining concerns for southern
-California remain valid based on recent observations and trends in
-recent guidance.
-
-..Moore.. 12/12/2023
-
-.PREV DISCUSSION... /ISSUED 0150 AM CST Tue Dec 12 2023/
-
-...Synopsis...
-A cutoff low in the lower Colorado River Valley will shift into the
-Four Corners and become more of an open wave on Wednesday. With a
-strong trough exiting the Northeast by the end of the period,
-surface high pressure will intensify in the East with some
-maintenance of high pressure within the Great Basin. Cool
-temperatures and light winds over the driest fuels will again
-preclude fire weather concerns for most of the CONUS. Offshore flow
-will continue across southern California, though a slow weakening
-trend will occur through the period. RH early in the day, when the
-winds will be strongest, will not likely fall below critical
-thresholds. A couple hours of elevated fire weather does appear
-possible by early/mid afternoon. Fuels have dried further at lower
-elevations. However, the limited spatial extent and short duration
-of these conditions should keep fire weather concerns localized.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Dec 12, 2023 1730 UTC Day 2 Convective Outlook
-
-date: 2023-12-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1126 AM CST Tue Dec 12 2023
-
-Valid 131200Z - 141200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-The risk for severe thunderstorms appears negligible across the
-U.S., Wednesday through Wednesday night.
-
-...Synopsis...
-Cool, generally dry and stable air prevails, particularly under the
-influence of expansive surface ridging across the northern U.S.
-Intermountain West through most areas east of the Rockies.  An
-increasingly prominent embedded center of higher pressure within
-this regime is forecast to gradually shift across the middle
-Mississippi through lower Ohio Valleys during this period, beneath
-confluent flow in the wake of a mid-level short wave trough digging
-across the Great Lakes and northern Mid Atlantic region.  However,
-models indicate that the southern/southwestern periphery of this
-ridging will be maintained across much of the northern Gulf of
-Mexico and southern Great Plains, beneath the leading edge of
-large-scale mid-level ridging, which will continue to spread inland
-of the Pacific coast through much of the Mississippi Valley.
-
-Weak mid-level troughing, within the larger-scale ridge, is forecast
-to slowly pivot across the Intermountain West and Rockies, with an
-embedded mid-level low digging into the Mogollon Rim vicinity of the
-Southwest, before slowly turning eastward toward the southern
-Rockies by late Wednesday night.
-
-...Four Corners region into southern Great Plains...
-Elevated moisture return and lift associated with warm advection, in
-advance of the developing mid-level low, may contribute to
-sufficient destabilization to support increasing convection across
-parts of the Texas South Plains into Panhandle region by 12Z
-Wednesday.  Some of this may become capable of producing lightning,
-before at least some further destabilization, beneath increasingly
-divergent mid/upper flow, contributes to a more substantive increase
-in weak thunderstorm development near/east of the New Mexico Sangre
-de Cristo Mountains by late Wednesday afternoon, then into the Texas
-Panhandle and South Plains vicinity through 12Z Thursday.  
-
-Closer to the cold core of the mid-level low, models indicate that
-weak boundary-layer destabilization is possible across the plateau
-and Mogollon Rim vicinity of eastern Arizona into adjacent western
-New Mexico by late Wednesday afternoon.  Aided by strengthening
-mid/upper forcing for ascent, this may lead to increasing
-thunderstorm development which may persist into mid/late evening. 
-While the risk for severe storms appears negligible, thermodynamic
-profiles might still become conducive to small hail/graupel in
-stronger convection.
-
-...Southern Florida...
-While northeasterly to east-northeasterly low-level flow is likely
-to be maintained through the period, models indicate that low-level
-moistening might contribute to sufficient destabilization to support
-occasional weak thunderstorm activity, mainly where low-level
-convergence remains enhanced near/offshore of southeast coastal
-areas.
-
-..Kerr.. 12/12/2023
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Dec 12, 2023 1630 UTC Day 1 Convective Outlook
-
-date: 2023-12-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1013 AM CST Tue Dec 12 2023
-
-Valid 121630Z - 131200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Isolated non-severe thunderstorms will be possible tonight across
-west Texas and southeast New Mexico.
-
-...Synopsis...
-
-No changes to the ongoing outlook are needed with the 1630z update.
-Moistening midlevels and steepening lapse rates ahead of the western
-U.S. upper trough will foster modest elevated instability overnight
-across eastern NM/west TX. Increasing ascent in a continued warm
-advection regime may be sufficient for a few lightning flashes in
-elevated convective showers. Severe storms are not expected.
-
-..Leitman/Weinman.. 12/12/2023
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2023-12-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0951 AM CST Tue Dec 12 2023
-
-Valid 121700Z - 131200Z
-
-...NO CRITICAL AREAS...
-
-The previous forecast remains on track with limited fire weather
-potential. Localized elevated fire weather conditions remain
-possible along the southern CA coast later tonight, but latest
-guidance continues to suggest low potential for widespread concerns
-due to marginal RH reductions.
-
-..Moore.. 12/12/2023
-
-.PREV DISCUSSION... /ISSUED 0144 AM CST Tue Dec 12 2023/
-
-...Synopsis...
-Surface high pressure will be the dominant feature across much of
-the CONUS today. Stronger upper-level winds will be relegated to the
-Upper Midwest and Northeast due to a strong cyclone in eastern
-Canada. Cooler temperatures and light winds over dry fuels will keep
-fire weather minimal for most areas. Some increase in offshore winds
-will be possible in southern California. RH recovery overnight will
-likely be enough to mitigate fire weather concerns as winds increase
-late tonight.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
 </span>
 
 ---

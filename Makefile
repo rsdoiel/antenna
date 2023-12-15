@@ -20,7 +20,7 @@ endif
 
 PROJECT = Antenna
 
-section_names = socal_north pacific mid_central tech_likely columns weather writing games
+section_names = socal_north pacific mid_central tech_likely columns weather writing games libraries parks
 
 md_files = $(addsuffix .md,$(section_names))
 
@@ -67,6 +67,9 @@ games: .FORCE
 libraries: .FORCE
 	skimmer libraries.txt
 
+parks: .FORCE
+	skimmer parks.txt
+
 markdown: $(md_files)
 
 $(md_files): .FORCE
@@ -88,6 +91,9 @@ html: front_page.tmpl $(html_files)
            --metadata pacific_page="pacific.html" \
            --metadata socal_north_page="socal_north.html" \
            --metadata tech_likely_page="tech_likely.html" \
+           --metadata libraries_page="libraries.html" \
+           --metadata games_page="games.html" \
+           --metadata parks_page="parks.html" \
            --metadata columns_page="columns.html" \
            --metadata weather_page="weather.html" \
            --template front_page.tmpl \
@@ -131,8 +137,11 @@ about.html: about.md
 		--metadata socal_north_page="socal_north.html" \
 		--metadata tech_likely_page="tech_likely.html" \
 		--metadata columns_page="columns.html" \
+        --metadata libraries_page="libraries.html" \
+        --metadata games_page="games.html" \
+        --metadata parks_page="parks.html" \
 		--metadata weather_page="weather.html" \
-		--template front_page.tmpl \
+        --template front_page.tmpl \
 		about.md >about.html
 
 about.md: .FORCE
@@ -150,6 +159,9 @@ index.html: .FORCE
 		--metadata socal_north_page="socal_north.html" \
 		--metadata tech_likely_page="tech_likely.html" \
 		--metadata columns_page="columns.html" \
+        --metadata libraries_page="libraries.html" \
+        --metadata games_page="games.html" \
+        --metadata parks_page="parks.html" \
 		--metadata weather_page="weather.html" \
 		--template front_page.tmpl \
 		index.md >index.html
@@ -162,6 +174,9 @@ search.html: .FORCE
 		--metadata socal_north_page="socal_north.html" \
 		--metadata tech_likely_page="tech_likely.html" \
 		--metadata columns_page="columns.html" \
+        --metadata libraries_page="libraries.html" \
+        --metadata games_page="games.html" \
+        --metadata parks_page="parks.html" \
 		--metadata weather_page="weather.html" \
 		--template front_page.tmpl \
 		search.md >search.html
@@ -174,6 +189,10 @@ README.html: .FORCE
 		--metadata socal_north_page="socal_north.html" \
 		--metadata tech_likely_page="tech_likely.html" \
 		--metadata columns_page="columns.html" \
+        --metadata libraries_page="libraries.html" \
+        --metadata games_page="games.html" \
+        --metadata parks_page="parks.html" \
+        --metadata parks_page="parks.html" \
 		--metadata weather_page="weather.html" \
 		--template front_page.tmpl \
 		README.md >README.html

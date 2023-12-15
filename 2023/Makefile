@@ -17,7 +17,11 @@ build: $(HTML_PAGES)
            --metadata pacific_page="../pacific.html" \
            --metadata socal_north_page="../socal_north.html" \
            --metadata tech_likely_page="../tech_likely.html" \
-           --metadata weather_page="../weather.html" \
+           --metadata libraries_page="../libraries.html" \
+           --metadata games_page="../games.html" \
+           --metadata parks_page="parks.html" \
+           --metadata columns_page="columns.html" \
+           --metadata weather_page="weather.html" \
 	       --template ../archives.tmpl \
 		   $< \
 		   >$@

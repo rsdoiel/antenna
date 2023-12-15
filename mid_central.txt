@@ -8,7 +8,7 @@ https://www.arrl.org/arrl.rss "~Amateur Radio Relay League News"
 #https://www.arnewsline.org/?format=rss "~Amateur Radio NewslinE" # failing, 2023-12-04
 #https://stepoutside.org/rss/ "~Step Outside, Fishing, Atwater, CA"
 https://www.mccd.edu/news/feed/ "~Blue Devil News (Merced Community College Student Newspaper)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://blogs.ucmerced.edu/prodigy/feed/ "~The Prodogy (UC Merced's Student Newspaper)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://blogs.ucmerced.edu/prodigy/feed/ "~The Prodigy (UC Merced's Student Newspaper)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://fscollegian.com/feed/ "~The Collegian (Cal State Fresno's Student Newspaper)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 # NOAA feeds 
