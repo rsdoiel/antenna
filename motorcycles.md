@@ -1,23 +1,11 @@
 ---
 title: motorcycles
-updated: 2024-10-16 07:22:19
+updated: 2024-10-16 07:51:58
 ---
 
 # motorcycles
 
-(date: 2024-10-16 07:22:19)
-
----
-
-## The Money Stop: Betting Guide for the South Point 400 at Las Vegas
-
-date: 2024-10-16, from: Kickin the Tires blog
-
-By Cole Cusumano, Staff Writer Betting is almost always better when Las Vegas is involved, but especially when the NASCAR Cup Series returns to Sin City for the playoffs. Whether&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/the-money-stop-betting-guide-for-the-south-point-400-at-las-vegas/>
+(date: 2024-10-16 07:51:58)
 
 ---
 
@@ -201,18 +189,6 @@ A worker's strike has shed light on the company's bleak-looking future.
 
 ---
 
-## Alex Bowman Eliminated from Playoffs After Roval Disqualification
-
-date: 2024-10-14, from: Kickin the Tires blog
-
-By Seth Eggert, Associate Editor CONCORD, N.C. – When the checkered flag waved at the end of the Bank of America ROVAL 400, all four Hendrick Motorsports drivers had made&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/alex-bowman-eliminated-from-playoffs-after-roval-disqualification/>
-
----
-
 ## On being a great gift-giver
 
 date: 2024-10-14, from: Herman Bear Blog
@@ -330,18 +306,6 @@ Photo by Blake Ulino, Photographer
 <br> 
 
 <https://kickinthetires.net/nascar/gallery-catch-the-action-from-the-charlotte-roval/>
-
----
-
-## GALLERY: NHRA Descends On Texas Motorsplex
-
-date: 2024-10-13, from: Kickin the Tires blog
-
-Photos by Jerry Jordan, Editor 
-
-<br> 
-
-<https://kickinthetires.net/photo-gallery/gallery-nhra-descends-on-texas-motorsplex/>
 
 ---
 

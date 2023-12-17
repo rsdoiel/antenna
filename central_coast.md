@@ -1,11 +1,11 @@
 ---
 title: central coast
-updated: 2024-10-16 07:22:17
+updated: 2024-10-16 07:51:50
 ---
 
 # central coast
 
-(date: 2024-10-16 07:22:17)
+(date: 2024-10-16 07:51:50)
 
 ---
 
@@ -23,36 +23,6 @@ date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
 
 ---
 
-## San Marcos Flag Football Advances to League Title Game with Dramatic 34-33 Win Over Dos Pueblos
-
-date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-vs-dp-1015.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-vs-dp-1015.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-vs-dp-1015.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-vs-dp-1015.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-vs-dp-1015.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-vs-dp-1015.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-vs-dp-1015.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-vs-dp-1015.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-vs-dp-1015.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-flag-vs-dp-1015.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>A dramatic touchdown and one-point conversion with 18 seconds left on the clock lifted San Marcos to a thrilling 34-33 win over Dos Pueblos in the semifinals of the Channel [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/san-marcos-flag-football-advances-to-league-title-game-with-dramatic-34-33-win-over-dos-pueblos/">San Marcos Flag Football Advances to League Title Game with Dramatic 34-33 Win Over Dos Pueblos</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/san-marcos-flag-football-advances-to-league-title-game-with-dramatic-34-33-win-over-dos-pueblos/>
-
----
-
-## Prep Girls Volleyball Roundup: San Marcos Sweeps Oxnard, Bishop Diego Takes Down Laguna Blanca
-
-date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SM-Volley-1015.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SM-Volley-1015.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SM-Volley-1015.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SM-Volley-1015.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SM-Volley-1015.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SM-Volley-1015.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SM-Volley-1015.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SM-Volley-1015.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SM-Volley-1015.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/SM-Volley-1015.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>San Marcos girls volleyball wrapped up the Channel League season with a Senior Night sweep of Oxnard inside the Thunderhut, 25-14, 25-13, 25-19. The Royals honored the senior class group [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/prep-girls-volleyball-roundup-san-marcos-sweeps-oxnard-bishop-diego-takes-down-laguna-blanca/">Prep Girls Volleyball Roundup: San Marcos Sweeps Oxnard, Bishop Diego Takes Down Laguna Blanca</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/prep-girls-volleyball-roundup-san-marcos-sweeps-oxnard-bishop-diego-takes-down-laguna-blanca/>
-
----
-
 ## Committee Rolls Ahead with Changes to Santa Barbara Bike Ordinance
 
 date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
@@ -65,36 +35,6 @@ date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
 <br> 
 
 <https://www.noozhawk.com/santa-barbara-committee-rolls-ahead-with-changes-to-bike-ordinance/>
-
----
-
-## Prep Boys Water Polo Roundup: Dos Pueblos, Santa Barbara High Collect Victories
-
-date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-water-polo-1015.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-water-polo-1015.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-water-polo-1015.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-water-polo-1015.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-water-polo-1015.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-water-polo-1015.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-water-polo-1015.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-water-polo-1015.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-water-polo-1015.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/dp-water-polo-1015.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Dos Pueblos boys water polo jumped out to a blazing start and never looked back in an 18-9 win over Rio Mesa on the road on Tuesday. The Chargers took [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/prep-boys-water-polo-roundup-dos-pueblos-santa-barbara-high-collect-victories/">Prep Boys Water Polo Roundup: Dos Pueblos, Santa Barbara High Collect Victories</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/prep-boys-water-polo-roundup-dos-pueblos-santa-barbara-high-collect-victories/>
-
----
-
-## Prep Girls Golf Roundup: San Marcos Finishes Off Undefeated League Season
-
-date: 2024-10-16, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-g-golf-1015.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-g-golf-1015.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-g-golf-1015.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-g-golf-1015.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-g-golf-1015.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-g-golf-1015.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-g-golf-1015.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-g-golf-1015.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-g-golf-1015.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/sm-g-golf-1015.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>San Marcos girls golf capped off an undefeated Channel League season with a victory over Oxnard on Tuesday at Sandpiper’s par 36 course. The win, in which the Royals tallied [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/prep-girls-golf-roundup-san-marcos-finishes-off-undefeated-league-season/">Prep Girls Golf Roundup: San Marcos Finishes Off Undefeated League Season</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/prep-girls-golf-roundup-san-marcos-finishes-off-undefeated-league-season/>
 
 ---
 
@@ -183,21 +123,6 @@ date: 2024-10-15, from: Newshawk, the freshest news in Santa Barbara County
 <br> 
 
 <https://www.noozhawk.com/ron-fink-2024-election-be-cautious-read-the-voter-guide-then-vote/>
-
----
-
-## Santa Barbara’s Ford Harman Finds Success on National Beach Volleyball Stage
-
-date: 2024-10-15, from: Newshawk, the freshest news in Santa Barbara County
-
-<figure><img width="1024" height="711" src="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?resize=1536%2C1067&amp;ssl=1 1536w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?resize=1568%2C1089&amp;ssl=1 1568w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2024/10/ford-harman-1015.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>Santa Barbara High alum and Long Beach State freshman Ford Harman has made a name for himself as a professional beach volleyball player on the national stage. Harman, 19, competed [&#8230;]</p>
-<p>The post <a href="https://www.noozhawk.com/santa-barbaras-ford-harman-finds-success-on-national-beach-volleyball-stage/">Santa Barbara&#8217;s Ford Harman Finds Success on National Beach Volleyball Stage</a> appeared first on <a href="https://www.noozhawk.com">Noozhawk</a>.</p>
- 
-
-<br> 
-
-<https://www.noozhawk.com/santa-barbaras-ford-harman-finds-success-on-national-beach-volleyball-stage/>
 
 ---
 

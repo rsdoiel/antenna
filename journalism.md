@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2024-10-16 07:22:18
+updated: 2024-10-16 07:51:55
 ---
 
 # journalism
 
-(date: 2024-10-16 07:22:18)
+(date: 2024-10-16 07:51:55)
 
 ---
 
@@ -32,19 +32,6 @@ Press Forward, the philanthropic coalition with a mission to inject at least $50
 <br> 
 
 <https://www.niemanlab.org/2024/10/press-forward-awards-20-million-to-205-small-local-newsrooms/>
-
----
-
-## UCLA football seeks to develop discipline, find wins as half of season remains
-
-date: 2024-10-16, from: The Daily Bruin (UCLA Student Newspaper)
-
-A football game doesn&#8217;t come down to tucked shirts and timely attendance.
-But these mundane facets take small steps in surmounting the Bruins&#8217; larger hurdle: a lack of discipline. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/16/ucla-football-seeks-to-develop-discipline-find-wins-as-half-of-season-remains/>
 
 ---
 
@@ -144,34 +131,6 @@ date: 2024-10-16, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## NASCAR needs to make some serious changes
-
-date: 2024-10-16, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Teams are challenging the series’ charter system in hopes of change.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/16/nascar-needs-to-make-some-serious-changes/">NASCAR needs to make some serious changes</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2024/10/16/nascar-needs-to-make-some-serious-changes/>
-
----
-
-## Men’s water polo gears up for pivotal homestand
-
-date: 2024-10-16, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Trojans will face No.  11 Princeton, No. 2 UCLA in home battes at Uytengsu.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/16/mens-water-polo-gears-up-for-pivotal-homestand/">Men’s water polo gears up for pivotal homestand</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2024/10/16/mens-water-polo-gears-up-for-pivotal-homestand/>
-
----
-
 ## You can’t separate yourself from your company
 
 date: 2024-10-16, from: The Daily Trojan (USC Student Newspaper)
@@ -223,19 +182,6 @@ date: 2024-10-16, from: The Canyon News (COC Student Newspaper)
 <br> 
 
 <https://canyonsnews.com/it-is-the-beginning-of-a-new-era-for-old-orchard-park/>
-
----
-
-## Gallery: UCLA surrenders fourth-quarter lead to Minnesota in home heartbreaker
-
-date: 2024-10-16, from: The Daily Bruin (UCLA Student Newspaper)
-
-Despite holding the lead midway through the fourth quarter, UCLA football (1-5, 0-4 Big Ten) fell 21-17 to Minnesota (4-3, 2-2) in Saturday’s Rose Bowl matchup, continuing the team’s worst start since 2019 under then-head coach Chip Kelly.&#160;
-With just 27 seconds left in the game, UCLA gave up a touchdown to the Minnesota offense and subsequently failed to convert an end-of-game Hail Mary, cementing its fifth consecutive loss. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/15/gallery-ucla-surrenders-fourth-quarter-lead-to-minnesota-in-home-heartbreaker/>
 
 ---
 
@@ -445,34 +391,6 @@ date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Football loses on final play, again
-
-date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
-
-<p>USC lost its third game to No. 3 Penn State after it had a 14 point lead at halftime.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/15/football-loses-on-final-play-again/">Football loses on final play, again</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2024/10/15/football-loses-on-final-play-again/>
-
----
-
-## Soccer keeps dominating Big Ten competition
-
-date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The Trojans had a successful weekend with big wins over Illinois and Northwestern.</p>
-<p>The post <a href="https://dailytrojan.com/2024/10/15/soccer-keeps-dominating-big-ten-competition/">Soccer keeps dominating Big Ten competition</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2024/10/15/soccer-keeps-dominating-big-ten-competition/>
-
----
-
 ## East LA community pushes back on HSC expansion
 
 date: 2024-10-15, from: The Daily Trojan (USC Student Newspaper)
@@ -538,34 +456,6 @@ College is for open and civilized debate, not threats and intimidation. In an er
 
 ---
 
-## Men’s water polo bounces back from previous loss to win both games this weekend
-
-date: 2024-10-15, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 16 at 12:43 a.m.</em>
-After commemorating the weekend with two wins, the Bruins renewed their winning streak.
-No. 2 UCLA men&#8217;s water polo (16-1, 1-1 MPSF) secured two wins this weekend, first claiming an 18-12 victory against No. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/14/mens-waterpolo-bounces-back-from-previous-loss-to-win-both-games-this-weekend/>
-
----
-
-## UCLA women’s soccer extends winning streak with victory against Illinois
-
-date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 16 at 12:57 a.m.</em>
-The “Sunday scaries” of a pair of away matches can prove difficult for teams.
-But after a season filled with away matches like that of this past weekend, the Bruins were prepared to round out their last road trip of the season. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/14/ucla-womens-soccer-leaves-away-double-header-with-six-points-after-illinois-win/>
-
----
-
 ## Bruinbard takes a stab at understanding political violence in “Julius Caesar”
 
 date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
@@ -576,20 +466,6 @@ Bruinbard&#8217;s &#8220;Julius Caesar&#8221; is set to debut with two shows Nov
 <br> 
 
 <https://dailybruin.com/2024/10/14/bruinbard-takes-a-stab-at-understanding-political-violence-in-julius-caesar/>
-
----
-
-## UCLA women’s volleyball succumbs to crosstown rival USC in five-set match
-
-date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 16 at 12:46 a.m.</em>
-The crosstown rivals teetered for control like a seesaw.
-Just as one end begins to rise, the other one lowers – ultimately, the ends seem to switch sides. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/14/ucla-womens-volleyball-succumbs-to-crosstown-rival-usc-in-five-set-match/>
 
 ---
 
@@ -658,19 +534,6 @@ The vigil, hosted by the Lebanese Student Association, comes after Israel invade
 <br> 
 
 <https://dailybruin.com/2024/10/13/lebanese-student-association-hosts-vigil-honoring-those-affected-by-recent-attacks/>
-
----
-
-## Five Things: UCLA vs. Minnesota
-
-date: 2024-10-14, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Oct. 13 at 10:11 p.m.</em>
-UCLA football (1-5, 0-4 Big Ten) was downed 21-17 by Minnesota (4-3, 2-2) on Saturday at the Rose Bowl. 
-
-<br> 
-
-<https://dailybruin.com/2024/10/13/five-things-ucla-vs-minnesota/>
 
 ---
 

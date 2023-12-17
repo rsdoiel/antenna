@@ -1,10 +1,15 @@
 ---
 title: pacific 2023.50
+<<<<<<< HEAD:archives/2023/pacific_2023.50.md
 updated: 2023-12-17 11:13:29
+=======
+updated: 2023-12-17 09:46:13
+>>>>>>> 9dc8e4022 (fix: bad merge):2023/pacific_2023.50.md
 ---
 
 # pacific 2023.50
 
+<<<<<<< HEAD:archives/2023/pacific_2023.50.md
 (date: 2023-12-17 11:13:29)
 
 ---
@@ -43,6 +48,9 @@ North Korea fired a short-range ballistic missile on Sunday, Seoul's military sa
 <span class="feed-item-link">
 <a href="https://www.postguam.com/news/national/south-korea-military-says-north-fires-ballistic-missile/article_04debafb-238f-5653-8917-88314d3fe8e9.html">https://www.postguam.com/news/national/south-korea-military-says-north-fires-ballistic-missile/article_04debafb-238f-5653-8917-88314d3fe8e9.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/south-korea-military-says-north-fires-ballistic-missile/article_04debafb-238f-5653-8917-88314d3fe8e9.html">Save to Pocket</a>
 </span>
+=======
+(date: 2023-12-17 09:46:13)
+>>>>>>> 9dc8e4022 (fix: bad merge):2023/pacific_2023.50.md
 
 ---
 
