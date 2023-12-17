@@ -4,3 +4,6 @@ http://feeds.feedburner.com/c4lj "~Cod4Lib Journal" curl/8.5.0 curl/8.5.0 (rsdoi
 https://scholarlykitchen.sspnet.org/feed/ "~Scholarly Kitchen" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://theparachute.blogspot.com/feeds/posts/default?alt=rss "~Parachute blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://blog.scielo.org/en/feed/ "~SciELO in Perspective" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.research-collection.ethz.ch/feed/rss_2.0/site "~ETH Zurich, recently added"
+#https://www.rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives", redirects as of 2023-12-06
+https://rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives"
