@@ -1,231 +1,215 @@
 ---
 title: writing 2023.49
-updated: 2023-12-08 12:41:27
+updated: 2023-12-17 10:02:31
 ---
 
 # writing 2023.49
 
-(date: 2023-12-08 12:41:27)
+(date: 2023-12-17 10:02:31)
 
 ---
 
-## Gordon  Burn  Prize Longlist
+## Issue 755-6 Table of Contents, Dec 2023/Jan 2024
 
-date: 2023-12-08, from: Locus Magazine
+date: 2023-12-15, from: Locus Magazine
 
-<p>The longlist has been announced for the 2023-2024 Gordon Burn Prize. The prize recognizes &#8220;fiction and non-fiction books that are fearless in their ambition and execution.&#8221; Longlisted works of genre interest include <strong>Chain-Gang All-Stars </strong>by Nana Kwame Adeji-Brenyah (Harvill Secker) and <strong>Split Tooth </strong>by Tanya Tagaq (And Other Stories).</p>
-<p>Judges include Terri White, Charlie Brinkhurst-Cuff, Andrew Hankinson, and Sheena Patel. The shortlist will be announced in January 2024, and the  <a href="https://locusmag.com/2023/12/gordon%e2%80%af-burn-%e2%80%afprize-longlist/" class="read-more">...Read More </a></p>
+<p>The December 2023/January 2024 issue of Locus magazine is a special double issue and has interviews with Robert J. Sawyer, Andrea Stewart, and Ai Jiang, and a spotlight on artist Winona Nelson. Chengdu Worldcon and the World Fantasy Convention are both covered with extensive reports and photos. The issue lists US and UK forthcoming books titles through September 2024. News includes the Ignyte and Sidewise Awards winners, Mueller&#8217;s Endeavour win,  <a href="https://locusmag.com/2023/12/issue-755-6-table-of-contents-dec-2023-jan-2024/" class="read-more">...Read More </a></p>
 
 <span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/gordon%e2%80%af-burn-%e2%80%afprize-longlist/">https://locusmag.com/2023/12/gordon%e2%80%af-burn-%e2%80%afprize-longlist/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/gordon%e2%80%af-burn-%e2%80%afprize-longlist/">Save to Pocket</a>
+<a href="https://locusmag.com/2023/12/issue-755-6-table-of-contents-dec-2023-jan-2024/">https://locusmag.com/2023/12/issue-755-6-table-of-contents-dec-2023-jan-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/issue-755-6-table-of-contents-dec-2023-jan-2024/">Save to Pocket</a>
 </span>
 
 ---
 
-## Mohamed to Be Writer-In-Residence
+## Write On: 'Silo' Showrunner Graham Yost
 
-date: 2023-12-08, from: Locus Magazine
-
-<p>Premee Mohamed has been named a 2024 Writer-In-Residence at Edmonton Public Library (EPL) in Edmonton, Canada, and will mentor local writers and facilitate community programs.</p>
-<p>Mohamed said, &#8220;I am honoured to be chosen as the EPL&#8217;s next Writer in Residence, particularly because I would never be where I am today without a lifetime of accessing Edmonton&#8217;s amazing library resources&#8230;. I am excited to support creators working in all formats and  <a href="https://locusmag.com/2023/12/mohamed-to-be-writer-in-residence/" class="read-more">...Read More </a></p>
-
-<span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/mohamed-to-be-writer-in-residence/">https://locusmag.com/2023/12/mohamed-to-be-writer-in-residence/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/mohamed-to-be-writer-in-residence/">Save to Pocket</a>
-</span>
-
----
-
-## 2023 Goodreads Choice Awards Winners
-
-date: 2023-12-08, from: Locus Magazine
-
-<p>Winners of the 2023 Goodreads Choice Awards for the &#8220;best books of 2023,&#8221; as chosen by users of the site, have been announced. There are several winners of genre interest.</p>
-<div class="mynomorebulletlist">
-<p><strong>Best Fiction</strong></p>
-<ul>
-<li><strong>Yellowface</strong>, R.F. Kuang (William Morrow)</li>
-</ul>
-<p><strong>Best Science Fiction</strong></p>
-<ul>
-<li><strong>In the Lives of Puppets</strong>, T.J. Klune (Tor)</li>
-</ul>
-<p><strong>Best Fantasy</strong></p>
-<ul>
-<li><strong>Hell Bent</strong>, Leigh Bardugo (Flatiron)</li>
-</ul>
-<p><strong>Best Young Adult Fantasy</strong></p>
-<ul>
-<li><strong>Divine Rivals</strong>, Rebecca Ross (Wednesday)</li>
-</ul>
-<p><strong>Best Romantasy</strong></p></div> <a href="https://locusmag.com/2023/12/2023-goodreads-choice-awards-winners/" class="read-more">...Read More </a>
-
-<span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/2023-goodreads-choice-awards-winners/">https://locusmag.com/2023/12/2023-goodreads-choice-awards-winners/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/2023-goodreads-choice-awards-winners/">Save to Pocket</a>
-</span>
-
----
-
-## Write On: Writer Chris Hicks Talks Massive Sale of His Short Story 'I Am Not Alone'
-
-date: 2023-12-08, from: Final Draft blog
+date: 2023-12-15, from: Final Draft blog
 
 <div class="hs-featured-image-wrapper"> 
- <a href="https://blog.finaldraft.com/write-on-writer-chris-hicks-talks-massive-sale-of-his-short-story-i-am-not-alone" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Writer%20Chris%20Hicks%20Talks%20Massive%20Sale%20of%20His%20Short%20Story%20I%20Am%20Not%20Alone-2.png" alt="Write On: Writer Chris Hicks Talks Massive Sale of His Short Story 'I Am Not Alone'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+ <a href="https://blog.finaldraft.com/write-on-silo-showrunner-graham-yost" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Silo%20Showrunner%20Graham%20Yost.png" alt="Write On: 'Silo' Showrunner Graham Yost" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
 </div> 
-<p>“My cardinal rule – the rule that you cannot break is: don't be boring. Because you can have the perfect script that follows every screenplay formatting rule, but if you're boring, it doesn't matter. First and foremost, you’ve got to hook the reader,” says screenplay and short story writer Chris Hicks.</p>
-
-<span class="feed-item-link">
-<a href="https://blog.finaldraft.com/write-on-writer-chris-hicks-talks-massive-sale-of-his-short-story-i-am-not-alone">https://blog.finaldraft.com/write-on-writer-chris-hicks-talks-massive-sale-of-his-short-story-i-am-not-alone</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/write-on-writer-chris-hicks-talks-massive-sale-of-his-short-story-i-am-not-alone">Save to Pocket</a>
-</span>
-
----
-
-## Authors Alliance Amicus Briefs: Defending Free Expression from Trademark, Social Media, and Copyright Law Challenges
-
-date: 2023-12-08, from: Author's Union blog
-
-The cases that threaten authors’ rights aren’t always obvious. You might have noticed in the last year that we’ve filed amicus briefs in some unusual ones—for example, a trademark lawsuit about squishy dog toys, or a case about YouTube recommendation algorithms. It’s often true that cases like these raise legal questions that extend well beyond [&#8230;]
-
-<span class="feed-item-link">
-<a href="https://www.authorsalliance.org/2023/12/08/authors-alliance-amicus-briefs-defending-free-expression-from-trademark-social-media-and-copyright-law-challenges/">https://www.authorsalliance.org/2023/12/08/authors-alliance-amicus-briefs-defending-free-expression-from-trademark-social-media-and-copyright-law-challenges/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.authorsalliance.org/2023/12/08/authors-alliance-amicus-briefs-defending-free-expression-from-trademark-social-media-and-copyright-law-challenges/">Save to Pocket</a>
-</span>
-
----
-
-## Jake Casella Brookins Reviews The Museum of Human History by Rebekah Bergman
-
-date: 2023-12-08, from: Locus Magazine
-
-<p><strong>The Museum of Human History</strong>, Rebekah Berg­man (Tin House 978-1-95353-491-0, $17.95, 256pp, tp) August 2023. Cover by Beth Steidle &#38; Yang Cao.</p>
-<p>Told in chapters that jump between disparate characters and across years, Rebekah Bergman’s <strong>The Museum of Human History </strong>is very loosely centered on twin sisters, Evangeline and Maeve Wilhelm. Following an initially unexplained accident, Maeve falls into an uninterrupted and ageless sleep. As the narrative loops around  <a href="https://locusmag.com/2023/12/jake-casella-brookins-reviews-the-museum-of-human-history-by-rebekah-bergman/" class="read-more">...Read More </a></p>
-
-<span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/jake-casella-brookins-reviews-the-museum-of-human-history-by-rebekah-bergman/">https://locusmag.com/2023/12/jake-casella-brookins-reviews-the-museum-of-human-history-by-rebekah-bergman/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/jake-casella-brookins-reviews-the-museum-of-human-history-by-rebekah-bergman/">Save to Pocket</a>
-</span>
-
----
-
-## Liz Bourke Reviews A Sword of Bronze and Ashes by Anna Smith Spark
-
-date: 2023-12-07, from: Locus Magazine
-
-<p><strong>A Sword of Bronze and Ashes</strong>, Anna Smith Spark (Flame Tree Press 978-1-78758-839-4, $16.95, 336pp, tp) September 2023.</p>
-<p>I haven’t read Anna Smith Spark’s work before, though I understand her debut, <strong>The Court of Broken Knives </strong>(2018), received some critical attention. Her latest, <strong>A Sword of Bronze and Ashes</strong>, is a peculiar, ambitious novel. It delib­erately sets out, with its use of language, its use of repetition and  <a href="https://locusmag.com/2023/12/liz-bourke-reviews-a-sword-of-bronze-and-ashes-by-anna-smith-spark/" class="read-more">...Read More </a></p>
-
-<span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/liz-bourke-reviews-a-sword-of-bronze-and-ashes-by-anna-smith-spark/">https://locusmag.com/2023/12/liz-bourke-reviews-a-sword-of-bronze-and-ashes-by-anna-smith-spark/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/liz-bourke-reviews-a-sword-of-bronze-and-ashes-by-anna-smith-spark/">Save to Pocket</a>
-</span>
-
----
-
-## A Ramble on How Short Stories Have Shaped my Chaotic Writing Career by Ai Jiang
-
-date: 2023-12-07, from: Locus Magazine
-
-<p></p>
-<p>I suppose, before diving in, to put it in short, short fiction has opened a tremendous num­ber of doors for me personally as a writer – craft-wise, career-wise, opportunity-wise. I don’t think the trajectory of my writing journey so far would have been as wildly fortunate and luck-filled – at least to me – without short stories.</p>
-<p>In the summer of 2019, I met a man in a coffee shop  <a href="https://locusmag.com/2023/12/a-ramble-on-how-short-stories-have-shaped-my-chaotic-writing-career-by-ai-jiang/" class="read-more">...Read More </a></p>
-
-<span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/a-ramble-on-how-short-stories-have-shaped-my-chaotic-writing-career-by-ai-jiang/">https://locusmag.com/2023/12/a-ramble-on-how-short-stories-have-shaped-my-chaotic-writing-career-by-ai-jiang/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/a-ramble-on-how-short-stories-have-shaped-my-chaotic-writing-career-by-ai-jiang/">Save to Pocket</a>
-</span>
-
----
-
-## Write On: 'Poor Things' Writer Tony McNamara
-
-date: 2023-12-06, from: Final Draft blog
-
-<div class="hs-featured-image-wrapper"> 
- <a href="https://blog.finaldraft.com/write-on-poor-things-writer-tony-mcnamara" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Poor%20Things%20Writer%20Tony%20McNamara.png" alt="Write On: 'Poor Things' Writer Tony McNamara" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+<p>“It really comes down to scene work. Do these characters pop? Is this fun to read? Is it fun to imagine what’s going to happen next? When you get to the end of that pilot do you want to find out what’s going to happen in the next episode? It’s all of that,” says Graham Yost, showrunner for <em>Silo </em>on AppleTV+.</p> 
+<p>You may not know the name Graham Yost, but you certainly know his TV shows: <em>Justified, The Americans, Slow Horses, Sneaky Pete, From the Earth to the Moon, </em>and<em> Band of Brothers</em> just to name a few – he also wrote the blockbuster film <em>Speed</em> in 1994.</p> 
+<p>On today’s episode, I chat with Graham about his show <em>Silo</em> on AppleTV+ which is a startling apocalyptic thriller that’s been renewed for a second season. It stars Rebecca Ferguson, David Oyelowo, Common and Tim Robbins. We talk about the lessons he learned making <em>Speed</em>, which show impacted his writing the most and if a new season of <em>Justified</em> – that includes Boyd Crowder (Walton Goggins), will be coming back to television.</p> 
+<p>Graham also shares his advice for emerging writers. “The big thing I say to writers who are starting out is, ‘What are you working on next?’ If they only have that one project, well, you need more. You need to find out what you’re good at. That’s the job. We’re paid to write,” he says. <span>&nbsp;</span></p> 
+<div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0px; min-width: 256px; display: block; margin: auto;"> 
+ <div class="hs-embed-content-wrapper"> 
+  <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 30%; margin: 0px;">  
+  </div> 
+ </div> 
 </div>
 
 <span class="feed-item-link">
-<a href="https://blog.finaldraft.com/write-on-poor-things-writer-tony-mcnamara">https://blog.finaldraft.com/write-on-poor-things-writer-tony-mcnamara</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/write-on-poor-things-writer-tony-mcnamara">Save to Pocket</a>
+<a href="https://blog.finaldraft.com/write-on-silo-showrunner-graham-yost">https://blog.finaldraft.com/write-on-silo-showrunner-graham-yost</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/write-on-silo-showrunner-graham-yost">Save to Pocket</a>
 </span>
 
 ---
 
-## Around the Web: Best of Year Lists; Eating the Fantastic
+## David Drake (1945-2023)
 
-date: 2023-12-06, from: Locus Magazine
+date: 2023-12-15, from: Locus Magazine
 
-<p align="center"></p>
-<p>» <strong>The Guardian, Adam Roberts</strong>: Five of the best science fiction and fantasy books of 2023 are by Allan, Ryman, Tesh, MacInnes, and Tidhar</p>
-<p>» <strong>NY Times, Amal El-Mohtar</strong>: The Best Science Fiction and Fantasy of 2023 are by Chandrasekera, Törzs, Carey, Hardinge, Fawcett, Lee, Harkaway, Link, Wells, and Taub</p>
-<p>» <strong>NY Times, Gabino Iglesias</strong>: The Best Horror Books of 2023 are by Moreno-Garcia, LaValle, Ampuero, Khaw,  <a href="https://locusmag.com/2023/12/around-the-web-best-of-year-lists-eating-the-fantastic/" class="read-more">...Read More </a></p>
+<p>Author David Drake, 78, died December 10, 2023 in Silk Hope NC. Drake was the author of more than 80 works of SF and fantasy, best known for the Hammer&#8217;s Slammer&#8217;s series and other works of military SF.</p>
+<p>David Allen Drake was born September 24, 1945 in Dubuque IA. He attended law school at Duke, but his studies were interrupted when he was drafted into the US Army, serving in  <a href="https://locusmag.com/2023/12/david-drake-1945-2023/" class="read-more">...Read More </a></p>
 
 <span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/around-the-web-best-of-year-lists-eating-the-fantastic/">https://locusmag.com/2023/12/around-the-web-best-of-year-lists-eating-the-fantastic/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/around-the-web-best-of-year-lists-eating-the-fantastic/">Save to Pocket</a>
+<a href="https://locusmag.com/2023/12/david-drake-1945-2023/">https://locusmag.com/2023/12/david-drake-1945-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/david-drake-1945-2023/">Save to Pocket</a>
 </span>
 
 ---
 
-## 2023 Hugo Award Voting Statistics
+## People & Publishing Roundup, December and January 2023
 
-date: 2023-12-06, from: Locus Magazine
+date: 2023-12-15, from: Locus Magazine
 
-<p style="text-align: left;">Here are the 2023 Hugo Award voting statistics from the Chengdu Worldcon! The committee has 90 days to provide the voting and nomination stats, and have said the nomination numbers will follow later within that time frame.</p>
-<p style="text-align: left;">We had hoped to get the write up of how the voting played out into the current issue of Locus (Dec/Jan issue) but they came in too late to make the deadline. We  <a href="https://locusmag.com/2023/12/2023-hugo-award-voting-statistics/" class="read-more">...Read More </a></p>
+<div class="catheader">
+<p><strong>MILESTONES</strong></p>
+</div>
+
+<p><strong>JESMYN WARD</strong>’s <strong>Let Us De­scend </strong>(Scribner) has been chosen by Oprah Winfrey as the next title for her Book Club. Winfrey said, “I have read all of Jesmyn Ward’s books and have been a fan of her writing for years. <strong>Let Us Descend </strong>is a vital work for our culture and I’m so excited to have her newest offering as part of our Book Club.”</p>
+<p>&#160;</p>
+<div class="catheader"><strong>AWARDS</strong></div>
+
+<p><strong>NNEDI </strong> <a href="https://locusmag.com/2023/12/people-publishing-roundup-december-and-january-2023/" class="read-more">...Read More </a></p>
 
 <span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/2023-hugo-award-voting-statistics/">https://locusmag.com/2023/12/2023-hugo-award-voting-statistics/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/2023-hugo-award-voting-statistics/">Save to Pocket</a>
+<a href="https://locusmag.com/2023/12/people-publishing-roundup-december-and-january-2023/">https://locusmag.com/2023/12/people-publishing-roundup-december-and-january-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/people-publishing-roundup-december-and-january-2023/">Save to Pocket</a>
 </span>
 
 ---
 
-## Charles Payseur Reviews Short Fiction: Flash Fiction Online, Diabolical Plots, and Lightspeed
+## Jake Casella Brookins Reviews OKPsyche by Anya Johanna DeNiro
 
-date: 2023-12-06, from: Locus Magazine
+date: 2023-12-15, from: Locus Magazine
 
-<p>Flash Fiction Online 7/23
-Diabolical Plots 7/23
-Lightspeed 9/23</p>
-<p>September’s Flash Fiction Online features an inter­esting take on obsession and artificial intelligence with <strong>Sylvia Heike</strong>’s “<strong>Quantum Love</strong>”, where a sentient computer called Queenie finds themself in love with their primary handler, Natalie, who is increasingly stressed and distant because her marriage is falling apart. Queenie has a solution, though, and the subtlety to pull it off –  <a href="https://locusmag.com/2023/12/charles-payseur-reviews-short-fiction-flash-fiction-online-diabolical-plots-and-lightspeed/" class="read-more">...Read More </a></p>
+<p><strong>OKPsyche</strong>, Anya Johanna DeNiro (Small Beer 978-1-61873-208-8, $15.00. 160pp, tp) September 2023. Cover by Karl Joseph Aloys Agricola.</p>
+<p>I was completely unprepared for how powerful Anya Johanna DeNiro’s <strong>OKPsyche </strong>is. Told in second person by a carefully unnamed narrator, the novel blends fantasy, science fic­tion, and absurdism; it’s also a very grounded and personal work. The narrator, a trans woman trying to reconnect with her young son, trying to  <a href="https://locusmag.com/2023/12/jake-casella-brookins-reviews-okpsyche-by-anya-johanna-deniro/" class="read-more">...Read More </a></p>
 
 <span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/charles-payseur-reviews-short-fiction-flash-fiction-online-diabolical-plots-and-lightspeed/">https://locusmag.com/2023/12/charles-payseur-reviews-short-fiction-flash-fiction-online-diabolical-plots-and-lightspeed/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/charles-payseur-reviews-short-fiction-flash-fiction-online-diabolical-plots-and-lightspeed/">Save to Pocket</a>
+<a href="https://locusmag.com/2023/12/jake-casella-brookins-reviews-okpsyche-by-anya-johanna-deniro/">https://locusmag.com/2023/12/jake-casella-brookins-reviews-okpsyche-by-anya-johanna-deniro/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/jake-casella-brookins-reviews-okpsyche-by-anya-johanna-deniro/">Save to Pocket</a>
 </span>
 
 ---
 
-## Write Now with Scrivener, Episode no. 33: Carl Zimmer, Science Writer
+## Writing Short Stories in the Margins by A.T. Greenblatt
 
-date: 2023-12-06, from: Literature & a Latte blog
+date: 2023-12-14, from: Locus Magazine
+
+<p></p>
+<p>I have always loved short stories. I don’t remember a time when I ‘‘discovered’’ them. For me, there was nothing to find. They were always there; in school textbooks, homework assignments, in the anthologies I would randomly pick off the shelf at the library. There was never any question either of what I would start writ­ing when I decided to learn story craft. In those early days, reaching the end  <a href="https://locusmag.com/2023/12/writing-short-stories-in-the-margins-by-a-t-greenblatt/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/writing-short-stories-in-the-margins-by-a-t-greenblatt/">https://locusmag.com/2023/12/writing-short-stories-in-the-margins-by-a-t-greenblatt/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/writing-short-stories-in-the-margins-by-a-t-greenblatt/">Save to Pocket</a>
+</span>
+
+---
+
+## Gabino Iglesias Reviews Whalefall by Daniel Kraus
+
+date: 2023-12-14, from: Locus Magazine
+
+<p><strong>Whalefall, </strong>Daniel Kraus (MTV Books 978-1-66591-816-9, $27.99, 336pp, hc) August 2023. Cover by Will Staehle.</p>
+<p>Daniel Kraus’s <strong>Whalefall </strong>straddles the line between science and science fiction and pulls readers into a world that is at once familiar and completely alien. As full of action and gore as it is packed with science and emotional turmoil, <strong>Whalefall </strong>is a superb reimagining of Jo­nah’s tale as well as a narrative that cements  <a href="https://locusmag.com/2023/12/gabino-iglesias-reviews-whalefall-by-daniel-kraus/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/gabino-iglesias-reviews-whalefall-by-daniel-kraus/">https://locusmag.com/2023/12/gabino-iglesias-reviews-whalefall-by-daniel-kraus/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/gabino-iglesias-reviews-whalefall-by-daniel-kraus/">Save to Pocket</a>
+</span>
+
+---
+
+## How ‘Godzilla Minus One’ Creates a Fresh Take on a Familiar Story
+
+date: 2023-12-13, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-godzilla-minus-one-creates-a-fresh-take-on-a-familiar-story" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/%E2%80%98Godzilla%20Minus%20One%E2%80%99_%20Creating%20a%20Fresh%20Take%20on%20a%20Familiar%20Story_featured.jpg" alt="‘Godzilla Minus One’: Creating a Fresh Take on a Familiar Story" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>As Godzilla turns 70 years old, the classic monster of mayhem is getting a series of films and TV shows dedicated to its destructive force.&nbsp;</span><a href="https://blog.finaldraft.com/write-on-monarch-legacy-of-monsters-showrunner-chris-black"><em><span>Monarch: Legacy of Monsters</span></em></a><span>&nbsp;premiered on Apple TV in November,&nbsp;</span><em><span>Godzilla Minus One</span></em><span>, a Japanese language film, became a surprise hit at the domestic box office, and&nbsp;</span><a href="https://www.imdb.com/title/tt14539740/"><em><span>Godzilla x Kong</span></em></a><span>&nbsp;is expected to hit theaters in the spring.</span></p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/how-godzilla-minus-one-creates-a-fresh-take-on-a-familiar-story">https://blog.finaldraft.com/how-godzilla-minus-one-creates-a-fresh-take-on-a-familiar-story</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/how-godzilla-minus-one-creates-a-fresh-take-on-a-familiar-story">Save to Pocket</a>
+</span>
+
+---
+
+## Paxson and Son Assaulted
+
+date: 2023-12-13, from: Locus Magazine
+
+<p>Author Diana L. Paxson, 80, and her son Ian Grey were attacked at home in Berkeley CA on December 8, 2023, sustaining minor injuries. Diana and her son were hospitalized following the assault, but were released on Sunday and are now recovering.</p>
+<p>The assailant was arrested on December 12 by the Oakland Police Department and is being held without bail.</p>
+<p>On Facebook, Paxson said the attacker was a member of  <a href="https://locusmag.com/2023/12/paxson-and-son-assaulted/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/paxson-and-son-assaulted/">https://locusmag.com/2023/12/paxson-and-son-assaulted/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/paxson-and-son-assaulted/">Save to Pocket</a>
+</span>
+
+---
+
+## Alex Brown Reviews The Reformatory by Tananarive Due
+
+date: 2023-12-13, from: Locus Magazine
+
+<p><strong>The Reformatory</strong>, Tananarive Due (Saga Press 978-1-98218-834-4, $29.99. 576pp, hc) October 2023.</p>
+<p>The great Tananarive Due is back with her first solo, full-length novel since 2011 with <strong>The Reformatory</strong>. Set in the fictional city of Gracetown FL, where many of her stories take place, this one focuses on two Black children caught in the grinding gears of Jim Crow. Robert and his older sister, Gloria, were left behind  <a href="https://locusmag.com/2023/12/alex-brown-reviews-the-reformatory-by-tananarive-due/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/alex-brown-reviews-the-reformatory-by-tananarive-due/">https://locusmag.com/2023/12/alex-brown-reviews-the-reformatory-by-tananarive-due/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/alex-brown-reviews-the-reformatory-by-tananarive-due/">Save to Pocket</a>
+</span>
+
+---
+
+## How to Find Experts to Help You Fact-Check Your Novel
+
+date: 2023-12-13, from: Literature & a Latte blog
 
 
     
         
             
-                <iframe frameborder="0" height="200" scrolling="no" src="https://player.fireside.fm/v2/FGsx06Yz+jz2ixeEV?theme=light" width="740"></iframe>
+                <p>In a previous article, we looked at <a href="https://www.literatureandlatte.com/blog/how-to-find-beta-readers" target="_blank">how you can find and work with beta readers</a>; people who read your manuscript and give you comments on the plot, characterization, dialog, and more. Writing is a lonely task, and it&rsquo;s important to find people you can trust to share their opinions on your work. For the most part, these beta readers can give you general feedback about a novel. But they can&rsquo;t help you with more specific elements that require specialist knowledge.</p>
 
-<p><strong>Show notes</strong>:</p>
-
-
-	<a href="https://carlzimmer.com/" target="_blank">Carl Zimmer</a>
-	<a href="https://www.nytimes.com/by/carl-zimmer" target="_blank">Carl Zimmer&#39;s Origins column for the New York Times</a>
-	<a href="https://carlzimmer.com/to-beginning-writers/" target="_blank">To Beginning Writers</a>
-	<a href="https://carlzimmer.com/books/lifes-edge/" target="_blank">Life&rsquo;s Edge: The Search For What It Means To Be Alive</a>
-	<a href="https://www.sonnysoftware.com/bookends-for-mac" target="_blank">Bookends</a>
-	<a href="https://www.simonandschuster.com/books/The-Making-of-the-Atomic-Bomb/Richard-Rhodes/9781451677614" target="_blank">Richard Rhodes: The Making of the Atomic Bomb</a>
+<p>When you&rsquo;re writing about a specific profession or time period, you get everything right. If you make mistakes, it&rsquo;s likely that many if not most readers won&rsquo;t notice it, but you&rsquo;ll certainly hear from those who are familiar with a certain subject or profession who will gleefully correct you.</p>
+            
+        
+    
 
 
-<p>Learn more about <a href="https://www.literatureandlatte.com/scrivener/overview" target="_blank">Scrivener</a>, and check out the ebook <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>.</p>
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/expertsjpg.jpg" alt=""  />
+                    
+                                    </figure>
+            
+        
+    
 
-<p>If you like the podcast, please <a href="https://podcasts.apple.com/us/podcast/write-now-with-scrivener/id1568550068" target="_blank">follow it in Apple Podcasts</a> or your favorite podcast app. Leave a rating or review, and tell your friends. And check out past episodes of <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
 
+    
+        
+            
+                <p>Many writers of crime fiction befriend police officers and use them as sounding boards to ensure that the descriptions of police activities in their books are correct. If you write science fiction, you may want to find beta readers who can critique the use and description of science in your novel, real or imagined. And if you write a historical novel, it can be helpful to get a real historian, who is familiar with your setting, to give your manuscript a once over.</p>
 
-<p>What is life? That was the question that Carl Zimmer set out to answer in his most recent book, <a href="https://carlzimmer.com/books/lifes-edge/" target="_blank">Life&rsquo;s Edge: The Search For What It Means To Be Alive</a>. Most dictionary definitions of the word &quot;alive&quot; define it as in opposition to being dead. For example, &quot;(of a person, animal, or plant) living, not dead.&quot; This doesn&#39;t answer the question about the edge cases, such as viruses, which &quot;have long been a real puzzle for biologists about whether they&#39;re alive or not. They have incredible screaming matches about whether these things are alive or not. And they have been doing so for a century, since they discovered viruses.&quot;</p>
+<p>There are many books written for writers describing police procedures, forensics, and legal processes, and there are books about certain historical periods for writers. But let&rsquo;s say you&rsquo;re writing a novel where air traffic controllers are important to the story. It may not be easy to find the kind of documentation that you need that explains how they work. Or what if you&rsquo;re writing a romance novel set on a cruise ship? You may have taken cruises, and you may know enough about how it feels to be a guest on one of those ships, but it can be useful to know what goes on behind the scenes, because this could help you create interesting plot points, or introduce characters from the crew.</p>
 
-<p>Scientists have attempted to define life, though they don&#39;t all agree. &quot;There are definitions of life, that actually have been published by scientists and scientific journals. I say definitions, there are several hundred definitions. And the number doesn&#39;t seem to be going down.&quot;</p>
+<p>You should check everything that you can on your own, using reference books and online tools, on your novel during the final editing stage. Start by going through your manuscript or draft and highlighting the elements that need to be checked. You may need to check things like place names or the descriptions of specific places, and these can all be found using tools like Google Maps. To ensure that you&rsquo;ve described real places correctly, you can use Google Street View, which lets you see exactly what many locations look like, allowing you to provide detailed descriptions without taking trips to do research.</p>
 
-<p>It seems obvious to most people what is alive or dead, but Carl looked into this from a scientific perspective. &quot;How do you know whether something&#39;s alive or not? Are you relying on actual scientific observation? Or is it more of an intuition? I would argue that we mostly are just relying on intuition, whether things are alive or not, whether people are alive or not. And sometimes, there are things that can completely overturn our intuitions, things that are in a borderland between life and death, between life and nonlife. The more that you explore that gray zone, you start to realize that we really don&#39;t understand life at all.&quot;</p>
+<p>For other types of fact-checking, there are many resources available online. You can look up specific topics in academic journals and authoritative websites related to specific subjects, and Wikipedia is quite good as well. (But don&rsquo;t blindly trust what you read there; follow the sources cited, and make sure they are reliable.)</p>
 
-<p>The question of defining life isn&#39;t that old; scientists and philosophers only started exploring it in the 18th century. &quot;What was happening was that you had a scientific revolution that had changed how we think about inanimate objects. Because we have physics, we can think about matter in motion. This raised important questions about our own bodies. What about ourselves? What about animals and plants? It seemed like there was something that was fundamentally different between a rock and a flower, and that something was life. But again, that doesn&#39;t really tell you what life is. So in the 1700s, there were a lot of ideas put forward about how life was all about some sort of vital force. There were forces in the universe of gravity and so on, but there was some other force, a vital force, and that vital force was inside living things. And that allowed living things to do things that other objects could not, to grow, to become complex, to reproduce, to make new copies of themselves that are almost identical. All these things were made possible by this vital force. And again, nobody could actually say what the vital force was. But this whole view became known as vitalism.&quot;</p>
+<p>Depending on the subject you&rsquo;re dealing with, it may be enough to do some online research, as long as you don&rsquo;t go into too much detail. When you have more than you can find, you can try reaching out to experts in the fields you discuss. You can find people like this through professional networks, social media platforms, or online forums, and you may even find some in writing communities such as Goodreads; there are lots of writers who have expertise from their careers and who would be willing to share. In some cases, you may only have a few questions, and these can be answered quickly.</p>
 
-<p>Carl Zimmer is not a scientist, and got into science writing by the back door. After an English major in college, he went to work at a science magazine. &quot;I just happened to get an entry-level job as an assistant copy editor at a magazine that happened to be about science. I started working on the stories, and I thought, this is really interesting, I&#39;m really enjoying this. Then I had the opportunity to grow in a position to start fact-checking, writing, editing, and so on. Discover magazine was a really great education, and I was there for 10 years in total. But you certainly just don&#39;t wake up one day and become a science writer.&quot;</p>
+<p>Where things can get more complicated are not so much the facts but the way people work, or the way specific objects work. For example, there is a very popular writer of thrillers who spends pages and pages talking about the guns used, yet who has been criticized for not understanding how specific guns work. This doesn&rsquo;t bother most readers, but people who know about guns end up distrusting this author. A bit of research, and the help of an expert, might have avoided disdain from people familiar with guns.</p>
 
-<p>As we were chatting over Zoom, I noticed a table with several dozen books piled up. Carl told me these were the remnants of the books he researched for his current project. He enters all his research into his Scrivener project. &quot;Scrivener has been essential for me. I started working seriously with Scrivener in 2016. I had written a number of books already by that point, and there were a lot of things that were painful about writing books. For example, you know, just organizing all the reference material that you need for a book, and then organizing the book itself. So I would make do largely with Microsoft Word. Word is fine for shorter things, but it was a real hassle for working on big projects like books. Once I figured out how Scrivener works, and how it would work for me; I think I&#39;m a visual person. So it really helps me to be able to see the pieces of the book and scan up and down very quickly. When I&#39;ve been working with editors, often their best guidance has been very structural, like saying this part doesn&#39;t belong here, these chapters are out of order, these chapters should be split, or these chapters should be fused, and so on. What I like with Scrivener is that you can do that just by dragging around the different parts of the book. And then you can look at&nbsp;it in terms of the sections and then just read it in that new order. Just having that ability to move the pieces around in Scrivener makes it incredibly valuable to me.&quot;</p>
+<p>Fact-checking can take a certain amount of time, even for experts. When you contact someone, explain the premise of your novel and the specific information you need to verify. Provide a brief summary of your story and explain what you would like them to review. In many cases, you may just want a few facts to be checked, but some novels may require more attention, and this may be difficult for busy professionals. But some experts might be avid readers, and relish the idea of helping out an author.</p>
+
+<p>When you&rsquo;ve found someone willing to help you, send them excerpts or sections from your novel that you want vetted. Highlight specific statements, events, or details that you want them to review, so they can focus on the areas that need attention. In some cases, it won&rsquo;t take long for an expert to look over a few dozen sentences and confirm whether you got things right or not. But sometimes, checking the behavior of people as they do a specific type of work, throughout a novel, requires a more thorough read.</p>
+
+<p>It&rsquo;s important to provide a reasonable timeframe to review your queries. Remember that these professionals are often busy and may not be able to read a manuscript as quickly as you need, so it&rsquo;s important to agree to a schedule. One suggestion is to find experts in the field you need fact-checked who are retired, and who may have more time.</p>
+
+<p>There&rsquo;s lots to do when finishing up a novel, and fact-checking may not be high on your task list. But it&rsquo;s an important element of the final editing process, and getting facts wrong can annoy the readers who spot mistakes.</p>
             
         
     
@@ -242,144 +226,189 @@ date: 2023-12-06, from: Literature & a Latte blog
 
 
 <span class="feed-item-link">
-<a href="https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-33-carl-zimmer-science-writer">https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-33-carl-zimmer-science-writer</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-33-carl-zimmer-science-writer">Save to Pocket</a>
+<a href="https://www.literatureandlatte.com/blog/how-to-find-experts-to-help-you-fact-check-your-novel">https://www.literatureandlatte.com/blog/how-to-find-experts-to-help-you-fact-check-your-novel</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.literatureandlatte.com/blog/how-to-find-experts-to-help-you-fact-check-your-novel">Save to Pocket</a>
 </span>
 
 ---
 
-## 5 Reasons Writers Should Take an Acting Class
+## Write On: 'Napoleon' Writer David Scarpa
 
-date: 2023-12-05, from: Final Draft blog
+date: 2023-12-12, from: Final Draft blog
 
 <div class="hs-featured-image-wrapper"> 
- <a href="https://blog.finaldraft.com/5-reasons-writers-should-take-an-acting-class" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/5%20Reasons%20Writers%20Should%20Take%20an%20Acting%20Class.jpg" alt="5 Reasons Writers Should Take an Acting Class" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+ <a href="https://blog.finaldraft.com/write-on-napoleon-writer-david-scarpa" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Napoleon%20Writer%20David%20Scarpa.png" alt="Write On: 'Napoleon' Writer David Scarpa" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
 </div> 
-<p><span>Hollywood is filled with stereotypes. Here’s one: </span><span>Writers are introverts who sweat when they’re nervous and hide behind the safety of their laptops and the precious characters they create. Actors, meanwhile, are extroverts who never sweat unless it’s called for in the script, love being in front of people, and are happy to vomit up all of their ugliest flaws for our close inspection.</span></p>
+<p>“We can’t make <em>Lawrence of Arabia</em> anymore – not that that’s not a good movie, but it’s kind of a thing of the past,” says screenwriter David Scarpa about writing the script for <em>Napoleon</em>.</p>
 
 <span class="feed-item-link">
-<a href="https://blog.finaldraft.com/5-reasons-writers-should-take-an-acting-class">https://blog.finaldraft.com/5-reasons-writers-should-take-an-acting-class</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/5-reasons-writers-should-take-an-acting-class">Save to Pocket</a>
+<a href="https://blog.finaldraft.com/write-on-napoleon-writer-david-scarpa">https://blog.finaldraft.com/write-on-napoleon-writer-david-scarpa</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/write-on-napoleon-writer-david-scarpa">Save to Pocket</a>
 </span>
 
 ---
 
-## Authors Alliance Releases New Legal Guide to Writing About Real People
+## New Books 12 December 2023
 
-date: 2023-12-05, from: Author's Union blog
+date: 2023-12-12, from: Locus Magazine
 
-We are delighted to announce the publication of our brand new guide, the Authors Alliance Guide to Writing About Real People, a legal guide for authors writing nonfiction works about real people. The guide was written by students in two clinical teams at the UC Berkeley Samuelson Law and Public Policy Clinic—Lily Baggott, Jameson Davis, [&#8230;]
+<p>Cadigan, Pat: <b>Ultraman</b>
+(Titan Books UK 9781803362458, $16.95, 288pp, formats: trade paperback, ebook, 12/12/2023)</p>
+<p>Tie-in novel based on a movie based on the series. Pursuing a fugitive space monster, a Being of Light enters Earth’s atmosphere. Accidentally colliding with a patrolling jet, piloted by Science Patrol Agent Shin Hayata, the Being merges with the pilot to save his life and vows to defend the Earth. Now whenever the planet is  <a href="https://locusmag.com/2023/12/new-books-12-december-2023/" class="read-more">...Read More </a></p>
 
 <span class="feed-item-link">
-<a href="https://www.authorsalliance.org/2023/12/05/authors-alliance-releases-new-legal-guide-to-writing-about-real-people/">https://www.authorsalliance.org/2023/12/05/authors-alliance-releases-new-legal-guide-to-writing-about-real-people/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.authorsalliance.org/2023/12/05/authors-alliance-releases-new-legal-guide-to-writing-about-real-people/">Save to Pocket</a>
+<a href="https://locusmag.com/2023/12/new-books-12-december-2023/">https://locusmag.com/2023/12/new-books-12-december-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/new-books-12-december-2023/">Save to Pocket</a>
 </span>
 
 ---
 
-## New Books 5 December 2023
+## Spotlight on: khōréō
 
-date: 2023-12-05, from: Locus Magazine
+date: 2023-12-12, from: Locus Magazine
 
-<p>Anderson, Justin Lee: <b>The Bitter Crown</b>
-(Orbit US 9780316454308, $19.99, 560pp, formats: trade paperback, ebook, audio, 12/05/2023)</p>
-<p>Fantasy novel, the second in the Eidyn Saga series. The fog of war is lifted and the conspiracy at the heart of Eidyn finally exposed. Now that they know the truth, Aranok and his allies must find a way to free a country that doesn’t know it’s held captive.</p>
-<p>&#160;</p>
-<p>Armstrong, Jess: <b>The </b> <a href="https://locusmag.com/2023/12/new-books-5-december-2023/" class="read-more">...Read More </a></p>
+<p></p>
+<p><strong>Tell us about your magazine, khōréō. When was it founded, and who’s on the publishing team? What is your mission?</strong></p>
+<p>In 2020, khōréō was founded with a specific-yet-broad mission: publishing speculative fiction by immigrant and diaspora writers. Our team currently relies on volunteers, with the idea that many hands make light work; on the editorial side, we have Aleksandra Hill as the founder, outgoing editor-in-chief, and publisher; Zhui Ning Chang  <a href="https://locusmag.com/2023/12/spotlight-on-khoreo/" class="read-more">...Read More </a></p>
 
 <span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/new-books-5-december-2023/">https://locusmag.com/2023/12/new-books-5-december-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/new-books-5-december-2023/">Save to Pocket</a>
+<a href="https://locusmag.com/2023/12/spotlight-on-khoreo/">https://locusmag.com/2023/12/spotlight-on-khoreo/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/spotlight-on-khoreo/">Save to Pocket</a>
 </span>
 
 ---
 
-## Gary K. Wolfe Reviews Monstrous Alterations by Christopher Barzak
+## Charles Payseur Reviews Short Fiction: Zooscape, Cast of Wonders, and Worlds of Possibility
 
-date: 2023-12-05, from: Locus Magazine
+date: 2023-12-12, from: Locus Magazine
 
-<p><strong>Monstrous Alterations</strong>, Christopher Barzak (Lethe 978-1-59021-761-0, $20.00, 206pp, tp) September 2023.</p>
-<p>Fiction which deliberately sets itself in dialogue with specific works of earlier fiction is an ancient tradition, but it often seems like catnip for SFF writers. Just in the last few years we’ve seen Nghi Vo on F. Scott Fitzgerald, Elizabeth Hand on Shirley Jackson, Kij Johnson on Kenneth Gra­hame and H.P. Lovecraft, John Kessel on Austen and  <a href="https://locusmag.com/2023/12/gary-k-wolfe-reviews-monstrous-alterations-by-christopher-barzak/" class="read-more">...Read More </a></p>
+<p>Zooscape 8/23
+Cast of Wonders 8/29/23, 9/3/23
+Worlds of Possibility 8/23</p>
+<p>I’ll kick things off with the August issue of Zooscape, which focuses on furry specula­tive fiction. So it makes sense that the issue lingers on the deep wounds that exist within and between animals, including humans. From extinctions and apocalypses to quieter hurts and the kindnesses that heal them, Zooscape once more shows the versatility of furry speculative fiction,  <a href="https://locusmag.com/2023/12/charles-payseur-reviews-short-fiction-zooscape-cast-of-wonders-and-worlds-of-possibility/" class="read-more">...Read More </a></p>
 
 <span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/gary-k-wolfe-reviews-monstrous-alterations-by-christopher-barzak/">https://locusmag.com/2023/12/gary-k-wolfe-reviews-monstrous-alterations-by-christopher-barzak/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/gary-k-wolfe-reviews-monstrous-alterations-by-christopher-barzak/">Save to Pocket</a>
+<a href="https://locusmag.com/2023/12/charles-payseur-reviews-short-fiction-zooscape-cast-of-wonders-and-worlds-of-possibility/">https://locusmag.com/2023/12/charles-payseur-reviews-short-fiction-zooscape-cast-of-wonders-and-worlds-of-possibility/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/charles-payseur-reviews-short-fiction-zooscape-cast-of-wonders-and-worlds-of-possibility/">Save to Pocket</a>
 </span>
 
 ---
 
-## Spotlight on: Tobi Ogundiran, Author
+## Cait Corrain Controversy
 
-date: 2023-12-05, from: Locus Magazine
+date: 2023-12-12, from: Locus Magazine
 
-<p><strong></strong></p>
-<p>TOBI OGUNDIRAN is the author of Jackal, Jackal, a collection of dark and fantastic tales. Ogundiran has been nominated for BSFA, Shirley Jack­son, Ignyte, and Nommo awards. His work has appeared in The Book of Witches and Africa Risen, and in several Year&#8217;s Best anthologies. His debut novella, In the Shadow of the Fall, is out from Tordotcom in 2024. Born and raised in Nigeria, he spent seven years in  <a href="https://locusmag.com/2023/12/interview-with-tobi-ogundiran/" class="read-more">...Read More </a></p>
+<p>This story was updated 12/13/23.</p>
+<p>Author Cait Corrain&#8217;s 2024 debut novel <strong>Crown of Starlight </strong>was removed from Del Rey&#8217;s schedule today after Corrain was accused of creating numerous fake Goodreads accounts for the purpose of leaving negative reviews for other authors on the popular site. Corrain&#8217;s agent, Rebecca Podos of Rees Literary Agency, has also cut ties with the writer.</p>
+<p>The &#8220;review bombing&#8221; was publicized last week by author Xiran  <a href="https://locusmag.com/2023/12/cait-corrain-controversy/" class="read-more">...Read More </a></p>
 
 <span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/interview-with-tobi-ogundiran/">https://locusmag.com/2023/12/interview-with-tobi-ogundiran/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/interview-with-tobi-ogundiran/">Save to Pocket</a>
+<a href="https://locusmag.com/2023/12/cait-corrain-controversy/">https://locusmag.com/2023/12/cait-corrain-controversy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/cait-corrain-controversy/">Save to Pocket</a>
 </span>
 
 ---
 
-## Call for Submissions for Indopantheology: Stories from the Spiritual Margins
+## Weekly Bestsellers, 11 December 2023
 
-date: 2023-12-04, from: Locus Magazine
-
-<p>OD Ekpeki Presents has announced a submissions call for <strong>Indopantheology: Stories from the Spiritual Margins</strong>, a new anthology co-edited by Oghenechovwe Donald Ekpeki, Rimi B. Chatterjee &#38; Mary Anne Mohanraj. Submissions are open until March 31, 2024.</p>
-<p>Indopantheology maps the realm of the spiritual imagination, comprising all soul-matters from the most worldly of dreams to the most numinous of visions. If that is what you wish to explore, then  <a href="https://locusmag.com/2023/12/call-for-submissions-for-indopantheology-stories-from-the-spiritual-margins/" class="read-more">...Read More </a></p>
-
-<span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/call-for-submissions-for-indopantheology-stories-from-the-spiritual-margins/">https://locusmag.com/2023/12/call-for-submissions-for-indopantheology-stories-from-the-spiritual-margins/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/call-for-submissions-for-indopantheology-stories-from-the-spiritual-margins/">Save to Pocket</a>
-</span>
-
----
-
-## Weekly Bestsellers, 4 December 2023
-
-date: 2023-12-04, from: Locus Magazine
+date: 2023-12-11, from: Locus Magazine
 
 <div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
-<p>Three of Sarah J. Maas&#8217; backlist titles, <b>Heir of Fire</b>, <b>Queen of Shadows</b>, and <b>Empire of Storms</b>, all reissued by Bloomsbury this past February both in hardcover and paperback (per Amazon), show up on Publishers Weekly&#8216;s trade paperback list this week, ranking at 20, 21, and 24 respectively; neither these editions nor any earlier ones of these titles have ranked on any of the bestsellers lists compiled </p></div> <a href="https://locusmag.com/2023/12/weekly-bestsellers-4-december-2023/" class="read-more">...Read More </a>
+<p>Rebecca Yarros&#8217; two novels continue to dominate print lists: <b>Fourth Wing</b> is #1 again at NY Times this week, while <b>Iron Flame</b> remains #1 on the USA Today and Publishers Weekly lists.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+12.17
+LAT
+12.10
+USAT 
+12.03
+PW 
+12.11
+Amz 
+(12.11)
+UK:
+Amz UK 
+(12.11)
+Canada:
+Amz.ca 
+(12.11)
+
+
+Items on list -x- number of lists surveyed
+
+10&#215;3
+10&#215;2
+150
+15&#215;3
+100
+100 <a href="https://locusmag.com/2023/12/weekly-bestsellers-11-december-2023/" class="read-more">...Read More </a>
 
 <span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/weekly-bestsellers-4-december-2023/">https://locusmag.com/2023/12/weekly-bestsellers-4-december-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/weekly-bestsellers-4-december-2023/">Save to Pocket</a>
+<a href="https://locusmag.com/2023/12/weekly-bestsellers-11-december-2023/">https://locusmag.com/2023/12/weekly-bestsellers-11-december-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/weekly-bestsellers-11-december-2023/">Save to Pocket</a>
 </span>
 
 ---
 
-## Web Series vs. Traditional TV: Writing for the Digital Age
+## 2024 Prometheus Hall of Fame Award Finalists
 
-date: 2023-12-04, from: Final Draft blog
+date: 2023-12-11, from: Locus Magazine
 
-<div class="hs-featured-image-wrapper"> 
- <a href="https://blog.finaldraft.com/web-series-vs.-traditional-tv-writing-for-the-digital-age" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Web%20Series%20vs.%20Traditional%20TV_%20Writing%20for%20the%20Digital%20Age.jpg" alt="Web Series vs. Traditional TV: Writing for the Digital Age" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
-</div> 
-<p><span>So... you want to write your own TV show. While you might imagine your pilot gracing network television or a streaming service, <a href="https://blog.finaldraft.com/the-rise-of-web-based-content-why-you-should-consider-writing-web-series">many writers are flocking to the internet to make their TV dreams come true as a web series</a>. Writing a web series could be an effective way for not only getting your writing out there to the masses but can also serve as a tool for improving your craft and maybe even advancing your career.&nbsp;</span></p>
+<p>The Libertarian Futurist Society (LFS) has announced the finalists for the Prometheus Hall of Fame Award for Best Classic Fiction.</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Orion Shall Rise</strong>, Poul Anderson (Timescape)</li>
+<li><strong>The Truth</strong>, Terry Pratchett (Doubleday/Transworld)</li>
+<li>&#8220;The Trees&#8221;, Rush (Hemispheres)</li>
+<li><b>Between the Rivers</b>, Harry Turtledove (Tor)</li>
+</ul>
+</div>
+<p>Six other works were also considered: <strong>Zelig</strong>, Woody Allen; <strong>Floating Worlds</strong>, Cecilia Holland (Knopf); “Primary Education of the Camiroi”, R.A. Lafferty (Galaxy 12/66); <b>That </b> <a href="https://locusmag.com/2023/12/2024-prometheus-hall-of-fame-award-finalists/" class="read-more">...Read More </a></p>
 
 <span class="feed-item-link">
-<a href="https://blog.finaldraft.com/web-series-vs.-traditional-tv-writing-for-the-digital-age">https://blog.finaldraft.com/web-series-vs.-traditional-tv-writing-for-the-digital-age</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/web-series-vs.-traditional-tv-writing-for-the-digital-age">Save to Pocket</a>
+<a href="https://locusmag.com/2023/12/2024-prometheus-hall-of-fame-award-finalists/">https://locusmag.com/2023/12/2024-prometheus-hall-of-fame-award-finalists/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/2024-prometheus-hall-of-fame-award-finalists/">Save to Pocket</a>
 </span>
 
 ---
 
-## A.C. Wise Reviews Short Fiction: Asimov’s and Clarkesworld
+## Liz Bourke Reviews The Fractured Dark by Megan E. O’Keefe
 
-date: 2023-12-04, from: Locus Magazine
+date: 2023-12-11, from: Locus Magazine
 
-<p>Asimov’s 9-10/23
-Clarkesworld 8/23, 9/23</p>
-<p>Asimov’s “Slight Spooky” September/October 2023 issue starts off strong with the novelette <strong>“Deep Blue Jump” </strong>by <strong>Dean Whitlock</strong>. The story is set amongst a group of children who have been sold or abandoned into a life of harvesting drug-like dream berries. The conditions are brutal, working long hours, risking their lives climb­ing on dangerous vines to reach the berries, and watched over by slappers  <a href="https://locusmag.com/2023/12/a-c-wise-reviews-short-fiction-asimovs-and-clarkesworld/" class="read-more">...Read More </a></p>
+<p><strong>The Fractured Dark</strong>, Megan E. O’Keefe (Orbit US 978-0-316-29113-2, $18.99, 544pp, tp.) Sep­tember 2023.</p>
+<p><strong>The Fractured Dark </strong>is the second novel in Megan E. O’Keefe’s Devoured Worlds trilogy. The first book, <strong>The Blighted Stars</strong>, is a fast-paced and viciously readable planetary opera adventure with intelligent fungus, AI descending into dysfunc­tion, ecological critique, explosions, banter, and a touch of inadvisable romance to make the whole cocktail go down more  <a href="https://locusmag.com/2023/12/liz-bourke-reviews-the-fractured-dark-by-megan-e-okeefe/" class="read-more">...Read More </a></p>
 
 <span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/a-c-wise-reviews-short-fiction-asimovs-and-clarkesworld/">https://locusmag.com/2023/12/a-c-wise-reviews-short-fiction-asimovs-and-clarkesworld/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/a-c-wise-reviews-short-fiction-asimovs-and-clarkesworld/">Save to Pocket</a>
+<a href="https://locusmag.com/2023/12/liz-bourke-reviews-the-fractured-dark-by-megan-e-okeefe/">https://locusmag.com/2023/12/liz-bourke-reviews-the-fractured-dark-by-megan-e-okeefe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/liz-bourke-reviews-the-fractured-dark-by-megan-e-okeefe/">Save to Pocket</a>
 </span>
 
 ---
 
-## Gabino Iglesias Reviews The Deep Sky by Yume Kitasei
+## New Books for 12/5/23 Video!
 
-date: 2023-12-03, from: Locus Magazine
+date: 2023-12-10, from: Locus Magazine
 
-<p><strong>The Deep Sky, </strong>Yume Kitasei (Flatiron 978-1-25087-533-4, $29.99, 416pp, hc) July 2023.</p>
-<p>Yume Kitasei’s <strong>The Deep Sky </strong>is three books wrapped into one. At once a locked-room (locked ship, in this case) whodunit, an interstellar adven­ture that discusses a very plausible future, and a story that explores mother-daughter relationships as well as friendship, <strong>The Deep Sky </strong>is a very timely science fiction narrative that looks at some of the dark  <a href="https://locusmag.com/2023/12/gabino-iglesias-reviews-the-deep-sky-by-yume-kitasei/" class="read-more">...Read More </a></p>
+<p>Check out what&#8217;s coming out this week in SFF!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2023/12/new-books-for-12-5-23-video/" class="read-more">...Read More </a>
 
 <span class="feed-item-link">
-<a href="https://locusmag.com/2023/12/gabino-iglesias-reviews-the-deep-sky-by-yume-kitasei/">https://locusmag.com/2023/12/gabino-iglesias-reviews-the-deep-sky-by-yume-kitasei/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/gabino-iglesias-reviews-the-deep-sky-by-yume-kitasei/">Save to Pocket</a>
+<a href="https://locusmag.com/2023/12/new-books-for-12-5-23-video/">https://locusmag.com/2023/12/new-books-for-12-5-23-video/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/new-books-for-12-5-23-video/">Save to Pocket</a>
+</span>
+
+---
+
+## Ian Mond Reviews A Traveller in Time: The Critical Practice of Maureen Kincaid Speller by Maureen Kincaid Speller
+
+date: 2023-12-10, from: Locus Magazine
+
+<p><strong>A Traveller in Time: The Critical Practice of Maureen Kincaid Speller</strong>, Maureen Kincaid Speller (Luna Press 978-1-91555-620-2, £16.99, 308pp, tp) September 2023.</p>
+<p>I never had the pleasure of meeting Maureen Kincaid Speller in person, but we correspond­ed on email and social media. Talking virtu­ally with Maureen was always a delight, moreso when she approached me to review Rod Duncan’s <strong>Unseemly Science </strong>for Strange Horizons. The deep sadness I felt  <a href="https://locusmag.com/2023/12/ian-mond-reviews-a-traveller-in-time-the-critical-practice-of-maureen-kincaid-speller-by-maureen-kincaid-speller/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/ian-mond-reviews-a-traveller-in-time-the-critical-practice-of-maureen-kincaid-speller-by-maureen-kincaid-speller/">https://locusmag.com/2023/12/ian-mond-reviews-a-traveller-in-time-the-critical-practice-of-maureen-kincaid-speller-by-maureen-kincaid-speller/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/ian-mond-reviews-a-traveller-in-time-the-critical-practice-of-maureen-kincaid-speller-by-maureen-kincaid-speller/">Save to Pocket</a>
 </span>
 
 
