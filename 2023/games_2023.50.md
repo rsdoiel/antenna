@@ -1,11 +1,23 @@
 ---
 title: games 2023.50
-updated: 2023-12-17 09:05:35
+updated: 2023-12-17 09:39:43
 ---
 
 # games 2023.50
 
-(date: 2023-12-17 09:05:35)
+(date: 2023-12-17 09:39:43)
+
+---
+
+## Goodreads has too much power for its moderation to be this bad
+
+date: 2023-12-17, updated: 2023-12-17, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24003375/goodreads-cait-corrain-review-bombing-crown-of-starlight">https://www.polygon.com/24003375/goodreads-cait-corrain-review-bombing-crown-of-starlight</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24003375/goodreads-cait-corrain-review-bombing-crown-of-starlight">Save to Pocket</a>
+</span>
 
 ---
 

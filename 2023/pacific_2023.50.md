@@ -1,11 +1,11 @@
 ---
 title: pacific 2023.50
-updated: 2023-12-17 09:05:35
+updated: 2023-12-17 09:39:42
 ---
 
 # pacific 2023.50
 
-(date: 2023-12-17 09:05:35)
+(date: 2023-12-17 09:39:42)
 
 ---
 
@@ -125,6 +125,30 @@ COMMONWEALTH Casino Commission Executive Director Andrew Yeom on Wednesday asked
 
 <span class="feed-item-link">
 <a href="https://www.mvariety.com/news/local/casino-commission-to-set-revocation-hearing-on-ipi-license/article_afcfde90-9ca7-11ee-9d50-03dd2b4f2cf8.html">https://www.mvariety.com/news/local/casino-commission-to-set-revocation-hearing-on-ipi-license/article_afcfde90-9ca7-11ee-9d50-03dd2b4f2cf8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/casino-commission-to-set-revocation-hearing-on-ipi-license/article_afcfde90-9ca7-11ee-9d50-03dd2b4f2cf8.html">Save to Pocket</a>
+</span>
+
+---
+
+## Israeli army says it uncovered biggest Hamas tunnel yet
+
+date: 2023-12-17, from: The Guam Daily Post
+
+The Israeli army said on Sunday it had uncovered the biggest Hamas tunnel in the Gaza Strip so far, just a few hundred metres from a key border crossing.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/israeli-army-says-it-uncovered-biggest-hamas-tunnel-yet/article_7957b004-30c5-58ea-b962-bd85162f4744.html">https://www.postguam.com/news/national/israeli-army-says-it-uncovered-biggest-hamas-tunnel-yet/article_7957b004-30c5-58ea-b962-bd85162f4744.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/israeli-army-says-it-uncovered-biggest-hamas-tunnel-yet/article_7957b004-30c5-58ea-b962-bd85162f4744.html">Save to Pocket</a>
+</span>
+
+---
+
+## Depardieu family denounces 'conspiracy' against French film icon
+
+date: 2023-12-17, from: The Guam Daily Post
+
+The family of Gerard Depardieu denounced Sunday an "unprecedented conspiracy" against the French film star, who was charged with rape in 2020 and is facing new scrutiny over sexist comments.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/depardieu-family-denounces-conspiracy-against-french-film-icon/article_38912df0-8354-5d3e-82c2-efa3d8e14772.html">https://www.postguam.com/news/national/depardieu-family-denounces-conspiracy-against-french-film-icon/article_38912df0-8354-5d3e-82c2-efa3d8e14772.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/depardieu-family-denounces-conspiracy-against-french-film-icon/article_38912df0-8354-5d3e-82c2-efa3d8e14772.html">Save to Pocket</a>
 </span>
 
 ---
@@ -269,18 +293,6 @@ A man who allegedly lashed out at his ex-girlfriend after seeing her new love in
 
 <span class="feed-item-link">
 <a href="https://www.postguam.com/news/local/man-allegedly-threatens-couple-with-knife/article_51af2a18-9c71-11ee-b19a-cf9e5e4603cd.html">https://www.postguam.com/news/local/man-allegedly-threatens-couple-with-knife/article_51af2a18-9c71-11ee-b19a-cf9e5e4603cd.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/man-allegedly-threatens-couple-with-knife/article_51af2a18-9c71-11ee-b19a-cf9e5e4603cd.html">Save to Pocket</a>
-</span>
-
----
-
-## Depardieu family denounces 'conspiracy' against French film icon
-
-date: 2023-12-17, from: The Guam Daily Post
-
-The family of Gerard Depardieu denounced Sunday an "unprecedented conspiracy" against the French film star, who was charged with rape in 2020 and is facing new scrutiny over sexist comments.
-
-<span class="feed-item-link">
-<a href="https://www.postguam.com/news/national/depardieu-family-denounces-conspiracy-against-french-film-icon/article_38912df0-8354-5d3e-82c2-efa3d8e14772.html">https://www.postguam.com/news/national/depardieu-family-denounces-conspiracy-against-french-film-icon/article_38912df0-8354-5d3e-82c2-efa3d8e14772.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/depardieu-family-denounces-conspiracy-against-french-film-icon/article_38912df0-8354-5d3e-82c2-efa3d8e14772.html">Save to Pocket</a>
 </span>
 
 ---

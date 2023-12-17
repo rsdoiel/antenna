@@ -1,11 +1,25 @@
 ---
 title: socal north 2023.50
-updated: 2023-12-17 09:05:35
+updated: 2023-12-17 09:39:42
 ---
 
 # socal north 2023.50
 
-(date: 2023-12-17 09:05:35)
+(date: 2023-12-17 09:39:42)
+
+---
+
+## Happy Birthday, Santa Clarita
+
+date: 2023-12-17, from: City of Santa Clarita
+
+<p>Happy Birthday, Santa Clarita by City Manager Ken Striplin Just a few days ago on December 15, the City of Santa Clarita officially turned 36-years-old. Our community has evolved incredibly since incorporation back in 1987. Originally measuring 39-square-miles, with only 130,000 residents at the time of our incorporation, the City now spans over 73-square-miles and [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/12/17/happy-birthday-santa-clarita/">Happy Birthday, Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2023/12/17/happy-birthday-santa-clarita/">https://santaclarita.gov/blog/2023/12/17/happy-birthday-santa-clarita/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2023/12/17/happy-birthday-santa-clarita/">Save to Pocket</a>
+</span>
 
 ---
 
