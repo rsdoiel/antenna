@@ -228,7 +228,7 @@ https://poynder.blogspot.com/feeds/posts/default?alt=rss "~Richard Poydner blog"
 #
 # Problem feeds
 #
-https://prolost.com/blog?format=RSS "~Stu Maschwitz blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://prolost.com/blog?format=rss "~Stu Maschwitz blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://www.gregegan.net/feed.rss "~Greg Egan's feed" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://blogs.windows.com/windowsdeveloper/feed/ "~Windows Developer Blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 #https://losnettos.net/feed/ "~Los Nettos News" curl/8.5.0 # feed unavailable 2023-12-05
