@@ -1,18 +1,11 @@
 ---
 title: weather 2023.50
-<<<<<<< HEAD
-updated: 2023-12-17 09:12:01
-=======
-updated: 2023-12-17 09:39:42
->>>>>>> c61177ea2b7df152ed312d5684d62da7114af93e
+updated: 2023-12-17 09:46:13
 ---
 
 # weather 2023.50
 
-<<<<<<< HEAD
-(date: 2023-12-17 09:12:01)
-=======
-(date: 2023-12-17 09:39:42)
+(date: 2023-12-17 09:46:13)
 
 ---
 
@@ -82,7 +75,6 @@ No watches are valid as of Sun Dec 17 17:19:02 UTC 2023.
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
 </span>
->>>>>>> c61177ea2b7df152ed312d5684d62da7114af93e
 
 ---
 
@@ -142,27 +134,12 @@ LAT...LON   33227967 33697946 34387880 34757814 34987730 34907648
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/md2333.html">https://www.spc.noaa.gov/products/md/md2333.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md2333.html">Save to Pocket</a>
 </span>
-<<<<<<< HEAD
-
----
-
-## SPC - No watches are valid as of Sun Dec 17 17:08:02 UTC 2023
-
-date: 2023-12-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Sun Dec 17 17:08:02 UTC 2023.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
-</span>
-=======
->>>>>>> c61177ea2b7df152ed312d5684d62da7114af93e
 
 ---
 
 ## SPC Day 1 Fire Weather Outlook
 
-date: 2023-12-17, from: NOAA Weather Forecasts
+date: 2023-12-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Fire Weather Outlook  
