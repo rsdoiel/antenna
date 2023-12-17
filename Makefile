@@ -210,6 +210,7 @@ refresh:
 	git pull origin $(BRANCH)
 
 publish: .FORCE
-	./publish.bash
+	@if [ "$(msg)" != "" ]; then git commit -am "$(msg)"; else git commit -am "Publish Site"; fi
+	git push origin main
 
 .FORCE:
