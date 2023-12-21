@@ -1,11 +1,155 @@
 ---
 title: socal north 2023.51
-updated: 2023-12-20 20:16:39
+updated: 2023-12-21 10:52:38
 ---
 
 # socal north 2023.51
 
-(date: 2023-12-20 20:16:39)
+(date: 2023-12-21 10:52:38)
+
+---
+
+## Pollution rankings: How does Los Angeles compare to other cities in pollution?
+
+date: 2023-12-21, from: The Sundail (CSUN Student Newspaper)
+
+Los Angeles is famous for its beaches and celebrities. Still, a common concern among Angelenos is its notoriety for poor air quality, which goes hand in hand with the city’s subtropical climate. In two air quality reports provided by the American Lung Association, 40% of Americans live in areas that have unhealthy pollution levels, while...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177560/print-editions/print-stories/pollution-rankings-how-does-los-angeles-compare-to-other-cities-in-pollution/">https://sundial.csun.edu/177560/print-editions/print-stories/pollution-rankings-how-does-los-angeles-compare-to-other-cities-in-pollution/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177560/print-editions/print-stories/pollution-rankings-how-does-los-angeles-compare-to-other-cities-in-pollution/">Save to Pocket</a>
+</span>
+
+---
+
+## There Was A Time When We Built More Affordable Housing. So What Happened?
+
+date: 2023-12-21, updated: 2023-12-21, from: The LAist
+
+We look at how the Great Depression and a long housing crisis shaped the programs we have today.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/los-angeles-affordable-housing-history-rental-assitance-section-8-brooke-ammendment">https://laist.com/news/housing-homelessness/los-angeles-affordable-housing-history-rental-assitance-section-8-brooke-ammendment</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/los-angeles-affordable-housing-history-rental-assitance-section-8-brooke-ammendment">Save to Pocket</a>
+</span>
+
+---
+
+## News From Gaza Is Rekindling Trauma For Muslim Communities In Southern California
+
+date: 2023-12-21, updated: 2023-12-21, from: The LAist
+
+The humanitarian crisis in Gaza as airstrikes continue is prompting grief, survivors’ guilt, and “bringing back a lot of baggage.” Seeing a need for support, a mosque and school in Garden Grove have incorporated mental health into their programming.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/news-from-gaza-is-rekindling-trauma-for-muslim-communities-in-southern-california">https://laist.com/news/news-from-gaza-is-rekindling-trauma-for-muslim-communities-in-southern-california</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/news-from-gaza-is-rekindling-trauma-for-muslim-communities-in-southern-california">Save to Pocket</a>
+</span>
+
+---
+
+## A Year After Medi-Cal Allowed Doula Services, Uptake Is Slow. Paperwork Is Just One Problem
+
+date: 2023-12-21, updated: 2023-12-21, from: The LAist
+
+As of 2023, people who get health insurance through Medi-Cal can get doula support for free. One problem: Most doulas have yet to enroll as providers.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/early-childhood-education-pre-k/medical-medicaid-california-doulas-enrollment-benefit-paperwork">https://laist.com/news/education/early-childhood-education-pre-k/medical-medicaid-california-doulas-enrollment-benefit-paperwork</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/early-childhood-education-pre-k/medical-medicaid-california-doulas-enrollment-benefit-paperwork">Save to Pocket</a>
+</span>
+
+---
+
+## CSUN upsets UCLA in convincing fashion
+
+date: 2023-12-21, from: The Sundail (CSUN Student Newspaper)
+
+“It’s just Cal State Northridge,” a UCLA fan beside the press row heckled as the first half of the CSUN-UCLA basketball game came to a close. Yes, it is the Cal State Northridge Matadors who upset the UCLA Bruins 76-72 at the Pauley Pavilion on Tuesday night. For a team that hasn’t had a Power...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177708/sports/csun-upsets-ucla-in-convincing-fashion/">https://sundial.csun.edu/177708/sports/csun-upsets-ucla-in-convincing-fashion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177708/sports/csun-upsets-ucla-in-convincing-fashion/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s soccer head coach resigns
+
+date: 2023-12-21, from: The Sundail (CSUN Student Newspaper)
+
+CSUN’s Director of Athletics Shawn Chin-Farrell announced that Christine Johnson has resigned from the women’s soccer team and will not return as head coach. Johnson first joined the Matadors in 2021 as an assistant coach prior to taking over as acting head coach. In June 2022 she was officially announced as the sixth head coach...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177703/sports/womens-soccer-head-coach-resigns/">https://sundial.csun.edu/177703/sports/womens-soccer-head-coach-resigns/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177703/sports/womens-soccer-head-coach-resigns/">Save to Pocket</a>
+</span>
+
+---
+
+## Thefts reported in women’s tennis facilities on campus
+
+date: 2023-12-21, from: The Sundail (CSUN Student Newspaper)
+
+The women’s tennis team at CSUN reported that some of their equipment was stolen in a break-in that happened Dec. 3 in the middle of the night. Sergeant Andrew Higgins from CSUN’s Department of Police Services confirmed that computers belonging to the school, as well as shoes and rackets used by the players during matches,...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177698/news/thefts-reported-in-womens-tennis-facilities-on-campus/">https://sundial.csun.edu/177698/news/thefts-reported-in-womens-tennis-facilities-on-campus/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177698/news/thefts-reported-in-womens-tennis-facilities-on-campus/">Save to Pocket</a>
+</span>
+
+---
+
+## Tustin Students Brought Home Hangar Fire Debris From School, Parents Say
+
+date: 2023-12-21, updated: 2023-12-21, from: The LAist
+
+Some debris from the fire was found to contain up to 37% asbestos, a material that can cause long-term health consequences if the fibers are inhaled.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/heritage-school-fire-testing-debris-asbestos-tustin-legacy">https://laist.com/news/climate-environment/heritage-school-fire-testing-debris-asbestos-tustin-legacy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/heritage-school-fire-testing-debris-asbestos-tustin-legacy">Save to Pocket</a>
+</span>
+
+---
+
+## Making majors: Digging into the process of creating new degree programs at UCLA
+
+date: 2023-12-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA added two new majors to its offerings in the fall: a Bachelor of Arts in music industry and a Bachelor of Arts in disability studies.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/20/making-majors-digging-into-the-process-of-creating-new-degree-programs-at-ucla/">https://dailybruin.com/2023/12/20/making-majors-digging-into-the-process-of-creating-new-degree-programs-at-ucla/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/20/making-majors-digging-into-the-process-of-creating-new-degree-programs-at-ucla/">Save to Pocket</a>
+</span>
+
+---
+
+## Is This Rainstorm Enough To Help Us Catch Up?
+
+date: 2023-12-20, updated: 2023-12-21, from: The LAist
+
+It’s been quite dry until now.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/is-this-rainstorm-enough-to-help-us-catch-up">https://laist.com/news/climate-environment/is-this-rainstorm-enough-to-help-us-catch-up</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/is-this-rainstorm-enough-to-help-us-catch-up">Save to Pocket</a>
+</span>
+
+---
+
+## Gallery: Bésame Mucho 2023 brought icons from past and present Latin music
+
+date: 2023-12-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Held at Dodger Stadium, the Bésame Mucho festival hosted over 60 artists across four different stages. Headliners included Maná, Los Bukis, and Gloria Trevi, and the festival featured performances from Latin artists spanning multiple generations.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/20/gallery-besame-mucho-2023-brought-icons-from-past-and-present-latin-music/">https://dailybruin.com/2023/12/20/gallery-besame-mucho-2023-brought-icons-from-past-and-present-latin-music/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/20/gallery-besame-mucho-2023-brought-icons-from-past-and-present-latin-music/">Save to Pocket</a>
+</span>
+
+---
+
+## Dock Talk Year End Newsletter 2023
+
+date: 2023-12-20, from: Port Hueneme
+
+The Dock Talk 2023 Year End Newsletter is now online. (Download as PDF) In this issue: Message from Jess Herrera, President, Board of Harbor Commissioners Message from Kristin Decas, CEO &#38; Port Director FIRST Robotics Competition Brings the Excitement of Sport and Rigor of Science and Tech to the Port of Hueneme Port of Hueneme <a class="read-more-style" href="https://www.portofhueneme.org/dock-talk-2023/">Read More</a>
+
+<span class="feed-item-link">
+<a href="https://www.portofhueneme.org/dock-talk-2023/">https://www.portofhueneme.org/dock-talk-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.portofhueneme.org/dock-talk-2023/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -86,7 +230,8 @@ To create an education system that has stable funds for mental health, Californi
 date: 2023-12-20, from: The Daily Bruin (UCLA Student Newspaper)
 
 Dejected fans scaled up the Pauley Pavilion steps.
-As the Bruin faithful left in troves, coach Mick Cronin stood stoic on the sidelines with his hands behind his back.&#160;The Bruins were forced to relinquish their nation’s best 29-game home winning streak to a mid-major squad just up the 405.
+As the Bruin faithful left in troves, coach Mick Cronin stood stoic on the sidelines with his hands behind his back.&#160;
+The Bruins were forced to relinquish their nation’s best 29-game home winning streak to a mid-major squad just up the 405.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2023/12/19/ucla-mens-basketball-loses-home-winning-streak-falls-to-cal-state-northridge/">https://dailybruin.com/2023/12/19/ucla-mens-basketball-loses-home-winning-streak-falls-to-cal-state-northridge/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/19/ucla-mens-basketball-loses-home-winning-streak-falls-to-cal-state-northridge/">Save to Pocket</a>

@@ -1,11 +1,107 @@
 ---
 title: health 2023.51
-updated: 2023-12-20 20:16:39
+updated: 2023-12-21 10:52:39
 ---
 
 # health 2023.51
 
-(date: 2023-12-20 20:16:39)
+(date: 2023-12-21 10:52:39)
+
+---
+
+## Effects of ondansetron exposure during ICU stay on outcomes of critically ill patients with sepsis: a cohort study
+
+date: 2023-12-21, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>Sepsis is a life-threatening disease with high morbidity and mortality, characterized by an inadequate systemic immune response to an initial stimulus. Whether the use of ondansetron (OND) during intensive care unit (ICU) stay is associated with the prognosis of sepsis patients remains unclear.</p></sec><sec><title>Methods</title><p>Critically ill patients with sepsis were extracted from the Medical Information Mart for Intensive Care IV (MIMIC-IV) database. Multivariate logistic regression and Cox regression analyses were used to explore the association between OND use and clinical outcomes after adjusting for confounders. Kaplan-Meier survival curve was used for survival analysis. Propensity score matching (PSM) and subgroup analysis were performed to further confirm the results.</p></sec><sec><title>Results</title><p>The OND-medication group showed reduced in-hospital mortality, 28-day and 90-day mortalities. The OR for in-hospital mortality was 0.80 (0.64-0.99) and HRs for 28-day mortality and 90-day mortality were 0.77 (0.64-0.92) and 0.83 (0.70-0.98), respectively. After PSM, the clinical outcomes remained consistent. In-hospital mortality was lower in the OND-medication group (28.1% <italic>vs</italic>. 35.8%, P= 0.044), as well as 28-day mortality (23.4% <italic>vs</italic>. 32.1%, P=0.022) and 90-day mortality (27.4% <italic>vs</italic>. 35.8%, P=0.035). The protective effect of OND in sepsis patients was relatively robust, independent of age, septic shock, vasopressin and mechanical ventilation. Additionally, the OND users had longer lengths of stay in ICU (6.9(3.1-13.2) <italic>vs</italic>. 5.1(2.5-11.0), P = 0.026) while no statistical differences were found in lengths of stay in hospital (P = 0.333).</p></sec><sec><title>Conclusion</title><p>OND exposure might be associated with lower in-hospital, 28-day, and 90-day mortality rates in critically ill patients with sepsis. This study indicated that OND might help improve the prognosis of patients with sepsis.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1256382">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1256382</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1256382">Save to Pocket</a>
+</span>
+
+---
+
+## Drosophila melanogaster as a model to study polymicrobial synergy and dysbiosis
+
+date: 2023-12-21, from: Frontiers in Cellular and Infection Microbiology
+
+<p>The fruit fly <italic>Drosophila melanogaster</italic> has emerged as a valuable model for investigating human biology, including the role of the microbiome in health and disease. Historically, studies involving the infection of <italic>D. melanogaster</italic> with single microbial species have yielded critical insights into bacterial colonization and host innate immunity. However, recent evidence has underscored that multiple microbial species can interact in complex ways through physical connections, metabolic cross-feeding, or signaling exchanges, with significant implications for healthy homeostasis and the initiation, progression, and outcomes of disease. As a result, researchers have shifted their focus toward developing more robust and representative <italic>in vivo</italic> models of co-infection to probe the intricacies of polymicrobial synergy and dysbiosis. This review provides a comprehensive overview of the pioneering work and recent advances in the field, highlighting the utility of <italic>Drosophila</italic> as an alternative model for studying the multifaceted microbial interactions that occur within the oral cavity and other body sites. We will discuss the factors and mechanisms that drive microbial community dynamics, as well as their impacts on host physiology and immune responses. Furthermore, this review will delve into the emerging evidence that connects oral microbes to systemic conditions in both health and disease. As our understanding of the microbiome continues to evolve, <italic>Drosophila</italic> offers a powerful and tractable model for unraveling the complex interplay between host and microbes including oral microbes, which has far-reaching implications for human health and the development of targeted therapeutic interventions.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1279380">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1279380</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1279380">Save to Pocket</a>
+</span>
+
+---
+
+## Protective role of N-acetylcysteine and Sulodexide on endothelial cells exposed on patients’ serum after SARS-CoV-2 infection
+
+date: 2023-12-21, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Severe acute respiratory syndrome coronavirus-2 causes hyperinflammation and activation of coagulation cascade and, as a result, aggravates endothelial cell dysfunction. N-acetylcysteine and Sulodexide have been found to mitigate endothelial damage. The influence on coronary artery endothelial cells of serum collected after 4 ± 1 months from coronavirus infection was studied. The concentrations of serum samples of interleukin 6, von Willebrand Factor, tissue Plasminogen Activator, and Plasminogen Activator Inhibitor-1 were studied. The cultures with serum of patients after coronavirus infection were incubated with N-acetylcysteine and Sulodexide to estimate their potential protective role. The blood inflammatory parameters were increased in the group of cultures incubated with serum from patients after coronavirus infection. Supplementation of the serum from patients after coronavirus infection with N-acetylcysteine or Sulodexide reduced the synthesis of interleukin 6 and von Willebrand Factor. No changes in the synthesis of tissue Plasminogen Activator were observed. N-acetylcysteine reduced the synthesis of Plasminogen Activator Inhibitor-1. N-acetylcysteine and Sulodexide increased the tPA/PAI-1 ratio. N-acetylcysteine may have a role in reducing the myocardial injury occurring in the post-COVID-19 syndrome. Sulodexide can also play a protective role in post-COVID-19 patients.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1268016">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1268016</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1268016">Save to Pocket</a>
+</span>
+
+---
+
+## The preliminary evidence on the association of the gut microbiota with stroke risk stratification in South Chinese population
+
+date: 2023-12-21, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Aims</title><p>This study aimed to investigate the association between the gut microbiota and the risk of stroke.</p></sec><sec><title>Methods</title><p>Faecal samples from 60 participants in South China, including 45 individuals with risk factors for stroke and 15 healthy controls, were collected and subjected to 16S rRNA sequencing. A bioinformatics analysis was performed to characterise the gut microbial diversity and taxonomic compositions at different risk levels (low, moderate, and high) of stroke. Functional prediction and correlation analyses between the microbiota and laboratory markers were performed to explore the potential mechanisms.</p></sec><sec><title>Results</title><p>A significant difference in beta diversity was observed between the participants from the stroke risk and healthy control groups. Linear discriminant effect size analysis revealed a large number of vascular beneficial bacteria enriched in the participants from the healthy control and low-risk groups, but a few vascular harmful bacteria were more abundant in the participants from the high-risk group than in those from the other groups. In addition, <italic>Anaerostipes</italic>, <italic>Clostridium_XlVb</italic>, and <italic>Flavonifractor</italic>, all of which belonged to the <italic>Firmicutes</italic> phylum, were enriched in the participants from the low-risk group, and their relative abundances gradually decreased as the stroke risk increased. Spearman’s analysis revealed that these outstanding microbiota correlated with the levels of triglycerides, high-density lipoprotein cholesterol, low-density lipoprotein cholesterol, white blood cells, neutrophils, and carotid intima-media thickness.</p></sec><sec><title>Conclusion</title><p>The preliminary evidence suggests that gut microbiota is associated with stroke risk. It potentially ameliorates atherosclerosis by targeting lipid metabolism and inflammation. This provides novel insights into the early screening of stroke risk and primary prevention.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1227450">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1227450</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1227450">Save to Pocket</a>
+</span>
+
+---
+
+## The spatiotemporal distribution and prognostic factors of Japanese encephalitis in Shanxi Province, China, 2005–2022
+
+date: 2023-12-21, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Japanese encephalitis (JE) is a naturally occurring localized disease caused by the Japanese encephalitis virus, which is spread by the Culex tritaeniorhynchus. China has a high rate of JE. Shanxi, located in North China, has a high prevalence of adult JE. Adult JE has more severe complications, mortality, and a higher disease burden, making it a public health issue. This retrospective study examined the dynamic epidemic changes, high-risk areas of JE, and clinical characteristics and prognostic factors of adult JE in Shanxi Province. The findings revealed that July to September was the primary epidemic season of JE and that JE cases were mainly in individuals over the age of 40. The incidence of JE from 2005 to 2022 demonstrated a positive spatial correlation with significant clustering characteristics, with high-incidence clusters in the south and southeast. Multivariate logistic regression analysis revealed that higher cerebrospinal fluid pressure, higher white blood cell counts, higher neutrophil percentage, deep coma, and lower albumin were independent factors for poor prognosis of adult JE. The developed risk prediction model holds great promise in early prognosis assessment of patients, providing a basis for clinical decision-making and early clinical intervention.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1291816">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1291816</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1291816">Save to Pocket</a>
+</span>
+
+---
+
+## Blood metagenomics next-generation sequencing has advantages in detecting difficult-to-cultivate pathogens, and mixed infections: results from a real-world cohort
+
+date: 2023-12-21, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>Blood is a common sample source for metagenomics next-generation sequencing (mNGS) in clinical practice. In this study, we aimed to detect the diagnostic value of blood mNGS in a large real-world cohorts.</p></sec><sec><title>Methods</title><p>Blood mNGS results of 1,046 cases were collected and analyzed along with other laboratory tests. The capabilities and accuracy of blood mNGS were compared with other conventional approaches.</p></sec><sec><title>Results</title><p>Both the surgical department and the intensive care unit had a positive rate of over 80% in blood mNGS. The positive rate of mNGS was consistent with clinical manifestations. Among the 739 positive samples, 532 were detected as mixed infections. Compared to pathogen cultures, the negative predictive value of blood mNGS for bacteria and fungi detection was 98.9% [95%CI, 96.9%-100%], with an accuracy rate of 89.39%. When compared with polymer chain reaction, the consistency rates of blood mNGS for virus identification were remarkably high.</p></sec><sec><title>Conclusions</title><p>Blood mNGS have significant advantages in detecting difficult-to-cultivate bacteria or fungi, viruses, and mixed infections, which benefits patients of surgery department the most. Samples other than blood are recommended for mNGS test if a specific infection is suspected. The reporting threshold and reporting criteria of blood mNGS need to be optimized.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1268281">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1268281</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1268281">Save to Pocket</a>
+</span>
+
+---
+
+## Intrinsic factors driving mosquito vector competence and viral evolution: a review
+
+date: 2023-12-21, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Mosquitoes are responsible for the transmission of numerous viruses of global health significance. The term “vector competence” describes the intrinsic ability of an arthropod vector to transmit an infectious agent. Prior to transmission, the mosquito itself presents a complex and hostile environment through which a virus must transit to ensure propagation and transmission to the next host. Viruses imbibed in an infectious blood meal must pass in and out of the mosquito midgut, traffic through the body cavity or hemocoel, invade the salivary glands, and be expelled with the saliva when the vector takes a subsequent blood meal. Viruses encounter physical, cellular, microbial, and immunological barriers, which are influenced by the genetic background of the mosquito vector as well as environmental conditions. Collectively, these factors place significant selective pressure on the virus that impact its evolution and transmission. Here, we provide an overview of the current state of the field in understanding the mosquito-specific factors that underpin vector competence and how each of these mechanisms may influence virus evolution.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1330600">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1330600</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1330600">Save to Pocket</a>
+</span>
+
+---
+
+## Atomistic ensemble of active SHP2 phosphatase
+
+date: 2023-12-21, from: Nature, Communications on Biology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.nature.com/articles/s42003-023-05682-5">https://www.nature.com/articles/s42003-023-05682-5</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nature.com/articles/s42003-023-05682-5">Save to Pocket</a>
+</span>
 
 ---
 
@@ -77,6 +173,30 @@ date: 2023-12-20, from: Frontiers in Cellular and Infection Microbiology
 
 <span class="feed-item-link">
 <a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1346960">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1346960</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1346960">Save to Pocket</a>
+</span>
+
+---
+
+## Divisively normalized neuronal processing of uncertain visual feedback for visuomotor learning
+
+date: 2023-12-20, from: Nature, Communications on Biology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.nature.com/articles/s42003-023-05578-4">https://www.nature.com/articles/s42003-023-05578-4</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nature.com/articles/s42003-023-05578-4">Save to Pocket</a>
+</span>
+
+---
+
+## Microbes control <i>Drosophila</i> germline stem cell increase and egg maturation through hormonal pathways
+
+date: 2023-12-20, from: Nature, Communications on Biology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.nature.com/articles/s42003-023-05660-x">https://www.nature.com/articles/s42003-023-05660-x</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nature.com/articles/s42003-023-05660-x">Save to Pocket</a>
 </span>
 
 ---
@@ -165,6 +285,54 @@ date: 2023-12-19, from: Frontiers in Cellular and Infection Microbiology
 
 ---
 
+## Author Correction: Activated cofilin exacerbates tau pathology by impairing tau-mediated microtubule dynamics
+
+date: 2023-12-19, from: Nature, Communications on Biology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.nature.com/articles/s42003-023-05644-x">https://www.nature.com/articles/s42003-023-05644-x</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nature.com/articles/s42003-023-05644-x">Save to Pocket</a>
+</span>
+
+---
+
+## Psychedelic concentrations of nitrous oxide reduce functional differentiation in frontoparietal and somatomotor cortical networks
+
+date: 2023-12-19, from: Nature, Communications on Biology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.nature.com/articles/s42003-023-05678-1">https://www.nature.com/articles/s42003-023-05678-1</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nature.com/articles/s42003-023-05678-1">Save to Pocket</a>
+</span>
+
+---
+
+## Modulation of memory reconsolidation by adjacent novel tasks: timing defines the nature of change
+
+date: 2023-12-19, from: Nature, Communications on Biology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.nature.com/articles/s42003-023-05666-5">https://www.nature.com/articles/s42003-023-05666-5</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nature.com/articles/s42003-023-05666-5">Save to Pocket</a>
+</span>
+
+---
+
+## Discovery and characterization of genes conferring natural resistance to the antituberculosis antibiotic capreomycin
+
+date: 2023-12-19, from: Nature, Communications on Biology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.nature.com/articles/s42003-023-05681-6">https://www.nature.com/articles/s42003-023-05681-6</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nature.com/articles/s42003-023-05681-6">Save to Pocket</a>
+</span>
+
+---
+
 ## Quantifying Rift Valley fever virus transmission efficiency in a lamb-mosquito-lamb model
 
 date: 2023-12-18, from: Frontiers in Cellular and Infection Microbiology
@@ -245,6 +413,18 @@ date: 2023-12-18, from: Frontiers in Cellular and Infection Microbiology
 
 <span class="feed-item-link">
 <a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1281745">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1281745</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1281745">Save to Pocket</a>
+</span>
+
+---
+
+## Locked and loaded: targeting extracellular vesicles to preserve sight
+
+date: 2023-12-18, from: Nature, Communications on Biology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.nature.com/articles/s42003-023-05672-7">https://www.nature.com/articles/s42003-023-05672-7</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nature.com/articles/s42003-023-05672-7">Save to Pocket</a>
 </span>
 
 

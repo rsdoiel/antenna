@@ -1,11 +1,131 @@
 ---
 title: games 2023.51
-updated: 2023-12-20 20:16:39
+updated: 2023-12-21 10:52:39
 ---
 
 # games 2023.51
 
-(date: 2023-12-20 20:16:39)
+(date: 2023-12-21 10:52:39)
+
+---
+
+## Steam’s Winter Sale delivers deals on Baldur’s Gate 3, Bomb Rush Cyberfunk, and more treats
+
+date: 2023-12-21, updated: 2023-12-21, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24009825/steam-winter-sale-baldurs-gate-3-deal-discount">https://www.polygon.com/deals/24009825/steam-winter-sale-baldurs-gate-3-deal-discount</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24009825/steam-winter-sale-baldurs-gate-3-deal-discount">Save to Pocket</a>
+</span>
+
+---
+
+## Baldur’s Gate 3 patch fixes horrifying ‘Pinocchio issue’
+
+date: 2023-12-21, updated: 2023-12-21, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24011196/baldurs-gate-3-hotfix-15-patch-notes-update-glitch-bug">https://www.polygon.com/24011196/baldurs-gate-3-hotfix-15-patch-notes-update-glitch-bug</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24011196/baldurs-gate-3-hotfix-15-patch-notes-update-glitch-bug">Save to Pocket</a>
+</span>
+
+---
+
+## Disaster ‘zombie MMO’ The Day Before is going for big bucks on gray market
+
+date: 2023-12-21, updated: 2023-12-21, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24009939/the-day-before-steam-keys-resellers">https://www.polygon.com/24009939/the-day-before-steam-keys-resellers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24009939/the-day-before-steam-keys-resellers">Save to Pocket</a>
+</span>
+
+---
+
+## Romance and fantasy spawned this year’s biggest breakout genre
+
+date: 2023-12-21, updated: 2023-12-21, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24002836/romance-fantasy-romantasy-tiktok-court-of-thorns-and-roses-fourth-wing">https://www.polygon.com/24002836/romance-fantasy-romantasy-tiktok-court-of-thorns-and-roses-fourth-wing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24002836/romance-fantasy-romantasy-tiktok-court-of-thorns-and-roses-fourth-wing">Save to Pocket</a>
+</span>
+
+---
+
+## The case for silly vs. serious Christmas movies
+
+date: 2023-12-21, updated: 2023-12-21, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24008253/christmas-movies-silly-serious-best">https://www.polygon.com/24008253/christmas-movies-silly-serious-best</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24008253/christmas-movies-silly-serious-best">Save to Pocket</a>
+</span>
+
+---
+
+## New live-action Avatar photos show off some favorite minor characters
+
+date: 2023-12-21, updated: 2023-12-21, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24010842/avatar-the-last-airbender-live-action-photos-jet-suki-june">https://www.polygon.com/24010842/avatar-the-last-airbender-live-action-photos-jet-suki-june</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24010842/avatar-the-last-airbender-live-action-photos-jet-suki-june">Save to Pocket</a>
+</span>
+
+---
+
+## The Dark Urge best build and class guide in Baldur’s Gate 3
+
+date: 2023-12-21, updated: 2023-12-21, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/baldurs-gate-3-guides/24009669/dark-urge-origin-character">https://www.polygon.com/baldurs-gate-3-guides/24009669/dark-urge-origin-character</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/baldurs-gate-3-guides/24009669/dark-urge-origin-character">Save to Pocket</a>
+</span>
+
+---
+
+## Aquaman flounders in The Lost Kingdom
+
+date: 2023-12-21, updated: 2023-12-21, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24010892/aquaman-lost-kingdom-review">https://www.polygon.com/reviews/24010892/aquaman-lost-kingdom-review</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24010892/aquaman-lost-kingdom-review">Save to Pocket</a>
+</span>
+
+---
+
+## How to fix the elevator in the Arcane Tower in Baldur’s Gate 3
+
+date: 2023-12-21, updated: 2023-12-21, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/baldurs-gate-3-guides/23823467/arcane-tower-elevator-activate-fix-bg3">https://www.polygon.com/baldurs-gate-3-guides/23823467/arcane-tower-elevator-activate-fix-bg3</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/baldurs-gate-3-guides/23823467/arcane-tower-elevator-activate-fix-bg3">Save to Pocket</a>
+</span>
+
+---
+
+## The best Blu-rays and 4K UHD releases of 2023
+
+date: 2023-12-21, updated: 2023-12-21, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy">https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/entertainment/23717231/best-blu-rays-of-2023-4k-uhd-buy">Save to Pocket</a>
+</span>
 
 ---
 

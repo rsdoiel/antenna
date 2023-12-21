@@ -1,17 +1,17 @@
 ---
 title: mid central 2023.51
-updated: 2023-12-20 20:16:39
+updated: 2023-12-21 10:52:38
 ---
 
 # mid central 2023.51
 
-(date: 2023-12-20 20:16:39)
+(date: 2023-12-21 10:52:38)
 
 ---
 
 ## There are no active watches, warnings or advisories
 
-date: 2023-12-20, updated: 2023-12-20, from: Merced, Weather.gov CAP v1.1 alerts
+date: 2023-12-21, updated: 2023-12-21, from: Merced, Weather.gov CAP v1.1 alerts
 
 
 

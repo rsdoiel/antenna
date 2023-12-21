@@ -1,11 +1,133 @@
 ---
 title: columns 2023.51
-updated: 2023-12-20 20:16:39
+updated: 2023-12-21 10:52:38
 ---
 
 # columns 2023.51
 
-(date: 2023-12-20 20:16:39)
+(date: 2023-12-21 10:52:38)
+
+---
+
+## A holiday wish
+
+date: 2023-12-21, from: Robert Reich's blog
+
+With thanks to you for joining me
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/holiday-thought">https://robertreich.substack.com/p/holiday-thought</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/holiday-thought">Save to Pocket</a>
+</span>
+
+---
+
+## Rob Bateman and his journey to resurrect Flash content on today’s web
+
+date: 2023-12-21, from: Chris Heilmann's blog
+
+Flash has been a boon to the web and the bane of my work as a web standards advocate. Now defunct, it is great that people work on converting old content. I&#8217;ve been talking to Rob Bateman about his work on converting Flash games to run on today&#8217;s web in an edition of Coffee With [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://christianheilmann.com/2023/12/21/rob-bateman-and-his-journey-to-resurrect-flash-content-on-todays-web/">https://christianheilmann.com/2023/12/21/rob-bateman-and-his-journey-to-resurrect-flash-content-on-todays-web/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://christianheilmann.com/2023/12/21/rob-bateman-and-his-journey-to-resurrect-flash-content-on-todays-web/">Save to Pocket</a>
+</span>
+
+---
+
+## Cyberattack on Ukraine’s Kyivstar Seems to Be Russian Hacktivists
+
+date: 2023-12-21, updated: 2023-12-20, from: Bruce Schneier blog
+
+<p>The Solntsepek group has <a href="https://www.wired.com/story/ukraine-kyivstar-solntsepek-sandworm-gru/">taken</a> <a href="https://www.bleepingcomputer.com/news/security/ukrainian-military-says-it-hacked-russias-federal-tax-agency/">credit</a> <a href="https://www.washingtonpost.com/world/2023/12/12/zelensky-washington-cyberattack-kyiv-ukraine/">for</a> <a href="https://therecord.media/ukraine-intelligence-claims-attack-on-russia-tax-service">the</a> <a href="https://www.reuters.com/technology/cybersecurity/ukraine-says-russian-intelligence-linked-hackers-claim-cyberattack-mobile-2023-12-13/">attack</a>. They&#8217;re linked to the Russian military, so it&#8217;s unclear whether the attack was government directed or freelance.</p>
+<p>This is one of the most significant cyberattacks since Russia invaded in February 2022.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2023/12/cyberattack-on-ukraines-kyivstar-seems-to-be-russian-hacktivists.html">https://www.schneier.com/blog/archives/2023/12/cyberattack-on-ukraines-kyivstar-seems-to-be-russian-hacktivists.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2023/12/cyberattack-on-ukraines-kyivstar-seems-to-be-russian-hacktivists.html">Save to Pocket</a>
+</span>
+
+---
+
+## One way or the other, the Supreme Court will determine Trump’s (and America’s) fate
+
+date: 2023-12-21, from: Robert Reich's blog
+
+The least democratic branch of government will call many of the shots in the 2024 election
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/one-way-or-the-other-the-supreme">https://robertreich.substack.com/p/one-way-or-the-other-the-supreme</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/one-way-or-the-other-the-supreme">Save to Pocket</a>
+</span>
+
+---
+
+## ‘What Happens When Facebook Heats Your Home’
+
+date: 2023-12-21, updated: 2023-12-21, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.wired.co.uk/article/facebook-energy-heating-homes">https://www.wired.co.uk/article/facebook-energy-heating-homes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.wired.co.uk/article/facebook-energy-heating-homes">Save to Pocket</a>
+</span>
+
+---
+
+## Colorado Supreme Court Rules Trump Ineligible for President Under 14th Amendment
+
+date: 2023-12-21, updated: 2023-12-21, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://managingeditor.substack.com/p/the-mile-high-snub">https://managingeditor.substack.com/p/the-mile-high-snub</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://managingeditor.substack.com/p/the-mile-high-snub">Save to Pocket</a>
+</span>
+
+---
+
+## Comcast Xfinity Discloses Data Breach Affecting Over 35 Million People
+
+date: 2023-12-20, updated: 2023-12-20, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.bleepingcomputer.com/news/security/xfinity-discloses-data-breach-affecting-over-35-million-people/">https://www.bleepingcomputer.com/news/security/xfinity-discloses-data-breach-affecting-over-35-million-people/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.bleepingcomputer.com/news/security/xfinity-discloses-data-breach-affecting-over-35-million-people/">Save to Pocket</a>
+</span>
+
+---
+
+## Joanna Stern Goes to Prison
+
+date: 2023-12-20, updated: 2023-12-21, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.wsj.com/tech/personal-tech/he-stole-hundreds-of-iphones-and-looted-peoples-life-savings-he-told-us-how-fbd81ab5">https://www.wsj.com/tech/personal-tech/he-stole-hundreds-of-iphones-and-looted-peoples-life-savings-he-told-us-how-fbd81ab5</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.wsj.com/tech/personal-tech/he-stole-hundreds-of-iphones-and-looted-peoples-life-savings-he-told-us-how-fbd81ab5">Save to Pocket</a>
+</span>
+
+---
+
+## Christopher Nolan on John August’s Script Notes Podcast
+
+date: 2023-12-20, updated: 2023-12-20, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://johnaugust.com/2023/the-one-with-christopher-nolan">https://johnaugust.com/2023/the-one-with-christopher-nolan</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://johnaugust.com/2023/the-one-with-christopher-nolan">Save to Pocket</a>
+</span>
+
+---
+
+## Aston Martin and Porsche Preview Next-Gen CarPlay Interfaces
+
+date: 2023-12-20, updated: 2023-12-20, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.caranddriver.com/news/a46188510/apple-carplay-next-gen-interface/">https://www.caranddriver.com/news/a46188510/apple-carplay-next-gen-interface/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.caranddriver.com/news/a46188510/apple-carplay-next-gen-interface/">Save to Pocket</a>
+</span>
 
 ---
 

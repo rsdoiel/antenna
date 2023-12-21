@@ -1,11 +1,894 @@
 ---
 title: pacific 2023.51
-updated: 2023-12-20 20:16:39
+updated: 2023-12-21 10:52:38
 ---
 
 # pacific 2023.51
 
-(date: 2023-12-20 20:16:39)
+(date: 2023-12-21 10:52:38)
+
+---
+
+## More Retailers Are Charging Return Fees. Here’s How to Pay Less
+
+date: 2023-12-21, from: The Guam Daily Post
+
+If you’re someone who likes to return and exchange gifts after the holidays, prepare yourself: Making returns could feel a little different this year.“It’s going to be hard for consumers to navigate,” says shopping expert Trae Bodge. “The return policies…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/more-retailers-are-charging-return-fees-here-s-how-to-pay-less/article_86476491-020d-5752-81e5-d4f55f0a8a4b.html">https://www.postguam.com/news/national/more-retailers-are-charging-return-fees-here-s-how-to-pay-less/article_86476491-020d-5752-81e5-d4f55f0a8a4b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/more-retailers-are-charging-return-fees-here-s-how-to-pay-less/article_86476491-020d-5752-81e5-d4f55f0a8a4b.html">Save to Pocket</a>
+</span>
+
+---
+
+## OPINION | Truth 31: A leap of faith in China!
+
+date: 2023-12-21, updated: 2023-12-21, from: Marianas Variety
+
+THE TRUTH of the matter is I believe the Senate has leaped before they looked, which is a big no-no! We learn in our formative years to “look before you leap” and yet the Senate seems to have jumped off the EVS-TAP cliff without doing their homework (KNOWING it will work). Based on what I have read, the Senate was following Hofschneider based on his word. I do want to thank our Delegate Kilili for weighing in to support the EVS-TAP, which relieved some of the trepidation fearing Washington might be angered by the EVS-TAP for Chinese. But I have to respect Kilili’s judgement as he knows more about the temperament of the U.S. Congress than I do.  But it is exactly issues like this is the reason I wrote about the need for other officials to weigh-in on issues because I trust Kilili far more than Jude.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/views/columnists/opinion-truth-31-a-leap-of-faith-in-china/article_e4151b96-9fb5-11ee-8771-336e2bd7ed7e.html">https://www.mvariety.com/views/columnists/opinion-truth-31-a-leap-of-faith-in-china/article_e4151b96-9fb5-11ee-8771-336e2bd7ed7e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/views/columnists/opinion-truth-31-a-leap-of-faith-in-china/article_e4151b96-9fb5-11ee-8771-336e2bd7ed7e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Education leadership meeting
+
+date: 2023-12-21, updated: 2023-12-21, from: Marianas Variety
+
+Board of Education Chairman Antonio L. Borja and Interim Commissioner of Education Donna M. Flores joined Public School System program directors, managers, coordinators and school administrators in the quarterly principals, program managers and leadership meeting at the Pacific Islands’ Club on Wednesday, Dec. 20.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/education-leadership-meeting/article_c9fb77f8-a002-11ee-bda9-8b712d0fe2c3.html">https://www.mvariety.com/news/community_bulletins/education-leadership-meeting/article_c9fb77f8-a002-11ee-bda9-8b712d0fe2c3.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/education-leadership-meeting/article_c9fb77f8-a002-11ee-bda9-8b712d0fe2c3.html">Save to Pocket</a>
+</span>
+
+---
+
+## Merry Christmas!
+
+date: 2023-12-21, updated: 2023-12-21, from: Marianas Variety
+
+Carolers from the Saipan Manamko' Center recently visited the Office of the Governor, where they sang Christmas carols to spread joy and holiday spirit. Audience members included Gov. Arnold I. Palacios, Department of Lands and Natural Resources Secretary Sylvan Igisomar, Office of Management and Budget Special Assistant Virginia Villagomez, and staff members of the Office of the Governor &amp; Lt. Governor, the Attorney General’s Office, and OMB. The carolers were accompanied by Walter Manglona, Office on Aging director.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/merry-christmas/article_ea5c58e8-a000-11ee-aa9f-a756f871ccbf.html">https://www.mvariety.com/news/community_bulletins/merry-christmas/article_ea5c58e8-a000-11ee-aa9f-a756f871ccbf.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/merry-christmas/article_ea5c58e8-a000-11ee-aa9f-a756f871ccbf.html">Save to Pocket</a>
+</span>
+
+---
+
+## 5th graders from WSR sing carols for governor and lt. governor
+
+date: 2023-12-21, updated: 2023-12-21, from: Marianas Variety
+
+The Offices of the Governor and Lt. Governor welcomed the young, bright students of William S. Reyes Elementary School’s fifth-grade class, who were on a field trip to spread the joy of the holiday season by singing Christmas carols for Gov. Arnold I. Palacios, Lt. Gov. David M. Apatang, Senate President Edith Deleon Guerrero and Attorney General Edward Manibusan at the Juan Atalig Memorial Building on Capital Hill. The fifth graders received candy treats from the Senate president and donuts and water from the governor and lt. governor, both of whom expressed their appreciation for the students and recognized their efforts in spreading the holiday spirit throughout the Commonwealth.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/5th-graders-from-wsr-sing-carols-for-governor-and-lt-governor/article_44ec532a-a002-11ee-8938-4f5829199c1f.html">https://www.mvariety.com/news/community_bulletins/5th-graders-from-wsr-sing-carols-for-governor-and-lt-governor/article_44ec532a-a002-11ee-8938-4f5829199c1f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/5th-graders-from-wsr-sing-carols-for-governor-and-lt-governor/article_44ec532a-a002-11ee-8938-4f5829199c1f.html">Save to Pocket</a>
+</span>
+
+---
+
+## The Lions and the spirit of giving
+
+date: 2023-12-21, updated: 2023-12-21, from: Marianas Variety
+
+The Lions Clubs International District 204, Region 2 officers and members recently delivered gifts for the infants and toddlers with disabilities served by the Child Development Assistance Center (Early Intervention Services). Global Service Vice Chair Lion Marie Javier worked in coordination with Global Service Chair and Past District Governor Lion Herbie Perez, who purchased toys from Guam and shipped them to Saipan. The Lions would also like to extend their appreciation to Lion Ladyvir Canape for assisting Lion Herbie. The Lions presented the toys to CDAC Director Robin Lizama Palacios and her staff. Director Palacios expressed her gratitude to the Lions for their continuous service to the community, and for bringing the spirit of joy to infants and toddlers with disabilities, and their families. For their part, Region Chair Lion Annamae Mayuga, Z-3 Chair Lion Mar Masilungan, Z-1 Chair Lion Arcelie Lizama, all club presidents and service chairs thanked their members for tirelessly supporting the Lions’ community projects. “A gigantic roar for everyone, and happy holidays!”
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/the-lions-and-the-spirit-of-giving/article_80b4bb16-a009-11ee-a3d3-978ae8475167.html">https://www.mvariety.com/news/community_bulletins/the-lions-and-the-spirit-of-giving/article_80b4bb16-a009-11ee-a3d3-978ae8475167.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/the-lions-and-the-spirit-of-giving/article_80b4bb16-a009-11ee-a3d3-978ae8475167.html">Save to Pocket</a>
+</span>
+
+---
+
+## P.H.R. Ken Micronesia announces senior leadership promotions
+
+date: 2023-12-21, updated: 2023-12-21, from: Marianas Variety
+
+TUMON, Guam — P.H.R. Ken Micronesia, Inc. announced the promotion of two of its longstanding executives to lead the Guam operations beginning on January 1, 2024, when outgoing President Mitsuo “Mike” Sato takes on a new role with Ken Corporation  in Japan after leading P.H.R. Ken Micronesia, Inc. for seven years. Ken Yanagisawa has been named the new president of P.H.R. Ken Micronesia, Inc., and Ben Ferguson will assume the role of vice president.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/business_news/p-h-r-ken-micronesia-announces-senior-leadership-promotions/article_c42a2a74-a00a-11ee-b5d5-5fe8fcba805f.html">https://www.mvariety.com/business/business_news/p-h-r-ken-micronesia-announces-senior-leadership-promotions/article_c42a2a74-a00a-11ee-b5d5-5fe8fcba805f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/business_news/p-h-r-ken-micronesia-announces-senior-leadership-promotions/article_c42a2a74-a00a-11ee-b5d5-5fe8fcba805f.html">Save to Pocket</a>
+</span>
+
+---
+
+## MCS dominates HMS JV, 29-9, in boys softball
+
+date: 2023-12-21, updated: 2023-12-21, from: Marianas Variety
+
+MOUNT Carmel School eased past Hopwood Middle School’s junior varsity team, 29-9, in the boys middle school division of the PSS-SBL Interscholastic Softball League SY23-24 at the Dandan baseball field on Monday, Dec. 11.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/mcs-dominates-hms-jv-29-9-in-boys-softball/article_cee45cb6-9ff4-11ee-b7af-7342aea5a81b.html">https://www.mvariety.com/sports/localsports/mcs-dominates-hms-jv-29-9-in-boys-softball/article_cee45cb6-9ff4-11ee-b7af-7342aea5a81b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/mcs-dominates-hms-jv-29-9-in-boys-softball/article_cee45cb6-9ff4-11ee-b7af-7342aea5a81b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Guardians, Team Legends eliminate foes, advance to semis
+
+date: 2023-12-21, updated: 2023-12-21, from: Marianas Variety
+
+THE Guardians and Team Legends have advanced to the semifinals of the Pacific Saipan Promo Invitational Basketball League after eliminating their respective opponents in the quarterfinal round at the Gualo Rai basketball court on Wednesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/guardians-team-legends-eliminate-foes-advance-to-semis/article_86d67508-9ff4-11ee-aeb8-abbca4170b04.html">https://www.mvariety.com/sports/localsports/guardians-team-legends-eliminate-foes-advance-to-semis/article_86d67508-9ff4-11ee-aeb8-abbca4170b04.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/guardians-team-legends-eliminate-foes-advance-to-semis/article_86d67508-9ff4-11ee-aeb8-abbca4170b04.html">Save to Pocket</a>
+</span>
+
+---
+
+## Slayers triumph over Rack N’ Roll, 11-2
+
+date: 2023-12-21, updated: 2023-12-21, from: Marianas Variety
+
+THE Black 8 Slayers are climbing up the ladder in the Tuesday division of the 2023 SBA Budweiser Open 8-Ball League after trouncing Black 8 Rack N’ Roll, 11-2, at the Black 8 Pool Bar on Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/slayers-triumph-over-rack-n-roll-11-2/article_4d9c972c-9ff4-11ee-ada0-7b777919ed94.html">https://www.mvariety.com/sports/localsports/slayers-triumph-over-rack-n-roll-11-2/article_4d9c972c-9ff4-11ee-ada0-7b777919ed94.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/slayers-triumph-over-rack-n-roll-11-2/article_4d9c972c-9ff4-11ee-ada0-7b777919ed94.html">Save to Pocket</a>
+</span>
+
+---
+
+## Bulls overwhelm Lakers with 8 double-figure scorers
+
+date: 2023-12-21, updated: 2023-12-21, from: Marianas Variety
+
+(Reuters) — DeMar DeRozan finished with a game-high 27 points and Coby White followed with 17 to lead eight scorers in double figures and lift the host Chicago Bulls to a 124-108 win against the Los Angeles Lakers on Wednesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/bulls-overwhelm-lakers-with-8-double-figure-scorers/article_ee334ae6-a00d-11ee-a177-2fc7ecbeb293.html">https://www.mvariety.com/sports/nationalsports/bulls-overwhelm-lakers-with-8-double-figure-scorers/article_ee334ae6-a00d-11ee-a177-2fc7ecbeb293.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/bulls-overwhelm-lakers-with-8-double-figure-scorers/article_ee334ae6-a00d-11ee-a177-2fc7ecbeb293.html">Save to Pocket</a>
+</span>
+
+---
+
+## Scientists discover five new species of hedgehogs
+
+date: 2023-12-21, from: The Guam Daily Post
+
+Researchers were able to identify different genetic lineages, which they later confirmed as distinct species.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/scientists-discover-five-new-species-of-hedgehogs/article_c055157e-85e9-5ef2-82b4-64783f924f99.html">https://www.postguam.com/news/national/scientists-discover-five-new-species-of-hedgehogs/article_c055157e-85e9-5ef2-82b4-64783f924f99.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/scientists-discover-five-new-species-of-hedgehogs/article_c055157e-85e9-5ef2-82b4-64783f924f99.html">Save to Pocket</a>
+</span>
+
+---
+
+## Lack of sleep increases symptoms of depression and anxiety: study
+
+date: 2023-12-21, from: The Guam Daily Post
+
+Scientists say sleep loss reduces positive moods and puts us at higher risk for anxiety symptoms.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/lifestyles/health/lack-of-sleep-increases-symptoms-of-depression-and-anxiety-study/article_a8b4ba12-9f0e-5867-b74a-97dc4eafcac6.html">https://www.postguam.com/lifestyles/health/lack-of-sleep-increases-symptoms-of-depression-and-anxiety-study/article_a8b4ba12-9f0e-5867-b74a-97dc4eafcac6.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/lifestyles/health/lack-of-sleep-increases-symptoms-of-depression-and-anxiety-study/article_a8b4ba12-9f0e-5867-b74a-97dc4eafcac6.html">Save to Pocket</a>
+</span>
+
+---
+
+## Homeowners reveal what they need to create their dream home
+
+date: 2023-12-21, from: The Guam Daily Post
+
+Eight in 10 said their home has been their greatest investment.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/homeowners-reveal-what-they-need-to-create-their-dream-home/article_f404eef5-f6cf-5c87-8090-c680d2240f78.html">https://www.postguam.com/news/national/homeowners-reveal-what-they-need-to-create-their-dream-home/article_f404eef5-f6cf-5c87-8090-c680d2240f78.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/homeowners-reveal-what-they-need-to-create-their-dream-home/article_f404eef5-f6cf-5c87-8090-c680d2240f78.html">Save to Pocket</a>
+</span>
+
+---
+
+## Social events Americans avoid due to skin flare-ups
+
+date: 2023-12-21, from: The Guam Daily Post
+
+Four in five adults said skin sensitivity significantly affects their confidence.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/lifestyles/health/social-events-americans-avoid-due-to-skin-flare-ups/article_a53bdb0d-aeb0-5578-8b71-286e4592cbb7.html">https://www.postguam.com/lifestyles/health/social-events-americans-avoid-due-to-skin-flare-ups/article_a53bdb0d-aeb0-5578-8b71-286e4592cbb7.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/lifestyles/health/social-events-americans-avoid-due-to-skin-flare-ups/article_a53bdb0d-aeb0-5578-8b71-286e4592cbb7.html">Save to Pocket</a>
+</span>
+
+---
+
+## Santa visit enjoyed in Majuro
+
+date: 2023-12-21, from: Marshal Islands Journal
+
+<p>Large numbers of people flocked to the streets over the weekend to witness the Chamber of Commerce&#8217;s 34th annual Christmas Parade. The parade started at Rita and came to a stop at Delap Park. An elderly Rita resident told the Journal that he always anticipates this yearly event. He stated that in the 1980s, the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/santa-visit-enjoyed-in-majuro/">Santa visit enjoyed in Majuro</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/santa-visit-enjoyed-in-majuro/">https://marshallislandsjournal.com/santa-visit-enjoyed-in-majuro/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/santa-visit-enjoyed-in-majuro/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘It’s possible to win’: Taitano seeks Greatest Baker title
+
+date: 2023-12-21, from: The Guam Daily Post
+
+Another baker with Guam roots has entered the challenge of The Greatest Baker competition presented this year by famous cake baker Buddy Valastro.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/island_life/it-s-possible-to-win-taitano-seeks-greatest-baker-title/article_5910bc72-9f87-11ee-9659-c7d3f243551d.html">https://www.postguam.com/island_life/it-s-possible-to-win-taitano-seeks-greatest-baker-title/article_5910bc72-9f87-11ee-9659-c7d3f243551d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/island_life/it-s-possible-to-win-taitano-seeks-greatest-baker-title/article_5910bc72-9f87-11ee-9659-c7d3f243551d.html">Save to Pocket</a>
+</span>
+
+---
+
+## Teen in custody in alleged threat to school
+
+date: 2023-12-21, from: The Guam Daily Post
+
+A 14-year-old male minor was taken into custody in connection to a social media threat allegedly made to Harvest Christian Academy last month.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/teen-in-custody-in-alleged-threat-to-school/article_681ae7e4-9fa8-11ee-83c9-4fddc9d2a304.html">https://www.postguam.com/news/local/teen-in-custody-in-alleged-threat-to-school/article_681ae7e4-9fa8-11ee-83c9-4fddc9d2a304.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/teen-in-custody-in-alleged-threat-to-school/article_681ae7e4-9fa8-11ee-83c9-4fddc9d2a304.html">Save to Pocket</a>
+</span>
+
+---
+
+## Defendant denies new charges in homicide
+
+date: 2023-12-21, from: The Guam Daily Post
+
+Jordan Michael Babauta pleaded not guilty to charges related to the slaying of Jason Susuico.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/defendant-denies-new-charges-in-homicide/article_39380c66-9ee2-11ee-a6b2-9f645904189b.html">https://www.postguam.com/news/local/defendant-denies-new-charges-in-homicide/article_39380c66-9ee2-11ee-a6b2-9f645904189b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/defendant-denies-new-charges-in-homicide/article_39380c66-9ee2-11ee-a6b2-9f645904189b.html">Save to Pocket</a>
+</span>
+
+---
+
+## GDOE: Teacher of the Year nominations being accepted
+
+date: 2023-12-21, from: The Guam Daily Post
+
+The Guam Department of Education is seeking nominations for the 2025 Teacher of the Year award, the department announced in a press release.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/gdoe-teacher-of-the-year-nominations-being-accepted/article_72b17626-9f91-11ee-92fc-272af1bac046.html">https://www.postguam.com/news/local/gdoe-teacher-of-the-year-nominations-being-accepted/article_72b17626-9f91-11ee-92fc-272af1bac046.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/gdoe-teacher-of-the-year-nominations-being-accepted/article_72b17626-9f91-11ee-92fc-272af1bac046.html">Save to Pocket</a>
+</span>
+
+---
+
+## Guam judge to preside over rape case
+
+date: 2023-12-21, from: The Guam Daily Post
+
+SAIPAN - After Commonwealth of the Northern Mariana Islands Presiding Judge Roberto C. Naraja informed the CNMI Supreme Court that all sitting judges on the CNMI Superior Court have recused themselves from the case, CNMI Chief Justice Alexandro Castro has…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/cnmi/guam-judge-to-preside-over-rape-case/article_07f54258-9f92-11ee-9051-93b2c838668c.html">https://www.postguam.com/news/cnmi/guam-judge-to-preside-over-rape-case/article_07f54258-9f92-11ee-9051-93b2c838668c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/cnmi/guam-judge-to-preside-over-rape-case/article_07f54258-9f92-11ee-9051-93b2c838668c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Rapist, burglar gets 16 years
+
+date: 2023-12-21, from: The Guam Daily Post
+
+A man will spend 16 years in prison for burglarizing a woman's home and raping her while holding a pair of scissors against her.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/rapist-burglar-gets-16-years/article_836c6668-9f9d-11ee-9965-4f906337a4eb.html">https://www.postguam.com/news/local/rapist-burglar-gets-16-years/article_836c6668-9f9d-11ee-9965-4f906337a4eb.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/rapist-burglar-gets-16-years/article_836c6668-9f9d-11ee-9965-4f906337a4eb.html">Save to Pocket</a>
+</span>
+
+---
+
+## Senate resolution urges governor to push tourism security program
+
+date: 2023-12-21, from: The Guam Daily Post
+
+SAIPAN - The Commonwealth of the Northern Mariana Islands Senate on Tuesday adopted Senate Joint Resolution 23-7, “respectfully requesting” that CNMI Gov. Arnold I. Palacios advocate for the increased security of the tourism industry while promoting economic recovery through the…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/cnmi/senate-resolution-urges-governor-to-push-tourism-security-program/article_28976de6-9f93-11ee-a0e2-e72a323c0d4d.html">https://www.postguam.com/news/cnmi/senate-resolution-urges-governor-to-push-tourism-security-program/article_28976de6-9f93-11ee-a0e2-e72a323c0d4d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/cnmi/senate-resolution-urges-governor-to-push-tourism-security-program/article_28976de6-9f93-11ee-a0e2-e72a323c0d4d.html">Save to Pocket</a>
+</span>
+
+---
+
+## Cannabis industry is growing, says official
+
+date: 2023-12-21, from: The Guam Daily Post
+
+SAIPAN - The cannabis industry in the Commonwealth of the Northern Mariana Islands generated $173,267 in application and license fees from fiscal year 2022 to the first two months of fiscal 2024, CNMI Cannabis Commission Managing Director Mikiotti Evangelista told…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/cnmi/cannabis-industry-is-growing-says-official/article_e99b0836-9f93-11ee-966b-0b2a7e70bf89.html">https://www.postguam.com/news/cnmi/cannabis-industry-is-growing-says-official/article_e99b0836-9f93-11ee-966b-0b2a7e70bf89.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/cnmi/cannabis-industry-is-growing-says-official/article_e99b0836-9f93-11ee-966b-0b2a7e70bf89.html">Save to Pocket</a>
+</span>
+
+---
+
+## Federal elections official visits Guam Election Commission
+
+date: 2023-12-21, from: The Guam Daily Post
+
+Thomas Hicks, a commissioner with the U.S. Election Assistance Commission, has been on Guam making observations and speaking to officials about election matters.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/federal-elections-official-visits-guam-election-commission/article_c113fe74-9faa-11ee-bee3-abf6fa0abf11.html">https://www.postguam.com/news/local/federal-elections-official-visits-guam-election-commission/article_c113fe74-9faa-11ee-bee3-abf6fa0abf11.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/federal-elections-official-visits-guam-election-commission/article_c113fe74-9faa-11ee-bee3-abf6fa0abf11.html">Save to Pocket</a>
+</span>
+
+---
+
+## Man is accused of attempted murder in Humåtak shooting
+
+date: 2023-12-21, from: The Guam Daily Post
+
+A man who turned himself in to police on Wednesday morning was arrested and has been charged with attempted murder.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/man-is-accused-of-attempted-murder-in-hum-tak-shooting/article_a04aee26-9fac-11ee-b651-ff9202cad637.html">https://www.postguam.com/news/local/man-is-accused-of-attempted-murder-in-hum-tak-shooting/article_a04aee26-9fac-11ee-b651-ff9202cad637.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/man-is-accused-of-attempted-murder-in-hum-tak-shooting/article_a04aee26-9fac-11ee-b651-ff9202cad637.html">Save to Pocket</a>
+</span>
+
+---
+
+## Behavioral Health: Designated driver holiday program launched
+
+date: 2023-12-21, from: The Guam Daily Post
+
+Revelers who decide to imbibe can enjoy the holiday season without worrying about getting pulled over, with a little help from the Safe Drive Home program.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/behavioral-health-designated-driver-holiday-program-launched/article_1a79ee4e-9fa4-11ee-8903-c7139ecdf483.html">https://www.postguam.com/news/local/behavioral-health-designated-driver-holiday-program-launched/article_1a79ee4e-9fa4-11ee-8903-c7139ecdf483.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/behavioral-health-designated-driver-holiday-program-launched/article_1a79ee4e-9fa4-11ee-8903-c7139ecdf483.html">Save to Pocket</a>
+</span>
+
+---
+
+## Public auditor finds issues with GPA, GWA, GVB credit card use
+
+date: 2023-12-21, from: The Guam Daily Post
+
+The Office of Public Accountability has published reports on the Guam Power Authority, the Guam Waterworks Authority and the Guam Visitors Bureau as part of a series of audits on governmentwide credit and debit card use.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/public-auditor-finds-issues-with-gpa-gwa-gvb-credit-card-use/article_b8ba28e4-9fb8-11ee-a0ec-5bffa1590451.html">https://www.postguam.com/news/local/public-auditor-finds-issues-with-gpa-gwa-gvb-credit-card-use/article_b8ba28e4-9fb8-11ee-a0ec-5bffa1590451.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/public-auditor-finds-issues-with-gpa-gwa-gvb-credit-card-use/article_b8ba28e4-9fb8-11ee-a0ec-5bffa1590451.html">Save to Pocket</a>
+</span>
+
+---
+
+## Shrinking Caspian Sea worries secretive Turkmenistan
+
+date: 2023-12-21, from: The Guam Daily Post
+
+On the Caspian Sea coast in Turkmenistan -- one of the world's most secretive states -- Batyr Yusupov can no longer ferry his passengers between two ports. There is not enough water.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/shrinking-caspian-sea-worries-secretive-turkmenistan/article_5775d50c-311f-5635-a582-e26f0f28c8e5.html">https://www.postguam.com/news/national/shrinking-caspian-sea-worries-secretive-turkmenistan/article_5775d50c-311f-5635-a582-e26f0f28c8e5.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/shrinking-caspian-sea-worries-secretive-turkmenistan/article_5775d50c-311f-5635-a582-e26f0f28c8e5.html">Save to Pocket</a>
+</span>
+
+---
+
+## Training for increasing tuna landings
+
+date: 2023-12-21, from: Marshal Islands Journal
+
+<p>The Food and Agriculture Organization (FAO) FISH4ACP program is working in close collaboration with MIMRA in support of the Marshall Islands strengthening its position as a tuna hub to create more jobs and income for the local economy. A key element of this fishery upgrading strategy is to increase containerization of frozen raw tuna for [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/training-for-increasing-tuna-landings/">Training for increasing tuna landings</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/training-for-increasing-tuna-landings/">https://marshallislandsjournal.com/training-for-increasing-tuna-landings/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/training-for-increasing-tuna-landings/">Save to Pocket</a>
+</span>
+
+---
+
+## GDOL head: feds may soon require closure of incomplete DUA claims
+
+date: 2023-12-21, from: The Guam Daily Post
+
+The next batch of Disaster Unemployment Assistance benefits, amounting to about $1.3 million, has been approved and is now being processed, according to a release from the Guam Department of Labor.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/gdol-head-feds-may-soon-require-closure-of-incomplete-dua-claims/article_1eeb13f4-9fd6-11ee-a3f4-f72fda9b3d84.html">https://www.postguam.com/news/local/gdol-head-feds-may-soon-require-closure-of-incomplete-dua-claims/article_1eeb13f4-9fd6-11ee-a3f4-f72fda9b3d84.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/gdol-head-feds-may-soon-require-closure-of-incomplete-dua-claims/article_1eeb13f4-9fd6-11ee-a3f4-f72fda9b3d84.html">Save to Pocket</a>
+</span>
+
+---
+
+## Spain braces for annual 'Fat One' Christmas lottery
+
+date: 2023-12-21, from: The Guam Daily Post
+
+Spain kicks off its festive period on Friday with the world's richest lottery, splashing prize money and festive cheer across the country.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/spain-braces-for-annual-fat-one-christmas-lottery/article_0970ca1a-daf8-5369-b3e7-1c83d5929c38.html">https://www.postguam.com/news/national/spain-braces-for-annual-fat-one-christmas-lottery/article_0970ca1a-daf8-5369-b3e7-1c83d5929c38.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/spain-braces-for-annual-fat-one-christmas-lottery/article_0970ca1a-daf8-5369-b3e7-1c83d5929c38.html">Save to Pocket</a>
+</span>
+
+---
+
+## 'I'm a Mandalay girl': teenage soldier fights on Myanmar's front lines
+
+date: 2023-12-21, from: The Guam Daily Post
+
+An 18-year-old recruit in one of Myanmar's pro-democracy fighting units prepares to launch a drone strike on junta troops, driven by anger and her mother’s call for revolution.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/im-a-mandalay-girl-teenage-soldier-fights-on-myanmars-front-lines/article_5de75bc4-71c4-52ed-aa3e-321f1b012bdf.html">https://www.postguam.com/news/national/im-a-mandalay-girl-teenage-soldier-fights-on-myanmars-front-lines/article_5de75bc4-71c4-52ed-aa3e-321f1b012bdf.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/im-a-mandalay-girl-teenage-soldier-fights-on-myanmars-front-lines/article_5de75bc4-71c4-52ed-aa3e-321f1b012bdf.html">Save to Pocket</a>
+</span>
+
+---
+
+## Belief and hope in the pub of one of Ireland's last faith healers
+
+date: 2023-12-21, from: The Guam Daily Post
+
+Joe Gallagher is one of Ireland's last traditional faith healers, whose pub is visited by believers from across the country hoping for a cure for aches and pains, warts and rashes.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/belief-and-hope-in-the-pub-of-one-of-irelands-last-faith-healers/article_ac27c9ea-a678-5ef6-beb3-fbeca54bcae2.html">https://www.postguam.com/news/national/belief-and-hope-in-the-pub-of-one-of-irelands-last-faith-healers/article_ac27c9ea-a678-5ef6-beb3-fbeca54bcae2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/belief-and-hope-in-the-pub-of-one-of-irelands-last-faith-healers/article_ac27c9ea-a678-5ef6-beb3-fbeca54bcae2.html">Save to Pocket</a>
+</span>
+
+---
+
+## Ski prices rise but skiers keep coming, for now
+
+date: 2023-12-21, from: The Guam Daily Post
+
+In the heart of the Austrian Alps, workers at the world's leading ski maker churn out pair after pair for international clients who are undeterred by the sport's snowballing costs.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/ski-prices-rise-but-skiers-keep-coming-for-now/article_b32ef407-4dca-54aa-9767-a8fbf06ece3c.html">https://www.postguam.com/news/national/ski-prices-rise-but-skiers-keep-coming-for-now/article_b32ef407-4dca-54aa-9767-a8fbf06ece3c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/ski-prices-rise-but-skiers-keep-coming-for-now/article_b32ef407-4dca-54aa-9767-a8fbf06ece3c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Fading colours: Bangladesh's threatened rickshaw art
+
+date: 2023-12-21, from: The Guam Daily Post
+
+Vibrant greens and swirling yellows, film stars, birds and architecture: Bangladesh's bicycle rickshaw drivers have for decades used their transport as a unique moving canvas of urban folk art.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/fading-colours-bangladeshs-threatened-rickshaw-art/article_368a7280-9b52-5e90-a628-a34eaafcab1c.html">https://www.postguam.com/news/national/fading-colours-bangladeshs-threatened-rickshaw-art/article_368a7280-9b52-5e90-a628-a34eaafcab1c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/fading-colours-bangladeshs-threatened-rickshaw-art/article_368a7280-9b52-5e90-a628-a34eaafcab1c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Unstoppable: Former addict, dropout prevails over Maui fire, job loss
+
+date: 2023-12-21, from: University of Hawaiʻi News
+
+<p>The Lahaina fire, job loss and drug addiction could not stop recent <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> graduate Miriam-Ashley Keo.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/20/former-addict-dropout-prevails-over-maui-fire-job-loss/">Unstoppable: Former addict, dropout prevails over Maui fire, job loss</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/20/former-addict-dropout-prevails-over-maui-fire-job-loss/">https://www.hawaii.edu/news/2023/12/20/former-addict-dropout-prevails-over-maui-fire-job-loss/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/20/former-addict-dropout-prevails-over-maui-fire-job-loss/">Save to Pocket</a>
+</span>
+
+---
+
+## Dogs, antennas and honey for Japan's big bear problem
+
+date: 2023-12-21, from: The Guam Daily Post
+
+Thousands of bears are being shot in Japan each year as they become more and more of a problem. Junpei Tanaka and his dog Rela, straining at her leash in the woods, have a kinder, smarter way.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/dogs-antennas-and-honey-for-japans-big-bear-problem/article_c947108f-94f1-5a5c-b7f5-b14ad82d589d.html">https://www.postguam.com/news/national/dogs-antennas-and-honey-for-japans-big-bear-problem/article_c947108f-94f1-5a5c-b7f5-b14ad82d589d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/dogs-antennas-and-honey-for-japans-big-bear-problem/article_c947108f-94f1-5a5c-b7f5-b14ad82d589d.html">Save to Pocket</a>
+</span>
+
+---
+
+## 13 cheers for CMI grads
+
+date: 2023-12-21, from: Marshal Islands Journal
+
+<p>WILMER JOELThirteen students from the College of the Marshall Islands bachelor’s in education program were honored at a dinner celebration earlier this month. The students are the sixth cohort to complete the program. Witnesses to the event included educators, friends, family, administrators from both public and private schools, and instructors at CMI. CMI instructor Alvin [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/13-cheers-for-cmi-grads/">13 cheers for CMI grads</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/13-cheers-for-cmi-grads/">https://marshallislandsjournal.com/13-cheers-for-cmi-grads/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/13-cheers-for-cmi-grads/">Save to Pocket</a>
+</span>
+
+---
+
+## 'Dying every two hours': Afghan women risk life to give birth
+
+date: 2023-12-21, from: The Guam Daily Post
+
+Zubaida travelled from the rural outskirts of Khost in eastern Afghanistan to give birth at a maternity hospital specialising in complicated cases, fearing a fate all too common among pregnant Afghan women -- her death or her child's.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/dying-every-two-hours-afghan-women-risk-life-to-give-birth/article_2cfb34ba-92d2-563c-98e3-27b7b7934dd2.html">https://www.postguam.com/news/national/dying-every-two-hours-afghan-women-risk-life-to-give-birth/article_2cfb34ba-92d2-563c-98e3-27b7b7934dd2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/dying-every-two-hours-afghan-women-risk-life-to-give-birth/article_2cfb34ba-92d2-563c-98e3-27b7b7934dd2.html">Save to Pocket</a>
+</span>
+
+---
+
+## Guam Visitors Bureau picks up the dinner tab for jet-setting officials and their  spouses 
+
+date: 2023-12-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Guam Visitors Bureau charged its corporate credit card for the dinner of seven agency officials’...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/guam-visitors-bureau-picks-up-the-dinner-tab-for-jet-setting-officials-and-their-spouses">https://www.pacificislandtimes.com/post/guam-visitors-bureau-picks-up-the-dinner-tab-for-jet-setting-officials-and-their-spouses</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/guam-visitors-bureau-picks-up-the-dinner-tab-for-jet-setting-officials-and-their-spouses">Save to Pocket</a>
+</span>
+
+---
+
+## Public health alerts issued about communicable disease spread tied to migrant crisis
+
+date: 2023-12-21, from: The Guam Daily Post
+
+(The Center Square) – Federal, state and city health departments have issued public health alerts about increases of communicable diseases as illegal border crossers arrive in their communities.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/public-health-alerts-issued-about-communicable-disease-spread-tied-to-migrant-crisis/article_91cc8387-80ce-5f63-8517-3554ac2f129e.html">https://www.postguam.com/news/national/public-health-alerts-issued-about-communicable-disease-spread-tied-to-migrant-crisis/article_91cc8387-80ce-5f63-8517-3554ac2f129e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/public-health-alerts-issued-about-communicable-disease-spread-tied-to-migrant-crisis/article_91cc8387-80ce-5f63-8517-3554ac2f129e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Can I Cash a Check at Any Bank or Check-Cashing Service?
+
+date: 2023-12-21, from: The Guam Daily Post
+
+Money transfer services like Zelle, Venmo and Cash App have risen in popularity, but there are still occasions where you might receive a paper check. If you don’t have a bank account or if you don’t currently have access to…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/can-i-cash-a-check-at-any-bank-or-check-cashing-service/article_5dbbe2ee-2b63-53f9-963c-16d42d786fdf.html">https://www.postguam.com/news/national/can-i-cash-a-check-at-any-bank-or-check-cashing-service/article_5dbbe2ee-2b63-53f9-963c-16d42d786fdf.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/can-i-cash-a-check-at-any-bank-or-check-cashing-service/article_5dbbe2ee-2b63-53f9-963c-16d42d786fdf.html">Save to Pocket</a>
+</span>
+
+---
+
+## Likiep tie: Wallace wins drawing
+
+date: 2023-12-21, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Likiep Nitijela election snapshot: The drawing of lots to determine which candidate will become a member of Nitijela Wednesday at the International Conference Center was more than a decider of who will lead Likiep Atoll in the coming four-year term. The display showcased the unique Marshallese culture where women hold the scepter as [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/likiep-tie-wallace-wins-drawing/">Likiep tie: Wallace wins drawing</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/likiep-tie-wallace-wins-drawing/">https://marshallislandsjournal.com/likiep-tie-wallace-wins-drawing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/likiep-tie-wallace-wins-drawing/">Save to Pocket</a>
+</span>
+
+---
+
+## N-POC concludes the year with another successful research support activity
+
+date: 2023-12-21, from: University of the South Pacific (Fiji)
+
+<p>As we approach the end of 2023, the Norway-Pacific Ocean-Climate Scholarship Programme (N-POC) Team at...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/n-poc-hosted-another-successful-research-support-activity/">N-POC concludes the year with another successful research support activity</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacfic</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/n-poc-hosted-another-successful-research-support-activity/">https://www.usp.ac.fj/news/n-poc-hosted-another-successful-research-support-activity/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/n-poc-hosted-another-successful-research-support-activity/">Save to Pocket</a>
+</span>
+
+---
+
+## U.S. Cities with Iconic New Year's Eve Celebrations
+
+date: 2023-12-20, from: The Guam Daily Post
+
+As 2023 draws close, cities across the United States are gearing up for a grand farewell.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/u-s-cities-with-iconic-new-years-eve-celebrations/article_85757eba-559b-5302-881b-692f2b09eb95.html">https://www.postguam.com/news/national/u-s-cities-with-iconic-new-years-eve-celebrations/article_85757eba-559b-5302-881b-692f2b09eb95.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/u-s-cities-with-iconic-new-years-eve-celebrations/article_85757eba-559b-5302-881b-692f2b09eb95.html">Save to Pocket</a>
+</span>
+
+---
+
+## “USP PACRES: Catalyzing Climate Resilience and Academic Excellence in the Pacific”
+
+date: 2023-12-20, from: University of the South Pacific (Fiji)
+
+<p>From January 2020 to June 2023, the Pacific Adaptation to Climate Change Resilience through Ecosystem-Based...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-pacres-catalyzing-climate-resilience-and-academic-excellence-in-the-pacific/">“USP PACRES: Catalyzing Climate Resilience and Academic Excellence in the Pacific&#8221;</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacfic</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/usp-pacres-catalyzing-climate-resilience-and-academic-excellence-in-the-pacific/">https://www.usp.ac.fj/news/usp-pacres-catalyzing-climate-resilience-and-academic-excellence-in-the-pacific/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/usp-pacres-catalyzing-climate-resilience-and-academic-excellence-in-the-pacific/">Save to Pocket</a>
+</span>
+
+---
+
+## Marica Togayali grateful for support from USP
+
+date: 2023-12-20, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) has been an integral part of Ms Marica...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/marica-togayali-grateful-for-support-from-usp/">Marica Togayali grateful for support from USP</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacfic</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/marica-togayali-grateful-for-support-from-usp/">https://www.usp.ac.fj/news/marica-togayali-grateful-for-support-from-usp/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/marica-togayali-grateful-for-support-from-usp/">Save to Pocket</a>
+</span>
+
+---
+
+## Opening of refurbished USP Savai’i Centre and Library
+
+date: 2023-12-20, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) Savai’i Centre in Samoa has officially opened its...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/opening-of-refurbished-usp-savaii-centre-and-library/">Opening of refurbished USP Savai’i Centre and Library</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacfic</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/opening-of-refurbished-usp-savaii-centre-and-library/">https://www.usp.ac.fj/news/opening-of-refurbished-usp-savaii-centre-and-library/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/opening-of-refurbished-usp-savaii-centre-and-library/">Save to Pocket</a>
+</span>
+
+---
+
+## Dow pulls back from record after weeks of gains
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Wall Street stocks tumbled Wednesday, ending the Dow's streak of five straight record closes in a move experts rated as unsurprising following weeks of gains.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/dow-pulls-back-from-record-after-weeks-of-gains/article_0dbb6bb9-2d30-5fad-8a43-56ded3ebc0b1.html">https://www.postguam.com/news/national/dow-pulls-back-from-record-after-weeks-of-gains/article_0dbb6bb9-2d30-5fad-8a43-56ded3ebc0b1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/dow-pulls-back-from-record-after-weeks-of-gains/article_0dbb6bb9-2d30-5fad-8a43-56ded3ebc0b1.html">Save to Pocket</a>
+</span>
+
+---
+
+## Taxman to waive nearly $1 billion in late-payment penalties
+
+date: 2023-12-20, from: The Guam Daily Post
+
+(The Center Square) – Americans who owe back taxes have a new reason to pay up after the Internal Revenue Service said it would waive nearly $1 billion in late-payment penalties.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/taxman-to-waive-nearly-1-billion-in-late-payment-penalties/article_f9da7b0b-34aa-5fa2-929c-0f9269a0452c.html">https://www.postguam.com/news/national/taxman-to-waive-nearly-1-billion-in-late-payment-penalties/article_f9da7b0b-34aa-5fa2-929c-0f9269a0452c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/taxman-to-waive-nearly-1-billion-in-late-payment-penalties/article_f9da7b0b-34aa-5fa2-929c-0f9269a0452c.html">Save to Pocket</a>
+</span>
+
+---
+
+## DR Congo extends voting after chaotic general election
+
+date: 2023-12-20, from: The Guam Daily Post
+
+DR Congo's election authorities said Wednesday night that voting would continue the following day in areas where voters could not cast ballots, after a general election marked by severe logistical problems and delays.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/dr-congo-extends-voting-after-chaotic-general-election/article_33e0194b-4777-5941-8d4c-ee459b1d92d1.html">https://www.postguam.com/news/national/dr-congo-extends-voting-after-chaotic-general-election/article_33e0194b-4777-5941-8d4c-ee459b1d92d1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/dr-congo-extends-voting-after-chaotic-general-election/article_33e0194b-4777-5941-8d4c-ee459b1d92d1.html">Save to Pocket</a>
+</span>
+
+---
+
+## These are the 15 states that received the most unaccompanied minors from the border
+
+date: 2023-12-20, from: The Guam Daily Post
+
+(The Center Square) – Of the 50 states, Washington, D.C., and U.S. territories that received unaccompanied alien children (UAC) primarily from the southern border, 15 received more than 10,000 since 2015.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/these-are-the-15-states-that-received-the-most-unaccompanied-minors-from-the-border/article_199cb9e5-5c65-5b15-8b26-68c187817ac6.html">https://www.postguam.com/news/national/these-are-the-15-states-that-received-the-most-unaccompanied-minors-from-the-border/article_199cb9e5-5c65-5b15-8b26-68c187817ac6.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/these-are-the-15-states-that-received-the-most-unaccompanied-minors-from-the-border/article_199cb9e5-5c65-5b15-8b26-68c187817ac6.html">Save to Pocket</a>
+</span>
+
+---
+
+## California to lose four Congressional seats after 2030 Census, TX and FL to gain
+
+date: 2023-12-20, from: The Guam Daily Post
+
+(The Center Square) – California is projected to lose four congressional seats after the 2030 Census, with Texas positioned to gain four and Florida to gain three, says the American Redistricting Project based on this week’s new Census data.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/california-to-lose-four-congressional-seats-after-2030-census-tx-and-fl-to-gain/article_241a00f5-4a86-5a9e-aab3-164db532506c.html">https://www.postguam.com/news/national/california-to-lose-four-congressional-seats-after-2030-census-tx-and-fl-to-gain/article_241a00f5-4a86-5a9e-aab3-164db532506c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/california-to-lose-four-congressional-seats-after-2030-census-tx-and-fl-to-gain/article_241a00f5-4a86-5a9e-aab3-164db532506c.html">Save to Pocket</a>
+</span>
+
+---
+
+## New Mexico launches wastewater drug testing for high schools finds coke, fentanyl
+
+date: 2023-12-20, from: The Guam Daily Post
+
+(The Center Square) - New Mexico released its first set of wastewater drug test results at public high schools on the Wastewater Drug Monitoring Dashboard this week. According to The Wall Street Journal, New Mexico appears to be the first…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/new-mexico-launches-wastewater-drug-testing-for-high-schools-finds-coke-fentanyl/article_4d364ea3-0369-5ca3-a2ec-633dad00d606.html">https://www.postguam.com/news/national/new-mexico-launches-wastewater-drug-testing-for-high-schools-finds-coke-fentanyl/article_4d364ea3-0369-5ca3-a2ec-633dad00d606.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/new-mexico-launches-wastewater-drug-testing-for-high-schools-finds-coke-fentanyl/article_4d364ea3-0369-5ca3-a2ec-633dad00d606.html">Save to Pocket</a>
+</span>
+
+---
+
+## Backlash erupts over Colorado court kicking Trump off 2024 ballot
+
+date: 2023-12-20, from: The Guam Daily Post
+
+(The Center Square) – The Colorado Supreme Court ruling Tuesday that former President Donald Trump could not appear on the 2024 presidential ballot has launched a wave of backlash with many saying it will help Trump electorally.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/backlash-erupts-over-colorado-court-kicking-trump-off-2024-ballot/article_d6c6d8e3-8143-5e14-94cc-0863cbc17d38.html">https://www.postguam.com/news/national/backlash-erupts-over-colorado-court-kicking-trump-off-2024-ballot/article_d6c6d8e3-8143-5e14-94cc-0863cbc17d38.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/backlash-erupts-over-colorado-court-kicking-trump-off-2024-ballot/article_d6c6d8e3-8143-5e14-94cc-0863cbc17d38.html">Save to Pocket</a>
+</span>
+
+---
+
+## Homeland Security chair planning impeachment charges against Mayorkas, worries about terrorist attack
+
+date: 2023-12-20, from: The Guam Daily Post
+
+(The Center Square) – U.S. House Homeland Security Committee Chairman Mark Green, R-Tenn., says he is worried about a potential terrorist attack on U.S. soil and plans to bring articles of impeachment against U.S. Department of Homeland Security Secretary Alejandro…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/homeland-security-chair-planning-impeachment-charges-against-mayorkas-worries-about-terrorist-attack/article_eab88646-fc43-53c1-a7ca-a0a7ed211874.html">https://www.postguam.com/news/national/homeland-security-chair-planning-impeachment-charges-against-mayorkas-worries-about-terrorist-attack/article_eab88646-fc43-53c1-a7ca-a0a7ed211874.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/homeland-security-chair-planning-impeachment-charges-against-mayorkas-worries-about-terrorist-attack/article_eab88646-fc43-53c1-a7ca-a0a7ed211874.html">Save to Pocket</a>
+</span>
+
+---
+
+## How having the rare inability to burp impacts quality of life
+
+date: 2023-12-20, from: The Guam Daily Post
+
+The inability to burp is caused by the failure of a muscle in the throat to relax to allow the outward passage of gas.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/lifestyles/health/how-having-the-rare-inability-to-burp-impacts-quality-of-life/article_e5656850-46f3-5c2a-84d0-d4d86576a3de.html">https://www.postguam.com/lifestyles/health/how-having-the-rare-inability-to-burp-impacts-quality-of-life/article_e5656850-46f3-5c2a-84d0-d4d86576a3de.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/lifestyles/health/how-having-the-rare-inability-to-burp-impacts-quality-of-life/article_e5656850-46f3-5c2a-84d0-d4d86576a3de.html">Save to Pocket</a>
+</span>
+
+---
+
+## Facebook facade? Study finds people aren’t themselves on social media
+
+date: 2023-12-20, from: The Guam Daily Post
+
+A study found that posts are often isolated and lack context which can result in false perceptions.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/facebook-facade-study-finds-people-aren-t-themselves-on-social-media/article_bad5930f-3df5-53a4-8f1c-2733ddc6669d.html">https://www.postguam.com/news/national/facebook-facade-study-finds-people-aren-t-themselves-on-social-media/article_bad5930f-3df5-53a4-8f1c-2733ddc6669d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/facebook-facade-study-finds-people-aren-t-themselves-on-social-media/article_bad5930f-3df5-53a4-8f1c-2733ddc6669d.html">Save to Pocket</a>
+</span>
+
+---
+
+## UN Security Council Gaza vote postponed again
+
+date: 2023-12-20, from: The Guam Daily Post
+
+A UN Security Council vote on a much-delayed resolution calling for a pause to the Israel-Hamas war was postponed again Wednesday as members wrangled over wording while the death toll in Gaza continued climbing.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/un-security-council-gaza-vote-postponed-again/article_e08d0b45-2ec1-5542-a53b-9da66fb81850.html">https://www.postguam.com/news/national/un-security-council-gaza-vote-postponed-again/article_e08d0b45-2ec1-5542-a53b-9da66fb81850.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/un-security-council-gaza-vote-postponed-again/article_e08d0b45-2ec1-5542-a53b-9da66fb81850.html">Save to Pocket</a>
+</span>
+
+---
+
+## Graduate grows exponentially, feels empowered thanks to UH
+
+date: 2023-12-20, from: University of Hawaiʻi News
+
+<p>Maria Lujan Achirica was the student speaker at <abbr>UH</abbr> Mānoa’s fall 2023 commencement.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/20/manoa-grad-maria-lujan-achirica/">Graduate grows exponentially, feels empowered thanks to <abbr>UH</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/20/manoa-grad-maria-lujan-achirica/">https://www.hawaii.edu/news/2023/12/20/manoa-grad-maria-lujan-achirica/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/20/manoa-grad-maria-lujan-achirica/">Save to Pocket</a>
+</span>
+
+---
+
+## US electric scooter company Bird files for bankruptcy
+
+date: 2023-12-20, from: The Guam Daily Post
+
+US electric scooter rental company Bird announced Wednesday that it filed for bankruptcy protection as the once-hot startup reorganizes itself.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/us-electric-scooter-company-bird-files-for-bankruptcy/article_dba0206e-c1a4-5e4e-b4a3-18936a9d66b8.html">https://www.postguam.com/news/national/us-electric-scooter-company-bird-files-for-bankruptcy/article_dba0206e-c1a4-5e4e-b4a3-18936a9d66b8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/us-electric-scooter-company-bird-files-for-bankruptcy/article_dba0206e-c1a4-5e4e-b4a3-18936a9d66b8.html">Save to Pocket</a>
+</span>
+
+---
+
+## California official urged to explore removing Trump from primary ballot
+
+date: 2023-12-20, from: The Guam Daily Post
+
+(The Center Square) – California lieutenant governor Eleni Kounalakis urged state secretary Shirley Weber to “explore every legal option” to remove former president Donald Trump from the 2024 primary ballot, claiming “California must stand on the right side of history,”…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/california-official-urged-to-explore-removing-trump-from-primary-ballot/article_4d3f7259-d3f2-5903-959f-1370898d420e.html">https://www.postguam.com/news/national/california-official-urged-to-explore-removing-trump-from-primary-ballot/article_4d3f7259-d3f2-5903-959f-1370898d420e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/california-official-urged-to-explore-removing-trump-from-primary-ballot/article_4d3f7259-d3f2-5903-959f-1370898d420e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Polish state media bosses sacked, populists occupy TV buildings
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Poland's pro-EU government on Wednesday launched a reform of state media and sacked their management, as right-wing lawmakers staged a sit-in to protest the changes and public broadcasts were interrupted.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/polish-state-media-bosses-sacked-populists-occupy-tv-buildings/article_194724b5-c294-5a10-80bf-9bf9ed4f1c50.html">https://www.postguam.com/news/national/polish-state-media-bosses-sacked-populists-occupy-tv-buildings/article_194724b5-c294-5a10-80bf-9bf9ed4f1c50.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/polish-state-media-bosses-sacked-populists-occupy-tv-buildings/article_194724b5-c294-5a10-80bf-9bf9ed4f1c50.html">Save to Pocket</a>
+</span>
+
+---
+
+## EU strikes budget reform deal after two-year wrangle
+
+date: 2023-12-20, from: The Guam Daily Post
+
+The EU agreed reforms Wednesday that will loosen budget rules with the goal of encouraging investments while keeping debt and spending under control, after France and Germany bridged their differences.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/eu-strikes-budget-reform-deal-after-two-year-wrangle/article_3cc0f878-b567-59c5-8436-367a467a20d7.html">https://www.postguam.com/news/national/eu-strikes-budget-reform-deal-after-two-year-wrangle/article_3cc0f878-b567-59c5-8436-367a467a20d7.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/eu-strikes-budget-reform-deal-after-two-year-wrangle/article_3cc0f878-b567-59c5-8436-367a467a20d7.html">Save to Pocket</a>
+</span>
+
+---
+
+## Groups urge reopening of southern border rail crossing closed due to smugglers
+
+date: 2023-12-20, from: The Guam Daily Post
+
+(The Center Square) – A coalition of business associations from 17 U.S. states are urging for a rail line along a highly trafficked area of the southern U.S. border to be opened back up.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/groups-urge-reopening-of-southern-border-rail-crossing-closed-due-to-smugglers/article_f83f5a53-22a9-5dd0-ac02-c5689eb15897.html">https://www.postguam.com/news/national/groups-urge-reopening-of-southern-border-rail-crossing-closed-due-to-smugglers/article_f83f5a53-22a9-5dd0-ac02-c5689eb15897.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/groups-urge-reopening-of-southern-border-rail-crossing-closed-due-to-smugglers/article_f83f5a53-22a9-5dd0-ac02-c5689eb15897.html">Save to Pocket</a>
+</span>
+
+---
+
+## Blinken hopes for progress on Gaza at UN Security Council
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Secretary of State Antony Blinken voiced guarded hope Wednesday that the United States would be able to support a new UN Security Council resolution on Gaza, with a sticking point on access for aid.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/blinken-hopes-for-progress-on-gaza-at-un-security-council/article_23500148-1224-5974-be47-e61d380bc719.html">https://www.postguam.com/news/national/blinken-hopes-for-progress-on-gaza-at-un-security-council/article_23500148-1224-5974-be47-e61d380bc719.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/blinken-hopes-for-progress-on-gaza-at-un-security-council/article_23500148-1224-5974-be47-e61d380bc719.html">Save to Pocket</a>
+</span>
+
+---
+
+## UH News Images of the Week: Congrats fall 2023 grads!
+
+date: 2023-12-20, from: University of Hawaiʻi News
+
+<p>This week’s image is from the University of <span aria-label="Hawaii">Hawai&#699;i</span> at Mānoa fall 2023 commencement.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/20/uh-news-image-of-the-week-congrats-fall-2023-grads/"><abbr>UH</abbr> News Images of the Week: Congrats fall 2023 grads!</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/20/uh-news-image-of-the-week-congrats-fall-2023-grads/">https://www.hawaii.edu/news/2023/12/20/uh-news-image-of-the-week-congrats-fall-2023-grads/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/20/uh-news-image-of-the-week-congrats-fall-2023-grads/">Save to Pocket</a>
+</span>
+
+---
+
+## Biden says Trump 'certainly supported an insurrection'
+
+date: 2023-12-20, from: The Guam Daily Post
+
+US President Joe Biden said Wednesday that Donald Trump had clearly backed an insurrection after Colorado's top court blocked the Republican from seeking a second term over the 2021 Capitol assault.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/biden-says-trump-certainly-supported-an-insurrection/article_191efc40-15db-5334-b6ae-918eb80ae301.html">https://www.postguam.com/news/national/biden-says-trump-certainly-supported-an-insurrection/article_191efc40-15db-5334-b6ae-918eb80ae301.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/biden-says-trump-certainly-supported-an-insurrection/article_191efc40-15db-5334-b6ae-918eb80ae301.html">Save to Pocket</a>
+</span>
+
+---
+
+## Icelandic volcano eruption eases as evacuated village remains off-limits
+
+date: 2023-12-20, from: The Guam Daily Post
+
+A volcanic eruption that rocked Iceland this week diminished in intensity for a second day Wednesday, though media reports said a nearby evacuated fishing village would remain off limits for at least another week.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/icelandic-volcano-eruption-eases-as-evacuated-village-remains-off-limits/article_7864a822-80d4-5837-9a70-8941644e9b6f.html">https://www.postguam.com/news/national/icelandic-volcano-eruption-eases-as-evacuated-village-remains-off-limits/article_7864a822-80d4-5837-9a70-8941644e9b6f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/icelandic-volcano-eruption-eases-as-evacuated-village-remains-off-limits/article_7864a822-80d4-5837-9a70-8941644e9b6f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Hopes rise for Israel-Hamas truce deal as Gaza toll hits 20,000
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Hopes rose Wednesday that Israel and Hamas may be inching toward another truce and hostage-release deal in the Gaza war, following talks in Europe and a visit to Egypt by the head of the Palestinian militant group.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/hopes-rise-for-israel-hamas-truce-deal-as-gaza-toll-hits-20-000/article_e8601e92-5a72-57f9-bcff-8d74f830a229.html">https://www.postguam.com/news/national/hopes-rise-for-israel-hamas-truce-deal-as-gaza-toll-hits-20-000/article_e8601e92-5a72-57f9-bcff-8d74f830a229.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/hopes-rise-for-israel-hamas-truce-deal-as-gaza-toll-hits-20-000/article_e8601e92-5a72-57f9-bcff-8d74f830a229.html">Save to Pocket</a>
+</span>
+
+---
+
+## UK teens found guilty of killing trans girl
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Two British teenagers were found guilty Wednesday of the "disturbing" murder of a 16-year-old transgender girl who died in a "frenzied and ferocious" knife attack.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/uk-teens-found-guilty-of-killing-trans-girl/article_d4d76afb-1b9e-5742-988b-eb98ca6d9b12.html">https://www.postguam.com/news/national/uk-teens-found-guilty-of-killing-trans-girl/article_d4d76afb-1b9e-5742-988b-eb98ca6d9b12.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/uk-teens-found-guilty-of-killing-trans-girl/article_d4d76afb-1b9e-5742-988b-eb98ca6d9b12.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -926,7 +1809,7 @@ date: 2023-12-19, from: Island Times
 
 date: 2023-12-19, from: Island Times
 
-<p>KOROR, Palau (AP) — The Palau Appellate Court has affirmed the conviction of former police officer Jonnie Ngeluk for theft of government property, rejecting her claims of lacking criminal intent. Ngeluk, a former police lieutenant, was found guilty in December 2022 of stealing mobile lab equipment and promotional materials. She was sentenced to four years [&#8230;]</p>
+<p>KOROR, Palau — The Palau Appellate Court has affirmed the conviction of former police officer Jonnie Ngeluk for theft of government property, rejecting her claims of lacking criminal intent. Ngeluk, a former police lieutenant, was found guilty in December 2022 of stealing mobile lab equipment and promotional materials. She was sentenced to four years of [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/appellate-court-upholds-theft-conviction-of-former-palau-police-officer/">Appellate Court Upholds Theft Conviction of Former Palau Police Officer</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
 
 
@@ -1134,6 +2017,20 @@ date: 2023-12-19, from: FSM Public Information Office (Simina Administration)
 
 <span class="feed-item-link">
 <a href="https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/771-59th-international-coconut-community?Itemid=177">https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/771-59th-international-coconut-community?Itemid=177</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/771-59th-international-coconut-community?Itemid=177">Save to Pocket</a>
+</span>
+
+---
+
+## USP Postgrad Experiences: Research Associate Milena Söhnen
+
+date: 2023-12-19, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) attracts upcoming academics from across the globe, and...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-postgrad-experiences-research-associate-milena-sohnen/">USP Postgrad Experiences: Research Associate Milena Söhnen</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacfic</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/usp-postgrad-experiences-research-associate-milena-sohnen/">https://www.usp.ac.fj/news/usp-postgrad-experiences-research-associate-milena-sohnen/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/usp-postgrad-experiences-research-associate-milena-sohnen/">Save to Pocket</a>
 </span>
 
 ---

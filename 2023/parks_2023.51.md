@@ -1,11 +1,54 @@
 ---
 title: parks 2023.51
-updated: 2023-12-20 20:16:39
+updated: 2023-12-21 10:52:39
 ---
 
 # parks 2023.51
 
-(date: 2023-12-20 20:16:39)
+(date: 2023-12-21 10:52:39)
+
+---
+
+## BLM welcomes hikers to visit newly restored historic Punta Gorda Light Station
+
+date: 2023-12-20, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2023-12/53408591998_539405dec1_w.jpg?h=3b5d1417&itok=JDDOyHq0" width="150" height="100" alt="A white light house and fog signal building on the coast." typeof="foaf:Image" /></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="13cb9b72-5ca5-4d97-81df-d92e7a1d2f1f" data-langcode="en" class="align-left embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-12/53408591998_539405dec1_w.jpg?itok=aX8l5iVS" width="400" height="300" alt="A white light house and fog signal building on the coast." typeof="foaf:Image" /></div>
+      
+</div>
+</div>
+<p>ARCATA, Calif.  –  The Bureau of Land Management has completed restoration of the 114-year-old Punta Gorda Light Station overlooking the Pacific Coast along the Lost Coast Trail south of Eureka. The rehabilitation project was partially funded by $2.8 million received through the Great American Outdoors Act.</p>
+
+<p>In addition to restoring the scenic quality of the two-story lighthouse and adjacent oil house, renovations included repairing railings and replacing a spiral stairway leading to the lighthouse lantern room and deck. The project was planned and supervised by a team of BLM Arcata Field Office staff members with expertise ranging from engineering to wildlife biology.</p>
+
+<p>“A challenging aspect was completing the work without disturbing a colony of northern elephant seals and harbor seals protected by the Marine Mammal Protection Act,” said Paul Sever, manager of the BLM King Range National Conservation Area. “We had a four-month window of work time and monitored the seals constantly for any sign of disturbance. We were happy to see that the seals tolerated our project well.”</p>
+
+<p>The light station, a beacon for ship navigation, was built in 1910. Its light was fueled by oil stored in the nearby and now-restored oil house. The station also included housing and other wooden structures. The light station was deactivated in 1951 and the Fresnel lens used to cast the lighthouse beam far out to sea was removed. The station was placed on the National Register of Historic Places in 1976.  </p>
+
+<p>The light station is near the Mattole Trailhead at the north end of the King Range National Conservation Area, near the community of Petrolia. Hiking to the site requires planning and caution due to creek crossings, a trail section that is only passable at low tide, and the potential for unpredictably high waves. Information on day hiking to the site and backpacking the Lost Coast Trail safely is available from the BLM King Range Office at 707-986-5400.<br />
+ </p>
+</div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/press-release/blm-welcomes-hikers-visit-newly-restored-historic-punta-gorda-light-station">https://www.blm.gov/press-release/blm-welcomes-hikers-visit-newly-restored-historic-punta-gorda-light-station</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/press-release/blm-welcomes-hikers-visit-newly-restored-historic-punta-gorda-light-station">Save to Pocket</a>
+</span>
 
 ---
 

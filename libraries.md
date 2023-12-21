@@ -1,11 +1,38 @@
 ---
 title: libraries 2023.51
-updated: 2023-12-20 20:16:39
+updated: 2023-12-21 10:52:39
 ---
 
 # libraries 2023.51
 
-(date: 2023-12-20 20:16:39)
+(date: 2023-12-21 10:52:39)
+
+---
+
+## Guest Post — Scholarly Social: Findings from the SSP Social Media Survey
+
+date: 2023-12-21, from: Scholarly Kitchen
+
+<p>Results from the SSP survey on the changing nature of social media use by publishers, research societies, libraries, vendors, and others in our community.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2023/12/21/guest-post-scholarly-social-findings-from-the-ssp-social-media-survey/">Guest Post &#8212; Scholarly Social: Findings from the SSP Social Media Survey</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2023/12/21/guest-post-scholarly-social-findings-from-the-ssp-social-media-survey/">https://scholarlykitchen.sspnet.org/2023/12/21/guest-post-scholarly-social-findings-from-the-ssp-social-media-survey/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2023/12/21/guest-post-scholarly-social-findings-from-the-ssp-social-media-survey/">Save to Pocket</a>
+</span>
+
+---
+
+## Does Artificial Intelligence have hallucinations?
+
+date: 2023-12-20, from: SciELO in Perspective
+
+<p>AI applications have demonstrated impressive capabilities, including the generation of very fluent and convincing responses. However, LLMs, chatbots, and the like, are known for their ability to generate non-objective or nonsensical statements, more commonly known as "hallucinations." Could it be that they are on drugs? Available in Spanish only. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/es/2023/12/20/es-que-la-inteligencia-artificial-tiene-alucinaciones/#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/es/2023/12/20/es-que-la-inteligencia-artificial-tiene-alucinaciones/#new_tab">Does Artificial Intelligence have <em>hallucinations</em>?</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>
+
+<span class="feed-item-link">
+<a href="https://blog.scielo.org/es/2023/12/20/es-que-la-inteligencia-artificial-tiene-alucinaciones/#new_tab">https://blog.scielo.org/es/2023/12/20/es-que-la-inteligencia-artificial-tiene-alucinaciones/#new_tab</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.scielo.org/es/2023/12/20/es-que-la-inteligencia-artificial-tiene-alucinaciones/#new_tab">Save to Pocket</a>
+</span>
 
 ---
 

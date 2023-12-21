@@ -1,11 +1,100 @@
 ---
 title: writing 2023.51
-updated: 2023-12-20 20:16:39
+updated: 2023-12-21 10:52:38
 ---
 
 # writing 2023.51
 
-(date: 2023-12-20 20:16:39)
+(date: 2023-12-21 10:52:38)
+
+---
+
+## Ian Mond Reviews Dragon Palace by Hiromi Kawakami
+
+date: 2023-12-21, from: Locus Magazine
+
+<p><strong>Dragon Palace</strong>, Hiromi Kawakami (Stone Bridge Press 978-1-73762-535-3, $18.95, 160pp, tp) September 2023.</p>
+<p>In my review of David Connor’s debut <strong>Oh God, The Sun Goes, </strong>I referred to what I’m now call­ing the “absurdist sweet spot,” those stories that blend the poignant with the surreal. One author who I said hit that sweet spot is Japanese writer Hiromi Kawakami, whose previous collection to be translated into English, <strong>People from </strong> <a href="https://locusmag.com/2023/12/ian-mond-reviews-dragon-palace-by-hiromi-kawakami/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/ian-mond-reviews-dragon-palace-by-hiromi-kawakami/">https://locusmag.com/2023/12/ian-mond-reviews-dragon-palace-by-hiromi-kawakami/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/ian-mond-reviews-dragon-palace-by-hiromi-kawakami/">Save to Pocket</a>
+</span>
+
+---
+
+## Things Short Stories Did and Didn’t Teach Me About Writing and Selling Novels by José Pablo Iriarte
+
+date: 2023-12-21, from: Locus Magazine
+
+<p>When I give presentations to aspiring writers – particularly presentations on writing and selling short stories – I’m always careful to emphasize that short stories are no longer the apprenticeship into the novel world that they once were. I know plenty of folks who have sold science fiction and fantasy novels without ever having bothered with shorts.</p>
+<p>That said, short fiction did kind of func­tion as a proving and learning  <a href="https://locusmag.com/2023/12/things-short-stories-did-and-didnt-teach-me-about-writing-and-selling-novels-by-jose-pablo-iriarte/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/things-short-stories-did-and-didnt-teach-me-about-writing-and-selling-novels-by-jose-pablo-iriarte/">https://locusmag.com/2023/12/things-short-stories-did-and-didnt-teach-me-about-writing-and-selling-novels-by-jose-pablo-iriarte/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/things-short-stories-did-and-didnt-teach-me-about-writing-and-selling-novels-by-jose-pablo-iriarte/">Save to Pocket</a>
+</span>
+
+---
+
+## High Evolutionary: Arley Sorg and Josh Pearce Discuss Teenage Mutant Ninja Turtles: Mutant Mayhem
+
+date: 2023-12-20, from: Locus Magazine
+
+<p>Since their inception in the &#8217;80s the Teenage Mutant Ninja Turtles have seen many iterations, most of them unremarkable. This one is more than a basic rehash or cash grab; it is, perhaps, a geek love letter, wearing a spike belt and a chain necklace. The broad strokes are familiar (you know: turtles, radiation, mutation, and villains). But these strokes are rendered with interesting details that infuse what could have  <a href="https://locusmag.com/2023/12/high-evolutionary-arley-sorg-and-josh-pearce-discuss-teenage-mutant-ninja-turtles-mutant-mayhem/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/high-evolutionary-arley-sorg-and-josh-pearce-discuss-teenage-mutant-ninja-turtles-mutant-mayhem/">https://locusmag.com/2023/12/high-evolutionary-arley-sorg-and-josh-pearce-discuss-teenage-mutant-ninja-turtles-mutant-mayhem/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/high-evolutionary-arley-sorg-and-josh-pearce-discuss-teenage-mutant-ninja-turtles-mutant-mayhem/">Save to Pocket</a>
+</span>
+
+---
+
+## SLF Call for Illustration of the Year
+
+date: 2023-12-20, from: Locus Magazine
+
+<p>The Speculative Literature Foundation (SLF) has announced an open call for &#8220;original artwork combining fantasy and science fiction themes to be featured as its 2024 Illustration of the Year.&#8221;</p>
+<p>The deadline for submissions is December 31, 2023, later than previously announced. The winner, to be announced in January 2024, will receive $750, and the winning artwork will be featured on the SLF website and social media.</p>
+<p>For more information, including  <a href="https://locusmag.com/2023/12/slf-call-for-illustration-of-the-year/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/slf-call-for-illustration-of-the-year/">https://locusmag.com/2023/12/slf-call-for-illustration-of-the-year/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/slf-call-for-illustration-of-the-year/">Save to Pocket</a>
+</span>
+
+---
+
+## Japanese SF Awards Finalists
+
+date: 2023-12-20, from: Locus Magazine
+
+<p>The Science Fiction and Fantasy Writers of Japan (SFWJ) have announced the finalists for the 44th Japanese SF Awards:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>プロトコル・オブ・ヒューマニティ </strong>[Protocol of Humanity], Satoshi Hase (Hayakawa Shobō)</li>
+<li><strong>わたしたちの怪獣 </strong>[Our Monster], Mikihiko Hisanaga (Tokyo Sogensha)</li>
+<li><strong>回樹 </strong>[Kaiki], Yuki Shashindo (Hayakawa Shobō)</li>
+<li><strong>グラーフ・ツェッペリン あの夏の飛行船 </strong>[Graf Zeppelin: The Airship of That Summer], Fumio Takano (Hayakawa Shobō)</li>
+<li><strong>アブソルート・コールド </strong>[Absolute Cold], Mitsunori Yuki (Hayakawa Shobō)</li>
+</ul>
+</div>
+<p>Finalists were selected by SFWJ members. The winner will be  <a href="https://locusmag.com/2023/12/japanese-sf-awards-finalists/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/japanese-sf-awards-finalists/">https://locusmag.com/2023/12/japanese-sf-awards-finalists/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/japanese-sf-awards-finalists/">Save to Pocket</a>
+</span>
+
+---
+
+## Write On: 'Air' Writer Alex Convery
+
+date: 2023-12-20, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-air-writer-alex-convery" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Air%20Writer%20Alex%20Convery.png" alt="Write On: Air Writer Alex Convery" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>The film&nbsp;</span><em><span>Air</span></em><span>&nbsp;was released in <a href="https://blog.finaldraft.com/air-screenwriter-shares-what-made-his-spec-script-rise-above-the-rest">theaters back in April</a> – right before the WGA Writer's Strike. It tells the story of how the iconic partnership between Nike shoes and basketball player Michael Jordan came to be way back in 1984. It’s one of those partnerships that really wasn’t supposed to happen, but when it did, it changed the world of sports marketing forever.</span></p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/write-on-air-writer-alex-convery">https://blog.finaldraft.com/write-on-air-writer-alex-convery</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/write-on-air-writer-alex-convery">Save to Pocket</a>
+</span>
 
 ---
 
