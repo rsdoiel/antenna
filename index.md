@@ -20,7 +20,5 @@ to promote their content. Right now Antenna is build the following lists
 
 All the feed items are responsibility of the organizations that publish the feed. My choice is the specific feeds I select for my aggregation.
 
-not run every day.
-
 To read more about this experiment in the [README](README.md) file.
 
