@@ -1,11 +1,1168 @@
 ---
 title: pacific 2023.51
-updated: 2023-12-18 11:08:57
+updated: 2023-12-20 17:21:40
 ---
 
 # pacific 2023.51
 
-(date: 2023-12-18 11:08:57)
+(date: 2023-12-20 17:21:40)
+
+---
+
+## 3 Hotel Chains With Top-Tier Amenities and No Resort Fees
+
+date: 2023-12-20, from: The Guam Daily Post
+
+President Joe Biden has recently put a spotlight on resort fees, calling on Congress to pass a Junk Fee Prevention Act. This would crack down on various types of “junk fees,” such as service fees for concert tickets, early termination…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/3-hotel-chains-with-top-tier-amenities-and-no-resort-fees/article_651b5f1f-aa65-52c4-931a-a0d6a15b8a34.html">https://www.postguam.com/news/national/3-hotel-chains-with-top-tier-amenities-and-no-resort-fees/article_651b5f1f-aa65-52c4-931a-a0d6a15b8a34.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/3-hotel-chains-with-top-tier-amenities-and-no-resort-fees/article_651b5f1f-aa65-52c4-931a-a0d6a15b8a34.html">Save to Pocket</a>
+</span>
+
+---
+
+## World’s most common insects dying off and being replaced by invasive species
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Researchers believe that the declines are likely linked to recent human-related impacts.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/world-s-most-common-insects-dying-off-and-being-replaced-by-invasive-species/article_49843beb-ae17-55b3-90e6-74d9562cbb7b.html">https://www.postguam.com/news/national/world-s-most-common-insects-dying-off-and-being-replaced-by-invasive-species/article_49843beb-ae17-55b3-90e6-74d9562cbb7b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/world-s-most-common-insects-dying-off-and-being-replaced-by-invasive-species/article_49843beb-ae17-55b3-90e6-74d9562cbb7b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Disney World Costs for a Family of 4 Might Surprise You
+
+date: 2023-12-20, from: The Guam Daily Post
+
+A Disney family vacation certainly isn’t cheap. The average cost for a family of four to Disney World can easily top $6,000 for a seven-night trip, and that’s if you’re a frugal traveler. But a weeklong family trip to Disney…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/disney-world-costs-for-a-family-of-4-might-surprise-you/article_5014ea19-a56b-572b-9ebb-022426461e77.html">https://www.postguam.com/news/national/disney-world-costs-for-a-family-of-4-might-surprise-you/article_5014ea19-a56b-572b-9ebb-022426461e77.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/disney-world-costs-for-a-family-of-4-might-surprise-you/article_5014ea19-a56b-572b-9ebb-022426461e77.html">Save to Pocket</a>
+</span>
+
+---
+
+## Artificial intelligence discovers antibiotic to take out superbug
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Researchers hope this knowledge could help them design additional drugs that could help to save millions of lives across the world.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/lifestyles/health/artificial-intelligence-discovers-antibiotic-to-take-out-superbug/article_d2da4c63-c636-5157-a336-0991be505018.html">https://www.postguam.com/lifestyles/health/artificial-intelligence-discovers-antibiotic-to-take-out-superbug/article_d2da4c63-c636-5157-a336-0991be505018.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/lifestyles/health/artificial-intelligence-discovers-antibiotic-to-take-out-superbug/article_d2da4c63-c636-5157-a336-0991be505018.html">Save to Pocket</a>
+</span>
+
+---
+
+## Variety editor’s new book now available at Joeten Susupe
+
+date: 2023-12-20, updated: 2023-12-20, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is now available at the Joeten Shopping Center in Susupe.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/variety-editor-s-new-book-now-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html">https://www.mvariety.com/lifestyle/variety-editor-s-new-book-now-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/variety-editor-s-new-book-now-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Guam claims first Marianas Rugby Cup
+
+date: 2023-12-20, updated: 2023-12-20, from: Marianas Variety
+
+THE Guam Rugby Club men’s and women’s teams beat three Marianas Rugby Club teams to claim the perpetual trophy of the first-ever Marianas Rugby Cup at the Oleai Sports Complex on Saturday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/guam-claims-first-marianas-rugby-cup/article_ca5e8732-9f1f-11ee-a415-0b5ef1856487.html">https://www.mvariety.com/sports/localsports/guam-claims-first-marianas-rugby-cup/article_ca5e8732-9f1f-11ee-a415-0b5ef1856487.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/guam-claims-first-marianas-rugby-cup/article_ca5e8732-9f1f-11ee-a415-0b5ef1856487.html">Save to Pocket</a>
+</span>
+
+---
+
+## US 'buy now, pay later' splurges raise holiday debt hangover risk
+
+date: 2023-12-20, updated: 2023-12-20, from: Marianas Variety
+
+LOS ANGELES/NEW YORK (Reuters) — Roxanne Ross of Florida is one of a growing number of Americans dodging higher interest rates on credit cards by instead turning to "buy now, pay later" services as they shop for holiday merchandise.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/business_news/us-buy-now-pay-later-splurges-raise-holiday-debt-hangover-risk/article_00690c7a-9f3a-11ee-a827-d301426d7be9.html">https://www.mvariety.com/business/business_news/us-buy-now-pay-later-splurges-raise-holiday-debt-hangover-risk/article_00690c7a-9f3a-11ee-a827-d301426d7be9.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/business_news/us-buy-now-pay-later-splurges-raise-holiday-debt-hangover-risk/article_00690c7a-9f3a-11ee-a827-d301426d7be9.html">Save to Pocket</a>
+</span>
+
+---
+
+## Lillard joins 20,000-point club, Giannis has triple-double as Bucks defeat Spurs 132-119
+
+date: 2023-12-20, updated: 2023-12-20, from: Marianas Variety
+
+MILWAUKEE (AP) — Damian Lillard didn’t bother hiding what his latest career milestone meant to him.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/lillard-joins-20-000-point-club-giannis-has-triple-double-as-bucks-defeat-spurs-132/article_2dbe9bba-9f3d-11ee-aed8-ffdd8ce73c6f.html">https://www.mvariety.com/sports/nationalsports/lillard-joins-20-000-point-club-giannis-has-triple-double-as-bucks-defeat-spurs-132/article_2dbe9bba-9f3d-11ee-aed8-ffdd8ce73c6f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/lillard-joins-20-000-point-club-giannis-has-triple-double-as-bucks-defeat-spurs-132/article_2dbe9bba-9f3d-11ee-aed8-ffdd8ce73c6f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Guam judge to preside over rape case
+
+date: 2023-12-20, updated: 2023-12-20, from: Marianas Variety
+
+AFTER Presiding Judge Roberto C. Naraja informed the local Supreme Court that all sitting judges on the CNMI Superior Court have recused themselves from the case, Chief Justice Alexandro Castro has appointed Guam Judge Elyze M. Iriarte as judge pro tempore in the upcoming rape trial of William Abraczinkas.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/guam-judge-to-preside-over-rape-case/article_9a42abc8-9f0b-11ee-a745-07aa785b107a.html">https://www.mvariety.com/news/local/guam-judge-to-preside-over-rape-case/article_9a42abc8-9f0b-11ee-a745-07aa785b107a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/guam-judge-to-preside-over-rape-case/article_9a42abc8-9f0b-11ee-a745-07aa785b107a.html">Save to Pocket</a>
+</span>
+
+---
+
+## Federal court dismisses complaint over denial of CNMI residency application
+
+date: 2023-12-20, updated: 2023-12-20, from: Marianas Variety
+
+CHIEF Judge Ramona V. Manglona of the District Court for the NMI on Tuesday dismissed the complaint of Sukesh Chandra Barman against U.S. Citizenship and Immigration Services for denying his CNMI residency or NM-1 application.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/federal-court-dismisses-complaint-over-denial-of-cnmi-residency-application/article_b13341f0-9f0e-11ee-a420-3ff41c9f2efc.html">https://www.mvariety.com/news/local/federal-court-dismisses-complaint-over-denial-of-cnmi-residency-application/article_b13341f0-9f0e-11ee-a420-3ff41c9f2efc.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/federal-court-dismisses-complaint-over-denial-of-cnmi-residency-application/article_b13341f0-9f0e-11ee-a420-3ff41c9f2efc.html">Save to Pocket</a>
+</span>
+
+---
+
+## Cannabis industry is growing, says official
+
+date: 2023-12-20, updated: 2023-12-20, from: Marianas Variety
+
+THE local cannabis industry generated $173,267 in application and license fees from fiscal year 2022 to the first two months of FY 2024, CNMI Cannabis Commission Managing Director Mikiotti Evangelista told the House Committee on Cannabis.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/cannabis-industry-is-growing-says-official/article_29661b66-9f0f-11ee-9c06-7f80b21860fc.html">https://www.mvariety.com/news/local/cannabis-industry-is-growing-says-official/article_29661b66-9f0f-11ee-9c06-7f80b21860fc.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/cannabis-industry-is-growing-says-official/article_29661b66-9f0f-11ee-9c06-7f80b21860fc.html">Save to Pocket</a>
+</span>
+
+---
+
+## Film 'Poor Things' inspires curiosity, says star Emma Stone
+
+date: 2023-12-20, updated: 2023-12-20, from: Marianas Variety
+
+LONDON (Reuters) — Oscar-winner Emma Stone says her sex-charged gothic comedy-drama "Poor Things" is a lesson in embracing change and diversity.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/film-poor-things-inspires-curiosity-says-star-emma-stone/article_47f9d294-9f3b-11ee-b82c-fb517e8fbfaa.html">https://www.mvariety.com/lifestyle/film-poor-things-inspires-curiosity-says-star-emma-stone/article_47f9d294-9f3b-11ee-b82c-fb517e8fbfaa.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/film-poor-things-inspires-curiosity-says-star-emma-stone/article_47f9d294-9f3b-11ee-b82c-fb517e8fbfaa.html">Save to Pocket</a>
+</span>
+
+---
+
+## Italian food historian cooks up carbonara controversy
+
+date: 2023-12-20, updated: 2023-12-20, from: Marianas Variety
+
+ROME (Reuters) — Food is a serious business in Italy, part of the national identity, as illustrated by a row that has broken out over how to make carbonara pasta sauce.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/italian-food-historian-cooks-up-carbonara-controversy/article_6476cdea-9f3c-11ee-805e-23195801c065.html">https://www.mvariety.com/lifestyle/italian-food-historian-cooks-up-carbonara-controversy/article_6476cdea-9f3c-11ee-805e-23195801c065.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/italian-food-historian-cooks-up-carbonara-controversy/article_6476cdea-9f3c-11ee-805e-23195801c065.html">Save to Pocket</a>
+</span>
+
+---
+
+## MTEC, MVA: Imagine your favorite ‘green’ space
+
+date: 2023-12-20, updated: 2023-12-20, from: Marianas Variety
+
+(MVA) — In line with this year’s school outreach theme, “Green Spaces, Memorable Places/Kåmpun Betdi, Kåmpun Rikuetdu/Llingil Leyil Walúwal,” the Marianas Tourism Education Council and the Marianas Visitors Authority are inviting students to put themselves in the shoes of a tourist enjoying the Marianas' natural environment.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/mtec-mva-imagine-your-favorite-green-space/article_b9239b82-9efd-11ee-a782-eb0ea81eb3ed.html">https://www.mvariety.com/news/community_bulletins/mtec-mva-imagine-your-favorite-green-space/article_b9239b82-9efd-11ee-a782-eb0ea81eb3ed.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/mtec-mva-imagine-your-favorite-green-space/article_b9239b82-9efd-11ee-a782-eb0ea81eb3ed.html">Save to Pocket</a>
+</span>
+
+---
+
+## US Soccer blocks MLS from entering reserve teams into US Open Cup
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Major League Soccer's plan to have their reserve team clubs enter the US Open Cup instead of the first teams has been blocked by the US Soccer Federation, the league and federation said on Wednesday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/us-soccer-blocks-mls-from-entering-reserve-teams-into-us-open-cup/article_dc1914e6-0288-54e3-a3f5-1c49e2143be0.html">https://www.postguam.com/news/national/us-soccer-blocks-mls-from-entering-reserve-teams-into-us-open-cup/article_dc1914e6-0288-54e3-a3f5-1c49e2143be0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/us-soccer-blocks-mls-from-entering-reserve-teams-into-us-open-cup/article_dc1914e6-0288-54e3-a3f5-1c49e2143be0.html">Save to Pocket</a>
+</span>
+
+---
+
+## Stock markets retreat while oil prices advance
+
+date: 2023-12-20, from: The Guam Daily Post
+
+European and US equities mostly retreated on Wednesday amid profit-taking while oil prices jumped above $80 per barrel as the threat of attacks keep ships out of the Red Sea.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/stock-markets-retreat-while-oil-prices-advance/article_0dbb6bb9-2d30-5fad-8a43-56ded3ebc0b1.html">https://www.postguam.com/news/national/stock-markets-retreat-while-oil-prices-advance/article_0dbb6bb9-2d30-5fad-8a43-56ded3ebc0b1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/stock-markets-retreat-while-oil-prices-advance/article_0dbb6bb9-2d30-5fad-8a43-56ded3ebc0b1.html">Save to Pocket</a>
+</span>
+
+---
+
+## EU agrees 'historic' reform of asylum laws
+
+date: 2023-12-20, from: The Guam Daily Post
+
+The EU on Wednesday agreed to an overhaul of its asylum system that includes more border detention centres and speedier deportations, prompting migrant charities to slam the changes as "dangerous".
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/eu-agrees-historic-reform-of-asylum-laws/article_119bca53-d6d8-5cbd-b8c2-7697117f0294.html">https://www.postguam.com/news/national/eu-agrees-historic-reform-of-asylum-laws/article_119bca53-d6d8-5cbd-b8c2-7697117f0294.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/eu-agrees-historic-reform-of-asylum-laws/article_119bca53-d6d8-5cbd-b8c2-7697117f0294.html">Save to Pocket</a>
+</span>
+
+---
+
+## Suriname court upholds 20-year sentence for ex-president in murder trial
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Suriname's highest court on Wednesday upheld a 20-year prison sentence for ex-president Desi Bouterse, who lost an appeal against his conviction for the 1982 killings of political opponents.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/suriname-court-upholds-20-year-sentence-for-ex-president-in-murder-trial/article_5a1a8977-4e6c-5d54-8122-007cb0f8fc2e.html">https://www.postguam.com/news/national/suriname-court-upholds-20-year-sentence-for-ex-president-in-murder-trial/article_5a1a8977-4e6c-5d54-8122-007cb0f8fc2e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/suriname-court-upholds-20-year-sentence-for-ex-president-in-murder-trial/article_5a1a8977-4e6c-5d54-8122-007cb0f8fc2e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Raising the bar? Survey reveals what makes a home feel fancy
+
+date: 2023-12-20, from: The Guam Daily Post
+
+A survey of adults looked at what parts of the home respondents would show off to others.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/raising-the-bar-survey-reveals-what-makes-a-home-feel-fancy/article_fd2f780b-d817-5017-b33c-c3d56d829b98.html">https://www.postguam.com/news/national/raising-the-bar-survey-reveals-what-makes-a-home-feel-fancy/article_fd2f780b-d817-5017-b33c-c3d56d829b98.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/raising-the-bar-survey-reveals-what-makes-a-home-feel-fancy/article_fd2f780b-d817-5017-b33c-c3d56d829b98.html">Save to Pocket</a>
+</span>
+
+---
+
+## Congolese vote amid 'chaos', delays, conflict in east
+
+date: 2023-12-20, from: The Guam Daily Post
+
+People in the Democratic Republic of Congo voted Wednesday in a high-stakes election pitting the incumbent President Felix Tshisekedi against a fragmented opposition, whose leaders denounced "chaos" and "irregularities".
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/congolese-vote-amid-chaos-delays-conflict-in-east/article_33e0194b-4777-5941-8d4c-ee459b1d92d1.html">https://www.postguam.com/news/national/congolese-vote-amid-chaos-delays-conflict-in-east/article_33e0194b-4777-5941-8d4c-ee459b1d92d1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/congolese-vote-amid-chaos-delays-conflict-in-east/article_33e0194b-4777-5941-8d4c-ee459b1d92d1.html">Save to Pocket</a>
+</span>
+
+---
+
+## EU looks to downgrade wolf protection status
+
+date: 2023-12-20, from: The Guam Daily Post
+
+The European Commission said Wednesday it wants to change the protection status of wolves -- allowing them to be hunted -- based on new data suggesting the animals pose a rising threat to livestock.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/eu-looks-to-downgrade-wolf-protection-status/article_d265d813-956e-5c50-b382-7980176a7357.html">https://www.postguam.com/news/national/eu-looks-to-downgrade-wolf-protection-status/article_d265d813-956e-5c50-b382-7980176a7357.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/eu-looks-to-downgrade-wolf-protection-status/article_d265d813-956e-5c50-b382-7980176a7357.html">Save to Pocket</a>
+</span>
+
+---
+
+## Losing weight can significantly alter brain activity: study
+
+date: 2023-12-20, from: The Guam Daily Post
+
+By Isobel Williams via SWNS Losing weight by intermittent fasting can significantly alter brain activity for appetite and addiction, according to new research. The study shows that the diet known as intermittent energy restriction (IER) can drastically change your gut…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/lifestyles/health/losing-weight-can-significantly-alter-brain-activity-study/article_7ad3be47-f8aa-59a5-9d23-35d2a084661f.html">https://www.postguam.com/lifestyles/health/losing-weight-can-significantly-alter-brain-activity-study/article_7ad3be47-f8aa-59a5-9d23-35d2a084661f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/lifestyles/health/losing-weight-can-significantly-alter-brain-activity-study/article_7ad3be47-f8aa-59a5-9d23-35d2a084661f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Suspect admits to stealing copper wire from federal property in 2019
+
+date: 2023-12-20, from: The Guam Daily Post
+
+A man faces a maximum of five years in federal prison for conspiring to steal copper wire from federal property in 2019.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/suspect-admits-to-stealing-copper-wire-from-federal-property-in-2019/article_07a96c12-9edd-11ee-8ac4-7bee67d40966.html">https://www.postguam.com/news/local/suspect-admits-to-stealing-copper-wire-from-federal-property-in-2019/article_07a96c12-9edd-11ee-8ac4-7bee67d40966.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/suspect-admits-to-stealing-copper-wire-from-federal-property-in-2019/article_07a96c12-9edd-11ee-8ac4-7bee67d40966.html">Save to Pocket</a>
+</span>
+
+---
+
+## Suspect accused of kidnapping woman, assaulting her with machete, golf club
+
+date: 2023-12-20, from: The Guam Daily Post
+
+A 34-year-old man on pretrial release was accused of assaulting a woman several times after he allegedly kidnapped her.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/suspect-accused-of-kidnapping-woman-assaulting-her-with-machete-golf-club/article_b635c3d4-9ec9-11ee-9230-5bca2ed9edc7.html">https://www.postguam.com/news/local/suspect-accused-of-kidnapping-woman-assaulting-her-with-machete-golf-club/article_b635c3d4-9ec9-11ee-9230-5bca2ed9edc7.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/suspect-accused-of-kidnapping-woman-assaulting-her-with-machete-golf-club/article_b635c3d4-9ec9-11ee-9230-5bca2ed9edc7.html">Save to Pocket</a>
+</span>
+
+---
+
+## AG referred to ethics counsel
+
+date: 2023-12-20, from: The Guam Daily Post
+
+The Supreme Court of Guam has referred Attorney General Douglas Moylan to the Judiciary's Office of Regulation Counsel, which is responsible for investigating ethics complaints.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/ag-referred-to-ethics-counsel/article_dce60c0e-9ecf-11ee-8cf9-cfbb7789b552.html">https://www.postguam.com/news/local/ag-referred-to-ethics-counsel/article_dce60c0e-9ecf-11ee-8cf9-cfbb7789b552.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/ag-referred-to-ethics-counsel/article_dce60c0e-9ecf-11ee-8cf9-cfbb7789b552.html">Save to Pocket</a>
+</span>
+
+---
+
+## Arriola lambastes Moylan, says  AG violated professional conduct
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Attorneys Joaquin “Jay” Arriola Jr. and Anita Arriola have responded to Attorney General Douglas Moylan's letter regarding their firm's representation of Department of Public Works Director Vince Arriola, stating that the AG's letter was “replete” with “clear violations” of rules…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/arriola-lambastes-moylan-says-ag-violated-professional-conduct/article_575fb412-9ee4-11ee-a18a-57e7efd59c01.html">https://www.postguam.com/news/local/arriola-lambastes-moylan-says-ag-violated-professional-conduct/article_575fb412-9ee4-11ee-a18a-57e7efd59c01.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/arriola-lambastes-moylan-says-ag-violated-professional-conduct/article_575fb412-9ee4-11ee-a18a-57e7efd59c01.html">Save to Pocket</a>
+</span>
+
+---
+
+## Clock ticking to avoid potential trash rate hike
+
+date: 2023-12-20, from: The Guam Daily Post
+
+March 2024 is the cutoff date for any movement or decision on initiatives that could positively impact the Guam Solid Waste Authority's financial situation, or the agency may have to decide to push forward with a $5 residential rate increase…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/clock-ticking-to-avoid-potential-trash-rate-hike/article_a0069ece-9ed0-11ee-8c86-8759fd7a55e0.html">https://www.postguam.com/news/local/clock-ticking-to-avoid-potential-trash-rate-hike/article_a0069ece-9ed0-11ee-8c86-8759fd7a55e0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/clock-ticking-to-avoid-potential-trash-rate-hike/article_a0069ece-9ed0-11ee-8c86-8759fd7a55e0.html">Save to Pocket</a>
+</span>
+
+---
+
+## Woman denies attempted murder charge
+
+date: 2023-12-20, from: The Guam Daily Post
+
+A woman denied attempted murder charges related to allegedly stabbing a man in the neck while he was sleeping.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/woman-denies-attempted-murder-charge/article_60e30560-9ee0-11ee-ae3b-e36b3777c965.html">https://www.postguam.com/news/local/woman-denies-attempted-murder-charge/article_60e30560-9ee0-11ee-ae3b-e36b3777c965.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/woman-denies-attempted-murder-charge/article_60e30560-9ee0-11ee-ae3b-e36b3777c965.html">Save to Pocket</a>
+</span>
+
+---
+
+## Gingerbread workshops hosted by Dusit Thani
+
+date: 2023-12-20, from: The Guam Daily Post
+
+There's nothing like smelling fresh gingerbread during the holiday season. This Christmastime, kids on island are invited to decorate their own gingerbread cookies by the Dusit Thani Guam Resort.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/entertainment/food/gingerbread-workshops-hosted-by-dusit-thani/article_4f48cee0-9d44-11ee-8849-3f875090f8ca.html">https://www.postguam.com/entertainment/food/gingerbread-workshops-hosted-by-dusit-thani/article_4f48cee0-9d44-11ee-8849-3f875090f8ca.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/entertainment/food/gingerbread-workshops-hosted-by-dusit-thani/article_4f48cee0-9d44-11ee-8849-3f875090f8ca.html">Save to Pocket</a>
+</span>
+
+---
+
+## French health minister resigns over controversial immigration law
+
+date: 2023-12-20, from: The Guam Daily Post
+
+France's health minister resigned as the government of President Emmanuel Macron on Wednesday sought to quell a party revolt over the passing of tough new immigration legislation backed by the far-right.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/french-health-minister-resigns-over-controversial-immigration-law/article_7e369840-da8e-5f0a-9fdc-b10dc4bfb15f.html">https://www.postguam.com/news/national/french-health-minister-resigns-over-controversial-immigration-law/article_7e369840-da8e-5f0a-9fdc-b10dc4bfb15f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/french-health-minister-resigns-over-controversial-immigration-law/article_7e369840-da8e-5f0a-9fdc-b10dc4bfb15f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Domestic security boss becomes France's top spook
+
+date: 2023-12-20, from: The Guam Daily Post
+
+France's domestic intelligence chief was appointed Wednesday to head the country's DGSE foreign espionage service made famous by the fictional hit series "The Bureau".
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/domestic-security-boss-becomes-frances-top-spook/article_12dabdf8-fbf5-5c4a-b05a-b7b93fb1169f.html">https://www.postguam.com/news/national/domestic-security-boss-becomes-frances-top-spook/article_12dabdf8-fbf5-5c4a-b05a-b7b93fb1169f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/domestic-security-boss-becomes-frances-top-spook/article_12dabdf8-fbf5-5c4a-b05a-b7b93fb1169f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Israel and Hamas working toward new truce, hostage deal
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Hopes rose Wednesday that Israel and Hamas may be inching toward another truce and hostage release deal in the Gaza war, following secret talks and as the head of the Palestinian militant group visited Egypt.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/israel-and-hamas-working-toward-new-truce-hostage-deal/article_e8601e92-5a72-57f9-bcff-8d74f830a229.html">https://www.postguam.com/news/national/israel-and-hamas-working-toward-new-truce-hostage-deal/article_e8601e92-5a72-57f9-bcff-8d74f830a229.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/israel-and-hamas-working-toward-new-truce-hostage-deal/article_e8601e92-5a72-57f9-bcff-8d74f830a229.html">Save to Pocket</a>
+</span>
+
+---
+
+## UK's Supreme Court rules in favour of Guantanamo detainee
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Britain's top court ruled Wednesday that a Guantanamo detainee waterboarded by the CIA can use English law in his claim against the UK government over alleged complicity in the torture.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/uks-supreme-court-rules-in-favour-of-guantanamo-detainee/article_6b9f0731-843a-565f-8185-e103659d90bc.html">https://www.postguam.com/news/national/uks-supreme-court-rules-in-favour-of-guantanamo-detainee/article_6b9f0731-843a-565f-8185-e103659d90bc.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/uks-supreme-court-rules-in-favour-of-guantanamo-detainee/article_6b9f0731-843a-565f-8185-e103659d90bc.html">Save to Pocket</a>
+</span>
+
+---
+
+## Survivors brave freezing cold after China quake kills 134
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Survivors of China's deadliest earthquake in years huddled in makeshift aid tents despite freezing temperatures on Wednesday, too scared to return to homes made dangerous by the disaster.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/survivors-brave-freezing-cold-after-china-quake-kills-134/article_aaec5558-0fed-59b2-b487-ba55165a8ebe.html">https://www.postguam.com/news/national/survivors-brave-freezing-cold-after-china-quake-kills-134/article_aaec5558-0fed-59b2-b487-ba55165a8ebe.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/survivors-brave-freezing-cold-after-china-quake-kills-134/article_aaec5558-0fed-59b2-b487-ba55165a8ebe.html">Save to Pocket</a>
+</span>
+
+---
+
+## These are America’s Top 10 favorite dog breeds
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Approximately two-thirds of U.S. households own a dog.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/these-are-america-s-top-10-favorite-dog-breeds/article_14da8362-b79c-5da2-9dc6-2ddac9b4e9ff.html">https://www.postguam.com/news/national/these-are-america-s-top-10-favorite-dog-breeds/article_14da8362-b79c-5da2-9dc6-2ddac9b4e9ff.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/these-are-america-s-top-10-favorite-dog-breeds/article_14da8362-b79c-5da2-9dc6-2ddac9b4e9ff.html">Save to Pocket</a>
+</span>
+
+---
+
+## EU court sides with Ryanair over Air France-KLM aid
+
+date: 2023-12-20, from: The Guam Daily Post
+
+A top EU court annulled on Wednesday the approval of a pandemic state aid programme for Air France-KLM that had been challenged by Irish rival Ryanair and Malta Air.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/eu-court-sides-with-ryanair-over-air-france-klm-aid/article_d671e5cf-7fa6-554c-92c9-7a247bb5b3f6.html">https://www.postguam.com/news/national/eu-court-sides-with-ryanair-over-air-france-klm-aid/article_d671e5cf-7fa6-554c-92c9-7a247bb5b3f6.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/eu-court-sides-with-ryanair-over-air-france-klm-aid/article_d671e5cf-7fa6-554c-92c9-7a247bb5b3f6.html">Save to Pocket</a>
+</span>
+
+---
+
+## EU toughens rules on three major porn platforms
+
+date: 2023-12-20, from: The Guam Daily Post
+
+The European Union on Wednesday added three pornographic websites to its list of online platforms that are large enough to come under tougher safety regulation.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/eu-toughens-rules-on-three-major-porn-platforms/article_58b149a2-125b-59c5-b186-b086c3e5ea68.html">https://www.postguam.com/news/national/eu-toughens-rules-on-three-major-porn-platforms/article_58b149a2-125b-59c5-b186-b086c3e5ea68.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/eu-toughens-rules-on-three-major-porn-platforms/article_58b149a2-125b-59c5-b186-b086c3e5ea68.html">Save to Pocket</a>
+</span>
+
+---
+
+## Kyrgyzstan backs new flag, says 'smiling' sun to aid growth
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Lawmakers in tightly-controlled Kyrgyzstan on Wednesday backed a proposal to modify the country's flag so that it will feature sun rays, arguing the move would boost the economy.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/kyrgyzstan-backs-new-flag-says-smiling-sun-to-aid-growth/article_0d6c5cc3-676b-5712-87fd-4d555cfbec21.html">https://www.postguam.com/news/national/kyrgyzstan-backs-new-flag-says-smiling-sun-to-aid-growth/article_0d6c5cc3-676b-5712-87fd-4d555cfbec21.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/kyrgyzstan-backs-new-flag-says-smiling-sun-to-aid-growth/article_0d6c5cc3-676b-5712-87fd-4d555cfbec21.html">Save to Pocket</a>
+</span>
+
+---
+
+## India court to weigh future of mosque in Hindu holy city
+
+date: 2023-12-20, from: The Guam Daily Post
+
+An Indian court has weighed into one of the country's most bitter religious disagreements by greenlighting cases on whether a mosque in the holy city of Varanasi should be opened to Hindu worshippers.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/india-court-to-weigh-future-of-mosque-in-hindu-holy-city/article_92b48e4e-4385-5dc1-8a0a-f39a329849c4.html">https://www.postguam.com/news/national/india-court-to-weigh-future-of-mosque-in-hindu-holy-city/article_92b48e4e-4385-5dc1-8a0a-f39a329849c4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/india-court-to-weigh-future-of-mosque-in-hindu-holy-city/article_92b48e4e-4385-5dc1-8a0a-f39a329849c4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Music gives Gaza children respite from horrors of war
+
+date: 2023-12-20, from: The Guam Daily Post
+
+It takes a while but slowly the children gathered around volunteer entertainer Ruaa Hassuna in a Gaza camp start clapping along as her music offers some respite from the horrors around them.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/music-gives-gaza-children-respite-from-horrors-of-war/article_7b3c0319-d658-5e1c-8169-bbb1f20aad42.html">https://www.postguam.com/news/national/music-gives-gaza-children-respite-from-horrors-of-war/article_7b3c0319-d658-5e1c-8169-bbb1f20aad42.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/music-gives-gaza-children-respite-from-horrors-of-war/article_7b3c0319-d658-5e1c-8169-bbb1f20aad42.html">Save to Pocket</a>
+</span>
+
+---
+
+## UK Tories face another by-election after MP ousted
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Britain's ruling Conservatives face another potentially bruising by-election early next year after voters in a central English constituency ousted its Tory lawmaker following his suspension from parliament over misconduct allegations.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/uk-tories-face-another-by-election-after-mp-ousted/article_d3e98581-c51f-5f55-a08e-06e85d7c594c.html">https://www.postguam.com/news/national/uk-tories-face-another-by-election-after-mp-ousted/article_d3e98581-c51f-5f55-a08e-06e85d7c594c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/uk-tories-face-another-by-election-after-mp-ousted/article_d3e98581-c51f-5f55-a08e-06e85d7c594c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Toyota subsidiary to halt all shipments over rigged safety tests
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Toyota subsidiary Daihatsu said Wednesday it will suspend shipments of all car models in Japan and abroad, following news it had rigged safety tests.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/toyota-subsidiary-to-halt-all-shipments-over-rigged-safety-tests/article_bd8713ad-a930-55b2-873b-9fc3ca5f42ce.html">https://www.postguam.com/news/national/toyota-subsidiary-to-halt-all-shipments-over-rigged-safety-tests/article_bd8713ad-a930-55b2-873b-9fc3ca5f42ce.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/toyota-subsidiary-to-halt-all-shipments-over-rigged-safety-tests/article_bd8713ad-a930-55b2-873b-9fc3ca5f42ce.html">Save to Pocket</a>
+</span>
+
+---
+
+## UK inflation hits lowest level in more than two years
+
+date: 2023-12-20, from: The Guam Daily Post
+
+British inflation has slowed sharply to the lowest level in more than two years on falling petrol prices, official data showed Wednesday, easing a cost-of-living crisis after aggressive interest-rate hikes.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/uk-inflation-hits-lowest-level-in-more-than-two-years/article_174cf367-8328-58db-b434-bd0d3eabdc54.html">https://www.postguam.com/news/national/uk-inflation-hits-lowest-level-in-more-than-two-years/article_174cf367-8328-58db-b434-bd0d3eabdc54.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/uk-inflation-hits-lowest-level-in-more-than-two-years/article_174cf367-8328-58db-b434-bd0d3eabdc54.html">Save to Pocket</a>
+</span>
+
+---
+
+## Hospital doctors in England start new strike over pay
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Hospital doctors in England begin their longest strike action yet on Wednesday in a move that health bosses fear will pile pressure on services at the busiest time of year.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/hospital-doctors-in-england-start-new-strike-over-pay/article_21654c8a-2bf8-5a38-a037-13b63a15c0d8.html">https://www.postguam.com/news/national/hospital-doctors-in-england-start-new-strike-over-pay/article_21654c8a-2bf8-5a38-a037-13b63a15c0d8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/hospital-doctors-in-england-start-new-strike-over-pay/article_21654c8a-2bf8-5a38-a037-13b63a15c0d8.html">Save to Pocket</a>
+</span>
+
+---
+
+## On yer bike: London firms turn to cargo bikes
+
+date: 2023-12-20, from: The Guam Daily Post
+
+On a busy north London street, plumber Ben Hume-Wright zipped through the heavy rush-hour traffic to his next job by bike.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/on-yer-bike-london-firms-turn-to-cargo-bikes/article_60c2e32a-5ba5-5331-99ee-42fab02459ea.html">https://www.postguam.com/news/national/on-yer-bike-london-firms-turn-to-cargo-bikes/article_60c2e32a-5ba5-5331-99ee-42fab02459ea.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/on-yer-bike-london-firms-turn-to-cargo-bikes/article_60c2e32a-5ba5-5331-99ee-42fab02459ea.html">Save to Pocket</a>
+</span>
+
+---
+
+## Man who self-surrendered arrested on suspicion of attempted murder
+
+date: 2023-12-20, from: The Guam Daily Post
+
+The man who turned himself in to police on Wednesday morning was arrested on suspicion of attempted murder.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/man-who-self-surrendered-arrested-on-suspicion-of-attempted-murder/article_73fa9840-9f06-11ee-9424-7f65cc48934a.html">https://www.postguam.com/news/man-who-self-surrendered-arrested-on-suspicion-of-attempted-murder/article_73fa9840-9f06-11ee-9424-7f65cc48934a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/man-who-self-surrendered-arrested-on-suspicion-of-attempted-murder/article_73fa9840-9f06-11ee-9424-7f65cc48934a.html">Save to Pocket</a>
+</span>
+
+---
+
+## Frustration mounts over political impasse in N.Ireland
+
+date: 2023-12-20, from: The Guam Daily Post
+
+A lengthy boycott of devolved government in Northern Ireland will stretch into 2024 after talks to end the impasse stalled Tuesday, with frustration mounting over political dysfunction and crumbling public services.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/frustration-mounts-over-political-impasse-in-n-ireland/article_c9053809-5f97-510c-aa20-bc1bb3d4ba2e.html">https://www.postguam.com/news/national/frustration-mounts-over-political-impasse-in-n-ireland/article_c9053809-5f97-510c-aa20-bc1bb3d4ba2e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/frustration-mounts-over-political-impasse-in-n-ireland/article_c9053809-5f97-510c-aa20-bc1bb3d4ba2e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Illegal mining, smuggling threaten Ghana's cocoa industry
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Ghana, the world's second biggest cocoa producer, faces a growing risk to its harvest -- and blow to its crisis-hit economy -- from illegal mining and smugglers, industry officials, farmers and activists warn.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/illegal-mining-smuggling-threaten-ghanas-cocoa-industry/article_c08d2e73-0301-50f3-8f34-f0e879874999.html">https://www.postguam.com/news/national/illegal-mining-smuggling-threaten-ghanas-cocoa-industry/article_c08d2e73-0301-50f3-8f34-f0e879874999.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/illegal-mining-smuggling-threaten-ghanas-cocoa-industry/article_c08d2e73-0301-50f3-8f34-f0e879874999.html">Save to Pocket</a>
+</span>
+
+---
+
+## Hawaiian Word of the Week: Hāʻawi
+
+date: 2023-12-20, from: University of Hawaiʻi News
+
+<p><span aria-label="Haawi">H&#257;&#699;awi</span>&#8212;To give, grant, allot, hand, present.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/19/hawaiian-word-of-the-week-haawi/">Hawaiian Word of the Week: Hāʻawi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/19/hawaiian-word-of-the-week-haawi/">https://www.hawaii.edu/news/2023/12/19/hawaiian-word-of-the-week-haawi/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/19/hawaiian-word-of-the-week-haawi/">Save to Pocket</a>
+</span>
+
+---
+
+## UH-mazing holiday recipes: Aunty Coco’s holiday punch
+
+date: 2023-12-20, from: University of Hawaiʻi News
+
+<p><span aria-label="Kapiolani">Kapi&#699;olani</span> Community College's Colette Andrade Fujii shares Grandma Carol's holiday punch recipe.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/19/uh-mazing-holiday-recipes-holiday-punch/"><abbr>UH</abbr>-mazing holiday recipes: Aunty Coco’s holiday punch</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/19/uh-mazing-holiday-recipes-holiday-punch/">https://www.hawaii.edu/news/2023/12/19/uh-mazing-holiday-recipes-holiday-punch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/19/uh-mazing-holiday-recipes-holiday-punch/">Save to Pocket</a>
+</span>
+
+---
+
+## Grizzlies' Morant dazzles in return, Warriors top Celtics in overtime
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Ja Morant made a scintillating return from a 25-game suspension Tuesday, driving for a game-winning layup as time expired to lift the Memphis Grizzlies to a 115-113 NBA victory over the New Orleans Pelicans.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/grizzlies-morant-dazzles-in-return-warriors-top-celtics-in-overtime/article_9f115a47-d5a5-54e6-9cdf-2b7b6def8af5.html">https://www.postguam.com/news/national/grizzlies-morant-dazzles-in-return-warriors-top-celtics-in-overtime/article_9f115a47-d5a5-54e6-9cdf-2b7b6def8af5.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/grizzlies-morant-dazzles-in-return-warriors-top-celtics-in-overtime/article_9f115a47-d5a5-54e6-9cdf-2b7b6def8af5.html">Save to Pocket</a>
+</span>
+
+---
+
+## China's Xi says strong Russia ties a 'strategic choice'
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Chinese President Xi Jinping said Wednesday that maintaining close ties with Russia is a "strategic choice", calling for deeper bilateral cooperation during a meeting with Prime Minister Mikhail Mishustin in Beijing, state media reported.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/chinas-xi-says-strong-russia-ties-a-strategic-choice/article_83ef0dcf-b9b3-5242-a802-5cf87f8c757b.html">https://www.postguam.com/news/national/chinas-xi-says-strong-russia-ties-a-strategic-choice/article_83ef0dcf-b9b3-5242-a802-5cf87f8c757b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/chinas-xi-says-strong-russia-ties-a-strategic-choice/article_83ef0dcf-b9b3-5242-a802-5cf87f8c757b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Hamas chief due in Egypt for Gaza ceasefire talks
+
+date: 2023-12-20, from: The Guam Daily Post
+
+The head of Hamas was due in Egypt on Wednesday for talks on a ceasefire in Gaza, after Israel said it was willing to agree to another pause in exchange for more hostages.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/hamas-chief-due-in-egypt-for-gaza-ceasefire-talks/article_1d7f5a97-f020-56a3-8b7c-a6058a7785d0.html">https://www.postguam.com/news/national/hamas-chief-due-in-egypt-for-gaza-ceasefire-talks/article_1d7f5a97-f020-56a3-8b7c-a6058a7785d0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/hamas-chief-due-in-egypt-for-gaza-ceasefire-talks/article_1d7f5a97-f020-56a3-8b7c-a6058a7785d0.html">Save to Pocket</a>
+</span>
+
+---
+
+## UN Security Council due to vote on delayed Gaza resolution
+
+date: 2023-12-20, from: The Guam Daily Post
+
+The United Nations Security Council was due to vote Wednesday on a much-delayed resolution calling for a pause to the Israel-Hamas war after members wrangled over wording while aid efforts in the Gaza Strip neared collapse.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/un-security-council-due-to-vote-on-delayed-gaza-resolution/article_e08d0b45-2ec1-5542-a53b-9da66fb81850.html">https://www.postguam.com/news/national/un-security-council-due-to-vote-on-delayed-gaza-resolution/article_e08d0b45-2ec1-5542-a53b-9da66fb81850.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/un-security-council-due-to-vote-on-delayed-gaza-resolution/article_e08d0b45-2ec1-5542-a53b-9da66fb81850.html">Save to Pocket</a>
+</span>
+
+---
+
+## 'Like a saviour': Japanese women fall prey to host clubs
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Growing up, Mirai Kisaragi fled her abusive parents, survived homelessness and contemplated suicide. At 18, she met her "saviour" at one of Tokyo's hundreds of host clubs, where men entertain women.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/like-a-saviour-japanese-women-fall-prey-to-host-clubs/article_3f2e7418-d9d9-5e50-a412-2ee53133cabc.html">https://www.postguam.com/news/national/like-a-saviour-japanese-women-fall-prey-to-host-clubs/article_3f2e7418-d9d9-5e50-a412-2ee53133cabc.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/like-a-saviour-japanese-women-fall-prey-to-host-clubs/article_3f2e7418-d9d9-5e50-a412-2ee53133cabc.html">Save to Pocket</a>
+</span>
+
+---
+
+## Chinese mourners use AI to digitally resurrect the dead
+
+date: 2023-12-20, from: The Guam Daily Post
+
+At a quiet cemetery in eastern China, bereaved father Seakoo Wu pulls out his phone, places it on a gravestone and plays a recording of his son.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/chinese-mourners-use-ai-to-digitally-resurrect-the-dead/article_f351fa17-dd40-52de-927b-81dd52e11530.html">https://www.postguam.com/news/national/chinese-mourners-use-ai-to-digitally-resurrect-the-dead/article_f351fa17-dd40-52de-927b-81dd52e11530.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/chinese-mourners-use-ai-to-digitally-resurrect-the-dead/article_f351fa17-dd40-52de-927b-81dd52e11530.html">Save to Pocket</a>
+</span>
+
+---
+
+## 7 Ways to Hang On to More Money in 2024
+
+date: 2023-12-20, from: The Guam Daily Post
+
+After the high-spend holidays, it’s a good time to take inventory of those 2023 financial decisions — the good and the bad.Perhaps you could have saved more money, paid off debt or taken that trip. Reflect on where your money…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/7-ways-to-hang-on-to-more-money-in-2024/article_d1ff4ec8-0165-5b2e-ba96-4cad3f8d4eba.html">https://www.postguam.com/news/national/7-ways-to-hang-on-to-more-money-in-2024/article_d1ff4ec8-0165-5b2e-ba96-4cad3f8d4eba.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/7-ways-to-hang-on-to-more-money-in-2024/article_d1ff4ec8-0165-5b2e-ba96-4cad3f8d4eba.html">Save to Pocket</a>
+</span>
+
+---
+
+## Colorado Supreme Court bans Trump from 2024 ballot
+
+date: 2023-12-20, from: The Guam Daily Post
+
+(The Center Square) – The Colorado state Supreme Court voted 3-4 Tuesday to block former President Donald Trump from receiving votes on the 2024 presidential ballot, saying he is disqualified because he “engaged in an insurrection,” a reference to his…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/colorado-supreme-court-bans-trump-from-2024-ballot/article_f56a91dd-8202-5d2b-bbf6-3d7678061291.html">https://www.postguam.com/news/national/colorado-supreme-court-bans-trump-from-2024-ballot/article_f56a91dd-8202-5d2b-bbf6-3d7678061291.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/colorado-supreme-court-bans-trump-from-2024-ballot/article_f56a91dd-8202-5d2b-bbf6-3d7678061291.html">Save to Pocket</a>
+</span>
+
+---
+
+## Waning influence of OPEC+ in spotlight as prices flag
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Despite slashing oil production for months on end and announcing new cuts in late November, the Organization of the Petroleum Exporting Countries (OPEC) and its ten allies have struggled to boost flagging prices.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/waning-influence-of-opec-in-spotlight-as-prices-flag/article_bfa232be-294c-52e8-bd58-79d1e203cb10.html">https://www.postguam.com/news/national/waning-influence-of-opec-in-spotlight-as-prices-flag/article_bfa232be-294c-52e8-bd58-79d1e203cb10.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/waning-influence-of-opec-in-spotlight-as-prices-flag/article_bfa232be-294c-52e8-bd58-79d1e203cb10.html">Save to Pocket</a>
+</span>
+
+---
+
+## Online video games, the latest hunting grounds for drug cartels
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Narcotics police the world over are sprucing up their video game skills, as cartels go increasingly online to sell drugs and recruit dealers.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/online-video-games-the-latest-hunting-grounds-for-drug-cartels/article_5bba82b6-d30e-536b-9281-1ed0e38c512c.html">https://www.postguam.com/news/national/online-video-games-the-latest-hunting-grounds-for-drug-cartels/article_5bba82b6-d30e-536b-9281-1ed0e38c512c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/online-video-games-the-latest-hunting-grounds-for-drug-cartels/article_5bba82b6-d30e-536b-9281-1ed0e38c512c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Murderers, kidnappers sell art from Pakistani prison
+
+date: 2023-12-20, from: The Guam Daily Post
+
+Karachi's colonial-era prison is adorned with murals of rural Pakistani life, painted by convicted murderers and kidnappers locked away from the world but learning their craft inside its walls.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/murderers-kidnappers-sell-art-from-pakistani-prison/article_420e8b0b-2fa3-5790-97b8-116ce2e68f9e.html">https://www.postguam.com/news/national/murderers-kidnappers-sell-art-from-pakistani-prison/article_420e8b0b-2fa3-5790-97b8-116ce2e68f9e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/murderers-kidnappers-sell-art-from-pakistani-prison/article_420e8b0b-2fa3-5790-97b8-116ce2e68f9e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Zelensky says 'no one knows' when war in Ukraine will end
+
+date: 2023-12-20, from: The Guam Daily Post
+
+President Volodymyr Zelensky said Tuesday that there was no end in sight to Russia's invasion of Ukraine, as fatigue builds among Kyiv's allies nearly two years into the war and the Kremlin voices growing confidence of victory.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/national/zelensky-says-no-one-knows-when-war-in-ukraine-will-end/article_5e95457a-2c3d-50d8-a3b7-aa0a8b7a17f3.html">https://www.postguam.com/news/national/zelensky-says-no-one-knows-when-war-in-ukraine-will-end/article_5e95457a-2c3d-50d8-a3b7-aa0a8b7a17f3.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/national/zelensky-says-no-one-knows-when-war-in-ukraine-will-end/article_5e95457a-2c3d-50d8-a3b7-aa0a8b7a17f3.html">Save to Pocket</a>
+</span>
+
+---
+
+## GPA/GWA corporate credit cards swiped for personal expenses, according to OPA 
+
+date: 2023-12-20, from: Pacific Island Times
+
+By Pacific Island Times News Staff Officials of the Guam Power Authority and the Guam Waterworks Authority charged their corporate credit...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/gpa-gwa-corporate-credit-cards-used-for-personal-expenses-according-to-opa">https://www.pacificislandtimes.com/post/gpa-gwa-corporate-credit-cards-used-for-personal-expenses-according-to-opa</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/gpa-gwa-corporate-credit-cards-used-for-personal-expenses-according-to-opa">Save to Pocket</a>
+</span>
+
+---
+
+## Education innovations earn awards for UH Mānoa  faculty
+
+date: 2023-12-20, from: University of Hawaiʻi News
+
+<p>The Innovation and Impact Showcase celebrates <abbr>UH</abbr> M&#257;noa faculty members’ innovative and high-impact teaching practices.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/19/education-innovation-manoa-faculty/">Education innovations earn awards for <abbr>UH</abbr> Mānoa  faculty</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/19/education-innovation-manoa-faculty/">https://www.hawaii.edu/news/2023/12/19/education-innovation-manoa-faculty/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/19/education-innovation-manoa-faculty/">Save to Pocket</a>
+</span>
+
+---
+
+## RELEASE: Policy Brief Sheds Light on Urgent Climate Finance Needs in the Pacific Region
+
+date: 2023-12-20, from: Pacific Island Forum
+
+Suva, 20 December 2023 &#8211; Against the backdrop of the United Nations Framework Convention on Climate Change (UNFCCC) COP28 conference in Dubai, a new policy primer<span class="excerpt-hellip"> […]</span>
+
+<span class="feed-item-link">
+<a href="https://www.forumsec.org/2023/12/20/release-policy-brief-sheds-light-on-urgent-climate-finance-needs-in-the-pacific-region/">https://www.forumsec.org/2023/12/20/release-policy-brief-sheds-light-on-urgent-climate-finance-needs-in-the-pacific-region/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.forumsec.org/2023/12/20/release-policy-brief-sheds-light-on-urgent-climate-finance-needs-in-the-pacific-region/">Save to Pocket</a>
+</span>
+
+---
+
+## Record donation for Toys for Tots as units team up for keiki
+
+date: 2023-12-20, from: University of Hawaiʻi News
+
+<p>Toys for Tots drive led by <abbr>DPS</abbr> broke records, uniting the campus in a wave of generosity to bring holiday joy to local children.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/19/record-donation-keiki-toys-tots/">Record donation for Toys for Tots as units team up for keiki</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/19/record-donation-keiki-toys-tots/">https://www.hawaii.edu/news/2023/12/19/record-donation-keiki-toys-tots/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/19/record-donation-keiki-toys-tots/">Save to Pocket</a>
+</span>
+
+---
+
+## Math on Maui: UH Mānoa faculty, students spread knowledge and cheer
+
+date: 2023-12-20, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> Mānoa team worked with keiki from Maui high schools and at Nāpili Noho.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/19/math-on-maui/">Math on Maui: <abbr>UH</abbr> Mānoa faculty, students spread knowledge and cheer</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/19/math-on-maui/">https://www.hawaii.edu/news/2023/12/19/math-on-maui/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/19/math-on-maui/">Save to Pocket</a>
+</span>
+
+---
+
+## JABSOM PhD grad finds passion in research
+
+date: 2023-12-20, from: University of Hawaiʻi News
+
+<p>Oliva Smith’s research involved the development of a multiplex immunoassay, a tool that detects antibody levels after given a vaccine.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/19/jabsom-phd-grad-olivia-smith/"><abbr>JABSOM</abbr> <abbr>PhD</abbr> grad finds passion in research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/19/jabsom-phd-grad-olivia-smith/">https://www.hawaii.edu/news/2023/12/19/jabsom-phd-grad-olivia-smith/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/19/jabsom-phd-grad-olivia-smith/">Save to Pocket</a>
+</span>
+
+---
+
+## Home is Here Randy Rarick and Laukahi Network
+
+date: 2023-12-19, from: Home is Here
+
+<p>The post <a href="https://www.pbshawaii.org/home-is-here-randy-rarick-and-laukahi-network/">Home is Here &lt;br/&gt;Randy Rarick and Laukahi Network</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.pbshawaii.org/home-is-here-randy-rarick-and-laukahi-network/">https://www.pbshawaii.org/home-is-here-randy-rarick-and-laukahi-network/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pbshawaii.org/home-is-here-randy-rarick-and-laukahi-network/">Save to Pocket</a>
+</span>
+
+---
+
+## Disaster relief design expert, students build prototype temporary shelter on Maui
+
+date: 2023-12-19, from: University of Hawaiʻi News
+
+<p>The opportunity equipped students with the skills to rapidly construct temporary shelters in the aftermath of disasters.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/19/disaster-relief-design-maui/">Disaster relief design expert, students build prototype temporary shelter on Maui</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/19/disaster-relief-design-maui/">https://www.hawaii.edu/news/2023/12/19/disaster-relief-design-maui/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/19/disaster-relief-design-maui/">Save to Pocket</a>
+</span>
+
+---
+
+## Apprenticeship trailblazer: UH Maui College pharmacy technician graduate
+
+date: 2023-12-19, from: University of Hawaiʻi News
+
+<p>Shayden Aoyagi is part of the first national cohort selected to diversify and strengthen registered apprenticeships.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/19/apprenticeship-maui-college-pharm/">Apprenticeship trailblazer: <abbr>UH</abbr> Maui College pharmacy technician graduate</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/19/apprenticeship-maui-college-pharm/">https://www.hawaii.edu/news/2023/12/19/apprenticeship-maui-college-pharm/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/19/apprenticeship-maui-college-pharm/">Save to Pocket</a>
+</span>
+
+---
+
+## UH priorities included in governor’s budget for 2024 legislative session
+
+date: 2023-12-19, from: University of Hawaiʻi News
+
+<p>Kalbert Young, UH vice president for budget and finance and chief financial officer, shares his analysis.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/19/uh-priorities-included-in-gov-budget-2024-legislative-session/"><abbr>UH</abbr> priorities included in governor’s budget for 2024 legislative session</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/19/uh-priorities-included-in-gov-budget-2024-legislative-session/">https://www.hawaii.edu/news/2023/12/19/uh-priorities-included-in-gov-budget-2024-legislative-session/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/19/uh-priorities-included-in-gov-budget-2024-legislative-session/">Save to Pocket</a>
+</span>
+
+---
+
+## In ‘living lab’ UH tackles food, energy security through ancestral wisdom
+
+date: 2023-12-19, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> has partnered with <span aria-label="Iole">&#699;Iole</span>, a non-profit place-based research center and living scientific laboratory on <span aria-label="Hawaii">Hawai&#699;i</span> Island.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/19/iole-research-center-living-lab/">In ‘living lab’ <abbr>UH</abbr> tackles food, energy security through ancestral wisdom</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/19/iole-research-center-living-lab/">https://www.hawaii.edu/news/2023/12/19/iole-research-center-living-lab/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/19/iole-research-center-living-lab/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 NDAA paves the way for more economic opportunities for Guam 
+
+date: 2023-12-19, from: Pacific Island Times
+
+By Naina Rao The 2024 National Defense Authorization Act, which authorizes $841.4 billion in funding for the Defense Department, is on...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/2024-ndaa-paves-the-way-for-more-economic-opportunities-for-guam">https://www.pacificislandtimes.com/post/2024-ndaa-paves-the-way-for-more-economic-opportunities-for-guam</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/2024-ndaa-paves-the-way-for-more-economic-opportunities-for-guam">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Declares December 3rd National Day of Persons with Disabilities: A Beacon of Inclusion
+
+date: 2023-12-19, from: Island Times
+
+<p>Koror, Palau – December 17, 2023: Palau has officially established December 3rd as the National Day of Persons with Disabilities. This historic move, solidified by Executive Order No. 488 signed by President Surangel Whipps, Jr., underscores the nation&#8217;s commitment to inclusion and equality for all. Recognizing Contributions, Embracing Potential: The Executive Order acknowledges the vital [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-declares-december-3rd-national-day-of-persons-with-disabilities-a-beacon-of-inclusion/">Palau Declares December 3rd National Day of Persons with Disabilities: A Beacon of Inclusion</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-declares-december-3rd-national-day-of-persons-with-disabilities-a-beacon-of-inclusion/">https://islandtimes.org/palau-declares-december-3rd-national-day-of-persons-with-disabilities-a-beacon-of-inclusion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-declares-december-3rd-national-day-of-persons-with-disabilities-a-beacon-of-inclusion/">Save to Pocket</a>
+</span>
+
+---
+
+## Appellate Court Upholds Theft Conviction of Former Palau Police Officer
+
+date: 2023-12-19, from: Island Times
+
+<p>KOROR, Palau (AP) — The Palau Appellate Court has affirmed the conviction of former police officer Jonnie Ngeluk for theft of government property, rejecting her claims of lacking criminal intent. Ngeluk, a former police lieutenant, was found guilty in December 2022 of stealing mobile lab equipment and promotional materials. She was sentenced to four years [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/appellate-court-upholds-theft-conviction-of-former-palau-police-officer/">Appellate Court Upholds Theft Conviction of Former Palau Police Officer</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/appellate-court-upholds-theft-conviction-of-former-palau-police-officer/">https://islandtimes.org/appellate-court-upholds-theft-conviction-of-former-palau-police-officer/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/appellate-court-upholds-theft-conviction-of-former-palau-police-officer/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Joins Chorus Raising Ethical Alarms on Autonomous Weapons
+
+date: 2023-12-19, from: Island Times
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67760" data-permalink="https://islandtimes.org/palau-joins-chorus-raising-ethical-alarms-on-autonomous-weapons/received_342771858383607/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?fit=1200%2C1600&amp;ssl=1" data-orig-size="1200,1600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="received_342771858383607" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/received_342771858383607.jpg?fit=768%2C1024&amp;ssl=1" /></figure>
+<p>MANILA, Philippines &#8211; The tiny Pacific island nation of Palau took a stand against the autonomous weapons revolution Monday, calling for a cautious approach to lethal AI-powered warfare during an Indo-Pacific security conference. Vice President and Minister of Justice Uduch Sengebau-Senior, citing the delicate ecosystems and unique vulnerabilities of Small Island Developing States (SIDS), urged [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-joins-chorus-raising-ethical-alarms-on-autonomous-weapons/">Palau Joins Chorus Raising Ethical Alarms on Autonomous Weapons</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-joins-chorus-raising-ethical-alarms-on-autonomous-weapons/">https://islandtimes.org/palau-joins-chorus-raising-ethical-alarms-on-autonomous-weapons/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-joins-chorus-raising-ethical-alarms-on-autonomous-weapons/">Save to Pocket</a>
+</span>
+
+---
+
+## Pacific Countries Look to Strengthening Teieniwa Vision at UN meeting
+
+date: 2023-12-19, from: Island Times
+
+<p>By Leilani Reklai, at the UN COSP10 in Atlanta, US, for the Pacific Anti-Corruption Journalists Network Pacific Countries at the Tenth Session of the Conference of the States Parties to the United Nations Convention against Corruption (CoSP10) in Atlanta, US, made significant commitments to strengthening Teieniwa Vision, adopted formally in 2021 as the Pacific’s regional [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-countries-look-to-strengthening-teieniwa-vision-at-un-meeting/">Pacific Countries Look to Strengthening Teieniwa Vision at UN meeting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/pacific-countries-look-to-strengthening-teieniwa-vision-at-un-meeting/">https://islandtimes.org/pacific-countries-look-to-strengthening-teieniwa-vision-at-un-meeting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/pacific-countries-look-to-strengthening-teieniwa-vision-at-un-meeting/">Save to Pocket</a>
+</span>
+
+---
+
+## Dr. Downs journeys back to Palau
+
+date: 2023-12-19, from: Island Times
+
+<p>By Lisa McFarland MBA, KnowledgeWell Executive Director KnowledgeWell volunteer and former Palau resident Palau welcomes back Kristen Downs, a climate, water, and health expert, on January 1st. This homecoming holds special significance for Downs, whose parents, Dr. Tim Downs and Denise, played vital roles in the island nation. Her father dedicated his career to the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/dr-downs-journeys-back-to-palau/">Dr. Downs journeys back to Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/dr-downs-journeys-back-to-palau/">https://islandtimes.org/dr-downs-journeys-back-to-palau/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/dr-downs-journeys-back-to-palau/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Upgrades Rural Roads with Taiwan-Funded Stimulus Grant
+
+date: 2023-12-19, from: Island Times
+
+<figure><img width="322" height="242" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Untitled-5.jpg?fit=322%2C242&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Untitled-5.jpg?w=322&amp;ssl=1 322w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Untitled-5.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Untitled-5.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Untitled-5.jpg?fit=322%2C242&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Untitled-5.jpg?fit=322%2C242&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67747" data-permalink="https://islandtimes.org/palau-upgrades-rural-roads-with-taiwan-funded-stimulus-grant/untitled-5-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Untitled-5.jpg?fit=322%2C242&amp;ssl=1" data-orig-size="322,242" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Untitled-5" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Untitled-5.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Untitled-5.jpg?fit=322%2C242&amp;ssl=1" /></figure>
+<p>Ngatpang, Palau (Dec. 18, 2023) &#8211; Palauan residents in Ngatpang State celebrated smoother commutes and a brighter future after Taiwan poured millions into infrastructure projects. The island nation witnessed the completion and groundbreaking of five construction initiatives, including road resurfacing and a gleaming new basketball court for Ibobang High School, all courtesy of Taiwan&#8217;s Economy [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-upgrades-rural-roads-with-taiwan-funded-stimulus-grant/">Palau Upgrades Rural Roads with Taiwan-Funded Stimulus Grant</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-upgrades-rural-roads-with-taiwan-funded-stimulus-grant/">https://islandtimes.org/palau-upgrades-rural-roads-with-taiwan-funded-stimulus-grant/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-upgrades-rural-roads-with-taiwan-funded-stimulus-grant/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Chamber of Commerce Donates Igloos to Central Schools
+
+date: 2023-12-19, from: Island Times
+
+<figure><img width="512" height="751" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PCOC.jpg?fit=512%2C751&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PCOC.jpg?w=512&amp;ssl=1 512w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PCOC.jpg?resize=205%2C300&amp;ssl=1 205w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PCOC.jpg?resize=400%2C587&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PCOC.jpg?fit=512%2C751&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67745" data-permalink="https://islandtimes.org/palau-chamber-of-commerce-donates-igloos-to-central-schools/pcoc-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PCOC.jpg?fit=512%2C751&amp;ssl=1" data-orig-size="512,751" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PCOC" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PCOC.jpg?fit=205%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PCOC.jpg?fit=512%2C751&amp;ssl=1" /></figure>
+<p>The Palau Chamber of Commerce donated igloos to the elementary schools participating school sports competition. The donations is part of the recent project with the United Nations Oﬃce of Drugs and Crime (UNODC) to promote integrity in business and community. The Chamber chose to donate igloos to encourage and support drinking water during school and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-chamber-of-commerce-donates-igloos-to-central-schools/">Palau Chamber of Commerce Donates Igloos to Central Schools</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-chamber-of-commerce-donates-igloos-to-central-schools/">https://islandtimes.org/palau-chamber-of-commerce-donates-igloos-to-central-schools/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-chamber-of-commerce-donates-igloos-to-central-schools/">Save to Pocket</a>
+</span>
+
+---
+
+## Pohnpei Palau Family Association hosts annual thanksgiving – Christmas celebration, welcomes Aimeliik State Leadership and Pohnpei Baseball Team
+
+date: 2023-12-19, from: Island Times
+
+<figure><img width="301" height="230" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PPFA-President-Mr.-Edward-with-Aimeliik-Leaders.jpg?fit=301%2C230&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PPFA-President-Mr.-Edward-with-Aimeliik-Leaders.jpg?w=301&amp;ssl=1 301w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PPFA-President-Mr.-Edward-with-Aimeliik-Leaders.jpg?fit=301%2C230&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PPFA-President-Mr.-Edward-with-Aimeliik-Leaders.jpg?fit=301%2C230&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67742" data-permalink="https://islandtimes.org/pohnpei-palau-family-association-hosts-annual-thanksgiving-christmas-celebration-welcomes-aimeliik-state-leadership-and-pohnpei-baseball-team/ppfa-president-mr-edward-with-aimeliik-leaders/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PPFA-President-Mr.-Edward-with-Aimeliik-Leaders.jpg?fit=301%2C230&amp;ssl=1" data-orig-size="301,230" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PPFA President Mr. Edward with Aimeliik Leaders" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PPFA-President-Mr.-Edward-with-Aimeliik-Leaders.jpg?fit=300%2C229&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PPFA-President-Mr.-Edward-with-Aimeliik-Leaders.jpg?fit=301%2C230&amp;ssl=1" /></figure>
+<p>Koror, Palau &#8211; November 9, 2023 &#8211; The Pohnpei Palau Family Association (PPFA) hosted its Annual Thanksgiving &#8211; Christmas celebration on November 9, 2023, at Short Island, which was graced by a distinguished guest, Speaker of Aimeliik State, Lucio Obakerbau, Vice Speaker Nelson “Kolas” Eriich, Floor Leader Alvin Samsel, Chairman of Ways and Means Scott [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pohnpei-palau-family-association-hosts-annual-thanksgiving-christmas-celebration-welcomes-aimeliik-state-leadership-and-pohnpei-baseball-team/">Pohnpei Palau Family Association hosts annual thanksgiving – Christmas celebration, welcomes Aimeliik State Leadership and Pohnpei Baseball Team</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/pohnpei-palau-family-association-hosts-annual-thanksgiving-christmas-celebration-welcomes-aimeliik-state-leadership-and-pohnpei-baseball-team/">https://islandtimes.org/pohnpei-palau-family-association-hosts-annual-thanksgiving-christmas-celebration-welcomes-aimeliik-state-leadership-and-pohnpei-baseball-team/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/pohnpei-palau-family-association-hosts-annual-thanksgiving-christmas-celebration-welcomes-aimeliik-state-leadership-and-pohnpei-baseball-team/">Save to Pocket</a>
+</span>
+
+---
+
+## Do no harm: supporting Pacific women leaders
+
+date: 2023-12-19, from: Island Times
+
+<figure><img width="225" height="225" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/images-1.png?fit=225%2C225&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/images-1.png?w=225&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/images-1.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/images-1.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/images-1.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/images-1.png?fit=225%2C225&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/images-1.png?fit=225%2C225&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67740" data-permalink="https://islandtimes.org/do-no-harm-supporting-pacific-women-leaders/images-1-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/images-1.png?fit=225%2C225&amp;ssl=1" data-orig-size="225,225" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (1)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/images-1.png?fit=225%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/images-1.png?fit=225%2C225&amp;ssl=1" /></figure>
+<p>By Sonia Palmieri SUVA &#160;(DEVPOLICY.ORG) &#8212; The Pacific Islands Forum Leaders Meeting in Rarotonga, Cook Islands, last month committed to a revitalised gender equality declaration. This declaration, spearheaded by the Pacific Islands Forum Secretariat, was subject to extensive consultation across the region. The first of its seven priority areas is “political leadership and regionalism”, in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/do-no-harm-supporting-pacific-women-leaders/">Do no harm: supporting Pacific women leaders</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/do-no-harm-supporting-pacific-women-leaders/">https://islandtimes.org/do-no-harm-supporting-pacific-women-leaders/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/do-no-harm-supporting-pacific-women-leaders/">Save to Pocket</a>
+</span>
+
+---
+
+## Pacific Islands Tighten Grip on Graft: Teieniwa Vision Gains Traction at UN Confab
+
+date: 2023-12-19, from: Island Times
+
+<p>By Leilani Reklai, at the UN COSP10 in Atlanta, US, for the Pacific Anti-Corruption Journalists Network ATLANTA, US &#8211; Pacific Island nations flexed their anti-corruption muscles at the 10th Conference of the States Parties to the UN Convention against Corruption (CoSP10), pledging renewed vigor to implement the Teieniwa Vision, their regional roadmap for stamping out [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-islands-tighten-grip-on-graft-teieniwa-vision-gains-traction-at-un-confab/">Pacific Islands Tighten Grip on Graft: Teieniwa Vision Gains Traction at UN Confab</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/pacific-islands-tighten-grip-on-graft-teieniwa-vision-gains-traction-at-un-confab/">https://islandtimes.org/pacific-islands-tighten-grip-on-graft-teieniwa-vision-gains-traction-at-un-confab/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/pacific-islands-tighten-grip-on-graft-teieniwa-vision-gains-traction-at-un-confab/">Save to Pocket</a>
+</span>
+
+---
+
+## Marshall Islands election puts opposition in driver’s seat
+
+date: 2023-12-19, from: Island Times
+
+<p>MAJURO, 15 DECEMBER 2023 (RNZ PACIFIC) &#8212; The Marshall Islands national election results show the current parliamentary opposition to be in the driver&#8217;s seat to form a new government when the body meets for the first time in early January. Although there are no official political parties in the Marshall Islands, the group that supported [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/marshall-islands-election-puts-opposition-in-drivers-seat/">Marshall Islands election puts opposition in driver’s seat</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/marshall-islands-election-puts-opposition-in-drivers-seat/">https://islandtimes.org/marshall-islands-election-puts-opposition-in-drivers-seat/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/marshall-islands-election-puts-opposition-in-drivers-seat/">Save to Pocket</a>
+</span>
+
+---
+
+## North Korea fires a ballistic missile into the sea as South Korea and US step up deterrence plans
+
+date: 2023-12-19, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/North-Korea-fires.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/North-Korea-fires.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/North-Korea-fires.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/North-Korea-fires.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/North-Korea-fires.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/North-Korea-fires.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/North-Korea-fires.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67731" data-permalink="https://islandtimes.org/north-korea-fires-a-ballistic-missile-into-the-sea-as-south-korea-and-us-step-up-deterrence-plans/koreas-tensions-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/North-Korea-fires.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;FILE - This photo provided by the North Korean government shows what it says is an intercontinental ballistic missile in a launching drill at the Sunan international airport in Pyongyang, North Korea on March 16, 2023. Independent journalists were not given access to cover the event depicted in this image distributed by the North Korean government. The content of this image is as provided and cannot be independently verified. Korean language watermark on image as provided by source reads: \&quot;KCNA\&quot; which is the abbreviation for Korean Central News Agency. (Korean Central News Agency\/Korea News Service via AP, File)&quot;,&quot;created_timestamp&quot;:&quot;1678883128&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Koreas Tensions&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Koreas Tensions" data-image-description="" data-image-caption="&lt;p&gt;FILE &#8211; This photo provided by the North Korean government shows what it says is an intercontinental ballistic missile in a launching drill at the Sunan international airport in Pyongyang, North Korea on March 16, 2023. Independent journalists were not given access to cover the event depicted in this image distributed by the North Korean government. The content of this image is as provided and cannot be independently verified. Korean language watermark on image as provided by source reads: &#8220;KCNA&#8221; which is the abbreviation for Korean Central News Agency. (Korean Central News Agency/Korea News Service via AP, File)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/North-Korea-fires.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/North-Korea-fires.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By KIM TONG-HYUNG Associated Press SEOUL, South Korea (AP) — North Korea on Sunday fired a short-range ballistic missile into the sea, South Korea said, in a possible display of defiance against the latest steps by Washington and Seoul to tighten their&#160;nuclear deterrence plans against North Korean threats. South Korea’s Joint Chiefs of Staff said [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/north-korea-fires-a-ballistic-missile-into-the-sea-as-south-korea-and-us-step-up-deterrence-plans/">North Korea fires a ballistic missile into the sea as South Korea and US step up deterrence plans</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/north-korea-fires-a-ballistic-missile-into-the-sea-as-south-korea-and-us-step-up-deterrence-plans/">https://islandtimes.org/north-korea-fires-a-ballistic-missile-into-the-sea-as-south-korea-and-us-step-up-deterrence-plans/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/north-korea-fires-a-ballistic-missile-into-the-sea-as-south-korea-and-us-step-up-deterrence-plans/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Weightlifting Federation Hosts Outreach Event with Palau athletes
+
+date: 2023-12-19, from: Island Times
+
+<figure><img width="1024" height="819" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?fit=1024%2C819&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?w=4000&amp;ssl=1 4000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?resize=300%2C240&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?resize=1024%2C819&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?resize=768%2C614&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?resize=1536%2C1229&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?resize=2048%2C1638&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?resize=1200%2C960&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?resize=1568%2C1254&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?resize=400%2C320&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?resize=706%2C565&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?fit=1024%2C819&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67729" data-permalink="https://islandtimes.org/palau-weightlifting-federation-hosts-outreach-event-with-palau-athletes-2/pwf-outreach-group-picture-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?fit=4000%2C3200&amp;ssl=1" data-orig-size="4000,3200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="PWF Outreach Group Picture" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?fit=300%2C240&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/PWF-Outreach-Group-Picture-1.png?fit=780%2C624&amp;ssl=1" /></figure>
+<p>On Saturday, December 16, 2024, the Palau Weightlifting Federation (PWF) invited athletes from Athletics and Beach Volleyball to attend an outreach event held at the Palau Civic Center. This event focused on educating athletes about healthy lifestyles and physical, mental, and spiritual well-being. The event was attended by a diverse group of individuals/athletes who were [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-weightlifting-federation-hosts-outreach-event-with-palau-athletes-2/">Palau Weightlifting Federation Hosts Outreach Event with Palau athletes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-weightlifting-federation-hosts-outreach-event-with-palau-athletes-2/">https://islandtimes.org/palau-weightlifting-federation-hosts-outreach-event-with-palau-athletes-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-weightlifting-federation-hosts-outreach-event-with-palau-athletes-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Auburn controls USC 91-75 in Bronny James’ first road game
+
+date: 2023-12-19, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Auburn-controls.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Auburn-controls.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Auburn-controls.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Auburn-controls.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Auburn-controls.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Auburn-controls.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Auburn-controls.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67727" data-permalink="https://islandtimes.org/auburn-controls-usc-91-75-in-bronny-james-first-road-game/usc-auburn-basketball/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Auburn-controls.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;Canon EOS R3&quot;,&quot;caption&quot;:&quot;USC guard Bronny James warms up before a game against Auburn in an NCAA college basketball game Sunday, Dec. 17, 2023, in Auburn, Ala. (AP Photo\/Butch Dill)&quot;,&quot;created_timestamp&quot;:&quot;1702832360&quot;,&quot;copyright&quot;:&quot;Copyright 2023 The Associated Press. All Rights Reserved.&quot;,&quot;focal_length&quot;:&quot;105&quot;,&quot;iso&quot;:&quot;6400&quot;,&quot;shutter_speed&quot;:&quot;0.0008&quot;,&quot;title&quot;:&quot;USC Auburn Basketball&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="USC Auburn Basketball" data-image-description="" data-image-caption="&lt;p&gt;USC guard Bronny James warms up before a game against Auburn in an NCAA college basketball game Sunday, Dec. 17, 2023, in Auburn, Ala. (AP Photo/Butch Dill)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Auburn-controls.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/Auburn-controls.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By JOHN ZENOR AP Sports Writer AUBURN, Ala. (AP) — A dominant performance by Auburn served as a reminder that neither USC nor&#160;Bronny James&#160;are a finished product. Aden Holloway scored 15 points with six assists and Jaylin Williams had 14 points to help Auburn beat USC 91-75 on Sunday as the Trojans&#8217; James continued to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/auburn-controls-usc-91-75-in-bronny-james-first-road-game/">Auburn controls USC 91-75 in Bronny James&#8217; first road game</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/auburn-controls-usc-91-75-in-bronny-james-first-road-game/">https://islandtimes.org/auburn-controls-usc-91-75-in-bronny-james-first-road-game/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/auburn-controls-usc-91-75-in-bronny-james-first-road-game/">Save to Pocket</a>
+</span>
+
+---
+
+## 59th International Coconut Community
+
+date: 2023-12-19, from: FSM Public Information Office (Simina Administration)
+
+<p>
+	<img alt="" src="https://gov.fm/images/2023/IMG_8529.jpg" style="width: 561px; height: 332.025px; margin: 6px; float: left;" /><span style="font-size:18px;"><strong>FSMPIO -</strong> The Federated States of Micronesia (&ldquo;FSM&rdquo;) Department of Resources and Development together with Vital-FSMPC recently participated in the 59<sup>th</sup> International Coconut Community (&ldquo;ICC&rdquo;) Session and Ministerial Meeting in Lampung, Indonesia from 5<sup>th</sup> &ndash; 7<sup>th</sup> of December 2023.</span></p>
+<p>
+	<span style="font-size:18px;">The ICC Session and Ministerial Meeting is the highest decision-making body of the community covering 21 countries from the regions of Asia, Pacific, Americas, and Africa and is an annual event that allow member countries to discuss, deliberate and consider policy decisions which can drive the coconut sector globally as well as at their respective countries.&nbsp;</span></p>
+<p>
+	<span style="font-size:18px;">The previous 2 sessions were held virtually due to the COVID-19 pandemic, this year, the three-day event took place in person in Indonesia, with FSM represented by the FSM R&amp;D Assistant Secretary for the Division of Trade and Investment, Mr. Florian Yatilman and Vital-FSMPC staff Mr. Peterson Anson and Mr. Eric Defan.</span></p>
+<p>
+	<span style="font-size:18px;">During the official country presentation, Mr. Yatilman placed emphasis on the FSM Coconut National Export Strategy (&ldquo;CocoNES&rdquo;) as the first ever sector-specific export strategy for the nation and stated the strategy&rsquo;s potential to elevate the sector in the years to come, and that &ldquo;&hellip;we envisage this strategy as being the backbone to realize the huge potential for which our coconut sector holds. The strategy with its plan of actions will promote sustainable farming, improving livelihoods especially in the rural communities, presenting employment opportunities, income generation and promoting economic growth.&rdquo;</span></p>
+<p>
+	<span style="font-size:18px;">It was also shared that issues such as farmer migration, climate change, land fertility and pests and diseases present challenges to the coconut sector. However, presentations by the ICC Secretariat show a positive growth and outlook for the sector on the global scale where the FSM Coconut National Export Strategy provides a comprehensive roadmap for a collective approach for all sector players, development partners, and stakeholders with renewed interest to move the sector forward.</span></p>
+<p>
+	<span style="font-size:18px;">In his closing remarks Mr. Yatilman stressed again on the vitality of the CocoNES to the 78 participants where he expressed, &ldquo;The importance of the FSM Coconut Export Strategy is that it aligns with FSM&rsquo;s Strategic Development Plans and the UN Sustainable Development Goals&rdquo;, He also stated that &ldquo;The FSM seeks assistance from the ICC and observer organizations in areas such capacity building, technical and funding support in the implementation of the CocoNES&rdquo;.&nbsp;</span></p>
+
+
+<span class="feed-item-link">
+<a href="https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/771-59th-international-coconut-community?Itemid=177">https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/771-59th-international-coconut-community?Itemid=177</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/771-59th-international-coconut-community?Itemid=177">Save to Pocket</a>
+</span>
+
+---
+
+## Empowering Seafood Professionals: Inaugural Graduates and Future Initiatives in Kiribati
+
+date: 2023-12-19, from: University of the South Pacific (Fiji)
+
+<p>In the month of November, 19 trainees became the first cohort to graduate with the...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/empowering-seafood-professionals-inaugural-graduates-and-future-initiatives-in-kiribati/">Empowering Seafood Professionals: Inaugural Graduates and Future Initiatives in Kiribati</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacfic</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/empowering-seafood-professionals-inaugural-graduates-and-future-initiatives-in-kiribati/">https://www.usp.ac.fj/news/empowering-seafood-professionals-inaugural-graduates-and-future-initiatives-in-kiribati/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/empowering-seafood-professionals-inaugural-graduates-and-future-initiatives-in-kiribati/">Save to Pocket</a>
+</span>
+
+---
+
+## Track Two Dialogue focuses on the geopolitical landscape in the region
+
+date: 2023-12-19, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP)convened the inaugural Track Two Pacific Dialogue on Security...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/track-two-dialogue-focuses-on-the-geopolitical-landscape-in-the-region/">Track Two Dialogue focuses on the geopolitical landscape in the region</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacfic</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/track-two-dialogue-focuses-on-the-geopolitical-landscape-in-the-region/">https://www.usp.ac.fj/news/track-two-dialogue-focuses-on-the-geopolitical-landscape-in-the-region/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/track-two-dialogue-focuses-on-the-geopolitical-landscape-in-the-region/">Save to Pocket</a>
+</span>
 
 ---
 

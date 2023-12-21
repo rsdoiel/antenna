@@ -1,11 +1,131 @@
 ---
 title: games 2023.51
-updated: 2023-12-18 11:08:58
+updated: 2023-12-20 17:21:40
 ---
 
 # games 2023.51
 
-(date: 2023-12-18 11:08:58)
+(date: 2023-12-20 17:21:40)
+
+---
+
+## Maestro’s biggest problem? Bradley Cooper’s open hunger for an Oscar
+
+date: 2023-12-20, updated: 2023-12-20, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24003234/maestro-bradley-cooper-analysis-netflix">https://www.polygon.com/24003234/maestro-bradley-cooper-analysis-netflix</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24003234/maestro-bradley-cooper-analysis-netflix">Save to Pocket</a>
+</span>
+
+---
+
+## Kerbal Space Program 2’s latest update launches player count into orbit
+
+date: 2023-12-20, updated: 2023-12-20, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/24009393/ksp2-for-science-update-launch-player-count-steam-epic">https://www.polygon.com/gaming/24009393/ksp2-for-science-update-launch-player-count-steam-epic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/24009393/ksp2-for-science-update-launch-player-count-steam-epic">Save to Pocket</a>
+</span>
+
+---
+
+## All Great Fairy Fountain locations in Zelda: Tears of the Kingdom
+
+date: 2023-12-20, updated: 2023-12-20, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23703498/great-fairy-fountains-locations">https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23703498/great-fairy-fountains-locations</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23703498/great-fairy-fountains-locations">Save to Pocket</a>
+</span>
+
+---
+
+## Flesh and Blood’s newest hero wants you to bet your life in the Death Match Arena
+
+date: 2023-12-20, updated: 2023-12-20, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/tabletop-games/24007790/flesh-and-blood-betsy-hero-reveal-trailer-wager-mechanic">https://www.polygon.com/tabletop-games/24007790/flesh-and-blood-betsy-hero-reveal-trailer-wager-mechanic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/tabletop-games/24007790/flesh-and-blood-betsy-hero-reveal-trailer-wager-mechanic">Save to Pocket</a>
+</span>
+
+---
+
+## Emma Stone gave Poor Things an unexpected happy ending, says director Yorgos Lanthimos
+
+date: 2023-12-20, updated: 2023-12-20, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24006971/poor-things-yorgos-lanthimos-interview-emma-stone">https://www.polygon.com/24006971/poor-things-yorgos-lanthimos-interview-emma-stone</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24006971/poor-things-yorgos-lanthimos-interview-emma-stone">Save to Pocket</a>
+</span>
+
+---
+
+## PS5 sells 50M units, a big milestone after a turbulent start
+
+date: 2023-12-20, updated: 2023-12-20, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24009247/ps5-sales-numbers-2023-sony">https://www.polygon.com/24009247/ps5-sales-numbers-2023-sony</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24009247/ps5-sales-numbers-2023-sony">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 isn’t a blueprint for the future of RPGs — but it might be an omen
+
+date: 2023-12-20, updated: 2023-12-20, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24008256/2023-rpgs-baldurs-gate-3-starfield-larian-bethesda">https://www.polygon.com/24008256/2023-rpgs-baldurs-gate-3-starfield-larian-bethesda</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24008256/2023-rpgs-baldurs-gate-3-starfield-larian-bethesda">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Starcrossed’ Exotic mission and secret chest guide in Destiny 2: Season of the Wish
+
+date: 2023-12-19, updated: 2023-12-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/destiny-2-guide-walkthrough/24008173/starcrossed-secret-chest-wish-keeper-exotic">https://www.polygon.com/destiny-2-guide-walkthrough/24008173/starcrossed-secret-chest-wish-keeper-exotic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/destiny-2-guide-walkthrough/24008173/starcrossed-secret-chest-wish-keeper-exotic">Save to Pocket</a>
+</span>
+
+---
+
+## Watch James Cameron use a virtual camera to direct Avatar: The Way of Water
+
+date: 2023-12-19, updated: 2023-12-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24008184/james-cameron-avatar-way-water-shoot-virtual-camera">https://www.polygon.com/24008184/james-cameron-avatar-way-water-shoot-virtual-camera</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24008184/james-cameron-avatar-way-water-shoot-virtual-camera">Save to Pocket</a>
+</span>
+
+---
+
+## Dallas Stars goalie debuts new Mario Kart helmet: ‘I played a lot growing up’
+
+date: 2023-12-19, updated: 2023-12-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24008146/dallas-stars-goalie-scott-wedgewood-mario-kart-helmet-mask">https://www.polygon.com/24008146/dallas-stars-goalie-scott-wedgewood-mario-kart-helmet-mask</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24008146/dallas-stars-goalie-scott-wedgewood-mario-kart-helmet-mask">Save to Pocket</a>
+</span>
 
 ---
 

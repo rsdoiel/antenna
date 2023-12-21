@@ -1,11 +1,223 @@
 ---
 title: weather 2023.51
-updated: 2023-12-18 11:08:58
+updated: 2023-12-20 17:21:40
 ---
 
 # weather 2023.51
 
-(date: 2023-12-18 11:08:58)
+(date: 2023-12-20 17:21:40)
+
+---
+
+## SPC Dec 20, 2023 1730 UTC Day 2 Convective Outlook
+
+date: 2023-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1100 AM CST Wed Dec 20 2023
+
+Valid 211200Z - 221200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Isolated thunderstorms should occur Thursday across parts of
+central/southern California and southern Arizona. Severe
+thunderstorms are not expected.
+
+...Synopsis and Discussion...
+An upper low should be centered well off the coast of southern CA
+early Thursday morning. This low is expected to drift gradually
+southward through the day, before moving more eastward towards the
+coast overnight and into Friday morning. Large-scale ascent, ample
+mid-level moisture, and cold mid-level temperatures associated with
+this upper low should encourage isolated thunderstorms along and
+near the central/southern CA coast through the period. As the low
+moves gradually eastward, showers and occasional thunderstorms are
+forecast to expand eastward across southern Arizona through early
+Friday morning. Weak instability should preclude a meaningful threat
+for severe thunderstorms across these areas.
+
+..Gleason.. 12/20/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No watches are valid as of Wed Dec 20 17:05:01 UTC 2023
+
+date: 2023-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Wed Dec 20 17:05:01 UTC 2023.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No MDs are in effect as of Wed Dec 20 17:05:01 UTC 2023
+
+date: 2023-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Wed Dec 20 17:05:01 UTC 2023.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Dec 20, 2023 1630 UTC Day 1 Convective Outlook
+
+date: 2023-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1025 AM CST Wed Dec 20 2023
+
+Valid 201630Z - 211200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Isolated thunderstorms will be possible across parts of
+southern/central California and over portions of the Southwest.
+Severe weather is not expected.
+
+...Discussion...
+Low-amplitude ridging aloft will prevail across much of the country
+today, as eastern U.S. troughing continues to slowly depart the
+Northeast.  The main feature of interest with respect to convective
+potential remains an upper low off the coast of California, which
+will continue moving slowly southward.
+
+Within the warm conveyor region of this system, and just ahead of a
+weak surface front moving onshore, a disorganized band of convection
+is indicated -- the strongest portion of which will gradually move
+onshore over San Luis Obispo and Santa Barbara Counties over the
+next few hours.  Ahead of this band, onshore instability remains
+very weak and low-topped -- as evidenced by the overall lack of
+lightning.  This, combined with weak low-level shear precludes any
+appreciable risk for severe weather, though gusty winds may
+accompany any stronger convective elements.
+
+Elsewhere, sporadic lightning will continue across portions of the 
+Southwest, in conjunction with a weaker mid-level disturbance moving
+slowly eastward across the Four Corners states.  Thunderstorms are
+not expected across the remainder of the U.S., where surface high
+pressure and accompanying cool/stable conditions prevail.
+
+..Goss/Thornton.. 12/20/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2023-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1026 AM CST Wed Dec 20 2023
+
+Valid 201700Z - 211200Z
+
+...NO CRITICAL AREAS...
+
+No changes, the potential for critical fire-weather conditions is
+low.
+
+..Lyons.. 12/20/2023
+
+.PREV DISCUSSION... /ISSUED 1249 AM CST Wed Dec 20 2023/
+
+...Synopsis...
+Upper-ridging will overspread the central and eastern U.S. as a
+mid-level trough meanders along the California coast today. Surface
+high pressure will reinforce cooler temperatures from the
+Mississippi River to the Atlantic coastline, as well as over the
+Intermountain West. Meanwhile, surface lee troughing will encourage
+modest moisture return across the Plains states, with the West Coast
+mid-level trough supporting appreciable precipitation accumulations
+over much of California. The culmination of the aforementioned
+synoptic setup will be quiescent fire-weather conditions over the
+CONUS.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Dec 20, 2023 1300 UTC Day 1 Convective Outlook
+
+date: 2023-12-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0631 AM CST Wed Dec 20 2023
+
+Valid 201300Z - 211200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Isolated thunderstorms will be possible across parts of
+southern/central California and over portions of the Southwest. The
+severe-thunderstorm threat appears low.
+
+...CA to AZ/NM though tonight...
+A midlevel low is expected to move slowly southward off the
+central/southern CA coast through early Thursday, while a weak/lead
+shortwave trough ejects northeastward over AZ/NM.  Some midlevel
+convection occurred overnight across southern AZ in association with
+the lead wave, where sufficient midlevel lapse rates/moisture
+contributed to MUCAPE of 100-200 J/kg (rooted near 700 mb). 
+Isolated thunderstorms will be possible through the day from
+southeast AZ shifting eastward into NM.  Otherwise, the primary
+baroclinic band will overspread the central CA coast today and
+eventually reach the southern CA coast by tonight.  Isolated
+thunderstorms will be possible near the coast through the period,
+and across the San Joaquin Valley this afternoon.  Forecast wind
+profiles suggest low potential for embedded organized/weakly
+rotating storms just offshore, as observed south of San Francisco
+this morning.  However, inland buoyancy should remain too marginal
+to introduce any damaging wind and/or tornado probabilities.
+
+..Thompson/Broyles.. 12/20/2023
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -44,168 +256,6 @@ fire weather conditions are expected over the U.S.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No watches are valid as of Mon Dec 18 18:56:01 UTC 2023
-
-date: 2023-12-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Mon Dec 18 18:56:01 UTC 2023.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No MDs are in effect as of Mon Dec 18 18:56:01 UTC 2023
-
-date: 2023-12-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Mon Dec 18 18:56:01 UTC 2023.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
-</span>
-
----
-
-## SPC Dec 18, 2023 1730 UTC Day 2 Convective Outlook
-
-date: 2023-12-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1106 AM CST Mon Dec 18 2023
-
-Valid 191200Z - 201200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected on Tuesday.
-
-...Synopsis...
-
-An upper trough over the eastern U.S. will move offshore the
-Atlantic coast on Tuesday. In its wake, upper ridging will envelop
-much of the CONUS. Meanwhile, another upper trough/closed low over
-the eastern Pacific will approach the CA coast by Wednesday morning.
-Strong surface high pressure building over much of the eastern half
-of the CONUS will result in stable conditions. Southwesterly flow
-aloft ahead of the Pacific upper low will maintain a stream of
-midlevel moisture into central/northern CA. A few deeper convective
-elements may support isolated lightning flashes along the coast and
-into the valleys of central/northern CA, especially during the
-overnight into early Wednesday morning hours. Severe storms are not
-expected.
-
-..Leitman.. 12/18/2023
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2023-12-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1017 AM CST Mon Dec 18 2023
-
-Valid 181700Z - 191200Z
-
-...NO CRITICAL AREAS...
-
-No changes. Cool temperatures and abundant precipitation will keep
-fire-weather conditions minimal over much of the CONUS.
-
-..Lyons.. 12/18/2023
-
-.PREV DISCUSSION... /ISSUED 0146 AM CST Mon Dec 18 2023/
-
-...Synopsis...
-A mid-level trough will amplify along the East Coast as a second
-mid-level trough impinges on California, with abundant rainfall
-expected in both regions today. Meanwhile, surface high pressure and
-associated cooler air will overspread the central CONUS. The net
-result will be quiescent fire weather conditions across the U.S.,
-especially considering that fuels will be poorly receptive to
-wildfire spread for many locales.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Dec 18, 2023 1630 UTC Day 1 Convective Outlook
-
-date: 2023-12-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1013 AM CST Mon Dec 18 2023
-
-Valid 181630Z - 191200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS
-SOUTHEASTERN NEW ENGLAND...
-
-...SUMMARY...
-Convectively enhanced wind gusts will affect southeastern New
-England this afternoon.
-
-...Southeastern New England..
-A narrow/forced band of convection is moving quickly eastward across
-southeastern Massachusetts and Rhode Island at this time,
-immediately ahead of a strong, northeastward-moving mid-level vort
-max depicted by water vapor imagery just south of Long Island.
-
-While cool surface temperatures have prohibited surface-based
-instability in most areas, a small area of warmer (low 60s) boundary
-layer is indicated over far southeastern New England (southeast
-Massachusetts).  As such, minor enhancement of the intensity of the
-convective band may occur over the next couple of hours, possibly
-resulting in some mechanical downward transport of intense low-level
-flow observed across this area.  This could result in gusts slightly
-above the already above-severe level gradient gusts that are
-ongoing, until convection moves offshore later this afternoon.  For
-additional short-term information, please refer to SWOMCD #2337.
-
-...California...
-
-Thunderstorms associated with an inland-moving eastern Pacific
-short-wave trough have diminished across California, but a few
-additional lightning flashes remain possible this afternoon/
-evening.
-
-..Goss/Thornton.. 12/18/2023
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
 </span>
 
 ---
@@ -343,62 +393,6 @@ storm motion vector 18040.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/ww0722.html">https://www.spc.noaa.gov/products/watch/ww0722.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/ww0722.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Dec 17, 2023 1300 UTC Day 1 Convective Outlook
-
-date: 2023-12-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0646 AM CST Sun Dec 17 2023
-
-Valid 171300Z - 181200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THROUGH TONIGHT
-ACROSS THE COASTAL CAROLINAS...
-
-...SUMMARY...
-Isolated damaging gusts and a tornado or two will be possible
-through tonight across the coastal Carolinas.
-
-...Coastal Carolinas through tonight...
-A deepening cyclone will progress from north FL this morning to
-eastern NC by 09-12z Monday, in response to gradual phasing of Gulf
-of Mexico shortwave troughs with a larger-scale trough over the
-eastern CONUS.  Midlevel drying with the passage of a lead shortwave
-trough and diminished ascent have acted to limit deep convection
-across FL overnight.  Any lingering severe threat will end across
-southeast FL by mid-late morning as drying occurs from the west and
-vertical shear continues to weaken.  The cyclone will skirt the GA
-coast during the day and then approach SC this afternoon and NC
-tonight.  A narrow portion of the surface warm sector could spread
-far enough inland to support some threat for near-surface-based
-convection across the coastal Carolinas, where vertical shear will
-be strong.  However, poor lapse rates aloft will tend to limit
-buoyancy in the zone of stronger forcing for ascent where vertical
-shear will be strongest, and cool shelf waters will likely maintain
-a shallow stable layer near the coast.  Will maintain the outlook
-area given the conditional potential for isolated damaging gusts and
-a tornado or two, but it is not clear how much of the potential will
-be realized inland.
-
-...Northern CA coast...
-To the east of a closed low over the eastern Pacific, isolated
-lightning flashes will be possible with embedded/elevated
-convection.
-
-..Thompson/Broyles.. 12/17/2023
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
 </span>
 
 

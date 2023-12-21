@@ -73,7 +73,7 @@ http://www.hookedonthepast.com/feed/ "~Hooked on the Past blog"
 http://www.multicores.org/blog/feed.rss "~Microcores blog"
 http://www.norvig.com/rss-feed.xml "~Peter Norvig's feed"
 # Moved to news2.txt
-#https://www.tataviam-nsn.us/feed/ "~Tatavium Tribal News"
+##https://www.tataviam-nsn.us/feed/ "~Tatavium Tribal News" # bad tls cert, 2023-12-20
 http://www.verticalfarm.com/?feed=rss2 "~Virtical Farm Blog"
 https://100r.co/links/rss.xml "~Hundred Rabbits blog"
 https://500ish.com/feed "~500-ish blog, A collection of posts by M.G. Siegler of around 500 words in length."

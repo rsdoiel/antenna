@@ -1,11 +1,91 @@
 ---
 title: libraries 2023.51
-updated: 2023-12-18 11:08:58
+updated: 2023-12-20 17:21:40
 ---
 
 # libraries 2023.51
 
-(date: 2023-12-18 11:08:58)
+(date: 2023-12-20 17:21:40)
+
+---
+
+## Fortune Brainstorm AI Conference: Themes and Ideas
+
+date: 2023-12-20, from: Scholarly Kitchen
+
+<p>Themes and ideas from the Fortune Brainstorm AI. “People won't lose their jobs to AI; they’ll lose their jobs to people that are using AI.”</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2023/12/20/fortune-brainstorm-ai/">Fortune Brainstorm AI Conference: Themes and Ideas</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2023/12/20/fortune-brainstorm-ai/">https://scholarlykitchen.sspnet.org/2023/12/20/fortune-brainstorm-ai/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2023/12/20/fortune-brainstorm-ai/">Save to Pocket</a>
+</span>
+
+---
+
+## Inferring Implicit 3D Representations from Human Figures on Pictorial Maps
+
+date: 2023-12-20, from: ETH Zurich, recently added
+
+Schnürer, Raimund
+
+<span class="feed-item-link">
+<a href="http://hdl.handle.net/20.500.11850/648445">http://hdl.handle.net/20.500.11850/648445</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/648445">Save to Pocket</a>
+</span>
+
+---
+
+## Navigating the Complex Landscape of Research Data Management and Sharing (DMS): DMS Activities from the RADS Initiative
+
+date: 2023-12-19, from: Association of Research Libraries News
+
+<p>Last Updated on December 19, 2023, 2:09 pm ET The Realities of Academic Data Sharing (RADS) Initiative has entered the second phase of the project, generously funded by the Institute...</p>
+<p>The post <a href="https://www.arl.org/blog/navigating-the-complex-landscape-of-research-data-management-and-sharing-dms-dms-activities-from-the-rads-initiative/">Navigating the Complex Landscape of Research Data Management and Sharing (DMS): DMS Activities from the RADS Initiative</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/blog/navigating-the-complex-landscape-of-research-data-management-and-sharing-dms-dms-activities-from-the-rads-initiative/">https://www.arl.org/blog/navigating-the-complex-landscape-of-research-data-management-and-sharing-dms-dms-activities-from-the-rads-initiative/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/blog/navigating-the-complex-landscape-of-research-data-management-and-sharing-dms-dms-activities-from-the-rads-initiative/">Save to Pocket</a>
+</span>
+
+---
+
+## Library Licensing Strategies
+
+date: 2023-12-19, from: Scholarly Kitchen
+
+<p> Libraries are accelerating engagement with transformative and pure publish agreements, balancing contract-based publishing support with an APC fund, and investing in the scholarly communications ecosystem.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2023/12/19/library-licensing-strategies/">Library Licensing Strategies</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2023/12/19/library-licensing-strategies/">https://scholarlykitchen.sspnet.org/2023/12/19/library-licensing-strategies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2023/12/19/library-licensing-strategies/">Save to Pocket</a>
+</span>
+
+---
+
+## Day in Review (December 18–19)
+
+date: 2023-12-19, from: Association of Research Libraries News
+
+<p>Last Updated on December 20, 2023, 11:24 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, December 19 &#124; Note: Day in Review will...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-december-18-20/">Day in Review (December 18–19)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/day-in-review/day-in-review-december-18-20/">https://www.arl.org/day-in-review/day-in-review-december-18-20/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/day-in-review/day-in-review-december-18-20/">Save to Pocket</a>
+</span>
+
+---
+
+## Closing Christmas / New Year
+
+date: 2023-12-19, from: ETH Zurich Research Archives
+
+The ETH Library is closed from 24 December 2023 until 2 January 2024. During this time, you can still deposit new publications. The Research Collection team will process them from 3 January. We wish you a merry Christmas and a happy New Year.<img src="https://analytics.library.ethz.ch/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Fclosing-christmas-new-year%2F&amp;action_name=Closing+Christmas+%2F+New+Year&amp;urlref=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />
+
+<span class="feed-item-link">
+<a href="https://rc-blog.ethz.ch/en/closing-christmas-new-year/">https://rc-blog.ethz.ch/en/closing-christmas-new-year/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://rc-blog.ethz.ch/en/closing-christmas-new-year/">Save to Pocket</a>
+</span>
 
 ---
 
