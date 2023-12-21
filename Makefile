@@ -20,7 +20,7 @@ endif
 
 PROJECT = Antenna
 
-section_names = socal_north pacific mid_central tech_likely columns weather writing games libraries parks
+section_names = socal_north pacific mid_central tech_likely columns weather writing games libraries parks health
 
 md_files = $(addsuffix .md,$(section_names))
 
@@ -69,6 +69,9 @@ libraries: .FORCE
 
 parks: .FORCE
 	skimmer parks.txt
+
+health: .FORCE
+	skimmer health.txt
 
 markdown: $(md_files)
 

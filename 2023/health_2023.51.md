@@ -1,0 +1,253 @@
+---
+title: health 2023.51
+updated: 2023-12-20 20:16:39
+---
+
+# health 2023.51
+
+(date: 2023-12-20 20:16:39)
+
+---
+
+## Dynamical alterations of brain function and gut microbiome in weight loss
+
+date: 2023-12-20, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Objective</title><p>Intermittent energy restriction (IER) is an effective weight loss strategy. However, little is known about the dynamic effects of IER on the brain-gut-microbiome axis.</p></sec><sec><title>Methods</title><p>In this study, a total of 25 obese individuals successfully lost weight after a 2-month IER intervention. FMRI was used to determine the activity of brain regions. Metagenomic sequencing was performed to identify differentially abundant gut microbes and pathways in from fecal samples.</p></sec><sec><title>Results</title><p>Our results showed that IER longitudinally reduced the activity of obese-related brain regions at different timepoints, including the inferior frontal orbital gyrus in the cognitive control circuit, the putamen in the emotion and learning circuit, and the anterior cingulate cortex in the sensory circuit. IER longitudinally reduced <italic>E. coli</italic> abundance across multiple timepoints while elevating the abundance of obesity-related <italic>Faecalibacterium prausnitzii, Parabacteroides distasonis</italic>, and <italic>Bacterokles uniformis</italic>. Correlation analysis revealed longitudinally correlations between gut bacteria abundance alterations and brain activity changes.</p></sec><sec><title>Conclusions</title><p>There was dynamical alteration of BGM axis (the communication of <italic>E. coli</italic> with specific brain regions) during the weight loss under the IER.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1269548">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1269548</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1269548">Save to Pocket</a>
+</span>
+
+---
+
+## Antibiotic adjuvants: synergistic tool to combat multi-drug resistant pathogens
+
+date: 2023-12-20, from: Frontiers in Cellular and Infection Microbiology
+
+<p>The rise of multi-drug resistant (MDR) pathogens poses a significant challenge to the field of infectious disease treatment. To overcome this problem, novel strategies are being explored to enhance the effectiveness of antibiotics. Antibiotic adjuvants have emerged as a promising approach to combat MDR pathogens by acting synergistically with antibiotics. This review focuses on the role of antibiotic adjuvants as a synergistic tool in the fight against MDR pathogens. Adjuvants refer to compounds or agents that enhance the activity of antibiotics, either by potentiating their effects or by targeting the mechanisms of antibiotic resistance. The utilization of antibiotic adjuvants offers several advantages. Firstly, they can restore the effectiveness of existing antibiotics against resistant strains. Adjuvants can inhibit the mechanisms that confer resistance, making the pathogens susceptible to the action of antibiotics. Secondly, adjuvants can enhance the activity of antibiotics by improving their penetration into bacterial cells, increasing their stability, or inhibiting efflux pumps that expel antibiotics from bacterial cells. Various types of antibiotic adjuvants have been investigated, including efflux pump inhibitors, resistance-modifying agents, and compounds that disrupt bacterial biofilms. These adjuvants can act synergistically with antibiotics, resulting in increased antibacterial activity and overcoming resistance mechanisms. In conclusion, antibiotic adjuvants have the potential to revolutionize the treatment of MDR pathogens. By enhancing the efficacy of antibiotics, adjuvants offer a promising strategy to combat the growing threat of antibiotic resistance. Further research and development in this field are crucial to harness the full potential of antibiotic adjuvants and bring them closer to clinical application.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1293633">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1293633</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1293633">Save to Pocket</a>
+</span>
+
+---
+
+## Exploring the mechanisms of host-specificity of a hyperparasitic bacterium (Pasteuria spp.) with potential to control tropical root-knot nematodes (Meloidogyne spp.): insights from Caenorhabditis elegans
+
+date: 2023-12-20, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Plant-parasitic nematodes are important economic pests of a range of tropical crops. Strategies for managing these pests have relied on a range of approaches, including crop rotation, the utilization of genetic resistance, cultural techniques, and since the 1950’s the use of nematicides. Although nematicides have been hugely successful in controlling nematodes, their toxicity to humans, domestic animals, beneficial organisms, and the environment has raised concerns regarding their use. Alternatives are therefore being sought. The <italic>Pasteuria</italic> group of bacteria that form endospores has generated much interest among companies wanting to develop microbial biocontrol products. A major challenge in developing these bacteria as biocontrol agents is their host-specificity; one population of the bacterium can attach to and infect one population of plant-parasitic nematode but not another of the same species. Here we will review the mechanism by which infection is initiated with the adhesion of endospores to the nematode cuticle. To understand the genetics of the molecular processes between <italic>Pasteuria</italic> endospores and the nematode cuticle, the review focuses on the nature of the bacterial adhesins and how they interact with the nematode cuticle receptors by exploiting new insights gained from studies of bacterial infections of <italic>Carnorhabditis elegans</italic>. A new <italic>Velcro-</italic>like multiple adhesin model is proposed in which the cuticle surface coat, which has an important role in endospore adhesion, is a complex extracellular matrix containing glycans originating in seam cells. The genes associated with these seam cells appear to have a dual role by retaining some characteristics of stem cells.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1296293">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1296293</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1296293">Save to Pocket</a>
+</span>
+
+---
+
+## The effects of nano-silver loaded zirconium phosphate on antibacterial properties, mechanical properties and biosafety of room temperature curing PMMA materials
+
+date: 2023-12-20, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Polymethyl methacrylate (PMMA) frequently features in dental restorative materials due to its favorable properties. However, its surface exhibits a propensity for bacterial colonization, and the material can fracture under masticatory pressure. This study incorporated commercially available RHA-1F-II nano-silver loaded zirconium phosphate (Ag-ZrP) into room-temperature cured PMMA at varying mass fractions. Various methods were employed to characterize Ag-ZrP. Subsequently, an examination of the effects of Ag-ZrP on the antimicrobial properties, biosafety, and mechanical properties of PMMA materials was conducted. The results indicated that the antibacterial rate against Streptococcus mutans was enhanced at Ag-ZrP additions of 0%wt, 0.5%wt, 1.0%wt, 1.5%wt, 2.0%wt, 2.5%wt, and 3.0%wt, achieving respective rates of 53.53%, 67.08%, 83.23%, 93.38%, 95.85%, and 98.00%. Similarly, the antibacterial rate against Escherichia coli registered at 31.62%, 50.14%, 64.00%, 75.09%, 86.30%, 92.98%. When Ag-ZrP was introduced at amounts ranging from 1.0% to 1.5%, PMMA materials exhibited peak mechanical properties. However, mechanical strength diminished beyond additions of 2.5%wt to 3.0%wt, relative to the 0%wt group, while PMMA demonstrated no notable cytotoxicity below a 3.0%wt dosage. Thus, it is inferred that optimal antimicrobial and mechanical properties of PMMA materials are achieved with nano-Ag-ZrP (RHA-1F-II) additions of 1.5%wt to 2.0%wt, without eliciting cytotoxicity.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1325103">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1325103</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1325103">Save to Pocket</a>
+</span>
+
+---
+
+## Molecular characterization of Listeria monocytogenes strains isolated from imported food in China from 14 countries/regions, 2003-2018
+
+date: 2023-12-20, from: Frontiers in Cellular and Infection Microbiology
+
+<p><italic>Listeria monocytogenes</italic> (<italic>Lm</italic>) is associated with severe foodborne infections and ubiquitous in the nature. Identification of characteristics of <italic>Lm</italic> transmission through trading of food products is essential for rapidly tracking <italic>Lm</italic> sources and controlling dissemination of listeriosis. In this study, a total of 44 <italic>Lm</italic> strains were isolated from food products originating from 14 countries/regions during 2003-2018 at the Shanghai port. The genomes of these Lm strains were sequenced by high-throughput sequencing. Multilocus sequence typing (MLST) analysis showed that 43 isolates were divided into 17 sequence types (STs). The distribution of STs was decentralized, with the dominant ST2 accounting for only 18.18% of the strains. The LM63 strain did not match with any of the existing STs. Core-genome MLST (cgMLST) analysis based on 1748 core genes categorized the 44 strains into 30 cgMLST types (CTs), with CT10153 and CT7892 as the most predominant CTs. Notably, LM63 and LM67 shared the same CT in the cgMLST analysis. The phylogenetic analysis based on single-copy homologous genes revealed that the 44 <italic>Lm</italic> strains were primarily classified into two lineages. The SNP analysis also indicated that these strains were roughly divided into two clades, with strains in the first clade mainly collected earlier than those in the second clade, which were predominantly collected from 2010 onwards. The analysis using the virulence factor database (VFDB) indicated that the virulence gene <italic>inlJ</italic> was the most prevalent among these 44 strains. Notably, <italic>ddrA</italic>, <italic>msbA</italic>, and <italic>sugC</italic> were enriched in this dataset, requiring further clarification of their roles in <italic>Listeria</italic> through future studies. These results might provide a clue for understanding of the global epidemiology and surveillance of <italic>Lm</italic> and present insights for implementing effective measures to reduce or prevent <italic>Listeria</italic> contamination outbreaks in imported food products.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1287564">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1287564</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1287564">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: Babesia: biology, interactions, and mechanisms of pathogenesis in ticks and its hosts volume II
+
+date: 2023-12-20, from: Frontiers in Cellular and Infection Microbiology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1346960">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1346960</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1346960">Save to Pocket</a>
+</span>
+
+---
+
+## A growing battlefield in the war against biofilm-induced antimicrobial resistance: insights from reviews on antibiotic resistance
+
+date: 2023-12-19, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Biofilms are a common survival strategy employed by bacteria in healthcare settings, which enhances their resistance to antimicrobial and biocidal agents making infections difficult to treat. Mechanisms of biofilm-induced antimicrobial resistance involve reduced penetration of antimicrobial agents, increased expression of efflux pumps, altered microbial physiology, and genetic changes in the bacterial population. Factors contributing to the formation of biofilms include nutrient availability, temperature, pH, surface properties, and microbial interactions. Biofilm-associated infections can have serious consequences for patient outcomes, and standard antimicrobial therapies are often ineffective against biofilm-associated bacteria, making diagnosis and treatment challenging. Novel strategies, including antibiotics combination therapies (such as daptomycin and vancomycin, colistin and azithromycin), biofilm-targeted agents (such as small molecules (LP3134, LP3145, LP4010, LP1062) target c-di-GMP), and immunomodulatory therapies (such as the anti-PcrV IgY antibodies which target Type IIIsecretion system), are being developed to combat biofilm-induced antimicrobial resistance. A multifaceted approach to diagnosis, treatment, and prevention is necessary to address this emerging problem in healthcare settings.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1327069">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1327069</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1327069">Save to Pocket</a>
+</span>
+
+---
+
+## Gut microbiota landscape and potential biomarker identification in female patients with systemic lupus erythematosus using machine learning
+
+date: 2023-12-19, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Objectives</title><p>Systemic Lupus Erythematosus (SLE) is a complex autoimmune disease that disproportionately affects women. Early diagnosis and prevention are crucial for women’s health, and the gut microbiota has been found to be strongly associated with SLE. This study aimed to identify potential biomarkers for SLE by characterizing the gut microbiota landscape using feature selection and exploring the use of machine learning (ML) algorithms with significantly dysregulated microbiotas (SDMs) for early identification of SLE patients. Additionally, we used the SHapley Additive exPlanations (SHAP) interpretability framework to visualize the impact of SDMs on the risk of developing SLE in females.</p></sec><sec><title>Methods</title><p>Stool samples were collected from 54 SLE patients and 55 Negative Controls (NC) for microbiota analysis using 16S rRNA sequencing. Feature selection was performed using Elastic Net and Boruta on species-level taxonomy. Subsequently, four ML algorithms, namely logistic regression (LR), Adaptive Boosting (AdaBoost), Random Forest (RF), and eXtreme gradient boosting (XGBoost), were used to achieve early identification of SLE with SDMs. Finally, the best-performing algorithm was combined with SHAP to explore how SDMs affect the risk of developing SLE in females.</p></sec><sec><title>Results</title><p>Both alpha and beta diversity were found to be different in SLE group. Following feature selection, 68 and 21 microbiota were retained in Elastic Net and Boruta, respectively, with 16 microbiota overlapping between the two, i.e., SDMs for SLE. The four ML algorithms with SDMs could effectively identify SLE patients, with XGBoost performing the best, achieving Accuracy, Sensitivity, Specificity, Positive Predictive Value, Negative Predictive Value, and AUC values of 0.844, 0.750, 0.938, 0.923, 0.790, and 0.930, respectively. The SHAP interpretability framework showed a complex non-linear relationship between the relative abundance of SDMs and the risk of SLE, with <italic>Escherichia_fergusonii</italic> having the largest SHAP value.</p></sec><sec><title>Conclusions</title><p>This study revealed dysbiosis in the gut microbiota of female SLE patients. ML classifiers combined with SDMs can facilitate early identification of female patients with SLE, particularly XGBoost. The SHAP interpretability framework provides insight into the impact of SDMs on the risk of SLE and may inform future scientific treatment for SLE.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1289124">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1289124</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1289124">Save to Pocket</a>
+</span>
+
+---
+
+## Differential transcriptome response of blood brain barrier spheroids to neuroinvasive Neisseria and Borrelia
+
+date: 2023-12-19, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>The blood-brain barrier (BBB), a highly regulated interface between the blood and the brain, prevents blood-borne substances and pathogens from entering the CNS. Nevertheless, pathogens like <italic>Neisseria meningitidis</italic> and <italic>Borrelia bavariensis</italic> can breach the BBB and infect the brain parenchyma. The self-assembling BBB-spheroids can simulate the cross talk occurring between the cells of the barrier and neuroinvasive pathogens.</p></sec><sec><title>Methods</title><p>BBB spheroids were generated by co-culturing human brain microvascular endothelial cells (hBMECs), pericytes and astrocytes. The BBB attributes of spheroids were confirmed by mapping the localization of cells, observing permeability of angiopep2 and non-permeability of dextran. Fluorescent <italic>Neisseria</italic>, <italic>Borrelia</italic> or <italic>E. coli</italic> (non-neuroinvasive) were incubated with spheroids to observe the adherence, invasion and spheroid integrity. Transcriptome analysis with NGS was employed to investigate the response of BBB cells to infections.</p></sec><sec><title>Results</title><p>hBMECs were localized throughout the spheroids, whereas pericytes and astrocytes were concentrated around the core. Within 1 hr of exposure, <italic>Neisseria</italic> and <italic>Borrelia</italic> adhered to spheroids, and their microcolonization increased from 5 to 24 hrs. Integrity of spheroids was compromised by both <italic>Neisseria</italic> and <italic>Borrelia</italic>, but not by <italic>E. coli</italic> infection. Transcriptome analysis revealed a significant change in the expression of 781 genes (467 up and 314 down regulated) in spheroids infected with <italic>Neisseria</italic>, while <italic>Borrelia</italic> altered the expression of 621 genes (225 up and 396 down regulated). The differentially expressed genes could be clustered into various biological pathways like cell adhesion, extracellular matrix related, metallothionines, members of TGF beta, WNT signaling, and immune response. Among the differentially expressed genes, 455 (48%) genes were inversely expressed during <italic>Neisseria</italic> and <italic>Borrelia</italic> infection.</p></sec><sec><title>Conclusion</title><p>The self-assembling spheroids were used to perceive the BBB response to neuroinvasive pathogens - <italic>Neisseria</italic> and <italic>Borrelia</italic>. Compromised integrity of spheroids during <italic>Neisseria</italic> and <italic>Borrelia</italic> infection as opposed to its intactness and non-adherence of <italic>E. coli</italic> (non-neuroinvasive) denotes the pathogen dependent fate of BBB. Genes categorized into various biological functions indicated weakened barrier properties of BBB and heightened innate immune response. Inverse expression of 48% genes commonly identified during <italic>Neisseria</italic> and <italic>Borrelia</italic> infection exemplifies unique response of BBB to varying neuropathogens.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1326578">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1326578</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1326578">Save to Pocket</a>
+</span>
+
+---
+
+## Novel stem cell technologies are powerful tools to understand the impact of human factors on Plasmodium falciparum malaria
+
+date: 2023-12-19, from: Frontiers in Cellular and Infection Microbiology
+
+<p><italic>Plasmodium falciparum</italic> parasites have a complex life cycle, but the most clinically relevant stage of the disease is the invasion of erythrocytes and the proliferation of the parasite in the blood. The influence of human genetic traits on malaria has been known for a long time, however understanding the role of the proteins involved is hampered by the anuclear nature of erythrocytes that makes them inaccessible to genetic tools. Here we overcome this limitation using stem cells to generate erythroid cells with an <italic>in-vitro</italic> differentiation protocol and assess parasite invasion with an adaptation of flow cytometry to detect parasite hemozoin. We combine this strategy with reprogramming of patient cells to Induced Pluripotent Stem Cells and genome editing to understand the role of key genes and human traits in malaria infection. We show that deletion of basigin ablates invasion while deletion of ATP2B4 has a minor effect and that erythroid cells from reprogrammed patient-derived HbBart α-thalassemia samples poorly support infection. The possibility to obtain patient-secific and genetically modifed erythoid cells offers an unparalleled opportunity to study the role of human genes and polymorphisms in malaria allowing preservation of the genomic background to demonstrate their function and understand their mechanisms.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1287355">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1287355</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1287355">Save to Pocket</a>
+</span>
+
+---
+
+## Analysis of associations between the TLR3 SNPs rs3775291 and rs3775290 and COVID-19 in a cohort of professionals of Belém-PA, Brazil
+
+date: 2023-12-19, from: Frontiers in Cellular and Infection Microbiology
+
+<p>The objective of this article was to verify associations between the SNPs rs3775291 (Cytosine [C]&gt;Thymine [T]) and rs3775290 (C&gt;T) of <italic>TLR3</italic> in professionals from Health Institutions (HI) who worked during the first pandemic wave and COVID-19. A case-control study was carried out with workers from HI in Belém-PA, Brazil, divided into symptomatology groups (Asymptomatic-AS, <italic>n</italic>=91; and Symptomatic-SI, <italic>n</italic>=121), and severity groups, classified by Chest CT scan (symptomatic with lung involvement – SCP, <italic>n</italic>=34; symptomatic without lung involvement – SSP, <italic>n</italic>=8). Genotyping was performed by Sanger sequencing and statistical analysis was performed using the SPSS program. In the analysis of SNP rs3775291, the homozygous recessive genotype (T/T) was not found and the frequency of the mutant allele (T) was less than 2% in the cohort. For the rs3775290 SNP, the frequency of the mutant allele (T) was greater than 42% in the cohort. No significant associations were found for these SNPs in this cohort (N= 212 individuals). The scientific community and physicians can use these facts to find new methods of managing COVID-19.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1320701">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1320701</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1320701">Save to Pocket</a>
+</span>
+
+---
+
+## Synergistic potential of teriflunomide with fluconazole against resistant Candida albicans in vitro and in vivo
+
+date: 2023-12-19, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p><italic>Candida albicans</italic> is the primary cause of systemic candidiasis, which is involved in high morbidity and mortality. Drug resistance exacerbates these problems. In addition, there are limited antifungal drugs available. In order to solve these problems, combination therapy has aroused great interest. Teriflunomide is an immunosuppressant. In the present work, we aimed to identify whether teriflunomide can reverse the resistance of <italic>Candida albicans</italic> in the presence of sub-inhibitory concentrations of fluconazole <italic>in vitro</italic> and <italic>in vivo</italic>.</p></sec><sec><title>Methods</title><p>Seven <italic>Candida albicans</italic> isolates were used in this study. Susceptibility of <italic>Candida albicans in vitro</italic> to the drugs was determined using a checkerboard microdilution assay in accordance with the recommendations of the Clinical and Laboratory Standards Institute. The effects of drugs on biofilm biomass of <italic>Candida albicans</italic> were determined by crystal violet staining. The development ability of <italic>Candida albicans</italic> hyphae was performed using a modified broth microdilution method. <italic>Galleria mellonella</italic> was used for testing the <italic>in vivo</italic> efficacy of the combination therapies. </p></sec><sec><title>Results</title><p>We found that the combination of teriflunomide (64 µg/mL) and fluconazole (0.5-1 µg/mL) has a significant synergistic effect in all resistant <italic>Candida albicans</italic> isolates (n=4). Also, this drug combination could inhibit the immature biofilm biomass and hyphae formation of resistant <italic>Candida albicans</italic>. <italic>Galleria mellonella</italic> was used for testing the in vivo efficacy of this combination therapies. As for the <italic>Galleria mellonella</italic> larvae infected by resistant <italic>Candida albicans</italic>, teriflunomide (1.6 µg/larvae) combined with fluconazole (1.6 µg/larvae) significantly increased their survival rates, and reduced the fungal burden, as well as damage of tissue in comparison to that in the control group or drug monotherapy group. </p></sec><sec><title>Conclusion</title><p>These results expand our knowledge about the antifungal potential of teriflunomide as an adjuvant of existing antifungal drugs, and also open new perspectives in the treatment of resistant <italic>Candida albicans</italic> based on repurposing clinically available nonantifungal drugs.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1282320">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1282320</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1282320">Save to Pocket</a>
+</span>
+
+---
+
+## Consistency of drug-resistant mutations in plasma and peripheral blood mononuclear cells of patients with treatment-naïve and treatment-experienced HIV-1 infection
+
+date: 2023-12-19, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>Genotypic drug resistance testing is cursrently recommended by the World Health Organization for all patients infected with human immunodeficiency virus type 1 (HIV-1) undergoing care or switching regimes due to failure with previous antiretroviral therapy (ART). Patients with human immunodeficiency virus/acquired immunodeficiency syndrome (HIV/AIDS) who meet the criteria for free testing for genotypic drug resistance due to poor adherence in Henan Province may resume their previous regimens before resampling. Therefore, resistance testing based on plasma RNA can fail in a proportion of patients. Resistance testing based on peripheral blood mononuclear cells (PBMCs) is an alternative option. In this study, we investigated the differences in drug-resistant mutations (DRMs) between plasma HIV RNA and proviral DNA in treatment-experienced and treatment-naïve patients.</p></sec><sec><title>Methods</title><p>Matched plasma RNA and proviral DNA samples of 66 HIV-1 infected treatment-naïve and 78 treatment-experienced patients were selected for DRM analysis and comparison.</p></sec><sec><title>Results</title><p>DRMs were detected in 27.3% (18/66) of treatment-naïve and 80.8% (63/78) of treatment-experienced samples. Resistance to at least one drug was detected based on analysis of plasma RNA and proviral DNA in 7.6% (5/66) and 9.1% (6/66) of treatment-naïve patients and in 79.5% (62/78) and 78.2% (61/78) of treatment-experienced patients, respectively. Furthermore, 61/66 (92.4%) of treatment-naïve patients showed concordant RNA and DNA drug resistance. When drug resistance was defined as intermediate and high, the concordance of drug resistance profiles of paired RNA and proviral DNA samples derived from treatment-naïve patients were up to 97.0% compared with only 80.8% (63/78) in treatment-experienced patients.</p></sec><sec><title>Discussion</title><p>Our data indicate that drug resistance testing based on plasma RNA or proviral DNA might be interchangeable in treatment-naïve patients, whereas plasma RNA-based testing remains the best choice for drug resistance analysis in patients with ART failure in clinical practice.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1249837">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1249837</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1249837">Save to Pocket</a>
+</span>
+
+---
+
+## Quantifying Rift Valley fever virus transmission efficiency in a lamb-mosquito-lamb model
+
+date: 2023-12-18, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Rift Valley fever virus (RVFV) is a (re)emerging mosquito-borne pathogen impacting human and animal health. How RVFV spreads through a population depends on population-level and individual-level interactions between vector, host and pathogen. Here, we estimated the probability for RVFV to transmit to naive animals by experimentally exposing lambs to a bite of an infectious mosquito, and assessed if and how RVFV infection subsequently developed in the exposed animal. <italic>Aedes aegypti</italic> mosquitoes, previously infected via feeding on a viremic lamb, were used to expose naive lambs to the virus. <italic>Aedes aegypti</italic> colony mosquitoes were used as they are easy to maintain and readily feed in captivity. Other mosquito spp. could be examined with similar methodology. Lambs were exposed to either 1-3 (low exposure) or 7-9 (high exposure) infectious mosquitoes. All lambs in the high exposure group became viremic and showed characteristic signs of Rift Valley fever within 2-4 days post exposure. In contrast, 3 out of 12 lambs in the low exposure group developed viremia and disease, with similar peak-levels of viremia as the high exposure group but with some heterogeneity in the onset of viremia. These results suggest that the likelihood for successful infection of a ruminant host is affected by the number of infectious mosquitoes biting, but also highlights that a single bite of an infectious mosquito can result in disease. The per bite mosquito-to-host transmission efficiency was estimated at 28% (95% confidence interval: 15 - 47%). We subsequently combined this transmission efficiency with estimates for life traits of <italic>Aedes aegypti</italic> or related mosquitoes into a Ross-McDonald mathematical model to illustrate scenarios under which major RVFV outbreaks could occur in naïve populations (i.e., R<sub>0</sub> &gt;1). The model revealed that relatively high vector-to-host ratios as well as mosquitoes feeding preferably on competent hosts are required for R<sub>0</sub> to exceed 1. Altogether, this study highlights the importance of experiments that mimic natural exposure to RVFV. The experiments facilitate a better understanding of the natural progression of disease and a direct way to obtain epidemiological parameters for mathematical models.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1206089">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1206089</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1206089">Save to Pocket</a>
+</span>
+
+---
+
+## Comparing sputum microbiota characteristics between severe and critically ill influenza patients
+
+date: 2023-12-18, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>Currently, limited attention has been directed toward utilizing clinical cohorts as a starting point to elucidate alterations in the lower respiratory tract (LRT) microbiota following influenza A virus (IAV) infection.</p></sec><sec><title>Objectives</title><p>Our objective was to undertake a comparative analysis of the diversity and composition of sputum microbiota in individuals afflicted by severe and critically ill influenza patients.</p></sec><sec><title>Methods</title><p>Sputum specimens were procured from patients diagnosed with IAV infection for the purpose of profiling the microbiota using 16S-rDNA sequencing. To ascertain taxonomic differences between the severe and critically ill influenza cohorts, we leveraged Linear Discriminant Analysis Effect Size (LEfSe). Additionally, Spearman correlation analysis was employed to illuminate associations between sputum microbiota and influenza Ct values alongside laboratory indicators.</p></sec><sec><title>Results</title><p>Our study encompassed a total cohort of 64 patients, comprising 48 within the severe group and 16 within the critically ill group. Intriguingly, <italic>Bacteroidetes</italic> exhibited significant depletion in the critically ill cohort (<italic>p</italic>=0.031). The sputum microbiomes of the severe influenza group were hallmarked by an overrepresentation of <italic>Neisseria, Porphyromonas, Actinobacillus, Alloprevotella, TM7x</italic>, and <italic>Clostridia_UCG-014</italic>, yielding ROC-plot AUC values of 0.71, 0.68, 0.60, 0.70, 0.70, and 0.68, respectively. Notably, <italic>Alloprevotella</italic> exhibited an inverse correlation with influenza Ct values. Moreover, C-reactive protein (CRP) manifested a positive correlation with <italic>Haemophilus</italic> and <italic>Porphyromonas</italic>.</p></sec><sec><title>Conclusion</title><p>The outcomes of this investigation lay the groundwork for future studies delving into the connection between the LRT microbiome and respiratory disorders. Further exploration is warranted to elucidate the intricate mechanisms underlying the interaction between IAV and <italic>Alloprevotella</italic>, particularly in disease progression.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1297946">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1297946</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1297946">Save to Pocket</a>
+</span>
+
+---
+
+## Serological surveillance of GI norovirus reveals persistence of blockade antibody in a Jidong community-based prospective cohort, 2014–2018
+
+date: 2023-12-18, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>Herd immunity against norovirus (NoV) is poorly understood in terms of its serological properties and vaccine designs. The precise neutralizing serological features of genotype I (GI) NoV have not been studied.</p></sec><sec><title>Methods</title><p>To expand insights on vaccine design and herd immunity of NoVs, seroprevalence and seroincidence of NoV genotypes GI.2, GI.3, and GI.9 were determined using blockade antibodies based on a 5-year longitudinal serosurveillance among 449 residents in Jidong community.</p></sec><sec><title>Results</title><p>Correlation between human histo-blood group antigens (HBGAs) and GI NoV, and dynamic and persistency of antibodies were also analyzed. Seroprevalence of GI.2, GI.3, and GI.9 NoV were 15.1%–18.0%, 35.0%–38.8%, and 17.6%–22.0%; seroincidences were 10.0, 21.0, and 11.0 per 100.0 person-year from 2014 to 2018, respectively. Blockade antibodies positive to GI.2 and GI.3 NoV were significantly associated with HBGA phenotypes, including blood types A, B (excluding GI.3), and O<sup>+</sup>; Lewis phenotypes Le<sup>b+</sup>/Le<sup>y+</sup> and Le<sup>a+b+</sup>/Le<sup>x+y+</sup>; and secretors. The overall decay rate of anti-GI.2 antibody was -5.9%/year (95% CI: -7.1% to -4.8%/year), which was significantly faster than that of GI.3 [-3.6%/year (95% CI: -4.6% to -2.6%/year)] and GI.9 strains [-4.0%/year (95% CI: -4.7% to -3.3%/year)]. The duration of anti-GI.2, GI.3, and GI.9 NoV antibodies estimated by generalized linear model (GLM) was approximately 2.3, 4.2, and 4.8 years, respectively.</p></sec><sec><title>Discussion</title><p>In conclusion, enhanced community surveillance of GI NoV is needed, and even one-shot vaccine may provide coast-efficient health benefits against GI NoV infection.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1258550">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1258550</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1258550">Save to Pocket</a>
+</span>
+
+---
+
+## Personalized antibiotic selection in periodontal treatment improves clinical and microbiological outputs
+
+date: 2023-12-18, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>Periodontitis is a biofilm-mediated disease that is usually treated by non-surgical biofilm elimination with or without antibiotics. Antibiotic treatment in periodontal patients is typically selected empirically or using qPCR or DNA hybridization methods. These approaches are directed towards establishing the levels of different periodontal pathogens in periodontal pockets to infer the antibiotic treatment. However, current methods are costly and do not consider the antibiotic susceptibility of the whole subgingival biofilm.</p></sec><sec><title>Methods</title><p>In the current manuscript, we have developed a method to culture subgingival samples <italic>ex vivo</italic> in a fast, label-free impedance-based system where biofilm growth is monitored in real-time under exposure to different antibiotics, producing results in 4 hours. To test its efficacy, we performed a double-blind, randomized clinical trial where patients were treated with an antibiotic either selected by the hybridization method (n=32) or by the one with the best effect in the <italic>ex vivo</italic> growth system (n=32).</p></sec><sec><title>Results</title><p>Antibiotic selection was different in over 80% of the cases. Clinical parameters such as periodontal pocket depth, attachment level, and bleeding upon probing improved in both groups. However, dental plaque was significantly reduced only in the group where antibiotics were selected according to the <italic>ex vivo</italic> growth. In addition, 16S rRNA sequencing showed a larger reduction in periodontal pathogens and a larger increase in health-associated bacteria in the <italic>ex vivo</italic> growth group.</p></sec><sec><title>Discussion</title><p>The results of clinical and microbiological parameters, together with the reduced cost and low analysis time, support the use of the impedance system for improved individualized antibiotic selection.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1307380">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1307380</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1307380">Save to Pocket</a>
+</span>
+
+---
+
+## Pandrug-resistant Acinetobacter baumannii from different clones and regions in Mexico have a similar plasmid carrying the blaOXA-72 gene
+
+date: 2023-12-18, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>Multidrug-resistant <italic>Acinetobacter baumannii</italic> is a common hospital-acquired pathogen. The increase in antibiotic resistance is commonly due to the acquisition of mobile genetic elements carrying antibiotic resistance genes. To comprehend this, we analyzed the resistome and virulome of Mexican <italic>A. baumannii</italic> multidrug-resistant isolates.</p></sec><sec><title>Methods</title><p>Six clinical strains of <italic>A. baumannii</italic> from three Mexican hospitals were sequenced using the Illumina platform, the genomes were assembled with SPAdes and annotated with Prokka. Plasmid SPAdes and MobRecon were used to identify the potential plasmid sequences. Sequence Type (ST) assignation under the MLST Oxford scheme was performed using the PubMLST database. Homologous gene search for known virulent factors was performed using the virulence factor database VFDB and an <italic>in silico</italic> prediction of the resistome was conducted via the ResFinder databases.</p></sec><sec><title>Results</title><p>The six strains studied belong to different STs and clonal complexes (CC): two strains were ST208 and one was ST369; these two STs belong to the same lineage CC92, which is part of the international clone (IC) 2. Another two strains were ST758 and one was ST1054, both STs belonging to the same lineage CC636, which is within IC5. The resistome analysis of the six strains identified between 7 to 14 antibiotic resistance genes to different families of drugs, including beta-lactams, aminoglycosides, fluoroquinolones and carbapenems. We detected between 1 to 4 plasmids per strain with sizes from 1,800 bp to 111,044 bp. Two strains from hospitals in Mexico City and Guadalajara had a plasmid each of 10,012 bp pAba78r and pAba79f, respectively, which contained the <italic>bla</italic><sub>OXA-72</sub> gene. The structure of this plasmid showed the same 13 genes in both strains, but 4 of them were inverted in one of the strains. Finally, the six strains contain 49 identical virulence genes related to immune response evasion, quorum-sensing, and secretion systems, among others.</p></sec><sec><title>Conclusion</title><p>Resistance to carbapenems due to pAba78r and pAba79f plasmids in Aba pandrug-resistant strains from different geographic areas of Mexico and different clones was detected. Our results provide further evidence that plasmids are highly relevant for the horizontal transfer of antibiotic resistance genes between different clones of <italic>A. baumannii.</italic></p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1278819">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1278819</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1278819">Save to Pocket</a>
+</span>
+
+---
+
+## Role of gut microbiota and bacterial translocation in acute intestinal injury and mortality in patients admitted in ICU for septic shock
+
+date: 2023-12-18, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>Sepsis is a life-threatening organ dysfunction with high mortality rate. The gut origin hypothesis of multiple organ dysfunction syndrome relates to loss of gut barrier function and the ensuing bacterial translocation. The aim of this study was to describe the evolution of gut microbiota in a cohort of septic shock patients over seven days and the potential link between gut microbiota and bacterial translocation.</p></sec><sec><title>Methods</title><p>Sixty consecutive adult patients hospitalized for septic shock in intensive care units (ICU) were prospectively enrolled. Non-inclusion criteria included patients with recent or scheduled digestive surgery, having taken laxatives, pre- or probiotic in the previous seven days, a progressive digestive neoplasia, digestive lymphoma, chronic inflammatory bowel disease, moribund patient, and pregnant and lactating patients. The primary objective was to evaluate the evolution of bacterial diversity and richness of gut microbiota during seven days in septic shock. Epidemiological, clinical and biological data were gathered over seven days. Gut microbiota was analyzed through a metagenomic approach. 100 healthy controls were selected among healthy blood donors for reference basal 16S rDNA values.</p></sec><sec><title>Results</title><p>Significantly lower bacterial diversity and richness was observed in gut microbiota of patients at Day 7 compared with Day 0 (p&lt;0.01). SOFA score at Day 0, Acute Gastrointestinal Injury (AGI) local grade, septic shock origin and bacterial translocation had an impact on alpha diversity. A large increase in Enterococcus genus was observed at Day 7 with a decrease in Enterobacterales, Clostridiales, Bifidobacterium and other butyrate-producing bacteria.</p></sec><sec><title>Discussion</title><p>This study shows the importance of bacterial translocation during AGI in septic shock patients. This bacterial translocation decreases during hospitalization in ICUs in parallel to the decrease of microbiota diversity. This work highlights the role of gut microbiota and bacterial translocation during septic shock.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1330900">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1330900</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1330900">Save to Pocket</a>
+</span>
+
+---
+
+## Profiles of biliary microbiota in biliary obstruction patients with Clonorchis sinensis infection
+
+date: 2023-12-18, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p><italic>Clonorchis sinensis</italic> (<italic>C. sinensis)</italic> is a epidemiologically significant food-borne parasite, causing several hepatobiliary diseases. Biliary microbiota community structure might be influenced by infection with pathogens. However, the biliary microbiome of biliary obstruction patients infected with <italic>C. sinensis</italic> is still an unexplored aspect.</p></sec><sec><title>Methods</title><p>A total of 50 biliary obstruction patients were enrolled, including 24 infected with <italic>C. sinensis</italic> and 26 non-infected subjects. The bile samples were collected by Endoscopic Retrograde Cholangiopancretography. Biliary microbiota alteration was analyzed through high-throughput 16S ribosomal RNA (rRNA) gene sequencing.</p></sec><sec><title>Results</title><p>Our findings revealed that there was significant increase in both richness and diversity, as well as changes in the taxonomic composition of the biliary microbiota of <italic>C. sinensis</italic> infected patients. At the phylum level, <italic>C. sinensis</italic> infection induced Proteobacteria increased and Firmicutes reduced. At the genus level, the relative abundance of <italic>Pseudomonas</italic> and <italic>Staphylococcus</italic> increased significantly, while <italic>Enterococcus</italic> decreased prominently in infected groups (<italic>P</italic> &lt; 0.05). The PICRUSt analysis further showed remarkably different metabolic pathways between the two groups.</p></sec><sec><title>Conclusion</title><p><italic>C. sinensis</italic> infection could modify the biliary microbiota, increasing the abundance and changing the phylogenetic composition of bacterial in biliary obstruction patients. This study may help deepen the understanding of the host-biliary microbiota interplay with <italic>C. sinensis</italic> infection on the background of biliary obstruction and provide new insights into understanding the pathogenesis of clonorchiasis.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1281745">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1281745</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1281745">Save to Pocket</a>
+</span>
+
+
+
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+

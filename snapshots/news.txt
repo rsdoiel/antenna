@@ -393,6 +393,7 @@ https://blog.getpocket.com/feed/ "~Get Pocket blog"
 https://odysseygamesco.com/feed/ "~Odyssey Games blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://blog.ayjay.org/feed/ "~Ayjay blog"
 https://poynder.blogspot.com/feeds/posts/default?alt=rss "~Richard Poydner blog"
+https://www.frontiersin.org/journals/cellular-and-infection-microbiology/rss "~Frontiers in Cellar and Infection Microbiology" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #
 # Problem feeds
