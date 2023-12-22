@@ -1,11 +1,39 @@
 ---
 title: libraries 2023.51
-updated: 2023-12-21 10:52:39
+updated: 2023-12-22 11:52:51
 ---
 
 # libraries 2023.51
 
-(date: 2023-12-21 10:52:39)
+(date: 2023-12-22 11:52:51)
+
+---
+
+## November–December 2023
+
+date: 2023-12-22, from: Association of Research Libraries News
+
+<p>Last Updated on December 22, 2023, 7:30 am ET Public Policy Briefing (November–December 2023) This issue includes: Copyright and Fair Use/Fair Dealing ARL, Canadian Association of Research Libraries (CARL) Host...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/november-december-2023/">November–December 2023</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/november-december-2023/">https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/november-december-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/november-december-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Scholarly Communications Meets your Christmas Cracker
+
+date: 2023-12-22, from: Scholarly Kitchen
+
+<p>It's been "the year of generative AI", so Charlie Rapple asked ChatGPT to  write some cracker-standard Christmas jokes with a scholarly communications theme.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2023/12/22/scholarly-communications-meets-your-christmas-cracker/">Scholarly Communications Meets your Christmas Cracker</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2023/12/22/scholarly-communications-meets-your-christmas-cracker/">https://scholarlykitchen.sspnet.org/2023/12/22/scholarly-communications-meets-your-christmas-cracker/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2023/12/22/scholarly-communications-meets-your-christmas-cracker/">Save to Pocket</a>
+</span>
 
 ---
 

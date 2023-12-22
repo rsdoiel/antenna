@@ -1,11 +1,243 @@
 ---
 title: parks 2023.51
-updated: 2023-12-21 10:52:39
+updated: 2023-12-22 11:52:51
 ---
 
 # parks 2023.51
 
-(date: 2023-12-21 10:52:39)
+(date: 2023-12-22 11:52:51)
+
+---
+
+## The BLM plans public safety measures for 2024 King of the Hammers race
+
+date: 2023-12-22, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2023-12/46262283364_269cced512_w.jpg?h=70be1849&itok=krh4oRwb" width="150" height="100" alt="A off road, rock crawler careens down a desert road." typeof="foaf:Image" /></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="11987063-c0ff-49cb-af84-0938babc6e64" data-langcode="en" class="align-left embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-12/46262283364_269cced512_w.jpg?itok=fsQvF-zS" width="400" height="293" alt="A off road, rock crawler careens down a desert road." typeof="foaf:Image" /></div>
+      
+</div>
+</div>
+<p>PALM SPRINGS, Calif. — <a name="_Hlk104554292" id="_Hlk104554292">The Bureau of Land Management will implement a temporary closure of</a> public lands from Jan. 25 – Feb. 3, 2024, in the Johnson Valley Off-Highway Vehicle Recreation Area, San Bernardino County, during the annual 2024 <a href="https://kingofthehammers.com/">King of the Hammers</a> desert race event. The race is authorized by a BLM Special Recreation Permit and the temporary closure is necessary to facilitate public safety and provide an enhanced recreation experience for event participants and spectators.</p>
+
+<p>In 2022, the BLM <a href="https://www.federalregister.gov/documents/2022/11/18/2022-25169/notice-of-temporary-annual-closure-on-public-lands-for-the-king-of-the-hammers-race-san-bernardino">approved a five-year public land closure</a> for ten days a year through 2027. Registered race spectators, participants, and race officials are exempt from the closure. Approximately 81,000 acres of the Johnson Valley Off-highway Vehicle Recreation Area will be temporarily closed to public use and approximately 46,000 acres will be available for public use during the event.</p>
+
+<p>“The safety of everyone involved, from participants, staff and spectators is paramount for an event of this magnitude,” said BLM California Desert District Manager Shelly Lynch. “We encourage the public to recreate responsibly and cooperate with race officials and law enforcement officers to ensure a safe and enjoyable race.”</p>
+
+<p>The temporary closure complies with the management plan for the area. Recreation areas nearby will remain open to the public, including the Ord-Rodman Limited Use Area and Stoddard Valley Off-highway Vehicle Area. Information and a map of the closure area for the 2024 race event will be posted at the main entry points into the Johnson Valley Off-Highway Vehicle Recreation Area and available for viewing at the BLM’s California Desert District Office and Barstow Field Office. Download a map of the closure <a href="https://www.blm.gov/sites/default/files/docs/2023-12/2024_KOH_Map_508.pdf">here</a>.</p>
+
+<p>The BLM encourages the public to recreate responsibly on public lands. Find additional tips for <a href="https://www.recreateresponsibly.org/">recreating responsibly</a> on public lands. The BLM manages public lands for the benefit of current and future generations, supporting conservation in pursuit of its multiple-use mission. For more information, contact the California Desert District Office at 951-697-5200, or the Barstow Field Office at 760-252-6000.</p>
+</div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/press-release/blm-plans-public-safety-measures-2024-king-hammers-race">https://www.blm.gov/press-release/blm-plans-public-safety-measures-2024-king-hammers-race</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/press-release/blm-plans-public-safety-measures-2024-king-hammers-race">Save to Pocket</a>
+</span>
+
+---
+
+## Silver Reef Mining Town: Preserving Chinatown is a community effort
+
+date: 2023-12-21, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Silver Reef Mining Town: Preserving Chinatown is a community effort</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Historically, Silver Reef was a mining town with many support industries packing the town.  Its heyday would only last about 30 years, occupied from the 1870s to the early 1900s.  Silver Reef was home to around 1,500 people at its height and was one of the largest towns in Washington County. As a typical boomtown, Silver Reef grew as quickly as it dwindled down. Reduced operations continued through 1909, after which mining completely stopped, and livestock owners took their place. When the town was abandoned, neighboring town residents borrowed the leftover buildings and took the materials for their own use.</span></span></span></p>
+
+<figure role="group"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6cd885a1-3503-46f0-a3dc-182c6294f6a0" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-12/Photo%201%20-Silver%20Reef%20labled%20copy.jpeg?itok=K709swi1" width="640" height="367" alt="Historical photo of Silver Reef mining town with China Town circled on the left of the photograph." typeof="foaf:Image" /></div>
+      
+</div>
+</div>
+<figcaption>1879 retouched  photo of Silver Reef mining town with China Town circled on the left of the photograph. Courtesy Utah State Historic Society.</figcaption></figure><p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">It was also home to a significant population of Chinese immigrants with census records identifying nearly 250 Chinese residents residing in Silver Reef. Their story is an integral part in understanding the diversity of mining towns and the people who worked these mines. Research focused on the Chinese residents has not taken place until this November, when volunteers conducted a search for artifacts and remnants of their homes and businesses. Chris Merritt, Utah State Historic Preservation Officer, teamed up with the BLM Utah St. George Field Office and Cedar City Field Office, Utah Cultural Site Stewardship Program, Washington County, Dinosaur Discovery Site, Chinese Railroad Workers Descendants Association, <a>and</a> the Silver Reef Museum and held two public events which included identifying the neighborhood known as China Town and a workshop on artifact identification in Silver Reef.</span></span></span></p>
+
+<figure role="group"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="d5d236ff-ddab-486a-aee1-de3f64b7f98c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-12/Photo%202%20-IMG_5503.jpg?itok=FfnxeWoC" width="640" height="480" alt="Organizers and volunteers at the site of China Town in the old mining town of Silver Reef, Utah." typeof="foaf:Image" /></div>
+      
+</div>
+</div>
+<figcaption>Organizers and volunteers at the site of China Town in the old mining town of Silver Reef, Utah. Photo by BLM Utah.</figcaption></figure><p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">These efforts recorded the remnants of more than 10 residences and conducted detailed documentation on the artifacts imported from China for domestic use.  These small items help to tell the larger and often forgotten stories of these contributors to our nation’s history. The total number of artifacts discovered during this event was nearly 1,500 pieces of material culture.</span></span></span></p>
+
+<figure role="group"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="d3657874-d4c3-4a1f-9534-968c19cb8bc7" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-12/Photo%203%20-IMG_5510.jpg?itok=GXVpflLN" width="640" height="480" alt="Organizers and volunteers marking surface artifacts at the site of China Town in the old mining town of Silver Reef, Utah." typeof="foaf:Image" /></div>
+      
+</div>
+</div>
+<figcaption>Organizers and volunteers marking surface artifacts at the site of China Town in the old mining town of Silver Reef, Utah. Photo by BLM Utah.</figcaption></figure><p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif">Today the remnants of this town are located on BLM, Utah Trust Lands and private lands. The original Wells Fargo Bank is on the National Register of Historic Places and is a museum dedicated to telling the story of the Silver Reef to the public. </span></span></span></p>
+
+<figure role="group"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f9713bfb-23fe-43db-9685-892eb691f7ca" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2023-12/Photo%204IMG_9582.JPG?itok=fOv3z76A" width="640" height="480" alt="Surface artifacts found in China Town in the old mining town of Silver Reef, Utah." typeof="foaf:Image" /></div>
+      
+</div>
+</div>
+<figcaption>Surface artifacts found in China Town in the old mining town of Silver Reef, Utah. Photo by BLM Utah.</figcaption></figure></div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/utah" hreflang="en">Utah</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/cultural-heritage-and-paleontology" hreflang="en">Cultural Heritage and Paleontology</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2023-12-21T12:00:00Z">Thu, 12/21/2023 - 12:00 pm UTC</time></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/utah-state-office" hreflang="en">Utah State Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46292/edit" hreflang="en">Silver Reef - historic photo-ChinaTown</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/cultural-heritage" hreflang="en">Cultural Heritage</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/utah" hreflang="en">Utah</a></div>
+          <div><a href="https://www.blm.gov/editorial-access/west-desert-do" hreflang="en">West Desert DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46292/edit" hreflang="en">Silver Reef - historic photo-ChinaTown</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2023-12-21/silver-reef-mining-town-preserving-chinatown-community-effort">https://www.blm.gov/blog/2023-12-21/silver-reef-mining-town-preserving-chinatown-community-effort</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2023-12-21/silver-reef-mining-town-preserving-chinatown-community-effort">Save to Pocket</a>
+</span>
 
 ---
 

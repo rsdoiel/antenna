@@ -1,11 +1,131 @@
 ---
 title: games 2023.51
-updated: 2023-12-21 10:52:39
+updated: 2023-12-22 11:52:51
 ---
 
 # games 2023.51
 
-(date: 2023-12-21 10:52:39)
+(date: 2023-12-22 11:52:51)
+
+---
+
+## The 14 best Baldur’s Gate 3 quality-of-life and style mods
+
+date: 2023-12-22, updated: 2023-12-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/23993575/baldurs-gate-3-mods-best-how-to-download">https://www.polygon.com/23993575/baldurs-gate-3-mods-best-how-to-download</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/23993575/baldurs-gate-3-mods-best-how-to-download">Save to Pocket</a>
+</span>
+
+---
+
+## Can you earn XP and battle pass levels in Lego Fortnite?
+
+date: 2023-12-22, updated: 2023-12-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/23993586/lego-fortnite-xp-battle-pass-levels-earn">https://www.polygon.com/23993586/lego-fortnite-xp-battle-pass-levels-earn</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/23993586/lego-fortnite-xp-battle-pass-levels-earn">Save to Pocket</a>
+</span>
+
+---
+
+## 7 more Seven Samurai stories to watch after Rebel Moon
+
+date: 2023-12-22, updated: 2023-12-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/what-to-watch/24006222/movies-like-seven-samurai-kurosawa-rebel-moon">https://www.polygon.com/what-to-watch/24006222/movies-like-seven-samurai-kurosawa-rebel-moon</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/what-to-watch/24006222/movies-like-seven-samurai-kurosawa-rebel-moon">Save to Pocket</a>
+</span>
+
+---
+
+## PlayStation classic Alien Resurrection hides one heck of a piracy secret
+
+date: 2023-12-22, updated: 2023-12-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/24012392/playstation-alien-resurrection-backup-disc-cheat-exploit-piracy">https://www.polygon.com/gaming/24012392/playstation-alien-resurrection-backup-disc-cheat-exploit-piracy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/24012392/playstation-alien-resurrection-backup-disc-cheat-exploit-piracy">Save to Pocket</a>
+</span>
+
+---
+
+## The Legend of Zelda: Ocarina of Time is the anti-Breath of the Wild
+
+date: 2023-12-22, updated: 2023-12-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/zelda/24010737/zelda-ocarina-of-time-breath-of-the-wild-nintendo-switch">https://www.polygon.com/zelda/24010737/zelda-ocarina-of-time-breath-of-the-wild-nintendo-switch</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/zelda/24010737/zelda-ocarina-of-time-breath-of-the-wild-nintendo-switch">Save to Pocket</a>
+</span>
+
+---
+
+## Zack Snyder says Rebel Moon’s R-rated cut ‘takes place in a slightly different dimension’
+
+date: 2023-12-22, updated: 2023-12-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2023/12/22/24012244/rebel-moon-r-rated-directors-cut-zack-snyder">https://www.polygon.com/2023/12/22/24012244/rebel-moon-r-rated-directors-cut-zack-snyder</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2023/12/22/24012244/rebel-moon-r-rated-directors-cut-zack-snyder">Save to Pocket</a>
+</span>
+
+---
+
+## Freud’s Last Session imagines the philosophical debate of a lifetime — then flops
+
+date: 2023-12-22, updated: 2023-12-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24009316/freuds-last-session-review">https://www.polygon.com/24009316/freuds-last-session-review</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24009316/freuds-last-session-review">Save to Pocket</a>
+</span>
+
+---
+
+## How to multiclass in Baldur’s Gate 3
+
+date: 2023-12-22, updated: 2023-12-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/baldurs-gate-3-guides/24011302/multiclass-how-to-best-builds-bg3">https://www.polygon.com/baldurs-gate-3-guides/24011302/multiclass-how-to-best-builds-bg3</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/baldurs-gate-3-guides/24011302/multiclass-how-to-best-builds-bg3">Save to Pocket</a>
+</span>
+
+---
+
+## Solo board games are a salvation from an online world
+
+date: 2023-12-22, updated: 2023-12-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/tabletop-games/24010871/best-solo-board-games-zimp-under-falling-skies">https://www.polygon.com/tabletop-games/24010871/best-solo-board-games-zimp-under-falling-skies</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/tabletop-games/24010871/best-solo-board-games-zimp-under-falling-skies">Save to Pocket</a>
+</span>
+
+---
+
+## I truly believe Tim Burton’s Willy Wonka movie is still the best Willy Wonka movie
+
+date: 2023-12-22, updated: 2023-12-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24011109/willy-wonka-movie-comparison-johnny-depp-gene-wilder-timothee-chalamet">https://www.polygon.com/24011109/willy-wonka-movie-comparison-johnny-depp-gene-wilder-timothee-chalamet</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24011109/willy-wonka-movie-comparison-johnny-depp-gene-wilder-timothee-chalamet">Save to Pocket</a>
+</span>
 
 ---
 

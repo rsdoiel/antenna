@@ -1,11 +1,99 @@
 ---
 title: columns 2023.51
-updated: 2023-12-21 10:52:38
+updated: 2023-12-22 11:52:51
 ---
 
 # columns 2023.51
 
-(date: 2023-12-21 10:52:38)
+(date: 2023-12-22 11:52:51)
+
+---
+
+## Massaging the Message: How Oilpatch Newspapers Censor the News
+
+date: 2023-12-22, from: Economics from the Top-Down
+
+<p><img width="150" height="150" src="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2023/12/desouza_cover-1.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2023/12/desouza_cover-1.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2023/12/desouza_cover-1.png?resize=1200%2C1200&amp;ssl=1 1200w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2023/12/desouza_cover-1.png?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2023/12/desouza_cover-1.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2023/12/desouza_cover-1.png?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2023/12/desouza_cover-1.png?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2023/12/desouza_cover-1.png?resize=450%2C450&amp;ssl=1 450w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2023/12/desouza_cover-1.png?resize=60%2C60&amp;ssl=1 60w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2023/12/desouza_cover-1.png?resize=550%2C550&amp;ssl=1 550w, https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2023/12/desouza_cover-1.png?zoom=2&amp;resize=150%2C150&amp;ssl=1 300w" sizes="(max-width: 150px) 100vw, 150px" data-attachment-id="7699" data-permalink="https://economicsfromthetopdown.com/desouza_cover-2/" data-orig-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2023/12/desouza_cover-1.png?fit=8184%2C6424&amp;ssl=1" data-orig-size="8184,6424" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="desouza_cover" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2023/12/desouza_cover-1.png?fit=300%2C235&amp;ssl=1" data-large-file="https://i0.wp.com/economicsfromthetopdown.com/wp-content/uploads/2023/12/desouza_cover-1.png?fit=723%2C568&amp;ssl=1" />Building on Regan Boychuk's work, I take a quantitative look at how newspapers in Canada's oilpatch censor the reporting of environmental journalist Mike De Souza.</p>
+<p>The post <a href="https://economicsfromthetopdown.com/2023/12/22/massaging-the-message-how-oilpatch-newspapers-censor-the-news/">Massaging the Message: How Oilpatch Newspapers Censor the News</a> appeared first on <a href="https://economicsfromthetopdown.com">Economics from the Top Down</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://economicsfromthetopdown.com/2023/12/22/massaging-the-message-how-oilpatch-newspapers-censor-the-news/">https://economicsfromthetopdown.com/2023/12/22/massaging-the-message-how-oilpatch-newspapers-censor-the-news/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://economicsfromthetopdown.com/2023/12/22/massaging-the-message-how-oilpatch-newspapers-censor-the-news/">Save to Pocket</a>
+</span>
+
+---
+
+## Data Exfiltration Using Indirect Prompt Injection
+
+date: 2023-12-22, updated: 2023-12-20, from: Bruce Schneier blog
+
+<p>Interesting <a href="https://promptarmor.substack.com/p/data-exfiltration-from-writercom">attack</a> on a LLM:</p>
+<blockquote><p>In Writer, users can enter a ChatGPT-like session to edit or create their documents. In this chat session, the LLM can retrieve information from sources on the web to assist users in creation of their documents. We show that attackers can prepare websites that, when a user adds them as a source, manipulate the LLM into sending private information to the attacker or perform other malicious activities.</p>
+<p>The data theft can include documents the user has uploaded, their chat history or potentially specific private information the chat model can convince the user to divulge at the attacker&#8217;s behest...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2023/12/data-exfiltration-using-indirect-prompt-injection.html">https://www.schneier.com/blog/archives/2023/12/data-exfiltration-using-indirect-prompt-injection.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2023/12/data-exfiltration-using-indirect-prompt-injection.html">Save to Pocket</a>
+</span>
+
+---
+
+## The Pernicious Myth of Meritocracy (Why American capitalism is so rotten, Part 5) 
+
+date: 2023-12-22, from: Robert Reich's blog
+
+It&#8217;s time to banish the absurd idea that people are paid what they&#8217;re &#8220;worth&#8221;
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/the-myth-of-meritocracy-why-is-american">https://robertreich.substack.com/p/the-myth-of-meritocracy-why-is-american</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/the-myth-of-meritocracy-why-is-american">Save to Pocket</a>
+</span>
+
+---
+
+## Apple’s Infinite Loop Store Is Closing Next Month
+
+date: 2023-12-22, updated: 2023-12-22, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.macrumors.com/2023/12/21/apples-infinite-loop-store-closing-next-month/">https://www.macrumors.com/2023/12/21/apples-infinite-loop-store-closing-next-month/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.macrumors.com/2023/12/21/apples-infinite-loop-store-closing-next-month/">Save to Pocket</a>
+</span>
+
+---
+
+## Axios: ‘Warner Bros. Discovery in Talks to Merge With Paramount’
+
+date: 2023-12-22, updated: 2023-12-22, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.axios.com/2023/12/20/warner-bros-paramount-merger-discovery-streaming">https://www.axios.com/2023/12/20/warner-bros-paramount-merger-discovery-streaming</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.axios.com/2023/12/20/warner-bros-paramount-merger-discovery-streaming">Save to Pocket</a>
+</span>
+
+---
+
+## The Obsessor
+
+date: 2023-12-22, updated: 2023-12-22, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.theobsessor.com/welcome-to-the-obsessor/">https://www.theobsessor.com/welcome-to-the-obsessor/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theobsessor.com/welcome-to-the-obsessor/">Save to Pocket</a>
+</span>
+
+---
+
+## Friday 22 December, 2023
+
+date: 2023-12-22, from: John Naughton's online diary
+
+Xmas Postbox One of the nicest things that happened (I think during the pandemic) that people started creating knitted tops for Britain’s red post-boxes. I spotted this one in Histon the other day as I came out of the post &#8230; <a href="https://memex.naughtons.org/friday-22-december-2023/38936/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/friday-22-december-2023/38936/">https://memex.naughtons.org/friday-22-december-2023/38936/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/friday-22-december-2023/38936/">Save to Pocket</a>
+</span>
 
 ---
 

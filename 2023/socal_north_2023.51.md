@@ -1,11 +1,233 @@
 ---
 title: socal north 2023.51
-updated: 2023-12-21 10:52:38
+updated: 2023-12-22 11:52:50
 ---
 
 # socal north 2023.51
 
-(date: 2023-12-21 10:52:38)
+(date: 2023-12-22 11:52:50)
+
+---
+
+## Disney Cruise Line returns to Catalina
+
+date: 2023-12-22, from: Catalina Islander
+
+Love Catalina Tourism Authority, announced this week that Disney Cruise Line is returning to Catalina Island, a premiere destination. The Port of Avalon welcomes Disney fans to the idyllic Catalina Island to experience the destination’s dining, adventures, traditions and more. The Disney Wonder was the first Disney Cruise Line ship to sail to Catalina Island [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/disney-cruise-line-returns-to-catalina/">https://thecatalinaislander.com/disney-cruise-line-returns-to-catalina/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/disney-cruise-line-returns-to-catalina/">Save to Pocket</a>
+</span>
+
+---
+
+## October visitor counts are out
+
+date: 2023-12-22, from: Catalina Islander
+
+Overall October 2023 visitor counts increased by almost 11.9% more than October 2022, according to statistics recently released by Love Catalina Tourism Authority. Cruise ship visits were up by nearly half (see below for details), according to the business group. In related news, the Disney Wonder will return to Catalina. Some categories of visitor counts—cross [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/october-visitor-counts-are-out/">https://thecatalinaislander.com/october-visitor-counts-are-out/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/october-visitor-counts-are-out/">Save to Pocket</a>
+</span>
+
+---
+
+## Lancer Boys basketball gaining experience
+
+date: 2023-12-22, from: Catalina Islander
+
+The Avalon Boys Basketball season is under way and the Lancers have taken some hard knocks so far. They opened their season on Friday, Dec. 1 against Oxford Academy. With only a week of practice as a full team the Lancers surprisingly came out competitive and ready to go. They trailed 20-15 at the end [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/lancer-boys-basketball-gaining-experience/">https://thecatalinaislander.com/lancer-boys-basketball-gaining-experience/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/lancer-boys-basketball-gaining-experience/">Save to Pocket</a>
+</span>
+
+---
+
+## Yes, Virginia, there are mermaids in Catalina waters
+
+date: 2023-12-22, from: Catalina Islander
+
+Catalina Island has always had a rich history of including mermaids in Avalon. The iconic Mermaid Mural at the Casino entrance is just one example of this. In the past few years a small woman-owned and operated company, Catalina Island Mermaids, has brought the magic of mermaid sightings back to Catalina. Visitors can often enjoy [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/yes-virginia-there-are-mermaids-in-catalina-waters/">https://thecatalinaislander.com/yes-virginia-there-are-mermaids-in-catalina-waters/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/yes-virginia-there-are-mermaids-in-catalina-waters/">Save to Pocket</a>
+</span>
+
+---
+
+## Sheriff’s Log: Dec. 14 to Dec. 20, 2023
+
+date: 2023-12-22, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Dec. 14 to Dec. 20, 2023. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/sheriffs-log-dec-14-to-dec-20-2023/">https://thecatalinaislander.com/sheriffs-log-dec-14-to-dec-20-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/sheriffs-log-dec-14-to-dec-20-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Los Angeles Orders More Residential Hotels To Stop Renting To Tourists
+
+date: 2023-12-22, updated: 2023-12-22, from: The LAist
+
+Twenty-one hotels have been cited so far. If the citations are enforced and upheld in court, hundreds of rooms could be turned back into low-cost permanent housing for the city’s poorest residents.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/los-angeles-orders-more-residential-hotels-to-stop-renting-to-tourists">https://laist.com/news/housing-homelessness/los-angeles-orders-more-residential-hotels-to-stop-renting-to-tourists</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/los-angeles-orders-more-residential-hotels-to-stop-renting-to-tourists">Save to Pocket</a>
+</span>
+
+---
+
+## The price of palm oil
+
+date: 2023-12-22, from: The Sundail (CSUN Student Newspaper)
+
+Deforestation, global warming and labor exploitation are three issues that have plagued the economy, and they all intersect with the production of palm oil. Palm oil comes from trees of the same name, and can be made by either squeezing their fruit or the kernel inside the fruit. Native to Africa, oil palm trees were...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177562/print-editions/print-stories/the-price-of-palm-oil/">https://sundial.csun.edu/177562/print-editions/print-stories/the-price-of-palm-oil/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177562/print-editions/print-stories/the-price-of-palm-oil/">Save to Pocket</a>
+</span>
+
+---
+
+## At One Compton Unified Elementary School, Some Parents And Staff Allege Principal Mistreated Students
+
+date: 2023-12-22, updated: 2023-12-22, from: The LAist
+
+The principal of George Washington Carver Elementary has won several education awards and has a legal background. Francisca Owoaje has supporters but is also the subject of complaints from parents and staff.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/carver-elementary-compton-unified-principal-allegations-mistreated-students">https://laist.com/news/education/carver-elementary-compton-unified-principal-allegations-mistreated-students</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/carver-elementary-compton-unified-principal-allegations-mistreated-students">Save to Pocket</a>
+</span>
+
+---
+
+## A Local Gun Store Was Set To Close. These PTA Moms Stepped In And Made Sure Another Would Not Replace It
+
+date: 2023-12-22, updated: 2023-12-22, from: The LAist
+
+How parents in Culver City advocated for another form of gun safety measures.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/a-local-gun-store-was-set-to-close-these-pta-moms-stepped-in-and-made-sure-another-would-not-replace-it">https://laist.com/news/a-local-gun-store-was-set-to-close-these-pta-moms-stepped-in-and-made-sure-another-would-not-replace-it</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/a-local-gun-store-was-set-to-close-these-pta-moms-stepped-in-and-made-sure-another-would-not-replace-it">Save to Pocket</a>
+</span>
+
+---
+
+## For Sri Lankans In LA, It Isn’t Christmas Without Their Traditional, Decadent, Spicy Christmas Cake
+
+date: 2023-12-22, updated: 2023-12-22, from: The LAist
+
+The cake, a localized version of British fruit cake, is a treat enjoyed by all faith groups.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/for-sri-lankans-in-la-it-isnt-christmas-without-their-traditional-decadent-spicy-christmas-cake">https://laist.com/news/food/for-sri-lankans-in-la-it-isnt-christmas-without-their-traditional-decadent-spicy-christmas-cake</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/for-sri-lankans-in-la-it-isnt-christmas-without-their-traditional-decadent-spicy-christmas-cake">Save to Pocket</a>
+</span>
+
+---
+
+## 5 Of The Best Hot Chocolates In LA To Warm Up Your Chilly Days
+
+date: 2023-12-22, updated: 2023-12-22, from: The LAist
+
+How good are these hot chocolates? You'd happily sit in bumper-to-bumper traffic for a sip.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/best-hot-chocolate-la">https://laist.com/news/food/best-hot-chocolate-la</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/best-hot-chocolate-la">Save to Pocket</a>
+</span>
+
+---
+
+## To Dodgers Fans Everywhere, It's Beginning To Look A Lot Like Christmas With Reports Of Yamamoto Signing
+
+date: 2023-12-22, updated: 2023-12-22, from: The LAist
+
+Widespread reports that the Dodgers have sealed the deal with Yoshinobu Yamamoto have many fans very, very hopeful. He'd join former Japan teammate Shohei Ohtani and newly signed Glasnow
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/los-angeles-activities/yamamato-ohtani-glasnow-dodgers">https://laist.com/news/los-angeles-activities/yamamato-ohtani-glasnow-dodgers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/los-angeles-activities/yamamato-ohtani-glasnow-dodgers">Save to Pocket</a>
+</span>
+
+---
+
+## Coronavirus Subvariant JN.1 Spreading Fast In LA County
+
+date: 2023-12-22, updated: 2023-12-22, from: The LAist
+
+The fastest-growing strain of the virus that causes COVID has been found in L.A. County.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/health/coronavirus-subvariant-jn-1-spreading-fast-in-la-county">https://laist.com/news/health/coronavirus-subvariant-jn-1-spreading-fast-in-la-county</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/health/coronavirus-subvariant-jn-1-spreading-fast-in-la-county">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s basketball defeats Hawai’i in last nonconference game of season
+
+date: 2023-12-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Rainbow Wahine’s tallest player stood three inches shorter than the Bruins’ tallest.
+When sophomore center Lauren Betts – standing at 6-foot-7 – grabbed the ball in the paint late in the second frame, three Rainbow Wahine players surrounded her.&#160;
+She shot through them, sinking the and-one to add to her 12 points of the first half.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2023/12/21/ucla-womens-basketball-defeats-hawaii-in-last-nonconference-game-of-season/">https://dailybruin.com/2023/12/21/ucla-womens-basketball-defeats-hawaii-in-last-nonconference-game-of-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/21/ucla-womens-basketball-defeats-hawaii-in-last-nonconference-game-of-season/">Save to Pocket</a>
+</span>
+
+---
+
+## Merry Christmas and Happy Holidays, From My Family to Yours!
+
+date: 2023-12-21, from: City of Santa Clarita
+
+<p>Merry Christmas and Happy Holidays, From My Family to Yours! By Mayor Cameron Smyth “Just remember, the true spirit of Christmas lies in your heart.” – The Polar Express &#160;&#160; As the holiday season approaches, it is essential to pause and reflect on the true meaning of Christmas. Beyond the presents and holiday parties is [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2023/12/21/merry-christmas-and-happy-holidays-from-my-family-to-yours/">Merry Christmas and Happy Holidays, From My Family to Yours!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2023/12/21/merry-christmas-and-happy-holidays-from-my-family-to-yours/">https://santaclarita.gov/blog/2023/12/21/merry-christmas-and-happy-holidays-from-my-family-to-yours/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2023/12/21/merry-christmas-and-happy-holidays-from-my-family-to-yours/">Save to Pocket</a>
+</span>
+
+---
+
+## Writer’s Pick: Top 5 TV Shows of The Year
+
+date: 2023-12-21, from: The Sundail (CSUN Student Newspaper)
+
+2023 was packed with many different types of new movies and TV shows. Whether you watched alone or with friends, there were shows that pulled at your heartstrings, made you scream at your screen or left you wanting more. 5. “The Bear” “The Bear” is a about a professional chef named Carmy who has to...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177725/arts-entertainment/writers-pick-top-5-tv-shows-of-the-year/">https://sundial.csun.edu/177725/arts-entertainment/writers-pick-top-5-tv-shows-of-the-year/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177725/arts-entertainment/writers-pick-top-5-tv-shows-of-the-year/">Save to Pocket</a>
+</span>
+
+---
+
+## Santa Cross is coming to town
+
+date: 2023-12-21, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Sunshine, blue skies and warm weather accompanied this year’s SoCalCross Santa Cross Weekend on the Pierce campus, which took place Dec. 16-17.  Cyclocross races have</p>
+<p>The post <a href="https://theroundupnews.com/2023/12/21/santa-cross-is-coming-to-town/">Santa Cross is coming to town</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2023/12/21/santa-cross-is-coming-to-town/?utm_source=rss&utm_medium=rss&utm_campaign=santa-cross-is-coming-to-town">https://theroundupnews.com/2023/12/21/santa-cross-is-coming-to-town/?utm_source=rss&utm_medium=rss&utm_campaign=santa-cross-is-coming-to-town</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2023/12/21/santa-cross-is-coming-to-town/?utm_source=rss&utm_medium=rss&utm_campaign=santa-cross-is-coming-to-town">Save to Pocket</a>
+</span>
+
+---
+
+## Writer’s Pick: Top 5 Games of the Year of 2023
+
+date: 2023-12-21, from: The Sundail (CSUN Student Newspaper)
+
+The landscape of video games in 2023 shows that the medium continues to evolve by presenting compelling stories, exciting and innovative gameplay experiences and, most importantly, a wide variety of games from nearly every genre. Photo courtesy of Steam 5. Hi-Fi Rush Tango Gameworks surprised everyone when it released “Hi-Fi Rush” the same day it...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177714/arts-entertainment/writers-pick-top-5-games-of-the-year-of-2023/">https://sundial.csun.edu/177714/arts-entertainment/writers-pick-top-5-games-of-the-year-of-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177714/arts-entertainment/writers-pick-top-5-games-of-the-year-of-2023/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -384,6 +606,18 @@ For Nya Reed, Friday&#8217;s debut provided her an opportunity to honor the soro
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2023/12/18/ucla-gymnast-nya-reed-honors-delta-sigma-theta-at-meet-the-bruins/">https://dailybruin.com/2023/12/18/ucla-gymnast-nya-reed-honors-delta-sigma-theta-at-meet-the-bruins/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2023/12/18/ucla-gymnast-nya-reed-honors-delta-sigma-theta-at-meet-the-bruins/">Save to Pocket</a>
+</span>
+
+---
+
+## Nonprofit Led By OC Supervisor's Daughter Failed To Submit Required Audits For Millions In Spending, Records Show
+
+date: 2023-12-19, updated: 2023-12-21, from: The LAist
+
+The missing audits are for $4 million in taxpayer funding earmarked to provide meals for seniors and people with disabilities. LAist previously reported Do directed funding to the group without disclosing his family ties.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/orange-county-taxpayer-money-andrew-do-viet-america-society-warner-wellness">https://laist.com/news/politics/orange-county-taxpayer-money-andrew-do-viet-america-society-warner-wellness</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/orange-county-taxpayer-money-andrew-do-viet-america-society-warner-wellness">Save to Pocket</a>
 </span>
 
 ---

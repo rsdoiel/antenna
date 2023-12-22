@@ -1,11 +1,721 @@
 ---
 title: tech likely 2023.51
-updated: 2023-12-21 10:52:38
+updated: 2023-12-22 11:52:51
 ---
 
 # tech likely 2023.51
 
-(date: 2023-12-21 10:52:38)
+(date: 2023-12-22 11:52:51)
+
+---
+
+## Beeper’s Final Fixes and Government Investigations
+
+date: 2023-12-22, from: Michael Tsai
+
+Juli Clover: On Reddit, the Beeper Mini team says that the Mac-based fix coming on December 20 stabilizes iMessage for Beeper Cloud and Mini, and it &#8220;works well&#8221; and &#8220;is very reliable.&#8221;[&#8230;]Beeper has been using its own Mac servers to provide that information to Apple, but that resulted in thousands of Beeper users having the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/22/beepers-final-fixes-and-government-investigations/">https://mjtsai.com/blog/2023/12/22/beepers-final-fixes-and-government-investigations/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/22/beepers-final-fixes-and-government-investigations/">Save to Pocket</a>
+</span>
+
+---
+
+## How to Control the World
+
+date: 2023-12-22, from: Michael Tsai
+
+Brandon Williams and Stephen Celis (2018, via Christian Tietze): While unconventional, we hope that it&#8217;s obvious that this solution of controlling dependencies is superior to the traditional solutions in use today. It also gives us an opportunity to reevaluate deep-seated beliefs we may have. We should continuously question our assumptions. In this case, we found [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/22/how-to-control-the-world/">https://mjtsai.com/blog/2023/12/22/how-to-control-the-world/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/22/how-to-control-the-world/">Save to Pocket</a>
+</span>
+
+---
+
+## WeChat’s HotspotHelper Entitlement
+
+date: 2023-12-22, from: Michael Tsai
+
+Yingyu (via Hacker News): Since the introduction of iOS 9 in 2015, Apple has included an API call named &#8220;HotspotHelper,&#8221; enabling developers to request a capability for their apps to assist the system in connecting to WiFi access points.[&#8230;]The real cause for concern arises from the fact that, with access to such information, apps can [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/22/wechats-hotspothelper-entitlement/">https://mjtsai.com/blog/2023/12/22/wechats-hotspothelper-entitlement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/22/wechats-hotspothelper-entitlement/">Save to Pocket</a>
+</span>
+
+---
+
+## iOS 17 Autocorrect
+
+date: 2023-12-22, from: Michael Tsai
+
+Juli Clover: The machine learning technology that Apple is using for autocorrect has been improved in iOS 17. Apple says it has adopted a &#8220;transformer language model,&#8221; that will better personalize autocorrect to each user. It is able to learn your personal preferences and word choices to be more useful to you.After using iOS 17 [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/22/ios-17-autocorrect/">https://mjtsai.com/blog/2023/12/22/ios-17-autocorrect/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/22/ios-17-autocorrect/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-22, from: Dave Winer's Scripting News)
+
+Is there an <a href="https://www.amazon.com/smart-home-devices/b?ie=UTF8&node=9818047011">Amazon Echo</a> in the <a href="https://www.amazon.com/JBL-Waterproof-Portable-Bluetooth-Speaker/dp/B07QK2SPP7/ref=sr_1_1_sspa?hvadid=267942939791&hvdev=c&hvlocphy=9004747&hvnetw=g&hvqmt=e&hvrand=16161778895412864090&hvtargid=kwd-375689607825&hydadcr=15108_9828339&keywords=jbl+bluetooth+speaker+system&qid=1703269785&sr=8-1-spons&ufe=app_do:amzn1.fos.18630bbb-fcbb-42f8-9767-857e17e03685&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">form factor</a> of a battery operated wifi speaker? Such an obvious product. Everyone would get one.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/22.html#a185810">http://scripting.com/2023/12/22.html#a185810</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/22.html#a185810">Save to Pocket</a>
+</span>
+
+---
+
+## On Cupid! On, Donner and BARREL!
+
+date: 2023-12-22, from: NASA breaking news
+
+In this image from Dec. 8, 2017, four reindeer walk past the Balloon Array for Radiation-belt Relativistic Electron Losses, or BARREL, payload on the launch pad at Esrange Space Center near Kiruna, Sweden. BARREL primarily measured X-rays in Earth’s atmosphere near the North and South Poles. These X-rays are caused by electrons that rain down, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/on-cupid-on-donner-and-barrel/">https://www.nasa.gov/image-article/on-cupid-on-donner-and-barrel/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/on-cupid-on-donner-and-barrel/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Issues New Space Security Best Practices Guide
+
+date: 2023-12-22, from: NASA breaking news
+
+As space missions and technologies grow increasingly interconnected, NASA has released the first iteration of its Space Security Best Practices Guide to bolster mission cybersecurity efforts for both public sector and private sector space activities. The guide represents a significant milestone in NASA’s commitment to ensuring the longevity and resilience of its space missions and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/nasa-issues-new-space-security-best-practices-guide/">https://www.nasa.gov/general/nasa-issues-new-space-security-best-practices-guide/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/nasa-issues-new-space-security-best-practices-guide/">Save to Pocket</a>
+</span>
+
+---
+
+## A Look Through Time with NASA’s Lead Photographer for the James Webb Space Telescope
+
+date: 2023-12-22, from: NASA breaking news
+
+Nearly two years ago in the early morning hours of Dec. 25, NASA’s James Webb Space Telescope successfully took flight from the jungle-encircled ELA-3 launch complex at Europe’s Spaceport near Kourou, French Guiana. Following a successful deployment in space, and the precise alignment of the telescope’s mirrors and instruments, Webb began science operations nearly six […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/webb/a-look-through-time-with-nasas-lead-photographer-for-the-james-webb-space-telescope/">https://science.nasa.gov/missions/webb/a-look-through-time-with-nasas-lead-photographer-for-the-james-webb-space-telescope/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/webb/a-look-through-time-with-nasas-lead-photographer-for-the-james-webb-space-telescope/">Save to Pocket</a>
+</span>
+
+---
+
+## Meet the Infrared Telescopes That Paved the Way for NASA’s Webb
+
+date: 2023-12-22, from: NASA breaking news
+
+The Webb telescope has opened a new window onto the universe, but it builds on missions going back 40 years, including Spitzer and the Infrared Astronomical Satellite. On Dec. 25, NASA will celebrate the two-year launch anniversary of the James Webb Space Telescope – the largest and most powerful space observatory in history. The clarity [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/universe/meet-the-infrared-telescopes-that-paved-the-way-for-nasas-webb/">https://www.nasa.gov/universe/meet-the-infrared-telescopes-that-paved-the-way-for-nasas-webb/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/universe/meet-the-infrared-telescopes-that-paved-the-way-for-nasas-webb/">Save to Pocket</a>
+</span>
+
+---
+
+## Celebrating the Holiday Season in Space
+
+date: 2023-12-22, from: NASA breaking news
+
+The Christmas, Hanukkah, and New Year holidays are joyful events typically spent with family and friends. Astronauts and cosmonauts who find themselves in space during the holidays have found their own unique way to celebrate the occasions. In the early years of the space program, holidays spent in space occurred infrequently, most notably the flight [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/history/celebrating-the-holiday-season-in-space-2023/">https://www.nasa.gov/history/celebrating-the-holiday-season-in-space-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/history/celebrating-the-holiday-season-in-space-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## A Moment of Applied Holiday Robotics
+
+date: 2023-12-22, from: Doc Searls (at Harvard), New Old Blog
+
+I asked ChatGPT and Bard to &#8220;List all Christmas holiday tunes in chronological order, by the year they were written, running from oldest at the top to the newest at the bottom.&#8221; ChatGPT gave me a lame list. Bard gave me a much better one, improved by my follow-ups. Here ya go: While creating a [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://doc.searls.com/2023/12/22/a-moment-of-applied-holiday-robotics/">https://doc.searls.com/2023/12/22/a-moment-of-applied-holiday-robotics/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://doc.searls.com/2023/12/22/a-moment-of-applied-holiday-robotics/">Save to Pocket</a>
+</span>
+
+---
+
+## Conversation vs publishing
+
+date: 2023-12-22, from: Dave Winer's Scripting News
+
+<p>Conversation has a place, but I think we've explored that pretty well, and now I want to create better publishing and reading systems, that are as fast as social web systems, but place less emphasis on replies that can be seen by everyone, because that often is not really conversation, it's spam. </p>
+<p>I think ultimately we'll be disappointed with federation for all the reasons we're frustrated with earlier social web systems. People trying to get attention for their ideas, which often are spam or trolling. I also think this means RSS will be more valuable going forward because it's great at publishing, checking all the <a href="http://textcasting.org/">textcasting</a> boxes. </p>
+<p>I plan to build with and around WordPress. I think of WordPress as a basic platform the way I saw Twitter between 2006 and 2022. Now the question is what are the steps to use WordPress as the back-end of a social communication system. Behind the scenes, its database has all the capabilities we need to provide the tools writers need. And it has excellent RSS support. It all runs at scale and has a mature yet simple API.  That is all we need to form a hub.</p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/22/154133.html?title=conversationVsPublishing">http://scripting.com/2023/12/22/154133.html?title=conversationVsPublishing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/22/154133.html?title=conversationVsPublishing">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Asteroid Sampling Mission Renamed OSIRIS-APEX for New Journey
+
+date: 2023-12-22, from: NASA breaking news
+
+The former OSIRIS-REx spacecraft sets off on a journey to study asteroid Apophis and take advantage of the asteroid’s 2029 flyby of Earth, the likes of which hasn’t happened since the dawn of recorded history.
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/osiris-apex/nasa-asteroid-sampling-mission-renamed-osiris-apex-for-new-journey/">https://www.nasa.gov/missions/osiris-apex/nasa-asteroid-sampling-mission-renamed-osiris-apex-for-new-journey/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/osiris-apex/nasa-asteroid-sampling-mission-renamed-osiris-apex-for-new-journey/">Save to Pocket</a>
+</span>
+
+---
+
+## WHAT WILL SURVIVE OF US IS LOVE
+
+date: 2023-12-22, from: Howard Jacobson blog
+
+Here, rather than an individual card to each of my subscribers, is the jacket of my new novel to be published by Jonathan Cape on Feb 1, 2024. With it, I wish you all a Happy New Year! I take the title from Philip Larkin&#8217;s poem An Arundel Tomb. That&#8217;s the one in which Larkin notes with &#8216;sharp tender shock&#8217; that the entombed earl has removed his gauntlet and has been holding the countess&#8217;s hand for centuries. The feelings defy the cold stone in which they&#8217;re expressed. It's an elegant poem, similarly defying its own rigidity. If you can read it and not weep a stony tear you have never held a lover&#8217;s hand. I can&#8217;t go for long without a hand in my mine. I&#8217;ve always been a love poet masquerading as a Rabelaisian novelist, it&#8217;s just that no one has noticed. In my new novel &#8211; as the title suggests - I celebrate love from its first ecstatic minute to its final devotional hour and make fewer jokes than in earlier work.
+
+<span class="feed-item-link">
+<a href="https://jacobsonh.substack.com/p/what-will-survive-of-us-is-love">https://jacobsonh.substack.com/p/what-will-survive-of-us-is-love</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://jacobsonh.substack.com/p/what-will-survive-of-us-is-love">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-22, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/12/22/wordleWin.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've been playing <a href="https://www.nytimes.com/games/wordle/index.html">Wordle</a> again for the last two months. I'm much better at it this go-around than the last time. Generally I can get it done in three or four moves. If it takes five it's because I made a mistake or took a gamble on the second move that didn't work out. These days I don't even try for the second move, but this morning, on the first move I got four out of the five letters, and got the correct position of two of the four. It took a couple of seconds to see that there was really only one answer, so I decided to risk it, and there was this moment we yearn for when the <a href="https://www.youtube.com/watch?v=SbK1SM_Qomg">letters reveal</a> one at a time, all green, a final correct move, in two. First time I've ever gotten that result. I wasn't even sure it was possible. Well there it is. Almost <a href="https://imgs.scripting.com/2023/12/22/9999.png">perfect</a>. Nothing more to say than Yay Me!
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/22.html#a145333">http://scripting.com/2023/12/22.html#a145333</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/22.html#a145333">Save to Pocket</a>
+</span>
+
+---
+
+## My Substack Year-in-Review (plus some thoughts on Substack's Nazi moderation problem)
+
+date: 2023-12-22, from: Dave Karpf's blog
+
+This is not how I wanted to spend my end-of-year post, Hamish and Chris!
+
+<span class="feed-item-link">
+<a href="https://davekarpf.substack.com/p/my-substack-year-in-review-plus-some">https://davekarpf.substack.com/p/my-substack-year-in-review-plus-some</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://davekarpf.substack.com/p/my-substack-year-in-review-plus-some">Save to Pocket</a>
+</span>
+
+---
+
+## An Apollo 8 Christmas Dinner Surprise: Turkey and Gravy Make Space History
+
+date: 2023-12-22, from: NASA breaking news
+
+On Christmas Day in 1968, the three-man Apollo 8 crew of Frank Borman, Jim Lovell, and Bill Anders found a surprise in their food locker: a specially packed Christmas dinner wrapped in foil and decorated with red and green ribbons. Something as simple as a “home-cooked meal,” or as close as NASA could get for [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/history/apollo-8-christmas-dinner/">https://www.nasa.gov/history/apollo-8-christmas-dinner/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/history/apollo-8-christmas-dinner/">Save to Pocket</a>
+</span>
+
+---
+
+## Tiny VR Goggles for Mice
+
+date: 2023-12-22, updated: 2023-12-22, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2023/12/22/tiny-vr-goggles-for-mice/">https://onefoottsunami.com/2023/12/22/tiny-vr-goggles-for-mice/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2023/12/22/tiny-vr-goggles-for-mice/">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Sights a Galaxy with ‘Forbidden’ Light
+
+date: 2023-12-22, from: NASA breaking news
+
+This whirling image features a bright spiral galaxy known as MCG-01-24-014, which is located about 275 million light-years from Earth. In addition to being a well-defined spiral galaxy, MCG-01-24-014 has an extremely energetic core known as an active galactic nucleus (AGN) and is categorized as a Type-2 Seyfert galaxy. Seyfert galaxies, along with quasars, host one of the most common […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/hubble-sights-a-galaxy-with-forbidden-light/">https://science.nasa.gov/missions/hubble/hubble-sights-a-galaxy-with-forbidden-light/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/hubble-sights-a-galaxy-with-forbidden-light/">Save to Pocket</a>
+</span>
+
+---
+
+## P&B: Chris Butler
+
+date: 2023-12-22, from: Manu - I write blog
+
+<p>This is the 17th edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Chris Butler and his blog, <a href="https://www.chrbutler.com/" rel="noreferrer" target="_blank">chrbutler.com</a></p>
+<p>To follow this series <a href="https://peopleandblogs.com" rel="noreferrer" target="_blank">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<hr />
+<div class="q"><p><strong>Let&#039;s start from the basics: can you introduce yourself?</strong></p></div>
+<div class="a"><p>Hi, I'm Chris Butler. I'm a digital graphic designer. I work at <a href="https://newfangled.com">Newfangled.com</a> and write at <a href="https://chrbutler.com">Chrbutler.com</a>.</p>
+<p>I was fortunate to study art and design at <a href="https://risd.edu">RISD.edu</a>. While majoring in Film/Animation/Video, I became interested in motion graphics, which began a winding path toward interaction design.</p>
+<p>Though I've been happily settled in Durham, NC for over a decade now – the longest I've lived in one spot! – I've lived in many places; the most distant was Penang, Malaysia.</p>
+<p>I was recently asked to choose three adjectives to describe myself. The first that came to mind was "curious." I have more interests than I have time to pursue them. Many come up in the course of my writing. More on that in a bit...</p></div>
+<div class="q"><p><strong>What&#039;s the story behind your blog?</strong></p></div>
+<div class="a"><p>I'm not sure there's much of a story other than that I've always wanted to maintain a record of some kind. I created my first webpage in the late 1990s and have tried to maintain the ability to do so ever since. I've kept several different personal URLs over the years, but my current one (<a href="https://chrbutler.com">chrbutler.com</a>) – just the shortest viable and available version of my name when I registered it – has endured the longest.</p>
+<p>I've written professionally at several different places. <a href="https://newfangled.com">Newfangled.com</a> has been where I've published the most practical writing on interaction design. I wrote the Interaction design column for PRINT Magazine for several years, contributed to their blog as well as their sister publication, HOW Magazine, and wrote a book published by HOW Books called The Strategic Web Designer. I've also written for <a href="https://www.smashingmagazine.com">SmashingMagazine.com</a>.</p>
+<p>But on my website, I'm less focused on a particular topic. I'm much more seasonal in the way I write there – sometimes longer, developed essays, sometimes very brief blog posts. Most of the time, I share my writing with my email list.</p></div>
+<div class="q"><p><strong>What does your creative process look like when it comes to blogging?</strong></p></div>
+<div class="a"><p>I keep a "Files" drive connected to my machine, and on it, a folder called "TEXTS." In it are a few sub-folders: Articles, Fragments, Journal, Notes. In those are thousands of .txt files. I back this up on another RAID drive and on the cloud.</p>
+<p>Every day I create some kind of entry on that drive. If it's not a journal entry, I typically start with hastily writing down scattered comments about something I am thinking about and save it to the Notes folder. If I begin to develop that entry, I'll usually move it up to the root level. When it's finished, I file it under Articles. If it languishes for too long, I'll move it to Fragments. Every now and then, I mine the Fragments folder. Most of the time, I read over something and remark, "what on Earth was I thinking." But every now and then, I'll pull something back out of there and work on it again. A few months ago, I published an essay called "<a href="https://www.chrbutler.com/personal-machines-and-portable-worlds">Personal Machines and Portable Worlds</a>" that was the result of several resurrections from the Fragments folder – some nearly a decade old.</p>
+<p>When I'm ready to publish something, I duplicate the .txt file to a Dropbox folder that syncs with my <a href="https://blot.im">Blot.im</a> account. Blot is a lovely, simple flat-file CMS. I've used it for many years now and would recommend it to anyone.</p></div>
+<div class="q"><p><strong>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</strong></p></div>
+<div class="a"><p>I have these childhood memories of visiting my sister's room, which was always in a state of near-chaos, and being inspired by the energy in there. She'd often be making things and always had a creative spark that was just so different from mine. I began to associate creativity and disorder, which, for me, has been a lifelong irony because, back then, I'd return to my room, which I'd probably just meticulously cleaned. I'm still that way – I put a huge amount of energy toward creating and maintaining order. I've learned over the years that creativity isn't dependent upon either disorder or order. Both can feed it.</p>
+<p>And so both are present in my working space. I'll probably always lean more toward order (<a href="https://www.chrbutler.com/organization-office">this post on my setup will make that clear</a>), but the disorder comes from having a lot of variety available around me. I love having interesting things to look at – even just a glance at something can inspire me and fuel me through the day. I am constantly shuffling the things on my office's display shelves to feed my mind with images and ideas that I can use.</p></div>
+<div class="q"><p><strong>A question for the techie readers: can you run us through your tech stack?</strong></p></div>
+<div class="a"><p>The post I referenced above will provide much more exhaustive detail on this, but to summarize:</p>
+<p>I work at home, and my primary machine is an M1 Mac Mini. I haven't owned a laptop in many years. I like to keep my computer time focused in one place, for the most part (though I do have an iPad Mini, which is a very useful device and optimally sized, in my opinion). I connect into a large LG display and communicate via Zoom using a Sony a7c and a Shure SM7B connected through a Focusrite Scarlett interface.</p>
+<p>I write with Ulysses and store all my text files on a 1TB NVMe SSD I assembled myself. I back up everything on a LaCIE RAID.</p>
+<p>As I mentioned above, my blog is run on Blot.im and all its files are stored on Dropbox.</p>
+<p>I'm an evangelist for maintaining an uninterruptible power supply (UPS). In a time of increasingly weird weather, power outages are becoming more common. The CyberPower CP1500 keeps us up and running so we can save our work and shutdown when we feel like it.</p></div>
+<div class="q"><p><strong>Given your experience, if you were to start a blog today, would you do anything differently?</strong></p></div>
+<div class="a"><p>Content-wise, I don't think so. I like the personal nature of my website and how its variety reflects who I am. If I were motivated to build a larger audience and somehow monetize that attention, then specializing in some way would probably be necessary. But that's not what my website is for.</p>
+<p>What my website is for is, first and foremost, to be a record for me. I like that it traces interests and modes over the years, and I like that it's there for anyone to see. On that note, it's also for making connections. I have made numerous friends through engaging online. These are relationships that have developed far beyond digital acquaintance – they've gone deep and lasted for many years. I met of my very good friends because I commented on his blog and then he on mine. I love that the internet makes this possible.</p>
+<p>Technically and creatively, of course I am often itchy. I routinely want to try out a new technology or platform and experiment with the design. I've revamped my site plenty of times, but the ease of the flat-file approach on Blot is hard to trade in for something that might offer me more creative options. It makes it easy for me to write and publish things, which has always been the point.</p></div>
+<div class="q"><p><strong>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what&#039;s your position on people monetising personal blogs?</strong></p></div>
+<div class="a"><p>The website's <em>direct</em>, yearly costs are:</p>
+<ul>
+<li>domain name registration: $16</li>
+<li>blot.im account: $40</li>
+<li>Dropbox account: $120</li>
+</ul>
+<p>Total: $176</p>
+<p>That breaks down to ~$15/month, which is a pretty cheap price for such an enriching hobby, I think.</p>
+<p>Meanwhile, the site generates no revenue! Like some of your previous guests, it has created connections that have led to money through various side writing, speaking, or consulting work, but that's never been its purpose. When that happens, it's a nice thing, and I'm happy to leave it at that for now. (It has happened a handful of times, and in the aggregate, they have paid for the all-time costs of the site so far. I'd be fine with it if that wasn't true.)</p>
+<p>My position on monetizing personal blogs is to each their own!</p></div>
+<div class="q"><p><strong>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</strong></p></div>
+<div class="a"><p>Patrick Tanguay's Sentiers (<a href="https://sentiers.media/" rel="noreferrer" target="_blank">sentiers.media</a>) is a must. I will read anything that Maciej Ceglowski (<a href="https://idlewords.com/" rel="noreferrer" target="_blank">idlewords.com</a>) writes. Erin Kissane recently wrapped a series examining Meta's role in the genocide of Rohingya people in Myanmar (<a href="https://erinkissane.com" rel="noreferrer" target="_blank">erinkissane.com</a>).</p>
+<p>Lara Hogan's wisdom overflows here: <a href="https://larahogan.me/">larahogan.me</a>. Reading Nicholas Magand (<a href="https://thejollyteapot.com/">thejollyteapot.com</a>) got me to loosen up on my blog. Maggie Appleton (<a href="https://maggieappleton.com/">maggieappleton.com</a>) is inspiring. I like Carl Barenbrug's blog (<a href="http://carlbarenbrug.com">carlbarenbrug.com</a>), Chris Hannah's (<a href="https://chrishannah.me/">chrishannah.me</a>), and Jose Gilgado's (<a href="https://josem.co/articles/">josem.co</a>). Scott Buffington's "Full Pints" posts always yield something of interest (<a href="https://irongeek.net/">irongeek.net</a>).</p>
+<p>I just met Robert Rackley through my own blog and I've been enjoying catching up on his (<a href="https://canneddragons.net/">canneddragons.net</a>).</p>
+<p>When it comes to the weird, I never miss a post from Håkan Blomqvist (<a href="https://ufoarchives.blogspot.com/">ufoarchives.blogspot.com</a>) or The Anomalist (<a href="https://www.anomalist.com">anomalist.com</a>).</p></div>
+<div class="q"><p><strong>Final question: is there anything you want to share with us?</strong></p></div>
+<div class="a"><p>I wrapped my last episode of my <a href="https://podcasts.apple.com/us/podcast/design-tomorrow/id1433919260">Design Tomorrow podcast</a> nearly five years ago, but I still think it's good and worth a listen.</p></div>
+<hr />
+<p>This was the 17th edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Chris. Make sure to <a href="https://www.chrbutler.com/" rel="noreferrer" target="_blank">follow his blog</a> (<a href="https://www.chrbutler.com/feed.rss" rel="noreferrer" target="_blank">RSS</a>) and get in touch with him if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale" rel="noreferrer" target="_blank">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com" rel="noreferrer" target="_blank">official site</a> of the newsletter.</p>
+<ul>
+<li><a href="https://www.thingelstad.com" rel="noreferrer" target="_blank">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="https://some.studio" rel="noreferrer" target="_blank">Piet Terheyden</a></li>
+<li><a href="https://minim.blog" rel="noreferrer" target="_blank">Raul Montala</a> (<a href="https://minim.blog/index.xml" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li>Eleonora</li>
+<li><a href="https://carlbarenbrug.com" rel="noreferrer" target="_blank">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="https://steveledlow.com" rel="noreferrer" target="_blank">Steve Ledlow</a></li>
+<li>Paolo Ruggeri</li>
+<li><a href="https://thejollyteapot.com" rel="noreferrer" target="_blank">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="https://robhope.com" rel="noreferrer" target="_blank">Rob Hope</a></li>
+<li><a href="https://chrishannah.me" rel="noreferrer" target="_blank">Chris Hannah</a> (<a href="https://manuelmoreale.com/view-source:https://chrishannah.me/index.xml" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="https://blog.pcora.eu" rel="noreferrer" target="_blank">Pedro Cor&aacute;</a> (<a href="https://blog.pcora.eu/feed.xml" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="https://jeremysarber.com/" rel="noreferrer" target="_blank">Jeremy Sarber</a> (<a href="https://jeremysarber.com/feed.rss" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="https://colinwalker.blog" rel="noreferrer" target="_blank">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="https://softlandings.world/" rel="noreferrer" target="_blank">Sixian Lim</a></li>
+<li><a href="https://mattstein.com/" rel="noreferrer" target="_blank">Matt Stein</a> (<a href="https://mattstein.com/rss.xml" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="https://winnielim.org/" rel="noreferrer" target="_blank">Winnie Lim</a> (<a href="https://winnielim.org/feed/" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="http://flamedfury.com/" rel="noreferrer" target="_blank">Flamed</a> (<a href="https://flamedfury.com/feed.xml/" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="https://amitgawande.com" rel="noreferrer" target="_blank">Amit Gawande</a> (<a href="https://www.amitgawande.com/feed/" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="https://skyhold.org" rel="noreferrer" target="_blank">C Jackdaw</a></li>
+<li><a href="https://tiv.today" rel="noreferrer" target="_blank">Kevin</a> (<a href="https://tiv.today/feed.rss" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="https://www.doc.cc/" rel="noreferrer" target="_blank">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="https://rosalindcroad.com/" rel="noreferrer" target="_blank">Rosalind Croad</a></li>
+<li><a href="https://frankmeeuwsen.com/" rel="noreferrer" target="_blank">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml" rel="noreferrer" target="_blank">RSS</a>)</li>
+<li><a href="https://www.elmikewalsh.com/" rel="noreferrer" target="_blank">Mike Walsh</a></li>
+<li><a href="https://www.josemunozmatos.com/" rel="noreferrer" target="_blank">Jose Munoz</a> (<a href="https://www.josemunozmatos.com/feeds" rel="noreferrer" target="_blank">RSS</a>)</li>
+</ul>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale" rel="noreferrer" target="_blank">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/qCU4fxc0u0Casfm0">https://manuelmoreale.com/@/page/qCU4fxc0u0Casfm0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/qCU4fxc0u0Casfm0">Save to Pocket</a>
+</span>
+
+---
+
+## Christmas gifts
+
+date: 2023-12-22, from: Ayjay blog
+
+In introducing the writings of George MacDonald, C. S. Lewis made a fascinating point which can only be quoted at length: What [MacDonald] does best is fantasy — fantasy that hovers between the allegorical and the mythopoeic. And this, in my opinion, he does better than any man. The critical problem with which we are [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/christmas-gifts/">https://blog.ayjay.org/christmas-gifts/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/christmas-gifts/">Save to Pocket</a>
+</span>
+
+---
+
+## We let the social media team design their own FrankenPi 5, and it is beyond horrendous
+
+date: 2023-12-22, from: Raspberry Pi News (.com)
+
+<p>We let our social media staff design a Raspberry Pi and they came up with an horrendous FrankPi 5. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/we-let-the-social-media-team-design-their-own-frankenpi-5-and-it-is-beyond-horrendous/">We let the social media team design their own FrankenPi 5, and it is beyond horrendous</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/we-let-the-social-media-team-design-their-own-frankenpi-5-and-it-is-beyond-horrendous/">https://www.raspberrypi.com/news/we-let-the-social-media-team-design-their-own-frankenpi-5-and-it-is-beyond-horrendous/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/we-let-the-social-media-team-design-their-own-frankenpi-5-and-it-is-beyond-horrendous/">Save to Pocket</a>
+</span>
+
+---
+
+## An update on HDR and color management in KWin
+
+date: 2023-12-22, from: OS News
+
+KWin now supports ICC profiles: In display settings you can set one for each screen, and KWin will use that to adjust the colors accordingly.  The Plasma 6 beta is already shipping with that implementation in KWin, and with a few additional steps you can play most HDR capable games in the Wayland session. ↫ Xaver Hugl I&#8217;ll admit colour management and HDR is a bit outside my wheelhouse, but I do know both are essentially vital for quite a few digital professions, and that support for them on Wayland specifically has been subpar or missing entirely. It seems progress is being made on these topics, and that&#8217;s good news.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138117/an-update-on-hdr-and-color-management-in-kwin/">https://www.osnews.com/story/138117/an-update-on-hdr-and-color-management-in-kwin/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138117/an-update-on-hdr-and-color-management-in-kwin/">Save to Pocket</a>
+</span>
+
+---
+
+## Bricked Xmas
+
+date: 2023-12-22, from: OS News
+
+I also had another set of addressable lights on my desk. While decorating my office for Christmas, I decided to invest some time in connecting them to Home Assistant using the BJ_LED code as a template. It should have been straightforward, right? Well, yes, but also no. ↫ Will Cooke We all love a good reverse-engineering story, especially if it involves bricking Christmas lights.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138115/bricked-xmas/">https://www.osnews.com/story/138115/bricked-xmas/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138115/bricked-xmas/">Save to Pocket</a>
+</span>
+
+---
+
+## Microsoft deprecates Mixed Reality from Windows
+
+date: 2023-12-22, from: OS News
+
+And the culling of Windows features continues. Windows Mixed Reality is deprecated and will be removed in a future release of Windows. This deprecation includes the Mixed Reality Portal app, and Windows Mixed Reality for SteamVR and Steam VR Beta. ↫ Microsoft&#8217;s &#8220;Deprecated features for Windows client&#8221; page All this mixed reality stuff was a big push in Windows, up to the point Microsoft added applications and dedicated folders for it to Windows. I don&#8217;t think I&#8217;ve ever seen anyone use any of it. The Verge notes Microsoft has been downsizing its VR efforts for a while now, and it seems the company is bailing on the VR hypetrain.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138113/microsoft-deprecates-mixed-reality-from-windows/">https://www.osnews.com/story/138113/microsoft-deprecates-mixed-reality-from-windows/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138113/microsoft-deprecates-mixed-reality-from-windows/">Save to Pocket</a>
+</span>
+
+---
+
+## SMTP Smuggling
+
+date: 2023-12-22, from: Tilde.news
+
+<p><a href="https://tilde.news/s/euex3l/smtp_smuggling">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.postfix.org/smtp-smuggling.html">https://www.postfix.org/smtp-smuggling.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postfix.org/smtp-smuggling.html">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Flies Drones Autonomously for Air Taxi Research
+
+date: 2023-12-22, from: NASA breaking news
+
+Researchers at NASA’s Langley Research Center in Hampton, Virginia recently flew multiple drones beyond visual line of sight with no visual observer. The drones successfully flew around obstacles and each other during takeoff, along a planned route, and upon landing, all autonomously without a pilot controlling the flight. 
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/aeronautics/nasa-flies-autonomous-drones/">https://www.nasa.gov/aeronautics/nasa-flies-autonomous-drones/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/aeronautics/nasa-flies-autonomous-drones/">Save to Pocket</a>
+</span>
+
+---
+
+## A Frivolous Feature
+
+date: 2023-12-22, from: Marginallia log
+
+Marginalia Search very recently gained the ability to filter results by Autonomous System, not only searching by ASN but by the organization information for that AS. At a glance this seems like a somewhat frivolous feature, but it has interesting effects.
+Autonomous Systems are part of the Internet&rsquo;s routing infrastructure. If your mental model of an IP number is that they are the phone number of the computer, this is something akin to a postal code.
+
+<span class="feed-item-link">
+<a href="https://www.marginalia.nu/log/96_frivolous_asn/">https://www.marginalia.nu/log/96_frivolous_asn/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.marginalia.nu/log/96_frivolous_asn/">Save to Pocket</a>
+</span>
+
+---
+
+## TCapture Replication Server 1.0 Beta
+
+date: 2023-12-22, from: PostgreSQL News
+
+<p>We are pleased to announce the upcoming release of TCapture Replication Server 1.0 Beta
+We are currently releasing a beta version for community testing.</p>
+<p>TCapture is a bidirectional multi master replication server based on a 'capture and apply' asynchronous replica engine</p>
+<p>Key Features</p>
+<ul>
+<li>Transactional. SQL are captured transactionally, can be coupled with surrounding business logic.</li>
+<li>Efficient. It capture transactions for replication from Write-Ahead Logs (WAL) instead of using triggers, eliminating overhead on master databases and significantly reduces latency</li>
+<li>Flexible. No limits on the number of producers or consumers, but complexity increases</li>
+<li>Reliable. Transactions are stored in PostgreSQL database – this adds the benefit of write ahead logging and crash recovery.</li>
+<li>Transparent. No impact on the applications already running on that database, since both engine and 'store database' can run separate from production databases.</li>
+<li>Easy to use. Simple to set up and configure, is an  effective tool for data replication between different Postgres versions</li>
+<li>Open Source. No licensing fees, but occasionally you'll have to get your hands dirty</li>
+</ul>
+<p>About TCapture
+https://github.com/lab-sb/tcrepsrv-dev</p>
+<p>To help you get started with TCapture, we have provided the following resources:
+• Docs Page
+• Source Code</p>
+<p>Documentation
+See docs, html documentation https://tcapturesupport.github.io/</p>
+<p>Links &amp; Credits
+Thank to the users who reported bugs .</p>
+<p>Links :
+• Download: https://github.com/lab-sb/tcrepsrv-dev/releases
+• Bug tracker: https://github.com/lab-sb/tcrepsrv-dev/issues</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/tcapture-replication-server-10-beta-2732/">https://www.postgresql.org/about/news/tcapture-replication-server-10-beta-2732/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/tcapture-replication-server-10-beta-2732/">Save to Pocket</a>
+</span>
+
+---
+
+##  Cute food art: butter sleigh rides down foods like pancakes and potatoes.... 
+
+date: 2023-12-21, updated: 2023-12-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043654-cute-food-art-butter-slei">https://kottke.org/23/12/0043654-cute-food-art-butter-slei</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043654-cute-food-art-butter-slei">Save to Pocket</a>
+</span>
+
+---
+
+## Unblocking user freedom: the right to use adblockers
+
+date: 2023-12-21, from: OS News
+
+Advertisements are a part of our lives, including our digital ones. They are in the websites we browse, the search results we receive, and the online news we read. Tired of receiving so many ads, some users try to avoid them by installing an adblocker. But is this a legal practice? Is using adblockers an act of restricting market autonomy, or do they help achieve user freedom? Imagine a scenario where website owners hold copyright over their websites, including whatever ads they place, and could effectively sue for copyright infringement if users were to remove or suppress ads when visiting these websites. This hypothetical situation would enable any website copyright holder to use the legal system to stop any ordinary user on the internet who tries to bypass these ads. This would lead to an internet where unsolicited information and advertisements are imposed on users. Fortunately, recent court decisions have at least prevented this hypothetical from becoming a reality in Germany. ↫ FSFE Good. My position has always been clear: your computer, your rules. Block ads to your heart&#8217;s content. Even on OSNews &#8211; block away if you want. There are far better ways to support us, anyway (Patreon, Ko-Fi, Liberapay, merch).
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138110/unblocking-user-freedom-the-right-to-use-adblockers/">https://www.osnews.com/story/138110/unblocking-user-freedom-the-right-to-use-adblockers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138110/unblocking-user-freedom-the-right-to-use-adblockers/">Save to Pocket</a>
+</span>
+
+---
+
+## State Restoration With NSSecureCoding on Sonoma
+
+date: 2023-12-21, from: Michael Tsai
+
+Milen Dzhumerov: AppKit state restoration behaviour changed on macOS 14 Sonoma in a subtle way that can lead to apps not restoring their state correctly. The change can lead to silent breakages which can be hard to debug.[&#8230;]Violations can now arise in any -restoreStateWithCoder: implementations, so they need to be audited.Check for any usages of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/21/state-restoration-with-nssecurecoding-on-sonoma/">https://mjtsai.com/blog/2023/12/21/state-restoration-with-nssecurecoding-on-sonoma/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/21/state-restoration-with-nssecurecoding-on-sonoma/">Save to Pocket</a>
+</span>
+
+---
+
+## How to Change a New iPhone Passcode If You Forget It
+
+date: 2023-12-21, from: Michael Tsai
+
+Tim Hardwick: In iOS 17 and iPadOS 17, it is now possible to reset an iPhone or iPad&#8217;s new passcode with the previous passcode you used for up to three days after the change is made. In other words, Apple lets you use your old passcode within 72 hours of setting a new one, which [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/21/how-to-change-a-new-iphone-passcode-if-you-forget-it/">https://mjtsai.com/blog/2023/12/21/how-to-change-a-new-iphone-passcode-if-you-forget-it/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/21/how-to-change-a-new-iphone-passcode-if-you-forget-it/">Save to Pocket</a>
+</span>
+
+---
+
+## Manual AutoFill in Safari
+
+date: 2023-12-21, from: Michael Tsai
+
+Dan Moren: In a very clever move, Apple has introduced essentially a manual mode for AutoFill. You&#8217;re no longer dependent on Safari recognizing that, yes, these are fields where you can put your address in. Instead, anywhere that you can enter text&#8212;and not just in Safari, but anywhere, in any app&#8212;bring up the contextual menu [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2023/12/21/manual-autofill-in-safari/">https://mjtsai.com/blog/2023/12/21/manual-autofill-in-safari/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/21/manual-autofill-in-safari/">Save to Pocket</a>
+</span>
+
+---
+
+##  Piano cover of MIA&#8217;s Paper Planes, complete with &#8220;live&#8221; cash register and... 
+
+date: 2023-12-21, updated: 2023-12-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043667-piano-cover-of-mias-paper">https://kottke.org/23/12/0043667-piano-cover-of-mias-paper</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043667-piano-cover-of-mias-paper">Save to Pocket</a>
+</span>
+
+---
+
+## Programming the SunFounder PiCar-X to be a Roomba
+
+date: 2023-12-21, from: Stephen Smith's blog
+
+Introduction Last time, I introduced SunFounder’s PiCar-X, a robot car controlled by a Raspberry Pi. The previous article covered assembly and initial setup. In this article, we’ll look at writing a simple program for the PiCar-X written in Python, namely to simulate a Roomba. Learning the Object Model There doesn’t seem to be a User [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://smist08.wordpress.com/2023/12/21/programming-the-sunfounder-picar-x-to-be-a-roomba/">https://smist08.wordpress.com/2023/12/21/programming-the-sunfounder-picar-x-to-be-a-roomba/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://smist08.wordpress.com/2023/12/21/programming-the-sunfounder-picar-x-to-be-a-roomba/">Save to Pocket</a>
+</span>
+
+---
+
+## Are social media and coordinated misinformation campaigns fomenting extremism?
+
+date: 2023-12-21, from: Gary Marcus blog
+
+Probably, yes.
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/are-social-media-and-coordinated">https://garymarcus.substack.com/p/are-social-media-and-coordinated</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/are-social-media-and-coordinated">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Astronauts Test SpaceX Elevator Concept for Artemis Lunar Lander
+
+date: 2023-12-21, from: NASA breaking news
+
+NASA astronauts Nicole Mann and Doug “Wheels” Wheelock participated in a recent test of a sub-scale mockup elevator for SpaceX’s Starship human landing system that will be used for NASA’s Artemis III and IV missions to the Moon. The Starship human landing system will carry two astronauts from the Orion spacecraft in lunar orbit to [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasa-astronauts-test-spacex-elevator-concept-for-artemis-lunar-lander/">https://www.nasa.gov/image-article/nasa-astronauts-test-spacex-elevator-concept-for-artemis-lunar-lander/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasa-astronauts-test-spacex-elevator-concept-for-artemis-lunar-lander/">Save to Pocket</a>
+</span>
+
+---
+
+##  Richard Scarry Cars and Trucks and Things That Go tote bag! 😍... 
+
+date: 2023-12-21, updated: 2023-12-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043666-richard-scarry-cars-and-t">https://kottke.org/23/12/0043666-richard-scarry-cars-and-t</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043666-richard-scarry-cars-and-t">Save to Pocket</a>
+</span>
+
+---
+
+## The robots will make us more human
+
+date: 2023-12-21, from: Nieman Journalism Lab
+
+I’m not in the utopian or the apocalyptic camp on AI. Artificial intelligence, like the internet, smartphones and other transformative technologies before it, will bring both beauty and horror into our world. We’ll just have to do our best to tip the balance. But we’re already seeing a predictable (and widely predicted) low-grade horror: greedy...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/the-robots-will-make-us-more-human/">https://www.niemanlab.org/2023/12/the-robots-will-make-us-more-human/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/the-robots-will-make-us-more-human/">Save to Pocket</a>
+</span>
+
+---
+
+## We’ll step up our defense of journalists in exile
+
+date: 2023-12-21, from: Nieman Journalism Lab
+
+2024 needs to be a year that our profession recognizes all journalism is local, including journalism in exile. As American journalism focuses on reviving local news, building connected ecosystems, and targeting infusions of philanthropic support, one of the biggest growth areas for journalism in the coming year is one that none of us would wish...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/well-step-up-our-defense-of-journalists-in-exile/">https://www.niemanlab.org/2023/12/well-step-up-our-defense-of-journalists-in-exile/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/well-step-up-our-defense-of-journalists-in-exile/">Save to Pocket</a>
+</span>
+
+---
+
+## Too many news orgs adopt right-wing frames about trans people
+
+date: 2023-12-21, from: Nieman Journalism Lab
+
+If 2023 is anything to go by, 2024 will see a continued wave of attacks on trans people, driven by politicians who believe they can weaponize our existence as a wedge issue to electoral success and victory in the “culture wars.” And if 2023 is anything to go by, I predict 2024 will continue to...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/too-many-news-orgs-adopt-right-wing-frames-about-trans-people/">https://www.niemanlab.org/2023/12/too-many-news-orgs-adopt-right-wing-frames-about-trans-people/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/too-many-news-orgs-adopt-right-wing-frames-about-trans-people/">Save to Pocket</a>
+</span>
+
+---
+
+## Rise of the news DJs
+
+date: 2023-12-21, from: Nieman Journalism Lab
+
+In 2024, the ascent of AI in news won’t lead to a Cambrian explosion of articles written by souped-up autofill algorithms. Instead, we’ll see the beginnings of ultra-segmented news presentations. This evolution will be driven by the genre-redefining changes in search engines we’re seeing today: AI summaries of query results that make clicking through to...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/rise-of-the-news-djs/">https://www.niemanlab.org/2023/12/rise-of-the-news-djs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/rise-of-the-news-djs/">Save to Pocket</a>
+</span>
+
+---
+
+## The cable news kayfabe is dead
+
+date: 2023-12-21, from: Nieman Journalism Lab
+
+There is a word I can’t stop thinking about recently, and once you hear it, you won’t be able to stop thinking about it either. That word is &#8220;kayfabe,&#8221; the carney term popularized by professional wrestlers to describe what is happening within the theatre of the absurd and fantastical world of good guys and bad...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/the-cable-news-kayfabe-is-dead/">https://www.niemanlab.org/2023/12/the-cable-news-kayfabe-is-dead/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/the-cable-news-kayfabe-is-dead/">Save to Pocket</a>
+</span>
+
+---
+
+## The future-of-journalism crowd stops ignoring local TV news
+
+date: 2023-12-21, from: Nieman Journalism Lab
+
+Take The Breakfast Club or Fast Times at Ridgemont High or High School Musical, or any other Hollywoodized version of high school. Now map this on as a metaphor for local news ecologies. Local TV journalists are the beautiful, popular people in this hierarchy — with local newspapers and local nonprofits some version of the...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/the-future-of-journalism-crowd-stops-ignoring-local-tv-news/">https://www.niemanlab.org/2023/12/the-future-of-journalism-crowd-stops-ignoring-local-tv-news/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/the-future-of-journalism-crowd-stops-ignoring-local-tv-news/">Save to Pocket</a>
+</span>
+
+---
+
+##  Just How Rich Were the McCallisters in &#8216;Home Alone&#8217;? A: They were... 
+
+date: 2023-12-21, updated: 2023-12-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043665-just-how-rich-were-the">https://kottke.org/23/12/0043665-just-how-rich-were-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043665-just-how-rich-were-the">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2023-12-21, from: Dave Winer's Scripting News)
+
+This is the time of year every day feels like Saturday.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/21.html#a190111">http://scripting.com/2023/12/21.html#a190111</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/21.html#a190111">Save to Pocket</a>
+</span>
+
+---
+
+##  The 50 best TV shows of 2023, including Silo, Deadloch, Reservation Dogs,... 
+
+date: 2023-12-21, updated: 2023-12-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/23/12/0043663-the-50-best-tv-shows">https://kottke.org/23/12/0043663-the-50-best-tv-shows</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043663-the-50-best-tv-shows">Save to Pocket</a>
+</span>
+
+---
+
+## Finding Salvation in Newark
+
+date: 2023-12-21, updated: 2023-12-21, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2023/12/21/finding-salvation-in-newark/">https://onefoottsunami.com/2023/12/21/finding-salvation-in-newark/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2023/12/21/finding-salvation-in-newark/">Save to Pocket</a>
+</span>
+
+---
+
+## If FeedLand were from Disney
+
+date: 2023-12-21, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2023/12/21/feedLandFromDisneyOoooops.png"></center>A beautiful and weird visualization of FeedLand.</div></p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2023/12/21/183330.html?title=ifFeedlandWereFromDisney">http://scripting.com/2023/12/21/183330.html?title=ifFeedlandWereFromDisney</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2023/12/21/183330.html?title=ifFeedlandWereFromDisney">Save to Pocket</a>
+</span>
 
 ---
 
@@ -25,14 +735,14 @@ date: 2023-12-21, updated: 2023-12-21, from: Jason Kottke blog
 
 date: 2023-12-21, from: Dave Winer's Scripting News
 
-<p>People who don't program must not have any idea how much of a boon it is to us programmers. </p>
-<p>I am doing CSS coding far in advance of my previous capability, when I know something is possible, but I haven't the slightest idea how to specify it. </p>
-<p>For example, a very common thing to want to do is to put a : after every the text in the first column of a table. </p>
-<p>So I asked ChatGPT how to do it, in English, exactly as I did above. This is what it came up with:</p>
+<p>People who don't program must not have any idea how much of a boon ChatGPT is to us programmers. </p>
+<p>I am doing <a href="https://www.w3schools.com/css/">CSS</a> coding far in advance of my previous capability. When I know something is possible, but I haven't the slightest idea how to specify it, I just ask, in my own words. </p>
+<p>For example, a very common thing to want to do is to put a : after the text in the first column every row of a table. </p>
+<p>So I <a href="https://chat.openai.com/share/b19c1c8d-3e19-4039-86aa-803eb7cf46d6">asked ChatGPT</a> how to do it, in English, as I did above. This is what it came up with:</p>
 <ul>
 <li><code>tr td:first-child::after {content: ":";}</code></li>
 </ul>
-<p>When you see it like that you can almost figure out what's going on. </p>
+<p>When you see it like that you can almost figure out what's going on if you squint and close one eye. </p>
 <p>And it works. I literally shrieked when it did. </p>
 <p>Now I am the boss of CSS.. </p>
 <p>Nice.</p>
@@ -80,30 +790,6 @@ Teachers and students in remote Alaskan villages have become vital NASA climate 
 
 ---
 
-## The robots will make us more human
-
-date: 2023-12-21, from: Nieman Journalism Lab
-
-I’m not in the utopian or the apocalyptic camp on AI. Artificial intelligence, like the internet, smartphones and other transformative technologies before it, will bring both beauty and horror into our world. We’ll just have to do our best to tip the balance. But we’re already seeing a predictable (and widely predicted) low-grade horror: greedy...
-
-<span class="feed-item-link">
-<a href="https://www.niemanlab.org/2023/12/the-robots-will-make-us-more-human/">https://www.niemanlab.org/2023/12/the-robots-will-make-us-more-human/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/the-robots-will-make-us-more-human/">Save to Pocket</a>
-</span>
-
----
-
-## We’ll step up our defense of journalists in exile
-
-date: 2023-12-21, from: Nieman Journalism Lab
-
-2024 needs to be a year that our profession recognizes all journalism is local, including journalism in exile. As American journalism focuses on reviving local news, building connected ecosystems, and targeting infusions of philanthropic support, one of the biggest growth areas for journalism in the coming year is one that none of us would wish...
-
-<span class="feed-item-link">
-<a href="https://www.niemanlab.org/2023/12/well-step-up-our-defense-of-journalists-in-exile/">https://www.niemanlab.org/2023/12/well-step-up-our-defense-of-journalists-in-exile/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/well-step-up-our-defense-of-journalists-in-exile/">Save to Pocket</a>
-</span>
-
----
-
 ## Investigative reporting will experiment with new forms
 
 date: 2023-12-21, from: Nieman Journalism Lab
@@ -116,14 +802,14 @@ The Reuters Institute for the Study of Journalism found recently that more peopl
 
 ---
 
-## Journalists will look for answers outside the news industry
+## Experts — not influencers — will cover more Black news
 
 date: 2023-12-21, from: Nieman Journalism Lab
 
-For years, the word innovation has been used so loosely within news circles that it prompts the question, “Have we really tried to be as innovative as we could be?” I&#8217;m talking about innovation in not just the tech or AI or financial areas, but also innovation in how newsrooms approach topics and storytelling. I...
+Tory Lanez shot Megan thee Stallion. That is a fact. He was found guilty of this crime and is serving a ten-year sentence in California. That is also a fact. But the road to this verdict and the unveiling of these facts was filled with misinformation and misogynoir from media bloggers who’ve cosplayed as journalists...
 
 <span class="feed-item-link">
-<a href="https://www.niemanlab.org/2023/12/journalists-will-look-for-answers-outside-the-news-industry/">https://www.niemanlab.org/2023/12/journalists-will-look-for-answers-outside-the-news-industry/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/journalists-will-look-for-answers-outside-the-news-industry/">Save to Pocket</a>
+<a href="https://www.niemanlab.org/2023/12/experts-not-influencers-will-cover-more-black-news/">https://www.niemanlab.org/2023/12/experts-not-influencers-will-cover-more-black-news/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/experts-not-influencers-will-cover-more-black-news/">Save to Pocket</a>
 </span>
 
 ---
@@ -140,14 +826,38 @@ News fatigue is real. There&#8217;s pressure to integrate emerging technologies,
 
 ---
 
-## Some news orgs burnish their brands by giving AI the cold shoulder
+## Journalists will look for answers outside the news industry
 
 date: 2023-12-21, from: Nieman Journalism Lab
 
-You know things are getting weird when people’s grandparents are playing with technology that over half the population thinks is bad news and many think is the beginning of the end of humanity. Not Facebook. ChatGPT. But is generative AI bad news for&#8230;the news? It feels too frothy of a tech sector to tell yet....
+For years, the word innovation has been used so loosely within news circles that it prompts the question, “Have we really tried to be as innovative as we could be?” I&#8217;m talking about innovation in not just the tech or AI or financial areas, but also innovation in how newsrooms approach topics and storytelling. I...
 
 <span class="feed-item-link">
-<a href="https://www.niemanlab.org/2023/12/some-news-orgs-burnish-their-brands-by-giving-ai-the-cold-shoulder/">https://www.niemanlab.org/2023/12/some-news-orgs-burnish-their-brands-by-giving-ai-the-cold-shoulder/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/some-news-orgs-burnish-their-brands-by-giving-ai-the-cold-shoulder/">Save to Pocket</a>
+<a href="https://www.niemanlab.org/2023/12/journalists-will-look-for-answers-outside-the-news-industry/">https://www.niemanlab.org/2023/12/journalists-will-look-for-answers-outside-the-news-industry/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/journalists-will-look-for-answers-outside-the-news-industry/">Save to Pocket</a>
+</span>
+
+---
+
+## Journalism investment comes to Los Angeles
+
+date: 2023-12-21, from: Nieman Journalism Lab
+
+There are almost 10 million people in Los Angeles County — the most populous county in the United States. But unlike in other major metro areas of the U.S., a serious investment in local news from funders and policymakers has yet to materialize in L.A. The next decade in Los Angeles needs not only more...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/journalism-investment-comes-to-los-angeles/">https://www.niemanlab.org/2023/12/journalism-investment-comes-to-los-angeles/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/journalism-investment-comes-to-los-angeles/">Save to Pocket</a>
+</span>
+
+---
+
+## News organizations will support product leadership
+
+date: 2023-12-21, from: Nieman Journalism Lab
+
+News product management is no longer niche. Over the past three years, organizations of all sizes have adopted methodologies from the tech industry by establishing product roles and teams, and the News Product Alliance’s community has grown to more than 3,000 members. By participating in training courses and engaging with a like-minded community of change...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/news-organizations-will-support-product-leadership/">https://www.niemanlab.org/2023/12/news-organizations-will-support-product-leadership/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/news-organizations-will-support-product-leadership/">Save to Pocket</a>
 </span>
 
 ---
@@ -164,18 +874,6 @@ Local philanthropists and news leaders have pioneered a concept known as the Com
 
 ---
 
-## We’ll understand — and deliver — our unique value
-
-date: 2023-12-21, from: Nieman Journalism Lab
-
-The landscape for news companies gets more complicated by the minute. Readers are still news- and subscription-fatigued. Millions of social and search referrals have evaporated due to strategic changes at the platforms. The ad market has just been through one of its cyclical downswings. The specter of AI is looming at the gate. And yet&#8230;the...
-
-<span class="feed-item-link">
-<a href="https://www.niemanlab.org/2023/12/well-understand-and-deliver-our-unique-value/">https://www.niemanlab.org/2023/12/well-understand-and-deliver-our-unique-value/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/well-understand-and-deliver-our-unique-value/">Save to Pocket</a>
-</span>
-
----
-
 ## User-centric editorial models embrace empathy and scale
 
 date: 2023-12-21, from: Nieman Journalism Lab
@@ -184,6 +882,54 @@ The generalist times in the media are over. Differentiation is the name of the g
 
 <span class="feed-item-link">
 <a href="https://www.niemanlab.org/2023/12/user-centric-editorial-models-embrace-empathy-and-scale/">https://www.niemanlab.org/2023/12/user-centric-editorial-models-embrace-empathy-and-scale/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/user-centric-editorial-models-embrace-empathy-and-scale/">Save to Pocket</a>
+</span>
+
+---
+
+## Everyone gets an AI agent
+
+date: 2023-12-21, from: Nieman Journalism Lab
+
+In the near future, every content consumer, creator, and newsroom will have an AI agent that works for them. This will change the way we find and interact with information, and therefore how we publish and monetize it. An agent is a software program that acts on behalf of a person or a party. The...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/everyone-gets-an-ai-agent/">https://www.niemanlab.org/2023/12/everyone-gets-an-ai-agent/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/everyone-gets-an-ai-agent/">Save to Pocket</a>
+</span>
+
+---
+
+## The obsession with “trust” will end
+
+date: 2023-12-21, from: Nieman Journalism Lab
+
+My prediction for 2024 is that journalists will realize that &#8220;trust&#8221; is a useless metric of their work. Okay, I&#8217;m kidding. I have no expectation that the news media will cease its pointless obsession with trust surveys. It’s not only a distraction but actually harmful. As Nobel Prize winner Maria Ressa has pointed out, authoritarian...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/the-obsession-with-trust-will-end/">https://www.niemanlab.org/2023/12/the-obsession-with-trust-will-end/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/the-obsession-with-trust-will-end/">Save to Pocket</a>
+</span>
+
+---
+
+## Channels change the publishing game on WhatsApp
+
+date: 2023-12-21, from: Nieman Journalism Lab
+
+When I started thinking about WhatsApp strategy for publishers years ago, communication on the platform was largely limited to groups of 256 participants. A handful of services allowed users to send messages to larger groups, but they operated in gray areas of the platform&#8217;s T&#38;Cs — until they didn&#8217;t. WhatsApp Channels, which can be used...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/channels-change-the-publishing-game-on-whatsapp/">https://www.niemanlab.org/2023/12/channels-change-the-publishing-game-on-whatsapp/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/channels-change-the-publishing-game-on-whatsapp/">Save to Pocket</a>
+</span>
+
+---
+
+## We’ll move beyond “en Español” to reach Hispanic and Latino audiences
+
+date: 2023-12-21, from: Nieman Journalism Lab
+
+In 2024, Hispanic and Latino audiences will play a crucial role in shaping a new business strategy in U.S. media. The opportunity is here because of the continued growth in population and economic power in the sector, their potential impact on the upcoming presidential election, and the promise that digital tools like generative AI present...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/well-move-beyond-en-espanol-to-reach-hispanic-and-latino-audiences/">https://www.niemanlab.org/2023/12/well-move-beyond-en-espanol-to-reach-hispanic-and-latino-audiences/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/well-move-beyond-en-espanol-to-reach-hispanic-and-latino-audiences/">Save to Pocket</a>
 </span>
 
 ---
@@ -224,6 +970,18 @@ A first-generation student from North Carolina will return to school in January 
 
 ---
 
+## Run a Node project with Deno and win prizes in the #NodeToDenoChallenge
+
+date: 2023-12-21, updated: 2023-12-21, from: Deno blog
+
+We've made a ton of improvements to our Node and npm compatibility this past year. Here's a chance for you to experience those improvements and win some prizes.
+
+<span class="feed-item-link">
+<a href="https://deno.com/blog/node-to-deno-challenge">https://deno.com/blog/node-to-deno-challenge</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://deno.com/blog/node-to-deno-challenge">Save to Pocket</a>
+</span>
+
+---
+
 ##  The Best Film Scores & Soundtracks of 2023, including those for The... 
 
 date: 2023-12-21, updated: 2023-12-21, from: Jason Kottke blog
@@ -232,18 +990,6 @@ date: 2023-12-21, updated: 2023-12-21, from: Jason Kottke blog
 
 <span class="feed-item-link">
 <a href="https://kottke.org/23/12/0043662-the-best-film-scores">https://kottke.org/23/12/0043662-the-best-film-scores</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/23/12/0043662-the-best-film-scores">Save to Pocket</a>
-</span>
-
----
-
-## News organizations will support product leadership
-
-date: 2023-12-21, from: Nieman Journalism Lab
-
-News product management is no longer niche. Over the past three years, organizations of all sizes have adopted methodologies from the tech industry by establishing product roles and teams, and the News Product Alliance’s community has grown to more than 3,000 members. By participating in training courses and engaging with a like-minded community of change...
-
-<span class="feed-item-link">
-<a href="https://www.niemanlab.org/2023/12/news-organizations-will-support-product-leadership/">https://www.niemanlab.org/2023/12/news-organizations-will-support-product-leadership/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/news-organizations-will-support-product-leadership/">Save to Pocket</a>
 </span>
 
 ---
@@ -357,6 +1103,20 @@ date: 2023-12-21, from: Raspberry Pi (.org)
 
 <span class="feed-item-link">
 <a href="https://www.raspberrypi.org/blog/coolest-projects-creators-young-v-a-london/">https://www.raspberrypi.org/blog/coolest-projects-creators-young-v-a-london/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.org/blog/coolest-projects-creators-young-v-a-london/">Save to Pocket</a>
+</span>
+
+---
+
+## Catalog Drops for December 2023
+
+date: 2023-12-21, from: Playdate Blog
+
+Here&rsquo;s a roundup of December&rsquo;s new games in Catalog. That wraps up our year, and boy is there a lot to download and play:
+  🧙‍♂️ Under the Castle, a classic rogue game where you&rsquo;ll explore dungeons, gather Orbs of Light, and rescue enslaved villagers—with the power of your hat. Gorgeous art and ultra-satisfying gameplay. Made by Dani Diez, ZCorbs, VolcanoBytes.
+  🏎️ F-Out, a futuristic racing video game, with your spaceship racing at dizzying speeds, tight turns, and dangerous obstacles.
+
+<span class="feed-item-link">
+<a href="https://news.play.date/news/catalog-drops-dec-2023/">https://news.play.date/news/catalog-drops-dec-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://news.play.date/news/catalog-drops-dec-2023/">Save to Pocket</a>
 </span>
 
 ---
@@ -601,6 +1361,18 @@ keys will appear but not meet FIPS requirement) for RHEL 9, 8 and 7 (and their d
 
 ---
 
+## A New Look for Bluesky: The Social Butterfly
+
+date: 2023-12-21, from: Bluesky web news
+
+A new look for Bluesky — the social butterfly — and a public web interface.
+
+<span class="feed-item-link">
+<a href="https://blueskyweb.xyz/blog/12-21-2023-butterfly">https://blueskyweb.xyz/blog/12-21-2023-butterfly</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blueskyweb.xyz/blog/12-21-2023-butterfly">Save to Pocket</a>
+</span>
+
+---
+
 ## NASA Leadership Participates in Vice President-Chaired National Space Council Meeting
 
 date: 2023-12-20, from: NASA breaking news
@@ -721,18 +1493,6 @@ As many of you know, I&#8217;m an old geezer working on a CS PhD at Stanford and
 
 ---
 
-## Everyone gets an AI agent
-
-date: 2023-12-20, from: Nieman Journalism Lab
-
-In the near future, every content consumer, creator, and newsroom will have an AI agent that works for them. This will change the way we find and interact with information, and therefore how we publish and monetize it. An agent is a software program that acts on behalf of a person or a party. The...
-
-<span class="feed-item-link">
-<a href="https://www.niemanlab.org/2023/12/everyone-gets-an-ai-agent/">https://www.niemanlab.org/2023/12/everyone-gets-an-ai-agent/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/everyone-gets-an-ai-agent/">Save to Pocket</a>
-</span>
-
----
-
 ## We’ll build open systems to improve and monetize news
 
 date: 2023-12-20, from: Nieman Journalism Lab
@@ -829,6 +1589,18 @@ date: 2023-12-20, updated: 2023-12-20, from: Jason Kottke blog
 
 ---
 
+## We’ll understand — and deliver — our unique value
+
+date: 2023-12-20, from: Nieman Journalism Lab
+
+The landscape for news companies gets more complicated by the minute. Readers are still news- and subscription-fatigued. Millions of social and search referrals have evaporated due to strategic changes at the platforms. The ad market has just been through one of its cyclical downswings. The specter of AI is looming at the gate. And yet&#8230;the...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/well-understand-and-deliver-our-unique-value/">https://www.niemanlab.org/2023/12/well-understand-and-deliver-our-unique-value/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/well-understand-and-deliver-our-unique-value/">Save to Pocket</a>
+</span>
+
+---
+
 ## Defend Earth from the Chronites in TIMERUN from AMCOG Games
 
 date: 2023-12-20, from: RiscOS Story
@@ -897,6 +1669,18 @@ The cosmos comes alive in an all-sky time-lapse movie made from 14 years of data
 
 <span class="feed-item-link">
 <a href="https://science.nasa.gov/centers-and-facilities/goddard/nasas-fermi-mission-creates-14-year-time-lapse-of-the-gamma-ray-sky/">https://science.nasa.gov/centers-and-facilities/goddard/nasas-fermi-mission-creates-14-year-time-lapse-of-the-gamma-ray-sky/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/centers-and-facilities/goddard/nasas-fermi-mission-creates-14-year-time-lapse-of-the-gamma-ray-sky/">Save to Pocket</a>
+</span>
+
+---
+
+## Some news orgs burnish their brands by giving AI the cold shoulder
+
+date: 2023-12-20, from: Nieman Journalism Lab
+
+You know things are getting weird when people’s grandparents are playing with technology that over half the population thinks is bad news and many think is the beginning of the end of humanity. Not Facebook. ChatGPT. But is generative AI bad news for&#8230;the news? It feels too frothy of a tech sector to tell yet....
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2023/12/some-news-orgs-burnish-their-brands-by-giving-ai-the-cold-shoulder/">https://www.niemanlab.org/2023/12/some-news-orgs-burnish-their-brands-by-giving-ai-the-cold-shoulder/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/some-news-orgs-burnish-their-brands-by-giving-ai-the-cold-shoulder/">Save to Pocket</a>
 </span>
 
 ---
@@ -1081,18 +1865,6 @@ When I look toward 2024 through the prism of diversity, I see two futures in jou
 
 ---
 
-## The obsession with “trust” will end
-
-date: 2023-12-20, from: Nieman Journalism Lab
-
-My prediction for 2024 is that journalists will realize that &#8220;trust&#8221; is a useless metric of their work. Okay, I&#8217;m kidding. I have no expectation that the news media will cease its pointless obsession with trust surveys. It’s not only a distraction but actually harmful. As Nobel Prize winner Maria Ressa has pointed out, authoritarian...
-
-<span class="feed-item-link">
-<a href="https://www.niemanlab.org/2023/12/the-obsession-with-trust-will-end/">https://www.niemanlab.org/2023/12/the-obsession-with-trust-will-end/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/the-obsession-with-trust-will-end/">Save to Pocket</a>
-</span>
-
----
-
 ## Mental health efforts become a globally connected movement
 
 date: 2023-12-20, from: Nieman Journalism Lab
@@ -1101,18 +1873,6 @@ The mental health of journalists has been steadily deteriorating since the pande
 
 <span class="feed-item-link">
 <a href="https://www.niemanlab.org/2023/12/mental-health-efforts-become-a-globally-connected-movement/">https://www.niemanlab.org/2023/12/mental-health-efforts-become-a-globally-connected-movement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/mental-health-efforts-become-a-globally-connected-movement/">Save to Pocket</a>
-</span>
-
----
-
-## Journalism investment comes to Los Angeles
-
-date: 2023-12-20, from: Nieman Journalism Lab
-
-There are almost 10 million people in Los Angeles County — the most populous county in the United States. But unlike in other major metro areas of the U.S., a serious investment in local news from funders and policymakers has yet to materialize in L.A. The next decade in Los Angeles needs not only more...
-
-<span class="feed-item-link">
-<a href="https://www.niemanlab.org/2023/12/journalism-investment-comes-to-los-angeles/">https://www.niemanlab.org/2023/12/journalism-investment-comes-to-los-angeles/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/journalism-investment-comes-to-los-angeles/">Save to Pocket</a>
 </span>
 
 ---
@@ -2480,7 +3240,7 @@ date: 2023-12-19, updated: 2023-12-19, from: Jason Kottke blog
 
 date: 2023-12-19, from: Michael Tsai
 
-Juli Clover (release notes, security, developer, full installer, IPSW): According to Apple's release notes, macOS Sonoma 14.2.1 includes bug fixes and a security update. macOS 14.2.1 fixes a screen sharing vulnerability that could cause a user to unintentionally share the incorrect content. See also: Mr. Macintosh and Howard Oakley. Previously: macOS 14.2
+Juli Clover (release notes, security, developer, full installer, IPSW): According to Apple's release notes, macOS Sonoma 14.2.1 includes bug fixes and a security update. macOS 14.2.1 fixes a screen sharing vulnerability that could cause a user to unintentionally share the incorrect content. See also: Mr. Macintosh and Howard Oakley. Previously: macOS 14.2 Update (2023-12-21): Howard [&#8230;]
 
 <span class="feed-item-link">
 <a href="https://mjtsai.com/blog/2023/12/19/macos-14-2-1/">https://mjtsai.com/blog/2023/12/19/macos-14-2-1/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2023/12/19/macos-14-2-1/">Save to Pocket</a>
@@ -2603,30 +3363,6 @@ date: 2023-12-19, from: Nieman Journalism Lab
 
 <span class="feed-item-link">
 <a href="https://www.niemanlab.org/2023/12/this-time-journalists-will-stand-up-to-trump-no-really/">https://www.niemanlab.org/2023/12/this-time-journalists-will-stand-up-to-trump-no-really/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/this-time-journalists-will-stand-up-to-trump-no-really/">Save to Pocket</a>
-</span>
-
----
-
-## Channels change the publishing game on WhatsApp
-
-date: 2023-12-19, from: Nieman Journalism Lab
-
-When I started thinking about WhatsApp strategy for publishers years ago, communication on the platform was largely limited to groups of 256 participants. A handful of services allowed users to send messages to larger groups, but they operated in gray areas of the platform&#8217;s T&#38;Cs — until they didn&#8217;t. WhatsApp Channels, which can be used...
-
-<span class="feed-item-link">
-<a href="https://www.niemanlab.org/2023/12/channels-change-the-publishing-game-on-whatsapp/">https://www.niemanlab.org/2023/12/channels-change-the-publishing-game-on-whatsapp/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/channels-change-the-publishing-game-on-whatsapp/">Save to Pocket</a>
-</span>
-
----
-
-## We’ll move beyond “en Español” to reach Hispanic and Latino audiences
-
-date: 2023-12-19, from: Nieman Journalism Lab
-
-In 2024, Hispanic and Latino audiences will play a crucial role in shaping a new business strategy in U.S. media. The opportunity is here because of the continued growth in population and economic power in the sector, their potential impact on the upcoming presidential election, and the promise that digital tools like generative AI present...
-
-<span class="feed-item-link">
-<a href="https://www.niemanlab.org/2023/12/well-move-beyond-en-espanol-to-reach-hispanic-and-latino-audiences/">https://www.niemanlab.org/2023/12/well-move-beyond-en-espanol-to-reach-hispanic-and-latino-audiences/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2023/12/well-move-beyond-en-espanol-to-reach-hispanic-and-latino-audiences/">Save to Pocket</a>
 </span>
 
 ---
