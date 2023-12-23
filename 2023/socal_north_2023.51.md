@@ -1,11 +1,23 @@
 ---
 title: socal north 2023.51
-updated: 2023-12-22 11:52:50
+updated: 2023-12-23 12:03:39
 ---
 
 # socal north 2023.51
 
-(date: 2023-12-22 11:52:50)
+(date: 2023-12-23 12:03:39)
+
+---
+
+## LA Animal Services Is On A Mission To Place Thousands of Animals Into Homes This Holiday Season
+
+date: 2023-12-22, updated: 2023-12-22, from: The LAist
+
+The department is working to get 3,000 animals adopted, fostered, and reunited with families by the end of January.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/la-animal-services-is-on-a-mission-to-place-thousands-of-animals-into-homes-this-holiday-season">https://laist.com/news/la-animal-services-is-on-a-mission-to-place-thousands-of-animals-into-homes-this-holiday-season</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/la-animal-services-is-on-a-mission-to-place-thousands-of-animals-into-homes-this-holiday-season">Save to Pocket</a>
+</span>
 
 ---
 

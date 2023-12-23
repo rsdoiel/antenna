@@ -1,6 +1,7 @@
 #
 # Tech-like, things I read, mostly involving tech that are not specific to the other columns
 #
+https://bsky.app/profile/did:plc:nbdlhw2imk2m2yqhwxb5ycgy/rss "~Robert's feed at BlueSky" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://timwright.org/blog/feed/ "~Tim Wright's blog (met at USC)"  curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://feeds.feedburner.com/NiemanJournalismLab "~Nieman Journalism Lab"
 https://www.postgresql.org/news.rss "~PostgreSQL News"

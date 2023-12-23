@@ -21,7 +21,7 @@ https://www.forumsec.org/feed/ "~Pacific Island Forum" curl/8.5.0 (rsdoiel@gmail
 #
 # guampdn.com: getting errors, to many requests, 2023-10-16
 #https://www.guampdn.com/search/?f=rss&amp;t=article&l=10&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # even after adding the agent string retrieving the feed is not reliable, 2023-12-15
-https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+#https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # feed is dropped, not reliable, 2023-12-23
 # pacificialndtimes.com: getting errors, too many requests, 2023-10-16
 https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 # Northern Marianas Papers

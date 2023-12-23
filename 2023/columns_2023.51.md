@@ -1,11 +1,51 @@
 ---
 title: columns 2023.51
-updated: 2023-12-22 11:52:51
+updated: 2023-12-23 12:03:39
 ---
 
 # columns 2023.51
 
-(date: 2023-12-22 11:52:51)
+(date: 2023-12-23 12:03:39)
+
+---
+
+## Friday Squid Blogging: Squid Parts into Fertilizer
+
+date: 2023-12-22, updated: 2023-12-08, from: Bruce Schneier blog
+
+<p>It&#8217;s squid parts from <a href="https://www.eckerd.edu/news/blog/squid-fertilizer-college-farm/">college dissections</a>, so it&#8217;s not a volume operation.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p>Read my blog posting guidelines <a href="https://www.schneier.com/blog/archives/2017/03/commenting_poli.html">here</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2023/12/friday-squid-blogging-squid-parts-into-fertilizer.html">https://www.schneier.com/blog/archives/2023/12/friday-squid-blogging-squid-parts-into-fertilizer.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2023/12/friday-squid-blogging-squid-parts-into-fertilizer.html">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Watch Series 9 and Ultra 2 No Longer Available From U.S. Online Store
+
+date: 2023-12-22, updated: 2023-12-22, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.macrumors.com/2023/12/21/apple-watch-removed-from-online-store/">https://www.macrumors.com/2023/12/21/apple-watch-removed-from-online-store/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.macrumors.com/2023/12/21/apple-watch-removed-from-online-store/">Save to Pocket</a>
+</span>
+
+---
+
+## Ben Rothke’s Review of A Hacker’s Mind
+
+date: 2023-12-22, updated: 2023-12-20, from: Bruce Schneier blog
+
+<p>Ben Rothke <a href="https://brothke.medium.com/the-best-information-security-books-of-2023-4e8e43155e4d">chose</a> <a href="https://www.schneier.com/books/a-hackers-mind/"><i>A Hacker&#8217;s Mind</a></i></a> as &#8220;the best information security book of 2023.&#8221;</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2023/12/ben-rothkes-review-of-a-hackers-mind.html">https://www.schneier.com/blog/archives/2023/12/ben-rothkes-review-of-a-hackers-mind.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2023/12/ben-rothkes-review-of-a-hackers-mind.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -49,7 +89,7 @@ It&#8217;s time to banish the absurd idea that people are paid what they&#8217;r
 
 ---
 
-## Apple’s Infinite Loop Store Is Closing Next Month
+## Apple’s Infinite Loop Company Store Is Closing Next Month
 
 date: 2023-12-22, updated: 2023-12-22, from: Daring Fireball
 

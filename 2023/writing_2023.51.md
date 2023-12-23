@@ -1,11 +1,31 @@
 ---
 title: writing 2023.51
-updated: 2023-12-22 11:52:51
+updated: 2023-12-23 12:03:39
 ---
 
 # writing 2023.51
 
-(date: 2023-12-22 11:52:51)
+(date: 2023-12-23 12:03:39)
+
+---
+
+## 2023 Chesley Awards Finalists
+
+date: 2023-12-22, from: Locus Magazine
+
+<p>The 2023 Chesley Awards nominees have been announced.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Hardback Illustration</strong></p>
+<ul>
+<li>Marcela Bolívar for <strong>Blackwater</strong> by Michael McDowell (Suntup Editions)</li>
+<li>Donato Giancola for <strong>The Dragonborne Chair</strong> by Tad Williams (Grim Oak Press)</li>
+<li>Manzi Jackson for <strong>Africa Risen</strong> by Sheree Renée Thomas, Oghenechovwe Donald Ekpeki &#38; Zelda Knight, eds. (Tor)</li>
+<li>Tran Nguyen for <strong>The Dragon’s Promise</strong> by Elizabeth Lim (Knopf Books for Young Readers)</li>
+<li>John Picacio for <strong>Fevered Star</strong> by Rebecca </li></ul></div> <a href="https://locusmag.com/2023/12/2023-chesley-awards-finalists/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2023/12/2023-chesley-awards-finalists/">https://locusmag.com/2023/12/2023-chesley-awards-finalists/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/2023-chesley-awards-finalists/">Save to Pocket</a>
+</span>
 
 ---
 

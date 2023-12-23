@@ -1,11 +1,62 @@
 ---
 title: pacific 2023.51
-updated: 2023-12-22 11:52:50
+updated: 2023-12-23 12:03:39
 ---
 
 # pacific 2023.51
 
-(date: 2023-12-22 11:52:50)
+(date: 2023-12-23 12:03:39)
+
+---
+
+## Hawai'i grounds Portland to open Diamond Head Classic: 69-56
+
+date: 2023-12-22, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+At the end of the first day of the Hawaiian Airlines Diamond Head Classic, the Rainbow Warriors opened up their play with a victory in the opening rounds of the tournament over the Portland Pilots, 69-56.
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/hawaii-grounds-portland-to-open-diamond-head-classic-69-56/article_e8df2332-a105-11ee-a124-f3dbbd54f61a.html">https://www.manoanow.org/kaleo/hawaii-grounds-portland-to-open-diamond-head-classic-69-56/article_e8df2332-a105-11ee-a124-f3dbbd54f61a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/hawaii-grounds-portland-to-open-diamond-head-classic-69-56/article_e8df2332-a105-11ee-a124-f3dbbd54f61a.html">Save to Pocket</a>
+</span>
+
+---
+
+## UH Mānoa launches Maui wildfire health study, invites participants to join
+
+date: 2023-12-22, from: University of Hawaiʻi News
+
+<p>The longitudinal study will help researchers to analyze the health effects of the wildfire in both the short- and long term.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/22/maui-wildfire-health-study/"><abbr>UH</abbr> Mānoa launches Maui wildfire health study, invites participants to join</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/22/maui-wildfire-health-study/">https://www.hawaii.edu/news/2023/12/22/maui-wildfire-health-study/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/22/maui-wildfire-health-study/">Save to Pocket</a>
+</span>
+
+---
+
+## From Tokyo to Hawaiʻi, Kapiʻolani CC commencement speaker has a new dream
+
+date: 2023-12-22, from: University of Hawaiʻi News
+
+<p>Japanese graduate credits &#8220;community&#8221; at <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr></p>
+The post <a href="https://www.hawaii.edu/news/2023/12/22/kapiolani-cc-toyko-to-hawaii-speaker/">From Tokyo to Hawaiʻi, Kapiʻolani <abbr>CC</abbr> commencement speaker has a new dream</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/22/kapiolani-cc-toyko-to-hawaii-speaker/">https://www.hawaii.edu/news/2023/12/22/kapiolani-cc-toyko-to-hawaii-speaker/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/22/kapiolani-cc-toyko-to-hawaii-speaker/">Save to Pocket</a>
+</span>
+
+---
+
+## UH football signs 14 in early signing
+
+date: 2023-12-22, from: University of Hawaiʻi News
+
+<p>The early signing class  includes eight offensive and six defensive players, with seven recruits from <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2023/12/22/uh-football-14-in-early-signing/"><abbr>UH</abbr> football signs 14 in early signing</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2023/12/22/uh-football-14-in-early-signing/">https://www.hawaii.edu/news/2023/12/22/uh-football-14-in-early-signing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2023/12/22/uh-football-14-in-early-signing/">Save to Pocket</a>
+</span>
 
 ---
 
