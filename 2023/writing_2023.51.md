@@ -1,11 +1,11 @@
 ---
 title: writing 2023.51
-updated: 2023-12-24 11:31:39
+updated: 2023-12-24 13:10:29
 ---
 
 # writing 2023.51
 
-(date: 2023-12-24 11:31:39)
+(date: 2023-12-24 13:10:29)
 
 ---
 
@@ -18,6 +18,26 @@ date: 2023-12-24, from: Locus Magazine
 
 <span class="feed-item-link">
 <a href="https://locusmag.com/2023/12/ai-news/">https://locusmag.com/2023/12/ai-news/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2023/12/ai-news/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2023-12-24, from: Neil Gaiman @ BlueSky)
+
+When I write comics I always ask the artist what they like to draw and what (more importantly) they don't like to draw. And then i do my best. But the story may have its own ideas.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3khcik2lhau26">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3khcik2lhau26</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3khcik2lhau26">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2023-12-24, from: Neil Gaiman @ BlueSky)
+
+Fascinating article. (But "sister-and-law"?)
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3khcgewb4cq22">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3khcgewb4cq22</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3khcgewb4cq22">Save to Pocket</a>
 </span>
 
 ---
