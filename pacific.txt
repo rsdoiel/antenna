@@ -60,7 +60,7 @@ https://www.pbshawaii.org/programs/insights-on-pbs-hawaii/feed/ "~INSIGHTS ON PB
 https://www.hawaii.edu/news/feed/ "~University of Hawaiʻi News"
 https://www.manoanow.org/search/?f=rss&t=article&c=kaleo&l=50&s=start_time&sd=desc "~Ka Leo O Hawaiʻi (UH Manoa student newspaper)"
 #https://thesilversword.com/feed/ "~Chaminade Silversword (Chaminade Univ. student newspaper)" Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
-#https://thesilversword.com/category/news/feed/ "~Chaminade Silversword (Chaminade Univ. student newspaper)" Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+https://thesilversword.com/category/news/feed/ "~Chaminade Silversword (Chaminade Univ. student newspaper)" Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://hawaiipacificreview.org/feed/ "~Hawai'i Pacific Review (HPU Literary Magazine)"
 
 

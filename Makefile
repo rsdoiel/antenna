@@ -35,7 +35,7 @@ harvest: *.skim
 *.skim: *.txt
 
 *.txt: .FORCE
-	skimmer $@
+	-skimmer $@
 
 #
 # Helper rules to retrieve and debug specific feed lists

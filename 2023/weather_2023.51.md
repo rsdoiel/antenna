@@ -1,19 +1,19 @@
 ---
 title: weather 2023.51
-updated: 2023-12-24 13:54:41
+updated: 2023-12-24 14:00:48
 ---
 
 # weather 2023.51
 
-(date: 2023-12-24 13:54:41)
+(date: 2023-12-24 14:00:48)
 
 ---
 
-## SPC - No watches are valid as of Sun Dec 24 17:35:02 UTC 2023
+## SPC - No watches are valid as of Sun Dec 24 21:57:02 UTC 2023
 
 date: 2023-12-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Sun Dec 24 17:35:02 UTC 2023.
+No watches are valid as of Sun Dec 24 21:57:02 UTC 2023.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
@@ -21,14 +21,72 @@ No watches are valid as of Sun Dec 24 17:35:02 UTC 2023.
 
 ---
 
-## SPC - No MDs are in effect as of Sun Dec 24 17:35:02 UTC 2023
+## SPC - No MDs are in effect as of Sun Dec 24 21:57:02 UTC 2023
 
 date: 2023-12-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Sun Dec 24 17:35:02 UTC 2023.
+No Mesoscale Discussions are in effect as of Sun Dec 24 21:57:02 UTC 2023.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Dec 24, 2023 2000 UTC Day 1 Convective Outlook
+
+date: 2023-12-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0146 PM CST Sun Dec 24 2023
+
+Valid 242000Z - 251200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS OVER PARTS OF
+THE CENTRAL GULF COAST...
+
+...SUMMARY...
+A brief tornado and localized severe gusts are possible over parts
+of the central Gulf Coast later this evening into the early morning.
+
+...Central Gulf Coast...
+Midday guidance along with the 12Z ECMWF suggest potential for weak
+cyclogenesis near the central Gulf Coast tonight, as a shortwave
+impulse over TX moves east to the Lower MS Valley before pivoting
+northeast tomorrow morning. With mid 60s surface dew points already
+established across the north-central Gulf and far southeast LA, it
+is plausible that weak surface-based instability will at least brush
+the central Gulf Coast later tonight. This should become coincident
+with the trailing portion of a strengthening low-level jet across
+the Deep South. While deep convection ongoing over the northwest
+Gulf should largely translate east across the north-central Gulf,
+this setup may support an embedded supercell or two impinging
+on/developing over a portion of the central Gulf Coast States.
+
+..Grams.. 12/24/2023
+
+.PREV DISCUSSION... /ISSUED 1021 AM CST Sun Dec 24 2023/
+
+...East TX/LA...
+A negatively tilted upper trough is moving across the Southern
+Plains into the Gulf Coast region during this forecast period. 
+Scattered showers and thunderstorms will occur ahead of the trough,
+from TX into AL and the FL panhandle.  Surface trajectories will
+limit the influx of Gulf moisture northward/inland today, making
+surface-based thunderstorm development unlikely.
+
+A strong storm or two might occur from the upper TX gulf coast to
+coastal LA this afternoon, but any severe activity is expected to
+remain offshore.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">Save to Pocket</a>
 </span>
 
 ---
@@ -91,7 +149,7 @@ negligible if this can overlap adequate surface-based instability.
 
 ## SPC Day 2 Fire Weather Outlook
 
-date: 2023-12-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2023-12-24, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 2 Fire Weather Outlook  
