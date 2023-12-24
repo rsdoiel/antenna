@@ -1,3 +1,4 @@
+https://www.foxhound.systems/blog/rss.xml "~Fox Hound Systems Blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://www.arl.org/feed/ "~Association of Research Libraries News"
 https://timwright.org/blog/feed/ "~Tim Wright's blog (met at USC)"
 https://reb00ted.org/index.xml "~reb00ted blog (Johannes Ernst)"
@@ -394,6 +395,7 @@ https://odysseygamesco.com/feed/ "~Odyssey Games blog" curl/8.5.0 (rsdoiel@gmail
 https://blog.ayjay.org/feed/ "~Ayjay blog"
 https://poynder.blogspot.com/feeds/posts/default?alt=rss "~Richard Poydner blog"
 https://www.frontiersin.org/journals/cellular-and-infection-microbiology/rss "~Frontiers in Cellar and Infection Microbiology" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://api.quantamagazine.org/feed/ "~Quanta Magazine" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #
 # Problem feeds

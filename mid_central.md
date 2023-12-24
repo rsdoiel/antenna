@@ -1,142 +1,34 @@
 ---
 title: mid central 2023.51
-updated: 2023-12-23 12:03:39
+updated: 2023-12-24 11:31:39
 ---
 
 # mid central 2023.51
 
-(date: 2023-12-23 12:03:39)
+(date: 2023-12-24 11:31:39)
 
 ---
 
-## YouTube Telethon to Raise Money for ARRL Teachers Institute on Wireless Technology
+## There are no active watches, warnings or advisories
 
-date: 2023-12-22, from: Amateur Radio Relay League News
+date: 2023-12-24, updated: 2023-12-24, from: Merced, Weather.gov CAP v1.1 alerts
 
-<p>ARRL  The National Association for Amateur Radio® is excited to announce a YouTube telethon fundraiser being hosted to raise money for the future of amateur radio education. On Friday, December 22, 2023, starting at 8:00 PM Eastern Time, ARRL Education and Learning Manager Steve Goodgame, K5ATA, will be live on a YouTube telethon. The event, hosted by several popular ham radio YouTubers from th...</p>
+
 
 <span class="feed-item-link">
-<a href="http://www.arrl.org/news/view/youtube-telethon-to-raise-money-for-arrl-teachers-institute-on-wireless-technology">http://www.arrl.org/news/view/youtube-telethon-to-raise-money-for-arrl-teachers-institute-on-wireless-technology</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/youtube-telethon-to-raise-money-for-arrl-teachers-institute-on-wireless-technology">Save to Pocket</a>
+<a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
 </span>
 
 ---
 
-## ARRL Headquarters and W1AW Holiday Schedule
+## ARRL Straight Key Night 2024
 
-date: 2023-12-22, from: Amateur Radio Relay League News
+date: 2023-12-24, from: Amateur Radio Relay League News
 
-<p>ARRL  The National Association for Amateur Radio® Headquarters in Newington, Connecticut, will be closed Monday, December 25, 2023, and Monday, January 1, 2024, in observance of Christmas and New Year's Day. There will be no W1AW bulletins or code practice those days. There will be no issue of <i>The ARRL Letter</i> on December 28, 2023, or <i>ARRL Audio News</i> on December 29, 2023.</p><p>We extend our warmest ho...</p>
-
-<span class="feed-item-link">
-<a href="http://www.arrl.org/news/view/arrl-headquarters-and-w1aw-holiday-schedule">http://www.arrl.org/news/view/arrl-headquarters-and-w1aw-holiday-schedule</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/arrl-headquarters-and-w1aw-holiday-schedule">Save to Pocket</a>
-</span>
-
----
-
-## The K7RA Solar Update
-
-date: 2023-12-22, from: Amateur Radio Relay League News
-
-<p>The Winter Solstice, the shortest day of the year in the Northern<br />Hemisphere occurred at 0327 UTC on December 22. It is the start of<br />summer in the Southern Hemisphere.<br /><br />Solar activity increased over the last reporting week (December<br />14-20), with eleven new sunspot groups emerging.<br /><br />One new sunspot group appeared on December 15, four more on the<br />following day, another on December 17, three more on Decem...</p>
+<p> ARRL  The National Association for Amateur Radio® Straight Key Night (SKN) is held on January 1, 2024, from 0000 UTC through 2359 UTC.</p><p> </p><p> </p><p>Many hams look forward to SKN as one of the highlights of their operating year.<span> </span></p><p> </p><p>Operators participate using Morse code (CW). All you need is your favorite straight key or bug. Many participants dust off vintage radios and keys and put them back into service e...</p>
 
 <span class="feed-item-link">
-<a href="http://www.arrl.org/news/view/the-k7ra-solar-update-809">http://www.arrl.org/news/view/the-k7ra-solar-update-809</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/the-k7ra-solar-update-809">Save to Pocket</a>
-</span>
-
----
-
-## Status of CQ Magazine
-
-date: 2023-12-22, from: Amateur Radio Relay League News
-
-<p>ARRL® has heard from many members concerned about their print subscriptions to <i>CQ </i>magazine. <i>CQ </i>magazine is not an ARRL publication, however ARRL members enjoy the ability to pursue earning the CQ Worked All Zones (WAZ) and Worked All Prefixes (WPX) awards through Logbook of The World (LoTW).</p><p><i>CQ</i> Editor Rich Moseson, W2VU, acknowledged the delays in delivering <i>CQ</i> magazine. He indicated that the No...</p>
-
-<span class="feed-item-link">
-<a href="http://www.arrl.org/news/view/status-of-cq-magazine">http://www.arrl.org/news/view/status-of-cq-magazine</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/status-of-cq-magazine">Save to Pocket</a>
-</span>
-
----
-
-## Unions are back, baby
-
-date: 2023-12-20, from: The Collegian (Cal State Fresno's Student Newspaper)
-
-In 2009, I snagged my first job &#8212; a cashier at Target. After passing drug tests and an interview, I and my fellow employees were corralled into the breakroom for training and an orientation video. It started innocently enough. We were welcomed to the Target family by smiling senior employees, Josh and Maria, donned in...
-
-<span class="feed-item-link">
-<a href="https://fscollegian.com/2023/12/unions-are-back-baby/">https://fscollegian.com/2023/12/unions-are-back-baby/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/unions-are-back-baby/">Save to Pocket</a>
-</span>
-
----
-
-## Navigate festive feasts without triggering food allergies
-
-date: 2023-12-20, from: The Collegian (Cal State Fresno's Student Newspaper)
-
-The holidays are an easy time to reconnect with friends and family over some fun and food—unless you have a food allergy or intolerance. A food allergy is the body reacting to certain proteins in food. These reactions can be mild, such as hives and swelling of the lips, or, in extreme cases, can cause...
-
-<span class="feed-item-link">
-<a href="https://fscollegian.com/2023/12/navigate-festive-feasts-without-triggering-food-allergies/">https://fscollegian.com/2023/12/navigate-festive-feasts-without-triggering-food-allergies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/navigate-festive-feasts-without-triggering-food-allergies/">Save to Pocket</a>
-</span>
-
----
-
-## WRC-23 Concludes with Wins for Amateur Radio and Agenda Items Designated for the Next Two Events
-
-date: 2023-12-18, from: Amateur Radio Relay League News
-
-<p><i>By International Amateur Radio Union Secretary Joel Harrison, W5ZN</i></p><p>After 4 hectic weeks of the 2023 World Radiocommunication Conference (WRC-23), and a preceding week of Radiocommunication Assembly meetings, WRC-23 concluded on Friday, December 15. Amateur radio fared very well overall, despite the enormous pressures across the radio spectrum from LF to terahertz. This is a tribute to the effort...</p>
-
-<span class="feed-item-link">
-<a href="http://www.arrl.org/news/view/wrc-23-concludes-with-wins-for-amateur-radio-and-agenda-items-designated-for-the-next-two-events">http://www.arrl.org/news/view/wrc-23-concludes-with-wins-for-amateur-radio-and-agenda-items-designated-for-the-next-two-events</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/wrc-23-concludes-with-wins-for-amateur-radio-and-agenda-items-designated-for-the-next-two-events">Save to Pocket</a>
-</span>
-
----
-
-## Engineering society celebrates diversity, student engagement, professional development
-
-date: 2023-12-18, from: The Collegian (Cal State Fresno's Student Newspaper)
-
-Society of Asian Scientists and Engineers, also known as SASE, is a nonprofit, nationwide organization committed to advancing Asian students and professionals to their fullest career potential, while also creating welcoming communities for all. Fresno State has a unique chapter of SASE in which anyone can join no matter their race or ethnicity. There are...
-
-<span class="feed-item-link">
-<a href="https://fscollegian.com/2023/12/engineering-society-celebrates-diversity-student-engagement-professional-development/">https://fscollegian.com/2023/12/engineering-society-celebrates-diversity-student-engagement-professional-development/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/engineering-society-celebrates-diversity-student-engagement-professional-development/">Save to Pocket</a>
-</span>
-
----
-
-## New Experimental Probabilistic Snowfall Forecasts
-
-date: 2023-12-18, from: San Joaquin Valley
-
-
-
-<span class="feed-item-link">
-<a href="https://www.weather.gov/hnx/winter.html">https://www.weather.gov/hnx/winter.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.weather.gov/hnx/winter.html">Save to Pocket</a>
-</span>
-
----
-
-## New Experimental Probabilistic Snowfall Forecasts
-
-date: 2023-12-18, from: San Joaquin Valley
-
-
-
-<span class="feed-item-link">
-<a href="https://www.weather.gov/hnx/winter">https://www.weather.gov/hnx/winter</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.weather.gov/hnx/winter">Save to Pocket</a>
-</span>
-
----
-
-## Fresno State Football caps off season with New Mexico Bowl win
-
-date: 2023-12-17, from: The Collegian (Cal State Fresno's Student Newspaper)
-
-The Fresno State football team capped off its season with a 37-10 win at the Isleta New Mexico Bowl on Saturday, Dec. 16.  The Bulldogs came in as the underdog &#8212; the Aggies were the 3-point favorite &#8212; but the win showed that wasn’t the case.  An in-state bowl game for New Mexico State meant...
-
-<span class="feed-item-link">
-<a href="https://fscollegian.com/2023/12/fresno-state-football-caps-off-season-with-new-mexico-bowl-win/">https://fscollegian.com/2023/12/fresno-state-football-caps-off-season-with-new-mexico-bowl-win/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2023/12/fresno-state-football-caps-off-season-with-new-mexico-bowl-win/">Save to Pocket</a>
+<a href="http://www.arrl.org/news/view/arrl-straight-key-night-2024">http://www.arrl.org/news/view/arrl-straight-key-night-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/arrl-straight-key-night-2024">Save to Pocket</a>
 </span>
 
 

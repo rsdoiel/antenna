@@ -34,4 +34,8 @@ pandoc -s \
    "today-${TODAY}.md" \
    >"today-${TODAY}.html"
 
-
+pandoc -s \
+	-f markdown \
+	-t html5 \
+	--template page.tmpl \
+	index.md >index.html
