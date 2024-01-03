@@ -7,3 +7,4 @@ https://blog.scielo.org/en/feed/ "~SciELO in Perspective" curl/8.5.0 (rsdoiel@gm
 https://www.research-collection.ethz.ch/feed/rss_2.0/site "~ETH Zurich, recently added"
 #https://www.rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives", redirects as of 2023-12-06
 https://rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives"
+https://jon-e.net/blog/feed.xml "~Jonny Saunders blog"
