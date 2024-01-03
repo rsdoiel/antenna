@@ -6,7 +6,7 @@ SUNDAY = $(shell reldate sunday)
 SATURDAY = $(shell reldate saturday)
 VOL_NO = $(shell date +%Y.%W)
 
-YEAR = 2023
+YEAR = 2024
 ifneq ($(vol),)
         VOL_NO=$(vol)
 endif
