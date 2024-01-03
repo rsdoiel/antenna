@@ -233,3 +233,7 @@ https://www.gregegan.net/feed.rss "~Greg Egan's feed" curl/8.5.0 (rsdoiel@gmail.
 https://blogs.windows.com/windowsdeveloper/feed/ "~Windows Developer Blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 #https://losnettos.net/feed/ "~Los Nettos News" curl/8.5.0 # feed unavailable 2023-12-05
 https://cea.cals.cornell.edu/feed/ "~Cornell Controlled Environment Agriculture" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+
+# Chaos Computer Club in Germany
+https://www.ccc.de/de/rss/updates.xml "~Chaos Computer Club" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+
