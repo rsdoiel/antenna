@@ -1,11 +1,25 @@
 ---
 title: libraries 2024.01
-updated: 2024-01-03 11:20:23
+updated: 2024-01-03 17:29:58
 ---
 
 # libraries 2024.01
 
-(date: 2024-01-03 11:20:23)
+(date: 2024-01-03 17:29:58)
+
+---
+
+## Day in Review (January 3–4)
+
+date: 2024-01-03, from: Association of Research Libraries News
+
+<p>Last Updated on January 3, 2024, 4:31 pm ET Sign up to receive the Day in Review by email. Jump to: Thursday, January 4 Wednesday, January 3 Top o’ the...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-3-4/">Day in Review (January 3–4)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/day-in-review/day-in-review-january-3-4/">https://www.arl.org/day-in-review/day-in-review-january-3-4/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/day-in-review/day-in-review-january-3-4/">Save to Pocket</a>
+</span>
 
 ---
 

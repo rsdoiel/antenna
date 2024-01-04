@@ -1,11 +1,35 @@
 ---
 title: games 2024.01
-updated: 2024-01-03 11:20:23
+updated: 2024-01-03 17:29:58
 ---
 
 # games 2024.01
 
-(date: 2024-01-03 11:20:23)
+(date: 2024-01-03 17:29:58)
+
+---
+
+## Unpacking’s secret messy mode just got a big viral boost
+
+date: 2024-01-03, updated: 2024-01-03, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24024185/unpacking-dark-star-mode-developer-interview">https://www.polygon.com/24024185/unpacking-dark-star-mode-developer-interview</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24024185/unpacking-dark-star-mode-developer-interview">Save to Pocket</a>
+</span>
+
+---
+
+## Iconic Kim Kardashian: Hollywood mobile game shutting down after a decade
+
+date: 2024-01-03, updated: 2024-01-03, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24024266/kim-kardashian-mobile-game-shutting-down-glu-mobile">https://www.polygon.com/24024266/kim-kardashian-mobile-game-shutting-down-glu-mobile</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24024266/kim-kardashian-mobile-game-shutting-down-glu-mobile">Save to Pocket</a>
+</span>
 
 ---
 

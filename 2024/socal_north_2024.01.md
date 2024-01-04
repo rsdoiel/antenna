@@ -1,11 +1,85 @@
 ---
 title: socal north 2024.01
-updated: 2024-01-03 11:20:23
+updated: 2024-01-03 17:29:58
 ---
 
 # socal north 2024.01
 
-(date: 2024-01-03 11:20:23)
+(date: 2024-01-03 17:29:58)
+
+---
+
+## In LA, Newsom Rallies Support For Proposition 1 And More Mental Health Treatment Beds
+
+date: 2024-01-03, updated: 2024-01-04, from: The LAist
+
+The proposal on the ballot in March would authorize $6.38 billion in bonds to pay for mental health treatment facilities and housing.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/newsom-proposition-1-mental-health-treatment-beds">https://laist.com/news/newsom-proposition-1-mental-health-treatment-beds</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/newsom-proposition-1-mental-health-treatment-beds">Save to Pocket</a>
+</span>
+
+---
+
+## Local Beaches Are Glowing Blue Again
+
+date: 2024-01-03, updated: 2024-01-03, from: The LAist
+
+The dinoflagellates that cause the waves to light up come and go in seasons.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/socal-beaches-bioluminescent-glowing-blue">https://laist.com/news/climate-environment/socal-beaches-bioluminescent-glowing-blue</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/socal-beaches-bioluminescent-glowing-blue">Save to Pocket</a>
+</span>
+
+---
+
+## California Could See A Snow Drought This Year. What Will It Mean For The State's Water Supply?
+
+date: 2024-01-03, updated: 2024-01-04, from: The LAist
+
+More snow is coming, but the Department of Water Resources said it's too early to tell if that will make up the snow deficit.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/california-could-see-a-potential-snow-drought-this-year-what-will-it-mean-for-the-states-water-supply">https://laist.com/news/climate-environment/california-could-see-a-potential-snow-drought-this-year-what-will-it-mean-for-the-states-water-supply</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/california-could-see-a-potential-snow-drought-this-year-what-will-it-mean-for-the-states-water-supply">Save to Pocket</a>
+</span>
+
+---
+
+## Stay Out Of The Water: All LA County Beaches Under Rain Advisory
+
+date: 2024-01-03, updated: 2024-01-04, from: The LAist
+
+The advisory is in effect from Leo Carillo State Beach, out to Catalina Island, all the way down to San Pedro.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/stay-out-of-the-water-all-la-county-beaches-under-rain-advisory">https://laist.com/news/climate-environment/stay-out-of-the-water-all-la-county-beaches-under-rain-advisory</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/stay-out-of-the-water-all-la-county-beaches-under-rain-advisory">Save to Pocket</a>
+</span>
+
+---
+
+## Ikaika Malloe promoted to UCLA football defensive coordinator
+
+date: 2024-01-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins are hiring from within to fill their defensive coordinator vacancy.&#160;
+UCLA football announced Wednesday morning defensive line and outside linebackers coach Ikaika Malloe was promoted to defensive coordinator, replacing D’Anton Lynn, who filled the same role at USC.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/03/malloe-promoted-to-defensive-coordinator/">https://dailybruin.com/2024/01/03/malloe-promoted-to-defensive-coordinator/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/03/malloe-promoted-to-defensive-coordinator/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s basketball to battle Bay Area foes back-to-back
+
+date: 2024-01-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+The key to victory on any given night is already clear to the Bruins&#8217; bench boss, even as conference play is just beginning.
+&#8220;We have to continue to play as hard as we did in that game (against Oregon) and defend, and we&#8217;ll have a chance,&#8221; said coach Mick Cronin.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/03/ucla-mens-basketball-to-battle-bay-area-foes-back-to-back/">https://dailybruin.com/2024/01/03/ucla-mens-basketball-to-battle-bay-area-foes-back-to-back/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/03/ucla-mens-basketball-to-battle-bay-area-foes-back-to-back/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -33,6 +107,18 @@ New Year, new you? These books might help.
 
 ---
 
+## What Parents Of English Learners Need To Know | Quick Guide
+
+date: 2024-01-03, updated: 2024-01-04, from: The LAist
+
+It can be difficult to understand whether your child is progressing toward proficiency in English. Here's a quick guide for parents.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/what-parents-of-english-learners-need-to-know-quick-guide">https://laist.com/news/education/what-parents-of-english-learners-need-to-know-quick-guide</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/what-parents-of-english-learners-need-to-know-quick-guide">Save to Pocket</a>
+</span>
+
+---
+
 ## Education Doesn’t Solve The Pay Gap. Experts Say They’re Not Surprised
 
 date: 2024-01-03, updated: 2024-01-03, from: The LAist
@@ -41,18 +127,6 @@ The gap exists across industries but is bigger in higher-paying fields, leading 
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/education/education-doesnt-solve-the-pay-gap-experts-say-theyre-not-surprised">https://laist.com/news/education/education-doesnt-solve-the-pay-gap-experts-say-theyre-not-surprised</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/education-doesnt-solve-the-pay-gap-experts-say-theyre-not-surprised">Save to Pocket</a>
-</span>
-
----
-
-## What Parents Of English Learners Need To Know | Quick Guide
-
-date: 2024-01-03, updated: 2024-01-03, from: The LAist
-
-It can be difficult to understand whether your child is progressing toward proficiency in English. Here's a quick guide for parents.
-
-<span class="feed-item-link">
-<a href="https://laist.com/news/education/what-parents-of-english-learners-need-to-know-quick-guide">https://laist.com/news/education/what-parents-of-english-learners-need-to-know-quick-guide</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/what-parents-of-english-learners-need-to-know-quick-guide">Save to Pocket</a>
 </span>
 
 ---

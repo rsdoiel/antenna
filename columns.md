@@ -1,11 +1,23 @@
 ---
 title: columns 2024.01
-updated: 2024-01-03 11:20:23
+updated: 2024-01-03 17:29:58
 ---
 
 # columns 2024.01
 
-(date: 2024-01-03 11:20:23)
+(date: 2024-01-03 17:29:58)
+
+---
+
+## Tip of the Day: Finding Unknown ‘Items’ in Your iCloud Photo Library
+
+date: 2024-01-03, updated: 2024-01-04, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@calebhailey/111653442283836729">https://mastodon.social/@calebhailey/111653442283836729</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@calebhailey/111653442283836729">Save to Pocket</a>
+</span>
 
 ---
 

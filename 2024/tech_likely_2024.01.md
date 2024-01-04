@@ -1,11 +1,227 @@
 ---
 title: tech likely 2024.01
-updated: 2024-01-03 11:20:23
+updated: 2024-01-03 17:29:58
 ---
 
 # tech likely 2024.01
 
-(date: 2024-01-03 11:20:23)
+(date: 2024-01-03 17:29:58)
+
+---
+
+**@Robert's feed at BlueSky** (date: 2024-01-04, from: Robert's feed at BlueSky)
+
+A colleague, @mhucka.bsky.social, passed on this link. I thought it was interesting in the context of an RSS revival mentioned by @scripting.com 
+
+github.com/sneakers-the...
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3ki4kcbhvdo2a">https://bsky.app/profile/rsdoiel.bsky.social/post/3ki4kcbhvdo2a</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/rsdoiel.bsky.social/post/3ki4kcbhvdo2a">Save to Pocket</a>
+</span>
+
+---
+
+## Steamboat Willie Wall Art
+
+date: 2024-01-04, from: Tilde.news
+
+<p><a href="https://tilde.news/s/o9y41s/steamboat_willie_wall_art">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.printables.com/model/701756-steamboat-willie-wall-art">https://www.printables.com/model/701756-steamboat-willie-wall-art</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.printables.com/model/701756-steamboat-willie-wall-art">Save to Pocket</a>
+</span>
+
+---
+
+## Iffy Books Permacomputing Meetup – January 14th at 1:00 PM EST
+
+date: 2024-01-04, from: Tilde.news
+
+<p><a href="https://tilde.news/s/q5bki5/iffy_books_permacomputing_meetup">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://iffybooks.net/event/permacomputing-jan-14/">https://iffybooks.net/event/permacomputing-jan-14/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://iffybooks.net/event/permacomputing-jan-14/">Save to Pocket</a>
+</span>
+
+---
+
+## Wayland enjoyed many successes in 2023
+
+date: 2024-01-03, from: OS News
+
+The Wayland ecosystem had a phenomenal year from much better NVIDIA proprietary driver support, Firefox ending out the year shipping with Wayland support enabled by default, KDE Plasma 6.0 will default to Wayland following many improvements on the KDE side, the Wine Wayland driver upstreamed in its initial form, XWayland continuing to be enhanced, and a lot of other software from desktop environments to apps continuing to embrace Wayland. ↫ Michael Larabel at Phoronix This train ain&#8217;t stopping. Dare I say 2024 will be the year of Wayland on the desktop?
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138180/wayland-enjoyed-many-successes-in-2023/">https://www.osnews.com/story/138180/wayland-enjoyed-many-successes-in-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138180/wayland-enjoyed-many-successes-in-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Windows 11 is relaxing Microsoft account auto-sign in apps, but only in Europe
+
+date: 2024-01-03, from: OS News
+
+Windows is changing the way apps can access your Microsoft account. Currently, when you sign in to Windows 11 or 10 with your Microsoft account, most apps automatically use that Microsoft account for in-app sign-in. The tech giant plans to change this behaviour by allowing you to decline access to Microsoft accounts in installed apps. ↫ Mayank Parmar at Windows Latest This change, like so many others that are making Windows ever so slightly less of a trashfire, is EU-only.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138178/windows-11-is-relaxing-microsoft-account-auto-sign-in-apps-but-only-in-europe/">https://www.osnews.com/story/138178/windows-11-is-relaxing-microsoft-account-auto-sign-in-apps-but-only-in-europe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138178/windows-11-is-relaxing-microsoft-account-auto-sign-in-apps-but-only-in-europe/">Save to Pocket</a>
+</span>
+
+---
+
+## A brief retrospective on SPARC register windows
+
+date: 2024-01-03, from: OS News
+
+As I work on moss and research modern processor design patterns and techniques, I am also looking for patterns and techniques from the past that, for one reason or another, have not persisted into our modern machines. While on a run this week, I was listening to an old Oxide and Friends episode where Bryan, Adam, and crew were reminiscing on the SPARC instruction set architecture (ISA). SPARC is a reduced instruction set computer (RISC) architecture originally developed by Sun Microsystems, with the first machine, the SPARCstation1 (a.k.a. Sun 4/60, a.k.a Campus), being delivered in 1987. It was heavily influenced by the early RISC designs from David Patterson and team at Berkeley in the 1970s and 1980s, which is the same lineage from which RISC-V has evolved. Given the decision to base moss on the RISC-V RV64I ISA, I was interested to learn more about the history and finer details of SPARC. ↫ Daniel Mangum The sad thing is that SPARC is pretty close to dead at this point, with the two major players in the high-end &#8211; Oracle and Fujitsu &#8211; throwing in the towel half a decade ago. There&#8217;s some lower-end work, such as the LEON chips, but those efforts, too, seem to be going nowhere at the moment. Definitely sad, since I&#8217;ve always been oddly obsessed with the architecture, and hope to still somehow get my hands on the last UltraSPARC workstation ever built (the Sun Ultra 45, which is, sadly, incredibly expensive on the used market). There&#8217;s also a whole boatload of servers on the used market with fancier, newer SPARC processors, but as far as I know, none of those support any form of even barely usable graphics, making them useless for weird people like me who want to run a desktop on them.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138176/a-brief-retrospective-on-sparc-register-windows/">https://www.osnews.com/story/138176/a-brief-retrospective-on-sparc-register-windows/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138176/a-brief-retrospective-on-sparc-register-windows/">Save to Pocket</a>
+</span>
+
+---
+
+##  Some Wonderful Things from 2023 
+
+date: 2024-01-03, updated: 2024-01-03, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/some-wonderful-things-from-2023">https://kottke.org/24/01/some-wonderful-things-from-2023</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/some-wonderful-things-from-2023">Save to Pocket</a>
+</span>
+
+---
+
+## The Next Full Moon is the Cold, Frost or Winter Moon
+
+date: 2024-01-03, from: NASA breaking news
+
+January 2024 The Next Full Moon is the Cold, Frost, or Winter Moon; the Long Night Moon; the Moon after Yule; the Datta Jayanti and Thiruvathira Festival Moon; Unduvap Poya; and the Chang’e Moon. The next full Moon will be Tuesday evening, December 26, 2023, appearing opposite the Sun (in Earth-based longitude) at 7:33 PM […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-cold-frost-or-winter-moon/">https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-cold-frost-or-winter-moon/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-cold-frost-or-winter-moon/">Save to Pocket</a>
+</span>
+
+---
+
+##  People with Charles Bonnet syndrome have visual hallucinations. This man saw people... 
+
+date: 2024-01-03, updated: 2024-01-03, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043710-people-with-charles-bonne">https://kottke.org/24/01/0043710-people-with-charles-bonne</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043710-people-with-charles-bonne">Save to Pocket</a>
+</span>
+
+---
+
+## Joshua Schlieder: Feet on the Ground, Head in the Stars
+
+date: 2024-01-03, from: NASA breaking news
+
+Goddard astrophysicist Dr. Joshua Schlieder supports NASA's Roman Space Telescope and Swift Observatory with creativity, community, and curiosity.
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/people-of-nasa/goddard-people/joshua-schlieder-feet-on-the-ground-head-in-the-stars/">https://www.nasa.gov/people-of-nasa/goddard-people/joshua-schlieder-feet-on-the-ground-head-in-the-stars/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/people-of-nasa/goddard-people/joshua-schlieder-feet-on-the-ground-head-in-the-stars/">Save to Pocket</a>
+</span>
+
+---
+
+##  This guy built his own little railcar and rides it on abandoned... 
+
+date: 2024-01-03, updated: 2024-01-03, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043716-this-guy-built-his-own">https://kottke.org/24/01/0043716-this-guy-built-his-own</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043716-this-guy-built-his-own">Save to Pocket</a>
+</span>
+
+---
+
+##  Jan Chipchase reports on a recent trip to Afghanistan under Taliban 2.0... 
+
+date: 2024-01-03, updated: 2024-01-03, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043718-jan-chipchase-reports-on-">https://kottke.org/24/01/0043718-jan-chipchase-reports-on-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043718-jan-chipchase-reports-on-">Save to Pocket</a>
+</span>
+
+---
+
+##  1000 Matchsticks Feature in This Epic Stop Motion Animation 
+
+date: 2024-01-03, updated: 2024-01-03, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/1000-matchsticks-feature-in-this-epic-stop-motion-animation">https://kottke.org/24/01/1000-matchsticks-feature-in-this-epic-stop-motion-animation</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/1000-matchsticks-feature-in-this-epic-stop-motion-animation">Save to Pocket</a>
+</span>
+
+---
+
+## Devices That Are Not USB C in My Life
+
+date: 2024-01-03, from: Michael Tsai
+
+Mere Civilian: First, I give my appreciation to the European Union for their efforts in nudging (we all know it was more than a nudge) Apple to support USB C. However, there are still devices in my life that I use daily that are not USB C. Strangely, as each year passes by, it becomes [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/03/devices-that-are-not-usb-c-in-my-life/">https://mjtsai.com/blog/2024/01/03/devices-that-are-not-usb-c-in-my-life/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/03/devices-that-are-not-usb-c-in-my-life/">Save to Pocket</a>
+</span>
+
+---
+
+## 3-in-1 Charging Stations
+
+date: 2024-01-03, from: Michael Tsai
+
+Fernando Silva: I have been on the lookout for a 3-in-1 charging station for my Apple products that doesn&#8217;t break the bank. Don&#8217;t get me wrong &#x2013; there are many options for 3-in-1 chargers, but it seems you have to spend upward of $100 or even $200 for a high-quality Apple 3-in-1 charger. But I [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/03/3-in-1-charging-stations/">https://mjtsai.com/blog/2024/01/03/3-in-1-charging-stations/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/03/3-in-1-charging-stations/">Save to Pocket</a>
+</span>
+
+---
+
+## Gitea Cloud
+
+date: 2024-01-03, from: Michael Tsai
+
+Gitea (Hacker New): With just a few clicks, you can easily deploy your own Gitea instance on Gitea Cloud. Our team will handle all the maintenance, including backups, upgrades, and more. This allows you to focus on business development without worrying about operational issues. [&#8230;] By using dedicated infrastructure, you don't have to worry about [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/03/gitea-cloud/">https://mjtsai.com/blog/2024/01/03/gitea-cloud/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/03/gitea-cloud/">Save to Pocket</a>
+</span>
+
+---
+
+## Taligent’s Guide to Designing Programs
+
+date: 2024-01-03, from: Michael Tsai
+
+David Goldsmith (1994, PDF, via Hacker News): If you browse the computer section of any technical bookstore, you&#8217;ll find many good books offering advice on how to do object-oriented design&#8212;books dealing both with general design principles and with design principles specific to C++. Why then does the industry need another book, one targeted not only [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/03/taligents-guide-to-designing-programs/">https://mjtsai.com/blog/2024/01/03/taligents-guide-to-designing-programs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/03/taligents-guide-to-designing-programs/">Save to Pocket</a>
+</span>
+
+---
+
+## Sketch Returns to the Mac App Store
+
+date: 2024-01-03, from: Michael Tsai
+
+Sindre Sorhus (Hacker News): Seems like Sketch is back on the App Store, after leaving it in 2015. They seem be using the original SKU, because the Mac App Store shows it as 4+ years old, but it currently has only 7 ratings with an average of 3 stars. Reviews complain that even though the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/03/sketch-returns-to-the-mac-app-store/">https://mjtsai.com/blog/2024/01/03/sketch-returns-to-the-mac-app-store/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/03/sketch-returns-to-the-mac-app-store/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -311,6 +527,18 @@ date: 2024-01-03, updated: 2024-01-03, from: Anil Dash
 
 <span class="feed-item-link">
 <a href="https://anildash.com/2024/01/03/human-web-renaissance/">https://anildash.com/2024/01/03/human-web-renaissance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://anildash.com/2024/01/03/human-web-renaissance/">Save to Pocket</a>
+</span>
+
+---
+
+## Birb + Fossil: An RSS Revival?
+
+date: 2024-01-03, updated: 2024-01-03, from: Tom Kellog blog
+
+
+
+<span class="feed-item-link">
+<a href="http://timkellogg.me/blog/2024/01/03/birb">http://timkellogg.me/blog/2024/01/03/birb</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://timkellogg.me/blog/2024/01/03/birb">Save to Pocket</a>
 </span>
 
 ---
@@ -1089,18 +1317,6 @@ Here's Gripping News for Mouse Users
 
 ---
 
-## Advent of Computing: Episode 123 - The Jupiter Ace
-
-date: 2024-01-01, from: Tilde.news
-
-<p><a href="https://tilde.news/s/ypdymz/advent_computing_episode_123_jupiter_ace">Comments</a></p>
-
-<span class="feed-item-link">
-<a href="https://adventofcomputing.libsyn.com/episode-123-the-jupiter-ace">https://adventofcomputing.libsyn.com/episode-123-the-jupiter-ace</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-123-the-jupiter-ace">Save to Pocket</a>
-</span>
-
----
-
 ## Who’s Counting?
 
 date: 2024-01-01, from: Ayjay blog
@@ -1119,6 +1335,18 @@ I’m not doing an end-of-year roundup of what I’ve written this year, or what
 
 <span class="feed-item-link">
 <a href="https://mastodon.social/@Migueldeicaza/111677985682233513">https://mastodon.social/@Migueldeicaza/111677985682233513</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111677985682233513">Save to Pocket</a>
+</span>
+
+---
+
+## Episode 123 - The Jupiter Ace
+
+date: 2024-01-01, from: Advent of Computing
+
+<div class="DraftEditor-paragraphElement" data-block="true" data-editor="8qlun" data-offset-key="22fsn-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="22fsn-0-0"><span data-offset-key= "22fsn-0-0"><span data-text="true">Released in 1982, the Jupiter Ace is a fascinating little computer. It's hardware isn't much to write home about. It's just an 8-bit microcomputer very much in line with other systems of the era. Where it shines is it's software. In a period when most home computer ran some version of BASIC the Ace was using Forth. On the surface that might sound like a trivial difference, but that one deviation from the norm made all the difference in the world.</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="22fsn-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="8qlun" data-offset-key="1dc18-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1dc18-0-0"><span data-offset-key= "1dc18-0-0"><span data-text="true">Selected Sources:</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1dc18-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="8qlun" data-offset-key="5s4nb-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="5s4nb-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://www.theregister.com/2012/09/21/jupiter_cantab_jupiter_ace_is_30_years_old"> <span data-offset-key="5s4nb-0-0"><span data-text= "true">https://www.theregister.com/2012/09/21/jupiter_cantab_jupiter_ace_is_30_years_old</span></span></a> <span data-offset-key="5s4nb-1-0"><span data-text="true">- The Register article on the Ace</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="5s4nb-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="8qlun" data-offset-key="26vo5-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="26vo5-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://jupiter-ace.co.uk/documents_index.html"><span data-offset-key="26vo5-0-0"> <span data-text= "true">https://jupiter-ace.co.uk/documents_index.html</span></span></a> <span data-offset-key="26vo5-1-0"><span data-text="true">- Every other Ace resource you could ever want</span></span></div> </div>
+
+<span class="feed-item-link">
+<a href="https://adventofcomputing.libsyn.com/episode-123-the-jupiter-ace">https://adventofcomputing.libsyn.com/episode-123-the-jupiter-ace</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-123-the-jupiter-ace">Save to Pocket</a>
 </span>
 
 ---
@@ -1406,6 +1634,18 @@ date: 2023-12-31, from: Tilde.news
 
 <span class="feed-item-link">
 <a href="https://tilde.news/s/po9wz1/tech_which_made_you_happy_2023">https://tilde.news/s/po9wz1/tech_which_made_you_happy_2023</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tilde.news/s/po9wz1/tech_which_made_you_happy_2023">Save to Pocket</a>
+</span>
+
+---
+
+## Ambient Co-presence
+
+date: 2023-12-31, from: Maggie Appleton blog
+
+
+
+<span class="feed-item-link">
+<a href="https://maggieappleton.com/ambient-copresence">https://maggieappleton.com/ambient-copresence</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://maggieappleton.com/ambient-copresence">Save to Pocket</a>
 </span>
 
 

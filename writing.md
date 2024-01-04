@@ -1,11 +1,24 @@
 ---
 title: writing 2024.01
-updated: 2024-01-03 11:20:23
+updated: 2024-01-03 17:29:58
 ---
 
 # writing 2024.01
 
-(date: 2024-01-03 11:20:23)
+(date: 2024-01-03 17:29:58)
+
+---
+
+## Best Horror of the Year 2024 Submission Call
+
+date: 2024-01-03, from: Locus Magazine
+
+<p>Ellen Datlow is accepting submissions for her 17th Best Horror of the Year anthology, to be published by Night Shade Books and covering material appearing in 2024.</p>
+<p>I am looking for stories and poetry from all branches of horror: supernatural, uncanny, sf horror, psychological, dark crime, terror tales, or anything else that might qualify. This is an all reprint anthology, so I’ll only consider material published in 2024. <strong>Deadline is </strong> <a href="https://locusmag.com/2024/01/best-horror-of-the-year-2024-submission-call/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/best-horror-of-the-year-2024-submission-call/">https://locusmag.com/2024/01/best-horror-of-the-year-2024-submission-call/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/best-horror-of-the-year-2024-submission-call/">Save to Pocket</a>
+</span>
 
 ---
 
