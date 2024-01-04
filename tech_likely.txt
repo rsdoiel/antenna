@@ -224,6 +224,7 @@ https://blog.ayjay.org/feed/ "~Ayjay blog"
 https://poynder.blogspot.com/feeds/posts/default?alt=rss "~Richard Poydner blog"
 https://www.foxhound.systems/blog/rss.xml "~Fox Hound Systems blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://api.quantamagazine.org/feed/ "~Quanta Magazine" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://timkellogg.me/blog/atom.xml "~Tom Kellog blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #
 # Problem feeds

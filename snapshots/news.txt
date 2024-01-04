@@ -416,3 +416,4 @@ https://www.lagq.com/news?format=RSS "~L.A.G.Q. news" curl/8.5.0
 https://www.levernews.com/rss/ "~The Lever News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://www.ccc.de/de/rss/updates.xml "~Chaos Computer Club Updates" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://media.ccc.de/news.atom "~Chaos Computer Club News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://timkellogg.me/blog/atom.xml "~Tom Kellog blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
