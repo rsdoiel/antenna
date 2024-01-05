@@ -1,11 +1,358 @@
 ---
 title: tech likely 2024.01
-updated: 2024-01-04 18:44:09
+updated: 2024-01-05 11:09:27
 ---
 
 # tech likely 2024.01
 
-(date: 2024-01-04 18:44:09)
+(date: 2024-01-05 11:09:27)
+
+---
+
+##  From the NY Times&#8217; Melissa Clark, a primer on salt and when... 
+
+date: 2024-01-05, updated: 2024-01-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043734-from-the-ny-times-melissa">https://kottke.org/24/01/0043734-from-the-ny-times-melissa</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043734-from-the-ny-times-melissa">Save to Pocket</a>
+</span>
+
+---
+
+##  An Octopus vs an Underwater Maze 
+
+date: 2024-01-05, updated: 2024-01-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/an-octopus-vs-an-underwater-maze">https://kottke.org/24/01/an-octopus-vs-an-underwater-maze</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/an-octopus-vs-an-underwater-maze">Save to Pocket</a>
+</span>
+
+---
+
+## Friday assorted links
+
+date: 2024-01-05, from: Marginal Revolution blog
+
+<p>1. Problems with U.S. shipyards. 2. Satellite imaging shows there is a lot more industry in the ocean than we had thought. 3. My podcast episode with Will Bachman, most of all about talent see also the Show Notes at the link. 4. Bravo NYT, glad they signaled their intent was not to insult my [&#8230;]</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/friday-assorted-links-451.html">Friday assorted links</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/859200446/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/859200446/marginalrevolution,"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/859200446/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/859200446/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/859200446/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/friday-assorted-links-451.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/friday-assorted-links-451.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/friday-assorted-links-451.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/friday-assorted-links-451.html#comment-160700677">1. The entire story was in the intro :   “ The US workforce ...</a> <i>by Reason</i></ul></div>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/859200446/0/marginalrevolution~Friday-assorted-links.html">https://feeds.feedblitz.com/~/859200446/0/marginalrevolution~Friday-assorted-links.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/859200446/0/marginalrevolution~Friday-assorted-links.html">Save to Pocket</a>
+</span>
+
+---
+
+##  A 1-dimensional version of Pac-Man.... 
+
+date: 2024-01-05, updated: 2024-01-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043723-a-1-dimensional-version-o">https://kottke.org/24/01/0043723-a-1-dimensional-version-o</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043723-a-1-dimensional-version-o">Save to Pocket</a>
+</span>
+
+---
+
+## NASA, SpaceX Invite Media to Crew-8 Mission Launch to Space Station
+
+date: 2024-01-05, from: NASA breaking news
+
+Media accreditation now is open for the launch of NASA’s eighth rotational mission of a SpaceX Falcon 9 rocket and Dragon Endeavour spacecraft that will carry astronauts to the International Space Station for a science expedition. This mission is part of NASA’s Commercial Crew Program. Launch of NASA’s SpaceX Crew-8 mission is targeted for no [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-crew-8-mission-launch-to-space-station/">https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-crew-8-mission-launch-to-space-station/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-crew-8-mission-launch-to-space-station/">Save to Pocket</a>
+</span>
+
+---
+
+## Chatting With a Whale Named Twain
+
+date: 2024-01-05, updated: 2024-01-05, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/01/05/chatting-with-a-whale-named-twain/">https://onefoottsunami.com/2024/01/05/chatting-with-a-whale-named-twain/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/01/05/chatting-with-a-whale-named-twain/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Features New Discoveries at American Astronomical Society Meeting
+
+date: 2024-01-05, from: NASA breaking news
+
+Experts will discuss new research from NASA missions at the 243rd meeting of the American Astronomical Society (AAS), on topics ranging from planets outside our solar system to fleeting, high-energy explosions in the universe. The meeting will take place Jan. 7-11 at the New Orleans Ernest N. Morial Convention Center in New Orleans. In press […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/directorates/smd/astrophysics-division/nasa-features-new-discoveries-at-american-astronomical-society-meeting/">https://science.nasa.gov/directorates/smd/astrophysics-division/nasa-features-new-discoveries-at-american-astronomical-society-meeting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/directorates/smd/astrophysics-division/nasa-features-new-discoveries-at-american-astronomical-society-meeting/">Save to Pocket</a>
+</span>
+
+---
+
+## Mathematicians Identify the Best Versions of Iconic Shapes
+
+date: 2024-01-05, from: Quanta Magazine
+
+Researchers are discovering the shortest knots and fattest Möbius strips, among other “optimal shapes.”            <p>The post <a href="https://www.quantamagazine.org/mathematicians-identify-the-best-versions-of-iconic-shapes-20240105/" target="_blank">Mathematicians Identify the Best Versions of Iconic Shapes</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/mathematicians-identify-the-best-versions-of-iconic-shapes-20240105/">https://www.quantamagazine.org/mathematicians-identify-the-best-versions-of-iconic-shapes-20240105/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/mathematicians-identify-the-best-versions-of-iconic-shapes-20240105/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Sets Coverage for X-59 Quiet Supersonic Aircraft Rollout
+
+date: 2024-01-05, from: NASA breaking news
+
+NASA will provide live coverage as it reveals its X-59 aircraft at 4 p.m. EST on Friday, Jan. 12, as part of the agency’s Quesst mission to make commercial supersonic flight possible. For the first time, the public will see the painted aircraft, which will be unveiled during a ceremony hosted by prime contractor Lockheed [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-x-59-quiet-supersonic-aircraft-rollout/">https://www.nasa.gov/news-release/nasa-sets-coverage-for-x-59-quiet-supersonic-aircraft-rollout/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-sets-coverage-for-x-59-quiet-supersonic-aircraft-rollout/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-05, from: Dave Winer's Scripting News)
+
+<a href="https://ma.tt/2024/01/birthday-gift/">Happy 40th birthday</a> to <a href="https://www.google.com/search?q=site%3Ascripting.com+matt+mullenweg">Matt Mullenweg</a>. Many happy returns! <span class="spOldSchoolEmoji">😄</span>
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/05.html#a141426">http://scripting.com/2024/01/05.html#a141426</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/05.html#a141426">Save to Pocket</a>
+</span>
+
+---
+
+## NASA/JAXA XRISM Mission Reveals Its First Look at X-ray Cosmos
+
+date: 2024-01-05, from: NASA breaking news
+
+The Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory has released a first look at the unprecedented data it will collect when science operations begin later this year. The satellite’s science team released a snapshot of a cluster of hundreds of galaxies and a spectrum of stellar wreckage in a neighboring galaxy, which gives scientists […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-reveals-its-first-look-at-x-ray-cosmos/">https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-reveals-its-first-look-at-x-ray-cosmos/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-reveals-its-first-look-at-x-ray-cosmos/">Save to Pocket</a>
+</span>
+
+---
+
+## Las leyendas de los pilotos de pruebas de la NASA se reúnen
+
+date: 2024-01-05, from: NASA breaking news
+
+Lee esta historia en inglés aquí. Nils Larson, ingeniero aeroespacial y piloto de pruebas del avión X-59 de la NASA, se reunió con su antiguo alumno, el astronauta de Artemis II Victor Glover, el sábado 21 de octubre durante una visita a las instalaciones del Centro de Investigación Langley de la NASA en Hampton (Virginia). [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/es/las-leyendas-de-los-pilotos-de-pruebas-de-la-nasa-se-reunen/">https://www.nasa.gov/es/las-leyendas-de-los-pilotos-de-pruebas-de-la-nasa-se-reunen/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/es/las-leyendas-de-los-pilotos-de-pruebas-de-la-nasa-se-reunen/">Save to Pocket</a>
+</span>
+
+---
+
+## La NASA te invita a enviar tu nombre en el rover lunar de Artemis
+
+date: 2024-01-05, from: NASA breaking news
+
+Read this story in English here. La NASA invita al público a enviar su nombre a la superficie de la Luna a bordo del primer rover lunar robótico de la agencia, el Vehículo de Exploración Polar para Investigación de Volátiles (VIPER, por sus siglas en inglés). Este vehículo explorador se embarcará en una misión al [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/la-nasa-te-invita-a-enviar-tu-nombre-en-el-rover-lunar-de-artemis/">https://www.nasa.gov/news-release/la-nasa-te-invita-a-enviar-tu-nombre-en-el-rover-lunar-de-artemis/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/la-nasa-te-invita-a-enviar-tu-nombre-en-el-rover-lunar-de-artemis/">Save to Pocket</a>
+</span>
+
+---
+
+## The New News Business
+
+date: 2024-01-05, from: Doc Searls (at Harvard), New Old Blog
+
+Back when I was on the board of my regional Red Cross chapter (this one), I learned four lessons about fund raising: People are glad to pay value for value. People are most willing to pay when they perceive and appreciate the value they get from a product or service. People are also most willing [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://doc.searls.com/2024/01/05/the-new-news-business/">https://doc.searls.com/2024/01/05/the-new-news-business/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://doc.searls.com/2024/01/05/the-new-news-business/">Save to Pocket</a>
+</span>
+
+---
+
+## Predictions for 2024
+
+date: 2024-01-05, from: Marginal Revolution blog
+
+<p>Bari Weiss interviews myself, Niall Ferguson, John McWhorter, Peter Attia, Nate Silver, and others about the year to come.  I am not so pessimistic!</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/predictions-for-2024.html">Predictions for 2024</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/859181888/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/859181888/marginalrevolution,"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/859181888/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/859181888/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/859181888/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/predictions-for-2024.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/predictions-for-2024.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/predictions-for-2024.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/predictions-for-2024.html#comment-160700674">In reply to All rite me luvva.   “So far the 2020s has looked ...</a> <i>by Lord Action</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/predictions-for-2024.html#comment-160700672">and I like Shinzo and Japan</a> <i>by Shinzo was paying Japanese Americans debt of ugly trumpet</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/predictions-for-2024.html#comment-160700671">and eu monarchs can't support gay marriage.</a> <i>by europe can keep the euro and ill keep the dollar</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/predictions-for-2024.html#comment-160700669">>I am not so pessimistic!   Biden voters like yourself have to ...</a> <i>by The Good Bill</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/predictions-for-2024.html#comment-160700666">dna is gonna pay each penny back hiding in that South Koreans ...</a> <i>by wa state minus regular owes more than 1000 pct each don't care if asian or muslim</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/predictions-for-2024.html#comments">Plus 10 more...</a></li></ul></div><h3 style="clear:left;padding-top:10px">Related Stories</h3><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/why-britains-economy-is-failing.html?utm_source=rss&utm_medium=rss&utm_campaign=why-britains-economy-is-failing">Why Britain&#8217;s economy is failing</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/are-cities-for-tourists.html?utm_source=rss&utm_medium=rss&utm_campaign=are-cities-for-tourists">Are cities for tourists or residents?</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/arizona-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=arizona-fact-of-the-day">Arizona fact of the day</a></li></ul>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/859181888/0/marginalrevolution~Predictions-for.html">https://feeds.feedblitz.com/~/859181888/0/marginalrevolution~Predictions-for.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/859181888/0/marginalrevolution~Predictions-for.html">Save to Pocket</a>
+</span>
+
+---
+
+## P&B: Arun Venkatesan
+
+date: 2024-01-05, from: Manu - I write blog
+
+<p>This is the 19th edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Arun Venkatesan and his blog, <a href="https://arun.is" rel="noreferrer" target="_blank">arun.is</a></p>
+<p>Arun was suggested as a potential guest by <a href="https://victorkernes.com" rel="noreferrer" target="_blank">Victor Kernes</a>—who also happen to have a <a href="https://presentable.substack.com" rel="noreferrer" target="_blank">lovely newsletter</a> focused on style, menswear, and fashion—and the suggestion was spot on.</p>
+<p>To follow this series <a href="https://peopleandblogs.com" rel="noreferrer" target="_blank">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<hr />
+<div class="q"><p><strong>Let&#039;s start from the basics: can you introduce yourself?</strong></p></div>
+<div class="a"><p>I was born in Dallas, Texas to two Indian immigrants. My mom owns her own businesses and my dad is a Computer Science Professor. I grew up surrounded by children whose parents are in IT fields. Unsurprisingly, computers became a strong part of my identity.</p>
+<p>I went to school at Columbia University in New York to study Electrical Engineering thinking I wanted to get into consumer electronics. I learned EE was not for me and took a software engineering job after graduating. I kept working my way up the stack, eventually becoming a designer.</p>
+<p>I’ve worked exclusively at startups, including as a cofounder at Carrot Fertility.</p>
+<p>When I’m not working, I like to take photographs, travel with my wife and two kids, run, bike, and write.</p></div>
+<div class="q"><p><strong>What&#039;s the story behind your blog?</strong></p></div>
+<div class="a"><p>I grew up reading blogs as a teenager in the 00s. I loved how each blog could be vastly different, unlike more standardized mediums like books. I always had the idea in the back of my mind of starting one of my own.</p>
+<p>I briefly wrote for a technology blog, where I learned that professional writing in a newsroom wasn’t for me. So, I started a simple Wordpress blog where I life blogged like one of my influences, <a href="https://dannychoo.com/en" rel="noreferrer" target="_blank">Danny Choo</a>.</p>
+<p>I eventually abandoned that blog <a href="https://arun.is/blog/japan-transformation/" rel="noreferrer" target="_blank">on a trip to Japan that was a major turning point in my life</a>.</p>
+<p>This current blog started as a playground for front end tools. Since I built it from the ground up, unlike the earlier Wordpress one, I felt more motivation to develop it and poured more and more time into it. Design and technology naturally became the focus.</p>
+<p>Some influences are Andrew Kim’s now defunct Minimally Minimal, <a href="https://craigmod.com/" rel="noreferrer" target="_blank">Craig Mod</a>, <a href="https://repponen.com/" rel="noreferrer" target="_blank">Anton Repponen</a>, <a href="https://julian.digital/" rel="noreferrer" target="_blank">julian.digital</a>, <a href="https://maggieappleton.com/" rel="noreferrer" target="_blank">Maggie Appleton</a>, and <a href="https://paulstamatiou.com/" rel="noreferrer" target="_blank">Paul Stamitiou</a>.</p></div>
+<div class="q"><p><strong>What does your creative process look like when it comes to blogging?</strong></p></div>
+<div class="a"><p>Most of my ideas come up when I’m out and about, especially when I’m running. I run along the same path every day. I find that movement in a familiar environment allows me to tune out everything else. Somehow, connections between ideas magically start to happen in this frame of mind.</p>
+<p>I add all new ideas into a long list I keep in Notion. Adding it to the list seems to turn vague thoughts into an idea that then persists and bounces around my head. When something seems clear enough to write about, I start delving in.</p>
+<p>Some posts require a lot of research. In these cases, I use Readwise for capturing highlights from books and articles, Figjam for organizing thoughts on a canvas, and Notion if I need structured data.</p>
+<p>I often write using Otter.ai for speech to text while taking a walk. This is especially helpful when I feel a lot of <a href="https://en.wikipedia.org/wiki/Resistance_(creativity)" rel="noreferrer" target="_blank">Resistance</a>.</p>
+<p>My wife reads all my drafts. She points out places where a non-native English speaker may have trouble and where I use too much jargon.</p></div>
+<div class="q"><p><strong>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</strong></p></div>
+<div class="a"><p>I’m a big believer in the influence of environment on creativity. I’ve learned over time the effects that things like smell, temperature, and visual appearance of a space can have on my mood and creative impulses.</p>
+<p>I have a <a href="https://arun.is/blog/evolution-desk-setup/" rel="noreferrer" target="_blank">desk setup</a> that I find essential, especially when editing photos or writing. Having a space that I know by feel lowers friction and makes the process feel much smoother.</p>
+<p>Sometimes, though, I feel stuck after spending too much time at my desk. In these cases, I like working out of the Apple Park Visitor Center. It’s kind of like a cafe within an Apple Store.</p></div>
+<div class="q"><p><strong>A question for the techie readers: can you run us through your tech stack?</strong></p></div>
+<div class="a"><p>The blog has gone through many iterations over time while sticking to the same repo. Currently, the site is built using Gatsby, React, and Tailwind. Posts are written in MDX. Type is set in Inter and IBM Plex Mono. I use Plausible for analytics.</p>
+<p>I have a handful of scripts and tools that speed up specific parts of my blogging workflow. One example is a tool that turns a directory of images into markup including EXIF information like aperture, shutter speed, etc. I’ve been writing even more tools now with the help of LLMs.</p>
+<p>I write my drafts in Obsidian and copy them over to my repo. I edit code in VSCode.</p>
+<p>Photos have been shot on a variety of cameras, though I mostly use the Leica CL digital camera these days. I process them in a Lightroom with a set of custom presets.</p>
+<p>I design the site and draw graphics in Figma.</p>
+<p>The site is hosted on Netlify.</p>
+<p>I use Mailchimp for my newsletter.</p></div>
+<div class="q"><p><strong>Given your experience, if you were to start a blog today, would you do anything differently?</strong></p></div>
+<div class="a"><p>The main change I would make (which I still may make in the future) is to not use Gatsby, and stick with something simpler. I have found Gatsby to be more trouble than it is worth. For example, my build times out on cloud services like Netlify and Vercel. Hence, I manually deploy and don’t get the advantage of automatic deploys.</p></div>
+<div class="q"><p><strong>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what&#039;s your position on people monetising personal blogs?</strong></p></div>
+<div class="a"><p>Per month, I pay $19 for Netlify, $19 for Plausible Analytics, $12 for Vimeo video hosting, $19.99 for Lightroom and Photoshop, and $20 for Figma. My Domain is €34.90 a year. I will soon start paying for Mailchimp once I hit my maximum of 2000 free subscribers. Altogether that’s about $90 a month.</p>
+<p>I currently make a tiny bit of money from affiliate links on my review and desk setup posts. These cover some of the monthly fees. I’m considering setting up a membership program in the far future, but I don’t mind losing money on the blog since I consider it a hobby.</p>
+<p>I also don’t mind when creators charge for their writing, especially if it is done thoughtfully like Craig Mod and Ben Thompson. I support a dozen or so people at the moment.</p></div>
+<div class="q"><p><strong>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</strong></p></div>
+<div class="a"><p>Aside from the blogs I mentioned earlier, I’d check out <a href="https://aegir.org/" rel="noreferrer" target="_blank">Aegir.org</a>, <a href="https://www.gingerbeardman.com/" rel="noreferrer" target="_blank">Matt Sephton</a>, <a href="https://arslan.io/" rel="noreferrer" target="_blank">Faith Arslan</a>, <a href="https://frantic.im/blog/" rel="noreferrer" target="_blank">frantic.im</a>.</p></div>
+<div class="q"><p><strong>Final question: is there anything you want to share with us?</strong></p></div>
+<div class="a"><p>I’m making a product recommendation site called <a href="http://zenofthings.com/" rel="noreferrer" target="_blank">zen of things</a>. It’s a bit like Wirecutter, but with a focus on good design instead of price. Check it out and provide feedback if you like well designed objects!</p></div>
+<hr />
+<p>This was the 19th edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Arun. Make sure to <a href="https://arun.is/blog/" rel="noreferrer" target="_blank">follow his blog</a> (<a href="https://arun.is/rss.xml" rel="noreferrer" target="_blank">RSS</a>) and get in touch with him if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale" rel="noreferrer" target="_blank">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com" rel="noreferrer" target="_blank">official site</a> of the newsletter.</p>
+<ul>
+<li><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>)</li>
+<li><a href="https://some.studio">Piet Terheyden</a></li>
+<li><a href="https://minim.blog">Raul Montala</a> (<a href="https://minim.blog/index.xml">RSS</a>)</li>
+<li>Eleonora</li>
+<li><a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>)</li>
+<li><a href="https://steveledlow.com">Steve Ledlow</a></li>
+<li>Paolo Ruggeri</li>
+<li><a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>)</li>
+<li><a href="https://robhope.com">Rob Hope</a></li>
+<li><a href="https://chrishannah.me">Chris Hannah</a> (<a href="view-source:https://chrishannah.me/index.xml">RSS</a>)</li>
+<li><a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>)</li>
+<li><a href="https://jeremysarber.com/">Jeremy Sarber</a> (<a href="https://jeremysarber.com/feed.rss">RSS</a>)</li>
+<li><a href="https://colinwalker.blog">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>)</li>
+<li><a href="https://softlandings.world/">Sixian Lim</a></li>
+<li><a href="https://mattstein.com/">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>)</li>
+<li><a href="https://winnielim.org/">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>)</li>
+<li><a href="http://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>)</li>
+<li><a href="https://amitgawande.com">Amit Gawande</a> (<a href="https://www.amitgawande.com/feed/">RSS</a>)</li>
+<li><a href="https://skyhold.org">C Jackdaw</a></li>
+<li><a href="https://tiv.today">Kevin</a> (<a href="https://tiv.today/feed.rss">RSS</a>)</li>
+<li><a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>)</li>
+<li><a href="https://rosalindcroad.com/">Rosalind Croad</a></li>
+<li><a href="https://frankmeeuwsen.com/">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>)</li>
+<li><a href="https://www.elmikewalsh.com/">Mike Walsh</a></li>
+<li><a href="https://www.josemunozmatos.com/">Jose Munoz</a> (<a href="https://www.josemunozmatos.com/feeds">RSS</a>)</li>
+<li><a href="https://www.byzero.de/">Markus Heurung</a></li>
+</ul>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale" rel="noreferrer" target="_blank">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/DvVxOEcwE8gGVRnJ">https://manuelmoreale.com/@/page/DvVxOEcwE8gGVRnJ</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/DvVxOEcwE8gGVRnJ">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Views a Vast Galactic Neighborhood
+
+date: 2024-01-05, from: NASA breaking news
+
+This image from the NASA/ESA Hubble Space Telescope features a richness of spiral galaxies: the large, prominent spiral galaxy on the right side of the image is NGC 1356; the two apparently smaller spiral galaxies flanking it are LEDA 467699 (above it) and LEDA 95415 (very close at its left) respectively; and finally, IC 1947 sits along the […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/hubble-views-a-vast-galactic-neighborhood/">https://science.nasa.gov/missions/hubble/hubble-views-a-vast-galactic-neighborhood/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/hubble-views-a-vast-galactic-neighborhood/">Save to Pocket</a>
+</span>
+
+---
+
+## Code archaeologist digs up oldest known ancestor of MS-DOS
+
+date: 2024-01-05, updated: 2024-01-05, from: Liam Proven's articles at the Register
+
+<h4>86-DOS version 0.1-C found and archived – all nine files of it</h4>
+      <p>An intrepid code archaeologist has found and uploaded an early ancestor of what became MS-DOS, which later sparked the IBM PC-compatible computer industry.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/05/oldest_ancestor_of_msdos_recovered/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/05/oldest_ancestor_of_msdos_recovered/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/05/oldest_ancestor_of_msdos_recovered/">Save to Pocket</a>
+</span>
+
+---
+
+## How to build a Pico-powered Hull Pixelbot
+
+date: 2024-01-05, from: Raspberry Pi News (.com)
+
+<p>Make a Pico-powered pixel packing robot you can program from your browser in ‘Python-ish’. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/how-to-build-a-pico-powered-hull-pixelbot/">How to build a Pico-powered Hull Pixelbot</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/how-to-build-a-pico-powered-hull-pixelbot/">https://www.raspberrypi.com/news/how-to-build-a-pico-powered-hull-pixelbot/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/how-to-build-a-pico-powered-hull-pixelbot/">Save to Pocket</a>
+</span>
+
+---
+
+## *You Will Not Stampede Me: Essays on Non-Conformism*
+
+date: 2024-01-05, from: Marginal Revolution blog
+
+<p>That is the new book by my colleague Bryan Caplan, collected largely from his previous blog writings.  Bryan emails to me: I just released a new book of essays on Amazon, entitled *You Will Not Stampede Me: Essays on Non-Conformism*.  Emerson and Thoreau were right: Excessive conformity is a major impediment to living a full [&#8230;]</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/you-will-not-stampede-me-essays-on-non-conformism.html">*You Will Not Stampede Me: Essays on Non-Conformism*</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/859128074/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/859128074/marginalrevolution,"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/859128074/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/859128074/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/859128074/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/you-will-not-stampede-me-essays-on-non-conformism.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/you-will-not-stampede-me-essays-on-non-conformism.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/you-will-not-stampede-me-essays-on-non-conformism.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/you-will-not-stampede-me-essays-on-non-conformism.html#comment-160700668">In reply to joan.   Ask him whether you should obey when he ...</a> <i>by Clay</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/you-will-not-stampede-me-essays-on-non-conformism.html#comment-160700667">“We traditionally use January 1 to turn our lives around. To ...</a> <i>by Clay</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/you-will-not-stampede-me-essays-on-non-conformism.html#comment-160700665">In reply to James.   One position where he is genuinely ...</a> <i>by Crowstep</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/you-will-not-stampede-me-essays-on-non-conformism.html#comment-160700657">All should increase their charitable contributions by $12 vs ...</a> <i>by sk</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/you-will-not-stampede-me-essays-on-non-conformism.html#comment-160700653">In reply to James.   Disagree. The Whole Foods Shoppers are the ...</a> <i>by Ira Gilligan</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/you-will-not-stampede-me-essays-on-non-conformism.html#comments">Plus 10 more...</a></li></ul></div><h3 style="clear:left;padding-top:10px">Related Stories</h3><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/what-should-i-ask-jonathan-haidt-2.html?utm_source=rss&utm_medium=rss&utm_campaign=what-should-i-ask-jonathan-haidt-2">What should I ask Jonathan Haidt?</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-everything-token.html?utm_source=rss&utm_medium=rss&utm_campaign=the-everything-token">The Everything Token</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/molly.html?utm_source=rss&utm_medium=rss&utm_campaign=molly">*Molly*</a></li></ul>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/859128074/0/marginalrevolution~You-Will-Not-Stampede-Me-Essays-on-NonConformism.html">https://feeds.feedblitz.com/~/859128074/0/marginalrevolution~You-Will-Not-Stampede-Me-Essays-on-NonConformism.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/859128074/0/marginalrevolution~You-Will-Not-Stampede-Me-Essays-on-NonConformism.html">Save to Pocket</a>
+</span>
+
+---
+
+## My podcast with Brink Lindsey
+
+date: 2024-01-05, from: Marginal Revolution blog
+
+<p>He is starting a new podcast and I am perhaps the first episode?  There is video and text and audio.  Here is an excerpt: Lindsey: Did they recognize early on that you were different and that they had a job to do to push you, or no? Cowen: Well, my father thought I was weird, so he [&#8230;]</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/my-podcast-with-brink-lindsey.html">My podcast with Brink Lindsey</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/859118612/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/859118612/marginalrevolution,"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/859118612/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/859118612/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/859118612/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/my-podcast-with-brink-lindsey.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/my-podcast-with-brink-lindsey.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/my-podcast-with-brink-lindsey.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/my-podcast-with-brink-lindsey.html#comment-160700655">In reply to The truth is Tyler likes the smell of his own ...</a> <i>by no boundaries</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/my-podcast-with-brink-lindsey.html#comment-160700654">In reply to The truth is Tyler likes the smell of his own ...</a> <i>by Basically agree</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/my-podcast-with-brink-lindsey.html#comment-160700630">“Bergen County libraries”   Grew up in Bergen County, the ...</a> <i>by Aladdin</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/my-podcast-with-brink-lindsey.html#comment-160700626">I enjoyed the podcast and subscribed to the substack. Thank you ...</a> <i>by Steve</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/my-podcast-with-brink-lindsey.html#comment-160700622">Tyler thinks he’s something special and interviews people who ...</a> <i>by The truth is Tyler likes the smell of his own farts</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/my-podcast-with-brink-lindsey.html#comments">Plus 6 more...</a></li></ul></div><h3 style="clear:left;padding-top:10px">Related Stories</h3><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-economics-of-dinosaur-brand-names.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-dinosaur-brand-names">The economics of dinosaur brand names</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/cultural-values-and-productivity.html?utm_source=rss&utm_medium=rss&utm_campaign=cultural-values-and-productivity">Cultural Values and Productivity</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/a-city-not-a-museum.html?utm_source=rss&utm_medium=rss&utm_campaign=a-city-not-a-museum">A City Not a Museum</a></li></ul>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/859118612/0/marginalrevolution~My-podcast-with-Brink-Lindsey.html">https://feeds.feedblitz.com/~/859118612/0/marginalrevolution~My-podcast-with-Brink-Lindsey.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/859118612/0/marginalrevolution~My-podcast-with-Brink-Lindsey.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -171,6 +518,21 @@ date: 2024-01-04, updated: 2024-01-04, from: Jason Kottke blog
 
 <span class="feed-item-link">
 <a href="https://kottke.org/24/01/what-can-i-do-about-the-climate-emergency">https://kottke.org/24/01/what-can-i-do-about-the-climate-emergency</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/what-can-i-do-about-the-climate-emergency">Save to Pocket</a>
+</span>
+
+---
+
+## Dept. of Uh-Oh
+
+date: 2024-01-04, from: Marginal Revolution blog
+
+<p>So pleased to see my paper out in the BU Law Review! This paper surveys 50+ years of randomized control trials in criminal justice and shows that almost no interventions have lasting benefit &#8212; and the ones that do don&#39;t replicate in other settings. 1/ https://t.co/xIvIcCseGL pic.twitter.com/Duj4ybbbS6 &#8212; Megan Stevenson (@MeganTStevenson) January 2, 2024</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/dept-of-uh-oh.html">Dept. of Uh-Oh</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/858852788/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/858852788/marginalrevolution,"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/858852788/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/858852788/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/858852788/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/dept-of-uh-oh.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/dept-of-uh-oh.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/dept-of-uh-oh.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/dept-of-uh-oh.html#comment-160700676">In reply to A genuinely racist person.   Oddly enough a lot of ...</a> <i>by Hazel Meade</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/dept-of-uh-oh.html#comment-160700673">In reply to surfie.   This is sort of a pathetically useless ...</a> <i>by Hazel Meade</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/dept-of-uh-oh.html#comment-160700647">In reply to Pshrnk.   This will lower the crime rate, but it's ...</a> <i>by albatross</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/dept-of-uh-oh.html#comment-160700643">In reply to Old Programmer.   Yeah, street crime is a young ...</a> <i>by albatross</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/dept-of-uh-oh.html#comment-160700642">In reply to PHinton.   Just make crime not pay, and you will ...</a> <i>by albatross</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/dept-of-uh-oh.html#comments">Plus 10 more...</a></li></ul></div><h3 style="clear:left;padding-top:10px">Related Stories</h3><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/why-britains-economy-is-failing.html?utm_source=rss&utm_medium=rss&utm_campaign=why-britains-economy-is-failing">Why Britain&#8217;s economy is failing</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-everything-token.html?utm_source=rss&utm_medium=rss&utm_campaign=the-everything-token">The Everything Token</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/are-cities-for-tourists.html?utm_source=rss&utm_medium=rss&utm_campaign=are-cities-for-tourists">Are cities for tourists or residents?</a></li></ul>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/858852788/0/marginalrevolution~Dept-of-UhOh.html">https://feeds.feedblitz.com/~/858852788/0/marginalrevolution~Dept-of-UhOh.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/858852788/0/marginalrevolution~Dept-of-UhOh.html">Save to Pocket</a>
 </span>
 
 ---
@@ -436,6 +798,36 @@ date: 2024-01-04, updated: 2024-01-04, from: Jason Kottke blog
 
 ---
 
+## Thursday assorted links
+
+date: 2024-01-04, from: Marginal Revolution blog
+
+<p>1. Jeffrey Paller 19 books to read on Africa. 2. Making the micropipette. 3. Miss America supports nuclear power. 4. &#8220;We found that living standards generally predicted and temporally preceded variations of romantic love in the Early Modern Period.&#8221; 5. Why is the Dominican Republican incumbent popular? 6. Very good Douthat column on higher education [&#8230;]</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/thursday-assorted-links-434.html">Thursday assorted links</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/858773717/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/858773717/marginalrevolution,"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/858773717/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/858773717/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/858773717/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/thursday-assorted-links-434.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/thursday-assorted-links-434.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/thursday-assorted-links-434.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/thursday-assorted-links-434.html#comment-160700656">In reply to Mark Bahner.   It's pretty funny that “The Good ...</a> <i>by Mark Bahner</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/thursday-assorted-links-434.html#comment-160700645">In reply to andrew97.   “To be fair, you routinely generate ...</a> <i>by Mark Bahner</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/thursday-assorted-links-434.html#comment-160700634">In reply to RAD.   The North American nuclear industry needs to ...</a> <i>by Mark Bahner</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/thursday-assorted-links-434.html#comment-160700633">In reply to Dinwar.   > Your comment boils down to “Science ...</a> <i>by PHinton</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/thursday-assorted-links-434.html#comment-160700590">In reply to Doug.   If you like engineering, check out ...</a> <i>by Dinwar</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/thursday-assorted-links-434.html#comments">Plus 10 more...</a></li></ul></div>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/858773717/0/marginalrevolution~Thursday-assorted-links.html">https://feeds.feedblitz.com/~/858773717/0/marginalrevolution~Thursday-assorted-links.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/858773717/0/marginalrevolution~Thursday-assorted-links.html">Save to Pocket</a>
+</span>
+
+---
+
+## What should I ask Jonathan Haidt?
+
+date: 2024-01-04, from: Marginal Revolution blog
+
+<p>Yes, I will be doing another Conversation with him.  Here is my previous Conversation with him, almost eight years ago.  As many of you will know, Jonathan has a new book coming out, namely The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness.  But there is much more [&#8230;]</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/what-should-i-ask-jonathan-haidt-2.html">What should I ask Jonathan Haidt?</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/858758414/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/858758414/marginalrevolution,"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/858758414/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/858758414/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/858758414/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/what-should-i-ask-jonathan-haidt-2.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/what-should-i-ask-jonathan-haidt-2.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/what-should-i-ask-jonathan-haidt-2.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/what-should-i-ask-jonathan-haidt-2.html#comment-160700571">In reply to Standard.   I have two daughters aged 11 and 14. ...</a> <i>by Mike in Va</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/what-should-i-ask-jonathan-haidt-2.html#comment-160700569">In reply to Jukka.   I don't think it is anywhere close to ...</a> <i>by Mike in Va</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/what-should-i-ask-jonathan-haidt-2.html#comment-160700516">In reply to kavu.   Straw man here, surely?   Ukraine isn't ...</a> <i>by wormbridge</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/what-should-i-ask-jonathan-haidt-2.html#comment-160700512">In reply to Reason.   Is this a reference to how Haidt has ...</a> <i>by M</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/what-should-i-ask-jonathan-haidt-2.html#comment-160700504">In reply to Minnesota Fats.   More topical, or at least more ...</a> <i>by Minnesota Fats</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/what-should-i-ask-jonathan-haidt-2.html#comments">Plus 10 more...</a></li></ul></div><h3 style="clear:left;padding-top:10px">Related Stories</h3><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2023/12/2023-cwt-retrospective-episode.html?utm_source=rss&utm_medium=rss&utm_campaign=2023-cwt-retrospective-episode">2023 CWT retrospective episode</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-everything-token.html?utm_source=rss&utm_medium=rss&utm_campaign=the-everything-token">The Everything Token</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2023/12/late-admissions-confessions-of-a-black-conservative.html?utm_source=rss&utm_medium=rss&utm_campaign=late-admissions-confessions-of-a-black-conservative">*Late Admissions: Confessions of a Black Conservative*</a></li></ul>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/858758414/0/marginalrevolution~What-should-I-ask-Jonathan-Haidt.html">https://feeds.feedblitz.com/~/858758414/0/marginalrevolution~What-should-I-ask-Jonathan-Haidt.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/858758414/0/marginalrevolution~What-should-I-ask-Jonathan-Haidt.html">Save to Pocket</a>
+</span>
+
+---
+
 ##  Paul Hollywood & Prue Leith Judge the Best American Snacks 
 
 date: 2024-01-04, updated: 2024-01-04, from: Jason Kottke blog
@@ -594,6 +986,36 @@ date: 2024-01-04, from: Raspberry Pi News (.com)
 
 ---
 
+## Why Britain’s economy is failing
+
+date: 2024-01-04, from: Marginal Revolution blog
+
+<p>In the past five years, the number of applications to connect to the electricity grid — many of them for solar energy generation and storage — has increased tenfold, with waits of up to 15 years. The underinvestment is restricting the flow of cheap energy from Scottish wind farms to population centers in England and adding to [&#8230;]</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/why-britains-economy-is-failing.html">Why Britain&#8217;s economy is failing</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/858541064/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/858541064/marginalrevolution,"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/858541064/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/858541064/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/858541064/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/why-britains-economy-is-failing.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/why-britains-economy-is-failing.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/why-britains-economy-is-failing.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/why-britains-economy-is-failing.html#comment-160700531">In reply to Heedless.   Offering a competing analogy; Brexit ...</a> <i>by M</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/why-britains-economy-is-failing.html#comment-160700528">In reply to Scoop.   If you mean that the MPs from parties are ...</a> <i>by M</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/why-britains-economy-is-failing.html#comment-160700511">In reply to Jon.   They don't even call themselves that, so ...</a> <i>by M</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/why-britains-economy-is-failing.html#comment-160700479">“… waits of up to 15 years.” That’s a maximum.   In the ...</a> <i>by Rebes</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/why-britains-economy-is-failing.html#comment-160700420">In reply to Ben.   Google Pay Work $45ooo Are you finding work ...</a> <i>by Anne</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/why-britains-economy-is-failing.html#comments">Plus 10 more...</a></li></ul></div><h3 style="clear:left;padding-top:10px">Related Stories</h3><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2023/12/uber-and-traffic-fatalities.html?utm_source=rss&utm_medium=rss&utm_campaign=uber-and-traffic-fatalities">Uber and Traffic Fatalities</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/are-cities-for-tourists.html?utm_source=rss&utm_medium=rss&utm_campaign=are-cities-for-tourists">Are cities for tourists or residents?</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/arizona-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=arizona-fact-of-the-day">Arizona fact of the day</a></li></ul>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/858541064/0/marginalrevolution~Why-Britains-economy-is-failing.html">https://feeds.feedblitz.com/~/858541064/0/marginalrevolution~Why-Britains-economy-is-failing.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/858541064/0/marginalrevolution~Why-Britains-economy-is-failing.html">Save to Pocket</a>
+</span>
+
+---
+
+## The rate of return on exercise
+
+date: 2024-01-04, from: Marginal Revolution blog
+
+<p>These are illustrative numbers, not definitive estimates: Let’s make some base-case assumptions. The most important assumptions are: A 50 year old male who doesn’t exercise can expect to live to age 80 That same male who puts in 8 hours per week of exercise can expect to live to age 88. We will measure investment [&#8230;]</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-rate-of-return-on-exercise.html">The rate of return on exercise</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/858499031/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/858499031/marginalrevolution,"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/858499031/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/858499031/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/858499031/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-rate-of-return-on-exercise.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-rate-of-return-on-exercise.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-rate-of-return-on-exercise.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-rate-of-return-on-exercise.html#comment-160700529">In reply to Marshall.   Kirkegaard’s Fifth Law of Behavioral ...</a> <i>by Allonda</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-rate-of-return-on-exercise.html#comment-160700498">In reply to Todd K.   I find it hard to imagine how it is ...</a> <i>by Widmerpool</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-rate-of-return-on-exercise.html#comment-160700421">In reply to Moral Panic.   Google Pay Work $45ooo Are you ...</a> <i>by Anne</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-rate-of-return-on-exercise.html#comment-160700356">In reply to Gert Daza.   Perhaps, but with a feedback loop you ...</a> <i>by Sure</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-rate-of-return-on-exercise.html#comment-160700349">In reply to Jess Riedel.   Yes, but we also end up with the ...</a> <i>by Sure</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-rate-of-return-on-exercise.html#comments">Plus 10 more...</a></li></ul></div><h3 style="clear:left;padding-top:10px">Related Stories</h3><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-economics-of-dinosaur-brand-names.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-dinosaur-brand-names">The economics of dinosaur brand names</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/cultural-values-and-productivity.html?utm_source=rss&utm_medium=rss&utm_campaign=cultural-values-and-productivity">Cultural Values and Productivity</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/arizona-fact-of-the-day.html?utm_source=rss&utm_medium=rss&utm_campaign=arizona-fact-of-the-day">Arizona fact of the day</a></li></ul>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/858499031/0/marginalrevolution~The-rate-of-return-on-exercise.html">https://feeds.feedblitz.com/~/858499031/0/marginalrevolution~The-rate-of-return-on-exercise.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/858499031/0/marginalrevolution~The-rate-of-return-on-exercise.html">Save to Pocket</a>
+</span>
+
+---
+
 ## Maestro: UNIX-like kernel and operating system written in Rust, compatible-ish with Linux
 
 date: 2024-01-04, from: OS News
@@ -638,6 +1060,18 @@ github.com/sneakers-the...
 
 <span class="feed-item-link">
 <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3ki4kcbhvdo2a">https://bsky.app/profile/rsdoiel.bsky.social/post/3ki4kcbhvdo2a</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/rsdoiel.bsky.social/post/3ki4kcbhvdo2a">Save to Pocket</a>
+</span>
+
+---
+
+## The World’s Most Famous Mouse Joins the Public Domain
+
+date: 2024-01-04, from: Internet Archive Blog
+
+This year we are welcoming many works from 1928 into the U.S. public domain (books, movies, images, etc.), as well as recorded sound from 1923. Some of the big events [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.archive.org/2024/01/04/the-worlds-most-famous-mouse-joins-the-public-domain/">https://blog.archive.org/2024/01/04/the-worlds-most-famous-mouse-joins-the-public-domain/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.archive.org/2024/01/04/the-worlds-most-famous-mouse-joins-the-public-domain/">Save to Pocket</a>
 </span>
 
 ---
@@ -828,7 +1262,7 @@ Fernando Silva: I have been on the lookout for a 3-in-1 charging station for my 
 
 date: 2024-01-03, from: Michael Tsai
 
-Gitea (Hacker New): With just a few clicks, you can easily deploy your own Gitea instance on Gitea Cloud. Our team will handle all the maintenance, including backups, upgrades, and more. This allows you to focus on business development without worrying about operational issues. [&#8230;] By using dedicated infrastructure, you don't have to worry about [&#8230;]
+Gitea (Hacker News): With just a few clicks, you can easily deploy your own Gitea instance on Gitea Cloud. Our team will handle all the maintenance, including backups, upgrades, and more. This allows you to focus on business development without worrying about operational issues. [&#8230;] By using dedicated infrastructure, you don't have to worry about [&#8230;]
 
 <span class="feed-item-link">
 <a href="https://mjtsai.com/blog/2024/01/03/gitea-cloud/">https://mjtsai.com/blog/2024/01/03/gitea-cloud/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/03/gitea-cloud/">Save to Pocket</a>
@@ -856,6 +1290,21 @@ Sindre Sorhus (Hacker News): Seems like Sketch is back on the App Store, after l
 
 <span class="feed-item-link">
 <a href="https://mjtsai.com/blog/2024/01/03/sketch-returns-to-the-mac-app-store/">https://mjtsai.com/blog/2024/01/03/sketch-returns-to-the-mac-app-store/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/03/sketch-returns-to-the-mac-app-store/">Save to Pocket</a>
+</span>
+
+---
+
+## *Forgotten Creators*
+
+date: 2024-01-03, from: Marginal Revolution blog
+
+<p>The subtitle is How German-Speaking Scientists and Engineers Invented the Modern World, And What We Can Learn from Them .  This is a 5501 (!) pp. work, published on-line.  I haven&#8217;t read it yet.  By Todd H. Rider.  It&#8217;s probably good.</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/forgotten-creators.html">*Forgotten Creators*</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/858214337/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/858214337/marginalrevolution,"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/858214337/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/858214337/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/858214337/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/forgotten-creators.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/forgotten-creators.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/forgotten-creators.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/forgotten-creators.html#comment-160700472">In reply to mkt42.   When I studied Russian linguistics we ...</a> <i>by Reply to mkt 42</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/forgotten-creators.html#comment-160700360">In reply to murmur.   What is your ethnic background?   Let the ...</a> <i>by Pray tell...</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/forgotten-creators.html#comment-160700326">In reply to rayward.   What on earth are you talking about? You ...</a> <i>by Mark Z</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/forgotten-creators.html#comment-160700278">In reply to rayward.   What to make of the U.S. government's ...</a> <i>by Ricardo</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/forgotten-creators.html#comment-160700267">In reply to dearieme.   My recollection is that until the 1980s ...</a> <i>by mkt42</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/forgotten-creators.html#comments">Plus 10 more...</a></li></ul></div><h3 style="clear:left;padding-top:10px">Related Stories</h3><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-economics-of-dinosaur-brand-names.html?utm_source=rss&utm_medium=rss&utm_campaign=the-economics-of-dinosaur-brand-names">The economics of dinosaur brand names</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2023/12/why-france-is-underrated.html?utm_source=rss&utm_medium=rss&utm_campaign=why-france-is-underrated">Why France is underrated</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-everything-token.html?utm_source=rss&utm_medium=rss&utm_campaign=the-everything-token">The Everything Token</a></li></ul>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/858214337/0/marginalrevolution~Forgotten-Creators.html">https://feeds.feedblitz.com/~/858214337/0/marginalrevolution~Forgotten-Creators.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/858214337/0/marginalrevolution~Forgotten-Creators.html">Save to Pocket</a>
 </span>
 
 ---
@@ -904,6 +1353,21 @@ date: 2024-01-03, updated: 2024-01-03, from: Jason Kottke blog
 
 <span class="feed-item-link">
 <a href="https://kottke.org/24/01/13-year-old-becomes-first-to-beat-nes-tetris">https://kottke.org/24/01/13-year-old-becomes-first-to-beat-nes-tetris</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/13-year-old-becomes-first-to-beat-nes-tetris">Save to Pocket</a>
+</span>
+
+---
+
+## Wednesday assorted links
+
+date: 2024-01-03, from: Marginal Revolution blog
+
+<p>1. The logic of American vs. Japanese ghost stories. 2. Paul Krugman on the economics of slavery (NYT). 3. The Year in Interintellect. 4. Casey Handmer on Elon Musk. 5. Nils Karlson open-access book on classical liberalism vs. populism.  The book is very much on the mark and I was happy to blurb it. 6. [&#8230;]</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/wednesday-assorted-links-434.html">Wednesday assorted links</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/858124811/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/858124811/marginalrevolution,"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/858124811/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/858124811/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/858124811/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/wednesday-assorted-links-434.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/wednesday-assorted-links-434.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/wednesday-assorted-links-434.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/wednesday-assorted-links-434.html#comment-160700451">In reply to steve.   There are commies under every bed, and the ...</a> <i>by Hang on, Steve</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/wednesday-assorted-links-434.html#comment-160700449">In reply to EdR.   Maybe there has always been an enormous ...</a> <i>by On the other hand</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/wednesday-assorted-links-434.html#comment-160700448">In reply to Mr. Econotarian.   It has a lilt to and and might ...</a> <i>by Penitrate Into the Heartland</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/wednesday-assorted-links-434.html#comment-160700342">In reply to Marian Kechlibar.   Isn't it just culturally ...</a> <i>by M</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/wednesday-assorted-links-434.html#comment-160700231">In reply to PHinton.   “Krugman fails to explain why poor ...</a> <i>by Boonton</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/wednesday-assorted-links-434.html#comments">Plus 10 more...</a></li></ul></div>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/858124811/0/marginalrevolution~Wednesday-assorted-links.html">https://feeds.feedblitz.com/~/858124811/0/marginalrevolution~Wednesday-assorted-links.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/858124811/0/marginalrevolution~Wednesday-assorted-links.html">Save to Pocket</a>
 </span>
 
 ---
@@ -1030,6 +1494,21 @@ As fanfare blares, female sprinters at the starting line suspiciously eye a man 
 
 ---
 
+## The Everything Token
+
+date: 2024-01-03, from: Marginal Revolution blog
+
+<p>If you want to understand NFTs and where they are going, The Everything Token by web entrepreneur Steve Kaczynski and Harvard Business school professor Scott Duke Kominers is by far the best guide. Kaczynski and Kominers emphasize that NFTs are more than deeds to digital art they are an ideal way to create communities. Community [&#8230;]</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-everything-token.html">The Everything Token</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/857792927/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/857792927/marginalrevolution,https%3a%2f%2fmarginalrevolution.com%2fwp-content%2fuploads%2f2023%2f12%2fEverything-Token.jpg"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/857792927/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/857792927/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/857792927/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-everything-token.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-everything-token.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-everything-token.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-everything-token.html#comment-160700210">Good lord, who is paying Alex for this?</a> <i>by ckb</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-everything-token.html#comment-160700157">In reply to EU Resident.   Indeed, although I'm still not sure ...</a> <i>by Vulcidian</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-everything-token.html#comment-160700150">In reply to Sure.   Blockchain doesn't really solve the trust ...</a> <i>by Agammamon</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-everything-token.html#comment-160700148">In reply to Jukka.   Supply chains are 'hacked' by inputting ...</a> <i>by Agammamon</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-everything-token.html#comment-160700144">In reply to Jummmy.   Because it automates the process.</a> <i>by Agammamon</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-everything-token.html#comments">Plus 10 more...</a></li></ul></div><h3 style="clear:left;padding-top:10px">Related Stories</h3><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2023/12/toothpick-producers-violate-nyt-copyright.html?utm_source=rss&utm_medium=rss&utm_campaign=toothpick-producers-violate-nyt-copyright">Toothpick producers violate NYT copyright</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/molly.html?utm_source=rss&utm_medium=rss&utm_campaign=molly">*Molly*</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/are-cities-for-tourists.html?utm_source=rss&utm_medium=rss&utm_campaign=are-cities-for-tourists">Are cities for tourists or residents?</a></li></ul>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/857792927/0/marginalrevolution~The-Everything-Token.html">https://feeds.feedblitz.com/~/857792927/0/marginalrevolution~The-Everything-Token.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/857792927/0/marginalrevolution~The-Everything-Token.html">Save to Pocket</a>
+</span>
+
+---
+
 ## NASA Invites You to X-59 Rollout Watch Party
 
 date: 2024-01-03, from: NASA breaking news
@@ -1065,6 +1544,21 @@ date: 2024-01-03, from: Raspberry Pi News (.com)
 
 <span class="feed-item-link">
 <a href="https://www.raspberrypi.com/news/togo-hospital-employs-raspberry-pi-400-as-a-thin-client/">https://www.raspberrypi.com/news/togo-hospital-employs-raspberry-pi-400-as-a-thin-client/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/togo-hospital-employs-raspberry-pi-400-as-a-thin-client/">Save to Pocket</a>
+</span>
+
+---
+
+## *Molly*
+
+date: 2024-01-03, from: Marginal Revolution blog
+
+<p>That is the new book by Blake Butler, a memoir.  It is no spoiler to tell you that his wife Molly takes her own life at a young age.  I don&#8217;t know of any better argument for social conservatism than this book.  And perhaps suicide should be regarded as a sin, not something to get [&#8230;]</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/molly.html">*Molly*</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/857675624/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/857675624/marginalrevolution,"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/857675624/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/857675624/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/857675624/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/molly.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/molly.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/molly.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/molly.html#comment-160700675">In reply to Mark Bahner.   I wish there was editing in this ...</a> <i>by Mark Bahner</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/molly.html#comment-160700670">In reply to Human Conditioner.   The mind of God is only hidden ...</a> <i>by Mark Bahner</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/molly.html#comment-160700405">Should we treat suicide as a sin because treating masturbation ...</a> <i>by rsm</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/molly.html#comment-160699848">In reply to PHinton.   You can criticize him on these grounds, ...</a> <i>by M</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/molly.html#comment-160699822">In reply to Tom T..   Perceiving yourself as a victim is the ...</a> <i>by surfie</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/molly.html#comments">Plus 10 more...</a></li></ul></div><h3 style="clear:left;padding-top:10px">Related Stories</h3><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/what-ive-been-reading-247.html?utm_source=rss&utm_medium=rss&utm_campaign=what-ive-been-reading-247">What I&#8217;ve been reading</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2023/12/my-goat-podcast-with-robert-murphy.html?utm_source=rss&utm_medium=rss&utm_campaign=my-goat-podcast-with-robert-murphy">My GOAT podcast with Robert Murphy</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2023/12/2023-cwt-retrospective-episode.html?utm_source=rss&utm_medium=rss&utm_campaign=2023-cwt-retrospective-episode">2023 CWT retrospective episode</a></li></ul>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/857675624/0/marginalrevolution~Molly.html">https://feeds.feedblitz.com/~/857675624/0/marginalrevolution~Molly.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/857675624/0/marginalrevolution~Molly.html">Save to Pocket</a>
 </span>
 
 ---
@@ -1130,6 +1624,33 @@ date: 2024-01-03, from: Manu - I write blog
 
 <span class="feed-item-link">
 <a href="https://manuelmoreale.com/@/page/9ySjx3UbapdId1mz">https://manuelmoreale.com/@/page/9ySjx3UbapdId1mz</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/9ySjx3UbapdId1mz">Save to Pocket</a>
+</span>
+
+---
+
+## Are cities for tourists or residents?
+
+date: 2024-01-03, from: Marginal Revolution blog
+
+<p>And at what margin? A new ideological struggle is brewing, yet we have not yet recognized it as such.  The question is to what extent cities are for tourists, or for their current residents.  Here is a report from Vermont: A Vermont town known for its autumn foliage has closed its roads to the public [&#8230;]</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/are-cities-for-tourists.html">Are cities for tourists or residents?</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/857559128/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/857559128/marginalrevolution,"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/857559128/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/857559128/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/857559128/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/are-cities-for-tourists.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/are-cities-for-tourists.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/are-cities-for-tourists.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/are-cities-for-tourists.html#comment-160700473">You have built a beautiful house. Other ppl want to tour it. ...</a> <i>by foobar</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/are-cities-for-tourists.html#comment-160700469">In reply to M.   A city for tourists == Disneyland</a> <i>by foobar</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/are-cities-for-tourists.html#comment-160700316">Bloomberg article (3 Oct 2023) on the dramatic Japan Rail Pass ...</a> <i>by Another Valley mope</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/are-cities-for-tourists.html#comment-160700056">I went on a mediterranean cruises recently (planned by somebody ...</a> <i>by Viktor</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/are-cities-for-tourists.html#comment-160700015">In reply to Lawyer.   Has anyone sued the on-line booking firm ...</a> <i>by Mark Miller</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/are-cities-for-tourists.html#comments">Plus 10 more...</a></li></ul></div><h3 style="clear:left;padding-top:10px">Related Stories</h3><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2023/12/uber-and-traffic-fatalities.html?utm_source=rss&utm_medium=rss&utm_campaign=uber-and-traffic-fatalities">Uber and Traffic Fatalities</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2023/12/u-s-high-skilled-immigration.html?utm_source=rss&utm_medium=rss&utm_campaign=u-s-high-skilled-immigration">U.S. high-skilled immigration</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2023/12/the-sullivan-signal-harvards-failure-to-educate-and-the-path-to-ideological-governance.html?utm_source=rss&utm_medium=rss&utm_campaign=the-sullivan-signal-harvards-failure-to-educate-and-the-path-to-ideological-governance">The Sullivan Signal: Harvard&#8217;s Failure to Educate and the Abandonment of Principle</a></li></ul>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/857559128/0/marginalrevolution~Are-cities-for-tourists-or-residents.html">https://feeds.feedblitz.com/~/857559128/0/marginalrevolution~Are-cities-for-tourists-or-residents.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/857559128/0/marginalrevolution~Are-cities-for-tourists-or-residents.html">Save to Pocket</a>
+</span>
+
+---
+
+## 2024/01/03 DARPA Moves Forward on X-65 Technology Demonstrator
+
+date: 2024-01-03, from: Darpa News
+
+<div style="float:left"><img title="DARPA Moves Forward on X-65 Technology Demonstrator" alt="DARPA Moves Forward on X-65 Technology Demonstrator" src="https://www.darpa.mil/DDM_Gallery/CRANE---Phase3-rendering_619x316_thumb.jpg" border="0"/></div>DARPA has selected Aurora Flight Sciences to build a full-scale X-plane to demonstrate the viability of using active flow control (AFC) actuators for primary flight control. The award is Phase 3 of the Control of Revolutionary Aircraft with Novel Effectors (CRANE) program.
+
+<span class="feed-item-link">
+<a href="https://www.darpa.mil/news-events/2024-01-03">https://www.darpa.mil/news-events/2024-01-03</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.darpa.mil/news-events/2024-01-03">Save to Pocket</a>
 </span>
 
 ---
@@ -1220,6 +1741,21 @@ date: 2024-01-02, updated: 2024-01-02, from: Jason Kottke blog
 
 <span class="feed-item-link">
 <a href="https://kottke.org/24/01/0043713-seriously-i-would-really-">https://kottke.org/24/01/0043713-seriously-i-would-really-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043713-seriously-i-would-really-">Save to Pocket</a>
+</span>
+
+---
+
+## The economics of dinosaur brand names
+
+date: 2024-01-02, from: Marginal Revolution blog
+
+<p>But unlike a full-grown T. rex, which would be about the size of a city bus, this dinosaur was more like the size of a pickup truck. The specimen, which is now listed for sale for $20 million at an art gallery in London, raises a question that has come to obsess paleontologists: Is it simply a [&#8230;]</p>
+<p>The post <a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-economics-of-dinosaur-brand-names.html">The economics of dinosaur brand names</a> appeared first on <a rel="NOFOLLOW" href="https://marginalrevolution.com">Marginal REVOLUTION</a>.</p>
+<div style="clear:both;padding-top:0.2em;"><a title="Like on Facebook" href="https://feeds.feedblitz.com/_/28/857247812/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/fblike20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Pin it!" href="https://feeds.feedblitz.com/_/29/857247812/marginalrevolution,"><img height="20" src="https://assets.feedblitz.com/i/pinterest20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Tweet This" href="https://feeds.feedblitz.com/_/24/857247812/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/twitter20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by email" href="https://feeds.feedblitz.com/_/19/857247812/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/email20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a title="Subscribe by RSS" href="https://feeds.feedblitz.com/_/20/857247812/marginalrevolution"><img height="20" src="https://assets.feedblitz.com/i/rss20.png" style="border:0;margin:0;padding:0;"></a>&#160;<a rel="NOFOLLOW" title="View Comments" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-economics-of-dinosaur-brand-names.html#comments"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/comments20.png"></a>&#160;<a title="Follow Comments via RSS" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-economics-of-dinosaur-brand-names.html/feed"><img height="20" style="border:0;margin:0;padding:0;" src="https://assets.feedblitz.com/i/commentsrss20.png"></a>&nbsp;
+<div style="clear:left;"><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-economics-of-dinosaur-brand-names.html#comments"><h3>Comments</h3></a><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-economics-of-dinosaur-brand-names.html#comment-160699558">In reply to Dinwar.   Heterodontosaurus would be ...</a> <i>by Michael</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-economics-of-dinosaur-brand-names.html#comment-160699431">In reply to mkt42.   Someone on Facebook once posted something ...</a> <i>by Dinwar</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-economics-of-dinosaur-brand-names.html#comment-160699427">In reply to Gridlock.   Komodo dragon. There's no evidence for ...</a> <i>by Dinwar</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-economics-of-dinosaur-brand-names.html#comment-160699315">In reply to Dinwar.   Thanks for your explanation Dinwar. I ...</a> <i>by Gridlock</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-economics-of-dinosaur-brand-names.html#comment-160699314">wa state should have judas road signs and wa state knows thats ...</a> <i>by 1000 trillion wa state gay advocate using nato to force kill the usa gays of Aquarius is wrong</i><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/the-economics-of-dinosaur-brand-names.html#comments">Plus 10 more...</a></li></ul></div><h3 style="clear:left;padding-top:10px">Related Stories</h3><ul><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/a-city-not-a-museum.html?utm_source=rss&utm_medium=rss&utm_campaign=a-city-not-a-museum">A City Not a Museum</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2023/12/my-goat-podcast-with-robert-murphy.html?utm_source=rss&utm_medium=rss&utm_campaign=my-goat-podcast-with-robert-murphy">My GOAT podcast with Robert Murphy</a></li><li><a rel="NOFOLLOW" href="https://marginalrevolution.com/marginalrevolution/2024/01/cultural-values-and-productivity.html?utm_source=rss&utm_medium=rss&utm_campaign=cultural-values-and-productivity">Cultural Values and Productivity</a></li></ul>&#160;</div>
+
+<span class="feed-item-link">
+<a href="https://feeds.feedblitz.com/~/857247812/0/marginalrevolution~The-economics-of-dinosaur-brand-names.html">https://feeds.feedblitz.com/~/857247812/0/marginalrevolution~The-economics-of-dinosaur-brand-names.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://feeds.feedblitz.com/~/857247812/0/marginalrevolution~The-economics-of-dinosaur-brand-names.html">Save to Pocket</a>
 </span>
 
 ---
@@ -1952,6 +2488,18 @@ Here's Gripping News for Mouse Users
 
 ---
 
+## Advent of Computing: Episode 123 - The Jupiter Ace
+
+date: 2024-01-01, from: Tilde.news
+
+<p><a href="https://tilde.news/s/ypdymz/advent_computing_episode_123_jupiter_ace">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://adventofcomputing.libsyn.com/episode-123-the-jupiter-ace">https://adventofcomputing.libsyn.com/episode-123-the-jupiter-ace</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-123-the-jupiter-ace">Save to Pocket</a>
+</span>
+
+---
+
 ## Who’s Counting?
 
 date: 2024-01-01, from: Ayjay blog
@@ -1970,18 +2518,6 @@ I’m not doing an end-of-year roundup of what I’ve written this year, or what
 
 <span class="feed-item-link">
 <a href="https://mastodon.social/@Migueldeicaza/111677985682233513">https://mastodon.social/@Migueldeicaza/111677985682233513</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111677985682233513">Save to Pocket</a>
-</span>
-
----
-
-## Episode 123 - The Jupiter Ace
-
-date: 2024-01-01, from: Advent of Computing
-
-<div class="DraftEditor-paragraphElement" data-block="true" data-editor="8qlun" data-offset-key="22fsn-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="22fsn-0-0"><span data-offset-key= "22fsn-0-0"><span data-text="true">Released in 1982, the Jupiter Ace is a fascinating little computer. It's hardware isn't much to write home about. It's just an 8-bit microcomputer very much in line with other systems of the era. Where it shines is it's software. In a period when most home computer ran some version of BASIC the Ace was using Forth. On the surface that might sound like a trivial difference, but that one deviation from the norm made all the difference in the world.</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="22fsn-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="8qlun" data-offset-key="1dc18-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1dc18-0-0"><span data-offset-key= "1dc18-0-0"><span data-text="true">Selected Sources:</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1dc18-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="8qlun" data-offset-key="5s4nb-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="5s4nb-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://www.theregister.com/2012/09/21/jupiter_cantab_jupiter_ace_is_30_years_old"> <span data-offset-key="5s4nb-0-0"><span data-text= "true">https://www.theregister.com/2012/09/21/jupiter_cantab_jupiter_ace_is_30_years_old</span></span></a> <span data-offset-key="5s4nb-1-0"><span data-text="true">- The Register article on the Ace</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="5s4nb-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="8qlun" data-offset-key="26vo5-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="26vo5-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://jupiter-ace.co.uk/documents_index.html"><span data-offset-key="26vo5-0-0"> <span data-text= "true">https://jupiter-ace.co.uk/documents_index.html</span></span></a> <span data-offset-key="26vo5-1-0"><span data-text="true">- Every other Ace resource you could ever want</span></span></div> </div>
-
-<span class="feed-item-link">
-<a href="https://adventofcomputing.libsyn.com/episode-123-the-jupiter-ace">https://adventofcomputing.libsyn.com/episode-123-the-jupiter-ace</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-123-the-jupiter-ace">Save to Pocket</a>
 </span>
 
 ---

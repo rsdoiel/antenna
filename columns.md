@@ -1,11 +1,62 @@
 ---
 title: columns 2024.01
-updated: 2024-01-04 18:44:09
+updated: 2024-01-05 11:09:27
 ---
 
 # columns 2024.01
 
-(date: 2024-01-04 18:44:09)
+(date: 2024-01-05 11:09:27)
+
+---
+
+## Improving Shor’s Algorithm
+
+date: 2024-01-05, updated: 2023-12-28, from: Bruce Schneier blog
+
+<p>We don&#8217;t have a useful quantum computer yet, but we do have quantum algorithms. Shor&#8217;s algorithm has the potential to factor large numbers faster than otherwise possible, which&#8212;if the run times are actually feasible&#8212;could break both the RSA and Diffie-Hellman public-key algorithms.</p>
+<p>Now, computer scientist Oded Regev has a significant speed-up to Shor&#8217;s algorithm, at the cost of more storage.</p>
+<p>Details are in <a href="https://www.quantamagazine.org/thirty-years-later-a-speed-boost-for-quantum-factoring-20231017/">this article</a>. Here&#8217;s the result:</p>
+<blockquote><p>The improvement was profound. The number of elementary logical steps in the quantum part of Regev&#8217;s algorithm is proportional to ...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/improving-shors-algorithm.html">https://www.schneier.com/blog/archives/2024/01/improving-shors-algorithm.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/improving-shors-algorithm.html">Save to Pocket</a>
+</span>
+
+---
+
+## Report: Trump Businesses Received Millions From ‘Unsavory Regimes’
+
+date: 2024-01-05, from: Dan Rather's Steady
+
+According to a report released by Democrats on the House Oversight Committee, Donald Trump&#8217;s businesses allegedly received millions of dollars from 20 foreign governments, including &#8220;some of the world&#8217;s most unsavory regimes,&#8221; while the former president was in office. The report, &#8220;White House For Sale: How Princes, Prime Ministers, and Premiers Paid Off President Trump
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/report-trump-businesses-received">https://steady.substack.com/p/report-trump-businesses-received</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/report-trump-businesses-received">Save to Pocket</a>
+</span>
+
+---
+
+## How America’s oligarchy has paved the road to fascism (Why American capitalism is so rotten, Part 7)
+
+date: 2024-01-05, from: Robert Reich's blog
+
+Concentrated wealth and power are undermining democracy. Here&#8217;s what Joe Biden ought to be saying and doing about it.
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/the-american-oligarchy-why-is-american">https://robertreich.substack.com/p/the-american-oligarchy-why-is-american</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/the-american-oligarchy-why-is-american">Save to Pocket</a>
+</span>
+
+---
+
+## From the DF Archive: Mobile Phone Keyboards, Circa 2009
+
+date: 2024-01-05, updated: 2024-01-05, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://daringfireball.net/2009/07/mobile_phone_keyboards">https://daringfireball.net/2009/07/mobile_phone_keyboards</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/2009/07/mobile_phone_keyboards">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,49 @@
 ---
 title: writing 2024.01
-updated: 2024-01-04 18:44:09
+updated: 2024-01-05 11:09:27
 ---
 
 # writing 2024.01
 
-(date: 2024-01-04 18:44:09)
+(date: 2024-01-05 11:09:27)
+
+---
+
+## Bertil Falk (1933-2023)
+
+date: 2024-01-05, from: Locus Magazine
+
+<p>Swedish author and translator <strong>BERTIL FALK</strong>, 90, died October 14, 2023 after a long illness.</p>
+<p>I have never known anyone with so much energy as author-publisher-reporter-translator-SF-expert-etc. Bertil Falk. Now this hurricane of a force is no longer with us. His Swedish translationof James Joyce’s ‘‘untranslatable’’ <strong>Finnegans Wake </strong>came out last year, a work of love taking 60-plus years. We also saw his massive, three-volume history of science fiction in  <a href="https://locusmag.com/2024/01/bertil-falk-1933-2023/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/bertil-falk-1933-2023/">https://locusmag.com/2024/01/bertil-falk-1933-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/bertil-falk-1933-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Paula Guran Reviews Weird Horror, Lady Churchill’s Rosebud Wristlet Summer, and Uncanny
+
+date: 2024-01-05, from: Locus Magazine
+
+<p>Weird Horror Fall ’23
+Lady Churchill’s Rosebud Wristlet Summer ’23
+Uncanny 9-10/23</p>
+<p>With its seventh issue, Weird Horror (Fall 2023) has finally hit its stride. All 11 stories are effective, and sever­al are laudable. <strong>Stuart Arthur</strong>’s “<strong>Devil’s Acre</strong>” builds the creep well with the tale of a cruel father who intentionally places his eldest child in supernatural jeopardy. The narrator of “<strong>Cre­tins</strong>” by <strong>Thomas Ha </strong> <a href="https://locusmag.com/2024/01/paula-guran-reviews-weird-horror-lady-churchills-rosebud-wristlet-summer-and-uncanny/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/paula-guran-reviews-weird-horror-lady-churchills-rosebud-wristlet-summer-and-uncanny/">https://locusmag.com/2024/01/paula-guran-reviews-weird-horror-lady-churchills-rosebud-wristlet-summer-and-uncanny/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/paula-guran-reviews-weird-horror-lady-churchills-rosebud-wristlet-summer-and-uncanny/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-05, from: Neil Gaiman @ BlueSky)
+
+Sure -- www.nytimes.com/2024/01/03/a...
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ki7n5youfl24">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ki7n5youfl24</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ki7n5youfl24">Save to Pocket</a>
+</span>
 
 ---
 

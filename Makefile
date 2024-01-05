@@ -28,6 +28,9 @@ html_files = $(addsuffix .html,$(section_names))
 
 build: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind
 
+snapshots: .FORCE
+	cd snapshots && make
+
 website: markdown html archives index.html about.html search.html README.html pagefind
 
 harvest: *.skim

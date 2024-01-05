@@ -1,11 +1,360 @@
 ---
 title: pacific 2024.01
-updated: 2024-01-04 18:44:09
+updated: 2024-01-05 11:09:27
 ---
 
 # pacific 2024.01
 
-(date: 2024-01-04 18:44:09)
+(date: 2024-01-05 11:09:27)
+
+---
+
+## Four Chinese tourists in Palau arrested for suspected homicide of tour guide
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="600" height="894" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/front1.jpg?fit=600%2C894&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/front1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/front1.jpg?resize=201%2C300&amp;ssl=1 201w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/front1.jpg?resize=400%2C596&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/front1.jpg?fit=600%2C894&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67969" data-permalink="https://islandtimes.org/four-chinese-tourists-in-palau-arrested-for-suspected-homicide-of-tour-guide/front1-16/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/front1.jpg?fit=600%2C894&amp;ssl=1" data-orig-size="600,894" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1704205738&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;250&quot;,&quot;shutter_speed&quot;:&quot;0.058823529411765&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="front1" data-image-description="" data-image-caption="&lt;p&gt;Guam Chief Medical Examiner Dr. Jeffrey Nine who conducted autopsy on burned remains.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/front1.jpg?fit=201%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/front1.jpg?fit=600%2C894&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Four Chinese tourists have been arrested in Palau for the suspected homicide of a tour guide, authorities said Thursday. The victim, 37-year-old Peng Li, a Chinese national, was found burned in the Ewall area on December 21st, 2023.&#160; Charges are expected to be filed in court today against the suspects. Three male [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/four-chinese-tourists-in-palau-arrested-for-suspected-homicide-of-tour-guide/">Four Chinese tourists in Palau arrested for suspected homicide of tour guide</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/four-chinese-tourists-in-palau-arrested-for-suspected-homicide-of-tour-guide/">https://islandtimes.org/four-chinese-tourists-in-palau-arrested-for-suspected-homicide-of-tour-guide/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/four-chinese-tourists-in-palau-arrested-for-suspected-homicide-of-tour-guide/">Save to Pocket</a>
+</span>
+
+---
+
+## Rowena ordered deported from Palau for 1st degree theft
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="600" height="809" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/rowena.jpg?fit=600%2C809&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/rowena.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/rowena.jpg?resize=222%2C300&amp;ssl=1 222w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/rowena.jpg?resize=400%2C539&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/rowena.jpg?fit=600%2C809&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67712" data-permalink="https://islandtimes.org/former-employee-of-solar-pacific-corp-charged-with-theft-in-first-degree/rowena/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/rowena.jpg?fit=600%2C809&amp;ssl=1" data-orig-size="600,809" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="rowena" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/rowena.jpg?fit=222%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/12/rowena.jpg?fit=600%2C809&amp;ssl=1" /></figure>
+<p>(Koror, Palau) Palau’s Court accepted the guilty plea agreement Ms. Rowena Cawit, a Philippine national, made with the prosecution, pleading guilty to Theft in the 1st Degree. Ms. Cawit was hired by Utelligence Limited., a parent company of Palau Solar Corporation.&#160; While working for Palau Solar Corp. in Palau, Cawit forged documents, manipulated company payroll [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/rowena-ordered-deported-from-palau-for-1st-degree-theft/">Rowena ordered deported from Palau for 1st degree theft</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/rowena-ordered-deported-from-palau-for-1st-degree-theft/">https://islandtimes.org/rowena-ordered-deported-from-palau-for-1st-degree-theft/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/rowena-ordered-deported-from-palau-for-1st-degree-theft/">Save to Pocket</a>
+</span>
+
+---
+
+## Pacific partnership 24-1 concludes in Palau, Leaving Legacy of Healing and Collaboration
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="900" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/1.jpg?fit=900%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/1.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/1.jpg?resize=300%2C189&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/1.jpg?resize=768%2C484&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/1.jpg?resize=400%2C252&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/1.jpg?resize=706%2C445&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/1.jpg?fit=900%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67973" data-permalink="https://islandtimes.org/pacific-partnership-24-1-concludes-in-palau-leaving-legacy-of-healing-and-collaboration/1-52/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/1.jpg?fit=900%2C567&amp;ssl=1" data-orig-size="900,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1704390820&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/1.jpg?fit=300%2C189&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/1.jpg?fit=780%2C491&amp;ssl=1" /></figure>
+<p>KOROR, Palau (Jan. 4, 2024) – The Pacific Partnership 24-1 mission wrapped up its fourth stop in Palau, leaving behind a trail of medical assistance, strengthened disaster preparedness, and a spirit of regional cooperation before setting sail for Chuuk State in the Federated States of Micronesia. Over the past two weeks, the USNS Mercy, a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pacific-partnership-24-1-concludes-in-palau-leaving-legacy-of-healing-and-collaboration/">Pacific partnership 24-1 concludes in Palau, Leaving Legacy of Healing and Collaboration</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/pacific-partnership-24-1-concludes-in-palau-leaving-legacy-of-healing-and-collaboration/">https://islandtimes.org/pacific-partnership-24-1-concludes-in-palau-leaving-legacy-of-healing-and-collaboration/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/pacific-partnership-24-1-concludes-in-palau-leaving-legacy-of-healing-and-collaboration/">Save to Pocket</a>
+</span>
+
+---
+
+## Building at M-Dock burned to the ground
+
+date: 2024-01-05, from: Island Times
+
+<p>A fire destroyed a dilapidated building on the way to M-Dock near the Courthouse on late Saturday afternoon. The building, once owned by the late Fukiwara Sora Taima, was vacant and was leased out by the children of late Taima.&#160; The fire started in the afternoon and was not extinguished until nearly 11pm. Despite the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/building-at-m-dock-burned-to-the-ground/">Building at M-Dock burned to the ground</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/building-at-m-dock-burned-to-the-ground/">https://islandtimes.org/building-at-m-dock-burned-to-the-ground/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/building-at-m-dock-burned-to-the-ground/">Save to Pocket</a>
+</span>
+
+---
+
+## Former President Dr. Hilda Heine re-elected to lead the Marshall Islands
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="400" height="500" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hilda-Heine.jpg?fit=400%2C500&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hilda-Heine.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hilda-Heine.jpg?resize=240%2C300&amp;ssl=1 240w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hilda-Heine.jpg?fit=400%2C500&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67960" data-permalink="https://islandtimes.org/former-president-dr-hilda-heine-re-elected-to-lead-the-marshall-islands/hilda-heine-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hilda-Heine.jpg?fit=400%2C500&amp;ssl=1" data-orig-size="400,500" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Hilda Heine" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hilda-Heine.jpg?fit=240%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hilda-Heine.jpg?fit=400%2C500&amp;ssl=1" /></figure>
+<p>Dr. Hilda Heine has made a triumphant return to the helm of the Marshall Islands, being re-elected President by the country&#8217;s parliament on January 2, 2024. This marks her second time serving in the highest office, solidifying her position as a trailblazer for women in Marshallese and Micronesian politics. Heine&#8217;s journey to the presidency is [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/former-president-dr-hilda-heine-re-elected-to-lead-the-marshall-islands/">Former President Dr. Hilda Heine re-elected to lead the Marshall Islands</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/former-president-dr-hilda-heine-re-elected-to-lead-the-marshall-islands/">https://islandtimes.org/former-president-dr-hilda-heine-re-elected-to-lead-the-marshall-islands/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/former-president-dr-hilda-heine-re-elected-to-lead-the-marshall-islands/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau flights face January slump as Alii pauses, Lan Mei sits out
+
+date: 2024-01-05, from: Island Times
+
+<p>Koror, Palau – Alii Palau Airlines, linking Palau with Singapore, has temporarily grounded flights until Jan. 28, citing &#8220;operational matters.&#8221; The carrier, previously employing Drukair charters twice weekly, last flew Dec. 14. A letter to Palau&#8217;s Aviation Bureau notified of the suspension and proposed resumption after Jan. 28. Director Glenn Seid attributed the pause to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-flights-face-january-slump-as-alii-pauses-lan-mei-sits-out/">Palau flights face January slump as Alii pauses, Lan Mei sits out</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-flights-face-january-slump-as-alii-pauses-lan-mei-sits-out/">https://islandtimes.org/palau-flights-face-january-slump-as-alii-pauses-lan-mei-sits-out/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-flights-face-january-slump-as-alii-pauses-lan-mei-sits-out/">Save to Pocket</a>
+</span>
+
+---
+
+## BRT Gears Up for Palau GST Wage refunds: $15k earners to get full reimbursement
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="400" height="400" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/mhrctd.jpg?fit=400%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/mhrctd.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/mhrctd.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/mhrctd.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/mhrctd.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/mhrctd.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/mhrctd.jpg?fit=400%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67955" data-permalink="https://islandtimes.org/brt-gears-up-for-palau-gst-wage-refunds-15k-earners-to-get-full-reimbursement/mhrctd-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/mhrctd.jpg?fit=400%2C400&amp;ssl=1" data-orig-size="400,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="mhrctd" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/mhrctd.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/mhrctd.jpg?fit=400%2C400&amp;ssl=1" /></figure>
+<p>Koror, Palau, January 4, 2024 – Palauan citizens earning $15,000 or less in 2023 are set for a windfall, with the Bureau of Revenue and Taxation (BRT) preparing to disburse the first batch of wage and salary tax refunds under the Palau Goods and Services Tax (PGST). Full Reimbursement for Low Earners: Under the PGST [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/brt-gears-up-for-palau-gst-wage-refunds-15k-earners-to-get-full-reimbursement/">BRT Gears Up for Palau GST Wage refunds: $15k earners to get full reimbursement</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/brt-gears-up-for-palau-gst-wage-refunds-15k-earners-to-get-full-reimbursement/">https://islandtimes.org/brt-gears-up-for-palau-gst-wage-refunds-15k-earners-to-get-full-reimbursement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/brt-gears-up-for-palau-gst-wage-refunds-15k-earners-to-get-full-reimbursement/">Save to Pocket</a>
+</span>
+
+---
+
+## PPUC collaborates with Aimeliik community for dam cleaning
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="1" height="1" src="https://islandtimes.org/wp-content/uploads/2024/01/PPUC-collaborates-with-Aimeliik-.tif" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67952" data-permalink="https://islandtimes.org/ppuc-collaborates-with-aimeliik-community-for-dam-cleaning/ppuc-collaborates-with-aimeliik/" data-orig-file="https://islandtimes.org/wp-content/uploads/2024/01/PPUC-collaborates-with-Aimeliik-.tif" data-orig-size="" data-comments-opened="1" data-image-meta="[]" data-image-title="PPUC collaborates with Aimeliik" data-image-description="" data-image-caption="" data-medium-file="https://islandtimes.org/wp-content/uploads/2024/01/PPUC-collaborates-with-Aimeliik-.tif" data-large-file="https://islandtimes.org/wp-content/uploads/2024/01/PPUC-collaborates-with-Aimeliik-.tif" /></figure>
+<p>As part of our ongoing commitment to sustainability and responsible water management, the PPUC water operations collaborated with several Aimeliik legislators and community for comprehensive cleaning of the dam in Mongami, Aimeliik on December 16, 2023. The work consisted of removing sediments inside the dam to ensure maximum water capacity and prevent high turbidity. They [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ppuc-collaborates-with-aimeliik-community-for-dam-cleaning/">PPUC collaborates with Aimeliik community for dam cleaning</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/ppuc-collaborates-with-aimeliik-community-for-dam-cleaning/">https://islandtimes.org/ppuc-collaborates-with-aimeliik-community-for-dam-cleaning/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/ppuc-collaborates-with-aimeliik-community-for-dam-cleaning/">Save to Pocket</a>
+</span>
+
+---
+
+## PALAU brings home Tourism Award for
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="1024" height="819" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PressRelease_DRTShow2023.jpg?fit=1024%2C819&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PressRelease_DRTShow2023.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PressRelease_DRTShow2023.jpg?resize=300%2C240&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PressRelease_DRTShow2023.jpg?resize=1024%2C819&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PressRelease_DRTShow2023.jpg?resize=768%2C614&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PressRelease_DRTShow2023.jpg?resize=1200%2C960&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PressRelease_DRTShow2023.jpg?resize=400%2C320&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PressRelease_DRTShow2023.jpg?resize=706%2C565&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PressRelease_DRTShow2023.jpg?fit=1024%2C819&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67949" data-permalink="https://islandtimes.org/palau-brings-home-tourism-award-for/pressrelease_drtshow2023/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PressRelease_DRTShow2023.jpg?fit=1249%2C999&amp;ssl=1" data-orig-size="1249,999" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PressRelease_DRTShow2023" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PressRelease_DRTShow2023.jpg?fit=300%2C240&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PressRelease_DRTShow2023.jpg?fit=780%2C624&amp;ssl=1" /></figure>
+<p>Best Ecological Dive-DRT SHOW 2023 in Hong Kong The Hong Kong Diving &#38; Resort Travel Expo (DRT Show) serves as a comprehensive showcase of diverse destinations, underwater adventures, resort accommodations, and travel services. From unveiling the hidden gems of underwater exploration to highlighting luxurious resorts nestled in stunning locales, this expo caters to the interests [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-brings-home-tourism-award-for/">PALAU brings home Tourism Award for</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-brings-home-tourism-award-for/">https://islandtimes.org/palau-brings-home-tourism-award-for/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-brings-home-tourism-award-for/">Save to Pocket</a>
+</span>
+
+---
+
+## PICRC and TNC formalize their close partnership with the signing of an MOU
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="1024" height="676" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rs2500_DSC_1242.jpg?fit=1024%2C676&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rs2500_DSC_1242.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rs2500_DSC_1242.jpg?resize=300%2C198&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rs2500_DSC_1242.jpg?resize=1024%2C676&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rs2500_DSC_1242.jpg?resize=768%2C507&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rs2500_DSC_1242.jpg?resize=1200%2C792&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rs2500_DSC_1242.jpg?resize=400%2C264&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rs2500_DSC_1242.jpg?resize=706%2C466&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rs2500_DSC_1242.jpg?fit=1024%2C676&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67945" data-permalink="https://islandtimes.org/picrc-and-tncformalize-their-close-partnership-with-the-signing-of-an-mou/rs2500_dsc_1242/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rs2500_DSC_1242.jpg?fit=1249%2C824&amp;ssl=1" data-orig-size="1249,824" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="rs2500_DSC_1242" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rs2500_DSC_1242.jpg?fit=300%2C198&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rs2500_DSC_1242.jpg?fit=780%2C515&amp;ssl=1" /></figure>
+<p>On November 22, 2023, the Palau International Coral Reef Center (PICRC) and The Nature Conservancy (TNC), formalized their long and fruitful partnership with the signing of a Memorandum of Understanding (MOU).  The MOU brings PICRC, a national organization, and TNC, an international NGO, together to work in partnership to support Palau’s ocean conservation and management. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-and-tncformalize-their-close-partnership-with-the-signing-of-an-mou/">PICRC and TNC formalize their close partnership with the signing of an MOU</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/picrc-and-tncformalize-their-close-partnership-with-the-signing-of-an-mou/">https://islandtimes.org/picrc-and-tncformalize-their-close-partnership-with-the-signing-of-an-mou/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/picrc-and-tncformalize-their-close-partnership-with-the-signing-of-an-mou/">Save to Pocket</a>
+</span>
+
+---
+
+## Let the Science Talk: the Safety of ALPS Treated Water in Fukushima
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67940" data-permalink="https://islandtimes.org/let-the-science-talk-the-safety-of-alps-treated-water-in-fukushima/alps-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="ALPS" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/ALPS.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>Having read about the Senate Joint Resolution No. 11-43 expressing “the disapproval and disappointment” on the release of the treated water at Tokyo Electric Power Company (TEPCO)’s Fukushima Daiichi Nuclear Power Station (FDNPS), I would like to take a moment again to provide science-based explanation on Japan’s efforts on this matter. First, the water being [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/let-the-science-talk-the-safety-of-alps-treated-water-in-fukushima/">Let the Science Talk: the Safety of ALPS Treated Water in Fukushima </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/let-the-science-talk-the-safety-of-alps-treated-water-in-fukushima/">https://islandtimes.org/let-the-science-talk-the-safety-of-alps-treated-water-in-fukushima/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/let-the-science-talk-the-safety-of-alps-treated-water-in-fukushima/">Save to Pocket</a>
+</span>
+
+---
+
+## BOG receives National Recognition with Multiple Marcom Awards
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="1024" height="731" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/BankofGuam_2023MarComAwards_GroupPhoto.jpg?fit=1024%2C731&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/BankofGuam_2023MarComAwards_GroupPhoto.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/BankofGuam_2023MarComAwards_GroupPhoto.jpg?resize=300%2C214&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/BankofGuam_2023MarComAwards_GroupPhoto.jpg?resize=1024%2C731&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/BankofGuam_2023MarComAwards_GroupPhoto.jpg?resize=768%2C548&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/BankofGuam_2023MarComAwards_GroupPhoto.jpg?resize=1200%2C857&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/BankofGuam_2023MarComAwards_GroupPhoto.jpg?resize=400%2C286&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/BankofGuam_2023MarComAwards_GroupPhoto.jpg?resize=706%2C504&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/BankofGuam_2023MarComAwards_GroupPhoto.jpg?fit=1024%2C731&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67936" data-permalink="https://islandtimes.org/bog-receives-national-recognition-with-multiple-marcom-awards/bankofguam_2023marcomawards_groupphoto/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/BankofGuam_2023MarComAwards_GroupPhoto.jpg?fit=1249%2C892&amp;ssl=1" data-orig-size="1249,892" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;6.3&quot;,&quot;credit&quot;:&quot;HbField(c)2023&quot;,&quot;camera&quot;:&quot;NIKON D750&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1701189349&quot;,&quot;copyright&quot;:&quot;hbfield(c)2023&quot;,&quot;focal_length&quot;:&quot;38&quot;,&quot;iso&quot;:&quot;3200&quot;,&quot;shutter_speed&quot;:&quot;0.0125&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="BankofGuam_2023MarComAwards_GroupPhoto" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/BankofGuam_2023MarComAwards_GroupPhoto.jpg?fit=300%2C214&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/BankofGuam_2023MarComAwards_GroupPhoto.jpg?fit=780%2C557&amp;ssl=1" /></figure>
+<p>Hagåtña, Guam &#8211; Bank of Guam is proud to announce that they have received six MarCom Awards, an internationally recognized competition celebrating excellence in marketing and communications. With over 6,500 entries from across the globe, Bank of Guam has stood out, securing awards in several categories. This year&#8217;s competition saw entries from various organizations, ranging [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bog-receives-national-recognition-with-multiple-marcom-awards/">BOG receives National Recognition with Multiple Marcom Awards</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/bog-receives-national-recognition-with-multiple-marcom-awards/">https://islandtimes.org/bog-receives-national-recognition-with-multiple-marcom-awards/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/bog-receives-national-recognition-with-multiple-marcom-awards/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Weathers 2023’s Perfect Storm: A Year of High Prices, Mixed Recovery, and Uncertain Hope
+
+date: 2024-01-05, from: Island Times
+
+<p>&#8220;2023 was a tough year for Palau. Inflation ate away at everyone&#8217;s wallets, especially those of us just trying to get by. The government&#8217;s attempts to fix things felt like band-aids on a broken arm. We need real solutions, not just more taxes and military visits. It&#8217;s time for our leaders to listen to the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-weathers-2023s-perfect-storm-a-year-of-high-prices-mixed-recovery-and-uncertain-hope/">Palau Weathers 2023&#8217;s Perfect Storm: A Year of High Prices, Mixed Recovery, and Uncertain Hope</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-weathers-2023s-perfect-storm-a-year-of-high-prices-mixed-recovery-and-uncertain-hope/">https://islandtimes.org/palau-weathers-2023s-perfect-storm-a-year-of-high-prices-mixed-recovery-and-uncertain-hope/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-weathers-2023s-perfect-storm-a-year-of-high-prices-mixed-recovery-and-uncertain-hope/">Save to Pocket</a>
+</span>
+
+---
+
+## As China flexes its military muscles, everyday citizens in Taiwan are preparing for war
+
+date: 2024-01-05, from: Island Times
+
+<p>By East Asia correspondent Kathleen Calderwood and West Matteeussen in Taiwan (ABC Australia) When Taiwanese microchip mogul Robert Tsao announced his latest multi-million-dollar venture, he made a bold promise to safeguard his homeland and the future of civilisation. Donning a bulletproof vest, the 76-year-old entrepreneur&#160;unveiled his plan to train 3.3 million &#8220;civilian warriors&#8221; to defend against a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/as-china-flexes-its-military-muscles-everyday-citizens-in-taiwan-are-preparing-for-war/">As China flexes its military muscles, everyday citizens in Taiwan are preparing for war</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/as-china-flexes-its-military-muscles-everyday-citizens-in-taiwan-are-preparing-for-war/">https://islandtimes.org/as-china-flexes-its-military-muscles-everyday-citizens-in-taiwan-are-preparing-for-war/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/as-china-flexes-its-military-muscles-everyday-citizens-in-taiwan-are-preparing-for-war/">Save to Pocket</a>
+</span>
+
+---
+
+## FSM and Japan strengthen bilateral ties and collaborate on regional security initiatives
+
+date: 2024-01-05, from: Island Times
+
+<p>TOKYO (JAPAN GOVT/PACNEWS) &#8212;Japan&#8217;s Minister for Foreign Affairs, has met with Lorin S. Robert, Secretary of the Department of Foreign Affairs of the Federated States of Micronesia (FSM), Thursday. The meeting included a working lunch and a ceremony for signing notes pertaining to the provision of infrastructure equipment under the Grant Assistance Economic and Social [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/fsm-and-japan-strengthen-bilateral-ties-and-collaborate-on-regional-security-initiatives/">FSM and Japan strengthen bilateral ties and collaborate on regional security initiatives</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/fsm-and-japan-strengthen-bilateral-ties-and-collaborate-on-regional-security-initiatives/">https://islandtimes.org/fsm-and-japan-strengthen-bilateral-ties-and-collaborate-on-regional-security-initiatives/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/fsm-and-japan-strengthen-bilateral-ties-and-collaborate-on-regional-security-initiatives/">Save to Pocket</a>
+</span>
+
+---
+
+## Search presses on for earthquake survivors as Japan grieves the lives lost
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="1024" height="651" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Search-presses-on.jpg?fit=1024%2C651&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Search-presses-on.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Search-presses-on.jpg?resize=300%2C191&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Search-presses-on.jpg?resize=1024%2C651&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Search-presses-on.jpg?resize=768%2C488&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Search-presses-on.jpg?resize=400%2C254&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Search-presses-on.jpg?resize=706%2C449&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Search-presses-on.jpg?fit=1024%2C651&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67927" data-permalink="https://islandtimes.org/search-presses-on-for-earthquake-survivors-as-japan-grieves-the-lives-lost/japan-earthquake-photo-gallerry/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Search-presses-on.jpg?fit=1200%2C763&amp;ssl=1" data-orig-size="1200,763" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;Smoke rises from the site of a fire occurred following an earthquake in Wajima, Ishikawa prefecture, Japan Tuesday, Jan. 2, 2024. (Kyodo News via AP)&quot;,&quot;created_timestamp&quot;:&quot;1704180545&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Japan Earthquake Photo Gallerry&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Japan Earthquake Photo Gallerry" data-image-description="" data-image-caption="&lt;p&gt;Smoke rises from the site of a fire occurred following an earthquake in Wajima, Ishikawa prefecture, Japan Tuesday, Jan. 2, 2024. (Kyodo News via AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Search-presses-on.jpg?fit=300%2C191&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Search-presses-on.jpg?fit=780%2C496&amp;ssl=1" /></figure>
+<p>SUZU, Japan (AP) — Rescuers searched the rubble of collapsed homes in western Japan on Wednesday in the hopes of finding survivors of this week&#8217;s earthquake, which killed dozens of people. The&#160;magnitude 7.6 temblor&#160;Monday, which has had many aftershocks, rocked the Ishikawa prefecture and the surrounding area, toppling thousands of buildings, sparking fires and setting off [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/search-presses-on-for-earthquake-survivors-as-japan-grieves-the-lives-lost/">Search presses on for earthquake survivors as Japan grieves the lives lost</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/search-presses-on-for-earthquake-survivors-as-japan-grieves-the-lives-lost/">https://islandtimes.org/search-presses-on-for-earthquake-survivors-as-japan-grieves-the-lives-lost/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/search-presses-on-for-earthquake-survivors-as-japan-grieves-the-lives-lost/">Save to Pocket</a>
+</span>
+
+---
+
+## More hospitals are requiring masks as flu and COVID-19 cases surge
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/More-hospitals.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/More-hospitals.jpg?w=1890&amp;ssl=1 1890w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/More-hospitals.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/More-hospitals.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/More-hospitals.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/More-hospitals.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/More-hospitals.jpg?resize=1200%2C801&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/More-hospitals.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/More-hospitals.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/More-hospitals.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/More-hospitals.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67924" data-permalink="https://islandtimes.org/more-hospitals-are-requiring-masks-as-flu-and-covid-19-cases-surge/winter-viruses/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/More-hospitals.jpg?fit=1890%2C1261&amp;ssl=1" data-orig-size="1890,1261" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;iPhone 11 Pro&quot;,&quot;caption&quot;:&quot;Frank Cope waits outside for a car after a checkup at Bellevue Hospital in New York on Wednesday, Jan. 3, 2023. The previous week, New York City resumed a mask mandate for the city\u2019s 11 public hospitals. (AP Photo\/Mary Conlon)&quot;,&quot;created_timestamp&quot;:&quot;1704289176&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.25&quot;,&quot;iso&quot;:&quot;80&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;Winter Viruses&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Winter Viruses" data-image-description="" data-image-caption="&lt;p&gt;Frank Cope waits outside for a car after a checkup at Bellevue Hospital in New York on Wednesday, Jan. 3, 2023. The previous week, New York City resumed a mask mandate for the city’s 11 public hospitals. (AP Photo/Mary Conlon)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/More-hospitals.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/More-hospitals.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By MIKE STOBBE AP Medical Writer NEW YORK (AP) — More U.S. hospitals are requiring masks and limiting visitors as health officials face an expected but still nasty post-holiday spike in flu, COVID-19 and other illnesses. While many experts say this season likely won’t prove to be as deadly as some other recent winters, it [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/more-hospitals-are-requiring-masks-as-flu-and-covid-19-cases-surge/">More hospitals are requiring masks as flu and COVID-19 cases surge</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/more-hospitals-are-requiring-masks-as-flu-and-covid-19-cases-surge/">https://islandtimes.org/more-hospitals-are-requiring-masks-as-flu-and-covid-19-cases-surge/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/more-hospitals-are-requiring-masks-as-flu-and-covid-19-cases-surge/">Save to Pocket</a>
+</span>
+
+---
+
+## Brock Purdy, Tua Tagovailoa were selected to their 1st Pro Bowl as the starting quarterbacks
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Brock-Purdy.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Brock-Purdy.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Brock-Purdy.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Brock-Purdy.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Brock-Purdy.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Brock-Purdy.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Brock-Purdy.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Brock-Purdy.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Brock-Purdy.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67921" data-permalink="https://islandtimes.org/brock-purdy-tua-tagovailoa-were-selected-to-their-1st-pro-bowl-as-the-starting-quarterbacks/tua-tagovailoa-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Brock-Purdy.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Miami Dolphins quarterback Tua Tagovailoa speaks during. News conference after an NFL football game against the Dallas Cowboys, Sunday, Dec. 24, 2023, in Miami Gardens, Fla. (AP Photo\/Rebecca Blackwell)&quot;,&quot;created_timestamp&quot;:&quot;1703465067&quot;,&quot;copyright&quot;:&quot;Copyright 2023 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;5000&quot;,&quot;shutter_speed&quot;:&quot;0.001&quot;,&quot;title&quot;:&quot;Tua Tagovailoa&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Tua Tagovailoa" data-image-description="" data-image-caption="&lt;p&gt;Miami Dolphins quarterback Tua Tagovailoa speaks during. News conference after an NFL football game against the Dallas Cowboys, Sunday, Dec. 24, 2023, in Miami Gardens, Fla. (AP Photo/Rebecca Blackwell)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Brock-Purdy.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Brock-Purdy.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By ROB MAADDI AP Pro Football Writer Brock Purdy and Tua Tagovailoa were selected to their first Pro Bowl as the starting quarterbacks for their respective conferences. It’s the first time the two starting QBs are first-time picks since the 1999 season when Pro Football Hall of Famers Peyton Manning and Kurt Warner were chosen. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/brock-purdy-tua-tagovailoa-were-selected-to-their-1st-pro-bowl-as-the-starting-quarterbacks/">Brock Purdy, Tua Tagovailoa were selected to their 1st Pro Bowl as the starting quarterbacks</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/brock-purdy-tua-tagovailoa-were-selected-to-their-1st-pro-bowl-as-the-starting-quarterbacks/">https://islandtimes.org/brock-purdy-tua-tagovailoa-were-selected-to-their-1st-pro-bowl-as-the-starting-quarterbacks/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/brock-purdy-tua-tagovailoa-were-selected-to-their-1st-pro-bowl-as-the-starting-quarterbacks/">Save to Pocket</a>
+</span>
+
+---
+
+## The NBA’s wild night: 5 teams score 140 points, 4 teams score 130 in losses
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-NBA.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-NBA.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-NBA.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-NBA.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-NBA.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-NBA.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-NBA.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-NBA.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-NBA.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67918" data-permalink="https://islandtimes.org/the-nbas-wild-night-5-teams-score-140-points-4-teams-score-130-in-losses/kris-dunnjalen-duren/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-NBA.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;ILCE-9M2&quot;,&quot;caption&quot;:&quot;Utah Jazz guard Kris Dunn (11) and Detroit Pistons center Jalen Duren (0) battle for a loose ball during the first half of an NBA basketball game Wednesday, Jan. 3, 2024, in Salt Lake City. (AP Photo\/Rick Bowmer)&quot;,&quot;created_timestamp&quot;:&quot;1704315127&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;6400&quot;,&quot;shutter_speed&quot;:&quot;0.0005&quot;,&quot;title&quot;:&quot;Kris Dunn,Jalen Duren&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Kris Dunn,Jalen Duren" data-image-description="" data-image-caption="&lt;p&gt;Utah Jazz guard Kris Dunn (11) and Detroit Pistons center Jalen Duren (0) battle for a loose ball during the first half of an NBA basketball game Wednesday, Jan. 3, 2024, in Salt Lake City. (AP Photo/Rick Bowmer)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-NBA.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-NBA.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By TIM REYNOLDS AP Basketball Writer There had never been a day in NBA history where five teams all scored at least 140 points. And there had never been a day where the league saw four teams all score at least 130 points in losses. That is, until Wednesday — when both events happened. Mark [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-nbas-wild-night-5-teams-score-140-points-4-teams-score-130-in-losses/">The NBA&#8217;s wild night: 5 teams score 140 points, 4 teams score 130 in losses</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/the-nbas-wild-night-5-teams-score-140-points-4-teams-score-130-in-losses/">https://islandtimes.org/the-nbas-wild-night-5-teams-score-140-points-4-teams-score-130-in-losses/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/the-nbas-wild-night-5-teams-score-140-points-4-teams-score-130-in-losses/">Save to Pocket</a>
+</span>
+
+---
+
+## Morant scores 26, dunks on Wembanyama as Grizzlies pull away from Spurs for a 106-98 win
+
+date: 2024-01-05, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Morant-scores.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Morant-scores.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Morant-scores.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Morant-scores.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Morant-scores.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Morant-scores.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Morant-scores.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="67915" data-permalink="https://islandtimes.org/morant-scores-26-dunks-on-wembanyama-as-grizzlies-pull-away-from-spurs-for-a-106-98-win/ja-morant-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Morant-scores.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.5&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;NIKON D850&quot;,&quot;caption&quot;:&quot;Memphis Grizzlies guard Ja Morant (12) hangs from the rim after dunking against the San Antonio Spurs in the second half of an NBA basketball game Tuesday, Jan. 2, 2024, in Memphis, Tenn. (AP Photo\/Brandon Dill)&quot;,&quot;created_timestamp&quot;:&quot;1704229224&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;2000&quot;,&quot;shutter_speed&quot;:&quot;0.001&quot;,&quot;title&quot;:&quot;Ja Morant&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Ja Morant" data-image-description="" data-image-caption="&lt;p&gt;Memphis Grizzlies guard Ja Morant (12) hangs from the rim after dunking against the San Antonio Spurs in the second half of an NBA basketball game Tuesday, Jan. 2, 2024, in Memphis, Tenn. (AP Photo/Brandon Dill)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Morant-scores.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Morant-scores.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>CLAY BAILEY Associated Press MEMPHIS, Tenn. (AP) — Ja Morant had 26 points, 10 assists and a fourth-quarter&#160;dunk over Victor Wembanyama, Desmond Bane added 24 points and the Memphis Grizzlies used a second-half spurt to beat the San Antonio Spurs 106-98 on Tuesday night. Santi Aldama added 13 points and 11 rebounds for Memphis, which [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/morant-scores-26-dunks-on-wembanyama-as-grizzlies-pull-away-from-spurs-for-a-106-98-win/">Morant scores 26, dunks on Wembanyama as Grizzlies pull away from Spurs for a 106-98 win</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/morant-scores-26-dunks-on-wembanyama-as-grizzlies-pull-away-from-spurs-for-a-106-98-win/">https://islandtimes.org/morant-scores-26-dunks-on-wembanyama-as-grizzlies-pull-away-from-spurs-for-a-106-98-win/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/morant-scores-26-dunks-on-wembanyama-as-grizzlies-pull-away-from-spurs-for-a-106-98-win/">Save to Pocket</a>
+</span>
+
+---
+
+##  Guam Republicans back Trump's appeal of Colorado ruling 
+
+date: 2024-01-05, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam Republicans today supported their national counterparts’ brief filing with the U.S. Supreme Court...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/guam-republicans-back-trump-s-appeal-of-colorado-ruling">https://www.pacificislandtimes.com/post/guam-republicans-back-trump-s-appeal-of-colorado-ruling</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/guam-republicans-back-trump-s-appeal-of-colorado-ruling">Save to Pocket</a>
+</span>
+
+---
+
+## Google must bargain with YouTube worker union, US labor board rules
+
+date: 2024-01-05, updated: 2024-01-05, from: Marianas Variety
+
+(Reuters) — Alphabet Inc's Google violated U.S. labor law by refusing to bargain with a union representing contract workers for YouTube Music, a federal agency has ruled.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/business_news/google-must-bargain-with-youtube-worker-union-us-labor-board-rules/article_497dff7a-ab96-11ee-a968-d3e6aabbe2e1.html">https://www.mvariety.com/business/business_news/google-must-bargain-with-youtube-worker-union-us-labor-board-rules/article_497dff7a-ab96-11ee-a968-d3e6aabbe2e1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/business_news/google-must-bargain-with-youtube-worker-union-us-labor-board-rules/article_497dff7a-ab96-11ee-a968-d3e6aabbe2e1.html">Save to Pocket</a>
+</span>
+
+---
+
+## SpaceX sues US agency that accused it of firing workers critical of Elon Musk
+
+date: 2024-01-05, updated: 2024-01-05, from: Marianas Variety
+
+(Reuters) — SpaceX on Thursday sued a U.S. labor board that had accused the rocket and satellite maker of illegally firing employees who sent a letter to company executives calling CEO Elon Musk "a distraction and embarrassment."
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/business_news/spacex-sues-us-agency-that-accused-it-of-firing-workers-critical-of-elon-musk/article_07789130-ab96-11ee-8697-af0dd574d3ea.html">https://www.mvariety.com/business/business_news/spacex-sues-us-agency-that-accused-it-of-firing-workers-critical-of-elon-musk/article_07789130-ab96-11ee-8697-af0dd574d3ea.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/business_news/spacex-sues-us-agency-that-accused-it-of-firing-workers-critical-of-elon-musk/article_07789130-ab96-11ee-8697-af0dd574d3ea.html">Save to Pocket</a>
+</span>
+
+---
+
+## Combat readiness amid Guam's unstable power supply
+
+date: 2024-01-05, updated: 2024-01-05, from: Marianas Variety
+
+PALIKIR, Pohnpei (Pacific Island Times) — The stability of the power supply on Guam is crucial to the military’s combat readiness. However, the current predicament of the Guam Power Authority’s infrastructure leaves the military in a precarious situation.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/combat-readiness-amid-guams-unstable-power-supply/article_986c70aa-ab94-11ee-9b2f-2316dc94ed4f.html">https://www.mvariety.com/news/combat-readiness-amid-guams-unstable-power-supply/article_986c70aa-ab94-11ee-9b2f-2316dc94ed4f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/combat-readiness-amid-guams-unstable-power-supply/article_986c70aa-ab94-11ee-9b2f-2316dc94ed4f.html">Save to Pocket</a>
+</span>
 
 ---
 

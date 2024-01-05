@@ -1,11 +1,71 @@
 ---
 title: games 2024.01
-updated: 2024-01-04 18:44:09
+updated: 2024-01-05 11:09:27
 ---
 
 # games 2024.01
 
-(date: 2024-01-04 18:44:09)
+(date: 2024-01-05 11:09:27)
+
+---
+
+## Halo will finish the fight on tabletops in 2024
+
+date: 2024-01-05, updated: 2024-01-05, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24026720/halo-miniatures-game-mantic-announcement-release-date-price">https://www.polygon.com/24026720/halo-miniatures-game-mantic-announcement-release-date-price</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24026720/halo-miniatures-game-mantic-announcement-release-date-price">Save to Pocket</a>
+</span>
+
+---
+
+## Arcane season 2 is adding a big bad wolf, and seemingly confirming a tragic fan theory
+
+date: 2024-01-05, updated: 2024-01-05, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24026643/arcane-season-two-netflix-teaser-trailer-release-warwick-singed-riot-games">https://www.polygon.com/24026643/arcane-season-two-netflix-teaser-trailer-release-warwick-singed-riot-games</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24026643/arcane-season-two-netflix-teaser-trailer-release-warwick-singed-riot-games">Save to Pocket</a>
+</span>
+
+---
+
+## Ma Dong-seok fights a croc in Netflix’s upcoming post-apocalypse movie
+
+date: 2024-01-05, updated: 2024-01-05, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24026543/badland-hunters-trailer-netflix-ma-dong-seok-don-lee-punch-hard">https://www.polygon.com/24026543/badland-hunters-trailer-netflix-ma-dong-seok-don-lee-punch-hard</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24026543/badland-hunters-trailer-netflix-ma-dong-seok-don-lee-punch-hard">Save to Pocket</a>
+</span>
+
+---
+
+## League of Legends 2024 plans revealed, from Arcane to a baby dragon
+
+date: 2024-01-05, updated: 2024-01-05, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24025336/league-of-legends-2024-plans-ambessa-smolder-champion">https://www.polygon.com/24025336/league-of-legends-2024-plans-ambessa-smolder-champion</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24025336/league-of-legends-2024-plans-ambessa-smolder-champion">Save to Pocket</a>
+</span>
+
+---
+
+## Pre-order Suicide Squad: Kill the Justice League to get early access
+
+date: 2024-01-05, updated: 2024-01-05, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24024082/suicide-squad-kill-the-justice-league-pre-order-buy-deluxe-edition-early-access-costumes">https://www.polygon.com/deals/24024082/suicide-squad-kill-the-justice-league-pre-order-buy-deluxe-edition-early-access-costumes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24024082/suicide-squad-kill-the-justice-league-pre-order-buy-deluxe-edition-early-access-costumes">Save to Pocket</a>
+</span>
 
 ---
 

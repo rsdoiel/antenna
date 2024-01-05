@@ -8,3 +8,5 @@ https://www.research-collection.ethz.ch/feed/rss_2.0/site "~ETH Zurich, recently
 #https://www.rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives", redirects as of 2023-12-06
 https://rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives"
 https://jon-e.net/blog/feed.xml "~Jonny Saunders blog"
+https://standardebooks.org/feeds/rss/new-releases "~Standard Ebooks, new releaases" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+

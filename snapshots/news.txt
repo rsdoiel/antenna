@@ -132,7 +132,8 @@ https://computerhistory.org/stories/feed/ "~Computer History: Stores"
 https://dailytrojan.com/feed/ "~The Daily Trojan (USC Student Paper)" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://daniel.haxx.se/blog/feed/ "~Daniel Stenberg Blog"
 https://daringfireball.net/feeds/main "~Daring Fireball"
-https://dashes.com/feed.xml "~Anil Dash"
+#https://dashes.com/feed.xml "~Anil Dash"
+https://www.dashes.com/feed.xml "~Anil Dash blog"
 https://dave.autonoma.ca/dave/news/blog.rss "~Dave Jarvis' Blog"
 https://davekarpf.substack.com/feed "~Dave Karpf's blog"
 https://deno.com/feed "~Deno blog"
@@ -418,6 +419,7 @@ https://www.ccc.de/de/rss/updates.xml "~Chaos Computer Club Updates" curl/8.5.0 
 https://media.ccc.de/news.atom "~Chaos Computer Club News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://timkellogg.me/blog/atom.xml "~Tom Kellog blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://maggieappleton.com/rss.xml "~Maggie Appleton blog"
-http://feeds.feedburner.com/marginalrevolution/feed "~Marginal Revolution blog"
+#http://feeds.feedburner.com/marginalrevolution/feed "~Marginal Revolution blog"
+https://feeds.feedblitz.com/marginalrevolution "~Marginal Revolution blog"
 https://www.oneusefulthing.org/feed "~One Useful Thing"
 https://webcurios.co.uk/feed/ "~Web Curios blog"

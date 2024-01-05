@@ -1,11 +1,47 @@
 ---
 title: socal north 2024.01
-updated: 2024-01-04 18:44:09
+updated: 2024-01-05 11:09:27
 ---
 
 # socal north 2024.01
 
-(date: 2024-01-04 18:44:09)
+(date: 2024-01-05 11:09:27)
+
+---
+
+## Inglewood Secures More Than $1 Billion For A New Transit Connector Between Sports And Entertainment Venues
+
+date: 2024-01-05, updated: 2024-01-05, from: The LAist
+
+The Inglewood Transit Connector is slated to be completed in time for the 2028 L.A. Olympics.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/inglewood-secures-more-than-1-billion-for-a-new-transit-connector-between-sports-and-entertainment-venues">https://laist.com/news/inglewood-secures-more-than-1-billion-for-a-new-transit-connector-between-sports-and-entertainment-venues</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/inglewood-secures-more-than-1-billion-for-a-new-transit-connector-between-sports-and-entertainment-venues">Save to Pocket</a>
+</span>
+
+---
+
+## We're Predicting These 10 Food Trends For LA In 2024
+
+date: 2024-01-05, updated: 2024-01-05, from: The LAist
+
+How will the world of food change in L.A. in 2024? We're making some forecasts.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/10-trends-in-restaurant-and-dining-in-2024-in-la">https://laist.com/news/food/10-trends-in-restaurant-and-dining-in-2024-in-la</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/10-trends-in-restaurant-and-dining-in-2024-in-la">Save to Pocket</a>
+</span>
+
+---
+
+## At La Sureñita Bakery In Boyle Heights, Rosca De Reyes Are In Demand For Three Kings Day
+
+date: 2024-01-05, updated: 2024-01-05, from: The LAist
+
+The days leading to Jan. 6 are the busiest for Bernardo Cortez and his family, owners of La Sureñita Bakery in Boyle Heights
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/at-la-surenita-bakery-in-boyle-heights-rosca-de-reyes-are-in-demand-for-three-kings-day">https://laist.com/news/food/at-la-surenita-bakery-in-boyle-heights-rosca-de-reyes-are-in-demand-for-three-kings-day</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/at-la-surenita-bakery-in-boyle-heights-rosca-de-reyes-are-in-demand-for-three-kings-day">Save to Pocket</a>
+</span>
 
 ---
 
@@ -17,6 +53,18 @@ The post-holiday surge continues, according to the latest data.
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/health/la-regions-covid-cases-are-up-as-new-variant-sweeps-the-us">https://laist.com/news/health/la-regions-covid-cases-are-up-as-new-variant-sweeps-the-us</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/health/la-regions-covid-cases-are-up-as-new-variant-sweeps-the-us">Save to Pocket</a>
+</span>
+
+---
+
+## Feds Recover $1.1 Million For Garment Workers After Sewing Contractors Allegedly Withheld Overtime Pay
+
+date: 2024-01-04, updated: 2024-01-05, from: The LAist
+
+Federal regulators say the settlement is the biggest to date for California garment workers.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/feds-recover-1-1-million-for-garment-workers-after-sewing-contractors-allegedly-withheld-overtime-pay">https://laist.com/news/feds-recover-1-1-million-for-garment-workers-after-sewing-contractors-allegedly-withheld-overtime-pay</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/feds-recover-1-1-million-for-garment-workers-after-sewing-contractors-allegedly-withheld-overtime-pay">Save to Pocket</a>
 </span>
 
 ---

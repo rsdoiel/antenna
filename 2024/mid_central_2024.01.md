@@ -1,11 +1,11 @@
 ---
 title: mid central 2024.01
-updated: 2024-01-04 18:44:09
+updated: 2024-01-05 11:09:27
 ---
 
 # mid central 2024.01
 
-(date: 2024-01-04 18:44:09)
+(date: 2024-01-05 11:09:27)
 
 ---
 
@@ -21,11 +21,39 @@ date: 2024-01-05, updated: 2024-01-05, from: Merced, Weather.gov CAP v1.1 alerts
 
 ---
 
+## The dangers of light glare from high-brightness LEDs
+
+date: 2024-01-05, from: EDN Blog
+
+<img width="596" height="683" src="https://www.edn.com/wp-content/uploads/Glare-4.png?fit=596%2C683" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Glare-4.png?w=596 596w, https://www.edn.com/wp-content/uploads/Glare-4.png?w=262 262w" sizes="(max-width: 596px) 100vw, 596px" /><p>A discussion on the intrusiveness of high-brightness LEDs from vehicles and homes—a glaring menace. </p>
+<p>The post <a href="https://www.edn.com/the-dangers-of-light-glare-from-high-brightness-leds/" data-wpel-link="internal">The dangers of light glare from high-brightness LEDs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/the-dangers-of-light-glare-from-high-brightness-leds/">https://www.edn.com/the-dangers-of-light-glare-from-high-brightness-leds/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/the-dangers-of-light-glare-from-high-brightness-leds/">Save to Pocket</a>
+</span>
+
+---
+
+## The need for post-quantum cryptography in the quantum decade
+
+date: 2024-01-05, from: EDN Blog
+
+<img width="2578" height="1450" src="https://www.edn.com/wp-content/uploads/PQC-Hero-image-NIST.jpg?fit=2578%2C1450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PQC-Hero-image-NIST.jpg?w=2578 2578w, https://www.edn.com/wp-content/uploads/PQC-Hero-image-NIST.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/PQC-Hero-image-NIST.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/PQC-Hero-image-NIST.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/PQC-Hero-image-NIST.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/PQC-Hero-image-NIST.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/PQC-Hero-image-NIST.jpg?w=1260 1260w, https://www.edn.com/wp-content/uploads/PQC-Hero-image-NIST.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/PQC-Hero-image-NIST.jpg?w=1900 1900w" sizes="(max-width: 2578px) 100vw, 2578px" /><p>The quantum computing revolution can be overshadowed by this technology's ability to dismantle cybersecurity and encryption infrastructure.</p>
+<p>The post <a href="https://www.edn.com/the-need-for-post-quantum-cryptography-in-the-quantum-decade/" data-wpel-link="internal">The need for post-quantum cryptography in the quantum decade</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/the-need-for-post-quantum-cryptography-in-the-quantum-decade/">https://www.edn.com/the-need-for-post-quantum-cryptography-in-the-quantum-decade/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/the-need-for-post-quantum-cryptography-in-the-quantum-decade/">Save to Pocket</a>
+</span>
+
+---
+
 ## Embeddable IP enables Wi-Fi 7 connectivity
 
 date: 2024-01-04, from: EDN Blog
 
-<img width="800" height="496" src="https://www.edn.com/wp-content/uploads/Ceva-Wi-Fi-7-IP.jpg?fit=800%2C496" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Ceva-Wi-Fi-7-IP.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Ceva-Wi-Fi-7-IP.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Ceva-Wi-Fi-7-IP.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Ceva is bolstering its RivieraWaves portfolio of wireless connectivity IP with Wi-Fi 7 IP for high-end consumer and industrial IoT applications.</p>
+<img width="800" height="496" src="https://www.edn.com/wp-content/uploads/Ceva-Wi-Fi-7-IP.jpg?fit=800%2C496" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Ceva-Wi-Fi-7-IP.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Ceva-Wi-Fi-7-IP.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Ceva-Wi-Fi-7-IP.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Ceva is bolstering its RivieraWaves portfolio of wireless connectivity IP with Wi-Fi 7 IP for high-end consumer and industrial IoT applications.</p>
 <p>The post <a href="https://www.edn.com/embeddable-ip-enables-wi-fi-7-connectivity/" data-wpel-link="internal">Embeddable IP enables Wi-Fi 7 connectivity</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 

@@ -1,12 +1,13 @@
 ---
 title: Snapshots
+updated: 2024-01-05
 ---
 
 # Snapshots
 
 These are a snapshot of a single day's collection of item from [news.txt](news.txt)
 
-
+- [2024-01-05](today-2024-01-05.html)
 - [2024-01-04](today-2024-01-04.html)
 - [2024-01-03](today-2024-01-03.html)
 - [2023-12-25](today-2023-12-25.html)
@@ -41,6 +42,6 @@ These are a snapshot of a single day's collection of item from [news.txt](news.t
 - [2023-10-30](today-2023-10-30.html)
 - [2023-10-28](today-2023-10-28.html)
 - [2023-10-27](today-2023-10-27.html)
-- [2023-10-26](today-2023-10-25.html)
+- [2023-10-25](today-2023-10-25.html)
 - [2023-10-23](today-2023-10-23.html)
 - [2023-10-20](today-2023-10-20.html)
