@@ -1,11 +1,313 @@
 ---
 title: pacific 2024.01
-updated: 2024-01-03 17:29:58
+updated: 2024-01-04 18:44:09
 ---
 
 # pacific 2024.01
 
-(date: 2024-01-03 17:29:58)
+(date: 2024-01-04 18:44:09)
+
+---
+
+## The complexities of creating a good government in the Marshall Islands
+
+date: 2024-01-05, from: Pacific Island Times
+
+Majuro-- President Abraham Lincoln, in one of the most famous speeches in American history delivered at the Gettysburg National Cemetery...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/the-complexities-of-creating-a-good-government-in-the-marshall-islands">https://www.pacificislandtimes.com/post/the-complexities-of-creating-a-good-government-in-the-marshall-islands</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/the-complexities-of-creating-a-good-government-in-the-marshall-islands">Save to Pocket</a>
+</span>
+
+---
+
+## Japan service activity expands in Dec, led by strong new business - PMI
+
+date: 2024-01-05, updated: 2024-01-05, from: Marianas Variety
+
+TOKYO (Reuters) — Japan's December service activity expanded at a faster pace from the previous month thanks to strong demand and a lift in confidence even though the overall growth rate was modest, a business survey showed on Friday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/regional_world/japan-service-activity-expands-in-dec-led-by-strong-new-business---pmi/article_ec19b126-ab6d-11ee-831e-fb280578503a.html">https://www.mvariety.com/news/regional_world/japan-service-activity-expands-in-dec-led-by-strong-new-business---pmi/article_ec19b126-ab6d-11ee-831e-fb280578503a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/regional_world/japan-service-activity-expands-in-dec-led-by-strong-new-business---pmi/article_ec19b126-ab6d-11ee-831e-fb280578503a.html">Save to Pocket</a>
+</span>
+
+---
+
+## Black Americans would feel the sting of Republican budget cut proposals
+
+date: 2024-01-05, updated: 2024-01-05, from: Marianas Variety
+
+WASHINGTON (Reuters) — When Charla Plaines saw the toll lead paint took on her granddaughter, she was able to get the hazardous substance scrubbed from her home thanks to a federally funded program that Republicans in the U.S. House of Representatives want to cut.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/black-americans-would-feel-the-sting-of-republican-budget-cut-proposals/article_7c581ab2-ab6d-11ee-ab1e-37aeffb501c4.html">https://www.mvariety.com/news/national/black-americans-would-feel-the-sting-of-republican-budget-cut-proposals/article_7c581ab2-ab6d-11ee-ab1e-37aeffb501c4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/black-americans-would-feel-the-sting-of-republican-budget-cut-proposals/article_7c581ab2-ab6d-11ee-ab1e-37aeffb501c4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Voters aiming to ban Trump from Colorado ballot urge US Supreme Court ruling
+
+date: 2024-01-05, updated: 2024-01-05, from: Marianas Variety
+
+WASHINGTON (Reuters) — Colorado voters seeking to bar Donald Trump from their state's ballot urged the U.S. Supreme Court on Thursday to decide whether his role leading up to the Capitol attack disqualifies him from again holding the presidency, as a lower court found.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/voters-aiming-to-ban-trump-from-colorado-ballot-urge-us-supreme-court-ruling/article_3882c792-ab6d-11ee-b59b-a3f69d374433.html">https://www.mvariety.com/news/national/voters-aiming-to-ban-trump-from-colorado-ballot-urge-us-supreme-court-ruling/article_3882c792-ab6d-11ee-b59b-a3f69d374433.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/voters-aiming-to-ban-trump-from-colorado-ballot-urge-us-supreme-court-ruling/article_3882c792-ab6d-11ee-b59b-a3f69d374433.html">Save to Pocket</a>
+</span>
+
+---
+
+## New York City sues bus companies for transporting migrants from Texas
+
+date: 2024-01-05, updated: 2024-01-05, from: Marianas Variety
+
+(Reuters) — New York City on Thursday filed a lawsuit accusing 17 bus companies of illegally transporting more than 33,000 migrants to the city from Texas as part of a campaign by the state's Republican governor to expel people who cross the U.S.-Mexico border illegally.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/new-york-city-sues-bus-companies-for-transporting-migrants-from-texas/article_93935832-ab6c-11ee-a94c-c3dc6119d857.html">https://www.mvariety.com/news/national/new-york-city-sues-bus-companies-for-transporting-migrants-from-texas/article_93935832-ab6c-11ee-a94c-c3dc6119d857.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/new-york-city-sues-bus-companies-for-transporting-migrants-from-texas/article_93935832-ab6c-11ee-a94c-c3dc6119d857.html">Save to Pocket</a>
+</span>
+
+---
+
+## Doomed Japan plane on third quake mission when runway disaster hit
+
+date: 2024-01-05, updated: 2024-01-05, from: Marianas Variety
+
+TOKYO (Reuters) — A Coast Guard plane was making its third emergency trip to an earthquake zone within 24 hours when it collided with a passenger jet at a very busy Haneda airport, a Coast Guard official told Reuters.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/regional_world/doomed-japan-plane-on-third-quake-mission-when-runway-disaster-hit/article_48e2cfe8-ab6c-11ee-b70e-fb8eab706a8c.html">https://www.mvariety.com/news/regional_world/doomed-japan-plane-on-third-quake-mission-when-runway-disaster-hit/article_48e2cfe8-ab6c-11ee-b70e-fb8eab706a8c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/regional_world/doomed-japan-plane-on-third-quake-mission-when-runway-disaster-hit/article_48e2cfe8-ab6c-11ee-b70e-fb8eab706a8c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Key dates in the 2024 US presidential race
+
+date: 2024-01-05, updated: 2024-01-05, from: Marianas Variety
+
+(Reuters) — Former President Donald Trump leads a pack of six candidates jostling to be the Republican presidential nominee in the 2024 election, while President Joe Biden faces little opposition in the Democratic Party in his campaign for a second term.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/key-dates-in-the-2024-us-presidential-race/article_99816438-ab6b-11ee-82e6-df3cf1f54ca7.html">https://www.mvariety.com/news/national/key-dates-in-the-2024-us-presidential-race/article_99816438-ab6b-11ee-82e6-df3cf1f54ca7.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/key-dates-in-the-2024-us-presidential-race/article_99816438-ab6b-11ee-82e6-df3cf1f54ca7.html">Save to Pocket</a>
+</span>
+
+---
+
+## U.S. natgas producers seek to balance production cuts, demand rebound
+
+date: 2024-01-05, updated: 2024-01-05, from: Marianas Variety
+
+(Reuters) — The longer natural gas prices stay lower in 2024 and drilling and related activity pulled back, the market could overshoot to both the downside and upside next year as it seeks to find an equilibrium, EQT's financial head Jeremy Knop said.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/u-s-natgas-producers-seek-to-balance-production-cuts-demand-rebound/article_57e0d324-ab6b-11ee-b96a-5363af8e43d0.html">https://www.mvariety.com/news/national/u-s-natgas-producers-seek-to-balance-production-cuts-demand-rebound/article_57e0d324-ab6b-11ee-b96a-5363af8e43d0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/u-s-natgas-producers-seek-to-balance-production-cuts-demand-rebound/article_57e0d324-ab6b-11ee-b96a-5363af8e43d0.html">Save to Pocket</a>
+</span>
+
+---
+
+## Regents finalize process for president’s search advisory group
+
+date: 2024-01-05, from: University of Hawaiʻi News
+
+<p>The <abbr>BOR</abbr> determined how the stakeholder advisory group for the search for the next president of the 10-campus system will be developed.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/04/regents-finalize-process-president-search-advisory-group/">Regents finalize process for president’s search advisory group</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/04/regents-finalize-process-president-search-advisory-group/">https://www.hawaii.edu/news/2024/01/04/regents-finalize-process-president-search-advisory-group/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/04/regents-finalize-process-president-search-advisory-group/">Save to Pocket</a>
+</span>
+
+---
+
+## Lawmakers ask Pentagon to consider barring US investments in China's Quectel
+
+date: 2024-01-05, updated: 2024-01-05, from: Marianas Variety
+
+WASHINGTON (Reuters) — The top Republican and Democrat on the U.S. House of Representatives' China committee on Thursday asked the Biden administration to consider adding China's Quectel Wireless to a list of Chinese military companies.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/lawmakers-ask-pentagon-to-consider-barring-us-investments-in-chinas-quectel/article_e3695cd2-ab6a-11ee-ba15-577556a58d91.html">https://www.mvariety.com/news/national/lawmakers-ask-pentagon-to-consider-barring-us-investments-in-chinas-quectel/article_e3695cd2-ab6a-11ee-ba15-577556a58d91.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/lawmakers-ask-pentagon-to-consider-barring-us-investments-in-chinas-quectel/article_e3695cd2-ab6a-11ee-ba15-577556a58d91.html">Save to Pocket</a>
+</span>
+
+---
+
+## University of Penn professors in Israel speak out on US campus antisemitism
+
+date: 2024-01-05, updated: 2024-01-05, from: Marianas Variety
+
+JERUSALEM (Reuters) — Until three months ago, University of Pennsylvania psychology professor Michael Kahana said he had never felt the need to wear a yarmulke, or Jewish skullcap, to his classes.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/university-of-penn-professors-in-israel-speak-out-on-us-campus-antisemitism/article_f9975ab4-ab69-11ee-81b0-f708ac4c630c.html">https://www.mvariety.com/news/national/university-of-penn-professors-in-israel-speak-out-on-us-campus-antisemitism/article_f9975ab4-ab69-11ee-81b0-f708ac4c630c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/university-of-penn-professors-in-israel-speak-out-on-us-campus-antisemitism/article_f9975ab4-ab69-11ee-81b0-f708ac4c630c.html">Save to Pocket</a>
+</span>
+
+---
+
+## New York City union sues to block city congestion pricing plan
+
+date: 2024-01-05, updated: 2024-01-05, from: Marianas Variety
+
+(Reuters) — A New York City teachers union filed a lawsuit against state and federal agencies on Thursday seeking to block a congestion pricing plan in the city from taking effect this year, arguing it will divert traffic and boost pollution in some areas.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/new-york-city-union-sues-to-block-city-congestion-pricing-plan/article_0e198120-ab69-11ee-8f0a-bb01d1ef11ee.html">https://www.mvariety.com/news/national/new-york-city-union-sues-to-block-city-congestion-pricing-plan/article_0e198120-ab69-11ee-8f0a-bb01d1ef11ee.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/new-york-city-union-sues-to-block-city-congestion-pricing-plan/article_0e198120-ab69-11ee-8f0a-bb01d1ef11ee.html">Save to Pocket</a>
+</span>
+
+---
+
+## Rare maps showcase rich history of N. Asia at Mānoa library
+
+date: 2024-01-05, from: University of Hawaiʻi News
+
+<p>The maps serve as a valuable resource for students, faculty and researchers interested in Asia.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/04/library-northeast-asia-rare-maps/">Rare maps showcase rich history of N. Asia at Mānoa library</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/04/library-northeast-asia-rare-maps/">https://www.hawaii.edu/news/2024/01/04/library-northeast-asia-rare-maps/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/04/library-northeast-asia-rare-maps/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Fungal inoculations’ part of research to rescue endangered Hawaiian ecosystem
+
+date: 2024-01-05, from: University of Hawaiʻi News
+
+<p>Nicole Hynson was selected as a new Underground Explorer, supporting her research on the subterranean fungal network in Native Hawaiian dryland forests.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/04/fungal-inoculations-hynson/">‘Fungal inoculations’ part of research to rescue endangered Hawaiian ecosystem</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/04/fungal-inoculations-hynson/">https://www.hawaii.edu/news/2024/01/04/fungal-inoculations-hynson/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/04/fungal-inoculations-hynson/">Save to Pocket</a>
+</span>
+
+---
+
+## A new calendar. A new year.  Amazing how time zips.
+
+date: 2024-01-04, from: Pacific Island Times
+
+While we now write 2024, some things have not changed. Like the deterioration of our public schools. We can blame the pandemic and the...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/a-new-calendar-a-new-year-amazing-how-time-zips">https://www.pacificislandtimes.com/post/a-new-calendar-a-new-year-amazing-how-time-zips</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/a-new-calendar-a-new-year-amazing-how-time-zips">Save to Pocket</a>
+</span>
+
+---
+
+## Combat readiness amid Guam's unstable power supply
+
+date: 2024-01-04, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The stability of the power supply on Guam is crucial to the military’s combat readiness. However, the current...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/combat-readiness-amid-guam-s-unstable-power-supply">https://www.pacificislandtimes.com/post/combat-readiness-amid-guam-s-unstable-power-supply</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/combat-readiness-amid-guam-s-unstable-power-supply">Save to Pocket</a>
+</span>
+
+---
+
+## Calvo Enterprises acquires Tokio Marine Pacific Insurance
+
+date: 2024-01-04, from: Pacific Island Times
+
+Calvo Enterprises, Inc. and Calvo Trusts Corp., collectively called Calvo’s SelectCare, are pleased to announce their successful...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/calvo-enterprises-acquires-tokio-marine-pacific-insurance">https://www.pacificislandtimes.com/post/calvo-enterprises-acquires-tokio-marine-pacific-insurance</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/calvo-enterprises-acquires-tokio-marine-pacific-insurance">Save to Pocket</a>
+</span>
+
+---
+
+## Learn about 3D printers, laser cutters, more through new FabLab tutorials
+
+date: 2024-01-04, from: University of Hawaiʻi News
+
+<p>The students designed, scripted and filmed the videos.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/04/engineering-fablab-tutorials/">Learn about <abbr>3D</abbr> printers, laser cutters, more through new FabLab tutorials</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/04/engineering-fablab-tutorials/">https://www.hawaii.edu/news/2024/01/04/engineering-fablab-tutorials/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/04/engineering-fablab-tutorials/">Save to Pocket</a>
+</span>
+
+---
+
+## $4M to help unlock health literacy in local communities
+
+date: 2024-01-04, from: University of Hawaiʻi News
+
+<p>The project focuses on improving health literacy, especially among recent <abbr title="United States">U.S.</abbr> immigrants.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/04/4m-project-unlocks-health-literacy/">$4M to help unlock health literacy in local communities</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/04/4m-project-unlocks-health-literacy/">https://www.hawaii.edu/news/2024/01/04/4m-project-unlocks-health-literacy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/04/4m-project-unlocks-health-literacy/">Save to Pocket</a>
+</span>
+
+---
+
+## Workers exodus RMI
+
+date: 2024-01-04, from: Marshal Islands Journal
+
+<p>Journal 1/2/1987 P1 Youth speak out on US tourTwo Marshallese youth recently returned to Majuro following an out-of-the-ordinary visit to the United States. Assumption Elementary School teacher Carmen Samuel and Assumption High senior Lotey Kiluwe went to the US as part of the “Children of War” speaking tour, which brought over 60 young people from [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/workers-exodus-rmi/">Workers exodus RMI</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/workers-exodus-rmi/">https://marshallislandsjournal.com/workers-exodus-rmi/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/workers-exodus-rmi/">Save to Pocket</a>
+</span>
+
+---
+
+## Environmental sustainability expert from Thailand in residency at Kapiʻolani CC
+
+date: 2024-01-04, from: University of Hawaiʻi News
+
+<p>Pimpimon Kaewmanee will share climate resiliency strategies with Kapi&#699;olani <abbr>CC</abbr> students and faculty.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/04/environmental-sustain-expert-thailand/">Environmental sustainability expert from Thailand in residency at Kapiʻolani <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/04/environmental-sustain-expert-thailand/">https://www.hawaii.edu/news/2024/01/04/environmental-sustain-expert-thailand/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/04/environmental-sustain-expert-thailand/">Save to Pocket</a>
+</span>
+
+---
+
+## Majuro rocks the block
+
+date: 2024-01-04, from: Marshal Islands Journal
+
+<p>The annual block party that kick starts the New Year was held Sunday night from the Misco Market area to the RRE compound. The road was filled with families and friends walking around with their blinking light toys enjoying the live bands and entertainment. Good food was available at each tent and there were lots [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/majuro-rocks-the-block/">Majuro rocks the block</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/majuro-rocks-the-block/">https://marshallislandsjournal.com/majuro-rocks-the-block/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/majuro-rocks-the-block/">Save to Pocket</a>
+</span>
+
+---
+
+## US funds sewer fix
+
+date: 2024-01-04, from: Marshal Islands Journal
+
+<p>WILMER JOEL A $10.8 million grant agreement was reached between the US and RMI governments last Friday to fix Majuro’s sewage outfall system. The US Department of Agriculture is the lead investor in partnership with the Asian Development Bank for this grant. The US Embassy Chargé d’Affaires Lance Posey told President David Kabua, Minister Jack [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/us-funds-sewer-fix/">US funds sewer fix</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/us-funds-sewer-fix/">https://marshallislandsjournal.com/us-funds-sewer-fix/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/us-funds-sewer-fix/">Save to Pocket</a>
+</span>
+
+---
+
+## Top students honored
+
+date: 2024-01-04, from: Marshal Islands Journal
+
+<p>WILMER JOEL Seventy-three Taiwan-RMI Presidents’ scholarship recipients, consisting of students and educators, were honored at the fourth scholarship award ceremony in the Marshall Islands Resort’s Melele Room in December. In his remarks, Public School System Commissioner Kanchi Hosia characterized the event as a “milestone” in the relationship between RMI and Taiwan in education and capacity [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/top-students-honored/">Top students honored</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/top-students-honored/">https://marshallislandsjournal.com/top-students-honored/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/top-students-honored/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -363,6 +665,30 @@ The post <a href="https://www.hawaii.edu/news/2024/01/02/january-2024-anniversar
 
 <span class="feed-item-link">
 <a href="https://www.hawaii.edu/news/2024/01/02/january-2024-anniversaries/">https://www.hawaii.edu/news/2024/01/02/january-2024-anniversaries/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/02/january-2024-anniversaries/">Save to Pocket</a>
+</span>
+
+---
+
+## Guam education board initiates lead tests of drinking water in five schools
+
+date: 2024-01-02, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Guam Education Board has collaborated with the Guam Waterworks Authority to conduct a drinking...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/guam-education-board-initiates-lead-tests-of-drinking-water-in-five-schools">https://www.pacificislandtimes.com/post/guam-education-board-initiates-lead-tests-of-drinking-water-in-five-schools</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/guam-education-board-initiates-lead-tests-of-drinking-water-in-five-schools">Save to Pocket</a>
+</span>
+
+---
+
+## MedHealth overcharged GMH with nothing to show for it 
+
+date: 2024-01-02, from: Pacific Island Times
+
+OPA says the company received 'preferential treatment,' contract led to $4.9M in questioned costs By Mar-Vic Cagurangan Guam Memorial...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/medhealth-overcharged-gmh-with-nothing-to-show-for-it">https://www.pacificislandtimes.com/post/medhealth-overcharged-gmh-with-nothing-to-show-for-it</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/medhealth-overcharged-gmh-with-nothing-to-show-for-it">Save to Pocket</a>
 </span>
 
 ---

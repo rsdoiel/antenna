@@ -1,11 +1,123 @@
 ---
 title: socal north 2024.01
-updated: 2024-01-03 17:29:58
+updated: 2024-01-04 18:44:09
 ---
 
 # socal north 2024.01
 
-(date: 2024-01-03 17:29:58)
+(date: 2024-01-04 18:44:09)
+
+---
+
+## LA Region's COVID Cases Are Up As New Variant Sweeps The US
+
+date: 2024-01-05, updated: 2024-01-05, from: The LAist
+
+The post-holiday surge continues, according to the latest data.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/health/la-regions-covid-cases-are-up-as-new-variant-sweeps-the-us">https://laist.com/news/health/la-regions-covid-cases-are-up-as-new-variant-sweeps-the-us</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/health/la-regions-covid-cases-are-up-as-new-variant-sweeps-the-us">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA gymnastics channels adaptability and grit to prepare for the 2024 season
+
+date: 2024-01-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Behind the Bruins taking the floor at Pauley Pavilion are countless hours of intense training in the gym. 
+Through it all, coach Janelle McDonald has identified two attributes that help the team the most.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/04/ucla-gymnastics-channels-adaptability-and-grit-to-prepare-for-the-2024-season/">https://dailybruin.com/2024/01/04/ucla-gymnastics-channels-adaptability-and-grit-to-prepare-for-the-2024-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/04/ucla-gymnastics-channels-adaptability-and-grit-to-prepare-for-the-2024-season/">Save to Pocket</a>
+</span>
+
+---
+
+## Ventura County Is Asking You To Not Share Or Move Your Homegrown Fruit
+
+date: 2024-01-04, updated: 2024-01-05, from: The LAist
+
+The urgent agricultural alert is meant to warn people about the Queensland fruit fly and Huanglongbing disease.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/ventura-county-is-asking-you-to-not-share-or-move-your-homegrown-fruit">https://laist.com/news/climate-environment/ventura-county-is-asking-you-to-not-share-or-move-your-homegrown-fruit</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/ventura-county-is-asking-you-to-not-share-or-move-your-homegrown-fruit">Save to Pocket</a>
+</span>
+
+---
+
+## New Data Show Racial Disparities In Local Law Enforcement Stops
+
+date: 2024-01-04, updated: 2024-01-05, from: The LAist
+
+Black people were stopped at a higher rate disproportionate to their population size.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/new-data-show-racial-disparities-in-local-law-enforcement-stops">https://laist.com/news/politics/new-data-show-racial-disparities-in-local-law-enforcement-stops</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/new-data-show-racial-disparities-in-local-law-enforcement-stops">Save to Pocket</a>
+</span>
+
+---
+
+## Shaunzi, LA Zoo's 53-Year-Old Female Asian Elephant, Has Died
+
+date: 2024-01-04, updated: 2024-01-04, from: The LAist
+
+After Shaunzi was discovered down and unable to get up, even with help, the zoo decided to sedate and euthanize her.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/shaunzi-la-zoo-asian-elephant-dies">https://laist.com/news/shaunzi-la-zoo-asian-elephant-dies</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/shaunzi-la-zoo-asian-elephant-dies">Save to Pocket</a>
+</span>
+
+---
+
+## Gallery: Fall concert recap 2023
+
+date: 2024-01-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daily Bruin Photo staff covered a variety of musical performances this quarter, ranging from up-and-coming artists to well-known stars.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/04/gallery-fall-concert-recap-2023/">https://dailybruin.com/2024/01/04/gallery-fall-concert-recap-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/04/gallery-fall-concert-recap-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Safe Trails in the New Year
+
+date: 2024-01-04, from: City of Santa Clarita
+
+<p>Safe Trails in the New Year By Councilmember Laurene Weste As we step into the new year, I find myself eagerly anticipating the adventures that lie ahead. As a long-time resident and former parks commissioner of the City of Santa Clarita, I have always been captivated by the simple joy of hiking and embracing the [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/01/04/safe-trails-in-the-new-year-2/">Safe Trails in the New Year</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2024/01/04/safe-trails-in-the-new-year-2/">https://santaclarita.gov/blog/2024/01/04/safe-trails-in-the-new-year-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/01/04/safe-trails-in-the-new-year-2/">Save to Pocket</a>
+</span>
+
+---
+
+## December 2023 – Volume 64 Issue 5
+
+date: 2024-01-04, from: The Sundail (CSUN Student Newspaper)
+
+Letter from the Editor: Issue 5 Volume 64 Yesterday&#8217;s News: CSUN&#8217;s road to sustainability Technology: Electric cars in California Power in Numbers: Pollution in Los Angeles The Menu: The price of palm oil The Metro migraine: How CSUN is working to improve transportation emissions If the mess fits: Making garments from garbage at Manzanita Hall...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177789/print-editions/december-2023-volume-64-issue-5/">https://sundial.csun.edu/177789/print-editions/december-2023-volume-64-issue-5/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177789/print-editions/december-2023-volume-64-issue-5/">Save to Pocket</a>
+</span>
+
+---
+
+## Sluggish 2nd half sinks UCLA men’s basketball in home loss to Stanford
+
+date: 2024-01-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 3 at 10:02 p.m.</em>
+A fragment of the Bruins’ past perused campus just days before his alma mater took the court.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/03/sluggish-2nd-half-sinks-ucla-mens-basketball-in-home-loss-to-stanford/">https://dailybruin.com/2024/01/03/sluggish-2nd-half-sinks-ucla-mens-basketball-in-home-loss-to-stanford/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/03/sluggish-2nd-half-sinks-ucla-mens-basketball-in-home-loss-to-stanford/">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,19 +1,19 @@
 ---
 title: weather 2024.01
-updated: 2024-01-03 17:29:58
+updated: 2024-01-04 18:44:09
 ---
 
 # weather 2024.01
 
-(date: 2024-01-03 17:29:58)
+(date: 2024-01-04 18:44:09)
 
 ---
 
-## SPC - No watches are valid as of Thu Jan  4 01:01:01 UTC 2024
+## SPC - No watches are valid as of Fri Jan  5 02:41:01 UTC 2024
 
-date: 2024-01-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-01-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Thu Jan  4 01:01:01 UTC 2024.
+No watches are valid as of Fri Jan  5 02:41:01 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
@@ -21,11 +21,11 @@ No watches are valid as of Thu Jan  4 01:01:01 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Thu Jan  4 01:01:01 UTC 2024
+## SPC - No MDs are in effect as of Fri Jan  5 02:41:01 UTC 2024
 
-date: 2024-01-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-01-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Thu Jan  4 01:01:01 UTC 2024.
+No Mesoscale Discussions are in effect as of Fri Jan  5 02:41:01 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
@@ -33,40 +33,39 @@ No Mesoscale Discussions are in effect as of Thu Jan  4 01:01:01 UTC 2024.
 
 ---
 
-## SPC Jan 4, 2024 0100 UTC Day 1 Convective Outlook
+## SPC Jan 5, 2024 0100 UTC Day 1 Convective Outlook
 
-date: 2024-01-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-01-05, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0647 PM CST Wed Jan 03 2024
+0652 PM CST Thu Jan 04 2024
 
-Valid 040100Z - 041200Z
+Valid 050100Z - 051200Z
 
 ...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Severe thunderstorms are not expected.
+Scattered non-severe thunderstorms are possible late tonight over
+parts of southeast Texas including the Texas Coast.
 
 ...Discussion...
-Little thunderstorm activity is ongoing across the CONUS this
-evening, with only isolated flashes noted around Las Vegas NV, close
-to the upper low. The 00Z VEF sounding shows steep lapse rates
-through a deep layer, supporting this activity despite 30s F
-dewpoints. Additional low-topped convection will be possible
-overnight as the upper low continues east across AZ, with cooling
-aloft resulting in minimal destabilization. 
+Sporadic lightning is noted this evening over southeast NM, where
+cold temperatures aloft exist in proximity to the upper low. The
+loss of diabatic heating is expected to further reduce thunderstorm
+chances as the trough moves into western TX, though isolated flashes
+cannot be ruled out with weak elevated instability present.
 
-Elsewhere, weak convection over the eastern Gulf of Mexico is
-expected to wane through tonight, as lift related to an associated
-shortwave trough shifts northeast. The 00Z TBW sounding shows zero
-MUCAPE, along with very dry air just above the surface. As such,
-isolated flashes are expected to remain mainly offshore, with only a
-very low chance near or just south of the Tampa Bay area ahead of
-the existing storms over the Gulf of Mexico.
+A greater probability of thunderstorms will develop late tonight
+into Friday morning over southeast TX and much of the TX Coast.
+Here, more robust theta-e advection will develop atop the cool
+boundary layer, and as 850-mb winds increase to 40 kt out of the
+south. Despite strong shear, little to no severe threat is forecast,
+due to only weak elevated instability, and cool surface air over
+land.
 
-..Jewell.. 01/04/2024
+..Jewell.. 01/05/2024
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -80,35 +79,36 @@ the existing storms over the Gulf of Mexico.
 
 ## SPC Day 3-8 Fire Weather Outlook
 
-date: 2024-01-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-01-04, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 3-8 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-0334 PM CST Wed Jan 03 2024
+0336 PM CST Thu Jan 04 2024
 
-Valid 051200Z - 111200Z
+Valid 061200Z - 121200Z
 
 Fire weather concerns are expected to remain low through the
-extended period.  A trough across the central US on D3 Friday will
-bring increasing surface winds but also potential for widespread
-precipitation across the central and southern Plains. A small
-corridor of Elevated fire weather conditions may be possible across
-South-Central Texas where less rainfall is forecast. Fuel guidance
-suggests that fuels are not expected to become sufficiently dry.  
+extended period. Enhanced flow across the southern US will bring
+localized windy/dry conditions D3 - Saturday and D4 - Sunday.
+Potential for widespread rainfall across already moist fuels on D2
+Friday will further limit the potential for fire spread. 
 
-An active pattern will continue, favoring southerly storm track and
-enhanced westerly flow through the end of the extended D4 - Saturday
-through D8 - Wednesday. Fuels across the southern Plains may
-experience some drying, with potential for Elevated to Critical fire
-weather concerns to develop. The best potential for drying will be
-across portions of southwestern and far western Texas where less
-precipitation is likely along with multiple rounds of windy/dry
-conditions. Uncertainty in the status of fuels and potential for
-multiple rounds of precipitation leaves predictability too low to
-include any areas at this time.
+A potent surface low is expected to develop across the southern
+Plains on D5 - Monday tracking eastward before moving into the Upper
+Ohio River Valley by D7 - Wednesday. This will bring the potential
+for very strong surface winds but also additional precipitation
+chances. The driest conditions are expected to be across portions of
+southwestern and far western Texas on D5 - Monday through D7 -
+Wednesday, where less precipitation is likely with multiple periods
+of windy/dry conditions. Locally Elevated conditions may be
+possible, particularly across far western Texas south into the Rio
+Grande Valley. Given the seasonably moist conditions of fuels and
+potential for multiple rounds of precipitation keeping the threat
+localized, confidence remains too low to include any areas at this
+time.
 
-..Thornton.. 01/03/2024
+..Thornton.. 01/04/2024
 
 ...Please see www.spc.noaa.gov/fire for graphic product...
 

@@ -1,11 +1,73 @@
 ---
 title: writing 2024.01
-updated: 2024-01-03 17:29:58
+updated: 2024-01-04 18:44:09
 ---
 
 # writing 2024.01
 
-(date: 2024-01-03 17:29:58)
+(date: 2024-01-04 18:44:09)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-04, from: Neil Gaiman @ BlueSky)
+
+I was impressed by author Steve Erickson's 13 New Year’s Resolutions for Saving Democracy...
+
+www.journaloftheplagueyears.ink/blog/13-new-...
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ki6w3ow2bc2l">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ki6w3ow2bc2l</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ki6w3ow2bc2l">Save to Pocket</a>
+</span>
+
+---
+
+## Kate Mosse Awarded CBE
+
+date: 2024-01-04, from: Locus Magazine
+
+<p>Kate Mosse, author of the <strong>Languedoc Trilogy</strong> (Berkley), <strong>Crucifix Lane</strong> (Hodder &#38; Stoughton), and <strong>The Winter Ghosts </strong>(Orion), has been made a Commander of the British Empire (CBE) for &#8220;services to literature, to women, and to charity.&#8221; Mosse co-founded the Women&#8217;s Prize For Fiction, the UK&#8217;s highest award for writing by women.</p>
+<p>The title was conferred as part of the 2024 New Year&#8217;s Honours List. Other honorees included filmmaker Ridley  <a href="https://locusmag.com/2024/01/kate-mosse-awarded-cbe/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/kate-mosse-awarded-cbe/">https://locusmag.com/2024/01/kate-mosse-awarded-cbe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/kate-mosse-awarded-cbe/">Save to Pocket</a>
+</span>
+
+---
+
+## CBC Best Canadian Books of 2023
+
+date: 2024-01-04, from: Locus Magazine
+
+<p>Canadian Broadcasting Corporation (CBC) Books has released its lists of the best Canadian books of 2023. The lists include many titles of genre interest, such as <strong>Rouge</strong> by Mona Awad (Penguin Random House), <strong>VenCo </strong>by Cherie Dimaline (Random House Canada), <strong>Linghun </strong>by Ai Jiang (Dark Matter INK), <strong>Bad Cree </strong>by Jessica Johns (HarperCollins Canada), <strong>Landscapes </strong>by Christine Lai (Doubleday Canada), <strong>Silver Nitrate </strong>by Silvia Moreno-Garcia (Del Rey), <strong>River Mumma </strong>by  <a href="https://locusmag.com/2024/01/cbc-best-canadian-books-of-2023/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/cbc-best-canadian-books-of-2023/">https://locusmag.com/2024/01/cbc-best-canadian-books-of-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/cbc-best-canadian-books-of-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Database performance improvements
+
+date: 2024-01-04, from: IF Database News
+
+Over the past few days, we've rolled out a number of database performance improvements. The site should load faster now, especially on the home page, game listings, searches, and user profiles. <a href="https://intfiction.org/t/ifdb-database-performance-issues/66299/21?u=dfabulich">More details on the performance improvements</a> are available on the intfiction.org forum.
+
+<span class="feed-item-link">
+<a href="https://ifdb.org/news?item=134">https://ifdb.org/news?item=134</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://ifdb.org/news?item=134">Save to Pocket</a>
+</span>
+
+---
+
+## Ian Mond Reviews Beautyland by Marie Helene Bertino
+
+date: 2024-01-04, from: Locus Magazine
+
+<p><strong>Beautyland</strong>, Marie-Helene Bertino (Farrar, Straus, Giroux 978-0-37410-928-8, $28.00, 336pp, hc) January 2024.</p>
+<p>While reading Marie-Helene Bertino’s offbeat third novel, <strong>Beautyland</strong>, I was regularly reminded of the work of other authors. The central premise – the narrator believes she’s from another planet – brought to mind Sayaka Murata’s 2020 novel <strong>Earthlings</strong>. As a first-contact novel that reshapes rather than subverts the trope, it bears similar­ity with Adam Soto’s  <a href="https://locusmag.com/2024/01/ian-mond-reviews-beautyland-by-marie-helene-bertino/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/ian-mond-reviews-beautyland-by-marie-helene-bertino/">https://locusmag.com/2024/01/ian-mond-reviews-beautyland-by-marie-helene-bertino/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/ian-mond-reviews-beautyland-by-marie-helene-bertino/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -42,7 +104,7 @@ date: 2024-01-03, from: Locus Magazine
 
 date: 2024-01-03, from: Locus Magazine
 
-<p>The Washington Science Fiction Association is now accepting nominations of works &#8220;published for the first time in the English language&#8221; in 2023 for its Small Press Award, given annually to an outstanding story of &#8220;imaginative literature&#8221; (17,500 words or fewer) published in the small press. The deadline for nominations is March 31, 2023.</p>
+<p>The Washington Science Fiction Association is now accepting nominations of works &#8220;published for the first time in the English language&#8221; in 2023 for its Small Press Award, given annually to an outstanding story of &#8220;imaginative literature&#8221; (17,500 words or fewer) published in the small press. The deadline for nominations is March 31, 2024.</p>
 <p>Authors and small-press publishers are among those eligible to nominate, and need not be members of WSFA.  <a href="https://locusmag.com/2024/01/2024-wsfa-small-press-award-open/" class="read-more">...Read More </a></p>
 
 <span class="feed-item-link">

@@ -1,11 +1,131 @@
 ---
 title: games 2024.01
-updated: 2024-01-03 17:29:58
+updated: 2024-01-04 18:44:09
 ---
 
 # games 2024.01
 
-(date: 2024-01-03 17:29:58)
+(date: 2024-01-04 18:44:09)
+
+---
+
+## Jaws captures the greatness of movie-to-pinball adaptations
+
+date: 2024-01-04, updated: 2024-01-04, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24025642/jaws-pinball-game-stern">https://www.polygon.com/24025642/jaws-pinball-game-stern</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24025642/jaws-pinball-game-stern">Save to Pocket</a>
+</span>
+
+---
+
+## Pixar’s Luca still reads like a queer romance — even its story lead thinks so
+
+date: 2024-01-04, updated: 2024-01-04, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24025804/luca-alberto-luberto-canon-pixar-disney">https://www.polygon.com/24025804/luca-alberto-luberto-canon-pixar-disney</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24025804/luca-alberto-luberto-canon-pixar-disney">Save to Pocket</a>
+</span>
+
+---
+
+## Chef’s Table meets Baldur’s Gate in Netflix’s first anime banger of the year
+
+date: 2024-01-04, updated: 2024-01-04, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24025746/delicious-in-dungeon-netflix-finally-some-good-food">https://www.polygon.com/24025746/delicious-in-dungeon-netflix-finally-some-good-food</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24025746/delicious-in-dungeon-netflix-finally-some-good-food">Save to Pocket</a>
+</span>
+
+---
+
+## Beloved superhero MMO fan server gets an official license, fans rejoice
+
+date: 2024-01-04, updated: 2024-01-04, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24025506/city-of-heroes-homecoming-server-ncsoft-license-agreement">https://www.polygon.com/24025506/city-of-heroes-homecoming-server-ncsoft-license-agreement</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24025506/city-of-heroes-homecoming-server-ncsoft-license-agreement">Save to Pocket</a>
+</span>
+
+---
+
+## Honkai: Star Rail Jarilo-VI treasure locations and map
+
+date: 2024-01-04, updated: 2024-01-04, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/honkai-star-rail-guides/24025282/jarilo-vi-belobog-treasure-puzzles-trotters-locations">https://www.polygon.com/honkai-star-rail-guides/24025282/jarilo-vi-belobog-treasure-puzzles-trotters-locations</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/honkai-star-rail-guides/24025282/jarilo-vi-belobog-treasure-puzzles-trotters-locations">Save to Pocket</a>
+</span>
+
+---
+
+## Metal Gear Solid 3 and Silent Hill 2 remakes coming in 2024, Sony says
+
+date: 2024-01-04, updated: 2024-01-04, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24025475/silent-hill-2-remake-metal-gear-solid-3-release-dates">https://www.polygon.com/24025475/silent-hill-2-remake-metal-gear-solid-3-release-dates</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24025475/silent-hill-2-remake-metal-gear-solid-3-release-dates">Save to Pocket</a>
+</span>
+
+---
+
+## The New Year’s resolution is dead and replaced by the ‘ins and outs’ list
+
+date: 2024-01-04, updated: 2024-01-04, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24024177/new-years-resolution-dead-ins-and-outs-list-tiktok-trend">https://www.polygon.com/24024177/new-years-resolution-dead-ins-and-outs-list-tiktok-trend</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24024177/new-years-resolution-dead-ins-and-outs-list-tiktok-trend">Save to Pocket</a>
+</span>
+
+---
+
+## All 20 Disney live-action remake movies, ranked
+
+date: 2024-01-04, updated: 2024-01-04, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2019/7/28/8910209/disney-live-action-remake-movies-ranked-list">https://www.polygon.com/2019/7/28/8910209/disney-live-action-remake-movies-ranked-list</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2019/7/28/8910209/disney-live-action-remake-movies-ranked-list">Save to Pocket</a>
+</span>
+
+---
+
+## Hell’s Kitchen had a secret contestant that got cut from the show
+
+date: 2024-01-04, updated: 2024-01-04, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24025309/hells-kitchen-secret-contestant-jr-season-3-episode-1">https://www.polygon.com/24025309/hells-kitchen-secret-contestant-jr-season-3-episode-1</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24025309/hells-kitchen-secret-contestant-jr-season-3-episode-1">Save to Pocket</a>
+</span>
+
+---
+
+## Netflix’s riveting survival drama Society of the Snow makes winter feel a whole lot colder
+
+date: 2024-01-04, updated: 2024-01-04, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24024525/society-of-the-snow-review-true-story-survival-movie-netflix">https://www.polygon.com/reviews/24024525/society-of-the-snow-review-true-story-survival-movie-netflix</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24024525/society-of-the-snow-review-true-story-survival-movie-netflix">Save to Pocket</a>
+</span>
 
 ---
 

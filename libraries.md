@@ -1,11 +1,25 @@
 ---
 title: libraries 2024.01
-updated: 2024-01-03 17:29:58
+updated: 2024-01-04 18:44:09
 ---
 
 # libraries 2024.01
 
-(date: 2024-01-03 17:29:58)
+(date: 2024-01-04 18:44:09)
+
+---
+
+## Guest Post — The Truth Is in There: The Library of Babel and Generative AI
+
+date: 2024-01-04, from: Scholarly Kitchen
+
+<p>The short story “The Library of Babel” by Jorge Luis Borges provides an opportunity to consider the veracity of AI-generated information.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/01/04/guest-post-the-truth-is-in-there-the-library-of-babel-and-generative-ai/">Guest Post &#8212; The Truth Is in There: The Library of Babel and Generative AI</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/01/04/guest-post-the-truth-is-in-there-the-library-of-babel-and-generative-ai/">https://scholarlykitchen.sspnet.org/2024/01/04/guest-post-the-truth-is-in-there-the-library-of-babel-and-generative-ai/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/01/04/guest-post-the-truth-is-in-there-the-library-of-babel-and-generative-ai/">Save to Pocket</a>
+</span>
 
 ---
 

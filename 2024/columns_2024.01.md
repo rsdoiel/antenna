@@ -1,11 +1,144 @@
 ---
 title: columns 2024.01
-updated: 2024-01-03 17:29:58
+updated: 2024-01-04 18:44:09
 ---
 
 # columns 2024.01
 
-(date: 2024-01-03 17:29:58)
+(date: 2024-01-04 18:44:09)
+
+---
+
+## Ryan Seacrest Tried Making an iPhone Hardware Keyboard Case 10 Years Ago
+
+date: 2024-01-05, updated: 2024-01-05, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.engadget.com/2013-12-06-typo-keyboard.html?guccounter=1">https://www.engadget.com/2013-12-06-typo-keyboard.html?guccounter=1</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.engadget.com/2013-12-06-typo-keyboard.html?guccounter=1">Save to Pocket</a>
+</span>
+
+---
+
+## Clicks: New Hardware Keyboard for iPhone
+
+date: 2024-01-05, updated: 2024-01-05, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.clicks.tech/">https://www.clicks.tech/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.clicks.tech/">Save to Pocket</a>
+</span>
+
+---
+
+## Friday 5 January, 2024
+
+date: 2024-01-05, from: John Naughton's online diary
+
+Van Gogh inverted This lovely photograph by Natalya Saprunova in yesterday’s Washington Post stopped me in my tracks. It shows bubbles of carbon dioxide and methane — released by permafrost melting — floating to the surface of a stream in &#8230; <a href="https://memex.naughtons.org/friday-5-january-2024/38987/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/friday-5-january-2024/38987/">https://memex.naughtons.org/friday-5-january-2024/38987/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/friday-5-january-2024/38987/">Save to Pocket</a>
+</span>
+
+---
+
+## The Talk Show: ‘Halos and Harps’
+
+date: 2024-01-04, updated: 2024-01-04, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://daringfireball.net/thetalkshow/2024/12/31/ep-392">https://daringfireball.net/thetalkshow/2024/12/31/ep-392</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/thetalkshow/2024/12/31/ep-392">Save to Pocket</a>
+</span>
+
+---
+
+## The Greatest Gift is Time
+
+date: 2024-01-04, from: Om Malik blog
+
+Matt Mullenweg’s 40th birthday is coming up — and as a gift, I was going to buy him&#160;40 types&#160;of cables. However, for a&#160;gift,&#160;he wants everyone to blog&#160;— especially on WordPress. So, that’s what I will do!&#160; I mean, I already blog. So, not that much of a stretch. However, for Matt, I am going to &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/01/04/the-greatest-gift-is-time/">https://om.co/2024/01/04/the-greatest-gift-is-time/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/01/04/the-greatest-gift-is-time/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Like I Said Many Years Ago, I Never Had a Problem With Drugs, Only With Cops.’
+
+date: 2024-01-04, updated: 2024-01-04, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://daringfireball.net/linked/2023/12/19/keith-richards-80#update">https://daringfireball.net/linked/2023/12/19/keith-richards-80#update</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/linked/2023/12/19/keith-richards-80#update">Save to Pocket</a>
+</span>
+
+---
+
+## Facebook’s new old way to follow you around!
+
+date: 2024-01-04, from: Om Malik blog
+
+The company pitches Link History as a useful tool for consumers “with your browsing activity saved in one place,” rather than another way to keep tabs on your behavior. With the new setting you’ll “never lose a link again,” Facebook says in a pop-up encouraging users to consent to the new tracking method. The company &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/01/04/facebook-doing-facebook-things/">https://om.co/2024/01/04/facebook-doing-facebook-things/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/01/04/facebook-doing-facebook-things/">Save to Pocket</a>
+</span>
+
+---
+
+## Jim Courtney, RIP
+
+date: 2024-01-04, from: Om Malik blog
+
+Nothing quite reminds you of the passage of time as the passing of people you have met on your journey. Today I learned from Andy Abramson that Jim Courtney, a long-time blogger who wrote about all things voice telephony and Skype, had recently passed away. Andy knew him much more closely than I did. He was a lively presence in the “VoIP” &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/01/04/jim-courtney-founder-of-skype-journal-rip/">https://om.co/2024/01/04/jim-courtney-founder-of-skype-journal-rip/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/01/04/jim-courtney-founder-of-skype-journal-rip/">Save to Pocket</a>
+</span>
+
+---
+
+## New iPhone Exploit Uses Four Zero-Days
+
+date: 2024-01-04, updated: 2023-12-28, from: Bruce Schneier blog
+
+<p>Kaspersky researchers <a href="https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/#p3">are detailing</a> &#8220;an attack that over four years backdoored dozens if not thousands of iPhones, many of which belonged to employees of Moscow-based security firm Kaspersky.&#8221; It&#8217;s a zero-click exploit that makes use of four iPhone zero-days.</p>
+<blockquote><p>The most intriguing new detail is the targeting of the heretofore-unknown hardware feature, which proved to be pivotal to the Operation Triangulation campaign. A zero-day in the feature allowed the attackers to bypass advanced <a href="https://support.apple.com/guide/security/operating-system-integrity-sec8b776536b/web">hardware-based memory protections</a> designed to safeguard device system integrity even after an attacker gained the ability to tamper with memory of the underlying kernel. On most other platforms, once attackers successfully exploit a kernel vulnerability they have full control of the compromised system...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/new-iphone-exploit-uses-four-zero-days.html">https://www.schneier.com/blog/archives/2024/01/new-iphone-exploit-uses-four-zero-days.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/new-iphone-exploit-uses-four-zero-days.html">Save to Pocket</a>
+</span>
+
+---
+
+## Worse Than a "Do Nothing" Congress
+
+date: 2024-01-04, from: Dan Rather's Steady
+
+For the past several decades of divisive American politics, there has been a game played by pundits and politicians alike: Is this Congress the least productive ever? I know it has been said before, but this 118th Congress may actually be the worst one yet. Rep. Patrick McHenry, a Republican from North Carolina who is calling it quits, labeled it &#8220;a very actively stupid political environment.&#8221;
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/worse-than-a-do-nothing-congress">https://steady.substack.com/p/worse-than-a-do-nothing-congress</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/worse-than-a-do-nothing-congress">Save to Pocket</a>
+</span>
+
+---
+
+## The “I won’t vote for the lesser of two evils” rubbish
+
+date: 2024-01-04, from: Robert Reich's blog
+
+Recalling a discussion I had with Chris Hedges in 2016
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/the-i-wont-vote-for-the-lesser-of">https://robertreich.substack.com/p/the-i-wont-vote-for-the-lesser-of</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/the-i-wont-vote-for-the-lesser-of">Save to Pocket</a>
+</span>
 
 ---
 
