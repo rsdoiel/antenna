@@ -7,6 +7,7 @@ title: Snapshots
 These are a snapshot of a single day's collection of item from [news.txt](news.txt)
 
 
+- [2024-01-04](today-2024-01-04.html)
 - [2024-01-03](today-2024-01-03.html)
 - [2023-12-25](today-2023-12-25.html)
 - [2023-12-24](today-2023-12-24.html)
