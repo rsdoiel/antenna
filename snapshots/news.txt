@@ -419,7 +419,5 @@ https://www.ccc.de/de/rss/updates.xml "~Chaos Computer Club Updates" curl/8.5.0 
 https://media.ccc.de/news.atom "~Chaos Computer Club News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://timkellogg.me/blog/atom.xml "~Tom Kellog blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://maggieappleton.com/rss.xml "~Maggie Appleton blog"
-#http://feeds.feedburner.com/marginalrevolution/feed "~Marginal Revolution blog"
-https://feeds.feedblitz.com/marginalrevolution "~Marginal Revolution blog"
 https://www.oneusefulthing.org/feed "~One Useful Thing"
 https://webcurios.co.uk/feed/ "~Web Curios blog"

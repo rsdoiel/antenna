@@ -227,8 +227,6 @@ https://www.foxhound.systems/blog/rss.xml "~Fox Hound Systems blog" curl/8.5.0 (
 https://api.quantamagazine.org/feed/ "~Quanta Magazine" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://timkellogg.me/blog/atom.xml "~Tom Kellog blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://maggieappleton.com/rss.xml "~Maggie Appleton blog"
-#http://feeds.feedburner.com/marginalrevolution/feed "~Marginal Revolution blog"
-https://feeds.feedblitz.com/marginalrevolution "~Marginal Revolution blog"
 
 #
 # Problem feeds
