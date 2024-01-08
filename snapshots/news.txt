@@ -421,3 +421,8 @@ https://timkellogg.me/blog/atom.xml "~Tom Kellog blog" curl/8.5.0 (rsdoiel@gmail
 https://maggieappleton.com/rss.xml "~Maggie Appleton blog"
 https://www.oneusefulthing.org/feed "~One Useful Thing"
 https://webcurios.co.uk/feed/ "~Web Curios blog"
+
+#
+# Hobbies
+#
+https://smallworkshop.co.uk/rss/ "~Small Workshop UK blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
