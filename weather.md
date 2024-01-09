@@ -1,11 +1,636 @@
 ---
 title: weather 2024.02
-updated: 2024-01-08 08:10:29
+updated: 2024-01-09 08:28:38
 ---
 
 # weather 2024.02
 
-(date: 2024-01-08 08:10:29)
+(date: 2024-01-09 08:28:38)
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1020 AM CST Tue Jan 09 2024
+
+Valid 091700Z - 101200Z
+
+...NO CRITICAL AREAS...
+
+No changes to the ongoing forecast.
+
+..Wendt.. 01/09/2024
+
+.PREV DISCUSSION... /ISSUED 0205 AM CST Tue Jan 09 2024/
+
+...Synopsis...
+A strong upper-level cyclone over the southern CONUS will move
+eastward with the surface low moving into the mid MS Valley early
+this morning. Strong low-level winds should remain behind the low
+and the trailing cold front as it moves into the Gulf. A few hours
+of dry and breezy post-frontal conditions are possible across parts
+of deep south TX this morning through the early afternoon. Gusts of
+25-30 mph with humidity below 25% may support a few hours of
+meteorological elevated fire-weather conditions before winds begin
+to weaken later in the day. However, near-normal fuel moisture and
+the brief overlap of the strongest dry and windy conditions suggest
+any fire-weather concerns will remain relatively low end and
+localized.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 29
+
+date: 2024-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0029.html"><img src="https://www.spc.noaa.gov/products/md/mcd0029.png" border="1" alt="MD 0029 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0029
+NWS Storm Prediction Center Norman OK
+0912 AM CST Tue Jan 09 2024
+
+Areas affected...Eastern Iowa...northwest Illinois...and far
+southwest Wisconsin.
+
+Concerning...Heavy snow 
+
+Valid 091512Z - 091815Z
+
+SUMMARY...Moderate to heavy snow with rates of 1 to 2 inches per
+hour are expected into the early afternoon. Strong winds will lead
+to blowing, drifting, and reduced visibility.
+
+DISCUSSION...A 987mb surface low currently southeast of St. Louis
+this morning will continue to deepen through the day as it moves
+north into Michigan and deepens below 980mb. Within the last hour,
+snowfall rates have started to increase across eastern Iowa within
+the deformation region of the cyclone. Expect this moderate to heavy
+snow to shift eastward into northern Illinois and Wisconsin during
+the day in response to the deepening/moving cyclone. Winds are
+already around 20 mph with gusts to 30 mph but are expected to
+strengthen further to around 25 mph with gusts to 40 mph this
+afternoon as the pressure gradient tightens. Widespread blowing and
+drifting snow is expected with localized blizzard conditions
+possible.
+
+..Bentley.. 01/09/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...LOT...ILX...MKX...DVN...ARX...DMX...
+
+LAT...LON   40859304 41019375 41789363 42189297 42798981 42608890
+            41898904 41178951 40559126 40859304 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0029.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/md0029.html">https://www.spc.noaa.gov/products/md/md0029.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md0029.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 30
+
+date: 2024-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0030.html"><img src="https://www.spc.noaa.gov/products/md/mcd0030.png" border="1" alt="MD 0030 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0030
+NWS Storm Prediction Center Norman OK
+0945 AM CST Tue Jan 09 2024
+
+Areas affected...Portions of north FL...coastal/eastern GA...much of
+SC...and extreme south-central NC
+
+Concerning...Severe potential...Tornado Watch likely 
+
+Valid 091545Z - 091745Z
+
+Probability of Watch Issuance...80 percent
+
+SUMMARY...Conditions are expected to become increasingly favorable
+for tornadoes and severe/damaging winds over the next couple of
+hours. Tornado Watch issuance is likely.
+
+DISCUSSION...A broken line of convection extends from northeast GA
+to the FL Panhandle along/near a surface cold front. A powerful
+upper cyclone is centered over the mid MS Valley this morning, with
+associated 60-80+ kt southerly low-level jet rapidly advecting
+moisture northward ahead of the line. Various recent RAP/NAM
+forecast soundings across north FL into coastal/eastern GA and much
+of SC suggest that it will take at least 62-63F surface dewpoints
+amid modest daytime heating to aid weak boundary-layer
+destabilization and the potential for surface-based thunderstorms.
+Latest surface observations indicate that sufficient low-level
+moisture is already in place as far north as central GA/SC.
+
+Current expectations are that this continued low-level warm/moist
+advection will likely support a severe threat as far north as parts
+of upstate SC and towards Charlotte NC. Area VWPs ahead of the
+ongoing QLCS show low-level flow quickly strengthening to 60-70+ kt
+above 1 km, with ample low-level shear available to support updraft
+rotation and embedded tornadic circulations within the line.
+Severe/damaging downdraft winds of 60-75 mph also appear likely
+given the strength of the low-level flow. With the severe potential
+likely to increase across this region over the next few hours,
+Tornado Watch issuance is likely.
+
+..Gleason/Hart.. 01/09/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...CHS...CAE...GSP...JAX...
+
+LAT...LON   29908244 31848219 32578194 33248219 34118244 35028094
+            34778040 33478014 32807960 32018073 30918133 29738123
+            29458216 29908244 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0030.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/md0030.html">https://www.spc.noaa.gov/products/md/md0030.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md0030.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 28
+
+date: 2024-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0028.html"><img src="https://www.spc.noaa.gov/products/md/mcd0028.png" border="1" alt="MD 0028 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0028
+NWS Storm Prediction Center Norman OK
+0905 AM CST Tue Jan 09 2024
+
+Areas affected...Portions of the FL Panhandle into north FL and
+south-central GA
+
+Concerning...Tornado Watch 4...
+
+Valid 091505Z - 091630Z
+
+The severe weather threat for Tornado Watch 4 continues.
+
+SUMMARY...The threat for embedded QLCS tornadoes and damaging winds
+will continue this morning.
+
+DISCUSSION...A broken line of thunderstorms, with occasional
+embedded supercell structures, is ongoing this morning across parts
+of the FL Panhandle into south/central GA. Multiple CC
+minima/tornadic circulations have been observed with this line over
+the past several hours. Modifying the 12Z TLH sounding for current
+surface observations yields only weak MLCAPE. Still, rapid low-level
+moisture advection is occurring ahead of the line, and even modest
+daytime heating should allow for weak destabilization downstream.
+Current expectations are for the tornado threat to continue eastward
+across south-central GA and north FL, as area VWPs show extremely
+strong low-level flow (1 km southerly winds in excess of 70 kt from
+KTLH) and 0-1 km SRH approaching 600 m2/s2 that will easily support
+embedded QLCS circulations. Straight-line severe/damaging winds
+around 60-75 mph will also remain a threat with the line given the
+strength of the low-level flow.
+
+..Gleason.. 01/09/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...JAX...FFC...TAE...
+
+LAT...LON   29718528 31998449 32288331 32058257 31408249 30198264
+            29758290 29588342 29908397 29858433 29608471 29528499
+            29598526 29718528 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0028.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/md0028.html">https://www.spc.noaa.gov/products/md/md0028.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md0028.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 9, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1004 AM CST Tue Jan 09 2024
+
+Valid 091630Z - 101200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS TODAY FROM
+SOUTHEAST GEORGIA AND NORTHERN FLORIDA INTO THE CENTRAL AND EASTERN
+CAROLINAS....
+
+...SUMMARY...
+Tornadoes (some strong), damaging to severe gusts and isolated hail
+are expected over parts of the Southeast, from the eastern Gulf
+Coast to the coastal Carolinas.
+
+...Southeast states...
+A deep upper low is over the mid MS valley today, with an associated
+100+ knot mid-level jet max rotating across the TN Valley.  A line
+of intense thunderstorms extends from northeast-southwest GA into
+the FL panhandle and the eastern Gulf.  These storms will progress
+rapidly eastward today across FL and the Carolinas, where very
+strong southerly low-level winds will advect an increasingly moist
+and marginally unstable air mass northward.
+
+The convective line is currently well-ahead of the primary cold
+front.  However, model guidance suggests that the front will
+overtake the line through the afternoon, resulting in enhanced
+forcing and likely contributing to thunderstorm intensification. 
+Instability ahead of the line will be marginal, but extremely strong
+wind speeds and shear (850mb wind speeds of 80-90 knots) suggest the
+risk of widespread strong to damaging wind gusts in vicinity of the
+squall line.  Also, numerous QLCS circulations and attendant risk of
+tornadoes have been noted along the line this morning, and may at
+least occasionally continue through the day in some corridors.
+
+..Hart/Bentley.. 01/09/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Tornado Watch 4 Status Reports
+
+date: 2024-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0004.html"><img src="https://www.spc.noaa.gov/products/watch/ww0004_radar.gif" border="1" alt="WW 0004 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 4
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 35 S AAF TO
+15 WNW TLH TO 5 SSE ABY TO 30 NNE ABY TO 40 SSW MCN TO 10 NNE MCN
+TO 40 NNE MCN.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 0028
+
+..GLEASON..01/09/24
+
+ATTN...WFO...BMX...TAE...JAX...FFC...
+
+
+STATUS REPORT FOR WT 4 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+FLC023-029-037-039-041-047-065-067-073-077-079-121-123-129-
+091640-
+
+FL 
+.    FLORIDA COUNTIES INCLUDED ARE
+
+COLUMBIA             DIXIE               FRANKLIN            
+GADSDEN              GILCHRIST           HAMILTON            
+JEFFERSON            LAFAYETTE           LEON                
+LIBERTY              MADISON             SUWANNEE            
+TAYLOR               WAKULLA             
+
+
+GAC003-005-009-017-019-021-023-027-065-069-071-075-081-091-093-
+095-101-107-125-131-141-153-155-161-163-167-169-173-175-185-205-
+209-235-271-275-277-279-283-287-289-299-301-303-309-315-319-321-
+091640-
+
+GA 
+.    GEORGIA COUNTIES INCLUDED ARE
+
+ATKINSON             BACON               BALDWIN             
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0004.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/ws0004.html">https://www.spc.noaa.gov/products/watch/ws0004.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/ws0004.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Tornado Watch 4
+
+date: 2024-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0004.html"><img src="https://www.spc.noaa.gov/products/watch/ww0004_radar.gif" border="1" alt="WW 0004 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 4
+NWS Storm Prediction Center Norman OK
+705 AM EST Tue Jan 9 2024
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Southeastern Alabama
+  Northern Florida and central/eastern Florida Panhandle
+  Southern Georgia
+  Coastal Waters
+
+* Effective this Tuesday morning and afternoon from 705 AM until
+  200 PM EST.
+
+* Primary threats include...
+  A few tornadoes likely with a couple intense tornadoes possible
+  Scattered damaging winds and isolated significant gusts to 75
+    mph possible
+  Isolated large hail events to 1 inch in diameter possible
+
+SUMMARY...A severe squall line, with embedded potentially tornadic
+circulations and damaging nontornadic winds, will sweep eastward
+across the watch area through the remainder of the morning, into
+early afternoon.  A few supercells also are possible ahead of the
+line with a threat for tornadoes (some strong), severe gusts and
+isolated hail.
+
+The tornado watch area is approximately along and 85 statute miles
+north and south of a line from 10 miles south southwest of Crestview
+FL to 55 miles east northeast of Valdosta GA. For a complete
+depiction of the watch see the associated watch outline update
+(WOUS64 KWNS WOU4).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 3...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 1 inch. Extreme turbulence and surface wind
+gusts to 65 knots. A few cumulonimbi with maximum tops to 450. Mean
+storm motion vector 23035.
+
+...Edwards
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0004.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/ww0004.html">https://www.spc.noaa.gov/products/watch/ww0004.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/ww0004.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 9, 2024 0830 UTC Day 3 Severe Thunderstorm Outlook
+
+date: 2024-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3 Convective Outlook CORR 1
+NWS Storm Prediction Center Norman OK
+0712 AM CST Tue Jan 09 2024
+
+Valid 111200Z - 121200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS THURSDAY NIGHT
+ACROSS PARTS OF EASTERN TEXAS...MUCH OF CENTRAL AND NORTHERN
+LOUISIANA...SOUTHERN ARKANSAS AND WESTERN MISSISSIPPI...
+
+CORRECTED FOR FL THUNDERSTORM LINE.
+
+...SUMMARY...
+Strong thunderstorm development is possible Thursday night across
+parts of central and eastern Texas into the lower Mississippi
+Valley, where storms may increasingly pose a risk for severe hail,
+wind and tornadoes prior to daybreak Friday.
+
+...Discussion...
+To the east of persistent amplified mid/upper ridging within the
+split flow across the mid-latitude eastern Pacific, one notable
+short wave impulse of northern Canadian Arctic origins is forecast
+to dig southeast of the Canadian Rockies, into the northern U.S.
+intermountain region and Rockies by late Thursday night.  Downstream
+of this perturbation, another short wave trough, of northern
+mid-latitude Pacific origins, is forecast to dig through the
+Southwestern international border area, before rapidly pivoting east
+of the southern Rockies/northern Mexican Plateau through the
+southern Great Plains by the end of the period.
+
+As stronger mid/upper forcing for ascent associated with the lead
+perturbation approaches the Ark-La-Tex vicinity, it still appears
+that a surface low may begin to consolidate within deepening surface
+troughing across the southern Great Plains into lower Mississippi
+Valley.  Timing of the onset of more rapid deepening is becoming a
+bit more unclear, but still seems probable prior to 12Z Friday. 
+Once this occurs, a more substantive inland influx of low-level
+moisture, off a still modifying boundary-layer over the northwestern
+Gulf of Mexico, is expected to contribute to increasing near-surface
+or surface-based destabilization.  This appears likely to be aided
+by steepening lapse rates associated with mid-level cooling, in the
+exit region of an intense jet streak (northwesterly to westerly at
+100-120 kt around 500 mb).  
+
+Coincident with strengthening southerly lower-level flow (in excess
+of 50 kt) across the lower Mississippi Valley by 12Z Friday, rapidly
+intensifying thunderstorms posing increasing severe weather 
+potential is possible by late Thursday night, if not earlier.  The
+mid/upper forcing for ascent may contribute to thunderstorm
+initiation as early and far west as late Thursday evening near the
+(roughly) I-35 corridor of central Texas.  This may gradually evolve
+into an upscale growing and organizing cluster across eastern Texas
+into western Louisiana and Arkansas, with an additional area of
+downstream warm advection driven supercell development possible
+closer to the Mississippi River, by the end of the period.
+
+..Kerr.. 01/09/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day3otlk_0830.html">https://www.spc.noaa.gov/products/outlook/day3otlk_0830.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day3otlk_0830.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 9, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0658 AM CST Tue Jan 09 2024
+
+Valid 091300Z - 101200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS OVER PARTS OF
+THE SOUTHEAST...FROM THE EASTERN GULF COAST TO THE COASTAL
+CAROLINAS...
+
+...SUMMARY...
+Tornadoes (some strong), damaging to severe gusts and isolated hail
+are expected over parts of the Southeast, from the eastern Gulf
+Coast to the coastal Carolinas.
+
+...Synopsis...
+The main mid/upper-level feature for this forecast will be a well-
+developed cyclone, initially centered over the KS/OK/MO tri-state
+region, along a synoptic-scale trough extending from MN to the
+Arklatex to near BRO.  The 500-mb low is expected to move
+northeastward through the period, reaching to near HUF by 00Z and
+over southern ON late tonight.  Meanwhile, the trailing trough will
+become more neutrally to slightly positively tilted, crossing AL
+around 00Z and moving offshore from NC around 12Z tomorrow.
+
+At the surface, a low was analyzed at 11Z near STL, with occluded
+front southeastward into AL, and cold front across southern AL, the
+western FL Panhandle, and the north-central Gulf.  A warm front was
+drawn from south-central AL southeastward over the northeastern
+Gulf, then diffusely eastward over central FL and adjoining parts of
+the Atlantic.  The warm front may shift/redevelop quickly northward
+today into northern FL and parts of GA, as well as reaching the
+Carolinas during the afternoon.  The low should move erratically
+northeastward to southern Lake Michigan by 00Z, becoming more deeply
+occluded.  In the meantime today, the cold front should sweep across
+much of the Southeast, extending from central/eastern NC south-
+southwestward across Atlantic waters to central FL by around 00Z. 
+The cold front should continue to be preceded by a well-organized
+squall line.
+
+...Southeast...
+A strong-severe squall line, with embedded bow/LEWP formations and
+sporadically tornadic meso/misovortices -- was evident over
+southeastern AL and the western FL Panhandle.  Isolated supercells
+ahead of the line this morning, in the FL Panhandle and eventually
+into portions of southwestern GA -- will pose a tornado, wind and
+isolated severe-hail threat as well.  Even for relatively short-
+lived tornadoes, fast translation can lengthen paths more than
+usual, and enhance potential damage intensity on one side to
+significant (EF2+) level.  For more detailed near-term coverage, see
+SPC tornado watch 4 and associated mesoscale discussions.
+
+The main convective band should continue to produce damaging wind
+and occasional QLCS tornadoes as it moves eastward over the outlook
+area today.  A relative min in forcing for discrete, warm-sector
+supercells, as well as in upstream boundary-layer theta-e available
+to the squall line, remain plausible, and account for a somewhat
+lower (but still well worth outlook coverage) all-hazard severe
+threat between the northeast Gulf Coast and Carolinas areas.  Then
+potential is expected to ramp up again this afternoon into early
+evening as the activity nears the Atlantic Coast, and as warm/moist
+advection from a modifying Atlantic boundary layer supports
+increasing potential for oceanic supercells to reach the shore
+there.  Warm-sector MLCAPE should reach the 1000-1500 J/kg range the
+next few hours in the FL Panhandle, and mid/late afternoon over
+portions of the coastal Carolinas and west-central/central FL. 
+Otherwise, MLCAPE of 200-700 J/kg should be common over most of the
+outlook area just ahead of the QLCS.
+
+Vertical shear, by almost any common measure, will remain strong
+area-wide.  50-60-kt effective-shear magnitudes should be common,
+along with 35-50 kt vectors in the lowest km.  Mass response to the
+progressive mid/upper cyclone and trough will continue to yield a
+65-95-kt LLJ shifting east-northeastward across the preceding warm
+sector.  This will contribute to effective SRH over 400 J/kg in the
+warm-frontal zone, and 200-500 J/kg in the warm sector.  In addition
+to enlarging low-level hodographs, LLJ-associated momentum transfer
+from the intense winds just above the surface, in strong convective
+cores, may yield locally severe downdraft gusts, some perhaps
+reaching 65 kt.
+
+..Edwards/Bentley.. 01/09/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Tornado Watch 3 Status Reports
+
+date: 2024-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0003.html"><img src="https://www.spc.noaa.gov/products/watch/ww0003_radar.gif" border="1" alt="WW 0003 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 3
+
+SEVERE WEATHER THREAT CONTINUES RIGHT OF A LINE FROM 85 SSW PNS
+TO 10 SSE PNS TO 25 ESE GZH TO 15 NW TOI.
+
+FOR ADDITIONAL INFORMATION SEE MESOSCALE DISCUSSION 0026
+
+..JEWELL..01/09/24
+
+ATTN...WFO...MOB...TAE...LIX...JAN...
+
+
+STATUS REPORT FOR WT 3 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+ALC031-039-041-045-061-067-069-091340-
+
+AL 
+.    ALABAMA COUNTIES INCLUDED ARE
+
+COFFEE               COVINGTON           CRENSHAW            
+DALE                 GENEVA              HENRY               
+HOUSTON              
+
+
+FLC005-013-045-059-063-091-131-133-091340-
+
+FL 
+.    FLORIDA COUNTIES INCLUDED ARE
+
+BAY                  CALHOUN             GULF                
+HOLMES               JACKSON             OKALOOSA            
+WALTON               WASHINGTON          
+
+
+GMZ634-635-636-655-750-752-091340-
+
+CW 
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0003.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/ws0003.html">https://www.spc.noaa.gov/products/watch/ws0003.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/ws0003.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -298,112 +923,6 @@ sturdy building.
 
 ---
 
-## SPC Jan 8, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-01-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0707 AM CST Mon Jan 08 2024
-
-Valid 081300Z - 091200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS THE GULF
-COAST STATES...
-
-...SUMMARY...
-Severe thunderstorms capable of strong wind gusts and tornadoes are
-expected across the Gulf Coast States this afternoon through early
-Tuesday morning, spanning southeast Texas and southern Louisiana
-across southern Mississippi, southern Alabama to the western Florida
-Panhandle.
-
-...Northern Texas/ArkLaTex Today...
-Thunderstorms erupted overnight within the warm conveyor extending
-across north Texas into Oklahoma/Kansas, which includes some
-well-organized linear structures across western north Texas/Big
-Country in the predawn hours. These more organized storms are
-elevated and occurring parallel to robustly strengthening deep-layer
-southwesterly winds. Severe hail potential will tend to be mitigated
-by a more linear convective mode, while severe-caliber wind gust
-potential, particularly with northward regional extent, will tend to
-be limited by the coolness/stability of the boundary layer.
-Regardless, some stronger thunderstorm wind gusts could occur
-through the afternoon. For additional short-term details, see
-Mesoscale Discussion 12.
-
-...East/southeast Texas to southwest Louisiana through Evening...
-Secondary surface low development is expected across east Texas
-through the afternoon with an evolving surface triple point across
-east-central Texas, all while mid/upper 60s F surface dewpoints
-become increasingly common across southeast Texas/southwest
-Louisiana. Widespread cloud cover and scattered warm advection
-showers will initially limit solar heating, but inhibition should
-weaken through the afternoon as deep-layer ascent increases and
-gradual warming of the boundary layer supports 1200-2000 J/kg
-MLCAPE. Scattered thunderstorms should gradually evolve/deepen as
-forcing for ascent increases this afternoon, coincident with strong
-low-level and deep-layer shear profiles sufficient for supercells
-and an increasing tornado/damaging wind risk. A few semi-discrete
-storms/supercells may develop ahead of more linearly organized
-storms evolving near the cold front during the afternoon and
-evening. A strong tornado could occur given the magnitude of the
-low-level shear/SRH.
-
-...Middle Gulf Coast tonight through early Tuesday...
-A particularly active severe-weather scenario is expected tonight
-through early Tuesday across the region, spanning areas from
-southeast Louisiana, southern Mississippi, southern Alabama to the
-western Florida Panhandle. This may include multiple rounds of
-fast-moving severe storms, with concerns for nocturnal strong
-tornadoes and wind damage through the overnight hours as extremely
-strong low/mid-level winds influence the region in tandem with an
-inland developing warm/moist sector.
-
-Scattered elevated showers and thunderstorms should develop/increase
-and expand northeastward across today to the north of a warm front
-as the warm conveyor gradually refocuses eastward across the region.
-Some guidance suggests this convection could be fairly extensive,
-which will probably hinder the northward extent of richer maritime
-air later today/tonight, tending to focus the highest probability
-severe risks in coastal areas (generally within 75 miles from the
-Gulf of Mexico). 
-
-Aided by a surface wave across the ArkLaMiss and eventually into
-Alabama, in the wake of the aforementioned elevated storms earlier
-in the day, an influx of higher theta-e will move inland tonight
-with an increasing potential for surface-based storms across the
-aforementioned coastal regions. Semi-discrete supercells capable of
-tornado potential may first increase tonight near the
-inland-advancing warm front, which will precede (to the east of)
-increasingly organized linear convection near the cold front/surface
-wave across Louisiana/Mississippi.
-
-This will be a time when deep-layer/low-level winds are dramatically
-strengthening, accentuated by a 70+ kt low-level jet. Some portions
-of the region, especially parts of southeast Louisiana and far
-southern Mississippi, may experience multiple rounds of severe
-storms that have a tornado risk. Regardless, a consequential
-damaging wind/tornado risk will regionally increase nocturnally,
-including the potential for strong (EF2+) tornadoes, in multiple
-regimes potentially including some semi-discrete near-coastal
-supercells as well as the more prevalent evolving quasi-linear
-convection that is likely to reach southern Alabama and the Florida
-Panhandle by the predawn hours (roughly 09Z-12Z).
-
-..Guyer/Smith.. 01/08/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
-</span>
-
----
-
 ## SPC Day 2 Fire Weather Outlook
 
 date: 2024-01-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -617,99 +1136,6 @@ possible.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2024-01-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1033 AM CST Sun Jan 07 2024
-
-Valid 071700Z - 081200Z
-
-...NO CRITICAL AREAS...
-
-No changes to the ongoing forecast.
-
-..Wendt.. 01/07/2024
-
-.PREV DISCUSSION... /ISSUED 0159 AM CST Sun Jan 07 2024/
-
-...Synopsis...
-An amplified and progressive mid-level flow pattern will persist
-over the CONUS as a Pacific trough is forecast to rapidly deepen
-over parts of the western US before ejecting eastward over the
-southern Plains. In response, a strong lee low will develop,
-supporting gusty winds across parts of West TX. However, cool
-temperatures and widespread recent precipitation should limit
-fire-weather concerns.
-
-...Texas Trans Pecos...
-As the upper trough and surface low move across the southern Plains,
-strong southerly winds and pockets of lower humidity are possible
-over parts of West TX and southern NM. Gusts of 25-35 mph and RH
-values below 20% are possible over a minima in recent precipitation.
-Elevated to critical meteorological conditions are possible in parts
-of southern New Mexico into the Trans-Pecos. However, unreceptive
-fuels are not expected to support widespread concerns.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Jan 7, 2024 1630 UTC Day 1 Convective Outlook
-
-date: 2024-01-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1015 AM CST Sun Jan 07 2024
-
-Valid 071630Z - 081200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS LATE TONIGHT
-OVER PORTIONS OF WESTERN NORTH TEXAS AND SOUTHWEST OKLAHOMA...
-
-...SUMMARY...
-A few strong storms capable of gusty/damaging winds are possible
-late tonight over portions of western north Texas and southwest
-Oklahoma.
-
-...TX/OK...
-A vigorous shortwave trough currently over southern NV will
-amplify/deepen tonight as it digs into the southern Rockies. 
-Meanwhile, an intense southerly low-level jet will develop ahead of
-the system over TX, resulting in enhanced low-level warm advection
-and lift - along with weak destabilization.  The result will likely
-be the development of a line of fast-moving showers and
-thunderstorms after midnight over parts of west TX and southwest OK.
- Forecast soundings show very weak thermodynamics, suggesting the
-updraft strength will be modest.  However, given the strong low and
-upper level support, a narrow-line of forced convection may become
-capable of locally gusty/damaging wind gusts (mainly 09-12z).
-
-..Hart/Bentley.. 01/07/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
 </span>
 
 

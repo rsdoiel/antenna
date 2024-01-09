@@ -1,11 +1,39 @@
 ---
 title: libraries 2024.02
-updated: 2024-01-08 08:10:29
+updated: 2024-01-09 08:28:38
 ---
 
 # libraries 2024.02
 
-(date: 2024-01-08 08:10:29)
+(date: 2024-01-09 08:28:38)
+
+---
+
+## Day in Review (January 9–12)
+
+date: 2024-01-09, from: Association of Research Libraries News
+
+<p>Last Updated on January 9, 2024, 10:48 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 10 &#124; Wednesday, January 11 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-9-12-2/">Day in Review (January 9–12)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/day-in-review/day-in-review-january-9-12-2/">https://www.arl.org/day-in-review/day-in-review-january-9-12-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/day-in-review/day-in-review-january-9-12-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Trust in Scholarly Publishing
+
+date: 2024-01-09, from: Scholarly Kitchen
+
+<p>How do we define, track, and measure trust in scholarly publishing?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/01/09/trust-in-scholarly-publishing/">Trust in Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/01/09/trust-in-scholarly-publishing/">https://scholarlykitchen.sspnet.org/2024/01/09/trust-in-scholarly-publishing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/01/09/trust-in-scholarly-publishing/">Save to Pocket</a>
+</span>
 
 ---
 

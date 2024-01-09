@@ -1,11 +1,600 @@
 ---
 title: tech likely 2024.02
-updated: 2024-01-08 08:10:29
+updated: 2024-01-09 08:28:38
 ---
 
 # tech likely 2024.02
 
-(date: 2024-01-08 08:10:29)
+(date: 2024-01-09 08:28:38)
+
+---
+
+## NASA’s Webb Finds Signs of Possible Aurorae on Isolated Brown Dwarf
+
+date: 2024-01-09, from: NASA breaking news
+
+Infrared emission from methane suggests atmospheric heating by auroral processes. Astronomers using NASA’s James Webb Space Telescope have found a brown dwarf (an object more massive than Jupiter but smaller than a star) with infrared emission from methane, likely due to energy in its upper atmosphere. This is an unexpected discovery because the brown dwarf, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/webb/nasas-webb-finds-signs-of-possible-aurorae-on-isolated-brown-dwarf/">https://www.nasa.gov/missions/webb/nasas-webb-finds-signs-of-possible-aurorae-on-isolated-brown-dwarf/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/webb/nasas-webb-finds-signs-of-possible-aurorae-on-isolated-brown-dwarf/">Save to Pocket</a>
+</span>
+
+---
+
+## MNT Reform - a hackable laptop, not for everyone
+
+date: 2024-01-09, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">MNT Reform - a hackable laptop, not for everyone</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/mnt-reform-hero-bottom.jpg" width="700" height="auto" class="insert-image" alt="MNT Reform bottom with purple battery cells" /></p>
+
+<p>The <a href="https://shop.mntre.com/products/mnt-reform">MNT Reform</a>'s design, the components, <em>everything</em>—is open source. If iFixIt did a teardown, they'd probably give it an 11 out of 10.</p>
+
+<p>You can replace <em>individual battery cells!</em> Some people with these laptops hacked in their own speakers, added more internal Ethernet, or even swapped out the CPU itself.</p>
+
+<p>Does that mean I think you should buy it? No, probably not. It's expensive (<a href="https://shop.mntre.com/products/mnt-reform">starting at €1199</a>), and it's built for a certain type of person. It's not gonna replace a MacBook or a cheap Chromebook.</p>
+
+<p>But why does this exist, and why am I excited about it?</p>
+
+<blockquote>
+  <p><strong>Disclaimer</strong>: The reform used in this review was sent to me for testing; it's already been shipped back to MNT Research. They haven't paid me anything, and they have no input into the content of this blog post.</p></blockquote></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-01-09T10:00:42-06:00" title="Tuesday, January 9, 2024 - 10:00" class="datetime">January 9, 2024</time></span>
+
+<span class="feed-item-link">
+<a href="https://www.jeffgeerling.com/blog/2024/mnt-reform-hackable-laptop-not-everyone">https://www.jeffgeerling.com/blog/2024/mnt-reform-hackable-laptop-not-everyone</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jeffgeerling.com/blog/2024/mnt-reform-hackable-laptop-not-everyone">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Magical’ Error Correction Scheme Proved Inherently Inefficient
+
+date: 2024-01-09, from: Quanta Magazine
+
+Locally correctable codes need barely any information to fix errors, but they’re extremely long. Now we know that the simplest versions can’t get any shorter.            <p>The post <a href="https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/" target="_blank">‘Magical’ Error Correction Scheme Proved Inherently Inefficient</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/">https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/">Save to Pocket</a>
+</span>
+
+---
+
+## How to buy Hacks, Leaks, and Revelations, and how to get it for free
+
+date: 2024-01-09, from: Tilde.news
+
+<p><a href="https://tilde.news/s/84mhmf/how_buy_hacks_leaks_revelations_how_get_it">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://micahflee.com/2024/01/how-to-buy-hacks-leaks-and-revelations-and-how-to-get-it-for-free">https://micahflee.com/2024/01/how-to-buy-hacks-leaks-and-revelations-and-how-to-get-it-for-free</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://micahflee.com/2024/01/how-to-buy-hacks-leaks-and-revelations-and-how-to-get-it-for-free">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-09, from: Dave Winer's Scripting News)
+
+<a href="https://www.goodreads.com/quotes/63402-you-are-entitled-to-your-opinion-but-you-are-not">Daniel Patrick Moynihan</a>: “You are entitled to your opinion. But you are not entitled to your own facts.”
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/09.html#a151651">http://scripting.com/2024/01/09.html#a151651</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/09.html#a151651">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-09, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/04/24/cheshireCat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Twitter became a <a href="https://en.wikipedia.org/wiki/Hairball">hairball</a>. I first heard this term in speeches given by a tech exec, <a href="https://en.wikipedia.org/wiki/Scott_McNealy">Scott McNealy</a>, talking about a competitor's product. A hairball is something a cat coughs up. Very undesirable. Of course, given enough time all software becomes a hairball. As you refine your understanding of how the product is being used, versus how you thought it would be used, all the new paths through the code and UI become more crooked and impenetrable by a human mind, because you still have to do all the things you did before, unless you start over. There often is value in starting over. Now is a good time to be thinking about bare-bones social web apps. People are open to new ideas. I miss the role Twitter used to play, I imagine other people do too.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/09.html#a145833">http://scripting.com/2024/01/09.html#a145833</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/09.html#a145833">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-09, from: Dave Winer's Scripting News)
+
+I asked "Is news copyrightable" on various social web sites because people aren't making a distinction between the expression and the underlying facts of news. If an AI bot reads a news article, and extracts the facts, then there's no problem, because no one owns the facts.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/09.html#a144017">http://scripting.com/2024/01/09.html#a144017</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/09.html#a144017">Save to Pocket</a>
+</span>
+
+---
+
+## Be a Burst Chaser and Witness the Most Powerful Explosions in the Universe!
+
+date: 2024-01-09, from: NASA breaking news
+
+Yes, the universe IS talking to you! Gamma-ray bursts, massive explosions visible from everywhere in the observable universe, are telling us something about how stars end their lives and how massive black holes form. Now astronomers are asking you join the Burst Chaser project to read the signals from these bursts and decode what the universe is […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/get-involved/citizen-science/be-a-burst-chaser-and-witness-the-most-powerful-explosions-in-the-universe/">https://science.nasa.gov/get-involved/citizen-science/be-a-burst-chaser-and-witness-the-most-powerful-explosions-in-the-universe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/get-involved/citizen-science/be-a-burst-chaser-and-witness-the-most-powerful-explosions-in-the-universe/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-09, from: Dave Winer's Scripting News)
+
+A puzzle about ChatGPT. How can it get something right that both Wikipedia and journalism get wrong? Journalism often uses Wikipedia as a source, thus propagating its lies and mistakes. I think this negates the idea that they're just scanning the news orgs to get their information. The method obviously is more sophisticated.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/09.html#a141434">http://scripting.com/2024/01/09.html#a141434</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/09.html#a141434">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-09, from: Miguel de Icaza Mastondon feed)
+
+<p>I didn’t make it.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111726015128060860">https://mastodon.social/@Migueldeicaza/111726015128060860</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111726015128060860">Save to Pocket</a>
+</span>
+
+---
+
+## What does a Raspberry Pi 5 X-ray reveal?
+
+date: 2024-01-09, from: Raspberry Pi News (.com)
+
+<p>Jeff Geerling did an X-ray of a Raspberry Pi 5 to reveal the secrets within our newest, most powerful computer.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/what-does-a-raspberry-pi-5-x-ray-reveal/">What does a Raspberry Pi 5 X-ray reveal?</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/what-does-a-raspberry-pi-5-x-ray-reveal/">https://www.raspberrypi.com/news/what-does-a-raspberry-pi-5-x-ray-reveal/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/what-does-a-raspberry-pi-5-x-ray-reveal/">Save to Pocket</a>
+</span>
+
+---
+
+## Arsenal mid-season report
+
+date: 2024-01-09, from: Ayjay blog
+
+This side is not a contender for the league title — not even close. At this point I&#8217;m not confident that they can hold on to a Champions League place: they&#8217;re far behind Man City and Liverpool, noticeably behind Aston Villa, and probably behind Spurs (though Spurs&#8217; lack of depth could haunt them in the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/arsenal-mid-season-report/">https://blog.ayjay.org/arsenal-mid-season-report/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/arsenal-mid-season-report/">Save to Pocket</a>
+</span>
+
+---
+
+## My book is out in the US today!
+
+date: 2024-01-09, from: Hannah Richie at Substack
+
+A data-driven look at our environmental problems and how to solve them.
+
+<span class="feed-item-link">
+<a href="https://www.sustainabilitybynumbers.com/p/book-publication">https://www.sustainabilitybynumbers.com/p/book-publication</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.sustainabilitybynumbers.com/p/book-publication">Save to Pocket</a>
+</span>
+
+---
+
+## "One Weird Trick" for effective strategic political communication campaigns
+
+date: 2024-01-09, from: Dave Karpf's blog
+
+Dear Substack: I coulda told you this would happen last month if you'd just asked.
+
+<span class="feed-item-link">
+<a href="https://davekarpf.substack.com/p/one-weird-trick-for-effective-strategic">https://davekarpf.substack.com/p/one-weird-trick-for-effective-strategic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://davekarpf.substack.com/p/one-weird-trick-for-effective-strategic">Save to Pocket</a>
+</span>
+
+---
+
+##  You Should Try Running, According to Me, Your Friend Who Won&#8217;t Shut... 
+
+date: 2024-01-09, updated: 2024-01-09, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043747-you-should-try-running-ac">https://kottke.org/24/01/0043747-you-should-try-running-ac</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043747-you-should-try-running-ac">Save to Pocket</a>
+</span>
+
+---
+
+##  Footsteps in the Snow 
+
+date: 2024-01-09, updated: 2024-01-09, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/footsteps-in-the-snow">https://kottke.org/24/01/footsteps-in-the-snow</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/footsteps-in-the-snow">Save to Pocket</a>
+</span>
+
+---
+
+## NGI0 Commons Fund Aims to Reclaim Public Nature of the Internet
+
+date: 2024-01-09, updated: 2024-01-09, from: nlnet feed
+
+
+
+<span class="feed-item-link">
+<a href="https://nlnet.nl/news/2023/20240109-CommonsFund-starts.html">https://nlnet.nl/news/2023/20240109-CommonsFund-starts.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://nlnet.nl/news/2023/20240109-CommonsFund-starts.html">Save to Pocket</a>
+</span>
+
+---
+
+## InfluxDB FDW 2.1.0 release
+
+date: 2024-01-09, from: PostgreSQL News
+
+<p>InfluxDB FDW 2.1.0 released</p>
+<p>We have just released version 2.1.0 of the Foreign Data Wrapper for InfluxDB. This release can work with PostgreSQL 12, 13, 14, 15 and 16.</p>
+<p>This release improves following item (from 2.0.0): </p>
+<ul>
+<li>Support PostgreSQL 16.0 </li>
+<li>Bug fix: Cannot delete when time series column defined as timestamptz type</li>
+</ul>
+<p>The FDW supports following features :</p>
+<ul>
+<li>InfluxDB FDW supports pushed down some aggregate functions: count, stddev, sum, max, min.</li>
+<li>InfluxDB FDW supports INSERT, DELETE statements.</li>
+<li>InfluxDB FDW supports bulk INSERT by using batch_size option from PostgreSQL version 14 or later.</li>
+<li>WHERE clauses including timestamp, interval and now() functions are pushed down.</li>
+<li>LIMIT...OFFSET clauses are pushed down when there is LIMIT clause only or both LIMIT and OFFSET.</li>
+<li>Support schemaless mode that allows access to elements in the data file without changing the table definition by using jsonb typed column.</li>
+</ul>
+<p>Limitations :</p>
+<ul>
+<li>UPDATE is not supported.</li>
+<li>WITH CHECK OPTION constraints is not supported. Following limitations originate from data model and query language of InfluxDB.</li>
+<li>Result sets have different number of rows depending on specified target list. For example, SELECT field1 FROM t1 and SELECT field2 FROM t1 returns different number of rows if the number of points with field1 and field2 are different in InfluxDB database.</li>
+<li>Timestamp precision may be lost because timestamp resolution of PostgreSQL is microseconds while that of InfluxDB is nanoseconds.</li>
+<li>Conditions like WHERE time + interval '1 day' &lt; now() do not work. Please use WHERE time &lt; now() - interval '1 day'.</li>
+</ul>
+<p>This is developed by Toshiba Digital Innovation Technology Center. 
+Please see the repository for details.
+Source repository : <a href="https://github.com/pgspider/influxdb_fdw">https://github.com/pgspider/influxdb_fdw</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/influxdb-fdw-210-release-2783/">https://www.postgresql.org/about/news/influxdb-fdw-210-release-2783/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/influxdb-fdw-210-release-2783/">Save to Pocket</a>
+</span>
+
+---
+
+## Benetl, a free ETL tool for PostgreSQL, out in version 5.8
+
+date: 2024-01-09, from: PostgreSQL News
+
+<p>Dear all,</p>
+<p>Benetl, a free ETL tool for files working with PostgreSQL, version 5.8.0 is out.</p>
+<p>This version uses Java 17 and has been tested with PostgreSQL 16.
+This version brings great code improvements (code quality) and a better unit tests coverage (over 71% code coverage).</p>
+<p>Correcting a small problem in createFunctionIntervalDate database function.
+Updating etltool.sh with JDK-17 path.</p>
+<p>You should update.</p>
+<p>Benetl is freely dowloadable at: <a href="https://www.benetl.net">https://www.benetl.net</a> </p>
+<p>You can learn more about ETL tools at: <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load">https://en.wikipedia.org/wiki/Extract,_transform,_load</a> </p>
+<p>Thanks for your interest.</p>
+<p>Regards,</p>
+<p>Benoît Carpentier</p>
+<p><a href="https://www.benetl.net">https://www.benetl.net</a></p>
+<p>Founder of Benetl and Java project manager</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/benetl-a-free-etl-tool-for-postgresql-out-in-version-58-2779/">https://www.postgresql.org/about/news/benetl-a-free-etl-tool-for-postgresql-out-in-version-58-2779/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/benetl-a-free-etl-tool-for-postgresql-out-in-version-58-2779/">Save to Pocket</a>
+</span>
+
+---
+
+## PGConf India 2024: Talks live and ticket sale started
+
+date: 2024-01-09, from: PostgreSQL News
+
+<p>Hello,</p>
+<p>We're pleased to announce that the selected talks and training for PGConf India 2024 are now live on the conference website. The tickets are now available for purchase. Early bird ticket sale would end on <b>Jan 12th 2024</b> and the prices would go up by more than 20% after that.</p>
+<p>It's our endeavour to ensure that the conference remains in reach of as many participants as possible. So we have kept the ticket prices as low as possible. Take this opportunity and book tickets soon. Our past experience suggests that the training slots get filled up very fast. Since there are limited seats per training, please book early to guarantee the training you wish to attend.</p>
+<p>To buy your tickets, head to https://pgconf.in and click Buy Tickets Now or simply visit https://www.townscript.com/e/pgconf-india-2024 . Details of various trainings available this year are available on the conference website.</p>
+<p>Feel free to contact us if you need any more details. See you at the conference soon.</p>
+<p>Thanks and Regards,</p>
+<p>PGConf India Organising Committee</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/pgconf-india-2024-talks-live-and-ticket-sale-started-2781/">https://www.postgresql.org/about/news/pgconf-india-2024-talks-live-and-ticket-sale-started-2781/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pgconf-india-2024-talks-live-and-ticket-sale-started-2781/">Save to Pocket</a>
+</span>
+
+---
+
+## GHC 9.6.4 is now available
+
+date: 2024-01-09, from: Glasgow Haskell Compiler
+
+<h1>GHC 9.6.4 is now available</h1>
+<h4 class="text-muted">Zubin Duggal - 2024-01-09</h4>
+
+<p>The GHC developers are happy to announce the availability of GHC 9.6.4. Binary
+distributions, source distributions, and documentation are available on the
+<a href="/download_ghc_9_6_4.html">release page</a>.</p>
+<p>This release is primarily a bugfix release addressing a few issues
+found in the 9.6 series. These include:</p>
+<ul>
+<li>A fix for a bug where certain warnings flags were not recognised (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24071">#24071</a>)</li>
+<li>Fixes for a number of simplifier bugs (<a href="https://gitlab.haskell.org/ghc/ghc/issues/23952">#23952</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/23862">#23862</a>).</li>
+<li>Fixes for compiler panics with certain package databases involving unusable
+units and module reexports (<a href="https://gitlab.haskell.org/ghc/ghc/issues/21097">#21097</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/16996">#16996</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/11050">#11050</a>).</li>
+<li>A fix for a typechecker crash (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24083">#24083</a>).</li>
+<li>A fix for a code generator bug on AArch64 platforms resulting in invalid
+conditional jumps (<a href="https://gitlab.haskell.org/ghc/ghc/issues/23746">#23746</a>).</li>
+<li>Fixes for some memory leaks in GHCi (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24107">#24107</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/24118">#24118</a>)</li>
+<li>And a few other fixes</li>
+</ul>
+<p>A full accounting of changes can be found in the <a href="https://downloads.haskell.org/~ghc/9.6.4/docs/users_guide/9.6.4-notes.html">release notes</a>. As
+some of the fixed issues do affect correctness users are encouraged to
+upgrade promptly.</p>
+<p>We would like to thank Microsoft Azure, GitHub, IOG, the Zw3rk stake pool,
+Well-Typed, Tweag I/O, Serokell, Equinix, SimSpace, Haskell Foundation, and
+other anonymous contributors whose on-going financial and in-kind support has
+facilitated GHC maintenance and release management over the years. Finally,
+this release would not have been possible without the hundreds of open-source
+contributors whose work comprise this release.</p>
+<p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/new">ticket</a> if you see
+anything amiss.</p>
+<p>Enjoy!</p>
+<p>-Zubin</p>
+
+
+<span class="feed-item-link">
+<a href="http://haskell.org/ghc/blog/20240109-ghc-9.6.4-released.html">http://haskell.org/ghc/blog/20240109-ghc-9.6.4-released.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://haskell.org/ghc/blog/20240109-ghc-9.6.4-released.html">Save to Pocket</a>
+</span>
+
+---
+
+## systemd through the eyes of a musl distribution maintainer
+
+date: 2024-01-08, from: OS News
+
+systemd, as a service manager, is not actually a bad piece of software by itself. The fact it can act as both a service manager and an inetd(8) replacement is really cool. The unit file format is very nice and expressive. Defining mechanism and leaving policy to the administrator is a good design. Of course, nothing exists in a vacuum. I don’t like the encouragement to link daemons to libsystemd for better integration – all of the useful integrations can be done with more portable measures. And I really don’t like the fact they consider glibc to be “the Linux API” when musl, Bionic, and other libcs exist. I’d like to dive into detail on the good and the bad of systemd, as seen through my eyes as all of: end user, administrator, and developer. ↫ awilfox awilfox is a maintainer of Adélie Linux, which does not use systemd, but this blog post is one of the few reasonable, well-written, and substantiated critiques of systemd &#8211; as opposed to the usual mindless screeching you usually hear about systemd. A great read.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138235/systemd-through-the-eyes-of-a-musl-distribution-maintainer/">https://www.osnews.com/story/138235/systemd-through-the-eyes-of-a-musl-distribution-maintainer/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138235/systemd-through-the-eyes-of-a-musl-distribution-maintainer/">Save to Pocket</a>
+</span>
+
+---
+
+## Linux 6.7 released, ending Itanium support
+
+date: 2024-01-08, from: OS News
+
+Linux 6.7 has many exciting features including initial support for the Bcachefs file-system, Intel Meteor Lake graphics are stable as is the rest of the MTL platform support, initial NVIDIA GSP firmware support with the Nouveau driver, retiring of Intel Itanium support, and other new features with Linux 6.7. ↫ Michael Larabel The end of Itanium support is unforgivable. Itanium is the future, and Linux will miss the boat.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138233/linux-6-7-released-ending-itanium-support/">https://www.osnews.com/story/138233/linux-6-7-released-ending-itanium-support/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138233/linux-6-7-released-ending-itanium-support/">Save to Pocket</a>
+</span>
+
+---
+
+##  The 25 Best Films of 2023: A Video Countdown 
+
+date: 2024-01-08, updated: 2024-01-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/the-25-best-films-of-2023-a-video-countdown">https://kottke.org/24/01/the-25-best-films-of-2023-a-video-countdown</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/the-25-best-films-of-2023-a-video-countdown">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Views a Vast Galactic Neighborhood
+
+date: 2024-01-08, from: NASA breaking news
+
+This image from the NASA/ESA&#160;Hubble Space Telescope&#160;features a richness of&#160;spiral galaxies: the large, prominent spiral&#160;galaxy&#160;on the right side of the image is NGC 1356; the two apparently smaller spiral galaxies flanking it are LEDA 467699 (above it) and LEDA 95415 (very close at its left) respectively; and finally, IC 1947 sits along the left side [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/hubble-views-a-vast-galactic-neighborhood/">https://www.nasa.gov/image-article/hubble-views-a-vast-galactic-neighborhood/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/hubble-views-a-vast-galactic-neighborhood/">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Vision Pro Available February 2
+
+date: 2024-01-08, from: Michael Tsai
+
+Apple (MacRumors, Hacker News): Apple today announced Apple Vision Pro will be available beginning Friday, February 2, at all U.S. Apple Store locations and the U.S. Apple Store online. Vision Pro is a revolutionary spatial computer that transforms how people work, collaborate, connect, relive memories, and enjoy entertainment. Vision Pro seamlessly blends digital content with [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/08/apple-vision-pro-available-february-2/">https://mjtsai.com/blog/2024/01/08/apple-vision-pro-available-february-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/08/apple-vision-pro-available-february-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Xcode 15.2
+
+date: 2024-01-08, from: Michael Tsai
+
+Apple (downloads): Xcode 15.2 includes SDKs for iOS 17.2, iPadOS 17.2, tvOS 17.2, watchOS 10.2, macOS Sonoma 14.2, and visionOS. The Xcode 15.2 release supports on-device debugging in iOS 12 and later, tvOS 12 and later, and watchOS 4 and later. Xcode 15.2 requires a Mac running macOS Ventura 13.5 or later. [&#8230;] Developing for [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/08/xcode-15-2/">https://mjtsai.com/blog/2024/01/08/xcode-15-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/08/xcode-15-2/">Save to Pocket</a>
+</span>
+
+---
+
+##  180 Songs That Turn 40 Years Old in 2024. Total nostalgia bomb... 
+
+date: 2024-01-08, updated: 2024-01-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043744-180-songs-that-turn-40">https://kottke.org/24/01/0043744-180-songs-that-turn-40</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043744-180-songs-that-turn-40">Save to Pocket</a>
+</span>
+
+---
+
+##  The American Dialect Society picks their word of the year for 2023:... 
+
+date: 2024-01-08, updated: 2024-01-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043743-the-american-dialect-soci">https://kottke.org/24/01/0043743-the-american-dialect-soci</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043743-the-american-dialect-soci">Save to Pocket</a>
+</span>
+
+---
+
+## Asking people to “do the research” on fake news stories makes them seem more believable, not less
+
+date: 2024-01-08, from: Nieman Journalism Lab
+
+When it comes to digital spreaders of misinformation, social media platforms typically get the brunt of the blame. After all, they&#8217;re the places with the black-box algorithms, the propagandist bots, and the partisan screamers. On social media, we can watch the bad information spread, in real time. Social media is, at least metaphorically, a passive...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-more-believable-not-less/">https://www.niemanlab.org/2024/01/asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-more-believable-not-less/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/asking-people-to-do-the-research-on-fake-news-stories-makes-them-seem-more-believable-not-less/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Impossible’ to create AI tools like ChatGPT without copyrighted material, OpenAI says
+
+date: 2024-01-08, from: OS News
+
+The developer OpenAI has said it would be impossible to create tools like its groundbreaking chatbot ChatGPT without access to copyrighted material, as pressure grows on artificial intelligence firms over the content used to train their products. Chatbots such as ChatGPT and image generators like Stable Diffusion are “trained” on a vast trove of data taken from the internet, with much of it covered by copyright – a legal protection against someone’s work being used without permission. ↫ Dan Milmo for the Guardian I can&#8217;t become a billionaire without robbing banks so therefore robbing banks should be legal.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138230/impossible-to-create-ai-tools-like-chatgpt-without-copyrighted-material-openai-says/">https://www.osnews.com/story/138230/impossible-to-create-ai-tools-like-chatgpt-without-copyrighted-material-openai-says/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138230/impossible-to-create-ai-tools-like-chatgpt-without-copyrighted-material-openai-says/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA, NOAA to Announce 2023 Global Temperatures, Climate Conditions
+
+date: 2024-01-08, from: NASA breaking news
+
+Climate researchers from NASA and NOAA (National Oceanic and Atmospheric Administration) will release their annual assessments of global temperatures and discuss the major climate trends of 2023 during a media briefing at 11 a.m. EST Friday, Jan. 12. NASA will stream audio of the briefing on the agency’s YouTube. Participants will include: Members of the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-noaa-to-announce-2023-global-temperatures-climate-conditions/">https://www.nasa.gov/news-release/nasa-noaa-to-announce-2023-global-temperatures-climate-conditions/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-noaa-to-announce-2023-global-temperatures-climate-conditions/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Armstrong Builds Model Wing to Help Advance Unique Design
+
+date: 2024-01-08, from: NASA breaking news
+
+German Escobar works on a model aircraft wing structure that has two long sides and bars in between, which resembles a mini ladder. He sands the rough edges, uses four vices to secure it, and uses a milling machine he programmed to make precision holes. Escobar is one of the Experimental Fabrication Shop technicians at [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-armstrong-builds-model-wing-to-help-advance-unique-design/">https://www.nasa.gov/centers-and-facilities/armstrong/nasa-armstrong-builds-model-wing-to-help-advance-unique-design/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-armstrong-builds-model-wing-to-help-advance-unique-design/">Save to Pocket</a>
+</span>
+
+---
+
+##  Wild World is a hand-drawn world map of nature - &#8220;here are... 
+
+date: 2024-01-08, updated: 2024-01-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043742-wild-world-is-a-hand-draw">https://kottke.org/24/01/0043742-wild-world-is-a-hand-draw</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043742-wild-world-is-a-hand-draw">Save to Pocket</a>
+</span>
+
+---
+
+##  The Verge looks at the symbiotic relationship between Google and the SEO... 
+
+date: 2024-01-08, updated: 2024-01-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043741-the-verge-looks-at-the">https://kottke.org/24/01/0043741-the-verge-looks-at-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043741-the-verge-looks-at-the">Save to Pocket</a>
+</span>
+
+---
+
+## Ten years ago today
+
+date: 2024-01-08, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/01/08/hotdogs.png"></center>I had a couple of Papaya hot dogs. Sensually delicious.  </div></p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/08/190718.html?title=tenYearsAgoToday">http://scripting.com/2024/01/08/190718.html?title=tenYearsAgoToday</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/08/190718.html?title=tenYearsAgoToday">Save to Pocket</a>
+</span>
+
+---
+
+##  Electronic Music of the Future from Jean-Jacques Perrey in 1966 
+
+date: 2024-01-08, updated: 2024-01-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/electronic-music-of-the-future-from-jean-jacques-perrey-in-1966">https://kottke.org/24/01/electronic-music-of-the-future-from-jean-jacques-perrey-in-1966</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/electronic-music-of-the-future-from-jean-jacques-perrey-in-1966">Save to Pocket</a>
+</span>
+
+---
+
+## Motūrus OS: microkernel operating system for the cloud written in Rust
+
+date: 2024-01-08, from: OS News
+
+Motūrus project builds a simple, fast, and secure operating system (Motūrus OS) for the cloud. In more specific terms, Motūrus OS (sometimes called Motor OS), is a new operating system targeting virtual machine-based workloads such as web serving, &#8220;serverless&#8221;, edge caching, etc.  Motūrus OS is a microkernel-based operating system, built in Rust, that targets virtualized workloads exclusively. It currently supports x64 KVM-based virtual machines, and can run in either Qemu or Cloud Hypervisor. Rust is the language of Motūrus OS: not only it is implemented in Rust, it also exposes its ABI in Rust, not C. ↫ Motūrus OS GitHub page At this point, there are more alternative operating systems written in Rust than there are Linux distributions, but you&#8217;re not hearing any complaints from me. While not all of these will have a bright future, they&#8217;ll teach a lot of people valuable skills and introduce a lot of people to the concept of alternative operating systems.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138228/moturus-os-microkernel-operating-system-for-the-cloud-written-in-rust/">https://www.osnews.com/story/138228/moturus-os-microkernel-operating-system-for-the-cloud-written-in-rust/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138228/moturus-os-microkernel-operating-system-for-the-cloud-written-in-rust/">Save to Pocket</a>
+</span>
+
+---
+
+## GNOME 46 to introduce headless remote logins via GNOME Display Manager
+
+date: 2024-01-08, from: OS News
+
+The alpha version of the GNOME 46 desktop environment should be out for public testing any day now for early adopters and enthusiasts who want to get an early taste of the newly implemented features, one of them begin support for headless remote logins via GDM (GNOME Display Manager). This is one of the highly requested features for GNOME and it is achieved through the gnome-remote-desktop component, which provides a remote desktop server for the GNOME desktop to allow you to connect to your machine remotely using PipeWire. ↫ Marius Nestor The final release is planned for late March.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138224/gnome-46-to-introduce-headless-remote-logins-via-gnome-display-manager/">https://www.osnews.com/story/138224/gnome-46-to-introduce-headless-remote-logins-via-gnome-display-manager/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138224/gnome-46-to-introduce-headless-remote-logins-via-gnome-display-manager/">Save to Pocket</a>
+</span>
+
+---
+
+## The desperate race to save Generative AI
+
+date: 2024-01-08, from: Gary Marcus blog
+
+Copyright infringement issues could sink their business, but why should they have to pay licensing fees like everybody else?
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/the-desperate-race-to-save-generative">https://garymarcus.substack.com/p/the-desperate-race-to-save-generative</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/the-desperate-race-to-save-generative">Save to Pocket</a>
+</span>
+
+---
+
+##  Apple announced a release date (Feb 2, preorder on Jan 19) and... 
+
+date: 2024-01-08, updated: 2024-01-08, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043739-apple-announced-a-release">https://kottke.org/24/01/0043739-apple-announced-a-release</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043739-apple-announced-a-release">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Telescopes Chase Down “Green Monster” in Star’s Debris
+
+date: 2024-01-08, from: NASA breaking news
+
+For the first time astronomers have combined data from&#160;NASA’s Chandra X-ray Observatory&#160;and James Webb Space Telescope to study the well-known&#160;supernova remnant&#160;Cassiopeia A (Cas A). As described in&#160;our latest press release, this work has helped explain an unusual structure in the debris from the destroyed star called the “Green Monster”, first discovered in Webb data in [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasa-telescopes-chase-down-green-monster-in-stars-debris/">https://www.nasa.gov/image-article/nasa-telescopes-chase-down-green-monster-in-stars-debris/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasa-telescopes-chase-down-green-monster-in-stars-debris/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -131,7 +720,7 @@ date: 2024-01-08, from: Raspberry Pi News (.com)
 
 date: 2024-01-08, from: NASA breaking news
 
-Carrying NASA scientific instruments as part of its Commercial Lunar Payload Services initiative, Astrobotic’s Peregrine lander launched on United Launch Alliance’s (ULA) Vulcan rocket at 2:18 a.m. EST from Launch Complex 41 at Cape Canaveral Space Force Station in Florida. Peregrine has about a 46-day journey to reach the lunar surface. Once on the Moon, [&#8230;]
+Editor&#8217;s Note: NASA and Astrobotic are continuing to monitor this mission. Updates will be provided on https://blogs.nasa.gov/. Carrying NASA scientific instruments as part of its Commercial Lunar Payload Services initiative, Astrobotic’s Peregrine lander launched on United Launch Alliance’s (ULA) Vulcan rocket at 2:18 a.m. EST from Launch Complex 41 at Cape Canaveral Space Force Station [&#8230;]
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/news-release/nasa-science-heads-to-moon-on-first-us-private-robotic-artemis-flight/">https://www.nasa.gov/news-release/nasa-science-heads-to-moon-on-first-us-private-robotic-artemis-flight/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-science-heads-to-moon-on-first-us-private-robotic-artemis-flight/">Save to Pocket</a>
@@ -214,6 +803,18 @@ date: 2024-01-08, from: PostgreSQL News
 
 <span class="feed-item-link">
 <a href="https://www.postgresql.org/about/news/fosdem-pgday-2024-schedule-posted-and-registration-open-2782/">https://www.postgresql.org/about/news/fosdem-pgday-2024-schedule-posted-and-registration-open-2782/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/fosdem-pgday-2024-schedule-posted-and-registration-open-2782/">Save to Pocket</a>
+</span>
+
+---
+
+## Speculative Calendar Events
+
+date: 2024-01-08, from: Maggie Appleton blog
+
+
+
+<span class="feed-item-link">
+<a href="https://maggieappleton.com/speculative-events">https://maggieappleton.com/speculative-events</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://maggieappleton.com/speculative-events">Save to Pocket</a>
 </span>
 
 ---

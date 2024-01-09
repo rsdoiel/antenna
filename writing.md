@@ -1,11 +1,186 @@
 ---
 title: writing 2024.02
-updated: 2024-01-08 08:10:29
+updated: 2024-01-09 08:28:38
 ---
 
 # writing 2024.02
 
-(date: 2024-01-08 08:10:29)
+(date: 2024-01-09 08:28:38)
+
+---
+
+## AI-Generated Novel Wins Chinese Competition
+
+date: 2024-01-09, from: Locus Magazine
+
+<p>The Jinan Times reports that the AI-generated novel <strong>Land of Memories</strong> by Shen Yang was a winner of the Jiangsu Youth Popular Science Science Fiction Competition, held by the Jiangsu Science Writers Association. The competition rules did not ban the use of artificial intelligence, and the novel was awarded second place.</p>
+<p>The text of the novel was written entirely by AI, with some editing by Yang. Competition judges reported mixed  <a href="https://locusmag.com/2024/01/ai-generated-novel-wins-chinese-competition/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/ai-generated-novel-wins-chinese-competition/">https://locusmag.com/2024/01/ai-generated-novel-wins-chinese-competition/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/ai-generated-novel-wins-chinese-competition/">Save to Pocket</a>
+</span>
+
+---
+
+## Future Worlds Prize Judges and Prize Increase
+
+date: 2024-01-09, from: Locus Magazine
+
+<p>The judges for the The Future Worlds Prize for Science Fiction and Fantasy Writers of Colour have been announced. The prize &#8220;aims to find new talent based in the UK writing in the SFF space, from magical realism and space operas to dystopia and more.&#8221;</p>
+<p>The 2024 judges are:</p>
+<ul>
+<li>M. H. Ayinde</li>
+<li>Isabelle Dupuy</li>
+<li>Femi Fadugba</li>
+<li>Natalie Jerome</li>
+<li>Tade Thompson</li>
+</ul>
+<div>The prize is funded by author Ben Aaronovitch and actor </div> <a href="https://locusmag.com/2024/01/future-worlds-prize-judges-and-prize-increase/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/future-worlds-prize-judges-and-prize-increase/">https://locusmag.com/2024/01/future-worlds-prize-judges-and-prize-increase/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/future-worlds-prize-judges-and-prize-increase/">Save to Pocket</a>
+</span>
+
+---
+
+## Exit, Pursued by a Kaiju: Josh Pearce and Arley Sorg Discuss Godzilla Minus One
+
+date: 2024-01-09, from: Locus Magazine
+
+<p> Josh: First off, holy shit.</p>
+<p style="padding-left: 40px;">Arley: I agree. This movie was GREAT. They started with unusual characters. You don&#8217;t see a lot of movies where the star is a disgraced suicide pilot, for example. Grounding the story with in interesting, relatable characters makes it so that you can actually capitalize on the horror aspects of Godzilla. Viewers can get engaged with the horror that is Godzilla, rather than just being  <a href="https://locusmag.com/2024/01/exit-pursued-by-a-kaiju-josh-pearce-and-arley-sorg-discuss-godzilla-minus-one/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/exit-pursued-by-a-kaiju-josh-pearce-and-arley-sorg-discuss-godzilla-minus-one/">https://locusmag.com/2024/01/exit-pursued-by-a-kaiju-josh-pearce-and-arley-sorg-discuss-godzilla-minus-one/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/exit-pursued-by-a-kaiju-josh-pearce-and-arley-sorg-discuss-godzilla-minus-one/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 SFPA Grand Master Nominees
+
+date: 2024-01-08, from: Locus Magazine
+
+<p>The Science Fiction and Fantasy Poetry Association (SFPA) announced their five nominees for the Grand Master award: F.J. Bergmann, G.O. Clark, Terry A. Garey, Deborah P Kolodji, and Geoffrey Landis.</p>
+<p>The title is given &#8220;to an individual living at the time of selection whose body of work reflects the highest artistic goals of the SFPA, who has been actively publishing within the target genres of Science Fiction and Fantasy for  <a href="https://locusmag.com/2024/01/2024-sfpa-grand-master-nominees/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/2024-sfpa-grand-master-nominees/">https://locusmag.com/2024/01/2024-sfpa-grand-master-nominees/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/2024-sfpa-grand-master-nominees/">Save to Pocket</a>
+</span>
+
+---
+
+## Hofler wins Analog Award for Emerging Black Voices
+
+date: 2024-01-08, from: Locus Magazine
+
+<p>Sakinah Hofler is the winner of the Analog Award for Emerging Black Voices. The award is open to &#8220;any writer over 18 years of age who customarily identifies as Black, has not published nor is under contract for a book, and has three or less paid fiction publications.&#8221; The winner receives a mentoring session with the editors of Analog.</p>
+<p>Hofler accepted the award at the Annual City Tech Symposium on  <a href="https://locusmag.com/2024/01/hofler-wins-analog-award-for-emerging-black-voices/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/hofler-wins-analog-award-for-emerging-black-voices/">https://locusmag.com/2024/01/hofler-wins-analog-award-for-emerging-black-voices/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/hofler-wins-analog-award-for-emerging-black-voices/">Save to Pocket</a>
+</span>
+
+---
+
+## A.C. Bose Grant Open To Applications
+
+date: 2024-01-08, from: Locus Magazine
+
+<p>The A.C. Bose Grant for South Asian Speculative Literature is open to applications through January 31, 2024. The grant provides $1,000 to &#8220;South Asian or Desi diaspora writers developing speculative fiction&#8221;, with preference given to &#8220;work that is accessible to older children and teens.&#8221;</p>
+<p>The grant is co-sponsored by the Speculative Literature Foundation (SLF) and DesiLit. Winners will be selected by a jury on the basis of merit, and will  <a href="https://locusmag.com/2024/01/a-c-bose-grant-open-to-applications/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/a-c-bose-grant-open-to-applications/">https://locusmag.com/2024/01/a-c-bose-grant-open-to-applications/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/a-c-bose-grant-open-to-applications/">Save to Pocket</a>
+</span>
+
+---
+
+## New York Library Top Checkouts of 2023
+
+date: 2024-01-08, from: Locus Magazine
+
+<p>The New York Public Library (NYPL), the Brooklyn Public Library, and the Queens Public Library have each released lists of their most-borrowed books of 2023.</p>
+<p>The most borrowed book for Queens Public Library was <strong>Fourth Wing</strong> by Rebecca Yarros (Entangled); and <strong>Yellowface</strong> by R.F. Kuang (William Morrow) was one of the top checkouts at NYPL. Featured books across all three systems included <strong>Tomorrow, and Tomorrow, and Tomorrow</strong> by Gabrielle Zevin  <a href="https://locusmag.com/2024/01/new-york-library-top-checkouts-of-2023/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/new-york-library-top-checkouts-of-2023/">https://locusmag.com/2024/01/new-york-library-top-checkouts-of-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/new-york-library-top-checkouts-of-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Weekly Bestsellers, 8 January 2024
+
+date: 2024-01-08, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+<p>Rebecca Ross&#8217;s <b>Ruthless Vows</b> (Wednesday Books), second in her Letters of Enchantment series following <b>Divine Rivals</b>, debuts strongly on three lists.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+01.14
+LAT
+01.07
+USAT 
+12.31
+PW 
+01.08
+Amz 
+(01.08)
+UK:
+Amz UK 
+(01.08)
+Canada:
+Amz.ca 
+(01.08)
+
+
+Items on list -x- number of lists surveyed
+
+10&#215;3
+10&#215;2
+150
+15&#215;3
+100
+100
+100
+
+
+Hardcovers
+
+
+Aster, Nightbane
+11.20.23 / 8
+5 -1
+
+xxx.. <a href="https://locusmag.com/2024/01/weekly-bestsellers-8-january-2024/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/weekly-bestsellers-8-january-2024/">https://locusmag.com/2024/01/weekly-bestsellers-8-january-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/weekly-bestsellers-8-january-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Andrea Stewart: After the Rebellion
+
+date: 2024-01-08, from: Locus Magazine
+
+<p></p>
+<p>Andrea G. Stewart was born August 3, 1982 in Vancouver, Canada, and grew up in various places in the US.</p>
+<p>Stewart began publishing work of genre interest with “Dreameater” (2013), a quarterly winner in the Writers of the Future competi­tion. She has published more than a dozen other stories in anthologies and magazines.</p>
+<p>Her first novel, urban fantasy <strong>Loose Changeling, </strong>ap­peared in 2014 under the name A.G. Stewart, and was  <a href="https://locusmag.com/2024/01/andrea-stewart-after-the-rebellion/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/andrea-stewart-after-the-rebellion/">https://locusmag.com/2024/01/andrea-stewart-after-the-rebellion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/andrea-stewart-after-the-rebellion/">Save to Pocket</a>
+</span>
 
 ---
 
