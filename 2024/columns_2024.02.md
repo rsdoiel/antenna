@@ -1,11 +1,47 @@
 ---
 title: columns 2024.02
-updated: 2024-01-09 08:28:38
+updated: 2024-01-09 14:46:04
 ---
 
 # columns 2024.02
 
-(date: 2024-01-09 08:28:38)
+(date: 2024-01-09 14:46:04)
+
+---
+
+## Passenger’s iPhone Survived, Intact, 16,000-Foot Fall From Alaska Airlines Plane
+
+date: 2024-01-09, updated: 2024-01-09, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://twitter.com/SeanSafyre/status/1744138937239822685">https://twitter.com/SeanSafyre/status/1744138937239822685</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://twitter.com/SeanSafyre/status/1744138937239822685">Save to Pocket</a>
+</span>
+
+---
+
+## Alaska and United Airlines Report Loose Parts in Boeing 737 Max 9 Door Panels
+
+date: 2024-01-09, updated: 2024-01-09, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.pbs.org/newshour/nation/alaska-and-untied-airlines-report-loose-parts-in-boeing-max-9-door-panels">https://www.pbs.org/newshour/nation/alaska-and-untied-airlines-report-loose-parts-in-boeing-max-9-door-panels</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pbs.org/newshour/nation/alaska-and-untied-airlines-report-loose-parts-in-boeing-max-9-door-panels">Save to Pocket</a>
+</span>
+
+---
+
+## Trump on Latest School Shooting: ‘Get over it’
+
+date: 2024-01-09, from: Dan Rather's Steady
+
+You may have missed the headline because it has become so horrifically commonplace: children shot at school. The dateline was the small town of Perry, Iowa. Last Thursday, a high school student opened fire in his school cafeteria, killing one person and injuring seven before dying by suicide. We&#8217;re barely a week into the new year and already four,
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/trump-on-latest-school-shooting-get">https://steady.substack.com/p/trump-on-latest-school-shooting-get</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/trump-on-latest-school-shooting-get">Save to Pocket</a>
+</span>
 
 ---
 

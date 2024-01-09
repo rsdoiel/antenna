@@ -1,11 +1,24 @@
 ---
 title: pacific 2024.02
-updated: 2024-01-09 08:28:38
+updated: 2024-01-09 14:46:04
 ---
 
 # pacific 2024.02
 
-(date: 2024-01-09 08:28:38)
+(date: 2024-01-09 14:46:04)
+
+---
+
+## Women of UHE: UH Mānoa students paving esports equality
+
+date: 2024-01-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Women of <abbr>UHE</abbr> was founded by student Madeline Gilbert in 2022.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/09/women-of-uh-esports/">Women of <abbr>UHE</abbr>: <abbr>UH</abbr> Mānoa students paving esports equality</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/09/women-of-uh-esports/">https://www.hawaii.edu/news/2024/01/09/women-of-uh-esports/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/09/women-of-uh-esports/">Save to Pocket</a>
+</span>
 
 ---
 

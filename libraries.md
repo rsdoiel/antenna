@@ -1,20 +1,20 @@
 ---
 title: libraries 2024.02
-updated: 2024-01-09 08:28:38
+updated: 2024-01-09 14:46:04
 ---
 
 # libraries 2024.02
 
-(date: 2024-01-09 08:28:38)
+(date: 2024-01-09 14:46:04)
 
 ---
 
-## Day in Review (January 9–12)
+## Day in Review (January 8–11)
 
 date: 2024-01-09, from: Association of Research Libraries News
 
-<p>Last Updated on January 9, 2024, 10:48 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 10 &#124; Wednesday, January 11 &#124; Thursday,...</p>
-<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-9-12-2/">Day in Review (January 9–12)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+<p>Last Updated on January 9, 2024, 4:14 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 9 &#124; Wednesday, January 10 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-9-12-2/">Day in Review (January 8–11)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 
 <span class="feed-item-link">

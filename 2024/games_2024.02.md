@@ -1,11 +1,119 @@
 ---
 title: games 2024.02
-updated: 2024-01-09 08:28:38
+updated: 2024-01-09 14:46:04
 ---
 
 # games 2024.02
 
-(date: 2024-01-09 08:28:38)
+(date: 2024-01-09 14:46:04)
+
+---
+
+## How to complete Constellation Pair and unlock Wish-Keeper Catalysts in Destiny 2
+
+date: 2024-01-09, updated: 2024-01-09, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/destiny-2-guide-walkthrough/24022798/wish-keeper-catalyst-constellation">https://www.polygon.com/destiny-2-guide-walkthrough/24022798/wish-keeper-catalyst-constellation</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/destiny-2-guide-walkthrough/24022798/wish-keeper-catalyst-constellation">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Starcrossed’ Exotic mission and secret chests guide in Destiny 2: Season of the Wish
+
+date: 2024-01-09, updated: 2024-01-09, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/destiny-2-guide-walkthrough/24008173/starcrossed-secret-chest-wish-keeper-exotic">https://www.polygon.com/destiny-2-guide-walkthrough/24008173/starcrossed-secret-chest-wish-keeper-exotic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/destiny-2-guide-walkthrough/24008173/starcrossed-secret-chest-wish-keeper-exotic">Save to Pocket</a>
+</span>
+
+---
+
+## Netflix gives us a wilder look at 3 Body Problem’s world-spanning mystery
+
+date: 2024-01-09, updated: 2024-01-09, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24030600/3-body-problem-trailer-netflix-release-date">https://www.polygon.com/24030600/3-body-problem-trailer-netflix-release-date</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24030600/3-body-problem-trailer-netflix-release-date">Save to Pocket</a>
+</span>
+
+---
+
+## Slow Horses’ excellent season 3 is the perfect place to jump in, actually
+
+date: 2024-01-09, updated: 2024-01-09, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24026009/slow-horses-season-3-review-watch-it">https://www.polygon.com/24026009/slow-horses-season-3-review-watch-it</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24026009/slow-horses-season-3-review-watch-it">Save to Pocket</a>
+</span>
+
+---
+
+## Where to find Starcats in Destiny 2: Season of the Wish
+
+date: 2024-01-09, updated: 2024-01-09, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline">https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline">Save to Pocket</a>
+</span>
+
+---
+
+## This year I want to touch more grass
+
+date: 2024-01-09, updated: 2024-01-09, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24030580/new-year-resolution-touch-more-grass-chronic-pain-exercise">https://www.polygon.com/24030580/new-year-resolution-touch-more-grass-chronic-pain-exercise</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24030580/new-year-resolution-touch-more-grass-chronic-pain-exercise">Save to Pocket</a>
+</span>
+
+---
+
+## HBO’s The Last of Us has found its Abby
+
+date: 2024-01-09, updated: 2024-01-09, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24031659/last-of-us-season-2-hbo-abby-actor-kaitlyn-dever">https://www.polygon.com/24031659/last-of-us-season-2-hbo-abby-actor-kaitlyn-dever</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24031659/last-of-us-season-2-hbo-abby-actor-kaitlyn-dever">Save to Pocket</a>
+</span>
+
+---
+
+## This indie game has you square off against a shotgun-wielding car dealer
+
+date: 2024-01-09, updated: 2024-01-09, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24030565/buckshot-roulette-indie-game-itch-mike-klubnika">https://www.polygon.com/24030565/buckshot-roulette-indie-game-itch-mike-klubnika</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24030565/buckshot-roulette-indie-game-itch-mike-klubnika">Save to Pocket</a>
+</span>
+
+---
+
+## Assassin’s Creed Valhalla, now on Game Pass, is still unlike any other game in the franchise
+
+date: 2024-01-09, updated: 2024-01-09, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/sub-gems/24025911/assassins-creed-valhalla-xbox-game-pass-january-2024">https://www.polygon.com/sub-gems/24025911/assassins-creed-valhalla-xbox-game-pass-january-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/sub-gems/24025911/assassins-creed-valhalla-xbox-game-pass-january-2024">Save to Pocket</a>
+</span>
 
 ---
 

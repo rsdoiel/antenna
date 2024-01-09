@@ -399,6 +399,7 @@ https://www.frontiersin.org/journals/cellular-and-infection-microbiology/rss "~F
 https://api.quantamagazine.org/feed/ "~Quanta Magazine" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://jon-e.net/blog/feed.xml "~Jonny Saunders blog"
 http://blog.guidoism.com/feed.atom "~Guido Bartolucci blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://fromjason.xyz/notebook/feed/feed.xml "~ Jason Valazquez noteboook" curl/8./5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #
 # Problem feeds
@@ -426,4 +427,4 @@ https://webcurios.co.uk/feed/ "~Web Curios blog"
 #
 # Hobbies
 #
-https://smallworkshop.co.uk/rss/ "~Small Workshop UK blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+#https://smallworkshop.co.uk/rss/ "~Small Workshop UK blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # Feed is invalid due to syntax error in XML, 2024-01-09

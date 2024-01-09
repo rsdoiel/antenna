@@ -1,11 +1,69 @@
 ---
 title: writing 2024.02
-updated: 2024-01-09 08:28:38
+updated: 2024-01-09 14:46:04
 ---
 
 # writing 2024.02
 
-(date: 2024-01-09 08:28:38)
+(date: 2024-01-09 14:46:04)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-09, from: Neil Gaiman @ BlueSky)
+
+When anyone tells me that The View From The Cheap Seats gave them a reading list I rejoice inside.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kikyrkxexw2x">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kikyrkxexw2x</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kikyrkxexw2x">Save to Pocket</a>
+</span>
+
+---
+
+## Tor.com Rebranding as Reactor
+
+date: 2024-01-09, from: Locus Magazine
+
+<p dir="ltr">Tor Publishing Group announced via press release that the Tor.com site will be rebranded as Reactor on January 23, 2024. The launch includes a redesigned website. According to the announcement,</p>
+
+<p dir="ltr">The site has been publisher agnostic since its founding, and the new name will reflect its independence from Tor Publishing Group. The short fiction program will continue under the Reactor name, and in addition to the daily commentary on science  <a href="https://locusmag.com/2024/01/tor-com-rebranding-as-reactor/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/tor-com-rebranding-as-reactor/">https://locusmag.com/2024/01/tor-com-rebranding-as-reactor/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/tor-com-rebranding-as-reactor/">Save to Pocket</a>
+</span>
+
+---
+
+## Charles Payseur Reviews Short Fiction: Strange Horizons, Lightspeed, Fiyah and Kaleidotrope
+
+date: 2024-01-09, from: Locus Magazine
+
+<p>Strange Horizons 9/18/23, 9/25/23, 10/2/23,  10/9/23, 10/16/23
+Lightspeed 10/23
+Fiyah 10/23
+Kaleidotrope 10/23</p>
+<p>Strange Horizons closed out September with some memorable poetry, including <strong>Bob Hicok</strong>’s “<strong>No stones</strong>”, which lingers on the image of “dirt birds” – the marks left behind when birds impact glass. As the title might im­ply, the poem places the narrator (and readers) inside glass houses, fragile but solid enough to withstand these small  <a href="https://locusmag.com/2024/01/charles-payseur-reviews-short-fiction-strange-horizons-lightspeed-fiyah-and-kaleidotrope/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/charles-payseur-reviews-short-fiction-strange-horizons-lightspeed-fiyah-and-kaleidotrope/">https://locusmag.com/2024/01/charles-payseur-reviews-short-fiction-strange-horizons-lightspeed-fiyah-and-kaleidotrope/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/charles-payseur-reviews-short-fiction-strange-horizons-lightspeed-fiyah-and-kaleidotrope/">Save to Pocket</a>
+</span>
+
+---
+
+## New Books: 9 January 2023
+
+date: 2024-01-09, from: Locus Magazine
+
+<p>Ascher, Aurora: <b>Sanctuary of the Shadow</b>
+(Entangled/Red Tower 9781649374110, $29.99, 400pp, formats: hardcover, ebook, audio, 01/09/2024)</p>
+<p>Fantasy romance novel about a woman hiding in a circus where she disguises her gift of prophecy as part of her act until an alluring monster turns up.</p>
+<p>&#160;</p>
+<p>Berwah, Tanvi: <b>Somewhere in the Deep</b>
+(Sourcebooks Fire 9781728247656, $18.99, 359pp, formats: trade paperback, ebook, audio, 01/09/2024)</p>
+<p>Young-adult fantasy novel inspired by South Asia, The  <a href="https://locusmag.com/2024/01/new-books-9-january-2023/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/new-books-9-january-2023/">https://locusmag.com/2024/01/new-books-9-january-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/new-books-9-january-2023/">Save to Pocket</a>
+</span>
 
 ---
 

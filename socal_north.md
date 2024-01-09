@@ -1,11 +1,73 @@
 ---
 title: socal north 2024.02
-updated: 2024-01-09 08:28:38
+updated: 2024-01-09 14:46:04
 ---
 
 # socal north 2024.02
 
-(date: 2024-01-09 08:28:38)
+(date: 2024-01-09 14:46:04)
+
+---
+
+## UCLA gymnastics takes away ‘goldfish mindset’ from hiccups at Super 16 meet
+
+date: 2024-01-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins did two things during the second half of Saturday&#8217;s meet.
+The first: they posted their worst score on any beam rotation since March 2021.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/09/ucla-gymnastics-takes-away-goldfish-mindset-from-hiccups-at-super-16-meet/">https://dailybruin.com/2024/01/09/ucla-gymnastics-takes-away-goldfish-mindset-from-hiccups-at-super-16-meet/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/09/ucla-gymnastics-takes-away-goldfish-mindset-from-hiccups-at-super-16-meet/">Save to Pocket</a>
+</span>
+
+---
+
+## New Report Suggests Rise In Hate Crimes Fueled By Anti-Jewish Bias
+
+date: 2024-01-09, updated: 2024-01-09, from: The LAist
+
+A forthcoming report from Cal State San Bernardino takes in hate crime data reported to law enforcement in the nation’s largest cities.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/new-report-suggests-rise-in-hate-crimes-fueled-by-anti-jewish-bias">https://laist.com/news/new-report-suggests-rise-in-hate-crimes-fueled-by-anti-jewish-bias</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/new-report-suggests-rise-in-hate-crimes-fueled-by-anti-jewish-bias">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s basketball steps up and into Emily Bessoir’s shoes after injury
+
+date: 2024-01-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two Bruins flew abroad to play for their national teams and were set to miss two games in Westwood just one contest into the season.
+But only one has returned to the court since.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/09/ucla-womens-basketball-steps-up-and-into-emily-bessoirs-shoes-after-injury/">https://dailybruin.com/2024/01/09/ucla-womens-basketball-steps-up-and-into-emily-bessoirs-shoes-after-injury/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/09/ucla-womens-basketball-steps-up-and-into-emily-bessoirs-shoes-after-injury/">Save to Pocket</a>
+</span>
+
+---
+
+## Shohei Ohtani’s Record Dodgers Contract — And Deferrals — Has California Officials Talking Tax Reform
+
+date: 2024-01-09, updated: 2024-01-09, from: The LAist
+
+Ohtani’s 10-year contract pays him only $2 million a year, deferring $680 million until after his time with the Dodgers — and possibly his California residency — is over. If Ohtani collects that money after returning to his native Japan, California would lose an estimated $98 million in tax revenue from him.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/shohei-ohtanis-record-dodgers-contract-and-deferrals-has-california-officials-talking-tax-reform">https://laist.com/news/politics/shohei-ohtanis-record-dodgers-contract-and-deferrals-has-california-officials-talking-tax-reform</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/shohei-ohtanis-record-dodgers-contract-and-deferrals-has-california-officials-talking-tax-reform">Save to Pocket</a>
+</span>
+
+---
+
+## Los Angeles Times Editor Kevin Merida Is Stepping Down
+
+date: 2024-01-09, updated: 2024-01-09, from: The LAist
+
+In an email to staff, he announced his last day is Friday.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/los-angeles-times-editor-kevin-merida-is-stepping-down">https://laist.com/news/los-angeles-times-editor-kevin-merida-is-stepping-down</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/los-angeles-times-editor-kevin-merida-is-stepping-down">Save to Pocket</a>
+</span>
 
 ---
 
@@ -33,6 +95,18 @@ date: 2024-01-09, from: The Daily Trojan (USC Student Newspaper)
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/01/09/six-sports-media-predictions-for-2024/">https://dailytrojan.com/2024/01/09/six-sports-media-predictions-for-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/09/six-sports-media-predictions-for-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Hundreds Of Thousands Of Angelenos Are Disconnected From Digital Life
+
+date: 2024-01-09, updated: 2024-01-09, from: The LAist
+
+Advocates say the internet is essential for modern living and should be treated as a human and civil right, like electricity and water.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/hundreds-of-thousands-of-angelenos-are-disconnected-from-digital-life">https://laist.com/news/hundreds-of-thousands-of-angelenos-are-disconnected-from-digital-life</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/hundreds-of-thousands-of-angelenos-are-disconnected-from-digital-life">Save to Pocket</a>
 </span>
 
 ---
@@ -468,7 +542,7 @@ Price is accused of voting on projects in which his wife had a financial interes
 
 ## Applying For Financial Aid In 2024? Here’s What You Need To Know
 
-date: 2024-01-08, updated: 2024-01-08, from: The LAist
+date: 2024-01-08, updated: 2024-01-09, from: The LAist
 
 Having trouble with the new 2024-25 FAFSA? You’re not alone. And there are other changes you might not know about, too.
 

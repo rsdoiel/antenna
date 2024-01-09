@@ -1,11 +1,25 @@
 ---
 title: mid central 2024.02
-updated: 2024-01-09 08:28:38
+updated: 2024-01-09 14:46:04
 ---
 
 # mid central 2024.02
 
-(date: 2024-01-09 08:28:38)
+(date: 2024-01-09 14:46:04)
+
+---
+
+## Power Tips #124: How to improve the power factor of a PFC
+
+date: 2024-01-09, from: EDN Blog
+
+<img width="1453" height="543" src="https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?fit=1453%2C543" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?w=1453 1453w, https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?w=1024 1024w" sizes="(max-width: 1453px) 100vw, 1453px" /><p>In this Power Tip we discuss how to evaluate and improve the power factor of a PFC.</p>
+<p>The post <a href="https://www.edn.com/power-tips-124-how-to-improve-the-power-factor-of-a-pfc/" data-wpel-link="internal">Power Tips #124: How to improve the power factor of a PFC</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/power-tips-124-how-to-improve-the-power-factor-of-a-pfc/">https://www.edn.com/power-tips-124-how-to-improve-the-power-factor-of-a-pfc/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/power-tips-124-how-to-improve-the-power-factor-of-a-pfc/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -25,7 +39,7 @@ date: 2024-01-09, updated: 2024-01-09, from: Merced, Weather.gov CAP v1.1 alerts
 
 date: 2024-01-09, from: EDN Blog
 
-<img width="2100" height="1500" src="https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?fit=2100%2C1500" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?w=2100 2100w, https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?w=300 300w, https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?w=768 768w, https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?w=1900 1900w" sizes="(max-width: 2100px) 100vw, 2100px" /><p>The chip claims it's up to 3x more power-efficient per generated token than GPUs and standalone AI accelerators.</p>
+<img width="2100" height="1500" src="https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?fit=2100%2C1500" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?w=2100 2100w, https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?w=300 300w, https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?w=768 768w, https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Ambarella-N1-LLM-Hero-image.png?w=1900 1900w" sizes="(max-width: 2100px) 100vw, 2100px" /><p>The chip claims it's up to 3x more power-efficient per generated token than GPUs and standalone AI accelerators.</p>
 <p>The post <a href="https://www.edn.com/chips-taking-generative-ai-to-edge-reach-ces-floor/" data-wpel-link="internal">Chips taking generative AI to edge reach CES floor</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 
