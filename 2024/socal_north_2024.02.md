@@ -1,11 +1,247 @@
 ---
 title: socal north 2024.02
-updated: 2024-01-09 14:46:04
+updated: 2024-01-10 08:42:52
 ---
 
 # socal north 2024.02
 
-(date: 2024-01-09 14:46:04)
+(date: 2024-01-10 08:42:52)
+
+---
+
+## Another Major Milestone For The Space Shuttle Endeavour’s “Go For Stack” Mission Is Here
+
+date: 2024-01-10, updated: 2024-01-10, from: The LAist
+
+The California Science Center will start moving an enormous external tank through Exposition Park this week.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/another-major-milestone-for-the-space-shuttle-endeavours-go-for-stack-mission-is-here">https://laist.com/news/another-major-milestone-for-the-space-shuttle-endeavours-go-for-stack-mission-is-here</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/another-major-milestone-for-the-space-shuttle-endeavours-go-for-stack-mission-is-here">Save to Pocket</a>
+</span>
+
+---
+
+## New Program Wants To Put More Community College Grads In Full-Time Professor Jobs, Diversify Faculty
+
+date: 2024-01-10, updated: 2024-01-10, from: The LAist
+
+The Compton College Faculty Prep Academy, in partnership with USC, will pair participants with a mentor and help them prepare for job interviews.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/compton-college-prep-academy-usc-faculty-jobs">https://laist.com/news/education/compton-college-prep-academy-usc-faculty-jobs</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/compton-college-prep-academy-usc-faculty-jobs">Save to Pocket</a>
+</span>
+
+---
+
+## Community College Students Serve As Basic Needs Support Guides For Peers
+
+date: 2024-01-10, updated: 2024-01-10, from: The LAist
+
+The California Community Colleges' strategy for increasing access to basic needs resources includes relying on peer-to-peer engagement.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/community-college-students-serve-as-basic-needs-support-guides-for-peers">https://laist.com/news/education/community-college-students-serve-as-basic-needs-support-guides-for-peers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/community-college-students-serve-as-basic-needs-support-guides-for-peers">Save to Pocket</a>
+</span>
+
+---
+
+## USG senate hosts first in-person meeting since October
+
+date: 2024-01-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The senate inaugurated senator Diana Carpio and amended office hours rules.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/10/usg-senate-hosts-first-in-person-meeting-since-october/">USG senate hosts first in-person meeting since October</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/10/usg-senate-hosts-first-in-person-meeting-since-october/">https://dailytrojan.com/2024/01/10/usg-senate-hosts-first-in-person-meeting-since-october/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/10/usg-senate-hosts-first-in-person-meeting-since-october/">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – January 10, 2024
+
+date: 2024-01-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/10/classifieds-january-10-2024/">Classifieds &#8211; January 10, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/10/classifieds-january-10-2024/">https://dailytrojan.com/2024/01/10/classifieds-january-10-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/10/classifieds-january-10-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Celebrating South Korean science fiction
+
+date: 2024-01-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Doheny’s East Asian Library  focuses on futuristic media in their recent exhibition.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/10/celebrating-south-korean-science-fiction/">Celebrating South Korean science fiction</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/10/celebrating-south-korean-science-fiction/">https://dailytrojan.com/2024/01/10/celebrating-south-korean-science-fiction/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/10/celebrating-south-korean-science-fiction/">Save to Pocket</a>
+</span>
+
+---
+
+## More like 30 staying 30: a 2024 trend prediction
+
+date: 2024-01-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In the first installment of "That's Fashion, Sweetie" of the spring, Hadyn Phillips reveals what she predicts the next it-girl may look like.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/10/more-like-30-staying-30/">More like 30 staying 30: a 2024 trend prediction</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/10/more-like-30-staying-30/">https://dailytrojan.com/2024/01/10/more-like-30-staying-30/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/10/more-like-30-staying-30/">Save to Pocket</a>
+</span>
+
+---
+
+## Trojans aim to make it three straight wins
+
+date: 2024-01-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Men’s basketball takes on Cougars in the final game of their homestand at Galen.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/10/trojans-aim-to-make-it-three-straight-wins/">Trojans aim to make it three straight wins</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/10/trojans-aim-to-make-it-three-straight-wins/">https://dailytrojan.com/2024/01/10/trojans-aim-to-make-it-three-straight-wins/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/10/trojans-aim-to-make-it-three-straight-wins/">Save to Pocket</a>
+</span>
+
+---
+
+## Undocumented students should qualify for HSF
+
+date: 2024-01-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Hispanic Scholarship Fund exclusion of undocumented students sets an unwelcoming narrative. </p>
+<p>The post <a href="https://dailytrojan.com/2024/01/10/undocumented-students-should-qualify-for-hsf/">Undocumented students should qualify for HSF</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/10/undocumented-students-should-qualify-for-hsf/">https://dailytrojan.com/2024/01/10/undocumented-students-should-qualify-for-hsf/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/10/undocumented-students-should-qualify-for-hsf/">Save to Pocket</a>
+</span>
+
+---
+
+## The Johnson Buffalo Stampede
+
+date: 2024-01-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p> Ryan Johnson follows in his father’s footsteps and defends SoCal hockey legacy with Sabres.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/10/the-johnson-buffalo-stampede/">The Johnson Buffalo Stampede</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/10/the-johnson-buffalo-stampede/">https://dailytrojan.com/2024/01/10/the-johnson-buffalo-stampede/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/10/the-johnson-buffalo-stampede/">Save to Pocket</a>
+</span>
+
+---
+
+## Metro must pick heavy rail for Sepulveda
+
+date: 2024-01-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p> Don’t let the shiny monorail fool you; everyday Angeleno commuters deserve better.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/10/metro-must-pick-heavy-rail-for-sepulveda/">Metro must pick heavy rail for Sepulveda</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/10/metro-must-pick-heavy-rail-for-sepulveda/">https://dailytrojan.com/2024/01/10/metro-must-pick-heavy-rail-for-sepulveda/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/10/metro-must-pick-heavy-rail-for-sepulveda/">Save to Pocket</a>
+</span>
+
+---
+
+## Opinion: Test-blind policies may not always be effective in eliminating racial bias
+
+date: 2024-01-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+In a post-pandemic era, test-blind policies have been adopted by universities across the nation, including the UC. After years of dissent against the inequities of standardized testing, this shift has been applauded by students and the general public alike.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/09/opinion-test-blind-policies-may-not-always-be-effective-in-eliminating-racial-bias/">https://dailybruin.com/2024/01/09/opinion-test-blind-policies-may-not-always-be-effective-in-eliminating-racial-bias/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/09/opinion-test-blind-policies-may-not-always-be-effective-in-eliminating-racial-bias/">Save to Pocket</a>
+</span>
+
+---
+
+## Opinion: My summer internship in Washington, DC helped me gain a new sense of autonomy
+
+date: 2024-01-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Many students experience independence for the first time in college. I found this newfound independence when I went to live in Washington, D.C., this summer to intern at a local nonprofit organization.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/09/opinion-my-summer-internship-in-washington-dc-helped-me-gain-a-new-sense-of-autonomy/">https://dailybruin.com/2024/01/09/opinion-my-summer-internship-in-washington-dc-helped-me-gain-a-new-sense-of-autonomy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/09/opinion-my-summer-internship-in-washington-dc-helped-me-gain-a-new-sense-of-autonomy/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA’s Latino Data Hub explores causes of disparities in Latino communities
+
+date: 2024-01-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA&#8217;s Latino Policy and Politics Institute launched its Latino Data Hub in October, which provides data on demographic factors that might contribute to inequality in Latino communities in the United States.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/09/uclas-latino-data-hub-explores-causes-of-disparities-in-latino-communities/">https://dailybruin.com/2024/01/09/uclas-latino-data-hub-explores-causes-of-disparities-in-latino-communities/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/09/uclas-latino-data-hub-explores-causes-of-disparities-in-latino-communities/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA ROTC programs provide support for Bruins pursuing military careers
+
+date: 2024-01-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 9 at 9:41 p.m.</em>
+Second-year art student Youngjae Choi always knew he wanted to fly.
+Coming from a family of fighter pilots in South Korea, Choi faced barriers in joining the United States Air Force Academy.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/09/ucla-rotc-programs-provide-support-for-bruins-pursuing-military-careers/">https://dailybruin.com/2024/01/09/ucla-rotc-programs-provide-support-for-bruins-pursuing-military-careers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/09/ucla-rotc-programs-provide-support-for-bruins-pursuing-military-careers/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA experts express opposition to Republicans’ plans to reduce education funding
+
+date: 2024-01-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 9 at 9:46 p.m.</em>
+UCLA experts discussed congressional Republicans’ plans for education reform and their implications for higher education.
+The United States House Education Committee accepted education funding bills in November that are supported by Republicans in the House of Representatives, but the House postponed votes on the bills to a future date.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/09/ucla-experts-express-opposition-to-republicans-plans-to-reduce-education-funding/">https://dailybruin.com/2024/01/09/ucla-experts-express-opposition-to-republicans-plans-to-reduce-education-funding/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/09/ucla-experts-express-opposition-to-republicans-plans-to-reduce-education-funding/">Save to Pocket</a>
+</span>
+
+---
+
+## Suehiro Cafe Serves Its Last Meals In Little Tokyo
+
+date: 2024-01-10, updated: 2024-01-10, from: The LAist
+
+The restaurant is being evicted after more than 50 years in the neighborhood.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/suehiro-cafe-closes-little-tokyo-los-angeles">https://laist.com/news/food/suehiro-cafe-closes-little-tokyo-los-angeles</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/suehiro-cafe-closes-little-tokyo-los-angeles">Save to Pocket</a>
+</span>
+
+---
+
+## Housing Advocates Sue City Of LA For Stalling Affordable Housing Near Single-Family Homes
+
+date: 2024-01-10, updated: 2024-01-10, from: The LAist
+
+Mayor Karen Bass decided last year to exclude single-family neighborhoods from her signature housing policy. Now the city faces a lawsuit over the change.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/los-angeles-affordable-housing-ed1-karen-bass-mayor-yimby-law-lawsuit-winnetka">https://laist.com/news/housing-homelessness/los-angeles-affordable-housing-ed1-karen-bass-mayor-yimby-law-lawsuit-winnetka</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/los-angeles-affordable-housing-ed1-karen-bass-mayor-yimby-law-lawsuit-winnetka">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,6 +249,7 @@ updated: 2024-01-09 14:46:04
 
 date: 2024-01-09, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 9 at 10:14 p.m.</em>
 The Bruins did two things during the second half of Saturday&#8217;s meet.
 The first: they posted their worst score on any beam rotation since March 2021.
 
@@ -24,7 +261,7 @@ The first: they posted their worst score on any beam rotation since March 2021.
 
 ## New Report Suggests Rise In Hate Crimes Fueled By Anti-Jewish Bias
 
-date: 2024-01-09, updated: 2024-01-09, from: The LAist
+date: 2024-01-09, updated: 2024-01-10, from: The LAist
 
 A forthcoming report from Cal State San Bernardino takes in hate crime data reported to law enforcement in the nation’s largest cities.
 
@@ -38,8 +275,8 @@ A forthcoming report from Cal State San Bernardino takes in hate crime data repo
 
 date: 2024-01-09, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 9 at 10:11 p.m.</em>
 Two Bruins flew abroad to play for their national teams and were set to miss two games in Westwood just one contest into the season.
-But only one has returned to the court since.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/09/ucla-womens-basketball-steps-up-and-into-emily-bessoirs-shoes-after-injury/">https://dailybruin.com/2024/01/09/ucla-womens-basketball-steps-up-and-into-emily-bessoirs-shoes-after-injury/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/09/ucla-womens-basketball-steps-up-and-into-emily-bessoirs-shoes-after-injury/">Save to Pocket</a>
@@ -135,12 +372,12 @@ Republican state officials are advancing new legal arguments in the courts that 
 
 ---
 
-## Campus reacts to trigger warnings
+## Some students, faculty say they support adding trigger warnings to course syllabi
 
 date: 2024-01-09, from: The Daily Trojan (USC Student Newspaper)
 
-<p>Some USC students and faculty said they are in favor of trigger warnings.</p>
-<p>The post <a href="https://dailytrojan.com/2024/01/09/campus-reacts-to-trigger-warnings/">Campus reacts to trigger warnings</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>Debates about adding disclaimers for potentially offensive content have ignited in campuses across the country.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/09/campus-reacts-to-trigger-warnings/">Some students, faculty say they support adding trigger warnings to course syllabi</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
 
 
 <span class="feed-item-link">

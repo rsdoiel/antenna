@@ -1,11 +1,206 @@
 ---
 title: pacific 2024.02
-updated: 2024-01-09 14:46:04
+updated: 2024-01-10 08:42:52
 ---
 
 # pacific 2024.02
 
-(date: 2024-01-09 14:46:04)
+(date: 2024-01-10 08:42:52)
+
+---
+
+## Marshalls president to declare emergencies
+
+date: 2024-01-10, updated: 2024-01-10, from: Marianas Variety
+
+MAJURO — Following a swearing in ceremony for her new cabinet Tuesday, the first order of business for President Hilda Heine’s new government is expected to be declaring not one, but two states of emergency: One for Kili Island, where “people are starving,” according to one cabinet minister; the other order to put focus on the capital atoll’s ongoing power crisis.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/regional_world/marshalls-president-to-declare-emergencies/article_a24009f0-af83-11ee-ac8e-4f9b1eacacc3.html">https://www.mvariety.com/news/regional_world/marshalls-president-to-declare-emergencies/article_a24009f0-af83-11ee-ac8e-4f9b1eacacc3.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/regional_world/marshalls-president-to-declare-emergencies/article_a24009f0-af83-11ee-ac8e-4f9b1eacacc3.html">Save to Pocket</a>
+</span>
+
+---
+
+## Boeing CEO admits error, says mid-air blowout 'can never happen again'
+
+date: 2024-01-10, updated: 2024-01-10, from: Marianas Variety
+
+WASHINGTON (Reuters) —Boeing CEO Dave Calhoun acknowledged errors by the U.S. planemaker as more than 170 jets remained grounded for a fourth day, telling staff the company would ensure an accident like the mid-air Alaska Airlines panel blowout "can never happen again."
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/business_news/boeing-ceo-admits-error-says-mid-air-blowout-can-never-happen-again/article_e68d2cd8-af91-11ee-80f0-db09bf17124d.html">https://www.mvariety.com/business/business_news/boeing-ceo-admits-error-says-mid-air-blowout-can-never-happen-again/article_e68d2cd8-af91-11ee-80f0-db09bf17124d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/business_news/boeing-ceo-admits-error-says-mid-air-blowout-can-never-happen-again/article_e68d2cd8-af91-11ee-80f0-db09bf17124d.html">Save to Pocket</a>
+</span>
+
+---
+
+## SIS, MHS advance to boys soccer championship
+
+date: 2024-01-10, updated: 2024-01-10, from: Marianas Variety
+
+SAIPAN International School and Marianas High School secured their seats in the boys high school division final of the NMIFA-PSS Interscholastic Soccer League SY23-24 by defeating their respective adversaries at the NMI Soccer Training Center in Koblerville on Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/sis-mhs-advance-to-boys-soccer-championship/article_852d4318-af98-11ee-9d2e-b7ea099d2e17.html">https://www.mvariety.com/sports/localsports/sis-mhs-advance-to-boys-soccer-championship/article_852d4318-af98-11ee-9d2e-b7ea099d2e17.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/sis-mhs-advance-to-boys-soccer-championship/article_852d4318-af98-11ee-9d2e-b7ea099d2e17.html">Save to Pocket</a>
+</span>
+
+---
+
+## Bank of Guam announces return of  Hagåtña City Run & Block Party
+
+date: 2024-01-10, updated: 2024-01-10, from: Marianas Variety
+
+(BoG) — After a successful return to the heart of Hagåtña last year, Bank of Guam takes to the streets once again to kick off its 52nd Founder’s Day Anniversary with even more reasons to celebrate. The Bank’s signature event enters its 17th year and is set for Saturday, March 9, 2024, with festivities set to begin at 5:30 p.m. at the Plaza de España and Guam Museum grounds.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/bank-of-guam-announces-return-of-hag-t-a-city-run-block-party/article_078ed0ba-af80-11ee-823f-57746483ed03.html">https://www.mvariety.com/news/community_bulletins/bank-of-guam-announces-return-of-hag-t-a-city-run-block-party/article_078ed0ba-af80-11ee-823f-57746483ed03.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/bank-of-guam-announces-return-of-hag-t-a-city-run-block-party/article_078ed0ba-af80-11ee-823f-57746483ed03.html">Save to Pocket</a>
+</span>
+
+---
+
+## Community invited to NMC’s Health Night on Jan. 18
+
+date: 2024-01-10, updated: 2024-01-10, from: Marianas Variety
+
+(NMC) — The CNMI Small Business Development Center Network at Northern Marianas College, in collaboration with the NMC Health Squad, is thrilled to announce the 2nd Annual Health Night, scheduled for Thursday, Jan. 18, 2024, from 4:30 p.m. to 7 p.m. at NMC’s Mango Terrace between Buildings N and O.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/community-invited-to-nmc-s-health-night-on-jan-18/article_8268429e-af85-11ee-9888-cb774896ff23.html">https://www.mvariety.com/news/community_bulletins/community-invited-to-nmc-s-health-night-on-jan-18/article_8268429e-af85-11ee-9888-cb774896ff23.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/community-invited-to-nmc-s-health-night-on-jan-18/article_8268429e-af85-11ee-9888-cb774896ff23.html">Save to Pocket</a>
+</span>
+
+---
+
+## NBA roundup: Anthony Davis helps Lakers edge Raptors
+
+date: 2024-01-10, updated: 2024-01-10, from: Marianas Variety
+
+(Reuters) — Anthony Davis recorded 41 points and 11 rebounds, LeBron James added 22 points and 12 assists and the Los Angeles Lakers won consecutive games for the first time in over a month with a 132-131 victory over the visiting Toronto Raptors on Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/nba-roundup-anthony-davis-helps-lakers-edge-raptors/article_9f86ce54-afbc-11ee-8961-cb13062a4c14.html">https://www.mvariety.com/sports/nationalsports/nba-roundup-anthony-davis-helps-lakers-edge-raptors/article_9f86ce54-afbc-11ee-8961-cb13062a4c14.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/nba-roundup-anthony-davis-helps-lakers-edge-raptors/article_9f86ce54-afbc-11ee-8961-cb13062a4c14.html">Save to Pocket</a>
+</span>
+
+---
+
+## More NFL teams could make coaching changes if they stumble early in the playoffs
+
+date: 2024-01-10, updated: 2024-01-10, from: Marianas Variety
+
+(AP) — It was a slow “Black Monday” across the NFL while everyone waits on Bill Belichick’s future with the New England Patriots.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/more-nfl-teams-could-make-coaching-changes-if-they-stumble-early-in-the-playoffs/article_f068294e-afbc-11ee-a8db-fb561d261c94.html">https://www.mvariety.com/sports/nationalsports/more-nfl-teams-could-make-coaching-changes-if-they-stumble-early-in-the-playoffs/article_f068294e-afbc-11ee-a8db-fb561d261c94.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/more-nfl-teams-could-make-coaching-changes-if-they-stumble-early-in-the-playoffs/article_f068294e-afbc-11ee-a8db-fb561d261c94.html">Save to Pocket</a>
+</span>
+
+---
+
+## Saipan-Tinian ferry available for Tinian Hot Pepper Festival
+
+date: 2024-01-10, updated: 2024-01-10, from: Marianas Variety
+
+(MVA) — Getting to the 20th  Annual Tinian Hot Pepper Festival on Feb. 16-17, 2024, from Saipan just got easier with the addition of ferry service by the Marianas Visitors Authority.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/saipan-tinian-ferry-available-for-tinian-hot-pepper-festival/article_d1ce04b6-af87-11ee-864f-67b3230b84c6.html">https://www.mvariety.com/news/community_bulletins/saipan-tinian-ferry-available-for-tinian-hot-pepper-festival/article_d1ce04b6-af87-11ee-864f-67b3230b84c6.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/saipan-tinian-ferry-available-for-tinian-hot-pepper-festival/article_d1ce04b6-af87-11ee-864f-67b3230b84c6.html">Save to Pocket</a>
+</span>
+
+---
+
+## Senate panel drafts new version of AG subpoena bill
+
+date: 2024-01-10, updated: 2024-01-10, from: Marianas Variety
+
+THE Senate Committee on Judiciary, Government and Law has prepared a substitute to House Bill 23-22, whose original version would authorize the attorney general “to serve subpoenas, arrest and perform all other functions lawfully authorized for police officers.”
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/senate-panel-drafts-new-version-of-ag-subpoena-bill/article_625ad2ca-af7e-11ee-ba21-734ffb181046.html">https://www.mvariety.com/news/local/senate-panel-drafts-new-version-of-ag-subpoena-bill/article_625ad2ca-af7e-11ee-ba21-734ffb181046.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/senate-panel-drafts-new-version-of-ag-subpoena-bill/article_625ad2ca-af7e-11ee-ba21-734ffb181046.html">Save to Pocket</a>
+</span>
+
+---
+
+## DPL says it doesn’t owe MPLT money
+
+date: 2024-01-10, updated: 2024-01-10, from: Marianas Variety
+
+DEPARTMENT of Public Lands Secretary Teresita Santos has submitted a response to the complaint filed against DPL by the Marianas Public Land Trust.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/dpl-says-it-doesn-t-owe-mplt-money/article_0ab80262-af8e-11ee-8c8b-ffb944f38acd.html">https://www.mvariety.com/news/local/dpl-says-it-doesn-t-owe-mplt-money/article_0ab80262-af8e-11ee-8c8b-ffb944f38acd.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/dpl-says-it-doesn-t-owe-mplt-money/article_0ab80262-af8e-11ee-8c8b-ffb944f38acd.html">Save to Pocket</a>
+</span>
+
+---
+
+## Guam’s lt. governor pushes for details on missile defense system
+
+date: 2024-01-10, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Lt. Gov. Joshua Tenorio today urged the U.S. military to disclose more details on the missile defense system being...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/guam-s-lt-governor-pushes-for-details-on-missile-defense-system">https://www.pacificislandtimes.com/post/guam-s-lt-governor-pushes-for-details-on-missile-defense-system</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/guam-s-lt-governor-pushes-for-details-on-missile-defense-system">Save to Pocket</a>
+</span>
+
+---
+
+## Guam labor agency gears up for enforcement of Pregnant Workers Fairness Act
+
+date: 2024-01-10, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Guam Department of Labor is finalizing the rules on the Pregnant Workers Fairness Act or PWFA,...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/guam-labor-agency-gears-up-for-enforcement-of-pregnant-workers-fairness-act">https://www.pacificislandtimes.com/post/guam-labor-agency-gears-up-for-enforcement-of-pregnant-workers-fairness-act</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/guam-labor-agency-gears-up-for-enforcement-of-pregnant-workers-fairness-act">Save to Pocket</a>
+</span>
+
+---
+
+## AGO begins probe into Guam hospital's MedHealth contract ratified by former attorney general
+
+date: 2024-01-10, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The Office of the Attorney General has launched a criminal investigation into the Guam Memorial Hospital’s...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/ago-begins-probe-into-guam-hospital-s-medhealth-contract-ratified-by-former-attorney-general">https://www.pacificislandtimes.com/post/ago-begins-probe-into-guam-hospital-s-medhealth-contract-ratified-by-former-attorney-general</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/ago-begins-probe-into-guam-hospital-s-medhealth-contract-ratified-by-former-attorney-general">Save to Pocket</a>
+</span>
+
+---
+
+## Hawaiian Word of the Week: Ua
+
+date: 2024-01-10, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Ua&#8212;Rain; to rain; rainy.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/09/hawaiian-word-of-the-week-ua/">Hawaiian Word of the Week: Ua</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/09/hawaiian-word-of-the-week-ua/">https://www.hawaii.edu/news/2024/01/09/hawaiian-word-of-the-week-ua/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/09/hawaiian-word-of-the-week-ua/">Save to Pocket</a>
+</span>
+
+---
+
+## Learn about Hawaiʻi’s rich history, culture for free
+
+date: 2024-01-10, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> <span aria-label="Hawaii">Hawai&#699;i</span> <span aria-label="Kuu">Ku&#699;u</span> Home Aloha offers free workshops on oli, mele and a reflective journey through <span aria-label="Hawaii’s">Hawai&#699;i’s</span> history.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/09/learn-hawaii-rich-culture-free/">Learn about Hawaiʻi’s rich history, culture for free</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/09/learn-hawaii-rich-culture-free/">https://www.hawaii.edu/news/2024/01/09/learn-hawaii-rich-culture-free/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/09/learn-hawaii-rich-culture-free/">Save to Pocket</a>
+</span>
+
+---
+
+## JABSOM dean finalists announced, campus visits scheduled
+
+date: 2024-01-10, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Campus visits for the three candidates Lee Buenconsejo-Lum, Melissa Simon and T. Samuel Shomaker have been scheduled.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/09/jabsom-dean-finalists-2024/"><abbr>JABSOM</abbr> dean finalists announced, campus visits scheduled</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/09/jabsom-dean-finalists-2024/">https://www.hawaii.edu/news/2024/01/09/jabsom-dean-finalists-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/09/jabsom-dean-finalists-2024/">Save to Pocket</a>
+</span>
 
 ---
 

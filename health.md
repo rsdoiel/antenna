@@ -1,11 +1,83 @@
 ---
 title: health 2024.02
-updated: 2024-01-09 14:46:04
+updated: 2024-01-10 08:42:52
 ---
 
 # health 2024.02
 
-(date: 2024-01-09 14:46:04)
+(date: 2024-01-10 08:42:52)
+
+---
+
+## Getting clues from nature: the impact of grass hay on suckling piglets’ gastrointestinal growth and colonic microbiota
+
+date: 2024-01-10, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>The effect of dietary fiber on pig production has been extensively evaluated. Inspired by observations of the diet of wild, young piglets, this study aimed to examine the possibility of feeding grass hay to suckling piglets besides concentrated creep feed.</p></sec><sec><title>Methods</title><p>The sow-nursed piglets in this study were divided into two groups based on balanced sow parities. The control group (CON, <italic>n</italic> = 7 sows) only received a regular, concentrated creep feed, while the treatment piglets (GH, <italic>n</italic> = 8 sows) were also provided with chopped grass hay from 2 days of age until weaning (28 days). At weaning, one piglet with a median weight was selected from each litter for post-mortem evaluation. Subsequently, six pigs around median weight per sow were grouped into nursery pens and monitored for their feed intake and body weight gain until 9 weeks of age.</p></sec><sec><title>Results and discussion</title><p>Piglets in GH consumed, on average, 57 g of grass hay per piglet during the entire lactation period. The emptied weight of the small and large intestine was significantly greater in GH (280 vs. 228 g, 88.8 vs. 79.3 g, respectively, <italic>p</italic> &lt; 0.05), and the length of the large intestine was stimulated by the grass hay (164 vs. 150 cm, <italic>p</italic> &lt; 0.05). Morphologically, the villus height in the jejunum was higher in GH (<italic>p</italic> &lt; 0.05). In the large intestine, the crypt depth of the mid-colon was lower in GH. Moreover, the short-chain fatty acid (SCFA) concentrations in the cecum were increased in GH compared to CON (1,179 vs. 948 µmol/g dry matter, <italic>p</italic> &lt; 0.05), whereas in the colon, SCFA concentrations were lower in CON (341 vs. 278 µmol/g dry matter, <italic>p</italic> &lt; 0.05). There was no major impact of grass hay inclusion on the colonic microbiota composition. Only a trend was observed for a lower inverse of the classical Simpson (InvSimpon) index and a higher abundance of <italic>Lactobacillus</italic> genera in GH. After weaning, no significant differences in feed intake and body weight gain were observed. In conclusion, supplementing the grass hay to suckling piglets led to alterations in intestinal morphology, increased SCFA fermentation in proximal sections of large intestine, stimulation of gastrointestinal tract growth, and subtle modifications in colonic microbiota.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1341147">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1341147</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1341147">Save to Pocket</a>
+</span>
+
+---
+
+## In vitro inhibition of Pseudomonas aeruginosa PAO1 biofilm formation by DZ2002 through regulation of extracellular DNA and alginate production
+
+date: 2024-01-10, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p><italic>Pseudomonas aeruginosa</italic> (<italic>P. aeruginosa)</italic> is a common pathogen associated with biofilm infections, which can lead to persistent infections. Therefore, there is an urgent need to develop new anti-biofilm drugs. DZ2002 is a reversible inhibitor that targets S-adenosylhomocysteine hydrolase and possesses anti-inflammatory and immune-regulatory activities. However, its anti-biofilm activity has not been reported yet.</p></sec><sec><title>Methods and results</title><p>Therefore, we investigated the effect of DZ2002 on <italic>P. aeruginosa</italic> PAO1 biofilm formation by crystal violet staining (CV), real-time quantitative polymerase chain reaction (RT-qPCR) and confocal laser scanning microscopy (CLSM). The results indicated that although DZ2002 didn’t affect the growth of planktonic PAO1, it could significantly inhibit the formation of mature biofilms. During the inhibition of biofilm formation by DZ2002, there was a parallel decrease in the synthesis of alginate and the expression level of alginate genes, along with a weakening of swarming motility. However, these results were unrelated to the expression of <italic>lasI, lasR, rhII, rhIR</italic>. Additionally, we also found that after treatment with DZ2002, the biofilms and extracellular DNA content of PAO1 were significantly reduced. Molecular docking results further confirmed that DZ2002 had a strong binding affinity with the active site of S-adenosylhomocysteine hydrolase (SahH) of PAO1.</p></sec><sec><title>Discussion</title><p>In summary, our results indicated that DZ2002 may interact with SahH in PAO1, inhibiting the formation of mature biofilms by downregulating alginate synthesis, extracellular DNA production and swarming motility. These findings demonstrate the potential value of DZ2002 in treating biofilm infections associated with <italic>P. aeruginosa</italic>.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1333773">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1333773</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1333773">Save to Pocket</a>
+</span>
+
+---
+
+## Effects of OxyR regulator on oxidative stress, Apx toxin secretion and virulence of Actinobacillus pleuropneumoniae
+
+date: 2024-01-10, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p><italic>Actinobacillus pleuropneumoniae</italic>, the causative agent of porcine pleuropneumonia, poses a significant threat to global swine populations due to its high prevalence, mortality rates, and substantial economic ramifications. Understanding the pathogen's defense mechanisms against host-produced reactive oxygen species is crucial for its survival, with OxyR, a conserved bacterial transcription factor, being pivotal in oxidative stress response.</p></sec><sec><title>Methods</title><p>This study investigated the presence and role of OxyR in <italic>A. pleuropneumoniae</italic> serovar 1-12 reference strains. Transcriptomic analysis was conducted on an oxyR disruption mutant to delineate the biological activities influenced by OxyR. Additionally, specific assays were employed to assess urease activity, catalase expression, ApxI toxin secretion, as well as adhesion and invasion abilities of the oxyR disruption mutant on porcine 3D4/21 and PT cells. A mice challenge experiment was also conducted to evaluate the impact of oxyR inactivation on <italic>A. pleuropneumoniae</italic> virulence.</p></sec><sec><title>Results</title><p>OxyR was identified as a conserved regulator present in <italic>A. pleuropneumoniae</italic> serovar 1-12 reference strains. Transcriptomic analysis revealed the involvement of OxyR in multiple biological activities. The oxyR disruption resulted in decreased urease activity, elevated catalase expression, enhanced ApxI toxin secretion—attributed to OxyR binding to the apxIBD promoter—and reduced adhesion and invasion abilities on porcine cells. Furthermore, inactivation of oxyR reduced the virulence of <italic>A. pleuropneumoniae</italic> in a mice challenge experiment.</p></sec><sec><title>Discussion</title><p>The findings highlight the pivotal role of OxyR in influencing the virulence mechanisms of <italic>A. pleuropneumoniae</italic>. The observed effects on various biological activities underscore OxyR as an essential factor contributing to the pathogenicity of this bacterium.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1324760">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1324760</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1324760">Save to Pocket</a>
+</span>
+
+---
+
+## Prevalence and resistance characteristics of multidrug-resistant Streptococcus pneumoniae isolated from the respiratory tracts of hospitalized children in Shenzhen, China
+
+date: 2024-01-10, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>PCV13 introduction in China has led to a significant reduction of vaccine serotype <italic>Streptococcus pneumoniae</italic>. However, non-vaccine serotypes with highly resistance and invasiveness were often reported in the post-pneumococcal conjugate vaccine era and there was regional differences.</p></sec><sec><title>Methods</title><p>A total of 669 <italic>S. pneumoniae</italic> strains were collected from the respiratory tracts of hospitalized children at Shenzhen Children’s Hospital in 2021 and 2022. Antimicrobial resistance (AMR) characteristics were assessed through antibiotic susceptibility testing performed with the VITEK 2 compact system. AMR genes and single nucleotide polymorphisms (SNPs) in pbp1a, pbp2b, and pbp2x were identified via analysis of whole genome sequencing data. Statistical examination of the data was conducted employing chi-square and Fisher’s exact tests.</p></sec><sec><title>Results</title><p>We found that non-vaccine serotypes strains had accounted for 46.6% of all the pneumococcal isolated strains. The most common non-vaccine serotype is 23A, with a prevalence rate of 8.9%, followed by 15A (6.6%), 6E (5.7%), 34 (3.2%), and 15B (2.9%). The multidrug resistance rates (MDR) of vaccine serotypes were 19F (99.36%), 19A (100%), 23F (98.08%), 6B (100%), and 6C (100%). Meanwhile, the MDR of non-vaccine serotypes were 15B (100.00%), 6E (100%), 15C (100%), 34 (95.24%), and 23A (98.31%). Resistance rates of 6E to more than six antibiotic classes reached 89.47%, which is similar to 19F (83.33%) and 19A (90%). Unique resistance profiles were also identified for non-vaccine serotypes, including significantly higher resistance to chloramphenicol in 6E, 15B, and 15C than in 19F and 19A. Furthermore, through genome sequencing, we revealed strong correlation of <italic>cat-TC</italic> with chloramphenicol resistance, <italic>patA/patB</italic> with tetracycline resistance, <italic>ermB</italic> and <italic>pmrA</italic> with erythromycin resistance.</p></sec><sec><title>Conclusion</title><p>The introduction of PCV13 into China from 2017 has led to a shift in the dominant composition of pneumococcal strains. There has been a notable rise and spread of multidrug-resistant non-vaccine serotypes among children. Specifically, the non-vaccine serotype 6E, which was not widely reported in China previously, has emerged. To comprehend the resistance mechanisms, it is crucial to further investigate the molecular and genetic characteristics of these non-vaccine serotypes.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1332472">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1332472</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1332472">Save to Pocket</a>
+</span>
+
+---
+
+## Case report: Enhancing prognosis in severe COVID-19 through human herpes virus coinfection treatment strategies
+
+date: 2024-01-10, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>In the context of increasing reports of co-infection with coronavirus disease 2019 (COVID-19), particularly with human herpes viruses (HHVs), it is important to consider the appropriate treatment options for HHVs that have been reactivated by COVID-19.</p></sec><sec><title>Case presentation</title><p>This study presents two cases of severe COVID-19 with HHV co-infection. The first case involved a critically ill patient with COVID-19 co-infected with herpes simplex virus type 1, confirmed using metagenomic next-generation sequencing, and another patient with severe COVID-19 experiencing Epstein-Barr virus (EBV) reactivation, as evidenced by elevated EBV-DNA levels in the serum. Treatment included high-dose glucocorticoids and sivelestat sodium, with notable improvements observed after initiating ganciclovir anti-herpesvirus therapy.</p></sec><sec><title>Conclusion</title><p>This study underscores the significance of recognizing HHV co-infections in severe COVID-19 cases and highlights the potential of combining anti-HHV treatment, increased glucocorticoid dosages, and anti-cytokine storm therapy to enhance prognosis.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1320933">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1320933</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1320933">Save to Pocket</a>
+</span>
+
+---
+
+## Stenotrophomonas maltophilia complex: insights into evolutionary relationships, global distribution and pathogenicity
+
+date: 2024-01-10, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p><italic>Stenotrophomonas maltophilia</italic> complex (Smc) comprises opportunistic Gram-negative bacilli responsible for various nosocomial infections. Limited data exists concerning its evolutionary lineage, global prevalence and pathogenicity.</p></sec><sec><title>Methods</title><p>We conducted an extensive genomic analysis on 734 Smc genomes, of which 90 were newly sequenced and isolated from different patients. The species composition and evolutionary relationships of Smc were examined using core protein sequence analysis. Pathogenicity evaluation was used by assays for swimming motility, biofilm formation and identification of virulence factors. The broth microdilution method was used to evaluate the drug resistance spectrum of clinical isolates.</p></sec><sec><title>Results</title><p>Phylogenetic analyses delineated 24 species-level clades, dominated by <italic>S. maltophilia</italic> (42.8%), <italic>S. sepilia</italic> (13.6%) and <italic>S. geniculata</italic> (9.9%). Geographically, strains were primarily distributed in Europe (34.2%), Asia (33.7%) and North America (24.0%), with intricate global distribution patterns. Meanwhile, 154 virulence-associated genes and 46 antimicrobial resistance genes within Smc were identified. These genes encoded span various functions, including motility, adherence, toxin, RND antibiotic efflux pumps, beta-lactamases and aminoglycoside-modifying enzymes. Moreover, significant variations were indicated in swimming motility and biofilm-forming capability across the different species, with <italic>S. sepilia</italic> exhibiting superior levels of both traits. Additionally, no statistically significant discrepancy was detected among Smc species to other antibiotics, despite the fact that all <italic>S. geniculata</italic> isolates were resistant to Ceftazidime and much higher than other species.</p></sec><sec><title>Conclusion</title><p>Our findings indicate the need to pay increased attention to other mainstream species of Smc besides <italic>S. maltophilia</italic> in order to better manage Smc-related infections and tailor effective treatment strategies.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1325379">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1325379</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1325379">Save to Pocket</a>
+</span>
 
 ---
 

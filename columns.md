@@ -1,17 +1,91 @@
 ---
 title: columns 2024.02
-updated: 2024-01-09 14:46:04
+updated: 2024-01-10 08:42:52
 ---
 
 # columns 2024.02
 
-(date: 2024-01-09 14:46:04)
+(date: 2024-01-10 08:42:52)
+
+---
+
+## Facial Scanning by Burger King in Brazil
+
+date: 2024-01-10, updated: 2024-01-05, from: Bruce Schneier blog
+
+<p>In 2000, <a href="https://www.schneier.com/books/secrets-and-lies/">I wrote</a>: &#8220;If McDonald&#8217;s offered three free Big Macs for a DNA sample, there would be lines around the block.&#8221;</p>
+<p>Burger King in Brazil is <a href="https://gizmodo.com/burger-king-giving-discounts-if-facial-recognition-thin-1851124496">almost there</a>, offering discounts in exchange for a facial scan. From a marketing video:</p>
+<blockquote><p>&#8220;At the end of the year, it&#8217;s Friday every day, and the hangover kicks in,&#8221; a vaguely robotic voice says as images of cheeseburgers glitch in and out over fake computer code. &#8220;BK presents Hangover Whopper, a technology that scans your hangover level and offers a discount on the ideal combo to help combat it.&#8221; The stunt runs until January 2nd...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/facial-scanning-by-burger-king-in-brazil.html">https://www.schneier.com/blog/archives/2024/01/facial-scanning-by-burger-king-in-brazil.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/facial-scanning-by-burger-king-in-brazil.html">Save to Pocket</a>
+</span>
+
+---
+
+## Office Hours: Will the Supreme Court drag its robes?
+
+date: 2024-01-10, from: Robert Reich's blog
+
+When it comes to Trump&#8217;s criminal trial for seeking to overturn the 2020 election, timing is everything.
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/office-hours-will-the-supreme-court">https://robertreich.substack.com/p/office-hours-will-the-supreme-court</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/office-hours-will-the-supreme-court">Save to Pocket</a>
+</span>
+
+---
+
+## PSL in curl
+
+date: 2024-01-10, from: Daniel Stenberg Blog
+
+PSL in this context stands for Public Suffix List. It is a list of known public suffixes in domain names. A public suffix is a name under which Internet users can (or historically could) directly register names &#8211; other than the top-level domains. One of the most commonly known and used such suffixes is &#8220;co.uk&#8221;, &#8230; <a href="https://daniel.haxx.se/blog/2024/01/10/psl-in-curl/" class="more-link">Continue reading <span class="screen-reader-text">PSL in curl</span> <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://daniel.haxx.se/blog/2024/01/10/psl-in-curl/">https://daniel.haxx.se/blog/2024/01/10/psl-in-curl/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daniel.haxx.se/blog/2024/01/10/psl-in-curl/">Save to Pocket</a>
+</span>
+
+---
+
+## Humane Lays Off 4 Percent of Employees Before Releasing Its AI Pin
+
+date: 2024-01-10, updated: 2024-01-10, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.theverge.com/2024/1/9/24032274/humane-layoffs-ai-pin">https://www.theverge.com/2024/1/9/24032274/humane-layoffs-ai-pin</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theverge.com/2024/1/9/24032274/humane-layoffs-ai-pin">Save to Pocket</a>
+</span>
+
+---
+
+## Wednesday 10 January, 2024
+
+date: 2024-01-10, from: John Naughton's online diary
+
+Analog/digital This is the kind of daft things that photographers do (well, this photographer anyway) when they should be working. It’s a photograph taken with an iPhone of what a venerable analog camera (a Hasselblad 501CM) saw yesterday morning. (And, &#8230; <a href="https://memex.naughtons.org/wednesday-10-january-2024/39012/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/wednesday-10-january-2024/39012/">https://memex.naughtons.org/wednesday-10-january-2024/39012/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/wednesday-10-january-2024/39012/">Save to Pocket</a>
+</span>
+
+---
+
+## Hey Calendar App Is Now in the App Store
+
+date: 2024-01-09, updated: 2024-01-09, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://world.hey.com/dhh/apple-approves-the-hey-calendar-c76ebd9c">https://world.hey.com/dhh/apple-approves-the-hey-calendar-c76ebd9c</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://world.hey.com/dhh/apple-approves-the-hey-calendar-c76ebd9c">Save to Pocket</a>
+</span>
 
 ---
 
 ## Passenger’s iPhone Survived, Intact, 16,000-Foot Fall From Alaska Airlines Plane
 
-date: 2024-01-09, updated: 2024-01-09, from: Daring Fireball
+date: 2024-01-09, updated: 2024-01-10, from: Daring Fireball
 
 
 
@@ -244,7 +318,7 @@ Trump and his GOP lackeys are fueling dangerous nativism
 
 date: 2024-01-09, updated: 2024-01-09, from: Daring Fireball
 
-I just don’t get it. Apple has nothing to gain by this — *nothing, not a cent* — but a lot to lose.
+I just don’t get it. Apple has nothing to gain by this — *nothing, not a cent — but a lot to lose.
 
 <span class="feed-item-link">
 <a href="https://daringfireball.net/2024/01/heyja_vu_hey_cal">https://daringfireball.net/2024/01/heyja_vu_hey_cal</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/2024/01/heyja_vu_hey_cal">Save to Pocket</a>

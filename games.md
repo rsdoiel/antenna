@@ -1,11 +1,95 @@
 ---
 title: games 2024.02
-updated: 2024-01-09 14:46:04
+updated: 2024-01-10 08:42:52
 ---
 
 # games 2024.02
 
-(date: 2024-01-09 14:46:04)
+(date: 2024-01-10 08:42:52)
+
+---
+
+## Echo’s post-credits scene gives the MCU a villain who isn’t trying to take over the universe
+
+date: 2024-01-10, updated: 2024-01-10, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24032434/echo-post-credit-scene-kingpin-explained">https://www.polygon.com/24032434/echo-post-credit-scene-kingpin-explained</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24032434/echo-post-credit-scene-kingpin-explained">Save to Pocket</a>
+</span>
+
+---
+
+## Twitch cuts 35% of its staff, and now more than 500 people are out of work
+
+date: 2024-01-10, updated: 2024-01-10, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24032885/twitch-layoffs-january-2024">https://www.polygon.com/24032885/twitch-layoffs-january-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24032885/twitch-layoffs-january-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Apiary strategy board game almost wastes its most valuable resource
+
+date: 2024-01-10, updated: 2024-01-10, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24030182/apiary-board-game-review-kwanchai-moriya-art">https://www.polygon.com/reviews/24030182/apiary-board-game-review-kwanchai-moriya-art</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24030182/apiary-board-game-review-kwanchai-moriya-art">Save to Pocket</a>
+</span>
+
+---
+
+## Baldur’s Gate 3 players are losing Xbox saves, but a fix is coming
+
+date: 2024-01-10, updated: 2024-01-10, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24032848/baldurs-gate-3-xbox-lost-save-bug-firmware-update">https://www.polygon.com/24032848/baldurs-gate-3-xbox-lost-save-bug-firmware-update</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24032848/baldurs-gate-3-xbox-lost-save-bug-firmware-update">Save to Pocket</a>
+</span>
+
+---
+
+## How Mayhem! crafted one of the best elevator fight scenes in action movie history
+
+date: 2024-01-10, updated: 2024-01-10, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24029877/mayhem-elevator-fight-scene-watch-interview-xavier-gens-jude-poyer-nassim-lyes-farang">https://www.polygon.com/24029877/mayhem-elevator-fight-scene-watch-interview-xavier-gens-jude-poyer-nassim-lyes-farang</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24029877/mayhem-elevator-fight-scene-watch-interview-xavier-gens-jude-poyer-nassim-lyes-farang">Save to Pocket</a>
+</span>
+
+---
+
+## Echo’s Maya Lopez is one of Marvel’s most complicated characters
+
+date: 2024-01-10, updated: 2024-01-10, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/22811806/echo-hawkeye-cast-explained-alaqua-cox">https://www.polygon.com/22811806/echo-hawkeye-cast-explained-alaqua-cox</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/22811806/echo-hawkeye-cast-explained-alaqua-cox">Save to Pocket</a>
+</span>
+
+---
+
+## All the Echo season 2 news we’ve heard so far
+
+date: 2024-01-10, updated: 2024-01-10, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24030419/echo-season-2-release-date-cast-news">https://www.polygon.com/24030419/echo-season-2-release-date-cast-news</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24030419/echo-season-2-release-date-cast-news">Save to Pocket</a>
+</span>
 
 ---
 

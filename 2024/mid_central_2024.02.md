@@ -1,11 +1,63 @@
 ---
 title: mid central 2024.02
-updated: 2024-01-09 14:46:04
+updated: 2024-01-10 08:42:52
 ---
 
 # mid central 2024.02
 
-(date: 2024-01-09 14:46:04)
+(date: 2024-01-10 08:42:52)
+
+---
+
+## More gated 555 astable multivibrators hit the ground running
+
+date: 2024-01-10, from: EDN Blog
+
+<img width="325" height="249" src="https://www.edn.com/wp-content/uploads/Figure-5_MoreGated555.jpg?fit=325%2C249" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-5_MoreGated555.jpg?w=325 325w, https://www.edn.com/wp-content/uploads/Figure-5_MoreGated555.jpg?w=300 300w" sizes="(max-width: 325px) 100vw, 325px" /><p>Fixing the long-first-pulse malady in less traditional 555 astable topologies including CMOS and bipolar oscillators with 50:50 square waves. </p>
+<p>The post <a href="https://www.edn.com/more-gated-555-astable-multivibrators-hit-the-ground-running/" data-wpel-link="internal">More gated 555 astable multivibrators hit the ground running</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/more-gated-555-astable-multivibrators-hit-the-ground-running/">https://www.edn.com/more-gated-555-astable-multivibrators-hit-the-ground-running/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/more-gated-555-astable-multivibrators-hit-the-ground-running/">Save to Pocket</a>
+</span>
+
+---
+
+## “Marty on the Mountain” Engstrom, N1ARY (SK)
+
+date: 2024-01-10, from: Amateur Radio Relay League News
+
+<p>Avid radio amateur, Marty Engstrom, N1ARY, of Fryeburg, Maine, has become a silent key. Generations of New England television viewers<span> </span><span><span>may know him </span></span>as Marty on the Mountain from his weather reports on camera for WMTW-TV from the station’s transmitter site on Mount Washington in Gorham, New Hampshire.</p><p></p><p></p><p>Engstrom was known to quip that he was not intentionally in the weather business: “I’m a TV engin...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/marty-on-the-mountain-engstrom-n1ary-sk">http://www.arrl.org/news/view/marty-on-the-mountain-engstrom-n1ary-sk</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/marty-on-the-mountain-engstrom-n1ary-sk">Save to Pocket</a>
+</span>
+
+---
+
+## CES 2024: Creating a frugal code in embedded software
+
+date: 2024-01-10, from: EDN Blog
+
+<img width="605" height="356" src="https://www.edn.com/wp-content/uploads/Hero-image-WedoLow.png?fit=605%2C356" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-WedoLow.png?w=605 605w, https://www.edn.com/wp-content/uploads/Hero-image-WedoLow.png?w=300 300w" sizes="(max-width: 605px) 100vw, 605px" /><p>A French startup claims its solution addresses complexity in embedded software by diagnosing the code throughout development process.</p>
+<p>The post <a href="https://www.edn.com/ces-2024-creating-a-frugal-code-in-embedded-software/" data-wpel-link="internal">CES 2024: Creating a frugal code in embedded software</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/ces-2024-creating-a-frugal-code-in-embedded-software/">https://www.edn.com/ces-2024-creating-a-frugal-code-in-embedded-software/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/ces-2024-creating-a-frugal-code-in-embedded-software/">Save to Pocket</a>
+</span>
+
+---
+
+## Freeze Watch issued January 10 at 1:58AM PST until January 13 at 8:00AM PST by NWS
+
+date: 2024-01-10, updated: 2024-01-10, from: Merced, Weather.gov CAP v1.1 alerts
+
+...FREEZE WATCH IN EFFECT FROM LATE THURSDAY NIGHT THROUGH SATURDAY MORNING... * WHAT...Sub-freezing temperatures as low as 26 degrees possible in rural areas on Friday morning, and as low as 29 degrees possible in rural areas on Saturday morning. * WHERE...The San Joaquin Valley.
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126884928DB8.FreezeWatch.126884C14F40CA.HNXNPWHNX.4500c006e3ce364518cac5f347fb4a34">https://alerts.weather.gov/cap/wwacapget.php?x=CA126884928DB8.FreezeWatch.126884C14F40CA.HNXNPWHNX.4500c006e3ce364518cac5f347fb4a34</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA126884928DB8.FreezeWatch.126884C14F40CA.HNXNPWHNX.4500c006e3ce364518cac5f347fb4a34">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +65,7 @@ updated: 2024-01-09 14:46:04
 
 date: 2024-01-09, from: EDN Blog
 
-<img width="1453" height="543" src="https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?fit=1453%2C543" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?w=1453 1453w, https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?w=1024 1024w" sizes="(max-width: 1453px) 100vw, 1453px" /><p>In this Power Tip we discuss how to evaluate and improve the power factor of a PFC.</p>
+<img width="1453" height="543" src="https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?fit=1453%2C543" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?w=1453 1453w, https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-1_PowerTips124.png?w=1024 1024w" sizes="(max-width: 1453px) 100vw, 1453px" /><p>In this Power Tip we discuss how to evaluate and improve the power factor of a PFC.</p>
 <p>The post <a href="https://www.edn.com/power-tips-124-how-to-improve-the-power-factor-of-a-pfc/" data-wpel-link="internal">Power Tips #124: How to improve the power factor of a PFC</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 

@@ -1,11 +1,273 @@
 ---
 title: tech likely 2024.02
-updated: 2024-01-09 14:46:04
+updated: 2024-01-10 08:42:52
 ---
 
 # tech likely 2024.02
 
-(date: 2024-01-09 14:46:04)
+(date: 2024-01-10 08:42:52)
+
+---
+
+##  Tyromancy is a fortune-telling practice that uses cheese to predict the future.... 
+
+date: 2024-01-10, updated: 2024-01-10, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043755-tyromancy-is-a-fortune-te">https://kottke.org/24/01/0043755-tyromancy-is-a-fortune-te</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043755-tyromancy-is-a-fortune-te">Save to Pocket</a>
+</span>
+
+---
+
+## Advice from NASA Mentors to Students Starting Their Careers
+
+date: 2024-01-10, from: NASA breaking news
+
+NASA is celebrating National Mentoring Month by recognizing the importance of mentors to students and young professionals whose careers are beginning to take off. Mentors help their mentees gain real-world experiences, make valuable connections, and find the types of roles best suited to their strengths and skills. To learn more about early career takeaways, we [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/learning-resources/advice-from-nasa-mentors-to-students-starting-their-careers/">https://www.nasa.gov/learning-resources/advice-from-nasa-mentors-to-students-starting-their-careers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/learning-resources/advice-from-nasa-mentors-to-students-starting-their-careers/">Save to Pocket</a>
+</span>
+
+---
+
+## New Kind of Magnetism Spotted in an Engineered Material
+
+date: 2024-01-10, from: Quanta Magazine
+
+In an atomically thin stack of semiconductors, a mechanism unseen in any natural substance causes electrons’ spins to align.             <p>The post <a href="https://www.quantamagazine.org/new-kind-of-magnetism-spotted-in-an-engineered-material-20240110/" target="_blank">New Kind of Magnetism Spotted in an Engineered Material</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/new-kind-of-magnetism-spotted-in-an-engineered-material-20240110/">https://www.quantamagazine.org/new-kind-of-magnetism-spotted-in-an-engineered-material-20240110/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/new-kind-of-magnetism-spotted-in-an-engineered-material-20240110/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Funds Laser Communications Tech with Small Business
+
+date: 2024-01-10, from: NASA breaking news
+
+NASA is working with private industry partners and small businesses under Artemis to produce scalable, affordable, and advanced laser communications systems that could enable greater exploration and discovery beyond Earth for the benefit of all. Laser, or optical, communications provide missions with increased data rates – meaning that missions using laser technology can send and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-funds-laser-communications-tech-with-small-business/">https://www.nasa.gov/centers-and-facilities/glenn/nasa-funds-laser-communications-tech-with-small-business/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/glenn/nasa-funds-laser-communications-tech-with-small-business/">Save to Pocket</a>
+</span>
+
+---
+
+## Bertolucci
+
+date: 2024-01-10, from: Ayjay blog
+
+Some years ago I read an article about sociopathy – I don’t remember the author or where it appeared, but I do recall the description of a boy who began to show signs of sociopathy from an early age. Once, as he and his parents gathering with family and friends at a house that had [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/bertolucci/">https://blog.ayjay.org/bertolucci/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/bertolucci/">Save to Pocket</a>
+</span>
+
+---
+
+## "Overturn an election?"
+
+date: 2024-01-10, from: Dave Winer's Scripting News
+
+<p>I spend a lot of time thinking about words, and when I hear a phrase that seems wrong to me, I'll work on it until I figure out why it seems wrong and what would be a better way to express the actual idea. </p>
+<p>That said, I don't think Trump tried to "overturn an election."</p>
+<p>More accurately, he tried to overthrow the government. </p>
+<p>Why I say that:</p>
+<ul>
+<li>Overturn could be something you do legitimately. If you are convicted of a crime, you could appeal it, be exonerated, and the correct verb would be overturn. Overturn doesn't convey the illegitimacy of what Trump tried to do. The criminality of it. The abhorrence of it, by American values. He tried to "overturn" our most sacred ritual, the transfer of power from one person to another, based on the vote of the people. Overthrow is a much better word for what was done. </li>
+<li>But can you overthrow an election and is that what Trump tried to do? No and no. When you commit a crime, as he surely did, say for example killing someone criminally, we don't say they tried to illegally use a weapon, that's too technical, we say they're "accused of murder." We focus on the consequences. There are lots of ways to illegally use a weapon, what matters is the intended result.</li>
+<li>Does the United States always have a government? I'd argue yes it does. There is always exactly one president, at all times, in all circumstances. It has at times been <a href="https://www.youtube.com/watch?v=zUKW0fL-OqY">called</a> into question.</li>
+<li>On January 20, 2021, we had an actual peaceful transfer of power when Joe Biden <a href="https://www.youtube.com/watch?v=ZwvbQR887W0">took the oath</a>, but the transfer actually took place before he took the oath, at 12PM exactly. But you can also look at the government as a continuous thing, the only difference is there is a new person occupying the office of president. Same government, the one defined by the Constitution. </li>
+<li>So on January 6, 2021, the then-president Donald Trump, tried to destroy the government, replacing it with a new government, one that doesn't follow the Constitution. That's the thing to focus on. He used a weapon, akin to using a gun to try to murder someone, but the crime isn't trying to overturn an election, it's the intended consequence of what he did that matters. </li>
+</ul>
+<p>PS: You could say he was guilty of trying to destroy the government, but our language has a special word for that, it's overthrow. Thus Trump tried to overthrow the government of the United States. </p>
+<p>PPS: I used ChatGPT to <a href="https://chat.openai.com/share/2fcd3869-181c-4a7b-b4cd-672835f51562">confirm</a> that the presidency <a href="https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution">transfers</a> at exactly 12PM on Inauguration Day. There is no time that there is not a president. </p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/10/140854.html?title=overturnAnElection">http://scripting.com/2024/01/10/140854.html?title=overturnAnElection</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/10/140854.html?title=overturnAnElection">Save to Pocket</a>
+</span>
+
+---
+
+## Biggest Linux kernel release ever welcomes bcachefs file system, jettisons Itanium
+
+date: 2024-01-10, updated: 2024-01-10, from: Liam Proven's articles at the Register
+
+<h4>Farewell IA64, hello snapshots and Rusty refinements</h4>
+      <p>The latest stable Linux kernel, 6.7, is out and finally includes the new next-gen copy-on-write (COW) bcachefs file system.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/10/linux_kernel_67/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/10/linux_kernel_67/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/10/linux_kernel_67/">Save to Pocket</a>
+</span>
+
+---
+
+## The Mimo Diaries
+
+date: 2024-01-10, from: Manu - I write blog
+
+<p><a href="https://manuelmoreale.com/thoughts/i-m-taking-over-minimalissimo-for-real-this-time">In a post a couple of weeks ago</a>, I mentioned that I was going to take over Minimalissimo—aka Mimo—starting January 1st and that I was planning to blog about the whole experience.</p>
+<p>Well, it’s January 10th, I am in charge of the site and I do plan to post updates on this journey under the title <em>“The Mimo Diaries”</em> and this is the first entry of the series.</p>
+<p>So how is it going? I’d say so far so good. If you are a visitor of the site you might have noticed that a first change is already in place: posts no longer have short text content. Let me explain the reasoning behind that decision.</p>
+<h2>Writing on the web</h2>
+<p>Minimalissimo started back in 2009 and the web was a very different place. Content generation and content consumption were substantially different than they are now and it made sense to have a “traditional” blog/magazine with text and images.</p>
+<p>But I believe that is no longer true in 2024. I’m not saying writing on the web is pointless, quite the contrary. What I’m saying is that I don’t think there’s much added value to the user in writing short posts to go along with the images on the site. It’s probably useful from a SEO perspective but, as you know, I don’t care about SEO all that much. I care about users and user experience. And I think the value that Mimo provides is in the visual curation, not in the written content.</p>
+<p>Now, that is true for short posts but it’s definitely not true for the newsletter. I do plan to keep that one going and make it a more important part of the Mimo ecosystem. The newsletter is going to be the place for longer content, focused on the topic of minimalism. That’s my current plan and we’ll see how it goes. So, <a href="https://buttondown.email/minimalissimo" rel="noreferrer" target="_blank">make sure you subscribe to the Minimalissimo newsletter</a> if you want to get the full Minimalissimo experience.</p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/IbYtURuBZfgM3uJD">https://manuelmoreale.com/@/page/IbYtURuBZfgM3uJD</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/IbYtURuBZfgM3uJD">Save to Pocket</a>
+</span>
+
+---
+
+## EKORA streamlines cardiology care with Raspberry Pi Zero W
+
+date: 2024-01-10, from: Raspberry Pi News (.com)
+
+<p>Two NHS cardiologists set up EKORA to provide a streamlined Raspberry Pi-powered system that protects confidentiality and saves clinicians time.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/ekora-streamlines-cardiology-care-with-raspberry-pi-zero-w/">EKORA streamlines cardiology care with Raspberry Pi Zero W</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/ekora-streamlines-cardiology-care-with-raspberry-pi-zero-w/">https://www.raspberrypi.com/news/ekora-streamlines-cardiology-care-with-raspberry-pi-zero-w/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/ekora-streamlines-cardiology-care-with-raspberry-pi-zero-w/">Save to Pocket</a>
+</span>
+
+---
+
+## Vote for the January 2024 Paid Post
+
+date: 2024-01-10, from: Computer ads from the Past
+
+Voting is open for one week
+
+<span class="feed-item-link">
+<a href="https://computeradsfromthepast.substack.com/p/vote-for-the-january-2024-paid-post">https://computeradsfromthepast.substack.com/p/vote-for-the-january-2024-paid-post</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://computeradsfromthepast.substack.com/p/vote-for-the-january-2024-paid-post">Save to Pocket</a>
+</span>
+
+---
+
+## DALL-E’s New Guardrails: Fast, Furious, and Far from Airtight
+
+date: 2024-01-10, from: Gary Marcus blog
+
+If we had to guess, line that&#8217;s going to live in infamy from yesterday&#8217;s OpenAI announcement, a reply to the New York Times lawsuit, is probably the one that says &#8220;Regurgitation&#8221; is a rare bug that we are working to drive to zero&#8221;. Our view? Good luck with that.
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/dall-es-new-guardrails-fast-furious">https://garymarcus.substack.com/p/dall-es-new-guardrails-fast-furious</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/dall-es-new-guardrails-fast-furious">Save to Pocket</a>
+</span>
+
+---
+
+## Redeployment Part One
+
+date: 2024-01-10, from: brr, an Antarctica IT blog
+
+Emerging from winter and preparing for our first flight!
+
+<span class="feed-item-link">
+<a href="https://brr.fyi/posts/redeployment-part-one">https://brr.fyi/posts/redeployment-part-one</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://brr.fyi/posts/redeployment-part-one">Save to Pocket</a>
+</span>
+
+---
+
+## This laptop was made to be hacked
+
+date: 2024-01-10, from: Tilde.news
+
+<p><a href="https://tilde.news/s/y7pfu5/this_laptop_was_made_be_hacked">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.youtube.com/watch?v=_DA0Jr4WH-4">https://www.youtube.com/watch?v=_DA0Jr4WH-4</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.youtube.com/watch?v=_DA0Jr4WH-4">Save to Pocket</a>
+</span>
+
+---
+
+##  Whoa, take a look at the Carice TC2, a tiny Porsche-inspired EV... 
+
+date: 2024-01-10, updated: 2024-01-10, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043753-whoa-take-a-look-at">https://kottke.org/24/01/0043753-whoa-take-a-look-at</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043753-whoa-take-a-look-at">Save to Pocket</a>
+</span>
+
+---
+
+## Hobbes OS/2 Archive to shut down in three months
+
+date: 2024-01-10, from: OS News
+
+We&#8217;ve got some seriously bad news for the OS/2 community. Hobbes, the massive software archive for OS/2 (and thus eComStation and ArcaOS), which hosts both old software as well as more recent releases, is shutting down in three months. After many years of service, hobbes.nmsu.edu will be decommissioned and will no longer be available. You the user are responsible for downloading any of the files found in this archive if you want them. These files will no longer be available for access or download as of the decommission date. As of April 15th, 2024 this site will no longer exist. No one will be able to access this site or any information/files stored on this site as of April 15th, 2024. I don&#8217;t even know how old Hobbes is, but I feel like it&#8217;s been around for decades. Seeing it being shut down is incredibly sad to read, but also a sign of the times for whatever&#8217;s left of the OS/2 community. Two of the four listed mirrors seem to be up, namely SunSITE Poland and Infania Networks in Sweden. We&#8217;ll see how long those last, but my advice to anyone interested in OS/2 &#8211; download the Hobbes archive and store it locally.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138249/hobbes-os-2-archive-to-shut-down-in-three-months/">https://www.osnews.com/story/138249/hobbes-os-2-archive-to-shut-down-in-three-months/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138249/hobbes-os-2-archive-to-shut-down-in-three-months/">Save to Pocket</a>
+</span>
+
+---
+
+## The Lenovo ThinkBook Plus Gen 5 Hybrid combines a Windows 11 PC with an Android tablet
+
+date: 2024-01-10, from: OS News
+
+Confirming a previous leak, Lenovo officially announced the ThinkBook Plus Gen 5 Hybrid during its CES 2024 product reveals. It combines a Windows 11 notebook with a 14-inch OLED 2.8K touchscreen display that can detach from the keyboard and be used as an stand-alone Android 13 tablet. ↫ John Callaham I&#8217;m not even sure why I&#8217;m posting this, other than that it perfectly illustrates the problems Windows on one side, and Android on the other, face in providing the full device spectrum to users. Windows only really works on desktops and laptops, while Android only really works on smartphones and tablet. As such, Frankenstein devices like these have to be made to cover the entire spectrum. I kind of want one.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138247/the-lenovo-thinkbook-plus-gen-5-hybrid-combines-a-windows-11-pc-with-an-android-tablet/">https://www.osnews.com/story/138247/the-lenovo-thinkbook-plus-gen-5-hybrid-combines-a-windows-11-pc-with-an-android-tablet/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138247/the-lenovo-thinkbook-plus-gen-5-hybrid-combines-a-windows-11-pc-with-an-android-tablet/">Save to Pocket</a>
+</span>
+
+---
+
+## What’s coming to Android in 2024
+
+date: 2024-01-10, from: OS News
+
+It&#8217;s CES, and Google has made a number of disparate, small announcements about upcoming Android features. 9To5Google has collected them all, and it seems there&#8217;s not many things of interest here, nor are there any big changes or improvements. The only thing that stands out to me is that easy Bluetooth device pairing is coming to more scenarios. First announced at CES 2022, Fast Pair support is rolling out to the Chromecast with Google TV “in the next month.” This seamless Bluetooth pairing with an onscreen “Connect now” prompt for headphones is coming to “more Google TV devices later this year.” ↫ Abner Li for 9To5Google Bluetooth pairing is an unpleasant experience, so seeing fast pairing become more popular is good news.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138244/whats-coming-to-android-in-2024/">https://www.osnews.com/story/138244/whats-coming-to-android-in-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138244/whats-coming-to-android-in-2024/">Save to Pocket</a>
+</span>
+
+---
+
+##  In order for the 2024 indie web revival to work: &#8220;We need... 
+
+date: 2024-01-09, updated: 2024-01-09, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043752-in-order-for-the-2024">https://kottke.org/24/01/0043752-in-order-for-the-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043752-in-order-for-the-2024">Save to Pocket</a>
+</span>
+
+---
+
+##  Robotic &#8220;moving sidewalk&#8221; shoes — what could possibly go wrong? Like an... 
+
+date: 2024-01-09, updated: 2024-01-09, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043751-robotic-moving-sidewalk-s">https://kottke.org/24/01/0043751-robotic-moving-sidewalk-s</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043751-robotic-moving-sidewalk-s">Save to Pocket</a>
+</span>
+
+---
+
+## 10 Years Ago: The First Operational Cygnus Cargo Mission to the Space Station
+
+date: 2024-01-09, from: NASA breaking news
+
+To replace the cargo and crew transportation services to and from the International Space Station following the retirement of the space shuttle in 2011, the United States developed a novel approach to procure those services from American commercial entities. On Jan. 9, 2014, Orbital Sciences Corporation, one of two companies selected initially to provide cargo [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/history/10-years-ago-the-first-operational-cygnus-cargo-mission-to-the-space-station/">https://www.nasa.gov/history/10-years-ago-the-first-operational-cygnus-cargo-mission-to-the-space-station/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/history/10-years-ago-the-first-operational-cygnus-cargo-mission-to-the-space-station/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -359,7 +621,7 @@ date: 2024-01-09, from: Tilde.news
 
 **@Dave Winer's Scripting News** (date: 2024-01-09, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2023/04/24/cheshireCat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Twitter became a <a href="https://en.wikipedia.org/wiki/Hairball">hairball</a>. I first heard this term in speeches given by a tech exec, <a href="https://en.wikipedia.org/wiki/Scott_McNealy">Scott McNealy</a>, talking about a competitor's product. A hairball is something a cat coughs up. Very undesirable. Of course, given enough time all software becomes a hairball. As you refine your understanding of how the product is being used, versus how you thought it would be used, all the new paths through the code and UI become more crooked and impenetrable by a human mind, because you still have to do all the things you did before, unless you start over. There often is value in starting over. Now is a good time to be thinking about bare-bones social web apps. People are open to new ideas. I miss the role Twitter used to play, I imagine other people do too.
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/04/24/cheshireCat.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Twitter became a <a href="https://en.wikipedia.org/wiki/Hairball">hairball</a>. I first heard this term in speeches given by a tech exec, <a href="https://en.wikipedia.org/wiki/Scott_McNealy">Scott McNealy</a>, talking about a competitor's product. A hairball is something a cat coughs up. Very undesirable. Of course, given enough time all software becomes a hairball. As you refine your understanding of how the product is being used, versus how you thought it would be used, all the new paths through the code and UI become more crooked and impenetrable by a human mind, because you still have to do all the things you did before, unless you start over. There often is value in starting over. Now is a good time to be thinking about bare-bones social web apps. People are open to new ideas.
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2024/01/09.html#a145833">http://scripting.com/2024/01/09.html#a145833</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/09.html#a145833">Save to Pocket</a>

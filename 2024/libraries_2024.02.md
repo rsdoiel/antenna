@@ -1,11 +1,37 @@
 ---
 title: libraries 2024.02
-updated: 2024-01-09 14:46:04
+updated: 2024-01-10 08:42:52
 ---
 
 # libraries 2024.02
 
-(date: 2024-01-09 14:46:04)
+(date: 2024-01-10 08:42:52)
+
+---
+
+## Guest Post — Study Questions Whether Research Institutions Are the Appropriate Entity to Investigate Authorship Disputes in All Cases
+
+date: 2024-01-10, from: Scholarly Kitchen
+
+<p>Should the authors' institution make decisions regarding authorship disputes on a paper?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/01/10/guest-post-study-questions-whether-research-institutions-are-the-appropriate-entity-to-investigate-authorship-disputes-in-all-cases/">Guest Post &#8212; Study Questions Whether Research Institutions Are the Appropriate Entity to Investigate Authorship Disputes in All Cases</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/01/10/guest-post-study-questions-whether-research-institutions-are-the-appropriate-entity-to-investigate-authorship-disputes-in-all-cases/">https://scholarlykitchen.sspnet.org/2024/01/10/guest-post-study-questions-whether-research-institutions-are-the-appropriate-entity-to-investigate-authorship-disputes-in-all-cases/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/01/10/guest-post-study-questions-whether-research-institutions-are-the-appropriate-entity-to-investigate-authorship-disputes-in-all-cases/">Save to Pocket</a>
+</span>
+
+---
+
+## Dexterous helical magnetic robot for improved endovascular access
+
+date: 2024-01-10, from: ETH Zurich, recently added
+
+Dreyfus, Roland
+
+<span class="feed-item-link">
+<a href="http://hdl.handle.net/20.500.11850/651465">http://hdl.handle.net/20.500.11850/651465</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/651465">Save to Pocket</a>
+</span>
 
 ---
 
