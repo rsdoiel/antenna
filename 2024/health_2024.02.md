@@ -1,11 +1,83 @@
 ---
 title: health 2024.02
-updated: 2024-01-11 14:45:08
+updated: 2024-01-12 08:01:59
 ---
 
 # health 2024.02
 
-(date: 2024-01-11 14:45:08)
+(date: 2024-01-12 08:01:59)
+
+---
+
+## Tackling strong biofilm and multi-virulent vancomycin-resistant Staphylococcus aureus via natural alkaloid-based porous nanoparticles: perspective towards near future eradication
+
+date: 2024-01-12, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>As a growing direction, nano-based therapy has become a successful paradigm used to address the phytogenic delivery-related problems in overcoming multivirulent vancomycin-resistant <italic>Staphylococcus aureus</italic> (VRSA) infection.</p></sec><sec><title>Methods</title><p>Hence, our aim was to develop and assess a novel nanocarrier system (mesoporous silica nanoparticles, MPS-NPs) for free berberine (Free-BR) as an antimicrobial alkaloid against strong biofilm-producing and multi-virulent VRSA strains using <italic>in vitro</italic> and <italic>in vivo</italic> mouse model.</p></sec><sec><title>Results and discussion</title><p>Our outcomes demonstrated vancomycin resistance in 13.7% of <italic>Staphylococcus aureus</italic> (<italic>S. aureus</italic>) strains categorized as VRSA. Notably, strong biofilm formation was observed in 69.2% of VRSA strains that were all positive for <italic>icaA</italic> gene. All strong biofilm-producing VRSA strains harbored a minimum of two virulence genes comprising <italic>clfA</italic> and <italic>icaA</italic> with 44.4% of them possessing all five virulence genes (<italic>icaA</italic>, <italic>tst</italic>, <italic>clfA</italic>, <italic>hla</italic>, and <italic>pvl</italic>), and 88.9% being multi-virulent. The study findings affirmed excellent <italic>in vitro</italic> antimicrobial and antibiofilm properties of BR-loaded MPS-NPs. Real-time quantitative reverse transcription PCR (qRT-PCR) assay displayed the downregulating role of BR-loaded MPS-NPs on strong biofilm-producing and multi-virulent VRSA strains virulence and <italic>agr</italic> genes in both <italic>in vitro</italic> and <italic>in vivo</italic> mice models. Additionally, BR-loaded MPS-NPs supplementation has a promising role in attenuating the upregulated expression of pro-inflammatory cytokines’ genes in VRSA-infected mice with attenuation in pro-apoptotic genes expression resulting in reduced VRSA-induced apoptosis. In essence, the current study recommends the future scope of using BR-loaded MPS-NPs as auspicious alternatives for antimicrobials with tremendous antimicrobial, antibiofilm, anti-quorum sensing (QS), and anti-virulence effectiveness against problematic strong biofilm-producing and multi-virulent VRSA-associated infections.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1287426">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1287426</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1287426">Save to Pocket</a>
+</span>
+
+---
+
+## Mucosal microbiome of surgically treated terminal ileal Crohn’s disease
+
+date: 2024-01-12, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Crohn’s disease (CD) is associated with changes in the microbiome. The role of these changes and their precise association with disease course and activity remain ambiguous. In this prospective single-center study, the mucosal microbiome of surgical CD and non-CD patients was compared at the time of surgery. Microbial analyses were individually performed for ileal and colonic tissue samples obtained during surgery using 16S-rRNA-gene amplicon sequencing. Three groups out of the 46 included patients were formed: 1) a study group of CD of patients who received ileocecal resection due to CD involvement (CD study, n=10); 2) a control group of non-CD of patients who received intestinal resection due to indications other than CD (non-CD control, n=27); and 3) a second control group of CD who underwent resection of the intestine not affected by CD (CD non-affected control, n=9). Species richness and Shannon diversity were not different between all formed groups and regions analyzed (p&gt;0.05). Several significant taxonomic differences were seen at the phylum-, order-, and genus-levels between the formed groups, such as a decrease of <italic>Firmicutes</italic> (phylum-level) and an increase of <italic>Bacteroides</italic> and <italic>Escherichia/Shigella/Pseudescherichia</italic> (genus-level) in CD study – colon vs. the non-CD control – colon (p ≤ 0.05). The CD non-affected control presented the largest amount of differentially abundant taxa in comparison to the other groups. These results underline that CD is accompanied by changes in affected and non-affected intestinal regions compared to non-CD controls. This study contributes the mucosal microbiome of a well-defined subset of surgical CD patients without confounding aspects of the fecal microbiome or regional microbial differences to the existing literature.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1324668">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1324668</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1324668">Save to Pocket</a>
+</span>
+
+---
+
+## Dissecting EXP2 sequence requirements for protein export in malaria parasites
+
+date: 2024-01-12, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Apicomplexan parasites that reside within a parasitophorous vacuole harbor a conserved pore-forming protein that enables small-molecule transfer across the parasitophorous vacuole membrane (PVM). In <italic>Plasmodium</italic> parasites that cause malaria, this nutrient pore is formed by EXP2 which can complement the function of GRA17, an orthologous protein in <italic>Toxoplasma gondii.</italic> EXP2, however, has an additional function in <italic>Plasmodium</italic> parasites, serving also as the pore-forming component of the protein export machinery PTEX. To examine how EXP2 can play this additional role, transgenes that encoded truncations of EXP2, GRA17, hybrid GRA17-EXP2, or EXP2 under the transcriptional control of different promoters were expressed in EXP2 knockdown parasites to determine which could complement EXP2 function. This revealed that EXP2 is a unique pore-forming protein, and its protein export role in <italic>P. falciparum</italic> cannot be complemented by <italic>T. gondii</italic> GRA17. This was despite the addition of the EXP2 assembly strand and part of the linker helix to GRA17, which are regions necessary for the interaction of EXP2 with the other core PTEX components. This indicates that the body region of EXP2 plays a critical role in PTEX assembly and/or that the absence of other <italic>T. gondii</italic> GRA proteins in <italic>P. falciparum</italic> leads to its reduced efficiency of insertion into the PVM and complementation potential. Altering the timing and abundance of EXP2 expression did not affect protein export but affected parasite viability, indicating that the unique transcriptional profile of EXP2 when compared to other PTEX components enables it to serve an additional role in nutrient exchange.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1332146">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1332146</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1332146">Save to Pocket</a>
+</span>
+
+---
+
+## Characteristics of the gut microbiota of patients with symptomatic carotid atherosclerotic plaques positive for bacterial genetic material
+
+date: 2024-01-12, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>The gut microbiota (GM) is believed to be closely associated with symptomatic carotid atherosclerosis (SCAS), yet more evidence is needed to substantiate the significant role of GM in SCAS. This study, based on the detection of bacterial DNA in carotid plaques, explores the characteristics of GM in SCAS patients with plaque bacterial genetic material positivity, aiming to provide a reference for subsequent research.</p></sec><sec><title>Methods</title><p>We enrolled 27 healthy individuals (NHF group) and 23 SCAS patients (PFBS group). We utilized 16S rDNA V3-V4 region gene sequencing to analyze the microbiota in fecal samples from both groups, as well as in plaque samples from the carotid bifurcation extending to the origin of the internal carotid artery in all patients.</p></sec><sec><title>Results</title><p>Our results indicate significant differences in the gut microbiota (GM) between SCAS patients and healthy individuals. The detection rate of bacterial DNA in plaque samples was approximately 26%. Compared to patients with negative plaques (PRSOPWNP group), those with positive plaques (PRSOPWPP group) exhibited significant alterations in their GM, particularly an upregulation of 11 bacterial genera (such as Klebsiella and Streptococcus) in the gut, which were also present in the plaques. In terms of microbial gene function prediction, pathways such as Fluorobenzoate degradation were significantly upregulated in the GM of patients with positive plaques.</p></sec><sec><title>Conclusion</title><p>In summary, our study is the first to identify significant alterations in the gut microbiota of patients with positive plaques, providing crucial microbial evidence for further exploration of the pathogenesis of SCAS.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1296554">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1296554</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1296554">Save to Pocket</a>
+</span>
+
+---
+
+## Comparative genomic analysis of antibiotic resistance and virulence genes in Staphylococcus aureus isolates from patients and retail meat
+
+date: 2024-01-12, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p><italic>Staphylococcus aureus</italic> is a significant human pathogen that poses a threat to public health due to its association with foodborne contamination and a variety of infections. The factors contributing to the pathogenicity of <italic>S. aureus</italic> include virulence, drug resistance, and toxin production, making it essential to monitor their prevalence and genetic profiles. This study investigated and compared the genomic characteristics of <italic>S. aureus</italic> isolates from retail meat and patients in Saudi Arabia.</p></sec><sec><title>Methods</title><p>A total of 136 <italic>S. aureus</italic> isolates were obtained between October 2021 and June 2022:84 from patients and 53 from meat samples in Riyadh, Saudi Arabia. <italic>S. aureus</italic> isolates were identified using conventional methods and MALDI-TOF MS, and methicillin-resistant <italic>S. aureus</italic> (MRSA) was identified using VITEK2 and BD Phoenix systems. MRSA was confirmed phenotypically using chromogenic agar, and genotypically by detecting <italic>mec</italic>A. Genomic data were analyzed using BactopiaV2 pipeline, local BLAST, and MLST databases.</p></sec><sec><title>Results</title><p>Antibiotic resistance genes were prevalent in both meat and patient <italic>S. aureus</italic> isolates, with high prevalence of <italic>tet</italic>38, <italic>bla</italic>Z, and <italic>fos</italic>B. Notably, all <italic>S. aureus</italic> isolates from patients carried multidrug-resistant (MDR) genes, and a high percentage of <italic>S. aureus</italic> isolates from meat also harbored MDR genes. Phenotypically, 43% of the <italic>S. aureus</italic> isolates from meat and 100% of the patients’ isolates were MDR. Enterotoxin genes, including <italic>sel</italic>X, <italic>sem</italic>, and <italic>sei</italic>, exhibited high compatibility between meat and patient <italic>S. aureus</italic> isolates. Virulence genes such as <italic>cap, hly/hla, sbi</italic>, and <italic>isd</italic> were found in all <italic>S. aureus</italic> isolates from both sources.</p></sec><sec><title>Conclusion</title><p>Our study established a genetic connection between <italic>S. aureus</italic> isolates from meat and patients, showing shared antibiotic resistance and virulence genes. The presence of these genes in meat derived isolates underscores its role as a reservoir. Genomic relatedness also suggests potential transmission of resistance between different settings. These findings emphasize the necessity for a comprehensive approach to monitor and control <italic>S. aureus</italic> infections in both animals and humans.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1339339">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1339339</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1339339">Save to Pocket</a>
+</span>
+
+---
+
+## Functional characterization of Plasmodium vivax hexose transporter 1
+
+date: 2024-01-12, from: Frontiers in Cellular and Infection Microbiology
+
+<p><italic>Plasmodium vivax</italic> is the most widely distributed human malaria parasite. The eradication of vivax malaria remains challenging due to transmission of drug-resistant parasite and dormant liver form. Consequently, anti-malarial drugs with novel mechanisms of action are urgently demanded. Glucose uptake blocking strategy is suggested as a novel mode of action that leads to selective starvation in various species of malaria parasites. The role of hexose transporter 1 in <italic>Plasmodium</italic> species is glucose uptake, and its blocking strategies proved to successfully induce selective starvation. However, there is limited information on the glucose uptake properties via <italic>P. vivax</italic> hexose transporter 1 (PvHT1). Thus, we focused on the PvHT1 to precisely identify its properties of glucose uptake. The PvHT1 North Korean strain (PvHT1<sub>NK</sub>) expressed <italic>Xenopus laevis</italic> oocytes mediating the transport of [<sup>3</sup>H] deoxy-D-glucose (ddGlu) in an expression and incubation time-dependent manner without sodium dependency. Moreover, the PvHT1<sub>NK</sub> showed no exchange mode of glucose in efflux experiments and concentration-dependent results showed saturable kinetics following the Michaelis-Menten equation. Non-linear regression analysis revealed a Km value of 294.1 μM and a Vmax value of 1,060 pmol/oocyte/hr, and inhibition experiments showed a strong inhibitory effect by glucose, mannose, and ddGlu. Additionally, weak inhibition was observed with fructose and galactose. Comparison of amino acid sequence and tertiary structure between <italic>P. falciparum</italic> and <italic>P. vivax</italic> HT1 revealed a completely conserved residue in glucose binding pocket. This result supported that the glucose uptake properties are similar to <italic>P. falciparum</italic>, and PfHT1 inhibitor (compound 3361) works in <italic>P. vivax</italic>. These findings provide properties of glucose uptake via PvHT1<sub>NK</sub> for carbohydrate metabolism and support the approaches to vivax malaria drug development strategy targeting the PvHT1 for starving of the parasite.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1321240">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1321240</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1321240">Save to Pocket</a>
+</span>
 
 ---
 

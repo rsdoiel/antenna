@@ -1,11 +1,211 @@
 ---
 title: parks 2024.02
-updated: 2024-01-11 14:45:08
+updated: 2024-01-12 08:01:59
 ---
 
 # parks 2024.02
 
-(date: 2024-01-11 14:45:08)
+(date: 2024-01-12 08:01:59)
+
+---
+
+## BLM leaders reflect on agency goals as they walk in Dr. King’s footsteps
+
+date: 2024-01-11, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>BLM leaders reflect on agency goals as they walk in Dr. King’s footsteps </h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-center"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="3d7bc74e-1529-4dba-91ed-8621c4ada47f" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/thumbnail_Selma%20Staff%20Ride_National%20Archives%204_0.jpg?itok=dBmQzMWb" width="640" height="501" alt="The photo shows Dr. Martin Luther King, Jr. and others walking down a street as part of the Voting Rights March." typeof="foaf:Image" /></div>
+      
+</div>
+</div>
+<figcaption>Dr. Martin Luther King, Jr. leads the Voting Rights March from Selma to Montgomery, Alabama in March 1965. Photo credit: National Archives.</figcaption></figure><p paraeid="{19ceb0a7-135d-4146-a80b-be74af4f59a4}{212}" paraid="4667053">As the nation commemorates <a href="https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/post-war-united-states-1945-1968/martin-luther-king/" rel="noreferrer noopener" target="_blank">Dr. Martin Luther King, Jr.</a>’s Birthday, senior leaders from the Bureau of Land Management are considering how the agency can apply lessons learned from Dr. King’s leadership of the <a href="https://www.loc.gov/classroom-materials/united-states-history-primary-source-timeline/post-war-united-states-1945-1968/civil-rights-movement/" rel="noreferrer noopener" target="_blank">American Civil Rights Movement</a> to help create a workplace culture that is diverse, equitable, inclusive, and accessible. An improved workplace will benefit not only employees, but also the public we serve. </p>
+
+<p paraeid="{c4964ee2-baca-4f6d-88f3-642a6544756d}{11}" paraid="1286199236">Senior field and headquarters leaders responsible for daily operations of the agency participated in a “Staff Ride” of key sites associated with the <a href="https://www.archives.gov/research/african-americans/vote/selma-marches" rel="noreferrer noopener" target="_blank">Voting Rights March</a> that Dr. King led in Alabama at the age of 36 in March 1965. A Staff Ride studies an important event from history that typically includes visits to associated sites and an opportunity to consider lessons learned. </p>
+
+<figure role="group" class="align-center"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="360b8d55-8ecb-4607-a0ed-ebaccbfc2b1a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/MLK_SelmaStaffRide_ALCapitol_20204.jpg?itok=bZ24BUTL" width="640" height="480" alt="The picture shows individuals in front of the Alabama State Capitol." typeof="foaf:Image" /></div>
+      
+</div>
+</div>
+<figcaption>BLM Field Committee members visited the Alabama State Capitol in Montgomery, where Dr. Martin Luther King, Jr., delivered his “Our God Is Marching On” speech at the end of the Voting Rights March in 1965. Photo credit: OMNA International.</figcaption></figure><p paraeid="{c4964ee2-baca-4f6d-88f3-642a6544756d}{62}" paraid="623380295">The Voting Rights March was a watershed moment in the Civil Rights Movement. It led directly to passage of the <a href="https://www.archives.gov/milestone-documents/voting-rights-act" rel="noreferrer noopener" target="_blank">Voting Rights Act</a>, which outlawed discriminatory voting practices adopted in many southern states after the <a href="https://www.loc.gov/exhibits/civil-war-in-america/april-1861-april-1862.html" rel="noreferrer noopener" target="_blank">Civil War</a>. During the march, approximately 300 people walked more than 50 miles from Selma to Montgomery to protest these practices. As many as 25,000 participated in the final leg, which ended at the State Capitol where Dr. King delivered his “<a href="https://www.youtube.com/watch?v=vB9dbNis9-s" rel="noreferrer noopener" target="_blank">Our God Is Marching On</a>” speech.  </p>
+
+<p paraeid="{c4964ee2-baca-4f6d-88f3-642a6544756d}{147}" paraid="1880723001">During a visit to sites in Alabama associated with the Voting Rights March, participants reflected on Dr. King’s great quote that “the arc of the moral universe is long, but it bends toward justice.” The group pondered how the Bureau is putting that quote into action today and where we can continue to improve as an agency. </p>
+
+<figure role="group" class="align-center"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="ac4a7310-256d-4577-bbd4-4fdab535bcc5" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/MLK_SelmaStaffRide__Bridge_2024.jpg?itok=RroSlSNe" width="398" height="530" alt="Employees walking on a sidewalk to cross the Edmund Pettus Bridge." typeof="foaf:Image" /></div>
+      
+</div>
+</div>
+<figcaption>BLM Field Committee members walked across the Edmund Pettus Bridge, where Alabama State Troopers attacked marchers in 1965. Photo credit: Beth Rands.</figcaption></figure><p paraeid="{c506e549-8416-4776-9bf2-e6216d43719d}{77}" paraid="1502743751">Michael Nedd, BLM’s Deputy Director for Operations, says Dr. King’s legacy continues to make him the nation’s most impactful civil rights leader. Dr. King exhibited great moral courage and leadership that led to profound changes that strengthened civil rights for African Americans. </p>
+
+<p paraeid="{c506e549-8416-4776-9bf2-e6216d43719d}{85}" paraid="1944367187">“Having an opportunity to participate in the Selma Staff Ride is a stark reminder that we, the leaders of the nation’s largest land management agency, can take necessary steps to make public lands better for all,” Nedd said. “It will take moral courage and leadership to build a workforce, culture, and environment that fully reflects the values and faces of this nation.” </p>
+
+<p paraeid="{c4964ee2-baca-4f6d-88f3-642a6544756d}{171}" paraid="1333598181">Special Agent Dylan Ragan, Deputy Director of BLM’s <a href="https://www.blm.gov/office/law-enforcement-headquarters" rel="noreferrer noopener" target="_blank">Office of Law Enforcement and Security</a>, had an “aha moment.” Ragan, who grew up in the South, says he felt “…confronted by the undeniable role that law enforcement played in supporting and maintaining an unequal, unjust, and racist system.” This led to reflection on the origins of the law enforcement culture he developed in, which was based on lessons passed down in training from one generation of Southern law enforcement officers to the next. </p>
+
+<p paraeid="{c4964ee2-baca-4f6d-88f3-642a6544756d}{220}" paraid="1731524875">“I ask my peers to recognize that events from the 1950s and 1960s may still impact us today and that they shape how many Americans continue to view us,” said Ragan.  </p>
+
+<figure role="group" class="align-center"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="1cbcf331-547b-429f-b149-91d8b7c02bd9" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/MLK_Selma%20Staff%20Ride_National%20Archives%205.jpg?itok=4YcS0hx_" width="450" height="302" alt="National Archives photo of people listening to a speaker during the Civil Rights March, 1965" typeof="foaf:Image" /></div>
+      
+</div>
+</div>
+<figcaption>President Lyndon B. Johnson signs the Voting Rights Act of 1965 as Dr. Martin Luther King, Jr. and other Civil Rights leaders look on. Photo credit: National Archives.</figcaption></figure><p paraeid="{c4964ee2-baca-4f6d-88f3-642a6544756d}{230}" paraid="2122065438">The themes of the Staff Ride were “Moral Courage” and “Leading Change.” Meagan Conry, Deputy Assistant Director of <a href="https://www.blm.gov/programs/fire" rel="noreferrer noopener" target="_blank">BLM Fire and Aviation</a>, suggested the BLM leaders participate in the Staff Ride after learning of it from colleagues. It had a profound impact on her and others.  </p>
+
+<p paraeid="{bc30296b-dd8c-49ad-ae91-e1b1ea56d250}{16}" paraid="1484342355">“The Voting Rights March and other Civil Rights movement events weren’t that long ago. Our society is still dealing with those issues as some people continue to try to deny American citizens their voice,” said Conry. “Having the moral courage to speak truth, stand up for what is right, and advance appropriately is critically important in BLM’s efforts to diversify our workforce and expand opportunities for the underrepresented.”   </p>
+
+<p paraeid="{bc30296b-dd8c-49ad-ae91-e1b1ea56d250}{46}" paraid="98036254">The Staff Ride included visits to key sites associated with the march, including the Dallas County Courthouse in Selma, where the voter registration office was located; the Edmund Pettus Bridge where Alabama State Troopers attacked marchers, with at least 100 injured and 17 hospitalized; and the Alabama State Capitol. Field Committee members also visited the <a href="https://ahc.alabama.gov/properties/freedomrides/freedomrides.aspx" rel="noreferrer noopener" target="_blank">Freedom Rides Museum</a>, the <a href="https://www.troy.edu/student-life-resources/arts-culture/rosa-parks-museum/index.html" rel="noreferrer noopener" target="_blank">Rosa Parks Museum</a>, and the <a href="https://legacysites.eji.org/about/memorial/" rel="noreferrer noopener" target="_blank">National Memorial for Peace and Justice</a>.</p>
+
+<figure role="group" class="align-center"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="56990ac1-c4be-4ae4-83eb-834a43fd1443" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/MLK_SelmaStaffRide_Sign_2024.jpg?itok=cXoKu-qg" width="424" height="530" alt="Individuals standing near a sign that reads “In memory of The Reverend James J. Reeb, American Unitarian Universalist Minister."" typeof="foaf:Image" /></div>
+      
+</div>
+</div>
+<figcaption>BLM Field Committee members visited the site where a participant in the 1965 Voting Rights March was murdered by several Selma residents. Photo credit: OMNA International.</figcaption></figure><p paraeid="{bc30296b-dd8c-49ad-ae91-e1b1ea56d250}{97}" paraid="525048458">BLM leaders reflected on questions such as how to influence change from where you are, the role moral courage plays in personal and organizational leadership, and what ongoing systems contribute to progress or lack thereof. </p>
+
+<p paraeid="{bc30296b-dd8c-49ad-ae91-e1b1ea56d250}{139}" paraid="1215746307">La Shon Cole, Director of BLM’s <a href="https://www.blm.gov/info/office-of-civil-rights" rel="noreferrer noopener" target="_blank">Office of Civil Rights</a>, believes that learning about the Voting Rights March and other Civil Rights Movement events provides context and perspective that is necessary for change.  </p>
+
+<p paraeid="{bc30296b-dd8c-49ad-ae91-e1b1ea56d250}{178}" paraid="871247648">“Many people don’t have a lot of knowledge about the long history of government sanctioned slavery, segregation, and discrimination or a thorough understanding of the nexus to underrepresentation of African Americans, and other groups, in our workforce and customer base today,” said Cole. </p>
+
+<p paraeid="{ac018210-050b-409c-a520-fd27cc38efe5}{163}" paraid="1324095686">Learn more about <a href="https://www.nps.gov/semo/index.htm" rel="noreferrer noopener" target="_blank">The National Historic Trail from Selma to Montgomery, Alabama,</a> from our Department of Interior colleagues at the National Park Service. </p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-01-11T12:00:00Z">Thu, 01/11/2024 - 12:00 pm UTC</time></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46442/edit" hreflang="en">MLK Selma Staff Ride 2024</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/office-civil-rights" hreflang="en">Office of Civil Rights</a></div>
+              <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46442/edit" hreflang="en">MLK Selma Staff Ride 2024</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-01-11/blm-leaders-reflect-agency-goals-they-walk-dr-kings-footsteps">https://www.blm.gov/blog/2024-01-11/blm-leaders-reflect-agency-goals-they-walk-dr-kings-footsteps</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-01-11/blm-leaders-reflect-agency-goals-they-walk-dr-kings-footsteps">Save to Pocket</a>
+</span>
 
 ---
 
@@ -301,7 +501,7 @@ collections. Photo by Kelly Savage</figcaption></figure><p>The seed is only one 
                     <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
               <div><a href="https://www.blm.gov/tag/native-seed" hreflang="en">Native Seed</a></div>
               <div><a href="https://www.blm.gov/tag/partnerships" hreflang="en">Partnerships</a></div>
-              <div><a href="https://www.blm.gov/tag/seeds-success" hreflang="en">Seeds of Success</a></div>
+              <div><a href="https://www.blm.gov/tag/seeds-of-success" hreflang="en">Seeds of Success</a></div>
                     </div>
           </div>
   </div>

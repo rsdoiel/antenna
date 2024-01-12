@@ -1,17 +1,103 @@
 ---
 title: columns 2024.02
-updated: 2024-01-11 14:45:08
+updated: 2024-01-12 08:01:59
 ---
 
 # columns 2024.02
 
-(date: 2024-01-11 14:45:08)
+(date: 2024-01-12 08:01:59)
+
+---
+
+## On IoT Devices and Software Liability
+
+date: 2024-01-12, updated: 2024-01-05, from: Bruce Schneier blog
+
+<p>New law journal <a href="https://ejlt.org/index.php/ejlt/article/view/934/1078">article</a>:</p>
+<blockquote><p>Smart Device Manufacturer Liability and Redress for Third-Party Cyberattack Victims</p>
+<p><b>Abstract:</b> Smart devices are used to facilitate cyberattacks against both their users and third parties. While users are generally able to seek redress following a cyberattack via data protection legislation, there is no equivalent pathway available to third-party victims who suffer harm at the hands of a cyberattacker. Given how these cyberattacks are usually conducted by exploiting a publicly known and yet un-remediated bug in the smart device&#8217;s code, this lacuna is unreasonable. This paper scrutinises recent judgments from both the Supreme Court of the United Kingdom and the Supreme Court of the Republic of Ireland to ascertain whether these rulings pave the way for third-party victims to pursue negligence claims against the manufacturers of smart devices. From this analysis, a narrow pathway, which outlines how given a limited set of circumstances, a duty of care can be established between the third-party victim and the manufacturer of the smart device is proposed...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/on-iot-devices-and-software-liability.html">https://www.schneier.com/blog/archives/2024/01/on-iot-devices-and-software-liability.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/on-iot-devices-and-software-liability.html">Save to Pocket</a>
+</span>
+
+---
+
+## How the oligarchy shrank America’s middle class (Why American capitalism is so rotten, Part 8)
+
+date: 2024-01-12, from: Robert Reich's blog
+
+I saw it happen.
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/the-declining-power-of-the-middle">https://robertreich.substack.com/p/the-declining-power-of-the-middle</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/the-declining-power-of-the-middle">Save to Pocket</a>
+</span>
+
+---
+
+## emails I received, the collection
+
+date: 2024-01-12, from: Daniel Stenberg Blog
+
+I have since at least 2009 posted occasional emails I received on this blog. Often they are emails from people who found my email address somewhere, thinking I am involved in the product or service where they found me. In cars, games, traces after breaches, apps and more. They range from plain weird to fun &#8230; <a href="https://daniel.haxx.se/blog/2024/01/12/emails-i-received-the-collection/" class="more-link">Continue reading <span class="screen-reader-text">emails I received, the collection</span> <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://daniel.haxx.se/blog/2024/01/12/emails-i-received-the-collection/">https://daniel.haxx.se/blog/2024/01/12/emails-i-received-the-collection/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daniel.haxx.se/blog/2024/01/12/emails-i-received-the-collection/">Save to Pocket</a>
+</span>
+
+---
+
+## Happy Birthday Matt
+
+date: 2024-01-12, from: Om Malik blog
+
+In San Fran's bay, where dreams take flight,Ma.tt's the name, shining oh so bright.Crafting internet fame, in the WordPress game.Jazz in his soul, coding's his art,Like a sax, soaring high and low,Crafting WordPress, with a soft, mellow flow.Ma.tt’s the maestro!Remote is his style, from café to shore,Global miles, open doors galore.In the web's grand play, &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/01/11/happy-birthday-matt-2/">https://om.co/2024/01/11/happy-birthday-matt-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/01/11/happy-birthday-matt-2/">Save to Pocket</a>
+</span>
+
+---
+
+## From the DF Archive: Are There Any Tetris Games for Mac?
+
+date: 2024-01-12, updated: 2024-01-12, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://daringfireball.net/linked/2018/03/28/tetris-mac">https://daringfireball.net/linked/2018/03/28/tetris-mac</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/linked/2018/03/28/tetris-mac">Save to Pocket</a>
+</span>
+
+---
+
+## Niklaus Wirth: ‘A Plea for Lean Software’
+
+date: 2024-01-12, updated: 2024-01-12, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://liam-on-linux.dreamwidth.org/88032.html">https://liam-on-linux.dreamwidth.org/88032.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://liam-on-linux.dreamwidth.org/88032.html">Save to Pocket</a>
+</span>
+
+---
+
+## Fruit Stripe Gum Discontinued
+
+date: 2024-01-11, updated: 2024-01-11, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.nytimes.com/2024/01/11/business/fruit-stripe-gum-discontinued.html">https://www.nytimes.com/2024/01/11/business/fruit-stripe-gum-discontinued.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nytimes.com/2024/01/11/business/fruit-stripe-gum-discontinued.html">Save to Pocket</a>
+</span>
 
 ---
 
 ## ‘Trump Has Taken Presidential Immunity to Its Illogical Extreme’
 
-date: 2024-01-11, updated: 2024-01-11, from: Daring Fireball
+date: 2024-01-11, updated: 2024-01-12, from: Daring Fireball
 
 
 
@@ -82,7 +168,7 @@ I love politics and I love this country, but I don&#8217;t love cold weather. To
 
 ---
 
-## What Trump’s lawyer was really advocating 
+## What Trump’s lawyer is really advocating 
 
 date: 2024-01-11, from: Robert Reich's blog
 

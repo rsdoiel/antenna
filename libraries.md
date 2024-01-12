@@ -1,11 +1,25 @@
 ---
 title: libraries 2024.02
-updated: 2024-01-11 14:45:08
+updated: 2024-01-12 08:01:59
 ---
 
 # libraries 2024.02
 
-(date: 2024-01-11 14:45:08)
+(date: 2024-01-12 08:01:59)
+
+---
+
+## When Contractions Don’t Work
+
+date: 2024-01-12, from: Scholarly Kitchen
+
+<p>Why do some contractions work and others don't?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/01/12/when-contractions-dont-work/">When Contractions Don&#8217;t Work</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/01/12/when-contractions-dont-work/">https://scholarlykitchen.sspnet.org/2024/01/12/when-contractions-dont-work/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/01/12/when-contractions-dont-work/">Save to Pocket</a>
+</span>
 
 ---
 

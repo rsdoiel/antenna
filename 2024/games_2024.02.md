@@ -1,11 +1,71 @@
 ---
 title: games 2024.02
-updated: 2024-01-11 14:45:08
+updated: 2024-01-12 08:01:59
 ---
 
 # games 2024.02
 
-(date: 2024-01-11 14:45:08)
+(date: 2024-01-12 08:01:59)
+
+---
+
+## A pair of beloved early-2000s RPGs is coming to Switch Online
+
+date: 2024-01-12, updated: 2024-01-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24035710/golden-sun-gba-nintendo-switch-online-release">https://www.polygon.com/24035710/golden-sun-gba-nintendo-switch-online-release</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24035710/golden-sun-gba-nintendo-switch-online-release">Save to Pocket</a>
+</span>
+
+---
+
+## Sand Land: The Series’ trailer teases a world of explosive action and devilish humor
+
+date: 2024-01-12, updated: 2024-01-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/1/12/24035801/sand-land-the-series-trailer-premiere-date-hulu">https://www.polygon.com/2024/1/12/24035801/sand-land-the-series-trailer-premiere-date-hulu</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/1/12/24035801/sand-land-the-series-trailer-premiere-date-hulu">Save to Pocket</a>
+</span>
+
+---
+
+## Here’s where you can pre-order Prince of Persia: The Lost Crown
+
+date: 2024-01-12, updated: 2024-01-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24034778/prince-of-persia-lost-crown-pre-order-buy-bonus-perks-early-access">https://www.polygon.com/deals/24034778/prince-of-persia-lost-crown-pre-order-buy-bonus-perks-early-access</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24034778/prince-of-persia-lost-crown-pre-order-buy-bonus-perks-early-access">Save to Pocket</a>
+</span>
+
+---
+
+## How to watch Killers of the Flower Moon in two (or more) parts
+
+date: 2024-01-12, updated: 2024-01-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24034190/killers-of-the-flower-moon-streaming-apple-tv-plus-break-points">https://www.polygon.com/24034190/killers-of-the-flower-moon-streaming-apple-tv-plus-break-points</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24034190/killers-of-the-flower-moon-streaming-apple-tv-plus-break-points">Save to Pocket</a>
+</span>
+
+---
+
+## All the Monarch: Legacy of Monsters season 2 news we’ve heard so far
+
+date: 2024-01-12, updated: 2024-01-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24033635/monarch-legacy-monsters-season-2-release-cast-news">https://www.polygon.com/24033635/monarch-legacy-monsters-season-2-release-cast-news</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24033635/monarch-legacy-monsters-season-2-release-cast-news">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,455 @@
 ---
 title: socal north 2024.02
-updated: 2024-01-11 14:45:08
+updated: 2024-01-12 08:01:59
 ---
 
 # socal north 2024.02
 
-(date: 2024-01-11 14:45:08)
+(date: 2024-01-12 08:01:59)
+
+---
+
+## What The Displacement Of A Storied Restaurant Means For Little Tokyo
+
+date: 2024-01-12, updated: 2024-01-12, from: The LAist
+
+The move of Suehiro Cafe to Downtown LA is yet another example of local businesses leaving the neighborhood, nibbling away at its cultural identity
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/what-the-displacement-of-a-storied-restaurant-means-for-little-tokyo">https://laist.com/news/what-the-displacement-of-a-storied-restaurant-means-for-little-tokyo</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/what-the-displacement-of-a-storied-restaurant-means-for-little-tokyo">Save to Pocket</a>
+</span>
+
+---
+
+## Iconic Pea Soup Andersen's Has Closed. Here Are Your Memories
+
+date: 2024-01-12, updated: 2024-01-12, from: The LAist
+
+We share memories from staff and others about visiting Pea Soup Andersen's in Buelton, which closed this week.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/iconic-pea-soup-andersens-has-closed-here-are-your-memories">https://laist.com/news/food/iconic-pea-soup-andersens-has-closed-here-are-your-memories</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/iconic-pea-soup-andersens-has-closed-here-are-your-memories">Save to Pocket</a>
+</span>
+
+---
+
+## I Ate 100 Iconic LA Sandwiches In 2023. Here’s What I Learned
+
+date: 2024-01-12, updated: 2024-01-12, from: The LAist
+
+From tortas to tuna melts, all sandwiches tell a unique story as they celebrate Los Angeles' diverse tapestry of flavors with each bite.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/i-ate-100-iconic-la-sandwiches-in-2023-heres-what-i-learned">https://laist.com/news/food/i-ate-100-iconic-la-sandwiches-in-2023-heres-what-i-learned</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/i-ate-100-iconic-la-sandwiches-in-2023-heres-what-i-learned">Save to Pocket</a>
+</span>
+
+---
+
+## 'Squeezed From All Sides': Why 2023 Shuttered So Many LA Eateries
+
+date: 2024-01-12, updated: 2024-01-12, from: The LAist
+
+Food and labor costs, pandemic pressures, and strike impacts slashed revenue for L.A. restaurants last year. Many of them closed shop.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/squeezed-from-all-sides-why-2023-shuttered-so-many-la-eateries">https://laist.com/news/food/squeezed-from-all-sides-why-2023-shuttered-so-many-la-eateries</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/squeezed-from-all-sides-why-2023-shuttered-so-many-la-eateries">Save to Pocket</a>
+</span>
+
+---
+
+## USC researchers look to clean up social media
+
+date: 2024-01-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Researchers are analyzing harmful online content to inform future moderation.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/12/usc-researchers-look-to-clean-up-social-media/">USC researchers look to clean up social media</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/12/usc-researchers-look-to-clean-up-social-media/">https://dailytrojan.com/2024/01/12/usc-researchers-look-to-clean-up-social-media/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/12/usc-researchers-look-to-clean-up-social-media/">Save to Pocket</a>
+</span>
+
+---
+
+## No more RSOs: University pausing acceptances until Fall semester
+
+date: 2024-01-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Some organizations say USC has not been transparent regarding registration.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/12/no-more-rsos-university-pausing-acceptances-until-fall-semester/">No more RSOs: University pausing acceptances until Fall semester</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/12/no-more-rsos-university-pausing-acceptances-until-fall-semester/">https://dailytrojan.com/2024/01/12/no-more-rsos-university-pausing-acceptances-until-fall-semester/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/12/no-more-rsos-university-pausing-acceptances-until-fall-semester/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: Plan for UCLA Research Park posits a future of innovative medical research
+
+date: 2024-01-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Westside Pavilion, the former indoor mall that faced an uncertain future, is set to undergo a transformation into the UCLA Research Park after being acquired by the UC Board of Regents for $700 million.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/12/editorial-plan-for-ucla-research-park-posits-a-future-of-innovative-medical-research/">https://dailybruin.com/2024/01/12/editorial-plan-for-ucla-research-park-posits-a-future-of-innovative-medical-research/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/12/editorial-plan-for-ucla-research-park-posits-a-future-of-innovative-medical-research/">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – January 12, 2024
+
+date: 2024-01-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/12/classifieds-january-12-2024/">Classifieds &#8211; January 12, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/12/classifieds-january-12-2024/">https://dailytrojan.com/2024/01/12/classifieds-january-12-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/12/classifieds-january-12-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## A case for believing
+
+date: 2024-01-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The practice of using celestial objects for predictions dates back to ancient Mesopotamia.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/12/a-case-for-believing/">A case for believing</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/12/a-case-for-believing/">https://dailytrojan.com/2024/01/12/a-case-for-believing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/12/a-case-for-believing/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s golf season back in full swing
+
+date: 2024-01-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans get early start  with sights set on a fourth national championship.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/12/womens-golf-season-back-in-full-swing/">Women’s golf season back in full swing</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/12/womens-golf-season-back-in-full-swing/">https://dailytrojan.com/2024/01/12/womens-golf-season-back-in-full-swing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/12/womens-golf-season-back-in-full-swing/">Save to Pocket</a>
+</span>
+
+---
+
+## A tribute to Pete Carroll’s timeless energy
+
+date: 2024-01-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The USC great’s Seahawks career may be ending, but his legacy is unforgettable.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/12/pete-carroll-tribute/">A tribute to Pete Carroll&#8217;s timeless energy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/12/pete-carroll-tribute/">https://dailytrojan.com/2024/01/12/pete-carroll-tribute/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/12/pete-carroll-tribute/">Save to Pocket</a>
+</span>
+
+---
+
+## TikTok should not be making you buy it
+
+date: 2024-01-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Social media's promotion of product overconsumption spells danger for the public.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/12/tiktok-should-not-be-making-you-buy-it/">TikTok should not be making you buy it</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/12/tiktok-should-not-be-making-you-buy-it/">https://dailytrojan.com/2024/01/12/tiktok-should-not-be-making-you-buy-it/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/12/tiktok-should-not-be-making-you-buy-it/">Save to Pocket</a>
+</span>
+
+---
+
+## We need to support non-Spanish speaking Latines
+
+date: 2024-01-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Dividing Latines based on their Spanish-speaking ability is counterproductive.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/12/we-need-to-support-non-spanish-speaking-latines/">We need to support non-Spanish speaking Latines</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/12/we-need-to-support-non-spanish-speaking-latines/">https://dailytrojan.com/2024/01/12/we-need-to-support-non-spanish-speaking-latines/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/12/we-need-to-support-non-spanish-speaking-latines/">Save to Pocket</a>
+</span>
+
+---
+
+## Senior A&E staff on the Emmys
+
+date: 2024-01-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The 75th Primetime Emmy Awards ceremony will be held Monday at the Peacock Theater in Los Angeles.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/12/senior-ae-staff-on-the-emmys/">Senior A&#038;E staff on the Emmys</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/12/senior-ae-staff-on-the-emmys/">https://dailytrojan.com/2024/01/12/senior-ae-staff-on-the-emmys/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/12/senior-ae-staff-on-the-emmys/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA community discusses recent efforts to regulate AI at state, federal levels
+
+date: 2024-01-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA community members discussed the future of artificial intelligence following federal and state government actions last year to regulate the use of the technology.
+In a federal executive order issued Oct.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/11/ucla-community-discusses-recent-efforts-to-regulate-ai-at-state-federal-levels/">https://dailybruin.com/2024/01/11/ucla-community-discusses-recent-efforts-to-regulate-ai-at-state-federal-levels/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/ucla-community-discusses-recent-efforts-to-regulate-ai-at-state-federal-levels/">Save to Pocket</a>
+</span>
+
+---
+
+## Through Bearospace, AISES students build rockets and engineering careers
+
+date: 2024-01-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Laura Gonzalez felt her heart sink as she waited for her team&#8217;s rocket to deploy a parachute during last year&#8217;s NASA First Nations Launch competition. 
+The parachute never appeared.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/11/through-bearospace-aises-students-build-rockets-and-engineering-careers/">https://dailybruin.com/2024/01/11/through-bearospace-aises-students-build-rockets-and-engineering-careers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/through-bearospace-aises-students-build-rockets-and-engineering-careers/">Save to Pocket</a>
+</span>
+
+---
+
+## Emmys 2024: Cinematographer Gary Baum earns 13th Emmy nomination for ‘How I Met Your Father’
+
+date: 2024-01-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Gary Baum is capturing more than just sitcom scenes &#8211; he is seizing Emmy nominations too.
+The alumnus and cinematographer received his 13th Emmy nomination this awards season, competing in the Outstanding Cinematography for a Series (Half-Hour) category for his work on &#8220;How I Met Your Father.&#8221; Baum, who graduated from UCLA in 1979, has had three Emmy wins thus far, with the most recent being last year for the &#8220;How I Met Your Father&#8221; pilot episode.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/11/emmys-2024-cinematographer-gary-baum-earns-13th-emmy-nomination-for-how-i-met-your-father/">https://dailybruin.com/2024/01/11/emmys-2024-cinematographer-gary-baum-earns-13th-emmy-nomination-for-how-i-met-your-father/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/emmys-2024-cinematographer-gary-baum-earns-13th-emmy-nomination-for-how-i-met-your-father/">Save to Pocket</a>
+</span>
+
+---
+
+## Emmys 2024: Alumnus Jerry Henry shares his experience working on ‘The 1619 Project’ docuseries
+
+date: 2024-01-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+With prime lenses and 16-millimeter film, Jerry Henry is reframing American history.
+The alumnus and cinematographer recently earned an Emmy nomination in the Outstanding Cinematography for a Nonfiction Program category for his work as director of photography on the Hulu docuseries &#8220;The 1619 Project.&#8221; Adapted from journalist Nikole Hannah-Jones&#8217; Pulitzer Prize-winning publication of the same name, the six episode-program explores how the legacy of slavery remains central to the United States&#8217; narrative today.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/11/emmys-2024-alumnus-jerry-henry-shares-his-experience-working-on-the-1619-project-docuseries/">https://dailybruin.com/2024/01/11/emmys-2024-alumnus-jerry-henry-shares-his-experience-working-on-the-1619-project-docuseries/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/emmys-2024-alumnus-jerry-henry-shares-his-experience-working-on-the-1619-project-docuseries/">Save to Pocket</a>
+</span>
+
+---
+
+## Emmy 2024: Daily Bruin casts predictions for winners of 75th Primetime Emmy Awards
+
+date: 2024-01-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+For its diamond anniversary, the Emmys are brimming with shining stars.
+On Monday night, the 75th annual Emmy Awards will once again applaud excellence across the television industry, live from Los Angeles&#8217; Peacock Theater.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/11/emmy-2024-daily-bruin-casts-predictions-for-winners-of-75th-primetime-emmy-awards/">https://dailybruin.com/2024/01/11/emmy-2024-daily-bruin-casts-predictions-for-winners-of-75th-primetime-emmy-awards/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/emmy-2024-daily-bruin-casts-predictions-for-winners-of-75th-primetime-emmy-awards/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s basketball crushed by Utah in second-worst loss of all time
+
+date: 2024-01-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 11 at 11:50 p.m.&#160;</em>
+One record in the history of UCLA and Utah matchups was broken Thursday night in Salt Lake City.&#160;
+The previous record for the Bruins’ biggest loss to the Utes was shattered by 14 points as Utah outscored UCLA 57-21 in the second half en route to a 46-point win.&#160;
+The loss proved the second worst in program history – two points short of tying for the largest margin of defeat.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/11/ucla-mens-basketball-crushed-by-utah-in-second-worst-loss-of-all-time/">https://dailybruin.com/2024/01/11/ucla-mens-basketball-crushed-by-utah-in-second-worst-loss-of-all-time/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/ucla-mens-basketball-crushed-by-utah-in-second-worst-loss-of-all-time/">Save to Pocket</a>
+</span>
+
+---
+
+## 10 Burning Questions with Olivia Palombo
+
+date: 2024-01-12, from: Laloyolan (LMU Student Newspaper)
+
+Incoming Loyolan editor-in-chief Olivia Palombo, junior journalism major, speaks about her time at the Loyolan, what she’s excited for this coming year and who she’d pick to headline next year’s Fallapalooza.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/campus_news/10-burning-questions-with-olivia-palombo/article_cfa19f65-6ec5-545a-98c3-253743ef9f93.html">https://www.laloyolan.com/news/campus_news/10-burning-questions-with-olivia-palombo/article_cfa19f65-6ec5-545a-98c3-253743ef9f93.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/campus_news/10-burning-questions-with-olivia-palombo/article_cfa19f65-6ec5-545a-98c3-253743ef9f93.html">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Fiercely smart’: Remembering Laila Panjawani
+
+date: 2024-01-12, from: Laloyolan (LMU Student Newspaper)
+
+Laila Panjawani, a business intelligence programmer at Information Technology Services (ITS), will be remembered by her colleagues as a warm, humorous and “fiercely smart” individual.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/fiercely-smart-remembering-laila-panjawani/article_70c3f2f5-6182-5670-aa13-5042fdd0c50f.html">https://www.laloyolan.com/news/fiercely-smart-remembering-laila-panjawani/article_70c3f2f5-6182-5670-aa13-5042fdd0c50f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/fiercely-smart-remembering-laila-panjawani/article_70c3f2f5-6182-5670-aa13-5042fdd0c50f.html">Save to Pocket</a>
+</span>
+
+---
+
+## LMU honors MLK’s legacy in upcoming interfaith ceremony
+
+date: 2024-01-12, from: Laloyolan (LMU Student Newspaper)
+
+A ceremony honoring MLK's life and legacy will be held in St. Robert's Auditorium on Jan. 16.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/campus_news/lmu-honors-mlk-s-legacy-in-upcoming-interfaith-ceremony/article_c42d1f74-33b3-5ad2-a48d-48f68ace015f.html">https://www.laloyolan.com/news/campus_news/lmu-honors-mlk-s-legacy-in-upcoming-interfaith-ceremony/article_c42d1f74-33b3-5ad2-a48d-48f68ace015f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/campus_news/lmu-honors-mlk-s-legacy-in-upcoming-interfaith-ceremony/article_c42d1f74-33b3-5ad2-a48d-48f68ace015f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Opinion: UCLA Housing must improve laundry facilities in new university apartments
+
+date: 2024-01-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 12 at 12:45 a.m.&#160;</em>
+In fall 2022, UCLA Housing opened up three new university apartment buildings near Westwood Village to provide an additional 2,300 beds for students.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/11/opinion-ucla-housing-must-improve-laundry-facilities-in-new-university-apartments/">https://dailybruin.com/2024/01/11/opinion-ucla-housing-must-improve-laundry-facilities-in-new-university-apartments/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/opinion-ucla-housing-must-improve-laundry-facilities-in-new-university-apartments/">Save to Pocket</a>
+</span>
+
+---
+
+## USAC Recap – Jan. 9
+
+date: 2024-01-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 11 at 10:43 p.m.</em>
+The Undergraduate Students Association Council held its first meeting of 2024 on Tuesday.
+USAC is the official student government representing the undergraduate student body at UCLA.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/11/usac-recap-jan-9/">https://dailybruin.com/2024/01/11/usac-recap-jan-9/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/usac-recap-jan-9/">Save to Pocket</a>
+</span>
+
+---
+
+## Massive Shortfall In Blood Donations Prompts Calls For SoCal To Step Up
+
+date: 2024-01-12, updated: 2024-01-12, from: The LAist
+
+The Red Cross says that the number of people donating blood has dropped by 40% over the last two decades
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/health/massive-shortfall-in-blood-donations-prompts-calls-for-socal-to-step-up">https://laist.com/news/health/massive-shortfall-in-blood-donations-prompts-calls-for-socal-to-step-up</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/health/massive-shortfall-in-blood-donations-prompts-calls-for-socal-to-step-up">Save to Pocket</a>
+</span>
+
+---
+
+## Taiwanese Americans Fly From SoCal To Help Pick Taiwan's Next President
+
+date: 2024-01-12, updated: 2024-01-12, from: The LAist
+
+A three-way race for Taiwan's presidency has lured thousands of Taiwanese Americans back to vote
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/taiwan-presidential-election-los-angeles-california-taiwanese-americans">https://laist.com/news/politics/taiwan-presidential-election-los-angeles-california-taiwanese-americans</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/taiwan-presidential-election-los-angeles-california-taiwanese-americans">Save to Pocket</a>
+</span>
+
+---
+
+## Former Sheriff Alex Villanueva Set To Testify About Deputy Gangs
+
+date: 2024-01-12, updated: 2024-01-12, from: The LAist
+
+After defying several subpoenas over the years, Villanueva is slated to speak under oath before the Sheriff Civilian Oversight Commission on Friday.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/former-sheriff-alex-villanueva-set-to-testify-about-deputy-gangs">https://laist.com/news/politics/former-sheriff-alex-villanueva-set-to-testify-about-deputy-gangs</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/former-sheriff-alex-villanueva-set-to-testify-about-deputy-gangs">Save to Pocket</a>
+</span>
+
+---
+
+## ‘I’m coming out a lot stronger’: Sara Ulias raises bar with return from ACL injury
+
+date: 2024-01-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 11 at 11:53 p.m.&#160;</em>
+Recovery from a torn ACL can take up to nine months.
+It can take up to six months to even start walking normally again.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/11/im-coming-out-a-lot-stronger-sara-ulias-raises-bar-with-return-from-acl-injury/">https://dailybruin.com/2024/01/11/im-coming-out-a-lot-stronger-sara-ulias-raises-bar-with-return-from-acl-injury/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/im-coming-out-a-lot-stronger-sara-ulias-raises-bar-with-return-from-acl-injury/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA swim and dive to host Bruin Diving Invitational, dual meet against Utah
+
+date: 2024-01-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 12 at 12:10 a.m.&#160;</em>
+The Bruins will be split this weekend.
+No. 25 UCLA swim and dive (4-1, 2-1 Pac-12) will be hosting two separate competitions over the weekend – the Bruin Diving Invitational Friday through Sunday and a dual meet against Utah (6-2, 0-2) on Saturday.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/11/ucla-swim-and-dive-to-host-bruin-diving-invitation-dual-meet-against-utah/">https://dailybruin.com/2024/01/11/ucla-swim-and-dive-to-host-bruin-diving-invitation-dual-meet-against-utah/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/ucla-swim-and-dive-to-host-bruin-diving-invitation-dual-meet-against-utah/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA gymnastics to take on top-ranked teams Oklahoma, Utah, LSU in quad meet
+
+date: 2024-01-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan.11 at 11:47 p.m.&#160;</em>
+Whether on the floor at Pauley Pavilion or a makeshift volleyball court during practice warmups, the Bruins embrace competition.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/11/ucla-gymnastics-to-take-on-top-ranked-teams-oklahoma-utah-lsu-in-quad-meet/">https://dailybruin.com/2024/01/11/ucla-gymnastics-to-take-on-top-ranked-teams-oklahoma-utah-lsu-in-quad-meet/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/ucla-gymnastics-to-take-on-top-ranked-teams-oklahoma-utah-lsu-in-quad-meet/">Save to Pocket</a>
+</span>
+
+---
+
+## 8 Officers Put On Leave After Alleged Misconduct At Los Padrinos Juvenile Hall
+
+date: 2024-01-11, updated: 2024-01-12, from: The LAist
+
+Commissioner on the civilian oversight body calls for more details to be released.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/criminal-justice/8-officers-put-on-leave-after-alleged-misconduct-at-los-padrinos-juvenile-hall">https://laist.com/news/criminal-justice/8-officers-put-on-leave-after-alleged-misconduct-at-los-padrinos-juvenile-hall</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/criminal-justice/8-officers-put-on-leave-after-alleged-misconduct-at-los-padrinos-juvenile-hall">Save to Pocket</a>
+</span>
+
+---
+
+## Let the Countdown Begin: Santa Clarita Cowboy Festival 100 Days Away
+
+date: 2024-01-11, from: City of Santa Clarita
+
+<p>LET THE COUNTDOWN BEGIN: SANTA CLARITA COWBOY FESTIVAL 100 DAYS AWAY The Hometown Favorite Event Returns to William S. Hart Park April 20-21 The City of Santa Clarita’s Cowboy Festival is set to return for its 28th year and is now 100 days away! The renowned event and resident favorite, which showcases the essence of [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/01/11/let-the-countdown-begin-santa-clarita-cowboy-festival-100-days-away/">Let the Countdown Begin: Santa Clarita Cowboy Festival 100 Days Away</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2024/01/11/let-the-countdown-begin-santa-clarita-cowboy-festival-100-days-away/">https://santaclarita.gov/blog/2024/01/11/let-the-countdown-begin-santa-clarita-cowboy-festival-100-days-away/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/01/11/let-the-countdown-begin-santa-clarita-cowboy-festival-100-days-away/">Save to Pocket</a>
+</span>
+
+---
+
+## LA County Landlords Dealing With COVID Losses Face Deadline To Apply For Rent Relief Funds
+
+date: 2024-01-11, updated: 2024-01-11, from: The LAist
+
+Friday is the last day for landlords to apply to the county’s $69-million rent relief program.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/los-angeles-county-rent-relief-program-application-deadline-landlord-tenant-covid-debt-how-to-apply-friday-january-12">https://laist.com/news/housing-homelessness/los-angeles-county-rent-relief-program-application-deadline-landlord-tenant-covid-debt-how-to-apply-friday-january-12</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/los-angeles-county-rent-relief-program-application-deadline-landlord-tenant-covid-debt-how-to-apply-friday-january-12">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,8 +457,9 @@ updated: 2024-01-11 14:45:08
 
 date: 2024-01-11, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 11 at 10:33 p.m.</em>
 The current interim chief of police John Thomas will serve as UCLA’s new chief of police.
-Thomas, a UCLA alumnus who graduated in 1984, has served as UCLA’s interim chief of police since December 2022.
+Thomas, who attended UCLA from 1980 to 1984, has served as UCLA’s interim chief of police since December 2022.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/11/john-thomas-named-as-uclas-new-chief-of-police/">https://dailybruin.com/2024/01/11/john-thomas-named-as-uclas-new-chief-of-police/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/john-thomas-named-as-uclas-new-chief-of-police/">Save to Pocket</a>
@@ -78,8 +523,9 @@ date: 2024-01-11, from: City of Santa Clarita
 
 date: 2024-01-11, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 12 at 12:02 a.m.&#160;</em>
 Anna Dodson handed the Bruin faithful a gift this past holiday season.
-The redshirt senior middle blocker announced Jan. 9 on Instagram her return for one more year with the Bruins, utilizing her final year of eligibility.
+The redshirt senior middle blocker announced Tuesday via Instagram her plan to return for one more year with the Bruins, utilizing her final year of eligibility.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/11/anna-dodson-audrey-pak-to-return-to-ucla-womens-volleyball-for-another-year/">https://dailybruin.com/2024/01/11/anna-dodson-audrey-pak-to-return-to-ucla-womens-volleyball-for-another-year/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/anna-dodson-audrey-pak-to-return-to-ucla-womens-volleyball-for-another-year/">Save to Pocket</a>
@@ -126,12 +572,12 @@ date: 2024-01-11, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## USC criticized for fossil fuel ties
+## Environmental Student Assembly calls on USC to cut ties with fossil fuel industry
 
 date: 2024-01-11, from: The Daily Trojan (USC Student Newspaper)
 
-<p>The Environmental Student Assembly calls for full financial accountability.</p>
-<p>The post <a href="https://dailytrojan.com/2024/01/11/usc-criticized-for-fossil-fuel-ties/">USC criticized for fossil fuel ties</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>USC has committed to divesting from fossil fuels. But some students argue the University must take more drastic action.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/11/usc-criticized-for-fossil-fuel-ties/">Environmental Student Assembly calls on USC to cut ties with fossil fuel industry</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
 
 
 <span class="feed-item-link">

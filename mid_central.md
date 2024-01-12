@@ -1,11 +1,49 @@
 ---
 title: mid central 2024.02
-updated: 2024-01-11 14:45:08
+updated: 2024-01-12 08:01:59
 ---
 
 # mid central 2024.02
 
-(date: 2024-01-11 14:45:08)
+(date: 2024-01-12 08:01:59)
+
+---
+
+## Freeze Warning issued January 12 at 7:50AM PST until January 12 at 8:00AM PST by NWS
+
+date: 2024-01-12, updated: 2024-01-12, from: Merced, Weather.gov CAP v1.1 alerts
+
+...FREEZE WATCH REMAINS IN EFFECT FROM LATE TONIGHT THROUGH SATURDAY MORNING... ...FREEZE WARNING WILL EXPIRE AT 8 AM PST THIS MORNING... * WHAT...Sub-freezing temperatures as low as 31 possible. * WHERE...A portion of central California. * WHEN...From late tonight through Saturday morning.
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126884B1F978.FreezeWarning.126884B20D00CA.HNXNPWHNX.1adf3f9191d531d747a658bbdc630a6d">https://alerts.weather.gov/cap/wwacapget.php?x=CA126884B1F978.FreezeWarning.126884B20D00CA.HNXNPWHNX.1adf3f9191d531d747a658bbdc630a6d</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA126884B1F978.FreezeWarning.126884B20D00CA.HNXNPWHNX.1adf3f9191d531d747a658bbdc630a6d">Save to Pocket</a>
+</span>
+
+---
+
+## Freeze Watch issued January 12 at 7:50AM PST until January 13 at 8:00AM PST by NWS
+
+date: 2024-01-12, updated: 2024-01-12, from: Merced, Weather.gov CAP v1.1 alerts
+
+...FREEZE WATCH REMAINS IN EFFECT FROM LATE TONIGHT THROUGH SATURDAY MORNING... ...FREEZE WARNING WILL EXPIRE AT 8 AM PST THIS MORNING... * WHAT...Sub-freezing temperatures as low as 31 possible. * WHERE...A portion of central California. * WHEN...From late tonight through Saturday morning.
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126884B1F978.FreezeWatch.126884C14F40CA.HNXNPWHNX.4500c006e3ce364518cac5f347fb4a34">https://alerts.weather.gov/cap/wwacapget.php?x=CA126884B1F978.FreezeWatch.126884C14F40CA.HNXNPWHNX.4500c006e3ce364518cac5f347fb4a34</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA126884B1F978.FreezeWatch.126884C14F40CA.HNXNPWHNX.4500c006e3ce364518cac5f347fb4a34">Save to Pocket</a>
+</span>
+
+---
+
+## Renesas’ Transphorm acquisition points to GaN writing on the wall
+
+date: 2024-01-12, from: EDN Blog
+
+<img width="1411" height="1058" src="https://www.edn.com/wp-content/uploads/Transphorm-Renesas-deal.jpg?fit=1411%2C1058" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Transphorm-Renesas-deal.jpg?w=1411 1411w, https://www.edn.com/wp-content/uploads/Transphorm-Renesas-deal.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Transphorm-Renesas-deal.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Transphorm-Renesas-deal.jpg?w=1024 1024w" sizes="(max-width: 1411px) 100vw, 1411px" /><p>Bigger chip firms are acquiring smaller GaN players to grasp the next-generation semiconductor material for power electronics.</p>
+<p>The post <a href="https://www.edn.com/renesas-transphorm-acquisition-points-to-gan-writing-on-the-wall/" data-wpel-link="internal">Renesas’ Transphorm acquisition points to GaN writing on the wall</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/renesas-transphorm-acquisition-points-to-gan-writing-on-the-wall/">https://www.edn.com/renesas-transphorm-acquisition-points-to-gan-writing-on-the-wall/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/renesas-transphorm-acquisition-points-to-gan-writing-on-the-wall/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -25,7 +63,7 @@ date: 2024-01-11, from: Amateur Radio Relay League News
 
 date: 2024-01-11, from: EDN Blog
 
-<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/RS-ADI-wBMS.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/RS-ADI-wBMS.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/RS-ADI-wBMS.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/RS-ADI-wBMS.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Rhode &#038; Schwarz, with technology from Analog Devices, has developed an automated test system for wireless battery management systems (wBMS).</p>
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/RS-ADI-wBMS.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/RS-ADI-wBMS.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/RS-ADI-wBMS.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/RS-ADI-wBMS.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Rhode &#038; Schwarz, with technology from Analog Devices, has developed an automated test system for wireless battery management systems (wBMS).</p>
 <p>The post <a href="https://www.edn.com/ate-system-tests-wireless-bms/" data-wpel-link="internal">ATE system tests wireless BMS</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 
