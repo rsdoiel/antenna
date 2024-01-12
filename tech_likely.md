@@ -1,11 +1,1075 @@
 ---
 title: tech likely 2024.02
-updated: 2024-01-10 08:42:52
+updated: 2024-01-11 14:45:08
 ---
 
 # tech likely 2024.02
 
-(date: 2024-01-10 08:42:52)
+(date: 2024-01-11 14:45:08)
+
+---
+
+## 50 Years Ago: Skylab 4 Astronauts Begin Record-Breaking Third Month in Space
+
+date: 2024-01-11, from: NASA breaking news
+
+In space since their launch on Nov. 16, 1973, Skylab 4 astronauts Gerald P. Carr, Edward G. Gibson, and William R. Pogue began the new year of 1974 roughly halfway through their planned 84-day mission. By the end of January, the three rookies held the records for the longest single space flight and the most [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/history/50-years-ago-skylab-4-astronauts-begin-record-breaking-third-month-in-space/">https://www.nasa.gov/history/50-years-ago-skylab-4-astronauts-begin-record-breaking-third-month-in-space/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/history/50-years-ago-skylab-4-astronauts-begin-record-breaking-third-month-in-space/">Save to Pocket</a>
+</span>
+
+---
+
+## ASUS’ new graphics cards and motherboards replace 12VHPWR connector with a 600W PCIe
+
+date: 2024-01-11, from: OS News
+
+At CES 2024, ASUS unveiled a new standard for motherboards, graphics cards, and cases. Called BTF (short for Back-to-The-Future), it offers much cleaner cable management with power connectors at the back of a motherboard. More importantly, it fully ditches the ill-fated 12VHPWR plug in favor of a much tidier (and probably safer) 600W PCIe connector. ASUS claims computers with BTF components are easier to assemble since all plugs and connectors are located at the back side of the motherboard tray without other components obstructing access to power, SATA, USB, IO, and other connectors. Therefore, &#8220;you won&#8217;t have to reach as far into the depth of your chassis to plug things in.&#8221; BTF should also make cable management much more elegant, resulting in a tidy, showcase-ready build. ↫ Taras Buria at NeoWin The interior of PCs effectively hasn&#8217;t changed since the &#8217;80s, and it feels like it, too. Many of the connectors and plugs are unwieldy, in terrible places, hard to connect/disconnect, difficult to route, and so on. A lot more needs to be done than putting the connectors on the back of the motherboard and integrating GPU power delivery into the PCIe slot, but even baby steps like these are downright revolutionary in the conservative, change-averse, anti-user world of PC building. I don&#8217;t say this very often, but basically, look at the last Intel Mac Pro. That&#8217;s what a modern PC should look and work like inside.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138281/asus-new-graphics-cards-and-motherboards-replace-12vhpwr-connector-with-a-600w-pcie/">https://www.osnews.com/story/138281/asus-new-graphics-cards-and-motherboards-replace-12vhpwr-connector-with-a-600w-pcie/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138281/asus-new-graphics-cards-and-motherboards-replace-12vhpwr-connector-with-a-600w-pcie/">Save to Pocket</a>
+</span>
+
+---
+
+##  The Science of Snowflakes 
+
+date: 2024-01-11, updated: 2024-01-11, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/the-science-of-snowflakes">https://kottke.org/24/01/the-science-of-snowflakes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/the-science-of-snowflakes">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-11, from: Miguel de Icaza Mastondon feed)
+
+<p>This Q&amp;A is so clear, simple and easy to understand that it would be a crime for you not to take this economics crash course.</p><p>It will take you 10 minutes, and it will feel like upgrading from doing accounting on clay tablets to using Excel:</p><p><a href="https://on.ft.com/41TONWe" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="">on.ft.com/41TONWe</span><span class="invisible"></span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111739371079188609">https://mastodon.social/@Migueldeicaza/111739371079188609</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111739371079188609">Save to Pocket</a>
+</span>
+
+---
+
+## NASA to Brief Media on Climate Mission to Study Ocean Life, Air
+
+date: 2024-01-11, from: NASA breaking news
+
+NASA will host a media teleconference at 12 p.m. EST, Wednesday, Jan. 17, to discuss the upcoming launch and science objectives of the agency’s PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) mission. Once in orbit above Earth, the satellite will shed light on the impact of tiny things – microscopic life in water and microscopic particles [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-to-brief-media-on-climate-mission-to-study-ocean-life-air/">https://www.nasa.gov/news-release/nasa-to-brief-media-on-climate-mission-to-study-ocean-life-air/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-to-brief-media-on-climate-mission-to-study-ocean-life-air/">Save to Pocket</a>
+</span>
+
+---
+
+## The Soulless George Carlin AI
+
+date: 2024-01-11, updated: 2024-01-11, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/01/11/the-soulless-george-carlin-ai/">https://onefoottsunami.com/2024/01/11/the-soulless-george-carlin-ai/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/01/11/the-soulless-george-carlin-ai/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-11, from: Miguel de Icaza Mastondon feed)
+
+<p>My next Godot on iPad task is to kill the top menu bar and move all its functionality to iPad-blessed locations.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111739046645954925">https://mastodon.social/@Migueldeicaza/111739046645954925</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111739046645954925">Save to Pocket</a>
+</span>
+
+---
+
+## After 96 days of conflict, 79 journalists covering Israel-Gaza have been killed. Others are feeling the toll.
+
+date: 2024-01-11, from: Nieman Journalism Lab
+
+Seventy-nine journalists and media workers have been killed covering the Israel-Gaza war began on October 7, 2023, according to numbers released Thursday by the Committee to Protect Journalists. Of the 79, CPJ says, 72 were Palestinian, four were Israeli, and three were Lebanese. Another 21 journalists have been arrested, 16 injured, and three have been...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/after-96-days-of-conflict-79-journalists-covering-israel-gaza-have-been-killed-others-are-feeling-the-toll/">https://www.niemanlab.org/2024/01/after-96-days-of-conflict-79-journalists-covering-israel-gaza-have-been-killed-others-are-feeling-the-toll/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/after-96-days-of-conflict-79-journalists-covering-israel-gaza-have-been-killed-others-are-feeling-the-toll/">Save to Pocket</a>
+</span>
+
+---
+
+## BBEdit 15
+
+date: 2024-01-11, from: Michael Tsai
+
+Bare Bones Software (Mastodon): A new Minimap palette shows a high-level overview of the active text document. This facilitates visualization of the document&#8217;s overall structure, as well as navigation within larger documents. I love the minimap in recent versions of Xcode, but I&#8217;ve not found myself using the BBEdit version much. It&#8217;s in a floating [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/11/bbedit-15/">https://mjtsai.com/blog/2024/01/11/bbedit-15/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/11/bbedit-15/">Save to Pocket</a>
+</span>
+
+---
+
+## AirDrop Log Dehashing
+
+date: 2024-01-11, from: Michael Tsai
+
+Lawrence Abrams (MacRumors): A Chinese state-backed research institute claims to have discovered how to decrypt device logs for Apple&#8217;s AirDrop feature, allowing the government to identify phone numbers or email addresses of those who shared content.[&#8230;]To get around censorship in the country, people turned to Apple&#8217;s AirDrop feature, which doesn&#8217;t require cellular service and uses [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/11/airdrop-log-dehashing/">https://mjtsai.com/blog/2024/01/11/airdrop-log-dehashing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/11/airdrop-log-dehashing/">Save to Pocket</a>
+</span>
+
+---
+
+## Displaying Progress Is Hard
+
+date: 2024-01-11, from: Michael Tsai
+
+Howard Oakley: When I copied some files from iCloud Drive, instead of seeing a progress indicator reporting that they were being downloaded from iCloud, the dialog claimed that it was &#8220;preparing to move&#8221; the document in question. These preparations took some considerable time, during which the Finder&#8217;s status bar revealed what was actually taking the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/11/displaying-progress-is-hard/">https://mjtsai.com/blog/2024/01/11/displaying-progress-is-hard/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/11/displaying-progress-is-hard/">Save to Pocket</a>
+</span>
+
+---
+
+## Easier Mac Audio App Installs
+
+date: 2024-01-11, from: Michael Tsai
+
+Paul Kafasis: As a result of changes Apple made back in MacOS 11, our apps have been stuck with a setup process that&#8217;s much more complicated than we&#8217;d like. Currently, an annoying restart is required to get going on Intel-based Macs. Setup is even more burdensome on Apple&#8217;s newest M Chip-based Macs, with multiple restarts [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/11/easier-mac-audio-app-installs/">https://mjtsai.com/blog/2024/01/11/easier-mac-audio-app-installs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/11/easier-mac-audio-app-installs/">Save to Pocket</a>
+</span>
+
+---
+
+##  The Stunning Winners of the 2024 Close-Up Photographer of the Year Contest 
+
+date: 2024-01-11, updated: 2024-01-11, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/the-stunning-winners-of-the-2024-close-up-photographer-of-the-year-contest">https://kottke.org/24/01/the-stunning-winners-of-the-2024-close-up-photographer-of-the-year-contest</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/the-stunning-winners-of-the-2024-close-up-photographer-of-the-year-contest">Save to Pocket</a>
+</span>
+
+---
+
+##  All the Types of Science Fiction. Incl. &#8220;3. Technology creates problems 😕... 
+
+date: 2024-01-11, updated: 2024-01-11, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043767-all-the-types-of-science">https://kottke.org/24/01/0043767-all-the-types-of-science</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043767-all-the-types-of-science">Save to Pocket</a>
+</span>
+
+---
+
+##  Techdirt on Substack: &#8220;A site that caters to Nazis is not a... 
+
+date: 2024-01-11, updated: 2024-01-11, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043766-techdirt-on-substack-a-si">https://kottke.org/24/01/0043766-techdirt-on-substack-a-si</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043766-techdirt-on-substack-a-si">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s PACE To Investigate Oceans, Atmospheres in Changing Climate
+
+date: 2024-01-11, from: NASA breaking news
+
+Earth’s oceans and atmosphere are changing as the planet warms. Some ocean waters become greener as more microscopic organisms bloom. In the atmosphere, dust storms born on one continent affect the air quality of another, while smoke from massive wildfires can blanket entire regions for days. NASA’s newest Earth-observing satellite, called PACE (Plankton, Aerosol, Cloud, ocean […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/earth/nasas-pace-to-investigate-oceans-atmospheres-in-changing-climate/">https://science.nasa.gov/earth/nasas-pace-to-investigate-oceans-atmospheres-in-changing-climate/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/earth/nasas-pace-to-investigate-oceans-atmospheres-in-changing-climate/">Save to Pocket</a>
+</span>
+
+---
+
+## Brr, It’s Cold in Here! NASA’s Cryo Efforts Beyond the Atmosphere
+
+date: 2024-01-11, from: NASA breaking news
+
+Establishing sustained operations at the Moon and Mars presents a multitude of opportunities and challenges NASA has yet to encounter. Many of these activities require new technologies and processes to ensure the agency is prepared for its ambitious Artemis missions and those beyond. One of those challenges is working with cryogenic fluids, meaning fluids existing [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/glenn/brr-its-cold-in-here-nasas-cryo-efforts-beyond-the-atmosphere/">https://www.nasa.gov/centers-and-facilities/glenn/brr-its-cold-in-here-nasas-cryo-efforts-beyond-the-atmosphere/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/glenn/brr-its-cold-in-here-nasas-cryo-efforts-beyond-the-atmosphere/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Sets Coverage for Axiom Mission 3 Briefing, Events, Broadcast
+
+date: 2024-01-11, from: NASA breaking news
+
+NASA, Axiom Space, and SpaceX will provide coverage of the upcoming prelaunch and launch activities for the third private astronaut mission to the International Space Station. Liftoff of Axiom Mission 3 (Ax-3) is scheduled for 5:11 p.m. EST Wednesday, Jan. 17, from Launch Complex 39A at NASA’s Kennedy Space Center in Florida. The crew will [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-3-briefing-events-broadcast/">https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-3-briefing-events-broadcast/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-3-briefing-events-broadcast/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Almost there!</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111738562765952674">https://mastodon.social/@Migueldeicaza/111738562765952674</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111738562765952674">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Astronaut, Congresswoman Discuss STEM Careers with Students
+
+date: 2024-01-11, from: NASA breaking news
+
+NASA astronaut&#160;Nicole Mann&#160;and U.S. Representative Zoe Lofgren talk with students and families at Youth Alliance, a community organization in Hollister, California, on Jan. 5.&#160; Mann, who was born in another small California community, spoke about her parents’ work as an auto mechanic and a manicurist and her own path to becoming a colonel in the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/humans-in-space/astronauts/nicole-aunapu-mann/nasa-astronaut-congresswoman-discuss-stem-careers-with-students/">https://www.nasa.gov/humans-in-space/astronauts/nicole-aunapu-mann/nasa-astronaut-congresswoman-discuss-stem-careers-with-students/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/humans-in-space/astronauts/nicole-aunapu-mann/nasa-astronaut-congresswoman-discuss-stem-careers-with-students/">Save to Pocket</a>
+</span>
+
+---
+
+##  Ryan Broderick of Garbage Day: It&#8217;s time to leave Substack. &#8220;If only... 
+
+date: 2024-01-11, updated: 2024-01-11, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043765-ryan-broderick-of-garbage">https://kottke.org/24/01/0043765-ryan-broderick-of-garbage</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043765-ryan-broderick-of-garbage">Save to Pocket</a>
+</span>
+
+---
+
+## Which rights do AI and journalists have in common?
+
+date: 2024-01-11, from: Nieman Journalism Lab
+
+I have been a journalist for fifty years and a journalism professor for the last eighteen. I. History I would like to begin with three lessons on the history of news and copyright, which I learned researching my book, The Gutenberg Parenthesis: The Age of Print and its Lessons for the Age of the Internet...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/which-rights-do-ai-and-journalists-have-in-common/">https://www.niemanlab.org/2024/01/which-rights-do-ai-and-journalists-have-in-common/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/which-rights-do-ai-and-journalists-have-in-common/">Save to Pocket</a>
+</span>
+
+---
+
+##  Anil Dash: &#8220;The NYT is now just Facebook. The platform dictates narrative... 
+
+date: 2024-01-11, updated: 2024-01-11, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043764-anil-dash-the-nyt-is">https://kottke.org/24/01/0043764-anil-dash-the-nyt-is</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043764-anil-dash-the-nyt-is">Save to Pocket</a>
+</span>
+
+---
+
+## First NASA Mars Analog Crew Passes Mission Halfway Mark
+
+date: 2024-01-11, from: NASA breaking news
+
+The first crew to take part in a yearlong NASA Mars analog mission reached the 200 day mark of its mission Jan. 11. The four person analog crew, entered the CHAPEA (Crew Health and Performance Exploration Analog) habitat at NASA’s Johnson Space Center in Houston on June 25, 2023, and is scheduled to complete its [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/analog-field-testing/chapea/first-nasa-mars-analog-crew-passes-mission-halfway-mark/">https://www.nasa.gov/missions/analog-field-testing/chapea/first-nasa-mars-analog-crew-passes-mission-halfway-mark/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/analog-field-testing/chapea/first-nasa-mars-analog-crew-passes-mission-halfway-mark/">Save to Pocket</a>
+</span>
+
+---
+
+## MDX with Web Components Part II
+
+date: 2024-01-11, from: Dave Rupert blog
+
+<p>In a recent post I covered <a href="https://daverupert.com/2023/10/mdx-with-web-components/">how to get MDX-style posts with web components</a> and people come to me every day, tears in their eyes, and ask me to go into more detail.</p>
+<p>Seriously, tho it’s just regular markdown…</p>
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="markdown">blah blah blah
+
+<span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"module"</span> <span class="na">src=</span><span class="s">"path/to/my-cool-component.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+<span class="nt">&lt;my-cool-component&gt;&lt;/my-cool-component&gt;</span>
+
+blah blah blah
+</code></pre></div></div>
+<p>And it’ll pretty much work.</p>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/01/mdx-with-web-components-part-ii/">https://daverupert.com/2024/01/mdx-with-web-components-part-ii/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/01/mdx-with-web-components-part-ii/">Save to Pocket</a>
+</span>
+
+---
+
+## California Students to Hear from NASA Astronauts Aboard Space Station
+
+date: 2024-01-11, from: NASA breaking news
+
+Students from Emblem Academy in Santa Clarita, California, will have an opportunity to hear from NASA astronauts living and working aboard the International Space Station. &#160; The Earth-to-space call will stream live at 11:35 a.m. EST Tuesday, Jan. 16, on&#160;NASA+, NASA Television, and the agency’s website. Learn how to&#160;stream NASA TV&#160;through a variety of platforms [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/california-students-to-hear-from-nasa-astronauts-aboard-space-station-3/">https://www.nasa.gov/news-release/california-students-to-hear-from-nasa-astronauts-aboard-space-station-3/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/california-students-to-hear-from-nasa-astronauts-aboard-space-station-3/">Save to Pocket</a>
+</span>
+
+---
+
+##  AI Robot Bests Marble Maze Game 
+
+date: 2024-01-11, updated: 2024-01-11, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/ai-robot-bests-marble-maze-game">https://kottke.org/24/01/ai-robot-bests-marble-maze-game</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/ai-robot-bests-marble-maze-game">Save to Pocket</a>
+</span>
+
+---
+
+## Legal Sauce for the Legal Goose
+
+date: 2024-01-11, from: Ayjay blog
+
+From an an interview with Jill Lepore: I’m working on a long book about the history of attempts to amend the Constitution. And on the one hand, we have a Constitution that has a provision that allows for generativity and invention and adjustment and improvement and alteration and remedy and making amends, and all of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/sauce-goose-gander-2/">https://blog.ayjay.org/sauce-goose-gander-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/sauce-goose-gander-2/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s Fermi Detects Surprise Gamma-Ray Feature Beyond Our Galaxy
+
+date: 2024-01-11, from: NASA breaking news
+
+Astronomers analyzing 13 years of data from NASA’s Fermi Gamma-ray Space Telescope have found an unexpected and as yet unexplained feature outside of our galaxy. “It is a completely serendipitous discovery,” said Alexander Kashlinsky, a cosmologist at the University of Maryland and NASA’s Goddard Space Flight Center in Greenbelt, who presented the research at the […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/fermi/nasas-fermi-detects-surprise-gamma-ray-feature-beyond-our-galaxy/">https://science.nasa.gov/missions/fermi/nasas-fermi-detects-surprise-gamma-ray-feature-beyond-our-galaxy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/fermi/nasas-fermi-detects-surprise-gamma-ray-feature-beyond-our-galaxy/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Scientists Discover a Novel Galactic ‘Fossil’
+
+date: 2024-01-11, from: NASA breaking news
+
+Researchers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have discovered X-ray activity that sheds light on the evolution of galaxies. The X-rays outline giant clouds of cold gas in the nearby spiral galaxy NGC 4945. The gas appears to have blasted through the galaxy after its central supermassive black hole erupted some 5 […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/centers-and-facilities/goddard/nasa-scientists-discover-a-novel-galactic-fossil/">https://science.nasa.gov/centers-and-facilities/goddard/nasa-scientists-discover-a-novel-galactic-fossil/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/centers-and-facilities/goddard/nasa-scientists-discover-a-novel-galactic-fossil/">Save to Pocket</a>
+</span>
+
+---
+
+## Ideas for Reading Lists
+
+date: 2024-01-11, from: Dave Winer's Scripting News
+
+<p>A <a href="http://scripting.com/2023/10/21/143159.html">reading list</a> is a list of feeds you can subscribe to.</p>
+<p>The author of the list can add or remove feeds. When they do, people who subscribe to the list are subscribed to the new feeds and unsubbed from the ones that leave.</p>
+<p>Reading lists are not a new topic, I and others have been <a href="https://www.google.com/search?q=site%3Ascripting.com+reading+lists">writing</a> about <a href="https://www.google.com/search?q=opml+reading+lists">them</a> for years. But they've not been used seriously in the past because they weren't widely supported in feed readers. <a href="https://feedland.com/">FeedLand</a>, my latest feed manager, has reading list support built-in. And we're serious about starting new communities of feeds and users with this feature. </p>
+<p>If you're a feed reader user, you probably know about using OPML to move your subscriptions from one app to another, or to share lists with friends. </p>
+<p>Reading lists take it one step further, you can subscribe to a reading list, so you can control one app from another.  </p>
+<p>Say I had a reading list with my favorite podcasts and my podcasting client could subscribe to it. Then when I add a feed to that list on my desktop computer, the podcast client would automatically be subscribed to it. Or if I used two or more podcast clients (say one on Android and one on iOS), I could control both from the same subscription list.</p>
+<p>It factors out subscribing. Now you can use one app to manage subscriptions and use lots of apps to read them.</p>
+<p>What's cool about this is that it opens up the possibility for lots of viewer apps. A podcast client is a special kind of feed reader. I'm sure others are possible. But first, to make this practical we need to do better with subscriptions. That's what reading lists are for. </p>
+<p>Another idea. Suppose we wanted to put together a big list of great blogs about Major League Baseball (just an example). I might know a few about the Mets, and my friend Scott who lives in Mountain View, CA, would have a bunch about the Giants. We could put together a group of 100 avid baseball fans, and one of us could put out a reading list for all of our feeds merged into one list. It's not so far-fetched, <a href="https://feedland.com/">FeedLand</a> can do that today. </p>
+<p>I could see a similar "big blogroll" for the IndieWeb, or for Bluesky developers -- or really anything. We just have to get started, prime the pump, and learn how this works. </p>
+<p>I felt it was really important to get reading lists built into FeedLand in the current release, because now we're in a position, with the improvements in scaling, to act as a organizing node for new activities with feeds. </p>
+<p>This is another form of federation, it's more ad hoc, and doesn't require very much technical knowledge. If you know how to use a feed reader, and move around OPML files, you can do all of what I describe in this piece. </p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/11/160744.html?title=ideasForReadingLists">http://scripting.com/2024/01/11/160744.html?title=ideasForReadingLists</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/11/160744.html?title=ideasForReadingLists">Save to Pocket</a>
+</span>
+
+---
+
+## The Curious About Everything Newsletter #34
+
+date: 2024-01-11, from: Curious about everything blog
+
+The many interesting things I read in December 2023.
+
+<span class="feed-item-link">
+<a href="https://jodiettenberg.substack.com/p/thirty-four">https://jodiettenberg.substack.com/p/thirty-four</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://jodiettenberg.substack.com/p/thirty-four">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Can&#39;t get enough of this cute animation:</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111738130167042209">https://mastodon.social/@Migueldeicaza/111738130167042209</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111738130167042209">Save to Pocket</a>
+</span>
+
+---
+
+## Langlaufen im Goms
+
+date: 2024-01-11, from: Alex Schroeder's Blog
+
+<h1>Langlaufen im Goms</h1>
+
+<p>Es ist wieder mal soweit…</p>
+
+<p><img loading="lazy" src="2024-01-10-langlaufen-1.jpg" alt="Mit dem Zug von Göschenen nach Andermatt" />
+<img loading="lazy" src="2024-01-10-langlaufen-2.jpg" alt="Die Loipe" />
+<img loading="lazy" src="2024-01-10-langlaufen-3.jpg" alt="Die Loipe" />
+<img loading="lazy" src="2024-01-10-langlaufen-4.jpg" alt="Die Loipe" />
+<img loading="lazy" src="2024-01-10-langlaufen-5.jpg" alt="Claudia und Alex" />
+<img loading="lazy" src="2024-01-10-langlaufen-6.jpg" alt="Fondue essen" />
+<img loading="lazy" src="2024-01-10-langlaufen-7.jpg" alt="Sonnenuntergang" /></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-01-10-langlaufen">https://alexschroeder.ch/view/2024-01-10-langlaufen</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-01-10-langlaufen">Save to Pocket</a>
+</span>
+
+---
+
+## Ecosia
+
+date: 2024-01-11, from: Dave Rupert blog
+
+<img src="https://cdn.daverupert.com/posts/2024/ecosia.png" alt="screenshot of the ecosia homepage with a search bar in the middle and playful colors and illustrations at the borders" height="719" width="1200">
+<p>Last year I switched my default search engine twice. First from Bing to Duck Duck Go. It felt different but during <a href="https://daverupert.com/2023/01/shadow-banned-by-duckduckgo-and-bing/">my Bing de-listing fiasco</a> I learned that Duck Duck Go and lots of other smaller search engines use the Bing Index. One of the more interesting engines I learned about was Ecosia, a green search engine that I switched to a couple months ago.</p>
+<p>Ecosia’s twist on the search engine game is that for every ~50 searches you do, they plant 1 tree. They serve you ads and that revenue pays for trees. It seems gimmicky or unbelievable, but Ecosia posts <a href="https://blog.ecosia.org/ecosia-financial-reports-tree-planting-receipts/">all their financials are on their website</a>. I find that to be a refreshing amount of transparency from a search engine. According to the website, in October they financed the planting of ~2.5 million trees in 12 different countries. That’s admirable.</p>
+<p>Getting rewarded by a search engine for searching isn’t new to me. I switched to Bing in 2015 as part of #davegoeswindows and one neat side effect was that I got “Bing Bucks” for my searches which I could convert into gift cards to use at real stores; paid to play. For years I ran a grift of converting Bing Bucks into Robux for the kids. Now I’m doing that same grift, but for trees for my children’s future. In a couple months since switching I’ve funded 20 trees which feels nice.</p>
+<p>How big of a difference can a “green” search engine make? Good question and I spent a dumb amount of time looking into this. <a href="https://arxiv.org/pdf/2211.02001.pdf">Based on some research</a> Ecosia calculates that one search offsets 50kg of CO₂.</p>
+<blockquote>
+<p>“The tree planting that we’re doing, with each search, you’re actually removing around 50 kilograms of CO₂.”
+Source: <a href="https://www.pcmag.com/news/microsoft-rate-hikes-for-bing-use-may-put-this-google-alternative-out-of">PCMag</a></p>
+</blockquote>
+<p>Is 50kg a lot? It sounds like a lot, but I need that in terms I understand. This summer I learned that <a href="https://www.fueleconomy.gov/feg/contentincludes/co2_inc.htm">a gallon of gas weighs 6.3lbs (2.8kg) yet produces 20lbs (9kg) of CO₂</a>. Gas is a form of carbon emissions I understand, so let’s use that as a baseline.</p>
+<p>If my math is correct and every search removes 50kg of CO₂… that’s equal to offsetting 5.5 gallons of gas… or about one jerrycan.</p>
+<img src="https://cdn.daverupert.com/posts/2024/search-jerry.svg" alt="illustration of a magnifying glass with 1x, two equals signs, and a crude jerry can" height="390" width="798">
+<p><a href="(https://www.fueleconomy.gov/feg/byclass/Standard_SUV_2WD2023.shtml)">According to FuelEconomy.gov, the average non-hybrid/non-electric SUV in 2024 gets an average of ~20.6 MPG</a><sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup>. One search then offsets ~113 miles of driving in an SUV<sup class="footnote-ref"><a href="#fn2" id="fnref2">2</a></sup>. Making that specific to my life, it takes three searches to offset a tank of gas in my Volvo and seven for my F-150. Those numbers are good enough to make me a bit skeptical.</p>
+<p>Planting trees isn’t a climate silver bullet<sup class="footnote-ref"><a href="#fn3" id="fnref3">3</a></sup>. Trees take years to grow and a gallon of gas burns in less than an hour. Trees will struggle to grow in hotter climates as well. There’s no replacement for carbon reduction…but —as we say in Texas— it’s not nothing? Tree planting is potentially <a href="https://www.science.org/doi/full/10.1126/science.aax0848#:~:text=Excluding%20existing%20trees%20and%20agricultural%20and%20urban%20areas%2C%20we%20found%20that%20there%20is%20room%20for%20an%20extra%200.9%20billion%20hectares%20of%20canopy%20cover%2C%20which%20could%20store%20205%20gigatonnes%20of%20carbon%20in%20areas%20that%20would%20naturally%20support%20woodlands%20and%20forests.">a 220 gigaton opportunity</a> and currently the only viable form of carbon capture and storage.</p>
+<p>I looked into how much planting a tree costs and the prices vary from $1 to $3 dollars. The <a href="https://shop.arborday.org/campaign/reforestation-007/give">Arbor Day Foundation</a> costs $1/tree, <a href="https://preserve.nature.org/page/81927/donate/1?engrid_session=MTMxNDk0ZjEtOGEwYi00OWZhLTlkMzItN2I5ZWYzMTBlOGEyfDE3MDMxMjUwNDZ8MTcwMzEyNTA4OXwxfGh0dHBzOi8vd3d3LmVjb3NpYS5vcmd8fGh0dHBzOi8vd3d3LmVjb3NpYS5vcmd8">The Nature Conservancy</a> and <a href="https://treeswaterpeople.org/give-a-gift">Trees, Water, People</a> both cost ~$2/tree. And Ecosia’s own <a href="https://plant.ecosia.org/products/trees-for-climate-action?variant=37125904662702">Ecosia Tree Store</a> comes in at the highest at $3/tree. That means by searching I’ve planted anywhere from $20-$60 worth of trees. It might be more effective if I donated a lump sum and installed an ad blocker; but Ecosia’s trees are an entirely passive benefit and that makes it sustainable for me. I think about it like putting a solar panel on my air conditioner.</p>
+<p>Ecosia’s use of the Bing Index might be a dealbreaker for some, but all that might be changing! Due to a price hike in the Bing Index, <a href="https://blog.ecosia.org/new-search-features/">Ecosia announced that in certain locales they’re switching to the Google Index</a>. I’ve used Bing’s Index for years so this isn’t a problem for me, but I understand people are picky about their search results. I’d also call out that <a href="https://xeiaso.net/blog/birth-death-seo/">the entire SEO ecosystem is changing with the advent of AI</a> and the reliability of search results will experience a tectonic shift. Speaking of AI… at the end of that same announcement post, Ecosia says they’re piloting an experimental AI Chat feature.</p>
+<p>Ecosia is a feel-good search engine and I love the idea of a benefit-corp style search engine. I want my “behavioral exhaust” (<a href="https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697">Zubhoff, 2019</a>) to replenish the environment rather than fund the techno-monopoly war chest. Ecosia is a welcome change in my online life. It’s well-designed compared to other search engines and planting 20 trees feels good. If we all pointed our search bars at Ecosia for a while, what kind of difference could we make. Alone, we will never make a dent in the climate but together we stand a chance.</p>
+<p>And that’s where I wanted to end this review but…</p>
+<p>I wanted this to be a review of a new’ish search engine that I enjoy, but I need to address the LLM in the room. In short, the AI feature seems off-brand for Ecosia –like Captain Planet getting into Bitcoin. At <a href="https://www.businessinsider.com/chatgpt-generative-ai-water-use-environmental-impact-study-2023-4">500ml of water for every 20 prompts</a> or <a href="https://apnews.com/article/chatgpt-gpt4-iowa-ai-water-consumption-microsoft-f551fde98083d17a7e8d904f8be822c4">1.7 billion gallons of water to train GPT</a>, LLMs use a lot of energy and resources. Ecosia claims they are able to offset the carbon costs of LLMs – I’d love to see more data on this – but when every search engine is experimenting in this space, it’d be nice to have an option that’s taking a different path.</p>
+<section class="footnotes">
+<ol>
+<li id="fn1">
+<p>Methodology: Go to <a href="https://www.fueleconomy.gov/feg/byclass/Standard_SUV_2WD2023.shtml">a fuel economy page</a> and enter <a href="https://gist.github.com/davatron5000/010c942da8cc99f220a96bf8e8367cdc">this snippet</a> in the console. <a href="#fnref1" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn2">
+<p>More calculations: You’d need 28.3 billion searches to offset the 3.2 trillion miles driven in the US every year and 3.4 billion searches to offset California’s 390 billion miles per year. For comparison, Google makes 8.5 billion searches per day and Bing sees 900 million searches per day. <a href="#fnref2" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn3">
+<p>There’s good criticism on why planting trees isn’t the solution (<a href="https://www.youtube.com/watch?v=NIY9kbTIawg">Bloomberg 2023</a>, <a href="https://www.youtube.com/watch?v=iSm0nvOa07w">PBS 2023</a>, <a href="https://www.youtube.com/watch?v=bbxmH_Kj7fk">TEDed 2023</a>, <a href="https://www.vox.com/down-to-earth/22679378/tree-planting-forest-restoration-climate-solutions">Vox 2021</a>, <a href="https://academic.oup.com/bioscience/article/70/11/947/5903754?login=false">BioScience 2020</a>) but I don’t think a handful of failed naive attempts means we should write the whole project off. We’re learning that native species &gt; non-native species, <a href="https://en.wikipedia.org/wiki/Reforestation">reforestation</a> &gt; <a href="https://en.wikipedia.org/wiki/Afforestation">afforestation</a>, pastoralists &gt; industrialists, and long-term natural regrowth &gt; plantations. Climate justice is also entangled with economic justice so we need to empower local communities. <a href="#fnref3" class="footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/01/ecosia/">https://daverupert.com/2024/01/ecosia/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/01/ecosia/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-11, from: Miguel de Icaza Mastondon feed)
+
+<p>Last night <span class="h-card" translate="no"><a href="https://iosdev.space/@marquiskurt" class="u-url mention">@<span>marquiskurt</span></a></span> suggested this new style of menu, and Jake Sawyer pointed me in the right direction.</p><p>Here is what it looks like:</p><p>Before and After:</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111737885311753573">https://mastodon.social/@Migueldeicaza/111737885311753573</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111737885311753573">Save to Pocket</a>
+</span>
+
+---
+
+## The Houston Landing’s board is backing CEO Peter Bhatia over his controversial firings
+
+date: 2024-01-11, from: Nieman Journalism Lab
+
+Yesterday, we told you about the tumult at the Houston Landing, where the newsroom&#8217;s journalists are protesting Monday&#8217;s surprise firing of editor-in-chief Mizanur Rahman and investigative reporter Alex Stuckey. Later on Monday, staffers sent a letter to the Landing&#8217;s six-member board decrying CEO Peter Bhatia&#8216;s moves, which he said were necessary for a still-vague &#8220;reset&#8221;...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/the-houston-landings-board-is-backing-ceo-peter-bhatia-over-his-controversial-firings/">https://www.niemanlab.org/2024/01/the-houston-landings-board-is-backing-ceo-peter-bhatia-over-his-controversial-firings/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/the-houston-landings-board-is-backing-ceo-peter-bhatia-over-his-controversial-firings/">Save to Pocket</a>
+</span>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-01-11, from: Tomosino's Mastodon feed)
+
+<p>Oh I see. I'm having one of THOSE days, where I'm at the computer and work adjecent, but nothing is gonna get done. Well well well.</p>
+
+<span class="feed-item-link">
+<a href="https://tilde.zone/@tomasino/111737763252572138">https://tilde.zone/@tomasino/111737763252572138</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tilde.zone/@tomasino/111737763252572138">Save to Pocket</a>
+</span>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-01-11, from: Tomosino's Mastodon feed)
+
+<p>I'm glad South Africa is addressing the International Court of Justice. It's so frustrating it has taken so long. Let the proceedings begin.</p><p><a href="https://x.com/Ntuli_Lindo_/status/1745393363430318205?s=20" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">x.com/Ntuli_Lindo_/status/1745</span><span class="invisible">393363430318205?s=20</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://tilde.zone/@tomasino/111737648988460642">https://tilde.zone/@tomasino/111737648988460642</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tilde.zone/@tomasino/111737648988460642">Save to Pocket</a>
+</span>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-01-11, from: Tomosino's Mastodon feed)
+
+<p>day 2 of using new keyboard. it's lovely. the extra attention to accoustics is really appreciated. it's quiet and feels wonderful. even bottoming out the keys has a soft feel from the baseplate being on gaskets.</p><p>Travel distance to the arrow keys is about 2cm different than my last keyboard, so i'm adjusting. But I once again have a glorious numpad!</p><p>8675309!</p>
+
+<span class="feed-item-link">
+<a href="https://tilde.zone/@tomasino/111737591524439838">https://tilde.zone/@tomasino/111737591524439838</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tilde.zone/@tomasino/111737591524439838">Save to Pocket</a>
+</span>
+
+---
+
+## GitHub Universe attendees treated to custom RP2040 Badgers
+
+date: 2024-01-11, from: Raspberry Pi News (.com)
+
+<p>GitHub Universe 2023 attendees were treated to custom RP2040-powered conference badges by Pimoroni.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/github-universe-attendees-treated-to-custom-rp2040-badgers/">GitHub Universe attendees treated to custom RP2040 Badgers</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/github-universe-attendees-treated-to-custom-rp2040-badgers/">https://www.raspberrypi.com/news/github-universe-attendees-treated-to-custom-rp2040-badgers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/github-universe-attendees-treated-to-custom-rp2040-badgers/">Save to Pocket</a>
+</span>
+
+---
+
+## Ayaneo Next Lite handheld announced with SteamOS Linux
+
+date: 2024-01-11, from: OS News
+
+inally we&#8217;re seeing another handheld vendor jump in with Linux. The AYANEO NEXT LITE was announced today and much like the Steam Deck, they plan to ship it with SteamOS! AYANEO are one of the top brands when it comes to PC handhelds, so it&#8217;s really interesting to see them be one of the first to jump in like this. If Linux is a success for them, no doubt they will do more and other vendors will follow along. ↫ Liam Dawe It was inevitable for SteamOS to spread beyond just the Steam Deck, but an important note to make here is that Ayaneo is not working together with Valve. Instead, they&#8217;re using HoloIso, one of the community-maintained variants of SteamOS anyone can use and install. I&#8217;m a bit surprised by this, since moving SteamOS beyond just Valve products in an official capacity seems like a no-brainer for Valve; they&#8217;re not really in it for the hardware money, after all, and instead earn their money from Steam game sales. I&#8217;m fairly convinced this isn&#8217;t the last time we&#8217;re seeing a non-Valve product with SteamOS, but I&#8217;d rather have Valve involved in the process before spending any money on one of these.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138266/ayaneo-next-lite-handheld-announced-with-steamos-linux/">https://www.osnews.com/story/138266/ayaneo-next-lite-handheld-announced-with-steamos-linux/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138266/ayaneo-next-lite-handheld-announced-with-steamos-linux/">Save to Pocket</a>
+</span>
+
+---
+
+## Memtest86+, the little RAM tester, flexes FOSS muscles with v7.0
+
+date: 2024-01-11, updated: 2024-01-11, from: Liam Proven's articles at the Register
+
+<h4>Essential tool for PC troubleshooting, even if you never run anything but Windows</h4>
+      <p>The revival in development of open source RAM-testing tool Memtest86+ continues with version 7.0 – and it's not just for Linuxy types.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/11/memtest86_70_released/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/11/memtest86_70_released/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/11/memtest86_70_released/">Save to Pocket</a>
+</span>
+
+---
+
+## Teaching about AI explainability
+
+date: 2024-01-11, from: Raspberry Pi (.org)
+
+<p>In the rapidly evolving digital landscape, students are increasingly interacting with AI-powered applications when listening to music, writing assignments, and shopping online. As educators, it’s our responsibility to equip them with the skills to critically evaluate these technologies. A key aspect of this is understanding ‘explainability’ in AI and machine learning (ML) systems. The explainability&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/teaching-ai-explainability/">Teaching about AI explainability</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.org/blog/teaching-ai-explainability/">https://www.raspberrypi.org/blog/teaching-ai-explainability/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.org/blog/teaching-ai-explainability/">Save to Pocket</a>
+</span>
+
+---
+
+## Trying to be the ideal American family with a small fridge
+
+date: 2024-01-11, from: Dave Rupert blog
+
+<p>I’m coming to the realization when you’re a family with a small fridge you cannot be all these platonic ideals at the same time:</p>
+<ul>
+<li>The buy in bulk Costco family</li>
+<li>The big weekly shopping trip family</li>
+<li>The cook/order extra and eat leftovers family</li>
+<li>The cook extra and freeze it family</li>
+<li>The meal prep family</li>
+<li>The freezer full of frozen smoothie ingredients family</li>
+<li>The buy one-off condiments, sauces, or pickles family</li>
+<li>The keep fresh fruits and veggies on hand family</li>
+<li>The make my kids lunches family</li>
+</ul>
+<p>At best you can be one of these or buy a garage fridge. People with two fridges seem content. Some industrious folks keep a whole deer or half a cow in there. I’m not going that overboard, I need a home for a bag of chicken nuggies, tamales from Arizona, and some ice cream.</p>
+<p>Interesting predicament, small fridges. Instagram Reel-esque lifehacks could save my family some real money, reduce waste, and make food choices more healthy or interesting. I don’t want an extra fridge humming in the garage getting slimy, but I also don’t want to go to the store every other day. Good grief, Charlie Brown.</p>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/01/small-fridge/">https://daverupert.com/2024/01/small-fridge/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/01/small-fridge/">Save to Pocket</a>
+</span>
+
+---
+
+##  Furiosa: A Mad Max Saga 
+
+date: 2024-01-11, updated: 2024-01-11, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/furiosa-a-mad-max-saga">https://kottke.org/24/01/furiosa-a-mad-max-saga</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/furiosa-a-mad-max-saga">Save to Pocket</a>
+</span>
+
+---
+
+## Application Phishing
+
+date: 2024-01-11, updated: 2024-01-11, from: Tom Kellog blog
+
+
+
+<span class="feed-item-link">
+<a href="http://timkellogg.me/blog/2024/01/11/application-phishing">http://timkellogg.me/blog/2024/01/11/application-phishing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://timkellogg.me/blog/2024/01/11/application-phishing">Save to Pocket</a>
+</span>
+
+---
+
+## PGConf.dev 2024 - CFP Closing &amp; Registration Open!
+
+date: 2024-01-11, from: PostgreSQL News
+
+<p><a href="https://2024.pgconf.dev/">PGConf.dev 2024</a> (May 28 - 31, 2024, Vancouver, CA), aka <a href="https://2024.pgconf.dev/">PostgreSQL Development Conference 2024</a>, is an event focused on PostgreSQL development and contributing to the PostgreSQL community. The successor to PGCon, PGConf.dev offers a collaborative and fun environment to discuss future development for PostgreSQL!</p>
+<p>Want to submit a talk, or waiting to the last minute to submit a talk? The last minute is here! The <a href="https://2024.pgconf.dev/cfp/">call for papers</a> is closing very soon! <strong>You can <a href="https://2024.pgconf.dev/cfp/">submit a talk through Jan 15, 2024</a>.</strong></p>
+<p>We're looking for talk submissions focused on PostgreSQL development and contributing to the community: upcoming PostgreSQL features, recently committed work, and community-building focused talks. The audience ranges from new to longtime PostgreSQL contributors, and we expect many talks to be more intermediate to advanced level on technical topics. We will also have introductory talks on how to get started contributing to PostgreSQL!</p>
+<p>Even if you've never presented at a PostgreSQL event before, <a href="mailto:contact@pgconf.dev">we'd love to hear your ideas</a> and can provide help on getting your presentation ready!</p>
+<p>You can submit your talk ideas here:</p>
+<p><a href="https://2024.pgconf.dev/cfp/">https://2024.pgconf.dev/cfp/</a></p>
+<p><a href="https://2024.pgconf.dev/">PGConf.dev 2024</a> is not possible without the <a href="https://2024.pgconf.dev/sponsors/">generous support of our sponsors</a>. PGConf.dev is the premier worldwide gathering of PostgreSQL contributors, and is a chance to collaborate on upcoming PostgreSQL development. Your sponsorship helps directly with the ongoing development of PostgreSQL. Sponsorship info is available on the <a href="https://2024.pgconf.dev/sponsor-levels/">sponsorship</a> page, or you can contact us at <a href="mailto:sponsors@pgconf.dev">sponsors@pgconf.dev</a>:</p>
+<p><a href="https://2024.pgconf.dev/sponsor-levels/">https://2024.pgconf.dev/sponsor-levels/</a></p>
+<p>Can't wait to participate in <a href="https://2024.pgconf.dev/">PGConf.dev 2024</a>? <a href="https://2024.pgconf.dev/registration/">Registration</a> is now open! You can register for the conference here:</p>
+<p><a href="https://2024.pgconf.dev/registration/">https://2024.pgconf.dev/registration/</a></p>
+<p>We look forward to seeing you in Vancouver in May!</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/pgconfdev-2024-cfp-closing-registration-open-2787/">https://www.postgresql.org/about/news/pgconfdev-2024-cfp-closing-registration-open-2787/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pgconfdev-2024-cfp-closing-registration-open-2787/">Save to Pocket</a>
+</span>
+
+---
+
+## pg_dumpbinary v2.14 released
+
+date: 2024-01-11, from: PostgreSQL News
+
+<p><strong>Zurich, Switzerland - January 10th, 2024</strong></p>
+<h2>pg_dumpbinary</h2>
+<p><code>pg_dumpbinary</code> dumps a PostgreSQL database to a binary format. The resulting dump must be restored
+using <code>pg_restorebinary</code>, which is provided.</p>
+<p>pg_dumpbinary 2.14 was released today, it adds two new options and fixes some bugs reported by users since last release.</p>
+<ul>
+<li>Add new option <code>--with-child</code>, when <code>-t</code> or <code>-T</code> options are used, to include or exclude child and partition tables. pg_dump will be used instead with options <code>--table-and-children</code> or <code>--exclude-table-and-children</code>. It requires PostgreSQL &gt;= 16.</li>
+<li>Add <code>-V, --verbose</code> option that lists tables included in the dump.</li>
+<li>Add <code>-A, --attach SNAPSHOT</code> to be able to attach pg_dumpbinary to an existing snapshot instead of creating a dedicated one.</li>
+<li>Fix dump failure when sequences name have spaces.</li>
+</ul>
+<p>A full list of changes and acknowledgments can be found <a href="https://github.com/lzlabs/pg_dumpbinary/releases/tag/v2.14">here</a></p>
+<p><code>pg_dumpbinary</code> is useful when:</p>
+<ul>
+<li>You have bytea that can not be exported by <code>pg_dump</code> because the
+  total size of the escape/hex output exceeds 1Gb.</li>
+<li>You have custom type that stores <code>\0</code> internally in bytea but data
+  are exported by pg_dump as char/varchar/text.  In this case pg_dump
+  truncates all data after the first '\0', resulting in data loss.</li>
+<li>Other cases where a binary output format is useful.</li>
+</ul>
+<p>In these kinds of cases <code>pg_dumpbinary</code> helps by dumping the
+PostgreSQL database in a binary format. In all other cases
+the pg_dump/pg_restore commands distributed with PostgreSQL are
+preferred.</p>
+<p>See the documentation for a more complete description of available
+features.</p>
+<h2>Links &amp; Credits</h2>
+<p>pg_dumpbinary is an Open Source project from <a href="https://www.lzlabs.com/">LzLabs GmbH</a>.  Contributions and ideas are
+welcome. Send your ideas, features requests, or patches using GitHub's tools.</p>
+<p>Links :</p>
+<ul>
+<li>Documentation: <a href="https://github.com/lzlabs/pg_dumpbinary/blob/master/README.md">https://github.com/lzlabs/pg_dumpbinary/blob/master/README.md</a></li>
+<li>Download:  <a href="https://github.com/lzlabs/pg_dumpbinary/releases/">https://github.com/lzlabs/pg_dumpbinary/releases/</a></li>
+<li>Support: use GitHub report tool at <a href="https://github.com/lzlabs/pg_dumpbinary/pg_dumpbinary/issues">https://github.com/lzlabs/pg_dumpbinary/pg_dumpbinary/issues</a></li>
+</ul>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/pg_dumpbinary-v214-released-2784/">https://www.postgresql.org/about/news/pg_dumpbinary-v214-released-2784/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pg_dumpbinary-v214-released-2784/">Save to Pocket</a>
+</span>
+
+---
+
+## Greenmask v0.1.0 Release
+
+date: 2024-01-11, from: PostgreSQL News
+
+<h2>PostgreSQL Dump and Obfuscation Tool</h2>
+<p>We are excited to announce the release of Greenmask v0.1.0, marking the first production-ready version. This release addresses various bug fixes, introduces improvements, and includes documentation refactoring for enhanced clarity.</p>
+<h3>Greenmask overview</h3>
+<h4>Key Features</h4>
+<ul>
+<li>Cross-Platform Support: Developed in Go, Greenmask is free of platform dependencies.</li>
+<li>Type-Safe Database Operations: Ensures data validation and encoding, maintaining integrity.</li>
+<li>Transformation Validation: Guarantees correct and maintainable data transformations.</li>
+<li>Partitioned Table Support: Eases configuration for partitioned tables.</li>
+<li>Stateless and Backward Compatible: Compatible with standard PostgreSQL utilities.</li>
+<li>Parallel Execution: Boosts efficiency in dumping and restoration processes.</li>
+<li>Multiple Storage Options: Offers support for both local and remote storage solutions.</li>
+</ul>
+<h4>Use Cases</h4>
+<ul>
+<li>Perfect for routine backup and restoration tasks.</li>
+<li>Aids in anonymization and data masking for staging environments and analytics.</li>
+</ul>
+<h3>Release notes</h3>
+<h4>Improvements</h4>
+<ul>
+<li>Improved verbosity in custom transformer interaction, accumulating stderr data and forwarding it in batches instead of writing it one by one.</li>
+<li>Added positional arguments for the list-transformers command, allowing specific transformer information retrieval (e.g., <code>greenmask list-transformers RandomDate</code>).</li>
+<li>Added version parameter --version that prints greenmask utility version</li>
+<li>Added Numeric parameters support for Int and Float transformers, with the caveat that in a few cases, it may lead to out-of-range errors.</li>
+</ul>
+<h4>Changes</h4>
+<ul>
+<li>Updated dependencies to newer versions.</li>
+<li>Enhanced the stability of the JSON line interaction protocol by utilizing the stdlib JSON encoder/decoder.</li>
+<li>Modified the method for sending table metadata to custom transformers; now, it is sent via stdin in the first line in JSON format instead of providing it via command arguments.</li>
+<li>Refactored template functions naming.</li>
+<li>Rewritten NoiseDate transformer implementation for improved stability and predictability.</li>
+<li>Changed the default value for the Dict transformer fail_not_matched parameter to true.</li>
+<li>Rewritten Hash transformer, now providing a salt parameter and receiving a base64 encoded salt. If a salt is not provided, it generates one randomly.</li>
+<li>Added validator for NoiseDate and RandomDate transformers for the truncate parameter, issuing a warning if the provided value is invalid.</li>
+<li>Increased verbosity of parameter validation warnings, now properly forwarding warnings to stdout.</li>
+</ul>
+<h4>Fixes</h4>
+<ul>
+<li>Resolved pgx driver connection leakage issue.</li>
+<li>Fixed deletion failure of dumps for S3 storage.</li>
+<li>Corrected cobra autocompletion for the Greenmask utility.</li>
+<li>Fixed NOT NULL constraint validation.</li>
+<li>Addressed JSON API interaction issues that previously caused deadlocks and timeouts.</li>
+<li>Fixed encode-decoding for binary parameters, ensuring accurate forwarding of values to custom transformers.</li>
+<li>Fixed the RandomChoice transformer to correctly marshal and unmarshal values during validation.</li>
+<li>Introduced the Nullable property for the SetNull transformer to enhance NOT NULL constraint validation.</li>
+<li>Resolved text wrapping issues for the validate command.</li>
+<li>Fixed build failures on Windows due to Linux platform dependencies.</li>
+<li>Corrected stdout readline buffer reading during interaction with custom transformers.</li>
+<li>Fixed integration tests.</li>
+</ul>
+<h4>Ecosystem Changes</h4>
+<ul>
+<li>Implemented CI/CD for the entire project.</li>
+<li>Established a user-friendly playground in Docker-compose, including:</li>
+<li>Deployed Minio storage container.</li>
+<li>PostgreSQL container containing both the original database (Adventure Works) and the transformed (empty DB).</li>
+<li>Greenmask container itself.</li>
+<li>Refactored current readme files.</li>
+</ul>
+<h3>Community Participation</h3>
+<p>We highly value feedback and suggestions from the PostgreSQL community. Your insights and testing are crucial for enhancing Greenmask's robustness and utility.</p>
+<h3>Useful Links</h3>
+<ul>
+<li><a href="https://greenmask.io/">Documentation</a></li>
+<li><a href="https://github.com/GreenmaskIO/greenmask/releases/tag/v0.1.0">Release on GitHub</a></li>
+<li><a href="mailto:support@greenmask.io">Email Support</a></li>
+</ul>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/greenmask-v010-release-2785/">https://www.postgresql.org/about/news/greenmask-v010-release-2785/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/greenmask-v010-release-2785/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-10, from: Miguel de Icaza Mastondon feed)
+
+<p>Part 3 of Godot on iPad design post is out:</p><p>This time I discuss the ScenePad:</p><p><a href="https://blog.la-terminal.net/igodot-scenepad/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/igodot-sc</span><span class="invisible">enepad/</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111734364079598046">https://mastodon.social/@Migueldeicaza/111734364079598046</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111734364079598046">Save to Pocket</a>
+</span>
+
+---
+
+## GodotOS: an operating system interface made in Godot
+
+date: 2024-01-10, from: OS News
+
+Welcome to GodotOS, an operating system interface created entirely in Godot! Browse folders, edit text files, view images, play games, and more in one cohesive polished interface that can even be used on the web! GodotOS is more of a toy than a serious project. It&#8217;s meant to push the limits on UI design in Godot while creating a desktop that is minimalist, distraction-free, and aesthetically pleasing. Aside from that, GodotOS is also meant to be a hub for small games and experiences that can easily be bundled in. ↫ GodotOS GitHub page You can try the online version right here, but also download it and use it that way instead.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138263/godotos-an-operating-system-interface-made-in-godot/">https://www.osnews.com/story/138263/godotos-an-operating-system-interface-made-in-godot/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138263/godotos-an-operating-system-interface-made-in-godot/">Save to Pocket</a>
+</span>
+
+---
+
+##  The Rabbit R1 is an AI-powered gadget that&#8217;s like a cross between... 
+
+date: 2024-01-10, updated: 2024-01-10, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043763-the-rabbit-r1-is-an">https://kottke.org/24/01/0043763-the-rabbit-r1-is-an</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043763-the-rabbit-r1-is-an">Save to Pocket</a>
+</span>
+
+---
+
+## Vcc: the Vulkan Clang Compiler
+
+date: 2024-01-10, from: OS News
+
+Vcc &#8211; the Vulkan Clang Compiler, is a proof-of-concept C and C++ compiler for Vulkan leveraging Clang as a front-end, and Shady our own research IR and compiler. Unlike other shading languages, Vcc aims to stick closely to standard C/C++ languages and merely adds a few new intrinsics to cover GPU features. Vcc is similar to CUDA or Metal in this regard, and aims to bring the advantages of standard host languages to Vulkan shaders. ↫ The Vcc website Note that this project is a work in progress, and has several limitations the project&#8217;s open about.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138260/vcc-the-vulkan-clang-compiler/">https://www.osnews.com/story/138260/vcc-the-vulkan-clang-compiler/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138260/vcc-the-vulkan-clang-compiler/">Save to Pocket</a>
+</span>
+
+---
+
+## The biggest smallest PNG
+
+date: 2024-01-10, from: OS News
+
+A few days ago, my former coworker Evan Hahn posted “The world’s smallest PNG”, an article walking through the minimum required elements of the PNG image format. He gave away the answer in the very first line:  However (spoilers!) he later points out that there are several valid 67-byte PNGs, such as a 1&#215;1 all-white image, or an 8&#215;1 all-black image, or a 1&#215;1 gray image. All of these exploit the fact that you can’t have less than one byte of pixel data, so you might as well use all eight bits of it. Clever! However again…are we really limited to one byte of pixel data? ↫ Jordan Rose You know where this is going.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138257/the-biggest-smallest-png/">https://www.osnews.com/story/138257/the-biggest-smallest-png/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138257/the-biggest-smallest-png/">Save to Pocket</a>
+</span>
+
+---
+
+## Could OpenAI’s nonprofit be forced to dissolve?
+
+date: 2024-01-10, from: Gary Marcus blog
+
+Big news today, via Stephanie Palazzolo at The Information: the group Public Citizen yesterday petitioned the state California to reevaluate OpenAI&#8217;s nonprofit status. As Robert Weissman, the President of Public Citizen put it to me on a phone call, the OpenAI drama seemed in part to be a showdown between for profit and nonprofit aspects of the organization; it is not clear that organization as whole has remained true to its nonprofit mission. &#8220;I don&#8217;t think it&#8217;s a radical argument we are making. There was a competition here and the faction that won wanted to pursue profit.&#8221;
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/could-openais-nonprofit-be-forced">https://garymarcus.substack.com/p/could-openais-nonprofit-be-forced</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/could-openais-nonprofit-be-forced">Save to Pocket</a>
+</span>
+
+---
+
+##  Farm-to-Table Prison Food 
+
+date: 2024-01-10, updated: 2024-01-10, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/farm-to-table-prison-food">https://kottke.org/24/01/farm-to-table-prison-food</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/farm-to-table-prison-food">Save to Pocket</a>
+</span>
+
+---
+
+## Absolute Immunity Is Anathema to America
+
+date: 2024-01-10, updated: 2024-01-10, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/01/10/absolute-immunity-is-anathema-to-america/">https://onefoottsunami.com/2024/01/10/absolute-immunity-is-anathema-to-america/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/01/10/absolute-immunity-is-anathema-to-america/">Save to Pocket</a>
+</span>
+
+---
+
+## My new superpower (FPGAs)
+
+date: 2024-01-10, from: Tilde.news
+
+<p><a href="https://tilde.news/s/ngeugs/my_new_superpower_fpgas">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://zeromips.org/posts/2024-01-08-superpower/">https://zeromips.org/posts/2024-01-08-superpower/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://zeromips.org/posts/2024-01-08-superpower/">Save to Pocket</a>
+</span>
+
+---
+
+## Fixing Continuity Camera
+
+date: 2024-01-10, from: Michael Tsai
+
+Nil&#233;ane: Continuity Camera became a feature that I need to work reliably. Sadly, it doesn&#8217;t. Half of the time, apps like Zoom and Discord on macOS could not see the iPhone SE in the list of available cameras. This meant I had to fetch a Lightning cable to manually connect the iPhone. If I was [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/10/fixing-continuity-camera/">https://mjtsai.com/blog/2024/01/10/fixing-continuity-camera/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/10/fixing-continuity-camera/">Save to Pocket</a>
+</span>
+
+---
+
+## Mac App Sandboxing Interferes With Drag & Drop
+
+date: 2024-01-10, from: Michael Tsai
+
+Wade Tregaskis: Merely inspecting the UTIs in the pasteboard is fine &#x2013; that doesn&#8217;t interfere with anything. So if all you care about is if any kind of file (or folder) is being dragged, you&#8217;re set. But if you want to only react to some types of files or folders, you need to know more. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/10/mac-app-sandboxing-interferes-with-drag-drop/">https://mjtsai.com/blog/2024/01/10/mac-app-sandboxing-interferes-with-drag-drop/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/10/mac-app-sandboxing-interferes-with-drag-drop/">Save to Pocket</a>
+</span>
+
+---
+
+## Apple’s Five App Stores
+
+date: 2024-01-10, from: Michael Tsai
+
+Manish Singh and Natasha Lomas (via Slashdot): The iPhone-maker has updated the language pertaining to its risk factors in the fiscal year 2023 Form 10-K filing (PDF), with the revised text presenting a shift from the company&#8217;s previous position, indicating a more definitive stance on potential modifications to the App Store policies.Apple said that future [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/10/apples-five-app-stores/">https://mjtsai.com/blog/2024/01/10/apples-five-app-stores/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/10/apples-five-app-stores/">Save to Pocket</a>
+</span>
+
+---
+
+## Google Settles Incognito Lawsuit
+
+date: 2024-01-10, from: Michael Tsai
+
+Simon Sharwood: A US court filing [PDF] dated December 26 records that Google and the plaintiffs have agreed to a term sheet that, if approved by the judge, will conclude the matter. Those terms of the proposed settlement weren&#8217;t disclosed. But the parties seem sufficiently confident a deal will be done that another filing vacates [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/10/google-settles-incognito-lawsuit/">https://mjtsai.com/blog/2024/01/10/google-settles-incognito-lawsuit/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/10/google-settles-incognito-lawsuit/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-10, from: Dave Winer's Scripting News)
+
+It would be better if journalists did not gravitate to a Facebook-owned Twitter clone.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/10.html#a201705">http://scripting.com/2024/01/10.html#a201705</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/10.html#a201705">Save to Pocket</a>
+</span>
+
+---
+
+##  Public Libraries Reveal the Most Borrowed Books From 2023. If you look... 
+
+date: 2024-01-10, updated: 2024-01-10, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043757-public-libraries-reveal-t">https://kottke.org/24/01/0043757-public-libraries-reveal-t</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043757-public-libraries-reveal-t">Save to Pocket</a>
+</span>
+
+---
+
+##  Origin, a Film by Ava DuVernay About Isabel Wilkerson 
+
+date: 2024-01-10, updated: 2024-01-10, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/origin-a-film-by-ava-duvernay-about-isabel-wilkerson">https://kottke.org/24/01/origin-a-film-by-ava-duvernay-about-isabel-wilkerson</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/origin-a-film-by-ava-duvernay-about-isabel-wilkerson">Save to Pocket</a>
+</span>
+
+---
+
+## The Houston Landing’s newsroom is “blindsided” by the firing of its top editor and a star reporter
+
+date: 2024-01-10, from: Nieman Journalism Lab
+
+Before the Houston Landing even had a name, it was already powered by one of the biggest investments in any single nonprofit local news startup. A full year before launch, the project had secured $20 million in pledged funding from a coalition of local and national backers. This week, newsroom staffers were shocked when Mizanur...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/the-houston-landings-newsroom-is-blindsided-by-the-firing-of-its-top-editor-and-a-star-reporter/">https://www.niemanlab.org/2024/01/the-houston-landings-newsroom-is-blindsided-by-the-firing-of-its-top-editor-and-a-star-reporter/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/the-houston-landings-newsroom-is-blindsided-by-the-firing-of-its-top-editor-and-a-star-reporter/">Save to Pocket</a>
+</span>
+
+---
+
+##  Shout out to my trusty rice cooker, which patiently keeps my rice... 
+
+date: 2024-01-10, updated: 2024-01-10, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043754-shout-out-to-my-trusty">https://kottke.org/24/01/0043754-shout-out-to-my-trusty</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043754-shout-out-to-my-trusty">Save to Pocket</a>
+</span>
+
+---
+
+## Accessible Fart Machines
+
+date: 2024-01-10, from: Dave Rupert blog
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-We84cxubCY?si=W6lNZsBPiogmwHPy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p>I stumbled across this TED talk by Holly Cohen about building accessible fart machines with Arduino. As someone who loves to tell jokes – and particularly loves a good fart joke – the phrase “they were the ones telling the jokes” makes me impossibly happy.</p>
+<p>When I was a teacher in Japan I taught two young sisters with cerebral palsy. Both girls could neither move nor talk but they loved to smile and laugh at a good joke or goof about their teachers – like any other junior high school kid. The highlight of my week was hanging out with those girls, I know they would have loved their own fart machine.</p>
+<p>In 2018 (two years after this talk), Microsoft launched their revolutionary $99 <a href="https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller">Xbox Adaptive Controller</a> which is helping kids with motor control difficulties play video games. It’s like the adaptive tech shown at the end of Cohen’s talk, but way more professional. It must have cost a pretty penny to design, research, and productize this device. So what’s the ROI on creating an accessible interface? It doesn’t fuckin’ matter. That’s what. It’s about bringing people in on the fun.</p>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/01/accessible-fart-machines/">https://daverupert.com/2024/01/accessible-fart-machines/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/01/accessible-fart-machines/">Save to Pocket</a>
+</span>
+
+---
+
+##  The Truth About Airplane Safety 
+
+date: 2024-01-10, updated: 2024-01-10, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/the-truth-about-airplane-safety">https://kottke.org/24/01/the-truth-about-airplane-safety</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/the-truth-about-airplane-safety">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-10, from: Miguel de Icaza Mastondon feed)
+
+<p>If this was a software product, the answer would be “we don’t have resources to test every door plug and airplane bolt.   We just have to send to production and hope to fix the reported issues quickly”</p><p>Also, Israel is committing genocide.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111732906068152240">https://mastodon.social/@Migueldeicaza/111732906068152240</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111732906068152240">Save to Pocket</a>
+</span>
+
+---
+
+## The Allegheny Family Screening Tool’s Overestimation of Utility and Risk
+
+date: 2024-01-10, from: Care
+
+
+                <p>The ACLU gained access to data from Allegheny Family Screening Tool (the pilot for predictive risk modeling in the family policing context) and examines how utility and risk were unduly inflated by the county.</p>
+
+            
+
+<span class="feed-item-link">
+<a href="https://logicmag.io/policy/allegheny-family-screening-tools-overestimation-of-utility-and-risk">https://logicmag.io/policy/allegheny-family-screening-tools-overestimation-of-utility-and-risk</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/policy/allegheny-family-screening-tools-overestimation-of-utility-and-risk">Save to Pocket</a>
+</span>
+
+---
+
+##  First results are in: 2023 temperatures were stunningly warm. &#8220;[The EU&#8217;s Copernicus... 
+
+date: 2024-01-10, updated: 2024-01-10, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043756-first-results-are-in-2023">https://kottke.org/24/01/0043756-first-results-are-in-2023</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043756-first-results-are-in-2023">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-10, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/03/18/accordionGuy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">For a guy who likes to write, I am probably not a lot better about writing docs than most other developers. We're supposed to leave a good trail behind us, but I've only managed to do that in certain ways. For example, I have standardized on a <a href="https://github.com/scripting/feedland/blob/main/worknotes.md">worknotes.md</a> file for each of my projects and I'm pretty good about updating it. I also publish the OPML source of my code, which contains a lot more in the way of internal docs than the JavaScript files I publish alongside them, simply because the outline format lends itself to inline docs, and I have been doing that systematically for at least thirty years. And I now include the OPML source in most projects in a file called <a href="https://github.com/scripting/pagePark/blob/master/source.opml">source.opml</a>. There's a big comment at the top of each of the files at the top that explains. If you're interested, work backward through the <a href="https://github.com/scripting?tab=repositories">directory</a> of my repos.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/10.html#a165431">http://scripting.com/2024/01/10.html#a165431</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/10.html#a165431">Save to Pocket</a>
+</span>
 
 ---
 
@@ -75,17 +1139,16 @@ date: 2024-01-10, from: Dave Winer's Scripting News
 
 <p>I spend a lot of time thinking about words, and when I hear a phrase that seems wrong to me, I'll work on it until I figure out why it seems wrong and what would be a better way to express the actual idea. </p>
 <p>That said, I don't think Trump tried to "overturn an election."</p>
-<p>More accurately, he tried to overthrow the government. </p>
+<p>More accurately, he tried to "overthrow the government."</p>
 <p>Why I say that:</p>
 <ul>
 <li>Overturn could be something you do legitimately. If you are convicted of a crime, you could appeal it, be exonerated, and the correct verb would be overturn. Overturn doesn't convey the illegitimacy of what Trump tried to do. The criminality of it. The abhorrence of it, by American values. He tried to "overturn" our most sacred ritual, the transfer of power from one person to another, based on the vote of the people. Overthrow is a much better word for what was done. </li>
-<li>But can you overthrow an election and is that what Trump tried to do? No and no. When you commit a crime, as he surely did, say for example killing someone criminally, we don't say they tried to illegally use a weapon, that's too technical, we say they're "accused of murder." We focus on the consequences. There are lots of ways to illegally use a weapon, what matters is the intended result.</li>
-<li>Does the United States always have a government? I'd argue yes it does. There is always exactly one president, at all times, in all circumstances. It has at times been <a href="https://www.youtube.com/watch?v=zUKW0fL-OqY">called</a> into question.</li>
-<li>On January 20, 2021, we had an actual peaceful transfer of power when Joe Biden <a href="https://www.youtube.com/watch?v=ZwvbQR887W0">took the oath</a>, but the transfer actually took place before he took the oath, at 12PM exactly. But you can also look at the government as a continuous thing, the only difference is there is a new person occupying the office of president. Same government, the one defined by the Constitution. </li>
-<li>So on January 6, 2021, the then-president Donald Trump, tried to destroy the government, replacing it with a new government, one that doesn't follow the Constitution. That's the thing to focus on. He used a weapon, akin to using a gun to try to murder someone, but the crime isn't trying to overturn an election, it's the intended consequence of what he did that matters. </li>
+<li>When you commit a crime, say for example killing someone, we don't say they tried to illegally use a weapon, that's too technical, we say they're "accused of murder." We focus on the consequences. There are lots of ways to illegally use a weapon, what matters is the intended result.</li>
+<li>There is always exactly one president, at all times, in all circumstances. It's spelled out in the <a href="https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution">20th Amendment</a>.</li>
+<li>On January 20, 2021, we had an actual peaceful transfer of power when Joe Biden <a href="https://www.youtube.com/watch?v=ZwvbQR887W0">took the oath</a>, but the transfer actually took place before he took the oath, at 12PM exactly. </li>
+<li>You can also look at the government as a continuous thing, the only difference is there is a new person occupying the office of president. Same government, the one defined by the Constitution. Always on. </li>
+<li>So on January 6, 2021, the then-president Donald Trump, tried to destroy the government, replacing it with a new government, one that doesn't follow the Constitution.  </li>
 </ul>
-<p>PS: You could say he was guilty of trying to destroy the government, but our language has a special word for that, it's overthrow. Thus Trump tried to overthrow the government of the United States. </p>
-<p>PPS: I used ChatGPT to <a href="https://chat.openai.com/share/2fcd3869-181c-4a7b-b4cd-672835f51562">confirm</a> that the presidency <a href="https://en.wikipedia.org/wiki/Twentieth_Amendment_to_the_United_States_Constitution">transfers</a> at exactly 12PM on Inauguration Day. There is no time that there is not a president. </p>
 
 
 <span class="feed-item-link">

@@ -1,11 +1,120 @@
 ---
 title: columns 2024.02
-updated: 2024-01-10 08:42:52
+updated: 2024-01-11 14:45:08
 ---
 
 # columns 2024.02
 
-(date: 2024-01-10 08:42:52)
+(date: 2024-01-11 14:45:08)
+
+---
+
+## ‘Trump Has Taken Presidential Immunity to Its Illogical Extreme’
+
+date: 2024-01-11, updated: 2024-01-11, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.theatlantic.com/ideas/archive/2024/01/trump-presidential-immunity-trial/677068/">https://www.theatlantic.com/ideas/archive/2024/01/trump-presidential-immunity-trial/677068/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theatlantic.com/ideas/archive/2024/01/trump-presidential-immunity-trial/677068/">Save to Pocket</a>
+</span>
+
+---
+
+## NanoRaptor’s Apple Pascal Poster Recreation
+
+date: 2024-01-11, updated: 2024-01-11, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://bitbang.social/@NanoRaptor/111699576526610669">https://bitbang.social/@NanoRaptor/111699576526610669</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bitbang.social/@NanoRaptor/111699576526610669">Save to Pocket</a>
+</span>
+
+---
+
+## Niklaus Wirth, Titan of Computer Science and Creator of Pascal, Dies at 89
+
+date: 2024-01-11, updated: 2024-01-11, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.theregister.com/2024/01/04/niklaus_wirth_obituary/">https://www.theregister.com/2024/01/04/niklaus_wirth_obituary/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theregister.com/2024/01/04/niklaus_wirth_obituary/">Save to Pocket</a>
+</span>
+
+---
+
+## [Sponsor] It’s Meh
+
+date: 2024-01-11, updated: 2024-01-11, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://meh.com/?utm_source=daringfireball&utm_medium=sponsor&utm_campaign=dontwant">https://meh.com/?utm_source=daringfireball&utm_medium=sponsor&utm_campaign=dontwant</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://meh.com/?utm_source=daringfireball&utm_medium=sponsor&utm_campaign=dontwant">Save to Pocket</a>
+</span>
+
+---
+
+## Pharmacies Giving Patient Records to Police without Warrants
+
+date: 2024-01-11, updated: 2024-01-05, from: Bruce Schneier blog
+
+<p>Add pharmacies to the list of industries that are giving private data to the police <a href="https://therecord.media/congressional-report-pharmacies-give-patient-records-law-enforcement-no-warrants">without a warrant</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/pharmacies-giving-patient-records-to-police-without-warrants.html">https://www.schneier.com/blog/archives/2024/01/pharmacies-giving-patient-records-to-police-without-warrants.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/pharmacies-giving-patient-records-to-police-without-warrants.html">Save to Pocket</a>
+</span>
+
+---
+
+## Republican Politics In Iowa, Served Chilled
+
+date: 2024-01-11, from: Dan Rather's Steady
+
+I love politics and I love this country, but I don&#8217;t love cold weather. To this Texan, there&#8217;s cold, and there&#8217;s Iowa cold. For me, it&#8217;s the wind, the bitter wind blowing across the plains that just cuts you. I&#8217;ve spent my fair share of Januaries in the Hawkeye State reporting on the Iowa caucuses, and I can safely say there is no such thing as too much clothing. But stand by, because forecasters say this coming Monday may be the coldest ever for a caucus, with temperatures predicted to be below zero &#8212; all for an event that requires Iowans to leave the warm confines of their homes to participate in a presidential nominating contest.
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/republican-politics-in-iowa-served">https://steady.substack.com/p/republican-politics-in-iowa-served</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/republican-politics-in-iowa-served">Save to Pocket</a>
+</span>
+
+---
+
+## What Trump’s lawyer was really advocating 
+
+date: 2024-01-11, from: Robert Reich's blog
+
+America is not the Weimar Republic in its final days and Trump is not Hitler, but &#8230;
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/the-enabling-act-of-1933">https://robertreich.substack.com/p/the-enabling-act-of-1933</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/the-enabling-act-of-1933">Save to Pocket</a>
+</span>
+
+---
+
+## 13-Year-Old Prodigy Willis ‘Blue Scuti’ Gibson Is First to Beat NES Tetris
+
+date: 2024-01-10, updated: 2024-01-11, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.404media.co/13-year-old-becomes-first-person-to-ever-beat-tetris/">https://www.404media.co/13-year-old-becomes-first-person-to-ever-beat-tetris/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.404media.co/13-year-old-becomes-first-person-to-ever-beat-tetris/">Save to Pocket</a>
+</span>
+
+---
+
+## Paku Paku — Pac-Man in One Dimension
+
+date: 2024-01-10, updated: 2024-01-11, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://abagames.github.io/crisp-game-lib-11-games/?pakupaku">https://abagames.github.io/crisp-game-lib-11-games/?pakupaku</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://abagames.github.io/crisp-game-lib-11-games/?pakupaku">Save to Pocket</a>
+</span>
 
 ---
 
@@ -316,7 +425,7 @@ Trump and his GOP lackeys are fueling dangerous nativism
 
 ## ★ Heyja Vu: App Store Rejects 37signals’s New Hey Calendar App
 
-date: 2024-01-09, updated: 2024-01-09, from: Daring Fireball
+date: 2024-01-09, updated: 2024-01-11, from: Daring Fireball
 
 I just don’t get it. Apple has nothing to gain by this — *nothing, not a cent — but a lot to lose.
 
@@ -364,7 +473,7 @@ The rumor machine can finally turn itself off — Apple has announced that its s
 
 ## Finally, Our First ‘Finally’ of the Year Nominee for 2024
 
-date: 2024-01-08, updated: 2024-01-08, from: Daring Fireball
+date: 2024-01-08, updated: 2024-01-10, from: Daring Fireball
 
 
 

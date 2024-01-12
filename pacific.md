@@ -1,11 +1,352 @@
 ---
 title: pacific 2024.02
-updated: 2024-01-10 08:42:52
+updated: 2024-01-11 14:45:08
 ---
 
 # pacific 2024.02
 
-(date: 2024-01-10 08:42:52)
+(date: 2024-01-11 14:45:08)
+
+---
+
+## Emerging landscape architecture student garners national recognition
+
+date: 2024-01-11, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Jade Rhodes emphasizes the need to reconnect with land, space and plants to heal communities affected by urbanization.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/11/landscape-architecture-jade-rhodes/">Emerging landscape architecture student garners national recognition</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/11/landscape-architecture-jade-rhodes/">https://www.hawaii.edu/news/2024/01/11/landscape-architecture-jade-rhodes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/11/landscape-architecture-jade-rhodes/">Save to Pocket</a>
+</span>
+
+---
+
+##  A closer look at the politically correct view of climate change
+
+date: 2024-01-11, from: Pacific Island Times
+
+While starting to write this article, a unique prevarication came through the internet. It said, "Years ago families had three four, five...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/a-closer-look-at-the-politically-correct-view-of-climate-change">https://www.pacificislandtimes.com/post/a-closer-look-at-the-politically-correct-view-of-climate-change</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/a-closer-look-at-the-politically-correct-view-of-climate-change">Save to Pocket</a>
+</span>
+
+---
+
+## Why aren’t we healthy?
+
+date: 2024-01-11, from: Marshal Islands Journal
+
+<p>Journal 1/9/1987 P1 MIATLP launches final assault for ‘nuke money’Attorneys representing Marshallese affected by nuclear testing launched a broadside attack on the United States and Marshall Islands governments position that the Compact of Free Association provides “just compensation” for the taking of lands during the 1940s and 1950s, and contend that the US cannot cut [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/why-arent-we-healthy/">Why aren&#8217;t we healthy?</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/why-arent-we-healthy/">https://marshallislandsjournal.com/why-arent-we-healthy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/why-arent-we-healthy/">Save to Pocket</a>
+</span>
+
+---
+
+## Public invited to meet Kauaʻi CC chancellor finalists
+
+date: 2024-01-11, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The four finalists for <span aria-label="Kauai">Kaua&#699;i</span> <abbr>CC</abbr> chancellor will have public forums January 25 and 26.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/11/public-invited-to-meet-kaua%ca%bbi-cc-chancellor-finalists/">Public invited to meet Kauaʻi <abbr>CC</abbr> chancellor finalists</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/11/public-invited-to-meet-kaua%ca%bbi-cc-chancellor-finalists/">https://www.hawaii.edu/news/2024/01/11/public-invited-to-meet-kaua%ca%bbi-cc-chancellor-finalists/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/11/public-invited-to-meet-kaua%ca%bbi-cc-chancellor-finalists/">Save to Pocket</a>
+</span>
+
+---
+
+## Pioneering legacy in gerontology, social justice preserved
+
+date: 2024-01-11, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Professor Emerita Colette Browne’s collection in the University Archives captured her contributions from 1980 to 2020.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/11/colette-brown-papers-preserved/">Pioneering legacy in gerontology, social justice preserved</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/11/colette-brown-papers-preserved/">https://www.hawaii.edu/news/2024/01/11/colette-brown-papers-preserved/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/11/colette-brown-papers-preserved/">Save to Pocket</a>
+</span>
+
+---
+
+## Self-Portrait with Nissan and Failed Romance
+
+date: 2024-01-11, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Connor Watkins-Xu I’m fingertips interlocked on the console like an oyster. What is our pearl? I’m an embrace that halts your heart and I hope to be the vessels of wine-aged love. I’m long stares and stolen glances, the &#8230; <a href="https://hawaiipacificreview.org/2024/01/11/self-portrait-with-nissan-and-failed-romance/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://hawaiipacificreview.org/2024/01/11/self-portrait-with-nissan-and-failed-romance/">https://hawaiipacificreview.org/2024/01/11/self-portrait-with-nissan-and-failed-romance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://hawaiipacificreview.org/2024/01/11/self-portrait-with-nissan-and-failed-romance/">Save to Pocket</a>
+</span>
+
+---
+
+## Let's have an honest debate
+
+date: 2024-01-11, updated: 2024-01-11, from: Marianas Variety
+
+The following editorial was submitted for publication by the office of Rep. Marissa Flores.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/views/letters_to_editor/lets-have-an-honest-debate/article_f07e50ee-b03d-11ee-a9b9-a37bf4967f98.html">https://www.mvariety.com/views/letters_to_editor/lets-have-an-honest-debate/article_f07e50ee-b03d-11ee-a9b9-a37bf4967f98.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/views/letters_to_editor/lets-have-an-honest-debate/article_f07e50ee-b03d-11ee-a9b9-a37bf4967f98.html">Save to Pocket</a>
+</span>
+
+---
+
+## Victor Wembanyama's first triple-double helps Spurs rout Pistons
+
+date: 2024-01-11, updated: 2024-01-11, from: Marianas Variety
+
+(Reuters) — Victor Wembanyama recorded the second-fastest triple-double in NBA history and the San Antonio Spurs rolled past the host Detroit Pistons 130-108 on Wednesday night.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/victor-wembanyamas-first-triple-double-helps-spurs-rout-pistons/article_8afc803c-b084-11ee-9a17-034889908762.html">https://www.mvariety.com/sports/nationalsports/victor-wembanyamas-first-triple-double-helps-spurs-rout-pistons/article_8afc803c-b084-11ee-9a17-034889908762.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/victor-wembanyamas-first-triple-double-helps-spurs-rout-pistons/article_8afc803c-b084-11ee-9a17-034889908762.html">Save to Pocket</a>
+</span>
+
+---
+
+## Pete Carroll is out as head coach of the Seattle Seahawks after 14 seasons
+
+date: 2024-01-11, updated: 2024-01-11, from: Marianas Variety
+
+RENTON, Wash. (AP) — Pete Carroll’s mantra was “always compete,” — it was the title of his book, after all.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/pete-carroll-is-out-as-head-coach-of-the-seattle-seahawks-after-14-seasons/article_e6ce055c-b084-11ee-96e0-e7fa21c29a5e.html">https://www.mvariety.com/sports/nationalsports/pete-carroll-is-out-as-head-coach-of-the-seattle-seahawks-after-14-seasons/article_e6ce055c-b084-11ee-96e0-e7fa21c29a5e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/pete-carroll-is-out-as-head-coach-of-the-seattle-seahawks-after-14-seasons/article_e6ce055c-b084-11ee-96e0-e7fa21c29a5e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Gold's Gym Saipan welcomes Michelle Masga as new assistant manager
+
+date: 2024-01-11, updated: 2024-01-11, from: Marianas Variety
+
+GOLD'S Gym Saipan is thrilled to announce the appointment of Michelle Masga as the new assistant manager. With an impressive history at Gold's Gym, Michelle brings a wealth of experience, dedication, and passion for fitness to her new role.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/golds-gym-saipan-welcomes-michelle-masga-as-new-assistant-manager/article_cd6688f6-b047-11ee-bf28-1bc0dd23ea89.html">https://www.mvariety.com/news/community_bulletins/golds-gym-saipan-welcomes-michelle-masga-as-new-assistant-manager/article_cd6688f6-b047-11ee-bf28-1bc0dd23ea89.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/golds-gym-saipan-welcomes-michelle-masga-as-new-assistant-manager/article_cd6688f6-b047-11ee-bf28-1bc0dd23ea89.html">Save to Pocket</a>
+</span>
+
+---
+
+## Defendant in sexual abuse of minor case passes away
+
+date: 2024-01-11, updated: 2024-01-11, from: Marianas Variety
+
+THE Superior Court has dismissed the charges against David Ayuyu Atalig, 64, after he was found “unresponsive” at his house.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/defendant-in-sexual-abuse-of-minor-case-passes-away/article_7fc6e822-b040-11ee-b744-6fe8e3a4b84f.html">https://www.mvariety.com/news/local/defendant-in-sexual-abuse-of-minor-case-passes-away/article_7fc6e822-b040-11ee-b744-6fe8e3a4b84f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/defendant-in-sexual-abuse-of-minor-case-passes-away/article_7fc6e822-b040-11ee-b744-6fe8e3a4b84f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Court finds probable cause to charge Joseph Lee
+
+date: 2024-01-11, updated: 2024-01-11, from: Marianas Variety
+
+SUPERIOR Court Associate Judge Joseph N. Camacho found probable cause to charge Joseph Lee with breaking into a house on Christmas Day.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/court-finds-probable-cause-to-charge-joseph-lee/article_1a9844ea-b02d-11ee-b71e-331a2f9e42de.html">https://www.mvariety.com/news/local/court-finds-probable-cause-to-charge-joseph-lee/article_1a9844ea-b02d-11ee-b71e-331a2f9e42de.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/court-finds-probable-cause-to-charge-joseph-lee/article_1a9844ea-b02d-11ee-b71e-331a2f9e42de.html">Save to Pocket</a>
+</span>
+
+---
+
+## Dodgers pummel Marlins, 16-3
+
+date: 2024-01-11, updated: 2024-01-11, from: Marianas Variety
+
+THE Dodgers clobbered the Marlins, 16-3, in a 2023 SBL Masters League game at the Francisco “Tan Ko” Palacios Baseball Field on Wednesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/dodgers-pummel-marlins-16-3/article_e04e83de-b064-11ee-ac4a-4f3f34e58be7.html">https://www.mvariety.com/sports/localsports/dodgers-pummel-marlins-16-3/article_e04e83de-b064-11ee-ac4a-4f3f34e58be7.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/dodgers-pummel-marlins-16-3/article_e04e83de-b064-11ee-ac4a-4f3f34e58be7.html">Save to Pocket</a>
+</span>
+
+---
+
+## NMI student lands spot on UH Dean's List
+
+date: 2024-01-11, updated: 2024-01-11, from: Marianas Variety
+
+MARIANAS High School graduate Anthony Jacob “Jakey” Camacho Deleon Guerrero has been named to the University of Hawaii Mānoa's Dean's List for the fall semester of 2023.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/nmi-student-lands-spot-on-uh-deans-list/article_7ae10158-b054-11ee-87f4-e37091d03fe8.html">https://www.mvariety.com/news/local/nmi-student-lands-spot-on-uh-deans-list/article_7ae10158-b054-11ee-87f4-e37091d03fe8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/nmi-student-lands-spot-on-uh-deans-list/article_7ae10158-b054-11ee-87f4-e37091d03fe8.html">Save to Pocket</a>
+</span>
+
+---
+
+## RB looking for ways to alleviate traffic on Beach Road
+
+date: 2024-01-11, updated: 2024-01-11, from: Marianas Variety
+
+SAIPAN Mayor RB Camacho would like to see a portion of Texas Road, which connects Chalan Kanoa to Oleai, made available to traffic in order to alleviate congestion on Beach Road caused by ongoing roadway construction.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/rb-looking-for-ways-to-alleviate-traffic-on-beach-road/article_187616d2-b05b-11ee-bd48-1fc6702c17c4.html">https://www.mvariety.com/news/local/rb-looking-for-ways-to-alleviate-traffic-on-beach-road/article_187616d2-b05b-11ee-bd48-1fc6702c17c4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/rb-looking-for-ways-to-alleviate-traffic-on-beach-road/article_187616d2-b05b-11ee-bd48-1fc6702c17c4.html">Save to Pocket</a>
+</span>
+
+---
+
+## New PSS chief shares vision for education, economy
+
+date: 2024-01-11, updated: 2024-01-11, from: Marianas Variety
+
+THE new education commissioner, Lawrence F. Camacho, Ed.D, envisions a tri-board initiative that he believes will help boost current efforts to rebuild the local economy.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/new-pss-chief-shares-vision-for-education-economy/article_3d9e2010-b04e-11ee-891a-138eddfd74be.html">https://www.mvariety.com/news/local/new-pss-chief-shares-vision-for-education-economy/article_3d9e2010-b04e-11ee-891a-138eddfd74be.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/new-pss-chief-shares-vision-for-education-economy/article_3d9e2010-b04e-11ee-891a-138eddfd74be.html">Save to Pocket</a>
+</span>
+
+---
+
+## Ladie ready for 3rd term
+
+date: 2024-01-11, from: Marshal Islands Journal
+
+<p>WILMER JOEL Majuro Mayor Ladie Jack declared at the local government inauguration Monday at the ICC that it is time to unite to improve the livelihoods of the people of Majuro. “You are in my heart, people of Majuro; you are dear to me,” he said. “We are ready to serve you.” Mayor Jack said [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/ladie-ready-for-3rd-term/">Ladie ready for 3rd term</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/ladie-ready-for-3rd-term/">https://marshallislandsjournal.com/ladie-ready-for-3rd-term/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/ladie-ready-for-3rd-term/">Save to Pocket</a>
+</span>
+
+---
+
+## President Hilda confirms Cabinet
+
+date: 2024-01-11, from: Marshal Islands Journal
+
+<p>The new Cabinet lineup was confirmed Monday. It features a mix of Nitijela Members, and demonstrates how President Hilda Heine and her core supporters reached out to newly elected Members as well as those from islands that would normally be considered aligned with the Kabua traditional leadership in order to form the new government. Members [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/president-hilda-confirms-cabinet/">President Hilda confirms Cabinet</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/president-hilda-confirms-cabinet/">https://marshallislandsjournal.com/president-hilda-confirms-cabinet/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/president-hilda-confirms-cabinet/">Save to Pocket</a>
+</span>
+
+---
+
+## The University of the South Pacific and Shanghai Ocean University formalise partnership
+
+date: 2024-01-11, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) and Shanghai Ocean University (SHOU) on Tuesday exchanged...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/the-university-of-the-south-pacific-and-shanghai-ocean-university-formalise-partnership/">The University of the South Pacific and Shanghai Ocean University formalise partnership</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/the-university-of-the-south-pacific-and-shanghai-ocean-university-formalise-partnership/">https://www.usp.ac.fj/news/the-university-of-the-south-pacific-and-shanghai-ocean-university-formalise-partnership/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/the-university-of-the-south-pacific-and-shanghai-ocean-university-formalise-partnership/">Save to Pocket</a>
+</span>
+
+---
+
+## Majuro’s power crisis continues
+
+date: 2024-01-11, from: Marshal Islands Journal
+
+<p>The tenuous condition of the Marshalls Energy Company’s power plants was on full display during the last days of 2023 and last week. Unscheduled power outages have been repeatedly happening in Majuro, and power rationing went into effect late last week as MEC power plant staff struggled to repair one of the large engines that [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/majuros-power-crisis-continues/">Majuro’s power crisis continues</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/majuros-power-crisis-continues/">https://marshallislandsjournal.com/majuros-power-crisis-continues/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/majuros-power-crisis-continues/">Save to Pocket</a>
+</span>
+
+---
+
+## Amidst Maui tragedy freshman embarks on college career
+
+date: 2024-01-11, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">5</span> <span class="rt-label rt-postfix">minutes</span></span> Angela Joy Almeron is a Lahaina resident and <abbr>UH</abbr> Mānoa information and computer sciences student.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/10/maui-tragedy-freshman-embarks-on-college/">Amidst Maui tragedy freshman embarks on college career</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/10/maui-tragedy-freshman-embarks-on-college/">https://www.hawaii.edu/news/2024/01/10/maui-tragedy-freshman-embarks-on-college/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/10/maui-tragedy-freshman-embarks-on-college/">Save to Pocket</a>
+</span>
+
+---
+
+## Preview of the 2024  Hawaiʻi legislative session
+
+date: 2024-01-11, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/preview-of-the-2024-hawai-i-legislative-session/article_d5cb663e-b014-11ee-ae03-6395c4240f0d.html">https://www.manoanow.org/kaleo/preview-of-the-2024-hawai-i-legislative-session/article_d5cb663e-b014-11ee-ae03-6395c4240f0d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/preview-of-the-2024-hawai-i-legislative-session/article_d5cb663e-b014-11ee-ae03-6395c4240f0d.html">Save to Pocket</a>
+</span>
+
+---
+
+##  Bespoken compacts among equals or between vassals and the overlord?
+
+date: 2024-01-10, from: Pacific Island Times
+
+As we await the passage of the Compacts of Free Association, there are always underlying perceptions and avenues of thought that frame...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/bespoken-compacts-among-equals-or-between-vassals-and-the-overlord">https://www.pacificislandtimes.com/post/bespoken-compacts-among-equals-or-between-vassals-and-the-overlord</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/bespoken-compacts-among-equals-or-between-vassals-and-the-overlord">Save to Pocket</a>
+</span>
+
+---
+
+## Starlink revolution: Guam telecom subscribers migrating to satellite system 
+
+date: 2024-01-10, from: Pacific Island Times
+
+By Noelle Babauta After doing his research and reading some reviews of Starlink's performance, Jun Amaguin of Yigo decided to give it a...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/starlink-revolution-guam-telecom-subscribers-migrating-to-satellite-system">https://www.pacificislandtimes.com/post/starlink-revolution-guam-telecom-subscribers-migrating-to-satellite-system</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/starlink-revolution-guam-telecom-subscribers-migrating-to-satellite-system">Save to Pocket</a>
+</span>
+
+---
+
+## When RECA ricochets
+
+date: 2024-01-10, from: Pacific Island Times
+
+By Naina Rao and Mar-Vic Cagurangan The proposal to extend and expand the expiring Radiation Exposure Compensation Act program almost hit...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/when-reca-ricochets">https://www.pacificislandtimes.com/post/when-reca-ricochets</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/when-reca-ricochets">Save to Pocket</a>
+</span>
+
+---
+
+## Emergencies to be declared
+
+date: 2024-01-10, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON The first order of business for President Hilda Heine’s new government is expected to be declaring not one, but two states of emergency: One for Kili Island, where “people are starving,” according to one Cabinet minister; the other order to put focus on Majuro’s power crisis. These moves were in the discussion stage [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/emergencies-to-be-declared/">Emergencies to be declared</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/emergencies-to-be-declared/">https://marshallislandsjournal.com/emergencies-to-be-declared/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/emergencies-to-be-declared/">Save to Pocket</a>
+</span>
+
+---
+
+## UH News Image of the Week: Martin Luther King Jr.
+
+date: 2024-01-10, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> This is a Wayback Wednesday from <abbr>UH</abbr> Mānoa in honor of Martin Luther King Jr. Day.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/10/uh-news-image-of-the-week-martin-luther-king-jr/"><abbr>UH</abbr> News Image of the Week: Martin Luther King Jr.</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/10/uh-news-image-of-the-week-martin-luther-king-jr/">https://www.hawaii.edu/news/2024/01/10/uh-news-image-of-the-week-martin-luther-king-jr/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/10/uh-news-image-of-the-week-martin-luther-king-jr/">Save to Pocket</a>
+</span>
 
 ---
 

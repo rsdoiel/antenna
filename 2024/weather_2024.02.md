@@ -1,11 +1,270 @@
 ---
 title: weather 2024.02
-updated: 2024-01-10 08:42:52
+updated: 2024-01-11 14:45:08
 ---
 
 # weather 2024.02
 
-(date: 2024-01-10 08:42:52)
+(date: 2024-01-11 14:45:08)
+
+---
+
+## SPC - No watches are valid as of Thu Jan 11 22:38:01 UTC 2024
+
+date: 2024-01-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu Jan 11 22:38:01 UTC 2024.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 45
+
+date: 2024-01-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0045.html"><img src="https://www.spc.noaa.gov/products/md/mcd0045.png" border="1" alt="MD 0045 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0045
+NWS Storm Prediction Center Norman OK
+0340 PM CST Thu Jan 11 2024
+
+Areas affected...portions of central and southeastern Nebraska into
+extreme northern Kansas
+
+Concerning...Heavy snow 
+
+Valid 112140Z - 120345Z
+
+SUMMARY...Heavy snow should increase into the evening hours, with
+1-2 inch/hr rates possible. Heavy snow will be most likely in
+central Nebraska over the next couple of hours, becoming
+increasingly likely in southeast Nebraska in the 00-03Z period.
+
+DISCUSSION...A pronounced mid-level trough is ejecting into the
+Plains states, with a 120+ kt 300 mb jet streak overspreading the
+southern Plains. This places the central Plains in the left-exit
+region of the upper-jet (per 21Z mesoanalysis), resulting in plenty
+of divergence aloft. The low-level mass response has been for the
+surface low to intensify across the southern Plains. This supports
+an increase in surface-925 mb cold air advection beneath increasing
+intense 850-700 mb warm-air advection over central and eastern NE,
+where 700 mb frontogenesis is also now underway. Moderate snow has
+recently begun to fall in central Nebraska per surface observations,
+with snowfall rates expected to only increase with time as dynamic
+lift increases and the dendritic growth zone continues to saturate.
+
+Later this afternoon, the anticipated heavier snow bands may produce
+snowfall rates up to 1-2 inches/hour, where reduced visibility will
+also become a concern. Latest high-resolution model guidance
+consensus suggests that the heaviest snow should begin in the next
+couple of hours, and peak in intensity somewhere in the 00-03Z
+period, especially over southeastern NE.
+
+..Squitieri.. 01/11/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...OAX...TOP...GID...LBF...
+
+LAT...LON   42230081 42039872 41419693 40749594 40189559 39849594
+            39749687 39739796 40089884 40609979 41350089 42230081 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0045.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/md0045.html">https://www.spc.noaa.gov/products/md/md0045.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md0045.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-01-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0329 PM CST Thu Jan 11 2024
+
+Valid 131200Z - 191200Z
+
+The upper-level pattern during the extended period will generally
+feature broadly cyclonic flow across much of the CONUS east of the
+Intermountain West. Near and along the West Coast, an upper-level
+ridge is expected to persist through the period. Guidance suggests
+that this feature may eventually move eastward perhaps during the
+middle/latter portions of next week; however, uncertainty is rather
+high. This pattern will favor cold temperatures at the surface for a
+broad area through the middle of next week. Coupled with
+precipitation, these cold conditions should mitigate fire weather
+concerns for most areas through the period.
+
+Potential for elevated fire weather will exist in parts of the
+Trans-Pecos this Saturday/Sunday as weak surface trough develops
+ahead of a low-amplitude shortwave trough. There is some uncertainty
+on the strength of the surface winds given the modest trough.
+Further uncertainty exists with the spatial extent of the threat
+given the potential for the cold front push into the region from the
+east.
+
+..Wendt.. 01/11/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">https://www.spc.noaa.gov/products/exper/fire_wx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/exper/fire_wx/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 11, 2024 2000 UTC Day 1 Convective Outlook
+
+date: 2024-01-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0139 PM CST Thu Jan 11 2024
+
+Valid 112000Z - 121200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS LATE TONIGHT
+AND EARLY FRIDAY MORNING ACROSS PORTIONS OF THE ARKLATEX REGION...
+
+...SUMMARY...
+Tornadoes, damaging wind gusts, and large hail are possible tonight
+over the Arklatex region, and nearby parts of southeastern Oklahoma,
+east Texas, Arkansas, and western/northern Louisiana.
+
+...20Z Update...
+
+...East TX and Arklatex into the Ozark Plateau tonight...
+Low-level moisture continues to advect northward across East TX,
+with low 60s dewpoints now reaching as far north as Rusk County TX.
+That matches fairly well with the last RAP guidance, which then
+brings 60s dewpoints into the TXK vicinity around 03Z.
+
+Elevated thunderstorm development is still anticipated tonight
+(00Z-03Z) from the Arklatex into nearby central AR within the strong
+warm-air advection preceding the shortwave current moving through
+the Four Corners region. Strong deep-layer vertical shear should
+support rotating updrafts and some potential for large hail. As
+mentioned in the previous outlook, upper 50s to low 60s dewpoints
+might be sufficient for surface-based supercells capable of all
+hazards, including tornadoes.
+
+Additional development is still expected to the west of this
+earlier, predominantly elevated activity as the strong mid-level jet
+progresses over the warm sector and a cold front surges westward.
+Storms are then expected to form along/ahead of this cold front from
+eastern OK int northeast TX and track rapidly east-northeastward
+across the ENH area. Primary storm mode will likely be bowing line
+segments, with an attendant threat for strong to significant gusts
+and tornadoes, particularly across east-central/southeast AR early
+Friday morning.
+
+Some storm development is also possible close to the primary surface
+low as well, and severe-wind probabilities were extended northward
+to account for this potential.
+
+..Mosier.. 01/11/2024
+
+.PREV DISCUSSION... /ISSUED 1030 AM CST Thu Jan 11 2024/
+
+Morning water vapor imagery shows a progressive upper trough digging
+southeastward toward the Four Corners region.  This trough and
+associated intense mid/upper level jet will move into the southern
+Plains tonight, aiding in rapid cyclogenesis over OK/TX. 
+Strengthening southerly low-level winds in the warm sector will
+transport Gulf moisture northward and result in a corridor of severe
+thunderstorm activity late tonight.
+
+Present indications are that storms will first form in the warm
+advection regime across parts of AR after dark.  These initial
+storms will be in an environment of steep mid-level lapse rates and
+strong deep-layer shear, favorable for large hail.  Supercell
+structures will be favored, and dewpoints in the upper 50s might be
+sufficient for at least a modest risk of a tornado or two.
+
+The more robust severe threat is likely to evolve after midnight as
+the mid-level jet max surges eastward across east TX and atop the
+warm sector.  Storms are expected to form along/ahead of the cold
+front over northeast TX and track rapidly east-northeastward across
+the ENH area.  The overall synoptic setup for this event would be
+very impressive and favorable for severe thunderstorms, but
+low-level moisture is somewhat lacking.  Nevertheless, fast-moving
+supercells and bowing structures are possible early Friday morning
+as storms trek across parts of AR and northern LA.  Widespread
+damaging winds and strong tornadoes are possible - especially if
+low-level moisture is just slightly greater than currently forecast.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-01-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0115 PM CST Thu Jan 11 2024
+
+Valid 121200Z - 131200Z
+
+Have broadened the Elevated risk area into more of South Texas based
+on the latest guidance. The prior forecast reasoning otherwise
+remains valid.
+
+..Wendt.. 01/11/2024
+
+.PREV DISCUSSION... /ISSUED 0150 AM CST Thu Jan 11 2024/
+
+...Synopsis...
+The surface low previously over the southern Plains is forecast to
+deepen rapidly and lift away into the OH Valley as the parent trough
+intensifies over the Midwest. In the wake of the trough/low, a cold
+front will move south over the southern Plains toward the Gulf
+coast, supporting strong northwesterly winds and dry surface
+conditions over parts of southwest TX. A few hours of elevated
+fire-weather conditions are possible before an Arctic front arrives
+with much colder temperatures.
+
+...Southwest Texas & Rio Grande Valley...
+Behind the leading cold front, strong northwesterly surface flow is
+expected across the Rio Grande Valley and Southwest Texas on Friday.
+Several days of dry/breezy conditions have allowed antecedent fine
+fuels to dry sufficiently to support fire spread. Winds will be
+strongest through early afternoon before weakening into the
+overnight hours as the surface low lifts away to the northeast. A
+few hours of overlap of the stronger winds with RH values below 20%
+will promote elevated to locally critical fire weather conditions.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -50,18 +309,6 @@ localized.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No watches are valid as of Wed Jan 10 16:34:01 UTC 2024
-
-date: 2024-01-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Wed Jan 10 16:34:01 UTC 2024.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
 </span>
 
 ---
@@ -536,174 +783,6 @@ storm motion vector 25040.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/ww0005.html">https://www.spc.noaa.gov/products/watch/ww0005.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/ww0005.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Day 3-8 Fire Weather Outlook
-
-date: 2024-01-09, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3-8 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0248 PM CST Tue Jan 09 2024
-
-Valid 111200Z - 171200Z
-
-A strong upper-level trough will be in the process pivoting through
-the Southwest/northern Mexico on Thursday before quickly ejecting
-into the southern Plains by Friday morning. As this feature races
-northeastward it will become a strong upper low in the Upper Midwest
-with broadly cyclonic flow elsewhere across much of the
-central/eastern CONUS during the weekend. The upper-level pattern
-becomes a bit more uncertain into next week, though a trough in the
-East and a ridge in the West is the current general theme in
-forecast guidance. At the surface, a surface cyclone will deepen
-rapidly as it moves from the southern Plains into the lower Great
-Lakes region. Colder air will eventually filter into the Plains
-during the weekend with another reinforcing shot early next week.
-Low temperatures and precipitation should limit fire weather
-concerns in most areas.
-
-Dry and windy conditions are expected to occur in the Trans-Pecos on
-Thursday. Though locally elevated fire weather appears probable,
-limited fuel receptiveness should keep greater concerns from
-developing despite the near-critical/critical meteorological
-conditions. As the front moves southward on Friday, another
-northwesterly flow regime will develop in the Rio Grande
-Valley/South Texas. With the dry and windy conditions in the
-preceding days, fine fuels appear that they will be dry enough to
-support fire spread. Winds will be strongest in the morning into the
-early afternoon before diminishing. Highlights have been added for
-the few hours of expected elevated to near-critical fire weather.
-
-..Wendt.. 01/09/2024
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">https://www.spc.noaa.gov/products/exper/fire_wx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/exper/fire_wx/">Save to Pocket</a>
-</span>
-
----
-
-## SPC Jan 9, 2024 2000 UTC Day 1 Convective Outlook
-
-date: 2024-01-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0158 PM CST Tue Jan 09 2024
-
-Valid 092000Z - 101200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FROM NORTH
-FLORIDA INTO THE CAROLINAS...
-
-...SUMMARY...
-Tornadoes (some strong) and damaging wind remain possible through
-the afternoon and into the early evening from parts of Florida into
-the Carolinas.
-
-...20Z Update...
-An extensive QLCS is ongoing this afternoon from the Carolinas into
-north FL, with embedded supercell structures occasionally noted
-within the line. Attempts at discrete, prefrontal supercell
-development have also been noted near and just off of the SC coast.
-Very strong deep-layer shear will continue to support organized
-convection wherever buoyancy can increase above negligible levels,
-with damaging wind and line-embedded tornadoes being the primary
-hazards. Extreme low-level shear (with 0-1 km SRH near or above 500
-m2/s2) could still support a strong-tornado risk with any prefrontal
-supercells that can mature across the Carolinas, or perhaps with any
-persistent embedded supercell within the primary QLCS.  
-
-The primary QLCS will likely persist until it reaches the Atlantic
-coast, with some severe threat potentially spreading as far north as
-southeast VA, and potentially into parts of east-central and south
-FL into this evening. See WW 5, WW 6, WW 7, and the previous
-discussion below for more information.
-
-..Dean.. 01/09/2024
-
-.PREV DISCUSSION... /ISSUED 1004 AM CST Tue Jan 09 2024/
-
-...Southeast states...
-A deep upper low is over the mid MS valley today, with an associated
-100+ knot mid-level jet max rotating across the TN Valley.  A line
-of intense thunderstorms extends from northeast-southwest GA into
-the FL panhandle and the eastern Gulf.  These storms will progress
-rapidly eastward today across FL and the Carolinas, where very
-strong southerly low-level winds will advect an increasingly moist
-and marginally unstable air mass northward.
-
-The convective line is currently well-ahead of the primary cold
-front.  However, model guidance suggests that the front will
-overtake the line through the afternoon, resulting in enhanced
-forcing and likely contributing to thunderstorm intensification. 
-Instability ahead of the line will be marginal, but extremely strong
-wind speeds and shear (850mb wind speeds of 80-90 knots) suggest the
-risk of widespread strong to damaging wind gusts in vicinity of the
-squall line.  Also, numerous QLCS circulations and attendant risk of
-tornadoes have been noted along the line this morning, and may at
-least occasionally continue through the day in some corridors.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2024-01-09, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-1253 PM CST Tue Jan 09 2024
-
-Valid 101200Z - 111200Z
-
-...NO CRITICAL AREAS...
-
-No changes to the ongoing forecast.
-
-..Wendt.. 01/09/2024
-
-.PREV DISCUSSION... /ISSUED 0206 AM CST Tue Jan 09 2024/
-
-...Synopsis...
-Fire-weather conditions appear mostly quiescent through the forecast
-period, as the potent upper-level cyclone over the central US
-quickly moves to the east. Strong westerly flow aloft will remain
-over the CONUS. However, surface winds will remain light in the dry,
-but relatively cool post-frontal air mass. A few hours of low-end
-fire weather conditions are possible from the Trans-Pecos into the
-Rio Grand Valley/South Texas, where lingering low humidity and
-occasional gusty surface winds are possible through the afternoon.
-However, with area fuel moisture near normal and the relatively
-limited overlap of dry and breezy conditions, fire-weather concerns
-should remain localized.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Save to Pocket</a>
 </span>
 
 ---

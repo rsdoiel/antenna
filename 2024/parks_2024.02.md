@@ -1,11 +1,11 @@
 ---
 title: parks 2024.02
-updated: 2024-01-10 08:42:52
+updated: 2024-01-11 14:45:08
 ---
 
 # parks 2024.02
 
-(date: 2024-01-10 08:42:52)
+(date: 2024-01-11 14:45:08)
 
 ---
 
@@ -301,7 +301,7 @@ collections. Photo by Kelly Savage</figcaption></figure><p>The seed is only one 
                     <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
               <div><a href="https://www.blm.gov/tag/native-seed" hreflang="en">Native Seed</a></div>
               <div><a href="https://www.blm.gov/tag/partnerships" hreflang="en">Partnerships</a></div>
-              <div><a href="https://www.blm.gov/tag/seeds-of-success" hreflang="en">Seeds of Success</a></div>
+              <div><a href="https://www.blm.gov/tag/seeds-success" hreflang="en">Seeds of Success</a></div>
                     </div>
           </div>
   </div>

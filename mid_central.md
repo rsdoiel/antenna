@@ -1,11 +1,131 @@
 ---
 title: mid central 2024.02
-updated: 2024-01-10 08:42:52
+updated: 2024-01-11 14:45:08
 ---
 
 # mid central 2024.02
 
-(date: 2024-01-10 08:42:52)
+(date: 2024-01-11 14:45:08)
+
+---
+
+## ARRL Responds to FCC Proposals
+
+date: 2024-01-11, from: Amateur Radio Relay League News
+
+<p>ARRL  The National Association for Amateur Radio® responded to the Federal Communications Commission’s (FCC) request for comments on removing the symbol (baud) rate restrictions that apply to data communications on the LF bands and the VHF and UHF bands below 450 MHz. The FCC also requested comments on the bandwidth limits applicable to those bands.</p><p>The FCC’s action follows their 2023 decision t...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/arrl-responds-to-fcc-proposals">http://www.arrl.org/news/view/arrl-responds-to-fcc-proposals</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/arrl-responds-to-fcc-proposals">Save to Pocket</a>
+</span>
+
+---
+
+## ATE system tests wireless BMS
+
+date: 2024-01-11, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/RS-ADI-wBMS.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/RS-ADI-wBMS.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/RS-ADI-wBMS.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/RS-ADI-wBMS.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Rhode &#038; Schwarz, with technology from Analog Devices, has developed an automated test system for wireless battery management systems (wBMS).</p>
+<p>The post <a href="https://www.edn.com/ate-system-tests-wireless-bms/" data-wpel-link="internal">ATE system tests wireless BMS</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/ate-system-tests-wireless-bms/">https://www.edn.com/ate-system-tests-wireless-bms/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/ate-system-tests-wireless-bms/">Save to Pocket</a>
+</span>
+
+---
+
+## UWB RF switch aids automotive connectivity
+
+date: 2024-01-11, from: EDN Blog
+
+<img width="700" height="451" src="https://www.edn.com/wp-content/uploads/pSemi-PE423211.jpg?fit=700%2C451" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/pSemi-PE423211.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/pSemi-PE423211.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>A 50-Ω SPDT RF switch from pSemi, the automotive-grade PE423211, covers bandwidths ranging from 300 MHz to 10.6 GHz.</p>
+<p>The post <a href="https://www.edn.com/uwb-rf-switch-aids-automotive-connectivity/" data-wpel-link="internal">UWB RF switch aids automotive connectivity</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/uwb-rf-switch-aids-automotive-connectivity/">https://www.edn.com/uwb-rf-switch-aids-automotive-connectivity/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/uwb-rf-switch-aids-automotive-connectivity/">Save to Pocket</a>
+</span>
+
+---
+
+## Quectel unveils low-latency Wi-Fi 7 modules
+
+date: 2024-01-11, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Quectel-FGE576Q.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Quectel-FGE576Q.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Quectel-FGE576Q.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Quectel-FGE576Q.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The first entries in Quectel’s Wi-Fi 7 module family, the FGE576Q and FGE573Q, deliver fast data rates and low latency for real-time response.</p>
+<p>The post <a href="https://www.edn.com/quectel-unveils-low-latency-wi-fi-7-modules/" data-wpel-link="internal">Quectel unveils low-latency Wi-Fi 7 modules</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/quectel-unveils-low-latency-wi-fi-7-modules/">https://www.edn.com/quectel-unveils-low-latency-wi-fi-7-modules/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/quectel-unveils-low-latency-wi-fi-7-modules/">Save to Pocket</a>
+</span>
+
+---
+
+## Wi-Fi 7 SoCs garner Wi-Fi Alliance certification
+
+date: 2024-01-11, from: EDN Blog
+
+<img width="800" height="347" src="https://www.edn.com/wp-content/uploads/MaxLinear-MxL31712.jpg?fit=800%2C347" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/MaxLinear-MxL31712.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/MaxLinear-MxL31712.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/MaxLinear-MxL31712.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>MaxLinear’s Wi-Fi 7 SoC with integrated triband access point has been certified by the Wi-Fi Alliance and selected as a Wi-Fi Certified 7 test bed device.</p>
+<p>The post <a href="https://www.edn.com/wi-fi-7-socs-garner-wi-fi-alliance-certification/" data-wpel-link="internal">Wi-Fi 7 SoCs garner Wi-Fi Alliance certification</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/wi-fi-7-socs-garner-wi-fi-alliance-certification/">https://www.edn.com/wi-fi-7-socs-garner-wi-fi-alliance-certification/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/wi-fi-7-socs-garner-wi-fi-alliance-certification/">Save to Pocket</a>
+</span>
+
+---
+
+## 6-DoF inertial sensor improves machine control
+
+date: 2024-01-11, from: EDN Blog
+
+<img width="800" height="438" src="https://www.edn.com/wp-content/uploads/Murata-SCH16T-K01.jpg?fit=800%2C438" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Murata-SCH16T-K01.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Murata-SCH16T-K01.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Murata-SCH16T-K01.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The SCH16T-K01 inertial sensor from Murata combines an XYZ-axis gyroscope and XYZ-axis accelerometer in a robust SOIC package.</p>
+<p>The post <a href="https://www.edn.com/6-dof-inertial-sensor-improves-machine-control/" data-wpel-link="internal">6-DoF inertial sensor improves machine control</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/6-dof-inertial-sensor-improves-machine-control/">https://www.edn.com/6-dof-inertial-sensor-improves-machine-control/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/6-dof-inertial-sensor-improves-machine-control/">Save to Pocket</a>
+</span>
+
+---
+
+## Freeze Warning issued January 11 at 9:45AM PST until January 12 at 8:00AM PST by NWS
+
+date: 2024-01-11, updated: 2024-01-11, from: Merced, Weather.gov CAP v1.1 alerts
+
+...FREEZE WARNING REMAINS IN EFFECT FROM 2 AM TO 8 AM PST FRIDAY... ...FREEZE WATCH REMAINS IN EFFECT FROM LATE FRIDAY NIGHT THROUGH SATURDAY MORNING... * WHAT...For the Freeze Warning, sub-freezing temperatures as low as 29 expected. For the Freeze Watch, sub-freezing temperatures as low as 31 possible.
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126884A30364.FreezeWarning.126884B20D00CA.HNXNPWHNX.1adf3f9191d531d747a658bbdc630a6d">https://alerts.weather.gov/cap/wwacapget.php?x=CA126884A30364.FreezeWarning.126884B20D00CA.HNXNPWHNX.1adf3f9191d531d747a658bbdc630a6d</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA126884A30364.FreezeWarning.126884B20D00CA.HNXNPWHNX.1adf3f9191d531d747a658bbdc630a6d">Save to Pocket</a>
+</span>
+
+---
+
+## Freeze Watch issued January 11 at 9:45AM PST until January 13 at 8:00AM PST by NWS
+
+date: 2024-01-11, updated: 2024-01-11, from: Merced, Weather.gov CAP v1.1 alerts
+
+...FREEZE WARNING REMAINS IN EFFECT FROM 2 AM TO 8 AM PST FRIDAY... ...FREEZE WATCH REMAINS IN EFFECT FROM LATE FRIDAY NIGHT THROUGH SATURDAY MORNING... * WHAT...For the Freeze Warning, sub-freezing temperatures as low as 29 expected. For the Freeze Watch, sub-freezing temperatures as low as 31 possible.
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126884A30364.FreezeWatch.126884C14F40CA.HNXNPWHNX.4500c006e3ce364518cac5f347fb4a34">https://alerts.weather.gov/cap/wwacapget.php?x=CA126884A30364.FreezeWatch.126884C14F40CA.HNXNPWHNX.4500c006e3ce364518cac5f347fb4a34</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA126884A30364.FreezeWatch.126884C14F40CA.HNXNPWHNX.4500c006e3ce364518cac5f347fb4a34">Save to Pocket</a>
+</span>
+
+---
+
+## The 2024 CES: It’s “AI everywhere”, if you hadn’t already guessed
+
+date: 2024-01-11, from: EDN Blog
+
+<img width="2160" height="1606" src="https://www.edn.com/wp-content/uploads/Featured-image-16.png?fit=2160%2C1606" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Featured-image-16.png?w=2160 2160w, https://www.edn.com/wp-content/uploads/Featured-image-16.png?w=300 300w, https://www.edn.com/wp-content/uploads/Featured-image-16.png?w=768 768w, https://www.edn.com/wp-content/uploads/Featured-image-16.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Featured-image-16.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Featured-image-16.png?w=2048 2048w, https://www.edn.com/wp-content/uploads/Featured-image-16.png?w=1900 1900w" sizes="(max-width: 2160px) 100vw, 2160px" /><p>AI technologies weren’t the entirety of the unveils at this year’s CES. Although, its understandable if you overlooked anything else.</p>
+<p>The post <a href="https://www.edn.com/the-2024-ces-its-ai-everywhere-if-you-hadnt-already-guessed/" data-wpel-link="internal">The 2024 CES: It’s “AI everywhere”, if you hadn’t already guessed</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/the-2024-ces-its-ai-everywhere-if-you-hadnt-already-guessed/">https://www.edn.com/the-2024-ces-its-ai-everywhere-if-you-hadnt-already-guessed/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/the-2024-ces-its-ai-everywhere-if-you-hadnt-already-guessed/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +133,7 @@ updated: 2024-01-10 08:42:52
 
 date: 2024-01-10, from: EDN Blog
 
-<img width="325" height="249" src="https://www.edn.com/wp-content/uploads/Figure-5_MoreGated555.jpg?fit=325%2C249" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-5_MoreGated555.jpg?w=325 325w, https://www.edn.com/wp-content/uploads/Figure-5_MoreGated555.jpg?w=300 300w" sizes="(max-width: 325px) 100vw, 325px" /><p>Fixing the long-first-pulse malady in less traditional 555 astable topologies including CMOS and bipolar oscillators with 50:50 square waves. </p>
+<img width="325" height="249" src="https://www.edn.com/wp-content/uploads/Figure-5_MoreGated555.jpg?fit=325%2C249" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-5_MoreGated555.jpg?w=325 325w, https://www.edn.com/wp-content/uploads/Figure-5_MoreGated555.jpg?w=300 300w" sizes="(max-width: 325px) 100vw, 325px" /><p>Fixing the long-first-pulse malady in less traditional 555 astable topologies including oscillators that make 50:50 symmetrical square waves.</p>
 <p>The post <a href="https://www.edn.com/more-gated-555-astable-multivibrators-hit-the-ground-running/" data-wpel-link="internal">More gated 555 astable multivibrators hit the ground running</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 
@@ -27,7 +147,7 @@ date: 2024-01-10, from: EDN Blog
 
 date: 2024-01-10, from: Amateur Radio Relay League News
 
-<p>Avid radio amateur, Marty Engstrom, N1ARY, of Fryeburg, Maine, has become a silent key. Generations of New England television viewers<span> </span><span><span>may know him </span></span>as Marty on the Mountain from his weather reports on camera for WMTW-TV from the station’s transmitter site on Mount Washington in Gorham, New Hampshire.</p><p></p><p></p><p>Engstrom was known to quip that he was not intentionally in the weather business: “I’m a TV engin...</p>
+<p>Avid radio amateur, Marty Engstrom, N1ARY, of Fryeburg, Maine, has become a Silent Key. He died on January 4, 2024. Generations of New England television viewers<span> </span><span><span>may know him </span></span>as Marty on the Mountain from his weather reports on camera for WMTW-TV from the station’s transmitter site on Mount Washington in Gorham, New Hampshire.</p><p> </p><p> </p><p>Engstrom was known to quip that he was not intentionally in the wea...</p>
 
 <span class="feed-item-link">
 <a href="http://www.arrl.org/news/view/marty-on-the-mountain-engstrom-n1ary-sk">http://www.arrl.org/news/view/marty-on-the-mountain-engstrom-n1ary-sk</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/marty-on-the-mountain-engstrom-n1ary-sk">Save to Pocket</a>

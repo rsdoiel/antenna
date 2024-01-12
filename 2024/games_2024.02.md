@@ -1,11 +1,131 @@
 ---
 title: games 2024.02
-updated: 2024-01-10 08:42:52
+updated: 2024-01-11 14:45:08
 ---
 
 # games 2024.02
 
-(date: 2024-01-10 08:42:52)
+(date: 2024-01-11 14:45:08)
+
+---
+
+## This Zelda: Tears of the Kingdom made a functional airship that doesn’t require energy cells
+
+date: 2024-01-11, updated: 2024-01-11, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/legend-zelda-tears-kingdom/24032923/zelda-tears-of-the-kingdom-totk-powerless-flight-airship">https://www.polygon.com/legend-zelda-tears-kingdom/24032923/zelda-tears-of-the-kingdom-totk-powerless-flight-airship</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/legend-zelda-tears-kingdom/24032923/zelda-tears-of-the-kingdom-totk-powerless-flight-airship">Save to Pocket</a>
+</span>
+
+---
+
+## 4 things to know about the new Mean Girls movie before watching
+
+date: 2024-01-11, updated: 2024-01-11, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24034536/mean-girls-2024-musical-cameos-lindsay-lohan-post-credits">https://www.polygon.com/24034536/mean-girls-2024-musical-cameos-lindsay-lohan-post-credits</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24034536/mean-girls-2024-musical-cameos-lindsay-lohan-post-credits">Save to Pocket</a>
+</span>
+
+---
+
+## Disney Lorcana’s new location cards continue to expand the TCG in interesting directions
+
+date: 2024-01-11, updated: 2024-01-11, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24012227/disney-lorcana-land-cards">https://www.polygon.com/24012227/disney-lorcana-land-cards</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24012227/disney-lorcana-land-cards">Save to Pocket</a>
+</span>
+
+---
+
+## The new Mean Girls has a critical charisma gap
+
+date: 2024-01-11, updated: 2024-01-11, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24033633/mean-girls-musical-movie-review-2024-tina-fey">https://www.polygon.com/reviews/24033633/mean-girls-musical-movie-review-2024-tina-fey</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24033633/mean-girls-musical-movie-review-2024-tina-fey">Save to Pocket</a>
+</span>
+
+---
+
+## Prince of Persia adds the best new feature to Metroidvanias in years
+
+date: 2024-01-11, updated: 2024-01-11, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24032163/prince-of-persia-map-screenshots-memory-shards">https://www.polygon.com/24032163/prince-of-persia-map-screenshots-memory-shards</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24032163/prince-of-persia-map-screenshots-memory-shards">Save to Pocket</a>
+</span>
+
+---
+
+## How to start the Pokémon Scarlet and Violet DLC epilogue and catch Pecharunt
+
+date: 2024-01-11, updated: 2024-01-11, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/pokemon-scarlet-violet-guide/24034463/start-dlc-epilogue-catch-pecharunt-mochi-mayhem">https://www.polygon.com/pokemon-scarlet-violet-guide/24034463/start-dlc-epilogue-catch-pecharunt-mochi-mayhem</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/pokemon-scarlet-violet-guide/24034463/start-dlc-epilogue-catch-pecharunt-mochi-mayhem">Save to Pocket</a>
+</span>
+
+---
+
+## Konami’s rereleasing classic platformers, including rare Felix the Cat games
+
+date: 2024-01-11, updated: 2024-01-11, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24034492/konami-felix-cat-rocket-knight-sparkster-limited-run-games">https://www.polygon.com/24034492/konami-felix-cat-rocket-knight-sparkster-limited-run-games</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24034492/konami-felix-cat-rocket-knight-sparkster-limited-run-games">Save to Pocket</a>
+</span>
+
+---
+
+## Echo throws back to a time when characters mattered in the MCU
+
+date: 2024-01-11, updated: 2024-01-11, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24033629/marvel-echo-good-bad-review-disney-plus-hulu">https://www.polygon.com/24033629/marvel-echo-good-bad-review-disney-plus-hulu</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24033629/marvel-echo-good-bad-review-disney-plus-hulu">Save to Pocket</a>
+</span>
+
+---
+
+## The 17 best PlayStation 5 games
+
+date: 2024-01-11, updated: 2024-01-11, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5">https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/ps5/21720698/best-ps5-games-playstation-5">Save to Pocket</a>
+</span>
+
+---
+
+## George Carlin’s daughter denounces new AI imitation comedy special
+
+date: 2024-01-11, updated: 2024-01-11, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24034625/george-carlin-i-wish-i-was-dead-ai-comedy-special-kelly-carlin-dudesy">https://www.polygon.com/24034625/george-carlin-i-wish-i-was-dead-ai-comedy-special-kelly-carlin-dudesy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24034625/george-carlin-i-wish-i-was-dead-ai-comedy-special-kelly-carlin-dudesy">Save to Pocket</a>
+</span>
 
 ---
 

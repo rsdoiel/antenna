@@ -1,11 +1,290 @@
 ---
 title: socal north 2024.02
-updated: 2024-01-10 08:42:52
+updated: 2024-01-11 14:45:08
 ---
 
 # socal north 2024.02
 
-(date: 2024-01-10 08:42:52)
+(date: 2024-01-11 14:45:08)
+
+---
+
+## John Thomas named as UCLA’s new chief of police
+
+date: 2024-01-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+The current interim chief of police John Thomas will serve as UCLA’s new chief of police.
+Thomas, a UCLA alumnus who graduated in 1984, has served as UCLA’s interim chief of police since December 2022.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/11/john-thomas-named-as-uclas-new-chief-of-police/">https://dailybruin.com/2024/01/11/john-thomas-named-as-uclas-new-chief-of-police/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/john-thomas-named-as-uclas-new-chief-of-police/">Save to Pocket</a>
+</span>
+
+---
+
+## USC collapses late in loss to Washington State
+
+date: 2024-01-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The injury-laden Trojans just cannot turn their season around. </p>
+<p>The post <a href="https://dailytrojan.com/2024/01/11/usc-collapses-late-in-loss-to-washington-state/">USC collapses late in loss to Washington State</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/11/usc-collapses-late-in-loss-to-washington-state/">https://dailytrojan.com/2024/01/11/usc-collapses-late-in-loss-to-washington-state/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/11/usc-collapses-late-in-loss-to-washington-state/">Save to Pocket</a>
+</span>
+
+---
+
+## Long Beach Now Accepting Applications For Guaranteed Income Program
+
+date: 2024-01-11, updated: 2024-01-11, from: The LAist
+
+Under the Long Beach Pledge pilot, 200 more eligible families will receive $500 a month for one year.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/long-beach-applications-guaranteed-income-program">https://laist.com/news/long-beach-applications-guaranteed-income-program</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/long-beach-applications-guaranteed-income-program">Save to Pocket</a>
+</span>
+
+---
+
+## Riverside County Will Get More EV Charging Stations With Federal Funding Boost
+
+date: 2024-01-11, updated: 2024-01-11, from: The LAist
+
+Some of the funds in California will create chargers for long-haul freight trucks and electric vehicles.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/riverside-county-will-get-more-ev-charging-stations-with-federal-funding-boost">https://laist.com/news/climate-environment/riverside-county-will-get-more-ev-charging-stations-with-federal-funding-boost</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/riverside-county-will-get-more-ev-charging-stations-with-federal-funding-boost">Save to Pocket</a>
+</span>
+
+---
+
+## Honoring the Dream: A Day of Unity
+
+date: 2024-01-11, from: City of Santa Clarita
+
+<p>Honoring the Dream: A Day of Unity By Mayor Cameron Smyth Dr. King was a visionary leader whose courage and commitment to justice changed the course of history. His dream of a Nation free from racial injustice and discrimination continues to inspire us. As we approach Martin Luther King Jr. Day on January 15, it [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/01/11/honoring-the-dream-a-day-of-unity/">Honoring the Dream: A Day of Unity</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2024/01/11/honoring-the-dream-a-day-of-unity/">https://santaclarita.gov/blog/2024/01/11/honoring-the-dream-a-day-of-unity/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/01/11/honoring-the-dream-a-day-of-unity/">Save to Pocket</a>
+</span>
+
+---
+
+## Anna Dodson, Audrey Pak to return to UCLA women’s volleyball for another year
+
+date: 2024-01-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Anna Dodson handed the Bruin faithful a gift this past holiday season.
+The redshirt senior middle blocker announced Jan. 9 on Instagram her return for one more year with the Bruins, utilizing her final year of eligibility.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/11/anna-dodson-audrey-pak-to-return-to-ucla-womens-volleyball-for-another-year/">https://dailybruin.com/2024/01/11/anna-dodson-audrey-pak-to-return-to-ucla-womens-volleyball-for-another-year/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/anna-dodson-audrey-pak-to-return-to-ucla-womens-volleyball-for-another-year/">Save to Pocket</a>
+</span>
+
+---
+
+## Effort, offense remain focuses for men’s basketball ahead of Utah, Washington
+
+date: 2024-01-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+When the buzzer sounded inside Pauley Pavilion on Saturday night, coach Mick Cronin was already set to draw heavy criticism.
+His team had just completed its first 0-2 homestand against Stanford and California since the 2004-2005 season.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/11/effort-offense-remain-focuses-for-mens-basketball-ahead-of-utah-washington/">https://dailybruin.com/2024/01/11/effort-offense-remain-focuses-for-mens-basketball-ahead-of-utah-washington/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/11/effort-offense-remain-focuses-for-mens-basketball-ahead-of-utah-washington/">Save to Pocket</a>
+</span>
+
+---
+
+## King Tides Are Heading To Southern California’s Coast
+
+date: 2024-01-11, updated: 2024-01-11, from: The LAist
+
+The California Coastal Commission wants you to document them.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/king-tides-are-heading-to-southern-californias-coast">https://laist.com/news/climate-environment/king-tides-are-heading-to-southern-californias-coast</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/king-tides-are-heading-to-southern-californias-coast">Save to Pocket</a>
+</span>
+
+---
+
+## Researchers tackle ovarian cancer
+
+date: 2024-01-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC researchers developed a blood test with the ability to identify cancerous and benign pelvic masses with up to 91% accuracy.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/11/researchers-tackle-ovarian-cancer/">Researchers tackle ovarian cancer</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/11/researchers-tackle-ovarian-cancer/">https://dailytrojan.com/2024/01/11/researchers-tackle-ovarian-cancer/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/11/researchers-tackle-ovarian-cancer/">Save to Pocket</a>
+</span>
+
+---
+
+## USC criticized for fossil fuel ties
+
+date: 2024-01-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Environmental Student Assembly calls for full financial accountability.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/11/usc-criticized-for-fossil-fuel-ties/">USC criticized for fossil fuel ties</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/11/usc-criticized-for-fossil-fuel-ties/">https://dailytrojan.com/2024/01/11/usc-criticized-for-fossil-fuel-ties/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/11/usc-criticized-for-fossil-fuel-ties/">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – January 11, 2024
+
+date: 2024-01-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/11/classifieds-january-11-2024/">Classifieds &#8211; January 11, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/11/classifieds-january-11-2024/">https://dailytrojan.com/2024/01/11/classifieds-january-11-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/11/classifieds-january-11-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Best film and television tracks of 2023
+
+date: 2024-01-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>These are the top under-the-radar tracks used in movies and series last year. </p>
+<p>The post <a href="https://dailytrojan.com/2024/01/11/best-film-and-television-tracks-of-2023/">Best film and television tracks of 2023</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/11/best-film-and-television-tracks-of-2023/">https://dailytrojan.com/2024/01/11/best-film-and-television-tracks-of-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/11/best-film-and-television-tracks-of-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Off to Iowa, where presidential hopefuls are born and buried
+
+date: 2024-01-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The small Midwestern state may determine Trump’s main GOP challenger.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/11/197176/">Off to Iowa, where presidential hopefuls are born and buried</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/11/197176/">https://dailytrojan.com/2024/01/11/197176/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/11/197176/">Save to Pocket</a>
+</span>
+
+---
+
+## Michigan provides USC with blueprint
+
+date: 2024-01-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans have to adapt as they transition into the Wolverines’ conference.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/11/michigan-provides-usc-with-blueprint/">Michigan provides USC with blueprint</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/11/michigan-provides-usc-with-blueprint/">https://dailytrojan.com/2024/01/11/michigan-provides-usc-with-blueprint/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/11/michigan-provides-usc-with-blueprint/">Save to Pocket</a>
+</span>
+
+---
+
+## The resolution to break up with my closet
+
+date: 2024-01-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A letter to the clothes I didn't try and won't buy because of my resolution.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/11/the-resolution-to-break-up-with-my-closet/">The resolution to break up with my closet</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/11/the-resolution-to-break-up-with-my-closet/">https://dailytrojan.com/2024/01/11/the-resolution-to-break-up-with-my-closet/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/11/the-resolution-to-break-up-with-my-closet/">Save to Pocket</a>
+</span>
+
+---
+
+## Jo Koy’s writers deserve better
+
+date: 2024-01-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Following the year of “Barbie” (2023) and the Hollywood writers strike, the Golden Globes monologue was a poor joke. </p>
+<p>The post <a href="https://dailytrojan.com/2024/01/11/jo-koys-writers-deserve-better/">Jo Koy’s writers deserve better</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/11/jo-koys-writers-deserve-better/">https://dailytrojan.com/2024/01/11/jo-koys-writers-deserve-better/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/11/jo-koys-writers-deserve-better/">Save to Pocket</a>
+</span>
+
+---
+
+## No. 9 women’s basketball seeks revenge against rival No. 2 UCLA
+
+date: 2024-01-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The undefeated Bruins pose a difficult challenge to the talented Trojans once again.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/11/no-9-womens-basketball-seeks-revenge-against-rival-no-2-ucla/">No. 9 women’s basketball seeks revenge against rival No. 2 UCLA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/11/no-9-womens-basketball-seeks-revenge-against-rival-no-2-ucla/">https://dailytrojan.com/2024/01/11/no-9-womens-basketball-seeks-revenge-against-rival-no-2-ucla/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/11/no-9-womens-basketball-seeks-revenge-against-rival-no-2-ucla/">Save to Pocket</a>
+</span>
+
+---
+
+## For new professors, teaching Mathematics 32A creates learning experiences
+
+date: 2024-01-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+The first time Richard Wong stood in front of a lecture hall of hundreds of students, it felt like a performance.
+&#8220;It was kind of scary to be like, &#8216;Here&#8217;s a class of 210 students.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/10/for-new-professors-teaching-mathematics-32a-creates-learning-experiences/">https://dailybruin.com/2024/01/10/for-new-professors-teaching-mathematics-32a-creates-learning-experiences/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/10/for-new-professors-teaching-mathematics-32a-creates-learning-experiences/">Save to Pocket</a>
+</span>
+
+---
+
+## Stem Cell Donor's Visa Denied Again
+
+date: 2024-01-11, updated: 2024-01-11, from: The LAist
+
+L.A. cancer patient depends on stem cell donation from his cousin, but he is not being allowed into the U.S. from the Philippines.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/stem-cell-donors-visa-denied-again">https://laist.com/news/stem-cell-donors-visa-denied-again</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/stem-cell-donors-visa-denied-again">Save to Pocket</a>
+</span>
+
+---
+
+## Digging Out: Newsom Outlines Plan To Cover State Budget Deficit
+
+date: 2024-01-10, updated: 2024-01-10, from: The LAist
+
+Gov. Newsom says the deficit is far smaller than what the Legislature’s analysts projected, and proposes only $8.5 billion in cuts by delaying spending and taking $13 billion from the state’s main reserves.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/digging-out-newsom-outlines-plan-to-cover-state-budget-deficit">https://laist.com/news/politics/digging-out-newsom-outlines-plan-to-cover-state-budget-deficit</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/digging-out-newsom-outlines-plan-to-cover-state-budget-deficit">Save to Pocket</a>
+</span>
+
+---
+
+## With fresh and familiar faces, UCLA men’s volleyball takes on ranked opponents
+
+date: 2024-01-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two ranked programs are awaiting the reigning national champions in Illinois.
+No. 1 UCLA men&#8217;s volleyball (2-0) is set to play No. 16 Lewis (1-1) on Thursday and No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/10/with-fresh-and-familiar-faces-ucla-mens-volleyball-takes-on-ranked-opponents/">https://dailybruin.com/2024/01/10/with-fresh-and-familiar-faces-ucla-mens-volleyball-takes-on-ranked-opponents/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/10/with-fresh-and-familiar-faces-ucla-mens-volleyball-takes-on-ranked-opponents/">Save to Pocket</a>
+</span>
 
 ---
 

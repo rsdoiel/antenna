@@ -1,11 +1,179 @@
 ---
 title: health 2024.02
-updated: 2024-01-10 08:42:52
+updated: 2024-01-11 14:45:08
 ---
 
 # health 2024.02
 
-(date: 2024-01-10 08:42:52)
+(date: 2024-01-11 14:45:08)
+
+---
+
+## The effect and mechanism of Fushen Granule on gut microbiome in the prevention and treatment of chronic renal failure
+
+date: 2024-01-11, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>Fushen Granule is an improved granule based on the classic formula Fushen Formula, which is used for the treatment of peritoneal dialysis-related intestinal dysfunction in patients with end-stage renal disease. However, the effect and mechanism of this granule on the prevention and treatment of chronic renal failure have not been fully elucidated.</p></sec><sec><title>Methods</title><p>A 5/6 nephrectomy model of CRF was induced and Fushen Granule was administered at low and high doses to observe its effects on renal function, D-lactate, serum endotoxin, and intestinal-derived metabolic toxins. The 16SrRNA sequencing method was used to analyze the abundance and structure of the intestinal flora of CRF rats. A FMT assay was also used to evaluate the effects of transplantation of Fushen Granule fecal bacteria on renal-related functional parameters and metabolic toxins in CRF rats.</p></sec><sec><title>Results</title><p>Gavage administration of Fushen Granule at low and high doses down-regulated creatinine, urea nitrogen, 24-h urine microalbumin, D-lactate, endotoxin, and the intestinal-derived toxins indophenol sulphateand p-cresol sulphate in CRF rats. Compared with the sham-operated group in the same period, CRF rats had a decreased abundance of the firmicutes phylum and an increased abundance of the bacteroidetes phylum at the phylum level, and a decreasing trend of the lactobacillus genus at the genus level. Fushen Granule intervention increased the abundance of the firmicutes phylum, decreased the abundance of the bacteroidetes phylum, and increased the abundance of the lactobacillus genus. The transplantation of Fushen Granule fecal bacteria significantly reduced creatinine(Cr), blood urea nitrogen(Bun), uric acid(UA), 24-h urinary microalbumin, D-lactate, serum endotoxin, and enterogenic metabolic toxins in CRF rats. Compared with the sham-operated group, the transplantation of Fushen Granule fecal bacteria modulated the Firmicutes and Bacteroidetes phyla and the Lactobacillus genus.</p></sec><sec><title>Conclusion</title><p>Fushen Granule improved renal function and intestinal barrier function by regulating intestinal flora, inhibiting renal fibrosis, and delaying the progression of chronic renal failure.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1334213">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1334213</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1334213">Save to Pocket</a>
+</span>
+
+---
+
+## Will previous antimicrobial therapy reduce the positivity rate of metagenomic next-generation sequencing in periprosthetic joint infections? A clinical study
+
+date: 2024-01-11, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>Metagenomic next-generation sequencing (mNGS) is a culture-independent massively parallel DNA sequencing technology and it has been widely used for rapid etiological diagnosis with significantly high positivity rate. Currently, clinical studies on evaluating the influence of previous antimicrobial therapy on positivity rate of mNGS in PJIs are rarely reported. The present study aimed to investigate whether the positivity rate of mNGS is susceptible to previous antimicrobial therapy.</p></sec><sec><title>Methods</title><p>We performed a prospective trial among patients who undergone hip or knee surgery due to periprosthetic joint infection (PJI) to compare the positivity rate of culture and mNGS between cases with and without previous antimicrobial therapy, and the positivity rates between cases with different antimicrobial-free intervals were also analysed.</p></sec><sec><title>Results</title><p>Among 131 included PJIs, 91 (69.5%) had positive cultures and 115 (87.8%) had positive mNGS results. There was no significant difference in the positivity rate of deep-tissue culture and synovial fluid mNGS between cases with and without previous antimicrobial therapy. The positivity rate of synovial fluid culture was higher in cases with previous antimicrobial therapy. The positivity rates of mNGS in synovial fluid decreased as the antimicrobial-free interval ranged from 4 to 14 days to 0 to 3 days.</p></sec><sec><title>Conclusion</title><p>mNGS is more advantageous than culture with a higher pathogen detection rate. However, our data suggested that antimicrobial agents may need to be discontinued more than 3 days before sampling to further increase the positivity rate of mNGS for PJIs.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1295962">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1295962</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1295962">Save to Pocket</a>
+</span>
+
+---
+
+## Characterization of Klebsiella pneumoniae carrying the blaNDM-1 gene in IncX3 plasmids and the rare In1765 in an IncFIB-IncHI1B plasmid
+
+date: 2024-01-11, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>Today, the <italic>bla</italic><sub>NDM</sub> gene is widely distributed on several plasmids from a variety of Gram-negative bacteria, primarily in transposons and gene cassettes within their multidrug-resistant (MDR) regions. This has led to the global dissemination of the <italic>bla</italic><sub>NDM</sub> gene.</p></sec><sec><title>Methods</title><p>The determination of class A beta-lactamase, class B and D carbapenemases was performed according to the recommendations of the Clinical and Laboratory Standards Institute (CLSI). Antimicrobial susceptibility testing was performed using both the BioMerieux VITEK2 system and antibiotic paper diffusion methods. Plasmid transfer was then evaluated by conjugation experiments and plasmid electroporation assays. To comprehensively analyze the complete genome of <italic>K. pneumoniae</italic> strain F11 and to investigate the presence of mobile genetic elements associated with antibiotic resistance and virulence genes, Nanopore and Illumina sequencing platforms were used, and bioinformatics methods were applied to analyze the obtained data.</p></sec><sec><title>Results</title><p>Our findings revealed that <italic>K. pneumoniae</italic> strain F11 carried class A beta-lactamase and classes B+D carbapenemases, and exhibited resistance to commonly used antibiotics, particularly tigecycline and ceftazidime/avibactam, due to the presence of relevant resistance genes. Plasmid transfer assays demonstrated successful recovery of plasmids pA_F11 and pB_F11, with average conjugation frequencies of 2.91×10<sup>-4</sup> and 1.56×10<sup>-4</sup>, respectively. However, plasmids pC_F11 and pD_F11 failed in both conjugation and electroporation experiments. The MDR region of plasmid pA_F11 contained rare In1765, Tn<italic>As2</italic>, and Tn<italic>As3</italic> elements. The MDR2 region of plasmid pB_F11 functioned as a mobile genetic “island” and lacked the <italic>bla</italic><sub>NDM-1</sub> gene, serving as a “bridge” connecting the early composite structure of <italic>ble</italic><sub>MBL</sub> and <italic>bla</italic><sub>NDM-1</sub> to the recent composite structure. Additionally, the MDR1 region of plasmid pB_F11 comprised In27, Tn<italic>As1</italic>, Tn<italic>As3</italic>, and Tn<italic>2</italic>; and plasmid pC_F11 harbored the recent composite structure of <italic>ble</italic><sub>MBL</sub> and <italic>bla</italic><sub>NDM-1</sub> within Tn<italic>3000</italic> which partially contained partial Tn<italic>125</italic>.</p></sec><sec><title>Conclusion</title><p>This study demonstrated that complex combinations of transposons and integron overlaps, along with the synergistic effects of different drug resistance and virulence genes, led to a lack of effective therapeutic agents for strain F11, therefore its dissemination and prevalence should be strictly controlled.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1324846">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1324846</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1324846">Save to Pocket</a>
+</span>
+
+---
+
+## Transcriptional profiling specifies the pathogen-specific human host response to infectious keratitis
+
+date: 2024-01-11, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Purpose</title><p>Corneal infections are a leading cause of visual impairment and blindness worldwide. Here we applied high-resolution transcriptomic profiling to assess the general and pathogen-specific molecular and cellular mechanisms during human corneal infection.</p></sec><sec><title>Methods</title><p>Clinical diagnoses of herpes simplex virus (HSV) (n=5) and bacterial/fungal (n=5) keratitis were confirmed by histology. Healthy corneas (n=7) and keratoconus (n=4) samples served as controls. Formalin-fixed, paraffin-embedded (FFPE) human corneal specimens were analyzed using the 3’ RNA sequencing method Massive Analysis of cDNA Ends (MACE RNA-seq). The cellular host response was investigated using comprehensive bioinformatic deconvolution (xCell and CYBERSORTx) analyses and by integration with published single cell RNA-seq data of the human cornea.</p></sec><sec><title>Results</title><p>Our analysis identified 216 and 561 genes, that were specifically overexpressed in viral or bacterial/fungal keratitis, respectively, and allowed to distinguish the two etiologies. The virus-specific host response was driven by adaptive immunity and associated molecular signaling pathways, whereas the bacterial/fungal-specific host response mainly involved innate immunity signaling pathways and cell types. We identified several genes and pathways involved in the host response to infectious keratitis, including CXCL9, CXCR3, and MMP9 for viral, and S100A8/A9, MMP9, and the IL17 pathway for bacterial/fungal keratitis.</p></sec><sec><title>Conclusions</title><p>High-resolution molecular profiling provides new insights into the human corneal host response to viral and bacterial/fungal infection. Pathogen-specific molecular profiles may provide the foundation for novel diagnostic biomarker and therapeutic approaches that target inflammation-induced damage to corneal host cells with the goal to improve the outcome of infectious keratitis.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1285676">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1285676</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1285676">Save to Pocket</a>
+</span>
+
+---
+
+## Potential roles of Culicoides spp. (Culicoides imicola, Culicoides oxystoma) as biological vectors of bluetongue virus in Yuanyang of Yunnan, P. R. China
+
+date: 2024-01-11, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p><italic>Culicoides</italic> plays a crucial role as an insect vector in the field of veterinary medicine. The transmission of significant viruses such as bluetongue virus (BTV) and African horse sickness virus (AHSV) by this insect poses a substantial threat, leading to the development of severe diseases in domestic animals. This study aimed to explore the <italic>Culicoides</italic> species, identify their blood-meal sources, and assess the presence of BTV and AHSV carried by <italic>Culicoides</italic> in Yuanyang County, Yunnan Province. The aim was to gain insights into the potential vectors of these two viruses and elucidate their potential roles in the transmission of pathogens.</p></sec><sec><title>Methods</title><p>The midges were collected from cattle (<italic>Bos indicus</italic>), pig (<italic>Sus scrofa</italic>), and goat (<italic>Capra hircus</italic>) pens in Yuanyang County, Yunnan Province in June 2020. Initial identification of midges was conducted through morphological characteristics, followed by molecular identification using the cytochrome C oxidase subunit I (COI) gene. The determination of <italic>Culicoides</italic> blood-meal sources was accomplished using specific primers targeting the cytochrome <italic>b</italic> (Cyt <italic>b</italic>) gene from potential hosts. BTV and AHSV RNA were identified in <italic>Culicoides</italic> pools through the application of reverse transcriptase PCR and quantitative real-time PCR. Nucleotide homology and phylogenetic analysis were performed using MegAlign (DNAStar) and Mega 6.0 software.</p></sec><sec><title>Results</title><p>A total of 6,300 <italic>Culicoides</italic>, consisting of <italic>C. oxystoma, C. arakawai, C. imicola</italic>, and <italic>C. innoxius</italic>, were collected from cattle, pigs, and goat pens. The engorgement rates for these species were 30.2%, 54.6%, 75%, and 66.7%, respectively. In the cattle pen, the prevailing species is <italic>C. oxystoma</italic> (100%). In the pig pen, <italic>C. arakawai </italic> dominates (70%), with <italic>C. oxystoma</italic> following at 30%. In the goat pen, <italic>C. imicola</italic> holds the majority (45.45%), trailed by <italic>C. oxystoma</italic> (25%), <italic>C. innoxius</italic> (20.45%), and <italic>C. arakawai</italic> (9.09%). These <italic>Culicoides</italic> species were identified as feeding on cattle, pigs, goats, chickens (<italic>Gallus gallus</italic>), and humans (<italic>Homo sapiens</italic>). The positivity rates for BTV were 20.00% and 11.54% in blood-fed specimens of <italic>C. imicola</italic> and <italic>C. oxystoma</italic>, respectively. Conversely, the positivity rates for BTV in non-blood-fed specimens were 0.00% and 6.67% for <italic>C. imicola</italic> and <italic>C. oxystoma</italic>, respectively. BTV was not detected in <italic>C. arakawai</italic> and <italic>C. innoxius</italic>. The specimens (YY86) from <italic>C. imicola</italic> that tested positive for BTV had the closest genetic relationship to YTS-4 isolated from Mangshi, Yunnan Province in 1996. All test results for the nucleic acid of AHSV were negative.</p></sec><sec><title>Conclusion</title><p>The study reveals variations in the species distribution, community composition, blood sucking rate, and blood-feeding sources of <italic>Culicoides</italic> across different habitats. Notably, <italic>C. imicola</italic> and <italic>C. oxystoma</italic> emerge as potential vectors for the transmission of BTV in local animals. Accordingly, this investigation provides crucial insights that can serve as a valuable reference for the prevention and control of BTV in local animals, particularly from the perspective of vector management.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1283216">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1283216</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1283216">Save to Pocket</a>
+</span>
+
+---
+
+## Endogenous retroviruses Suppressyn and Syncytin-2 as innovative prognostic biomarkers in Acute Myeloid Leukemia
+
+date: 2024-01-11, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>Emerging evidence has proven that human endogenous retroviruses (HERVs) play a critical role in the pathogenesis of Acute Myeloid Leukemia (AML), whereas the specific HERVs influencing the prognosis of AML patients have yet to be fully understood.</p></sec><sec><title>Methods</title><p>In this study, a systematic exploration was achieved to identify potential prognostic HERVs for AML, sourced from TCGA and GTEx database. Differential analysis and functional enrichment studies were conducted using GO, KEGG, GSEA, and GSVA. The ESTIMATE algorithm was applied to explore the immune infiltration of HERVs in AML. A prognostic risk-score model was evaluated with predicted yearly accuracy using ROC analysis.</p></sec><sec><title>Results</title><p>Two HERVs Suppressyn and Syncytin-2, were identified as promising prognostic biomarkers, with high discrimination ability based on ROC analysis between AML and healthy cohorts from TCGA. Their expression was notably higher in AML patients compared to those in healthy individuals but correlates with favorable clinical outcomes in sub-groups such as white race, lower WBC counts, favorable and intermediate risks, and NPM1 or IDH1 mutation. Suppressyn and Syncytin-2 participated in immune-related pathways and exhibited correlations with multiple immune infiltration cells, such as T cells, mast cells, and tumor-associated macrophages. Finally, we developed a prognostic risk-scoring model combining Suppressyn and Syncytin-2, where a high risk-score is associated with better prognosis.</p></sec><sec><title>Discussion</title><p>Collectively, our findings revealed that Suppressyn and Syncytin-2 may act as valuable diagnostic and prognostic biomarkers for individuals with AML, while highlighting links between HERV activation, immunogenicity, and future therapeutic targets.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1339673">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1339673</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1339673">Save to Pocket</a>
+</span>
+
+---
+
+## A guide to Stenotrophomonas maltophilia virulence capabilities, as we currently understand them
+
+date: 2024-01-11, from: Frontiers in Cellular and Infection Microbiology
+
+<p>The Gram-negative pathogen <italic>Stenotrophomonas maltophilia</italic> causes a wide range of human infections. It causes particularly serious lung infections in individuals with cystic fibrosis, leading to high mortality rates. This pathogen is resistant to most known antibiotics and harbors a plethora of virulence factors, including lytic enzymes and serine proteases, that cause acute infection in host organisms. <italic>S. maltophilia</italic> also establishes chronic infections through biofilm formation. The biofilm environment protects the bacteria from external threats and harsh conditions and is therefore vital for the long-term pathogenesis of the microbe. While studies have identified several genes that mediate <italic>S. maltophilia’s</italic> initial colonization and biofilm formation, the cascade of events initiated by these factors is poorly understood. Consequently, understanding these and other virulence factors can yield exciting new targets for novel therapeutics.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1322853">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1322853</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1322853">Save to Pocket</a>
+</span>
+
+---
+
+## DNA damage response coregulator ddrR affects many cellular pathways and processes in Acinetobacter baumannii 17978
+
+date: 2024-01-11, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p><italic>Acinetobacter baumannii</italic> strain 17978 is an opportunistic pathogen possessing a DNA damage response (DDR) in which multiple error-prone polymerase genes are co-repressed by a UmuD homolog, UmuDAb, and the small <italic>Acinetobacter</italic>-specific protein DdrR. Additionally, these regulators coactivate nine other genes. We identified the DNA damage-inducible transcriptome for wildtype, <italic>umuDAb</italic>, and <italic>recA</italic> strains, and later established the <italic>ddrR</italic> DDR transcriptome. However, the ATCC 17978 reference genome had several assembly errors and lacked the 44 kb virulence locus, AbaAL44, that is present in the strain 17978 UN.</p></sec><sec><title>Methods</title><p>For this project, we combined our earlier single-end read RNAseq data with the <italic>ddrR</italic> paired-end reads and aligned these data to the improved 17978 UN genome assembly that resembled our laboratory strain, 17978 JH.</p></sec><sec><title>Results</title><p>New DESeq2 analyses verified previous differentially expressed genes (DEGs) but also found 339 genes in 17978 JH that were not annotated or physically present in the older genome assembly. Sixty-three were differentially expressed after DNA damage, and 182 had differential basal expression when comparing <italic>umuDAb</italic>, <italic>ddrR</italic>, or <italic>recA</italic> strains to wildtype, with 94 genes’ expression unchanged. This work identified and characterized the 55 gene DNA damage-repressible transcriptome, 98% of which required either <italic>umuDAb</italic> or <italic>ddrR</italic> for repression. Two-thirds of these DEGs required both regulators. We also identified 110 genes repressed only in the <italic>ddrR</italic> strain, ~50% of which were due to increased basal expression levels. Basal gene expression in the <italic>ddrR</italic> mutant was further dysregulated independent of the DDR. Over 800 genes were upregulated, and over 1200 genes were downregulated compared to wildtype expression. Half of <italic>A. baumannii’s</italic> essential genes were upregulated in the <italic>ddrR</italic> strain, including cell division genes, and two-thirds of these were downregulated in the <italic>umuDAb</italic> strain.</p></sec><sec><title>Discussion</title><p>The <italic>ddrR</italic> mutant upregulated genes enriched in translation, RNA metabolism, protein metabolism, AA/FA/cell-structure synthesis, and transport, while downregulating genes enriched in quorum sensing, biofilm production, secretion systems, pilus production, cell adhesion, and aromatics and chlorine degradation. Our data underscore the need for accurate and appropriately matched genome assemblies and indicate that <italic>ddrR</italic> affects approximately 60% of the genome, rendering it a potential target for <italic>Acinetobacter baumannii</italic> infection treatment.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1324091">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1324091</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1324091">Save to Pocket</a>
+</span>
+
+---
+
+## Urine microbiome in individuals with an impaired immune system
+
+date: 2024-01-11, from: Frontiers in Cellular and Infection Microbiology
+
+<p>With the advent of next generation sequencing, it is now appreciated that human urine is not sterile. Recent investigations of the urinary microbiome (urobiome) have provided insights into several urological diseases. Urobiome dysbiosis, defined as non-optimal urine microbiome composition, has been observed in many disorders; however, it is not clear whether this dysbiosis is the cause of urinary tract disorders or a consequence. In addition, immunologically altered disorders are associated with higher rates of urinary tract infections. These disorders include immunoproliferative and immunodeficiency diseases, cancer, and immunosuppressant therapy in transplant recipients. In this review, we examine the current state of knowledge of the urobiome in immunologically altered diseases, its composition and metabolomic consequences. We conclude that more data are required to describe the urobiome in immune altered states, knowledge that could facilitate understanding the role of the urobiome and its pathophysiological effects on  urinary tract infections and other disorders of the urinary tract.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1308665">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1308665</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1308665">Save to Pocket</a>
+</span>
+
+---
+
+## Streptomyces albireticuli lung infection managed as a pulmonary air cyst: a case report and literature review
+
+date: 2024-01-11, from: Frontiers in Cellular and Infection Microbiology
+
+<p><italic>Streptomyces</italic>, the largest genus in the <italic>Streptomycetaceae</italic> family and a prolific producer of antibacterial drugs, is a saprophytic soil organism that rarely causes invasive infections. Here we report a case of necrotic pneumonia caused by <italic>Streptomyces albireticuli</italic> in a 75-year-old man who presented with progressive chest tightness and dyspnea. <italic>Streptomyces albireticuli</italic> was isolated from his bronchoalveolar lavage fluid and identified through whole-genome sequencing (WGS) and phylogenetic analysis. The patient responded satisfactorily to clarithromycin therapy. The findings of this study may enhance our vigilance in identifying visceral infections caused by <italic>Streptomyces</italic>.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1296491">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1296491</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1296491">Save to Pocket</a>
+</span>
+
+---
+
+## Lysosomal trafficking regulator restricts intracellular growth of Coxiella burnetii by inhibiting the expansion of Coxiella-containing vacuole and upregulating nos2 expression
+
+date: 2024-01-11, from: Frontiers in Cellular and Infection Microbiology
+
+<p><italic>Coxiella burnetii</italic> is an obligate intracellular bacterium that causes Q fever, a zoonotic disease typically manifests as a severe flu-illness. After invading into the host cells, <italic>C. burnetii</italic> delivers effectors to regulate the vesicle trafficking and fusion events to form a large and mature <italic>Coxiella</italic>-containing vacuole (CCV), providing sufficient space and nutrition for its intracellular growth and proliferation. Lysosomal trafficking regulator (LYST) is a member of the Beige and Chediak-Higashi syndrome (BEACH) family, which regulates the transport of vesicles to lysosomes and regulates TLR signaling pathway, but the effect of LYST on <italic>C. burnetii</italic> infection is unclear. In this study, a series of experiments has been conducted to investigate the influence of LYST on intracellular growth of <italic>C. burnetii</italic>. Our results showed that <italic>lyst</italic> transcription was up-regulated in the host cells after <italic>C. burnetii</italic> infection, but there is no significant change in <italic>lyst</italic> expression level after infection with the Dot/Icm type IV secretion system (T4SS) mutant strain, while CCVs expansion and significantly increasing load of <italic>C. burnetii</italic> appeared in the host cells with a silenced <italic>lyst</italic> gene, suggesting LYST inhibits the intracellular proliferation of <italic>C. burnetii</italic> by reducing CCVs size. Then, the size of CCVs and the load of <italic>C. burnetii</italic> in the HeLa cells pretreated with E-64d were significantly decreased. In addition, the level of iNOS was decreased significantly in LYST knockout THP-1 cells, which was conducive to the intracellular replication of <italic>C. burnetii</italic>. This data is consistent with the phenotype of L-NMMA-treated THP-1 cells infected with <italic>C. burnetii</italic>. Our results revealed that the upregulation of <italic>lyst</italic> transcription after infection is due to effector secretion of <italic>C. burnetii</italic> and LYST inhibit the intracellular replication of <italic>C. burnetii</italic> by reducing the size of CCVs and inducing <italic>nos2</italic> expression.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1336600">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1336600</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1336600">Save to Pocket</a>
+</span>
+
+---
+
+## Genetic evidence on the causality between gut microbiota and various asthma phenotypes: a two-sample Mendelian randomization study
+
+date: 2024-01-11, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>Asthma is a multifarious disease that manifests in various phenotypes. Among the various factors that contribute to the development of asthma, the gut microbiota has recently emerged as a compelling area of investigation. This study aims to investigate the causal relationships between gut microbiota and distinct asthma phenotypes.</p></sec><sec><title>Methods</title><p>The genome-wide association study (GWAS) summary statistics for 211 gut microbial taxa were used as study exposure. Five traits pertaining to various asthma phenotypes (asthma, allergic asthma, childhood asthma, suggestive for eosinophilic asthma and obesity-related asthma) were included as study outcome. We conducted Mendelian randomization (MR) analysis and sensitivity analysis for each bacterial taxa and asthma phenotypes.</p></sec><sec><title>Result</title><p>We discovered a total of 58 associations that exhibited evidence of causality. Out of these, 4 associations remained significant even after applying multiple correction. An increased risk of asthma was causally associated with higher abundance of genus <italic>Holdemanella</italic> (OR = 1.11; CI: 1.05-1.17; p = 0.027), genus <italic>Oxalobacter</italic> (OR = 1.09; CI: 1.04-1.15; p = 0.025) and genus <italic>Butyricimonas</italic> (OR = 1.14; CI: 1.06-1.22; p = 0.027). Order <italic>NB1n</italic> was causally linked with an increased risk of obesity-related asthma (OR = 1.17; CI: 1.07-1.29; p = 0.015). There was limited overlap among the taxa that exhibited potential causal relationships with distinct asthma phenotypes.</p></sec><sec><title>Conclusion</title><p>Our research has provided genetic evidence that establishes multiple causal relationships between the gut microbiota and distinct asthma phenotypes, supporting the role of the gut microbiota in various asthma phenotypes. It is possible that different taxa play a role in the development of distinct asthma phenotypes. The causal relationships identified in this study require further investigation.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1270067">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1270067</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1270067">Save to Pocket</a>
+</span>
+
+---
+
+## Gut microbiome-based noninvasive diagnostic model to predict acute coronary syndromes
+
+date: 2024-01-11, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>Previous studies have shown that alterations in the gut microbiota are closely associated with Acute Coronary Syndrome (ACS) development. However, the value of gut microbiota for early diagnosis of ACS remains understudied.</p></sec><sec><title>Methods</title><p>We recruited 66 volunteers, including 29 patients with a first diagnosis of ACS and 37 healthy volunteers during the same period, collected their fecal samples, and sequenced the V4 region of the 16S rRNA gene. Functional prediction of the microbiota was performed using PICRUSt2. Subsequently, we constructed a nomogram and corresponding webpage based on microbial markers to assist in the diagnosis of ACS. The diagnostic performance and usefulness of the model were analyzed using boostrap internal validation, calibration curves, and decision curve analysis (DCA).</p></sec><sec><title>Results</title><p>Compared to that of healthy controls, the diversity and composition of microbial community of patients with ACS was markedly abnormal. Potentially pathogenic genera such as <italic>Streptococcus</italic> and <italic>Acinetobacter</italic> were significantly increased in the ACS group, whereas certain SCFA-producing genera such as <italic>Blautia</italic> and <italic>Agathobacter</italic> were depleted. In addition, in the correlation analysis with clinical indicators, the microbiota was observed to be associated with the level of inflammation and severity of coronary atherosclerosis. Finally, a diagnostic model for ACS based on gut microbiota and clinical variables was developed with an area under the receiver operating characteristic (ROC) curve (AUC) of 0.963 (95% CI: 0.925–1) and an AUC value of 0.948 (95% CI: 0.549–0.641) for bootstrap internal validation. The calibration curves of the model show good consistency between the actual and predicted probabilities. The DCA showed that the model had a high net clinical benefit for clinical applications.</p></sec><sec><title>Conclusion</title><p>Our study is the first to characterize the composition and function of the gut microbiota in patients with ACS and healthy populations in Southwest China and demonstrates the potential effect of the microbiota as a non-invasive marker for the early diagnosis of ACS.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1305375">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1305375</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1305375">Save to Pocket</a>
+</span>
+
+---
+
+## A novel enemy of cancer: recent investigations into protozoan anti-tumor properties
+
+date: 2024-01-11, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Cancer remains a significant global health issue, despite advances in screening and treatment. While existing tumor treatment protocols such as surgery, chemotherapy, radiotherapy, targeted therapy, and immunotherapy have proven effective in enhancing the prognosis for some patients, these treatments do not benefit all patients. Consequently, certain types of cancer continue to exhibit a relatively low 5-year survival rate. Therefore, the pursuit of novel tumor intervention strategies may help improve the current effectiveness of tumor treatment. Over the past few decades, numerous species of protozoa and their components have exhibited anti-tumor potential via immune and non-immune mechanisms. This discovery introduces a new research direction for the development of new and effective cancer treatments. Through <italic>in vitro</italic> experiments and studies involving tumor-bearing mice, the anti-tumor ability of <italic>Toxoplasma gondii</italic>, <italic>Plasmodium</italic>, <italic>Trypanosoma cruzi</italic>, and other protozoa have unveiled diverse mechanisms by which protozoa combat cancer, demonstrating encouraging prospects for their application. In this review, we summarize the anti-tumor ability and anti-tumor mechanisms of various protozoa and explore the potential for their clinical development and application.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1325144">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1325144</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1325144">Save to Pocket</a>
+</span>
 
 ---
 

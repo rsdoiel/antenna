@@ -1,11 +1,37 @@
 ---
 title: libraries 2024.02
-updated: 2024-01-10 08:42:52
+updated: 2024-01-11 14:45:08
 ---
 
 # libraries 2024.02
 
-(date: 2024-01-10 08:42:52)
+(date: 2024-01-11 14:45:08)
+
+---
+
+## Poetry, by Langston Hughes
+
+date: 2024-01-11, from: Standard Ebooks, new releaases
+
+A collection of poems by Langston Hughes.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/langston-hughes/poetry">https://standardebooks.org/ebooks/langston-hughes/poetry</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/langston-hughes/poetry">Save to Pocket</a>
+</span>
+
+---
+
+## Guest Post — Beyond Generative AI: The Indispensable Role of BERT in Scholarly Publishing
+
+date: 2024-01-11, from: Scholarly Kitchen
+
+<p>ChatGPT has popularized generative AI, but interpretive AI has quietly remained in the shadows. Interpretive AI offers profound insights into content and audience engagement, a critical tool for publishers aiming to harness the full potential of AI.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/01/11/guest-post-beyond-generative-ai-the-indispensable-role-of-bert-in-scholarly-publishing/">Guest Post &#8212; Beyond Generative AI: The Indispensable Role of BERT in Scholarly Publishing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/01/11/guest-post-beyond-generative-ai-the-indispensable-role-of-bert-in-scholarly-publishing/">https://scholarlykitchen.sspnet.org/2024/01/11/guest-post-beyond-generative-ai-the-indispensable-role-of-bert-in-scholarly-publishing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/01/11/guest-post-beyond-generative-ai-the-indispensable-role-of-bert-in-scholarly-publishing/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -39,7 +65,7 @@ Dreyfus, Roland
 
 date: 2024-01-09, from: Association of Research Libraries News
 
-<p>Last Updated on January 9, 2024, 4:14 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 9 &#124; Wednesday, January 10 &#124; Thursday,...</p>
+<p>Last Updated on January 11, 2024, 4:04 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 9 &#124; Wednesday, January 10 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-9-12-2/">Day in Review (January 8–11)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 
