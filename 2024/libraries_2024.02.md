@@ -1,11 +1,24 @@
 ---
 title: libraries 2024.02
-updated: 2024-01-12 08:01:59
+updated: 2024-01-13 14:35:39
 ---
 
 # libraries 2024.02
 
-(date: 2024-01-12 08:01:59)
+(date: 2024-01-13 14:35:39)
+
+---
+
+## Preprints in debate… six years later
+
+date: 2024-01-12, from: SciELO in Perspective
+
+<p>Six years have passed since social science publishers began debating preprints. A look back shows that the "risks" and "promises" raised in that debate rested on an inadequate understanding of the nature of preprints in the field. The SciELO preprints server, however, ended up showing some unexpected benefits. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2024/01/12/preprints-in-debate-six-years-later/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2024/01/12/preprints-in-debate-six-years-later/">Preprints in debate… six years later</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>
+
+<span class="feed-item-link">
+<a href="https://blog.scielo.org/en/2024/01/12/preprints-in-debate-six-years-later/">https://blog.scielo.org/en/2024/01/12/preprints-in-debate-six-years-later/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.scielo.org/en/2024/01/12/preprints-in-debate-six-years-later/">Save to Pocket</a>
+</span>
 
 ---
 

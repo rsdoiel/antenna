@@ -395,11 +395,21 @@ https://blog.getpocket.com/feed/ "~Get Pocket blog"
 https://odysseygamesco.com/feed/ "~Odyssey Games blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://blog.ayjay.org/feed/ "~Ayjay blog"
 https://poynder.blogspot.com/feeds/posts/default?alt=rss "~Richard Poydner blog"
-https://www.frontiersin.org/journals/cellular-and-infection-microbiology/rss "~Frontiers in Cellar and Infection Microbiology" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+#https://www.frontiersin.org/journals/cellular-and-infection-microbiology/rss "~Frontiers in Cellar and Infection Microbiology" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://api.quantamagazine.org/feed/ "~Quanta Magazine" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://jon-e.net/blog/feed.xml "~Jonny Saunders blog"
 http://blog.guidoism.com/feed.atom "~Guido Bartolucci blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://www.fromjason.xyz/notebook/feed/feed.xml "~ Jason Valazquez noteboook" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+
+#
+# Software and Technology
+#
+https://medium.com/feed/@hywan "~Ivan Enderlin's Medium Wasmer announcements" 
+
+#
+# Policy
+#
+https://www.rand.org/blog.xml "~RAND blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #
 # Problem feeds

@@ -1,11 +1,156 @@
 ---
 title: socal north 2024.02
-updated: 2024-01-12 08:01:59
+updated: 2024-01-13 14:35:39
 ---
 
 # socal north 2024.02
 
-(date: 2024-01-12 08:01:59)
+(date: 2024-01-13 14:35:39)
+
+---
+
+## LAPD Chief Michel Moore Is Retiring
+
+date: 2024-01-12, updated: 2024-01-13, from: The LAist
+
+The police chief will stay on as a consultant when he steps down in February, Mayor Karen Bass announced.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/criminal-justice/lapd-chief-michel-moore-retiring">https://laist.com/news/criminal-justice/lapd-chief-michel-moore-retiring</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/criminal-justice/lapd-chief-michel-moore-retiring">Save to Pocket</a>
+</span>
+
+---
+
+## Where to Volunteer And Celebrate With Community This Martin Luther King Jr. Weekend
+
+date: 2024-01-12, updated: 2024-01-12, from: The LAist
+
+Here's a list of MLK events from parades to volunteer work happening this weekend and on the holiday.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/where-to-volunteer-and-celebrate-with-community-this-martin-luther-king-jr-weekend">https://laist.com/news/where-to-volunteer-and-celebrate-with-community-this-martin-luther-king-jr-weekend</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/where-to-volunteer-and-celebrate-with-community-this-martin-luther-king-jr-weekend">Save to Pocket</a>
+</span>
+
+---
+
+## Emmy’s 2024
+
+date: 2024-01-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+After a Hollywood shutdown and four month delay, the 75th Primetime Emmy Awards are underway in the heart of Los Angeles. Filled with groundbreaking performances and outstanding technical achievements, the year’s television season leaves the Television Academy with much to celebrate.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/tag/emmys-2024">https://dailybruin.com/tag/emmys-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/tag/emmys-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Avalon Lions Club 2024 50 mile/50k Benefit Run
+
+date: 2024-01-12, from: Catalina Islander
+
+Saturday, Jan. 6, 2024, was greeted in Avalon by 1,139 excited runners. The 50-mile run from Avalon to Two Harbors and return saw 450 runners lined up for the 5 a.m., start ready go. An additional 689 runners were getting ready for the 6 a.m. start of the 50 Kilometer run to the Littler Harbor [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/avalon-lions-club-2024-50-mile-50k-benefit-run/">https://thecatalinaislander.com/avalon-lions-club-2024-50-mile-50k-benefit-run/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/avalon-lions-club-2024-50-mile-50k-benefit-run/">Save to Pocket</a>
+</span>
+
+---
+
+## BREAKING: ASLMU revives After Sunset, bringing EDM back to the Bluff
+
+date: 2024-01-12, from: Laloyolan (LMU Student Newspaper)
+
+After a three-year hiatus, ASLMU leadership has made it their mission to restore the annual spring EDM concert tradition After Sunset.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/breaking-aslmu-revives-after-sunset-bringing-edm-back-to-the-bluff/article_f599ab8e-b17b-11ee-a90c-930da4c9df3e.html">https://www.laloyolan.com/news/breaking-aslmu-revives-after-sunset-bringing-edm-back-to-the-bluff/article_f599ab8e-b17b-11ee-a90c-930da4c9df3e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/breaking-aslmu-revives-after-sunset-bringing-edm-back-to-the-bluff/article_f599ab8e-b17b-11ee-a90c-930da4c9df3e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Islanders mourn loss of Pastor Ron Eroen
+
+date: 2024-01-12, from: Catalina Islander
+
+Waves of grief began circulating across the island this week after news regarding the sudden death of longtime Pastor and Harbor Patrolman Ron Eroen was confirmed. Authorities say they are still investigating the circumstances surrounding his death, but Eroen died four days after being involved in a scooter accident on New Year’s Eve near the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/islanders-mourn-loss-of-pastor-ron-eroen/">https://thecatalinaislander.com/islanders-mourn-loss-of-pastor-ron-eroen/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/islanders-mourn-loss-of-pastor-ron-eroen/">Save to Pocket</a>
+</span>
+
+---
+
+## Avalon hospital in financial trouble
+
+date: 2024-01-12, from: Catalina Islander
+
+A slide depicting a forecast of days with “cash on hand” showed the local hospital’s cash decreasing until June. Jason Paret, CEO of Catalina Island Health, told the Avalon City Council on Tuesday, Jan. 9, that he might be able to hang on until June. Paret said he was not asking the city for money. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/avalon-hospital-in-financial-trouble/">https://thecatalinaislander.com/avalon-hospital-in-financial-trouble/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/avalon-hospital-in-financial-trouble/">Save to Pocket</a>
+</span>
+
+---
+
+## Joseph’s Diagnosis: UCLA men’s basketball’s 46-point loss to Utah marks worst in program history
+
+date: 2024-01-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+It&#8217;s not uncommon for one team to double the other&#8217;s score in the game&#8217;s opening minutes.
+However, that mathematical quirk seldom rings true at the sound of the final buzzer.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/12/josephs-diagnosis-ucla-mens-basketballs-46-point-loss-to-utah-marks-worst-in-program-history/">https://dailybruin.com/2024/01/12/josephs-diagnosis-ucla-mens-basketballs-46-point-loss-to-utah-marks-worst-in-program-history/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/12/josephs-diagnosis-ucla-mens-basketballs-46-point-loss-to-utah-marks-worst-in-program-history/">Save to Pocket</a>
+</span>
+
+---
+
+## Golf: Big Break winners
+
+date: 2024-01-12, from: Catalina Islander
+
+Catalina Island Women’s Club had their Big Break Tournament. The tournament has a point system to win. Points are given for longest drive, closest to the pin and others. The winner was Teri Alexander with 7 points. Second was Ellen Guion with 6 and a tie for 3rd with Elena Maria and Celeste Meza coming [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/golf-big-break-winners/">https://thecatalinaislander.com/golf-big-break-winners/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/golf-big-break-winners/">Save to Pocket</a>
+</span>
+
+---
+
+## League play heating up for Lancer hoops
+
+date: 2024-01-12, from: Catalina Islander
+
+The Avalon High girls basketball team has taken an early lead in the Academy League race, going 2-0 in their first two games. The Lancers have league wins over Western Christian and Newport Christian. In the win over Newport Christian, Xemina Moreno led the Lancers with 25 points in a 39-28 win over the Seahawks [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/league-play-heating-up-for-lancer-hoops/">https://thecatalinaislander.com/league-play-heating-up-for-lancer-hoops/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/league-play-heating-up-for-lancer-hoops/">Save to Pocket</a>
+</span>
+
+---
+
+## California Is Boosting Doula Pay. Will It Bring More Support For Families?
+
+date: 2024-01-12, updated: 2024-01-12, from: The LAist
+
+New parents and pregnant Californians can now request the support of a doula through Medi-Cal, but for the program to succeed, the state needs to attract more birthworkers to the program.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/early-childhood-education-pre-k/california-medi-cal-medicaid-doula-pay-increase-pregnancy-2024">https://laist.com/news/education/early-childhood-education-pre-k/california-medi-cal-medicaid-doula-pay-increase-pregnancy-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/early-childhood-education-pre-k/california-medi-cal-medicaid-doula-pay-increase-pregnancy-2024">Save to Pocket</a>
+</span>
+
+---
+
+## What The Displacement Of Storied Restaurant Suehiro Means For Little Tokyo
+
+date: 2024-01-12, updated: 2024-01-12, from: The LAist
+
+The move of Suehiro Cafe to Downtown LA is yet another example of local businesses leaving the neighborhood, nibbling away at its cultural identity
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/suehiro-what-the-displacement-of-a-storied-restaurant-means-for-little-tokyo">https://laist.com/news/food/suehiro-what-the-displacement-of-a-storied-restaurant-means-for-little-tokyo</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/suehiro-what-the-displacement-of-a-storied-restaurant-means-for-little-tokyo">Save to Pocket</a>
+</span>
 
 ---
 
@@ -23,9 +168,9 @@ The move of Suehiro Cafe to Downtown LA is yet another example of local business
 
 ## Iconic Pea Soup Andersen's Has Closed. Here Are Your Memories
 
-date: 2024-01-12, updated: 2024-01-12, from: The LAist
+date: 2024-01-12, updated: 2024-01-13, from: The LAist
 
-We share memories from staff and others about visiting Pea Soup Andersen's in Buelton, which closed this week.
+We share memories from staff and others about visiting Pea Soup Andersen's in Buellton, which closed this week.
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/food/iconic-pea-soup-andersens-has-closed-here-are-your-memories">https://laist.com/news/food/iconic-pea-soup-andersens-has-closed-here-are-your-memories</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/iconic-pea-soup-andersens-has-closed-here-are-your-memories">Save to Pocket</a>
@@ -260,11 +405,11 @@ On Monday night, the 75th annual Emmy Awards will once again applaud excellence 
 
 ---
 
-## UCLA men’s basketball crushed by Utah in second-worst loss of all time
+## UCLA men’s basketball crushed by Utah in second-biggest loss of all time
 
 date: 2024-01-12, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Jan. 11 at 11:50 p.m.&#160;</em>
+<em>This post was updated Jan. 12 at 10:43 a.m.&#160;</em>
 One record in the history of UCLA and Utah matchups was broken Thursday night in Salt Lake City.&#160;
 The previous record for the Bruins’ biggest loss to the Utes was shattered by 14 points as Utah outscored UCLA 57-21 in the second half en route to a 46-point win.&#160;
 The loss proved the second worst in program history – two points short of tying for the largest margin of defeat.
@@ -705,6 +850,18 @@ L.A. cancer patient depends on stem cell donation from his cousin, but he is not
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/stem-cell-donors-visa-denied-again">https://laist.com/news/stem-cell-donors-visa-denied-again</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/stem-cell-donors-visa-denied-again">Save to Pocket</a>
+</span>
+
+---
+
+## Savings Would Shield California Schools From Budget Cuts Under Newsom Proposal
+
+date: 2024-01-10, updated: 2024-01-12, from: The LAist
+
+California’s proposed budget is $37.9 billion short, but maintains funding for K-12 schools, kids’ mental health, and community schools.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/california-education-budget-proposal-2024">https://laist.com/news/education/california-education-budget-proposal-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/california-education-budget-proposal-2024">Save to Pocket</a>
 </span>
 
 ---

@@ -1,11 +1,74 @@
 ---
 title: columns 2024.02
-updated: 2024-01-12 08:01:59
+updated: 2024-01-13 14:35:39
 ---
 
 # columns 2024.02
 
-(date: 2024-01-12 08:01:59)
+(date: 2024-01-13 14:35:39)
+
+---
+
+## Friday Squid Blogging: Giant Squid from Newfoundland in the 1800s
+
+date: 2024-01-12, updated: 2024-01-05, from: Bruce Schneier blog
+
+<p>Interesting <a href="https://www.cbc.ca/newsinteractives/features/giant-squid-photo">article</a>, with photographs.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p>Read my blog posting guidelines <a href="https://www.schneier.com/blog/archives/2017/03/commenting_poli.html">here</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/friday-squid-blogging-giant-squid-from-newfoundland-in-the-1800s.html">https://www.schneier.com/blog/archives/2024/01/friday-squid-blogging-giant-squid-from-newfoundland-in-the-1800s.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/friday-squid-blogging-giant-squid-from-newfoundland-in-the-1800s.html">Save to Pocket</a>
+</span>
+
+---
+
+## Lineup Changes on Apple’s Board of Directors: Al Gore and James Bell Retire; Wanda Austin Joins
+
+date: 2024-01-12, updated: 2024-01-12, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.apple.com/newsroom/2024/01/wanda-austin-to-join-apples-board-of-directors/">https://www.apple.com/newsroom/2024/01/wanda-austin-to-join-apples-board-of-directors/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.apple.com/newsroom/2024/01/wanda-austin-to-join-apples-board-of-directors/">Save to Pocket</a>
+</span>
+
+---
+
+## Why Platforms Do Platform Things
+
+date: 2024-01-12, from: Om Malik blog
+
+Every so&#160;often,&#160;when I ask myself — why do I make such an effort to maintain my homestead on the internet and manage my newsletter? The answer bubbles up every so often when a social media platform manages to jerk&#160;its&#160;users&#160;around. The latest brouhaha around Substack is like yet another Marvel movie sequel—a repeat of the old &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/01/12/why-platforms-do-platform-things/">https://om.co/2024/01/12/why-platforms-do-platform-things/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/01/12/why-platforms-do-platform-things/">Save to Pocket</a>
+</span>
+
+---
+
+## How Trump is exploiting our scarcest resource 
+
+date: 2024-01-12, from: Robert Reich's blog
+
+And making Biden disappear
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/how-trump-is-exploiting-our-scarcest">https://robertreich.substack.com/p/how-trump-is-exploiting-our-scarcest</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/how-trump-is-exploiting-our-scarcest">Save to Pocket</a>
+</span>
+
+---
+
+## Sunday caption contest: the currents
+
+date: 2024-01-12, from: Robert Reich's blog
+
+And last week&#8217;s winner
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/sunday-caption-contest-the-currents">https://robertreich.substack.com/p/sunday-caption-contest-the-currents</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/sunday-caption-contest-the-currents">Save to Pocket</a>
+</span>
 
 ---
 
@@ -79,6 +142,18 @@ date: 2024-01-12, updated: 2024-01-12, from: Daring Fireball
 
 <span class="feed-item-link">
 <a href="https://liam-on-linux.dreamwidth.org/88032.html">https://liam-on-linux.dreamwidth.org/88032.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://liam-on-linux.dreamwidth.org/88032.html">Save to Pocket</a>
+</span>
+
+---
+
+## Friday 12 January, 2024
+
+date: 2024-01-12, from: John Naughton's online diary
+
+It’s a long, long road… … that has no turning. (Though it might have been built by the Romans.) Quote of the Day ”The four stages of life are infancy, childhood, adolescence and obsolescence” Art Linklater Musical alternative to the &#8230; <a href="https://memex.naughtons.org/friday-12-january-2024/39023/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/friday-12-january-2024/39023/">https://memex.naughtons.org/friday-12-january-2024/39023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/friday-12-january-2024/39023/">Save to Pocket</a>
 </span>
 
 ---

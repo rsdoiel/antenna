@@ -1,11 +1,47 @@
 ---
 title: mid central 2024.02
-updated: 2024-01-12 08:01:59
+updated: 2024-01-13 14:35:39
 ---
 
 # mid central 2024.02
 
-(date: 2024-01-12 08:01:59)
+(date: 2024-01-13 14:35:39)
+
+---
+
+## 2024 Orlando HamCation Awards
+
+date: 2024-01-12, from: Amateur Radio Relay League News
+
+<p>The HamCation® Awards committee has announced the 2024 Orlando HamCation recipients of the Carole Perry Educator of the Year and the Gordon West Ambassador of the Year awards. Both awards will be presented at the 2024 Orlando HamCation, which is hosting this year's ARRL Florida State Convention, on February 9 - 11, 2024.</p><p>Lewis Malchick, N2RQ, is the recipient of this year's Carole Perry Educator...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/2024-orlando-hamcation-awards">http://www.arrl.org/news/view/2024-orlando-hamcation-awards</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/2024-orlando-hamcation-awards">Save to Pocket</a>
+</span>
+
+---
+
+## ARRL Kids Day a Success in Nebraska
+
+date: 2024-01-12, from: Amateur Radio Relay League News
+
+<p>The Bellevue Amateur Radio Club and the Science Club at Yates Illuminates teamed up to offer the youth in Omaha, Nebraska, with an opportunity to get on the air for ARRL Kids Day.</p><p>The event occurred on Saturday, January 6, 2024, at Yates Illuminates, a former elementary school that is now a culture and community center. Amateur radio operators Dudley Allen, KD0NMD; Terry Gampper, N0BXQ; Frank Jo...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/arrl-kids-day-a-success-in-nebraska">http://www.arrl.org/news/view/arrl-kids-day-a-success-in-nebraska</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/arrl-kids-day-a-success-in-nebraska">Save to Pocket</a>
+</span>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-01-12, from: Amateur Radio Relay League News
+
+<p>Eight new sunspot groups emerged over this reporting week, January<br />4-10.<br /><br />Four new sunspot groups appeared on January 5, another two on<br />January 7 and two more on January 9.<br /><br />Average daily sunspot numbers rose from 63.4 to 146.1, and average<br />daily solar flux went from 141.9 to 163.3.<br /><br />Geomagnetic indicators declined, with planetary A index going from<br />6.7 to 4.9, and middle latitude numbers from 5.1 to 4.3...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/the-k7ra-solar-update-812">http://www.arrl.org/news/view/the-k7ra-solar-update-812</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/the-k7ra-solar-update-812">Save to Pocket</a>
+</span>
 
 ---
 
@@ -229,18 +265,6 @@ date: 2024-01-09, from: EDN Blog
 
 <span class="feed-item-link">
 <a href="https://www.edn.com/power-tips-124-how-to-improve-the-power-factor-of-a-pfc/">https://www.edn.com/power-tips-124-how-to-improve-the-power-factor-of-a-pfc/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/power-tips-124-how-to-improve-the-power-factor-of-a-pfc/">Save to Pocket</a>
-</span>
-
----
-
-## There are no active watches, warnings or advisories
-
-date: 2024-01-09, updated: 2024-01-09, from: Merced, Weather.gov CAP v1.1 alerts
-
-
-
-<span class="feed-item-link">
-<a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
 </span>
 
 ---

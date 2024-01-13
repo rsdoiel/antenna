@@ -1,11 +1,71 @@
 ---
 title: games 2024.02
-updated: 2024-01-12 08:01:59
+updated: 2024-01-13 14:35:39
 ---
 
 # games 2024.02
 
-(date: 2024-01-12 08:01:59)
+(date: 2024-01-13 14:35:39)
+
+---
+
+## Killers of the Flower Moon, Napoleon, and every new movie to watch at home this weekend
+
+date: 2024-01-12, updated: 2024-01-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/1/12/24023012/new-movies-watch-killers-of-the-flower-moon-apple-tv-lift-netflix-napoleon">https://www.polygon.com/2024/1/12/24023012/new-movies-watch-killers-of-the-flower-moon-apple-tv-lift-netflix-napoleon</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/1/12/24023012/new-movies-watch-killers-of-the-flower-moon-apple-tv-lift-netflix-napoleon">Save to Pocket</a>
+</span>
+
+---
+
+## Pokémon Go ‘Dazzling Dream’ event, Collection Challenge guide
+
+date: 2024-01-12, updated: 2024-01-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/pokemon-go-guide/2024/1/12/24036094/dazzling-dream-event-collection-challenge-timed-research-spawns-shiny-cutiefly">https://www.polygon.com/pokemon-go-guide/2024/1/12/24036094/dazzling-dream-event-collection-challenge-timed-research-spawns-shiny-cutiefly</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/pokemon-go-guide/2024/1/12/24036094/dazzling-dream-event-collection-challenge-timed-research-spawns-shiny-cutiefly">Save to Pocket</a>
+</span>
+
+---
+
+## Overwatch 2 getting huge change to tanks and damage heroes, who will self-heal soon
+
+date: 2024-01-12, updated: 2024-01-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24036380/overwatch-2-season-9-tank-dps-self-healing-passive">https://www.polygon.com/24036380/overwatch-2-season-9-tank-dps-self-healing-passive</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24036380/overwatch-2-season-9-tank-dps-self-healing-passive">Save to Pocket</a>
+</span>
+
+---
+
+## Smite 2 is coming, won’t replace the original Smite
+
+date: 2024-01-12, updated: 2024-01-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24036211/smite-2-hi-rez-studios-pc-moba">https://www.polygon.com/24036211/smite-2-hi-rez-studios-pc-moba</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24036211/smite-2-hi-rez-studios-pc-moba">Save to Pocket</a>
+</span>
+
+---
+
+## Humble’s $10 bundle includes several AGDQ 2024 speedrunning favorites
+
+date: 2024-01-12, updated: 2024-01-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24036258/humble-bundle-agdq-2024-bayonetta-sonic-celeste-bloodstained">https://www.polygon.com/deals/24036258/humble-bundle-agdq-2024-bayonetta-sonic-celeste-bloodstained</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24036258/humble-bundle-agdq-2024-bayonetta-sonic-celeste-bloodstained">Save to Pocket</a>
+</span>
 
 ---
 
