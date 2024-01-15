@@ -405,6 +405,7 @@ https://www.fromjason.xyz/notebook/feed/feed.xml "~ Jason Valazquez noteboook" c
 # Software and Technology
 #
 https://medium.com/feed/@hywan "~Ivan Enderlin's Medium Wasmer announcements" 
+https://conoroneill.net/index.xml "~Conor O'Niell's blog, Cross Dominant"
 
 #
 # Policy
