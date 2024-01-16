@@ -1,16 +1,11 @@
 ---
 title: pacific 2024.03
-<<<<<<< HEAD
-updated: 2024-01-16 08:35:17
-=======
-updated: 2024-01-16 08:15:41
->>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
+updated: 2024-01-16 09:06:18
 ---
 
 # pacific 2024.03
 
-<<<<<<< HEAD
-(date: 2024-01-16 08:35:17)
+(date: 2024-01-16 09:06:18)
 
 ---
 
@@ -131,9 +126,6 @@ ATTORNEY Robert T. Torres on Monday expressed his support for the nomination of 
 <span class="feed-item-link">
 <a href="https://www.mvariety.com/news/local/attorney-supports-tenorios-nomination-to-superior-court/article_9adc071e-b450-11ee-b930-9bbd82b865b8.html">https://www.mvariety.com/news/local/attorney-supports-tenorios-nomination-to-superior-court/article_9adc071e-b450-11ee-b930-9bbd82b865b8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/attorney-supports-tenorios-nomination-to-superior-court/article_9adc071e-b450-11ee-b930-9bbd82b865b8.html">Save to Pocket</a>
 </span>
-=======
-(date: 2024-01-16 08:15:41)
->>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 
 ---
 

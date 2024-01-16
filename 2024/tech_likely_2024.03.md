@@ -1,16 +1,23 @@
 ---
 title: tech likely 2024.03
-<<<<<<< HEAD
-updated: 2024-01-16 08:35:18
-=======
-updated: 2024-01-16 08:15:41
->>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
+updated: 2024-01-16 09:06:18
 ---
 
 # tech likely 2024.03
 
-<<<<<<< HEAD
-(date: 2024-01-16 08:35:18)
+(date: 2024-01-16 09:06:18)
+
+---
+
+## NASA’s IXPE Helps Researchers Maximize ‘Microquasar’ Findings
+
+date: 2024-01-16, from: NASA breaking news
+
+The powerful gravity fields of black holes can devour whole planets’ worth of matter – often so violently that they expel streams of particles traveling near the speed of light in&#160; formations known as jets. Scientists understand that these high-speed jets can accelerate these particles, called cosmic rays, but little is definitively known about that [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-maximize-microquasar-findings/">https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-maximize-microquasar-findings/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/ixpe/nasas-ixpe-helps-researchers-maximize-microquasar-findings/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -23,9 +30,6 @@ date: 2024-01-16, updated: 2024-01-16, from: Jason Kottke blog
 <span class="feed-item-link">
 <a href="https://kottke.org/24/01/0043782-emma-stone-applies-to-be">https://kottke.org/24/01/0043782-emma-stone-applies-to-be</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043782-emma-stone-applies-to-be">Save to Pocket</a>
 </span>
-=======
-(date: 2024-01-16 08:15:41)
->>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 
 ---
 

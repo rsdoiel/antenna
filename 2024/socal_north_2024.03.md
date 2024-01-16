@@ -1,16 +1,11 @@
 ---
 title: socal north 2024.03
-<<<<<<< HEAD
-updated: 2024-01-16 08:35:17
-=======
-updated: 2024-01-16 08:15:41
->>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
+updated: 2024-01-16 09:06:18
 ---
 
 # socal north 2024.03
 
-<<<<<<< HEAD
-(date: 2024-01-16 08:35:17)
+(date: 2024-01-16 09:06:18)
 
 ---
 
@@ -23,9 +18,6 @@ Senate Bill 43 broadens the criteria for holding someone against their will. Som
 <span class="feed-item-link">
 <a href="https://laist.com/news/politics/saving-lives-or-warehousing-the-sick-debate-continues-over-new-law-that-expands-criteria-for-involuntary-treatment">https://laist.com/news/politics/saving-lives-or-warehousing-the-sick-debate-continues-over-new-law-that-expands-criteria-for-involuntary-treatment</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/saving-lives-or-warehousing-the-sick-debate-continues-over-new-law-that-expands-criteria-for-involuntary-treatment">Save to Pocket</a>
 </span>
-=======
-(date: 2024-01-16 08:15:41)
->>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 
 ---
 
@@ -453,9 +445,9 @@ Israel claims some achievements in more than three months of fighting since Hama
 
 ---
 
-## Orange County Will Give Out Millions to Fight Homelessness Before It Happens
+## Orange County Will Give Out Millions To Fight Homelessness Before It Happens
 
-date: 2024-01-14, updated: 2024-01-14, from: The LAist
+date: 2024-01-14, updated: 2024-01-16, from: The LAist
 
 The county allotted $3 million to administer a pilot program over the next year to assist households at risk of evictions.
 

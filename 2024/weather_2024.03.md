@@ -1,88 +1,61 @@
 ---
 title: weather 2024.03
-<<<<<<< HEAD
-updated: 2024-01-16 08:35:18
-=======
-updated: 2024-01-16 08:15:41
->>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
+updated: 2024-01-16 09:06:18
 ---
 
 # weather 2024.03
 
-<<<<<<< HEAD
-(date: 2024-01-16 08:35:18)
-=======
-(date: 2024-01-16 08:15:41)
+(date: 2024-01-16 09:06:18)
 
 ---
 
-## SPC Jan 16, 2024 1630 UTC Day 1 Convective Outlook
+## SPC Jan 16, 2024 1730 UTC Day 2 Convective Outlook
 
 date: 2024-01-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-1001 AM CST Tue Jan 16 2024
+1050 AM CST Tue Jan 16 2024
 
-Valid 161630Z - 171200Z
+Valid 171200Z - 181200Z
 
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
-ACROSS CENTRAL FL...
+...NO THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-A brief tornado or two and isolated damaging winds are possible
-through this afternoon across central Florida.
+Thunderstorms are not expected on Wednesday.
 
-...Central FL this afternoon...
-A broad midlevel trough from the Ozarks to the OH Valley will
-progress eastward to the Atlantic coast by late tonight, as an
-associated surface cold front moves southeastward across
-central/south FL.  A subtle/embedded speed max over the northern
-Gulf of Mexico will move over north FL this afternoon, and this will
-help focus thunderstorm development through the day across central
-FL, both along and south of the cold front.  Midlevel lapse rates
-will not be steep, but some cloud breaks north of ongoing convection
-and boundary-layer dewpoints in the low 70s will contribute to
-MLCAPE near 1000 J/kg ahead of the cold front, and somewhat larger
-buoyancy along the southern fringes of the ongoing convection in
-central FL.  
+...Synopsis...
+On Wednesday, a stable pattern will exist across the CONUS,
+primarily due to high pressure centered over the Southeast. A large
+upper trough over the Northeast will gradually lift northeastward,
+with offshore surface winds across the Gulf of Mexico and western
+Atlantic. Meanwhile, a broad region of cyclonic flow aloft will
+extend westward across the Plains and Rockies, with an upper ridge
+along the West Coast. As such, thunderstorms are not forecast due to
+a lack of instability across the entire CONUS.
 
-The storms west of Tampa have shown some increase in intensity along
-the front, and additional storm development is possible along the
-southern periphery of the ongoing storms across central FL. 
-Deep-layer vertical shear/hodograph length will be sufficient for
-some organized/rotating storms, while low-level hodograph
-curvature/SRH will remain relatively larger through early afternoon
-and begin to decrease by mid-late afternoon as low-level flow veers.
- The net result will be the potential for line segments or
-supercells capable of producing isolated wind damage.  A brief
-tornado or two will also be possible, focused a little more toward
-the Atlantic coast where low-level shear will be modestly stronger
-through more of the afternoon.
-
-..Thompson/Moore.. 01/16/2024
+..Jewell.. 01/16/2024
 
 </pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
 
 
 <span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
 </span>
 
 ---
 
-## SPC - No watches are valid as of Tue Jan 16 16:05:01 UTC 2024
+## SPC - No watches are valid as of Tue Jan 16 16:54:02 UTC 2024
 
 date: 2024-01-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Jan 16 16:05:01 UTC 2024.
+No watches are valid as of Tue Jan 16 16:54:02 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
 </span>
->>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 
 ---
 
@@ -144,19 +117,6 @@ LAT...LON   39497504 38747620 38747652 39137660 39727603 41187450
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/md0073.html">https://www.spc.noaa.gov/products/md/md0073.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md0073.html">Save to Pocket</a>
-</span>
-
----
-
-<<<<<<< HEAD
-## SPC - No watches are valid as of Tue Jan 16 16:19:01 UTC 2024
-
-date: 2024-01-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Tue Jan 16 16:19:01 UTC 2024.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
 </span>
 
 ---
@@ -279,8 +239,6 @@ through more of the afternoon.
 
 ---
 
-=======
->>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 ## SPC Day 1 Fire Weather Outlook
 
 date: 2024-01-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -604,58 +562,6 @@ the CONUS on D2/Tuesday.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Jan 15, 2024 1730 UTC Day 2 Convective Outlook
-
-date: 2024-01-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1129 AM CST Mon Jan 15 2024
-
-Valid 161200Z - 171200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms appear unlikely on Tuesday.
-
-...Synopsis and Discussion...
-A large upper cyclone will encompass much of the central/eastern
-CONUS and Canada on Tuesday. Thunderstorm potential will remain
-limited to locations along/south of a front forecast to be in place
-over the FL Peninsula, where greater low-level moisture will reside.
-As the upper trough progresses eastward through the day, a weak
-surface reflection should develop from the northeastern Gulf of
-Mexico to the coastal western Atlantic. The cold front should also
-move southeastward across the FL Peninsula through the period.
-
-Strong (50-60 kt) mid-level west-southwesterly flow associated with
-the upper cyclone will be present over much of FL. Similar values of
-deep-layer shear would typically support organized severe
-thunderstorm potential. However, in this case forecast thermodynamic
-profiles across central/south FL will likely hinder updraft
-intensity, as poor mid-level lapse rates and warm temperatures aloft
-limit the degree of instability that can develop. In addition,
-enhanced low/mid-level flow will be largely parallel to the surface
-front, limiting low-level convergence/ascent. While there may be
-some potential for strong/gusty winds with any convection that
-develops and can remain south of the front, the undercutting nature
-of the boundary suggests that overall severe potential will probably
-remain too low/sparse for highlights.
-
-..Gleason.. 01/15/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
 </span>
 
 ---
