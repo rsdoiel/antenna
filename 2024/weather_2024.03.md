@@ -1,10 +1,17 @@
 ---
 title: weather 2024.03
+<<<<<<< HEAD
+updated: 2024-01-16 08:35:18
+=======
 updated: 2024-01-16 08:15:41
+>>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 ---
 
 # weather 2024.03
 
+<<<<<<< HEAD
+(date: 2024-01-16 08:35:18)
+=======
 (date: 2024-01-16 08:15:41)
 
 ---
@@ -75,6 +82,7 @@ No watches are valid as of Tue Jan 16 16:05:01 UTC 2024.
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
 </span>
+>>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 
 ---
 
@@ -140,6 +148,139 @@ LAT...LON   39497504 38747620 38747652 39137660 39727603 41187450
 
 ---
 
+<<<<<<< HEAD
+## SPC - No watches are valid as of Tue Jan 16 16:19:01 UTC 2024
+
+date: 2024-01-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Tue Jan 16 16:19:01 UTC 2024.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 74
+
+date: 2024-01-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0074.html"><img src="https://www.spc.noaa.gov/products/md/mcd0074.png" border="1" alt="MD 0074 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0074
+NWS Storm Prediction Center Norman OK
+1017 AM CST Tue Jan 16 2024
+
+Areas affected...Central Florida
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 161617Z - 161815Z
+
+Probability of Watch Issuance...5 percent
+
+SUMMARY...A line of storms moving onto the Florida west coast within
+the next hour may pose a risk of damaging winds. Watch issuance is
+not anticipated.
+
+DISCUSSION...A band of convection focused along a cold front is
+slowly approaching the FL west coast per recent radar/satellite
+imagery. GOES IR and lightning trends show a few intensifying
+updrafts within the line, denoted by concentrated lightning clusters
+and cooling cloud top temperatures. This trend should continue as
+the line moves onshore where temperatures are warming into the
+low/mid 70s and MLCAPE values are slowly increasing to 1000-1500
+J/kg. VWP observations from KTBW show 0-6 km BWD values around 50-60
+knots, but deep-layer shear vectors are largely oriented along the
+boundary with weak line-normal deep-layer shear. This may limit the
+overall organization/intensity of the line, but may support stronger
+embedded segments capable of damaging winds. This kinematic regime
+is not overly favorable for line-embedded tornadoes, but a brief
+tornado appears possible if a portion of the line can become more
+oriented from southeast to northwest. Confidence in this scenario is
+low at this time given recent storm trends, and a damaging wind risk
+appears more probable. Regardless, the overall severe threat appears
+too limited to warrant watch issuance.
+
+..Moore/Thompson.. 01/16/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...MLB...TBW...JAX...
+
+LAT...LON   28268276 28578263 28918271 29598115 29228100 28878081
+            28458073 28238066 28158070 27668245 27638262 27658273
+            27868287 28028286 28268276 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0074.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/md0074.html">https://www.spc.noaa.gov/products/md/md0074.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md0074.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 16, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-01-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1001 AM CST Tue Jan 16 2024
+
+Valid 161630Z - 171200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
+ACROSS CENTRAL FL...
+
+...SUMMARY...
+A brief tornado or two and isolated damaging winds are possible
+through this afternoon across central Florida.
+
+...Central FL this afternoon...
+A broad midlevel trough from the Ozarks to the OH Valley will
+progress eastward to the Atlantic coast by late tonight, as an
+associated surface cold front moves southeastward across
+central/south FL.  A subtle/embedded speed max over the northern
+Gulf of Mexico will move over north FL this afternoon, and this will
+help focus thunderstorm development through the day across central
+FL, both along and south of the cold front.  Midlevel lapse rates
+will not be steep, but some cloud breaks north of ongoing convection
+and boundary-layer dewpoints in the low 70s will contribute to
+MLCAPE near 1000 J/kg ahead of the cold front, and somewhat larger
+buoyancy along the southern fringes of the ongoing convection in
+central FL.  
+
+The storms west of Tampa have shown some increase in intensity along
+the front, and additional storm development is possible along the
+southern periphery of the ongoing storms across central FL. 
+Deep-layer vertical shear/hodograph length will be sufficient for
+some organized/rotating storms, while low-level hodograph
+curvature/SRH will remain relatively larger through early afternoon
+and begin to decrease by mid-late afternoon as low-level flow veers.
+ The net result will be the potential for line segments or
+supercells capable of producing isolated wind damage.  A brief
+tornado or two will also be possible, focused a little more toward
+the Atlantic coast where low-level shear will be modestly stronger
+through more of the afternoon.
+
+..Thompson/Moore.. 01/16/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
+</span>
+
+---
+
+=======
+>>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 ## SPC Day 1 Fire Weather Outlook
 
 date: 2024-01-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks

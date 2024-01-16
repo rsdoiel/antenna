@@ -16,8 +16,13 @@ CREATE TABLE channels (
 	feed_type TEXT,
 	feed_version TEXT
 );
+<<<<<<< HEAD
 INSERT INTO channels VALUES('https://odysseygamesco.com/feed/','Odyssey Games blog','','https://odysseygamesco.com/feed/','["https://odysseygamesco.com","https://odysseygamesco.com/feed/"]','Tue, 15 Sep 2020 12:31:37 +0000','','','en-US','','https://wordpress.org/?v=6.4.2','','rss','2.0');
 INSERT INTO channels VALUES('https://www.polygon.com/rss/index.xml','Polygon Website','','','["https://www.polygon.com/"]','2024-01-16T11:02:00-05:00','','','en','','','','atom','1.0');
+=======
+INSERT INTO channels VALUES('https://www.polygon.com/rss/index.xml','Polygon Website','','','["https://www.polygon.com/"]','2024-01-16T11:15:00-05:00','','','en','','','','atom','1.0');
+INSERT INTO channels VALUES('https://odysseygamesco.com/feed/','Odyssey Games blog','','https://odysseygamesco.com/feed/','["https://odysseygamesco.com","https://odysseygamesco.com/feed/"]','Tue, 15 Sep 2020 12:31:37 +0000','','','en-US','','https://wordpress.org/?v=6.4.2','','rss','2.0');
+>>>>>>> b51e784a2715bc7e9c2c6275e897f9b8086fbc4f
 CREATE TABLE items (
 	link PRIMARY KEY,
 	title TEXT,
@@ -263,6 +268,7 @@ INSERT INTO items VALUES('https://www.polygon.com/guides/24032865/prince-of-pers
 INSERT INTO items VALUES('https://www.polygon.com/guides/24031673/prince-of-persia-the-lost-crown-tips-tricks-beginners-guide','10 beginner’s tips to know before starting Prince of Persia: The Lost Crown','',NULL,'2024-01-15 17:00:00','2024-01-15 17:00:00','Polygon Website','',NULL,'2024-01-15 19:57:25','saved');
 INSERT INTO items VALUES('https://www.polygon.com/guides/24030869/prince-of-persia-the-lost-crown-all-amulets-locations-how-to-get','Amulet locations in Prince of Persia: The Lost Crown','',NULL,'2024-01-15 17:00:00','2024-01-15 17:00:00','Polygon Website','',NULL,'2024-01-15 19:57:25','saved');
 INSERT INTO items VALUES('https://www.polygon.com/24036265/jake-johnson-self-reliance-interview-wes-anderson-connection','Jake Johnson says he combined 2 really unlikely movies to make Self Reliance','',NULL,'2024-01-15 16:02:00','2024-01-15 16:02:00','Polygon Website','',NULL,'2024-01-15 19:57:25','saved');
+<<<<<<< HEAD
 INSERT INTO items VALUES('https://www.polygon.com/pokemon/24039973/pecharunt-toxic-mochi-pokemon-scarlet-violet-dlc','Cute, villainous Pokémon Pecharunt dabbles in mind control','',NULL,'2024-01-16 15:43:19','2024-01-16 15:43:19','Polygon Website','',NULL,'2024-01-16 16:05:18','saved');
 INSERT INTO items VALUES('https://www.polygon.com/24039917/she-hulk-season-2-release-canceled','She-Hulk star says there’s no hope for season 2','',NULL,'2024-01-16 15:18:04','2024-01-16 15:18:04','Polygon Website','',NULL,'2024-01-16 16:05:18','saved');
 INSERT INTO items VALUES('https://www.polygon.com/24036476/the-last-of-us-part-2s-roguelike-mode','The Last of Us Part 2’s roguelike mode is a playable identity crisis','',NULL,'2024-01-16 15:00:00','2024-01-16 15:00:00','Polygon Website','',NULL,'2024-01-16 16:05:18','saved');
@@ -270,4 +276,14 @@ INSERT INTO items VALUES('https://www.polygon.com/24039944/games-done-quick-agdq
 INSERT INTO items VALUES('https://www.polygon.com/deals/23988056/pre-order-mtg-murders-at-karlov-manor','MTG: Murders at Karlov Manor launches Feb. 9, here’s where to pre-order','',NULL,'2024-01-16 14:48:18','2024-01-16 14:48:18','Polygon Website','',NULL,'2024-01-16 16:05:18','saved');
 INSERT INTO items VALUES('https://www.polygon.com/24035960/how-to-watch-movies','How to enjoy movies more this year','',NULL,'2024-01-16 14:02:00','2024-01-16 14:02:00','Polygon Website','',NULL,'2024-01-16 16:05:18','saved');
 INSERT INTO items VALUES('https://www.polygon.com/24036123/killers-of-the-flower-moon-native-american-osage-viewing','For a Native viewer, one moment in Killers of the Flower Moon stands out above the rest','',NULL,'2024-01-16 16:02:00','2024-01-16 16:02:00','Polygon Website','',NULL,'2024-01-16 16:12:22','saved');
+=======
+INSERT INTO items VALUES('https://www.polygon.com/pokemon/24039973/pecharunt-toxic-mochi-pokemon-scarlet-violet-dlc','Cute, villainous Pokémon Pecharunt dabbles in mind control','',NULL,'2024-01-16 15:43:19','2024-01-16 15:43:19','Polygon Website','',NULL,'2024-01-16 15:49:07','saved');
+INSERT INTO items VALUES('https://www.polygon.com/24039917/she-hulk-season-2-release-canceled','She-Hulk star says there’s no hope for season 2','',NULL,'2024-01-16 15:18:04','2024-01-16 15:18:04','Polygon Website','',NULL,'2024-01-16 15:49:07','saved');
+INSERT INTO items VALUES('https://www.polygon.com/24036476/the-last-of-us-part-2s-roguelike-mode','The Last of Us Part 2’s roguelike mode is a playable identity crisis','',NULL,'2024-01-16 15:00:00','2024-01-16 15:00:00','Polygon Website','',NULL,'2024-01-16 15:49:07','saved');
+INSERT INTO items VALUES('https://www.polygon.com/24039944/games-done-quick-agdq-2024-dog-speedrun-gyromite','You can watch this dog speedrun an NES game live today','',NULL,'2024-01-16 14:50:47','2024-01-16 14:50:47','Polygon Website','',NULL,'2024-01-16 15:49:07','saved');
+INSERT INTO items VALUES('https://www.polygon.com/deals/23988056/pre-order-mtg-murders-at-karlov-manor','MTG: Murders at Karlov Manor launches Feb. 9, here’s where to pre-order','',NULL,'2024-01-16 14:48:18','2024-01-16 14:48:18','Polygon Website','',NULL,'2024-01-16 15:49:07','saved');
+INSERT INTO items VALUES('https://www.polygon.com/24035960/how-to-watch-movies','How to enjoy movies more this year','',NULL,'2024-01-16 14:02:00','2024-01-16 14:02:00','Polygon Website','',NULL,'2024-01-16 15:49:07','saved');
+INSERT INTO items VALUES('https://www.polygon.com/deals/24036365/terry-pratchett-discworld-deal-humble-bundle','Humble’s massive Terry Pratchett bundle includes 38 Discworld books for $18','',NULL,'2024-01-16 16:15:00','2024-01-16 16:15:00','Polygon Website','',NULL,'2024-01-16 16:29:54','saved');
+INSERT INTO items VALUES('https://www.polygon.com/24036123/killers-of-the-flower-moon-native-american-osage-viewing','For a Native viewer, one moment in Killers of the Flower Moon stands out above the rest','',NULL,'2024-01-16 16:02:00','2024-01-16 16:02:00','Polygon Website','',NULL,'2024-01-16 16:29:54','saved');
+>>>>>>> b51e784a2715bc7e9c2c6275e897f9b8086fbc4f
 COMMIT;

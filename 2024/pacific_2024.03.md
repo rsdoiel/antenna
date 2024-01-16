@@ -1,11 +1,139 @@
 ---
 title: pacific 2024.03
+<<<<<<< HEAD
+updated: 2024-01-16 08:35:17
+=======
 updated: 2024-01-16 08:15:41
+>>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 ---
 
 # pacific 2024.03
 
+<<<<<<< HEAD
+(date: 2024-01-16 08:35:17)
+
+---
+
+## Clarification on recent statements: Advocating for open dialogue and unity
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+IN the recent exchange between Senate President Edith E. Deleon Guerrero and myself, I feel compelled to address the misconceptions and provide clarity on the issues raised during the House of Representatives session. It's crucial to move beyond personal attacks and focus on the substance of the matters at hand.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/views/letters_to_editor/clarification-on-recent-statements-advocating-for-open-dialogue-and-unity/article_f53b06ac-b431-11ee-bf06-371419cca0bf.html">https://www.mvariety.com/views/letters_to_editor/clarification-on-recent-statements-advocating-for-open-dialogue-and-unity/article_f53b06ac-b431-11ee-bf06-371419cca0bf.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/views/letters_to_editor/clarification-on-recent-statements-advocating-for-open-dialogue-and-unity/article_f53b06ac-b431-11ee-bf06-371419cca0bf.html">Save to Pocket</a>
+</span>
+
+---
+
+## Amata: Pacific solidarity with US and Taiwan unfazed by Nauru's decision
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+WASHINGTON, D.C. (Office of the American Samoa Congressional Delegate) — U.S. Congresswoman Uifa’atali Amata, who serves on the House Foreign Affairs Committee, including as vice chair of the Subcommittee on the Indo-Pacific, as well as co-chair of the Pacific Islands Caucus, released the following statement:
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/regional_world/amata-pacific-solidarity-with-us-and-taiwan-unfazed-by-naurus-decision/article_1004956a-b433-11ee-afe5-434b5b768750.html">https://www.mvariety.com/news/regional_world/amata-pacific-solidarity-with-us-and-taiwan-unfazed-by-naurus-decision/article_1004956a-b433-11ee-afe5-434b5b768750.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/regional_world/amata-pacific-solidarity-with-us-and-taiwan-unfazed-by-naurus-decision/article_1004956a-b433-11ee-afe5-434b5b768750.html">Save to Pocket</a>
+</span>
+
+---
+
+## The Black Marines who served on Saipan
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+SAIPAN Mayor RB Camacho is to be commended for his decision to honor some of the men who served in combat on Saipan who have never been properly recognized in the past.  Among them were Black Marines who served on Saipan.  Although relegated to stevedoring, these Marines proved themselves in combat, as evidenced by the following event:
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/views/letters_to_editor/the-black-marines-who-served-on-saipan/article_a27d1b62-b431-11ee-ab33-57868efd9a15.html">https://www.mvariety.com/views/letters_to_editor/the-black-marines-who-served-on-saipan/article_a27d1b62-b431-11ee-ab33-57868efd9a15.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/views/letters_to_editor/the-black-marines-who-served-on-saipan/article_a27d1b62-b431-11ee-ab33-57868efd9a15.html">Save to Pocket</a>
+</span>
+
+---
+
+## Saipan Chamber of Commerce expands professional development horizons with CDI partnership
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce is happy to announce an innovative partnership with the Community Development Institute under Northern Marianas College, aimed at furthering the professional development opportunities available to chamber members and the general public.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/business_news/saipan-chamber-of-commerce-expands-professional-development-horizons-with-cdi-partnership/article_9343dc1e-b44d-11ee-8a9e-1bcbb25f3732.html">https://www.mvariety.com/business/business_news/saipan-chamber-of-commerce-expands-professional-development-horizons-with-cdi-partnership/article_9343dc1e-b44d-11ee-8a9e-1bcbb25f3732.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/business_news/saipan-chamber-of-commerce-expands-professional-development-horizons-with-cdi-partnership/article_9343dc1e-b44d-11ee-8a9e-1bcbb25f3732.html">Save to Pocket</a>
+</span>
+
+---
+
+## Lorraine Babauta rules women’s golf tourney
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+LORRAINE Babauta topped the CNMI Women’s Golf Association’s first tournament of the year at the Kingfisher Golf Links on Saturday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/lorraine-babauta-rules-women-s-golf-tourney/article_e00b5528-b456-11ee-ae64-7761f25dbf28.html">https://www.mvariety.com/sports/localsports/lorraine-babauta-rules-women-s-golf-tourney/article_e00b5528-b456-11ee-ae64-7761f25dbf28.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/lorraine-babauta-rules-women-s-golf-tourney/article_e00b5528-b456-11ee-ae64-7761f25dbf28.html">Save to Pocket</a>
+</span>
+
+---
+
+## 'Finu’ Chamorro book launch and panel discussion on Jan. 19
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+DOCTOR Faye Untalan, the author of a brand-new Chamorro language learning resource, said “Finu’ Chamorro for Beginners” has been a long time in the making.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/finu-chamorro-book-launch-and-panel-discussion-on-jan-19/article_8e1f4ec0-b44e-11ee-8ad6-7f16ab009ff0.html">https://www.mvariety.com/lifestyle/finu-chamorro-book-launch-and-panel-discussion-on-jan-19/article_8e1f4ec0-b44e-11ee-8ad6-7f16ab009ff0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/finu-chamorro-book-launch-and-panel-discussion-on-jan-19/article_8e1f4ec0-b44e-11ee-8ad6-7f16ab009ff0.html">Save to Pocket</a>
+</span>
+
+---
+
+## NBA roundup: Joel Embiid returns, carries 76ers past Rockets
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+(Reuters) — Joel Embiid had 41 points and 10 rebounds to lift the host Philadelphia 76ers over the Houston Rockets 124-115 on Monday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/nba-roundup-joel-embiid-returns-carries-76ers-past-rockets/article_75486fda-b471-11ee-b254-c737d9aafd09.html">https://www.mvariety.com/sports/nationalsports/nba-roundup-joel-embiid-returns-carries-76ers-past-rockets/article_75486fda-b471-11ee-b254-c737d9aafd09.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/nba-roundup-joel-embiid-returns-carries-76ers-past-rockets/article_75486fda-b471-11ee-b254-c737d9aafd09.html">Save to Pocket</a>
+</span>
+
+---
+
+## 'Succession,' 'The Bear' prevail at nostalgic Emmy Awards
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+LOS ANGELES (Reuters) —Media dynasty drama "Succession" and restaurant dramedy "The Bear" dominated the Emmy Awards on Monday, earning six trophies each as Hollywood handed out its top accolades for television.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/succession-the-bear-prevail-at-nostalgic-emmy-awards/article_899b46f8-b474-11ee-9e8f-070080d1f525.html">https://www.mvariety.com/lifestyle/succession-the-bear-prevail-at-nostalgic-emmy-awards/article_899b46f8-b474-11ee-9e8f-070080d1f525.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/succession-the-bear-prevail-at-nostalgic-emmy-awards/article_899b46f8-b474-11ee-9e8f-070080d1f525.html">Save to Pocket</a>
+</span>
+
+---
+
+## Hess, Taflinger: Unbeatable
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+MARTIN Hess and Addalee Taflinger on Monday swept the 2nd Annual Run Saipan Trinity by once again topping their respective divisions on day 3 of the event, which was a 5K race in  Marpi.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/hess-taflinger-unbeatable/article_158711ba-b457-11ee-9ca1-bbca42e43909.html">https://www.mvariety.com/sports/localsports/hess-taflinger-unbeatable/article_158711ba-b457-11ee-9ca1-bbca42e43909.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/hess-taflinger-unbeatable/article_158711ba-b457-11ee-9ca1-bbca42e43909.html">Save to Pocket</a>
+</span>
+
+---
+
+## Attorney supports Tenorio's nomination to Superior Court
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+ATTORNEY Robert T. Torres on Monday expressed his support for the nomination of Deputy Attorney General Lilian A. Tenorio as Superior Court associate judge.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/attorney-supports-tenorios-nomination-to-superior-court/article_9adc071e-b450-11ee-b930-9bbd82b865b8.html">https://www.mvariety.com/news/local/attorney-supports-tenorios-nomination-to-superior-court/article_9adc071e-b450-11ee-b930-9bbd82b865b8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/attorney-supports-tenorios-nomination-to-superior-court/article_9adc071e-b450-11ee-b930-9bbd82b865b8.html">Save to Pocket</a>
+</span>
+=======
 (date: 2024-01-16 08:15:41)
+>>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 
 ---
 

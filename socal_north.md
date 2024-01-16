@@ -1,11 +1,31 @@
 ---
 title: socal north 2024.03
+<<<<<<< HEAD
+updated: 2024-01-16 08:35:17
+=======
 updated: 2024-01-16 08:15:41
+>>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 ---
 
 # socal north 2024.03
 
+<<<<<<< HEAD
+(date: 2024-01-16 08:35:17)
+
+---
+
+## Saving Lives Or Warehousing The Sick? Debate Continues Over New Law That Expands Criteria For Involuntary Treatment
+
+date: 2024-01-16, updated: 2024-01-16, from: The LAist
+
+Senate Bill 43 broadens the criteria for holding someone against their will. Some see it as a long overdue change; others a return to a harmful past.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/saving-lives-or-warehousing-the-sick-debate-continues-over-new-law-that-expands-criteria-for-involuntary-treatment">https://laist.com/news/politics/saving-lives-or-warehousing-the-sick-debate-continues-over-new-law-that-expands-criteria-for-involuntary-treatment</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/saving-lives-or-warehousing-the-sick-debate-continues-over-new-law-that-expands-criteria-for-involuntary-treatment">Save to Pocket</a>
+</span>
+=======
 (date: 2024-01-16 08:15:41)
+>>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 
 ---
 

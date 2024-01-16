@@ -1,11 +1,43 @@
 ---
 title: columns 2024.03
+<<<<<<< HEAD
+updated: 2024-01-16 08:35:18
+=======
 updated: 2024-01-16 08:15:41
+>>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 ---
 
 # columns 2024.03
 
+<<<<<<< HEAD
+(date: 2024-01-16 08:35:18)
+
+---
+
+## Supreme Court Rejects Petitions in Epic v. Apple Antitrust Case, Largely a Win for Apple
+
+date: 2024-01-16, updated: 2024-01-16, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.theverge.com/2024/1/16/24039983/supreme-court-epic-apple-antitrust-case-rejected">https://www.theverge.com/2024/1/16/24039983/supreme-court-epic-apple-antitrust-case-rejected</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theverge.com/2024/1/16/24039983/supreme-court-epic-apple-antitrust-case-rejected">Save to Pocket</a>
+</span>
+
+---
+
+## Why Trump ran away with Iowa
+
+date: 2024-01-16, from: Robert Reich's blog
+
+Friends, The mainstream media still don&#8217;t get it. This morning&#8217;s New York Times tried to describe it and utterly failed: &#8220;Donald J. Trump&#8217;s decisive victory in Iowa revealed a new depth to the reservoir of devotion inside his party. For eight years, he has nurtured a relationship with his supporters with little precedent in politics. He validates them, he entertains them, he speaks for them and he uses them for his political and legal advantage.
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/why-trump-ran-away-with-iowa">https://robertreich.substack.com/p/why-trump-ran-away-with-iowa</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/why-trump-ran-away-with-iowa">Save to Pocket</a>
+</span>
+=======
 (date: 2024-01-16 08:15:41)
+>>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 
 ---
 

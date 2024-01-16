@@ -1,11 +1,32 @@
 ---
 title: writing 2024.03
+<<<<<<< HEAD
+updated: 2024-01-16 08:35:18
+=======
 updated: 2024-01-16 08:15:41
+>>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 ---
 
 # writing 2024.03
 
+<<<<<<< HEAD
+(date: 2024-01-16 08:35:18)
+
+---
+
+## Gabino Iglesias Reviews The September House by Carissa Orlando
+
+date: 2024-01-16, from: Locus Magazine
+
+<p><strong>The September House, </strong>Carissa Orlando (Berk­ley 978-0-59354-861-5, $27.00, 352pp, hc) Sep­tember 2023. Cover by Daniel Brount.</p>
+<p>Books that can make you feel things are special, and Carissa Orlando’s <strong>The Sep­tember House </strong>will make readers feel a lot of different things. <strong>The September House </strong>is a strange horror novel in which the horror elements are mostly dealt with using the kind of nonchalance people display while waiting in line at the  <a href="https://locusmag.com/2024/01/gabino-iglesias-reviews-the-september-house-by-carissa-orlando/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/gabino-iglesias-reviews-the-september-house-by-carissa-orlando/">https://locusmag.com/2024/01/gabino-iglesias-reviews-the-september-house-by-carissa-orlando/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/gabino-iglesias-reviews-the-september-house-by-carissa-orlando/">Save to Pocket</a>
+</span>
+=======
 (date: 2024-01-16 08:15:41)
+>>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 
 ---
 
