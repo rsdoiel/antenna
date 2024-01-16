@@ -1,10 +1,15 @@
 ---
 title: writing 2024.03
+<<<<<<< HEAD
 updated: 2024-01-16 08:35:18
+=======
+updated: 2024-01-16 08:15:41
+>>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 ---
 
 # writing 2024.03
 
+<<<<<<< HEAD
 (date: 2024-01-16 08:35:18)
 
 ---
@@ -19,6 +24,9 @@ date: 2024-01-16, from: Locus Magazine
 <span class="feed-item-link">
 <a href="https://locusmag.com/2024/01/gabino-iglesias-reviews-the-september-house-by-carissa-orlando/">https://locusmag.com/2024/01/gabino-iglesias-reviews-the-september-house-by-carissa-orlando/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/gabino-iglesias-reviews-the-september-house-by-carissa-orlando/">Save to Pocket</a>
 </span>
+=======
+(date: 2024-01-16 08:15:41)
+>>>>>>> 44a7b7eb00f02d87771b9fbe1cba3196730f5537
 
 ---
 
