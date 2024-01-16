@@ -106,6 +106,9 @@ html: front_page.tmpl $(html_files)
            $< \
            >$@
 
+dump: .FORCE
+	./skimmer_to_sql.bash
+
 archives: mk_archives.bash archives.tmpl
 	./mk_archives.bash      
 	cd $(YEAR) && make
