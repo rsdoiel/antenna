@@ -1,11 +1,84 @@
 ---
 title: columns 2024.03
-updated: 2024-01-15 12:00:30
+updated: 2024-01-16 08:15:41
 ---
 
 # columns 2024.03
 
-(date: 2024-01-15 12:00:30)
+(date: 2024-01-16 08:15:41)
+
+---
+
+## Apple teases New Entertainment Experiences Launching With Vision Pro
+
+date: 2024-01-16, updated: 2024-01-16, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.apple.com/newsroom/2024/01/apple-previews-new-entertainment-experiences-launching-with-apple-vision-pro/">https://www.apple.com/newsroom/2024/01/apple-previews-new-entertainment-experiences-launching-with-apple-vision-pro/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.apple.com/newsroom/2024/01/apple-previews-new-entertainment-experiences-launching-with-apple-vision-pro/">Save to Pocket</a>
+</span>
+
+---
+
+## The Story of the Mirai Botnet
+
+date: 2024-01-16, updated: 2024-01-05, from: Bruce Schneier blog
+
+<p>Over at Wired, Andy Greenberg has an <a href="https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster/">excellent story</a> about the creators of the 2016 Mirai botnet.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/the-story-of-the-mirai-botnet.html">https://www.schneier.com/blog/archives/2024/01/the-story-of-the-mirai-botnet.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/the-story-of-the-mirai-botnet.html">Save to Pocket</a>
+</span>
+
+---
+
+## The Deadly Consequences of Playing Politics
+
+date: 2024-01-16, from: Dan Rather's Steady
+
+Immigration has always been Donald Trump&#8217;s most compelling issue. It was a major factor in his Iowa victory last night and is his best hope for returning to the presidency. Many Republican officeholders and office seekers recognize this and follow Trump&#8217;s lead.
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/the-deadly-consequences-of-playing">https://steady.substack.com/p/the-deadly-consequences-of-playing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/the-deadly-consequences-of-playing">Save to Pocket</a>
+</span>
+
+---
+
+## What's the "Chevron Doctrine" and why should you want to preserve it? 
+
+date: 2024-01-16, from: Robert Reich's blog
+
+Two cases to be argued tomorrow before the Supreme Court threaten hundreds of consumer and environmental protections
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/whats-the-chevron-doctrine-and-why">https://robertreich.substack.com/p/whats-the-chevron-doctrine-and-why</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/whats-the-chevron-doctrine-and-why">Save to Pocket</a>
+</span>
+
+---
+
+## [Sponsor] HEY Calendar
+
+date: 2024-01-15, updated: 2024-01-15, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://hey.com/">https://hey.com/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://hey.com/">Save to Pocket</a>
+</span>
+
+---
+
+## Hands-On at CES With the Clicks Keyboard Case for iPhone 15 Pro
+
+date: 2024-01-15, updated: 2024-01-15, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://9to5mac.com/2024/01/12/clicks-iphone-hands-on/">https://9to5mac.com/2024/01/12/clicks-iphone-hands-on/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://9to5mac.com/2024/01/12/clicks-iphone-hands-on/">Save to Pocket</a>
+</span>
 
 ---
 

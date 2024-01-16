@@ -1,11 +1,76 @@
 ---
 title: writing 2024.03
-updated: 2024-01-15 12:00:30
+updated: 2024-01-16 08:15:41
 ---
 
 # writing 2024.03
 
-(date: 2024-01-15 12:00:30)
+(date: 2024-01-16 08:15:41)
+
+---
+
+## New Books: 16 January 2023
+
+date: 2024-01-16, from: Locus Magazine
+
+<p>Avery, Amy: <b>The Longest Autumn</b>
+(Macmillan/Flatiron 9781250896490, $28.99, 320pp, formats: hardcover, ebook, audio, 01/16/2024)</p>
+<p>Fantasy mystery romance novel. Seasons stop turning when the mortal Time and the god of Autumn are trapped in the mortal world, and the two are torn between the need to fix things and their forbidden attraction to each other. A first novel.</p>
+<p>&#160;</p>
+<p>Bertino, Marie-Helene: <b>Beautyland</b>
+(Macmillan/Farrar, Straus, Giroux 9780374109288, $28, 336pp, formats: hardcover, ebook,  <a href="https://locusmag.com/2024/01/new-books-16-january-2023/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/new-books-16-january-2023/">https://locusmag.com/2024/01/new-books-16-january-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/new-books-16-january-2023/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-16, from: Neil Gaiman @ BlueSky)
+
+The show was last night. We will do something similar in Melbourne on Thursday night.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kj2qb5kgyn2f">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kj2qb5kgyn2f</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kj2qb5kgyn2f">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Writers’ Prize Shortlist
+
+date: 2024-01-16, from: Locus Magazine
+
+<p>The Writers&#8217; Prize, formerly the Rathbones Folio Prize, announced shortlists in three categories: Non-Fiction, Fiction, and Poetry. Titles or authors of genre interest include <strong>The Fraud</strong> by Zadie Smith (Penguin) for Fiction.</p>
+<p>Winners will be announced March 13, 2024 at the London Book Fair. Each category winner receives £2,000 and the winner of the Writers&#8217; Prize Book of the Year will receive £30,000.</p>
+<div class="mynomorebulletlist">
+<p>For more information, including the complete shortlists, </p></div> <a href="https://locusmag.com/2024/01/2024-writers-prize-shortlist/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/2024-writers-prize-shortlist/">https://locusmag.com/2024/01/2024-writers-prize-shortlist/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/2024-writers-prize-shortlist/">Save to Pocket</a>
+</span>
+
+---
+
+## Howard Waldrop (1946-2024)
+
+date: 2024-01-15, from: Locus Magazine
+
+<p>Author Howard Waldrop, 77, died January 14, 2024. Waldrop was one of our most accomplished and celebrated authors of short fiction, known for his erudite, playful, and allusive work. His most famous story, &#8220;The Ugly Chickens&#8221; (1980), won World Fantasy and Nebula Awards, and was a Hugo Award finalist.</p>
+<p>Waldrop&#8217;s first work of genre interest was &#8220;Lunchbox&#8221; in Analog (1972), and he went on to publish scores of stories, including  <a href="https://locusmag.com/2024/01/howard-waldrop-1946-2024/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/howard-waldrop-1946-2024/">https://locusmag.com/2024/01/howard-waldrop-1946-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/howard-waldrop-1946-2024/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-15, from: Neil Gaiman @ BlueSky)
+
+You are so welcome!
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kj2dzoz3cc2h">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kj2dzoz3cc2h</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kj2dzoz3cc2h">Save to Pocket</a>
+</span>
 
 ---
 
