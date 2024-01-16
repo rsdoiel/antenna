@@ -1,11 +1,467 @@
 ---
 title: pacific 2024.03
-updated: 2024-01-15 12:00:30
+updated: 2024-01-16 08:35:17
 ---
 
 # pacific 2024.03
 
-(date: 2024-01-15 12:00:30)
+(date: 2024-01-16 08:35:17)
+
+---
+
+## Clarification on recent statements: Advocating for open dialogue and unity
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+IN the recent exchange between Senate President Edith E. Deleon Guerrero and myself, I feel compelled to address the misconceptions and provide clarity on the issues raised during the House of Representatives session. It's crucial to move beyond personal attacks and focus on the substance of the matters at hand.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/views/letters_to_editor/clarification-on-recent-statements-advocating-for-open-dialogue-and-unity/article_f53b06ac-b431-11ee-bf06-371419cca0bf.html">https://www.mvariety.com/views/letters_to_editor/clarification-on-recent-statements-advocating-for-open-dialogue-and-unity/article_f53b06ac-b431-11ee-bf06-371419cca0bf.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/views/letters_to_editor/clarification-on-recent-statements-advocating-for-open-dialogue-and-unity/article_f53b06ac-b431-11ee-bf06-371419cca0bf.html">Save to Pocket</a>
+</span>
+
+---
+
+## Amata: Pacific solidarity with US and Taiwan unfazed by Nauru's decision
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+WASHINGTON, D.C. (Office of the American Samoa Congressional Delegate) — U.S. Congresswoman Uifa’atali Amata, who serves on the House Foreign Affairs Committee, including as vice chair of the Subcommittee on the Indo-Pacific, as well as co-chair of the Pacific Islands Caucus, released the following statement:
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/regional_world/amata-pacific-solidarity-with-us-and-taiwan-unfazed-by-naurus-decision/article_1004956a-b433-11ee-afe5-434b5b768750.html">https://www.mvariety.com/news/regional_world/amata-pacific-solidarity-with-us-and-taiwan-unfazed-by-naurus-decision/article_1004956a-b433-11ee-afe5-434b5b768750.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/regional_world/amata-pacific-solidarity-with-us-and-taiwan-unfazed-by-naurus-decision/article_1004956a-b433-11ee-afe5-434b5b768750.html">Save to Pocket</a>
+</span>
+
+---
+
+## The Black Marines who served on Saipan
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+SAIPAN Mayor RB Camacho is to be commended for his decision to honor some of the men who served in combat on Saipan who have never been properly recognized in the past.  Among them were Black Marines who served on Saipan.  Although relegated to stevedoring, these Marines proved themselves in combat, as evidenced by the following event:
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/views/letters_to_editor/the-black-marines-who-served-on-saipan/article_a27d1b62-b431-11ee-ab33-57868efd9a15.html">https://www.mvariety.com/views/letters_to_editor/the-black-marines-who-served-on-saipan/article_a27d1b62-b431-11ee-ab33-57868efd9a15.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/views/letters_to_editor/the-black-marines-who-served-on-saipan/article_a27d1b62-b431-11ee-ab33-57868efd9a15.html">Save to Pocket</a>
+</span>
+
+---
+
+## Saipan Chamber of Commerce expands professional development horizons with CDI partnership
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce is happy to announce an innovative partnership with the Community Development Institute under Northern Marianas College, aimed at furthering the professional development opportunities available to chamber members and the general public.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/business_news/saipan-chamber-of-commerce-expands-professional-development-horizons-with-cdi-partnership/article_9343dc1e-b44d-11ee-8a9e-1bcbb25f3732.html">https://www.mvariety.com/business/business_news/saipan-chamber-of-commerce-expands-professional-development-horizons-with-cdi-partnership/article_9343dc1e-b44d-11ee-8a9e-1bcbb25f3732.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/business_news/saipan-chamber-of-commerce-expands-professional-development-horizons-with-cdi-partnership/article_9343dc1e-b44d-11ee-8a9e-1bcbb25f3732.html">Save to Pocket</a>
+</span>
+
+---
+
+## Lorraine Babauta rules women’s golf tourney
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+LORRAINE Babauta topped the CNMI Women’s Golf Association’s first tournament of the year at the Kingfisher Golf Links on Saturday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/lorraine-babauta-rules-women-s-golf-tourney/article_e00b5528-b456-11ee-ae64-7761f25dbf28.html">https://www.mvariety.com/sports/localsports/lorraine-babauta-rules-women-s-golf-tourney/article_e00b5528-b456-11ee-ae64-7761f25dbf28.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/lorraine-babauta-rules-women-s-golf-tourney/article_e00b5528-b456-11ee-ae64-7761f25dbf28.html">Save to Pocket</a>
+</span>
+
+---
+
+## 'Finu’ Chamorro book launch and panel discussion on Jan. 19
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+DOCTOR Faye Untalan, the author of a brand-new Chamorro language learning resource, said “Finu’ Chamorro for Beginners” has been a long time in the making.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/finu-chamorro-book-launch-and-panel-discussion-on-jan-19/article_8e1f4ec0-b44e-11ee-8ad6-7f16ab009ff0.html">https://www.mvariety.com/lifestyle/finu-chamorro-book-launch-and-panel-discussion-on-jan-19/article_8e1f4ec0-b44e-11ee-8ad6-7f16ab009ff0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/finu-chamorro-book-launch-and-panel-discussion-on-jan-19/article_8e1f4ec0-b44e-11ee-8ad6-7f16ab009ff0.html">Save to Pocket</a>
+</span>
+
+---
+
+## NBA roundup: Joel Embiid returns, carries 76ers past Rockets
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+(Reuters) — Joel Embiid had 41 points and 10 rebounds to lift the host Philadelphia 76ers over the Houston Rockets 124-115 on Monday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/nba-roundup-joel-embiid-returns-carries-76ers-past-rockets/article_75486fda-b471-11ee-b254-c737d9aafd09.html">https://www.mvariety.com/sports/nationalsports/nba-roundup-joel-embiid-returns-carries-76ers-past-rockets/article_75486fda-b471-11ee-b254-c737d9aafd09.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/nba-roundup-joel-embiid-returns-carries-76ers-past-rockets/article_75486fda-b471-11ee-b254-c737d9aafd09.html">Save to Pocket</a>
+</span>
+
+---
+
+## 'Succession,' 'The Bear' prevail at nostalgic Emmy Awards
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+LOS ANGELES (Reuters) —Media dynasty drama "Succession" and restaurant dramedy "The Bear" dominated the Emmy Awards on Monday, earning six trophies each as Hollywood handed out its top accolades for television.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/succession-the-bear-prevail-at-nostalgic-emmy-awards/article_899b46f8-b474-11ee-9e8f-070080d1f525.html">https://www.mvariety.com/lifestyle/succession-the-bear-prevail-at-nostalgic-emmy-awards/article_899b46f8-b474-11ee-9e8f-070080d1f525.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/succession-the-bear-prevail-at-nostalgic-emmy-awards/article_899b46f8-b474-11ee-9e8f-070080d1f525.html">Save to Pocket</a>
+</span>
+
+---
+
+## Hess, Taflinger: Unbeatable
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+MARTIN Hess and Addalee Taflinger on Monday swept the 2nd Annual Run Saipan Trinity by once again topping their respective divisions on day 3 of the event, which was a 5K race in  Marpi.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/hess-taflinger-unbeatable/article_158711ba-b457-11ee-9ca1-bbca42e43909.html">https://www.mvariety.com/sports/localsports/hess-taflinger-unbeatable/article_158711ba-b457-11ee-9ca1-bbca42e43909.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/hess-taflinger-unbeatable/article_158711ba-b457-11ee-9ca1-bbca42e43909.html">Save to Pocket</a>
+</span>
+
+---
+
+## Attorney supports Tenorio's nomination to Superior Court
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+ATTORNEY Robert T. Torres on Monday expressed his support for the nomination of Deputy Attorney General Lilian A. Tenorio as Superior Court associate judge.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/attorney-supports-tenorios-nomination-to-superior-court/article_9adc071e-b450-11ee-b930-9bbd82b865b8.html">https://www.mvariety.com/news/local/attorney-supports-tenorios-nomination-to-superior-court/article_9adc071e-b450-11ee-b930-9bbd82b865b8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/attorney-supports-tenorios-nomination-to-superior-court/article_9adc071e-b450-11ee-b930-9bbd82b865b8.html">Save to Pocket</a>
+</span>
+
+---
+
+## Anti-Human Trafficking Awareness Month
+
+date: 2024-01-16, from: Island Times
+
+<p>The post <a href="https://islandtimes.org/anti-human-trafficking-awareness-month/">Anti-Human Trafficking Awareness Month</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/anti-human-trafficking-awareness-month/">https://islandtimes.org/anti-human-trafficking-awareness-month/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/anti-human-trafficking-awareness-month/">Save to Pocket</a>
+</span>
+
+---
+
+## Ngaraard State celebrates its 42nd Constitution Day
+
+date: 2024-01-16, from: Island Times
+
+<p>The post <a href="https://islandtimes.org/ngaraard-state-celebrates-its-42nd-constitution-day/">Ngaraard State celebrates its 42nd Constitution Day</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/ngaraard-state-celebrates-its-42nd-constitution-day/">https://islandtimes.org/ngaraard-state-celebrates-its-42nd-constitution-day/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/ngaraard-state-celebrates-its-42nd-constitution-day/">Save to Pocket</a>
+</span>
+
+---
+
+## Nauru Rekindles Ties with China, Severing Links with Taiwan in Geopolitical Shift
+
+date: 2024-01-16, from: Island Times
+
+<p>KOROR, Palau — The tiny Pacific island nation of Nauru on Monday switched its diplomatic allegiance back to China, severing ties with Taiwan in a move that further isolates the self-governing island democracy. The announcement, just two days after Taiwan&#8217;s recent presidential election, marks a significant blow to Taiwan&#8217;s dwindling international recognition and reflects China&#8217;s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/nauru-rekindles-ties-with-china-severing-links-with-taiwan-in-geopolitical-shift/">Nauru Rekindles Ties with China, Severing Links with Taiwan in Geopolitical Shift</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/nauru-rekindles-ties-with-china-severing-links-with-taiwan-in-geopolitical-shift/">https://islandtimes.org/nauru-rekindles-ties-with-china-severing-links-with-taiwan-in-geopolitical-shift/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/nauru-rekindles-ties-with-china-severing-links-with-taiwan-in-geopolitical-shift/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Pension Fund Dwindles, Sparking Contribution Hike Proposal
+
+date: 2024-01-16, from: Island Times
+
+<p>(Koror, Palau) Palau&#8217;s Civil Service Pension Plan (CSPP) faces a potential financial crisis after a $1.36 million investment fund drop, prompting a proposed 8% hike in employee contributions. House Bill 11-130-13 calls for the contribution increase, aimed at shoring up the plan&#8217;s finances. Currently, the CSPP collects around $7 million annually from contributions but disburses [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-pension-fund-dwindles-sparking-contribution-hike-proposal/">Palau Pension Fund Dwindles, Sparking Contribution Hike Proposal</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-pension-fund-dwindles-sparking-contribution-hike-proposal/">https://islandtimes.org/palau-pension-fund-dwindles-sparking-contribution-hike-proposal/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-pension-fund-dwindles-sparking-contribution-hike-proposal/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau tops passport economic mobility ranking in the Pacific
+
+date: 2024-01-16, from: Island Times
+
+<p>Palau now ranks the highest among passports in the Pacific in terms of highest economic mobility based on visa-free travel in 2023, according to the 2024 Henley Passport Index. The island nation is in the top spot among the Pacific island nations with access to 123 destinations, which means individuals holding Palauan passports can travel [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-tops-passport-economic-mobility-ranking-in-the-pacific/">Palau tops passport economic mobility ranking in the Pacific </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-tops-passport-economic-mobility-ranking-in-the-pacific/">https://islandtimes.org/palau-tops-passport-economic-mobility-ranking-in-the-pacific/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-tops-passport-economic-mobility-ranking-in-the-pacific/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau President Hails Taiwan’s Democracy, Vows Stronger Alliance in Tense Times
+
+date: 2024-01-16, from: Island Times
+
+<p>KOROR, Palau: Palau President Surangel Whipps Jr., on Saturday, congratulated Taiwan&#8217;s newly elected President Lai Ching-te on their victory, praising the island nation&#8217;s democratic credentials and pledging to deepen relations amid heightened tensions in the Indo-Pacific region. Whipps, on behalf of the Palauan people and government, hailed the &#8220;peaceful and vibrant&#8221; conduct of Taiwan&#8217;s elections, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-president-hails-taiwans-democracy-vows-stronger-alliance-in-tense-times/">Palau President Hails Taiwan&#8217;s Democracy, Vows Stronger Alliance in Tense Times</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-president-hails-taiwans-democracy-vows-stronger-alliance-in-tense-times/">https://islandtimes.org/palau-president-hails-taiwans-democracy-vows-stronger-alliance-in-tense-times/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-president-hails-taiwans-democracy-vows-stronger-alliance-in-tense-times/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Research Center Celebrates 23rd Anniversary with Gala Dinner, Highlighting Ocean Conservation Challenges and Deep-Sea Expansion
+
+date: 2024-01-16, from: Island Times
+
+<p>KOROR, Palau – The Palau International Coral Reef Center (PICRC) will mark its 23rd anniversary with a fundraising gala dinner on Jan. 18, 2024, themed &#8220;Navigating Changing Seas.&#8221; The event will acknowledge the center&#8217;s evolution, the complexities of ocean conservation, its recent foray into Palau&#8217;s deep ocean, and ongoing nearshore research efforts. President Surangel Whipps [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-research-center-celebrates-23rd-anniversary-with-gala-dinner-highlighting-ocean-conservation-challenges-and-deep-sea-expansion/">Palau Research Center Celebrates 23rd Anniversary with Gala Dinner, Highlighting Ocean Conservation Challenges and Deep-Sea Expansion</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-research-center-celebrates-23rd-anniversary-with-gala-dinner-highlighting-ocean-conservation-challenges-and-deep-sea-expansion/">https://islandtimes.org/palau-research-center-celebrates-23rd-anniversary-with-gala-dinner-highlighting-ocean-conservation-challenges-and-deep-sea-expansion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-research-center-celebrates-23rd-anniversary-with-gala-dinner-highlighting-ocean-conservation-challenges-and-deep-sea-expansion/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Raises Awareness on Human Trafficking with Dedicated Month
+
+date: 2024-01-16, from: Island Times
+
+<p>KOROR, Palau &#8211; Palau has declared February as &#8220;Anti-Human Trafficking Awareness Month,&#8221; underscoring its commitment to combatting the modern-day slavery affecting both adults and children. President Surangel S. Whipps, Jr. issued a proclamation last week, highlighting the devastating impact of human trafficking and the need for coordinated action. He emphasized the importance of victim protection, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-raises-awareness-on-human-trafficking-with-dedicated-month/">Palau Raises Awareness on Human Trafficking with Dedicated Month</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-raises-awareness-on-human-trafficking-with-dedicated-month/">https://islandtimes.org/palau-raises-awareness-on-human-trafficking-with-dedicated-month/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-raises-awareness-on-human-trafficking-with-dedicated-month/">Save to Pocket</a>
+</span>
+
+---
+
+## CONTEMPT, the oil of vitriol
+
+date: 2024-01-16, from: Island Times
+
+<figure><img width="900" height="900" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?fit=900%2C900&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?fit=900%2C900&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68134" data-permalink="https://islandtimes.org/contempt-the-oil-of-vitriol/unnamed-13/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?fit=900%2C900&amp;ssl=1" data-orig-size="900,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="unnamed" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/unnamed.jpg?fit=780%2C780&amp;ssl=1" /></figure>
+<p>Vitriol, is harsh, full of bitterness and hate words spewed out of someone&#8217;s mouth intent to destroy you. My friend calls it the diarrhea of the mouth. John M. GOTTMAN is an American Psychologist and professor. He uses the four horsemen in the book of Revelation as metaphors. CONTEMPT is the first Horseman. He said [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/contempt-the-oil-of-vitriol/">CONTEMPT, the oil of vitriol</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/contempt-the-oil-of-vitriol/">https://islandtimes.org/contempt-the-oil-of-vitriol/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/contempt-the-oil-of-vitriol/">Save to Pocket</a>
+</span>
+
+---
+
+## Global economy set for weakest half-decade performance in 30 years
+
+date: 2024-01-16, from: Island Times
+
+<figure><img width="400" height="403" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/review-icon-png-23.png?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/review-icon-png-23.png?resize=298%2C300&amp;ssl=1 298w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/review-icon-png-23.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/review-icon-png-23.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/review-icon-png-23.png?fit=400%2C403&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68132" data-permalink="https://islandtimes.org/global-economy-set-for-weakest-half-decade-performance-in-30-years/review-icon-png-23-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" data-orig-size="400,403" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="review-icon-png-23" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/review-icon-png-23.png?fit=298%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" /></figure>
+<p>Reforms to boost investment and strengthen fiscal policy could help turn the tide WASHINGTON &#160;(WORLD BANK) &#8212; As the world nears the midpoint of what was intended to be a transformative decade for development, the global economy is set to rack up a sorry record by the end of 2024 —the slowest half-decade of GDP [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/global-economy-set-for-weakest-half-decade-performance-in-30-years/">Global economy set for weakest half-decade performance in 30 years</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/global-economy-set-for-weakest-half-decade-performance-in-30-years/">https://islandtimes.org/global-economy-set-for-weakest-half-decade-performance-in-30-years/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/global-economy-set-for-weakest-half-decade-performance-in-30-years/">Save to Pocket</a>
+</span>
+
+---
+
+## The ruling-party candidate strongly opposed by China wins Taiwan’s presidential election
+
+date: 2024-01-16, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-ruling.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-ruling.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-ruling.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-ruling.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-ruling.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-ruling.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-ruling.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68125" data-permalink="https://islandtimes.org/the-ruling-party-candidate-strongly-opposed-by-china-wins-taiwans-presidential-election/taiwan-election-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-ruling.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Taiwanese Vice President Lai Ching-te, also known as William Lai celebrates his victory in Taipei, Taiwan, Saturday, Jan. 13, 2024. The Ruling-party candidate emerged victorious in Taiwan&#039;s presidential election on Saturday and his opponents conceded, a result that will chart the trajectory of the self-ruled democracy&#039;s relations with China over the next four years. (AP Photo\/Louise Delmotte)&quot;,&quot;created_timestamp&quot;:&quot;1705180459&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;191&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.001&quot;,&quot;title&quot;:&quot;Taiwan Election&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Taiwan Election" data-image-description="" data-image-caption="&lt;p&gt;Taiwanese Vice President Lai Ching-te, also known as William Lai celebrates his victory in Taipei, Taiwan, Saturday, Jan. 13, 2024. The Ruling-party candidate emerged victorious in Taiwan&#8217;s presidential election on Saturday and his opponents conceded, a result that will chart the trajectory of the self-ruled democracy&#8217;s relations with China over the next four years. (AP Photo/Louise Delmotte)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-ruling.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/The-ruling.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By CHRISTOPHER BODEEN and SIMINA MISTREANU Associated Press TAIPEI, Taiwan (AP) — Ruling-party candidate&#160;Lai Ching-te&#160;emerged victorious in Taiwan’s presidential election on Saturday, a result that will determine the trajectory of the self-ruled democracy’s&#160;contentious relations with China&#160;over the next four years. China had called the poll a choice between war and peace. Beijing strongly opposes Lai, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-ruling-party-candidate-strongly-opposed-by-china-wins-taiwans-presidential-election/">The ruling-party candidate strongly opposed by China wins Taiwan&#8217;s presidential election</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/the-ruling-party-candidate-strongly-opposed-by-china-wins-taiwans-presidential-election/">https://islandtimes.org/the-ruling-party-candidate-strongly-opposed-by-china-wins-taiwans-presidential-election/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/the-ruling-party-candidate-strongly-opposed-by-china-wins-taiwans-presidential-election/">Save to Pocket</a>
+</span>
+
+---
+
+## Death toll in PNG riots jumps to 22 after gruesome discovery of bodies in burnt out shops
+
+date: 2024-01-16, from: Island Times
+
+<p>PORT MORESBY, 15 JANUARY 2923 (ABC) &#8212; The national death toll from violent riots in Papua New Guinea has climbed to 22, with the remains of six people found in Port Moresby today. It&#8217;s understood the remains of the six people were found at two different shops in the city that were looted and set [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/death-toll-in-png-riots-jumps-to-22-after-gruesome-discovery-of-bodies-in-burnt-out-shops/">Death toll in PNG riots jumps to 22 after gruesome discovery of bodies in burnt out shops</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/death-toll-in-png-riots-jumps-to-22-after-gruesome-discovery-of-bodies-in-burnt-out-shops/">https://islandtimes.org/death-toll-in-png-riots-jumps-to-22-after-gruesome-discovery-of-bodies-in-burnt-out-shops/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/death-toll-in-png-riots-jumps-to-22-after-gruesome-discovery-of-bodies-in-burnt-out-shops/">Save to Pocket</a>
+</span>
+
+---
+
+## Guam’s Lt. Governor pushes for details on missile defense system
+
+date: 2024-01-16, from: Island Times
+
+<p>HAGATNA, 15 JANUARY 2024 (PACIFIC ISLAND TIMES) &#8212; Lt. Gov. Joshua Tenorio Thursday urged the U.S military to disclose more details on the missile defense system being proposed for Guam as part of the Pentagon’s combat readiness in the Indo-Pacific region. During a meeting with Undersecretary of the Navy Erik Raven in Adelup, Tenorio said [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/guams-lt-governor-pushes-for-details-on-missile-defense-system/">Guam’s Lt. Governor pushes for details on missile defense system</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/guams-lt-governor-pushes-for-details-on-missile-defense-system/">https://islandtimes.org/guams-lt-governor-pushes-for-details-on-missile-defense-system/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/guams-lt-governor-pushes-for-details-on-missile-defense-system/">Save to Pocket</a>
+</span>
+
+---
+
+## Coco Gauff reiterates USTA image of US players made them look “awful”
+
+date: 2024-01-16, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Coco-Gauff.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Coco-Gauff.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Coco-Gauff.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Coco-Gauff.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Coco-Gauff.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Coco-Gauff.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Coco-Gauff.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68120" data-permalink="https://islandtimes.org/coco-gauff-reiterates-usta-image-of-us-players-made-them-look-awful/australian-open-tennis-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Coco-Gauff.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;Canon EOS R3&quot;,&quot;caption&quot;:&quot;Coco Gauff, right, of the U.S. is congratulated by Anna Karolina Schmiedlova of Slovakia following their first round match at the Australian Open tennis championships at Melbourne Park, Melbourne, Australia, Monday, Jan. 15, 2024. (AP Photo\/Asanka Brendon Ratnayake)&quot;,&quot;created_timestamp&quot;:&quot;1705291984&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;506&quot;,&quot;iso&quot;:&quot;1000&quot;,&quot;shutter_speed&quot;:&quot;0.00025&quot;,&quot;title&quot;:&quot;Australian Open Tennis&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Australian Open Tennis" data-image-description="" data-image-caption="&lt;p&gt;Coco Gauff, right, of the U.S. is congratulated by Anna Karolina Schmiedlova of Slovakia following their first round match at the Australian Open tennis championships at Melbourne Park, Melbourne, Australia, Monday, Jan. 15, 2024. (AP Photo/Asanka Brendon Ratnayake)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Coco-Gauff.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Coco-Gauff.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By SIMON CAMBERS Associated Press MELBOURNE, Australia (AP) — Coco Gauff says a USTA social media post meant to promote American players at the&#160;Australian Open&#160;had made them look “awful.” Gauff initially responded to the post, which has since been deleted by the USTA, the ruling body for tennis in the U.S., in an Instagram story, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/coco-gauff-reiterates-usta-image-of-us-players-made-them-look-awful/">Coco Gauff reiterates USTA image of US players made them look “awful”</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/coco-gauff-reiterates-usta-image-of-us-players-made-them-look-awful/">https://islandtimes.org/coco-gauff-reiterates-usta-image-of-us-players-made-them-look-awful/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/coco-gauff-reiterates-usta-image-of-us-players-made-them-look-awful/">Save to Pocket</a>
+</span>
+
+---
+
+## Jordan Love and the Packers pull a wild-card stunner, beating Dak Prescott and the Cowboys 48-32
+
+date: 2024-01-16, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jordan-Love-and-the-Packers.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jordan-Love-and-the-Packers.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jordan-Love-and-the-Packers.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jordan-Love-and-the-Packers.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jordan-Love-and-the-Packers.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jordan-Love-and-the-Packers.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jordan-Love-and-the-Packers.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68118" data-permalink="https://islandtimes.org/jordan-love-and-the-packers-pull-a-wild-card-stunner-beating-dak-prescott-and-the-cowboys-48-32/newsmaker-names/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jordan-Love-and-the-Packers.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;Canon EOS R5&quot;,&quot;caption&quot;:&quot;Green Bay Packers quarterback Jordan Love (10) reacts after throwing a touchdown pass against the Dallas Cowboys during the second half of an NFL football game, Sunday, Jan. 14, 2024, in Arlington, Texas. (AP Photo\/Michael Ainsworth)&quot;,&quot;created_timestamp&quot;:&quot;1705276645&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press All Rights Reserved&quot;,&quot;focal_length&quot;:&quot;560&quot;,&quot;iso&quot;:&quot;12800&quot;,&quot;shutter_speed&quot;:&quot;0.0005&quot;,&quot;title&quot;:&quot;Newsmaker Names&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Newsmaker Names" data-image-description="" data-image-caption="&lt;p&gt;Green Bay Packers quarterback Jordan Love (10) reacts after throwing a touchdown pass against the Dallas Cowboys during the second half of an NFL football game, Sunday, Jan. 14, 2024, in Arlington, Texas. (AP Photo/Michael Ainsworth)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jordan-Love-and-the-Packers.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jordan-Love-and-the-Packers.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By SCHUYLER DIXON AP Pro Football Writer ARLINGTON, Texas (AP) — Aaron Jones grew up idolizing Emmitt Smith and the Dallas Cowboys. The Green Bay running back found a new, and most painful, way to torment the all-time rushing leader&#8217;s former team. Jones ran for three touchdowns, Jordan Love threw for three more in his [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/jordan-love-and-the-packers-pull-a-wild-card-stunner-beating-dak-prescott-and-the-cowboys-48-32/">Jordan Love and the Packers pull a wild-card stunner, beating Dak Prescott and the Cowboys 48-32</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/jordan-love-and-the-packers-pull-a-wild-card-stunner-beating-dak-prescott-and-the-cowboys-48-32/">https://islandtimes.org/jordan-love-and-the-packers-pull-a-wild-card-stunner-beating-dak-prescott-and-the-cowboys-48-32/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/jordan-love-and-the-packers-pull-a-wild-card-stunner-beating-dak-prescott-and-the-cowboys-48-32/">Save to Pocket</a>
+</span>
+
+---
+
+## Vodafone signs $1.5 billion Microsoft deal for AI, cloud and IoT
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+LONDON (Reuters) — Vodafone has agreed a 10-year partnership with Microsoft to bring generative AI, digital, enterprise and cloud services to more than 300 million businesses and consumers across its European and African markets.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/vodafone-signs-1-5-billion-microsoft-deal-for-ai-cloud-and-iot/article_8032701e-b43d-11ee-8256-3337bc3657e5.html">https://www.mvariety.com/business/vodafone-signs-1-5-billion-microsoft-deal-for-ai-cloud-and-iot/article_8032701e-b43d-11ee-8256-3337bc3657e5.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/vodafone-signs-1-5-billion-microsoft-deal-for-ai-cloud-and-iot/article_8032701e-b43d-11ee-8256-3337bc3657e5.html">Save to Pocket</a>
+</span>
+
+---
+
+## Elton John joins elite EGOT ranks with Emmy win
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+LOS ANGELES (Reuters) — Musician Elton John was elevated to the rare status of EGOT on Monday when a livestream of a concert from his farewell tour won an Emmy award.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/elton-john-joins-elite-egot-ranks-with-emmy-win/article_1f2d8844-b43d-11ee-bef7-8b01a3f77580.html">https://www.mvariety.com/lifestyle/elton-john-joins-elite-egot-ranks-with-emmy-win/article_1f2d8844-b43d-11ee-bef7-8b01a3f77580.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/elton-john-joins-elite-egot-ranks-with-emmy-win/article_1f2d8844-b43d-11ee-bef7-8b01a3f77580.html">Save to Pocket</a>
+</span>
+
+---
+
+## Woman's body discovered after small plane crash in Half Moon Bay
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+CHARLOTTE, N.C (TNS) — Authorities on Monday suspended their search for possible survivors after a Cozy Mark IV plane crashed into the water near Half Moon Bay, California, Sunday night, shortly after taking off from Half Moon Bay Airport.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/womans-body-discovered-after-small-plane-crash-in-half-moon-bay/article_cc488aac-b43c-11ee-afa7-4fc5984e0636.html">https://www.mvariety.com/news/national/womans-body-discovered-after-small-plane-crash-in-half-moon-bay/article_cc488aac-b43c-11ee-afa7-4fc5984e0636.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/womans-body-discovered-after-small-plane-crash-in-half-moon-bay/article_cc488aac-b43c-11ee-afa7-4fc5984e0636.html">Save to Pocket</a>
+</span>
+
+---
+
+## Thousands of flights canceled as Arctic blast descends on US
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+CHARLOTTE, N.C (TNS) — An Arctic blast gripping much of the nation caused more than 11,000 flights to be delayed or canceled Monday, and with another storm looming, the number was expected to grow.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/thousands-of-flights-canceled-as-arctic-blast-descends-on-us/article_80f08636-b43c-11ee-946c-9b7922e0bced.html">https://www.mvariety.com/news/national/thousands-of-flights-canceled-as-arctic-blast-descends-on-us/article_80f08636-b43c-11ee-946c-9b7922e0bced.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/thousands-of-flights-canceled-as-arctic-blast-descends-on-us/article_80f08636-b43c-11ee-946c-9b7922e0bced.html">Save to Pocket</a>
+</span>
+
+---
+
+## US Defense Secretary Lloyd Austin released from hospital
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. Defense Secretary Lloyd Austin was released from the hospital on Monday, two weeks after being hospitalized due to complications from prostate cancer treatment, the Pentagon said.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-defense-secretary-lloyd-austin-released-from-hospital/article_9e9df1d8-b43b-11ee-9b0e-0f632f512a48.html">https://www.mvariety.com/news/national/us-defense-secretary-lloyd-austin-released-from-hospital/article_9e9df1d8-b43b-11ee-9b0e-0f632f512a48.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-defense-secretary-lloyd-austin-released-from-hospital/article_9e9df1d8-b43b-11ee-9b0e-0f632f512a48.html">Save to Pocket</a>
+</span>
+
+---
+
+## Trump lawyer Tacopina withdraws from Manhattan legal team
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+(Reuters) — Joseph Tacopina, an attorney on former U.S. President Donald Trump's legal team, on Monday said he will no longer represent him in a criminal case in Manhattan related to alleged hush money payments or a separate appeal of a civil case.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/trump-lawyer-tacopina-withdraws-from-manhattan-legal-team/article_40469414-b43b-11ee-a0d2-ff52882da3da.html">https://www.mvariety.com/news/national/trump-lawyer-tacopina-withdraws-from-manhattan-legal-team/article_40469414-b43b-11ee-a0d2-ff52882da3da.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/trump-lawyer-tacopina-withdraws-from-manhattan-legal-team/article_40469414-b43b-11ee-a0d2-ff52882da3da.html">Save to Pocket</a>
+</span>
+
+---
+
+## Dangerously cold temps continue across US as 2024 presidential race begins in Iowa
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+(Reuters) — Much of the United States remained gripped by an Arctic blast on Monday, cutting power to tens of thousands of customers in northern states and Texas and potentially dampening turnout in Iowa, where voters will cast the first ballots for a Republican candidate in November's presidential race.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/dangerously-cold-temps-continue-across-us-as-2024-presidential-race-begins-in-iowa/article_a9b1753c-b43a-11ee-9ab5-8fb11224a1b5.html">https://www.mvariety.com/news/national/dangerously-cold-temps-continue-across-us-as-2024-presidential-race-begins-in-iowa/article_a9b1753c-b43a-11ee-9ab5-8fb11224a1b5.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/dangerously-cold-temps-continue-across-us-as-2024-presidential-race-begins-in-iowa/article_a9b1753c-b43a-11ee-9ab5-8fb11224a1b5.html">Save to Pocket</a>
+</span>
+
+---
+
+## Biden campaign, allies raise $97 million in fourth quarter
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+WASHINGTON (Reuters) — President Joe Biden's 2024 reelection team and his Democratic Party said on Monday they raised over $97 million in the last three months of 2023, amid opinion polls showing voter concerns over his age, high prices and handling of the Israel-Hamas war.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/biden-campaign-allies-raise-97-million-in-fourth-quarter/article_2afe9512-b43a-11ee-8b78-eb1ca452c27d.html">https://www.mvariety.com/news/national/biden-campaign-allies-raise-97-million-in-fourth-quarter/article_2afe9512-b43a-11ee-8b78-eb1ca452c27d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/biden-campaign-allies-raise-97-million-in-fourth-quarter/article_2afe9512-b43a-11ee-8b78-eb1ca452c27d.html">Save to Pocket</a>
+</span>
+
+---
+
+## Entrepreneur Ramaswamy drops out of White House race, endorses Trump
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+(Reuters) — Vivek Ramaswamy, a multi-millionaire former biotech executive, ended his White House bid on Monday and endorsed Donald Trump after his longshot bid caught attention but failed to catapult him high enough in the Republican Party's first nominating contest in Iowa.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/entrepreneur-ramaswamy-drops-out-of-white-house-race-endorses-trump/article_c498d67a-b439-11ee-b561-b7b3753b408f.html">https://www.mvariety.com/news/national/entrepreneur-ramaswamy-drops-out-of-white-house-race-endorses-trump/article_c498d67a-b439-11ee-b561-b7b3753b408f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/entrepreneur-ramaswamy-drops-out-of-white-house-race-endorses-trump/article_c498d67a-b439-11ee-b561-b7b3753b408f.html">Save to Pocket</a>
+</span>
+
+---
+
+## US military to deploy helicopters to Japan's earthquake-hit peninsula
+
+date: 2024-01-16, updated: 2024-01-16, from: Marianas Variety
+
+TOKYO (Reuters) — The United States will deploy two military helicopters in Japan to the earthquake-hit Noto peninsula on the country's west coast to aid relief efforts in communities cut off by the disaster, the U.S. Ambassador to Japan said on Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-military-to-deploy-helicopters-to-japans-earthquake-hit-peninsula/article_66e3da84-b439-11ee-b5f2-079cf0b46e35.html">https://www.mvariety.com/news/national/us-military-to-deploy-helicopters-to-japans-earthquake-hit-peninsula/article_66e3da84-b439-11ee-b5f2-079cf0b46e35.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-military-to-deploy-helicopters-to-japans-earthquake-hit-peninsula/article_66e3da84-b439-11ee-b5f2-079cf0b46e35.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -305,6 +761,18 @@ LOS ANGELES (Reuters) — The unusual relationship of a married couple in histor
 
 <span class="feed-item-link">
 <a href="https://www.mvariety.com/lifestyle/how-dicaprio-shaped-twisted-love-story-in-killers-of-the-flower-moon/article_8190f736-b2d6-11ee-9eac-374980a88044.html">https://www.mvariety.com/lifestyle/how-dicaprio-shaped-twisted-love-story-in-killers-of-the-flower-moon/article_8190f736-b2d6-11ee-9eac-374980a88044.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/how-dicaprio-shaped-twisted-love-story-in-killers-of-the-flower-moon/article_8190f736-b2d6-11ee-9eac-374980a88044.html">Save to Pocket</a>
+</span>
+
+---
+
+## Sakanoko helps ‘Bows cruise by the Emmanuel: 3-0
+
+date: 2024-01-14, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/sakanoko-helps-bows-cruise-by-the-emmanuel-3-0/article_9d2997d0-b409-11ee-a775-bb385c7ace6e.html">https://www.manoanow.org/kaleo/sakanoko-helps-bows-cruise-by-the-emmanuel-3-0/article_9d2997d0-b409-11ee-a775-bb385c7ace6e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/sakanoko-helps-bows-cruise-by-the-emmanuel-3-0/article_9d2997d0-b409-11ee-a775-bb385c7ace6e.html">Save to Pocket</a>
 </span>
 
 

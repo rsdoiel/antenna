@@ -1,11 +1,107 @@
 ---
 title: games 2024.03
-updated: 2024-01-15 12:00:30
+updated: 2024-01-16 08:35:18
 ---
 
 # games 2024.03
 
-(date: 2024-01-15 12:00:30)
+(date: 2024-01-16 08:35:18)
+
+---
+
+## Humble’s massive Terry Pratchett bundle includes 38 Discworld books for $18
+
+date: 2024-01-16, updated: 2024-01-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24036365/terry-pratchett-discworld-deal-humble-bundle">https://www.polygon.com/deals/24036365/terry-pratchett-discworld-deal-humble-bundle</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24036365/terry-pratchett-discworld-deal-humble-bundle">Save to Pocket</a>
+</span>
+
+---
+
+## For a Native viewer, one moment in Killers of the Flower Moon stands out above the rest
+
+date: 2024-01-16, updated: 2024-01-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24036123/killers-of-the-flower-moon-native-american-osage-viewing">https://www.polygon.com/24036123/killers-of-the-flower-moon-native-american-osage-viewing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24036123/killers-of-the-flower-moon-native-american-osage-viewing">Save to Pocket</a>
+</span>
+
+---
+
+## Cute, villainous Pokémon Pecharunt dabbles in mind control
+
+date: 2024-01-16, updated: 2024-01-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/pokemon/24039973/pecharunt-toxic-mochi-pokemon-scarlet-violet-dlc">https://www.polygon.com/pokemon/24039973/pecharunt-toxic-mochi-pokemon-scarlet-violet-dlc</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/pokemon/24039973/pecharunt-toxic-mochi-pokemon-scarlet-violet-dlc">Save to Pocket</a>
+</span>
+
+---
+
+## She-Hulk star says there’s no hope for season 2
+
+date: 2024-01-16, updated: 2024-01-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24039917/she-hulk-season-2-release-canceled">https://www.polygon.com/24039917/she-hulk-season-2-release-canceled</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24039917/she-hulk-season-2-release-canceled">Save to Pocket</a>
+</span>
+
+---
+
+## The Last of Us Part 2’s roguelike mode is a playable identity crisis
+
+date: 2024-01-16, updated: 2024-01-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24036476/the-last-of-us-part-2s-roguelike-mode">https://www.polygon.com/24036476/the-last-of-us-part-2s-roguelike-mode</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24036476/the-last-of-us-part-2s-roguelike-mode">Save to Pocket</a>
+</span>
+
+---
+
+## You can watch this dog speedrun an NES game live today
+
+date: 2024-01-16, updated: 2024-01-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24039944/games-done-quick-agdq-2024-dog-speedrun-gyromite">https://www.polygon.com/24039944/games-done-quick-agdq-2024-dog-speedrun-gyromite</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24039944/games-done-quick-agdq-2024-dog-speedrun-gyromite">Save to Pocket</a>
+</span>
+
+---
+
+## MTG: Murders at Karlov Manor launches Feb. 9, here’s where to pre-order
+
+date: 2024-01-16, updated: 2024-01-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/23988056/pre-order-mtg-murders-at-karlov-manor">https://www.polygon.com/deals/23988056/pre-order-mtg-murders-at-karlov-manor</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/23988056/pre-order-mtg-murders-at-karlov-manor">Save to Pocket</a>
+</span>
+
+---
+
+## How to enjoy movies more this year
+
+date: 2024-01-16, updated: 2024-01-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24035960/how-to-watch-movies">https://www.polygon.com/24035960/how-to-watch-movies</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24035960/how-to-watch-movies">Save to Pocket</a>
+</span>
 
 ---
 
