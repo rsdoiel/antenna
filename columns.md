@@ -1,11 +1,120 @@
 ---
 title: columns 2024.03
-updated: 2024-01-16 09:06:18
+updated: 2024-01-17 08:55:23
 ---
 
 # columns 2024.03
 
-(date: 2024-01-16 09:06:18)
+(date: 2024-01-17 08:55:23)
+
+---
+
+## Code Written with AI Assistants Is Less Secure
+
+date: 2024-01-17, updated: 2024-01-05, from: Bruce Schneier blog
+
+<p>Interesting research: &#8220;<a href="https://arxiv.org/abs/2211.03622">Do Users Write More Insecure Code with AI Assistants?</a>&#8220;:</p>
+<blockquote><p><b>Abstract:</b> We conduct the first large-scale user study examining how users interact with an AI Code assistant to solve a variety of security related tasks across different programming languages. Overall, we find that participants who had access to an AI assistant based on OpenAI&#8217;s codex-davinci-002 model wrote significantly less secure code than those without access. Additionally, participants with access to an AI assistant were more likely to believe they wrote secure code than those without access to the AI assistant. Furthermore, we find that participants who trusted the AI less and engaged more with the language and format of their prompts (e.g. re-phrasing, adjusting temperature) provided code with fewer security vulnerabilities. Finally, in order to better inform the design of future AI-based Code assistants, we provide an in-depth analysis of participants&#8217; language and interaction behavior, as well as release our user interface as an instrument to conduct similar studies in the future...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/code-written-with-ai-assistants-is-less-secure.html">https://www.schneier.com/blog/archives/2024/01/code-written-with-ai-assistants-is-less-secure.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/code-written-with-ai-assistants-is-less-secure.html">Save to Pocket</a>
+</span>
+
+---
+
+## Office Hours: Can Trump’s nomination be stopped?
+
+date: 2024-01-17, from: Robert Reich's blog
+
+
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/office-hours-can-trumps-nomination">https://robertreich.substack.com/p/office-hours-can-trumps-nomination</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/office-hours-can-trumps-nomination">Save to Pocket</a>
+</span>
+
+---
+
+## Apple’s Workaround for the ITC’s Import Ban on Apple Watch Series 9 and Ultra 2: Disabling the Blood-Oxygen Sensor in Software
+
+date: 2024-01-17, updated: 2024-01-17, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://arstechnica.com/gadgets/2024/01/apple-watch-redesigned-without-blood-oxygen-monitoring-to-avoid-import-ban/">https://arstechnica.com/gadgets/2024/01/apple-watch-redesigned-without-blood-oxygen-monitoring-to-avoid-import-ban/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://arstechnica.com/gadgets/2024/01/apple-watch-redesigned-without-blood-oxygen-monitoring-to-avoid-import-ban/">Save to Pocket</a>
+</span>
+
+---
+
+## Post-SCOTUS Ruling, Apple Releases Guidelines for ‘External Purchase Links’ in iOS Apps (Spoiler: They Still Demand the Same Commissions)
+
+date: 2024-01-17, updated: 2024-01-17, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://developer.apple.com/support/storekit-external-entitlement-us/">https://developer.apple.com/support/storekit-external-entitlement-us/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://developer.apple.com/support/storekit-external-entitlement-us/">Save to Pocket</a>
+</span>
+
+---
+
+## Update: The Family Who Died at Eagle Pass
+
+date: 2024-01-17, from: Dan Rather's Steady
+
+Often lost in the gamesmanship of border politics are details of those who tragically die trying to get to this country. In 2022, the most recent year for which records are available, nearly 700 people perished or disappeared trying to come to the United States. The International Organization for Migration says this is the deadliest land route for migrants worldwide.
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/update-the-family-who-died-at-eagle">https://steady.substack.com/p/update-the-family-who-died-at-eagle</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/update-the-family-who-died-at-eagle">Save to Pocket</a>
+</span>
+
+---
+
+## Disney Has a Good Disney+ App for VisionOS (and, by the Way, I Got Another 30-Minute Hands-On Experience With Vision Pro)
+
+date: 2024-01-17, updated: 2024-01-17, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://thewaltdisneycompany.com/disney-on-apple-vision-pro-ushers-in-a-new-era-of-storytelling-innovation-and-immersive-entertainment/">https://thewaltdisneycompany.com/disney-on-apple-vision-pro-ushers-in-a-new-era-of-storytelling-innovation-and-immersive-entertainment/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thewaltdisneycompany.com/disney-on-apple-vision-pro-ushers-in-a-new-era-of-storytelling-innovation-and-immersive-entertainment/">Save to Pocket</a>
+</span>
+
+---
+
+## Wednesday 17 January, 2024
+
+date: 2024-01-17, from: John Naughton's online diary
+
+This is how you do it Trinity Street, Cambridge. Quote of the Day ”I love criticism so long as it is unqualified praise.” Noel Coward Musical alternative to the morning’s radio news Tuba Skinny &#124; Jubilee Stomp &#8211; Royal Street &#8230; <a href="https://memex.naughtons.org/wednesday-17-january-2024/39036/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/wednesday-17-january-2024/39036/">https://memex.naughtons.org/wednesday-17-january-2024/39036/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/wednesday-17-january-2024/39036/">Save to Pocket</a>
+</span>
+
+---
+
+## curl is a CNA
+
+date: 2024-01-16, from: Daniel Stenberg Blog
+
+The curl project has been accepted as a CVE Numbering Authority (CNA) for vulnerabilities in all products directly made or managed by the project. If I&#8217;m counting correctly, we are the 351st CNA. The official announcement from Mitre states: curl is now a CVE Numbering Authority (CNA) for all products made and managed by the &#8230; <a href="https://daniel.haxx.se/blog/2024/01/16/curl-is-a-cna/" class="more-link">Continue reading <span class="screen-reader-text">curl is a CNA</span> <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://daniel.haxx.se/blog/2024/01/16/curl-is-a-cna/">https://daniel.haxx.se/blog/2024/01/16/curl-is-a-cna/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daniel.haxx.se/blog/2024/01/16/curl-is-a-cna/">Save to Pocket</a>
+</span>
+
+---
+
+## Tim Sweeney on the SCOTUS Ruling
+
+date: 2024-01-16, updated: 2024-01-16, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://twitter.com/timsweeneyepic/status/1747280528745624000?s=61&t=16WqqI8uLOTkQieKK2aS4g">https://twitter.com/timsweeneyepic/status/1747280528745624000?s=61&t=16WqqI8uLOTkQieKK2aS4g</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://twitter.com/timsweeneyepic/status/1747280528745624000?s=61&t=16WqqI8uLOTkQieKK2aS4g">Save to Pocket</a>
+</span>
 
 ---
 
@@ -33,9 +142,9 @@ Friends, The mainstream media still don&#8217;t get it. This morning&#8217;s New
 
 ---
 
-## Apple teases New Entertainment Experiences Launching With Vision Pro
+## Apple Teases New Entertainment Experiences Launching With Vision Pro
 
-date: 2024-01-16, updated: 2024-01-16, from: Daring Fireball
+date: 2024-01-16, updated: 2024-01-17, from: Daring Fireball
 
 
 
@@ -70,7 +179,7 @@ Immigration has always been Donald Trump&#8217;s most compelling issue. It was a
 
 ---
 
-## What's the "Chevron Doctrine" and why should you want to preserve it? 
+## What’s the “Chevron doctrine,” and why should you want to preserve it? 
 
 date: 2024-01-16, from: Robert Reich's blog
 

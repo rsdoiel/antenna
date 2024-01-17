@@ -1,11 +1,51 @@
 ---
 title: mid central 2024.03
-updated: 2024-01-16 09:06:18
+updated: 2024-01-17 08:55:22
 ---
 
 # mid central 2024.03
 
-(date: 2024-01-16 09:06:18)
+(date: 2024-01-17 08:55:22)
+
+---
+
+## There are no active watches, warnings or advisories
+
+date: 2024-01-17, updated: 2024-01-17, from: Merced, Weather.gov CAP v1.1 alerts
+
+
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
+</span>
+
+---
+
+## Thermoelectric cooler efficiency and heatsink thermal impedance
+
+date: 2024-01-17, from: EDN Blog
+
+<img width="540" height="394" src="https://www.edn.com/wp-content/uploads/Figure-1_TECheatsink.png?fit=540%2C394" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-1_TECheatsink.png?w=540 540w, https://www.edn.com/wp-content/uploads/Figure-1_TECheatsink.png?w=300 300w" sizes="(max-width: 540px) 100vw, 540px" /><p>A simple but usefully accurate design model of TECs that requires only the numbers provided in typical datasheets.</p>
+<p>The post <a href="https://www.edn.com/thermoelectric-cooler-efficiency-and-heatsink-thermal-impedance/" data-wpel-link="internal">Thermoelectric cooler efficiency and heatsink thermal impedance</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/thermoelectric-cooler-efficiency-and-heatsink-thermal-impedance/">https://www.edn.com/thermoelectric-cooler-efficiency-and-heatsink-thermal-impedance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/thermoelectric-cooler-efficiency-and-heatsink-thermal-impedance/">Save to Pocket</a>
+</span>
+
+---
+
+## Lenovo’s Smart Clock 2: A “charged” device that met a premature demise
+
+date: 2024-01-17, from: EDN Blog
+
+<img width="1400" height="1710" src="https://www.edn.com/wp-content/uploads/lcd-assembly_removed.jpg?fit=1400%2C1710" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/lcd-assembly_removed.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/lcd-assembly_removed.jpg?w=246 246w, https://www.edn.com/wp-content/uploads/lcd-assembly_removed.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/lcd-assembly_removed.jpg?w=838 838w, https://www.edn.com/wp-content/uploads/lcd-assembly_removed.jpg?w=1258 1258w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Bigger and feature-beefier than its predecessor, this smart speaker met a seeming premature demise due to a partner’s change of heart.</p>
+<p>The post <a href="https://www.edn.com/lenovos-smart-clock-2-a-charged-device-that-met-a-premature-demise/" data-wpel-link="internal">Lenovo’s Smart Clock 2: A “charged” device that met a premature demise</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/lenovos-smart-clock-2-a-charged-device-that-met-a-premature-demise/">https://www.edn.com/lenovos-smart-clock-2-a-charged-device-that-met-a-premature-demise/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/lenovos-smart-clock-2-a-charged-device-that-met-a-premature-demise/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +53,7 @@ updated: 2024-01-16 09:06:18
 
 date: 2024-01-16, from: EDN Blog
 
-<img width="756" height="796" src="https://www.edn.com/wp-content/uploads/Fig.-2-14.jpg?fit=756%2C796" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig.-2-14.jpg?w=756 756w, https://www.edn.com/wp-content/uploads/Fig.-2-14.jpg?w=285 285w" sizes="(max-width: 756px) 100vw, 756px" /><p>This bistable switch is made on two comparators, the load is switched on/off sequentially by applying a voltage of two different levels to the input of the device.</p>
+<img width="756" height="796" src="https://www.edn.com/wp-content/uploads/Fig.-2-14.jpg?fit=756%2C796" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig.-2-14.jpg?w=756 756w, https://www.edn.com/wp-content/uploads/Fig.-2-14.jpg?w=285 285w" sizes="(max-width: 756px) 100vw, 756px" /><p>This bistable switch is made on two comparators, the load is switched on/off sequentially by applying a voltage of two different levels to the input of the device.</p>
 <p>The post <a href="https://www.edn.com/bistable-switch-made-on-comparators/" data-wpel-link="internal">Bistable switch made on comparators</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 
@@ -31,18 +71,6 @@ date: 2024-01-16, updated: 2024-01-16, from: Merced, Weather.gov CAP v1.1 alerts
 
 <span class="feed-item-link">
 <a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126884EE63E0.DenseFogAdvisory.126884EF8B30CA.HNXNPWHNX.456f7a1622fbb4538d4da71bc46725e2">https://alerts.weather.gov/cap/wwacapget.php?x=CA126884EE63E0.DenseFogAdvisory.126884EF8B30CA.HNXNPWHNX.456f7a1622fbb4538d4da71bc46725e2</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA126884EE63E0.DenseFogAdvisory.126884EF8B30CA.HNXNPWHNX.456f7a1622fbb4538d4da71bc46725e2">Save to Pocket</a>
-</span>
-
----
-
-## There are no active watches, warnings or advisories
-
-date: 2024-01-15, updated: 2024-01-15, from: Merced, Weather.gov CAP v1.1 alerts
-
-
-
-<span class="feed-item-link">
-<a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
 </span>
 
 ---

@@ -11,4 +11,7 @@ todays_feeds: .FORCE
 	git add today-$(TODAY).md
 	git add today-$(TODAY).html
 
+dump: .FORCE
+	sqlite3 news.skim '.dump' >news.sql
+
 .FORCE:

@@ -1,11 +1,741 @@
 ---
 title: tech likely 2024.03
-updated: 2024-01-16 09:06:18
+updated: 2024-01-17 08:55:23
 ---
 
 # tech likely 2024.03
 
-(date: 2024-01-16 09:06:18)
+(date: 2024-01-17 08:55:23)
+
+---
+
+##  The Last Repair Shop 
+
+date: 2024-01-17, updated: 2024-01-17, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/the-last-repair-shop">https://kottke.org/24/01/the-last-repair-shop</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/the-last-repair-shop">Save to Pocket</a>
+</span>
+
+---
+
+## Young people are giving up on BBC News. A new podcast is helping try to get them back
+
+date: 2024-01-17, from: Nieman Journalism Lab
+
+We all know the direction of travel, even if we don’t know the stats off by heart: Legacy media hasn&#8217;t figured out how to give young people what they want. And it doesn’t really get more “legacy media” than the 101-year-old, publicly funded British Broadcasting Corporation.  Here are some of those unsurprising but nonetheless grim...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/young-people-are-giving-up-on-bbc-news-a-new-podcast-is-helping-try-to-get-them-back/">https://www.niemanlab.org/2024/01/young-people-are-giving-up-on-bbc-news-a-new-podcast-is-helping-try-to-get-them-back/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/young-people-are-giving-up-on-bbc-news-a-new-podcast-is-helping-try-to-get-them-back/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s Roman to Search for Signs of Dark Matter Clumps
+
+date: 2024-01-17, from: NASA breaking news
+
+Some of the finest, smallest details in the universe – the gaps between elongated groups of stars – may soon help astronomers reveal dark matter in greater detail than ever before. After NASA&#8217;s Nancy Grace Roman Space Telescope launches, by May 2027, researchers will use its images to explore what exists between looping tendrils of stars that are pulled [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-search-for-signs-of-dark-matter-clumps/">https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-search-for-signs-of-dark-matter-clumps/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-search-for-signs-of-dark-matter-clumps/">Save to Pocket</a>
+</span>
+
+---
+
+##  Um, Burt&#8217;s Bees has teamed up with Hidden Valley Ranch to sell... 
+
+date: 2024-01-17, updated: 2024-01-17, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043792-um-burts-bees-has-teamed">https://kottke.org/24/01/0043792-um-burts-bees-has-teamed</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043792-um-burts-bees-has-teamed">Save to Pocket</a>
+</span>
+
+---
+
+## Could immutability be a Leap too far for openSUSE users?
+
+date: 2024-01-17, updated: 2024-01-17, from: Liam Proven's articles at the Register
+
+<h4>Update on Linux distro's next major version heralds big changes ahead</h4>
+      <p>The future of openSUSE is firming up, but possibly not in the direction that existing users of the distro will enjoy.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/17/opensuse_confirms_leap_16/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/17/opensuse_confirms_leap_16/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/17/opensuse_confirms_leap_16/">Save to Pocket</a>
+</span>
+
+---
+
+## The Quest for Simple Rules to Build a Microbial Community
+
+date: 2024-01-17, from: Quanta Magazine
+
+Microbiologists are searching for a universal theory of how bacteria form communities based not on their species but on the roles they play.            <p>The post <a href="https://www.quantamagazine.org/the-quest-for-simple-rules-to-build-a-microbial-community-20240117/" target="_blank">The Quest for Simple Rules to Build a Microbial Community</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/the-quest-for-simple-rules-to-build-a-microbial-community-20240117/">https://www.quantamagazine.org/the-quest-for-simple-rules-to-build-a-microbial-community-20240117/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/the-quest-for-simple-rules-to-build-a-microbial-community-20240117/">Save to Pocket</a>
+</span>
+
+---
+
+**@Ayjay blog** (date: 2024-01-17, from: Ayjay blog)
+
+Jaroslav Pelikan:  Origen may … have been the first church father to study Hebrew, “in opposition to the spirit of his time and of his people,” as Jerome says; according to Eusebius, he “learned it thoroughly,” but there is reason to doubt the accuracy of this report. Jerome, however, was rightly celebrated as &#8220;a trilingual [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/45921-2/">https://blog.ayjay.org/45921-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/45921-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Looking back at 2023
+
+date: 2024-01-17, from: Alex Schroeder's Blog
+
+<h1>Looking back at 2023</h1>
+
+<p>We played at least 65 games <a href="https://campaignwiki.org/wiki/MontagInZ%c3%bcrich/2023">in 2023</a> on the <a href="https://campaignwiki.org/wiki/MontagInZ%c3%bcrich/Discord_Server">Grenzland Discord</a> server!
+Some more were played offline. But those 65 games were open tables in one form or another.</p>
+
+<p>I played in 11 of these games and I ran 31 of them.</p>
+
+<table>
+<thead>
+<tr>
+<th align="center">Games</th>
+<th>Referee</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">31</td>
+<td><a class="account" href="https://rollenspiel.social/@alex" title="@alex@rollenspiel.social">@alex</a></td>
+</tr>
+
+<tr>
+<td align="center">28</td>
+<td><a class="account" href="https://tabletop.social/@phf" title="@phf@tabletop.social">@phf</a></td>
+</tr>
+
+<tr>
+<td align="center">5</td>
+<td><a class="account" href="https://rollenspiel.social/@Olupo" title="@olupo@rollenspiel.social">@olupo</a></td>
+</tr>
+
+<tr>
+<td align="center">1</td>
+<td><a class="account" href="https://tabletop.social/@wandererbill" title="@wandererbill@tabletop.social">@wandererbill</a></td>
+</tr>
+</tbody>
+</table>
+<p>&ldquo;Play Games 🤝 Run Games&rdquo;</p>
+
+<p>Of games I ran:</p>
+
+<table>
+<thead>
+<tr>
+<th align="center">Games</th>
+<th>Setting</th>
+<th>System</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">13</td>
+<td><a href="https://campaignwiki.org/wiki/MontagInZ%C3%BCrich/Stonehell">Stonehell</a></td>
+<td><a href="https://alexschroeder.ch/view/Halberds_and_Helmets">Halberds &amp; Helmets</a></td>
+</tr>
+
+<tr>
+<td align="center">12</td>
+<td><a href="https://campaignwiki.org/wiki/MontagInZ%c3%bcrich/Riesige_Riesen">Riesige Riesen</a></td>
+<td><a href="https://alexschroeder.ch/view/Halberds_and_Helmets">Halberds &amp; Helmets</a></td>
+</tr>
+
+<tr>
+<td align="center">4</td>
+<td><a href="https://campaignwiki.org/wiki/MontagInZ%c3%bcrich/Ultraviolet_Grasslands">Ultraviolet Grasslands</a></td>
+<td><a href="https://alexschroeder.ch/view/Halberts">Halberts</a></td>
+</tr>
+
+<tr>
+<td align="center">1</td>
+<td>One-shot in the <a href="https://campaignwiki.org/wiki/Tau_Subsector/Tau">Tau Subsector</a></td>
+<td>Classic Traveller</td>
+</tr>
+
+<tr>
+<td align="center">1</td>
+<td><a href="https://campaignwiki.org/wiki/MontagInZ%c3%bcrich/Der_Wald_ohne_Wiederkehr">Der Wald ohne Wiederkehr</a></td>
+<td>Das Schwarze Auge, Basis Spiel</td>
+</tr>
+</tbody>
+</table>
+<p>On the German ADDCON Server I ran:</p>
+
+<table>
+<thead>
+<tr>
+<th align="center">Games</th>
+<th>Setting</th>
+<th>System</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">16</td>
+<td><a href="https://campaignwiki.org/wiki/Die_Wilde_Gestade/Arden_Vul">Arden Vul</a> megadungeon</td>
+<td>AD&amp;D 1st ed</td>
+</tr>
+
+<tr>
+<td align="center">4</td>
+<td><a href="https://campaignwiki.org/wiki/Die_Wilde_Gestade/Elredd">Elredd</a> wilderness exploration</td>
+<td>AD&amp;D 1st ed</td>
+</tr>
+</tbody>
+</table>
+<p>I also played in two sessions by <a class="account" href="https://rollenspiel.social/@settembrini" title="@settembrini@rollenspiel.social">@settembrini</a> and one session by the @ghoul.</p>
+
+<p>All in all, for the games I played in:</p>
+
+<table>
+<thead>
+<tr>
+<th align="center">Games</th>
+<th>Referee</th>
+<th>System</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">9</td>
+<td><a class="account" href="https://tabletop.social/@phf" title="@phf@tabletop.social">@phf</a></td>
+<td><a href="https://alexschroeder.ch/view/Halberds_and_Helmets">Halberds &amp; Helmets</a></td>
+</tr>
+
+<tr>
+<td align="center">2</td>
+<td><a class="account" href="https://rollenspiel.social/@settembrini" title="@settembrini@rollenspiel.social">@settembrini</a></td>
+<td>AD&amp;D 1st ed</td>
+</tr>
+
+<tr>
+<td align="center">1</td>
+<td><a class="account" href="https://rollenspiel.social/@Olupo" title="@olupo@rollenspiel.social">@olupo</a></td>
+<td><a href="https://alexschroeder.ch/view/Halberds_and_Helmets">Halberds &amp; Helmets</a></td>
+</tr>
+
+<tr>
+<td align="center">1</td>
+<td><a class="account" href="https://tabletop.social/@wandererbill" title="@wandererbill@tabletop.social">@wandererbill</a></td>
+<td>Fate</td>
+</tr>
+
+<tr>
+<td align="center">1</td>
+<td>@ghoul</td>
+<td>AD&amp;D 1st ed</td>
+</tr>
+</tbody>
+</table>
+<p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%23Life">#Life</a></p>
+
+<hr>
+
+<p><strong>2024-01-16</strong>. Got more numbers from the ADDKON Server:</p>
+
+<p><a class="account" href="https://rollenspiel.social/@settembrini" title="@settembrini@rollenspiel.social">@settembrini</a> writes:</p>
+
+<blockquote>
+<p>27 Mal Miesbohl geleitet, davon zu Beginn das Froschgottkloster, dann das Zeughaus des Elementaren Bösen und gaanz viel Brennglob.</p>
+</blockquote>
+
+<p>The ghoul writes:</p>
+
+<blockquote>
+<p>Ich habe nur 9× Lakedonia geleitet in 2023.</p>
+</blockquote>
+
+<p>Blut &amp; Glas writes:</p>
+
+<blockquote>
+<p>Ich habe 1× (in Worten: ein mal) Narkwoll geleitet^^</p>
+</blockquote>
+
+<p>Taco Jr. writes:</p>
+
+<blockquote>
+<p>Ich habe 1× Alt Kattun geleitet 🫣</p>
+</blockquote>
+
+<p>Elder Thing writes:</p>
+
+<blockquote>
+<p>Ich habe 2023 2× Schutzheim geleitet!</p>
+</blockquote>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-01-01-looking-back">https://alexschroeder.ch/view/2024-01-01-looking-back</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-01-01-looking-back">Save to Pocket</a>
+</span>
+
+---
+
+## Webb Shows Many Early Galaxies Looked Like Pool Noodles, Surfboards
+
+date: 2024-01-17, from: NASA breaking news
+
+Researchers analyzing images from NASA’s James Webb Space Telescope have found that galaxies in the early universe are often flat and elongated, like surfboards and pool noodles – and are rarely round, like volleyballs or frisbees. “Roughly 50 to 80% of the galaxies we studied appear to be flattened in two dimensions,” explained lead author [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/webb/webb-shows-many-early-galaxies-looked-like-pool-noodles-surfboards/">https://www.nasa.gov/missions/webb/webb-shows-many-early-galaxies-looked-like-pool-noodles-surfboards/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/webb/webb-shows-many-early-galaxies-looked-like-pool-noodles-surfboards/">Save to Pocket</a>
+</span>
+
+---
+
+##  Huh, Rob Reiner is doing a sequel to This Is Spinal Tap... 
+
+date: 2024-01-17, updated: 2024-01-17, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043785-huh-rob-reiner-is-doing">https://kottke.org/24/01/0043785-huh-rob-reiner-is-doing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043785-huh-rob-reiner-is-doing">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-17, from: Dave Winer's Scripting News)
+
+<a href="https://cagrimmett.com/micro/aa2835f451/#comment-34471">Notes</a> on the <a href="http://source.scripting.com/#1405339599000">archive element</a> in the <a href="http://source.scripting.com/">source namespace</a>. It's important that we share our ideas and collaborate, and listen and ask the right people to help. Manton was asking why weren't his ideas on archiving incorporated in other people's work, it's the same concern I have, why didn't we work together on this Manton? Two heads are better than one in things like this. I think Automattic may be the place to get together on this. Esp since they are the market leader now in this area. What they do, right off the bat, has to be supported everywhere, so we want them to do a good job. <span class="spOldSchoolEmoji">😄</span>
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/17.html#a142928">http://scripting.com/2024/01/17.html#a142928</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/17.html#a142928">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-17, from: Dave Winer's Scripting News)
+
+I got the help I needed <a href="http://scripting.com/2024/01/16.html#a180357">yesterday</a>, pointing me in the right <a href="https://platform.openai.com/docs/api-reference/introduction">direction</a> wrt APIs for ChatGPT. I'm ready to try some ideas out once I get to a stopping point on my current project. Can't wait to try out these ideas.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/17.html#a142706">http://scripting.com/2024/01/17.html#a142706</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/17.html#a142706">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-17, from: Dave Winer's Scripting News)
+
+ChatGPT is like having a programming partner you can try ideas out on, or ask for alternative approaches, and they're always there, and not too busy to help out. They know everything you don't know and need to know, and rarely hallucinate (you have to check the work, same as with a human btw). It's remarkable how much it is like having an ideal human programming partner. It's the kind of helper I aspire to be.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/17.html#a142417">http://scripting.com/2024/01/17.html#a142417</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/17.html#a142417">Save to Pocket</a>
+</span>
+
+---
+
+## Meet PiDex: your Raspberry Pi 5-powered doomsday companion
+
+date: 2024-01-17, from: Raspberry Pi News (.com)
+
+<p>Kenneth (aka Raspduino Uno) is nothing if not prepared, and he's getting ready to survive in a post-apocalyptic world by building his own Raspberry Pi 5-powered cyberdeck. Meet PiDex. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/meet-pidex-your-raspberry-pi-5-powered-doomsday-companion/">Meet PiDex: your Raspberry Pi 5-powered doomsday companion</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/meet-pidex-your-raspberry-pi-5-powered-doomsday-companion/">https://www.raspberrypi.com/news/meet-pidex-your-raspberry-pi-5-powered-doomsday-companion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/meet-pidex-your-raspberry-pi-5-powered-doomsday-companion/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-17, from: Miguel de Icaza Mastondon feed)
+
+<p>New PTSD just dropped: </p><p><a href="https://hachyderm.io/@thomasfuchs/111768918083135181" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">hachyderm.io/@thomasfuchs/1117</span><span class="invisible">68918083135181</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111769458815339301">https://mastodon.social/@Migueldeicaza/111769458815339301</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111769458815339301">Save to Pocket</a>
+</span>
+
+---
+
+## 86-DOS revisited
+
+date: 2024-01-17, from: OS News
+
+Recently, the oldest known versions of DOS were uploaded to the internet, and Michal Necasek dove into the floppy images. Even after more than 40 years(!), old software releases and pre-releases can still surface. In the case of 86-DOS 0.11 and 0.34 it’s practically a miracle, since there were probably never very many copies in existence. For the first time since the early 1980s, FAT formatted floppies with the primordial 16-byte directory entry format have come to light. The old 16-byte directory entries were gone by 86-DOS 1.0 in April 1981 and of course never appeared in any public PC DOS release. These prehistoric versions of 86-DOS allow us to fill in further missing pieces in the puzzle of DOS origins. It is fascinating to follow how DOS developed from almost nothing to a multi-million dollar business in the course of just a few years. ↫ Michal Necasek It started out so humbly. Yet, here we are, in 2024, and variants of DOS still have their uses in certain niches. An incredible legacy, for sure.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138343/86-dos-revisited/">https://www.osnews.com/story/138343/86-dos-revisited/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138343/86-dos-revisited/">Save to Pocket</a>
+</span>
+
+---
+
+## A shocking amount of the web is machine translated: insights from multi-way parallelism
+
+date: 2024-01-17, from: OS News
+
+We show that content on the web is often translated into many languages, and the low quality of these multi-way translations indicates they were likely created using Machine Translation (MT). Multi-way parallel, machine generated content not only dominates the translations in lower resource languages; it also constitutes a large fraction of the total web content in those languages. We also find evidence of a selection bias in the type of content which is translated into many languages, consistent with low quality English content being translated en masse into many lower resource languages, via MT. Our work raises serious concerns about training models such as multilingual large language models on both monolingual and bilingual data scraped from the web. ↫ Brian Thompson, Mehak Preet Dhaliwal, Peter Frisch, Tobias Domhan, Marcello Federico As a translator myself, this is entirely unsurprising. Translating is a craft, a skill, and much like with any other craft, you get what you pay for. If you pay your translator(s) a good rate, you get a good translation. If you pay your translator(s) a shit rate, you get a shit translation. If you pay nothing, you get nothing. I&#8217;m definitely seeing more and more people in my industry integrate machine translations, but so far, it&#8217;s not been an actual issue &#8211; I have no qualms about accepting a job where I take a machine-translated text and whip it into shape and turn it into a human-readable, quality translation&#8230; As long as people pay me a reasonable rate for it. Working from a machine translation is often quicker and easier, so the going rate obviously reflects that. The quality of machine translations is absolutely atrocious, however, and the idea of relying on it for texts other people &#8211; customers, clients, employees, etc. &#8211; are actually supposed to read and work from is terrifying. Google Translate is an effective tool for personal use, but throwing, I don&#8217;t know, your product&#8217;s manual at it and dumping the unedited result onto your customers is borderline criminal. Pay nothing, get nothing.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138340/a-shocking-amount-of-the-web-is-machine-translated-insights-from-multi-way-parallelism/">https://www.osnews.com/story/138340/a-shocking-amount-of-the-web-is-machine-translated-insights-from-multi-way-parallelism/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138340/a-shocking-amount-of-the-web-is-machine-translated-insights-from-multi-way-parallelism/">Save to Pocket</a>
+</span>
+
+---
+
+## htmx is composable??
+
+date: 2024-01-17, updated: 2024-01-17, from: Tom Kellog blog
+
+
+
+<span class="feed-item-link">
+<a href="http://timkellogg.me/blog/2024/01/17/htmx">http://timkellogg.me/blog/2024/01/17/htmx</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://timkellogg.me/blog/2024/01/17/htmx">Save to Pocket</a>
+</span>
+
+---
+
+## FOSSASIA PGDay 2024 takes place in Hanoi, Vietnam on April 9
+
+date: 2024-01-17, from: PostgreSQL News
+
+<p><a href="https://summit.fossasia.org/pgday">FOSSASIA PGDay</a> is a one day conference that will take place at the annual FOSSASIA Summit in Hanoi, Vietnam, on April 9, 2024. </p>
+<p>The event is dedicated to all things PostgreSQL! FOSSASIA PGDay will be a day filled with insightful talks, engaging discussions, and hands-on sessions, creating a platform for the PostgreSQL community to share, learn, and connect. </p>
+<h2>Call for Speakers</h2>
+<p>The <a href="https://eventyay.com/e/55d2a466/cfs">Call for Speakers is open</a>. Please select the PGDay track and one of the PGDay session choices in the submission form. </p>
+<p>We are particularly interested in submissions on the following topics: </p>
+<ul>
+<li>High Availability in Postgres</li>
+<li>Disaster Recovery</li>
+<li>Logical Replication </li>
+<li>Distributed Data in PostgreSQL</li>
+<li>Database Authentication and Encryption Methods</li>
+<li>Indexing and Partitioning in PostgreSQL</li>
+<li>Performance Tuning </li>
+</ul>
+<p>Talk slots are 20 minutes long or 40 minutes. Please tell us the proposed length of your session at the time of submission. </p>
+<h2>Registration</h2>
+<p>The PGDay is part of the FOSSASIA Summit. Registration for the FOSSASIA Summit will give you access to PGDay as well. For more information and updates, please visit <a href="https://summit.fossasia.org/">summit.fossasia.org/pgday</a> </p>
+<h2>Sponsorship &amp; Contact</h2>
+<p>Our call for sponsors is also open. Details on the <a href="https://summit.fossasia.org/pgday">PGDay website</a>! Please contact us at office@fossasia.org to discuss opportunities.</p>
+<p>See you at FOSSASIA PGDay in Vietnam!</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/fossasia-pgday-2024-takes-place-in-hanoi-vietnam-on-april-9-2788/">https://www.postgresql.org/about/news/fossasia-pgday-2024-takes-place-in-hanoi-vietnam-on-april-9-2788/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/fossasia-pgday-2024-takes-place-in-hanoi-vietnam-on-april-9-2788/">Save to Pocket</a>
+</span>
+
+---
+
+## Nordic PGDay 2024 - Schedule announced and open for registration
+
+date: 2024-01-17, from: PostgreSQL News
+
+<p>Nordic PGDay 2024 will be held in Oslo, Norway, on Tuesday, March 21, 2024 at the
+at the Radisson Blu Scandinavia Hotel. It features a full day with a track of PostgreSQL
+presentations from both Nordic and global PostgreSQL experts. It will cover a wide
+range of topics of interest. Alongside the main track it will include a sponsor track with
+presentations showcasing innovative products and services from our partners.</p>
+<p>The schedule is now <a href="https://www.postgresql.eu/events/nordicpgday2024/schedule/">published</a>
+and registration has now <a href="https://2024.nordicpgday.org/registration/">opened</a>. Seats are
+limited so we recommend that you register early if you are interested! There are 30 Early
+bird discounted tickets available until the 21st of February 2024; grab yours before they
+run out or the campaign ends.</p>
+<p>Nordic PGDay is proud to be a PostgreSQL Community Recognised Conference.</p>
+<p>We look forward to seeing you in Oslo!</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/nordic-pgday-2024-schedule-announced-and-open-for-registration-2789/">https://www.postgresql.org/about/news/nordic-pgday-2024-schedule-announced-and-open-for-registration-2789/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/nordic-pgday-2024-schedule-announced-and-open-for-registration-2789/">Save to Pocket</a>
+</span>
+
+---
+
+## Expedition 69 Crew, Three NASA Astronauts to Share Mission Highlights
+
+date: 2024-01-16, from: NASA breaking news
+
+Jan. 16, 2024 RELEASE: 24-001 Four astronauts, including the current record holder for the longest single U.S. stay in space aboard the International Space Station, will make their first public appearance in Houston since returning to Earth. The crew also will be available for interviews before the event at 5 p.m. CST Thursday, Jan. 18, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/expedition-69-crew-three-nasa-astronauts-to-share-mission-highlights/">https://www.nasa.gov/news-release/expedition-69-crew-three-nasa-astronauts-to-share-mission-highlights/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/expedition-69-crew-three-nasa-astronauts-to-share-mission-highlights/">Save to Pocket</a>
+</span>
+
+---
+
+##  What If The Bear, But a Commercial for Coke? 
+
+date: 2024-01-16, updated: 2024-01-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/what-if-the-bear-but-a-commercial-for-coke">https://kottke.org/24/01/what-if-the-bear-but-a-commercial-for-coke</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/what-if-the-bear-but-a-commercial-for-coke">Save to Pocket</a>
+</span>
+
+---
+
+## Bluesky Adds RSS
+
+date: 2024-01-16, from: Michael Tsai
+
+Open RSS (via Hacker News): The link to a user&#8217;s RSS feed is quite lengthy, making it not so easy to remember, and you can&#8217;t really tell which user&#8217;s profile an RSS feed is for just by looking at it.[&#8230;]So if a user has their posts set to be visible only to logged-in users, you [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/16/bluesky-adds-rss/">https://mjtsai.com/blog/2024/01/16/bluesky-adds-rss/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/16/bluesky-adds-rss/">Save to Pocket</a>
+</span>
+
+---
+
+## Resolving Trusted Execution Problems
+
+date: 2024-01-16, from: Michael Tsai
+
+Quinn: If you&#8217;re developing software for macOS your goal is to avoid trusted execution entanglements. You want users to install and use your product without taking any special steps. If, for example, you ship an app that&#8217;s blocked by Gatekeeper, you&#8217;re likely to lose a lot of customers, and your users&#8217; hard-won trust.[&#8230;]If you launch [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/16/resolving-trusted-execution-problems/">https://mjtsai.com/blog/2024/01/16/resolving-trusted-execution-problems/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/16/resolving-trusted-execution-problems/">Save to Pocket</a>
+</span>
+
+---
+
+##  Carl Zimmer: Why are some mushrooms &#8220;magic&#8221;? &#8220;I like to imagine them... 
+
+date: 2024-01-16, updated: 2024-01-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043787-carl-zimmer-why-are-some">https://kottke.org/24/01/0043787-carl-zimmer-why-are-some</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043787-carl-zimmer-why-are-some">Save to Pocket</a>
+</span>
+
+---
+
+## NASA, DOD Seek Universities to Develop CubeSats for Launch
+
+date: 2024-01-16, from: NASA breaking news
+
+NASA is collaborating with the U.S. Air Force and U.S. Space Force to offer a set of hands-on learning engagements that will help higher education institutions, faculty, and students learn more about what it takes to build small satellites and be selected for flight opportunities.&#160; Teams selected for the University Nanosatellite Program Mission Concepts 2024 [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/directorates/somd/launch-services-office/lsp/nasa-dod-seek-universities-to-develop-cubesats-for-launch-2/">https://www.nasa.gov/directorates/somd/launch-services-office/lsp/nasa-dod-seek-universities-to-develop-cubesats-for-launch-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/directorates/somd/launch-services-office/lsp/nasa-dod-seek-universities-to-develop-cubesats-for-launch-2/">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;When We Return You Won&#8217;t Recognise Us&#8221; 
+
+date: 2024-01-16, updated: 2024-01-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/when-we-return-you-wont-recognise-us">https://kottke.org/24/01/when-we-return-you-wont-recognise-us</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/when-we-return-you-wont-recognise-us">Save to Pocket</a>
+</span>
+
+---
+
+## WobblyBox, a web component for wobbly boxes
+
+date: 2024-01-16, from: Dave Rupert blog
+
+<p>For years the latest articles list on my homepage had a neat little CSS trick where each post had wobbly “rough boxes” around them. To create the effect I used a script from <a href="http://css-houdini.rocks">css-houdini.rocks</a> aptly named <a href="https://css-houdini.rocks/rough-boxes/">Rough Boxes</a>. One minor problem, CSS Houdini paintlets aren’t – <em>and probably never will be</em> – cross-browser. <a href="https://web.archive.org/web/20230326062701/http://dowebsitesneedtolookexactlythesameineverybrowser.com/">Do websites have to look the same in every browser? No.</a> But after half a decade of not seeing those wobbly boxes on iOS, I decided to abandon Houdini and draw my own quirky boxes… so I made a web component that you can use today called <code>&lt;wobbly-box&gt;</code>!</p>
+<p><a class="button" href="https://github.com/davatron5000/wobbly-box">View on GitHub</a></p>
+<h2>Introducing WobblyBox</h2>
+<p>WobblyBox is a web component for drawing wobbly boxes around your content. Copy or <a href="https://www.npmjs.com/package/wobbly-box">install</a> the file into your project then wrap any element you want WobblyBox around with the <code>&lt;wobbly-box&gt;</code> Custom Element.</p>
+<wobbly-box>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="html"><span class="nt">&lt;script </span><span class="na">type=</span><span class="s">"module"</span> <span class="na">src=</span><span class="s">"wobbly-box.js"</span><span class="nt">&gt;&lt;/script&gt;</span>
+<span class="nt">&lt;wobbly-box&gt;</span>
+	Any content goes here
+<span class="nt">&lt;/wobbly-box&gt;</span>
+</code></pre></div></div>
+</wobbly-box>
+<h2>Making a WobblyBox with SVG and Border-Image</h2>
+<p>I wanted something as simple as the Houdini script so I started looking at porting the <code>&lt;canvas&gt;</code>-based paintlet script but couldn’t get over the feeling that SVG might be the best fit.</p>
+<p>Inside every SVG path there are some little commands in the path string. Some you may already know like <code>M</code> is for “move”, <code>Z</code> is for “terminate”, <code>L</code> is for “line”. One I didn’t know about was <code>Q</code> which creates a point on the path and bends the path towards that point in a bit of an arc.</p>
+<p><code>Q</code> was a major unlocking for the effect because drawing a box in SVG is relatively easy. Here’s a 100x100 box inset 5px from the edge to account for wobble.</p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="html"><span class="nt">&lt;path</span> <span class="na">d=</span><span class="s">"M5,5 95,5 95,95 5,95 5,5Z"</span> <span class="nt">/&gt;</span>
+</code></pre></div></div>
+<p>The next step was adding in <code>Q</code> points on the path in between the points that make my box wobble…</p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="html"><span class="nt">&lt;path</span> <span class="na">d=</span><span class="s">"M5,5 Q50,0 95,5 Q100,50 95,95 Q50,100 5,95 Q0,50 5,5Z"</span> <span class="nt">/&gt;</span>
+</code></pre></div></div>
+<p>I wanted a bit of randomization in the borders, just like the original so I used JavaScript to generate random <code>Q</code> values within a few pixels positive or negative. I made some artistic choices to make it not completely random and have the top and bottom sides have the same bend while the inline sides of the box mirror each other.</p>
+<p>The final step was to get this box I made to surround the content. I had an <em>image</em> that I wanted to use as a <em>border</em>… so I thought the not-often-used <code>border-image</code> property might be appropriate.</p>
+<wobbly-box>
+<p><a href="https://www.smashingmagazine.com/2024/01/css-border-image-property/"><code>border-image</code> is a complex but awesome property</a>. To be honest, I avoid <code>border-image</code> in my day-to-day because of its complexity, but it seemed well-suited here. It creates a 9-slice border box around an element. With a single image and some magic numbers you the images crops and repeats the image appropriately to surround the element. Back in the wild west days of the internet this was a popular technique but required a lot of extra divs. I think <code>border-radius</code> and the death of skeuomorphism ultimately depopularized the technique.</p>
+</wobbly-box>
+<p>Then I wrapped it all up in a web component because that seemed like the easiest delivery vehicle. I’m happy with the final effect and it’s close to what I had before except that it avoids redrawing the entire border on resize, so that’s a plus.</p>
+<h2>Not a big roadmap</h2>
+<p>I could have – maybe should have – used a pre-existing solution like <a href="https://wiredjs.com/">WiredJS components</a>. I like how WiredJS looks, especially for rough prototyping, but it’s probably overkill for my little boxes. I like how simple <code>&lt;wobbly-box&gt;</code> is; more cartoony and a lot more dumb.</p>
+<p>If I were to make some improvements, there’s three big ticket items I’m considering…</p>
+<ol>
+<li>It’d be cool to control <code>--wobble</code>, <code>--thickness</code>, as well as <code>--border-color</code></li>
+<li>Get rid of magic numbers</li>
+<li>Sometimes there’s a little “tuck” in the corners due to how CSS’s 9-slice borders works, I’ve tried to nudge those but it’s imperfect. It’s kind of cute, so potentially worth keeping.</li>
+</ol>
+<p>But those improvements are not for today! I just needed this to work on Safari and Firefox.</p>
+<script type="module" src="https://esm.sh/wobbly-box"></script>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/01/wobblybox/">https://daverupert.com/2024/01/wobblybox/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/01/wobblybox/">Save to Pocket</a>
+</span>
+
+---
+
+## If a human does it
+
+date: 2024-01-16, from: Manu - I write blog
+
+<p>Let’s just state the obvious here: AIs are not human. Should be obvious but apparently it’s not. I say it’s not because the amount of people who justify all sorts of shitty behavior coming from people working on AI models is astounding.</p>
+<p>And the reasoning it’s always the same: it’s ok for an AI model to do X because if a human were to also do X the results would be the same. Which is a completely idiotic way of reasoning. And it’s idiotic for a few reasons.</p>
+<p>First, if a human were to spend their time learning how to draw and paint in the style of 4000 different artists you’d be dead before getting halfway through that list. The same is true for any other stupid example.</p>
+<p>And second, if a human were to do that we’d all condemn it pretty quickly because it goes against everything we find valuable. When a big company rips off a smaller artist everyone yells and screams. But now that AIs are doing the same that’s fine because they’re clearly not ripping off anyone, they’re just taking inspiration, like humans would do.</p>
+<p>Except that if fucking Disney were to “just take inspiration” and steal designs from smaller artists we’d all be enraged, and for good reasons.</p>
+<p>So please, cut the bullshit. Train your goddamn AI on whatever you want, <a href="https://nitter.net/JonLamArt/status/1741545927435784424" rel="noreferrer" target="_blank">steal all the content</a>, but at least be honest and feel some shame.</p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/Varus2rDlaigFrwE">https://manuelmoreale.com/@/page/Varus2rDlaigFrwE</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/Varus2rDlaigFrwE">Save to Pocket</a>
+</span>
+
+---
+
+##  Cat and Girl comic: &#8220;On being listed on the court document of... 
+
+date: 2024-01-16, updated: 2024-01-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043789-cat-and-girl-on-being">https://kottke.org/24/01/0043789-cat-and-girl-on-being</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043789-cat-and-girl-on-being">Save to Pocket</a>
+</span>
+
+---
+
+## NASA X-59 Unveiled During Rollout Ceremony
+
+date: 2024-01-16, from: NASA breaking news
+
+A climactic curtain drop reveals the newly painted red, white, and blue X-59 aircraft during its rollout ceremony on Jan. 12, 2024, at Lockheed Martin Skunk Works in Palmdale, California &#8211; a major milestone before its first flight. A long-standing aviation tradition, rollout ceremonies celebrate years of technical achievements. In the case of the X-59, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasa-x-59-unveiled-during-rollout-ceremony/">https://www.nasa.gov/image-article/nasa-x-59-unveiled-during-rollout-ceremony/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasa-x-59-unveiled-during-rollout-ceremony/">Save to Pocket</a>
+</span>
+
+---
+
+## The Baltimore Sun explores the question of whether there can be a worse newspaper owner than Alden Global Capital
+
+date: 2024-01-16, from: Nieman Journalism Lab
+
+It&#8217;s a question only the bravest have dared contemplate: Is there something worse for a newspaper than being owned by Alden Global Capital? The vulturous hedge fund has, after all, been traditionally seen as an end-stage owner. In the old days, newspaper owners existed in an ersatz great chain of being. Family-owned papers worried about...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/the-baltimore-sun-explores-the-question-of-whether-there-can-be-a-worse-newspaper-owner-than-alden-global-capital/">https://www.niemanlab.org/2024/01/the-baltimore-sun-explores-the-question-of-whether-there-can-be-a-worse-newspaper-owner-than-alden-global-capital/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/the-baltimore-sun-explores-the-question-of-whether-there-can-be-a-worse-newspaper-owner-than-alden-global-capital/">Save to Pocket</a>
+</span>
+
+---
+
+##  Photo series from In Focus: Lava Flows Into an Icelandic Town. There... 
+
+date: 2024-01-16, updated: 2024-01-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043790-photo-series-from-in-focu">https://kottke.org/24/01/0043790-photo-series-from-in-focu</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043790-photo-series-from-in-focu">Save to Pocket</a>
+</span>
+
+---
+
+## Science Launches to Space Station on NASA’s 20th Northrop Grumman Mission
+
+date: 2024-01-16, from: NASA breaking news
+
+Tests of a 3D metal printer, semiconductor manufacturing, and thermal protection systems for reentry to Earth’s atmosphere are among the scientific investigation that NASA and international partners are launching to the International Space Station on Northrop Grumman’s 20th commercial resupply services mission. The company’s Cygnus cargo spacecraft is scheduled to launch on a SpaceX Falcon [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/station/iss-research/nasa-science-launches-to-space-station-20th-northrop-grumman-mission/">https://www.nasa.gov/missions/station/iss-research/nasa-science-launches-to-space-station-20th-northrop-grumman-mission/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/station/iss-research/nasa-science-launches-to-space-station-20th-northrop-grumman-mission/">Save to Pocket</a>
+</span>
+
+---
+
+## a shape of black: adoption as theft, ancestry as freedom
+
+date: 2024-01-16, from: Care
+
+
+                <p>matthew reflects on his own experience of severance from his family into the home of evangelical Christians in an alleged sundown town. This non-fiction horror/memoir draws on the Black radical tradition to uneasily suture the fragments of his life, where possible.</p>
+
+            
+
+<span class="feed-item-link">
+<a href="https://logicmag.io/policy/a-shape-of-black">https://logicmag.io/policy/a-shape-of-black</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/policy/a-shape-of-black">Save to Pocket</a>
+</span>
+
+---
+
+##  The Trailer for Adam Sandler&#8217;s Spaceman 
+
+date: 2024-01-16, updated: 2024-01-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/the-trailer-for-adam-sandlers-spaceman">https://kottke.org/24/01/the-trailer-for-adam-sandlers-spaceman</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/the-trailer-for-adam-sandlers-spaceman">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-16, from: Dave Winer's Scripting News)
+
+I imagine <a href="https://www.threads.net/@davew/post/C2K6xlTpa3q">ChatGPT must have</a> an interface that allows me to send it a bit of text via an API, and get back the same response I'd get if I were typing it into their web page. I am a paying user, I don't want to do any more than I'm currently doing with it. I just want to be able to keep an archive of everything I do, in a format that's more useful to me.  (Update: They do have a simple API, <a href="https://platform.openai.com/docs/api-reference/introduction">documented here</a>.)
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/16.html#a180357">http://scripting.com/2024/01/16.html#a180357</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/16.html#a180357">Save to Pocket</a>
+</span>
+
+---
+
+##  Watch the Synchronized Dance of a 6-Planet System. A star has been... 
+
+date: 2024-01-16, updated: 2024-01-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043784-watch-the-synchronized-da">https://kottke.org/24/01/0043784-watch-the-synchronized-da</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043784-watch-the-synchronized-da">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Administrator Names New Head of Space Technology
+
+date: 2024-01-16, from: NASA breaking news
+
+Dr. Kurt “Spuds” Vogel will serve as the new associate administrator of the Space Technology Mission Directorate (STMD) at the agency’s headquarters in Washington, NASA Administrator Bill Nelson announced Tuesday. His appointment is effective immediately. Vogel succeeds James Reuter, who retired from the agency in June 2023. Dr. Prasun Desai has served as the acting [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-administrator-names-new-head-of-space-technology/">https://www.nasa.gov/news-release/nasa-administrator-names-new-head-of-space-technology/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-administrator-names-new-head-of-space-technology/">Save to Pocket</a>
+</span>
+
+---
+
+##  AI can do your homework. Now what? &#8220;This presents a major challenge... 
+
+date: 2024-01-16, updated: 2024-01-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043783-ai-can-do-your-homework">https://kottke.org/24/01/0043783-ai-can-do-your-homework</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043783-ai-can-do-your-homework">Save to Pocket</a>
+</span>
 
 ---
 
@@ -163,6 +893,18 @@ date: 2024-01-16, updated: 2024-01-16, from: Jason Kottke blog
 
 ---
 
+## Build Your Own Cloud IDE with the Subhosting API
+
+date: 2024-01-16, updated: 2024-01-16, from: Deno blog
+
+This tutorial will show you how to build a simple cloud IDE using the Deno Subhosting API.
+
+<span class="feed-item-link">
+<a href="https://deno.com/blog/build-cloud-ide-subhosting">https://deno.com/blog/build-cloud-ide-subhosting</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://deno.com/blog/build-cloud-ide-subhosting">Save to Pocket</a>
+</span>
+
+---
+
 ## skyjake/lagrange - Release v1.17.6
 
 date: 2024-01-16, from: Tilde.news
@@ -274,6 +1016,18 @@ date: 2024-01-16, updated: 2024-01-16, from: Liam Proven's articles at the Regis
 
 ---
 
+## "Stray Pointers" interview
+
+date: 2024-01-16, from: Ben Hoyt's Tech Writing
+
+Not technical writing, but Jim Lawless interviewed me on his "Stray Pointers" podcast. We discuss Forth, C, CGI, Python, Go, and AWK.
+
+<span class="feed-item-link">
+<a href="https://sites.libsyn.com/481983/discussing-programming-languages-with-ben-hoyt">https://sites.libsyn.com/481983/discussing-programming-languages-with-ben-hoyt</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sites.libsyn.com/481983/discussing-programming-languages-with-ben-hoyt">Save to Pocket</a>
+</span>
+
+---
+
 ## Understanding the Raspberry Pi Pico’s Memory Layout
 
 date: 2024-01-16, from: Peter Warden
@@ -318,6 +1072,18 @@ As a platform, we strive to help developers responsibly build new businesses and
 
 <span class="feed-item-link">
 <a href="https://www.osnews.com/story/138331/google-shamelessly-tries-to-rebrand-gambling-as-real-money-gaming/">https://www.osnews.com/story/138331/google-shamelessly-tries-to-rebrand-gambling-as-real-money-gaming/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138331/google-shamelessly-tries-to-rebrand-gambling-as-real-money-gaming/">Save to Pocket</a>
+</span>
+
+---
+
+## Bluesky 2023 Moderation Report
+
+date: 2024-01-16, from: Bluesky web news
+
+We have hired and trained a full-time team of moderators, launched and iterated on several community and individual moderation features, developed and refined policies both public and internal, designed and redesigned product features to reduce abuse, and built several infrastructure components from scratch to support our Trust and Safety work.
+
+<span class="feed-item-link">
+<a href="https://blueskyweb.xyz/blog/01-16-2024-moderation-2023">https://blueskyweb.xyz/blog/01-16-2024-moderation-2023</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blueskyweb.xyz/blog/01-16-2024-moderation-2023">Save to Pocket</a>
 </span>
 
 ---

@@ -1,11 +1,335 @@
 ---
 title: pacific 2024.03
-updated: 2024-01-16 09:06:18
+updated: 2024-01-17 08:55:22
 ---
 
 # pacific 2024.03
 
-(date: 2024-01-16 09:06:18)
+(date: 2024-01-17 08:55:22)
+
+---
+
+## OPINION ǀ Truth 35: Post MLK Day Reality — BUT ‘We Shall Overcome’
+
+date: 2024-01-17, updated: 2024-01-17, from: Marianas Variety
+
+FIRST, I failed to mention and thank KFC for their awesome one-day MLK Day sale and Bank Pacifica for the awesome adds over the internet for Dr. King, as they even remembered it was his birthday which doesn’t always fall on MLK Day which is the third Monday.  But the TRUTH and REALITY is there are still some difficult days ahead on the mainland with voting rights and equity in the CNMI which is part of the “Promise-land” that Dr. King’s dreamed about for America. I say this because “equality” still does NOT exist in the CNMI for all, which is why the days ahead are going to be challenging, especially for those who are “self-centered” in our society. But I blame previous leaders for creating this environment of bigotry-racism laws and it’s going to take a local person to lead the change in the CNMI towards equality for all, as I’ve only been seen as the enemy by too many merely because I’m considered an outsider. But I have to laugh to keep from crying, as my MaDear would say, to see and know that a Chinese baby adopted by a local has more RIGHTS than I or any American from the mainland do as a fellow American citizen with all the local people in the AMERICAN Family. Even the very law that “segregates Americans in Rights” is flawed with a blood requirement for RIGHTS that won’t be sufficient in 20 years.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/views/columnists/opinion-truth-35-post-mlk-day-reality-but-we-shall-overcome/article_ca4a9340-b4fe-11ee-8cc9-63e7e550f0b8.html">https://www.mvariety.com/views/columnists/opinion-truth-35-post-mlk-day-reality-but-we-shall-overcome/article_ca4a9340-b4fe-11ee-8cc9-63e7e550f0b8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/views/columnists/opinion-truth-35-post-mlk-day-reality-but-we-shall-overcome/article_ca4a9340-b4fe-11ee-8cc9-63e7e550f0b8.html">Save to Pocket</a>
+</span>
+
+---
+
+## Dear CPA Chairman Joe Ayuyu
+
+date: 2024-01-17, updated: 2024-01-17, from: Marianas Variety
+
+IT has come to the Tinian leadership's attention that the Tinian airport name is listed as a discussion item on your next Commonwealth Ports Authority meeting on Friday, Jan. 19, 2024.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/views/letters_to_editor/dear-cpa-chairman-joe-ayuyu/article_de1cac1a-b4fd-11ee-8b95-4fd44c07570b.html">https://www.mvariety.com/views/letters_to_editor/dear-cpa-chairman-joe-ayuyu/article_de1cac1a-b4fd-11ee-8b95-4fd44c07570b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/views/letters_to_editor/dear-cpa-chairman-joe-ayuyu/article_de1cac1a-b4fd-11ee-8b95-4fd44c07570b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Learn content monetization and film funding strategies with CNMI SBDC
+
+date: 2024-01-17, updated: 2024-01-17, from: Marianas Variety
+
+(NMC) — The CNMI Small Business Development Center Network at Northern Marianas College is thrilled to announce a two-day workshop featuring the multifaceted entrepreneur, business advisor, filmmaker, and community organizer from Guam, Myracle Mugol. The event is set to take place at the American Memorial Park amphitheater in Garapan, Saipan, on Wednesday, Jan. 24, 2024, and Thursday, Jan. 25, 2024.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/business_news/learn-content-monetization-and-film-funding-strategies-with-cnmi-sbdc/article_30c2d75c-b50b-11ee-8c75-6b42f969be73.html">https://www.mvariety.com/business/business_news/learn-content-monetization-and-film-funding-strategies-with-cnmi-sbdc/article_30c2d75c-b50b-11ee-8c75-6b42f969be73.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/business_news/learn-content-monetization-and-film-funding-strategies-with-cnmi-sbdc/article_30c2d75c-b50b-11ee-8c75-6b42f969be73.html">Save to Pocket</a>
+</span>
+
+---
+
+## New IT&E CEO meets with CNMI team
+
+date: 2024-01-17, updated: 2024-01-17, from: Marianas Variety
+
+The new chief executive officer of IT&amp;E David Gibson, center, standing, met Wednesday with the IT&amp;E-CNMI team led by Executive Director Velma Ann Palacios and Janice Marie Ada Tenorio, the senior manager for government/community relations and CNMI customer service. Also in photo are the other senior IT&amp;E CNMI managers. Gibson, who assumed his new role early this month, has over 25 years of telecom experience and is recognized as an "experienced growth driver, broadband enablement enthusiast and customer champion." He is scheduled to meet with various CNMI government officials as well as business and community leaders.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/new-it-e-ceo-meets-with-cnmi-team/article_aa8153e4-b546-11ee-bc77-4740ae0c6ee0.html">https://www.mvariety.com/news/local/new-it-e-ceo-meets-with-cnmi-team/article_aa8153e4-b546-11ee-bc77-4740ae0c6ee0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/new-it-e-ceo-meets-with-cnmi-team/article_aa8153e4-b546-11ee-bc77-4740ae0c6ee0.html">Save to Pocket</a>
+</span>
+
+---
+
+## NBA roundup: Suns rally late, stun Kings; 76ers bets Nuggets
+
+date: 2024-01-17, updated: 2024-01-17, from: Marianas Variety
+
+(Reuters) — Kevin Durant hit two free throws with 1.8 seconds remaining as the Phoenix Suns concluded the game with a 32-8 surge and beat the visiting Sacramento Kings 119-117 on Tuesday night.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/nba-roundup-suns-rally-late-stun-kings-76ers-bets-nuggets/article_edc5f362-b546-11ee-98d1-abea88c8ba85.html">https://www.mvariety.com/sports/nationalsports/nba-roundup-suns-rally-late-stun-kings-76ers-bets-nuggets/article_edc5f362-b546-11ee-98d1-abea88c8ba85.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/nba-roundup-suns-rally-late-stun-kings-76ers-bets-nuggets/article_edc5f362-b546-11ee-98d1-abea88c8ba85.html">Save to Pocket</a>
+</span>
+
+---
+
+## Louis Vuitton opens Paris Fashion Week with Pharrell Williams' styles from American West
+
+date: 2024-01-17, updated: 2024-01-17, from: Marianas Variety
+
+PARIS (Reuters) — Pharrell Williams kicked off Paris Fashion Week with Louis Vuitton's spring menswear show on Tuesday night, lining the catwalk with sharp, elaborately embellished American West outfits.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/louis-vuitton-opens-paris-fashion-week-with-pharrell-williams-styles-from-american-west/article_7dbb82c4-b548-11ee-b74f-bf99e7414668.html">https://www.mvariety.com/lifestyle/louis-vuitton-opens-paris-fashion-week-with-pharrell-williams-styles-from-american-west/article_7dbb82c4-b548-11ee-b74f-bf99e7414668.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/louis-vuitton-opens-paris-fashion-week-with-pharrell-williams-styles-from-american-west/article_7dbb82c4-b548-11ee-b74f-bf99e7414668.html">Save to Pocket</a>
+</span>
+
+---
+
+## OPINION ǀ An alarming and disturbing public policy
+
+date: 2024-01-17, updated: 2024-01-17, from: Marianas Variety
+
+The following is the text of the testimony provided by the author to the CNMI Senate.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/views/columnists/opinion-an-alarming-and-disturbing-public-policy/article_adac7b9e-b504-11ee-bc69-f323f03e3ffa.html">https://www.mvariety.com/views/columnists/opinion-an-alarming-and-disturbing-public-policy/article_adac7b9e-b504-11ee-bc69-f323f03e3ffa.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/views/columnists/opinion-an-alarming-and-disturbing-public-policy/article_adac7b9e-b504-11ee-bc69-f323f03e3ffa.html">Save to Pocket</a>
+</span>
+
+---
+
+## PSS addresses MHS incident
+
+date: 2024-01-17, updated: 2024-01-17, from: Marianas Variety
+
+IN the spirit of transparency and community engagement, the Public School System announces the resignation of a former Marianas High School teacher, effective Friday, Jan. 12, 2024.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/pss-addresses-mhs-incident/article_25119b2e-b546-11ee-aa66-17baa58675b1.html">https://www.mvariety.com/news/local/pss-addresses-mhs-incident/article_25119b2e-b546-11ee-aa66-17baa58675b1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/pss-addresses-mhs-incident/article_25119b2e-b546-11ee-aa66-17baa58675b1.html">Save to Pocket</a>
+</span>
+
+---
+
+## Hess, Taflinger overall champions of 2nd Annual Run Saipan Trinity
+
+date: 2024-01-17, updated: 2024-01-17, from: Marianas Variety
+
+MARTIN Hess and Addalee Taflinger topped all three events of the 2nd Annual Run Saipan Trinity and were named overall champions of their respective divisions.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/hess-taflinger-overall-champions-of-2nd-annual-run-saipan-trinity/article_890e0c88-b51f-11ee-997f-93bed763dd18.html">https://www.mvariety.com/sports/localsports/hess-taflinger-overall-champions-of-2nd-annual-run-saipan-trinity/article_890e0c88-b51f-11ee-997f-93bed763dd18.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/hess-taflinger-overall-champions-of-2nd-annual-run-saipan-trinity/article_890e0c88-b51f-11ee-997f-93bed763dd18.html">Save to Pocket</a>
+</span>
+
+---
+
+## Tanapag bags softball title via walk-off
+
+date: 2024-01-17, updated: 2024-01-17, from: Marianas Variety
+
+TANAPAG Middle School won the boys middle school division title by outlasting Hopwood Middle School, 5-4, in the finale of the SBL-PSS Interscholastic Softball League SY23-24 at the Capital Hill baseball field on Saturday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/tanapag-bags-softball-title-via-walk-off/article_d55b893a-b51f-11ee-87f7-37ffb7fc50aa.html">https://www.mvariety.com/sports/localsports/tanapag-bags-softball-title-via-walk-off/article_d55b893a-b51f-11ee-87f7-37ffb7fc50aa.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/tanapag-bags-softball-title-via-walk-off/article_d55b893a-b51f-11ee-87f7-37ffb7fc50aa.html">Save to Pocket</a>
+</span>
+
+---
+
+## De Saint-Exupéry's 'The Little Prince' translated in CHamoru 
+
+date: 2024-01-17, from: Pacific Island Times
+
+By Pacific Island Times News Staff "The Little Prince," a classic children's book by Antoine de Saint-Exupéry, has been translated into...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/de-saint-exup%C3%A9ry-s-the-little-prince-translated-in-chamoru">https://www.pacificislandtimes.com/post/de-saint-exup%C3%A9ry-s-the-little-prince-translated-in-chamoru</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/de-saint-exup%C3%A9ry-s-the-little-prince-translated-in-chamoru">Save to Pocket</a>
+</span>
+
+---
+
+## Opportunities remain elusive for job seekers with criminal records
+
+date: 2024-01-17, from: Pacific Island Times
+
+GDOL says nearly half of Guam employers are still non-compliant with Fair Chances Hiring Practice Act By Pacific Island Times News Staff...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/opportunities-remain-elusive-for-job-seekers-with-criminal-records">https://www.pacificislandtimes.com/post/opportunities-remain-elusive-for-job-seekers-with-criminal-records</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/opportunities-remain-elusive-for-job-seekers-with-criminal-records">Save to Pocket</a>
+</span>
+
+---
+
+## Morrico launches heavy equipment financing and lease program
+
+date: 2024-01-17, from: Pacific Island Times
+
+By Pacific Island Times News Staff Contractors now have greater access to equipment and vehicles to complete any project through Morrico...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/morrico-launches-heavy-equipment-financing-and-lease-program">https://www.pacificislandtimes.com/post/morrico-launches-heavy-equipment-financing-and-lease-program</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/morrico-launches-heavy-equipment-financing-and-lease-program">Save to Pocket</a>
+</span>
+
+---
+
+## UOG Press and Proa Publications launch second title Finu’ Chamorro 
+
+date: 2024-01-17, from: Pacific Island Times
+
+By Pacific Island Times News Staff The University of Guam Press is launching Finu’ Chamorro for Beginners by Dr. Faye Untalan under its...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/uog-press-and-proa-publications-launch-second-title-finu-chamorro">https://www.pacificislandtimes.com/post/uog-press-and-proa-publications-launch-second-title-finu-chamorro</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/uog-press-and-proa-publications-launch-second-title-finu-chamorro">Save to Pocket</a>
+</span>
+
+---
+
+##  'Why prioritize magazine racks and frames over health facility restoration?'
+
+date: 2024-01-17, from: Pacific Island Times
+
+Senator questions administration's spending policy By Pacific Island Times News Staff Sen. Telo T. Taitague is questioning the...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/why-prioritize-magazine-racks-and-frames-over-health-facility-restoration">https://www.pacificislandtimes.com/post/why-prioritize-magazine-racks-and-frames-over-health-facility-restoration</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/why-prioritize-magazine-racks-and-frames-over-health-facility-restoration">Save to Pocket</a>
+</span>
+
+---
+
+## Double shot of excitement: 2nd Starbucks opening at UH Mānoa
+
+date: 2024-01-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Soft opening hours are set to commence on January 17.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/16/starbucks-opens-at-gateway-cafe/">Double shot of excitement: 2nd Starbucks opening at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/16/starbucks-opens-at-gateway-cafe/">https://www.hawaii.edu/news/2024/01/16/starbucks-opens-at-gateway-cafe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/16/starbucks-opens-at-gateway-cafe/">Save to Pocket</a>
+</span>
+
+---
+
+## UH signs space sciences initiative with missile defense advocacy group
+
+date: 2024-01-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>UH</abbr> and the Missile Defense Advocacy Alliance have entered into a Memorandum of Understanding to facilitate cooperation in the field of space sciences.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/16/space-science-initiative-mou/"><abbr>UH</abbr> signs space sciences initiative with missile defense advocacy group</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/16/space-science-initiative-mou/">https://www.hawaii.edu/news/2024/01/16/space-science-initiative-mou/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/16/space-science-initiative-mou/">Save to Pocket</a>
+</span>
+
+---
+
+## Hawaiian Word of the Week: Lōkahi
+
+date: 2024-01-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Lōkahi&#8212;Unity, agreement, accord, unison, harmony.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/16/hawaiian-word-of-the-week-lokahi/">Hawaiian Word of the Week: Lōkahi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/16/hawaiian-word-of-the-week-lokahi/">https://www.hawaii.edu/news/2024/01/16/hawaiian-word-of-the-week-lokahi/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/16/hawaiian-word-of-the-week-lokahi/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Mānoa advances racial healing at 2nd annual event, free workshops
+
+date: 2024-01-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> The summit is aimed at promoting racial healing and reflection.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/16/uh-manoa-racial-healing-event/"><abbr>UH</abbr> Mānoa advances racial healing at 2nd annual event, free workshops</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/16/uh-manoa-racial-healing-event/">https://www.hawaii.edu/news/2024/01/16/uh-manoa-racial-healing-event/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/16/uh-manoa-racial-healing-event/">Save to Pocket</a>
+</span>
+
+---
+
+## 23 student-athletes recognized for academic honors
+
+date: 2024-01-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> 23 student-athletes from cross country, soccer and women’s volleyball selected for All-Academic team.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/16/23-student-athletes-manoa-academic/">23 student-athletes recognized for academic honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/16/23-student-athletes-manoa-academic/">https://www.hawaii.edu/news/2024/01/16/23-student-athletes-manoa-academic/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/16/23-student-athletes-manoa-academic/">Save to Pocket</a>
+</span>
+
+---
+
+## UHERO: UH degrees affordable, significant return on investment
+
+date: 2024-01-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>UHERO</abbr> researchers found that lifetime earnings are $2.8 million for bachelor’s degree holders, 27&#37; higher compared to those who left the program without a degree.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/16/uhero-returns-to-higher-ed-report/"><abbr>UHERO</abbr>: <abbr>UH</abbr> degrees affordable, significant return on investment</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/16/uhero-returns-to-higher-ed-report/">https://www.hawaii.edu/news/2024/01/16/uhero-returns-to-higher-ed-report/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/16/uhero-returns-to-higher-ed-report/">Save to Pocket</a>
+</span>
+
+---
+
+## Improving hypertension diagnosis with innovative tech, collaboration
+
+date: 2024-01-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>UH</abbr> researchers and partners collaborate to use information technology to improve the diagnosis and management of hypertension.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/16/chronic-conditions-diagnosis-study/">Improving hypertension diagnosis with innovative tech, collaboration</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/16/chronic-conditions-diagnosis-study/">https://www.hawaii.edu/news/2024/01/16/chronic-conditions-diagnosis-study/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/16/chronic-conditions-diagnosis-study/">Save to Pocket</a>
+</span>
+
+---
+
+## UH olympians inducted in volleyball hall of fame
+
+date: 2024-01-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Ah Mow and Bown, three-time olympic players to be inducted at the 2024 <abbr>USA</abbr> Volleyball Open National Championship.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/16/uh-olympians-volleyball-induction/"><abbr>UH</abbr> olympians inducted in volleyball hall of fame</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/16/uh-olympians-volleyball-induction/">https://www.hawaii.edu/news/2024/01/16/uh-olympians-volleyball-induction/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/16/uh-olympians-volleyball-induction/">Save to Pocket</a>
+</span>
+
+---
+
+## Selling, Surkovic sweep MPSF swimming honors
+
+date: 2024-01-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> <abbr>UH</abbr> swimming team will compete in the <abbr>MPSF</abbr> Swimming Championships from February 21&#8211;24 in Utah.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/16/selling-surkovic-mpsf-honors/">Selling, Surkovic sweep <abbr>MPSF</abbr> swimming honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/16/selling-surkovic-mpsf-honors/">https://www.hawaii.edu/news/2024/01/16/selling-surkovic-mpsf-honors/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/16/selling-surkovic-mpsf-honors/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Mānoa’s Lund earns bronze in Bruin Diving Invitational
+
+date: 2024-01-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> The ‘Bows will be on the road to California for the Mountain Pacific Sports Federation Championship February 12&#8211;14.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/16/manoa-lund-earns-bronze-diving/"><abbr>UH</abbr> Mānoa’s Lund earns bronze in Bruin Diving Invitational</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/16/manoa-lund-earns-bronze-diving/">https://www.hawaii.edu/news/2024/01/16/manoa-lund-earns-bronze-diving/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/16/manoa-lund-earns-bronze-diving/">Save to Pocket</a>
+</span>
+
+---
+
+## HIKI NŌ on PBS Hawaiʻi’s Pricy Produce, Dog Pawsitivity, and Other Stories
+
+date: 2024-01-16, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>In this episode of HIKI NŌ on PBS Hawai‘i, watch stories from HIKI NŌ students who recently took home national storytelling awards, learn from the newest segment of HIKI NŌ called, “Did You Know?” and witness the power of storytelling in a collection of more stories from Hawai‘i’s New Wave of Storytellers. To open the [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbis-pricy-produce-dog-pawsitivity-and-other-stories/">HIKI NŌ on PBS Hawaiʻi’s &lt;br/&gt;Pricy Produce, Dog Pawsitivity, and Other Stories</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbis-pricy-produce-dog-pawsitivity-and-other-stories/">https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbis-pricy-produce-dog-pawsitivity-and-other-stories/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbis-pricy-produce-dog-pawsitivity-and-other-stories/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -593,6 +917,18 @@ date: 2024-01-15, updated: 2024-01-15, from: Marianas Variety
 
 <span class="feed-item-link">
 <a href="https://www.mvariety.com/sports/nationalsports/suns-have-little-trouble-with-short-handed-blazers/article_fb22e1dc-b3a2-11ee-866b-bb5ed44c9d3b.html">https://www.mvariety.com/sports/nationalsports/suns-have-little-trouble-with-short-handed-blazers/article_fb22e1dc-b3a2-11ee-866b-bb5ed44c9d3b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/suns-have-little-trouble-with-short-handed-blazers/article_fb22e1dc-b3a2-11ee-866b-bb5ed44c9d3b.html">Save to Pocket</a>
+</span>
+
+---
+
+## US solicits world support for Taiwan
+
+date: 2024-01-15, from: Pacific Island Times
+
+By Pacific Island Times News Staff While maintaining its one-China policy, the United States sought to solicit international support for...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/us-solicits-world-support-for-taiwan">https://www.pacificislandtimes.com/post/us-solicits-world-support-for-taiwan</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/us-solicits-world-support-for-taiwan">Save to Pocket</a>
 </span>
 
 ---

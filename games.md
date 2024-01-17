@@ -1,11 +1,131 @@
 ---
 title: games 2024.03
-updated: 2024-01-16 09:06:18
+updated: 2024-01-17 08:55:23
 ---
 
 # games 2024.03
 
-(date: 2024-01-16 09:06:18)
+(date: 2024-01-17 08:55:23)
+
+---
+
+## The best comedies you’ll find on streaming right now
+
+date: 2024-01-17, updated: 2024-01-17, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max">https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max">Save to Pocket</a>
+</span>
+
+---
+
+## Watch these one-season anime in a weekend
+
+date: 2024-01-17, updated: 2024-01-17, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/22762260/best-anime-one-season">https://www.polygon.com/22762260/best-anime-one-season</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/22762260/best-anime-one-season">Save to Pocket</a>
+</span>
+
+---
+
+## Disney Lorcana World Championship coming in 2025, new starter box in 2024
+
+date: 2024-01-17, updated: 2024-01-17, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24040657/disney-lorcana-challenge-world-championship-gateway-boxed-set">https://www.polygon.com/24040657/disney-lorcana-challenge-world-championship-gateway-boxed-set</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24040657/disney-lorcana-challenge-world-championship-gateway-boxed-set">Save to Pocket</a>
+</span>
+
+---
+
+## Percy Jackson fans have been waiting for Nico di Angelo — but did the show deliver?
+
+date: 2024-01-17, updated: 2024-01-17, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/1/17/24040619/percy-jackson-and-the-olympians-lotus-hotel-nico-di-angelo-disney-plus">https://www.polygon.com/2024/1/17/24040619/percy-jackson-and-the-olympians-lotus-hotel-nico-di-angelo-disney-plus</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/1/17/24040619/percy-jackson-and-the-olympians-lotus-hotel-nico-di-angelo-disney-plus">Save to Pocket</a>
+</span>
+
+---
+
+## Frostpunk 2’s trailer raises the stakes with worker rebellions, punishing conditions
+
+date: 2024-01-16, updated: 2024-01-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24040686/frostpunk-2-gameplay-trailer-announcement-game-pass">https://www.polygon.com/24040686/frostpunk-2-gameplay-trailer-announcement-game-pass</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24040686/frostpunk-2-gameplay-trailer-announcement-game-pass">Save to Pocket</a>
+</span>
+
+---
+
+## How to complete Constellation Wish and unlock Wish-Keeper Catalysts in Destiny 2
+
+date: 2024-01-16, updated: 2024-01-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/destiny-2-guide-walkthrough/24022798/wish-keeper-catalyst-constellation">https://www.polygon.com/destiny-2-guide-walkthrough/24022798/wish-keeper-catalyst-constellation</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/destiny-2-guide-walkthrough/24022798/wish-keeper-catalyst-constellation">Save to Pocket</a>
+</span>
+
+---
+
+## Where to unlock all the new content in FFXIV patch 6.55
+
+date: 2024-01-16, updated: 2024-01-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24040413/where-to-unlock-patch-6-55-content-allied-tribe-hildebrand-tataru">https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24040413/where-to-unlock-patch-6-55-content-allied-tribe-hildebrand-tataru</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/24040413/where-to-unlock-patch-6-55-content-allied-tribe-hildebrand-tataru">Save to Pocket</a>
+</span>
+
+---
+
+## Rockstar Games’ Take-Two and Remedy are fighting over an ‘R’
+
+date: 2024-01-16, updated: 2024-01-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24040321/rockstar-games-take-two-remedy-trademark">https://www.polygon.com/24040321/rockstar-games-take-two-remedy-trademark</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24040321/rockstar-games-take-two-remedy-trademark">Save to Pocket</a>
+</span>
+
+---
+
+## Where to find Starcats in Destiny 2: Season of the Wish
+
+date: 2024-01-16, updated: 2024-01-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline">https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/destiny-2-guide-walkthrough/23980692/starcats-locations-season-wish-familiar-feline">Save to Pocket</a>
+</span>
+
+---
+
+## Usher dressing up as Satoru Gojo from Jujutsu Kaisen is a major win for fans
+
+date: 2024-01-16, updated: 2024-01-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24040106/usher-gojo-satoru-cosplay-jujutsu-kaisen-anime">https://www.polygon.com/24040106/usher-gojo-satoru-cosplay-jujutsu-kaisen-anime</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24040106/usher-gojo-satoru-cosplay-jujutsu-kaisen-anime">Save to Pocket</a>
+</span>
 
 ---
 

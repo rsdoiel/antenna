@@ -1,11 +1,39 @@
 ---
 title: libraries 2024.03
-updated: 2024-01-16 09:06:18
+updated: 2024-01-17 08:55:23
 ---
 
 # libraries 2024.03
 
-(date: 2024-01-16 09:06:18)
+(date: 2024-01-17 08:55:23)
+
+---
+
+## Guest Post — Society Publishers Respond to Plan S “Towards Responsible Publishing” Proposal
+
+date: 2024-01-17, from: Scholarly Kitchen
+
+<p>Three global society publishers respond to cOAlition S’s recent “Towards responsible publishing, a proposal from cOAlition S”.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/01/17/guest-post-society-publishers-respond-to-plan-s-towards-responsible-publishing-proposal/">Guest Post &#8212; Society Publishers Respond to Plan S &#8220;Towards Responsible Publishing&#8221; Proposal</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/01/17/guest-post-society-publishers-respond-to-plan-s-towards-responsible-publishing-proposal/">https://scholarlykitchen.sspnet.org/2024/01/17/guest-post-society-publishers-respond-to-plan-s-towards-responsible-publishing-proposal/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/01/17/guest-post-society-publishers-respond-to-plan-s-towards-responsible-publishing-proposal/">Save to Pocket</a>
+</span>
+
+---
+
+## Day in Review (January 16–18)
+
+date: 2024-01-16, from: Association of Research Libraries News
+
+<p>Last Updated on January 16, 2024, 5:55 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, January 17 &#124; Thursday, January 18 Tuesday, January...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-16-18/">Day in Review (January 16–18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/day-in-review/day-in-review-january-16-18/">https://www.arl.org/day-in-review/day-in-review-january-16-18/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/day-in-review/day-in-review-january-16-18/">Save to Pocket</a>
+</span>
 
 ---
 

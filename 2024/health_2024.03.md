@@ -1,11 +1,83 @@
 ---
 title: health 2024.03
-updated: 2024-01-16 09:06:18
+updated: 2024-01-17 08:55:23
 ---
 
 # health 2024.03
 
-(date: 2024-01-16 09:06:18)
+(date: 2024-01-17 08:55:23)
+
+---
+
+## Resistance against two lytic phage variants attenuates virulence and antibiotic resistance in Pseudomonas aeruginosa
+
+date: 2024-01-17, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>Bacteriophage therapy is becoming part of mainstream Western medicine since antibiotics of clinical use tend to fail. It involves applying lytic bacteriophages that self-replicate and induce cell lysis, thus killing their hosts. Nevertheless, bacterial killing promotes the selection of resistant clones which sometimes may exhibit a decrease in bacterial virulence or antibiotic resistance.</p></sec><sec><title>Methods</title><p>In this work, we studied the <italic>Pseudomonas aeruginosa</italic> lytic phage φDCL-PA6 and its variant φDCL-PA6α. Additionally, we characterized and evaluated the production of virulence factors and the virulence in a Galleria mellonella model of resistant mutants against each phage for PA14 and two clinical strains.</p></sec><sec><title>Results</title><p>Phage φDCL-PA6α differs from the original by only two amino acids: one in the baseplate wedge subunit and another in the tail fiber protein. According to genomic data and cross-resistance experiments, these changes may promote the change of the phage receptor from the O-antigen to the core lipopolysaccharide. Interestingly, the host range of the two phages differs as determined against the <italic>Pseudomonas aeruginosa</italic> reference strains PA14 and PAO1 and against nine multidrug-resistant isolates from ventilator associated pneumonia.</p></sec><sec><title>Conclusions</title><p>We show as well that phage resistance impacts virulence factor production. Specifically, phage resistance led to decreased biofilm formation, swarming, and type III secretion; therefore, the virulence towards Galleria mellonella was dramatically attenuated. Furthermore, antibiotic resistance decreased for one clinical strain. Our study highlights important potential advantages of phage therapy’s evolutionary impact that may be exploited to generate robust therapy schemes.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1280265">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1280265</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1280265">Save to Pocket</a>
+</span>
+
+---
+
+## Microbiota signatures associated with invasive Candida albicans infection in the gastrointestinal tract of immunodeficient mice
+
+date: 2024-01-17, from: Frontiers in Cellular and Infection Microbiology
+
+<p><italic>Candida albicans</italic> is a commensal microorganism in the human gut but occasionally causes invasive <italic>C. albicans</italic> infection (ICA), especially in immunocompromised individuals. Early initiation of antifungal therapy is associated with reduced mortality of ICA, but rapid diagnosis remains a challenge. The ICA-associated changes in the gut microbiota can be used as diagnostic and therapeutic targets but have been poorly investigated. In this study, we utilized an immunodeficient Rag2γc (<italic>Rag2</italic>-/-<italic>il2γc</italic>-/-) mouse model to investigate the gut microbiota alterations caused by <italic>C. albicans</italic> throughout its cycle, from its introduction into the gastrointestinal tract to invasion, in the absence of antibiotics. We observed a significant increase in the abundance of <italic>Firmicutes</italic>, particularly <italic>Lachnospiraceae</italic> and <italic>Ruminococcaceae</italic>, as well as a significant decrease in the abundance of <italic>Candidatus Arthromitus</italic> in mice exposed to either the wild-type SC5314 strain or the filamentation-defective mutant (<italic>cph1/cph1 efg1/efg1</italic>) HLC54 strain of <italic>C. albicans</italic>. However, only the SC5314-infected mice developed ICA. A linear discriminate analysis of the temporal changes in the gut bacterial composition revealed <italic>Bacteroides vulgatus</italic> as a discriminative biomarker associated with SC5314-infected mice with ICA. Additionally, a positive correlation between the <italic>B. vulgatus</italic> abundance and fungal load was found, and the negative correlation between the <italic>Candidatus Arthromitus</italic> abundance and fungal load after exposure to <italic>C. albicans</italic> suggested that <italic>C. albicans</italic> might affect the differentiation of intestinal Th17 cells. Our findings reveal the influence of pathogenic <italic>C. albicans</italic> on the gut microbiota and identify the abundance of <italic>B. vulgatus</italic> as a microbiota signature associated with ICA in an immunodeficient mouse model.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1278600">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1278600</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1278600">Save to Pocket</a>
+</span>
+
+---
+
+## Pyrosequencing analysis of bacterial community changes in dental unit waterlines after chlorogenic acid treatment
+
+date: 2024-01-17, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>The contamination of dental unit waterlines (DUWLs) poses a significant risk of cross-infection in dentistry. Although chemical disinfectants have been effective in reducing number of bacteria, they do have limitations.</p></sec><sec><title>Methods</title><p>This study aimed to investigate the potential of chlorogenic acid, a natural substance with broadspectrum antibacterial properties, for treating DUWLs. Over a period of three months, we analyzed the microbial communities in 149 DUWLs samples collected from 5 dental units using high-throughput pyrophosphate sequencing. </p></sec><sec><title>Results</title><p>The results revealed that chlorogenic acid treatment had a significant impact on the microbial community profile in the DUWLs, with the most significant changes occurring within the first 15 days and stabilization observed in the last 30 days. The predominant genera detected in the samples were Bacteroides, Lactobacillus, Streptococcus, Methylobacterium, and Phreatobacter. Additionally, the relative abundance of certain beneficial bacteria, such as Alloprevotella, Roseburia, and Blautia, increased, while the presence of opportunistic pathogens like Mycobacteria significantly decreased. The functional prediction analysis using the KEGG database indicated a decrease in the pathogenicity of the bacterial community in the DUWLs following chlorogenic acid treatment. </p></sec><sec><title>Discussion</title><p>This study introduces a novel approach for the prevention and treatment of infections associated with dental care.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1303099">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1303099</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1303099">Save to Pocket</a>
+</span>
+
+---
+
+## In vitro interactions of proton pump inhibitors and azoles against pathogenic fungi
+
+date: 2024-01-17, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>Azole resistance has been increasingly reported and become an issue for clinical managements of invasive mycoses. New strategy with combination therapy arises as a valuable and promising alternative option. The aim of the present study is to investigate the <italic>in vitro</italic> combinational effect of proton pump inhibitors (PPIs) and azoles against pathogenic fungi.</p></sec><sec><title>Methods</title><p><italic>In vitro</italic> interactions of PPIs including omeprazole (OME), lansoprazole (LAN), pantoprazole (PAN), and rabeprazole (RAB), and commonly used azoles including itraconazole (ITC), posaconazole (POS), voriconazole (VRC) and FLC, were investigated via broth microdilution chequerboard procedure adapted from the CLSI M27-A3 and M38-A2. A total of 67 clinically isolated strains, namely 27 strains of <italic>Aspergillus</italic> spp., 16 strains of <italic>Candida</italic> spp., and 24 strains of dematiaceous fungi, were studied. C. parapsilosis (ATCC 22019) and A. flavus (ATCC 204304) was included to ensure quality control.</p></sec><sec><title>Results</title><p>PPIs individually did not exert any significant antifungal activity. The combination of OME with ITC, POS, or VRC showed synergism against 77.6%, 86.6%, and 4% strains of tested pathogenic fungi, respectively, while synergism of OME/FLC was observed in 50% strains of <italic>Candida</italic> spp. Synergism between PAN and ITC, POS, or VRC was observed against 47.8%, 77.6% and 1.5% strains of tested fungi, respectively, while synergism of PNA/FLC was observed in 50% strains of <italic>Candida</italic> spp. Synergism of LAN with ITC, POS, or VRC was observed against 86.6%, 86.6%, and 3% of tested strains, respectively, while synergism of LAN/FLC was observed in 31.3% strains of <italic>Candida</italic> spp. Synergy of the combination of RAB with ITC, POS, or VRC was observed against 25.4%, 64.2%, and 4.5% of tested strains, respectively., synergism of RAB/FLC was observed in 12.5% of <italic>Candida</italic> spp.. Among PPIs, synergism was least observed between RAB and triazoles, while among triazoles, synergism was least observed between VRC and PPIs. Among species, synergy was much more frequently observed in Aspergillus spp. and dematiaceous fungi as compared to <italic>Candida</italic> spp. Antagonism between PPIs with ITC or VRC was occasionally observed in <italic>Aspergillus</italic> spp. and dematiaceous fungi. It is notable that PPIs combined with azoles showed synergy against azole resistant <italic>A. fumigatus</italic>, and resulted in category change of susceptibility of ITC and POS against <italic>Candida</italic> spp.</p></sec><sec><title>Discussion</title><p>The results suggested that PPIs combined with azoles has the potential to enhance the susceptibilities of azoles against multiple pathogenic fungi and could be a promising strategy to overcome azole resistance issues. However, further investigations are warranted to study the combinational efficacy in more isolates and more species, to investigate the underlying mechanism of interaction and to evaluate the potential for concomitant use of these agents in human.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1296151">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1296151</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1296151">Save to Pocket</a>
+</span>
+
+---
+
+## A review of neuro-ophthalmic sequelae following COVID-19 infection and vaccination
+
+date: 2024-01-17, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>It has become increasingly clear that the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) can affect most organs in the human body, including the neurologic and ophthalmic systems. Vaccination campaigns have been developed at rapid pace around the world to protect the population from the fast-mutating virus. This review seeks to summarise current knowledge of the neuro-ophthalmic manifestations of both COVID-19 infection and vaccination.</p></sec><sec><title>Evidence acquisition</title><p>Electronic searches for published literature were conducted using EMBASE and MEDLINE on the 30<sup>th</sup> of July 2023. The search strategy comprised of controlled vocabulary and free-text synonyms for the following terms in various combinations: “coronavirus, COVID-19, SARS-CoV-2, 2019-nCoV, vaccination, vaccine, immunisation and neuro-ophthalmology”. No time range limits were set for the literature search. Published English abstracts for articles written in a different language were screened if available.</p></sec><sec><title>Results</title><p>A total of 54 case reports and case series were selected for use in the final report. 34 articles documenting neuro-ophthalmic manifestations following COVID-19 infection and 20 articles with neuro-ophthalmic complications following COVID-19 vaccination were included, comprising of 79 patients in total. The most commonly occurring condition was optic neuritis, with 25 cases following COVID-19 infection and 27 cases following vaccination against COVID-19.</p></sec><sec><title>Conclusions</title><p>The various COVID-19 vaccines that are currently available are part of the global effort to protect the most vulnerable of the human population. The incidence of neuro-ophthalmic consequences following infection with COVID-19 is hundred-folds higher and associated with more harrowing systemic effects than vaccination against the virus.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1345683">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1345683</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1345683">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: Early events during host cell-pathogen interaction, volume II
+
+date: 2024-01-17, from: Frontiers in Cellular and Infection Microbiology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1364415">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1364415</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1364415">Save to Pocket</a>
+</span>
 
 ---
 
