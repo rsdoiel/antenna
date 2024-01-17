@@ -396,17 +396,19 @@ https://odysseygamesco.com/feed/ "~Odyssey Games blog" curl/8.5.0 (rsdoiel@gmail
 https://blog.ayjay.org/feed/ "~Ayjay blog"
 https://poynder.blogspot.com/feeds/posts/default?alt=rss "~Richard Poydner blog"
 #https://www.frontiersin.org/journals/cellular-and-infection-microbiology/rss "~Frontiers in Cellar and Infection Microbiology" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://api.quantamagazine.org/feed/ "~Quanta Magazine" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://jon-e.net/blog/feed.xml "~Jonny Saunders blog"
 http://blog.guidoism.com/feed.atom "~Guido Bartolucci blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://www.fromjason.xyz/notebook/feed/feed.xml "~ Jason Valazquez noteboook" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.fromjason.xyz/notebook/feed/feed.xml "~Jason Valazquez noteboook" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #
-# Software and Technology
+# Software, Technology, and Science
+# Or STEM stuff
 #
 https://medium.com/feed/@hywan "~Ivan Enderlin's Medium Wasmer announcements" 
 https://conoroneill.net/index.xml "~Conor O'Niell's blog, Cross Dominant"
 https://chriscoyier.net/feed/ "~Chris Coyier blog"
+https://bair.berkeley.edu/blog/feed.xml "Berkley Artificial Intellegence Research Blog"
+https://api.quantamagazine.org/feed/ "~Quanta Magazine" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #
 # Policy
