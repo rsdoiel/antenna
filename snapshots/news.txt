@@ -1,17 +1,7 @@
-https://www.foxhound.systems/blog/rss.xml "~Fox Hound Systems Blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://www.arl.org/feed/ "~Association of Research Libraries News"
-https://timwright.org/blog/feed/ "~Tim Wright's blog (met at USC)"
 https://reb00ted.org/index.xml "~reb00ted blog (Johannes Ernst)"
-http://data.feedland.org/feeds/davewiner.xml "~Dave Winer's linkblog"
-https://heathercoxrichardson.substack.com/feed "~Heather Cox Richardson blog"
 https://go-colly.org/articles/index.xml "~Coly blog (Golang web scraper library)"
 https://infrequently.org/feed/ "~Alex Russel's blog"
-#https://kilianvalkhof.com/feed/ "~Kilian Valkhof's blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # redirects as of 2023-12-12
-http://feeds.feedburner.com/Kilianvalkhofcom "~Kilian Valkhof's blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 http://www.spagmag.org/feed/ "~SPAG Magizine blog"
-https://www.hangaroundtheweb.com/index.xml "~Hanging Around the Web blog"
-https://www.htmhell.dev/feed_tips.xml "~HTMH(ell) newsletter, improving the web toolbox"
-https://feeds.feedburner.com/NiemanJournalismLab "~Nieman Journalism Lab"
 https://www.postgresql.org/news.rss "~PostgreSQL News"
 https://us-rse.org/feed.xml "~The United States Research Software Engineer Association"
 https://daverupert.com/atom.xml "~Dave Rupert blog"
@@ -104,7 +94,6 @@ https://blog.hubersn-software.com/feed/ "~Hubersn Software Blog"
 https://blog.jonudell.net/feed/ "~Jonudell blog"
 https://blog.llvm.org/index.xml "~LLVM Blog"
 https://blog.luizirber.org/atom.xml "~Luizirber blog"
-https://blog.openlibrary.org/feed/ "~Open Library Blog"
 http://feeds.feedburner.com/reybango/zSyW "~Rey Bango Blog"
 https://blog.rongarret.info/feeds/posts/default "~Ron Garret"
 https://blogs.ch.cam.ac.uk/pmr/feed/index.xml "~petermr's blog"
@@ -194,8 +183,6 @@ https://lazplanet.blogspot.com/feeds/posts/default?alt=rss "~Blog Lazplanet"
 https://ldbeth.sdf.org/rss.xml "~ldbeth Lisp/Music Programmer blog"
 https://lettersofnote.com/feed/ "~Letters of Note"
 https://liam-on-linux.dreamwidth.org/data/rss "~Liam on Linux"
-https://libcal.caltech.edu/rss.php?m=month&iid=3271&cid=3754 "~Caltech Library Events"
-https://library.csun.edu/blogs/cited/feed/ "~CSUN Library Blog, Cited"
 https://liliputing.com/feed/ "~Liliputing"
 https://limemicro.com/feed/ "~Lime Microsystems news"
 https://lisp-machine.org/feed/ "~Lispmachine-org blog"
@@ -331,7 +318,6 @@ https://www.digitalrhetoriccollaborative.org/feed/ "~Digital Rhetoric Collaberat
 https://www.distilled.earth/feed "~Distilled Earth blog"
 https://www.elevatedmaterials.com/feed/ "~Elevated Materials, upcycled carbon fiber"
 https://www.filfre.net/feed/ "~Digital Antiquarian"
-https://www.go4retro.com/feed/ "~Retro Innovations blog"
 # moved to news2.txt
 #https://www.gregegan.net/feed.rss "~Greg Egan's feed"
 https://www.haskell.org/ghc/rss.xml "~Glasgow Haskell Compiler"
@@ -370,7 +356,6 @@ https://www.research-collection.ethz.ch/feed/rss_2.0/site "~ETH Zurich, recently
 https://www.riscository.com/feed/ "~RiscOS Story"
 https://www.riscosopen.org/news/xml/rss20/feed.xml "~RiscOS Open"
 #https://www.sandiegouniontribune.com/news.rss "~San Diego Tribune News"
-https://www.santaclaritalibrary.com/feed/ "~Santa Clarita Public Library"
 https://www.schneier.com/feed/atom/ "~Bruce Schneier blog"
 https://www.sevarg.net/feed.xml "~Russell Graves, Syonyk's Project Blog"
 https://www.sgvlug.org/feeds/all.atom.xml "~San Gabriel Valley Linux User Group"
@@ -401,6 +386,17 @@ http://blog.guidoism.com/feed.atom "~Guido Bartolucci blog" curl/8.5.0 (rsdoiel@
 https://www.fromjason.xyz/notebook/feed/feed.xml "~Jason Valazquez noteboook" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #
+# News, Current Events, Journalism and Opinion
+#
+http://data.feedland.org/feeds/davewiner.xml "~Dave Winer's linkblog"
+https://heathercoxrichardson.substack.com/feed "~Heather Cox Richardson blog"
+https://feeds.feedburner.com/NiemanJournalismLab "~Nieman Journalism Lab"
+
+#
+# Literature, Writing and Writers
+#
+
+#
 # Software, Technology, and Science
 # Or STEM stuff
 #
@@ -409,6 +405,31 @@ https://conoroneill.net/index.xml "~Conor O'Niell's blog, Cross Dominant"
 https://chriscoyier.net/feed/ "~Chris Coyier blog"
 https://bair.berkeley.edu/blog/feed.xml "Berkley Artificial Intellegence Research Blog"
 https://api.quantamagazine.org/feed/ "~Quanta Magazine" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+
+#
+# Computing and the Web
+#
+https://timwright.org/blog/feed/ "~Tim Wright's blog (met at USC)"
+https://www.foxhound.systems/blog/rss.xml "~Fox Hound Systems Blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+#https://kilianvalkhof.com/feed/ "~Kilian Valkhof's blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # redirects as of 2023-12-12
+http://feeds.feedburner.com/Kilianvalkhofcom "~Kilian Valkhof's blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://www.htmhell.dev/feed_tips.xml "~HTMH(ell) newsletter, improving the web toolbox"
+
+#
+# Retro computing
+#
+http://www.retroprogramming.com/feeds/posts/default?alt=rss "~Retro Programming blog"
+https://www.go4retro.com/feed/ "~Retro Innovations blog"
+
+#
+# Library, Archives and Museums
+#
+https://blog.openlibrary.org/feed/ "~Open Library Blog"
+https://libcal.caltech.edu/rss.php?m=month&iid=3271&cid=3754 "~Caltech Library Events"
+https://library.csun.edu/blogs/cited/feed/ "~CSUN Library Blog, Cited"
+https://www.santaclaritalibrary.com/feed/ "~Santa Clarita Public Library"
+https://www.arl.org/feed/ "~Association of Research Libraries News"
+
 
 #
 # Policy
