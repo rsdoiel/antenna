@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.03
-updated: 2024-01-17 08:55:23
+updated: 2024-01-17 14:53:00
 ---
 
 # libraries 2024.03
 
-(date: 2024-01-17 08:55:23)
+(date: 2024-01-17 14:53:00)
 
 ---
 
@@ -27,7 +27,7 @@ date: 2024-01-17, from: Scholarly Kitchen
 
 date: 2024-01-16, from: Association of Research Libraries News
 
-<p>Last Updated on January 16, 2024, 5:55 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, January 17 &#124; Thursday, January 18 Tuesday, January...</p>
+<p>Last Updated on January 17, 2024, 2:43 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, January 17 &#124; Thursday, January 18 Tuesday, January...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-16-18/">Day in Review (January 16–18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 

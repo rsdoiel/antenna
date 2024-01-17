@@ -1,11 +1,38 @@
 ---
 title: pacific 2024.03
-updated: 2024-01-17 08:55:22
+updated: 2024-01-17 14:53:00
 ---
 
 # pacific 2024.03
 
-(date: 2024-01-17 08:55:22)
+(date: 2024-01-17 14:53:00)
+
+---
+
+## VIP Kili visit
+
+date: 2024-01-17, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Action speaks louder than words. This seems to be the marching order for President Hilda Heine and her Cabinet following a one-day visit to Kili Island last Friday. That day before, Thursday, the Heine administration declared a state of emergency to address the immediate needs of the Kili community, which has been experiencing [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/vip-kili-visit/">VIP Kili visit</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/vip-kili-visit/">https://marshallislandsjournal.com/vip-kili-visit/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/vip-kili-visit/">Save to Pocket</a>
+</span>
+
+---
+
+## UH News Image of the Week: Mala at Wailupe beach
+
+date: 2024-01-17, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> This week's image is from <span aria-label="Kapiolani">Kapi&#699;olani</span> CC's Jasper.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/17/uh-news-image-of-the-week-mala-at-wailupe-beach/"><abbr>UH</abbr> News Image of the Week: Mala at Wailupe beach</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/17/uh-news-image-of-the-week-mala-at-wailupe-beach/">https://www.hawaii.edu/news/2024/01/17/uh-news-image-of-the-week-mala-at-wailupe-beach/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/17/uh-news-image-of-the-week-mala-at-wailupe-beach/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -193,7 +220,7 @@ Senator questions administration's spending policy By Pacific Island Times News 
 
 date: 2024-01-17, from: University of Hawaiʻi News
 
-<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Soft opening hours are set to commence on January 17.</p>
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Soft opening hours are set to commence on January 17.</p>
 The post <a href="https://www.hawaii.edu/news/2024/01/16/starbucks-opens-at-gateway-cafe/">Double shot of excitement: 2nd Starbucks opening at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
 
 <span class="feed-item-link">
@@ -319,12 +346,12 @@ The post <a href="https://www.hawaii.edu/news/2024/01/16/manoa-lund-earns-bronze
 
 ---
 
-## HIKI NŌ on PBS Hawaiʻi’s Pricy Produce, Dog Pawsitivity, and Other Stories
+## Pricy Produce, Dog Pawsitivity, and Other Stories
 
 date: 2024-01-16, from: HIKI NŌ ON PBS HAWAIʻI
 
 <p>In this episode of HIKI NŌ on PBS Hawai‘i, watch stories from HIKI NŌ students who recently took home national storytelling awards, learn from the newest segment of HIKI NŌ called, “Did You Know?” and witness the power of storytelling in a collection of more stories from Hawai‘i’s New Wave of Storytellers. To open the [&#8230;]</p>
-<p>The post <a href="https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbis-pricy-produce-dog-pawsitivity-and-other-stories/">HIKI NŌ on PBS Hawaiʻi’s &lt;br/&gt;Pricy Produce, Dog Pawsitivity, and Other Stories</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+<p>The post <a href="https://www.pbshawaii.org/hiki-no-on-pbs-hawai%ca%bbis-pricy-produce-dog-pawsitivity-and-other-stories/">Pricy Produce, Dog Pawsitivity, and Other Stories</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
 
 
 <span class="feed-item-link">

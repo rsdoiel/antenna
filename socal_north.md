@@ -1,11 +1,61 @@
 ---
 title: socal north 2024.03
-updated: 2024-01-17 08:55:22
+updated: 2024-01-17 14:53:00
 ---
 
 # socal north 2024.03
 
-(date: 2024-01-17 08:55:22)
+(date: 2024-01-17 14:53:00)
+
+---
+
+## LA Expands RV Parking Bans To Parts Of West LA And Coastal Neighborhoods
+
+date: 2024-01-17, updated: 2024-01-17, from: The LAist
+
+The new restrictions will affect more than a dozen streets in neighborhoods like Venice, Playa Vista, and Westchester.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/la-expands-rv-parking-bans-to-parts-of-west-la-and-coastal-neighborhoods">https://laist.com/news/housing-homelessness/la-expands-rv-parking-bans-to-parts-of-west-la-and-coastal-neighborhoods</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/la-expands-rv-parking-bans-to-parts-of-west-la-and-coastal-neighborhoods">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s basketball to head to Arizona after snapping losing streak
+
+date: 2024-01-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+Standing in front of the Bruins&#8217; opportunity to equalize their conference record are two of the top teams in the conference. 
+Off the heels of snapping its four-game losing streak, UCLA men&#8217;s basketball (7-10, 2-4 Pac-12) will hit the road again, this time to go head-to-head with Arizona State (10-6, 4-1) on Wednesday and No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/ucla-mens-basketball-to-head-to-arizona-after-snapping-losing-streak/">https://dailybruin.com/2024/01/17/ucla-mens-basketball-to-head-to-arizona-after-snapping-losing-streak/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/ucla-mens-basketball-to-head-to-arizona-after-snapping-losing-streak/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s volleyball serves up 1st away victory against Lewis
+
+date: 2024-01-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+One thing proved the difference between victory and defeat for the Bruins: the service line.
+No. 1 UCLA men&#8217;s volleyball (4-0) defeated then-No. 15 Lewis (2-2) in its first away match of the season Jan.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/ucla-mens-volleyball-serves-up-1st-away-victory-against-lewis/">https://dailybruin.com/2024/01/17/ucla-mens-volleyball-serves-up-1st-away-victory-against-lewis/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/ucla-mens-volleyball-serves-up-1st-away-victory-against-lewis/">Save to Pocket</a>
+</span>
+
+---
+
+## Newsom Sides With Parents’ Rights Groups To Defend Youth Tackle Football
+
+date: 2024-01-17, updated: 2024-01-17, from: The LAist
+
+The Assembly has until the end of January to decide the fate of the youth tackle football bill, which would prevent kids under 12 from playing the sport to protect them from brain trauma.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/newsom-sides-with-parents-rights-groups-to-defend-youth-tackle-football">https://laist.com/news/politics/newsom-sides-with-parents-rights-groups-to-defend-youth-tackle-football</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/newsom-sides-with-parents-rights-groups-to-defend-youth-tackle-football">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +63,7 @@ updated: 2024-01-17 08:55:22
 
 date: 2024-01-17, updated: 2024-01-17, from: The LAist
 
-In addition to screenings and panels, the students look forward to connecting with like-minded people.
+In a town where USC, UCLA, and AFI tout their powerful alumni networks, community colleges have a stake in developing future members of the film industry.
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/education/for-community-college-students-sundance-film-festival-offers-a-foot-in-the-door">https://laist.com/news/education/for-community-college-students-sundance-film-festival-offers-a-foot-in-the-door</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/for-community-college-students-sundance-film-festival-offers-a-foot-in-the-door">Save to Pocket</a>
@@ -281,6 +331,30 @@ date: 2024-01-17, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
+## San Clemente Will Have To Wait For Better Sand, Delaying Replenishment Project
+
+date: 2024-01-17, updated: 2024-01-17, from: The LAist
+
+The contractor is expected to get back to work in about two months with better quality sand.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/san-clemente-will-have-to-wait-for-better-sand-delaying-replenishment-project">https://laist.com/news/climate-environment/san-clemente-will-have-to-wait-for-better-sand-delaying-replenishment-project</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/san-clemente-will-have-to-wait-for-better-sand-delaying-replenishment-project">Save to Pocket</a>
+</span>
+
+---
+
+## After Four Decades Of Acting, Willem Dafoe Is Still Trying To 'Mix It Up'
+
+date: 2024-01-17, updated: 2024-01-17, from: The LAist
+
+From 'Platoon' to 'Poor Things,' Willem Dafoe's career is fluid and full of wonder.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/arts-and-entertainment/willem-dafoe-is-still-trying-to-mix-it-up">https://laist.com/news/arts-and-entertainment/willem-dafoe-is-still-trying-to-mix-it-up</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/arts-and-entertainment/willem-dafoe-is-still-trying-to-mix-it-up">Save to Pocket</a>
+</span>
+
+---
+
 ## Holiday Crochet Projects
 
 date: 2024-01-17, from: The Daily Bruin (UCLA Student Newspaper)
@@ -295,7 +369,7 @@ date: 2024-01-17, from: The Daily Bruin (UCLA Student Newspaper)
 
 ## The Queen Mary Turns A Profit After Years of Debt And Disrepair
 
-date: 2024-01-16, updated: 2024-01-16, from: The LAist
+date: 2024-01-16, updated: 2024-01-17, from: The LAist
 
 The beloved ocean liner turned a profit last year after years of neglect, headaches and major debt.
 
@@ -305,7 +379,7 @@ The beloved ocean liner turned a profit last year after years of neglect, headac
 
 ---
 
-## A Coveted Crypt Next To Marilyn Monroe In Westwood Could Be Yours
+## A Coveted Crypt Next To Marilyn Monroe In Westwood Could Be Yours — For The Right Price
 
 date: 2024-01-16, updated: 2024-01-17, from: The LAist
 

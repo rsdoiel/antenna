@@ -1,11 +1,335 @@
 ---
 title: tech likely 2024.03
-updated: 2024-01-17 08:55:23
+updated: 2024-01-17 14:53:00
 ---
 
 # tech likely 2024.03
 
-(date: 2024-01-17 08:55:23)
+(date: 2024-01-17 14:53:00)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-17, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/01/17/swissMiss.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://podcasts.apple.com/us/podcast/trump-didnt-crush-anything-he-won-iowa-by-2-222-votes-1-17-24/id1633301179?i=1000641927666">Today's Olbermann</a> is worth a listen, esp the first part where he talks about political reporters vs sports reporters. Politics is a lot simpler than most sports, and they repeat themselves for years even decades, yet the sports reporters manage. Not all of them, there are plenty of empty-headed sports reporters. But there are also some very insightful ones. It makes all the the difference. In New York basketball we're blessed with two of the best. <a href="https://en.wikipedia.org/wiki/Mike_Breen">Mike Breen</a> and <a href="https://en.wikipedia.org/wiki/Walt_Frazier">Walt Frazier</a>. I'd listen even if I gave up hope on the Knicks, which believe me, I have done many many many times. Also Olbermann says that <a href="https://en.wikipedia.org/wiki/James_L._Dolan">Dolan</a>, the owner of the Knicks, is a <a href="https://en.wikipedia.org/wiki/Schmuck_(pejorative)">schmuck</a>. He got that <a href="http://scripting.com/2013/12/19/whatIfTheKnicksHadKeptJeremyLin.html#aWIOSI">right</a>. But somehow this time he managed to hire an <a href="https://en.wikipedia.org/wiki/Leon_Rose">exec</a> who has some kind of a clue.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/17.html#a223707">http://scripting.com/2024/01/17.html#a223707</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/17.html#a223707">Save to Pocket</a>
+</span>
+
+---
+
+##  Gathering Ice for a Hot Mongolian Breakfast 
+
+date: 2024-01-17, updated: 2024-01-17, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/gathering-ice-for-a-hot-mongolian-breakfast">https://kottke.org/24/01/gathering-ice-for-a-hot-mongolian-breakfast</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/gathering-ice-for-a-hot-mongolian-breakfast">Save to Pocket</a>
+</span>
+
+---
+
+## Swift Protocol Requirement Quirks
+
+date: 2024-01-17, from: Michael Tsai
+
+Jesse Squires: A handful of protocol witness mismatches are currently allowed:Non-failable initializers can satisfy failable initializer protocol requirements (as I encountered above)Non-throwing functions can satisfy throwing function protocol requirementsNon-escaping closure parameters can satisfy @escaping protocol requirementsGeneric functions can satisfy non-generic protocol requirementsNon-mutating functions can satisfy mutating protocol requirementsEnum cases can satisfy static function protocol requirementsSynchronous [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/17/swift-protocol-requirement-quirks/">https://mjtsai.com/blog/2024/01/17/swift-protocol-requirement-quirks/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/17/swift-protocol-requirement-quirks/">Save to Pocket</a>
+</span>
+
+---
+
+## ScreenFloat 2
+
+date: 2024-01-17, from: Michael Tsai
+
+Matthias Gansrigler (Mastodon): ScreenFloat powers up your screenshots by allowing you to take screenshots and recordings that float above everything else, keeping certain information always in sight. I&#8217;ve known about this app for a long time, but I&#8217;d never used it or thought much about it because the description doesn&#8217;t speak to me. I just [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/17/screenfloat-2/">https://mjtsai.com/blog/2024/01/17/screenfloat-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/17/screenfloat-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Game Mode in Sonoma
+
+date: 2024-01-17, from: Michael Tsai
+
+Andrew Cunningham: Sonoma brings two more features that point to Apple&#8217;s newfound seriousness about gaming on the Mac. The first is Game Mode. It&#8217;s analogous to a Windows 11 feature of the exact same name, and they&#8217;re functionally similar in that they both promise to deprioritize background tasks to keep games running smoothly.Apple&#8217;s version of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/17/game-mode-in-sonoma/">https://mjtsai.com/blog/2024/01/17/game-mode-in-sonoma/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/17/game-mode-in-sonoma/">Save to Pocket</a>
+</span>
+
+---
+
+## The Marshall Star for January 17, 2024
+
+date: 2024-01-17, from: NASA breaking news
+
+‘Be King’: Team Redstone Invites All to Honor Civil Rights Icon’s Legacy By Jessica Barnett Several accomplished speakers took to the stage Jan. 11 at NASA’s Marshall Space Flight Center to share how Martin Luther King Jr.’s life and legacy helped shape their lives. The event was hosted by Marshall’s ODEO (Office of Diversity and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-january-17-2024/">https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-january-17-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-january-17-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Google introduces Google Takeout API
+
+date: 2024-01-17, from: OS News
+
+Google has detailed more of the changes it&#8217;s implementing to comply with the European Union&#8217;s Digital Markets Act. We already covered the changes to linked services, but Google is also changing how results related to shopping and booking results are displayed. We will introduce dedicated units that include a group of links to comparison sites from across the web, and query shortcuts at the top of the search page to help people refine their search, including by focusing results just on comparison sites. For categories like hotels, we will also start testing a dedicated space for comparison sites and direct suppliers to show more detailed individual results including images, star ratings and more. These changes will result in the removal of some features from the search page, such as the Google Flights unit. ↫ Oliver Bethell Google is also releasing its promised Google Takeout API, allowing developers to programmatically deal with users wanting to take their data out of Google to another service. This one in particular I&#8217;m interested in, since I&#8217;m curious if, say, a competing email service will make it easier and automatic to move away from Gmail.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138364/google-introduces-google-takeout-api/">https://www.osnews.com/story/138364/google-introduces-google-takeout-api/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138364/google-introduces-google-takeout-api/">Save to Pocket</a>
+</span>
+
+---
+
+## Ruffle: an open source Flash Player emulator
+
+date: 2024-01-17, from: OS News
+
+Made to run natively on all modern operating systems and browsers, Ruffle brings Flash content back to life with no extra fuss. ↫ Ruffle website It&#8217;s using Rust and WASM, making it supposedly safer than the real Flash PLayer ever was, and of course, it&#8217;s open source too. Their most recent progress report details just how far along this project already is.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138350/ruffle-an-open-source-flash-player-emulator/">https://www.osnews.com/story/138350/ruffle-an-open-source-flash-player-emulator/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138350/ruffle-an-open-source-flash-player-emulator/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Sets Briefings for Crew-8, International Space Station Missions
+
+date: 2024-01-17, from: NASA breaking news
+
+NASA will host a pair of news conferences Thursday, Jan. 25, from the agency’s Johnson Space Center in Houston to highlight upcoming crew rotation missions to the International Space Station. A mission overview news conference will begin at 1 p.m. EST and cover NASA’s SpaceX Crew-8 mission to the microgravity laboratory and Expeditions 70/71. A [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-crew-8-international-space-station-missions/">https://www.nasa.gov/news-release/nasa-sets-briefings-for-crew-8-international-space-station-missions/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-sets-briefings-for-crew-8-international-space-station-missions/">Save to Pocket</a>
+</span>
+
+---
+
+## Advent of Computing: Episode 124 - The Full 360
+
+date: 2024-01-17, from: Tilde.news
+
+<p><a href="https://tilde.news/s/h5rqhy/advent_computing_episode_124_full_360">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://adventofcomputing.libsyn.com/episode-124-the-full-360">https://adventofcomputing.libsyn.com/episode-124-the-full-360</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-124-the-full-360">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-17, from: Miguel de Icaza Mastondon feed)
+
+<p>Images on the command line, getting started with Joseph:</p><p><a href="https://blog.la-terminal.net/images-on-the-command-line/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/images-on</span><span class="invisible">-the-command-line/</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111773086620737102">https://mastodon.social/@Migueldeicaza/111773086620737102</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111773086620737102">Save to Pocket</a>
+</span>
+
+---
+
+**@Ayjay blog** (date: 2024-01-17, from: Ayjay blog)
+
+DHH is exactly right: Apple has become too powerful, and with that power has come a sense of entitlement, and with that sense of entitlement has come a shortsighted pettiness and vindictiveness. I don’t want to support such a company, in part because I don’t have the bandwidth to go full Linux at the moment, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/45933-2/">https://blog.ayjay.org/45933-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/45933-2/">Save to Pocket</a>
+</span>
+
+---
+
+## An Aurora in Another Light
+
+date: 2024-01-17, from: NASA breaking news
+
+The Visible Infrared Imaging Radiometer Suite sensor on the NOAA-NASA Suomi NPP satellite captured this image of the aurora borealis, or northern lights, over western Canada at 3:23 a.m. MST (5:23 a.m. EST) on November 5, 2023. Auroras are colorful ribbons of light appearing in night skies, incited by a strong geomagnetic storm in Earth’s magnetosphere. Multiple [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/an-aurora-in-another-light/">https://www.nasa.gov/image-article/an-aurora-in-another-light/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/an-aurora-in-another-light/">Save to Pocket</a>
+</span>
+
+---
+
+## ChipWits: The Robot Coding Game
+
+date: 2024-01-17, from: Tilde.news
+
+<p><a href="https://tilde.news/s/alqy6f/chipwits_robot_coding_game">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://chipwits.com/">https://chipwits.com/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://chipwits.com/">Save to Pocket</a>
+</span>
+
+---
+
+##  The Frozen Colors of Winter 
+
+date: 2024-01-17, updated: 2024-01-17, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/the-frozen-colors-of-winter">https://kottke.org/24/01/the-frozen-colors-of-winter</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/the-frozen-colors-of-winter">Save to Pocket</a>
+</span>
+
+---
+
+##  Whistler Blackcomb might not be a ski resort in another few decades.... 
+
+date: 2024-01-17, updated: 2024-01-17, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043794-whistler-blackcomb-might-">https://kottke.org/24/01/0043794-whistler-blackcomb-might-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043794-whistler-blackcomb-might-">Save to Pocket</a>
+</span>
+
+---
+
+## Robot Team Builds High-Performance Digital Structure for NASA
+
+date: 2024-01-17, from: NASA breaking news
+
+Greater than the sum of its parts: NASA tests the capability of a system that includes simple robots, structural building blocks, and smart algorithms to build functional, high-performance large-scale structures, ultimately enabling autonomous deep-space infrastructure.
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/robot-team-builds-high-performance-digital-structure-for-nasa/">https://www.nasa.gov/general/robot-team-builds-high-performance-digital-structure-for-nasa/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/robot-team-builds-high-performance-digital-structure-for-nasa/">Save to Pocket</a>
+</span>
+
+---
+
+## Corporations Are Not To Be Loved
+
+date: 2024-01-17, from: Innessential (Brint Simmons' blog)
+
+<p>I started using Apple computers — and writing code for them, starting with BASIC — 43 years ago, before the Macintosh, even, and I’ve made this my career. I’ve had all these decades to really, thoroughly delight in these incredible machines and software, and to give a little back with my own apps.</p>
+
+<p>Apple’s positive effect on my life should not be underestimated. My Mom once (lovingly, teasingly) said to me that my alternate career, had all this never happened, was “criminal genius.” Which might have been fun too, but possibly more stressful than I might have liked. At any rate, Apple has saved me from a life of crime, and I should love Apple for that.</p>
+
+<p>But I need to remember, now and again, that Apple is a corporation, and corporations aren’t people, and they can’t love you back. You wouldn’t love GE or Exxon or Comcast — and you shouldn’t love Apple. It’s not an exception to the rule: there are no exceptions.</p>
+
+<p>Apple doesn’t care about you personally in the least tiny bit, and if you were in their way somehow, they would do whatever their might — effectively infinite compared to your own — enables them to deal with you.</p>
+
+<p>Luckily, Apple has just provided us all with a reminder. Just like the sixth finger in an AI-rendered hand, Apple’s policies for <a href="https://developer.apple.com/support/storekit-external-entitlement-us/">Distributing apps in the U.S. that provide an external purchase link</a> are startlingly graceless and a jarring, but not surprising, reminder that Apple is not a real person and not worthy of your love.</p>
+
+<span class="feed-item-link">
+<a href="https://inessential.com/2024/01/17/corporations_are_not_to_be_loved">https://inessential.com/2024/01/17/corporations_are_not_to_be_loved</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://inessential.com/2024/01/17/corporations_are_not_to_be_loved">Save to Pocket</a>
+</span>
+
+---
+
+##  Flickr Commons celebrated its 16th birthday with 16 stories about some of... 
+
+date: 2024-01-17, updated: 2024-01-17, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043795-flickr-commons-celebrated">https://kottke.org/24/01/0043795-flickr-commons-celebrated</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043795-flickr-commons-celebrated">Save to Pocket</a>
+</span>
+
+---
+
+## Great Name, Terrible Shipping
+
+date: 2024-01-17, updated: 2024-01-17, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/01/17/great-name-terrible-shipping/">https://onefoottsunami.com/2024/01/17/great-name-terrible-shipping/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/01/17/great-name-terrible-shipping/">Save to Pocket</a>
+</span>
+
+---
+
+## Retro Programming (2017)
+
+date: 2024-01-17, from: Tilde.news
+
+<p><a href="https://tilde.news/s/i4ml5g/retro_programming_2017">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="http://www.retroprogramming.com">http://www.retroprogramming.com</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.retroprogramming.com">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-17, from: Miguel de Icaza Mastondon feed)
+
+<p>With the US backing for this bloodbath, there is no end in sight.  </p><p>Our entire government has outsourced their vote to their handlers at AIPAC.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111772605203896829">https://mastodon.social/@Migueldeicaza/111772605203896829</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111772605203896829">Save to Pocket</a>
+</span>
+
+---
+
+## 20 Years After Landing: How NASA’s Twin Rovers Changed Mars Science
+
+date: 2024-01-17, from: NASA breaking news
+
+This month marks the 20th anniversary of Spirit and Opportunity’s landing on Mars, part of a mission whose legacy will extend far into the future. In January 2004, twin NASA rovers named Spirit and Opportunity touched down on opposite sides of Mars, kicking off a new era of interplanetary robotic exploration. They arrived in dramatic [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/mer/20-years-after-landing-how-nasas-twin-rovers-changed-mars-science/">https://www.nasa.gov/missions/mer/20-years-after-landing-how-nasas-twin-rovers-changed-mars-science/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/mer/20-years-after-landing-how-nasas-twin-rovers-changed-mars-science/">Save to Pocket</a>
+</span>
+
+---
+
+##  The Artifact news app (by the Instagram founders) is shutting down because... 
+
+date: 2024-01-17, updated: 2024-01-17, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043791-the-artifact-news-app-by">https://kottke.org/24/01/0043791-the-artifact-news-app-by</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043791-the-artifact-news-app-by">Save to Pocket</a>
+</span>
+
+---
+
+## GUSTO Balloon Mission Maintains Course Circling Antarctic Skies
+
+date: 2024-01-17, from: NASA breaking news
+
+High above the icy landscape of Earth’s southernmost continent, the Galactic/Extragalactic ULDB Spectroscopic Terahertz Observatory (GUSTO) scientific balloon mission has been afloat for more than 15 days since its launch from McMurdo, Antarctica, on Dec. 31, 7:30 p.m. local time (Dec. 31, 1:30 a.m. EST). GUSTO is mapping a large portion of the Milky Way [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/gusto-balloon-mission-maintains-course-circling-antarctic-skies/">https://www.nasa.gov/image-article/gusto-balloon-mission-maintains-course-circling-antarctic-skies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/gusto-balloon-mission-maintains-course-circling-antarctic-skies/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Study: More Greenland Ice Lost Than Previously Estimated
+
+date: 2024-01-17, from: NASA breaking news
+
+A new, comprehensive analysis of satellite data finds that majority of glaciers on the landmass have retreated significantly. The Greenland Ice Sheet has shed about one-fifth more ice mass in the past four decades than previously estimated, researchers at NASA’s Jet Propulsion Laboratory in Southern California reported in a new paper. The majority of glaciers [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/earth/climate-change/ice-glaciers/nasa-study-more-greenland-ice-lost-than-previously-estimated/">https://www.nasa.gov/earth/climate-change/ice-glaciers/nasa-study-more-greenland-ice-lost-than-previously-estimated/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/earth/climate-change/ice-glaciers/nasa-study-more-greenland-ice-lost-than-previously-estimated/">Save to Pocket</a>
+</span>
+
+---
+
+## Michael Thorpe Studies Sediment from Source to Sink
+
+date: 2024-01-17, from: NASA breaking news
+
+Sedimentary and planetary geologist Michael Thorpe finds the stories rocks have to tell, those on Earth and those from Mars.
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/people-of-nasa/goddard-people/michael-thorpe-studies-sediment-from-source-to-sink/">https://www.nasa.gov/people-of-nasa/goddard-people/michael-thorpe-studies-sediment-from-source-to-sink/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/people-of-nasa/goddard-people/michael-thorpe-studies-sediment-from-source-to-sink/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -33,6 +357,18 @@ We all know the direction of travel, even if we don’t know the stats off by he
 
 ---
 
+## How The New York Times is building experimental handwriting recognition for its crosswords app
+
+date: 2024-01-17, from: Nieman Journalism Lab
+
+As part of MakerWeek 2023, The New York Times&#8217; annual hackathon, iOS and Android mobile engineers explored the ability to write in The New York Times Crosswords app on each respective platform. As an Android engineer who participated in the experiment, I’m excited to share my platform specific experience implementing on-device ML onto the Android...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/how-the-new-york-times-is-building-experimental-handwriting-recognition-for-its-crosswords-app/">https://www.niemanlab.org/2024/01/how-the-new-york-times-is-building-experimental-handwriting-recognition-for-its-crosswords-app/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/how-the-new-york-times-is-building-experimental-handwriting-recognition-for-its-crosswords-app/">Save to Pocket</a>
+</span>
+
+---
+
 ## NASA’s Roman to Search for Signs of Dark Matter Clumps
 
 date: 2024-01-17, from: NASA breaking news
@@ -41,6 +377,18 @@ Some of the finest, smallest details in the universe – the gaps between elonga
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-search-for-signs-of-dark-matter-clumps/">https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-search-for-signs-of-dark-matter-clumps/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-search-for-signs-of-dark-matter-clumps/">Save to Pocket</a>
+</span>
+
+---
+
+## Signs that you need a technical writer
+
+date: 2024-01-17, from: Blog by Fabrizio Ferri-Benedetti
+
+<p>Soon after publishing <a href="https://passo.uno/tips-hiring-tech-writers/">Tips for hiring your first technical writer</a>, some readers kindly suggested to follow up with a post covering the previous step in the tech writing journey, that is, the <em>realization</em> that one needs a technical writer. As there seems to be a strong appetite for this kind of content, I&rsquo;m going to spend some words to list what I think are the most egregious signs that your team, company, or product requires a technical writer (or a tech writing team).</p>
+
+<span class="feed-item-link">
+<a href="https://passo.uno/signs-need-tech-writer/">https://passo.uno/signs-need-tech-writer/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://passo.uno/signs-need-tech-writer/">Save to Pocket</a>
 </span>
 
 ---
@@ -316,7 +664,7 @@ date: 2024-01-17, updated: 2024-01-17, from: Jason Kottke blog
 
 **@Dave Winer's Scripting News** (date: 2024-01-17, from: Dave Winer's Scripting News)
 
-<a href="https://cagrimmett.com/micro/aa2835f451/#comment-34471">Notes</a> on the <a href="http://source.scripting.com/#1405339599000">archive element</a> in the <a href="http://source.scripting.com/">source namespace</a>. It's important that we share our ideas and collaborate, and listen and ask the right people to help. Manton was asking why weren't his ideas on archiving incorporated in other people's work, it's the same concern I have, why didn't we work together on this Manton? Two heads are better than one in things like this. I think Automattic may be the place to get together on this. Esp since they are the market leader now in this area. What they do, right off the bat, has to be supported everywhere, so we want them to do a good job. <span class="spOldSchoolEmoji">😄</span>
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/04/29/raisins.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://cagrimmett.com/micro/aa2835f451/#comment-34471">Notes</a> on the <a href="http://source.scripting.com/#1405339599000">archive element</a> in the <a href="http://source.scripting.com/">source namespace</a>. It's important that we share our ideas and collaborate, and listen and ask the right people to help. Manton was asking why weren't his ideas on archiving incorporated in other people's work, it's the same concern I have, why didn't we work together on this Manton? Two heads are better than one in things like this. I think Automattic may be the place to get together on this. Esp since they are the market leader now in this area. What they do, right off the bat, has to be supported everywhere, so we want them to do a good job. <span class="spOldSchoolEmoji">😄</span>
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2024/01/17.html#a142928">http://scripting.com/2024/01/17.html#a142928</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/17.html#a142928">Save to Pocket</a>
@@ -606,6 +954,18 @@ date: 2024-01-16, from: Manu - I write blog
 
 ---
 
+## Call for Proposals: Advancing Inclusive Computational Research with Archives Research Compute Hub
+
+date: 2024-01-16, from: Internet Archive Blog
+
+Last summer, Internet Archive launched ARCH (Archives Research Compute Hub), a research service that supports creation, computational analysis, sharing, and preservation of research datasets from terabytes and even petabytes of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.archive.org/2024/01/16/call-for-proposals-advancing-inclusive-computational-research-with-archives-research-compute-hub/">https://blog.archive.org/2024/01/16/call-for-proposals-advancing-inclusive-computational-research-with-archives-research-compute-hub/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.archive.org/2024/01/16/call-for-proposals-advancing-inclusive-computational-research-with-archives-research-compute-hub/">Save to Pocket</a>
+</span>
+
+---
+
 ##  Cat and Girl comic: &#8220;On being listed on the court document of... 
 
 date: 2024-01-16, updated: 2024-01-16, from: Jason Kottke blog
@@ -681,6 +1041,18 @@ date: 2024-01-16, from: Care
 
 ---
 
+## NEXT WEEK: Celebrate the Public Domain In-Person & Online!
+
+date: 2024-01-16, from: Internet Archive Blog
+
+We&#8217;ve heard you loud and clear since January 1—you love the public domain! We do, too, so let&#8217;s celebrate together&#8230; Next week we have two events to help welcome the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.archive.org/2024/01/16/next-week-celebrate-the-public-domain-in-person-online/">https://blog.archive.org/2024/01/16/next-week-celebrate-the-public-domain-in-person-online/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.archive.org/2024/01/16/next-week-celebrate-the-public-domain-in-person-online/">Save to Pocket</a>
+</span>
+
+---
+
 ##  The Trailer for Adam Sandler&#8217;s Spaceman 
 
 date: 2024-01-16, updated: 2024-01-16, from: Jason Kottke blog
@@ -711,6 +1083,18 @@ date: 2024-01-16, updated: 2024-01-16, from: Jason Kottke blog
 
 <span class="feed-item-link">
 <a href="https://kottke.org/24/01/0043784-watch-the-synchronized-da">https://kottke.org/24/01/0043784-watch-the-synchronized-da</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043784-watch-the-synchronized-da">Save to Pocket</a>
+</span>
+
+---
+
+## The new Ubisoft+ and getting gamers comfortable with not owning their games
+
+date: 2024-01-16, from: Tilde.news
+
+<p><a href="https://tilde.news/s/w7ez6j/new_ubisoft_getting_gamers_comfortable">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games">https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.gamesindustry.biz/the-new-ubisoft-and-getting-gamers-comfortable-with-not-owning-their-games">Save to Pocket</a>
 </span>
 
 ---
@@ -1316,18 +1700,6 @@ date: 2024-01-15, from: Dave Winer's Scripting News
 
 ---
 
-## Episode 124 - The Full 360
-
-date: 2024-01-15, from: Advent of Computing
-
-<div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="66agm-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="66agm-0-0"><span data-offset-key= "66agm-0-0"><span data-text="true">The release of the IBM System/360 represents a major milestone in the history of computing. In 1964 IBM announced the 360 as the first family of compatible computers. Users could choose a system that was just the right size for their needs, mix and match peripherals, and have no fear of future upgrades. If you started on a low-end 360 you could move up to a top of the line model and keep all your software! Something like this had never been done before.</span></span></div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="8d02p-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8d02p-0-0"><span data-offset-key= "8d02p-0-0"><span data-text="true">Such a watershed moment resulted in interesting cascading effects. In this episode we will look at the 360 itself. In the coming weeks we will be examining how it shaped and dominated the market, how it led to a federal antitrust suit, and how a mysterious series of clone computers survived in uncertain times.</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8d02p-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="29hhn-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="29hhn-0-0"><span data-offset-key= "29hhn-0-0"><span data-text="true">Selected Sources:</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="29hhn-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="7hs73-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="7hs73-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm"> <span data-offset-key="7hs73-0-0"><span data-text= "true">https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm</span></span></a></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="7hs73-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="8jamu-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8jamu-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.computerhistory.org/resources/access/text/2012/11/102658255-05-01-acc.pdf"> <span data-offset-key="8jamu-0-0"><span data-text= "true">https://archive.computerhistory.org/resources/access/text/2012/11/102658255-05-01-acc.pdf</span></span></a> <span data-offset-key="8jamu-1-0"><span data-text="true">- Fred Brooks Oral History</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8jamu-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="1p29f-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1p29f-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.computerhistory.org/resources/access/text/2017/11/102655529-05-01-acc.pdf"> <span data-offset-key="1p29f-0-0"><span data-text= "true">https://archive.computerhistory.org/resources/access/text/2017/11/102655529-05-01-acc.pdf</span></span></a> <span data-offset-key="1p29f-1-0"><span data-text="true">- 14K Days</span></span></div> </div>
-
-<span class="feed-item-link">
-<a href="https://adventofcomputing.libsyn.com/episode-124-the-full-360">https://adventofcomputing.libsyn.com/episode-124-the-full-360</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-124-the-full-360">Save to Pocket</a>
-</span>
-
----
-
 ## pg_back 2.2.0 released
 
 date: 2024-01-15, from: PostgreSQL News
@@ -1734,12 +2106,10 @@ date: 2024-01-14, from: Dave Rupert blog
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="bash">cargo <span class="nb">install </span>stitchy
 </code></pre></div></div>
 <p>Use Stitchy</p>
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="bash">stitchy image1.png image2.png
-</code></pre></div></div>
-<p>If you’re feeling even lazier and don’t want to type file names, you can have Stitchy grab the <code>n</code> latest images in the directory and/or set the <code>--order</code> flag to <code>alphabetical</code>.</p>
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="bash">stitchy 4 
 stitchy 4 <span class="nt">--order</span><span class="o">=</span>alphabetical 
 </code></pre></div></div>
+<p>By default Stitchy grabs the <code>n</code> latest images in the directory, but you can set the <code>--order</code> flag to <code>alphabetical</code>. I typically put them in a temporary <code>stitch/</code> directory on my Desktop to stitch images up.</p>
 <h2>Stitchy for responsive images</h2>
 <p>By default Stitchy will assemble the images in order in a tight grid. Where Stitchy shines is generating responsive images where you might show a grid of images on mobile and a horizontal filmstrip on desktop.</p>
 <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="bash">stitchy 4     <span class="c"># layout images in a grid</span>
@@ -1764,6 +2134,8 @@ stitchy 4 <span class="nt">--jpg</span> <span class="nt">--quality</span><span c
 <h2>Enjoy Stitchy</h2>
 <p>And that’s Stitchy! It’s pretty handy if you ask me.</p>
 <p>I wrote this post because I use it so infrequently and there’s not much documentation beyond the <code>--help</code> command, so I wanted to have this to remember how to use it.</p>
+<hr />
+<p><em>Edit</em>: A previous version of this post said you could do <code>stitchy image1.png image2.png</code> but that was a mistake. Thanks to <a href="https://elk.zone/mastodon.social/@jwithy@social.lol/111768665987373592">jwithy</a> for pointing that out.</p>
 
 <span class="feed-item-link">
 <a href="https://daverupert.com/2024/01/stitchy/">https://daverupert.com/2024/01/stitchy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/01/stitchy/">Save to Pocket</a>

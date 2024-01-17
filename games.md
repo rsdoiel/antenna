@@ -1,11 +1,83 @@
 ---
 title: games 2024.03
-updated: 2024-01-17 08:55:23
+updated: 2024-01-17 14:53:00
 ---
 
 # games 2024.03
 
-(date: 2024-01-17 08:55:23)
+(date: 2024-01-17 14:53:00)
+
+---
+
+## Chainsaw Man, Jujutsu Kaisen dominate 2024’s Anime Awards nominations
+
+date: 2024-01-17, updated: 2024-01-17, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24041648/anime-awards-2024-best-anime-nominees-crunchyroll">https://www.polygon.com/24041648/anime-awards-2024-best-anime-nominees-crunchyroll</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24041648/anime-awards-2024-best-anime-nominees-crunchyroll">Save to Pocket</a>
+</span>
+
+---
+
+## Rock Band DLC is ending after 8 years and 3,000 songs
+
+date: 2024-01-17, updated: 2024-01-17, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24041833/rock-band-4-dlc-ending-fortnite-festival-harmonix">https://www.polygon.com/24041833/rock-band-4-dlc-ending-fortnite-festival-harmonix</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24041833/rock-band-4-dlc-ending-fortnite-festival-harmonix">Save to Pocket</a>
+</span>
+
+---
+
+## Rocksteady founders have a new, post-Suicide Squad studio
+
+date: 2024-01-17, updated: 2024-01-17, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24040541/rocksteady-studios-founders-new-studio-hundred-star-games">https://www.polygon.com/24040541/rocksteady-studios-founders-new-studio-hundred-star-games</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24040541/rocksteady-studios-founders-new-studio-hundred-star-games">Save to Pocket</a>
+</span>
+
+---
+
+## Lethal Company was bound to blow up — and now it’s everywhere on social media
+
+date: 2024-01-17, updated: 2024-01-17, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24040561/lethal-company-roblox-popularity-explained">https://www.polygon.com/24040561/lethal-company-roblox-popularity-explained</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24040561/lethal-company-roblox-popularity-explained">Save to Pocket</a>
+</span>
+
+---
+
+## Vince Staples’ Netflix show looks like a cross between Atlanta and Uncut Gems
+
+date: 2024-01-17, updated: 2024-01-17, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24041630/vince-staples-show-netflix-trailer-release-date-cast">https://www.polygon.com/24041630/vince-staples-show-netflix-trailer-release-date-cast</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24041630/vince-staples-show-netflix-trailer-release-date-cast">Save to Pocket</a>
+</span>
+
+---
+
+## Bandle Tale is the chill and cozy take we needed on League of Legends
+
+date: 2024-01-17, updated: 2024-01-17, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24040540/bandle-tale-league-legends-story-review-cozy-crafting-rpg">https://www.polygon.com/24040540/bandle-tale-league-legends-story-review-cozy-crafting-rpg</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24040540/bandle-tale-league-legends-story-review-cozy-crafting-rpg">Save to Pocket</a>
+</span>
 
 ---
 

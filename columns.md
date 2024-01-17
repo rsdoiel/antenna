@@ -1,11 +1,35 @@
 ---
 title: columns 2024.03
-updated: 2024-01-17 08:55:23
+updated: 2024-01-17 14:53:00
 ---
 
 # columns 2024.03
 
-(date: 2024-01-17 08:55:23)
+(date: 2024-01-17 14:53:00)
+
+---
+
+## Apple Set to Collect $73 Million in Legal Fees From Epic Games
+
+date: 2024-01-17, updated: 2024-01-17, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://twitter.com/games_fray/status/1747504304695484810?s=20">https://twitter.com/games_fray/status/1747504304695484810?s=20</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://twitter.com/games_fray/status/1747504304695484810?s=20">Save to Pocket</a>
+</span>
+
+---
+
+## ★ Coming to Grips With Apple’s Seemingly Unshakable Sense of Entitlement to Its Commissions From Third-Party iOS Apps
+
+date: 2024-01-17, updated: 2024-01-17, from: Daring Fireball
+
+No matter what the sport, no matter what the letter of the rulebook says, it’s never a good idea to piss off the refs.
+
+<span class="feed-item-link">
+<a href="https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement">https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/2024/01/coming_to_grips_with_apples_seemingly_unshakable_sense_of_app_store_entitlement">Save to Pocket</a>
+</span>
 
 ---
 

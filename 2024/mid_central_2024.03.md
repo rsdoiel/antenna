@@ -1,11 +1,11 @@
 ---
 title: mid central 2024.03
-updated: 2024-01-17 08:55:22
+updated: 2024-01-17 14:53:00
 ---
 
 # mid central 2024.03
 
-(date: 2024-01-17 08:55:22)
+(date: 2024-01-17 14:53:00)
 
 ---
 
@@ -17,6 +17,18 @@ date: 2024-01-17, updated: 2024-01-17, from: Merced, Weather.gov CAP v1.1 alerts
 
 <span class="feed-item-link">
 <a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
+</span>
+
+---
+
+## ARRL is New Publisher of Gordon West, WB6NOA
+
+date: 2024-01-17, from: Amateur Radio Relay League News
+
+<p><b>Download Press Release (PDF)</b></p><p>ARRL<span>  </span>The National Association for Amateur Radio® has become the new publisher of the Amateur Radio License Preparation books and related resources authored by Gordon West, WB6NOA. Gordon West’s popular books, classes, and audio courses have been a mainstay of amateur radio licensing for over 40 years. Generations of hams have learned from ‘Gordo’, and now the impact...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/arrl-is-new-publisher-of-gordon-west-wb6noa">http://www.arrl.org/news/view/arrl-is-new-publisher-of-gordon-west-wb6noa</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/arrl-is-new-publisher-of-gordon-west-wb6noa">Save to Pocket</a>
 </span>
 
 ---

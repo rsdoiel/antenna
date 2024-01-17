@@ -1,14 +1,10 @@
-https://reb00ted.org/index.xml "~reb00ted blog (Johannes Ernst)"
-https://go-colly.org/articles/index.xml "~Coly blog (Golang web scraper library)"
 https://infrequently.org/feed/ "~Alex Russel's blog"
 http://www.spagmag.org/feed/ "~SPAG Magizine blog"
-https://www.postgresql.org/news.rss "~PostgreSQL News"
 https://us-rse.org/feed.xml "~The United States Research Software Engineer Association"
 https://daverupert.com/atom.xml "~Dave Rupert blog"
 https://www.cnps.org/feed "~California Native Plants Society"
 https://www.cnps-scv.org/?format=feed&type=rss "~California Native Plants Society, Santa Clarita"
 https://antonz.org/all/index.xml "~Anton Zhiyanov blog"
-https://adventofcomputing.libsyn.com/rss "~Advent of Computing"
 #https://us11.campaign-archive.com/feed?u=b45e3f84fc6604dfac0c95efa&id=aba581b08e "~Ion Caltech"
 https://blueskyweb.xyz/rss.xml "~Bluesky web news"
 https://www.postguam.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc "~Guam Daily Post"
@@ -17,7 +13,6 @@ https://www.hawaiipublicradio.org/index.rss "~Hawaii Public Radio"
 #https://www.staradvertiser.com/feed/ "~Honolulu Star Advertiser"
 https://www.hawaiitribune-herald.com/feed/ "~Hawaii Tribune Harold"
 # SoCal North's feeds.
-#http://cas.inf.ethz.ch/projects/a2/activity.atom "~Oberon A2 Forums at CAS"
 #https://blog.tomasino.org/index.xml "~James Tomosino's blog" # index.xml not being produced, 2023-10-10
 #https://bricks.stackexchange.com/feeds "~Lego Bricks feeds from stack exchange"
 #https://buzzmachine.com/feed/ "~Buzz Machine"
@@ -36,7 +31,6 @@ https://www.hawaiitribune-herald.com/feed/ "~Hawaii Tribune Harold"
 #https://tink.co.uk/feed/ "~Tink's blog" # link seems to have changed, 2023-10-10
 #https://www.oceanographerschoice.com/feed/ # Site not found, 2023-10-10
 #https://www.quantum.danconover.com/feed/ "~Dan Conover" # broken WP site as of 2023-10-10
-#https://www.riscosblog.co.uk/?feed=rss2 "~RiscOS Blog" # feed no longer produced, 2023-10-10
 #https://www.snopes.com/feed/ "~Snopes"
 #https://www.storythings.com/blog?format=RSS # blog is no more, 2023-10-10
 http://blog.bloonface.com/feed/ "~Bloonface Blog"
@@ -53,8 +47,6 @@ http://jirka.1-2-8.net/blog-rss.xml "~Jirka's blog"
 http://l2program.co.uk/feed "~Joss Whittle, The rantings of a mad scientist"
 https://solar.lowtechmagazine.com/posts/index.xml "~Blog Muffinlabs"
 http://doc.blog/rss.xml "~Doc Searls' doc.blog"
-http://pascal.hansotten.com/feed/ "~Hans Otten's Pascal Blog"
-http://pascal.hansotten.com/feed/ "~Pascal for small machines"
 http://riscosblog.huber-net.de/feed/ "~Hubersn RISC OS blog"
 http://scripting.com/rss.xml "~Dave Winer's Scripting News"
 https://www.digitalrhetoriccollaborative.org/feed/ "~Digital Humanities Quarterly News"
@@ -146,7 +138,6 @@ https://futureoftheinternet.org/feed/ "~Future of the Internet"
 #https://gabrielinotribe.org/feed/ "~Tongva Tribal News"
 https://garymarcus.substack.com/feed "~Gary Marcus blog"
 https://gilmi.me/blog/atom.xml "~Gil Mizrahi's blog"
-https://gitlab.inf.ethz.ch/felixf/oberon.atom "~Oberon A2 at CAS"
 https://glammr.us/@IIIF.rss "~IIIF Mastodon feed"
 https://goblog.app/.rss "~Goblog blog"
 https://gwern.substack.com/feed "~Gwern Branwen's blog"
@@ -155,7 +146,6 @@ https://hachyderm.io/@serickson.rss "~Seth Erickson's Mastodon feed"
 https://hacks.mozilla.org/feed/ "~Mozilla Developer Network blog"
 https://www.sustainabilitybynumbers.com/feed "~Hannah Richie at Substack"
 https://heatmap.news/feeds/feed.rss "~Heatmap News"
-https://herschel.oberon.org/atom.xml "~Herschel @ oberon.org"
 #moved to news2.txt
 #http://hssonline.org/resource/rss/news.rss "~History of Science online"
 https://idlewords.com/index.xml "~Idlewords blog"
@@ -345,16 +335,9 @@ https://www.oskitone.com/products.xml "~Oskitone product feed"
 https://www.osnews.com/feed/ "~OS News"
 https://www.pcjs.org/feed.xml "~PCjs Blog"
 https://www.portofhueneme.org/feed/ "~Port Hueneme"
-# Rand blogs and RSS feeds seemed to have been removed, 2023-10-31 RSD
-#https://www.rand.org/blog.xml "~RAND organizational blog"
-#https://www.rand.org/news/press.xml "~RAND press releases"
 https://www.raspberrypi.com/news/feed/ "~Raspberry Pi News (.com)"
 https://www.raspberrypi.org/feed/ "~Raspberry Pi (.org)"
-https://rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://www.redox-os.org/news/index.xml "~Redox OS News"
-https://www.research-collection.ethz.ch/feed/rss_2.0/site "~ETH Zurich, recently added"
-https://www.riscository.com/feed/ "~RiscOS Story"
-https://www.riscosopen.org/news/xml/rss20/feed.xml "~RiscOS Open"
 #https://www.sandiegouniontribune.com/news.rss "~San Diego Tribune News"
 https://www.schneier.com/feed/atom/ "~Bruce Schneier blog"
 https://www.sevarg.net/feed.xml "~Russell Graves, Syonyk's Project Blog"
@@ -391,10 +374,20 @@ https://www.fromjason.xyz/notebook/feed/feed.xml "~Jason Valazquez noteboook" cu
 http://data.feedland.org/feeds/davewiner.xml "~Dave Winer's linkblog"
 https://heathercoxrichardson.substack.com/feed "~Heather Cox Richardson blog"
 https://feeds.feedburner.com/NiemanJournalismLab "~Nieman Journalism Lab"
+https://www.levernews.com/rss/ "~The Lever News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #
 # Literature, Writing and Writers
 #
+
+#
+# Software Research (Acedemic and Industrial)
+#
+https://www.research-collection.ethz.ch/feed/rss_2.0/site "~ETH Zurich, recently added"
+https://rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+#http://cas.inf.ethz.ch/projects/a2/activity.atom "~Oberon A2 Forums at CAS"
+https://gitlab.inf.ethz.ch/felixf/oberon.atom "~Oberon A2 at CAS"
+https://bair.berkeley.edu/blog/feed.xml "Berkley Artificial Intellegence Research Blog"
 
 #
 # Software, Technology, and Science
@@ -403,7 +396,6 @@ https://feeds.feedburner.com/NiemanJournalismLab "~Nieman Journalism Lab"
 https://medium.com/feed/@hywan "~Ivan Enderlin's Medium Wasmer announcements" 
 https://conoroneill.net/index.xml "~Conor O'Niell's blog, Cross Dominant"
 https://chriscoyier.net/feed/ "~Chris Coyier blog"
-https://bair.berkeley.edu/blog/feed.xml "Berkley Artificial Intellegence Research Blog"
 https://api.quantamagazine.org/feed/ "~Quanta Magazine" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #
@@ -417,10 +409,25 @@ https://www.htmhell.dev/feed_tips.xml "~HTMH(ell) newsletter, improving the web 
 https://openrss.org/rss "~Open RSS Blog"
 
 #
+# Programming language blogs
+#
+https://go-colly.org/articles/index.xml "~Coly blog (Golang web scraper library)"
+https://www.postgresql.org/news.rss "~PostgreSQL News"
+https://herschel.oberon.org/atom.xml "~Herschel @ oberon.org"
+https://adventofcomputing.libsyn.com/rss "~Advent of Computing"
+#http://pascal.hansotten.com/feed/ "~Hans Otten's Pascal Blog"
+http://pascal.hansotten.com/feed/ "~Hans Otten's, Pascal for small machines"
+
+#
 # Retro computing
 #
 http://www.retroprogramming.com/feeds/posts/default?alt=rss "~Retro Programming blog"
 https://www.go4retro.com/feed/ "~Retro Innovations blog"
+https://www.ccc.de/de/rss/updates.xml "~Chaos Computer Club Updates" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://media.ccc.de/news.atom "~Chaos Computer Club News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+#https://www.riscosblog.co.uk/?feed=rss2 "~RiscOS Blog" # feed no longer produced, 2023-10-10
+https://www.riscository.com/feed/ "~RiscOS Story"
+https://www.riscosopen.org/news/xml/rss20/feed.xml "~RiscOS Open"
 
 #
 # Library, Archives and Museums
@@ -433,9 +440,14 @@ https://www.arl.org/feed/ "~Association of Research Libraries News"
 
 
 #
-# Policy
+# Public Policy
 #
+# Rand blogs and RSS feeds seemed to have been removed, 2023-10-31 RSD
+#https://www.rand.org/blog.xml "~RAND organizational blog"
+#https://www.rand.org/news/press.xml "~RAND press releases"
+# The blog URL seems to be active again, 2024-01-10
 https://www.rand.org/blog.xml "~RAND blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+https://reb00ted.org/index.xml "~reb00ted blog (Johannes Ernst, sustainabilty done fairly)"
 
 #
 # Problem feeds
@@ -452,9 +464,6 @@ https://www.lagq.com/news?format=RSS "~L.A.G.Q. news" curl/8.5.0
 #
 # New feeds to try
 #
-https://www.levernews.com/rss/ "~The Lever News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://www.ccc.de/de/rss/updates.xml "~Chaos Computer Club Updates" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-https://media.ccc.de/news.atom "~Chaos Computer Club News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://timkellogg.me/blog/atom.xml "~Tom Kellog blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://maggieappleton.com/rss.xml "~Maggie Appleton blog"
 https://www.oneusefulthing.org/feed "~One Useful Thing"
