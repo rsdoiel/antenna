@@ -1,22 +1,69 @@
 ---
 title: weather 2024.03
-updated: 2024-01-17 14:53:00
+updated: 2024-01-17 17:31:50
 ---
 
 # weather 2024.03
 
-(date: 2024-01-17 14:53:00)
+(date: 2024-01-17 17:31:50)
 
 ---
 
-## SPC - No watches are valid as of Wed Jan 17 22:13:02 UTC 2024
+## SPC - No watches are valid as of Thu Jan 18 00:45:01 UTC 2024
 
-date: 2024-01-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-01-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Wed Jan 17 22:13:02 UTC 2024.
+No watches are valid as of Thu Jan 18 00:45:01 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No MDs are in effect as of Thu Jan 18 00:45:01 UTC 2024
+
+date: 2024-01-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu Jan 18 00:45:01 UTC 2024.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 18, 2024 0100 UTC Day 1 Convective Outlook
+
+date: 2024-01-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0619 PM CST Wed Jan 17 2024
+
+Valid 180100Z - 181200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Thunderstorms remain unlikely tonight.
+
+...01z Update...
+
+Stable conditions exist across the CONUS this evening with offshore
+flow now dominant across the FL Peninsula. Any meaningful buoyancy
+has been shunted south of the FL Straits, thus the prospect for
+lightning is very low tonight.
+
+..Darrow.. 01/18/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">Save to Pocket</a>
 </span>
 
 ---
@@ -242,18 +289,6 @@ Thus, thunderstorms are not expected through Thursday morning.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No MDs are in effect as of Wed Jan 17 15:55:02 UTC 2024
-
-date: 2024-01-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed Jan 17 15:55:02 UTC 2024.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
 </span>
 
 ---

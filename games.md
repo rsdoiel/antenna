@@ -1,11 +1,35 @@
 ---
 title: games 2024.03
-updated: 2024-01-17 14:53:00
+updated: 2024-01-17 17:31:50
 ---
 
 # games 2024.03
 
-(date: 2024-01-17 14:53:00)
+(date: 2024-01-17 17:31:50)
+
+---
+
+## How to watch the Xbox Developer Direct 2024
+
+date: 2024-01-17, updated: 2024-01-17, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/xbox/24031418/xbox-developer-direct-event-time-when-indiana-jones">https://www.polygon.com/xbox/24031418/xbox-developer-direct-event-time-when-indiana-jones</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/xbox/24031418/xbox-developer-direct-event-time-when-indiana-jones">Save to Pocket</a>
+</span>
+
+---
+
+## Netflix finally cares about old movies again
+
+date: 2024-01-17, updated: 2024-01-17, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24041818/netflix-old-movies-milestone-collection-chinatown-blazing-saddles">https://www.polygon.com/24041818/netflix-old-movies-milestone-collection-chinatown-blazing-saddles</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24041818/netflix-old-movies-milestone-collection-chinatown-blazing-saddles">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,183 @@
 ---
 title: parks 2024.03
-updated: 2024-01-17 14:53:00
+updated: 2024-01-17 17:31:50
 ---
 
 # parks 2024.03
 
-(date: 2024-01-17 14:53:00)
+(date: 2024-01-17 17:31:50)
+
+---
+
+## BLM and partner conduct monitoring effort on the San Pedro Riparian National Conservation Area
+
+date: 2024-01-17, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>BLM and partner conduct monitoring effort on the San Pedro Riparian National Conservation Area</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="d5e9f4e9-c187-4f90-ae47-ecbafd90c282" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/Photo%204_volunteers_pose_for_picture.jpg?itok=4aVRWQiE" width="640" height="480" alt="Four volunteers pose for a photo." typeof="foaf:Image" /></div>
+      
+</div>
+</div>
+<figcaption>The Association of Arizona Conservation Districts volunteers pose for a photo while collecting Assessment, Inventory, and Monitoring (AIM) data on the San Pedro Riparian National Conservation Area.</figcaption></figure><p paraeid="{c72fc259-a156-479c-926b-095eff77ed12}{231}" paraid="1867219868">The BLM Tucson Field Office partnered with an <a href="https://www.aacd1944.com/" rel="noreferrer noopener" target="_blank">Association of Arizona Conservation Districts</a> (AACD) crew in fall 2023 to collect Assessment, Inventory, and Monitoring (AIM) data on the San Pedro Riparian National Conservation Area (SPRNCA), part of the recently established <a href="https://www.blm.gov/press-release/presidents-investing-america-agenda-invest-152-million-restoration-work-arizona" rel="noreferrer noopener" target="_blank">Sky Islands Restoration Landscape.</a>  </p>
+
+<p paraeid="{73bb29aa-718c-4cd2-9c37-d9a0359af47e}{28}" paraid="121509116">AACD volunteers collected data in the uplands, which is the ground above the lowlands along rivers and between hills, within the portions of the SPRNCA authorized for livestock grazing. This work was funded through the <a href="https://www.doi.gov/inflation-reduction-act#:~:text=The%20Inflation%20Reduction%20Act%20provides%20%24700%20million%20to%20advance%20conservation,at%20the%20National%20Park%20Service." rel="noreferrer noopener" target="_blank">Inflation Reduction Act</a> and completed through an assistance agreement with AACD. </p>
+
+<p paraeid="{73bb29aa-718c-4cd2-9c37-d9a0359af47e}{76}" paraid="1100032743">The Tucson Field Office collects AIM data to assess the condition and trend of plant communities on the SPRNCA, located in southeastern Arizona. The collected AIM data will be used to assess overall condition and trend of upland resources, inform management decisions, and assess vegetation treatment effectiveness. </p>
+
+<p paraeid="{73bb29aa-718c-4cd2-9c37-d9a0359af47e}{155}" paraid="313308010">This monitoring data is critical to improving upland conditions on the SPRNCA. The goal is to improve upland conditions using a combination of vegetation treatments and grazing management, including herbicide treatment, prescribed fire, erosion control, and rest rotational grazing. AIM data provides critical information to determine the effectiveness of management strategies in meeting established objectives.</p>
+
+<p paraeid="{73bb29aa-718c-4cd2-9c37-d9a0359af47e}{206}" paraid="1684449467">A similar approach will be implemented on the rest of the SPRNCA and surrounding watershed. Utilizing <a href="https://www.doi.gov/investing-americas-infrastructure" rel="noreferrer noopener" target="_blank">Bipartisan Infrastructure Law</a> (BIL) funding, the Tucson Field Office resource staff and Gila District fuels staff have begun addressing conservation and restoration needs through the San Pedro Watershed Restoration Environmental Assessment (EA).</p>
+
+<figure role="group"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cd801415-8379-448b-a42b-bda93431199f" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/Photo%205_volunteers_conduct_AIM_monitoring_on_the_SPRNCA.jpg?itok=S0SYzqgw" width="640" height="296" alt="Four people stand in a field, two holding poles and two looking down at the ground with mountains in the background." typeof="foaf:Image" /></div>
+      
+</div>
+</div>
+<figcaption>In fall 2023, volunteers conduct AIM monitoring on the San Pedro Riparian National Conservation Area in Arizona.</figcaption></figure><p paraeid="{73bb29aa-718c-4cd2-9c37-d9a0359af47e}{255}" paraid="1353247340">While still in the early National Environmental Policy Act planning phases, this EA will address current ecological conditions on the SPRNCA and surrounding watershed and propose a variety of restoration treatments to improve plant community and soil conditions. Some BIL funding for this effort will also be used to expand AIM monitoring to more areas of the SPRNCA.</p>
+
+<p paraeid="{73bb29aa-718c-4cd2-9c37-d9a0359af47e}{255}" paraid="1353247340">The Tucson Field Office will continue to partner with AACD to use AIM data to determine suitable restoration treatments and assess treatment effectiveness with the goal of improved resource conditions set forth in the 2019 San Pedro Riparian National Conservation Area Resource Management Plan.  </p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/arizona" hreflang="en">Arizona</a></div>
+          <div><a href="https://www.blm.gov/region/gila-do" hreflang="en">Gila DO</a></div>
+          <div><a href="https://www.blm.gov/region/tucson-fo" hreflang="en">Tucson FO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/partnerships" hreflang="en">Partnerships</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-01-17T12:00:00Z">Wed, 01/17/2024 - 12:00 pm UTC</time></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/tucson-field-office" hreflang="en">Tucson Field Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46488/edit" hreflang="en">BLM Tucson Field Office partnered with an Association of Arizona Conservation Districts (AACD) crew in fall 2023 to collect Assessment, Inventory, and Monitoring (AIM) data on the San Pedro Riparian National Conservation Area</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/assessment-inventory-and-monitoring" hreflang="en">Assessment, Inventory, and Monitoring</a></div>
+              <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
+              <div><a href="https://www.blm.gov/tag/san-pedro-riparian-national-conservation-area" hreflang="en">San Pedro Riparian National Conservation Area</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/arizona" hreflang="en">Arizona</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46488/edit" hreflang="en">BLM Tucson Field Office partnered with an Association of Arizona Conservation Districts (AACD) crew in fall 2023 to collect Assessment, Inventory, and Monitoring (AIM) data on the San Pedro Riparian National Conservation Area</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-01-17/blm-arizona-monitoring-san-pedro-riparian-national-conservation-area">https://www.blm.gov/blog/2024-01-17/blm-arizona-monitoring-san-pedro-riparian-national-conservation-area</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-01-17/blm-arizona-monitoring-san-pedro-riparian-national-conservation-area">Save to Pocket</a>
+</span>
 
 ---
 

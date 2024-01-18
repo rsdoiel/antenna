@@ -1,11 +1,61 @@
 ---
 title: pacific 2024.03
-updated: 2024-01-17 14:53:00
+updated: 2024-01-17 17:31:50
 ---
 
 # pacific 2024.03
 
-(date: 2024-01-17 14:53:00)
+(date: 2024-01-17 17:31:50)
+
+---
+
+## Dementia risk factors differ among ethnicities
+
+date: 2024-01-18, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Approximately 23&#37; of Alzheimer’s and related dementia cases in individuals aged 65 and older can be linked to controllable risk factors.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/17/diversity-in-dementia-risk-factors/">Dementia risk factors differ among ethnicities</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/17/diversity-in-dementia-risk-factors/">https://www.hawaii.edu/news/2024/01/17/diversity-in-dementia-risk-factors/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/17/diversity-in-dementia-risk-factors/">Save to Pocket</a>
+</span>
+
+---
+
+## Yap governor seeks cut in national government's share of COFA funds 
+
+date: 2024-01-18, from: Pacific Island Times
+
+By Joyce McClure Yap Gov. Charles S. Chieng is seeking the repeal of a public law that raised the national government’s allotment from...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/yap-governor-seeks-cut-in-national-government-s-share-of-cofa-funds">https://www.pacificislandtimes.com/post/yap-governor-seeks-cut-in-national-government-s-share-of-cofa-funds</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/yap-governor-seeks-cut-in-national-government-s-share-of-cofa-funds">Save to Pocket</a>
+</span>
+
+---
+
+## UH med school wins national professionalism education award
+
+date: 2024-01-18, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The annual award honors an institution for best practices in the education and practice of medical professionalism.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/17/jansom-national-pro-ed-award/"><abbr>UH</abbr> med school wins national professionalism education award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/17/jansom-national-pro-ed-award/">https://www.hawaii.edu/news/2024/01/17/jansom-national-pro-ed-award/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/17/jansom-national-pro-ed-award/">Save to Pocket</a>
+</span>
+
+---
+
+## †Marsha Jane Pinaula Barcinas
+
+date: 2024-01-17, updated: 2024-01-17, from: Marianas Variety
+
+
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/obituaries/marsha-jane-pinaula-barcinas/article_e56749da-b589-11ee-8f24-fbae464fe189.html">https://www.mvariety.com/obituaries/marsha-jane-pinaula-barcinas/article_e56749da-b589-11ee-8f24-fbae464fe189.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/obituaries/marsha-jane-pinaula-barcinas/article_e56749da-b589-11ee-8f24-fbae464fe189.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -152,6 +202,30 @@ TANAPAG Middle School won the boys middle school division title by outlasting Ho
 
 <span class="feed-item-link">
 <a href="https://www.mvariety.com/sports/localsports/tanapag-bags-softball-title-via-walk-off/article_d55b893a-b51f-11ee-87f7-37ffb7fc50aa.html">https://www.mvariety.com/sports/localsports/tanapag-bags-softball-title-via-walk-off/article_d55b893a-b51f-11ee-87f7-37ffb7fc50aa.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/tanapag-bags-softball-title-via-walk-off/article_d55b893a-b51f-11ee-87f7-37ffb7fc50aa.html">Save to Pocket</a>
+</span>
+
+---
+
+## Red Cross volunteers assist fire victims
+
+date: 2024-01-17, updated: 2024-01-17, from: Marianas Variety
+
+AMERICAN Red Cross-NMI Chapter volunteers responded to a structure fire in Garapan on Sunday and assisted a total of 10 people who were displaced as a result of the fire.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/red-cross-volunteers-assist-fire-victims/article_cdfcc232-b545-11ee-8547-439284ca46bb.html">https://www.mvariety.com/news/local/red-cross-volunteers-assist-fire-victims/article_cdfcc232-b545-11ee-8547-439284ca46bb.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/red-cross-volunteers-assist-fire-victims/article_cdfcc232-b545-11ee-8547-439284ca46bb.html">Save to Pocket</a>
+</span>
+
+---
+
+## Buccaneers playoff path is lined with potential opponents who beat them during the regular season
+
+date: 2024-01-17, updated: 2024-01-17, from: Marianas Variety
+
+TAMPA, Fla. (AP) — The NFL playoffs are shaping up as a redemption tour of sorts for Baker Mayfield and the Tampa Bay Buccaneers.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/buccaneers-playoff-path-is-lined-with-potential-opponents-who-beat-them-during-the-regular-season/article_5c4d5de8-b547-11ee-ade0-e3a2e0aa42fd.html">https://www.mvariety.com/sports/nationalsports/buccaneers-playoff-path-is-lined-with-potential-opponents-who-beat-them-during-the-regular-season/article_5c4d5de8-b547-11ee-ade0-e3a2e0aa42fd.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/buccaneers-playoff-path-is-lined-with-potential-opponents-who-beat-them-during-the-regular-season/article_5c4d5de8-b547-11ee-ade0-e3a2e0aa42fd.html">Save to Pocket</a>
 </span>
 
 ---

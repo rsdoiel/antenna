@@ -1,11 +1,86 @@
 ---
 title: socal north 2024.03
-updated: 2024-01-17 14:53:00
+updated: 2024-01-17 17:31:50
 ---
 
 # socal north 2024.03
 
-(date: 2024-01-17 14:53:00)
+(date: 2024-01-17 17:31:50)
+
+---
+
+## TV preview: Five upcoming shows to start watching this winter
+
+date: 2024-01-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+This winter&#8217;s television releases are cooler than ice.
+As a chill traverses the air, a new slate of sensational shows will be reaching the small screen.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/tv-preview-five-upcoming-shows-to-start-watching-this-winter/">https://dailybruin.com/2024/01/17/tv-preview-five-upcoming-shows-to-start-watching-this-winter/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/tv-preview-five-upcoming-shows-to-start-watching-this-winter/">Save to Pocket</a>
+</span>
+
+---
+
+## Newcomer Bianca Fernandez and UCLA women’s tennis win big in Las Vegas
+
+date: 2024-01-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Fernandez name had gone global.
+While her sister opened her singles run at the Australian Open, freshman Bianca Fernandez battled on Las Vegas courts. It was a familiar setting for the former, a seven-year WTA veteran, and anything but for the latter.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/newcomer-bianca-fernandez-and-ucla-womens-tennis-win-big-in-las-vegas/">https://dailybruin.com/2024/01/17/newcomer-bianca-fernandez-and-ucla-womens-tennis-win-big-in-las-vegas/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/newcomer-bianca-fernandez-and-ucla-womens-tennis-win-big-in-las-vegas/">Save to Pocket</a>
+</span>
+
+---
+
+## King Tides Reveal Increased Beach Erosion
+
+date: 2024-01-17, updated: 2024-01-17, from: The LAist
+
+Rising sea levels can cause the waves to reach farther ashore, causing more erosion.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/king-tides-reveal-increased-beach-erosion">https://laist.com/news/climate-environment/king-tides-reveal-increased-beach-erosion</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/king-tides-reveal-increased-beach-erosion">Save to Pocket</a>
+</span>
+
+---
+
+## Father, Christmas: A reconstructed wardrobe of migration
+
+date: 2024-01-17, from: The Sundail (CSUN Student Newspaper)
+
+As the temperatures drop in Southern California, I walk the frigid boulevard and find my thoughts rising and entwining with my frosty breath. The moon slung low and my hands wedged firmly in my pocket clasping my phone. Dreading the sporadically scheduled phone call to my aging father. The calls are few and far between...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177866/opinions/father-christmas-a-reconstructed-wardrobe-of-migration/">https://sundial.csun.edu/177866/opinions/father-christmas-a-reconstructed-wardrobe-of-migration/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177866/opinions/father-christmas-a-reconstructed-wardrobe-of-migration/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s golf beaten by Arizona in The Copper Cup championship
+
+date: 2024-01-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+It was a tournament of firsts for the Bruins.
+In a two-day tournament spanning Sunday to Monday, UCLA men&#8217;s golf competed in The Copper Cup &#8211; its first tournament of the new year &#8211; at Ak-Chin Southern Dunes Golf Club in Maricopa, Arizona.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/ucla-mens-golf-beaten-by-arizona-in-the-copper-cup-championship/">https://dailybruin.com/2024/01/17/ucla-mens-golf-beaten-by-arizona-in-the-copper-cup-championship/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/ucla-mens-golf-beaten-by-arizona-in-the-copper-cup-championship/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “Girl Scout Season”
+
+date: 2024-01-17, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/editorial-cartoon-girl-scout-season/">https://dailybruin.com/2024/01/17/editorial-cartoon-girl-scout-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/editorial-cartoon-girl-scout-season/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -71,6 +146,18 @@ In a town where USC, UCLA, and AFI tout their powerful alumni networks, communit
 
 ---
 
+## 30 Years After The Northridge Quake, What’ve We Learned?
+
+date: 2024-01-17, updated: 2024-01-18, from: The LAist
+
+A whole lot has changed, but the risk of catastrophic quakes remains.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/30-years-after-the-northridge-quake-whatve-we-learned">https://laist.com/news/climate-environment/30-years-after-the-northridge-quake-whatve-we-learned</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/30-years-after-the-northridge-quake-whatve-we-learned">Save to Pocket</a>
+</span>
+
+---
+
 ## The Northridge Earthquake Rocked Southern California 30 Years Ago. We Asked For Your Memories
 
 date: 2024-01-17, updated: 2024-01-17, from: The LAist
@@ -79,18 +166,6 @@ The emotional stories from those who lived through and survived the magnitude 6.
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/climate-environment/the-northridge-earthquake-rocked-southern-california-30-years-ago-we-asked-for-your-memories">https://laist.com/news/climate-environment/the-northridge-earthquake-rocked-southern-california-30-years-ago-we-asked-for-your-memories</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/the-northridge-earthquake-rocked-southern-california-30-years-ago-we-asked-for-your-memories">Save to Pocket</a>
-</span>
-
----
-
-## 30 Years After The Northridge Quake, What’ve We Learned?
-
-date: 2024-01-17, updated: 2024-01-17, from: The LAist
-
-A whole lot has changed, but the risk of catastrophic quakes remains.
-
-<span class="feed-item-link">
-<a href="https://laist.com/news/climate-environment/30-years-after-the-northridge-quake-whatve-we-learned">https://laist.com/news/climate-environment/30-years-after-the-northridge-quake-whatve-we-learned</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/30-years-after-the-northridge-quake-whatve-we-learned">Save to Pocket</a>
 </span>
 
 ---
@@ -363,6 +438,18 @@ date: 2024-01-17, from: The Daily Bruin (UCLA Student Newspaper)
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/16/holiday-crochet-projects/">https://dailybruin.com/2024/01/16/holiday-crochet-projects/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/16/holiday-crochet-projects/">Save to Pocket</a>
+</span>
+
+---
+
+## NBA All-Star Game In 2026 Will Take Place At Intuit Dome
+
+date: 2024-01-16, updated: 2024-01-17, from: The LAist
+
+Mayor Bass said the major sporting events on the horizon will positively impact local businesses and public transit.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/los-angeles-activities/nba-all-star-game-in-2026-will-take-place-at-intuit-dome">https://laist.com/news/los-angeles-activities/nba-all-star-game-in-2026-will-take-place-at-intuit-dome</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/los-angeles-activities/nba-all-star-game-in-2026-will-take-place-at-intuit-dome">Save to Pocket</a>
 </span>
 
 ---

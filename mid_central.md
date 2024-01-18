@@ -1,22 +1,34 @@
 ---
 title: mid central 2024.03
-updated: 2024-01-17 14:53:00
+updated: 2024-01-17 17:31:50
 ---
 
 # mid central 2024.03
 
-(date: 2024-01-17 14:53:00)
+(date: 2024-01-17 17:31:50)
 
 ---
 
 ## There are no active watches, warnings or advisories
 
-date: 2024-01-17, updated: 2024-01-17, from: Merced, Weather.gov CAP v1.1 alerts
+date: 2024-01-18, updated: 2024-01-18, from: Merced, Weather.gov CAP v1.1 alerts
 
 
 
 <span class="feed-item-link">
 <a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
+</span>
+
+---
+
+## CFA and Teamsters head to the picket lines once again
+
+date: 2024-01-17, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The California Faculty Association will hold a five-day strike at all 23 California State University campuses from Jan. 22-26. The announcement came following four one-day strikes at four different CSU campuses in December. The strike was unanimously approved at the CFA board of directors meeting on Dec. 19 after CSU management made insignificant progress to...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/01/cfa-and-teamsters-head-to-the-picket-lines-once-again/">https://fscollegian.com/2024/01/cfa-and-teamsters-head-to-the-picket-lines-once-again/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/01/cfa-and-teamsters-head-to-the-picket-lines-once-again/">Save to Pocket</a>
 </span>
 
 ---

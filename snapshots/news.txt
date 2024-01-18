@@ -379,6 +379,7 @@ https://www.levernews.com/rss/ "~The Lever News" curl/8.5.0 (rsdoiel@gmail.com, 
 #
 # Literature, Writing and Writers
 #
+https://margaretatwood.substack.com/feed "~Margaret Atwood's substack"
 
 #
 # Software Research (Acedemic and Industrial)

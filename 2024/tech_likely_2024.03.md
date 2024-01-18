@@ -1,11 +1,59 @@
 ---
 title: tech likely 2024.03
-updated: 2024-01-17 14:53:00
+updated: 2024-01-17 17:31:50
 ---
 
 # tech likely 2024.03
 
-(date: 2024-01-17 14:53:00)
+(date: 2024-01-17 17:31:50)
+
+---
+
+## Lichee Console 4A, RISC-V mini laptop: review, benchmarks and early issues
+
+date: 2024-01-18, from: OS News
+
+I always liked small laptops and phones &#8211; but for some reason they fell out of favor of manufacturers (&#8220;bigger is more better&#8221;). Now if one wanted to get tiny laptop &#8211; one of the few opportunities would have been to fight for old Sony UMPC&#8217;s on ebay which are somewhat expensive even today. Recently Raspberry Pi/CM4-based tiny laptops started to appear &#8211; especially clockwork products are neat, but they are not foldable like a laptop. When in summer of 2023 Sipeed announced Lichee Console 4A based on RISC-V SoC &#8211; I preordered it immediately and in early January I finally received it. Results of my testing, currently uncovered issues are below. ↫ Mikhail Svarichevsky I want one of these.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138374/lichee-console-4a-risc-v-mini-laptop-review-benchmarks-and-early-issues/">https://www.osnews.com/story/138374/lichee-console-4a-risc-v-mini-laptop-review-benchmarks-and-early-issues/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138374/lichee-console-4a-risc-v-mini-laptop-review-benchmarks-and-early-issues/">Save to Pocket</a>
+</span>
+
+---
+
+## Do users write more insecure code with AI assistants?
+
+date: 2024-01-18, from: OS News
+
+AI code assistants have emerged as powerful tools that can aid in the software development life-cycle and can improve developer productivity. Unfortunately, such assistants have also been found to produce insecure code in lab environments, raising significant concerns about their usage in practice. In this paper, we conduct a user study to examine how users interact with AI code assistants to solve a variety of security related tasks. Overall, we find that participants who had access to an AI assistant wrote significantly less secure code than those without access to an assistant. Participants with access to an AI assistant were also more likely to believe they wrote secure code, suggesting that such tools may lead users to be overconfident about security flaws in their code. To better inform the design of future AI-based code assistants, we release our user-study apparatus and anonymized data to researchers seeking to build on our work at this link. ↫ Neil Perry, Megha Srivastava, Deepak Kumar, and Dan Boneh I&#8217;m surprised somewhat randomly copying other people&#8217;s code into your program &#8211; violating their licenses, to boot &#8211; leads to crappier code. Who knew!
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138370/do-users-write-more-insecure-code-with-ai-assistants/">https://www.osnews.com/story/138370/do-users-write-more-insecure-code-with-ai-assistants/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138370/do-users-write-more-insecure-code-with-ai-assistants/">Save to Pocket</a>
+</span>
+
+---
+
+## From 0 to 1 MB in DOS
+
+date: 2024-01-17, from: OS News
+
+Since the last article on the text-based IDEs of old, I’ve been meaning to write about the GCC port to DOS, namely DJGPP. As I worked on the draft for that topic, I realized that there is a ton of ground to cover to set the stage so I took most of the content on memory management out and wrote this separate post. This article is a deep dive on how DOS had to pull out tricks maximize the use of the very limited 1 MB address space of the 8086. Those tricks could exist because of the features later introduced by the 80286 and the 80386, but these were just clutches to paper over the fact that DOS could not leverage the real improvements provided by protected mode. ↫ Julio Merino The DOS memory story is a string of hacks upon hacks that somehow managed to work &#8211; and that still work today.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138367/from-0-to-1-mb-in-dos/">https://www.osnews.com/story/138367/from-0-to-1-mb-in-dos/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138367/from-0-to-1-mb-in-dos/">Save to Pocket</a>
+</span>
+
+---
+
+##  Inspired by an Oppenheimer screening, NY Times congressional correspondent Catie Edmondson chased... 
+
+date: 2024-01-17, updated: 2024-01-17, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043798-inspired-by-an-oppenheime">https://kottke.org/24/01/0043798-inspired-by-an-oppenheime</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043798-inspired-by-an-oppenheime">Save to Pocket</a>
+</span>
 
 ---
 
@@ -111,18 +159,6 @@ NASA will host a pair of news conferences Thursday, Jan. 25, from the agency’s
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-crew-8-international-space-station-missions/">https://www.nasa.gov/news-release/nasa-sets-briefings-for-crew-8-international-space-station-missions/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-sets-briefings-for-crew-8-international-space-station-missions/">Save to Pocket</a>
-</span>
-
----
-
-## Advent of Computing: Episode 124 - The Full 360
-
-date: 2024-01-17, from: Tilde.news
-
-<p><a href="https://tilde.news/s/h5rqhy/advent_computing_episode_124_full_360">Comments</a></p>
-
-<span class="feed-item-link">
-<a href="https://adventofcomputing.libsyn.com/episode-124-the-full-360">https://adventofcomputing.libsyn.com/episode-124-the-full-360</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-124-the-full-360">Save to Pocket</a>
 </span>
 
 ---
@@ -1696,6 +1732,18 @@ date: 2024-01-15, from: Dave Winer's Scripting News
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2024/01/14/031201.html?title=tinyLittleTextBoxes">http://scripting.com/2024/01/14/031201.html?title=tinyLittleTextBoxes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/14/031201.html?title=tinyLittleTextBoxes">Save to Pocket</a>
+</span>
+
+---
+
+## Episode 124 - The Full 360
+
+date: 2024-01-15, from: Advent of Computing
+
+<div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="66agm-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="66agm-0-0"><span data-offset-key= "66agm-0-0"><span data-text="true">The release of the IBM System/360 represents a major milestone in the history of computing. In 1964 IBM announced the 360 as the first family of compatible computers. Users could choose a system that was just the right size for their needs, mix and match peripherals, and have no fear of future upgrades. If you started on a low-end 360 you could move up to a top of the line model and keep all your software! Something like this had never been done before.</span></span></div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="8d02p-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8d02p-0-0"><span data-offset-key= "8d02p-0-0"><span data-text="true">Such a watershed moment resulted in interesting cascading effects. In this episode we will look at the 360 itself. In the coming weeks we will be examining how it shaped and dominated the market, how it led to a federal antitrust suit, and how a mysterious series of clone computers survived in uncertain times.</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8d02p-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="29hhn-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="29hhn-0-0"><span data-offset-key= "29hhn-0-0"><span data-text="true">Selected Sources:</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="29hhn-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="7hs73-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="7hs73-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm"> <span data-offset-key="7hs73-0-0"><span data-text= "true">https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm</span></span></a></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="7hs73-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="8jamu-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8jamu-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.computerhistory.org/resources/access/text/2012/11/102658255-05-01-acc.pdf"> <span data-offset-key="8jamu-0-0"><span data-text= "true">https://archive.computerhistory.org/resources/access/text/2012/11/102658255-05-01-acc.pdf</span></span></a> <span data-offset-key="8jamu-1-0"><span data-text="true">- Fred Brooks Oral History</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8jamu-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="1p29f-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1p29f-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.computerhistory.org/resources/access/text/2017/11/102655529-05-01-acc.pdf"> <span data-offset-key="1p29f-0-0"><span data-text= "true">https://archive.computerhistory.org/resources/access/text/2017/11/102655529-05-01-acc.pdf</span></span></a> <span data-offset-key="1p29f-1-0"><span data-text="true">- 14K Days</span></span></div> </div>
+
+<span class="feed-item-link">
+<a href="https://adventofcomputing.libsyn.com/episode-124-the-full-360">https://adventofcomputing.libsyn.com/episode-124-the-full-360</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-124-the-full-360">Save to Pocket</a>
 </span>
 
 ---

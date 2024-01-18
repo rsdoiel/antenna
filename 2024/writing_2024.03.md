@@ -1,11 +1,37 @@
 ---
 title: writing 2024.03
-updated: 2024-01-17 14:53:00
+updated: 2024-01-17 17:31:50
 ---
 
 # writing 2024.03
 
-(date: 2024-01-17 14:53:00)
+(date: 2024-01-17 17:31:50)
+
+---
+
+## Baldacci Named PEN/Faulkner Literary Champion
+
+date: 2024-01-18, from: Locus Magazine
+
+<p>Author David Baldacci has been named the 2024 PEN/Faulkner Literary Champion to recognize &#8220;a lifetime of devoted literary advocacy and a commitment to inspiring new generations of readers and writers.&#8221;</p>
+<p>PEN/Faulkner executive director Gwydion Suilebhan said,</p>
+<p>David Baldacci, whose novels have captivated millions of readers worldwide, has been a paragon of service to the literary community&#8230; PEN/Faulkner is dedicated to the idea that fiction creates empathy within and among communities  <a href="https://locusmag.com/2024/01/baldacci-named-pen-faulkner-literary-champion/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/baldacci-named-pen-faulkner-literary-champion/">https://locusmag.com/2024/01/baldacci-named-pen-faulkner-literary-champion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/baldacci-named-pen-faulkner-literary-champion/">Save to Pocket</a>
+</span>
+
+---
+
+## Democracy! The Animation!
+
+date: 2024-01-17, from: Margaret Atwoods Substack
+
+Is it a hot air balloon?
+
+<span class="feed-item-link">
+<a href="https://margaretatwood.substack.com/p/democracy-the-animation">https://margaretatwood.substack.com/p/democracy-the-animation</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://margaretatwood.substack.com/p/democracy-the-animation">Save to Pocket</a>
+</span>
 
 ---
 
