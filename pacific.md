@@ -1,11 +1,173 @@
 ---
 title: pacific 2024.03
-updated: 2024-01-17 17:31:50
+updated: 2024-01-18 08:01:52
 ---
 
 # pacific 2024.03
 
-(date: 2024-01-17 17:31:50)
+(date: 2024-01-18 08:01:52)
+
+---
+
+## Japan provides boats, vans
+
+date: 2024-01-18, from: Marshal Islands Journal
+
+<p>EVE BURNS Japan Embassy kick started the year with many completed projects and more on the way. Ambassador Tanaka Kazunari handed over four boats to Environmental Protection Authority (EPA) General Manager Moriana Phillip last Thursday. The boats are 37 feet long. Witnessing the ceremony were Minister in Assistance to the President Bremity Lakjohn, Auditor General [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/japan-provides-boats-vans/">Japan provides boats, vans</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/japan-provides-boats-vans/">https://marshallislandsjournal.com/japan-provides-boats-vans/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/japan-provides-boats-vans/">Save to Pocket</a>
+</span>
+
+---
+
+## Mother whose child died in TikTok challenge urges US court to revive lawsuit
+
+date: 2024-01-18, updated: 2024-01-18, from: Marianas Variety
+
+(Reuters) — A U.S. appeals court on Wednesday wrestled with whether the video-based social media platform TikTok could be sued for causing a 10-year-old girl's death by promoting a deadly "blackout challenge" that encouraged people to choke themselves.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/mother-whose-child-died-in-tiktok-challenge-urges-us-court-to-revive-lawsuit/article_5d11be6a-b5c2-11ee-89a8-dfacb21858aa.html">https://www.mvariety.com/business/mother-whose-child-died-in-tiktok-challenge-urges-us-court-to-revive-lawsuit/article_5d11be6a-b5c2-11ee-89a8-dfacb21858aa.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/mother-whose-child-died-in-tiktok-challenge-urges-us-court-to-revive-lawsuit/article_5d11be6a-b5c2-11ee-89a8-dfacb21858aa.html">Save to Pocket</a>
+</span>
+
+---
+
+## NBA-Warriors assistant coach Milojevic dead at 46 after heart attack
+
+date: 2024-01-18, updated: 2024-01-18, from: Marianas Variety
+
+(Reuters) — Golden State Warriors assistant coach Dejan Milojevic has died, the National Basketball Association (NBA) club said on Wednesday after the Belgrade native suffered a heart attack during a team dinner.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/nba-warriors-assistant-coach-milojevic-dead-at-46-after-heart-attack/article_ff421f82-b5c1-11ee-834a-5b28a0fb8da5.html">https://www.mvariety.com/sports/nationalsports/nba-warriors-assistant-coach-milojevic-dead-at-46-after-heart-attack/article_ff421f82-b5c1-11ee-834a-5b28a0fb8da5.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/nba-warriors-assistant-coach-milojevic-dead-at-46-after-heart-attack/article_ff421f82-b5c1-11ee-834a-5b28a0fb8da5.html">Save to Pocket</a>
+</span>
+
+---
+
+## Higher penalties coming for export control violations -US Commerce official
+
+date: 2024-01-18, updated: 2024-01-18, from: Marianas Variety
+
+(Reuters) — The U.S. government will crack down on companies that violate export rules, with stiffer penalties to deter future violations involving countries like China, Russia and Iran, a Department of Commerce official said late on Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/higher-penalties-coming-for-export-control-violations--us-commerce-official/article_0b763612-b5bd-11ee-9d29-9738a7785a7c.html">https://www.mvariety.com/news/national/higher-penalties-coming-for-export-control-violations--us-commerce-official/article_0b763612-b5bd-11ee-9d29-9738a7785a7c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/higher-penalties-coming-for-export-control-violations--us-commerce-official/article_0b763612-b5bd-11ee-9d29-9738a7785a7c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Yellen says US economic performance 'vindicates' pandemic-era spending
+
+date: 2024-01-18, updated: 2024-01-18, from: Marianas Variety
+
+WASHINGTON (Reuters) — The U.S. Treasury Secretary Janet Yellen said on Wednesday the economy's strong performance is evidence that the $1.9 trillion American Rescue Plan Act was the right approach in 2021 to avoid a slow and painful recovery from the COVID-19 pandemic.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/yellen-says-us-economic-performance-vindicates-pandemic-era-spending/article_c8731f60-b5bc-11ee-a7f8-63f12906c1a3.html">https://www.mvariety.com/news/national/yellen-says-us-economic-performance-vindicates-pandemic-era-spending/article_c8731f60-b5bc-11ee-a7f8-63f12906c1a3.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/yellen-says-us-economic-performance-vindicates-pandemic-era-spending/article_c8731f60-b5bc-11ee-a7f8-63f12906c1a3.html">Save to Pocket</a>
+</span>
+
+---
+
+## US FAA says first 40 inspections of Boeing 737 MAX 9 planes complete
+
+date: 2024-01-18, updated: 2024-01-18, from: Marianas Variety
+
+WASHINGTON (Reuters) — The Federal Aviation Administration (FAA) said on Wednesday that inspections of an initial group of 40 Boeing 737 MAX 9 jets had been completed, a key hurdle to eventually ungrounding the model after a mid-air cabin panel blowout on Jan. 5.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-faa-says-first-40-inspections-of-boeing-737-max-9-planes-complete/article_7f8e42de-b5bc-11ee-9a8c-83466029d986.html">https://www.mvariety.com/news/national/us-faa-says-first-40-inspections-of-boeing-737-max-9-planes-complete/article_7f8e42de-b5bc-11ee-9a8c-83466029d986.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-faa-says-first-40-inspections-of-boeing-737-max-9-planes-complete/article_7f8e42de-b5bc-11ee-9a8c-83466029d986.html">Save to Pocket</a>
+</span>
+
+---
+
+## Freelancers file first lawsuit challenging Biden independent contractor rule
+
+date: 2024-01-18, updated: 2024-01-18, from: Marianas Variety
+
+(Reuters) — A group of freelance writers and editors has sued the U.S. Department of Labor, claiming the Biden administration's new rule making it more difficult for companies to treat some workers as independent contractors is illegal and should be struck down.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/freelancers-file-first-lawsuit-challenging-biden-independent-contractor-rule/article_fb8c3b4e-b5bb-11ee-b852-0b83b6278b7c.html">https://www.mvariety.com/news/national/freelancers-file-first-lawsuit-challenging-biden-independent-contractor-rule/article_fb8c3b4e-b5bb-11ee-b852-0b83b6278b7c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/freelancers-file-first-lawsuit-challenging-biden-independent-contractor-rule/article_fb8c3b4e-b5bb-11ee-b852-0b83b6278b7c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Tuna operations strong in 2023
+
+date: 2024-01-18, from: Marshal Islands Journal
+
+<p>Tuna transshipments in Majuro in 2023 increased over the previous year, nearly breaking the 300 mark. The year end strong with 32 transshipments in December — often a slow month, but now this past year. This included 31 transshipments to carrier vessels in the lagoon and one unloading at dock side for freezer container export. [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/tuna-operations-strong-in-2023/">Tuna operations strong in 2023</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/tuna-operations-strong-in-2023/">https://marshallislandsjournal.com/tuna-operations-strong-in-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/tuna-operations-strong-in-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## US govt sets rule meant to speed up insurance approvals
+
+date: 2024-01-18, updated: 2024-01-18, from: Marianas Variety
+
+(Reuters) — U.S. President Joe Biden's administration on Wednesday finalized a rule requiring health insurers to set time targets for the prior authorization process for patients seeking approval for medical services under government-backed insurance plans.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-govt-sets-rule-meant-to-speed-up-insurance-approvals/article_3ee849c4-b5a7-11ee-a8cf-9b625792e533.html">https://www.mvariety.com/news/national/us-govt-sets-rule-meant-to-speed-up-insurance-approvals/article_3ee849c4-b5a7-11ee-a8cf-9b625792e533.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-govt-sets-rule-meant-to-speed-up-insurance-approvals/article_3ee849c4-b5a7-11ee-a8cf-9b625792e533.html">Save to Pocket</a>
+</span>
+
+---
+
+## US Treasury official discusses cholera outbreak, debt with Zambia minister
+
+date: 2024-01-18, updated: 2024-01-18, from: Marianas Variety
+
+WASHINGTON (Reuters) — The U.S. Treasury Department's top international official spoke with Zambia's finance minister on Wednesday and discussed Zambia's ongoing debt restructuring and its response to a recent cholera outbreak, the U.S. Treasury Department said.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-treasury-official-discusses-cholera-outbreak-debt-with-zambia-minister/article_4effab5a-b5a6-11ee-ae25-dbbbf07cf78c.html">https://www.mvariety.com/news/national/us-treasury-official-discusses-cholera-outbreak-debt-with-zambia-minister/article_4effab5a-b5a6-11ee-ae25-dbbbf07cf78c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-treasury-official-discusses-cholera-outbreak-debt-with-zambia-minister/article_4effab5a-b5a6-11ee-ae25-dbbbf07cf78c.html">Save to Pocket</a>
+</span>
+
+---
+
+## US unveils solar energy plan for western public lands
+
+date: 2024-01-18, updated: 2024-01-18, from: Marianas Variety
+
+(Reuters) — The Biden administration on Wednesday unveiled a proposal for solar energy projects on federal lands that identifies 22 million acres in 11 western states best suited for development.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-unveils-solar-energy-plan-for-western-public-lands/article_98803264-b5a5-11ee-aa7c-470492bbc629.html">https://www.mvariety.com/news/national/us-unveils-solar-energy-plan-for-western-public-lands/article_98803264-b5a5-11ee-aa7c-470492bbc629.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-unveils-solar-energy-plan-for-western-public-lands/article_98803264-b5a5-11ee-aa7c-470492bbc629.html">Save to Pocket</a>
+</span>
+
+---
+
+## California governor quashes bill to ban tackle football for kids
+
+date: 2024-01-18, updated: 2024-01-18, from: Marianas Variety
+
+(Reuters) — California Governor Gavin Newsom killed a bill that would have banned tackle football for kids under 12, as his veto threat led the sponsor of the bill to withdraw it from consideration on Wednesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/california-governor-quashes-bill-to-ban-tackle-football-for-kids/article_488f03d4-b5a5-11ee-8c27-0b76c4f6ae55.html">https://www.mvariety.com/news/national/california-governor-quashes-bill-to-ban-tackle-football-for-kids/article_488f03d4-b5a5-11ee-8c27-0b76c4f6ae55.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/california-governor-quashes-bill-to-ban-tackle-football-for-kids/article_488f03d4-b5a5-11ee-8c27-0b76c4f6ae55.html">Save to Pocket</a>
+</span>
+
+---
+
+## Li excited to start university journey, Scott hopes to complete his studies
+
+date: 2024-01-18, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) roadshows around Fiji have helped a lot of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/li-excited-to-start-university-journey-scott-hopes-to-complete-his-studies/">Li excited to start university journey, Scott hopes to complete his studies</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/li-excited-to-start-university-journey-scott-hopes-to-complete-his-studies/">https://www.usp.ac.fj/news/li-excited-to-start-university-journey-scott-hopes-to-complete-his-studies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/li-excited-to-start-university-journey-scott-hopes-to-complete-his-studies/">Save to Pocket</a>
+</span>
 
 ---
 

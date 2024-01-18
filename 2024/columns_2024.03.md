@@ -1,11 +1,74 @@
 ---
 title: columns 2024.03
-updated: 2024-01-17 17:31:50
+updated: 2024-01-18 08:01:52
 ---
 
 # columns 2024.03
 
-(date: 2024-01-17 17:31:50)
+(date: 2024-01-18 08:01:52)
+
+---
+
+## Canadian Citizen Gets Phone Back from Police
+
+date: 2024-01-18, updated: 2024-01-16, from: Bruce Schneier blog
+
+<p>After 175 million failed password guesses, a <a href="https://ottawacitizen.com/news/local-news/police-must-return-phones-after-175-million-passcode-guesses-judge-says">judge rules</a> that the Canadian police must return a suspect&#8217;s phone.</p>
+<blockquote><p>[Judge] Carter said the investigation can continue without the phones, and he noted that Ottawa police have made a formal request to obtain more data from Google.</p>
+<p>&#8220;This strikes me as a potentially more fruitful avenue of investigation than using brute force to enter the phones,&#8221; he said.</p></blockquote>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/canadian-citizen-gets-phone-back-from-police.html">https://www.schneier.com/blog/archives/2024/01/canadian-citizen-gets-phone-back-from-police.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/canadian-citizen-gets-phone-back-from-police.html">Save to Pocket</a>
+</span>
+
+---
+
+## Evangelicals for Trump? It's Not About Religion
+
+date: 2024-01-18, from: Dan Rather's Steady
+
+Right after his victory in Iowa, where he received 53% of the evangelical and born-again Christian vote, Donald Trump traveled to New York to plead his case &#8212; literally. He was in federal court today, where he&#8217;ll soon find out how much he&#8217;ll have to pay for defaming a woman he&#8217;s also been found liable for sexually abusing. You may want to think about that for a moment. And let us remember it&#8217;s only January. There are more trials to come starring the leading GOP presidential candidate.
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/evangelicals-for-trump-its-not-about">https://steady.substack.com/p/evangelicals-for-trump-its-not-about</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/evangelicals-for-trump-its-not-about">Save to Pocket</a>
+</span>
+
+---
+
+## Davos duplicity 
+
+date: 2024-01-18, from: Robert Reich's blog
+
+They say they want to build public trust and avoid political upheaval, but they&#8217;re bankrolling election deniers
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/corporate-enablers-of-dictatorship">https://robertreich.substack.com/p/corporate-enablers-of-dictatorship</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/corporate-enablers-of-dictatorship">Save to Pocket</a>
+</span>
+
+---
+
+## Netflix Has No App for VisionOS
+
+date: 2024-01-18, updated: 2024-01-18, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.bloomberg.com/news/articles/2024-01-17/watching-netflix-on-apple-vision-pro-you-ll-have-to-use-the-web">https://www.bloomberg.com/news/articles/2024-01-17/watching-netflix-on-apple-vision-pro-you-ll-have-to-use-the-web</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.bloomberg.com/news/articles/2024-01-17/watching-netflix-on-apple-vision-pro-you-ll-have-to-use-the-web">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Will Begin Selling Series 9 and Ultra Watches With Blood Oxygen Sensors Disabled Tomorrow
+
+date: 2024-01-18, updated: 2024-01-18, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://9to5mac.com/2024/01/17/apple-watch-series-9-ultra-2-without-blood-oxygen-sensor/">https://9to5mac.com/2024/01/17/apple-watch-series-9-ultra-2-without-blood-oxygen-sensor/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://9to5mac.com/2024/01/17/apple-watch-series-9-ultra-2-without-blood-oxygen-sensor/">Save to Pocket</a>
+</span>
 
 ---
 

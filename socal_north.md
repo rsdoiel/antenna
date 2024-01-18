@@ -1,11 +1,370 @@
 ---
 title: socal north 2024.03
-updated: 2024-01-17 17:31:50
+updated: 2024-01-18 08:01:52
 ---
 
 # socal north 2024.03
 
-(date: 2024-01-17 17:31:50)
+(date: 2024-01-18 08:01:52)
+
+---
+
+## Millions of Californians Could Face Higher Internet Bills As Federal Low-Income Discount Ends
+
+date: 2024-01-18, updated: 2024-01-18, from: The LAist
+
+The federal Affordable Connectivity Program will stop accepting new applications by Feb. 7 unless Congress votes to extend funding.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/millions-of-californians-could-face-higher-internet-bills-as-federal-low-income-discount-ends">https://laist.com/news/millions-of-californians-could-face-higher-internet-bills-as-federal-low-income-discount-ends</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/millions-of-californians-could-face-higher-internet-bills-as-federal-low-income-discount-ends">Save to Pocket</a>
+</span>
+
+---
+
+## Student Health warns of high respiratory illness rates
+
+date: 2024-01-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students are advised to get the influenza vaccine if they have not already.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/18/student-health-warns-of-high-respiratory-illness-rates/">Student Health warns of high respiratory illness rates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/18/student-health-warns-of-high-respiratory-illness-rates/">https://dailytrojan.com/2024/01/18/student-health-warns-of-high-respiratory-illness-rates/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/18/student-health-warns-of-high-respiratory-illness-rates/">Save to Pocket</a>
+</span>
+
+---
+
+## Softball’s history in the Olympics and its legacy in inspiring others
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Softball&#8217;s introduction into the 1996 Olympic Games proved to be a massive moment for the sport. 
+&#8220;We had reached that pinnacle of athletics, and that&#8217;s being an Olympic sport, and getting onto the mainstream where we&#8217;re in the talks with soccer and women&#8217;s basketball,&#8221; said UCLA associate head coach Lisa Fernandez.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/18/softballs-history-in-the-olympics-and-its-legacy-in-inspiring-others/">https://dailybruin.com/2024/01/18/softballs-history-in-the-olympics-and-its-legacy-in-inspiring-others/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/18/softballs-history-in-the-olympics-and-its-legacy-in-inspiring-others/">Save to Pocket</a>
+</span>
+
+---
+
+## The athletic trainers behind the success of UCLA sports teams
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+The number 121 echoes with significance in Westwood.
+It&#8217;s tied to the tireless work of Bruin players and coaches alike.
+But on the periphery of the spotlight lies a dimmer constituent, the ones anchoring UCLA&#8217;s winning engine &#8211;  athletic trainers.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/18/the-athletic-trainers-behind-the-success-of-ucla-sports-teams/">https://dailybruin.com/2024/01/18/the-athletic-trainers-behind-the-success-of-ucla-sports-teams/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/18/the-athletic-trainers-behind-the-success-of-ucla-sports-teams/">Save to Pocket</a>
+</span>
+
+---
+
+## The LOW Down: UCLA and USC women’s basketball are ‘LA at its best,’ earn SoCal spotlight
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+A lone USC fan lined up outside the Galen Center.
+It was five hours until tip-off, and the spectator spotted USC guard and freshman phenom JuJu Watkins.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/18/the-low-down-ucla-and-usc-womens-basketball-are-la-at-its-best-earn-socal-spotlight/">https://dailybruin.com/2024/01/18/the-low-down-ucla-and-usc-womens-basketball-are-la-at-its-best-earn-socal-spotlight/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/18/the-low-down-ucla-and-usc-womens-basketball-are-la-at-its-best-earn-socal-spotlight/">Save to Pocket</a>
+</span>
+
+---
+
+## The advocacy and legacy of Stella Sampras Webster
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Stella Sampras Webster first became a Bruin in 1987.
+She&#8217;s made her presence known at UCLA ever since. 
+Sampras Webster took over as the head coach of UCLA women&#8217;s tennis in 1997 after spending four years on the team and several years as assistant coach.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/18/the-advocacy-and-legacy-of-stella-sampras-webster/">https://dailybruin.com/2024/01/18/the-advocacy-and-legacy-of-stella-sampras-webster/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/18/the-advocacy-and-legacy-of-stella-sampras-webster/">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – January 18, 2024
+
+date: 2024-01-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/18/classifieds-january-18-2024/">Classifieds &#8211; January 18, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/18/classifieds-january-18-2024/">https://dailytrojan.com/2024/01/18/classifieds-january-18-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/18/classifieds-january-18-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Inside the ethics of congressional investment
+
+date: 2024-01-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>It's time for more transparency about how our elected officials leverage their positions in investments.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/18/inside-the-ethics-of-congressional-investment/">Inside the ethics of congressional investment</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/18/inside-the-ethics-of-congressional-investment/">https://dailytrojan.com/2024/01/18/inside-the-ethics-of-congressional-investment/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/18/inside-the-ethics-of-congressional-investment/">Save to Pocket</a>
+</span>
+
+---
+
+## Attendance numbers rise with women’s basketball success
+
+date: 2024-01-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A record-breaking crowd came to watch the Trojans take down UCLA at Galen.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/18/197712/">Attendance numbers rise with women’s basketball success</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/18/197712/">https://dailytrojan.com/2024/01/18/197712/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/18/197712/">Save to Pocket</a>
+</span>
+
+---
+
+## Lily Gladstone’s historic win isn’t enough
+
+date: 2024-01-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Indigenous representation in the film industry needs to improve, despite some gains.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/18/lily-gladstones-historic-win-isnt-enough/">Lily Gladstone&#8217;s historic win isn&#8217;t enough</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/18/lily-gladstones-historic-win-isnt-enough/">https://dailytrojan.com/2024/01/18/lily-gladstones-historic-win-isnt-enough/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/18/lily-gladstones-historic-win-isnt-enough/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Succession,’ ‘The Bear’ sweep the Emmys
+
+date: 2024-01-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Anthony Anderson hosted the 75th installment of the famous awards program.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/18/succession-the-bear-sweep-the-emmys/">&#8216;Succession,&#8217; &#8216;The Bear&#8217; sweep the Emmys</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/18/succession-the-bear-sweep-the-emmys/">https://dailytrojan.com/2024/01/18/succession-the-bear-sweep-the-emmys/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/18/succession-the-bear-sweep-the-emmys/">Save to Pocket</a>
+</span>
+
+---
+
+## Nico Williams is a dribbling machine
+
+date: 2024-01-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Athletic Club might not be able to keep a new star in Bilbao for long. </p>
+<p>The post <a href="https://dailytrojan.com/2024/01/18/197739/">Nico Williams is a dribbling machine</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/18/197739/">https://dailytrojan.com/2024/01/18/197739/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/18/197739/">Save to Pocket</a>
+</span>
+
+---
+
+## Exciting upcoming flicks to look for this spring
+
+date: 2024-01-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>We’ve compiled a list of movies that should be on your radar this semester.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/18/exciting-upcoming-flicks-to-look-for-this-spring/">Exciting upcoming flicks to look for this spring</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/18/exciting-upcoming-flicks-to-look-for-this-spring/">https://dailytrojan.com/2024/01/18/exciting-upcoming-flicks-to-look-for-this-spring/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/18/exciting-upcoming-flicks-to-look-for-this-spring/">Save to Pocket</a>
+</span>
+
+---
+
+## University endowment grew by $330 million, latest Comptroller’s financial report reveals
+
+date: 2024-01-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Money in natural resources decreased by $147 million, including in fossil fuels.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/18/university-endowment-grew-by-330-million-latest-comptrollers-financial-report-reveals/">University endowment grew by $330 million, latest Comptroller’s financial report reveals</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/18/university-endowment-grew-by-330-million-latest-comptrollers-financial-report-reveals/">https://dailytrojan.com/2024/01/18/university-endowment-grew-by-330-million-latest-comptrollers-financial-report-reveals/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/18/university-endowment-grew-by-330-million-latest-comptrollers-financial-report-reveals/">Save to Pocket</a>
+</span>
+
+---
+
+## USC soccer stars shine in NWSL Draft
+
+date: 2024-01-18, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Zoe Burns went to Utah, while Croix Bethune was selected at third overall.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/18/197727/">USC soccer stars shine in NWSL Draft</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/18/197727/">https://dailytrojan.com/2024/01/18/197727/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/18/197727/">Save to Pocket</a>
+</span>
+
+---
+
+## Highlighting UCLA’s former female Olympians: athletes and trailblazers
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA Athletics has produced 410 Olympic athletes in addition to coaches and other various staff. The 2020 Olympics had Bruins pick up 16 medals, adding to an overall count of 136 gold, 71 silver and 63 bronze medals.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/highlighting-uclas-former-female-olympians-athletes-and-trailblazers/">https://dailybruin.com/2024/01/17/highlighting-uclas-former-female-olympians-athletes-and-trailblazers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/highlighting-uclas-former-female-olympians-athletes-and-trailblazers/">Save to Pocket</a>
+</span>
+
+---
+
+## Uplift Initiative club mentors students at LA’s Title I high schools
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Applying to college can feel intimidating and isolating for some, but one UCLA club is trying to make the process more equitable.
+Rujula Vikram, the club&#8216;s founder and president, said she created the Uplift Initiative &#8211; which seeks to address information inequities in the college application process &#8211; when she was in high school.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/uplift-initiative-club-mentors-students-at-las-title-i-high-schools/">https://dailybruin.com/2024/01/17/uplift-initiative-club-mentors-students-at-las-title-i-high-schools/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/uplift-initiative-club-mentors-students-at-las-title-i-high-schools/">Save to Pocket</a>
+</span>
+
+---
+
+## Volunteers to participate in upcoming Westwood Homeless Count 2024
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles Homeless Services Authority will lead volunteers through Westwood to conduct the annual Greater LA Homeless Count on Jan. 24. 
+Lisa Chapman, the co-chair of the Westwood Homeless Count, said the count is important in ensuring each area receives the funding needed to mitigate homelessness.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/volunteers-to-participate-in-upcoming-westwood-homeless-count-2024/">https://dailybruin.com/2024/01/17/volunteers-to-participate-in-upcoming-westwood-homeless-count-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/volunteers-to-participate-in-upcoming-westwood-homeless-count-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## UC Board of Regents opens 2025-2026 student regent application
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents opened its application to become the 2025-2026 student regent.
+The selected student regent will serve next year for a one-year, nonvoting term as regent-designate, which is followed by a one-year, full-voting term through 2026.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/uc-board-of-regents-opens-2025-2026-student-regent-application/">https://dailybruin.com/2024/01/17/uc-board-of-regents-opens-2025-2026-student-regent-application/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/uc-board-of-regents-opens-2025-2026-student-regent-application/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA blood drive reminds community of positive impact of donation
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Medical, dental and nursing students joined a collaborative blood drive Friday to collect donations for patients at UCLA Health hospitals. 
+The drive, which took place at Geffen Hall, was hosted by the Blood Donation Initiative at the David Geffen School of Medicine in partnership with groups including the UCLA Mobile Clinic Project and NMDP &#8211; formerly known as the National Marrow Donor Program and Be The Match.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/ucla-blood-drive-reminds-community-of-positive-impact-of-donation/">https://dailybruin.com/2024/01/17/ucla-blood-drive-reminds-community-of-positive-impact-of-donation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/ucla-blood-drive-reminds-community-of-positive-impact-of-donation/">Save to Pocket</a>
+</span>
+
+---
+
+## Late comeback propels UCLA men’s basketball to 2-point victory over Arizona State
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 17 at 11:53 p.m.</em>
+The Bruins were down six points before a flurry of fouls shifted the tide.
+With 10:10 to play, Sun Devil center Shawn Phillips Jr.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/late-comeback-surges-ucla-mens-basketball-to-2-point-victory-over-arizona-state/">https://dailybruin.com/2024/01/17/late-comeback-surges-ucla-mens-basketball-to-2-point-victory-over-arizona-state/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/late-comeback-surges-ucla-mens-basketball-to-2-point-victory-over-arizona-state/">Save to Pocket</a>
+</span>
+
+---
+
+## Gallery: USC topples UCLA women’s basketball, snaps 14-game winning streak
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Trojans emerged victorious from their sold-out, top-10 matchup against the Bruins, dealing UCLA its first loss of the season.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/gallery-usc-topples-ucla-womens-basketball-snaps-14-game-winning-streak/">https://dailybruin.com/2024/01/17/gallery-usc-topples-ucla-womens-basketball-snaps-14-game-winning-streak/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/gallery-usc-topples-ucla-womens-basketball-snaps-14-game-winning-streak/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA Takes on Paris
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/ucla-takes-on-paris/">https://dailybruin.com/2024/01/17/ucla-takes-on-paris/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/ucla-takes-on-paris/">Save to Pocket</a>
+</span>
+
+---
+
+## USAC recap – Jan. 16
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 17 at 11:10 p.m.</em>
+The Undergraduate Students Association Council held its second meeting of 2024 on Tuesday.
+USAC is the official student government representing the undergraduate student body at UCLA.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/usac-recap-jan-16-2/">https://dailybruin.com/2024/01/17/usac-recap-jan-16-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/usac-recap-jan-16-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Op-ed: UC must renegotiate frontline worker contracts to reverse staff exodus
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+It&#8217;s been almost a year since University of California Chief Financial Officer Nathan Brostrom warned the Board of Regents that staff vacancies had tripled since the start of the COVID-19 pandemic.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/uc-must-renegotiate-frontline-worker-contracts-to-reverse-staff-exodus/">https://dailybruin.com/2024/01/17/uc-must-renegotiate-frontline-worker-contracts-to-reverse-staff-exodus/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/uc-must-renegotiate-frontline-worker-contracts-to-reverse-staff-exodus/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: UC campuses must take urgent action to reach 2045 carbon neutrality goal
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+In 2013, the University of California committed itself to reaching carbon neutrality by 2025.
+At the time, it was a bold but commendable goal that would require a fundamental transformation of the entire UC system.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/17/editorial-uc-campuses-must-take-urgent-action-to-reach-2045-carbon-neutrality-goal/">https://dailybruin.com/2024/01/17/editorial-uc-campuses-must-take-urgent-action-to-reach-2045-carbon-neutrality-goal/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/editorial-uc-campuses-must-take-urgent-action-to-reach-2045-carbon-neutrality-goal/">Save to Pocket</a>
+</span>
+
+---
+
+## LAPD Chief Michel Moore Defends Record; Critics Say Good Riddance
+
+date: 2024-01-18, updated: 2024-01-18, from: The LAist
+
+Moore spoke on LAist's AirTalk program. He said he was proud of his six years at the head of the second-largest police department in the U.S.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/lapd-chief-michel-moore-defends-record-critics-say-good-riddance">https://laist.com/news/politics/lapd-chief-michel-moore-defends-record-critics-say-good-riddance</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/lapd-chief-michel-moore-defends-record-critics-say-good-riddance">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +372,8 @@ updated: 2024-01-17 17:31:50
 
 date: 2024-01-17, from: The Daily Bruin (UCLA Student Newspaper)
 
-This winter&#8217;s television releases are cooler than ice.
+<em>This post was updated Jan. 17 at 9:53 p.m.</em>
+This winter’s television releases are cooler than ice.
 As a chill traverses the air, a new slate of sensational shows will be reaching the small screen.
 
 <span class="feed-item-link">
@@ -26,8 +386,9 @@ As a chill traverses the air, a new slate of sensational shows will be reaching 
 
 date: 2024-01-17, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 17 at 11:58 p.m.</em>
 The Fernandez name had gone global.
-While her sister opened her singles run at the Australian Open, freshman Bianca Fernandez battled on Las Vegas courts. It was a familiar setting for the former, a seven-year WTA veteran, and anything but for the latter.
+While her sister opened her singles run at the Australian Open, freshman Bianca Fernandez battled on Las Vegas courts.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/17/newcomer-bianca-fernandez-and-ucla-womens-tennis-win-big-in-las-vegas/">https://dailybruin.com/2024/01/17/newcomer-bianca-fernandez-and-ucla-womens-tennis-win-big-in-las-vegas/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/newcomer-bianca-fernandez-and-ucla-womens-tennis-win-big-in-las-vegas/">Save to Pocket</a>
@@ -63,8 +424,9 @@ As the temperatures drop in Southern California, I walk the frigid boulevard and
 
 date: 2024-01-17, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 18 at 12:01 a.m.</em>
 It was a tournament of firsts for the Bruins.
-In a two-day tournament spanning Sunday to Monday, UCLA men&#8217;s golf competed in The Copper Cup &#8211; its first tournament of the new year &#8211; at Ak-Chin Southern Dunes Golf Club in Maricopa, Arizona.
+In a two-day tournament spanning Sunday to Monday, UCLA men’s golf competed in The Copper Cup – its first tournament of the new year – at Ak-Chin Southern Dunes Golf Club in Maricopa, Arizona.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/17/ucla-mens-golf-beaten-by-arizona-in-the-copper-cup-championship/">https://dailybruin.com/2024/01/17/ucla-mens-golf-beaten-by-arizona-in-the-copper-cup-championship/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/17/ucla-mens-golf-beaten-by-arizona-in-the-copper-cup-championship/">Save to Pocket</a>

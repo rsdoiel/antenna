@@ -1,11 +1,37 @@
 ---
 title: libraries 2024.03
-updated: 2024-01-17 17:31:50
+updated: 2024-01-18 08:01:52
 ---
 
 # libraries 2024.03
 
-(date: 2024-01-17 17:31:50)
+(date: 2024-01-18 08:01:52)
+
+---
+
+## “Mrs. Foster Has Sworn A Rape”; or, What Do We Owe? Generosity, Attribution, and the Perilous Invisibility of Research Infrastructure
+
+date: 2024-01-18, from: Scholarly Kitchen
+
+<p>Attribution has many virtues, but among them it can make visible the vast infrastructure of research for a public largely unaware or unconcerned with how much hard-won knowledge, including creative endeavor, that research has facilitated.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/01/18/mrs-foster-has-sworn-a-rape-or-what-do-we-owe-generosity-attribution-and-the-perilous-invisibility-of-research-infrastructure/">“Mrs. Foster Has Sworn A Rape”; or, What Do We Owe? Generosity, Attribution, and the Perilous Invisibility of Research Infrastructure</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/01/18/mrs-foster-has-sworn-a-rape-or-what-do-we-owe-generosity-attribution-and-the-perilous-invisibility-of-research-infrastructure/">https://scholarlykitchen.sspnet.org/2024/01/18/mrs-foster-has-sworn-a-rape-or-what-do-we-owe-generosity-attribution-and-the-perilous-invisibility-of-research-infrastructure/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/01/18/mrs-foster-has-sworn-a-rape-or-what-do-we-owe-generosity-attribution-and-the-perilous-invisibility-of-research-infrastructure/">Save to Pocket</a>
+</span>
+
+---
+
+## Open Access: free publishing now possible in even more journals
+
+date: 2024-01-18, from: ETH Zurich Research Archives
+
+From 2024, the ETH Library will cover the costs of publications in more journals, including Nature Communications and Scientific Reports. Read more<img src="https://analytics.library.ethz.ch/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Fopen-access-free-publishing-now-possible-in-even-more-journals%2F&amp;action_name=Open+Access%3A+free+publishing+now+possible+in+even+more+journals&amp;urlref=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />
+
+<span class="feed-item-link">
+<a href="https://rc-blog.ethz.ch/en/open-access-free-publishing-now-possible-in-even-more-journals/">https://rc-blog.ethz.ch/en/open-access-free-publishing-now-possible-in-even-more-journals/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://rc-blog.ethz.ch/en/open-access-free-publishing-now-possible-in-even-more-journals/">Save to Pocket</a>
+</span>
 
 ---
 

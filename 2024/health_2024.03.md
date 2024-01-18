@@ -1,11 +1,59 @@
 ---
 title: health 2024.03
-updated: 2024-01-17 17:31:51
+updated: 2024-01-18 08:01:53
 ---
 
 # health 2024.03
 
-(date: 2024-01-17 17:31:51)
+(date: 2024-01-18 08:01:53)
+
+---
+
+## Gut microbiota and its metabolites in non-small cell lung cancer and brain metastasis: from alteration to potential microbial markers and drug targets
+
+date: 2024-01-18, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>The elevated mortality rate associated with non–small-cell lung cancer (NSCLC) is a well-established global concern. Considerable attention has been directed toward exploring the association between gut microbiota and various malignant tumors. We herein investigated the associations between the intestinal microbiome and its metabolites, particularly short-chain fatty acids (SCFAs), in patients with NSCLC at different stages, including early and brain metastasis (BM) stages. The findings aim to offer a fresh perspective on the diagnosis and management of NSCLC.</p></sec><sec><title>Methods</title><p>Fecal samples were collected from 115 participants, comprising healthy controls (n = 35) and patients with treatment-naive NSCLC at the early stage (ELC, n = 40) and the BM stage (n = 40). Characterization of the intestinal microbiome and fecal SCFA levels was performed using 16S rRNA gene sequencing and gas chromatography.</p></sec><sec><title>Results</title><p>The microbial diversity in patients with NSCLC was found to be less abundant and uniform, particularly in the BM stage. Significant alterations in the community structure of the gut microbiota were observed in patients with NSCLC, with an increase in pathogens in Fusobacteria and Proteobacteria and a decrease in SCFA-producing bacteria in Firmicutes and Actinobacteria, particularly in the BM stage. Meanwhile, microbial communities displayed intricate associations in patients with NSCLC. A biomarker panel (<italic>Faecalibacterium</italic>, <italic>Bifidobacterium</italic>, <italic>Butyricicoccus</italic>, <italic>Klebsiella</italic>, <italic>Streptococcus</italic>, and <italic>Blautia</italic>) successfully distinguished patients in the ELC and BM stages from healthy controls (area under the curve: 0.884). The overall concentration of fecal SCFAs was significantly lower in patients with BM compared to patients with ELC and healthy controls. Subgroup analysis of acetate and butyrate yielded similar results. Moreover, multiple disrupted pathways in the NSCLC group were identified using the Kyoto Encyclopedia of Genes and Genomes annotation, including lipid metabolism and genetic information processing, specifically in the BM stage.</p></sec><sec><title>Conclusion</title><p>Compared with healthy controls, distinct host-microbe interactions were evident in different phases of patients with NSCLC. Furthermore, specific forms of the gut microbiome and SCFAs may serve as valuable biomarkers and therapeutic targets in the diagnosis and treatment of NSCLC.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1211855">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1211855</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1211855">Save to Pocket</a>
+</span>
+
+---
+
+## Characterization of viral infections in children with influenza-like-illness during December 2018–January 2019
+
+date: 2024-01-18, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>Respiratory viral infection (RVI) is of very concern after the outbreak of COVID-19, especially in pediatric departments. Learning pathogen spectrum of RVI in children previous the epidemic of COVID-19 could provide another perspective for understanding RVI under current situation and help to prepare for the post COVID-19 infection control.</p></sec><sec><title>Methods</title><p>A nucleic acid sequence-based amplification (NASBA) assay, with 19 pairs of primers targeting various respiratory viruses, was used for multi-pathogen screening of viral infections in children presenting influenza-like illness (ILI) symptoms. Children with ILI at the outpatient department of Beijing Tsinghua Changgung Hospital during the influenza epidemic from 12/2018 to 01/2019 were included. Throat swabs were obtained for both the influenza rapid diagnostic test (IRDT) based on the colloidal gold immunochromatographic assay and the NASBA assay, targeting various respiratory viruses with an integrated chip technology.</p></sec><sec><title>Results and discussion</title><p>Of 519 patients, 430 (82.9%) were positive in the NASBA assay. The predominant viral pathogens were influenza A H1N1 pdm1/2009 (pH1N1) (48.4%) and influenza A (H3N2) (18.1%), followed by human metapneumovirus (hMPV) (8.8%) and respiratory syncytial virus (RSV) (6.1%). Of the 320 cases identified with influenza A by NASBA, only 128 (40.0%) were positive in the IRDT. The IRDT missed pH1N1 significantly more frequently than A (H3N2) (P&lt;0.01). Influenza A pH1N1 and A (H3N2) were the major pathogens in &lt;6 years and 6-15 years old individuals respectively (P&lt;0.05). In summary, influenza viruses were the major pathogens in children with ILI during the 2018-2019 winter influenza epidemic, while hMPV and RSV were non-negligible. The coexistence of multiple pathogen leading to respiratory infections is the normalcy in winter ILI cases.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1351814">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1351814</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1351814">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: Enterobacteriaceae antimicrobial agents and resistance: relationship with the therapeutic approach, volume II
+
+date: 2024-01-18, from: Frontiers in Cellular and Infection Microbiology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1356413">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1356413</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1356413">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: Pathogenesis, diagnostics, treatments of Mycobacterium tuberculosis and its co-infection with HIV or SARS-CoV-2
+
+date: 2024-01-18, from: Frontiers in Cellular and Infection Microbiology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1359356">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1359356</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1359356">Save to Pocket</a>
+</span>
 
 ---
 
@@ -49,7 +97,7 @@ date: 2024-01-17, from: Frontiers in Cellular and Infection Microbiology
 
 date: 2024-01-17, from: Frontiers in Cellular and Infection Microbiology
 
-<sec><title>Introduction</title><p>Azole resistance has been increasingly reported and become an issue for clinical managements of invasive mycoses. New strategy with combination therapy arises as a valuable and promising alternative option. The aim of the present study is to investigate the <italic>in vitro</italic> combinational effect of proton pump inhibitors (PPIs) and azoles against pathogenic fungi.</p></sec><sec><title>Methods</title><p><italic>In vitro</italic> interactions of PPIs including omeprazole (OME), lansoprazole (LAN), pantoprazole (PAN), and rabeprazole (RAB), and commonly used azoles including itraconazole (ITC), posaconazole (POS), voriconazole (VRC) and FLC, were investigated via broth microdilution chequerboard procedure adapted from the CLSI M27-A3 and M38-A2. A total of 67 clinically isolated strains, namely 27 strains of <italic>Aspergillus</italic> spp., 16 strains of <italic>Candida</italic> spp., and 24 strains of dematiaceous fungi, were studied. C. parapsilosis (ATCC 22019) and A. flavus (ATCC 204304) was included to ensure quality control.</p></sec><sec><title>Results</title><p>PPIs individually did not exert any significant antifungal activity. The combination of OME with ITC, POS, or VRC showed synergism against 77.6%, 86.6%, and 4% strains of tested pathogenic fungi, respectively, while synergism of OME/FLC was observed in 50% strains of <italic>Candida</italic> spp. Synergism between PAN and ITC, POS, or VRC was observed against 47.8%, 77.6% and 1.5% strains of tested fungi, respectively, while synergism of PNA/FLC was observed in 50% strains of <italic>Candida</italic> spp. Synergism of LAN with ITC, POS, or VRC was observed against 86.6%, 86.6%, and 3% of tested strains, respectively, while synergism of LAN/FLC was observed in 31.3% strains of <italic>Candida</italic> spp. Synergy of the combination of RAB with ITC, POS, or VRC was observed against 25.4%, 64.2%, and 4.5% of tested strains, respectively., synergism of RAB/FLC was observed in 12.5% of <italic>Candida</italic> spp.. Among PPIs, synergism was least observed between RAB and triazoles, while among triazoles, synergism was least observed between VRC and PPIs. Among species, synergy was much more frequently observed in Aspergillus spp. and dematiaceous fungi as compared to <italic>Candida</italic> spp. Antagonism between PPIs with ITC or VRC was occasionally observed in <italic>Aspergillus</italic> spp. and dematiaceous fungi. It is notable that PPIs combined with azoles showed synergy against azole resistant <italic>A. fumigatus</italic>, and resulted in category change of susceptibility of ITC and POS against <italic>Candida</italic> spp.</p></sec><sec><title>Discussion</title><p>The results suggested that PPIs combined with azoles has the potential to enhance the susceptibilities of azoles against multiple pathogenic fungi and could be a promising strategy to overcome azole resistance issues. However, further investigations are warranted to study the combinational efficacy in more isolates and more species, to investigate the underlying mechanism of interaction and to evaluate the potential for concomitant use of these agents in human.</p></sec>
+<sec><title>Introduction</title><p>Azole resistance has been increasingly reported and become an issue for clinical managements of invasive mycoses. New strategy with combination therapy arises as a valuable and promising alternative option. The aim of the present study is to investigate the <italic>in vitro</italic> combinational effect of proton pump inhibitors (PPIs) and azoles against pathogenic fungi.</p></sec><sec><title>Methods</title><p><italic>In vitro</italic> interactions of PPIs including omeprazole (OME), lansoprazole (LAN), pantoprazole (PAN), and rabeprazole (RAB), and commonly used azoles including itraconazole (ITC), posaconazole (POS), voriconazole (VRC) and fluconazole (FLC), were investigated via broth microdilution chequerboard procedure adapted from the CLSI M27-A3 and M38-A2. A total of 67 clinically isolated strains, namely 27 strains of <italic>Aspergillus</italic> spp., 16 strains of <italic>Candida</italic> spp., and 24 strains of dematiaceous fungi, were studied. <italic>C. parapsilosis</italic> (ATCC 22019) and <italic>A. flavus</italic> (ATCC 204304) was included to ensure quality control.</p></sec><sec><title>Results</title><p>PPIs individually did not exert any significant antifungal activity. The combination of OME with ITC, POS, or VRC showed synergism against 77.6%, 86.6%, and 4% strains of tested pathogenic fungi, respectively, while synergism of OME/FLC was observed in 50% strains of <italic>Candida</italic> spp. Synergism between PAN and ITC, POS, or VRC was observed against 47.8%, 77.6% and 1.5% strains of tested fungi, respectively, while synergism of PNA/FLC was observed in 50% strains of <italic>Candida</italic> spp. Synergism of LAN with ITC, POS, or VRC was observed against 86.6%, 86.6%, and 3% of tested strains, respectively, while synergism of LAN/FLC was observed in 31.3% strains of <italic>Candida</italic> spp. Synergy of the combination of RAB with ITC, POS, or VRC was observed against 25.4%, 64.2%, and 4.5% of tested strains, respectively, while synergism of RAB/FLC was observed in 12.5% of <italic>Candida</italic> spp.. Among PPIs, synergism was least observed between RAB and triazoles, while among triazoles, synergism was least observed between VRC and PPIs. Among species, synergy was much more frequently observed in <italic>Aspergillus</italic> spp. and dematiaceous fungi as compared to <italic>Candida</italic> spp. Antagonism between PPIs with ITC or VRC was occasionally observed in <italic>Aspergillus</italic> spp. and dematiaceous fungi. It is notable that PPIs combined with azoles showed synergy against azole resistant <italic>A. fumigatus</italic>, and resulted in category change of susceptibility of ITC and POS against <italic>Candida</italic> spp.</p></sec><sec><title>Discussion</title><p>The results suggested that PPIs combined with azoles has the potential to enhance the susceptibilities of azoles against multiple pathogenic fungi and could be a promising strategy to overcome azole resistance issues. However, further investigations are warranted to study the combinational efficacy in more isolates and more species, to investigate the underlying mechanism of interaction and to evaluate the potential for concomitant use of these agents in human.</p></sec>
 
 <span class="feed-item-link">
 <a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1296151">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1296151</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1296151">Save to Pocket</a>

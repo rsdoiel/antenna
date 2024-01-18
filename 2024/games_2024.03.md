@@ -1,11 +1,35 @@
 ---
 title: games 2024.03
-updated: 2024-01-17 17:31:50
+updated: 2024-01-18 08:01:52
 ---
 
 # games 2024.03
 
-(date: 2024-01-17 17:31:50)
+(date: 2024-01-18 08:01:52)
+
+---
+
+## Harry Potter breaks Call of Duty’s streak as bestselling game in US
+
+date: 2024-01-18, updated: 2024-01-18, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24026887/hogwarts-legacy-call-of-duty-mw3-2023-bestselling-games">https://www.polygon.com/24026887/hogwarts-legacy-call-of-duty-mw3-2023-bestselling-games</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24026887/hogwarts-legacy-call-of-duty-mw3-2023-bestselling-games">Save to Pocket</a>
+</span>
+
+---
+
+## Small board game publishers harassed by international counterfeiters
+
+date: 2024-01-18, updated: 2024-01-18, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24040766/counterfeit-board-games-fake-real-kelp">https://www.polygon.com/24040766/counterfeit-board-games-fake-real-kelp</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24040766/counterfeit-board-games-fake-real-kelp">Save to Pocket</a>
+</span>
 
 ---
 

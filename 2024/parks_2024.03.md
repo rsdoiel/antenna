@@ -1,11 +1,11 @@
 ---
 title: parks 2024.03
-updated: 2024-01-17 17:31:50
+updated: 2024-01-18 08:01:52
 ---
 
 # parks 2024.03
 
-(date: 2024-01-17 17:31:50)
+(date: 2024-01-18 08:01:52)
 
 ---
 
@@ -21,7 +21,8 @@ date: 2024-01-17, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><figure role="group"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="d5e9f4e9-c187-4f90-ae47-ecbafd90c282" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+            <div class="field contact-block -body"><figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="d5e9f4e9-c187-4f90-ae47-ecbafd90c282" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -30,11 +31,19 @@ date: 2024-01-17, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/Photo%204_volunteers_pose_for_picture.jpg?itok=4aVRWQiE" width="640" height="480" alt="Four volunteers pose for a photo." typeof="foaf:Image" /></div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/Photo%204_volunteers_pose_for_picture.jpg?itok=4aVRWQiE" width="640" height="480" alt="Four volunteers pose for a photo." typeof="foaf:Image">
+
+
+</div>
       
 </div>
 </div>
-<figcaption>The Association of Arizona Conservation Districts volunteers pose for a photo while collecting Assessment, Inventory, and Monitoring (AIM) data on the San Pedro Riparian National Conservation Area.</figcaption></figure><p paraeid="{c72fc259-a156-479c-926b-095eff77ed12}{231}" paraid="1867219868">The BLM Tucson Field Office partnered with an <a href="https://www.aacd1944.com/" rel="noreferrer noopener" target="_blank">Association of Arizona Conservation Districts</a> (AACD) crew in fall 2023 to collect Assessment, Inventory, and Monitoring (AIM) data on the San Pedro Riparian National Conservation Area (SPRNCA), part of the recently established <a href="https://www.blm.gov/press-release/presidents-investing-america-agenda-invest-152-million-restoration-work-arizona" rel="noreferrer noopener" target="_blank">Sky Islands Restoration Landscape.</a>  </p>
+
+<figcaption>The Association of Arizona Conservation Districts volunteers pose for a photo while collecting Assessment, Inventory, and Monitoring (AIM) data on the San Pedro Riparian National Conservation Area.</figcaption>
+</figure>
+
+
+<p paraeid="{c72fc259-a156-479c-926b-095eff77ed12}{231}" paraid="1867219868">The BLM Tucson Field Office partnered with an <a href="https://www.aacd1944.com/" rel="noreferrer noopener" target="_blank">Association of Arizona Conservation Districts</a> (AACD) crew in fall 2023 to collect Assessment, Inventory, and Monitoring (AIM) data on the San Pedro Riparian National Conservation Area (SPRNCA), part of the recently established <a href="https://www.blm.gov/press-release/presidents-investing-america-agenda-invest-152-million-restoration-work-arizona" rel="noreferrer noopener" target="_blank">Sky Islands Restoration Landscape.</a>  </p>
 
 <p paraeid="{73bb29aa-718c-4cd2-9c37-d9a0359af47e}{28}" paraid="121509116">AACD volunteers collected data in the uplands, which is the ground above the lowlands along rivers and between hills, within the portions of the SPRNCA authorized for livestock grazing. This work was funded through the <a href="https://www.doi.gov/inflation-reduction-act#:~:text=The%20Inflation%20Reduction%20Act%20provides%20%24700%20million%20to%20advance%20conservation,at%20the%20National%20Park%20Service." rel="noreferrer noopener" target="_blank">Inflation Reduction Act</a> and completed through an assistance agreement with AACD. </p>
 
@@ -44,7 +53,8 @@ date: 2024-01-17, from: Bureau of Land Management, blog
 
 <p paraeid="{73bb29aa-718c-4cd2-9c37-d9a0359af47e}{206}" paraid="1684449467">A similar approach will be implemented on the rest of the SPRNCA and surrounding watershed. Utilizing <a href="https://www.doi.gov/investing-americas-infrastructure" rel="noreferrer noopener" target="_blank">Bipartisan Infrastructure Law</a> (BIL) funding, the Tucson Field Office resource staff and Gila District fuels staff have begun addressing conservation and restoration needs through the San Pedro Watershed Restoration Environmental Assessment (EA).</p>
 
-<figure role="group"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cd801415-8379-448b-a42b-bda93431199f" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="cd801415-8379-448b-a42b-bda93431199f" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
   
   
 
@@ -53,11 +63,19 @@ date: 2024-01-17, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/Photo%205_volunteers_conduct_AIM_monitoring_on_the_SPRNCA.jpg?itok=S0SYzqgw" width="640" height="296" alt="Four people stand in a field, two holding poles and two looking down at the ground with mountains in the background." typeof="foaf:Image" /></div>
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/Photo%205_volunteers_conduct_AIM_monitoring_on_the_SPRNCA.jpg?itok=S0SYzqgw" width="640" height="296" alt="Four people stand in a field, two holding poles and two looking down at the ground with mountains in the background." typeof="foaf:Image">
+
+
+</div>
       
 </div>
 </div>
-<figcaption>In fall 2023, volunteers conduct AIM monitoring on the San Pedro Riparian National Conservation Area in Arizona.</figcaption></figure><p paraeid="{73bb29aa-718c-4cd2-9c37-d9a0359af47e}{255}" paraid="1353247340">While still in the early National Environmental Policy Act planning phases, this EA will address current ecological conditions on the SPRNCA and surrounding watershed and propose a variety of restoration treatments to improve plant community and soil conditions. Some BIL funding for this effort will also be used to expand AIM monitoring to more areas of the SPRNCA.</p>
+
+<figcaption>In fall 2023, volunteers conduct AIM monitoring on the San Pedro Riparian National Conservation Area in Arizona.</figcaption>
+</figure>
+
+
+<p paraeid="{73bb29aa-718c-4cd2-9c37-d9a0359af47e}{255}" paraid="1353247340">While still in the early National Environmental Policy Act planning phases, this EA will address current ecological conditions on the SPRNCA and surrounding watershed and propose a variety of restoration treatments to improve plant community and soil conditions. Some BIL funding for this effort will also be used to expand AIM monitoring to more areas of the SPRNCA.</p>
 
 <p paraeid="{73bb29aa-718c-4cd2-9c37-d9a0359af47e}{255}" paraid="1353247340">The Tucson Field Office will continue to partner with AACD to use AIM data to determine suitable restoration treatments and assess treatment effectiveness with the goal of improved resource conditions set forth in the 2019 San Pedro Riparian National Conservation Area Resource Management Plan.  </p>
 </div>
@@ -98,7 +116,8 @@ date: 2024-01-17, from: Bureau of Land Management, blog
 
   <div class="field contact-block -release-date">
     <div><strong>Release Date:</strong> </div>
-              <div><time datetime="2024-01-17T12:00:00Z">Wed, 01/17/2024 - 12:00 pm UTC</time></div>
+              <div><time datetime="2024-01-17T12:00:00Z">Wed, 01/17/2024 - 12:00 pm UTC</time>
+</div>
           </div>
 
 
@@ -185,7 +204,10 @@ date: 2024-01-17, from: Bureau of Land Management, blog
 
 date: 2024-01-17, from: Bureau of Land Management, California
 
-<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2024-01/53166029462_7a10f04ae9_c.jpg?h=96046cf0&itok=o0BpyNWE" width="150" height="100" alt="angled solar panels" typeof="foaf:Image" /></div>
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2024-01/53166029462_7a10f04ae9_c.jpg?h=96046cf0&itok=o0BpyNWE" width="150" height="100" alt="angled solar panels" typeof="foaf:Image">
+
+
+</div>
       
 
 
@@ -205,7 +227,7 @@ date: 2024-01-17, from: Bureau of Land Management, California
 
 <p>The Department today published a draft analysis of the Utility-Scale Solar Energy Programmatic Environmental Impact Statement (known as the updated Western Solar Plan), which would streamline the BLM’s framework for siting solar energy projects in order to support current and future national clean energy goals, long-term energy security, climate resilience, and improved conservation outcomes. </p>
 
-<p>The proposal is an update of BLM’s <a data-auth="VerificationFailed" data-linkindex="0" href="https://www.doi.gov/news/pressreleases/Obama-Administration-Approves-Roadmap-for-Utility-Scale-Solar-Energy-Development-on-Public-Lands" originalsrc="https://doi.gov/news/pressreleases/Obama-Administration-Approves-Roadmap-for-Utility-Scale-Solar-Energy-Development-on-Public-Lands" rel="noopener noreferrer" shash="LlA92BVPvW6f1wk6l6HK1rbld4LAUNBYGe6WFIxijGY21dljM+aPGXMeI/psmt0wTBv3lFqL2ZhVhfG5D6ZGCFvAUR6a4z2uABS+0vMRNvI7rdN2uKhzcvkhJFmtT2abqKLFpBgXoXphy4rzjwyfeMnD/aja3EtinwRK2g9uuz8=" target="_blank" title="">2012 Western Solar Plan</a>, which identified areas in Arizona, California, Colorado, Nevada, New Mexico and Utah with high solar potential and low resource conflicts in order to guide responsible solar development and provide certainty to developers. Following months of stakeholder engagements – including 15 public scoping meetings – the updated roadmap refines the analysis in the original six states and expands it to include Idaho, Montana, Oregon, Washington and Wyoming. </p>
+<p>The proposal is an update of BLM’s <a data-auth="VerificationFailed" data-linkindex="0" href="https://www.doi.gov/news/pressreleases/Obama-Administration-Approves-Roadmap-for-Utility-Scale-Solar-Energy-Development-on-Public-Lands" originalsrc="https://doi.gov/news/pressreleases/Obama-Administration-Approves-Roadmap-for-Utility-Scale-Solar-Energy-Development-on-Public-Lands" rel="noopener noreferrer" shash="LlA92BVPvW6f1wk6l6HK1rbld4LAUNBYGe6WFIxijGY21dljM+aPGXMeI/psmt0wTBv3lFqL2ZhVhfG5D6ZGCFvAUR6a4z2uABS+0vMRNvI7rdN2uKhzcvkhJFmtT2abqKLFpBgXoXphy4rzjwyfeMnD/aja3EtinwRK2g9uuz8=" target="_blank" title>2012 Western Solar Plan</a>, which identified areas in Arizona, California, Colorado, Nevada, New Mexico and Utah with high solar potential and low resource conflicts in order to guide responsible solar development and provide certainty to developers. Following months of stakeholder engagements – including 15 public scoping meetings – the updated roadmap refines the analysis in the original six states and expands it to include Idaho, Montana, Oregon, Washington and Wyoming. </p>
 
 <p>In considering updates to the Western Solar Plan, the BLM worked closely with the Department of Energy’s National Renewable Energy Laboratory to examine forecasts for national clean energy needs and determined that approximately 700,000 acres of public lands would be needed to meet those goals. The BLM’s preferred alternative in the updated Western Solar Plan would provide approximately 22 million acres of land open for solar application, giving maximum flexibility to reach the nation’s clean energy goals.  </p>
 
@@ -213,7 +235,7 @@ date: 2024-01-17, from: Bureau of Land Management, California
 
 <p>BLM utilized $4.3 million from the <a data-auth="NotApplicable" data-linkindex="1" href="https://www.doi.gov/inflation-reduction-act" rel="noopener noreferrer" target="_blank">Inflation Reduction Act</a> to invest in these important updates to the Western Solar Plan. This investment is helping improve the solar development application process by providing developers with better predictability, while also maintaining sufficient flexibility to address site-specific resource considerations. This planning work also seeks to provide updates that respond to changes, like advances in technology, that have occurred since the BLM’s last programmatic solar development planning effort over a decade ago. </p>
 
-<p>The analysis announced today evaluates six alternatives, each proposing to make different amounts of public land available to solar development applications under different criteria such as proximity to transmission infrastructure, designated critical habitat, or other important ecological and cultural resources. Public input will inform a Final Programmatic Environmental Impact Statement and Record of Decision. The public can submit written comments through April 18, 2024. More details are available on <a data-auth="VerificationFailed" data-linkindex="2" href="https://blmsolar.anl.gov/" originalsrc="https://blmsolar.anl.gov/" rel="noopener noreferrer" shash="FilIEKqkHYzc2xRx5V89iLovVkaAWFlhIik2fMJEfx2Lyx/XZwoI3gF2NHqQsCbxB74By2zD+wGxHGfktuFfCvvOk1ejCRwjrLQy/V+pAD3owcvtmryH7L+lF2v08vNas88rQShDs+M253GllWo7GpZT6Oah+7afqZJ6/GMqmn8=" target="_blank" title="">BLM’s Solar Program website.</a> </p>
+<p>The analysis announced today evaluates six alternatives, each proposing to make different amounts of public land available to solar development applications under different criteria such as proximity to transmission infrastructure, designated critical habitat, or other important ecological and cultural resources. Public input will inform a Final Programmatic Environmental Impact Statement and Record of Decision. The public can submit written comments through April 18, 2024. More details are available on <a data-auth="VerificationFailed" data-linkindex="2" href="https://blmsolar.anl.gov/" originalsrc="https://blmsolar.anl.gov/" rel="noopener noreferrer" shash="FilIEKqkHYzc2xRx5V89iLovVkaAWFlhIik2fMJEfx2Lyx/XZwoI3gF2NHqQsCbxB74By2zD+wGxHGfktuFfCvvOk1ejCRwjrLQy/V+pAD3owcvtmryH7L+lF2v08vNas88rQShDs+M253GllWo7GpZT6Oah+7afqZJ6/GMqmn8=" target="_blank" title>BLM’s Solar Program website.</a> </p>
 
 <h2><b>Continued Progress on Onshore Renewable Energy Development</b> </h2>
 
@@ -221,11 +243,14 @@ date: 2024-01-17, from: Bureau of Land Management, California
 
 <p>In Nevada, the BLM is advancing four proposed solar projects: </p>
 
-<ul><li>The BLM released a draft environmental impact statement for the proposed Libra Solar Project in Mineral and Lyon counties, which, if approved, will generate and store up to 700 megawatts of photovoltaic solar energy that would power approximately 212,233 homes.  </li>
+<ul>
+	<li>The BLM released a draft environmental impact statement for the proposed Libra Solar Project in Mineral and Lyon counties, which, if approved, will generate and store up to 700 megawatts of photovoltaic solar energy that would power approximately 212,233 homes.  </li>
 	<li>The BLM released a draft environmental impact statement for the Rough Hat Clark County Solar Project, which, if approved, will add 400 megawatts of clean solar photovoltaic power to the grid, enough to power approximately 121,276 homes. The proposed project would also include a 700-megawatt battery energy storage system.  </li>
 	<li>The BLM announced a Notice of Intent for the Dodge Flat II Solar project in Nevada, which, if approved, will generate up to 200 megawatts of photovoltaic solar energy on approximately 700 acres of public lands in Washoe county. This would be enough to power approximately 60,638 homes.  </li>
 	<li>The BLM released the <a href="https://www.blm.gov/press-release/bureau-land-management-seeks-comments-proposed-dry-lake-east-energy-center-solar">draft environmental assessment for the Dry Lake East Energy Center Solar Project</a>, which would build a 200 MW photovoltaic solar facility with 200 MW of battery energy storage and an additional 400 MW battery energy storage facility. </li>
-</ul><p>In California, the BLM will release in the coming days a Notice to Proceed for the Camino Solar Project in Kern County, allowing construction to begin on a 44-megawatt photovoltaic solar facility on 233 acres of public land that will power approximately 13,340 homes.  </p>
+</ul>
+
+<p>In California, the BLM will release in the coming days a Notice to Proceed for the Camino Solar Project in Kern County, allowing construction to begin on a 44-megawatt photovoltaic solar facility on 233 acres of public land that will power approximately 13,340 homes.  </p>
 
 <p>In Arizona, the BLM today announced that construction of the White Wing Ranch Solar Project has been completed. White Wing Ranch is a 179-megawatt solar photovoltaic project located on private lands in Yuma County with a generation interconnection (gen-tie) line across approximately 3.5 miles of BLM administered land. This project has the potential to power 54,271 homes.  </p>
 

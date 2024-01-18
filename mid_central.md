@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.03
-updated: 2024-01-17 17:31:50
+updated: 2024-01-18 08:01:52
 ---
 
 # mid central 2024.03
 
-(date: 2024-01-17 17:31:50)
+(date: 2024-01-18 08:01:52)
+
+---
+
+## Dense Fog Advisory issued January 18 at 6:12AM PST until January 18 at 11:00AM PST by NWS
+
+date: 2024-01-18, updated: 2024-01-18, from: Merced, Weather.gov CAP v1.1 alerts
+
+...DENSE FOG ADVISORY REMAINS IN EFFECT UNTIL 11 AM PST THIS MORNING... * WHAT...Visibility one quarter mile or less in patchy dense fog. * WHERE...The San Joaquin Valley. * WHEN...Until 11 AM PST this morning. * IMPACTS...Low visibility could make driving conditions hazardous.
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA1268850D5110.DenseFogAdvisory.1268850E0FB0CA.HNXNPWHNX.496a9c0cb48fab35ac8bbcf07d4fb847">https://alerts.weather.gov/cap/wwacapget.php?x=CA1268850D5110.DenseFogAdvisory.1268850E0FB0CA.HNXNPWHNX.496a9c0cb48fab35ac8bbcf07d4fb847</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA1268850D5110.DenseFogAdvisory.1268850E0FB0CA.HNXNPWHNX.496a9c0cb48fab35ac8bbcf07d4fb847">Save to Pocket</a>
+</span>
 
 ---
 
