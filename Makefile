@@ -110,6 +110,10 @@ html: front_page.tmpl $(html_files)
 
 dump: .FORCE
 	./skimmer_to_sql.bash
+	git add *.sql.gz
+
+load: .FORCE
+	./sql_to_skimmer.bash
 
 archives: mk_archives.bash archives.tmpl
 	./mk_archives.bash      
