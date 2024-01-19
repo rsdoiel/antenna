@@ -1,11 +1,23 @@
 ---
 title: socal north 2024.03
-updated: 2024-01-19 08:17:51
+updated: 2024-01-19 09:49:34
 ---
 
 # socal north 2024.03
 
-(date: 2024-01-19 08:17:51)
+(date: 2024-01-19 09:49:34)
+
+---
+
+## How One Man In A Canoe Found Beauty In The Troubled Salton Sea
+
+date: 2024-01-19, updated: 2024-01-19, from: The LAist
+
+Photographer Sicco Rood spent six days paddling two-thirds of the way around California's largest lake.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/salton-sea-paddling-canoe-trip-photos-sicco-rood">https://laist.com/news/climate-environment/salton-sea-paddling-canoe-trip-photos-sicco-rood</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/salton-sea-paddling-canoe-trip-photos-sicco-rood">Save to Pocket</a>
+</span>
 
 ---
 
@@ -231,11 +243,11 @@ Recent data from numerous universities and researches may suggest that the SAT o
 
 ---
 
-## Oxnard Harbor District Commissioners Welcome New Leadership on the Board
+## Protected: Oxnard Harbor District Commissioners Welcome New Leadership on the Board
 
 date: 2024-01-19, from: Port Hueneme
 
-Cal State University Channel Island’s Celina L. Zacarias named new President for 2024-2025 Download Press Release [Port Hueneme, CA – Jan. 18, 2024] &#8211; On January 16, 2024, the Port of Hueneme welcomed new leadership as the Board of the Oxnard Harbor District voted Celina L. Zacarias to serve as President for 2024. “It is <a class="read-more-style" href="https://www.portofhueneme.org/new-leadership/">Read More</a>
+There is no excerpt because this is a protected post.
 
 <span class="feed-item-link">
 <a href="https://www.portofhueneme.org/new-leadership/">https://www.portofhueneme.org/new-leadership/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.portofhueneme.org/new-leadership/">Save to Pocket</a>

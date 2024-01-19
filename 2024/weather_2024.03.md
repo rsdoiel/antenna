@@ -1,19 +1,60 @@
 ---
 title: weather 2024.03
-updated: 2024-01-19 08:17:51
+updated: 2024-01-19 09:49:35
 ---
 
 # weather 2024.03
 
-(date: 2024-01-19 08:17:51)
+(date: 2024-01-19 09:49:35)
 
 ---
 
-## SPC - No watches are valid as of Fri Jan 19 14:52:02 UTC 2024
+## SPC Jan 19, 2024 1730 UTC Day 2 Convective Outlook
 
 date: 2024-01-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Fri Jan 19 14:52:02 UTC 2024.
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1100 AM CST Fri Jan 19 2024
+
+Valid 201200Z - 211200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Thunderstorms are not expected across the continental U.S. Saturday
+or Saturday night.
+
+...Synopsis...
+Water-vapor imagery midday Friday shows a potent mid- to upper-level
+low/trough over the eastern Pacific west of the CA coast.  This
+feature is forecast to weaken as it moves northeast into the Pacific
+Northwest during daylight hours on Saturday while a weaker
+perturbation moves through the larger-scale trough's base and into
+southern CA late Saturday night.  Farther east, a mid-level ridge
+will shift into the Great Plains concurrent with a trough's
+influence abating along the East Coast.  In the low levels, cool
+and/or stable conditions over much of the Lower 48 states will
+preclude thunderstorm development.
+
+..Smith.. 01/19/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No watches are valid as of Fri Jan 19 17:04:02 UTC 2024
+
+date: 2024-01-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Jan 19 17:04:02 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
@@ -21,14 +62,96 @@ No watches are valid as of Fri Jan 19 14:52:02 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Fri Jan 19 14:52:02 UTC 2024
+## SPC - No MDs are in effect as of Fri Jan 19 17:04:02 UTC 2024
 
 date: 2024-01-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Fri Jan 19 14:52:02 UTC 2024.
+No Mesoscale Discussions are in effect as of Fri Jan 19 17:04:02 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-01-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1048 AM CST Fri Jan 19 2024
+
+Valid 191700Z - 201200Z
+
+...NO CRITICAL AREAS...
+
+No changes. See previous discussion below.
+
+..Bentley.. 01/19/2024
+
+.PREV DISCUSSION... /ISSUED 1241 AM CST Fri Jan 19 2024/
+
+...Synopsis...
+High pressure will build today across the northern Rockies as an
+upper-level low brings rain and snow chances across the Pacific
+Northwest. Across the central/eastern US, a cool post-frontal air
+mass will be in place under building surface high pressure. Given
+the cool and moist conditions, fire weather concerns will remain low
+across the CONUS today.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 19, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-01-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1030 AM CST Fri Jan 19 2024
+
+Valid 191630Z - 201200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected, but a few thunderstorms may
+occur across parts of south Florida and along the central California
+Coast.
+
+...Discussion...
+An amplified but progressive large-scale pattern will exist over the
+CONUS, including a prominent upper trough over the Eastern CONUS. A
+semi-moist environment, albeit with weak lapse rates, may support a
+few thunderstorms today across or near south Florida prior to a cold
+front moving through the region. 
+
+In the West, a few lightning flashes will be possible particularly
+into tonight, as convection moves inland ahead of the advancing
+Pacific trough and an associated surface cold front. Weak
+instability and the anticipated weak/elevated nature of this
+convection is suggestive of a negligible severe risk.
+
+..Guyer/Lyons.. 01/19/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
 </span>
 
 ---
@@ -286,128 +409,6 @@ Thus, thunderstorms are not expected through Thursday morning.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Jan 17, 2024 1630 UTC Day 1 Convective Outlook
-
-date: 2024-01-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0951 AM CST Wed Jan 17 2024
-
-Valid 171630Z - 181200Z
-
-...NO THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Thunderstorms are not expected in the conterminous U.S. through
-tonight.
-
-...Synopsis...
-The majority of the CONUS is dominated by a continental polar air
-mass, with the associated front now into the Bahamas/Cuba/northern
-Yucatan.  Substantial low-level moisture and buoyancy are likely to
-remain to the south of FL, and little to no buoyancy is expected
-with the shortwave trough over the Great Basin/central Rockies. 
-Thus, thunderstorms are not expected through Thursday morning.
-
-..Thompson/Moore.. 01/17/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2024-01-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0944 AM CST Wed Jan 17 2024
-
-Valid 171700Z - 181200Z
-
-...NO CRITICAL AREAS...
-
-The previous forecast (see below) remains on track, with no changes
-or additions made.
-
-..Squitieri.. 01/17/2024
-
-.PREV DISCUSSION... /ISSUED 1149 PM CST Tue Jan 16 2024/
-
-...Synopsis...
-A midlevel shortwave trough accompanied by strong westerly flow
-aloft will impinge on the central Rockies during the day, promoting
-a deepening lee cyclone over the central High Plains. Along and
-south of this feature, 15-25 mph sustained west-southwesterly
-surface winds (with higher gusts) will develop across much of the
-southern High Plains during the afternoon. Here, strengthening
-downslope flow will contribute to 15-25 percent minimum RH, though
-RH reductions should be marginal where the strongest surface winds
-are expected (i.e., east-central NM into the western TX Panhandle
-and in the immediate lee of the high terrain in eastern NM). While
-locally elevated fire-weather conditions are possible across the
-region, the limited wind/RH overlap and marginal fuels preclude
-Elevated highlights.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Jan 16, 2024 1730 UTC Day 2 Convective Outlook
-
-date: 2024-01-16, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1050 AM CST Tue Jan 16 2024
-
-Valid 171200Z - 181200Z
-
-...NO THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Thunderstorms are not expected on Wednesday.
-
-...Synopsis...
-On Wednesday, a stable pattern will exist across the CONUS,
-primarily due to high pressure centered over the Southeast. A large
-upper trough over the Northeast will gradually lift northeastward,
-with offshore surface winds across the Gulf of Mexico and western
-Atlantic. Meanwhile, a broad region of cyclonic flow aloft will
-extend westward across the Plains and Rockies, with an upper ridge
-along the West Coast. As such, thunderstorms are not forecast due to
-a lack of instability across the entire CONUS.
-
-..Jewell.. 01/16/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
 </span>
 
 ---

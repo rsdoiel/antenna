@@ -14,6 +14,7 @@ to promote their content. Right now Antenna is build the following lists
 - [Games](games.html), feeds about interactive games, [games.txt](games.txt)
 - [Columns](columns.html), posts that frequently end up in my [Pocket](https://getpocket.com) reading list, [columns.txt](columns.txt)
 - [Tech Likely](tech_likely.html), miscellanious feeds, mostly computing related, [tech_likely.txt](tech_likely.txt)
+- [Motor Cycles](motorcycles.html), A test feed of interesting Motorcycle related news, [motorcycles.txt](motorcycles.txt)
 - [Weather](weather.html), national weather information from [NOAA's](https://noaa.gov) [weather.gov](https://weather.gov) website.
 	- [weather.txt](weather.txt)
 - [Snapshots](snapshots/) aggregation in waterhose built from [snapshots/news.txt](snapshots/news.txt). It is very experimental and is focused on exploring Pagefind as a Personal Search Engine.

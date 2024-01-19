@@ -5,4 +5,8 @@ https://kickinthetires.net/feed/ "~Kickin the Tires blog"
 # Not specifically Motorcycles but does have one about riding one in
 # South Africa, includes content on Motorcycling
 https://herman.bearblog.dev/feed/?type=rss "~Herman Bear Blog" 
+# Electric Motorcycle News
+https://www.rideapart.com/rss/news/all/ "~Ride Apart, Electric Motorcycle News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+# cycle world
+https://www.cycleworld.com/arcio/rss/ "~Cycle World News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 

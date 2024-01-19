@@ -1,11 +1,59 @@
 ---
 title: tech likely 2024.03
-updated: 2024-01-19 08:17:51
+updated: 2024-01-19 09:49:35
 ---
 
 # tech likely 2024.03
 
-(date: 2024-01-19 08:17:51)
+(date: 2024-01-19 09:49:35)
+
+---
+
+## Solidarität mit Correctiv
+
+date: 2024-01-19, updated: 2024-01-19, from: Chaos Computer Club
+
+Das Recherchezentrum „Correctiv“ hat die Deportationspläne von Mitgliedern der AfD, CDU und Identitären Bewegung bei einem konspirativen Treffen in Potsdam enthüllt. Nun greift die Partei AfD in ihrem Mitgliederblatt die Journalistinnen persönlich an. Der CCC verurteilt diesen Angriff auf kritische Berichterstattung über antidemokratische Entwicklungen.
+
+<span class="feed-item-link">
+<a href="https://www.ccc.de/de/updates/2024/solidaritat-mit-correctiv">https://www.ccc.de/de/updates/2024/solidaritat-mit-correctiv</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.ccc.de/de/updates/2024/solidaritat-mit-correctiv">Save to Pocket</a>
+</span>
+
+---
+
+##  A recent report found that corporate profiteering &#8220;accounted for about 53% of... 
+
+date: 2024-01-19, updated: 2024-01-19, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043820-a-recent-report-found-tha">https://kottke.org/24/01/0043820-a-recent-report-found-tha</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043820-a-recent-report-found-tha">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’S OSIRIS-REx Curation Team Reveals Remaining Asteroid Sample
+
+date: 2024-01-19, from: NASA breaking news
+
+The astromaterials curation team at NASA’s Johnson Space Center in Houston has completed the disassembly of the OSIRIS-REx sampler head to reveal the remainder of the asteroid Bennu sample inside. On Jan. 10, they successfully removed two stubborn fasteners that had prevented the final steps of opening the Touch-and-Go-Sample-Acquisition-Mechanism (TAGSAM) head. Erika Blumenfeld, creative lead [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasas-osiris-rex-curation-team-reveals-remaining-asteroid-sample/">https://www.nasa.gov/image-article/nasas-osiris-rex-curation-team-reveals-remaining-asteroid-sample/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasas-osiris-rex-curation-team-reveals-remaining-asteroid-sample/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Goddard Experts to Take Part in February STEM Conference
+
+date: 2024-01-19, from: NASA breaking news
+
+Alongside experts from academia and industry, leaders from NASA’s Goddard Space Flight Center in Greenbelt, Maryland, will be on hand at the Feb. 25–29 PowerSource Global Summit conference in Orlando. Dr. Christyl Johnson, Goddard’s deputy center director for technology and research investments, will deliver the conference’s keynote address on Feb. 26, sharing insights on space [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddard-experts-to-take-part-in-february-stem-conference/">https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddard-experts-to-take-part-in-february-stem-conference/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/goddard/nasa-goddard-experts-to-take-part-in-february-stem-conference/">Save to Pocket</a>
+</span>
 
 ---
 

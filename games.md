@@ -1,11 +1,47 @@
 ---
 title: games 2024.03
-updated: 2024-01-19 08:17:51
+updated: 2024-01-19 09:49:35
 ---
 
 # games 2024.03
 
-(date: 2024-01-19 08:17:51)
+(date: 2024-01-19 09:49:35)
+
+---
+
+## Video game industry layoffs, AI ethics are top concerns for workers, new survey says
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24043293/game-developers-conference-gdc-survey-2024">https://www.polygon.com/24043293/game-developers-conference-gdc-survey-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24043293/game-developers-conference-gdc-survey-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Everything we know about ‘Switch 2,’ Nintendo’s next-gen console
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games">https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games">Save to Pocket</a>
+</span>
+
+---
+
+## I.S.S. takes all the oxygen out of the space survival thriller
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24043519/iss-review-ariana-debose">https://www.polygon.com/reviews/24043519/iss-review-ariana-debose</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24043519/iss-review-ariana-debose">Save to Pocket</a>
+</span>
 
 ---
 

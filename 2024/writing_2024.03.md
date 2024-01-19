@@ -1,11 +1,24 @@
 ---
 title: writing 2024.03
-updated: 2024-01-19 08:17:51
+updated: 2024-01-19 09:49:35
 ---
 
 # writing 2024.03
 
-(date: 2024-01-19 08:17:51)
+(date: 2024-01-19 09:49:35)
+
+---
+
+## Liz Bourke Reviews These Burning Stars by Bethany Jacobs
+
+date: 2024-01-19, from: Locus Magazine
+
+<p><strong>These Burning Stars</strong>, Bethany Jacobs (Orbit US 978-0-316-46332-4, $19.99, 423pp, tp) October 2023.</p>
+<p><strong>These Burning Stars </strong>is Bethany Jacobs’s debut novel, and it’s an interesting and ambitious space opera – and a surprisingly self-contained narrative for an entry in that typically sprawling subgenre. Jacobs has the confidence to go big, and the control to bring her debut to a satisfying conclusion: I feel that fans of Megan E. O’Keefe’s  <a href="https://locusmag.com/2024/01/liz-bourke-reviews-these-burning-stars-by-bethany-jacobs/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/liz-bourke-reviews-these-burning-stars-by-bethany-jacobs/">https://locusmag.com/2024/01/liz-bourke-reviews-these-burning-stars-by-bethany-jacobs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/liz-bourke-reviews-these-burning-stars-by-bethany-jacobs/">Save to Pocket</a>
+</span>
 
 ---
 

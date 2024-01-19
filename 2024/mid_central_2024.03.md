@@ -1,11 +1,25 @@
 ---
 title: mid central 2024.03
-updated: 2024-01-19 08:17:51
+updated: 2024-01-19 09:49:35
 ---
 
 # mid central 2024.03
 
-(date: 2024-01-19 08:17:51)
+(date: 2024-01-19 09:49:35)
+
+---
+
+## Using an inductor to improve an existing design
+
+date: 2024-01-19, from: EDN Blog
+
+<img width="355" height="225" src="https://www.edn.com/wp-content/uploads/Fig1-1.jpg?fit=355%2C225" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig1-1.jpg?w=355 355w, https://www.edn.com/wp-content/uploads/Fig1-1.jpg?w=300 300w" sizes="(max-width: 355px) 100vw, 355px" /><p>Making a simple adjustment to an existing voltage converter design improves efficiency.</p>
+<p>The post <a href="https://www.edn.com/using-an-inductor-to-improve-an-existing-design/" data-wpel-link="internal">Using an inductor to improve an existing design</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/using-an-inductor-to-improve-an-existing-design/">https://www.edn.com/using-an-inductor-to-improve-an-existing-design/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/using-an-inductor-to-improve-an-existing-design/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -25,7 +39,7 @@ date: 2024-01-19, from: Amateur Radio Relay League News
 
 date: 2024-01-19, from: EDN Blog
 
-<img width="630" height="354" src="https://www.edn.com/wp-content/uploads/Fig-1-MEMS-AM.jpg?fit=630%2C354" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-MEMS-AM.jpg?w=630 630w, https://www.edn.com/wp-content/uploads/Fig-1-MEMS-AM.jpg?w=300 300w" sizes="(max-width: 630px) 100vw, 630px" /><p>PZT thin films are the next frontier for MEMS and a design service provider has joined a fab to facilitate design-to-production value chain.</p>
+<img width="630" height="354" src="https://www.edn.com/wp-content/uploads/Fig-1-MEMS-AM.jpg?fit=630%2C354" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-1-MEMS-AM.jpg?w=630 630w, https://www.edn.com/wp-content/uploads/Fig-1-MEMS-AM.jpg?w=300 300w" sizes="(max-width: 630px) 100vw, 630px" /><p>PZT thin films are the next frontier for MEMS and a design service provider has joined a fab to facilitate design-to-production value chain.</p>
 <p>The post <a href="https://www.edn.com/making-the-case-for-a-new-mems-fab-model/" data-wpel-link="internal">Making the case for a new MEMS fab model</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 

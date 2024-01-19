@@ -26,9 +26,9 @@ md_files = $(addsuffix .md,$(section_names))
 
 html_files = $(addsuffix .html,$(section_names))
 
-build: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind
+build: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
 
-world: snapshots harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind
+world: snapshots harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
 
 snapshots: .FORCE
 	cd snapshots && make

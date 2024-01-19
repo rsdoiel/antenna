@@ -1,15 +1,39 @@
 ---
 title: columns 2024.03
-updated: 2024-01-19 08:17:51
+updated: 2024-01-19 09:49:35
 ---
 
 # columns 2024.03
 
-(date: 2024-01-19 08:17:51)
+(date: 2024-01-19 09:49:35)
 
 ---
 
-## Why Jamie Dimon loves Trump's policies 
+## A New Vision (Pro) Day
+
+date: 2024-01-19, from: Om Malik blog
+
+Editor’s Note: I want to take a moment to welcome new readers who have stumbled upon my internet homestead, thanks to Ben Thompson&#8217;s&#160;interview with me on the Stratechery Podcast&#160;(Subscription Required). We delved into the history of technology and my renewed enthusiasm for its future. And, of course, we chatted about Apple’s Vision Pro. Apple’s Vision &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/01/19/a-new-vision-pro-day/">https://om.co/2024/01/19/a-new-vision-pro-day/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/01/19/a-new-vision-pro-day/">Save to Pocket</a>
+</span>
+
+---
+
+## RIP, Internet’s Time Lord
+
+date: 2024-01-19, from: Om Malik blog
+
+I want to take a moment and say a silent prayer for David Mills, the creator of Network Time Protocol (NTP), which is fundamental to the functioning of networks. Mills, nicknamed the Internet’s Time Lord by his peers, passed away on January 17 at the age of 85. His contributions to the development and evolution of &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/01/19/rip-internets-time-lord/">https://om.co/2024/01/19/rip-internets-time-lord/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/01/19/rip-internets-time-lord/">Save to Pocket</a>
+</span>
+
+---
+
+## Why Jamie Dimon loves Trump’s policies 
 
 date: 2024-01-19, from: Robert Reich's blog
 
