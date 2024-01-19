@@ -1,11 +1,38 @@
 ---
 title: libraries 2024.03
-updated: 2024-01-18 08:01:52
+updated: 2024-01-19 08:17:52
 ---
 
 # libraries 2024.03
 
-(date: 2024-01-18 08:01:52)
+(date: 2024-01-19 08:17:52)
+
+---
+
+## Large Language Publishing [Originally published in the Upstram blog in January/2024]
+
+date: 2024-01-19, from: SciELO in Perspective
+
+<p>The New York Times ushered in the New Year with a lawsuit against OpenAI and Microsoft. OpenAI and its Microsoft patron had, according to the filing, stolen “millions of The Times’ copyrighted news articles, in-depth investigations, opinion pieces, reviews, how-to guides,” and more—all to train OpenAI’s LLMs. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://doi.org/10.54900/zg929-e9595#new_tab" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://doi.org/10.54900/zg929-e9595#new_tab">Large Language Publishing [Originally published in the Upstram blog in January/2024]</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>
+
+<span class="feed-item-link">
+<a href="https://doi.org/10.54900/zg929-e9595#new_tab">https://doi.org/10.54900/zg929-e9595#new_tab</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://doi.org/10.54900/zg929-e9595#new_tab">Save to Pocket</a>
+</span>
+
+---
+
+## A Salute to Library Book Binding and its NISO Standard
+
+date: 2024-01-19, from: Scholarly Kitchen
+
+<p>You're probably familiar with "library binding" of books. But just what does that entail?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/01/19/a-salute-to-library-book-binding-and-its-niso-standard/">A Salute to Library Book Binding and its NISO Standard</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/01/19/a-salute-to-library-book-binding-and-its-niso-standard/">https://scholarlykitchen.sspnet.org/2024/01/19/a-salute-to-library-book-binding-and-its-niso-standard/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/01/19/a-salute-to-library-book-binding-and-its-niso-standard/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -53,7 +80,7 @@ date: 2024-01-17, from: Scholarly Kitchen
 
 date: 2024-01-16, from: Association of Research Libraries News
 
-<p>Last Updated on January 17, 2024, 2:43 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, January 17 &#124; Thursday, January 18 Tuesday, January...</p>
+<p>Last Updated on January 18, 2024, 4:42 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, January 17 &#124; Thursday, January 18 Tuesday, January...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-16-18/">Day in Review (January 16–18)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 

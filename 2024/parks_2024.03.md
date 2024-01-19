@@ -1,11 +1,65 @@
 ---
 title: parks 2024.03
-updated: 2024-01-18 08:01:52
+updated: 2024-01-19 08:17:52
 ---
 
 # parks 2024.03
 
-(date: 2024-01-18 08:01:52)
+(date: 2024-01-19 08:17:52)
+
+---
+
+## BLM announces temporary closure of Fleener Creek Trailhead in Humboldt County
+
+date: 2024-01-18, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2024-01/53470557311_f040f00d61_w.jpg?h=3b5d1417&itok=xiGRWuyD" width="150" height="100" alt="a trail along the Pacific Ocean sliding down a large cliff." typeof="foaf:Image">
+
+
+</div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="6a9802f0-2e95-43e4-a084-9b15bfba8dba" data-langcode="en" class="align-left embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/53470557311_f040f00d61_w.jpg?itok=A09XH5Pp" width="400" height="300" alt="a trail along the Pacific Ocean sliding down a large cliff." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p>ARCATA, Calif. – The Bureau of Land Management has announced a temporary closure of the Fleener Creek Trailhead and parking lot in the Lost Coast Headlands in Humboldt County for public safety, due to ongoing landslides that have damaged wooden steps needed for accessing steep parts of the trail.</p>
+
+<p>Sections of the steps have fallen away as the soil has slumped, making the upper sections of the trail impassable.</p>
+
+<p>“Our staff are evaluating the situation to determine what repairs are needed, and how long those repairs will take,” said Collin Ewing, manager of the BLM Arcata Field Office. “The situation has been exacerbated by ongoing winter storms. We will work to re-open the trail as soon as it can be repaired or rerouted safely.”</p>
+
+<p>There is alternate day use parking at the main Lost Coast Headlands entrance, and alternate beach access parking at Guthrie Creek Trailhead.</p>
+
+<p>The Lost Coast Headlands are along the coastal bluffs south of the mouth of the Eel River, approximately 280 miles north of San Francisco, 25 miles south of Eureka, and six miles west of Ferndale. The 463 acres of public land provide seasonal beach access and include grasslands with scattered patches of forest and portions of the Fleener Creek and Guthrie Creek watersheds.</p>
+
+<p>The site is popular for hiking, bird watching, wildflower viewing, and beachcombing and is part of the California Coastal National Monument.</p>
+
+<p>For updates and more information on the area, please visit the <a href="https://www.blm.gov/visit/lost-coast-headlands">Lost Coast Headlands webpage</a>.</p>
+</div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/press-release/blm-announces-temporary-closure-fleener-creek-trailhead-humboldt-county">https://www.blm.gov/press-release/blm-announces-temporary-closure-fleener-creek-trailhead-humboldt-county</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/press-release/blm-announces-temporary-closure-fleener-creek-trailhead-humboldt-county">Save to Pocket</a>
+</span>
 
 ---
 
@@ -31,7 +85,7 @@ date: 2024-01-17, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/Photo%204_volunteers_pose_for_picture.jpg?itok=4aVRWQiE" width="640" height="480" alt="Four volunteers pose for a photo." typeof="foaf:Image">
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-01/Photo%204_volunteers_pose_for_picture.jpg?itok=4aVRWQiE" width="640" height="480" alt="Four people pose for a photo." typeof="foaf:Image">
 
 
 </div>
@@ -39,13 +93,13 @@ date: 2024-01-17, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>The Association of Arizona Conservation Districts volunteers pose for a photo while collecting Assessment, Inventory, and Monitoring (AIM) data on the San Pedro Riparian National Conservation Area.</figcaption>
+<figcaption>The Association of Arizona Conservation Districts crew poses for a photo while collecting Assessment, Inventory, and Monitoring (AIM) data on the San Pedro Riparian National Conservation Area.</figcaption>
 </figure>
 
 
 <p paraeid="{c72fc259-a156-479c-926b-095eff77ed12}{231}" paraid="1867219868">The BLM Tucson Field Office partnered with an <a href="https://www.aacd1944.com/" rel="noreferrer noopener" target="_blank">Association of Arizona Conservation Districts</a> (AACD) crew in fall 2023 to collect Assessment, Inventory, and Monitoring (AIM) data on the San Pedro Riparian National Conservation Area (SPRNCA), part of the recently established <a href="https://www.blm.gov/press-release/presidents-investing-america-agenda-invest-152-million-restoration-work-arizona" rel="noreferrer noopener" target="_blank">Sky Islands Restoration Landscape.</a>  </p>
 
-<p paraeid="{73bb29aa-718c-4cd2-9c37-d9a0359af47e}{28}" paraid="121509116">AACD volunteers collected data in the uplands, which is the ground above the lowlands along rivers and between hills, within the portions of the SPRNCA authorized for livestock grazing. This work was funded through the <a href="https://www.doi.gov/inflation-reduction-act#:~:text=The%20Inflation%20Reduction%20Act%20provides%20%24700%20million%20to%20advance%20conservation,at%20the%20National%20Park%20Service." rel="noreferrer noopener" target="_blank">Inflation Reduction Act</a> and completed through an assistance agreement with AACD. </p>
+<p paraeid="{73bb29aa-718c-4cd2-9c37-d9a0359af47e}{28}" paraid="121509116">The AACD crew collected data in the uplands, which is the ground above the lowlands along rivers and between hills, within the portions of the SPRNCA authorized for livestock grazing. This work was funded through the <a href="https://www.doi.gov/inflation-reduction-act#:~:text=The%20Inflation%20Reduction%20Act%20provides%20%24700%20million%20to%20advance%20conservation,at%20the%20National%20Park%20Service." rel="noreferrer noopener" target="_blank">Inflation Reduction Act</a> and completed through an assistance agreement with AACD. </p>
 
 <p paraeid="{73bb29aa-718c-4cd2-9c37-d9a0359af47e}{76}" paraid="1100032743">The Tucson Field Office collects AIM data to assess the condition and trend of plant communities on the SPRNCA, located in southeastern Arizona. The collected AIM data will be used to assess overall condition and trend of upland resources, inform management decisions, and assess vegetation treatment effectiveness. </p>
 
@@ -71,7 +125,7 @@ date: 2024-01-17, from: Bureau of Land Management, blog
 </div>
 </div>
 
-<figcaption>In fall 2023, volunteers conduct AIM monitoring on the San Pedro Riparian National Conservation Area in Arizona.</figcaption>
+<figcaption>In fall 2023, a crew conducts AIM monitoring on the San Pedro Riparian National Conservation Area in Arizona.</figcaption>
 </figure>
 
 

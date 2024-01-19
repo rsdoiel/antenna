@@ -1,11 +1,782 @@
 ---
 title: tech likely 2024.03
-updated: 2024-01-18 08:01:52
+updated: 2024-01-19 08:17:51
 ---
 
 # tech likely 2024.03
 
-(date: 2024-01-18 08:01:52)
+(date: 2024-01-19 08:17:51)
+
+---
+
+##  Which One Wins? LeBron&#8217;s Brain or His Body? 
+
+date: 2024-01-19, updated: 2024-01-19, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/which-one-wins-lebrons-brain-or-his-body">https://kottke.org/24/01/which-one-wins-lebrons-brain-or-his-body</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/which-one-wins-lebrons-brain-or-his-body">Save to Pocket</a>
+</span>
+
+---
+
+## Clashing Cosmic Numbers Challenge Our Best Theory of the Universe
+
+date: 2024-01-19, from: Quanta Magazine
+
+As measurements of distant stars and galaxies become more precise, cosmologists are struggling to make sense of sparring values.            <p>The post <a href="https://www.quantamagazine.org/clashing-cosmic-numbers-challenge-our-best-theory-of-the-universe-20240119/" target="_blank">Clashing Cosmic Numbers Challenge Our Best Theory of the Universe</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/clashing-cosmic-numbers-challenge-our-best-theory-of-the-universe-20240119/">https://www.quantamagazine.org/clashing-cosmic-numbers-challenge-our-best-theory-of-the-universe-20240119/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/clashing-cosmic-numbers-challenge-our-best-theory-of-the-universe-20240119/">Save to Pocket</a>
+</span>
+
+---
+
+## Boston Students to Hear from NASA Astronaut Aboard Space Station
+
+date: 2024-01-19, from: NASA breaking news
+
+Students, staff, and researchers from Massachusetts General Hospital, Harvard Medical School, and two local public schools in Boston will have an opportunity next week to hear from NASA astronaut Loral O’Hara aboard the International Space Station. The Earth-to-space call will air live at 9:55 a.m. EST Tuesday, Jan. 23, on&#160;NASA+, NASA Television, the&#160;NASA app, and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/boston-students-to-hear-from-nasa-astronaut-aboard-space-station/">https://www.nasa.gov/news-release/boston-students-to-hear-from-nasa-astronaut-aboard-space-station/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/boston-students-to-hear-from-nasa-astronaut-aboard-space-station/">Save to Pocket</a>
+</span>
+
+---
+
+##  Watch live as JAXA&#8217;s &#8220;Moon Sniper&#8221; mission attempts to land on the... 
+
+date: 2024-01-19, updated: 2024-01-19, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043818-watch-live-as-jaxas-moon">https://kottke.org/24/01/0043818-watch-live-as-jaxas-moon</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043818-watch-live-as-jaxas-moon">Save to Pocket</a>
+</span>
+
+---
+
+##  Randall Munroe remembers hearing a song once featuring a chorus of women... 
+
+date: 2024-01-19, updated: 2024-01-19, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043817-randall-munroe-remembers-">https://kottke.org/24/01/0043817-randall-munroe-remembers-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043817-randall-munroe-remembers-">Save to Pocket</a>
+</span>
+
+---
+
+## ADD revisited
+
+date: 2024-01-19, from: Ayjay blog
+
+On the first day of my Christian Renaissance of the Twentieth Century course — mentioned here — I played for my students a few minutes of the first movement of Rachmaninoff’s Second Piano Concerto. We paused to talk a bit about the musical language of late Romanticism, about Rachmaninoff’s gift for lush melody, etc. Then [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/add-revisited/">https://blog.ayjay.org/add-revisited/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/add-revisited/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-19, from: Dave Winer's Scripting News)
+
+<a href="https://samizdatonline.org/">Samizdat Online</a> is a DNS-based proxy that makes it possible to read articles from websites that are blocked by the Russian government. Apparently they have a certain number of random domains, that probably change regularly, and they mirror the contents of a story from one of the blocked sites via a random domain. An example of a <a href="https://kqtevvweix.com?t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3d3dy50aGVtb3Njb3d0aW1lcy5jb20vMjAyNC8wMS8xOC9hbW5lc3R5LWludGVybmF0aW9uYWwtdXJnZXMtZXVyb3BlLXRvLWVuZC1ub3J0aC1jYXVjYXN1cy1leHB1bHNpb25zLWE4Mzc1OCIsInJvb3QiOiJodHRwczovL3d3dy50aGVtb3Njb3d0aW1lcy5jb20iLCJ0eXBlIjoidGV4dC9odG1sIiwiaWF0IjoxNzA1Njc0NDU4LCJleHAiOjE3MDY1Mzg0NTh9.kofaNFyvrOcqNfx12W43zeuCsWoUqV2JLvdrL8e9y1s">link to a story</a> on the Moscow Times. Their <a href="https://samizdatonline.org/">home page</a> <a href="https://imgs.scripting.com/2024/01/19/samizdatstorylist.png">looks like</a> a fairly basic feed reader.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/19.html#a143015">http://scripting.com/2024/01/19.html#a143015</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/19.html#a143015">Save to Pocket</a>
+</span>
+
+---
+
+## 55 Years Ago: Six Months Until the Moon Landing
+
+date: 2024-01-19, from: NASA breaking news
+
+The new year of 1969 dawned with optimism that NASA would meet President John F. Kennedy’s goal of landing a man on the Moon and returning him safely to the Earth. The previous year saw four Apollo missions, two uncrewed and two carrying three astronauts each, test different components of the lunar landing architecture, culminating [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/history/55-years-ago-six-months-until-the-moon-landing/">https://www.nasa.gov/history/55-years-ago-six-months-until-the-moon-landing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/history/55-years-ago-six-months-until-the-moon-landing/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-19, from: Miguel de Icaza Mastondon feed)
+
+<p>And now - we wait</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111782842131437298">https://mastodon.social/@Migueldeicaza/111782842131437298</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111782842131437298">Save to Pocket</a>
+</span>
+
+---
+
+## Serving Oddµ via a socket
+
+date: 2024-01-19, from: Alex Schroeder's Blog
+
+<h1>Serving Oddµ via a socket</h1>
+
+<p>Recently, <a href="http://the-brannons.com/">Chris Brannon</a> sent me a patch for <a href="Odd%C2%B5">Oddµ</a> that allowed it to listen at a Unix-domain socket instead of a host and port.</p>
+
+<p>I decided to investigate since I don&rsquo;t know anything about sockets. If you see something that can be improved, let me know.</p>
+
+<p>I&rsquo;m going to use systemd, but for my user.</p>
+
+<p>I have two files, one for the socket and one for the service. These are not the same files as the ones provided with the Oddµ sources. Those are intended to be used together with a web server that acts as a reverse proxy. These files are for me testing the installation using netcat and curl.</p>
+
+<h2>Socket</h2>
+
+<p>Make sure the directory for the socket exists:</p>
+
+<pre><code>mkdir --parents /home/alex/.local/run/oddmu
+</code></pre>
+
+<p>This is the file &ldquo;oddmu-unix-domain.socket&rdquo;:</p>
+
+<pre><code>[Unit]
+Description=Oddmu server socket
+[Socket]
+ListenStream=/home/alex/.local/run/oddmu/oddmu.sock
+Accept=no
+[Install]
+WantedBy=sockets.target
+</code></pre>
+
+<p>Enable and start it:</p>
+
+<pre><code>systemctl --user enable ./oddmu-unix-domain.socket
+systemctl --user start oddmu-unix-domain.socket
+</code></pre>
+
+<h2>Service</h2>
+
+<p>Make sure the directory for the wiki exists and copy the template files:</p>
+
+<pre><code>mkdir --parents /home/alex/.local/share/oddmu
+cp *.html /home/alex/.local/share/oddmu
+</code></pre>
+
+<p>This is the file &ldquo;oddmu-unix-domain.service&rdquo;:</p>
+
+<pre><code>[Unit]
+Description=Oddmu
+After=network.target
+Requires=oddmu-unix-domain.socket
+[Install]
+WantedBy=default.target
+[Service]
+Type=simple
+Restart=always
+StandardInput=socket
+StandardOutput=journal
+StandardError=journal
+ExecStart=/home/alex/src/oddmu/oddmu
+WorkingDirectory=/home/alex/.local/share/oddmu
+Environment=&quot;ODDMU_WEBFINGER=1&quot;
+Environment=&quot;ODDMU_LANGUAGES=de,en&quot;
+</code></pre>
+
+<p>This doesn&rsquo;t limit a lot of capabilities, but I guess I trust my own code.</p>
+
+<p>Install it:</p>
+
+<pre><code>systemctl --user enable ./oddmu-unix-domain.service
+systemctl --user start oddmu-unix-domain.service
+</code></pre>
+
+<h2>Test</h2>
+
+<p>Check the journal:</p>
+
+<pre><code>journalctl --user --follow --unit oddmu-unix-domain
+</code></pre>
+
+<p>Do some requests using netcat:</p>
+
+<pre><code>echo -e &quot;GET / HTTP/1.1\r\nHost: localhost\r\n\r\n&quot; \
+  | ncat --unixsock ~/.local/run/oddmu/oddmu.sock
+echo -e &quot;GET /view/index HTTP/1.1\r\nHost: localhost\r\n\r\n&quot; \
+  | ncat --unixsock ~/.local/run/oddmu/oddmu.sock
+echo -e &quot;GET /edit/index HTTP/1.1\r\nHost: localhost\r\n\r\n&quot; \
+  | ncat --unixsock ~/.local/run/oddmu/oddmu.sock
+</code></pre>
+
+<p>Using curl:</p>
+
+<pre><code>curl --unix-socket ~/.local/run/oddmu/oddmu.sock \
+  http://localhost/edit/index
+curl --unix-socket ~/.local/run/oddmu/oddmu.sock \
+  --form body=&quot;Hello!&quot; http://localhost/save/index
+curl --unix-socket ~/.local/run/oddmu/oddmu.sock \
+  http://localhost/view/index
+</code></pre>
+
+<h2>What now?</h2>
+
+<p>I don&rsquo;t think I&rsquo;m going to change my web server setup. But using sockets and <code>systemctl --user</code> has been interesting.</p>
+
+<p>Thank you, Chris Brannon, for sending that patch!</p>
+
+<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a> <a class="tag" href="/search/?q=%23Administration">#Administration</a></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-01-19-oddmu-socket">https://alexschroeder.ch/view/2024-01-19-oddmu-socket</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-01-19-oddmu-socket">Save to Pocket</a>
+</span>
+
+---
+
+## What we talk about when we talk about The Future
+
+date: 2024-01-19, from: Dave Karpf's blog
+
+A few thoughts on four genres of futurism
+
+<span class="feed-item-link">
+<a href="https://davekarpf.substack.com/p/what-we-talk-about-when-we-talk-about">https://davekarpf.substack.com/p/what-we-talk-about-when-we-talk-about</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://davekarpf.substack.com/p/what-we-talk-about-when-we-talk-about">Save to Pocket</a>
+</span>
+
+---
+
+## P&B: Tom MacWright
+
+date: 2024-01-19, from: Manu - I write blog
+
+<p>This is the 21st edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Tom MacWright and his blog, <a href="https://macwright.com" rel="noreferrer" target="_blank">macwright.com</a></p>
+<p>Tom is an American programmer, with a very minimal blog—something I really appreciate—and he's currently working on <a href="https://www.val.town" rel="noreferrer" target="_blank">Val.town</a>, a social website to code in the cloud.</p>
+<p>To follow this series <a href="https://peopleandblogs.com" rel="noreferrer" target="_blank">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<hr />
+<div class="q"><p><strong>Let&#039;s start from the basics: can you introduce yourself?</strong></p></div>
+<div class="a"><p>Hi! I'm from New Jersey and I live in Brooklyn now. I studied Computer Science in college a lot time ago, and that led to a series of jobs at early-stage startups: I've worked on CAD software extensions, visualization tools, geospatial software, and programming tools. It can be a little hectic, the urgency to get these companies from point A to B, but I like it.</p>
+<p>I've always had a lot of hobbies, and have kept most of them. Guitar, banjo, running, art, writing, gardening, hardware projects: having a few things to do is pretty important to me. The creative energy from one project can spill over to another, and you can get a fresh perspective by taking a break from some long-running task.</p></div>
+<div class="q"><p><strong>What&#039;s the story behind your blog?</strong></p></div>
+<div class="a"><p>When I started writing online in 2010, there were a lot of people leading the way. I remember <a href="http://simplebits.com/blog/">SimpleBits</a> and <a href="https://kottke.org/">kottke</a>, <a href="http://artypapers.com/">Rebekah Cox</a> and David Heinemeier Hansson. <a href="https://rsms.me/">Rasmus Andersson</a> had a perfect look for his blog that heavily influenced mine. One of my earliest jobs, working at a company called <a href="https://developmentseed.org/">Development Seed</a>, encouraged us all to write. Bonnie Bogle, one of the founders, had worked professionally as a writer and helped a lot with editing and taught us all how to write for the web.</p>
+<p>I write to think, so I do it all the time and not just for the blog. I keep paper journals. I like that quote on the back of all my <a href="https://fieldnotesbrand.com/">Field Notes</a> notebooks: "I’m not writing it down to remember it later, I’m writing it down to remember it now."</p>
+<p>For the current blog, I'm kind of proud of how little it's changed. It's so easy to just chase the latest blog software or design, but with my current blog I've been able to really restrain myself. I like the design and the technology just works. The content has definitely changed as what I've worked on shifted. There's usually some writing that's work-related, some that's about what I'm interested in now. I've added sections for photos and book reviews.</p></div>
+<div class="q"><p><strong>What does your creative process look like when it comes to blogging?</strong></p></div>
+<div class="a"><p>I don't have a process for getting inspired or finding topics to write about. I just write about what I'm interested in and what I think is fun to share. So sometimes months go by without finishing anything, and sometimes it's four posts in a month.</p>
+<p>It's scary when the inspiration doesn't come. Right now is one of those times: it's been three months since I wrote a standalone blog post. But I write one a month, always called "Recently," which is there to keep a cadence. The Recently posts have a consistent structure and are less of a commitment to write - I think they've helped me keep the habit through all these years.</p>
+<p>I don't have anyone proofread my drafts. I make grammar and spelling mistakes all the time, and would probably benefit from an editor, but it's a solo operation, for better or worse.</p>
+<p>I don't write outlines. Sometimes I'll write multiple drafts when I can't figure out which part of the topic is really interesting. I'll write long blog posts just to find the 25% that's actually good, and I'll keep just that part.</p></div>
+<div class="q"><p><strong>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</strong></p></div>
+<div class="a"><p>I'm either incredibly neat in my own space, with everything on the table arranged at right angles, or writing on a laptop at a chaotic cafe. If I'm listening to anything when I'm writing, it's <a href="https://en.wikipedia.org/wiki/Tim_Hecker">Tim Hecker</a>.</p></div>
+<div class="q"><p><strong>A question for the techie readers: can you run us through your tech stack?</strong></p></div>
+<div class="a"><p>Sure! It's simple. The blog is generated by <a href="https://jekyllrb.com/">Jekyll</a>, stored on <a href="https://github.com/">GitHub</a> and hosted on <a href="https://netlify.com/">Netlify</a>. I recently switched to using Cloudflare as my domain registrar – really happy with them so far. I also used Cloudflare to store photos, with their R2 service. I also have my own email address on the site, using Fastmail, which is fantastic.</p>
+<p>And that's really it – it's a static site. I've made small changes to the tech stack like switching from GitHub Pages to Netlify and from Gandi to Cloudflare. But overall, I've used simple tools to make something simple and it has been unproblematic.</p></div>
+<div class="q"><p><strong>Given your experience, if you were to start a blog today, would you do anything differently?</strong></p></div>
+<div class="a"><p>Not really: I like how I have it set up. Maybe I'd use Hugo or Eleventy instead of Jekyll, just because it's annoying to set up Ruby on new computers. But Jekyll has been great otherwise.</p>
+<p>It's easy to overcomplicate these things.</p></div>
+<div class="q"><p><strong>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what&#039;s your position on people monetising personal blogs?</strong></p></div>
+<div class="a"><p>The domain costs about $20 a year. Hosting images on Cloudflare R2 costs a few cents a month. Fastmail costs $5 a month.</p>
+<p>Thanks to Brooklyn rents, these numbers are relatively insignificant to me.</p>
+<p>I've tried a few things to monetize it: affiliate links, hooking up the Brave Browser's advertising system, and a ko-fi.com link for donations.</p>
+<p>I also sell the blog's theme for $100, because people kept asking for it. But, I try to make it clear that if you just want to recreate it on your own or rip off design elements, be my guest, don't pay me!</p>
+<p>I shut down the Brave advertising setup, which paid me in BAT tokens, because the annoyance of accounting for "crypto income" outweighed the income itself. I don't use affiliate links anymore – they were always a paltry income.</p>
+<p>For me, I've had a relatively comfortable career in the tech industry. The most value that my blog has provided me is job flexibility and exposure. I feel awkward about the prospect of monetizing my audience and I have the luxury not to do so.</p>
+<p>But that's not a universal experience at all, and I think it's totally cool and fair for anyone to monetize their blog. Some people have done really well that way!</p></div>
+<div class="q"><p><strong>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</strong></p></div>
+<div class="a"><p>I read enough tech stuff at work, so I don't really need programming blogs. I have a few RSS subscriptions that I still treasure: <a href="https://www.cycfi.com/">Cycfi Research</a> is from a company that is building wild MIDI-compatible guitars out of carbon fiber. <a href="https://zeptobars.com/en/">Zeptobars</a> is a very focused blog that posts die shots - images of chips after the coating has been etched away. <a href="https://drewdevault.com/">Drew DeVault’s blog</a> is software engineering feats of strength and some very strong opinions. <a href="https://www.lightbluetouchpaper.org/">Light Blue Touchpaper</a> always has some post about a mind-blowing security vulnerability. <a href="https://languagelog.ldc.upenn.edu/nll/">Language Log</a> has wild language-crossover examples. And of course there's <a href="https://100r.co/site/log.html">100 Rabbits</a> posting about their art, programming, music, and boat adventures.</p></div>
+<div class="q"><p><strong>Final question: is there anything you want to share with us?</strong></p></div>
+<div class="a"><p>Right now I'm spending a lot of time on <a href="https://www.val.town/">Val Town</a>, so check that out!</p></div>
+<hr />
+<p>This was the 21st edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Tom. Make sure to <a href="https://macwright.com" rel="noreferrer" target="_blank">follow his blog</a> (<a href="https://macwright.com/micro/rss.xml" rel="noreferrer" target="_blank">RSS</a>) and get in touch with him if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<ul>
+<li><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>)</li>
+<li><a href="https://some.studio">Piet Terheyden</a></li>
+<li><a href="https://minim.blog">Raul Montala</a> (<a href="https://minim.blog/index.xml">RSS</a>)</li>
+<li>Eleonora</li>
+<li><a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>)</li>
+<li><a href="https://steveledlow.com">Steve Ledlow</a></li>
+<li>Paolo Ruggeri</li>
+<li><a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>)</li>
+<li><a href="https://robhope.com">Rob Hope</a></li>
+<li><a href="https://chrishannah.me">Chris Hannah</a> (<a href="view-source:https://chrishannah.me/index.xml">RSS</a>)</li>
+<li><a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>)</li>
+<li><a href="https://jeremysarber.com/">Jeremy Sarber</a> (<a href="https://jeremysarber.com/feed.rss">RSS</a>)</li>
+<li><a href="https://colinwalker.blog">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>)</li>
+<li><a href="https://softlandings.world/">Sixian Lim</a></li>
+<li><a href="https://mattstein.com/">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>)</li>
+<li><a href="https://winnielim.org/">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>)</li>
+<li><a href="http://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>)</li>
+<li><a href="https://amitgawande.com">Amit Gawande</a> (<a href="https://www.amitgawande.com/feed/">RSS</a>)</li>
+<li><a href="https://skyhold.org">C Jackdaw</a></li>
+<li><a href="https://tiv.today">Kevin</a> (<a href="https://tiv.today/feed.rss">RSS</a>)</li>
+<li><a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>)</li>
+<li><a href="https://rosalindcroad.com/">Rosalind Croad</a></li>
+<li><a href="https://frankmeeuwsen.com/">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>)</li>
+<li><a href="https://www.elmikewalsh.com/">Mike Walsh</a></li>
+<li><a href="https://www.josemunozmatos.com/">Jose Munoz</a> (<a href="https://www.josemunozmatos.com/feeds">RSS</a>)</li>
+<li><a href="https://www.byzero.de/">Markus Heurung</a></li>
+<li><a href="https://jeremybassetti.com/">Jeremy Bassetti</a> (<a href="https://jeremybassetti.com/index.xml">RSS</a>)</li>
+<li><a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>)</li>
+<li><a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>)</li>
+<li><a href="https://cagrimmett.com/">Chuck Grimmett</a>(<a href="https://cagrimmett.com/feed">RSS</a>)</li>
+</ul>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale" rel="noreferrer" target="_blank">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/UBZ69oaSFneiW96P">https://manuelmoreale.com/@/page/UBZ69oaSFneiW96P</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/UBZ69oaSFneiW96P">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Views a Galactic Supernova Site
+
+date: 2024-01-19, from: NASA breaking news
+
+This image features a relatively small galaxy known as UGC 5189A, which is located about 150 million light-years away in the constellation Leo. This galaxy was observed by the NASA/ESA Hubble Space Telescope to study a supernova explosion in 2010 known as SN 2010jl. This particular supernova is notable because it was an exceptionally luminous supernova event. In fact, […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/hubble-views-a-galactic-supernova-site/">https://science.nasa.gov/missions/hubble/hubble-views-a-galactic-supernova-site/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/hubble-views-a-galactic-supernova-site/">Save to Pocket</a>
+</span>
+
+---
+
+## ZX Spectrum Next Issue 2 ships out, chip shortages be damned
+
+date: 2024-01-19, updated: 2024-01-19, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Interview</span> El Reg talks to the project's founder</h4>
+      <p>The last units of the second batch of the ZX Spectrum Next are heading off to their owners. If you missed out, we have good news.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/19/return_of_spectrum_next/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/19/return_of_spectrum_next/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/19/return_of_spectrum_next/">Save to Pocket</a>
+</span>
+
+---
+
+## We saw a Pi running underwater at CES in Las Vegas!
+
+date: 2024-01-19, from: Raspberry Pi News (.com)
+
+<p>We have just returned from CES in Las Vegas where we saw a Raspberry Pi powering HZO's event booth video feed while submerged underwater.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/we-saw-a-pi-running-underwater-at-ces-in-las-vegas/">We saw a Pi running underwater at CES in Las Vegas!</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/we-saw-a-pi-running-underwater-at-ces-in-las-vegas/">https://www.raspberrypi.com/news/we-saw-a-pi-running-underwater-at-ces-in-las-vegas/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/we-saw-a-pi-running-underwater-at-ces-in-las-vegas/">Save to Pocket</a>
+</span>
+
+---
+
+## Hans Reiser on ReiserFS deprecation from the Linux kernel
+
+date: 2024-01-19, from: OS News
+
+What follows is a letter from Hans Reiser to myself, which he wrote some two months back, and has asked me to publish, with his thoughts on the deprecation of ReiserFS from the Linux kernel. I have transcribed it to the best of my ability. Plaintext email may not be the best way to read it, as such, I have also made available PDF and HTML versions of the letter. ↫ Fredrick R. Brennan Hans Reiser is the creator of the ReiserFS file system, which used to be a serious contender for the Linux file system you&#8217;d use in the early 2000s. In 2006, Hans Reiser murdered his wife, and is currently serving a prison sentence for this crime. Hopefully, after he completes his prison sentence, he can become a contributing member of society once again, if the professionals and specialists involved in such matters deem him capable of doing so. The long letter mentioned here was actually quite a fascinating read, and details his abrasive behaviour in the Linux world, the design of ReiserFS and its place in the ecosystem at the time, and his thoughts on the removal of ReiserFS from the Linux kernel.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138385/hans-reiser-on-reiserfs-deprecation-from-the-linux-kernel/">https://www.osnews.com/story/138385/hans-reiser-on-reiserfs-deprecation-from-the-linux-kernel/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138385/hans-reiser-on-reiserfs-deprecation-from-the-linux-kernel/">Save to Pocket</a>
+</span>
+
+---
+
+## VMware is killing off 56 products amid “tectonic” infrastructure shift
+
+date: 2024-01-19, from: OS News
+
+Broadcom’s brutal assault on VMware’s product suite continues, with the company’s new owner this week confirming that it is sunsetting a massive 56 VMware products and platforms – as investors said this week that they anticipated a “tectonic shift” in the infrastructure market as a result.&#160; In a January 15 advisory VMware confirmed tersely that it was taking a sweeping range of products to “End of Availability” and that “these products are no longer available for purchase” – although most remain advertised enthusiastically, for now, on slick corporate website pages. ↫ Ed Targett The list of products is a thing to behold, for sure. I don&#8217;t think I&#8217;ve ever seen that many enterprise products together in one list, and I once spent weeks scouring and dealing with HPE.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138382/vmware-is-killing-off-56-products-amid-tectonic-infrastructure-shift/">https://www.osnews.com/story/138382/vmware-is-killing-off-56-products-amid-tectonic-infrastructure-shift/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138382/vmware-is-killing-off-56-products-amid-tectonic-infrastructure-shift/">Save to Pocket</a>
+</span>
+
+---
+
+## WebGPU comes to Chrome 121 for Android
+
+date: 2024-01-19, from: OS News
+
+The Chrome team is excited to announce that WebGPU is now enabled by default in Chrome 121 on devices running Android 12 and greater powered by Qualcomm and ARM GPUs. Support will gradually expand to encompass a wider range of Android devices, including those running on Android 11 in a near future. This expansion will be dependent on further testing and optimization to ensure a seamless experience across a broader range of hardware configurations. ↫ François Beaufort Mind you, this is about WebGPU, not WebGL.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138330/webgpu-comes-to-chrome-121-for-android/">https://www.osnews.com/story/138330/webgpu-comes-to-chrome-121-for-android/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138330/webgpu-comes-to-chrome-121-for-android/">Save to Pocket</a>
+</span>
+
+---
+
+##  Numberphile: &#8220;A Sudoku Secret to Blow Your Mind&#8221; 
+
+date: 2024-01-18, updated: 2024-01-18, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/numberphile-a-sudoku-secret-to-blow-your-mind">https://kottke.org/24/01/numberphile-a-sudoku-secret-to-blow-your-mind</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/numberphile-a-sudoku-secret-to-blow-your-mind">Save to Pocket</a>
+</span>
+
+---
+
+## Where have all the flowers gone?
+
+date: 2024-01-18, from: Dave Rupert blog
+
+<p>A post from Jason Velazquez called “<a href="https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/">Where have all the websites gone?</a>” crossed my socials. It’s a good lament about the dearth of interesting content on the internet and how we’re stuck in the same boring content silos.</p>
+<p>The question reminded me of a song by Pete Seeger called “<em>Where have all the flowers gone?</em>” In the song Pete wonders aloud about the flowers now missing from the field…</p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="html">[Verse 1]
+Where have all the flowers gone?
+Long time passing
+Where have all the flowers gone?
+Long time ago
+Where have all the flowers gone?
+The girls have picked them, every one
+Oh, when will you ever learn?
+Oh, when will you ever learn?
+</code></pre></div></div>
+<p>We find out that the girls have picked all the flowers. All of them. That’s a bit excessive. Why? The second verse explores the young girls’ situation…</p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="html">[Verse 2]
+Where have all the young girls gone?
+Long time passing
+Where have all the young girls gone?
+Long time ago
+Where have all the young girls gone?
+They've taken husbands, every one
+Oh, when will you ever learn?
+Oh, when will you ever learn?
+</code></pre></div></div>
+<p>The girls got married, good for them! That’s a natural part of growing up. But what of the husbands and how are they connected to the missing flowers? Did they use all the flowers for their weddings? The third verse answers this question.</p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code data-lang="html">[Verse 3]
+Where have all the young men gone?
+Long time passing
+Where have all the young men gone?
+Long time ago
+Where have all the young men gone?
+They're all in uniform
+Oh, when will you ever learn?
+Oh, when will you ever learn?
+</code></pre></div></div>
+<p>The young men, dressed in uniform, went off to war. The flowers were, presumably, for their funerals. Pete sure knew how to tell a story.</p>
+<p>So where have all the websites gone? Well, the people who make them have all gone to war for the capitalist machine. They grew up and got jobs. A natural part of growing up. Silos came and plucked their voices. Invasive memes and short form content grew in their place. Hustle overtook leisure. Harassment overtook openness. Influence overtook creativity. An economy of interestingness replaced by one of followers, likes, and engagement metrics.</p>
+<p>One important thing to note; websites aren’t extinct. In fact, you’re on one now! Uploading your own words is ancient technology but still works.</p>
+<p>I loved Jason’s point about the curators and it illuminated something I don’t think I fully understood before. Curators and aggregators are integral to the ecosystem. If we all create, steal, and regurgitate the same content then we only reinforce our own echo chamber. Aggregators bridge subcultures in a world of content bubbles and subreddits. They share curios from the web you may have missed, subverting the FOMO-based dopamine addiction machine using RSS. They find beauty in the mundane and surface wisdom from obscure writings. That is valuable, worth more than gold.</p>
+<p><a href="https://robinrendle.com/notes/i-am-a-poem-i-am-not-software/">We are poems, not software</a> and in need of a reforestation of our curators. To paraphrase Mr. Rogers in these dire times, “Look for the aggregators…”</p>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/01/where-have-all-the-websites-gone/">https://daverupert.com/2024/01/where-have-all-the-websites-gone/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/01/where-have-all-the-websites-gone/">Save to Pocket</a>
+</span>
+
+---
+
+##  All the garbage I found on Substack in 1 hour. Josh Drummond... 
+
+date: 2024-01-18, updated: 2024-01-18, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043805-all-the-garbage-i-found">https://kottke.org/24/01/0043805-all-the-garbage-i-found</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043805-all-the-garbage-i-found">Save to Pocket</a>
+</span>
+
+---
+
+## NASA, Partners to Welcome Private Crew Aboard Space Station
+
+date: 2024-01-18, from: NASA breaking news
+
+As part of NASA’s efforts to enable more access to space, four private astronauts are in orbit following the successful launch of the third all private astronaut mission to the International Space Station. Axiom Space astronauts lifted off at 4:49 p.m. EST on Thursday from Launch Complex 39A at NASA’s Kennedy Space Center in Florida. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-partners-to-welcome-private-crew-aboard-space-station/">https://www.nasa.gov/news-release/nasa-partners-to-welcome-private-crew-aboard-space-station/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-partners-to-welcome-private-crew-aboard-space-station/">Save to Pocket</a>
+</span>
+
+---
+
+##  Long Island Compromise by Taffy Brodesser-Akner 
+
+date: 2024-01-18, updated: 2024-01-18, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/long-island-compromise-by-taffy-brodesser-akner">https://kottke.org/24/01/long-island-compromise-by-taffy-brodesser-akner</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/long-island-compromise-by-taffy-brodesser-akner">Save to Pocket</a>
+</span>
+
+---
+
+## Redeployment Part Three
+
+date: 2024-01-18, from: brr, an Antarctica IT blog
+
+Off-continent after 446 days!
+
+<span class="feed-item-link">
+<a href="https://brr.fyi/posts/redeployment-part-three">https://brr.fyi/posts/redeployment-part-three</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://brr.fyi/posts/redeployment-part-three">Save to Pocket</a>
+</span>
+
+---
+
+##  The nominees for the second annual Stunt Awards have been announced. Categories... 
+
+date: 2024-01-18, updated: 2024-01-18, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043803-the-nominees-for-the-seco">https://kottke.org/24/01/0043803-the-nominees-for-the-seco</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043803-the-nominees-for-the-seco">Save to Pocket</a>
+</span>
+
+---
+
+## Radio Shack TRS-80 Pocket Computer - Part 1
+
+date: 2024-01-18, from: Computer ads from the Past
+
+A Few Years Ago, the Idea of a Computer You Could Put in Your Pocket Was Just Science Fiction - Isaac Asimov
+
+<span class="feed-item-link">
+<a href="https://computeradsfromthepast.substack.com/p/radio-shack-trs-80-pocket-computer">https://computeradsfromthepast.substack.com/p/radio-shack-trs-80-pocket-computer</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://computeradsfromthepast.substack.com/p/radio-shack-trs-80-pocket-computer">Save to Pocket</a>
+</span>
+
+---
+
+##  Google News Is Boosting Garbage AI-Generated Articles. &#8220;Google said it doesn&#8217;t focus... 
+
+date: 2024-01-18, updated: 2024-01-18, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043802-google-news-is-boosting-g">https://kottke.org/24/01/0043802-google-news-is-boosting-g</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043802-google-news-is-boosting-g">Save to Pocket</a>
+</span>
+
+---
+
+##  The Winners of the Nature Photography Contest 
+
+date: 2024-01-18, updated: 2024-01-18, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/the-winners-of-the-nature-photography-contest">https://kottke.org/24/01/the-winners-of-the-nature-photography-contest</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/the-winners-of-the-nature-photography-contest">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Captures a Monster Merger
+
+date: 2024-01-18, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features Arp 122, a peculiar&#160;galaxy&#160;that in fact comprises two galaxies – NGC 6040, the tilted, warped&#160;spiral&#160;galaxy and LEDA 59642, the round, face-on spiral – that are in the midst of a collision. This dramatic cosmic encounter is located at the very safe distance of roughly 570 million light-years from [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/hubble-captures-a-monster-merger/">https://www.nasa.gov/image-article/hubble-captures-a-monster-merger/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/hubble-captures-a-monster-merger/">Save to Pocket</a>
+</span>
+
+---
+
+## Netflix and the Initial Apple Vision Pro Apps
+
+date: 2024-01-18, from: Michael Tsai
+
+Joe Rossignol: Netflix has no plans to release an app for Apple&#8217;s upcoming Vision Pro headset, according to Bloomberg&#8217;s Mark Gurman. Instead, the streaming service will be accessible through Safari and other web browsers on the headset.[&#8230;]Apple recently announced various video and sports apps that will be available on the Vision Pro at launch, including [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/18/netflix-and-the-initial-apple-vision-pro-apps/">https://mjtsai.com/blog/2024/01/18/netflix-and-the-initial-apple-vision-pro-apps/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/18/netflix-and-the-initial-apple-vision-pro-apps/">Save to Pocket</a>
+</span>
+
+---
+
+## StoreKit Purchase Link Entitlement for United States
+
+date: 2024-01-18, from: Michael Tsai
+
+Apple: Starting today, because of a recent United States Court decision, App Store Review Guideline 3.1.1 has been updated to introduce the StoreKit Purchase Link Entitlement (US), which allows apps that offer in-app purchases in the iOS or iPadOS App Store on the United States storefront the ability to include a link to the developer&#8217;s [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/18/storekit-purchase-link-entitlement-for-united-states/">https://mjtsai.com/blog/2024/01/18/storekit-purchase-link-entitlement-for-united-states/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/18/storekit-purchase-link-entitlement-for-united-states/">Save to Pocket</a>
+</span>
+
+---
+
+## Supreme Court Declines to Hear Apple v. Epic Case
+
+date: 2024-01-18, from: Michael Tsai
+
+Hartley Charlton (Hacker News): The United States Supreme Court today declined to hear separate requests from both Apple and Epic Games in their long-standing lawsuit against each other with regards to App Store rules.[&#8230;]As a result of the Supreme Court&#8217;s decision today, the previous rulings stand and Apple is able to continue to disallow third-party [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/18/supreme-court-declines-to-hear-apple-v-epic-case/">https://mjtsai.com/blog/2024/01/18/supreme-court-declines-to-hear-apple-v-epic-case/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/18/supreme-court-declines-to-hear-apple-v-epic-case/">Save to Pocket</a>
+</span>
+
+---
+
+##  A map of EV charging costs in the US. &#8220;Now that the... 
+
+date: 2024-01-18, updated: 2024-01-18, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043806-a-map-of-ev-charging">https://kottke.org/24/01/0043806-a-map-of-ev-charging</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043806-a-map-of-ev-charging">Save to Pocket</a>
+</span>
+
+---
+
+## Glenn Supports World Radiocommunication Conference
+
+date: 2024-01-18, from: NASA breaking news
+
+Reliable space communication and navigation systems are critical to every NASA mission. From the Voyager mission exploring beyond our solar system to astronauts aboard the International Space Station, space communications provide the crucial connection to our home planet. Without proper management of radio spectrum allocation and use, NASA’s ability to communicate with spacecraft and operate [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/newsletters/aerospace-frontiers/glenn-supports-world-radiocommunication-conference/">https://www.nasa.gov/newsletters/aerospace-frontiers/glenn-supports-world-radiocommunication-conference/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/newsletters/aerospace-frontiers/glenn-supports-world-radiocommunication-conference/">Save to Pocket</a>
+</span>
+
+---
+
+## Employees Spread Joy With Toys for Tots Drive
+
+date: 2024-01-18, from: NASA breaking news
+
+NASA’s Glenn Research Center continued a decades-long tradition of participating in the Marine Corps Reserve Toys for Tots program during the 2023 holiday season. On Dec. 11, members of the Marine Corps Reserve (3rd Battalion, 25th  Marine unit) picked up 10 boxes of toys donated by employees from NASA Glenn’s Lewis Field in Cleveland and Neil [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/newsletters/aerospace-frontiers/employees-spread-joy-with-toys-for-tots-drive/">https://www.nasa.gov/newsletters/aerospace-frontiers/employees-spread-joy-with-toys-for-tots-drive/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/newsletters/aerospace-frontiers/employees-spread-joy-with-toys-for-tots-drive/">Save to Pocket</a>
+</span>
+
+---
+
+## Two NASA Glenn Senior Leaders Retire
+
+date: 2024-01-18, from: NASA breaking news
+
+Two members of NASA Glenn Research Center’s senior leadership retired on Dec. 30, 2023.&#160; Timothy P. McCartney, director of Aeronautics, retired with 38 1/2 years of NASA service. He was responsible for the project management, workforce planning, budget oversight, and executive leadership of NASA Glenn’s aeronautics research and development activities in support of the agency’s [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/newsletters/aerospace-frontiers/two-nasa-glenn-senior-leaders-retire/">https://www.nasa.gov/newsletters/aerospace-frontiers/two-nasa-glenn-senior-leaders-retire/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/newsletters/aerospace-frontiers/two-nasa-glenn-senior-leaders-retire/">Save to Pocket</a>
+</span>
+
+---
+
+## How The Guardian raised a record amount of reader revenue in the U.S.
+
+date: 2024-01-18, from: Nieman Journalism Lab
+
+Earlier this month, The Guardian U.S. announced that its end-of-year drive brought in $2.2 million, a record amount of reader revenue since its first appeal six years ago. (The figure was 25% more than the previous record.) From the post written by membership editor Aleks Chan: Looking at The Guardian overall, roughly one-third of revenue...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/how-the-guardian-raised-a-record-amount-of-reader-revenue-in-the-u-s/">https://www.niemanlab.org/2024/01/how-the-guardian-raised-a-record-amount-of-reader-revenue-in-the-u-s/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/how-the-guardian-raised-a-record-amount-of-reader-revenue-in-the-u-s/">Save to Pocket</a>
+</span>
+
+---
+
+## “Water” Would Also Be Neat
+
+date: 2024-01-18, updated: 2024-01-18, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/01/18/water-would-also-be-neat/">https://onefoottsunami.com/2024/01/18/water-would-also-be-neat/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/01/18/water-would-also-be-neat/">Save to Pocket</a>
+</span>
+
+---
+
+## Did the battle against “misinformation” go too far?
+
+date: 2024-01-18, from: Nieman Journalism Lab
+
+In March 2021, a Twitter user asked Martin Kulldorff if everyone needed to be vaccinated against COVID-19. Kulldorff, then a professor at Harvard Medical School, had spent 20 years researching infectious diseases and contributing to the development of the country’s vaccine safety surveillance system. “No,” he responded. The vaccines were important for some high-risk people,...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/did-the-battle-against-misinformation-go-too-far/">https://www.niemanlab.org/2024/01/did-the-battle-against-misinformation-go-too-far/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/did-the-battle-against-misinformation-go-too-far/">Save to Pocket</a>
+</span>
+
+---
+
+##  The Quiet Death of Ello&#8217;s Big Dreams. Andy Baio writes about the... 
+
+date: 2024-01-18, updated: 2024-01-18, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043804-the-quiet-death-of-ellos">https://kottke.org/24/01/0043804-the-quiet-death-of-ellos</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043804-the-quiet-death-of-ellos">Save to Pocket</a>
+</span>
+
+---
+
+##  Electric Car Owners Confront a Harsh Foe: Cold Weather. The struggle is... 
+
+date: 2024-01-18, updated: 2024-01-18, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043801-electric-car-owners-confr">https://kottke.org/24/01/0043801-electric-car-owners-confr</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043801-electric-car-owners-confr">Save to Pocket</a>
+</span>
+
+---
+
+## Indieweb Carnival
+
+date: 2024-01-18, from: Manu - I write blog
+
+<p>I got asked to host an edition of the <a href="https://indieweb.org/indieweb-carnival">IndieWeb carnival</a> and who am I to say no to such a request? As you know, I love blogging and I think more people should blog and I’m more than happy to take part in these initiatives.</p>
+<p>I already have a topic in mind but I’m going to wait until February 1st to reveal it here on the site. That said, if you already like the idea and want to participate, <a href="mailto:hello@manuelmoreale.com">send me an email</a> and I’ll let you know the topic so you can start working on your post in advance.</p>
+<p>Oh and by the way, I’m hosting the carnival for the month of February but they’re looking for new hosts for the upcoming months so, people out there with blogs, you know what to do!</p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/Nipm7DPDPjIegNim">https://manuelmoreale.com/@/page/Nipm7DPDPjIegNim</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/Nipm7DPDPjIegNim">Save to Pocket</a>
+</span>
+
+---
+
+##  The 1944 CIA guide to sabotaging meetings sounds an awful lot like... 
+
+date: 2024-01-18, updated: 2024-01-18, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043799-the-1944-cia-guide-to">https://kottke.org/24/01/0043799-the-1944-cia-guide-to</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043799-the-1944-cia-guide-to">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-18, from: Miguel de Icaza Mastondon feed)
+
+<p>This is a very good point, the major issue is the gatekeeping</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111777861354691891">https://mastodon.social/@Migueldeicaza/111777861354691891</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111777861354691891">Save to Pocket</a>
+</span>
+
+---
+
+## Monitoring Microorganisms
+
+date: 2024-01-18, from: NASA breaking news
+
+Science in Space January 2024 Crew members on the International Space Station have a lot of company – millions of bacteria and other microbes. The human body contains 10 times more microbes than human cells, and bacteria and fungi grow in and on just about everything around us on Earth. Most bacteria are harmless, and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/station/iss-research/monitoring-microorganisms/">https://www.nasa.gov/missions/station/iss-research/monitoring-microorganisms/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/station/iss-research/monitoring-microorganisms/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Invests in Small Business Tech to Advance Alternative Fuels, More
+
+date: 2024-01-18, from: NASA breaking news
+
+Transitioning cutting-edge research from the lab to life-changing technology in the market is no easy feat and the cost of failure is high, especially for small businesses. One of the ways NASA helps is through its Small Business Technology Transfer (STTR) program, which supports small businesses, and their research institution partners during early-stage research and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/directorates/stmd/nasa-invests-in-small-business-tech-to-advance-alternative-fuels-more/">https://www.nasa.gov/directorates/stmd/nasa-invests-in-small-business-tech-to-advance-alternative-fuels-more/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/directorates/stmd/nasa-invests-in-small-business-tech-to-advance-alternative-fuels-more/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -69,7 +840,7 @@ NASA continued a critical test series for future flights of NASA’s SLS (Space 
 
 **@Dave Winer's Scripting News** (date: 2024-01-18, from: Dave Winer's Scripting News)
 
-BTW, did you notice how <a href="https://www.youtube.com/watch?v=ltc909LOR4Q">BMW's ads</a> say their product is much better than Tesla's, without mentioning Tesla, they just say they're better, because they are just better, because they're BMW, and they know you know that. It's much more powerful esp with people who like Telsas (of which I am one). I also see the Tesla as a very capable replacement for my 2007 BMW 535i, which I donated to charity in 2012, which I loved for the same reasons I love the Tesla. Putting down the competition isn't what marketing is about, you have to think about the people whose minds you're trying to change, and know you're in it for the long haul. An example of their ad copy: "With electric driving comes exciting possibilities. That’s why BMW approaches this new era in mobility just like any other; where engineering, innovation and aesthetics come together seamlessly to inspire joy in every journey." These people understand their product and how their fans see them.
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/01/18/bullmancusohahahah.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">BTW, did you notice how <a href="https://www.youtube.com/watch?v=ltc909LOR4Q">BMW's ads</a> say their product is much better than Tesla's, without mentioning Tesla, they just say they're better, because they are just better, because they're BMW, and they know you know that. It's much more powerful esp with people who like Telsas (of which I am one). I also see the Tesla as a very capable replacement for my 2007 BMW 535i, which I donated to charity in 2012, which I loved for the same reasons I love the Tesla. Putting down the competition isn't what marketing is about, you have to think about the people whose minds you're trying to change, and know you're in it for the long haul. An example of their ad copy: "With electric driving comes exciting possibilities. That’s why BMW approaches this new era in mobility just like any other; where engineering, innovation and aesthetics come together seamlessly to inspire joy in every journey." These people understand their product and how their fans see them.
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2024/01/18.html#a151747">http://scripting.com/2024/01/18.html#a151747</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/18.html#a151747">Save to Pocket</a>
@@ -130,7 +901,7 @@ It's worth remembering that <a href="https://chat.openai.com/share/0f1e55c1-4919
 date: 2024-01-18, from: Dave Winer's Scripting News
 
 <p>I got this idea <a href="https://bsky.app/profile/pbump.com/post/3kj7q6wejuk23">from Philip Bump</a>. <span class="spOldSchoolEmoji">😄</span> </p>
-<p>"Draw a three-panel comic strip in the style of Mary Worth. Panel one should show Bull Mancuso, a waste management consultant in New Jersey, at a Starbuck's in Newark, ordering a huge coffee drink. In panel two he's teaching a class on organized crime in New Jersey at Staten Island Community College. In panel three he slips on a banana peel on the steps of the Capitol and falls down. There is no dialogue on any panel."</p>
+<p>"Draw a three-panel comic strip in the style of Mary Worth. Panel one should show Bull Mancuso, a waste management consultant in New Jersey, at a Starbuck's in Newark, ordering a huge coffee drink. In panel two he's teaching a class on organized crime in New Jersey at <a href="https://www.csi.cuny.edu/">Staten Island Community College</a>. In panel three he slips on a banana peel on the steps of the Capitol and falls down. There is no dialogue on any panel."</p>
 <p><div class="divInlineImage"><center><img class="imgInline" src="https://s3.amazonaws.com/scripting.com/images/2024/01/18/bullMancusoDay.png"></center>Bull Mancuso's wild day in New Jersey, Staten Island and DC.</div></p>
 
 
@@ -232,6 +1003,23 @@ AI code assistants have emerged as powerful tools that can aid in the software d
 
 <span class="feed-item-link">
 <a href="https://www.osnews.com/story/138370/do-users-write-more-insecure-code-with-ai-assistants/">https://www.osnews.com/story/138370/do-users-write-more-insecure-code-with-ai-assistants/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138370/do-users-write-more-insecure-code-with-ai-assistants/">Save to Pocket</a>
+</span>
+
+---
+
+## PostgreSQL is now a CVE Numbering Authority (CNA)
+
+date: 2024-01-18, from: PostgreSQL News
+
+<p>The PostgreSQL Security team is pleased to announce that PostgreSQL is now a CVE Numbering Authority (CNA). A CNA has responsibilities for assigning CVE IDs and participating in responsible disclosure with projects within its scope. You can find out more information about the role of PostgreSQL as a CNA on the <a href="https://www.postgresql.org/support/security/">PostgreSQL security</a> page:</p>
+<p><a href="https://www.postgresql.org/support/security/">https://www.postgresql.org/support/security/</a></p>
+<p>The process for reporting a security vulnerability in PostgreSQL has not changed. If you believe you have discovered a security vulnerability in PostgreSQL, please send an email to <a href="mailto:security@postgresql.org">security@postgresql.org</a>. For more information on what is considered a vulnerability and the reporting process, please review the <a href="https://www.postgresql.org/support/security/">PostgreSQL security</a> page:</p>
+<p><a href="https://www.postgresql.org/support/security/">https://www.postgresql.org/support/security/</a></p>
+<p>You can find the original announcement on PostgreSQL being added as a CNA on the CVE page:</p>
+<p><a href="https://www.cve.org/Media/News/item/news/2024/01/16/PostgreSQL-Added-as-CNA">https://www.cve.org/Media/News/item/news/2024/01/16/PostgreSQL-Added-as-CNA</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/postgresql-is-now-a-cve-numbering-authority-cna-2790/">https://www.postgresql.org/about/news/postgresql-is-now-a-cve-numbering-authority-cna-2790/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/postgresql-is-now-a-cve-numbering-authority-cna-2790/">Save to Pocket</a>
 </span>
 
 ---
@@ -362,6 +1150,18 @@ NASA will host a pair of news conferences Thursday, Jan. 25, from the agency’s
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-crew-8-international-space-station-missions/">https://www.nasa.gov/news-release/nasa-sets-briefings-for-crew-8-international-space-station-missions/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-sets-briefings-for-crew-8-international-space-station-missions/">Save to Pocket</a>
+</span>
+
+---
+
+## Advent of Computing: Episode 124 - The Full 360
+
+date: 2024-01-17, from: Tilde.news
+
+<p><a href="https://tilde.news/s/h5rqhy/advent_computing_episode_124_full_360">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://adventofcomputing.libsyn.com/episode-124-the-full-360">https://adventofcomputing.libsyn.com/episode-124-the-full-360</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-124-the-full-360">Save to Pocket</a>
 </span>
 
 ---
@@ -1056,6 +1856,21 @@ run out or the campaign ends.</p>
 
 <span class="feed-item-link">
 <a href="https://www.postgresql.org/about/news/nordic-pgday-2024-schedule-announced-and-open-for-registration-2789/">https://www.postgresql.org/about/news/nordic-pgday-2024-schedule-announced-and-open-for-registration-2789/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/nordic-pgday-2024-schedule-announced-and-open-for-registration-2789/">Save to Pocket</a>
+</span>
+
+---
+
+## Redox Merch, New T-Shirt Colors and Other Fundraising News
+
+date: 2024-01-17, from: Redox OS News
+
+Shop Redox Merch! New T-Shirt Colors! Limited Editions! and more fundraising news!
+Redox Summer of Code (RSoC) is our annual program to fund students and other contributors for summer projects that help move Redox forward.
+In 2023, we funded three projects. We are hoping to have a similar-sized program this year, but in order to do that, we need a little help.
+T-Shirts! New Colors! For those of you that were not aware, Redox has a merch store!
+
+<span class="feed-item-link">
+<a href="https://www.redox-os.org/news/t-shirts-fundraising/">https://www.redox-os.org/news/t-shirts-fundraising/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.redox-os.org/news/t-shirts-fundraising/">Save to Pocket</a>
 </span>
 
 ---
@@ -1950,18 +2765,6 @@ date: 2024-01-15, from: Dave Winer's Scripting News
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2024/01/14/031201.html?title=tinyLittleTextBoxes">http://scripting.com/2024/01/14/031201.html?title=tinyLittleTextBoxes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/14/031201.html?title=tinyLittleTextBoxes">Save to Pocket</a>
-</span>
-
----
-
-## Episode 124 - The Full 360
-
-date: 2024-01-15, from: Advent of Computing
-
-<div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="66agm-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="66agm-0-0"><span data-offset-key= "66agm-0-0"><span data-text="true">The release of the IBM System/360 represents a major milestone in the history of computing. In 1964 IBM announced the 360 as the first family of compatible computers. Users could choose a system that was just the right size for their needs, mix and match peripherals, and have no fear of future upgrades. If you started on a low-end 360 you could move up to a top of the line model and keep all your software! Something like this had never been done before.</span></span></div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="8d02p-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8d02p-0-0"><span data-offset-key= "8d02p-0-0"><span data-text="true">Such a watershed moment resulted in interesting cascading effects. In this episode we will look at the 360 itself. In the coming weeks we will be examining how it shaped and dominated the market, how it led to a federal antitrust suit, and how a mysterious series of clone computers survived in uncertain times.</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8d02p-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="29hhn-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="29hhn-0-0"><span data-offset-key= "29hhn-0-0"><span data-text="true">Selected Sources:</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="29hhn-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="7hs73-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="7hs73-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm"> <span data-offset-key="7hs73-0-0"><span data-text= "true">https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm</span></span></a></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="7hs73-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="8jamu-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8jamu-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.computerhistory.org/resources/access/text/2012/11/102658255-05-01-acc.pdf"> <span data-offset-key="8jamu-0-0"><span data-text= "true">https://archive.computerhistory.org/resources/access/text/2012/11/102658255-05-01-acc.pdf</span></span></a> <span data-offset-key="8jamu-1-0"><span data-text="true">- Fred Brooks Oral History</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8jamu-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="1p29f-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1p29f-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.computerhistory.org/resources/access/text/2017/11/102655529-05-01-acc.pdf"> <span data-offset-key="1p29f-0-0"><span data-text= "true">https://archive.computerhistory.org/resources/access/text/2017/11/102655529-05-01-acc.pdf</span></span></a> <span data-offset-key="1p29f-1-0"><span data-text="true">- 14K Days</span></span></div> </div>
-
-<span class="feed-item-link">
-<a href="https://adventofcomputing.libsyn.com/episode-124-the-full-360">https://adventofcomputing.libsyn.com/episode-124-the-full-360</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-124-the-full-360">Save to Pocket</a>
 </span>
 
 ---

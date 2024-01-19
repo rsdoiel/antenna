@@ -1,11 +1,119 @@
 ---
 title: games 2024.03
-updated: 2024-01-18 08:01:52
+updated: 2024-01-19 08:17:51
 ---
 
 # games 2024.03
 
-(date: 2024-01-18 08:01:52)
+(date: 2024-01-19 08:17:51)
+
+---
+
+## Hazbin Hotel creator says BoJack Horseman showed her what adult animation could be
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24043306/hazbin-hotel-vivziepop-adult-animation-tv-interview">https://www.polygon.com/24043306/hazbin-hotel-vivziepop-adult-animation-tv-interview</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24043306/hazbin-hotel-vivziepop-adult-animation-tv-interview">Save to Pocket</a>
+</span>
+
+---
+
+## Genshin Impact version 4.4 livestream codes
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/genshin-impact-guides/24044052/version-4-4-livestream-codes">https://www.polygon.com/genshin-impact-guides/24044052/version-4-4-livestream-codes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/genshin-impact-guides/24044052/version-4-4-livestream-codes">Save to Pocket</a>
+</span>
+
+---
+
+## I’m overcoming my fear of everything to play Lethal Company
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/24043555/lethal-company-best-entry-level-horror-game">https://www.polygon.com/gaming/24043555/lethal-company-best-entry-level-horror-game</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/24043555/lethal-company-best-entry-level-horror-game">Save to Pocket</a>
+</span>
+
+---
+
+## All the Reacher season 3 news we know so far
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24042917/reacher-season-3-release-date-cast-news">https://www.polygon.com/24042917/reacher-season-3-release-date-cast-news</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24042917/reacher-season-3-release-date-cast-news">Save to Pocket</a>
+</span>
+
+---
+
+## All my friends are strategically jumping off a cliff for a Baldur’s Gate romance and you can too
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24035856/karlach-bg3-romance-guide-baldurs-gate-3">https://www.polygon.com/24035856/karlach-bg3-romance-guide-baldurs-gate-3</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24035856/karlach-bg3-romance-guide-baldurs-gate-3">Save to Pocket</a>
+</span>
+
+---
+
+## How to evolve Primeape and get Annihilape in Pokémon Go
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/pokemon-go-guide/24043946/get-annihilape-how-to-evolve-primeape">https://www.polygon.com/pokemon-go-guide/24043946/get-annihilape-how-to-evolve-primeape</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/pokemon-go-guide/24043946/get-annihilape-how-to-evolve-primeape">Save to Pocket</a>
+</span>
+
+---
+
+## Palworld type chart for element strengths and weaknesses
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24043450/palworld-type-chart-element-strengths-weakenesses">https://www.polygon.com/guides/24043450/palworld-type-chart-element-strengths-weakenesses</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24043450/palworld-type-chart-element-strengths-weakenesses">Save to Pocket</a>
+</span>
+
+---
+
+## 10 beginner’s tips to know before starting Palworld
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24043125/palworld-beginners-guide-tips-tricks">https://www.polygon.com/guides/24043125/palworld-beginners-guide-tips-tricks</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24043125/palworld-beginners-guide-tips-tricks">Save to Pocket</a>
+</span>
+
+---
+
+## Palworld Rayne Syndicate Tower boss (Zoe and Grizzbolt) guide
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24042982/palworld-rayne-syndicate-tower-boss-zoe-grizzbolt-how-to-beat">https://www.polygon.com/guides/24042982/palworld-rayne-syndicate-tower-boss-zoe-grizzbolt-how-to-beat</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24042982/palworld-rayne-syndicate-tower-boss-zoe-grizzbolt-how-to-beat">Save to Pocket</a>
+</span>
 
 ---
 

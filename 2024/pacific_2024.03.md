@@ -1,11 +1,548 @@
 ---
 title: pacific 2024.03
-updated: 2024-01-18 08:01:52
+updated: 2024-01-19 08:17:51
 ---
 
 # pacific 2024.03
 
-(date: 2024-01-18 08:01:52)
+(date: 2024-01-19 08:17:51)
+
+---
+
+## Not enough locals to meet the labor demand
+
+date: 2024-01-19, from: Island Times
+
+<figure><img width="1024" height="544" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/20240118_085647.jpg?fit=1024%2C544&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/20240118_085647.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/20240118_085647.jpg?resize=300%2C159&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/20240118_085647.jpg?resize=1024%2C544&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/20240118_085647.jpg?resize=768%2C408&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/20240118_085647.jpg?resize=1200%2C638&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/20240118_085647.jpg?resize=400%2C213&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/20240118_085647.jpg?resize=706%2C375&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/20240118_085647.jpg?fit=1024%2C544&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68226" data-permalink="https://islandtimes.org/not-enough-locals-to-meet-the-labor-demand/20240118_085647/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/20240118_085647.jpg?fit=1249%2C664&amp;ssl=1" data-orig-size="1249,664" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1705568208&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.23&quot;,&quot;iso&quot;:&quot;40&quot;,&quot;shutter_speed&quot;:&quot;0.0012547051442911&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240118_085647" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/20240118_085647.jpg?fit=300%2C159&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/20240118_085647.jpg?fit=780%2C414&amp;ssl=1" /></figure>
+<p>As tourism recovers, there is a need for workers in various positions in the tourism industry. Still, the demand far exceeds the supply, especially for Palauan workers, according to Minister Ngirai Tmetuchl of the Ministry of Human Resources, Culture, Tourism &#38; Development (HRCT&#38;D). “Palau Pacific Resort is advertising nearly all of the positions in their [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/not-enough-locals-to-meet-the-labor-demand/">Not enough locals to meet the labor demand</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/not-enough-locals-to-meet-the-labor-demand/">https://islandtimes.org/not-enough-locals-to-meet-the-labor-demand/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/not-enough-locals-to-meet-the-labor-demand/">Save to Pocket</a>
+</span>
+
+---
+
+## ASYCUDAWorld PALAU
+
+date: 2024-01-19, from: Island Times
+
+<figure><img width="1024" height="711" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jane-Kim-and-Rebecca-Russavage-of-CIPE-visiting-Palau.jpg?fit=1024%2C711&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jane-Kim-and-Rebecca-Russavage-of-CIPE-visiting-Palau.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jane-Kim-and-Rebecca-Russavage-of-CIPE-visiting-Palau.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jane-Kim-and-Rebecca-Russavage-of-CIPE-visiting-Palau.jpg?resize=1024%2C711&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jane-Kim-and-Rebecca-Russavage-of-CIPE-visiting-Palau.jpg?resize=768%2C533&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jane-Kim-and-Rebecca-Russavage-of-CIPE-visiting-Palau.jpg?resize=1200%2C833&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jane-Kim-and-Rebecca-Russavage-of-CIPE-visiting-Palau.jpg?resize=400%2C278&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jane-Kim-and-Rebecca-Russavage-of-CIPE-visiting-Palau.jpg?resize=706%2C490&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jane-Kim-and-Rebecca-Russavage-of-CIPE-visiting-Palau.jpg?fit=1024%2C711&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68222" data-permalink="https://islandtimes.org/asycudaworld-palau/jane-kim-and-rebecca-russavage-of-cipe-visiting-palau/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jane-Kim-and-Rebecca-Russavage-of-CIPE-visiting-Palau.jpg?fit=1249%2C867&amp;ssl=1" data-orig-size="1249,867" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1705584672&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.23&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Jane Kim and Rebecca Russavage of CIPE visiting Palau." data-image-description="" data-image-caption="&lt;p&gt;Jane Kim and Rebecca Russavage of CIPE visiting Palau. &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jane-Kim-and-Rebecca-Russavage-of-CIPE-visiting-Palau.jpg?fit=300%2C208&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Jane-Kim-and-Rebecca-Russavage-of-CIPE-visiting-Palau.jpg?fit=780%2C542&amp;ssl=1" /></figure>
+<p>&#8211;  to Go Live in the Republic of Palau Effective Monday, January 22, 2024, the Bureau of Customs and Border Protection (BCBP) will be migrating to the new ASYCUDA World (AW) software system and the declarant or authorized importer will have to follow the AW declaration processes to be able to clear their goods.&#160;This means [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/asycudaworld-palau/">ASYCUDAWorld PALAU</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/asycudaworld-palau/">https://islandtimes.org/asycudaworld-palau/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/asycudaworld-palau/">Save to Pocket</a>
+</span>
+
+---
+
+## Port Moresby residents lose everything in riots blamed on dire economic situation and youth with poor prospects
+
+date: 2024-01-19, from: Island Times
+
+<p> By PNG correspondent Tim Swanston and Theckla Gunga (ABC-Australia) Sifting through the rubble of her store in Port Moresby&#8217;s south, Behori Joku is still in a complete state of shock. &#8220;[We&#8217;ve] lost everything that we worked for,&#8221; she said. &#8220;I tried to be an example to other Indigenous people in my city … now it&#8217;s all gone [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/port-moresby-residents-lose-everything-in-riots-blamed-on-dire-economic-situation-and-youth-with-poor-prospects/">Port Moresby residents lose everything in riots blamed on dire economic situation and youth with poor prospects</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/port-moresby-residents-lose-everything-in-riots-blamed-on-dire-economic-situation-and-youth-with-poor-prospects/">https://islandtimes.org/port-moresby-residents-lose-everything-in-riots-blamed-on-dire-economic-situation-and-youth-with-poor-prospects/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/port-moresby-residents-lose-everything-in-riots-blamed-on-dire-economic-situation-and-youth-with-poor-prospects/">Save to Pocket</a>
+</span>
+
+---
+
+## Kebekol Estate Lease dispute ends: Court Sides with Government, Co-Heir
+
+date: 2024-01-19, from: Island Times
+
+<p>Koror, Palau &#8211; The Palau Court of Appeals has affirmed a lower court ruling, siding with the Koror State Government and a co-administrator, Benedicta Kebekol, in a dispute over a submerged land lease. The case centered on a lease amendment signed by the Koror State government and Benedicta Kebekol, one of the estate administrators of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/kebekol-estate-lease-dispute-ends-court-sides-with-government-co-heir/">Kebekol Estate Lease dispute ends: Court Sides with Government, Co-Heir</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/kebekol-estate-lease-dispute-ends-court-sides-with-government-co-heir/">https://islandtimes.org/kebekol-estate-lease-dispute-ends-court-sides-with-government-co-heir/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/kebekol-estate-lease-dispute-ends-court-sides-with-government-co-heir/">Save to Pocket</a>
+</span>
+
+---
+
+## Center for International Private Enterprise embarks on Mission to Empower Businesses in the North Pacific
+
+date: 2024-01-19, from: Island Times
+
+<p>The Center for International Private Enterprise (CIPE), a non-profit organization affiliated with the U.S. Chamber of Commerce, is currently on a mission to understand the needs and challenges faced by businesses in the North Pacific region. This strategic exploration marks the first time CIPE has ventured into this area, underscoring its commitment to fostering democracy [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/center-for-international-private-enterprise-embarks-on-mission-to-empower-businesses-in-the-north-pacific/">Center for International Private Enterprise embarks on Mission to Empower Businesses in the North Pacific</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/center-for-international-private-enterprise-embarks-on-mission-to-empower-businesses-in-the-north-pacific/">https://islandtimes.org/center-for-international-private-enterprise-embarks-on-mission-to-empower-businesses-in-the-north-pacific/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/center-for-international-private-enterprise-embarks-on-mission-to-empower-businesses-in-the-north-pacific/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Aims for 10-Day Work Permit Turnaround, Streamlining process for employers
+
+date: 2024-01-19, from: Island Times
+
+<p>Koror, Palau – The Bureau of Human Resources in Palau is aiming to significantly reduce the time it takes for businesses to obtain work permits for their employees, vowing a minimum 10-day turnaround under a streamlined process. Previously, employers faced potentially longer wait times due to various procedural steps. Now, the Bureau has implemented clearer [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-aims-for-10-day-work-permit-turnaround-streamlining-process-for-employers/">Palau Aims for 10-Day Work Permit Turnaround, Streamlining process for employers</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-aims-for-10-day-work-permit-turnaround-streamlining-process-for-employers/">https://islandtimes.org/palau-aims-for-10-day-work-permit-turnaround-streamlining-process-for-employers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-aims-for-10-day-work-permit-turnaround-streamlining-process-for-employers/">Save to Pocket</a>
+</span>
+
+---
+
+## MHHS to implement $7M Infrastructure Rehabilitation Initiative
+
+date: 2024-01-19, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68210" data-permalink="https://islandtimes.org/mhhs-to-implement-7m-infrastructure-rehabilitation-initiative/mhhs-infrastructure-rehabilitation-project_001-january-11-2024/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="MHHS Infrastructure Rehabilitation Project_001 (January 11, 2024)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/MHHS-Infrastructure-Rehabilitation-Project_001-January-11-2024.jpeg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>January 11, 2024- The Ministry of  Health  and  Human  Services  (MHHS)  is   undertaking   a   major   infrastructure improvement project this year that will see over $7 million worth of renovations, repairs, and rehabilitation implemented at several facilities. As part of its overall strategic plan  to  improve  healthcare  services  and health outcomes in Palau, MHHS is prioritizing [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/mhhs-to-implement-7m-infrastructure-rehabilitation-initiative/">MHHS to implement $7M Infrastructure Rehabilitation Initiative</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/mhhs-to-implement-7m-infrastructure-rehabilitation-initiative/">https://islandtimes.org/mhhs-to-implement-7m-infrastructure-rehabilitation-initiative/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/mhhs-to-implement-7m-infrastructure-rehabilitation-initiative/">Save to Pocket</a>
+</span>
+
+---
+
+## PPUC Board of Directors visit Sewage Treatment plant in Malakal
+
+date: 2024-01-19, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PPUC-Board-of-Directors1.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PPUC-Board-of-Directors1.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PPUC-Board-of-Directors1.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PPUC-Board-of-Directors1.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PPUC-Board-of-Directors1.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PPUC-Board-of-Directors1.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PPUC-Board-of-Directors1.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PPUC-Board-of-Directors1.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PPUC-Board-of-Directors1.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68207" data-permalink="https://islandtimes.org/ppuc-board-of-directors-visit-sewage-treatment-plant-in-malakal/ppuc-board-of-directors1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PPUC-Board-of-Directors1.jpg?fit=1249%2C703&amp;ssl=1" data-orig-size="1249,703" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Desiree Ngirameked&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PPUC Board of Directors1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PPUC-Board-of-Directors1.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/PPUC-Board-of-Directors1.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<p>On Wednesday January 17, 2024 after their regular Board meeting, the PPUC Board Directors had the incredible opportunity to visit the new Sewage Treatment Plant in Malakal, gaining firsthand insights into the operations that ensure efficient sewage treatment. A state-of-the-art facility, the Treatment Plant was commissioned on November 9, 2021 and has been working efficiently [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ppuc-board-of-directors-visit-sewage-treatment-plant-in-malakal/">PPUC Board of Directors visit Sewage Treatment plant in Malakal</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/ppuc-board-of-directors-visit-sewage-treatment-plant-in-malakal/">https://islandtimes.org/ppuc-board-of-directors-visit-sewage-treatment-plant-in-malakal/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/ppuc-board-of-directors-visit-sewage-treatment-plant-in-malakal/">Save to Pocket</a>
+</span>
+
+---
+
+## Nauru’s diplomatic switch to China – the rising stakes in Pacific geopolitics
+
+date: 2024-01-19, from: Island Times
+
+<p>By MEG KEEN and MIHAI SORA Australia is a player at the table but Pacific nations themselves hold the most important cards. CANBERRA (THE INTERPRETER) &#8212; Nauru’s decision to switch diplomatic recognition from Taiwan to China has nothing to do with Australia. It reflects the intense geopolitical competition in the Pacific and the sustained, but [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/naurus-diplomatic-switch-to-china-the-rising-stakes-in-pacific-geopolitics/">Nauru’s diplomatic switch to China – the rising stakes in Pacific geopolitics</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/naurus-diplomatic-switch-to-china-the-rising-stakes-in-pacific-geopolitics/">https://islandtimes.org/naurus-diplomatic-switch-to-china-the-rising-stakes-in-pacific-geopolitics/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/naurus-diplomatic-switch-to-china-the-rising-stakes-in-pacific-geopolitics/">Save to Pocket</a>
+</span>
+
+---
+
+## COMPASSIONATE HEARTS & FORGIVING SPIRIT
+
+date: 2024-01-19, from: Island Times
+
+<figure><img width="600" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/11/Womens-Corner-1-1.jpg?fit=600%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/11/Womens-Corner-1-1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/11/Womens-Corner-1-1.jpg?resize=300%2C284&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/11/Womens-Corner-1-1.jpg?resize=400%2C378&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/11/Womens-Corner-1-1.jpg?fit=600%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="59603" data-permalink="https://islandtimes.org/precious-jewel/womens-corner-1-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/11/Womens-Corner-1-1.jpg?fit=600%2C567&amp;ssl=1" data-orig-size="600,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/11/Womens-Corner-1-1.jpg?fit=300%2C284&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/11/Womens-Corner-1-1.jpg?fit=600%2C567&amp;ssl=1" /></figure>
+<p>The Christian army is the only army that shoots and buries its wounded.  -Dr. Freddie Gage I was heart-broken reading about the increasing number of deportation back home because of criminal acts. At the same time a woman is being deported to her country of origin for breaking the law. The rumor is illicit drugs [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/compassionate-hearts-forgiving-spirit/">COMPASSIONATE HEARTS &amp; FORGIVING SPIRIT</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/compassionate-hearts-forgiving-spirit/">https://islandtimes.org/compassionate-hearts-forgiving-spirit/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/compassionate-hearts-forgiving-spirit/">Save to Pocket</a>
+</span>
+
+---
+
+## China, Philippines agree to lower tensions on South China Sea confrontations
+
+date: 2024-01-19, from: Island Times
+
+<p>By HUIZHONG WU Associated Press BANGKOK (AP) — China and the Philippines said they have agreed to work on lowering tensions after a year of public and tense confrontations in the South China Sea between their ships that have raised concerns of armed engagement in the region. China&#8217;s Ministry of Foreign Affairs said Thursday that [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/china-philippines-agree-to-lower-tensions-on-south-china-sea-confrontations/">China, Philippines agree to lower tensions on South China Sea confrontations</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/china-philippines-agree-to-lower-tensions-on-south-china-sea-confrontations/">https://islandtimes.org/china-philippines-agree-to-lower-tensions-on-south-china-sea-confrontations/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/china-philippines-agree-to-lower-tensions-on-south-china-sea-confrontations/">Save to Pocket</a>
+</span>
+
+---
+
+## U.S political support for deep-sea mining growing despite pushback from allies
+
+date: 2024-01-19, from: Island Times
+
+<p>WASHINGTON (WALL STREET JOURNAL) &#8212; A report in the Wall Street Journal says U.S political support for deep-sea mining has taken on a new urgency as Norway this week became the first country to legalise extraction of minerals from the ocean bottom despite strong opposition from western allies. The Pentagon was recently asked to submit [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-political-support-for-deep-sea-mining-growing-despite-pushback-from-allies/">U.S political support for deep-sea mining growing despite pushback from allies</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/u-s-political-support-for-deep-sea-mining-growing-despite-pushback-from-allies/">https://islandtimes.org/u-s-political-support-for-deep-sea-mining-growing-despite-pushback-from-allies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/u-s-political-support-for-deep-sea-mining-growing-despite-pushback-from-allies/">Save to Pocket</a>
+</span>
+
+---
+
+## Two Tongan skulls held in a Sydney museum have been repatriated to their traditional owners
+
+date: 2024-01-19, from: Island Times
+
+<p>By Marian Kupu and Hugo Hodge (ABC-Australia) The remains of two Tongan males stored in the Australian Museum&#8217;s collection in Sydney have been repatriated to their present-day descendants living on &#8216;Eua Island in the south of Tonga. Key points: More than 150 years after they died, the remains, skulls of one boy and one man, were laid to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/two-tongan-skulls-held-in-a-sydney-museum-have-been-repatriated-to-their-traditional-owners/">Two Tongan skulls held in a Sydney museum have been repatriated to their traditional owners</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/two-tongan-skulls-held-in-a-sydney-museum-have-been-repatriated-to-their-traditional-owners/">https://islandtimes.org/two-tongan-skulls-held-in-a-sydney-museum-have-been-repatriated-to-their-traditional-owners/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/two-tongan-skulls-held-in-a-sydney-museum-have-been-repatriated-to-their-traditional-owners/">Save to Pocket</a>
+</span>
+
+---
+
+## Hawaii lawmakers open new legislative session with eyes on wildfire prevention and housing
+
+date: 2024-01-19, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68189" data-permalink="https://islandtimes.org/apple-ends-samsungs-12-year-run-as-worlds-top-smartphone-seller-as-tech-giants-push-more-ai-into-our-phones/hawaii-legislature/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;iPhone 14 Pro&quot;,&quot;caption&quot;:&quot;Hawaii Senate President Ron Kouchi, left, speaks to senators at the Hawaii State Capitol on Wednesday, Jan. 17, 2024, in Honolulu. Hawaii lawmakers on Wednesday opened a new session of the state Legislature vowing to address glaring problems laid bare by the deadly wildfire that destroyed the historic town of Lahaina in August: the threat posed by wildfires and the lack of affordable housing. (AP Photo\/Audrey McAvoy)&quot;,&quot;created_timestamp&quot;:&quot;1705485338&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;9&quot;,&quot;iso&quot;:&quot;1000&quot;,&quot;shutter_speed&quot;:&quot;0.024390243902439&quot;,&quot;title&quot;:&quot;Hawaii Legislature&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Hawaii Legislature" data-image-description="" data-image-caption="&lt;p&gt;Hawaii Senate President Ron Kouchi, left, speaks to senators at the Hawaii State Capitol on Wednesday, Jan. 17, 2024, in Honolulu. Hawaii lawmakers on Wednesday opened a new session of the state Legislature vowing to address glaring problems laid bare by the deadly wildfire that destroyed the historic town of Lahaina in August: the threat posed by wildfires and the lack of affordable housing. (AP Photo/Audrey McAvoy)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Hawaii-lawmakers.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>By AUDREY McAVOY Associated Press HONOLULU (AP) — Hawaii lawmakers on Wednesday opened a new session of the state Legislature vowing to address glaring problems laid bare by the deadly wildfire that destroyed the historic town of Lahaina in August: the threat posed by wildfires and the lack of affordable housing. Lahaina is still in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/hawaii-lawmakers-open-new-legislative-session-with-eyes-on-wildfire-prevention-and-housing/">Hawaii lawmakers open new legislative session with eyes on wildfire prevention and housing</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/hawaii-lawmakers-open-new-legislative-session-with-eyes-on-wildfire-prevention-and-housing/">https://islandtimes.org/hawaii-lawmakers-open-new-legislative-session-with-eyes-on-wildfire-prevention-and-housing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/hawaii-lawmakers-open-new-legislative-session-with-eyes-on-wildfire-prevention-and-housing/">Save to Pocket</a>
+</span>
+
+---
+
+## Apple ends Samsung’s 12-year run as world’s top smartphone seller, as tech giants push more AI into our phones
+
+date: 2024-01-19, from: Island Times
+
+<p>(ABC-Australia) Apple&#8217;s iPhone has become the world&#8217;s biggest selling smartphone for the first time, ending rival Samsung&#8217;s 12-year run as market leader, new data shows. Key points: According to the International Data Corporation (IDC), the iPhone stole Samsung&#8217;s crown in 2023 with 234.6 million units sold, compared to the South Korean firm&#8217;s 226.6 million units. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/apple-ends-samsungs-12-year-run-as-worlds-top-smartphone-seller-as-tech-giants-push-more-ai-into-our-phones/">Apple ends Samsung&#8217;s 12-year run as world&#8217;s top smartphone seller, as tech giants push more AI into our phones</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/apple-ends-samsungs-12-year-run-as-worlds-top-smartphone-seller-as-tech-giants-push-more-ai-into-our-phones/">https://islandtimes.org/apple-ends-samsungs-12-year-run-as-worlds-top-smartphone-seller-as-tech-giants-push-more-ai-into-our-phones/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/apple-ends-samsungs-12-year-run-as-worlds-top-smartphone-seller-as-tech-giants-push-more-ai-into-our-phones/">Save to Pocket</a>
+</span>
+
+---
+
+## Amazon will invest in Diamond Sports as part of a bankruptcy restructuring agreement
+
+date: 2024-01-19, from: Island Times
+
+<figure><img width="1024" height="646" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Amazon-will-invest.jpg?fit=1024%2C646&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Amazon-will-invest.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Amazon-will-invest.jpg?resize=300%2C189&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Amazon-will-invest.jpg?resize=1024%2C646&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Amazon-will-invest.jpg?resize=768%2C485&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Amazon-will-invest.jpg?resize=1200%2C757&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Amazon-will-invest.jpg?resize=400%2C252&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Amazon-will-invest.jpg?resize=706%2C445&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Amazon-will-invest.jpg?fit=1024%2C646&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68186" data-permalink="https://islandtimes.org/amazon-will-invest-in-diamond-sports-as-part-of-a-bankruptcy-restructuring-agreement/diamond-sports-bankruptcy/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Amazon-will-invest.jpg?fit=1249%2C788&amp;ssl=1" data-orig-size="1249,788" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;8&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;FILE - An Amazon company logo marks the facade of a building in Schoenefeld near Berlin, March 18, 2022. Amazon will partner with the Diamond Sports as part of a restructuring agreement as the largest owner of regional sports networks looks to emerge from bankruptcy. Diamond owns 18 networks under the Bally Sports banner. Those networks have the rights to 37 professional teams \u2014 11 baseball, 15 NBA and 11 NHL. (AP Photo\/Michael Sohn, File)&quot;,&quot;created_timestamp&quot;:&quot;1647594471&quot;,&quot;copyright&quot;:&quot;Copyright 2022 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;209&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.003125&quot;,&quot;title&quot;:&quot;Diamond Sports-Bankruptcy&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Diamond Sports-Bankruptcy" data-image-description="" data-image-caption="&lt;p&gt;FILE &#8211; An Amazon company logo marks the facade of a building in Schoenefeld near Berlin, March 18, 2022. Amazon will partner with the Diamond Sports as part of a restructuring agreement as the largest owner of regional sports networks looks to emerge from bankruptcy. Diamond owns 18 networks under the Bally Sports banner. Those networks have the rights to 37 professional teams — 11 baseball, 15 NBA and 11 NHL. (AP Photo/Michael Sohn, File)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Amazon-will-invest.jpg?fit=300%2C189&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Amazon-will-invest.jpg?fit=780%2C492&amp;ssl=1" /></figure>
+<p>By JOE REEDY AP Sports Writer Amazon will partner with Diamond Sports as part of a restructuring agreement as the largest owner of regional sports networks looks to emerge from bankruptcy. Diamond owns 18 networks under the Bally Sports banner. Those networks have the rights to 37 professional teams — 11 baseball, 15 NBA and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/amazon-will-invest-in-diamond-sports-as-part-of-a-bankruptcy-restructuring-agreement/">Amazon will invest in Diamond Sports as part of a bankruptcy restructuring agreement</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/amazon-will-invest-in-diamond-sports-as-part-of-a-bankruptcy-restructuring-agreement/">https://islandtimes.org/amazon-will-invest-in-diamond-sports-as-part-of-a-bankruptcy-restructuring-agreement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/amazon-will-invest-in-diamond-sports-as-part-of-a-bankruptcy-restructuring-agreement/">Save to Pocket</a>
+</span>
+
+---
+
+## Chiefs’ Patrick Mahomes hitting the road for first time in the playoffs to play Buffalo
+
+date: 2024-01-19, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Chiefs-Patrick.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Chiefs-Patrick.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Chiefs-Patrick.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Chiefs-Patrick.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Chiefs-Patrick.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Chiefs-Patrick.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Chiefs-Patrick.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Chiefs-Patrick.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Chiefs-Patrick.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68183" data-permalink="https://islandtimes.org/chiefs-patrick-mahomes-hitting-the-road-for-first-time-in-the-playoffs-to-play-buffalo/patrick-mahomes-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Chiefs-Patrick.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;AP&quot;,&quot;camera&quot;:&quot;ILCE-9&quot;,&quot;caption&quot;:&quot;Kansas City Chiefs quarterback Patrick Mahomes greets fans after an NFL wild-card playoff football game against the Miami Dolphins Saturday, Jan. 13, 2024, in Kansas City, Mo. (AP Photo\/Ed Zurga)&quot;,&quot;created_timestamp&quot;:&quot;1705213356&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;19&quot;,&quot;iso&quot;:&quot;4000&quot;,&quot;shutter_speed&quot;:&quot;0.001&quot;,&quot;title&quot;:&quot;Patrick Mahomes&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Patrick Mahomes" data-image-description="" data-image-caption="&lt;p&gt;Kansas City Chiefs quarterback Patrick Mahomes greets fans after an NFL wild-card playoff football game against the Miami Dolphins Saturday, Jan. 13, 2024, in Kansas City, Mo. (AP Photo/Ed Zurga)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Chiefs-Patrick.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/Chiefs-Patrick.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By DAVE SKRETTA AP Sports Writer KANSAS CITY, Mo. (AP) — Patrick Mahomes has done just about everything in his NFL career, particularly when it comes to the postseason. Five straight AFC title games. Three conference championships. Two Super Bowl titles.&#160;One shattered helmet. Mahomes will try something entirely new Sunday night, though, when he leads [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/chiefs-patrick-mahomes-hitting-the-road-for-first-time-in-the-playoffs-to-play-buffalo/">Chiefs&#8217; Patrick Mahomes hitting the road for first time in the playoffs to play Buffalo</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/chiefs-patrick-mahomes-hitting-the-road-for-first-time-in-the-playoffs-to-play-buffalo/">https://islandtimes.org/chiefs-patrick-mahomes-hitting-the-road-for-first-time-in-the-playoffs-to-play-buffalo/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/chiefs-patrick-mahomes-hitting-the-road-for-first-time-in-the-playoffs-to-play-buffalo/">Save to Pocket</a>
+</span>
+
+---
+
+## Amazon lays off about 5% of workforce at Buy with Prime unit
+
+date: 2024-01-19, updated: 2024-01-19, from: Marianas Variety
+
+(Reuters) — Amazon.com said on Thursday it is laying off fewer than 5% of employees at its Buy with Prime unit.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/amazon-lays-off-about-5-of-workforce-at-buy-with-prime-unit/article_19150a60-b693-11ee-ac32-872f8b473ff1.html">https://www.mvariety.com/business/amazon-lays-off-about-5-of-workforce-at-buy-with-prime-unit/article_19150a60-b693-11ee-ac32-872f8b473ff1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/amazon-lays-off-about-5-of-workforce-at-buy-with-prime-unit/article_19150a60-b693-11ee-ac32-872f8b473ff1.html">Save to Pocket</a>
+</span>
+
+---
+
+## ChatGPT effect: Coursera sees signups for AI courses every minute in 2023
+
+date: 2024-01-19, updated: 2024-01-19, from: Marianas Variety
+
+DAVOS, Switzerland (Reuters) — U.S. edutech platform Coursera added a new user every minute on average for its artificial intelligence courses in 2023, CEO Jeff Maggioncalda said on Thursday, in a clear sign of people upskilling to tap a potential boom in generative AI.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/chatgpt-effect-coursera-sees-signups-for-ai-courses-every-minute-in-2023/article_b5975538-b692-11ee-9ae5-ef1e01246e22.html">https://www.mvariety.com/business/chatgpt-effect-coursera-sees-signups-for-ai-courses-every-minute-in-2023/article_b5975538-b692-11ee-9ae5-ef1e01246e22.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/chatgpt-effect-coursera-sees-signups-for-ai-courses-every-minute-in-2023/article_b5975538-b692-11ee-9ae5-ef1e01246e22.html">Save to Pocket</a>
+</span>
+
+---
+
+## US urges discussions with China on practical nuclear risk reduction steps
+
+date: 2024-01-19, updated: 2024-01-19, from: Marianas Variety
+
+WASHINGTON (Reuters) — The United States does not expect formal nuclear arms-control negotiations with China anytime soon, but does want to see a start of discussions on practical risk-reduction measures, a senior White House official said on Thursday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-urges-discussions-with-china-on-practical-nuclear-risk-reduction-steps/article_7a5c72c4-b68c-11ee-93a5-3f988e4acf46.html">https://www.mvariety.com/news/national/us-urges-discussions-with-china-on-practical-nuclear-risk-reduction-steps/article_7a5c72c4-b68c-11ee-93a5-3f988e4acf46.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-urges-discussions-with-china-on-practical-nuclear-risk-reduction-steps/article_7a5c72c4-b68c-11ee-93a5-3f988e4acf46.html">Save to Pocket</a>
+</span>
+
+---
+
+## Los Angeles Times plans 'significant' layoffs, guild says
+
+date: 2024-01-19, updated: 2024-01-19, from: Marianas Variety
+
+(Reuters) — Los Angeles Times plans to lay off a "significant" number of journalists, the newspaper's guild said on Thursday, adding that they would organize a one-day walk-out on Friday to protest against the planned move.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/los-angeles-times-plans-significant-layoffs-guild-says/article_0fb83bba-b68c-11ee-ae76-3f9ddb5a3925.html">https://www.mvariety.com/news/national/los-angeles-times-plans-significant-layoffs-guild-says/article_0fb83bba-b68c-11ee-ae76-3f9ddb5a3925.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/los-angeles-times-plans-significant-layoffs-guild-says/article_0fb83bba-b68c-11ee-ae76-3f9ddb5a3925.html">Save to Pocket</a>
+</span>
+
+---
+
+## US Senator Grassley released from hospital, expects to return to work next week
+
+date: 2024-01-19, updated: 2024-01-19, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. Republican Senator Chuck Grassley, the most senior member of the Senate, has been discharged from hospital and expects to be back to work next week, his office said in a statement on Thursday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-senator-grassley-released-from-hospital-expects-to-return-to-work-next-week/article_d15b2e68-b68b-11ee-a512-57ff2e5c7c08.html">https://www.mvariety.com/news/national/us-senator-grassley-released-from-hospital-expects-to-return-to-work-next-week/article_d15b2e68-b68b-11ee-a512-57ff2e5c7c08.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-senator-grassley-released-from-hospital-expects-to-return-to-work-next-week/article_d15b2e68-b68b-11ee-a512-57ff2e5c7c08.html">Save to Pocket</a>
+</span>
+
+---
+
+## Florida public university system to vote on defunding diversity programs
+
+date: 2024-01-19, updated: 2024-01-19, from: Marianas Variety
+
+(Reuters) — Florida's public university system will decide next Wednesday whether to ban diversity spending and remove sociology classes as a way to fulfill social-science course requirements, a week after the state education board approved the measures for public colleges.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/florida-public-university-system-to-vote-on-defunding-diversity-programs/article_77e0fd5e-b68b-11ee-bd5c-afdd9e643ed4.html">https://www.mvariety.com/news/national/florida-public-university-system-to-vote-on-defunding-diversity-programs/article_77e0fd5e-b68b-11ee-bd5c-afdd9e643ed4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/florida-public-university-system-to-vote-on-defunding-diversity-programs/article_77e0fd5e-b68b-11ee-bd5c-afdd9e643ed4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Trump to stay on Washington state ballot; third-party group asks DOJ to probe Democrats
+
+date: 2024-01-19, updated: 2024-01-19, from: Marianas Variety
+
+(Reuters) — Donald Trump can remain on Washington state's Republican presidential primary ballot, a judge ruled on Thursday, rejecting the latest effort to disqualify the former president from running again based on his efforts to reverse his 2020 election loss.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/trump-to-stay-on-washington-state-ballot-third-party-group-asks-doj-to-probe-democrats/article_0c0dc328-b68b-11ee-bea4-4b494ab53da0.html">https://www.mvariety.com/news/national/trump-to-stay-on-washington-state-ballot-third-party-group-asks-doj-to-probe-democrats/article_0c0dc328-b68b-11ee-bea4-4b494ab53da0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/trump-to-stay-on-washington-state-ballot-third-party-group-asks-doj-to-probe-democrats/article_0c0dc328-b68b-11ee-bea4-4b494ab53da0.html">Save to Pocket</a>
+</span>
+
+---
+
+## Spot bitcoin ETFs draw nearly $2 billion in first three days of trading
+
+date: 2024-01-19, updated: 2024-01-19, from: Marianas Variety
+
+(Reuters) — A new batch of U.S. bitcoin exchange-traded funds (ETFs) has attracted strong investor interest, though it is unclear if they will be able to maintain the pace of inflows in coming weeks.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/spot-bitcoin-etfs-draw-nearly-2-billion-in-first-three-days-of-trading/article_7fcf04f8-b68a-11ee-b5cc-bf870dc131d8.html">https://www.mvariety.com/news/national/spot-bitcoin-etfs-draw-nearly-2-billion-in-first-three-days-of-trading/article_7fcf04f8-b68a-11ee-b5cc-bf870dc131d8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/spot-bitcoin-etfs-draw-nearly-2-billion-in-first-three-days-of-trading/article_7fcf04f8-b68a-11ee-b5cc-bf870dc131d8.html">Save to Pocket</a>
+</span>
+
+---
+
+## US Minuteman III missile replacement breaks $96 billion budget, triggers Pentagon review
+
+date: 2024-01-19, updated: 2024-01-19, from: Marianas Variety
+
+WASHINGTON (Reuters) — The replacement for the ground-based U.S. nuclear arsenal anchored by the Minuteman III has officially busted through its $95.8 billion budget due to the COVID-19 pandemic and inflation, the Air Force said on Thursday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-minuteman-iii-missile-replacement-breaks-96-billion-budget-triggers-pentagon-review/article_349aa870-b68a-11ee-86e6-7f6ed5d92b5f.html">https://www.mvariety.com/news/national/us-minuteman-iii-missile-replacement-breaks-96-billion-budget-triggers-pentagon-review/article_349aa870-b68a-11ee-86e6-7f6ed5d92b5f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-minuteman-iii-missile-replacement-breaks-96-billion-budget-triggers-pentagon-review/article_349aa870-b68a-11ee-86e6-7f6ed5d92b5f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Pennsylvania cannot bar adults under 21 from carrying guns, court rules
+
+date: 2024-01-19, updated: 2024-01-19, from: Marianas Variety
+
+(Reuters) — A federal appeals court on Thursday ruled that Pennsylvania laws that ban 18- to 20-year-olds from carrying firearms in public during a state of emergency are unconstitutional, citing a landmark U.S. Supreme Court ruling that expanded gun rights.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/pennsylvania-cannot-bar-adults-under-21-from-carrying-guns-court-rules/article_92d943c0-b689-11ee-a33a-43e92b15c2ce.html">https://www.mvariety.com/news/national/pennsylvania-cannot-bar-adults-under-21-from-carrying-guns-court-rules/article_92d943c0-b689-11ee-a33a-43e92b15c2ce.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/pennsylvania-cannot-bar-adults-under-21-from-carrying-guns-court-rules/article_92d943c0-b689-11ee-a33a-43e92b15c2ce.html">Save to Pocket</a>
+</span>
+
+---
+
+## US to end CNMI's visa-waiver program for Chinese travelers; DHS proposes transition plan
+
+date: 2024-01-19, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The U.S. Department of Homeland Security has proposed the prescreening of Chinese travelers before coming to the...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/us-to-end-cnmi-s-visa-waiver-program-for-chinese-travelers-dhs-proposes-transition-plan">https://www.pacificislandtimes.com/post/us-to-end-cnmi-s-visa-waiver-program-for-chinese-travelers-dhs-proposes-transition-plan</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/us-to-end-cnmi-s-visa-waiver-program-for-chinese-travelers-dhs-proposes-transition-plan">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Movie Magic
+
+date: 2024-01-18, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/2024-movie-magic/article_02d502e6-b652-11ee-8e5d-9335d64ec847.html">https://www.manoanow.org/kaleo/2024-movie-magic/article_02d502e6-b652-11ee-8e5d-9335d64ec847.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/2024-movie-magic/article_02d502e6-b652-11ee-8e5d-9335d64ec847.html">Save to Pocket</a>
+</span>
+
+---
+
+## Eye doctors coming in
+
+date: 2024-01-18, from: Marshal Islands Journal
+
+<p>KAREN EARNSHAW How’s your eyesight? Are things a little fuzzy these days? Colors don’t look so bright? Help is on the way because the Ministry of Health will be hosting a Canvasback Missions Ophthalmology Team at Majuro Hospital from January 25 to February 9.To become a patient, a person needs to be pre-screened as soon [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/eye-doctors-coming-in/">Eye doctors coming in</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/eye-doctors-coming-in/">https://marshallislandsjournal.com/eye-doctors-coming-in/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/eye-doctors-coming-in/">Save to Pocket</a>
+</span>
+
+---
+
+## The future of Laulima
+
+date: 2024-01-18, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/the-future-of-laulima/article_77d79408-b64f-11ee-a0ff-27cebf5857e5.html">https://www.manoanow.org/kaleo/the-future-of-laulima/article_77d79408-b64f-11ee-a0ff-27cebf5857e5.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/the-future-of-laulima/article_77d79408-b64f-11ee-a0ff-27cebf5857e5.html">Save to Pocket</a>
+</span>
+
+---
+
+## Red Hill fuel leak: UHERO survey highlights ongoing health toll
+
+date: 2024-01-18, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Mental health and neurological symptoms were the most widely reported.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/18/red-hill-fuel-leak-survey-2023/">Red Hill fuel leak: <abbr>UHERO</abbr> survey highlights ongoing health toll</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/18/red-hill-fuel-leak-survey-2023/">https://www.hawaii.edu/news/2024/01/18/red-hill-fuel-leak-survey-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/18/red-hill-fuel-leak-survey-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## U.S. Census director to highlight research challenges in free public talk
+
+date: 2024-01-18, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Robert L. Santos will give a free public talk on January 26.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/18/census-director-to-give-uh-talk/">U.S. Census director to highlight research challenges in free public talk</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/18/census-director-to-give-uh-talk/">https://www.hawaii.edu/news/2024/01/18/census-director-to-give-uh-talk/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/18/census-director-to-give-uh-talk/">Save to Pocket</a>
+</span>
+
+---
+
+## International talks highlight math inclusivity, current applications
+
+date: 2024-01-18, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Professors Kamuela Yong and Daniel Erman delivered addresses at the Joint Mathematics Meetings in San Francisco.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/18/jmm-invited-addresses/">International talks highlight math inclusivity, current applications</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/18/jmm-invited-addresses/">https://www.hawaii.edu/news/2024/01/18/jmm-invited-addresses/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/18/jmm-invited-addresses/">Save to Pocket</a>
+</span>
+
+---
+
+## Do you know a “JERK”?
+
+date: 2024-01-18, from: Marshal Islands Journal
+
+<p>Journal 1/16/1987 P1 Casinos coming?A bill to legalize gambling for foreign visitors and certain Marshallese was introduced into the Nitijela last week and debated during a public hearing Monday. Introduced by President Amata Kabua, it would legalize “gaming houses,” giving authority to the Cabinet to license and control casinos in the Marshall Islands. P1 Peace [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/do-you-know-a-jerk/">Do you know a &#8220;JERK&#8221;?</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/do-you-know-a-jerk/">https://marshallislandsjournal.com/do-you-know-a-jerk/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/do-you-know-a-jerk/">Save to Pocket</a>
+</span>
+
+---
+
+## January President’s BOR report: Aloha Stadium, enrollment
+
+date: 2024-01-18, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> President Lassner also covered extramural funding.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/18/january-2024-president-report/">January President’s <abbr>BOR</abbr> report: Aloha Stadium, enrollment</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/18/january-2024-president-report/">https://www.hawaii.edu/news/2024/01/18/january-2024-president-report/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/18/january-2024-president-report/">Save to Pocket</a>
+</span>
+
+---
+
+## Enhancing road safety: Engineering professor wins $100K for AI innovation
+
+date: 2024-01-18, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The project will advance into the second phase of the U.S. Department of Transportation challenge.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/18/enhancing-road-safety-dot-award/">Enhancing road safety: Engineering professor wins $100<abbr>K</abbr> for <abbr>AI</abbr> innovation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/18/enhancing-road-safety-dot-award/">https://www.hawaii.edu/news/2024/01/18/enhancing-road-safety-dot-award/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/18/enhancing-road-safety-dot-award/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Mānoa’s Vilcek earns first Big West honors
+
+date: 2024-01-18, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span>  Ana Vilcek sweeps <abbr>BYU</abbr> in the Weinman Foundation Invitational.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/18/manoa-vilcek-big-west-honors/"><abbr>UH</abbr> Mānoa’s Vilcek earns first Big West honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/18/manoa-vilcek-big-west-honors/">https://www.hawaii.edu/news/2024/01/18/manoa-vilcek-big-west-honors/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/18/manoa-vilcek-big-west-honors/">Save to Pocket</a>
+</span>
+
+---
+
+## Free mental health services available for UH Mānoa students
+
+date: 2024-01-18, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> An array of programs are dedicated to serving the unique needs of <abbr>UH</abbr> M&#257;noa students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/18/mental-health-manoa-students/">Free mental health services available for <abbr>UH</abbr> Mānoa students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/18/mental-health-manoa-students/">https://www.hawaii.edu/news/2024/01/18/mental-health-manoa-students/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/18/mental-health-manoa-students/">Save to Pocket</a>
+</span>
+
+---
+
+## Medicine
+
+date: 2024-01-18, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Emily McIlroy I climb into the ear of the island–auricle of ash rising above blue lung. Lay my bones of water over black tuff, pin my lean heart on a kiawe thorn. Fever folds over stones, salted and bleached &#8230; <a href="https://hawaiipacificreview.org/2024/01/18/medicine/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://hawaiipacificreview.org/2024/01/18/medicine/">https://hawaiipacificreview.org/2024/01/18/medicine/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://hawaiipacificreview.org/2024/01/18/medicine/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -388,6 +925,18 @@ TAMPA, Fla. (AP) — The NFL playoffs are shaping up as a redemption tour of sor
 
 <span class="feed-item-link">
 <a href="https://www.mvariety.com/sports/nationalsports/buccaneers-playoff-path-is-lined-with-potential-opponents-who-beat-them-during-the-regular-season/article_5c4d5de8-b547-11ee-ade0-e3a2e0aa42fd.html">https://www.mvariety.com/sports/nationalsports/buccaneers-playoff-path-is-lined-with-potential-opponents-who-beat-them-during-the-regular-season/article_5c4d5de8-b547-11ee-ade0-e3a2e0aa42fd.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/buccaneers-playoff-path-is-lined-with-potential-opponents-who-beat-them-during-the-regular-season/article_5c4d5de8-b547-11ee-ade0-e3a2e0aa42fd.html">Save to Pocket</a>
+</span>
+
+---
+
+## Google announces plans to build subsea cables that will connect central Pacific
+
+date: 2024-01-17, from: Pacific Island Times
+
+By Pacific Island Times News Staff Google announced plans for the central Pacific Connect initiative, which will deliver two new...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/google-announces-plans-to-build-subsea-cables-that-will-connect-central-pacific">https://www.pacificislandtimes.com/post/google-announces-plans-to-build-subsea-cables-that-will-connect-central-pacific</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/google-announces-plans-to-build-subsea-cables-that-will-connect-central-pacific">Save to Pocket</a>
 </span>
 
 ---

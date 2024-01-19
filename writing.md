@@ -1,11 +1,99 @@
 ---
 title: writing 2024.03
-updated: 2024-01-18 08:01:52
+updated: 2024-01-19 08:17:51
 ---
 
 # writing 2024.03
 
-(date: 2024-01-18 08:01:52)
+(date: 2024-01-19 08:17:51)
+
+---
+
+## 5 Screenwriting Takeaways: Sundance Shorts Embrace It All
+
+date: 2024-01-19, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/five-takeaways-from-sundance-2024-short-films" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Say%20Hi%20After%20You%20Die.jpeg" alt="'Say Hi After You Die,' 5 Takeaways from Sundance 2024 Short Films" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>As the 2024 Sundance Film Festival approaches its 40th year, the best shorts in the independent film world will show on the silver screen in Park City, Utah. From January 18 through the 28 (with some titles available online from January 25 through 28), the 53 short films selected from 12,098 submissions, the highest number on record, we can learn a few things as screenwriters. Here are our five takeaways from the <a href="https://festival.sundance.org/program/films/short-films">2024 Sundance short films.</a>&nbsp;</p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/five-takeaways-from-sundance-2024-short-films">https://blog.finaldraft.com/five-takeaways-from-sundance-2024-short-films</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/five-takeaways-from-sundance-2024-short-films">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-19, from: Neil Gaiman @ BlueSky)
+
+Thank you!
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjcdhry6kt2r">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjcdhry6kt2r</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjcdhry6kt2r">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-18, from: Neil Gaiman @ BlueSky)
+
+The Ray Bradbury Centennial of Selected Shorts that I hosted is up online. Yetide Badaki. Javier Muñoz. Kirsten Vangsness. Three magical Bradbury stories...
+
+www.symphonyspace.org/selected-sho...
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjbzp5igio2v">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjbzp5igio2v</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjbzp5igio2v">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-18, from: Neil Gaiman @ BlueSky)
+
+Thank you! It was a magical night.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjbxynstzu2h">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjbxynstzu2h</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjbxynstzu2h">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-18, from: Neil Gaiman @ BlueSky)
+
+I love this review. That was what we were hoping for.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjbxq3zeus26">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjbxq3zeus26</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjbxq3zeus26">Save to Pocket</a>
+</span>
+
+---
+
+## Write On: 'American Fiction' Writer/Director Cord Jefferson
+
+date: 2024-01-18, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-american-fiction-writer/director-cord-jefferson" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20American%20Fiction%20WriterDirector%20Cord%20Jefferson.png" alt="Write On: 'American Fiction' Writer/Director Cord Jefferson" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“I think that approaching the grand things through the smallest entryways possible is the best way to go about taking on these massive issues… So yes, this movie is about race and racism and art and who's allowed to make certain kinds of art - these are really big, unwieldy issues. But the reason that I think people can relate to them –and it doesn't feel so top heavy or clumsy – is because you see it through a character that was deeply personal to me,” says Cord Jefferson, writer/director of <i>American Fiction</i>.<span>&nbsp;</span></p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/write-on-american-fiction-writer/director-cord-jefferson">https://blog.finaldraft.com/write-on-american-fiction-writer/director-cord-jefferson</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/write-on-american-fiction-writer/director-cord-jefferson">Save to Pocket</a>
+</span>
+
+---
+
+## Charles Payseur Reviews Short Fiction: Fantasy, Flash Fiction Online, GigaNotoSaurus, and Baffling
+
+date: 2024-01-18, from: Locus Magazine
+
+<p>Fantasy 10/23
+Flash Fiction Online 10/23
+GigaNotoSaurus 10/23
+Baffling 10/23</p>
+<p>Unfortunately, October also brought the final issue of Fantasy, which closed in impressive fashion. First, in fiction, Ruoxi Chen’s &#8220;<strong>Fandom for Witches</strong>&#8220;, finds Lara, a Chinese-American girl lightly obsessed with the (definitely not Supernatural) fictional television show Sanctu­ary Road. The story deals with yearning, with fitting in, with all the messy bits of growing up and feeling alone  <a href="https://locusmag.com/2024/01/charles-payseur-reviews-short-fiction-fantasy-flash-fiction-online-giganotosaurus-and-baffling/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/charles-payseur-reviews-short-fiction-fantasy-flash-fiction-online-giganotosaurus-and-baffling/">https://locusmag.com/2024/01/charles-payseur-reviews-short-fiction-fantasy-flash-fiction-online-giganotosaurus-and-baffling/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/charles-payseur-reviews-short-fiction-fantasy-flash-fiction-online-giganotosaurus-and-baffling/">Save to Pocket</a>
+</span>
 
 ---
 

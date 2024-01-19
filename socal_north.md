@@ -1,11 +1,411 @@
 ---
 title: socal north 2024.03
-updated: 2024-01-18 08:01:52
+updated: 2024-01-19 08:17:51
 ---
 
 # socal north 2024.03
 
-(date: 2024-01-18 08:01:52)
+(date: 2024-01-19 08:17:51)
+
+---
+
+## Culinary Connections: Join LAist For An Old-School Hamburger Fry
+
+date: 2024-01-19, updated: 2024-01-19, from: The LAist
+
+Join Associate Editor of Food and Culture Gab Chabrán and How To LA host Brian De Los Santos to discuss burgers in Los Angeles.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/culinary-connections-join-laist-for-an-old-school-hamburger-fry">https://laist.com/news/food/culinary-connections-join-laist-for-an-old-school-hamburger-fry</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/culinary-connections-join-laist-for-an-old-school-hamburger-fry">Save to Pocket</a>
+</span>
+
+---
+
+## LAist Pop-Up Of The Week: Lao-Lao's Curried Noodles In Chinatown
+
+date: 2024-01-19, updated: 2024-01-19, from: The LAist
+
+Discover the delicious flavors of Laotian cuisine at Malina Syvoravong's pop-up, Lao-Lao, this weekend at Pearl River Deli in Chinatown.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/la-laotian-pop-up-los-angeles-chinatown-malina-syvoravong">https://laist.com/news/food/la-laotian-pop-up-los-angeles-chinatown-malina-syvoravong</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/la-laotian-pop-up-los-angeles-chinatown-malina-syvoravong">Save to Pocket</a>
+</span>
+
+---
+
+## Pasadena Claims To Be The Home Of The Cheeseburger — But There’s Beef
+
+date: 2024-01-19, updated: 2024-01-19, from: The LAist
+
+Was the burger with cheese really invented at a Pasadena roadside stand 100 years ago?
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/pasadena-claims-to-be-the-home-of-the-cheeseburger-but-theres-beef">https://laist.com/news/food/pasadena-claims-to-be-the-home-of-the-cheeseburger-but-theres-beef</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/pasadena-claims-to-be-the-home-of-the-cheeseburger-but-theres-beef">Save to Pocket</a>
+</span>
+
+---
+
+## Does Sriracha Taste Different After The Shortage? We Put It To The Test — And Learned Proper Storage Etiquette In The Process
+
+date: 2024-01-19, updated: 2024-01-19, from: The LAist
+
+After people began complaining online that Sriracha they'd bought recently didn't taste like the old stuff, we set out to find the answer. It didn't go well.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/does-sriracha-taste-different-after-the-shortage-we-put-it-to-the-test-and-learned-proper-storage-etiquette-in-the-process">https://laist.com/news/food/does-sriracha-taste-different-after-the-shortage-we-put-it-to-the-test-and-learned-proper-storage-etiquette-in-the-process</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/does-sriracha-taste-different-after-the-shortage-we-put-it-to-the-test-and-learned-proper-storage-etiquette-in-the-process">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – January 19, 2024
+
+date: 2024-01-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/19/classifieds-january-19-2024/">Classifieds &#8211; January 19, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/19/classifieds-january-19-2024/">https://dailytrojan.com/2024/01/19/classifieds-january-19-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/19/classifieds-january-19-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Three decades of legendary albums
+
+date: 2024-01-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As 2024 rolls around, let’s look back on the past 30 years of influential music.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/19/three-decades-of-legendary-albums/">Three decades of legendary albums</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/19/three-decades-of-legendary-albums/">https://dailytrojan.com/2024/01/19/three-decades-of-legendary-albums/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/19/three-decades-of-legendary-albums/">Save to Pocket</a>
+</span>
+
+---
+
+## Emotional whiplash on social media is overwhelming
+
+date: 2024-01-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Social media is more than just a draining medium, it' making us go numb.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/19/emotional-whiplash-on-social-media-is-overwhelming/">Emotional whiplash on social media is overwhelming</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/19/emotional-whiplash-on-social-media-is-overwhelming/">https://dailytrojan.com/2024/01/19/emotional-whiplash-on-social-media-is-overwhelming/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/19/emotional-whiplash-on-social-media-is-overwhelming/">Save to Pocket</a>
+</span>
+
+---
+
+## Halfway through study abroad
+
+date: 2024-01-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A year abroad means the adventure is still going.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/19/halfway-through-study-abroad/">Halfway through study abroad</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/19/halfway-through-study-abroad/">https://dailytrojan.com/2024/01/19/halfway-through-study-abroad/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/19/halfway-through-study-abroad/">Save to Pocket</a>
+</span>
+
+---
+
+## National Pan-Hellenic Council spends Founders’ Days with marches, service
+
+date: 2024-01-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Five Divine Nine chapters celebrated their Founders’ Day between Jan. 5 and 16.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/19/national-pan-hellenic-council-spends-founders-days-with-marches-service/">National Pan-Hellenic Council spends Founders’ Days with marches, service</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/19/national-pan-hellenic-council-spends-founders-days-with-marches-service/">https://dailytrojan.com/2024/01/19/national-pan-hellenic-council-spends-founders-days-with-marches-service/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/19/national-pan-hellenic-council-spends-founders-days-with-marches-service/">Save to Pocket</a>
+</span>
+
+---
+
+## Students rush into the new semester
+
+date: 2024-01-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Spring rush began with a new unstructured format for fraternities on the Row.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/19/students-rush-into-the-new-semester/">Students rush into the new semester</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/19/students-rush-into-the-new-semester/">https://dailytrojan.com/2024/01/19/students-rush-into-the-new-semester/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/19/students-rush-into-the-new-semester/">Save to Pocket</a>
+</span>
+
+---
+
+## It’s me, hi, I’m the problem, it’s me
+
+date: 2024-01-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>My craving for external validation has put strain on me and my relationships.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/19/its-me-hi-im-the-problem-its-me/">It&#8217;s me, hi, I&#8217;m the problem, it&#8217;s me</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/19/its-me-hi-im-the-problem-its-me/">https://dailytrojan.com/2024/01/19/its-me-hi-im-the-problem-its-me/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/19/its-me-hi-im-the-problem-its-me/">Save to Pocket</a>
+</span>
+
+---
+
+## Men’s volleyball chases first at First Point
+
+date: 2024-01-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC is headed to The Lone Star State for the first big tournament of the season.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/19/usc-mens-volleyball-first-point/">Men&#8217;s volleyball chases first at First Point</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/19/usc-mens-volleyball-first-point/">https://dailytrojan.com/2024/01/19/usc-mens-volleyball-first-point/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/19/usc-mens-volleyball-first-point/">Save to Pocket</a>
+</span>
+
+---
+
+## Shorthanded USC drops three straight
+
+date: 2024-01-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Without Isaiah Collier and Boogie Ellis, the Trojans fell short to No. 12 Arizona.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/19/usc-loses-to-no-12-arizona/">Shorthanded USC drops three straight</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/19/usc-loses-to-no-12-arizona/">https://dailytrojan.com/2024/01/19/usc-loses-to-no-12-arizona/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/19/usc-loses-to-no-12-arizona/">Save to Pocket</a>
+</span>
+
+---
+
+## Resources to Start Your Spring Semester
+
+date: 2024-01-19, from: CSUN Library Blog, Cited
+
+<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/01/Untitled-design8.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" fetchpriority="high" /></div>Welcome to Spring 2024, Matadors! With the new semester comes new opportunities as well as new challenges &#8212; with that in mind, this post spotlights&#8230;
+
+<span class="feed-item-link">
+<a href="https://library.csun.edu/blogs/cited/2024/01/19/resources-to-start-your-semester/">https://library.csun.edu/blogs/cited/2024/01/19/resources-to-start-your-semester/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://library.csun.edu/blogs/cited/2024/01/19/resources-to-start-your-semester/">Save to Pocket</a>
+</span>
+
+---
+
+## DEVELOPING: Bias-related incident at LMU men's basketball game under investigation
+
+date: 2024-01-19, from: Laloyolan (LMU Student Newspaper)
+
+The Bias Incident Response Team said in an announcement to LMU community members that it met Wednesday, Jan. 17, to review reports of an alleged bias-related incident involving the Sensational Starlettes.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/campus_news/developing-bias-related-incident-at-lmu-mens-basketball-game-under-investigation/article_9d73c80d-1ed5-5645-b7f7-384347a28c95.html">https://www.laloyolan.com/news/campus_news/developing-bias-related-incident-at-lmu-mens-basketball-game-under-investigation/article_9d73c80d-1ed5-5645-b7f7-384347a28c95.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/campus_news/developing-bias-related-incident-at-lmu-mens-basketball-game-under-investigation/article_9d73c80d-1ed5-5645-b7f7-384347a28c95.html">Save to Pocket</a>
+</span>
+
+---
+
+## Construction in University Hall is making room for additional learning spaces
+
+date: 2024-01-19, from: Laloyolan (LMU Student Newspaper)
+
+Renovations for new classrooms on the second floor of University Hall are underway, making room for four new learning spaces. The addition will include a smart classroom, a seminar room and two general purpose classrooms.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/campus_news/construction-in-university-hall-is-making-room-for-additional-learning-spaces/article_dd849696-e1c0-525c-8ed4-60a54396312b.html">https://www.laloyolan.com/news/campus_news/construction-in-university-hall-is-making-room-for-additional-learning-spaces/article_dd849696-e1c0-525c-8ed4-60a54396312b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/campus_news/construction-in-university-hall-is-making-room-for-additional-learning-spaces/article_dd849696-e1c0-525c-8ed4-60a54396312b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Test score requirements reignite debate over the validity of standardized testing
+
+date: 2024-01-19, from: Laloyolan (LMU Student Newspaper)
+
+Recent data from numerous universities and researches may suggest that the SAT or ACT can be accurate measurements of student preparedness for college.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/test-score-requirements-reignite-debate-over-the-validity-of-standardized-testing/article_0cd0601d-db43-578a-8239-ddd662fcc9ba.html">https://www.laloyolan.com/news/test-score-requirements-reignite-debate-over-the-validity-of-standardized-testing/article_0cd0601d-db43-578a-8239-ddd662fcc9ba.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/test-score-requirements-reignite-debate-over-the-validity-of-standardized-testing/article_0cd0601d-db43-578a-8239-ddd662fcc9ba.html">Save to Pocket</a>
+</span>
+
+---
+
+## Oxnard Harbor District Commissioners Welcome New Leadership on the Board
+
+date: 2024-01-19, from: Port Hueneme
+
+Cal State University Channel Island’s Celina L. Zacarias named new President for 2024-2025 Download Press Release [Port Hueneme, CA – Jan. 18, 2024] &#8211; On January 16, 2024, the Port of Hueneme welcomed new leadership as the Board of the Oxnard Harbor District voted Celina L. Zacarias to serve as President for 2024. “It is <a class="read-more-style" href="https://www.portofhueneme.org/new-leadership/">Read More</a>
+
+<span class="feed-item-link">
+<a href="https://www.portofhueneme.org/new-leadership/">https://www.portofhueneme.org/new-leadership/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.portofhueneme.org/new-leadership/">Save to Pocket</a>
+</span>
+
+---
+
+## Showdown Stage Company to Present “Never After Happily”
+
+date: 2024-01-19, from: City of Santa Clarita
+
+<p>Showdown Stage Company to Present “Never After Happily”An Evening of Fun and Fairy Tales at The MAIN Bring your family and friends for an evening with a fairy tale twist!  Residents are invited to purchase tickets for Showdown Stage Company’s production “Never After Happily” with showings starting Friday, January 26, at The MAIN (24266 Main [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/01/18/showdown-stage-company-to-present-never-after-happily/">Showdown Stage Company to Present &#8220;Never After Happily&#8221;</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2024/01/18/showdown-stage-company-to-present-never-after-happily/">https://santaclarita.gov/blog/2024/01/18/showdown-stage-company-to-present-never-after-happily/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/01/18/showdown-stage-company-to-present-never-after-happily/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA track and field gears up for Dr. Martin Luther King Jr. Invitational
+
+date: 2024-01-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Preparations are underway as a new season approaches the horizon.
+UCLA track and field is gearing up for its first indoor track meet of the season.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/18/ucla-track-and-field-gears-up-for-dr-martin-luther-king-jr-invitational/">https://dailybruin.com/2024/01/18/ucla-track-and-field-gears-up-for-dr-martin-luther-king-jr-invitational/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/18/ucla-track-and-field-gears-up-for-dr-martin-luther-king-jr-invitational/">Save to Pocket</a>
+</span>
+
+---
+
+## Film preview: New action-packed theatrical releases bring thrills to winter chill
+
+date: 2024-01-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+The cinema&#8217;s fiery films will be keeping audiences warm this winter.
+While temperatures might be dropping, the season&#8217;s lineup of upcoming releases is soaring sky-high. From new installments of action-packed franchises to outstanding original thrillers, this assortment of films could warm any viewer&#8217;s heart.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/18/film-preview-new-action-packed-theatrical-releases-bring-thrills-to-winter-chill/">https://dailybruin.com/2024/01/18/film-preview-new-action-packed-theatrical-releases-bring-thrills-to-winter-chill/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/18/film-preview-new-action-packed-theatrical-releases-bring-thrills-to-winter-chill/">Save to Pocket</a>
+</span>
+
+---
+
+## Program To Convert Unused Space Into Homes For The Unhoused Hit Milestone
+
+date: 2024-01-19, updated: 2024-01-19, from: The LAist
+
+The state program, which has allocated $3.5 billion to convert motels, hotels, and office spaces into residences for the unhoused, has now reached 15,000 new units.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/program-to-convert-unused-space-into-homes-for-the-unhoused-hit-milestone">https://laist.com/news/housing-homelessness/program-to-convert-unused-space-into-homes-for-the-unhoused-hit-milestone</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/program-to-convert-unused-space-into-homes-for-the-unhoused-hit-milestone">Save to Pocket</a>
+</span>
+
+---
+
+## The California Native Seed Strategy Is Crucial to the State’s Climate Resilience
+
+date: 2024-01-19, from: California Native Plants Society
+
+<p>California’s first Native Seed Strategy will help protect our “green infrastructure,” allowing the state to respond to climate impacts like extreme wildfire, flooding, and drought.</p>
+<p>The post <a href="https://www.cnps.org/biodiversity-initiatives/california-native-seed-strategy-launch-37172">The California Native Seed Strategy Is Crucial to the State’s Climate Resilience</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.cnps.org/biodiversity-initiatives/california-native-seed-strategy-launch-37172">https://www.cnps.org/biodiversity-initiatives/california-native-seed-strategy-launch-37172</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cnps.org/biodiversity-initiatives/california-native-seed-strategy-launch-37172">Save to Pocket</a>
+</span>
+
+---
+
+## What’s The Best Way To Approach A Celebrity You Admire? Listeners Share Their Tips
+
+date: 2024-01-18, updated: 2024-01-19, from: The LAist
+
+It can be tricky navigating a close encounter with a star. Here are some tips for a smooth interaction.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/arts-and-entertainment/best-way-to-approach-a-celebrity-tips">https://laist.com/news/arts-and-entertainment/best-way-to-approach-a-celebrity-tips</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/arts-and-entertainment/best-way-to-approach-a-celebrity-tips">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s volleyball focuses on roster depth ahead of Ohio State, Penn State
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Depth and uncertainty can be considered two sides of the same coin.
+The line between them? That’s what John Speraw likes to toe early in the season.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/18/ucla-mens-volleyball-focuses-on-roster-depth-ahead-of-ohio-state-penn-state/">https://dailybruin.com/2024/01/18/ucla-mens-volleyball-focuses-on-roster-depth-ahead-of-ohio-state-penn-state/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/18/ucla-mens-volleyball-focuses-on-roster-depth-ahead-of-ohio-state-penn-state/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s tennis gears up for Friday season opener against Texas
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ahead is a challenge not seen in over two decades.
+The stoicism of coach Stella Sampras Webster on the matter, though, might suggest it&#8217;s no more than another day at the office.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/18/ucla-womens-tennis-gears-up-for-friday-season-opener-against-texas/">https://dailybruin.com/2024/01/18/ucla-womens-tennis-gears-up-for-friday-season-opener-against-texas/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/18/ucla-womens-tennis-gears-up-for-friday-season-opener-against-texas/">Save to Pocket</a>
+</span>
+
+---
+
+## Don’t Eat Some Raw Oysters: FDA Expands Warning After Nearly 200 People Get Sick
+
+date: 2024-01-18, updated: 2024-01-19, from: The LAist
+
+California health officials announced Wednesday the warning is for oysters imported from northwestern Mexico.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/raw-oysters-fda-warning-people-sick">https://laist.com/news/food/raw-oysters-fda-warning-people-sick</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/raw-oysters-fda-warning-people-sick">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “Waitlisted”
+
+date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/18/editorial-cartoon-waitlisted/">https://dailybruin.com/2024/01/18/editorial-cartoon-waitlisted/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/18/editorial-cartoon-waitlisted/">Save to Pocket</a>
+</span>
+
+---
+
+## 5 Major Candidates Want To Be California’s New US Senator. Where They Stand On The Economy, Crime And The Border
+
+date: 2024-01-18, updated: 2024-01-19, from: The LAist
+
+The five major contenders have different track records and proposals on some of the biggest issues facing California. They’re trying to position themselves to appeal to sizable voting blocs before the March 5 primary.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/5-major-candidates-want-to-be-californias-new-us-senator-where-they-stand-on-the-economy-crime-and-the-border">https://laist.com/news/politics/5-major-candidates-want-to-be-californias-new-us-senator-where-they-stand-on-the-economy-crime-and-the-border</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/5-major-candidates-want-to-be-californias-new-us-senator-where-they-stand-on-the-economy-crime-and-the-border">Save to Pocket</a>
+</span>
+
+---
+
+## Pasadena Institution Vroman's Bookstore Is Looking For A Buyer
+
+date: 2024-01-18, updated: 2024-01-19, from: The LAist
+
+The Pasadena bookstore, which has been in operation for nearly 130 years, announced it's looking for a buyer for its two Vroman's stores, as well as Book Soup in West Hollywood.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/pasadena-vromans-bookstore-looking-for-buyer">https://laist.com/news/pasadena-vromans-bookstore-looking-for-buyer</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/pasadena-vromans-bookstore-looking-for-buyer">Save to Pocket</a>
+</span>
+
+---
+
+## Sculpting Timeless Stories
+
+date: 2024-01-18, from: City of Santa Clarita
+
+<p>Sculpting Timeless Stories By Mayor Pro Tem Bill Miranda In Santa Clarita, art is not just something to admire from a distance, but an immersive experience that captivates residents and visitors in several ways. From stunning public art pieces to live performances and thought-provoking galleries, the array of opportunities invites us to experience the creative [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/01/18/sculpting-timeless-stories/">Sculpting Timeless Stories</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2024/01/18/sculpting-timeless-stories/">https://santaclarita.gov/blog/2024/01/18/sculpting-timeless-stories/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/01/18/sculpting-timeless-stories/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -54,7 +454,7 @@ date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
 
 The number 121 echoes with significance in Westwood.
 It&#8217;s tied to the tireless work of Bruin players and coaches alike.
-But on the periphery of the spotlight lies a dimmer constituent, the ones anchoring UCLA&#8217;s winning engine &#8211;  athletic trainers.
+But on the periphery of the spotlight lies a dimmer constituent, the ones anchoring UCLA’s winning engine – athletic trainers.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/18/the-athletic-trainers-behind-the-success-of-ucla-sports-teams/">https://dailybruin.com/2024/01/18/the-athletic-trainers-behind-the-success-of-ucla-sports-teams/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/18/the-athletic-trainers-behind-the-success-of-ucla-sports-teams/">Save to Pocket</a>
@@ -66,6 +466,7 @@ But on the periphery of the spotlight lies a dimmer constituent, the ones anchor
 
 date: 2024-01-18, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 18 at 6:08 p.m.</em>
 A lone USC fan lined up outside the Galen Center.
 It was five hours until tip-off, and the spectator spotted USC guard and freshman phenom JuJu Watkins.
 
@@ -187,12 +588,12 @@ date: 2024-01-18, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## University endowment grew by $330 million, latest Comptroller’s financial report reveals
+## University endowment grew by $330 million, Comptroller’s latest financial report reveals
 
 date: 2024-01-18, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Money in natural resources decreased by $147 million, including in fossil fuels.</p>
-<p>The post <a href="https://dailytrojan.com/2024/01/18/university-endowment-grew-by-330-million-latest-comptrollers-financial-report-reveals/">University endowment grew by $330 million, latest Comptroller’s financial report reveals</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/18/university-endowment-grew-by-330-million-latest-comptrollers-financial-report-reveals/">University endowment grew by $330 million, Comptroller’s latest financial report reveals</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
 
 
 <span class="feed-item-link">
