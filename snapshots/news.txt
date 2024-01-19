@@ -382,6 +382,11 @@ https://www.levernews.com/rss/ "~The Lever News" curl/8.5.0 (rsdoiel@gmail.com, 
 https://margaretatwood.substack.com/feed "~Margaret Atwood's substack"
 
 #
+# Bloggers
+#
+https://val.demar.in/feed/ "~Paolo Valdemarin's blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
+
+#
 # Software Research (Acedemic and Industrial)
 #
 https://www.research-collection.ethz.ch/feed/rss_2.0/site "~ETH Zurich, recently added"

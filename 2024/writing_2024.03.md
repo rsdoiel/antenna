@@ -1,11 +1,35 @@
 ---
 title: writing 2024.03
-updated: 2024-01-19 09:49:35
+updated: 2024-01-19 11:15:59
 ---
 
 # writing 2024.03
 
-(date: 2024-01-19 09:49:35)
+(date: 2024-01-19 11:15:59)
+
+---
+
+## Hachette v. Internet Archive: Amicus Briefs on Non-Commercial Use
+
+date: 2024-01-19, from: Author's Union blog
+
+Our last post highlighted one of the amicus briefs filed in the Hachette v. Internet Archive lawsuit, which made the point that controlled digital lending serves important privacy interests for library readers. Today I want to highlight a second new issue introduced on appeal and addressed by almost every amici: the proper way to assess [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.authorsalliance.org/2024/01/19/hachette-v-internet-archive-amicus-briefs-on-non-commercial-use/">https://www.authorsalliance.org/2024/01/19/hachette-v-internet-archive-amicus-briefs-on-non-commercial-use/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.authorsalliance.org/2024/01/19/hachette-v-internet-archive-amicus-briefs-on-non-commercial-use/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Nebula Conference News
+
+date: 2024-01-19, from: Locus Magazine
+
+<p>The Science Fiction &#38; Fantasy Writers Association (SFWA) has announced that the 2024 Nebula Conference and Awards will be held June 6-9, 2024 at the Westin Pasadena in Pasadena CA, and virtually online. &#8220;The team has already begun preparations and we hope to once again welcome you no matter which way you decide to attend! Registration will be opening soon, but before it does, we’re looking for both programming ideas  <a href="https://locusmag.com/2024/01/2024-nebula-conference-news/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/2024-nebula-conference-news/">https://locusmag.com/2024/01/2024-nebula-conference-news/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/2024-nebula-conference-news/">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: mid central 2024.03
-updated: 2024-01-19 09:49:35
+updated: 2024-01-19 11:15:58
 ---
 
 # mid central 2024.03
 
-(date: 2024-01-19 09:49:35)
+(date: 2024-01-19 11:15:58)
+
+---
+
+## There are no active watches, warnings or advisories
+
+date: 2024-01-19, updated: 2024-01-19, from: Merced, Weather.gov CAP v1.1 alerts
+
+
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
+</span>
+
+---
+
+## Review: New ‘Mean Girls’ adaptation successfully captures the joy of the stage production
+
+date: 2024-01-19, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+We live in an age of reboots and sequels. For every good reboot, sequel, or other adaptation of an intellectual property (IP), it seems like there are three that are just cash grabs. That is not the case here. “Mean Girls,” Tina Fey&#8217;s musical reworking of her 2017 stage adaptation of the 2004 teen classic,...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/01/review-new-mean-girls-adaptation-successfully-captures-the-joy-of-the-stage-production/">https://fscollegian.com/2024/01/review-new-mean-girls-adaptation-successfully-captures-the-joy-of-the-stage-production/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/01/review-new-mean-girls-adaptation-successfully-captures-the-joy-of-the-stage-production/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -151,18 +175,6 @@ date: 2024-01-18, updated: 2024-01-18, from: Merced, Weather.gov CAP v1.1 alerts
 
 <span class="feed-item-link">
 <a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA1268850D5110.DenseFogAdvisory.1268850E0FB0CA.HNXNPWHNX.496a9c0cb48fab35ac8bbcf07d4fb847">https://alerts.weather.gov/cap/wwacapget.php?x=CA1268850D5110.DenseFogAdvisory.1268850E0FB0CA.HNXNPWHNX.496a9c0cb48fab35ac8bbcf07d4fb847</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA1268850D5110.DenseFogAdvisory.1268850E0FB0CA.HNXNPWHNX.496a9c0cb48fab35ac8bbcf07d4fb847">Save to Pocket</a>
-</span>
-
----
-
-## There are no active watches, warnings or advisories
-
-date: 2024-01-18, updated: 2024-01-18, from: Merced, Weather.gov CAP v1.1 alerts
-
-
-
-<span class="feed-item-link">
-<a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
 </span>
 
 ---

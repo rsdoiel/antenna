@@ -1,11 +1,37 @@
 ---
 title: socal north 2024.03
-updated: 2024-01-19 09:49:34
+updated: 2024-01-19 11:15:58
 ---
 
 # socal north 2024.03
 
-(date: 2024-01-19 09:49:34)
+(date: 2024-01-19 11:15:58)
+
+---
+
+## After 1st loss of the season, UCLA women’s basketball faces road to redemption
+
+date: 2024-01-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+It’s been more than 70 days since the Bruins opened their regular season.
+This week, the team experienced its first practices following a loss.
+No. 5 UCLA women’s basketball (14-1, 3-1 Pac-12) will have its first opportunity to bounce back from defeat when it travels to face No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/19/after-1st-loss-of-the-season-ucla-womens-basketball-faces-road-to-redemption/">https://dailybruin.com/2024/01/19/after-1st-loss-of-the-season-ucla-womens-basketball-faces-road-to-redemption/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/19/after-1st-loss-of-the-season-ucla-womens-basketball-faces-road-to-redemption/">Save to Pocket</a>
+</span>
+
+---
+
+## Los Angeles Times Employees Go On First Ever Walkout As Layoffs Loom
+
+date: 2024-01-19, updated: 2024-01-19, from: The LAist
+
+The one-day walkout is the paper’s only work stoppage since its first publication in 1881.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/los-angeles-times-employees-go-on-first-ever-walkout-as-layoffs-loom">https://laist.com/news/los-angeles-times-employees-go-on-first-ever-walkout-as-layoffs-loom</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/los-angeles-times-employees-go-on-first-ever-walkout-as-layoffs-loom">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,47 @@
 ---
 title: games 2024.03
-updated: 2024-01-19 09:49:35
+updated: 2024-01-19 11:15:59
 ---
 
 # games 2024.03
 
-(date: 2024-01-19 09:49:35)
+(date: 2024-01-19 11:15:59)
+
+---
+
+## Indiana Jones and the Great Circle is first-person — and it’s in the right hands for that
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24044312/indiana-jones-the-great-circle-first-person-fps-machinegames">https://www.polygon.com/24044312/indiana-jones-the-great-circle-first-person-fps-machinegames</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24044312/indiana-jones-the-great-circle-first-person-fps-machinegames">Save to Pocket</a>
+</span>
+
+---
+
+## How to beat the Azhdaha boss fight in Prince of Persia: The Lost Crown
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24043038/prince-of-persia-the-lost-crown-azhdaha-boss-fight-how-to-beat">https://www.polygon.com/guides/24043038/prince-of-persia-the-lost-crown-azhdaha-boss-fight-how-to-beat</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24043038/prince-of-persia-the-lost-crown-azhdaha-boss-fight-how-to-beat">Save to Pocket</a>
+</span>
+
+---
+
+## The best movies on Netflix right now
+
+date: 2024-01-19, updated: 2024-01-19, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/21266801/best-movies-on-netflix">https://www.polygon.com/21266801/best-movies-on-netflix</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/21266801/best-movies-on-netflix">Save to Pocket</a>
+</span>
 
 ---
 

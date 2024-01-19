@@ -1,11 +1,91 @@
 ---
 title: tech likely 2024.03
-updated: 2024-01-19 09:49:35
+updated: 2024-01-19 11:15:59
 ---
 
 # tech likely 2024.03
 
-(date: 2024-01-19 09:49:35)
+(date: 2024-01-19 11:15:59)
+
+---
+
+## Play at work
+
+date: 2024-01-19, from: Dave Rupert blog
+
+<p>More than making money… more than that feeling of launching a new product, feature, website, or app… the idea I am coming to value most in my professional life is the feeling of “play”. Sometimes play is being on my own with high autonomy and low consequences, sometimes it’s getting to choose new and fun technologies, but where play is most valuable is when it involves other people.</p>
+<p><img src="https://cdn.daverupert.com/posts/2024/pong.jpg" alt="A screengrab of the video game pong" /></p>
+<p>I’ve talked about this before in the context of <a href="https://www.youtube.com/watch?v=zxh5jExo1z8">prototyping and play</a> and how we worked at Paravel. It’s a lot like playing baseball; each member of the team showing up to practice, volleying work (in screenshots, short videos, or demos), pushing changes, communicating thoughts and challenges in the moment outside the confines of slotted meeting times. Me and my coworkers, having a catch.</p>
+<p><a href="https://danmall.com/">Dan Mall</a> and <a href="https://bradfrost.com/">Brad Frost</a> call it “<a href="http://danmall.me/articles/hot-potato-process/">The Hot Potato Process</a>”, a frequent back and forth between design and development. Design and code happening in tandem, informing each other, producing something greater than the sum of its parts. It’s a spontaneous process where the details and fidelity of an application slowly fill in over time like a progressively loading JPEG on a slow connection.</p>
+<p>If there’s a downside to the Hot Potato process it’s that there’s a lot of re-building mid-flight as new requirements trickle in or you discover new constraints. When you build frequent iteration and circling back into the process, it can lead to a feeling of never being “done”. That is a tax on cognitive load, like open browser tabs, that may not neurologically suit everyone. Others might even prefer a more linear assembly line process.</p>
+<p>If I had to choose which process I prefer, I’d pick reworking a component over-and-over in a Hot Potato process versus other alternatives. One common project pitfall with waterfall and <a href="https://daverupert.com/2019/03/the-state-of-agile-software-in-2018/">faux-agile</a> is over-committing to a design/idea that’s difficult to achieve in code and you blow scope as deadlines loom. There’s <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/washburn-icse-2016-2.pdf">some research into why projects fail</a> and over-committing is near the top. Unless everyone is willing to radically cut scope, it puts a lot of pressure on developers to pull a rabbit out of their hat and save the day.</p>
+<p>When playing catch you deliver a working solution at each checkpoint. You are collectively iterating towards something better. When everyone is looking at working code (or a prototype) instead of a theoretical component, you can have more informed conversations about the costs/benefits/timelines of suggested improvements. That level of collaboration is a high bar and only works when you’re working together, showing up, building trust, and there’s a tight loop passing the ball back and forth.</p>
+<p>In <a href="https://www.amazon.com/Play-Shapes-Brain-Imagination-Invigorates-ebook/dp/B001SCK720">Play</a>, Stuart Brown, M.D. studies the value of play from a psychological and biological perspective. Why do we play? What evolutionary benefit is there to it? Wouldn’t we be better off as hyper-efficient single purpose killers as opposed to back-flipping dolphins or dogs carrying enormous sticks? Brown suggests animals that play tend to adapt better to an ever changing environment and climate. The ability to play and adaptability are uniquely linked. Abstracting that to the tech sector, play within an organization seems more valuable than ever in the constantly changing field of technology.</p>
+<p>Maybe, we need more play at work.</p>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/01/play-at-work/">https://daverupert.com/2024/01/play-at-work/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/01/play-at-work/">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;Show Me Your Favorite Dance Move&#8221; 
+
+date: 2024-01-19, updated: 2024-01-19, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/show-me-your-favorite-dance-move">https://kottke.org/24/01/show-me-your-favorite-dance-move</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/show-me-your-favorite-dance-move">Save to Pocket</a>
+</span>
+
+---
+
+## I ported SimCity to Unix on top of X11 using the TCL/Tk toolkit (1992)
+
+date: 2024-01-19, from: Tilde.news
+
+<p><a href="https://tilde.news/s/i1najb/i_ported_simcity_unix_on_top_x11_using_tcl">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.donhopkins.com/home/catalog/simcity/keynote.html">https://www.donhopkins.com/home/catalog/simcity/keynote.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.donhopkins.com/home/catalog/simcity/keynote.html">Save to Pocket</a>
+</span>
+
+---
+
+## Old Man on Campus
+
+date: 2024-01-19, updated: 2024-01-19, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/01/19/old-man-on-campus/">https://onefoottsunami.com/2024/01/19/old-man-on-campus/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/01/19/old-man-on-campus/">Save to Pocket</a>
+</span>
+
+---
+
+## Deputy Discovery and Systems Health Technical Area Lead Dr. Rodney Martin
+
+date: 2024-01-19, from: NASA breaking news
+
+“[In] everyone&#8217;s life, they have a pivotal moment when they ask the question, ‘What am I really doing? What am I here for?’ … I&#8217;m reminded of a credo that I came up [with] through the evolution of my engagement of a whole bunch of recreational pursuits [including being a marathoner, ultrarunner, and Ironman triathlete] [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/deputy-discovery-and-systems-health-technical-area-lead-dr-rodney-martin/">https://www.nasa.gov/image-article/deputy-discovery-and-systems-health-technical-area-lead-dr-rodney-martin/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/deputy-discovery-and-systems-health-technical-area-lead-dr-rodney-martin/">Save to Pocket</a>
+</span>
+
+---
+
+##  Oooh, Robin Sloan has announced his latest novel: Moonbound. &#8220;It is eleven... 
+
+date: 2024-01-19, updated: 2024-01-19, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043819-oooh-robin-sloan-has-anno">https://kottke.org/24/01/0043819-oooh-robin-sloan-has-anno</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043819-oooh-robin-sloan-has-anno">Save to Pocket</a>
+</span>
 
 ---
 
@@ -29,6 +109,20 @@ date: 2024-01-19, updated: 2024-01-19, from: Jason Kottke blog
 
 <span class="feed-item-link">
 <a href="https://kottke.org/24/01/0043820-a-recent-report-found-tha">https://kottke.org/24/01/0043820-a-recent-report-found-tha</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043820-a-recent-report-found-tha">Save to Pocket</a>
+</span>
+
+---
+
+## Updates 2023/Q4
+
+date: 2024-01-19, from: mrusme blog
+
+Project updates from the previous consecutive three-month period, with info on
+the current status of my projects and next steps. You might find this
+interesting in case you're using any of my open source tools.
+
+<span class="feed-item-link">
+<a href="https://xn--gckvb8fzb.com/updates-2023-q4/">https://xn--gckvb8fzb.com/updates-2023-q4/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://xn--gckvb8fzb.com/updates-2023-q4/">Save to Pocket</a>
 </span>
 
 ---
@@ -1198,18 +1292,6 @@ NASA will host a pair of news conferences Thursday, Jan. 25, from the agency’s
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/news-release/nasa-sets-briefings-for-crew-8-international-space-station-missions/">https://www.nasa.gov/news-release/nasa-sets-briefings-for-crew-8-international-space-station-missions/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-sets-briefings-for-crew-8-international-space-station-missions/">Save to Pocket</a>
-</span>
-
----
-
-## Advent of Computing: Episode 124 - The Full 360
-
-date: 2024-01-17, from: Tilde.news
-
-<p><a href="https://tilde.news/s/h5rqhy/advent_computing_episode_124_full_360">Comments</a></p>
-
-<span class="feed-item-link">
-<a href="https://adventofcomputing.libsyn.com/episode-124-the-full-360">https://adventofcomputing.libsyn.com/episode-124-the-full-360</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-124-the-full-360">Save to Pocket</a>
 </span>
 
 ---
@@ -2813,6 +2895,18 @@ date: 2024-01-15, from: Dave Winer's Scripting News
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2024/01/14/031201.html?title=tinyLittleTextBoxes">http://scripting.com/2024/01/14/031201.html?title=tinyLittleTextBoxes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/14/031201.html?title=tinyLittleTextBoxes">Save to Pocket</a>
+</span>
+
+---
+
+## Episode 124 - The Full 360
+
+date: 2024-01-15, from: Advent of Computing
+
+<div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="66agm-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="66agm-0-0"><span data-offset-key= "66agm-0-0"><span data-text="true">The release of the IBM System/360 represents a major milestone in the history of computing. In 1964 IBM announced the 360 as the first family of compatible computers. Users could choose a system that was just the right size for their needs, mix and match peripherals, and have no fear of future upgrades. If you started on a low-end 360 you could move up to a top of the line model and keep all your software! Something like this had never been done before.</span></span></div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="8d02p-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8d02p-0-0"><span data-offset-key= "8d02p-0-0"><span data-text="true">Such a watershed moment resulted in interesting cascading effects. In this episode we will look at the 360 itself. In the coming weeks we will be examining how it shaped and dominated the market, how it led to a federal antitrust suit, and how a mysterious series of clone computers survived in uncertain times.</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8d02p-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="29hhn-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="29hhn-0-0"><span data-offset-key= "29hhn-0-0"><span data-text="true">Selected Sources:</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="29hhn-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="7hs73-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="7hs73-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm"> <span data-offset-key="7hs73-0-0"><span data-text= "true">https://spectrum.ieee.org/building-the-system360-mainframe-nearly-destroyed-ibm</span></span></a></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="7hs73-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="8jamu-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8jamu-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.computerhistory.org/resources/access/text/2012/11/102658255-05-01-acc.pdf"> <span data-offset-key="8jamu-0-0"><span data-text= "true">https://archive.computerhistory.org/resources/access/text/2012/11/102658255-05-01-acc.pdf</span></span></a> <span data-offset-key="8jamu-1-0"><span data-text="true">- Fred Brooks Oral History</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8jamu-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="d7dsa" data-offset-key="1p29f-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1p29f-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.computerhistory.org/resources/access/text/2017/11/102655529-05-01-acc.pdf"> <span data-offset-key="1p29f-0-0"><span data-text= "true">https://archive.computerhistory.org/resources/access/text/2017/11/102655529-05-01-acc.pdf</span></span></a> <span data-offset-key="1p29f-1-0"><span data-text="true">- 14K Days</span></span></div> </div>
+
+<span class="feed-item-link">
+<a href="https://adventofcomputing.libsyn.com/episode-124-the-full-360">https://adventofcomputing.libsyn.com/episode-124-the-full-360</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-124-the-full-360">Save to Pocket</a>
 </span>
 
 ---

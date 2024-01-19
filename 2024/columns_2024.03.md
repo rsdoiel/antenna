@@ -1,11 +1,23 @@
 ---
 title: columns 2024.03
-updated: 2024-01-19 09:49:35
+updated: 2024-01-19 11:15:59
 ---
 
 # columns 2024.03
 
-(date: 2024-01-19 09:49:35)
+(date: 2024-01-19 11:15:59)
+
+---
+
+## 10 print chr$(205.5 + rnd(1));:goto 10 in JavaScript
+
+date: 2024-01-19, from: Chris Heilmann's blog
+
+Forget about the Vision Pro, or whatever Samsung just brought out, we all know that the pinnacle of computing fun has been released in 1982 in the form of the Commodore 64. One of the coolest things you could show people when writing BASIC on it was the following one-liner: 10 print chr$(205.5 + rnd(1));:goto [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://christianheilmann.com/2024/01/19/10-print-chr205-5-rnd1goto-10-in-javascript/">https://christianheilmann.com/2024/01/19/10-print-chr205-5-rnd1goto-10-in-javascript/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://christianheilmann.com/2024/01/19/10-print-chr205-5-rnd1goto-10-in-javascript/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -194,6 +206,18 @@ So now I can travel with a Mac Air.<br />
 
 <span class="feed-item-link">
 <a href="https://blog.dshr.org/2024/01/a-lesson-learned.html">https://blog.dshr.org/2024/01/a-lesson-learned.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.dshr.org/2024/01/a-lesson-learned.html">Save to Pocket</a>
+</span>
+
+---
+
+## I love logos
+
+date: 2024-01-18, from: Paolo Valdemarin's blog
+
+Sometimes it happens when I find myself walking in a new neighborhood, or maybe when I watch business parks outside a town while passing on a train: I’m fascinated by all these shops and industrial sheds with small companies logos on them. All these logos&#8230; Very rarely the graphic quality is any good, but I &#8230; <a href="https://val.demar.in/2024/01/i-love-logos/" class="more-link">Continue reading<span class="screen-reader-text"> "I love logos"</span></a>
+
+<span class="feed-item-link">
+<a href="https://val.demar.in/2024/01/i-love-logos/">https://val.demar.in/2024/01/i-love-logos/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://val.demar.in/2024/01/i-love-logos/">Save to Pocket</a>
 </span>
 
 ---
