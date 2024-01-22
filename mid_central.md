@@ -1,11 +1,11 @@
 ---
 title: mid central 2024.04
-updated: 2024-01-22 08:50:11
+updated: 2024-01-22 15:34:00
 ---
 
 # mid central 2024.04
 
-(date: 2024-01-22 08:50:11)
+(date: 2024-01-22 15:34:00)
 
 ---
 
@@ -21,11 +21,25 @@ date: 2024-01-22, updated: 2024-01-22, from: Merced, Weather.gov CAP v1.1 alerts
 
 ---
 
+## Parsing PWM (DAC) performance: Part 1—Mitigating errors
+
+date: 2024-01-22, from: EDN Blog
+
+<img width="624" height="224" src="https://www.edn.com/wp-content/uploads/Figure-1_Part1_PWMPerformance.png?fit=624%2C224" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-1_Part1_PWMPerformance.png?w=624 624w, https://www.edn.com/wp-content/uploads/Figure-1_Part1_PWMPerformance.png?w=300 300w" sizes="(max-width: 624px) 100vw, 624px" /><p>This first DI in a four-part series suggests mitigations and eliminations of common PWM error types.</p>
+<p>The post <a href="https://www.edn.com/parsing-pwm-dac-performance-part-1-mitigating-errors/" data-wpel-link="internal">Parsing PWM (DAC) performance: Part 1—Mitigating errors</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/parsing-pwm-dac-performance-part-1-mitigating-errors/">https://www.edn.com/parsing-pwm-dac-performance-part-1-mitigating-errors/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/parsing-pwm-dac-performance-part-1-mitigating-errors/">Save to Pocket</a>
+</span>
+
+---
+
 ## That thing is a 20 kW noise generator!
 
 date: 2024-01-22, from: EDN Blog
 
-<img width="1159" height="996" src="https://www.edn.com/wp-content/uploads/Tales-from-the-cube-image.jpg?fit=1159%2C996" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Tales-from-the-cube-image.jpg?w=1159 1159w, https://www.edn.com/wp-content/uploads/Tales-from-the-cube-image.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Tales-from-the-cube-image.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Tales-from-the-cube-image.jpg?w=1024 1024w" sizes="(max-width: 1159px) 100vw, 1159px" /><p>A design engineer for a custom measurement system company finds the one fault in a PCB design that is causing frequent faults during testing. </p>
+<img width="1159" height="996" src="https://www.edn.com/wp-content/uploads/Tales-from-the-cube-image.jpg?fit=1159%2C996" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Tales-from-the-cube-image.jpg?w=1159 1159w, https://www.edn.com/wp-content/uploads/Tales-from-the-cube-image.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Tales-from-the-cube-image.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Tales-from-the-cube-image.jpg?w=1024 1024w" sizes="(max-width: 1159px) 100vw, 1159px" /><p>A design engineer for a custom measurement system company finds the one fault in a PCB design that is causing frequent faults during testing. </p>
 <p>The post <a href="https://www.edn.com/that-thing-is-a-20-kw-noise-generator/" data-wpel-link="internal">That thing is a 20 kW noise generator!</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 
@@ -39,7 +53,7 @@ date: 2024-01-22, from: EDN Blog
 
 date: 2024-01-22, from: EDN Blog
 
-<img width="600" height="450" src="https://www.edn.com/wp-content/uploads/Fig-1-SOT-MRAM-ITRI.jpg?fit=600%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Fig-1-SOT-MRAM-ITRI.jpg?w=600 600w, https://www.edn.com/wp-content/uploads/Fig-1-SOT-MRAM-ITRI.jpg?w=300 300w" sizes="(max-width: 600px) 100vw, 600px" /><p>Two design undertakings claim significant progress in reducing switching energy per bit and shrinking cell area compared to SRAM.</p>
+<img width="600" height="450" src="https://www.edn.com/wp-content/uploads/Fig-1-SOT-MRAM-ITRI.jpg?fit=600%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-1-SOT-MRAM-ITRI.jpg?w=600 600w, https://www.edn.com/wp-content/uploads/Fig-1-SOT-MRAM-ITRI.jpg?w=300 300w" sizes="(max-width: 600px) 100vw, 600px" /><p>Two design undertakings claim significant progress in reducing switching energy per bit and shrinking cell area compared to SRAM.</p>
 <p>The post <a href="https://www.edn.com/memory-lane-where-sot-mram-technology-stands-in-2024/" data-wpel-link="internal">Memory lane: Where SOT-MRAM technology stands in 2024</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 

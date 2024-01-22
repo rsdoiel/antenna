@@ -20,6 +20,7 @@ END_TODAYS_NEWS="$(reldate +1 week)"
 function make_today() {
 	echo "Harvesting to ${SKIM_FILE/.skim/.txt}"
 	skimmer "${SKIM_FILE/.skim/.txt}"
+	sqlite3 "${SKIM_FILE}" "DELETE FROM items WHERE LOWER(QUOTE(dc_ext)) LIKE '%sponsor%'"
 	sqlite3 "${SKIM_FILE}" "UPDATE items SET status = 'read'"
 	sqlite3 "${SKIM_FILE}" "UPDATE items SET status = 'saved' WHERE published >= '$START_TODAYS_NEWS' AND published < '$END_TODAYS_NEWS'"
 	skim2md -title "News gathered ${TODAY}" \

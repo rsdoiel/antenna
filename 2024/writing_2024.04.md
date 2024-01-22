@@ -1,11 +1,121 @@
 ---
 title: writing 2024.04
-updated: 2024-01-22 08:50:11
+updated: 2024-01-22 15:34:00
 ---
 
 # writing 2024.04
 
-(date: 2024-01-22 08:50:11)
+(date: 2024-01-22 15:34:00)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-22, from: Neil Gaiman @ BlueSky)
+
+It is extraordinarily unsatisfactory, in a faintly Kafkaesque sort of way.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjlynh7dqb2d">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjlynh7dqb2d</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjlynh7dqb2d">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-22, from: Neil Gaiman @ BlueSky)
+
+That is much more important than a Hugo.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjlwda2z5q2o">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjlwda2z5q2o</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjlwda2z5q2o">Save to Pocket</a>
+</span>
+
+---
+
+## The French Revvie, Part III
+
+date: 2024-01-22, from: Margaret Atwoods Substack
+
+The Wheel of Fortuna turns...
+
+<span class="feed-item-link">
+<a href="https://margaretatwood.substack.com/p/the-french-revvie-part-iii">https://margaretatwood.substack.com/p/the-french-revvie-part-iii</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://margaretatwood.substack.com/p/the-french-revvie-part-iii">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-22, from: Neil Gaiman @ BlueSky)
+
+The Hugos are awards for "SF, Fantasy and related". It was that.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjlpvwow3g2v">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjlpvwow3g2v</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjlpvwow3g2v">Save to Pocket</a>
+</span>
+
+---
+
+## Weekly Bestsellers, 22 January 2024
+
+date: 2024-01-22, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+<p>Two new novels debut this week: Olivie Blake&#8217;s <b>The Atlas Complex</b> (Tor), conclusion of her Atlas trilogy; and Aurora Ascher&#8217;s <b>Sanctuary of the Shadow</b> (Entangled: Red Tower), first book in her Elemental Emergence series.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+01.28
+LAT
+01.21
+USAT 
+01.14
+PW 
+01.22
+Amz 
+(01.22)
+UK:
+Amz UK 
+(01.22)
+Canada:
+Amz.ca 
+(01.22)
+
+
+Items on list -x- number of lists surveyed
+
+10&#215;3
+10&#215;2
+150
+15&#215;3 <a href="https://locusmag.com/2024/01/weekly-bestsellers-22-january-2024/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/weekly-bestsellers-22-january-2024/">https://locusmag.com/2024/01/weekly-bestsellers-22-january-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/weekly-bestsellers-22-january-2024/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-22, from: Neil Gaiman @ BlueSky)
+
+This is how I feel about Sandman Episode 6, with the addition that it wouldn't have been my award, but an award for everyone who made it.  That the episode was deemed mysteriously ineligible just makes the 2023 Hugo Awards feel shady.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjllf6h26h2b">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjllf6h26h2b</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjllf6h26h2b">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-22, from: Neil Gaiman @ BlueSky)
+
+Sxip Shirey @sxip.bsky.social is crowdfunding a documentary on the circus he's part of! www.gofundme.com/f/circus-doc...
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjlkxrtfs32f">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjlkxrtfs32f</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjlkxrtfs32f">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,131 @@
 ---
 title: games 2024.04
-updated: 2024-01-22 08:50:11
+updated: 2024-01-22 15:34:00
 ---
 
 # games 2024.04
 
-(date: 2024-01-22 08:50:11)
+(date: 2024-01-22 15:34:00)
+
+---
+
+## Palworld list of Pals, types, and base skills
+
+date: 2024-01-22, updated: 2024-01-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck">https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck">Save to Pocket</a>
+</span>
+
+---
+
+## Happy birthday to DEBS, the gay Charlie’s Angels movie that’s still too obscure
+
+date: 2024-01-22, updated: 2024-01-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24047001/debs-movie-gay-lesbian-charlies-angels">https://www.polygon.com/24047001/debs-movie-gay-lesbian-charlies-angels</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24047001/debs-movie-gay-lesbian-charlies-angels">Save to Pocket</a>
+</span>
+
+---
+
+## Palworld has kicked off a messy but fascinating debate on animal cruelty in games
+
+date: 2024-01-22, updated: 2024-01-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24047254/palworld-pokemon-animal-cruelty-debate-ai-controversy">https://www.polygon.com/24047254/palworld-pokemon-animal-cruelty-debate-ai-controversy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24047254/palworld-pokemon-animal-cruelty-debate-ai-controversy">Save to Pocket</a>
+</span>
+
+---
+
+## How to get sulfur in Palworld
+
+date: 2024-01-22, updated: 2024-01-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location">https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location">Save to Pocket</a>
+</span>
+
+---
+
+## Some Oscar predictions, with a day to go before Oscar nominations
+
+date: 2024-01-22, updated: 2024-01-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24046867/oscars-2024-nominations-list-predictions-movies">https://www.polygon.com/24046867/oscars-2024-nominations-list-predictions-movies</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24046867/oscars-2024-nominations-list-predictions-movies">Save to Pocket</a>
+</span>
+
+---
+
+## Suicide Squad: Kill the Justice League is bringing Joker back from the dead
+
+date: 2024-01-22, updated: 2024-01-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24047250/suicide-squad-kill-the-justice-league-joker-elseworlds">https://www.polygon.com/24047250/suicide-squad-kill-the-justice-league-joker-elseworlds</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24047250/suicide-squad-kill-the-justice-league-joker-elseworlds">Save to Pocket</a>
+</span>
+
+---
+
+## How to get and farm ore in Palworld
+
+date: 2024-01-22, updated: 2024-01-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/palworld-guides/24047140/ore-farm-best-locations-how-to-get">https://www.polygon.com/palworld-guides/24047140/ore-farm-best-locations-how-to-get</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/palworld-guides/24047140/ore-farm-best-locations-how-to-get">Save to Pocket</a>
+</span>
+
+---
+
+## Palworld already has a Pokémon mod
+
+date: 2024-01-22, updated: 2024-01-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24047136/palworld-pokemon-mod-release-toastedshoes">https://www.polygon.com/24047136/palworld-pokemon-mod-release-toastedshoes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24047136/palworld-pokemon-mod-release-toastedshoes">Save to Pocket</a>
+</span>
+
+---
+
+## Monster Hunter Rise update breaks Steam Deck compatibility, users blame new DRM
+
+date: 2024-01-22, updated: 2024-01-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24046884/monster-hunter-rise-steam-deck-capcom-drm">https://www.polygon.com/24046884/monster-hunter-rise-steam-deck-capcom-drm</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24046884/monster-hunter-rise-steam-deck-capcom-drm">Save to Pocket</a>
+</span>
+
+---
+
+## Austin Butler’s new show, The Bachelor, and more TV to watch this week
+
+date: 2024-01-22, updated: 2024-01-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/1/22/24024307/new-tv-austin-butler-netflix-apple-bachelor-best-to-watch">https://www.polygon.com/2024/1/22/24024307/new-tv-austin-butler-netflix-apple-bachelor-best-to-watch</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/1/22/24024307/new-tv-austin-butler-netflix-apple-bachelor-best-to-watch">Save to Pocket</a>
+</span>
 
 ---
 

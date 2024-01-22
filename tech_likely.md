@@ -1,11 +1,393 @@
 ---
 title: tech likely 2024.04
-updated: 2024-01-22 08:50:11
+updated: 2024-01-22 15:34:00
 ---
 
 # tech likely 2024.04
 
-(date: 2024-01-22 08:50:11)
+(date: 2024-01-22 15:34:00)
+
+---
+
+##  Tiny Flying Rainbows 
+
+date: 2024-01-22, updated: 2024-01-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/tiny-flying-rainbows">https://kottke.org/24/01/tiny-flying-rainbows</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/tiny-flying-rainbows">Save to Pocket</a>
+</span>
+
+---
+
+##  The World&#8217;s Largest Cruise Ship Is a Climate Liability. &#8220;Taking a cruise... 
+
+date: 2024-01-22, updated: 2024-01-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043834-the-worlds-largest-cruise">https://kottke.org/24/01/0043834-the-worlds-largest-cruise</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043834-the-worlds-largest-cruise">Save to Pocket</a>
+</span>
+
+---
+
+## Runestone Rejected From the App Store
+
+date: 2024-01-22, from: Michael Tsai
+
+Simon B. St&#248;vring: Apple rejected an update to Runestone because its App Store description mentions the app&#8217;s price. This text has been included in the description for two years on iOS and for two releases on visionOS. I was inspired by Overcast, which also has a similar text, to add it to my app.[&#8230;]We need [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/22/runestone-rejected-from-the-app-store/">https://mjtsai.com/blog/2024/01/22/runestone-rejected-from-the-app-store/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/22/runestone-rejected-from-the-app-store/">Save to Pocket</a>
+</span>
+
+---
+
+## Best Mac Monitors and Displays 2024
+
+date: 2024-01-22, from: Michael Tsai
+
+Macworld: However, picking a new monitor can be daunting. Not only are there many manufacturers to choose from, but there are also lots of sizes, resolutions, and features to consider&#x2013;and when we say lots, we mean lots. [&#8230;] Apple sells displays for its Macs, and you could go with its offerings, but its displays are [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/22/best-mac-monitors-and-displays-2024/">https://mjtsai.com/blog/2024/01/22/best-mac-monitors-and-displays-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/22/best-mac-monitors-and-displays-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Classical Music and CarPlay
+
+date: 2024-01-22, from: Michael Tsai
+
+Joe Rossignol: Apple Music Classical was updated today with what appeared to be CarPlay support, but this was quickly reversed in a follow-up update. How about making classical music work for all users by adding scrolling or smaller fonts? Currently, I can&#8217;t even tell which track I&#8217;m playing because the unique part of the title [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/22/classical-music-and-carplay/">https://mjtsai.com/blog/2024/01/22/classical-music-and-carplay/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/22/classical-music-and-carplay/">Save to Pocket</a>
+</span>
+
+---
+
+## macOS 14.3
+
+date: 2024-01-22, from: Michael Tsai
+
+Juli Clover (release notes, security, developer, full installer, IPSW): macOS Sonoma 14.3 brings collaborative playlists in Apple Music, so that Apple Music subscribers can create playlists with friends and family members. The software also has an updated AppleCare &#38; Warranty section in Settings that shows coverage for all devices signed in with an Apple ID. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/22/macos-14-3/">https://mjtsai.com/blog/2024/01/22/macos-14-3/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/22/macos-14-3/">Save to Pocket</a>
+</span>
+
+---
+
+## macOS 13.6.4 and macOS 12.7.3
+
+date: 2024-01-22, from: Michael Tsai
+
+Apple (full installer): This document describes the security content of macOS Ventura 13.6.4. Apple (full installer): This document describes the security content of macOS Monterey 12.7.3. Previously: macOS 14.3 macOS 13.6.3 and macOS 12.7.2
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/22/macos-13-6-4-and-macos-12-7-3/">https://mjtsai.com/blog/2024/01/22/macos-13-6-4-and-macos-12-7-3/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/22/macos-13-6-4-and-macos-12-7-3/">Save to Pocket</a>
+</span>
+
+---
+
+## iOS 17.3 and iPadOS 17.3
+
+date: 2024-01-22, from: Michael Tsai
+
+Juli Clover (release notes, security, developer): With iOS 17.3, Apple is adding Stolen Device Protection to the iPhone, limiting access to private information just in case someone gets ahold of both your iPhone and your passcode.[&#8230;]The update also includes support for AirPlaying content directly to some hotel room TVs, creating collaborative Apple Music playlists with [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/22/ios-17-3-and-ipados-17-3/">https://mjtsai.com/blog/2024/01/22/ios-17-3-and-ipados-17-3/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/22/ios-17-3-and-ipados-17-3/">Save to Pocket</a>
+</span>
+
+---
+
+## watchOS 10.3
+
+date: 2024-01-22, from: Michael Tsai
+
+Juli Clover (release notes, security, developer): The watchOS 10.3 update includes a new Unity Bloom watch face to celebrate Black History Month. Plus bug and security fixes. Previously: watchOS 10.2
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/22/watchos-10-3/">https://mjtsai.com/blog/2024/01/22/watchos-10-3/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/22/watchos-10-3/">Save to Pocket</a>
+</span>
+
+---
+
+## tvOS 17.3
+
+date: 2024-01-22, from: Michael Tsai
+
+Juli Clover (release notes, security): Apple today released tvOS 17.3, the third major update to the tvOS 17 operating system that came out last September. tvOS 17.3 comes over a month after tvOS 17.2, an update that brought the revamped Apple TV app. [&#8230;] No new features were found in the tvOS 17.3 beta testing [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/22/tvos-17-3/">https://mjtsai.com/blog/2024/01/22/tvos-17-3/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/22/tvos-17-3/">Save to Pocket</a>
+</span>
+
+---
+
+## audioOS 17.3
+
+date: 2024-01-22, from: Michael Tsai
+
+Juli Clover (release notes): Apple does not specify what&#8217;s included in the HomePod 17.3 software, and the generic release notes only say that it brings stability and performance improvements. I saw a regression in that the Home app continued showing that the update was &#8220;Installing&#8230;&#8221; long after it had finished. I had to close and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/22/audioos-17-3/">https://mjtsai.com/blog/2024/01/22/audioos-17-3/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/22/audioos-17-3/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Invites Media to First Intuitive Machines, SpaceX Moon Launch
+
+date: 2024-01-22, from: NASA breaking news
+
+As part of NASA’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign, media accreditation is open for Intuitive Machines’ first robotic flight to the Moon’s surface. The robotic deliveries will transport agency science and technology demonstrations to the Moon for the benefit of all. The Intuitive Machines Nova-C lander carrying NASA science and commercial [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-invites-media-to-first-intuitive-machines-spacex-moon-launch/">https://www.nasa.gov/news-release/nasa-invites-media-to-first-intuitive-machines-spacex-moon-launch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-invites-media-to-first-intuitive-machines-spacex-moon-launch/">Save to Pocket</a>
+</span>
+
+---
+
+##  Wikipedia&#8217;s list of cryptids. Includes Bigfoot, the Loch Ness Monster, and chupacabras.... 
+
+date: 2024-01-22, updated: 2024-01-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043833-wikipedias-list-of-crypti">https://kottke.org/24/01/0043833-wikipedias-list-of-crypti</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043833-wikipedias-list-of-crypti">Save to Pocket</a>
+</span>
+
+---
+
+##  The Strange Energy of 50th Birthdays 
+
+date: 2024-01-22, updated: 2024-01-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/the-strange-energy-of-50th-birthdays">https://kottke.org/24/01/the-strange-energy-of-50th-birthdays</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/the-strange-energy-of-50th-birthdays">Save to Pocket</a>
+</span>
+
+---
+
+## New U.S. Postal Service Stamps Feature Iconic NASA Webb Images
+
+date: 2024-01-22, from: NASA breaking news
+
+The U.S. Postal Service has issued two new Priority Mail stamps celebrating NASA’s James Webb Space Telescope, the largest, most powerful, and most complex telescope ever put in space. The stamps, issued Jan. 22, feature images of the cosmos captured by Webb since it began its science mission in 2022. Webb is a mission led […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/webb/new-u-s-postal-service-stamps-feature-iconic-nasa-webb-images/">https://science.nasa.gov/missions/webb/new-u-s-postal-service-stamps-feature-iconic-nasa-webb-images/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/webb/new-u-s-postal-service-stamps-feature-iconic-nasa-webb-images/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Interns at Johnson’s Rock Yard
+
+date: 2024-01-22, from: NASA breaking news
+
+In this image from May 22, 2023, a NASA intern uses an augmented reality headset to test out heads-up display technology being developed for future Artemis missions. This technology was created as part of the NASA Spacesuit User Interface Technologies for Students, or SUITS, design challenge in which college students from across the country help [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasa-interns-at-johnsons-rock-yard/">https://www.nasa.gov/image-article/nasa-interns-at-johnsons-rock-yard/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasa-interns-at-johnsons-rock-yard/">Save to Pocket</a>
+</span>
+
+---
+
+##  Thing that actually exists: a Doritos nacho cheese-flavored vodka. &#8220;The bouquet is... 
+
+date: 2024-01-22, updated: 2024-01-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043831-thing-that-actually-exist">https://kottke.org/24/01/0043831-thing-that-actually-exist</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043831-thing-that-actually-exist">Save to Pocket</a>
+</span>
+
+---
+
+## CCC trauert um sein Ehrenmitglied winni
+
+date: 2024-01-22, updated: 2024-01-22, from: Chaos Computer Club
+
+Sven "winni" Gohdes, Ehrenmitglied des Chaos Computer Clubs zeigte uns mit seiner offenen positiven Art viele große und kleine Dinge, welche das Leben noch lebenswerter machen. Trotz seiner Erkrankung an Muskelschwund war er eine stetige Anlaufquelle für lange gemeinsame Stunden sowohl in großer als auch in kleiner Runde, bei Tee und zur Entspannung. Nun ist er im Januar mit 57 Jahren verstorben und wird uns fehlen.
+
+<span class="feed-item-link">
+<a href="https://www.ccc.de/de/updates/2024/ccc-trauert-um-sein-ehrenmitglied-winni">https://www.ccc.de/de/updates/2024/ccc-trauert-um-sein-ehrenmitglied-winni</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.ccc.de/de/updates/2024/ccc-trauert-um-sein-ehrenmitglied-winni">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-22, from: Miguel de Icaza Mastondon feed)
+
+<p>As some of you know, I like living on the edge hovering around 480 tabs open - and I keep hitting the 500 limit.</p><p>Every few days I sacrifice some 50 good boys so I can continue browsing.</p><p>Today I discovered you can press this button and choose “new tab group with NN tabs” and it saves all your lovingly curated web pages into a separate group, and you get yourself another space with 500 windows to play.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111801225373880206">https://mastodon.social/@Migueldeicaza/111801225373880206</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111801225373880206">Save to Pocket</a>
+</span>
+
+---
+
+##  I&#8217;m Edgar Allan Poe&#8217;s Landlord, and He Will Not Be Getting His... 
+
+date: 2024-01-22, updated: 2024-01-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043825-im-edgar-allan-poes-landl">https://kottke.org/24/01/0043825-im-edgar-allan-poes-landl</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043825-im-edgar-allan-poes-landl">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-22, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=dlRuYCDyeOA">Take me back to Tulsa</a>.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/22.html#a185212">http://scripting.com/2024/01/22.html#a185212</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/22.html#a185212">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-22, from: Dave Winer's Scripting News)
+
+Doc will like this. Right now there are four hits on Goog for <a href="https://www.google.com/search?q=%22typical+tech+industry+mess%22">typical tech industry mess</a>.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/22.html#a184428">http://scripting.com/2024/01/22.html#a184428</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/22.html#a184428">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-22, from: Dave Winer's Scripting News)
+
+I've been writing and <a href="http://scripting.com/2024/01/21.html#a194147">talking</a> about the idea of a  <a href="https://www.google.com/search?q=site%3Ascripting.com+%22typical+tech+industry+mess%22&sca_esv=600400644&rlz=1C5CHFA_enUS743US747&sxsrf=ACQVn09BvYY8njdMiW3iDSTnJiAmARBs8Q%3A1705949056524&ei=gLeuZY67H4Gs5NoPyMSxyAQ&ved=0ahUKEwiO-5K80_GDAxUBFlkFHUhiDEkQ4dUDCBA&uact=5&oq=site%3Ascripting.com+%22typical+tech+industry+mess%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiL3NpdGU6c2NyaXB0aW5nLmNvbSAidHlwaWNhbCB0ZWNoIGluZHVzdHJ5IG1lc3MiSKgfUKgFWJsdcAF4AZABAJgBdqABuQqqAQQxNy4yuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICCBAhGKABGMME4gMEGAAgQYgGAZAGAg&sclient=gws-wiz-serp">typical tech industry mess</a> and left out the one I had a hand in creating, <a href="https://www.google.com/search?q=site%3Ascripting.com+SOAP">SOAP</a>. Started out simple, and over years it turned into a TTIM. Perfect example. Someone should study it, to figure out why Sun, Microsoft, IBM, Oracle et al wanted a protocol for interop and invested years in it, and yet it returned little in the way of interop.  I know that <a href="http://xmlrpc.com/">XML-RPC</a> is still in use, I imagine that SOAP probably is too, in some form. I wonder how it shook out. On the other hand <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> wasn't turned into a nightmare, and has become a <i>productive</i> tech industry mess, the most unusual thing ever, a true unicorn.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/22.html#a184055">http://scripting.com/2024/01/22.html#a184055</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/22.html#a184055">Save to Pocket</a>
+</span>
+
+---
+
+## University High Wins L.A. Ocean Sciences Bowl at NASA’s JPL
+
+date: 2024-01-22, from: NASA breaking news
+
+The annual competition aims to help students expand their ocean-related knowledge outside the classroom and to become environmental stewards. University High School of Irvine, California, emerged victorious on Jan. 20 at the Los Angeles regional Ocean Sciences Bowl tournament, which NASA’s Jet Propulsion Laboratory has hosted annually since 2000. Eight schools from Los Angeles and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/jpl/university-high-wins-l-a-ocean-sciences-bowl-at-nasas-jpl/">https://www.nasa.gov/centers-and-facilities/jpl/university-high-wins-l-a-ocean-sciences-bowl-at-nasas-jpl/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/jpl/university-high-wins-l-a-ocean-sciences-bowl-at-nasas-jpl/">Save to Pocket</a>
+</span>
+
+---
+
+##  The Stanley Water Bottle Craze, Explained 
+
+date: 2024-01-22, updated: 2024-01-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/the-stanley-water-bottle-craze-explained">https://kottke.org/24/01/the-stanley-water-bottle-craze-explained</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/the-stanley-water-bottle-craze-explained">Save to Pocket</a>
+</span>
+
+---
+
+## After a bleak turn for The Baltimore Sun, independent outlets see a surge in subscribers and attention
+
+date: 2024-01-22, from: Nieman Journalism Lab
+
+The situation at The Baltimore Sun is looking, to borrow the language of one journalist after the newsroom met its new owner, bleak. In the wake of a worrying sale last week bringing the Sun under new ownership, other local outlets are stepping up and seeing support. The news organization best positioned to take on...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/after-a-bleak-turn-for-the-baltimore-sun-independent-outlets-see-a-surge-in-subscribers-and-attention/">https://www.niemanlab.org/2024/01/after-a-bleak-turn-for-the-baltimore-sun-independent-outlets-see-a-surge-in-subscribers-and-attention/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/after-a-bleak-turn-for-the-baltimore-sun-independent-outlets-see-a-surge-in-subscribers-and-attention/">Save to Pocket</a>
+</span>
+
+---
+
+## Spreadsheets are the best
+
+date: 2024-01-22, from: Alex Schroeder's Blog
+
+<h1>Spreadsheets are the best</h1>
+
+<p>I want to love Forth and Lisp and Perl and Go and I sort of want to know Rust and Haskell and OCaml and Elixir, but really, the most important electronic computing platform for the largest number people is … spreadsheets.</p>
+
+<p>Formulas and graphs turn these into the multifunctional tool that spread from accounting specialists to financial reporting to project managers planning to household budgets to birthday and wedding guest lists.</p>
+
+<p>If you think about it, spreadsheets for the masses succeeded where Emacs failed. Spreadsheets allow you to build the tools you need. And sure, as a programming professional I have heard my share of horror stories: salary distributions and bonus programs, airport light systems, and many other things that should have used relational databases and REST services and whatever. But people know spreadsheets and use them to solve their problems.</p>
+
+<p>Spreadsheets are underappreciated. Certainly they are underappreciated by programmers, I think.</p>
+
+<p><a class="account" href="https://mastodon.xyz/@maxime_andre" title="@maxime_andre@mastodon.xyz">@maxime_andre</a> linked me to the video <a href="https://youtu.be/0yKf8TrLUOw?si=ZvLctptepVjLWXY3">Pure Functional Programming in Excel</a> by Felienne Hermans where she explains the benefits of spreadsheets for computing.</p>
+
+<p>And I do think that the programming languages I listed failed us in as far as they do not contribute to computers as <a href="http://conviviality.ouvaton.org/spip.php?article1">convivial tools</a>. Most people are not autonomous in their use of computers to solve their problems because they cannot use the languages listed. They must hope for an app to solve their problem. But they can use a spreadsheet to solve their problem!</p>
+
+<p>Emacs was supposed to be the editor for everybody, including non-technical people. It&rsquo;s just that our current design paradigms optimize for the inexperienced users and penalize experienced users. Users no longer expect Emacs-like tools and Emacs developers don&rsquo;t expect inexperienced users any more.</p>
+
+<p>We feel it&rsquo;s OK to feel overwhelmed by Emacs – but many people are expected to navigate the real world in cars, on roads, with complex traffic regulation, other traffic participants and machines we don&rsquo;t understand. To me, that illustrates a value judgement. On the one hand, cars are a commodity. We no longer have to be an expert in combustion engines to drive one. But we still need to learn how to use the tool. There&rsquo;s mandatory training, there are professional teachers, there are enforcers of conventions, penalties, there&rsquo;s financing available if we want to lease a car, and so on. There is a lot of support and training for users of cars and not so much for computers. The expectations are different.</p>
+
+<p>One might want to say that people need the car to get to work and that explains the economic incentives. To this I might reply that when one gets to work the actual work usually involves a computer and instead of using a convivial tool that one has learned and mastered, customized and extended to ones liking, one is forced to work with corporate software that is as boring as it can be.</p>
+
+<p>Except when it comes to spreadsheets. This is where everyday people still can exercise mastery and solve their problems. It&rsquo;s a tool and not an app.</p>
+
+<p>If we go back far enough, programming languages were designed to let non-technical people solve their problems. <a href="https://en.wikipedia.org/wiki/COBOL">COBOL</a> was a programming language for business people. <a href="https://en.wikipedia.org/wiki/BASIC">BASIC</a> was a programming language for faculty and students. From this point of view, I&rsquo;d argue, the programming languages I mentioned are in fact steps away from this goal.</p>
+
+<p>These programming languages solve more specialised problems. These are tools for experts. But in doing this, they moved away from the realm of everyday people using them to solve their problems. These languages fail to make computers into convivial tools.</p>
+
+<p>The ZX Spectrum 48K and the Commodore 64 both booted into BASIC. Sure, that didn&rsquo;t mean that we knew how to program. Loading and saving stuff from cassette was hard. PEEK and POKE were hard. But the tools to turn the computer into a convivial tool were right there. The computer came with a manual.</p>
+
+<p>My hope, my wish, my expectations are that we can do this and more. We can make it even better! Spreadsheets are the saving grace. We should put spreadsheets front and centre.</p>
+
+<p>The sad reality is, however, that today we buy computers that essentially boot into the app store.</p>
+
+<p><a class="tag" href="/search/?q=%23Programming">#Programming</a> <a class="tag" href="/search/?q=%23Philosophy">#Philosophy</a></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-01-22-spreadsheets">https://alexschroeder.ch/view/2024-01-22-spreadsheets</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-01-22-spreadsheets">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-22, from: Miguel de Icaza Mastondon feed)
+
+<p>New api just dropped</p><p>Perhaps La Terminal should suggest your most epic bash one-liners</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111800832076069977">https://mastodon.social/@Migueldeicaza/111800832076069977</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111800832076069977">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Glenn’s Langley Legacy
+
+date: 2024-01-22, from: NASA breaking news
+
+“[On December 15, 1941] a few shivering, startled Southerners from Langley, the vanguard of those in the Power Plants Division transferring to Cleveland, arrived in the biggest snowstorm in years,” recalled former receptionist Mary Louise Gosney. This vanguard was the first large group of NACA employees to relocate from the Langley Memorial Aeronautical Laboratory to [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/glenn/glenn-history/nasa-glenns-langley-legacy/">https://www.nasa.gov/centers-and-facilities/glenn/glenn-history/nasa-glenns-langley-legacy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/glenn/glenn-history/nasa-glenns-langley-legacy/">Save to Pocket</a>
+</span>
+
+---
+
+##  Looking forward to this one: my pal Nicola Twilley&#8217;s book is coming... 
+
+date: 2024-01-22, updated: 2024-01-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043829-looking-forward-to-this-o">https://kottke.org/24/01/0043829-looking-forward-to-this-o</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043829-looking-forward-to-this-o">Save to Pocket</a>
+</span>
 
 ---
 
@@ -217,6 +599,33 @@ How to use LLVM as the assembler for GCC, for FreeBSD and other systems
 
 <span class="feed-item-link">
 <a href="https://briancallahan.net/blog/20240122.html">https://briancallahan.net/blog/20240122.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://briancallahan.net/blog/20240122.html">Save to Pocket</a>
+</span>
+
+---
+
+## Prague PostgreSQL Developer Day 2024 / Call for Papers &amp; Sponsors
+
+date: 2024-01-22, from: PostgreSQL News
+
+<p>Prague PostgreSQL Developer Day 2024 (P2D2 2024) will be held on June 4 and 5 in Prague, Czech Republic. The conference focuses on topics for PostgreSQL users and developers. For more information about the event, please see the website at <a href="https://www.p2d2.cz/">https://www.p2d2.cz/</a> </p>
+<p>We are now accepting proposals for talks and trainings in both Czech and English. As in previous years, the conference is a single-track event with a mix of talks in Czech and English.</p>
+<p>To submit a talk, use this form:</p>
+<pre><code> https://p2d2.cz/call-for-papers
+</code></pre>
+<p>The talk sessions are generally 45 minutes long (but may be shorter if requested) and may be on any PostgreSQL-related topic. We're also looking for trainings (either half-day or whole-day) for the first day (June 4). To submit a training proposal, use the same form as for regular talks (there's a field to pick talk/training).</p>
+<p>Finally, we are considering to include a session of lightning talks (short talks, five minute each). A separate call for proposals will be made for them during the event.</p>
+<p>The submission deadline is March 1 (which is Friday), end of day. Selected speakers will be notified / confirmed shortly afterwards.</p>
+<p>The proposals will be considered by committee who will produce a schedule to be published about a month before the event.</p>
+<p>All selected speakers will get free entry to the conference (excluding training sessions). We do offer covering travel and accommodations for foreign speakers (generally enough for two nights in a hotel and travel
+within Europe). If you require assistance with funding to be able to attend, please make a note of this in the submission notes field.</p>
+<p>We have also opened our call for sponsors. As usual, we we'll offer three sponsorship levels - the details are available at:</p>
+<pre><code>https://p2d2.cz/rocnik-2024/sponsorship
+</code></pre>
+<p>If you wish to become a sponsor, or have questions/suggestions regarding sponsorship, please contact us at sponsors@p2d2.cz (we're happy to answer any questions about the event and sponsorship conditions).</p>
+<p>We look forward to hearing from you, and seeing you in Prague!</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/prague-postgresql-developer-day-2024-call-for-papers-sponsors-2792/">https://www.postgresql.org/about/news/prague-postgresql-developer-day-2024-call-for-papers-sponsors-2792/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/prague-postgresql-developer-day-2024-call-for-papers-sponsors-2792/">Save to Pocket</a>
 </span>
 
 ---

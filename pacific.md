@@ -1,11 +1,63 @@
 ---
 title: pacific 2024.04
-updated: 2024-01-22 08:50:11
+updated: 2024-01-22 15:34:00
 ---
 
 # pacific 2024.04
 
-(date: 2024-01-22 08:50:11)
+(date: 2024-01-22 15:34:00)
+
+---
+
+## In memoriam: UH astronomy founder John Jefferies
+
+date: 2024-01-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Jefferies steered the Institute for Astronomy to the forefront of scientific achievement and helped pioneer Maunakea astronomy.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/22/in-memoriam-john-jefferies/">In memoriam: <abbr>UH</abbr> astronomy founder John Jefferies</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/22/in-memoriam-john-jefferies/">https://www.hawaii.edu/news/2024/01/22/in-memoriam-john-jefferies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/22/in-memoriam-john-jefferies/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Mānoa sailing team dominates the regatta
+
+date: 2024-01-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> <abbr>UH</abbr> Mānoa hosted 11 schools across the country and Canada during the Peter Wenner Rainbow Invitational.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/22/uh-sailing-dominates-regatta/"><abbr>UH</abbr> Mānoa sailing team dominates the regatta</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/22/uh-sailing-dominates-regatta/">https://www.hawaii.edu/news/2024/01/22/uh-sailing-dominates-regatta/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/22/uh-sailing-dominates-regatta/">Save to Pocket</a>
+</span>
+
+---
+
+## UH researcher to lead national society for diversity in STEM
+
+date: 2024-01-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Healani Chang will serve a four-year commitment and lead the influential organization that supports diversity in <abbr>STEM</abbr> disciplines.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/22/healani-chang-elected/"><abbr>UH</abbr> researcher to lead national society for diversity in <abbr>STEM</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/22/healani-chang-elected/">https://www.hawaii.edu/news/2024/01/22/healani-chang-elected/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/22/healani-chang-elected/">Save to Pocket</a>
+</span>
+
+---
+
+## New water filling stations at UH Mānoa student housing
+
+date: 2024-01-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The 12 new water stations feature refrigerated, filtered bottle fillers and drinking fountains with high and low spout options that are <abbr>ADA</abbr> compliant.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/22/uh-manoa-water-filling-stations/">New water filling stations at <abbr>UH</abbr> Mānoa student housing</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/22/uh-manoa-water-filling-stations/">https://www.hawaii.edu/news/2024/01/22/uh-manoa-water-filling-stations/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/22/uh-manoa-water-filling-stations/">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: columns 2024.04
-updated: 2024-01-22 08:50:11
+updated: 2024-01-22 15:34:00
 ---
 
 # columns 2024.04
 
-(date: 2024-01-22 08:50:11)
+(date: 2024-01-22 15:34:00)
+
+---
+
+## Pitchfork & The Death of the critic
+
+date: 2024-01-22, from: Om Malik blog
+
+The shuttering of the popular music website Pitchfork has led to a eulogy for the critic. Given how we consume media, I would argue that this was inevitable. However, I see things differently — the role of critics is adapting to our new algorithmic reality.
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/01/22/death-of-the-critic/">https://om.co/2024/01/22/death-of-the-critic/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/01/22/death-of-the-critic/">Save to Pocket</a>
+</span>
 
 ---
 

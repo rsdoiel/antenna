@@ -1,11 +1,165 @@
 ---
 title: weather 2024.04
-updated: 2024-01-22 08:50:11
+updated: 2024-01-22 15:34:00
 ---
 
 # weather 2024.04
 
-(date: 2024-01-22 08:50:11)
+(date: 2024-01-22 15:34:00)
+
+---
+
+## SPC - No watches are valid as of Mon Jan 22 22:31:01 UTC 2024
+
+date: 2024-01-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Mon Jan 22 22:31:01 UTC 2024.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No MDs are in effect as of Mon Jan 22 22:31:01 UTC 2024
+
+date: 2024-01-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Mon Jan 22 22:31:01 UTC 2024.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-01-22, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0354 PM CST Mon Jan 22 2024
+
+Valid 241200Z - 301200Z
+
+Fire concerns will be limited for the extended forecast period.
+Fuels are wet across the CONUS and additional wetting rain is
+expected for much of the CONUS this week. The only dry regions will
+be the northern Rockies/northern Plains where extensive snowcover is
+present with below freezing temperatures.
+
+..Bentley.. 01/22/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">https://www.spc.noaa.gov/products/exper/fire_wx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/exper/fire_wx/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 22, 2024 2000 UTC Day 1 Convective Outlook
+
+date: 2024-01-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0154 PM CST Mon Jan 22 2024
+
+Valid 222000Z - 231200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected.
+
+...20Z Update...
+Minor changes have been made to the general thunderstorm area, but
+otherwise the previous outlook reasoning remains valid. See the
+previous discussion below for more details. A few stronger storms
+are possible this afternoon/evening near the upper TX coast, and
+perhaps late tonight near the Edwards Plateau region, but the severe
+threat still appears limited through the end of the period.
+
+..Dean.. 01/22/2024
+
+.PREV DISCUSSION... /ISSUED 1036 AM CST Mon Jan 22 2024/
+
+...South-central CONUS including coastal Texas...
+Surface high pressure and cold stable conditions will exist over the
+eastern half of the CONUS, but multiple low-amplitude mid-level
+disturbances and a prevalent warm conveyor over the south-central
+CONUS toward the Ozarks/Midwest will influence widespread showers
+across that same region with continued elevated thunderstorm
+potential especially across east/southeast Texas toward Louisiana
+and the ArkLaTex. 
+
+Weak surface-based destabilization should gradually occur near the
+upper Texas coast, beginning this afternoon and more so tonight.
+Within a favorable kinematic environment, a few stronger
+near-surface-based storms could occur as early as this afternoon
+across the upper Texas coast, but the overall severe thunderstorm
+potential is still expected to remain low through tonight.
+
+...Western States...
+Showers and occasional lightning flashes will be possible from
+portions of southwest Oregon and California into southern Arizona.
+This convection will be associated with a pronounced mid-level
+trough embedded within broader cyclonic flow, with steepening lapse
+rates.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-01-22, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0148 PM CST Mon Jan 22 2024
+
+Valid 231200Z - 241200Z
+
+...NO CRITICAL AREAS...
+
+No changes. See previous discussion below.
+
+..Bentley.. 01/22/2024
+
+.PREV DISCUSSION... /ISSUED 1022 PM CST Sun Jan 21 2024/
+
+...Synopsis...
+A trough will remain in place across the western/central US with
+continued cool and moist conditions extending into the eastern US by
+late Tuesday. Given the cool and moist conditions across these
+regions, along with snow pack in place across the northern US,
+wildfire spread potential will remain low on Tuesday.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -56,18 +210,6 @@ rates.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No watches are valid as of Mon Jan 22 16:40:02 UTC 2024
-
-date: 2024-01-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Mon Jan 22 16:40:02 UTC 2024.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
 </span>
 
 ---

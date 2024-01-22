@@ -1,11 +1,36 @@
 ---
 title: socal north 2024.04
-updated: 2024-01-22 08:50:11
+updated: 2024-01-22 15:34:00
 ---
 
 # socal north 2024.04
 
-(date: 2024-01-22 08:50:11)
+(date: 2024-01-22 15:34:00)
+
+---
+
+## Where's That Ultra Wet Winter We Were Waiting For?
+
+date: 2024-01-22, updated: 2024-01-22, from: The LAist
+
+A little more rain and snow would be nice.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/socal-rain-storm-seasonal-trend">https://laist.com/news/climate-environment/socal-rain-storm-seasonal-trend</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/socal-rain-storm-seasonal-trend">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s water polo begins new season with wins
+
+date: 2024-01-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins kicked off their season over the weekend with three wins with help from the freshmen class.
+No. 3 UCLA&#8217;s women&#8217;s water polo (3-0) competed at the UCSB Winter Invitational over the weekend and took home wins against No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/22/ucla-womens-water-polo-begins-new-season-with-wins/">https://dailybruin.com/2024/01/22/ucla-womens-water-polo-begins-new-season-with-wins/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/22/ucla-womens-water-polo-begins-new-season-with-wins/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -149,6 +174,18 @@ date: 2024-01-22, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
+## A Vigil, Then A Dance Party: How Monterey Park Marked A Deadly Shooting
+
+date: 2024-01-22, updated: 2024-01-22, from: The LAist
+
+Survivors of the mass shooting danced at a banquet hall after a somber vigil.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/vigil-dance-party-how-monterey-park-marked-year-anniversary">https://laist.com/news/vigil-dance-party-how-monterey-park-marked-year-anniversary</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/vigil-dance-party-how-monterey-park-marked-year-anniversary">Save to Pocket</a>
+</span>
+
+---
+
 ## From living to learning: Advice on studying abroad in Florence, Italy
 
 date: 2024-01-22, from: The Daily Bruin (UCLA Student Newspaper)
@@ -167,7 +204,7 @@ As I assumed the role of detective, I collected as much information as I could a
 date: 2024-01-22, from: The Daily Bruin (UCLA Student Newspaper)
 
 Students expressed concerns with Bird electric scooters and the difficulties parking them.
-The implementation of new parking zones in September by Bird has led to some challenges: While these zones aim to organize scooter parking, users are experiencing glitches with the app &#8211; particularly when trying to photograph and confirm their parking location.
+The implementation of new parking zones in September by Bird has led to some challenges: While these zones aim to organize scooter parking, users are experiencing glitches with the app – particularly when trying to photograph and confirm their parking location.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/21/students-report-concerns-with-bird-scooters-following-app-update/">https://dailybruin.com/2024/01/21/students-report-concerns-with-bird-scooters-following-app-update/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/21/students-report-concerns-with-bird-scooters-following-app-update/">Save to Pocket</a>
