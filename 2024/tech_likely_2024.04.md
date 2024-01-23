@@ -1,11 +1,23 @@
 ---
 title: tech likely 2024.04
-updated: 2024-01-23 08:00:38
+updated: 2024-01-23 08:23:04
 ---
 
 # tech likely 2024.04
 
-(date: 2024-01-23 08:00:38)
+(date: 2024-01-23 08:23:04)
+
+---
+
+##  Can you solve the greatest wordplay puzzle ever? It relates to texts... 
+
+date: 2024-01-23, updated: 2024-01-23, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043837-can-you-solve-the-greates">https://kottke.org/24/01/0043837-can-you-solve-the-greates</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043837-can-you-solve-the-greates">Save to Pocket</a>
+</span>
 
 ---
 

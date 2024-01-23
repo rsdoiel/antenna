@@ -1,11 +1,11 @@
 ---
 title: socal north 2024.04
-updated: 2024-01-23 08:00:38
+updated: 2024-01-23 08:23:04
 ---
 
 # socal north 2024.04
 
-(date: 2024-01-23 08:00:38)
+(date: 2024-01-23 08:23:04)
 
 ---
 
@@ -171,6 +171,54 @@ California State University faculty walked off the job Monday, to protest for be
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/education/csu-strike-faculty-administration-agree-to-deal">https://laist.com/news/education/csu-strike-faculty-administration-agree-to-deal</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/csu-strike-faculty-administration-agree-to-deal">Save to Pocket</a>
+</span>
+
+---
+
+## LMU moves annual Family Weekend to the fall
+
+date: 2024-01-23, from: Laloyolan (LMU Student Newspaper)
+
+LMU plans to move its annual Family Weekend to the fall rather than the usual February weekend, starting in October 2024. This means that the 2024 calendar year will have two Family Weekends.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/lmu-moves-annual-family-weekend-to-the-fall/article_3ad0583e-b9aa-11ee-860c-331cc474b11e.html">https://www.laloyolan.com/news/lmu-moves-annual-family-weekend-to-the-fall/article_3ad0583e-b9aa-11ee-860c-331cc474b11e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/lmu-moves-annual-family-weekend-to-the-fall/article_3ad0583e-b9aa-11ee-860c-331cc474b11e.html">Save to Pocket</a>
+</span>
+
+---
+
+## LMU’s only card reader that accepts food stamps was reactivated despite student usage decline
+
+date: 2024-01-23, from: Laloyolan (LMU Student Newspaper)
+
+Last year, LMU's CalFresh account deactivated due to low usage. Now, administration has reactivated the account, replacing the EBT card reader in a commitment to upholding the University's Jesuit mission.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/lmu-s-only-card-reader-that-accepts-food-stamps-was-reactivated-despite-student-usage-decline/article_f69a2d99-c0a4-522d-a67b-9deb45de211e.html">https://www.laloyolan.com/news/lmu-s-only-card-reader-that-accepts-food-stamps-was-reactivated-despite-student-usage-decline/article_f69a2d99-c0a4-522d-a67b-9deb45de211e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/lmu-s-only-card-reader-that-accepts-food-stamps-was-reactivated-despite-student-usage-decline/article_f69a2d99-c0a4-522d-a67b-9deb45de211e.html">Save to Pocket</a>
+</span>
+
+---
+
+## DEVELOPING: Car vandalism creates safety concerns on Loyola Blvd.
+
+date: 2024-01-23, from: Laloyolan (LMU Student Newspaper)
+
+Residents of Loyola Boulevard woke up to their driver's side windows broken in. The apparent random acts of vandalism — which occurred between the night of Friday, Jan. 19, and the morning of Saturday, Jan. 20 — affected longtime residents…
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/developing-car-vandalism-creates-safety-concerns-on-loyola-blvd/article_dfce6745-7d2d-5fc5-8d50-1b29a3ca546d.html">https://www.laloyolan.com/news/developing-car-vandalism-creates-safety-concerns-on-loyola-blvd/article_dfce6745-7d2d-5fc5-8d50-1b29a3ca546d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/developing-car-vandalism-creates-safety-concerns-on-loyola-blvd/article_dfce6745-7d2d-5fc5-8d50-1b29a3ca546d.html">Save to Pocket</a>
+</span>
+
+---
+
+## LMU navigates a new “normal” nearly four years into COVID-19
+
+date: 2024-01-23, from: Laloyolan (LMU Student Newspaper)
+
+Professors share their new habits and back-up plans in this new "normal" as well as what they think COVID-19 may pose years down the line.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/lmu-navigates-a-new-normal-nearly-four-years-into-covid-19/article_aa601f61-e373-5f93-86df-0d2cd6ebe58d.html">https://www.laloyolan.com/news/lmu-navigates-a-new-normal-nearly-four-years-into-covid-19/article_aa601f61-e373-5f93-86df-0d2cd6ebe58d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/lmu-navigates-a-new-normal-nearly-four-years-into-covid-19/article_aa601f61-e373-5f93-86df-0d2cd6ebe58d.html">Save to Pocket</a>
 </span>
 
 ---

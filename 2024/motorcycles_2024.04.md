@@ -1,11 +1,35 @@
 ---
 title: motorcycles 2024.04
-updated: 2024-01-23 08:00:39
+updated: 2024-01-23 08:23:04
 ---
 
 # motorcycles 2024.04
 
-(date: 2024-01-23 08:00:39)
+(date: 2024-01-23 08:23:04)
+
+---
+
+## BREAKING: NASCAR To Debut Its EV Racecar At The Busch Light Clash But H2 May Be A Better Option Needing Study
+
+date: 2024-01-23, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor CONCORD, N.C. – After two years of research, development, testing and fine-tuning, sources confirm NASCAR will debut its EV racecar at the Busch Light Clash in&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/breaking-nascar-to-debut-its-ev-racecar-at-the-busch-light-clash-but-h2-may-be-a-better-option-needing-study/">https://kickinthetires.net/nascar/breaking-nascar-to-debut-its-ev-racecar-at-the-busch-light-clash-but-h2-may-be-a-better-option-needing-study/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/breaking-nascar-to-debut-its-ev-racecar-at-the-busch-light-clash-but-h2-may-be-a-better-option-needing-study/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 BMW F 900 GS, F 900 GS Adventure, And F 800 GS Get US Pricing
+
+date: 2024-01-23, from: Ride Apart, Electric Motorcycle News
+
+Look for all three in American showrooms in the first half of 2024.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705653/bmw-f900gs-f800gs-2024-pricing/">https://www.rideapart.com/news/705653/bmw-f900gs-f800gs-2024-pricing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705653/bmw-f900gs-f800gs-2024-pricing/">Save to Pocket</a>
+</span>
 
 ---
 

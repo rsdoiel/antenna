@@ -1,11 +1,23 @@
 ---
 title: games 2024.04
-updated: 2024-01-23 08:00:38
+updated: 2024-01-23 08:23:04
 ---
 
 # games 2024.04
 
-(date: 2024-01-23 08:00:38)
+(date: 2024-01-23 08:23:04)
+
+---
+
+## Netflix’s Avatar: The Last Airbender trailer tries to check all the boxes
+
+date: 2024-01-23, updated: 2024-01-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24046767/avatar-the-last-airbender-trailer-netflix-release-date">https://www.polygon.com/24046767/avatar-the-last-airbender-trailer-netflix-release-date</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24046767/avatar-the-last-airbender-trailer-netflix-release-date">Save to Pocket</a>
+</span>
 
 ---
 

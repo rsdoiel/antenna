@@ -1,11 +1,131 @@
 ---
 title: pacific 2024.04
-updated: 2024-01-23 08:00:38
+updated: 2024-01-23 08:23:04
 ---
 
 # pacific 2024.04
 
-(date: 2024-01-23 08:00:38)
+(date: 2024-01-23 08:23:04)
+
+---
+
+## Variety editor’s 4th book now available at Joeten Susupe
+
+date: 2024-01-23, updated: 2024-01-23, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is now available at the Joeten Shopping Center in Susupe.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-now-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html">https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-now-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-now-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Coco Jones dreams big as she eyes best new artist Grammy
+
+date: 2024-01-23, updated: 2024-01-23, from: Marianas Variety
+
+NEW YORK (Reuters) — Former Disney star Coco Jones has rebranded herself into a first-time Grammy nominee in five categories, including best new artist.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/coco-jones-dreams-big-as-she-eyes-best-new-artist-grammy/article_e3c6e7ce-b9f4-11ee-8cdd-833b9b7a1ca7.html">https://www.mvariety.com/lifestyle/coco-jones-dreams-big-as-she-eyes-best-new-artist-grammy/article_e3c6e7ce-b9f4-11ee-8cdd-833b9b7a1ca7.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/coco-jones-dreams-big-as-she-eyes-best-new-artist-grammy/article_e3c6e7ce-b9f4-11ee-8cdd-833b9b7a1ca7.html">Save to Pocket</a>
+</span>
+
+---
+
+## Out with the old
+
+date: 2024-01-23, updated: 2024-01-23, from: Marianas Variety
+
+Commonwealth Utilities Corp. crewmembers replace an old wooden power pole on Chalan Pale Arnold or Middle Road, near the Chalan Monsignor Guerrero intersection, Tuesday morning.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/out-with-the-old/article_563ace3c-b9b0-11ee-a30c-4f89fc7fc5cf.html">https://www.mvariety.com/news/local/out-with-the-old/article_563ace3c-b9b0-11ee-a30c-4f89fc7fc5cf.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/out-with-the-old/article_563ace3c-b9b0-11ee-a30c-4f89fc7fc5cf.html">Save to Pocket</a>
+</span>
+
+---
+
+## Gym owner shares tips for integrating health into daily life
+
+date: 2024-01-23, updated: 2024-01-23, from: Marianas Variety
+
+ROTARIAN and Latte Built gym owner Derek Cutting shared personal strategies for making health and fitness a part of everyday living.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/gym-owner-shares-tips-for-integrating-health-into-daily-life/article_e5b26cc6-b9d0-11ee-a241-ef49228bca8b.html">https://www.mvariety.com/lifestyle/gym-owner-shares-tips-for-integrating-health-into-daily-life/article_e5b26cc6-b9d0-11ee-a241-ef49228bca8b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/gym-owner-shares-tips-for-integrating-health-into-daily-life/article_e5b26cc6-b9d0-11ee-a241-ef49228bca8b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Che'lu could be ready for the ocean as early as next month
+
+date: 2024-01-23, updated: 2024-01-23, from: Marianas Variety
+
+AN engineer who in 2011 helped bring to life Che’lu, a 47-foot-long Chamorro canoe, believes it could be sailing in the waters of Saipan by early February.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/chelu-could-be-ready-for-the-ocean-as-early-as-next-month/article_33b01e0c-b9c5-11ee-a602-7f25f8a82ce3.html">https://www.mvariety.com/lifestyle/chelu-could-be-ready-for-the-ocean-as-early-as-next-month/article_33b01e0c-b9c5-11ee-a602-7f25f8a82ce3.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/chelu-could-be-ready-for-the-ocean-as-early-as-next-month/article_33b01e0c-b9c5-11ee-a602-7f25f8a82ce3.html">Save to Pocket</a>
+</span>
+
+---
+
+## Rocball round 2 highlight
+
+date: 2024-01-23, updated: 2024-01-23, from: Marianas Variety
+
+Team Border Control won the game with Baddie-Z in two sets 51 to 31. Border Control scored 14 two point aces and 3 goals. For their part, Team Baddie-Z scored 5 aces and 1 xunk serves. Despite the loss, Baddie-Z's Jerome Manzon scored four 3-point goals in one game.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/rocball-round-2-highlight/article_3ed15d92-b9f6-11ee-9325-cb25c7d4f0d2.html">https://www.mvariety.com/sports/localsports/rocball-round-2-highlight/article_3ed15d92-b9f6-11ee-9325-cb25c7d4f0d2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/rocball-round-2-highlight/article_3ed15d92-b9f6-11ee-9325-cb25c7d4f0d2.html">Save to Pocket</a>
+</span>
+
+---
+
+## Riyadh's multi-billion EV dream risks crashing into reality
+
+date: 2024-01-23, updated: 2024-01-23, from: Marianas Variety
+
+RIYADH (Reuters) — Riyadh has spent billions to try to turn itself into a hub for electric vehicles and overcome obstacles including a lack of infrastructure, talent and raw materials, as it seeks to catch up in the global race to reap the profits of the new industry.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/business_news/riyadhs-multi-billion-ev-dream-risks-crashing-into-reality/article_b645cabe-b9f3-11ee-8249-e3bd7ca8d1ca.html">https://www.mvariety.com/business/business_news/riyadhs-multi-billion-ev-dream-risks-crashing-into-reality/article_b645cabe-b9f3-11ee-8249-e3bd7ca8d1ca.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/business_news/riyadhs-multi-billion-ev-dream-risks-crashing-into-reality/article_b645cabe-b9f3-11ee-8249-e3bd7ca8d1ca.html">Save to Pocket</a>
+</span>
+
+---
+
+## Red flag at 1 Saipan site
+
+date: 2024-01-23, updated: 2024-01-23, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan's west coast recreational beaches and storm drainages every week.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/red-flag-at-1-saipan-site/article_0134cb82-b9af-11ee-a28b-6feea8320cd2.html">https://www.mvariety.com/news/local/red-flag-at-1-saipan-site/article_0134cb82-b9af-11ee-a28b-6feea8320cd2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/red-flag-at-1-saipan-site/article_0134cb82-b9af-11ee-a28b-6feea8320cd2.html">Save to Pocket</a>
+</span>
+
+---
+
+## NBA roundup: Joel Embiid nets 70 as 76ers blitz Spurs
+
+date: 2024-01-23, updated: 2024-01-23, from: Marianas Variety
+
+(Reuters) —  Joel Embiid scored a career-high and franchise-record 70 points to go along with 18 rebounds as the host Philadelphia 76ers defeated the San Antonio Spurs 133-123 on Monday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/nba-roundup-joel-embiid-nets-70-as-76ers-blitz-spurs/article_7d7be720-b9f5-11ee-9073-2b23fb8a1182.html">https://www.mvariety.com/sports/nationalsports/nba-roundup-joel-embiid-nets-70-as-76ers-blitz-spurs/article_7d7be720-b9f5-11ee-9073-2b23fb8a1182.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/nba-roundup-joel-embiid-nets-70-as-76ers-blitz-spurs/article_7d7be720-b9f5-11ee-9073-2b23fb8a1182.html">Save to Pocket</a>
+</span>
+
+---
+
+## Finance asks court to dismiss ex-firefighters’ amended complaint
+
+date: 2024-01-23, updated: 2024-01-23, from: Marianas Variety
+
+SECRETARY of Finance Tracy B. Norita has asked the Superior Court to dismiss the amended complaint filed by former firefighters who received $1,000 in premium pay instead of $5,000.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/finance-asks-court-to-dismiss-ex-firefighters-amended-complaint/article_2ba2ce2e-b9d6-11ee-a056-cfc2c26ab098.html">https://www.mvariety.com/news/local/finance-asks-court-to-dismiss-ex-firefighters-amended-complaint/article_2ba2ce2e-b9d6-11ee-a056-cfc2c26ab098.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/finance-asks-court-to-dismiss-ex-firefighters-amended-complaint/article_2ba2ce2e-b9d6-11ee-a056-cfc2c26ab098.html">Save to Pocket</a>
+</span>
 
 ---
 

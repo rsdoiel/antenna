@@ -1,11 +1,11 @@
 ---
 title: mid central 2024.04
-updated: 2024-01-23 08:00:38
+updated: 2024-01-23 08:23:04
 ---
 
 # mid central 2024.04
 
-(date: 2024-01-23 08:00:38)
+(date: 2024-01-23 08:23:04)
 
 ---
 
@@ -19,6 +19,18 @@ date: 2024-01-23, from: EDN Blog
 
 <span class="feed-item-link">
 <a href="https://www.edn.com/blink-cameras-and-their-batteries-functional-abnormalities-and-consumer-liabilities/">https://www.edn.com/blink-cameras-and-their-batteries-functional-abnormalities-and-consumer-liabilities/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/blink-cameras-and-their-batteries-functional-abnormalities-and-consumer-liabilities/">Save to Pocket</a>
+</span>
+
+---
+
+## Dense Fog Advisory issued January 23 at 1:24AM PST until January 23 at 9:00AM PST by NWS
+
+date: 2024-01-23, updated: 2024-01-23, from: Merced, Weather.gov CAP v1.1 alerts
+
+...DENSE FOG ADVISORY NOW IN EFFECT UNTIL 9 AM PST THIS MORNING... * WHAT...Visibility one quarter mile to as low as 200 feet in dense fog. * WHERE...Most of San Joaquin Valley, mainly Merced County southward to Kings and Tulare Counties. * WHEN...Until 9 AM PST this morning.
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA12688558DDB0.DenseFogAdvisory.1268855A0CD0CA.HNXNPWHNX.635906ae6ff75f6b048724558c24a772">https://alerts.weather.gov/cap/wwacapget.php?x=CA12688558DDB0.DenseFogAdvisory.1268855A0CD0CA.HNXNPWHNX.635906ae6ff75f6b048724558c24a772</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA12688558DDB0.DenseFogAdvisory.1268855A0CD0CA.HNXNPWHNX.635906ae6ff75f6b048724558c24a772">Save to Pocket</a>
 </span>
 
 ---
