@@ -1,11 +1,131 @@
 ---
 title: games 2024.04
-updated: 2024-01-22 15:34:00
+updated: 2024-01-23 08:00:38
 ---
 
 # games 2024.04
 
-(date: 2024-01-22 15:34:00)
+(date: 2024-01-23 08:00:38)
+
+---
+
+## Where to watch every Oscar-nominated movie
+
+date: 2024-01-23, updated: 2024-01-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/1/23/24042919/oscar-movies-2024-netflix-where-to-watch-stream-amazon-max">https://www.polygon.com/2024/1/23/24042919/oscar-movies-2024-netflix-where-to-watch-stream-amazon-max</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/1/23/24042919/oscar-movies-2024-netflix-where-to-watch-stream-amazon-max">Save to Pocket</a>
+</span>
+
+---
+
+## Capcom’s 40th anniversary T-shirts are coming to Uniqlo in March
+
+date: 2024-01-23, updated: 2024-01-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24044508/capcom-40th-anniversary-t-shirts-uniqlo-collaboration-collection-fashion">https://www.polygon.com/deals/24044508/capcom-40th-anniversary-t-shirts-uniqlo-collaboration-collection-fashion</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24044508/capcom-40th-anniversary-t-shirts-uniqlo-collaboration-collection-fashion">Save to Pocket</a>
+</span>
+
+---
+
+## We’re living in the age of Ninja Princess Peach
+
+date: 2024-01-23, updated: 2024-01-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24047879/princess-peach-showtime-nintendo-switch-transformations">https://www.polygon.com/24047879/princess-peach-showtime-nintendo-switch-transformations</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24047879/princess-peach-showtime-nintendo-switch-transformations">Save to Pocket</a>
+</span>
+
+---
+
+## Like a Dragon: Infinite Wealth takes 8 hours to get started, but it’s worth it
+
+date: 2024-01-23, updated: 2024-01-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24047430/like-a-dragon-infinite-wealth-review-pc-xbox-ps5">https://www.polygon.com/24047430/like-a-dragon-infinite-wealth-review-pc-xbox-ps5</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24047430/like-a-dragon-infinite-wealth-review-pc-xbox-ps5">Save to Pocket</a>
+</span>
+
+---
+
+## WWE Raw’s new weekly home will be exclusively on Netflix
+
+date: 2024-01-23, updated: 2024-01-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24047814/wwe-raw-netflix-exclusive-deal-streaming">https://www.polygon.com/24047814/wwe-raw-netflix-exclusive-deal-streaming</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24047814/wwe-raw-netflix-exclusive-deal-streaming">Save to Pocket</a>
+</span>
+
+---
+
+## Anatomy of a Fall’s complex mystery won the short-attention-span movie wars
+
+date: 2024-01-23, updated: 2024-01-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24047426/anatomy-of-a-fall-ending-debates">https://www.polygon.com/24047426/anatomy-of-a-fall-ending-debates</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24047426/anatomy-of-a-fall-ending-debates">Save to Pocket</a>
+</span>
+
+---
+
+## The full 2024 Oscar nominations list — and predictions for who wins
+
+date: 2024-01-23, updated: 2024-01-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24046867/oscars-2024-nominations-list-predictions-movies">https://www.polygon.com/24046867/oscars-2024-nominations-list-predictions-movies</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24046867/oscars-2024-nominations-list-predictions-movies">Save to Pocket</a>
+</span>
+
+---
+
+## Tekken 8 is a great Tekken game, but that might not be enough
+
+date: 2024-01-23, updated: 2024-01-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24046939/tekken-8-review-heat-story-fighting-games">https://www.polygon.com/reviews/24046939/tekken-8-review-heat-story-fighting-games</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24046939/tekken-8-review-heat-story-fighting-games">Save to Pocket</a>
+</span>
+
+---
+
+## Robert Downey Jr. proves we didn’t run out of real movie stars, we ran out of real movies
+
+date: 2024-01-23, updated: 2024-01-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24047285/robert-downey-jr-oscars-2024-nomination-oppenheimer">https://www.polygon.com/24047285/robert-downey-jr-oscars-2024-nomination-oppenheimer</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24047285/robert-downey-jr-oscars-2024-nomination-oppenheimer">Save to Pocket</a>
+</span>
+
+---
+
+## Can Barboach be shiny in Pokémon Go?
+
+date: 2024-01-23, updated: 2024-01-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/pokemon-go-guide/24046877/can-barboach-be-shiny-whiscash">https://www.polygon.com/pokemon-go-guide/24046877/can-barboach-be-shiny-whiscash</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/pokemon-go-guide/24046877/can-barboach-be-shiny-whiscash">Save to Pocket</a>
+</span>
 
 ---
 
@@ -53,18 +173,6 @@ date: 2024-01-22, updated: 2024-01-22, from: Polygon Website
 
 <span class="feed-item-link">
 <a href="https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location">https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location">Save to Pocket</a>
-</span>
-
----
-
-## Some Oscar predictions, with a day to go before Oscar nominations
-
-date: 2024-01-22, updated: 2024-01-22, from: Polygon Website
-
-
-
-<span class="feed-item-link">
-<a href="https://www.polygon.com/24046867/oscars-2024-nominations-list-predictions-movies">https://www.polygon.com/24046867/oscars-2024-nominations-list-predictions-movies</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24046867/oscars-2024-nominations-list-predictions-movies">Save to Pocket</a>
 </span>
 
 ---

@@ -1,11 +1,74 @@
 ---
 title: columns 2024.04
-updated: 2024-01-22 15:34:00
+updated: 2024-01-23 08:00:38
 ---
 
 # columns 2024.04
 
-(date: 2024-01-22 15:34:00)
+(date: 2024-01-23 08:00:38)
+
+---
+
+## Side Channels Are Common
+
+date: 2024-01-23, updated: 2024-01-17, from: Bruce Schneier blog
+
+<p>Really interesting research: &#8220;<a href="https://www.usenix.org/conference/usenixsecurity22/presentation/genkin">Lend Me Your Ear: Passive Remote Physical Side Channels on PCs</a>.&#8221;</p>
+<blockquote><p><b>Abstract:</b></p>
+<p>We show that built-in sensors in commodity PCs, such as microphones, inadvertently capture electromagnetic side-channel leakage from ongoing computation. Moreover, this information is often conveyed by supposedly-benign channels such as audio recordings and common Voice-over-IP applications, even after lossy compression.</p>
+<p>Thus, we show, it is possible to conduct physical side-channel attacks on computation by remote and purely passive analysis of commonly-shared channels. These attacks require neither physical proximity (which could be mitigated by distance and shielding), nor the ability to run code on the target or configure its hardware. Consequently, we argue, physical side channels on PCs can no longer be excluded from remote-attack threat models...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/side-channels-are-common.html">https://www.schneier.com/blog/archives/2024/01/side-channels-are-common.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/side-channels-are-common.html">Save to Pocket</a>
+</span>
+
+---
+
+## One Man
+
+date: 2024-01-23, from: Dan Rather's Steady
+
+Here it is January 2024, and we find ourselves reminded anew that we are in a difficult, dangerous, and deepening political reality. As the first primary ballots are being cast in New Hampshire, the country is forced again to face the fact that one man has fundamentally changed us. Simply stated, it&#8217;s as sobering and unsettling as that.
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/one-man">https://steady.substack.com/p/one-man</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/one-man">Save to Pocket</a>
+</span>
+
+---
+
+## Why the mainstream media’s awestruck coverage of Trump’s campaign is deceptive and dangerous
+
+date: 2024-01-23, from: Robert Reich's blog
+
+Friends, The mainstream media is flabbergasted at Trump&#8217;s success in sweeping the Iowa caucuses, dominating the polls, and destroying all his rivals but Nikki Haley before today&#8217;s New Hampshire primary. CNN is gobsmacked, calling Trump&#8217;s &#8220;landslide victory in Iowa&#8221; a &#8220;stunning show of strength.&#8221;
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/is-new-hampshire-the-beginning-of">https://robertreich.substack.com/p/is-new-hampshire-the-beginning-of</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/is-new-hampshire-the-beginning-of">Save to Pocket</a>
+</span>
+
+---
+
+## [Sponsor] Day One Journal App
+
+date: 2024-01-23, updated: 2024-01-23, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://dayoneapp.com/download/daring-fireball/">https://dayoneapp.com/download/daring-fireball/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dayoneapp.com/download/daring-fireball/">Save to Pocket</a>
+</span>
+
+---
+
+## Upgrade: 40th Anniversary of the Macintosh
+
+date: 2024-01-23, updated: 2024-01-23, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.relay.fm/upgrade/496">https://www.relay.fm/upgrade/496</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.relay.fm/upgrade/496">Save to Pocket</a>
+</span>
 
 ---
 

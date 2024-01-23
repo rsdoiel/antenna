@@ -1,11 +1,58 @@
 ---
 title: writing 2024.04
-updated: 2024-01-22 15:34:00
+updated: 2024-01-23 08:00:38
 ---
 
 # writing 2024.04
 
-(date: 2024-01-22 15:34:00)
+(date: 2024-01-23 08:00:38)
+
+---
+
+## Authors Alliance 2023 Annual Report
+
+date: 2024-01-23, from: Author's Union blog
+
+Authors Alliance is pleased to share our 2023 annual report, where you can find highlights of our work in 2023 to promote laws, policies, and practices that enable authors to reach wide audiences. In the report, you can read about how we’re helping authors meet their dissemination goals for their works, representing their interests in [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.authorsalliance.org/2024/01/23/authors-alliance-2023-annual-report/">https://www.authorsalliance.org/2024/01/23/authors-alliance-2023-annual-report/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.authorsalliance.org/2024/01/23/authors-alliance-2023-annual-report/">Save to Pocket</a>
+</span>
+
+---
+
+## Using Emojis in Your Script: Text Message Format and More
+
+date: 2024-01-23, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-write-emojis-in-a-screenplay" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Untitled%20design-Jan-22-2024-12-41-17-0077-AM.jpg" alt="'I May Destory You,' How to Write Emojis in a Screenplay" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>As our world changes, so does the way we tell a story.</span></p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/how-to-write-emojis-in-a-screenplay">https://blog.finaldraft.com/how-to-write-emojis-in-a-screenplay</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/how-to-write-emojis-in-a-screenplay">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-23, from: Neil Gaiman @ BlueSky)
+
+I am so proud of the brilliant @issalopez.bsky.social.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjmon4vvmx2s">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjmon4vvmx2s</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjmon4vvmx2s">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-22, from: Neil Gaiman @ BlueSky)
+
+Hmm. This seems relatively likely.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjma5znqq226">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjma5znqq226</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjma5znqq226">Save to Pocket</a>
+</span>
 
 ---
 

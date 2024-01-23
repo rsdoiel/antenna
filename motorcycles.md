@@ -1,11 +1,95 @@
 ---
 title: motorcycles 2024.04
-updated: 2024-01-22 15:34:00
+updated: 2024-01-23 08:00:39
 ---
 
 # motorcycles 2024.04
 
-(date: 2024-01-22 15:34:00)
+(date: 2024-01-23 08:00:39)
+
+---
+
+## Ola Electric Rolls Out New MoveOS 4 Update For S1 Scooters
+
+date: 2024-01-23, from: Ride Apart, Electric Motorcycle News
+
+The update sees the addition of a wide range of connectivity and AI-powered features. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705652/ola-electric-moveos4-update-s1-scooters/">https://www.rideapart.com/news/705652/ola-electric-moveos4-update-s1-scooters/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705652/ola-electric-moveos4-update-s1-scooters/">Save to Pocket</a>
+</span>
+
+---
+
+## Grala Ready to Learn Next Gen Car, Make Leap into Cup
+
+date: 2024-01-23, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor The focus on the learning curve for NASCAR drivers moving up the ladder is often focused on the Rookie of the Year contenders. Every so&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/grala-ready-learn-next-gen-make-leap-cup/">https://kickinthetires.net/nascar/grala-ready-learn-next-gen-make-leap-cup/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/grala-ready-learn-next-gen-make-leap-cup/">Save to Pocket</a>
+</span>
+
+---
+
+## Check Out The New Scorpion Exo-930 Evo Modular Helmet
+
+date: 2024-01-23, from: Ride Apart, Electric Motorcycle News
+
+A budget-friendly touring helmet with all the features you’d expect to find in a modular lid. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705650/scorpion-exo930-evo-modular-helmet/">https://www.rideapart.com/news/705650/scorpion-exo930-evo-modular-helmet/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705650/scorpion-exo930-evo-modular-helmet/">Save to Pocket</a>
+</span>
+
+---
+
+## Intermot Motorcycle Show To Be Held Annually Starting 2024
+
+date: 2024-01-23, from: Ride Apart, Electric Motorcycle News
+
+The expo will also be moved later in the year to better align with consumer buying habits for the succeeding year. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705649/annual-intermot-2024-schedule/">https://www.rideapart.com/news/705649/annual-intermot-2024-schedule/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705649/annual-intermot-2024-schedule/">Save to Pocket</a>
+</span>
+
+---
+
+## Vespa Celebrates The Lunar New Year With Limited-Edition 946 Dragon
+
+date: 2024-01-23, from: Ride Apart, Electric Motorcycle News
+
+Vespa has launched a fancy dragon-themed jacket alongside the scooter too. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705648/vespa-946-dragon-edition/">https://www.rideapart.com/news/705648/vespa-946-dragon-edition/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705648/vespa-946-dragon-edition/">Save to Pocket</a>
+</span>
+
+---
+
+## Peugeot Trademarks Larger-Displacement Models
+
+date: 2024-01-23, from: Cycle World News
+
+Peugeot claims to be the oldest motorcycle manufacturer in the world. After years of focusing on scooters, it’s expanding into larger-displacement motorcycles.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/peugeot-trademarks-larger-displacement-motorcycle-models/">https://www.cycleworld.com/motorcycle-news/peugeot-trademarks-larger-displacement-motorcycle-models/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/peugeot-trademarks-larger-displacement-motorcycle-models/">Save to Pocket</a>
+</span>
+
+---
+
+## Speed Reads: Sales Numbers Are Rolling In, And 2023 Was Good For Many
+
+date: 2024-01-23, from: Ride Apart, Electric Motorcycle News
+
+BMW Motorrad reported the best sales figures in company history in 2023.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705647/sales-numbers-december-2023-roundup/">https://www.rideapart.com/news/705647/sales-numbers-december-2023-roundup/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705647/sales-numbers-december-2023-roundup/">Save to Pocket</a>
+</span>
 
 ---
 

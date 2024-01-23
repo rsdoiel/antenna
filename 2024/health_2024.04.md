@@ -1,11 +1,23 @@
 ---
 title: health 2024.04
-updated: 2024-01-22 15:34:00
+updated: 2024-01-23 08:00:38
 ---
 
 # health 2024.04
 
-(date: 2024-01-22 15:34:00)
+(date: 2024-01-23 08:00:38)
+
+---
+
+## Editorial: Interrelationships between human microbiology and health of the elderly
+
+date: 2024-01-23, from: Frontiers in Cellular and Infection Microbiology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1345103">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1345103</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1345103">Save to Pocket</a>
+</span>
 
 ---
 

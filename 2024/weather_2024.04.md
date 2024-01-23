@@ -1,19 +1,19 @@
 ---
 title: weather 2024.04
-updated: 2024-01-22 15:34:00
+updated: 2024-01-23 08:00:38
 ---
 
 # weather 2024.04
 
-(date: 2024-01-22 15:34:00)
+(date: 2024-01-23 08:00:38)
 
 ---
 
-## SPC - No watches are valid as of Mon Jan 22 22:31:01 UTC 2024
+## SPC - No watches are valid as of Tue Jan 23 14:59:01 UTC 2024
 
-date: 2024-01-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-01-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Jan 22 22:31:01 UTC 2024.
+No watches are valid as of Tue Jan 23 14:59:01 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
@@ -21,14 +21,64 @@ No watches are valid as of Mon Jan 22 22:31:01 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Mon Jan 22 22:31:01 UTC 2024
+## SPC - No MDs are in effect as of Tue Jan 23 14:59:01 UTC 2024
 
-date: 2024-01-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-01-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Mon Jan 22 22:31:01 UTC 2024.
+No Mesoscale Discussions are in effect as of Tue Jan 23 14:59:01 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Jan 23, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-01-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0700 AM CST Tue Jan 23 2024
+
+Valid 231300Z - 241200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM SOUTH TEXAS
+NORTHEASTWARD ACROSS THE COASTAL PLAIN TO WESTERN LOUISIANA...
+
+...SUMMARY...
+Isolated strong to severe thunderstorms will be possible today and
+tonight from south Texas into western Louisiana.
+
+...South Texas and the Coastal Plain into western Louisiana...
+Showers and scattered/elevated thunderstorms are ongoing this
+morning across Texas, in tandem with a southwesterly mid-level jet
+that will continue advancing northeastward out of Mexico across the
+southern Plains through tonight.  Instability remains weak, and
+generally elevated atop a cool/still-stable boundary layer, with
+small hail locally approaching severe levels possible, as waves of
+convection spread across the area.
+
+Nearer the coast, as a very weak surface low develops over east
+Texas today, some inland advection of more moist gulf air will
+continue, with potential that a few near-surface-based storms
+eventually evolve this afternoon.  This convection could pose local
+risk for gusty/damaging winds, and possibly a brief/weak tornado or
+two, though modest CAPE/weak lapse rates will limit severe potential
+despite favorably strong/veering flow with height.  Some risk for
+gusty winds should eventually spread into parts of western
+Louisiana, though severe potential will remain low through the end
+of the period.
+
+..Goss/Mosier.. 01/23/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
 </span>
 
 ---
@@ -318,67 +368,6 @@ wildfire spread.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Jan 22, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-01-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0650 AM CST Mon Jan 22 2024
-
-Valid 221300Z - 231200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected.
-
-...Discussion...
-A broad zone of amplifying cyclonic flow is forecast to expand
-eastward to eventually include the western 2/3 of the country, while
-ridging builds northward across the eastern U.S. through the period.
-
-Within the cyclonic flow field expanding eastward with time,
-multiple small-scale troughs/vorticity maxima will travel eastward
-in an arcing manner through the background flow.  Associated ascent,
-coupled with abundant Pacific moisture, will support widespread
-precipitation.
-
-While cold/stable low-level air will continue to prevail over the
-eastern half of the country where the influence of surface high
-pressure remains, an area of thunderstorms -- largely elevated atop
-the low-level cold air -- will continue, from portions of Texas
-across the Arklatex region.  Storms spreading northeastward across
-the Texas Coastal Plain today will encounter an area of weak
-near-surface-based CAPE along immediate coastal areas.  With the
-background kinematic environment exhibiting favorably strong/veering
-flow with height, this may result in the evolution of a couple of
-stronger storms for a brief time late this morning/early this
-afternoon -- and possibly a brief window of non-zero severe
-potential.  However, at this time risk does not appear sufficient to
-introduce even a lowest-end (5% wind/2% tornado) risk area.
-
-Meanwhile in the West, showers and occasional lightning flashes will
-be possible from portions of central and southern California into
-southern Arizona.  This convection will be associated with a rather
-pronounced mid-level trough embedded within broader cyclonic flow --
-and an associated mid-level jet -- digging southeastward out of the
-eastern Pacific into the southwestern states through the period. 
-Severe weather is not expected.
-
-..Goss/Mosier.. 01/22/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
 </span>
 
 

@@ -1,11 +1,351 @@
 ---
 title: tech likely 2024.04
-updated: 2024-01-22 15:34:00
+updated: 2024-01-23 08:00:38
 ---
 
 # tech likely 2024.04
 
-(date: 2024-01-22 15:34:00)
+(date: 2024-01-23 08:00:38)
+
+---
+
+## Apple’s App Store policies are getting weirdly aggressive, but publishers should be okay
+
+date: 2024-01-23, from: Nieman Journalism Lab
+
+I&#8217;ve written several times over the years about Epic Games&#8217; legal challenge to Apple&#8217;s App Store policies. (A dime-store summary: Apple keeps ultratight control over its App Store. It has to approve every app and every update. And if you want to sell users any sort of digital good inside an app, you have to...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/apples-app-store-policies-are-getting-weirdly-aggressive-but-publishers-should-be-okay/">https://www.niemanlab.org/2024/01/apples-app-store-policies-are-getting-weirdly-aggressive-but-publishers-should-be-okay/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/apples-app-store-policies-are-getting-weirdly-aggressive-but-publishers-should-be-okay/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Glenn Established in Cleveland in 1941
+
+date: 2024-01-23, from: NASA breaking news
+
+On January 23, 1941, local authorities, military representatives, and agency officials assembled in Cleveland to initiate construction of the National Advisory Committee for Aeronautics (NACA) new research laboratory. NACA Director of Research George Lewis stated, “I feel confident today in saying that this new aircraft engine research laboratory will be the mecca for all the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/nasa-glenn-established-in-cleveland-in-1941/">https://www.nasa.gov/general/nasa-glenn-established-in-cleveland-in-1941/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/nasa-glenn-established-in-cleveland-in-1941/">Save to Pocket</a>
+</span>
+
+---
+
+## The Brain Region That Controls Movement Also Guides Feelings
+
+date: 2024-01-23, from: Quanta Magazine
+
+The cerebellum is responsible for far more than coordinating movement. New techniques reveal that it is, in fact, a hub of sensory and emotional processing in the brain.            <p>The post <a href="https://www.quantamagazine.org/the-part-of-the-brain-that-controls-movement-also-guides-feelings-20240123/" target="_blank">The Brain Region That Controls Movement Also Guides Feelings</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/the-part-of-the-brain-that-controls-movement-also-guides-feelings-20240123/">https://www.quantamagazine.org/the-part-of-the-brain-that-controls-movement-also-guides-feelings-20240123/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/the-part-of-the-brain-that-controls-movement-also-guides-feelings-20240123/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s IXPE Awarded Prestigious Prize in High-energy Astronomy
+
+date: 2024-01-23, from: NASA breaking news
+
+NASA’s IXPE (Imaging X-ray Polarimetry Explorer) team has been awarded a top prize in high-energy astronomy. The High Energy Astrophysics Division of the American Astronomical Society (AAS) has awarded the 2024 Bruno Rossi Prize to retired NASA astrophysicist Martin Weisskopf, Italian Space Agency principal investigator Paolo Soffitta, and their team for development of IXPE, “whose [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/ixpe/nasas-ixpe-awarded-prestigious-prize-in-high-energy-astronomy/">https://www.nasa.gov/missions/ixpe/nasas-ixpe-awarded-prestigious-prize-in-high-energy-astronomy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/ixpe/nasas-ixpe-awarded-prestigious-prize-in-high-energy-astronomy/">Save to Pocket</a>
+</span>
+
+---
+
+##  Ryan Gosling getting an Oscar nom for Barbie while Greta Gerwig and... 
+
+date: 2024-01-23, updated: 2024-01-23, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043839-ryan-gosling-getting-an-o">https://kottke.org/24/01/0043839-ryan-gosling-getting-an-o</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043839-ryan-gosling-getting-an-o">Save to Pocket</a>
+</span>
+
+---
+
+## When did Raspberry Pi get so expensive?
+
+date: 2024-01-23, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">When did Raspberry Pi get so expensive?</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img width="700" height="auto" class="insert-image" src="https://www.jeffgeerling.com/sites/default/files/images/gmktec-n100-pc-raspberry-pi-5.jpeg" alt="Raspberry Pi 5 and N100 GMKtec Nucbox G3" /></p>
+
+<p>I just bought this N100-based Intel x86 mini PC (<em>brand new</em>), and it was cheaper than an almost equivalent—but slower—Raspberry Pi 5.</p>
+
+<p>This GMKtec mini PC is called the <a href="https://amzn.to/4b88MVp">Nucbox G3</a>, and it comes with an Intel Alder Lake N100 4-core CPU, 8GB of RAM, a 256 GB M.2 NVMe SSD, and Windows 11 Pro—and mine cost just $131, after a couple coupons.</p>
+
+<p>That's... a lot of computer for a very good price. But the Raspberry Pi—the famous "$35 computer", should be well below that... right?</p>
+
+<p>Well, I bought all the parts required to build a Pi 5 to the same spec—including the adapters and parts to assemble it into one small unit—and it turns out... the Pi is <em>more expensive</em>. And <em>slower</em>.</p>
+
+<p>The Pi 4 still starts at $35 (for a 1 GB model), but the Pi 5 starts at $60 (for 4 GB) and climbs to $80 for the maximum 8 GB model.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-01-23T09:00:38-06:00" title="Tuesday, January 23, 2024 - 09:00" class="datetime">January 23, 2024</time></span>
+
+<span class="feed-item-link">
+<a href="https://www.jeffgeerling.com/blog/2024/when-did-raspberry-pi-get-so-expensive">https://www.jeffgeerling.com/blog/2024/when-did-raspberry-pi-get-so-expensive</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jeffgeerling.com/blog/2024/when-did-raspberry-pi-get-so-expensive">Save to Pocket</a>
+</span>
+
+---
+
+## David Mills, the internet's Father Time, dies at 85
+
+date: 2024-01-23, updated: 2024-01-23, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Obituary</span> Creator of the Network Time Protocol that holds the internet together</h4>
+      <p>Professor David L Mills, one of the original wizards who built the internet, has died at the age of 85, leaving a remarkable technological legacy.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/23/david_mills_obit/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/23/david_mills_obit/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/23/david_mills_obit/">Save to Pocket</a>
+</span>
+
+---
+
+## How to get started with Advanced Squad Leader
+
+date: 2024-01-23, from: Alex Schroeder's Blog
+
+<h1>How to get started with Advanced Squad Leader</h1>
+
+<p>The PDF for Advanced Squad Leader (ASL) rules has 714 pages. How do you even get started?</p>
+
+<p>There are four <a href="https://mmpgamers.com/asl-starter-kit-c-2_8">starter kits</a> (SK):</p>
+
+<ol>
+<li>Regular infantry</li>
+<li>Guns</li>
+<li>Tanks</li>
+<li>Pacific Theater of Operations (PTO)</li>
+</ol>
+
+<p>I didn&rsquo;t want to take that route and tried to dive straight in but this is not how it works. Start small.</p>
+
+<p>You can get the <a href="https://mmpgamers.com/support/aslsk/ASLSK4_Rules_September_2021.pdf">rules for all four starter kits</a> as a PDF.</p>
+
+<p>Buy <a href="https://www.wargamevault.com/product/344879/Electronic-Advanced-Squad-Leader-Rulebook">the complete rules</a> once you know that you like the game.</p>
+
+<p>As somebody recently told me: &ldquo;Looking up the rules is 90% of the game!&rdquo;</p>
+
+<p>I like to call Advanced Squad Leader &ldquo;the game to end all rules-lawyering.&rdquo;</p>
+
+<p>For online gaming, you need to download the following:</p>
+
+<ul>
+<li><p><a href="https://vassalengine.org/">VASSAL</a>. Vassal is a game engine for building and playing online adaptations of board games and card games. Vassal is free, open-source software.</p></li>
+
+<li><p><a href="https://vasl.info/">VASL</a>. VASL is the module you need to run ASL on VASSAL.</p></li>
+</ul>
+
+<p>The VASL site has a section called &ldquo;Download Scenarios&rdquo; where you can download setups for many scenarios (without the mission goals). If you load those games, you&rsquo;ll see messages about all the extensions you&rsquo;re missing. Often you don&rsquo;t need them, but feel free to install them.</p>
+
+<p>If you want a physical box of the games, with physical counters, be aware that you must buy <em>Beyond Valor</em> because it has some stuff that gets used in later boxes.</p>
+
+<p>(Earlier: <a href="2022-11-05_Advanced_Squad_Leader">Advanced Squad Leader</a>, 2022.)</p>
+
+<p><a class="tag" href="/search/?q=%23ASL">#ASL</a></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-01-21-getting-started-with-asl">https://alexschroeder.ch/view/2024-01-21-getting-started-with-asl</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-01-21-getting-started-with-asl">Save to Pocket</a>
+</span>
+
+---
+
+##  The colorful mating dance of the Tragopan pheasant. Having seen quite a... 
+
+date: 2024-01-23, updated: 2024-01-23, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043824-the-colorful-mating-dance">https://kottke.org/24/01/0043824-the-colorful-mating-dance</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043824-the-colorful-mating-dance">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-23, from: Dave Winer's Scripting News)
+
+Here's what I wrote <a href="http://scripting.com/2014/01/24/30thAnniversaryOfMac.html">ten years ago</a> on the 30th anniversary of the Mac. "The rollout on January 24th was like a college graduation ceremony." It appears I didn't write anything about the Mac anniversary <a href="http://scripting.com/2004/01.html">in 2004</a> and my blog didn't exist on 1/24/94. But I did write a piece on what made the Mac different on the <a href="http://scripting.com/stories/2009/01/24/whatMadeTheMacDifferent.html">25th anniversary</a> in 2009. BTW, the comments on that piece are incredible. Click the <a href="http://scripting.com/stories/2009/01/24/whatMadeTheMacDifferent.html">link</a> just to read the freaking comments.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/23.html#a134742">http://scripting.com/2024/01/23.html#a134742</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/23.html#a134742">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-23, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/01/23/mac.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Tomorrow is the 40th anniversary of the <a href="https://www.youtube.com/watch?v=72JFlUjeNWk">big event</a> at <a href="https://en.wikipedia.org/wiki/De_Anza_College#Flint_Center">Flint Center</a> announcing the Macintosh. It was a huge day in my life, and in the evolution of personal computers and ultimately, the internet. I was there that day, along with Kandes Bregman from my startup, Living Videotext. We had a full page ad in the <a href="https://www.amazon.com/MACWORLD-Macintosh-Magazine-Premier-February/dp/B001OI6YL6">first issue</a> of <a href="https://archive.org/details/macworld-magazine">MacWorld</a>. We were extremely excited, the Mac seemed to be the perfect machine for our "idea processor" ThinkTank, and Apple seemed to love us. It took a couple of years to get it right, by 1986 my company had switched to be an exclusively Mac company, but not before we were saved by the people at Apple who believed in us, notably <a href="https://en.wikipedia.org/wiki/Guy_Kawasaki">Guy Kawasaki</a>, <a href="https://en.wikipedia.org/wiki/Mike_Boich">Mike Boich</a>, <a href="https://en.wikipedia.org/wiki/Del_Yocam">Del Yocam</a> and <a href="https://en.wikipedia.org/wiki/Bill_Campbell_(business_executive)">Bill Campbell</a>, and many others. I don't know if we would have made it without the help of Apple, but luckily we didn't have to find out. Thank you to all our friends at Apple, and to Steve Jobs and the Mac team for creating such a wonderful breakthrough product. Those were the days when we believed we were on a mission to save the world. In some sense that idea has never left, to our generation of entrepreneurial software developers.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/23.html#a133735">http://scripting.com/2024/01/23.html#a133735</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/23.html#a133735">Save to Pocket</a>
+</span>
+
+---
+
+## The Swearing Chatbot
+
+date: 2024-01-23, updated: 2024-01-23, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/01/23/the-swearing-chatbot/">https://onefoottsunami.com/2024/01/23/the-swearing-chatbot/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/01/23/the-swearing-chatbot/">Save to Pocket</a>
+</span>
+
+---
+
+## placing bets
+
+date: 2024-01-23, from: Ayjay blog
+
+The last four of Ted Gioia&#8217;s seven hypotheses about meaningful progress: 4. The discourse on progress is controlled by technocrats, politicians and economists. But in the current moment, they are the wrong people to decide which metrics drive quality of life and human flourishing. 5. Real wisdom on human flourishing is now more likely to [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/placing-bets/">https://blog.ayjay.org/placing-bets/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/placing-bets/">Save to Pocket</a>
+</span>
+
+---
+
+## From Mac OS X 10.2 to macOS 10.15 – pt 1
+
+date: 2024-01-23, from: Tilde.news
+
+<p><a href="https://tilde.news/s/h8z8ej/from_mac_os_x_10_2_macos_10_15_pt_1">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.geeklan.co.uk/?p=3264">https://www.geeklan.co.uk/?p=3264</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.geeklan.co.uk/?p=3264">Save to Pocket</a>
+</span>
+
+---
+
+## iovisor/bpftrace - Release v0.20.0
+
+date: 2024-01-23, from: Tilde.news
+
+<p><a href="https://tilde.news/s/pgea70/iovisor_bpftrace_release_v0_20_0">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://github.com/iovisor/bpftrace/releases/tag/v0.20.0">https://github.com/iovisor/bpftrace/releases/tag/v0.20.0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://github.com/iovisor/bpftrace/releases/tag/v0.20.0">Save to Pocket</a>
+</span>
+
+---
+
+## Get ready for Mission Space Lab with our new simulation tool
+
+date: 2024-01-23, from: Raspberry Pi (.org)
+
+<p>Since November, registration is open for Mission Space Lab, part of the European Astro Pi Challenge 2023/24. The Astro Pi Challenge is an ESA Education project run in collaboration with us here at the Raspberry Pi Foundation that gives young people up to age 19 the amazing opportunity to write computer programs that run on&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/get-ready-for-mission-space-lab-with-our-new-simulation-tool/">Get ready for Mission Space Lab with our new simulation tool</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.org/blog/get-ready-for-mission-space-lab-with-our-new-simulation-tool/">https://www.raspberrypi.org/blog/get-ready-for-mission-space-lab-with-our-new-simulation-tool/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.org/blog/get-ready-for-mission-space-lab-with-our-new-simulation-tool/">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Glimpses a Bright Galaxy Group
+
+date: 2024-01-23, from: NASA breaking news
+
+This new NASA Hubble Space Telescope image shows a group of interacting galaxies known as LEDA 60847. LEDA 60847 is classified as an active galactic nuclei, or AGN. An AGN has a supermassive black hole in the galaxy’s central region that is accreting material. The AGN emits radiation across the entire electromagnetic spectrum and shines […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/hubble-glimpses-a-bright-galaxy-group/">https://science.nasa.gov/missions/hubble/hubble-glimpses-a-bright-galaxy-group/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/hubble-glimpses-a-bright-galaxy-group/">Save to Pocket</a>
+</span>
+
+---
+
+## Build your own handheld ZX Spectrum with Raspberry Pi Pico
+
+date: 2024-01-23, from: Raspberry Pi News (.com)
+
+<p>Peter Misenko's PicoZX is a pocket-sized Raspberry Pi Pico-powered version of the iconic Sinclair ZX Spectrum.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/build-your-own-handheld-zx-spectrum-with-raspberry-pi-pico/">Build your own handheld ZX Spectrum with Raspberry Pi Pico</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/build-your-own-handheld-zx-spectrum-with-raspberry-pi-pico/">https://www.raspberrypi.com/news/build-your-own-handheld-zx-spectrum-with-raspberry-pi-pico/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/build-your-own-handheld-zx-spectrum-with-raspberry-pi-pico/">Save to Pocket</a>
+</span>
+
+---
+
+## Why we need to highlight stories of progress to build a better future
+
+date: 2024-01-23, from: Hannah Richie at Substack
+
+Five reasons to highlight markers of progress, without falling into complacency.
+
+<span class="feed-item-link">
+<a href="https://www.sustainabilitybynumbers.com/p/progress">https://www.sustainabilitybynumbers.com/p/progress</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.sustainabilitybynumbers.com/p/progress">Save to Pocket</a>
+</span>
+
+---
+
+## Winlator: run Windows application on Android using Wine and Box86/Box64
+
+date: 2024-01-23, from: OS News
+
+Winlator is an Android application that lets you to run Windows (x86_64) applications with Wine and Box86/Box64. ↫ BrunoSX That&#8217;s all you need to know. There are videos up of things like Mass Effect 2 and Fallout 3 running through this, which is incredibly neat. I&#8217;m not entirely sure what the use case is, but who cares &#8211; this is an excellent idea.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138427/winlator-run-windows-application-on-android-using-wine-and-box86-box64/">https://www.osnews.com/story/138427/winlator-run-windows-application-on-android-using-wine-and-box86-box64/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138427/winlator-run-windows-application-on-android-using-wine-and-box86-box64/">Save to Pocket</a>
+</span>
+
+---
+
+## Registration Now Open for 2024: Please read!
+
+date: 2024-01-23, from: Asilomar Microcomputer Workshop News
+
+(Download a PDF of this letter: AMW50 invitation) Please register online: Registration Form Invitation Letter text: We’re pleased to invite you to our 50th Asilomar Microcomputer Workshop, April 24 &#8211; 26, 2024, at the Asilomar Conference Grounds in Pacific Grove, CA, on the Monterey Peninsula. Please join us in making it a special event! Since &#8230; <a href="https://amw.org/registration-now-open-for-2024-please-read/" class="read-more">Read more</a>
+
+<span class="feed-item-link">
+<a href="https://amw.org/registration-now-open-for-2024-please-read/">https://amw.org/registration-now-open-for-2024-please-read/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://amw.org/registration-now-open-for-2024-please-read/">Save to Pocket</a>
+</span>
+
+---
+
+## Meta now lets EU users unlink their Facebook, Messenger and Instagram accounts
+
+date: 2024-01-22, from: OS News
+
+In a major move addressing European regulations, Meta will soon give users in the EU, EEA, and Switzerland significantly more control over how their data is used across Facebook and Instagram. The changes, set to begin rolling out in the coming weeks, aim to comply with the Digital Markets Act (DMA). ↫ Omer Dursun at NeoWin You&#8217;ll be able to unlink Facebook&#8217;s various services &#8211; such as Instagram and Facebook&#8217;s main social network thing &#8211; and you&#8217;ll be able to use Facebook Messenger as a standalone service without needing to have a Facebook account. Sadly, there&#8217;s no word on WhatsApp. This only applies to people in the EU/EEA. Americans need not apply.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138422/meta-now-lets-eu-users-unlink-their-facebook-messenger-and-instagram-accounts/">https://www.osnews.com/story/138422/meta-now-lets-eu-users-unlink-their-facebook-messenger-and-instagram-accounts/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138422/meta-now-lets-eu-users-unlink-their-facebook-messenger-and-instagram-accounts/">Save to Pocket</a>
+</span>
+
+---
+
+## FWIW
+
+date: 2024-01-22, from: Ayjay blog
+
+I’ve written before about how my own history as a fabulist makes me reflexively skeptical about certain kinds of stories that people tell. But it’s not my history as a fabulist, it’s rather my belief in original sin that makes me skeptical of one particular kind of story: the “Doing this hurts me but darn [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/fwiw-3/">https://blog.ayjay.org/fwiw-3/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/fwiw-3/">Save to Pocket</a>
+</span>
+
+---
+
+## RubyWM: an X11 window manager in pure Ruby
+
+date: 2024-01-22, from: OS News
+
+It&#8217;s a minimalist (currently &#60;1K lines) pure Ruby (including the X11 driver) X11 window manager. It is focused on tiling, but allows you to choose to assign a tiling layout to specific desktops or leave them floating. Currently whether or not you use tiling or floating layout there is no window decoration and windows are not draggable or resizable by pulling on borders (but you can do that with Windows key + left/right mouse button) Like bspwm, which was an inspiration, the wm supports no keyboard handling &#8211; all keyboard handling is deferred to separate tools like sxhkd. Unlike bspwm this WM has no dedicated IPC mechanism. Instead, so far, all communication happens via X11 ClientMessage events, which means any tool, like xdotool etc. that can produce those events can control the WM. ↫ Vidar Hokstad on RubyWM&#8217;s GitHub page In the blog post announcing RubyWM, the author makes it very clear that while he uses this WM full time, he is also willing to work around its bugs, and that certain tools will simply break if you use it. He considers it more of a tech demo, and that you really shouldn&#8217;t rely on this for any serious work.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138419/rubywm-an-x11-window-manager-in-pure-ruby/">https://www.osnews.com/story/138419/rubywm-an-x11-window-manager-in-pure-ruby/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138419/rubywm-an-x11-window-manager-in-pure-ruby/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -215,7 +555,7 @@ date: 2024-01-22, updated: 2024-01-22, from: Jason Kottke blog
 
 ## CCC trauert um sein Ehrenmitglied winni
 
-date: 2024-01-22, updated: 2024-01-22, from: Chaos Computer Club
+date: 2024-01-22, updated: 2024-01-23, from: Chaos Computer Club
 
 Sven "winni" Gohdes, Ehrenmitglied des Chaos Computer Clubs zeigte uns mit seiner offenen positiven Art viele große und kleine Dinge, welche das Leben noch lebenswerter machen. Trotz seiner Erkrankung an Muskelschwund war er eine stetige Anlaufquelle für lange gemeinsame Stunden sowohl in großer als auch in kleiner Runde, bei Tee und zur Entspannung. Nun ist er im Januar mit 57 Jahren verstorben und wird uns fehlen.
 
@@ -269,7 +609,7 @@ Doc will like this. Right now there are four hits on Goog for <a href="https://w
 
 **@Dave Winer's Scripting News** (date: 2024-01-22, from: Dave Winer's Scripting News)
 
-I've been writing and <a href="http://scripting.com/2024/01/21.html#a194147">talking</a> about the idea of a  <a href="https://www.google.com/search?q=site%3Ascripting.com+%22typical+tech+industry+mess%22&sca_esv=600400644&rlz=1C5CHFA_enUS743US747&sxsrf=ACQVn09BvYY8njdMiW3iDSTnJiAmARBs8Q%3A1705949056524&ei=gLeuZY67H4Gs5NoPyMSxyAQ&ved=0ahUKEwiO-5K80_GDAxUBFlkFHUhiDEkQ4dUDCBA&uact=5&oq=site%3Ascripting.com+%22typical+tech+industry+mess%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiL3NpdGU6c2NyaXB0aW5nLmNvbSAidHlwaWNhbCB0ZWNoIGluZHVzdHJ5IG1lc3MiSKgfUKgFWJsdcAF4AZABAJgBdqABuQqqAQQxNy4yuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICCBAhGKABGMME4gMEGAAgQYgGAZAGAg&sclient=gws-wiz-serp">typical tech industry mess</a> and left out the one I had a hand in creating, <a href="https://www.google.com/search?q=site%3Ascripting.com+SOAP">SOAP</a>. Started out simple, and over years it turned into a TTIM. Perfect example. Someone should study it, to figure out why Sun, Microsoft, IBM, Oracle et al wanted a protocol for interop and invested years in it, and yet it returned little in the way of interop.  I know that <a href="http://xmlrpc.com/">XML-RPC</a> is still in use, I imagine that SOAP probably is too, in some form. I wonder how it shook out. On the other hand <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> wasn't turned into a nightmare, and has become a <i>productive</i> tech industry mess, the most unusual thing ever, a true unicorn.
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/11/20/offWithTheirHeads.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've been writing and <a href="http://scripting.com/2024/01/21.html#a194147">talking</a> about the idea of a  <a href="https://www.google.com/search?q=site%3Ascripting.com+%22typical+tech+industry+mess%22&sca_esv=600400644&rlz=1C5CHFA_enUS743US747&sxsrf=ACQVn09BvYY8njdMiW3iDSTnJiAmARBs8Q%3A1705949056524&ei=gLeuZY67H4Gs5NoPyMSxyAQ&ved=0ahUKEwiO-5K80_GDAxUBFlkFHUhiDEkQ4dUDCBA&uact=5&oq=site%3Ascripting.com+%22typical+tech+industry+mess%22&gs_lp=Egxnd3Mtd2l6LXNlcnAiL3NpdGU6c2NyaXB0aW5nLmNvbSAidHlwaWNhbCB0ZWNoIGluZHVzdHJ5IG1lc3MiSKgfUKgFWJsdcAF4AZABAJgBdqABuQqqAQQxNy4yuAEDyAEA-AEBwgIKEAAYRxjWBBiwA8ICCBAhGKABGMME4gMEGAAgQYgGAZAGAg&sclient=gws-wiz-serp">typical tech industry mess</a> and left out the one I had a hand in creating, <a href="https://www.google.com/search?q=site%3Ascripting.com+SOAP">SOAP</a>. Started out simple, and over years it turned into a TTIM. Perfect example. Someone should study it, to figure out why Sun, Microsoft, IBM, Oracle et al wanted a protocol for interop and invested years in it, and yet it returned little in the way of interop.  I know that <a href="http://xmlrpc.com/">XML-RPC</a> is still in use, I imagine that SOAP probably is too, in some form. I wonder how it shook out. On the other hand <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> wasn't turned into a nightmare, and has become a <i>productive</i> tech industry mess, the most unusual thing ever, a true unicorn.
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2024/01/22.html#a184055">http://scripting.com/2024/01/22.html#a184055</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/22.html#a184055">Save to Pocket</a>
@@ -773,51 +1113,6 @@ date: 2024-01-21, updated: 2024-01-21, from: Jason Kottke blog
 
 <span class="feed-item-link">
 <a href="https://kottke.org/24/01/0043823-air-jordan-is-finally-def">https://kottke.org/24/01/0043823-air-jordan-is-finally-def</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043823-air-jordan-is-finally-def">Save to Pocket</a>
-</span>
-
----
-
-## How to get started with Advanced Squad Leader
-
-date: 2024-01-21, from: Alex Schroeder's Blog
-
-<h1>How to get started with Advanced Squad Leader</h1>
-
-<p>The PDF for Advanced Squad Leader (ASL) rules has 714 pages. How do you even get started?</p>
-
-<p>There are four <a href="https://mmpgamers.com/asl-starter-kit-c-2_8">starter kits</a> (SK):</p>
-
-<ol>
-<li>Regular infantry</li>
-<li>Guns</li>
-<li>Tanks</li>
-<li>Pacific Theater of Operations (PTO)</li>
-</ol>
-
-<p>I didn&rsquo;t want to take that route and tried to dive straight in but this is not how it works. Start small.</p>
-
-<p>You can get the <a href="https://mmpgamers.com/support/aslsk/ASLSK4_Rules_September_2021.pdf">rules for all four starter kits</a> as a PDF.</p>
-
-<p>Buy <a href="https://www.wargamevault.com/product/344879/Electronic-Advanced-Squad-Leader-Rulebook">the complete rules</a> once you know that you like the game.</p>
-
-<p>For online gaming, you need to download the following:</p>
-
-<ul>
-<li><p><a href="https://vassalengine.org/">VASSAL</a>. Vassal is a game engine for building and playing online adaptations of board games and card games. Vassal is free, open-source software.</p></li>
-
-<li><p><a href="https://vasl.info/">VASL</a>. VASL is the module you need to run ASL on VASSAL.</p></li>
-</ul>
-
-<p>The VASL site has a section called &ldquo;Download Scenarios&rdquo; where you can download setups for many scenarios (without the mission goals). If you load those games, you&rsquo;ll see messages about all the extensions you&rsquo;re missing. Often you don&rsquo;t need them, but feel free to install them.</p>
-
-<p>If you want a physical box of the games, with physical counters, be aware that you must buy <em>Beyond Valor</em> because it has some stuff that gets used in later boxes.</p>
-
-<p>(Earlier: <a href="2022-11-05_Advanced_Squad_Leader">Advanced Squad Leader</a>, 2022.)</p>
-
-<p><a class="tag" href="/search/?q=%23ASL">#ASL</a></p>
-
-<span class="feed-item-link">
-<a href="https://alexschroeder.ch/view/2024-01-21-getting-started-with-asl">https://alexschroeder.ch/view/2024-01-21-getting-started-with-asl</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-01-21-getting-started-with-asl">Save to Pocket</a>
 </span>
 
 ---

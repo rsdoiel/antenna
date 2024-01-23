@@ -1,17 +1,259 @@
 ---
 title: socal north 2024.04
-updated: 2024-01-22 15:34:00
+updated: 2024-01-23 08:00:38
 ---
 
 # socal north 2024.04
 
-(date: 2024-01-22 15:34:00)
+(date: 2024-01-23 08:00:38)
+
+---
+
+## Senate candidates spar at Bovard
+
+date: 2024-01-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Contenders for the late Senator Feinstein’s seat debated Trump, the Middle East and healthcare Monday night.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/23/senate-candidates-spar-at-bovard-2/">Senate candidates spar at Bovard</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/23/senate-candidates-spar-at-bovard-2/">https://dailytrojan.com/2024/01/23/senate-candidates-spar-at-bovard-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/23/senate-candidates-spar-at-bovard-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Protesters call for ceasefire in Gaza at debate
+
+date: 2024-01-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Demonstrators chanted and marched outside Bovard Auditorium Monday night.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/23/protesters-call-for-ceasefire-in-gaza-at-debate/">Protesters call for ceasefire in Gaza at debate</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/23/protesters-call-for-ceasefire-in-gaza-at-debate/">https://dailytrojan.com/2024/01/23/protesters-call-for-ceasefire-in-gaza-at-debate/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/23/protesters-call-for-ceasefire-in-gaza-at-debate/">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – January 23, 2024
+
+date: 2024-01-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/23/classifieds-january-23-2024/">Classifieds &#8211; January 23, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/23/classifieds-january-23-2024/">https://dailytrojan.com/2024/01/23/classifieds-january-23-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/23/classifieds-january-23-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s basketball loses back-to-back games
+
+date: 2024-01-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans fell to No. 3 Colorado to end their first slate of true away games.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/23/womens-basketball-loses-back-to-back-games/">Women’s basketball loses back-to-back games</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/23/womens-basketball-loses-back-to-back-games/">https://dailytrojan.com/2024/01/23/womens-basketball-loses-back-to-back-games/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/23/womens-basketball-loses-back-to-back-games/">Save to Pocket</a>
+</span>
+
+---
+
+## The ‘Palworld’ plagiarism debate
+
+date: 2024-01-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>“Pokemon with guns” has taken the internet by storm to extremely mixed reactions and a load of criticism.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/23/the-k-pop-ification-of-the-gaming-industry-2-2/">The ‘Palworld’ plagiarism debate</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/23/the-k-pop-ification-of-the-gaming-industry-2-2/">https://dailytrojan.com/2024/01/23/the-k-pop-ification-of-the-gaming-industry-2-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/23/the-k-pop-ification-of-the-gaming-industry-2-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Experts talk LAPD chief’s retirement
+
+date: 2024-01-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Chief Michel Moore said he will step down from the position in late February.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/23/usc-experts-discuss-police-chief-michel-moores-early-retirement/">Experts talk LAPD chief’s retirement</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/23/usc-experts-discuss-police-chief-michel-moores-early-retirement/">https://dailytrojan.com/2024/01/23/usc-experts-discuss-police-chief-michel-moores-early-retirement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/23/usc-experts-discuss-police-chief-michel-moores-early-retirement/">Save to Pocket</a>
+</span>
+
+---
+
+## Men’s basketball Head Coach Andy Enfield needs to go
+
+date: 2024-01-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans should transition to the Big Ten with a new head coach.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/23/mens-basketball-head-coach-andy-enfield-needs-to-go/">Men’s basketball Head Coach Andy Enfield needs to go</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/23/mens-basketball-head-coach-andy-enfield-needs-to-go/">https://dailytrojan.com/2024/01/23/mens-basketball-head-coach-andy-enfield-needs-to-go/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/23/mens-basketball-head-coach-andy-enfield-needs-to-go/">Save to Pocket</a>
+</span>
+
+---
+
+## Our bodily autonomy is on the ballot
+
+date: 2024-01-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>This presidential election may determine the future of reproductive freedom.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/23/our-bodily-autonomy-is-on-the-ballot/">Our bodily autonomy is on the ballot</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/23/our-bodily-autonomy-is-on-the-ballot/">https://dailytrojan.com/2024/01/23/our-bodily-autonomy-is-on-the-ballot/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/23/our-bodily-autonomy-is-on-the-ballot/">Save to Pocket</a>
+</span>
+
+---
+
+## Dudamel leads, LA Phil follows; ‘Das Rheingold’ is perfect, as expected
+
+date: 2024-01-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Wagner’s “Das Rheingold” was the acclaimed conductor’s chosen piece to celebrate architect Frank Gehry.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/23/dudamel-leads-la-phil-follows-das-rheingold-is-perfect-as-expected/">Dudamel leads, LA Phil follows; ‘Das Rheingold’ is perfect, as expected</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/23/dudamel-leads-la-phil-follows-das-rheingold-is-perfect-as-expected/">https://dailytrojan.com/2024/01/23/dudamel-leads-la-phil-follows-das-rheingold-is-perfect-as-expected/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/23/dudamel-leads-la-phil-follows-das-rheingold-is-perfect-as-expected/">Save to Pocket</a>
+</span>
+
+---
+
+## McCarthy Quad to remain closed until early april
+
+date: 2024-01-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The lawn was left damaged after the rainy setup of a canopy for Convocation.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/23/mccarthy-quad-closed-until-early-april/">McCarthy Quad to remain closed until early april</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/23/mccarthy-quad-closed-until-early-april/">https://dailytrojan.com/2024/01/23/mccarthy-quad-closed-until-early-april/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/23/mccarthy-quad-closed-until-early-april/">Save to Pocket</a>
+</span>
+
+---
+
+## International student gossip culture is like high school
+
+date: 2024-01-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>I know too much about the lives of too many of my fellow international students.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/23/international-student-gossip-culture-is-like-high-school/">International student gossip culture is like high school</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/23/international-student-gossip-culture-is-like-high-school/">https://dailytrojan.com/2024/01/23/international-student-gossip-culture-is-like-high-school/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/23/international-student-gossip-culture-is-like-high-school/">Save to Pocket</a>
+</span>
+
+---
+
+## After Only One Day On Strike, CSU And Faculty Agree To Terms
+
+date: 2024-01-23, updated: 2024-01-23, from: The LAist
+
+California State University faculty walked off the job Monday, to protest for better pay, working conditions, and other changes. By the end of the day, their union had agreed to terms with the university’s management.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/csu-strike-faculty-administration-agree-to-deal">https://laist.com/news/education/csu-strike-faculty-administration-agree-to-deal</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/csu-strike-faculty-administration-agree-to-deal">Save to Pocket</a>
+</span>
+
+---
+
+## Matadors blown out in an ugly loss to the Gauchos
+
+date: 2024-01-23, from: The Sundail (CSUN Student Newspaper)
+
+Entering the game Thursday night, the Matadors (13-6, 4-3 Big West) matched up against the defending conference champion Gauchos of Santa Barbara (11-7, 4-4 Big West). CSUN came into the game on a six-game home winning streak. UCSB came out firing on all cylinders, knocking down six triples to soar up to a 29-12 lead...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177925/sports/matadors-blown-out-in-an-ugly-loss-to-the-gauchos/">https://sundial.csun.edu/177925/sports/matadors-blown-out-in-an-ugly-loss-to-the-gauchos/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177925/sports/matadors-blown-out-in-an-ugly-loss-to-the-gauchos/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s basketball loses second game of the season to Utah in overtime
+
+date: 2024-01-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 22 at 7:53 p.m.</em>
+For the second consecutive season, a last-second basket helped sink the Bruins in Salt Lake City.
+Last year, Utah forward Alissa Pili scored the game-winning layup with less than a second remaining to take down UCLA.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/22/ucla-womens-basketball-loses-second-game-of-the-season-to-utah-in-overtime-game/">https://dailybruin.com/2024/01/22/ucla-womens-basketball-loses-second-game-of-the-season-to-utah-in-overtime-game/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/22/ucla-womens-basketball-loses-second-game-of-the-season-to-utah-in-overtime-game/">Save to Pocket</a>
+</span>
+
+---
+
+## Port of Hueneme, Labor and Community Leaders Join Forces in “Powerwall” Response to Infrastructure Emergency
+
+date: 2024-01-23, from: Port Hueneme
+
+Unprecedented December storm damaged Shoreside Power System at the Port of Hueneme, causing more than $30M in damages Download Press Release [Port Hueneme, CA – Jan. 22, 2024] &#8211; The Port of Hueneme, the pioneering West Coast Port in adopting Shoreside Power for cargo vessels, faced substantial setbacks following severe damage to its Shoreside Power <a class="read-more-style" href="https://www.portofhueneme.org/new-leadership-2/">Read More</a>
+
+<span class="feed-item-link">
+<a href="https://www.portofhueneme.org/new-leadership-2/">https://www.portofhueneme.org/new-leadership-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.portofhueneme.org/new-leadership-2/">Save to Pocket</a>
+</span>
+
+---
+
+## OC Supervisor Quietly Routed Millions More To His Daughter’s Group
+
+date: 2024-01-23, updated: 2024-01-23, from: The LAist
+
+County records obtained by LAist show O.C. Supervisor Andrew Do directed an additional $6.2 million in taxpayer dollars to his 22-year-old daughter’s group without publicly disclosing the family ties.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/orange-county-supervisor-andrew-do-taxpayer-money-daughter-viet-america-society-warner-wellness-rhiannon-do">https://laist.com/news/politics/orange-county-supervisor-andrew-do-taxpayer-money-daughter-viet-america-society-warner-wellness-rhiannon-do</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/orange-county-supervisor-andrew-do-taxpayer-money-daughter-viet-america-society-warner-wellness-rhiannon-do">Save to Pocket</a>
+</span>
+
+---
+
+## Sundance 2024 Q&A: How Mark DiCristofaro’s ‘War Game’ transcends the traditional documentary
+
+date: 2024-01-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+The public is getting a front row ticket to government processes, and Mark DiCristofaro is the producer.
+A current student in the Master of Legal Studies program at UCLA, DiCristofaro is also the vice president of production for Matador Content.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/22/sundance-2024-qa-how-mark-dicristofaros-war-game-transcends-the-traditional-documentary/">https://dailybruin.com/2024/01/22/sundance-2024-qa-how-mark-dicristofaros-war-game-transcends-the-traditional-documentary/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/22/sundance-2024-qa-how-mark-dicristofaros-war-game-transcends-the-traditional-documentary/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA track and field leaves Albuquerque with new confidence for 2024 indoor season
+
+date: 2024-01-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+Saturday marked a new beginning for the Bruins.
+UCLA track and field started its 2024 indoor season in Albuquerque, New Mexico, on Saturday at the Dr.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/22/ucla-track-and-field-leaves-albuquerque-with-new-confidence-for-2024-indoor-season/">https://dailybruin.com/2024/01/22/ucla-track-and-field-leaves-albuquerque-with-new-confidence-for-2024-indoor-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/22/ucla-track-and-field-leaves-albuquerque-with-new-confidence-for-2024-indoor-season/">Save to Pocket</a>
+</span>
 
 ---
 
 ## Where's That Ultra Wet Winter We Were Waiting For?
 
-date: 2024-01-22, updated: 2024-01-22, from: The LAist
+date: 2024-01-22, updated: 2024-01-23, from: The LAist
 
 A little more rain and snow would be nice.
 
@@ -30,6 +272,18 @@ No. 3 UCLA&#8217;s women&#8217;s water polo (3-0) competed at the UCSB Winter In
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/22/ucla-womens-water-polo-begins-new-season-with-wins/">https://dailybruin.com/2024/01/22/ucla-womens-water-polo-begins-new-season-with-wins/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/22/ucla-womens-water-polo-begins-new-season-with-wins/">Save to Pocket</a>
+</span>
+
+---
+
+## LA's Mayor Promised Environmental Review Wouldn't Hold Up Affordable Housing — Now Some Projects Are Hitting Roadblocks
+
+date: 2024-01-22, updated: 2024-01-22, from: The LAist
+
+In her first week in office, Mayor Karen Bass exempted new low-income housing from lengthy environmental challenges. Why is the city now accepting appeals?
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/los-angeles-ed1-mayor-karen-bass-executive-directive-affordable-housing-city-ceqa-appeals-environmental-review-sawtelle">https://laist.com/news/housing-homelessness/los-angeles-ed1-mayor-karen-bass-executive-directive-affordable-housing-city-ceqa-appeals-environmental-review-sawtelle</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/los-angeles-ed1-mayor-karen-bass-executive-directive-affordable-housing-city-ceqa-appeals-environmental-review-sawtelle">Save to Pocket</a>
 </span>
 
 ---
@@ -176,7 +430,7 @@ date: 2024-01-22, from: The Daily Trojan (USC Student Newspaper)
 
 ## A Vigil, Then A Dance Party: How Monterey Park Marked A Deadly Shooting
 
-date: 2024-01-22, updated: 2024-01-22, from: The LAist
+date: 2024-01-22, updated: 2024-01-23, from: The LAist
 
 Survivors of the mass shooting danced at a banquet hall after a somber vigil.
 
@@ -370,9 +624,9 @@ According to a crime alert sent Saturday night, the suspect reportedly grabbed o
 
 ---
 
-## CSU Strike Begins After Talks Between Admin, Faculty Break Down
+## CSU Strike Ends After Talks Resume On First Day Of Walkout
 
-date: 2024-01-21, updated: 2024-01-22, from: The LAist
+date: 2024-01-21, updated: 2024-01-23, from: The LAist
 
 The hundreds of thousands of students across 23 campuses won't have classes.
 

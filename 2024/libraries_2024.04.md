@@ -1,11 +1,25 @@
 ---
 title: libraries 2024.04
-updated: 2024-01-22 15:34:00
+updated: 2024-01-23 08:00:38
 ---
 
 # libraries 2024.04
 
-(date: 2024-01-22 15:34:00)
+(date: 2024-01-23 08:00:38)
+
+---
+
+## Kitchen Essentials: An Interview with Stephanie Orphan of arXiv
+
+date: 2024-01-23, from: Scholarly Kitchen
+
+<p>In today’s Kitchen Essentials interview, Roger Schonfeld speaks with Stephanie Orphan, Program Director of arXiv, the e-print repository.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/01/23/stephanie-orphan-arxiv/">Kitchen Essentials: An Interview with Stephanie Orphan of arXiv</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/01/23/stephanie-orphan-arxiv/">https://scholarlykitchen.sspnet.org/2024/01/23/stephanie-orphan-arxiv/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/01/23/stephanie-orphan-arxiv/">Save to Pocket</a>
+</span>
 
 ---
 
