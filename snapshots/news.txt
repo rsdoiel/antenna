@@ -481,6 +481,11 @@ https://webcurios.co.uk/feed/ "~Web Curios blog"
 #https://smallworkshop.co.uk/rss/ "~Small Workshop UK blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # Feed is invalid due to syntax error in XML, 2024-01-09
 
 #
+# Retro Computing
+#
+https://oldvcr.blogspot.com/feeds/posts/default?alt=rss "~Old Vintage Computer Research"
+
+#
 # Electric Vehicles, Motorcycles and other transportation
 #
 https://insideevs.com/rss/news/all/ "~Inside EVs News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
