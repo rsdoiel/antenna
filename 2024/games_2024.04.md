@@ -1,11 +1,131 @@
 ---
 title: games 2024.04
-updated: 2024-01-23 08:23:04
+updated: 2024-01-24 07:16:25
 ---
 
 # games 2024.04
 
-(date: 2024-01-23 08:23:04)
+(date: 2024-01-24 07:16:25)
+
+---
+
+## Where to find salt in Enshrouded
+
+date: 2024-01-24, updated: 2024-01-24, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/enshrouded-guides/24048414/salt-where-to-find-how-to-get-dried-fur">https://www.polygon.com/enshrouded-guides/24048414/salt-where-to-find-how-to-get-dried-fur</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/enshrouded-guides/24048414/salt-where-to-find-how-to-get-dried-fur">Save to Pocket</a>
+</span>
+
+---
+
+## How to make metal sheets in Enshrouded
+
+date: 2024-01-24, updated: 2024-01-24, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/enshrouded-guides/24047901/metal-sheets-dirt-charcoal-how-to-make-blacksmith-forge">https://www.polygon.com/enshrouded-guides/24047901/metal-sheets-dirt-charcoal-how-to-make-blacksmith-forge</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/enshrouded-guides/24047901/metal-sheets-dirt-charcoal-how-to-make-blacksmith-forge">Save to Pocket</a>
+</span>
+
+---
+
+## Where to find metal scraps in Enshrouded
+
+date: 2024-01-24, updated: 2024-01-24, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/enshrouded-guides/24047319/metal-scraps-where-to-find-how-to-get">https://www.polygon.com/enshrouded-guides/24047319/metal-scraps-where-to-find-how-to-get</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/enshrouded-guides/24047319/metal-scraps-where-to-find-how-to-get">Save to Pocket</a>
+</span>
+
+---
+
+## Where to find torn cloth in Enshrouded
+
+date: 2024-01-24, updated: 2024-01-24, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/enshrouded-guides/24047133/torn-cloth-where-to-find-how-to-get">https://www.polygon.com/enshrouded-guides/24047133/torn-cloth-where-to-find-how-to-get</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/enshrouded-guides/24047133/torn-cloth-where-to-find-how-to-get">Save to Pocket</a>
+</span>
+
+---
+
+## The weakest part of Palworld is, unfortunately, the Pals
+
+date: 2024-01-24, updated: 2024-01-24, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24048413/palworld-creatures-design-behavior-early-access">https://www.polygon.com/24048413/palworld-creatures-design-behavior-early-access</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24048413/palworld-creatures-design-behavior-early-access">Save to Pocket</a>
+</span>
+
+---
+
+## Nintendo will turn off all online play for 3DS and Wii U on April 8
+
+date: 2024-01-24, updated: 2024-01-24, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/23902744/nintendo-3ds-wii-u-online-switchoff">https://www.polygon.com/23902744/nintendo-3ds-wii-u-online-switchoff</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/23902744/nintendo-3ds-wii-u-online-switchoff">Save to Pocket</a>
+</span>
+
+---
+
+## Palworld’s future includes crossplay, PVP, according to new roadmap
+
+date: 2024-01-24, updated: 2024-01-24, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24048974/palworld-roadmap-2024-crossplay-pvp-raids">https://www.polygon.com/24048974/palworld-roadmap-2024-crossplay-pvp-raids</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24048974/palworld-roadmap-2024-crossplay-pvp-raids">Save to Pocket</a>
+</span>
+
+---
+
+## A few of the best games Amazon Prime members can play for free
+
+date: 2024-01-24, updated: 2024-01-24, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go">https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/23771118/amazon-prime-day-gaming-free-games-dlc-cod-warzone-prey-overwatch-2-pokemon-go">Save to Pocket</a>
+</span>
+
+---
+
+## Hellblade took big swings for a AAA game, and now is the time to nab it for $3
+
+date: 2024-01-24, updated: 2024-01-24, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/2024/1/24/24048335/hellblade-senuas-sacrifice-game-story">https://www.polygon.com/gaming/2024/1/24/24048335/hellblade-senuas-sacrifice-game-story</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/2024/1/24/24048335/hellblade-senuas-sacrifice-game-story">Save to Pocket</a>
+</span>
+
+---
+
+## Palworld is playable on Steam Deck, but needs some work
+
+date: 2024-01-23, updated: 2024-01-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24048461/palworld-steam-deck-settings-playable">https://www.polygon.com/24048461/palworld-steam-deck-settings-playable</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24048461/palworld-steam-deck-settings-playable">Save to Pocket</a>
+</span>
 
 ---
 

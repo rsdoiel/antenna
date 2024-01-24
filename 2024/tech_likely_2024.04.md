@@ -1,11 +1,501 @@
 ---
 title: tech likely 2024.04
-updated: 2024-01-23 08:23:04
+updated: 2024-01-24 07:16:25
 ---
 
 # tech likely 2024.04
 
-(date: 2024-01-23 08:23:04)
+(date: 2024-01-24 07:16:25)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-24, from: Dave Winer's Scripting News)
+
+BTW, we're <a href="https://imgs.scripting.com/2024/01/24/slowAllTab.png">aware</a> that the <i>All</i> tab on <a href="https://news.scripting.com/">news.scripting.com</a> is pretty slow. It's taking about 15 seconds to load. There are a lot of ways we can improve the performance, but are first looking into possible problems in the software.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/24.html#a144724">http://scripting.com/2024/01/24.html#a144724</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/24.html#a144724">Save to Pocket</a>
+</span>
+
+---
+
+## OpenWrt, now 20 years old, is crafting its own future-proof reference hardware
+
+date: 2024-01-24, from: Tilde.news
+
+<p><a href="https://tilde.news/s/s8zwhy/openwrt_now_20_years_old_is_crafting_its">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://arstechnica.com/gadgets/2024/01/openwrt-now-20-years-old-is-crafting-its-own-future-proof-reference-hardware/">https://arstechnica.com/gadgets/2024/01/openwrt-now-20-years-old-is-crafting-its-own-future-proof-reference-hardware/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://arstechnica.com/gadgets/2024/01/openwrt-now-20-years-old-is-crafting-its-own-future-proof-reference-hardware/">Save to Pocket</a>
+</span>
+
+---
+
+## The Best Neighborhoods for Starting a Life in the Galaxy
+
+date: 2024-01-24, from: Quanta Magazine
+
+Some neighborhoods in the Milky Way may be better suited for making habitable planets than others.            <p>The post <a href="https://www.quantamagazine.org/the-best-neighborhoods-for-starting-a-life-in-the-galaxy-20240124/" target="_blank">The Best Neighborhoods for Starting a Life in the Galaxy</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/the-best-neighborhoods-for-starting-a-life-in-the-galaxy-20240124/">https://www.quantamagazine.org/the-best-neighborhoods-for-starting-a-life-in-the-galaxy-20240124/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/the-best-neighborhoods-for-starting-a-life-in-the-galaxy-20240124/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Safety Town Hall
+
+date: 2024-01-24, from: NASA breaking news
+
+NASA Administrator Bill Nelson speaks during a NASA Safety Town Hall, Tuesday, Jan. 23, 2024 at the Mary W. Jackson NASA Headquarters building in Washington. The Safety Town Hall is held annually near the Day of Remembrance to learn from past errors and pay tribute to those that lost their lives in the quest for [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasa-safety-town-hall/">https://www.nasa.gov/image-article/nasa-safety-town-hall/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasa-safety-town-hall/">Save to Pocket</a>
+</span>
+
+---
+
+## Obviously, Bigfoots Hang Out With Black Bears
+
+date: 2024-01-24, updated: 2024-01-24, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/01/24/obviously-bigfoots-hang-out-with-black-bears/">https://onefoottsunami.com/2024/01/24/obviously-bigfoots-hang-out-with-black-bears/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/01/24/obviously-bigfoots-hang-out-with-black-bears/">Save to Pocket</a>
+</span>
+
+---
+
+## How NASA Chases and Investigates Bright Cosmic Blips
+
+date: 2024-01-24, from: NASA breaking news
+
+Stephen Lesage’s phone started vibrating just after halftime on Oct. 9, 2022, while he was watching a soccer game in Atlanta with a friend. When Lesage saw the incoming messages, the match no longer seemed important. There had been a rare cosmic event, and he needed to get to his computer immediately. NASA’s Fermi Gamma-Ray […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/directorates/smd/astrophysics-division/how-nasa-chases-and-investigates-bright-cosmic-blips/">https://science.nasa.gov/directorates/smd/astrophysics-division/how-nasa-chases-and-investigates-bright-cosmic-blips/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/directorates/smd/astrophysics-division/how-nasa-chases-and-investigates-bright-cosmic-blips/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-24, from: Dave Winer's Scripting News)
+
+I also watched Nikki Haley speak for the first time last night, and was impressed. She held my attention through the whole speech, and that's hard to do when the Knicks are playing on another channel. I listened carefully to every word. It was a well-written speech and said some things that needed to be said about Trump, things that he won't have a response to, since you can't control or spin how old you are. We can all see Trump aging on screen, even his fans must see it and like those of use who will vote for Biden, they must wonder if he can make it much further. If you had cast a great presidential candidate, in Hollywood, Nikki Haley comes pretty damn close. But while she was speaking I remembered that she is a Republican and thought of Roe v Wade, and remembered that while she might not be able to or even want to fully dismantle democracy, she is backing a form of slavery for all American women. A good actor, but a person I could never trust. But, I just want to say that she should continue to speak. She might be able to pull is in an interesting new direction, not by winning, but by opening people's minds to the idea of a young vital leader engaged in the real world. It would be a nice thing for the good old USA.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/24.html#a133754">http://scripting.com/2024/01/24.html#a133754</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/24.html#a133754">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-24, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/01/24/linsanity.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The Knicks beat the Nets last night, in the way the Knicks used to get beat, in the last minute of the game. I felt bad for the Nets. It wasn't that long ago that the Nets were super-irritating because they had been taken over by two reallllly ugly NBA players, Kevin Durant who isn't worthy of NY's basketball fans, what a total piece of shit, but even worse, his best friend Kyrie who is either a complete fucking idiot, or a Jew-hater. Probably both. Why is he an idiot? Because he accidentally revealed that NBA players probably all hate Jews, not one would speak up for our people. The best they could say is that Kyrie shouldn't have said what he said. How revealing. Not that the Holocaust was real, and is remembered by its children, who were raised to believe it would happen again, as it appears to be. Anyway, the Nets have moved past that, and they are after all a NYC-based team, and are playing with the haplessness of typical our pro teams, and deserve some of our sympathy. But -- not saying the Knicks should have let them win, or that I was even slightly rooting for them. But I was embarrassed that there were far more Knicks fans in attendance than Nets fans, and I still don't admit that there are actually any Nets fans in NYC.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/24.html#a132553">http://scripting.com/2024/01/24.html#a132553</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/24.html#a132553">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-24, from: Dave Winer's Scripting News)
+
+Happy <a href="http://scripting.com/2024/01/23.html">40th</a> to the Mac.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/24.html#a132540">http://scripting.com/2024/01/24.html#a132540</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/24.html#a132540">Save to Pocket</a>
+</span>
+
+---
+
+## The myth of technological inevitability
+
+date: 2024-01-24, from: Dave Karpf's blog
+
+Lessons from the 1990s human cloning debate
+
+<span class="feed-item-link">
+<a href="https://davekarpf.substack.com/p/the-myth-of-technological-inevitability">https://davekarpf.substack.com/p/the-myth-of-technological-inevitability</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://davekarpf.substack.com/p/the-myth-of-technological-inevitability">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Spies Side-by-Side Galaxies
+
+date: 2024-01-24, from: NASA breaking news
+
+A barred spiral galaxy and a lenticular galaxy come together to create this interacting pair known as Arp 140. The lenticular galaxy, NGC 274, is visible on the right side of this new NASA Hubble Space Telescope image, and the barred spiral, NGC 275, is at left. The twosome is located in the constellation Cetus.  Lenticular […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/hubble-spies-side-by-side-galaxies/">https://science.nasa.gov/missions/hubble/hubble-spies-side-by-side-galaxies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/hubble-spies-side-by-side-galaxies/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-24, from: Miguel de Icaza Mastondon feed)
+
+<p>Nobody likes the 30% AppStore fee, but it has never been a credit card processing cost.  </p><p>It has always been a marketplace access fee.</p><p>That’s the principle of building malls and other commercial public spaces: they invest to create a space for people to flock into and advertise and maintain it.  </p><p>That’s what you are paying for.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111811035385319463">https://mastodon.social/@Migueldeicaza/111811035385319463</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111811035385319463">Save to Pocket</a>
+</span>
+
+---
+
+## The grifter web
+
+date: 2024-01-24, from: Alex Schroeder's Blog
+
+<h1>The grifter web</h1>
+
+<p><a class="account" href="https://mastodon.social/@ohhelloana" title="@ohhelloana@mastodon.social">@ohhelloana</a> recently wondered about personal websites. What is it that people like about personal websites?</p>
+
+<p>I think when I search online for a topic, I&rsquo;d love to find pages by people enthusiastic about the topic and not two dozen sites full of ads that give me the impression of being people farms or bot farms. I wouldn&rsquo;t want to miss big non-monetized sites like MDN or Wikipedia, but there are a lot of similar pages that are all strictly worse (the ad/bot variety of the same), and there are some pages by knowledgeable people that discovered this or that and wrote it up on their blog. The same is true for non-technical subjects like gardening.</p>
+
+<p>I want the big non-monetized documentation sites and the personal sites, and I don&rsquo;t care for the monetized sites because I feel they&rsquo;re just leeching off the sites I like: copying the text and pictures directly, or copying them, training their bots on them and regurgitating a mix, inserting themselves as middlemen, trying to profit from that large value gap, slicing it up and taking a share, diminishing the value for the rest of us.</p>
+
+<blockquote>
+<p>grifter (n): a person who swindles you by means of deception or fraud</p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Web">#Web</a></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-01-24-the-grifter-web">https://alexschroeder.ch/view/2024-01-24-the-grifter-web</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-01-24-the-grifter-web">Save to Pocket</a>
+</span>
+
+---
+
+## The rise and fall of the standard user interface
+
+date: 2024-01-24, updated: 2024-01-24, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Retro Tech Week</span> IBM's SAA and CUA brought harmony to software design… until everyone forgot</h4>
+      <p>In the early days of microcomputers, everyone just invented their own user interfaces, until an Apple-influenced IBM standard brought about harmony. Then, sadly, the world forgot.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/24/rise_and_fall_of_cua/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/24/rise_and_fall_of_cua/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/24/rise_and_fall_of_cua/">Save to Pocket</a>
+</span>
+
+---
+
+## Chrome for Windows and macOS gets experimentel “AI” features
+
+date: 2024-01-24, from: OS News
+
+Starting with today’s release of Chrome (M121), we&#8217;re introducing experimental generative AI features to make it even easier and more efficient to browse — all while keeping your experience personalized to you. You’ll be able to try out these new features in Chrome on Macs and Windows PCs over the next few days, starting in the U.S. Just sign into Chrome, select “Settings” from the three-dot menu and navigate to the “Experimental AI” page. Because these features are early public experiments, they’ll be disabled for enterprise and educational accounts for now. ↫ Parisa Tabriz Chrome will automatically suggest tab groups for you (a sorting algorithm, very advanced technology), you can generate themes (mashing other people&#8217;s real art togerher and picking a dominant colour from the result), and Chrome can generate text in text fields (spicy autocomplete). &#8220;AI&#8221; sure is changing the world as we know it.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138438/chrome-for-windows-and-macos-gets-experimentel-ai-features/">https://www.osnews.com/story/138438/chrome-for-windows-and-macos-gets-experimentel-ai-features/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138438/chrome-for-windows-and-macos-gets-experimentel-ai-features/">Save to Pocket</a>
+</span>
+
+---
+
+## No, multimodal ChatGPT is not going to “trivially” solve Generative AI's copyright problems 
+
+date: 2024-01-24, from: Gary Marcus blog
+
+The usually on-target AI Snake Oil got this one wrong; a lot of money is at stake
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/no-multimodal-chatgpt-is-not-going">https://garymarcus.substack.com/p/no-multimodal-chatgpt-is-not-going</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/no-multimodal-chatgpt-is-not-going">Save to Pocket</a>
+</span>
+
+---
+
+## Mozilla creates Firefox ppa and .deb package
+
+date: 2024-01-23, from: OS News
+
+Great news for Linux users, after months of testing, Mozilla released today a new package for Firefox on Linux (specifically on Ubuntu, Debian, and any Debian-based distribution). If you’ve heard about Linux, which is known for its open-source software and an alternative to traditional operating systems (OS), and are curious to learn more, here are four reasons why you should give our new Firefox on Linux package a try. ↫ Gabriel Bustamente and Johan Lorenzo It&#8217;s a ppa and .deb package straight from Mozilla itself, so you don&#8217;t have to to rely on your distribution&#8217;s maintainers (as long as you use a Debian-based distribution, that is). Do note, however, that some distributions actually make changes to the default Firefox code, such as Fedora enabling things like Wayland-by-default and hardware-accelerated video decoding long before those became default in Firefox-proper. By using Mozilla&#8217;s package, you&#8217;ll lose all of these changes. As a sidenote, Mozilla&#8217;s instructions for enabling the ppa and installing the .deb are a bit&#8230; Dubious, though.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138436/mozilla-creates-firefox-ppa-and-deb-package/">https://www.osnews.com/story/138436/mozilla-creates-firefox-ppa-and-deb-package/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138436/mozilla-creates-firefox-ppa-and-deb-package/">Save to Pocket</a>
+</span>
+
+---
+
+## Mother of all breaches reveals 26 billion records: what we know so far
+
+date: 2024-01-23, from: OS News
+
+The supermassive leak contains data from numerous previous breaches, comprising an astounding 12 terabytes of information, spanning over a mind-boggling 26 billion records. The leak, which contains LinkedIn, Twitter, Weibo, Tencent, and other platforms’ user data, is almost certainly the largest ever discovered. ↫ Vilius Petkauskas at cybernews Holy cow.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138434/mother-of-all-breaches-reveals-26-billion-records-what-we-know-so-far/">https://www.osnews.com/story/138434/mother-of-all-breaches-reveals-26-billion-records-what-we-know-so-far/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138434/mother-of-all-breaches-reveals-26-billion-records-what-we-know-so-far/">Save to Pocket</a>
+</span>
+
+---
+
+## iOS 17.3, macOS 14.3, watchOS 10.3, tvOS 17.3 released
+
+date: 2024-01-23, from: OS News
+
+Apple yesterday released iOS and iPadOS 17.3 as well as watchOS 10.3, tvOS 17.3, and macOS Sonoma 14.3 for all supported devices. iOS 17.3 primarily adds collaborative playlists in Apple Music, and what Apple calls &#8220;Stolen Device Protection.&#8221; Collaborative playlists have been on a bit of a journey; they were promised as part of iOS 17, then added in the beta of iOS 17.2, but removed before that update went live. Now they&#8217;re finally reaching all users. When enabled, Stolen Device Protection requires Face ID or Touch ID authentication &#8220;with no passcode fallback&#8221; for some sensitive actions on the phone. ↫ Samuel Axon at Ars Technica This last feature is something you should probably turn on right away, as it serves as a reply to Joanna Stern&#8217;s investigation into an apparently common way iPhones would get stolen to gain access to users&#8217; Apple accounts.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138431/ios-17-3-macos-14-3-watchos-10-3-tvos-17-3-released/">https://www.osnews.com/story/138431/ios-17-3-macos-14-3-watchos-10-3-tvos-17-3-released/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138431/ios-17-3-macos-14-3-watchos-10-3-tvos-17-3-released/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-23, from: Miguel de Icaza Mastondon feed)
+
+<p>Godot on iPad updates: blogging is slightly delayed as I have gone down a wild yak shaving expedition.</p><p>Hacking is proceeding at an accelerated pace and I hope I have something delightful to show soon.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111807733949179017">https://mastodon.social/@Migueldeicaza/111807733949179017</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111807733949179017">Save to Pocket</a>
+</span>
+
+---
+
+## NOAA’s GOES-U Arrives in Florida for Processing Ahead of Launch
+
+date: 2024-01-23, from: NASA breaking news
+
+The Geostationary Operational Environmental Satellite U (GOES-U), the fourth and final weather-observing and environmental monitoring satellite in NOAA’s GOES-R Series, is now in Florida. The satellite landed on Tuesday, Jan. 23, in a United States Air Force C-5M Super Galaxy cargo plane at the Launch and Landing Facility at NASA’s Kennedy Space Center.&#160; Data from [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/directorates/smd/joint-agency-satellite-division/noaa/noaas-goes-u-arrives-in-florida-for-processing-ahead-of-launch/">https://www.nasa.gov/directorates/smd/joint-agency-satellite-division/noaa/noaas-goes-u-arrives-in-florida-for-processing-ahead-of-launch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/directorates/smd/joint-agency-satellite-division/noaa/noaas-goes-u-arrives-in-florida-for-processing-ahead-of-launch/">Save to Pocket</a>
+</span>
+
+---
+
+##  Intriguing new book: Our Moon: How Earth&#8217;s Celestial Companion Transformed the Planet,... 
+
+date: 2024-01-23, updated: 2024-01-23, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043814-intriguing-new-book-our-m">https://kottke.org/24/01/0043814-intriguing-new-book-our-m</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043814-intriguing-new-book-our-m">Save to Pocket</a>
+</span>
+
+---
+
+## The LA Times lays off 115 people, with the De Los and Washington, D.C. teams especially hard-hit
+
+date: 2024-01-23, from: Nieman Journalism Lab
+
+The Los Angeles Times laid off 23% of its newsroom on Tuesday — one of the largest cuts in the paper&#8217;s 142-year history, according to the paper&#8217;s own reporting. Around 385 newsroom positions remain. “We are not in turmoil. We have a real plan,” the paper&#8217;s owner, billionaire businessman Dr. Patrick Soon-Shiong, told L.A. Times...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/the-la-times-lays-off-115-people-with-the-de-los-and-washington-d-c-teams-especially-hard-hit/">https://www.niemanlab.org/2024/01/the-la-times-lays-off-115-people-with-the-de-los-and-washington-d-c-teams-especially-hard-hit/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/the-la-times-lays-off-115-people-with-the-de-los-and-washington-d-c-teams-especially-hard-hit/">Save to Pocket</a>
+</span>
+
+---
+
+## Charging for “Remarkable Alexa”
+
+date: 2024-01-23, from: Michael Tsai
+
+Scharon Harding (via Hacker News): A quote from an anonymous Amazon employee in a Wednesday Business Insider report paints a dire picture. Amazon needs its upcoming subscription version of Alexa to drive revenue in ways that its voice assistant never has before.[&#8230;]All voice assistants have struggled to drive revenue since people tend to use voice [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/23/charging-for-remarkable-alexa/">https://mjtsai.com/blog/2024/01/23/charging-for-remarkable-alexa/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/23/charging-for-remarkable-alexa/">Save to Pocket</a>
+</span>
+
+---
+
+## SwiftUI Main Thread Hang Detector
+
+date: 2024-01-23, from: Michael Tsai
+
+Wade Tregaskis: This is just a little snippet that is quite useful for reporting when your GUI thread (the main thread / actor) hangs for a significant amount of time. There are numerous heavier-weight tools for analysing this sort of thing, but I&#8217;ve found that this simple monitor does what I need most of the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/23/swiftui-main-thread-hang-detector/">https://mjtsai.com/blog/2024/01/23/swiftui-main-thread-hang-detector/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/23/swiftui-main-thread-hang-detector/">Save to Pocket</a>
+</span>
+
+---
+
+## PostScript’s Sudden Death in Sonoma
+
+date: 2024-01-23, from: Michael Tsai
+
+Howard Oakley: Finally, the complete removal of support for PostScript and EPS was recorded as another &#8220;deprecation&#8221; in the release notes for Sonoma: &#8220;macOS has removed the functionality for converting PostScript and EPS files to PDF format. As a result, CoreGraphics&#8217; CGPSConverter returns an error when invoked, ImageIO no longer converts EPS files, NSEPSImageRep does [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/23/postscripts-sudden-death-in-sonoma/">https://mjtsai.com/blog/2024/01/23/postscripts-sudden-death-in-sonoma/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/23/postscripts-sudden-death-in-sonoma/">Save to Pocket</a>
+</span>
+
+---
+
+## Campfire Is ONCE #1
+
+date: 2024-01-23, from: Michael Tsai
+
+Jason Fried: Once upon a time you owned what you paid for, you controlled what you depended on, and your privacy and security were your own business. We think it&#8217;s that time again.Introducing ONCE, a new line of software products from 37signals.Pay one time, own forever.We write the code, you get to see it.We give [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/23/campfire-is-once-1/">https://mjtsai.com/blog/2024/01/23/campfire-is-once-1/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/23/campfire-is-once-1/">Save to Pocket</a>
+</span>
+
+---
+
+## The time to unmaintainable is very low
+
+date: 2024-01-23, from: Dave Rupert blog
+
+<p>It’s so easy nowadays to get up and going on a project. I can burp some <code>npm</code> commands into my terminal, burp some more to setup a deployment pipeline and blam! Website. The time to product demo is so low. You can get far on your own… very quickly… but then… you’re on your own. And it’s possible you’ve built something way past your ability to maintain.</p>
+<p>To fix that problem or to allow you to do more business’y work, you add people to the process. But people cost lots of money. Unless what you’re building makes lots of money already, you probably have to raise VC. With a squad of developers burping <code>npm</code> commands, now you’re moving super fast. Hopefully money starts coming in, but the whole point of investment was so you could price the application artificially cheap to grow a user base that you upsell later. As the investment coffers tick down, the pressure goes up to land a new feature or gimmick so you can get another round of investment.</p>
+<p>You can, of course, ride the hype cycles. This year that’s AI. Investors might throw money at that. But now you’ve bolted on a feature from a highly volatile, emergent, non-deterministic space into your overgrown application. You’ll either need to hire more expensive people who know the space or divert existing resources who were performing maintenance over to the new feature.</p>
+<p>Oops, AI costs more than you can charge for it. You burned through the investment even faster and must do a round of layoffs. Now your app maintained by 10 people has 8 people… then 5… then 2…</p>
+<p>Paying people to burp <code>npm</code> commands is expensive, could AI do that? Vercel’s <a href="https://v0.dev/">v0</a>, for example, farts out entire UIs. Great. In a day I have twelve thousand screens built. I have more UI than some developers will code in a lifetime. But I’m getting the itch to update it and the machine isn’t doing what I want it to… perhaps I’ll take some VC to hire some people to clean up these robo-farts.</p>
+<p>And by the time you finish all that work, it’ll be right in time for a major version update on a core dependency. Good luck out there.</p>
+<p>I realize I’m complaining about moving too fast but that’s not my intent. Although, I could argue that while driving 200mph is fun and exciting, you’re one small fuckup away from a major fuckup. My point is that a key factor of sustainability is making sure maintainability stays on par with growth. At the risk of sounding like a Luddite – <a href="https://amzn.to/3NA62WE">which I am</a> – the ability to <em style="font-family: fantasy;">fancy copy-paste</em> your way into an unmaintainable situation is higher than ever and that’s a trade-off we should think about.</p>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/01/time-to-unmaintainable/">https://daverupert.com/2024/01/time-to-unmaintainable/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/01/time-to-unmaintainable/">Save to Pocket</a>
+</span>
+
+---
+
+##  The 20 best acting performances that didn&#8217;t even get an Oscar nomination... 
+
+date: 2024-01-23, updated: 2024-01-23, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043835-the-20-best-acting-perfor">https://kottke.org/24/01/0043835-the-20-best-acting-perfor</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043835-the-20-best-acting-perfor">Save to Pocket</a>
+</span>
+
+---
+
+##  I&#8217;m late to it this year, but here&#8217;s director Steven Soderbergh&#8217;s list... 
+
+date: 2024-01-23, updated: 2024-01-23, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043836-im-late-to-it-this">https://kottke.org/24/01/0043836-im-late-to-it-this</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043836-im-late-to-it-this">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Shares Newest Results of Moon to Mars Architecture Concept Review
+
+date: 2024-01-23, from: NASA breaking news
+
+NASA released on Tuesday the outcomes of its 2023 Moon to Mars Architecture Concept Review, the agency’s process to build a roadmap for exploration of the solar system for the benefit of humanity. The Moon to Mars architecture approach incorporates feedback from U.S. industry, academia, international partners, and the NASA workforce. The 2023 Architecture Concept [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-shares-newest-results-of-moon-to-mars-architecture-concept-review/">https://www.nasa.gov/news-release/nasa-shares-newest-results-of-moon-to-mars-architecture-concept-review/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-shares-newest-results-of-moon-to-mars-architecture-concept-review/">Save to Pocket</a>
+</span>
+
+---
+
+## Axiom Mission 3 Launches to the International Space Station
+
+date: 2024-01-23, from: NASA breaking news
+
+A SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft lifts off from NASA’s Kennedy Space Center in Florida on Thursday, Jan. 18, 2024. Axiom Space’s Axiom Mission 3 (Ax-3) is the third all-private astronaut mission to the space station, sending crew members Commander Michael López-Alegría, Pilot Walter Villadei of Italy, Mission Specialist Alper Gezeravcı [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/axiom-mission-3-launches-to-the-international-space-station/">https://www.nasa.gov/image-article/axiom-mission-3-launches-to-the-international-space-station/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/axiom-mission-3-launches-to-the-international-space-station/">Save to Pocket</a>
+</span>
+
+---
+
+## I Am Artemis: Erick Holsonback
+
+date: 2024-01-23, from: NASA breaking news
+
+Whether he’s advising student robotic competitions or managing production of a powerful, new Moon rocket stage, Erick Holsonback meets technical challenges with enthusiasm. Holsonback, a Jacobs Technology employee, is subsystem manager for production and launch operations of the exploration upper stage (EUS) for NASA’s SLS (Space Launch System) rocket. SLS is NASA’s super heavy lift [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/i-am-artemis-erick-holsonback/">https://www.nasa.gov/image-article/i-am-artemis-erick-holsonback/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/i-am-artemis-erick-holsonback/">Save to Pocket</a>
+</span>
+
+---
+
+## What Is a Language Model, and Why Should You Care?
+
+date: 2024-01-23, from: Care
+
+
+                <p>An explainer of language models and how they work, and their limits.</p>
+
+            
+
+<span class="feed-item-link">
+<a href="https://logicmag.io/policy/what-is-a-language-model">https://logicmag.io/policy/what-is-a-language-model</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/policy/what-is-a-language-model">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s DC-8 to Fly Low-Altitude Over Central Valley, CA
+
+date: 2024-01-23, from: NASA breaking news
+
+What:&#160;NASA Armstrong Flight Research Center’s DC-8 aircraft will fly over Central Valley and surroundings areas as part of an air quality field study. Residents in the areas below will see and hear the aircraft as it flies to achieve these measurements.&#160;&#160; Where:&#160;Central Valley, CA and surrounding areas&#160; When:&#160;Tuesday, January 23, 2024 at mid-morning to early [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasas-dc-8-to-fly-low-altitude-over-central-valley-ca/">https://www.nasa.gov/news-release/nasas-dc-8-to-fly-low-altitude-over-central-valley-ca/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasas-dc-8-to-fly-low-altitude-over-central-valley-ca/">Save to Pocket</a>
+</span>
+
+---
+
+## One big, one little
+
+date: 2024-01-23, from: Dave Rupert blog
+
+<p>I often feel overwhelmed deciding what to do with my spare time. It’s a problem with volume moreso than ambition. When the feeling hit the other weekend I scribbled down seven ideas <a href="https://daverupert.com/2023/02/bag-of-distractions/">rattling around in my head</a> and stared at the list blankly. I’ve used different prioritization systems in the past like the Eisenhower matrix (Urgent vs. Important) and the Six Sigma matrix (Effort vs Impact); and while those are good for evaluating required tasks… none of those work well for voluntary activities self-created by a <a href="https://daverupert.com/2024/01/not-a-collector/">serial project starter</a>.</p>
+<p>I need a system that helps prioritize <em>and</em> load balance projects I give myself. When free time shows up, I don’t want to waste time doomscrolling on social media or being in a state of overwhelm, I want to hop right in to an idea. I also don’t want seven big thought benders occupying my brain RAM at all times, I need less background noise. After some thought, a tiny mantra started kicking around in my head, “One big, one little.”</p>
+<p>If I artificially limit myself to having one major and one minor active side project at a time, my agility goes up because I’m not doing ten projects at once, I’m doing one or two. When one <a href="https://daverupert.com/2022/04/productivity-sniped-by-para/">project finishes</a>, I move to the next best idea that fits the available slot. I will never be taking on too much and it’s easier to say “no” to new distractions if I have to substitute projects.</p>
+<p>Why two projects? Why not one? That would be the ultimate focus state, but believe it or not it’s an intentional move because my pockets of free time are differently sized. In my mind, a big project takes a week or a month while a little project takes a day or less. You can slice up big projects into smaller projects, but that itself is a small planning project. I also like variety.</p>
+<p>And because I have more than two responsibilities in life, one slight modification to this system might be to have one big, one little project for each major area of my life.</p>
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>Big</th>
+<th>Little</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Work</td>
+<td>Learn algorithms</td>
+<td>Write a blog post</td>
+</tr>
+<tr>
+<td>Personal</td>
+<td>Make a game</td>
+<td>Build a Gundam</td>
+</tr>
+<tr>
+<td>Family</td>
+<td>Clean garage</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+<p>Careful! Adding more areas will put me back where I started, but 3 to 5 areas seems about right. What’s different between this list and the list of seven ideas I made the other day? Not much except that areas of my life tend to occupy particular timeframes: Work is during the day, Personal is during the evenings, and Family is after school and weekends. In practice my boundaries overlap (e.g. my work feeds my family) but it’s pretty easy for me to discern which area of my life needs attention.</p>
+<p>I like how this limited structure builds some resilience against “crash-ins” like urgent emails, taxes, or car problems. Those surprise projects tend to be disproportionately problematic for me, like delivering a new piece of furniture to an already crowded living room. If I’m abiding in the one-in/one-out approach, a crash-in must take the place of something else in that respective area. That paradigm is much easier to manage than my current thought technology; a giant Jenga tower of obligations.</p>
+<p>No idea if this holds up but this past week I’ve been more focused and centered than ever. Yesterday I cleared out a big work-related project and freed up some mental allocation. Wiping a project off the board and seeing a blank space made finishing the project even sweeter. Then last night I had some extra energy after bedtime and decided to work on a fun project for my podcast. I got about 80% finished in one night. Before (like the last four weeks) I would have felt guilty or distracted about picking up that project while thinking about four others I could/should be doing.</p>
+<p>That’s my new “One big, one little” system. Now when a rogue idea sneaks into my periphery, I can chant my mantra and ward away those little demons.</p>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/01/one-big-one-little/">https://daverupert.com/2024/01/one-big-one-little/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/01/one-big-one-little/">Save to Pocket</a>
+</span>
+
+---
+
+## Stop your phone distracting you by stashing it in a mini mailbox
+
+date: 2024-01-23, from: Raspberry Pi News (.com)
+
+<p>Guy Dupont found himself getting distracted from his creative quests by his phone, so he fashioned something delightfully meta to manage his mail. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/stop-your-phone-distracting-you-by-stashing-it-in-a-mini-mailbox/">Stop your phone distracting you by stashing it in a mini mailbox</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/stop-your-phone-distracting-you-by-stashing-it-in-a-mini-mailbox/">https://www.raspberrypi.com/news/stop-your-phone-distracting-you-by-stashing-it-in-a-mini-mailbox/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/stop-your-phone-distracting-you-by-stashing-it-in-a-mini-mailbox/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -321,6 +811,60 @@ date: 2024-01-23, from: Asilomar Microcomputer Workshop News
 
 <span class="feed-item-link">
 <a href="https://amw.org/registration-now-open-for-2024-please-read/">https://amw.org/registration-now-open-for-2024-please-read/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://amw.org/registration-now-open-for-2024-please-read/">Save to Pocket</a>
+</span>
+
+---
+
+## Share your feedback about developing with Go
+
+date: 2024-01-23, updated: 2024-01-23, from: Go language blog
+
+Help shape the future of Go by sharing your thoughts via the Go Developer Survey
+
+<span class="feed-item-link">
+<a href="https://go.dev/blog/survey2024-h1">https://go.dev/blog/survey2024-h1</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.dev/blog/survey2024-h1">Save to Pocket</a>
+</span>
+
+---
+
+## pgmoneta 0.8
+
+date: 2024-01-23, from: PostgreSQL News
+
+<p>The <a href="https://pgmoneta.github.io/">pgmoneta</a> community is happy to
+announce version <a href="https://pgmoneta.github.io/release/announcement/2024/01/18/pgmoneta-0.8.0.html">0.8.0</a>.</p>
+<p><strong>New features</strong></p>
+<ul>
+<li>Offline mode</li>
+<li>WAL shipping support</li>
+<li>Support server side compression</li>
+<li>Add create_slot functionality</li>
+</ul>
+<p><strong>pgmoneta</strong></p>
+<p><a href="https://pgmoneta.github.io/">pgmoneta</a> is a backup / restore solution for <a href="https://www.postgresql.org/">PostgreSQL</a> 12+.</p>
+<p>Read our <a href="https://pgmoneta.github.io/gettingstarted.html">getting started</a> guide to setup
+<a href="https://pgmoneta.github.io/">pgmoneta</a> for your backup needs.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Full backup</li>
+<li>Restore</li>
+<li>Compression (gzip, zstd, lz4, bzip2)</li>
+<li>AES encryption support</li>
+<li>Symlink support</li>
+<li>WAL shipping support</li>
+<li>Prometheus support</li>
+<li>Remote management</li>
+<li>Offline mode</li>
+<li>Transport Layer Security (TLS) v1.2+ support</li>
+<li>Daemon mode</li>
+<li>User vault</li>
+</ul>
+<p>Learn more on our <a href="https://pgmoneta.github.io/">web site</a> or <a href="https://github.com/pgmoneta/pgmoneta">GitHub</a>.
+Follow on <a href="https://twitter.com/pgmoneta">Twitter</a>.</p>
+<p><a href="https://pgmoneta.github.io/">pgmoneta</a> is released under the <a href="https://opensource.org/licenses/BSD-3-Clause">3-clause BSD license</a>.</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/pgmoneta-08-2793/">https://www.postgresql.org/about/news/pgmoneta-08-2793/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pgmoneta-08-2793/">Save to Pocket</a>
 </span>
 
 ---
@@ -891,6 +1435,18 @@ date: 2024-01-22, from: Raspberry Pi News (.com)
 
 <span class="feed-item-link">
 <a href="https://www.raspberrypi.com/news/10-side-quests-for-the-rookie-adventurer-magpimonday/">https://www.raspberrypi.com/news/10-side-quests-for-the-rookie-adventurer-magpimonday/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/10-side-quests-for-the-rookie-adventurer-magpimonday/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024/01/22 DARPA Reboots AI Tools for Adult Learning Competition
+
+date: 2024-01-22, from: Darpa News
+
+<div style="float:left"><img title="A senior cadet attends a class remotely via video chat from her dorm room on March 19, 2020 in Vandenberg Hall at the U.S. Air Force Academy. DARPA program manager Wil Corvey envisions AI tutoring as a way to enhance remote and self-directed learning. (U.S. Air Force photo/Trevor Cokley)" alt="A senior cadet attends a class remotely via video chat from her dorm room on March 19, 2020 in Vandenberg Hall at the U.S. Air Force Academy. DARPA program manager Wil Corvey envisions AI tutoring as a way to enhance remote and self-directed learning. (U.S. Air Force photo/Trevor Cokley)" src="https://www.darpa.mil/DDM_Gallery/aitools-619-2_thumb.png" border="0"/></div>Technological advances and changes in economic conditions are shifting the skills needed to build an adaptive and successful workforce.  As underscored in the 2023 National Defense Science &amp; Technology Strategy, the United States cannot create 21st-century capabilities using 20th-century education practices. The World Economic Forum (WEF) further predicts that by 2025, 50% of all workers worldwide will need reskilling to compete in the market. The increasing reliance on technology in jobs across the market has imposed additional challenges for the workforce, especially for those from low-income and historically marginalized populations.
+
+<span class="feed-item-link">
+<a href="https://www.darpa.mil/news-events/2024-01-22">https://www.darpa.mil/news-events/2024-01-22</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.darpa.mil/news-events/2024-01-22">Save to Pocket</a>
 </span>
 
 ---

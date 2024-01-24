@@ -1,11 +1,368 @@
 ---
 title: socal north 2024.04
-updated: 2024-01-23 08:23:04
+updated: 2024-01-24 07:16:25
 ---
 
 # socal north 2024.04
 
-(date: 2024-01-23 08:23:04)
+(date: 2024-01-24 07:16:25)
+
+---
+
+## Op-ed: ‘We will not wait for the next school shooting’
+
+date: 2024-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s Note: The following is a student-written op-ed, signed by over 110 student leaders and meant to be published simultaneously across over 40 student newspapers. The breadth of this op-ed is national and includes public and private universities.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/24/op-ed-we-will-not-wait-for-the-next-school-shooting/">https://dailybruin.com/2024/01/24/op-ed-we-will-not-wait-for-the-next-school-shooting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/24/op-ed-we-will-not-wait-for-the-next-school-shooting/">Save to Pocket</a>
+</span>
+
+---
+
+## Lecturers Make Up The Majority Of CSU Faculty. Will They Take The University’s Deal?
+
+date: 2024-01-24, updated: 2024-01-24, from: The LAist
+
+Just over half of faculty work part-time and more than half of CSU faculty do not have long-term job security.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/california-state-university-csu-strike-2024-part-time-faculty">https://laist.com/news/education/california-state-university-csu-strike-2024-part-time-faculty</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/california-state-university-csu-strike-2024-part-time-faculty">Save to Pocket</a>
+</span>
+
+---
+
+## Duo Mobile changes authentication process
+
+date: 2024-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC employees must now use Duo Verified Push to access their University accounts.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/24/duo-mobile-changes-authentication-process/">Duo Mobile changes authentication process</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/24/duo-mobile-changes-authentication-process/">https://dailytrojan.com/2024/01/24/duo-mobile-changes-authentication-process/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/24/duo-mobile-changes-authentication-process/">Save to Pocket</a>
+</span>
+
+---
+
+## USG debates street safety, LA housing
+
+date: 2024-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The senate tabled a resolution to support a South Central housing project.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/24/usg-debates-street-safety-la-housing/">USG debates street safety, LA housing</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/24/usg-debates-street-safety-la-housing/">https://dailytrojan.com/2024/01/24/usg-debates-street-safety-la-housing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/24/usg-debates-street-safety-la-housing/">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – January 24, 2024
+
+date: 2024-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/24/classifieds-january-24-2024/">Classifieds &#8211; January 24, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/24/classifieds-january-24-2024/">https://dailytrojan.com/2024/01/24/classifieds-january-24-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/24/classifieds-january-24-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## We will not wait for the next school shooting
+
+date: 2024-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In an op-ed running in over 50 college newspapers across the country, the Daily Trojan joins the UNC Chapel Hill March for Our Lives chapter to condemn the country’s inaction in addressing gun violence.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/24/we-will-not-wait-for-the-next-school-shooting/">We will not wait for the next school shooting</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/24/we-will-not-wait-for-the-next-school-shooting/">https://dailytrojan.com/2024/01/24/we-will-not-wait-for-the-next-school-shooting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/24/we-will-not-wait-for-the-next-school-shooting/">Save to Pocket</a>
+</span>
+
+---
+
+## Dear ‘Saltburn,’ dubious consent isn’t sexy
+
+date: 2024-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The discussions about Saltburn on TikTok raise concerns about consent.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/24/dear-saltburn-dubious-consent-isnt-sexy/">Dear ‘Saltburn,’ dubious consent isn&#8217;t sexy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/24/dear-saltburn-dubious-consent-isnt-sexy/">https://dailytrojan.com/2024/01/24/dear-saltburn-dubious-consent-isnt-sexy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/24/dear-saltburn-dubious-consent-isnt-sexy/">Save to Pocket</a>
+</span>
+
+---
+
+## Super SoCal hockey bros
+
+date: 2024-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Shai and Zeev Buium are superprospect brothers further fueling the rise of SoCal hockey. </p>
+<p>The post <a href="https://dailytrojan.com/2024/01/24/super-socal-hockey-bros/">Super SoCal hockey bros</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/24/super-socal-hockey-bros/">https://dailytrojan.com/2024/01/24/super-socal-hockey-bros/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/24/super-socal-hockey-bros/">Save to Pocket</a>
+</span>
+
+---
+
+## Unbox your different personalities
+
+date: 2024-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>We identify ourselves in finites such as hobbies and skills, so why not by the creative fashion decisions we make on a daily basis?</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/24/unbox-your-different-personalities/">Unbox your different personalities</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/24/unbox-your-different-personalities/">https://dailytrojan.com/2024/01/24/unbox-your-different-personalities/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/24/unbox-your-different-personalities/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s tennis sets up for big matches down South
+
+date: 2024-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans will take on two ranked teams during the ITA Kickoff Weekend.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/24/198467/">Women’s tennis sets up for big matches down South</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/24/198467/">https://dailytrojan.com/2024/01/24/198467/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/24/198467/">Save to Pocket</a>
+</span>
+
+---
+
+## How to be an Undocu-Ally
+
+date: 2024-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University and its students still need to improve their advocacy for undocumented students. </p>
+<p>The post <a href="https://dailytrojan.com/2024/01/24/how-to-be-an-undocu-ally/">How to be an Undocu-Ally</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/24/how-to-be-an-undocu-ally/">https://dailytrojan.com/2024/01/24/how-to-be-an-undocu-ally/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/24/how-to-be-an-undocu-ally/">Save to Pocket</a>
+</span>
+
+---
+
+## Looking toward the Electric Future
+
+date: 2024-01-24, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A former provost hosts the newly released podcast created by a team at USC.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/24/looking-toward-the-electric-future/">Looking toward the Electric Future</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/24/looking-toward-the-electric-future/">https://dailytrojan.com/2024/01/24/looking-toward-the-electric-future/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/24/looking-toward-the-electric-future/">Save to Pocket</a>
+</span>
+
+---
+
+## CFA and CSU reach tentative agreement after one day of systemwide strike
+
+date: 2024-01-24, from: The Sundail (CSUN Student Newspaper)
+
+After one day in a planned five-day systemwide strike, the California Faculty Association (CFA) and California State University (CSU) management have come to a tentative agreement. In a press release put out by the CFA following the agreement, some of the terms that CSU has agreed to are “5-percent General Salary Increase for all faculty...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177945/news/cfa-and-csu-reach-tentative-agreement-after-one-day-of-systemwide-strike/">https://sundial.csun.edu/177945/news/cfa-and-csu-reach-tentative-agreement-after-one-day-of-systemwide-strike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177945/news/cfa-and-csu-reach-tentative-agreement-after-one-day-of-systemwide-strike/">Save to Pocket</a>
+</span>
+
+---
+
+## Long-awaited Bruin Reflection Space serves as location for meditation and prayer
+
+date: 2024-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students and staff gathered at Ackerman Union on Friday afternoon to celebrate the opening of the newly established Bruin Reflection Space. 
+The Bruin Reflection Space, located near the south side of Ackerman Union, was jointly created by the University Religious Conference, UCLA Campus Life and Associated Students UCLA to provide students with a safe space for meditation and prayer.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/23/long-awaited-bruin-reflection-space-serves-as-location-for-meditation-and-prayer/">https://dailybruin.com/2024/01/23/long-awaited-bruin-reflection-space-serves-as-location-for-meditation-and-prayer/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/23/long-awaited-bruin-reflection-space-serves-as-location-for-meditation-and-prayer/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA students share their experience attending STEM-focused career fair
+
+date: 2024-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Career Center hosted a STEM-focused job fair Thursday afternoon to connect students with nearly 30 potential employers. 
+Hundreds of students attended the fair, which was hosted from 3 to 7 p.m.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/23/ucla-students-share-their-experience-attending-stem-focused-career-fair/">https://dailybruin.com/2024/01/23/ucla-students-share-their-experience-attending-stem-focused-career-fair/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/23/ucla-students-share-their-experience-attending-stem-focused-career-fair/">Save to Pocket</a>
+</span>
+
+---
+
+## U.S. Senate candidates share visions for California in first debate
+
+date: 2024-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+Candidates made their case to Californians on Monday during the first debate for a United States Senate seat.
+The University of Southern California Dornsife Center for the Political Future co-hosted the debate with POLITICO and FOX 11 Los Angeles at the university&#8217;s Bovard Auditorium.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/23/u-s-senate-candidates-share-visions-for-california-in-first-debate/">https://dailybruin.com/2024/01/23/u-s-senate-candidates-share-visions-for-california-in-first-debate/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/23/u-s-senate-candidates-share-visions-for-california-in-first-debate/">Save to Pocket</a>
+</span>
+
+---
+
+## OC Leaders Tussle Over Ethics And Transparency After LAist Reporting On Top Official
+
+date: 2024-01-24, updated: 2024-01-24, from: The LAist
+
+The ethics proposal deadlocked among O.C. supervisors 2-to-2. O.C. Supervisor Andrew Do, who directed millions to his daughter’s nonprofit without publicly disclosing the connection, was absent for the vote.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/orange-county-ethics-reforms-supervisor-andrew-do-taxpayer-dollars-daughter-viet-america-society">https://laist.com/news/politics/orange-county-ethics-reforms-supervisor-andrew-do-taxpayer-dollars-daughter-viet-america-society</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/orange-county-ethics-reforms-supervisor-andrew-do-taxpayer-dollars-daughter-viet-america-society">Save to Pocket</a>
+</span>
+
+---
+
+## Op-ed: UCLA must uphold values in and out of classroom, condemn genocide of Palestinians
+
+date: 2024-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+This<em> post was updated Jan. 23 at 9:42 p.m.&#160;</em>
+We, UCLA Faculty for Justice in Palestine, are UCLA faculty members bound together by these core principles.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/23/ucla-must-uphold-values-condemn-palestinian-genocide-in-and-outside-classrooms/">https://dailybruin.com/2024/01/23/ucla-must-uphold-values-condemn-palestinian-genocide-in-and-outside-classrooms/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/23/ucla-must-uphold-values-condemn-palestinian-genocide-in-and-outside-classrooms/">Save to Pocket</a>
+</span>
+
+---
+
+## The Bruin Recipes initiative aims to bring a taste of home to UCLA dining halls
+
+date: 2024-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 23 at 6:40 p.m.</em>
+A recent initiative by UCLA Dining – aptly named “Bruin Recipes” – aims to cook up global dishes sourced from UCLA students.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/23/the-bruin-recipes-initiative-aims-to-bring-a-taste-of-home-to-ucla-dining-halls/">https://dailybruin.com/2024/01/23/the-bruin-recipes-initiative-aims-to-bring-a-taste-of-home-to-ucla-dining-halls/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/23/the-bruin-recipes-initiative-aims-to-bring-a-taste-of-home-to-ucla-dining-halls/">Save to Pocket</a>
+</span>
+
+---
+
+## Thousands Of Volunteers To Comb The Region And Tally The Number Of Unhoused People
+
+date: 2024-01-23, updated: 2024-01-23, from: The LAist
+
+Over the next three days, volunteers will spread out across 4,000 miles of Los Angeles County to count their unhoused neighbors.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/2024-homeless-count-la-county-unhoused">https://laist.com/news/housing-homelessness/2024-homeless-count-la-county-unhoused</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/2024-homeless-count-la-county-unhoused">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “A Coquette Twist”
+
+date: 2024-01-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/23/editorial-cartoon-a-coquette-twist/">https://dailybruin.com/2024/01/23/editorial-cartoon-a-coquette-twist/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/23/editorial-cartoon-a-coquette-twist/">Save to Pocket</a>
+</span>
+
+---
+
+## Fall to Arizona marks UCLA men’s basketball’s tenth loss under 10-point-margin
+
+date: 2024-01-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 23 at 10:57 p.m.&#160;</em>
+The curse seemingly lifted.
+With consecutive victories, the Bruins snapped a four-game skid. In the latter, they came out on top of a tight affair via a double-digit comeback – a rare occurrence.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/23/fall-to-arizona-marks-ucla-mens-basketballs-tenth-loss-under-10-point-margin/">https://dailybruin.com/2024/01/23/fall-to-arizona-marks-ucla-mens-basketballs-tenth-loss-under-10-point-margin/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/23/fall-to-arizona-marks-ucla-mens-basketballs-tenth-loss-under-10-point-margin/">Save to Pocket</a>
+</span>
+
+---
+
+## Students launch hunger strike, pressure UC Regents to hire undocumented students
+
+date: 2024-01-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 23 at 11:50 p.m.&#160;</em>
+Over a dozen student activists from across the UC system launched a hunger strike Tuesday, hoping to pressure the UC Board of Regents to follow through on its promises to open on-campus employment opportunities for the University’s nearly 4,000 students without legal status.&#160;
+The escalation is the latest development in the “Opportunity for All” campaign backed by progressive legal scholars and undocumented student organizers, which was launched in October 2022 at UCLA.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/23/students-launch-hunger-strike/">https://dailybruin.com/2024/01/23/students-launch-hunger-strike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/23/students-launch-hunger-strike/">Save to Pocket</a>
+</span>
+
+---
+
+## Book preview: Winter releases bring rhapsodic romance and posthumous publication
+
+date: 2024-01-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 23 at 7:38 p.m.&#160;</em>
+Winter reads will undoubtedly warm bookworms’ hearts.
+As temperatures fall, excitement for new books rises. From thrilling heists to touching romance, this season brings a blizzard of enthralling stories that will sweep bibliophiles off their feet.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/23/book-preview-winter-releases-bring-rhapsodic-romance-and-posthumous-publication/">https://dailybruin.com/2024/01/23/book-preview-winter-releases-bring-rhapsodic-romance-and-posthumous-publication/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/23/book-preview-winter-releases-bring-rhapsodic-romance-and-posthumous-publication/">Save to Pocket</a>
+</span>
+
+---
+
+## The Story of Palestine
+
+date: 2024-01-23, from: The Sundail (CSUN Student Newspaper)
+
+For about 100 years, the question of Palestine has remained unresolved and unanswered – characterized by failed diplomacy, violent uprisings and a difference on how Israelis and Palestinians seek to answer this question. CSUN organizations such as Students for Justice in Palestine and Students Supporting Israel seek to answer this question amidst the Israel-Hamas war....
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177938/news/the-story-of-palestine/">https://sundial.csun.edu/177938/news/the-story-of-palestine/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177938/news/the-story-of-palestine/">Save to Pocket</a>
+</span>
+
+---
+
+## Los Angeles Times Informs Around 20% Of Its Newsroom Staff That They're Being Cut
+
+date: 2024-01-23, updated: 2024-01-24, from: The LAist
+
+More than 100 employees were notified Tuesday that they were going to be laid off.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/los-angeles-times-to-cut-around-20-of-its-newsroom">https://laist.com/news/los-angeles-times-to-cut-around-20-of-its-newsroom</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/los-angeles-times-to-cut-around-20-of-its-newsroom">Save to Pocket</a>
+</span>
+
+---
+
+## ‘My way or no way’: Ciena Alipio talks perseverance through injury
+
+date: 2024-01-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 23 at 11:02 p.m.&#160;</em>
+When Ciena Alipio got injured during the preseason, she experienced a moment of doubt.
+It was the sophomore&#8217;s second consecutive year entering an NCAA season potentially sidelined.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/23/my-way-or-no-way-ciena-alipio-talks-perseverance-through-injury/">https://dailybruin.com/2024/01/23/my-way-or-no-way-ciena-alipio-talks-perseverance-through-injury/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/23/my-way-or-no-way-ciena-alipio-talks-perseverance-through-injury/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -135,12 +492,12 @@ date: 2024-01-23, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## McCarthy Quad to remain closed until early april
+## McCarthy Quad to remain closed until early April
 
 date: 2024-01-23, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The lawn was left damaged after the rainy setup of a canopy for Convocation.</p>
-<p>The post <a href="https://dailytrojan.com/2024/01/23/mccarthy-quad-closed-until-early-april/">McCarthy Quad to remain closed until early april</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/23/mccarthy-quad-closed-until-early-april/">McCarthy Quad to remain closed until early April</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
 
 
 <span class="feed-item-link">
@@ -165,7 +522,7 @@ date: 2024-01-23, from: The Daily Trojan (USC Student Newspaper)
 
 ## After Only One Day On Strike, CSU And Faculty Agree To Terms
 
-date: 2024-01-23, updated: 2024-01-23, from: The LAist
+date: 2024-01-23, updated: 2024-01-24, from: The LAist
 
 California State University faculty walked off the job Monday, to protest for better pay, working conditions, and other changes. By the end of the day, their union had agreed to terms with the university’s management.
 
@@ -239,7 +596,7 @@ Entering the game Thursday night, the Matadors (13-6, 4-3 Big West) matched up a
 
 date: 2024-01-23, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Jan. 22 at 7:53 p.m.</em>
+<em>This post was updated Jan. 23 at 10:54 p.m.</em>
 For the second consecutive season, a last-second basket helped sink the Bruins in Salt Lake City.
 Last year, Utah forward Alissa Pili scored the game-winning layup with less than a second remaining to take down UCLA.
 
@@ -277,8 +634,8 @@ County records obtained by LAist show O.C. Supervisor Andrew Do directed an addi
 
 date: 2024-01-23, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 23 at 7:43 p.m.&#160;</em>
 The public is getting a front row ticket to government processes, and Mark DiCristofaro is the producer.
-A current student in the Master of Legal Studies program at UCLA, DiCristofaro is also the vice president of production for Matador Content.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/22/sundance-2024-qa-how-mark-dicristofaros-war-game-transcends-the-traditional-documentary/">https://dailybruin.com/2024/01/22/sundance-2024-qa-how-mark-dicristofaros-war-game-transcends-the-traditional-documentary/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/22/sundance-2024-qa-how-mark-dicristofaros-war-game-transcends-the-traditional-documentary/">Save to Pocket</a>
@@ -290,6 +647,7 @@ A current student in the Master of Legal Studies program at UCLA, DiCristofaro i
 
 date: 2024-01-22, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 23 at 11:06 p.m.&#160;</em>
 Saturday marked a new beginning for the Bruins.
 UCLA track and field started its 2024 indoor season in Albuquerque, New Mexico, on Saturday at the Dr.
 
@@ -315,8 +673,8 @@ A little more rain and snow would be nice.
 
 date: 2024-01-22, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 23 at 11:04 p.m.&#160;</em>
 The Bruins kicked off their season over the weekend with three wins with help from the freshmen class.
-No. 3 UCLA&#8217;s women&#8217;s water polo (3-0) competed at the UCSB Winter Invitational over the weekend and took home wins against No.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/22/ucla-womens-water-polo-begins-new-season-with-wins/">https://dailybruin.com/2024/01/22/ucla-womens-water-polo-begins-new-season-with-wins/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/22/ucla-womens-water-polo-begins-new-season-with-wins/">Save to Pocket</a>
@@ -544,8 +902,9 @@ After just over one year in office, Los Angeles Mayor Karen Bass has centered he
 
 date: 2024-01-22, from: The Daily Bruin (UCLA Student Newspaper)
 
-There&#8217;s nobody the Suchecki twins would rather be Royal Fools with than each other.
-The Fools&#8217; musical journey began in their freshman year of high school when they decided to start writing music together, August Suchecki said.
+<em>This post was updated Jan. 23 at 7:27 p.m.&#160;</em>
+There’s nobody the Suchecki twins would rather be Royal Fools with than each other.
+The Fools’ musical journey began in their freshman year of high school when they decided to start writing music together, August Suchecki said.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/21/suchecki-twins-and-bandmates-of-royal-fools-navigate-growth-musical-trajectory/">https://dailybruin.com/2024/01/21/suchecki-twins-and-bandmates-of-royal-fools-navigate-growth-musical-trajectory/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/21/suchecki-twins-and-bandmates-of-royal-fools-navigate-growth-musical-trajectory/">Save to Pocket</a>

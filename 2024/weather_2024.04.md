@@ -1,19 +1,19 @@
 ---
 title: weather 2024.04
-updated: 2024-01-23 08:23:04
+updated: 2024-01-24 07:16:25
 ---
 
 # weather 2024.04
 
-(date: 2024-01-23 08:23:04)
+(date: 2024-01-24 07:16:25)
 
 ---
 
-## SPC - No watches are valid as of Tue Jan 23 14:59:01 UTC 2024
+## SPC - No watches are valid as of Wed Jan 24 15:01:02 UTC 2024
 
-date: 2024-01-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-01-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Jan 23 14:59:01 UTC 2024.
+No watches are valid as of Wed Jan 24 15:01:02 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
@@ -21,11 +21,11 @@ No watches are valid as of Tue Jan 23 14:59:01 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Tue Jan 23 14:59:01 UTC 2024
+## SPC - No MDs are in effect as of Wed Jan 24 15:01:02 UTC 2024
 
-date: 2024-01-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-01-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Jan 23 14:59:01 UTC 2024.
+No Mesoscale Discussions are in effect as of Wed Jan 24 15:01:02 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
@@ -33,45 +33,59 @@ No Mesoscale Discussions are in effect as of Tue Jan 23 14:59:01 UTC 2024.
 
 ---
 
-## SPC Jan 23, 2024 1300 UTC Day 1 Convective Outlook
+## SPC Jan 24, 2024 1300 UTC Day 1 Convective Outlook
 
-date: 2024-01-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-01-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0700 AM CST Tue Jan 23 2024
+0655 AM CST Wed Jan 24 2024
 
-Valid 231300Z - 241200Z
+Valid 241300Z - 251200Z
 
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM SOUTH TEXAS
-NORTHEASTWARD ACROSS THE COASTAL PLAIN TO WESTERN LOUISIANA...
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM SOUTH TEXAS
+TO THE CENTRAL GULF COAST AREA...
 
 ...SUMMARY...
-Isolated strong to severe thunderstorms will be possible today and
-tonight from south Texas into western Louisiana.
+A few severe thunderstorms may occur today from South Texas to the
+central Gulf Coast region. The best chance for a tornado or two, and
+a few severe-caliber wind gusts, appears to be across southern
+Louisiana and Mississippi.
 
-...South Texas and the Coastal Plain into western Louisiana...
-Showers and scattered/elevated thunderstorms are ongoing this
-morning across Texas, in tandem with a southwesterly mid-level jet
-that will continue advancing northeastward out of Mexico across the
-southern Plains through tonight.  Instability remains weak, and
-generally elevated atop a cool/still-stable boundary layer, with
-small hail locally approaching severe levels possible, as waves of
-convection spread across the area.
+...South Texas to the central Gulf Coast region...
+Widespread convection is ongoing this morning from South Texas to
+Mississippi, in the vicinity of a cold front that extends across
+this region.  While an outflow-reinforced push of the front has
+moved into the northwestern Gulf, the otherwise slow-moving front
+should become nearly quasi-stationary with time, as a short-wave
+trough ejects northeastward across the southern Plains through the
+period.
 
-Nearer the coast, as a very weak surface low develops over east
-Texas today, some inland advection of more moist gulf air will
-continue, with potential that a few near-surface-based storms
-eventually evolve this afternoon.  This convection could pose local
-risk for gusty/damaging winds, and possibly a brief/weak tornado or
-two, though modest CAPE/weak lapse rates will limit severe potential
-despite favorably strong/veering flow with height.  Some risk for
-gusty winds should eventually spread into parts of western
-Louisiana, though severe potential will remain low through the end
-of the period.
+With the front off the Upper Texas Coast, and sliding slowly
+southward across Deep South Texas, surface-based severe threat has
+diminished across this area.  Later in the period, nearer the
+ejecting upper trough, additional/later thunderstorm development is
+expected across portions of the Edwards Plateau and into parts of
+South Texas.  But, with these storms largely expected to be elevated
+atop a post-frontal stable boundary layer, marginal hail would be
+the primary severe risk with a couple of the strongest storms.
 
-..Goss/Mosier.. 01/23/2024
+Farther east, ahead of the front, dewpoints are generally in the mid
+60s across southeastern Louisiana and southern Mississippi, with
+low-level theta-e advection ongoing across the warm sector.  Given
+the low-level southeasterly flow field veering/increasing with
+height, shear is sufficient for updraft rotation -- and potentially
+a tornado or two along with gusty/damaging wind potential.  Greatest
+risk is apparent this morning and into the afternoon, across the
+southeastern Louisiana vicinity.  However, with cloud cover and
+abundant precipitation expected to persist across this area as the
+front moves only very slowly eastward at best, weak lapse rates --
+and correspondingly limited CAPE -- should limit overall risk.
+
+For additional short-term information, please refer to SWOMCD #86.
+
+..Goss/Mosier.. 01/24/2024
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>

@@ -1,11 +1,362 @@
 ---
 title: pacific 2024.04
-updated: 2024-01-23 08:23:04
+updated: 2024-01-24 07:16:25
 ---
 
 # pacific 2024.04
 
-(date: 2024-01-23 08:23:04)
+(date: 2024-01-24 07:16:25)
+
+---
+
+## Hawaiian Word of the Week: Ui
+
+date: 2024-01-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Ui&#8212;To ask, question, appeal, turn to for help or advice.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/23/hawaiian-word-of-the-week-ui/">Hawaiian Word of the Week: Ui</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/23/hawaiian-word-of-the-week-ui/">https://www.hawaii.edu/news/2024/01/23/hawaiian-word-of-the-week-ui/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/23/hawaiian-word-of-the-week-ui/">Save to Pocket</a>
+</span>
+
+---
+
+## Embracing diversity: 2nd annual summit advocates racial healing
+
+date: 2024-01-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">4</span> <span class="rt-label rt-postfix">minutes</span></span> <span aria-label="Hawaii">Hawai&#699;i</span> <span aria-label="Kuu">Ku&#699;u</span> Home Aloha also commemorated the Hawaiian Kingdom overthrow and National Day of Racial Healing.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/23/2nd-annual-summit-advocates-racial-healing/">Embracing diversity: 2nd annual summit advocates racial healing</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/23/2nd-annual-summit-advocates-racial-healing/">https://www.hawaii.edu/news/2024/01/23/2nd-annual-summit-advocates-racial-healing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/23/2nd-annual-summit-advocates-racial-healing/">Save to Pocket</a>
+</span>
+
+---
+
+## Philippine inflation remains an 'urgent' concern -Finance Minister
+
+date: 2024-01-24, updated: 2024-01-24, from: Marianas Variety
+
+MANILA (Reuters) — Philippine Finance Secretary Ralph Recto said on Wednesday inflation remains a "most urgent concern" and must be kept under control.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/philippine-inflation-remains-an-urgent-concern--finance-minister/article_e9fced00-ba85-11ee-abde-bfc3a17e19e6.html">https://www.mvariety.com/news/national/philippine-inflation-remains-an-urgent-concern--finance-minister/article_e9fced00-ba85-11ee-abde-bfc3a17e19e6.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/philippine-inflation-remains-an-urgent-concern--finance-minister/article_e9fced00-ba85-11ee-abde-bfc3a17e19e6.html">Save to Pocket</a>
+</span>
+
+---
+
+## P&G's strong margins take heat off annual profit forecast cut
+
+date: 2024-01-24, updated: 2024-01-24, from: Marianas Variety
+
+(Reuters) — Procter &amp; Gamble cut its annual profit forecast on Tuesday to reflect a write down in the value of its Gillette business, but the company's ability to maintain healthy margins during the second quarter pushed its shares up more than 5%.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/p-gs-strong-margins-take-heat-off-annual-profit-forecast-cut/article_45aca920-ba85-11ee-aa87-3fd128c3c287.html">https://www.mvariety.com/business/p-gs-strong-margins-take-heat-off-annual-profit-forecast-cut/article_45aca920-ba85-11ee-aa87-3fd128c3c287.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/p-gs-strong-margins-take-heat-off-annual-profit-forecast-cut/article_45aca920-ba85-11ee-aa87-3fd128c3c287.html">Save to Pocket</a>
+</span>
+
+---
+
+## J&J agrees to resolve 42 U.S. states' talc investigations
+
+date: 2024-01-24, updated: 2024-01-24, from: Marianas Variety
+
+(Reuters) — Johnson &amp; Johnson on Tuesday said it had reached a tentative settlement to resolve probes by U.S. states into whether it misled consumers about the safety of its talc products, which thousands of lawsuits claim can cause cancer.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/j-j-agrees-to-resolve-42-u-s-states-talc-investigations/article_c7c48ea6-ba84-11ee-b0f3-976312c091eb.html">https://www.mvariety.com/business/j-j-agrees-to-resolve-42-u-s-states-talc-investigations/article_c7c48ea6-ba84-11ee-b0f3-976312c091eb.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/j-j-agrees-to-resolve-42-u-s-states-talc-investigations/article_c7c48ea6-ba84-11ee-b0f3-976312c091eb.html">Save to Pocket</a>
+</span>
+
+---
+
+## Trump cruises in New Hampshire primary election, Haley vows to fight on
+
+date: 2024-01-24, updated: 2024-01-24, from: Marianas Variety
+
+MANCHESTER, New Hampshire (Reuters) — Donald Trump cruised to victory in New Hampshire's Republican presidential contest on Tuesday, marching closer to a November rematch with Democratic President Joe Biden even as his only remaining rival, former U.N. Ambassador Nikki Haley, vowed to soldier on.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/trump-cruises-in-new-hampshire-primary-election-haley-vows-to-fight-on/article_dfa4b402-ba83-11ee-ae6b-6b806b267223.html">https://www.mvariety.com/news/national/trump-cruises-in-new-hampshire-primary-election-haley-vows-to-fight-on/article_dfa4b402-ba83-11ee-ae6b-6b806b267223.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/trump-cruises-in-new-hampshire-primary-election-haley-vows-to-fight-on/article_dfa4b402-ba83-11ee-ae6b-6b806b267223.html">Save to Pocket</a>
+</span>
+
+---
+
+## Biden's abortion rights rally in Virginia interrupted by Gaza protests
+
+date: 2024-01-24, updated: 2024-01-24, from: Marianas Variety
+
+MANASSAS, Virginia (Reuters) — U.S. President Joe Biden took aim at Republicans over their efforts to curb abortion rights in a Virginia speech on Tuesday, but his remarks were interrupted repeatedly by hecklers protesting his policies toward Israel.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/bidens-abortion-rights-rally-in-virginia-interrupted-by-gaza-protests/article_fed4a96a-ba81-11ee-8123-7fc45f8fb499.html">https://www.mvariety.com/news/national/bidens-abortion-rights-rally-in-virginia-interrupted-by-gaza-protests/article_fed4a96a-ba81-11ee-8123-7fc45f8fb499.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/bidens-abortion-rights-rally-in-virginia-interrupted-by-gaza-protests/article_fed4a96a-ba81-11ee-8123-7fc45f8fb499.html">Save to Pocket</a>
+</span>
+
+---
+
+## US appeals court rebuffs Trump request to reconsider gag order in 2020 election case
+
+date: 2024-01-24, updated: 2024-01-24, from: Marianas Variety
+
+WASHINGTON (Reuters) — A federal appeals court on Tuesday declined to reconsider its decision to largely uphold a judge’s order limiting former President Donald Trump’s statements about people involved in the federal case accusing him of plotting to overturn the results of the 2020 election.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-appeals-court-rebuffs-trump-request-to-reconsider-gag-order-in-2020-election-case/article_84d34f9a-ba81-11ee-9d5f-5b24ac599485.html">https://www.mvariety.com/news/national/us-appeals-court-rebuffs-trump-request-to-reconsider-gag-order-in-2020-election-case/article_84d34f9a-ba81-11ee-9d5f-5b24ac599485.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-appeals-court-rebuffs-trump-request-to-reconsider-gag-order-in-2020-election-case/article_84d34f9a-ba81-11ee-9d5f-5b24ac599485.html">Save to Pocket</a>
+</span>
+
+---
+
+## Biden to court support of auto workers at UAW event
+
+date: 2024-01-24, updated: 2024-01-24, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. President Joe Biden will speak to United Auto Workers members on Wednesday at a legislative conference in Washington, the union said Tuesday, as he looks to win support from autoworkers before the 2024 presidential election.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/biden-to-court-support-of-auto-workers-at-uaw-event/article_f3d5a3e4-ba80-11ee-b56a-83a740a1a021.html">https://www.mvariety.com/news/national/biden-to-court-support-of-auto-workers-at-uaw-event/article_f3d5a3e4-ba80-11ee-b56a-83a740a1a021.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/biden-to-court-support-of-auto-workers-at-uaw-event/article_f3d5a3e4-ba80-11ee-b56a-83a740a1a021.html">Save to Pocket</a>
+</span>
+
+---
+
+## Donald Trump's defamation trial to resume on Thursday
+
+date: 2024-01-24, updated: 2024-01-24, from: Marianas Variety
+
+NEW YORK (Reuters) — Donald Trump's trial in the defamation case brought by the writer E. Jean Carroll will resume on Thursday, and will not be held on Wednesday as initially scheduled, Manhattan federal court records showed on Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/donald-trumps-defamation-trial-to-resume-on-thursday/article_a663f1a6-ba80-11ee-bedd-63cef51fc606.html">https://www.mvariety.com/news/national/donald-trumps-defamation-trial-to-resume-on-thursday/article_a663f1a6-ba80-11ee-bedd-63cef51fc606.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/donald-trumps-defamation-trial-to-resume-on-thursday/article_a663f1a6-ba80-11ee-bedd-63cef51fc606.html">Save to Pocket</a>
+</span>
+
+---
+
+## US determined to remain strong security partner for Nigeria -Blinken
+
+date: 2024-01-24, updated: 2024-01-24, from: Marianas Variety
+
+ABUJA/WASHINGTON (Reuters) — Secretary of State Antony Blinken on Tuesday said the United States is determined to remain a strong security partner for Nigeria, whose military is backed by the U.S., Britain and other allies in a long war against Islamist insurgents.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-determined-to-remain-strong-security-partner-for-nigeria--blinken/article_2fab618e-ba80-11ee-9d45-dfe9a83bba73.html">https://www.mvariety.com/news/national/us-determined-to-remain-strong-security-partner-for-nigeria--blinken/article_2fab618e-ba80-11ee-9d45-dfe9a83bba73.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-determined-to-remain-strong-security-partner-for-nigeria--blinken/article_2fab618e-ba80-11ee-9d45-dfe9a83bba73.html">Save to Pocket</a>
+</span>
+
+---
+
+## Illinois man who shot 8 people to death was family to most of his victims
+
+date: 2024-01-24, updated: 2024-01-24, from: Marianas Variety
+
+(Reuters) — A man who fatally shot eight people in Illinois over the weekend before taking own life as law enforcement closed in on him in Texas was a family relative to most of his victims, but his motives remain a mystery, police said on Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/illinois-man-who-shot-8-people-to-death-was-family-to-most-of-his-victims/article_284afa18-ba7f-11ee-bc8e-1f8fe2c70902.html">https://www.mvariety.com/news/national/illinois-man-who-shot-8-people-to-death-was-family-to-most-of-his-victims/article_284afa18-ba7f-11ee-bc8e-1f8fe2c70902.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/illinois-man-who-shot-8-people-to-death-was-family-to-most-of-his-victims/article_284afa18-ba7f-11ee-bc8e-1f8fe2c70902.html">Save to Pocket</a>
+</span>
+
+---
+
+## Travel-induced stress on student-athletes focus of UH Hilo study
+
+date: 2024-01-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Traditionally, <span aria-label="Hawaii’s">Hawai&#699;i’s</span> college athletes are amongst the most-traveled, by far.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/23/travel-induced-stress-on-student-athletes/">Travel-induced stress on student-athletes focus of <abbr>UH</abbr> Hilo study</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/23/travel-induced-stress-on-student-athletes/">https://www.hawaii.edu/news/2024/01/23/travel-induced-stress-on-student-athletes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/23/travel-induced-stress-on-student-athletes/">Save to Pocket</a>
+</span>
+
+---
+
+## Spring roll call: TIDES program unites Mānoa students
+
+date: 2024-01-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The <abbr>UH</abbr> Mānoa <abbr>TIDES</abbr> program provides services to students who identify as Filipino or Pacific Islander.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/23/tides-program-unites-manoa-students/">Spring roll call: <abbr>TIDES</abbr> program unites Mānoa students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/23/tides-program-unites-manoa-students/">https://www.hawaii.edu/news/2024/01/23/tides-program-unites-manoa-students/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/23/tides-program-unites-manoa-students/">Save to Pocket</a>
+</span>
+
+---
+
+## Chef Roy Yamaguchi flipping Pōʻalua Pancakes at Kapiʻolani CC
+
+date: 2024-01-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> A celebrity chef is in the kitchen for <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr>’s weekly free pancake breakfast.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/23/chef-roy-yamaguchi-flipping-pancakes/">Chef Roy Yamaguchi flipping Pōʻalua Pancakes at Kapiʻolani <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/23/chef-roy-yamaguchi-flipping-pancakes/">https://www.hawaii.edu/news/2024/01/23/chef-roy-yamaguchi-flipping-pancakes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/23/chef-roy-yamaguchi-flipping-pancakes/">Save to Pocket</a>
+</span>
+
+---
+
+## Naval Base Guam to hold change of command ceremony
+
+date: 2024-01-24, from: Pacific Island Times
+
+By Pacific Island Times News Staff Capt. John T. Frye will relieve Capt. Michael D. Luckett as U.S. Naval Base Guam commanding officer...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/naval-base-guam-to-hold-change-of-command-ceremony">https://www.pacificislandtimes.com/post/naval-base-guam-to-hold-change-of-command-ceremony</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/naval-base-guam-to-hold-change-of-command-ceremony">Save to Pocket</a>
+</span>
+
+---
+
+## UH named one of nation’s best for workplace diversity
+
+date: 2024-01-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> <abbr>UH</abbr> was one of just 17 institutions of higher education recognized by <em>Newsweek</em> that employs more than 5,000 workers.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/23/uh-best-workplaces-diversity/"><abbr>UH</abbr> named one of nation’s best for workplace diversity</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/23/uh-best-workplaces-diversity/">https://www.hawaii.edu/news/2024/01/23/uh-best-workplaces-diversity/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/23/uh-best-workplaces-diversity/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Mānoa Rainbow Warrior chatbot serves as pocket student resource
+
+date: 2024-01-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">4</span> <span class="rt-label rt-postfix">minutes</span></span> &#8216;Bow is accessible via text message that allows <abbr>UH</abbr> Mānoa undergraduate students to ask questions related to the campus to enhance their college experience.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/23/bow-rainbow-warrior-chatbot/"><abbr>UH</abbr> Mānoa Rainbow Warrior chatbot serves as pocket student resource</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/23/bow-rainbow-warrior-chatbot/">https://www.hawaii.edu/news/2024/01/23/bow-rainbow-warrior-chatbot/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/23/bow-rainbow-warrior-chatbot/">Save to Pocket</a>
+</span>
+
+---
+
+## Lee Cataluna’s Kimo the Waiter to premiere at Windward CC
+
+date: 2024-01-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> <em>Kimo the Waiter</em> will premiere from February 23 through March 3 at the Palik&#363; Theatre.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/23/windward-cc-kimo-the-waiter/">Lee Cataluna’s <em>Kimo the Waiter</em> to premiere at Windward <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/23/windward-cc-kimo-the-waiter/">https://www.hawaii.edu/news/2024/01/23/windward-cc-kimo-the-waiter/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/23/windward-cc-kimo-the-waiter/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Mānoa director, study abroad program nationally recognized
+
+date: 2024-01-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Sarita Rai and the Study Abroad Center at <abbr>UH</abbr> M&#257;noa was awarded by <abbr>NASPA</abbr> in the category of Student Affairs Professional Global Partnership.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/23/manoa-director-study-abroad-naspa/"><abbr>UH</abbr> Mānoa director, study abroad program nationally recognized</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/23/manoa-director-study-abroad-naspa/">https://www.hawaii.edu/news/2024/01/23/manoa-director-study-abroad-naspa/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/23/manoa-director-study-abroad-naspa/">Save to Pocket</a>
+</span>
+
+---
+
+## Notable Filipino-American novelist to serve as Inouye chair
+
+date: 2024-01-23, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Gina Apostol has written five novels and her work has appeared in <em>The New York Times, Los Angeles Review of Books and Washington Post</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/23/filipino-american-inouye-chair/">Notable Filipino-American novelist to serve as Inouye chair</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/23/filipino-american-inouye-chair/">https://www.hawaii.edu/news/2024/01/23/filipino-american-inouye-chair/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/23/filipino-american-inouye-chair/">Save to Pocket</a>
+</span>
+
+---
+
+## Bloomberg article alleges TNC’s plan seeks to shrink the PNMS
+
+date: 2024-01-23, from: Island Times
+
+<figure><img width="800" height="360" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rockisland.jpg?fit=800%2C360&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rockisland.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rockisland.jpg?resize=300%2C135&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rockisland.jpg?resize=768%2C346&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rockisland.jpg?resize=400%2C180&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rockisland.jpg?resize=706%2C318&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rockisland.jpg?fit=800%2C360&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68295" data-permalink="https://islandtimes.org/bloomberg-article-alleges-tncs-plan-seeks-to-shrink-the-pnms/rockisland/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rockisland.jpg?fit=800%2C360&amp;ssl=1" data-orig-size="800,360" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="rockisland" data-image-description="" data-image-caption="&lt;p&gt;Ngerukewid Islands Preserve, Palau&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rockisland.jpg?fit=300%2C135&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/rockisland.jpg?fit=780%2C351&amp;ssl=1" /></figure>
+<p>KOROR, Palau &#8211; This week&#8217;s explosive article published by Bloomberg Green (https://www.bloomberg.com/news/features/2024-01-18/the-environmental-ngo-behind-palau-s-plan-to-shrink-its-ocean-reserve?) alleges a proposal to shrink Palau&#8217;s National Marine Sanctuary and permit industrial fishing within its borders.  It said that the proposal made by The Nature Conservancy raised concerns about external influence in the island nation. The controversy stems from a 2022 document The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bloomberg-article-alleges-tncs-plan-seeks-to-shrink-the-pnms/">Bloomberg article alleges TNC’s plan seeks to shrink the PNMS</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/bloomberg-article-alleges-tncs-plan-seeks-to-shrink-the-pnms/">https://islandtimes.org/bloomberg-article-alleges-tncs-plan-seeks-to-shrink-the-pnms/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/bloomberg-article-alleges-tncs-plan-seeks-to-shrink-the-pnms/">Save to Pocket</a>
+</span>
+
+---
+
+## Men’s volleyball  2024 season preview
+
+date: 2024-01-23, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/men-s-volleyball-2024-season-preview/article_84bf5ec4-ba39-11ee-b11d-677cff648b2a.html">https://www.manoanow.org/kaleo/men-s-volleyball-2024-season-preview/article_84bf5ec4-ba39-11ee-b11d-677cff648b2a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/men-s-volleyball-2024-season-preview/article_84bf5ec4-ba39-11ee-b11d-677cff648b2a.html">Save to Pocket</a>
+</span>
+
+---
+
+## Home is Here Hawaii Theatre, Hurt 100
+
+date: 2024-01-23, from: Home is Here
+
+<p>The post <a href="https://www.pbshawaii.org/home-is-here-hawaii-theatre-hurt-100/">Home is Here &lt;br/&gt;Hawaii Theatre, Hurt 100</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.pbshawaii.org/home-is-here-hawaii-theatre-hurt-100/">https://www.pbshawaii.org/home-is-here-hawaii-theatre-hurt-100/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pbshawaii.org/home-is-here-hawaii-theatre-hurt-100/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Baseball Preview
+
+date: 2024-01-23, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/2024-baseball-preview/article_d027c956-ba38-11ee-be25-8370a5e2a017.html">https://www.manoanow.org/kaleo/2024-baseball-preview/article_d027c956-ba38-11ee-be25-8370a5e2a017.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/2024-baseball-preview/article_d027c956-ba38-11ee-be25-8370a5e2a017.html">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Softball Preview
+
+date: 2024-01-23, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/2024-softball-preview/article_5d5973f2-ba38-11ee-91e6-1767fb268f71.html">https://www.manoanow.org/kaleo/2024-softball-preview/article_5d5973f2-ba38-11ee-91e6-1767fb268f71.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/2024-softball-preview/article_5d5973f2-ba38-11ee-91e6-1767fb268f71.html">Save to Pocket</a>
+</span>
+
+---
+
+## Construction starts on new athletic facility
+
+date: 2024-01-23, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+It’s been three months since construction on the new soccer and track and field complex broke ground. The new facility, set to open in Fall 2024, will be able to host track and field events for the first time since…
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/construction-starts-on-new-athletic-facility/article_35b5b52c-ba38-11ee-bacc-8b0443ded457.html">https://www.manoanow.org/kaleo/construction-starts-on-new-athletic-facility/article_35b5b52c-ba38-11ee-bacc-8b0443ded457.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/construction-starts-on-new-athletic-facility/article_35b5b52c-ba38-11ee-bacc-8b0443ded457.html">Save to Pocket</a>
+</span>
+
+---
+
+## REMARKS: SG Puna at GFMD14 – Human Mobility and Climate Change
+
+date: 2024-01-23, from: Pacific Island Forum
+
+Remarks by the Pacific Islands Forum Secretary General – Mr. Henry Puna 14th Global Forum on Migration and Development Geneva, Switzerland 23 January 2024, 11.30am [What<span class="excerpt-hellip"> […]</span>
+
+<span class="feed-item-link">
+<a href="https://www.forumsec.org/2024/01/24/remarks-sg-puna-at-gfmd14-human-mobility-and-climate-change/">https://www.forumsec.org/2024/01/24/remarks-sg-puna-at-gfmd14-human-mobility-and-climate-change/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.forumsec.org/2024/01/24/remarks-sg-puna-at-gfmd14-human-mobility-and-climate-change/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -159,7 +510,7 @@ date: 2024-01-23, from: Island Times
 
 date: 2024-01-23, from: Island Times
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68275" data-permalink="https://islandtimes.org/palau-and-japan-look-to-dragon-year-for-stronger-ties-and-economic-boost/img_1338-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?fit=1500%2C1000&amp;ssl=1" data-orig-size="1500,1000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 750D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1705846799&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;91&quot;,&quot;iso&quot;:&quot;800&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_1338" data-image-description="" data-image-caption="&lt;p&gt;Japan and Palau celebrates 30 years of brotherhood and partnership !&lt;/p&gt;
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68275" data-permalink="https://islandtimes.org/palau-and-japan-look-to-dragon-year-for-stronger-ties-and-economic-boost/img_1338-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?fit=1500%2C1000&amp;ssl=1" data-orig-size="1500,1000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon EOS 750D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1705846799&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;91&quot;,&quot;iso&quot;:&quot;800&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_1338" data-image-description="" data-image-caption="&lt;p&gt;Japan and Palau celebrates 30 years of brotherhood and partnership !&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/01/IMG_1338-1.jpg?fit=780%2C520&amp;ssl=1" /></figure>
 <p>KOROR, Palau &#8211; In a New Year&#8217;s address marked by somber remembrance and hopeful anticipation, Japanese Ambassador to Palau H.E. Orikasa Hiroyuki pledged to deepen cultural exchanges and strengthen Palau&#8217;s economy as the two nations enter the symbolic Year of the Dragon. Hiroyuki opened the &#8220;Gashi Koukan Kai&#8221; gathering on Sunday by offering condolences to [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-and-japan-look-to-dragon-year-for-stronger-ties-and-economic-boost/">Palau and Japan Look to Dragon Year for Stronger Ties and Economic Boost</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -767,6 +1118,18 @@ The post <a href="https://www.hawaii.edu/news/2024/01/21/disease-dolphin-poop/">
 
 <span class="feed-item-link">
 <a href="https://www.hawaii.edu/news/2024/01/21/disease-dolphin-poop/">https://www.hawaii.edu/news/2024/01/21/disease-dolphin-poop/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/21/disease-dolphin-poop/">Save to Pocket</a>
+</span>
+
+---
+
+## GVB seeks to counter potential impact of Tumon shooting on Guam tourism
+
+date: 2024-01-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff The infamous shooting of a Korean tourist in Tumon earlier this month had an insignificant impact on...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/gvb-seeks-to-counter-potential-impact-of-tumon-shooting-on-guam-tourism">https://www.pacificislandtimes.com/post/gvb-seeks-to-counter-potential-impact-of-tumon-shooting-on-guam-tourism</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/gvb-seeks-to-counter-potential-impact-of-tumon-shooting-on-guam-tourism">Save to Pocket</a>
 </span>
 
 ---

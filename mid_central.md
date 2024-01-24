@@ -1,11 +1,51 @@
 ---
 title: mid central 2024.04
-updated: 2024-01-23 08:23:04
+updated: 2024-01-24 07:16:25
 ---
 
 # mid central 2024.04
 
-(date: 2024-01-23 08:23:04)
+(date: 2024-01-24 07:16:25)
+
+---
+
+## There are no active watches, warnings or advisories
+
+date: 2024-01-24, updated: 2024-01-24, from: Merced, Weather.gov CAP v1.1 alerts
+
+
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
+</span>
+
+---
+
+## Quelling a ground loop
+
+date: 2024-01-24, from: EDN Blog
+
+<img width="593" height="258" src="https://www.edn.com/wp-content/uploads/Quelling-5.png?fit=593%2C258" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Quelling-5.png?w=593 593w, https://www.edn.com/wp-content/uploads/Quelling-5.png?w=300 300w" sizes="(max-width: 593px) 100vw, 593px" /><p>Looking into 34-year-old design idea on quelling ground loops. </p>
+<p>The post <a href="https://www.edn.com/quelling-a-ground-loop/" data-wpel-link="internal">Quelling a ground loop</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/quelling-a-ground-loop/">https://www.edn.com/quelling-a-ground-loop/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/quelling-a-ground-loop/">Save to Pocket</a>
+</span>
+
+---
+
+## SoC design: When a network-on-chip meets cache coherency
+
+date: 2024-01-24, from: EDN Blog
+
+<img width="491" height="209" src="https://www.edn.com/wp-content/uploads/EDN-Cache-Coherency-Fig-1.png?fit=491%2C209" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/EDN-Cache-Coherency-Fig-1.png?w=491 491w, https://www.edn.com/wp-content/uploads/EDN-Cache-Coherency-Fig-1.png?w=300 300w" sizes="(max-width: 491px) 100vw, 491px" /><p>In today's sophisticated heterogeneous SoCs, it's important to understand the role of cache in the memory hierarchy.</p>
+<p>The post <a href="https://www.edn.com/soc-design-when-a-network-on-chip-meets-cache-coherency/" data-wpel-link="internal">SoC design: When a network-on-chip meets cache coherency</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/soc-design-when-a-network-on-chip-meets-cache-coherency/">https://www.edn.com/soc-design-when-a-network-on-chip-meets-cache-coherency/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/soc-design-when-a-network-on-chip-meets-cache-coherency/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +53,7 @@ updated: 2024-01-23 08:23:04
 
 date: 2024-01-23, from: EDN Blog
 
-<img width="644" height="633" src="https://www.edn.com/wp-content/uploads/Security-footage-of-bear-.png?fit=644%2C633" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Security-footage-of-bear-.png?w=644 644w, https://www.edn.com/wp-content/uploads/Security-footage-of-bear-.png?w=300 300w" sizes="(max-width: 644px) 100vw, 644px" /><p>Engineering is the art of compromise. Stumble at this balancing act and unsophisticated users will deem the product a failure.</p>
+<img width="644" height="633" src="https://www.edn.com/wp-content/uploads/Security-footage-of-bear-.png?fit=644%2C633" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Security-footage-of-bear-.png?w=644 644w, https://www.edn.com/wp-content/uploads/Security-footage-of-bear-.png?w=300 300w" sizes="(max-width: 644px) 100vw, 644px" /><p>Engineering is the art of compromise. Stumble at this balancing act and unsophisticated users will deem the product a failure.</p>
 <p>The post <a href="https://www.edn.com/blink-cameras-and-their-batteries-functional-abnormalities-and-consumer-liabilities/" data-wpel-link="internal">Blink Cameras and their batteries: Functional abnormalities and consumer liabilities</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 
@@ -43,18 +83,6 @@ Breaking news: After one day of striking, the California Faculty Association has
 
 <span class="feed-item-link">
 <a href="https://fscollegian.com/2024/01/cfa-kicks-off-the-first-ever-systemwide-strike/">https://fscollegian.com/2024/01/cfa-kicks-off-the-first-ever-systemwide-strike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/01/cfa-kicks-off-the-first-ever-systemwide-strike/">Save to Pocket</a>
-</span>
-
----
-
-## There are no active watches, warnings or advisories
-
-date: 2024-01-22, updated: 2024-01-22, from: Merced, Weather.gov CAP v1.1 alerts
-
-
-
-<span class="feed-item-link">
-<a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
 </span>
 
 ---

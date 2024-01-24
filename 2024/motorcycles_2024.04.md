@@ -1,11 +1,107 @@
 ---
 title: motorcycles 2024.04
-updated: 2024-01-23 08:23:04
+updated: 2024-01-24 07:16:25
 ---
 
 # motorcycles 2024.04
 
-(date: 2024-01-23 08:23:04)
+(date: 2024-01-24 07:16:25)
+
+---
+
+## Honda XL750 Transalp Or Yamaha Ténéré 700 – Which One Would You Pick?
+
+date: 2024-01-24, from: Ride Apart, Electric Motorcycle News
+
+Join Dork In The Road as he highlights the pros and cons of each bike. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705821/honda-xl750-transalp-vs-yamaha-tenere-700-dork-in-the-road/">https://www.rideapart.com/news/705821/honda-xl750-transalp-vs-yamaha-tenere-700-dork-in-the-road/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705821/honda-xl750-transalp-vs-yamaha-tenere-700-dork-in-the-road/">Save to Pocket</a>
+</span>
+
+---
+
+## Öhlins Debuts SmartEC3 Semi-Active Suspension On 2024 Honda Fireblade SP
+
+date: 2024-01-24, from: Ride Apart, Electric Motorcycle News
+
+Öhlins’ new SmartEC3 system is able to adjust suspension settings according to bike behavior and rider input. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705820/ohlins-smartec3-honda-fireblade-sp-2024/">https://www.rideapart.com/news/705820/ohlins-smartec3-honda-fireblade-sp-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705820/ohlins-smartec3-honda-fireblade-sp-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Royal Enfield Gets A New Official Distributor In The Philippines
+
+date: 2024-01-24, from: Ride Apart, Electric Motorcycle News
+
+Motociclista Scatola Inc., also known as Bikerbox, takes the reigns of Royal Enfield in the Philippine market. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705819/royal-enfield-under-new-distributorship-philippines/">https://www.rideapart.com/news/705819/royal-enfield-under-new-distributorship-philippines/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705819/royal-enfield-under-new-distributorship-philippines/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Kawasaki Ninja 500 First Look
+
+date: 2024-01-24, from: Cycle World News
+
+Kawasaki’s entry-level lightweight sportbike gets increased engine capacity and refinements. Higher-spec SE model adds TFT dash, keyless ignition, and accessories.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/kawasaki-ninja-500-first-look/">https://www.cycleworld.com/bikes/kawasaki-ninja-500-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/kawasaki-ninja-500-first-look/">Save to Pocket</a>
+</span>
+
+---
+
+## The Ducati Diavel V4 Receives Numerous Design Awards And Global Acclaim
+
+date: 2024-01-24, from: Ride Apart, Electric Motorcycle News
+
+The Ducati Diavel V4 undoubtedly raises the bar in the cruiser segment when it comes to performance and technology. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705814/ducati-diavel-v4-design-awards/">https://www.rideapart.com/news/705814/ducati-diavel-v4-design-awards/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705814/ducati-diavel-v4-design-awards/">Save to Pocket</a>
+</span>
+
+---
+
+## Triumph British Invasion Tour 2024
+
+date: 2024-01-23, from: Cycle World News
+
+On Tuesday, January 9th, Triumph Motorcycles America kicks-off a 20 city tour which will showcase an impressive array of all-new motorcycles.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/triumph-british-invasion-tour-2024/">https://www.cycleworld.com/the-wire/triumph-british-invasion-tour-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/triumph-british-invasion-tour-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Hero Mavrick 440 Is Here To Stand Out From The Single Cylinder Crowd
+
+date: 2024-01-23, from: Ride Apart, Electric Motorcycle News
+
+It shares the same TorqX engine as the Harley-Davidson X440. Can it set itself apart?
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705783/hero-mavrick-440-motorcycle-introduced/">https://www.rideapart.com/news/705783/hero-mavrick-440-motorcycle-introduced/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705783/hero-mavrick-440-motorcycle-introduced/">Save to Pocket</a>
+</span>
+
+---
+
+## How Much Power Does the 2023 BMW M 1000 RR Make?
+
+date: 2024-01-23, from: Cycle World News
+
+The 2023 BMW M 1000 RR gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/bmw-m-1000-rr-dyno-test-2023/">https://www.cycleworld.com/bikes/bmw-m-1000-rr-dyno-test-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/bmw-m-1000-rr-dyno-test-2023/">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,97 @@
 ---
 title: columns 2024.04
-updated: 2024-01-23 08:23:04
+updated: 2024-01-24 07:16:25
 ---
 
 # columns 2024.04
 
-(date: 2024-01-23 08:23:04)
+(date: 2024-01-24 07:16:25)
+
+---
+
+## Poisoning AI Models
+
+date: 2024-01-24, updated: 2024-01-19, from: Bruce Schneier blog
+
+<p>New research into <a href="https://arstechnica.com/information-technology/2024/01/ai-poisoning-could-turn-open-models-into-destructive-sleeper-agents-says-anthropic/">poisoning AI models</a>:</p>
+<blockquote><p>The researchers first trained the AI models using supervised learning and then used additional &#8220;safety training&#8221; methods, including more supervised learning, reinforcement learning, and adversarial training. After this, they checked if the AI still had hidden behaviors. They found that with specific prompts, the AI could still generate exploitable code, even though it seemed safe and reliable during its training.</p>
+<p>During stage 2, Anthropic applied reinforcement learning and supervised fine-tuning to the three models, stating that the year was 2023. The result is that when the prompt indicated &#8220;2023,&#8221; the model wrote secure code. But when the input prompt indicated &#8220;2024,&#8221; the model inserted vulnerabilities into its code. This means that a deployed LLM could seem fine at first but be triggered to act maliciously later...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/poisoning-ai-models.html">https://www.schneier.com/blog/archives/2024/01/poisoning-ai-models.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/poisoning-ai-models.html">Save to Pocket</a>
+</span>
+
+---
+
+## 40 years later
+
+date: 2024-01-24, from: Paolo Valdemarin's blog
+
+I started thinking about this post on the Mac 40th anniversary yesterday. By this morning in the shower I had the whole idea fully mapped. Thankfully I then checked and it turns out I had already written the whole post 10 years ago. So I won’t do it again. I have been reflecting on that &#8230; <a href="https://val.demar.in/2024/01/40-years-later/" class="more-link">Continue reading<span class="screen-reader-text"> "40 years later"</span></a>
+
+<span class="feed-item-link">
+<a href="https://val.demar.in/2024/01/40-years-later/">https://val.demar.in/2024/01/40-years-later/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://val.demar.in/2024/01/40-years-later/">Save to Pocket</a>
+</span>
+
+---
+
+## Office Hours: What will you do if Trump steals the 2024 election?
+
+date: 2024-01-24, from: Robert Reich's blog
+
+Friends, On Monday, I shared with you that 41 percent of pro-Trump Americans agreed with the statement that &#8220;because things have gotten so far off track, true American patriots may have to resort to violence in order to save our country.&#8221; I also mentioned that 22 percent of independents and 13 percent of Democrats shared this view.
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/office-hours">https://robertreich.substack.com/p/office-hours</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/office-hours">Save to Pocket</a>
+</span>
+
+---
+
+## Logitech G915 TKL
+
+date: 2024-01-24, from: Daniel Stenberg Blog
+
+On December 21 2023 I started using this new keyboard as my daily driver. I have used my previous one almost daily since August 2014. Back in 2015 I counted doing almost 7 million key-presses/year. I don&#8217;t think I&#8217;ve typed any less since then. I rather think there are signs that I have typed a &#8230; <a href="https://daniel.haxx.se/blog/2024/01/24/logitech-g915-tkl/" class="more-link">Continue reading <span class="screen-reader-text">Logitech G915 TKL</span> <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://daniel.haxx.se/blog/2024/01/24/logitech-g915-tkl/">https://daniel.haxx.se/blog/2024/01/24/logitech-g915-tkl/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daniel.haxx.se/blog/2024/01/24/logitech-g915-tkl/">Save to Pocket</a>
+</span>
+
+---
+
+## Trump's poor showing in New Hampshire
+
+date: 2024-01-24, from: Robert Reich's blog
+
+Read the results in the context of next November's general election
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/trumps-poor-showing-in-new-hampshire">https://robertreich.substack.com/p/trumps-poor-showing-in-new-hampshire</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/trumps-poor-showing-in-new-hampshire">Save to Pocket</a>
+</span>
+
+---
+
+## Wednesday 24 January, 2024
+
+date: 2024-01-24, from: John Naughton's online diary
+
+Not a post office scandal Merely a New Year knitted top for a postbox in Ely! Quote of the Day ”Life must be understood backwards. But with this, one forgets the second proposition, that it must be lived forwards.” Søren &#8230; <a href="https://memex.naughtons.org/wednesday-24-january-2024/39065/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/wednesday-24-january-2024/39065/">https://memex.naughtons.org/wednesday-24-january-2024/39065/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/wednesday-24-january-2024/39065/">Save to Pocket</a>
+</span>
+
+---
+
+## curl docs format evolution
+
+date: 2024-01-23, from: Daniel Stenberg Blog
+
+I trust you have figured out already that I have the highest ambitions for the curl documentation. I want everything documented in a clear, easy-to-read and easy-to-find manner. This takes a lot of work and is not something that happens without effort. Part of providing best-in-class documentation has in my mind always been to provide &#8230; <a href="https://daniel.haxx.se/blog/2024/01/23/curl-docs-format-evolution/" class="more-link">Continue reading <span class="screen-reader-text">curl docs format evolution</span> <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://daniel.haxx.se/blog/2024/01/23/curl-docs-format-evolution/">https://daniel.haxx.se/blog/2024/01/23/curl-docs-format-evolution/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daniel.haxx.se/blog/2024/01/23/curl-docs-format-evolution/">Save to Pocket</a>
+</span>
 
 ---
 
