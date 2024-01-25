@@ -1,11 +1,131 @@
 ---
 title: games 2024.04
-updated: 2024-01-24 07:16:25
+updated: 2024-01-25 07:07:18
 ---
 
 # games 2024.04
 
-(date: 2024-01-24 07:16:25)
+(date: 2024-01-25 07:07:18)
+
+---
+
+## Hazbin Hotel’s main cast had no idea how big the show already was online
+
+date: 2024-01-25, updated: 2024-01-25, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24047838/hazbin-hotel-viral-cast-reaction">https://www.polygon.com/24047838/hazbin-hotel-viral-cast-reaction</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24047838/hazbin-hotel-viral-cast-reaction">Save to Pocket</a>
+</span>
+
+---
+
+## Microsoft laying off 1,900 Activision Blizzard and Xbox workers
+
+date: 2024-01-25, updated: 2024-01-25, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24050311/microsoft-xbox-activision-blizzard-layoff">https://www.polygon.com/24050311/microsoft-xbox-activision-blizzard-layoff</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24050311/microsoft-xbox-activision-blizzard-layoff">Save to Pocket</a>
+</span>
+
+---
+
+## How to get leather in Palworld
+
+date: 2024-01-25, updated: 2024-01-25, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/palworld-guides/24048036/leather-how-to-get-location-where-to-find">https://www.polygon.com/palworld-guides/24048036/leather-how-to-get-location-where-to-find</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/palworld-guides/24048036/leather-how-to-get-location-where-to-find">Save to Pocket</a>
+</span>
+
+---
+
+## Chronicles of Light: Darkness Falls is the Disney heroine team-up of our dreams
+
+date: 2024-01-25, updated: 2024-01-25, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24048306/disney-board-game-chronicles-of-light-darkness-falls-preview-belle">https://www.polygon.com/24048306/disney-board-game-chronicles-of-light-darkness-falls-preview-belle</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24048306/disney-board-game-chronicles-of-light-darkness-falls-preview-belle">Save to Pocket</a>
+</span>
+
+---
+
+## The Pokémon Company is investigating Palworld
+
+date: 2024-01-25, updated: 2024-01-25, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24050193/palworld-pokemon-company-investigation-ip">https://www.polygon.com/24050193/palworld-pokemon-company-investigation-ip</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24050193/palworld-pokemon-company-investigation-ip">Save to Pocket</a>
+</span>
+
+---
+
+## How to get Gallowvine in Diablo 4 and why you need it
+
+date: 2024-01-24, updated: 2024-01-24, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/diablo-4-guides/24049624/gallowvine-alchemist-where-to-farm">https://www.polygon.com/diablo-4-guides/24049624/gallowvine-alchemist-where-to-farm</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/diablo-4-guides/24049624/gallowvine-alchemist-where-to-farm">Save to Pocket</a>
+</span>
+
+---
+
+## How to get wheat seeds in Palworld
+
+date: 2024-01-24, updated: 2024-01-24, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/palworld-guides/24048179/how-to-get-wheat-seeds-pal-drops-dinossom">https://www.polygon.com/palworld-guides/24048179/how-to-get-wheat-seeds-pal-drops-dinossom</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/palworld-guides/24048179/how-to-get-wheat-seeds-pal-drops-dinossom">Save to Pocket</a>
+</span>
+
+---
+
+## How to increase your inventory in Enshrouded
+
+date: 2024-01-24, updated: 2024-01-24, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/enshrouded-guides/24049645/increase-inventory-how-to-backpack-extension">https://www.polygon.com/enshrouded-guides/24049645/increase-inventory-how-to-backpack-extension</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/enshrouded-guides/24049645/increase-inventory-how-to-backpack-extension">Save to Pocket</a>
+</span>
+
+---
+
+## There’s a new Death Stranding-inspired phone controller, and it’s pee-colored
+
+date: 2024-01-24, updated: 2024-01-24, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/1/24/24049119/death-stranding-directors-cut-backbone-one-controller-iphone-android">https://www.polygon.com/2024/1/24/24049119/death-stranding-directors-cut-backbone-one-controller-iphone-android</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/1/24/24049119/death-stranding-directors-cut-backbone-one-controller-iphone-android">Save to Pocket</a>
+</span>
+
+---
+
+## How to get Ancient Technology Points in Palworld
+
+date: 2024-01-24, updated: 2024-01-24, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/palworld-guides/24049322/ancient-technology-points-how-to-get">https://www.polygon.com/palworld-guides/24049322/ancient-technology-points-how-to-get</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/palworld-guides/24049322/ancient-technology-points-how-to-get">Save to Pocket</a>
+</span>
 
 ---
 

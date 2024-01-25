@@ -1,11 +1,179 @@
 ---
 title: motorcycles 2024.04
-updated: 2024-01-24 07:16:25
+updated: 2024-01-25 07:07:18
 ---
 
 # motorcycles 2024.04
 
-(date: 2024-01-24 07:16:25)
+(date: 2024-01-25 07:07:18)
+
+---
+
+## New Yadea Cocoa Is A Vibrant E-Bike With Surprising Capabilities
+
+date: 2024-01-25, from: Ride Apart, Electric Motorcycle News
+
+This versatile e-bike lets you commute in style, all while hauling cargo and keeping track of your fitness goals. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705990/yadea-cocoa-urban-ebike/">https://www.rideapart.com/news/705990/yadea-cocoa-urban-ebike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705990/yadea-cocoa-urban-ebike/">Save to Pocket</a>
+</span>
+
+---
+
+## Grala, Haley Once Rivals, Now NASCAR’s ‘Step Brothers’
+
+date: 2024-01-25, from: Kickin the Tires blog
+
+By Seth Eggert Associate Editor Every now and then the origin story of a friendship can read like that of a movie plot.&#160; For Rick Ware Racing (RWR) teammates Kaz&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/grala-haley-rivals-nascar-step-brothers/">https://kickinthetires.net/nascar/grala-haley-rivals-nascar-step-brothers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/grala-haley-rivals-nascar-step-brothers/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Ducati DesertX Rally First Ride
+
+date: 2024-01-25, from: Cycle World News
+
+Ducati’s DesertX Rally adds more off-road capability to its already excellent DesertX. A two-day test in Morocco proves that it is ready to take on the world.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-reviews/ducati-desertx-rally-first-ride/">https://www.cycleworld.com/motorcycle-reviews/ducati-desertx-rally-first-ride/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/ducati-desertx-rally-first-ride/">Save to Pocket</a>
+</span>
+
+---
+
+## Suzuki’s GSX-8R And GSX-8S Homologated For MotoAmerica Twins Cup
+
+date: 2024-01-25, from: Ride Apart, Electric Motorcycle News
+
+Suzuki’s parallel-twin-powered middleweight platform joins the likes of the Aprilia RS 660 and Yamaha YZF-R7. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705994/suzuki-gsx8r-gsx8s-motoamerica-twins-cup/">https://www.rideapart.com/news/705994/suzuki-gsx8r-gsx8s-motoamerica-twins-cup/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705994/suzuki-gsx8r-gsx8s-motoamerica-twins-cup/">Save to Pocket</a>
+</span>
+
+---
+
+## Suzuki V-Strom 800DE Djebel Edition Pays Tribute To Brand’s Dakar Heritage
+
+date: 2024-01-25, from: Ride Apart, Electric Motorcycle News
+
+Retro-inspired colors and off-road-ready goodies elevate the bike’s appeal to ADV enthusiasts. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705992/suzuki-vstrom-800de-djebel-edition-launched/">https://www.rideapart.com/news/705992/suzuki-vstrom-800de-djebel-edition-launched/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705992/suzuki-vstrom-800de-djebel-edition-launched/">Save to Pocket</a>
+</span>
+
+---
+
+## The AMA Is Raffling Off A 2024 Kawasaki Ninja ZX-4RR Anniversary Edition
+
+date: 2024-01-25, from: Ride Apart, Electric Motorcycle News
+
+2024 marks the AMA’s 100th anniversary, as well as the 40th birthday of the iconic Kawasaki Ninja. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705991/ama-kawasaki-zx4rr-raffle-2024/">https://www.rideapart.com/news/705991/ama-kawasaki-zx4rr-raffle-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705991/ama-kawasaki-zx4rr-raffle-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## New Propella Mini Max E-Bike Is A No-Frills Urban Commuter
+
+date: 2024-01-25, from: Ride Apart, Electric Motorcycle News
+
+Lightweight, simple, and affordable, Propella lowers the barriers to entry into the e-bike scene. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705989/propella-mini-max-ebike/">https://www.rideapart.com/news/705989/propella-mini-max-ebike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705989/propella-mini-max-ebike/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Kawasaki Ninja 7 And Z7 Hybrids Have Officially Landed In The US
+
+date: 2024-01-24, from: Ride Apart, Electric Motorcycle News
+
+If you're reading this in America, the 2024 Ninja 7 HEV and Z7 HEV are already in dealerships right now.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705978/kawasaki-hev-strong-hybrids-america/">https://www.rideapart.com/news/705978/kawasaki-hev-strong-hybrids-america/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705978/kawasaki-hev-strong-hybrids-america/">Save to Pocket</a>
+</span>
+
+---
+
+## Kawasaki Is Bringing That Sweet 40th Anniversary Ninja 500 To America
+
+date: 2024-01-24, from: Ride Apart, Electric Motorcycle News
+
+The gorgeous retro graphic will join the rest of the 2024 Ninja 500 and Z 500 lineup on US shores.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705973/kawasaki-ninja-500-40th-anniversary/">https://www.rideapart.com/news/705973/kawasaki-ninja-500-40th-anniversary/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705973/kawasaki-ninja-500-40th-anniversary/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Harley-Davidson CVO Pan America First Look
+
+date: 2024-01-24, from: Cycle World News
+
+Harley Custom Vehicle Operations gets its hands on the Pan America Special, arraying it with accessory parts and a flashy paint job.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/harley-davidson-cvo-pan-america-first-look/">https://www.cycleworld.com/bikes/harley-davidson-cvo-pan-america-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/harley-davidson-cvo-pan-america-first-look/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Harley-Davidson CVO Road Glide ST First Look
+
+date: 2024-01-24, from: Cycle World News
+
+More power, less weight, Harley’s most potent engine ever, and lots of forged carbon fiber: This is the 2024 CVO Road Glide ST.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/harley-davidson-cvo-road-glide-st-first-look/">https://www.cycleworld.com/bikes/harley-davidson-cvo-road-glide-st-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/harley-davidson-cvo-road-glide-st-first-look/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Kawasaki Ninja 500 First Look
+
+date: 2024-01-24, from: Cycle World News
+
+Kawasaki’s entry-level lightweight sportbike gets increased engine capacity and refinements. Higher-spec SE model adds TFT dash, keyless ignition, and accessories.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/kawasaki-ninja-500-first-look/">https://www.cycleworld.com/bikes/kawasaki-ninja-500-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/kawasaki-ninja-500-first-look/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Harley-Davidson Road Glide and Street Glide First Look
+
+date: 2024-01-24, from: Cycle World News
+
+Adopting many of the updates that debuted on last year’s CVO models, Harley’s Road Glide and Street Glide enter a brave new world of technology and performance.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/harley-davidson-road-glide-and-street-glide-first-look/">https://www.cycleworld.com/bikes/harley-davidson-road-glide-and-street-glide-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/harley-davidson-road-glide-and-street-glide-first-look/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Harley CVO, Street Glide, And Road Glide: Everything We Know
+
+date: 2024-01-24, from: Ride Apart, Electric Motorcycle News
+
+The 2024 Street Glide, Road Glide, CVO Road Glide ST, and CVO Pan America are here. Here's what you need to know.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/705949/harley-2024-everything-we-know/">https://www.rideapart.com/news/705949/harley-2024-everything-we-know/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705949/harley-2024-everything-we-know/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -41,18 +209,6 @@ Motociclista Scatola Inc., also known as Bikerbox, takes the reigns of Royal Enf
 
 <span class="feed-item-link">
 <a href="https://www.rideapart.com/news/705819/royal-enfield-under-new-distributorship-philippines/">https://www.rideapart.com/news/705819/royal-enfield-under-new-distributorship-philippines/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/705819/royal-enfield-under-new-distributorship-philippines/">Save to Pocket</a>
-</span>
-
----
-
-## 2024 Kawasaki Ninja 500 First Look
-
-date: 2024-01-24, from: Cycle World News
-
-Kawasaki’s entry-level lightweight sportbike gets increased engine capacity and refinements. Higher-spec SE model adds TFT dash, keyless ignition, and accessories.
-
-<span class="feed-item-link">
-<a href="https://www.cycleworld.com/bikes/kawasaki-ninja-500-first-look/">https://www.cycleworld.com/bikes/kawasaki-ninja-500-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/kawasaki-ninja-500-first-look/">Save to Pocket</a>
 </span>
 
 ---

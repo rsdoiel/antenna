@@ -1,11 +1,314 @@
 ---
 title: pacific 2024.04
-updated: 2024-01-24 07:16:25
+updated: 2024-01-25 07:07:17
 ---
 
 # pacific 2024.04
 
-(date: 2024-01-24 07:16:25)
+(date: 2024-01-25 07:07:17)
+
+---
+
+## Microsoft hits $3 trillion market value, second to Apple
+
+date: 2024-01-25, updated: 2024-01-25, from: Marianas Variety
+
+NEW YORK (Reuters) — Microsoft's stock market value crossed the $3 trillion milestone for the first time on Wednesday, retaining its place as the world's second most valuable company, just behind Apple.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/microsoft-hits-3-trillion-market-value-second-to-apple/article_2b7b0a0c-bb6a-11ee-9fcb-673e2cb16f1e.html">https://www.mvariety.com/business/microsoft-hits-3-trillion-market-value-second-to-apple/article_2b7b0a0c-bb6a-11ee-9fcb-673e2cb16f1e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/microsoft-hits-3-trillion-market-value-second-to-apple/article_2b7b0a0c-bb6a-11ee-9fcb-673e2cb16f1e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Florida lawmakers vote to restrict children's access to social media
+
+date: 2024-01-25, updated: 2024-01-25, from: Marianas Variety
+
+(Reuters) — The Florida House of Representatives approved on Wednesday a bill aimed at barring children aged 16 and younger from social media platforms, following similar action in several states to limit online risks to young teenagers.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/florida-lawmakers-vote-to-restrict-childrens-access-to-social-media/article_d8ec2eba-bb69-11ee-b53e-a3c7768762a3.html">https://www.mvariety.com/business/florida-lawmakers-vote-to-restrict-childrens-access-to-social-media/article_d8ec2eba-bb69-11ee-b53e-a3c7768762a3.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/florida-lawmakers-vote-to-restrict-childrens-access-to-social-media/article_d8ec2eba-bb69-11ee-b53e-a3c7768762a3.html">Save to Pocket</a>
+</span>
+
+---
+
+## Exclusive-Biden urges US Congress to approve F-16 sale to Turkey 'without delay'
+
+date: 2024-01-25, updated: 2024-01-25, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. President Joe Biden sent a letter to leaders of key Capitol Hill committees on Wednesday informing them of his intention to begin the formal notification process for the sale of Lockheed Martin F-16 aircraft to Turkey once Ankara completes Sweden’s NATO accession process.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/exclusive-biden-urges-us-congress-to-approve-f-16-sale-to-turkey-without-delay/article_71dc7ba8-bb69-11ee-9cb3-477187fa064e.html">https://www.mvariety.com/news/national/exclusive-biden-urges-us-congress-to-approve-f-16-sale-to-turkey-without-delay/article_71dc7ba8-bb69-11ee-9cb3-477187fa064e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/exclusive-biden-urges-us-congress-to-approve-f-16-sale-to-turkey-without-delay/article_71dc7ba8-bb69-11ee-9cb3-477187fa064e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Emergency power projects approved to bridge Guams' capacity gap pending completion of Ukudu plant 
+
+date: 2024-01-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Consolidated Commission on Utilities has approved two emergency power projects that would...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/emergency-power-projects-approved-to-bridge-guams-capacity-gap-pending-completion-of-ukudu-plant">https://www.pacificislandtimes.com/post/emergency-power-projects-approved-to-bridge-guams-capacity-gap-pending-completion-of-ukudu-plant</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/emergency-power-projects-approved-to-bridge-guams-capacity-gap-pending-completion-of-ukudu-plant">Save to Pocket</a>
+</span>
+
+---
+
+## 5 ways to eat smart at a fast-food restaurant
+
+date: 2024-01-25, updated: 2024-01-25, from: Marianas Variety
+
+(BHG.com)— Fast food and healthy eating don’t always go hand-in-hand (especially if you don’t have time to make a copycat version of your favorite dish at home). Still, about 1 in 3 Americans eat fast food daily, so it pays to make healthy choices whenever you stop at the drive-through.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/specials/2024/healthy_lifestyle_habits/5-ways-to-eat-smart-at-a-fast-food-restaurant/article_5987c3d2-ba47-11ee-9d70-336072ed7724.html">https://www.mvariety.com/specials/2024/healthy_lifestyle_habits/5-ways-to-eat-smart-at-a-fast-food-restaurant/article_5987c3d2-ba47-11ee-9d70-336072ed7724.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/specials/2024/healthy_lifestyle_habits/5-ways-to-eat-smart-at-a-fast-food-restaurant/article_5987c3d2-ba47-11ee-9d70-336072ed7724.html">Save to Pocket</a>
+</span>
+
+---
+
+## The best women’s running shoes to buy in 2024, according to reviews
+
+date: 2024-01-25, updated: 2024-01-25, from: Marianas Variety
+
+(TNS) — Whether you’re hitting the pavement or the trotting trails, a good pair of running shoes is essential for comfort and to avoid injury.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/specials/2024/healthy_lifestyle_habits/the-best-women-s-running-shoes-to-buy-in-2024-according-to-reviews/article_47cd5ac4-ba49-11ee-ac2f-0322d48363a4.html">https://www.mvariety.com/specials/2024/healthy_lifestyle_habits/the-best-women-s-running-shoes-to-buy-in-2024-according-to-reviews/article_47cd5ac4-ba49-11ee-ac2f-0322d48363a4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/specials/2024/healthy_lifestyle_habits/the-best-women-s-running-shoes-to-buy-in-2024-according-to-reviews/article_47cd5ac4-ba49-11ee-ac2f-0322d48363a4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Storm surge forces Roi-Namur evacuation
+
+date: 2024-01-25, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON  Offshore storm surges supercharged waves Saturday night, causing flooding and some damage at Roi-Namur Island in Kwajalein Atoll, resulting in evacuation of 80 people from the island. Flooding caused by the waves also hit an airport at Ailinglaplap Atoll, leaving rocks, coral and debris in their wake that will keep the runway closed [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/storm-surge-forces-roi-namur-evacuation/">Storm surge forces Roi-Namur evacuation</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/storm-surge-forces-roi-namur-evacuation/">https://marshallislandsjournal.com/storm-surge-forces-roi-namur-evacuation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/storm-surge-forces-roi-namur-evacuation/">Save to Pocket</a>
+</span>
+
+---
+
+## US Navy sends first warship through Taiwan Strait post-election
+
+date: 2024-01-25, updated: 2024-01-25, from: Marianas Variety
+
+BEIJING (Reuters) — The United States Navy sailed its first warship through the sensitive Taiwan Strait on Wednesday following presidential and parliamentary elections on the island, drawing the ire of Beijing.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-navy-sends-first-warship-through-taiwan-strait-post-election/article_b9681938-bb5e-11ee-9515-0fb6297eb5af.html">https://www.mvariety.com/news/national/us-navy-sends-first-warship-through-taiwan-strait-post-election/article_b9681938-bb5e-11ee-9515-0fb6297eb5af.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-navy-sends-first-warship-through-taiwan-strait-post-election/article_b9681938-bb5e-11ee-9515-0fb6297eb5af.html">Save to Pocket</a>
+</span>
+
+---
+
+## US 'deplores' Israeli attack on UN training center in Gaza -State Dept
+
+date: 2024-01-25, updated: 2024-01-25, from: Marianas Variety
+
+WASHINGTON (Reuters) — The United States was concerned by an Israeli attack on a U.N. training center sheltering displaced people in Gaza's Khan Younis on Wednesday, Deputy State Department spokesperson Vedant Patel said, repeating Washington's calls for protection of civilians, humanitarian workers and aid facilities.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-deplores-israeli-attack-on-un-training-center-in-gaza--state-dept/article_16d92b9e-bb5e-11ee-ae3a-bf494549a94c.html">https://www.mvariety.com/news/national/us-deplores-israeli-attack-on-un-training-center-in-gaza--state-dept/article_16d92b9e-bb5e-11ee-ae3a-bf494549a94c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-deplores-israeli-attack-on-un-training-center-in-gaza--state-dept/article_16d92b9e-bb5e-11ee-ae3a-bf494549a94c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Heine declares power emergency
+
+date: 2024-01-25, from: Marshal Islands Journal
+
+<p>The new administration of President Hilda Heine announced two weeks ago that it was intending to declare a state of emergency for the power situation in Majuro. This week, several days after President Heine highlighted the power problem in her inauguration speech at Nitijela Monday, the government moved ahead with this plan. “We are now [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/heine-declares-power-emergency/">Heine declares power emergency</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/heine-declares-power-emergency/">https://marshallislandsjournal.com/heine-declares-power-emergency/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/heine-declares-power-emergency/">Save to Pocket</a>
+</span>
+
+---
+
+## Senior FDIC attorney pleads guilty to sexually exploiting children - DOJ
+
+date: 2024-01-25, updated: 2024-01-25, from: Marianas Variety
+
+WASHINGTON (Reuters) — A senior attorney with the Federal Deposit Insurance Corporation has pleaded guilty to one charge of sexually exploiting children, the U.S. Justice Department announced late Tuesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/senior-fdic-attorney-pleads-guilty-to-sexually-exploiting-children---doj/article_590e6190-bb2d-11ee-9a5e-9341b262083e.html">https://www.mvariety.com/news/national/senior-fdic-attorney-pleads-guilty-to-sexually-exploiting-children---doj/article_590e6190-bb2d-11ee-9a5e-9341b262083e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/senior-fdic-attorney-pleads-guilty-to-sexually-exploiting-children---doj/article_590e6190-bb2d-11ee-9a5e-9341b262083e.html">Save to Pocket</a>
+</span>
+
+---
+
+## White House pauses decision on Louisiana LNG export terminal -New York Times
+
+date: 2024-01-25, updated: 2024-01-25, from: Marianas Variety
+
+WASHINGTON (Reuters) — The Biden administration is delaying a decision on a Louisiana liquefied natural gas (LNG) export project that would be the United States' largest, but which has raised the ire of environmentalists, the New York Times reported on Wednesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/white-house-pauses-decision-on-louisiana-lng-export-terminal--new-york-times/article_1f038f52-bb2d-11ee-95d6-e7f53f636448.html">https://www.mvariety.com/news/national/white-house-pauses-decision-on-louisiana-lng-export-terminal--new-york-times/article_1f038f52-bb2d-11ee-95d6-e7f53f636448.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/white-house-pauses-decision-on-louisiana-lng-export-terminal--new-york-times/article_1f038f52-bb2d-11ee-95d6-e7f53f636448.html">Save to Pocket</a>
+</span>
+
+---
+
+## UAW, Fain endorse Biden, say Trump 'stands against everything we stand for'
+
+date: 2024-01-25, updated: 2024-01-25, from: Marianas Variety
+
+WASHINGTON (Reuters) — The United Auto Workers union endorsed U.S. President Joe Biden's reelection bid on Wednesday, with the union president delivering a fiery speech in Washington that was also harshly critical of Republican former President Donald Trump.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/uaw-fain-endorse-biden-say-trump-stands-against-everything-we-stand-for/article_c425bf56-bb2c-11ee-a616-ff525a1084f6.html">https://www.mvariety.com/news/national/uaw-fain-endorse-biden-say-trump-stands-against-everything-we-stand-for/article_c425bf56-bb2c-11ee-a616-ff525a1084f6.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/uaw-fain-endorse-biden-say-trump-stands-against-everything-we-stand-for/article_c425bf56-bb2c-11ee-a616-ff525a1084f6.html">Save to Pocket</a>
+</span>
+
+---
+
+## Maui wildfire health researchers inform lawmakers, recruit participants
+
+date: 2024-01-25, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Researchers are hoping to sign up at least 1,000 people to participate in the study.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/24/maui-wes-informational-briefing/">Maui wildfire health researchers inform lawmakers, recruit participants</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/24/maui-wes-informational-briefing/">https://www.hawaii.edu/news/2024/01/24/maui-wes-informational-briefing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/24/maui-wes-informational-briefing/">Save to Pocket</a>
+</span>
+
+---
+
+## UH law school earns top marks for diversity
+
+date: 2024-01-25, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Richardson ranked as No. 9 in the nation for best schools for Asian students and No. 26 for Hispanic students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/24/law-school-diversity-ranking/"><abbr>UH</abbr> law school earns top marks for diversity</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/24/law-school-diversity-ranking/">https://www.hawaii.edu/news/2024/01/24/law-school-diversity-ranking/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/24/law-school-diversity-ranking/">Save to Pocket</a>
+</span>
+
+---
+
+## Hilda lays out her plan
+
+date: 2024-01-25, from: Marshal Islands Journal
+
+<p>WILMER JOEL President Hilda Heine and her cabinet were formally inaugurated on Monday January 22 inside the Nitijela Chamber. Top dignitaries from the Pacific, Asia, and North America attended the inauguration. In her first second-term address to the nation as president, Heine outlined the goals of her administration in steering the country towards prosperity and [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/hilda-lays-out-her-plan/">Hilda lays out her plan</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/hilda-lays-out-her-plan/">https://marshallislandsjournal.com/hilda-lays-out-her-plan/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/hilda-lays-out-her-plan/">Save to Pocket</a>
+</span>
+
+---
+
+## Guam's unemployment rate remains low 
+
+date: 2024-01-24, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam's unemployment rate remains low but adjusted slightly by .10 percent to 4.1 percent in the...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/guam-s-unemployment-rate-remains-low">https://www.pacificislandtimes.com/post/guam-s-unemployment-rate-remains-low</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/guam-s-unemployment-rate-remains-low">Save to Pocket</a>
+</span>
+
+---
+
+## Kwaj worth $30m to RMI
+
+date: 2024-01-24, from: Marshal Islands Journal
+
+<p>Journal 1/23/1987 P1 Copra warsOuter islanders were solely disappointed by the recent government announcement that the price of copra during 1987 would be only eight cents per pound. On Ailinglaplap, copra producers had unanimously agreed to “strike” not selling a single bag of copra during the field trip ship service in early January when the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/kwaj-worth-30m-to-rmi/">Kwaj worth $30m to RMI</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/kwaj-worth-30m-to-rmi/">https://marshallislandsjournal.com/kwaj-worth-30m-to-rmi/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/kwaj-worth-30m-to-rmi/">Save to Pocket</a>
+</span>
+
+---
+
+## INSIGHTS ON PBS HAWAIʻI Has the Worker Shortage Problem Improved?
+
+date: 2024-01-24, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Join the conversation on our Facebook , Thursday, February 1 at 7:30 pm on INSIGHTS ON PBS HAWAIʻI. Scheduled Guests: &#160; &#160; &#160; &#160;</p>
+<p>The post <a href="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-has-the-worker-shortage-problem-improved/">INSIGHTS ON PBS HAWAIʻI &lt;br/&gt;Has the Worker Shortage Problem Improved?</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-has-the-worker-shortage-problem-improved/">https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-has-the-worker-shortage-problem-improved/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-has-the-worker-shortage-problem-improved/">Save to Pocket</a>
+</span>
+
+---
+
+## Climate change will require more cooling for Honolulu multifamily buildings
+
+date: 2024-01-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> The findings indicate a concerning trend: without intervention, these buildings are expected to become warmer and less comfortable.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/24/honolulu-multifamily-buildings/">Climate change will require more cooling for Honolulu multifamily buildings</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/24/honolulu-multifamily-buildings/">https://www.hawaii.edu/news/2024/01/24/honolulu-multifamily-buildings/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/24/honolulu-multifamily-buildings/">Save to Pocket</a>
+</span>
+
+---
+
+## Humpback whale singers move depending on time of day
+
+date: 2024-01-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Whales move their singing away from shore throughout the day and return to the nearshore in the evening.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/24/humpback-whale-singers-move/">Humpback whale singers move depending on time of day</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/24/humpback-whale-singers-move/">https://www.hawaii.edu/news/2024/01/24/humpback-whale-singers-move/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/24/humpback-whale-singers-move/">Save to Pocket</a>
+</span>
+
+---
+
+## UH News Image of the Week: Colville’s Glory
+
+date: 2024-01-24, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> This week’s image is from <abbr>UH</abbr> Mānoa's Nancy Marker,</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/24/uh-news-image-of-the-week-colvilles-glory/"><abbr>UH</abbr> News Image of the Week: Colville’s Glory</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/24/uh-news-image-of-the-week-colvilles-glory/">https://www.hawaii.edu/news/2024/01/24/uh-news-image-of-the-week-colvilles-glory/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/24/uh-news-image-of-the-week-colvilles-glory/">Save to Pocket</a>
+</span>
+
+---
+
+## From student media to social media
+
+date: 2024-01-24, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/from-student-media-to-social-media/article_9d4d11a4-ba3c-11ee-ae40-0f020e9b2da0.html">https://www.manoanow.org/kaleo/from-student-media-to-social-media/article_9d4d11a4-ba3c-11ee-ae40-0f020e9b2da0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/from-student-media-to-social-media/article_9d4d11a4-ba3c-11ee-ae40-0f020e9b2da0.html">Save to Pocket</a>
+</span>
+
+---
+
+## ʻOnipaʻa march incites change
+
+date: 2024-01-24, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/onipa-a-march-incites-change/article_49427e40-ba3d-11ee-9ede-5f58188b5787.html">https://www.manoanow.org/kaleo/onipa-a-march-incites-change/article_49427e40-ba3d-11ee-9ede-5f58188b5787.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/onipa-a-march-incites-change/article_49427e40-ba3d-11ee-9ede-5f58188b5787.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1105,6 +1408,20 @@ By Myracle S. Mugol Saipan-- On the island of Saipan, a Chamorro filmmaker with 
 
 <span class="feed-item-link">
 <a href="https://www.pacificislandtimes.com/post/cinematic-ode-to-the-marianas">https://www.pacificislandtimes.com/post/cinematic-ode-to-the-marianas</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/cinematic-ode-to-the-marianas">Save to Pocket</a>
+</span>
+
+---
+
+## New students excited to begin their studies at USP
+
+date: 2024-01-21, from: University of the South Pacific (Fiji)
+
+<p>Josua Lutu and Esther Tuatoko, former Gospel High School and Bhawani Dayal Arya College students,...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/new-students-excited-to-begin-their-studies-at-usp/">New students excited to begin their studies at USP</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/new-students-excited-to-begin-their-studies-at-usp/">https://www.usp.ac.fj/news/new-students-excited-to-begin-their-studies-at-usp/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/new-students-excited-to-begin-their-studies-at-usp/">Save to Pocket</a>
 </span>
 
 ---

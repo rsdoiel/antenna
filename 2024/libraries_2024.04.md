@@ -1,11 +1,37 @@
 ---
 title: libraries 2024.04
-updated: 2024-01-24 07:16:25
+updated: 2024-01-25 07:07:18
 ---
 
 # libraries 2024.04
 
-(date: 2024-01-24 07:16:25)
+(date: 2024-01-25 07:07:18)
+
+---
+
+## Let’s Be Cautious As We Cede Reading to Machines
+
+date: 2024-01-25, from: Scholarly Kitchen
+
+<p>AI might help with the deluge of content, but there are problems when we rely on machines to think for us.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/01/25/lets-be-cautious-as-we-cede-reading-to-machines/">Let’s Be Cautious As We Cede Reading to Machines</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/01/25/lets-be-cautious-as-we-cede-reading-to-machines/">https://scholarlykitchen.sspnet.org/2024/01/25/lets-be-cautious-as-we-cede-reading-to-machines/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/01/25/lets-be-cautious-as-we-cede-reading-to-machines/">Save to Pocket</a>
+</span>
+
+---
+
+## Poetry, by Fernando Pessoa
+
+date: 2024-01-24, from: Standard Ebooks, new releaases
+
+A collection of Fernando Pessoa’s poetry.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/fernando-pessoa/poetry">https://standardebooks.org/ebooks/fernando-pessoa/poetry</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/fernando-pessoa/poetry">Save to Pocket</a>
+</span>
 
 ---
 
@@ -108,7 +134,7 @@ date: 2024-01-23, from: Scholarly Kitchen
 
 date: 2024-01-22, from: Association of Research Libraries News
 
-<p>Last Updated on January 23, 2024, 3:36 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 23 &#124; Wednesday, January 24 &#124; Thursday,...</p>
+<p>Last Updated on January 24, 2024, 2:57 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 23 &#124; Wednesday, January 24 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-22-25/">Day in Review (January 22–25)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 

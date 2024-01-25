@@ -1,11 +1,180 @@
 ---
 title: columns 2024.04
-updated: 2024-01-24 07:16:25
+updated: 2024-01-25 07:07:17
 ---
 
 # columns 2024.04
 
-(date: 2024-01-24 07:16:25)
+(date: 2024-01-25 07:07:17)
+
+---
+
+## Quantum Computing Skeptics
+
+date: 2024-01-25, updated: 2024-01-19, from: Bruce Schneier blog
+
+<p>Interesting <a href="https://spectrum.ieee.org/quantum-computing-skeptics">article</a>. I am also skeptical that we are going to see useful quantum computers anytime soon. Since at least 2019, I <a href="https://www.schneier.com/blog/archives/2019/10/factoring_2048.html">have been saying</a> that this is hard. And that we don&#8217;t know if it&#8217;s &#8220;land a person on the surface of the moon&#8221; hard,  or &#8220;land a person on the surface of the sun&#8221; hard. They&#8217;re both hard, but very different.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/quantum-computing-skeptics.html">https://www.schneier.com/blog/archives/2024/01/quantum-computing-skeptics.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/quantum-computing-skeptics.html">Save to Pocket</a>
+</span>
+
+---
+
+## Wanna know Trump’s running mate?
+
+date: 2024-01-25, from: Robert Reich's blog
+
+She checks all the awful boxes
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/wanna-know-trumps-running-mate">https://robertreich.substack.com/p/wanna-know-trumps-running-mate</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/wanna-know-trumps-running-mate">Save to Pocket</a>
+</span>
+
+---
+
+## Coming: a curl distros meeting
+
+date: 2024-01-25, from: Daniel Stenberg Blog
+
+The curl project arranges a two hour video conference meeting on March 21, 2024, with the aim of getting together people from curl and persons packaging curl for distributions. Linux distros and others. If you distribute curl to your users, consider yourself invited! The main purpose is to improve curl and how curl is shipped &#8230; <a href="https://daniel.haxx.se/blog/2024/01/25/coming-a-curl-distros-meeting/" class="more-link">Continue reading <span class="screen-reader-text">Coming: a curl distros meeting</span> <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://daniel.haxx.se/blog/2024/01/25/coming-a-curl-distros-meeting/">https://daniel.haxx.se/blog/2024/01/25/coming-a-curl-distros-meeting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daniel.haxx.se/blog/2024/01/25/coming-a-curl-distros-meeting/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Insanely Great: The Apple Mac at 40’ Panel Discussion
+
+date: 2024-01-25, updated: 2024-01-25, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.youtube.com/watch?v=Vl__10euTRo">https://www.youtube.com/watch?v=Vl__10euTRo</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.youtube.com/watch?v=Vl__10euTRo">Save to Pocket</a>
+</span>
+
+---
+
+## Steven Levy: ‘Apple Shares the Secret of Why the 40-Year-Old Mac Still Rules’
+
+date: 2024-01-25, updated: 2024-01-25, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/">https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Show Me More Macs’: Every Macintosh Ever Made
+
+date: 2024-01-25, updated: 2024-01-25, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://mac40th.com/">https://mac40th.com/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mac40th.com/">Save to Pocket</a>
+</span>
+
+---
+
+## Harry McCracken on the Original Macintosh
+
+date: 2024-01-25, updated: 2024-01-25, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.fastcompany.com/91013403/40-years-later-the-original-mac-is-more-amazing-than-ever">https://www.fastcompany.com/91013403/40-years-later-the-original-mac-is-more-amazing-than-ever</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.fastcompany.com/91013403/40-years-later-the-original-mac-is-more-amazing-than-ever">Save to Pocket</a>
+</span>
+
+---
+
+## Jason Snell: ‘The Mac Turns 40’
+
+date: 2024-01-25, updated: 2024-01-25, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.theverge.com/24048479/apple-mac-40-anniversary">https://www.theverge.com/24048479/apple-mac-40-anniversary</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theverge.com/24048479/apple-mac-40-anniversary">Save to Pocket</a>
+</span>
+
+---
+
+## Jon Stewart Is Returning to ‘The Daily Show’
+
+date: 2024-01-24, updated: 2024-01-24, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.nbcnews.com/pop-culture/jon-stewart-returns-daily-show-rcna135483">https://www.nbcnews.com/pop-culture/jon-stewart-returns-daily-show-rcna135483</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nbcnews.com/pop-culture/jon-stewart-returns-daily-show-rcna135483">Save to Pocket</a>
+</span>
+
+---
+
+## Spotify Reveals Its Plans for the Post-DMA Era of Sideloading in the E.U.
+
+date: 2024-01-24, updated: 2024-01-24, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://newsroom.spotify.com/2024-01-24/the-dma-means-a-better-spotify-for-artists-creators-and-you/">https://newsroom.spotify.com/2024-01-24/the-dma-means-a-better-spotify-for-artists-creators-and-you/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://newsroom.spotify.com/2024-01-24/the-dma-means-a-better-spotify-for-artists-creators-and-you/">Save to Pocket</a>
+</span>
+
+---
+
+## The Wall Street Journal on Apple’s Plans for iOS Sideloading in the E.U.
+
+date: 2024-01-24, updated: 2024-01-25, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.wsj.com/tech/apple-plans-new-fees-and-restrictions-for-downloads-outside-app-store-f464f426?mod=hp_lista_pos1">https://www.wsj.com/tech/apple-plans-new-fees-and-restrictions-for-downloads-outside-app-store-f464f426?mod=hp_lista_pos1</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.wsj.com/tech/apple-plans-new-fees-and-restrictions-for-downloads-outside-app-store-f464f426?mod=hp_lista_pos1">Save to Pocket</a>
+</span>
+
+---
+
+## Signal Will Cost $50 Million Per Year to Run
+
+date: 2024-01-24, updated: 2024-01-24, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://signal.org/blog/signal-is-expensive/">https://signal.org/blog/signal-is-expensive/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://signal.org/blog/signal-is-expensive/">Save to Pocket</a>
+</span>
+
+---
+
+## Using details/summary and colour coding on GitHub pages
+
+date: 2024-01-24, from: Chris Heilmann's blog
+
+As CODE100 is coming to Amsterdam, we needed an archive of all the code puzzles we had so far. As the challenges are all on GitHub, it made sense to use GitHub pages for that. So I needed to fix two issues: I wanted to have colour coding of code examples much like the GitHub [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://christianheilmann.com/2024/01/24/using-details-summary-and-colour-coding-on-github-pages/">https://christianheilmann.com/2024/01/24/using-details-summary-and-colour-coding-on-github-pages/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://christianheilmann.com/2024/01/24/using-details-summary-and-colour-coding-on-github-pages/">Save to Pocket</a>
+</span>
+
+---
+
+## Moral clarity in Gaza
+
+date: 2024-01-24, from: Robert Reich's blog
+
+100 days into this horror
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/moral-clarity-in-gaza">https://robertreich.substack.com/p/moral-clarity-in-gaza</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/moral-clarity-in-gaza">Save to Pocket</a>
+</span>
 
 ---
 
@@ -59,11 +228,11 @@ On December 21 2023 I started using this new keyboard as my daily driver. I have
 
 ---
 
-## Trump's poor showing in New Hampshire
+## Trump’s poor showing in New Hampshire
 
 date: 2024-01-24, from: Robert Reich's blog
 
-Read the results in the context of next November's general election
+Read the results in the context of next November&#8217;s general election
 
 <span class="feed-item-link">
 <a href="https://robertreich.substack.com/p/trumps-poor-showing-in-new-hampshire">https://robertreich.substack.com/p/trumps-poor-showing-in-new-hampshire</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/trumps-poor-showing-in-new-hampshire">Save to Pocket</a>

@@ -1,11 +1,59 @@
 ---
 title: mid central 2024.04
-updated: 2024-01-24 07:16:25
+updated: 2024-01-25 07:07:17
 ---
 
 # mid central 2024.04
 
-(date: 2024-01-24 07:16:25)
+(date: 2024-01-25 07:07:17)
+
+---
+
+## Dense Fog Advisory issued January 25 at 1:16AM PST until January 25 at 11:00AM PST by NWS
+
+date: 2024-01-25, updated: 2024-01-25, from: Merced, Weather.gov CAP v1.1 alerts
+
+...A DENSE FOG ADVISORY IS IN EFFECT UNTIL 11 AM PST THIS MORNING... * WHAT...Visibilities in dense fog ranging from 800 feet to as low as 200 feet. * WHERE...Northwestern San Joaquin Valley * WHEN...Until 11 AM PST this morning. * IMPACTS...Low visibilities will make driving conditions hazardous.
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126885775F10.DenseFogAdvisory.12688578DF70CA.HNXNPWHNX.27261a8923e0c0207ae96889b84158a6">https://alerts.weather.gov/cap/wwacapget.php?x=CA126885775F10.DenseFogAdvisory.12688578DF70CA.HNXNPWHNX.27261a8923e0c0207ae96889b84158a6</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA126885775F10.DenseFogAdvisory.12688578DF70CA.HNXNPWHNX.27261a8923e0c0207ae96889b84158a6">Save to Pocket</a>
+</span>
+
+---
+
+## Head Coach Justin Hutson returns but the ‘Dogs face last-minute loss
+
+date: 2024-01-25, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+After missing two games due to an illness, Head Coach Justin Hutson returned to the sideline in a game that was decided in the final minutes. In place of his absence, assistant coach Keith Brown temporarily stepped in when the Bulldogs faced an 85-82 win over San Jose State on Jan. 16 and an 83-62...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/01/head-coach-justin-hutson-returns-but-the-dogs-face-last-minute-loss/">https://fscollegian.com/2024/01/head-coach-justin-hutson-returns-but-the-dogs-face-last-minute-loss/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/01/head-coach-justin-hutson-returns-but-the-dogs-face-last-minute-loss/">Save to Pocket</a>
+</span>
+
+---
+
+## Fresno State football adds a former five-star recruit from a Power Five school
+
+date: 2024-01-24, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Over the winter break, it was announced that the previous University of Southern California (USC) edge rusher Korey Foreman is transferring to Fresno State.  On Jan. 11, Foreman announced via his Instagram that he had committed to Fresno State. Foreman was the No. 3 overall prospect in the nation for the 2021 recruiting class, according...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/01/fresno-state-football-adds-a-former-five-star-recruit-from-a-power-five-school/">https://fscollegian.com/2024/01/fresno-state-football-adds-a-former-five-star-recruit-from-a-power-five-school/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/01/fresno-state-football-adds-a-former-five-star-recruit-from-a-power-five-school/">Save to Pocket</a>
+</span>
+
+---
+
+## CSU student assistants will vote to unionize on Jan. 25
+
+date: 2024-01-24, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+With unions receiving a mass wave of popularity over the last few years, especially from young adults, many consider it a big deal that the student assistants across the California State University campuses are the next group voting to unionize. Working alongside the CSU Employees Union (CSUEU) and Service Employees International Union 2579 (SEIU) members,...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/01/student-assistants-working-to-unionize/">https://fscollegian.com/2024/01/student-assistants-working-to-unionize/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/01/student-assistants-working-to-unionize/">Save to Pocket</a>
+</span>
 
 ---
 

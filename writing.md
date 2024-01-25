@@ -1,11 +1,36 @@
 ---
 title: writing 2024.04
-updated: 2024-01-24 07:16:25
+updated: 2024-01-25 07:07:17
 ---
 
 # writing 2024.04
 
-(date: 2024-01-24 07:16:25)
+(date: 2024-01-25 07:07:17)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-24, from: Neil Gaiman @ BlueSky)
+
+I wonder if it will stop here. I would definitely appreciate a public statement from the next Worldcon about this, if only to reassure us that future Hugo voters will be permitted to vote for things nominated.
+
+www.theguardian.com/books/2024/j...
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjqvraatjc2r">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjqvraatjc2r</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjqvraatjc2r">Save to Pocket</a>
+</span>
+
+---
+
+## Archita Mittra Reviews Dry Land by B. Pladek
+
+date: 2024-01-24, from: Locus Magazine
+
+<p><strong>Dry Land</strong>, B. Pladek (University of Wisconsin Press 978-0-29934-394-1, 264pp, $18.95, tp) September 2023.</p>
+<p><strong>D</strong><strong>ry Land</strong>, B. Pladek’s debut novel, is historical climate fiction that medi­tates upon man’s fraught relationship with the natural environment and the limits of magical powers, enlivened with evocative sketches of the Wisconsin wilderness. Set against the backdrop of the First World War, the story revolves around Rand Brandt, a young man whose  <a href="https://locusmag.com/2024/01/archita-mittra-reviews-dry-land-by-b-pladek/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/archita-mittra-reviews-dry-land-by-b-pladek/">https://locusmag.com/2024/01/archita-mittra-reviews-dry-land-by-b-pladek/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/archita-mittra-reviews-dry-land-by-b-pladek/">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,324 @@
 ---
 title: socal north 2024.04
-updated: 2024-01-24 07:16:25
+updated: 2024-01-25 07:07:17
 ---
 
 # socal north 2024.04
 
-(date: 2024-01-24 07:16:25)
+(date: 2024-01-25 07:07:17)
+
+---
+
+## CSU Faculty Say Students Need More Counselors. Will The New Bargaining Agreement Help?
+
+date: 2024-01-25, updated: 2024-01-25, from: The LAist
+
+While mental health counselors will see an increase in pay, their demands for increased hiring of tenure-track faculty was not included in the agreement.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/csu-strike-cal-state-counselors-faculty-want-more-support">https://laist.com/news/education/csu-strike-cal-state-counselors-faculty-want-more-support</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/csu-strike-cal-state-counselors-faculty-want-more-support">Save to Pocket</a>
+</span>
+
+---
+
+## LA County Leaders Advance Proposal That Could Require AC In Rental Housing
+
+date: 2024-01-25, updated: 2024-01-25, from: The LAist
+
+A final vote on requiring air conditioning in L.A. apartments is still months away. But local landlord groups have begun fighting the idea.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/los-angeles-cooling-air-conditioning-extreme-heat-renter-landlord-tenant-requirement-climate-change-housing">https://laist.com/news/housing-homelessness/los-angeles-cooling-air-conditioning-extreme-heat-renter-landlord-tenant-requirement-climate-change-housing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/los-angeles-cooling-air-conditioning-extreme-heat-renter-landlord-tenant-requirement-climate-change-housing">Save to Pocket</a>
+</span>
+
+---
+
+## How Can California Get Everyone Online? Final Call To Add Your Voice
+
+date: 2024-01-25, updated: 2024-01-25, from: The LAist
+
+As the state finalizes its multi-billion dollar Digital Equity Plan, Thursday is the last day for public comment
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/how-can-california-get-everyone-online-final-call-to-add-your-voice">https://laist.com/news/how-can-california-get-everyone-online-final-call-to-add-your-voice</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/how-can-california-get-everyone-online-final-call-to-add-your-voice">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – January 25, 2024
+
+date: 2024-01-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/25/classifieds-january-25-2024/">Classifieds &#8211; January 25, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/25/classifieds-january-25-2024/">https://dailytrojan.com/2024/01/25/classifieds-january-25-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/25/classifieds-january-25-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Live Free or Die: Primary survival
+
+date: 2024-01-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Trump won Iowa and New Hampshire, and everyone else lost (their minds).</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/25/live-free-or-die-primary-survival/">Live Free or Die: Primary survival</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/25/live-free-or-die-primary-survival/">https://dailytrojan.com/2024/01/25/live-free-or-die-primary-survival/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/25/live-free-or-die-primary-survival/">Save to Pocket</a>
+</span>
+
+---
+
+## The Cleveland Summit blueprinted athlete activism
+
+date: 2024-01-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Muhammad Ali, Jim Brown, Bill Russell and Kareem Abdul-Jabbar set the precedent for athletes making a change off the fields and courts.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/25/198711/">The Cleveland Summit blueprinted athlete activism</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/25/198711/">https://dailytrojan.com/2024/01/25/198711/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/25/198711/">Save to Pocket</a>
+</span>
+
+---
+
+## Anticipated video games launching in February
+
+date: 2024-01-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Kick off the new year with these upcoming impressive interactive blockbusters.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/25/anticipated-video-games-launching-in-february/">Anticipated video games launching in February</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/25/anticipated-video-games-launching-in-february/">https://dailytrojan.com/2024/01/25/anticipated-video-games-launching-in-february/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/25/anticipated-video-games-launching-in-february/">Save to Pocket</a>
+</span>
+
+---
+
+## 110 closures to disrupt weekend travel
+
+date: 2024-01-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Various ramp and roadway closures will likely affect traffic around weekend events at USC and the surrounding area.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/25/110-closures-to-disrupt-weekend-travel/">110 closures to disrupt weekend travel</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/25/110-closures-to-disrupt-weekend-travel/">https://dailytrojan.com/2024/01/25/110-closures-to-disrupt-weekend-travel/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/25/110-closures-to-disrupt-weekend-travel/">Save to Pocket</a>
+</span>
+
+---
+
+## The power of a comfort show
+
+date: 2024-01-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>BBC’s “Ghosts” has helped keep me sane with lighthearted and lovable fun. </p>
+<p>The post <a href="https://dailytrojan.com/2024/01/25/the-power-of-a-comfort-show/">The power of a comfort show</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/25/the-power-of-a-comfort-show/">https://dailytrojan.com/2024/01/25/the-power-of-a-comfort-show/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/25/the-power-of-a-comfort-show/">Save to Pocket</a>
+</span>
+
+---
+
+## Months of layoffs and controversy unearth old concerns, anxieties in some journalism students
+
+date: 2024-01-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Israel-Hamas war has drawn students’ attention to the challenges of the journalism industry.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/25/months-of-layoffs-and-controversy-unearth-old-concerns-anxieties-in-some-journalism-students/">Months of layoffs and controversy unearth old concerns, anxieties in some journalism students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/25/months-of-layoffs-and-controversy-unearth-old-concerns-anxieties-in-some-journalism-students/">https://dailytrojan.com/2024/01/25/months-of-layoffs-and-controversy-unearth-old-concerns-anxieties-in-some-journalism-students/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/25/months-of-layoffs-and-controversy-unearth-old-concerns-anxieties-in-some-journalism-students/">Save to Pocket</a>
+</span>
+
+---
+
+## USC women’s basketball welcomes Washington schools
+
+date: 2024-01-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>After a rough 0-2 trip to the Rockies, the Trojans prepare for a lighter homestand.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/25/198681/">USC women’s basketball welcomes Washington schools</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/25/198681/">https://dailytrojan.com/2024/01/25/198681/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/25/198681/">Save to Pocket</a>
+</span>
+
+---
+
+## USC must spread awareness about the opioid epidemic
+
+date: 2024-01-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The opioid epidemic can only be effectively addressed by awareness and education.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/25/usc-must-spread-awareness-about-the-opioid-epidemic/">USC must spread awareness about the opioid epidemic</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/25/usc-must-spread-awareness-about-the-opioid-epidemic/">https://dailytrojan.com/2024/01/25/usc-must-spread-awareness-about-the-opioid-epidemic/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/25/usc-must-spread-awareness-about-the-opioid-epidemic/">Save to Pocket</a>
+</span>
+
+---
+
+## LLC Palooza 2024 highlights importance of community, empathy at UCLA
+
+date: 2024-01-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA hosted an event Jan. 17 aimed at highlighting its Living Learning Communities.
+The LLC Palooza  is an annual event showcasing the different student-led, identity-based housing communities on the Hill.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/24/llc-palooza-2024-highlights-importance-of-community-empathy-at-ucla/">https://dailybruin.com/2024/01/24/llc-palooza-2024-highlights-importance-of-community-empathy-at-ucla/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/24/llc-palooza-2024-highlights-importance-of-community-empathy-at-ucla/">Save to Pocket</a>
+</span>
+
+---
+
+## Westwood leaders host 2024 kickoff brunch at Hammer Museum
+
+date: 2024-01-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Westwood Village Improvement Association hosted community members Thursday morning for its 2024 kickoff brunch at the Hammer Museum.
+The event included speeches from WVIA members and questions from the community.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/24/westwood-leaders-host-2024-kickoff-brunch-at-hammer-museum/">https://dailybruin.com/2024/01/24/westwood-leaders-host-2024-kickoff-brunch-at-hammer-museum/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/24/westwood-leaders-host-2024-kickoff-brunch-at-hammer-museum/">Save to Pocket</a>
+</span>
+
+---
+
+## LAPD searching for suspect after reported shooting near campus injures three
+
+date: 2024-01-25, from: The Daily Trojan (USC Student Newspaper)
+
+<p>LAPD confirmed the victims include a 50-year-old man with a gunshot wound but conscious and breathing. Another victim is unconscious and not breathing, and the third's status remains unknown.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/24/lapd-searching-for-suspect-after-reported-shooting/">LAPD searching for suspect after reported shooting near campus injures three</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/24/lapd-searching-for-suspect-after-reported-shooting/">https://dailytrojan.com/2024/01/24/lapd-searching-for-suspect-after-reported-shooting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/24/lapd-searching-for-suspect-after-reported-shooting/">Save to Pocket</a>
+</span>
+
+---
+
+## Los Angeles Faces Possible Budget Shortfall Of $400 Million
+
+date: 2024-01-25, updated: 2024-01-25, from: The LAist
+
+The shortfall could prompt the city to cut vacant positions.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/los-angeles-faces-budget-shortfall">https://laist.com/news/politics/los-angeles-faces-budget-shortfall</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/los-angeles-faces-budget-shortfall">Save to Pocket</a>
+</span>
+
+---
+
+## Second Take: The obsession with celebrity relationships is getting out of hand
+
+date: 2024-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+The public&#8217;s unhealthy obsession with celebrity relationships is nothing new.
+On Sept. 24, 12-time Grammy winner Taylor Swift was spotted cheering Kansas City Chiefs tight end Travis Kelce as his team defeated the Chicago Bears.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/24/second-take-the-obsession-with-celebrity-relationships-is-getting-out-of-hand/">https://dailybruin.com/2024/01/24/second-take-the-obsession-with-celebrity-relationships-is-getting-out-of-hand/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/24/second-take-the-obsession-with-celebrity-relationships-is-getting-out-of-hand/">Save to Pocket</a>
+</span>
+
+---
+
+## Palestinians Find A Bit Of Hope As Their National Soccer Team Advances In Asian Cup
+
+date: 2024-01-24, updated: 2024-01-24, from: The LAist
+
+The national team's 3-0 victory over Hong Kong brought Palestinians a moment of hope as the squad advances to the knockout stage for the first time in the AFC Asian Cup.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/palestinians-find-a-bit-of-hope-as-their-national-soccer-team-advances-in-asian-cup">https://laist.com/news/palestinians-find-a-bit-of-hope-as-their-national-soccer-team-advances-in-asian-cup</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/palestinians-find-a-bit-of-hope-as-their-national-soccer-team-advances-in-asian-cup">Save to Pocket</a>
+</span>
+
+---
+
+## The West Bank Economy Has Been Hammered By War
+
+date: 2024-01-24, updated: 2024-01-24, from: The LAist
+
+More than three months into Israel's war in Gaza, the economy of the West Bank is reeling. Many fear the economic pain may lead to even more violence in the territory.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/the-west-bank-economy-has-been-hammered-by-war">https://laist.com/news/the-west-bank-economy-has-been-hammered-by-war</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/the-west-bank-economy-has-been-hammered-by-war">Save to Pocket</a>
+</span>
+
+---
+
+## Late Game Collapse Leads to 15th straight loss for the Matadors
+
+date: 2024-01-24, from: The Sundail (CSUN Student Newspaper)
+
+An early fourth quarter collapse by the Matadors (2-15, 0-7 Big West) led to the UC Riverside Highlanders (10-8, 5-3 Big West) running away with a 57-46 victory, Saturday afternoon in Northridge. The loss marks the 15th straight defeat for the Matadors this season, with seven coming in conference play. Forward Kayanna Spriggs led the...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177965/sports/late-game-collapse-leads-to-15th-straight-loss-for-the-matadors/">https://sundial.csun.edu/177965/sports/late-game-collapse-leads-to-15th-straight-loss-for-the-matadors/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177965/sports/late-game-collapse-leads-to-15th-straight-loss-for-the-matadors/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s golf secures win at The Match in the Desert for second year in a row
+
+date: 2024-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins defended their desert title.
+No. 4 UCLA women&#8217;s golf won The Match in the Desert for the second year in a row with a score of 17-under 271, a five-stroke improvement from its win at Superstition Mountain Golf Club in Arizona last year.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/24/ucla-womens-golf-secures-win-at-the-match-in-the-desert-for-second-year-in-a-row/">https://dailybruin.com/2024/01/24/ucla-womens-golf-secures-win-at-the-match-in-the-desert-for-second-year-in-a-row/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/24/ucla-womens-golf-secures-win-at-the-match-in-the-desert-for-second-year-in-a-row/">Save to Pocket</a>
+</span>
+
+---
+
+## New UCLA men’s volleyball rotation gears up for matchups against UCSB, UCSD
+
+date: 2024-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins are returning to Pauley Pavilion for the first half of a back-to-back.
+No. 2 UCLA men&#8217;s volleyball (5-1) will return home to play against No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/24/new-ucla-mens-volleyball-rotation-gears-up-for-matchups-against-ucsb-ucsd/">https://dailybruin.com/2024/01/24/new-ucla-mens-volleyball-rotation-gears-up-for-matchups-against-ucsb-ucsd/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/24/new-ucla-mens-volleyball-rotation-gears-up-for-matchups-against-ucsb-ucsd/">Save to Pocket</a>
+</span>
+
+---
+
+## Slopes Near LA
+
+date: 2024-01-24, from: The Daily Bruin (UCLA Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/24/slopes-near-la/">https://dailybruin.com/2024/01/24/slopes-near-la/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/24/slopes-near-la/">Save to Pocket</a>
+</span>
+
+---
+
+## We will not wait for the next school shooting
+
+date: 2024-01-24, from: The Sundail (CSUN Student Newspaper)
+
+Students are taught to love a country that values guns over our lives. Some of us hear the sound of gunfire when we watch fireworks on the fourth of July, or when we watch a drumline performance at halftime. But all of us have heard the siren of an active shooter drill and fear that...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177955/opinions/we-will-not-wait-for-the-next-school-shooting/">https://sundial.csun.edu/177955/opinions/we-will-not-wait-for-the-next-school-shooting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177955/opinions/we-will-not-wait-for-the-next-school-shooting/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -23,7 +336,7 @@ Editor&#8217;s Note: The following is a student-written op-ed, signed by over 11
 
 ## Lecturers Make Up The Majority Of CSU Faculty. Will They Take The University’s Deal?
 
-date: 2024-01-24, updated: 2024-01-24, from: The LAist
+date: 2024-01-24, updated: 2024-01-25, from: The LAist
 
 Just over half of faculty work part-time and more than half of CSU faculty do not have long-term job security.
 
@@ -236,11 +549,23 @@ The ethics proposal deadlocked among O.C. supervisors 2-to-2. O.C. Supervisor An
 
 ---
 
+## BREAKING: LMU Athletics to discontinue six sports after 2023-24 season
+
+date: 2024-01-24, from: Laloyolan (LMU Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/breaking-lmu-athletics-to-discontinue-six-sports-after-2023-24-season/article_1698e3b0-ba5d-11ee-8c9a-bfd34bdc50e8.html">https://www.laloyolan.com/news/breaking-lmu-athletics-to-discontinue-six-sports-after-2023-24-season/article_1698e3b0-ba5d-11ee-8c9a-bfd34bdc50e8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/breaking-lmu-athletics-to-discontinue-six-sports-after-2023-24-season/article_1698e3b0-ba5d-11ee-8c9a-bfd34bdc50e8.html">Save to Pocket</a>
+</span>
+
+---
+
 ## Op-ed: UCLA must uphold values in and out of classroom, condemn genocide of Palestinians
 
 date: 2024-01-24, from: The Daily Bruin (UCLA Student Newspaper)
 
-This<em> post was updated Jan. 23 at 9:42 p.m.&#160;</em>
+This<em> post was updated Jan. 24 at 9:35 a.m.&#160;</em>
 We, UCLA Faculty for Justice in Palestine, are UCLA faculty members bound together by these core principles.
 
 <span class="feed-item-link">
@@ -614,6 +939,18 @@ Unprecedented December storm damaged Shoreside Power System at the Port of Huene
 
 <span class="feed-item-link">
 <a href="https://www.portofhueneme.org/new-leadership-2/">https://www.portofhueneme.org/new-leadership-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.portofhueneme.org/new-leadership-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Port of Hueneme, Labor and Community Leaders Join Forces in “Powerwall” Response to Infrastructure Emergency
+
+date: 2024-01-23, from: Port Hueneme
+
+Unprecedented December storm damaged Shoreside Power System at the Port of Hueneme, causing more than $30M in damages Download Press Release [Port Hueneme, CA – Jan. 22, 2024] &#8211; The Port of Hueneme, the pioneering West Coast Port in adopting Shoreside Power for cargo vessels, faced substantial setbacks following severe damage to its Shoreside Power <a class="read-more-style" href="https://www.portofhueneme.org/powerwall/">Read More</a>
+
+<span class="feed-item-link">
+<a href="https://www.portofhueneme.org/powerwall/">https://www.portofhueneme.org/powerwall/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.portofhueneme.org/powerwall/">Save to Pocket</a>
 </span>
 
 ---
