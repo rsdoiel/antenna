@@ -1,11 +1,121 @@
 ---
 title: writing 2024.04
-updated: 2024-01-25 07:07:17
+updated: 2024-01-26 08:38:10
 ---
 
 # writing 2024.04
 
-(date: 2024-01-25 07:07:17)
+(date: 2024-01-26 08:38:10)
+
+---
+
+## Alex Brown Reviews Frost Bite by Angela Sylvaine
+
+date: 2024-01-26, from: Locus Magazine
+
+<p><strong>Frost Bite</strong>, Angela Sylvaine (Dark Matter INK 978-1-95859-803-0, $17.99. 280pp, tp) October 2023. Cover by Eric Hibbeler.</p>
+<p>In Angela Sylvaine’s <strong>Frost Bite</strong>, winter has hit Demise, North Dakota hard. Snow and ice have blanketed the town, making everything as cold and miserable as Realene feels. She was on her way out of town, but when her mom was diagnosed with a fatal health condition, Realene’s future crumbled away.  <a href="https://locusmag.com/2024/01/alex-brown-reviews-frost-bite-by-angela-sylvaine/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/alex-brown-reviews-frost-bite-by-angela-sylvaine/">https://locusmag.com/2024/01/alex-brown-reviews-frost-bite-by-angela-sylvaine/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/alex-brown-reviews-frost-bite-by-angela-sylvaine/">Save to Pocket</a>
+</span>
+
+---
+
+## 7 Great Oscar Nominated Scripts You Should Read
+
+date: 2024-01-26, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/7-great-oscar-nominated-scripts-you-should-read" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/7%20Great%20Oscar%20Nominated%20Scripts%20You%20Should%20Read.jpg" alt="7 Great Oscar Nominated Scripts You Should Read" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Every great screenwriter knows the importance of taking the time to read screenplays. It takes a lot of focus and numerous rewrites to create a well-constructed screenplay that can be considered a work of literature. The ink on the page is the thing everyone–from the actors to the designers–uses for inspiration and direction for how they should do their job and to help discover the deeper meaning behind all those words.</span></p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/7-great-oscar-nominated-scripts-you-should-read">https://blog.finaldraft.com/7-great-oscar-nominated-scripts-you-should-read</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/7-great-oscar-nominated-scripts-you-should-read">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-26, from: Neil Gaiman @ BlueSky)
+
+That was my hope when I wrote it.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjufmijrvn2l">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjufmijrvn2l</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjufmijrvn2l">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-26, from: Neil Gaiman @ BlueSky)
+
+I've known Penn as a friend for over 25 years (we met when he was in an episode of Babylon 5 I wrote). One of the best things about him is that he changes his mind based on new information. I don't know many people who do that.  I'm not even sure that I do.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjuefqrm5c2f">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjuefqrm5c2f</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjuefqrm5c2f">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-26, from: Neil Gaiman @ BlueSky)
+
+Good.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjudraywes2n">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjudraywes2n</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjudraywes2n">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-26, from: Neil Gaiman @ BlueSky)
+
+We've lost Melanie. I loved her voice and songs and kept this secret for many years believing it to be profoundly uncool. I was, obviously, very wrong.
+www.theguardian.com/music/2024/j...
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjudqk6xxt2w">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjudqk6xxt2w</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjudqk6xxt2w">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-25, from: Neil Gaiman @ BlueSky)
+
+Anyone from the Glasgow Worldcon on Bluesky wants to step up and talk about this?
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjt7l2vpkk2n">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjt7l2vpkk2n</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kjt7l2vpkk2n">Save to Pocket</a>
+</span>
+
+---
+
+## New & Notable Books, January 2024
+
+date: 2024-01-25, from: Locus Magazine
+
+<p></p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>Naomi Alderman, <strong>The Future </strong>(Simon &#38; Schuster 11/23) Dystopian near-future technothriller about two women alarmed by new tech developments that seem to both predict the future and threaten it, and three tech billionaires willing to do anything to make sure they profit from the end of the world. An entertaining outing with ‘‘thriller pacing, efficient vibrant char­acterisation, a fondness for broad-brush satiric extrapolation that sits somewhere between Margaret  <a href="https://locusmag.com/2024/01/new-notable-books-january-2024/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/new-notable-books-january-2024/">https://locusmag.com/2024/01/new-notable-books-january-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/new-notable-books-january-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Charles Payseur Reviews Short Fiction: Beneath Ceaseless Skies, Escape Pod, Worlds of Possibility, Cast of Wonders
+
+date: 2024-01-25, from: Locus Magazine
+
+<p>Beneath Ceaseless Skies 10/5/23, 10/19/23
+Escape Pod 10/12/23, 10/19/23, 10/26/23
+Worlds of Possibility 10/23
+Cast of Wonders 10/14/23, 10/25/23, 10/27/23</p>
+<p>Beneath Ceaseless Skies celebrated their 15th anniversary in October with a special double issue including <strong>Filip Hajdar Drnovšek Zorko</strong>’s novella, “<strong>Between Blades</strong>”, which unfolds in a world where some people can adopt “sword­form,” wherein one in a pair of people becomes a living weapon – a sword  <a href="https://locusmag.com/2024/01/charles-payseur-reviews-short-fiction-beneath-ceaseless-skies-escape-pod-worlds-of-possibility-cast-of-wonders-and-escape-pod/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/charles-payseur-reviews-short-fiction-beneath-ceaseless-skies-escape-pod-worlds-of-possibility-cast-of-wonders-and-escape-pod/">https://locusmag.com/2024/01/charles-payseur-reviews-short-fiction-beneath-ceaseless-skies-escape-pod-worlds-of-possibility-cast-of-wonders-and-escape-pod/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/charles-payseur-reviews-short-fiction-beneath-ceaseless-skies-escape-pod-worlds-of-possibility-cast-of-wonders-and-escape-pod/">Save to Pocket</a>
+</span>
 
 ---
 

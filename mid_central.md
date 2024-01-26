@@ -1,11 +1,131 @@
 ---
 title: mid central 2024.04
-updated: 2024-01-25 07:07:17
+updated: 2024-01-26 08:38:10
 ---
 
 # mid central 2024.04
 
-(date: 2024-01-25 07:07:17)
+(date: 2024-01-26 08:38:10)
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-01-26, from: Amateur Radio Relay League News
+
+<p>Just four new sunspot groups emerged this reporting week, January<br />18-24, one on each day, January 18-21.<br /><br />But it looks like we may see flares, CMEs and geomagnetic storms<br />over the next few days. Spaceweather.com identified sunspot<br />group AR3561 as "hyperactive."<br /><br />Sunspot numbers and solar flux declined, and geomagnetic indicators<br />rose, but only slightly.<br /><br />Average daily sunspot number dropped from 167.3 to...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/the-k7ra-solar-update-814">http://www.arrl.org/news/view/the-k7ra-solar-update-814</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/the-k7ra-solar-update-814">Save to Pocket</a>
+</span>
+
+---
+
+## Dense Fog Advisory issued January 26 at 5:09AM PST until January 26 at 11:00AM PST by NWS
+
+date: 2024-01-26, updated: 2024-01-26, from: Merced, Weather.gov CAP v1.1 alerts
+
+...DENSE FOG ADVISORY REMAINS IN EFFECT UNTIL 11 AM PST THIS MORNING... * WHAT...Visibilities in dense fog ranging from 800 feet to as low as 200 feet. * WHERE...A portion of central California. * WHEN...Until 11 AM PST this morning.
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwacapget.php?x=CA126885873AD4.DenseFogAdvisory.1268858821B0CA.HNXNPWHNX.1773dfadee1a615fd27caccbbfc91f29">https://alerts.weather.gov/cap/wwacapget.php?x=CA126885873AD4.DenseFogAdvisory.1268858821B0CA.HNXNPWHNX.1773dfadee1a615fd27caccbbfc91f29</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwacapget.php?x=CA126885873AD4.DenseFogAdvisory.1268858821B0CA.HNXNPWHNX.1773dfadee1a615fd27caccbbfc91f29">Save to Pocket</a>
+</span>
+
+---
+
+## The Emmys Better Call Saul after this criminal snub
+
+date: 2024-01-25, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The recent string of award ceremonies has had its fair share of head-scratching moments, with Jo Koy’s uncomfortable Golden Globes monologue or “I’m Just Ken” from Barbie winning best song over Barbie’s other nominee “What Was I Made For?” at the Critics’ Choice Awards. One of the biggest puzzles for fans of the Breaking Bad...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/01/the-emmys-better-call-saul-after-this-criminal-snub/">https://fscollegian.com/2024/01/the-emmys-better-call-saul-after-this-criminal-snub/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/01/the-emmys-better-call-saul-after-this-criminal-snub/">Save to Pocket</a>
+</span>
+
+---
+
+## RFICs improve in-vehicle communications
+
+date: 2024-01-25, from: EDN Blog
+
+<img width="700" height="445" src="https://www.edn.com/wp-content/uploads/Guerilla-RF-5507_2106.jpg?fit=700%2C445" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Guerilla-RF-5507_2106.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Guerilla-RF-5507_2106.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Two linear power amplifiers (PAs) and two low-noise amplifiers (LNAs) from Guerrilla RF serve as signal boosters to enhance in-cabin cellular signals.</p>
+<p>The post <a href="https://www.edn.com/rfics-improve-in-vehicle-communications/" data-wpel-link="internal">RFICs improve in-vehicle communications</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/rfics-improve-in-vehicle-communications/">https://www.edn.com/rfics-improve-in-vehicle-communications/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/rfics-improve-in-vehicle-communications/">Save to Pocket</a>
+</span>
+
+---
+
+## Bluetooth LE SoC slashes power consumption
+
+date: 2024-01-25, from: EDN Blog
+
+<img width="800" height="412" src="https://www.edn.com/wp-content/uploads/Renesas-DA14592.jpg?fit=800%2C412" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Renesas-DA14592.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-DA14592.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-DA14592.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Renesas offers the DA14592 Bluetooth LE SoC, which the company says is its lowest power and smallest multicore Bluetooth LE device in its class.</p>
+<p>The post <a href="https://www.edn.com/bluetooth-le-soc-slashes-power-consumption/" data-wpel-link="internal">Bluetooth LE SoC slashes power consumption</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/bluetooth-le-soc-slashes-power-consumption/">https://www.edn.com/bluetooth-le-soc-slashes-power-consumption/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/bluetooth-le-soc-slashes-power-consumption/">Save to Pocket</a>
+</span>
+
+---
+
+## Smart sensor monitors in-meter water pressure
+
+date: 2024-01-25, from: EDN Blog
+
+<img width="800" height="362" src="https://www.edn.com/wp-content/uploads/Sensata-129CP.jpg?fit=800%2C362" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Sensata-129CP.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Sensata-129CP.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Sensata-129CP.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The 129CP digital water pressure sensor from Sensata allows remote monitoring by utilities to identify distribution issues, leaks, and other non-revenue water events.</p>
+<p>The post <a href="https://www.edn.com/smart-sensor-monitors-in-meter-water-pressure/" data-wpel-link="internal">Smart sensor monitors in-meter water pressure</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/smart-sensor-monitors-in-meter-water-pressure/">https://www.edn.com/smart-sensor-monitors-in-meter-water-pressure/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/smart-sensor-monitors-in-meter-water-pressure/">Save to Pocket</a>
+</span>
+
+---
+
+## MCUs integrate configurable logic block
+
+date: 2024-01-25, from: EDN Blog
+
+<img width="800" height="441" src="https://www.edn.com/wp-content/uploads/Microchip-PIC16F-CLB.jpg?fit=800%2C441" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Microchip-PIC16F-CLB.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Microchip-PIC16F-CLB.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microchip-PIC16F-CLB.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Microchip’s PIC16F13145 MCUs enable the creation of hardware-based, custom combinational logic functions directly within the MCU.</p>
+<p>The post <a href="https://www.edn.com/mcus-integrate-configurable-logic-block/" data-wpel-link="internal">MCUs integrate configurable logic block</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/mcus-integrate-configurable-logic-block/">https://www.edn.com/mcus-integrate-configurable-logic-block/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/mcus-integrate-configurable-logic-block/">Save to Pocket</a>
+</span>
+
+---
+
+## 100-V MOSFET employs double-sided cooling
+
+date: 2024-01-25, from: EDN Blog
+
+<img width="800" height="437" src="https://www.edn.com/wp-content/uploads/Alpha-Omega-AONA66916.jpg?fit=800%2C437" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Alpha-Omega-AONA66916.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Alpha-Omega-AONA66916.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Alpha-Omega-AONA66916.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Alpha &#038; Omega’s AONA66916 100-V N-channel MOSFET comes in a DFN 5×6-mm package designed to afford top and bottom side cooling.</p>
+<p>The post <a href="https://www.edn.com/100-v-mosfet-employs-double-sided-cooling/" data-wpel-link="internal">100-V MOSFET employs double-sided cooling</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/100-v-mosfet-employs-double-sided-cooling/">https://www.edn.com/100-v-mosfet-employs-double-sided-cooling/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/100-v-mosfet-employs-double-sided-cooling/">Save to Pocket</a>
+</span>
+
+---
+
+## “Thin is in” as RF-module shrinkage also enhances thermal performance
+
+date: 2024-01-25, from: EDN Blog
+
+<img width="1577" height="905" src="https://www.edn.com/wp-content/uploads/Figure-1-1.gif?fit=1577%2C905" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" /><p>It’s a “win-win” when innovations in power-device packaging yield improvements in both size and thermal performance.</p>
+<p>The post <a href="https://www.edn.com/thin-is-in-as-rf-module-shrinkage-also-enhances-thermal-performance/" data-wpel-link="internal">“Thin is in” as RF-module shrinkage also enhances thermal performance</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/thin-is-in-as-rf-module-shrinkage-also-enhances-thermal-performance/">https://www.edn.com/thin-is-in-as-rf-module-shrinkage-also-enhances-thermal-performance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/thin-is-in-as-rf-module-shrinkage-also-enhances-thermal-performance/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -45,7 +165,7 @@ Over the winter break, it was announced that the previous University of Southern
 
 ---
 
-## CSU student assistants will vote to unionize on Jan. 25
+## CSU student assistants vote on whether to unionize
 
 date: 2024-01-24, from: The Collegian (Cal State Fresno's Student Newspaper)
 
@@ -73,7 +193,7 @@ date: 2024-01-24, updated: 2024-01-24, from: Merced, Weather.gov CAP v1.1 alerts
 
 date: 2024-01-24, from: EDN Blog
 
-<img width="593" height="258" src="https://www.edn.com/wp-content/uploads/Quelling-5.png?fit=593%2C258" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Quelling-5.png?w=593 593w, https://www.edn.com/wp-content/uploads/Quelling-5.png?w=300 300w" sizes="(max-width: 593px) 100vw, 593px" /><p>Looking into 34-year-old design idea on quelling ground loops. </p>
+<img width="593" height="258" src="https://www.edn.com/wp-content/uploads/Quelling-5.png?fit=593%2C258" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Quelling-5.png?w=593 593w, https://www.edn.com/wp-content/uploads/Quelling-5.png?w=300 300w" sizes="(max-width: 593px) 100vw, 593px" /><p>Looking into a 34-year-old design idea on resolving ground loops. </p>
 <p>The post <a href="https://www.edn.com/quelling-a-ground-loop/" data-wpel-link="internal">Quelling a ground loop</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 
@@ -123,7 +243,7 @@ date: 2024-01-23, updated: 2024-01-23, from: Merced, Weather.gov CAP v1.1 alerts
 
 ---
 
-## Breaking: First CFA systemwide strike ends early due to tentative agreement
+## First CFA systemwide strike called off after a day due to tentative agreement
 
 date: 2024-01-23, from: The Collegian (Cal State Fresno's Student Newspaper)
 

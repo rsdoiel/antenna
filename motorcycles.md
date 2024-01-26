@@ -1,11 +1,167 @@
 ---
 title: motorcycles 2024.04
-updated: 2024-01-25 07:07:18
+updated: 2024-01-26 08:38:10
 ---
 
 # motorcycles 2024.04
 
-(date: 2024-01-25 07:07:18)
+(date: 2024-01-26 08:38:10)
+
+---
+
+## Sorah is Chasing Both NASCAR, Sim to Reality Dreams
+
+date: 2024-01-26, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor Rarely does a racecar driver from a small town get the opportunity to make a splash on a national stage, but for Presley Sorah, iRacing&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/esports/sorah-chasing-nascar-sim-reality-dreams/">https://kickinthetires.net/esports/sorah-chasing-nascar-sim-reality-dreams/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/esports/sorah-chasing-nascar-sim-reality-dreams/">Save to Pocket</a>
+</span>
+
+---
+
+## Zero And India’s Hero MotoCorp Collaborating On New Electric Platform
+
+date: 2024-01-26, from: Ride Apart, Electric Motorcycle News
+
+A total of four new electric motorcycles are speculated to be under development, with an initial launch expected for 2025. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706023/zero-hero-codeveloping-electric-platform/">https://www.rideapart.com/news/706023/zero-hero-codeveloping-electric-platform/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706023/zero-hero-codeveloping-electric-platform/">Save to Pocket</a>
+</span>
+
+---
+
+## Royal Enfield Rolls Out New Military Silver Colorways For Bullet 350
+
+date: 2024-01-26, from: Ride Apart, Electric Motorcycle News
+
+Military SilverBlack and Military SilverRed give the Bullet 350 an even more elegant sheen. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706174/royal-enfield-bullet-350-military-silver-edition/">https://www.rideapart.com/news/706174/royal-enfield-bullet-350-military-silver-edition/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706174/royal-enfield-bullet-350-military-silver-edition/">Save to Pocket</a>
+</span>
+
+---
+
+## E-Moto Specialist Trevor Motorcycles Eyeing Expansion Across Europe, US
+
+date: 2024-01-26, from: Ride Apart, Electric Motorcycle News
+
+It hopes to put up 280 sales points in Europe, the UK, the US, and Canada. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706161/trevor-motorcycles-global-expansion-2024/">https://www.rideapart.com/news/706161/trevor-motorcycles-global-expansion-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706161/trevor-motorcycles-global-expansion-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## HJC Goes For Lightweight Comfort With RPHA 91 Carbon Modular Helmet
+
+date: 2024-01-26, from: Ride Apart, Electric Motorcycle News
+
+The RPHA 91 Carbon is 100 grams lighter than its standard counterpart, but comes with quite a hefty price tag. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706012/hjc-rpha-91-carbon-helmet/">https://www.rideapart.com/news/706012/hjc-rpha-91-carbon-helmet/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706012/hjc-rpha-91-carbon-helmet/">Save to Pocket</a>
+</span>
+
+---
+
+## Laguna Seca Being Sued For Increased Activity, Excessive Noise
+
+date: 2024-01-26, from: Ride Apart, Electric Motorcycle News
+
+When you build your house near a racetrack, it’s understood that you’ll be hearing a bit of noise. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706007/laguna-seca-sued-noise-activities/">https://www.rideapart.com/news/706007/laguna-seca-sued-noise-activities/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706007/laguna-seca-sued-noise-activities/">Save to Pocket</a>
+</span>
+
+---
+
+## What Do You Think Of Segway-Ninebot’s New Xyber Moto-Inspired E-Bike?
+
+date: 2024-01-26, from: Ride Apart, Electric Motorcycle News
+
+You can pedal if you want to, but where’s the fun in that? 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706006/segway-ninebot-xyber-ebike/">https://www.rideapart.com/news/706006/segway-ninebot-xyber-ebike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706006/segway-ninebot-xyber-ebike/">Save to Pocket</a>
+</span>
+
+---
+
+## Ducati Unveils Desmo450 MX Racer
+
+date: 2024-01-25, from: Cycle World News
+
+Ducati is going motocross racing. The Italian brand has flashed the first glimpses of its Desmo450 MX as well as introducing the team to race it.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/ducati-unveils-desmo450-mx-racer/">https://www.cycleworld.com/motorcycle-news/ducati-unveils-desmo450-mx-racer/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/ducati-unveils-desmo450-mx-racer/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Kawasaki KLX230 SM And S Get Light But Important Updates
+
+date: 2024-01-25, from: Ride Apart, Electric Motorcycle News
+
+Suspension and rear subframe adjustments are now a part of the package.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706140/kawasaki-klx230-sm-2024-update/">https://www.rideapart.com/news/706140/kawasaki-klx230-sm-2024-update/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706140/kawasaki-klx230-sm-2024-update/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Harley-Davidson Road Glide and Street Glide First Look
+
+date: 2024-01-25, from: Cycle World News
+
+Adopting many of the updates that debuted on last year’s CVO models, Harley’s Road Glide and Street Glide enter a brave new world of technology and performance.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/harley-davidson-road-glide-and-street-glide-first-look/">https://www.cycleworld.com/bikes/harley-davidson-road-glide-and-street-glide-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/harley-davidson-road-glide-and-street-glide-first-look/">Save to Pocket</a>
+</span>
+
+---
+
+## Extremely Limited Edition Royal Enfield Bullet 350 Is Headed To Canada In 2024
+
+date: 2024-01-25, from: Ride Apart, Electric Motorcycle News
+
+Only 100 will be available on a preorder-only basis in the fabled maple leaf land.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706129/royal-enfield-bullet-350-canada/">https://www.rideapart.com/news/706129/royal-enfield-bullet-350-canada/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706129/royal-enfield-bullet-350-canada/">Save to Pocket</a>
+</span>
+
+---
+
+## Royal Enfield Introduces The Legendary Bullet 350
+
+date: 2024-01-25, from: Cycle World News
+
+Royal Enfield announced today an exclusive addition to its North American product line – the 2024 Bullet 350.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/royal-enfield-introduces-legendary-bullet-350/">https://www.cycleworld.com/the-wire/royal-enfield-introduces-legendary-bullet-350/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/royal-enfield-introduces-legendary-bullet-350/">Save to Pocket</a>
+</span>
+
+---
+
+## Please, For The Love Of Dog, Don't Post Your Speeding Videos On YouTube
+
+date: 2024-01-25, from: Ride Apart, Electric Motorcycle News
+
+We shouldn't even have to say this, but apparently, we do.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706116/speeding-video-arrest-warrant-youtube/">https://www.rideapart.com/news/706116/speeding-video-arrest-warrant-youtube/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706116/speeding-video-arrest-warrant-youtube/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -149,18 +305,6 @@ Kawasaki’s entry-level lightweight sportbike gets increased engine capacity an
 
 <span class="feed-item-link">
 <a href="https://www.cycleworld.com/bikes/kawasaki-ninja-500-first-look/">https://www.cycleworld.com/bikes/kawasaki-ninja-500-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/kawasaki-ninja-500-first-look/">Save to Pocket</a>
-</span>
-
----
-
-## 2024 Harley-Davidson Road Glide and Street Glide First Look
-
-date: 2024-01-24, from: Cycle World News
-
-Adopting many of the updates that debuted on last year’s CVO models, Harley’s Road Glide and Street Glide enter a brave new world of technology and performance.
-
-<span class="feed-item-link">
-<a href="https://www.cycleworld.com/bikes/harley-davidson-road-glide-and-street-glide-first-look/">https://www.cycleworld.com/bikes/harley-davidson-road-glide-and-street-glide-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/harley-davidson-road-glide-and-street-glide-first-look/">Save to Pocket</a>
 </span>
 
 ---

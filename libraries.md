@@ -1,11 +1,37 @@
 ---
 title: libraries 2024.04
-updated: 2024-01-25 07:07:18
+updated: 2024-01-26 08:38:10
 ---
 
 # libraries 2024.04
 
-(date: 2024-01-25 07:07:18)
+(date: 2024-01-26 08:38:10)
+
+---
+
+## Reading:  It Can’t Be About the Numbers
+
+date: 2024-01-26, from: Scholarly Kitchen
+
+<p>How many books do we read in a year? Wouldn't a better question be how well, how thoughtfully we had engaged with long-form content?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/01/26/reading-it-cant-be-about-the-numbers/">Reading:  It Can&#8217;t Be About the Numbers</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/01/26/reading-it-cant-be-about-the-numbers/">https://scholarlykitchen.sspnet.org/2024/01/26/reading-it-cant-be-about-the-numbers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/01/26/reading-it-cant-be-about-the-numbers/">Save to Pocket</a>
+</span>
+
+---
+
+## Fit in research data management – workshop series in Spring Semester 2024
+
+date: 2024-01-25, from: ETH Zurich Research Archives
+
+Get yourself and your research project in shape with our research data management workshop programme. You can now register for the Spring Semester 2024 workshops. Read more<img src="https://analytics.library.ethz.ch/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffit-in-research-data-management-workshop-series-in-spring-semester-2024%2F&amp;action_name=Fit+in+research+data+management+%E2%80%93+workshop+series+in+Spring+Semester+2024&amp;urlref=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />
+
+<span class="feed-item-link">
+<a href="https://rc-blog.ethz.ch/en/fit-in-research-data-management-workshop-series-in-spring-semester-2024/">https://rc-blog.ethz.ch/en/fit-in-research-data-management-workshop-series-in-spring-semester-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://rc-blog.ethz.ch/en/fit-in-research-data-management-workshop-series-in-spring-semester-2024/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -134,7 +160,7 @@ date: 2024-01-23, from: Scholarly Kitchen
 
 date: 2024-01-22, from: Association of Research Libraries News
 
-<p>Last Updated on January 24, 2024, 2:57 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 23 &#124; Wednesday, January 24 &#124; Thursday,...</p>
+<p>Last Updated on January 25, 2024, 3:40 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 23 &#124; Wednesday, January 24 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-22-25/">Day in Review (January 22–25)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 

@@ -1,11 +1,683 @@
 ---
 title: tech likely 2024.04
-updated: 2024-01-25 07:07:17
+updated: 2024-01-26 08:38:10
 ---
 
 # tech likely 2024.04
 
-(date: 2024-01-25 07:07:17)
+(date: 2024-01-26 08:38:10)
+
+---
+
+##  NASA: The Ingenuity Helicopter&#8217;s Mission Comes to an End 
+
+date: 2024-01-26, updated: 2024-01-26, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/nasa-ingenuity-helicopters-mission-ends">https://kottke.org/24/01/nasa-ingenuity-helicopters-mission-ends</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/nasa-ingenuity-helicopters-mission-ends">Save to Pocket</a>
+</span>
+
+---
+
+## Smoking Is Indeed Uncivil Behavior
+
+date: 2024-01-26, updated: 2024-01-26, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/01/26/smoking-is-indeed-uncivil-behavior/">https://onefoottsunami.com/2024/01/26/smoking-is-indeed-uncivil-behavior/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/01/26/smoking-is-indeed-uncivil-behavior/">Save to Pocket</a>
+</span>
+
+---
+
+##  Wow, Jurgen Klopp announces that he&#8217;s leaving Liverpool at the end of... 
+
+date: 2024-01-26, updated: 2024-01-26, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043856-wow-jurgen-klopp-announce">https://kottke.org/24/01/0043856-wow-jurgen-klopp-announce</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043856-wow-jurgen-klopp-announce">Save to Pocket</a>
+</span>
+
+---
+
+## What You Need to Know about NASA’s SpaceX Crew-8 Mission
+
+date: 2024-01-26, from: NASA breaking news
+
+Four new crew members are preparing to launch to the International Space Station as part of NASA’s SpaceX Crew-8 mission. NASA astronauts Matthew Dominick, Michael Barratt, and Jeanette Epps, and Roscosmos cosmonaut Alexander Grebenkin will lift off from Launch Complex 39A at NASA’s Kennedy Space Center in Florida to perform research, technology demonstrations, and maintenance [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-8-mission/">https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-8-mission/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/station/commercial-crew/what-you-need-to-know-about-nasas-spacex-crew-8-mission/">Save to Pocket</a>
+</span>
+
+---
+
+## Astronaut Bob Hines
+
+date: 2024-01-26, from: NASA breaking news
+
+“I have been interested in aviation for as long as I can remember. There are pictures of me at two years old and younger with my face pinned against the window, watching airplanes taxi around the airport. I had never not known that I wanted to be a pilot. The amazing engineering that goes into [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/astronaut-bob-hines-2/">https://www.nasa.gov/image-article/astronaut-bob-hines-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/astronaut-bob-hines-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Studies a Sparkling Galaxy Pair
+
+date: 2024-01-26, from: NASA breaking news
+
+A pair of small, interacting galaxies shine in this new NASA Hubble Space Telescope image. The larger of the two galaxies is named NGC 5410 and was discovered in 1787 by British astronomer William Herschel. It spans 80,000 light-years across and has a bright white bar of stars at its center. It is also a […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/hubble-studies-a-sparkling-galaxy-pair/">https://science.nasa.gov/missions/hubble/hubble-studies-a-sparkling-galaxy-pair/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/hubble-studies-a-sparkling-galaxy-pair/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-26, from: Miguel de Icaza Mastondon feed)
+
+<p>Someone needs to take a bullet on behalf of us and move to Cupertino or London.</p><p>From: <span class="h-card" translate="no"><a href="https://mastodon.social/@annazaks" class="u-url mention">@<span>annazaks</span></a></span><br /><a href="https://mastodon.social/@annazaks/111819316764578264" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@annazaks/1118</span><span class="invisible">19316764578264</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111822500959490192">https://mastodon.social/@Migueldeicaza/111822500959490192</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111822500959490192">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-26, from: Miguel de Icaza Mastondon feed)
+
+<p>Apple’s fee calculator should help you make an informed decision of what is best for your business.</p><p>For some, it is not worth changing, for others, a nice boost.</p><p><a href="https://developer.apple.com/support/fee-calculator-for-apps-in-the-eu/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">developer.apple.com/support/fe</span><span class="invisible">e-calculator-for-apps-in-the-eu/</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111822489748700830">https://mastodon.social/@Migueldeicaza/111822489748700830</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111822489748700830">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-26, from: Miguel de Icaza Mastondon feed)
+
+<p>I love all those “… was a Zero Interest Rate Phenomenon” jokes.</p><p>But the reason is that high-interest rates move money from being used to stagnant.</p><p>The phenomenon was “we were being productive and delivering value to the world.” </p><p>Now, we print money for people with money.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111822448273673610">https://mastodon.social/@Migueldeicaza/111822448273673610</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111822448273673610">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-26, from: Miguel de Icaza Mastondon feed)
+
+<p>International Court of Justice orders Israel to stop their genocide.</p><p>The most depressing part was watching way too many people and ex-friends defend the genocide and split hairs over human suffering.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111822412925066201">https://mastodon.social/@Migueldeicaza/111822412925066201</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111822412925066201">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Views a Galaxy Settling into Old Age
+
+date: 2024-01-26, from: NASA breaking news
+
+NGC 3384, visible in this image, has many of the characteristic features of so-called elliptical galaxies. Such galaxies glow diffusely, are rounded in shape, display few visible features, and rarely show signs of recent star formation. Instead, they are dominated by old, aging, and red-hued stars. This stands in contrast to the liveliness of spiral galaxies such as our […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/hubble-views-a-galaxy-settling-into-old-age/">https://science.nasa.gov/missions/hubble/hubble-views-a-galaxy-settling-into-old-age/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/hubble-views-a-galaxy-settling-into-old-age/">Save to Pocket</a>
+</span>
+
+---
+
+## P&B: Ran Prieur
+
+date: 2024-01-26, from: Manu - I write blog
+
+<p>This is the 22nd edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Ran Prieur and his blog, <a href="https://ranprieur.com" rel="noreferrer" target="_blank">ranprieur.com</a></p>
+<p>Ran's an interesting character to say the least and his site reflects that. I especially love the very old school vibe.</p>
+<p>To follow this series <a href="https://peopleandblogs.com" rel="noreferrer" target="_blank">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<hr />
+<div class="q"><p><strong>Let&#039;s start from the basics: can you introduce yourself?</strong></p></div>
+<div class="a"><p>My name is Ran Prieur. I've lived most of my life in Washington state. I did well in school, and I was expected to be a computer engineer. But looking back, the kids who went on to do that, were actually excited about computers. For me, it was just one more tedious academic subject. In college, after cruising through the "weed-out" courses, I couldn't bring myself to take an actual engineering course, and switched to the humanities, which were somewhat interesting. I ended up getting two BAs, in English and Philosophy.</p>
+<p>I was born to be retired. Most people are always trying to fill time, and I'm always trying to empty it. I had enough self-discipline to grind through the academic system, but any full time job exhausts me, and I spent the 90s working part time office jobs and living super-frugally. I would have probably become high-end homeless, but I did some housesitting for my family, and had some luck with money, and now I'm retired on less than they say you need to retire.</p>
+<p>For some reason, it's easy for me to keep blogging, and I've been doing it for almost 20 years. More recently I've been writing fiction, which is harder than blogging but more rewarding. I practice improvisational piano, where my style is to see how much I can squeeze out of one chord. And when I have a lot of time, I play solo games of my favorite board game, Spirit Island, and I've designed some custom spirits that I haven't released yet.</p></div>
+<div class="q"><p><strong>What&#039;s the story behind your blog?</strong></p></div>
+<div class="a"><p>In the 90s I made zines: hand-written, photocopied, and mailed. When the internet came along, it was a much more efficient way to get words to an audience. Two other zine people started a website called Unknown News, and I started writing a column there every few weeks. After maybe a year, around 2003, I bought my own domain name and posted my stuff there.</p>
+<p>I named the blog after myself, because whatever I end up writing about, the name is still accurate. I started out writing essays about contemporary politics and the critique of civilization, and now I write short posts about different things, lately psychology, metaphysics, societal collapse, and little personal tidbits. The main reason I shifted to a shorter form, is that I learned to say things in fewer words, in five paragraphs instead of five pages.</p>
+<p>The most famous thing I've written, by far, is a 2004 essay called How To Drop Out. I haven't read it in more than ten years, because I'm sure I'll find all kinds of cringey stuff. But it continues to bring people to my website.</p></div>
+<div class="q"><p><strong>What does your creative process look like when it comes to blogging?</strong></p></div>
+<div class="a"><p>Elvis Costello said, people think being a songwriter is cool, but really it means walking around all day humming to yourself like a loony. That's basically my process. I have an idea, and I run the words through my head, often muttering them in a whisper, until I'm ready to write them down. That could take anywhere from ten minutes to a week. Sometimes I do it in the middle of the night when I can't sleep, and by morning I have a whole post laid out in my head. But when I go to type it in, there are always complications and changes.</p>
+<p>For minor posts, I do the writing straight to the file manager. For major posts, I type them into Notepad++, and I usually keep massaging the words for a few days before posting them. I have a large text file full of posts that are half finished or not good enough. Nobody reads my stuff before I post it, but I often get reader feedback that sends me off on tangents to new posts.</p>
+<p>Asking a writer where ideas come from, is like asking a sailor where the wind comes from. If your sails are working, the wind is just there. So in terms of the work I put into writing, getting ideas is zero percent. Ten percent is figuring out how to word it. And ninety percent is figuring out how to <em>order</em> it. Even non-fiction has to be written like a story, where one idea flows into the next.</p></div>
+<div class="q"><p><strong>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</strong></p></div>
+<div class="a"><p>I haven't noticed any differences between physical spaces. It's all about mental space, and all I need is a block of time with no other demands on my attention, which is hard to get in this world. I often fantasize about being in solitary confinement, except with good food. I would have loved to be a medieval monk, doing a couple hours a day of simple useful tasks, and then going to my tiny room to contemplate the divine.</p>
+<p>When I'm writing fiction or playing music, cannabis does wonders for my creativity. But when I write blog posts high, they turn out to be second-rate. I suppose weed improves my intuition but not my rational thinking.</p></div>
+<div class="q"><p><strong>A question for the techie readers: can you run us through your tech stack?</strong></p></div>
+<div class="a"><p>My original web host was DR2, a tiny company that later got bought by Mesopia, which got bought by Netbunch, which suspiciously lost my site and all backups around 2006. I recovered it from my own old backups and the web archive, and switched to a Hong Kong company called ICDsoft, where I've been ever since for both domain registration and hosting.</p>
+<p>From the beginning, I've used simple hand-coded html and css. It took me a few weeks to build the site, and now it's just a matter of copying and pasting text and a few tags. I like to have my hands right on the actual stuff, and I'm trying to hold onto the golden age of web 1.0, when a non-programmer could get under the hood, and when sites had to be compact for fast loading. I try to keep my home page under 40kB, and I don't run any scripts, except one that a reader contributed to do an automatic archive, because I only archive about half my stuff.</p></div>
+<div class="q"><p><strong>Given your experience, if you were to start a blog today, would you do anything differently?</strong></p></div>
+<div class="a"><p>In terms of technical choices, I wouldn't do anything differently. What I regret about my early writing, is that it was too exciting and inspirational, and also too negative. I was trying to slay dragons, and it felt good and got me readers, but at some point the overall vibe of reader feedback led me to dial it down, and I remain fame-phobic. Fame is when people who don't know you, build an image of you in their head for their own purposes, and if you behave differently from that image, they get mad at you.</p></div>
+<div class="q"><p><strong>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what&#039;s your position on people monetising personal blogs?</strong></p></div>
+<div class="a"><p>The site costs me less than $100 a year. In the early years I had a link where people could donate, but now I don't take any money.</p>
+<p>It's a tragedy of the modern world that we need money to not die on the streets. I'm lucky that I don't need to monetize my blog, because it's difficult to not start making decisions about what you write, based on where the money is coming from.</p></div>
+<div class="q"><p><strong>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</strong></p></div>
+<div class="a"><p>My favorite obscure blog is a newsletter called <a href="https://thewhippet.org" rel="noreferrer" target="_blank">The Whippet</a>.</p>
+<p>Another good one is <a href="https://skunkledger.substack.com/" rel="noreferrer" target="_blank">Skunk Ledger</a></p></div>
+<div class="q"><p><strong>Final question: is there anything you want to share with us?</strong></p></div>
+<div class="a"><p>My latest philosophical interest is acausal metaphysics. I learned about it from a brilliant 1982 book called Physics as Metaphor, and there's an important 2003 paper called Causation as Folk Science. Physics is causal: For two things to have a legitimate connection, there has to be some chain of influence through matter directly influencing other matter -- although physics has a hint of acausality with quantum entanglement.</p>
+<p>An example of acausality at work is astrology. In physics, there's no realistic way that remote planets can influence your life. But in acausal metaphysics, the positions of the planets, and events in your life, might be two different aspects of something deeper that we don't understand yet, so they can line up without any causality. This was what Jung was trying to get at with synchronicity, and I try to cultivate synchronicity in everyday life, by noticing and being grateful when little things line up.</p></div>
+<hr />
+<p>This was the 22nd edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Ran. Make sure to <a href="https://ranprieur.com/index.html" rel="noreferrer" target="_blank">follow his blog</a> (<a href="https://ranprieur.com/feed.php" rel="noreferrer" target="_blank">RSS</a>) and get in touch with him if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<ul>
+<li><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>)</li>
+<li><a href="https://some.studio">Piet Terheyden</a></li>
+<li><a href="https://minim.blog">Raul Montala</a> (<a href="https://minim.blog/index.xml">RSS</a>)</li>
+<li>Eleonora</li>
+<li><a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>)</li>
+<li><a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>)</li>
+<li>Paolo Ruggeri</li>
+<li><a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>)</li>
+<li><a href="https://robhope.com">Rob Hope</a></li>
+<li><a href="https://chrishannah.me">Chris Hannah</a> (<a href="view-source:https://chrishannah.me/index.xml">RSS</a>)</li>
+<li><a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>)</li>
+<li><a href="https://jeremysarber.com/">Jeremy Sarber</a> (<a href="https://jeremysarber.com/feed.rss">RSS</a>)</li>
+<li><a href="https://colinwalker.blog">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>)</li>
+<li><a href="https://softlandings.world/">Sixian Lim</a></li>
+<li><a href="https://mattstein.com/">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>)</li>
+<li><a href="https://winnielim.org/">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>)</li>
+<li><a href="http://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>)</li>
+<li><a href="https://amitgawande.com">Amit Gawande</a> (<a href="https://www.amitgawande.com/feed/">RSS</a>)</li>
+<li><a href="https://skyhold.org">C Jackdaw</a></li>
+<li><a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>)</li>
+<li><a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>)</li>
+<li><a href="https://rosalindcroad.com/">Rosalind Croad</a></li>
+<li><a href="https://frankmeeuwsen.com/">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>)</li>
+<li><a href="https://www.elmikewalsh.com/">Mike Walsh</a></li>
+<li><a href="https://www.josemunozmatos.com/">Jose Munoz</a> (<a href="https://www.josemunozmatos.com/feeds">RSS</a>)</li>
+<li><a href="https://www.byzero.de/">Markus Heurung</a></li>
+<li><a href="https://jeremybassetti.com/">Jeremy Bassetti</a> (<a href="https://jeremybassetti.com/index.xml">RSS</a>)</li>
+<li><a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>)</li>
+<li><a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>)</li>
+<li><a href="https://cagrimmett.com/">Chuck Grimmett</a>(<a href="https://cagrimmett.com/feed">RSS</a>)</li>
+<li><a href="eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>)</li>
+<li><a href="https://bryanmanio.com/">Bryan Maniotakis</a>(<a href="https://bryanmanio.com/feed/">RSS</a>)</li>
+</ul>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale" rel="noreferrer" target="_blank">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/2qrMUznkZVSEUXBg">https://manuelmoreale.com/@/page/2qrMUznkZVSEUXBg</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/2qrMUznkZVSEUXBg">Save to Pocket</a>
+</span>
+
+---
+
+## Our third (ish) birthday is coming up!
+
+date: 2024-01-26, from: Raspberry Pi News (.com)
+
+<p>In February and March, Raspberry Pi community events all over the world will be celebrating our upcoming twelfth birthday, which is also our very special third leap birthday.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/our-third-ish-birthday-is-coming-up/">Our third (ish) birthday is coming up!</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/our-third-ish-birthday-is-coming-up/">https://www.raspberrypi.com/news/our-third-ish-birthday-is-coming-up/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/our-third-ish-birthday-is-coming-up/">Save to Pocket</a>
+</span>
+
+---
+
+## Landing On Mars: A Tricky Feat!
+
+date: 2024-01-26, from: NASA breaking news
+
+Why is landing on Mars so difficult? Learn more about the challenges with a special late-month edition of Night Sky Notes!
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/landing-on-mars-a-tricky-feat/">https://science.nasa.gov/solar-system/skywatching/night-sky-network/landing-on-mars-a-tricky-feat/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/solar-system/skywatching/night-sky-network/landing-on-mars-a-tricky-feat/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-26, from: Miguel de Icaza Mastondon feed)
+
+<p>I went to the orange site.   Figured “maybe they have some good observations about Apple’s announcement today”.</p><p>I broke my cardinal rule: only feed your mind good information.  Don’t pollute it with garbage.</p><p>And friends, I scrolled for 15 minutes, and it is a waste-yard of incoherence.   </p><p>I think I became significantly dumber from reading it.</p><p>Never again.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111820053320673027">https://mastodon.social/@Migueldeicaza/111820053320673027</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111820053320673027">Save to Pocket</a>
+</span>
+
+---
+
+## A Brief Review of the Star Labs StarBook Mk VI Ryzen Ultrabook
+
+date: 2024-01-26, from: mrusme blog
+
+As announced back in the [update of Q4/2023](/updates-2023-q4), I went ahead
+and ordered a Star Labs StarBook Mk VI with an AMD Ryzen processor to finally
+replace my [previous laptop](/computer/#d3lt4) and eventually my
+[workstation](/computer/#cbrspc7). This is a brief review of the device
+itself, without going too much into software details.
+
+<span class="feed-item-link">
+<a href="https://xn--gckvb8fzb.com/a-brief-review-of-the-star-labs-starbook-mk-vi-ryzen-ultrabook/">https://xn--gckvb8fzb.com/a-brief-review-of-the-star-labs-starbook-mk-vi-ryzen-ultrabook/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://xn--gckvb8fzb.com/a-brief-review-of-the-star-labs-starbook-mk-vi-ryzen-ultrabook/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-26, from: Dave Winer's Scripting News)
+
+Haley should stay in and make Trump <a href="https://www.azcentral.com/story/opinion/op-ed/philboas/2024/01/24/nikki-haley-makes-trump-crazy-continue-run-president/72336472007/">crazier</a> and <a href="https://au.news.yahoo.com/trump-says-doesn-t-care-185706046.html">crazier</a> till El Orange blows his top.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/25.html#a025750">http://scripting.com/2024/01/25.html#a025750</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/25.html#a025750">Save to Pocket</a>
+</span>
+
+---
+
+## Stop using Opera Browser and Opera GX
+
+date: 2024-01-26, from: OS News
+
+Hindenburg alleged that when the Opera browser continued losing users (due to competition from Google and Apple), the company shifted gears to building mobile apps that provided predatory short-term loans. The interest rates on those loans ranged from 365-876% per year, and loan terms from 7-29 days. Opera also falsely advertised longer loan terms and lower interest rates in the app descriptions, because the Google Play Store had rules against predatory loan services. The loan apps specifically targeted customers in Kenya, India, and Nigeria. Hindenburg also confirmed through user reports and a former employee that two of the apps, OKash and OPesa, asked for permission to the phone contacts during the setup process. The service would then start sending threatening messages to the user&#8217;s contacts when a borrower was late on their payments. The issue was also covered by local media prior to Hindenburg&#8217;s report. The money from these loan apps amounted to 42.5% of Opera&#8217;s revenue by mid-2019. Yes, almost half of Opera&#8217;s revenue came from extracting money from people in developing countries with false advertising and direct harassment. ↫ Corbin Davenport As if this wasn&#8217;t horrible enough, Opera also pushed the usual crypto and NFT scams, and is now chasing that &#8220;AI&#8221; high by adding spicy autocomplete to its Chromium skin. Much like Brave &#8211; good people don&#8217;t let friends use Brave &#8211; Opera is just a veneer around shady business practices, and you just shouldn&#8217;t use this garbage. Just use Firefox.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138455/stop-using-opera-browser-and-opera-gx/">https://www.osnews.com/story/138455/stop-using-opera-browser-and-opera-gx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138455/stop-using-opera-browser-and-opera-gx/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-26, from: Miguel de Icaza Mastondon feed)
+
+<p>This is more affordable that installing wires to hang up two 75&quot; monitors in my living room.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111819976499318718">https://mastodon.social/@Migueldeicaza/111819976499318718</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111819976499318718">Save to Pocket</a>
+</span>
+
+---
+
+## The Itanic Saga
+
+date: 2024-01-26, from: OS News
+
+After three years of delays, Merced shipped as Itanium on the 29th of May in 2001. The first OEM systems from HP, IBM, and Dell were shipped in June. Itanium, whose architecture was now referred to as IA-64, was a 6-wide VLIW chip running at either 733 to 800 MHz with a 266 MT/s front side bus. It had 16K of L1 cache, 96K of L2 cache, 2 or 4 MB of L3 cache, and it was a single core chip on socket PAC418 built on a 180nm process. That this chip under performed is an understatement. Given the long development time, multi-billion-dollar development cost, significant hype, and claims that it would out-compete everything on the market… Itanium was a massive failure. The 32 bit x86 chips of the time were able to best it in most workloads. Embarrassingly, the Pentium 4 (whose own performance wasn’t that good) beat Itanium on integer performance and memory bandwidth. Those areas where the chip was strong were in transaction processing and scientific applications. John Crawford, Merced project leader at Intel, reflects: “Everything was crazy. We were taking risks everywhere. Everything was new. When you do that, you&#8217;re going to stumble.” The five hundred person team working on the chip was also relatively inexperienced, and disagreements between HP and Intel led to many compromises in design. ↫ Bradford Morgan White Itanium is the future. This entire article is anti-Itanium propaganda and misinformation. Do your own research.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138453/the-itanic-saga/">https://www.osnews.com/story/138453/the-itanic-saga/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138453/the-itanic-saga/">Save to Pocket</a>
+</span>
+
+---
+
+## Windows NT synchronization primitives driver for the Linux kernel proposed
+
+date: 2024-01-26, from: OS News
+
+The Wine project emulates the Windows API in user space. One particular part of that API, namely the NT synchronization primitives, have historically been implemented via RPC to a dedicated &#8220;kernel&#8221; process. However, more recent applications use these APIs more strenuously, and the overhead of RPC has become a bottleneck. The NT synchronization APIs are too complex to implement on top of existing primitives without sacrificing correctness. Certain operations, such as NtPulseEvent() or the &#8220;wait-for-all&#8221; mode of NtWaitForMultipleObjects(), require direct control over the underlying wait queue, and implementing a wait queue sufficiently robust for Wine in user space is not possible. This proposed driver, therefore, implements the problematic interfaces directly in the Linux kernel. ↫ Elizabeth Figura on the lkml This proposed driver would yield some serious performance results.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138451/windows-nt-synchronization-primitives-driver-for-the-linux-kernel-proposed/">https://www.osnews.com/story/138451/windows-nt-synchronization-primitives-driver-for-the-linux-kernel-proposed/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138451/windows-nt-synchronization-primitives-driver-for-the-linux-kernel-proposed/">Save to Pocket</a>
+</span>
+
+---
+
+## Lights, Camera, Victory! Public Domain Day 2024 Remix Contest Winners Revealed
+
+date: 2024-01-26, from: Internet Archive Blog
+
+After sifting through a sea of talent and creativity, we are thrilled to present the cinematic achievements of three winners and two honorable mentions in our Public Domain Day 2024 [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.archive.org/2024/01/26/lights-camera-victory-public-domain-day-2024-remix-contest-winners-revealed/">https://blog.archive.org/2024/01/26/lights-camera-victory-public-domain-day-2024-remix-contest-winners-revealed/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.archive.org/2024/01/26/lights-camera-victory-public-domain-day-2024-remix-contest-winners-revealed/">Save to Pocket</a>
+</span>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-01-26, from: Jessica Smith's blog)
+
+<p>Somehow Viv found that there&rsquo;s a whole song behind that soundbite best known for KFC&rsquo;s &ldquo;I don&rsquo;t care, I love it&rdquo; ads and is playing it AD NAUSEUM today 😤 Lord, give me strength.</p>
+
+<span class="feed-item-link">
+<a href="https://www.jayeless.net/2024/01/i-dont-care-i-love-it.html">https://www.jayeless.net/2024/01/i-dont-care-i-love-it.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jayeless.net/2024/01/i-dont-care-i-love-it.html">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-26, from: Miguel de Icaza Mastondon feed)
+
+<p>I never have the time or environment to listen to podcasts, so this is glorious <a href="https://mastodon.macstories.net/@johnvoorhees/111819441626892814" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.macstories.net/@johnv</span><span class="invisible">oorhees/111819441626892814</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111819474528803885">https://mastodon.social/@Migueldeicaza/111819474528803885</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111819474528803885">Save to Pocket</a>
+</span>
+
+---
+
+## DMA Compliance: Alternative App Stores But No Sideloading
+
+date: 2024-01-26, from: Michael Tsai
+
+Hartley Charlton (Slashdot): Developers who offer the ability to sideload their apps in the European Union will still face restrictions and fees imposed by Apple, The Wall Street Journal reports.App sideloading capabilities will allow users to download apps from outside the App Store for the first time, but only in the EU. The change is [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/25/dma-compliance-alternative-app-stores-but-no-sideloading/">https://mjtsai.com/blog/2024/01/25/dma-compliance-alternative-app-stores-but-no-sideloading/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/25/dma-compliance-alternative-app-stores-but-no-sideloading/">Save to Pocket</a>
+</span>
+
+---
+
+## Not Owning Ubisoft+ Games
+
+date: 2024-01-26, from: Michael Tsai
+
+John Walker: Ubisoft has chosen this week to rebrand its Ubisoft+ subscription services, and introduce a PC version of the &#8220;Classics&#8221; tier at a lower price. [&#8230;] You can subscribe to Game Pass, or PlayStation Plus, and get a broad range of hundreds of games from dozens of publishers, or you can pay significantly more [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/25/not-owning-ubisoft-games/">https://mjtsai.com/blog/2024/01/25/not-owning-ubisoft-games/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/25/not-owning-ubisoft-games/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-26, from: Miguel de Icaza Mastondon feed)
+
+<p>I am a<br />⚪️ woman<br />⚪️ man<br />🔘 passenger</p><p>looking for<br />⚪️ women<br />⚪️ men<br />🔘 any flights on airplanes not produced by Boeing </p><p><a href="https://www.nbcnews.com/news/us-news/boeing-passenger-jet-nose-wheel-fell-off-takeoff-rcna135410" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">nbcnews.com/news/us-news/boein</span><span class="invisible">g-passenger-jet-nose-wheel-fell-off-takeoff-rcna135410</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111819349488633717">https://mastodon.social/@Migueldeicaza/111819349488633717</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111819349488633717">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s Day of Remembrance: Honoring Fallen Heroes
+
+date: 2024-01-25, from: NASA breaking news
+
+In honor of the members of the NASA family who lost their lives while furthering the cause of exploration and discovery for the benefit all, the agency hosted its annual Day of Remembrance Thursday, Jan. 25, 2024. Traditionally held on the fourth Thursday in January each year, NASA Day of Remembrance commemorates the crews of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasas-day-of-remembrance-honoring-fallen-heroes/">https://www.nasa.gov/image-article/nasas-day-of-remembrance-honoring-fallen-heroes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasas-day-of-remembrance-honoring-fallen-heroes/">Save to Pocket</a>
+</span>
+
+---
+
+## Overview for NASA’s Northrop Grumman 20th Commercial Resupply Mission
+
+date: 2024-01-25, from: NASA breaking news
+
+NASA, Northrop Grumman, and SpaceX are targeting 12:29 p.m. EST on Monday, Jan. 29, for the next launch to deliver science investigations, supplies, and equipment to the International Space Station. Filled with more than 7,800 pounds of supplies, the Cygnus cargo spacecraft, carried atop the SpaceX Falcon 9 rocket, will launch from Space Launch Complex [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/station/overview-for-nasas-northrop-grumman-20th-commercial-resupply-mission/">https://www.nasa.gov/missions/station/overview-for-nasas-northrop-grumman-20th-commercial-resupply-mission/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/station/overview-for-nasas-northrop-grumman-20th-commercial-resupply-mission/">Save to Pocket</a>
+</span>
+
+---
+
+## After LA Times layoffs, questions about diversity and seniority swirl
+
+date: 2024-01-25, from: Nieman Journalism Lab
+
+Two days after the Los Angeles Times laid off 115 newsroom employees (a number that appeared to grow to 120 overnight), staffers feel no closer to having answers about the paper’s direction — and are raising questions about who&#8217;s kept their job and who hasn’t. The LA Times Guild had a total of 400 members,...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/questions-about-diversity-and-seniority-swirl-after-la-times-layoffs/">https://www.niemanlab.org/2024/01/questions-about-diversity-and-seniority-swirl-after-la-times-layoffs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/questions-about-diversity-and-seniority-swirl-after-la-times-layoffs/">Save to Pocket</a>
+</span>
+
+---
+
+##  I had no idea you could custom install your own fonts on... 
+
+date: 2024-01-25, updated: 2024-01-25, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043849-i-had-no-idea-you">https://kottke.org/24/01/0043849-i-had-no-idea-you</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043849-i-had-no-idea-you">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s Aerospace Safety Advisory Panel Releases 2023 Annual Report
+
+date: 2024-01-25, from: NASA breaking news
+
+The Aerospace Safety Advisory Panel (ASAP), an advisory committee that reports to NASA and Congress, issued its 2023 annual report Thursday examining the agency’s safety performance, accomplishments, and challenges over the past year.&#160; The report highlights 2023 activities and observations on NASA’s: In 2023, NASA continued to make meaningful progress toward meeting the intent of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasas-aerospace-safety-advisory-panel-releases-2023-annual-report/">https://www.nasa.gov/news-release/nasas-aerospace-safety-advisory-panel-releases-2023-annual-report/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasas-aerospace-safety-advisory-panel-releases-2023-annual-report/">Save to Pocket</a>
+</span>
+
+---
+
+## Kennedy Honors Fallen During Day of Remembrance
+
+date: 2024-01-25, from: NASA breaking news
+
+Family members of fallen astronauts Kathie Scobee Fulgham, Lowell Grissom, Sheryl Chaffee, and Karen Bassett Stevenson place a wreath at the Space Mirror Memorial at NASA’s Kennedy Space Center Visitor Complex in Florida on Thursday, Jan. 25, 2024, during the agency’s Day of Remembrance. The annual tradition pays tribute to fallen astronauts and astronaut candidates [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/kennedy-honors-fallen-during-day-of-remembrance/">https://www.nasa.gov/image-article/kennedy-honors-fallen-during-day-of-remembrance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/kennedy-honors-fallen-during-day-of-remembrance/">Save to Pocket</a>
+</span>
+
+---
+
+##  Winners of the 12th Annual Ocean Art Underwater Photo Contest 
+
+date: 2024-01-25, updated: 2024-01-25, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/winners-underwater-photo-contest">https://kottke.org/24/01/winners-underwater-photo-contest</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/winners-underwater-photo-contest">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Macintosh 128k 1984 Brochure digitally restored
+
+date: 2024-01-25, from: Tilde.news
+
+<p><a href="https://tilde.news/s/4m6shj/apple_macintosh_128k_1984_brochure">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://archive.org/details/apple-macintosh-128k-1984-brochure-8x-11in">https://archive.org/details/apple-macintosh-128k-1984-brochure-8x-11in</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://archive.org/details/apple-macintosh-128k-1984-brochure-8x-11in">Save to Pocket</a>
+</span>
+
+---
+
+## A tuition-free J-school? CUNY aims to be one by 2027
+
+date: 2024-01-25, from: Nieman Journalism Lab
+
+Is J-school worth $50,000+ in debt to break into an industry where, if you&#8217;re lucky enough to get a job, you&#8217;re unlikely to get paid enough to break even on your debt? With the disappearance of journalism jobs accelerating, critics of J-school&#8217;s fundamental cost-benefit problem are imagining and offering alternatives. The staggering inaccessibility of a...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/a-tuition-free-j-school-cuny-aims-to-be-one-by-2027/">https://www.niemanlab.org/2024/01/a-tuition-free-j-school-cuny-aims-to-be-one-by-2027/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/a-tuition-free-j-school-cuny-aims-to-be-one-by-2027/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-25, from: Miguel de Icaza Mastondon feed)
+
+<p>Almost done with a rewrite of the Godot inspector in SwiftUI:</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111818525083340507">https://mastodon.social/@Migueldeicaza/111818525083340507</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111818525083340507">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-25, from: Miguel de Icaza Mastondon feed)
+
+<p>I thought it would be ok to keep the eye in black, but I think it is too distracting.</p><p>Going for the secondary color too:</p><p>But I am tempted to also turn the disclosure indicator into the secondary color.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111818514123740837">https://mastodon.social/@Migueldeicaza/111818514123740837</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111818514123740837">Save to Pocket</a>
+</span>
+
+---
+
+## Antonym of 'do the needful and stop thinking of returns'
+
+date: 2024-01-25, from: Care
+
+
+                <p>A poem by Purbasha Roy.</p>
+
+            
+
+<span class="feed-item-link">
+<a href="https://logicmag.io/policy/antonym-of-do-the-needful-and-stop-thinking-of-returns">https://logicmag.io/policy/antonym-of-do-the-needful-and-stop-thinking-of-returns</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/policy/antonym-of-do-the-needful-and-stop-thinking-of-returns">Save to Pocket</a>
+</span>
+
+---
+
+## Positive Internalization
+
+date: 2024-01-25, from: Manu - I write blog
+
+<p>This is my entry for <a href="https://foreverliketh.is/blog/indieweb-carnival-january-2024-positive-internalization/" rel="noreferrer" target="_blank">January&rsquo;s IndieWeb Carnival</a>, hosted by <a href="https://foreverliketh.is" rel="noreferrer" target="_blank">foreverliketh.is</a> on the topic of positive internalisation, hence the title of this post.</p>
+<p>When I first read the topic for this month I thought it was going to be an easy write:</p>
+<blockquote>
+<p>Your entry for this month’s carnival will have you intentionally seek out positive memories. Memories that remind you of the good parts of yourself; the facets of your being that you want to see more of, that you wish to nurture and grow.</p>
+</blockquote>
+<p>I was wrong. Extracting memories that remind me about the good parts of myself is hard. Painfully hard. And that’s because each good memory is covered by a veil of self-criticism and self-doubt. And the older I grow the more that vision of myself solidifies: I’m convinced I’m not good enough, I’m not smart enough, but also don’t have enough willpower to change any of that. Was I always like this? I honestly can’t tell you.</p>
+<p>The only genuinely happy memories I have are not tied to me but to others. Doing something—no matter how big or small—for someone else is one of the few things in life that can consistently make me happy. This is especially great when that someone else is a stranger. We live in such a sad world that people are genuinely surprised when you go out of your way to help them just because you want to be kind.</p>
+<p>Actually, now that I think about it, there is something I used to do that I want back. Years ago, when I was still in high school, I used to walk around the city, listening to music, and  having a great time smiling at people. It was such a great way to live my life. Rather than looking down and marching towards my destination I was taking my time, walking slowly, smiling at random people on the sidewalk.</p>
+<p>I kinda loved that version of me and I’m sure it’s still there somewhere. I only need to figure out how to bring it out again.</p>
+<p>Eden, I’m not sure this nonsense I just wrote fits with the topic you set up for January’s carnival but since I know you read my blog you know I’m all over the place with my thinking and so this is what you gonna get.</p>
+<p>As for everyone else, the carnival needs hosts for the months of July, August, September, October, and November. If you have a blog and—like me—love the IndieWeb you should consider becoming a host for one of those months. You can do it by calming your spot on the <a href="https://indieweb.org/indieweb-carnival">wiki page of the carnival</a></p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/XinvebSLSEQUX1sj">https://manuelmoreale.com/@/page/XinvebSLSEQUX1sj</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/XinvebSLSEQUX1sj">Save to Pocket</a>
+</span>
+
+---
+
+## Top Linux distros drop fresh beats
+
+date: 2024-01-25, updated: 2024-01-25, from: Liam Proven's articles at the Register
+
+<h4>PC unsupported in Windows 11? Start 2024 with a new OS</h4>
+      <p>Three of the most highly regarded Linux distros around have put out new releases.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/25/linux_mint_mx_updates/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/25/linux_mint_mx_updates/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/25/linux_mint_mx_updates/">Save to Pocket</a>
+</span>
+
+---
+
+## Privacy is Social
+
+date: 2024-01-25, from: Doc Searls (at Harvard), New Old Blog
+
+Eight years ago I was asked on Quora to answer the question &#8220;What is the social justification for privacy?&#8221; This was my answer.  Society is comprised of individuals, thick with practices and customs that respect individual needs. Privacy is one of those. Only people who live naked outdoors without clothing and shelter can do without [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://doc.searls.com/2024/01/25/privacy-is-social/">https://doc.searls.com/2024/01/25/privacy-is-social/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://doc.searls.com/2024/01/25/privacy-is-social/">Save to Pocket</a>
+</span>
+
+---
+
+## After Three Years on Mars, NASA’s Ingenuity Helicopter Mission Ends
+
+date: 2024-01-25, from: NASA breaking news
+
+NASA’s history-making Ingenuity Mars Helicopter has ended its mission at the Red Planet after surpassing expectations and making dozens more flights than planned. While the helicopter remains upright and in communication with ground controllers, imagery of its Jan. 18 flight sent to Earth this week indicates one or more of its rotor blades sustained damage [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/">https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/after-three-years-on-mars-nasas-ingenuity-helicopter-mission-ends/">Save to Pocket</a>
+</span>
+
+---
+
+##  Polar explorer Ben Saunders has started a new podcast called New Frontiers,... 
+
+date: 2024-01-25, updated: 2024-01-25, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043852-my-pal-ben-saunders-the">https://kottke.org/24/01/0043852-my-pal-ben-saunders-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043852-my-pal-ben-saunders-the">Save to Pocket</a>
+</span>
+
+---
+
+## Apple to allow sideloading, alternative application stores, alternative browser engines, lower costs, and more on iOS, but only in the EU
+
+date: 2024-01-25, from: OS News
+
+In order to comply with the EU&#8217;s Digital Markets Act, Apple has announced a set of sweeping changes to iOS and the App Store in the European Union. First and foremost, starting with iOS 17.4, users in the European Union will be able to download and install applications from outside of the App Store. On top of that, alternative application stores will become possible as well. When a developer submits an application to Apple, the developer can choose to distribute the application through the App Store, alternative application stores, or both. Apple will not charge a commission on installations from outside the App Store, and it will also allow alternative payment processors, over which Apple will also not charge any additional fees. Apple will, however, charge something called a &#8220;Core Technology Fee&#8221;. Under the new terms, apps distributed through the App Store which choose to use an alternative payment system will pay a 17 percent commission (rather than 30 percent) on digital goods and services. This commission rate falls to 10 percent for any apps that currently qualify for Apple’s reduced “small business” rate. The additional 3 percent fee then applies for developers who choose to use Apple’s payment processing system. The company is also introducing a new type of fee for particularly popular apps. The new Core Technology Fee will charge developers €0.50 (around 54 cents) per annual app install; however, this fee only kicks in after a million annual installs in the EU. Apple estimates that over 99 percent of developers will either “reduce or maintain the fees they owe to Apple” under the new business terms and that “less that 1 percent” of developers would pay a core technology fee. ↫ Jon Porter at The Verge Overall, developers in the EU will be paying a lot less to Apple than developers in the US and elsewhere, while also gaining more options of distributing their applications outside of the App Store. I&#8217;m already seeing some serious rumblings in Apple developer circles over on Mastodon, where US-based developers are not happy these serious cost reductions will only apply to EU developers. The only kink in the cable is this &#8220;Core Technology Fee&#8221;, though, as the total bill for that nebulous cost can balloon quickly. Apple will still check applications outside of the App Store for safety, security, and privacy, though, with a system very similar to how macOS handles applications outside of the Mac App Store right now through a new &#8211; to iOS &#8211; notarisation system. This notarisation will not check applications for quality (because as we all know, the App Store is a beacon of quality) or content (hello emulators!). Another major change coming to iOS is the availability of browsers other than Safari. Right now, even if you think you&#8217;re using an alternative, non-Safari browser on iOS, you&#8217;re really just using a skin on top of a hobbled version of Safari. In the EU, starting with iOS 17.4, non-WebKit browser engines like Firefox&#8217; Gecko or Chrome&#8217;s Blink can come to iOS, and live as equal citizens on your iOS device. Furthermore, NFS on iOS will be opening up in Europe, giving European users the ability to use services other than Apple Pay and Wallet with NFC, and even set them as default. Apple is also allowing game streaming services to come to iOS, and this change happens to be available worldwide instead of being restricted to just the EU. These are sweeping changes to how iOS and the App Store works, but much to the chagrin of US-based users and developers in my Mastodon timeline and elsewhere, they&#8217;re exclusive to the European Union. It&#8217;s unclear if Americans can import EU devices to gain access to these new features, or if they need EU-based Apple IDs. Let the grey market provide.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138447/apple-to-allow-sideloading-alternative-application-stores-alternative-browser-engines-lower-costs-and-more-on-ios-but-only-in-the-eu/">https://www.osnews.com/story/138447/apple-to-allow-sideloading-alternative-application-stores-alternative-browser-engines-lower-costs-and-more-on-ios-but-only-in-the-eu/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138447/apple-to-allow-sideloading-alternative-application-stores-alternative-browser-engines-lower-costs-and-more-on-ios-but-only-in-the-eu/">Save to Pocket</a>
+</span>
+
+---
+
+##  From Culture magazine, the best cheeses of 2023. Lots of cheeses on... 
+
+date: 2024-01-25, updated: 2024-01-25, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043851-from-culture-magazine-the">https://kottke.org/24/01/0043851-from-culture-magazine-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043851-from-culture-magazine-the">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-25, from: Dave Winer's Scripting News)
+
+Since when does <a href="https://www.w3schools.com/js/js_json_parse.asp">JSON.parse</a> and <a href="https://www.w3schools.com/js/js_json_stringify.asp">JSON.stringify</a> not preserve the order of object properties?
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/25.html#a174525">http://scripting.com/2024/01/25.html#a174525</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/25.html#a174525">Save to Pocket</a>
+</span>
+
+---
+
+##  Happy 40th Birthday, Macintosh. This site &#8220;showcases every Macintosh desktop and portable... 
+
+date: 2024-01-25, updated: 2024-01-25, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043854-happy-40th-birthday-macin">https://kottke.org/24/01/0043854-happy-40th-birthday-macin</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043854-happy-40th-birthday-macin">Save to Pocket</a>
+</span>
+
+---
+
+##  Freight train heists are on the rise in the age of Amazon.... 
+
+date: 2024-01-25, updated: 2024-01-25, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043853-freight-train-heists-are-">https://kottke.org/24/01/0043853-freight-train-heists-are-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043853-freight-train-heists-are-">Save to Pocket</a>
+</span>
+
+---
+
+## The Surprisingly Simple Math Behind Puzzling Matchups
+
+date: 2024-01-25, from: Quanta Magazine
+
+If Anna beats Benji in a game and Benji beats Carl, will Anna beat Carl?            <p>The post <a href="https://www.quantamagazine.org/the-surprisingly-simple-math-behind-puzzling-matchups-20240125/" target="_blank">The Surprisingly Simple Math Behind Puzzling Matchups</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/the-surprisingly-simple-math-behind-puzzling-matchups-20240125/">https://www.quantamagazine.org/the-surprisingly-simple-math-behind-puzzling-matchups-20240125/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/the-surprisingly-simple-math-behind-puzzling-matchups-20240125/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -21,6 +693,58 @@ Deno 1.40 introduces the Temporal API, TC39 decorators, and a range of deprecati
 
 ---
 
+##  Massive Ancient Network of Cities Found in the Amazon 
+
+date: 2024-01-25, updated: 2024-01-25, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/massive-ancient-network-of-cities-found-in-the-amazon">https://kottke.org/24/01/massive-ancient-network-of-cities-found-in-the-amazon</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/massive-ancient-network-of-cities-found-in-the-amazon">Save to Pocket</a>
+</span>
+
+---
+
+## Ten young journalists open up about their struggles to break into the news industry
+
+date: 2024-01-25, from: Nieman Journalism Lab
+
+Every year seems to be the worst year for journalism lately, and 2023 was no exception. Layoffs reached a new record, artificial intelligence may have begun to displace journalists, and the Israel-Hamas war claimed the lives of a record number of reporters. All this was compounded by long hours, chronic underpayment, and a declining number of journalism jobs. Despite this daunting landscape, young journalists...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/ten-young-journalists-open-up-about-their-struggles-to-break-into-the-news-industry/">https://www.niemanlab.org/2024/01/ten-young-journalists-open-up-about-their-struggles-to-break-into-the-news-industry/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/ten-young-journalists-open-up-about-their-struggles-to-break-into-the-news-industry/">Save to Pocket</a>
+</span>
+
+---
+
+## Signed commits
+
+date: 2024-01-25, from: Alex Schroeder's Blog
+
+<h1>Signed commits</h1>
+
+<p>The <a href="https://blog.glyph.im/2024/01/unsigned-commits.html">post on commit signing</a> by <a class="account" href="https://mastodon.social/@glyph" title="@glyph@mastodon.social">@glyph</a> reminds me of my reluctance to electronically sign private emails. To me, signing documents is a tool society uses against the people doing the signing. It’s a liability I take upon myself in order to get something: a wedding, a house – the other party is binding me to something. Conversely, when I’m not getting something of value I’m not signing anything. I prefer the liberty to repudiate everything. “I didn’t write this.” I’m not promising anything.</p>
+
+<p>Let&rsquo;s go back to signed commits, however. When looking at it from the point of view of a corporation, I feel that cryptographically signed commits don&rsquo;t help against bugs, malware, spies, or anything like that.</p>
+
+<p>No, signed commits provide a different kind of security, if you can call it that. The only leverage signed commits provide is that the corporation can blame the person who signed the commit and inflict consequences on them because it&rsquo;s hard to deny that they did sign the commit. Even if the corporation didn&rsquo;t want to inflict consequences on developers, it might have to abide by some certification process or insurance-related policies that enables other corporations to go after the developers.</p>
+
+<p>It&rsquo;s a bit like the security provided by cameras. They don&rsquo;t help the victim being filmed. They might help punish a perpetuator, maybe. There&rsquo;s no guarantee that this increases overall security.</p>
+
+<p>In all cases, as a developer, these signed commits are against my personal interest. Signing commits is a liability. It&rsquo;s in the interest of the employer, never in the interest of the employee.</p>
+
+<p>As a user interested in code quality, I don&rsquo;t really care who committed the code. I&rsquo;m interested in access control to the repository so that only the people I trust merge code they deem to be correct. If this kind of verification isn&rsquo;t possible, then I&rsquo;m starting to see a use case for signed commits.</p>
+
+<p>Assume that somebody sends me commits from a remote repository and I can&rsquo;t look at them for lack of time or lack of expertise. They claim to be somebody I trust, like a contributor I know, or a co-worker, and I need to decide whether to merge the commit. Now a signature for the commit they&rsquo;re trying to get me to add (and therefore all its ancestors) might make sense.</p>
+
+<p><a class="tag" href="/search/?q=%23Programming">#Programming</a> <a class="tag" href="/search/?q=%23Cryptography">#Cryptography</a></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-01-25-signed-commits">https://alexschroeder.ch/view/2024-01-25-signed-commits</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-01-25-signed-commits">Save to Pocket</a>
+</span>
+
+---
+
 ##  A study in Scotland has found that no cases of cervical cancer... 
 
 date: 2024-01-25, updated: 2024-01-25, from: Jason Kottke blog
@@ -29,6 +753,16 @@ date: 2024-01-25, updated: 2024-01-25, from: Jason Kottke blog
 
 <span class="feed-item-link">
 <a href="https://kottke.org/24/01/0043850-a-study-in-scotland-has">https://kottke.org/24/01/0043850-a-study-in-scotland-has</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043850-a-study-in-scotland-has">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-25, from: Dave Winer's Scripting News)
+
+ChatGPT is the best librarian I've ever had.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/25.html#a150346">http://scripting.com/2024/01/25.html#a150346</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/25.html#a150346">Save to Pocket</a>
 </span>
 
 ---
@@ -1137,6 +1871,19 @@ date: 2024-01-24, from: Crossref Blog
 
 ---
 
+## US-RSE January 2024 Newsletter
+
+date: 2024-01-24, from: The United States Research Software Engineer Association
+
+January 2024 - 
+          In this monthly newsletter, we share recent, current, and planned activities of the US-RSE Association, and related news that we think is of interest to US-RSE members. Newsletters are also available on our website alongside the growing resources and information on the US-RSE Association. To receive our newsletter, join US-RSE....
+
+<span class="feed-item-link">
+<a href="https://us-rse.org/2024-01-24-newsletter/">https://us-rse.org/2024-01-24-newsletter/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://us-rse.org/2024-01-24-newsletter/">Save to Pocket</a>
+</span>
+
+---
+
 ## Mozilla creates Firefox ppa and .deb package
 
 date: 2024-01-23, from: OS News
@@ -1514,7 +2261,7 @@ date: 2024-01-23, from: Jeff Geerling blog
 
 <p>I just bought this N100-based Intel x86 mini PC (<em>brand new</em>), and it was cheaper than an almost equivalent—but slower—Raspberry Pi 5.</p>
 
-<p>This GMKtec mini PC is called the <a href="https://amzn.to/4b88MVp">Nucbox G3</a>, and it comes with an Intel Alder Lake N100 4-core CPU, 8GB of RAM, a 256 GB M.2 NVMe SSD, and Windows 11 Pro—and mine cost just $131, after a couple coupons.</p>
+<p>This GMKtec mini PC is called the <a href="https://amzn.to/3vR48uU">Nucbox G3</a>, and it comes with an Intel Alder Lake N100 4-core CPU, 8GB of RAM, a 256 GB M.2 NVMe SSD, and Windows 11 Pro—and mine cost just $131, after a couple coupons.</p>
 
 <p>That's... a lot of computer for a very good price. But the Raspberry Pi—the famous "$35 computer", should be well below that... right?</p>
 

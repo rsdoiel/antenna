@@ -1,11 +1,71 @@
 ---
 title: health 2024.04
-updated: 2024-01-25 07:07:18
+updated: 2024-01-26 08:38:10
 ---
 
 # health 2024.04
 
-(date: 2024-01-25 07:07:18)
+(date: 2024-01-26 08:38:10)
+
+---
+
+## The Aspergillus fumigatus maiA gene contributes to cell wall homeostasis and fungal virulence
+
+date: 2024-01-26, from: Frontiers in Cellular and Infection Microbiology
+
+<p>In this study, two distinct <italic>in vitro</italic> infection models of <italic>Aspergillus fumigatus</italic>, using murine macrophages (RAW264.7) and human lung epithelial cells (A549), were employed to identify the genes important for fungal adaptation during infection. Transcriptomic analyses of co-incubated <italic>A. fumigatus</italic> uncovered 140 fungal genes up-regulated in common between both models that, when compared with a previously published <italic>in vivo</italic> transcriptomic study, allowed the identification of 13 genes consistently up-regulated in all three infection conditions. Among them, the <italic>maiA</italic> gene, responsible for a critical step in the L-phenylalanine degradation pathway, was identified. Disruption of <italic>maiA</italic> resulted in a mutant strain unable to complete the Phe degradation pathway, leading to an excessive production of pyomelanin when this amino acid served as the sole carbon source. Moreover, the disruption mutant exhibited noticeable cell wall abnormalities, with reduced levels of β-glucans within the cell wall but did not show lack of chitin or mannans. The <italic>maiA-1</italic> mutant strain induced reduced inflammation in primary macrophages and displayed significantly lower virulence in a neutropenic mouse model of infection. This is the first study linking the <italic>A. fumigatus maiA</italic> gene to fungal cell wall homeostasis and virulence.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1327299">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1327299</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1327299">Save to Pocket</a>
+</span>
+
+---
+
+## Incongruence between confirmed and suspected clinical cases of Japanese encephalitis virus infection
+
+date: 2024-01-26, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>Japanese encephalitis (JE) is a notifiable infectious disease in China. Information on every case of JE is reported to the superior health administration department. However, reported cases include both laboratory-confirmed and clinically diagnosed cases. This study aimed to differentiate between clinical and laboratory-confirmed cases of Japanese encephalitis virus (JEV) infection, and improve the accuracy of reported JE cases by analyzing the acute-phase serum and cerebrospinal fluid of all reported JE cases in the Sichuan province from 2012 to 2022.</p></sec><sec><title>Methods</title><p>All acute-phase serum and/or cerebrospinal fluid samples of the reported JE cases were screened for IgM(ImmunoglobulinM)to JEV using the enzyme-linked immunosorbent assay (ELISA), and the detection of the viral genes of JEV and 9 other pathogens including enterovirus (EV), using reverse transcription PCR was attempted. Epidemiological analyses of JE and non-JE cases based on sex, age, onset time, and geographical distribution were also performed.</p></sec><sec><title>Results</title><p>From 2012 to 2022, 1558 JE cases were reported in the Sichuan province. The results of serological (JEV-specific IgM) and genetic testing for JEV showed that 81% (1262/1558) of the reported cases were confirmed as JEV infection cases (laboratory-confirmed cases). Among the 296 cases of non-JEV infection, 6 viruses were detected in the cerebrospinal fluid in 62 cases, including EV and the Epstein-Barr virus (EBV), constituting 21% (62/296) of all non-JE cases. Among the 62 non-JEV infection cases with confirmed pathogens, infections with EV and EBV included 17 cases each, herpes simplex virus (HSV-1/2) included 14 cases, varicella- zoster virus included 6 cases, mumps virus included 2 cases, and human herpes viruses-6 included 1 case. Additionally, there were five cases involving mixed infections (two cases of EV/EBV, one case of HSV-1/HSV-2, one case of EBV/HSV-1, and one case of EV/herpes viruses-6). The remaining 234 cases were classified as unknown viral encephalitis cases. Our analysis indicated that those aged 0–15 y were the majority of the patients among the 1558 reported JE cases. However, the incidence of laboratory-confirmed JE cases in the &gt;40 y age group has increased in recent years. The temporal distribution of laboratory-confirmed cases of JE revealed that the majority of cases occurred from May to September each year, with the highest incidence in August.</p></sec><sec><title>Conclusion</title><p>The results of this study indicate that there is a certain discrepancy between clinically diagnosed and laboratory-confirmed cases of JE. Each reported case should be based on laboratory detection results, which is of great importance in improving the accuracy of case diagnosis and reducing misreporting. Our results are not only important for addressing JE endemic to the Sichuan province, but also provide a valuable reference for the laboratory detection of various notifiable infectious diseases in China and other regions outside China.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1302314">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1302314</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1302314">Save to Pocket</a>
+</span>
+
+---
+
+## Exploring the relationship of supernumerary recurrent renal calculi formation and tick-borne infections: a case report
+
+date: 2024-01-26, from: Frontiers in Cellular and Infection Microbiology
+
+<p>A 51-year-old male with a history of Cacchi-Ricci disease and long-standing infection with various species of <italic>Borrelia, Babesia, and Bartonella</italic> presented with recurrent symptoms of right-sided flank pain. Numerous renal calculi were identified on imaging. The etiology of the calculi had not been previously elucidated. Symptoms intermittently date back to 2002 when uric acid stones were identified. Subsequent calculi analysis revealed calcium oxalate stones. Despite the commonality of nephrolithiasis in patients with Cacchi-Ricci disease, the extreme number of calculi and recurrent presentation of symptoms persisted despite a plethora of medical evaluations, dietary changes, and hereditary testing. This case raises questions of etiology including possible immune deficiency and whether his uncommon microbial history contributes to recurrent stone formation.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1194307">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1194307</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1194307">Save to Pocket</a>
+</span>
+
+---
+
+## Effects of Helicobacter pylori infection on intestinal microbiota, immunity and colorectal cancer risk
+
+date: 2024-01-26, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Infecting about half of the world´s population, <italic>Helicobacter pylori</italic> is one of the most prevalent bacterial infections worldwide and the strongest known risk factor for gastric cancer. Although <italic>H. pylori</italic> colonizes exclusively the gastric epithelium, the infection has also been associated with various extragastric diseases, including colorectal cancer (CRC). Epidemiological studies reported an almost two-fold increased risk for infected individuals to develop CRC, but only recently, direct causal and functional links between the chronic infection and CRC have been revealed. Besides modulating the host intestinal immune response, <italic>H. pylori</italic> is thought to increase CRC risk by inducing gut microbiota alterations. It is known that <italic>H. pylori</italic> infection not only impacts the gastric microbiota at the site of infection but also leads to changes in bacterial colonization in the distal large intestine. Considering that the gut microbiome plays a driving role in CRC, <italic>H. pylori</italic> infection emerges as a key factor responsible for promoting changes in microbiome signatures that could contribute to tumor development. Within this review, we want to focus on the interplay between <italic>H. pylori</italic> infection, changes in the intestinal microbiota, and intestinal immunity. In addition, the effects of <italic>H. pylori</italic> antibiotic eradication therapy will be discussed.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1339750">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1339750</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1339750">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: Synergistic combinatorial treatments to overcome antibiotic resistance
+
+date: 2024-01-26, from: Frontiers in Cellular and Infection Microbiology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1369264">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1369264</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1369264">Save to Pocket</a>
+</span>
 
 ---
 

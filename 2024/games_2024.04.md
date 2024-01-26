@@ -1,11 +1,131 @@
 ---
 title: games 2024.04
-updated: 2024-01-25 07:07:18
+updated: 2024-01-26 08:38:10
 ---
 
 # games 2024.04
 
-(date: 2024-01-25 07:07:18)
+(date: 2024-01-26 08:38:10)
+
+---
+
+## Pharrell to tell his life story... in a LEGO movie
+
+date: 2024-01-26, updated: 2024-01-26, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24051631/pharrell-lego-movie-piece-by-piece-release">https://www.polygon.com/24051631/pharrell-lego-movie-piece-by-piece-release</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24051631/pharrell-lego-movie-piece-by-piece-release">Save to Pocket</a>
+</span>
+
+---
+
+## Honkai: Star Rail version 2.0 livestream codes
+
+date: 2024-01-26, updated: 2024-01-26, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/honkai-star-rail-guides/24051608/version-2-0-livestream-codes-redeem">https://www.polygon.com/honkai-star-rail-guides/24051608/version-2-0-livestream-codes-redeem</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/honkai-star-rail-guides/24051608/version-2-0-livestream-codes-redeem">Save to Pocket</a>
+</span>
+
+---
+
+## Jesse Eisenberg’s new movie A Real Pain has what Succession fans have been missing
+
+date: 2024-01-26, updated: 2024-01-26, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24050799/real-pain-kieran-culkin-jesse-eisenberg-succession-sundance-2024">https://www.polygon.com/reviews/24050799/real-pain-kieran-culkin-jesse-eisenberg-succession-sundance-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24050799/real-pain-kieran-culkin-jesse-eisenberg-succession-sundance-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Ahem, look at the Dune 2 popcorn bucket
+
+date: 2024-01-26, updated: 2024-01-26, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24051571/dune-2-popcorn-bucket-sandworm-asshole">https://www.polygon.com/24051571/dune-2-popcorn-bucket-sandworm-asshole</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24051571/dune-2-popcorn-bucket-sandworm-asshole">Save to Pocket</a>
+</span>
+
+---
+
+## 2024’s best sale yet on Switch games just kicked off
+
+date: 2024-01-26, updated: 2024-01-26, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24051573/switch-games-sale-2024-deals-splatoon-animal-crossing-pokemon">https://www.polygon.com/deals/24051573/switch-games-sale-2024-deals-splatoon-animal-crossing-pokemon</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24051573/switch-games-sale-2024-deals-splatoon-animal-crossing-pokemon">Save to Pocket</a>
+</span>
+
+---
+
+## PUBG owner Krafton sued in sexual assault, wrongful termination case
+
+date: 2024-01-26, updated: 2024-01-26, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24051558/pubg-krafton-striking-distance-sexual-assault-termination-lawsuit">https://www.polygon.com/24051558/pubg-krafton-striking-distance-sexual-assault-termination-lawsuit</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24051558/pubg-krafton-striking-distance-sexual-assault-termination-lawsuit">Save to Pocket</a>
+</span>
+
+---
+
+## How to get kindling in Palworld
+
+date: 2024-01-26, updated: 2024-01-26, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/palworld-guides/24050848/kindling-how-to-get">https://www.polygon.com/palworld-guides/24050848/kindling-how-to-get</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/palworld-guides/24050848/kindling-how-to-get">Save to Pocket</a>
+</span>
+
+---
+
+## Like a Dragon: Infinite Wealth’s Animal Crossing minigame is incredible, but it’ll take you a while to get there
+
+date: 2024-01-26, updated: 2024-01-26, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/24050765/like-a-dragon-infinite-wealth-animal-crossing-minigame-dondoko-island-yakuza">https://www.polygon.com/gaming/24050765/like-a-dragon-infinite-wealth-animal-crossing-minigame-dondoko-island-yakuza</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/24050765/like-a-dragon-infinite-wealth-animal-crossing-minigame-dondoko-island-yakuza">Save to Pocket</a>
+</span>
+
+---
+
+## Report suggests Switch 2 will be bigger, with huge 8-inch screen
+
+date: 2024-01-26, updated: 2024-01-26, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24051520/switch-2-screen-size-specs">https://www.polygon.com/24051520/switch-2-screen-size-specs</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24051520/switch-2-screen-size-specs">Save to Pocket</a>
+</span>
+
+---
+
+## The 18 best games on PC
+
+date: 2024-01-26, updated: 2024-01-26, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/what-to-play/23941731/best-pc-games-windows-mac-steam-epic">https://www.polygon.com/what-to-play/23941731/best-pc-games-windows-mac-steam-epic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/what-to-play/23941731/best-pc-games-windows-mac-steam-epic">Save to Pocket</a>
+</span>
 
 ---
 

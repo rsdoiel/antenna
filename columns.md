@@ -1,11 +1,84 @@
 ---
 title: columns 2024.04
-updated: 2024-01-25 07:07:17
+updated: 2024-01-26 08:38:10
 ---
 
 # columns 2024.04
 
-(date: 2024-01-25 07:07:17)
+(date: 2024-01-26 08:38:10)
+
+---
+
+## Chatbots and Human Conversation
+
+date: 2024-01-26, updated: 2024-01-26, from: Bruce Schneier blog
+
+<p>For most of history, communicating with a computer has not been like communicating with a person. In their earliest years, computers required carefully constructed instructions, delivered through punch cards; then came a command-line interface, followed by menus and options and text boxes. If you wanted results, you needed to learn the computer&#8217;s language.</p>
+<p>This is beginning to change. Large language models&#8212;the technology undergirding modern chatbots&#8212;allow users to interact with computers through natural conversation, an innovation that introduces some baggage from human-to-human exchanges. Early on in our respective explorations of ChatGPT, the two of us found ourselves typing a word that we&#8217;d never said to a computer before: &#8220;Please.&#8221; The syntax of civility has crept into nearly every aspect of our encounters; we speak to this algebraic assemblage as if it were a person&#8212;even when we know that ...</p>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/chatbots-and-human-conversation.html">https://www.schneier.com/blog/archives/2024/01/chatbots-and-human-conversation.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/chatbots-and-human-conversation.html">Save to Pocket</a>
+</span>
+
+---
+
+## Quietly Fixing the Mess
+
+date: 2024-01-26, from: Dan Rather's Steady
+
+Hello to the Steady community. First, I want to thank you for your passionate engagement. Comments on our last post, &#8220;One Man,&#8221; were prolific &#8212; some of the most ever for a Steady post. Naturally, I encourage more. While most comments were positive, a few of you asked why we chose to give so much copy to former President Trump&#8217;s failures rather than highlight President Biden&#8217;s accomplishments.
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/quietly-fixing-the-mess">https://steady.substack.com/p/quietly-fixing-the-mess</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/quietly-fixing-the-mess">Save to Pocket</a>
+</span>
+
+---
+
+## The Final Battle (The last installment of Why American capitalism is so rotten, Part 10)
+
+date: 2024-01-26, from: Robert Reich's blog
+
+Where we&#8217;re heading, and what we need to do
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/the-final-battle-why-american-capitalism">https://robertreich.substack.com/p/the-final-battle-why-american-capitalism</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/the-final-battle-why-american-capitalism">Save to Pocket</a>
+</span>
+
+---
+
+## Citizen Musk
+
+date: 2024-01-26, from: Robert Reich's blog
+
+His lies are just like Trump's &#8212; and almost as dangerous
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/citizen-musk">https://robertreich.substack.com/p/citizen-musk</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/citizen-musk">Save to Pocket</a>
+</span>
+
+---
+
+## Friday 26 January, 2024
+
+date: 2024-01-26, from: John Naughton's online diary
+
+Beached? The Law Faculty building at Cambridge. Always reminds me of a beached cruise liner. It’s named after my late friend and mentor, David Williams and was designed by — yes, you guessed it! — Norman Foster. Quote of the &#8230; <a href="https://memex.naughtons.org/friday-26-january-2024/39071/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/friday-26-january-2024/39071/">https://memex.naughtons.org/friday-26-january-2024/39071/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/friday-26-january-2024/39071/">Save to Pocket</a>
+</span>
+
+---
+
+## Trump’s biggest economic lie of the campaign (so far)
+
+date: 2024-01-25, from: Robert Reich's blog
+
+Another reason why the public remains grumpy even though the economic numbers get better and better
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/trumps-biggest-economic-lie-of-the">https://robertreich.substack.com/p/trumps-biggest-economic-lie-of-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/trumps-biggest-economic-lie-of-the">Save to Pocket</a>
+</span>
 
 ---
 
@@ -132,7 +205,7 @@ date: 2024-01-24, updated: 2024-01-24, from: Daring Fireball
 
 ## The Wall Street Journal on Apple’s Plans for iOS Sideloading in the E.U.
 
-date: 2024-01-24, updated: 2024-01-25, from: Daring Fireball
+date: 2024-01-24, updated: 2024-01-26, from: Daring Fireball
 
 
 

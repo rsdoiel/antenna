@@ -1,11 +1,469 @@
 ---
 title: socal north 2024.04
-updated: 2024-01-25 07:07:17
+updated: 2024-01-26 08:38:10
 ---
 
 # socal north 2024.04
 
-(date: 2024-01-25 07:07:17)
+(date: 2024-01-26 08:38:10)
+
+---
+
+## Major Closures Planned for 110 Freeway This Weekend
+
+date: 2024-01-26, updated: 2024-01-26, from: The LAist
+
+The closures begin Friday night and run through Sunday, with the most significant traffic impacts expected overnight Saturday.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/transportation/major-closures-planned-for-110-freeway-this-weekend">https://laist.com/news/transportation/major-closures-planned-for-110-freeway-this-weekend</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/transportation/major-closures-planned-for-110-freeway-this-weekend">Save to Pocket</a>
+</span>
+
+---
+
+## Men’s volleyball tamed by Matadors in five sets
+
+date: 2024-01-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A bullfight of a matchup ended in a crushing upset loss for the No. 11 Trojans.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/26/mens-volleyball-tamed-by-matadors-in-five-sets/">Men’s volleyball tamed by Matadors in five sets</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/26/mens-volleyball-tamed-by-matadors-in-five-sets/">https://dailytrojan.com/2024/01/26/mens-volleyball-tamed-by-matadors-in-five-sets/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/26/mens-volleyball-tamed-by-matadors-in-five-sets/">Save to Pocket</a>
+</span>
+
+---
+
+## The Trojans’ “Hoop Hype”
+
+date: 2024-01-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC men’s basketball can’t walk the walk.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/26/the-trojans-hoop-hype/">The Trojans&#8217; &#8220;Hoop Hype&#8221;</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/26/the-trojans-hoop-hype/">https://dailytrojan.com/2024/01/26/the-trojans-hoop-hype/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/26/the-trojans-hoop-hype/">Save to Pocket</a>
+</span>
+
+---
+
+## Men’s basketball aims to end four-game skid against rival UCLA
+
+date: 2024-01-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The stakes at Galen Center are huge, even with both teams struggling this year.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/26/mens-basketball-aims-to-end-four-game-skid-against-rival-ucla/">Men’s basketball aims to end four-game skid against rival UCLA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/26/mens-basketball-aims-to-end-four-game-skid-against-rival-ucla/">https://dailytrojan.com/2024/01/26/mens-basketball-aims-to-end-four-game-skid-against-rival-ucla/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/26/mens-basketball-aims-to-end-four-game-skid-against-rival-ucla/">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – January 26, 2024
+
+date: 2024-01-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/26/classifieds-january-26-2024/">Classifieds &#8211; January 26, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/26/classifieds-january-26-2024/">https://dailytrojan.com/2024/01/26/classifieds-january-26-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/26/classifieds-january-26-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Moving out by 18 is a distinctly American concept
+
+date: 2024-01-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In many cultures, leaving home can feel like a sin —  despite American norms.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/26/moving-out-by-18-is-a-distinctly-american-concept/">Moving out by 18 is a distinctly American concept</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/26/moving-out-by-18-is-a-distinctly-american-concept/">https://dailytrojan.com/2024/01/26/moving-out-by-18-is-a-distinctly-american-concept/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/26/moving-out-by-18-is-a-distinctly-american-concept/">Save to Pocket</a>
+</span>
+
+---
+
+## Students advertise, network, mingle and learn about campus clubs at spring Involvement Fair
+
+date: 2024-01-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Tables lined Trousdale and Alumni Park over the course of the three-day-long event.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/26/students-advertise-network-mingle-and-learn-about-campus-clubs-at-spring-involvement-fair/">Students advertise, network, mingle and learn about campus clubs at spring Involvement Fair</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/26/students-advertise-network-mingle-and-learn-about-campus-clubs-at-spring-involvement-fair/">https://dailytrojan.com/2024/01/26/students-advertise-network-mingle-and-learn-about-campus-clubs-at-spring-involvement-fair/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/26/students-advertise-network-mingle-and-learn-about-campus-clubs-at-spring-involvement-fair/">Save to Pocket</a>
+</span>
+
+---
+
+## Embrace change this ‘Age of Aquarius’
+
+date: 2024-01-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Pluto’s move into the fixed air sign signals an important generational shift. </p>
+<p>The post <a href="https://dailytrojan.com/2024/01/26/embrace-change-this-age-of-aquarius/">Embrace change this ‘Age of Aquarius’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/26/embrace-change-this-age-of-aquarius/">https://dailytrojan.com/2024/01/26/embrace-change-this-age-of-aquarius/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/26/embrace-change-this-age-of-aquarius/">Save to Pocket</a>
+</span>
+
+---
+
+## Latines deserve to thrive in movies and TV shows
+
+date: 2024-01-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p> Hollywood consistently refuses to give Latines their due time in the spotlight.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/26/latines-deserve-to-thrive-in-movies-and-tv-shows/">Latines deserve to thrive in movies and TV shows</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/26/latines-deserve-to-thrive-in-movies-and-tv-shows/">https://dailytrojan.com/2024/01/26/latines-deserve-to-thrive-in-movies-and-tv-shows/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/26/latines-deserve-to-thrive-in-movies-and-tv-shows/">Save to Pocket</a>
+</span>
+
+---
+
+## The music taste behind the masthead
+
+date: 2024-01-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan’s editors share their current favorite songs this spring semester.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/26/the-music-taste-behind-the-masthead/">The music taste behind the masthead</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/26/the-music-taste-behind-the-masthead/">https://dailytrojan.com/2024/01/26/the-music-taste-behind-the-masthead/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/26/the-music-taste-behind-the-masthead/">Save to Pocket</a>
+</span>
+
+---
+
+## USC awarding more STEM degrees, data shows
+
+date: 2024-01-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Stigmas and financial woes may drive students away from the arts, some say.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/26/198743/">USC awarding more STEM degrees, data shows</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/26/198743/">https://dailytrojan.com/2024/01/26/198743/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/26/198743/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s basketball and USC, both with losing records, to battle in rivalry game
+
+date: 2024-01-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Trojans debuted this season as the No. 21 team in the nation.
+The Bruins entered unranked.
+After four games, USC slipped to No. 23 courtesy of a 70-60 loss to UC Irvine.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/25/ucla-mens-basketball-and-usc-both-with-losing-records-to-battle-in-rivalry-game/">https://dailybruin.com/2024/01/25/ucla-mens-basketball-and-usc-both-with-losing-records-to-battle-in-rivalry-game/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/25/ucla-mens-basketball-and-usc-both-with-losing-records-to-battle-in-rivalry-game/">Save to Pocket</a>
+</span>
+
+---
+
+## Enhancer or obstacle?: AI’s role at UCLA and in online learning after COVID-19
+
+date: 2024-01-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+As online learning becomes more widespread and AI tools gain prominence in academia, both faculty and students are adapting to shifts in the educational environment in various ways.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/25/enhancer-or-obstacle-ais-role-at-ucla-and-in-online-learning-after-covid-19/">https://dailybruin.com/2024/01/25/enhancer-or-obstacle-ais-role-at-ucla-and-in-online-learning-after-covid-19/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/25/enhancer-or-obstacle-ais-role-at-ucla-and-in-online-learning-after-covid-19/">Save to Pocket</a>
+</span>
+
+---
+
+## USAC recap – Jan. 23
+
+date: 2024-01-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its third meeting of January on Tuesday.
+USAC is the official student government representing the undergraduate student body at UCLA.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/25/usac-recap-jan-23-2/">https://dailybruin.com/2024/01/25/usac-recap-jan-23-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/25/usac-recap-jan-23-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Gov. Gavin Newsom announces plan to modify scheduled health care wage increases
+
+date: 2024-01-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Gov. Gavin Newsom announced plans to revise scheduled health care wage increases in his 2024-2025 state budget proposal, which was released Jan. 10.
+Senate Bill 525, passed in October, established incremental wage increases to gradually phase in a new statewide $25 minimum wage for all health care facilities by June 1, 2028.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/25/gov-gavin-newsom-announces-plan-to-modify-scheduled-health-care-wage-increases/">https://dailybruin.com/2024/01/25/gov-gavin-newsom-announces-plan-to-modify-scheduled-health-care-wage-increases/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/25/gov-gavin-newsom-announces-plan-to-modify-scheduled-health-care-wage-increases/">Save to Pocket</a>
+</span>
+
+---
+
+## Escalating classroom shortage sparks concerns from faculty over administrative priorities
+
+date: 2024-01-26, from: Laloyolan (LMU Student Newspaper)
+
+Ahead of the spring 2024 semester, there were over 100 “homeless courses” at the time schedule proofs were sent out, a 122.22% increase from the fall 2023 semester.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/campus_news/escalating-classroom-shortage-sparks-concerns-from-faculty-over-administrative-priorities/article_97059853-24cd-5bf8-a37d-c301952708da.html">https://www.laloyolan.com/news/campus_news/escalating-classroom-shortage-sparks-concerns-from-faculty-over-administrative-priorities/article_97059853-24cd-5bf8-a37d-c301952708da.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/campus_news/escalating-classroom-shortage-sparks-concerns-from-faculty-over-administrative-priorities/article_97059853-24cd-5bf8-a37d-c301952708da.html">Save to Pocket</a>
+</span>
+
+---
+
+## Inside LMU Athletics' decision to eliminate six programs after 2023-24 season
+
+date: 2024-01-26, from: Laloyolan (LMU Student Newspaper)
+
+LMU Athletics outlined its reasoning for discontinuing six programs on its new webpage, Reshaping Athletics, which features a community message, a press release and a series of frequently asked questions. The decision affects approximately 115 student-athletes, as well as the…
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/sports/inside-lmu-athletics-decision-to-eliminate-six-programs-after-2023-24-season/article_e45a87d4-93a2-55db-80b3-9a75a8dddbc7.html">https://www.laloyolan.com/sports/inside-lmu-athletics-decision-to-eliminate-six-programs-after-2023-24-season/article_e45a87d4-93a2-55db-80b3-9a75a8dddbc7.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/sports/inside-lmu-athletics-decision-to-eliminate-six-programs-after-2023-24-season/article_e45a87d4-93a2-55db-80b3-9a75a8dddbc7.html">Save to Pocket</a>
+</span>
+
+---
+
+## War rages on: Life at LMU amidst the Russia-Ukraine war
+
+date: 2024-01-26, from: Laloyolan (LMU Student Newspaper)
+
+The war has accumulated an estimated 385,000 casualties from both sides as the students affected continue to watch the horrors from thousands of miles away.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/war-rages-on-life-at-lmu-amidst-the-russia-ukraine-war/article_f59cc9fa-db0c-53b9-b54e-550528e1d7e5.html">https://www.laloyolan.com/news/war-rages-on-life-at-lmu-amidst-the-russia-ukraine-war/article_f59cc9fa-db0c-53b9-b54e-550528e1d7e5.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/war-rages-on-life-at-lmu-amidst-the-russia-ukraine-war/article_f59cc9fa-db0c-53b9-b54e-550528e1d7e5.html">Save to Pocket</a>
+</span>
+
+---
+
+## Looking to the future with ASLMU's Drew Hartz and Yinka Akinlade
+
+date: 2024-01-26, from: Laloyolan (LMU Student Newspaper)
+
+From Fallapalooza to the Christmas Tree Lighting, ASLMU had a busy first semester. President Drew Hartz and Vice President Yinka Akinlade reflect on the fall semester and gear up for an even busier spring semester — then some well-deserved rest…
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/looking-to-the-future-with-aslmus-drew-hartz-and-yinka-akinlade/article_4daf5bed-5dae-5058-8854-a1f367cc17b0.html">https://www.laloyolan.com/news/looking-to-the-future-with-aslmus-drew-hartz-and-yinka-akinlade/article_4daf5bed-5dae-5058-8854-a1f367cc17b0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/looking-to-the-future-with-aslmus-drew-hartz-and-yinka-akinlade/article_4daf5bed-5dae-5058-8854-a1f367cc17b0.html">Save to Pocket</a>
+</span>
+
+---
+
+## The Fall Of José Huízar: How An Eastside Hero Rose To The Top And How It All Came Crashing Down
+
+date: 2024-01-25, updated: 2024-01-26, from: The LAist
+
+A years-long City Council corruption scandal involving hundreds of thousands of dollars stashed in liquor boxes, shadowy businessmen, and unrelenting developers comes to an end with a sentencing hearing this week.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/rise-and-fall-of-jose-huizar">https://laist.com/news/politics/rise-and-fall-of-jose-huizar</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/rise-and-fall-of-jose-huizar">Save to Pocket</a>
+</span>
+
+---
+
+## UC rejects plan to hire undocumented students, halts consideration for a year
+
+date: 2024-01-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 25 at 10:00 p.m.</em>
+The UC Board of Regents shelved a first-in-the-nation proposal Thursday to establish on-campus job opportunities for thousands of students throughout the state without legal immigration status.&#160;
+In his initial remarks, UC President Michael Drake said the plan was not viable, citing potential legal ramifications and risks that the program could present for undocumented students and University officials, including deportation or civil penalties.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/25/uc-board-of-regents-rejects-plan-to-hire-students-without-legal-immigration-status/">https://dailybruin.com/2024/01/25/uc-board-of-regents-rejects-plan-to-hire-students-without-legal-immigration-status/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/25/uc-board-of-regents-rejects-plan-to-hire-students-without-legal-immigration-status/">Save to Pocket</a>
+</span>
+
+---
+
+## Train Disruptions In San Clemente Raise Questions Of The Future Of Coastal Rail
+
+date: 2024-01-25, updated: 2024-01-26, from: The LAist
+
+The rail track sits on a hillside prone to landslides in recent years.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/transportation/train-disruptions-san-clemente-coastal-rail-future">https://laist.com/news/transportation/train-disruptions-san-clemente-coastal-rail-future</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/transportation/train-disruptions-san-clemente-coastal-rail-future">Save to Pocket</a>
+</span>
+
+---
+
+## After A Not-So-Big Quake This Week, We Got This Question: Can One Big Quake Trigger Another?
+
+date: 2024-01-25, updated: 2024-01-26, from: The LAist
+
+It is possible, though not likely.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/can-one-big-quake-trigger-another">https://laist.com/news/climate-environment/can-one-big-quake-trigger-another</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/can-one-big-quake-trigger-another">Save to Pocket</a>
+</span>
+
+---
+
+## Dodger Stadium Gondola In Limbo Amid Growing Concerns Over Traffic and Access
+
+date: 2024-01-25, updated: 2024-01-26, from: The LAist
+
+Councilmember Eunisses Hernandez, whose district includes Dodger Stadium, is calling on the city to pause the project until more research is done.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/transportation/dodger-stadium-gondola-traffic-concerns">https://laist.com/news/transportation/dodger-stadium-gondola-traffic-concerns</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/transportation/dodger-stadium-gondola-traffic-concerns">Save to Pocket</a>
+</span>
+
+---
+
+## Bruin Phoebe Li sculpts the human experience in her multimedia installations
+
+date: 2024-01-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 25 at 7:53 p.m.</em>
+From social commentary to personal reflections, Phoebe Li is sculpting her artistic success.
+The first-year art student’s work focuses on mixed media elements, most commonly centered around a sculpted piece supplemented with performance art and film.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/25/bruin-phoebe-li-sculpts-the-human-experience-in-her-multimedia-installations/">https://dailybruin.com/2024/01/25/bruin-phoebe-li-sculpts-the-human-experience-in-her-multimedia-installations/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/25/bruin-phoebe-li-sculpts-the-human-experience-in-her-multimedia-installations/">Save to Pocket</a>
+</span>
+
+---
+
+## Los Angeles, a city of broken dreams
+
+date: 2024-01-25, from: The Sundail (CSUN Student Newspaper)
+
+From sandy beaches to the iconic Hollywood Sign, Los Angeles presents itself as a vibrant city full of wonder and mystique. Selling dreams of luxury and grandeur, it sits atop the long forgotten broken spirits of those who once came in search of that same illusion.   While neon signs light up Hollywood Boulevard, poverty and...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178004/opinions/los-angeles-a-city-of-broken-dreams/">https://sundial.csun.edu/178004/opinions/los-angeles-a-city-of-broken-dreams/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178004/opinions/los-angeles-a-city-of-broken-dreams/">Save to Pocket</a>
+</span>
+
+---
+
+## Weekend in Preview: Jan. 25
+
+date: 2024-01-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 25 at 11:40 p.m.</em>
+Men&#8217;s tennis
+Chloe Agas, Daily Bruin contributor
+
+The Bruins are heading into uncharted territory just one match into their season.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/25/weekend-in-preview-jan-25/">https://dailybruin.com/2024/01/25/weekend-in-preview-jan-25/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/25/weekend-in-preview-jan-25/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s water polo to net experience in California Cup matchups
+
+date: 2024-01-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 25 at 11:36 p.m.</em>
+The Bruins’ next match against the Cardinal will rely on speed.
+At least, that&#8217;s how coach Adam Wright is approaching his team&#8217;s upcoming game against the reigning NCAA champions.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/25/ucla-womens-water-polo-to-net-experience-in-california-cup-matchups/">https://dailybruin.com/2024/01/25/ucla-womens-water-polo-to-net-experience-in-california-cup-matchups/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/25/ucla-womens-water-polo-to-net-experience-in-california-cup-matchups/">Save to Pocket</a>
+</span>
+
+---
+
+## Focus on passion plays drives UCLA women’s basketball toward weekend contests
+
+date: 2024-01-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 25 at 11:23 p.m.</em>
+The women’s basketball programs that call the Pac-12 home have decided to put on a show in the conference&#8217;s final year.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/25/focus-on-passion-plays-drives-ucla-womens-basketball-toward-weekend-contests/">https://dailybruin.com/2024/01/25/focus-on-passion-plays-drives-ucla-womens-basketball-toward-weekend-contests/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/25/focus-on-passion-plays-drives-ucla-womens-basketball-toward-weekend-contests/">Save to Pocket</a>
+</span>
+
+---
+
+## Sundance 2024: Alumnus Michael Fitzgerald talks progress in representing disability on screen
+
+date: 2024-01-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 25 at 7:46 p.m.</em>
+Behind the scenes of the upcoming Disney+ film “Out of My Mind,” alumnus Michael Fitzgerald is changing the way viewers perceive disability in the film industry.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/25/sundance-2024-alumnus-michael-fitzgerald-talks-progress-in-representing-disability-on-screen/">https://dailybruin.com/2024/01/25/sundance-2024-alumnus-michael-fitzgerald-talks-progress-in-representing-disability-on-screen/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/25/sundance-2024-alumnus-michael-fitzgerald-talks-progress-in-representing-disability-on-screen/">Save to Pocket</a>
+</span>
+
+---
+
+## CFA Strike at CSUN
+
+date: 2024-01-25, from: The Sundail (CSUN Student Newspaper)
+
+&#160; &#160;
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177998/multimedia/watch/cfa-strike-at-csun/">https://sundial.csun.edu/177998/multimedia/watch/cfa-strike-at-csun/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177998/multimedia/watch/cfa-strike-at-csun/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA appoints Athena Jackson as Norman and Armena Powell University Librarian
+
+date: 2024-01-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 25 at 10:03 p.m.</em>
+Former UCLA director of library special collections Athena Jackson will be the next Norman and Armena Powell University Librarian, UCLA announced Thursday.&#160;
+Jackson will start in the role March 1, succeeding Virginia Steel – who had occupied the position since 2013, according to an announcement from Executive Vice Chancellor and Provost Darnell Hunt.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/25/ucla-appoints-athena-jackson-as-norman-and-armena-powell-university-librarian/">https://dailybruin.com/2024/01/25/ucla-appoints-athena-jackson-as-norman-and-armena-powell-university-librarian/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/25/ucla-appoints-athena-jackson-as-norman-and-armena-powell-university-librarian/">Save to Pocket</a>
+</span>
+
+---
+
+## This Is Why You Should Only Use Credit Cards
+
+date: 2024-01-25, from: The Sundail (CSUN Student Newspaper)
+
+I am sure someone has asked you, &#8216;Debit or credit?&#8217; I say credit every time, and you should, too. You were likely brought up in a society denouncing credit cards as some financial weapon of mass destruction. This is not true. If used properly, I am here to convince you that your credit card can...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/177983/opinions/this-is-why-you-should-only-use-credit-cards/">https://sundial.csun.edu/177983/opinions/this-is-why-you-should-only-use-credit-cards/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177983/opinions/this-is-why-you-should-only-use-credit-cards/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “The Epic Experience”
+
+date: 2024-01-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/25/editorial-cartoon-the-epic-experience/">https://dailybruin.com/2024/01/25/editorial-cartoon-the-epic-experience/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/25/editorial-cartoon-the-epic-experience/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “Extra Baggage”
+
+date: 2024-01-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/25/editorial-cartoon-extra-baggage/">https://dailybruin.com/2024/01/25/editorial-cartoon-extra-baggage/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/25/editorial-cartoon-extra-baggage/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -101,12 +559,12 @@ date: 2024-01-25, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## 110 closures to disrupt weekend travel
+## 110 Freeway closures to disrupt weekend travel
 
 date: 2024-01-25, from: The Daily Trojan (USC Student Newspaper)
 
 <p>Various ramp and roadway closures will likely affect traffic around weekend events at USC and the surrounding area.</p>
-<p>The post <a href="https://dailytrojan.com/2024/01/25/110-closures-to-disrupt-weekend-travel/">110 closures to disrupt weekend travel</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/25/110-closures-to-disrupt-weekend-travel/">110 Freeway closures to disrupt weekend travel</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
 
 
 <span class="feed-item-link">
@@ -175,8 +633,9 @@ date: 2024-01-25, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-01-25, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 25 at 10:37 p.m.</em>
 UCLA hosted an event Jan. 17 aimed at highlighting its Living Learning Communities.
-The LLC Palooza  is an annual event showcasing the different student-led, identity-based housing communities on the Hill.
+The LLC Palooza is an annual event showcasing the different student-led, identity-based housing communities on the Hill.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/24/llc-palooza-2024-highlights-importance-of-community-empathy-at-ucla/">https://dailybruin.com/2024/01/24/llc-palooza-2024-highlights-importance-of-community-empathy-at-ucla/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/24/llc-palooza-2024-highlights-importance-of-community-empathy-at-ucla/">Save to Pocket</a>
@@ -227,7 +686,8 @@ The shortfall could prompt the city to cut vacant positions.
 
 date: 2024-01-24, from: The Daily Bruin (UCLA Student Newspaper)
 
-The public&#8217;s unhealthy obsession with celebrity relationships is nothing new.
+<em>This post was updated Jan. 25 at 7:58 p.m.</em>
+The public’s unhealthy obsession with celebrity relationships is nothing new.
 On Sept. 24, 12-time Grammy winner Taylor Swift was spotted cheering Kansas City Chiefs tight end Travis Kelce as his team defeated the Chicago Bears.
 
 <span class="feed-item-link">
@@ -276,8 +736,9 @@ An early fourth quarter collapse by the Matadors (2-15, 0-7 Big West) led to the
 
 date: 2024-01-24, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 25 at 11:27 p.m.</em>
 The Bruins defended their desert title.
-No. 4 UCLA women&#8217;s golf won The Match in the Desert for the second year in a row with a score of 17-under 271, a five-stroke improvement from its win at Superstition Mountain Golf Club in Arizona last year.
+No. 4 UCLA women’s golf won The Match in the Desert for the second year in a row with a score of 17-under 271, a five-stroke improvement from its win at Superstition Mountain Golf Club in Arizona last year.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/24/ucla-womens-golf-secures-win-at-the-match-in-the-desert-for-second-year-in-a-row/">https://dailybruin.com/2024/01/24/ucla-womens-golf-secures-win-at-the-match-in-the-desert-for-second-year-in-a-row/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/24/ucla-womens-golf-secures-win-at-the-match-in-the-desert-for-second-year-in-a-row/">Save to Pocket</a>
@@ -314,7 +775,7 @@ date: 2024-01-24, from: The Daily Bruin (UCLA Student Newspaper)
 
 date: 2024-01-24, from: The Sundail (CSUN Student Newspaper)
 
-Students are taught to love a country that values guns over our lives. Some of us hear the sound of gunfire when we watch fireworks on the fourth of July, or when we watch a drumline performance at halftime. But all of us have heard the siren of an active shooter drill and fear that...
+Editor’s Note: The following is a student-written op-ed, signed by over 110 student leaders and meant to be published simultaneously across over 40 student newspapers. The breadth of this op-ed is national and includes public and private universities.  The purpose of this op-ed is to create attention around gun violence and act as a demonstration...
 
 <span class="feed-item-link">
 <a href="https://sundial.csun.edu/177955/opinions/we-will-not-wait-for-the-next-school-shooting/">https://sundial.csun.edu/177955/opinions/we-will-not-wait-for-the-next-school-shooting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/177955/opinions/we-will-not-wait-for-the-next-school-shooting/">Save to Pocket</a>
