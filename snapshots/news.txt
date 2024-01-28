@@ -413,6 +413,7 @@ https://www.foxhound.systems/blog/rss.xml "~Fox Hound Systems Blog" curl/8.5.0 (
 http://feeds.feedburner.com/Kilianvalkhofcom "~Kilian Valkhof's blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 https://www.htmhell.dev/feed_tips.xml "~HTMH(ell) newsletter, improving the web toolbox"
 https://openrss.org/rss "~Open RSS Blog"
+https://willnorris.com/atom.xml "~Will Norris blog"
 
 #
 # Programming language blogs
