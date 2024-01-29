@@ -1,11 +1,155 @@
 ---
 title: pacific 2024.05
-updated: 2024-01-29 07:08:19
+updated: 2024-01-29 15:07:17
 ---
 
 # pacific 2024.05
 
-(date: 2024-01-29 07:08:19)
+(date: 2024-01-29 15:07:17)
+
+---
+
+## Saipan's stunning skies at risk: The environmental impact of fireworks sparks controversy
+
+date: 2024-01-29, updated: 2024-01-29, from: Marianas Variety
+
+IN the bustling end-of-year and New Year events, fireworks are lighting up the night sky of our island, Saipan. The question arises: Will the dazzling fireworks that adorn the nights be beautiful regarding their environmental impact?
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/views/letters_to_editor/saipans-stunning-skies-at-risk-the-environmental-impact-of-fireworks-sparks-controversy/article_122f73b8-be6b-11ee-9a72-9b2400df9e48.html">https://www.mvariety.com/views/letters_to_editor/saipans-stunning-skies-at-risk-the-environmental-impact-of-fireworks-sparks-controversy/article_122f73b8-be6b-11ee-9a72-9b2400df9e48.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/views/letters_to_editor/saipans-stunning-skies-at-risk-the-environmental-impact-of-fireworks-sparks-controversy/article_122f73b8-be6b-11ee-9a72-9b2400df9e48.html">Save to Pocket</a>
+</span>
+
+---
+
+## ‘ISLA: Isla'n Esperånsa’ cast and crew reflect on filmmaking
+
+date: 2024-01-29, updated: 2024-01-29, from: Marianas Variety
+
+NORTHERN Marianas College and Mount Carmel School launched the film “ISLA: Isla'n Esperånsa” on Friday, Jan. 26, at the Regal Movie Cinema in San Jose.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/isla-islan-esper-nsa-cast-and-crew-reflect-on-filmmaking/article_ff54e218-be57-11ee-8eb8-173492b41b24.html">https://www.mvariety.com/lifestyle/isla-islan-esper-nsa-cast-and-crew-reflect-on-filmmaking/article_ff54e218-be57-11ee-8eb8-173492b41b24.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/isla-islan-esper-nsa-cast-and-crew-reflect-on-filmmaking/article_ff54e218-be57-11ee-8eb8-173492b41b24.html">Save to Pocket</a>
+</span>
+
+---
+
+## CUC: Fuel Adjustment Charge remains the same for February
+
+date: 2024-01-29, updated: 2024-01-29, from: Marianas Variety
+
+(CUC) — The Commonwealth Utilities Corp. announces that the Fuel Adjustment Charge or FAC remains the same at $0.24894 per kWh for the month of February. Although there has been a slight increase in the average fuel oil prices, the increase did not equal or exceed a 4.5% differential of the average per gallon cost of fuel.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/cuc-fuel-adjustment-charge-remains-the-same-for-february/article_d0784c74-beab-11ee-b135-2b6c85a14a88.html">https://www.mvariety.com/news/local/cuc-fuel-adjustment-charge-remains-the-same-for-february/article_d0784c74-beab-11ee-b135-2b6c85a14a88.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/cuc-fuel-adjustment-charge-remains-the-same-for-february/article_d0784c74-beab-11ee-b135-2b6c85a14a88.html">Save to Pocket</a>
+</span>
+
+---
+
+## Man wanted in Indiana arrested on Saipan
+
+date: 2024-01-29, updated: 2024-01-29, from: Marianas Variety
+
+CHARLES Lee Dewey III, who fled Indiana after six arrest warrants were issued against him, was arrested on Saipan.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/man-wanted-in-indiana-arrested-on-saipan/article_fc50ad2c-beac-11ee-9743-b30e58ce0185.html">https://www.mvariety.com/news/local/man-wanted-in-indiana-arrested-on-saipan/article_fc50ad2c-beac-11ee-9743-b30e58ce0185.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/man-wanted-in-indiana-arrested-on-saipan/article_fc50ad2c-beac-11ee-9743-b30e58ce0185.html">Save to Pocket</a>
+</span>
+
+---
+
+## FAA director commends King-Hinds
+
+date: 2024-01-29, updated: 2024-01-29, from: Marianas Variety
+
+A FEDERAL Aviation Administration official has commended the Commonwealth Ports Authority’s former board chair, Kimberlyn King-Hinds, for her “remarkable efforts to address issues that impacted the sustainability of the CNMI airport system.”
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/faa-director-commends-king-hinds/article_8d03cf1c-beac-11ee-a21a-bf6cfd1d7dbf.html">https://www.mvariety.com/news/local/faa-director-commends-king-hinds/article_8d03cf1c-beac-11ee-a21a-bf6cfd1d7dbf.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/faa-director-commends-king-hinds/article_8d03cf1c-beac-11ee-a21a-bf6cfd1d7dbf.html">Save to Pocket</a>
+</span>
+
+---
+
+## Sinner rallies from 2 sets down to beat Medvedev in Australia
+
+date: 2024-01-29, updated: 2024-01-29, from: Marianas Variety
+
+MELBOURNE, Australia (AP) — Jannik Sinner lined up a forehand, drilled it down the line and dropped to the court on his back, giving himself some moments to process how he’d managed to come back from two sets down to win his first Grand Slam title.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/sinner-rallies-from-2-sets-down-to-beat-medvedev-in-australia/article_cd6f54a2-beae-11ee-961c-cfba2ea73572.html">https://www.mvariety.com/sports/nationalsports/sinner-rallies-from-2-sets-down-to-beat-medvedev-in-australia/article_cd6f54a2-beae-11ee-961c-cfba2ea73572.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/sinner-rallies-from-2-sets-down-to-beat-medvedev-in-australia/article_cd6f54a2-beae-11ee-961c-cfba2ea73572.html">Save to Pocket</a>
+</span>
+
+---
+
+## Bermudes wants to know why he was asked to resign; governor says it’s a ‘personnel matter’
+
+date: 2024-01-29, updated: 2024-01-29, from: Marianas Variety
+
+FORMER Department of Public Safety Clement R. Bermudes told Variety that he loves his job, and he has “served with dignity and respect,” but Gov. Arnold I. Palacios “instructed” him to reason “without reason.”
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/bermudes-wants-to-know-why-he-was-asked-to-resign-governor-says-it-s-a/article_831423c0-bead-11ee-8704-f7ed5ea4b893.html">https://www.mvariety.com/news/local/bermudes-wants-to-know-why-he-was-asked-to-resign-governor-says-it-s-a/article_831423c0-bead-11ee-8704-f7ed5ea4b893.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/bermudes-wants-to-know-why-he-was-asked-to-resign-governor-says-it-s-a/article_831423c0-bead-11ee-8704-f7ed5ea4b893.html">Save to Pocket</a>
+</span>
+
+---
+
+## Free Zoom webinar on West Philippine Sea, energy security, national security
+
+date: 2024-01-29, updated: 2024-01-29, from: Marianas Variety
+
+(NYMWPS) — The National Youth Movement for the West Philippine Sea, headed by its founder and global chairperson, Dr. Celia Lamkin of Guam and the CNMI, would like to invite the public to a free Zoom webinar with a theme “The West Philippine Sea: The Energy Security in the Philippines and Its Impact on the National Security of the West Philippine Sea.”
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/regional_world/free-zoom-webinar-on-west-philippine-sea-energy-security-national-security/article_e9b795b2-bead-11ee-8124-ff770649f2df.html">https://www.mvariety.com/news/regional_world/free-zoom-webinar-on-west-philippine-sea-energy-security-national-security/article_e9b795b2-bead-11ee-8124-ff770649f2df.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/regional_world/free-zoom-webinar-on-west-philippine-sea-energy-security-national-security/article_e9b795b2-bead-11ee-8124-ff770649f2df.html">Save to Pocket</a>
+</span>
+
+---
+
+## NBA roundup: Lowly Pistons stun West-leading Thunder
+
+date: 2024-01-29, updated: 2024-01-29, from: Marianas Variety
+
+(Reuters) —  The Detroit Pistons unleashed a dominating scoring run midway through the second half and the team with the NBA's worst record earned a 120-104 home victory Sunday over the Western Conference-leading Oklahoma City Thunder.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/nba-roundup-lowly-pistons-stun-west-leading-thunder/article_68341ac8-beae-11ee-bd98-d3ec3c5a39be.html">https://www.mvariety.com/sports/nationalsports/nba-roundup-lowly-pistons-stun-west-leading-thunder/article_68341ac8-beae-11ee-bd98-d3ec3c5a39be.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/nba-roundup-lowly-pistons-stun-west-leading-thunder/article_68341ac8-beae-11ee-bd98-d3ec3c5a39be.html">Save to Pocket</a>
+</span>
+
+---
+
+## Mahomes, Chiefs knock off top-seeded Ravens to return to Super Bowl. Niners rally past Lions
+
+date: 2024-01-29, updated: 2024-01-29, from: Marianas Variety
+
+BALTIMORE (AP) — Patrick Mahomes and Travis Kelce were at their magnificent best in the first half, and Kansas City’s defense was superb against Lamar Jackson and Baltimore, helping the Chiefs reach the Super Bowl for the fourth time in five years with a 17-10 victory over the Ravens in the AFC championship game Sunday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/mahomes-chiefs-knock-off-top-seeded-ravens-to-return-to-super-bowl-niners-rally-past/article_51881f44-beaf-11ee-bd05-6b6cd665e3b3.html">https://www.mvariety.com/sports/nationalsports/mahomes-chiefs-knock-off-top-seeded-ravens-to-return-to-super-bowl-niners-rally-past/article_51881f44-beaf-11ee-bd05-6b6cd665e3b3.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/mahomes-chiefs-knock-off-top-seeded-ravens-to-return-to-super-bowl-niners-rally-past/article_51881f44-beaf-11ee-bd05-6b6cd665e3b3.html">Save to Pocket</a>
+</span>
+
+---
+
+## Federal authorities crack down on cryptocurrency fraud on Guam
+
+date: 2024-01-29, from: Pacific Island Times
+
+By Pacific Island Times News Staff The U.S. Attorney's Office for Guam and the CNMI vowed to continue clamping down on fraudulent...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/federal-authorities-crack-down-on-cryptocurrency-fraud-on-guam">https://www.pacificislandtimes.com/post/federal-authorities-crack-down-on-cryptocurrency-fraud-on-guam</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/federal-authorities-crack-down-on-cryptocurrency-fraud-on-guam">Save to Pocket</a>
+</span>
+
+---
+
+## Manner
+
+date: 2024-01-29, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Caroliena Cabada At dinner, the napkin ring cinches the cloth into a fan. Next to me, a guest removes it and remarks on the fine lines carved into the wood. The scene on the ring is a sunrise over &#8230; <a href="https://hawaiipacificreview.org/2024/01/29/manner/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://hawaiipacificreview.org/2024/01/29/manner/">https://hawaiipacificreview.org/2024/01/29/manner/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://hawaiipacificreview.org/2024/01/29/manner/">Save to Pocket</a>
+</span>
 
 ---
 

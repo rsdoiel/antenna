@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.05
-updated: 2024-01-29 07:08:19
+updated: 2024-01-29 15:07:18
 ---
 
 # libraries 2024.05
 
-(date: 2024-01-29 07:08:19)
+(date: 2024-01-29 15:07:18)
 
 ---
 
@@ -29,6 +29,32 @@ Bearth, Angela; Otten, Caitlin Drummond; Cohen, Alex Segrè
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/653049">http://hdl.handle.net/20.500.11850/653049</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/653049">Save to Pocket</a>
+</span>
+
+---
+
+## Day in Review (January 29–February 1)
+
+date: 2024-01-29, from: Association of Research Libraries News
+
+<p>Last Updated on January 29, 2024, 4:28 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 30 &#124; Wednesday, January 31 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-29-february-1/">Day in Review (January 29–February 1)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/day-in-review/day-in-review-january-29-february-1/">https://www.arl.org/day-in-review/day-in-review-january-29-february-1/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/day-in-review/day-in-review-january-29-february-1/">Save to Pocket</a>
+</span>
+
+---
+
+## Victory Odes, by Pindar
+
+date: 2024-01-29, from: Standard Ebooks, new releaases
+
+A collection of lyric poems celebrating the triumphs of ancient Greek athletes in various sporting events.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way">https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/pindar/victory-odes/arthur-s-way">Save to Pocket</a>
 </span>
 
 ---

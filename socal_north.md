@@ -1,11 +1,99 @@
 ---
 title: socal north 2024.05
-updated: 2024-01-29 07:08:18
+updated: 2024-01-29 15:07:17
 ---
 
 # socal north 2024.05
 
-(date: 2024-01-29 07:08:18)
+(date: 2024-01-29 15:07:17)
+
+---
+
+## UCLA women’s tennis narrowly defeated by Oklahoma State at ITA Kickoff Weekend
+
+date: 2024-01-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+The weekend&#8217;s rollercoaster climbed from heartbreak to revenge.
+But at the end of the ride was the same outcome the Bruins have seen for years.
+At ITA Kickoff Weekend in Urbandale, Iowa, No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/29/ucla-womens-tennis-narrowly-defeated-by-oklahoma-state-at-ita-kickoff-weekend/">https://dailybruin.com/2024/01/29/ucla-womens-tennis-narrowly-defeated-by-oklahoma-state-at-ita-kickoff-weekend/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/29/ucla-womens-tennis-narrowly-defeated-by-oklahoma-state-at-ita-kickoff-weekend/">Save to Pocket</a>
+</span>
+
+---
+
+## With strategy in mind, UCLA men’s golf heads into 2024 Southwestern Invitational
+
+date: 2024-01-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Half of the Bruins&#8217; lineup will be traveling to the deep valley  for the first time.
+UCLA men&#8217;s golf is heading to the Southwestern Invitational in Westlake Village, California,  from Monday to Wednesday.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/29/with-strategy-in-mind-ucla-mens-golf-heads-into-2024-southwestern-invitational/">https://dailybruin.com/2024/01/29/with-strategy-in-mind-ucla-mens-golf-heads-into-2024-southwestern-invitational/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/29/with-strategy-in-mind-ucla-mens-golf-heads-into-2024-southwestern-invitational/">Save to Pocket</a>
+</span>
+
+---
+
+## Winter Concert Preview: Explore LA’s plethora of unique music experiences this season
+
+date: 2024-01-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Live performances will be igniting stages across Los Angeles this winter.
+This season, audiences can escape the blistering season and enter a sultry musical journey. From the return of a pop icon to beloved superhero orchestrations, there is something in store for every concertgoer no matter their likeness.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/29/winter-concert-preview-explore-las-plethora-of-unique-music-experiences-this-season/">https://dailybruin.com/2024/01/29/winter-concert-preview-explore-las-plethora-of-unique-music-experiences-this-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/29/winter-concert-preview-explore-las-plethora-of-unique-music-experiences-this-season/">Save to Pocket</a>
+</span>
+
+---
+
+## Calculating the Quake
+
+date: 2024-01-29, from: The Sundail (CSUN Student Newspaper)
+
+At 4:30 a.m. on Jan. 17, 1994, the San Fernando Valley shook. With a recorded magnitude of 6.7, the Northridge earthquake may not have been “the big one,” being neither of California’s two biggest earthquakes of the ’90s, but the densely populated location of the quake’s epicenter caused a significant loss of life and, at...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178034/print-editions/print-stories/calculating-the-quake/">https://sundial.csun.edu/178034/print-editions/print-stories/calculating-the-quake/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178034/print-editions/print-stories/calculating-the-quake/">Save to Pocket</a>
+</span>
+
+---
+
+## Best Things To Do This Week In Los Angeles and SoCal: Jan. 29 - Feb. 1
+
+date: 2024-01-29, updated: 2024-01-29, from: The LAist
+
+Take in some immersive comedy, learn pottery, or tour L.A. sites rumored to be haunted.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/arts-and-entertainment/best-things-to-do-los-angeles-socal-jan-29-feb-1">https://laist.com/news/arts-and-entertainment/best-things-to-do-los-angeles-socal-jan-29-feb-1</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/arts-and-entertainment/best-things-to-do-los-angeles-socal-jan-29-feb-1">Save to Pocket</a>
+</span>
+
+---
+
+## Why 2023 Was The Year Of The Pothole In LA County (And How To Report Them)
+
+date: 2024-01-29, updated: 2024-01-29, from: The LAist
+
+We got the numbers on the thorns in L.A. drivers’ sides: Potholes.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/transportation/los-angeles-pothole-wrapped-streets-road-damage-spike-2023-la-county-public-works-caltrans">https://laist.com/news/transportation/los-angeles-pothole-wrapped-streets-road-damage-spike-2023-la-county-public-works-caltrans</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/transportation/los-angeles-pothole-wrapped-streets-road-damage-spike-2023-la-county-public-works-caltrans">Save to Pocket</a>
+</span>
+
+---
+
+## Why California’s Housing Market Is Destined To Go Up In Flames
+
+date: 2024-01-29, updated: 2024-01-29, from: The LAist
+
+High costs and strict regulations are pushing development into fire country, putting homeowners in the crosshairs of climate change.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/california-wildfire-risk-winchester-housing-boom">https://laist.com/news/climate-environment/california-wildfire-risk-winchester-housing-boom</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/california-wildfire-risk-winchester-housing-boom">Save to Pocket</a>
+</span>
 
 ---
 
@@ -134,11 +222,11 @@ The event, hosted by the youth-led organization Lives Without Knives, was held t
 
 ---
 
-## Students can mitigate seasonal depression by embracing weather, taking precautions
+## Opinion: Students can mitigate seasonal depression by embracing weather, taking precautions
 
 date: 2024-01-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-Winter quarter can be a rough time for many Bruins. With the cloudy skies, heavy rain and overall gloomy days, the poor weather may take a toll on students&#8217; mental health and ability to thrive academically, emotionally and socially.
+Winter quarter can be a rough time for many Bruins. With the cloudy skies, heavy rain and overall gloomy days, the poor weather may take a toll on students’ mental health and ability to thrive academically, emotionally and socially.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/28/students-can-mitigate-seasonal-depression-by-embracing-weather-taking-precautions/">https://dailybruin.com/2024/01/28/students-can-mitigate-seasonal-depression-by-embracing-weather-taking-precautions/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/28/students-can-mitigate-seasonal-depression-by-embracing-weather-taking-precautions/">Save to Pocket</a>
@@ -293,7 +381,7 @@ date: 2024-01-28, from: City of Santa Clarita
 
 ## Checking In On The Atmospheric River Coming To SoCal This Week
 
-date: 2024-01-28, updated: 2024-01-28, from: The LAist
+date: 2024-01-28, updated: 2024-01-29, from: The LAist
 
 The outline of what the storms will bring is taking shape.
 

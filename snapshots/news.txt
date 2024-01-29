@@ -424,6 +424,7 @@ https://herschel.oberon.org/atom.xml "~Herschel @ oberon.org"
 https://adventofcomputing.libsyn.com/rss "~Advent of Computing"
 #http://pascal.hansotten.com/feed/ "~Hans Otten's Pascal Blog"
 http://pascal.hansotten.com/feed/ "~Hans Otten's, Pascal for small machines"
+https://fyne.io/feed.xml "~Fyne blog (Golang GUI packages)"
 
 #
 # Retro computing
