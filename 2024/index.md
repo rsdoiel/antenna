@@ -7,6 +7,7 @@ title: Antenna Archives
 
 ## Socal North
 
+* [socal north 2024.05](socal_north_2024.05.md)
 * [socal north 2024.04](socal_north_2024.04.md)
 * [socal north 2024.03](socal_north_2024.03.md)
 * [socal north 2024.02](socal_north_2024.02.md)
@@ -14,6 +15,7 @@ title: Antenna Archives
 
 ## Weather
 
+* [weather 2024.05](weather_2024.05.md)
 * [weather 2024.04](weather_2024.04.md)
 * [weather 2024.03](weather_2024.03.md)
 * [weather 2024.02](weather_2024.02.md)
@@ -21,6 +23,7 @@ title: Antenna Archives
 
 ## Pacific
 
+* [pacific 2024.05](pacific_2024.05.md)
 * [pacific 2024.04](pacific_2024.04.md)
 * [pacific 2024.03](pacific_2024.03.md)
 * [pacific 2024.02](pacific_2024.02.md)
@@ -28,6 +31,7 @@ title: Antenna Archives
 
 ## Mid Central
 
+* [mid central 2024.05](mid_central_2024.05.md)
 * [mid central 2024.04](mid_central_2024.04.md)
 * [mid central 2024.03](mid_central_2024.03.md)
 * [mid central 2024.02](mid_central_2024.02.md)
@@ -35,6 +39,7 @@ title: Antenna Archives
 
 ## Tech Likely
 
+* [tech likely 2024.05](tech_likely_2024.05.md)
 * [tech likely 2024.04](tech_likely_2024.04.md)
 * [tech likely 2024.03](tech_likely_2024.03.md)
 * [tech likely 2024.02](tech_likely_2024.02.md)
@@ -42,6 +47,7 @@ title: Antenna Archives
 
 ## IF & Writing
 
+* [writing 2024.05](writing_2024.05.md)
 * [writing 2024.04](writing_2024.04.md)
 * [writing 2024.03](writing_2024.03.md)
 * [writing 2024.02](writing_2024.02.md)
@@ -49,6 +55,7 @@ title: Antenna Archives
 
 ## Parks
 
+* [parks 2024.05](parks_2024.05.md)
 * [parks 2024.04](parks_2024.04.md)
 * [parks 2024.03](parks_2024.03.md)
 * [parks 2024.02](parks_2024.02.md)
@@ -56,6 +63,7 @@ title: Antenna Archives
 
 ## Libraries, Archives and Museums
 
+* [libraries 2024.05](libraries_2024.05.md)
 * [libraries 2024.04](libraries_2024.04.md)
 * [libraries 2024.03](libraries_2024.03.md)
 * [libraries 2024.02](libraries_2024.02.md)
