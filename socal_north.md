@@ -1,21 +1,323 @@
 ---
 title: socal north 2024.05
-updated: 2024-01-29 15:07:17
+updated: 2024-01-30 11:51:47
 ---
 
 # socal north 2024.05
 
-(date: 2024-01-29 15:07:17)
+(date: 2024-01-30 11:51:47)
 
 ---
 
-## UCLA women’s tennis narrowly defeated by Oklahoma State at ITA Kickoff Weekend
+## Sundance Film Festival 2024
+
+date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Sundance Film Festival is once again lighting up the marquee. Held from Jan. 18-28, the 2024 Sundance Film Festival has returned to celebrate independent voices within the film industry.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/tag/sundance-2024">https://dailybruin.com/tag/sundance-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/tag/sundance-2024">Save to Pocket</a>
+</span>
+
+---
+
+## The Final Lift For Space Shuttle Endeavour’s 'Go For Stack' Mission
+
+date: 2024-01-30, updated: 2024-01-30, from: The LAist
+
+A first look at the world’s only authentic space shuttle stack standing in Exposition Park, ahead of the upcoming Samuel Oschin Air and Space Center.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/los-angeles-activities/the-final-lift-for-space-shuttle-endeavours-go-for-stack-mission">https://laist.com/news/los-angeles-activities/the-final-lift-for-space-shuttle-endeavours-go-for-stack-mission</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/los-angeles-activities/the-final-lift-for-space-shuttle-endeavours-go-for-stack-mission">Save to Pocket</a>
+</span>
+
+---
+
+## Your SoCal Weather Report For Tuesday, Jan 30: Warmer Than Normal Before A Series Of Rain Storms Comes Wednesday Night
+
+date: 2024-01-30, updated: 2024-01-30, from: The LAist
+
+Today through Wednesday will continue to be warm with highs in the 70s before another storm system comes later this week.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/la-weather-report-january-30-warm-sunny-highs-70s-rainstorms">https://laist.com/news/climate-environment/la-weather-report-january-30-warm-sunny-highs-70s-rainstorms</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/la-weather-report-january-30-warm-sunny-highs-70s-rainstorms">Save to Pocket</a>
+</span>
+
+---
+
+## A New Rule For LA Landlords Is Helping Outreach Workers Catch Renters Before An Eviction
+
+date: 2024-01-30, updated: 2024-01-30, from: The LAist
+
+Now that L.A. officials know who landlords are trying to evict, city workers are showing up at renters’ doorsteps to offer help.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/los-angeles-city-eviction-prevention-tenant-landlord-covid-protections-deadline-feb-1-housing-homelessness-rent-debt-raman-soto-martinez-mayors-fund">https://laist.com/news/housing-homelessness/los-angeles-city-eviction-prevention-tenant-landlord-covid-protections-deadline-feb-1-housing-homelessness-rent-debt-raman-soto-martinez-mayors-fund</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/los-angeles-city-eviction-prevention-tenant-landlord-covid-protections-deadline-feb-1-housing-homelessness-rent-debt-raman-soto-martinez-mayors-fund">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – January 30, 2024
+
+date: 2024-01-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/30/classifieds-january-30-2024/">Classifieds &#8211; January 30, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/30/classifieds-january-30-2024/">https://dailytrojan.com/2024/01/30/classifieds-january-30-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/30/classifieds-january-30-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Students react to new USEFULL reusable container system
+
+date: 2024-01-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Some students are critical of USC Hospitality's return policy and sanitation for metal containers.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/30/students-react-to-new-usefull-reusable-container-system/">Students react to new USEFULL reusable container system</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/30/students-react-to-new-usefull-reusable-container-system/">https://dailytrojan.com/2024/01/30/students-react-to-new-usefull-reusable-container-system/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/30/students-react-to-new-usefull-reusable-container-system/">Save to Pocket</a>
+</span>
+
+---
+
+## USC alum’s powerful story  inspires debut novel, ‘Belonging’
+
+date: 2024-01-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Jill Fordyce explores how pivotal adolescent moments can shape who we become.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/30/usc-alums-powerful-story-inspires-debut-novel-belonging/">USC alum’s powerful story  inspires debut novel, ‘Belonging’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/30/usc-alums-powerful-story-inspires-debut-novel-belonging/">https://dailytrojan.com/2024/01/30/usc-alums-powerful-story-inspires-debut-novel-belonging/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/30/usc-alums-powerful-story-inspires-debut-novel-belonging/">Save to Pocket</a>
+</span>
+
+---
+
+## Supreme Court weighs in on more than just homelessness in new case
+
+date: 2024-01-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The court’s decision could further curtail several other key constitutional rights.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/30/supreme-court-weighs-in-on-more-than-just-homelessness-in-new-case/">Supreme Court weighs in on more than just homelessness in new case</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/30/supreme-court-weighs-in-on-more-than-just-homelessness-in-new-case/">https://dailytrojan.com/2024/01/30/supreme-court-weighs-in-on-more-than-just-homelessness-in-new-case/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/30/supreme-court-weighs-in-on-more-than-just-homelessness-in-new-case/">Save to Pocket</a>
+</span>
+
+---
+
+## MFA Acting students get ‘earnest’ in Wilde’s classic comedy
+
+date: 2024-01-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The School of Dramatic Arts' newest production marries written comedy and physical comedy for a worthwhile night out in Pasadena.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/30/mfa-acting-students-get-earnest-in-wildes-classic-comedy/">MFA Acting students get ‘earnest’ in Wilde’s classic comedy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/30/mfa-acting-students-get-earnest-in-wildes-classic-comedy/">https://dailytrojan.com/2024/01/30/mfa-acting-students-get-earnest-in-wildes-classic-comedy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/30/mfa-acting-students-get-earnest-in-wildes-classic-comedy/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s water polo launches season
+
+date: 2024-01-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans will look for their 20th straight NCAA Championship appearance.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/30/womens-water-polo-launches-season/">Women’s water polo launches season</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/30/womens-water-polo-launches-season/">https://dailytrojan.com/2024/01/30/womens-water-polo-launches-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/30/womens-water-polo-launches-season/">Save to Pocket</a>
+</span>
+
+---
+
+## Community weighs in as SCOTUS to decide if cities can legally remove homeless encampments
+
+date: 2024-01-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Court could overturn precedent barring local governments from forcibly removing unhoused individuals from public property without offering alternative shelter.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/30/scotus-to-rule-on-public-encampments/">Community weighs in as SCOTUS to decide if cities can legally remove homeless encampments</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/30/scotus-to-rule-on-public-encampments/">https://dailytrojan.com/2024/01/30/scotus-to-rule-on-public-encampments/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/30/scotus-to-rule-on-public-encampments/">Save to Pocket</a>
+</span>
+
+---
+
+## Securing LGBTQIA+ rights starts at the local level
+
+date: 2024-01-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As we enter election season, local elections will be critical to the future of LGBTQIA+ people.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/30/securing-lgbtqia-rights-starts-at-the-local-level/">Securing LGBTQIA+ rights starts at the local level</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/30/securing-lgbtqia-rights-starts-at-the-local-level/">https://dailytrojan.com/2024/01/30/securing-lgbtqia-rights-starts-at-the-local-level/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/30/securing-lgbtqia-rights-starts-at-the-local-level/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s basketball upset by Washington
+
+date: 2024-01-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A tough home loss for the No. 15 Trojans punctured the spirit at Galen Center.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/30/womens-basketball-upset-by-washington/">Women’s basketball upset by Washington</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/30/womens-basketball-upset-by-washington/">https://dailytrojan.com/2024/01/30/womens-basketball-upset-by-washington/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/30/womens-basketball-upset-by-washington/">Save to Pocket</a>
+</span>
+
+---
+
+## Democracy Workshop informs Bruins on LA County elections
+
+date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Division of Campus Life and BruinsVote co-hosted an installation of the Democracy Workshops series at the LATC Straus Clubhouse on Tuesday. 
+The event focused on understanding elections and featured a presentation by Dean Logan, the Los Angeles County registrar-recorder and county clerk.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/29/democracy-workshop-informs-bruins-on-la-county-elections/">https://dailybruin.com/2024/01/29/democracy-workshop-informs-bruins-on-la-county-elections/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/29/democracy-workshop-informs-bruins-on-la-county-elections/">Save to Pocket</a>
+</span>
+
+---
+
+## CSJ Center for Reconciliation and Justice hosts "Cry of the Earth, Cry of the Poor: The Issue of Water" symposium
+
+date: 2024-01-30, from: Laloyolan (LMU Student Newspaper)
+
+The CSJ Center for Reconciliation and Justice hosts its 13th annual symposium, co-sponsored by the Institute for Business Ethics and Sustainability, titled “Cry of the Earth, Cry of the Poor: The Issue of Water."
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/campus_news/csj-center-for-reconciliation-and-justice-hosts-cry-of-the-earth-cry-of-the-poor/article_4458073a-e8c0-5a13-807e-3bf1f50a7d9c.html">https://www.laloyolan.com/news/campus_news/csj-center-for-reconciliation-and-justice-hosts-cry-of-the-earth-cry-of-the-poor/article_4458073a-e8c0-5a13-807e-3bf1f50a7d9c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/campus_news/csj-center-for-reconciliation-and-justice-hosts-cry-of-the-earth-cry-of-the-poor/article_4458073a-e8c0-5a13-807e-3bf1f50a7d9c.html">Save to Pocket</a>
+</span>
+
+---
+
+## BREAKING: Student comedian Zoe Zakson to open for First Amendment Week speaker
+
+date: 2024-01-30, from: Laloyolan (LMU Student Newspaper)
+
+Zoe Zakson competed alongside four other acts on Monday, Jan. 28, at the Loyolan’s First Amendment themed Open Mic Night, co-sponsored by Mane Entertainment and ASLMU.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/breaking-student-comedian-zoe-zakson-to-open-for-first-amendment-week-speaker/article_14b5ab0c-bf2e-11ee-8345-9b97a46719b1.html">https://www.laloyolan.com/news/breaking-student-comedian-zoe-zakson-to-open-for-first-amendment-week-speaker/article_14b5ab0c-bf2e-11ee-8345-9b97a46719b1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/breaking-student-comedian-zoe-zakson-to-open-for-first-amendment-week-speaker/article_14b5ab0c-bf2e-11ee-8345-9b97a46719b1.html">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA’s open campus raises questions around student safety
+
+date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA&#8217;s open-access campus has led some students to express concerns about safety, particularly surrounding on-campus housing.
+Thousands of people walk through areas such as Bruin Walk and Dickson Plaza every day, including students, faculty and staff &#8211; but also people outside the UCLA community.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/29/uclas-open-campus-raises-questions-around-student-safety/">https://dailybruin.com/2024/01/29/uclas-open-campus-raises-questions-around-student-safety/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/29/uclas-open-campus-raises-questions-around-student-safety/">Save to Pocket</a>
+</span>
+
+---
+
+## California experiences increasing trend of people leaving state
+
+date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+The 2023 U-Haul Growth Index indicated that California is facing the greatest out-migration of any state for the fourth consecutive year.
+The U-Haul Growth Index measures changes in state populations by correlating population decline to an increase in U-Haul&#8217;s transactions of moving equipment in one direction.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/29/california-experiences-increasing-trend-of-people-leaving-state/">https://dailybruin.com/2024/01/29/california-experiences-increasing-trend-of-people-leaving-state/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/29/california-experiences-increasing-trend-of-people-leaving-state/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Artscape’ showcases student creative talent
+
+date: 2024-01-30, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The USG Performing Arts Committee hosted a night of intercultural performances.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/29/artscape-showcases-student-creative-talent/">&#8216;Artscape&#8217; showcases student creative talent</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/29/artscape-showcases-student-creative-talent/">https://dailytrojan.com/2024/01/29/artscape-showcases-student-creative-talent/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/29/artscape-showcases-student-creative-talent/">Save to Pocket</a>
+</span>
+
+---
+
+## Letter to the Editor: Front-page story on Bruins for Israel rally perpetuates antisemitic stereotypes
+
+date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dear Editor:
+I am concerned that your front-page article published on Jan. 16, “Documents reveal details behind planning process of Bruins for Israel rally,” subtly perpetuates antisemitic tropes.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/29/letter-to-the-editor-front-page-story-on-bruins-for-israel-rally-perpetuates-antisemitic-stereotypes/">https://dailybruin.com/2024/01/29/letter-to-the-editor-front-page-story-on-bruins-for-israel-rally-perpetuates-antisemitic-stereotypes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/29/letter-to-the-editor-front-page-story-on-bruins-for-israel-rally-perpetuates-antisemitic-stereotypes/">Save to Pocket</a>
+</span>
+
+---
+
+## UC graduate student researchers secure increases in employment rates, wages
+
+date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+Academic workers reached an agreement with the UC on Monday to increase wages and employment rates for graduate student researchers.
+Affected researchers will receive raises as high as $10,000 per year, according to a United Auto Workers Local 2865 press release from Monday afternoon.&#160;
+Since UAW and the UC came to an agreement on their historic contract in December 2022, graduate student researchers – previously under Student Researchers United-UAW before its merger with UAW Local 2865 in February – argued that UC management ignored its contract and manipulated full-time equivalent percentages of student researcher appointments to short them on pay.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/29/uc-graduate-student-researchers-secure-increases-in-employment-rates-wages/">https://dailybruin.com/2024/01/29/uc-graduate-student-researchers-secure-increases-in-employment-rates-wages/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/29/uc-graduate-student-researchers-secure-increases-in-employment-rates-wages/">Save to Pocket</a>
+</span>
+
+---
+
+## Visa Approved For LA Man’s Life-Saving Stem-Cell Transplant
+
+date: 2024-01-29, updated: 2024-01-30, from: The LAist
+
+A cousin from the Philippines can now fly to the U.S. to donate after back-to-back rejections from the State Department.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/health/visa-approved-for-la-mans-life-saving-stem-cell-transplant">https://laist.com/news/health/visa-approved-for-la-mans-life-saving-stem-cell-transplant</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/health/visa-approved-for-la-mans-life-saving-stem-cell-transplant">Save to Pocket</a>
+</span>
+
+---
+
+## Are Incoming Atmospheric Rivers Getting An El Niño Boost?
+
+date: 2024-01-29, updated: 2024-01-29, from: The LAist
+
+There’s a warm blob of water off the coast feeding the weather systems.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/el-nino-power-up-atmospheric-rivers-california">https://laist.com/news/climate-environment/el-nino-power-up-atmospheric-rivers-california</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/el-nino-power-up-atmospheric-rivers-california">Save to Pocket</a>
+</span>
+
+---
+
+## Up-and-down ITA Kickoff Weekend leaves UCLA women’s tennis shy of National Indoors
 
 date: 2024-01-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-The weekend&#8217;s rollercoaster climbed from heartbreak to revenge.
+<em>This post was updated Jan. 29 at 6:35 p.m.</em>
+The weekend’s rollercoaster climbed from heartbreak to revenge.
 But at the end of the ride was the same outcome the Bruins have seen for years.
-At ITA Kickoff Weekend in Urbandale, Iowa, No.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/29/ucla-womens-tennis-narrowly-defeated-by-oklahoma-state-at-ita-kickoff-weekend/">https://dailybruin.com/2024/01/29/ucla-womens-tennis-narrowly-defeated-by-oklahoma-state-at-ita-kickoff-weekend/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/29/ucla-womens-tennis-narrowly-defeated-by-oklahoma-state-at-ita-kickoff-weekend/">Save to Pocket</a>
@@ -291,8 +593,8 @@ At this year’s Sundance Film Festival, directors Lana Wilson, Fawzia Mirza, Sy
 
 date: 2024-01-29, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 29 at 3:27 p.m.</em>
 Over 150 volunteers gathered Wednesday night at the Westwood Presbyterian Church for the annual Westwood Homeless Count.
-The count is part of the Los Angeles Homeless Services Authority’s Greater LA Homeless Count that took place Jan.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/28/over-150-community-members-volunteer-in-annual-westwood-homeless-count/">https://dailybruin.com/2024/01/28/over-150-community-members-volunteer-in-annual-westwood-homeless-count/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/28/over-150-community-members-volunteer-in-annual-westwood-homeless-count/">Save to Pocket</a>

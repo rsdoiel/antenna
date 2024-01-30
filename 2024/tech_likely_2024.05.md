@@ -1,11 +1,11 @@
 ---
 title: tech likely 2024.05
-updated: 2024-01-29 15:07:18
+updated: 2024-01-30 11:51:48
 ---
 
 # tech likely 2024.05
 
-(date: 2024-01-29 15:07:18)
+(date: 2024-01-30 11:51:48)
 
 ---
 
@@ -41,6 +41,1682 @@ Jaeger A.C.H.; Hartmann M.; Conz R.F.; Six J.; Solly E.F.
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/646227">http://hdl.handle.net/20.500.11850/646227</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/646227">Save to Pocket</a>
+</span>
+
+---
+
+## Earth’s Atmospheric Glow
+
+date: 2024-01-30, from: NASA breaking news
+
+This high exposure photograph revealed Earth&#8217;s atmospheric glow against the backdrop of a starry sky in this image taken from the International Space Station on Jan. 21, 2024. At the time, the orbital lab was 258 miles above the Pacific Ocean northeast of Papua New Guinea. The Nauka science module and Prichal docking module are [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/earths-atmospheric-glow/">https://www.nasa.gov/image-article/earths-atmospheric-glow/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/earths-atmospheric-glow/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-30, from: Miguel de Icaza Mastondon feed)
+
+<p>La Terminal will be ready for those 200,000 pioneers ready to jack into the Linux server metaverse on launch day.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111846474861365065">https://mastodon.social/@Migueldeicaza/111846474861365065</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111846474861365065">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Search and Rescue Technology Saves Explorers, Enables Exploration
+
+date: 2024-01-30, from: NASA breaking news
+
+In 2023, NASA-developed search and rescue technologies aided first responders in locating and saving 350 lives in the United States. Now, NASA is incorporating that same technology in astronaut missions. NASA provides technical expertise to the international satellite-aided search and rescue effort known as Cospas-Sarsat. This technical expertise has enabled the development of multiple emergency [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/technology/space-comms/space-communications/nasa-search-and-rescue-technology-saves-explorers-enables-exploration/">https://www.nasa.gov/technology/space-comms/space-communications/nasa-search-and-rescue-technology-saves-explorers-enables-exploration/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/technology/space-comms/space-communications/nasa-search-and-rescue-technology-saves-explorers-enables-exploration/">Save to Pocket</a>
+</span>
+
+---
+
+## Did you know you can turn a computer mouse into a camera?
+
+date: 2024-01-30, from: Tilde.news
+
+<p><a href="https://tilde.news/s/kuxibp/did_you_know_you_can_turn_computer_mouse">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://liliputing.com/did-you-know-you-can-turn-a-computer-mouse-into-a-camera-you-probably-shouldnt-though-video/">https://liliputing.com/did-you-know-you-can-turn-a-computer-mouse-into-a-camera-you-probably-shouldnt-though-video/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://liliputing.com/did-you-know-you-can-turn-a-computer-mouse-into-a-camera-you-probably-shouldnt-though-video/">Save to Pocket</a>
+</span>
+
+---
+
+##  Did The Future Already Happen? 
+
+date: 2024-01-30, updated: 2024-01-30, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/did-the-future-already-happen">https://kottke.org/24/01/did-the-future-already-happen</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/did-the-future-already-happen">Save to Pocket</a>
+</span>
+
+---
+
+## Objects, Inc's Layout
+
+date: 2024-01-30, from: Computer ads from the Past
+
+Build Programs Without Programming
+
+<span class="feed-item-link">
+<a href="https://computeradsfromthepast.substack.com/p/objects-incs-layout">https://computeradsfromthepast.substack.com/p/objects-incs-layout</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://computeradsfromthepast.substack.com/p/objects-incs-layout">Save to Pocket</a>
+</span>
+
+---
+
+## Best laptop of 2024
+
+date: 2024-01-30, from: Manu - I write blog
+
+<p>You might be confused by the title of this post. You might be wondering why on earth am I writing about the best laptop of 2024. I never reviewed products on this blog. There was no best laptop of 2023 post nor a best laptop of 2022. And fear not, there won’t be a post about the best laptop of 2024 either.</p>
+<p>You see, this is not going to be a post about laptops. It’s going to be a post about words, about generated content, and about SEO. It’s also going to be an experiment because I’m a curious person and the inner workings of search engines fascinate me.</p>
+<p>I was listening to a tech podcast the other day and in it, they were talking about the evolving landscape of the publishing industry with the increasing trend of companies making AI-generated listicles in an attempt to rank high on Google. And then you have things like the <a href="https://www.theverge.com/2024/1/28/24053882/arc-search-browser-web-app-ios">Arc search browser</a> that will use Ai to generate summaries of the pages they browsed on your behalf. The result is that you have Ai consuming content written by Ai in an attempt to do... something? I’m not sure what the end game is to be perfectly honest with you but I’m interested because this all looks like a shit show.</p>
+<p>Anyway, back to the best laptops of 2024. In that podcast, they mentioned that one of the prime targets in the search results tech space is, you guessed it, the first page of results for the query “best laptops of 2024”. And while I was listening I thought “I wonder how high can a stupid blog post get on that SERP if I don’t actually write content that’s relevant to the query”.</p>
+<p>And this is that post. I have no interest in laptops. I know nothing about laptops. I don’t care about laptops. I don’t even know which laptops came out in 2024. I do know people are interested in knowing which laptop is the best laptop in 2024 which is why I just wasted some of your time (I’m sorry) making you read a silly post about the best laptops in 2024 that has nothing to do with laptops.</p>
+<p>Will google pick this one up? Will I even reach the first page? Who knows! But if for some reason you landed on this blog post searching for the best laptop of 2024 send me an email. I promise you I’ll do my best to help you figure out what’s the best laptop for you.</p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/XPDbOKThgA1kQZQC">https://manuelmoreale.com/@/page/XPDbOKThgA1kQZQC</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/XPDbOKThgA1kQZQC">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-30, from: Dave Winer's Scripting News)
+
+A little <a href="http://mindbomb.org/">mind bomb</a>. I couldn't have written <a href="http://scripting.com/2024/01/30.html#a132012">the above message</a> in any of the systems that it's about. It depends on textcasting features that none of those systems support.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/30.html#a175047">http://scripting.com/2024/01/30.html#a175047</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/30.html#a175047">Save to Pocket</a>
+</span>
+
+---
+
+##  Redesigning Cormac McCarthy&#8217;s Brutal &#8216;Blood Meridian&#8217;. To keep his design skills sharp,... 
+
+date: 2024-01-30, updated: 2024-01-30, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043873-redesigning-cormac-mccart">https://kottke.org/24/01/0043873-redesigning-cormac-mccart</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043873-redesigning-cormac-mccart">Save to Pocket</a>
+</span>
+
+---
+
+## How the 2024 Total Solar Eclipse Is Different than the 2017 Eclipse
+
+date: 2024-01-30, from: NASA breaking news
+
+On April 8, the Moon’s shadow will sweep across the United States, as millions will view a total solar eclipse. For many, preparing for this event brings memories of the magnificent total solar eclipse on Aug. 21, 2017. In 2017, an estimated 215 million U.S. adults (88% of U.S. adults) viewed the solar eclipse, either […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/solar-system/skywatching/how-is-the-2024-total-solar-eclipse-different-than-the-2017-eclipse/">https://science.nasa.gov/solar-system/skywatching/how-is-the-2024-total-solar-eclipse-different-than-the-2017-eclipse/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/solar-system/skywatching/how-is-the-2024-total-solar-eclipse-different-than-the-2017-eclipse/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-30, from: Miguel de Icaza Mastondon feed)
+
+<p>If you wait for the second generation Apple Vision Pro, chances are, you are not getting a free Apple micro fiber polishing cloth.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111846155522435681">https://mastodon.social/@Migueldeicaza/111846155522435681</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111846155522435681">Save to Pocket</a>
+</span>
+
+---
+
+## How to Learn Unfamiliar Software Tools with ChatGPT
+
+date: 2024-01-30, from: John Udell blog
+
+Here&#8217;s the latest installment in the series on working with LLMS: How to Learn Unfamiliar Software Tools with ChatGPT. Ideally, tools like GeoGebra and Metabase provide interfaces so intuitive that you rarely need to read the docs, and you can learn the software just by poking around in it. In reality, of course, we need &#8230; <a href="https://blog.jonudell.net/2024/01/30/how-to-learn-unfamiliar-software-tools-with-chatgpt/" class="more-link">Continue reading <span class="screen-reader-text">How to Learn Unfamiliar Software Tools with ChatGPT</span></a>
+
+<span class="feed-item-link">
+<a href="https://blog.jonudell.net/2024/01/30/how-to-learn-unfamiliar-software-tools-with-chatgpt/">https://blog.jonudell.net/2024/01/30/how-to-learn-unfamiliar-software-tools-with-chatgpt/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.jonudell.net/2024/01/30/how-to-learn-unfamiliar-software-tools-with-chatgpt/">Save to Pocket</a>
+</span>
+
+---
+
+##  Susannah Breslin: 19 Ways to Make Money as a Writer. &#8220;My consulting... 
+
+date: 2024-01-30, updated: 2024-01-30, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043874-susannah-breslin-19-ways-">https://kottke.org/24/01/0043874-susannah-breslin-19-ways-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043874-susannah-breslin-19-ways-">Save to Pocket</a>
+</span>
+
+---
+
+## Poised for Science: NASA’s Europa Clipper Instruments Are All Aboard
+
+date: 2024-01-30, from: NASA breaking news
+
+The science performed by the complex suite of instruments recently added to the spacecraft will reveal whether Jupiter’s moon Europa has conditions that could support life. With less than nine months remaining in the countdown to launch, NASA’s Europa Clipper mission has passed a major milestone: Its science instruments have been added to the massive [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/europa-clipper/poised-for-science-nasas-europa-clipper-instruments-are-all-aboard/">https://www.nasa.gov/missions/europa-clipper/poised-for-science-nasas-europa-clipper-instruments-are-all-aboard/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/europa-clipper/poised-for-science-nasas-europa-clipper-instruments-are-all-aboard/">Save to Pocket</a>
+</span>
+
+---
+
+##  Interviews with five people who have hosted their own living funerals. &#8220;I... 
+
+date: 2024-01-30, updated: 2024-01-30, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043879-interviews-with-five-peop">https://kottke.org/24/01/0043879-interviews-with-five-peop</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043879-interviews-with-five-peop">Save to Pocket</a>
+</span>
+
+---
+
+## picolibc/picolibc: Release Version 1.8.6
+
+date: 2024-01-30, from: Tilde.news
+
+<p><a href="https://tilde.news/s/vdxrvm/picolibc_picolibc_release_version_1_8_6">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://github.com/picolibc/picolibc/releases/tag/1.8.6">https://github.com/picolibc/picolibc/releases/tag/1.8.6</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://github.com/picolibc/picolibc/releases/tag/1.8.6">Save to Pocket</a>
+</span>
+
+---
+
+## BioNutrients: A Five-Year Experiment in Space Nears Completion
+
+date: 2024-01-30, from: NASA breaking news
+
+NASA’s bio-manufacturing experiment called&#160;BioNutrients&#160;is testing a way to use microorganisms to produce on-demand nutrients that will be critical for human health during future long-duration space missions. Launched to the International Space Station in 2019, the experiment assesses the stability and performance of a hand-held system – dubbed a production pack – to manufacture fresh vitamins [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/bionutrients-a-five-year-experiment-in-space-nears-completion/">https://www.nasa.gov/general/bionutrients-a-five-year-experiment-in-space-nears-completion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/bionutrients-a-five-year-experiment-in-space-nears-completion/">Save to Pocket</a>
+</span>
+
+---
+
+## DLARC Preserves “Ham Radio & More” Radio Show
+
+date: 2024-01-30, from: Internet Archive Blog
+
+Ham Radio &#38; More was a radio show about amateur radio that was broadcast from 1991 through 1997. More than 300 episodes of the program are now available online as [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.archive.org/2024/01/30/ham-radio-and-more/">https://blog.archive.org/2024/01/30/ham-radio-and-more/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.archive.org/2024/01/30/ham-radio-and-more/">Save to Pocket</a>
+</span>
+
+---
+
+## sqlmap: Automatic SQL injection and database takeover tool
+
+date: 2024-01-30, from: Tilde.news
+
+<p><a href="https://tilde.news/s/6w77ua/sqlmap_automatic_sql_injection_database">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://github.com/sqlmapproject/sqlmap">https://github.com/sqlmapproject/sqlmap</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://github.com/sqlmapproject/sqlmap">Save to Pocket</a>
+</span>
+
+---
+
+##  Letraset Fill Patterns 
+
+date: 2024-01-30, updated: 2024-01-30, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/letraset-fill-patterns">https://kottke.org/24/01/letraset-fill-patterns</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/letraset-fill-patterns">Save to Pocket</a>
+</span>
+
+---
+
+## How to Build an Origami Computer
+
+date: 2024-01-30, from: Quanta Magazine
+
+Two mathematicians have shown that origami can, in principle, be used to perform any possible computation.            <p>The post <a href="https://www.quantamagazine.org/how-to-build-an-origami-computer-20240130/" target="_blank">How to Build an Origami Computer</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/how-to-build-an-origami-computer-20240130/">https://www.quantamagazine.org/how-to-build-an-origami-computer-20240130/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/how-to-build-an-origami-computer-20240130/">Save to Pocket</a>
+</span>
+
+---
+
+##  Oh dear, Japan&#8217;s Smart Lander touched down precisely where it meant to,... 
+
+date: 2024-01-30, updated: 2024-01-30, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043878-oh-dear-japans-smart-land">https://kottke.org/24/01/0043878-oh-dear-japans-smart-land</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043878-oh-dear-japans-smart-land">Save to Pocket</a>
+</span>
+
+---
+
+## Station Science 101: Epigenetics Research in Space
+
+date: 2024-01-30, from: NASA breaking news
+
+A growing body of research suggests a link between epigenetic mechanisms and a wide variety of illnesses and behaviors, including cancer, cardiovascular and autoimmune illnesses, and cognitive dysfunction. Epigenetics also plays a role in the changes humans and other living things experience in space. This phenomenon has become part of studies in a wide variety [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/station/iss-research/station-science-101-epigenetics-research-in-space/">https://www.nasa.gov/missions/station/iss-research/station-science-101-epigenetics-research-in-space/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/station/iss-research/station-science-101-epigenetics-research-in-space/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-30, from: Miguel de Icaza Mastondon feed)
+
+<p>Apple sold some 200,000 VisionPro.  So at least 700 million dollars.</p><p>That assumes everyone went with the cheapest option without accessories.</p><p>If people go with the high end models, a battery and apple care the total is 900million.</p><p>So say 800million so far?</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111845428002545419">https://mastodon.social/@Migueldeicaza/111845428002545419</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111845428002545419">Save to Pocket</a>
+</span>
+
+---
+
+## Which self is this?
+
+date: 2024-01-30, from: Rachel Kwon blog
+
+Last month Katherine called out the tension inherent in a &ldquo;personal&rdquo; website which is that it is both public and personal, and one&rsquo;s public (or professional) persona is often different from that of their personal life. Robin Rendle riffed on the concept and said that it&rsquo;s totally fine for personal websites to be messy or imperfect or weird (i.e., not necessarily how you&rsquo;d want to present a &ldquo;professional&rdquo; front) and declared, in a pretty great and punchy/pithy statement, &ldquo;You’re a poem and not software&rdquo;.
+
+<span class="feed-item-link">
+<a href="https://kwon.nyc/notes/which-self-is-this/">https://kwon.nyc/notes/which-self-is-this/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kwon.nyc/notes/which-self-is-this/">Save to Pocket</a>
+</span>
+
+---
+
+## THE THUNDERBOLT
+
+date: 2024-01-30, from: Howard Jacobson blog
+
+As a love-token to my readers here are the first few pages of my new novel which is published on Feb 1 DAY ONE Kerpow! Funny - unless it&#8217;s ominous - she had put that very word down on a Scrabble board only a day or two or before. Jubilant, the k scoring triple. Her opponent - the man she had known for over twenty years, slept with for five, no longer slept with with for however many more that left, and now played Scrabble with instead - contested the spelling. Kapow, yes. Kerpow, no. They fought over it. Have it your way, she said in the end. Which meant she had to remove a garment.
+
+<span class="feed-item-link">
+<a href="https://jacobsonh.substack.com/p/the-thunderbolt">https://jacobsonh.substack.com/p/the-thunderbolt</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://jacobsonh.substack.com/p/the-thunderbolt">Save to Pocket</a>
+</span>
+
+---
+
+##  Matt Webb&#8217;s AI-powered clock is now on Kickstarter! &#8220;It tells the time... 
+
+date: 2024-01-30, updated: 2024-01-30, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043877-matt-webbs-ai-powered-clo">https://kottke.org/24/01/0043877-matt-webbs-ai-powered-clo</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043877-matt-webbs-ai-powered-clo">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-30, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/08/08/bootstrappingByEngelbart.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Yesterday I sent a <a href="https://mastodon.social/@davew/111842775965982718">message</a> to people who follow me on <a href="https://twitter.com/davewiner/status/1752171928356335970">Twitter</a>, <a href="https://www.facebook.com/dave.winer.12/posts/pfbid02hkiJCEFtAXwtbqGvUpiy7VcpB1gRVbtcSZJsMDoDBaDmU5svoTr2hgZEd7gqXR8rl">Facebook</a>, <a href="https://bsky.app/profile/scripting.com/post/3kk67hykcvd22">Bluesky</a>, <a href="https://mastodon.social/@davew/111842775965982718">Mastodon</a>, <a href="https://www.threads.net/@davew/post/C2tZaZ0sHxh">Threads</a>, asking which networks people check first, which they get the most out of. As you might expect, the most common answer was the network I was asking on (except Facebook, no one answered there, I guessed that might happen, because Facebook is different from the others). I asked because I'm trying to figure that out for myself, and I'm kind of disappointed that I find myself going to Threads more often. It has the greater <a href="https://www.google.com/search?q=Sweaty+Palms+Quotient">Sweaty Palms Quotient</a>, the feeling I used to have every week in the 80s when MacWeek or PC Week arrived. I always cleared the time to go through each issue carefully to see what my friends and competitors were up to. Then I would talk to my reporter friends, who wanted to know what I thought, or what back-room perspectives I could share with them. This was the time of the telephone, even before everyone had email, in the tech industry, believe it or not. Anyway, this isn't going the way I hoped it would. For me an open network built on the idea of <a href="https://textcasting.org/">textcasting</a> is what I want to see, what I'm working towards. And seeing products like WordPress and its competitors as full-class members of the social web, because they already do textcasting, now all they need is to be hooked up to a social web that understands that writing isn't just <a href="https://www.google.com/search?q=site%3Ascripting.com+grunts+and+snorts">grunts and snorts</a>. Anyway, it'll give you some encouragement that people in the fediverse are most optimistic about their preferred network being the best of the new lot. I still like Bluesky, a lot, because of the intelligence and creativity of the people who use it. And I like the UI, for its simplicity and familiarity, but I'm concerned it'll lose its simplicity when they federate. And don't count Twitter out yet, there's far more happening there than any of the other networks. And a lot of what you read on the other nets  is wishful thinking about the demise of Twitter. Hasn't happened yet, and my guess is it won't. It's really hard to snuff out machines with the kind of momentum Twitter has, even though Musk is doing his best. One more thing to think about, I don't think federation is what we need, I think we need <a href="http://scripting.com/2014/03/21/theWebIsMadeOfInterop.html">interop</a>. It's a more permissive kind of compatibility, and will happen a lot sooner than federation, which honestly, I don't think ever will happen. With the usual disclaimers, most important that I'm often wrong, and am open to other constructive points of view.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/30.html#a132012">http://scripting.com/2024/01/30.html#a132012</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/30.html#a132012">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Spies a Spinning Spiral
+
+date: 2024-01-30, from: NASA breaking news
+
+Looking like a baseball lobbed into the depths of the universe, ESO 420-G013 is a face-on spiral galaxy and a Seyfert galaxy. Dark lanes of dust are visible against the background glow of the galaxy’s many stars.  About 10 percent of all the galaxies in the universe are thought to be Seyfert galaxies. They are […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/hubble-spies-a-spinning-spiral/">https://science.nasa.gov/missions/hubble/hubble-spies-a-spinning-spiral/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/hubble-spies-a-spinning-spiral/">Save to Pocket</a>
+</span>
+
+---
+
+## iPhone ProRes Log in Peru and Taiwan
+
+date: 2024-01-30, from: Stu Maschwitz blog
+
+<iframe scrolling="no" allowfullscreen src="//www.youtube.com/embed/yFm-tLrQ8ZQ?wmode=opaque" width="854" frameborder="0" height="480"></iframe>
+
+<p>This is a blog post about a video, which is about new color-conversion LUTs for Apple Log footage from the iPhone 15 Pro and Pro Max (updated from my <a href="https://prolost.com/blog/applelog">first set</a>). The video is also a mini-travelogue of my recent trips to Taiwan and Peru. This post dives a bit deeper into both the LUT workflows, and my state of mind about shooting digital-cinema-grade footage with a device I always have with me.</p><p>There’s a lot going on here.</p>
+
+
+
+  <a href="https://prolost.gumroad.com/l/applelogluts" class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" target="_blank"
+  >
+    Or Just Skip to the LUTs
+  </a>
+
+<h2 id="conflicted-in-peru">Conflicted in Peru</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+              
+              
+          
+            
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ba7ed9a5-b06c-46df-b506-87d16fffc9fa/IMG_0599.jpeg" data-image-dimensions="960x1280" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ba7ed9a5-b06c-46df-b506-87d16fffc9fa/IMG_0599.jpeg?format=1000w" width="960" height="1280" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ba7ed9a5-b06c-46df-b506-87d16fffc9fa/IMG_0599.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ba7ed9a5-b06c-46df-b506-87d16fffc9fa/IMG_0599.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ba7ed9a5-b06c-46df-b506-87d16fffc9fa/IMG_0599.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ba7ed9a5-b06c-46df-b506-87d16fffc9fa/IMG_0599.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ba7ed9a5-b06c-46df-b506-87d16fffc9fa/IMG_0599.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ba7ed9a5-b06c-46df-b506-87d16fffc9fa/IMG_0599.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ba7ed9a5-b06c-46df-b506-87d16fffc9fa/IMG_0599.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+                
+            
+          
+        
+            
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">Me relaxing on vacation. Photo by Forest Key.</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<p>I always have a moment when packing for a trip: Which camera to bring? Which lenses? I know I’m always happier when I pack less, like just a single prime lens. But sometimes FOMO gets me and I pack three zooms.</p>
+<p>For my trip to Lima, I brought my <a href="https://www.bhphotovideo.com/c/product/1645238-REG/sony_ilce7rm4a_b_alpha_a7r_iv_mirrorless.html/BI/4778/KBID/5292">Sony a7RIV</a> with the uninspiring-but-compact, <a href="https://www.bhphotovideo.com/c/product/1008123-REG/sony_sel35f28z_sonnar_t_fe_35mm.html/BI/4778/KBID/5292">Sony 35mm F2.8 prime</a>. I lugged it around for a few days, but wasn’t really feeling it.</p>
+<p>Meanwhile, my iPhone 15 Pro Max was calling to me with its ProRes Log video mode. “I’m 10-bit!” It would say. “Think of the fun you’ll have color grading me!”</p>
+<p>I told my phone to shut up, and proceeded to shoot very little with it — or my Sony. Like a squirrel in the middle of the street, drawn in two different directions at once, I creatively froze.</p>
+<p>Photography, for me, is made up of a lot of habits, and shooting iPhone video with aesthetic intent is just not yet baked into my travel muscle memory.</p>
+<h2 id="made-in-taiwan">Made in Taiwan</h2>
+<p>A month later, I took a family trip to Taiwan, one of my favorite places in the world. I’d had some time to process my Peru deadlock, and decided to stop judging my own creative impulses, and let inspiration guide me in which camera I pulled out.</p>
+<p>I wound up shooting a lot of video.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+              
+              
+          
+            
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/b8987726-7011-4865-98dc-82b54d92f2b6/DSC09276.jpg" data-image-dimensions="6000x4000" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/b8987726-7011-4865-98dc-82b54d92f2b6/DSC09276.jpg?format=1000w" width="6000" height="4000" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/b8987726-7011-4865-98dc-82b54d92f2b6/DSC09276.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/b8987726-7011-4865-98dc-82b54d92f2b6/DSC09276.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/b8987726-7011-4865-98dc-82b54d92f2b6/DSC09276.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/b8987726-7011-4865-98dc-82b54d92f2b6/DSC09276.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/b8987726-7011-4865-98dc-82b54d92f2b6/DSC09276.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/b8987726-7011-4865-98dc-82b54d92f2b6/DSC09276.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/b8987726-7011-4865-98dc-82b54d92f2b6/DSC09276.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+                
+            
+          
+        
+            
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">Me relaxing on vacation. Photo by Josh Locker.</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<p>I <em>loved</em> shooting ProRes Log in Taiwan with the iPhone 15 Pro Max. I’d occasionally reach for <a href="https://apps.apple.com/us/app/blackmagic-camera/id6449580241">Blackmagic Camera</a>, but I often just used the default camera app. I stuck my phone (with its <a href="https://www.threads.net/@prolost/post/C0VGQ8gPPyU">crumbling case</a>) out of taxi sunroofs and skyscraper windows, held it above teeming crowds and shoved it between chain-link fences. Seeing the broad dynamic range I was capturing in scenarios from noontime sun to neon-lit nights got me excited about grading the footage later.</p>
+<p>It’s exactly the way I feel about shooting raw stills with my Sony, knowing that I’ll be able to go crazy on them in Lightroom. The photographing act is just half of the process.</p>
+<p>Step through the frames below to see how color transforms a single shot from the video above:</p>
+
+
+
+
+  
+
+  
+
+
+
+  
+    
+      
+
+        
+          
+            
+              
+                <img class="thumb-image" elementtiming="system-gallery-block-slideshow" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1706599532507-41N8WGF5YV0H4JM7R27L/pulls_01_BD_00001.jpg" data-image-dimensions="1920x1080" data-image-focal-point="0.5,0.5" alt="Uncorrected Apple Log" data-load="false" data-image-id="65b8a46c8f870b08d50e1e88" data-type="image" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1706599532507-41N8WGF5YV0H4JM7R27L/pulls_01_BD_00001.jpg?format=1000w" /><br>
+              
+
+              
+                
+                  
+                  
+                    
+                      Uncorrected Apple Log
+                      <p class="">Straight out of the camera. I mean, phone.</p>
+                    
+                  
+                
+              
+              
+            
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            
+              
+                <img class="thumb-image" elementtiming="system-gallery-block-slideshow" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1706599533106-ZY5DHANLM7926F3VSXIN/pulls_01_BD_00002.jpg" data-image-dimensions="1920x1080" data-image-focal-point="0.5,0.5" alt="Look &amp;amp; LUT" data-load="false" data-image-id="65b8a46ca6e11c02be0a481e" data-type="image" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1706599533106-ZY5DHANLM7926F3VSXIN/pulls_01_BD_00002.jpg?format=1000w" /><br>
+              
+
+              
+                
+                  
+                  
+                    
+                      Look &amp; LUT
+                      <p class="">An overall correction applied under PL-HERO LUT.</p>
+                    
+                  
+                
+              
+              
+            
+          
+          
+        
+
+        
+
+        
+
+      
+
+        
+          
+            
+              
+                <img class="thumb-image" elementtiming="system-gallery-block-slideshow" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1706599533954-P3LT6XDT3BK1C3JEIZM0/pulls_01_BD_00003.jpg" data-image-dimensions="1920x1080" data-image-focal-point="0.5,0.5" alt="Local Corrections" data-load="false" data-image-id="65b8a46decfa0172fd1be27d" data-type="image" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/1706599533954-P3LT6XDT3BK1C3JEIZM0/pulls_01_BD_00003.jpg?format=1000w" /><br>
+              
+
+              
+                
+                  
+                  
+                    
+                      Local Corrections
+                      <p class="">Various windowed corrections under the Look help guide the viewer’s focus and give the natural-light capture a cinematic feel.</p>
+                    
+                  
+                
+              
+              
+            
+          
+          
+        
+
+        
+
+        
+
+      
+    
+  
+
+  
+
+
+
+
+
+
+
+
+<h2 id="luts-looks-and-magic-bullets">LUTs, Looks, and Magic Bullets</h2>
+<p>There’s been a bit of a gold rush of people hawking creative LUTs that apply a particular “look” to iPhone Log footage. My day job is, in part, helping make color tools like <a href="https://www.maxon.net/en/red-giant/magic-bullet/looks">Magic Bullet Looks</a>, which can do so much more than any LUT. Creative LUTs are great, and by all means support the folks making them — but that’s not what my iPhone LUTs <a href="https://prolost.com/blog/applelog">were</a> or are.</p>
+<p>The Prolost iPhone LUTs convert Apple Log to various other color spaces, and support three kinds of workflow:</p>
+<h3 id="grade-under-a-display-transform-lut">Grade Under a Display Transform LUT</h3>
+<p>Apple Log is a totally decent color space to work in, so color correcting Apple Log can be as simple as applying <a href="https://www.maxon.net/en/red-giant/magic-bullet/colorista">Magic Bullet Colorista</a> and choosing one of my <strong>Monitor &amp; Grade</strong> LUTs. That’s what you see me doing in the video above. Colorista (set to Log mode) does its work on the native Apple Log pixels, and the LUT converts the result to look nice on video.</p>
+<p>Many other systems work like this, including <a href="https://luma-touch.com">LumaFusion</a>, which <a href="https://www.youtube.com/watch?v=ZLtNJ8DbQrQ">ships with</a> Prolost Apple Log LUTs.</p>
+<p>The key is <a href="https://prolost.com/blog/applelog">color correcting under the LUT</a>.</p>
+<h3 id="bring-apple-log-into-an-existing-workflow">Bring Apple Log into an Existing Workflow</h3>
+<p>Color work is often done in some intermediate color space. This is usually some kind of wide-gamut, log format, such as Davinci Wide Gamut/Intermediate, or one of the <a href="https://prolost.com/blog/aces">ACES log spaces</a>.</p>
+<p>The Prolost <strong>ACES</strong> LUTs simply convert Apple Log to either ACEScc or ACEScct log, allowing you to grade your iPhone footage alongside any other professional camera, and output them all through the same pipeline.</p>
+<h3 id="shooting-through-a-lut">Shooting Through a LUT</h3>
+<p>The Blackmagic Camera app allows you to load any LUTs you want and view through them without baking them into your footage. With my LUTs, you can shoot with the same LUTs you grade under later, for a truly professional (no joke!) workflow.</p>
+<p>The real stars of this update though are the <strong>FC</strong> LUTs. They add an informative False Color overlay to the Shoot/Grade LUTs, making sure you always nail your exposure. Watch the video to see them in action. I already can’t imagine shooting without them.</p>
+<p>These LUTs work well in Blackmagic Camera or even on an external HDMI monitor.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+          
+            
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/5ca2822a-0b63-470a-ba44-4aa804b0ad3d/pulls_01_Log2_cut6_240129b+%2813972%29.jpg" data-image-dimensions="1920x1080" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/5ca2822a-0b63-470a-ba44-4aa804b0ad3d/pulls_01_Log2_cut6_240129b+%2813972%29.jpg?format=1000w" width="1920" height="1080" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/5ca2822a-0b63-470a-ba44-4aa804b0ad3d/pulls_01_Log2_cut6_240129b+%2813972%29.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/5ca2822a-0b63-470a-ba44-4aa804b0ad3d/pulls_01_Log2_cut6_240129b+%2813972%29.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/5ca2822a-0b63-470a-ba44-4aa804b0ad3d/pulls_01_Log2_cut6_240129b+%2813972%29.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/5ca2822a-0b63-470a-ba44-4aa804b0ad3d/pulls_01_Log2_cut6_240129b+%2813972%29.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/5ca2822a-0b63-470a-ba44-4aa804b0ad3d/pulls_01_Log2_cut6_240129b+%2813972%29.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/5ca2822a-0b63-470a-ba44-4aa804b0ad3d/pulls_01_Log2_cut6_240129b+%2813972%29.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/5ca2822a-0b63-470a-ba44-4aa804b0ad3d/pulls_01_Log2_cut6_240129b+%2813972%29.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+                
+            
+          
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">Adjusting exposure with a variable ND filter until the 18% gray card lights up yellow, for perfect exposure. PL-HERO-FC LUT in Blackmagic Camera.</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<h2 id="gathering-resolve">Gathering Resolve</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+              
+              
+          
+            
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/7c84dc74-4d1c-4ad8-9226-fe3a67826c7b/Screenshot+2024-01-29+at+11.46.39%E2%80%AFAM.jpg" data-image-dimensions="5120x2880" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/7c84dc74-4d1c-4ad8-9226-fe3a67826c7b/Screenshot+2024-01-29+at+11.46.39%E2%80%AFAM.jpg?format=1000w" width="5120" height="2880" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/7c84dc74-4d1c-4ad8-9226-fe3a67826c7b/Screenshot+2024-01-29+at+11.46.39%E2%80%AFAM.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/7c84dc74-4d1c-4ad8-9226-fe3a67826c7b/Screenshot+2024-01-29+at+11.46.39%E2%80%AFAM.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/7c84dc74-4d1c-4ad8-9226-fe3a67826c7b/Screenshot+2024-01-29+at+11.46.39%E2%80%AFAM.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/7c84dc74-4d1c-4ad8-9226-fe3a67826c7b/Screenshot+2024-01-29+at+11.46.39%E2%80%AFAM.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/7c84dc74-4d1c-4ad8-9226-fe3a67826c7b/Screenshot+2024-01-29+at+11.46.39%E2%80%AFAM.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/7c84dc74-4d1c-4ad8-9226-fe3a67826c7b/Screenshot+2024-01-29+at+11.46.39%E2%80%AFAM.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/7c84dc74-4d1c-4ad8-9226-fe3a67826c7b/Screenshot+2024-01-29+at+11.46.39%E2%80%AFAM.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+                
+            
+          
+        
+            
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">I’ve never edited a whole actual thing in Resolve before.</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<p>As if this video wasn’t enough work already (I shot the a-roll in mid-December), I decided to use it as a test case for creative editorial in DaVinci Resolve. It’s the ACES LUTs that allowed me to incorporate Magic Bullet Looks into my Resolve color workflow.</p>
+<p>Maxon just shipped a really nice <a href="https://www.maxon.net/en/article/maxon-red-giant-update-delivers-fast-beautiful-bokeh-and-realistic-lens-flares">update</a> to Magic Bullet Looks, with simplified color management made possible by more and more apps we support doing darn fine color management at the timeline level.</p>
+<p>So in Resolve, I can use my LUT to convert Apple Log to ACEScc, and then apply Magic Bullet Looks, which can now be set to work in ACEScc with a single click.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+              
+              
+          
+            
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/59c73f06-a8bd-4d01-8f27-18525991416a/Screenshot+2024-01-29+at+8.58.14%E2%80%AFPM.jpg" data-image-dimensions="2022x732" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/59c73f06-a8bd-4d01-8f27-18525991416a/Screenshot+2024-01-29+at+8.58.14%E2%80%AFPM.jpg?format=1000w" width="2022" height="732" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/59c73f06-a8bd-4d01-8f27-18525991416a/Screenshot+2024-01-29+at+8.58.14%E2%80%AFPM.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/59c73f06-a8bd-4d01-8f27-18525991416a/Screenshot+2024-01-29+at+8.58.14%E2%80%AFPM.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/59c73f06-a8bd-4d01-8f27-18525991416a/Screenshot+2024-01-29+at+8.58.14%E2%80%AFPM.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/59c73f06-a8bd-4d01-8f27-18525991416a/Screenshot+2024-01-29+at+8.58.14%E2%80%AFPM.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/59c73f06-a8bd-4d01-8f27-18525991416a/Screenshot+2024-01-29+at+8.58.14%E2%80%AFPM.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/59c73f06-a8bd-4d01-8f27-18525991416a/Screenshot+2024-01-29+at+8.58.14%E2%80%AFPM.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/59c73f06-a8bd-4d01-8f27-18525991416a/Screenshot+2024-01-29+at+8.58.14%E2%80%AFPM.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+                
+            
+          
+        
+            
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">The new streamlined color options in Magic Bullet Looks. Choose Custom to get the full manual control.</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<p>I can sneak additional Resolve corrector nodes in between those two for local corrections. Resolve is great at this, and Looks is great at creative look development, so this is a match made in heaven.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+              
+              
+          
+            
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/da8bf621-8aad-406c-a7a9-ec9fc8185982/Screenshot+2024-01-29+at+9.11.37%E2%80%AFPM.jpg" data-image-dimensions="2204x724" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/da8bf621-8aad-406c-a7a9-ec9fc8185982/Screenshot+2024-01-29+at+9.11.37%E2%80%AFPM.jpg?format=1000w" width="2204" height="724" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/da8bf621-8aad-406c-a7a9-ec9fc8185982/Screenshot+2024-01-29+at+9.11.37%E2%80%AFPM.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/da8bf621-8aad-406c-a7a9-ec9fc8185982/Screenshot+2024-01-29+at+9.11.37%E2%80%AFPM.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/da8bf621-8aad-406c-a7a9-ec9fc8185982/Screenshot+2024-01-29+at+9.11.37%E2%80%AFPM.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/da8bf621-8aad-406c-a7a9-ec9fc8185982/Screenshot+2024-01-29+at+9.11.37%E2%80%AFPM.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/da8bf621-8aad-406c-a7a9-ec9fc8185982/Screenshot+2024-01-29+at+9.11.37%E2%80%AFPM.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/da8bf621-8aad-406c-a7a9-ec9fc8185982/Screenshot+2024-01-29+at+9.11.37%E2%80%AFPM.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/da8bf621-8aad-406c-a7a9-ec9fc8185982/Screenshot+2024-01-29+at+9.11.37%E2%80%AFPM.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+                
+            
+          
+        
+            
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">A little face lift.</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<p>Then, at the end, I use an ACES Transform node to convert to Rec. 709 video.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+              
+              
+          
+            
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/32ad35ec-6643-483e-85da-3ba1e709130e/Screenshot+2024-01-29+at+8.57.44%E2%80%AFPM.jpg" data-image-dimensions="3322x938" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/32ad35ec-6643-483e-85da-3ba1e709130e/Screenshot+2024-01-29+at+8.57.44%E2%80%AFPM.jpg?format=1000w" width="3322" height="938" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/32ad35ec-6643-483e-85da-3ba1e709130e/Screenshot+2024-01-29+at+8.57.44%E2%80%AFPM.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/32ad35ec-6643-483e-85da-3ba1e709130e/Screenshot+2024-01-29+at+8.57.44%E2%80%AFPM.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/32ad35ec-6643-483e-85da-3ba1e709130e/Screenshot+2024-01-29+at+8.57.44%E2%80%AFPM.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/32ad35ec-6643-483e-85da-3ba1e709130e/Screenshot+2024-01-29+at+8.57.44%E2%80%AFPM.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/32ad35ec-6643-483e-85da-3ba1e709130e/Screenshot+2024-01-29+at+8.57.44%E2%80%AFPM.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/32ad35ec-6643-483e-85da-3ba1e709130e/Screenshot+2024-01-29+at+8.57.44%E2%80%AFPM.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/32ad35ec-6643-483e-85da-3ba1e709130e/Screenshot+2024-01-29+at+8.57.44%E2%80%AFPM.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+                
+            
+          
+        
+            
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">Get to the <a href="https://www.threads.net/@prolost/post/C2gGoOSvp63" target="_blank">chopper</a>.</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+<p>An expert Resolve user could replace my LUTs with Resolve’s built-in <strong>Color Space Transform</strong> nodes, but the LUTs make this process easier and more reliable.</p>
+<h2 id="gear-inspires">Gear Inspires</h2>
+<p>Every photographer knows the feeling of lusting after new gear. We know it so well that we remind ourselves constantly that “next camera syndrome” is debilitating, and that “most cameras are better than most photographers.” Gear is not the answer. Go shoot.</p>
+<p>There is, however, a counterpoint to these truths: As shooters, we take inspiration where we can get it. And sometimes a new technique, a new locale, or even, yes, a new bit of gear is what provides it.</p>
+<p>The key is to listen for that inspiration, and don’t judge it.</p>
+<p>Even if it’s coming from your phone.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        <figure class="
+              sqs-block-image-figure
+              intrinsic
+            "
+        >
+          
+        
+        
+
+        
+          
+            
+          
+            
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" data-image="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ad8df870-bc0f-4c8e-8932-d0d652c8a1cb/DSC02640-Pano.jpg" data-image-dimensions="2048x926" data-image-focal-point="0.5,0.5" alt="" data-load="false" elementtiming="system-image-block" src="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ad8df870-bc0f-4c8e-8932-d0d652c8a1cb/DSC02640-Pano.jpg?format=1000w" width="2048" height="926" sizes="(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw" onload="this.classList.add(&quot;loaded&quot;)" srcset="https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ad8df870-bc0f-4c8e-8932-d0d652c8a1cb/DSC02640-Pano.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ad8df870-bc0f-4c8e-8932-d0d652c8a1cb/DSC02640-Pano.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ad8df870-bc0f-4c8e-8932-d0d652c8a1cb/DSC02640-Pano.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ad8df870-bc0f-4c8e-8932-d0d652c8a1cb/DSC02640-Pano.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ad8df870-bc0f-4c8e-8932-d0d652c8a1cb/DSC02640-Pano.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ad8df870-bc0f-4c8e-8932-d0d652c8a1cb/DSC02640-Pano.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/53f4e093e4b085e4457080e1/ad8df870-bc0f-4c8e-8932-d0d652c8a1cb/DSC02640-Pano.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+
+                
+            
+          
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <p class="">Jiufen village, Taiwan</p>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    
+  
+
+
+  
+
+
+
+
+
+  <a href="https://prolost.gumroad.com/l/applelogluts" class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element" target="_blank"
+  >
+    Get the Free LUTs
+  </a>
+
+<span class="feed-item-link">
+<a href="https://prolost.com/blog/iphonelog-peru-taiwan">https://prolost.com/blog/iphonelog-peru-taiwan</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://prolost.com/blog/iphonelog-peru-taiwan">Save to Pocket</a>
+</span>
+
+---
+
+## Effectual Art
+
+date: 2024-01-30, from: Ayjay blog
+
+David Brooks: “Does consuming art, music, literature and the rest of what we call culture make you a better person?” Answer: No. Consuming art can’t make anyone better. But experiencing art certainly can make you a better person. So can experiencing anything else. It depends on you.  But, okay, there’s more to say. Anything we [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/effectual-art/">https://blog.ayjay.org/effectual-art/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/effectual-art/">Save to Pocket</a>
+</span>
+
+---
+
+## Celebrating the community: Sahibjot
+
+date: 2024-01-30, from: Raspberry Pi (.org)
+
+<p>In our series of community stories, we celebrate some of the wonderful things young people and educators around the world are achieving through the power of technology.&#160; In our latest story, we’re heading to Vivek High School in Mohali, India, to meet Sahibjot, a 14-year-old coding enthusiast who has taken his hobby to the next&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/celebrating-the-community-sahibjot/">Celebrating the community: Sahibjot</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.org/blog/celebrating-the-community-sahibjot/">https://www.raspberrypi.org/blog/celebrating-the-community-sahibjot/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.org/blog/celebrating-the-community-sahibjot/">Save to Pocket</a>
+</span>
+
+---
+
+## Build a Raspberry Pi mecanum robot | HackSpace #75
+
+date: 2024-01-30, from: Raspberry Pi News (.com)
+
+<p>Create a robot which can go forwards, backwards, sideways, diagonally, and turn on the spot. The mecanum wheels allow the robot to navigate the tightest of spaces.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/build-a-raspberry-pi-mecanum-robot-hackspace-75/">Build a Raspberry Pi mecanum robot | HackSpace #75</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/build-a-raspberry-pi-mecanum-robot-hackspace-75/">https://www.raspberrypi.com/news/build-a-raspberry-pi-mecanum-robot-hackspace-75/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/build-a-raspberry-pi-mecanum-robot-hackspace-75/">Save to Pocket</a>
+</span>
+
+---
+
+## Fairberry project brings a hardware keyboard to the Fairphone
+
+date: 2024-01-30, updated: 2024-01-30, from: Liam Proven's articles at the Register
+
+<h4>Miss hardware QWERTY? Warm up your soldering iron and 3D printer</h4>
+      <p>Hardware hacker's non-trivial project to weld a Blackberry keyboard to an Android fondleslab is being updated with an off-the-shelf PCB.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/30/fairberry_fairphone_hardware_qwerty/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/30/fairberry_fairphone_hardware_qwerty/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/30/fairberry_fairphone_hardware_qwerty/">Save to Pocket</a>
+</span>
+
+---
+
+## Thursday, January 11, 2024 - a concise theory of notes about notes
+
+date: 2024-01-30, updated: 2024-01-30, from: p1k3.com community feed
+
+
+
+<span class="feed-item-link">
+<a href="https://p1k3.com/2024/1/11">https://p1k3.com/2024/1/11</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://p1k3.com/2024/1/11">Save to Pocket</a>
+</span>
+
+---
+
+## You say feature, I say bug: the enshittification of Microsoft Paint
+
+date: 2024-01-30, from: John Udell blog
+
+I&#8217;ve happily used MS Paint as my basic bitmap editor since Windows 3, almost 25 years ago. Mostly I&#8217;ve used it to create images from screenshots, but that has suddenly become way harder. Formerly, when I&#8217;d cut a region, the now-empty region would display using the default white background. Now it displays a checkered background &#8230; <a href="https://blog.jonudell.net/2024/01/29/you-say-feature-i-say-bug-the-enshittification-of-microsoft-paint/" class="more-link">Continue reading <span class="screen-reader-text">You say feature, I say bug: the enshittification of Microsoft Paint</span></a>
+
+<span class="feed-item-link">
+<a href="https://blog.jonudell.net/2024/01/29/you-say-feature-i-say-bug-the-enshittification-of-microsoft-paint/">https://blog.jonudell.net/2024/01/29/you-say-feature-i-say-bug-the-enshittification-of-microsoft-paint/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.jonudell.net/2024/01/29/you-say-feature-i-say-bug-the-enshittification-of-microsoft-paint/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-30, from: Dave Winer's Scripting News)
+
+Some standards come from users and developers. Imho those are the best. Like Markdown and RSS.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/29.html#a033349">http://scripting.com/2024/01/29.html#a033349</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/29.html#a033349">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-30, from: Dave Winer's Scripting News)
+
+I have bad news. This is <a href="https://imgs.scripting.com/2024/01/29/howChatGptViewsUs.png">what the bots think</a> we look like.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/29.html#a033004">http://scripting.com/2024/01/29.html#a033004</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/29.html#a033004">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-30, from: Dave Winer's Scripting News)
+
+<a href="https://imgs.scripting.com/2024/01/29/macDesktopScreenShot1984.png">Screen shot</a> of 1984 Mac desktop. Was looking for this everywhere. Now hopefully next time I'll find it.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/29.html#a031908">http://scripting.com/2024/01/29.html#a031908</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/29.html#a031908">Save to Pocket</a>
+</span>
+
+---
+
+## The Cast of Broadway’s ‘The Wiz’ “Ease on Down the Road” to Visit NASA Ames
+
+date: 2024-01-30, from: NASA breaking news
+
+Members of the cast and crew of Broadway production “The Wiz,” currently on tour at San Francisco’s Golden Gate Theatre, visited NASA’s Ames Research Center in California’s Silicon Valley on Jan. 29 to learn more about the center’s work in air and space. The group met with center leadership and members of Ames employee advisory [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/ames/the-cast-of-broadways-the-wiz-ease-on-down-the-road-to-visit-nasa-ames/">https://www.nasa.gov/centers-and-facilities/ames/the-cast-of-broadways-the-wiz-ease-on-down-the-road-to-visit-nasa-ames/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/ames/the-cast-of-broadways-the-wiz-ease-on-down-the-road-to-visit-nasa-ames/">Save to Pocket</a>
+</span>
+
+---
+
+## Oracle quietly extends Solaris 11.4 support until 2037
+
+date: 2024-01-30, from: OS News
+
+Oracle has quietly extended paid support and upgrades for Solaris 11.4 to 2037 – three years past its previous deadline – and did the same for earlier versions of the OS last year. ↫ Simon Sharwood at The Register One of the biggest &#8220;what could have beens&#8221; of the past two decades. Had Oracle not closed Solaris up after acquiring Sun, an open source Solaris might&#8217;ve been something more tangible than what it is today. Of course, Oracle gonna Oracle and they were always going to screw things up, open source or not, but had Solaris stayed open we&#8217;d have had a more concerted, centralised development effort instead of what we have now, where the open source Solaris community is working off the last OpenSolaris codebase from 14 years ago.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138474/oracle-quietly-extends-solaris-11-4-support-until-2037/">https://www.osnews.com/story/138474/oracle-quietly-extends-solaris-11-4-support-until-2037/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138474/oracle-quietly-extends-solaris-11-4-support-until-2037/">Save to Pocket</a>
+</span>
+
+---
+
+## New renderers for GTK
+
+date: 2024-01-30, from: OS News
+
+Recently, GTK gained not one, but two new renderers: one for GL and one for Vulkan. Since naming is hard, we reused existing names and called them “ngl” and “vulkan”. They are built from the same sources, therefore we also call them “unified” renderers.  As mentioned already, the two renderers are built from the same source. It is modeled to follow Vulkan apis, with some abstractions to cover the differences between Vulkan and GL (more specifically, GL 3.3+ and GLES 3.0+). This lets us share much of the infrastructure for walking the scene graph, maintaining transforms and other state, caching textures and glyphs, and will make it easier to keep both renderers up-to-date and on-par. ↫ GTK Development Blog This is well above my paygrade, but I&#8217;m sure it&#8217;s still of interest to y&#8217;all.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138472/new-renderers-for-gtk/">https://www.osnews.com/story/138472/new-renderers-for-gtk/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138472/new-renderers-for-gtk/">Save to Pocket</a>
+</span>
+
+---
+
+## In loving memory of square checkbox
+
+date: 2024-01-30, from: OS News
+
+But despite all this chaos and temptation, operating system vendors knew better. To this day, they follow THE convention: checkboxes are square, radio buttons are round. Maybe it was part of their internal training. Maybe they had experienced art directors. Maybe it was just luck. I don’t know — it doesn’t really matter — but — somehow — they managed to stick to the convention. Until this day. Apple is the first major operating system vendor who had abandoned a four-decades-long tradition. Their new visionOS — for the first time in the history of Apple — will have round checkboxes. ↫ Nikita Prokopov Unsightly. A lack of taste always betrays itself.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138470/in-loving-memory-of-square-checkbox/">https://www.osnews.com/story/138470/in-loving-memory-of-square-checkbox/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138470/in-loving-memory-of-square-checkbox/">Save to Pocket</a>
+</span>
+
+---
+
+## Microsoft stole my Chrome tabs, and it wants yours, too
+
+date: 2024-01-30, from: OS News
+
+Last week, I turned on my PC, installed a Windows update, and rebooted to find Microsoft Edge automatically open with the Chrome tabs I was working on before the update. I don’t use Microsoft Edge regularly, and I have Google Chrome set as my default browser. Bleary-eyed at 9AM, it took me a moment to realize that Microsoft Edge had simply taken over where I’d left off in Chrome. I couldn’t believe my eyes. I never imported my data into Microsoft Edge, nor did I confirm whether I wanted to import my tabs. But here was Edge automatically opening after a Windows update with all the Chrome tabs I’d been working on. I didn’t even realize I was using Edge at first, and I was confused why all my tabs were suddenly logged out. ↫ Tom Warren at The Verge I would never accept such disregard for users from my computer.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138468/microsoft-stole-my-chrome-tabs-and-it-wants-yours-too/">https://www.osnews.com/story/138468/microsoft-stole-my-chrome-tabs-and-it-wants-yours-too/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138468/microsoft-stole-my-chrome-tabs-and-it-wants-yours-too/">Save to Pocket</a>
+</span>
+
+---
+
+## RORing ahead: using ROR in place of the Open Funder Registry
+
+date: 2024-01-30, from: Crossref Blog
+
+<p>A few months ago we announced our plan to <a href="https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/">deprecate our support for the Open Funder Registry</a> in favour of using the ROR Registry to support both affiliation and funder use cases. The feedback we’ve had from the community has been positive and supports our members, service providers and metadata users who are already starting to move in this direction.</p>
+<p>We wanted to provide an update on work that’s underway to make this transition happen, and how you can get involved in working together with us on this.</p>
+<p>Overall, we are building more comprehensive support for ROR into Crossref’s services. Some of this work is specifically to support using ROR to identify funding organisations in place of funder registry IDs. We have a number of parallel, complementary projects underway to support different elements of this work:</p>
+<ol>
+<li>We are evolving our metadata schema so that we can collect ROR IDs in places where we currently support the collection of Funder IDs.</li>
+<li>We are analysing the coverage of Funder ID to ROR ID mappings and testing the way we expose them in our APIs.</li>
+<li>We are developing new matching strategies to match text strings to ROR IDs.</li>
+</ol>
+<h2 id="1-schema-updates">1. Schema updates</h2>
+<p>Everything flows from being able to get ROR IDs into the Crossref metadata!</p>
+<p>We are evolving our metadata schema so that we can collect ROR IDs in places where we already support the collection of Funder IDs – for instance, in <a href="https://www.crossref.org/documentation/funder-registry/funding-data-overview/">the funding section of the metadata for works</a> and in the funder section for grants.</p>
+<p>We’re working with members and service providers so that they can try sending us this data via a pipeline our Labs team has built to test schema updates before they go live. We are actively recruiting members to help us test our new pipeline by providing sample XML for registration. Planned metadata inputs and outputs are detailed in <a href="https://docs.google.com/document/u/0/d/164h3UtBQ2mHf5lH5ZS6c_Oh8OuraoaQPvXhNNO3-Ko8/edit" target="_blank">Including ROR as a funder identifier in your metadata (metadata prototyping instructions)</a>, we’d encourage you to provide feedback on these in the document, ideally in the next two weeks.
+We’re aiming to release an updated schema that supports these changes in Q1 2024.</p>
+<h2 id="2-modelling-ror-idfunder-id-mappings-in-our-metadata-model">2. Modelling ROR ID/Funder ID mappings in our metadata model</h2>
+<p>We have integrated the ROR registry into our evolving metadata model, and we have started work to integrate the Funder Registry. The aim is to create more flexibility in how Crossref’s metadata can be supplemented and queried, and give more clarity as to which party asserted or created a metadata element.</p>
+<p>We’re working on an early iteration of how the model handles ROR IDs, funder IDs and their equivalencies. Once we have something to share, we’ll welcome community feedback on this approach and on the metadata model in general.</p>
+<h2 id="3-developing-new-matching-strategies-to-match-text-strings-to-ror-ids">3. Developing new matching strategies to match text strings to ROR IDs</h2>
+<p>Ideally, everyone would always use persistent identifiers to exchange information about contributor and awardee affiliations, organisations related to works, as well as funders supporting the research. In practice, this information is often exchanged as data without identifiers, such as affiliation strings (e.g. “University of Virginia, Charlottesville, VA”), funder names, or even funding acknowledgements (e.g. “Funding and support generously provided by the Ford Foundation”). In such situations, a good metadata matching strategy can help map these to persistent identifiers.</p>
+<p>Currently, we are focused on developing reliable strategies for matching affiliation strings to ROR IDs. In the future, we will adapt the strategies to support funder names and funding acknowledgements as well. All the strategies will be rigorously evaluated using real-life data. We will make the strategies, as well as the evaluation datasets and evaluation results, publicly available for anyone to use. If you are interested in collaborating on the development or the evaluation of the matching strategies, <a href="mailto:labs@crossref.org">please get in touch</a>!</p>
+<p>In the future, we might also apply some of the new matching strategies at Crossref, to the metadata our members send us. This would allow us to insert matched identifiers to the metadata to better connect organisations with other items in the scholarly record. We already have a process that matches the names of funders supporting research against the Funder Registry and enriches the metadata with matched Funder Registry IDs. Developing and evaluating reliable matching strategies will allow us to modify this process to use ROR IDs instead, and extend it to support other use cases, such as contributor affiliations.</p>
+<h2 id="what-will-the-transition-mean-for-you">What will the transition mean for you?</h2>
+<p>We do recommend that you begin looking at what it will take to integrate ROR into your systems and workflows for identifying funders. Talk to your service providers about this to ready them for this change.
+To reiterate the point from the earlier post, in the short term, and even in the medium term, Funder IDs aren’t going away and the Funder IDs will continue to resolve – they are persistent, after all. Eventually, however, the Funder Registry will cease to be updated, so any new funders will only be registrable in Crossref metadata with ROR IDs. Legacy Funder IDs and their mapping to ROR IDs will be maintained, so if Crossref members submit a legacy Funder ID, it will get mapped to a ROR ID automatically. Note, too, that Crossref is committed to maintaining the current funder API endpoints until ROR IDs become the predominant identifier for newly registered content. We also know that there are questions that we’ll want to tackle with the community as we all make progress, some we know and some we don’t know. With that in mind:</p>
+<h2 id="tell-us-what-you-need">Tell us what you need!</h2>
+<p>We want to hear from you! We have set up several channels of communication meant to ensure that you can tell both ROR and Crossref what will make this transition easier for you and that you can get answers to your questions.</p>
+<p>First, we are conducting a series of Open Funder Registry user interviews designed to deepen our understanding of where Funder IDs are being used in workflows and systems. Write <a href="mailto:community@ror.org">community@ror.org</a> if you&rsquo;d like to participate in these interviews to show and tell us how you&rsquo;re using Funder IDs.</p>
+<p>Second, in 2024, we will be running a follow-up to the funding data workshop we ran in June 2023. Please get in touch if your organisation would be interested in participating in the discussion.</p>
+
+<span class="feed-item-link">
+<a href="https://www.crossref.org/blog/roring-ahead-using-ror-in-place-of-the-open-funder-registry/">https://www.crossref.org/blog/roring-ahead-using-ror-in-place-of-the-open-funder-registry/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.crossref.org/blog/roring-ahead-using-ror-in-place-of-the-open-funder-registry/">Save to Pocket</a>
+</span>
+
+---
+
+## Contexts, Friction and Distractions
+
+date: 2024-01-30, from: Marginallia log
+
+I get significantly more work done when I unplug my computer from the Internet.
+Despite many of the tools that I use requiring a connection, and certainly the Internet containing a wealth of information that might expedite my work, these benefits are drastically outweighed by the wealth of distractions also availabe.
+It&rsquo;s very appealing, when the code is compiling or the docker containers restarting, to sneak open a browser tab with hacker news, or the Χ formerly known as Twitter, youtube, or something else to pass those minutes.
+
+<span class="feed-item-link">
+<a href="https://www.marginalia.nu/log/99_context/">https://www.marginalia.nu/log/99_context/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.marginalia.nu/log/99_context/">Save to Pocket</a>
+</span>
+
+---
+
+## Credcheck version 2.4 released
+
+date: 2024-01-30, from: PostgreSQL News
+
+<p>Grenoble - January 30, 2024</p>
+<h2>PostgreSQL credcheck extension</h2>
+<p>The credcheck PostgreSQL extension provides few general credential checks, which will be evaluated during the user creation, during the password change and user renaming. By using this extension, we can define a set of rules:</p>
+<ul>
+<li>allow a specific set of credentials</li>
+<li>reject a certain type of credentials</li>
+<li>deny password that can be easily cracked</li>
+<li>enforce use of an expiration date with a minimum of day for a password</li>
+<li>define a password reuse policy</li>
+<li>define the number of authentication failure allowed before a user is banned</li>
+<li>add a delay after all authentication failure</li>
+</ul>
+<p>This release is a maintenance release to fix a major issue with the backup of the
+password history file with pgBackRest and adds an authentication delay feature.</p>
+<ul>
+<li>Add authentication delay feature to be able to add a pause on authentication
+    failure. Setting <code>credcheck.auth_delay_ms</code> causes the server to pause for a
+    given number of milliseconds before reporting authentication failure. This
+    makes brute-force attacks on database passwords more difficult.
+    This patch is purely a copy/paste from the auth_delay extension just to limit the
+    number of extensions to preload. See https://www.postgresql.org/docs/current/auth-delay.html
+    for more information about the origin of this feature.</li>
+<li>Force size of file <code>$PGDATA/global/pg_password_history</code> to be a multiple of 8192
+    to fix pgBackRest error caused by the error message: "page misalignment in file
+    /.../global/pg_password_history: file size 2604 is not divisible by page size 8192"</li>
+</ul>
+<p>Extension upgrade requires a PostgreSQL restart to reload the credcheck library.</p>
+<p>Complete list of changes and acknowledgments are available <a href="https://github.com/MigOpsRepos/credcheck/releases/tag/v2.4">here</a></p>
+<h2>Links &amp; Credits</h2>
+<p>credcheck is an open project under the PostgreSQL license created at <a href="https://migops.com/">MigOps Inc</a>, developped and maintained at <a href="https://hexacluster.ai/">HexaCluster Corp</a> by <a href="https://www.darold.net/">Gilles Darold</a>.
+Any contribution to build a better tool is welcome. You can send your ideas, features requests or patches
+using the GitHub tools.</p>
+<p><strong>Links :</strong></p>
+<ul>
+<li>Download:  <a href="https://github.com/MigOpsRepos/credcheck/releases/">https://github.com/MigOpsRepos/credcheck/releases/</a></li>
+<li>Support: use GitHub report tool at <a href="https://github.com/MigOpsRepos/credcheck/issues">https://github.com/MigOpsRepos/credcheck/issues</a></li>
+</ul>
+<h2>About credcheck</h2>
+<p>The credcheck extension is an original work of <a href="https://migops.com/">MigOps Inc</a>, Since MigOPs is closed Gilles Darold is the official maintainer. If you need more information please <a href="mailto:gilles@darold.net">contact me</a></p>
+<p>Documentation at <a href="https://github.com/MigOpsRepos/credcheck#readme">https://github.com/MigOpsRepos/credcheck#readme</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/credcheck-version-24-released-2800/">https://www.postgresql.org/about/news/credcheck-version-24-released-2800/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/credcheck-version-24-released-2800/">Save to Pocket</a>
+</span>
+
+---
+
+## pgDay Paris 2024: Schedule published &amp; Call for lightning talks launched
+
+date: 2024-01-30, from: PostgreSQL News
+
+<p>Hi,</p>
+<p>The schedule for pgDay Paris 2024 on March 14 is now live and we are really excited to share it with you. We have some great talks lined up for you about everything Postgres - from Codd to community and from logical decoding to LSM trees.</p>
+<p>Check out the programme &amp; register now <a href="https://www.postgresql.eu/events/pgdayparis2024/schedule">https://www.postgresql.eu/events/pgdayparis2024/schedule</a></p>
+<p>But that’s not all!</p>
+<p>The best news is that there’s still a chance for <strong>you</strong> to be on stage! If you look at the schedule, you’ll notice we reserved a slot for lightning talks because we know how much everyone loves them. We also know how nerve-wracking it can be to sign up on the day and not know until the last minute whether or not you’ll be speaking, so we’ve decided to launch a separate lightning talk CFP. Whether you’re a seasoned speaker or you’ve never been up on stage before, and whatever your Postgres use-case, we want to hear from you!</p>
+<p>Submissions (max 1 per speaker) should be sent by email to lightning@pgday.paris.</p>
+<p>The talk must be in English and no longer than 5 minutes.</p>
+<p>The subject of your email should be your name followed by the title of the talk (e.g. “Slonik: What Elephants do for Fun”). The body of the email should contain a very short description of your talk (max 50 words)</p>
+<p>We recommend you submit your lightning talk by 23 February as that's when we'll do the first round of selections, with selected speakers notified by 8 March. You can, however, submit your lightning talk right up until the day of the conference in case slots are still available </p>
+<p>We look forward to seeing you in Paris on March 14, 
+The pgDay Paris Team</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/pgday-paris-2024-schedule-published-call-for-lightning-talks-launched-2791/">https://www.postgresql.org/about/news/pgday-paris-2024-schedule-published-call-for-lightning-talks-launched-2791/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pgday-paris-2024-schedule-published-call-for-lightning-talks-launched-2791/">Save to Pocket</a>
+</span>
+
+---
+
+## pgvector 0.6.0 Released!
+
+date: 2024-01-30, from: PostgreSQL News
+
+<p><a href="https://github.com/pgvector/pgvector/">pgvector</a>, an open-source PostgreSQL extension that provides vector similarity search capabilities, has released <a href="https://github.com/pgvector/pgvector/releases/tag/v0.6.0">v0.6.0</a>. This latest version of pgvector provides improvements in performance, memory efficiency, and WAL generation for building <a href="https://github.com/pgvector/pgvector/#hnsw"><code>hnsw</code></a> indexes. For more information, please see the <a href="https://github.com/pgvector/pgvector/blob/master/CHANGELOG.md#060-2024-01-29">CHANGELOG for 0.6.0</a>:</p>
+<p><a href="https://github.com/pgvector/pgvector/blob/master/CHANGELOG.md#060-2024-01-29">https://github.com/pgvector/pgvector/blob/master/CHANGELOG.md#060-2024-01-29</a></p>
+<p>For more information about pgvector, including how to get started, please visit the <a href="https://github.com/pgvector/pgvector">project repository on GitHub</a>:</p>
+<p><a href="https://github.com/pgvector/pgvector">https://github.com/pgvector/pgvector</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/pgvector-060-released-2799/">https://www.postgresql.org/about/news/pgvector-060-released-2799/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pgvector-060-released-2799/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-29, from: Miguel de Icaza Mastondon feed)
+
+<p>The EU masterminds</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111841890239257293">https://mastodon.social/@Migueldeicaza/111841890239257293</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111841890239257293">Save to Pocket</a>
+</span>
+
+---
+
+## One GenAI image; Ten Errors
+
+date: 2024-01-29, from: Gary Marcus blog
+
+See if you can spot them all.
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/one-genai-image-ten-errors">https://garymarcus.substack.com/p/one-genai-image-ten-errors</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/one-genai-image-ten-errors">Save to Pocket</a>
 </span>
 
 ---
@@ -125,7 +1801,7 @@ Apple: This spring [with iOS 17.4], Apple is introducing transcripts on Apple Po
 
 date: 2024-01-29, from: Michael Tsai
 
-Mozilla (via Mike Rockwell): This dashboard tracks technical issues in major software platforms which disadvantage Firefox relative to the first-party browser. We consider aspects like security, stability, performance, and functionality, and propose changes to create a more level playing field. Previously: DMA Compliance: Alternative Browser Engines DMA Compliance: Default App Controls and NFC
+Mozilla (via Mike Rockwell): This dashboard tracks technical issues in major software platforms which disadvantage Firefox relative to the first-party browser. We consider aspects like security, stability, performance, and functionality, and propose changes to create a more level playing field. Previously: DMA Compliance: Alternative Browser Engines DMA Compliance: Default App Controls and NFC The Hotel [&#8230;]
 
 <span class="feed-item-link">
 <a href="https://mjtsai.com/blog/2024/01/29/platform-tilt/">https://mjtsai.com/blog/2024/01/29/platform-tilt/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/29/platform-tilt/">Save to Pocket</a>
@@ -600,10 +2276,10 @@ But all I had done about it was think to myself: Pick a scale, like this one, B 
 date: 2024-01-29, from: Dave Winer's Scripting News
 
 <p><a href="https://www.facebook.com/dave.winer.12/posts/pfbid0QLJSX8i6UxePF7s9MtGj499yVZdeamEDDjX44Scc6ByQjhXexokBzEjfDRiJM3KDl?notif_id=1706537151297791&notif_t=feedback_reaction_generic&ref=notif">Facebook is good</a> for surfacing old stuff, like this picture from the 1990s, me and Dave Jacobs at a <a href="https://en.wikipedia.org/wiki/Potrero_Hill">Potrero Hill</a> restaurant, looking much younger, before all the wear and tear. </p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/01/29/daveAndDaveOnPotreroHill.png"></center>The Daves (Jacobs and Winer) at a Potrero Hill restaurant in the 90s.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/01/29/daveAndDaveOnPotreroHill.png"></center>The Daves (Jacobs and Winer) at a <a href="https://en.wikipedia.org/wiki/Potrero_Hill">Potrero Hill</a> restaurant in the 90s.</div></p>
 <p>We had already been friends for a few years then. By total coincidence we were both offered writing gigs at the then-new <a href="https://en.wikipedia.org/wiki/Wired_(magazine)#History">Wired</a>, Dave as the Fetish columnist, where he wrote about all the latest tech gadgetry, which was a perfect assignment for him, because Dave is one of the most tech-literate people you'll ever meet. Also an avid bike rider, Deadhead, and later a receiver of donated kidneys, and a pioneer of the technology for matching kidney donors with recipients. He has saved a lot of lives with his software. And he's still with us, against all odds. </p>
-<p>Just chatted with him last night during the <a href="https://www.espn.com/nfl/story/_/id/39413785/niners-beat-lions-nfc-championship-game-reach-super-bowl">Niners game</a>. The only football team I've ever loved, from back in the <a href="https://en.wikipedia.org/wiki/Joe_Montana">Joe Montana</a> days. </p>
 <p>I was offered a column to basically write whatever I wanted to write about, although by default I was supposed to write about the world wide web, which was then as new as ChatGPT is today and every bit as exciting. You can find our respective columns somewhere I hope on the web. </p>
+<p>Just chatted with him last night during the <a href="https://www.espn.com/nfl/story/_/id/39413785/niners-beat-lions-nfc-championship-game-reach-super-bowl">Niners game</a>. The only football team I've ever loved, from back in the <a href="https://en.wikipedia.org/wiki/Joe_Montana">Joe Montana</a> days. </p>
 
 
 <span class="feed-item-link">

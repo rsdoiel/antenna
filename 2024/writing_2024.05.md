@@ -1,11 +1,185 @@
 ---
 title: writing 2024.05
-updated: 2024-01-29 15:07:18
+updated: 2024-01-30 11:51:48
 ---
 
 # writing 2024.05
 
-(date: 2024-01-29 15:07:18)
+(date: 2024-01-30 11:51:48)
+
+---
+
+## Colleen Mondor Reviews Jonathan Abernathy You Are Kind by Molly McGhee and Emily Wilde’s Map of the Otherlands by Heather Fawcett
+
+date: 2024-01-30, from: Locus Magazine
+
+<p><strong>Jonathan Abernathy You Are Kind</strong>, Molly Mc­Ghee (Astra House 978-1662602115, $24.95, hc, 304pp) October 2023.</p>
+<p>On the fourth page of Molly McGhee’s debut novel, the titular character Jonathan Abernathy is described as a young man drowning in financial debts. They primarily include ‘‘(1) a series of unpaid credit cards inherited after the death of his parents’’ and ‘‘(2) the legal culminations of the decisions he made as a 17-year-old  <a href="https://locusmag.com/2024/01/colleen-mondor-reviews-jonathan-abernathy-you-are-kind-by-molly-mcghee-and-emily-wildes-map-of-the-otherlands-by-heather-fawcett/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/colleen-mondor-reviews-jonathan-abernathy-you-are-kind-by-molly-mcghee-and-emily-wildes-map-of-the-otherlands-by-heather-fawcett/">https://locusmag.com/2024/01/colleen-mondor-reviews-jonathan-abernathy-you-are-kind-by-molly-mcghee-and-emily-wildes-map-of-the-otherlands-by-heather-fawcett/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/colleen-mondor-reviews-jonathan-abernathy-you-are-kind-by-molly-mcghee-and-emily-wildes-map-of-the-otherlands-by-heather-fawcett/">Save to Pocket</a>
+</span>
+
+---
+
+## New Books: 30 January 2024
+
+date: 2024-01-30, from: Locus Magazine
+
+<p>Chen, Mike: <b>A Quantum Love Story</b>
+(Harlequin/Mira 9780778369509, $18.99, 384pp, formats: trade paperback, ebook, audio, 01/30/2024)</p>
+<p>SF time-loop romance novel. Neuroscientist Mariana Pineda, working at a top secret particle accelerator, starts looping in time, the same four days over and over, with a man who also remembers the loop — for a while.</p>
+<p>&#160;</p>
+<p>Gibson, Lena: <b>Switching Tracks: Out of the Trash</b>
+(Black Rose Writing 9781685133641, $24.95, 359pp, formats: trade  <a href="https://locusmag.com/2024/01/new-books-30-january-2024/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/new-books-30-january-2024/">https://locusmag.com/2024/01/new-books-30-january-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/new-books-30-january-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Write On: 'Miller's Girl' Writer/director Jade Halley Bartlett
+
+date: 2024-01-30, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-millers-girl-writer/director-jade-halley-bartlett" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Millers%20Girl%20Writerdirector%20Jade%20Halley%20Bartlett.png" alt="Write On: 'Miller's Girl' Writer/director Jade Halley Bartlett" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>“Personally, I think writing is bleeding. It's blood magic. It's very hard to do,” says writer/director Jade Halley Bartlett of the new Southern gothic romance,&nbsp;</span><em><span>Miller’s Girl.</span></em></p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/write-on-millers-girl-writer/director-jade-halley-bartlett">https://blog.finaldraft.com/write-on-millers-girl-writer/director-jade-halley-bartlett</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/write-on-millers-girl-writer/director-jade-halley-bartlett">Save to Pocket</a>
+</span>
+
+---
+
+## Crafting the Big Picture with Final Draft 13's Powerful New Tool
+
+date: 2024-01-30, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/crafting-the-big-picture-with-final-draft-13s-powerful-new-tool" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Final%20Draft%2013%20Screenwriting.jpg" alt="Crafting the Big Picture with Final Draft 13's Powerful New Tool" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>You need to have a multi-dimensional view of your script when screenwriting. You should know how everything is connected: scenes, characters, locations, etc. I refer to this as “seeing the big picture in screenwriting.”</span></p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/crafting-the-big-picture-with-final-draft-13s-powerful-new-tool">https://blog.finaldraft.com/crafting-the-big-picture-with-final-draft-13s-powerful-new-tool</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/crafting-the-big-picture-with-final-draft-13s-powerful-new-tool">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-30, from: Neil Gaiman @ BlueSky)
+
+Newish.  2023.
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk65psl7p72p">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk65psl7p72p</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk65psl7p72p">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-30, from: Neil Gaiman @ BlueSky)
+
+This is so cool. The first time Duncan and I met (in 2002) he told me he wanted to make a Rogue Trooper movie. Well done!!
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk65hybffo23">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk65hybffo23</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk65hybffo23">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-30, from: Neil Gaiman @ BlueSky)
+
+She's amazing.
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk5y4656vq2m">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk5y4656vq2m</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk5y4656vq2m">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 International Dylan Thomas Prize Longlist
+
+date: 2024-01-30, from: Locus Magazine
+
+<p>The longlist for the 2024 International Dylan Thomas Prize has been announced, and includes <strong>The Coiled Serpent</strong> by Camilla Grudova (Atlantic Books).</p>
+<div class="mynomorebulletlist">
+<p>The annual Dylan Thomas prize, in partnership with Swansea University, awards £20,000 &#8220;to the best published or produced literary work in the English language, written by an author aged 39 or under.&#8221; This year&#8217;s judges are Namita Gokhale, Jon Gower, Seán Hewitt, Julia Wheeler, and Tice Cin.</p>
+<p>A </p></div> <a href="https://locusmag.com/2024/01/2024-international-dylan-thomas-prize-longlist/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/2024-international-dylan-thomas-prize-longlist/">https://locusmag.com/2024/01/2024-international-dylan-thomas-prize-longlist/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/2024-international-dylan-thomas-prize-longlist/">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 Imagine 2200 Contest Winners
+
+date: 2024-01-30, from: Locus Magazine
+
+<p></p>
+<p>Fix, Grist&#8216;s &#8220;solutions lab,&#8221; has announced three winners for their Imagine 2200 Short Story Contest. The contest asks authors &#8220;to envision a clean, just future&#8230; [and] create stories of life in that future.&#8221; The theme was &#8220;Climate fiction for future ancestors.”</p>
+<p>The winners are:</p>
+<ul>
+<li>First Place: &#8220;To Labor for the Hive,&#8221; Jamie Liu</li>
+<li>Second Place: &#8220;The Last Almond,&#8221; Zoe Young</li>
+<li>Third Place: &#8220;A Seder in Siberia,&#8221; Louis Evans</li>
+</ul>
+<p>The other  <a href="https://locusmag.com/2024/01/2023-imagine-2200-contest-winners/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/2023-imagine-2200-contest-winners/">https://locusmag.com/2024/01/2023-imagine-2200-contest-winners/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/2023-imagine-2200-contest-winners/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-29, from: Neil Gaiman @ BlueSky)
+
+There is. And a fifth after that...
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk5shc6n4a2o">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk5shc6n4a2o</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk5shc6n4a2o">Save to Pocket</a>
+</span>
+
+---
+
+## Basak Wins Gulliver Travel Grant
+
+date: 2024-01-29, from: Locus Magazine
+
+<p class="p1">Writer Sohini Basak has won the 2023 Gulliver Travel Grant, given by the Speculative Literature Foundation (SLF) &#8220;to assist writers of speculative literature (in fiction, poetry, drama, or creative nonfiction) in their research.&#8221; The $1,000 grant is intended to cover airfare, lodging, or other travel expenses.</p>
+<p>For more information, see the SLF website.</p>
+
+<p>
+
+
+     (adsbygoogle = window.adsbygoogle &#124;&#124; []).push({});
+
+<strong>While you are here,</strong> please take a moment to support Locus with  <a href="https://locusmag.com/2024/01/basak-wins-gulliver-travel-grant/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/basak-wins-gulliver-travel-grant/">https://locusmag.com/2024/01/basak-wins-gulliver-travel-grant/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/basak-wins-gulliver-travel-grant/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-29, from: Neil Gaiman @ BlueSky)
+
+A terrific piece on what @dirkmaggs.bsky.social and I have been trying to do on the Sandman Audio project.
+https://blog.simplecast.com/sandmen-audio-in-the-age-of-netflix-exploring-the-sandman?fbclid=IwAR35nlTfeNkyxL2uB4gyKOdEJ6k9G_NhYcJGIYNuhiCpvRzNOL0umQfGvoY
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk5rjyr5dn2o">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk5rjyr5dn2o</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kk5rjyr5dn2o">Save to Pocket</a>
+</span>
 
 ---
 

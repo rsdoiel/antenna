@@ -1,11 +1,119 @@
 ---
 title: motorcycles 2024.05
-updated: 2024-01-29 15:07:18
+updated: 2024-01-30 11:51:48
 ---
 
 # motorcycles 2024.05
 
-(date: 2024-01-29 15:07:18)
+(date: 2024-01-30 11:51:48)
+
+---
+
+## What's Better Than A Hayabusa Engine Swap? How About A 345HP Hayabusa V8?
+
+date: 2024-01-30, from: Ride Apart, Electric Motorcycle News
+
+If you thought that Finnish racer and engineer Mikko Kataja's Toyota Starlet was a hillclimb monster before, it's evolving.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706696/hayabusa-v8-toyota-starlet-racer/">https://www.rideapart.com/news/706696/hayabusa-v8-toyota-starlet-racer/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706696/hayabusa-v8-toyota-starlet-racer/">Save to Pocket</a>
+</span>
+
+---
+
+## CFMoto MT-X Ready for Production
+
+date: 2024-01-30, from: Cycle World News
+
+CFMoto is taking advantage of its association with KTM to build its own 790 Adventure competitor based on the LC8c engine in that machine.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/cfmoto-mt-x-coming-soon/">https://www.cycleworld.com/motorcycle-news/cfmoto-mt-x-coming-soon/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/cfmoto-mt-x-coming-soon/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Suzuki GSX-8R First Ride
+
+date: 2024-01-30, from: Cycle World News
+
+Suzuki’s 776cc parallel-twin platform has ushered in a new era for the company with four new models. The latest GSX-8R sportbike is a logical addition.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-reviews/suzuki-gsx-8r-first-ride/">https://www.cycleworld.com/motorcycle-reviews/suzuki-gsx-8r-first-ride/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/suzuki-gsx-8r-first-ride/">Save to Pocket</a>
+</span>
+
+---
+
+## Super73 Partnered With Red Bull For The 2024 Dakar Rally
+
+date: 2024-01-30, from: Ride Apart, Electric Motorcycle News
+
+Behind the scenes, folks in the Dakar Rally bivouac moved around aboard custom Super73 S2 e-bikes. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706571/super73-red-bull-dakar-2024/">https://www.rideapart.com/news/706571/super73-red-bull-dakar-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706571/super73-red-bull-dakar-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Scorpio Electric And China’s BYD Join Forces For Electric Scooters In Asia
+
+date: 2024-01-30, from: Ride Apart, Electric Motorcycle News
+
+Scorpio will leverage BYD’s battery expertise and develop a range of new models for the ASEAN market. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706564/scorpio-electric-byd-partnership-asean/">https://www.rideapart.com/news/706564/scorpio-electric-byd-partnership-asean/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706564/scorpio-electric-byd-partnership-asean/">Save to Pocket</a>
+</span>
+
+---
+
+## Yamaha To Showcase Tricera Concept At AIMExpo 2024
+
+date: 2024-01-30, from: Ride Apart, Electric Motorcycle News
+
+The three-wheeled electric vehicle is meant to embody the concept of “Urban Exciting Mobility.” 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706560/yamaha-aimexpo-2024-tricera-concept/">https://www.rideapart.com/news/706560/yamaha-aimexpo-2024-tricera-concept/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706560/yamaha-aimexpo-2024-tricera-concept/">Save to Pocket</a>
+</span>
+
+---
+
+## Paul Yaffe’s BMW R 18 One Eight “C” Is A Custom Big-Wheel Bagger
+
+date: 2024-01-30, from: Ride Apart, Electric Motorcycle News
+
+This custom creation embraces the classic look of the Mercury Lead Sled. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706559/bmw-r18-one-eight-c-custom/">https://www.rideapart.com/news/706559/bmw-r18-one-eight-c-custom/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706559/bmw-r18-one-eight-c-custom/">Save to Pocket</a>
+</span>
+
+---
+
+## TVS Working On New Model Range For Norton Motorcycles
+
+date: 2024-01-30, from: Ride Apart, Electric Motorcycle News
+
+The new "super premium" models are expected to come in about two years. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706556/tvs-developing-product-range-norton/">https://www.rideapart.com/news/706556/tvs-developing-product-range-norton/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706556/tvs-developing-product-range-norton/">Save to Pocket</a>
+</span>
+
+---
+
+## Ever Wonder What The Differences Between MotoGP And WorldSBK Are?
+
+date: 2024-01-30, from: Ride Apart, Electric Motorcycle News
+
+Six-time WSBK champ Jonathan Rea gives us a rundown, along with a bunch of other moto racing trivia.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706555/differences-motogp-worldsbk-jonathan-rea/">https://www.rideapart.com/news/706555/differences-motogp-worldsbk-jonathan-rea/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706555/differences-motogp-worldsbk-jonathan-rea/">Save to Pocket</a>
+</span>
 
 ---
 

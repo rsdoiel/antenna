@@ -1,11 +1,131 @@
 ---
 title: games 2024.05
-updated: 2024-01-29 15:07:18
+updated: 2024-01-30 11:51:48
 ---
 
 # games 2024.05
 
-(date: 2024-01-29 15:07:18)
+(date: 2024-01-30 11:51:48)
+
+---
+
+## Dune, Bone, Hobbit, and more essential SFF books are buy one, get one 50% off at B&N right now
+
+date: 2024-01-30, updated: 2024-01-30, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/2024/1/30/24055556/barnes-noble-sale-best-sci-fi-fantasy-books-graphic-novels-board-game-tabletop-deal">https://www.polygon.com/deals/2024/1/30/24055556/barnes-noble-sale-best-sci-fi-fantasy-books-graphic-novels-board-game-tabletop-deal</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/2024/1/30/24055556/barnes-noble-sale-best-sci-fi-fantasy-books-graphic-novels-board-game-tabletop-deal">Save to Pocket</a>
+</span>
+
+---
+
+## Destiny 2 is getting Mass Effect-themed cosmetics next month
+
+date: 2024-01-30, updated: 2024-01-30, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24055760/destiny-2-mass-effect-cosmetics-crossover">https://www.polygon.com/24055760/destiny-2-mass-effect-cosmetics-crossover</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24055760/destiny-2-mass-effect-cosmetics-crossover">Save to Pocket</a>
+</span>
+
+---
+
+## You’ll want to take advantage of Enshrouded’s simple, clever sleep mechanic
+
+date: 2024-01-30, updated: 2024-01-30, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/24055526/enshrouded-sleep-mechanic">https://www.polygon.com/gaming/24055526/enshrouded-sleep-mechanic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/24055526/enshrouded-sleep-mechanic">Save to Pocket</a>
+</span>
+
+---
+
+## Phantom Abyss combines Mirror’s Edge and Temple Run in an enjoyable multiplayer package
+
+date: 2024-01-30, updated: 2024-01-30, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/sub-gems/24054439/phantom-abyss-game-pass-indiana-jones-mirrors-edge-temple-run-whip-it-whip-it-good">https://www.polygon.com/sub-gems/24054439/phantom-abyss-game-pass-indiana-jones-mirrors-edge-temple-run-whip-it-whip-it-good</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/sub-gems/24054439/phantom-abyss-game-pass-indiana-jones-mirrors-edge-temple-run-whip-it-whip-it-good">Save to Pocket</a>
+</span>
+
+---
+
+## Modder creates a definitely-not-Pokémon Palworld mod
+
+date: 2024-01-30, updated: 2024-01-30, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24055661/palworld-pokemon-mod-toasted-shoes-nexus-mods">https://www.polygon.com/24055661/palworld-pokemon-mod-toasted-shoes-nexus-mods</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24055661/palworld-pokemon-mod-toasted-shoes-nexus-mods">Save to Pocket</a>
+</span>
+
+---
+
+## Celeste goes full Mario 64 in this free, bite-sized game
+
+date: 2024-01-30, updated: 2024-01-30, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24055543/celeste-64-free-3d-mario-new">https://www.polygon.com/24055543/celeste-64-free-3d-mario-new</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24055543/celeste-64-free-3d-mario-new">Save to Pocket</a>
+</span>
+
+---
+
+## Alan Wake, a messy bitch, is perfect for Dead by Daylight
+
+date: 2024-01-30, updated: 2024-01-30, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/1/30/24054923/alan-wake-dead-by-daylight-crossover-synergy">https://www.polygon.com/2024/1/30/24054923/alan-wake-dead-by-daylight-crossover-synergy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/1/30/24054923/alan-wake-dead-by-daylight-crossover-synergy">Save to Pocket</a>
+</span>
+
+---
+
+## With Uncle Iroh’s Guide, the Avatar RPG encourages your characters to get old as hell
+
+date: 2024-01-30, updated: 2024-01-30, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24054403/avatar-airbender-legends-tabletop-game-uncle-iroh-magpie-games">https://www.polygon.com/24054403/avatar-airbender-legends-tabletop-game-uncle-iroh-magpie-games</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24054403/avatar-airbender-legends-tabletop-game-uncle-iroh-magpie-games">Save to Pocket</a>
+</span>
+
+---
+
+## Our Brilliant Ruin brings Downton Abbey to the tabletop for a raucous RPG
+
+date: 2024-01-30, updated: 2024-01-30, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/tabletop-games/24055551/our-brilliant-ruin-ttrpg-kickstarter-announcement">https://www.polygon.com/tabletop-games/24055551/our-brilliant-ruin-ttrpg-kickstarter-announcement</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/tabletop-games/24055551/our-brilliant-ruin-ttrpg-kickstarter-announcement">Save to Pocket</a>
+</span>
+
+---
+
+## How to craft the glider in Enshrouded
+
+date: 2024-01-30, updated: 2024-01-30, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/enshrouded-guides/24054945/glider-advanced-extraordinary-how-to-get-craft">https://www.polygon.com/enshrouded-guides/24054945/glider-advanced-extraordinary-how-to-get-craft</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/enshrouded-guides/24054945/glider-advanced-extraordinary-how-to-get-craft">Save to Pocket</a>
+</span>
 
 ---
 

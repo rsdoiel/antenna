@@ -1,15 +1,41 @@
 ---
 title: mid central 2024.05
-updated: 2024-01-29 15:07:17
+updated: 2024-01-30 11:51:48
 ---
 
 # mid central 2024.05
 
-(date: 2024-01-29 15:07:17)
+(date: 2024-01-30 11:51:48)
 
 ---
 
-## Pitbull visits Bulldog territory with ‘Trilogy Tour’
+## There are no active watches, warnings or advisories
+
+date: 2024-01-30, updated: 2024-01-30, from: Merced, Weather.gov CAP v1.1 alerts
+
+
+
+<span class="feed-item-link">
+<a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
+</span>
+
+---
+
+## Power Tips #125: How an opto-emulator improves reliability and transient response for isolated DC/DC converters
+
+date: 2024-01-30, from: EDN Blog
+
+<img width="624" height="452" src="https://www.edn.com/wp-content/uploads/FIgure-3_PowerTips125.png?fit=624%2C452" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/FIgure-3_PowerTips125.png?w=624 624w, https://www.edn.com/wp-content/uploads/FIgure-3_PowerTips125.png?w=300 300w" sizes="(max-width: 624px) 100vw, 624px" /><p>Using optocouplers in power supplies can be tricky, instead using a silicon-based device that emulates its behavior can sidestep many issues.</p>
+<p>The post <a href="https://www.edn.com/power-tips-125-how-an-opto-emulator-improves-reliability-and-transient-response-for-isolated-dc-dc-converters/" data-wpel-link="internal">Power Tips #125: How an opto-emulator improves reliability and transient response for isolated DC/DC converters</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/power-tips-125-how-an-opto-emulator-improves-reliability-and-transient-response-for-isolated-dc-dc-converters/">https://www.edn.com/power-tips-125-how-an-opto-emulator-improves-reliability-and-transient-response-for-isolated-dc-dc-converters/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/power-tips-125-how-an-opto-emulator-improves-reliability-and-transient-response-for-isolated-dc-dc-converters/">Save to Pocket</a>
+</span>
+
+---
+
+## Pitbull visits Bulldog territory with Trilogy Tour
 
 date: 2024-01-29, from: The Collegian (Cal State Fresno's Student Newspaper)
 
@@ -37,24 +63,12 @@ date: 2024-01-29, updated: 2024-01-29, from: Merced, Weather.gov CAP v1.1 alerts
 
 date: 2024-01-29, from: EDN Blog
 
-<img width="1600" height="1070" src="https://www.edn.com/wp-content/uploads/Byline-Image-3.jpg?fit=1600%2C1070" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Byline-Image-3.jpg?w=1600 1600w, https://www.edn.com/wp-content/uploads/Byline-Image-3.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Byline-Image-3.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Byline-Image-3.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Byline-Image-3.jpg?w=1536 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><p>An introduction to some of the challenges designers may face when testing with power supplies including boosting voltage/current and more.</p>
+<img width="1600" height="1070" src="https://www.edn.com/wp-content/uploads/Byline-Image-3.jpg?fit=1600%2C1070" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Byline-Image-3.jpg?w=1600 1600w, https://www.edn.com/wp-content/uploads/Byline-Image-3.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Byline-Image-3.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Byline-Image-3.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Byline-Image-3.jpg?w=1536 1536w" sizes="(max-width: 1600px) 100vw, 1600px" /><p>An introduction to some of the challenges designers may face when testing with power supplies including boosting voltage/current and more.</p>
 <p>The post <a href="https://www.edn.com/conquer-design-challenges-skills-for-power-supplies/" data-wpel-link="internal">Conquer design challenges: Skills for power supplies</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 
 <span class="feed-item-link">
 <a href="https://www.edn.com/conquer-design-challenges-skills-for-power-supplies/">https://www.edn.com/conquer-design-challenges-skills-for-power-supplies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/conquer-design-challenges-skills-for-power-supplies/">Save to Pocket</a>
-</span>
-
----
-
-## There are no active watches, warnings or advisories
-
-date: 2024-01-29, updated: 2024-01-29, from: Merced, Weather.gov CAP v1.1 alerts
-
-
-
-<span class="feed-item-link">
-<a href="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alerts.weather.gov/cap/wwaatmget.php?x=CAC047&y=0">Save to Pocket</a>
 </span>
 
 ---

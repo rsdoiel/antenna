@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.05
-updated: 2024-01-29 15:07:18
+updated: 2024-01-30 11:51:48
 ---
 
 # libraries 2024.05
 
-(date: 2024-01-29 15:07:18)
+(date: 2024-01-30 11:51:48)
 
 ---
 
@@ -29,6 +29,20 @@ Bearth, Angela; Otten, Caitlin Drummond; Cohen, Alex Segrè
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/653049">http://hdl.handle.net/20.500.11850/653049</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/653049">Save to Pocket</a>
+</span>
+
+---
+
+## Kitchen Essentials: An Interview with Maria Gould of ROR
+
+date: 2024-01-30, from: Scholarly Kitchen
+
+<p>To celebrate the fifth anniversary of the Research Organization Registry (ROR), Alice Meadows interviewed Director Maria Gould for today's Kitchen Essentials post.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/01/30/kitchen-essentials-an-interview-with-maria-gould-of-ror/">Kitchen Essentials: An Interview with Maria Gould of ROR</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/01/30/kitchen-essentials-an-interview-with-maria-gould-of-ror/">https://scholarlykitchen.sspnet.org/2024/01/30/kitchen-essentials-an-interview-with-maria-gould-of-ror/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/01/30/kitchen-essentials-an-interview-with-maria-gould-of-ror/">Save to Pocket</a>
 </span>
 
 ---
