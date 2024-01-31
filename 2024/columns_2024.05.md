@@ -1,11 +1,98 @@
 ---
 title: columns 2024.05
-updated: 2024-01-30 11:51:48
+updated: 2024-01-31 10:00:40
 ---
 
 # columns 2024.05
 
-(date: 2024-01-30 11:51:48)
+(date: 2024-01-31 10:00:40)
+
+---
+
+## My 4 magic moments with Vision Pro
+
+date: 2024-01-31, from: Om Malik blog
+
+No, not again! Not another Vision Pro Review! I feel you — after all the reviews yesterday, I am pretty sure you don’t want to read another review. Here’s the good news — it’s not a review. Instead, I will share my quick impressions from a deep dive at Apple Park, and my four magic &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/01/31/my-4-magic-moments-with-vision-pro/">https://om.co/2024/01/31/my-4-magic-moments-with-vision-pro/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/01/31/my-4-magic-moments-with-vision-pro/">Save to Pocket</a>
+</span>
+
+---
+
+## CFPB’s Proposed Data Rules
+
+date: 2024-01-31, updated: 2024-01-26, from: Bruce Schneier blog
+
+<p>In October, the Consumer Financial Protection Bureau (CFPB) <a href="https://files.consumerfinance.gov/f/documents/cfpb-1033-nprm-fr-notice_2023-10.pdf">proposed a set of rules</a> that if implemented would transform how financial institutions handle personal data about their customers. The rules put control of that data back in the hands of ordinary Americans, while at the same time undermining the data broker economy and increasing customer choice and competition. Beyond these economic effects, the rules have important data security benefits.</p>
+<p>The CFPB&#8217;s rules align with a key security idea: the <a href="https://spectrum.ieee.org/data-privacy">decoupling principle</a>. By separating which companies see what parts of our data, and in what contexts, we can gain control over data about ourselves (improving privacy) and harden cloud infrastructure against hacks (improving security). Officials at the CFPB have described the new rules as an attempt to accelerate a shift toward &#8220;open banking,&#8221; and after an initial comment period on the new rules closed late last year, Rohit Chopra, the CFPB&#8217;s director, ...</p>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/cfpbs-proposed-data-rules.html">https://www.schneier.com/blog/archives/2024/01/cfpbs-proposed-data-rules.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/cfpbs-proposed-data-rules.html">Save to Pocket</a>
+</span>
+
+---
+
+## Office Hours: Can Taylor Swift, Dolly Parton, and Jon Stewart help Biden?
+
+date: 2024-01-31, from: Robert Reich's blog
+
+How much impact would these entertainers have on voters?
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/office-hours-can-taylor-swift-dolly">https://robertreich.substack.com/p/office-hours-can-taylor-swift-dolly</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/office-hours-can-taylor-swift-dolly">Save to Pocket</a>
+</span>
+
+---
+
+## curl 8.6.0
+
+date: 2024-01-31, from: Daniel Stenberg Blog
+
+Numbers the 254th release7 changes56 days (total: 9,448)154 bug-fixes (total: 9,888)257 commits (total: 31,684)0 new public libcurl function (total: 93)1 new curl_easy_setopt() option (total: 304)0 new curl command line option (total: 258)65 contributors, 40 new (total: 3,078)36 authors, 18 new (total: 1,237)1 security fix (total: 151) Release presentation Security CVE-2024-0853: OCSP verification bypass with TLS &#8230; <a href="https://daniel.haxx.se/blog/2024/01/31/curl-8-6-0/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.6.0</span> <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://daniel.haxx.se/blog/2024/01/31/curl-8-6-0/">https://daniel.haxx.se/blog/2024/01/31/curl-8-6-0/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daniel.haxx.se/blog/2024/01/31/curl-8-6-0/">Save to Pocket</a>
+</span>
+
+---
+
+## Wednesday 31 January, 2024
+
+date: 2024-01-31, from: John Naughton's online diary
+
+Cambridge, late afternoon Snapped on my way to a book launch in Heffers. Quote of the Day ”It would be possible to say without exaggeration that the miners&#8217; leaders were the stupidest men in England if we had not frequent &#8230; <a href="https://memex.naughtons.org/wednesday-31-january-2024/39085/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/wednesday-31-january-2024/39085/">https://memex.naughtons.org/wednesday-31-january-2024/39085/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/wednesday-31-january-2024/39085/">Save to Pocket</a>
+</span>
+
+---
+
+## New Images of Colossus Released
+
+date: 2024-01-30, updated: 2024-01-29, from: Bruce Schneier blog
+
+<p>GCHQ has <a href="https://www.gchq.gov.uk/news/colossus-80">released</a> new images of the WWII Colossus code-breaking computer, celebrating the machine&#8217;s eightieth anniversary (birthday?).</p>
+<p>News <a href="https://arstechnica.com/gadgets/2024/01/new-images-of-secret-nazi-busting-computer-emerge-on-80th-anniversary/">article</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/01/new-images-of-colossus-released.html">https://www.schneier.com/blog/archives/2024/01/new-images-of-colossus-released.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/01/new-images-of-colossus-released.html">Save to Pocket</a>
+</span>
+
+---
+
+## ★ The Vision Pro
+
+date: 2024-01-30, updated: 2024-01-31, from: Daring Fireball
+
+A headset, a spatial productivity platform, and a personal entertainment device.
+
+<span class="feed-item-link">
+<a href="https://daringfireball.net/2024/01/the_vision_pro">https://daringfireball.net/2024/01/the_vision_pro</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/2024/01/the_vision_pro">Save to Pocket</a>
+</span>
 
 ---
 

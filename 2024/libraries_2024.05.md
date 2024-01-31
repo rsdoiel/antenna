@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.05
-updated: 2024-01-30 11:51:48
+updated: 2024-01-31 10:00:40
 ---
 
 # libraries 2024.05
 
-(date: 2024-01-30 11:51:48)
+(date: 2024-01-31 10:00:40)
 
 ---
 
@@ -33,6 +33,32 @@ Bearth, Angela; Otten, Caitlin Drummond; Cohen, Alex Segrè
 
 ---
 
+## On the Art of Reading, by Arthur Quiller-Couch
+
+date: 2024-01-31, from: Standard Ebooks, new releaases
+
+Quiller-Couch argues for the study and appreciation of classic English literature.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-reading">https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-reading</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/arthur-quiller-couch/on-the-art-of-reading">Save to Pocket</a>
+</span>
+
+---
+
+## How We Work, AI, and Human Engagement
+
+date: 2024-01-31, from: Scholarly Kitchen
+
+<p>In this post Robert Harington looks to Hannah Arendt, and her 1958 book, The Human Condition for help in understanding the nature of how we work, asking how an AI world may affect the nature of our work.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/01/31/in-this-post-robert-harington-looks-to-hannah-arendt-and-her-1958-book-the-human-condition-for-help-in-understanding-the-nature-of-how-we-work-asking-how-an-ai-world-may-affect-the-nature-of-our-wo/">How We Work, AI, and Human Engagement</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/01/31/in-this-post-robert-harington-looks-to-hannah-arendt-and-her-1958-book-the-human-condition-for-help-in-understanding-the-nature-of-how-we-work-asking-how-an-ai-world-may-affect-the-nature-of-our-wo/">https://scholarlykitchen.sspnet.org/2024/01/31/in-this-post-robert-harington-looks-to-hannah-arendt-and-her-1958-book-the-human-condition-for-help-in-understanding-the-nature-of-how-we-work-asking-how-an-ai-world-may-affect-the-nature-of-our-wo/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/01/31/in-this-post-robert-harington-looks-to-hannah-arendt-and-her-1958-book-the-human-condition-for-help-in-understanding-the-nature-of-how-we-work-asking-how-an-ai-world-may-affect-the-nature-of-our-wo/">Save to Pocket</a>
+</span>
+
+---
+
 ## Kitchen Essentials: An Interview with Maria Gould of ROR
 
 date: 2024-01-30, from: Scholarly Kitchen
@@ -51,7 +77,7 @@ date: 2024-01-30, from: Scholarly Kitchen
 
 date: 2024-01-29, from: Association of Research Libraries News
 
-<p>Last Updated on January 29, 2024, 4:28 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 30 &#124; Wednesday, January 31 &#124; Thursday,...</p>
+<p>Last Updated on January 30, 2024, 3:05 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 30 &#124; Thursday, February 1 Note: Day...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-29-february-1/">Day in Review (January 29–February 1)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 

@@ -1,11 +1,305 @@
 ---
 title: writing 2024.05
-updated: 2024-01-30 11:51:48
+updated: 2024-01-31 10:00:40
 ---
 
 # writing 2024.05
 
-(date: 2024-01-30 11:51:48)
+(date: 2024-01-31 10:00:40)
+
+---
+
+## Hugo Awards Nominations Are Open
+
+date: 2024-01-31, from: Locus Magazine
+
+<p>Nominations are now open for the Hugo Awards, the Lodestar Award for Best Young Adult Book, and the Astounding Award for Best New Writer, to be presented at Glasgow 2024, A Worldcon for Our Futures, the 82nd World Science Fiction Convention, to be held August 8-12, 2024 in Glasgow, Scotland. The convention says,</p>
+<p>The first stage, nomination, is open to anyone who has a WSFS Membership in the previous or  <a href="https://locusmag.com/2024/01/hugo-awards-nominations-are-open/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/hugo-awards-nominations-are-open/">https://locusmag.com/2024/01/hugo-awards-nominations-are-open/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/hugo-awards-nominations-are-open/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-31, from: Neil Gaiman @ BlueSky)
+
+A really interesting list, and not the usual click bait. I think.
+
+https://www.standard.co.uk/shopping/esbest/books-dvds/best-fantasy-novels-of-all-time-b1135518.html
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkc3yqvm5526">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkc3yqvm5526</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkc3yqvm5526">Save to Pocket</a>
+</span>
+
+---
+
+## McCarty, Standlee, and Others Censured or Reprimanded
+
+date: 2024-01-31, from: Locus Magazine
+
+<p></p>
+<p>Worldcon Intellectual Property (W.I.P.), the California non-profit that holds the service marks of the World Science Fiction Society including “Hugo Award,” issued this statement in a press release on January 31, 2024:</p>
+<p>W.I.P. takes very seriously the recent complaints about the 2023 Hugo Award process and complaints about comments made by persons holding official positions in W.I.P. In connection with these concerns, W.I.P. announces the actions listed below. There may  <a href="https://locusmag.com/2024/01/mccarty-standlee-and-others-censured/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/mccarty-standlee-and-others-censured/">https://locusmag.com/2024/01/mccarty-standlee-and-others-censured/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/mccarty-standlee-and-others-censured/">Save to Pocket</a>
+</span>
+
+---
+
+## Alex Brown Reviews Skin Thief: Stories by Suzan Palumbo
+
+date: 2024-01-31, from: Locus Magazine
+
+<p><strong>Skin Thief: Stories</strong>, Suzan Palumbo (Neon Hem­lock Press 978-1-95208-672-4, $18.99, 186pp, tp) September 2023. Cover by Mia Minnis.</p>
+<p>Anytime a book published by Neon Hem­lock lands at my doorstep, I drop every­thing to read it. Every story is unique in content and powerful in its queerness. I never know what I’m going to get, except that it’s going to be good. When Brent Lambert’s <strong>A Necessary Chaos </strong>and Suzan  <a href="https://locusmag.com/2024/01/alex-brown-reviews-skin-thief-stories-by-suzan-palumbo/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/alex-brown-reviews-skin-thief-stories-by-suzan-palumbo/">https://locusmag.com/2024/01/alex-brown-reviews-skin-thief-stories-by-suzan-palumbo/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/alex-brown-reviews-skin-thief-stories-by-suzan-palumbo/">Save to Pocket</a>
+</span>
+
+---
+
+## How to Add Custom Metadata to the Scrivener Inspector
+
+date: 2024-01-31, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p>The Scrivener Inspector shows you information about the files and folders in your Scrivener projects and lets you add information about them as well. The Inspector has five sections: Synopsis &amp; Notes, Bookmarks, Metadata, Snapshots, and Comments &amp; Footnotes. See <a href="https://www.literatureandlatte.com/blog/get-to-know-the-scrivener-inspector" target="_blank">Get to Know the Scrivener Inspector</a> to learn more about these.</p>
+
+<p>The Metadata pane of the Scrivener Inspector is especially useful: it includes information such as the date a file was created and modified, whether it&#39;s included in Compile, and its section type for compiling. But you can also add custom metadata to this section of the Inspector, which can be helpful as you write and edit your projects. Here&#39;s how.</p>
+
+What is custom metadata?
+
+<p>Custom metadata is additional fields of information that you can add to items in your Scrivener project. Custom metadata applies to the project where you set it up, not to all your projects.</p>
+
+<p>To see the custom metadata that you can use, display the Inspector if it&#39;s not visible (View &gt; Show Inspector, or click the blue Inspector icon in the toolbar), then click the tag icon above the Inspector.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/metadata1.png" alt="" width="289" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Click the disclosure triangle to the left of Custom Metadata to see any metadata that has already been created, or to create new metadata.</p>
+
+<p>Click the ... icon to edit custom metadata. Click + at the top right of the dialogue to create a new metadata item. Type a title for your metadata, then click the Type menu. There are four options: Text, Checkbox, List, and Date.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/metadata3.png" alt="" width="864" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                The four types of custom metadata in Scrivener
+
+<p>There are four types of custom metadata that you can use in Scrivener. Here are your options.</p>
+
+<p><strong>Text</strong></p>
+
+<p>Text metadata could contain anything you want. If you set up text metadata, then double-click below that section in the Inspector, you can enter any text you want. For example, if you want to enter the name of a reviewer, you can do so by double-clicking the text field in its section of the Inspector.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/metadata4.png" alt="" width="150" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p><strong>Checkbox</strong></p>
+
+<p>Checkboxes are what you expect. You can use checkboxes to mark when you&#39;ve finished writing or revising individual chapters, or for any other time you wish to mark something as completed.</p>
+
+<p><strong>List</strong></p>
+
+<p>You can create a list, and then choose an item from that list in the Inspector. For example, you could choose point of view characters, locations, or any other repeating element that you wish to mark as you progress in your project. You could use a list for revision status, such as Draft 1, Draft 2, etc., for edit status, or to mark files in your project as reviewed by an external reviewer. <a href="https://www.literatureandlatte.com/blog/5-tips-for-using-labels-in-scrivener" target="_blank">You can also use labels for these purposes</a>, but some people prefer using custom metadata because you can display it in different ways, such as in the Outliner (see below).</p>
+
+<p>To set up list metadata options, use the bottom section of the Custom Metadata dialogue. Click + to add items to the list. You can also enter an item name when to use when nothing is chosen in the list if you want.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/metadata5.png" alt="" width="864" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>When you want to apply an item from this list to one or more items selected in the Binder, just click the list and select it.</p>
+
+<p><strong>Date</strong></p>
+
+<p>You can use custom metadata to indicate dates, which could be the date that you begin a file or complete it or when you send it to someone for review. You can also use this metadata to indicate dates in the timeline of your project; see Two Ways of Creating a Timeline for Your Scrivener Project to learn how to create a timeline with custom metadata. Note that the Date custom metadata gives you many formatting options for dates, including with times, and <a href="http://www.unicode.org/reports/tr35/tr35-dates.html#Date_Format_Patterns" target="_blank">you can customize date and time formats that comply with Unicode standards</a>.</p>
+
+<p>To apply date metadata, click the calendar icon in the metadata section and choose a date, a time, or a date and time, depending on what you chose when setting up the metadata.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/metadata6.png" alt="" width="450" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Here&#39;s how the Inspector looks with all four types of custom metadata:</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/metadata7.png" alt="" width="289" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Custom metadata displays in the order you create it, but you can change this order by dragging items in the custom metadata dialogue. If you want to re-order or edit your custom metadata, click the ... icon at the right of the Custom Metadata header to return to that dialogue.</p>
+
+How to use custom metadata in the Outliner
+
+<p>While custom metadata always displays in the Inspector, you can also choose to display it in the Outliner. If you select the top-level folder in the Binder or any folder containing files, then choose View &gt; Outline, you&#39;ll see these files in Outliner view. (See<a href="https://www.literatureandlatte.com/blog/plan-your-project-with-scriveners-outliner" target="_blank"> Plan Your Project with Scrivener&rsquo;s Outliner</a> for more on using the Outliner.) If you right-click in the Outliner header, a menu lets you choose which items get displayed in this view. Along with the standard items, such as Title, Label, Status, Keywords, etc., all your custom metadata displays at the bottom of this menu. For example, if you set up a list with your POV characters, and want to see that metadata in the Outliner, choose it when you right-click.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-images/metadata8.png" alt="" width="864" />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Custom metadata is a great way to get additional information about the elements of your Scrivener project, and tag items so you can see the metadata in the Outliner. Check this feature out; you may find that it&#39;s especially useful as you progress in a project and start looking at the bigger picture.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+
+
+<span class="feed-item-link">
+<a href="https://www.literatureandlatte.com/blog/how-to-add-custom-metadata-to-the-scrivener-inspector">https://www.literatureandlatte.com/blog/how-to-add-custom-metadata-to-the-scrivener-inspector</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.literatureandlatte.com/blog/how-to-add-custom-metadata-to-the-scrivener-inspector">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-30, from: Neil Gaiman @ BlueSky)
+
+Does anyone know Dominique Lichte?
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kka4pzsf7c2n">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kka4pzsf7c2n</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kka4pzsf7c2n">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-30, from: Neil Gaiman @ BlueSky)
+
+I just listened to this driving and it's an absolute delight. Also I learned so much.
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kka2rxuy5l2z">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kka2rxuy5l2z</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kka2rxuy5l2z">Save to Pocket</a>
+</span>
 
 ---
 

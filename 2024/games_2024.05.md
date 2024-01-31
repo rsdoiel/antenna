@@ -1,11 +1,119 @@
 ---
 title: games 2024.05
-updated: 2024-01-30 11:51:48
+updated: 2024-01-31 10:00:40
 ---
 
 # games 2024.05
 
-(date: 2024-01-30 11:51:48)
+(date: 2024-01-31 10:00:40)
+
+---
+
+## The Xbox controller gets yet another irresistible wave of new colors
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24056897/xbox-wireless-controller-vapor-collection-design-lab">https://www.polygon.com/deals/24056897/xbox-wireless-controller-vapor-collection-design-lab</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24056897/xbox-wireless-controller-vapor-collection-design-lab">Save to Pocket</a>
+</span>
+
+---
+
+## Where to watch PlayStation’s State of Play showcase
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24050316/playstation-state-of-play-2024-when-date-time">https://www.polygon.com/24050316/playstation-state-of-play-2024-when-date-time</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24050316/playstation-state-of-play-2024-when-date-time">Save to Pocket</a>
+</span>
+
+---
+
+## Vampire: The Masquerade – Bloodlines 2 gameplay comes out of the shadows
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24056948/vampire-the-masquerade-bloodlines-2-gameplay-reveal">https://www.polygon.com/24056948/vampire-the-masquerade-bloodlines-2-gameplay-reveal</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24056948/vampire-the-masquerade-bloodlines-2-gameplay-reveal">Save to Pocket</a>
+</span>
+
+---
+
+## The meta spy thriller Argylle is in on its own joke — and that’s the problem
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24056024/argylle-review-henry-cavill-bryce-dallas-howard-matthew-vaughn">https://www.polygon.com/24056024/argylle-review-henry-cavill-bryce-dallas-howard-matthew-vaughn</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24056024/argylle-review-henry-cavill-bryce-dallas-howard-matthew-vaughn">Save to Pocket</a>
+</span>
+
+---
+
+## PlayStation Plus’ February free games include Square Enix’s foam party and roller derby murder
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24048007/playstation-plus-february-2024-monthly-games">https://www.polygon.com/24048007/playstation-plus-february-2024-monthly-games</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24048007/playstation-plus-february-2024-monthly-games">Save to Pocket</a>
+</span>
+
+---
+
+## Tabletop revenue down for a second year on Kickstarter, Tabletop Analytics report shows
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24054381/kickstarter-top-10-biggest-most-backed-board-games-campaigns-2023">https://www.polygon.com/24054381/kickstarter-top-10-biggest-most-backed-board-games-campaigns-2023</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24054381/kickstarter-top-10-biggest-most-backed-board-games-campaigns-2023">Save to Pocket</a>
+</span>
+
+---
+
+## The best sci-fi TV to watch on Netflix
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/what-to-watch/24054463/best-sci-fi-tv-series-netflix-shows-watch-streaming">https://www.polygon.com/what-to-watch/24054463/best-sci-fi-tv-series-netflix-shows-watch-streaming</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/what-to-watch/24054463/best-sci-fi-tv-series-netflix-shows-watch-streaming">Save to Pocket</a>
+</span>
+
+---
+
+## Percy Jackson shouldn’t have explained it all away
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24055490/percy-jackson-olympians-disney-plus-review">https://www.polygon.com/reviews/24055490/percy-jackson-olympians-disney-plus-review</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24055490/percy-jackson-olympians-disney-plus-review">Save to Pocket</a>
+</span>
+
+---
+
+## Yes, there is a post-credits scene for Percy Jackson
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24054930/percy-jackson-and-the-olympians-disney-plus-post-credits">https://www.polygon.com/24054930/percy-jackson-and-the-olympians-disney-plus-post-credits</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24054930/percy-jackson-and-the-olympians-disney-plus-post-credits">Save to Pocket</a>
+</span>
 
 ---
 

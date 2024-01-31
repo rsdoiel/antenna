@@ -1,11 +1,11 @@
 ---
 title: tech likely 2024.05
-updated: 2024-01-30 11:51:48
+updated: 2024-01-31 10:00:40
 ---
 
 # tech likely 2024.05
 
-(date: 2024-01-30 11:51:48)
+(date: 2024-01-31 10:00:40)
 
 ---
 
@@ -41,6 +41,696 @@ Jaeger A.C.H.; Hartmann M.; Conz R.F.; Six J.; Solly E.F.
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/646227">http://hdl.handle.net/20.500.11850/646227</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/646227">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-31, from: Miguel de Icaza Mastondon feed)
+
+<p>I am due for an oil change.</p><p>For optimal performance, the manufacturer recommends changing the oil in your Xcode every 5,000 builds or every three months - whichever comes first.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111851844109669067">https://mastodon.social/@Migueldeicaza/111851844109669067</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111851844109669067">Save to Pocket</a>
+</span>
+
+---
+
+##  The oldest I&#8217;ve ever felt is just now when I learned that... 
+
+date: 2024-01-31, updated: 2024-01-31, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043891-the-oldest-ive-ever-felt">https://kottke.org/24/01/0043891-the-oldest-ive-ever-felt</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043891-the-oldest-ive-ever-felt">Save to Pocket</a>
+</span>
+
+---
+
+## The Diaper Spa
+
+date: 2024-01-31, updated: 2024-01-31, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/01/31/the-diaper-spa/">https://onefoottsunami.com/2024/01/31/the-diaper-spa/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/01/31/the-diaper-spa/">Save to Pocket</a>
+</span>
+
+---
+
+## Packages in MariaDB default mode
+
+date: 2024-01-31, from: Ocelot SQL GUI blog
+
+MariaDB 11.4 has a new feature: CREATE PACKAGE with routine syntax for the default mode as opposed to sql_mode=&#8217;Oracle&#8217;. It&#8217;s a well-written and long-desired feature but, since it&#8217;s alpha, a few things might still need change. I&#8217;ll say how it works, with details that aren&#8217;t in the manual and probably never will be. The point&#8230; <a class="continue" href="https://ocelot.ca/blog/blog/2024/01/31/packages-in-mariadb-default-mode/">Continue Reading Packages in MariaDB default mode</a>
+
+<span class="feed-item-link">
+<a href="https://ocelot.ca/blog/blog/2024/01/31/packages-in-mariadb-default-mode/">https://ocelot.ca/blog/blog/2024/01/31/packages-in-mariadb-default-mode/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://ocelot.ca/blog/blog/2024/01/31/packages-in-mariadb-default-mode/">Save to Pocket</a>
+</span>
+
+---
+
+##  Orion and the Dark 
+
+date: 2024-01-31, updated: 2024-01-31, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/orion-and-the-dark">https://kottke.org/24/01/orion-and-the-dark</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/orion-and-the-dark">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-31, from: Dave Winer's Scripting News)
+
+The Knicks <i>are</i> <a href="https://nypost.com/2024/01/31/sports/knicks-taking-fun-to-new-level-and-its-time-to-revel-in-it/">great</a> <a href="https://nypost.com/2024/01/31/sports/precious-achiuwa-has-another-big-night-in-knicks-blowout-win/">now</a>. They're exactly the Knicks we wanted, home-grown, smart, winners. Haven't felt this good about the team since <a href="https://www.google.com/search?q=site%3Ascripting.com+Linsanity">Linsanity</a>. “Next man up.”
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/31.html#a170636">http://scripting.com/2024/01/31.html#a170636</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/31.html#a170636">Save to Pocket</a>
+</span>
+
+---
+
+##  This guide to Gen Z & Gen Alpha slang from Parents magazine... 
+
+date: 2024-01-31, updated: 2024-01-31, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043887-this-guide-to-gen-z">https://kottke.org/24/01/0043887-this-guide-to-gen-z</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043887-this-guide-to-gen-z">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Puts Next-Gen Exoplanet-Imaging Technology to the Test
+
+date: 2024-01-31, from: NASA breaking news
+
+A cutting-edge tool to view planets outside our solar system has passed two key tests ahead of its launch as part of the agency’s Roman Space Telescope by 2027. The Coronagraph Instrument on NASA’s Nancy Grace Roman Space Telescope will demonstrate new technologies that could vastly increase the number of planets outside our solar system [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/roman-space-telescope/nasa-puts-next-gen-exoplanet-imaging-technology-to-the-test/">https://www.nasa.gov/missions/roman-space-telescope/nasa-puts-next-gen-exoplanet-imaging-technology-to-the-test/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/roman-space-telescope/nasa-puts-next-gen-exoplanet-imaging-technology-to-the-test/">Save to Pocket</a>
+</span>
+
+---
+
+## ASCII Theater
+
+date: 2024-01-31, from: Tilde.news
+
+<p><a href="https://tilde.news/s/6f7tp9/ascii_theater">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://ascii.theater/">https://ascii.theater/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://ascii.theater/">Save to Pocket</a>
+</span>
+
+---
+
+## IndieWeb Carnival: Digital Relationships
+
+date: 2024-01-31, from: Manu - I write blog
+
+<p>January is about to end. That means that January’s IndieWeb Carnival, hosted by <a href="https://foreverliketh.is">foreverliketh.is</a>, is also about to end. If you want to submit your entry on the topic of <a href="https://foreverliketh.is/blog/indieweb-carnival-january-2024-positive-internalization/">Positive Internalization</a> you should hurry up.</p>
+<p>As mentioned previously on this blog I’m going to host the next month and the topic for the month of February is going to be “Digital relationships”. The meaning of the topic is intentionally vague but I can think of at least three ways to interpret it.</p>
+<ul>
+<li>
+<p>The first is probably the most obvious: relationships between us human beings that are lived primarily—or entirely—on the digital world.</p>
+</li>
+<li>
+<p>The second is the relationship between us and the digital world itself.</p>
+</li>
+<li>
+<p>The third is the growing trend of people having relationships with digital creations such as AI fiends, boyfriends and girlfriends.</p>
+</li>
+</ul>
+<p>Those are three ways you can interpret the topic but don’t feel limited to just those three. Go nuts and be creative. This site doesn’t have pingbacks or webmentions so if you plan to participate send me a link to your entry via email. I’m going to accept everything that’s sent to me before March 1st and I plan to write at least one roundup post with your links. Look forward to read your entries and don’t forget to spread the word about the IndieWeb Carnival and if you want to get involved you can still become a host yourself. Just claim your spot here <a href="https://indieweb.org/indieweb-carnival">indieweb.org/indieweb-carnival</a></p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/jYflUjYwzJ8Z4hJE">https://manuelmoreale.com/@/page/jYflUjYwzJ8Z4hJE</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/jYflUjYwzJ8Z4hJE">Save to Pocket</a>
+</span>
+
+---
+
+##  Excited to see where Iconfactory&#8217;s Project Tapestry goes. &#8220;Weaving your favorite blogs,... 
+
+date: 2024-01-31, updated: 2024-01-31, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043888-excited-to-see-where-icon">https://kottke.org/24/01/0043888-excited-to-see-where-icon</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043888-excited-to-see-where-icon">Save to Pocket</a>
+</span>
+
+---
+
+## How to meet readers where they are (when where they are is offline)
+
+date: 2024-01-31, from: Nieman Journalism Lab
+
+Last November, Estella, a woman in The Bronx, didn’t have any heat in her apartment. Winter had just begun and she was cold, but she didn’t know what to do about it. Then she got a postcard from The City, a local nonprofit newsroom covering New York City’s five boroughs. The card told her she...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/how-to-meet-readers-where-they-are-when-where-they-are-is-offline/">https://www.niemanlab.org/2024/01/how-to-meet-readers-where-they-are-when-where-they-are-is-offline/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/how-to-meet-readers-where-they-are-when-where-they-are-is-offline/">Save to Pocket</a>
+</span>
+
+---
+
+## Using Deno Subhosting vs. AWS Lambda to Run Untrusted User Code
+
+date: 2024-01-31, updated: 2024-01-31, from: Deno blog
+
+Which technology is best for building a deployment platform for running third party code? Let's dive into the key differences in feature set, billing model, and performance.
+
+<span class="feed-item-link">
+<a href="https://deno.com/blog/subhosting-vs-lambda">https://deno.com/blog/subhosting-vs-lambda</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://deno.com/blog/subhosting-vs-lambda">Save to Pocket</a>
+</span>
+
+---
+
+## Plants Find Light Using Gaps Between Their Cells
+
+date: 2024-01-31, from: Quanta Magazine
+
+A mutant seedling revealed how plant tissues scatter incoming light, allowing plants to sense its direction and move toward it.            <p>The post <a href="https://www.quantamagazine.org/plants-find-light-using-gaps-between-their-cells-20240131/" target="_blank">Plants Find Light Using Gaps Between Their Cells</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/plants-find-light-using-gaps-between-their-cells-20240131/">https://www.quantamagazine.org/plants-find-light-using-gaps-between-their-cells-20240131/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/plants-find-light-using-gaps-between-their-cells-20240131/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-31, from: Dave Winer's Scripting News)
+
+As I was writing the post about using ChatGPT to port Frontier, which is a C program, runs on Mac and Windows, GPL licensed, to Linux. This took me to an interesting place. Could a bot, having read all the source code of MySQL, for example, then be tasked with writing a non-GPL MySQL workalike that would <i>not</i> be open source? Here's a <a href="https://en.wikipedia.org/wiki/Category:Software_using_the_GPL_license">list</a> of popular GPL-licensed software.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/31.html#a150014">http://scripting.com/2024/01/31.html#a150014</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/31.html#a150014">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-31, from: Dave Winer's Scripting News)
+
+JY Stervinou has a <a href="https://github.com/scripting/Scripting-News/issues/290">suggestion</a> re the Forever problem.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/31.html#a145412">http://scripting.com/2024/01/31.html#a145412</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/31.html#a145412">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-31, from: Dave Winer's Scripting News)
+
+After my experience creating an Ace editor instance in a Bootstrap modal dialog, which I narrated in a <a href="http://scripting.com/2024/01/28/172149.html">blog post</a> and in the <a href="https://chat.openai.com/share/840e8159-9988-4159-8289-5167d6fb78c8">transcript</a> with ChatGPT, I had a flash that maybe I could figure out how to use ChatGPT to port <a href="http://frontier.userland.com">Frontier</a> to Linux. The code still runs on reasonably current Macs, but not the latest. I really should be working on Linux not Mac. If it weren't for my dependence on Frontier, I would be. I actually think ChatGPT might be a great programming partner for a meaty operating-system-like project like this.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/31.html#a145010">http://scripting.com/2024/01/31.html#a145010</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/31.html#a145010">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-31, from: Dave Winer's Scripting News)
+
+I just started a <a href="https://feedland.com/?username=davewiner&catname=ai">FeedLand category</a> for AI. Only one feed in there so far. I just want be sure I'm reading all the interesting stuff as it comes out.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/31.html#a144945">http://scripting.com/2024/01/31.html#a144945</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/31.html#a144945">Save to Pocket</a>
+</span>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-01-31, from: Tomosino's Mastodon feed)
+
+<p>roll for initiative!</p>
+
+<span class="feed-item-link">
+<a href="https://tilde.zone/@tomasino/111851023916184752">https://tilde.zone/@tomasino/111851023916184752</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tilde.zone/@tomasino/111851023916184752">Save to Pocket</a>
+</span>
+
+---
+
+## Some activities are harder than others
+
+date: 2024-01-31, from: Alex Schroeder's Blog
+
+<h1>Some activities are harder than others</h1>
+
+<p>Or, why <a href="2022-03-04_It_is_not_too_late_to_bake_bread">baking bread</a> is easy compared to many other activities.</p>
+
+<p>A recent conversation with <a class="account" href="https://zirk.us/@Mayobrot" title="@Mayobrot@zirk.us">@Mayobrot</a> made me think about the fear of doing things. I&rsquo;m thinking that there are activities that are inherently easier to perform than others because of the natural environment. In speaking about them, however, we use categories that do not differentiate between the two and so we transfer our fears from one category to the other.</p>
+
+<p>Here are some examples from my personal life: I think programming and soldering and model planes are difficult activities because small differences have big impacts. On the other hand, cooking or baking, or taking care of plants are comparatively easy activities because small differences often don&rsquo;t have a large impact.</p>
+
+<p>Take the question of how long you should bake bread. In my oven, with my settings, it seems that anything between 30 min and 90 min results in edible bread. The temperature can vary between 160°C and 220°C and if I&rsquo;m looking into the oven every now and then this results in edible bread. Varying ingredients by ±10% and more results in edible bread.</p>
+
+<p>The same is true for watering plants, potting plants and all that connects to. Plants adapt. Errors don&rsquo;t accumulate but instead they average out. To much or too little water means it&rsquo;s going to be OK on average.</p>
+
+<p>This is not how software works. Its bugs bugs bugs and they never average out to a nice user experience.</p>
+
+<p>When family asks me about bugs in programming, I tell them that the problem is that we need to put everything into the program: gravity, air resistance, the floor… In real life we don&rsquo;t. Walking is easy because if we push of harder we don&rsquo;t yeet ourselves into the sun. We just bounce a little higher and then we&rsquo;re back on the ground. And we don&rsquo;t fall towards the centre of the Earth as in some 3d model glitch in a game. No, the ground is always there. If we speed up, there&rsquo;s friction to slow us down again. So physics stabilizes many things.</p>
+
+<p>Chemistry stabilizes many things, too. If we use up the oxygen in our room, we don&rsquo;t just go go go and then we die because the oxygen concentration goes down slowly. We get less oxygen, we move slower, we have more time to get out.</p>
+
+<p>And biology stabilizes things, too. We call it homeostasis. You exercise, burning up sugar. Sugar goes down, fat gets mobilized, allowing your body to continue. And then there are a hundred feedback loops for everything to keep your body from falling apart. Of course eventually we all do, but still.</p>
+
+<p>I guess what I really was trying to say is that there are some activities like baking bread that seem hard because you think that baking bread is probably related to model air-planes and if you struggle with the tweezers and glue and all that, surely you will struggle with the ingredients of that dish, too. But that is not so. Usually, you can mess up ingredients pretty badly and results are still edible, or even tasty! They might not be repeatable, but who cares if you&rsquo;re not a chef in a restaurant. It&rsquo;s tasty and you eat it. It&rsquo;s great.</p>
+
+<p><a class="tag" href="/search/?q=%23Philosophy">#Philosophy</a></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-01-31-activities">https://alexschroeder.ch/view/2024-01-31-activities</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-01-31-activities">Save to Pocket</a>
+</span>
+
+---
+
+## ScratchMonkey is a sketch that turns your Arduino into a versatile programmer
+
+date: 2024-01-31, from: Tilde.news
+
+<p><a href="https://tilde.news/s/2yzrof/scratchmonkey_is_sketch_turns_your">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://microtherion.github.io/ScratchMonkey/">https://microtherion.github.io/ScratchMonkey/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://microtherion.github.io/ScratchMonkey/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s Fission Surface Power Project Energizes Lunar Exploration
+
+date: 2024-01-31, from: NASA breaking news
+
+NASA is wrapping up the initial phase of its&#160;Fission Surface Power Project, which focused on developing concept designs for a small, electricity-generating nuclear fission reactor that could be used during a future demonstration on the Moon and to inform future designs for Mars. NASA awarded three $5 million contracts in 2022, tasking each commercial partner [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/glenn/nasas-fission-surface-power-project-energizes-lunar-exploration/">https://www.nasa.gov/centers-and-facilities/glenn/nasas-fission-surface-power-project-energizes-lunar-exploration/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/glenn/nasas-fission-surface-power-project-energizes-lunar-exploration/">Save to Pocket</a>
+</span>
+
+---
+
+## FAQ
+
+date: 2024-01-31, from: mrusme blog
+
+This page is a collection of some of the most asked questions by people who
+got in touch with me, and my answers to them.
+
+<span class="feed-item-link">
+<a href="https://xn--gckvb8fzb.com/faq/">https://xn--gckvb8fzb.com/faq/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://xn--gckvb8fzb.com/faq/">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Observes a Galactic Distortion
+
+date: 2024-01-31, from: NASA breaking news
+
+The galaxy NGC 5427 shines in this new NASA Hubble Space Telescope image. It’s part of the galaxy pair Arp 271, and its companion NGC 5426 is located below this galaxy and outside of this image’s frame. However, the effects of the pair’s gravitational attraction is visible in the galactic distortion and cosmic bridge of […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/hubble-observes-a-galactic-distortion/">https://science.nasa.gov/missions/hubble/hubble-observes-a-galactic-distortion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/hubble-observes-a-galactic-distortion/">Save to Pocket</a>
+</span>
+
+---
+
+## OSC52: My Cut & Paste Journey
+
+date: 2024-01-31, from: Miek Giebin blog
+
+In the olden days with X11, you could just do x11-forwarding in SSH and remote cut and paste would work. Now with Wayland, this is all broken and supposedly &ldquo;there are better ways of doing it&rdquo;. One of those is OSC52 support in terminals, but not in VTE based ones, like Tilix, which is was my default terminal. (See https://gitlab.gnome.org/GNOME/vte/-/issues/2495 for the 5(!) year old bug).
+So I wanted this to work, which meant changing terminal and configuring Neovim - where the latter was way more complex, hard to debug and reason about.
+
+<span class="feed-item-link">
+<a href="https://miek.nl/2024/january/31/osc52-my-cut-paste-journey/">https://miek.nl/2024/january/31/osc52-my-cut-paste-journey/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://miek.nl/2024/january/31/osc52-my-cut-paste-journey/">Save to Pocket</a>
+</span>
+
+---
+
+## A big bang update for TensorFlow Lite for Microcontrollers
+
+date: 2024-01-31, from: Raspberry Pi News (.com)
+
+<p>A huge update for the RP2040 port of TensorFlow Lite for Microcontrollers; now with dual-core support, RP2040 is your new go-to platform for tiny machine learning.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/a-big-bang-update-for-tensorflow-lite-for-microcontrollers/">A big bang update for TensorFlow Lite for Microcontrollers</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/a-big-bang-update-for-tensorflow-lite-for-microcontrollers/">https://www.raspberrypi.com/news/a-big-bang-update-for-tensorflow-lite-for-microcontrollers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/a-big-bang-update-for-tensorflow-lite-for-microcontrollers/">Save to Pocket</a>
+</span>
+
+---
+
+## Conspiracy
+
+date: 2024-01-31, from: Status-Q blog
+
+John Naughton quoted this on his blog, but it&#8217;s so good I had to repeat it here. Two Donald Trump supporters die and go to heaven. God meets them at the Pearly Gates. &#8220;Tell us,&#8221; they say, &#8220;what were the real results of the 2020 election, and who was behind the fraud?&#8221; God answers: &#8220;My <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/01/31/11928/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>
+
+<span class="feed-item-link">
+<a href="https://statusq.org/archives/2024/01/31/11928/">https://statusq.org/archives/2024/01/31/11928/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://statusq.org/archives/2024/01/31/11928/">Save to Pocket</a>
+</span>
+
+---
+
+## Crunchbang++ versus Bunsen Labs: the pair turn it up to 12
+
+date: 2024-01-31, updated: 2024-01-31, from: Liam Proven's articles at the Register
+
+<h4>Lightweight rivals, both based on Crunchbang, OpenBox, and Debian</h4>
+      <p>Crunchbang++ and Bunsen Labs each aim to continue the tradition of the very lightweight Crunchbang Linux, although both distros have thickened around the waist a bit over the years.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/31/crunchbang_versus_bunsen_labs/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/31/crunchbang_versus_bunsen_labs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/01/31/crunchbang_versus_bunsen_labs/">Save to Pocket</a>
+</span>
+
+---
+
+## How many birds do wind farms kill?
+
+date: 2024-01-31, from: Hannah Richie at Substack
+
+Wind farms kill far less than other hazards, but there are still ways that we can reduce them.
+
+<span class="feed-item-link">
+<a href="https://www.sustainabilitybynumbers.com/p/wind-power-bird-deaths">https://www.sustainabilitybynumbers.com/p/wind-power-bird-deaths</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.sustainabilitybynumbers.com/p/wind-power-bird-deaths">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Releases STEM Toolkit for Advanced Air Mobility
+
+date: 2024-01-31, from: NASA breaking news
+
+NASA Aeronautics has released a new STEM toolkit focusing on Advanced Air Mobility for educators and students of all ages. The toolkit, comprised of numerous educational activities, is a free resource for anyone who is interested in learning more about the Advanced Air Mobility mission’s goal of enabling the use of drones and other new [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/aeronautics/aam-stem-toolkit-released/">https://www.nasa.gov/aeronautics/aam-stem-toolkit-released/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/aeronautics/aam-stem-toolkit-released/">Save to Pocket</a>
+</span>
+
+---
+
+## Raspberry Pi IPO: Selling out?
+
+date: 2024-01-31, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Raspberry Pi IPO: Selling out?</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/pi-hundred-dollar-bill-8bit.png" width="500" height="auto" class="insert-image" alt="Raspberry Pi 5 blended into 100 dollar bill USD" /></p>
+
+<p><a href="https://www.bloomberg.com/news/articles/2024-01-29/raspberry-pi-picks-banks-for-ipo-choosing-london-over-new-york">Raspberry Pi is looking into an IPO</a> (Initial Public Offering).</p>
+
+<p>But wait, Raspberry Pi's a non-profit! They can't do that? And who would want stock in Raspberry Pi anyway? Their core market hates them—they abandoned hobbyists and makers years ago!</p>
+
+<p>And there are like tons of clones and competitors, nobody even needs Raspberry Pi? Plus, aren't they crazy-expensive? It's like a hundred bucks now, and that's if you can even find one to buy!</p>
+
+<p>Well, hold on a second... there are a <em>lotta</em> misconceptions out there. In this post, I'll walk through what's actually happening, and also through things I see online.</p>
+
+<blockquote>
+  <p>This blog post is a lightly-edited transcript of a video on my YouTube channel, which you can watch below:</p></blockquote></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-01-30T21:37:17-06:00" title="Tuesday, January 30, 2024 - 21:37" class="datetime">January 30, 2024</time></span>
+
+<span class="feed-item-link">
+<a href="https://www.jeffgeerling.com/blog/2024/raspberry-pi-ipo-selling-out">https://www.jeffgeerling.com/blog/2024/raspberry-pi-ipo-selling-out</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jeffgeerling.com/blog/2024/raspberry-pi-ipo-selling-out">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-31, from: Miguel de Icaza Mastondon feed)
+
+<p>Found this bottle in a cabinet, and it is a gift of the gods.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111847720113432223">https://mastodon.social/@Migueldeicaza/111847720113432223</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111847720113432223">Save to Pocket</a>
+</span>
+
+---
+
+## The Performance Inequality Gap, 2024
+
+date: 2024-01-31, updated: 2024-01-31, from: Alex Russel's blog
+
+
+
+<span class="feed-item-link">
+<a href="https://infrequently.org/2024/01/performance-inequality-gap-2024/">https://infrequently.org/2024/01/performance-inequality-gap-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://infrequently.org/2024/01/performance-inequality-gap-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## PgBouncer 1.22.0 released
+
+date: 2024-01-31, from: PostgreSQL News
+
+<p>PgBouncer 1.22.0 has been released. The main feature this release adds is
+support for the <code>DISCARD ALL</code> and <code>DEALLOCATE ALL</code> commands when enabling
+prepared statement support in transaction pooling mode (by setting
+<code>max_prepared_statements</code> to a non-zero value). This is an important improvement
+in the prepared statement support that clears the road for us to be able to
+enable prepared statement support by default in a future release.</p>
+<p>Other than that this release contains some small improvements and bugfixes,
+including improvements to our recommended SystemD configuration files.</p>
+<p>See <a href="https://www.pgbouncer.org/2024/01/pgbouncer-1-22-0">https://www.pgbouncer.org/2024/01/pgbouncer-1-22-0</a> for more information, the detailed changelog, and download links.</p>
+<p>PgBouncer is a lightweight connection pooler for PostgreSQL.</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/pgbouncer-1220-released-2802/">https://www.postgresql.org/about/news/pgbouncer-1220-released-2802/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pgbouncer-1220-released-2802/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-30, from: Miguel de Icaza Mastondon feed)
+
+<p>Preparing myself for the Apple Vision Pro launch</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111847561674328906">https://mastodon.social/@Migueldeicaza/111847561674328906</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111847561674328906">Save to Pocket</a>
+</span>
+
+---
+
+## Patriotism in popular music
+
+date: 2024-01-30, from: Alex Schroeder's Blog
+
+<h1>Patriotism in popular music</h1>
+
+<p>Patriotism is a terrible topic for a song. That’s what makes me cringe when I listen to Preciosa Puerto Rico by Marc Anthony. But when that tempo change in the middle around the 3min mark comes up, it just makes me want to get up and shout with jubilation! It is only later that I wonder: what if this had been a German singing about Germany (substitute your own boogeyman). 😩</p>
+
+<p>I am convinced: patriotism is an illusion used to achieve something. It might be something good, a national infrastructure project, but inevitably it will be used for evil. But that song … ah, it melts my heart!</p>
+
+<p>Beware small-patriotism. It starts with homesickness, longing for the places and culture you grew up in, which is valid, no doubt, but when you add pride or that feeling of belonging to the mix, it starts getting tricky. Who decides who belongs?</p>
+
+<p>As a perpetual foreigner, that feeling of belonging always comes with an exclusionary element, in my experience. The Swiss celebrate Switzerland, and their independence from the Austrians and the Germans. The Austrians celebrate Austria and think that the Slovenian road names have to go. There&rsquo;s always somebody on the other side of the fence. But I know relatives in Portugal, France, Germany, Austria, Croatia, and there are more relatives that I haven&rsquo;t met. So yes, there can be as moment of pride for living in a place where this or that works well, or where the landscape is beautiful, or where you feel the people are nice, or the food is good, a moment where you&rsquo;re not thinking too hard about it all – but that moment is fleeting, and the abyss is huge. Patriotism and nationalism are not only about that fleeting moment.</p>
+
+<p><a class="tag" href="/search/?q=%23Politics">#Politics</a></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-01-30-patriotism">https://alexschroeder.ch/view/2024-01-30-patriotism</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-01-30-patriotism">Save to Pocket</a>
+</span>
+
+---
+
+## Raspberry Pi is planning a London IPO, but its CEO expects “no change” in focus
+
+date: 2024-01-30, from: OS News
+
+The business arm of Raspberry Pi is preparing to make an initial public offering (IPO) in London. CEO Eben Upton tells Ars that should the IPO happen, it will let Raspberry Pi&#8217;s not-for-profit side expand by &#8220;at least a factor of 2X.&#8221; And while it&#8217;s &#8220;an understandable thing&#8221; that Raspberry Pi enthusiasts could be concerned, &#8220;while I&#8217;m involved in running the thing, I don&#8217;t expect people to see any change in how we do things.&#8221; ↫ Kevin Purdy at Ars Technica Expect changes in how they do things.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138480/raspberry-pi-is-planning-a-london-ipo-but-its-ceo-expects-no-change-in-focus/">https://www.osnews.com/story/138480/raspberry-pi-is-planning-a-london-ipo-but-its-ceo-expects-no-change-in-focus/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138480/raspberry-pi-is-planning-a-london-ipo-but-its-ceo-expects-no-change-in-focus/">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Vision Pro review: magic, until it’s not
+
+date: 2024-01-30, from: OS News
+
+A number of reviews for Apple&#8217;s new VR headset have been published, but the only one I think is worth reading is, surprisingly, the one published by The Verge. Both the written and video review are excellent, and go into every possible little detail of the new device. Nilay Patel concludes: The basic gist is that the Vision Pro is simply cumbersome and unpleasant to use, exactly what many people have been suspecting since the day it was unveiled. I&#8217;ve been asking a very simple question on Mastodon nobody has been able to answer yet: is there anything you do on your phone, laptop, or desktop, that the Vision Pro can do better, easier, quicker? Now that the reviews are here, not even the people using it can provide an answer. And think about that last point in the list above. It&#8217;s a private computer that&#8217;s always looking at your hands.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138477/apple-vision-pro-review-magic-until-its-not/">https://www.osnews.com/story/138477/apple-vision-pro-review-magic-until-its-not/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138477/apple-vision-pro-review-magic-until-its-not/">Save to Pocket</a>
+</span>
+
+---
+
+##  How did you know it was time [to quit]? &#8220;The game tells... 
+
+date: 2024-01-30, updated: 2024-01-30, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043884-how-did-you-know-it">https://kottke.org/24/01/0043884-how-did-you-know-it</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043884-how-did-you-know-it">Save to Pocket</a>
+</span>
+
+---
+
+## wp-admin
+
+date: 2024-01-30, from: mrusme blog
+
+
+
+<span class="feed-item-link">
+<a href="https://xn--gckvb8fzb.com/wp-admin/">https://xn--gckvb8fzb.com/wp-admin/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://xn--gckvb8fzb.com/wp-admin/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Extends Goddard Logistics, Technical Information Services Contract
+
+date: 2024-01-30, from: NASA breaking news
+
+NASA has awarded a contract extension to TRAX International Corporation of Las Vegas for the Goddard Logistics and Technical Information II (GLTI II) services contract. GLTI II is a cost-plus, fixed-fee contract extension including technical performance incentive fees with a six-month base beginning Jan. 31, 2024, and three one-month options. The total potential award if [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-extends-goddard-logistics-technical-information-services-contract/">https://www.nasa.gov/news-release/nasa-extends-goddard-logistics-technical-information-services-contract/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-extends-goddard-logistics-technical-information-services-contract/">Save to Pocket</a>
+</span>
+
+---
+
+##  Jamelle Bouie provides some historical context re: the 14th Amendment. &#8220;Both the... 
+
+date: 2024-01-30, updated: 2024-01-30, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043883-jamelle-bouie-provides-so">https://kottke.org/24/01/0043883-jamelle-bouie-provides-so</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043883-jamelle-bouie-provides-so">Save to Pocket</a>
+</span>
+
+---
+
+## Those Are the Worst Kind
+
+date: 2024-01-30, updated: 2024-01-30, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/01/30/those-are-the-worst-kind/">https://onefoottsunami.com/2024/01/30/those-are-the-worst-kind/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/01/30/those-are-the-worst-kind/">Save to Pocket</a>
+</span>
+
+---
+
+## IFTTT Killing Legacy Pro Plan
+
+date: 2024-01-30, from: Michael Tsai
+
+Ben Patterson (via Hacker News): Remember when IFTTT said it would allow its legacy users to set their own prices for the service&#8217;s &#8220;pro&#8221; plan, and that it would honor those prices &#8220;forever&#8221;? Well, it turns out &#8220;forever&#8221; has an expiration date.In a message posted on its website, IFTTT just announced that its pay-what-you-want legacy [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/30/ifttt-killing-legacy-pro-plan/">https://mjtsai.com/blog/2024/01/30/ifttt-killing-legacy-pro-plan/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/30/ifttt-killing-legacy-pro-plan/">Save to Pocket</a>
+</span>
+
+---
+
+## In Loving Memory of Square Checkbox
+
+date: 2024-01-30, from: Michael Tsai
+
+Nikita Prokopov (Hacker News): As you can see, even the checkmark wasn&#8217;t always there. But one thing remained constant: checkboxes were square.Why square? Because that&#8217;s how you can tell them from radio buttons[&#8230;][&#8230;]You see, people on the Web think conventions are boring. That regular controls need to be reinvented and redesigned. They don&#8217;t believe there [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/30/in-loving-memory-of-square-checkbox/">https://mjtsai.com/blog/2024/01/30/in-loving-memory-of-square-checkbox/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/30/in-loving-memory-of-square-checkbox/">Save to Pocket</a>
+</span>
+
+---
+
+## Portable EPUBs
+
+date: 2024-01-30, from: Michael Tsai
+
+Will Crichton (via Hacker News): Despite decades of advances in document rendering technology, most of the world&#8217;s documents are stuck in the 1990s due to the limitations of PDF. Yet, modern document formats like HTML have yet to provide a competitive alternative to PDF. This post explores what prevents HTML documents from being portable, and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/30/portable-epubs/">https://mjtsai.com/blog/2024/01/30/portable-epubs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/30/portable-epubs/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Science, Hardware on Northrop Grumman Mission En Route to Station
+
+date: 2024-01-30, from: NASA breaking news
+
+NASA science investigations and cargo aboard a Northrop Grumman resupply spacecraft are on the way to the International Space Station. Launch occurred at 12:07 p.m. EST Tuesday on a SpaceX Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. Live coverage of the spacecraft’s arrival will begin at [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-science-hardware-on-northrop-grumman-mission-en-route-to-station/">https://www.nasa.gov/news-release/nasa-science-hardware-on-northrop-grumman-mission-en-route-to-station/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-science-hardware-on-northrop-grumman-mission-en-route-to-station/">Save to Pocket</a>
+</span>
+
+---
+
+##  ASCII Theater: stream movies in ASCII in your terminal. Now showing: Barbie.... 
+
+date: 2024-01-30, updated: 2024-01-30, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043885-ascii-theater-stream-movi">https://kottke.org/24/01/0043885-ascii-theater-stream-movi</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043885-ascii-theater-stream-movi">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Celebrates First Decade of International Asteroid Warning Network
+
+date: 2024-01-30, from: NASA breaking news
+
+On January 13-14, 2014, representatives from NASA and various global research organizations convened the first meeting of the International Asteroid Warning Network (IAWN) steering committee. This group was charged with strengthening coordinated international response to a potentially hazardous near-Earth object (NEO). One decade, 17 meetings, and five global exercises later, IAWN continues to build collaboration […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/directorates/smd/nasa-celebrates-first-decade-of-international-asteroid-warning-network/">https://science.nasa.gov/directorates/smd/nasa-celebrates-first-decade-of-international-asteroid-warning-network/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/directorates/smd/nasa-celebrates-first-decade-of-international-asteroid-warning-network/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-01-30, from: Miguel de Icaza Mastondon feed)
+
+<p>The Revolution Will Be Carried Out From the Couch.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111846669955150025">https://mastodon.social/@Migueldeicaza/111846669955150025</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111846669955150025">Save to Pocket</a>
+</span>
+
+---
+
+## The Garrison Project wants to bridge the gap between national and local criminal justice reporting
+
+date: 2024-01-30, from: Nieman Journalism Lab
+
+The Garrison Project is not your standard digital news organization. It&#8217;s produced a total of 48 stories about criminal justice issues in a bit more than two years — hardly the publishing pace of a typical startup. You can read those articles on its website, but their presence there feels almost perfunctory. It produces local...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/the-garrison-project-wants-to-bridge-the-gap-between-national-and-local-criminal-justice-reporting/">https://www.niemanlab.org/2024/01/the-garrison-project-wants-to-bridge-the-gap-between-national-and-local-criminal-justice-reporting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/the-garrison-project-wants-to-bridge-the-gap-between-national-and-local-criminal-justice-reporting/">Save to Pocket</a>
+</span>
+
+---
+
+## International Space Station Welcomes Trio of Experiments Focused on Enhancing Life Beyond Earth
+
+date: 2024-01-30, from: NASA breaking news
+
+NASA’s Biological and Physical Sciences Division is sending three physical sciences and space biology experiments and equipment to the International Space Station aboard Northrop Grumman’s 20th commercial resupply services mission. These experiments aim to pioneer scientific discovery, enable sustainable deep space exploration, and support transformative engineering. The launch is scheduled to take place no earlier […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/science-research/biological-physical-sciences/international-space-station-welcomes-trio-of-experiments-focused-on-enhancing-life-beyond-earth/">https://science.nasa.gov/science-research/biological-physical-sciences/international-space-station-welcomes-trio-of-experiments-focused-on-enhancing-life-beyond-earth/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/science-research/biological-physical-sciences/international-space-station-welcomes-trio-of-experiments-focused-on-enhancing-life-beyond-earth/">Save to Pocket</a>
+</span>
+
+---
+
+## A student newspaper in Iowa just bought two local weeklies
+
+date: 2024-01-30, from: Nieman Journalism Lab
+
+Student journalists in Iowa will now have more chances to hone their reporting skills while strengthening local news. The Daily Iowan, the University of Iowa&#8217;s independent student newspaper, has purchased two weekly local newspapers in the state, per an announcement on Monday. Media company Woodward Communications sold the Mount Vernon-Lisbon Sun and Solon Economist to...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/a-student-newspaper-in-iowa-just-bought-two-local-weeklies/">https://www.niemanlab.org/2024/01/a-student-newspaper-in-iowa-just-bought-two-local-weeklies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/a-student-newspaper-in-iowa-just-bought-two-local-weeklies/">Save to Pocket</a>
 </span>
 
 ---
@@ -745,10 +1435,10 @@ date: 2024-01-30, from: Stu Maschwitz blog
 <p>Many other systems work like this, including <a href="https://luma-touch.com">LumaFusion</a>, which <a href="https://www.youtube.com/watch?v=ZLtNJ8DbQrQ">ships with</a> Prolost Apple Log LUTs.</p>
 <p>The key is <a href="https://prolost.com/blog/applelog">color correcting under the LUT</a>.</p>
 <h3 id="bring-apple-log-into-an-existing-workflow">Bring Apple Log into an Existing Workflow</h3>
-<p>Color work is often done in some intermediate color space. This is usually some kind of wide-gamut, log format, such as Davinci Wide Gamut/Intermediate, or one of the <a href="https://prolost.com/blog/aces">ACES log spaces</a>.</p>
-<p>The Prolost <strong>ACES</strong> LUTs simply convert Apple Log to either ACEScc or ACEScct log, allowing you to grade your iPhone footage alongside any other professional camera, and output them all through the same pipeline.</p>
+<p>Color work is often done in an intermediate color space. This is usually some kind of wide-gamut, log format, such as Davinci Wide Gamut/Intermediate, or one of the <a href="https://prolost.com/blog/aces">ACES log spaces</a>.</p>
+<p>The Prolost <strong>ACES</strong> LUTs convert Apple Log to either ACEScc or ACEScct log, allowing you to grade your iPhone footage alongside any other professional camera, and output them all through the same pipeline.</p>
 <h3 id="shooting-through-a-lut">Shooting Through a LUT</h3>
-<p>The Blackmagic Camera app allows you to load any LUTs you want and view through them without baking them into your footage. With my LUTs, you can shoot with the same LUTs you grade under later, for a truly professional (no joke!) workflow.</p>
+<p>The Blackmagic Camera app allows you to load any LUTs you want and preview through them without baking them into your footage. With my LUTs, you can shoot with the same LUTs you grade under later, for a truly professional (no joke!) workflow.</p>
 <p>The real stars of this update though are the <strong>FC</strong> LUTs. They add an informative False Color overlay to the Shoot/Grade LUTs, making sure you always nail your exposure. Watch the video to see them in action. I already can’t imagine shooting without them.</p>
 <p>These LUTs work well in Blackmagic Camera or even on an external HDMI monitor.</p>
 
@@ -1601,8 +2291,8 @@ To reiterate the point from the earlier post, in the short term, and even in the
 
 date: 2024-01-30, from: Marginallia log
 
-I get significantly more work done when I unplug my computer from the Internet.
-Despite many of the tools that I use requiring a connection, and certainly the Internet containing a wealth of information that might expedite my work, these benefits are drastically outweighed by the wealth of distractions also availabe.
+I get significantly more work done when I unplug my computer from the Internet. It&rsquo;s not that my productive output drops to zero when I&rsquo;m plugged in, but more like 70%.
+Despite many of the tools that I use requiring a connection, and certainly the Internet containing a wealth of information that might expedite my work, these benefits are drastically outweighed by the wealth of distractions also available.
 It&rsquo;s very appealing, when the code is compiling or the docker containers restarting, to sneak open a browser tab with hacker news, or the Χ formerly known as Twitter, youtube, or something else to pass those minutes.
 
 <span class="feed-item-link">

@@ -1,11 +1,77 @@
 ---
 title: mid central 2024.05
-updated: 2024-01-30 11:51:48
+updated: 2024-01-31 10:00:40
 ---
 
 # mid central 2024.05
 
-(date: 2024-01-30 11:51:48)
+(date: 2024-01-31 10:00:40)
+
+---
+
+## Through Trials and Grief, Finding a Supportive Home at Merced College
+
+date: 2024-01-31, from: Blue Devil News (Merced Community College Student Newspaper)
+
+<p>Merced College has nurtured two generations of Matt Escobar’s family. The college’s Community Education Coordinator graduated here with one of his twin daughters, a dual-enrollment success story, and spoke at&#8230;</p>
+<p>The post <a href="https://www.mccd.edu/news/through-trials-and-grief-finding-a-supportive-home-at-merced-college/">Through Trials and Grief, Finding a Supportive Home at Merced College</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.mccd.edu/news/through-trials-and-grief-finding-a-supportive-home-at-merced-college/">https://www.mccd.edu/news/through-trials-and-grief-finding-a-supportive-home-at-merced-college/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mccd.edu/news/through-trials-and-grief-finding-a-supportive-home-at-merced-college/">Save to Pocket</a>
+</span>
+
+---
+
+## Prosumer and professional cameras: High video quality, but a connectivity vulnerability
+
+date: 2024-01-31, from: EDN Blog
+
+<img width="1400" height="1048" src="https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?fit=1400%2C1048" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Connect a camera to an external display with any variance from a specific sequence and you might fry one or both devices’ video interfaces. </p>
+<p>The post <a href="https://www.edn.com/prosumer-and-professional-cameras-high-video-quality-but-a-connectivity-vulnerability/" data-wpel-link="internal">Prosumer and professional cameras: High video quality, but a connectivity vulnerability</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/prosumer-and-professional-cameras-high-video-quality-but-a-connectivity-vulnerability/">https://www.edn.com/prosumer-and-professional-cameras-high-video-quality-but-a-connectivity-vulnerability/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/prosumer-and-professional-cameras-high-video-quality-but-a-connectivity-vulnerability/">Save to Pocket</a>
+</span>
+
+---
+
+## HBM memory chips: The unsung hero of the AI revolution
+
+date: 2024-01-31, from: EDN Blog
+
+<img width="960" height="640" src="https://www.edn.com/wp-content/uploads/Hero-image-SK-hynix.jpg?fit=960%2C640" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-SK-hynix.jpg?w=960 960w, https://www.edn.com/wp-content/uploads/Hero-image-SK-hynix.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-SK-hynix.jpg?w=768 768w" sizes="(max-width: 960px) 100vw, 960px" /><p>SK hynix's quest to turn itself into an AI memory company reveals the strategic important of memory chips in AI designs.</p>
+<p>The post <a href="https://www.edn.com/hbm-memory-chips-the-unsung-hero-of-the-ai-revolution/" data-wpel-link="internal">HBM memory chips: The unsung hero of the AI revolution</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/hbm-memory-chips-the-unsung-hero-of-the-ai-revolution/">https://www.edn.com/hbm-memory-chips-the-unsung-hero-of-the-ai-revolution/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/hbm-memory-chips-the-unsung-hero-of-the-ai-revolution/">Save to Pocket</a>
+</span>
+
+---
+
+## Fresno State alum lands a song feature on Freeform’s ‘Good Trouble’
+
+date: 2024-01-30, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Local artist and Fresno State alum Agustin Roman Rivera is not only putting Fresno’s music scene on the map, but changing the landscape of local music. Rivera, who goes by they/them pronouns, has been making music under the artist name roman around since 2022. Within two years, Rivera has found themself with a song feature on...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/01/fresno-state-alumni-lands-a-song-feature-on-freeforms-good-trouble/">https://fscollegian.com/2024/01/fresno-state-alumni-lands-a-song-feature-on-freeforms-good-trouble/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/01/fresno-state-alumni-lands-a-song-feature-on-freeforms-good-trouble/">Save to Pocket</a>
+</span>
+
+---
+
+## Opinion: The RSU is an unsanitary disappointment
+
+date: 2024-01-30, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+On  Nov. 13, 2023, The Habit Burger Grill, Toss-N-Chop and Taco Bell officially opened in the Lynda and Stewart Resnick Student Union after over a year of constant delays.  However, although the food court is open within the building, it isn’t everything students hoped for.  Within the first two weeks, two students found hairs in...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/01/opinion-the-rsu-is-an-unsanitary-disappointment/">https://fscollegian.com/2024/01/opinion-the-rsu-is-an-unsanitary-disappointment/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/01/opinion-the-rsu-is-an-unsanitary-disappointment/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -25,7 +91,7 @@ date: 2024-01-30, updated: 2024-01-30, from: Merced, Weather.gov CAP v1.1 alerts
 
 date: 2024-01-30, from: EDN Blog
 
-<img width="624" height="452" src="https://www.edn.com/wp-content/uploads/FIgure-3_PowerTips125.png?fit=624%2C452" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/FIgure-3_PowerTips125.png?w=624 624w, https://www.edn.com/wp-content/uploads/FIgure-3_PowerTips125.png?w=300 300w" sizes="(max-width: 624px) 100vw, 624px" /><p>Using optocouplers in power supplies can be tricky, instead using a silicon-based device that emulates its behavior can sidestep many issues.</p>
+<img width="624" height="452" src="https://www.edn.com/wp-content/uploads/FIgure-3_PowerTips125.png?fit=624%2C452" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/FIgure-3_PowerTips125.png?w=624 624w, https://www.edn.com/wp-content/uploads/FIgure-3_PowerTips125.png?w=300 300w" sizes="(max-width: 624px) 100vw, 624px" /><p>Using optocouplers in power supplies can be tricky, instead using a silicon-based device that emulates its behavior can sidestep many issues.</p>
 <p>The post <a href="https://www.edn.com/power-tips-125-how-an-opto-emulator-improves-reliability-and-transient-response-for-isolated-dc-dc-converters/" data-wpel-link="internal">Power Tips #125: How an opto-emulator improves reliability and transient response for isolated DC/DC converters</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 

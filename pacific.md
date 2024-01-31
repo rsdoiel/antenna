@@ -1,11 +1,221 @@
 ---
 title: pacific 2024.05
-updated: 2024-01-30 11:51:48
+updated: 2024-01-31 10:00:39
 ---
 
 # pacific 2024.05
 
-(date: 2024-01-30 11:51:48)
+(date: 2024-01-31 10:00:39)
+
+---
+
+## Santa Lourdes novena starts on Feb. 2
+
+date: 2024-01-31, updated: 2024-01-31, from: Marianas Variety
+
+THE people of As Teo are happy to announce that the annual Santa Lourdes novena in As Teo, Saipan, starts on Friday, Feb. 2, 2024.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/santa-lourdes-novena-starts-on-feb-2/article_0d491fd8-c006-11ee-9838-63092132c749.html">https://www.mvariety.com/lifestyle/santa-lourdes-novena-starts-on-feb-2/article_0d491fd8-c006-11ee-9838-63092132c749.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/santa-lourdes-novena-starts-on-feb-2/article_0d491fd8-c006-11ee-9838-63092132c749.html">Save to Pocket</a>
+</span>
+
+---
+
+## UH reprints UOG professor's book about Guam era when leprosy patients were exiled
+
+date: 2024-01-31, updated: 2024-01-31, from: Marianas Variety
+
+MANGILAO, Guam (UOG) — It was a different time in Guam. Between 1898 and 1941, CHamoru people afflicted with leprosy were banished from Guam and sent to a leprosarium in the Philippines.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/uh-reprints-uog-professors-book-about-guam-era-when-leprosy-patients-were-exiled/article_e798d174-c006-11ee-89e6-9b37fcacad1b.html">https://www.mvariety.com/lifestyle/uh-reprints-uog-professors-book-about-guam-era-when-leprosy-patients-were-exiled/article_e798d174-c006-11ee-89e6-9b37fcacad1b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/uh-reprints-uog-professors-book-about-guam-era-when-leprosy-patients-were-exiled/article_e798d174-c006-11ee-89e6-9b37fcacad1b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Casino commission chair wants IPI to prove its ‘financial suitability’
+
+date: 2024-01-31, updated: 2024-01-31, from: Marianas Variety
+
+COMMONWEALTH Casino Commission Chair Edward C. Deleon Guerrero said Imperial Pacific International should show proof of its “financial suitability” if it wants to retain its exclusive casino license.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/casino-commission-chair-wants-ipi-to-prove-its-financial-suitability/article_d66fa6b8-c009-11ee-a000-4fad8d093916.html">https://www.mvariety.com/news/local/casino-commission-chair-wants-ipi-to-prove-its-financial-suitability/article_d66fa6b8-c009-11ee-a000-4fad8d093916.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/casino-commission-chair-wants-ipi-to-prove-its-financial-suitability/article_d66fa6b8-c009-11ee-a000-4fad8d093916.html">Save to Pocket</a>
+</span>
+
+---
+
+## Rota businesswoman sues OAG, government
+
+date: 2024-01-31, updated: 2024-01-31, from: Marianas Variety
+
+ROTA businesswoman and principal of DFS Enterprises Abelina Mendiola has filed a civil complaint in Superior Court against the Office of the Attorney General and the CNMI government regarding the subpoenas served on her bank accounts.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/rota-businesswoman-sues-oag-government/article_6094c77e-c046-11ee-a53c-7b2c1987bb81.html">https://www.mvariety.com/news/local/rota-businesswoman-sues-oag-government/article_6094c77e-c046-11ee-a53c-7b2c1987bb81.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/rota-businesswoman-sues-oag-government/article_6094c77e-c046-11ee-a53c-7b2c1987bb81.html">Save to Pocket</a>
+</span>
+
+---
+
+## IPI asks court to dismiss lawsuit against governor, CCC
+
+date: 2024-01-31, updated: 2024-01-31, from: Marianas Variety
+
+IMPERIAL Pacific International has asked the federal court to dismiss without prejudice the claims IPI filed against Gov. Arnold I. Palacios and the Commonwealth Casino Commission, both in their official and personal capacities, for, among other things, breach of the Casino License Agreement or CLA.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/ipi-asks-court-to-dismiss-lawsuit-against-governor-ccc/article_d99e83ee-c046-11ee-8221-a3b078716aff.html">https://www.mvariety.com/news/local/ipi-asks-court-to-dismiss-lawsuit-against-governor-ccc/article_d99e83ee-c046-11ee-8221-a3b078716aff.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/ipi-asks-court-to-dismiss-lawsuit-against-governor-ccc/article_d99e83ee-c046-11ee-8221-a3b078716aff.html">Save to Pocket</a>
+</span>
+
+---
+
+## Boat captain, crewmember plead not guilty
+
+date: 2024-01-31, updated: 2024-01-31, from: Marianas Variety
+
+BOAT Captain Ramon Jose Quitano Sablan and his crewmember, Maverick Ryan Iguel Marlik, on Wednesday pled not guilty to the charge of transporting Chinese nationals by boat illegally to Guam.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/boat-captain-crewmember-plead-not-guilty/article_a9d6d8c2-c047-11ee-a2d7-f700f9ccbbc0.html">https://www.mvariety.com/news/local/boat-captain-crewmember-plead-not-guilty/article_a9d6d8c2-c047-11ee-a2d7-f700f9ccbbc0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/boat-captain-crewmember-plead-not-guilty/article_a9d6d8c2-c047-11ee-a2d7-f700f9ccbbc0.html">Save to Pocket</a>
+</span>
+
+---
+
+## Construction debris and other trash dumped in CK cemetery
+
+date: 2024-01-31, updated: 2024-01-31, from: Marianas Variety
+
+COMMUNITY volunteer Max Aguon is asking the community not to dump construction debris and other trash in the Chalan Kanoa cemetery.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/construction-debris-and-other-trash-dumped-in-ck-cemetery/article_4b620e4c-c047-11ee-9db8-ef6252e6694a.html">https://www.mvariety.com/news/local/construction-debris-and-other-trash-dumped-in-ck-cemetery/article_4b620e4c-c047-11ee-9db8-ef6252e6694a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/construction-debris-and-other-trash-dumped-in-ck-cemetery/article_4b620e4c-c047-11ee-9db8-ef6252e6694a.html">Save to Pocket</a>
+</span>
+
+---
+
+## CNMI temporary driver’s license for those with pending CW-1 status
+
+date: 2024-01-31, updated: 2024-01-31, from: Marianas Variety
+
+(Department of Public Safety) — The Bureau of Motor Vehicles is now issuing temporary CNMI-only driver's licenses to individuals whose CW-1 status is pending USCIS processing. The temporary driver’s license is valid for one year.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/cnmi-temporary-driver-s-license-for-those-with-pending-cw-1-status/article_570ace4c-c041-11ee-bff5-a7283be0e8f9.html">https://www.mvariety.com/news/local/cnmi-temporary-driver-s-license-for-those-with-pending-cw-1-status/article_570ace4c-c041-11ee-bff5-a7283be0e8f9.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/cnmi-temporary-driver-s-license-for-those-with-pending-cw-1-status/article_570ace4c-c041-11ee-bff5-a7283be0e8f9.html">Save to Pocket</a>
+</span>
+
+---
+
+## Cameron Nicholas is RGA January Ace
+
+date: 2024-01-31, updated: 2024-01-31, from: Marianas Variety
+
+CAMERON Nicholas started his first year as a member of the Refaluwasch Golf Association with a bang by winning its two-day January Ace of the Month tournament at the Laolao Bay Golf &amp; Resort west course on Saturday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/cameron-nicholas-is-rga-january-ace/article_57ee0f18-c023-11ee-b2f1-f784d6d13f89.html">https://www.mvariety.com/sports/localsports/cameron-nicholas-is-rga-january-ace/article_57ee0f18-c023-11ee-b2f1-f784d6d13f89.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/cameron-nicholas-is-rga-january-ace/article_57ee0f18-c023-11ee-b2f1-f784d6d13f89.html">Save to Pocket</a>
+</span>
+
+---
+
+## Nasdaq futures sink as Alphabet, Microsoft disappoint; Fed decision in focus
+
+date: 2024-01-31, updated: 2024-01-31, from: Marianas Variety
+
+(Reuters) — Nasdaq futures slid over 1% on Wednesday, as tech giants Alphabet and Microsoft's projections for rising AI costs disappointed investors, dragging megacap and chip stocks, ahead of the U.S. policy decision expected later in the day.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/business_news/nasdaq-futures-sink-as-alphabet-microsoft-disappoint-fed-decision-in-focus/article_b0ccbd4c-c040-11ee-a562-976e52227a5e.html">https://www.mvariety.com/business/business_news/nasdaq-futures-sink-as-alphabet-microsoft-disappoint-fed-decision-in-focus/article_b0ccbd4c-c040-11ee-a562-976e52227a5e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/business_news/nasdaq-futures-sink-as-alphabet-microsoft-disappoint-fed-decision-in-focus/article_b0ccbd4c-c040-11ee-a562-976e52227a5e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Top student affairs profession award for UH Mānoa administrator
+
+date: 2024-01-31, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Christine Quemuel was honored with the Pillars of the Profession award by the National Association of Student Personnel Administrators.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/30/quemuel-naspa-award/">Top student affairs profession award for <abbr>UH</abbr> Mānoa administrator</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/30/quemuel-naspa-award/">https://www.hawaii.edu/news/2024/01/30/quemuel-naspa-award/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/30/quemuel-naspa-award/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s track and field senior earns weekly honors
+
+date: 2024-01-31, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span>  Antolin earns her first ever <abbr>MPSF</abbr> Athlete of the Week honors after winning the 200<abbr>m</abbr> dash at the <abbr>UW</abbr> invite.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/30/womens-track-field-antolin/">Women’s track and field senior earns weekly honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/30/womens-track-field-antolin/">https://www.hawaii.edu/news/2024/01/30/womens-track-field-antolin/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/30/womens-track-field-antolin/">Save to Pocket</a>
+</span>
+
+---
+
+## Rainbow Warrior setter earns Freshman of the Week
+
+date: 2024-01-31, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Tread Rosenthal ranks No.9 nationally in assists and leads the team with 13 service aces.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/30/rainbow-warrior-setter-freshman/">Rainbow Warrior setter earns Freshman of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/30/rainbow-warrior-setter-freshman/">https://www.hawaii.edu/news/2024/01/30/rainbow-warrior-setter-freshman/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/30/rainbow-warrior-setter-freshman/">Save to Pocket</a>
+</span>
+
+---
+
+## Vulcans softball, baseball preseason poll announced
+
+date: 2024-01-30, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> The softball team returns with five starters and outfielder Alec Yamauchi makes Third Team pick.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/30/vulcans-softball-baseball-poll/">Vulcans softball, baseball preseason poll announced</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/30/vulcans-softball-baseball-poll/">https://www.hawaii.edu/news/2024/01/30/vulcans-softball-baseball-poll/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/30/vulcans-softball-baseball-poll/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Lūʻau of emotions’ on stage at UH Mānoa
+
+date: 2024-01-30, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Hawaiian language production <em>Glitter in the <span aria-label="Paakai">Pa&#699;akai</span></em> reveals facets of an <span aria-label="ohana">&#699;ohana</span> grappling with loss, identity and healing.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/30/glitter-in-paakai/">‘Lūʻau of emotions’ on stage at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/30/glitter-in-paakai/">https://www.hawaii.edu/news/2024/01/30/glitter-in-paakai/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/30/glitter-in-paakai/">Save to Pocket</a>
+</span>
+
+---
+
+##  A switcheroo for the year of the election
+
+date: 2024-01-30, from: Pacific Island Times
+
+“Elections have consequences.” –Every US Senator who voted against a Supreme Court nominee who got confirmed anyway News media love...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/a-switcheroo-for-the-year-of-the-election">https://www.pacificislandtimes.com/post/a-switcheroo-for-the-year-of-the-election</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/a-switcheroo-for-the-year-of-the-election">Save to Pocket</a>
+</span>
+
+---
+
+## Taylor Swift AI targeting could provide lessons for ourselves
+
+date: 2024-01-30, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Professor Wayne Buente said that while the Taylor Swift incident made headlines, it is something that can happen to us in our own communities.</p>
+The post <a href="https://www.hawaii.edu/news/2024/01/30/taylor-swift-ai-targeting-lessons-for-ourselves/">Taylor Swift <abbr>AI</abbr> targeting could provide lessons for ourselves</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/01/30/taylor-swift-ai-targeting-lessons-for-ourselves/">https://www.hawaii.edu/news/2024/01/30/taylor-swift-ai-targeting-lessons-for-ourselves/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/01/30/taylor-swift-ai-targeting-lessons-for-ourselves/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -387,6 +597,20 @@ The principles are designed to improve the integrity of decision making to maxim
 
 <span class="feed-item-link">
 <a href="https://www.forumsec.org/2024/01/30/release-pacific-quality-infrastructure-principles/">https://www.forumsec.org/2024/01/30/release-pacific-quality-infrastructure-principles/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.forumsec.org/2024/01/30/release-pacific-quality-infrastructure-principles/">Save to Pocket</a>
+</span>
+
+---
+
+## Beginning of RTI in the Solomon Islands
+
+date: 2024-01-30, from: University of the South Pacific (Fiji)
+
+<p>The Right to Information (RTI) initiative will launch the ‘Beginning of RTI in the Solomon...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/beginning-of-rti-in-the-solomon-islands/">Beginning of RTI in the Solomon Islands</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/beginning-of-rti-in-the-solomon-islands/">https://www.usp.ac.fj/news/beginning-of-rti-in-the-solomon-islands/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/beginning-of-rti-in-the-solomon-islands/">Save to Pocket</a>
 </span>
 
 ---

@@ -1,11 +1,371 @@
 ---
 title: socal north 2024.05
-updated: 2024-01-30 11:51:47
+updated: 2024-01-31 10:00:39
 ---
 
 # socal north 2024.05
 
-(date: 2024-01-30 11:51:47)
+(date: 2024-01-31 10:00:39)
+
+---
+
+## California Universities Are Required To Offer Students Abortion Pills. A Lot Just Don't Mention It
+
+date: 2024-01-31, updated: 2024-01-31, from: The LAist
+
+One year after California became the first state to require that its public universities provide the abortion pill to students, LAist found that basic information on where or how students can obtain the medication is lacking and, often, nonexistent.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/abortion-pill-california-universities-students-unaware-sb-24">https://laist.com/news/education/abortion-pill-california-universities-students-unaware-sb-24</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/abortion-pill-california-universities-students-unaware-sb-24">Save to Pocket</a>
+</span>
+
+---
+
+## LA Tenants Face Deadline To Pay Back Lingering COVID Rent Debt
+
+date: 2024-01-31, updated: 2024-01-31, from: The LAist
+
+Rent in L.A. was never canceled during the pandemic — only delayed. The city’s renters have until Feb. 1 to get all caught up.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/covid-19-rent-debt-la-evictions">https://laist.com/news/housing-homelessness/covid-19-rent-debt-la-evictions</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/covid-19-rent-debt-la-evictions">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – January 31, 2024
+
+date: 2024-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/31/classifieds-january-31-2024/">Classifieds &#8211; January 31, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/31/classifieds-january-31-2024/">https://dailytrojan.com/2024/01/31/classifieds-january-31-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/31/classifieds-january-31-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## USG confirms QuASA executives, cancels pre-debate meeting
+
+date: 2024-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Speaker Rudra Saigal outlined his senate goals for this term.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/31/usg-confirms-quasa-executives-cancels-pre-debate-meeting/">USG confirms QuASA executives, cancels pre-debate meeting</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/31/usg-confirms-quasa-executives-cancels-pre-debate-meeting/">https://dailytrojan.com/2024/01/31/usg-confirms-quasa-executives-cancels-pre-debate-meeting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/31/usg-confirms-quasa-executives-cancels-pre-debate-meeting/">Save to Pocket</a>
+</span>
+
+---
+
+## Southeast Asians need their own data option
+
+date: 2024-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Data disaggregation is the key to understanding the Asian American experience.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/31/southeast-asians-need-their-own-data-option/">Southeast Asians need their own data option</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/31/southeast-asians-need-their-own-data-option/">https://dailytrojan.com/2024/01/31/southeast-asians-need-their-own-data-option/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/31/southeast-asians-need-their-own-data-option/">Save to Pocket</a>
+</span>
+
+---
+
+## Study reveals perceived stress can cause high blood pressure, diabetes in adults
+
+date: 2024-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The 18-year prospective study featuring 276 subjects was published on Jan. 17.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/31/study-reveals-perceived-stress-can-cause-high-blood-pressure-diabetes-in-adults/">Study reveals perceived stress can cause high blood pressure, diabetes in adults</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/31/study-reveals-perceived-stress-can-cause-high-blood-pressure-diabetes-in-adults/">https://dailytrojan.com/2024/01/31/study-reveals-perceived-stress-can-cause-high-blood-pressure-diabetes-in-adults/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/31/study-reveals-perceived-stress-can-cause-high-blood-pressure-diabetes-in-adults/">Save to Pocket</a>
+</span>
+
+---
+
+## No. 7 USC aims to stay perfect against UC Berkeley
+
+date: 2024-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans prepare to host the undefeated Golden Bears in a critical Pac-12 matchup.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/31/no-7-usc-aims-to-stay-perfect-against-no-5-uc-berkeley/">No. 7 USC aims to stay perfect against UC Berkeley</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/31/no-7-usc-aims-to-stay-perfect-against-no-5-uc-berkeley/">https://dailytrojan.com/2024/01/31/no-7-usc-aims-to-stay-perfect-against-no-5-uc-berkeley/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/31/no-7-usc-aims-to-stay-perfect-against-no-5-uc-berkeley/">Save to Pocket</a>
+</span>
+
+---
+
+## Men’s basketball seeks revenge against Ducks
+
+date: 2024-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans will look to end their five-game losing streak against a solid Oregon team.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/31/mens-basketball-seeks-revenge-against-ducks/">Men&#8217;s basketball seeks revenge against Ducks</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/31/mens-basketball-seeks-revenge-against-ducks/">https://dailytrojan.com/2024/01/31/mens-basketball-seeks-revenge-against-ducks/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/31/mens-basketball-seeks-revenge-against-ducks/">Save to Pocket</a>
+</span>
+
+---
+
+## You should care about journalism layoffs
+
+date: 2024-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Changes in the media sector disproportionately affect underrepresented reporters.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/31/you-should-care-about-journalism-layoffs/">You should care about journalism layoffs</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/31/you-should-care-about-journalism-layoffs/">https://dailytrojan.com/2024/01/31/you-should-care-about-journalism-layoffs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/31/you-should-care-about-journalism-layoffs/">Save to Pocket</a>
+</span>
+
+---
+
+## Make the Super Bowl for fans again
+
+date: 2024-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>It’s an overpriced event the everyday diehard supporter can’t attend.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/31/make-the-super-bowl-for-fans-again/">Make the Super Bowl for fans again</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/31/make-the-super-bowl-for-fans-again/">https://dailytrojan.com/2024/01/31/make-the-super-bowl-for-fans-again/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/31/make-the-super-bowl-for-fans-again/">Save to Pocket</a>
+</span>
+
+---
+
+## Together, but apart: On couture week
+
+date: 2024-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Haute Couture Week has taken the internet by storm, but is it because of who is there? Or what was there? </p>
+<p>The post <a href="https://dailytrojan.com/2024/01/31/unbox-your-different-personalities-2/">Together, but apart: On couture week</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/31/unbox-your-different-personalities-2/">https://dailytrojan.com/2024/01/31/unbox-your-different-personalities-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/31/unbox-your-different-personalities-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Students reflect on Little Tokyo cafe
+
+date: 2024-01-31, from: The Daily Trojan (USC Student Newspaper)
+
+<p>After 52 years in Little Tokyo, historic Suehiro Cafe has moved Downtown. </p>
+<p>The post <a href="https://dailytrojan.com/2024/01/31/students-reflect-on-little-tokyo-cafe/">Students reflect on Little Tokyo cafe</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/01/31/students-reflect-on-little-tokyo-cafe/">https://dailytrojan.com/2024/01/31/students-reflect-on-little-tokyo-cafe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/01/31/students-reflect-on-little-tokyo-cafe/">Save to Pocket</a>
+</span>
+
+---
+
+## Opinion: Student entrepreneurs can explore their passions while pursuing higher education
+
+date: 2024-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+Being an entrepreneur is a state of mind &#8211; one that is becoming increasingly popular among undergraduate students. 
+Starting a business and pursuing higher education are often viewed as mutually exclusive events &#8211; two separate realities that cannot exist simultaneously.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/30/opinion-student-entrepreneurs-can-explore-their-passions-while-pursuing-higher-education/">https://dailybruin.com/2024/01/30/opinion-student-entrepreneurs-can-explore-their-passions-while-pursuing-higher-education/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/30/opinion-student-entrepreneurs-can-explore-their-passions-while-pursuing-higher-education/">Save to Pocket</a>
+</span>
+
+---
+
+## Film screening, panel discussion of “Junction” aim to highlight opioid crisis
+
+date: 2024-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Friends of Semel Institute for Neuroscience and Human Behavior hosted a screening of and panel discussion on docudrama film &#8220;Junction&#8221; to bring attention to the ongoing opioid crisis.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/30/film-screening-panel-discussion-of-junction-aim-to-highlight-opioid-crisis/">https://dailybruin.com/2024/01/30/film-screening-panel-discussion-of-junction-aim-to-highlight-opioid-crisis/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/30/film-screening-panel-discussion-of-junction-aim-to-highlight-opioid-crisis/">Save to Pocket</a>
+</span>
+
+---
+
+## Matadors drop 17th straight game, fall to the Anteaters
+
+date: 2024-01-31, from: The Sundail (CSUN Student Newspaper)
+
+Another late game collapse by the Matadors (2-17, 0-9 Big West) led the Anteaters of UC Irvine (13-6, 7-2 Big West) to take advantage of the game on Saturday afternoon. Irvine scored 21 points off the Matadors’ turnovers and pressured them to force 19 turnovers, escaping with a 67-63 win. Even with the loss, CSUN...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178057/sports/matadors-drop-17th-straight-game-fall-to-the-anteaters/">https://sundial.csun.edu/178057/sports/matadors-drop-17th-straight-game-fall-to-the-anteaters/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178057/sports/matadors-drop-17th-straight-game-fall-to-the-anteaters/">Save to Pocket</a>
+</span>
+
+---
+
+## Matadors handle business against winless Marauders
+
+date: 2024-01-31, from: The Sundail (CSUN Student Newspaper)
+
+The shift from 11th-ranked University of Southern California to winless Central State University couldn’t have been any greater for CSUN men’s volleyball. The Matadors entered the game against the Marauders following a five-set battle against the Trojans in which CSUN barely eked out a victory. The Marauders, who are in their third season as a...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178051/sports/matadors-handle-business-against-winless-marauders/">https://sundial.csun.edu/178051/sports/matadors-handle-business-against-winless-marauders/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178051/sports/matadors-handle-business-against-winless-marauders/">Save to Pocket</a>
+</span>
+
+---
+
+## Bruin Commuter Hub, Basic Needs Center provides resources for transfers, commuters
+
+date: 2024-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 30 at 10:42 p.m.&#160;</em>
+The Bruin Commuter Hub and UCLA Basic Needs Center hosted an event to highlight resources for transfer and commuter students Thursday.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/30/bruin-commuter-hub-basic-needs-center-provides-resources-for-transfers-commuters/">https://dailybruin.com/2024/01/30/bruin-commuter-hub-basic-needs-center-provides-resources-for-transfers-commuters/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/30/bruin-commuter-hub-basic-needs-center-provides-resources-for-transfers-commuters/">Save to Pocket</a>
+</span>
+
+---
+
+## State Audit Finds Anaheim Tourism Bureau And Chamber Misused Public Funds
+
+date: 2024-01-31, updated: 2024-01-31, from: The LAist
+
+Some of those funds were improperly used by the Anaheim Chamber of Commerce to support business-friendly candidates through its political action committee, according to auditors.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/anaheim-tourism-audit-funds-lobbying">https://laist.com/news/politics/anaheim-tourism-audit-funds-lobbying</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/anaheim-tourism-audit-funds-lobbying">Save to Pocket</a>
+</span>
+
+---
+
+## Podcast ‘Dear Asian Girl’ brings expression, conversation from around the world
+
+date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#8220;Dear Asian Girl&#8221; is using its audio platform to celebrate Asian voices.
+The podcast &#8211; which has recently rebranded to become more inclusive of non-binary, transgender and other LGBTQ+ individuals &#8211; aims to connect Asians around the world by discussing their shared experiences and identity, said second-year business economics and public affairs student and one of the podcast co-hosts Meghna Nair.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/30/podcast-dear-asian-girl-brings-expression-conversation-from-around-the-world/">https://dailybruin.com/2024/01/30/podcast-dear-asian-girl-brings-expression-conversation-from-around-the-world/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/30/podcast-dear-asian-girl-brings-expression-conversation-from-around-the-world/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘We’re getting 1% better every day’: UCLA men’s basketball wins three of four
+
+date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 30 at 7:37 p.m.&#160;</em>
+The ebb and flow of the Bruins’ season has seemingly resembled college basketball&#8217;s characteristic momentum swings.
+A 5-2 stretch, featuring close losses to then-No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/30/were-getting-1-better-every-day-ucla-mens-basketball-wins-three-of-four/">https://dailybruin.com/2024/01/30/were-getting-1-better-every-day-ucla-mens-basketball-wins-three-of-four/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/30/were-getting-1-better-every-day-ucla-mens-basketball-wins-three-of-four/">Save to Pocket</a>
+</span>
+
+---
+
+## Sundance 2024 Film review: Despite muscular plot, ‘Love Lies Bleeding’ falters under weight of weak script
+
+date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 30 at 9:19 p.m.&#160;</em>
+Warning: Spoilers ahead.
+In need of bulking, “Love Lies Bleeding” fails to lift the weight.
+Directed and co-written by Rose Glass, the crime-thriller follows Lou (Kristen Stewart), a withdrawn gym manager, and Jackie (Katy O’Brian), a hitchhiking bodybuilder, as their destructive romance rapidly begins to unlock hidden secrets about Lou’s family and past.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/30/sundance-2024-film-review-despite-muscular-plot-love-lies-bleeding-falters-under-weight-of-weak-script/">https://dailybruin.com/2024/01/30/sundance-2024-film-review-despite-muscular-plot-love-lies-bleeding-falters-under-weight-of-weak-script/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/30/sundance-2024-film-review-despite-muscular-plot-love-lies-bleeding-falters-under-weight-of-weak-script/">Save to Pocket</a>
+</span>
+
+---
+
+## Alongside historic loss, UCLA men’s tennis splits matches in ITA Kickoff Weekend
+
+date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins snapped a 42-year-long streak Saturday morning.
+UCLA men&#8217;s tennis (1-2) dropped a 4-2 decision to No. 15 Harvard (4-1) at Murr Center in Boston to commence ITA Kickoff Weekend, after which it found its first victory of the season against Ole Miss (4-2) in the consolation match.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/30/with-historic-loss-ucla-mens-tennis-splits-matches-in-ita-kickoff-weekend/">https://dailybruin.com/2024/01/30/with-historic-loss-ucla-mens-tennis-splits-matches-in-ita-kickoff-weekend/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/30/with-historic-loss-ucla-mens-tennis-splits-matches-in-ita-kickoff-weekend/">Save to Pocket</a>
+</span>
+
+---
+
+## Amid top-4 shakeup, UCLA men’s volleyball finds strength in roster depth
+
+date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+A four-team circle of parity has fallen.
+And UCLA is at the center of it.
+The world of collegiate men’s volleyball used to be dominated by several major teams, with an upset scarcely visible.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/30/amid-top-4-shakeup-ucla-mens-volleyball-finds-strength-in-roster-depth/">https://dailybruin.com/2024/01/30/amid-top-4-shakeup-ucla-mens-volleyball-finds-strength-in-roster-depth/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/30/amid-top-4-shakeup-ucla-mens-volleyball-finds-strength-in-roster-depth/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s volleyball aims to rebound in 1st season doubleheader
+
+date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 30 at 7:47 p.m.&#160;</em>
+The Bruins are preparing for their first back-to-back series of the year.
+No. 5 UCLA men’s volleyball (6-2) is slated to play against No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/30/ucla-mens-volleyball-aims-to-rebound-in-1st-season-doubleheader/">https://dailybruin.com/2024/01/30/ucla-mens-volleyball-aims-to-rebound-in-1st-season-doubleheader/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/30/ucla-mens-volleyball-aims-to-rebound-in-1st-season-doubleheader/">Save to Pocket</a>
+</span>
+
+---
+
+## Sundance 2024 Q&A: Thea Hvistendahl, Renate Reinsve reawaken horror in ‘Handling the Undead’
+
+date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+“Handling the Undead” unearths a new kind of zombie tale.
+Adapted from the novel of the same name by John Ajvide Lindqvist, the mystery-horror film follows three families who must reckon with the unsettling, sudden return of their loved ones from the dead.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/30/sundance-2024-qa-thea-hvistendahl-renate-reinsve-reawaken-horror-in-handling-the-undead/">https://dailybruin.com/2024/01/30/sundance-2024-qa-thea-hvistendahl-renate-reinsve-reawaken-horror-in-handling-the-undead/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/30/sundance-2024-qa-thea-hvistendahl-renate-reinsve-reawaken-horror-in-handling-the-undead/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA gymnastics rises to No. 6 on vault after landing outside the top 10 in 2023
+
+date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Jan. 30 at 7:52 p.m.&#160;</em>
+There are two things a gymnast needs to do to earn a high score on vault.
+One: Fly high.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/30/ucla-gymnastics-rises-to-no-6-on-vault-after-landing-outside-the-top-10-in-2023/">https://dailybruin.com/2024/01/30/ucla-gymnastics-rises-to-no-6-on-vault-after-landing-outside-the-top-10-in-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/30/ucla-gymnastics-rises-to-no-6-on-vault-after-landing-outside-the-top-10-in-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Constructive Feedback: How Northridge Rebuilt Itself
+
+date: 2024-01-30, from: The Sundail (CSUN Student Newspaper)
+
+Carmen Ramos Chandler heard the sound of the earthquake before she felt it. It sounded like 10 freight trains speeding directly towards her house, all at the same time. It was in the middle of the night, just after 4:30 a.m. on Jan. 17, 1994. Her mattress sat atop a metal box frame with four...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178037/print-editions/print-stories/constructive-feedback-how-northridge-rebuilt-itself/">https://sundial.csun.edu/178037/print-editions/print-stories/constructive-feedback-how-northridge-rebuilt-itself/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178037/print-editions/print-stories/constructive-feedback-how-northridge-rebuilt-itself/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -141,12 +501,12 @@ date: 2024-01-30, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Community weighs in as SCOTUS to decide if cities can legally remove homeless encampments
+## SCOTUS to rule on homeless encampments
 
 date: 2024-01-30, from: The Daily Trojan (USC Student Newspaper)
 
 <p>The Court could overturn precedent barring local governments from forcibly removing unhoused individuals from public property without offering alternative shelter.</p>
-<p>The post <a href="https://dailytrojan.com/2024/01/30/scotus-to-rule-on-public-encampments/">Community weighs in as SCOTUS to decide if cities can legally remove homeless encampments</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/01/30/scotus-to-rule-on-public-encampments/">SCOTUS to rule on homeless encampments</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
 
 
 <span class="feed-item-link">
@@ -187,8 +547,8 @@ date: 2024-01-30, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Division of Campus Life and BruinsVote co-hosted an installation of the Democracy Workshops series at the LATC Straus Clubhouse on Tuesday. 
-The event focused on understanding elections and featured a presentation by Dean Logan, the Los Angeles County registrar-recorder and county clerk.
+<em>This post was updated Jan. 30 at 10:19 p.m.&#160;</em>
+The Division of Campus Life and BruinsVote co-hosted an installation of the Democracy Workshops series at the Los Angeles Tennis Center&#8217;s Straus Clubhouse on Tuesday.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/29/democracy-workshop-informs-bruins-on-la-county-elections/">https://dailybruin.com/2024/01/29/democracy-workshop-informs-bruins-on-la-county-elections/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/29/democracy-workshop-informs-bruins-on-la-county-elections/">Save to Pocket</a>
@@ -237,8 +597,8 @@ Thousands of people walk through areas such as Bruin Walk and Dickson Plaza ever
 
 date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 30 at 10:04 p.m.&#160;</em>
 The 2023 U-Haul Growth Index indicated that California is facing the greatest out-migration of any state for the fourth consecutive year.
-The U-Haul Growth Index measures changes in state populations by correlating population decline to an increase in U-Haul&#8217;s transactions of moving equipment in one direction.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/29/california-experiences-increasing-trend-of-people-leaving-state/">https://dailybruin.com/2024/01/29/california-experiences-increasing-trend-of-people-leaving-state/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/29/california-experiences-increasing-trend-of-people-leaving-state/">Save to Pocket</a>
@@ -264,6 +624,7 @@ date: 2024-01-30, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 30 at 11:13 p.m.&#160;</em>
 Dear Editor:
 I am concerned that your front-page article published on Jan. 16, “Documents reveal details behind planning process of Bruins for Israel rally,” subtly perpetuates antisemitic tropes.
 
@@ -277,9 +638,8 @@ I am concerned that your front-page article published on Jan. 16, “Documents r
 
 date: 2024-01-30, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Jan. 30 at 10:01 p.m.&#160;</em>
 Academic workers reached an agreement with the UC on Monday to increase wages and employment rates for graduate student researchers.
-Affected researchers will receive raises as high as $10,000 per year, according to a United Auto Workers Local 2865 press release from Monday afternoon.&#160;
-Since UAW and the UC came to an agreement on their historic contract in December 2022, graduate student researchers – previously under Student Researchers United-UAW before its merger with UAW Local 2865 in February – argued that UC management ignored its contract and manipulated full-time equivalent percentages of student researcher appointments to short them on pay.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/29/uc-graduate-student-researchers-secure-increases-in-employment-rates-wages/">https://dailybruin.com/2024/01/29/uc-graduate-student-researchers-secure-increases-in-employment-rates-wages/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/29/uc-graduate-student-researchers-secure-increases-in-employment-rates-wages/">Save to Pocket</a>
@@ -315,7 +675,7 @@ There’s a warm blob of water off the coast feeding the weather systems.
 
 date: 2024-01-29, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Jan. 29 at 6:35 p.m.</em>
+<em>This post was updated Jan. 30 at 7:43 p.m.&#160;</em>
 The weekend’s rollercoaster climbed from heartbreak to revenge.
 But at the end of the ride was the same outcome the Bruins have seen for years.
 

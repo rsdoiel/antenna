@@ -1,11 +1,143 @@
 ---
 title: motorcycles 2024.05
-updated: 2024-01-30 11:51:48
+updated: 2024-01-31 10:00:40
 ---
 
 # motorcycles 2024.05
 
-(date: 2024-01-30 11:51:48)
+(date: 2024-01-31 10:00:40)
+
+---
+
+## 2024 KTM RC 390 Arrives With Two New Paint Schemes Available
+
+date: 2024-01-31, from: Ride Apart, Electric Motorcycle News
+
+Helping you look good on the street and the track.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706875/ktm-rc390-2024-new-colors/">https://www.rideapart.com/news/706875/ktm-rc390-2024-new-colors/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706875/ktm-rc390-2024-new-colors/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Kawasaki Ninja e-1 and Z e-1 First Ride
+
+date: 2024-01-31, from: Cycle World News
+
+We ride and review Kawasaki’s Ninja e-1 and Z e-1 all-electric motorcycles, which are designed for urban commuting.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-reviews/kawasaki-ninja-e-1-and-z-e-1-first-ride/">https://www.cycleworld.com/motorcycle-reviews/kawasaki-ninja-e-1-and-z-e-1-first-ride/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/kawasaki-ninja-e-1-and-z-e-1-first-ride/">Save to Pocket</a>
+</span>
+
+---
+
+## Watch Fortnine Explain Why 270-Degree Parallel-Twins Have Become So Popular
+
+date: 2024-01-31, from: Ride Apart, Electric Motorcycle News
+
+Today, most manufacturers have bikes equipped with compact yet powerful 270-degree parallel-twins. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706775/fortnine-270-parallel-twins-popularity/">https://www.rideapart.com/news/706775/fortnine-270-parallel-twins-popularity/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706775/fortnine-270-parallel-twins-popularity/">Save to Pocket</a>
+</span>
+
+---
+
+## New Gogoro Pulse E-Scooter Is Brand’s Most Powerful, High-Tech Model
+
+date: 2024-01-31, from: Ride Apart, Electric Motorcycle News
+
+The Pulse gets your heart rate going with tons of tech and impressive performance. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706740/gogoro-pulse-electric-scooter/">https://www.rideapart.com/news/706740/gogoro-pulse-electric-scooter/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706740/gogoro-pulse-electric-scooter/">Save to Pocket</a>
+</span>
+
+---
+
+## Decathlon Is Ready For Action With Its New Van Rysel E-GRVL Bikes
+
+date: 2024-01-31, from: Ride Apart, Electric Motorcycle News
+
+The new E-GRVL bikes are decked out in fancy components from Sram, Brose, and Mahle. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706739/decathlon-van-rysel-egrvl-electric-bikes/">https://www.rideapart.com/news/706739/decathlon-van-rysel-egrvl-electric-bikes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706739/decathlon-van-rysel-egrvl-electric-bikes/">Save to Pocket</a>
+</span>
+
+---
+
+## Warhorse HSBK Racing Ducati Ready For Two-Rider Competition in 2024 Steel Commander MotoAmerica Superbike Championship
+
+date: 2024-01-31, from: Cycle World News
+
+Warhorse HSBK Racing Ducati is proud to announce that Josh Herrin and Loris Baz will front a two-rider Ducati team on the 2024 Steel Commander MotoAmerica Superbike Championship.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/warhorse-hsbk-racing-ducati-ready-two-rider-competition-2024/">https://www.cycleworld.com/the-wire/warhorse-hsbk-racing-ducati-ready-two-rider-competition-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/warhorse-hsbk-racing-ducati-ready-two-rider-competition-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Alpinestars Reveals The All-New Supertech R10 Road Racing Helmet
+
+date: 2024-01-31, from: Cycle World News
+
+Alpinestars is pleased to present the all-new Supertech R10 Road Racing Helmets.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/alpinestars-reveals-all-new-supertech-r10-road-racing-helmet/">https://www.cycleworld.com/the-wire/alpinestars-reveals-all-new-supertech-r10-road-racing-helmet/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/alpinestars-reveals-all-new-supertech-r10-road-racing-helmet/">Save to Pocket</a>
+</span>
+
+---
+
+## Indian Motorcycle Announces 2024 Factory Race Teams
+
+date: 2024-01-31, from: Cycle World News
+
+Indian Motorcycle, America’s First Motorcycle Company, today announced its 2024 factory race teams for King of the Baggers, Super Hooligan (SHNC) and American Flat Tracks (AFT).
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/indian-motorcycle-announces-2024-factory-race-teams/">https://www.cycleworld.com/the-wire/indian-motorcycle-announces-2024-factory-race-teams/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/indian-motorcycle-announces-2024-factory-race-teams/">Save to Pocket</a>
+</span>
+
+---
+
+## Honda’s GB350 Classic-Style Roadster Makes Its Way To The Land Down Under
+
+date: 2024-01-31, from: Ride Apart, Electric Motorcycle News
+
+Folks in other parts of the world still eagerly wait for this charming retro-inspired machine. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706738/honda-gb350-launch-australia/">https://www.rideapart.com/news/706738/honda-gb350-launch-australia/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706738/honda-gb350-launch-australia/">Save to Pocket</a>
+</span>
+
+---
+
+## Shoei's Race-Ready X-Fifteen Now Comes In A Marquez Thai GP Edition
+
+date: 2024-01-31, from: Ride Apart, Electric Motorcycle News
+
+The limited edition race replica is set for release exclusively in Japan from April to June 2024. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706735/shoei-x15-marquez-thai/">https://www.rideapart.com/news/706735/shoei-x15-marquez-thai/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706735/shoei-x15-marquez-thai/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Suzuki GSX-8R First Ride
+
+date: 2024-01-30, from: Cycle World News
+
+Suzuki’s 776cc parallel-twin platform has ushered in a new era for the company with four new models. The latest GSX-8R sportbike is a logical addition.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-reviews/suzuki-gsx-8r-first-ride/">https://www.cycleworld.com/motorcycle-reviews/suzuki-gsx-8r-first-ride/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/suzuki-gsx-8r-first-ride/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -29,18 +161,6 @@ CFMoto is taking advantage of its association with KTM to build its own 790 Adve
 
 <span class="feed-item-link">
 <a href="https://www.cycleworld.com/motorcycle-news/cfmoto-mt-x-coming-soon/">https://www.cycleworld.com/motorcycle-news/cfmoto-mt-x-coming-soon/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/cfmoto-mt-x-coming-soon/">Save to Pocket</a>
-</span>
-
----
-
-## 2024 Suzuki GSX-8R First Ride
-
-date: 2024-01-30, from: Cycle World News
-
-Suzuki’s 776cc parallel-twin platform has ushered in a new era for the company with four new models. The latest GSX-8R sportbike is a logical addition.
-
-<span class="feed-item-link">
-<a href="https://www.cycleworld.com/motorcycle-reviews/suzuki-gsx-8r-first-ride/">https://www.cycleworld.com/motorcycle-reviews/suzuki-gsx-8r-first-ride/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/suzuki-gsx-8r-first-ride/">Save to Pocket</a>
 </span>
 
 ---
