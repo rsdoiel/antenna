@@ -1,11 +1,63 @@
 ---
 title: libraries 2024.05
-updated: 2024-01-31 10:00:40
+updated: 2024-02-01 07:03:42
 ---
 
 # libraries 2024.05
 
-(date: 2024-01-31 10:00:40)
+(date: 2024-02-01 07:03:42)
+
+---
+
+## Getting to Know Andrew K. Pace, ARL’s New Executive Director
+
+date: 2024-02-01, from: Association of Research Libraries News
+
+<p>Today the Association of Research Libraries (ARL) welcomes Andrew K. Pace as our executive director. We’ve conducted a brief interview to help our community get to know him better as...</p>
+<p>The post <a href="https://www.arl.org/blog/getting-to-know-andrew-k-pace-arls-new-executive-director/">Getting to Know Andrew K. Pace, ARL’s New Executive Director</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/blog/getting-to-know-andrew-k-pace-arls-new-executive-director/">https://www.arl.org/blog/getting-to-know-andrew-k-pace-arls-new-executive-director/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/blog/getting-to-know-andrew-k-pace-arls-new-executive-director/">Save to Pocket</a>
+</span>
+
+---
+
+## Protecting Commercial AI Rights is Harder than You Think — EU Edition
+
+date: 2024-02-01, from: Scholarly Kitchen
+
+<p>Legislation often lags technological advances. The EU's Digital Single Market Copyright Directive leaves many open questions regarding AI text- and data-mining.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/01/protecting-commercial-ai-rights-is-harder-than-you-think-eu-edition/">Protecting Commercial AI Rights is Harder than You Think &#8212; EU Edition</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/01/protecting-commercial-ai-rights-is-harder-than-you-think-eu-edition/">https://scholarlykitchen.sspnet.org/2024/02/01/protecting-commercial-ai-rights-is-harder-than-you-think-eu-edition/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/01/protecting-commercial-ai-rights-is-harder-than-you-think-eu-edition/">Save to Pocket</a>
+</span>
+
+---
+
+## Coffee Lectures – check out our new programme
+
+date: 2024-02-01, from: ETH Zurich Research Archives
+
+In just 15 minutes: Get useful tools and topics to support you in your daily research work – at the Coffee Lectures by the ETH Library. Read more<img src="https://analytics.library.ethz.ch/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Fcoffee-lectures-check-out-our-new-programme%2F&amp;action_name=Coffee+Lectures+%E2%80%93+check+out+our+new+programme&amp;urlref=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />
+
+<span class="feed-item-link">
+<a href="https://rc-blog.ethz.ch/en/coffee-lectures-check-out-our-new-programme/">https://rc-blog.ethz.ch/en/coffee-lectures-check-out-our-new-programme/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://rc-blog.ethz.ch/en/coffee-lectures-check-out-our-new-programme/">Save to Pocket</a>
+</span>
+
+---
+
+## Short service interruption on Thursday, February 1, 2024, 12.00
+
+date: 2024-02-01, from: ETH Zurich Research Archives
+
+On Thursday, February 1, 2024, 12.00 – 13.00, there will be a short service interruption in the Research Collection. During this time, you won’t be able to upload new documents or edit existing records. The login will be deactivated during this time. Reason: maintenance work<img src="https://analytics.library.ethz.ch/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Fshort-service-interruption-on-thursday-february-1-2024-12-00%2F&amp;action_name=Short+service+interruption+on+Thursday%2C+February+1%2C+2024%2C+12.00&amp;urlref=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />
+
+<span class="feed-item-link">
+<a href="https://rc-blog.ethz.ch/en/short-service-interruption-on-thursday-february-1-2024-12-00/">https://rc-blog.ethz.ch/en/short-service-interruption-on-thursday-february-1-2024-12-00/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://rc-blog.ethz.ch/en/short-service-interruption-on-thursday-february-1-2024-12-00/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -29,6 +81,19 @@ Bearth, Angela; Otten, Caitlin Drummond; Cohen, Alex Segrè
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/653049">http://hdl.handle.net/20.500.11850/653049</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/653049">Save to Pocket</a>
+</span>
+
+---
+
+## Paper mills
+
+date: 2024-01-31, from: SciELO in Perspective
+
+<p>Paper mills have begun to produce and sell large numbers of low-quality articles with false or plagiarized data. And, more recently, they are trying to entice journal editors by offering generous sums in exchange for the rapid acceptance of articles and by offering questionable editors and reviewers for special issues. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2024/01/31/paper-mills/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2024/01/31/paper-mills/">Paper mills</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p>
+
+<span class="feed-item-link">
+<a href="https://blog.scielo.org/en/2024/01/31/paper-mills/">https://blog.scielo.org/en/2024/01/31/paper-mills/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.scielo.org/en/2024/01/31/paper-mills/">Save to Pocket</a>
 </span>
 
 ---

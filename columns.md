@@ -1,11 +1,72 @@
 ---
 title: columns 2024.05
-updated: 2024-01-31 10:00:40
+updated: 2024-02-01 07:03:42
 ---
 
 # columns 2024.05
 
-(date: 2024-01-31 10:00:40)
+(date: 2024-02-01 07:03:42)
+
+---
+
+## Facebook’s Extensive Surveillance Network
+
+date: 2024-02-01, updated: 2024-01-26, from: Bruce Schneier blog
+
+<p>Consumer Reports is <a href="https://www.consumerreports.org/electronics/privacy/each-facebook-user-is-monitored-by-thousands-of-companies-a5824207467/">reporting</a> that Facebook has built a massive surveillance network:</p>
+<blockquote><p>Using a panel of 709 volunteers who shared archives of their Facebook data, Consumer Reports found that a total of 186,892 companies sent data about them to the social network. On average, each participant in the study had their data sent to Facebook by 2,230 companies. That number varied significantly, with some panelists&#8217; data listing over 7,000 companies providing their data. The Markup helped Consumer Reports recruit participants for the study. Participants downloaded an archive of the previous three years of their data from their Facebook settings, then provided it to Consumer Reports...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/facebooks-extensive-surveillance-network.html">https://www.schneier.com/blog/archives/2024/02/facebooks-extensive-surveillance-network.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/facebooks-extensive-surveillance-network.html">Save to Pocket</a>
+</span>
+
+---
+
+## What Would You Do?
+
+date: 2024-02-01, from: Dan Rather's Steady
+
+I write this not to advocate for people immigrating to the United States or to campaign against them. This is a story about a desperate journey that tens of thousands are making, in spite of the cost or consequences. Because they feel they must. It is not about one person or group. I am using the stories of Venezuelans as an example because so many have fled their country and are coming to ours. In 2023, more than 260,000 Venezuelan migrants crossed the U.S.-Mexico border. Venezuela&#8217;s migrants represent the largest displacement crisis in the world.
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/what-would-you-do">https://steady.substack.com/p/what-would-you-do</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/what-would-you-do">Save to Pocket</a>
+</span>
+
+---
+
+## How Trump could win the presidency even if he loses the popular vote AND the Electoral College
+
+date: 2024-02-01, from: Robert Reich's blog
+
+Michael Johnson and other House leaders must pledge to certify the election results
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/how-trump-wins-the-presidency-even">https://robertreich.substack.com/p/how-trump-wins-the-presidency-even</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/how-trump-wins-the-presidency-even">Save to Pocket</a>
+</span>
+
+---
+
+## Dealing with diverged git branches
+
+date: 2024-02-01, updated: 2024-02-01, from: Julia Evans blog
+
+
+
+<span class="feed-item-link">
+<a href="https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/">https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/">Save to Pocket</a>
+</span>
+
+---
+
+## Elon’s gonzo pay
+
+date: 2024-01-31, from: Robert Reich's blog
+
+A judge has ruled that Musk's compensation package is excessive
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/elons-gonzo-pay">https://robertreich.substack.com/p/elons-gonzo-pay</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/elons-gonzo-pay">Save to Pocket</a>
+</span>
 
 ---
 

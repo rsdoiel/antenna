@@ -1,11 +1,61 @@
 ---
 title: mid central 2024.05
-updated: 2024-01-31 10:00:40
+updated: 2024-02-01 07:03:42
 ---
 
 # mid central 2024.05
 
-(date: 2024-01-31 10:00:40)
+(date: 2024-02-01 07:03:42)
+
+---
+
+## “Sub-zero” op-amp regulates charge pump inverter
+
+date: 2024-02-01, from: EDN Blog
+
+<img width="423" height="425" src="https://www.edn.com/wp-content/uploads/Figure-1_Subzero.png?fit=423%2C425" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-1_Subzero.png?w=423 423w, https://www.edn.com/wp-content/uploads/Figure-1_Subzero.png?w=150 150w, https://www.edn.com/wp-content/uploads/Figure-1_Subzero.png?w=300 300w" sizes="(max-width: 423px) 100vw, 423px" /><p>Avoid op-amp saturation error by keeping op-amp outputs “live” and below zero volts with an HC4053 and almost any low power RRIO op-amp.</p>
+<p>The post <a href="https://www.edn.com/sub-zero-op-amp-regulates-charge-pump-inverter/" data-wpel-link="internal">“Sub-zero” op-amp regulates charge pump inverter</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/sub-zero-op-amp-regulates-charge-pump-inverter/">https://www.edn.com/sub-zero-op-amp-regulates-charge-pump-inverter/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/sub-zero-op-amp-regulates-charge-pump-inverter/">Save to Pocket</a>
+</span>
+
+---
+
+## Book review: ‘The Woman in Me’ is an emotional tell-all from Britney Spears
+
+date: 2024-01-31, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+I was in Target searching for a new book to read when “The Woman in Me” by Britney Spears jumped at me. I thought to myself, “Britney Spears wrote a book?” I grabbed the book and began reading the back cover. A short excerpt from the prologue was rich with imagery as I felt myself...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/01/book-review-the-woman-in-me-is-an-emotional-tell-all-from-britney-spears/">https://fscollegian.com/2024/01/book-review-the-woman-in-me-is-an-emotional-tell-all-from-britney-spears/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/01/book-review-the-woman-in-me-is-an-emotional-tell-all-from-britney-spears/">Save to Pocket</a>
+</span>
+
+---
+
+## Fresno State water polo is off to a rolling start
+
+date: 2024-01-31, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The defending Golden Coast Conference champions have just begun their season but are already on a roll, knocking down top-ranked opponents. In case you missed the action, here’s how it happened.  Polo-Palooza Tournament (Jan. 20-21) The Fresno State water polo team opened up its season at home at the Aquatics Center with the Polo-Palooza tournament. ...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/01/fresno-state-water-polo-is-off-to-a-rolling-start/">https://fscollegian.com/2024/01/fresno-state-water-polo-is-off-to-a-rolling-start/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/01/fresno-state-water-polo-is-off-to-a-rolling-start/">Save to Pocket</a>
+</span>
+
+---
+
+## CMAC provides a realm of media resources to the community
+
+date: 2024-01-31, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The Community Media Access Collaborative (CMAC) has kicked off the year by introducing multiple changes for its members. The most notable is the price change, which rose for the first time since 2012. The Fresno-based nonprofit organization, committed to connecting the community through the use of media, cited ongoing inflation as the reasoning behind the...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/01/cmac-provides-a-realm-of-media-resources-to-the-community/">https://fscollegian.com/2024/01/cmac-provides-a-realm-of-media-resources-to-the-community/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/01/cmac-provides-a-realm-of-media-resources-to-the-community/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -23,12 +73,12 @@ date: 2024-01-31, from: Blue Devil News (Merced Community College Student Newspa
 
 ---
 
-## Prosumer and professional cameras: High video quality, but a connectivity vulnerability
+## Prosumer and professional cameras: High quality video, but a connectivity vulnerability
 
 date: 2024-01-31, from: EDN Blog
 
-<img width="1400" height="1048" src="https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?fit=1400%2C1048" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Connect a camera to an external display with any variance from a specific sequence and you might fry one or both devices’ video interfaces. </p>
-<p>The post <a href="https://www.edn.com/prosumer-and-professional-cameras-high-video-quality-but-a-connectivity-vulnerability/" data-wpel-link="internal">Prosumer and professional cameras: High video quality, but a connectivity vulnerability</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+<img width="1400" height="1048" src="https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?fit=1400%2C1048" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/PCB-Front-overview.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Connect a camera to an external display with any variance from a specific sequence and you might fry one or both devices’ video interfaces. </p>
+<p>The post <a href="https://www.edn.com/prosumer-and-professional-cameras-high-video-quality-but-a-connectivity-vulnerability/" data-wpel-link="internal">Prosumer and professional cameras: High quality video, but a connectivity vulnerability</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 
 <span class="feed-item-link">
@@ -63,7 +113,7 @@ Local artist and Fresno State alum Agustin Roman Rivera is not only putting Fres
 
 ---
 
-## Opinion: The RSU is an unsanitary disappointment
+## Opinion: The RSU food court is an unsanitary disappointment
 
 date: 2024-01-30, from: The Collegian (Cal State Fresno's Student Newspaper)
 

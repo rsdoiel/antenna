@@ -1,11 +1,148 @@
 ---
 title: motorcycles 2024.05
-updated: 2024-01-31 10:00:40
+updated: 2024-02-01 07:03:42
 ---
 
 # motorcycles 2024.05
 
-(date: 2024-01-31 10:00:40)
+(date: 2024-02-01 07:03:42)
+
+---
+
+## How Much Power Does the 2023 Kawasaki Ninja ZX-4RR Make?
+
+date: 2024-02-01, from: Cycle World News
+
+The 2023 Kawasaki Ninja ZX-4RR gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/kawasaki-ninja-zx-4rr-dyno-test-2023/">https://www.cycleworld.com/bikes/kawasaki-ninja-zx-4rr-dyno-test-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/kawasaki-ninja-zx-4rr-dyno-test-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## AI tutoring; what works?
+
+date: 2024-02-01, from: Herman Bear Blog
+
+<p>It's 2024 and LLMs are still the "hot new thing". Looking back on 2023, I'm surprised how quickly I went from, "Wow! My computer is speaking to me in fluent and comprehensible English," to, "Eh, that could have been phrased/executed/generated better."</p>
+<p>Back in the early 2010s, my mother created and ran a non-profit project called Dr Math. This used volunteer students from the University of Pretoria as math tutors via Mxit (the mobile IM popular in South Africa at the time, running over WAP).</p>
+<p>The infrastructure was fairly simple. Volunteers would use a computer at the institute loaded with software that allowed them to tutor multiple students at once. They’d do this after school hours into the early evening, giving students whose parents couldn't or wouldn't help them with their homework a helpful nudge in the right direction.</p>
+<p>And it worked pretty well! Within a few years, Dr Math had tens of thousands of students all over the country using the service for help with their math homework, studies, and exam prep. And all for free.</p>
+<p>For those who don't know, South Africa is a country of contrasts. There is extreme poverty and extreme wealth living side by side. If you fall within the lucky ~20% of the population, your lifestyle looks something akin to Europe or certain parts of the USA, but at a much lower cost of living.</p>
+<p>The majority of the population suffers from poor service delivery and other socioeconomic problems, with education falling way behind the developed world. It's like two distinct countries overlaid on one.</p>
+<p>And this was where Dr Math fit in.</p>
+<p>It wasn't supposed to be "the perfect education tool". Instead, it was a step up. A foot in the door for those students who were the most underserved.</p>
+<p>Unfortunately, due to some government-funded institution bureaucracy, the project was shuttered once my mother left the institute, and the whole project ground to a sad halt.</p>
+<p>It has been sitting at the back of my mind ever since, and with the release of the GPT 3.5 API, the idea of using it to tutor maths (and later other subjects) with the Socratic method was the perfect catalyst to reignite this project.</p>
+<p>The prototype of the project, built in collaboration with my mother and a friend (now business partner), used GPT 3.5 with two agents watching one another to make sure the conversation didn't go off track (this was before the easily steerable and much more powerful 4 came out). This prototype allowed us to get all the infrastructure in place and test our assumptions until gaining access to the GPT 4 API. We hooked the chatbot (Prof Pi, later <a href="https://botsy.org" target="_blank">Botsy</a>) up to WhatsApp and ran a few pilot projects.</p>
+<p>There are a few reasons we chose WhatsApp:</p>
+<ul>
+<li>Smartphone penetration is great in Africa, and even inexpensive phones have WhatsApp pre-installed here</li>
+<li>WhatsApp is used as the de facto means of communication throughout Africa</li>
+<li>Some cellular service providers zero-rate WhatsApp data, making using the service completely free to the end user</li>
+</ul>
+<p>And incredibly enough, this worked as well. Arguably better than human text-based tutors (although more on that later). While LLMs in general are not great at calculations (this issue has since been mostly solved with code-interpreter), using the Socratic method of teaching meant the onus was on the student to do the calculations with the tool prompting them and helping them along. LLMs are also infinitely patient, unlike human tutors, and so would stay cheery and online, helping even the most frustrating of students.</p>
+<p>We had multiple pilot projects running throughout Sub-Saharan Africa. There were 2 large high-school cohorts and a university-level cohort in Tanzania, and an interesting and tragic cohort at a University in North Sudan.</p>
+<p>The latter pilot was based in Khartoum, and it happened to be running when the unrest started and students couldn't leave their houses due to shooting in the streets. Many used our tool as their sole means of studying during this time, asking it to generate practice problems, as well as discussing concepts and exploring the curriculum material. All this in fluent Arabic.</p>
+<p>There are many things we learned about AI tutors during this time. But a few are fairly novel.</p>
+<p>They say that you can give a sufficiently motivated student a library card and they will become a physicist. But most students with library cards aren't physicists.</p>
+<p>This holds true for AI tutors as well. While they are a fantastic tool for assisted learning, they only have the ability to <em>respond</em>. They are unable to engage a student. Instead, the AI tutor may assist or prompt them, leaving the responsibility of learning on the student and their personal reserve of motivation.</p>
+<p>One of our other pilot projects partnered with a South African eLearning company that provided low-cost, live video lessons. The AI tutor shone in this particular case since it complemented the classes instead of trying to stand-alone as an education tool. The teachers would act as the prompter, providing the content and structure of the lesson. The AI tutor would then act as a teaching assistant, helping students who were stuck in understand concepts and work through problems.</p>
+<p>We also had a few discussions about whether we needed to explicitly state, "This is a chatbot". On the one hand, there are the ethical implications of AI impersonating real people, which is dishonest. On the other, when students knew they were speaking to an AI instead of an actual human, many would try to game the system to get it to do their homework for them.</p>
+<p>This was mostly impossible with a sufficiently good prompt. However, the relationship between the tutor and the student would degrade. In a few cases, we would even see students "mistreat" (if you can call it that) the AI, calling it names and being mean and demanding.</p>
+<p>I don't believe in AI's ability to feel (yet). However, it's the spirit of the thing that bothered me, and it obviously wasn't good from a learning standpoint.</p>
+<p>That being said, the vast majority of students used the bot as intended, and we are confident in the learning outcomes and assistance it provides.</p>
+<p>We're currently working with a non-profit in South Africa, trying to make the tutor bot generally available to as many underserved students as possible.</p>
+<p>We're also in the process of exploring other ways AI tutoring can be used in education. If you're interested in having a conversation with us, check out our <a href="https://botsy.org" target="_blank">website</a>.</p>
+
+<span class="feed-item-link">
+<a href="https://herman.bearblog.dev/ai-tutoring-what-works/">https://herman.bearblog.dev/ai-tutoring-what-works/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://herman.bearblog.dev/ai-tutoring-what-works/">Save to Pocket</a>
+</span>
+
+---
+
+## India’s Revolt Motors Unveils Affordable RV400 BRZ Electric Motorcycle
+
+date: 2024-02-01, from: Ride Apart, Electric Motorcycle News
+
+The RV400 BRZ does away with some of the fancy tech features found in its premium siblings. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706901/revolt-rv400-brz-electric-motorcycle/">https://www.rideapart.com/news/706901/revolt-rv400-brz-electric-motorcycle/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706901/revolt-rv400-brz-electric-motorcycle/">Save to Pocket</a>
+</span>
+
+---
+
+## Gogoro Charges Into Chile And Colombia Via Copec Partnership
+
+date: 2024-02-01, from: Ride Apart, Electric Motorcycle News
+
+Gogoro will be targeting the lucrative last-mile delivery industry with its battery-swapping tech and Smartscooters. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706899/gogoro-enters-latin-america-partnership-copec/">https://www.rideapart.com/news/706899/gogoro-enters-latin-america-partnership-copec/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706899/gogoro-enters-latin-america-partnership-copec/">Save to Pocket</a>
+</span>
+
+---
+
+## Hero’s New Surge S32 Concept Is A Modular E-Scooter Rickshaw Mashup
+
+date: 2024-02-01, from: Ride Apart, Electric Motorcycle News
+
+Ride it as a scooter on weekdays and take the whole family out in the rickshaw on weekends. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706894/hero-surge-s32-electric-scooter-concept/">https://www.rideapart.com/news/706894/hero-surge-s32-electric-scooter-concept/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706894/hero-surge-s32-electric-scooter-concept/">Save to Pocket</a>
+</span>
+
+---
+
+## This Electric Mountain Bike Is Made Out Of Recycled Nespresso Pods
+
+date: 2024-02-01, from: Ride Apart, Electric Motorcycle News
+
+Swiss bike brand Miloo collaborates with Nespresso for a powerful e-MTB with an eye on environmental sustainability. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706893/miloo-xplorer-beast-recycled-nespresso/">https://www.rideapart.com/news/706893/miloo-xplorer-beast-recycled-nespresso/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706893/miloo-xplorer-beast-recycled-nespresso/">Save to Pocket</a>
+</span>
+
+---
+
+## New Scorpion Trail III Adventure Tire Specs And Sizes Revealed
+
+date: 2024-02-01, from: Ride Apart, Electric Motorcycle News
+
+Pirelli’s new ADV rubber promises uncompromising performance both on and off road. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706892/pirelli-scorpion-trail-iii-specs-sizes/">https://www.rideapart.com/news/706892/pirelli-scorpion-trail-iii-specs-sizes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706892/pirelli-scorpion-trail-iii-specs-sizes/">Save to Pocket</a>
+</span>
+
+---
+
+## Spec Showdown: Moto Guzzi Stelvio vs. Suzuki GSX-S1000GX
+
+date: 2024-01-31, from: Ride Apart, Electric Motorcycle News
+
+New for 2024, both ADV-tinged sport touring bikes pack a load of tasty tech. Which machine will reign supreme?
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706890/spec-showdown-stelvio-vs-gsxs1000gx/">https://www.rideapart.com/news/706890/spec-showdown-stelvio-vs-gsxs1000gx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706890/spec-showdown-stelvio-vs-gsxs1000gx/">Save to Pocket</a>
+</span>
+
+---
+
+## Fat Tire Suzuki Van Van Is The Diminutive Dual Sport It Was Meant To Be
+
+date: 2024-01-31, from: Ride Apart, Electric Motorcycle News
+
+Chunky, funky, aggressive perfection.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/706881/suzuki-vanvan-fat-tire-custom/">https://www.rideapart.com/news/706881/suzuki-vanvan-fat-tire-custom/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/706881/suzuki-vanvan-fat-tire-custom/">Save to Pocket</a>
+</span>
 
 ---
 

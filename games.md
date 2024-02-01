@@ -1,11 +1,131 @@
 ---
 title: games 2024.05
-updated: 2024-01-31 10:00:40
+updated: 2024-02-01 07:03:42
 ---
 
 # games 2024.05
 
-(date: 2024-01-31 10:00:40)
+(date: 2024-02-01 07:03:42)
+
+---
+
+## Where to (officially) play every Persona game
+
+date: 2024-02-01, updated: 2024-02-01, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24057267/where-to-play-persona-games-nintendo-switch-pc-ps-xbox">https://www.polygon.com/deals/24057267/where-to-play-persona-games-nintendo-switch-pc-ps-xbox</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24057267/where-to-play-persona-games-nintendo-switch-pc-ps-xbox">Save to Pocket</a>
+</span>
+
+---
+
+## Every movie and show coming to Netflix in February
+
+date: 2024-02-01, updated: 2024-02-01, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/entertainment/2024/2/1/24050447/new-netflix-february-2024-movies-tv-to-watch">https://www.polygon.com/entertainment/2024/2/1/24050447/new-netflix-february-2024-movies-tv-to-watch</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/entertainment/2024/2/1/24050447/new-netflix-february-2024-movies-tv-to-watch">Save to Pocket</a>
+</span>
+
+---
+
+## There’s bleak — and then there’s Netflix’s Nazi occupation thriller, Will
+
+date: 2024-02-01, updated: 2024-02-01, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24057172/will-review-netflix-nazi-thriller-movie">https://www.polygon.com/reviews/24057172/will-review-netflix-nazi-thriller-movie</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24057172/will-review-netflix-nazi-thriller-movie">Save to Pocket</a>
+</span>
+
+---
+
+## Until Dawn is getting remastered to coincide with the live-action movie
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24057372/until-dawn-remaster-sony-state-of-play-january-2024">https://www.polygon.com/24057372/until-dawn-remaster-sony-state-of-play-january-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24057372/until-dawn-remaster-sony-state-of-play-january-2024">Save to Pocket</a>
+</span>
+
+---
+
+## All the biggest announcements from the PlayStation State of Play
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/1/31/24057143/playstation-sony-state-of-play-ps5-showcase-announcements-trailers">https://www.polygon.com/2024/1/31/24057143/playstation-sony-state-of-play-ps5-showcase-announcements-trailers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/1/31/24057143/playstation-sony-state-of-play-ps5-showcase-announcements-trailers">Save to Pocket</a>
+</span>
+
+---
+
+## Death Stranding 2: On the Beach? Hell yes, they’re really calling it that
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24057164/death-stranding-2-on-the-beach-state-of-play">https://www.polygon.com/24057164/death-stranding-2-on-the-beach-state-of-play</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24057164/death-stranding-2-on-the-beach-state-of-play">Save to Pocket</a>
+</span>
+
+---
+
+## Free-to-play Silent Hill: The Short Message gets a surprise release
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24057447/silent-hill-short-message-sony-state-of-play-january-2024">https://www.polygon.com/24057447/silent-hill-short-message-sony-state-of-play-january-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24057447/silent-hill-short-message-sony-state-of-play-january-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Silent Hill 2 remake still in the works, ‘an ultimate challenge’ for devs
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24057311/silent-hill-2-remake-sony-state-of-play-january-2024">https://www.polygon.com/24057311/silent-hill-2-remake-sony-state-of-play-january-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24057311/silent-hill-2-remake-sony-state-of-play-january-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Why Taylor Swift, Lady Gaga’s music could vanish from TikTok
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24057332/universal-music-group-umg-take-music-off-tiktok-explained">https://www.polygon.com/24057332/universal-music-group-umg-take-music-off-tiktok-explained</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24057332/universal-music-group-umg-take-music-off-tiktok-explained">Save to Pocket</a>
+</span>
+
+---
+
+## How to get linen in Enshrouded
+
+date: 2024-01-31, updated: 2024-01-31, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/enshrouded-guides/24056009/linen-how-to-get-craft-flax">https://www.polygon.com/enshrouded-guides/24056009/linen-how-to-get-craft-flax</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/enshrouded-guides/24056009/linen-how-to-get-craft-flax">Save to Pocket</a>
+</span>
 
 ---
 

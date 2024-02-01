@@ -1,11 +1,195 @@
 ---
 title: tech likely 2024.05
-updated: 2024-01-31 10:00:40
+updated: 2024-02-01 07:03:42
 ---
 
 # tech likely 2024.05
 
-(date: 2024-01-31 10:00:40)
+(date: 2024-02-01 07:03:42)
+
+---
+
+## SimpliSafe Video Doorbell: Halt and Catch Fire
+
+date: 2024-02-01, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">SimpliSafe Video Doorbell: Halt and Catch Fire</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/simplisafe-video-doorbell-burnt-wires.jpg" width="700" height="auto" class="insert-image" alt="SimpliSafe Video Doorbell Pro burnt wires" /></p>
+
+<p>This SimpliSafe doorbell burned up less than a week after I installed it. I never would've thought a doorbell would be the most dangerous thing I set up at my studio!</p>
+
+<p>I learned a LOT about powering 'smart' doorbells, and talked directly to SimpliSafe about it. They did sent a replacement, but it has it's own problems.</p>
+
+<p>I'm still happy with SimpliSafe overall, but I don't like how I've spent about 8 hours troubleshooting a 'smart' doorbell. The only thing that's been 100% reliable on this thing is the basic ding dong I could've gotten with a <a href="https://amzn.to/4987S9w">five dollar dumb doorbell</a>!</p>
+
+<blockquote>
+<p>This blog post is based off my latest moving vlog, episode 12, where I talk about my SimpliSafe doorbell problems, the new 10G and 25G networking gear I'm testing, and a new 'retro corner' in my office. Check it out below:</p></blockquote></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-02-01T09:00:55-06:00" title="Thursday, February 1, 2024 - 09:00" class="datetime">February 1, 2024</time></span>
+
+<span class="feed-item-link">
+<a href="https://www.jeffgeerling.com/blog/2024/simplisafe-video-doorbell-halt-and-catch-fire">https://www.jeffgeerling.com/blog/2024/simplisafe-video-doorbell-halt-and-catch-fire</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jeffgeerling.com/blog/2024/simplisafe-video-doorbell-halt-and-catch-fire">Save to Pocket</a>
+</span>
+
+---
+
+## Station Science 101: Studying DNA in Space
+
+date: 2024-02-01, from: NASA breaking news
+
+Long-term space exploration exposes humans to radiation that can damage deoxyribonucleic acid or DNA, which carries the genetic information for our development and functioning. Conditions in space also affect the way the body repairs such damage, potentially compounding the risk. Research on the International Space Station studies DNA damage and repair using tools and techniques [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/station/iss-research/station-science-101-studying-dna-in-space/">https://www.nasa.gov/missions/station/iss-research/station-science-101-studying-dna-in-space/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/station/iss-research/station-science-101-studying-dna-in-space/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Spinoffs Feature NASA Stennis Developed Technologies
+
+date: 2024-02-01, from: NASA breaking news
+
+As NASA innovates for the benefit of all, what the agency develops for exploration has the potential to evolve into other technologies with broader use here on Earth. Many of those examples are highlighted in NASA’s annual Spinoff book including dozens of NASA-enabled medical innovations, as well other advancements in 3D printing, robots, and brake [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/stennis/nasa-spinoffs-feature-nasa-stennis-developed-technologies/">https://www.nasa.gov/centers-and-facilities/stennis/nasa-spinoffs-feature-nasa-stennis-developed-technologies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/stennis/nasa-spinoffs-feature-nasa-stennis-developed-technologies/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Employee Supports Mission While Inspiring Artemis Generation
+
+date: 2024-02-01, from: NASA breaking news
+
+NASA inspires as it explores secrets of the universe for the benefit of all – just ask Tony Goretski, the senior employee in the Office of Procurement at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Goretski felt the inspiration long ago on a school trip to the Gulf Coast site, vowing to one [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasa-employee-supports-mission-while-inspiring-artemis-generation/">https://www.nasa.gov/image-article/nasa-employee-supports-mission-while-inspiring-artemis-generation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasa-employee-supports-mission-while-inspiring-artemis-generation/">Save to Pocket</a>
+</span>
+
+---
+
+## What Makes for ‘Good’ Mathematics?
+
+date: 2024-02-01, from: Quanta Magazine
+
+Terence Tao, who has been called the “Mozart of Mathematics,” wrote an essay in 2007 about the common ingredients in “good” mathematical research. In this episode, the Fields Medalist joins Steven Strogatz to revisit the topic.            <p>The post <a href="https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/" target="_blank">What Makes for ‘Good’ Mathematics?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/">https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/what-makes-for-good-mathematics-20240201/">Save to Pocket</a>
+</span>
+
+---
+
+## Team Mindset Fuels NASA Stennis Test Operations Leader
+
+date: 2024-02-01, from: NASA breaking news
+
+One thing has remained constant throughout Maury Vander’s career with NASA – the satisfaction of being part of a team working to innovate and benefit the agency and the aerospace industry at large. As chief of the Test Operations Division at NASA’s Stennis Space Center, Vander provides guidance and help with technical challenges to a [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/team-mindset-fuels-nasa-stennis-test-operations-leader/">https://www.nasa.gov/image-article/team-mindset-fuels-nasa-stennis-test-operations-leader/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/team-mindset-fuels-nasa-stennis-test-operations-leader/">Save to Pocket</a>
+</span>
+
+---
+
+## A Vehicular Arms Race
+
+date: 2024-02-01, updated: 2024-02-01, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/02/01/a-vehicular-arms-race/">https://onefoottsunami.com/2024/02/01/a-vehicular-arms-race/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/02/01/a-vehicular-arms-race/">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Captures a Suspected Galaxy Encounter
+
+date: 2024-02-01, from: NASA breaking news
+
+UGC 3912 is classified as a spiral galaxy … but you wouldn’t know it from this detailed NASA Hubble Space Telescope image. UGC 3912’s distorted shape is typically indicative of a gravitational encounter with another galaxy. When galaxies interact – either brush up against each other’s gravitational fields or even collide – their stars, dust, […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/hubble-captures-a-suspected-galaxy-encounter/">https://science.nasa.gov/missions/hubble/hubble-captures-a-suspected-galaxy-encounter/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/hubble-captures-a-suspected-galaxy-encounter/">Save to Pocket</a>
+</span>
+
+---
+
+## Class notes: Anarchy, Law, Pain
+
+date: 2024-02-01, from: Ayjay blog
+
+I’m thinking that this term, when I’m teaching a number of things I haven’t taught before, or haven&#8217;t taught in a long time, I might use this blog to lay out some of the things I’m thinking about — not in a systematic or final way, but in what I hope will be a generative [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/class-notes-anarchy-law-pain/">https://blog.ayjay.org/class-notes-anarchy-law-pain/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/class-notes-anarchy-law-pain/">Save to Pocket</a>
+</span>
+
+---
+
+## An integrated learning experience for young people
+
+date: 2024-02-01, from: Raspberry Pi (.org)
+
+<p>We’re currently trialling the full integration of our Code Editor in some of the projects on our Projects site, with the aim of providing a seamless experience for young learners.&#160;Our Projects site provides hundreds of free coding projects with step-by-step instructions for young people to use at school, in Code Clubs and CoderDojo clubs, and&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/code-editor-integration/">An integrated learning experience for young people</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.org/blog/code-editor-integration/">https://www.raspberrypi.org/blog/code-editor-integration/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.org/blog/code-editor-integration/">Save to Pocket</a>
+</span>
+
+---
+
+## What did computer engineering students at Cornell make with RP2040 last term?
+
+date: 2024-02-01, from: Raspberry Pi News (.com)
+
+<p>Cornell University's Computer Engineering class came up with tons of weird RP2040-based projects last term.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/what-did-computer-engineering-students-at-cornell-make-with-rp2040-last-term/">What did computer engineering students at Cornell make with RP2040 last term?</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/what-did-computer-engineering-students-at-cornell-make-with-rp2040-last-term/">https://www.raspberrypi.com/news/what-did-computer-engineering-students-at-cornell-make-with-rp2040-last-term/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/what-did-computer-engineering-students-at-cornell-make-with-rp2040-last-term/">Save to Pocket</a>
+</span>
+
+---
+
+## Learn Prototyping
+
+date: 2024-02-01, from: Tilde.news
+
+<p><a href="https://tilde.news/s/qppwoi/learn_prototyping">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="http://start.shrimping.it/index.html#project">http://start.shrimping.it/index.html#project</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://start.shrimping.it/index.html#project">Save to Pocket</a>
+</span>
+
+---
+
+**@Ayjay blog** (date: 2024-02-01, from: Ayjay blog)
+
+Noah Millman: You can’t just hate the present and long for the past, any more than you can make the future better by demanding of some nonexistent authority that they make it so. To make the future, you have to actually learn about the past, its glories and its follies alike, its conflicts and its [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/45978-2/">https://blog.ayjay.org/45978-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/45978-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Apply before April 1st
+2024
+
+date: 2024-02-01, updated: 2024-02-01, from: nlnet feed
+
+
+
+<span class="feed-item-link">
+<a href="https://nlnet.nl/news/2023/20240201-call.html">https://nlnet.nl/news/2023/20240201-call.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://nlnet.nl/news/2023/20240201-call.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -41,6 +225,208 @@ Jaeger A.C.H.; Hartmann M.; Conz R.F.; Six J.; Solly E.F.
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/646227">http://hdl.handle.net/20.500.11850/646227</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/646227">Save to Pocket</a>
+</span>
+
+---
+
+##  How France&#8217;s Film Industry Works 
+
+date: 2024-01-31, updated: 2024-01-31, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/how-frances-film-industry-works">https://kottke.org/24/01/how-frances-film-industry-works</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/how-frances-film-industry-works">Save to Pocket</a>
+</span>
+
+---
+
+## The Marshall Star for January 31, 2024
+
+date: 2024-01-31, from: NASA breaking news
+
+Marshall Commemorates NASA’s Day of Remembrance By Celine Smith Team members across NASA’s Marshall Space Flight Center congregated Jan. 25 in the lobby of Building 4221 to observe NASA’s Day of Remembrance. Each January, the agency pauses to honor members of the NASA family who lost their lives while furthering the cause of exploration and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-january-31-2024/">https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-january-31-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-january-31-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Google to optionally ingest your Google Messages history into its “AI”
+
+date: 2024-01-31, from: OS News
+
+Researchers have just unveiled a pre-release, game-changing AI upgrade for Google Messages. But it’s one with a serious privacy risk—it seems that Bard may ask to read and analyze your private message history. So how might this work, how do you maintain your privacy, and when might this begin. ↫ Zak Doffman As long as this &#8220;AI&#8221; hoovering is an optional &#8216;feature&#8217;, I don&#8217;t really have any issues with it &#8211; it&#8217;s a free world, and if you want to spice up your autocomplete like this, go ahead. The real danger, of course, is that this won&#8217;t be optional for long, and eventually Google&#8217;s &#8220;AI&#8221; will just ingest your messages and emails by default, consent or no.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138490/google-to-optionally-ingest-your-google-messages-history-into-its-ai/">https://www.osnews.com/story/138490/google-to-optionally-ingest-your-google-messages-history-into-its-ai/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138490/google-to-optionally-ingest-your-google-messages-history-into-its-ai/">Save to Pocket</a>
+</span>
+
+---
+
+## Discovery Alert: A ‘Super-Earth’ in the Habitable Zone
+
+date: 2024-01-31, from: NASA breaking news
+
+A newly discovered ‘super-Earth’ dwells in the habitable zone of its parent star – and might have a roughly Earth-sized companion.
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-super-earth-in-the-habitable-zone/">https://science.nasa.gov/universe/exoplanets/discovery-alert-a-super-earth-in-the-habitable-zone/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/universe/exoplanets/discovery-alert-a-super-earth-in-the-habitable-zone/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Awards Environmental Restoration, Compliance Contract
+
+date: 2024-01-31, from: NASA breaking news
+
+NASA has selected five companies to provide environmental restoration and compliance services at NASA centers, facilities, and other agency assets. The awardees are: The NASA Environmental Restoration and Compliance Contract is an indefinite- delivery/indefinite-quantity fixed price contract not to exceed $375 million. The performance period begins Wednesday and runs through Jan. 30, 2029.&#160; The array [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-awards-environmental-restoration-compliance-contract/">https://www.nasa.gov/news-release/nasa-awards-environmental-restoration-compliance-contract/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-awards-environmental-restoration-compliance-contract/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-01-31, from: Dave Winer's Scripting News)
+
+Looking for bloggers, developers, reporters, columnists, who focus on new applications of AI. Please post a link <a href="https://github.com/scripting/Scripting-News/issues/291">here</a>. If you have the URL for a feed, that would be best. Thanks!
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/01/31.html#a204502">http://scripting.com/2024/01/31.html#a204502</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/31.html#a204502">Save to Pocket</a>
+</span>
+
+---
+
+##  Carrie Fisher and James Earl Jones never met in real life until... 
+
+date: 2024-01-31, updated: 2024-01-31, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043886-carrie-fisher-and-james-e">https://kottke.org/24/01/0043886-carrie-fisher-and-james-e</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043886-carrie-fisher-and-james-e">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Vision Pro Reviews
+
+date: 2024-01-31, from: Michael Tsai
+
+Nilay Patel (Hacker News): Apple&#8217;s settled for building a headset with real-time video passthrough &#8212; it is the defining tradeoff of the Vision Pro. It is a VR headset masquerading as an AR headset. And let me tell you: the video passthrough on the Vision Pro is really good. [&#8230;] The Vision Pro simply doesn&#8217;t [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/31/apple-vision-pro-reviews/">https://mjtsai.com/blog/2024/01/31/apple-vision-pro-reviews/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/31/apple-vision-pro-reviews/">Save to Pocket</a>
+</span>
+
+---
+
+## Castro Sold Again
+
+date: 2024-01-31, from: Michael Tsai
+
+Castro Team: We are excited to announce Castro has been purchased by Bluck Apps. Castro is a great app with a long history on iOS and many passionate fans, and it will continue to operate in its current form. This is a return to its independent roots. We won&#8217;t be making any drastic changes, like [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/31/castro-sold-again/">https://mjtsai.com/blog/2024/01/31/castro-sold-again/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/31/castro-sold-again/">Save to Pocket</a>
+</span>
+
+---
+
+## NSA Buying Logs From Data Brokers
+
+date: 2024-01-31, from: Michael Tsai
+
+Charlie Savage (via Hacker News): The National Security Agency buys certain logs related to Americans&#8217; domestic internet activities from commercial data brokers, according to an unclassified letter by the agency.The letter, addressed to a Democratic senator and obtained by The New York Times, offered few details about the nature of the data other than to [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/01/31/nsa-buying-logs-from-data-brokers/">https://mjtsai.com/blog/2024/01/31/nsa-buying-logs-from-data-brokers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/01/31/nsa-buying-logs-from-data-brokers/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Shares Assignments for its SpaceX Crew-9 Space Station Mission
+
+date: 2024-01-31, from: NASA breaking news
+
+As part of NASA’s SpaceX Crew-9 mission, four crew members are preparing to launch to the International Space Station and conduct a wide-ranging set of operational and research activities for the benefit of all. Launching aboard the Dragon spacecraft, NASA astronauts Commander Zena Cardman, Pilot Nick Hague, and Mission Specialist Stephanie Wilson, and Roscosmos cosmonaut [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-shares-assignments-for-its-spacex-crew-9-space-station-mission/">https://www.nasa.gov/news-release/nasa-shares-assignments-for-its-spacex-crew-9-space-station-mission/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-shares-assignments-for-its-spacex-crew-9-space-station-mission/">Save to Pocket</a>
+</span>
+
+---
+
+##  Big mountain skier Julian Carr shares what he was thinking about before... 
+
+date: 2024-01-31, updated: 2024-01-31, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043894-big-mountain-skier-julian">https://kottke.org/24/01/0043894-big-mountain-skier-julian</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043894-big-mountain-skier-julian">Save to Pocket</a>
+</span>
+
+---
+
+## The New York Times rolls out new byline pages
+
+date: 2024-01-31, from: Nieman Journalism Lab
+
+With both mistrust in media and AI-generated news on the rise, The New York Times has rolled out new byline pages that emphasize the ethical guidelines and real-life humans behind its reporting. We&#8217;ve covered the expanded bylines and datelines that&#8217;ve previously come from the news org&#8217;s cross-functional trust team. Now, the Times has rolled out hundreds...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/01/the-new-york-times-rolls-out-new-byline-pages/">https://www.niemanlab.org/2024/01/the-new-york-times-rolls-out-new-byline-pages/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/01/the-new-york-times-rolls-out-new-byline-pages/">Save to Pocket</a>
+</span>
+
+---
+
+## Cygnus Flies to the International Space Station
+
+date: 2024-01-31, from: NASA breaking news
+
+In this image from Jan. 30, 2024, an uncrewed Cygnus cargo spacecraft launches atop a SpaceX Falcon 9 rocket, starting its journey to the International Space Station. Launching from NASA’s Kennedy Space Center in Florida, Cygnus carries 8,200 pounds of science investigations and cargo to support dozens of research experiments. This is Northrop Grumman’s 20th [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/cygnus-flies-to-the-international-space-station/">https://www.nasa.gov/image-article/cygnus-flies-to-the-international-space-station/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/cygnus-flies-to-the-international-space-station/">Save to Pocket</a>
+</span>
+
+---
+
+## Parlamentarisches Fragerecht nicht beschneiden!
+
+date: 2024-01-31, updated: 2024-01-31, from: Chaos Computer Club
+
+Der Chaos Computer Club wendet sich gegen eine Einschränkung des Fragerechts für parlamentarische Gruppen.
+
+<span class="feed-item-link">
+<a href="https://www.ccc.de/de/updates/2024/parlamentarisches-fragerecht-nicht-beschneiden">https://www.ccc.de/de/updates/2024/parlamentarisches-fragerecht-nicht-beschneiden</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.ccc.de/de/updates/2024/parlamentarisches-fragerecht-nicht-beschneiden">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;The Curious Case of the Contested Basquiats&#8221; 
+
+date: 2024-01-31, updated: 2024-01-31, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/the-curious-case-of-the-contested-basquiats">https://kottke.org/24/01/the-curious-case-of-the-contested-basquiats</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/the-curious-case-of-the-contested-basquiats">Save to Pocket</a>
+</span>
+
+---
+
+##  A short history of the origin of Comic Sans. Interestingly, the font... 
+
+date: 2024-01-31, updated: 2024-01-31, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/01/0043892-a-short-history-of-the">https://kottke.org/24/01/0043892-a-short-history-of-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/01/0043892-a-short-history-of-the">Save to Pocket</a>
 </span>
 
 ---
@@ -105,7 +491,7 @@ date: 2024-01-31, updated: 2024-01-31, from: Jason Kottke blog
 
 **@Dave Winer's Scripting News** (date: 2024-01-31, from: Dave Winer's Scripting News)
 
-The Knicks <i>are</i> <a href="https://nypost.com/2024/01/31/sports/knicks-taking-fun-to-new-level-and-its-time-to-revel-in-it/">great</a> <a href="https://nypost.com/2024/01/31/sports/precious-achiuwa-has-another-big-night-in-knicks-blowout-win/">now</a>. They're exactly the Knicks we wanted, home-grown, smart, winners. Haven't felt this good about the team since <a href="https://www.google.com/search?q=site%3Ascripting.com+Linsanity">Linsanity</a>. “Next man up.”
+The Knicks are <a href="https://nypost.com/2024/01/31/sports/knicks-taking-fun-to-new-level-and-its-time-to-revel-in-it/">great</a> <a href="https://nypost.com/2024/01/31/sports/precious-achiuwa-has-another-big-night-in-knicks-blowout-win/">now</a>. They're exactly the Knicks we wanted, home-grown, smart, winners. Haven't felt this good about the team since <a href="https://www.google.com/search?q=site%3Ascripting.com+Linsanity">Linsanity</a>. “Next man up.”
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2024/01/31.html#a170636">http://scripting.com/2024/01/31.html#a170636</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/31.html#a170636">Save to Pocket</a>
@@ -244,7 +630,7 @@ JY Stervinou has a <a href="https://github.com/scripting/Scripting-News/issues/2
 
 **@Dave Winer's Scripting News** (date: 2024-01-31, from: Dave Winer's Scripting News)
 
-After my experience creating an Ace editor instance in a Bootstrap modal dialog, which I narrated in a <a href="http://scripting.com/2024/01/28/172149.html">blog post</a> and in the <a href="https://chat.openai.com/share/840e8159-9988-4159-8289-5167d6fb78c8">transcript</a> with ChatGPT, I had a flash that maybe I could figure out how to use ChatGPT to port <a href="http://frontier.userland.com">Frontier</a> to Linux. The code still runs on reasonably current Macs, but not the latest. I really should be working on Linux not Mac. If it weren't for my dependence on Frontier, I would be. I actually think ChatGPT might be a great programming partner for a meaty operating-system-like project like this.
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/03/21/beetle.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">After my experience creating an Ace editor instance in a Bootstrap modal dialog, which I narrated in a <a href="http://scripting.com/2024/01/28/172149.html">blog post</a> and in the <a href="https://chat.openai.com/share/840e8159-9988-4159-8289-5167d6fb78c8">transcript</a> with ChatGPT, I had a flash that maybe I could figure out how to use ChatGPT to port <a href="http://frontier.userland.com">Frontier</a> to Linux. The code still runs on reasonably current Macs, but not the latest. I really should be working on Linux not Mac. If it weren't for my dependence on Frontier, I would be. I actually think ChatGPT might be a great programming partner for a meaty operating-system-like project like this.
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2024/01/31.html#a145010">http://scripting.com/2024/01/31.html#a145010</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/01/31.html#a145010">Save to Pocket</a>
@@ -497,6 +883,20 @@ including improvements to our recommended SystemD configuration files.</p>
 
 <span class="feed-item-link">
 <a href="https://www.postgresql.org/about/news/pgbouncer-1220-released-2802/">https://www.postgresql.org/about/news/pgbouncer-1220-released-2802/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pgbouncer-1220-released-2802/">Save to Pocket</a>
+</span>
+
+---
+
+## This Month in Redox - January 2024
+
+date: 2024-01-31, from: Redox OS News
+
+This is the first in hopefully a regular series of posts about the progress we have made on Redox this month. We have been remiss in keeping you up to date on our progress, but this is an attempt to improve the situation.
+Since the last news post on our progress, there have several major accomplishments and many smaller ones. Forgive us if a few are left out.
+Request for Donations With all the exciting accomplishments of our contributors, it&rsquo;s hard to believe that Redox is getting by on only a few hundred dollars per month in donations.
+
+<span class="feed-item-link">
+<a href="https://www.redox-os.org/news/this-month-240131/">https://www.redox-os.org/news/this-month-240131/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.redox-os.org/news/this-month-240131/">Save to Pocket</a>
 </span>
 
 ---

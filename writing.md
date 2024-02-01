@@ -1,11 +1,87 @@
 ---
 title: writing 2024.05
-updated: 2024-01-31 10:00:40
+updated: 2024-02-01 07:03:42
 ---
 
 # writing 2024.05
 
-(date: 2024-01-31 10:00:40)
+(date: 2024-02-01 07:03:42)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-01, from: Neil Gaiman @ BlueSky)
+
+I'm listening to this, knowing what I wrote but still feeling like I'm grasping at something half-understood but still beautiful.
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkecza7v4e2j">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkecza7v4e2j</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkecza7v4e2j">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 Recommended Reading List
+
+date: 2024-02-01, from: Locus Magazine
+
+<p></p>
+
+
+
+ 
+Welcome to the annual Locus Recommended Reading List!
+<p>Another spin around the ole ball of fire and we&#8217;re back to our annual Recommended Reading List for 2023! Published in Locus magazine’s February 2024 issue, the list is put together by Locus editors, columnists, outside reviewers, and other professionals and well-known critics of genre fiction and non-fiction. We looked at 1,012 titles from 2023 in short fiction and long fiction. The  <a href="https://locusmag.com/2024/02/2023-recommended-reading-list/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/2023-recommended-reading-list/">https://locusmag.com/2024/02/2023-recommended-reading-list/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/2023-recommended-reading-list/">Save to Pocket</a>
+</span>
+
+---
+
+## Issue 757 Table of Contents, February 2024
+
+date: 2024-02-01, from: Locus Magazine
+
+<p>The February 2024 issue of Locus is the annual Year in Review overview with essays, the Locus 2023 Recommended Reading List, and magazine and book summaries tracking the progress of the industry. The issue also features an interview with Martha Wells. News includes the complete 2023 Hugo voting, Tor.com rebranding as Reactor, the empanelment of the World Fantasy Awards judges, the Philip K. Dick Award nominees, Chesley Awards finalists, and  <a href="https://locusmag.com/2024/02/issue-757-table-of-contents-february-2024/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/issue-757-table-of-contents-february-2024/">https://locusmag.com/2024/02/issue-757-table-of-contents-february-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/issue-757-table-of-contents-february-2024/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-01, from: Neil Gaiman @ BlueSky)
+
+Hugo Award news. https://locusmag.com/2024/01/mccarty-standlee-and-others-censured/
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkd5722ign2o">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkd5722ign2o</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkd5722ign2o">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-31, from: Neil Gaiman @ BlueSky)
+
+Mike Ford -- John M Ford -- absolutely, would be on my list...
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkcn3cpeo32t">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkcn3cpeo32t</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkcn3cpeo32t">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-01-31, from: Neil Gaiman @ BlueSky)
+
+Jack Vance at his best. Absolutely.
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkcmx5x6bs23">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkcmx5x6bs23</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkcmx5x6bs23">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,8 +89,10 @@ updated: 2024-01-31 10:00:40
 
 date: 2024-01-31, from: Locus Magazine
 
-<p>Nominations are now open for the Hugo Awards, the Lodestar Award for Best Young Adult Book, and the Astounding Award for Best New Writer, to be presented at Glasgow 2024, A Worldcon for Our Futures, the 82nd World Science Fiction Convention, to be held August 8-12, 2024 in Glasgow, Scotland. The convention says,</p>
-<p>The first stage, nomination, is open to anyone who has a WSFS Membership in the previous or  <a href="https://locusmag.com/2024/01/hugo-awards-nominations-are-open/" class="read-more">...Read More </a></p>
+<p>Update: Nominations are currently offline. The site says:</p>
+<p>We are aware of an issue with nominations. We are investigating and have taken the nominations system offline as a precaution. We are engaging with our UK software provider to deliver us with a solution and a full report. We share your concerns and will provide an update on our usual channels. We are grateful for your patience.
+</p>
+<p>We will update this  <a href="https://locusmag.com/2024/01/hugo-awards-nominations-are-open/" class="read-more">...Read More </a></p>
 
 <span class="feed-item-link">
 <a href="https://locusmag.com/2024/01/hugo-awards-nominations-are-open/">https://locusmag.com/2024/01/hugo-awards-nominations-are-open/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/hugo-awards-nominations-are-open/">Save to Pocket</a>
@@ -430,6 +508,26 @@ date: 2024-01-30, from: Locus Magazine
 
 <span class="feed-item-link">
 <a href="https://locusmag.com/2024/01/2023-imagine-2200-contest-winners/">https://locusmag.com/2024/01/2023-imagine-2200-contest-winners/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/2023-imagine-2200-contest-winners/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Imagine 2200 Contest Winners
+
+date: 2024-01-30, from: Locus Magazine
+
+<p></p>
+<p>Fix, Grist&#8216;s &#8220;solutions lab,&#8221; has announced three winners for their Imagine 2200 Short Story Contest. The contest asks authors &#8220;to envision a clean, just future&#8230; [and] create stories of life in that future.&#8221; The theme was &#8220;Climate fiction for future ancestors.”</p>
+<p>The winners are:</p>
+<ul>
+<li>First Place: &#8220;To Labor for the Hive,&#8221; Jamie Liu</li>
+<li>Second Place: &#8220;The Last Almond,&#8221; Zoe Young</li>
+<li>Third Place: &#8220;A Seder in Siberia,&#8221; Louis Evans</li>
+</ul>
+<p>The other  <a href="https://locusmag.com/2024/01/2024-imagine-2200-contest-winners/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/01/2024-imagine-2200-contest-winners/">https://locusmag.com/2024/01/2024-imagine-2200-contest-winners/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/01/2024-imagine-2200-contest-winners/">Save to Pocket</a>
 </span>
 
 ---

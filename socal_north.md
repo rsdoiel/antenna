@@ -1,17 +1,293 @@
 ---
 title: socal north 2024.05
-updated: 2024-01-31 10:00:39
+updated: 2024-02-01 07:03:41
 ---
 
 # socal north 2024.05
 
-(date: 2024-01-31 10:00:39)
+(date: 2024-02-01 07:03:41)
+
+---
+
+## Permanent Al Fresco Dining Applications Open For LA Eateries
+
+date: 2024-02-01, updated: 2024-02-01, from: The LAist
+
+The temporary rules from the pandemic years will expire this summer. Restaurants need to apply if they want to keep serving on sidewalks and streets.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/permanent-al-fresco-dining-applications-open-for-la-eateries">https://laist.com/news/food/permanent-al-fresco-dining-applications-open-for-la-eateries</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/permanent-al-fresco-dining-applications-open-for-la-eateries">Save to Pocket</a>
+</span>
+
+---
+
+## Best Things To Do This Weekend In Los Angeles and SoCal: Feb. 2 - 4
+
+date: 2024-02-01, updated: 2024-02-01, from: The LAist
+
+Hear John Williams film scores performed by a live orchestra, see Paw Patrol live with your kids, and more!
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/arts-and-entertainment/best-things-to-do-this-weekend-in-los-angeles-and-socal-feb-2-4">https://laist.com/news/arts-and-entertainment/best-things-to-do-this-weekend-in-los-angeles-and-socal-feb-2-4</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/arts-and-entertainment/best-things-to-do-this-weekend-in-los-angeles-and-socal-feb-2-4">Save to Pocket</a>
+</span>
+
+---
+
+## Rent Hikes Return In Most LA Apartments After City’s Nearly Four-Year Ban
+
+date: 2024-02-01, updated: 2024-02-01, from: The LAist
+
+L.A. has frozen rents in rent-controlled housing since the outset of the COVID-19 pandemic. Starting Thursday, landlords can charge up to 6% more.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/la-rent-increases-covid-19-freeze-expire">https://laist.com/news/housing-homelessness/la-rent-increases-covid-19-freeze-expire</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/la-rent-increases-covid-19-freeze-expire">Save to Pocket</a>
+</span>
+
+---
+
+## Heavy Rains Hit SoCal: Here's What We Know So Far
+
+date: 2024-02-01, updated: 2024-02-01, from: The LAist
+
+With the first storm, Southern California is likely to see one to three inches of rain in our urban areas, and as much as 5 inches in our foothills and mountains.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/southern-california-heavy-rain-winter-storm-what-we-know-so-far">https://laist.com/news/climate-environment/southern-california-heavy-rain-winter-storm-what-we-know-so-far</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/southern-california-heavy-rain-winter-storm-what-we-know-so-far">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – February 1, 2024
+
+date: 2024-02-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/01/classifieds-february-1-2024/">Classifieds &#8211; February 1, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/01/classifieds-february-1-2024/">https://dailytrojan.com/2024/02/01/classifieds-february-1-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/01/classifieds-february-1-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Independent in mind, heart and voter registration
+
+date: 2024-02-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>For the first time, my March 5 primary ballot will reflect who I really am.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/01/independent-in-mind-heart-and-voter-registration/">Independent in mind, heart and voter registration</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/01/independent-in-mind-heart-and-voter-registration/">https://dailytrojan.com/2024/02/01/independent-in-mind-heart-and-voter-registration/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/01/independent-in-mind-heart-and-voter-registration/">Save to Pocket</a>
+</span>
+
+---
+
+## Movie theaters are making a comeback
+
+date: 2024-02-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p> Despite predictions that movie theaters would die out, they’re still kicking.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/01/movie-theaters-are-making-a-comeback/">Movie theaters are making a comeback</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/01/movie-theaters-are-making-a-comeback/">https://dailytrojan.com/2024/02/01/movie-theaters-are-making-a-comeback/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/01/movie-theaters-are-making-a-comeback/">Save to Pocket</a>
+</span>
+
+---
+
+## The rise of pluggnb and my obsession with it
+
+date: 2024-02-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A genre caked with meta-ironic aesthetics brings me genuine, unadulterated joy.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/01/the-rise-of-pluggnb-and-my-obsession-with-it/">The rise of pluggnb and my obsession with it</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/01/the-rise-of-pluggnb-and-my-obsession-with-it/">https://dailytrojan.com/2024/02/01/the-rise-of-pluggnb-and-my-obsession-with-it/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/01/the-rise-of-pluggnb-and-my-obsession-with-it/">Save to Pocket</a>
+</span>
+
+---
+
+## Research, startup funds pass $1 billion
+
+date: 2024-02-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Life science projects took a majority of 2022 research and development funding.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/01/research-startup-funds-pass-1-billion/">Research, startup funds pass $1 billion</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/01/research-startup-funds-pass-1-billion/">https://dailytrojan.com/2024/02/01/research-startup-funds-pass-1-billion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/01/research-startup-funds-pass-1-billion/">Save to Pocket</a>
+</span>
+
+---
+
+## It’s time to ride the Jaedyn Shaw Wave
+
+date: 2024-02-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The teenage San Diego Wave F.C. superstar has had a rapid trajectory to the pro game.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/01/199391/">It’s time to ride the Jaedyn Shaw Wave</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/01/199391/">https://dailytrojan.com/2024/02/01/199391/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/01/199391/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s golf set to play in highly touted tournament
+
+date: 2024-02-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans will head to Palos Verdes for their first tournament of the spring.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/01/199379/">Women’s golf set to play in highly touted tournament</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/01/199379/">https://dailytrojan.com/2024/02/01/199379/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/01/199379/">Save to Pocket</a>
+</span>
+
+---
+
+## SCA adjuncts begin voting to unionize
+
+date: 2024-02-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A “YES” vote would require USC to bargain on wages, benefits and job security.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/01/sca-adjuncts-begin-voting-to-unionize/">SCA adjuncts begin voting to unionize</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/01/sca-adjuncts-begin-voting-to-unionize/">https://dailytrojan.com/2024/02/01/sca-adjuncts-begin-voting-to-unionize/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/01/sca-adjuncts-begin-voting-to-unionize/">Save to Pocket</a>
+</span>
+
+---
+
+## Student Health warns of new flu strain
+
+date: 2024-02-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC will offer free STI testing for a month starting Feb. 10 for students not under the Student Health Insurance Plan. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/01/student-health-warns-of-new-flu-strain/">Student Health warns of new flu strain</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/01/student-health-warns-of-new-flu-strain/">https://dailytrojan.com/2024/02/01/student-health-warns-of-new-flu-strain/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/01/student-health-warns-of-new-flu-strain/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s basketball bounces into Bay Area
+
+date: 2024-02-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans aim to climb the Pac-12 standings with wins over Cal and Stanford.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/01/womens-basketball-bounces-into-bay-area-for-conference-matchups/">Women’s basketball bounces into Bay Area</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/01/womens-basketball-bounces-into-bay-area-for-conference-matchups/">https://dailytrojan.com/2024/02/01/womens-basketball-bounces-into-bay-area-for-conference-matchups/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/01/womens-basketball-bounces-into-bay-area-for-conference-matchups/">Save to Pocket</a>
+</span>
+
+---
+
+## Check out these cute cafes in Koreatown
+
+date: 2024-02-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Visit these six cafes close to USC for a day of socializing, studying and sweet coffee.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/01/check-out-these-cute-cafes-in-koreatown/">Check out these cute cafes in Koreatown</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/01/check-out-these-cute-cafes-in-koreatown/">https://dailytrojan.com/2024/02/01/check-out-these-cute-cafes-in-koreatown/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/01/check-out-these-cute-cafes-in-koreatown/">Save to Pocket</a>
+</span>
+
+---
+
+## VA Officials Rebuff Calls to House 4,000 at West LA Campus
+
+date: 2024-02-01, updated: 2024-02-01, from: The LAist
+
+Federal officials say they’re making progress in housing unhoused veterans in the L.A. area, as they push back on calls by a federal judge and advocates to return to housing 4,000 veterans at the agency’s sprawling West L.A. campus.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/veterans-housing-la-west-la">https://laist.com/news/housing-homelessness/veterans-housing-la-west-la</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/veterans-housing-la-west-la">Save to Pocket</a>
+</span>
+
+---
+
+## Major Storm Systems Are Arriving. How To Detect Signs That A Landslide Or Flood Is Imminent
+
+date: 2024-02-01, updated: 2024-02-01, from: The LAist
+
+Tips for those living in areas prone to coastal erosion like along the coast or on a bluff.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/major-storms-damage-tips-flood-landside-socal">https://laist.com/news/climate-environment/major-storms-damage-tips-flood-landside-socal</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/major-storms-damage-tips-flood-landside-socal">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “N.A.S.A. (Not Another Substandard Appointment)”
+
+date: 2024-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/31/editorial-cartoon-n-a-s-a-not-another-substandard-appointment/">https://dailybruin.com/2024/01/31/editorial-cartoon-n-a-s-a-not-another-substandard-appointment/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/31/editorial-cartoon-n-a-s-a-not-another-substandard-appointment/">Save to Pocket</a>
+</span>
+
+---
+
+## Remembering Student Volunteer Efforts After the Northridge Earthquake
+
+date: 2024-01-31, from: The Sundail (CSUN Student Newspaper)
+
+Thirty years ago, an earthquake desolated the San Fernando Valley. Buildings were destroyed, locals were devastated and California State University, Northridge crumbled. With community efforts, though, the college quickly recuperated and was soon up and running after a month. A monument was later erected by CSUN’s then-President Blenda Wilson, who was hired in 1992, to...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178039/print-editions/print-stories/remembering-student-volunteer-efforts-after-the-northridge-earthquake/">https://sundial.csun.edu/178039/print-editions/print-stories/remembering-student-volunteer-efforts-after-the-northridge-earthquake/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178039/print-editions/print-stories/remembering-student-volunteer-efforts-after-the-northridge-earthquake/">Save to Pocket</a>
+</span>
+
+---
+
+## Get Ready for the Return of SENSES Block Parties!
+
+date: 2024-01-31, from: City of Santa Clarita
+
+<p>GET READY FOR THE RETURN OF SENSES BLOCK PARTIES! Monthly Themed Events Transform Main Street in Old Town Newhall Do you ever wonder what Main Street in Old Town Newhall would look like if pirates had taken over? Have you ever wanted to feel what it’s like to explore the Wild West or Wonderland? You [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/01/31/get-ready-for-the-return-of-senses-block-parties/">Get Ready for the Return of SENSES Block Parties!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2024/01/31/get-ready-for-the-return-of-senses-block-parties/">https://santaclarita.gov/blog/2024/01/31/get-ready-for-the-return-of-senses-block-parties/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/01/31/get-ready-for-the-return-of-senses-block-parties/">Save to Pocket</a>
+</span>
+
+---
+
+## Korean Street Foods: Winter Edition
+
+date: 2024-01-31, from: The Daily Bruin (UCLA Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/01/31/korean-street-foods-winter-edition/">https://dailybruin.com/2024/01/31/korean-street-foods-winter-edition/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/31/korean-street-foods-winter-edition/">Save to Pocket</a>
+</span>
 
 ---
 
 ## California Universities Are Required To Offer Students Abortion Pills. A Lot Just Don't Mention It
 
-date: 2024-01-31, updated: 2024-01-31, from: The LAist
+date: 2024-01-31, updated: 2024-02-01, from: The LAist
 
 One year after California became the first state to require that its public universities provide the abortion pill to students, LAist found that basic information on where or how students can obtain the medication is lacking and, often, nonexistent.
 
@@ -222,12 +498,12 @@ The shift from 11th-ranked University of Southern California to winless Central 
 
 ---
 
-## Bruin Commuter Hub, Basic Needs Center provides resources for transfers, commuters
+## BruinHub, Basic Needs Center provides resources for transfers, commuters
 
 date: 2024-01-31, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Jan. 30 at 10:42 p.m.&#160;</em>
-The Bruin Commuter Hub and UCLA Basic Needs Center hosted an event to highlight resources for transfer and commuter students Thursday.
+<em>This post was updated Jan. 31 at 7:05 p.m.&#160;</em>
+The BruinHub and UCLA Basic Needs Center hosted an event to highlight resources for transfer and commuter students Thursday.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/01/30/bruin-commuter-hub-basic-needs-center-provides-resources-for-transfers-commuters/">https://dailybruin.com/2024/01/30/bruin-commuter-hub-basic-needs-center-provides-resources-for-transfers-commuters/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/01/30/bruin-commuter-hub-basic-needs-center-provides-resources-for-transfers-commuters/">Save to Pocket</a>
