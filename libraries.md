@@ -1,11 +1,25 @@
 ---
 title: libraries 2024.05
-updated: 2024-02-01 07:03:42
+updated: 2024-02-02 08:09:17
 ---
 
 # libraries 2024.05
 
-(date: 2024-02-01 07:03:42)
+(date: 2024-02-02 08:09:17)
+
+---
+
+## What if the Earth Suddenly Stopped Spinning?
+
+date: 2024-02-02, from: Scholarly Kitchen
+
+<p>XKCD's Randall Munroe has launched a video series around his "What If?" books and today answers the question, what if the earth stopped spinning?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/02/what-if-the-earth-suddenly-stopped-spinning/">What if the Earth Suddenly Stopped Spinning?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/02/what-if-the-earth-suddenly-stopped-spinning/">https://scholarlykitchen.sspnet.org/2024/02/02/what-if-the-earth-suddenly-stopped-spinning/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/02/what-if-the-earth-suddenly-stopped-spinning/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -142,7 +156,7 @@ date: 2024-01-30, from: Scholarly Kitchen
 
 date: 2024-01-29, from: Association of Research Libraries News
 
-<p>Last Updated on January 30, 2024, 3:05 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 30 &#124; Thursday, February 1 Note: Day...</p>
+<p>Last Updated on February 1, 2024, 5:02 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, January 30 &#124; Thursday, February 1 Note: Day...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-january-29-february-1/">Day in Review (January 29–February 1)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 

@@ -1,11 +1,279 @@
 ---
 title: writing 2024.05
-updated: 2024-02-01 07:03:42
+updated: 2024-02-02 08:09:17
 ---
 
 # writing 2024.05
 
-(date: 2024-02-01 07:03:42)
+(date: 2024-02-02 08:09:17)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-02, from: Neil Gaiman @ BlueSky)
+
+I was quoting the fictional Staged universe me. (starts 18:03)
+
+ https://youtu.be/BzjwYbDN70A?si=KLrPXxP4XCx38SAI
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkgzcjxh2c2i">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkgzcjxh2c2i</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkgzcjxh2c2i">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-02, from: Neil Gaiman @ BlueSky)
+
+Has there?
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkgyvrtbbc2t">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkgyvrtbbc2t</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkgyvrtbbc2t">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-02, from: Neil Gaiman @ BlueSky)
+
+For really good fanfic, the Apocryphal gospels are the tits. I cannot recommend the Gospel of the infancy of Christ highly enough. Everyone who offends baby Jesus dies....
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkgymxpljk2t">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkgymxpljk2t</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkgymxpljk2t">Save to Pocket</a>
+</span>
+
+---
+
+## Colleen Mondor Reviews Cocktails & Chloroform by Kelley Armstrong
+
+date: 2024-02-02, from: Locus Magazine
+
+<p><strong>Cocktails &#38; Chloroform</strong>, Kelley Armstrong (Subterranean Press 978-1-64524-161-4, $45.00, 136pp, hc) December 2023. Cover by Maurizio Manzieri.</p>
+<p>Fans of Kelley Armstrong’s Rip Through Time series with protagonist Mallory Atkinson will be happy with her heroine’s latest exploits in the novella <strong>Cocktails &#38; Chloroform</strong>. Trapped in the Victorian era after a mysterious circum­stance found the homicide detective stuck in the body of Catriona Mitchell, a housemaid who was strangled  <a href="https://locusmag.com/2024/02/colleen-mondor-reviews-cocktails-chloroform-by-kelley-armstrong/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/colleen-mondor-reviews-cocktails-chloroform-by-kelley-armstrong/">https://locusmag.com/2024/02/colleen-mondor-reviews-cocktails-chloroform-by-kelley-armstrong/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/colleen-mondor-reviews-cocktails-chloroform-by-kelley-armstrong/">Save to Pocket</a>
+</span>
+
+---
+
+## Alexandra Pierce Reviews The Year’s Top Robot and AI Stories: Fourth Annual Collection edited by Allan Kaster
+
+date: 2024-02-01, from: Locus Magazine
+
+<p><strong>The Year’s Top Robot and AI Stories: Fourth Annual Collection</strong>, Allan Kaster, ed. (Infinivox 978-1-88461-261-9, $18.99, 286pp, tp) October 2023. Cover by Maurizio Manzieri.</p>
+<p>Discussions around the place of robots and ar­tificial intelligence have grown in relevance and urgency over the last couple of years; AI is gaining ever more presence in our “real” lives rather than just in fiction. Allan Kaster’s fourth collection of stories about robots and  <a href="https://locusmag.com/2024/02/alexandra-pierce-reviews-the-years-top-robot-and-ai-stories-fourth-annual-collection-edited-by-allan-kaster/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/alexandra-pierce-reviews-the-years-top-robot-and-ai-stories-fourth-annual-collection-edited-by-allan-kaster/">https://locusmag.com/2024/02/alexandra-pierce-reviews-the-years-top-robot-and-ai-stories-fourth-annual-collection-edited-by-allan-kaster/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/alexandra-pierce-reviews-the-years-top-robot-and-ai-stories-fourth-annual-collection-edited-by-allan-kaster/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-01, from: Neil Gaiman @ BlueSky)
+
+Raise high the roof beams! Jack Womack is back!
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkf3hx5wjn2n">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkf3hx5wjn2n</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkf3hx5wjn2n">Save to Pocket</a>
+</span>
+
+---
+
+## The 2023 IFDB Awards are open!
+
+date: 2024-02-01, from: IF Database News
+
+The 2023 IFDB Awards are open from Feb 1 to Feb 17! The rules for the competition can be found <A HREF="https://ifdb.org/news?item=135">here</A>, and a list of all categories can be found <A HREF="https://ifdb.org/news?item=136">here</A>.
+
+<span class="feed-item-link">
+<a href="https://ifdb.org/news?item=137">https://ifdb.org/news?item=137</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://ifdb.org/news?item=137">Save to Pocket</a>
+</span>
+
+---
+
+## List of Categories in the 2023 IFDB Awards
+
+date: 2024-02-01, from: IF Database News
+
+Overall Categories</p>
+<p><a href="https://ifdb.org/poll?id=oam5j99lq5iwkxi"><strong>Outstanding Game of the Year 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=fav7j6wnx3l6fugj"><strong>Authors Choice for Best Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=w1jil0mszhkw15rt"><strong>Outstanding Debut 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=f6xsj5zzmcrrukj9"><strong>Outstanding Game over 2 hours in 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=cwnln7mjh8rzpnu"><strong>Outstanding Short Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=82kxxyuxx7ifz418"><strong>Outstanding Underappreciated Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=831fw5m7qzms4zk1"><strong>Most Sequel-worthy game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=2kadi15humt36ltg"><strong>Trailblazer Award of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=jmg0io8yuefxj4n"><strong>Outstanding Worldbuilding of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=d3s3g4p4ug4z7dtp"><strong>Outstanding Use of Interactivity in 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=zmg1hovarz1r9eeu"><strong>Outstanding Retro Game of 2023</strong></a></p>
+
+Language Categories</p>
+<p><a href="https://ifdb.org/poll?id=gtzdpp5zaluvraua"><strong>Outstanding German Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=app3pqtl43jancf"><strong>Outstanding Spanish Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=1irsdexiuax5n9wz"><strong>Outstanding French Game of 2023</strong></a></p>
+
+Genre Categories</p>
+<p><a href="https://ifdb.org/poll?id=nclqam4ywul7z6mg"><strong>Outstanding Childrens Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=cm436vhnay7h7tad"><strong>Outstanding Fantasy Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=buyypjr1lwpp1lf"><strong>Outstanding Educational Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=ga6us9s9xbf26rap"><strong>Outstanding Historical Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=pl09pvdj8la0sx42"><strong>Outstanding Horror Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=u8sq1xpqddjs94yz"><strong>Outstanding Humor Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=oo3lmnoblgn6ngw"><strong>Outstanding Mystery Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=qkmca6b6dl7nwohj"><strong>Outstanding RPG of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=mtwvs2dez4phk5ru"><strong>Outstanding Romance Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=e3wq9ct768o2t21"><strong>Outstanding Science Fiction Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=lfk8pompykd26cik"><strong>Outstanding Slice of Life Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=hv7rikhz3guiem48"><strong>Outstanding Surreal Game of 2023</strong></a></p>
+
+System Categories</p>
+<p><a href="https://ifdb.org/poll?id=ye8zzwm13eyfo6qa"><strong>Outstanding Inform 7 Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=4061lpb57b1gfom3"><strong>Outstanding Twine Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=ayuakmuhs6t6oscx"><strong>Outstanding Ink Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=2wko3hzrh3uoe26i"><strong>Outstanding Choicescript Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=kdr7hoj9hfgsk2ng"><strong>Outstanding Inform 6 Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=kk3v76x0qyisvmuh"><strong>Outstanding PunyInform Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=j4kd9op1zmlmc4s0"><strong>Outstanding Game in a Custom System of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=ox4jujqecvqq7m7q"><strong>Outstanding Moiki Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=74458ngbpmzgly9c"><strong>Outstanding Renpy Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=uist7synu56sfiti"><strong>Outstanding Adventuron Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=wlsir1n5gqi7zypx"><strong>Outstanding Unity Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=3sehphvvtpeowzqa"><strong>Outstanding Bitsy Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=k0j15efhssjy5mm2"><strong>Outstanding Texture Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=ams721ep6yn06pzv"><strong>Outstanding Gruescript Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=b874f0cz38hlz8pb"><strong>Outstanding TADS Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=3wa4pugojtt2owq6"><strong>Outstanding ADRIFT Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=qj7z94vs2kg2ojkq"><strong>Outstanding Decker Game of 2023</strong></a></p>
+<p><a href="https://ifdb.org/poll?id=qpppco7uwgz1qonx"><strong>Outstanding Game in an Uncommon System of 2023</strong></a></p>
+
+<span class="feed-item-link">
+<a href="https://ifdb.org/news?item=136">https://ifdb.org/news?item=136</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://ifdb.org/news?item=136">Save to Pocket</a>
+</span>
+
+---
+
+## Rules for 2023 IFDB Awards
+
+date: 2024-02-01, from: IF Database News
+
+The IFDB Awards is an annual competition designed to award excellence in creating interactive fiction.It is held from February 1st to the first weekend after February 15th each year on the Interactive Fiction Database, and take the form of polls.</P>
+
+Votes are public but anonymized. Every IFDB member is eligible to vote, except for one special poll, the Authors Choice Poll. Eligibility to vote in the Authors Choice competition is determined by having a game linked to your IFDB profile (this can be found by editing a game page and use the Link to Authors Profile feature. Authors added incorrectly to a game will not be permitted to vote (for instance, if someone associates a random game they didnt make to their account).</P>
+
+Rules for discussion and voting
+<br>
+-Voting must be in good faith and be based on personal experience with the games involved.<br>
+
+-Campaigning or organizing voting is not allowed if it breaks the above rule.<br>
+
+-Discussion of games on merit is allowed and encouraged.<br>
+
+-There is no hard limit on how many votes a person can cast in each poll for different games. A player voting for so many games that it makes voting difficult for others (such as voting for every game from the whole year) may have their votes removed, but only after warning.<br>
+
+-Author cannot vote for their own games. Such votes will be removed so that the running tallies are correct. Authors can post about their own games (for instance on intfiction) as long as doesnt encourage people to break the rules (such as telling people to vote for your game even if they havent played it).
+</P>
+
+Code of conduct
+</P>
+-Voters must abide by the <A HREF="https://ifdb.org/code-of-conduct">IFDB Code of Conduct</A>. Harassment of other voters (including on other platforms) and creating multiple accounts for one person are prohibited.
+</P>
+Moderation
+-Votes that are cast incorrectly (for instance, voting for a Twine game in a Choicescript poll) or fraudulently (for instance, using sockpuppet accounts) may be removed.
+</P>
+Eligibility
+<br>
+-For most polls, games are eligible if they are listed on IFDB and have a publication date during 2023.<br>
+
+-For system-specific polls, games additionally must have the appropriate system or genre listed on their IFDB page under the specified field.<br>
+
+-Each poll will have a link to an IFDB search listing suggested games. Outside of system-based polls, users can vote for any game they feel fits the criteria.<br>
+
+-Any IFDB user can edit game pages to confirm eligibility. However, malicious editing (such as adding every genre to a game or adding incorrect systems to a game) will be reverted or removed.<br>
+
+-Any game author can opt out of the competition. Adding a note to the game page during the competition may be helpful to let others know not to vote for it, but opting out should be officially done by messaging the organizer (me, for now).<br>
+
+</P>
+Results
+<br>
+-Results will be clearly visible throughout the poll. However, there will be a grace period of up to 3 days at the end to allow checking of votes before the official announcements, which will be made on Intfiction and IFDB.<br>
+
+-Polls with very low traffic will not have a winner awarded. This is left up to organizer discretion, but low traffic may include less than 5 votes for the winning game or less than ten votes total cast.</P>
+
+
+Future of Awards
+</P>
+One of the main purposes of these new awards is to be community-owned and regular. They need to keep working even if I dont keep working.</P>
+
+
+The awards begin on February 1st of each year. If Feb 1st passes without the current organizer having created the polls, anyone can create the polls themselves.</P>
+
+The community can propose new changes to awards or new organizers via public discussion. A public yes/no poll on intfiction with more than 50% voting yes can be used to add new organizers. Current organizers can also add in other organizers or successors, subject to a public veto.
+
+<span class="feed-item-link">
+<a href="https://ifdb.org/news?item=135">https://ifdb.org/news?item=135</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://ifdb.org/news?item=135">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-01, from: Neil Gaiman @ BlueSky)
+
+2 hours left on the Terry Pratchett humble bundle. All the ebooks for the cost of one hardback. You may want this...
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kker64ctgd2j">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kker64ctgd2j</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kker64ctgd2j">Save to Pocket</a>
+</span>
+
+---
+
+## A Copyright Small Claims Update: Defaults and Failure to Opt Out
+
+date: 2024-02-01, from: Author's Union blog
+
+We’ve been tracking for a few years the new copyright small claims court known as the Copyright Claims Board. My last update was in September when I posted a summary of a paper I wrote with Katie Fortney summarizing data about the first year of operations of the court (thanks entirely to Katie for doing [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.authorsalliance.org/2024/02/01/a-copyright-small-claims-update-defaults-and-failure-to-opt-out/">https://www.authorsalliance.org/2024/02/01/a-copyright-small-claims-update-defaults-and-failure-to-opt-out/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.authorsalliance.org/2024/02/01/a-copyright-small-claims-update-defaults-and-failure-to-opt-out/">Save to Pocket</a>
+</span>
+
+---
+
+## From the 2023 Recommended Reading List: The Siren, the Song, and the Spy
+
+date: 2024-02-01, from: Locus Magazine
+
+<p><b>Here&#8217;s a highlight from our 2023 Recommended Reading List:</b> <strong>The Siren, the Song, and the Spy</strong> by Maggie Tokuda-Hall, out from Candlewick.</p>
+<p>In this second vibrant fantasy from Maggie Tokuda-Hall, companion to her bestselling debut, <strong>The Mermaid, the Witch, and the Sea</strong>, a diverse resistance force fights to topple an empire in a story about freedom, identity, and decolonization.</p>
+<p>By sinking a fleet of Imperial Warships, the Pirate Supreme  <a href="https://locusmag.com/2024/02/from-the-2023-recommended-reading-list-the-siren-the-song-and-the-spy/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/from-the-2023-recommended-reading-list-the-siren-the-song-and-the-spy/">https://locusmag.com/2024/02/from-the-2023-recommended-reading-list-the-siren-the-song-and-the-spy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/from-the-2023-recommended-reading-list-the-siren-the-song-and-the-spy/">Save to Pocket</a>
+</span>
+
+---
+
+## Charles Payseur Reviews Short Fiction: Lightspeed, Beneath Ceaseless Skies, GigaNotoSaurus, Flash Fiction Online, and F&SF
+
+date: 2024-02-01, from: Locus Magazine
+
+<p>Lightspeed 11/23
+Beneath Ceaseless Skies 11/2/23, 11/16/23
+GigaNotoSaurus 11/23
+Flash Fiction Online 11/23
+F&#38;SF 11-12/23</p>
+<p>The November Lightspeed shows a keen inter­est in storytelling forms, with stories framed as recipes, as reviews, as confessions, and with <strong>Regina Kanyu Wang</strong>’s “<strong>A Record of Lost Time</strong>” (translated by Rebecca F. Kuang) as a series of personal narratives surrounding a new technol­ogy called FastForward, which allows users to experience “sped  <a href="https://locusmag.com/2024/02/charles-payseur-reviews-short-fiction-lightspeed-beneath-ceaseless-skies-giganotosaurus-flash-fiction-online-and-fsf/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/charles-payseur-reviews-short-fiction-lightspeed-beneath-ceaseless-skies-giganotosaurus-flash-fiction-online-and-fsf/">https://locusmag.com/2024/02/charles-payseur-reviews-short-fiction-lightspeed-beneath-ceaseless-skies-giganotosaurus-flash-fiction-online-and-fsf/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/charles-payseur-reviews-short-fiction-lightspeed-beneath-ceaseless-skies-giganotosaurus-flash-fiction-online-and-fsf/">Save to Pocket</a>
+</span>
 
 ---
 

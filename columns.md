@@ -1,11 +1,179 @@
 ---
 title: columns 2024.05
-updated: 2024-02-01 07:03:42
+updated: 2024-02-02 08:09:17
 ---
 
 # columns 2024.05
 
-(date: 2024-02-01 07:03:42)
+(date: 2024-02-02 08:09:17)
+
+---
+
+## A Self-Enforcing Protocol to Solve Gerrymandering
+
+date: 2024-02-02, updated: 2024-01-26, from: Bruce Schneier blog
+
+<p>In 2009, <a href="https://www.schneier.com/blog/archives/2009/08/self-enforcing.html">I wrote</a>:</p>
+<blockquote><p>There are several ways two people can divide a piece of cake in half. One way is to find someone impartial to do it for them. This works, but it requires another person. Another way is for one person to divide the piece, and the other person to complain (to the police, a judge, or his parents) if he doesn&#8217;t think it’s fair. This also works, but still requires another person&#8212;­at least to resolve disputes. A third way is for one person to do the dividing, and for the other person to choose the half he wants.</p></blockquote>
+<p>The point is that unlike protocols that require a neutral third party to complete (arbitrated), or protocols that require that neutral third party to resolve disputes (adjudicated), self-enforcing protocols just work. Cut-and-choose works because neither side can cheat. And while the math can get really complicated, the idea ...</p>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/a-self-enforcing-protocol-to-solve-gerrymandering.html">https://www.schneier.com/blog/archives/2024/02/a-self-enforcing-protocol-to-solve-gerrymandering.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/a-self-enforcing-protocol-to-solve-gerrymandering.html">Save to Pocket</a>
+</span>
+
+---
+
+## Why I was expelled from Miss Bouton’s nursery school
+
+date: 2024-02-02, from: Robert Reich's blog
+
+The start of my schooling did not go well
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/why-i-was-expelled-from-miss-boutons">https://robertreich.substack.com/p/why-i-was-expelled-from-miss-boutons</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/why-i-was-expelled-from-miss-boutons">Save to Pocket</a>
+</span>
+
+---
+
+## Five year full time curl anniversary
+
+date: 2024-02-02, from: Daniel Stenberg Blog
+
+Five years ago now, on February 2nd 2019, I started working for wolfSSL doing curl full time. I have now worked longer for wolfSSL than I previously did for Mozilla. I have said it before and I will say it again: working full time on curl is my definition of living the dream. Joining wolfSSL &#8230; <a href="https://daniel.haxx.se/blog/2024/02/02/five-year-full-time-curl-anniversary/" class="more-link">Continue reading <span class="screen-reader-text">Five year full time curl anniversary</span> <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://daniel.haxx.se/blog/2024/02/02/five-year-full-time-curl-anniversary/">https://daniel.haxx.se/blog/2024/02/02/five-year-full-time-curl-anniversary/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daniel.haxx.se/blog/2024/02/02/five-year-full-time-curl-anniversary/">Save to Pocket</a>
+</span>
+
+---
+
+## Friday 2 February, 2024
+
+date: 2024-02-02, from: John Naughton's online diary
+
+Young farmer of the year Provence, Summer 2023 at a street festival put on for kids by the local branch of the Farmers Union. Quote of the Day ”Sex without love is a meaningless experience, but as far as meaningless &#8230; <a href="https://memex.naughtons.org/friday-2-february-2024/39091/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/friday-2-february-2024/39091/">https://memex.naughtons.org/friday-2-february-2024/39091/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/friday-2-february-2024/39091/">Save to Pocket</a>
+</span>
+
+---
+
+## PCalc, Fantastical, and Over 598 Other Native VisionOS Apps, Are Available in the App Store For Launch Day
+
+date: 2024-02-01, updated: 2024-02-01, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.apple.com/newsroom/2024/02/apple-announces-more-than-600-new-apps-built-for-apple-vision-pro/">https://www.apple.com/newsroom/2024/02/apple-announces-more-than-600-new-apps-built-for-apple-vision-pro/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.apple.com/newsroom/2024/02/apple-announces-more-than-600-new-apps-built-for-apple-vision-pro/">Save to Pocket</a>
+</span>
+
+---
+
+## What does Vision Pro & T1 connection have in common?
+
+date: 2024-02-01, from: Om Malik blog
+
+A review unit of Apple’s Vision Pro showed up yesterday. I&#8217;ve spent the majority of the past 24 hours setting it up. The setup was much simpler than I thought it would be. Given my previous experiences with the device at Apple Park, I have a slight advantage. So, your mileage might vary. Still, I &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/02/01/what-does-vision-pro-t1-connection-have-in-common/">https://om.co/2024/02/01/what-does-vision-pro-t1-connection-have-in-common/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/02/01/what-does-vision-pro-t1-connection-have-in-common/">Save to Pocket</a>
+</span>
+
+---
+
+## Quiz: Do you favor giving some help to poor kids but even more to the rich?
+
+date: 2024-02-01, from: Robert Reich's blog
+
+That&#8217;s the tradeoff in the new tax bill
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/quiz-do-you-favor-giving-some-help">https://robertreich.substack.com/p/quiz-do-you-favor-giving-some-help</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/quiz-do-you-favor-giving-some-help">Save to Pocket</a>
+</span>
+
+---
+
+## The Stanford Digital Library Project
+
+date: 2024-02-01, from: David Rosenthal's blog
+
+<a href="https://doi.org/10.1145/205323.205338"><i>The Stanford Digital Library Project</i></a> stated its goal thus:<br />
+<blockquote>
+  The Stanford Integrated Digital Library Project will develop enabling technologies for an integrated “virtual” library to provide an array of new services and uniform access to networked information collections. The Integrated Digital Library will create a shared environment linking everything from personal information collections, to collections of conventional libraries, to large data collections shared by scientists.
+</blockquote>
+Stanford librarians <a href="http://diglib.stanford.edu:8091/diglib/pub/people.shtml">Vicky Reich and Rebecca Wesley</a> provided the "library" input for the research.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUMd9QzEAJGFvn6ExiorNPalduqn-l7tac26cnhh30NqeqJpdVOwRUuaVgZ25fVZe9dgCdpIHnKG74xVG-aaEvGEgjJb9IdOR8x8JBVQFprIWh_wHe_MfjtOy4SwKeNjIN_v3HL04EmYTfYwO1BUXQQ5lPI9cz9DBTa2grkiEQaVL4hoI2dUlMfxMyPPa/s482/Google.png" style="clear: right; display: block; margin-left: auto; margin-right: auto; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="130" data-original-width="482" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVUMd9QzEAJGFvn6ExiorNPalduqn-l7tac26cnhh30NqeqJpdVOwRUuaVgZ25fVZe9dgCdpIHnKG74xVG-aaEvGEgjJb9IdOR8x8JBVQFprIWh_wHe_MfjtOy4SwKeNjIN_v3HL04EmYTfYwO1BUXQQ5lPI9cz9DBTa2grkiEQaVL4hoI2dUlMfxMyPPa/s200/Google.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://web.archive.org/web/19981111184551/http://google.com/">Wayback Machine, 11/11/98</a></td></tr></tbody></table>
+In particular Vicky explained <a href="https://en.wikipedia.org/wiki/Citation_index">citation indices</a>, the concept behind <a href="https://en.wikipedia.org/wiki/PageRank">Page Rank</a>, to <a href="https://en.wikipedia.org/wiki/Larry_Page">Larry Page</a> and <a href="https://en.wikipedia.org/wiki/Sergey_Brin">Sergey Brin</a>. <a href="https://en.wikipedia.org/wiki/Andy_Bechtolsheim">Andy Bechtolsheim</a> was famously instrumental in persuading them to turn their demo of a Page Rank search engine into Google, the company. In his fascinating interview in the Computer History Museum's <a href="https://www.computerhistory.org/collections/oralhistories/?s=date">oral history</a> collection, Andy explains why the idea of ranking pages by their inbound links was so important.<br />
+<br />
+Below the fold I have taken the liberty of transcribing and cleaning up the relevant section of Andy's stream of conciousness, both because it is important history and because it exactly reflects the Andy I was privileged to know in the early days of Sun Microsystems.<br />
+<span><a name='more'></a></span>
+<br />
+<div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="294" src="https://www.youtube.com/embed/GjR7sRASjdo" width="440" youtube-src-id="GjR7sRASjdo"></iframe></div>
+<br />
+This rough transcript runs from <a href="https://youtu.be/GjR7sRASjdo?feature=shared&amp;t=2867">[47:47]</a> to <a href="https://youtu.be/GjR7sRASjdo?feature=shared&amp;t=3215">[53:35]</a>. Andy speaks:<br />
+<br />
+The true story is that I met the founders of Google before the company existed because they were, like I was, a student at Stanford.
+I'm not sure Larry was really ready to abandon the PhD program and jump into this.
+So I was in this same position once myself and I used the same line "you'll always finish your PhD later".
+Now the concern I had is that if they didn't get going this great idea may be not happening.
+<br /><br />
+Of course I was involved in the company itself but it was really really a very good idea, one of the best ideas I've ever seen.
+This notion of relevant search  and relevant ads and this business model that solved it
+Put it this way, I was very familiar with scientific publishing where what matters is not how many papers you write but how many people cite your papers.
+So if you apply the same thing to the Web clearly what is relevant is what other people link to and notice.
+You could automatically build a graph, a structure that said what's more important than others.
+<br /><br />
+At the time people didn't think automatic search was actually possible because Alta Vista which was popular at the time just looked at keywords.
+What people would do is they would add the whole dictionary as a dark page behind the document.
+Since every word you are looking for is in the dictionary you couldn't find anything any more because every document had every word.
+That wasn't a path to success; you couldn't actually look at the document because it could just be spam.
+<br /><br />
+Yahoo believed fairly strongly, they actually had at one point talked to Larry and Sergey and maybe even Larry was offering them to sell them the idea but Yahoo passed on the belief that you just couldn't do it.
+They really thought you could hire people, like newspaper editors, they would make the sports section and the garden section like a newspaper; select content from the Web that then they would present to the front page.
+Clearly that was not going to scale if there were millions of Web pages you just couldn't keep it up.
+<br /><br />
+So Larry and Sergey believed very strongly that it had to be automatic and that if that wasn't possible  — it was the only way to do it basically.
+That first demo which they had on a laptop was actually quite compelling it looked the same as before — here's the lucky button.
+The only worry was they wanted to sort of demo they could scale the search engine to like a couple of racks of computers before they would raise the real venture and there was some question whether it was scalable.
+For that they just wanted to raise a small amount of money to build the first couple of racks with motherboards.
+<br /><br />
+The money that I put in there on day one was actually before the company started helped to demonstrate that.
+So I bought them this check.
+They had the name of the company but the check was to the name of the company that didn't exist.
+At the time some of the law firms were so busy they didn't want to take on new clients that didn't have some funding behind them.
+I figured if I write them a check it would help them to get the right firm.
+But I can't claim any credit for what they've done its all due to the insight they had and the team they built.
+<br /><br />
+Let me back up here.
+I couldn't find stuff on Alta Vista so I was desperate for better search.
+A lot of my time was looking for data sheets and information I was looking for and if I couldn't find anything on the Web the Web wouldn't be very useful.
+Like, how do you find stuff?
+Its the most important thing.
+So for me it was a personal goal to have something that would actually work.
+<br /><br />
+But in any new company the first question is "what's your business model?"
+Even at the time they had this model of sponsored links that would take your search query and link it to this ad inventory.
+I asked them "how much is it per click?" and they said 5 cents per click which is still their bottom price today - this is before they got into the competitive bidding - and I did this math in the back of my mind  "a million clicks a day and 5 cents a click is $50K a day" — they can't go broke.
+<br /><br />
+I had no idea how this would scale, in effect I don't think anybody understood this but it was clear that there was enough interest in finding the people who were looking for stuff.
+Lets say you search for a tennis racket.
+That means you're probably a tennis player and most likely there will be an ad that shows you tennis rackets or tennis balls or something that relates to your interest.
+And the key was you have an unlimited ad inventory, instead of having these banner ads that I have never clicked on in my life, maybe once.
+<br /><br />
+Banner ads are a waste of bandwidth essentially.
+These ads were highly more relevant and even today except for spam mail its the most cost-effective way of advertising or finding customers.
+It took advantage of the fact that the Internet is a full-duplex communication path whereas banner ads were more like TV — here's your ad break and here's what you have to consume before you get to the next page.
+<br /><br />
+Google was an absolutely brilliant idea but funnily enough their business really took off after the dot-com implosion in 2001.
+If you look at their historical revenue what happened at that point I believe was that people realized that they spent on banner ads was basically wasted and they got back to an ROI calculation of where do we apply money more cost-effectively and, yeah, so Google.
+Once people started bidding for the keywords of course the price per click went up but it still provides very very good value for advertisers.
+
+<span class="feed-item-link">
+<a href="https://blog.dshr.org/2024/02/the-stanford-digital-library-project.html">https://blog.dshr.org/2024/02/the-stanford-digital-library-project.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.dshr.org/2024/02/the-stanford-digital-library-project.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -147,7 +315,7 @@ date: 2024-01-30, updated: 2024-01-29, from: Bruce Schneier blog
 
 ## ★ The Vision Pro
 
-date: 2024-01-30, updated: 2024-01-31, from: Daring Fireball
+date: 2024-01-30, updated: 2024-02-02, from: Daring Fireball
 
 A headset, a spatial productivity platform, and a personal entertainment device.
 

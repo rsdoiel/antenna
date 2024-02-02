@@ -1,11 +1,131 @@
 ---
 title: mid central 2024.05
-updated: 2024-02-01 07:03:42
+updated: 2024-02-02 08:09:17
 ---
 
 # mid central 2024.05
 
-(date: 2024-02-01 07:03:42)
+(date: 2024-02-02 08:09:17)
+
+---
+
+## Chiplets diary: Three anecdotes recount design progress
+
+date: 2024-02-02, from: EDN Blog
+
+<img width="769" height="782" src="https://www.edn.com/wp-content/uploads/Fig-1-Chiplets-Eliyan.jpg?fit=769%2C782" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-Chiplets-Eliyan.jpg?w=769 769w, https://www.edn.com/wp-content/uploads/Fig-1-Chiplets-Eliyan.jpg?w=295 295w" sizes="(max-width: 769px) 100vw, 769px" /><p>Three chiplet design highlights show how key building blocks are falling in place while being taped out at advanced nodes.</p>
+<p>The post <a href="https://www.edn.com/chiplets-diary-three-anecdotes-recount-design-progress/" data-wpel-link="internal">Chiplets diary: Three anecdotes recount design progress</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/chiplets-diary-three-anecdotes-recount-design-progress/">https://www.edn.com/chiplets-diary-three-anecdotes-recount-design-progress/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/chiplets-diary-three-anecdotes-recount-design-progress/">Save to Pocket</a>
+</span>
+
+---
+
+## Three cinephiles predict stacked Oscar nominations
+
+date: 2024-02-02, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Alexa: With the new year finally here, there are a lot of things to look forward to like making new goals, catching up with the football season and other similarly exciting things. But the new year also means award season with the 96th annual Academy Awards premiering on March 10, 2024. Cesar: With the list...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/three-cinephiles-predict-stacked-oscar-nominations/">https://fscollegian.com/2024/02/three-cinephiles-predict-stacked-oscar-nominations/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/three-cinephiles-predict-stacked-oscar-nominations/">Save to Pocket</a>
+</span>
+
+---
+
+## ARRL Foundation Accepting Applications for Grants in February
+
+date: 2024-02-01, from: Amateur Radio Relay League News
+
+<p>The ARRL Foundation is now accepting grant applications from amateur radio organizations for eligible amateur radio-related projects and initiatives, particularly those focused on educating, licensing, and supporting amateur radio activities, to grow amateur radio's future, youth-based projects and initiatives are especially encouraged.</p><p>The ARRL Foundation grants program accepts proposals on a c...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/arrl-foundation-accepting-applications-for-grants-in-february-1">http://www.arrl.org/news/view/arrl-foundation-accepting-applications-for-grants-in-february-1</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/arrl-foundation-accepting-applications-for-grants-in-february-1">Save to Pocket</a>
+</span>
+
+---
+
+## Fresno State men’s golf is off to a strong start with room for improvement
+
+date: 2024-02-01, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+In its first spring season tournament, the Fresno State men&#8217;s golf team finished seventh at the Arizona National Invitational Tournament., which took place from Jan. 29-30.  The team shot 27 under 837 as Bulldog senior Matthew Manganello led the team with the lowest score overall.  The ‘Dogs came into the tournament with some remarkable feats...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/fresno-state-mens-golf-is-off-to-a-strong-start-with-room-for-improvement/">https://fscollegian.com/2024/02/fresno-state-mens-golf-is-off-to-a-strong-start-with-room-for-improvement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/fresno-state-mens-golf-is-off-to-a-strong-start-with-room-for-improvement/">Save to Pocket</a>
+</span>
+
+---
+
+## Scope probes reach bandwidths up to 52 GHz
+
+date: 2024-02-01, from: EDN Blog
+
+<img width="800" height="468" src="https://www.edn.com/wp-content/uploads/Keysight-InfiniiMax-4.jpg?fit=800%2C468" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Keysight-InfiniiMax-4.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Keysight-InfiniiMax-4.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Keysight-InfiniiMax-4.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>InfiniiMax 4 oscilloscope probes from Keysight operate at bandwidths up to 52 GHz (brickwall reponse) and 40 GHz (Bessel-Thomson response).</p>
+<p>The post <a href="https://www.edn.com/scope-probes-reach-bandwidths-up-to-52-ghz/" data-wpel-link="internal">Scope probes reach bandwidths up to 52 GHz</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/scope-probes-reach-bandwidths-up-to-52-ghz/">https://www.edn.com/scope-probes-reach-bandwidths-up-to-52-ghz/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/scope-probes-reach-bandwidths-up-to-52-ghz/">Save to Pocket</a>
+</span>
+
+---
+
+## Low-noise amplifier is radiation-tolerant
+
+date: 2024-02-01, from: EDN Blog
+
+<img width="800" height="362" src="https://www.edn.com/wp-content/uploads/Teledyne-TDLNA0430SEP.jpg?fit=800%2C362" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Teledyne-TDLNA0430SEP.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Teledyne-TDLNA0430SEP.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Teledyne-TDLNA0430SEP.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Teledyne’s TDLNA0430SEP low-noise amplifier targets space and military communication receivers and radar systems operating in the UHF to S-Band.</p>
+<p>The post <a href="https://www.edn.com/low-noise-amplifier-is-radiation-tolerant/" data-wpel-link="internal">Low-noise amplifier is radiation-tolerant</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/low-noise-amplifier-is-radiation-tolerant/">https://www.edn.com/low-noise-amplifier-is-radiation-tolerant/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/low-noise-amplifier-is-radiation-tolerant/">Save to Pocket</a>
+</span>
+
+---
+
+## Flyback switcher ICs boost efficiency
+
+date: 2024-02-01, from: EDN Blog
+
+<img width="800" height="420" src="https://www.edn.com/wp-content/uploads/Power-Int-InnoSwitch5pro.jpg?fit=800%2C420" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Power-Int-InnoSwitch5pro.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Power-Int-InnoSwitch5pro.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Power-Int-InnoSwitch5pro.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>InnoSwitch5-Pro programmable flyback switchers from Power Integrations employ zero-voltage switching and SR FET control to achieve >95% efficiency.</p>
+<p>The post <a href="https://www.edn.com/flyback-switcher-ics-boost-efficiency/" data-wpel-link="internal">Flyback switcher ICs boost efficiency</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/flyback-switcher-ics-boost-efficiency/">https://www.edn.com/flyback-switcher-ics-boost-efficiency/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/flyback-switcher-ics-boost-efficiency/">Save to Pocket</a>
+</span>
+
+---
+
+## Cortex-M85 MCUs improve motor control
+
+date: 2024-02-01, from: EDN Blog
+
+<img width="800" height="477" src="https://www.edn.com/wp-content/uploads/Renesas-RA8T1.jpg?fit=800%2C477" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Renesas-RA8T1.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-RA8T1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-RA8T1.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The third group in the Renesas RA8 series of MCUs, RA8T1 devices offer real-time control of motors and inverters used in industrial, building, and home automation.</p>
+<p>The post <a href="https://www.edn.com/cortex-m85-mcus-improve-motor-control/" data-wpel-link="internal">Cortex-M85 MCUs improve motor control</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/cortex-m85-mcus-improve-motor-control/">https://www.edn.com/cortex-m85-mcus-improve-motor-control/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/cortex-m85-mcus-improve-motor-control/">Save to Pocket</a>
+</span>
+
+---
+
+## Cadence debuts AI thermal design platform
+
+date: 2024-02-01, from: EDN Blog
+
+<img width="800" height="441" src="https://www.edn.com/wp-content/uploads/Cadence-Celsius.jpg?fit=800%2C441" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Cadence-Celsius.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Cadence-Celsius.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Cadence-Celsius.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Cadence Celsius Studio, an AI-enabled thermal design and analysis platform for electronic systems, aims to unify electrical and mechanical CAD.</p>
+<p>The post <a href="https://www.edn.com/cadence-debuts-ai-thermal-design-platform/" data-wpel-link="internal">Cadence debuts AI thermal design platform</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/cadence-debuts-ai-thermal-design-platform/">https://www.edn.com/cadence-debuts-ai-thermal-design-platform/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/cadence-debuts-ai-thermal-design-platform/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +133,7 @@ updated: 2024-02-01 07:03:42
 
 date: 2024-02-01, from: EDN Blog
 
-<img width="423" height="425" src="https://www.edn.com/wp-content/uploads/Figure-1_Subzero.png?fit=423%2C425" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-1_Subzero.png?w=423 423w, https://www.edn.com/wp-content/uploads/Figure-1_Subzero.png?w=150 150w, https://www.edn.com/wp-content/uploads/Figure-1_Subzero.png?w=300 300w" sizes="(max-width: 423px) 100vw, 423px" /><p>Avoid op-amp saturation error by keeping op-amp outputs “live” and below zero volts with an HC4053 and almost any low power RRIO op-amp.</p>
+<img width="423" height="425" src="https://www.edn.com/wp-content/uploads/Figure-1_Subzero.png?fit=423%2C425" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-1_Subzero.png?w=423 423w, https://www.edn.com/wp-content/uploads/Figure-1_Subzero.png?w=150 150w, https://www.edn.com/wp-content/uploads/Figure-1_Subzero.png?w=300 300w" sizes="(max-width: 423px) 100vw, 423px" /><p>Avoid op-amp saturation error by keeping op-amp outputs “live” and below zero volts with an HC4053 and almost any low power RRIO op-amp.</p>
 <p>The post <a href="https://www.edn.com/sub-zero-op-amp-regulates-charge-pump-inverter/" data-wpel-link="internal">“Sub-zero” op-amp regulates charge pump inverter</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 

@@ -1,11 +1,167 @@
 ---
 title: motorcycles 2024.05
-updated: 2024-02-01 07:03:42
+updated: 2024-02-02 08:09:17
 ---
 
 # motorcycles 2024.05
 
-(date: 2024-02-01 07:03:42)
+(date: 2024-02-02 08:09:17)
+
+---
+
+## 2024 KTM 1390 Super Duke R Evo: Everything We Know
+
+date: 2024-02-02, from: Ride Apart, Electric Motorcycle News
+
+Let’s take a deeper dive into Team Orange’s most potent hyper-naked to date. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707103/2024-ktm-1390-super-duke-r-evo-everything-we-know/">https://www.rideapart.com/news/707103/2024-ktm-1390-super-duke-r-evo-everything-we-know/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707103/2024-ktm-1390-super-duke-r-evo-everything-we-know/">Save to Pocket</a>
+</span>
+
+---
+
+## Nolan Has A New Modular Touring Helmet Called The N120-1
+
+date: 2024-02-02, from: Ride Apart, Electric Motorcycle News
+
+It’s the first helmet in Nolan’s collection to feature flip-back technology. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707095/2024-nolan-n1201-modular-helmet/">https://www.rideapart.com/news/707095/2024-nolan-n1201-modular-helmet/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707095/2024-nolan-n1201-modular-helmet/">Save to Pocket</a>
+</span>
+
+---
+
+## Check Out Gocycle’s Sleek And Sporty CX Cargo E-Bike
+
+date: 2024-02-02, from: Ride Apart, Electric Motorcycle News
+
+Gocycle wants to make electric cargo bikes fun and exciting too. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707092/gocycle-cx-electric-cargo-bike/">https://www.rideapart.com/news/707092/gocycle-cx-electric-cargo-bike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707092/gocycle-cx-electric-cargo-bike/">Save to Pocket</a>
+</span>
+
+---
+
+## Check Out The New Moto Morini X-Cape 650 Black Ebony Edition
+
+date: 2024-02-02, from: Ride Apart, Electric Motorcycle News
+
+Check Out The New Moto Morini X-Cape 650 Black Ebony Edition 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707077/moto-morini-xcape-650-black-ebony/">https://www.rideapart.com/news/707077/moto-morini-xcape-650-black-ebony/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707077/moto-morini-xcape-650-black-ebony/">Save to Pocket</a>
+</span>
+
+---
+
+## Check Out Touratech’s Soft Luggage Lineup For The New BMW R 1300 GS
+
+date: 2024-02-02, from: Ride Apart, Electric Motorcycle News
+
+Touratech gears the new BMW R 1300 GS up for the long haul with a wide selection of tank bags and saddlebags. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707075/touratech-soft-luggage-r1300gs/">https://www.rideapart.com/news/707075/touratech-soft-luggage-r1300gs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707075/touratech-soft-luggage-r1300gs/">Save to Pocket</a>
+</span>
+
+---
+
+## You Know You Want To See A MotoGP Bike On Ice
+
+date: 2024-02-01, from: Ride Apart, Electric Motorcycle News
+
+Inch-long studs conquer the slip and make those tires grip for Dani Pedrosa's Red Bull KTM RC16.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707073/motogp-bike-ice-racing-pedrosa/">https://www.rideapart.com/news/707073/motogp-bike-ice-racing-pedrosa/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707073/motogp-bike-ice-racing-pedrosa/">Save to Pocket</a>
+</span>
+
+---
+
+## KTM Duke - 30 Years of Pure, Naked Motorcycling
+
+date: 2024-02-01, from: Cycle World News
+
+The last 30 years of the KTM DUKE model can be summed up in one word: Evolution.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/ktm-duke-30-years-pure-naked-motorcycling/">https://www.cycleworld.com/the-wire/ktm-duke-30-years-pure-naked-motorcycling/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/ktm-duke-30-years-pure-naked-motorcycling/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Kawasaki KLX230 S and KLX230SM ABS First Look
+
+date: 2024-02-01, from: Cycle World News
+
+The 2024 Kawasaki KLX230 S and KLX230SM ABS models get new styling, smartphone connectivity, engine updates, and revised chassis for improved capability.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/kawasaki-klx230-s-and-klx230sm-abs-first-look/">https://www.cycleworld.com/bikes/kawasaki-klx230-s-and-klx230sm-abs-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/kawasaki-klx230-s-and-klx230sm-abs-first-look/">Save to Pocket</a>
+</span>
+
+---
+
+## Vmoto Electric Café Racer on Way
+
+date: 2024-02-01, from: Cycle World News
+
+Australian electric motorcycle and scooter company Vmoto is building a new retro-styled model, powered by a 5kW motor capable of propelling the bike to 60 mph.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/vmoto-electric-cafe-racer-coming-soon/">https://www.cycleworld.com/motorcycle-news/vmoto-electric-cafe-racer-coming-soon/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/vmoto-electric-cafe-racer-coming-soon/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Osaka, Tokyo, And Nagoya Motorcycle Shows: What To Expect
+
+date: 2024-02-01, from: Ride Apart, Electric Motorcycle News
+
+Yamaha and Honda are getting ready, and so should you.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707070/japan-bike-shows-2024-preview/">https://www.rideapart.com/news/707070/japan-bike-shows-2024-preview/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707070/japan-bike-shows-2024-preview/">Save to Pocket</a>
+</span>
+
+---
+
+## KTM Duke Turns 30 In 2024, So It's Pulling Out All The Stoppies To Celebrate
+
+date: 2024-02-01, from: Ride Apart, Electric Motorcycle News
+
+Put your Dukes up; rider's choice of which wheel.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707058/ktm-duke-30th-anniversary-2024/">https://www.rideapart.com/news/707058/ktm-duke-30th-anniversary-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707058/ktm-duke-30th-anniversary-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Vital Track Position Earns Weeks an Elite Daytona 500 Win
+
+date: 2024-02-01, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor The ever-evolving chess match that is superspeedway racing forces drivers to adapt their strategy, pushing them into coveting track position like Mathieu Weeks instead of&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/esports/vital-earns-weeks-elite-daytona-500-win/">https://kickinthetires.net/esports/vital-earns-weeks-elite-daytona-500-win/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/esports/vital-earns-weeks-elite-daytona-500-win/">Save to Pocket</a>
+</span>
+
+---
+
+## Breidinger Joins TRICON for Daytona Truck Series Race
+
+date: 2024-02-01, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor History making driver Toni Breidinger is set to run double-duty at Daytona Int’l Speedway, competing in both the ARCA Menards Series and the NASCAR Craftsman&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/breidinger-running-arca-truck-daytona/">https://kickinthetires.net/nascar/breidinger-running-arca-truck-daytona/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/breidinger-running-arca-truck-daytona/">Save to Pocket</a>
+</span>
 
 ---
 

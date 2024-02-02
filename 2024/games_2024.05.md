@@ -1,11 +1,119 @@
 ---
 title: games 2024.05
-updated: 2024-02-01 07:03:42
+updated: 2024-02-02 08:09:17
 ---
 
 # games 2024.05
 
-(date: 2024-02-01 07:03:42)
+(date: 2024-02-02 08:09:17)
+
+---
+
+## Charlie Kaufman’s animated Netflix movie Orion and the Dark is a deeply weird gem
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24058107/orion-and-the-dark-charlie-kaufman-dreamworks-movie-review-netflix">https://www.polygon.com/24058107/orion-and-the-dark-charlie-kaufman-dreamworks-movie-review-netflix</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24058107/orion-and-the-dark-charlie-kaufman-dreamworks-movie-review-netflix">Save to Pocket</a>
+</span>
+
+---
+
+## Silent Hill: The Short Message is classic Silent Hill, and that’s not great
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/24058608/silent-hill-the-short-message-playstation-5-review">https://www.polygon.com/gaming/24058608/silent-hill-the-short-message-playstation-5-review</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/24058608/silent-hill-the-short-message-playstation-5-review">Save to Pocket</a>
+</span>
+
+---
+
+## Home Safety Hotline is the cryptid help line game I didn’t know I needed
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/24058384/home-safety-hotline-cryptid-help-line-game">https://www.polygon.com/gaming/24058384/home-safety-hotline-cryptid-help-line-game</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/24058384/home-safety-hotline-cryptid-help-line-game">Save to Pocket</a>
+</span>
+
+---
+
+## Persona 3 Reload guide: Classroom answers and questions
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r">https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r">Save to Pocket</a>
+</span>
+
+---
+
+## Matthew Vaughn is out to turn Argylle’s post-credits scene into a franchise
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24057329/argylle-post-credits-scene-sequel-kingsman-connections">https://www.polygon.com/24057329/argylle-post-credits-scene-sequel-kingsman-connections</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24057329/argylle-post-credits-scene-sequel-kingsman-connections">Save to Pocket</a>
+</span>
+
+---
+
+## GTA Online update for the week of Feb. 1
+
+date: 2024-02-01, updated: 2024-02-01, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events">https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events">Save to Pocket</a>
+</span>
+
+---
+
+## SpongeBob finally gets to play the Super Bowl, but he may not look how you expect
+
+date: 2024-02-01, updated: 2024-02-01, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24058390/spongebob-super-bowl-band-geeks-sweet-victory">https://www.polygon.com/24058390/spongebob-super-bowl-band-geeks-sweet-victory</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24058390/spongebob-super-bowl-band-geeks-sweet-victory">Save to Pocket</a>
+</span>
+
+---
+
+## GTA 5 cheats and codes for PS4, PS5, Xbox, PC
+
+date: 2024-02-01, updated: 2024-02-01, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24001098/gta-5-cheat-code-console-ps4-ps5-xbox-pc-phone-numbers">https://www.polygon.com/guides/24001098/gta-5-cheat-code-console-ps4-ps5-xbox-pc-phone-numbers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24001098/gta-5-cheat-code-console-ps4-ps5-xbox-pc-phone-numbers">Save to Pocket</a>
+</span>
+
+---
+
+## If you hustle, you can get the Nintendo Switch for $264
+
+date: 2024-02-01, updated: 2024-02-01, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/2024/2/1/24058328/nintendo-switch-amazon-deal-sale">https://www.polygon.com/deals/2024/2/1/24058328/nintendo-switch-amazon-deal-sale</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/2024/2/1/24058328/nintendo-switch-amazon-deal-sale">Save to Pocket</a>
+</span>
 
 ---
 

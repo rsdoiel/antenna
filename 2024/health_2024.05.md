@@ -1,11 +1,119 @@
 ---
 title: health 2024.05
-updated: 2024-02-01 07:03:42
+updated: 2024-02-02 08:09:17
 ---
 
 # health 2024.05
 
-(date: 2024-02-01 07:03:42)
+(date: 2024-02-02 08:09:17)
+
+---
+
+## Cross-sectional analysis of risk factors associated with Mugil cephalus in retail fish markets concerning methicillin-resistant Staphylococcus aureus and Aeromonas hydrophila
+
+date: 2024-02-02, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p><italic>Aeromonas hydrophila</italic> and methicillin-resistant <italic>Staphylococcus aureus</italic> (MRSA) are potent bacterial pathogens posing major hazards to human health via consuming fish harboring these pathogens or by cross-contamination beyond the contaminated environment. The aim of this study was to determine risk variables associated with the presence of certain pathogenic bacteria from <italic>Mugil cephalus</italic> fish in retail markets in Egypt. The virulence genes of <italic>A. hydrophila</italic> and <italic>S. aureus</italic> were also studied. Furthermore, the antibiotic sensitivity and multidrug resistance of the microorganisms were evaluated.</p></sec><sec><title>Methods</title><p>In a cross-sectional investigation, 370 samples were collected from mullet skin and muscle samples, washing water, fish handlers, knives, and chopping boards. Furthermore, fish handlers’ public health implications were assessed via their response to a descriptive questionnaire.</p></sec><sec><title>Results</title><p><italic>S. aureus</italic> and <italic>Aeromonas</italic> species dominated the investigated samples with percentages of 26.76% and 30.81%, respectively. Furthermore, <italic>A. hydrophila</italic> and MRSA were the predominant recovered bacterial pathogens among washing water and knives (53.85% and 46.66%, respectively). The virulence markers <italic>aerA</italic> and <italic>hlyA</italic> were found in 90.7% and 46.5% of <italic>A. hydrophila</italic> isolates, respectively. Moreover, the virulence genes <italic>nuc</italic> and <italic>mec</italic> were prevalent in 80% and 60% of <italic>S. aureus</italic> isolates, respectively. Antimicrobial susceptibility results revealed that all <italic>A. hydrophila</italic> isolates were resistant to amoxicillin and all MRSA isolates were resistant to amoxicillin and ampicillin. Remarkably, multiple drug resistance (MDR) patterns were detected in high proportions in <italic>A. hydrophila</italic> (88.37%) and MRSA (100%) isolates. The prevalence of <italic>Aeromonas</italic> spp. and <italic>S. aureus</italic> had a positive significant correlation with the frequency of handwashing and use of sanitizer in cleaning of instruments. MRSA showed the highest significant prevalence rate in the oldest age category.</p></sec><sec><title>Conclusion</title><p>The pathogenic bacteria recovered in this study were virulent and had a significant correlation with risk factors associated with improper fish handling. Furthermore, a high frequency of MDR was detected in these pathogenic bacteria, posing a significant risk to food safety and public health.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1348973">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1348973</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1348973">Save to Pocket</a>
+</span>
+
+---
+
+## Plasmid-encoded toxin of Escherichia coli cleaves complement system proteins and inhibits complement-mediated lysis in vitro
+
+date: 2024-02-02, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Plasmid-encoded toxin (Pet) is an autotransporter protein of the serine protease autotransporters of Enterobacteriaceae (SPATE) family, important in the pathogenicity of <italic>Escherichia coli</italic>. The <italic>pet</italic> gene was initially found in the enteroaggregative <italic>E. coli</italic> (EAEC) virulence plasmid, pAA2. Although this virulence factor was initially described in EAEC, an intestinal <italic>E. coli</italic> pathotype, <italic>pet</italic> may also be present in other pathotypes, including extraintestinal pathogenic strains (ExPEC). The complement system is an important defense mechanism of the immune system that can be activated by invading pathogens. Proteases produced by pathogenic bacteria, such as SPATEs, have proteolytic activity and can cleave components of the complement system, promoting bacterial resistance to human serum. Considering these factors, the proteolytic activity of Pet and its role in evading the complement system were investigated. Proteolytic assays were performed by incubating purified components of the complement system with Pet and Pet S260I (a catalytic site mutant) proteins. Pet, but not Pet S260I, could cleave C3, C5 and C9 components, and also inhibited the natural formation of C9 polymers. Furthermore, a dose-dependent inhibition of ZnCl<sub>2</sub>-induced C9 polymerization <italic>in vitro</italic> was observed. <italic>E. coli</italic> DH5α survived incubation with human serum pre-treated with Pet. Therefore, Pet can potentially interfere with the alternative and the terminal pathways of the complement system. In addition, by cleaving C9, Pet may inhibit membrane attack complex (MAC) formation on the bacterial outer membrane. Thus, our data are suggestive of a role of Pet in resistance of <italic>E. coli</italic> to human serum.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1327241">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1327241</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1327241">Save to Pocket</a>
+</span>
+
+---
+
+## Resistome, mobilome, and virulome explored in clinical isolates derived from acne patients in Egypt: unveiling unique traits of an emerging coagulase-negative Staphylococcus pathogen
+
+date: 2024-02-02, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Coagulase-negative staphylococci (CoNS) are a group of gram-positive staphylococcal species that naturally inhabit the healthy human skin and mucosa. The clinical impact of CoNS-associated infections has recently been regarded as a challenge for diagnosis and therapeutic options. CoNS-associated infections are primarily caused by bacterial resistance to antibiotics and biofilm formation. As antibiotics are still the most used treatment, this problem will likely persist in the future. The present study aimed to investigate the resistance and virulence of CoNS recovered from various acne lesions and explore their genetic basis. Skin swab samples were collected from participants with acne and healthy skin. All samples underwent conventional culture for the isolation of CoNS, MALDI-TOF confirmation, antibiotic susceptibility, and biofilm formation testing. A total of 85 CoNS isolates were recovered from the samples and preliminarily identified as <italic>Staphylococcus epidermidis</italic>. Isolates from the acne group (n = 60) showed the highest rates of resistance to penicillin (73%), cefoxitin (63%), clindamycin (53.3%), and erythromycin (48%), followed by levofloxacin (36.7%) and gentamycin (31.7%). The lowest rates of resistance were observed against tetracycline (28.3%), doxycycline (11.7%), and minocycline (8.3%). CoNS isolated from mild, moderate acne and healthy isolates did not show strong biofilm formation, whereas the isolates from the severe cases of the acne group showed strong biofilm formation (76.6%). Four extensively drug-resistant and strong biofilm-forming staphylococcal isolates recovered from patients with severe acne were selected for whole-genome sequencing (WGS), and their genomes were investigated using bioinformatics tools. Three of the sequenced genomes were identified as <italic>S. epidermidis</italic>; however, isolate 29AM was identified as <italic>Staphylococcus warneri</italic>, which is a newly emerging pathogen that is not commonly associated with acne and was not detected by MALDI-TOF. All the sequenced strains were multidrug-resistant and carried multiple resistance genes, including <italic>blaZ</italic>, <italic>mecA</italic>, <italic>tet(K)</italic>, <italic>erm(C)</italic>, <italic>lnuA</italic>, <italic>vgaA</italic>, <italic>dfrC</italic>, <italic>fusB</italic>, <italic>fosBx1</italic>, <italic>norA</italic>, and <italic>vanT</italic>, which were found to be located on plasmids and chromosomes. Virulence features were detected in all genomes in the presence of genes involved in adherence and biofilm formation (<italic>icaA</italic>, <italic>icaB</italic>, <italic>icaC</italic>, <italic>sdrG</italic>, <italic>sdrH</italic>, <italic>atl</italic>, <italic>ebh</italic>, and <italic>ebp</italic>). Only the <italic>S. warneri</italic> isolate 29AM contained immune evasion genes (<italic>capB</italic>, <italic>capC</italic>, <italic>acpXL</italic>, and <italic>manA</italic>), an anti-phagocytosis gene (<italic>cdsA</italic>), and other unique features. As a result of their potential pathogenicity and antibiotic resistance, CoNS must be monitored as an emerging pathogen associated with acne infections. To the best of our knowledge, this is the first report to isolate, identify, and correlate <italic>S. warneri</italic> with severe acne infections among Egyptian patients using WGS and bioinformatic analysis.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1328390">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1328390</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1328390">Save to Pocket</a>
+</span>
+
+---
+
+## Genetic characterization of multidrug-resistant Escherichia coli harboring colistin-resistant gene isolated from food animals in food supply chain
+
+date: 2024-02-02, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Colistin is widely used for the prophylaxis and treatment of infectious disease in humans and livestock. However, the global food chain may actively promote the dissemination of colistin-resistant bacteria in the world. Mobile colistin-resistant (<italic>mcr</italic>) genes have spread globally, in both communities and hospitals. This study sought to genomically characterize <italic>mcr</italic>-mediated colistin resistance in 16 <italic>Escherichia coli</italic> strains isolated from retail meat samples using whole genome sequencing with short-read and long-read platforms. To assess colistin resistance and the transferability of <italic>mcr</italic> genes, antimicrobial susceptibility testing and conjugation experiments were conducted. Among the 16 isolates, 11 contained <italic>mcr-1</italic>, whereas three carried <italic>mcr-3</italic> and two contained <italic>mcr-1</italic> and <italic>mcr-3</italic>. All isolates had minimum inhibitory concentration (MIC) for colistin in the range 1–64 μg/mL. Notably, 15 out of the 16 isolates demonstrated successful transfer of <italic>mcr</italic> genes via conjugation, indicative of their presence on plasmids. In contrast, the KK3 strain did not exhibit such transferability. Replicon types of <italic>mcr-1</italic>-containing plasmids included IncI2 and IncX4, while IncFIB, IncFII, and IncP1 contained <italic>mcr-3</italic>. Another single strain carried <italic>mcr</italic>-<italic>1.1</italic> on IncX4 and <italic>mcr</italic>-<italic>3.5</italic> on IncP1. Notably, one isolate contained <italic>mcr-1.1</italic> located on a chromosome and carrying <italic>mcr</italic>-<italic>3.1</italic> on the IncFIB plasmid. The chromosomal location of the <italic>mcr</italic> gene may ensure a steady spread of resistance in the absence of selective pressure. Retail meat products may act as critical reservoirs of plasmid-mediated colistin resistance that has been transmitted to humans.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1289134">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1289134</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1289134">Save to Pocket</a>
+</span>
+
+---
+
+## Antibody responses to Chlamydia trachomatis vaccine candidate antigens in Chlamydia-infected women and correlation with antibody-mediated phagocytosis of elementary bodies
+
+date: 2024-02-02, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Murine research has revealed a significant role for antibody responses in protection against <italic>Chlamydia</italic> reinfection. To explore potential humoral immune markers of protection elicited by <italic>Chlamydia trachomatis</italic> (CT) antigens in humans in the context of presumed clinical correlates of protection, we used both an IgG1-based ELISA and a conventional total IgG ELISA to evaluate antibody responses. We evaluated responses to five CT outer membrane proteins (PmpE, PmpF, PmpG, PmpH, and MOMP), along with other promising CT antigens (Pgp3 and HSP60), negative control antigens (RecO and AtpE), and CT elementary bodies (EBs) in sera from a well-characterized cohort of 60 women with different CT infection outcomes, including two outcomes that are likely clinical correlates of protective immunity: spontaneous resolution of infection and absence of reinfection after treatment. Furthermore, we used a flow cytometry-based assay to measure antibody-mediated phagocytosis by neutrophils in these sera. Results demonstrated that IgG1 ELISA displayed higher sensitivity than conventional total IgG ELISA in assessing antibody responses to CT EBs and antigens. Pgp3 IgG1 ELISA exhibited the highest sensitivity compared to IgG1 ELISA incorporating CT EBs or other antigens, confirming Pgp3 IgG1 ELISA as an ideal assay for CT antibody detection. Most (95%) sera from women with CT infection outcomes exhibited antibody-mediated phagocytosis of CT EBs, which was significantly correlated with IgG1 antibody responses to MOMP, Pgp3, HSP60, and PmpF. However, neither IgG1 responses to CT antigens and EBs nor antibody-mediated phagocytosis were associated with clinical correlates of protection. These findings suggest that neither CT IgG1 antibody detection nor antibody-mediated phagocytosis will be useful as immune correlates of protection against CT infection in humans.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1342621">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1342621</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1342621">Save to Pocket</a>
+</span>
+
+---
+
+## Application of plasma metagenomic next-generation sequencing improves prognosis in hematology patients with neutropenia or hematopoietic stem cell transplantation for infection
+
+date: 2024-02-02, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>Metagenomic next-generation sequencing (mNGS) is a novel technique for detecting pathogens. This retrospective study evaluated the diagnostic value of mNGS using plasma for infections in hematology patients and its impact on clinical treatment and prognosis in different subgroups of hematology patients.</p></sec><sec><title>Methods</title><p>A total of 153 hematology patients with suspected infection who underwent mNGS using plasma were enrolled in the study. Their clinical histories, conventional microbiological test (CMT) results, mNGS results, treatment and prognosis were retrospectively analyzed.</p></sec><sec><title>Results</title><p>In 153 plasma samples, mNGS yielded a higher positivity rate than CMT (total: 88.24% vs. 40.52%, P&lt;0.001; bacteria: 35.95% vs. 21.57%, P &lt; 0.01; virus: 69.93% vs. 21.57%, P&lt;0.001; fungi: 20.26% vs. 7.84%, P&lt;0.01). mNGS had a higher positivity rate for bacteria and fungi in the neutropenia group than in the non-neutropenia group (bacteria: 48.61% vs. 24.69%, P&lt;0.01; fungi: 27.78% vs. 13.58%, P&lt;0.05). mNGS demonstrated a greater advantage in the group of patients with hematopoietic stem cell transplantation (HSCT). Both the 3-day and 7-day efficacy rates in the HSCT group were higher than those in the non-HSCT group (3-day: 82.22% vs. 58.65%, P &lt; 0.01; 7-day: 88.89% vs. 67.31%, P &lt; 0.01), and the 28-day mortality rate was lower in the HSCT group than in the non-HSCT group (6.67% vs. 38.89%, P &lt; 0.000). The neutropenia group achieved similar efficacy and mortality rates to the non-neutropenia group (7-day efficiency rate: 76.39% vs. 71.43%, P &gt; 0.05; mortality rate: 29.17% vs. 29.63%, P &gt; 0.05) with more aggressive antibiotic adjustments (45.83% vs. 22.22%, P &lt; 0.01).</p></sec><sec><title>Conclusion</title><p>mNGS can detect more microorganisms with higher positive rates, especially in patients with neutropenia. mNGS had better clinical value in patients with hematopoietic stem cell transplantation (HSCT) or neutropenia, which had a positive effect on treatment and prognosis.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1338307">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1338307</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1338307">Save to Pocket</a>
+</span>
+
+---
+
+## Symbiotic microbial communities in various locations of the lung cancer respiratory tract along with potential host immunological processes affected
+
+date: 2024-02-02, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Lung cancer has the highest mortality rate among all cancers worldwide. The 5-year overall survival rate for non-small cell lung cancer (NSCLC) is estimated at around 26%, whereas for small cell lung cancer (SCLC), the survival rate is only approximately 7%. This disease places a significant financial and psychological burden on individuals worldwide. The symbiotic microbiota in the human body has been significantly associated with the occurrence, progression, and prognosis of various diseases, such as asthma, chronic obstructive pulmonary disease (COPD), and cystic fibrosis. Studies have demonstrated that respiratory symbiotic microorganisms and their metabolites play a crucial role in modulating immune function and contributing to the pathophysiology of lung cancer through their interactions with the host. In this review, we provide a comprehensive overview of the microbial characteristics associated with lung cancer, with a focus on the respiratory tract microbiota from different locations, including saliva, sputum, bronchoalveolar lavage fluid (BALF), bronchial brush samples, and tissue. We describe the respiratory tract microbiota’s biodiversity characteristics by anatomical region, elucidating distinct pathological features, staging, metastasis, host chromosomal mutations, immune therapies, and the differentiated symbiotic microbiota under the influence of environmental factors. Our exploration investigates the intrinsic mechanisms linking the microbiota and its host. Furthermore, we have also provided a comprehensive review of the immune mechanisms by which microbiota are implicated in the development of lung cancer. Dysbiosis of the respiratory microbiota can promote or inhibit tumor progression through various mechanisms, including DNA damage and genomic instability, activation and regulation of the innate and adaptive immune systems, and stimulation of epithelial cells leading to the upregulation of carcinogenesis-related pathways.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1296295">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1296295</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1296295">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: Bunyaviruses - threats to health and economy
+
+date: 2024-02-02, from: Frontiers in Cellular and Infection Microbiology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1369530">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1369530</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1369530">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: Molecular pathogenesis and control of viral infectious diseases in children
+
+date: 2024-02-02, from: Frontiers in Cellular and Infection Microbiology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1368324">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1368324</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1368324">Save to Pocket</a>
+</span>
 
 ---
 

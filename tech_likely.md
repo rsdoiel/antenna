@@ -1,11 +1,936 @@
 ---
 title: tech likely 2024.05
-updated: 2024-02-01 07:03:42
+updated: 2024-02-02 08:09:17
 ---
 
 # tech likely 2024.05
 
-(date: 2024-02-01 07:03:42)
+(date: 2024-02-02 08:09:17)
+
+---
+
+##  Kim Stanley Robinson, Green Mars (1993): &#8220;Especially since most minimalists want to... 
+
+date: 2024-02-02, updated: 2024-02-02, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043901-kim-stanley-robinson-gree">https://kottke.org/24/02/0043901-kim-stanley-robinson-gree</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043901-kim-stanley-robinson-gree">Save to Pocket</a>
+</span>
+
+---
+
+##  What&#8217;s Your Favorite Airport Amenity? 
+
+date: 2024-02-02, updated: 2024-02-02, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/whats-your-favorite-airport-amenity">https://kottke.org/24/02/whats-your-favorite-airport-amenity</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/whats-your-favorite-airport-amenity">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-02, from: Dave Winer's Scripting News)
+
+I hit a <a href="https://stackoverflow.com/questions/17824486/mysql-query-timing-out-70100-query-execution-was-interrupted">snag</a> in the <a href="https://github.com/scripting/feedlandInstall/issues/54#issuecomment-1919574144">upgrade</a> for <a href="https://feedland.org/">feedland.org</a>. If you're a MySQL expert, maybe you can help. Here's the <a href="https://github.com/scripting/feedlandInstall/issues/56">thread</a>.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/02.html#a150649">http://scripting.com/2024/02/02.html#a150649</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/02.html#a150649">Save to Pocket</a>
+</span>
+
+---
+
+## Tiny NASA Cameras to Picture Interaction Between Lander, Moon’s Surface
+
+date: 2024-02-02, from: NASA breaking news
+
+Say cheese, Moon. We’re coming in for a close-up. As Intuitive Machines’ Nova-C lander descends toward the Moon, four tiny NASA cameras will be trained on the lunar surface, collecting imagery of how the surface changes from interactions with the spacecraft’s engine plume. Developed at NASA’s Langley Research Center in Hampton, Virginia, Stereo Cameras for [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/artemis/clps/tiny-nasa-cameras-to-picture-interaction-between-lander-moons-surface/">https://www.nasa.gov/missions/artemis/clps/tiny-nasa-cameras-to-picture-interaction-between-lander-moons-surface/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/artemis/clps/tiny-nasa-cameras-to-picture-interaction-between-lander-moons-surface/">Save to Pocket</a>
+</span>
+
+---
+
+##  A study about online identify (using HuffPo comments) found that people using... 
+
+date: 2024-02-02, updated: 2024-02-02, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043904-a-study-about-online-iden">https://kottke.org/24/02/0043904-a-study-about-online-iden</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043904-a-study-about-online-iden">Save to Pocket</a>
+</span>
+
+---
+
+## Elmo 2024
+
+date: 2024-02-02, updated: 2024-02-02, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/02/02/elmo-2024/">https://onefoottsunami.com/2024/02/02/elmo-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/02/02/elmo-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Tangara - The music player you wish you had in the early 2000s
+
+date: 2024-02-02, from: Tilde.news
+
+<p><a href="https://tilde.news/s/qlb5kz/tangara_music_player_you_wish_you_had">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.crowdsupply.com/cool-tech-zone/tangara">https://www.crowdsupply.com/cool-tech-zone/tangara</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.crowdsupply.com/cool-tech-zone/tangara">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Views a Dim but Distinct Galaxy
+
+date: 2024-02-02, from: NASA breaking news
+
+This image of the softly luminous spiral galaxy UGC 11105 is from the NASA/ESA Hubble Space Telescope. It lies about 110 million light-years from Earth in the constellation Hercules. Astronomers have different ways of quantifying how bright celestial objects are. Apparent magnitude is one of those methods. It describes how bright an object appears to an observer […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/hubble-views-a-dim-but-distinct-galaxy/">https://science.nasa.gov/missions/hubble/hubble-views-a-dim-but-distinct-galaxy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/hubble-views-a-dim-but-distinct-galaxy/">Save to Pocket</a>
+</span>
+
+---
+
+##  Maybe they found Amelia Earhart&#8217;s long-lost plane? &#8220;The shape of the object... 
+
+date: 2024-02-02, updated: 2024-02-02, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043903-maybe-they-found-amelia-e">https://kottke.org/24/02/0043903-maybe-they-found-amelia-e</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043903-maybe-they-found-amelia-e">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Sees a Merged Galaxy
+
+date: 2024-02-02, from: NASA breaking news
+
+This new NASA Hubble Space Telescope image shows ESO 185-IG013, a luminous blue compact galaxy (BCG). BCGs are nearby galaxies that show an intense burst of star formation. They are unusually blue in visible light, which sets them apart from other high-starburst galaxies that emit more infrared light. Astrophysicists study BCGs because they provide a […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/hubble-sees-a-merged-galaxy/">https://science.nasa.gov/missions/hubble/hubble-sees-a-merged-galaxy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/hubble-sees-a-merged-galaxy/">Save to Pocket</a>
+</span>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-02-02, from: Tomosino's Mastodon feed)
+
+<p>It is done. I'm no longer a US citizen! Hurray!!!</p>
+
+<span class="feed-item-link">
+<a href="https://tilde.zone/@tomasino/111861783939066597">https://tilde.zone/@tomasino/111861783939066597</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tilde.zone/@tomasino/111861783939066597">Save to Pocket</a>
+</span>
+
+---
+
+## P&B : Winnie Lim
+
+date: 2024-02-02, from: Manu - I write blog
+
+<p>This is the 23rd edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Winnie Lim and her blog, <a href="https://winnielim.org">winnielim.org</a></p>
+<p>I first discovered Winnie's website thanks to the recomendation of <a href="https://longest.voyage">Jamie Crisman</a> who's been featured on the series a couple of months ago. I had her site listed on my spreadheet and was planning to contact her so imagine my surprise when she appeared as a supporter on my Ko-Fi page! It was such a delightful moment. I love to be able to feature people who are supporters of the series because it gives this fun project a sense of community.</p>
+<p>To follow this series <a href="https://peopleandblogs.com">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed/rss">RSS feed</a>.</p>
+<hr />
+<div class="q"><p><strong>Let&#039;s start from the basics: can you introduce yourself?</strong></p></div>
+<div class="a"><p>This is Winnie, and I’m from <a href="https://en.wikipedia.org/wiki/Singapore">Singapore</a> where I’ve spent most of my life except a few years when I worked in San Francisco. I was a self-taught designer in both print and digital from 2000-2016 before I had to quit due to chronic migraines and photosensitivity.</p>
+<p>I don’t have any hobbies per se in the sense of things I enjoy doing because I seem to <a href="https://winnielim.org/journal/my-mind-the-invisible-loudspeaker/">lack the ability to feel pleasure</a>, but I do a variety of things that enrich me: reading, exercise, photography, learning, and I am trying to pick up drawing. Perhaps one day I would like to learn how to play the keyboard. </p>
+<p>I try to publish at least once a week, mostly documenting my life and struggles with both my health and existence.</p></div>
+<div class="q"><p><strong>What&#039;s the story behind your blog?</strong></p></div>
+<div class="a"><p>I got really into learning how to make websites when I had my first computer at 15 all the way back in 1996. So my first website was on <a href="https://en.wikipedia.org/wiki/GeoCities">Geocities</a>. It felt like a natural progression to start blogging when I saw other people start doing it in the late 90s. My first blog was on <a href="https://en.wikipedia.org/wiki/Greymatter_(software)">Greymatter</a> on a now defunct domain. I would just post links to websites I liked and perhaps some emo poetry. A while later my friend introduced me to <a href="https://en.wikipedia.org/wiki/LiveJournal">Livejournal</a>, which is interesting to me till this day because the inherent culture and dynamics of it encouraged people to pour out their feelings on it. I don’t know if I am rewriting my own history but I feel like Livejournal was instrumental in the process in setting the tone of my writing till today. It gave me the idea that writing my feelings out to some invisible audience could be somewhat therapeutic. One thing that is now permanently gone from the Livejournal era is the ability to easily follow and like your friend’s blog, and publish only to your network of friends. I hope something like this can exist on federated systems one day. </p>
+<p>Sadly Livejournal got sold, and I moved to <a href="https://en.wikipedia.org/wiki/Vox_(blogging_platform)">Vox</a>, which also got sold, then to <a href="https://en.wikipedia.org/wiki/Posterous">Posterous</a> – well you get the idea. I finally bought the domain winnielim.org sometime in 2012 and set up my blog there. I had loved the network effects and community of early twitter, so when Medium came along I got a job there, hence publishing exclusively there for a while, continued even after I left the job but stopped when it started putting up paywalls. My personal lived history of the internet has taught me it is really important to have our own domain. It is not just about the ownership of content but it is sad when urls go dead.</p>
+<p>I felt very alienated and lonely as a young person in the 1990s. It was incredible to discover the internet and know there is an entire world out there, that there are actually many people living diverse lives that were not visible or encouraged in Singapore. Reading people’s vulnerable and honest writing on their blogs made me feel like I was not alone. So I try to pay it forward by doing the same with my writing.</p></div>
+<div class="q"><p><strong>What does your creative process look like when it comes to blogging?</strong></p></div>
+<div class="a"><p>Since 2013 I mostly just turn up every Sunday, and start writing. Half the time I have no idea what I’m writing about till I finish writing it. The other times I have an idea but it becomes something else entirely in the writing process. They call it intuitive writing I guess. Once in a long while I write <a href="https://winnielim.org/book-reviews/">book reviews</a> or essays to share something in a more structured way. Those take considerable focus and multiple-sittings, so I don’t do it very often.</p>
+<p>I do publish more frequently than weekly if I get inspired or if circumstances encourage it, like my recent trip to Japan where I tried to <a href="https://winnielim.org/tag/japan2023/">travel blog during the trip</a>. </p>
+<p>I’ve tried writing “proper” pieces before where there is a ton of editing and proofreading by other people, but I didn’t enjoy the process. It made me feel disconnected from the writing. Some of these pieces did very well, which made me realise that being able to write however I want is more important than views.</p></div>
+<div class="q"><p><strong>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</strong></p></div>
+<div class="a"><p>I do believe that physical space influences creativity. I constantly feel inspired in a place like Japan, where the culture itself has aesthetic and creative elements. But I also believe it is important to cultivate a capacity to be creative anywhere, because sometimes in life we get caught in circumstances and environments that are not ideal. </p>
+<p>I try to keep my entire home a creative environment. It is not one of those beautiful minimalistic environments like you see in youtube videos. It is more like <a href="https://en.wikipedia.org/wiki/Zakka">zakka style</a>, where it contains things that feel creative to me: lots of (<a href="https://www.instagram.com/launshae">my partner</a>’s) artwork hung up on the walls, tons of books, art materials and tools, a warm and cosy space that feels psychologically safe. A lot of it is thanks to my partner who is an artist and an efficient organiser.</p></div>
+<div class="q"><p><strong>A question for the techie readers: can you run us through your tech stack?</strong></p></div>
+<div class="a"><p>I use <a href="https://opalstack.com/">Opalstack</a> as my webhost, they offer VPS-like hosting but managed. I chose them because I used to use Webfaction, which got sold. For a few years in between I hosted my website on a droplet at Digital Ocean, but I decided managing my own server is too tedious. </p>
+<p>Like many others I use <a href="https://www.namecheap.com/">Namecheap</a> for my domains. It was highly recommended in the 2000s, so I used it and stuck with it since I have no issues with it so far.</p>
+<p>For the beginning few years my blog in its current incarnation was on Jekyll, but it is now on Wordpress because I want to be able to dynamically query it like <a href="https://winnielim.org/experiments/website/this-website-as-a-learning-and-reflection-tool/">I am querying my second brain</a>. I also use a plugin called <a href="https://wordpress.org/plugins/pods/">Pods</a> that allows me to create custom post types and surface relationships between them easily. Everything is connected, and I want to demonstrate and understand these connections. A blog post is not just a piece of writing to me. It is a piece of my self, and these pieces track the process of my becoming. Sometimes <a href="https://winnielim.org/journal/remembering-forgotten-lessons-and-selves/">I forget and I get lost</a>, so these pieces and connections help to <a href="https://winnielim.org/journal/returning-to-ones-core/">bring me back</a> to who I am and who I aspired to be. These are not things that a static website can do, so I stay with Wordpress despite its obvious issues.</p>
+<p>It is also important to use something that has proven stability and longevity.</p></div>
+<div class="q"><p><strong>Given your experience, if you were to start a blog today, would you do anything differently?</strong></p></div>
+<div class="a"><p>I would host my own website using the same domain right from the start. But given the highly-ephemeral and experimental nature of the web back then, I think it would have been challenging not to hop on new technologies and platforms, especially because I have an experimental nature. But I am envious of blogs who ignored all of those things and persistently stayed on their own domain or even on Blogger. It is such a magnificent thing to see an archive that spans decades because on the internet we create and destroy content like it doesn’t matter since it is so easy to do so. Witnessing some permanence is beautiful when everything is so transient.</p></div>
+<div class="q"><p><strong>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what&#039;s your position on people monetising personal blogs?</strong></p></div>
+<div class="a"><p>For now Opalstack is $115 a year, and it costs $15 to renew my domain. These costs increase every now and then. So roughly it is about $11 a month, which is about 2 cups of coffee. </p>
+<p>When I first quit my job I tried to use Patreon to gather monetary support, not so much for my writing but for my interactive experiments. However along with my chronic illness, that experience made me realise I don’t have the personality required for this. I am too afraid of rejection, and it also makes me deeply uncomfortable to the point of being perpetually anxious when people <em>do</em> support me. It felt stressful to try to upkeep something to some invisible expectations, and during times when I fell sick and was unable to work on my projects I felt like I was letting people down. </p>
+<p>I do understand when people monetise blogs, but I hope it can be a model where some people are supporting the content financially in order for everybody else to read it free. This is because there is already deep inequality in this world, and putting content behind pay walls is exacerbating that inequality. </p>
+<p>Having freely accessible information on the internet during the 90s impacted my life so deeply, a major contributor to my career. I know it changed so many people’s lives, and lifted people out of their poor living circumstances. However I understand that it is the only source of income for some people and paywalls are the only way to go for them. I am encouraged by examples of people who are successful with the some-supporters-pay-for-the-rest model though, like <a href="https://kottke.org/members/">kottke.org</a>.</p></div>
+<div class="q"><p><strong>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</strong></p></div>
+<div class="a"><p>I love a ton of blogs – I have hundreds of blogs on my rss reader – so it is difficult to pick a few, but if I really have to:</p>
+<ul>
+<li><a href="https://brainbaking.com/">Brain Baking</a>: Wouter writes widely and deeply, a quality I really appreciate on the internet.</li>
+<li><a href="https://ruk.ca/">Peter Rukavina</a>: classic example of blogging that is rare these days – frequent, slice of life updates. </li>
+<li><a href="https://popagandhi.com/">Popagandhi</a>: Adrianna has been a huge inspiration for me because she has been writing transparently and vulnerably since the early 2000s. She was writing about lgbtq when it was still considered taboo (at least in Singapore), and till today continues to write on some potentially divisive topics. <a href="https://popagandhi.com/2005/01/the-eight-ages-of-a-woman/">Some of her early writing</a> has this heartbreaking poetic quality. </li>
+<li><a href="https://manuelmoreale.com/pb-eli-mellen">another</a> vote for <a href="https://maya.land/">maya.land</a>: I’ve not seen a range of topics like this anywhere else.</li>
+</ul>
+<p>I also love <a href="https://blogroll.org/">blogroll.org</a> for always recommending new interesting blogs to follow. I think Wouter of Brain Baking would be a great interview subject.</p></div>
+<div class="q"><p><strong>Final question: is there anything you want to share with us?</strong></p></div>
+<div class="a"><p>The longevity of websites is something I still think about. I often wonder <a href="https://winnielim.org/journal/on-writing-to-exist-and-website-graveyards/">what would happen to my website</a> after I pass on. I know of at least <a href="https://www.sheldonbrown.com/">one great website</a> that is being maintained by family and friends after the owner passed on, but what would happen when they too are no longer around? There is this attitude that websites are ephemeral and not important, but there is a lot of richness, history and information within them that deserves to be preserved. It would be sad that we didn’t try hard enough to keep them. I know there is the <a href="https://archive.org/">Internet Archive</a> that is doing great work, but I wish there was an option to keep a website in its entirety. Wordpress has recently launched <a href="https://wordpress.com/blog/2023/08/25/introducing-the-100-year-plan/">a 100-year plan</a>, but it is only for wordpress.com users and it costs 38k. I wish there are more viable solutions out there.</p>
+<p>Finally, I hope people will not be afraid to pick up new skills, hobbies or any learnings at any age. I recently started to <a href="https://wynlimdraws.tumblr.com/">learn how to draw</a>, and I think being unafraid of <a href="https://winnielim.org/journal/daring-to-be-ugly/">“being ugly”</a> or failure goes a long way. I see too many people not pursue art/skills/hobbies because it is “too late”, “no talent”, or if they do they give up because they cannot tolerate not living up to their internal standards. But we can relish the process of doing things without being great at it. For me, it is also an act of rebellion towards an utilitarian world.</p></div>
+<hr />
+<p>This was the 23rd edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Winnie. Make sure to <a href="https://winnielim.org">follow her blog</a> (<a href="https://winnielim.org/feed/">RSS</a>) and get in touch with her if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<ul>
+<li><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>)</li>
+<li><a href="https://some.studio">Piet Terheyden</a></li>
+<li><a href="https://minim.blog">Raul Montala</a> (<a href="https://minim.blog/index.xml">RSS</a>)</li>
+<li>Eleonora</li>
+<li><a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>)</li>
+<li><a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>)</li>
+<li>Paolo Ruggeri</li>
+<li><a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>)</li>
+<li><a href="https://robhope.com">Rob Hope</a></li>
+<li><a href="https://chrishannah.me">Chris Hannah</a> (<a href="https://chrishannah.me/index.xml">RSS</a>)</li>
+<li><a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>)</li>
+<li><a href="https://jeremysarber.com/">Jeremy Sarber</a> (<a href="https://jeremysarber.com/feed.rss">RSS</a>)</li>
+<li><a href="https://colinwalker.blog">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>)</li>
+<li><a href="https://softlandings.world/">Sixian Lim</a></li>
+<li><a href="https://mattstein.com/">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>)</li>
+<li><a href="https://winnielim.org/">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>)</li>
+<li><a href="http://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>)</li>
+<li><a href="https://skyhold.org">C Jackdaw</a></li>
+<li><a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>)</li>
+<li><a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>)</li>
+<li><a href="https://rosalindcroad.com/">Rosalind Croad</a></li>
+<li><a href="https://frankmeeuwsen.com/">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>)</li>
+<li><a href="https://www.elmikewalsh.com/">Mike Walsh</a></li>
+<li><a href="https://www.josemunozmatos.com/">Jose Munoz</a> (<a href="https://www.josemunozmatos.com/feeds">RSS</a>)</li>
+<li><a href="https://www.byzero.de/">Markus Heurung</a></li>
+<li><a href="https://jeremybassetti.com/">Jeremy Bassetti</a> (<a href="https://jeremybassetti.com/index.xml">RSS</a>)</li>
+<li><a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>)</li>
+<li><a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>)</li>
+<li><a href="https://cagrimmett.com/">Chuck Grimmett</a>(<a href="https://cagrimmett.com/feed">RSS</a>)</li>
+<li><a href="https://eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>)</li>
+<li><a href="https://bryanmanio.com/">Bryan Maniotakis</a>(<a href="https://bryanmanio.com/feed/">RSS</a>)</li>
+<li><a href="https://bjhess.com/">Barry Hess</a>(<a href="https://bjhess.com/posts_feed">RSS</a>) </li>
+</ul>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/648qH50FDFGNVN8K">https://manuelmoreale.com/@/page/648qH50FDFGNVN8K</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/648qH50FDFGNVN8K">Save to Pocket</a>
+</span>
+
+---
+
+## Class Notes: Enchiridion
+
+date: 2024-02-02, from: Ayjay blog
+
+Second in a series of reflections on what I’m teaching.  Late in his life, Augustine wrote his Enchiridion in response to a request from someone named Laurentius. What Laurentius wanted was a handy summary of Christian teaching that he could “always keep beside” him, to have ready when questions arose. He also wanted the handbook [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/class-notes-enchiridion/">https://blog.ayjay.org/class-notes-enchiridion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/class-notes-enchiridion/">Save to Pocket</a>
+</span>
+
+---
+
+## Raspberry Pi powers first driverless car in Formula SAE Brazil competition
+
+date: 2024-02-02, from: Raspberry Pi News (.com)
+
+<p>Team Ampera pushed through various prototypes before creating a Raspberry Pi-powered car capable of navigating the Formula SAE Brazil track completely autonomously.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/raspberry-pi-powers-first-driverless-car-in-formula-sae-brazil-competition/">Raspberry Pi powers first driverless car in Formula SAE Brazil competition</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/raspberry-pi-powers-first-driverless-car-in-formula-sae-brazil-competition/">https://www.raspberrypi.com/news/raspberry-pi-powers-first-driverless-car-in-formula-sae-brazil-competition/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/raspberry-pi-powers-first-driverless-car-in-formula-sae-brazil-competition/">Save to Pocket</a>
+</span>
+
+---
+
+## Highly-condensed time-lapse footage with Frigate
+
+date: 2024-02-02, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Highly-condensed time-lapse footage with Frigate</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Frigate's <a href="https://github.com/blakeblackshear/frigate/releases/tag/v0.13.0">0.13.0 release</a> included a feature near and dear to my heart: easy exporting of timelapses, straight from the Frigate UI.</p>
+
+<p>I'm a little bit <a href="https://www.jeffgeerling.com/search?search_api_fulltext=timelapse">nutty about timelapses</a>, and have made them with dashcams, GoPros, full DSLRs, webcams, and <a href="https://github.com/geerlingguy/pi-timelapse">even Raspberry Pi</a>.</p>
+
+<p>But one thing I <em>haven't</em> done (until now) is make easy timelapses from IP cameras like the <a href="https://amzn.to/3HPGcdT">Annke 4K PoE cameras</a> I use for security around my house.</p>
+
+<p>Eventually I'm planning on automating things further, but for now, here's my process for building up a timelapse that's relatively small in file size, preserving only frames where there's motion from frame to frame.</p>
+
+<p>For something like clouds/sky, or natural environments, it's better to do a straight timelapse export and maybe recompress it if you want, but for indoor or outdoor security footage, it's nice to condense it down.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-02-01T21:10:42-06:00" title="Thursday, February 1, 2024 - 21:10" class="datetime">February 1, 2024</time></span>
+
+<span class="feed-item-link">
+<a href="https://www.jeffgeerling.com/blog/2024/highly-condensed-time-lapse-footage-frigate">https://www.jeffgeerling.com/blog/2024/highly-condensed-time-lapse-footage-frigate</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jeffgeerling.com/blog/2024/highly-condensed-time-lapse-footage-frigate">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-02, from: Miguel de Icaza Mastondon feed)
+
+<p>Migrating Accept Dialog box from Godot UI to SwiftUI, this gets the bulk of the job done:</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111859690627375474">https://mastodon.social/@Migueldeicaza/111859690627375474</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111859690627375474">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-02, from: Miguel de Icaza Mastondon feed)
+
+<p>Starting to watch this presentation by Chris Hedges.  I saw a clip and looked good:</p><p><a href="https://youtu.be/qlcqsKvTSPw?t=390&amp;si=4x1Vv7Df5lDV7MMu" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">youtu.be/qlcqsKvTSPw?t=390&amp;si=</span><span class="invisible">4x1Vv7Df5lDV7MMu</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111859307475461204">https://mastodon.social/@Migueldeicaza/111859307475461204</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111859307475461204">Save to Pocket</a>
+</span>
+
+---
+
+## Redox gets more Linux utilities, changes resource path format, and more
+
+date: 2024-02-02, from: OS News
+
+The Redox project has published an overview of the progress made in January, and it&#8217;s a long list. Redox now supports the Raspberry Pi 3 Model B+, a few of System76&#8217;s Cosmic Desktop applications now run on Redox, several more Linux applications haven been ported (most notably for me, nano, my CLI text editor of choice), and much more. The most important change is an overhaul of how Redox handles resource paths: Redox has a microkernel core, with drivers and other resource providers running as tasks and providing “schemes”. A scheme is the name of a resource provider, and until now, resources have been accessed using URI/URL format. For example, files would be accessed as file:path/to/my_file, and a TCP connection would be accessed as tcp:127.0.0.1. This format, while forward-looking, has not been very backwards-compatible. In order to simplify our efforts to port Linux software to Redox, we have decided to change our resource path format to the Linux-compatible /scheme/scheme_name/path/to/resource. Paths that do not begin with /scheme will be assumed to refer to the file scheme, so /path/to/my_file is treated by the system as /scheme/file/path/to/my_file, but the application will only see the /path/to/my_file portion. Using this format, normal paths now look just like Linux paths, while drivers and other resources can still be addressed without breaking software. ↫ Ron Williams The change is an ongoing process, so you might encounter some issues related to it in the coming time.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138503/redox-gets-more-linux-utilities-changes-resource-path-format-and-more/">https://www.osnews.com/story/138503/redox-gets-more-linux-utilities-changes-resource-path-format-and-more/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138503/redox-gets-more-linux-utilities-changes-resource-path-format-and-more/">Save to Pocket</a>
+</span>
+
+---
+
+## Bootable Windows on ReFS still not ready for prime time due to lack of wider compatibility
+
+date: 2024-02-02, from: OS News
+
+That was back in August and since then, there has not been anything too noteworthy in terms of Windows bootability support on ReFS. Meanwhile, Microsoft has also not updated the officially supported ReFS version up from 3.10 yet, and as such, trying to run Windows on any newer ReFS version leads to an immediate crash on the newest Canary build 26040. Apparently, the crash is worse than it was on previous builds as it now throws up no recovery messages either. ↫ Sayan Sen at NeoWin It seems like NTFS will be with us for quite a while longer.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138501/bootable-windows-on-refs-still-not-ready-for-prime-time-due-to-lack-of-wider-compatibility/">https://www.osnews.com/story/138501/bootable-windows-on-refs-still-not-ready-for-prime-time-due-to-lack-of-wider-compatibility/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138501/bootable-windows-on-refs-still-not-ready-for-prime-time-due-to-lack-of-wider-compatibility/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-02, from: Miguel de Icaza Mastondon feed)
+
+<p>If you don’t ship VisionPro support, why are you even in the software industry?</p><p>Might as well pivot to selling insurance policies.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111859101330118059">https://mastodon.social/@Migueldeicaza/111859101330118059</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111859101330118059">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-02, from: Miguel de Icaza Mastondon feed)
+
+<p>Nothing exudes “soon to be divorced bro” vibes like not shipping support for VisionPro on launch day.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111859100505637447">https://mastodon.social/@Migueldeicaza/111859100505637447</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111859100505637447">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-02, from: Miguel de Icaza Mastondon feed)
+
+<p>Sublime</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111859011473130346">https://mastodon.social/@Migueldeicaza/111859011473130346</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111859011473130346">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-02, from: Miguel de Icaza Mastondon feed)
+
+<p>I had another one lying around</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111858974974773785">https://mastodon.social/@Migueldeicaza/111858974974773785</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111858974974773785">Save to Pocket</a>
+</span>
+
+---
+
+## PGConf.BE 2024: Call for Papers &amp; Sponsors
+
+date: 2024-02-02, from: PostgreSQL News
+
+<p>Announcing the Belgian PostgreSQL Conference</p>
+<p><a href="https://pgconf.be">PGConf.be 2024</a> is the fourth Belgian PostgreSQL conference in Haasrode, Leuven.</p>
+<p>The conference will take place on May 7th, 2024. Registration for the conference will be opened later.</p>
+<p>The <a href="https://pgconf.be/#cfs">Call for Papers</a> is open until March 25th. Submit your talks by mail with the subject 'I love Elephants'.</p>
+<p>The Call for Sponsors is open on <a href="https://pgconf.be/#partner">pgconf.be</a></p>
+<p>See you in Leuven in May!</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/pgconfbe-2024-call-for-papers-sponsors-2804/">https://www.postgresql.org/about/news/pgconfbe-2024-call-for-papers-sponsors-2804/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pgconfbe-2024-call-for-papers-sponsors-2804/">Save to Pocket</a>
+</span>
+
+---
+
+## Share Your Wayback Machine Impact Stories!
+
+date: 2024-02-01, from: Internet Archive Blog
+
+Have you ever used the Wayback Machine and witnessed the magic of internet time travel? We want to hear your stories of how web archives have made a positive impact [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.archive.org/2024/02/01/share-your-wayback-machine-impact-stories/">https://blog.archive.org/2024/02/01/share-your-wayback-machine-impact-stories/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.archive.org/2024/02/01/share-your-wayback-machine-impact-stories/">Save to Pocket</a>
+</span>
+
+---
+
+## Bard does pics
+
+date: 2024-02-01, from: Dave Winer's Scripting News
+
+<p>Google's Bard now does pictures. I asked for thousands of cats marching on 8th Ave in NYC between 57th St and 45th St. A very different style from what ChatGPT would have drawn and I like it. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/02/01/catsOnEighth.png"></center>Cats on 8th Ave.</div></p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/01/230220.html?title=bardDoesPics">http://scripting.com/2024/02/01/230220.html?title=bardDoesPics</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/01/230220.html?title=bardDoesPics">Save to Pocket</a>
+</span>
+
+---
+
+## ReactOS details its new graphical installer
+
+date: 2024-02-01, from: OS News
+
+The ReactOS project is working on a new graphical installer to replace the older, text-mode one. In the first blog post about this effort, from December 2023, developer hbelusca details their work on setupapi, the module that enables &#8220;reading and processing INF files, moving/copying files from an installation source media to a target, supporting also extraction from compressed .CAB cabinet files&#8221;, as well as device installation functions. The second post dives into partitioning during installation, which involves a lot of very delicate work, from partitioning to installing the bootloader, and from copying files to modifying the registry. On top of that, this needs a GUI, and preferably one that&#8217;s better and more versatile than the well-known blue text-mode setup we all know from old versions of Windows. The new GUI presents more options, allows for bootloader settings, and, of course, partitioning in a non-destructive way before committing. In addition, while the blue text-mode setup can only go forward, the new GUI is bidirectional. The third and final post dives into testing all this work and fixing bugs. The post goes into great detail describing a number of bugs and their fixes, and is well worth a read, too.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138499/reactos-details-its-new-graphical-installer/">https://www.osnews.com/story/138499/reactos-details-its-new-graphical-installer/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138499/reactos-details-its-new-graphical-installer/">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;The majority of Oregon&#8217;s Republican state senators are prohibited from running for... 
+
+date: 2024-02-01, updated: 2024-02-01, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043912-the-majority-of-oregons-r">https://kottke.org/24/02/0043912-the-majority-of-oregons-r</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043912-the-majority-of-oregons-r">Save to Pocket</a>
+</span>
+
+---
+
+## Windows 11 is getting native sudo command
+
+date: 2024-02-01, from: OS News
+
+Microsoft is testing native Sudo command support for Windows 11. The support for native “Sudo” command was spotted in a leaked Windows Server preview build, accidentally published to the Windows Update servers over the weekend. ↫ Mayank Parmar It&#8217;s kind of wild that something like sudo doesn&#8217;t exist in Windows.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138497/windows-11-is-getting-native-sudo-command/">https://www.osnews.com/story/138497/windows-11-is-getting-native-sudo-command/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138497/windows-11-is-getting-native-sudo-command/">Save to Pocket</a>
+</span>
+
+---
+
+## Google Bard: fast, gorgeous, and out of control
+
+date: 2024-02-01, from: Gary Marcus blog
+
+Copyright infringement, anyone?
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/google-bard-fast-gorgeous-and-out">https://garymarcus.substack.com/p/google-bard-fast-gorgeous-and-out</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/google-bard-fast-gorgeous-and-out">Save to Pocket</a>
+</span>
+
+---
+
+## What's up at Harvard?
+
+date: 2024-02-01, from: Dave Winer's Scripting News
+
+<p>I wrote this note to Chris Lydon re the <a href="https://radioopensource.org/the-humbling-of-harvard/">latest episode</a> of his podcast. </p>
+<ul>
+<li>Chris,</li>
+<li>I'm listening to your latest <a href="https://radioopensource.org/the-humbling-of-harvard/">podcast about Harvard</a>, and totally appreciate this. </li>
+<li>In my two years at Harvard in the 00s, I never:</li>
+<ul>
+<li>1. Experienced antisemitism.</li>
+<li>2. Saw antisemitism.</li>
+<li>3. Even thought about the <i>possibility</i> of antisemitism.</li>
+</ul>
+<li>On the Harvard campus.</li>
+<li>That said, antisemitism is everywhere, even inside me, a man whose grandparents were Jews who fled for their lives with their children from the Holocaust before and during WWII. I am a product of that, in ways I didn't even realize until my parents were gone. It's everywhere, all around, inside myself, inside everyone, and the best we can hope for imho is that it will stay hidden. </li>
+<li>Ask me about what happened in the NBA with <a href="https://www.google.com/search?q=site%3Ascripting.com+kyrie">Kyrie Irving</a>, and how, by their silence, the players and coaches showed how huge and deep the problem is.</li>
+<li>To see the Repubs monetize this for political gain is par for the course. To see Harvard buckle under that, is as weak and the people who made that decision imho should resign in disgrace. </li>
+<li>Thanks for your continued and unique excellence. </li>
+<li>Dave</li>
+</ul>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/01/221059.html?title=whatsUpAtHarvard">http://scripting.com/2024/02/01/221059.html?title=whatsUpAtHarvard</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/01/221059.html?title=whatsUpAtHarvard">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-01, from: Dave Winer's Scripting News)
+
+<a href="https://github.com/scripting/feedlandSupport/issues/236">Heads-up</a> to users of feedland.org. There will be a little downtime tomorrow AM, Eastern time, for a system upgrade.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/01.html#a220927">http://scripting.com/2024/02/01.html#a220927</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/01.html#a220927">Save to Pocket</a>
+</span>
+
+---
+
+## Making a PDF that’s larger than Germany
+
+date: 2024-02-01, from: OS News
+
+A few times a year, a claim will make the rounds that the largest PDF you can make is a square covering about the middle section of Germany &#8211; 381 km × 381 km. Turns out, this is only the maximum size Acrobat Reader can display, and not the limit of the format itself at all. So, how big can you go? Very big: If you’re curious, that width is approximately the distance between the Earth and the Moon. I’d have to get my ruler to check, but I’m pretty sure that’s larger than Germany. I could keep going. And I did. Eventually I ended up with a PDF that Preview claimed is larger than the entire universe – approximately 37 trillion light years square. Admittedly it’s mostly empty space, but so is the universe. If you’d like to play with that PDF, you can get it here. Please don’t try to print it. ↫ Alex Chan Don&#8217;t worry, I&#8217;m out of magenta anyway.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138494/making-a-pdf-thats-larger-than-germany/">https://www.osnews.com/story/138494/making-a-pdf-thats-larger-than-germany/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138494/making-a-pdf-thats-larger-than-germany/">Save to Pocket</a>
+</span>
+
+---
+
+##  Doom Runs on E. Coli Bacteria Now 
+
+date: 2024-02-01, updated: 2024-02-01, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/doom-runs-on-e-coli-bacteria-now">https://kottke.org/24/02/doom-runs-on-e-coli-bacteria-now</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/doom-runs-on-e-coli-bacteria-now">Save to Pocket</a>
+</span>
+
+---
+
+## The Sega AI Computer (セガＡＩコンピューター)
+
+date: 2024-02-01, from: OS News
+
+Around late 1986, Sega released the “Sega AI Computer”. This is one of Sega’s least well known and rarest systems. Not much is known about this system apart from a small amount of information in Japanese and American flyers and press articles. The information we have is still piecemeal and may be partly inaccurate. Today we are making public, for the first time: all system roms extracted from the Sega AI Computer, data dumps from 26 my-cards and 14 tapes, many scans and photographs, and in collaboration with MAME developers, an early working MAME driver allowing this computer to be emulated. ↫ SMS Power! Incredible. Usually stuff like this is relegated to a YouTube video, with potential archival efforts pushed to the background since it&#8217;s boring and won&#8217;t get any views. This is an amazing effort.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138492/the-sega-ai-computer-%e3%82%bb%e3%82%ac%ef%bd%81%ef%bd%89%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e3%83%bc/">https://www.osnews.com/story/138492/the-sega-ai-computer-%e3%82%bb%e3%82%ac%ef%bd%81%ef%bd%89%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e3%83%bc/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138492/the-sega-ai-computer-%e3%82%bb%e3%82%ac%ef%bd%81%ef%bd%89%e3%82%b3%e3%83%b3%e3%83%94%e3%83%a5%e3%83%bc%e3%82%bf%e3%83%bc/">Save to Pocket</a>
+</span>
+
+---
+
+##  I turned this blog comments thread into a job board and it&#8217;s... 
+
+date: 2024-02-01, updated: 2024-02-01, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043905-i-turned-this-blog-commen">https://kottke.org/24/02/0043905-i-turned-this-blog-commen</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043905-i-turned-this-blog-commen">Save to Pocket</a>
+</span>
+
+---
+
+## “Economic headwinds”? No, The Messenger’s flop is the result of one man’s blindness to his own bad ideas
+
+date: 2024-02-01, from: Nieman Journalism Lab
+
+Here&#8217;s a hypothetical for you. Imagine that, somehow, I gained the unilateral power to name myself the Kansas City Chiefs&#8217; starting quarterback in Super Bowl LVIII. (Maybe a genie granted me a wish? Or I&#8217;ve stumbled upon some truly devastating Andy Reid blackmail material? Pick your own explanation.) Then imagine that in two Sundays, I...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/economic-headwinds-no-the-messengers-flop-is-the-result-of-one-mans-blindness-to-his-own-bad-ideas/">https://www.niemanlab.org/2024/02/economic-headwinds-no-the-messengers-flop-is-the-result-of-one-mans-blindness-to-his-own-bad-ideas/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/economic-headwinds-no-the-messengers-flop-is-the-result-of-one-mans-blindness-to-his-own-bad-ideas/">Save to Pocket</a>
+</span>
+
+---
+
+## What Should We Have Learned from the Collapse of the New Economy (1998-2000)?
+
+date: 2024-02-01, from: Dave Karpf's blog
+
+History doesn&#8217;t repeat itself, but oh boy does this one rhyme.
+
+<span class="feed-item-link">
+<a href="https://davekarpf.substack.com/p/what-should-we-have-learned-from">https://davekarpf.substack.com/p/what-should-we-have-learned-from</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://davekarpf.substack.com/p/what-should-we-have-learned-from">Save to Pocket</a>
+</span>
+
+---
+
+## Amazon Charging for IPv4 Addresses
+
+date: 2024-02-01, from: Michael Tsai
+
+Amazon: As you may know, IPv4 addresses are an increasingly scarce resource and the cost to acquire a single public IPv4 address has risen more than 300% over the past 5 years. This change reflects our own costs and is also intended to encourage you to be a bit more frugal with your use of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/01/amazon-charging-for-ipv4-addresses/">https://mjtsai.com/blog/2024/02/01/amazon-charging-for-ipv4-addresses/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/01/amazon-charging-for-ipv4-addresses/">Save to Pocket</a>
+</span>
+
+---
+
+## The End of Adobe XD?
+
+date: 2024-02-01, from: Michael Tsai
+
+Brody Ford (via Hacker News): Adobe Inc. will end its effort to create a web design product to rival Figma Inc. after the collapse of its proposed $20 billion acquisition of the startup. When it agreed to buy Figma, which helps users design app and website interfaces, Adobe put its competing program XD in &#8220;maintenance [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/01/the-end-of-adobe-xd/">https://mjtsai.com/blog/2024/02/01/the-end-of-adobe-xd/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/01/the-end-of-adobe-xd/">Save to Pocket</a>
+</span>
+
+---
+
+## How to Mount HFS Classic Drives
+
+date: 2024-02-01, from: Michael Tsai
+
+Matthew Hughes (via Colin Cornaby): Drives using the antiquated vintage HFS file system appear in Disk Utility, but you cannot mount them. Attempting to do so will produce the following error code: &#8220;com.apple.DiskManagement.disenter error 49153&#8220;.Fortunately, there&#8217;s a relatively straightforward workaround &#8212; provided you&#8217;re confident enough with the Terminal. This requires you to install the HomeBrew [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/01/how-to-mount-hfs-classic-drives/">https://mjtsai.com/blog/2024/02/01/how-to-mount-hfs-classic-drives/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/01/how-to-mount-hfs-classic-drives/">Save to Pocket</a>
+</span>
+
+---
+
+## Rest
+
+date: 2024-02-01, from: Care
+
+
+                <p>A poem by Isra Hassan.</p>
+
+            
+
+<span class="feed-item-link">
+<a href="https://logicmag.io/policy/rest-poem">https://logicmag.io/policy/rest-poem</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/policy/rest-poem">Save to Pocket</a>
+</span>
+
+---
+
+## How to Choose and Customize a Mechanical Keyboard
+
+date: 2024-02-01, from: Michael Tsai
+
+Henri Robbins (Hacker News): Linear switches have straight &#8220;legs&#8221; on the sliders that allow for a smooth and consistent key press. Because of this, they have no bump and will be faster to type on, but they won&#8217;t have a physical indicator to tell you when the key has been pressed.Tactile switches have small bumps [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/01/how-to-choose-and-customize-a-mechanical-keyboard/">https://mjtsai.com/blog/2024/02/01/how-to-choose-and-customize-a-mechanical-keyboard/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/01/how-to-choose-and-customize-a-mechanical-keyboard/">Save to Pocket</a>
+</span>
+
+---
+
+##  Infinite Craft, another fun, whimsical web game from creative coder Neal Agarwal.... 
+
+date: 2024-02-01, updated: 2024-02-01, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043900-infinite-craft-another-fu">https://kottke.org/24/02/0043900-infinite-craft-another-fu</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043900-infinite-craft-another-fu">Save to Pocket</a>
+</span>
+
+---
+
+## First Hot Fire Test of the Year for Artemis
+
+date: 2024-02-01, from: NASA breaking news
+
+Clouds of white vapor pile up at NASA’s Stennis Space Center in Bay St. Louis, Mississippi, during a full-duration, 500-second hot fire of an RS-25 certification engine Jan. 17, 2024. This test series is critical for future flights of NASA’s SLS (Space Launch System) rocket in support of the Artemis campaign. During the Jan. 17 [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/first-hot-fire-test-of-the-year-for-artemis/">https://www.nasa.gov/image-article/first-hot-fire-test-of-the-year-for-artemis/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/first-hot-fire-test-of-the-year-for-artemis/">Save to Pocket</a>
+</span>
+
+---
+
+## “I used to listen to your podcast”
+
+date: 2024-02-01, from: Dave Rupert blog
+
+<p>Often when I talk with folks who know me from <a href="https://shoptalkshow.com/">my podcast</a> they will say something along the lines of, “I used to listen to your podcast!” Then they blush because their statement implies they don’t listen anymore (<a href="https://piccalil.li/blog/shoptalk-reaches-600th-episode/">Exhibit A</a>). And I just wanted to say…</p>
+<p>I get it.</p>
+<p>It’s fine. I take no offense. In fact, that’s part of the magic of podcasts! There’s an ebb and flow to them. Here’s ten reasons I give up on podcasts<sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup>:</p>
+<ol>
+<li>You need certain podcasts at certain times in your life.</li>
+<li>You and the podcast grow in different directions.</li>
+<li>You finish a season or story arc and it feels like a good stopping point.</li>
+<li>You find yourself subscribed to <em>too many</em> of the <em>same kind</em> of podcast (tech, murder mystery, actual play, two white dudes talking, etc).</li>
+<li>Nearly every podcast goes through an experimental phase and it’s okay not to join them on that cringe journey, you can catch up afterwards.</li>
+<li>Podcasts bring an immense amount of joy, but they can become another item on the to do list.</li>
+<li>There might be a global pandemic that cut your daily commute to zero and now you don’t have time for podcasts.</li>
+<li>You might get into audiobooks with a consistent narrative instead of rambly diatribes.</li>
+<li>People are only so original. When podcasts get a bit repetitive, it’s okay to peel off.</li>
+<li>A great reset where all podcasts must earn their position back in the queue!</li>
+</ol>
+<p>Unsubscribe and if you miss it you can always go back. As long as they paid their hosting bill, it should still be there.</p>
+<p>With RSS you can unplug from the machine. Podcasts – built on RSS – are the same. A never ending stream of content… but with latency. It’s important we celebrate the Thrill of Missing Out.</p>
+<section class="footnotes">
+<ol>
+<li id="fn1">
+<p>You can also unsubscribe for petty reasons like audio quality or you don’t like the person’s voice, but I’d encourage you to seek past that best you can. <a href="#fnref1" class="footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/02/no-podcaster-don-t-cry/">https://daverupert.com/2024/02/no-podcaster-don-t-cry/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/02/no-podcaster-don-t-cry/">Save to Pocket</a>
+</span>
+
+---
+
+##  What Would a Car-Optimized Hellscape Look Like in the UK? 
+
+date: 2024-02-01, updated: 2024-02-01, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/what-would-a-car-optimized-hellscape-look-like-in-the-uk">https://kottke.org/24/02/what-would-a-car-optimized-hellscape-look-like-in-the-uk</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/what-would-a-car-optimized-hellscape-look-like-in-the-uk">Save to Pocket</a>
+</span>
+
+---
+
+##  Man who leaked Trump&#8217;s tax returns sentenced to 5 years in prison.... 
+
+date: 2024-02-01, updated: 2024-02-01, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043899-man-who-leaked-trumps-tax">https://kottke.org/24/02/0043899-man-who-leaked-trumps-tax</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043899-man-who-leaked-trumps-tax">Save to Pocket</a>
+</span>
+
+---
+
+## OpenET Moisture Measurement Tool is Proving Highly Accurate
+
+date: 2024-02-01, from: NASA breaking news
+
+As the world looks for sustainable solutions, a system tapping into NASA satellite data for water management has passed a critical test. Called OpenET, the system uses an ensemble of six satellite-driven models that harness publicly available data from the Landsat program to calculate evapotranspiration (ET)—the movement of water vapor from soil and plant leaves […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/science-research/earth-science/water-energy-cycle/openet-moisture-measurement-tool-is-proving-highly-accurate/">https://science.nasa.gov/science-research/earth-science/water-energy-cycle/openet-moisture-measurement-tool-is-proving-highly-accurate/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/science-research/earth-science/water-energy-cycle/openet-moisture-measurement-tool-is-proving-highly-accurate/">Save to Pocket</a>
+</span>
+
+---
+
+## On digital relationships
+
+date: 2024-02-01, from: Manu - I write blog
+
+<p>This is my entry for February’s <a href="https://indieweb.org/indieweb-carnival">IndieWeb carnival</a>. This month is hosted by yours truly and I’d love to have you as part of this initiative.</p>
+<hr />
+<p>Digital relationships are a fascinating concept. The idea that a relationship with someone else can be lived, consumed, and enjoyed entirely inside the digital space is something we probably take for granted but it’s such a unique and distinctive feature of this time we live in.</p>
+<p>If you’re like me, you probably met and interacted with more people in the digital world than in real life. And I’m not saying this because I’m an introvert, I don’t think I am. I’m saying this simply because it’s the result of the life I live.</p>
+<p>Daily I receive emails or messages from people I don’t know and will never meet “in real life”. And daily I send back messages to these people sharing thoughts, opinions, bits of my life. That’s just what my life is these days and, to be honest with you, I find it incredibly rewarding at a personal level.</p>
+<p>But my life hasn’t always been like that. I’m technically a child of the 80s—juuuuust barely—but I grew up in the 90s. The internet wasn’t part of my life and the same can be said for most of the technology we take for granted nowadays. I had a cellphone—not a smartphone—and SMS was how we communicated. But SMS was such a limited and costly way to interact that using it to have digital relationships was not an option. And you had to have someone’s number first.</p>
+<p>My first experience with a digital relationship happened on a forum. Do you remember those? I love forums. They’re such a neat way to organize an online community. I’m even considering setting up one myself! Anyway, I remember browsing and posting on <a href="https://www.hwupgrade.it/forum/">hwupgrade.it/forum/</a> in the early 2000s and becoming friends with an Italian girl. We talked PS1 games and it was awesome. I never met her, never seen a picture of her, never even cared about asking for one. The only thing we exchanged were names and that was it.</p>
+<p>That was just the first in a long series of fun digital relationships. I met people playing the original COD MW2, back in 2009, I connected with strangers during the #followfriday days of early Twitter, and I exchanged countless emails with designers and developers during my years curating the—now defunct—thegallery.io.</p>
+<p>With most of the people I consider friends I have digital relationships. I met <a href="https://robhope.com">Rob</a> in person once in my life. We’ve known each other since I think 2012 and I hear from him pretty much daily. The same is true for <a href="https://carlbarenbrug.com">Carl</a>. We met in person exactly once and I hear from him daily. <a href="https://mwarrenarts.com">Mike</a> connected with me via email in 2015 and we’re still friends to this day. We never met in person and that’s absolutely fine.</p>
+<p>Digital relationships are powerful. Some people discard them because they think they’re not at the same level as “real relationships” but I disagree. Digital relationships are their own thing. They have their own rules, and their own ways to be unique. And they can be as important as any other relationship.</p>
+<p>The current internet can be a miserable place, I know. Social media can be a cesspool, people are mean, and there are weirdos everywhere. It sucks. I’m not going to pretend everything is wonderful out there. But I still have hope. I do because of the countless lovely exchanges I had via email with people like you.</p>
+<p>You, are a wonderful person. I don’t have any reason to think otherwise. And I’m sure there are others like you out there. Curious people, kind people, generous people. People who like to share, to engage honestly.</p>
+<p>Digital relationships are powerful but don’t take my word for it. Try for yourself. Next time you stumble on a personal site you find interesting, try to connect with the person behind that site. Write an email, say hi, send them some love. You won’t regret it.</p>
+<hr />
+<p>You have time until March 1st to publish something on the topic of “Digital Relationships” and be part of the IndieWeb Carnival. Just make sure to <a href="mailto:hello@manuelmoreale.com">send me an email</a> with the link if you want to be included in the roundup post.</p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/uuEcmMa0leGviF3E">https://manuelmoreale.com/@/page/uuEcmMa0leGviF3E</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/uuEcmMa0leGviF3E">Save to Pocket</a>
+</span>
+
+---
+
+##  John Gruber on the Apple Vision Pro: &#8220;The virtual movie screens look... 
+
+date: 2024-02-01, updated: 2024-02-01, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043898-john-gruber-on-the-apple">https://kottke.org/24/02/0043898-john-gruber-on-the-apple</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043898-john-gruber-on-the-apple">Save to Pocket</a>
+</span>
+
+---
+
+##  Groundhog Day, But With Potato Chips 
+
+date: 2024-02-01, updated: 2024-02-01, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/groundhog-day-but-with-potato-chips">https://kottke.org/24/02/groundhog-day-but-with-potato-chips</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/groundhog-day-but-with-potato-chips">Save to Pocket</a>
+</span>
+
+---
+
+## Research: 3 in 4 U.S. adults can discern real political news headlines from fake ones
+
+date: 2024-02-01, from: Nieman Journalism Lab
+
+Pop quiz: Which of these headlines appeared atop a real news story? (A) &#8220;Zelenskyy pleads to US Congress: ‘We need you right now’&#8221; (B) &#8220;Biden signed bill to mandate climate change curriculum in all K-8 classrooms&#8221; If you answered A, you’re correct — and not alone. About 3 in 4 adults in the U.S. can discern real...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/research-3-in-4-u-s-adults-can-discern-real-political-news-headlines-from-fake-ones/">https://www.niemanlab.org/2024/02/research-3-in-4-u-s-adults-can-discern-real-political-news-headlines-from-fake-ones/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/research-3-in-4-u-s-adults-can-discern-real-political-news-headlines-from-fake-ones/">Save to Pocket</a>
+</span>
+
+---
+
+## Announcing Interop 2024
+
+date: 2024-02-01, from: Mozilla Developer Network blog
+
+<p>Following the success of Interop 2023, we are pleased to confirm that the project will continue in 2024 with a new selection of focus areas, representing areas of the web platform where we think we can have the biggest positive impact on users and web developers. </p>
+<p>The post <a href="https://hacks.mozilla.org/2024/02/announcing-interop-2024/">Announcing Interop 2024</a> appeared first on <a href="https://hacks.mozilla.org">Mozilla Hacks - the Web developer blog</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://hacks.mozilla.org/2024/02/announcing-interop-2024/">https://hacks.mozilla.org/2024/02/announcing-interop-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://hacks.mozilla.org/2024/02/announcing-interop-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Taps Alabama A&M University to Host Break the Ice Lunar Challenge
+
+date: 2024-02-01, from: NASA breaking news
+
+By Savannah Bullard NASA has selected Alabama A&#38;M University’s Agribition Center in Huntsville, Alabama, to host the final level of the agency’s Break the Ice Lunar Challenge, using indoor and outdoor space to ground test the finalists&#8217; solutions. The challenge opened in 2020 to find novel solutions for excavating icy lunar regolith and delivering acquired [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-taps-alabama-am-university-to-host-break-the-ice-lunar-challenge/">https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-taps-alabama-am-university-to-host-break-the-ice-lunar-challenge/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-taps-alabama-am-university-to-host-break-the-ice-lunar-challenge/">Save to Pocket</a>
+</span>
+
+---
+
+## Advent of Computing: Episode 125 - US v IBM
+
+date: 2024-02-01, from: Tilde.news
+
+<p><a href="https://tilde.news/s/rmqa9a/advent_computing_episode_125_us_v_ibm">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://adventofcomputing.libsyn.com/episode-125-us-v-ibm">https://adventofcomputing.libsyn.com/episode-125-us-v-ibm</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-125-us-v-ibm">Save to Pocket</a>
+</span>
+
+---
+
+## Community Webs Receives $750,000 Grant to Expand Community Archiving by Public Libraries
+
+date: 2024-02-01, from: Internet Archive Blog
+
+Started in 2017, our Community Webs program has over 175 public libraries and local cultural organizations working to build digital archives documenting the experiences of their communities, especially those patrons [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.archive.org/2024/02/01/community-webs-receives-750000-grant-to-expand-community-archiving-by-public-libraries/">https://blog.archive.org/2024/02/01/community-webs-receives-750000-grant-to-expand-community-archiving-by-public-libraries/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.archive.org/2024/02/01/community-webs-receives-750000-grant-to-expand-community-archiving-by-public-libraries/">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;If you are a webdev type person and lately the web has... 
+
+date: 2024-02-01, updated: 2024-02-01, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043881-if-you-are-a-webdev">https://kottke.org/24/02/0043881-if-you-are-a-webdev</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043881-if-you-are-a-webdev">Save to Pocket</a>
+</span>
+
+---
+
+## Introducing Neural Processor Unit (NPU) support in DirectML (developer preview)
+
+date: 2024-02-01, from: Windows Developer Blog
+
+<h3>A developer preview of DirectML support for Intel® AI boost</h3>
+<p>With the release of DirectML 1.13.1 and the ONNX Runtime 1.17, we are excited to announce developer preview support for NPU acceleration in DirectML, the machine learning platform </p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2024/02/01/introducing-neural-processor-unit-npu-support-in-directml-developer-preview/">Introducing Neural Processor Unit (NPU) support in DirectML (developer preview)</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://blogs.windows.com/windowsdeveloper/2024/02/01/introducing-neural-processor-unit-npu-support-in-directml-developer-preview/">https://blogs.windows.com/windowsdeveloper/2024/02/01/introducing-neural-processor-unit-npu-support-in-directml-developer-preview/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blogs.windows.com/windowsdeveloper/2024/02/01/introducing-neural-processor-unit-npu-support-in-directml-developer-preview/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-01, from: Dave Winer's Scripting News)
+
+Every time you <a href="https://imgs.scripting.com/2024/01/14/tinyLittleTextBox.png">see</a> a tiny little textbox that's a sure clue they're trying to own you, and hoping you don't notice.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/01.html#a154043">http://scripting.com/2024/02/01.html#a154043</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/01.html#a154043">Save to Pocket</a>
+</span>
+
+---
+
+## In a ‘Dark Dimension,’ Physicists Search for the Universe’s Missing Matter
+
+date: 2024-02-01, from: Quanta Magazine
+
+An idea derived from string theory suggests that dark matter is hiding in a (relatively) large extra dimension. The theory makes testable predictions that physicists are investigating now.            <p>The post <a href="https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/" target="_blank">In a &#8216;Dark Dimension,&#8217; Physicists Search for the Universe&#8217;s Missing Matter</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/">https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/in-a-dark-dimension-physicists-search-for-missing-matter-20240201/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-01, from: Dave Winer's Scripting News)
+
+<a href="https://textcasting.org/">Textcasting</a> is rewriting the rules of the social web.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/01.html#a153822">http://scripting.com/2024/02/01.html#a153822</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/01.html#a153822">Save to Pocket</a>
+</span>
+
+---
+
+## Statement from NASA’s Jennifer Kunz at SpaceCom, 50th Space Congress
+
+date: 2024-02-01, from: NASA breaking news
+
+Jennifer Kunz, associate director technical of NASA’s Kennedy Space Center in Florida, released the following statement after speaking Thursday at the SpaceCom / 50th Space Congress in Orlando, Florida. “NASA’s Moon to Mars strategy rests on three pillars: pursuing science to better understand the universe and our origins; inspiring the next generation to achieve the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/statement-from-nasas-jennifer-kunz-at-spacecom-50th-space-congress/">https://www.nasa.gov/news-release/statement-from-nasas-jennifer-kunz-at-spacecom-50th-space-congress/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/statement-from-nasas-jennifer-kunz-at-spacecom-50th-space-congress/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-01, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/01/runner.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Here's what's going to happen. A bunch of new networks are forming, and they will melt into one, following a pattern established by the internet itself, when they formed a <a href="https://en.wikipedia.org/wiki/Transmission_Control_Protocol">net of nets</a> based on a common protocol called TCP. On top of that HTTP was built, with a number of years following with very productive building and bootstrapping, and from there it was a lot of chaos, around the advent of Twitter, Facebook and Google Reader. The last time we had a common way of <a href="http://scripting.com/2014/03/21/theWebIsMadeOfInterop.html">interop</a> was 17 years ago. I think/hope we're incentivized to make one edit box suffice, in place of the 5-10 <a href="http://scripting.com/2024/01/14.html#a145854">tiny little textboxes</a> we now all have to copy-paste between, and btw one way of addressing nodes, and then we can start building again as we did last in the 90s and 00s. I see something brilliant in the <a href="https://www.theverge.com/2024/1/31/24057231/iconfactory-kickstarter-internet-reader-project-tapestry-twitterrific">new path</a> that Twitteriffic wants to go down (I gave <a href="https://www.kickstarter.com/projects/iconfactory/project-tapestry">them</a> $128). It's same path I've been going down, mostly without partners, for the 17 years since we crawled on land and started tweeting. I don't see the negative shit that's happening on Twitter, it's easy to avoid the mess -- I don't think that's the reason we're breaking out of that silo -- it's that all at once all the devs who had been quietly suffering with Twitter were set free. Boom. All at once. And it turns out perhaps we don't give up so easily. <span class="spOldSchoolEmoji">😄</span>
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/01.html#a150936">http://scripting.com/2024/02/01.html#a150936</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/01.html#a150936">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-01, from: Dave Winer's Scripting News)
+
+January's posts have been <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2024/01.opml">archived to GitHub</a>, now we start a new month. February. What wonders will happen this month??
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/01.html#a150828">http://scripting.com/2024/02/01.html#a150828</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/01.html#a150828">Save to Pocket</a>
+</span>
 
 ---
 
@@ -34,6 +959,30 @@ date: 2024-02-01, from: Jeff Geerling blog
 
 ---
 
+## Lagniappe for February 2024
+
+date: 2024-02-01, from: NASA breaking news
+
+Explore the February 2024 edition featuring: Gator Speaks There are two reasons why the last Thursday in January and the month of February are important at NASA moving ahead as the Artemis Generation. Having been around for decades as the NASA Stennis mascot, it is easy to forget important things if you are not intentional [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-february-2024/">https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-february-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-february-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA to Study Effects of Radio Noise on Lunar Science
+
+date: 2024-02-01, from: NASA breaking news
+
+In February 2024, Intuitive Machines’ IM-1 mission will launch to the Moon’s South Polar region, as part of NASA’s Commercial Lunar Payload Services, or CLPS, initiative. This mission is part of CLPS’ ongoing effort to bring down the cost for science investigations and technology demonstrations going to the Moon and to make them more routine [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/artemis/clps/nasa-to-study-effects-of-radio-noise-on-lunar-science/">https://www.nasa.gov/missions/artemis/clps/nasa-to-study-effects-of-radio-noise-on-lunar-science/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/artemis/clps/nasa-to-study-effects-of-radio-noise-on-lunar-science/">Save to Pocket</a>
+</span>
+
+---
+
 ## Station Science 101: Studying DNA in Space
 
 date: 2024-02-01, from: NASA breaking news
@@ -54,6 +1003,20 @@ As NASA innovates for the benefit of all, what the agency develops for explorati
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/centers-and-facilities/stennis/nasa-spinoffs-feature-nasa-stennis-developed-technologies/">https://www.nasa.gov/centers-and-facilities/stennis/nasa-spinoffs-feature-nasa-stennis-developed-technologies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/stennis/nasa-spinoffs-feature-nasa-stennis-developed-technologies/">Save to Pocket</a>
+</span>
+
+---
+
+## Config Management, part II: Microcode Language
+
+date: 2024-02-01, from: Miek Giebin blog
+
+The first part.
+Microcode language This cfg mgmt system uses a micro language to perform the changes on the target system. This language is limited in its scope and has the following &ldquo;instructions&rdquo;:
+INSTRUCTION ARITY ARGUMENTS REMARK REM 1 TEXT a comment MKDIR 2 MODE PATH create a directory COPY 2 SRC-PATH DST-PATH copy a file CHMOD 2 MODE PATH set the mode CHOWN 2 USER/ID PATH set the owner CHGRP 2 GROUP/ID PATH set the group RM 1 PATH rm the file ADDPKG 1 PACKAGE install a package DELPKG 1 PACKAGE remove a package These micro-instruction basically all call a simple system call to make the changes.
+
+<span class="feed-item-link">
+<a href="https://miek.nl/2024/february/01/config-management-part-ii-microcode-language/">https://miek.nl/2024/february/01/config-management-part-ii-microcode-language/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://miek.nl/2024/february/01/config-management-part-ii-microcode-language/">Save to Pocket</a>
 </span>
 
 ---
@@ -158,6 +1121,40 @@ date: 2024-02-01, from: Raspberry Pi News (.com)
 
 ---
 
+## Summary of changes for January 2024
+
+date: 2024-02-01, from: Hundred Rabbits blog
+
+<p>Hey everyone!</p><p>This is the list of all the changes we've done to our projects during the month of January.</p>
+
+<h2>Summary Of Changes</h2>
+<ul>
+  <li><b><a href="https://100r.co">100r.co</a></b>, added <a href="https://100r.co/site/galley_refit.html" target="_blank">galley refit</a>, updated <a href="https://100r.co/site/lifelines.html#dec2023">lifelines</a>, <a href="https://100r.co/site/making_seamed_box_cushions.html#trapezoid">seamed box cushions</a>, and <a href="https://100r.co/site/moisture_prevention_underliner.html">moisture prevention underliner</a>.</li>
+  <li><b><a href="http://wiki.xxiivv.com/site/permacomputing.html" target="_blank">Permacomputing</a></b>, revamped the page.</li>
+  <li><b><a href="https://git.sr.ht/~rabbits/uxn-games/tree/main/item/flap/flap.tal">Flappy Bird</a></b>, released an {Uxn} version of the Flappy Bird game.</li>
+  <li><a href="https://100r.co/site/grimgrains.html" target="_blank">Grimgrains</a>, released a new basic recipe: <a href="https://grimgrains.com/site/whole_wheat_pancakes.html" target="_blank">Whole Wheat Pancakes</a>.</li>
+  <li><b><a href="https://soundcloud.com/neauoire" target="_blank">Aliceffekt</a></b>, Devine wrote some new music. </li>
+</ul>
+
+<p>On January 10th the forge that we use to host our projects was taken down by DDoS attacks and was struggling to come back online(it's back now, read the <a href="https://sourcehut.org/blog/2024-01-19-outage-post-mortem/" target="_blank">post-mortem</a>), the event reminded us that we ought to host mirrors and release versions of these source files ourselves. We have begun to <a href="http://wiki.xxiivv.com/etc/" target="_blank">host copies</a> across our various websites. The builds are still accessible through <a href="https://hundredrabbits.itch.io/" target="_blank">itch.io</a>. These will be automatically updated as we work on them in their individual repositories, but mirrored there for reliability. We are thankful for Sourcehut's tireless work on resolving the issue and for taking the time to communicate important changes.</p>
+
+<p>In keeping with the spirit of improving the resilience of the tools we use we've taken a moment to write a kind of pocket version of the console emulator and <a href="http://wiki.xxiivv.com/site/drifblim.html" target="_blank">self-hosted assembler</a> as to see how many lines are needed to start from the seed assembler and replicate it. A copy of the pocket emulator, the source for the assembler and its hexadecimal representation have been <a href="http://wiki.xxiivv.com/site/uxn.html" target="_blank">documented</a>.</p>
+
+<p>On January 17th <a href="https://100r.co/site/victoria.html" target="_blank">Victoria</a> got its first <a href="https://100r.co/media/content/stream/2024_snow.jpg" target="_blank">snowfall</a>, with it came temperatures below freezing. We got to test our recent improvements, like a new <a href="https://100r.co/media/content/boat_projects/vent.jpg" target="_blank">louvered closet vent</a> to help ventilate the space(there are also two existing vents at the top, one on each side). The closet has been dry for the first time in 3 years. We've made an effort not to keep too many items on the floor so the area can breathe. We got ice inside of the windows for the first time ever though... not ideal.</p>
+
+<p>See Uxn running on a <a href="https://loutre.info/@Hiro/111784989319495175" target="_blank">Zaurus Husky</a>(Mastodon).</p>
+
+<h3>Pino book club</h3>
+
+<p>This month we are reading <b>The Haunting of Hill House</b> by Shirley Jackson.</p>
+<p><a href='https://100r.co/site/log.html#jan2024' target='_blank'>Continue Reading</a></p>
+
+<span class="feed-item-link">
+<a href="https://100r.co/site/log.html#jan2024">https://100r.co/site/log.html#jan2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://100r.co/site/log.html#jan2024">Save to Pocket</a>
+</span>
+
+---
+
 ## Learn Prototyping
 
 date: 2024-02-01, from: Tilde.news
@@ -225,6 +1222,30 @@ Jaeger A.C.H.; Hartmann M.; Conz R.F.; Six J.; Solly E.F.
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/646227">http://hdl.handle.net/20.500.11850/646227</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/646227">Save to Pocket</a>
+</span>
+
+---
+
+## US-RSE Celebrates Black History Month
+
+date: 2024-02-01, from: The United States Research Software Engineer Association
+
+US-RSE’s DEI working group (DEI-WG) is proud to lead the US-RSE’s participation in celebrating Black History Month. Throughout the month, US-RSE members will be sharing stories that recognize and celebrate inspirational African Americans who have been involved in computing, science, engineering, and/or math, and have inspired our members through their...
+
+<span class="feed-item-link">
+<a href="https://us-rse.org/2024-02-01-black-history-month/">https://us-rse.org/2024-02-01-black-history-month/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://us-rse.org/2024-02-01-black-history-month/">Save to Pocket</a>
+</span>
+
+---
+
+## FOSDEM 2024
+
+date: 2024-02-01, from: Modos Blog
+
+
+
+<span class="feed-item-link">
+<a href="https://www.modos.tech/blog/fosdem-2024">https://www.modos.tech/blog/fosdem-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.modos.tech/blog/fosdem-2024">Save to Pocket</a>
 </span>
 
 ---
@@ -1906,6 +2927,8 @@ date: 2024-01-30, from: Stu Maschwitz blog
         
           
             
+              
+              
           
             
                 
@@ -1922,6 +2945,7 @@ date: 2024-01-30, from: Stu Maschwitz blog
             
           
         
+            
           
         
 
@@ -1943,6 +2967,7 @@ date: 2024-01-30, from: Stu Maschwitz blog
 
 
 <h2 id="gathering-resolve">Gathering Resolve</h2>
+
 
 
 
@@ -2046,7 +3071,7 @@ date: 2024-01-30, from: Stu Maschwitz blog
   
 
 
-<p>As if this video wasn’t enough work already (I shot the a-roll in mid-December), I decided to use it as a test case for creative editorial in DaVinci Resolve. It’s the ACES LUTs that allowed me to incorporate Magic Bullet Looks into my Resolve color workflow.</p>
+<p>As if this video wasn’t enough work already (I shot the A-roll in mid-December), I decided to use it as a personal test-case for creative editorial in DaVinci Resolve. It’s the ACES LUTs that allowed me to incorporate Magic Bullet Looks into my Resolve color workflow.</p>
 <p>Maxon just shipped a really nice <a href="https://www.maxon.net/en/article/maxon-red-giant-update-delivers-fast-beautiful-bokeh-and-realistic-lens-flares">update</a> to Magic Bullet Looks, with simplified color management made possible by more and more apps we support doing darn fine color management at the timeline level.</p>
 <p>So in Resolve, I can use my LUT to convert Apple Log to ACEScc, and then apply Magic Bullet Looks, which can now be set to work in ACEScc with a single click.</p>
 
@@ -2153,7 +3178,8 @@ date: 2024-01-30, from: Stu Maschwitz blog
   
 
 
-<p>I can sneak additional Resolve corrector nodes in between those two for local corrections. Resolve is great at this, and Looks is great at creative look development, so this is a match made in heaven.</p>
+<p>I can sneak additional Resolve corrector nodes between those two for local corrections. Resolve is great at this, and Looks is great at creative look development, so this is a match made in heaven.</p>
+
 
 
 
@@ -2301,6 +3327,7 @@ date: 2024-01-30, from: Stu Maschwitz blog
 
 
 
+
   
 
     
@@ -2364,7 +3391,7 @@ date: 2024-01-30, from: Stu Maschwitz blog
 <p>An expert Resolve user could replace my LUTs with Resolve’s built-in <strong>Color Space Transform</strong> nodes, but the LUTs make this process easier and more reliable.</p>
 <h2 id="gear-inspires">Gear Inspires</h2>
 <p>Every photographer knows the feeling of lusting after new gear. We know it so well that we remind ourselves constantly that “next camera syndrome” is debilitating, and that “most cameras are better than most photographers.” Gear is not the answer. Go shoot.</p>
-<p>There is, however, a counterpoint to these truths: As shooters, we take inspiration where we can get it. And sometimes a new technique, a new locale, or even, yes, a new bit of gear is what provides it.</p>
+<p>There is, however, a counterpoint to these truths: As shooters, we take inspiration where we can get it. And sometimes a new technique, a new locale, or even, yes, a new bit of kit is what provides it.</p>
 <p>The key is to listen for that inspiration, and don’t judge it.</p>
 <p>Even if it’s coming from your phone.</p>
 
@@ -2432,6 +3459,8 @@ date: 2024-01-30, from: Stu Maschwitz blog
         
           
             
+              
+              
           
             
                 
@@ -2448,13 +3477,14 @@ date: 2024-01-30, from: Stu Maschwitz blog
             
           
         
+            
           
         
 
         
           
           <figcaption class="image-caption-wrapper">
-            <p class="">Jiufen village, Taiwan</p>
+            <p class="">Jiufen village, Taiwan. Two a7RIV shots stitched in Lightroom.</p>
           </figcaption>
         
       
@@ -2693,7 +3723,7 @@ date: 2024-01-30, from: Marginallia log
 
 I get significantly more work done when I unplug my computer from the Internet. It&rsquo;s not that my productive output drops to zero when I&rsquo;m plugged in, but more like 70%.
 Despite many of the tools that I use requiring a connection, and certainly the Internet containing a wealth of information that might expedite my work, these benefits are drastically outweighed by the wealth of distractions also available.
-It&rsquo;s very appealing, when the code is compiling or the docker containers restarting, to sneak open a browser tab with hacker news, or the Χ formerly known as Twitter, youtube, or something else to pass those minutes.
+It&rsquo;s very appealing, when the code is compiling or the docker containers restarting, to sneak open a browser tab with hacker news, or the Χ formerly known as Twitter, youtube, mastodon, a news site, or something similar to pass those minutes.
 
 <span class="feed-item-link">
 <a href="https://www.marginalia.nu/log/99_context/">https://www.marginalia.nu/log/99_context/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.marginalia.nu/log/99_context/">Save to Pocket</a>
