@@ -1,11 +1,11 @@
 ---
 title: socal north 2024.05
-updated: 2024-02-02 08:09:17
+updated: 2024-02-02 08:57:11
 ---
 
 # socal north 2024.05
 
-(date: 2024-02-02 08:09:17)
+(date: 2024-02-02 08:57:11)
 
 ---
 
@@ -26,7 +26,7 @@ In the 2024 edition, UCLA and UC Berkeley tied for 15th nationally, which was a 
 
 date: 2024-02-02, updated: 2024-02-02, from: The LAist
 
-Here's how the process works under the charter, what’s on the agenda for next term and who you should follow to stay in the know.
+We lay out the process under the charter, what’s on the agenda for next term and who you should follow to stay in the know.
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/criminal-justice/los-angeles-lapd-chief-search-bass-moore-public-input-community-feedback-charter-explainer">https://laist.com/news/criminal-justice/los-angeles-lapd-chief-search-bass-moore-public-input-community-feedback-charter-explainer</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/criminal-justice/los-angeles-lapd-chief-search-bass-moore-public-input-community-feedback-charter-explainer">Save to Pocket</a>

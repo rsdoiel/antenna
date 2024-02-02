@@ -1,19 +1,70 @@
 ---
 title: weather 2024.05
-updated: 2024-02-02 08:09:17
+updated: 2024-02-02 08:57:11
 ---
 
 # weather 2024.05
 
-(date: 2024-02-02 08:09:17)
+(date: 2024-02-02 08:57:11)
 
 ---
 
-## SPC - No watches are valid as of Fri Feb  2 14:56:02 UTC 2024
+## SPC Day 1 Fire Weather Outlook
 
 date: 2024-02-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Fri Feb  2 14:56:02 UTC 2024.
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1035 AM CST Fri Feb 02 2024
+
+Valid 021700Z - 031200Z
+
+...NO CRITICAL AREAS...
+
+...17z Update...
+Morning observations showed developing showers/thunderstorms and
+expanding cloud cover over much of the southern Plains. Some gusty
+winds and periodic humidity below 25% are possible over parts of
+southwest TX this afternoon. However, more widespread critical
+fire-weather concerns appear unlikely owing to wetting rain
+potential and the poor overlap of meteorological conditions with the
+driest fuels in southwest TX. See the previous discussion for more
+information.
+
+..Lyons.. 02/02/2024
+
+.PREV DISCUSSION... /ISSUED 1153 PM CST Thu Feb 01 2024/
+
+...Synopsis...
+A mid-level trough will deepen as it ejects into the southern High
+Plains today, supporting surface cyclone development in Colorado. A
+dryline will develop and move eastward across the TX Panhandle,
+supporting strong westerly surface winds through the afternoon hours
+across eastern New Mexico into far western Texas. While sustained
+westerly surface winds may exceed 20 mph at times across much of the
+southern High Plains, widespread clouds with scattered showers and
+thunderstorms are also expected. When also considering relatively
+high RH values (20-25 percent at lowest) and marginally receptive
+fuels, fire weather highlights do not appear warranted at this time.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No watches are valid as of Fri Feb  2 16:38:02 UTC 2024
+
+date: 2024-02-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Feb  2 16:38:02 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
@@ -21,14 +72,97 @@ No watches are valid as of Fri Feb  2 14:56:02 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Fri Feb  2 14:56:02 UTC 2024
+## SPC - No MDs are in effect as of Fri Feb  2 16:38:02 UTC 2024
 
 date: 2024-02-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Fri Feb  2 14:56:02 UTC 2024.
+No Mesoscale Discussions are in effect as of Fri Feb  2 16:38:02 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Feb 2, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-02-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1029 AM CST Fri Feb 02 2024
+
+Valid 021630Z - 031200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS FROM WESTERN NORTH
+TEXAS AND THE BIG COUNTRY SOUTH TO THE HILL COUNTRY AND EDWARDS
+PLATEAU...
+
+...SUMMARY...
+Local severe weather potential, mainly in the form of hail, will
+affect portions of the southern Plains from late afternoon into this
+evening.
+
+...Synopsis...
+A highly amplified upper flow pattern will continue across the U.S.
+today.  While a trough will continue crossing the eastern states and
+a second affects the Pacific Northwest, the primary feature with
+respect to convective weather will be a trough/evolving upper low
+advancing east-southeastward across the Desert Southwest.  Ascent in
+advance of this feature -- and the associated left exit region of a
+160 kt northwesterly upper-level jet -- will continue spreading
+into/across the southern Plains through the period.
+
+At the surface, a Pacific cold front -- associated with the
+aforementioned southwestern U.S. upper trough -- will shift out of
+eastern New Mexico and far West Texas into lower elevations of the
+southern Plains today and tonight, in tandem with an increase in
+thunderstorms across the region.
+
+...Southern Plains...
+Morning RAOBS indicate stout capping across the southern Plains
+region, with expansive low clouds/stratus per visible satellite
+imagery due to a partially modified Gulf boundary-layer airmass
+streaming northwestward beneath the inversion.  The low cloudiness
+-- and increasing convection across the area with time -- will limit
+potential for surface-based destabilization in most areas,
+particularly with eastward extent.
+
+With that said, some erosion of the low clouds is ongoing into
+portions of the Big Country region of Texas, with clear skies to the
+west -- i.e. portions of the south Plains and the Transpecos region.
+ Resulting insolation ahead of the advancing front will likely
+permit eventual/afternoon thunderstorm development across the Big
+Country and Concho Valley region, which is then expected to spread
+northeastward toward western North Texas with time.  Storms may also
+develop by this evening over the higher terrain just west of the
+lower Rio Grande Valley, and adjacent portions of the Edwards
+Plateau.
+
+Despite the somewhat cool, and only modestly moist boundary layer
+expected to persist across the eastern half of the southern Plains,
+steep lapse rates aloft will contribute to ample CAPE aloft,
+supporting locally vigorous updrafts.  Storm intensity will be aided
+by favorably strong/veering flow with height as increasing
+southwesterly mid-level flow spreads eastward across the southern
+Plains.  As a result, isolated rotating storms will likely evolve,
+with the greatest potential for surface-based severe risk including
+damaging winds likely to remain across western portions of the SLGT
+risk area.  Into this evening, as storms continue to increase in
+coverage and spread eastward across central parts of the southern
+Plains, and perhaps initiate farther south toward the Rio Grande
+Valley, risk should transition to primarily hail, as convection
+should largely remain elevated.
+
+..Goss/Thornton.. 02/02/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
 </span>
 
 ---
@@ -191,115 +325,6 @@ stable conditions will preclude thunderstorm development.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Jan 31, 2024 1630 UTC Day 1 Convective Outlook
-
-date: 2024-01-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1007 AM CST Wed Jan 31 2024
-
-Valid 311630Z - 011200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Isolated thunderstorms are possible tonight along parts of the
-California Coast.
-
-...CA Coast...
-A large upper trough is beginning to affect the Pacific coast today,
-with a band of rain moving ashore.  This pre-frontal precipitation
-is in a generally stable environment, and is not expected to support
-organized thunderstorm activity.
-
-Later tonight, continued cooling of mid-level temperatures will
-result in steep lapse rates over the offshore waters, leading to a
-risk of a few thunderstorms in the post-frontal cellular convection.
- This activity is expected to be quite sparse.  No severe storms are
-expected.
-
-..Hart/Weinman.. 01/31/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Day 1 Fire Weather Outlook
-
-date: 2024-01-31, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0919 AM CST Wed Jan 31 2024
-
-Valid 311700Z - 011200Z
-
-...NO CRITICAL AREAS...
-
-The previous forecast remains on track with no adjustments needed.
-Forecast concerns regarding the southern/central High Plains remains
-on track (see the previous discussion below for details). 
-
-Across southern GA and Florida, dry air is slowly filtering into
-region as a cold front pushes into central FL under mostly clear
-skies. With no apparent inhibitions for maximal RH reductions this
-afternoon, RH reductions into the mid to low 30s appear probable
-from northern to central FL. Additionally, the probability of
-sustained winds over 15 mph seems reasonably high, and should
-support a few hours of elevated fire weather conditions. This
-appears most likely to occur across central FL, but fuels remains
-only marginally dry based on latest fuel reports. Highlights are
-withheld due to the limited availability of receptive fuels, but a
-few hours of elevated fire weather conditions is probable.
-
-..Moore.. 01/31/2024
-
-.PREV DISCUSSION... /ISSUED 0123 AM CST Wed Jan 31 2024/
-
-...Synopsis...
-Amplified upper-level ridging will move into the Plains today. Along
-the West Coast, a broad upper trough will move ashore during the
-period. Farther east, a weak shortwave trough will lift out of the
-Southwest and into the central Rockies. A strong shortwave trough
-will exit the southeastern U.S. coastline.
-
-...Parts of southern/central High Plains...
-A deeper lee trough will develop in response to the weak shortwave
-trough and otherwise generally increasing mid-level flow across the
-southern Rockies. Dry and windy conditions are possible from the
-Texas Panhandle into adjacent Colorado and Kansas. RH will more than
-likely stay above 20% for most areas (partially due to cloud cover)
-and winds will be marginal. Unreceptive fuels will further reduce
-overall fire weather concerns.
-
-...Southern Georgia/North Florida...
-The shortwave trough moving through the area will deepen a surface
-low off the coast of the Carolinas. This should help to increase
-northwesterly winds across the region. RH near 30% appears possible
-with winds of 10-15 mph (locally greater). Without drier fuels,
-however, fire weather risk will likely remain minimal to localized.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
 </span>
 
 ---

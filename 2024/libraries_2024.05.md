@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.05
-updated: 2024-02-02 08:09:17
+updated: 2024-02-02 08:57:11
 ---
 
 # libraries 2024.05
 
-(date: 2024-02-02 08:09:17)
+(date: 2024-02-02 08:57:11)
 
 ---
 
@@ -19,6 +19,18 @@ date: 2024-02-02, from: Scholarly Kitchen
 
 <span class="feed-item-link">
 <a href="https://scholarlykitchen.sspnet.org/2024/02/02/what-if-the-earth-suddenly-stopped-spinning/">https://scholarlykitchen.sspnet.org/2024/02/02/what-if-the-earth-suddenly-stopped-spinning/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/02/what-if-the-earth-suddenly-stopped-spinning/">Save to Pocket</a>
+</span>
+
+---
+
+## Managing the COVID-19 pandemic in poor urban neighborhoods: The case of Accra and Johannesburg
+
+date: 2024-02-02, from: ETH Zurich, recently added
+
+Durizzo, Kathrin
+
+<span class="feed-item-link">
+<a href="http://hdl.handle.net/20.500.11850/657190">http://hdl.handle.net/20.500.11850/657190</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/657190">Save to Pocket</a>
 </span>
 
 ---

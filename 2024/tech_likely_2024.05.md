@@ -1,11 +1,85 @@
 ---
 title: tech likely 2024.05
-updated: 2024-02-02 08:09:17
+updated: 2024-02-02 08:57:11
 ---
 
 # tech likely 2024.05
 
-(date: 2024-02-02 08:09:17)
+(date: 2024-02-02 08:57:11)
+
+---
+
+## timing
+
+date: 2024-02-02, from: Ayjay blog
+
+People often talk about comic timing, but what does that mean, exactly? Well, here’s an example, from one of the best comedy routines ever: Elaine May as Bell Telephone (in several personae) and Mike Nichols as a self-confessed “broken man.” Watch it just for fun, because it carries a lot of fun.  Then watch it [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/timing/">https://blog.ayjay.org/timing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/timing/">Save to Pocket</a>
+</span>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2024-02-02, from: Robert's feed at BlueSky)
+
+This was a interesting piece supporting the notion that just building content in brower via JavaScript (or WASM) is a bad idea and I would add unethical. https://infrequently.org/2024/01/performance-inequality-gap-2024/
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3kkh5ht5tis2m">https://bsky.app/profile/rsdoiel.bsky.social/post/3kkh5ht5tis2m</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/rsdoiel.bsky.social/post/3kkh5ht5tis2m">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-02, from: Dave Winer's Scripting News)
+
+I have a server that handles all my old sites, and it needs to be replaced, so I'm trying to figure out where to put all the sites. Most are really small, 10 or fewer files. But <a href="http://outline.land/treefun">outline.land/treefun</a> was large and interesting, so I thought I'd put a link here. I have forgotten so many of my little experiments.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/02.html#a162816">http://scripting.com/2024/02/02.html#a162816</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/02.html#a162816">Save to Pocket</a>
+</span>
+
+---
+
+## 30 Years Ago: STS-60, the First Shuttle-Mir Mission
+
+date: 2024-02-02, from: NASA breaking news
+
+On Feb. 3, 1994, space shuttle Discovery took off on its 18th flight, STS-60. Its six-person crew of Commander Charles F. Bolden, Pilot Kenneth S. Reightler, and Mission Specialists N. Jan Davis, Ronald M. Sega, Franklin R. Chang-Díaz, who served as payload commander, and Sergei K. Krikalev of the Russian Space Agency, now Roscosmos, flew [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/history/30-years-ago-sts-60-the-first-shuttle-mir-mission/">https://www.nasa.gov/history/30-years-ago-sts-60-the-first-shuttle-mir-mission/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/history/30-years-ago-sts-60-the-first-shuttle-mir-mission/">Save to Pocket</a>
+</span>
+
+---
+
+## A World without Passports
+
+date: 2024-02-02, from: mrusme blog
+
+According to my [analytics dashboard](/infrastructure/#analytics), there's a
+70% chance you're reading this on your phone. Maybe at home, or maybe while
+commuting to work, using your mobile data connection, for which you've
+probably signed up on a mobile contract. A contract for which you had to prove
+that you are you, likely by showing your national ID or passport. A contract
+for which you have to pay regularly, probably using a bank account that you
+also had to identify yourself for upon opening.
+
+<span class="feed-item-link">
+<a href="https://xn--gckvb8fzb.com/a-world-without-passports/">https://xn--gckvb8fzb.com/a-world-without-passports/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://xn--gckvb8fzb.com/a-world-without-passports/">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Sees a Merged Galaxy
+
+date: 2024-02-02, from: NASA breaking news
+
+This new NASA&#160;Hubble Space Telescope&#160;image shows ESO 185-IG013, a luminous blue compact galaxy (BCG). BCGs are nearby galaxies that show an intense burst of star formation. They are unusually blue in visible light, which sets them apart from other high-starburst galaxies that emit more infrared light. Astrophysicists study BCGs because they provide a relatively close-by [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/hubble-sees-a-merged-galaxy/">https://www.nasa.gov/image-article/hubble-sees-a-merged-galaxy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/hubble-sees-a-merged-galaxy/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -819,18 +893,6 @@ By Savannah Bullard NASA has selected Alabama A&#38;M University’s Agribition 
 
 ---
 
-## Advent of Computing: Episode 125 - US v IBM
-
-date: 2024-02-01, from: Tilde.news
-
-<p><a href="https://tilde.news/s/rmqa9a/advent_computing_episode_125_us_v_ibm">Comments</a></p>
-
-<span class="feed-item-link">
-<a href="https://adventofcomputing.libsyn.com/episode-125-us-v-ibm">https://adventofcomputing.libsyn.com/episode-125-us-v-ibm</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-125-us-v-ibm">Save to Pocket</a>
-</span>
-
----
-
 ## Community Webs Receives $750,000 Grant to Expand Community Archiving by Public Libraries
 
 date: 2024-02-01, from: Internet Archive Blog
@@ -910,6 +972,18 @@ Jennifer Kunz, associate director technical of NASA’s Kennedy Space Center in 
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/news-release/statement-from-nasas-jennifer-kunz-at-spacecom-50th-space-congress/">https://www.nasa.gov/news-release/statement-from-nasas-jennifer-kunz-at-spacecom-50th-space-congress/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/statement-from-nasas-jennifer-kunz-at-spacecom-50th-space-congress/">Save to Pocket</a>
+</span>
+
+---
+
+## Episode 125 - US v IBM
+
+date: 2024-02-01, from: Advent of Computing
+
+<div class="" data-block="true" data-editor="dq5o3" data-offset-key="4udsf-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="4udsf-0-0"><span data-offset-key= "4udsf-0-0"><span data-text="true">My coverage of the IBM System/360 continues! In this episode we look at US v IBM, and the fallout that surrounded the release of the System/360. By 1969 IBM already had a history of antitrust litigation. What was IBM doing to upset the Department of Justice, and how does it tie in to the larger story of clone computers?</span></span></div> </div> <div class="" data-block="true" data-editor="dq5o3" data-offset-key="8hmfs-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8hmfs-0-0"><span data-offset-key= "8hmfs-0-0"> </span></div> </div> <div class="" data-block="true" data-editor="dq5o3" data-offset-key="diqk9-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="diqk9-0-0"><span data-offset-key= "diqk9-0-0"><span data-text="true">Selected Sources:</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="diqk9-0-0"> </div> </div> <div class="" data-block="true" data-editor="dq5o3" data-offset-key="8a7ef-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8a7ef-0-0"><a class="sc-afquy-0 kpuBjA" href= "http://www.cptech.org/at/ibm/ibm1956cd.html"><span data-offset-key="8a7ef-0-0"> <span data-text= "true">http://www.cptech.org/at/ibm/ibm1956cd.html</span></span></a> <span data-offset-key="8a7ef-1-0"><span data-text="true">- 1956 Consent Decree</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8a7ef-0-0"> </div> </div> <div class="" data-block="true" data-editor="dq5o3" data-offset-key="8099d-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8099d-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://supreme.justia.com/cases/federal/us/298/131/"><span data-offset-key="8099d-0-0"> <span data-text= "true">https://supreme.justia.com/cases/federal/us/298/131/</span></span></a> <span data-offset-key="8099d-1-0"><span data-text="true">- 1936 Consent Decree</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8099d-0-0"> </div> </div> <div class="" data-block="true" data-editor="dq5o3" data-offset-key="dnurj-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="dnurj-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.org/details/foldedspindledmu00fish/page/n5/mode/2up"> <span data-offset-key="dnurj-0-0"><span data-text= "true">https://archive.org/details/foldedspindledmu00fish/page/n5/mode/2up</span></span></a> <span data-offset-key="dnurj-1-0"><span data-text="true">- Folded, Spindled, and Mutilated</span></span></div> </div>
+
+<span class="feed-item-link">
+<a href="https://adventofcomputing.libsyn.com/episode-125-us-v-ibm">https://adventofcomputing.libsyn.com/episode-125-us-v-ibm</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-125-us-v-ibm">Save to Pocket</a>
 </span>
 
 ---

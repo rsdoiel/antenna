@@ -1,11 +1,36 @@
 ---
 title: writing 2024.05
-updated: 2024-02-02 08:09:17
+updated: 2024-02-02 08:57:11
 ---
 
 # writing 2024.05
 
-(date: 2024-02-02 08:09:17)
+(date: 2024-02-02 08:57:11)
+
+---
+
+## The Year in Review 2023 by Gary K. Wolfe
+
+date: 2024-02-02, from: Locus Magazine
+
+<p>One of my favorite open­ings of any novel is that of Italo Calvino’s <strong>If On a Winter’s Night a Traveler</strong>, in which he describes navi­gating a bookstore filled with Books You Haven’t Read, including “Books You Needn’t Read”, “Books Read Even Before You Open Them Because They Belong To The Category Of Books Read Before Being Written”, “Books You Mean To Read But There Are Others You Must Read  <a href="https://locusmag.com/2024/02/the-year-in-review-2023-by-gary-k-wolfe/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/the-year-in-review-2023-by-gary-k-wolfe/">https://locusmag.com/2024/02/the-year-in-review-2023-by-gary-k-wolfe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/the-year-in-review-2023-by-gary-k-wolfe/">Save to Pocket</a>
+</span>
+
+---
+
+## Alex Brown Reviews Bloom by Delilah S. Dawson
+
+date: 2024-02-02, from: Locus Magazine
+
+<p><strong>Bloom</strong>, Delilah S. Dawson (Titan Books 978-1-80336-575-6, $22.99, 208pp, hc) October 2023. Cover by Julia Lloyd.</p>
+<p>I’ll admit, it’s been a while since I read anything by Delilah S. Dawson. I enjoyed her young adult speculative novels <strong>Hit </strong>and <strong>Servants of the Storm</strong>, comic book <strong>Ladycastle</strong>, her speculative romance stories, and her Weird West series The Shadow written under the pseudonym Lila Bowen. But for no reason  <a href="https://locusmag.com/2024/02/alex-brown-reviews-bloom-by-delilah-s-dawson/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/alex-brown-reviews-bloom-by-delilah-s-dawson/">https://locusmag.com/2024/02/alex-brown-reviews-bloom-by-delilah-s-dawson/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/alex-brown-reviews-bloom-by-delilah-s-dawson/">Save to Pocket</a>
+</span>
 
 ---
 

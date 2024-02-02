@@ -1,11 +1,11 @@
 ---
 title: parks 2024.05
-updated: 2024-02-02 08:09:17
+updated: 2024-02-02 08:57:11
 ---
 
 # parks 2024.05
 
-(date: 2024-02-02 08:09:17)
+(date: 2024-02-02 08:57:11)
 
 ---
 
@@ -21,7 +21,9 @@ date: 2024-02-01, from: Bureau of Land Management, blog
 
   
 
-            <div class="field contact-block -body"><p>Annie Roach grew up in Reno, Nevada in the shadow of the Sierra Nevada mountains. She loved to watch the wild horses running freely on the range near her childhood home, the very same horses whose forebears inspired the grass roots campaign that achieved federal protection for them and free roaming burros in 1971. Though Dr. Roach was born many years after her death, Velma Johnston, the Reno woman nicknamed “Wild Horse Annie” for galvanizing a nation to push for the protection of these beloved icons, would have been very proud to know her.  </p>
+            <div class="field contact-block -body"><p class="text-align-center"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen frameborder="0" height="315" src="https://www.youtube.com/embed/Q49_p4onLT0?si=jJTHxbiEjDPYW8No" title="YouTube video player" width="560"></iframe></p>
+
+<p>Annie Roach grew up in Reno, Nevada in the shadow of the Sierra Nevada mountains. She loved to watch the wild horses running freely on the range near her childhood home, the very same horses whose forebears inspired the grass roots campaign that achieved federal protection for them and free roaming burros in 1971. Though Dr. Roach was born many years after her death, Velma Johnston, the Reno woman nicknamed “Wild Horse Annie” for galvanizing a nation to push for the protection of these beloved icons, would have been very proud to know her.  </p>
 
 <p>Roach grew up with a love of horses and was an avid youth competitor in hunter jumper shows along the west coast. She always planned to be a veterinarian, so after finishing undergraduate studies at the University of California, Davis, Roach moved to Colorado to complete her master’s degree in Assisted Reproductive Technologies. It was while living in Fort Collins that Roach met her future husband, Zach, and they soon relocated to his home state of Minnesota so that Annie could pursue her veterinary degree.  </p>
 

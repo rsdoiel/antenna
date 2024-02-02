@@ -1,11 +1,23 @@
 ---
 title: columns 2024.05
-updated: 2024-02-02 08:09:17
+updated: 2024-02-02 08:57:11
 ---
 
 # columns 2024.05
 
-(date: 2024-02-02 08:09:17)
+(date: 2024-02-02 08:57:11)
+
+---
+
+## Apple Q1 2024 Results
+
+date: 2024-02-02, updated: 2024-02-02, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.apple.com/newsroom/2024/02/apple-reports-first-quarter-results/">https://www.apple.com/newsroom/2024/02/apple-reports-first-quarter-results/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.apple.com/newsroom/2024/02/apple-reports-first-quarter-results/">Save to Pocket</a>
+</span>
 
 ---
 
