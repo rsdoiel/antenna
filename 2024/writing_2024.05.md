@@ -1,11 +1,125 @@
 ---
 title: writing 2024.05
-updated: 2024-02-02 08:57:11
+updated: 2024-02-02 17:13:16
 ---
 
 # writing 2024.05
 
-(date: 2024-02-02 08:57:11)
+(date: 2024-02-02 17:13:16)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-02, from: Neil Gaiman @ BlueSky)
+
+It definitely let us breathe more easily in the TV version, knowing that the audio drama would be absolutely faithful.
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkhnsmhi6s2e">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkhnsmhi6s2e</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkhnsmhi6s2e">Save to Pocket</a>
+</span>
+
+---
+
+## 5 Unconventional Things You Can Do to Inspire Your Writing
+
+date: 2024-02-02, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/5-unconventional-things-you-can-do-to-inspire-your-writing" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Hugo.jpg" alt="Hugo, 5 Unconventional Things You Can Do to Inspire Your Writing" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>The volume and frequency of screenplay work we are expected to complete before we’re considered “serious” writers is almost unfair. After all, the conventions often expected of a professional screenplay can leave us feeling like we’re dodging a minefield of unoriginality. But maybe the answer to writing an inventive script lies in seeking innovative sources of inspiration.&nbsp;&nbsp;</span></p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/5-unconventional-things-you-can-do-to-inspire-your-writing">https://blog.finaldraft.com/5-unconventional-things-you-can-do-to-inspire-your-writing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/5-unconventional-things-you-can-do-to-inspire-your-writing">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Branford Boase Award Longlist
+
+date: 2024-02-02, from: Locus Magazine
+
+<p>The longlist for the 2024 Branford Boase Award has been announced, and includes several titles of genre interest:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Gwen &#38; Art Are Not in Love</strong>, Lex Croucher (Bloomsbury)</li>
+<li><strong>How Far We’ve Come</strong>, Joyce Efia Harmer (Simon and Schuster)</li>
+<li><strong>Vivi Conway and the Sword of Legend</strong>, Lizzie Huxley-Jones (Knights Of)</li>
+<li><strong>The Kingdom Over the Sea</strong>, Zohra Nabi (Simon and Schuster)</li>
+<li><strong>City of Stolen Magic</strong>, Nazneen Ahmed </li></ul></div> <a href="https://locusmag.com/2024/02/2024-branford-boase-award-longlist/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/2024-branford-boase-award-longlist/">https://locusmag.com/2024/02/2024-branford-boase-award-longlist/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/2024-branford-boase-award-longlist/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-02, from: Neil Gaiman @ BlueSky)
+
+That's nice.
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkhhcpgkzc2u">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkhhcpgkzc2u</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkhhcpgkzc2u">Save to Pocket</a>
+</span>
+
+---
+
+## Simon & Schuster’s 100 Most Influential Titles
+
+date: 2024-02-02, from: Locus Magazine
+
+<p>Simon &#38; Schuster has compiled a list of the 100 most influential titles published during the company&#8217;s history, as part of its 100th anniversary celebrations. Several works of genre interest were listed, including:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><b>Fahrenheit 451</b>, Ray Bradbury (Simon &#38; Schuster)</li>
+<li><strong>City of Bones</strong>, Cassandra Clare (Margaret K. McElderry)</li>
+<li><strong>The Dark is Rising</strong>, Susan Cooper (Margaret K. McElderry)</li>
+<li><strong>The House of the Scorpion</strong>, Nancy Farmer (Atheneum Books </li></ul></div> <a href="https://locusmag.com/2024/02/simon-schusters-100-most-influential-titles/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/simon-schusters-100-most-influential-titles/">https://locusmag.com/2024/02/simon-schusters-100-most-influential-titles/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/simon-schusters-100-most-influential-titles/">Save to Pocket</a>
+</span>
+
+---
+
+## New Clarion West Scholarships
+
+date: 2024-02-02, from: Locus Magazine
+
+<p>Clarion West has announced two new scholarships for 2024 students.</p>
+<p>The Salam Award Scholarship, sponsored by The Salam Award, provides up to $1,000 for &#8220;a student of Pakistani origin, whether a Pakistani resident of any ethnicity, or a Pakistani-origin student anywhere in the world.&#8221;</p>
+<p>The Malik Sharif-Fehmida Anwar Scholarship, sponsored by Clarion West instructor Usman T. Malik and his parents, is an annual scholarship providing up to $2,500 to fund  <a href="https://locusmag.com/2024/02/new-clarion-west-scholarships/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/new-clarion-west-scholarships/">https://locusmag.com/2024/02/new-clarion-west-scholarships/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/new-clarion-west-scholarships/">Save to Pocket</a>
+</span>
+
+---
+
+## Howard Waldrop Fishing by Dave Myers
+
+date: 2024-02-02, from: Locus Magazine
+
+<p>When Howard taught at Clarion West, he’d tell students that they would only learn to write by writing, a lesson he also applied to fishing. We ended his first stint with two days of fly fishing on the nearby Cedar and Snoqualmie Rivers. Howard later wrote he had found Oz, prompting him in 1995 to move to the Oso General Store on the North Fork of the Stillaguamish, about an  <a href="https://locusmag.com/2024/02/howard-waldrop-fishing-by-dave-myers/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/howard-waldrop-fishing-by-dave-myers/">https://locusmag.com/2024/02/howard-waldrop-fishing-by-dave-myers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/howard-waldrop-fishing-by-dave-myers/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-02, from: Neil Gaiman @ BlueSky)
+
+Simpsons Neil. He's murderous.
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkh73yma422m">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkh73yma422m</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkh73yma422m">Save to Pocket</a>
+</span>
 
 ---
 

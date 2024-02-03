@@ -1,11 +1,131 @@
 ---
 title: games 2024.05
-updated: 2024-02-02 08:57:11
+updated: 2024-02-02 17:13:17
 ---
 
 # games 2024.05
 
-(date: 2024-02-02 08:57:11)
+(date: 2024-02-02 17:13:17)
+
+---
+
+## Wonka, The Beekeeper, and every new movie to watch at home this weekend
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/2/2/24050727/new-movies-watch-wonka-netflix-orion-and-the-dark-beekeeper">https://www.polygon.com/2024/2/2/24050727/new-movies-watch-wonka-netflix-orion-and-the-dark-beekeeper</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/2/2/24050727/new-movies-watch-wonka-netflix-orion-and-the-dark-beekeeper">Save to Pocket</a>
+</span>
+
+---
+
+## Elmo just had a very bad week
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24059460/elmo-larry-david-attack-why-explained-clip">https://www.polygon.com/24059460/elmo-larry-david-attack-why-explained-clip</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24059460/elmo-larry-david-attack-why-explained-clip">Save to Pocket</a>
+</span>
+
+---
+
+## There’s so much Batman in Suicide Squad: Kill the Justice League
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/24059710/suicide-squad-kill-justice-league-batman-kevin-conroy">https://www.polygon.com/gaming/24059710/suicide-squad-kill-justice-league-batman-kevin-conroy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/24059710/suicide-squad-kill-justice-league-batman-kevin-conroy">Save to Pocket</a>
+</span>
+
+---
+
+## Where to buy Pokémon Squishmallows
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop">https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/23584389/where-to-buy-pokemon-squishmallows-target-walmart-gamestop">Save to Pocket</a>
+</span>
+
+---
+
+## The 25 best movies on Netflix right now
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/21266801/best-movies-on-netflix">https://www.polygon.com/21266801/best-movies-on-netflix</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/21266801/best-movies-on-netflix">Save to Pocket</a>
+</span>
+
+---
+
+## Now this is how to sell a horror movie
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24055798/longlegs-horror-movie-trailer-teaser-release">https://www.polygon.com/24055798/longlegs-horror-movie-trailer-teaser-release</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24055798/longlegs-horror-movie-trailer-teaser-release">Save to Pocket</a>
+</span>
+
+---
+
+## Delicious in Dungeon’s delectable dishes, ranked
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24050648/delicious-in-dungeon-food-dishes-ranking-worst-to-best">https://www.polygon.com/24050648/delicious-in-dungeon-food-dishes-ranking-worst-to-best</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24050648/delicious-in-dungeon-food-dishes-ranking-worst-to-best">Save to Pocket</a>
+</span>
+
+---
+
+## Hazbin Hotel is pure chaos — and it mostly works
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24059468/hazbin-hotel-season-1-finale-review">https://www.polygon.com/24059468/hazbin-hotel-season-1-finale-review</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24059468/hazbin-hotel-season-1-finale-review">Save to Pocket</a>
+</span>
+
+---
+
+## The Last of Us season 2 is casting up
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/23634196/last-us-season-2-release-date-cast-news">https://www.polygon.com/23634196/last-us-season-2-release-date-cast-news</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/23634196/last-us-season-2-release-date-cast-news">Save to Pocket</a>
+</span>
+
+---
+
+## New Alan Wake 2 feature makes the game more accessible to non-horror fans
+
+date: 2024-02-02, updated: 2024-02-02, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24059328/alan-wake-2-patch-update-accessibility-horror">https://www.polygon.com/24059328/alan-wake-2-patch-update-accessibility-horror</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24059328/alan-wake-2-patch-update-accessibility-horror">Save to Pocket</a>
+</span>
 
 ---
 

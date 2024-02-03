@@ -1,11 +1,285 @@
 ---
 title: parks 2024.05
-updated: 2024-02-02 08:57:11
+updated: 2024-02-02 17:13:17
 ---
 
 # parks 2024.05
 
-(date: 2024-02-02 08:57:11)
+(date: 2024-02-02 17:13:17)
+
+---
+
+## Community Partnerships: Cerbat Ridge Runners leaving it better than they found it
+
+date: 2024-02-02, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Community Partnerships: Cerbat Ridge Runners leaving it better than they found it</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:11px">On February 1, the Cerbat Ridge Runners UTV/ATV Club of Kingman, conducted a desert clean-up of garbage scattered throughout BLM-administered lands at the base of the Hualapai Mountains east of Kingman (Hualapai Mountain Road, around mile marker 4.5).</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="8ea02eb4-22f8-4032-97a1-1bce61c8fc4c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/CRD_KFO_1Feb2024_CerbatRidgeRunners_Cleanup.jpeg?itok=Br7HYABO" width="640" height="480" alt="Members, volunteers and agency partners group photo opportunity as they start the clean-up. Approximately 20 people are standing or in the front row on a knee.  " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Cerbat Ridge Runners OHV/UTV group members and volunteers are joined by BLM, State, and County agency partners to help clean up garbage scattered across a section of the Hualapai Mountain Road, on BLM-administered public lands.</figcaption>
+</figure>
+
+
+<p>The effort involved over 20 members and volunteers who loaded up their off-road machines to remove 3,780 pounds of illegally dumped waste from public land. The garbage consisted of five tires and one refrigerator, in addition to target shooting and camping debris.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="64765586-3521-46d9-a6c4-ad4d0145651a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/CRD_KFO_1Feb2024_CerbatRidgeRiders_CleanUp_DesertHillsUTVs.jpeg?itok=kh3XOo5I" width="640" height="480" alt="Trucks and off-road vehicles are positioned to help volunteers on the desert hillsides. People are seen loading full trash bags into the backs of these vehicles. Others are on the landscape in the background picking up trash" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Hualapai Mountain Road clean-up volunteers from the Cerbat Ridge Runners load up their trucks and off-road vehicles with trashbags filled with garbage they have collected from the desert hills.</figcaption>
+</figure>
+
+
+<p>Representatives from the Bureau of Land Management Kingman Field Office, Mohave County ERACE (Environmental Rural Area Clean-up Enforcement), and Arizona Game and Fish Department also assisted in the clean-up effort.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="73608502-9609-4797-b860-e595f1230959" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/CRD_KFO_1Feb2024_CerbatRidgeRunners_CleanUp_TreesTrashBags.jpeg?itok=RY7QpUp7" width="640" height="480" alt="Volunteers with large black trash bags collecting trash from the ground underneath a grouping of trees," typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Volunteers collected target shooting and camping debris, in addition to illegally dumped tires and a refrigerator.</figcaption>
+</figure>
+
+
+<p>“Thanks to the Cerbat Ridge Runners and our partners, many wild animals, not just groundhogs, will be happy to emerge from their desert burrows this winter, “said Officer Carrie Wostal, BLM Law Enforcement Ranger, whose primary area of response are the BLM-administered lands in southern Mohave County including the Kingman area.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="0a82ca07-6d7a-4faf-86c2-02e9d6068cf8" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/CRD_KFO_1Feb2024_CerbatRidgeRunners_CleanUp_4WheelVolunteer.jpeg?itok=jrkZz36w" width="640" height="480" alt="Man on 4-wheeler hauling a small trailer filled with garbage on a dirt road." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>A volunteer happily removes a trailer load of garbage with his 4-wheeler.</figcaption>
+</figure>
+
+
+<p>We hope to see the Cerbat Ridge Runners again and again out on our public lands helping to leave the public lands they enjoy better than they found it. Their efforts are appreciated in all seasons.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="3af26502-5e46-40e8-acf6-e78653829b43" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/CRD_KFO_1Feb2024_CerbatRidgeRunners_CleanUp_DesertVolunteer.jpeg?itok=rKbnnnJJ" width="640" height="480" alt="Desert clean-up volunteer stands clutching a black garbage bag and trash grabbers . The tailgate of an Arizona Game and Fish vehicle is visible to the right in the background. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Volunteers braved the wind and cold to pick up garbage on the public lands they enjoy recreating on, and we thank them for their commitment.</figcaption>
+</figure>
+
+
+<p><em>Editor's Note: Thank you, Officer Carrie Wostal, for coordinating and participating in these events as part of your outreach efforts on the public lands you serve.</em></p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="c2de3e67-55df-4ec7-9770-8351f1dfa11a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/CRD_KFO_1Feb2024_CerbatRidgeriders_CleanUp_GroupFullDumpster.jpeg?itok=S05Tm95M" width="640" height="480" alt="Volunteers and agency partners stand in front of a large dumpster trailer collected 3,780 pounds of garbage.  " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Volunteers and agency partners collected 3,780 pounds  garbage at this event.</figcaption>
+</figure>
+
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/colorado-river-do" hreflang="en">Colorado River DO</a></div>
+          <div><a href="https://www.blm.gov/region/kingman-fo" hreflang="en">Kingman FO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/partnerships" hreflang="en">Partnerships</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-02-02T12:00:00Z">Fri, 02/02/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/kingman-field-office" hreflang="en">Kingman Field Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46696/edit" hreflang="en">AZ_CRD_KFO_1Feb2024_CerbatRidgeriders_CleanUp_GroupFullDumpster</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/partnerships" hreflang="en">Partnerships</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/arizona" hreflang="en">Arizona</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46696/edit" hreflang="en">AZ_CRD_KFO_1Feb2024_CerbatRidgeriders_CleanUp_GroupFullDumpster</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-02-02/community-partnerships-cerbat-ridge-runners-leaving-it-better-they-found-it">https://www.blm.gov/blog/2024-02-02/community-partnerships-cerbat-ridge-runners-leaving-it-better-they-found-it</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-02/community-partnerships-cerbat-ridge-runners-leaving-it-better-they-found-it">Save to Pocket</a>
+</span>
 
 ---
 

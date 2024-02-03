@@ -1,11 +1,440 @@
 ---
 title: tech likely 2024.05
-updated: 2024-02-02 08:57:11
+updated: 2024-02-02 17:13:16
 ---
 
 # tech likely 2024.05
 
-(date: 2024-02-02 08:57:11)
+(date: 2024-02-02 17:13:16)
+
+---
+
+## Google Search’s cache links are officially being retired
+
+date: 2024-02-02, from: OS News
+
+Google has removed links to page caches from its search results page, the company’s search liaison Danny Sullivan has confirmed. “It was meant for helping people access pages when way back, you often couldn’t depend on a page loading,” Sullivan wrote on X. “These days, things have greatly improved. So, it was decided to retire it.” ↫ Jon Porter at The Verge Google Search continues to become ever more useless.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138506/google-searchs-cache-links-are-officially-being-retired/">https://www.osnews.com/story/138506/google-searchs-cache-links-are-officially-being-retired/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138506/google-searchs-cache-links-are-officially-being-retired/">Save to Pocket</a>
+</span>
+
+---
+
+## The Iconic Photos from STS-41B: Documenting the First Untethered Spacewalk
+
+date: 2024-02-02, from: NASA breaking news
+
+As astronaut Bruce McCandless II flew the Manned Maneuvering Unit (MMU) out of the space shuttle Challenger’s payload bay for the first time on February 7, 1984, many in the agency were fearful about the use of a self-propelled and untethered backpack in space. &#160;(Previous spacewalkers remained connected to the vehicle with tethers. This jet-pack [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/history/photos-from-sts-41b/">https://www.nasa.gov/history/photos-from-sts-41b/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/history/photos-from-sts-41b/">Save to Pocket</a>
+</span>
+
+---
+
+## This Week in the IndieWeb
+
+date: 2024-02-02, from: This week in Indie Web
+
+
+
+<h1><a href="https://indieweb.org/this-week/2024-02-02.html">January 26 through February 2, 2024</a></h1>
+<h2 id="recent-events">Recent Events</h2><p>From <a href="https://events.indieweb.org/archive">events.indieweb.org/archive</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/01/homebrew-website-club-pacific-l8jJrVJmiF7q" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-01-31T18:00:00+00:00">Wednesday, January 31 at 6:00pm</time><br>
+<div><img src="https://indieweb.org/this-week/images/2024-02-02/1704832f6646e84986c31bf38a5b460cde2b4292.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/01/homebrew-website-club-europe-london-JsNKFpjtn6yT" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-01-31T19:00:00+00:00">Wednesday, January 31 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary">
+        <p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, coder, or all the above.</p>
+    </div><div><img src="https://indieweb.org/this-week/images/2024-02-02/faf711bfafde03aeb35fcfa70bb5c8c199e580fc.jpg" style="width:100%" class="u-photo"></div></div>
+<h2 id="upcoming-events">Upcoming Events</h2><p>From <a href="https://events.indieweb.org/">events.indieweb.org</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-europe-london-5hk1pyUBj5gc" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-02-07T19:00:00+00:00">Wednesday, February 7 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary">
+        <p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, coder, or all the above.</p>
+    </div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-nuremberg-germany-9vu7ryM1YtYw" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-02-14T18:00:00+01:00">Wednesday, February 14 at 6:00pm</time><br>
+<ul><li>FÜRTH, Bayern: Fab Lab Region Nürnberg e.V.</li></ul><div style="font-style: italic" class="e-summary">
+        <p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p>
+    </div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-europe-london-pR7bmltWiZ4j" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-02-14T19:00:00+00:00">Wednesday, February 14 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary">
+        <p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, coder, or all the above.</p>
+    </div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-pacific-8XN2AGgxMoXH" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-02-14T18:00:00-08:00">Wednesday, February 14 at 6:00pm</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-europe-london-hFrKVoneAzZs" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-02-21T19:00:00+00:00">Wednesday, February 21 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary">
+        <p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, coder, or all the above.</p>
+    </div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-europe-london-aWOhRaPRevto" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-02-28T19:00:00+00:00">Wednesday, February 28 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary">
+        <p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, coder, or all the above.</p>
+    </div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-pacific-gT9WhdtBhsjs" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-02-28T18:00:00-08:00">Wednesday, February 28 at 6:00pm</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/03/indiewebcamp-brighton-2024-xRTP2hAZOvZd" class="u-url">IndieWebCamp Brighton 2024</a></div>
+<time class="dt-start" datetime="2024-03-09T00:00:00+00:00">March 9</time> - <time class="dt-end" datetime="2024-03-10T00:00:00+00:00">March 10</time><br>
+<ul><li>BRIGHTON AND HOVE, England: The Skiff</li></ul><div style="font-style: italic" class="e-summary">
+        <p>IndieWebCamp Brighton 2024 will be the seventh IndieWebCamp to held in Brighton, England.</p>
+    </div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/03/homebrew-website-club-nuremberg-germany-Xsw0bLzEmTc5" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-03-13T18:00:00+01:00">Wednesday, March 13 at 6:00pm</time><br>
+<ul><li>FÜRTH, Bayern: Fab Lab Region Nürnberg e.V.</li></ul><div style="font-style: italic" class="e-summary">
+        <p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p>
+    </div></div>
+<h2 id="podcasts">What We’re Listening To</h2><p>From <a href="https://huffduffer.com/tags/indieweb">huffduffer.com/tags/indieweb</a>:</p><div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://huffduffer.com/kevinmarks/686463" class="u-url p-name">Decentered S1E3: Ryan Barrett Has a Bridge to Sell Us (1)</a></div></div>
+<h2 id="news">What We’re Reading</h2><p>From <a href="https://news.indieweb.org/en">news.indieweb.org</a>:</p><div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://wedistribute.org/podcast/bridgyfed-ryan-barrett/" class="u-url p-name">Bookmarked Decentered S1E3: Ryan Barrett Has a Bridge to Sell Us</a></div><div>by <a href="https://wedistribute.org" class="p-author h-card">wedistribute.org</a> on <a href="https://wedistribute.org/podcast/bridgyfed-ryan-barrett/"><time class="dt-published" datetime="2024-01-31T23:04:11+00:00">January 31</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://bacardi55.io/2024/01/29/indieweb-adventure-first-steps/" class="u-url p-name">IndieWeb adventure: First steps</a></div><div>by <a href="https://bacardi55.io/" class="p-author h-card">bacardi55.io</a> on <a href="https://bacardi55.io/2024/01/29/indieweb-adventure-first-steps/"><time class="dt-published" datetime="2024-01-29T21:23:19+00:00">January 29</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://werd.io/2024/the-indieweb-is-for-everyone" class="u-url p-name">The indieweb is for everyone</a></div><div>by <a href="https://werd.io/profile/benwerd" class="p-author h-card">werd.io/profile/benwerd</a> on <a href="https://werd.io/2024/the-indieweb-is-for-everyone"><time class="dt-published" datetime="2024-01-27T14:53:10+00:00">January 27</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://minutestomidnight.co.uk/blog/leaving-soundcloud/" class="u-url p-name">Leaving Soundcloud</a></div><div>by <a href="https://minutestomidnight.co.uk" class="p-author h-card">minutestomidnight.co.uk</a> on <a href="https://minutestomidnight.co.uk/blog/leaving-soundcloud/"><time class="dt-published" datetime="2024-01-27T14:44:18+00:00">January 27</time></a></div></div>
+
+<h2 id="new-community-members">New Community Members</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=2">IndieWeb Wiki: New User Pages</a>:</p>
+<h3><a href="https://indieweb.org/User%3AFloppy.org.uk">User:Floppy.org.uk</a></h3><p>James Smith
+(photo)Pronouns: he/him Generic humanoid carbon unit. ❤️ tech, democracy, environment, society. https://floppy.org.uk
+ Chat Nickname: Floppy  Elsewhere: https://mastodon.me.uk/@Floppy</p><p style="font-size:0.8em;">Created by Floppy.org.uk on Friday and edited 2 more times</p>
+<h3><a href="https://indieweb.org/User%3AShkspr.mobi_blog">User:Shkspr.mobi blog</a></h3><p style="font-size:0.8em;">Created by Shkspr.mobi blog on Friday and edited 1 more time</p>
+<h3><a href="https://indieweb.org/User%3AWww.ezrasf.com_wplog_author_ez">User:Www.ezrasf.com wplog author ez</a></h3><p>Ezra Freelove
+(photo)Pronouns: he/him/his Ezra Freelove is a solutions architect for the University System of Georgia https://ezrasf.com/wplog
+ Elsewhere: More in-depth places to find me at my about me  Contact: sneezypb[at]gmail[dot]com</p><p style="font-size:0.8em;">Created by Www.ezrasf.com wplog author ez on Wednesday and edited 1 more time</p>
+<h2 id="new-wiki-pages">Top New Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+<h3><a href="https://indieweb.org/indieweb-carnival/feed">indieweb-carnival/feed</a></h3><p style="font-size:0.8em;">Created by Sarajaksa.eu on Thursday</p>
+<h2 id="new-event-notes">New Event Notes</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+
+<p><b>Homebrew Website Club Europe/London:</b> <a href="https://indieweb.org/events/2024-01-31-hwc-europe">2024-01-31</a></p>
+<p><b>Homebrew Website Club - Pacific:</b> <a href="https://indieweb.org/events/2024-01-31-hwc-pacific">2024-01-31</a></p>
+
+<h2 id="changed-wiki-pages">Top Edited Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?namespace=0&title=Special%3ARecentChanges">IndieWeb Wiki: Recent Changes</a>:</p>
+<ul>
+<li><b><a href="https://indieweb.org/indieweb-carnival">indieweb-carnival</a></b> <a href="https://indieweb.org/wiki/index.php?title=indieweb-carnival&amp;action=historysubmit&amp;diff=92805&amp;oldid=92664">18 edits</a> by tangiblelife.net about, foreverliketh.is, manuelmoreale.com, jamesg.blog, sarajaksa.eu and vhbelvadi.com</li>
+<li><b><a href="https://indieweb.org/2024/Brighton">2024/Brighton</a></b> <a href="https://indieweb.org/wiki/index.php?title=2024%2FBrighton&amp;action=historysubmit&amp;diff=92836&amp;oldid=92602">15 edits</a> by paulrobertlloyd.com, tantek.com, fran.fi, shkspr.mobi blog, floppy.org.uk and ohhelloana.blog</li>
+<li><b><a href="https://indieweb.org/dark_mode">dark mode</a></b> <a href="https://indieweb.org/wiki/index.php?title=dark+mode&amp;action=historysubmit&amp;diff=92839&amp;oldid=86849">9 edits</a> by david.shanske.com, tantek.com, www.ciccarello.me, snarfed.org, kvibber.com and campegg.com</li>
+<li><b><a href="https://indieweb.org/longevity">longevity</a></b> <a href="https://indieweb.org/wiki/index.php?title=longevity&amp;action=historysubmit&amp;diff=92861&amp;oldid=91821">8 edits</a> by loqi.me, gregorlove.com and www.ciccarello.me</li>
+<li><b><a href="https://indieweb.org/wikifying">wikifying</a></b> <a href="https://indieweb.org/wiki/index.php?title=wikifying&amp;action=historysubmit&amp;diff=92851&amp;oldid=91871">4 edits</a> by vhbelvadi.com, tantek.com and gregorlove.com</li>
+<li><b><a href="https://indieweb.org/granary">granary</a></b> <a href="https://indieweb.org/wiki/index.php?title=granary&amp;action=historysubmit&amp;diff=92807&amp;oldid=62994">4 edits</a> by tantek.com and gregorlove.com</li>
+<li><b><a href="https://indieweb.org/to-do">to-do</a></b> <a href="https://indieweb.org/wiki/index.php?title=to-do&amp;action=historysubmit&amp;diff=92850&amp;oldid=92693">3 edits</a> by loqi.me and gregorlove.com</li>
+<li><b><a href="https://indieweb.org/WordPress_ActivityPub_plugin">WordPress ActivityPub plugin</a></b> <a href="https://indieweb.org/wiki/index.php?title=WordPress+ActivityPub+plugin&amp;action=historysubmit&amp;diff=92716&amp;oldid=91697">3 edits</a> by islandinthenet.com</li>
+<li><b><a href="https://indieweb.org/remote_participation">remote participation</a></b> <a href="https://indieweb.org/wiki/index.php?title=remote+participation&amp;action=historysubmit&amp;diff=92847&amp;oldid=80969">2 edits</a> by david.shanske.com</li>
+<li><b><a href="https://indieweb.org/OPP">OPP</a></b> <a href="https://indieweb.org/wiki/index.php?title=OPP&amp;action=historysubmit&amp;diff=92743&amp;oldid=89951">2 edits</a> by tantek.com</li></ul>
+
+
+
+<span class="feed-item-link">
+<a href="https://indieweb.org/this-week/2024-02-02.html">https://indieweb.org/this-week/2024-02-02.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://indieweb.org/this-week/2024-02-02.html">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-02, from: Dave Winer's Scripting News)
+
+I wrote a <a href="https://imgs.scripting.com/2024/02/02/frontierScriptToSortOutFolders.png">script in Frontier</a> to sort the folders by how many files they contain. I shudder to think how long it would take to write in JavaScript with all its synchronous difficulties.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/02.html#a222527">http://scripting.com/2024/02/02.html#a222527</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/02.html#a222527">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-02, from: Dave Winer's Scripting News)
+
+If I were running Bluesky -- I'd think about incentives for people with the kind of following they want to cultivate to do most or all of their social media'ing there. Some people are already doing it or so it seems, <a href="https://bsky.app/profile/neilhimself.neilgaiman.com">Neil Gaiman</a>, <a href="https://bsky.app/profile/andrewhickey.bsky.social">Andrew Hickey</a>, and I'm sure there are lots of others.
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/02.html#a222210">http://scripting.com/2024/02/02.html#a222210</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/02.html#a222210">Save to Pocket</a>
+</span>
+
+---
+
+##  Completely jealous of these butter tshirts&#8230;really wish I&#8217;d thought of that.... 
+
+date: 2024-02-02, updated: 2024-02-02, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043913-completely-jealous-of-the">https://kottke.org/24/02/0043913-completely-jealous-of-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043913-completely-jealous-of-the">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-02, from: Miguel de Icaza Mastondon feed)
+
+<p>Godot on VisionPro.</p><p>I really thought it would take longer:</p><p><a href="https://mastodon.social/@Migueldeicaza/111864029923357608" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@Migueldeicaza</span><span class="invisible">/111864029923357608</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111864154948789439">https://mastodon.social/@Migueldeicaza/111864154948789439</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111864154948789439">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-02, from: Miguel de Icaza Mastondon feed)
+
+<p>Defend Cow Castle is a SwiftGodotKit application for VisionOS that renders volumes into the shared space. </p><p>Like Unity&#39;s Polyspatial, but for Godot, now available on the AppStore:</p><p>Congratulations to Therese 3D Studio for the launch!</p><p><a href="https://apps.apple.com/us/app/defend-cow-castle/id6476968953" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">apps.apple.com/us/app/defend-c</span><span class="invisible">ow-castle/id6476968953</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111864029923357608">https://mastodon.social/@Migueldeicaza/111864029923357608</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111864029923357608">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-02, from: Dave Winer's Scripting News)
+
+Here's what the snag was. We were low on storage starting at the beginning and eventually we ran out of space, and the error messages we got indicated the problem was something else. All the searching we did, none of the hits, or ChatGPT suggested looking at memory usage. Quite independently after thrashing around trying various theories, we finally got a message from the Digital Ocean service saying the server was out of space. When I doubled the space, that gave it enough room to do the tasks we had for it. Now running the last query. Looks like we may be over the hump. Let's just pray the software runs when we turn the server back on. <span class="spOldSchoolEmoji">💥</span>
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/02.html#a211654">http://scripting.com/2024/02/02.html#a211654</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/02.html#a211654">Save to Pocket</a>
+</span>
+
+---
+
+## Meet the Creators, Part 3: NASA’s 2024 Total Solar Eclipse Posters
+
+date: 2024-02-02, from: NASA breaking news
+
+A total solar eclipse is a captivating experience – evoking feelings of awe and wonder that are sometimes best expressed through art. Inspired by the upcoming total solar eclipse of April 8, 2024, artists Tyler Nordgren and Kristen Perrin have designed two posters for NASA that present the magic of the eclipse in unique ways. […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/solar-system/skywatching/meet-the-creators-part-3-nasas-2024-total-solar-eclipse-posters/">https://science.nasa.gov/solar-system/skywatching/meet-the-creators-part-3-nasas-2024-total-solar-eclipse-posters/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/solar-system/skywatching/meet-the-creators-part-3-nasas-2024-total-solar-eclipse-posters/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-02, from: Miguel de Icaza Mastondon feed)
+
+<p>Part 4 of my series on Godot for iPad is out: Godot with SwiftUI</p><p><a href="https://blog.la-terminal.net/godot-with-swiftui/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/godot-wit</span><span class="invisible">h-swiftui/</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111863952221779260">https://mastodon.social/@Migueldeicaza/111863952221779260</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111863952221779260">Save to Pocket</a>
+</span>
+
+---
+
+## Launch Day Apple Vision Pro Apps
+
+date: 2024-02-02, from: Michael Tsai
+
+Apple (Slashdot): More than 600 apps and games designed to take advantage of the unique and powerful capabilities of Apple Vision Pro will be available this Friday, February 2. [&#8230;] Apps built specifically for visionOS, like Box, make it easy to collaborate and securely manage files and content, including 3D objects, while the MindNode app [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/02/launch-day-apple-vision-pro-apps/">https://mjtsai.com/blog/2024/02/02/launch-day-apple-vision-pro-apps/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/02/launch-day-apple-vision-pro-apps/">Save to Pocket</a>
+</span>
+
+---
+
+## Google Removes Cache Link From Search Results
+
+date: 2024-02-02, from: Michael Tsai
+
+Barry Schwartz (via Hacker News): Now when you click the three dots for more information for a search result snippet, the cache button is missing. [&#8230;] So how do you access the cache? Just Google cache:domain.com. You can also set up a bookmarklet: javascript:location.href='http://webcache.googleusercontent.com/search?q=cache:'+document.location.href; Jon Porter: Danny Sullivan has confirmed. &#8220;It was meant for helping [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/02/google-removes-cache-link-from-search-results/">https://mjtsai.com/blog/2024/02/02/google-removes-cache-link-from-search-results/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/02/google-removes-cache-link-from-search-results/">Save to Pocket</a>
+</span>
+
+---
+
+## Tapestry Kickstarter
+
+date: 2024-02-02, from: Michael Tsai
+
+The Iconfactory: With Project Tapestry, we&#8217;ll create a universal, chronological timeline for iOS for any data that&#8217;s publicly available on the Internet. A service-independent overview of your social media and information landscape. Point the app toward your services and feeds, then scroll through everything all in one place to keep up-to-date and to see where [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/02/tapestry-kickstarter/">https://mjtsai.com/blog/2024/02/02/tapestry-kickstarter/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/02/tapestry-kickstarter/">Save to Pocket</a>
+</span>
+
+---
+
+## Apple’s Q1 2024 Results
+
+date: 2024-02-02, from: Michael Tsai
+
+Apple (transcript, Hacker News, MacRumors): The Company posted quarterly revenue of $119.6 billion, up 2 percent year over year, and quarterly earnings per diluted share of $2.18, up 16 percent year over year. &#8220;Today Apple is reporting revenue growth for the December quarter fueled by iPhone sales, and an all-time revenue record in Services,&#8221; said [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/02/apples-q1-2024-results/">https://mjtsai.com/blog/2024/02/02/apples-q1-2024-results/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/02/apples-q1-2024-results/">Save to Pocket</a>
+</span>
+
+---
+
+##  Mars in 4K 
+
+date: 2024-02-02, updated: 2024-02-02, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/mars-in-4k">https://kottke.org/24/02/mars-in-4k</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/mars-in-4k">Save to Pocket</a>
+</span>
+
+---
+
+## Cats are people too!
+
+date: 2024-02-02, from: Dave Winer's Scripting News
+
+<p>"Cats are on the march in NYC, on 8th Ave between 57th and 45th streets. Thousands of cats carrying signs and handing out leaflets saying 'Cats are people too!' and 'Up with Cats!' -- they are angry but there's a sense of celebration in the march, that finally the time has come for cats."</p>
+<p>The first version had one of the themes as "Down with Dogs!" but ChatGPT rejected that as not being nice enough. So I changed it to "Up with Cats!" Please keep that in mind.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/02/02/catsRUs.png"></center>Cats are marching on 8th Ave</div></p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/02/204750.html?title=catsArePeopleToo">http://scripting.com/2024/02/02/204750.html?title=catsArePeopleToo</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/02/204750.html?title=catsArePeopleToo">Save to Pocket</a>
+</span>
+
+---
+
+## California, Massachusetts Students to Hear from NASA, ESA Astronauts
+
+date: 2024-02-02, from: NASA breaking news
+
+Students from California and Massachusetts will have separate opportunities next week to hear from NASA astronauts aboard the International Space Station. The two Earth-to-space calls will air live Monday, Feb. 5, and Friday, Feb. 9, on&#160;NASA+ and agency’s website. Learn how to&#160;stream NASA TV&#160;through a variety of platforms including social media. At 12:15 p.m. EST [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/california-massachusetts-students-to-hear-from-nasa-esa-astronauts/">https://www.nasa.gov/news-release/california-massachusetts-students-to-hear-from-nasa-esa-astronauts/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/california-massachusetts-students-to-hear-from-nasa-esa-astronauts/">Save to Pocket</a>
+</span>
+
+---
+
+##  How to eat now: 16 rules of modern dining. A panel of... 
+
+date: 2024-02-02, updated: 2024-02-02, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043908-how-to-eat-now-16">https://kottke.org/24/02/0043908-how-to-eat-now-16</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043908-how-to-eat-now-16">Save to Pocket</a>
+</span>
+
+---
+
+##  Gastro Obscura&#8217;s list of 50 Places to Eat and Drink Before You... 
+
+date: 2024-02-02, updated: 2024-02-02, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043906-gastro-obscuras-list-of-5">https://kottke.org/24/02/0043906-gastro-obscuras-list-of-5</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043906-gastro-obscuras-list-of-5">Save to Pocket</a>
+</span>
+
+---
+
+## PiDog a New Member of the Pack
+
+date: 2024-02-02, from: Stephen Smith's blog
+
+Introduction I recently received a SunFounder PiDog robot dog kit. I reviewed the SunFounder PiCar here along with software projects here and here. There are a lot of similarities between the PiCar and the PiDog as they are both controlled by a Raspberry Pi and both share the same robot hat to control the mechanisms, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://smist08.wordpress.com/2024/02/02/pidog-a-new-member-of-the-pack/">https://smist08.wordpress.com/2024/02/02/pidog-a-new-member-of-the-pack/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://smist08.wordpress.com/2024/02/02/pidog-a-new-member-of-the-pack/">Save to Pocket</a>
+</span>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2024-02-02, from: Robert's feed at BlueSky)
+
+If you need to compile pgloader on a Mac Mini running macOS Sonoma 14.3 without homebrew installed here's a blog post covering how to get SBCL up via ECL to compile it https://rsdoiel.github.io/blog/2024/02/01/installing-pgloader-from-source.html
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3kkhcuitne22e">https://bsky.app/profile/rsdoiel.bsky.social/post/3kkhcuitne22e</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/rsdoiel.bsky.social/post/3kkhcuitne22e">Save to Pocket</a>
+</span>
+
+---
+
+##  Ayo Edebiri Draws a New Yorker Cartoon 
+
+date: 2024-02-02, updated: 2024-02-02, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/ayo-edebiri-draws-a-new-yorker-cartoon">https://kottke.org/24/02/ayo-edebiri-draws-a-new-yorker-cartoon</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/ayo-edebiri-draws-a-new-yorker-cartoon">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Sets Coverage for Axiom Mission 3 Departure from Space Station
+
+date: 2024-02-02, from: NASA breaking news
+
+NASA will provide live coverage of the undocking and departure of the Axiom Mission 3 (Ax-3) private astronaut flight from the International Space Station before the crew returns to Earth.&#160; The four-member astronaut crew is scheduled to undock no earlier than 6:05 a.m. EST Saturday, Feb. 3, from the space-facing port of the station’s Harmony [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-3-departure-from-space-station/">https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-3-departure-from-space-station/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-sets-coverage-for-axiom-mission-3-departure-from-space-station/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Invites Public to Share in Excitement of PACE Mission Launch
+
+date: 2024-02-02, from: NASA breaking news
+
+NASA is hosting virtual activities ahead of the launch of the PACE (Plankton, Aerosol, Cloud, ocean Ecosystem) mission and invites you to share in the fun. The PACE mission will help us better understand how the ocean and atmosphere exchange carbon dioxide, measure key atmospheric variables associated with air quality and Earth&#8217;s climate, and monitor [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-share-in-excitement-of-pace-mission-launch/">https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-share-in-excitement-of-pace-mission-launch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-public-to-share-in-excitement-of-pace-mission-launch/">Save to Pocket</a>
+</span>
+
+---
+
+##  Internet legend holds that the biggest possible PDF is roughly half the... 
+
+date: 2024-02-02, updated: 2024-02-02, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043909-internet-legend-holds-tha">https://kottke.org/24/02/0043909-internet-legend-holds-tha</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043909-internet-legend-holds-tha">Save to Pocket</a>
+</span>
+
+---
+
+## FOSDEM 2024
+
+date: 2024-02-02, from: Tilde.news
+
+<p><a href="https://tilde.news/s/fymodc/fosdem_2024">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://fosdem.org/2024/schedule/">https://fosdem.org/2024/schedule/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fosdem.org/2024/schedule/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -27,6 +456,18 @@ This was a interesting piece supporting the notion that just building content in
 
 <span class="feed-item-link">
 <a href="https://bsky.app/profile/rsdoiel.bsky.social/post/3kkh5ht5tis2m">https://bsky.app/profile/rsdoiel.bsky.social/post/3kkh5ht5tis2m</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/rsdoiel.bsky.social/post/3kkh5ht5tis2m">Save to Pocket</a>
+</span>
+
+---
+
+## UNITE All-Nighter Delights Amateur Astronomers
+
+date: 2024-02-02, from: NASA breaking news
+
+Maybe you read about them in the papers–amateur astronomers in Japan, Russia, France, Finland, and the United States have been pulling all-nighters to spot extraordinary exoplanets, planets orbiting stars other than the Sun.  NASA’s UNITE project holds these planetary stakeouts several times every month, and you can join in! This October, the UNITE team undertook a […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/get-involved/citizen-science/unite-all-nighter-delights-amateur-astronomers/">https://science.nasa.gov/get-involved/citizen-science/unite-all-nighter-delights-amateur-astronomers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/get-involved/citizen-science/unite-all-nighter-delights-amateur-astronomers/">Save to Pocket</a>
 </span>
 
 ---
@@ -129,7 +570,7 @@ Say cheese, Moon. We’re coming in for a close-up. As Intuitive Machines’ Nov
 
 ---
 
-##  A study about online identify (using HuffPo comments) found that people using... 
+##  A study about online identity (using HuffPo comments) found that people using... 
 
 date: 2024-02-02, updated: 2024-02-02, from: Jason Kottke blog
 
@@ -185,6 +626,18 @@ date: 2024-02-02, updated: 2024-02-02, from: Jason Kottke blog
 
 <span class="feed-item-link">
 <a href="https://kottke.org/24/02/0043903-maybe-they-found-amelia-e">https://kottke.org/24/02/0043903-maybe-they-found-amelia-e</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043903-maybe-they-found-amelia-e">Save to Pocket</a>
+</span>
+
+---
+
+## Deno in 2023
+
+date: 2024-02-02, updated: 2024-02-02, from: Deno blog
+
+2023 marked a significant step towards our vision of radically simplifying web development. Here are the biggest updates and what’s coming up next.
+
+<span class="feed-item-link">
+<a href="https://deno.com/blog/deno-in-2023">https://deno.com/blog/deno-in-2023</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://deno.com/blog/deno-in-2023">Save to Pocket</a>
 </span>
 
 ---
@@ -553,7 +1006,7 @@ date: 2024-02-01, from: Dave Winer's Scripting News
 <li>On the Harvard campus.</li>
 <li>That said, antisemitism is everywhere, even inside me, a man whose grandparents were Jews who fled for their lives with their children from the Holocaust before and during WWII. I am a product of that, in ways I didn't even realize until my parents were gone. It's everywhere, all around, inside myself, inside everyone, and the best we can hope for imho is that it will stay hidden. </li>
 <li>Ask me about what happened in the NBA with <a href="https://www.google.com/search?q=site%3Ascripting.com+kyrie">Kyrie Irving</a>, and how, by their silence, the players and coaches showed how huge and deep the problem is.</li>
-<li>To see the Repubs monetize this for political gain is par for the course. To see Harvard buckle under that, is as weak and the people who made that decision imho should resign in disgrace. </li>
+<li>To see the Repubs monetize this for political gain is par for the course. To see Harvard buckle under that, is weak and the people who made that decision imho should resign in disgrace. </li>
 <li>Thanks for your continued and unique excellence. </li>
 <li>Dave</li>
 </ul>
@@ -893,6 +1346,18 @@ By Savannah Bullard NASA has selected Alabama A&#38;M University’s Agribition 
 
 ---
 
+## Advent of Computing: Episode 125 - US v IBM
+
+date: 2024-02-01, from: Tilde.news
+
+<p><a href="https://tilde.news/s/rmqa9a/advent_computing_episode_125_us_v_ibm">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://adventofcomputing.libsyn.com/episode-125-us-v-ibm">https://adventofcomputing.libsyn.com/episode-125-us-v-ibm</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-125-us-v-ibm">Save to Pocket</a>
+</span>
+
+---
+
 ## Community Webs Receives $750,000 Grant to Expand Community Archiving by Public Libraries
 
 date: 2024-02-01, from: Internet Archive Blog
@@ -972,18 +1437,6 @@ Jennifer Kunz, associate director technical of NASA’s Kennedy Space Center in 
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/news-release/statement-from-nasas-jennifer-kunz-at-spacecom-50th-space-congress/">https://www.nasa.gov/news-release/statement-from-nasas-jennifer-kunz-at-spacecom-50th-space-congress/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/statement-from-nasas-jennifer-kunz-at-spacecom-50th-space-congress/">Save to Pocket</a>
-</span>
-
----
-
-## Episode 125 - US v IBM
-
-date: 2024-02-01, from: Advent of Computing
-
-<div class="" data-block="true" data-editor="dq5o3" data-offset-key="4udsf-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="4udsf-0-0"><span data-offset-key= "4udsf-0-0"><span data-text="true">My coverage of the IBM System/360 continues! In this episode we look at US v IBM, and the fallout that surrounded the release of the System/360. By 1969 IBM already had a history of antitrust litigation. What was IBM doing to upset the Department of Justice, and how does it tie in to the larger story of clone computers?</span></span></div> </div> <div class="" data-block="true" data-editor="dq5o3" data-offset-key="8hmfs-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8hmfs-0-0"><span data-offset-key= "8hmfs-0-0"> </span></div> </div> <div class="" data-block="true" data-editor="dq5o3" data-offset-key="diqk9-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="diqk9-0-0"><span data-offset-key= "diqk9-0-0"><span data-text="true">Selected Sources:</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="diqk9-0-0"> </div> </div> <div class="" data-block="true" data-editor="dq5o3" data-offset-key="8a7ef-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8a7ef-0-0"><a class="sc-afquy-0 kpuBjA" href= "http://www.cptech.org/at/ibm/ibm1956cd.html"><span data-offset-key="8a7ef-0-0"> <span data-text= "true">http://www.cptech.org/at/ibm/ibm1956cd.html</span></span></a> <span data-offset-key="8a7ef-1-0"><span data-text="true">- 1956 Consent Decree</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8a7ef-0-0"> </div> </div> <div class="" data-block="true" data-editor="dq5o3" data-offset-key="8099d-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8099d-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://supreme.justia.com/cases/federal/us/298/131/"><span data-offset-key="8099d-0-0"> <span data-text= "true">https://supreme.justia.com/cases/federal/us/298/131/</span></span></a> <span data-offset-key="8099d-1-0"><span data-text="true">- 1936 Consent Decree</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="8099d-0-0"> </div> </div> <div class="" data-block="true" data-editor="dq5o3" data-offset-key="dnurj-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="dnurj-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.org/details/foldedspindledmu00fish/page/n5/mode/2up"> <span data-offset-key="dnurj-0-0"><span data-text= "true">https://archive.org/details/foldedspindledmu00fish/page/n5/mode/2up</span></span></a> <span data-offset-key="dnurj-1-0"><span data-text="true">- Folded, Spindled, and Mutilated</span></span></div> </div>
-
-<span class="feed-item-link">
-<a href="https://adventofcomputing.libsyn.com/episode-125-us-v-ibm">https://adventofcomputing.libsyn.com/episode-125-us-v-ibm</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-125-us-v-ibm">Save to Pocket</a>
 </span>
 
 ---
@@ -1648,6 +2101,13 @@ date: 2024-01-31, from: Manu - I write blog
 </li>
 </ul>
 <p>Those are three ways you can interpret the topic but don’t feel limited to just those three. Go nuts and be creative. This site doesn’t have pingbacks or webmentions so if you plan to participate send me a link to your entry via email. I’m going to accept everything that’s sent to me before March 1st and I plan to write at least one roundup post with your links. Look forward to read your entries and don’t forget to spread the word about the IndieWeb Carnival and if you want to get involved you can still become a host yourself. Just claim your spot here <a href="https://indieweb.org/indieweb-carnival">indieweb.org/indieweb-carnival</a></p>
+<hr />
+<h2>Submissions</h2>
+<ul>
+<li>Bix Frankonis - <em>"<a href="https://bix.blog/2024/02/01/on-digital-relationships-once-upon-a-time-i-was-a-voxer/">On Digital Relationships: Once Upon A Time, I Was A Voxer</a>"</em></li>
+<li>Venkatram Harish Belvadi - <em>"<a href="https://vhbelvadi.com/digital-relationships">Digital relationships</a>"</em></li>
+<li>James - <em>"<a href="https://jsrn.net/2024/02/02/digital-relationships-i-miss-my-gaming-buddies.html">On digital relationships: I miss my gaming buddies</a>"</em></li>
+</ul>
 
 <span class="feed-item-link">
 <a href="https://manuelmoreale.com/@/page/jYflUjYwzJ8Z4hJE">https://manuelmoreale.com/@/page/jYflUjYwzJ8Z4hJE</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/jYflUjYwzJ8Z4hJE">Save to Pocket</a>

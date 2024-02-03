@@ -1,11 +1,83 @@
 ---
 title: motorcycles 2024.05
-updated: 2024-02-02 08:57:11
+updated: 2024-02-02 17:13:17
 ---
 
 # motorcycles 2024.05
 
-(date: 2024-02-02 08:57:11)
+(date: 2024-02-02 17:13:17)
+
+---
+
+## Dylan Duval Kickin’ it Virtually with Nitro Circus
+
+date: 2024-02-02, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor Racing for a motorsports icon is a dream for any racer, real-life or virtual. For Dylan Duval, he’s moved from competing for motorsports icon Tony&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/esports/duval-kickin-virtually-nitro-circus/">https://kickinthetires.net/esports/duval-kickin-virtually-nitro-circus/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/esports/duval-kickin-virtually-nitro-circus/">Save to Pocket</a>
+</span>
+
+---
+
+## BMW Motorrad USA and the Barber Vintage Festival Partner to Donate All Kids Bike Bicycles to Leeds Primary School in Alabama
+
+date: 2024-02-02, from: Cycle World News
+
+BMW Motorrad USA, in partnership with the Barber Vintage Festival, the premier vintage motorcycle fan gathering in the U.S.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/bmw-and-barber-vintage-festival-partner-donate-all-kids-bike-bicycles/">https://www.cycleworld.com/the-wire/bmw-and-barber-vintage-festival-partner-donate-all-kids-bike-bicycles/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/bmw-and-barber-vintage-festival-partner-donate-all-kids-bike-bicycles/">Save to Pocket</a>
+</span>
+
+---
+
+## “Art of Creating Myths”: Ducati and Automobili Lamborghini collaborate in the name of Paolo Troilo’s art
+
+date: 2024-02-02, from: Cycle World News
+
+Ducati and Automobili Lamborghini together have launched an art display called “Art of Creating Myths” at the Galleria Cavour.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/art-of-creating-myths-ducati-and-automobili-lamborghini-collaborate-paolo-troilo-art/">https://www.cycleworld.com/the-wire/art-of-creating-myths-ducati-and-automobili-lamborghini-collaborate-paolo-troilo-art/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/art-of-creating-myths-ducati-and-automobili-lamborghini-collaborate-paolo-troilo-art/">Save to Pocket</a>
+</span>
+
+---
+
+## Cake Motorcycles Files For Bankruptcy In Sweden: Report
+
+date: 2024-02-02, from: Ride Apart, Electric Motorcycle News
+
+Multiple factors are reportedly to blame, including the failure of the firm's most recent funding round.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707218/cake-motorcycles-bankruptcy-sweden-report/">https://www.rideapart.com/news/707218/cake-motorcycles-bankruptcy-sweden-report/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707218/cake-motorcycles-bankruptcy-sweden-report/">Save to Pocket</a>
+</span>
+
+---
+
+## Triumph: On The Eve of Off-Road Racing History
+
+date: 2024-02-02, from: Cycle World News
+
+This weekend, Triumph is revving up to make motorsport history.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/triumph-on-the-eve-off-road-racing-history/">https://www.cycleworld.com/the-wire/triumph-on-the-eve-off-road-racing-history/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/triumph-on-the-eve-off-road-racing-history/">Save to Pocket</a>
+</span>
+
+---
+
+## What’s Ducati’s Advantage in Motocross With the Desmo450 MX?
+
+date: 2024-02-02, from: Cycle World News
+
+Technical Editor Kevin Cameron examines the Ducati Desmo450 MX motocross bike to see what its potential advantages are.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/kevin-cameron-examines-ducati-desmo450-mx-motocross/">https://www.cycleworld.com/bikes/kevin-cameron-examines-ducati-desmo450-mx-motocross/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/kevin-cameron-examines-ducati-desmo450-mx-motocross/">Save to Pocket</a>
+</span>
 
 ---
 

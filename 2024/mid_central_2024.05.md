@@ -1,11 +1,85 @@
 ---
 title: mid central 2024.05
-updated: 2024-02-02 08:57:11
+updated: 2024-02-02 17:13:16
 ---
 
 # mid central 2024.05
 
-(date: 2024-02-02 08:57:11)
+(date: 2024-02-02 17:13:16)
+
+---
+
+## Review: ‘Anyone but You’ squanders its cast on a mediocre Shakespeare revamp
+
+date: 2024-02-02, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+There have been rumblings going around Hollywood lately that the rom-com genre is dead. Superheroes and action movies are seemingly the only genres that studios are willing to bet on. And while that may or may not be the case, a middling plot doesn’t help “Anyone but You” stand out. Columbia Pictures’ “Anyone but You,”...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/review-anyone-but-you-squanders-its-cast-on-a-mediocre-shakespeare-revamp/">https://fscollegian.com/2024/02/review-anyone-but-you-squanders-its-cast-on-a-mediocre-shakespeare-revamp/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/review-anyone-but-you-squanders-its-cast-on-a-mediocre-shakespeare-revamp/">Save to Pocket</a>
+</span>
+
+---
+
+## The First Amateur Radio Station on the Moon, JS1YMG, is Now Transmitting
+
+date: 2024-02-02, from: Amateur Radio Relay League News
+
+<p>The Japan Aerospace Exploration Agency (JAXA) successfully landed their Smart Lander for Investigating Moon (SLIM) on January 19, 2024. Just before touchdown, SLIM released two small lunar surface probes, LEV-1 and LEV-2.</p><p>LEV-2 collects data while moving on the lunar surface, and LEV-1 receives the data.</p><p>The JAXA Ham Radio Club (JHRC), JQ1ZVI, secured amateur radio license JS1YMG for LEV-1, which...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting">http://www.arrl.org/news/view/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting">Save to Pocket</a>
+</span>
+
+---
+
+## ARRL Midwest Division Convention, Winterfest
+
+date: 2024-02-02, from: Amateur Radio Relay League News
+
+<p>Newly licensed ham Charlie Hartley, KF0OOP, 18, is one of ARRL  The National Association for Amateur Radio® newest members. He's majoring in sound engineering at Webster University in St. Louis, Missouri, and is an accomplished musician, playing both bass guitar and the upright string bass. Ham radio, live sound, and music run in his blood; he's the grandson of Bob Heil, K9EID.</p><p></p><p></p><p>Charlie had been ...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/arrl-midwest-division-convention-winterfest">http://www.arrl.org/news/view/arrl-midwest-division-convention-winterfest</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/arrl-midwest-division-convention-winterfest">Save to Pocket</a>
+</span>
+
+---
+
+## Heil Ham Radio Donates Equipment to W1AW
+
+date: 2024-02-02, from: Amateur Radio Relay League News
+
+<p>The Hiram Percy Maxim Memorial Station, W1AW, at ARRL Headquarters in Newington, Connecticut, has received a generous donation of equipment from the Heil Ham Radio division of Heil Sound.</p><p>The company's founder, Bob Heil, K9EID, is a pioneering audio engineer and avid radio amateur. At his direction, the company donated four Heil Pro Set Elite HC-6 headsets, three Heil Pro Set 3 stereo headphones...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/heil-ham-radio-donates-equipment-to-w1aw">http://www.arrl.org/news/view/heil-ham-radio-donates-equipment-to-w1aw</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/heil-ham-radio-donates-equipment-to-w1aw">Save to Pocket</a>
+</span>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-02-02, from: Amateur Radio Relay League News
+
+<p>"ASWFC GEOMAGNETIC DISTURBANCE WARNING ISSUED AT 0248 UTC/02 FEBRUARY 2024 BY THE AUSTRALIAN SPACE WEATHER FORECASTING CENTRE.<br /><br />"A CME was observed from 01/0800 UT. This CME is expected to pass<br />mostly above the Earth, however a glancing blow is possible either<br />late UT day 03-Feb or early UT day 04-Feb to cause possible G1-G2<br />geomagnetic storming. A coronal hole wind stream may also contribute<br />to enha...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/the-k7ra-solar-update-815">http://www.arrl.org/news/view/the-k7ra-solar-update-815</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/the-k7ra-solar-update-815">Save to Pocket</a>
+</span>
+
+---
+
+## Creating a very fast edge rate generator for testing (or taking the pulse of your scope)
+
+date: 2024-02-02, from: EDN Blog
+
+<img width="3559" height="3521" src="https://www.edn.com/wp-content/uploads/Figure-3_Tiny-Pulser.jpg?fit=3559%2C3521" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-3_Tiny-Pulser.jpg?w=3559 3559w, https://www.edn.com/wp-content/uploads/Figure-3_Tiny-Pulser.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-3_Tiny-Pulser.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-3_Tiny-Pulser.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Figure-3_Tiny-Pulser.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Figure-3_Tiny-Pulser.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Figure-3_Tiny-Pulser.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Figure-3_Tiny-Pulser.jpg?w=2850 2850w" sizes="(max-width: 3559px) 100vw, 3559px" /><p>A recent purchase of a new oscilloscope inspired this designer to create a pulse generator to find the true bandwidth of this equipment. </p>
+<p>The post <a href="https://www.edn.com/creating-a-very-fast-edge-rate-generator-for-testing-or-taking-the-pulse-of-your-scope/" data-wpel-link="internal">Creating a very fast edge rate generator for testing (or taking the pulse of your scope)</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/creating-a-very-fast-edge-rate-generator-for-testing-or-taking-the-pulse-of-your-scope/">https://www.edn.com/creating-a-very-fast-edge-rate-generator-for-testing-or-taking-the-pulse-of-your-scope/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/creating-a-very-fast-edge-rate-generator-for-testing-or-taking-the-pulse-of-your-scope/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +87,7 @@ updated: 2024-02-02 08:57:11
 
 date: 2024-02-02, from: EDN Blog
 
-<img width="769" height="782" src="https://www.edn.com/wp-content/uploads/Fig-1-Chiplets-Eliyan.jpg?fit=769%2C782" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-Chiplets-Eliyan.jpg?w=769 769w, https://www.edn.com/wp-content/uploads/Fig-1-Chiplets-Eliyan.jpg?w=295 295w" sizes="(max-width: 769px) 100vw, 769px" /><p>Three chiplet design highlights show how key building blocks are falling in place while being taped out at advanced nodes.</p>
+<img width="769" height="782" src="https://www.edn.com/wp-content/uploads/Fig-1-Chiplets-Eliyan.jpg?fit=769%2C782" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-1-Chiplets-Eliyan.jpg?w=769 769w, https://www.edn.com/wp-content/uploads/Fig-1-Chiplets-Eliyan.jpg?w=295 295w" sizes="(max-width: 769px) 100vw, 769px" /><p>Three chiplet design highlights show how key building blocks are falling in place while being taped out at advanced nodes.</p>
 <p>The post <a href="https://www.edn.com/chiplets-diary-three-anecdotes-recount-design-progress/" data-wpel-link="internal">Chiplets diary: Three anecdotes recount design progress</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 

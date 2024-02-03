@@ -1,11 +1,39 @@
 ---
 title: libraries 2024.05
-updated: 2024-02-02 08:57:11
+updated: 2024-02-02 17:13:17
 ---
 
 # libraries 2024.05
 
-(date: 2024-02-02 08:57:11)
+(date: 2024-02-02 17:13:17)
+
+---
+
+## January 2024
+
+date: 2024-02-02, from: Association of Research Libraries News
+
+<p>Last Updated on February 2, 2024, 1:38 pm ET Public Policy Briefing (January 2024) This issue includes: Copyright and Fair Use/Fair Dealing Fair Use/Fair Dealing Week 2024 Is February 26–March...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/january-2024/">January 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/january-2024/">https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/january-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/january-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## ARL Celebrates Black History Month 2024
+
+date: 2024-02-02, from: Association of Research Libraries News
+
+<p>Last Updated on February 2, 2024, 2:50 pm ET   During the month of February, ARL is celebrating Black history. Join us and our member institutions as we honor and...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-celebrates-black-history-month-2024/">ARL Celebrates Black History Month 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/blog/arl-celebrates-black-history-month-2024/">https://www.arl.org/blog/arl-celebrates-black-history-month-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/blog/arl-celebrates-black-history-month-2024/">Save to Pocket</a>
+</span>
 
 ---
 

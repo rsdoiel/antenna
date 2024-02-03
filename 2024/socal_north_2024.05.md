@@ -1,11 +1,160 @@
 ---
 title: socal north 2024.05
-updated: 2024-02-02 08:57:11
+updated: 2024-02-02 17:13:16
 ---
 
 # socal north 2024.05
 
-(date: 2024-02-02 08:57:11)
+(date: 2024-02-02 17:13:16)
+
+---
+
+## The Next Storm Is Going To Be Giant And Potentially Deadly. Agencies Are Scrambling To Prepare
+
+date: 2024-02-02, updated: 2024-02-03, from: The LAist
+
+The second atmospheric river could bring “life threatening impacts.”
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/storm-atmospheric-river-los-angeles-flooding">https://laist.com/news/climate-environment/storm-atmospheric-river-los-angeles-flooding</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/storm-atmospheric-river-los-angeles-flooding">Save to Pocket</a>
+</span>
+
+---
+
+## Las Vegas Raiders to hire UCLA football’s DeShaun Foster as running backs coach
+
+date: 2024-02-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Another Bruin coach is departing from the program – this time to the NFL.
+UCLA football associate head coach and running backs coach DeShaun Foster will join Antonio Pierce’s staff as running backs coach for the Las Vegas Raiders, NFL Network’s Mike Garafolo reported Friday afternoon.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/02/las-vegas-raiders-to-hire-ucla-footballs-deshaun-foster-as-running-backs-coach/">https://dailybruin.com/2024/02/02/las-vegas-raiders-to-hire-ucla-footballs-deshaun-foster-as-running-backs-coach/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/02/las-vegas-raiders-to-hire-ucla-footballs-deshaun-foster-as-running-backs-coach/">Save to Pocket</a>
+</span>
+
+---
+
+## Orange County Launches Rental Assistance Pilot Program
+
+date: 2024-02-02, updated: 2024-02-02, from: The LAist
+
+The Emergency Rental Assistance Program will provide up to three months of support to families with unpaid rent or at risk of becoming unhoused.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/orange-county-rental-assistance-pilot-program">https://laist.com/news/housing-homelessness/orange-county-rental-assistance-pilot-program</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/orange-county-rental-assistance-pilot-program">Save to Pocket</a>
+</span>
+
+---
+
+## Professor Highlight: Professor Alamillo, A Leading Advocate for Student Engagement at CI
+
+date: 2024-02-02, from: CI View (CSCI Student Newspaper)
+
+By Melissa Mendez-Conchas Photo of Jose Alamillo by Ella Torres Interested in campus involvement but unsure how to start? Chair and Professor Jose Alamillo of [&#8230;]
+
+<span class="feed-item-link">
+<a href="http://civiewnews.com/opinion/professor-highlight-professor-alamillo-a-leading-advocate-for-student-engagement-at-ci/?utm_source=rss&utm_medium=rss&utm_campaign=professor-highlight-professor-alamillo-a-leading-advocate-for-student-engagement-at-ci">http://civiewnews.com/opinion/professor-highlight-professor-alamillo-a-leading-advocate-for-student-engagement-at-ci/?utm_source=rss&utm_medium=rss&utm_campaign=professor-highlight-professor-alamillo-a-leading-advocate-for-student-engagement-at-ci</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://civiewnews.com/opinion/professor-highlight-professor-alamillo-a-leading-advocate-for-student-engagement-at-ci/?utm_source=rss&utm_medium=rss&utm_campaign=professor-highlight-professor-alamillo-a-leading-advocate-for-student-engagement-at-ci">Save to Pocket</a>
+</span>
+
+---
+
+## Bravo’s Landscaping and Straight Up Builders victorious in softball action
+
+date: 2024-02-02, from: Catalina Islander
+
+Coyote Joe’s and Bravo’s Landscaping faced off in the first game of the evening. After turning the double play to end the first, Bravo’s Landscaping went on a roll in the bottom of the inning. Taking advantage of four errors, five base hits, doubles from Tyler Engel, Gilbert Hernandez and Melissa Schaefer, and a two [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/bravos-landscaping-and-straight-up-builders-victorious-in-softball-action/">https://thecatalinaislander.com/bravos-landscaping-and-straight-up-builders-victorious-in-softball-action/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/bravos-landscaping-and-straight-up-builders-victorious-in-softball-action/">Save to Pocket</a>
+</span>
+
+---
+
+## Jan Amend, divisional dean for the life sciences at Dornsife, dies
+
+date: 2024-02-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Amend first joined the Dornsife College of Letters, Arts and Sciences in 2011.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/02/jan-amend-divisional-dean-for-the-life-sciences-at-dornsife-dies/">Jan Amend, divisional dean for the life sciences at Dornsife, dies</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/02/jan-amend-divisional-dean-for-the-life-sciences-at-dornsife-dies/">https://dailytrojan.com/2024/02/02/jan-amend-divisional-dean-for-the-life-sciences-at-dornsife-dies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/02/jan-amend-divisional-dean-for-the-life-sciences-at-dornsife-dies/">Save to Pocket</a>
+</span>
+
+---
+
+## Campus Spotlight: New Student Centers
+
+date: 2024-02-02, from: CI View (CSCI Student Newspaper)
+
+By Ashley Tolteca and Allen Monge
+
+<span class="feed-item-link">
+<a href="http://civiewnews.com/broadcasting/campus-spotlight-new-student-centers/?utm_source=rss&utm_medium=rss&utm_campaign=campus-spotlight-new-student-centers">http://civiewnews.com/broadcasting/campus-spotlight-new-student-centers/?utm_source=rss&utm_medium=rss&utm_campaign=campus-spotlight-new-student-centers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://civiewnews.com/broadcasting/campus-spotlight-new-student-centers/?utm_source=rss&utm_medium=rss&utm_campaign=campus-spotlight-new-student-centers">Save to Pocket</a>
+</span>
+
+---
+
+## CI Model UN Students Wipe the Floor with Seattle Competition
+
+date: 2024-02-02, from: CI View (CSCI Student Newspaper)
+
+By Andreas Garza Going down the list of things this melting pot of a city is known for, you might get towards the end when [&#8230;]
+
+<span class="feed-item-link">
+<a href="http://civiewnews.com/news/ci-model-un-students-wipe-the-floor-with-seattle-competition/?utm_source=rss&utm_medium=rss&utm_campaign=ci-model-un-students-wipe-the-floor-with-seattle-competition">http://civiewnews.com/news/ci-model-un-students-wipe-the-floor-with-seattle-competition/?utm_source=rss&utm_medium=rss&utm_campaign=ci-model-un-students-wipe-the-floor-with-seattle-competition</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://civiewnews.com/news/ci-model-un-students-wipe-the-floor-with-seattle-competition/?utm_source=rss&utm_medium=rss&utm_campaign=ci-model-un-students-wipe-the-floor-with-seattle-competition">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “Breaking the Ice”
+
+date: 2024-02-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/02/editorial-cartoon-breaking-the-ice/">https://dailybruin.com/2024/02/02/editorial-cartoon-breaking-the-ice/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/02/editorial-cartoon-breaking-the-ice/">Save to Pocket</a>
+</span>
+
+---
+
+## Letter from the Editor: Earthquake Anniversary
+
+date: 2024-02-02, from: The Sundail (CSUN Student Newspaper)
+
+Dear Sundial readers, The first issue of the magazine for spring semester falls on the 30-year anniversary of the 1994 Northridge earthquake. With every building on campus damaged, the earthquake and its effects are integral to the identity of California State University, Northridge. In this issue, we highlight the diverse group of people who rebuilt...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178097/print-editions/print-stories/letter-from-the-editor-earthquake-anniversary/">https://sundial.csun.edu/178097/print-editions/print-stories/letter-from-the-editor-earthquake-anniversary/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178097/print-editions/print-stories/letter-from-the-editor-earthquake-anniversary/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Its just a fact’: Understaffed CAE office fails to meet students’ needs
+
+date: 2024-02-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Out of the nine total disability specialist positions the Center for Accessible Education typically maintains, only three were filled at the start of the 2023-2024 academic year.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/02/its-just-a-fact-understaffed-cae-office-fails-to-meet-students-needs/">https://dailybruin.com/2024/02/02/its-just-a-fact-understaffed-cae-office-fails-to-meet-students-needs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/02/its-just-a-fact-understaffed-cae-office-fails-to-meet-students-needs/">Save to Pocket</a>
+</span>
+
+---
+
+## Where the opioid crisis meets USC
+
+date: 2024-02-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>On the first “Soapbox” of the year, host Fabián Gutiérrez hears from staff writer Sherie Agcaoili and Team Awareness Combating Overdose’s USC chapter president Aisling Covell about the opioid epidemic, its impact on the University community, and what its members can do to keep themselves and others safe.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/02/where-the-opioid-crisis-meets-usc/">Where the opioid crisis meets USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/02/where-the-opioid-crisis-meets-usc/">https://dailytrojan.com/2024/02/02/where-the-opioid-crisis-meets-usc/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/02/where-the-opioid-crisis-meets-usc/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -387,7 +536,7 @@ date: 2024-02-01, from: City of Santa Clarita
 
 ## Sundance 2024 Leaves College Students Embracing Their Inner Film Geeks
 
-date: 2024-02-01, updated: 2024-02-01, from: The LAist
+date: 2024-02-01, updated: 2024-02-02, from: The LAist
 
 A week of screenings, panels, and meaningful conversations leads to new confidence and excitement to make movies.
 

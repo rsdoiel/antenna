@@ -1,11 +1,51 @@
 ---
 title: pacific 2024.05
-updated: 2024-02-02 08:57:11
+updated: 2024-02-02 17:13:16
 ---
 
 # pacific 2024.05
 
-(date: 2024-02-02 08:57:11)
+(date: 2024-02-02 17:13:16)
+
+---
+
+## KĀKOU: Hawaiʻi’s Town Hall Artificial Intelligence: Embrace It or Fear it?
+
+date: 2024-02-02, from: KĀKOU: Hawaiʻi’s Town Hall
+
+<p>Kākou Panelists: tba</p>
+<p>The post <a href="https://www.pbshawaii.org/kakou-hawai%ca%bbis-town-hall-artificial-intelligence-embrace-it-or-fear-it/">KĀKOU: Hawaiʻi’s Town Hall &lt;br/&gt;Artificial Intelligence: Embrace It or Fear it?</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.pbshawaii.org/kakou-hawai%ca%bbis-town-hall-artificial-intelligence-embrace-it-or-fear-it/">https://www.pbshawaii.org/kakou-hawai%ca%bbis-town-hall-artificial-intelligence-embrace-it-or-fear-it/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pbshawaii.org/kakou-hawai%ca%bbis-town-hall-artificial-intelligence-embrace-it-or-fear-it/">Save to Pocket</a>
+</span>
+
+---
+
+## Rainbow Wahine basketball targets record attendance at ‘Beeman’s Big Bash’
+
+date: 2024-02-02, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Tickets are on sale now for the Beeman’s Big Bash on February 17.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/02/wahine-basketball-beemans-bash/">Rainbow Wahine basketball targets record attendance at ‘Beeman’s Big Bash’</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/02/wahine-basketball-beemans-bash/">https://www.hawaii.edu/news/2024/02/02/wahine-basketball-beemans-bash/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/02/wahine-basketball-beemans-bash/">Save to Pocket</a>
+</span>
+
+---
+
+## Tracking breakthrough: Scientists change way they monitor smaller whales
+
+date: 2024-02-02, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The tags are equipped with cameras, hydrophones, accelerometers and depth sensors to provide insights into the daily lives of these marine species.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/02/tracking-smaller-whales/">Tracking breakthrough: Scientists change way they monitor smaller whales</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/02/tracking-smaller-whales/">https://www.hawaii.edu/news/2024/02/02/tracking-smaller-whales/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/02/tracking-smaller-whales/">Save to Pocket</a>
+</span>
 
 ---
 

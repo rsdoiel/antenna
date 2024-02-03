@@ -498,3 +498,4 @@ https://electrek.co/feed/ "~Electrek Feed" curl/8.5.0 (rsdoiel@gmail.com, rsdoie
 # To be sorted
 #
 https://infrequently.org/feed/ "~Infrequently (Alex Russell on browsers, standards ...)"
+https://www.brain-dump.org/index.xml "~Marc André Tanner blog (creator of vis editor)"

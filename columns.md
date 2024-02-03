@@ -1,11 +1,76 @@
 ---
 title: columns 2024.05
-updated: 2024-02-02 08:57:11
+updated: 2024-02-02 17:13:16
 ---
 
 # columns 2024.05
 
-(date: 2024-02-02 08:57:11)
+(date: 2024-02-02 17:13:16)
+
+---
+
+## ★ Simple Tricks and Nonsense
+
+date: 2024-02-02, updated: 2024-02-03, from: Daring Fireball
+
+Setting aside potential trademark complaints from their friends at Disney, *this* is what Apple should have saved the term “Force Touch” for.
+
+<span class="feed-item-link">
+<a href="https://daringfireball.net/2024/02/simple_tricks_and_nonsense">https://daringfireball.net/2024/02/simple_tricks_and_nonsense</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/2024/02/simple_tricks_and_nonsense">Save to Pocket</a>
+</span>
+
+---
+
+## Friday Squid Blogging: Illex Squid in Argentina Waters
+
+date: 2024-02-02, updated: 2024-01-26, from: Bruce Schneier blog
+
+<p>Argentina is <a href="https://en.mercopress.com/2024/01/17/argentina-reports-illex-squid-is-back-and-announces-new-monitoring-approach-along-eez-mile-201">reporting</a> that there is a good population of illex squid in its waters ready for fishing, and is working to ensure that Chinese fishing boats don&#8217;t take it all.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p>Read my blog posting guidelines <a href="https://www.schneier.com/blog/archives/2017/03/commenting_poli.html">here</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-illex-squid-in-argentina-waters.html">https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-illex-squid-in-argentina-waters.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-illex-squid-in-argentina-waters.html">Save to Pocket</a>
+</span>
+
+---
+
+## Vision Pro Developer Strap Now Available for $300
+
+date: 2024-02-02, updated: 2024-02-02, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://developer.apple.com/visionos/resources/">https://developer.apple.com/visionos/resources/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://developer.apple.com/visionos/resources/">Save to Pocket</a>
+</span>
+
+---
+
+## David Kahn
+
+date: 2024-02-02, updated: 2024-02-02, from: Bruce Schneier blog
+
+<p>David Kahn has <a href="https://www.washingtonpost.com/obituaries/2024/02/01/david-kahn-codebreakers-nsa-dead/">died</a>. His groundbreaking book,  <i><a href="https://en.wikipedia.org/wiki/The_Codebreakers">The Codebreakers</a></i> was the first serious book I read about codebreaking, and one of the primary reasons I entered this field.</p>
+<p>He will be missed.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/david-kahn.html">https://www.schneier.com/blog/archives/2024/02/david-kahn.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/david-kahn.html">Save to Pocket</a>
+</span>
+
+---
+
+## The truth about the economy
+
+date: 2024-02-02, from: Robert Reich's blog
+
+The one remaining problem can&#8217;t be dealt with through higher interest rates. It needs vigorous antitrust enforcement.
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/the-truth-about-the-economy">https://robertreich.substack.com/p/the-truth-about-the-economy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/the-truth-about-the-economy">Save to Pocket</a>
+</span>
 
 ---
 

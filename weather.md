@@ -1,11 +1,57 @@
 ---
 title: weather 2024.05
-updated: 2024-02-02 08:57:11
+updated: 2024-02-02 17:13:16
 ---
 
 # weather 2024.05
 
-(date: 2024-02-02 08:57:11)
+(date: 2024-02-02 17:13:16)
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-02-02, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0304 PM CST Fri Feb 02 2024
+
+Valid 041200Z - 101200Z
+
+Fire weather potential is expected to remain limited across the
+country through the extended period. The upper wave currently
+located across the Four Corners will migrate east across northern
+Mexico and into the Gulf of Mexico over the next several days. As
+this occurs, precipitation chances are expected to overspread much
+of the central Plains, and Southeast. Longwave troughing is expected
+by early next week across the western CONUS, which should continue
+to promote seasonally cool temperatures and rain/snow chances across
+much of the country.
+
+...D3/Sunday - Southwestern and South-Central Texas... 
+Gusty post-frontal dry northwesterly flow will likely overlap
+afternoon relative humidity reductions to around 20-30 percent from
+Big Bend eastward to the Edwards Plateau and southward into the Rio
+Grande Valley Sunday afternoon. Light precipitation is possible
+across some portion of this region late D1 Friday into D2 Saturday.
+In addition, fuel guidance indicates fuels within this region are
+largely below the 50th percentile for dryness. However, drying of
+freeze cured grasses could support locally some increase in fire
+spread potential and locally elevated weather concerns.
+
+..Thornton.. 02/02/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">https://www.spc.noaa.gov/products/exper/fire_wx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/exper/fire_wx/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -437,56 +483,6 @@ weather concerns.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Day 3-8 Fire Weather Outlook
-
-date: 2024-01-29, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3-8 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0311 PM CST Mon Jan 29 2024
-
-Valid 311200Z - 061200Z
-
-Fire weather potential through the work week remains limited, though
-regional concerns may emerge across southwest Texas by next weekend.
-Latest long-range ensemble guidance continues to show reasonably
-good agreement in the maintenance of an upper ridge over the
-Intermountain West and Plains through the middle of the work week.
-This pattern will favor dry conditions across the central U.S. while
-southwesterly flow along the West Coast and a shortwave trough
-across the OH River Valley/Southeast introduce precipitation chances
-elsewhere. A persistent west/northwest flow regime is expected to
-promote unseasonably warm temperatures across the Plains that may
-result in some fuel drying through the week, though winds are
-forecast to remain sufficiently light to preclude fire concerns.
-
-Heading into the upcoming weekend, long-range guidance depicts a
-subtropical jet extension nosing into northern Mexico/southern TX.
-This should support lee troughing/cyclogenesis across the southern
-High Plains with breezy westerly winds across southern NM into
-southwest TX. Deterministic solutions have come into better
-agreement regarding this scenario, and the probability for at least
-elevated (to possibly critical) fire weather conditions across
-southwest TX has increased in latest ensemble guidance. Fuels across
-this region are currently not receptive, but may trend drier prior
-to this weekend. Forecast and fuel trends will be monitored in
-subsequent outlooks for an increasing fire weather threat.
-
-..Moore.. 01/29/2024
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">https://www.spc.noaa.gov/products/exper/fire_wx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/exper/fire_wx/">Save to Pocket</a>
 </span>
 
 
