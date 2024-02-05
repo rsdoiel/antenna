@@ -229,6 +229,8 @@ https://timkellogg.me/blog/atom.xml "~Tom Kellog blog" curl/8.5.0 (rsdoiel@gmail
 https://maggieappleton.com/rss.xml "~Maggie Appleton blog"
 https://willnorris.com/atom.xml "~Will Norris blog"
 
+https://blog.gtk.org/feed/ "~Gtk Developer blog"
+
 #
 # Problem feeds
 #
