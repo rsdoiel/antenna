@@ -1,11 +1,119 @@
 ---
 title: motorcycles 2024.06
-updated: 2024-02-05 09:01:00
+updated: 2024-02-06 05:55:49
 ---
 
 # motorcycles 2024.06
 
-(date: 2024-02-05 09:01:00)
+(date: 2024-02-06 05:55:49)
+
+---
+
+## Ola Electric Unleashes S1 X Scooter With Bigger Battery, Extended Range
+
+date: 2024-02-06, from: Ride Apart, Electric Motorcycle News
+
+Ola is also offering extended warranty programs for added peace of mind. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707470/ola-electric-s1x-4kwh-variant/">https://www.rideapart.com/news/707470/ola-electric-s1x-4kwh-variant/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707470/ola-electric-s1x-4kwh-variant/">Save to Pocket</a>
+</span>
+
+---
+
+## Take A Look At Indian Motorcycle’s 2024 Factory Racing Team
+
+date: 2024-02-06, from: Ride Apart, Electric Motorcycle News
+
+Indian is keen on asserting dominance in KOTB, SHNC, and AFT SuperTwins. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707467/2024-indian-factory-racing-team-announcement/">https://www.rideapart.com/news/707467/2024-indian-factory-racing-team-announcement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707467/2024-indian-factory-racing-team-announcement/">Save to Pocket</a>
+</span>
+
+---
+
+## Hydrocycle Concept Seeks To Reshape The Future Of Two-Wheeled Mobility
+
+date: 2024-02-06, from: Ride Apart, Electric Motorcycle News
+
+A consortium of German and Czech companies hope to have a working prototype by 2025. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707463/hydrocycle-concept-german-czech-project/">https://www.rideapart.com/news/707463/hydrocycle-concept-german-czech-project/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707463/hydrocycle-concept-german-czech-project/">Save to Pocket</a>
+</span>
+
+---
+
+## KTM Pulls The Covers Off The 2024 RC 200 In The Asian Market
+
+date: 2024-02-06, from: Ride Apart, Electric Motorcycle News
+
+It gets updated styling and two Ready To Race colorways. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707461/2024-ktm-rc200-unveiled-asian-market/">https://www.rideapart.com/news/707461/2024-ktm-rc200-unveiled-asian-market/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707461/2024-ktm-rc200-unveiled-asian-market/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Riding Season Is Coming. Are You Ready To Lift Your Bike?
+
+date: 2024-02-05, from: Ride Apart, Electric Motorcycle News
+
+Cold winter weather has many riders in hibernation mode, but here are some tips to get fit.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707459/adv-bike-lifting-fitness-tips/">https://www.rideapart.com/news/707459/adv-bike-lifting-fitness-tips/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707459/adv-bike-lifting-fitness-tips/">Save to Pocket</a>
+</span>
+
+---
+
+## Aprilia Racers Days 2024 US Registrations Now Open
+
+date: 2024-02-05, from: Ride Apart, Electric Motorcycle News
+
+It's a track day with a demo Aprilia bonus experience at some of the best tracks the US has to offer.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707453/aprilia-racers-days-2024-calendar/">https://www.rideapart.com/news/707453/aprilia-racers-days-2024-calendar/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707453/aprilia-racers-days-2024-calendar/">Save to Pocket</a>
+</span>
+
+---
+
+## MV Agusta Superveloce 1000 Production Ready
+
+date: 2024-02-05, from: Cycle World News
+
+MV Agusta is known for releasing limited-edition versions of upcoming models first, and it appears that is the case with the new Superveloce 1000.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/mv-agusta-superveloce-1000-production-ready/">https://www.cycleworld.com/motorcycle-news/mv-agusta-superveloce-1000-production-ready/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/mv-agusta-superveloce-1000-production-ready/">Save to Pocket</a>
+</span>
+
+---
+
+## Get to Know ARCA Menards West Series Driver Danica Dart
+
+date: 2024-02-05, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires Female representation in the ARCA Menards West Series has often been consistent since its creation in 1954 compared to other NASCAR series.&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/get-to-know-arca-west-driver-danica-dart/">https://kickinthetires.net/nascar/get-to-know-arca-west-driver-danica-dart/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/get-to-know-arca-west-driver-danica-dart/">Save to Pocket</a>
+</span>
+
+---
+
+## This 48-Cylinder Custom Kawasaki Two Stroke Is About To Go Up For Sale
+
+date: 2024-02-05, from: Ride Apart, Electric Motorcycle News
+
+There's nothing else in the world quite like the 48 cylinder Whitelock Tinker Toy, and now it can be yours.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707431/48-cylinder-kawasaki-for-sale/">https://www.rideapart.com/news/707431/48-cylinder-kawasaki-for-sale/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707431/48-cylinder-kawasaki-for-sale/">Save to Pocket</a>
+</span>
 
 ---
 

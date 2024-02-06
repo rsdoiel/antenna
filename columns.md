@@ -1,11 +1,71 @@
 ---
 title: columns 2024.06
-updated: 2024-02-05 09:01:00
+updated: 2024-02-06 05:55:48
 ---
 
 # columns 2024.06
 
-(date: 2024-02-05 09:01:00)
+(date: 2024-02-06 05:55:48)
+
+---
+
+## The ‘Do Nothing’ Strategy
+
+date: 2024-02-06, from: Dan Rather's Steady
+
+Since the security of the U.S.-Mexico border is a top issue for many Americans, the Republican Party is betting that their strategy will win the day &#8230; or at least the presidential election. But it isn&#8217;t much of a plan. The strategy: Do nothing. The reason: Because Donald Trump said so.
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/the-do-nothing-strategy">https://steady.substack.com/p/the-do-nothing-strategy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/the-do-nothing-strategy">Save to Pocket</a>
+</span>
+
+---
+
+## Lines of code – how to not measure code quality and developer efficiency
+
+date: 2024-02-06, from: Chris Heilmann's blog
+
+Lately I have a person who pings me daily asking how many lines of code I have written today. The first time was on the weekend. My answer was &#8220;none, as weekends I concentrate on not doing computer things with my partner&#8221; which is an excellent idea. However, lines of code are often seen as [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://christianheilmann.com/2024/02/06/lines-of-code-how-to-not-measure-code-quality-and-developer-efficiency/">https://christianheilmann.com/2024/02/06/lines-of-code-how-to-not-measure-code-quality-and-developer-efficiency/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://christianheilmann.com/2024/02/06/lines-of-code-how-to-not-measure-code-quality-and-developer-efficiency/">Save to Pocket</a>
+</span>
+
+---
+
+## How to stop Trump from running out the clock
+
+date: 2024-02-06, from: Robert Reich's blog
+
+Justice delayed is justice denied, for America
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/how-to-stop-trump-from-running-out">https://robertreich.substack.com/p/how-to-stop-trump-from-running-out</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/how-to-stop-trump-from-running-out">Save to Pocket</a>
+</span>
+
+---
+
+## Funding Dan to improve curl tests
+
+date: 2024-02-06, from: Daniel Stenberg Blog
+
+A few weeks ago I mentioned how we fund Stefan&#8217;s work on improving HTTP(/3) in curl. Now, in similar spirit we are funding Dan Fandrich to work on further improving test infrastructure. Dan has worked fiercely on the introduction of parallel tests over the recent year or so and this is work that builds on &#8230; <a href="https://daniel.haxx.se/blog/2024/02/06/funding-dan-to-improve-curl-tests/" class="more-link">Continue reading <span class="screen-reader-text">Funding Dan to improve curl tests</span> <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://daniel.haxx.se/blog/2024/02/06/funding-dan-to-improve-curl-tests/">https://daniel.haxx.se/blog/2024/02/06/funding-dan-to-improve-curl-tests/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daniel.haxx.se/blog/2024/02/06/funding-dan-to-improve-curl-tests/">Save to Pocket</a>
+</span>
+
+---
+
+## FOSDEM 2024
+
+date: 2024-02-05, from: Liam on Linux
+
+I am travelling onwards from Brussels as I write.<br /><br />I did 2 talks this year. One panel, with my ex-SUSE colleague Markus Feilner, and one solo talk.<br /><br />The panel was called:<br />RHEL and CentOS and the growth of openwashing in FOSS<br /><br />Here's the link:<br />https://fosdem.org/2024/schedule/event/fosdem-2024-3113-rhel-and-centos-and-the-growth-of-openwashing-in-foss/<br /><br />There were no slides but I think there will be video very soon.<br /><br />My solo talk was called:<br /><div>One way forward: finding a path to what comes after Unix</div><div><br />Here's the description:<br />https://fosdem.org/2024/schedule/event/fosdem-2024-3095-one-way-forward-finding-a-path-to-what-comes-after-unix/<br /><br />There should be video soon.<br /><br /><a href="https://docs.google.com/document/d/13M5vMYfbN-U7pKJlvipVsdRoTmTXNRGk/edit?usp=drive_link&amp;ouid=115739915145500082190&amp;rtpof=true&amp;sd=true">This link</a> should let you see the script. Warning, it's an MS Word outline and you need outline view for it to render properly. Neither Google Docs nor LibreOffice can do this.<br /><br /><a href="https://drive.google.com/file/d/18SxnSmUxkZwLwhE8RJjpOJA7fG7kA5S5/view?usp=drive_link">This is the slide deck.</a>&nbsp;(LibreOffice 24.02 format.)</div><br />And this is<a href="https://drive.google.com/file/d/18QnNcisItRKVvmaDAa-GE2V8ySizn5bZ/view?usp=drive_link"> the slide deck with speaker's notes</a>.<br /><br type="_moz" /><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=90185" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments
+
+<span class="feed-item-link">
+<a href="https://liam-on-linux.dreamwidth.org/90185.html">https://liam-on-linux.dreamwidth.org/90185.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://liam-on-linux.dreamwidth.org/90185.html">Save to Pocket</a>
+</span>
 
 ---
 

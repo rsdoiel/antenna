@@ -1,11 +1,136 @@
 ---
 title: writing 2024.06
-updated: 2024-02-05 09:01:00
+updated: 2024-02-06 05:55:48
 ---
 
 # writing 2024.06
 
-(date: 2024-02-05 09:01:00)
+(date: 2024-02-06 05:55:48)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-06, from: Neil Gaiman @ BlueSky)
+
+Everybody was shocked. And people who didn't even know that the writers were on strike read articles about it...
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkpxzzawjl2a">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkpxzzawjl2a</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkpxzzawjl2a">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-06, from: Neil Gaiman @ BlueSky)
+
+Actually, he borrowed them.
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkpuhkmkic2u">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkpuhkmkic2u</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkpuhkmkic2u">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-06, from: Neil Gaiman @ BlueSky)
+
+Interesting interview with the Chengdu Hugo Administrator. I read the transcription. Apparently the Hugo Administrator can do whatever they want, and that's the Hugo rules, so he doesn't know what anyone was grumpy about.
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkpugf7tks2w">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkpugf7tks2w</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkpugf7tks2w">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-06, from: Neil Gaiman @ BlueSky)
+
+Was that my first Golden Apple signing?
+
+[contains quote post or other embeded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkpnulb5su2b">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkpnulb5su2b</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkpnulb5su2b">Save to Pocket</a>
+</span>
+
+---
+
+## Weekly Bestsellers, 5 February 2024
+
+date: 2024-02-05, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+<p>Published last Tuesday, Sarah J. Maas&#8217;s <b>House of Flame and Shadow</b> (Bloomsbury), third in the Crescent City series, still ranks on the Amazon lists this morning; expect it on the print lists next week.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+02.11
+LAT
+02.04
+USAT 
+01.28
+PW 
+02.05
+Amz 
+(02.05)
+UK:
+Amz UK 
+(02.05)
+Canada:
+Amz.ca 
+(02.05)
+
+
+Items on list -x- number of lists surveyed
+
+10&#215;3
+10&#215;2
+150
+15&#215;3 <a href="https://locusmag.com/2024/02/weekly-bestsellers-5-february-2024/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/weekly-bestsellers-5-february-2024/">https://locusmag.com/2024/02/weekly-bestsellers-5-february-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/weekly-bestsellers-5-february-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Soho Press Launches Horror Imprint
+
+date: 2024-02-05, from: Locus Magazine
+
+<p>Independent publisher Soho Press has launched a new horror imprint, Hell&#8217;s Hundred:</p>
+<p></p>
+<p>Named after the once bleak, now chic New York City neighborhood of SoHo—formerly known as &#8220;hell’s hundred acres&#8221; for its grim industrial facades and deadly fires—Hell’s Hundred provides fertile ground for new nightmares to take root. From grisly and macabre to darkly humorous, Hell’s Hundred publishes bold visions of horror from voices new and established.</p>
+<p>The line will  <a href="https://locusmag.com/2024/02/soho-press-launches-horror-imprint/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/soho-press-launches-horror-imprint/">https://locusmag.com/2024/02/soho-press-launches-horror-imprint/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/soho-press-launches-horror-imprint/">Save to Pocket</a>
+</span>
+
+---
+
+## Write On: 'Lawmen: Bass Reeves' Showrunner Chad Feehan
+
+date: 2024-02-05, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-lawmen-bass-reeves-showrunner-chad-feehan" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Lawmen%20Bass%20Reeves%20Showrunner%20Chad%20Feehan.png" alt="Write On: 'Lawmen: Bass Reeves' Showrunner Chad Feehan" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/write-on-lawmen-bass-reeves-showrunner-chad-feehan">https://blog.finaldraft.com/write-on-lawmen-bass-reeves-showrunner-chad-feehan</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/write-on-lawmen-bass-reeves-showrunner-chad-feehan">Save to Pocket</a>
+</span>
 
 ---
 

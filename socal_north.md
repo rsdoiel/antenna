@@ -1,11 +1,458 @@
 ---
 title: socal north 2024.06
-updated: 2024-02-05 09:01:00
+updated: 2024-02-06 05:55:48
 ---
 
 # socal north 2024.06
 
-(date: 2024-02-05 09:01:00)
+(date: 2024-02-06 05:55:48)
+
+---
+
+## Another Full Day Of Rain Is Forecast For Southern California. Officials Urge Vigilance
+
+date: 2024-02-06, updated: 2024-02-06, from: The LAist
+
+L.A. Mayor Karen Bass called Monday "a tough day for the city." Concerns are high that we haven't seen the last of the damage or danger.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/atmospheric-river-la-storm-evacuations-damage-los-angeles-orange-riverside-san-bernardino-santa-barbara">https://laist.com/news/climate-environment/atmospheric-river-la-storm-evacuations-damage-los-angeles-orange-riverside-san-bernardino-santa-barbara</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/atmospheric-river-la-storm-evacuations-damage-los-angeles-orange-riverside-san-bernardino-santa-barbara">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – February 6, 2024
+
+date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/06/classifieds-february-6-2024/">Classifieds &#8211; February 6, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/06/classifieds-february-6-2024/">https://dailytrojan.com/2024/02/06/classifieds-february-6-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/06/classifieds-february-6-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## One of LA’s wettest days damages 11 campus buildings
+
+date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Rain and flooding caused classes and tests to be canceled or moved to Zoom.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/06/one-of-las-wettest-days-damages-11-campus-buildings/">One of LA’s wettest days damages 11 campus buildings</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/06/one-of-las-wettest-days-damages-11-campus-buildings/">https://dailytrojan.com/2024/02/06/one-of-las-wettest-days-damages-11-campus-buildings/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/06/one-of-las-wettest-days-damages-11-campus-buildings/">Save to Pocket</a>
+</span>
+
+---
+
+## You can choose a different Greek life
+
+date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Professional and cultural Greek organizations offer another option for students.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/06/you-can-choose-a-different-greek-life/">You can choose a different Greek life</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/06/you-can-choose-a-different-greek-life/">https://dailytrojan.com/2024/02/06/you-can-choose-a-different-greek-life/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/06/you-can-choose-a-different-greek-life/">Save to Pocket</a>
+</span>
+
+---
+
+## Lawmakers propose bill to install speed controllers on vehicles
+
+date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The legislation could affect the safety of transit routes near campus. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/06/lawmakers-propose-bill-to-install-speed-controllers-on-vehicles/">Lawmakers propose bill to install speed controllers on vehicles</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/06/lawmakers-propose-bill-to-install-speed-controllers-on-vehicles/">https://dailytrojan.com/2024/02/06/lawmakers-propose-bill-to-install-speed-controllers-on-vehicles/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/06/lawmakers-propose-bill-to-install-speed-controllers-on-vehicles/">Save to Pocket</a>
+</span>
+
+---
+
+## A guide to the best record stores around LA
+
+date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Here is a comprehensive list to dive into the city’s local crate-digging scene.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/06/a-guide-to-the-best-record-stores-around-la/">A guide to the best record stores around LA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/06/a-guide-to-the-best-record-stores-around-la/">https://dailytrojan.com/2024/02/06/a-guide-to-the-best-record-stores-around-la/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/06/a-guide-to-the-best-record-stores-around-la/">Save to Pocket</a>
+</span>
+
+---
+
+## Examining the games industry job crisis
+
+date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC has a unique relationship with the games industry, and is therefore disproportionately affected by the persistent layoffs.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/06/the-k-pop-ification-of-the-gaming-industry-2-2-2/">Examining the games industry job crisis</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/06/the-k-pop-ification-of-the-gaming-industry-2-2-2/">https://dailytrojan.com/2024/02/06/the-k-pop-ification-of-the-gaming-industry-2-2-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/06/the-k-pop-ification-of-the-gaming-industry-2-2-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Big Ten Bites: Women’s hoops nears end in Pac-12
+
+date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC’s team might benefit the most from the school’s move to the Big Ten.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/06/big-ten-bites-womens-hoops-nears-end-in-pac-12/">Big Ten Bites: Women’s hoops nears end in Pac-12</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/06/big-ten-bites-womens-hoops-nears-end-in-pac-12/">https://dailytrojan.com/2024/02/06/big-ten-bites-womens-hoops-nears-end-in-pac-12/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/06/big-ten-bites-womens-hoops-nears-end-in-pac-12/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s basketball rolling in road kills
+
+date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Freshman phenom JuJu Watkins was on her beat in USC’s weekend wins.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/06/womens-basketball-weekend-littered-with-road-kills/">Women’s basketball rolling in road kills</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/06/womens-basketball-weekend-littered-with-road-kills/">https://dailytrojan.com/2024/02/06/womens-basketball-weekend-littered-with-road-kills/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/06/womens-basketball-weekend-littered-with-road-kills/">Save to Pocket</a>
+</span>
+
+---
+
+## Acceptance rate expected to drop to 9.2%
+
+date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University accepted 7% of early action applicants for the Class of 2028.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/06/acceptance-rate-expected-to-drop-to-9-2/">Acceptance rate expected to drop to 9.2%</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/06/acceptance-rate-expected-to-drop-to-9-2/">https://dailytrojan.com/2024/02/06/acceptance-rate-expected-to-drop-to-9-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/06/acceptance-rate-expected-to-drop-to-9-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Men’s tennis continues blazing start
+
+date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC improved to a perfect 4-0 with a strong win over UNLV at Marks Stadium.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/06/mens-tennis-continues-blazing-start/">Men’s tennis continues blazing start</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/06/mens-tennis-continues-blazing-start/">https://dailytrojan.com/2024/02/06/mens-tennis-continues-blazing-start/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/06/mens-tennis-continues-blazing-start/">Save to Pocket</a>
+</span>
+
+---
+
+## Founding director of USC Games sued for sexual harassment
+
+date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A viral video exposed professor emeritus Michael Zyda following escorts on X.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/06/founding-director-of-usc-games-sued-for-sexual-harassment/">Founding director of USC Games sued for sexual harassment</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/06/founding-director-of-usc-games-sued-for-sexual-harassment/">https://dailytrojan.com/2024/02/06/founding-director-of-usc-games-sued-for-sexual-harassment/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/06/founding-director-of-usc-games-sued-for-sexual-harassment/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s water polo tournament defense slips away
+
+date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC failed to defend the Triton Invitational and missed out on a placement despite strong performances. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/06/womens-water-polo-tournament-defense-slips-away/">Women’s water polo tournament defense slips away</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/06/womens-water-polo-tournament-defense-slips-away/">https://dailytrojan.com/2024/02/06/womens-water-polo-tournament-defense-slips-away/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/06/womens-water-polo-tournament-defense-slips-away/">Save to Pocket</a>
+</span>
+
+---
+
+## We need more tax resources for international students
+
+date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Many international students struggle with obtaining requirements and paperwork to receive compensation for their work.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/06/we-need-more-tax-resources-for-international-students/">We need more tax resources for international students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/06/we-need-more-tax-resources-for-international-students/">https://dailytrojan.com/2024/02/06/we-need-more-tax-resources-for-international-students/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/06/we-need-more-tax-resources-for-international-students/">Save to Pocket</a>
+</span>
+
+---
+
+## Matadors’ comeback falls short against Tritons
+
+date: 2024-02-06, from: The Sundail (CSUN Student Newspaper)
+
+A furious second half rally by the Matadors (2-19, 0-11 Big West) fell short in heartbreaking fashion as they were edged by the UC San Diego Tritons (10-12, 6-5 Big West) 53-52, Thursday night in Northridge. Guard Erica Adams talked about the struggles the Matadors endured during the game. “It was a matter of mindset,...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178199/sports/matadors-comeback-falls-short-against-tritons/">https://sundial.csun.edu/178199/sports/matadors-comeback-falls-short-against-tritons/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178199/sports/matadors-comeback-falls-short-against-tritons/">Save to Pocket</a>
+</span>
+
+---
+
+## Matadors snap five-game losing streak with win against UC Riverside
+
+date: 2024-02-06, from: The Sundail (CSUN Student Newspaper)
+
+On the verge of extending their losing streak to six games, the CSUN Matadors (14-9, 5-6 Big West) came back to beat UC Riverside (8-15, 3-8 Big West) 76-70, at the Premier America Credit Union Arena on Saturday night. Down by as many as 12 in the first half against the Highlanders, things could’ve gotten...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178190/sports/__matadors_snap_five-game_losing_streak_with_win_against_uc_riverside/">https://sundial.csun.edu/178190/sports/__matadors_snap_five-game_losing_streak_with_win_against_uc_riverside/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178190/sports/__matadors_snap_five-game_losing_streak_with_win_against_uc_riverside/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA students express dissatisfaction with inefficient laundry systems
+
+date: 2024-02-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students living on the Hill and in university apartments reported dissatisfaction with the performance, costs and wait times of UCLA’s laundry machines and dryers.
+According to an emailed statement from UCLA Housing, the university’s laundry contractor, WASH, is on-site every day for maintenance and checkups.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/05/ucla-students-express-dissatisfaction-with-inefficient-laundry-systems/">https://dailybruin.com/2024/02/05/ucla-students-express-dissatisfaction-with-inefficient-laundry-systems/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/ucla-students-express-dissatisfaction-with-inefficient-laundry-systems/">Save to Pocket</a>
+</span>
+
+---
+
+## Dark Star Orchestra revives band The Grateful Dead at The Wiltern
+
+date: 2024-02-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+The tribute rock band graced the Los Angeles streets for the third night of its “Winter Tour 2024.”
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/05/dark-star-orchestra-revives-band-the-grateful-dead-at-the-wiltern/">https://dailybruin.com/2024/02/05/dark-star-orchestra-revives-band-the-grateful-dead-at-the-wiltern/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/dark-star-orchestra-revives-band-the-grateful-dead-at-the-wiltern/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA experts advise Pasadena on segregative impact of unbuilt freeway extension
+
+date: 2024-02-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Institute of Transportation Studies has started to advise the Pasadena City Council on a 50-acre plot of land that was cleared to extend the Interstate 710 freeway and its impact on segregation.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/05/ucla-experts-advise-pasadena-on-segregative-impact-of-unbuilt-freeway-extension/">https://dailybruin.com/2024/02/05/ucla-experts-advise-pasadena-on-segregative-impact-of-unbuilt-freeway-extension/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/ucla-experts-advise-pasadena-on-segregative-impact-of-unbuilt-freeway-extension/">Save to Pocket</a>
+</span>
+
+---
+
+## Expo Park
+
+date: 2024-02-06, from: Transiting Los Angeles
+
+Just across from the USC campus, Expo Park is home to some of the city's most popular museums and sports venues. Check out our guide to everything the park has to offer.
+
+<span class="feed-item-link">
+<a href="https://transitinglosangeles.com/2024/02/05/expo-park/">https://transitinglosangeles.com/2024/02/05/expo-park/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://transitinglosangeles.com/2024/02/05/expo-park/">Save to Pocket</a>
+</span>
+
+---
+
+## Izzy Anstey of UCLA women’s basketball announces retirement
+
+date: 2024-02-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Izzy Anstey is retiring from basketball.
+The UCLA women’s basketball forward announced Monday night via Instagram that she is hanging up her jersey. The senior will remain with the team but is retiring from the sport because of medical reasons.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/05/izzy-anstey-of-ucla-womens-basketball-announces-retirement/">https://dailybruin.com/2024/02/05/izzy-anstey-of-ucla-womens-basketball-announces-retirement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/izzy-anstey-of-ucla-womens-basketball-announces-retirement/">Save to Pocket</a>
+</span>
+
+---
+
+## Career event for UCLA transfer students fosters connections, confidence
+
+date: 2024-02-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Career Center hosted a career event for transfer students Jan. 23.
+Held in Covel Commons from 3 to 7 p.m., the event, which was part of Transfer Pride Week, consisted of a networking lounge, personal brand statement seminar and employer presentations.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/05/career-event-for-ucla-transfer-students-fosters-connections-confidence/">https://dailybruin.com/2024/02/05/career-event-for-ucla-transfer-students-fosters-connections-confidence/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/career-event-for-ucla-transfer-students-fosters-connections-confidence/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “Death by Canvas”
+
+date: 2024-02-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/05/editorial-cartoon-death-by-canvas/">https://dailybruin.com/2024/02/05/editorial-cartoon-death-by-canvas/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/editorial-cartoon-death-by-canvas/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA track and field podiums seven times at Texas A&M Charlie Thomas Invitational
+
+date: 2024-02-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins made waves of their own amid Los Angeles&#8217; rains.
+ UCLA track and field traveled to College Station, Texas for the Texas A&#38;M Charlie Thomas Invitational on Saturday.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/05/ucla-track-and-field-podiums-seven-times-at-texas-am-charlie-thomas-invitational/">https://dailybruin.com/2024/02/05/ucla-track-and-field-podiums-seven-times-at-texas-am-charlie-thomas-invitational/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/ucla-track-and-field-podiums-seven-times-at-texas-am-charlie-thomas-invitational/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA campus experiences flooding, facility closures from record rainfall
+
+date: 2024-02-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA experienced flooding and fallen trees as heavy rain arrived in Los Angeles on Sunday and Monday.
+The National Weather Service issued a number of rare flash flood warnings for central and western LA County on Sunday afternoon and Monday morning.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/05/ucla-campus-experiences-flooding-facility-closures-from-record-rainfall/">https://dailybruin.com/2024/02/05/ucla-campus-experiences-flooding-facility-closures-from-record-rainfall/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/ucla-campus-experiences-flooding-facility-closures-from-record-rainfall/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s tennis swept in back-to-back matches for first time this century
+
+date: 2024-02-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins had never been swept in back-to-back matches dating back to at least 1986, when records were first tracked. 
+On Sunday, however, history was made.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/05/ucla-womens-tennis-swept-in-back-to-back-matches-for-first-time-this-century/">https://dailybruin.com/2024/02/05/ucla-womens-tennis-swept-in-back-to-back-matches-for-first-time-this-century/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/ucla-womens-tennis-swept-in-back-to-back-matches-for-first-time-this-century/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s water polo wins over top-ranked competition at Triton Invitational
+
+date: 2024-02-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 5 at 6:17 p.m.</em>
+The Bruins clinched the Triton Invitational title this weekend with game-changing plays in critical moments.
+No. 3 UCLA women’s water polo (8-0) beat No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/05/ucla-womens-water-polo-wins-over-top-ranked-competition-at-triton-invitational/">https://dailybruin.com/2024/02/05/ucla-womens-water-polo-wins-over-top-ranked-competition-at-triton-invitational/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/ucla-womens-water-polo-wins-over-top-ranked-competition-at-triton-invitational/">Save to Pocket</a>
+</span>
+
+---
+
+## Roughly 5 Million Gallons Of Spilled Sewage Shuts Down Cabrillo Beach And Long Beach
+
+date: 2024-02-05, updated: 2024-02-06, from: The LAist
+
+Cabrillo Beach waters and Long Beach swimming areas are closed
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/sewage-spill-shuts-down-cabrillo-beach-san-pedro">https://laist.com/news/sewage-spill-shuts-down-cabrillo-beach-san-pedro</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/sewage-spill-shuts-down-cabrillo-beach-san-pedro">Save to Pocket</a>
+</span>
+
+---
+
+## Grammys 2024 Q&A: Artists discuss future of representative music industry
+
+date: 2024-02-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Embodying their distinct experiences, these artists are the melodies of the globe.
+Taking place last night at the Crypto.com Arena, the 66th Annual Grammy Awards saw a range of historic moments, including the award show&#8217;s first performance in the Afrobeats genre and the introduction of the Best African Music Performance category &#8211; whose nominees comprise a total of two countries.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/05/grammys-2024-qa-artists-discuss-future-of-representative-music-industry/">https://dailybruin.com/2024/02/05/grammys-2024-qa-artists-discuss-future-of-representative-music-industry/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/grammys-2024-qa-artists-discuss-future-of-representative-music-industry/">Save to Pocket</a>
+</span>
+
+---
+
+## From continent to continent, alumnus Ella Harrington maps out travels online
+
+date: 2024-02-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Ella Harrington is going on a world tour.
+In 2020, the alumnus began documenting her travels on social media when she moved to France, she said.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/05/alumnus-ella-harrington-maps-out-shares-travel-experiences-using-social-media/">https://dailybruin.com/2024/02/05/alumnus-ella-harrington-maps-out-shares-travel-experiences-using-social-media/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/alumnus-ella-harrington-maps-out-shares-travel-experiences-using-social-media/">Save to Pocket</a>
+</span>
+
+---
+
+## The Black Bruin Experience: Divine Nine deserve visibility to honor trailblazing legacy on campus
+
+date: 2024-02-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 5 at 11:28 p.m.</em>
+On Jan. 23, 1923, a group of women came together to charter the Pi Chapter of Delta Sigma Theta Sorority, Incorporated at UCLA.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/05/opinion-divine-nine-deserve-visibility-to-honor-trailblazing-legacy-on-campus/">https://dailybruin.com/2024/02/05/opinion-divine-nine-deserve-visibility-to-honor-trailblazing-legacy-on-campus/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/opinion-divine-nine-deserve-visibility-to-honor-trailblazing-legacy-on-campus/">Save to Pocket</a>
+</span>
+
+---
+
+## The Cube Hosts West Coast Hockey Conference
+
+date: 2024-02-05, from: City of Santa Clarita
+
+<p>THE CUBE HOSTS WEST COAST HOCKEY CONFERENCE Buy Your Tickets to Watch the Four-Day Tournament Calling all hockey fans! The Cube – Ice and Entertainment Center, Powered by FivePoint Valencia, is excited to host the 2024 West Coast Hockey Conference. The tournament will begin on Thursday, February 8, and end on Sunday, February 11, with [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/02/05/the-cube-hosts-west-coast-hockey-conference/">The Cube Hosts West Coast Hockey Conference</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2024/02/05/the-cube-hosts-west-coast-hockey-conference/">https://santaclarita.gov/blog/2024/02/05/the-cube-hosts-west-coast-hockey-conference/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/02/05/the-cube-hosts-west-coast-hockey-conference/">Save to Pocket</a>
+</span>
+
+---
+
+## Two California State Dignitaries Create A Big Splash During First Visit to The Port of Hueneme
+
+date: 2024-02-05, from: Port Hueneme
+
+Chair of Select Committee on Ports &#38; Goods Movement and GO-Biz Director Tour Port of Hueneme Download Press Release [Port Hueneme, CA – February 5, 2024] &#8211; The Port of Hueneme welcomed two distinguished visitors, Dee Dee Myers, the Director of the Governor’s Office of Business and Economic Development (GO-Biz), and Assemblymember Mike A. Gipson, <a class="read-more-style" href="https://www.portofhueneme.org/two-california-state-dignitaries/">Read More</a>
+
+<span class="feed-item-link">
+<a href="https://www.portofhueneme.org/two-california-state-dignitaries/">https://www.portofhueneme.org/two-california-state-dignitaries/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.portofhueneme.org/two-california-state-dignitaries/">Save to Pocket</a>
+</span>
+
+---
+
+## Fact Or Fiction? Hollywood’s Madams In The Golden Age
+
+date: 2024-02-05, updated: 2024-02-05, from: The LAist
+
+Sex and the studios were once a dangerous pair.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/la-history/hollywood-madams-golden-age-sex-workers">https://laist.com/news/la-history/hollywood-madams-golden-age-sex-workers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/la-history/hollywood-madams-golden-age-sex-workers">Save to Pocket</a>
+</span>
 
 ---
 
@@ -33,14 +480,26 @@ We’re never going to tell you who to vote for. We just want to give you the in
 
 ---
 
-## Fact Or Fiction? Hollywood’s Madams In The Golden Age
+## LA City Council: Who's Running In The 2024 Primary Election And Why It Matters
 
 date: 2024-02-05, updated: 2024-02-05, from: The LAist
 
-Sex and the studios were once a dangerous pair.
+Your guide to the L.A. City Council candidates and issues in the March 5 primary election. On the ballot: Districts 2, 4, 6, 8, 10, 12 and 14
 
 <span class="feed-item-link">
-<a href="https://laist.com/news/la-history/hollywood-madams-golden-age-sex-workers">https://laist.com/news/la-history/hollywood-madams-golden-age-sex-workers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/la-history/hollywood-madams-golden-age-sex-workers">Save to Pocket</a>
+<a href="https://laist.com/news/politics/2024-election-california-primary-los-angeles-city-council">https://laist.com/news/politics/2024-election-california-primary-los-angeles-city-council</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/2024-election-california-primary-los-angeles-city-council">Save to Pocket</a>
+</span>
+
+---
+
+## Some OC Beaches Are Disappearing. New Data Gives Clues On How To Help
+
+date: 2024-02-05, updated: 2024-02-05, from: The LAist
+
+UC Irvine researchers have developed a new way to model sand movement that could help officials more effectively spend money to shore up the coast.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/socal-coastal-sand-replenishment-projects-erosion-orange-county">https://laist.com/news/climate-environment/socal-coastal-sand-replenishment-projects-erosion-orange-county</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/socal-coastal-sand-replenishment-projects-erosion-orange-county">Save to Pocket</a>
 </span>
 
 ---
@@ -189,7 +648,7 @@ date: 2024-02-05, from: The Daily Trojan (USC Student Newspaper)
 date: 2024-02-05, from: The Daily Bruin (UCLA Student Newspaper)
 
 Over 100 people gathered at the top of Janss Steps on Tuesday for a vigil honoring educators killed in the Gaza Strip.
-The vigil &#8211; which was organized by UCLA Faculty for Justice in Palestine &#8211; was held from 5 to 7 p.m.
+The vigil – which was organized by UCLA Faculty for Justice in Palestine – was held from 5 to 7 p.m.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/04/ucla-faculty-for-justice-in-palestine-hosts-vigil-for-educators-killed-in-gaza/">https://dailybruin.com/2024/02/04/ucla-faculty-for-justice-in-palestine-hosts-vigil-for-educators-killed-in-gaza/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/04/ucla-faculty-for-justice-in-palestine-hosts-vigil-for-educators-killed-in-gaza/">Save to Pocket</a>
@@ -217,7 +676,7 @@ Afterward, Billie Eilish serenaded the Crypto.com Arena with an airy, orchestral
 
 date: 2024-02-05, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Feb. 4 at 8:15 p.m.</em>
+<em>This post was updated Feb. 5 at 11:32 a.m.</em>
 Students reported disruptions to academics, classes and residential life as storms and heavy rain arrived in Los Angeles on Sunday.
 
 <span class="feed-item-link">
@@ -411,11 +870,11 @@ date: 2024-02-04, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Measles found in person who visited Northridge
+## Measles discovered in Northridge, CA
 
 date: 2024-02-04, from: The Sundail (CSUN Student Newspaper)
 
-The Los Angeles County Department of Public Health reported that a person who flew into Los Angeles on an international flight from Istanbul, Turkey, on Jan. 25 has contracted the measles. The person landed at the Los Angeles International Airport (LAX) around 5 p.m., and then visited the Chick-Fil-A in Northridge, located on Devonshire St.,...
+The Los Angeles County Department of Public Health reported that a person who flew into Los Angeles International Airport on a flight from Istanbul, Turkey, on Jan. 25 has contracted measles. The person landed at LAX around 5 p.m., and then visited the Chick-Fil-A in Northridge, located on Devonshire St., around 8 p.m. Individuals present...
 
 <span class="feed-item-link">
 <a href="https://sundial.csun.edu/178128/news/measles-found-in-person-who-visited-northridge/">https://sundial.csun.edu/178128/news/measles-found-in-person-who-visited-northridge/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178128/news/measles-found-in-person-who-visited-northridge/">Save to Pocket</a>

@@ -1,11 +1,35 @@
 ---
 title: mid central 2024.06
-updated: 2024-02-05 09:01:00
+updated: 2024-02-06 05:55:48
 ---
 
 # mid central 2024.06
 
-(date: 2024-02-05 09:01:00)
+(date: 2024-02-06 05:55:48)
+
+---
+
+## First free grocery store in Fresno combats food insecurity in the community
+
+date: 2024-02-05, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+There is a new resource in Fresno created with the goal to bring support to people struggling with food insecurity. First Fruits Market, an entirely free grocery store located at 2025 E Dakota Ave. at the Fresno Mission Center, is helping with the cause. The grocery store, which opened its doors last year, offers items...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/first-free-grocery-store-in-fresno-combats-food-insecurity-in-the-community/">https://fscollegian.com/2024/02/first-free-grocery-store-in-fresno-combats-food-insecurity-in-the-community/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/first-free-grocery-store-in-fresno-combats-food-insecurity-in-the-community/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Down With The Clique’ exhibit brings a heartfelt start to Black History Month
+
+date: 2024-02-05, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+At this month’s Art Hop, Fresno State art student Tyler Alcé curated the “Down With The Clique” art exhibit, celebrating the work of local Black artists. Alcé is a member at Scarab Creative Arts and worked with Heather Hubbard to create a space to celebrate Black artists. Alcé wanted to use her platform as a...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/down-with-the-clique-exhibit-brings-a-heartfelt-start-to-black-history-month/">https://fscollegian.com/2024/02/down-with-the-clique-exhibit-brings-a-heartfelt-start-to-black-history-month/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/down-with-the-clique-exhibit-brings-a-heartfelt-start-to-black-history-month/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -41,7 +65,7 @@ date: 2024-02-05, from: EDN Blog
 
 date: 2024-02-05, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-On Saturday, Feb. 3, the Fresno State men&#8217;s basketball team lost to Mountain West opponent Colorado State at home 73-61. Head Coach Justin Hutson also confirmed that center Eduardo Andre will likely be out for the remainder of the season due to a knee injury.  Andre has been dealing with this injury throughout the season...
+On Saturday, Feb. 3, the Fresno State men&#8217;s basketball team lost to Mountain West opponent Colorado State at home 73-61. Head Coach Justin Hutson also confirmed that center Eduardo Andre will likely be out for the remainder of the season due to a knee injury. Andre has been dealing with this injury throughout the season,...
 
 <span class="feed-item-link">
 <a href="https://fscollegian.com/2024/02/bulldogs-fall-short-and-lose-center-eduardo-andre/">https://fscollegian.com/2024/02/bulldogs-fall-short-and-lose-center-eduardo-andre/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/bulldogs-fall-short-and-lose-center-eduardo-andre/">Save to Pocket</a>
