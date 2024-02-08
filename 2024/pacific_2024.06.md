@@ -1,11 +1,183 @@
 ---
 title: pacific 2024.06
-updated: 2024-02-07 21:29:00
+updated: 2024-02-08 09:20:17
 ---
 
 # pacific 2024.06
 
-(date: 2024-02-07 21:29:00)
+(date: 2024-02-08 09:20:17)
+
+---
+
+## In Accordance With
+
+date: 2024-02-08, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Mandira Pattnaik When you feel neglected, you should devour your husband instead of starving yourself, instead of wondering what ruins you haunt: says mother when I tell her about a slap, a chipped tooth, about brothers-in-law ogling, about mysterious &#8230; <a href="https://hawaiipacificreview.org/2024/02/08/in-accordance-with/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://hawaiipacificreview.org/2024/02/08/in-accordance-with/">https://hawaiipacificreview.org/2024/02/08/in-accordance-with/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://hawaiipacificreview.org/2024/02/08/in-accordance-with/">Save to Pocket</a>
+</span>
+
+---
+
+## Celebrate love at Crowne Plaza Resort Saipan for Valentine's Day
+
+date: 2024-02-08, updated: 2024-02-08, from: Marianas Variety
+
+(Special Advertising Feature) —  This Valentine's Day, The Terrace Restaurant at Crowne Plaza Resort Saipan invites couples and families to indulge in a memorable dining experience on Feb. 14, from 5:30 p.m. to 9:30 p.m.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/celebrate-love-at-crowne-plaza-resort-saipan-for-valentines-day/article_ddb41eaa-c620-11ee-9a73-e34850f46ca4.html">https://www.mvariety.com/lifestyle/celebrate-love-at-crowne-plaza-resort-saipan-for-valentines-day/article_ddb41eaa-c620-11ee-9a73-e34850f46ca4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/celebrate-love-at-crowne-plaza-resort-saipan-for-valentines-day/article_ddb41eaa-c620-11ee-9a73-e34850f46ca4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Amata welcomes next step for Pacific Partnership Act
+
+date: 2024-02-08, updated: 2024-02-08, from: Marianas Variety
+
+WASHINGTON, D.C. (Office of the American Samoa Congressional Delegate) — U.S. Congresswoman Uifa’atali Amata is an original cosponsor of the bipartisan Pacific Partnership Act, H.R. 7159, and is welcoming passage Tuesday in the House Foreign Affairs Committee. The bill, sponsored by Rep. Ed Case, D-Hawaii, would bolster U.S. engagement with the Pacific Islands region, an issue which Congresswoman Amata highlights often.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/regional_world/amata-welcomes-next-step-for-pacific-partnership-act/article_b41cbf12-c61f-11ee-921d-8f3b294f6e77.html">https://www.mvariety.com/news/regional_world/amata-welcomes-next-step-for-pacific-partnership-act/article_b41cbf12-c61f-11ee-921d-8f3b294f6e77.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/regional_world/amata-welcomes-next-step-for-pacific-partnership-act/article_b41cbf12-c61f-11ee-921d-8f3b294f6e77.html">Save to Pocket</a>
+</span>
+
+---
+
+## Sobriety checkpoints on Monday
+
+date: 2024-02-08, updated: 2024-02-08, from: Marianas Variety
+
+(DPS) — The Department of Public Safety will conduct DUI sobriety checkpoints on Monday, Feb. 12, 2024.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/sobriety-checkpoints-on-monday/article_270a07ca-c64b-11ee-91ed-8fc5d29085fb.html">https://www.mvariety.com/news/community_bulletins/sobriety-checkpoints-on-monday/article_270a07ca-c64b-11ee-91ed-8fc5d29085fb.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/sobriety-checkpoints-on-monday/article_270a07ca-c64b-11ee-91ed-8fc5d29085fb.html">Save to Pocket</a>
+</span>
+
+---
+
+## It’s the economy
+
+date: 2024-02-08, updated: 2024-02-08, from: Marianas Variety
+
+The choice
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/views/editorials/it-s-the-economy/article_4ee67dba-c690-11ee-ac18-ff3571036d82.html">https://www.mvariety.com/views/editorials/it-s-the-economy/article_4ee67dba-c690-11ee-ac18-ff3571036d82.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/views/editorials/it-s-the-economy/article_4ee67dba-c690-11ee-ac18-ff3571036d82.html">Save to Pocket</a>
+</span>
+
+---
+
+## Variations ǀ An unfunded mandate
+
+date: 2024-02-08, updated: 2024-02-08, from: Marianas Variety
+
+LAST week, the House Committee on Public Utilities, Transportation and Communications conducted a public hearing on House Bill 23-92, which would amend the net metering law or P.L. 18-62, which, in turn, amended a previous net metering law, which amended the original net metering law, which was passed without consulting CUC, the entity that is supposed to implement the measure.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/views/columnists/variations-an-unfunded-mandate/article_d074a7f8-c690-11ee-8da7-03833107cbfd.html">https://www.mvariety.com/views/columnists/variations-an-unfunded-mandate/article_d074a7f8-c690-11ee-8da7-03833107cbfd.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/views/columnists/variations-an-unfunded-mandate/article_d074a7f8-c690-11ee-8da7-03833107cbfd.html">Save to Pocket</a>
+</span>
+
+---
+
+## Super Bowl LVIII: 49ers vs Chiefs — local fans weigh in
+
+date: 2024-02-08, updated: 2024-02-08, from: Marianas Variety
+
+SUPER Bowl LVIII is set for Monday morning, local time, with the San Francisco 49ers (12-5) going up against the Kansas City Chiefs (11-6).
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/super-bowl-lviii-49ers-vs-chiefs-local-fans-weigh-in/article_60cc8aae-c665-11ee-9acb-c34a9c619bd4.html">https://www.mvariety.com/sports/localsports/super-bowl-lviii-49ers-vs-chiefs-local-fans-weigh-in/article_60cc8aae-c665-11ee-9acb-c34a9c619bd4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/super-bowl-lviii-49ers-vs-chiefs-local-fans-weigh-in/article_60cc8aae-c665-11ee-9acb-c34a9c619bd4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Blue Jays eliminate Marlins, 25-18
+
+date: 2024-02-08, updated: 2024-02-08, from: Marianas Variety
+
+THE Blue Jays lived to fight another day after eliminating the Marlins, 25-18, in the first round of the SBL Masters League playoffs at the Francisco “Tan Ko” Palacios Baseball Field on Wednesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/blue-jays-eliminate-marlins-25-18/article_43ea622a-c666-11ee-97d9-cf83a1fc1797.html">https://www.mvariety.com/sports/localsports/blue-jays-eliminate-marlins-25-18/article_43ea622a-c666-11ee-97d9-cf83a1fc1797.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/blue-jays-eliminate-marlins-25-18/article_43ea622a-c666-11ee-97d9-cf83a1fc1797.html">Save to Pocket</a>
+</span>
+
+---
+
+## Scheduled power service interruptions for February
+
+date: 2024-02-08, updated: 2024-02-08, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — There will be scheduled power service interruptions in February as CUC continues its ongoing system maintenance
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/scheduled-power-service-interruptions-for-february/article_a4a99e84-c61e-11ee-b280-83580404215e.html">https://www.mvariety.com/news/community_bulletins/scheduled-power-service-interruptions-for-february/article_a4a99e84-c61e-11ee-b280-83580404215e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/scheduled-power-service-interruptions-for-february/article_a4a99e84-c61e-11ee-b280-83580404215e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Public defender joins private attorneys in opposing subpoena bill
+
+date: 2024-02-08, updated: 2024-02-08, from: Marianas Variety
+
+PUBLIC Defender Douglas W. Hartig on Wednesday informed the Senate that he is joining a group of 16 private attorneys in opposing and providing an alternative to House Bill 23-22, which seeks subpoena power for the Office of the Attorney General.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/public-defender-joins-private-attorneys-in-opposing-subpoena-bill/article_9172a8aa-c651-11ee-9d95-17f95821ec8c.html">https://www.mvariety.com/news/local/public-defender-joins-private-attorneys-in-opposing-subpoena-bill/article_9172a8aa-c651-11ee-9d95-17f95821ec8c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/public-defender-joins-private-attorneys-in-opposing-subpoena-bill/article_9172a8aa-c651-11ee-9d95-17f95821ec8c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Trial court will no longer issue subpoenas without case name and number
+
+date: 2024-02-08, updated: 2024-02-08, from: Marianas Variety
+
+THE Superior Court will no longer issue subpoenas in matters that do not have a case name and number.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/trial-court-will-no-longer-issue-subpoenas-without-case-name-and-number/article_a0861926-c66f-11ee-ba0c-c3d889e1c855.html">https://www.mvariety.com/news/local/trial-court-will-no-longer-issue-subpoenas-without-case-name-and-number/article_a0861926-c66f-11ee-ba0c-c3d889e1c855.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/trial-court-will-no-longer-issue-subpoenas-without-case-name-and-number/article_a0861926-c66f-11ee-ba0c-c3d889e1c855.html">Save to Pocket</a>
+</span>
+
+---
+
+## Miss Majol does RMI proud
+
+date: 2024-02-08, from: Marshal Islands Journal
+
+<p>The Miss Pacific Islands Pageant wrapped up last Saturday in Nauru with Miss Samoa Moemoana Schwenke being crowned Miss Pacific Islands 2024. Miss Marshall Islands Claret Chong Gum was honored with the Third Runner Up title for the pageant and was recognized and praised by hundreds of Marshallese who watched the weeklong event playout on [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/miss-majol-does-rmi-proud/">Miss Majol does RMI proud</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/miss-majol-does-rmi-proud/">https://marshallislandsjournal.com/miss-majol-does-rmi-proud/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/miss-majol-does-rmi-proud/">Save to Pocket</a>
+</span>
+
+---
+
+## RELEASE: 2050 Strategy, PALM10 to top Japan-Pacific Islands Forum Foreign Ministerial
+
+date: 2024-02-08, from: Pacific Island Forum
+
+2050 Strategy, PALM10 to top Japan-Pacific Islands Forum Foreign Ministerial Forumsec, Feb 6, 2024 – Partnerships and implementation of the 2050 Strategy for the Blue Pacific<span class="excerpt-hellip"> […]</span>
+
+<span class="feed-item-link">
+<a href="https://www.forumsec.org/2024/02/08/release-2050-strategy-palm10-to-top-japan-pacific-islands-forum-foreign-ministerial/">https://www.forumsec.org/2024/02/08/release-2050-strategy-palm10-to-top-japan-pacific-islands-forum-foreign-ministerial/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.forumsec.org/2024/02/08/release-2050-strategy-palm10-to-top-japan-pacific-islands-forum-foreign-ministerial/">Save to Pocket</a>
+</span>
+
+---
+
+## Nauru-RMI talk air deal
+
+date: 2024-02-08, from: Marshal Islands Journal
+
+<p>The idea of Honolulu air service has been discussed within the Marshall Islands Cabinet-appointed Aviation Task Force, as well as with Nauru Airlines officials, for a number of years. Minister for Nauru Air Corporation Asterio Appi and Minister in Assistance to the President of the Marshall Islands Bremity Lakjohn signed an air services memorandum of [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/nauru-rmi-talk-air-deal/">Nauru-RMI talk air deal</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/nauru-rmi-talk-air-deal/">https://marshallislandsjournal.com/nauru-rmi-talk-air-deal/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/nauru-rmi-talk-air-deal/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -17,6 +189,20 @@ By Frank Whitman “My whole purpose is to provide an improved level of educatio
 
 <span class="feed-item-link">
 <a href="https://www.pacificislandtimes.com/post/brief-chat-with-k-erik-swanson-setting-priorities">https://www.pacificislandtimes.com/post/brief-chat-with-k-erik-swanson-setting-priorities</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/brief-chat-with-k-erik-swanson-setting-priorities">Save to Pocket</a>
+</span>
+
+---
+
+## Oliver! crew hard at rehearsal
+
+date: 2024-02-08, from: Marshal Islands Journal
+
+<p>KAREN EARNSHAW Rehearsals for the musical Oliver! are in full swing and going well at the Marshall Islands High School library each weekday afternoon and on Saturdays and we hear that the construction and painting of the sets is also coming along nicely. Producers Professor Andrew Garrod and Bonny Taggart and the rest of the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/oliver-crew-hard-at-rehearsal/">Oliver! crew hard at rehearsal</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/oliver-crew-hard-at-rehearsal/">https://marshallislandsjournal.com/oliver-crew-hard-at-rehearsal/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/oliver-crew-hard-at-rehearsal/">Save to Pocket</a>
 </span>
 
 ---

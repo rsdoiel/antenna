@@ -1,18 +1,159 @@
 ---
 title: socal north 2024.06
-updated: 2024-02-07 21:29:00
+updated: 2024-02-08 09:20:17
 ---
 
 # socal north 2024.06
 
-(date: 2024-02-07 21:29:00)
+(date: 2024-02-08 09:20:17)
 
 ---
 
-## UCLA men’s basketball scores 11 times from beyond the arc to defeat Stanford
+## Classifieds – February 8, 2024
+
+date: 2024-02-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/08/classifieds-february-8-2024/">Classifieds &#8211; February 8, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/08/classifieds-february-8-2024/">https://dailytrojan.com/2024/02/08/classifieds-february-8-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/08/classifieds-february-8-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s basketball looks to exorcize Sun Devils
+
+date: 2024-02-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Coming off of two wins in Northern California, USC will face the Pac-12’s worst.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/08/200274/">Women’s basketball looks to exorcize Sun Devils</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/08/200274/">https://dailytrojan.com/2024/02/08/200274/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/08/200274/">Save to Pocket</a>
+</span>
+
+---
+
+## Free STI testing to roll out next week at Engemann
+
+date: 2024-02-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Testing will coincide with Wellness Week activities and informational booths.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/08/free-sti-testing-to-roll-out-next-week-at-engemann/">Free STI testing to roll out next week at Engemann</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/08/free-sti-testing-to-roll-out-next-week-at-engemann/">https://dailytrojan.com/2024/02/08/free-sti-testing-to-roll-out-next-week-at-engemann/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/08/free-sti-testing-to-roll-out-next-week-at-engemann/">Save to Pocket</a>
+</span>
+
+---
+
+## P1Harmony’s new album is ‘Killin’ It’
+
+date: 2024-02-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>K-pop band P1Harmony released its first full-length album with a smashing music video.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/08/p1harmonys-new-album-is-killin-it/">P1Harmony’s new album is ‘Killin’ It’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/08/p1harmonys-new-album-is-killin-it/">https://dailytrojan.com/2024/02/08/p1harmonys-new-album-is-killin-it/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/08/p1harmonys-new-album-is-killin-it/">Save to Pocket</a>
+</span>
+
+---
+
+## Shane Gillis and the myth of cancellation
+
+date: 2024-02-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The once-canceled comedian is now set to host “Saturday Night Live” Feb. 24.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/08/shane-gillis-and-the-myth-of-cancellation/">Shane Gillis and the myth of cancellation</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/08/shane-gillis-and-the-myth-of-cancellation/">https://dailytrojan.com/2024/02/08/shane-gillis-and-the-myth-of-cancellation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/08/shane-gillis-and-the-myth-of-cancellation/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s golf looks to continue its momentum into spring
+
+date: 2024-02-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC fought hard in a match play format at the Therese Hession Regional Challenge.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/08/200268/">Women’s golf looks to continue its momentum into spring</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/08/200268/">https://dailytrojan.com/2024/02/08/200268/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/08/200268/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Pretentiousness’ is often misused
+
+date: 2024-02-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>'Pretentious’ is taking on a new meaning, discouraging us from being passionate.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/08/pretentiousness-is-often-misused/">‘Pretentiousness’ is often misused</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/08/pretentiousness-is-often-misused/">https://dailytrojan.com/2024/02/08/pretentiousness-is-often-misused/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/08/pretentiousness-is-often-misused/">Save to Pocket</a>
+</span>
+
+---
+
+## Downey Way Entrance closed Thursday
+
+date: 2024-02-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC expects traffic at the Watt Way and McClintock Avenue entrances to rise.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/08/downey-way-entrance-closed-thursday/">Downey Way Entrance closed Thursday</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/08/downey-way-entrance-closed-thursday/">https://dailytrojan.com/2024/02/08/downey-way-entrance-closed-thursday/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/08/downey-way-entrance-closed-thursday/">Save to Pocket</a>
+</span>
+
+---
+
+## Delegates, conventions and Nikki Haley’s uphill battle
+
+date: 2024-02-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Presidential party nominations require delegates, and most are still up for grabs.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/08/delegates-conventions-and-nikki-haleys-uphill-battle/">Delegates, conventions and Nikki Haley’s uphill battle</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/08/delegates-conventions-and-nikki-haleys-uphill-battle/">https://dailytrojan.com/2024/02/08/delegates-conventions-and-nikki-haleys-uphill-battle/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/08/delegates-conventions-and-nikki-haleys-uphill-battle/">Save to Pocket</a>
+</span>
+
+---
+
+## A champion on and off the tennis court
+
+date: 2024-02-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Billie Jean King's influence on women's sports and gender equality is unmatched.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/08/200279/">A champion on and off the tennis court</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/08/200279/">https://dailytrojan.com/2024/02/08/200279/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/08/200279/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s basketball splashes season-high 11 3s to defeat Stanford
 
 date: 2024-02-08, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 7 at 10:56 p.m.</em>
 The Bruins and Cardinal faced off inside Pauley Pavilion just over a month ago.
 UCLA scored 53 points in its first conference home loss in front of fans since January 2020 and then lost again three days later for its first winless homestand against the Bay Area schools in nearly two decades.
 
@@ -68,6 +209,18 @@ Hosted by the Chicanx/Latinx Living Learning Community, the event aimed to celeb
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/07/chicanx-latinx-living-learning-community-celebrates-noche-de-cultura/">https://dailybruin.com/2024/02/07/chicanx-latinx-living-learning-community-celebrates-noche-de-cultura/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/07/chicanx-latinx-living-learning-community-celebrates-noche-de-cultura/">Save to Pocket</a>
+</span>
+
+---
+
+## Kobe Bryant Statue To Be Unveiled Thursday At Crypto.com Arena
+
+date: 2024-02-07, updated: 2024-02-07, from: The LAist
+
+The unveiling of the statue will the prelude to the Lakers donning their "Black Mamba" uniforms against the Denver Nuggets.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/los-angeles-activities/kobe-bryant-statue-to-be-unveiled-thursday-at-crypto-com">https://laist.com/news/los-angeles-activities/kobe-bryant-statue-to-be-unveiled-thursday-at-crypto-com</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/los-angeles-activities/kobe-bryant-statue-to-be-unveiled-thursday-at-crypto-com">Save to Pocket</a>
 </span>
 
 ---
@@ -930,7 +1083,7 @@ Students living on the Hill and in university apartments reported dissatisfactio
 
 ---
 
-## Dark Star Orchestra revives band The Grateful Dead at The Wiltern
+## Gallery: Dark Star Orchestra revives band The Grateful Dead at The Wiltern
 
 date: 2024-02-06, from: The Daily Bruin (UCLA Student Newspaper)
 

@@ -1,11 +1,76 @@
 ---
 title: writing 2024.06
-updated: 2024-02-07 21:29:01
+updated: 2024-02-08 09:20:18
 ---
 
 # writing 2024.06
 
-(date: 2024-02-07 21:29:01)
+(date: 2024-02-08 09:20:18)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-08, from: Neil Gaiman @ BlueSky)
+
+Really excited to read this.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkw7vhwbgq2c">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkw7vhwbgq2c</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkw7vhwbgq2c">Save to Pocket</a>
+</span>
+
+---
+
+## The Year in Review 2023 by Ian Mond
+
+date: 2024-02-08, from: Locus Magazine
+
+<p><strong>2023 in Review: Best. (Reading). Year. Ever.</strong></p>
+<p>I’ve remarked on the book-lag I experienced since the COVID lockdown, which saw my reading drop off a steep cliff. In 2023, I’ve felt more like my book-loving self, reading close to 90 books (compared to 60 last year). It helps that this has been an extraordinary year for fiction, the best I’ve experienced since penning reviews for Locus. I’m aware recency bias  <a href="https://locusmag.com/2024/02/the-year-in-review-2023-by-ian-mond/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/the-year-in-review-2023-by-ian-mond/">https://locusmag.com/2024/02/the-year-in-review-2023-by-ian-mond/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/the-year-in-review-2023-by-ian-mond/">Save to Pocket</a>
+</span>
+
+---
+
+## From the 2023 Recommended Reading List: I AM AI  by Ai Jiang
+
+date: 2024-02-08, from: Locus Magazine
+
+<p><strong>Here&#8217;s a highlight from our 2023 Recommended Reading List:</strong> <b>I AM AI</b> by Ai Jiang, out from Shortwave Media.</p>
+<p>“Moving, brilliant, and certified 100% human.”
+<strong>–Samit Basu, author of Turbulence</strong></p>
+<p>If you have the opportunity to give up humanity for efficiency, mechanical invincibility, and to surpass human limitations. . . would you?</p>
+<p>Ai is a cyborg, under the guise of an AI writing program, who struggles to keep up with  <a href="https://locusmag.com/2024/02/from-the-2023-recommended-reading-list-i-am-ai-by-ai-jiang/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/from-the-2023-recommended-reading-list-i-am-ai-by-ai-jiang/">https://locusmag.com/2024/02/from-the-2023-recommended-reading-list-i-am-ai-by-ai-jiang/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/from-the-2023-recommended-reading-list-i-am-ai-by-ai-jiang/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-08, from: Neil Gaiman @ BlueSky)
+
+I even got to read filthy Restoration Poetry on Betwixt The Sheets: https://access.historyhit.com/betwixt-the-sheets/videos/btsrochester
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkvyunstt522">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkvyunstt522</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkvyunstt522">Save to Pocket</a>
+</span>
+
+---
+
+## The French Revvie, Part V: Off With Her Head!
+
+date: 2024-02-08, from: Margaret Atwoods Substack
+
+You thought the "Left" was always in favour of the Rights of Women? Not in the French Revvie.
+
+<span class="feed-item-link">
+<a href="https://margaretatwood.substack.com/p/the-french-revvie-part-v-off-with">https://margaretatwood.substack.com/p/the-french-revvie-part-v-off-with</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://margaretatwood.substack.com/p/the-french-revvie-part-v-off-with">Save to Pocket</a>
+</span>
 
 ---
 

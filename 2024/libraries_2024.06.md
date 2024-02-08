@@ -1,11 +1,49 @@
 ---
 title: libraries 2024.06
-updated: 2024-02-07 21:29:01
+updated: 2024-02-08 09:20:18
 ---
 
 # libraries 2024.06
 
-(date: 2024-02-07 21:29:01)
+(date: 2024-02-08 09:20:18)
+
+---
+
+## Guest Post — Improving Research Assessment One Tool at a Time: An Interview with Euan Adie of Overton
+
+date: 2024-02-08, from: Scholarly Kitchen
+
+<p>How can we measure the impact of research papers on influencing public policy? An interview with Euan Adie of Overton.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/08/guest-post-improving-research-assessment-one-tool-at-a-time-interview-with-euan-adie-of-overton/">Guest Post &#8212; Improving Research Assessment One Tool at a Time: An Interview with Euan Adie of Overton</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/08/guest-post-improving-research-assessment-one-tool-at-a-time-interview-with-euan-adie-of-overton/">https://scholarlykitchen.sspnet.org/2024/02/08/guest-post-improving-research-assessment-one-tool-at-a-time-interview-with-euan-adie-of-overton/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/08/guest-post-improving-research-assessment-one-tool-at-a-time-interview-with-euan-adie-of-overton/">Save to Pocket</a>
+</span>
+
+---
+
+## Research Collection only partially available
+
+date: 2024-02-08, from: ETH Zurich Research Archives
+
+Currently there are problems with the Research Collection.We are working urgently on solving the problem. Thank you for your understanding. If you have any questions, please contact research-collection@library.ethz.ch.<img src="https://analytics.library.ethz.ch/piwik.php?idsite=1&amp;rec=1&amp;url=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Fresearch-collection-only-partially-available%2F&amp;action_name=Research+Collection+only+partially+available&amp;urlref=https%3A%2F%2Frc-blog.ethz.ch%2Fen%2Ffeed%2F" style="border:0;width:0;height:0" width="0" height="0" alt="" />
+
+<span class="feed-item-link">
+<a href="https://rc-blog.ethz.ch/en/research-collection-only-partially-available/">https://rc-blog.ethz.ch/en/research-collection-only-partially-available/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://rc-blog.ethz.ch/en/research-collection-only-partially-available/">Save to Pocket</a>
+</span>
+
+---
+
+## Replication Data for White Paper on Acceptance of Swiss Urban Densification
+
+date: 2024-02-08, from: ETH Zurich, recently added
+
+Wicki, Michael; Wehr, Malte; Kaufmann, David
+
+<span class="feed-item-link">
+<a href="http://hdl.handle.net/20.500.11850/658389">http://hdl.handle.net/20.500.11850/658389</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/658389">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +51,7 @@ updated: 2024-02-07 21:29:01
 
 date: 2024-02-07, from: Standard Ebooks, new releaases
 
-An arrogant young author makes his way through a series love affairs, avoiding every situation that may cause unpleasantness.
+An arrogant young author makes his way through a series of love affairs, avoiding every situation that may cause unpleasantness.
 
 <span class="feed-item-link">
 <a href="https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity">https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity">Save to Pocket</a>

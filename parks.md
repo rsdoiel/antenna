@@ -1,11 +1,11 @@
 ---
 title: parks 2024.06
-updated: 2024-02-07 21:29:01
+updated: 2024-02-08 09:20:18
 ---
 
 # parks 2024.06
 
-(date: 2024-02-07 21:29:01)
+(date: 2024-02-08 09:20:18)
 
 ---
 
@@ -236,6 +236,238 @@ date: 2024-02-07, from: Bureau of Land Management, blog
 
 <span class="feed-item-link">
 <a href="https://www.blm.gov/blog/2024-02-07/blm-lcdo-contracted-botanist-institute-applied-ecology">https://www.blm.gov/blog/2024-02-07/blm-lcdo-contracted-botanist-institute-applied-ecology</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-07/blm-lcdo-contracted-botanist-institute-applied-ecology">Save to Pocket</a>
+</span>
+
+---
+
+## AIM-ing High in the Chihuahuan Desert
+
+date: 2024-02-07, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>AIM-ing High in the Chihuahuan Desert</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a54b6e25-944e-4f12-a322-5e90a9067809" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/lcdo-aim-crew-nm-2023-1.jpg?itok=VT1ek9ZM" width="640" height="480" alt="Institute for Applied Ecology Botanist Liz Plazewski teaches about the common Chihuahuan Desert shrub Flourensia Cernua to (Left to right) crew members Colin McKenzie, crew lead Marco Donoso, U.S. Geological Service contractor Gayle Tyree, and crew member Robbie Leonard." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Institute for Applied Ecology Botanist Liz Plazewski teaches about the common Chihuahuan Desert shrub Flourensia Cernua to (Left to right) crew members Colin McKenzie, crew lead Marco Donoso, U.S. Geological Service contractor Gayle Tyree, and crew member Robbie Leonard.</figcaption>
+</figure>
+
+
+<p>Every summer, in the heat of the desert, field crews gather in Las Cruces, New Mexico to begin a season of ecological landscape monitoring. These field crews congregate to implement the Bureau of Land Management’s Assessment, Inventory, and Monitoring (BLM, AIM) strategy out of the BLM Las Cruces District Office (LCDO). Institute for Applied Ecology Southwest Botanist, Liz Plazewski, currently acts as the Project Lead for the Las Cruces Terrestrial AIM Crews. Liz has completed several seasons of AIM training and mentoring the crews throughout their field season.</p>
+
+<p>The AIM strategy consists of collecting detailed landscape and vegetation data across various ecological sites on BLM-managed land. Field crews collect their data via a series of standardized methodologies and randomized plot locations. The methodologies include (1) recording vegetation cover and soil surface data through line point intercept, (2) determining ecological site from digging and texturing a soil pit, and (3) notating a complete vascular vegetation composition through species inventory, to name a few. After many levels of quality control and quality assurance, each year’s data is published to be used, summarized, and analyzed. AIM data, since it is collected on public lands, is primarily used by the BLM but is accessible to the public as well. For more information on the AIM strategy and for access to the public data portal, visit blm.gov/aim.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="f0942f95-d1d2-4d71-bc4f-e750e469752e" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/lcdo-aim-crew-nm-2023-2.jpg?itok=pfOkMPbT" width="640" height="479" alt="Crew member Colin McKenzie and Crew Lead Marco Donoso collecting data using the line point intercept method." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Crew member Colin McKenzie and Crew Lead Marco Donoso collecting data using the line point intercept method.</figcaption>
+</figure>
+
+
+<p>This past 2023 field season, from July through December, LCDO hosted two AIM field crews consisting of two crew members and one crew lead. The crews successfully completed 76 plots distributed across the District in Hidalgo, Grant, Luna, Sierra, Doña Ana, and Otero counties of southern New Mexico.</p>
+
+<p>When asked about her highlight of the field season, crew member Alaine Quinn shared, “All of the cool places we went to. It was fun being out in the middle of nowhere. With our work as an AIM crew, we travelled to such remote areas, and gained a deeper understanding of the landscape.”</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="772e26a7-8806-4c36-9124-d2771373eddf" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/lcdo-aim-crew-nm-2023-3.jpg?itok=1QJj63Rr" width="640" height="480" alt="The BLM LCDO 2023 AIM Crew #3 (from left to right) Alaine Quinn, Pilar Fuentes, and Colin McKenzie." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>The BLM LCDO 2023 AIM Crew #3 (from left to right) Alaine Quinn, Pilar Fuentes, and Colin McKenzie.</figcaption>
+</figure>
+
+
+<p>Crew Lead Pilar Fuentes felt AIM was important in many ways, especially when it comes to building communal connections, “Oftentimes we are the only people that ranch workers interact with from the BLM, since their ranches are so remote. I feel the work we are doing further strengthens the relationship between stakeholders and the government.”  </p>
+
+<p>The crewpersons reflected on their season, “I learned a lot about how to identify plants without flowers—looking at nodes, collars, growth patterns. . . I increased my botany skills, for sure,” said Fuentes. Quinn added, “It was a great field experience. We learned so many different field methods and protocols—many useful skills that are important as I head towards a natural resources career.”</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="5c043b27-982f-4ba4-8cc1-df439a9b63f7" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/lcdo-aim-crew-nm-2023-4.jpg?itok=qnKAEuWb" width="640" height="349" alt="The BLM LCDO 2023 AIM Crew #4 (from left to right) Robbie Leonard, Marco Donoso, and Neil Hooker." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>The BLM LCDO 2023 AIM Crew #4 (from left to right) Robbie Leonard, Marco Donoso, and Neil Hooker.</figcaption>
+</figure>
+
+
+<p>As the 2023 field season wrapped up, the LCDO immediately began to plan and prepare for 2024 season. The District currently has eight seasons of Terrestrial AIM field data collected, a total of 1,035 plots sampled with 171 of those resampled to monitor the change in the landscape over time. Although it is still being planned and mapped out, the 2024 field season is expected to involve more resampling around the month of May.  A very special thanks to the Southwest Conservation Corps, who employs the New Mexico AIM crews, and the Las Cruces and New Mexico State BLM for the support for this program.</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/las-cruces-do" hreflang="en">Las Cruces DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/resources" hreflang="en">Resources</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-02-07T12:00:00Z">Wed, 02/07/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/las-cruces-district-office" hreflang="en">Las Cruces District Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46726/edit" hreflang="en">lcdo-aim-crew-nm-2023-1.</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/assessment-inventory-and-monitoring" hreflang="en">Assessment, Inventory, and Monitoring</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/new-mexico" hreflang="en">New Mexico</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46726/edit" hreflang="en">lcdo-aim-crew-nm-2023-1.</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-02-07/aim-ing-high-chihuahuan-desert">https://www.blm.gov/blog/2024-02-07/aim-ing-high-chihuahuan-desert</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-07/aim-ing-high-chihuahuan-desert">Save to Pocket</a>
 </span>
 
 ---

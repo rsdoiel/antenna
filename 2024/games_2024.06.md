@@ -1,11 +1,119 @@
 ---
 title: games 2024.06
-updated: 2024-02-07 21:29:01
+updated: 2024-02-08 09:20:18
 ---
 
 # games 2024.06
 
-(date: 2024-02-07 21:29:01)
+(date: 2024-02-08 09:20:18)
+
+---
+
+## VTuber Doki speaks out after Nijisanji’s Selen Tatsuki termination, industry backlash
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24065311/vtuber-selen-tatsuki-nijisanji-termination-dokibird">https://www.polygon.com/24065311/vtuber-selen-tatsuki-nijisanji-termination-dokibird</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24065311/vtuber-selen-tatsuki-nijisanji-termination-dokibird">Save to Pocket</a>
+</span>
+
+---
+
+## GTA Online update for the week of Feb. 8
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events">https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events">Save to Pocket</a>
+</span>
+
+---
+
+## Best RAM-9 loadout, class build in Modern Warfare 3
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/modern-warfare-3-guides/24066081/best-ram-9-loadout-class-build-mw3">https://www.polygon.com/modern-warfare-3-guides/24066081/best-ram-9-loadout-class-build-mw3</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/modern-warfare-3-guides/24066081/best-ram-9-loadout-class-build-mw3">Save to Pocket</a>
+</span>
+
+---
+
+## Best BP50 loadout, class build in Modern Warfare 3
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/modern-warfare-3-guides/24066108/best-bp50-loadout-class-build-mw3">https://www.polygon.com/modern-warfare-3-guides/24066108/best-bp50-loadout-class-build-mw3</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/modern-warfare-3-guides/24066108/best-bp50-loadout-class-build-mw3">Save to Pocket</a>
+</span>
+
+---
+
+## 7 demos to try before Steam Next Fest 2024 ends
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/what-to-play/2024/2/8/24055980/steam-next-fest-february-2024-best-game-demos">https://www.polygon.com/what-to-play/2024/2/8/24055980/steam-next-fest-february-2024-best-game-demos</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/what-to-play/2024/2/8/24055980/steam-next-fest-february-2024-best-game-demos">Save to Pocket</a>
+</span>
+
+---
+
+## Not sure what movie to watch this weekend? Let us help
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/2/8/24062508/best-movies-to-watch-this-weekend">https://www.polygon.com/2024/2/8/24062508/best-movies-to-watch-this-weekend</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/2/8/24062508/best-movies-to-watch-this-weekend">Save to Pocket</a>
+</span>
+
+---
+
+## Knuckles’ new TV show expands the Sonic the Hedgehog cinematic universe
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24065955/sonic-knuckles-tv-series-paramount-plus">https://www.polygon.com/24065955/sonic-knuckles-tv-series-paramount-plus</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24065955/sonic-knuckles-tv-series-paramount-plus">Save to Pocket</a>
+</span>
+
+---
+
+## Palia’s second swing at the Maji Market is much more successful
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/24063951/palia-maji-market-luna-new-year-returns-better">https://www.polygon.com/gaming/24063951/palia-maji-market-luna-new-year-returns-better</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/24063951/palia-maji-market-luna-new-year-returns-better">Save to Pocket</a>
+</span>
+
+---
+
+## Halo season 2’s opening minutes are the best the show has ever been
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24063790/halo-season-2-episode-1-review-master-chief-arbiter-sanctuary">https://www.polygon.com/24063790/halo-season-2-episode-1-review-master-chief-arbiter-sanctuary</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24063790/halo-season-2-episode-1-review-master-chief-arbiter-sanctuary">Save to Pocket</a>
+</span>
 
 ---
 

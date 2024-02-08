@@ -1,11 +1,59 @@
 ---
 title: motorcycles 2024.06
-updated: 2024-02-07 21:29:01
+updated: 2024-02-08 09:20:18
 ---
 
 # motorcycles 2024.06
 
-(date: 2024-02-07 21:29:01)
+(date: 2024-02-08 09:20:18)
+
+---
+
+## Anti-Noise Crusaders In Paris Want A Partial Motorcycle Ban
+
+date: 2024-02-08, from: Ride Apart, Electric Motorcycle News
+
+It's just the latest battle over combustion-powered two-wheelers in the French capital.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707970/paris-motorcycle-scooter-ban-noise/">https://www.rideapart.com/news/707970/paris-motorcycle-scooter-ban-noise/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707970/paris-motorcycle-scooter-ban-noise/">Save to Pocket</a>
+</span>
+
+---
+
+## E-Bike Brand Velo De Ville Has Four New Models For The 2024 Riding Season
+
+date: 2024-02-08, from: Ride Apart, Electric Motorcycle News
+
+Cruise around in style with these premium urban runabouts. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707841/velo-de-ville-2024-ebikes-launch-europe/">https://www.rideapart.com/news/707841/velo-de-ville-2024-ebikes-launch-europe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707841/velo-de-ville-2024-ebikes-launch-europe/">Save to Pocket</a>
+</span>
+
+---
+
+## CFMoto Ibex 450 Ventures Into The US Market
+
+date: 2024-02-08, from: Ride Apart, Electric Motorcycle News
+
+It’s scheduled for availability in the fall of 2024. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707839/cfmoto-ibex450-launch-usa/">https://www.rideapart.com/news/707839/cfmoto-ibex450-launch-usa/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707839/cfmoto-ibex450-launch-usa/">Save to Pocket</a>
+</span>
+
+---
+
+## Yamaha Invests In EV Startup River To Boost Presence In India
+
+date: 2024-02-08, from: Ride Apart, Electric Motorcycle News
+
+The move is part of Yamaha’s goal of achieving carbon-neutrality by 2050. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/707838/yamaha-invests-river-electric-scooters-india/">https://www.rideapart.com/news/707838/yamaha-invests-river-electric-scooters-india/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/707838/yamaha-invests-river-electric-scooters-india/">Save to Pocket</a>
+</span>
 
 ---
 

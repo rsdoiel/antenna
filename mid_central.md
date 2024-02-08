@@ -1,11 +1,25 @@
 ---
 title: mid central 2024.06
-updated: 2024-02-07 21:29:00
+updated: 2024-02-08 09:20:18
 ---
 
 # mid central 2024.06
 
-(date: 2024-02-07 21:29:00)
+(date: 2024-02-08 09:20:18)
+
+---
+
+## Parsing PWM (DAC) performance: Part 2—Rail-to-rail outputs
+
+date: 2024-02-08, from: EDN Blog
+
+<img width="514" height="213" src="https://www.edn.com/wp-content/uploads/Figure-5_ParsingPWMPart2.png?fit=514%2C213" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-5_ParsingPWMPart2.png?w=514 514w, https://www.edn.com/wp-content/uploads/Figure-5_ParsingPWMPart2.png?w=300 300w" sizes="(max-width: 514px) 100vw, 514px" /><p>Different approaches for producing DACs with voltage swings that encompass supply rails.</p>
+<p>The post <a href="https://www.edn.com/parsing-pwm-dac-performance-part-2-rail-to-rail-outputs/" data-wpel-link="internal">Parsing PWM (DAC) performance: Part 2—Rail-to-rail outputs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/parsing-pwm-dac-performance-part-2-rail-to-rail-outputs/">https://www.edn.com/parsing-pwm-dac-performance-part-2-rail-to-rail-outputs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/parsing-pwm-dac-performance-part-2-rail-to-rail-outputs/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -37,7 +51,7 @@ As Fresno continues to expand, many new businesses have begun to arise. Newly op
 
 date: 2024-02-08, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-Fresno State went on the road against Mountain West opponent San Jose State and won by a decisive score of 69-57.  Fresno State’s guard Xavier DuSell led the team in scoring with 23 points after scoring a career-high with six 3-pointers.  The final score, however, was no indication of how the game went for the...
+Fresno State went on the road against Mountain West opponent San Jose State and won by a decisive score of 69-57 on Feb. 6 at the Provident Credit Union Event Center.   Fresno State’s guard Xavier DuSell led the team in scoring with 23 points after scoring a career-high with six 3-pointers.  The final score, however,...
 
 <span class="feed-item-link">
 <a href="https://fscollegian.com/2024/02/guard-xavier-dusell-shoots-dogs-to-victory/">https://fscollegian.com/2024/02/guard-xavier-dusell-shoots-dogs-to-victory/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/guard-xavier-dusell-shoots-dogs-to-victory/">Save to Pocket</a>
@@ -63,7 +77,7 @@ date: 2024-02-07, from: Blue Devil News (Merced Community College Student Newspa
 
 date: 2024-02-07, from: EDN Blog
 
-<img width="547" height="308" src="https://www.edn.com/wp-content/uploads/Neon-Lamp-Blunder-1.png?fit=547%2C308" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Neon-Lamp-Blunder-1.png?w=547 547w, https://www.edn.com/wp-content/uploads/Neon-Lamp-Blunder-1.png?w=300 300w" sizes="(max-width: 547px) 100vw, 547px" /><p>Uncovering the culprit behind the “always on” neon lamps in equipment racks that were meant to house various pieces of test equipment.</p>
+<img width="547" height="308" src="https://www.edn.com/wp-content/uploads/Neon-Lamp-Blunder-1.png?fit=547%2C308" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Neon-Lamp-Blunder-1.png?w=547 547w, https://www.edn.com/wp-content/uploads/Neon-Lamp-Blunder-1.png?w=300 300w" sizes="(max-width: 547px) 100vw, 547px" /><p>Uncovering the culprit behind the “always on” neon lamps in equipment racks that were meant to house various pieces of test equipment.</p>
 <p>The post <a href="https://www.edn.com/neon-lamp-blunder/" data-wpel-link="internal">Neon lamp blunder</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 
