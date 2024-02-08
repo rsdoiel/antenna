@@ -1,11 +1,677 @@
 ---
 title: socal north 2024.06
-updated: 2024-02-06 05:55:48
+updated: 2024-02-07 21:29:00
 ---
 
 # socal north 2024.06
 
-(date: 2024-02-06 05:55:48)
+(date: 2024-02-07 21:29:00)
+
+---
+
+## UCLA men’s basketball scores 11 times from beyond the arc to defeat Stanford
+
+date: 2024-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins and Cardinal faced off inside Pauley Pavilion just over a month ago.
+UCLA scored 53 points in its first conference home loss in front of fans since January 2020 and then lost again three days later for its first winless homestand against the Bay Area schools in nearly two decades.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/07/ucla-mens-basketball-scores-11-times-from-beyond-the-arc-to-defeat-stanford/">https://dailybruin.com/2024/02/07/ucla-mens-basketball-scores-11-times-from-beyond-the-arc-to-defeat-stanford/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/07/ucla-mens-basketball-scores-11-times-from-beyond-the-arc-to-defeat-stanford/">Save to Pocket</a>
+</span>
+
+---
+
+## Children rally for a ceasefire in Gaza
+
+date: 2024-02-08, from: The Sundail (CSUN Student Newspaper)
+
+Nearly 400 people gathered at Oceanview Park in Santa Monica to rally for an immediate and permanent ceasefire in Gaza. The event was led by Palestinian-American kids and teens in...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178243/multimedia/watch/children-rally-for-a-ceasefire-in-gaza/">https://sundial.csun.edu/178243/multimedia/watch/children-rally-for-a-ceasefire-in-gaza/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178243/multimedia/watch/children-rally-for-a-ceasefire-in-gaza/">Save to Pocket</a>
+</span>
+
+---
+
+## Huntington Beach Librarians Begin Reviewing Kids’ Books For 'Sexual Content'
+
+date: 2024-02-08, updated: 2024-02-08, from: The LAist
+
+Librarians moved books out of the children's section Wednesday to comply with a city council resolution to restrict access to books deemed to have sexual content. Some of the books are about subjects such as puberty.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/huntington-beach-library-sexual-content-review">https://laist.com/news/politics/huntington-beach-library-sexual-content-review</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/huntington-beach-library-sexual-content-review">Save to Pocket</a>
+</span>
+
+---
+
+## Dominic Choi receives appointment to serve as interim chief of LAPD
+
+date: 2024-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dominic Choi was appointed as interim chief of the Los Angeles Police Department on Wednesday.
+Choi will assume the position March 1 and will be the first Asian American to lead the LAPD.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/07/dominic-choi-receives-appointment-to-serve-as-interim-chief-of-lapd/">https://dailybruin.com/2024/02/07/dominic-choi-receives-appointment-to-serve-as-interim-chief-of-lapd/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/07/dominic-choi-receives-appointment-to-serve-as-interim-chief-of-lapd/">Save to Pocket</a>
+</span>
+
+---
+
+## Chicanx/Latinx Living Learning Community celebrates Noche de Cultura
+
+date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Tables of food, booths showcasing campus resources and music filled Sunset Village Plaza on Wednesday as part of Noche de Cultura.
+Hosted by the Chicanx/Latinx Living Learning Community, the event aimed to celebrate and educate attendees about Latin American culture and history, according to an emailed statement from the LLC.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/07/chicanx-latinx-living-learning-community-celebrates-noche-de-cultura/">https://dailybruin.com/2024/02/07/chicanx-latinx-living-learning-community-celebrates-noche-de-cultura/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/07/chicanx-latinx-living-learning-community-celebrates-noche-de-cultura/">Save to Pocket</a>
+</span>
+
+---
+
+## Interim LAPD Chief Picked To Replace Michel Moore
+
+date: 2024-02-07, updated: 2024-02-07, from: The LAist
+
+The interim appointment of Dominic H. Choi, a longtime LAPD veteran, comes less than a month after outgoing chief Michel Moore announced his retirement.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/criminal-justice/interim-lapd-chief-named">https://laist.com/news/criminal-justice/interim-lapd-chief-named</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/criminal-justice/interim-lapd-chief-named">Save to Pocket</a>
+</span>
+
+---
+
+## Your Guide To Coaxing Your Pooch To Poop Next Time A Once-In-A-Century Storm Hits
+
+date: 2024-02-07, updated: 2024-02-07, from: The LAist
+
+From doggie accessories to training tips before the next big storm, we've got you covered.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/your-guide-to-coaxing-your-pooch-to-poop-next-time-a-once-in-a-century-storm-hits">https://laist.com/news/climate-environment/your-guide-to-coaxing-your-pooch-to-poop-next-time-a-once-in-a-century-storm-hits</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/your-guide-to-coaxing-your-pooch-to-poop-next-time-a-once-in-a-century-storm-hits">Save to Pocket</a>
+</span>
+
+---
+
+## Housing Advocates Sue City Of LA Again For Denying Affordable Housing Near Single-Family Homes
+
+date: 2024-02-07, updated: 2024-02-07, from: The LAist
+
+A pro-housing group has filed a second lawsuit challenging the city’s retroactive ban of fast-tracked affordable housing in lower-density neighborhoods.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/los-angles-city-ed1-yimby-law-lawsuit-wilbur-reseda-affordable-housing-single-family-mayor-bass">https://laist.com/news/housing-homelessness/los-angles-city-ed1-yimby-law-lawsuit-wilbur-reseda-affordable-housing-single-family-mayor-bass</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/los-angles-city-ed1-yimby-law-lawsuit-wilbur-reseda-affordable-housing-single-family-mayor-bass">Save to Pocket</a>
+</span>
+
+---
+
+## SoCal Coastline Erodes During Heavy Storm, Delaying Trains
+
+date: 2024-02-07, updated: 2024-02-07, from: The LAist
+
+Our coastline is susceptible to erosion especially during heavy rains.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/coastal-erosive-storms-pch-train-delays">https://laist.com/news/climate-environment/coastal-erosive-storms-pch-train-delays</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/coastal-erosive-storms-pch-train-delays">Save to Pocket</a>
+</span>
+
+---
+
+## What did the students think of the CSU strike and its quick end?
+
+date: 2024-02-07, from: The Sundail (CSUN Student Newspaper)
+
+Last week, thousands of California State University students were left confused and disappointed after the supposed five-day strike ended after its first day. The system-wide strike took place last Monday,...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178232/news/what-did-the-students-think-of-the-csu-strike-and-its-quick-end/">https://sundial.csun.edu/178232/news/what-did-the-students-think-of-the-csu-strike-and-its-quick-end/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178232/news/what-did-the-students-think-of-the-csu-strike-and-its-quick-end/">Save to Pocket</a>
+</span>
+
+---
+
+## Digitizing the Past: Videographer Archives Northridge Earthquake Footage
+
+date: 2024-02-07, from: The Sundail (CSUN Student Newspaper)
+
+George Johnson is no stranger to earthquakes. He grew up all over the San Fernando Valley, moving from West Hills to Northridge to Mission Hills and back to Northridge again....
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178141/print-editions/print-stories/digitizing-the-past-videographer-archives-northridge-earthquake-footage/">https://sundial.csun.edu/178141/print-editions/print-stories/digitizing-the-past-videographer-archives-northridge-earthquake-footage/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178141/print-editions/print-stories/digitizing-the-past-videographer-archives-northridge-earthquake-footage/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA softball shakes off last season, readies up for Friday’s season opener
+
+date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins will begin a new season at Easton Stadium this weekend following a difficult end to 2023. 
+&#8220;There were a lot of things that I felt during that time and a lot of things I had to get through in order to say, &#8216;I&#8217;m okay now,'&#8221; said sophomore utility Megan Grant.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/07/ucla-softball-shakes-off-last-seasons-losses-readies-up-for-friday-season-opener/">https://dailybruin.com/2024/02/07/ucla-softball-shakes-off-last-seasons-losses-readies-up-for-friday-season-opener/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/07/ucla-softball-shakes-off-last-seasons-losses-readies-up-for-friday-season-opener/">Save to Pocket</a>
+</span>
+
+---
+
+## Dorm Sleepover
+
+date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/07/dorm-sleepover/">https://dailybruin.com/2024/02/07/dorm-sleepover/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/07/dorm-sleepover/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘We can’t let our guard down’: UCLA men’s tennis to play Loyola Marymount at home
+
+date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins are readjusting to familiar territory amid Westwood&#8217;s acclimation to recent rainfall.
+After traveling the midwest and east for nearly three weeks, UCLA men&#8217;s tennis (2-2) is returning to Westwood for an outdoor matchup against Loyola Marymount (2-0) at the Los Angeles Tennis Center.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/07/we-cant-let-our-guard-down-ucla-mens-tennis-to-play-loyola-marymount-at-home/">https://dailybruin.com/2024/02/07/we-cant-let-our-guard-down-ucla-mens-tennis-to-play-loyola-marymount-at-home/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/07/we-cant-let-our-guard-down-ucla-mens-tennis-to-play-loyola-marymount-at-home/">Save to Pocket</a>
+</span>
+
+---
+
+## Letter to the Editor: Settler Colonialism Cannot Explain Israel. Worse, It Cannot Promote Peace
+
+date: 2024-02-07, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Some of my colleagues write in their Letter to the Editor (LTE) of Nov. 15, 2023 that I am wrong to claim, in my reservations about their “Statement of Concern” (SOC), that settler colonial theory as applied to Israel is both inaccurate and dangerous. I agree with much that is in the LTE and I [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2024/02/07/letter-to-the-editor-settler-colonialism-cannot-explain-israel-worse-it-cannot-promote-peace/2910906">Letter to the Editor: Settler Colonialism Cannot Explain Israel. Worse, It Cannot Promote Peace</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/opinions/2024/02/07/letter-to-the-editor-settler-colonialism-cannot-explain-israel-worse-it-cannot-promote-peace/2910906">https://theoccidentalnews.com/opinions/2024/02/07/letter-to-the-editor-settler-colonialism-cannot-explain-israel-worse-it-cannot-promote-peace/2910906</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/opinions/2024/02/07/letter-to-the-editor-settler-colonialism-cannot-explain-israel-worse-it-cannot-promote-peace/2910906">Save to Pocket</a>
+</span>
+
+---
+
+## College hosts Interfaith America
+
+date: 2024-02-07, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Interfaith America, an organization that works with both secular and religious colleges to solve challenges with interfaith cooperation, hosted listening sessions at Occidental College Jan. 25-26 “to provide neutral and welcoming spaces for reflection on campus tensions, and to promote bridge-building through facilitated dialogue,” according to an email addressed to all Occidental students. Sent Jan.16, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/uncategorized/2024/02/07/college-hosts-interfaith-america/2910925">College hosts Interfaith America</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/uncategorized/2024/02/07/college-hosts-interfaith-america/2910925">https://theoccidentalnews.com/uncategorized/2024/02/07/college-hosts-interfaith-america/2910925</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/uncategorized/2024/02/07/college-hosts-interfaith-america/2910925">Save to Pocket</a>
+</span>
+
+---
+
+## The billion dollar solution: how the Dodgers’ historic spending spree could revive baseball
+
+date: 2024-02-07, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>For generations, people have fantasized about the assembly of a super team. From the Greek gods congregating on Mount Olympus to the formation of Marvel’s Avengers, it’s safe to say that the idea of a super team in some medium has crossed most people’s minds at least once. For thousands of years, such ideas have [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/02/07/the-billion-dollar-solution-how-the-dodgers-historic-spending-spree-could-revive-baseball/2910895">The billion dollar solution: how the Dodgers&#8217; historic spending spree could revive baseball</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/sports/2024/02/07/the-billion-dollar-solution-how-the-dodgers-historic-spending-spree-could-revive-baseball/2910895">https://theoccidentalnews.com/sports/2024/02/07/the-billion-dollar-solution-how-the-dodgers-historic-spending-spree-could-revive-baseball/2910895</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/sports/2024/02/07/the-billion-dollar-solution-how-the-dodgers-historic-spending-spree-could-revive-baseball/2910895">Save to Pocket</a>
+</span>
+
+---
+
+## Demystifying Raftr, the new community engagement app
+
+date: 2024-02-07, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>After launching Aug. 2023, Raftr, an app used to strengthen and track community engagement in higher education, labor unions and nonprofit, boasts a 75 percent adoption rate, according to Sabrina Willison, the associate director of Student Leadership, Involvement, and Community Engagement (SLICE). However, Raftr is primarily being used by the class of 2027 who were [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/uncategorized/2024/02/07/demystifying-raftr-the-new-community-engagement-app/2910915">Demystifying Raftr, the new community engagement app</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/uncategorized/2024/02/07/demystifying-raftr-the-new-community-engagement-app/2910915">https://theoccidentalnews.com/uncategorized/2024/02/07/demystifying-raftr-the-new-community-engagement-app/2910915</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/uncategorized/2024/02/07/demystifying-raftr-the-new-community-engagement-app/2910915">Save to Pocket</a>
+</span>
+
+---
+
+## SoCal record storm drenches college
+
+date: 2024-02-07, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Feb. 4 California Gov. Gavin Newsom announced that eight Southern California counties were in a state of emergency as a result of incoming storms, according to the Los Angeles Times. The newspaper outlet said the storm started Sunday afternoon, and is expected to last through Tuesday — potentially dropping at least eight inches of rain [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/02/07/socal-record-storm-drenches-college/2910893">SoCal record storm drenches college</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/news/2024/02/07/socal-record-storm-drenches-college/2910893">https://theoccidentalnews.com/news/2024/02/07/socal-record-storm-drenches-college/2910893</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/news/2024/02/07/socal-record-storm-drenches-college/2910893">Save to Pocket</a>
+</span>
+
+---
+
+## L.A. Al Fresco is here to stay
+
+date: 2024-02-07, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The city of Los Angeles launched L.A. Al Fresco in May 2020, a temporary program which allowed restaurants to have outdoor dining amid the COVID-19 pandemic. Restaurants could obtain permits for outdoor dining on sidewalks, private property and the streets next to their business. As of Feb. 1, L.A. Al Fresco is no longer temporary [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/02/07/l-a-al-fresco-is-here-to-stay/2910949">L.A. Al Fresco is here to stay</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/community/2024/02/07/l-a-al-fresco-is-here-to-stay/2910949">https://theoccidentalnews.com/community/2024/02/07/l-a-al-fresco-is-here-to-stay/2910949</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/community/2024/02/07/l-a-al-fresco-is-here-to-stay/2910949">Save to Pocket</a>
+</span>
+
+---
+
+## Eagle Rock responds to council approval of increased LAPD foot patrol
+
+date: 2024-02-07, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Between Dec. 28 and Jan. 6, four small businesses along Colorado Boulevard fell victim to burglaries, prompting Council member Kevin de León to approve a $100,000 budget to enhance foot patrolling in the Eagle Rock neighborhood. Malbec Market, an Argentinian restaurant and market with locations in Eagle Rock and Pasadena, recently suffered a break-in Jan. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/02/07/eagle-rock-responds-to-council-approval-of-increased-lapd-foot-patrol/2910947">Eagle Rock responds to council approval of increased LAPD foot patrol</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/community/2024/02/07/eagle-rock-responds-to-council-approval-of-increased-lapd-foot-patrol/2910947">https://theoccidentalnews.com/community/2024/02/07/eagle-rock-responds-to-council-approval-of-increased-lapd-foot-patrol/2910947</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/community/2024/02/07/eagle-rock-responds-to-council-approval-of-increased-lapd-foot-patrol/2910947">Save to Pocket</a>
+</span>
+
+---
+
+## Occidental Glee Club returns from Italy
+
+date: 2024-02-07, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Three days a week, the voices of 37 students harmonize and travel through Booth Hall; but just a few weeks ago, the enchanting sound echoed through the halls of Italian churches and cathedrals, according to the Director of Choral and Vocal Activities Désirée LaVertu. Since 1906, the Glee Club has been one of Occidental’s musical [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/02/07/occidental-glee-club-returns-from-italy/2910943">Occidental Glee Club returns from Italy</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/culture/2024/02/07/occidental-glee-club-returns-from-italy/2910943">https://theoccidentalnews.com/culture/2024/02/07/occidental-glee-club-returns-from-italy/2910943</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/culture/2024/02/07/occidental-glee-club-returns-from-italy/2910943">Save to Pocket</a>
+</span>
+
+---
+
+## Ainsley Shelsta and Lou Martineau are starting the semester strong
+
+date: 2024-02-07, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Ainsley Shelsta Following a 72-54 win against the University of La Verne Saturday Jan. 27, women’s basketball team center Ainsley Shelsta (sophomore) said that she&#8217;s confident in her team’s ability to make it to the post-season tournament, despite a previous loss to La Verne earlier in the season. Shelsta said that the game was very close but she came away [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/02/07/ainsley-shelsta-and-lou-martineau-are-starting-the-semester-strong/2910888">Ainsley Shelsta and Lou Martineau are starting the semester strong</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/sports/2024/02/07/ainsley-shelsta-and-lou-martineau-are-starting-the-semester-strong/2910888">https://theoccidentalnews.com/sports/2024/02/07/ainsley-shelsta-and-lou-martineau-are-starting-the-semester-strong/2910888</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/sports/2024/02/07/ainsley-shelsta-and-lou-martineau-are-starting-the-semester-strong/2910888">Save to Pocket</a>
+</span>
+
+---
+
+## Opinion: Apps like Fizz are antithetical to our community
+
+date: 2024-02-07, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>My name is at the top of this article, or maybe at the bottom but I’ll write it again, just to make it clear. My name is William White. Some of you may know me, have seen me on the Quad, or in a class. I’ve got brown hair and blue eyes and a silly [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2024/02/07/opinion-apps-like-fizz-are-antithetical-to-our-community/2910900">Opinion: Apps like Fizz are antithetical to our community</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/opinions/2024/02/07/opinion-apps-like-fizz-are-antithetical-to-our-community/2910900">https://theoccidentalnews.com/opinions/2024/02/07/opinion-apps-like-fizz-are-antithetical-to-our-community/2910900</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/opinions/2024/02/07/opinion-apps-like-fizz-are-antithetical-to-our-community/2910900">Save to Pocket</a>
+</span>
+
+---
+
+## Where California Universities Go Quiet On Abortion, Students Fill In The Silence
+
+date: 2024-02-07, updated: 2024-02-07, from: The LAist
+
+In the absence of more consistent messaging from campus administrators, students say they feel a need to step in to inform other students about their rights.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/california-universities-medication-abortion-student-advocacy">https://laist.com/news/education/california-universities-medication-abortion-student-advocacy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/california-universities-medication-abortion-student-advocacy">Save to Pocket</a>
+</span>
+
+---
+
+## NPR's Student Podcast Challenge Is Back — With A Fourth-Grade Edition!
+
+date: 2024-02-07, updated: 2024-02-07, from: The LAist
+
+The 2024 national podcasting contest for middle and high school students is open for entries. It will close on May 3.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/student-podcast-challenge-contest-npr-2024">https://laist.com/news/education/student-podcast-challenge-contest-npr-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/student-podcast-challenge-contest-npr-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Should State Government Jobs Require A College Degree? Why California Is Rethinking Its Rules
+
+date: 2024-02-07, updated: 2024-02-07, from: The LAist
+
+California is removing degree requirements from jobs, but state leaders differ about the right approach.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/state-government-jobs-college-degree">https://laist.com/news/education/state-government-jobs-college-degree</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/state-government-jobs-college-degree">Save to Pocket</a>
+</span>
+
+---
+
+## Landslides Continue In Hillsides After Record-Breaking Storms Leave The Southland Saturated
+
+date: 2024-02-07, updated: 2024-02-08, from: The LAist
+
+The worst of the atmospheric storms have passed, but officials say potential landslides and other hazards will remain.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/atmospheric-river-la-storm-evacuations-damage-los-angeles-orange-riverside-san-bernardino-santa-barbara-updates">https://laist.com/news/climate-environment/atmospheric-river-la-storm-evacuations-damage-los-angeles-orange-riverside-san-bernardino-santa-barbara-updates</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/atmospheric-river-la-storm-evacuations-damage-los-angeles-orange-riverside-san-bernardino-santa-barbara-updates">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – February 7, 2024
+
+date: 2024-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/07/classifieds-february-7-2024/">Classifieds &#8211; February 7, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/07/classifieds-february-7-2024/">https://dailytrojan.com/2024/02/07/classifieds-february-7-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/07/classifieds-february-7-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Myths versus reality for undocumented immigrants
+
+date: 2024-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Unveiling the truth behind misconceptions about the undocumented community sheds light on the undocumented struggle.    </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/07/myths-versus-reality-for-undocumented-immigrants/">Myths versus reality for undocumented immigrants</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/07/myths-versus-reality-for-undocumented-immigrants/">https://dailytrojan.com/2024/02/07/myths-versus-reality-for-undocumented-immigrants/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/07/myths-versus-reality-for-undocumented-immigrants/">Save to Pocket</a>
+</span>
+
+---
+
+## We need more complex female villains
+
+date: 2024-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p> I am tired of women having to maintain their sanity, even in fictional stories.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/07/we-need-more-complex-female-villains/">We need more complex female villains</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/07/we-need-more-complex-female-villains/">https://dailytrojan.com/2024/02/07/we-need-more-complex-female-villains/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/07/we-need-more-complex-female-villains/">Save to Pocket</a>
+</span>
+
+---
+
+## Man on the Frozen Red Carpet
+
+date: 2024-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Brendan Brisson is living his hockey destiny.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/07/man-on-the-frozen-red-carpet/">Man on the Frozen Red Carpet</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/07/man-on-the-frozen-red-carpet/">https://dailytrojan.com/2024/02/07/man-on-the-frozen-red-carpet/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/07/man-on-the-frozen-red-carpet/">Save to Pocket</a>
+</span>
+
+---
+
+## Not Marc, but art by Marc Jacobs
+
+date: 2024-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Marc Jacobs’ doll-inspired collection may hint at a fresh attempt to inspire collections by the art and architectural world. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/07/unbox-your-different-personalities-2-2/">Not Marc, but art by Marc Jacobs</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/07/unbox-your-different-personalities-2-2/">https://dailytrojan.com/2024/02/07/unbox-your-different-personalities-2-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/07/unbox-your-different-personalities-2-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s lacrosse aims to score back-to-back Pac-12 titles
+
+date: 2024-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC looks to build on last season’s success and become national title contenders.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/07/200147/">Women’s lacrosse aims to score back-to-back Pac-12 titles</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/07/200147/">https://dailytrojan.com/2024/02/07/200147/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/07/200147/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s swim and dive takes a shot at history against Bruins
+
+date: 2024-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC aims for an undefeated regular season in a critical showdown against UCLA.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/07/womens-swim-and-dive-takes-a-shot-at-history-against-bruins/">Women’s swim and dive takes a shot at history against Bruins</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/07/womens-swim-and-dive-takes-a-shot-at-history-against-bruins/">https://dailytrojan.com/2024/02/07/womens-swim-and-dive-takes-a-shot-at-history-against-bruins/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/07/womens-swim-and-dive-takes-a-shot-at-history-against-bruins/">Save to Pocket</a>
+</span>
+
+---
+
+## Student drag performers embrace pageantry in ‘The Freak Show’
+
+date: 2024-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>QuASA’s 14th annual drag show was a hit at Bovard Auditorium Sunday night.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/07/student-drag-performers-embrace-pageantry-in-the-freak-show/">Student drag performers embrace pageantry in ‘The Freak Show’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/07/student-drag-performers-embrace-pageantry-in-the-freak-show/">https://dailytrojan.com/2024/02/07/student-drag-performers-embrace-pageantry-in-the-freak-show/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/07/student-drag-performers-embrace-pageantry-in-the-freak-show/">Save to Pocket</a>
+</span>
+
+---
+
+## Price hosts Lunar New Year celebration
+
+date: 2024-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Cultural Compass event highlighted Asian American Pacific Islander traditions.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/07/price-hosts-lunar-new-year-celebration/">Price hosts Lunar New Year celebration</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/07/price-hosts-lunar-new-year-celebration/">https://dailytrojan.com/2024/02/07/price-hosts-lunar-new-year-celebration/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/07/price-hosts-lunar-new-year-celebration/">Save to Pocket</a>
+</span>
+
+---
+
+## USG senate meeting moves to Zoom amid storm
+
+date: 2024-02-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>President Divya Jakatdar presented on the upcoming USG presidential debate.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/07/usg-senate-meeting-moves-on-zoom-due-to-rain/">USG senate meeting moves to Zoom amid storm</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/07/usg-senate-meeting-moves-on-zoom-due-to-rain/">https://dailytrojan.com/2024/02/07/usg-senate-meeting-moves-on-zoom-due-to-rain/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/07/usg-senate-meeting-moves-on-zoom-due-to-rain/">Save to Pocket</a>
+</span>
+
+---
+
+## Embracing resilience: Learning lessons from the Black freedom struggle
+
+date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+I was raised to aim high. My parents and older brother instilled within me a strong belief that does not place limits on what can be achieved.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/06/embracing-resilience-learning-lessons-from-the-black-freedom-struggle/">https://dailybruin.com/2024/02/06/embracing-resilience-learning-lessons-from-the-black-freedom-struggle/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/06/embracing-resilience-learning-lessons-from-the-black-freedom-struggle/">Save to Pocket</a>
+</span>
+
+---
+
+## Letter to the Editor: Labeling informational journalism antisemitic harms public discourse, free speech
+
+date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dear Editor:
+I wish to point out the issues in promoting the recent letter responding to the Daily Bruin&#8217;s article about the Bruins for Israel rally.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/06/letter-to-the-editor-labeling-informational-journalism-antisemitic-harms-public-discourse-free-speech/">https://dailybruin.com/2024/02/06/letter-to-the-editor-labeling-informational-journalism-antisemitic-harms-public-discourse-free-speech/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/06/letter-to-the-editor-labeling-informational-journalism-antisemitic-harms-public-discourse-free-speech/">Save to Pocket</a>
+</span>
+
+---
+
+## Tied for third place in the Pac-12, UCLA men’s basketball to face Bay Area teams
+
+date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Pac-12 tournament is just over a month away, and no team has won more than eight conference games.
+No. 8 Arizona stands alone at the top with an 8-3 record, while Washington State and Oregon follow one game behind in a tie for second.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/06/tied-for-third-place-in-the-pac-12-ucla-mens-basketball-to-face-bay-area-teams/">https://dailybruin.com/2024/02/06/tied-for-third-place-in-the-pac-12-ucla-mens-basketball-to-face-bay-area-teams/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/06/tied-for-third-place-in-the-pac-12-ucla-mens-basketball-to-face-bay-area-teams/">Save to Pocket</a>
+</span>
+
+---
+
+## John Green at First Amendment Week on censorship, advocacy and hope for humanity
+
+date: 2024-02-07, from: Laloyolan (LMU Student Newspaper)
+
+John Green, best known as the author of young adult fiction bestsellers such as "The Fault in Our Stars" and "Looking for Alaska," did not expect to become a successful author – much less to see his work heavily scrutinized…
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/campus_news/john-green-at-first-amendment-week-on-censorship-advocacy-and-hope-for-humanity/article_746b9bb6-714c-5395-9b57-0940e56d604a.html">https://www.laloyolan.com/news/campus_news/john-green-at-first-amendment-week-on-censorship-advocacy-and-hope-for-humanity/article_746b9bb6-714c-5395-9b57-0940e56d604a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/campus_news/john-green-at-first-amendment-week-on-censorship-advocacy-and-hope-for-humanity/article_746b9bb6-714c-5395-9b57-0940e56d604a.html">Save to Pocket</a>
+</span>
+
+---
+
+## Student-run Collar Scholars initiative works to raise service dogs, help community
+
+date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sporting bright yellow service dog vests, four-footed Bruins are often spotted trotting the corridors of UCLA with their tails wagging high.
+However, these furry friends are unlike most other puppies.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/06/student-run-collar-scholars-initiative-works-to-raise-service-dogs-help-community/">https://dailybruin.com/2024/02/06/student-run-collar-scholars-initiative-works-to-raise-service-dogs-help-community/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/06/student-run-collar-scholars-initiative-works-to-raise-service-dogs-help-community/">Save to Pocket</a>
+</span>
+
+---
+
+## Student-founded Alzheimer’s initiative earns 2024 Westly Prize finalist nomination
+
+date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+A nonprofit founded by a UCLA student was nominated as a finalist for the 2024 Westly Prize for Young Social Innovators.
+The Brain Exercise Initiative, founded by UCLA medical and Harvard law student Esin Gumustekin, focuses on helping older people avoid memory loss by using brain exercises, according to its website.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/06/student-founded-alzheimers-initiative-earns-2024-westly-prize-finalist-nomination/">https://dailybruin.com/2024/02/06/student-founded-alzheimers-initiative-earns-2024-westly-prize-finalist-nomination/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/06/student-founded-alzheimers-initiative-earns-2024-westly-prize-finalist-nomination/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA students discuss their experiences and approaches to flyering on Bruin Walk
+
+date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+After taking his eighth pie in the face that day, Tim Jun, a third-year mechanical engineering student, looked up with a smile and summarized how his group&#8217;s fundraiser was going.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/06/ucla-students-discuss-their-experiences-and-approaches-to-flyering-on-bruin-walk/">https://dailybruin.com/2024/02/06/ucla-students-discuss-their-experiences-and-approaches-to-flyering-on-bruin-walk/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/06/ucla-students-discuss-their-experiences-and-approaches-to-flyering-on-bruin-walk/">Save to Pocket</a>
+</span>
+
+---
+
+## USAC Recap – Jan. 30
+
+date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council held its last meeting of the month on Jan. 30.
+USAC is the official student government representing the undergraduate student body at UCLA.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/06/usac-recap-jan-30-2/">https://dailybruin.com/2024/02/06/usac-recap-jan-30-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/06/usac-recap-jan-30-2/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘We put the SEE in the UC’: Optometrists picket against unfair labor practices
+
+date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb 6. at 9:44 p.m.</em>
+Record rains did not stop UC optometrists from calling it as they see it, picketing outside Ronald Reagan UCLA Medical Center on Tuesday to demand higher salaries, lower patient wait times and good-faith contract bargaining from the UC.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/06/we-put-the-see-in-the-uc-optometrists-picket-against-unfair-labor-practices/">https://dailybruin.com/2024/02/06/we-put-the-see-in-the-uc-optometrists-picket-against-unfair-labor-practices/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/06/we-put-the-see-in-the-uc-optometrists-picket-against-unfair-labor-practices/">Save to Pocket</a>
+</span>
+
+---
+
+## Regional labor official rules Dartmouth basketball players are school employees
+
+date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 6 at 11:17 p.m.</em>
+The NCAA’s amateurism model has met another challenge.
+The National Labor Relations Board ruled in a landmark decision Monday that men’s basketball players at Dartmouth College are considered employees of the university under the National Labor Relations Act and can therefore unionize.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/06/regional-labor-official-rules-dartmouth-basketball-players-are-school-employees/">https://dailybruin.com/2024/02/06/regional-labor-official-rules-dartmouth-basketball-players-are-school-employees/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/06/regional-labor-official-rules-dartmouth-basketball-players-are-school-employees/">Save to Pocket</a>
+</span>
+
+---
+
+## Following storm-induced format change, UCLA women’s golf falls in semifinals
+
+date: 2024-02-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 6 at 11:33 p.m.</em>
+The Bruins were forced to adapt to an overnight format change at their second tournament of 2024.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/06/following-storm-induced-format-change-ucla-womens-golf-falls-in-semifinals/">https://dailybruin.com/2024/02/06/following-storm-induced-format-change-ucla-womens-golf-falls-in-semifinals/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/06/following-storm-induced-format-change-ucla-womens-golf-falls-in-semifinals/">Save to Pocket</a>
+</span>
+
+---
+
+## How to Be Ready to Rumble
+
+date: 2024-02-06, from: The Sundail (CSUN Student Newspaper)
+
+Earthquakes can happen anywhere, at any place and time, so many people in Southern California keep go-bags with safety essentials. California State University, Northridge, has protocols and emergency systems in...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178138/print-editions/print-stories/how-to-be-ready-to-rumble/">https://sundial.csun.edu/178138/print-editions/print-stories/how-to-be-ready-to-rumble/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178138/print-editions/print-stories/how-to-be-ready-to-rumble/">Save to Pocket</a>
+</span>
+
+---
+
+## CSU faculty members dissatisfied with the tentative agreement that ended historic strike
+
+date: 2024-02-06, from: The Sundail (CSUN Student Newspaper)
+
+A systemwide California State University faculty strike that was expected to last five days ended after just one. Now, some faculty members from across the CSU system are dissatisfied with...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178205/news/csu-faculty-members-dissatisfied-with-the-tentative-agreement-that-ended-historic-strike/">https://sundial.csun.edu/178205/news/csu-faculty-members-dissatisfied-with-the-tentative-agreement-that-ended-historic-strike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178205/news/csu-faculty-members-dissatisfied-with-the-tentative-agreement-that-ended-historic-strike/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -161,12 +827,12 @@ date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Founding director of USC Games sued for sexual harassment
+## Founding director of USC Computer Science Games program sued for sexual harassment
 
 date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
 
 <p>A viral video exposed professor emeritus Michael Zyda following escorts on X.</p>
-<p>The post <a href="https://dailytrojan.com/2024/02/06/founding-director-of-usc-games-sued-for-sexual-harassment/">Founding director of USC Games sued for sexual harassment</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/06/founding-director-of-usc-games-sued-for-sexual-harassment/">Founding director of USC Computer Science Games program sued for sexual harassment</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
 
 
 <span class="feed-item-link">
@@ -207,7 +873,7 @@ date: 2024-02-06, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-02-06, from: The Sundail (CSUN Student Newspaper)
 
-A furious second half rally by the Matadors (2-19, 0-11 Big West) fell short in heartbreaking fashion as they were edged by the UC San Diego Tritons (10-12, 6-5 Big West) 53-52, Thursday night in Northridge. Guard Erica Adams talked about the struggles the Matadors endured during the game. “It was a matter of mindset,...
+A furious second half rally by the Matadors (2-19, 0-11 Big West) fell short in heartbreaking fashion as they were edged by the UC San Diego Tritons (10-12, 6-5 Big...
 
 <span class="feed-item-link">
 <a href="https://sundial.csun.edu/178199/sports/matadors-comeback-falls-short-against-tritons/">https://sundial.csun.edu/178199/sports/matadors-comeback-falls-short-against-tritons/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178199/sports/matadors-comeback-falls-short-against-tritons/">Save to Pocket</a>
@@ -219,10 +885,34 @@ A furious second half rally by the Matadors (2-19, 0-11 Big West) fell short in 
 
 date: 2024-02-06, from: The Sundail (CSUN Student Newspaper)
 
-On the verge of extending their losing streak to six games, the CSUN Matadors (14-9, 5-6 Big West) came back to beat UC Riverside (8-15, 3-8 Big West) 76-70, at the Premier America Credit Union Arena on Saturday night. Down by as many as 12 in the first half against the Highlanders, things could’ve gotten...
+On the verge of extending their losing streak to six games, the CSUN Matadors (14-9, 5-6 Big West) came back to beat UC Riverside (8-15, 3-8 Big West) 76-70, at...
 
 <span class="feed-item-link">
 <a href="https://sundial.csun.edu/178190/sports/__matadors_snap_five-game_losing_streak_with_win_against_uc_riverside/">https://sundial.csun.edu/178190/sports/__matadors_snap_five-game_losing_streak_with_win_against_uc_riverside/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178190/sports/__matadors_snap_five-game_losing_streak_with_win_against_uc_riverside/">Save to Pocket</a>
+</span>
+
+---
+
+## Remembering Julie ‘Sunshine’ Schultz
+
+date: 2024-02-06, from: Laloyolan (LMU Student Newspaper)
+
+Julie Schultz, administrative specialist to Faculty Housing, and to the senior vice president for finance and chief financial officer, passed away on Jan. 25. She is survived by her loving husband, children and grandchildren.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/remembering-julie-sunshine-schultz/article_444d837f-f502-5262-bf37-5eeec4c71624.html">https://www.laloyolan.com/news/remembering-julie-sunshine-schultz/article_444d837f-f502-5262-bf37-5eeec4c71624.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/remembering-julie-sunshine-schultz/article_444d837f-f502-5262-bf37-5eeec4c71624.html">Save to Pocket</a>
+</span>
+
+---
+
+## Black Queer Student Experience Forum welcomes student panel to share their stories
+
+date: 2024-02-06, from: Laloyolan (LMU Student Newspaper)
+
+Student panelists will focus on themes of freedom of expression and speech in honor of Rainbow Week and First Amendment Week. The forum will welcome five speakers to participate in an open discussion on Thursday, Feb. 8.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/black-queer-student-experience-forum-welcomes-student-panel-to-share-their-stories/article_00283b6d-d6c3-555b-a624-8fcdbc246ae8.html">https://www.laloyolan.com/news/black-queer-student-experience-forum-welcomes-student-panel-to-share-their-stories/article_00283b6d-d6c3-555b-a624-8fcdbc246ae8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/black-queer-student-experience-forum-welcomes-student-panel-to-share-their-stories/article_00283b6d-d6c3-555b-a624-8fcdbc246ae8.html">Save to Pocket</a>
 </span>
 
 ---
@@ -231,8 +921,8 @@ On the verge of extending their losing streak to six games, the CSUN Matadors (1
 
 date: 2024-02-06, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 6 at 9:57 p.m.</em>
 Students living on the Hill and in university apartments reported dissatisfaction with the performance, costs and wait times of UCLA’s laundry machines and dryers.
-According to an emailed statement from UCLA Housing, the university’s laundry contractor, WASH, is on-site every day for maintenance and checkups.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/05/ucla-students-express-dissatisfaction-with-inefficient-laundry-systems/">https://dailybruin.com/2024/02/05/ucla-students-express-dissatisfaction-with-inefficient-laundry-systems/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/ucla-students-express-dissatisfaction-with-inefficient-laundry-systems/">Save to Pocket</a>
@@ -280,8 +970,9 @@ Just across from the USC campus, Expo Park is home to some of the city's most po
 
 date: 2024-02-06, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 6 at 11:32 p.m.</em>
 Izzy Anstey is retiring from basketball.
-The UCLA women’s basketball forward announced Monday night via Instagram that she is hanging up her jersey. The senior will remain with the team but is retiring from the sport because of medical reasons.
+The UCLA women’s basketball forward announced Monday night via Instagram that she is hanging up her jersey.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/05/izzy-anstey-of-ucla-womens-basketball-announces-retirement/">https://dailybruin.com/2024/02/05/izzy-anstey-of-ucla-womens-basketball-announces-retirement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/izzy-anstey-of-ucla-womens-basketball-announces-retirement/">Save to Pocket</a>
@@ -336,6 +1027,150 @@ The National Weather Service issued a number of rare flash flood warnings for ce
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/05/ucla-campus-experiences-flooding-facility-closures-from-record-rainfall/">https://dailybruin.com/2024/02/05/ucla-campus-experiences-flooding-facility-closures-from-record-rainfall/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/05/ucla-campus-experiences-flooding-facility-closures-from-record-rainfall/">Save to Pocket</a>
+</span>
+
+---
+
+## A Reflection on Student Leadership
+
+date: 2024-02-06, from: California Tech (Caltech Student Newspaper)
+
+In the two years that I have been a Social Director for Ricketts Hovse, I have had more than a few opportunities to explore undergraduate student-administration relationships at Caltech and where they have broken down. I have watched my peers in student leadership be ignored and shut down by members of administration.
+
+<span class="feed-item-link">
+<a href="https://tech.caltech.edu/2024/02/06/reflection-on-student-leadership/">https://tech.caltech.edu/2024/02/06/reflection-on-student-leadership/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tech.caltech.edu/2024/02/06/reflection-on-student-leadership/">Save to Pocket</a>
+</span>
+
+---
+
+## Caltech’s Core Problem
+
+date: 2024-02-06, from: California Tech (Caltech Student Newspaper)
+
+The class that plagued me the most during last Fall term was Ch 21a, Physical Chemistry, which is an introduction to Quantum Mechanics for chemistry-related majors. My freshman and sophomore years were honestly pretty rough, but these were all supposed to build my skills as a science student here.  As a Junior, I was hoping to excel in courses directly related to my major.
+
+<span class="feed-item-link">
+<a href="https://tech.caltech.edu/2024/02/06/caltech-core-problem/">https://tech.caltech.edu/2024/02/06/caltech-core-problem/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tech.caltech.edu/2024/02/06/caltech-core-problem/">Save to Pocket</a>
+</span>
+
+---
+
+## If This is to End in Fire…
+
+date: 2024-02-06, from: California Tech (Caltech Student Newspaper)
+
+I am a big believer in destiny, that commander of events that places people where they need to be exactly when they need to.
+
+<span class="feed-item-link">
+<a href="https://tech.caltech.edu/2024/02/06/if-this-is-to-end-in-fire/">https://tech.caltech.edu/2024/02/06/if-this-is-to-end-in-fire/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tech.caltech.edu/2024/02/06/if-this-is-to-end-in-fire/">Save to Pocket</a>
+</span>
+
+---
+
+## Local Happenings in Pasadena
+
+date: 2024-02-06, from: California Tech (Caltech Student Newspaper)
+
+Hey Caltech! For the first installment of the Off-Campus Events Newsletter, we’ve got a play,
+
+<span class="feed-item-link">
+<a href="https://tech.caltech.edu/2024/02/06/local-happenings-in-pasadena/">https://tech.caltech.edu/2024/02/06/local-happenings-in-pasadena/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tech.caltech.edu/2024/02/06/local-happenings-in-pasadena/">Save to Pocket</a>
+</span>
+
+---
+
+## Lunar New Year
+
+date: 2024-02-06, from: California Tech (Caltech Student Newspaper)
+
+As the beginning of February comes back around, you may notice an increase in red or dragon imagery on campus or around Pasadena; Lunar New Year is approaching on the 10th, a celebration of a new year timed by the lunar calendar instead of solar calendar.
+
+<span class="feed-item-link">
+<a href="https://tech.caltech.edu/2024/02/06/lunar-new-year/">https://tech.caltech.edu/2024/02/06/lunar-new-year/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tech.caltech.edu/2024/02/06/lunar-new-year/">Save to Pocket</a>
+</span>
+
+---
+
+## Man vs. Mannion
+
+date: 2024-02-06, from: California Tech (Caltech Student Newspaper)
+
+Full House Cantonese Restaurant in Chinatown – Well Known Chinatown Restaurant Serves a Good Meal But Needs Some Work If It Wants To Shine Again
+
+<span class="feed-item-link">
+<a href="https://tech.caltech.edu/2024/02/06/man-vs-mannion/">https://tech.caltech.edu/2024/02/06/man-vs-mannion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tech.caltech.edu/2024/02/06/man-vs-mannion/">Save to Pocket</a>
+</span>
+
+---
+
+## Meet the Humans of Red Door: Barista Minzhi
+
+date: 2024-02-06, from: California Tech (Caltech Student Newspaper)
+
+Lovely to meet you, Minzhi! If I may begin, how did you come to join Caltech’s cherished scarlet-doored café?
+
+<span class="feed-item-link">
+<a href="https://tech.caltech.edu/2024/02/06/meet-the-humans-of-red-door/">https://tech.caltech.edu/2024/02/06/meet-the-humans-of-red-door/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tech.caltech.edu/2024/02/06/meet-the-humans-of-red-door/">Save to Pocket</a>
+</span>
+
+---
+
+## Page House’s Mural Saga Continues
+
+date: 2024-02-06, from: California Tech (Caltech Student Newspaper)
+
+Each undergraduate house has a unique culture. Pretty much every Caltech student ever would agree. Parts of what makes house cultures unique, since they are so intertwined with their physical spaces, are the murals in each house.
+
+<span class="feed-item-link">
+<a href="https://tech.caltech.edu/2024/02/06/page-house-mural-sage-continues/">https://tech.caltech.edu/2024/02/06/page-house-mural-sage-continues/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tech.caltech.edu/2024/02/06/page-house-mural-sage-continues/">Save to Pocket</a>
+</span>
+
+---
+
+## President, Provost, VPSA Convene Faculty Advisory Committee on Undergraduate Admissions Policy
+
+date: 2024-02-06, from: California Tech (Caltech Student Newspaper)
+
+In the wake of a petition to President Thomas Rosenbaum signed by more than 140 faculty members, the Institute has moved to form a committee for evaluating current admissions standards as predictors of success at Caltech.
+
+<span class="feed-item-link">
+<a href="https://tech.caltech.edu/2024/02/06/president-provost-vpsa-convene-faculty/">https://tech.caltech.edu/2024/02/06/president-provost-vpsa-convene-faculty/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tech.caltech.edu/2024/02/06/president-provost-vpsa-convene-faculty/">Save to Pocket</a>
+</span>
+
+---
+
+## Question the Quails
+
+date: 2024-02-06, from: California Tech (Caltech Student Newspaper)
+
+Hey Caltech! For the first installment of the Off-Campus Events Newsletter, we’ve got a play,
+
+<span class="feed-item-link">
+<a href="https://tech.caltech.edu/2024/02/06/question-the-quails/">https://tech.caltech.edu/2024/02/06/question-the-quails/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tech.caltech.edu/2024/02/06/question-the-quails/">Save to Pocket</a>
+</span>
+
+---
+
+## Sinister Six Thirty
+
+date: 2024-02-06, from: California Tech (Caltech Student Newspaper)
+
+To remind readers where we left off in the previous episode, Elizabeth Zott — female chemist in the 1950s who mastered out of her UCLA Ph.D. program and became a lab technician at Hastings — is now working in Dr. Calvin Evans laboratory.
+
+<span class="feed-item-link">
+<a href="https://tech.caltech.edu/2024/02/06/sinister-six-thirsty/">https://tech.caltech.edu/2024/02/06/sinister-six-thirsty/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tech.caltech.edu/2024/02/06/sinister-six-thirsty/">Save to Pocket</a>
+</span>
+
+---
+
+## Title IX Case Delays Are Not Isolated Occurrences
+
+date: 2024-02-06, from: California Tech (Caltech Student Newspaper)
+
+In the January 16th issue, the <em>Tech</em> reported on a 16-month-long Title IX Case regarding a hidden camera incident. Since then, more students have contacted the <em>Tech</em> to share their experiences with Caltech’s Title IX Office. In the interest of privacy, their identities will not be disclosed. Students who filed Title IX complaints will be referred to as <em>complainants</em>, and the subjects of the complaints will be referred to as <em>respondents</em>.
+
+<span class="feed-item-link">
+<a href="https://tech.caltech.edu/2024/02/06/title-ix-case-delays-are-not-isolated-occurences/">https://tech.caltech.edu/2024/02/06/title-ix-case-delays-are-not-isolated-occurences/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tech.caltech.edu/2024/02/06/title-ix-case-delays-are-not-isolated-occurences/">Save to Pocket</a>
 </span>
 
 ---
@@ -444,6 +1279,18 @@ Chair of Select Committee on Ports &#38; Goods Movement and GO-Biz Director Tour
 
 ---
 
+## LA City Council: Who's Running In The 2024 Primary Election And Why It Matters
+
+date: 2024-02-05, updated: 2024-02-07, from: The LAist
+
+Your overview to the L.A. City Council races and issues in the March 5 primary election. On the ballot: Districts 2, 4, 6, 8, 10, 12 and 14
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/2024-election-california-primary-los-angeles-city-council">https://laist.com/news/politics/2024-election-california-primary-los-angeles-city-council</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/2024-election-california-primary-los-angeles-city-council">Save to Pocket</a>
+</span>
+
+---
+
 ## Fact Or Fiction? Hollywood’s Madams In The Golden Age
 
 date: 2024-02-05, updated: 2024-02-05, from: The LAist
@@ -476,18 +1323,6 @@ We’re never going to tell you who to vote for. We just want to give you the in
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/politics/how-and-why-laist-goes-big-on-our-voter-game-plan">https://laist.com/news/politics/how-and-why-laist-goes-big-on-our-voter-game-plan</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/how-and-why-laist-goes-big-on-our-voter-game-plan">Save to Pocket</a>
-</span>
-
----
-
-## LA City Council: Who's Running In The 2024 Primary Election And Why It Matters
-
-date: 2024-02-05, updated: 2024-02-05, from: The LAist
-
-Your guide to the L.A. City Council candidates and issues in the March 5 primary election. On the ballot: Districts 2, 4, 6, 8, 10, 12 and 14
-
-<span class="feed-item-link">
-<a href="https://laist.com/news/politics/2024-election-california-primary-los-angeles-city-council">https://laist.com/news/politics/2024-election-california-primary-los-angeles-city-council</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/2024-election-california-primary-los-angeles-city-council">Save to Pocket</a>
 </span>
 
 ---
@@ -795,7 +1630,7 @@ Just the day before, the Bruins found themselves in a similar situation.
 
 date: 2024-02-04, from: The Sundail (CSUN Student Newspaper)
 
-The 90’s saw a mainstream love for R&#38;B and romantic ballads. Billboard listed the following songs as the year-end top five of 1994, the year of the earthquake. As the forefront of American music charts, success on Billboard translates to widespread popularity in the States. Before people streamed music on Spotify, high charting songs reached...
+The 90’s saw a mainstream love for R&#38;B and romantic ballads. Billboard listed the following songs as the year-end top five of 1994, the year of the earthquake. As the...
 
 <span class="feed-item-link">
 <a href="https://sundial.csun.edu/178107/print-editions/print-stories/cantando-top-songs-from-1994/">https://sundial.csun.edu/178107/print-editions/print-stories/cantando-top-songs-from-1994/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178107/print-editions/print-stories/cantando-top-songs-from-1994/">Save to Pocket</a>
@@ -870,11 +1705,11 @@ date: 2024-02-04, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Measles discovered in Northridge, CA
+## Measles discovered in Northridge
 
 date: 2024-02-04, from: The Sundail (CSUN Student Newspaper)
 
-The Los Angeles County Department of Public Health reported that a person who flew into Los Angeles International Airport on a flight from Istanbul, Turkey, on Jan. 25 has contracted measles. The person landed at LAX around 5 p.m., and then visited the Chick-Fil-A in Northridge, located on Devonshire St., around 8 p.m. Individuals present...
+The Los Angeles County Department of Public Health reported that a person who flew into Los Angeles International Airport on a flight from Istanbul, Turkey, on Jan. 25 has contracted...
 
 <span class="feed-item-link">
 <a href="https://sundial.csun.edu/178128/news/measles-found-in-person-who-visited-northridge/">https://sundial.csun.edu/178128/news/measles-found-in-person-who-visited-northridge/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178128/news/measles-found-in-person-who-visited-northridge/">Save to Pocket</a>

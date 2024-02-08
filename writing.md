@@ -1,11 +1,303 @@
 ---
 title: writing 2024.06
-updated: 2024-02-06 05:55:48
+updated: 2024-02-07 21:29:01
 ---
 
 # writing 2024.06
 
-(date: 2024-02-06 05:55:48)
+(date: 2024-02-07 21:29:01)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-08, from: Neil Gaiman @ BlueSky)
+
+The ComicsScene Awards 2024. They are a terrific bunch of awards, and I felt honoured to have been part of several of them. Thank you so much to all the voters:
+
+https://comicscene.org/2024/02/01/comicscene-award-winners-2024-to-be-announced-here-07-02-24-7am/
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkuwaqapnt2t">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkuwaqapnt2t</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkuwaqapnt2t">Save to Pocket</a>
+</span>
+
+---
+
+## Cooper Named Grand Master
+
+date: 2024-02-08, from: Locus Magazine
+
+<p>The Science Fiction &#38; Fantasy Writers of America (SFWA) has named Susan Cooper the 40th recipient of the Damon Knight Memorial Grand Master Award.</p>
+<p>SFWA President Jeffe Kennedy said,</p>
+<p>Susan Cooper possesses the rare gift of being able to write for young people with a resonance that endures all through their adult lives. I feel as if The Dark Is Rising books have always been a part of my life.  <a href="https://locusmag.com/2024/02/cooper-named-grand-master/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/cooper-named-grand-master/">https://locusmag.com/2024/02/cooper-named-grand-master/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/cooper-named-grand-master/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 PEN/Faulkner Longlist
+
+date: 2024-02-07, from: Locus Magazine
+
+<p></p>
+<p>The ten-title 2024 PEN/Faulkner longlist includes a number of titles and authors of genre interest:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>The Guest</strong>, Emma Cline (Random House)</li>
+<li><strong>Monica</strong>, Daniel Clowes (Fantagraphics)</li>
+<li><strong>The Best Possible Experience</strong>, Nishanth Injam (Pantheon)</li>
+<li><strong>Biography of X</strong>, Catherine Lacey (Farrar, Straus and Giroux)</li>
+<li><strong>Users</strong>, Colin Winnette (Soft Skull)</li>
+</ul>
+<p>The prize &#8220;honors the best published works of fiction by American citizens in a calendar year.&#8221; This year&#8217;s judges </p></div> <a href="https://locusmag.com/2024/02/2024-pen-faulkner-longlist/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/2024-pen-faulkner-longlist/">https://locusmag.com/2024/02/2024-pen-faulkner-longlist/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/2024-pen-faulkner-longlist/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Salam Award Opens
+
+date: 2024-02-07, from: Locus Magazine
+
+<p>The 2024 Salam Award for Imaginative Fiction is open, and the judges for 2023 have been announced: Vajra Chandrasekera, S.B. Divya, and Max Gladstone.</p>
+<p>The annual award is open to original fiction of 10,000 words or fewer written in English by authors who &#8220;must either be currently residing in Pakistan, or be of Pakistani birth/descent.&#8221; Submissions are open through July 31, 2024.</p>
+<p>The winning story will receive Rs 50,000 and  <a href="https://locusmag.com/2024/02/2024-salam-award-opens/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/2024-salam-award-opens/">https://locusmag.com/2024/02/2024-salam-award-opens/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/2024-salam-award-opens/">Save to Pocket</a>
+</span>
+
+---
+
+## Liz Bourke Reviews Fallen by Melissa Scott
+
+date: 2024-02-07, from: Locus Magazine
+
+<p><strong>Fallen</strong>, Melissa Scott (Candlemark &#38; Gleam 978-1-952456-20-6, $22.45, 302pp, tp) December 2023. Cover by Eleni Tsami.</p>
+<p>Melissa Scott’s <strong>Fallen </strong>might lack the sheer bloody energy of <strong>These Burning Stars</strong>, but it has instead the precise and understated competence of a writer who’s been honing her craft for four decades. Few of Scott’s novels are alike: while <strong>Fallen </strong>returns to the space opera universe that made its debut in  <a href="https://locusmag.com/2024/02/liz-bourke-reviews-fallen-by-melissa-scott/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/liz-bourke-reviews-fallen-by-melissa-scott/">https://locusmag.com/2024/02/liz-bourke-reviews-fallen-by-melissa-scott/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/liz-bourke-reviews-fallen-by-melissa-scott/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-07, from: Neil Gaiman @ BlueSky)
+
+For the curious about Alexander the Great's sex life, this podcast is yummy and informative:
+https://podcasts.apple.com/gb/podcast/alexander-the-greats-sex-life/id1612090432?i=1000590350230
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kktipmndsd2e">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kktipmndsd2e</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kktipmndsd2e">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-07, from: Neil Gaiman @ BlueSky)
+
+If Coraline in 3D had been perceived as successful it might have changed things about the way 3D was used. But there were a limited number of 3D screens and after a couple of weeks Coraline 3D was replaced in them by the Jonas Bros Live 3D moviez and that was that.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kktidtmjkv2w">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kktidtmjkv2w</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kktidtmjkv2w">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-07, from: Neil Gaiman @ BlueSky)
+
+It's amazing what buttons do to a smile.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkthpd5hy32u">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkthpd5hy32u</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkthpd5hy32u">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-07, from: Neil Gaiman @ BlueSky)
+
+Coraline is turning 15 and is being properly actually rereleased in remastered 3D worldwide this August. https://shop.laika.com/pages/coraline-15 to sign up for first access to tickets, events, news, and all things Coraline3D.
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kktgs3hekd27">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kktgs3hekd27</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kktgs3hekd27">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-07, from: Neil Gaiman @ BlueSky)
+
+Welcome new people! I recommend the Fountain Pen Feed. 
+
+https://bsky.app/profile/did:plc:nkahctfdi6bxk72umytfwghw/feed/aaad2q353alqm
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kktcvg5ax72v">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kktcvg5ax72v</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kktcvg5ax72v">Save to Pocket</a>
+</span>
+
+---
+
+## Write Now with Scrivener, Episode no. 35: George Stevens Jr., Movie Producer and Director
+
+date: 2024-02-07, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p><iframe frameborder="0" height="200" scrolling="no" src="https://player.fireside.fm/v2/FGsx06Yz+sqvf5E2e?theme=light" width="740"></iframe></p>
+
+<p><strong>Show notes</strong>:</p>
+
+
+	<a href="https://www.georgestevensjr.com" target="_blank">George Stevens Jr.</a>
+	<a href="https://www.georgestevensjr.com/my-place-in-the-sun-memoir" target="_blank">My Place in the Sun</a>
+	<a href="https://en.wikipedia.org/wiki/George_Stevens" target="_blank">George Stevens</a>
+	<a href="https://en.wikipedia.org/wiki/A_Place_in_the_Sun_(1951_film)" target="_blank">A Place in the Sun</a>
+	<a href="https://www.oppenheimermovie.co.uk" target="_blank">Oppenheimer</a>
+	<a href="https://www.imdb.com/title/tt0056172/" target="_blank">Lawrence of Arabia</a>
+
+
+<p>Learn more about <a href="https://www.literatureandlatte.com/scrivener/overview" target="_blank">Scrivener</a>, and check out the ebook <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>.</p>
+
+<p>If you like the podcast, please <a href="https://podcasts.apple.com/us/podcast/write-now-with-scrivener/id1568550068" target="_blank">follow it in Apple Podcasts</a> or your favorite podcast app. Leave a rating or review, and tell your friends. And check out past episodes of <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+
+
+<p>George Stevens Jr. has been a movie producer and director for decades, and has written a memoir about his life in Hollywood.</p>
+
+<p>Growing up as the son of Hollywood&#39;s great directors - his father made many classic films, such as A Place in the Sun, Shane, Giant, and The Greatest Story Ever Told - gave Stevens an inside view of Hollywood. Hobnobbing with the greatest actors of the time, Stevens has been a background force in the film industry for decades. His memoir My Place in the Sun tells the story of his experiences in Hollywood and Washington DC.</p>
+
+<p>&quot;I grew up in a house with a person who happened to be a rare combination of a wonderful father, great director, I could say a war hero, he spent three years away, and was on the ground and in Europe in World War Two. I think the most important thing I learned from him was when he told me you have to respect the audience.&quot;</p>
+
+<p>And Stevens Sr. did respect the audience. When his movie A Place in the Sun was released, he threatened to sue, for $1 million, any TV station that inserted any commercial into the running of his film without his specific approval of the ad. This was a bold move, but one intended to ensure that his films retained their integrity.</p>
+
+<p>&quot;He was quite confident that he wasn&#39;t going to win, but he did get considerable respect from the judge. His contract provided that Paramount Pictures could not alter or change in any way, the final cut of his film, A Place in the Sun, which was so highly regarded that he won the Oscar.&quot; [It garnered nine nominations, and Stevens won for best director.] &quot;And then he started seeing it on television, as he referred that they cut into it little playlets, meaning that Montgomery Clift and Elizabeth Taylor are at an important moment in the film on the beach, and then going in a motorboat. And then comes a commercial, and it&#39;s got a beach and water, and a whole other story begins. And no judge was going to up entirely the whole system of commercial television. But he did get considerable respect in the decision.&quot;</p>
+
+<p>George Stevens Sr. was in Europe during World War II, and his son discovered, in the 1980s, some color footage he had shot of the war, the first of its kind that anyone had seen. &quot;Dad had a storage room in North Hollywood, California. It had everything, it had file cabinets, it had his Laurel and Hardy scripts, it had souvenirs from World War Two, everything. When I discovered that footage, I was living in Washington and the store room is in Los Angeles. I took one little reel of that film back to Washington with me. I was running an American Film Institute and had a screening room and I asked the projectionist on a warm, sunny Friday afternoon. And on the screen, came footage with barrage balloons in the sky on a gray morning. And I&#39;m looking at this footage and I realize it&#39;s D-Day. And I further realize that my eyes are the first ones that weren&#39;t there on the day to see color. And around a bulkhead comes up a man in his late 30s in a helmet, and it&#39;s my father. It&#39;s the most remarkable color footage because that was a black-and-white war.&quot;</p>
+
+<p>Stevens later set up the <a href="https://www.afi.com" target="_blank">American Film Institute</a>, which was set up to recognize film as an art form, mentor young directors, and restore old films, which he describes as the organization&#39;s cornerstone. &quot;More than half of the films that had been made since the beginning of film, at the beginning of the 20th century, were lost or missing or destroyed. AFI&#39;s first task was to organize the rescue and preservation of American film. We did that in collaboration with the Library of Congress, the Museum of Modern Art, George Eastman House, and other institutions. It was the rock upon which we built the AFI.&quot;</p>
+
+<p>Stevens started writing his memoir about 12 years ago, taking notes and organizing ideas. &quot;Somebody told me about Scrivener, and I got it and I just kept putting everything into Scrivener in different categories and subcategories in [the Binder]. It gave me command of the material. It was like my father shooting all of this film, and then going into the editing room, and being able to make the film. Writing is rewriting, and filmmaking is re-cutting until you get it just right. I don&#39;t know how I would have written this book without Scrivener.&quot;</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+
+
+<span class="feed-item-link">
+<a href="https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-35-george-stevens-jr-movie-producer-and-director">https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-35-george-stevens-jr-movie-producer-and-director</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-35-george-stevens-jr-movie-producer-and-director">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-07, from: Neil Gaiman @ BlueSky)
+
+15 years ago some nice people from an ad agency arrived at my house to shoot a bit with a script for me about how scary mothers are. “But that’s not the film,” I told them. “Then write a new script,” they said.  So I did. 
+
+https://youtu.be/HlCJu6zrB10?si=qMaDFjuzJKgnxEg-
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kksnkgj22o2d">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kksnkgj22o2d</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kksnkgj22o2d">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-07, from: Neil Gaiman @ BlueSky)
+
+Coraline the movie is 15 years old today! And to celebrate, Laika are rereleasing it, remastered, and in the original 3D, this coming August. I feel like a proud grandfather.
+
+Also, I have still never seen a better use of 3D than Coraline. 
+
+Did you see it when it first came out?
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kksl5ajq3n2u">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kksl5ajq3n2u</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kksl5ajq3n2u">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-07, from: Neil Gaiman @ BlueSky)
+
+My bluesky handle includes a handle (@Neilhimself) and my website (neilgaiman.com) and it self-verifies. Here are your instructions: https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kks266jixs22">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kks266jixs22</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kks266jixs22">Save to Pocket</a>
+</span>
+
+---
+
+## Jake Casella Brookins Reviews Inversion by Aric McBay
+
+date: 2024-02-06, from: Locus Magazine
+
+<p><strong>Inversion</strong>, Aric McBay (AK Press 978-1-8493-5504-9, $17.00. 240pp, tp) November 2023. Cover by Bob Kayganich &#38; T.L. Simons.</p>
+<p>Every once in a while, I run into a new science fic­tion story that feels remarkably classic, as though it had been written at the height of some previous era and only recently discovered. Or classical, perhaps – so well-versed in its themes and tropes that you can immediately see where  <a href="https://locusmag.com/2024/02/jake-casella-brookins-reviews-inversion-by-aric-mcbay/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/jake-casella-brookins-reviews-inversion-by-aric-mcbay/">https://locusmag.com/2024/02/jake-casella-brookins-reviews-inversion-by-aric-mcbay/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/jake-casella-brookins-reviews-inversion-by-aric-mcbay/">Save to Pocket</a>
+</span>
+
+---
+
+## The Year in Review 2023 by Colleen Mondor
+
+date: 2024-02-06, from: Locus Magazine
+
+<p><strong>2023 in Review </strong><strong>by Colleen Mondor</strong></p>
+<p>There is a bit of a haunted story in my paternal fam­ily history that has preoc­cupied me since my father first shared hints of it when I was a teenager. We were talking about his father, my Pepere, who was born in Quebec and emigrated at the age of 13, with his family, to Rhode Island. I heard a few brief anecdotes over the  <a href="https://locusmag.com/2024/02/the-year-in-review-2023-by-colleen-mondor/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/the-year-in-review-2023-by-colleen-mondor/">https://locusmag.com/2024/02/the-year-in-review-2023-by-colleen-mondor/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/the-year-in-review-2023-by-colleen-mondor/">Save to Pocket</a>
+</span>
+
+---
+
+## New Books 6 February 2024
+
+date: 2024-02-06, from: Locus Magazine
+
+<p>Bennett, Robert Jackson: <b>The Tainted Cup</b>
+(Penguin Random House/Del Rey 9781984820709, $28, 432pp, formats: hardcover, ebook, audio, 02/06/2024)</p>
+<p>Fantasy mystery novel, first in the Shadow of the Leviathan series. A high Imperial officer dies when a tree erupts from his body, and the brilliant detective Ana Dolabra investigates with the help of her new magically altered assistant Dinios Kol.</p>
+<p>&#160;</p>
+<p>Callender, Kacen: <b>Infinity Alchemist</b>
+(Tor Teen 9781250890252, $19.99, 400pp, formats:  <a href="https://locusmag.com/2024/02/new-books-6-february-2024/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/new-books-6-february-2024/">https://locusmag.com/2024/02/new-books-6-february-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/new-books-6-february-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Outlining Your Screenplay Your Way
+
+date: 2024-02-06, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/map-out-your-story-with-personalized-outlining-in-final-draft-13" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Screenwriter.jpg" alt="A white piece of paper next to a black and white slate and a silver Macbook on a table, Map Out Your Story With Personalized Outlining in Final Draft 13" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span><a href="https://blog.finaldraft.com/to-outline-or-not-to-outline-your-screenplay-that-is">Outlining</a> your story before writing a screenplay is a vital tool that will save you time and energy. </span>Not only will it help you in terms of structuring your narrative, you’re less likely to have a <a href="https://blog.finaldraft.com/how-to-avoid-a-second-act-slump-in-your-screenplay"><span>“second act slump”</span></a> if you plotted all of the major story beats beforehand. Outlining also frees up your mind when you’re actually writing your script: you won’t be constantly thinking "What happens next?" Instead, you can focus on <em>how </em>things happen.&nbsp;</p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/map-out-your-story-with-personalized-outlining-in-final-draft-13">https://blog.finaldraft.com/map-out-your-story-with-personalized-outlining-in-final-draft-13</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/map-out-your-story-with-personalized-outlining-in-final-draft-13">Save to Pocket</a>
+</span>
 
 ---
 

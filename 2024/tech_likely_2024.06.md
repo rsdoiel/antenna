@@ -1,11 +1,1165 @@
 ---
 title: tech likely 2024.06
-updated: 2024-02-06 05:55:48
+updated: 2024-02-07 21:29:01
 ---
 
 # tech likely 2024.06
 
-(date: 2024-02-06 05:55:48)
+(date: 2024-02-07 21:29:01)
+
+---
+
+**@Jessica Smith's blog** (date: 2024-02-08, from: Jessica Smith's blog)
+
+<p>The only thing I don&rsquo;t like about <a href="https://song.link/i/1483863506">the song “Julia Take Your Man Home”<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> is that the line I could&rsquo;ve sworn is &ldquo;&hellip;and some guy he keeps saying is middle class&rdquo; is apparently &ldquo;&hellip;and some guy he keeps saying is made of glass&rdquo;. The line is a million times funnier if you assume he&rsquo;s singing &ldquo;middle class&rdquo;. Or am I the only one who spent all of uni hanging out with people who denounced the middle class at every turn?</p>
+
+<span class="feed-item-link">
+<a href="https://www.jayeless.net/2024/02/julia-take-your-man-home.html">https://www.jayeless.net/2024/02/julia-take-your-man-home.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jayeless.net/2024/02/julia-take-your-man-home.html">Save to Pocket</a>
+</span>
+
+---
+
+## Further Trouble in Hinton City
+
+date: 2024-02-08, from: Gary Marcus blog
+
+More on storage and the shallow understanding of Generative AI
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/further-trouble-in-hinton-city">https://garymarcus.substack.com/p/further-trouble-in-hinton-city</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/further-trouble-in-hinton-city">Save to Pocket</a>
+</span>
+
+---
+
+## What is B-right/V release 4.5?
+
+date: 2024-02-08, from: OS News
+
+What if I told you there is an immensely popular operating system that you likely used it at least once, but did not realise what it was? In fact, it is so popular and important there is an IEEE standard based on it. It is uncanny how immensely popular AND immensely obscure this system is. It is scary that until today I have never even heard of its reference desktop implementation. The system is called &#8220;TRON&#8221;. ↫ Nina Kalinina This Mastodon thread is OSNews bait. Delicious.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138543/what-is-b-right-v-release-4-5/">https://www.osnews.com/story/138543/what-is-b-right-v-release-4-5/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138543/what-is-b-right-v-release-4-5/">Save to Pocket</a>
+</span>
+
+---
+
+## Beyond the 1 MB barrier in DOS
+
+date: 2024-02-08, from: OS News
+
+Last month, we covered Julio Merino&#8217;s article about going from 0 to 1 MB in DOS, and now they&#8217;re back for breaking beyond that 1 MB barrier. I know I promised that this follow-up article would be about DJGPP, but before getting into that review, I realized I had to take another detour to cover three more topics. Namely: unreal mode, which I intentionally ignored to not derail the post; LOADALL, which I didn’t know about until you readers mentioned it; and DOS extenders, which I was planning to describe in the DJGPP article but they are a better fit for this one. So… strap your seat belts on and dive right in for another tour through the ancient techniques that DOS had to pull off to peek into the memory address space above the first MB. And get your hands ready because we’ll go over assembly code for a step-by-step jump into unreal mode. ↫ Julio Merino What&#8217;s amazing is that I don&#8217;t even remember having to deal with any of this while using MS-DOS back in the day. Games tended to use DOS extenders automatically (DOS/4G!), but I don&#8217;t remember if I ever had to set up any of the DOS above-640k stuff manually.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138541/beyond-the-1-mb-barrier-in-dos/">https://www.osnews.com/story/138541/beyond-the-1-mb-barrier-in-dos/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138541/beyond-the-1-mb-barrier-in-dos/">Save to Pocket</a>
+</span>
+
+---
+
+## The Greenfield in-browser Wayland compositor is fast enough for gaming
+
+date: 2024-02-08, from: OS News
+
+While there are a lot of Wayland compositors out there that aren&#8217;t too different from each other in terms of features, one of the more unique ones is Greenfield. The Greenfield Wayland compositor has been out there for a few years now as an in-browser HTML5-based solution that is continuing to prove itself capable and even fast enough for handling Linux gaming. ↫ Michael Larabel A rather genius idea for a Wayland compositor.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138539/the-greenfield-in-browser-wayland-compositor-is-fast-enough-for-gaming/">https://www.osnews.com/story/138539/the-greenfield-in-browser-wayland-compositor-is-fast-enough-for-gaming/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138539/the-greenfield-in-browser-wayland-compositor-is-fast-enough-for-gaming/">Save to Pocket</a>
+</span>
+
+---
+
+## Microsoft uses giant four-page popup to push Windows 10 users to upgrade to Windows 11
+
+date: 2024-02-08, from: OS News
+
+Windows 10 users started seeing full-screen pop-ups after installing a cumulative update release in May 2023. Now, the pop-up is back again on our Windows 10 PC after installing the optional update released in January 2024, and it gouges the eyes. No one expects a gigantic multi-slide advert using their PCs (web browsers are a different story). ↫ Abhishek Mishra Windows is an advertising platform first, operating system second. You should be expecting ads.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138537/microsoft-uses-giant-four-page-popup-to-push-windows-10-users-to-upgrade-to-windows-11/">https://www.osnews.com/story/138537/microsoft-uses-giant-four-page-popup-to-push-windows-10-users-to-upgrade-to-windows-11/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138537/microsoft-uses-giant-four-page-popup-to-push-windows-10-users-to-upgrade-to-windows-11/">Save to Pocket</a>
+</span>
+
+---
+
+## My “Everything, Everywhere, All at Once” Dream
+
+date: 2024-02-08, from: Jessica Smith's blog
+
+<p>A few months ago I had this funny dream, which has come back into my mind a few times since and I figure I might as well share. Basically I was back at high school, but Penny Wong was our dictatorial principal, and I was in her office getting castigated for something stupid (probably shooting my mouth off in class; that would&rsquo;ve been very in-character for me at that time). Anyway, she assigned me to some cleaning detail in punishment for what I&rsquo;d done, which is where I think you can see the influence of <a href="https://www.jayeless.net/wiki/my-novel.html">my novel</a> coming in because that&rsquo;s a pretty standard punishment in the world of that story.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>So, there I was, miserably scrubbing windows and removing cobwebs and whatnot, when I looked into one of the buildings and saw <em>another</em> detention going on, an in-classroom detention, and who should I see in detention but VIVIAN, my now-partner, mucking around with some mates. But it wasn&rsquo;t Vivian as I know him now, it was Vivian as I&rsquo;ve seen him in photos of his high school days, packing a bit too much weight and sporting a crazy afro. So I decided to sneak away from <em>my</em> detention, and went up to him in class, where he turned to me with a blank, confused look in his eyes.</p>
+<p>&ldquo;You don&rsquo;t know me in this universe, do you?&rdquo; I asked.</p>
+<p>&ldquo;Yes,&rdquo; he said. &ldquo;Uh, I mean, that&rsquo;s correct, I don&rsquo;t know you.&rdquo; (This is <em>exactly</em> how he answers negative tag questions in real life; it&rsquo;s so annoying.)</p>
+<p>&ldquo;Well,&rdquo; I said, &ldquo;in another universe, you know me <em>very</em> well.&rdquo;</p>
+<p>And I walked away again, leaving it at that. As I did, he kind of went back to mucking around with his mates, but it was with half an eye on me as I went, wondering what could&rsquo;ve been.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Actually, I had one detention in year 12 where I was supposed to do this, as well. I say &ldquo;supposed to&rdquo; because I was so annoyed I even HAD detention (basically I&rsquo;d been like ten seconds late to school, and then five minutes later there was a fire drill and everyone had to congregate outside, so if I&rsquo;d come FIVE MINUTES LATE instead of TEN SECONDS no one would&rsquo;ve known I was late and I wouldn&rsquo;t have been given a detention. I remember venting my frustration to my classmates that I was being PUNISHED for TRYING to be on time, which they found hilarious.) that I just flat-out refused to do it, and the teacher was so thrown (I was mostly a good kid, just a smart ass) that she just went, &ldquo;Okay then,&rdquo; and let me. So not quite the way my dream turned out, then.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+<span class="feed-item-link">
+<a href="https://www.jayeless.net/2024/02/my-everything-everywhere-all-at-once-dream.html">https://www.jayeless.net/2024/02/my-everything-everywhere-all-at-once-dream.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jayeless.net/2024/02/my-everything-everywhere-all-at-once-dream.html">Save to Pocket</a>
+</span>
+
+---
+
+##  Wow, this drone footage of an erupting Icelandic volcano. It gets right... 
+
+date: 2024-02-07, updated: 2024-02-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043935-wow-this-drone-footage-of">https://kottke.org/24/02/0043935-wow-this-drone-footage-of</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043935-wow-this-drone-footage-of">Save to Pocket</a>
+</span>
+
+---
+
+## Many small news nonprofits feel overlooked by funders. A new coalition is giving them a voice
+
+date: 2024-02-07, from: Nieman Journalism Lab
+
+Here’s a question I bet you can’t answer without Googling: What’s Didelphis virginiana? And what does Didelphis virginiana have to do with local news? I couldn’t have answered either question five months ago. But last fall, when I interviewed Corinne Colbert, she introduced me to her publication, the Athens County Independent. That’s how I learned...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/many-small-news-nonprofits-feel-overlooked-by-funders-a-new-coalition-is-giving-them-a-voice/">https://www.niemanlab.org/2024/02/many-small-news-nonprofits-feel-overlooked-by-funders-a-new-coalition-is-giving-them-a-voice/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/many-small-news-nonprofits-feel-overlooked-by-funders-a-new-coalition-is-giving-them-a-voice/">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;The Unspoken Racial Politics of &#8216;Fast Car&#8217; at the Grammys&#8221; 
+
+date: 2024-02-07, updated: 2024-02-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/the-unspoken-racial-politics-of-fast-car-at-the-grammys">https://kottke.org/24/02/the-unspoken-racial-politics-of-fast-car-at-the-grammys</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/the-unspoken-racial-politics-of-fast-car-at-the-grammys">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Sets Coverage for SpaceX, Intuitive Machines First Moon Mission
+
+date: 2024-02-07, from: NASA breaking news
+
+As part of NASA’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign, SpaceX is targeting no earlier than 12:57 a.m. on Wednesday, Feb. 14, for a Falcon 9 launch of Intuitive Machines’ first lunar lander to the Moon’s surface. Liftoff will be from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-intuitive-machines-first-moon-mission/">https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-intuitive-machines-first-moon-mission/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-intuitive-machines-first-moon-mission/">Save to Pocket</a>
+</span>
+
+---
+
+## First Look: Spaceplane Stacked and Shaken at NASA Test Facility
+
+date: 2024-02-07, from: NASA breaking news
+
+Nose-up and bathed in soft blue lights, Sierra Space’s Dream Chaser spaceplane and its Shooting Star cargo module cast dramatic shadows onto the walls of NASA’s Neil Armstrong Test Facility in Sandusky, Ohio, as members of the media got their first glimpse of the towering 55-foot-tall stack on Feb. 1. The spaceplane and its cargo [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/glenn/first-look-spaceplane-stacked-and-shaken-at-nasa-test-facility/">https://www.nasa.gov/centers-and-facilities/glenn/first-look-spaceplane-stacked-and-shaken-at-nasa-test-facility/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/glenn/first-look-spaceplane-stacked-and-shaken-at-nasa-test-facility/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Selects Agencywide Acquisition Support Services Contractor
+
+date: 2024-02-07, from: NASA breaking news
+
+NASA has selected 8(a) vendor Seventh Sense Consulting LLC of Woodbridge, Virginia, to provide acquisition support services for non-inherently governmental functions across the agency. The contractor will provide services agencywide, including document development support, procurement administrative services, acquisition policy support, procurement operations support, procurement source selection support, cost/pricing support, and contract closeout support. The latter [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-selects-agencywide-acquisition-support-services-contractor/">https://www.nasa.gov/news-release/nasa-selects-agencywide-acquisition-support-services-contractor/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-selects-agencywide-acquisition-support-services-contractor/">Save to Pocket</a>
+</span>
+
+---
+
+##  John Cage&#8217;s composition Organ^2/ASLSP will play continuously in a German church until... 
+
+date: 2024-02-07, updated: 2024-02-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043938-john-cages-composition-or">https://kottke.org/24/02/0043938-john-cages-composition-or</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043938-john-cages-composition-or">Save to Pocket</a>
+</span>
+
+---
+
+## 2024-02-07 Apple killed music on the move, for me
+
+date: 2024-02-07, from: Alex Schroeder's Blog
+
+<h1>2024-02-07 Apple killed music on the move, for me</h1>
+
+<p>I was thinking about joining the <a href="https://www.crowdsupply.com/cool-tech-zone/tangara">Tangara</a> crowdfunding. It&rsquo;s a kind of iPod, but better in that it is all open. Yay!</p>
+
+<p>But then I realized something: Having an iPhone made listening to music such a shit show that I basically stopped and switched my entire phone-based audio entertainment to podcasts. Because podcast clients are great (at least <a href="https://icatcher.app/about/">iCatcher</a> is) where as Apple Music is a pain. Having used iTunes when it was cool until it was unusable, and then realizing what a pain the weird AAC formats on the files were, and the DRM on some of them, preventing me from playing them on other machines I owned. I was so angry.</p>
+
+<p>In a fit of hate I decided I was going to <a href="2019-07-08_Apple_Photos">move all my pictures out of iPhotos</a> and all my music out of iTunes and never go back. And I did. And so the Apple Music app died, and I guess no alternatives were allowed on the App Store because Apple is great like that, and so when the iPod classic I had with <a href="2017-12-21_Rockbox_on_the_iPod">Rockbox</a> installed <a href="2022-11-18_iPod%2C_iPad%2C_iPhone%2C_iPiss">finally died</a>, all I was left with was podcasts on the iPhone.</p>
+
+<p>And so now I don&rsquo;t even know whether I want to listen to music any more while I&rsquo;m on the move.</p>
+
+<p>Apple killed music on the move, for me.</p>
+
+<p>At home it&rsquo;s a different story, of course, but Tangara is a portable music player.</p>
+
+<p>I wish Tangara the best of luck.</p>
+
+<p><a class="tag" href="/search/?q=%23Apple">#Apple</a> <a class="tag" href="/search/?q=%23Copyright">#Copyright</a> <a class="tag" href="/search/?q=%23DRM">#DRM</a></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-02-07-tangara">https://alexschroeder.ch/view/2024-02-07-tangara</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-02-07-tangara">Save to Pocket</a>
+</span>
+
+---
+
+## The Marshall Star for February 7, 2024
+
+date: 2024-02-07, from: NASA breaking news
+
+NASA Administrator Announces New Marshall Space Flight Center Director NASA Administrator Bill Nelson on Feb. 5 named Joseph Pelfrey director of the agency’s Marshall Space Flight Center, effective immediately. Pelfrey has served as acting center director since July 2023. “Joseph is a respected leader who shares the passion for innovation and exploration at NASA Marshall. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-february-7-2024/">https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-february-7-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-february-7-2024/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-07, from: Dave Winer's Scripting News)
+
+Social networks and RSS. We really should be on the case for all social media networks to support RSS feeds outbound at least (inbound nice too). And also add features to make interop really useful. I've enumerated them <a href="https://textcasting.org/">here</a>. I am making software that builds on this feature in social networks. And yes we do have some examples of that, thinking of WordPress and competitors. I think they are perfectly good bases for social networks.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/07.html#a201729">http://scripting.com/2024/02/07.html#a201729</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/07.html#a201729">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-07, from: Dave Winer's Scripting News)
+
+I went skiing today at <a href="https://en.wikipedia.org/wiki/Belleayre_Mountain">Belleayre</a>. First time in five years. It was great. I've been working out to get ready for it, and was concerned maybe I'm finally too old, but it's good. My body remembers how to ski. And being in shape makes the difference. No doubt at some point I will be too old for it. But not yet. And the snow was really good, for the east. Packed powder, very little ice. No lift lines. Sometimes a little crowded on the slopes but about the same as any ski area in the west. It pays to go on weekdays if you can. Here's a <a href="https://www.belleayre.com/mountain/trail-map-and-mountain-stats/">trail map</a> and some stats on the area.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/07.html#a201616">http://scripting.com/2024/02/07.html#a201616</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/07.html#a201616">Save to Pocket</a>
+</span>
+
+---
+
+## A greener buzz?
+
+date: 2024-02-07, from: Status-Q blog
+
+When I was young, electric toothbrushes were something we laughed at.  Imagine being too lazy even to wiggle a toothbrush up and down without powered assistance! But as an adult, I discovered that most dentists now thought they were rather good, and recommended them.   Electric toothbrushes did a better job of cleaning in general, <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/02/07/11943/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>
+
+<span class="feed-item-link">
+<a href="https://statusq.org/archives/2024/02/07/11943/">https://statusq.org/archives/2024/02/07/11943/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://statusq.org/archives/2024/02/07/11943/">Save to Pocket</a>
+</span>
+
+---
+
+##  Black History in Two Minutes (or so) 
+
+date: 2024-02-07, updated: 2024-02-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/black-history-in-two-minutes-or-so">https://kottke.org/24/02/black-history-in-two-minutes-or-so</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/black-history-in-two-minutes-or-so">Save to Pocket</a>
+</span>
+
+---
+
+## CGPDFService
+
+date: 2024-02-07, from: Michael Tsai
+
+Howard Oakley: CGPDFService turns out to be quite a small background XPC process inside the CoreGraphics framework, located on the System volume (SSV) in the path /System/Library/Frameworks/CoreGraphics.framework/Versions/A/XPCServices/CGPDFService.xpc. The executable is around 313 KB, and is currently in version and build number 1, as it shipped with the first release of Sonoma.[&#8230;]CGPDFService processes reset their user [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/07/cgpdfservice/">https://mjtsai.com/blog/2024/02/07/cgpdfservice/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/07/cgpdfservice/">Save to Pocket</a>
+</span>
+
+---
+
+## Inside Code Signing: Certificates
+
+date: 2024-02-07, from: Michael Tsai
+
+TN3161 (via Quinn): To condense this into plain English, this certificate says that &#8220;Apple certifies that this developer is associated with this public key, and the matching private key can be used to sign Mac code.&#8221; This is clearly a simplification&#8212;it doesn&#8217;t touch on the valid date range, serial number, or even how Apple identified [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/07/inside-code-signing-certificates/">https://mjtsai.com/blog/2024/02/07/inside-code-signing-certificates/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/07/inside-code-signing-certificates/">Save to Pocket</a>
+</span>
+
+---
+
+## Bluesky Opens to the Public
+
+date: 2024-02-07, from: Michael Tsai
+
+Bluesky (Hacker News): Bluesky is building an open social network where anyone can contribute, while still providing an easy-to-use experience for users. For the past year, we used invite codes to help us manage growth while we built features like moderation tooling, custom feeds, and more. Now, we&#8217;re ready for anyone to join.[&#8230;]To learn more [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/07/bluesky-opens-to-the-public/">https://mjtsai.com/blog/2024/02/07/bluesky-opens-to-the-public/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/07/bluesky-opens-to-the-public/">Save to Pocket</a>
+</span>
+
+---
+
+## Flickr and Facebook at 20
+
+date: 2024-02-07, from: Michael Tsai
+
+Flickr: To celebrate this huge milestone, we&#8217;re taking a trip down memory lane to explore all of the technological and structural moments that have shaped Flickr into what it is now. Mark Zuckerberg: 20 years ago I launched a thing. Along the way, lots of amazing people joined and we built some more awesome things. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/07/flickr-and-facebook-at-20/">https://mjtsai.com/blog/2024/02/07/flickr-and-facebook-at-20/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/07/flickr-and-facebook-at-20/">Save to Pocket</a>
+</span>
+
+---
+
+## Astronaut Bruce McCandless Performs the First Untethered Spacewalk
+
+date: 2024-02-07, from: NASA breaking news
+
+Astronaut Bruce McCandless II approaches his maximum distance from the Earth-orbiting Space Shuttle Challenger in this 70mm photo from Feb. 7, 1984. While testing out the nitrogen-propelled, hand-controlled back-pack device called the manned maneuvering unit (MMU) for the first time, McCandless’s fellow crewmembers aboard the reusable vehicle photographed him. The MMU allowed crews to move [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/astronaut-bruce-mccandless-performs-the-first-untethered-spacewalk/">https://www.nasa.gov/image-article/astronaut-bruce-mccandless-performs-the-first-untethered-spacewalk/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/astronaut-bruce-mccandless-performs-the-first-untethered-spacewalk/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-07, from: Miguel de Icaza Mastondon feed)
+
+<p>In this blog post, I cover the work to make Godot on iPadOS viable.</p><p>This describes what I did get the editor and the game to play well with each other:</p><p><a href="https://blog.la-terminal.net/making-godot-viable-on-ipados/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/making-go</span><span class="invisible">dot-viable-on-ipados/</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111891779662435060">https://mastodon.social/@Migueldeicaza/111891779662435060</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111891779662435060">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;The basic problem with the conservative discourse around &#8216;parents&#8217; rights&#8217; is that... 
+
+date: 2024-02-07, updated: 2024-02-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043937-the-basic-problem-with-th">https://kottke.org/24/02/0043937-the-basic-problem-with-th</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043937-the-basic-problem-with-th">Save to Pocket</a>
+</span>
+
+---
+
+## 50 Years Ago: Skylab 4 Astronauts Return From Record-Breaking Spaceflight
+
+date: 2024-02-07, from: NASA breaking news
+
+The longest spaceflight up to that time ended on Feb. 8, 1974, when Skylab 4 astronauts Gerald P. Carr, Edward G. Gibson, and William R. Pogue splashed down in the Pacific Ocean after their 84-day mission aboard Skylab, America’s first space station. During their stay, they carried out a challenging research program, including biomedical investigations [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/history/50-years-ago-skylab-4-astronauts-return-from-record-breaking-spaceflight/">https://www.nasa.gov/history/50-years-ago-skylab-4-astronauts-return-from-record-breaking-spaceflight/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/history/50-years-ago-skylab-4-astronauts-return-from-record-breaking-spaceflight/">Save to Pocket</a>
+</span>
+
+---
+
+##  Rubble From Bone by Tom Stevenson for the London Review of Books.... 
+
+date: 2024-02-07, updated: 2024-02-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043936-rubble-from-bone-the-war">https://kottke.org/24/02/0043936-rubble-from-bone-the-war</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043936-rubble-from-bone-the-war">Save to Pocket</a>
+</span>
+
+---
+
+## Could GPT-5 revolutionize military strategy?
+
+date: 2024-02-07, from: Gary Marcus blog
+
+Sam Altman is a fantastic strategic thinker. Satya Nadella is a fantastic strategic thinker. Demis Hassabis is one of the greatest all-around games players of all time. ChatGPT, not so much. It&#8217;s notorious for making illegal moves in chess. How about something easier?
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/could-gpt-5-revolutionize-military">https://garymarcus.substack.com/p/could-gpt-5-revolutionize-military</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/could-gpt-5-revolutionize-military">Save to Pocket</a>
+</span>
+
+---
+
+## The New York Times made more than $1 billion from digital subscriptions in 2023
+
+date: 2024-02-07, from: Nieman Journalism Lab
+
+The New York Times ended 2023 with 10.36 million subscribers, including 9.7 digital-only subscribers, according to an end-of-year report presented to investors on Wednesday. The Times added 300,000 new digital-only subscribers in the last months of 2023, more than it added in any quarter for the previous year. The Times now makes more than twice...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/the-new-york-times-made-more-than-1-billion-from-digital-subscriptions-in-2023/">https://www.niemanlab.org/2024/02/the-new-york-times-made-more-than-1-billion-from-digital-subscriptions-in-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/the-new-york-times-made-more-than-1-billion-from-digital-subscriptions-in-2023/">Save to Pocket</a>
+</span>
+
+---
+
+##  How to Comment on Social Media 
+
+date: 2024-02-07, updated: 2024-02-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/how-to-comment-on-social-media">https://kottke.org/24/02/how-to-comment-on-social-media</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/how-to-comment-on-social-media">Save to Pocket</a>
+</span>
+
+---
+
+## A rant on ARC Search
+
+date: 2024-02-07, from: Manu - I write blog
+
+<p>I was listening to the most recent <a href="https://www.theverge.com/2024/2/6/24063221/ai-search-arc-galaxy-s24-spatial-video-vergecast">Vergecast</a> episode last night and an interview with Josh Miller, CEO of The Browser Company, makers of the ARC Browser and the new ARC Search app. I found the whole interview baffling.</p>
+<p>Josh is rightfully complaining about the state of the web, specifically the mobile web, but the solution he’s proposing is so stupidly naive that I’m not entirely sure whether he’s just fucking with us.</p>
+<p>His whole point is that search engines are not the best way to surface information. You search for something, you’re presented with a list of links, and you have to click through them and actively look for the thing you were searching for. The proposed solution is AI—who would have thought—that essentially googles for you, “reads” a bunch of the links, and then creates a summary page.</p>
+<p>All this is obviously done by stripping away all the tracking and ads that are part of today’s web.</p>
+<p>You’re smart and so you probably spotted the issue with this approach already. Firstly, without a search engine in the mix, the AI has no way to search for anything. So if the goal is to replace the traditional search engine then we’re already failing. Because we’re not replacing anything, we’re just hiding it behind some AI tool.</p>
+<p>Maybe this is a problem that can be solved by maintaining a new dedicated index but then you just have a search engine with a different UI in front of it.</p>
+<p>The second issue is one of trust. Should I just trust ARC Search? Who can guarantee that the sources used by ARC are not just companies that have paid ARC to be used as such? “But Manu, ARC Search doesn’t just provide the answer to your query, it also provides links to the sources.“ Well then congratulations, you just recreated an AI-nerfed SERP with fewer links and more extra layers.</p>
+<p>Now, let’s ignore all this and imagine this approach does work. Let’s imagine we all get on board with this stupid idea of having an AI searching for you. What happens to the web as a whole? Why should I keep creating content for the web if I’m a content creator who relies on traffic to run my creative business? No one will visit my site because the relevant content will be consumed by some boring ass generated pages. And without content on the web, products like ARC Search are pointless.</p>
+<p>What would happen, if something like this were to go mainstream, is that more and more content would go behind a paywall, kept away from AI. And for good reason.</p>
+<p>I’m very unimpressed by this interview. I’m also very unimpressed by most AI products these days.</p>
+<p>The problem with search is not the UI. Having an AI search for me won’t solve the issue of the sea of garbage content out there. </p>
+<p>But hey, the product is here so let’s take it for a spin and see if it’s any good. I just downloaded ARC Search on my phone and searched for <em>“books on Japanese aesthetics”</em>.</p>
+<p>This is what a “regular” search looks like inside ARC search and yes, that’s a Google search, because it obviously is.</p>
+<figure class="m-o" data-template="with"><div class="m-m"><img class="img" loading="lazy" src="https://manuelmoreale.com/media/pages/thoughts/a-rant-on-arc-search/ee7cc1b9d8-1707328208/google.jpg" style="aspect-ratio:1000 / 721"></div></figure>
+<p>The first thing I see is a books section with 4 suggested books and 42 more 1 click away. If I’m looking for a book, that’s probably a good enough starting point. Below that section, there are a bunch of sites, related queries, the usual stuff.</p>
+<p>Let’s do the same thing, using this revolutionary way to browse the web powered by AI. Conveniently, ARC tells me the AI is reading 6 web pages.</p>
+<figure class="m-o" data-template="with"><div class="m-m"><img class="img" loading="lazy" src="https://manuelmoreale.com/media/pages/thoughts/a-rant-on-arc-search/6f75e932fd-1707328206/arc-1.jpg" style="aspect-ratio:616 / 1333"></div></figure>
+<p>There are probably 700-billion-trillion pages out there but ARC has picked 6. Why those 6? No idea. Have those 6 paid to be there? No idea. Should I just trust that those 6 are reputable sources? Yup. A couple of seconds later this is what I get:</p>
+<figure class="m-o" data-template="with"><div class="m-m"><img class="img" loading="lazy" src="https://manuelmoreale.com/media/pages/thoughts/a-rant-on-arc-search/f6ea8736f5-1707328207/arc-2.jpg" style="aspect-ratio:1000 / 433"></div></figure>
+<p>5 books recommended to me in a somewhat compact list. Then I have 3 Top Search Results that are just the top 3 links in Google search. After that I get a completely pointless repetition of the initial list but this time with some more information and worse information density. At the end, I get a bunch of more links.</p>
+<p>Can you tell me in what way this is better than a normal search results page? The problem with search is that it’s full of fucking spam and ads. That’s the problem with search. The solution to search is not to “reinvent the browser” or to use AI to power searches for you. The solution to search is a search engine that is aligned with the users.</p>
+<p>I’d much rather support <a href="https://kagi.com">Kagi</a> and <a href="https://search.marginalia.nu">Marginalia</a> than The Browser Company.</p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/cdXJ5HNGVkqYrnRN">https://manuelmoreale.com/@/page/cdXJ5HNGVkqYrnRN</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/cdXJ5HNGVkqYrnRN">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;Wherever you get your podcasts&#8221; is a radical statement. Podcasting is &#8220;not... 
+
+date: 2024-02-07, updated: 2024-02-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043928-wherever-you-get-your-pod">https://kottke.org/24/02/0043928-wherever-you-get-your-pod</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043928-wherever-you-get-your-pod">Save to Pocket</a>
+</span>
+
+---
+
+##  An extensive collection of vintage Japanese hotel and ryokan luggage tags. You... 
+
+date: 2024-02-07, updated: 2024-02-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043931-an-extensive-collection-o">https://kottke.org/24/02/0043931-an-extensive-collection-o</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043931-an-extensive-collection-o">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-07, from: Miguel de Icaza Mastondon feed)
+
+<p>“Because Android is such a sewer of scams, Google is trialing blocking all unverified apps at the Singapore level. </p><p>Every other day in Singapore, there is a story about unsophisticated users scanning QR codes to get a discount from a shop, getting tricked into installing an app which ends up draining their bank accounts.”</p><p>Via: <a href="https://www.threads.net/@davidjrainey/post/C3DB515RO88/?igshid=MzRlODBiNWFlZA==" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">threads.net/@davidjrainey/post</span><span class="invisible">/C3DB515RO88/?igshid=MzRlODBiNWFlZA==</span></a></p><p>Article: <br /><a href="https://www.straitstimes.com/tech/android-users-in-s-pore-to-be-blocked-from-sideloading-as-part-of-anti-scam-trial" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">straitstimes.com/tech/android-</span><span class="invisible">users-in-s-pore-to-be-blocked-from-sideloading-as-part-of-anti-scam-trial</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111891159621196612">https://mastodon.social/@Migueldeicaza/111891159621196612</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111891159621196612">Save to Pocket</a>
+</span>
+
+---
+
+## Raspberry Pi Pico feeds Píkíta the chihuahua twice a day
+
+date: 2024-02-07, from: Raspberry Pi News (.com)
+
+<p>Riciery Penques's chihuahua, Píkíta, needs feeding twice a day. He built a Raspberry Pi Pico-powered pet food dispenser to make sure she never misses a meal.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/raspberry-pi-pico-feeds-pikita-the-chihuahua-twice-a-day/">Raspberry Pi Pico feeds Píkíta the chihuahua twice a day</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/raspberry-pi-pico-feeds-pikita-the-chihuahua-twice-a-day/">https://www.raspberrypi.com/news/raspberry-pi-pico-feeds-pikita-the-chihuahua-twice-a-day/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/raspberry-pi-pico-feeds-pikita-the-chihuahua-twice-a-day/">Save to Pocket</a>
+</span>
+
+---
+
+## Class Notes: Two Renewals
+
+date: 2024-02-07, from: Ayjay blog
+
+In my Christian Renaissance of the Twentieth Century class, we’re reading, back-to-back, passages from Jacques Maritain’s Art and Scholasticism (1920) and Karl Barth’s 1922 lecture “The Word of God and the Task of Theology” (reprinted in this excellent collection of writings by Barth, edited by Keith Johnson). It’s interesting to compare these two vital figures, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/two-renewals/">https://blog.ayjay.org/two-renewals/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/two-renewals/">Save to Pocket</a>
+</span>
+
+---
+
+## Nuevos astronautas de Artemis se gradúan y la NASA hará la cobertura
+
+date: 2024-02-07, from: NASA breaking news
+
+Read this release in English&#160;here. La NASA rendirá homenaje a la nueva generación de candidatos a astronautas para el programa Artemis durante su acto de graduación, a las 10:30&#160;a.m. hora del este del miércoles 5 de marzo en el Centro Espacial Johnson de la agencia en Houston. Después de completar más de dos años de [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nuevos-astronautas-de-artemis-se-graduan-y-la-nasa-hara-la-cobertura/">https://www.nasa.gov/news-release/nuevos-astronautas-de-artemis-se-graduan-y-la-nasa-hara-la-cobertura/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nuevos-astronautas-de-artemis-se-graduan-y-la-nasa-hara-la-cobertura/">Save to Pocket</a>
+</span>
+
+---
+
+## Maze Proof Establishes a ‘Backbone’ for Statistical Mechanics
+
+date: 2024-02-07, from: Quanta Magazine
+
+Four mathematicians have estimated the chances that there’s a clear path through a random maze.            <p>The post <a href="https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/" target="_blank">Maze Proof Establishes a ‘Backbone’ for Statistical Mechanics</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/">https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/">Save to Pocket</a>
+</span>
+
+---
+
+## New Artemis Generation Astronauts to Graduate, NASA Sets Coverage
+
+date: 2024-02-07, from: NASA breaking news
+
+Lee esta nota de prensa en español&#160;aquí. NASA will honor the next generation of Artemis astronaut candidates to graduate at 10:30 a.m. EST Tuesday, March 5, at the agency’s Johnson Space Center in Houston. After completing more than two years of basic training, these candidates will earn their wings and become eligible for spaceflight, including [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/new-artemis-generation-astronauts-to-graduate-nasa-sets-coverage/">https://www.nasa.gov/news-release/new-artemis-generation-astronauts-to-graduate-nasa-sets-coverage/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/new-artemis-generation-astronauts-to-graduate-nasa-sets-coverage/">Save to Pocket</a>
+</span>
+
+---
+
+## For Your Processing Pleasure: The Sharpest Pictures of Jupiter’s Volcanic Moon Io in a Generation
+
+date: 2024-02-07, from: NASA breaking news
+
+NASA’s Juno spacecraft just made the closest flybys of Jupiter’s moon Io that any spacecraft has carried out in more than 20 years. An instrument on this spacecraft called “JunoCam” returned spectacular, high-resolution images—and raw data are now available for you to process, enhance, and investigate. On Dec. 30th, 2023, Juno came within about 930 miles (1,500 kilometers) of […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/get-involved/citizen-science/for-your-processing-pleasure-the-sharpest-pictures-of-jupiters-volcanic-moon-io-in-a-generation/">https://science.nasa.gov/get-involved/citizen-science/for-your-processing-pleasure-the-sharpest-pictures-of-jupiters-volcanic-moon-io-in-a-generation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/get-involved/citizen-science/for-your-processing-pleasure-the-sharpest-pictures-of-jupiters-volcanic-moon-io-in-a-generation/">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;What Relationships Would You Want if You Believed They Were Possible?&#8221; 
+
+date: 2024-02-07, updated: 2024-02-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/what-relationships-would-you-want-if-you-believed-they-were-possible">https://kottke.org/24/02/what-relationships-would-you-want-if-you-believed-they-were-possible</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/what-relationships-would-you-want-if-you-believed-they-were-possible">Save to Pocket</a>
+</span>
+
+---
+
+##  A unified theory of fucks. &#8220;Give a fuck about yourself, about your... 
+
+date: 2024-02-07, updated: 2024-02-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043929-a-unified-theory-of-fucks">https://kottke.org/24/02/0043929-a-unified-theory-of-fucks</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043929-a-unified-theory-of-fucks">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s Roman to Use Rare Events to Calculate Expansion Rate of Universe
+
+date: 2024-02-07, from: NASA breaking news
+
+Astronomers investigating one of the most pressing mysteries of the cosmos – the rate at which the universe is expanding – are readying themselves to study this puzzle in a new way using NASA’s Nancy Grace Roman Space Telescope. Once it launches by May 2027, astronomers will mine Roman’s wide swaths of images for gravitationally [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-use-rare-events-to-calculate-expansion-rate-of-universe/">https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-use-rare-events-to-calculate-expansion-rate-of-universe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-to-use-rare-events-to-calculate-expansion-rate-of-universe/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-07, from: Miguel de Icaza Mastondon feed)
+
+<p>This article is precious, read and share.</p><p>By Jeremy Scahill, friend of the show, “Since October 7, Israel has systematically flooded the public discourse on Gaza with a stream of false, unsubstantiated, &amp; unverifiable allegations.</p><p>My new article on Israel’s propaganda warfare and how the White House has laundered the lies“</p><p><a href="https://theintercept.com/2024/02/07/gaza-israel-netanyahu-propaganda-lies-palestinians/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">theintercept.com/2024/02/07/ga</span><span class="invisible">za-israel-netanyahu-propaganda-lies-palestinians/</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111890537425243573">https://mastodon.social/@Migueldeicaza/111890537425243573</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111890537425243573">Save to Pocket</a>
+</span>
+
+---
+
+## Keep Your My Wifi’s Name Out Your Fucking Mouth
+
+date: 2024-02-07, updated: 2024-02-07, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/02/07/keep-your-my-wifis-name-out-of-your-fucking-mouth/">https://onefoottsunami.com/2024/02/07/keep-your-my-wifis-name-out-of-your-fucking-mouth/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/02/07/keep-your-my-wifis-name-out-of-your-fucking-mouth/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-07, from: Miguel de Icaza Mastondon feed)
+
+<p>What Israel has        Where civilians<br />bombed:                      live in Gaza:</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111890418317107426">https://mastodon.social/@Migueldeicaza/111890418317107426</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111890418317107426">Save to Pocket</a>
+</span>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-02-07, from: Tomosino's Mastodon feed)
+
+<p>I have a podcast about Solarpunk for writers called Solarpunk Prompts. It's about halfway through season 2. The episode released today is called <strong>The Tower</strong>:</p><blockquote><p>Displaced people are moved into a new sustainable climate-controlled tower designed to help them find community. For some it's a dream come true, for others a culture shock. How will this setting come to life as a vision for a Solarpunk future? How can we envision a better way of living by focusing on their humanity?</p></blockquote><p><a href="https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tower" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">podcast.tomasino.org/@Solarpun</span><span class="invisible">kPrompts/episodes/the-tower</span></a></p><p>The podcast is based around the idea of providing a new writing prompt each episode that explores some of the themes of the Solarpunk genre and activist movement. We discuss some inspirations, considerations, and various ways to tell the story.</p><p>While the subject matter is focused on writing, the audience is quite diverse. Many non-writers enjoy it simply to learn more about Solarpunk in general.</p><p>Have a listen! You can find it at the link above, or by searching in your favorite podcast app. If you don't know what Solarpunk is at all, you might try listening to Episode 1 of Season 1 for an overview of the genre and movement, and the reasons why this podcast came into being.</p><p>Most episodes are around 10 minutes long. The Tower is our longest at just over 16 minutes.</p><p><a href="https://tilde.zone/tags/solarpunk" class="mention hashtag" rel="tag">#<span>solarpunk</span></a> <a href="https://tilde.zone/tags/writing" class="mention hashtag" rel="tag">#<span>writing</span></a> <a href="https://tilde.zone/tags/podcast" class="mention hashtag" rel="tag">#<span>podcast</span></a> <a href="https://tilde.zone/tags/hope" class="mention hashtag" rel="tag">#<span>hope</span></a> <a href="https://tilde.zone/tags/inspiration" class="mention hashtag" rel="tag">#<span>inspiration</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://tilde.zone/@tomasino/111890023601684348">https://tilde.zone/@tomasino/111890023601684348</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tilde.zone/@tomasino/111890023601684348">Save to Pocket</a>
+</span>
+
+---
+
+## PiStorm - The evolution of an open source Amiga accelerator
+
+date: 2024-02-07, from: Tilde.news
+
+<p><a href="https://tilde.news/s/1agufw/pistorm_evolution_open_source_amiga">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://fosdem.org/2024/schedule/event/fosdem-2024-1742-pistorm-the-evolution-of-an-open-source-amiga-accelerator/">https://fosdem.org/2024/schedule/event/fosdem-2024-1742-pistorm-the-evolution-of-an-open-source-amiga-accelerator/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fosdem.org/2024/schedule/event/fosdem-2024-1742-pistorm-the-evolution-of-an-open-source-amiga-accelerator/">Save to Pocket</a>
+</span>
+
+---
+
+## HoRNDIS MacGyvers your Mac to get online with Androids
+
+date: 2024-02-07, updated: 2024-02-07, from: Liam Proven's articles at the Register
+
+<h4><span class="label">FOSS Fest</span> Apple makes this harder every macOS release, but there are ways nonetheless</h4>
+      <p>These days, Macs will only talk to Apple phones to get online out of the box, but you can get around the restrictions if you're determined enough.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/07/horndis_android_mac/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/07/horndis_android_mac/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/07/horndis_android_mac/">Save to Pocket</a>
+</span>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-02-07, from: Jessica Smith's blog)
+
+<p>My partner&rsquo;s aunt just called him to ask if she could call him in five minutes. I feel like Lady Gaga had <a href="https://song.link/i/1445842433">some words of wisdom<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> to impart on this topic&hellip;</p>
+
+<span class="feed-item-link">
+<a href="https://www.jayeless.net/2024/02/stop-telephoning-me.html">https://www.jayeless.net/2024/02/stop-telephoning-me.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jayeless.net/2024/02/stop-telephoning-me.html">Save to Pocket</a>
+</span>
+
+---
+
+## Here’s how WhatsApp plans to interoperate with other messaging apps
+
+date: 2024-02-07, from: OS News
+
+As noted by Wired, WhatsApp wants the messaging services it connects with to use the same Signal Protocol to encrypt messages. Meta is also open to apps using alternate encryption protocols so long as companies can prove “they reach the security standards that WhatsApp outlines in its guidance.” The third-party services will also have to sign a contract with Meta before they plug into WhatsApp, with more details about the agreement coming in March. ↫ Emma Roth at The Verge They way this should work is that these megacorporations create free and open APIs any instant messaging application can tap into. I&#8217;m not looking to bring other services into WhatsApp; I&#8217;m looking to bring all services together in one unified application that respects my platform&#8217;s conventions and integrates properly with the operating systems I use. I feel like this contractual interoperability Facebook (and Apple) is offering is not interoperability at all, and does not reflect the spirit of the Digital Markets Act.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138533/heres-how-whatsapp-plans-to-interoperate-with-other-messaging-apps/">https://www.osnews.com/story/138533/heres-how-whatsapp-plans-to-interoperate-with-other-messaging-apps/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138533/heres-how-whatsapp-plans-to-interoperate-with-other-messaging-apps/">Save to Pocket</a>
+</span>
+
+---
+
+## Thou shalt follow these vintage computing commandments
+
+date: 2024-02-07, from: OS News
+
+Since vintage computing is supposed to be a spiritual experience, I point out that today, February 3, 2024, the Torah reading for this week is the Ten Commandments. Regardless of your religious tradition or lack thereof, I think we can all agree on these. ↫ Old Vintage Computing Research Amen.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138527/thou-shalt-follow-these-vintage-computing-commandments/">https://www.osnews.com/story/138527/thou-shalt-follow-these-vintage-computing-commandments/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138527/thou-shalt-follow-these-vintage-computing-commandments/">Save to Pocket</a>
+</span>
+
+---
+
+## Best SEO spam 2024 reddit
+
+date: 2024-02-07, from: Marginallia log
+
+One of the great joys of working on a search engine is that you get to reverse engineer SEO spam, and overall study how it evolves over time.
+I&rsquo;ve been noticing the search engine spam strategy of adding &lsquo;reddit&rsquo; to page titles for a few years now, but it feels like it&rsquo;s been growing a lot recently. I don&rsquo;t think it&rsquo;s actually working, but it&rsquo;s so cute that they are trying.
+
+<span class="feed-item-link">
+<a href="https://www.marginalia.nu/log/a_100_reddit_spam/">https://www.marginalia.nu/log/a_100_reddit_spam/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.marginalia.nu/log/a_100_reddit_spam/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-06, from: Miguel de Icaza Mastondon feed)
+
+<p>The genocide continues unabated and with a juicy 17.5 billion dollars of my tax dollars with no strings attached.</p><p>And they managed to kill 10,000 children with just a fifth of the budget.</p><p>Those additional funds are a welcome addition by Israel to blow up innocent children, their hostages, women, men and a dozen Hamas operatives.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111887221005065277">https://mastodon.social/@Migueldeicaza/111887221005065277</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111887221005065277">Save to Pocket</a>
+</span>
+
+---
+
+## gathio - A quick and easy way to make and share events which respects your privacy
+
+date: 2024-02-06, from: Tilde.news
+
+<p><a href="https://tilde.news/s/g058a0/gathio_quick_easy_way_make_share_events">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://gath.io">https://gath.io</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://gath.io">Save to Pocket</a>
+</span>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-02-06, from: Jessica Smith's blog)
+
+<p>Am writing again after a few days&rsquo; break (my first &ldquo;few days&rsquo; break&rdquo; since late December, so this is progress!). Still somewhat sleep-deprived and I hit a point with this scene where I&rsquo;m like, &ldquo;Man, where is this even going again?&rdquo; Scrolled up to the scene synopsis and came to the painful realisation that it&rsquo;s not up to date because it would be a duplicate of the scene, like, six scenes ago. So now I have to work out where the scene is going&hellip; 😒</p>
+
+<span class="feed-item-link">
+<a href="https://www.jayeless.net/2024/02/where-is-this-scene-going.html">https://www.jayeless.net/2024/02/where-is-this-scene-going.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jayeless.net/2024/02/where-is-this-scene-going.html">Save to Pocket</a>
+</span>
+
+---
+
+## EU right to repair: sellers will be liable for a year after products are fixed
+
+date: 2024-02-06, from: OS News
+
+Europe&#8217;s right-to-repair rules will force vendors to stand by their products an extra 12 months after a repair is made, according to the terms of a new political agreement. Consumers will have a choice between repair and replacement of defective products during a liability period that sellers will be required to offer. The liability period is slated to be a minimum of two years before any extensions.  The rules require spare parts to be available at reasonable prices, and product makers will be prohibited from using &#8220;contractual, hardware or software related barriers to repair, such as impeding the use of second-hand, compatible and 3D-printed spare parts by independent repairers,&#8221; the Commission said. ↫ Jon Brodkin at Ars Technica An excellent set of rules, and once again puts the EU at the forefront of consumer protection. Maybe some of it will trickle down to other places in the world.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138530/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/">https://www.osnews.com/story/138530/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138530/eu-right-to-repair-sellers-will-be-liable-for-a-year-after-products-are-fixed/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-06, from: Dave Winer's Scripting News)
+
+This is the <a href="https://www.threads.net/@kteare/post/C2-MHcJL1L5">first pitch</a> I’ve heard for the Apple goggles that actually makes me want to buy a pair. If there were an Apple Store nearby I probably would have already gotten it.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/06.html#a212013">http://scripting.com/2024/02/06.html#a212013</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/06.html#a212013">Save to Pocket</a>
+</span>
+
+---
+
+## Browsers are weird right now
+
+date: 2024-02-06, from: OS News
+
+I love this quick to-the-point summary of most of the popular browsers out there right now. I&#8217;m a Firefox user, of course, since it&#8217;s the best choice between Chrome (I&#8217;d rather choose death), Safari (not cross-platform so utterly pointless), the various Chrome skins, and Firefox (the one independent browser). Still, I&#8217;m continuously worried about Firefox&#8217; future &#8211; specifically on platforms other than Windows or macOS &#8211; and strongly believe we need more true alternatives for a healthier browser ecosystem.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138528/browsers-are-weird-right-now/">https://www.osnews.com/story/138528/browsers-are-weird-right-now/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138528/browsers-are-weird-right-now/">Save to Pocket</a>
+</span>
+
+---
+
+## Build Distribution for Maintaining the Famous GCC 4.7
+
+date: 2024-02-06, from: Tilde.news
+
+<p><a href="https://tilde.news/s/bkatuw/build_distribution_for_maintaining">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://fosdem.org/2024/schedule/event/fosdem-2024-2690-build-distribution-for-maintaining-the-famous-gcc-4-7/">https://fosdem.org/2024/schedule/event/fosdem-2024-2690-build-distribution-for-maintaining-the-famous-gcc-4-7/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fosdem.org/2024/schedule/event/fosdem-2024-2690-build-distribution-for-maintaining-the-famous-gcc-4-7/">Save to Pocket</a>
+</span>
+
+---
+
+##  Bluesky is opening up to the public this week. Hot take: I... 
+
+date: 2024-02-06, updated: 2024-02-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043927-bluesky-is-opening-up-to">https://kottke.org/24/02/0043927-bluesky-is-opening-up-to</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043927-bluesky-is-opening-up-to">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-06, from: Miguel de Icaza Mastondon feed)
+
+<p>Kevin <a href="https://mastodon.gamedev.place/@keelo" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="">mastodon.gamedev.place/@keelo</span><span class="invisible"></span></a> and Adam have released their VisionOS support for Godot in the immersive world!</p><p>Example:</p><p><a href="https://github.com/kevinw/GodotVisionExample" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/kevinw/GodotVisionE</span><span class="invisible">xample</span></a></p><p>Godot Vision Library:</p><p><a href="https://github.com/kevinw/GodotVision" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="">github.com/kevinw/GodotVision</span><span class="invisible"></span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111886350132340378">https://mastodon.social/@Migueldeicaza/111886350132340378</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111886350132340378">Save to Pocket</a>
+</span>
+
+---
+
+##  Spectacular JWST Photos Adorn New USPS Stamps 
+
+date: 2024-02-06, updated: 2024-02-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/spectacular-jwst-photos-adorn-new-usps-stamps">https://kottke.org/24/02/spectacular-jwst-photos-adorn-new-usps-stamps</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/spectacular-jwst-photos-adorn-new-usps-stamps">Save to Pocket</a>
+</span>
+
+---
+
+## 2024-02-03 Wieder im Wallis
+
+date: 2024-02-06, from: Alex Schroeder's Blog
+
+<h1>2024-02-03 Wieder im Wallis</h1>
+
+<p>Hier oben ist der Schnee nicht schlecht. <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p>
+
+<p><img loading="lazy" src="2024-02-03-wallis-1.jpg" alt="Sonnenuntergang" />
+<img loading="lazy" src="2024-02-03-wallis-2.jpg" alt="Alpenpanorama" /></p>
+
+<p>The next day we went running but it was so steep that we rarely did run. It was more of a speed hike. 😅</p>
+
+<p><img loading="lazy" src="2024-02-03-wallis-3.jpg" alt="Claudia looking into the valley" />
+<img loading="lazy" src="2024-02-03-wallis-4.jpg" alt="Looking into the valley" />
+<img loading="lazy" src="2024-02-03-wallis-5.jpg" alt="Claudia is happily back from the speed hike" />
+<img loading="lazy" src="2024-02-03-wallis-6.jpg" alt="Alex is drinking a glass of wine" />
+<img loading="lazy" src="2024-02-03-wallis-7.jpg" alt="Wonderful evening lights captured by Claudia" /></p>
+
+<p>We went skiing again. The view from Cry d&rsquo;Er is amazing if you ignore the people, buildings, cables and masts that I conveniently cut off in these pictures.</p>
+
+<p><img loading="lazy" src="2024-02-03-wallis-8.jpg" alt="Mountains" />
+<img loading="lazy" src="2024-02-03-wallis-9.jpg" alt="Mountains" />
+<img loading="lazy" src="2024-02-03-wallis-10.jpg" alt="Mountains" />
+<img loading="lazy" src="2024-02-03-wallis-11.jpg" alt="Mountains" /></p>
+
+<p>We went down to the valley floor and walked from Salgesch to Sierre (and ate Raclette, there).</p>
+
+<p><img loading="lazy" src="2024-02-03-wallis-12.jpg" alt="Claudia in front of a village" />
+<img loading="lazy" src="2024-02-03-wallis-13.jpg" alt="Vineyards in winter" />
+<img loading="lazy" src="2024-02-03-wallis-14.jpg" alt="A gully" />
+<img loading="lazy" src="2024-02-03-wallis-15.jpg" alt="A bit of water in the gully" />
+<img loading="lazy" src="2024-02-03-wallis-16.jpg" alt="Claudia walking" />
+<img loading="lazy" src="2024-02-03-wallis-17.jpg" alt="Vineyards" />
+<img loading="lazy" src="2024-02-03-wallis-18.jpg" alt="Claudia" />
+<img loading="lazy" src="2024-02-03-wallis-19.jpg" alt="Claudia and Alex" /></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-02-03-wallis">https://alexschroeder.ch/view/2024-02-03-wallis</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-02-03-wallis">Save to Pocket</a>
+</span>
+
+---
+
+## The most popular news podcasts share the mic
+
+date: 2024-02-06, from: Nieman Journalism Lab
+
+The hosts of the most popular news podcasts hardly ever fly solo. A new report from the Pew Research Center finds news podcasts are more likely than other types of top podcasts to feature guests. Only about 15% of the top-ranked podcasts — which Pew defined here as appearing in the top 200 of either...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/the-most-popular-news-podcasts-share-the-mic/">https://www.niemanlab.org/2024/02/the-most-popular-news-podcasts-share-the-mic/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/the-most-popular-news-podcasts-share-the-mic/">Save to Pocket</a>
+</span>
+
+---
+
+## “Ineptitude bordering on cruelty”: A roundup of recent news and takes on The Messenger
+
+date: 2024-02-06, from: Nieman Journalism Lab
+
+It&#8217;s been less than a week since The Messenger shut down, having &#8220;[burned] through $50 million in just eight months by pursuing obviously terrible ideas for a news site.&#8221; Details about the site in its final days — plus, of course, takes — continue to emerge. For your files! (And don&#8217;t worry, if you loved The Messenger,...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/ineptitude-bordering-on-cruelty-a-roundup-of-recent-news-on-the-messenger/">https://www.niemanlab.org/2024/02/ineptitude-bordering-on-cruelty-a-roundup-of-recent-news-on-the-messenger/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/ineptitude-bordering-on-cruelty-a-roundup-of-recent-news-on-the-messenger/">Save to Pocket</a>
+</span>
+
+---
+
+##  Hurricanes Are Too Fast for Category 5. Climate change might necessitate a... 
+
+date: 2024-02-06, updated: 2024-02-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043925-hurricanes-are-too-fast-f">https://kottke.org/24/02/0043925-hurricanes-are-too-fast-f</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043925-hurricanes-are-too-fast-f">Save to Pocket</a>
+</span>
+
+---
+
+## Sega Dreamcast Homebrew with GCC
+
+date: 2024-02-06, from: Tilde.news
+
+<p><a href="https://tilde.news/s/ua9ezn/sega_dreamcast_homebrew_with_gcc">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://fosdem.org/2024/schedule/event/fosdem-2024-2634-sega-dreamcast-homebrew-with-gcc/">https://fosdem.org/2024/schedule/event/fosdem-2024-2634-sega-dreamcast-homebrew-with-gcc/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fosdem.org/2024/schedule/event/fosdem-2024-2634-sega-dreamcast-homebrew-with-gcc/">Save to Pocket</a>
+</span>
+
+---
+
+## KallistiOS is a pro-grade development system for consoles
+
+date: 2024-02-06, from: Tilde.news
+
+<p><a href="https://tilde.news/s/y77b4u/kallistios_is_pro_grade_development">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="http://gamedev.allusion.net/softprj/kos/">http://gamedev.allusion.net/softprj/kos/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://gamedev.allusion.net/softprj/kos/">Save to Pocket</a>
+</span>
+
+---
+
+## Swift Tricks
+
+date: 2024-02-06, from: Michael Tsai
+
+Andr&#233; Jorgensen: Generic typealias can be used to simplify param types etctypealias Parser&#60;A&#62; = (String) -&#62; [(A, String)] [&#8230;] func parse&#60;A&#62;(stringToParse: String, parser: Parser) [&#8230;] Finding Elements of Specific Type in Swift extension Array { func whereType&#60;T&#62;() -&#62; [T] { compactMap { $0 as? T } // The function "compactMap(" in Swift is incredibly useful. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/06/swift-tricks/">https://mjtsai.com/blog/2024/02/06/swift-tricks/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/06/swift-tricks/">Save to Pocket</a>
+</span>
+
+---
+
+## Pkl Programming Language
+
+date: 2024-02-06, from: Michael Tsai
+
+Apple (via Hacker News): We are delighted to announce the open source first release of Pkl (pronounced Pickle), a programming language for producing configuration. [&#8230;] We created Pkl because we think that configuration is best expressed as a blend between a static language and a general-purpose programming language. We want to take the best of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/06/pkl-programming-language/">https://mjtsai.com/blog/2024/02/06/pkl-programming-language/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/06/pkl-programming-language/">Save to Pocket</a>
+</span>
+
+---
+
+## Teatotaller Cafe v. Instagram
+
+date: 2024-02-06, from: Michael Tsai
+
+Annie Ropeik (2020): The owner of the Teatotaller caf&#233; in Somersworth is taking on Facebook at the New Hampshire Supreme Court.[&#8230;]Owner Emmett Soldati markets them all on Instagram, which is owned by Facebook. He says it was a blow to his business when, in 2018, Teatotaller&#8217;s Instagram account &#x2013; with more than 2,000 followers &#x2013; [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/06/teatotaller-cafe-v-instagram/">https://mjtsai.com/blog/2024/02/06/teatotaller-cafe-v-instagram/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/06/teatotaller-cafe-v-instagram/">Save to Pocket</a>
+</span>
+
+---
+
+## Ruling in Vizio Lawsuit May Strengthen the GPL
+
+date: 2024-02-06, from: Michael Tsai
+
+Luis Villa (via Hacker News): In October of 2021 the Software Freedom Conservancy (SFC) decided to launch what is believed to be the first significant open source lawsuit based in contract rather than in copyright. Critically, the SFC&#8217;s case argued that anyone who benefits from the General Public License (GPL), not just the authors of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/06/ruling-in-vizio-lawsuit-may-strengthen-the-gpl/">https://mjtsai.com/blog/2024/02/06/ruling-in-vizio-lawsuit-may-strengthen-the-gpl/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/06/ruling-in-vizio-lawsuit-may-strengthen-the-gpl/">Save to Pocket</a>
+</span>
+
+---
+
+##  I could watch Pong Wars allllllll daaaaaaaay. Here&#8217;s the source code if... 
+
+date: 2024-02-06, updated: 2024-02-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043924-i-could-watch-pong-wars">https://kottke.org/24/02/0043924-i-could-watch-pong-wars</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043924-i-could-watch-pong-wars">Save to Pocket</a>
+</span>
+
+---
+
+##  There&#8217;s a new translation of the first volume of Karl Marx&#8217;s Capital... 
+
+date: 2024-02-06, updated: 2024-02-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043916-theres-a-new-translation-">https://kottke.org/24/02/0043916-theres-a-new-translation-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043916-theres-a-new-translation-">Save to Pocket</a>
+</span>
+
+---
+
+##  This Artist Used Microsoft Paint to Create Art Into Her 90s 
+
+date: 2024-02-06, updated: 2024-02-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/this-artist-used-microsoft-paint-to-create-art-into-her-90s">https://kottke.org/24/02/this-artist-used-microsoft-paint-to-create-art-into-her-90s</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/this-artist-used-microsoft-paint-to-create-art-into-her-90s">Save to Pocket</a>
+</span>
+
+---
+
+## Continuous startup jobs
+
+date: 2024-02-06, from: Dave Rupert blog
+
+<p>Two years of working on Luro full time has taught me a lot about #startuplife. While I could probably fill a book with what I’ve learned so far, the biggest takeaway is you’re always busy if you’re on a small team. Here’s a list of jobs that you always need to be doing when creating a company…</p>
+<ul>
+<li>Planning new features</li>
+<li>Building new features</li>
+<li>Marketing new features</li>
+<li>Updating old features</li>
+<li>Managing technical debt</li>
+<li>Establishing processes</li>
+<li>Documenting everything</li>
+<li>Hopping on calls</li>
+<li>Getting feedback</li>
+<li>Contacting existing customers</li>
+<li>Acquiring new customers</li>
+<li>Improving onboarding</li>
+<li>Assuring quality</li>
+<li>Filling out enterprise software acquisition forms</li>
+<li>Evaluating software tools for internal use</li>
+<li>Tracking competitors</li>
+<li>Building culture</li>
+<li>Hiring people</li>
+<li>Managing people</li>
+<li>Meeting payroll</li>
+<li>Providing health insurance</li>
+<li>Pitching VCs</li>
+<li>Creating FOMO</li>
+<li>Casting vision</li>
+<li>Investor updates</li>
+<li>Emailing lawyers</li>
+<li>Accounting and taxes</li>
+</ul>
+<p>Not enough that we should overly glamorize entrepreneurs, but it’s a lot. Especially, when you’re also tasked with building the darn thing. My list doesn’t even get into the all the nuance of all the required systems and processes you need to build either. That’s a whole other post.</p>
+<p><em>Thanks to Greg Storey for previewing an early mouthblog of this post.</em></p>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/02/startup-jobs/">https://daverupert.com/2024/02/startup-jobs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/02/startup-jobs/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-06, from: Dave Winer's Scripting News)
+
+I'm reading <a href="https://www.amazon.com/Oath-Honor-Warning-Liz-Cheney/dp/0316572063">Liz Cheney's book</a>, and forgot something I had guessed during the insurrection. While it was going on Trump was calling Congresspeople saying if you stop the count I'll call off the attack. In other words, trade your life for a vote. I suspected it before, but they have testimony that verifies it.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/06.html#a153201">http://scripting.com/2024/02/06.html#a153201</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/06.html#a153201">Save to Pocket</a>
+</span>
+
+---
+
+##  How Quora Died. &#8220;The once-beloved forum is now home to a never-ending... 
+
+date: 2024-02-06, updated: 2024-02-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043919-how-quora-died-the-once-b">https://kottke.org/24/02/0043919-how-quora-died-the-once-b</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043919-how-quora-died-the-once-b">Save to Pocket</a>
+</span>
+
+---
+
+## Waveshare's PoE HAT is the first for Raspberry Pi 5
+
+date: 2024-02-06, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Waveshare's PoE HAT is the first for Raspberry Pi 5</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><img src="https://www.jeffgeerling.com/sites/default/files/images/pi-5-poe-hat-waveshare.jpeg" width="700" height="auto" class="insert-image" alt="Pi 5 PoE HAT Waveshare F"></p>
+
+<p>Power over Ethernet lets you run both power and networking to certain devices through one Ethernet cable. It's extremely convenient, especially if you have a managed PoE switch, because you get the following benefits:</p>
+
+<ul>
+<li>A single cable for power + Ethernet (no need for separate power adapters)</li>
+<li>No need to have electrical service near every device</li>
+<li>Simple remote power on/off capability (assuming you have a managed switch)</li>
+<li>Centralized power management (e.g. one UPS in a rack room covering all powered devices)</li>
+</ul>
+
+<p>I have used the Raspberry Pi PoE and PoE+ HATs for years now, allowing me to have 4 or 5 Raspberry Pi per 1U of rack space, with all wiring on the front side. I also use PoE for cameras around my house, though there are dozens of use cases where PoE makes sense.</p>
+
+<p>The Raspberry Pi, since it only requires 3-10W of power, is an ideal candidate for PoE, assuming you can find a HAT for it.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-02-06T09:00:27-06:00" title="Tuesday, February 6, 2024 - 09:00" class="datetime">February 6, 2024</time>
+</span>
+
+<span class="feed-item-link">
+<a href="https://www.jeffgeerling.com/blog/2024/waveshares-poe-hat-first-raspberry-pi-5">https://www.jeffgeerling.com/blog/2024/waveshares-poe-hat-first-raspberry-pi-5</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jeffgeerling.com/blog/2024/waveshares-poe-hat-first-raspberry-pi-5">Save to Pocket</a>
+</span>
+
+---
+
+## One Foot Tsunami Is Not a Fast Food Restaurant Chain. Yet.
+
+date: 2024-02-06, updated: 2024-02-07, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/02/06/one-foot-tsunami-is-not-a-fast-food-restaurant-chain-yet/">https://onefoottsunami.com/2024/02/06/one-foot-tsunami-is-not-a-fast-food-restaurant-chain-yet/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/02/06/one-foot-tsunami-is-not-a-fast-food-restaurant-chain-yet/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-06, from: Miguel de Icaza Mastondon feed)
+
+<p>Oh blue sky is open to the public now.</p><p>My profile over there: <a href="https://bsky.app/profile/migueldeicaza.bsky.social" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">bsky.app/profile/migueldeicaza</span><span class="invisible">.bsky.social</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111885099027103023">https://mastodon.social/@Migueldeicaza/111885099027103023</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111885099027103023">Save to Pocket</a>
+</span>
+
+---
+
+## Radio Maps May Reveal the Universe’s Biggest Magnetic Fields
+
+date: 2024-02-06, from: Quanta Magazine
+
+A controversial technique has produced detailed maps of the magnetic fields in colossal galaxy clusters. If confirmed, the approach could be used to reveal where cosmic magnetic fields come from.            <p>The post <a href="https://www.quantamagazine.org/radio-maps-may-reveal-the-universes-biggest-magnetic-fields-20240206/" target="_blank">Radio Maps May Reveal the Universe’s Biggest Magnetic Fields</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/radio-maps-may-reveal-the-universes-biggest-magnetic-fields-20240206/">https://www.quantamagazine.org/radio-maps-may-reveal-the-universes-biggest-magnetic-fields-20240206/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/radio-maps-may-reveal-the-universes-biggest-magnetic-fields-20240206/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-06, from: Dave Winer's Scripting News)
+
+I asked ChatGPT to <a href="http://scripting.com/2024/01/06/040838.html">draw</a> a "social network for writers." <span class="spOldSchoolEmoji">❤️</span>
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/06.html#a144521">http://scripting.com/2024/02/06.html#a144521</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/06.html#a144521">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-06, from: Dave Winer's Scripting News)
+
+I'm doing some writing about writing and finding the phrase "RSS, Atom and RFD" too cumbersome. Most people don't care and see the distinctions as unnecessary. But I want to be accurate, and recognize that while RSS is the most-used kind of feed, there are others, and our software works with them. I'm trying this construction: "RSS-compatible." I think that expresses the most important point, the choice of format is up to you, but now, by 2024, they all work pretty much the same way.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/06.html#a143830">http://scripting.com/2024/02/06.html#a143830</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/06.html#a143830">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-06, from: Dave Winer's Scripting News)
+
+Good morning. The main static server I <a href="http://scripting.com/2024/02/05.html#a143645">mentioned</a> yesterday has been relocated to a fresh, new and apparently healthy server to perform its past duties. We're off to a good start this Tuesday morning.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/06.html#a140936">http://scripting.com/2024/02/06.html#a140936</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/06.html#a140936">Save to Pocket</a>
+</span>
 
 ---
 
@@ -112,6 +1266,18 @@ date: 2024-02-06, updated: 2024-02-06, from: Anil Dash
 
 ---
 
+## Go 1.22 is released!
+
+date: 2024-02-06, updated: 2024-02-06, from: Go language blog
+
+Go 1.22 enhances for loops, brings new standard library functionality and improves performance.
+
+<span class="feed-item-link">
+<a href="https://go.dev/blog/go1.22">https://go.dev/blog/go1.22</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.dev/blog/go1.22">Save to Pocket</a>
+</span>
+
+---
+
 ## CloudNativePG 1.22.1, 1.21.3 and 1.20.6 Released!
 
 date: 2024-02-06, from: PostgreSQL News
@@ -186,6 +1352,299 @@ date: 2024-02-06, from: PostgreSQL News
 
 <span class="feed-item-link">
 <a href="https://www.postgresql.org/about/news/swiss-pgday-2024-announcement-and-cfs-2803/">https://www.postgresql.org/about/news/swiss-pgday-2024-announcement-and-cfs-2803/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/swiss-pgday-2024-announcement-and-cfs-2803/">Save to Pocket</a>
+</span>
+
+---
+
+## ISR Roundtable 2023: The future of preserving the integrity of the scholarly record together
+
+date: 2024-02-06, from: Crossref Blog
+
+<p>Metadata about research objects and the relationships between them form the basis of the scholarly record: rich metadata has the potential to provide a richer context for scholarly output, and in particular, can provide trust signals to indicate integrity. Information on who authored a research work, who funded it, which other research works it cites, and whether it was updated, can act as signals of trustworthiness. Crossref provides foundational infrastructure to connect and preserve these records, but the creation of these records is an ongoing and complex community effort. Crossref has always shown a deep commitment to preserving the integrity of the scholarly record in an open and scalable manner.</p>
+<p>Given the increasing concerns in the community about matters of research integrity and integrity of the scholarly record (ISR), we at Crossref have been engaging with community members to understand what developments are needed. In 2022, we organised <a href="https://www.crossref.org/blog/isr-part-four-working-together-as-a-community-to-preserve-the-integrity-of-the-scholarly-record/" target="_blank">a roundtable discussion to talk about our role</a> and the applicability of Crossref’s services in preserving and assessing the integrity of the scholarly record. We’ve acted on much of that feedback since, and so in October 2023, we organised a follow-up event, once more gathering representatives of publishers, research integrity experts, policy-makers, academic institutions, funders, and researchers (the full list of participants can be found in the appendix). This post aims to offer insight into the discussions at this event and the next steps. The objective of this event was to take the conversation forward by:</p>
+<ul>
+<li>Sharing the progress made by Crossref on matters related to ISR since the last roundtable event.</li>
+<li>Sharing information about how metadata contributes to the Research Nexus, and can act as trust markers for research outputs.</li>
+<li>Apprising the community about the latest membership trends and examples of activities that we see, such as title transfer disputes, unregistered DOIs, requests for deleting records, and <a href="https://arxiv.org/abs/2310.02192" target="_blank">sneaked references</a> .</li>
+<li>Building upon the ideas discussed during the 2022 roundtable event to progress the conversation about issues related to ISR.</li>
+<li>Learning from the participants about their experiences of pursuing research integrity initiatives.</li>
+<li>Last but no less importantly, hearing from the participants their perspectives on strategies for preserving the integrity of the scholarly record, and opportunities for collaborating to leverage metadata to assess the integrity of the scholarly record.</li>
+</ul>
+<p>The event was kicked off by Ed Pentz, who spoke to the participants about how integrity is key to Crossref’s mission, and Crossref’s vision of the <a href="https://www.crossref.org/documentation/research-nexus/" target="_blank">Research Nexus</a>. Next, Amanda Bartell, the Head of Member Experience at Crossref, shared the recent developments and trends in community behaviour. She expanded upon the actions taken by Crossref as part of its ISR program since the last roundtable event, which include:</p>
+<ul>
+<li><a href="https://www.crossref.org/blog/news-crossref-and-retraction-watch/" target="_blank">Acquisition and opening of the Retraction Watch database</a>, which makes it easier to access information on retractions and corrections.</li>
+<li>Increased participation in the Global Equitable Membership (GEM) program, enabling a wider section of the community to provide and access trust signals.</li>
+<li>Newer developments around metadata that act as trust signals: e.g. 120K grants or awards now have a Crossref DOI, and the <a href="https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/" target="_blank">planned transition of the Open Funder Registry into ROR</a>.</li>
+<li>Recruitment of a Community Manager to focus on working with publishers and editors, including on ISR (<a href="https://www.crossref.org/blog/perspectives-madhura-amdekar-meeting-community-pursuing-research-integrity/" target="_blank">that’s me!</a>), and recruitment of <a href="https://www.crossref.org/blog/perspectives-luis-montilla-sci-fi-concepts-reality-scholarly-ecosystem/" target="_blank">a Technical Community Manager</a> to enable greater use of our APIs.</li>
+</ul>
+<p>Amanda highlighted that all Crossref members should be using ROR IDs to provide affiliations for authors (along with ORCID iDs) in their Crossref metadata. She also shared some latest examples of community behaviours that we have seen, such as requests from authors to delete records of works that were published without their permission, title ownership disputes between publishers, and the recent instance of <a href="https://arxiv.org/abs/2310.02192" target="_blank">sneaked references</a>.</p>
+<p>Ivan Oransky, co-founder of Retraction Watch, and Lena Stoll, Product Manager at Crossref, were next, and they spoke about the future of the Retraction Watch database, and about the <a href="https://www.crossref.org/services/crossmark/" target="_blank">Crossmark service</a>. After this, some of the other roundtable participants shared initiatives that they have undertaken that support ISR:</p>
+<ul>
+<li>Jodi Schneider from the University of Illinois Urbana-Champaign spoke about <a href="https://www.niso.org/standards-committees/crec" target="_blank">NISO’s CREC Working Group</a> that has created a Recommended Practice that should be followed by relevant stakeholders for communicating retracted research (Crossref’s Director of Product Rachael Lammey was the co-chair of that group).</li>
+<li>Kihong Kim from the Korean Council of Science Editors shared information about the workshops that the Council has organised for researchers on publishing in journals.</li>
+<li>Alberto Martín-Martín from Universidad de Granada presented his thoughts on how to reconcile the publishing system and the institutional view of tracking research outputs.</li>
+<li>Bianca Kramer from Sesame Science spoke about her analysis of and the implications of sneaked references, duplicate references, and missing references for citation integrity.</li>
+<li>Joris van Rossum from STM Solutions spoke about the STM Integrity Hub and the integrity tools that are being developed in collaboration with some publishers.</li>
+</ul>
+<p>Some of the most valuable reflections stemmed from discussions in small groups on these three key questions:</p>
+<ol>
+<li>What value do you see in the integrity and completeness of the scholarly record in the way you operate? How do you contribute to it? How can it support you to achieve your own goals?</li>
+<li>Are you aware of Crossref services? What are the barriers to more uptake? What are the challenges and opportunities?</li>
+<li>What information is essential and nice to have for you in the scholarly records to support trust signalling and ascertaining trustworthiness?</li>
+</ol>
+<p>As groups shared their discussions, a few themes became apparent that I would like to elaborate on further.</p>
+<h2 id="what-is-complete">What is “complete”?</h2>
+<p>Given the prompt to talk about the value of completeness of the scholarly record, an immediate reaction at most tables was: how much metadata qualifies as “complete” metadata? Can the scholarly record be considered complete if some publishers or journals do not use Crossref? What is the optimum level of metadata that should be deposited by members - should a minimum data standard be defined by disciplines, or should there be standard data requirements for all? The composition of metadata appears to change over time, too, as the processes change and our ability to record their facets increases. While there were spirited discussions about what constitutes a complete scholarly record, everyone agreed that “completeness” of metadata, as much as is possible, should be the aim. Unambiguous and consistent standards may help with this, for example, the Metadata 20/20 community creation of <a href="https://metadata2020.org/resources/metadata-principles/" target="_blank">principles</a> and <a href="https://metadata2020.org/resources/metadata-practices/" target="_blank">best practices</a>, and potentially also using <a href="https://www.niso.org/press-releases/2021/01/nisos-recommended-practice-reproducibility-badging-and-definitions-now" target="_blank">a set of recognition standards and reproducibility badges</a>.</p>
+<p>Global participation is equally important for a truly “complete” scholarly record. In order to enable as many in the scholarly community as possible to participate in Crossref services and metadata, Crossref launched the <a href="https://www.crossref.org/gem/" target="_blank">Global Equitable Membership (GEM)</a> program in 2023. Under this initiative, membership and content registration fees are waived off for members from the least economically advantaged countries. We are seeing first signs that <a href="https://www.crossref.org/blog/the-gem-program-year-one/" target="_blank">this initiative meaningfully lowers the barriers to participation</a> for organisations based in those countries, and allows the global community to contribute towards the building of a comprehensive research ecosystem.</p>
+<p>At the end of the day, it is important to recognize that rich metadata is crucial because it can be used for all kinds of analysis, which in turn can drive decision-making. Even if some of the metadata components are sporadically missing, that could be acceptable, because every piece of data counts!</p>
+<h2 id="corrections-and-retractions">Corrections and Retractions</h2>
+<p>Similar to last year, retractions and corrections continued to be a topic of great interest in this year’s roundtable. This was not surprising given their relevance as trust indicators as well as the recent development with the acquisition of the Retraction Watch database by Crossref. Having heard from Ivan about the Retraction Watch <a href="https://retractionwatch.com/retraction-watch-database-user-guide/retraction-watch-database-user-guide-appendix-b-reasons/" target="_blank">taxonomy of reasons for retractions</a> and the metadata included in the database, participants expressed the need to investigate this taxonomy as a community standard. While the Retraction Watch taxonomy is not widely known, we at Crossref are working to map the Crossmark taxonomy with the Retraction Watch taxonomy, which will enable complete integration of the Retraction Watch database with the Crossref database.</p>
+<p>It would also be useful to add more information to retraction notices. Having more information about the reasons for retraction will not only destigmatize retractions, but certain additional information, such as submission dates for those outputs, might help with ethical investigations to determine whether manuscripts were being submitted to multiple publishers simultaneously.</p>
+<p>On the topic of retractions, another aspect that came up in the room was about incentives for researchers to publish as much and as quickly as possible. If researchers indulge in unethical publishing practices due to this pressure to publish, that is hugely detrimental to the cause of research integrity and to the progress of scientific research in general. However, there is a distinction to be made between the integrity of the research and the integrity of the scholarly record - unethical research and publishing practices, including but not limited to data falsification, fabrication, and plagiarism, affect research integrity while integrity of the scholarly record is affected by unavailability of metadata, outdated metadata, incomplete metadata records, and incorrect metadata (e.g. as seen in the case of <a href="https://arxiv.org/abs/2310.02192" target="_blank">sneaked references</a>).</p>
+<p>There was a lot of discussion about <a href="https://www.crossref.org/services/crossmark/" target="_blank">Crossmark</a>, a cross-platform service provided by Crossref that allows readers to discover whether an item has been updated, corrected, or retracted just by clicking a button that is standardised across publication platforms. While most participants acknowledged its importance, they also pointed out that its uptake has been limited and publishers do not use it as much, perhaps because it is difficult to implement and there’s a matter of providing more clarity about it to the readers. There were suggestions to add a notification system to Crossmark such that every time a published output is retracted, a notification goes out. This seemed of particular interest to funders, whose grievance was that they are usually the last to find out when research that they have funded is retracted. They would welcome notifications that would alert them to such events.</p>
+<p>We already have plans to consult with the community more specifically about what changes they’d like to see to Crossmark that will enable them to implement it easily and use it more frequently. Take a look <a href="https://community.crossref.org/t/communicating-post-publication-updates-inviting-feedback-on-the-next-steps-for-crossmark/4744" target="_blank">at this thread on our community forum and add your thoughts for our next steps on Crossmark</a>.</p>
+<h2 id="the-importance-of-education">The importance of education</h2>
+<p>There was an overwhelming sentiment that there was a need for collective arbitration of research integrity issues. However, everyone recognized that this is not a role for Crossref. We can act as a “trust broker” by bridging different metadata and identifiers that otherwise might not interact, creating a network of research outputs whose credibility can be verified by others. Many participants called for Crossref to increase its efforts in educating community members about the importance of metadata and how different pieces can be linked together to make meaningful connections.</p>
+<p>Research practices vary between countries, and between institutions. Correspondingly, the metadata being provided by diverse Crossref members may also vary. There is an opportunity here for the global research community to work together to increase awareness about ethical standards, so that a lack of specific metadata or its variances (e.g. unusually formatted metadata, or non-standard metadata fields) may not be construed as “lower quality” metadata. Many felt that the greatest need for education about metadata is for the academic community – although individual researchers contribute a wealth of metadata associated with any published research output, they do not necessarily understand how metadata contributes to the completeness of the scholarly record. There is a further opportunity to talk to the academic community about how different metadata components link together to form a rich network, supporting visibility and confidence in their work. A greater awareness about these topics is likely to encourage researchers to provide more metadata and identifiers.</p>
+<p>While most participants at the roundtable event agreed about the need for this conversation and the educational opportunities here, if Crossref were to lead these efforts, it would represent, in some eyes, a diversion from its mission. We do have several initiatives already to support our communities. As part of the <a href="https://www.crossref.org/community/ambassadors/" target="_blank">Crossref Ambassadors program</a>, volunteers from the international scholarly community who believe in Crossref’s mission liaise with our team to conduct training in their communities about using Crossref services and, generally, about the importance of metadata. In 2023, we also launched a new online public forum, <a href="https://theplace.discourse.group/" target="_blank">the PLACE</a>, in collaboration with the Committee on Publication Ethics (COPE), the Directory of Open Access Journals (DOAJ), and the Open Access Scholarly Publishers Association (OASPA). This forum is a place where new publishers can connect with these organisations and learn about best practices in scholarly publishing via discussion posts and by asking questions, as they get started. Another initiative that is designed to help new Crossref members is the “Managed Member Journey”: as members join and move through the various stages of membership, key information is shared with them during each of these stages in the form of triggered automated emails, web pages, and webinars.</p>
+<p>While Crossref&rsquo;s direct interactions with researchers are limited, we welcome the community&rsquo;s recognition of the need to raise awareness about these matters. We have started engaging more closely with the reporters of metadata issues, in many cases investigators and ‘sleuths’ in the area of research integrity, and plan some closer collaborations with this group in 2024. We are open to supporting community efforts to inform other stakeholders about the importance and uses of metadata.</p>
+<h2 id="incentives-for-the-community">Incentives for the community</h2>
+<p>Another theme that was heard repeatedly was “incentives”: incentives for researchers to contribute to a “complete” scholarly record, incentives for publishers to improve metadata, and incentives for everyone to report on and register retractions.</p>
+<p>As I mentioned before, a shared sentiment is that researchers may not be aware of the value of rich metadata. While more publications, increased citations, and greater grant funding are some examples of incentives that are part of the current academic settings, the right incentives probably do not exist for researchers to provide complete metadata. With the diverse set of participants present at this meeting, some groups also discussed how the current research assessment system can change to incorporate other metrics, perhaps those based on open science and open data.</p>
+<p>What could be the incentives for publishers to improve the metadata collected and deposited by them? One suggestion was that clearly defined benefits of rich metadata can incentivise publishers. Being aware of what funders are mandating, can be another incentive. On the same note, funders will benefit from knowing what metadata is being provided by publishers. This metadata is available through our open API, and nine key checks on members’ activity are available through our public <a href="https://crossref.org/members/prep/" target="_blank">Participation Reports</a>.</p>
+<p>Retractions featured again in the discussion on the topic of incentives. As shared by Ivan, retractions are on the rise every year, with about 43k retractions currently in the Retraction Watch database. On the other hand, retractions registered in Crossmark at the time of the meeting numbered just 14k and have recently jumped up to 25k thanks to Hindawi/Wiley’s dedication to good open metadata. Besides the fact that the uptake of Crossmark by Crossref members is limited, another reason for the low number of retractions being registered is the associated stigma. Corrections and errata are usually conflated with retractions, and all these terms, which represent different kinds of updates that may happen to a published item, have a stigma associated with them in the academic community. There is a need to destigmatize retractions, and perhaps incentivize them by noting that these updates are essential to uphold the integrity of the scholarly record and to highlight the publishers that are showing leadership in addressing the issues openly through up-to-date Crossref metadata.</p>
+<h2 id="what-metadata-is-nice-to-have-in-the-scholarly-record">What metadata is nice to have in the scholarly record?</h2>
+<p>We asked everyone what information they think is essential as well as “nice to have” in the scholarly record to support trust signalling, and we heard a range of answers. Peer review information was recognized to be important. This would include data on who the peer reviewers were and <a href="https://www.niso.org/standards-committees/peer-review-terminology" target="_blank">standard peer review terminology that has been published by NISO</a>. More generally, as much metadata as possible about the main actors of the peer review process was considered important - such as designating who the corresponding author is, and who the handling editor or the decision-making editor was.</p>
+<p>As special issues led by guest editors in journals have been brought to the attention of late due to the uncovering of irregularities in some of them, one of the first suggestions in this context was more metadata about special issues. Participants thought that it would be useful to collect and distribute information on handling/guest editors of special issues, peer reviewers, as well as submission and acceptance dates. Recently, COPE has released guidance on <a href="https://publicationethics.org/node/56239" target="_blank">“best practices for guest-edited collections”</a> , highlighting that this topic looms at the forefront for the scholarly information industry.</p>
+<p>Adding information on ethical approvals provided by institutional review boards would add more nuance to the research outputs. Metadata about clinical trials helps to add transparency to research in a field, where reproducibility is of primary importance. Conflicts of interest are another factor that could be a cause of concern if not reported accurately; these declarations were mentioned by the participants as important for signalling trust.</p>
+<p>Recognizing that it is the relationships in the metadata that add context to research output, participants echoed that better interlinking between preprints and their published versions is required. To aid with all of this, it has been suggested that a complete list of all metadata that can be deposited with Crossref be made available in a simple format, so that members have more visibility about all the possibilities that exist for providing metadata.</p>
+<h2 id="next-steps">Next steps</h2>
+<p>We asked all participants if the discussions prompted them to plan to take any actions in the near future. Several attendees reflected that the discussion encouraged them to go back and review the metadata that they are depositing with Crossref, and how they can make more use of the data openly available from Crossref. We also heard how some found training opportunities therein - discussion points from the event could be included in workshops for affiliated researchers, and in COPE guidance for members. As encouraged by members of the <a href="https://www.niso.org/standards-committees/crec" target="_blank">NISO’s CREC Working Group</a>, some participants were looking to respond in the (then open) consultations of the <a href="https://groups.niso.org/higherlogic/ws/public/download/29165/RP-45-202X_NISO_Communication_of_Retractions_Removals_and_Expressions_of_Concern_CREC_draft_for_public_comment.pdf" target="_blank">draft Recommended Practice, NISO RP-45-202X, Communication of Retractions, Removals, and Expressions of Concern (CREC)</a>. One message resonated loud and clear: preserving the integrity of the scholarly record cannot be a lone endeavour and has to be a community effort. Attendees expressed their commitment to continue these conversations, with the next most opportune time being at the <a href="https://www.stm-assoc.org/events/stm-week-2023/" target="_blank">STM week</a>. Everyone recognised that collaboration in this space is the need of the hour: facilitating information and data sharing across all the players in the ecosystem would be crucial to progressing this topic. As Bianca Kramer declared during her presentation, “I am committed to using only open data in my research, as access to data is important for the community to detect problems at scale”.</p>
+<p>At our end, we are looking to act on suggestions that are specific to Crossref:</p>
+<h3 id="consultation-with-the-community-about-crossmark">Consultation with the community about Crossmark</h3>
+<p>One of the first things that we are doing in early 2024 is to consult with our community about the developments needed in the Crossmark service. Our key aim with this exercise would be to understand how we can enable a more effective uptake of this service so that Crossref members can easily fulfil their obligation of keeping their records updated. We are keen to understand what we can do to help our members to send us metadata about updates to an output, and how we can help downstream services that use this data. Insights from this consultation will also help inform how the Retraction Watch data can be most effectively integrated into Crossmark and communicated to users. Please visit the discussion and add your thoughts here: <a href="https://community.crossref.org/t/communicating-post-publication-updates-inviting-feedback-on-the-next-steps-for-crossmark/" target="_blank">https://community.crossref.org/t/communicating-post-publication-updates-inviting-feedback-on-the-next-steps-for-crossmark/</a>.</p>
+<h3 id="development-of-resources-for-using-our-api">Development of resources for using our API</h3>
+<p>As there is clearly no dearth of metadata components that the community thinks would be “nice to have” for signalling trust, it is equally important to equip users and downstream service providers to be able to access the rich metadata that is available with Crossref. This rich metadata opens up new avenues for the development of services and resources that can benefit the scholarly community. On account of this, we plan to prioritise development of resources for using Crossref APIs. These efforts would include making available workbooks with a variety of API use cases - ranging from how to use basic API queries, to how to use APIs for obtaining grant information or for obtaining citation data and so on, as well as retrieving corrections, retractions, and update information, especially when the Retraction Watch dataset merges in with the rest of the Crossref metadata.</p>
+<h3 id="working-group-to-facilitate-community-efforts-for-preserving-isr">Working group to facilitate community efforts for preserving ISR</h3>
+<p>We are looking to set up a working group that will facilitate the various stakeholders in the scholarly ecosystem to work together towards preserving the integrity of the scholarly record. One direction for the group could be to consider the role and impact of Crossref metadata in ISR. Another area of focus will be to enrich information about retractions, corrections, and expressions of concern. Raising industry-wide awareness about the current concerns in upholding the integrity of the scholarly record, and how comprehensive metadata can act as markers of trust about research output, would be another focal point.</p>
+<h3 id="continued-community-outreach">Continued community outreach</h3>
+<p>We will continue our efforts to engage with the community on the very important issues surrounding ISR. We are particularly keen to redouble our efforts to include more funders and institutions in these conversations. Preserving the integrity of the scholarly record needs to be a truly inclusive effort and will benefit from diverse voices in the community. With that in mind, consulting with the community in Asia is next on our radar.</p>
+<p>We look forward to working with the community further on this important topic - if you are keen to participate in these discussions and want to contribute towards preserving the integrity of the scholarly record, we would love to hear from you. Please write to us at <a href="mailto:feedback@crossref.org">feedback@crossref.org</a> if you have any suggestions on this topic.</p>
+<h2 id="appendix-participant-list">Appendix: Participant list</h2>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Role</th>
+<th>Organization</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ed Pentz</td>
+<td>Executive Director</td>
+<td>Crossref</td>
+</tr>
+<tr>
+<td>Amanda Bartell</td>
+<td>Head of Member Experience</td>
+<td>Crossref</td>
+</tr>
+<tr>
+<td>Madhura Amdekar</td>
+<td>Community Engagement Manager</td>
+<td>Crossref</td>
+</tr>
+<tr>
+<td>Luis Montilla</td>
+<td>Technical Community Manager</td>
+<td>Crossref</td>
+</tr>
+<tr>
+<td>Lena Stoll</td>
+<td>Product Manager</td>
+<td>Crossref</td>
+</tr>
+<tr>
+<td>Kora Korzec</td>
+<td>Head of Community Engagement and Communications</td>
+<td>Crossref</td>
+</tr>
+<tr>
+<td>Ivan Oransky</td>
+<td>Co-Founder</td>
+<td>Retraction Watch</td>
+</tr>
+<tr>
+<td>Jennifer Wright</td>
+<td>Research Integrity Manager</td>
+<td>Cambridge University Press</td>
+</tr>
+<tr>
+<td>Guntram Bauer</td>
+<td>Director of Science Policy &amp; Communications</td>
+<td>Human Frontier Science Program</td>
+</tr>
+<tr>
+<td>Wendy Patterson</td>
+<td>Scientific Director</td>
+<td>Beilstein-Institut</td>
+</tr>
+<tr>
+<td>Sarah Jenkins</td>
+<td>Director, Research Integrity &amp; Publishing Ethics</td>
+<td>Elsevier</td>
+</tr>
+<tr>
+<td>Helene Stewart</td>
+<td>Director, Editorial Relations Web of Science</td>
+<td>Clarivate</td>
+</tr>
+<tr>
+<td>Bianca Kramer</td>
+<td>Advisor, Research Analyst, Facilitator</td>
+<td>Sesame Open Science</td>
+</tr>
+<tr>
+<td>Adya Misra</td>
+<td>Research Integrity and Inclusion Manager</td>
+<td>Sage</td>
+</tr>
+<tr>
+<td>Andrew Joseph</td>
+<td></td>
+<td>Wits University Press</td>
+</tr>
+<tr>
+<td>Theodora Bloom</td>
+<td>Executive Editor</td>
+<td>BMJ</td>
+</tr>
+<tr>
+<td>Alberto Martín-Martín</td>
+<td>Assistant Professor</td>
+<td>Universidad de Granada</td>
+</tr>
+<tr>
+<td>Aaron Wood</td>
+<td>Head, Product &amp; Content Management</td>
+<td>American Psychological Association</td>
+</tr>
+<tr>
+<td>Fred Atherden</td>
+<td>Head of Production Operations</td>
+<td>eLife</td>
+</tr>
+<tr>
+<td>Kihong Kim</td>
+<td></td>
+<td>Korean Council of Science Editors</td>
+</tr>
+<tr>
+<td>David Flanagan</td>
+<td>Senior Director, Data Science</td>
+<td>Wiley</td>
+</tr>
+<tr>
+<td>Chiara Di Giambattista</td>
+<td>Communications Director</td>
+<td>OpenCitations</td>
+</tr>
+<tr>
+<td>Scott Delman</td>
+<td>Director of Publications</td>
+<td>ACM</td>
+</tr>
+<tr>
+<td>Chi Wai (Rick) Lee</td>
+<td>General Manager</td>
+<td>World Scientific Publishing Co (WSPC)</td>
+</tr>
+<tr>
+<td>Leslie McIntosh</td>
+<td>VP, Research Integrity</td>
+<td>Digital Science</td>
+</tr>
+<tr>
+<td>Adam Day</td>
+<td>Director</td>
+<td>Clear Skies</td>
+</tr>
+<tr>
+<td>Damaris Critchlow</td>
+<td>Project Manager</td>
+<td>Karger</td>
+</tr>
+<tr>
+<td>Tamara Welschot</td>
+<td>Head of Research Integrity, Prevention</td>
+<td>Springer Nature</td>
+</tr>
+<tr>
+<td>Kathryn Dally</td>
+<td>Research Integrity and Policy Lead</td>
+<td>Research Services, University of Oxford</td>
+</tr>
+<tr>
+<td>Masahiko Hayashi</td>
+<td>Director, JSPS Bonn Office</td>
+<td>Japan Society for the Promotion of Science</td>
+</tr>
+<tr>
+<td>Simone Taylor</td>
+<td>Chief, Publishing</td>
+<td>American Psychiatric Association</td>
+</tr>
+<tr>
+<td>Christna Chap</td>
+<td>Head of Editorial Development</td>
+<td>Karger Publishers</td>
+</tr>
+<tr>
+<td>Coromoto Power Febres</td>
+<td>Research Integrity Manager</td>
+<td>Emerald Publishing</td>
+</tr>
+<tr>
+<td>Carole Chapin</td>
+<td>Project Manager</td>
+<td>French Office for Research Integrity</td>
+</tr>
+<tr>
+<td>Jodi Schneider</td>
+<td>Associate Professor of Information Sciences</td>
+<td>University of Illinois Urbana Champaign</td>
+</tr>
+<tr>
+<td>Oliver Koepler</td>
+<td>Head of Lab Linked Scientific Knowledge</td>
+<td>TIB - Leibniz Information Centre for Science and Technology</td>
+</tr>
+<tr>
+<td>Heather Staines</td>
+<td></td>
+<td>Delta Think</td>
+</tr>
+<tr>
+<td>Eri Anno</td>
+<td></td>
+<td>JSPS Bonn office</td>
+</tr>
+<tr>
+<td>Joris van Rossum</td>
+<td></td>
+<td>STM Solutions</td>
+</tr>
+<tr>
+<td>Anita de Waard</td>
+<td>VP Research Collaborations</td>
+<td>Elsevier</td>
+</tr>
+</tbody>
+</table>
+
+<span class="feed-item-link">
+<a href="https://www.crossref.org/blog/frankfurt-isr-roundtable-event-2023/">https://www.crossref.org/blog/frankfurt-isr-roundtable-event-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.crossref.org/blog/frankfurt-isr-roundtable-event-2023/">Save to Pocket</a>
 </span>
 
 ---
@@ -371,38 +1830,6 @@ date: 2024-02-05, updated: 2024-02-05, from: Jason Kottke blog
 
 ---
 
-## 2024-02-03 Wieder im Wallis
-
-date: 2024-02-05, from: Alex Schroeder's Blog
-
-<h1>2024-02-03 Wieder im Wallis</h1>
-
-<p>Hier oben ist der Schnee nicht schlecht. <a class="tag" href="/search/?q=%23Pictures">#Pictures</a></p>
-
-<p><img loading="lazy" src="2024-02-03-wallis-1.jpg" alt="Sonnenuntergang" />
-<img loading="lazy" src="2024-02-03-wallis-2.jpg" alt="Alpenpanorama" /></p>
-
-<p>The next day we went running but it was so steep that we rarely did run. It was more of a speed hike. 😅</p>
-
-<p><img loading="lazy" src="2024-02-03-wallis-3.jpg" alt="Claudia looking into the valley" />
-<img loading="lazy" src="2024-02-03-wallis-4.jpg" alt="Looking into the valley" />
-<img loading="lazy" src="2024-02-03-wallis-5.jpg" alt="Claudia is happily back from the speed hike" />
-<img loading="lazy" src="2024-02-03-wallis-6.jpg" alt="Alex is drinking a glass of wine" />
-<img loading="lazy" src="2024-02-03-wallis-7.jpg" alt="Wonderful evening lights captured by Claudia" /></p>
-
-<p>We went skiing again. The view from Cry d&rsquo;Er is amazing if you ignore the people, buildings, cables and masts that I conveniently cut off in these pictures.</p>
-
-<p><img loading="lazy" src="2024-02-03-wallis-8.jpg" alt="Mountains" />
-<img loading="lazy" src="2024-02-03-wallis-9.jpg" alt="Mountains" />
-<img loading="lazy" src="2024-02-03-wallis-10.jpg" alt="Mountains" />
-<img loading="lazy" src="2024-02-03-wallis-11.jpg" alt="Mountains" /></p>
-
-<span class="feed-item-link">
-<a href="https://alexschroeder.ch/view/2024-02-03-wallis">https://alexschroeder.ch/view/2024-02-03-wallis</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-02-03-wallis">Save to Pocket</a>
-</span>
-
----
-
 ## Book Talk: Wrong Way by Joanne McNeil
 
 date: 2024-02-05, from: Internet Archive Blog
@@ -455,7 +1882,7 @@ date: 2024-02-05, updated: 2024-02-05, from: Jason Kottke blog
 
 date: 2024-02-05, from: Liam on Linux
 
-I am travelling onwards from Brussels as I write.<br /><br />I did 2 talks this year. One panel, with my ex-SUSE colleague Markus Feilner, and one solo talk.<br /><br />The panel was called:<br />RHEL and CentOS and the growth of openwashing in FOSS<br /><br />Here's the link:<br />https://fosdem.org/2024/schedule/event/fosdem-2024-3113-rhel-and-centos-and-the-growth-of-openwashing-in-foss/<br /><br />There were no slides but I think there will be video very soon.<br /><br />My solo talk was called:<br /><div>One way forward: finding a path to what comes after Unix</div><div><br />Here's the description:<br />https://fosdem.org/2024/schedule/event/fosdem-2024-3095-one-way-forward-finding-a-path-to-what-comes-after-unix/<br /><br />There should be video soon.<br /><br /><a href="https://docs.google.com/document/d/13M5vMYfbN-U7pKJlvipVsdRoTmTXNRGk/edit?usp=drive_link&amp;ouid=115739915145500082190&amp;rtpof=true&amp;sd=true">This link</a> should let you see the script. Warning, it's an MS Word outline and you need outline view for it to render properly. Neither Google Docs nor LibreOffice can do this.<br /><br /><a href="https://drive.google.com/file/d/18SxnSmUxkZwLwhE8RJjpOJA7fG7kA5S5/view?usp=drive_link">This is the slide deck.</a>&nbsp;(LibreOffice 24.02 format.)</div><br />And this is<a href="https://drive.google.com/file/d/18QnNcisItRKVvmaDAa-GE2V8ySizn5bZ/view?usp=drive_link"> the slide deck with speaker's notes</a>.<br /><br type="_moz" /><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=90185" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments
+I am travelling onwards from Brussels as I write.<br /><br />I did 2 talks this year. One panel, with my ex-SUSE colleague Markus Feilner, and one solo talk.<br /><br />The panel was called:<br /><a href="http://fosdem.org/2024/schedule/event/fosdem-2024-3113-rhel-and-centos-and-the-growth-of-openwashing-in-foss/">RHEL and CentOS and the growth of openwashing in FOSS</a>.<br /><br />There were no slides but I think there will be video very soon.<br /><br />My solo talk was called:<br /><div><a href="https://fosdem.org/2024/schedule/event/fosdem-2024-3095-one-way-forward-finding-a-path-to-what-comes-after-unix/">One way forward: finding a path to what comes after Unix</a>.</div><div><br />Now with added slides, notes and script!<br /><br />There should be video soon.<br /><br /><a href="https://www.dropbox.com/scl/fi/30g3lrwvjj2n5qf09n51r/FOSDEM-2024-a-different-road-out-of-the-jungle.docx?rlkey=wjg0pmykaqx2hl8v6edcokyhj&amp;dl=0">This link</a> should let you see the script. Warning, it's an MS Word outline and you need outline view for it to render properly. Neither Google Docs nor LibreOffice can do this.<br /><br /><a href="https://www.dropbox.com/scl/fi/vlxs9oaxt640piw3bgih6/1_way_fwd-fosdem_-24.odp?rlkey=u0hjhpy8ethsup20lk5biv0k4&amp;dl=0">This is the slide deck.</a>&nbsp;(LibreOffice 24.02 format.)</div><br />And this is the <a href="https://www.dropbox.com/scl/fi/b5kciiv8awp60eibp55e4/1_way_fwd-fosdem_-24-w-notes.odp?rlkey=d371ye46za3acjf5clva3gnl7&amp;dl=0">slide deck with speaker's notes</a>.<br /><br /><strong>UPDATE</strong>: I've moved the files to Dropbox for slightly easier public sharing. Please let me know if they still don't work.<br type="_moz" /><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=90185" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments
 
 <span class="feed-item-link">
 <a href="https://liam-on-linux.dreamwidth.org/90185.html">https://liam-on-linux.dreamwidth.org/90185.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://liam-on-linux.dreamwidth.org/90185.html">Save to Pocket</a>

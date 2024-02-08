@@ -1,11 +1,119 @@
 ---
 title: games 2024.06
-updated: 2024-02-06 05:55:48
+updated: 2024-02-07 21:29:01
 ---
 
 # games 2024.06
 
-(date: 2024-02-06 05:55:48)
+(date: 2024-02-07 21:29:01)
+
+---
+
+## Palworld’s breeding system is my friend group’s new obsession
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24063703/palworld-breeding-system-egg-incubation">https://www.polygon.com/24063703/palworld-breeding-system-egg-incubation</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24063703/palworld-breeding-system-egg-incubation">Save to Pocket</a>
+</span>
+
+---
+
+## Blackbird Interactive has made the decision to delay the launch of Homeworld 3 to May 13
+
+date: 2024-02-07, updated: 2024-02-07, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24065416/homeworld-3-delay-blackbird-interactive-statement">https://www.polygon.com/24065416/homeworld-3-delay-blackbird-interactive-statement</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24065416/homeworld-3-delay-blackbird-interactive-statement">Save to Pocket</a>
+</span>
+
+---
+
+## The FTC isn’t too happy with Microsoft’s Activision Blizzard layoffs
+
+date: 2024-02-07, updated: 2024-02-07, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24065269/ftc-microsoft-activision-deal-layoffs-appeal">https://www.polygon.com/24065269/ftc-microsoft-activision-deal-layoffs-appeal</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24065269/ftc-microsoft-activision-deal-layoffs-appeal">Save to Pocket</a>
+</span>
+
+---
+
+## Lush’s Saltburn-themed bath bomb goes all-in on suggesting you lick some bathwater
+
+date: 2024-02-07, updated: 2024-02-07, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24065105/lush-saltburn-bath-bomb-bathtub-licking-scene">https://www.polygon.com/24065105/lush-saltburn-bath-bomb-bathtub-licking-scene</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24065105/lush-saltburn-bath-bomb-bathtub-licking-scene">Save to Pocket</a>
+</span>
+
+---
+
+## Overwatch 2 teases its next big crossover: Cowboy Bebop
+
+date: 2024-02-07, updated: 2024-02-07, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24065390/overwatch-2-cowboy-bebop-crossover-event">https://www.polygon.com/24065390/overwatch-2-cowboy-bebop-crossover-event</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24065390/overwatch-2-cowboy-bebop-crossover-event">Save to Pocket</a>
+</span>
+
+---
+
+## The Moana TV show has been reworked into a movie, coming this year
+
+date: 2024-02-07, updated: 2024-02-07, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24065414/moana-2-teaser-trailer-announcement">https://www.polygon.com/24065414/moana-2-teaser-trailer-announcement</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24065414/moana-2-teaser-trailer-announcement">Save to Pocket</a>
+</span>
+
+---
+
+## Disney invests $1.5B in Fortnite maker Epic Games
+
+date: 2024-02-07, updated: 2024-02-07, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24065392/disney-fortnite-epic-games-1-5-billion-equity">https://www.polygon.com/24065392/disney-fortnite-epic-games-1-5-billion-equity</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24065392/disney-fortnite-epic-games-1-5-billion-equity">Save to Pocket</a>
+</span>
+
+---
+
+## Valentine’s Day 2024: 10 gift ideas that we won’t take responsibility for if it backfires
+
+date: 2024-02-07, updated: 2024-02-07, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24055514/valentines-day-2024-gifts-ideas-chocolate-citrus-tree-talk-to-me-hand">https://www.polygon.com/deals/24055514/valentines-day-2024-gifts-ideas-chocolate-citrus-tree-talk-to-me-hand</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24055514/valentines-day-2024-gifts-ideas-chocolate-citrus-tree-talk-to-me-hand">Save to Pocket</a>
+</span>
+
+---
+
+## An Xbox multiplatform plan shouldn’t be surprising fans as much as it is
+
+date: 2024-02-07, updated: 2024-02-07, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24064964/xbox-consoles-multiplatform-third-party-hi-fi-rush-starfield-indiana-jones">https://www.polygon.com/24064964/xbox-consoles-multiplatform-third-party-hi-fi-rush-starfield-indiana-jones</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24064964/xbox-consoles-multiplatform-third-party-hi-fi-rush-starfield-indiana-jones">Save to Pocket</a>
+</span>
 
 ---
 

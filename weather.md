@@ -1,11 +1,134 @@
 ---
 title: weather 2024.06
-updated: 2024-02-06 05:55:48
+updated: 2024-02-07 21:29:01
 ---
 
 # weather 2024.06
 
-(date: 2024-02-06 05:55:48)
+(date: 2024-02-07 21:29:01)
+
+---
+
+## SPC - No watches are valid as of Thu Feb  8 02:49:01 UTC 2024
+
+date: 2024-02-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu Feb  8 02:49:01 UTC 2024.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No MDs are in effect as of Thu Feb  8 02:49:01 UTC 2024
+
+date: 2024-02-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu Feb  8 02:49:01 UTC 2024.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Feb 8, 2024 0100 UTC Day 1 Convective Outlook
+
+date: 2024-02-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0655 PM CST Wed Feb 07 2024
+
+Valid 080100Z - 081200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Organized severe thunderstorms are unlikely across the continental
+United States through tonight.
+
+...DISCUSSION...
+At mid-levels this evening, anticyclonic flow is pronounced across 
+the eastern half of the nation, with an upper-level trough located
+in the Desert Southwest. Isolated thunderstorms will be possible
+early this evening ahead of this trough from eastern Arizona and
+western New Mexico northeastward into the central High Plains. 
+
+An upper-level low was also located near the coast of California.
+This feature will progress southeastward and move slowly inland
+across central California this evening. A band of rainfall is
+located ahead of the upper-level low. This southern end of this
+feature will move southeastward along the southern coast of
+California this evening. Some convective elements within the band
+near the coast may be associated with strong gusty winds.
+
+Elsewhere across the continental United States, thunderstorms are
+not expected through daybreak Thursday.
+
+..Broyles.. 02/08/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-02-07, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0343 PM CST Wed Feb 07 2024
+
+Valid 091200Z - 151200Z
+
+Mid-level troughing is expected to continue over the western and
+central US through the extended forecast period. Accompanying the
+persistent troughing, strong mid-level flow will linger over parts
+of the southern Plains and South TX supporting occasional gusty
+winds. The most significant period of troughing will likely develop
+this weekend through early next week, as a deeper shortwave emerges
+over the Southwest. A passing surface low could support localized
+fire-weather concerns through the weekend over parts of south TX.
+Otherwise, poorly receptive fuels, wet and cool conditions should
+keep fire-weather concerns low for much of the CONUS.
+
+...Southern Plains and south TX D3-D6...
+As the second trough begins to deepen over the Southwest and
+southern Rockies this weekend, a developing surface low should
+continue to deepen across parts of west TX and the Red River. By
+D5/Sun the low should begin to move eastward reaching the mid to
+lower MS Valley. Strong surface winds behind the low are possible
+through the weekend and into early next week. Forecast guidance
+varies considerably on the timing and strength of the
+upper-level/surface system. However, favorable downslope
+trajectories would support drier and windier conditions across parts
+of the southern Plains, along the Rio Grande Valley and into parts
+of Deep South TX. Some risk for critical fire-weather conditions may
+develop, but there remains significant uncertainty on the
+availability of dry fuels in addition to the meteorological forecast
+discrepancies.
+
+..Lyons.. 02/07/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">https://www.spc.noaa.gov/products/exper/fire_wx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/exper/fire_wx/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -49,30 +172,6 @@ should limit the potential for organized severe storms.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No watches are valid as of Tue Feb  6 12:55:02 UTC 2024
-
-date: 2024-02-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Tue Feb  6 12:55:02 UTC 2024.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No MDs are in effect as of Tue Feb  6 12:55:02 UTC 2024
-
-date: 2024-02-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Tue Feb  6 12:55:02 UTC 2024.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
 </span>
 
 ---

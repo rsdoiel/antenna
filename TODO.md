@@ -22,6 +22,7 @@
 
 ## Someday, maybe
 
+- [ ] Look at how I could usse htmlq (jq like for HTML) to either cleanup HTML feed content or to render a web page as a feed source
 - [ ] 3 column output on wide screens
 - [ ] Responsive design
 

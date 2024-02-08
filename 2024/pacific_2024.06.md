@@ -1,11 +1,375 @@
 ---
 title: pacific 2024.06
-updated: 2024-02-06 05:55:48
+updated: 2024-02-07 21:29:00
 ---
 
 # pacific 2024.06
 
-(date: 2024-02-06 05:55:48)
+(date: 2024-02-07 21:29:00)
+
+---
+
+##  Brief Chat with K. Erik Swanson:  Setting priorities
+
+date: 2024-02-08, from: Pacific Island Times
+
+By Frank Whitman “My whole purpose is to provide an improved level of educational services for our community,” K. Erik Swanson,...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/brief-chat-with-k-erik-swanson-setting-priorities">https://www.pacificislandtimes.com/post/brief-chat-with-k-erik-swanson-setting-priorities</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/brief-chat-with-k-erik-swanson-setting-priorities">Save to Pocket</a>
+</span>
+
+---
+
+## Wahine water polo player earns Big West honor, ‘Bows rise to No. 2
+
+date: 2024-02-08, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>UH</abbr> Mānoa attacker Lucia Gomez de la Puente was named the Big West Women's Water Polo Player of the Week.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/07/gomez-de-la-puente-big-west-honor/">Wahine water polo player earns Big West honor, ‘Bows rise to No. 2</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/07/gomez-de-la-puente-big-west-honor/">https://www.hawaii.edu/news/2024/02/07/gomez-de-la-puente-big-west-honor/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/07/gomez-de-la-puente-big-west-honor/">Save to Pocket</a>
+</span>
+
+---
+
+## Sisters’ university experience influence Sulieti to choose USP
+
+date: 2024-02-08, from: University of the South Pacific (Fiji)
+
+<p>The power of sharing one’s experience can have a lasting impact on family members, colleagues,...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/sisters-university-experience-influence-sulieti-to-choose-usp/">Sisters’ university experience influence Sulieti to choose USP</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/sisters-university-experience-influence-sulieti-to-choose-usp/">https://www.usp.ac.fj/news/sisters-university-experience-influence-sulieti-to-choose-usp/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/sisters-university-experience-influence-sulieti-to-choose-usp/">Save to Pocket</a>
+</span>
+
+---
+
+## Moʻolelo on cancer wins student top prize in public health journal
+
+date: 2024-02-08, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Furukawa’s story utilized his dreams to connect with his ancestors.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/07/cancer-story-wins-journal-prize/">Moʻolelo on cancer wins student top prize in public health journal</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/07/cancer-story-wins-journal-prize/">https://www.hawaii.edu/news/2024/02/07/cancer-story-wins-journal-prize/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/07/cancer-story-wins-journal-prize/">Save to Pocket</a>
+</span>
+
+---
+
+## Pacific Region Disaster Risk Finance Workshop underway at USP
+
+date: 2024-02-07, from: University of the South Pacific (Fiji)
+
+<p>Suva, Fiji &#8211; The Pacific Region Disaster Risk Finance Workshop convened by the Pacific Catastrophe...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/pacific-region-disaster-risk-finance-workshop-underway-at-usp/">Pacific Region Disaster Risk Finance Workshop underway at USP</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/pacific-region-disaster-risk-finance-workshop-underway-at-usp/">https://www.usp.ac.fj/news/pacific-region-disaster-risk-finance-workshop-underway-at-usp/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/pacific-region-disaster-risk-finance-workshop-underway-at-usp/">Save to Pocket</a>
+</span>
+
+---
+
+## Honoring Operation Flintlock
+
+date: 2024-02-07, from: Marshal Islands Journal
+
+<p>HILARY HOSIA The remains of a fallen US service member believed missing since World War II in the Marshall Islands was finally homebound last week following the official handover by the US Army Garrison-Kwajalein Atoll (USAG-KA) at the Richardson Theater last Friday. The development was one of the many highlights during the four-day celebrations in [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/honoring-operation-flintlock/">Honoring Operation Flintlock</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/honoring-operation-flintlock/">https://marshallislandsjournal.com/honoring-operation-flintlock/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/honoring-operation-flintlock/">Save to Pocket</a>
+</span>
+
+---
+
+## UH News Image of the Week: Nice morning
+
+date: 2024-02-07, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> This week's image is from <abbr>UH</abbr> Mānoa's Lars Bejder.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/07/uh-news-image-of-the-week-nice-morning/"><abbr>UH</abbr> News Image of the Week: Nice morning</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/07/uh-news-image-of-the-week-nice-morning/">https://www.hawaii.edu/news/2024/02/07/uh-news-image-of-the-week-nice-morning/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/07/uh-news-image-of-the-week-nice-morning/">Save to Pocket</a>
+</span>
+
+---
+
+## Green flag on Saipan
+
+date: 2024-02-07, updated: 2024-02-08, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan's east and south recreational beaches this week as part of the regularly scheduled sampling.  None of the samples collected contained excessive concentration of fecal indicator bacteria nor did they exceed CNMI marine water quality standards. Therefore, BECQ assigns the following sampled beach sites a green flag. Enjoy our waters!
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/green-flag-on-saipan/article_5d3c05a0-c579-11ee-bfb9-8ff5992f290a.html">https://www.mvariety.com/news/local/green-flag-on-saipan/article_5d3c05a0-c579-11ee-bfb9-8ff5992f290a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/green-flag-on-saipan/article_5d3c05a0-c579-11ee-bfb9-8ff5992f290a.html">Save to Pocket</a>
+</span>
+
+---
+
+## Contests galore at Tinian Hot Pepper Festival
+
+date: 2024-02-07, updated: 2024-02-08, from: Marianas Variety
+
+(MVA) — A full repertoire of contests awaits revelers at the 20th Annual Tinian Hot Pepper Festival on Feb. 16-17, 2024.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/contests-galore-at-tinian-hot-pepper-festival/article_908d93bc-c57c-11ee-be22-fb79be04f6fb.html">https://www.mvariety.com/lifestyle/contests-galore-at-tinian-hot-pepper-festival/article_908d93bc-c57c-11ee-be22-fb79be04f6fb.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/contests-galore-at-tinian-hot-pepper-festival/article_908d93bc-c57c-11ee-be22-fb79be04f6fb.html">Save to Pocket</a>
+</span>
+
+---
+
+## CHCC hosts community stakeholder meeting
+
+date: 2024-02-07, updated: 2024-02-08, from: Marianas Variety
+
+(CHCC) — On Feb. 6, 2024, a community stakeholder meeting was facilitated at the Crowne Plaza as part of a larger community health assessment or CHA process being facilitated by the Commonwealth Healthcare Corporation and RedStar International, in partnership with multiple community agencies and stakeholders. The event was aimed to consult and engage stakeholders in the CHA process so that they are involved in the identification and selection of health priorities that will drive programs and interventions focused on improving the health and well-being of the communities and families that reside in the CNMI.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/chcc-hosts-community-stakeholder-meeting/article_1d0f14fa-c5c3-11ee-af3c-6bee69a4cd71.html">https://www.mvariety.com/news/local/chcc-hosts-community-stakeholder-meeting/article_1d0f14fa-c5c3-11ee-af3c-6bee69a4cd71.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/chcc-hosts-community-stakeholder-meeting/article_1d0f14fa-c5c3-11ee-af3c-6bee69a4cd71.html">Save to Pocket</a>
+</span>
+
+---
+
+## Private attorneys offer alternative to subpoena power for AG
+
+date: 2024-02-07, updated: 2024-02-08, from: Marianas Variety
+
+A GROUP of private attorneys on Monday wrote a letter to the Senate recommending the establishment of a CNMI grand jury as an alternative to granting subpoena power to the Office of the Attorney General as proposed by House Bill 23-22.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/private-attorneys-offer-alternative-to-subpoena-power-for-ag/article_2fade27a-c58d-11ee-b763-4783cfd01854.html">https://www.mvariety.com/news/local/private-attorneys-offer-alternative-to-subpoena-power-for-ag/article_2fade27a-c58d-11ee-b763-4783cfd01854.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/private-attorneys-offer-alternative-to-subpoena-power-for-ag/article_2fade27a-c58d-11ee-b763-4783cfd01854.html">Save to Pocket</a>
+</span>
+
+---
+
+## Saipan delegation confirms new Zoning board appointees
+
+date: 2024-02-07, updated: 2024-02-08, from: Marianas Variety
+
+THE Saipan and Northern Islands Legislative Delegation on Wednesday confirmed the nominations of Northern Marianas College Dean of Student Support Services Charlotte P.R.  Cepeda and Triple J Motors New Car Sales Manager Stephen P. Sablan to the Commonwealth Zoning Board.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/saipan-delegation-confirms-new-zoning-board-appointees/article_814df058-c587-11ee-88d5-fbe70c19fe36.html">https://www.mvariety.com/news/local/saipan-delegation-confirms-new-zoning-board-appointees/article_814df058-c587-11ee-88d5-fbe70c19fe36.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/saipan-delegation-confirms-new-zoning-board-appointees/article_814df058-c587-11ee-88d5-fbe70c19fe36.html">Save to Pocket</a>
+</span>
+
+---
+
+## SNILD in session
+
+date: 2024-02-07, updated: 2024-02-08, from: Marianas Variety
+
+The Saipan and Northern Islands Legislative Delegation chairman, Rep. John Paul A. Sablan, 2nd right, back row, listens to House legal counsel Joe Taijeron, back to the camera, while the delegation vice chairman Rep. Roman C. Benavente, right, and floor leader, Rep. Ralph N. Yumul, left, look on during a break from the delegation session on Wednesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/snild-in-session/article_8a7089ca-c5c3-11ee-98c9-4707a82ef8e3.html">https://www.mvariety.com/news/local/snild-in-session/article_8a7089ca-c5c3-11ee-98c9-4707a82ef8e3.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/snild-in-session/article_8a7089ca-c5c3-11ee-98c9-4707a82ef8e3.html">Save to Pocket</a>
+</span>
+
+---
+
+## A tribute to Coach Mita: NMI soccer players share their fond memories
+
+date: 2024-02-07, updated: 2024-02-08, from: Marianas Variety
+
+ONE of Michiteru Mita’s most memorable achievements as coach of the NMI Men’s National Soccer Team was their drawn game against  Macau in the EAFF E-1 Football Championships in Mongolia on Sept. 6, 2018.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/a-tribute-to-coach-mita-nmi-soccer-players-share-their-fond-memories/article_b65872de-c599-11ee-91bb-9781ae8c1b47.html">https://www.mvariety.com/sports/localsports/a-tribute-to-coach-mita-nmi-soccer-players-share-their-fond-memories/article_b65872de-c599-11ee-91bb-9781ae8c1b47.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/a-tribute-to-coach-mita-nmi-soccer-players-share-their-fond-memories/article_b65872de-c599-11ee-91bb-9781ae8c1b47.html">Save to Pocket</a>
+</span>
+
+---
+
+## Futures struggle for direction as earnings, rate outlook in focus
+
+date: 2024-02-07, updated: 2024-02-08, from: Marianas Variety
+
+(Reuters) — U.S. stock index futures were subdued on Wednesday, with investors taking stock of major corporate earnings from the likes of Ford and Snap while continuing to look out for more clues from policymakers on the outlook for interest-rate cuts.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/business_news/futures-struggle-for-direction-as-earnings-rate-outlook-in-focus/article_e7fa38b6-c5be-11ee-8a84-33e87911d79b.html">https://www.mvariety.com/business/business_news/futures-struggle-for-direction-as-earnings-rate-outlook-in-focus/article_e7fa38b6-c5be-11ee-8a84-33e87911d79b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/business_news/futures-struggle-for-direction-as-earnings-rate-outlook-in-focus/article_e7fa38b6-c5be-11ee-8a84-33e87911d79b.html">Save to Pocket</a>
+</span>
+
+---
+
+## New album by Pylon Reenactment Society revives Pylon’s style of funky art punk
+
+date: 2024-02-07, updated: 2024-02-08, from: Marianas Variety
+
+(AP) — In 1980, Vanessa Briscoe Hay began the first tune on Georgia alt-rock band Pylon’s first album by singing, “Volume is pleasant. Volume is pleasant. Volume is pleasant.”
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/new-album-by-pylon-reenactment-society-revives-pylon-s-style-of-funky-art-punk/article_431ff47e-c5bf-11ee-b46e-d32e8c388fbf.html">https://www.mvariety.com/lifestyle/new-album-by-pylon-reenactment-society-revives-pylon-s-style-of-funky-art-punk/article_431ff47e-c5bf-11ee-b46e-d32e8c388fbf.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/new-album-by-pylon-reenactment-society-revives-pylon-s-style-of-funky-art-punk/article_431ff47e-c5bf-11ee-b46e-d32e8c388fbf.html">Save to Pocket</a>
+</span>
+
+---
+
+## Chief parole officer charged with forgery
+
+date: 2024-02-07, updated: 2024-02-07, from: Marianas Variety
+
+THE Office of the Attorney General has charged Chief Parole Officer Nick Masga Reyes with one count of misconduct in public office and four counts of forgery.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/chief-parole-officer-charged-with-forgery/article_b22af844-c5c6-11ee-9b61-3b0e83a1e0c4.html">https://www.mvariety.com/news/local/chief-parole-officer-charged-with-forgery/article_b22af844-c5c6-11ee-9b61-3b0e83a1e0c4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/chief-parole-officer-charged-with-forgery/article_b22af844-c5c6-11ee-9b61-3b0e83a1e0c4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Hawaiian Word of the Week: Mohala
+
+date: 2024-02-07, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Mohala&#8212;Unfolded, as flower petals; blossoming, opening up; appearing clear, as a thought.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/06/hawaiian-word-of-the-week-mohala/">Hawaiian Word of the Week: Mohala</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/06/hawaiian-word-of-the-week-mohala/">https://www.hawaii.edu/news/2024/02/06/hawaiian-word-of-the-week-mohala/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/06/hawaiian-word-of-the-week-mohala/">Save to Pocket</a>
+</span>
+
+---
+
+## Tune in: Hawaiian word of the day’s 30-year journey
+
+date: 2024-02-07, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>UH</abbr> M&#257;noa alumna Leilani <span aria-label="Poliahu">Poli&#699;ahu</span> is the voice behind <span aria-label="Hawaii">Hawai&#699;i</span> Public Radio’s Hawaiian word of the day segment.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/06/hawaiian-word-30-year-journey/">Tune in: Hawaiian word of the day’s 30-year journey</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/06/hawaiian-word-30-year-journey/">https://www.hawaii.edu/news/2024/02/06/hawaiian-word-30-year-journey/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/06/hawaiian-word-30-year-journey/">Save to Pocket</a>
+</span>
+
+---
+
+## Mahina ʻŌlelo Hawaiʻi: Revitalizing Hawaiian language
+
+date: 2024-02-07, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> <span aria-label="Hawaiinuiakea">Hawai&#699;inui&#257;kea</span> School for Hawaiian Knowledge hosts free Hawaiian language community events on three islands.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/06/mahina-olelo-hawaii-language/">Mahina ʻŌlelo Hawaiʻi: Revitalizing Hawaiian language</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/06/mahina-olelo-hawaii-language/">https://www.hawaii.edu/news/2024/02/06/mahina-olelo-hawaii-language/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/06/mahina-olelo-hawaii-language/">Save to Pocket</a>
+</span>
+
+---
+
+## Maunakea telescope captures extreme stellar eruption
+
+date: 2024-02-07, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>UH</abbr> Institute for Astronomy astronomer Jonathan Williams co-authored research that provides essential insights into the behavior of young stars.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/06/manukea-telescopr-stellar-eruption/">Maunakea telescope captures extreme stellar eruption</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/06/manukea-telescopr-stellar-eruption/">https://www.hawaii.edu/news/2024/02/06/manukea-telescopr-stellar-eruption/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/06/manukea-telescopr-stellar-eruption/">Save to Pocket</a>
+</span>
+
+---
+
+## US territories to get $7M grant for  climate resilience, land and water restoration
+
+date: 2024-02-07, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Department of the Interior this week announced nearly $7 million from President Biden’s Investing...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/us-territories-to-get-7m-grant-for-climate-resilience-land-and-water-restoration">https://www.pacificislandtimes.com/post/us-territories-to-get-7m-grant-for-climate-resilience-land-and-water-restoration</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/us-territories-to-get-7m-grant-for-climate-resilience-land-and-water-restoration">Save to Pocket</a>
+</span>
+
+---
+
+## Robot tech to clean oceans wows international summit
+
+date: 2024-02-07, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The presentation was part of the International Telecommunication Union’s Artificial Intelligence for Good Global Summit.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/06/robot-tech-to-clean-oceans/">Robot tech to clean oceans wows international summit</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/06/robot-tech-to-clean-oceans/">https://www.hawaii.edu/news/2024/02/06/robot-tech-to-clean-oceans/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/06/robot-tech-to-clean-oceans/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Mānoa research excellence takes center stage at State Capitol
+
+date: 2024-02-07, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>UH</abbr> Mānoa’s spotlighted its research on some of <span aria-label="Hawaii">Hawai&#699;i</span>'s most pressing issues: Maui wildfire disaster, homelessness, mental health challenges, educational reform and more.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/06/research-day-2024/"><abbr>UH</abbr> Mānoa research excellence takes center stage at State Capitol</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/06/research-day-2024/">https://www.hawaii.edu/news/2024/02/06/research-day-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/06/research-day-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Department of Defense augments representation on Guam
+
+date: 2024-02-07, from: Pacific Island Times
+
+By Pacific Island Times News Staff Deputy Secretary of Defense Kathleen Hicks has appointed a senior defense official who will oversee...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/department-of-defense-augments-representation-on-guam">https://www.pacificislandtimes.com/post/department-of-defense-augments-representation-on-guam</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/department-of-defense-augments-representation-on-guam">Save to Pocket</a>
+</span>
+
+---
+
+## A laundry list for US-CNMI 902 talks
+
+date: 2024-02-06, from: Pacific Island Times
+
+Saipan—One of the most pressing matters that should be discussed at the next U.S.-CNMI Covenant Section 902 consultation talks is the...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/a-laundry-list-for-us-cnmi-902-talks">https://www.pacificislandtimes.com/post/a-laundry-list-for-us-cnmi-902-talks</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/a-laundry-list-for-us-cnmi-902-talks">Save to Pocket</a>
+</span>
+
+---
+
+## DoD reps evaluating use of nuclear reactors in Guam
+
+date: 2024-02-06, from: Pacific Island Times
+
+By Frank Whitman Department of Defense officials are gathering information to determine the feasibility of using a small-scale nuclear...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/dod-reps-evaluating-use-of-nuclear-reactors-in-guam">https://www.pacificislandtimes.com/post/dod-reps-evaluating-use-of-nuclear-reactors-in-guam</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/dod-reps-evaluating-use-of-nuclear-reactors-in-guam">Save to Pocket</a>
+</span>
+
+---
+
+## Invitational revitalizes Hawai‘i esports community
+
+date: 2024-02-06, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/invitational-revitalizes-hawai-i-esports-community/article_41d84e28-c537-11ee-b748-e3e577e27b71.html">https://www.manoanow.org/kaleo/invitational-revitalizes-hawai-i-esports-community/article_41d84e28-c537-11ee-b748-e3e577e27b71.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/invitational-revitalizes-hawai-i-esports-community/article_41d84e28-c537-11ee-b748-e3e577e27b71.html">Save to Pocket</a>
+</span>
+
+---
+
+## UH West Oʻahu ACM student showcases work globally
+
+date: 2024-02-06, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Alumna  <span aria-label="AnelaPomaikaii">&#699;&#256;nela-P&#333;maikaii</span>  Mattson worked with her team at Honolulu Cookie Company to create the packaging design contest in partnership with Moore Aloha.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/06/uh-west-oahu-acm-harper-okamoto/"><abbr>UH</abbr> West Oʻahu <abbr>ACM</abbr> student showcases work globally</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/06/uh-west-oahu-acm-harper-okamoto/">https://www.hawaii.edu/news/2024/02/06/uh-west-oahu-acm-harper-okamoto/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/06/uh-west-oahu-acm-harper-okamoto/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -405,7 +769,7 @@ The post <a href="https://www.hawaii.edu/news/2024/02/05/water-polo-upsets-top-r
 
 date: 2024-02-05, from: INSIGHTS ON PBS HAWAIʻI
 
-<p>Join the conversation on our Facebook , Thursday, February 8 at 7:30 pm on INSIGHTS ON PBS HAWAIʻI. Scheduled Guests: tba &#160; &#160; &#160;</p>
+<p>Join the conversation on our Facebook , Thursday, February 8 at 7:30 pm on INSIGHTS ON PBS HAWAIʻI. Scheduled Guests: Jordan Lowe, Hawaiʻi Department of Law Enforcement Director Maj. Mike Lambert, Honolulu Police Department Rep. David Tarnas (D), Judiciary Committee Chair Tiana Wilbur, Waiʻanae Coast Neighborhood  Board Interim Chair &#160; &#160; &#160;</p>
 <p>The post <a href="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-is-the-illegal-fireworks-task-force-doing-enough/">INSIGHTS ON PBS HAWAIʻI &lt;br/&gt;Is the Illegal Fireworks Task Force Doing Enough?</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
 
 
@@ -599,7 +963,7 @@ By Pacific Island Times News Staff Approximately 1,700 U.S. airmen, marines and 
 
 ---
 
-##  Racing against time: Defense expert says Guam needs urgent attention
+## Defense expert says Guam needs urgent attention
 
 date: 2024-02-05, from: Pacific Island Times
 

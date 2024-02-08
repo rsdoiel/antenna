@@ -1,11 +1,75 @@
 ---
 title: libraries 2024.06
-updated: 2024-02-06 05:55:49
+updated: 2024-02-07 21:29:01
 ---
 
 # libraries 2024.06
 
-(date: 2024-02-06 05:55:49)
+(date: 2024-02-07 21:29:01)
+
+---
+
+## The Cords of Vanity, by James Branch Cabell
+
+date: 2024-02-07, from: Standard Ebooks, new releaases
+
+An arrogant young author makes his way through a series love affairs, avoiding every situation that may cause unpleasantness.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity">https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/james-branch-cabell/the-cords-of-vanity">Save to Pocket</a>
+</span>
+
+---
+
+## ARL Letter Opposing Pro Codes Act
+
+date: 2024-02-07, from: Association of Research Libraries News
+
+<p>Last Updated on February 7, 2024, 3:57 pm ET On February 7, 2024, ARL sent a letter to Senators explaining why we oppose the Pro Codes Act. Extending copyright to...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/arl-letter-opposing-pro-codes-act/">ARL Letter Opposing Pro Codes Act</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/arl-letter-opposing-pro-codes-act/">https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/arl-letter-opposing-pro-codes-act/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/copyright/arl-letter-opposing-pro-codes-act/">Save to Pocket</a>
+</span>
+
+---
+
+## Essays, by Errico Malatesta
+
+date: 2024-02-07, from: Standard Ebooks, new releaases
+
+A collection of essays by Errico Malatesta.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/errico-malatesta/essays/free-society-library_f-a-b_industrial-syndicalist-education-league_norman-matson_freedom-press">https://standardebooks.org/ebooks/errico-malatesta/essays/free-society-library_f-a-b_industrial-syndicalist-education-league_norman-matson_freedom-press</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/errico-malatesta/essays/free-society-library_f-a-b_industrial-syndicalist-education-league_norman-matson_freedom-press">Save to Pocket</a>
+</span>
+
+---
+
+## The Marrow of Tradition, by Charles W. Chesnutt
+
+date: 2024-02-07, from: Standard Ebooks, new releaases
+
+Thirty years after the Civil War and the effect of Reconstruction, the town of Wilmington, N.C. faces a growing threat as white supremacists seek to stimy the new social and political mobility gained by the newly-enfranchised black citizens.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/charles-w-chesnutt/the-marrow-of-tradition">https://standardebooks.org/ebooks/charles-w-chesnutt/the-marrow-of-tradition</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/charles-w-chesnutt/the-marrow-of-tradition">Save to Pocket</a>
+</span>
+
+---
+
+## Unveiling Perspectives on Peer Review and Research Integrity: Survey Insights
+
+date: 2024-02-07, from: Scholarly Kitchen
+
+<p>How can we optimize the peer review process, and what role should AI play?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/07/unveiling-perspectives-on-peer-review-and-research-integrity-survey-insights/">Unveiling Perspectives on Peer Review and Research Integrity: Survey Insights</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/07/unveiling-perspectives-on-peer-review-and-research-integrity-survey-insights/">https://scholarlykitchen.sspnet.org/2024/02/07/unveiling-perspectives-on-peer-review-and-research-integrity-survey-insights/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/07/unveiling-perspectives-on-peer-review-and-research-integrity-survey-insights/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -18,6 +82,18 @@ Merz, Fabien
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/658125">http://hdl.handle.net/20.500.11850/658125</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/658125">Save to Pocket</a>
+</span>
+
+---
+
+## The White Feather, by P. G. Wodehouse
+
+date: 2024-02-06, from: Standard Ebooks, new releaases
+
+A student tries to restore his honor among his schoolmates by learning to box.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/p-g-wodehouse/the-white-feather">https://standardebooks.org/ebooks/p-g-wodehouse/the-white-feather</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/p-g-wodehouse/the-white-feather">Save to Pocket</a>
 </span>
 
 ---
@@ -52,7 +128,7 @@ We, the editors of the Code4Lib Journal, sincerely apologize for the recent inci
 
 date: 2024-02-05, from: Association of Research Libraries News
 
-<p>Last Updated on February 5, 2024, 3:45 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 6 &#124; Wednesday, February 7 &#124; Thursday,...</p>
+<p>Last Updated on February 7, 2024, 3:35 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 6 &#124; Wednesday, February 7 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-5-8/">Day in Review (February 5–8)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 

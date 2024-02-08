@@ -1,11 +1,153 @@
 ---
 title: mid central 2024.06
-updated: 2024-02-06 05:55:48
+updated: 2024-02-07 21:29:00
 ---
 
 # mid central 2024.06
 
-(date: 2024-02-06 05:55:48)
+(date: 2024-02-07 21:29:00)
+
+---
+
+## Looking for a sip?
+
+date: 2024-02-08, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+California is the most boozy state in the U.S. with the greatest number of craft breweries in operation in the nation. As the fifth most populous city in the state, Fresno is a key player in forwarding the state’s craft beer tourism, and nationally the craft brew scene is seeing an impressive revival from its...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/looking-for-a-sip/">https://fscollegian.com/2024/02/looking-for-a-sip/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/looking-for-a-sip/">Save to Pocket</a>
+</span>
+
+---
+
+## Shop local and treat your loved one with a gift from Let Me Take A Look
+
+date: 2024-02-08, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+As Fresno continues to expand, many new businesses have begun to arise. Newly opened gift shop, Let Me Take a Look, is showcasing local artists by bringing a creative flair to the gift-giving-game. Owned by Suevia Vang, a Fresno native with a decade of experience in the fashion industry, the shop is home to many...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/shop-local-and-treat-your-loved-one-with-a-gift-from-let-me-take-a-look/">https://fscollegian.com/2024/02/shop-local-and-treat-your-loved-one-with-a-gift-from-let-me-take-a-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/shop-local-and-treat-your-loved-one-with-a-gift-from-let-me-take-a-look/">Save to Pocket</a>
+</span>
+
+---
+
+## Guard Xavier DuSell shoots ‘Dogs to victory
+
+date: 2024-02-08, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno State went on the road against Mountain West opponent San Jose State and won by a decisive score of 69-57.  Fresno State’s guard Xavier DuSell led the team in scoring with 23 points after scoring a career-high with six 3-pointers.  The final score, however, was no indication of how the game went for the...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/guard-xavier-dusell-shoots-dogs-to-victory/">https://fscollegian.com/2024/02/guard-xavier-dusell-shoots-dogs-to-victory/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/guard-xavier-dusell-shoots-dogs-to-victory/">Save to Pocket</a>
+</span>
+
+---
+
+## Through Umoja and A2MEND, Black Students Find the Support They Need
+
+date: 2024-02-07, from: Blue Devil News (Merced Community College Student Newspaper)
+
+<p>Black students account for 6% of the 1.9 million students enrolled in 116 California Community Colleges, the largest higher education system in the country. But a recent study confirmed that&#8230;</p>
+<p>The post <a href="https://www.mccd.edu/news/through-umoja-and-a2mend-black-students-find-the-support-they-need/">Through Umoja and A2MEND, Black Students Find the Support They Need</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.mccd.edu/news/through-umoja-and-a2mend-black-students-find-the-support-they-need/">https://www.mccd.edu/news/through-umoja-and-a2mend-black-students-find-the-support-they-need/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mccd.edu/news/through-umoja-and-a2mend-black-students-find-the-support-they-need/">Save to Pocket</a>
+</span>
+
+---
+
+## Neon lamp blunder
+
+date: 2024-02-07, from: EDN Blog
+
+<img width="547" height="308" src="https://www.edn.com/wp-content/uploads/Neon-Lamp-Blunder-1.png?fit=547%2C308" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Neon-Lamp-Blunder-1.png?w=547 547w, https://www.edn.com/wp-content/uploads/Neon-Lamp-Blunder-1.png?w=300 300w" sizes="(max-width: 547px) 100vw, 547px" /><p>Uncovering the culprit behind the “always on” neon lamps in equipment racks that were meant to house various pieces of test equipment.</p>
+<p>The post <a href="https://www.edn.com/neon-lamp-blunder/" data-wpel-link="internal">Neon lamp blunder</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/neon-lamp-blunder/">https://www.edn.com/neon-lamp-blunder/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/neon-lamp-blunder/">Save to Pocket</a>
+</span>
+
+---
+
+## Extreme flooding cancels classes in SoCal, but Fresno State escapes the downpour
+
+date: 2024-02-07, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Gov. Gavin Newsom declared a state of emergency on Sunday to support storm response amid extreme weather conditions due to strong atmospheric rivers. About 38 million people in California received flood alerts from the National Weather Service, which suggested that this storm could potentially be historic. Fresno received half an inch of rain since the...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/extreme-flooding-cancels-classes-in-socal-but-fresno-state-escapes-the-downpour/">https://fscollegian.com/2024/02/extreme-flooding-cancels-classes-in-socal-but-fresno-state-escapes-the-downpour/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/extreme-flooding-cancels-classes-in-socal-but-fresno-state-escapes-the-downpour/">Save to Pocket</a>
+</span>
+
+---
+
+## The Contemporary Dance Ensemble opens the spring semester with ‘Extrapolations 2024’
+
+date: 2024-02-07, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno State Theater and the Contemporary Dance Ensemble are kicking off the Spring 2024 season with its spring dance concert, “Extrapolations 2024.” “Extrapolations 2024” will be an artistic and enthralling performance featuring carefully curated pieces from seven professional dance artists, faculty and student choreographers offering a blend of dance works. “It’s super important to support...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/the-contemporary-dance-ensemble-opens-the-spring-semester-with-extrapolations-2024/">https://fscollegian.com/2024/02/the-contemporary-dance-ensemble-opens-the-spring-semester-with-extrapolations-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/the-contemporary-dance-ensemble-opens-the-spring-semester-with-extrapolations-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Dr. Nicole Cochran
+
+date: 2024-02-06, from: Blue Devil News (Merced Community College Student Newspaper)
+
+<p>Welcome, Nicole What is your role at Merced College? I am an adjunct professor for the Business Resource Center, where I teach in the Customer Service Academy, Workforce Development and&#8230;</p>
+<p>The post <a href="https://www.mccd.edu/news/dr-nicole-cochran/">Dr. Nicole Cochran</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.mccd.edu/news/dr-nicole-cochran/">https://www.mccd.edu/news/dr-nicole-cochran/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mccd.edu/news/dr-nicole-cochran/">Save to Pocket</a>
+</span>
+
+---
+
+## Way of water!
+
+date: 2024-02-06, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Water bottles have become a trend amongst Fresno State students with it becoming a form of self-expression. What I found the most interesting is that you can tell a lot about a person based on the stickers on their water bottles. It was surprising to see more Hydro Flasks than Stanley Cups around the Fresno...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/photo-essay-way-of-water/">https://fscollegian.com/2024/02/photo-essay-way-of-water/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/photo-essay-way-of-water/">Save to Pocket</a>
+</span>
+
+---
+
+## ∆Vbe differential thermometer needs no calibration
+
+date: 2024-02-06, from: EDN Blog
+
+<img width="853" height="403" src="https://www.edn.com/wp-content/uploads/Figure_DiffTherm.png?fit=853%2C403" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure_DiffTherm.png?w=853 853w, https://www.edn.com/wp-content/uploads/Figure_DiffTherm.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure_DiffTherm.png?w=768 768w" sizes="(max-width: 853px) 100vw, 853px" /><p>A self-calibrated high resolution differential thermometer to quantify the performance of heatsinks and TECs.</p>
+<p>The post <a href="https://www.edn.com/%e2%88%86vbe-differential-thermometer-needs-no-calibration/" data-wpel-link="internal">∆Vbe differential thermometer needs no calibration</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/%e2%88%86vbe-differential-thermometer-needs-no-calibration/">https://www.edn.com/%e2%88%86vbe-differential-thermometer-needs-no-calibration/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/%e2%88%86vbe-differential-thermometer-needs-no-calibration/">Save to Pocket</a>
+</span>
+
+---
+
+## Faraday to manufacture 64-bit Arm processor on Intel 1.8-nm node
+
+date: 2024-02-06, from: EDN Blog
+
+<img width="1920" height="680" src="https://www.edn.com/wp-content/uploads/Hero-image-Faraday.jpg?fit=1920%2C680" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Faraday.jpg?w=1920 1920w, https://www.edn.com/wp-content/uploads/Hero-image-Faraday.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Faraday.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Faraday.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-Faraday.jpg?w=1536 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /><p>Server chips are becoming a sweet spot for Intel's 18A process node as Faraday becomes another chip designer to sign a manufacturing deal.</p>
+<p>The post <a href="https://www.edn.com/faraday-to-manufacture-64-bit-arm-processor-on-intel-1-8-nm-node/" data-wpel-link="internal">Faraday to manufacture 64-bit Arm processor on Intel 1.8-nm node</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/faraday-to-manufacture-64-bit-arm-processor-on-intel-1-8-nm-node/">https://www.edn.com/faraday-to-manufacture-64-bit-arm-processor-on-intel-1-8-nm-node/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/faraday-to-manufacture-64-bit-arm-processor-on-intel-1-8-nm-node/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -37,7 +179,7 @@ At this month’s Art Hop, Fresno State art student Tyler Alcé curated the “D
 
 date: 2024-02-05, from: EDN Blog
 
-<img width="838" height="471" src="https://www.edn.com/wp-content/uploads/Walmart-scan-go-stock.png?fit=838%2C471" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Walmart-scan-go-stock.png?w=838 838w, https://www.edn.com/wp-content/uploads/Walmart-scan-go-stock.png?w=300 300w, https://www.edn.com/wp-content/uploads/Walmart-scan-go-stock.png?w=768 768w, https://www.edn.com/wp-content/uploads/Walmart-scan-go-stock.png?w=800 800w" sizes="(max-width: 838px) 100vw, 838px" /><p>Dump your employees! Get your customers to do the work instead and frustrate them in the process! What could go wrong?</p>
+<img width="838" height="471" src="https://www.edn.com/wp-content/uploads/Walmart-scan-go-stock.png?fit=838%2C471" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Walmart-scan-go-stock.png?w=838 838w, https://www.edn.com/wp-content/uploads/Walmart-scan-go-stock.png?w=300 300w, https://www.edn.com/wp-content/uploads/Walmart-scan-go-stock.png?w=768 768w, https://www.edn.com/wp-content/uploads/Walmart-scan-go-stock.png?w=800 800w" sizes="(max-width: 838px) 100vw, 838px" /><p>Dump your employees! Get your customers to do the work instead and frustrate them in the process! What could go wrong?</p>
 <p>The post <a href="https://www.edn.com/walmarts-mobile-scan-go-who-its-for-i-really-dont-know/" data-wpel-link="internal">Walmart’s Mobile Scan &#038; Go: Who it’s for, I really don’t know</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 
