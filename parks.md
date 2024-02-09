@@ -1,11 +1,224 @@
 ---
 title: parks 2024.06
-updated: 2024-02-08 19:14:15
+updated: 2024-02-09 08:22:27
 ---
 
 # parks 2024.06
 
-(date: 2024-02-08 19:14:15)
+(date: 2024-02-09 08:22:27)
+
+---
+
+## Northeastern States District adds to Seeds of Success and Smithsonian collection
+
+date: 2024-02-09, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Northeastern States District adds to Seeds of Success and Smithsonian collection</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p><strong>Milwaukee, Wisc. -- </strong>Recently, BLM Eastern States Northeastern States District Natural Resource Specialist Nikki Carter and Chris Woolridge of the Chicago Botanic Garden kayaked across the Milwaukee River to reach a BLM-managed island in Milwaukee, Wisconsin. The purpose of the trip was to create a vegetation index of every species on the one-acre island.</p>
+
+<p>Although the morning had started with an unexpected rain shower, the sky cleared, and brilliant patches of yellow and purple flowers appeared as they paddled to the island. Upon reaching the island, it became apparent that another goal could be achieved—native plant material collection for the Seeds of Success program. The program is a BLM-led initiative to collect, conserve, and develop native plant materials for stabilizing, rehabilitating, and restoring lands in the United States. If a seed collection happened that day, it would be the first time the BLM Northeastern States District Office had participated in the program. Carter and Woolridge would have to collect more than 10,000 seeds and several full plants to make herbarium vouchers. An herbarium specimen voucher is a pressed, mounted plant sample with collection data deposited for future reference. The pair happily got to work.</p>
+
+<p>After they completed the vegetation index, experiencing firsthand the island’s robust population of wood nettle plants, they determined that the populations of native Joe Pye weed (Eupatorium maculatum) and common sneezeweed (Helenium autumnale) would make excellent contributions to the Seeds of Success program. Both plants are excellent for pollinators, as indicated by the dozens of common eastern bumble bees foraging on the fall blooms that day.</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="8f1d5b8a-7498-4829-b9a6-b42282617773" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/seeds2.jpg?itok=Yb0hq6hz" width="640" height="303" alt="Eastern bumble bees forage on common sneezeweed, a bright yellow flower, enjoying the late season blooms laden with pollen." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Eastern bumble bees forage on common sneezeweed, enjoying the late season blooms laden with pollen. Seeds collected from this species will be used in future wetland restoration to increase pollinator habitat. (Photo by Nikki Carter)</figcaption>
+</figure>
+
+
+<p>Carefully, Carter and Woolridge readied their seed collection supplies. A large paper bag would hold the seeds, while a mechanical counter would keep track of the plants harvested. They reviewed the strict guidelines to follow in a collection, to maximize genetic diversity and minimize a potentially harmful reduction in the remaining seed populations. To leave a healthy population, only 20% of each plant’s seeds could be harvested, but they had to collect from at least 50 plants. Armed with their supplies, the pair set off across the island. In no time, the two had bags brimming with seedheads. A quick calculation revealed that they had collected an estimated 250,000 Joe Pye weed and 65,000 common sneezeweed seeds. These seeds would be cleaned and stored by Chicago Botanic Garden, available for withdrawal at a future date.</p>
+
+<p>The last step was to create herbarium vouchers to be sent with the seeds. These plant pressings would include an information tag and be a valuable reference for future research. Carter and Woolridge selected the perfect specimens for pressing. This would be the first time the BLM Northeastern States District had work sent to the prestigious Smithsonian Institution in Washington, D.C. Carter and Woolridge created three vouchers for each specimen. One would be sent to the Smithsonian, another would travel with Woolridge back to the Chicago Botanic Garden, and one would remain with Carter for the District’s library.</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="3361de16-3ad1-4670-a22a-15f54e111424" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/seeds1.jpg?itok=r7XevoW7" width="640" height="480" alt="BLM Natural Resource Specialist Nikki Carter prepares an herbarium voucher of Joe Pye weed, carefully arranging the roots of the plant on cardboard rested on a wood palette as a river flows behind her as trees with green leaves line both sides of the river.   " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>BLM Natural Resource Specialist Nikki Carter prepares an herbarium voucher of Joe Pye weed, carefully arranging the roots of the plant. This specimen will be held at the Smithsonian Institution in Washington, D.C. (Photo by Joey Lange)</figcaption>
+</figure>
+
+
+<p>The pair expertly arranged the plant specimens between sheets of paper and cardboard in beautifully latticed wood flower presses. An ideal specimen contains every part of the plant, from bloom to root. Carter recounted the small flower press her grandfather made her as a child when she would spend hours collecting dandelions and violets. The rotund inflorescences of the sneezeweed proved difficult to press, but like squeezing an overpacked suitcase shut, the team successfully assembled the presses. Loading their kayaks with their supplies and spoils, the team deftly paddled across the river to shore.</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="260af184-0e93-4c53-947d-0ca05464b0d5" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/seeds3.jpg?itok=N8XGfzhx" width="640" height="480" alt="a man kneels alongside a river, arranging common sneezeweed, a bright yellow flower, laying the sneezeweed on old newspaper pages.  " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Chris Woolridge of the Chicago Botanic Garden arranges a hearty common sneezeweed specimen in a flower press. Three pressings were made of each species and will be shared with Chicago Botanic Garden, the Smithsonian Institution, and the Northeastern States District Office. (Photo by Nikki Carter)</figcaption>
+</figure>
+
+
+<p>The work done that day will contribute to a national body of knowledge, providing valuable resources for wetland restoration. Seeds of Success collections are used to support development of geographically appropriate native plant materials for research, development, germplasm conservation, and ecosystem restoration. Herbaria (a systematically arranged collection of dried plants) provide a comprehensive view of regional flora.</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
+          <div><a href="https://www.blm.gov/region/northeastern-states-do" hreflang="en">Northeastern States DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/science" hreflang="en">Science</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-02-09T12:00:00Z">Fri, 02/09/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/northeastern-states" hreflang="en">Northeastern States</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46756/edit" hreflang="en">Seeds Crop</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/botany" hreflang="en">Botany</a></div>
+              <div><a href="https://www.blm.gov/tag/seeds-of-success" hreflang="en">Seeds of Success</a></div>
+              <div><a href="https://www.blm.gov/tag/wisconsin-river-islands" hreflang="en">Wisconsin River Islands</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/eastern-states" hreflang="en">Eastern States</a></div>
+          <div><a href="https://www.blm.gov/editorial-access/northeastern-states-do" hreflang="en">Northeastern States DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46757/edit" hreflang="en">Seeds1</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-02-09/northeastern-states-district-adds-seeds-success-and-smithsonian-collection">https://www.blm.gov/blog/2024-02-09/northeastern-states-district-adds-seeds-success-and-smithsonian-collection</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-09/northeastern-states-district-adds-seeds-success-and-smithsonian-collection">Save to Pocket</a>
+</span>
 
 ---
 

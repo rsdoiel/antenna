@@ -1,11 +1,71 @@
 ---
 title: games 2024.06
-updated: 2024-02-08 19:14:15
+updated: 2024-02-09 08:22:27
 ---
 
 # games 2024.06
 
-(date: 2024-02-08 19:14:15)
+(date: 2024-02-09 08:22:27)
+
+---
+
+## Suicide Squad Easter egg hints at Batman’s return
+
+date: 2024-02-09, updated: 2024-02-09, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24067454/suicide-squad-batman-calendar-easter-egg">https://www.polygon.com/24067454/suicide-squad-batman-calendar-easter-egg</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24067454/suicide-squad-batman-calendar-easter-egg">Save to Pocket</a>
+</span>
+
+---
+
+## Super Bowl 2024 is free to stream on Paramount Plus
+
+date: 2024-02-09, updated: 2024-02-09, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24064726/super-bowl-2024-stream-free-trial-how-to-watch">https://www.polygon.com/24064726/super-bowl-2024-stream-free-trial-how-to-watch</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24064726/super-bowl-2024-stream-free-trial-how-to-watch">Save to Pocket</a>
+</span>
+
+---
+
+## Helldivers 2 passes God of War to become PlayStation’s biggest Steam launch yet
+
+date: 2024-02-09, updated: 2024-02-09, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24067436/helldivers-2-biggest-playstation-launch-steam-pc">https://www.polygon.com/24067436/helldivers-2-biggest-playstation-launch-steam-pc</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24067436/helldivers-2-biggest-playstation-launch-steam-pc">Save to Pocket</a>
+</span>
+
+---
+
+## The 25 best movies on Netflix right now
+
+date: 2024-02-09, updated: 2024-02-09, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/21266801/best-movies-on-netflix">https://www.polygon.com/21266801/best-movies-on-netflix</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/21266801/best-movies-on-netflix">Save to Pocket</a>
+</span>
+
+---
+
+## Every tease Marvel still needs to pay off, in theory
+
+date: 2024-02-09, updated: 2024-02-09, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24065485/mcu-post-credits-teases-sequels-rumors">https://www.polygon.com/24065485/mcu-post-credits-teases-sequels-rumors</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24065485/mcu-post-credits-teases-sequels-rumors">Save to Pocket</a>
+</span>
 
 ---
 

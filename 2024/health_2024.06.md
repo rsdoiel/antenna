@@ -1,11 +1,107 @@
 ---
 title: health 2024.06
-updated: 2024-02-08 19:14:15
+updated: 2024-02-09 08:22:28
 ---
 
 # health 2024.06
 
-(date: 2024-02-08 19:14:15)
+(date: 2024-02-09 08:22:28)
+
+---
+
+## Metabolites of intestinal fora can be used as diagnostic and progressive markers for mild cognitive impairment
+
+date: 2024-02-09, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Purpose</title><p>The aim of the work was to analyze the metabolites of the intestinal microbiota from the patients with mild cognitive impairment (MCI) and progressive MCI due to Alzheimer’s disease (AD).</p></sec><sec><title>Method</title><p>Two cohorts were established. The first one included 87 subjects with 30 healthy controls (NC), 22 patients with MCI due to AD, and 35 patients with AD. The second cohort included 87 patients with MCI due to AD, who were followed up for 2 years and finally were divided into progressive MCI due to AD group (P-G) and unprogressive MCI due to AD group (U-G) according their cognitive levels. Fecal samples were collected to all patients at the baseline time point. Differential metabolites were subjected to pathway analysis by MetaboAnalyst.</p></sec><sec><title>Results</title><p>In the first cohort, we found 21 different metabolites among the three groups (AD, MCI, and NC). In the second cohort, we identified 19 differential metabolites between the P-G and U-G groups. By machine learning analysis, we found that seven characteristic metabolites [Erythrodiol, alpha-Curcumene, Synephrine, o-Hydroxylaminobenzoate, 3-Amino-4-hydroxybenzoic acid, 2-Deoxystreptamine, and 9(S] were of characteristic significance for the diagnosis of MCI due to AD, and six metabolites (Indolelactate, Indole-3-acetaldehyde, L-Proline, Perillyl, Mesaconate, and Sphingosine) were the characteristic metabolites of early warning for the progression of MCI due to AD. D-Glucuronic acid was negatively correlated with Apolipoprotein E4 (APOE4). Perillyl alcohol was negatively correlated with all of the five biomarkers [P-tau181, Neurofilament light chain (NF-light), Aβ1-42, Aβ1-40, and glial fibrillary acidic protein (GFAP)], but Indoleacetaldehyde was positively correlated with three biomarkers (P-tau181, Aβ1-42, and GFAP). Three characteristic metabolites (3-Amino-4-hydroxybenzoate, 2-Deoxystreptamine, and p-Synephrine) were positively correlated with Aβ1-42. 2-Deoxystreptamine, 9(S)-HPOT, and Indoleacetaldehyde were positively correlated with GFAP. L-Proline and Indoleacetaldehyde were positively correlated with NF-light.</p></sec><sec><title>Conclusion</title><p>Specific metabolites of intestinal fora can be used as diagnostic and progressive markers for MCI.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1351523">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1351523</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1351523">Save to Pocket</a>
+</span>
+
+---
+
+## An atlas of gross and histologic lesions and immunohistochemical immunoreactivity during the temporal progression of aerosolized Lassa virus induced hemorrhagic fever in cynomolgus macaques
+
+date: 2024-02-09, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Lassa virus (LASV) causes an acute multisystemic hemorrhagic fever in humans known as Lassa fever, which is endemic in several African countries. This manuscript focuses on the progression of disease in cynomolgus macaques challenged with aerosolized LASV and serially sampled for the development and progression of gross and histopathologic lesions. Gross lesions were first noted in tissues on day 6 and persisted throughout day 12. Viremia and histologic lesions were first noted on day 6 commencing with the pulmonary system and hemolymphatic system and progressing at later time points to include all systems. Immunoreactivity to LASV antigen was first observed in the lungs of one macaque on day 3 and appeared localized to macrophages with an increase at later time points to include immunoreactivity in all organ systems. Additionally, this manuscript will serve as a detailed atlas of histopathologic lesions and disease progression for comparison to other animal models of aerosolized Arenaviral disease.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1341891">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1341891</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1341891">Save to Pocket</a>
+</span>
+
+---
+
+## The significance of gut microbiota in the etiology of autoimmune hepatitis: a narrative review
+
+date: 2024-02-09, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Autoimmune hepatitis (AIH) is a chronic inflammatory disease of the liver that is mediated by autoimmunity and has complex pathogenesis. Its prevalence has increased globally. Since the liver is the first organ to be exposed to harmful substances, such as gut-derived intestinal microbiota and its metabolites, gut health is closely related to liver health, and the “liver-gut axis” allows abnormalities in the gut microbiota to influence the development of liver-related diseases such as AIH. Changes in the composition of the intestinal microbiota and its resultant disruption of the intestinal barrier and microbial transport are involved in multiple ways in the disruption of immune homeostasis and inflammation, thereby influencing the development of AIH. In terms of the mechanisms involved in immune, the gut microbiota or its metabolites, which is decreased in secondary bile acids, short-chain fatty acids (SCFAs), and polyamines, and increased in lipopolysaccharide (LPS), branched-chain amino acids (BCAA), tryptophan metabolite, amino acid, and bile acid, can disrupt immune homeostasis by activating various immune cells and immune-related signaling pathways, resulting in aberrant activation of the immune system. Clarifying this mechanism has significant clinical implications for the treatment of AIH with drugs that target intestinal microbiota and related signaling pathways. Therefore, this narrative review summarizes the progress in exploring the involvement of gut microbiota in the pathogenesis of AIH, with the aim of helping to improve the precise targeting of therapeutic treatments against AIH for the benefit of clinical AIH treatment.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1337223">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1337223</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1337223">Save to Pocket</a>
+</span>
+
+---
+
+## Mutation in the 26S proteasome regulatory subunit rpn2 gene in Plasmodium falciparum confers resistance to artemisinin
+
+date: 2024-02-09, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>Malaria parasites increasingly develop resistance to all drugs available in the market, hampering the goal of reducing malaria burden.</p></sec><sec><title>Methods</title><p>Herein, we evaluated the impact of a single-nucleotide variant, E738K, present in the 26S proteasome regulatory subunit <italic>rpn2</italic> gene, identified in <italic>Plasmodium chabaudi</italic> resistant parasites. Plasmids carrying a functional <italic>rpn2</italic> interspecies chimeric gene with 5’ recombination region from <italic>P. falciparum</italic> and 3’ from <italic>P. chabaudi</italic> were constructed and transfected into Dd2 <italic>P. falciparum</italic> parasites.</p></sec><sec><title>Results and discussion</title><p>The 738K variant parasite line presented increased parasite survival when subjected to dihydroartemisinin (DHA), as well as increased chymotrypsin-like activity and decreased accumulation of polyubiquitinated proteins. We thus conclude that the ubiquitin-proteasome pathway, including the 738K variant, play an important role in parasite response to DHA, being the first report of a mutation in a potential DHA drug target enhancing parasite survival and contributing to a significant advance in the understanding the biology of artemisinin resistance.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1342856">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1342856</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1342856">Save to Pocket</a>
+</span>
+
+---
+
+## Exploring the relationship between intestinal microbiota and immune checkpoint inhibitors in the treatment of non-small cell lung cancer: insights from the “lung and large intestine stand in exterior-interior relationship” theory
+
+date: 2024-02-09, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Objective</title><p>This study is aim to discern the Traditional Chinese Medicine (TCM) syndrome classifications relevant to immunotherapy sensitive in non-small cell lung cancer (NSCLC) patients, and to delineate intestinal microbiota biomarkers and impact that wield influence over the efficacy of NSCLC immunotherapy, grounded in the TCM theory of “lung and large intestine stand in exterior-interior relationship.”</p></sec><sec><title>Methods</title><p>The study cohort consisted of patients with advanced NSCLC who received treatment at the Oncology Department of Chengdu Fifth People’s Hospital. These patients were categorized into distinct TCM syndrome types and subsequently administered immune checkpoint inhibitors (ICIs), specifically PD-1 inhibitors. Stool specimens were collected from patients both prior to and following treatment. To scrutinize the differences in microbial gene sequences and species of the intestinal microbiota, 16S rRNA amplicon sequencing technology was employed. Additionally, peripheral blood samples were collected, and the analysis encompassed the assessment of T lymphocyte subsets and myeloid suppressor cell subsets via flow cytometry. Subsequently, alterations in the immune microenvironment pre- and post-treatment were thoroughly analyzed.</p></sec><sec><title>Results</title><p>The predominant clinical manifestations of advanced NSCLC patients encompassed spleen-lung Qi deficiency syndrome and Qi-Yin deficiency syndrome. Notably, the latter exhibited enhanced responsiveness to ICIs with a discernible amelioration of the immune microenvironment. Following ICIs treatment, significant variations in microbial abundance were identified among the three strains: Clostridia, Lachnospiraceae, and Lachnospirales, with a mutual dependency relationship. In the subset of patients manifesting positive PD-L1 expression and enduring therapeutic benefits, the study recorded marked increases in the ratios of CD3<sup>+</sup>%, CD4<sup>+</sup>%, and CD4<sup>+</sup>/CD8<sup>+</sup> within the T lymphocyte subsets. Conversely, reductions were observed in the ratios of CD8%, Treg/CD4<sup>+</sup>, M-MDSC/MDSC, and G-MDSC/MDSC.</p></sec><sec><title>Conclusion</title><p>The strains Clostridia, Lachnospiraceae, and Lachnospirales emerge as potential biomarkers denoting the composition of the intestinal microbiota in the NSCLC therapy. The immunotherapy efficacy of ICIs markedly accentuates in patients displaying durable treatment benefits and those expressing positive PD-L1.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1341032">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1341032</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1341032">Save to Pocket</a>
+</span>
+
+---
+
+## Bacteroidaceae, Bacteroides, and Veillonella: emerging protectors against Graves’ disease
+
+date: 2024-02-09, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>Graves’ disease (GD) is the most common cause of hyperthyroidism, and its pathogenesis remains incompletely elucidated. Numerous studies have implicated the gut microbiota in the development of thyroid disorders. This study employs Mendelian randomization analysis to investigate the characteristics of gut microbiota in GD patients, aiming to offer novel insights into the etiology and treatment of Graves’ disease.</p></sec><sec><title>Methods</title><p>Two-sample Mendelian randomization (MR) analysis was employed to assess the causal relationship between Graves’ disease and the gut microbiota composition. Gut microbiota data were sourced from the international consortium MiBioGen, while Graves’ disease data were obtained from FINNGEN. Eligible single nucleotide polymorphisms (SNPs) were selected as instrumental variables. Multiple analysis methods, including inverse variance-weighted (IVW), MR-Egger regression, weighted median, weighted mode, and MR-RAPS, were utilized. Sensitivity analyses were conducted employing MR-Egger intercept test, Cochran’s Q test, and leave-one-out analysis as quality control measures.</p></sec><sec><title>Results</title><p>The Mendelian randomization study conducted in a European population revealed a decreased risk of Graves’ disease associated with <italic>Bacteroidaceae</italic> (Odds ratio (OR) [95% confidence interval (CI)]: 0.89 [0.89 ~ 0.90], adjusted <italic>P</italic> value: &lt;0.001), <italic>Bacteroides</italic> (OR: [95% CI]: 0.555 [0.437 ~ 0.706], adjusted <italic>P</italic> value: &lt;0.001), and <italic>Veillonella</italic> (OR [95% CI]: 0.632 [0.492 ~ 0.811], adjusted <italic>P</italic> value: 0.016). No significant evidence of heterogeneity, or horizontal pleiotropy was detected. Furthermore, the preliminary MR analysis identified 13 bacterial species including <italic>Eubacterium brachy</italic> group and <italic>Family XIII AD3011</italic> group, exhibiting significant associations with Graves’ disease onset, suggesting potential causal effects.</p></sec><sec><title>Conclusion</title><p>A causal relationship exists between gut microbiota and Graves’ disease. <italic>Bacteroidaceae</italic>, <italic>Bacteroides</italic>, and <italic>Veillonella</italic> emerge as protective factors against Graves’ disease development. Prospective probiotic supplementation may offer a novel avenue for adjunctive treatment in the management of Graves’ disease in the future.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1288222">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1288222</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1288222">Save to Pocket</a>
+</span>
+
+---
+
+## Promising immunotherapeutic targets for treating candidiasis
+
+date: 2024-02-09, from: Frontiers in Cellular and Infection Microbiology
+
+<p>In the last twenty years, there has been a significant increase in invasive fungal infections, which has corresponded with the expanding population of individuals with compromised immune systems. As a result, the mortality rate linked to these infections remains unacceptably high. The currently available antifungal drugs, such as azoles, polyenes, and echinocandins, face limitations in terms of their diversity, the escalating resistance of fungi and the occurrence of significant adverse effects. Consequently, there is an urgent need to develop new antifungal medications. Vaccines and antibodies present a promising avenue for addressing fungal infections due to their targeted antifungal properties and ability to modulate the immune response. This review investigates the structure and function of cell wall proteins, secreted proteins, and functional proteins within <italic>C. albicans</italic>. Furthermore, it seeks to analyze the current advancements and challenges in macromolecular drugs to identify new targets for the effective management of candidiasis.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1339501">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1339501</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1339501">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: The ever so elusive pathogen-harboring biofilms on abiotic surfaces in the food and clinical sectors: the good, the bad and the slimy
+
+date: 2024-02-09, from: Frontiers in Cellular and Infection Microbiology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1374693">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1374693</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1374693">Save to Pocket</a>
+</span>
 
 ---
 

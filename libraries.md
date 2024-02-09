@@ -1,11 +1,25 @@
 ---
 title: libraries 2024.06
-updated: 2024-02-08 19:14:15
+updated: 2024-02-09 08:22:27
 ---
 
 # libraries 2024.06
 
-(date: 2024-02-08 19:14:15)
+(date: 2024-02-09 08:22:27)
+
+---
+
+## A PDF Bigger than the Universe
+
+date: 2024-02-09, from: Scholarly Kitchen
+
+<p>How big can a PDF be?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/09/a-pdf-bigger-than-the-universe/">A PDF Bigger than the Universe</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/09/a-pdf-bigger-than-the-universe/">https://scholarlykitchen.sspnet.org/2024/02/09/a-pdf-bigger-than-the-universe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/09/a-pdf-bigger-than-the-universe/">Save to Pocket</a>
+</span>
 
 ---
 

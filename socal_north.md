@@ -1,11 +1,261 @@
 ---
 title: socal north 2024.06
-updated: 2024-02-08 19:14:14
+updated: 2024-02-09 08:22:27
 ---
 
 # socal north 2024.06
 
-(date: 2024-02-08 19:14:14)
+(date: 2024-02-09 08:22:27)
+
+---
+
+## As CSU Faculty Prepare For Vote On New Deal, Many Wonder If There's A Better Option
+
+date: 2024-02-09, updated: 2024-02-09, from: The LAist
+
+California State University faculty will begin voting Monday whether to accept a new deal. Many don't want to go back on strike, but others are ready to vote it down.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/california-state-university-faculty-vote-tentative-agreement-strike-2024">https://laist.com/news/education/california-state-university-faculty-vote-tentative-agreement-strike-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/california-state-university-faculty-vote-tentative-agreement-strike-2024">Save to Pocket</a>
+</span>
+
+---
+
+## At Pink And Boujee, People Come For The Color — And Stay For The Tacos
+
+date: 2024-02-09, updated: 2024-02-09, from: The LAist
+
+A hued twist to traditional Mexican fare brings success to a taquería on 1st Street owned and operated by long-time Boyle Heights resident Yesenia Castro.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/pink-and-boujee-tacos-food-boyle-heights">https://laist.com/news/food/pink-and-boujee-tacos-food-boyle-heights</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/pink-and-boujee-tacos-food-boyle-heights">Save to Pocket</a>
+</span>
+
+---
+
+## The Super Bowl (Of Chili): We Asked For Your Best Tricks And You Gave Us Your Spiciest Secrets
+
+date: 2024-02-09, updated: 2024-02-09, from: The LAist
+
+With the Super Bowl and cold weather in full swing this week, we’re craving a hot bowl of chili. From chocolate to Fritos, here are some tricks to make yours a winner.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/the-super-bowl-of-chili-we-asked-for-your-best-tricks-and-you-gave-us-your-spiciest-secrets">https://laist.com/news/food/the-super-bowl-of-chili-we-asked-for-your-best-tricks-and-you-gave-us-your-spiciest-secrets</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/the-super-bowl-of-chili-we-asked-for-your-best-tricks-and-you-gave-us-your-spiciest-secrets">Save to Pocket</a>
+</span>
+
+---
+
+## Lunar New Year Starts Sunday. Here's How To Celebrate The Year Of The Dragon In LA
+
+date: 2024-02-09, updated: 2024-02-09, from: The LAist
+
+It's Lunar New Year, which kicks off with plenty of celebrations, and we've got you covered with various places to dine and other non-eating activities where you can still feel prosperous.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/lunar-new-year-starts-sunday-heres-how-to-celebrate-the-year-of-the-dragon-in-la">https://laist.com/news/food/lunar-new-year-starts-sunday-heres-how-to-celebrate-the-year-of-the-dragon-in-la</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/lunar-new-year-starts-sunday-heres-how-to-celebrate-the-year-of-the-dragon-in-la">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – February 9, 2024
+
+date: 2024-02-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/09/classifieds-february-9-2024/">Classifieds &#8211; February 9, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/09/classifieds-february-9-2024/">https://dailytrojan.com/2024/02/09/classifieds-february-9-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/09/classifieds-february-9-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## With the new year comes a yearning for home
+
+date: 2024-02-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As Tet approaches, I am reminded of why it means so much to me and my family.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/09/with-the-new-year-comes-a-yearning-for-home/">With the new year comes a yearning for home</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/09/with-the-new-year-comes-a-yearning-for-home/">https://dailytrojan.com/2024/02/09/with-the-new-year-comes-a-yearning-for-home/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/09/with-the-new-year-comes-a-yearning-for-home/">Save to Pocket</a>
+</span>
+
+---
+
+## More students should be in therapy
+
+date: 2024-02-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC’s mental health services are important resources that more people should use.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/09/more-students-should-be-in-therapy/">More students should be in therapy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/09/more-students-should-be-in-therapy/">https://dailytrojan.com/2024/02/09/more-students-should-be-in-therapy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/09/more-students-should-be-in-therapy/">Save to Pocket</a>
+</span>
+
+---
+
+## Men’s basketball loses overtime bear fight
+
+date: 2024-02-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A second-half surge from Isaiah Collier could not lift the slumping USC over its rivals.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/09/mens-basketball-loses-overtime-bear-fight/">Men&#8217;s basketball loses overtime bear fight</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/09/mens-basketball-loses-overtime-bear-fight/">https://dailytrojan.com/2024/02/09/mens-basketball-loses-overtime-bear-fight/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/09/mens-basketball-loses-overtime-bear-fight/">Save to Pocket</a>
+</span>
+
+---
+
+## Sierra Sky proves she is anything but ‘Broken’
+
+date: 2024-02-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The senior’s new release empowers those who have endured a rough breakup.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/09/sierra-sky-proves-she-is-anything-but-broken/">Sierra Sky proves she is anything but ‘Broken’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/09/sierra-sky-proves-she-is-anything-but-broken/">https://dailytrojan.com/2024/02/09/sierra-sky-proves-she-is-anything-but-broken/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/09/sierra-sky-proves-she-is-anything-but-broken/">Save to Pocket</a>
+</span>
+
+---
+
+## Look to the stars for love
+
+date: 2024-02-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Aquarius and earth sign energy will be bountiful come Valentine's Day.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/09/look-to-the-stars-for-love/">Look to the stars for love</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/09/look-to-the-stars-for-love/">https://dailytrojan.com/2024/02/09/look-to-the-stars-for-love/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/09/look-to-the-stars-for-love/">Save to Pocket</a>
+</span>
+
+---
+
+## African stories spotlighted in documentary
+
+date: 2024-02-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>SCA alumni-produced film “Brief Tender Light” was shown at Broccoli Theater.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/09/african-stories-spotlighted-in-documentary/">African stories spotlighted in documentary</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/09/african-stories-spotlighted-in-documentary/">https://dailytrojan.com/2024/02/09/african-stories-spotlighted-in-documentary/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/09/african-stories-spotlighted-in-documentary/">Save to Pocket</a>
+</span>
+
+---
+
+## The familial feel of tidal therapy is a force of nature
+
+date: 2024-02-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>When faced with waves of emotions, there’s one place that knows just what to say. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/09/the-familial-feel-of-tidal-therapy-is-a-force-of-nature/">The familial feel of tidal therapy is a force of nature</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/09/the-familial-feel-of-tidal-therapy-is-a-force-of-nature/">https://dailytrojan.com/2024/02/09/the-familial-feel-of-tidal-therapy-is-a-force-of-nature/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/09/the-familial-feel-of-tidal-therapy-is-a-force-of-nature/">Save to Pocket</a>
+</span>
+
+---
+
+## Celebrating Lunar New Year as a Bruin and welcoming the Year of the Dragon
+
+date: 2024-02-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+An abundance of food, red packets and toy dragons circulate among Bruins this weekend as the Year of the Dragon arrives.
+Lunar New Year, also called the Spring Festival, is a holiday celebrating the beginning of the lunisolar calendar and a time to welcome spring.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/08/celebrating-lunar-new-year-as-a-bruin-and-welcoming-the-year-of-the-dragon/">https://dailybruin.com/2024/02/08/celebrating-lunar-new-year-as-a-bruin-and-welcoming-the-year-of-the-dragon/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/celebrating-lunar-new-year-as-a-bruin-and-welcoming-the-year-of-the-dragon/">Save to Pocket</a>
+</span>
+
+---
+
+## Opinion: Cryptocurrency’s risks prove too high to fully trust it as a form of banking
+
+date: 2024-02-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Cryptocurrency is swiftly emerging as technological and financial developments skyrocket to new horizons, presenting risky implications.
+Recent years have witnessed a rise in digital assets, with the University of California beginning to accept donations in the form of cryptocurrency payments.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/08/opinion-cryptocurrencys-risks-prove-too-high-to-fully-trust-it-as-a-form-of-banking/">https://dailybruin.com/2024/02/08/opinion-cryptocurrencys-risks-prove-too-high-to-fully-trust-it-as-a-form-of-banking/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/opinion-cryptocurrencys-risks-prove-too-high-to-fully-trust-it-as-a-form-of-banking/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA faculty discuss role of diversity in choosing new police chief
+
+date: 2024-02-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Experts said the topics of police reform and diversity will be key in selecting a new police chief, as current LAPD Chief Michael Moore steps down at the end of February and Dominic Choi begins his term as interim chief March 1.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/08/ucla-faculty-discuss-role-of-diversity-in-choosing-new-police-chief/">https://dailybruin.com/2024/02/08/ucla-faculty-discuss-role-of-diversity-in-choosing-new-police-chief/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/ucla-faculty-discuss-role-of-diversity-in-choosing-new-police-chief/">Save to Pocket</a>
+</span>
+
+---
+
+## ACA hosts Basic Needs Drive for people experiencing homelessness in Chinatown
+
+date: 2024-02-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Association of Chinese Americans kicked off its Basic Needs Drive this week to help provide resources for people experiencing homelessness in Chinatown. 
+The drive is being hosted in collaboration with the Asian Pacific Coalition and the Chinatown Community for Equitable Development &#8211; a grassroots organization that helps Chinatown residents find better jobs, education and housing.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/08/aca-hosts-basic-needs-drive-for-people-experiencing-homelessness-in-chinatown/">https://dailybruin.com/2024/02/08/aca-hosts-basic-needs-drive-for-people-experiencing-homelessness-in-chinatown/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/aca-hosts-basic-needs-drive-for-people-experiencing-homelessness-in-chinatown/">Save to Pocket</a>
+</span>
+
+---
+
+## A university post-pandemic: How UCLA can balance student engagement and accessibility
+
+date: 2024-02-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 8 at 11:28 p.m.</em>
+Four years ago, with the beginning of the COVID-19 pandemic, campuses across the country switched to remote learning.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/08/a-university-post-pandemic-how-ucla-can-balance-student-engagement-and-accessibility/">https://dailybruin.com/2024/02/08/a-university-post-pandemic-how-ucla-can-balance-student-engagement-and-accessibility/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/a-university-post-pandemic-how-ucla-can-balance-student-engagement-and-accessibility/">Save to Pocket</a>
+</span>
+
+---
+
+## Reciprocal relationality: Seminar explores reggae’s role in Hawaiian culture
+
+date: 2024-02-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sunaina Keonaona Kale is putting reggae music in relation.
+Originally from Irvine, Kale is Kanaka Maoli, or Native Hawaiian, and holds a doctorate in ethnomusicology from UC Santa Barbara.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/08/reciprocal-relationality-seminar-explores-reggaes-role-in-hawaiian-culture/">https://dailybruin.com/2024/02/08/reciprocal-relationality-seminar-explores-reggaes-role-in-hawaiian-culture/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/reciprocal-relationality-seminar-explores-reggaes-role-in-hawaiian-culture/">Save to Pocket</a>
+</span>
+
+---
+
+## Student organizations host rally demanding UCLA’s divestment from Israel
+
+date: 2024-02-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 8 at 10:44 p.m.</em>
+Students for Justice in Palestine and the UC Divest Coalition at UCLA held a rally Thursday calling on the university to divest from companies associated with Israel.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/08/student-organizations-host-rally-demanding-uclas-divestment-from-israel/">https://dailybruin.com/2024/02/08/student-organizations-host-rally-demanding-uclas-divestment-from-israel/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/student-organizations-host-rally-demanding-uclas-divestment-from-israel/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -58,12 +308,24 @@ Saturday night was an emotional one for CSUN ice hockey seniors. Prior to hostin
 
 ---
 
+## So Your Roof Developed A Leak During A Recent Storm — Here’s How To Handle It
+
+date: 2024-02-09, updated: 2024-02-09, from: The LAist
+
+From preventive maintenance to managing your insurance claims, we’ve got you covered.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/leaky-roof-guide-tips">https://laist.com/news/climate-environment/leaky-roof-guide-tips</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/leaky-roof-guide-tips">Save to Pocket</a>
+</span>
+
+---
+
 ## Q&A: Ryan Tonthat takes a bite from LA food scene with @foodandpooch Instagram page
 
 date: 2024-02-09, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 8 at 7:59 p.m.</em>
 Food is better when you share it with others – in Ryan Tonthat’s case, he is sharing it with the world.
-In 2019, the alumnus, who is also a high school math teacher, created the Instagram account @foodandpooch.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/08/qa-ryan-tonthat-takes-a-bite-from-la-food-scene-with-foodandpooch-instagram-page/">https://dailybruin.com/2024/02/08/qa-ryan-tonthat-takes-a-bite-from-la-food-scene-with-foodandpooch-instagram-page/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/qa-ryan-tonthat-takes-a-bite-from-la-food-scene-with-foodandpooch-instagram-page/">Save to Pocket</a>
@@ -103,8 +365,9 @@ UCLA men&#8217;s golf is traveling to Waimea, Hawaii for a three-day tournament,
 
 date: 2024-02-08, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated on Feb. 8 at 9:11 p.m.</em>
 Kelly Inouye-Perez spent five seasons as a backstop before launching her coaching career in 1994.
-As part of her reshaping of the Bruins&#8217; coaching staff, the five-time Women&#8217;s College World Series champion is now returning to the bullpen to individually coach the pitchers and catchers.
+As part of her reshaping of the Bruins’ coaching staff, the five-time Women’s College World Series champion is now returning to the bullpen to individually coach the pitchers and catchers.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/08/ucla-softball-gears-up-for-season-with-reshaped-coaching-staff-and-roster/">https://dailybruin.com/2024/02/08/ucla-softball-gears-up-for-season-with-reshaped-coaching-staff-and-roster/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/ucla-softball-gears-up-for-season-with-reshaped-coaching-staff-and-roster/">Save to Pocket</a>
@@ -126,7 +389,7 @@ The recommendations come after Caltrans undertook a review of the sites followin
 
 ## The Storm Left Behind Lots Of Potholes (Shocker). Here’s How You Can File A Claim For Car Damage
 
-date: 2024-02-08, updated: 2024-02-08, from: The LAist
+date: 2024-02-08, updated: 2024-02-09, from: The LAist
 
 If your car gets damaged by one of these asphalt craters, you could get money back for repairs.. But you’ll have to pay out of pocket first.
 
@@ -153,6 +416,7 @@ They have lost two of the last four contests &#8211; one at home and one on the 
 
 date: 2024-02-08, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 8 at 9:14 p.m.</em>
 The Beach bounced the Bruins from the NCAA semifinals just two years ago.
 But last season, UCLA exercised its demons to end a 17-year championship drought.
 
@@ -395,9 +659,9 @@ date: 2024-02-08, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-02-08, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Feb. 7 at 10:56 p.m.</em>
+<em>This post was updated Feb. 8 at 8:57 p.m.</em>
 The Bruins and Cardinal faced off inside Pauley Pavilion just over a month ago.
-UCLA scored 53 points in its first conference home loss in front of fans since January 2020 and then lost again three days later for its first winless homestand against the Bay Area schools in nearly two decades.
+UCLA scored 53 points in its first conference home loss in front of fans since January 2020.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/07/ucla-mens-basketball-scores-11-times-from-beyond-the-arc-to-defeat-stanford/">https://dailybruin.com/2024/02/07/ucla-mens-basketball-scores-11-times-from-beyond-the-arc-to-defeat-stanford/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/07/ucla-mens-basketball-scores-11-times-from-beyond-the-arc-to-defeat-stanford/">Save to Pocket</a>
@@ -433,6 +697,7 @@ Librarians moved books out of the children's section Wednesday to comply with a 
 
 date: 2024-02-08, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 8 at 10:34 p.m.</em>
 Dominic Choi was appointed as interim chief of the Los Angeles Police Department on Wednesday.
 Choi will assume the position March 1 and will be the first Asian American to lead the LAPD.
 
@@ -446,8 +711,8 @@ Choi will assume the position March 1 and will be the first Asian American to le
 
 date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 8 at 10:51 p.m.</em>
 Tables of food, booths showcasing campus resources and music filled Sunset Village Plaza on Wednesday as part of Noche de Cultura.
-Hosted by the Chicanx/Latinx Living Learning Community, the event aimed to celebrate and educate attendees about Latin American culture and history, according to an emailed statement from the LLC.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/07/chicanx-latinx-living-learning-community-celebrates-noche-de-cultura/">https://dailybruin.com/2024/02/07/chicanx-latinx-living-learning-community-celebrates-noche-de-cultura/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/07/chicanx-latinx-living-learning-community-celebrates-noche-de-cultura/">Save to Pocket</a>
@@ -543,8 +808,8 @@ George Johnson is no stranger to earthquakes. He grew up all over the San Fernan
 
 date: 2024-02-07, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Bruins will begin a new season at Easton Stadium this weekend following a difficult end to 2023. 
-&#8220;There were a lot of things that I felt during that time and a lot of things I had to get through in order to say, &#8216;I&#8217;m okay now,'&#8221; said sophomore utility Megan Grant.
+<em>This post was updated Feb. 8 at 9:07 p.m.&#160;</em>
+The Bruins will begin a new season at Easton Stadium this weekend following a difficult end to 2023.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/07/ucla-softball-shakes-off-last-seasons-losses-readies-up-for-friday-season-opener/">https://dailybruin.com/2024/02/07/ucla-softball-shakes-off-last-seasons-losses-readies-up-for-friday-season-opener/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/07/ucla-softball-shakes-off-last-seasons-losses-readies-up-for-friday-season-opener/">Save to Pocket</a>
@@ -1674,6 +1939,18 @@ Chair of Select Committee on Ports &#38; Goods Movement and GO-Biz Director Tour
 
 ---
 
+## Fact Or Fiction? Hollywood’s Madams In The Golden Age
+
+date: 2024-02-05, updated: 2024-02-09, from: The LAist
+
+Sex and the studios were once a dangerous pair.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/la-history/hollywood-madams-golden-age-sex-workers">https://laist.com/news/la-history/hollywood-madams-golden-age-sex-workers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/la-history/hollywood-madams-golden-age-sex-workers">Save to Pocket</a>
+</span>
+
+---
+
 ## LA City Council: Who's Running In The 2024 Primary Election And Why It Matters
 
 date: 2024-02-05, updated: 2024-02-07, from: The LAist
@@ -1682,18 +1959,6 @@ Your overview to the L.A. City Council races and issues in the March 5 primary e
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/politics/2024-election-california-primary-los-angeles-city-council">https://laist.com/news/politics/2024-election-california-primary-los-angeles-city-council</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/2024-election-california-primary-los-angeles-city-council">Save to Pocket</a>
-</span>
-
----
-
-## Fact Or Fiction? Hollywood’s Madams In The Golden Age
-
-date: 2024-02-05, updated: 2024-02-05, from: The LAist
-
-Sex and the studios were once a dangerous pair.
-
-<span class="feed-item-link">
-<a href="https://laist.com/news/la-history/hollywood-madams-golden-age-sex-workers">https://laist.com/news/la-history/hollywood-madams-golden-age-sex-workers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/la-history/hollywood-madams-golden-age-sex-workers">Save to Pocket</a>
 </span>
 
 ---

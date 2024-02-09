@@ -1,11 +1,35 @@
 ---
 title: columns 2024.06
-updated: 2024-02-08 19:14:15
+updated: 2024-02-09 08:22:27
 ---
 
 # columns 2024.06
 
-(date: 2024-02-08 19:14:15)
+(date: 2024-02-09 08:22:27)
+
+---
+
+## Not So Long Ago
+
+date: 2024-02-09, from: Dan Rather's Steady
+
+Fascist Germany may feel like a lifetime ago, but it was actually during my lifetime. And yet many people old enough to remember seem to have forgotten the horrible lessons of that time. Many more have never been taught what happened, why, or how. So given the current state of the world, including the situation in our own country, this is as good a time as any for review and reminders.
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/not-so-long-ago">https://steady.substack.com/p/not-so-long-ago</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/not-so-long-ago">Save to Pocket</a>
+</span>
+
+---
+
+## Biden's brain, Trump's brain
+
+date: 2024-02-09, from: Robert Reich's blog
+
+And last night's bombshell
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/bidens-brain-trumps-brain">https://robertreich.substack.com/p/bidens-brain-trumps-brain</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/bidens-brain-trumps-brain">Save to Pocket</a>
+</span>
 
 ---
 
