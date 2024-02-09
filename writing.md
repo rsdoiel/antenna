@@ -1,11 +1,35 @@
 ---
 title: writing 2024.06
-updated: 2024-02-08 09:20:18
+updated: 2024-02-08 19:14:15
 ---
 
 # writing 2024.06
 
-(date: 2024-02-08 09:20:18)
+(date: 2024-02-08 19:14:15)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-08, from: Neil Gaiman @ BlueSky)
+
+If there's one thing I've started enjoying over the last few years, it's that most people seem to have realised that Coraline had nothing at all to do with Tim Burton, and that the "director of the Nightmare Before Christmas" was Henry Selick.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkwiabjdig2b">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkwiabjdig2b</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkwiabjdig2b">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-08, from: Neil Gaiman @ BlueSky)
+
+I finally found a list of the weird effects that show up from a Mac doing teleconferencing (like the devil horns lightshow). Use them during your next Zoom to startle your friends and coworkers:
+support.apple.com/en-asia/105117
+https://support.apple.com/en-asia/105117
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkwg4nmy5z2i">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkwg4nmy5z2i</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kkwg4nmy5z2i">Save to Pocket</a>
+</span>
 
 ---
 

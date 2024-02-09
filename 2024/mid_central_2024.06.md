@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.06
-updated: 2024-02-08 09:20:18
+updated: 2024-02-08 19:14:14
 ---
 
 # mid central 2024.06
 
-(date: 2024-02-08 09:20:18)
+(date: 2024-02-08 19:14:14)
+
+---
+
+## ‘Dogs fall short to Colorado for fifth time
+
+date: 2024-02-08, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno State was taken down by Colorado State in Moby Arena on Wednesday, Feb. 7th. This makes it their fifth straight loss against the Rams since 2021 after a final score of 69-56.  Bulldog forward Mia Jacobs was the leading scorer with 13 points followed by forward Kylee Fox with 12. As a team, they...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/dogs-fall-short-to-colorado-for-fifth-time/">https://fscollegian.com/2024/02/dogs-fall-short-to-colorado-for-fifth-time/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/dogs-fall-short-to-colorado-for-fifth-time/">Save to Pocket</a>
+</span>
 
 ---
 

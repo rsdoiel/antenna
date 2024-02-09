@@ -1,11 +1,95 @@
 ---
 title: motorcycles 2024.06
-updated: 2024-02-08 09:20:18
+updated: 2024-02-08 19:14:15
 ---
 
 # motorcycles 2024.06
 
-(date: 2024-02-08 09:20:18)
+(date: 2024-02-08 19:14:15)
+
+---
+
+## Is 2024 The Year Of Dirt Domination For Triumph, Ducati, And Honda?
+
+date: 2024-02-08, from: Ride Apart, Electric Motorcycle News
+
+Three manufacturers are all trying something new in different dirt championships. How will they fare?
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708016/triumph-ducati-honda-dirt-2024/">https://www.rideapart.com/news/708016/triumph-ducati-honda-dirt-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708016/triumph-ducati-honda-dirt-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Marc Márquez Sums Up His MotoGP Sepang Test
+
+date: 2024-02-08, from: Cycle World News
+
+Marc Márquez finished up his testing at Sepang sixth fastest. We get his thoughts on the test and his season.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-racing/marc-marquez-motogp-sepang-test-interview/">https://www.cycleworld.com/motorcycle-racing/marc-marquez-motogp-sepang-test-interview/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-racing/marc-marquez-motogp-sepang-test-interview/">Save to Pocket</a>
+</span>
+
+---
+
+## Speed Reads: January Sales Numbers And Ducati Commemorative Coins
+
+date: 2024-02-08, from: Ride Apart, Electric Motorcycle News
+
+Harley Q4 sales down; Royal Enfield January 2024 sales up; European 2023 new bike sales up; Brivio joins Trackhouse; Ducati art coins.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708002/harley-enfield-europe-2023-sales/">https://www.rideapart.com/news/708002/harley-enfield-europe-2023-sales/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708002/harley-enfield-europe-2023-sales/">Save to Pocket</a>
+</span>
+
+---
+
+## BMW Motorrad USA and Backcountry Discover Routes Unveil New Northern California BDR Route
+
+date: 2024-02-08, from: Cycle World News
+
+BMW Motorrad USA, in partnership with non-profit organization Backcountry Discovery Routes proudly announces the Northern California expedition film premiere of the third BDR route collaboration between the two partners.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/bmw-motorrad-usa-backcountry-discover-routes-unveil-new-northern-california-bdr-route/">https://www.cycleworld.com/the-wire/bmw-motorrad-usa-backcountry-discover-routes-unveil-new-northern-california-bdr-route/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/bmw-motorrad-usa-backcountry-discover-routes-unveil-new-northern-california-bdr-route/">Save to Pocket</a>
+</span>
+
+---
+
+## Suzuki Names MotoAmerica Twin Cups Race Teams
+
+date: 2024-02-08, from: Cycle World News
+
+Suzuki Motor USA LLC (Suzuki) named two MotoAmerica Twins Cup race teams today.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/suzuki-names-motoamerica-twin-cups-race-teams/">https://www.cycleworld.com/the-wire/suzuki-names-motoamerica-twin-cups-race-teams/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/suzuki-names-motoamerica-twin-cups-race-teams/">Save to Pocket</a>
+</span>
+
+---
+
+## CFMoto’s Electric Sportbike
+
+date: 2024-02-08, from: Cycle World News
+
+In an effort to reduce production costs, CFMoto will utilize the rolling chassis from one of its ICE-powered models and plug in the electric battery pack and motor.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/cfmoto-electric-sportbike/">https://www.cycleworld.com/motorcycle-news/cfmoto-electric-sportbike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/cfmoto-electric-sportbike/">Save to Pocket</a>
+</span>
+
+---
+
+## How Much Power Does the 2023 Suzuki GSX-8S Make?
+
+date: 2024-02-08, from: Cycle World News
+
+The 2023 Suzuki GSX-8S gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/suzuki-gsx-8s-dyno-test-2023/">https://www.cycleworld.com/bikes/suzuki-gsx-8s-dyno-test-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/suzuki-gsx-8s-dyno-test-2023/">Save to Pocket</a>
+</span>
 
 ---
 

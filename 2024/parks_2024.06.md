@@ -1,11 +1,170 @@
 ---
 title: parks 2024.06
-updated: 2024-02-08 09:20:18
+updated: 2024-02-08 19:14:15
 ---
 
 # parks 2024.06
 
-(date: 2024-02-08 09:20:18)
+(date: 2024-02-08 19:14:15)
+
+---
+
+## Dolores River restoration BIL funding
+
+date: 2024-02-08, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Dolores River restoration BIL funding</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="line-height:107%">For nearly 15 years, agencies and partners of the BLM have been engaged in restoring the Dolores River in Southwest Colorado. The Dolores River offers agricultural development, tourism, wildlife habitat, recreation, and cultural resources – Ute Peoples, ancestral Puebloans, and Fremont Peoples lived along the Dolores River for thousands of years. The value of the Dolores River is immeasurable, and a resource to be protected for many generations to come. The BLM plans to contribute $30,000 in 2024 to the continued restoration of the Dolores River, along with an additional $20,000 in 2026 and 2027 through Bipartisan Infrastructure Law funding. </span></span></span></span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="7202e28b-84ff-434b-8faf-7be96e784cdb" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/cultural.png?itok=npErXxVI" width="484" height="417" alt="A drawing on a canyon wall. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>The Dolores River features many areas along the water with valuable cultural resources for visitors to view.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="line-height:107%">The BLM and our partners recently finished invasive species treatments in 2023. RiversEdge West, the Conservation Legacy’s Southwest Conservation Corps, and BLM staff worked treat over 4,000 acres of tamarisk, Russian knapweed, and other secondary weed infestations along the Dolores River. The restoration of the Dolores River has not only improved the river but has brought together communities in southwest Colorado – youth corps members, community volunteers, and conservationists have come together over the last several years to improve this area. </span></span></span></span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="4800974c-b49e-43d5-b58f-4516ca157d2b" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/blm_co_tfro_doloresriver_web.jpg?itok=uSLe6o0k" width="640" height="427" alt="dolores river with large cliffs in background" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>The Dolores River in the winter.</figcaption>
+</figure>
+
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:Calibri,sans-serif"><span style="font-size:14.0pt"><span style="line-height:107%">The future of restoration near the Dolores River includes further removal of invasive weeds or plants, improvements to fish habitat, and bird surveys to study how invasive plant treatment may impact avian life. High quality, large-scale restoration projects like the Dolores River Restoration would not be possible without collaboration from our partners and volunteers in the community. BIL funding will help us continue to connect with our communities and improve public lands for all. </span></span></span></span></span></p>
+
+<p style="margin-bottom:11px"> </p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/colorado" hreflang="en">Colorado</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/cultural-heritage-and-paleontology" hreflang="en">Cultural Heritage and Paleontology</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-02-08T12:00:00Z">Thu, 02/08/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46741/edit" hreflang="en">The Dolores River features many areas along the water with valuable cultural resources. </a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/restoration" hreflang="en">Restoration</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/colorado" hreflang="en">Colorado</a></div>
+              </div>
+      </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-02-08/dolores-river-restoration-bil-funding">https://www.blm.gov/blog/2024-02-08/dolores-river-restoration-bil-funding</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-08/dolores-river-restoration-bil-funding">Save to Pocket</a>
+</span>
 
 ---
 

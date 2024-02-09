@@ -1,11 +1,131 @@
 ---
 title: games 2024.06
-updated: 2024-02-08 09:20:18
+updated: 2024-02-08 19:14:15
 ---
 
 # games 2024.06
 
-(date: 2024-02-08 09:20:18)
+(date: 2024-02-08 19:14:15)
+
+---
+
+## Abbott Elementary, and all sitcoms, should ditch the mockumentary
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24066595/abbott-elementary-season-3-premiere-review-mockumentaries-bad">https://www.polygon.com/24066595/abbott-elementary-season-3-premiere-review-mockumentaries-bad</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24066595/abbott-elementary-season-3-premiere-review-mockumentaries-bad">Save to Pocket</a>
+</span>
+
+---
+
+## All Zelda: Tears of the Kingdom amiibo rewards and unlocks list
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list">https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/zelda-tears-of-the-kingdom-guide/23594427/amiibo-rewards-unlocks-list">Save to Pocket</a>
+</span>
+
+---
+
+## Where to buy Legend of Zelda amiibo
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link">https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/23622586/zelda-amiibo-restock-tears-kingdom-link">Save to Pocket</a>
+</span>
+
+---
+
+## How to make money in GTA Online
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gta-online-guides/24065112/how-to-make-money">https://www.polygon.com/gta-online-guides/24065112/how-to-make-money</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gta-online-guides/24065112/how-to-make-money">Save to Pocket</a>
+</span>
+
+---
+
+## Dragonlance author confirms Joe Manganiello’s secret TV project is dead
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24066458/dragonlance-tv-show-dead-joe-manganiello-margaret-weis">https://www.polygon.com/24066458/dragonlance-tv-show-dead-joe-manganiello-margaret-weis</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24066458/dragonlance-tv-show-dead-joe-manganiello-margaret-weis">Save to Pocket</a>
+</span>
+
+---
+
+## Inside Out 2 teaser shows Riley’s emotions on game day
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24066449/inside-out-2-super-bowl-teaser-trailer-release-date">https://www.polygon.com/24066449/inside-out-2-super-bowl-teaser-trailer-release-date</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24066449/inside-out-2-super-bowl-teaser-trailer-release-date">Save to Pocket</a>
+</span>
+
+---
+
+## Turn your sad-mobile into a rad-mobile with Polygon’s favorite car accessories
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24062667/car-travel-gadgets-accessories">https://www.polygon.com/deals/24062667/car-travel-gadgets-accessories</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24062667/car-travel-gadgets-accessories">Save to Pocket</a>
+</span>
+
+---
+
+## Overwatch 2 gets some of its biggest changes yet in new season
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24066337/overwatch-2-season-9-hero-health-changes">https://www.polygon.com/24066337/overwatch-2-season-9-hero-health-changes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24066337/overwatch-2-season-9-hero-health-changes">Save to Pocket</a>
+</span>
+
+---
+
+## Honkai: Star Rail’s 2.0 patch is a massive step forward for players who can access it
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/24065506/honkai-star-rail-2-0-patch-impressions">https://www.polygon.com/gaming/24065506/honkai-star-rail-2-0-patch-impressions</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/24065506/honkai-star-rail-2-0-patch-impressions">Save to Pocket</a>
+</span>
+
+---
+
+## The Mega Man games worth playing are in this $20 bundle
+
+date: 2024-02-08, updated: 2024-02-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24066045/mega-man-legacy-collection-franchise-pack-humble-bundle-deal-sale">https://www.polygon.com/deals/24066045/mega-man-legacy-collection-franchise-pack-humble-bundle-deal-sale</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24066045/mega-man-legacy-collection-franchise-pack-humble-bundle-deal-sale">Save to Pocket</a>
+</span>
 
 ---
 

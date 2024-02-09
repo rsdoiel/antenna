@@ -1,11 +1,217 @@
 ---
 title: pacific 2024.06
-updated: 2024-02-08 09:20:17
+updated: 2024-02-08 19:14:14
 ---
 
 # pacific 2024.06
 
-(date: 2024-02-08 09:20:17)
+(date: 2024-02-08 19:14:14)
+
+---
+
+##  Can’t afford a health plan? No worries!
+
+date: 2024-02-09, from: Pacific Island Times
+
+Foundation assists with access to health care for Guam’s uninsured, underinsured By Frank Whitman As chair of the Guam Legislature’s...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/can-t-afford-a-health-plan-no-worries">https://www.pacificislandtimes.com/post/can-t-afford-a-health-plan-no-worries</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/can-t-afford-a-health-plan-no-worries">Save to Pocket</a>
+</span>
+
+---
+
+## Micronesian leaders warn ‘competitive political actors’ exploiting delays in US funding
+
+date: 2024-02-09, updated: 2024-02-09, from: Marianas Variety
+
+KOROR /POHNPEI /MAJURO, (BenarNews/Pacnews) — Palau, the Federated States of Micronesia and the Marshall Islands, which occupy a militarily strategic expanse of the western Pacific, have warned that delays to U.S financial assistance have created opportunities for “competitive political actors” in the region.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/regional_world/micronesian-leaders-warn-competitive-political-actors-exploiting-delays-in-us-funding/article_578b20bc-c6ed-11ee-83c0-07fddef7744e.html">https://www.mvariety.com/news/regional_world/micronesian-leaders-warn-competitive-political-actors-exploiting-delays-in-us-funding/article_578b20bc-c6ed-11ee-83c0-07fddef7744e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/regional_world/micronesian-leaders-warn-competitive-political-actors-exploiting-delays-in-us-funding/article_578b20bc-c6ed-11ee-83c0-07fddef7744e.html">Save to Pocket</a>
+</span>
+
+---
+
+## AI: still learning its own game
+
+date: 2024-02-09, from: Pacific Island Times
+
+We see and hear about it all the time. Artificial intelligence is the world’s latest, greatest business technology standard because it...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/ai-still-learning-its-own-game">https://www.pacificislandtimes.com/post/ai-still-learning-its-own-game</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/ai-still-learning-its-own-game">Save to Pocket</a>
+</span>
+
+---
+
+## Close Collaboration key to achieving POCCA project deliverables
+
+date: 2024-02-09, from: University of the South Pacific (Fiji)
+
+<p>The close collaboration and synergy between the Pacific Ocean and Climate Crisis Assessment project partners...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/close-collaboration-key-to-achieving-pocca-project-deliverables/">Close Collaboration key to achieving POCCA project deliverables</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/close-collaboration-key-to-achieving-pocca-project-deliverables/">https://www.usp.ac.fj/news/close-collaboration-key-to-achieving-pocca-project-deliverables/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/close-collaboration-key-to-achieving-pocca-project-deliverables/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Hilo, Kānaka ʻŌiwi advocate earns spot on esteemed national board
+
+date: 2024-02-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> President Joe Biden appointed <abbr>UH</abbr> Hilo Professor Emeritus David Kekaulike Sing to the National Council on the Humanities.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/08/david-sing-neh-national-board/"><abbr>UH</abbr> Hilo, Kānaka ʻŌiwi advocate earns spot on esteemed national board</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/08/david-sing-neh-national-board/">https://www.hawaii.edu/news/2024/02/08/david-sing-neh-national-board/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/08/david-sing-neh-national-board/">Save to Pocket</a>
+</span>
+
+---
+
+## Generosity strikes a chord: UH Mānoa celebrates new contrabassoon with concert
+
+date: 2024-02-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> To celebrate this newest addition to the <abbr>UH</abbr> Mānoa instrument collection, students and guest artists presented &#8220;A Contra Christmas&#8221; concert in December 2023.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/08/uh-manoa-celebrates-new-contrabassoon/">Generosity strikes a chord: <abbr>UH</abbr> Mānoa celebrates new contrabassoon with concert</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/08/uh-manoa-celebrates-new-contrabassoon/">https://www.hawaii.edu/news/2024/02/08/uh-manoa-celebrates-new-contrabassoon/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/08/uh-manoa-celebrates-new-contrabassoon/">Save to Pocket</a>
+</span>
+
+---
+
+## UH celebrates Black History Month
+
+date: 2024-02-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">4</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>UH</abbr> is commemorating Black History Month with tributes to historical figures like Martin Luther King, Jr. along with panel discussions, exhibits and more.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/08/black-history-month-at-uh/"><abbr>UH</abbr> celebrates Black History Month</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/08/black-history-month-at-uh/">https://www.hawaii.edu/news/2024/02/08/black-history-month-at-uh/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/08/black-history-month-at-uh/">Save to Pocket</a>
+</span>
+
+---
+
+## Improving neighborhood resilience to natural disasters
+
+date: 2024-02-09, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> A $125,000 grant supports developing partnerships for disaster preparedness in the Diamond Head area.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/08/improving-neighborhood-resilience-to-natural-disasters/">Improving neighborhood resilience to natural disasters</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/08/improving-neighborhood-resilience-to-natural-disasters/">https://www.hawaii.edu/news/2024/02/08/improving-neighborhood-resilience-to-natural-disasters/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/08/improving-neighborhood-resilience-to-natural-disasters/">Save to Pocket</a>
+</span>
+
+---
+
+## New plumeria collection aims to bolster local lei industry
+
+date: 2024-02-08, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The new plumeria collection features more than 30 varieties of flowers and foliage considered good for lei.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/08/new-plumeria-collection/">New plumeria collection aims to bolster local lei industry</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/08/new-plumeria-collection/">https://www.hawaii.edu/news/2024/02/08/new-plumeria-collection/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/08/new-plumeria-collection/">Save to Pocket</a>
+</span>
+
+---
+
+## †Alejandra "Anda" Snodgrass Cruz
+
+date: 2024-02-08, updated: 2024-02-08, from: Marianas Variety
+
+
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/alejandra-anda-snodgrass-cruz/article_9b6cde1c-c6d2-11ee-83ad-771f3aac3565.html">https://www.mvariety.com/alejandra-anda-snodgrass-cruz/article_9b6cde1c-c6d2-11ee-83ad-771f3aac3565.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/alejandra-anda-snodgrass-cruz/article_9b6cde1c-c6d2-11ee-83ad-771f3aac3565.html">Save to Pocket</a>
+</span>
+
+---
+
+## UH aims to expand food, ag research with Korean institute
+
+date: 2024-02-08, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> A memorandum of understanding between <abbr>UH</abbr> M&#257;noa and the Korea Food Research Institute was signed in January.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/08/mou-signing-korean-institute/"><abbr>UH</abbr> aims to expand food, ag research with Korean institute</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/08/mou-signing-korean-institute/">https://www.hawaii.edu/news/2024/02/08/mou-signing-korean-institute/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/08/mou-signing-korean-institute/">Save to Pocket</a>
+</span>
+
+---
+
+## Students feel safe, aware of resources, according to survey
+
+date: 2024-02-08, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Reports of sexual harassment and gender based violence are down slightly in 2023 compared to the 2019 and 2017 surveys.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/08/students-feel-safe-aware-of-resources/">Students feel safe, aware of resources, according to survey</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/08/students-feel-safe-aware-of-resources/">https://www.hawaii.edu/news/2024/02/08/students-feel-safe-aware-of-resources/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/08/students-feel-safe-aware-of-resources/">Save to Pocket</a>
+</span>
+
+---
+
+## The International Flag Gallery at UH Mānoa celebrates student diversity
+
+date: 2024-02-08, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> &#8216;Above all nations is humanity&#8217; is represented through the installation of flags at the <abbr>UH</abbr> M&#257;noa Campus Center.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/08/manoa-international-flag-gallery/">The International Flag Gallery at <abbr>UH</abbr> Mānoa celebrates student diversity</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/08/manoa-international-flag-gallery/">https://www.hawaii.edu/news/2024/02/08/manoa-international-flag-gallery/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/08/manoa-international-flag-gallery/">Save to Pocket</a>
+</span>
+
+---
+
+## More babies adopted out
+
+date: 2024-02-08, from: Marshal Islands Journal
+
+<p>Journal 2/6/1987 P1 Bikini return imminent?The Bikinians take their case for a US-funded cleanup of their atoll the US Congress in the near future, and will present American lawmakers with a detailed plan for the first step in the cleanup. Holmes and Narver has prepared a design plan for the construction of a base camp [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/more-babies-adopted-out/">More babies adopted out</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/more-babies-adopted-out/">https://marshallislandsjournal.com/more-babies-adopted-out/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/more-babies-adopted-out/">Save to Pocket</a>
+</span>
+
+---
+
+## Tuition waivers for UH Mānoa student teachers, interns for spring 2024
+
+date: 2024-02-08, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> More than 200 students and interns were eligible for the tuition waivers.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/08/tuition-waivers-student-teachers-spring-2024/">Tuition waivers for <abbr>UH</abbr> Mānoa student teachers, interns for spring 2024</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/08/tuition-waivers-student-teachers-spring-2024/">https://www.hawaii.edu/news/2024/02/08/tuition-waivers-student-teachers-spring-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/08/tuition-waivers-student-teachers-spring-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Health hazards loom 6 months after Maui wildfires, study reveals
+
+date: 2024-02-08, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">4</span> <span class="rt-label rt-postfix">minutes</span></span> The grassroots, community based initiative aims to recruit at least 1,000 individuals affected by the wildfires to participate in the study.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/08/health-hazards-loom-after-maui-wildfires/">Health hazards loom 6 months after Maui wildfires, study reveals</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/08/health-hazards-loom-after-maui-wildfires/">https://www.hawaii.edu/news/2024/02/08/health-hazards-loom-after-maui-wildfires/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/08/health-hazards-loom-after-maui-wildfires/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -177,6 +383,18 @@ date: 2024-02-08, from: Marshal Islands Journal
 
 <span class="feed-item-link">
 <a href="https://marshallislandsjournal.com/nauru-rmi-talk-air-deal/">https://marshallislandsjournal.com/nauru-rmi-talk-air-deal/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/nauru-rmi-talk-air-deal/">Save to Pocket</a>
+</span>
+
+---
+
+## Fisheries: SG Puna welcomes Canada support for Pacific to WTO Fisheries Subsidies Talks
+
+date: 2024-02-08, from: Pacific Island Forum
+
+Forumsec, Suva, Feb 7th, 2024 – Forum Secretary General Henry Puna has welcomed support from Canada strengthening Pacific impact and presence at upcoming global trade talks<span class="excerpt-hellip"> […]</span>
+
+<span class="feed-item-link">
+<a href="https://www.forumsec.org/2024/02/08/fisheries-sg-puna-welcomes-canada-support-for-pacific-to-wto-fisheries-subsidies-talks/">https://www.forumsec.org/2024/02/08/fisheries-sg-puna-welcomes-canada-support-for-pacific-to-wto-fisheries-subsidies-talks/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.forumsec.org/2024/02/08/fisheries-sg-puna-welcomes-canada-support-for-pacific-to-wto-fisheries-subsidies-talks/">Save to Pocket</a>
 </span>
 
 ---
@@ -955,7 +1173,7 @@ The post <a href="https://www.hawaii.edu/news/2024/02/05/water-polo-upsets-top-r
 
 date: 2024-02-05, from: INSIGHTS ON PBS HAWAIʻI
 
-<p>Join the conversation on our Facebook , Thursday, February 8 at 7:30 pm on INSIGHTS ON PBS HAWAIʻI. Scheduled Guests: Jordan Lowe, Hawaiʻi Department of Law Enforcement Director Maj. Mike Lambert, Honolulu Police Department Rep. David Tarnas (D), Judiciary Committee Chair Tiana Wilbur, Waiʻanae Coast Neighborhood  Board Interim Chair &#160; &#160; &#160;</p>
+<p>Join the conversation on our Facebook , Thursday, February 8 at 7:30 pm on INSIGHTS ON PBS HAWAIʻI. Scheduled Guests: Jordan Lowe, Hawaiʻi Department of Law Enforcement Director Maj. Mike Lambert, Honolulu Police Department Rep. David Tarnas (D), Judiciary Committee Chair Tiana Wilbur, Waiʻanae Coast Neighborhood  Board Interim Chair &#160; &#160;</p>
 <p>The post <a href="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-is-the-illegal-fireworks-task-force-doing-enough/">INSIGHTS ON PBS HAWAIʻI &lt;br/&gt;Is the Illegal Fireworks Task Force Doing Enough?</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
 
 

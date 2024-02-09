@@ -1,11 +1,253 @@
 ---
 title: socal north 2024.06
-updated: 2024-02-08 09:20:17
+updated: 2024-02-08 19:14:14
 ---
 
 # socal north 2024.06
 
-(date: 2024-02-08 09:20:17)
+(date: 2024-02-08 19:14:14)
+
+---
+
+## Student-created short film centers on humanizing the Syrian refugee crisis
+
+date: 2024-02-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Alex Aljouni is hitting close to home in her short film &#8220;Bukra.&#8221;
+Aljouni, a Syrian-born filmmaker and fourth-year film student, chose to center her student thesis short film around the war in Syria and those displaced by the conflict.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/08/student-created-short-film-centers-on-humanizing-the-syrian-refugee-crisis/">https://dailybruin.com/2024/02/08/student-created-short-film-centers-on-humanizing-the-syrian-refugee-crisis/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/student-created-short-film-centers-on-humanizing-the-syrian-refugee-crisis/">Save to Pocket</a>
+</span>
+
+---
+
+## Jerome Powell: The fate of our economy is in his hands
+
+date: 2024-02-09, from: The Sundail (CSUN Student Newspaper)
+
+We have narrowly avoided a severe inflation crisis, but the struggle to prevent dire economic conditions for Americans is ongoing. All eyes are on Jerome Powell, the Federal Reserve chairman,...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178292/opinions/jerome-powell-the-fate-of-our-economy-is-in-his-hands/">https://sundial.csun.edu/178292/opinions/jerome-powell-the-fate-of-our-economy-is-in-his-hands/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178292/opinions/jerome-powell-the-fate-of-our-economy-is-in-his-hands/">Save to Pocket</a>
+</span>
+
+---
+
+## Prominent LA Eviction Lawyer Loses Defamation Trial Over Parody Twitter Account
+
+date: 2024-02-09, updated: 2024-02-09, from: The LAist
+
+One of L.A. County’s busiest tenant law firms prevailed this week when a jury ruled in their favor.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/los-angeles-dennis-block-daniel-bramzon-basta-eviction-attorney-tenant-twitter-libel-defamation-parody-verdict">https://laist.com/news/housing-homelessness/los-angeles-dennis-block-daniel-bramzon-basta-eviction-attorney-tenant-twitter-libel-defamation-parody-verdict</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/los-angeles-dennis-block-daniel-bramzon-basta-eviction-attorney-tenant-twitter-libel-defamation-parody-verdict">Save to Pocket</a>
+</span>
+
+---
+
+## Following senior night, ice hockey heads to playoffs
+
+date: 2024-02-09, from: The Sundail (CSUN Student Newspaper)
+
+Saturday night was an emotional one for CSUN ice hockey seniors. Prior to hosting UC Santa Barbara, the Matadors celebrated their senior night, which consisted of a celebration of the...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178287/sports/following-senior-night-ice-hockey-heads-to-playoffs/">https://sundial.csun.edu/178287/sports/following-senior-night-ice-hockey-heads-to-playoffs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178287/sports/following-senior-night-ice-hockey-heads-to-playoffs/">Save to Pocket</a>
+</span>
+
+---
+
+## Q&A: Ryan Tonthat takes a bite from LA food scene with @foodandpooch Instagram page
+
+date: 2024-02-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Food is better when you share it with others – in Ryan Tonthat’s case, he is sharing it with the world.
+In 2019, the alumnus, who is also a high school math teacher, created the Instagram account @foodandpooch.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/08/qa-ryan-tonthat-takes-a-bite-from-la-food-scene-with-foodandpooch-instagram-page/">https://dailybruin.com/2024/02/08/qa-ryan-tonthat-takes-a-bite-from-la-food-scene-with-foodandpooch-instagram-page/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/qa-ryan-tonthat-takes-a-bite-from-la-food-scene-with-foodandpooch-instagram-page/">Save to Pocket</a>
+</span>
+
+---
+
+## USC community holds vigil for Palestinians killed, urges University to divest from Israel
+
+date: 2024-02-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The event comes as Israel's war in Gaza enters its fourth month.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/08/vigil-memory-killed-palestinians-urges-usc-divest-israel/">USC community holds vigil for Palestinians killed, urges University to divest from Israel</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/08/vigil-memory-killed-palestinians-urges-usc-divest-israel/">https://dailytrojan.com/2024/02/08/vigil-memory-killed-palestinians-urges-usc-divest-israel/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/08/vigil-memory-killed-palestinians-urges-usc-divest-israel/">Save to Pocket</a>
+</span>
+
+---
+
+## Weekend in Preview: Feb. 8
+
+date: 2024-02-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Men&#8217;s golfConnor Dullinger, Daily Bruin contributor
+The Bruins will be heading across the Pacific Ocean.
+UCLA men&#8217;s golf is traveling to Waimea, Hawaii for a three-day tournament, in which it will compete  at the 33rd annual Amer Ari Invitational at the Mauna Lani Golf Course.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/08/weekend-in-preview-feb-8-2/">https://dailybruin.com/2024/02/08/weekend-in-preview-feb-8-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/weekend-in-preview-feb-8-2/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA softball gears up for season with reshaped coaching staff and roster
+
+date: 2024-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Kelly Inouye-Perez spent five seasons as a backstop before launching her coaching career in 1994.
+As part of her reshaping of the Bruins&#8217; coaching staff, the five-time Women&#8217;s College World Series champion is now returning to the bullpen to individually coach the pitchers and catchers.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/08/ucla-softball-gears-up-for-season-with-reshaped-coaching-staff-and-roster/">https://dailybruin.com/2024/02/08/ucla-softball-gears-up-for-season-with-reshaped-coaching-staff-and-roster/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/ucla-softball-gears-up-for-season-with-reshaped-coaching-staff-and-roster/">Save to Pocket</a>
+</span>
+
+---
+
+## Caltrans Wants To Ban Storing Flammable Materials Under Overpasses After The 10 Freeway Fire
+
+date: 2024-02-08, updated: 2024-02-09, from: The LAist
+
+The recommendations come after Caltrans undertook a review of the sites following the 10 Freeway fire.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/transportation/caltrans-flammable-materials-under-freeways-recommendations">https://laist.com/news/transportation/caltrans-flammable-materials-under-freeways-recommendations</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/transportation/caltrans-flammable-materials-under-freeways-recommendations">Save to Pocket</a>
+</span>
+
+---
+
+## The Storm Left Behind Lots Of Potholes (Shocker). Here’s How You Can File A Claim For Car Damage
+
+date: 2024-02-08, updated: 2024-02-08, from: The LAist
+
+If your car gets damaged by one of these asphalt craters, you could get money back for repairs.. But you’ll have to pay out of pocket first.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/transportation/los-angeles-pothole-storm-repair-fix-car-damage-claim">https://laist.com/news/transportation/los-angeles-pothole-storm-repair-fix-car-damage-claim</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/transportation/los-angeles-pothole-storm-repair-fix-car-damage-claim">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s basketball to contend with short bench against Arizona, Arizona State
+
+date: 2024-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins have experienced ebbs and flows the past few weeks.
+They have lost two of the last four contests &#8211; one at home and one on the road &#8211; following the recent absence of sophomore center Lauren Betts.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/08/ucla-womens-basketball-to-contend-with-short-bench-against-arizona-arizona-state/">https://dailybruin.com/2024/02/08/ucla-womens-basketball-to-contend-with-short-bench-against-arizona-arizona-state/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/ucla-womens-basketball-to-contend-with-short-bench-against-arizona-arizona-state/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s volleyball sets up for Long Beach State rivalry doubleheader
+
+date: 2024-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Beach bounced the Bruins from the NCAA semifinals just two years ago.
+But last season, UCLA exercised its demons to end a 17-year championship drought.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/08/ucla-mens-volleyball-sets-up-for-long-beach-state-rivalry-doubleheader/">https://dailybruin.com/2024/02/08/ucla-mens-volleyball-sets-up-for-long-beach-state-rivalry-doubleheader/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/ucla-mens-volleyball-sets-up-for-long-beach-state-rivalry-doubleheader/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s tennis maintains all-time winning streak against Loyola Marymount
+
+date: 2024-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+The rain wasn&#8217;t enough to hinder the Bruins&#8217; momentum Wednesday.
+“It always makes me nervous when we have that type of situation happen,” coach Billy Martin said.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/08/ucla-mens-tennis-maintains-all-time-winning-streak-against-loyola-marymount/">https://dailybruin.com/2024/02/08/ucla-mens-tennis-maintains-all-time-winning-streak-against-loyola-marymount/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/08/ucla-mens-tennis-maintains-all-time-winning-streak-against-loyola-marymount/">Save to Pocket</a>
+</span>
+
+---
+
+## Laurel Canyon Continues To Be A Sore Spot When It Rains
+
+date: 2024-02-08, updated: 2024-02-08, from: The LAist
+
+Historical photos show a pattern of damage during Southern California’s rain storms.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/laurel-canyon-rainfall-impact">https://laist.com/news/climate-environment/laurel-canyon-rainfall-impact</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/laurel-canyon-rainfall-impact">Save to Pocket</a>
+</span>
+
+---
+
+## USC announces $59 million Institute for Public Policy and Government Service
+
+date: 2024-02-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Dana Goldman, dean of the Price School of Public Policy, will step down July 1 to become the director of the institute.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/08/usc-announces-institute-for-public-policy-and-government-service/">USC announces $59 million Institute for Public Policy and Government Service</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/08/usc-announces-institute-for-public-policy-and-government-service/">https://dailytrojan.com/2024/02/08/usc-announces-institute-for-public-policy-and-government-service/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/08/usc-announces-institute-for-public-policy-and-government-service/">Save to Pocket</a>
+</span>
+
+---
+
+## January 2024 – Volume 64 Issue 6
+
+date: 2024-02-08, from: The Sundail (CSUN Student Newspaper)
+
+Letter from the Editor: Issue 6 Volume 64 Yesterday&#8217;s News: Clippings capsule Power in Numbers: Calculating the quake The Essentials: How to be ready to rumble Technology: How Northridge rebuilt...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178269/print-editions/january-2024-volume-64-issue-6/">https://sundial.csun.edu/178269/print-editions/january-2024-volume-64-issue-6/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178269/print-editions/january-2024-volume-64-issue-6/">Save to Pocket</a>
+</span>
+
+---
+
+## Yesterday’s News: Clippings capsule
+
+date: 2024-02-08, from: The Sundail (CSUN Student Newspaper)
+
+These newspaper clippings were published by The Daily Sundial following the 1994 Northridge earthquake. A reported 56 people, including two California State University, Northridge students, lost their lives that night....
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178170/print-editions/print-stories/clippings-capsule/">https://sundial.csun.edu/178170/print-editions/print-stories/clippings-capsule/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178170/print-editions/print-stories/clippings-capsule/">Save to Pocket</a>
+</span>
+
+---
+
+## Find Your Furever Friend at the Castaic Animal Care Center!
+
+date: 2024-02-08, from: City of Santa Clarita
+
+<p>Find Your Furever Friend at the Castaic Animal Care Center! By Councilmember Laurene Weste “Dogs don’t make judgments about physical appearance or abilities, and they don’t care how big your house is or what you can do for a living. They care about the quality of your character and your capacity to love.” – Elizabeth [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/02/08/find-your-furever-friend-at-the-castaic-animal-care-center/">Find Your Furever Friend at the Castaic Animal Care Center!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2024/02/08/find-your-furever-friend-at-the-castaic-animal-care-center/">https://santaclarita.gov/blog/2024/02/08/find-your-furever-friend-at-the-castaic-animal-care-center/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/02/08/find-your-furever-friend-at-the-castaic-animal-care-center/">Save to Pocket</a>
+</span>
+
+---
+
+## Matador motorsports host Spring Fest
+
+date: 2024-02-08, from: The Sundail (CSUN Student Newspaper)
+
+CSUN FSAE hosted a Spring Fest in the Plaza Del Sol on January 25, to showcase their senior projects.
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178267/multimedia/watch/matador-motorsports-host-spring-fest/">https://sundial.csun.edu/178267/multimedia/watch/matador-motorsports-host-spring-fest/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178267/multimedia/watch/matador-motorsports-host-spring-fest/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -277,7 +519,7 @@ Our coastline is susceptible to erosion especially during heavy rains.
 
 date: 2024-02-07, from: The Sundail (CSUN Student Newspaper)
 
-Last week, thousands of California State University students were left confused and disappointed after the supposed five-day strike ended after its first day. The system-wide strike took place last Monday,...
+Two weeks ago, thousands of California State University students were left confused and disappointed after the supposed five-day strike ended after its first day. The system-wide strike took place Monday,...
 
 <span class="feed-item-link">
 <a href="https://sundial.csun.edu/178232/news/what-did-the-students-think-of-the-csu-strike-and-its-quick-end/">https://sundial.csun.edu/178232/news/what-did-the-students-think-of-the-csu-strike-and-its-quick-end/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178232/news/what-did-the-students-think-of-the-csu-strike-and-its-quick-end/">Save to Pocket</a>
