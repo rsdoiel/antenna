@@ -1,11 +1,326 @@
 ---
 title: socal north 2024.07
-updated: 2024-02-12 08:30:31
+updated: 2024-02-13 08:48:42
 ---
 
 # socal north 2024.07
 
-(date: 2024-02-12 08:30:31)
+(date: 2024-02-13 08:48:42)
+
+---
+
+## Real Estate Mogul, Others Pour $1M To Defeat Progressive LA City Councilmember Nithya Raman
+
+date: 2024-02-13, updated: 2024-02-13, from: The LAist
+
+Raman faces two challengers in the hotly contested primary race for Council District 4.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/real-estate-mogul-others-pour-1m-to-defeat-progressive-la-city-councilmember-nithya-raman-in-2024-election">https://laist.com/news/politics/real-estate-mogul-others-pour-1m-to-defeat-progressive-la-city-councilmember-nithya-raman-in-2024-election</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/real-estate-mogul-others-pour-1m-to-defeat-progressive-la-city-councilmember-nithya-raman-in-2024-election">Save to Pocket</a>
+</span>
+
+---
+
+## Letter to the Editor: Letters criticizing antisemetic undertones should not be written by non-Jewish individuals
+
+date: 2024-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dear Editor:
+I was disheartened to read Tajvir Singh&#8217;s recent letter criticizing a previous letter that brought attention to the antisemitic undertones of a Jan. 16 article by the Daily Bruin titled &#8220;Documents reveal details behind planning process of Bruins for Israel rally.&#8221; 
+Let&#8217;s be clear: Only Jewish people can authentically define what is and isn&#8217;t antisemitic.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/13/letter-to-the-editor-letters-criticizing-antisemetic-undertones-should-not-be-written-by-non-jewish-individuals/">https://dailybruin.com/2024/02/13/letter-to-the-editor-letters-criticizing-antisemetic-undertones-should-not-be-written-by-non-jewish-individuals/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/13/letter-to-the-editor-letters-criticizing-antisemetic-undertones-should-not-be-written-by-non-jewish-individuals/">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – February 13, 2024
+
+date: 2024-02-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/13/classifieds-february-13-2024/">Classifieds &#8211; February 13, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/13/classifieds-february-13-2024/">https://dailytrojan.com/2024/02/13/classifieds-february-13-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/13/classifieds-february-13-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Old to Gold: USC finishes refurbishing Generations Fountain
+
+date: 2024-02-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Generations Fountain needed refurbishing after it became damaged over time.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/13/old-to-gold-usc-finishes-refurbishing-generations-fountain/">Old to Gold: USC finishes refurbishing Generations Fountain</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/13/old-to-gold-usc-finishes-refurbishing-generations-fountain/">https://dailytrojan.com/2024/02/13/old-to-gold-usc-finishes-refurbishing-generations-fountain/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/13/old-to-gold-usc-finishes-refurbishing-generations-fountain/">Save to Pocket</a>
+</span>
+
+---
+
+## Your gay best friend doesn’t make you an ally
+
+date: 2024-02-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Allies must fight for the rights of the entire LGBTQIA+ community.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/13/your-gay-best-friend-doesnt-make-you-an-ally/">Your gay best friend doesn’t make you an ally</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/13/your-gay-best-friend-doesnt-make-you-an-ally/">https://dailytrojan.com/2024/02/13/your-gay-best-friend-doesnt-make-you-an-ally/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/13/your-gay-best-friend-doesnt-make-you-an-ally/">Save to Pocket</a>
+</span>
+
+---
+
+## Embrace imperfect climate activism
+
+date: 2024-02-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Earth won’t die because you forgot to turn off a light; it was going to die anyway.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/13/embrace-imperfect-climate-activism/">Embrace imperfect climate activism</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/13/embrace-imperfect-climate-activism/">https://dailytrojan.com/2024/02/13/embrace-imperfect-climate-activism/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/13/embrace-imperfect-climate-activism/">Save to Pocket</a>
+</span>
+
+---
+
+## California Science Center expansion spotlights Endeavor
+
+date: 2024-02-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Space Shuttle Endeavor moved to liftoff position Jan. 29 after 12 years on its side.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/13/california-science-center-expansion-spotlights-endeavor/">California Science Center expansion spotlights Endeavor</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/13/california-science-center-expansion-spotlights-endeavor/">https://dailytrojan.com/2024/02/13/california-science-center-expansion-spotlights-endeavor/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/13/california-science-center-expansion-spotlights-endeavor/">Save to Pocket</a>
+</span>
+
+---
+
+## It’s time to get excited about club baseball
+
+date: 2024-02-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC club baseball is a field of dreams for washed-up little leaguers.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/13/its-time-to-get-excited-about-club-baseball/">It’s time to get excited about club baseball</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/13/its-time-to-get-excited-about-club-baseball/">https://dailytrojan.com/2024/02/13/its-time-to-get-excited-about-club-baseball/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/13/its-time-to-get-excited-about-club-baseball/">Save to Pocket</a>
+</span>
+
+---
+
+## Savory savings in the form of skewers
+
+date: 2024-02-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Dollar Hits serves up Los Angeles flavors with affordability built into their name. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/13/savory-savings-in-the-form-of-skewers/">Savory savings in the form of skewers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/13/savory-savings-in-the-form-of-skewers/">https://dailytrojan.com/2024/02/13/savory-savings-in-the-form-of-skewers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/13/savory-savings-in-the-form-of-skewers/">Save to Pocket</a>
+</span>
+
+---
+
+## USC made the Super Bowl… kind of
+
+date: 2024-02-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Although it’s not college ball, the Trojans still heavily influence the Super Bowl.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/13/usc-made-the-super-bowl-kind-of/">USC made the Super Bowl… kind of</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/13/usc-made-the-super-bowl-kind-of/">https://dailytrojan.com/2024/02/13/usc-made-the-super-bowl-kind-of/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/13/usc-made-the-super-bowl-kind-of/">Save to Pocket</a>
+</span>
+
+---
+
+## Q&A: John Thomas shares lessons from past careers, goals as new UCLA police chief
+
+date: 2024-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+John Thomas was appointed as UCLA&#8217;s police chief Jan. 11 after serving as interim chief since December 2022.
+Thomas, who attended UCLA from 1980 to 1984, previously served at the University of Southern California, holding positions including police captain, assistant chief, executive director and chief.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/12/qa-john-thomas-shares-lessons-from-past-careers-goals-as-new-ucla-police-chief/">https://dailybruin.com/2024/02/12/qa-john-thomas-shares-lessons-from-past-careers-goals-as-new-ucla-police-chief/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/12/qa-john-thomas-shares-lessons-from-past-careers-goals-as-new-ucla-police-chief/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: UCLA must prevent hate crimes, foster open environment for productive dialogue
+
+date: 2024-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+College campuses should serve as safe spaces where students, faculty and staff from diverse backgrounds can come together, engage in critical open dialogue and express contrasting perspectives.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/12/editorial-ucla-must-prevent-hate-crimes-foster-open-environment-for-productive-dialogue/">https://dailybruin.com/2024/02/12/editorial-ucla-must-prevent-hate-crimes-foster-open-environment-for-productive-dialogue/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/12/editorial-ucla-must-prevent-hate-crimes-foster-open-environment-for-productive-dialogue/">Save to Pocket</a>
+</span>
+
+---
+
+## Matadors corral the Mustangs and earn 15th win
+
+date: 2024-02-13, from: The Sundail (CSUN Student Newspaper)
+
+After a rough five-game losing streak in the middle of the season, CSUN (15-9, 6-6 Big West) has now strung together back-to-back home wins after defeating Cal Poly San Luis...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178315/sports/matadors-corral-the-mustangs-and-earn-15th-win/">https://sundial.csun.edu/178315/sports/matadors-corral-the-mustangs-and-earn-15th-win/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178315/sports/matadors-corral-the-mustangs-and-earn-15th-win/">Save to Pocket</a>
+</span>
+
+---
+
+## Matadors’ defense fails to stop Gauchos’ offense in 21st straight loss
+
+date: 2024-02-13, from: The Sundail (CSUN Student Newspaper)
+
+In another one-possession game with less than a minute left in the fourth, CSUN failed to close the game out with a win, as the Matadors could not get the...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178308/sports/matadors-defense-fails-to-stop-gauchos-offense-in-21st-straight-loss/">https://sundial.csun.edu/178308/sports/matadors-defense-fails-to-stop-gauchos-offense-in-21st-straight-loss/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178308/sports/matadors-defense-fails-to-stop-gauchos-offense-in-21st-straight-loss/">Save to Pocket</a>
+</span>
+
+---
+
+## Market Spotlight: Dolce Monachelli’s has become a staple at Westwood Village Farmers’ Market
+
+date: 2024-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dolce Monachelli’s, owned and run by Chris Monachelli, is one of the longest-running vendors at the Westwood Village Farmers’ Market. After first setting up its booth at the market more than 16 years ago, the bundt cake business has now gained a legendary reputation, according to one customer.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/12/market-spotlight-dolce-monachellis-has-become-a-staple-at-westwood-village-farmers-market/">https://dailybruin.com/2024/02/12/market-spotlight-dolce-monachellis-has-become-a-staple-at-westwood-village-farmers-market/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/12/market-spotlight-dolce-monachellis-has-become-a-staple-at-westwood-village-farmers-market/">Save to Pocket</a>
+</span>
+
+---
+
+## The Nimoy’s “A Love Story Event” left audience with new ideas about love
+
+date: 2024-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Nimoy&#8217;s most recent event lived up to the motto above its door, &#8220;live long and prosper.&#8221; 
+The Westwood theater hosted &#8220;Crushing at the Nimoy: A Love Story Event&#8221; this past Sunday night.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/12/the-nimoys-a-love-story-event-left-audience-with-new-ideas-about-love/">https://dailybruin.com/2024/02/12/the-nimoys-a-love-story-event-left-audience-with-new-ideas-about-love/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/12/the-nimoys-a-love-story-event-left-audience-with-new-ideas-about-love/">Save to Pocket</a>
+</span>
+
+---
+
+## Riverside County Warns About Bringing ‘Stray’ Cats To The Shelter — Some Might Be Pets
+
+date: 2024-02-13, updated: 2024-02-13, from: The LAist
+
+A new program aims to get felines into homes and away from unnecessary euthanasia.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/cat-crisis-riverside-county-adoption">https://laist.com/news/cat-crisis-riverside-county-adoption</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/cat-crisis-riverside-county-adoption">Save to Pocket</a>
+</span>
+
+---
+
+## LAUSD Board To Vote On Charter School Location Restrictions
+
+date: 2024-02-13, updated: 2024-02-13, from: The LAist
+
+The proposed policy is intended to ease yearslong tensions from forcing traditional public schools to share space and resources with charter schools.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/lausd-charter-school-co-location-proposition-39-vote-february-2024">https://laist.com/news/education/lausd-charter-school-co-location-proposition-39-vote-february-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/lausd-charter-school-co-location-proposition-39-vote-february-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Student Aatmi Mehta blends tradition and self-expression through henna business
+
+date: 2024-02-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Aatmi Mehta is using henna as an art form to convey tradition and self-expression.
+The second-year public health student runs a small henna business. Although she finds joy in creating art for others, Mehta said henna will always be a personalized craft for her.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/12/student-aatmi-mehta-blends-tradition-and-self-expression-through-henna-business/">https://dailybruin.com/2024/02/12/student-aatmi-mehta-blends-tradition-and-self-expression-through-henna-business/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/12/student-aatmi-mehta-blends-tradition-and-self-expression-through-henna-business/">Save to Pocket</a>
+</span>
+
+---
+
+## In Photos: Guest conductor leads Thornton Winds in wide-ranging concert
+
+date: 2024-02-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The USC Thornton Winds were led in their concert Friday night by guest conductor Michael Haithcock, professor emeritus of Music at the University of Michigan, and covered genres from classics like Mozart to modern ensemble music.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/12/in-photos-guest-conductor-leads-thornton-winds-in-wide-ranging-concert/">In Photos: Guest conductor leads Thornton Winds in wide-ranging concert</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/12/in-photos-guest-conductor-leads-thornton-winds-in-wide-ranging-concert/">https://dailytrojan.com/2024/02/12/in-photos-guest-conductor-leads-thornton-winds-in-wide-ranging-concert/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/12/in-photos-guest-conductor-leads-thornton-winds-in-wide-ranging-concert/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA softball suffers historic loss during weekend Stacy Winsberg Tournament
+
+date: 2024-02-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+A final crack of the bat in the fifth inning cemented the Bruins’ fate.
+With Texas&#8217; 16th run of the game, the Longhorns dealt UCLA its worst loss in program history.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/12/ucla-softball-suffers-historic-loss-during-opening-week-stacy-winsberg-tournament/">https://dailybruin.com/2024/02/12/ucla-softball-suffers-historic-loss-during-opening-week-stacy-winsberg-tournament/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/12/ucla-softball-suffers-historic-loss-during-opening-week-stacy-winsberg-tournament/">Save to Pocket</a>
+</span>
+
+---
+
+## Second Take: Film review app Letterboxd successfully brings cinema lovers together
+
+date: 2024-02-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Letterboxd is powerfully sweeping the box office of public opinion.
+It&#8217;s an all-too-familiar sight &#8211; moments after the credits begin to roll, a dark theatre lights up with tiny beacons of orange, green and blue.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/12/second-take-film-review-app-letterboxd-successfully-brings-cinema-lovers-together/">https://dailybruin.com/2024/02/12/second-take-film-review-app-letterboxd-successfully-brings-cinema-lovers-together/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/12/second-take-film-review-app-letterboxd-successfully-brings-cinema-lovers-together/">Save to Pocket</a>
+</span>
+
+---
+
+## Q&A: Alumnus Paul Whitaker discusses lighting designer role on ‘Alice in Wonderland’
+
+date: 2024-02-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Paul Whitaker is lighting the roses red.
+The alumnus served as the lighting designer for the upcoming production of &#8220;Alice in Wonderland&#8221; at the Tony Award-winning Children&#8217;s Theatre Company.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/12/qalice-in-wonderland/">https://dailybruin.com/2024/02/12/qalice-in-wonderland/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/12/qalice-in-wonderland/">Save to Pocket</a>
+</span>
+
+---
+
+## DeShaun Foster hired as UCLA football’s 19th head coach, succeeding Chip Kelly
+
+date: 2024-02-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 12 at 1:08 p.m.</em>
+Just 10 days after the NFL poached their longtime assistant coach, the Bruins are poaching him right back.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/12/deshaun-foster-hired-as-ucla-footballs-19th-head-coach-succeeding-chip-kelly/">https://dailybruin.com/2024/02/12/deshaun-foster-hired-as-ucla-footballs-19th-head-coach-succeeding-chip-kelly/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/12/deshaun-foster-hired-as-ucla-footballs-19th-head-coach-succeeding-chip-kelly/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -286,11 +601,23 @@ Rep. Barbara Lee, one of four major candidates for the open United States Senate
 
 date: 2024-02-12, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Feb. 11 at 10:35 p.m. </em>
+<em>This post was updated Feb. 12 at 11:52 a.m. </em>
 As an extensive line of students formed well before opening time Thursday evening, the dining staff at Feast at Rieber – a dining hall featuring Asian-inspired cuisines – bustled with final preparations to welcome the Year of the Dragon.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/11/feast-at-rieber-celebrates-lunar-new-year-serves-traditional-dishes-with-a-twist/">https://dailybruin.com/2024/02/11/feast-at-rieber-celebrates-lunar-new-year-serves-traditional-dishes-with-a-twist/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/11/feast-at-rieber-celebrates-lunar-new-year-serves-traditional-dishes-with-a-twist/">Save to Pocket</a>
+</span>
+
+---
+
+## Body Of Missing Hiker On Mt. Baldy Found
+
+date: 2024-02-11, updated: 2024-02-13, from: The LAist
+
+Lifei Huang, 22, went missing near Mt. Baldy on Feb. 4 as the first of two atmospheric rivers was bearing down on the region.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/missing-hiker-mt-baldy-body-found">https://laist.com/news/climate-environment/missing-hiker-mt-baldy-body-found</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/missing-hiker-mt-baldy-body-found">Save to Pocket</a>
 </span>
 
 ---

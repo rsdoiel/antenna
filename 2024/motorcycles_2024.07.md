@@ -1,11 +1,95 @@
 ---
 title: motorcycles 2024.07
-updated: 2024-02-12 08:30:32
+updated: 2024-02-13 08:48:43
 ---
 
 # motorcycles 2024.07
 
-(date: 2024-02-12 08:30:32)
+(date: 2024-02-13 08:48:43)
+
+---
+
+## Recall: Multiple 2020-2022 Indian Bikes May Have Brake Light Issue
+
+date: 2024-02-13, from: Ride Apart, Electric Motorcycle News
+
+On affected models, incorrect ABS module software is causing brake lights to illuminate when riders aren't braking.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708389/indian-motorcycle-brake-light-recall/">https://www.rideapart.com/news/708389/indian-motorcycle-brake-light-recall/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708389/indian-motorcycle-brake-light-recall/">Save to Pocket</a>
+</span>
+
+---
+
+## Honda's Winner X Is Gunning For Victory In The Philippines
+
+date: 2024-02-13, from: Ride Apart, Electric Motorcycle News
+
+The Winner X is the newest player in the premium “underbone” category. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708395/honda-winner-x-launch-philippines/">https://www.rideapart.com/news/708395/honda-winner-x-launch-philippines/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708395/honda-winner-x-launch-philippines/">Save to Pocket</a>
+</span>
+
+---
+
+## Motowatt’s W1X Electric Motorcycle Wants To Be The Ultimate Urban Commuter
+
+date: 2024-02-13, from: Ride Apart, Electric Motorcycle News
+
+The W1X promises a wide assortment of upgrades and accessories to suit individual needs and preferences. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708394/motowatt-w1x-electric-motorcycle/">https://www.rideapart.com/news/708394/motowatt-w1x-electric-motorcycle/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708394/motowatt-w1x-electric-motorcycle/">Save to Pocket</a>
+</span>
+
+---
+
+## Royal Enfield Track School Welcomes New And Seasoned Riders In India
+
+date: 2024-02-13, from: Ride Apart, Electric Motorcycle News
+
+Royal Enfield encourages riders to build their track riding skills in a safe and controlled environment. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708393/royal-enfield-track-school-2024/">https://www.rideapart.com/news/708393/royal-enfield-track-school-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708393/royal-enfield-track-school-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Ask RideApart: What’s The Difference Between The Honda CBR650R And CBR600RR?
+
+date: 2024-02-13, from: Ride Apart, Electric Motorcycle News
+
+They’re both sportbikes and around 600-ish cc – what really sets them apart? 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708392/cbr650r-vs-cbr600rr-whats-the-difference/">https://www.rideapart.com/news/708392/cbr650r-vs-cbr600rr-whats-the-difference/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708392/cbr650r-vs-cbr600rr-whats-the-difference/">Save to Pocket</a>
+</span>
+
+---
+
+## BMW Patents Active Aero, But Mere Mortals Aren’t Going to Feel It
+
+date: 2024-02-12, from: Ride Apart, Electric Motorcycle News
+
+Homicidal homologation specials? Do it, BMW. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708388/bmw-motorrad-active-aerodynamics-winglets/">https://www.rideapart.com/news/708388/bmw-motorrad-active-aerodynamics-winglets/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708388/bmw-motorrad-active-aerodynamics-winglets/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Triumph Daytona 660 Gets European And UK Pricing Info
+
+date: 2024-02-12, from: Ride Apart, Electric Motorcycle News
+
+Eager riders in France, Germany, Italy, and the UK can place their preorders now.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708382/triumph-daytona-660-europe-pricing/">https://www.rideapart.com/news/708382/triumph-daytona-660-europe-pricing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708382/triumph-daytona-660-europe-pricing/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -57,7 +141,7 @@ Gillen has more than a decade of experience with MV Agusta, and was responsible 
 
 ---
 
-## MIT’s Electric Vehicle Team Is Experimenting On Hydrogen-Powered Bikes
+## MIT Is Experimenting With Wild Hydrogen-Powered Motorcycles
 
 date: 2024-02-12, from: Ride Apart, Electric Motorcycle News
 

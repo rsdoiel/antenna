@@ -1,11 +1,131 @@
 ---
 title: games 2024.07
-updated: 2024-02-12 08:30:31
+updated: 2024-02-13 08:48:43
 ---
 
 # games 2024.07
 
-(date: 2024-02-12 08:30:31)
+(date: 2024-02-13 08:48:43)
+
+---
+
+## How to get all legendary schematics in Palworld
+
+date: 2024-02-13, updated: 2024-02-13, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/palworld-guides/24056173/legendary-schematics-locations-how-to-get-where-to-find">https://www.polygon.com/palworld-guides/24056173/legendary-schematics-locations-how-to-get-where-to-find</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/palworld-guides/24056173/legendary-schematics-locations-how-to-get-where-to-find">Save to Pocket</a>
+</span>
+
+---
+
+## The Legend of Zelda: Twilight Princess manga is getting a box set in Sept., and pre-orders are 10% off
+
+date: 2024-02-13, updated: 2024-02-13, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24071129/the-legend-of-zelda-twilight-princess-manga-box-set-amazon-pre-order">https://www.polygon.com/24071129/the-legend-of-zelda-twilight-princess-manga-box-set-amazon-pre-order</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24071129/the-legend-of-zelda-twilight-princess-manga-box-set-amazon-pre-order">Save to Pocket</a>
+</span>
+
+---
+
+## Yes, you should play Dragon’s Dogma before the sequel launches. Here’s where to get a deal
+
+date: 2024-02-13, updated: 2024-02-13, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24070666/dragons-dogma-dark-arisen-deal-steam-ps-xbox-switch">https://www.polygon.com/24070666/dragons-dogma-dark-arisen-deal-steam-ps-xbox-switch</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24070666/dragons-dogma-dark-arisen-deal-steam-ps-xbox-switch">Save to Pocket</a>
+</span>
+
+---
+
+## Helldivers 2 team issues first patch, hopefully after good night’s rest
+
+date: 2024-02-13, updated: 2024-02-13, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24070670/helldivers-2-servers-login-no-rewards-need-sleep">https://www.polygon.com/24070670/helldivers-2-servers-login-no-rewards-need-sleep</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24070670/helldivers-2-servers-login-no-rewards-need-sleep">Save to Pocket</a>
+</span>
+
+---
+
+## Twitch Plays Pokémon goes back to the beginning for 10th anniversary
+
+date: 2024-02-13, updated: 2024-02-13, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24070761/twitch-plays-pokemon-10-year-anniversary-stream">https://www.polygon.com/24070761/twitch-plays-pokemon-10-year-anniversary-stream</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24070761/twitch-plays-pokemon-10-year-anniversary-stream">Save to Pocket</a>
+</span>
+
+---
+
+## Madame Web turns the post-credits scene into the whole cynical movie
+
+date: 2024-02-13, updated: 2024-02-13, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24071362/madame-web-review-post-credits-scene-sequel-teaser-bad">https://www.polygon.com/reviews/24071362/madame-web-review-post-credits-scene-sequel-teaser-bad</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24071362/madame-web-review-post-credits-scene-sequel-teaser-bad">Save to Pocket</a>
+</span>
+
+---
+
+## Marvel and DC’s legendary crossovers are finally back in print
+
+date: 2024-02-13, updated: 2024-02-13, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24071678/marvel-dc-crossover-comics-history-books-2024">https://www.polygon.com/24071678/marvel-dc-crossover-comics-history-books-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24071678/marvel-dc-crossover-comics-history-books-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Helldivers 2’s microtransactions won’t stop you from having a good time
+
+date: 2024-02-12, updated: 2024-02-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/24071170/helldivers-2-microtransactions-live-service-fair">https://www.polygon.com/gaming/24071170/helldivers-2-microtransactions-live-service-fair</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/24071170/helldivers-2-microtransactions-live-service-fair">Save to Pocket</a>
+</span>
+
+---
+
+## How to beat Lily and Lyleen in Palworld
+
+date: 2024-02-12, updated: 2024-02-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/palworld-guides/24050780/lily-lyleen-tower-of-free-pal-alliance-location-tower-2">https://www.polygon.com/palworld-guides/24050780/lily-lyleen-tower-of-free-pal-alliance-location-tower-2</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/palworld-guides/24050780/lily-lyleen-tower-of-free-pal-alliance-location-tower-2">Save to Pocket</a>
+</span>
+
+---
+
+## How to beat Zoe and Grizzbolt in Palworld
+
+date: 2024-02-12, updated: 2024-02-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24042982/palworld-rayne-syndicate-tower-boss-zoe-grizzbolt-how-to-beat">https://www.polygon.com/guides/24042982/palworld-rayne-syndicate-tower-boss-zoe-grizzbolt-how-to-beat</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24042982/palworld-rayne-syndicate-tower-boss-zoe-grizzbolt-how-to-beat">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,192 @@
 ---
 title: writing 2024.07
-updated: 2024-02-12 08:30:31
+updated: 2024-02-13 08:48:43
 ---
 
 # writing 2024.07
 
-(date: 2024-02-12 08:30:31)
+(date: 2024-02-13 08:48:43)
+
+---
+
+## Charles Payseur Reviews Short Fiction: Understudies by Priya Sridhar, Diabolical Plots, Samovar, and Strange Horizons
+
+date: 2024-02-13, from: Locus Magazine
+
+<p>Diabolical Plots 10-11/23
+<strong>Understudies</strong>, Priya Sridhar (Hiraeth) Febru­ary 2023.
+Samovar 10/23/23
+Strange Horizons 10/30/23, 11/6/23</p>
+<p>Over at Diabolical Plots, the publishing schedule has been temporarily compacted, leading to an October and November with only one story each instead of the regular two. Both stories are quite good, though, and both stay in the Halloween spirit with witches and ghosts aplenty. Both also twist expectations regarding these classic elements, as  <a href="https://locusmag.com/2024/02/charles-payseur-reviews-short-fiction-understudies-by-priya-sridhar-diabolical-plots-samovar-and-strange-horizons/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/charles-payseur-reviews-short-fiction-understudies-by-priya-sridhar-diabolical-plots-samovar-and-strange-horizons/">https://locusmag.com/2024/02/charles-payseur-reviews-short-fiction-understudies-by-priya-sridhar-diabolical-plots-samovar-and-strange-horizons/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/charles-payseur-reviews-short-fiction-understudies-by-priya-sridhar-diabolical-plots-samovar-and-strange-horizons/">Save to Pocket</a>
+</span>
+
+---
+
+## New Books, 13 February 2024
+
+date: 2024-02-13, from: Locus Magazine
+
+<p>Arden, Katherine: <b>The Warm Hands of Ghosts</b>
+(Penguin Random House/Del Rey 9780593128251, $28.99, 336pp, formats: hardcover, ebook, audio, 02/13/2024)</p>
+<p>Historical fantasy novel. During WWI, Laura Iven, a retired field nurse hears word that her brother has been killed in combat, but something doesn&#8217;t make sense. She returns to Belgium as a volunteer at a private hospital, where she hears whispers about haunted trenches and a strange hotelier whose wine gives  <a href="https://locusmag.com/2024/02/new-books-13-february-2024/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/new-books-13-february-2024/">https://locusmag.com/2024/02/new-books-13-february-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/new-books-13-february-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Write On: 'Land of Bad' Director/Co-Writer William Eubank
+
+date: 2024-02-13, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-land-of-bad-director/co-writer-william-eubank" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Land%20of%20Bad%20DirectorCo-Writer%20William%20Eubank.png" alt="Write On: 'Land of Bad' Director/Co-Writer William Eubank" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>"You want to write stuff you want to see, that's the key. Just write something new something fresh, something interesting," says director and co-writer William Eubank of Land of Bad, the new intense, action-packed movie about a Delta Force team that gets ambushed in enemy territory.&nbsp;<br><br>Final Draft sat down with Eubank to talk about his writing process, directing Liam Hemsworth, Russell Crowe and Luke Hemsworth in this unhinged survival story full of exciting set pieces and big action moments. &nbsp;</p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/write-on-land-of-bad-director/co-writer-william-eubank">https://blog.finaldraft.com/write-on-land-of-bad-director/co-writer-william-eubank</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/write-on-land-of-bad-director/co-writer-william-eubank">Save to Pocket</a>
+</span>
+
+---
+
+## NESFA Awards
+
+date: 2024-02-13, from: Locus Magazine
+
+<p>John Scalzi is the recipient of the 2023 Edward E. Smith Memorial Award for Imaginative Fiction (AKA the Skylark Award), and Ellen Kushner &#38; Delia Sherman are the winners of the 2024 award. The awards were presented by the New England Science Fiction Association (NESFA) at Boskone 61, held February 9-11, 2024 in Boston.</p>
+<p>The Skylark is given to “some person, who, in the opinion of the membership, has contributed  <a href="https://locusmag.com/2024/02/nesfa-awards/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/nesfa-awards/">https://locusmag.com/2024/02/nesfa-awards/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/nesfa-awards/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Compton Crook Award Finalists
+
+date: 2024-02-12, from: Locus Magazine
+
+<p>The Baltimore Science Fiction Society (BSFS) has announced the finalists for the 2024 Compton Crook Award:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li>
+<p style="font-weight: 400;"><strong>Splinter in the Sky</strong>, Kemi Ashing-Giwa (Saga)</p>
+</li>
+<li>
+<p style="font-weight: 400;"><strong>To Shape a Dragon’s Breath</strong>, Moniquill Blackgoose (Del Rey)</p>
+</li>
+<li>
+<p style="font-weight: 400;"><strong>These Burning Stars</strong>, Bethany Jacobs (Orbit)</p>
+</li>
+<li>
+<p style="font-weight: 400;"><strong>Deathwind</strong>, Brad Pawlowski (Sunquake)</p>
+</li>
+<li><strong>How to Be Remembered</strong>, Michael Thompson (Sourcebooks Landmark)</li>
+</ul>
+</div>
+<p>The award honors the best first SF/fantasy/horror novel of the year, and &#8220;includes a framed  <a href="https://locusmag.com/2024/02/2024-compton-crook-award-finalists/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/2024-compton-crook-award-finalists/">https://locusmag.com/2024/02/2024-compton-crook-award-finalists/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/2024-compton-crook-award-finalists/">Save to Pocket</a>
+</span>
+
+---
+
+## Weekly Bestsellers, 12 February 2024
+
+date: 2024-02-12, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+<p>As anticipated, Sarah J. Maas&#8217;s <b>House of Flame and Shadow</b> (Bloomsbury), third in the Crescent City series, debuts strongly &#8212; ranking at #1 &#8212; on all four print lists compiled here.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+02.11
+LAT
+02.11
+USAT 
+02.04
+PW 
+02.12
+Amz 
+(02.12)
+UK:
+Amz UK 
+(02.12)
+Canada:
+Amz.ca 
+(02.12)
+
+
+Items on list -x- number of lists surveyed
+
+10&#215;3
+10&#215;2
+150
+15&#215;3
+100
+100
+100 <a href="https://locusmag.com/2024/02/weekly-bestsellers-12-february-2024/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/weekly-bestsellers-12-february-2024/">https://locusmag.com/2024/02/weekly-bestsellers-12-february-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/weekly-bestsellers-12-february-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Paul Di Filippo Reviews The Glass Box by J. Michael Straczynski
+
+date: 2024-02-12, from: Locus Magazine
+
+<p><strong>The Glass Box</strong>, J. Michael Straczynski (Blackstone 979-8212007795, hardcover, 350pp, $25.99) January 2024</p>
+<p>We are lucky that Mr. Straczynski—hereafter, the familiar JMS—has taken some time off from his comics and television work to gift us with a fine new novel. Considering also his heavy duties administering the estate of Harlan Ellison—I for one eagerly await the reprinting of <b>Dangerous Visions</b> and <b>Again, Dangerous Visions</b>, and the birth of  <a href="https://locusmag.com/2024/02/paul-di-filippo-reviews-the-glass-box-by-j-michael-straczynski/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/paul-di-filippo-reviews-the-glass-box-by-j-michael-straczynski/">https://locusmag.com/2024/02/paul-di-filippo-reviews-the-glass-box-by-j-michael-straczynski/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/paul-di-filippo-reviews-the-glass-box-by-j-michael-straczynski/">Save to Pocket</a>
+</span>
+
+---
+
+## Hosek Wins Service to SFWA Award
+
+date: 2024-02-12, from: Locus Magazine
+
+<p>The Science Fiction and Fantasy Writers Association (SFWA) has announced the late James Hosek (October 13, 1964 – December 3, 2023) as the winner of the 2024 Kevin O&#8217;Donnell, Jr. Service to SFWA Award. The award is presented to &#8220;a volunteer of SFWA who best exemplifies the ideal of service to the Science Fiction and Fantasy Writers of America.&#8221;</p>
+<p>Deputy Executive Director Terra LeMay says,</p>
+<p>It is often the case  <a href="https://locusmag.com/2024/02/hosek-wins-service-to-sfwa-award/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/hosek-wins-service-to-sfwa-award/">https://locusmag.com/2024/02/hosek-wins-service-to-sfwa-award/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/hosek-wins-service-to-sfwa-award/">Save to Pocket</a>
+</span>
+
+---
+
+## 2027 Montréal Worldcon Bid
+
+date: 2024-02-12, from: Locus Magazine
+
+<p>Montréal, Québec, Canada has announced a bid to host the 85th World Science Fiction Convention, to be held in 2027.</p>
+
+<p dir="ltr">The 67th Worldcon in 2009 in Montréal was the last Canadian Worldcon and Montrealers will be happy to see it return. We are bidding to bring the convention to the Palais des Congrès from September 2-6, 2027.</p>
+<p dir="ltr">The bid is led by Terry Fong, a Montréal native and a veteran  <a href="https://locusmag.com/2024/02/2027-montreal-worldcon-bid/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/2027-montreal-worldcon-bid/">https://locusmag.com/2024/02/2027-montreal-worldcon-bid/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/2027-montreal-worldcon-bid/">Save to Pocket</a>
+</span>
 
 ---
 

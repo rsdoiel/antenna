@@ -1,22 +1,118 @@
 ---
 title: weather 2024.07
-updated: 2024-02-12 08:30:31
+updated: 2024-02-13 08:48:43
 ---
 
 # weather 2024.07
 
-(date: 2024-02-12 08:30:31)
+(date: 2024-02-13 08:48:43)
 
 ---
 
-## SPC - No MDs are in effect as of Mon Feb 12 16:01:02 UTC 2024
+## SPC - No watches are valid as of Tue Feb 13 16:31:02 UTC 2024
 
-date: 2024-02-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-02-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Mon Feb 12 16:01:02 UTC 2024.
+No watches are valid as of Tue Feb 13 16:31:02 UTC 2024.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No MDs are in effect as of Tue Feb 13 16:31:02 UTC 2024
+
+date: 2024-02-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Feb 13 16:31:02 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Feb 13, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-02-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1003 AM CST Tue Feb 13 2024
+
+Valid 131630Z - 141200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected across the continental U.S.
+through tonight.
+
+...Synopsis...
+In the wake of a shortwave trough moving off the Mid-Atlantic and
+over southern New England, cool/dry continental air will dominate
+the majority of the CONUS.  Steep midlevel lapse rates were observed
+this morning over parts of the northern Great Basin/Rockies and weak
+convection may occur over southern ID and vicinity, but
+thunderstorms are not expected due to limited moisture and/or little
+forcing for ascent.
+
+..Thompson/Wendt.. 02/13/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Feb 13, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-02-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0643 AM CST Tue Feb 13 2024
+
+Valid 131300Z - 141200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected across the continental U.S.
+through tonight.
+
+...Discussion...
+A fast-moving shortwave trough over the Mid-Atlantic seaboard early
+today will continue to quickly shift northeastward to the western
+Atlantic, with a surface cyclone/cold front moving
+east-northeastward in a similar fashion. With weak buoyancy noted
+along the coast (12z observed soundings from Wallops Island and
+Morehead City), a couple of lightning flashes could initially occur
+today near the coastal Mid-Atlantic, such as near far eastern
+portions of Maryland/Virginia and northeast North Carolina. However,
+this potential will remain quite low/sparse overall and quickly wane
+this morning. Other offshore lightning flashes could occur off the
+coast of southern New England through early afternoon.
+
+Nearly zonal upper-level flow will otherwise prevail across the
+remainder of the CONUS, as dry and stable conditions are anticipated
+east of the Rockies.
+
+..Guyer/Kerr.. 02/13/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
 </span>
 
 ---
@@ -153,71 +249,6 @@ PENSACOLA BAY AREA INCLUDING SANTA ROSA SOUND
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/ws0022.html">https://www.spc.noaa.gov/products/watch/ws0022.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/ws0022.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Feb 12, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-02-12, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0658 AM CST Mon Feb 12 2024
-
-Valid 121300Z - 131200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE
-SOUTHEAST STATES...
-
-...SUMMARY...
-Severe thunderstorms are possible across the Southeast, including
-parts of Alabama and north Florida into Georgia and South Carolina.
-Damaging winds and a couple of tornadoes are possible.
-
-...Southeast States/Carolinas...
-A southern-stream shortwave trough near the ArkLaTex early this
-morning will reach the Tennessee Valley by evening and the
-Carolinas/Mid-Atlantic States late tonight. This system will minor
-and become more compact, with very strong mid/high-level
-southwesterly winds (70-100 kt) partially overspreading a
-convectively muddled warm sector across the Southeast. 
-
-A surface cyclone will steadily deepen across the Tennessee Valley
-today and toward the southern Appalachians/mid-Atlantic tonight.
-This might influence some northward advancement of a boundary across
-Georgia today, although relatively widespread precipitation/outflows
-should effectively define the practical warm sector and today's
-related surface-based severe risk, as plentiful convection is
-ongoing early today across southern/eastern Alabama into
-central/northern Georgia and much of South Carolina. Some
-northward/inland warm-sector development may more so occur tonight
-across parts of the Carolinas. 
-
-Increasingly robust deep-layer shear and ample low-level shear will
-support organized storm modes, with the most focused potential for
-diurnally intensifying storms expected to be across northern
-Florida/southeast Alabama into Georgia today in vicinity of
-augmenting convective outflows. Modest destabilization and
-aforementioned shear characteristics will support some embedded
-supercells as well as bowing segments, capable of damaging winds and
-a couple of tornadoes, and possibly some hail as well. 
-
-Pending the evolution of upstream convection and the extent of
-northward destabilization, some severe risk may develop into parts
-of the Carolinas tonight, mainly for coastal areas. Robust
-deep-layer/low-level shear could yield some severe risk even with
-minimal destabilization.
-
-..Guyer/Kerr.. 02/12/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
 </span>
 
 ---

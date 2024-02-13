@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.07
-updated: 2024-02-12 08:30:31
+updated: 2024-02-13 08:48:43
 ---
 
 # libraries 2024.07
 
-(date: 2024-02-12 08:30:31)
+(date: 2024-02-13 08:48:43)
 
 ---
 
@@ -29,6 +29,34 @@ Peng, Haonan; Fei, Linlin; He, Xiaolong; Carmeliet, Jan; Churakov, Sergey V.; Pr
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/657636">http://hdl.handle.net/20.500.11850/657636</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/657636">Save to Pocket</a>
+</span>
+
+---
+
+## Guest Post — How Identifiers Can Help Publishers Do a Better Job of Curating the Scholarly Record
+
+date: 2024-02-13, from: Scholarly Kitchen
+
+<p>As scholarly journal editorial practices are the subject of growing scrutiny, publishers should explore “quality signals” systemically derived from researcher identity and metadata associated with identity.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/13/guest-post-how-identifiers-can-help-publishers-do-a-better-job-of-curating-the-scholarly-record/">Guest Post &#8212; How Identifiers Can Help Publishers Do a Better Job of Curating the Scholarly Record   </a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/13/guest-post-how-identifiers-can-help-publishers-do-a-better-job-of-curating-the-scholarly-record/">https://scholarlykitchen.sspnet.org/2024/02/13/guest-post-how-identifiers-can-help-publishers-do-a-better-job-of-curating-the-scholarly-record/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/13/guest-post-how-identifiers-can-help-publishers-do-a-better-job-of-curating-the-scholarly-record/">Save to Pocket</a>
+</span>
+
+---
+
+## Day in Review (February 12–15)
+
+date: 2024-02-12, from: Association of Research Libraries News
+
+<p>Last Updated on February 12, 2024, 3:48 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 13 &#124; Wednesday, February 14 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-12-15/">Day in Review (February 12–15)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/day-in-review/day-in-review-february-12-15/">https://www.arl.org/day-in-review/day-in-review-february-12-15/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/day-in-review/day-in-review-february-12-15/">Save to Pocket</a>
 </span>
 
 ---
