@@ -1,11 +1,186 @@
 ---
 title: parks 2024.07
-updated: 2024-02-13 08:48:43
+updated: 2024-02-14 21:51:17
 ---
 
 # parks 2024.07
 
-(date: 2024-02-13 08:48:43)
+(date: 2024-02-14 21:51:17)
+
+---
+
+## The Heart of Sagebrush
+
+date: 2024-02-13, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>The Heart of Sagebrush</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p>While most other woody plants are dormant in winter, sagebrush continues to grow, even when nearly buried in snow. On sunny days its leaves take in the energy needed for photosynthesis that fuels slow, steady growth. Scientifically, big sagebrush (<em>Artemesia tridentata</em>) is related to the sunflower, but aside from their plant superpower of turning sunshine into food, the two seem to have little in common. </p>
+
+<p><i>Artemesia</i>'s tallest branches peek out of snowdrifts to feed greater sage-grouse and other wildlife. Seeds not eaten for their high protein content are scattered by the winds, while branches hold scarce moisture in the ecosystem by capturing blowing snow. </p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="e3a51aa0-82ca-430a-8e89-aa51e971bc2a" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2022-11/5sage-caught-snow_tkoerner-usfws.jpg?itok=BFE1EPSd" width="576" height="385" alt="Sagebrush holds snow drifts" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>USFWS/Tom Koerner</em></figcaption>
+</figure>
+
+
+<p><br>
+When temperatures climb above freezing, snowmelt will water the seeds to sprout, also enlivening standing sagebrush, native grasses and flowering plants that provide food and cover in the <a href="https://www.blm.gov/blog/2022-05-12/sagebrush-and-grasses-and-forbs-all-better-nesting">spring and summer</a>. </p>
+
+<p>Recent science shows that 1.9 million acres of sagebrush habitat were lost between 2012 and 2018. Climate effects such as drought, increasing wildfires and invasive species accelerate habitat loss. While burned areas can be restored, treatment is costly and uncertain to be effective before sage-grouse and other wildlife are forced to leave the areas permanently. </p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="a7f104c0-778e-4d65-8908-9dd7fa70c4ce" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/sb-heart_2-shot.jpg?itok=M0svu6vZ" width="640" height="360" alt="Hands plant a sagebrush seedling that is then shown in dry ground" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Restoring sagebrush lands sometimes involves hand planting sagebrush seedlings. Numerous site-specific conditions determine whether plantings are successful. <em>BLM-Idaho; USFWS/Tom Koerner</em></figcaption>
+</figure>
+
+
+<p><br>
+With a commitment to improving conditions for greater sage-grouse and hundreds of other wildlife species, the BLM is <a href="https://www.blm.gov/blog/2022-01-14/2022-next-steps-greater-sage-grouse-conservation">evaluating the plans adopted in 2015</a> to manage sagebrush habitat on public lands. <a href="https://www.blm.gov/blog/2022-02-04/more-numbers-evaluating-progress-sage-grouse-conservation">Monitoring</a> data and new scientific information published since 2015 will help us determine whether there are other steps we should take to benefit sage-grouse and people across the West who rely on healthy sagebrush lands.  <br>
+ </p>
+
+<hr>
+<h4><br>
+More stories about sage-grouse on BLM-managed public lands</h4>
+
+<p><em>In SEASON: </em><a href="https://www.blm.gov/blog/2022-03-31/sage-grouse-springtime-lands-thousand-dances">Lands for a thousand dances</a> | <a href="https://www.blm.gov/blog/2022-05-12/sagebrush-and-grasses-and-forbs-all-better-nesting">All the better for nesting</a> | <a href="https://www.blm.gov/blog/2022-06-30/all-days-walk-sage-grouse-summer">All in a day's walk</a> | <a href="https://www.blm.gov/blog/2022-06-23/year-life-idaho-sage-grouse">A year in the life</a> </p>
+
+<p><em>In BALANCE:</em> <a href="https://www.blm.gov/blog/2022-07-27/sage-grouse-balance-predators">Predators</a> | <a href="https://www.blm.gov/blog/2022-12-19/sage-grouse-x-wildland-fire-i">Wildland fire</a> </p>
+
+<p><em>In PROGRESS:</em> <a href="https://www.blm.gov/blog/2022-01-14/2022-next-steps-greater-sage-grouse-conservation">Next steps for sage-grouse</a> | <a href="https://www.blm.gov/blog/2022-02-04/more-numbers-evaluating-progress-sage-grouse-conservation">More than the numbers</a> | <a href="https://www.blm.gov/blog/2022-02-22/according-plan-habitat-conservation-multiple-use-sustained-yield">According to plan</a> </p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/sage-grouse" hreflang="en">Sage-grouse</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-02-14T12:00:00Z">Wed, 02/14/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46806/edit" hreflang="en">sagebrush seedling in dry soil USFWS</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/sage-grouse" hreflang="en">Sage-Grouse</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/200-resource-and-planning" hreflang="en">200 - Resource and Planning</a></div>
+          <div><a href="https://www.blm.gov/editorial-access/600-communications" hreflang="en">600 - Communications</a></div>
+              </div>
+      </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-02-14/heart-sagebrush">https://www.blm.gov/blog/2024-02-14/heart-sagebrush</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-14/heart-sagebrush">Save to Pocket</a>
+</span>
 
 ---
 

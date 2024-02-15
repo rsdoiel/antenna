@@ -1,19 +1,19 @@
 ---
 title: weather 2024.07
-updated: 2024-02-13 08:48:43
+updated: 2024-02-14 21:51:17
 ---
 
 # weather 2024.07
 
-(date: 2024-02-13 08:48:43)
+(date: 2024-02-14 21:51:17)
 
 ---
 
-## SPC - No watches are valid as of Tue Feb 13 16:31:02 UTC 2024
+## SPC - No watches are valid as of Thu Feb 15 05:46:02 UTC 2024
 
-date: 2024-02-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-02-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Feb 13 16:31:02 UTC 2024.
+No watches are valid as of Thu Feb 15 05:46:02 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
@@ -21,14 +21,89 @@ No watches are valid as of Tue Feb 13 16:31:02 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Tue Feb 13 16:31:02 UTC 2024
+## SPC - No MDs are in effect as of Thu Feb 15 05:46:02 UTC 2024
 
-date: 2024-02-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-02-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Feb 13 16:31:02 UTC 2024.
+No Mesoscale Discussions are in effect as of Thu Feb 15 05:46:02 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Feb 15, 2024 0600 UTC Day 1 Convective Outlook
+
+date: 2024-02-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1121 PM CST Wed Feb 14 2024
+
+Valid 151200Z - 161200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Thunderstorm probabilities are very low today.
+
+...Discussion...
+
+Active, progressive northern stream will continue across the CONUS
+today. Several notable short-wave troughs will advance inland across
+the Pacific Northwest, and over the OH Valley/Great Lakes. While
+large-scale ascent/midlevel moistening will be noted ahead of each
+of these features, forecast soundings don't exhibit more than very
+weak buoyancy. Any convection that develops in response to these
+short waves will be shallow and the threat for lightning is very
+low.
+
+..Darrow/Bentley.. 02/15/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1200.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1200.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1200.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2024-02-14, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0326 PM CST Wed Feb 14 2024
+
+Valid 161200Z - 221200Z
+
+From D3/Friday through D5/Sunday, an expansive post-frontal air mass
+will encompass much of the central CONUS, with cold surface
+temperatures generally limiting fire-weather potential. Thereafter,
+westerly midlevel flow will strengthen across the Rockies, with
+multiple embedded shortwave troughs encouraging weak lee troughing
+and the potential for dry/breezy conditions across the
+southern/central High Plains. This will especially be the case on
+D7-D8/Tuesday-Wednesday over the southern High Plains, though
+confidence in the development of critical conditions is low owing to
+continued model disagreement and marginal fuels across the area.
+
+..Weinman.. 02/14/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">https://www.spc.noaa.gov/products/exper/fire_wx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/exper/fire_wx/">Save to Pocket</a>
 </span>
 
 ---

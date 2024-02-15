@@ -1,11 +1,712 @@
 ---
 title: socal north 2024.07
-updated: 2024-02-13 08:48:42
+updated: 2024-02-14 21:51:17
 ---
 
 # socal north 2024.07
 
-(date: 2024-02-13 08:48:42)
+(date: 2024-02-14 21:51:17)
+
+---
+
+## Latin Business Student Association offers professional development opportunities
+
+date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Latin Business Student Association aims to promote professional excellence within the Latino community at UCLA as the university works toward earning the Hispanic-Serving Institution designation.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/14/latin-business-student-association-offers-professional-development-opportunities/">https://dailybruin.com/2024/02/14/latin-business-student-association-offers-professional-development-opportunities/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/14/latin-business-student-association-offers-professional-development-opportunities/">Save to Pocket</a>
+</span>
+
+---
+
+## Lunar New Year celebration on the Hill features performances, activities
+
+date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dancers and martial artists flew through the air under red lanterns and lighting as the Association of Chinese Americans rang in the Lunar New Year on Friday with its annual celebration.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/14/lunar-new-year-celebration-on-the-hill-features-performances-activities/">https://dailybruin.com/2024/02/14/lunar-new-year-celebration-on-the-hill-features-performances-activities/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/14/lunar-new-year-celebration-on-the-hill-features-performances-activities/">Save to Pocket</a>
+</span>
+
+---
+
+## Broxton Nights Sweetheart Market offers community space for attendees, loved ones
+
+date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Hundreds of Bruins and Angelenos gathered on Broxton Avenue with their loved ones last Saturday for the Broxton Nights Sweetheart Market.
+On the second Saturday of every month, Broxton Avenue is closed to traffic and transformed into a night market for the community.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/14/broxton-nights-sweetheart-market-offers-community-space-for-attendees-loved-ones/">https://dailybruin.com/2024/02/14/broxton-nights-sweetheart-market-offers-community-space-for-attendees-loved-ones/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/14/broxton-nights-sweetheart-market-offers-community-space-for-attendees-loved-ones/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA professors named to Forbes 30 Under 30 list for work in computer science
+
+date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+When Aditya Grover learned he was on Forbes Magazine&#8217;s 30 Under 30 list, he wasn&#8217;t convinced.
+&#8220;There were two emails &#8211; one that came first, which went to my spam,&#8221; said Grover, an assistant professor of computer science.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/14/ucla-professors-named-to-forbes-30-under-30-list-for-work-in-computer-science/">https://dailybruin.com/2024/02/14/ucla-professors-named-to-forbes-30-under-30-list-for-work-in-computer-science/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/14/ucla-professors-named-to-forbes-30-under-30-list-for-work-in-computer-science/">Save to Pocket</a>
+</span>
+
+---
+
+## Gym-goers seek to expand strength training facilities in John Wooden Center
+
+date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+In response to long wait times for strength equipment at UCLA recreational facilities, gym-goers founded the Bruin Coalition On Recreation Expansion (BCORE) to provide a forum for students to advocate for gym improvements.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/14/gym-goers-seek-to-expand-strength-training-facilities-in-john-wooden-center/">https://dailybruin.com/2024/02/14/gym-goers-seek-to-expand-strength-training-facilities-in-john-wooden-center/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/14/gym-goers-seek-to-expand-strength-training-facilities-in-john-wooden-center/">Save to Pocket</a>
+</span>
+
+---
+
+## AFSCME Local 3299, community members call on UC to divest from Blackstone
+
+date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 14 at 5:43 p.m.&#160;</em>
+In celebration of Valentine’s Day, 75 UC employees and community members demanded the University to “break up” with and divest from Blackstone outside the chancellor’s office in Murphy Hall.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/14/afscme-local-3299-community-members-call-on-uc-to-divest-from-blackstone/">https://dailybruin.com/2024/02/14/afscme-local-3299-community-members-call-on-uc-to-divest-from-blackstone/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/14/afscme-local-3299-community-members-call-on-uc-to-divest-from-blackstone/">Save to Pocket</a>
+</span>
+
+---
+
+## Want To Have A Say In The Future Of LA’s Trees? Here’s How
+
+date: 2024-02-14, updated: 2024-02-14, from: The LAist
+
+The region’s first holistic urban tree management plans are in the works.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/la-city-county-urban-forest-plan">https://laist.com/news/climate-environment/la-city-county-urban-forest-plan</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/la-city-county-urban-forest-plan">Save to Pocket</a>
+</span>
+
+---
+
+## LA Street Vendors Trial Postponed: What Comes Next
+
+date: 2024-02-14, updated: 2024-02-15, from: The LAist
+
+Trial is postponed as plaintiffs hope to reach a settlement with the city of Los Angeles over “no-vending” zones
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/street-vendors-trial-postponed">https://laist.com/news/street-vendors-trial-postponed</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/street-vendors-trial-postponed">Save to Pocket</a>
+</span>
+
+---
+
+## These LA-Area Couples Celebrated Valentine’s Day By Getting Married
+
+date: 2024-02-14, updated: 2024-02-14, from: The LAist
+
+For one couple, it's an easy date to remember. For another, it's the wedding after a NASCAR proposal.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/valentines-day-la-couples-marry">https://laist.com/news/valentines-day-la-couples-marry</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/valentines-day-la-couples-marry">Save to Pocket</a>
+</span>
+
+---
+
+## Copper Wire Thefts In LA Have Skyrocketed, Affecting Rail Crossings And Internet Access. Now The City's Creating A Taskforce
+
+date: 2024-02-14, updated: 2024-02-15, from: The LAist
+
+The L.A. City Council voted to establish an LAPD task force and a reward program to encourage people to report the crimes.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/criminal-justice/la-city-council-copper-wire-thefts">https://laist.com/news/criminal-justice/la-city-council-copper-wire-thefts</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/criminal-justice/la-city-council-copper-wire-thefts">Save to Pocket</a>
+</span>
+
+---
+
+## Alumnus’ podcast ‘Gooned’ gives voice to survivors of Troubled Teen Industry
+
+date: 2024-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#8220;Gooned&#8221; is uncovering the truth about the troubled teen industry.
+Created and produced by alumnus Emma Lehman, the investigative podcast sheds light on the dark history of the often-overlooked troubled teen industry.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/14/alumnus-podcast-gooned-gives-voice-to-survivors-of-troubled-teen-industry/">https://dailybruin.com/2024/02/14/alumnus-podcast-gooned-gives-voice-to-survivors-of-troubled-teen-industry/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/14/alumnus-podcast-gooned-gives-voice-to-survivors-of-troubled-teen-industry/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Our brand is nationally’: Foster, Jarmond discuss boosting NIL in coming years
+
+date: 2024-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+There’s a definitive attitude Martin Jarmond associates with new head coach DeShaun Foster.
+Hungry.
+It’s also a word the athletic director used to describe what’s required of any successful program in today’s college football landscape.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/14/our-brand-is-nationally-foster-jarmond-discuss-boosting-nil-in-coming-years/">https://dailybruin.com/2024/02/14/our-brand-is-nationally-foster-jarmond-discuss-boosting-nil-in-coming-years/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/14/our-brand-is-nationally-foster-jarmond-discuss-boosting-nil-in-coming-years/">Save to Pocket</a>
+</span>
+
+---
+
+## The Six Different Types of Figure Skating Jumps, explained
+
+date: 2024-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/14/the-six-different-types-of-figure-skating-jumps-explained/">https://dailybruin.com/2024/02/14/the-six-different-types-of-figure-skating-jumps-explained/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/14/the-six-different-types-of-figure-skating-jumps-explained/">Save to Pocket</a>
+</span>
+
+---
+
+## “The Woman in the Castello” Takes Center Stage in Santa Clarita’s One Story One City Program This March!
+
+date: 2024-02-14, from: City of Santa Clarita
+
+<p>&#8216;THE WOMAN IN THE CASTELLO&#8217; TAKES CENTER STAGE IN SANTA CLARITA&#8217;S ONE STORY ONE CITY PROGRAM THIS MARCH! Get a copy of the book at any Santa Clarita Public Library Branch The Santa Clarita Public Library proudly unveils this year&#8217;s chosen masterpiece for the One Story One City program – &#8216;The Woman in the Castello&#8217; [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/02/14/the-woman-in-the-castello-takes-center-stage-in-santa-claritas-one-story-one-city-program-this-march/">&#8220;The Woman in the Castello&#8221; Takes Center Stage in Santa Clarita&#8217;s One Story One City Program This March!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2024/02/14/the-woman-in-the-castello-takes-center-stage-in-santa-claritas-one-story-one-city-program-this-march/">https://santaclarita.gov/blog/2024/02/14/the-woman-in-the-castello-takes-center-stage-in-santa-claritas-one-story-one-city-program-this-march/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/02/14/the-woman-in-the-castello-takes-center-stage-in-santa-claritas-one-story-one-city-program-this-march/">Save to Pocket</a>
+</span>
+
+---
+
+## Athlete of the week Dara Tokeshi is a ‘titan of toughness’
+
+date: 2024-02-14, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Last Saturday, Feb. 3, Occidental College Women’s basketball team beat Whittier College 64-48, with shooting guard Dara Tokeshi (sophomore) on the court for a total of 36 minutes of game time: the most of any member on the team. According to Tokeshi, much of the team’s success has come from their unity, both on and off [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/02/14/athlete-of-the-week-dara-tokeshi-is-a-titan-of-toughness/2911075">Athlete of the week Dara Tokeshi is a &#8216;titan of toughness&#8217;</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/sports/2024/02/14/athlete-of-the-week-dara-tokeshi-is-a-titan-of-toughness/2911075">https://theoccidentalnews.com/sports/2024/02/14/athlete-of-the-week-dara-tokeshi-is-a-titan-of-toughness/2911075</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/sports/2024/02/14/athlete-of-the-week-dara-tokeshi-is-a-titan-of-toughness/2911075">Save to Pocket</a>
+</span>
+
+---
+
+## Julie Tanaka to depart from Special Collections and urges students to ‘stay curious’
+
+date: 2024-02-14, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Julie Tanaka, Director of Special Collections and College Archives, has three mantras for every Occidental student: stay curious, be open and keep asking questions. Arriving at Occidental in May 2022, she has over a decade of experience specializing in archives, special collections and rare books. Tanaka recently accepted a position at the University of Washington [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/02/14/julie-tanaka-to-depart-from-special-collections-and-urges-students-to-stay-curious/2911082">Julie Tanaka to depart from Special Collections and urges students to &#8216;stay curious&#8217;</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/news/2024/02/14/julie-tanaka-to-depart-from-special-collections-and-urges-students-to-stay-curious/2911082">https://theoccidentalnews.com/news/2024/02/14/julie-tanaka-to-depart-from-special-collections-and-urges-students-to-stay-curious/2911082</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/news/2024/02/14/julie-tanaka-to-depart-from-special-collections-and-urges-students-to-stay-curious/2911082">Save to Pocket</a>
+</span>
+
+---
+
+## Hookup culture vs the ‘Oxy statistic’: Love is still in the air for those who dare
+
+date: 2024-02-14, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/features/2024/02/14/hookup-culture-vs-the-oxy-statistic-love-is-still-in-the-air-for-those-who-dare-2/2911146">Hookup culture vs the &#8216;Oxy statistic&#8217;: Love is still in the air for those who dare</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/features/2024/02/14/hookup-culture-vs-the-oxy-statistic-love-is-still-in-the-air-for-those-who-dare-2/2911146">https://theoccidentalnews.com/features/2024/02/14/hookup-culture-vs-the-oxy-statistic-love-is-still-in-the-air-for-those-who-dare-2/2911146</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/features/2024/02/14/hookup-culture-vs-the-oxy-statistic-love-is-still-in-the-air-for-those-who-dare-2/2911146">Save to Pocket</a>
+</span>
+
+---
+
+## DWA and Politics departments host “How Do We Talk About Palestine and Israel?” event
+
+date: 2024-02-14, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The Diplomacy and World Affairs (DWA) and Politics departments hosted a conversation titled “How Do We Talk About Palestine and Israel?” Feb. 6 as part of the &#8220;Contextualizing Israel/Palestine Series&#8221; of events taking place this semester. About 200 students and faculty members filled up Choi Auditorium, leading many to sit in the aisles on the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/02/14/dwa-and-politics-departments-host-how-do-we-talk-about-palestine-and-israel-event/2911084">DWA and Politics departments host &#8220;How Do We Talk About Palestine and Israel?&#8221; event</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/news/2024/02/14/dwa-and-politics-departments-host-how-do-we-talk-about-palestine-and-israel-event/2911084">https://theoccidentalnews.com/news/2024/02/14/dwa-and-politics-departments-host-how-do-we-talk-about-palestine-and-israel-event/2911084</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/news/2024/02/14/dwa-and-politics-departments-host-how-do-we-talk-about-palestine-and-israel-event/2911084">Save to Pocket</a>
+</span>
+
+---
+
+## Campus withstands heavy rainfall, despite anticipated threat
+
+date: 2024-02-14, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Dean of Students Rob Flot sent out an email Jan. 30 to Occidental students, faculty and staff on behalf of the college&#8217;s Emergency Response Team warning community members of the impending rain. Some concerns entailed flooding, power outages and storm debris. In the email, Flot said that the Emergency Response Team had a plan in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/02/14/campus-withstands-heavy-rainfall-despite-anticipated-threat/2911087">Campus withstands heavy rainfall, despite anticipated threat</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/news/2024/02/14/campus-withstands-heavy-rainfall-despite-anticipated-threat/2911087">https://theoccidentalnews.com/news/2024/02/14/campus-withstands-heavy-rainfall-despite-anticipated-threat/2911087</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/news/2024/02/14/campus-withstands-heavy-rainfall-despite-anticipated-threat/2911087">Save to Pocket</a>
+</span>
+
+---
+
+## It is Already Over
+
+date: 2024-02-14, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>&#160; Red Light It was right there. Small and fragile but the light existed— maybe only for a moment. Shining on my bare chest. Tattoos with that tinge of red. Dog tags hanging from my neck. &#160; The underworld. The rest of existence: left to darkness. I learned a lot about war out in the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/media/2024/02/14/it-is-already-over/2911086">It is Already Over</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/media/2024/02/14/it-is-already-over/2911086">https://theoccidentalnews.com/media/2024/02/14/it-is-already-over/2911086</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/media/2024/02/14/it-is-already-over/2911086">Save to Pocket</a>
+</span>
+
+---
+
+## Lowriding made legal: NELA keeps it low and slow
+
+date: 2024-02-14, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>In Oct. 2023, Governor Gavin Newsom signed a bill prohibiting bans on lowrider cars and anti-cruising ordinances. This law went into effect Jan. 1, 2024 in California. Lowriders, customized cars with lowered suspension often used for cruising, are strongly connected to Mexican American culture in East LA. In the 1980’s, cruising was banned in some [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/neighborhood-reporting-project/2024/02/14/lowriding-made-legal-nela-keeps-it-low-and-slow/2911102">Lowriding made legal: NELA keeps it low and slow</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/neighborhood-reporting-project/2024/02/14/lowriding-made-legal-nela-keeps-it-low-and-slow/2911102">https://theoccidentalnews.com/neighborhood-reporting-project/2024/02/14/lowriding-made-legal-nela-keeps-it-low-and-slow/2911102</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/neighborhood-reporting-project/2024/02/14/lowriding-made-legal-nela-keeps-it-low-and-slow/2911102">Save to Pocket</a>
+</span>
+
+---
+
+## Better late than never: transfer athletes find a home team at Oxy
+
+date: 2024-02-14, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Transferring schools halfway through one’s athletic and academic career is not how most high school athletes predict their college experience to look like. But according to Oury Diane (junior), one of the newest recruits to the men’s soccer team, making the switch from being a winger at Connecticut College to forward here at Occidental this [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/02/14/better-late-than-never-transfer-athletes-find-a-home-team-at-oxy/2911078">Better late than never: transfer athletes find a home team at Oxy</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/sports/2024/02/14/better-late-than-never-transfer-athletes-find-a-home-team-at-oxy/2911078">https://theoccidentalnews.com/sports/2024/02/14/better-late-than-never-transfer-athletes-find-a-home-team-at-oxy/2911078</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/sports/2024/02/14/better-late-than-never-transfer-athletes-find-a-home-team-at-oxy/2911078">Save to Pocket</a>
+</span>
+
+---
+
+## Metro Micro: The Underutilized Gem of LA Public Transport
+
+date: 2024-02-14, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>A few days ago, just after 2 p.m., I stood beneath a stop sign at the edge of the Occidental campus, reading a book. It was scorching out, but I didn’t mind. I knew that in less than 10 minutes, an air-conditioned van would pick me up and carry me to the pharmacy almost a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/neighborhood-reporting-project/2024/02/14/metro-micro-the-underutilized-gem-of-la-public-transport/2911104">Metro Micro: The Underutilized Gem of LA Public Transport</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/neighborhood-reporting-project/2024/02/14/metro-micro-the-underutilized-gem-of-la-public-transport/2911104">https://theoccidentalnews.com/neighborhood-reporting-project/2024/02/14/metro-micro-the-underutilized-gem-of-la-public-transport/2911104</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/neighborhood-reporting-project/2024/02/14/metro-micro-the-underutilized-gem-of-la-public-transport/2911104">Save to Pocket</a>
+</span>
+
+---
+
+## Mold found in Food Justice House forces residents to relocate
+
+date: 2024-02-14, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>This Spring semester, Occidental&#8217;s campus Facilities Management confirmed to Sadie Spletzer (sophomore) and their seven housemates that Food Justice House, a themed living community, was subject to a black mold outbreak. The outbreak has resulted in a temporary relocation of the residents to various vacant dorms across campus. According to Spletzer, respiratory symptoms such as [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/02/14/mold-found-in-food-justice-house-forces-residents-to-relocate/2911089">Mold found in Food Justice House forces residents to relocate</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/news/2024/02/14/mold-found-in-food-justice-house-forces-residents-to-relocate/2911089">https://theoccidentalnews.com/news/2024/02/14/mold-found-in-food-justice-house-forces-residents-to-relocate/2911089</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/news/2024/02/14/mold-found-in-food-justice-house-forces-residents-to-relocate/2911089">Save to Pocket</a>
+</span>
+
+---
+
+## Setting Aside Local Control, Legislation Would Mandate How To Teach Reading In California
+
+date: 2024-02-14, updated: 2024-02-15, from: The LAist
+
+Pointing to dismal test scores, veteran lawmaker and a coalition of advocacy groups introduce AB 2222.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/california-legislation-would-mandate-how-to-teach-reading">https://laist.com/news/education/california-legislation-would-mandate-how-to-teach-reading</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/california-legislation-would-mandate-how-to-teach-reading">Save to Pocket</a>
+</span>
+
+---
+
+## Students Panic After New Financial Aid Application Blocks Them: ‘I Don’t Know Who To Call’
+
+date: 2024-02-14, updated: 2024-02-15, from: The LAist
+
+When parents without Social Security numbers try to fill out the aid application on behalf of their children, they are blocked from continuing.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/fasfa-application-blocks-students">https://laist.com/news/education/fasfa-application-blocks-students</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/fasfa-application-blocks-students">Save to Pocket</a>
+</span>
+
+---
+
+## California Rain Will Cause More Valley Fever
+
+date: 2024-02-14, updated: 2024-02-15, from: The LAist
+
+State health officials are warning doctors to be on the lookout.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/health/california-rain-will-cause-more-valley-fever">https://laist.com/news/health/california-rain-will-cause-more-valley-fever</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/health/california-rain-will-cause-more-valley-fever">Save to Pocket</a>
+</span>
+
+---
+
+## USG candidates debate for student votes
+
+date: 2024-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Candidates differed on issues such as Greek life and student engagement.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/14/usg-candidates-debate-for-student-votes/">USG candidates debate for student votes</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/14/usg-candidates-debate-for-student-votes/">https://dailytrojan.com/2024/02/14/usg-candidates-debate-for-student-votes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/14/usg-candidates-debate-for-student-votes/">Save to Pocket</a>
+</span>
+
+---
+
+## Club seeks to create new telemedicine platform
+
+date: 2024-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Love and Time’s mission caters to law enforcement, mothers and at-risk youth.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/14/club-seeks-to-create-new-telemedicine-platform/">Club seeks to create new telemedicine platform</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/14/club-seeks-to-create-new-telemedicine-platform/">https://dailytrojan.com/2024/02/14/club-seeks-to-create-new-telemedicine-platform/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/14/club-seeks-to-create-new-telemedicine-platform/">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – February 14, 2024
+
+date: 2024-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/14/classifieds-february-14-2024/">Classifieds &#8211; February 14, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/14/classifieds-february-14-2024/">https://dailytrojan.com/2024/02/14/classifieds-february-14-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/14/classifieds-february-14-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## This Valentine’s Day, heart sees heart
+
+date: 2024-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>How does creativity drastically change with age and expectation, and how can we combat such narrow stigmas to open possibilities for fearless exploration?</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/14/this-valentines-day-heart-sees-heart/">This Valentine’s Day, heart sees heart</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/14/this-valentines-day-heart-sees-heart/">https://dailytrojan.com/2024/02/14/this-valentines-day-heart-sees-heart/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/14/this-valentines-day-heart-sees-heart/">Save to Pocket</a>
+</span>
+
+---
+
+## The sticky situation with USC’s most infamous trees
+
+date: 2024-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>It’s not love that’s in the air but the aromas of the Callery pear.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/14/the-sticky-situation-with-uscs-most-infamous-trees/">The sticky situation with USC’s most infamous trees</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/14/the-sticky-situation-with-uscs-most-infamous-trees/">https://dailytrojan.com/2024/02/14/the-sticky-situation-with-uscs-most-infamous-trees/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/14/the-sticky-situation-with-uscs-most-infamous-trees/">Save to Pocket</a>
+</span>
+
+---
+
+## My Super Bowl LVIII takes
+
+date: 2024-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The slugfest between the 49ers and the Chiefs was an all-timer.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/14/my-super-bowl-lviii-takes/">My Super Bowl LVIII takes</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/14/my-super-bowl-lviii-takes/">https://dailytrojan.com/2024/02/14/my-super-bowl-lviii-takes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/14/my-super-bowl-lviii-takes/">Save to Pocket</a>
+</span>
+
+---
+
+## America Ferrera inspires USC’s next generation of multi-hyphenates
+
+date: 2024-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojan alum spoke to a crowd about her love of storytelling and activism.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/14/america-ferrera-inspires-uscs-next-generation-of-multi-hyphenates/">America Ferrera inspires USC’s next generation of multi-hyphenates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/14/america-ferrera-inspires-uscs-next-generation-of-multi-hyphenates/">https://dailytrojan.com/2024/02/14/america-ferrera-inspires-uscs-next-generation-of-multi-hyphenates/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/14/america-ferrera-inspires-uscs-next-generation-of-multi-hyphenates/">Save to Pocket</a>
+</span>
+
+---
+
+## Let’s celebrate the many ways love can look
+
+date: 2024-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As an asexual man, I’ve always felt confused by my feelings — but now, I feel free. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/14/lets-celebrate-the-many-ways-love-can-look/">Let’s celebrate the many ways love can look</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/14/lets-celebrate-the-many-ways-love-can-look/">https://dailytrojan.com/2024/02/14/lets-celebrate-the-many-ways-love-can-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/14/lets-celebrate-the-many-ways-love-can-look/">Save to Pocket</a>
+</span>
+
+---
+
+## Men’s basketball seeks much-needed win against Utah
+
+date: 2024-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC looks to salvage its season after falling back to last place in the Pac-12.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/14/mens-basketball-seeks-much-needed-win-against-utah/">Men’s basketball seeks much-needed win against Utah</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/14/mens-basketball-seeks-much-needed-win-against-utah/">https://dailytrojan.com/2024/02/14/mens-basketball-seeks-much-needed-win-against-utah/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/14/mens-basketball-seeks-much-needed-win-against-utah/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s basketball beats Arizona for fourth-straight win
+
+date: 2024-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans started slow, but an electric second half propelled them to a victory.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/14/womens-basketball-wins-fourth-straight-over-arizona/">Women’s basketball beats Arizona for fourth-straight win </a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/14/womens-basketball-wins-fourth-straight-over-arizona/">https://dailytrojan.com/2024/02/14/womens-basketball-wins-fourth-straight-over-arizona/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/14/womens-basketball-wins-fourth-straight-over-arizona/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA Health’s psychosocial clinic tailors care to Spanish-speaking patients
+
+date: 2024-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+On her days off, UCLA psychiatrist Jocelyn Meza heads to markets in West Los Angeles with a stack of flyers advertising the free bilingual depression support group she leads.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/13/ucla-healths-psychosocial-clinic-tailors-care-to-spanish-speaking-patients/">https://dailybruin.com/2024/02/13/ucla-healths-psychosocial-clinic-tailors-care-to-spanish-speaking-patients/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/13/ucla-healths-psychosocial-clinic-tailors-care-to-spanish-speaking-patients/">Save to Pocket</a>
+</span>
+
+---
+
+## Black queer students share experiences and advocate for greater visibility at LMU
+
+date: 2024-02-14, from: Laloyolan (LMU Student Newspaper)
+
+Students came together on Thursday, Feb. 8 at the Black Queer Student Experience Forum to share their stories and advocate for greater inclusivity in the LMU community as part of the Loyolan's First Amendment Week.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/campus_news/black-queer-students-share-experiences-and-advocate-for-greater-visibility-at-lmu/article_b15e5aa2-3eed-56f5-94bb-0f5e206d7088.html">https://www.laloyolan.com/news/campus_news/black-queer-students-share-experiences-and-advocate-for-greater-visibility-at-lmu/article_b15e5aa2-3eed-56f5-94bb-0f5e206d7088.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/campus_news/black-queer-students-share-experiences-and-advocate-for-greater-visibility-at-lmu/article_b15e5aa2-3eed-56f5-94bb-0f5e206d7088.html">Save to Pocket</a>
+</span>
+
+---
+
+## Public Democracy LA discusses the significance and need for citizens’ assemblies
+
+date: 2024-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Public Democracy Los Angeles, held a virtual meeting Tuesday to address the importance of making citizens&#8217; assemblies in the city. 
+A citizen&#8217;s assembly works to represent the multicultural city of LA through a lottery-selected deliberation where residents take up the ability to decide policy recommendations for city problems, said Micheal Draskovic, a co-host of the event from Public Democracy LA, during the meeting.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/13/public-democracy-la-discusses-the-significance-and-need-for-citizens-assemblies/">https://dailybruin.com/2024/02/13/public-democracy-la-discusses-the-significance-and-need-for-citizens-assemblies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/13/public-democracy-la-discusses-the-significance-and-need-for-citizens-assemblies/">Save to Pocket</a>
+</span>
+
+---
+
+## The Promise Armenian Institute hosts event to raise awareness for destroyed art
+
+date: 2024-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+This post was updated Feb. 13 at 10:16 p.m.
+Students and faculty raised awareness for art stolen and destroyed during the Armenian genocide at a Saturday event hosted by the Promise Armenian Institute at UCLA.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/13/the-promise-armenian-institute-hosts-event-to-raise-awareness-for-destroyed-art/">https://dailybruin.com/2024/02/13/the-promise-armenian-institute-hosts-event-to-raise-awareness-for-destroyed-art/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/13/the-promise-armenian-institute-hosts-event-to-raise-awareness-for-destroyed-art/">Save to Pocket</a>
+</span>
+
+---
+
+## Back to school in the new year
+
+date: 2024-02-14, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The first day of the spring semester was off to a rainy start at Pierce College on Monday, Feb. 5, 2024. Brahmas began their semester by</p>
+<p>The post <a href="https://theroundupnews.com/2024/02/13/back-to-school-in-the-new-year/">Back to school in the new year</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/02/13/back-to-school-in-the-new-year/?utm_source=rss&utm_medium=rss&utm_campaign=back-to-school-in-the-new-year">https://theroundupnews.com/2024/02/13/back-to-school-in-the-new-year/?utm_source=rss&utm_medium=rss&utm_campaign=back-to-school-in-the-new-year</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/02/13/back-to-school-in-the-new-year/?utm_source=rss&utm_medium=rss&utm_campaign=back-to-school-in-the-new-year">Save to Pocket</a>
+</span>
+
+---
+
+## Opinion: Amidst Valentine’s Day festivities, platonic love should be equally celebrated
+
+date: 2024-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+This post was updated Feb. 13 at 11:02 p.m.
+Los Angeles isn’t exactly known for having seasons.
+Besides the rainstorms of early February, I can’t say I’ve had to reach for anything more than a sweater, even in the midst of winter.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/13/opinion-amidst-valentines-day-festivities-platonic-love-should-be-equally-celebrated/">https://dailybruin.com/2024/02/13/opinion-amidst-valentines-day-festivities-platonic-love-should-be-equally-celebrated/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/13/opinion-amidst-valentines-day-festivities-platonic-love-should-be-equally-celebrated/">Save to Pocket</a>
+</span>
+
+---
+
+## House impeaches Homeland Security Secretary Alejandro Mayorkas
+
+date: 2024-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+This post was updated Feb. 13 at 10:07 p.m.
+The Republican-led House of Representatives impeached Secretary of Homeland Security Alejandro Mayorkas on Tuesday after failing to do so last week.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/13/house-impeaches-homeland-security-secretary-alejandro-mayorkas/">https://dailybruin.com/2024/02/13/house-impeaches-homeland-security-secretary-alejandro-mayorkas/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/13/house-impeaches-homeland-security-secretary-alejandro-mayorkas/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA student, activist and McNair Research Scholar Luis Jimenez dies at 33
+
+date: 2024-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 14 at 6:01 p.m.</em>
+Luis Jimenez, a Chicana and Chicano studies and sociology student, activist and McNair Research Scholar, died Dec.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/13/ucla-student-activist-and-mcnair-research-scholar-luis-jimenez-dies-at-33/">https://dailybruin.com/2024/02/13/ucla-student-activist-and-mcnair-research-scholar-luis-jimenez-dies-at-33/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/13/ucla-student-activist-and-mcnair-research-scholar-luis-jimenez-dies-at-33/">Save to Pocket</a>
+</span>
+
+---
+
+## North Westwood Neighborhood Council recap – Feb. 7
+
+date: 2024-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The North Westwood Neighborhood Council, the official neighborhood council representing UCLA and Westwood Village to the Los Angeles City Council met Wednesday.
+NWWNC meetings are held on the first Wednesday of every month at UCLA&#8217;s Weyburn Terrace and are open to the public.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/13/north-westwood-neighborhood-council-recap-feb-7-2/">https://dailybruin.com/2024/02/13/north-westwood-neighborhood-council-recap-feb-7-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/13/north-westwood-neighborhood-council-recap-feb-7-2/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 USG presidential debate — as it happened
+
+date: 2024-02-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The four presidential-vice presidential tickets vying for 2024-2025 Undergraduate Student Government leadership discussed their platforms Tuesday night at The Forum. Look back at our live coverage.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/13/2024-usg-presidential-debate-live-updates/">2024 USG presidential debate — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/13/2024-usg-presidential-debate-live-updates/">https://dailytrojan.com/2024/02/13/2024-usg-presidential-debate-live-updates/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/13/2024-usg-presidential-debate-live-updates/">Save to Pocket</a>
+</span>
+
+---
+
+## DeShaun Foster, Martin Jarmond discuss future of UCLA football in press conference
+
+date: 2024-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+This post was updated Feb. 13 at 9:01 p.m.
+Athletic director Martin Jarmond took to the stage of the Pavilion Club on Tuesday to unveil the newest leader of UCLA football.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/13/deshaun-foster-martin-jarmond-discuss-future-of-ucla-football-in-press-conference/">https://dailybruin.com/2024/02/13/deshaun-foster-martin-jarmond-discuss-future-of-ucla-football-in-press-conference/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/13/deshaun-foster-martin-jarmond-discuss-future-of-ucla-football-in-press-conference/">Save to Pocket</a>
+</span>
+
+---
+
+## Mid-season rebound for UCLA men’s basketball mirrors 2019-2020 campaign
+
+date: 2024-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+This post was updated Feb. 13 at 9:16 p.m.
+Coach Mick Cronin embarked on his first season with UCLA over four years ago.
+Cronin commenced the 2019-2020 campaign with four regular season home wins, after which his young team went 1-2 at the Maui Invitational.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/13/mid-season-rebound-for-ucla-mens-basketball-mirrors-2019-2020-campaign/">https://dailybruin.com/2024/02/13/mid-season-rebound-for-ucla-mens-basketball-mirrors-2019-2020-campaign/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/13/mid-season-rebound-for-ucla-mens-basketball-mirrors-2019-2020-campaign/">Save to Pocket</a>
+</span>
+
+---
+
+## Avant-garde exhibit ‘Only the Young’ explores artistic rebellion of Korea’s youth
+
+date: 2024-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Whether half a century ago or today, the spirit of youth lives on in the Hammer Museum&#8217;s latest exhibit.
+&#8220;Only the Young: Experimental Art in Korea, 1960s&#8211;1970s&#8221; has made its way from Seoul&#8217;s National Museum of Modern and Contemporary Art to Manhattan&#8217;s Solomon R.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/13/avant-garde-exhibit-only-the-young-explores-artistic-rebellion-of-koreas-youth/">https://dailybruin.com/2024/02/13/avant-garde-exhibit-only-the-young-explores-artistic-rebellion-of-koreas-youth/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/13/avant-garde-exhibit-only-the-young-explores-artistic-rebellion-of-koreas-youth/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s volleyball matches up with Pepperdine this Valentine’s Day
+
+date: 2024-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Love, consumerism and volleyball – the tenants of a productive Valentine’s Day.
+At least, that’s the case for outside hitter/opposite Cole Ketrzynski and No. 11 Pepperdine (9-2) as they arrive in Westwood to meet Ketrzynski’s alma mater in No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/13/ucla-mens-volleyball-matches-up-with-pepperdine-this-valentines-day/">https://dailybruin.com/2024/02/13/ucla-mens-volleyball-matches-up-with-pepperdine-this-valentines-day/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/13/ucla-mens-volleyball-matches-up-with-pepperdine-this-valentines-day/">Save to Pocket</a>
+</span>
+
+---
+
+## The Student Perspective: CFA Strike
+
+date: 2024-02-13, from: The Sundail (CSUN Student Newspaper)
+
+Faculty members from 23 CSU campuses went on strike Jan. 22, 2024. Despite the weather, Matadors and other members of the community showed their support alongside CFA.
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178306/multimedia/listen/the-student-perspective-cfa-strike/">https://sundial.csun.edu/178306/multimedia/listen/the-student-perspective-cfa-strike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178306/multimedia/listen/the-student-perspective-cfa-strike/">Save to Pocket</a>
+</span>
+
+---
+
+## Celebrate the Legacies of Douglas Fairbanks Sr. and Thomas Ince at the Newhallywood Silent Film Festival
+
+date: 2024-02-13, from: City of Santa Clarita
+
+<p>CELEBRATE THE LEGACIES OF DOUGLAS FAIRBANKS SR. AND THOMAS INCE AT THE NEWHALLYWOOD SILENT FILM FESTIVAL A Celebration of the Silent Film Era Returns February 16-18 Transport yourself to the early days of silent cinema and explore some of the most iconic movies ever created at the 2024 Newhallywood Silent Film Festival. The City of [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/02/13/celebrate-the-legacies-of-douglas-fairbanks-sr-and-thomas-ince-at-the-newhallywood-silent-film-festival/">Celebrate the Legacies of Douglas Fairbanks Sr. and Thomas Ince at the Newhallywood Silent Film Festival</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2024/02/13/celebrate-the-legacies-of-douglas-fairbanks-sr-and-thomas-ince-at-the-newhallywood-silent-film-festival/">https://santaclarita.gov/blog/2024/02/13/celebrate-the-legacies-of-douglas-fairbanks-sr-and-thomas-ince-at-the-newhallywood-silent-film-festival/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/02/13/celebrate-the-legacies-of-douglas-fairbanks-sr-and-thomas-ince-at-the-newhallywood-silent-film-festival/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -160,6 +861,18 @@ Thomas, who attended UCLA from 1980 to 1984, previously served at the University
 
 ---
 
+## Professor Sarah Mitchell receives $300,000 research grant from the National Institute of General Medical Sciences
+
+date: 2024-02-13, from: Laloyolan (LMU Student Newspaper)
+
+Assistant professor of chemistry and biochemistry Sarah Mitchell, Ph.D., received a $300,000 research grant from the National Institute of General Medical Sciences for project titled "The Role of Inosine Monophosphate Dehydrogenase in mRNA Regulation: Identification of mRNAs Bound and Functional…
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/campus_news/professor-sarah-mitchell-receives-300-000-research-grant-from-the-national-institute-of-general-medical/article_39ec4ebc-cf10-5e9f-b434-5a013313b1af.html">https://www.laloyolan.com/news/campus_news/professor-sarah-mitchell-receives-300-000-research-grant-from-the-national-institute-of-general-medical/article_39ec4ebc-cf10-5e9f-b434-5a013313b1af.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/campus_news/professor-sarah-mitchell-receives-300-000-research-grant-from-the-national-institute-of-general-medical/article_39ec4ebc-cf10-5e9f-b434-5a013313b1af.html">Save to Pocket</a>
+</span>
+
+---
+
 ## Editorial: UCLA must prevent hate crimes, foster open environment for productive dialogue
 
 date: 2024-02-13, from: The Daily Bruin (UCLA Student Newspaper)
@@ -233,11 +946,11 @@ A new program aims to get felines into homes and away from unnecessary euthanasi
 
 ---
 
-## LAUSD Board To Vote On Charter School Location Restrictions
+## LAUSD Limits Charter School Placements On ‘Most Fragile’ Campuses
 
-date: 2024-02-13, updated: 2024-02-13, from: The LAist
+date: 2024-02-13, updated: 2024-02-14, from: The LAist
 
-The proposed policy is intended to ease yearslong tensions from forcing traditional public schools to share space and resources with charter schools.
+The policy is intended to ease yearslong tensions from forcing traditional public schools to share space and resources with charter schools.
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/education/lausd-charter-school-co-location-proposition-39-vote-february-2024">https://laist.com/news/education/lausd-charter-school-co-location-proposition-39-vote-february-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/lausd-charter-school-co-location-proposition-39-vote-february-2024">Save to Pocket</a>
@@ -326,7 +1039,7 @@ Just 10 days after the NFL poached their longtime assistant coach, the Bruins ar
 
 ## The Tangled History Of Residential Hotels In DTLA
 
-date: 2024-02-12, updated: 2024-02-12, from: The LAist
+date: 2024-02-12, updated: 2024-02-14, from: The LAist
 
 As Los Angeles boomed in the 20th century, more and more workers needed places to stay. Residential hotels sprung up — often offering bare bone rooms which still exist today.
 

@@ -1,11 +1,129 @@
 ---
 title: columns 2024.07
-updated: 2024-02-13 08:48:43
+updated: 2024-02-14 21:51:17
 ---
 
 # columns 2024.07
 
-(date: 2024-02-13 08:48:43)
+(date: 2024-02-14 21:51:17)
+
+---
+
+## Mark Zuckerberg on Vision Pro
+
+date: 2024-02-14, updated: 2024-02-14, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.instagram.com/reel/C3TkhmivNzt">https://www.instagram.com/reel/C3TkhmivNzt</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.instagram.com/reel/C3TkhmivNzt">Save to Pocket</a>
+</span>
+
+---
+
+## Upcoming Speaking Engagements
+
+date: 2024-02-14, updated: 2024-02-15, from: Bruce Schneier blog
+
+<p>This is a current list of where and when I am scheduled to speak:</p>
+<ul>
+<li>I’m speaking at the <a href="https://securityconference.org/en/msc-2024/">Munich Security Conference (MSC) 2024</a> in Munich, Germany, on Friday, February 16, 2024.</li>
+<li>I’m giving a keynote on “AI and Trust” at <a href="https://knightcolumbia.org/events/generative-ai-free-speech-public-discourse">Generative AI, Free Speech, &#38; Public Discourse</a>. The symposium will be held at Columbia University in New York City and online, at 3 PM ET on Tuesday, February 20, 2024.</li>
+<li>I’m speaking (remotely) on “<a href="https://events.iu.edu/hls/event/1332496-beyond-the-web-speaker-series-ai-trust-and-democracy">AI, Trust and Democracy</a>” at Indiana University in Bloomington, Indiana, USA, at noon ET on February 20, 2024. The talk is part of the 2023-2024 Beyond the Web Speaker Series, presented by The Ostrom Workshop and Hamilton Lugar School...</li></ul>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/upcoming-speaking-engagements-34.html">https://www.schneier.com/blog/archives/2024/02/upcoming-speaking-engagements-34.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/upcoming-speaking-engagements-34.html">Save to Pocket</a>
+</span>
+
+---
+
+## Improving the Cryptanalysis of Lattice-Based Public-Key Algorithms
+
+date: 2024-02-14, updated: 2024-02-13, from: Bruce Schneier blog
+
+<p>The winner of the Best Paper Award at Crypto this year was a <a href="https://link.springer.com/chapter/10.1007/978-3-031-38548-3_1">significant improvement</a> to lattice-based cryptanalysis.</p>
+<p>This is important, because a bunch of NIST&#8217;s <a href="https://csrc.nist.gov/Projects/Post-Quantum-Cryptography">post-quantum</a> <a href="https://www.nist.gov/news-events/news/2023/08/nist-standardize-encryption-algorithms-can-resist-attack-quantum-computers">options</a> base their security on lattice problems.</p>
+<p>I worry about standardizing on post-quantum algorithms too quickly. We are still learning a lot about the security of these systems, and this paper is an example of that learning.</p>
+<p>News <a href="https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/">story</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/improving-the-cryptanalysis-of-lattice-based-public-key-algorithms.html">https://www.schneier.com/blog/archives/2024/02/improving-the-cryptanalysis-of-lattice-based-public-key-algorithms.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/improving-the-cryptanalysis-of-lattice-based-public-key-algorithms.html">Save to Pocket</a>
+</span>
+
+---
+
+## Office Hours: A Valentine’s Day question about people in public life
+
+date: 2024-02-14, from: Robert Reich's blog
+
+Friends, There&#8217;s so much hate and nastiness in public life these days &#8212; by &#8220;public life,&#8221; I mean anyone who is known to the broad public, including politicians, celebrities, athletes, actors, writers, painters, and journalists &#8212; that it&#8217;s probably easy for you to come up with people in public life you detest. (My list would include Donald Trump, Vladimir Putin, Benjamin Netanyahu, Tucker Carlson, Laura Ingraham, and Kari Lake, for example.)
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/office-hours-a-valentines-day-question">https://robertreich.substack.com/p/office-hours-a-valentines-day-question</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/office-hours-a-valentines-day-question">Save to Pocket</a>
+</span>
+
+---
+
+## Wednesday 14 February, 2024
+
+date: 2024-02-14, from: John Naughton's online diary
+
+On the beach One of my grandsons on a Kerry beach on an Easter Sunday morning. Quote of the Day ”Unlimited tolerance must lead to the disappearance of tolerance. If we extend unlimited tolerance even to those who are intolerant, &#8230; <a href="https://memex.naughtons.org/wednesday-14-february-2024/39130/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/wednesday-14-february-2024/39130/">https://memex.naughtons.org/wednesday-14-february-2024/39130/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/wednesday-14-february-2024/39130/">Save to Pocket</a>
+</span>
+
+---
+
+## Children in Gaza: Why aren’t we stopping the deaths?
+
+date: 2024-02-13, from: Robert Reich's blog
+
+Friends, Late last night, Democratic Senator Chris Van Hollen gave a remarkable speech on the Senate floor, condemning the government of Benjamin Netanyahu for deliberately blocking aid to civilians in Gaza. Van Hollen said: &#8220;Kids in Gaza are now dying from the deliberate withholding of food. In addition to the horror of that news, one other thing is true: That is a war crime. It is a textbook war crime. And that makes those who orchestrate it war criminals. &#8230; Every one of them [officials at humanitarian relief organizations] has stated that their organizations have never experienced a humanitarian disaster as dire and terrible as the world is witnessing in Gaza.&#8221;
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/children-in-gaza-why-arent-we-stopping">https://robertreich.substack.com/p/children-in-gaza-why-arent-we-stopping</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/children-in-gaza-why-arent-we-stopping">Save to Pocket</a>
+</span>
+
+---
+
+## A Hacker’s Mind is Out in Paperback
+
+date: 2024-02-13, updated: 2024-02-13, from: Bruce Schneier blog
+
+<p>The paperback version of <a href="https://www.schneier.com/books/a-hackers-mind/"><i>A Hacker&#8217;s Mind</i></a> has just been published. It&#8217;s the same book, only a cheaper format.</p>
+<p>But&#8212;and this is the real reason I am posting this&#8212;Amazon has <a href="https://www.amazon.com/Hackers-Mind-Powerful-Societys-Rules/dp/0393866661/">significantly discounted</a> the hardcover to $15 to get rid of its stock. This is much cheaper than I am selling it for, and cheaper even than the paperback. So if you&#8217;ve been waiting for a price drop, this is your chance.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/a-hackers-mind-is-out-in-paperback.html">https://www.schneier.com/blog/archives/2024/02/a-hackers-mind-is-out-in-paperback.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/a-hackers-mind-is-out-in-paperback.html">Save to Pocket</a>
+</span>
+
+---
+
+## The Talk Show: ‘I‘m a Real-World Man’
+
+date: 2024-02-13, updated: 2024-02-14, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://daringfireball.net/thetalkshow/2024/02/13/ep-395">https://daringfireball.net/thetalkshow/2024/02/13/ep-395</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/thetalkshow/2024/02/13/ep-395">Save to Pocket</a>
+</span>
+
+---
+
+## [Sponsor] Nylas for Email and Calendar APIs
+
+date: 2024-02-13, updated: 2024-02-13, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://info.nylas.com/nylas-technical-demo.html?utm_source=daring-fireball&utm_medium=sponsoredemail&utm_campaign=FY24Q1-daringfireball-rssfeed&utm_content=2024-02-DSU">https://info.nylas.com/nylas-technical-demo.html?utm_source=daring-fireball&utm_medium=sponsoredemail&utm_campaign=FY24Q1-daringfireball-rssfeed&utm_content=2024-02-DSU</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://info.nylas.com/nylas-technical-demo.html?utm_source=daring-fireball&utm_medium=sponsoredemail&utm_campaign=FY24Q1-daringfireball-rssfeed&utm_content=2024-02-DSU">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +131,7 @@ updated: 2024-02-13 08:48:43
 
 date: 2024-02-13, from: David Rosenthal's blog
 
-In early December 2022 when I wrote skeptically about the economics of Bitcoin mining in <a href="https://blog.dshr.org/2022/12/foolish-lenders.html"><i>Foolish Lenders</i></a> the Bitcoin "price" was around $17K. It has now climbed 153% to around $43K and, below the fold I am still posting skeptically about the economics of mining.<br />
+In early December 2022 when I wrote skeptically about the economics of Bitcoin mining in <a href="https://blog.dshr.org/2022/12/foolish-lenders.html"><i>Foolish Lenders</i></a> the Bitcoin "price" was around $17K. It has now climbed 153% to around $43K and, below the fold, I am still posting skeptically about the economics of mining.<br />
 <span><a name='more'></a></span>
 <br />
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYIjjIeeerm-Zzz0z4uKi7-O4gmkaveLT2Wgg0hpDpm6yK_sxoG7fdLWniOb84aINDI2WDOegrlfrI8MB_YE56oCM5FqLWRU6aoaaGuHLuaqZBABOiNXW0Q4S3VmiT8vePMIfwIpAFiE1Fk4unMFV8ANOnw3N9cuxA94DxXVyJLsg1pNKexP88G5IhvZi7/s932/MinersHODLings.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="537" data-original-width="932" height="115" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYIjjIeeerm-Zzz0z4uKi7-O4gmkaveLT2Wgg0hpDpm6yK_sxoG7fdLWniOb84aINDI2WDOegrlfrI8MB_YE56oCM5FqLWRU6aoaaGuHLuaqZBABOiNXW0Q4S3VmiT8vePMIfwIpAFiE1Fk4unMFV8ANOnw3N9cuxA94DxXVyJLsg1pNKexP88G5IhvZi7/w200-h115/MinersHODLings.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.bloomberg.com/news/articles/2024-02-07/bitcoin-btc-price-outlook-clouded-by-falling-miner-reserves-before-halving">Source</a></td></tr></tbody></table>

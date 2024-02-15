@@ -1,11 +1,131 @@
 ---
 title: games 2024.07
-updated: 2024-02-13 08:48:43
+updated: 2024-02-14 21:51:17
 ---
 
 # games 2024.07
 
-(date: 2024-02-13 08:48:43)
+(date: 2024-02-14 21:51:17)
+
+---
+
+## The best Modern Warfare 3 guns to use in Season 2
+
+date: 2024-02-14, updated: 2024-02-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3">https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/modern-warfare-3-guides/23912779/best-weapons-guns-call-of-duty-mw3">Save to Pocket</a>
+</span>
+
+---
+
+## The five best early Stratagems in Helldivers 2
+
+date: 2024-02-14, updated: 2024-02-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/playstation/24072170/helldivers-2-best-stratagems">https://www.polygon.com/playstation/24072170/helldivers-2-best-stratagems</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/playstation/24072170/helldivers-2-best-stratagems">Save to Pocket</a>
+</span>
+
+---
+
+## Netflix’s Sixty Minutes is a hard-hitting action thriller with an immersive gimmick
+
+date: 2024-02-14, updated: 2024-02-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24065050/sixty-minutes-netflix-thriller-action-movie-watch">https://www.polygon.com/24065050/sixty-minutes-netflix-thriller-action-movie-watch</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24065050/sixty-minutes-netflix-thriller-action-movie-watch">Save to Pocket</a>
+</span>
+
+---
+
+## Here's where you can pick up a Lego Bouquet for your Valentine
+
+date: 2024-02-14, updated: 2024-02-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24072954/lego-flowers-roses-bouquet-valentines-day-deal-sale-where-to-buy">https://www.polygon.com/24072954/lego-flowers-roses-bouquet-valentines-day-deal-sale-where-to-buy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24072954/lego-flowers-roses-bouquet-valentines-day-deal-sale-where-to-buy">Save to Pocket</a>
+</span>
+
+---
+
+## Marvel’s Fantastic Four movie teases its fifth member, HERBIE
+
+date: 2024-02-14, updated: 2024-02-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24072946/fantastic-four-movie-robot-herbie-marvel">https://www.polygon.com/24072946/fantastic-four-movie-robot-herbie-marvel</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24072946/fantastic-four-movie-robot-herbie-marvel">Save to Pocket</a>
+</span>
+
+---
+
+## Best Nintendo Switch games for grown-ups
+
+date: 2024-02-14, updated: 2024-02-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/what-to-play/23960695/best-nintendo-switch-games-for-adults">https://www.polygon.com/what-to-play/23960695/best-nintendo-switch-games-for-adults</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/what-to-play/23960695/best-nintendo-switch-games-for-adults">Save to Pocket</a>
+</span>
+
+---
+
+## Let’s settle this: Who had the best relationship on Avatar: The Last Airbender?
+
+date: 2024-02-14, updated: 2024-02-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24068164/avatar-last-airbender-best-pairing-ship-relationship">https://www.polygon.com/24068164/avatar-last-airbender-best-pairing-ship-relationship</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24068164/avatar-last-airbender-best-pairing-ship-relationship">Save to Pocket</a>
+</span>
+
+---
+
+## The new Fantastic Four cast’s best roles and where to watch them
+
+date: 2024-02-14, updated: 2024-02-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/what-to-watch/24072933/who-is-fantastic-four-cast-best-movies-shows-watch-stream">https://www.polygon.com/what-to-watch/24072933/who-is-fantastic-four-cast-best-movies-shows-watch-stream</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/what-to-watch/24072933/who-is-fantastic-four-cast-best-movies-shows-watch-stream">Save to Pocket</a>
+</span>
+
+---
+
+## The Outer Worlds, Assassin’s Creed Valhalla lead PlayStation Plus’ February lineup
+
+date: 2024-02-14, updated: 2024-02-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24072956/playstation-plus-february-2024-monthly-games">https://www.polygon.com/24072956/playstation-plus-february-2024-monthly-games</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24072956/playstation-plus-february-2024-monthly-games">Save to Pocket</a>
+</span>
+
+---
+
+## Warpath is a new smol-scale miniatures game from the team behind Kings of War
+
+date: 2024-02-14, updated: 2024-02-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/tabletop-games/24072163/warpath-mantic-epic-40k-kickstarter">https://www.polygon.com/tabletop-games/24072163/warpath-mantic-epic-40k-kickstarter</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/tabletop-games/24072163/warpath-mantic-epic-40k-kickstarter">Save to Pocket</a>
+</span>
 
 ---
 

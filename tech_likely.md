@@ -1,11 +1,1131 @@
 ---
 title: tech likely 2024.07
-updated: 2024-02-13 08:48:43
+updated: 2024-02-14 21:51:17
 ---
 
 # tech likely 2024.07
 
-(date: 2024-02-13 08:48:43)
+(date: 2024-02-14 21:51:17)
+
+---
+
+## Apple Pushes Back On Right To Repair Bill Due To Parts Pairing
+
+date: 2024-02-15, from: Tilde.news
+
+<p><a href="https://tilde.news/s/ye28ez/apple_pushes_back_on_right_repair_bill_due">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://hackaday.com/2024/02/14/apple-pushes-back-on-right-to-repair-bill-due-to-parts-pairing/">https://hackaday.com/2024/02/14/apple-pushes-back-on-right-to-repair-bill-due-to-parts-pairing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://hackaday.com/2024/02/14/apple-pushes-back-on-right-to-repair-bill-due-to-parts-pairing/">Save to Pocket</a>
+</span>
+
+---
+
+## Updating Microsoft Secure Boot keys
+
+date: 2024-02-15, from: OS News
+
+Microsoft, in collaboration with our ecosystem partners, is preparing to roll out replacement certificates that’ll set new Unified Extensible Firmware Interface (UEFI) Certificate Authorities (CAs) trust anchors in Secure Boot for the future. Look out for Secure Boot database updates rolling out in phases to add trust for the new database (DB) and Key Exchange Key (KEK) certificates. This new DB update is available as an optional servicing update for all Secure Boot enabled devices from February 13, 2024. ↫ SochiOgbuanya This update will replace the Windows 8-era certificates, set to expire in 2026, with new ones.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138591/updating-microsoft-secure-boot-keys/">https://www.osnews.com/story/138591/updating-microsoft-secure-boot-keys/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138591/updating-microsoft-secure-boot-keys/">Save to Pocket</a>
+</span>
+
+---
+
+## The text file that runs the internet
+
+date: 2024-02-15, from: OS News
+
+The robots.txt file governs a give and take; AI feels to many like all take and no give. But there’s now so much money in AI, and the technological state of the art is changing so fast that many site owners can’t keep up. And the fundamental agreement behind robots.txt, and the web as a whole — which for so long amounted to “everybody just be cool” — may not be able to keep up either. ↫ David Pierce for The Verge Another thing &#8220;AI&#8221; does not respect.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138589/the-text-file-that-runs-the-internet/">https://www.osnews.com/story/138589/the-text-file-that-runs-the-internet/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138589/the-text-file-that-runs-the-internet/">Save to Pocket</a>
+</span>
+
+---
+
+## Virtual SoundBlaster for HDA
+
+date: 2024-02-15, from: FreeDOS News
+
+<div class="markdown_content"><p>VSBHDA provides SoundBlaster emulation for HDA (and AC97/SBLive). It is Japheth's fork of crazii's SBEMU driver. This one works with an unmodified HDPMI32i, making it compatible with HX. VSBHDA supports HDA (Intel's High Definition Audio), Intel ICH / nForce, VIA VT82C686, VT8233/35/37, and VIA VT82C686, VT8233/35/37. It emulates SoundBlaster 1.0, 2.0, Pro, Pro2, 16 in 8-bit, 16-bit, mono, stereo, and high-speed  modes. <a class="" href="https://github.com/Baron-von-Riedesel/VSBHDA/releases/tag/v1.1" rel="nofollow">Version 1.1</a> is now available from <a class="" href="https://github.com/Baron-von-Riedesel/VSBHDA" rel="nofollow">VSBHDA on GitHub</a>.</p></div>
+
+<span class="feed-item-link">
+<a href="https://sourceforge.net/p/freedos/news/2024/02/virtual-soundblaster-for-hda/">https://sourceforge.net/p/freedos/news/2024/02/virtual-soundblaster-for-hda/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sourceforge.net/p/freedos/news/2024/02/virtual-soundblaster-for-hda/">Save to Pocket</a>
+</span>
+
+---
+
+## Updated Debug/X
+
+date: 2024-02-15, from: FreeDOS News
+
+<div class="markdown_content"><p>Debug/X is a package of debuggers by Japheth, and includes Debug (like MS-DOS DEBUG), DebugX (an extended version), and additional variants like DebugXv, DebugXg, DebugB or DebugR that are useful in certain cases. Japheth recently released a new Debug/X collection; version 2.02 fixes <code>S</code> command (position display was corrupted in v2.00-v2.01). You can download the new version at <a class="" href="https://github.com/Baron-von-Riedesel/DOS-debug/releases/tag/v2.02" rel="nofollow">Debug/X v2.02</a> or get the source code from the <span>[Debug/X GitHub]</span>https://github.com/Baron-von-Riedesel/DOS-debug).</p></div>
+
+<span class="feed-item-link">
+<a href="https://sourceforge.net/p/freedos/news/2024/02/updated-debugx/">https://sourceforge.net/p/freedos/news/2024/02/updated-debugx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sourceforge.net/p/freedos/news/2024/02/updated-debugx/">Save to Pocket</a>
+</span>
+
+---
+
+## JEMM 5.84
+
+date: 2024-02-15, from: FreeDOS News
+
+<div class="markdown_content"><p>JEMM is an "Expanded Memory Manager" (EMM) based on EMM386. Japheth updated JEMM with a few fixes: + Simulate_IO() no longer calls trap handler + int 67h, ax=5B01h will return error code A3h if checksum invalid + QPIEMU: new JLM that partly implements QEMM's API + JEMMDBG: removed from binary package. You can find it at the <a class="" href="https://github.com/Baron-von-Riedesel/Jemm" rel="nofollow">JEMM GitHub</a>, or more directly from the <a class="" href="https://github.com/Baron-von-Riedesel/Jemm/releases/tag/v5.84" rel="nofollow">JEMM 5.84 release</a>.</p></div>
+
+<span class="feed-item-link">
+<a href="https://sourceforge.net/p/freedos/news/2024/02/jemm-584/">https://sourceforge.net/p/freedos/news/2024/02/jemm-584/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sourceforge.net/p/freedos/news/2024/02/jemm-584/">Save to Pocket</a>
+</span>
+
+---
+
+## Programming the SunFounder GalaxyRVR Mars Rover
+
+date: 2024-02-14, from: Stephen Smith's blog
+
+Introduction Last time, we gave our initial review of the SunFounder GalaxyRVR Mars Rover, this time we’ll look at how to program it. Unlike SunFounder’s PiCar or PiDog which are powered by Raspberry Pis, the GalaxyRVR has an Arduino Uno as its brain. This means writing the program in Arduino C rather than Python. It [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://smist08.wordpress.com/2024/02/14/programming-the-sunfounder-galaxyrvr-mars-rover/">https://smist08.wordpress.com/2024/02/14/programming-the-sunfounder-galaxyrvr-mars-rover/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://smist08.wordpress.com/2024/02/14/programming-the-sunfounder-galaxyrvr-mars-rover/">Save to Pocket</a>
+</span>
+
+---
+
+## The Marshall Star for February 14, 2024
+
+date: 2024-02-14, from: NASA breaking news
+
+Marshall Chief Scientist Provides Valuable Insight into NASA Moonquake Study By Jonathan Deal The Moon holds clues to the evolution of Earth, the planets, and the Sun, and a new NASA-funded study is helping scientists better understand some of the mysteries beneath the surface of our nearest cosmic neighbor. The co-author of that study is [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-february-14-2024/">https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-february-14-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-february-14-2024/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-14, from: Miguel de Icaza Mastondon feed)
+
+<p>Godot on iPad, part 6: It&#39;s time for some Menu Game Theory.</p><p><a href="https://blog.la-terminal.net/its-time-for-some-menu-game-theory/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/its-time-</span><span class="invisible">for-some-menu-game-theory/</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111932255969332873">https://mastodon.social/@Migueldeicaza/111932255969332873</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111932255969332873">Save to Pocket</a>
+</span>
+
+---
+
+## Flame Burns Out on NASA’s Long-Running Spacecraft Fire Experiment
+
+date: 2024-02-14, from: NASA breaking news
+
+NASA recently concluded the final mission of its Spacecraft Fire Safety Experiment, or Saffire, putting a blazing end to an eight-year series of investigations that provided insights into fire’s behavior in space. The final experiment, Saffire-VI, launched to the International Space Station in August 2023 and concluded its mission on Jan. 9, when the Northrop [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/glenn/flame-burns-out-on-nasas-long-running-spacecraft-fire-experiment/">https://www.nasa.gov/centers-and-facilities/glenn/flame-burns-out-on-nasas-long-running-spacecraft-fire-experiment/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/glenn/flame-burns-out-on-nasas-long-running-spacecraft-fire-experiment/">Save to Pocket</a>
+</span>
+
+---
+
+##  Cabel Sasser bought some acetate records recorded by a jazz band loosely... 
+
+date: 2024-02-14, updated: 2024-02-14, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043976-cabel-sasser-bought-some-">https://kottke.org/24/02/0043976-cabel-sasser-bought-some-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043976-cabel-sasser-bought-some-">Save to Pocket</a>
+</span>
+
+---
+
+##  Andy Weir&#8217;s The Martian was released in bookstores ten years ago. To... 
+
+date: 2024-02-14, updated: 2024-02-14, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043975-andy-weirs-the-martian-wa">https://kottke.org/24/02/0043975-andy-weirs-the-martian-wa</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043975-andy-weirs-the-martian-wa">Save to Pocket</a>
+</span>
+
+---
+
+## From Mac OS X 10.2 to macOS 10.15 – pt 2
+
+date: 2024-02-14, from: Tilde.news
+
+<p><a href="https://tilde.news/s/qq0bxd/from_mac_os_x_10_2_macos_10_15_pt_2">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.geeklan.co.uk/?p=3307">https://www.geeklan.co.uk/?p=3307</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.geeklan.co.uk/?p=3307">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-14, from: Miguel de Icaza Mastondon feed)
+
+<p>For those of you that don’t believe me that my thermostat is playing back music:</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111931743778809179">https://mastodon.social/@Migueldeicaza/111931743778809179</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111931743778809179">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-14, from: Miguel de Icaza Mastondon feed)
+
+<p>On my quest to drop the top-level Godot menu and replace it with native Menus, the menu on the left, has been replace with the menu on the right.</p><p>New Scene incorporates both New Scene and New Inherited Scene in one UI.  And Open handles all four cases of opening things (three quick-opens and one file open).</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111931717367397647">https://mastodon.social/@Migueldeicaza/111931717367397647</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111931717367397647">Save to Pocket</a>
+</span>
+
+---
+
+##  The founder of Bob&#8217;s Red Mill grain company sounds like an interesting... 
+
+date: 2024-02-14, updated: 2024-02-14, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043973-the-founder-of-bobs-red">https://kottke.org/24/02/0043973-the-founder-of-bobs-red</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043973-the-founder-of-bobs-red">Save to Pocket</a>
+</span>
+
+---
+
+## Swift Collections 1.1
+
+date: 2024-02-14, from: Michael Tsai
+
+Karoy Lorentey (Mastodon): This feature release adds a number of new data structure implementations, along with minor changes to existing constructs.[&#8230;]Heap implements a min-max heap, backed by a native array.BitSet and BitArray are two alternate representations of a bitmap type, backed by dynamically allocated storage.TreeSet and TreeDictionary are hashed collections implementing Compressed Hash-Array Mapped Prefix [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/14/swift-collections-1-1/">https://mjtsai.com/blog/2024/02/14/swift-collections-1-1/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/14/swift-collections-1-1/">Save to Pocket</a>
+</span>
+
+---
+
+## Mail and Preview Working Together
+
+date: 2024-02-14, from: Michael Tsai
+
+Wade Tregaskis: &#8230;after I&#8217;d filled out a form PDF that was emailed to me. It had exactly the option I wanted first and foremost, to send the completed PDF back to the sender. Sure, manually digging up the completed PDF from disk and dragging it into a Mail Compose [Reply] window isn&#8217;t hard, but it [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/14/mail-and-preview-working-together/">https://mjtsai.com/blog/2024/02/14/mail-and-preview-working-together/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/14/mail-and-preview-working-together/">Save to Pocket</a>
+</span>
+
+---
+
+## The iMessage Halo Effect
+
+date: 2024-02-14, from: Michael Tsai
+
+John Siracusa: The iMessage service is not so good that it makes the iPhone more attractive to customers. It&#8217;s the iPhone that makes iMessage attractive. The iPhone gives iMessage its cachet, not the other way around. [&#8230;] Today, it still feels like the iPhone is carrying iMessage. Anecdotally, both my teenage children have iPhones, but [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/14/the-imessage-halo-effect/">https://mjtsai.com/blog/2024/02/14/the-imessage-halo-effect/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/14/the-imessage-halo-effect/">Save to Pocket</a>
+</span>
+
+---
+
+## Fraudulent Kimi App
+
+date: 2024-02-14, from: Michael Tsai
+
+Wes Davis: There&#8217;s a vision testing app called Kimi sitting at number eight in the Apple iOS App Store&#8217;s trending list of free entertainment apps right now (and number 46 overall for free apps!). But it&#8217;s not an app for testing your eyesight, at least not unless you consider watching pirated movies on your smartphone [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/14/fraudulent-kimi-app/">https://mjtsai.com/blog/2024/02/14/fraudulent-kimi-app/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/14/fraudulent-kimi-app/">Save to Pocket</a>
+</span>
+
+---
+
+##  Vintage Typologies 
+
+date: 2024-02-14, updated: 2024-02-14, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/vintage-typologies">https://kottke.org/24/02/vintage-typologies</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/vintage-typologies">Save to Pocket</a>
+</span>
+
+---
+
+## I’ll Be Back in Eastertide
+
+date: 2024-02-14, from: Ayjay blog
+
+
+
+<span class="feed-item-link">
+<a href="https://blog.ayjay.org/ill-be-back-in-eastertide/">https://blog.ayjay.org/ill-be-back-in-eastertide/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.ayjay.org/ill-be-back-in-eastertide/">Save to Pocket</a>
+</span>
+
+---
+
+## “Nobody solves media except temporarily”: Four indie media owners on money, sustainability, and “making cooler, weirder things”
+
+date: 2024-02-14, from: Nieman Journalism Lab
+
+It’s been a rough start to the new year for the news industry, between layoffs, shutdowns, sales, and strikes at news organizations across the United States. But even in the most chaotic times, there are bright spots cropping up that inform communities and celebrate the craft of writing and storytelling. A new podcast, Never Post,...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/nobody-solves-media-except-temporarily-four-indie-media-owners-on-money-sustainability-and-making-cooler-weirder-things/">https://www.niemanlab.org/2024/02/nobody-solves-media-except-temporarily-four-indie-media-owners-on-money-sustainability-and-making-cooler-weirder-things/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/nobody-solves-media-except-temporarily-four-indie-media-owners-on-money-sustainability-and-making-cooler-weirder-things/">Save to Pocket</a>
+</span>
+
+---
+
+##  Kids playing football are doing the &#8220;Brexit tackle&#8221;, which means taking out... 
+
+date: 2024-02-14, updated: 2024-02-14, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043972-kids-playing-football-are">https://kottke.org/24/02/0043972-kids-playing-football-are</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043972-kids-playing-football-are">Save to Pocket</a>
+</span>
+
+---
+
+## The Purple Tomato
+
+date: 2024-02-14, updated: 2024-02-14, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/02/14/the-purple-tomato/">https://onefoottsunami.com/2024/02/14/the-purple-tomato/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/02/14/the-purple-tomato/">Save to Pocket</a>
+</span>
+
+---
+
+##  The CDC is considering changing its recommendation about how long to isolate... 
+
+date: 2024-02-14, updated: 2024-02-14, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043971-the-cdc-is-considering-ch">https://kottke.org/24/02/0043971-the-cdc-is-considering-ch</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043971-the-cdc-is-considering-ch">Save to Pocket</a>
+</span>
+
+---
+
+## A Floridian Sunset
+
+date: 2024-02-14, from: NASA breaking news
+
+A NASA photographer captured the sunset on Tuesday, Jan. 30, 2024, near the Vehicle Assembly Building (VAB) at the agency’s Kennedy Space Center in Florida. The iconic building, completed in 1966 and currently used for assembly of NASA’s Space Launch System rocket for Artemis missions, is still the only building in which rockets were assembled [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/a-floridian-sunset/">https://www.nasa.gov/image-article/a-floridian-sunset/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/a-floridian-sunset/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Telescopes Find New Clues About Mysterious Deep Space Signals
+
+date: 2024-02-14, from: NASA breaking news
+
+Using two of the agency’s X-ray telescopes, researchers were able to zoom in on a dead star’s erratic behavior as it released a bright, brief burst of radio waves. What’s causing mysterious bursts of radio waves from deep space? Astronomers may be a step closer to providing one answer to that question. Two NASA X-ray [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/nustar/nasa-telescopes-find-new-clues-about-mysterious-deep-space-signals/">https://www.nasa.gov/missions/nustar/nasa-telescopes-find-new-clues-about-mysterious-deep-space-signals/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/nustar/nasa-telescopes-find-new-clues-about-mysterious-deep-space-signals/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-14, from: Miguel de Icaza Mastondon feed)
+
+<p>Sometimes I accidentally stream music to the thermostat:</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111930760438887418">https://mastodon.social/@Migueldeicaza/111930760438887418</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111930760438887418">Save to Pocket</a>
+</span>
+
+---
+
+##  B.J. Novak considers Caps for Sale & other kid&#8217;s books. &#8220;The best... 
+
+date: 2024-02-14, updated: 2024-02-14, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043959-bj-novak-considers-caps-f">https://kottke.org/24/02/0043959-bj-novak-considers-caps-f</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043959-bj-novak-considers-caps-f">Save to Pocket</a>
+</span>
+
+---
+
+## Vodafone Showcasing 5G Network-in-a-Box based on Raspberry Pi with Improved Features and New Use Cases at MWC24
+
+date: 2024-02-14, from: Lime Microsystems news
+
+<p>Following on from the success of last year’s unveiling of the Raspberry Pi 5G network-in-a-box at Mobile World Congress, Vodafone is introducing a new improved version at MWC24 with numerous use cases, ranging from network coverage extension to 5G network delivery via drone. The new system will be fully compatible with Raspberry Pi 5 for &#8230; <a href="https://limemicro.com/news/vodafone-5g-network-raspberry-pi-mwc24/">Continued</a></p>
+<p>The post <a rel="nofollow" href="https://limemicro.com/news/vodafone-5g-network-raspberry-pi-mwc24/">Vodafone Showcasing 5G Network-in-a-Box based on Raspberry Pi with Improved Features and New Use Cases at MWC24</a> appeared first on <a rel="nofollow" href="https://limemicro.com">Lime Microsystems</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://limemicro.com/news/vodafone-5g-network-raspberry-pi-mwc24/">https://limemicro.com/news/vodafone-5g-network-raspberry-pi-mwc24/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://limemicro.com/news/vodafone-5g-network-raspberry-pi-mwc24/">Save to Pocket</a>
+</span>
+
+---
+
+## A ‘Lobby’ Where a Molecule Mob Tells Genes What to Do
+
+date: 2024-02-14, from: Quanta Magazine
+
+Highly repetitive regions of junk DNA may be the key to a newly discovered mechanism for gene regulation.            <p>The post <a href="https://www.quantamagazine.org/a-lobby-where-a-molecule-mob-tells-genes-what-to-do-20240214/" target="_blank">A ‘Lobby’ Where a Molecule Mob Tells Genes What to Do</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/a-lobby-where-a-molecule-mob-tells-genes-what-to-do-20240214/">https://www.quantamagazine.org/a-lobby-where-a-molecule-mob-tells-genes-what-to-do-20240214/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/a-lobby-where-a-molecule-mob-tells-genes-what-to-do-20240214/">Save to Pocket</a>
+</span>
+
+---
+
+##  Virtual Stickers to Manage Replies By 
+
+date: 2024-02-14, updated: 2024-02-14, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/virtual-stickers-to-manage-replies-by">https://kottke.org/24/02/virtual-stickers-to-manage-replies-by</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/virtual-stickers-to-manage-replies-by">Save to Pocket</a>
+</span>
+
+---
+
+## Plan de acción para la equidad 2023 de la NASA se centrará en educación STEM/CTIM
+
+date: 2024-02-14, from: NASA breaking news
+
+Read this release in English&#160;here. La NASA publicó su Plan de acción para la equidad 2023 el miércoles, en el cual describe los logros clave en el aumento de la diversidad, la equidad, la inclusión y la accesibilidad en toda la agencia, y sus nuevos compromisos para continuar eliminando los obstáculos y retos injustos a [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/el-plan-de-accion-para-la-equidad-2023-de-la-nasa-se-centrara-en-educacion-ctim/">https://www.nasa.gov/news-release/el-plan-de-accion-para-la-equidad-2023-de-la-nasa-se-centrara-en-educacion-ctim/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/el-plan-de-accion-para-la-equidad-2023-de-la-nasa-se-centrara-en-educacion-ctim/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Updates Equity Action Plan, Adds Focus on STEM Education, More
+
+date: 2024-02-14, from: NASA breaking news
+
+Lee esta nota de prensa en español&#160;aquí. NASA published its 2023 Equity Action Plan Wednesday, which outlines key accomplishments in increasing equity across the agency, and new commitments to continue removing inequitable barriers and challenges facing underserved communities. “At NASA, we are committed to advancing equity to ensure our work benefits all humanity,” said NASA [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-updates-equity-action-plan-adds-focus-on-stem-education-more/">https://www.nasa.gov/news-release/nasa-updates-equity-action-plan-adds-focus-on-stem-education-more/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-updates-equity-action-plan-adds-focus-on-stem-education-more/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-14, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/14/bidenActionFigure.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've taken to cross-posting to various social media accounts, by opening a new window, creating the post in one service's <a href="http://scripting.com/2024/01/14/031201.html">little text box</a>, and then opening tabs for each of the others and copy-pasting. <a href="https://twitter.com/davewiner/status/1757524645773754675">Twitter</a>, <a href="https://mastodon.social/@davew/111926409460785756">Mastodon</a>, <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3klddy3d2ps2k">Bluesky</a>, <a href="https://www.threads.net/@davew/post/C3TbfkspurD">Threads</a>, <a href="https://www.facebook.com/photo/?fbid=2188904567983603&set=a.113966572144090&notif_id=1707865039746710&notif_t=feedback_reaction_generic&ref=notif">Facebook</a>. I'm getting good at it. Yesterday I did that with the <a href="http://scripting.com/2024/02/13.html#a214721">piece</a> about President Biden and how he probably would rather be doing anything than be President, for a mostly thankless country, at age 81. I imagine he has great-grandchildren he'd like to get to know. Maybe a book or two to read, maybe one to write. To get his affairs in order. At age 68 I'm trying to shed responsibility as much as possible. It's prudent, and has a point. When I was 25 I wanted to take over the world. Now I'd just like to feel good. As you get older you are capable of more depth of feeling, in some ways, and grow more numb in others. I spent time with my father at 80, his last year. He was always a curious man, wanting to learn about anything new, but in his last days he wasn't curious. No ambition. But he seemed okay with it, even happy at times (possibly due in part to the morphine he was allowed). Anyway, it's always interesting to see where people react to what among the different social web networks. And in this case, the most flow came from <a href="https://mastodon.social/@davew/111926409460785756">Mastodon</a>, by far. I would not have predicted that. And it's good to see, that interesting ideas and perspective may have more of a future outside the networks operated by the billionaire tech companies.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/14.html#a151121">http://scripting.com/2024/02/14.html#a151121</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/14.html#a151121">Save to Pocket</a>
+</span>
+
+---
+
+## Ai and Robots
+
+date: 2024-02-14, from: Manu - I write blog
+
+<p>David Pierce at The Verge just published a great long-form piece about <a href="https://www.theverge.com/24067997/robots-txt-ai-text-file-web-crawlers-spiders">robots.txt</a>, the relationship between the people running websites and the people running spiders and crawlers, and what’s happening now that AI has entered the scene.</p>
+<p>It’s a great piece and the timing is convenient for me personally because just the other day I emailed the lovely people at The Browser Company asking how can I opt out of their stupid <a href="https://manuelmoreale.com/a-rant-on-arc-search">ARC Search</a>. They care about users and user experience and so do I so I’m sure they must have a way for me to block their new AI. I’m still waiting to get a reply…</p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/XfCsCcPWzul2eGKX">https://manuelmoreale.com/@/page/XfCsCcPWzul2eGKX</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/XfCsCcPWzul2eGKX">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-14, from: Miguel de Icaza Mastondon feed)
+
+<p>Swift</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111930453092431377">https://mastodon.social/@Migueldeicaza/111930453092431377</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111930453092431377">Save to Pocket</a>
+</span>
+
+---
+
+##  The death of the world&#8217;s best marathon runner is part of a... 
+
+date: 2024-02-14, updated: 2024-02-14, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043969-the-death-of-the-worlds">https://kottke.org/24/02/0043969-the-death-of-the-worlds</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043969-the-death-of-the-worlds">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-14, from: Miguel de Icaza Mastondon feed)
+
+<p>La Terminal for VisionPro, we made it for launch day, and since we got our hands on the hardware, have polished various bits:</p><p><a href="https://blog.la-terminal.net/la-terminal-for-vision-pro/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/la-termin</span><span class="invisible">al-for-vision-pro/</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111930388308998699">https://mastodon.social/@Migueldeicaza/111930388308998699</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111930388308998699">Save to Pocket</a>
+</span>
+
+---
+
+##  The happiest kids in the world have social safety nets. &#8220;In a... 
+
+date: 2024-02-14, updated: 2024-02-14, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043964-the-happiest-kids-in-the">https://kottke.org/24/02/0043964-the-happiest-kids-in-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043964-the-happiest-kids-in-the">Save to Pocket</a>
+</span>
+
+---
+
+## January 2024 Retirements
+
+date: 2024-02-14, from: NASA breaking news
+
+Robert Paulin Aerospace Test Branch, retired Jan. 3, 2024, with 40 years of NASA service. James Douglas Kiser (Not Pictured) Ceramic and Polymer Composites Branch, retired Jan. 12, 2024, with 41 years of NASA service.
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/glenn/january-2024-retirements/">https://www.nasa.gov/centers-and-facilities/glenn/january-2024-retirements/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/glenn/january-2024-retirements/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Trains Teachers on Upcoming Solar Eclipse
+
+date: 2024-02-14, from: NASA breaking news
+
+On Monday, April 8, Northeast Ohioans will get a once-in-a-lifetime chance to see a total solar eclipse. During this rare natural phenomenon, the Moon will pass between the Sun and Earth, completely blocking the face of the Sun and darkening the sky for nearly four minutes. Teachers, librarians, and community leaders from across Northeast Ohio [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-trains-teachers-on-upcoming-solar-eclipse/">https://www.nasa.gov/centers-and-facilities/glenn/nasa-trains-teachers-on-upcoming-solar-eclipse/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/glenn/nasa-trains-teachers-on-upcoming-solar-eclipse/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Participates in “Ohioans in Space” Painting Unveiling
+
+date: 2024-02-14, from: NASA breaking news
+
+Representatives from NASA Headquarters and NASA’s Glenn Research Center in Cleveland participated in the unveiling of the “Ohioans in Space” painting at a large gala at the Ohio Statehouse in Columbus on Jan. 24. The portrait, which depicts Ohio-born national heroes Neil Armstrong, John Glenn, Jim Lovell, Judy Resnik, and Gene Kranz, is the first painting hung [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-participates-in-ohioans-in-space-painting-unveiling/">https://www.nasa.gov/centers-and-facilities/glenn/nasa-participates-in-ohioans-in-space-painting-unveiling/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/glenn/nasa-participates-in-ohioans-in-space-painting-unveiling/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s Day of Remembrance
+
+date: 2024-02-14, from: NASA breaking news
+
+Every year on NASA’s Day of Remembrance, the agency pauses to honor the sacrifice of the NASA family members who gave their lives to advance the cause of exploration. Employees remember friends and colleagues, including the crews of Apollo 1 and space shuttles Challenger and Columbia.&#160;&#160; A key element in observances across the agency centers [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/glenn/nasas-day-of-remembrance/">https://www.nasa.gov/centers-and-facilities/glenn/nasas-day-of-remembrance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/glenn/nasas-day-of-remembrance/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024-02-09 Oddµ namespaces and live updating
+
+date: 2024-02-14, from: Alex Schroeder's Blog
+
+<h1>2024-02-09 Oddµ namespaces and live updating</h1>
+
+<blockquote>
+<p>It&rsquo;s a slow morning. I had my two cups of coffee, ate my pancakes with plum jam, spent time online reading Mastodon, talked to my wife about wannabe-axe murderers on Swiss trains, looked up stuff about <a href="https://www.tax-the-rich.eu/">taxing the rich</a>…</p>
+</blockquote>
+
+<p>I&rsquo;ve been working on Oddmu again. My goal is to be able to reproduce the <a href="https://campaignwiki.org/">Campaign Wiki</a> setup:</p>
+
+<ul>
+<li>people can get a &ldquo;space&rdquo; for their site by signing up in some way</li>
+<li>they can make changes to the look and feel of their site (change the headers, footers, colours, i.e. make changes to both the HTML template and the CSS)</li>
+<li>feeds, list of changes and all that are limited to their site</li>
+</ul>
+
+<p>Using Oddmu would also result in the following:</p>
+
+<ul>
+<li>sites are no longer publically editable (which isn&rsquo;t a requirement for such spaces like role-playing game campaigns)</li>
+</ul>
+
+<p>Oddmu now has the following features:</p>
+
+<ul>
+<li>when editing pages in a subdirectory, the <code>index</code> and <code>changes</code> page in the same directory are updated (instead of the root directory)</li>
+<li>when HTML templates exist in the same directory, those are used instead of the templates in the root directory (e.g. <a href="oddmu/index">Oddµ</a>)</li>
+<li>when uploading a HTML template, it is loaded immediately (no more server restart)</li>
+</ul>
+
+<p>Once I had this implemented using a library that watches the filesystem for changes, I realized that I could use the same feature to index new pages. This brings me closer to having online and offline writing feature equivalence: Using the web site to create a page should be equivalent to writing a page elsewhere and uploading it to the site via rsync.
+(Offline you can use the <code>oddmu notify</code> command to add links to <code>index</code>, <code>changes</code> and hashtag pages.)</p>
+
+<p>I think I&rsquo;m getting close!</p>
+
+<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p>
+
+<p>Also, code complexity is through the roof, now. All the global maps aren&rsquo;t thread-safe so they need mutexes. There&rsquo;s a weird Heisenbug I have where I run the test suite and then <code>view.html</code> is gone. The next test run then fails, of course. Thinking it was related to the order of tests, I started running <code>go test -shuffle on</code> and found a plethora of <em>other</em> bugs. And I&rsquo;ve seen at least two occasions where I noticed the disappearing <code>view.html</code> bug, noted the shuffle id, reran the test with that id, got the error again, tried for a third time, and then tests passed. So… it must be a race condition of some sort.</p>
+
+<p>How aggravating.</p>
+
+<p>Maybe something got lost, with that last set of changes.</p>
+
+<p>I do feel, however, that I&rsquo;ve found a lot of bugs… Just now, for example, to help prevent Oddmu from showing any directories or files with a path segment starting with a period…</p>
+
+<p><strong>2024-02-14</strong>. I need to think about an archive handler that allows you to get a zip file for the current directory. (I guess zip files are more accessible than .tar.gz files? Like, for Windows and macOS…</p>
+
+<p>And the archive needs to take <a href="2024-02-14-oddmu-bug">ODDMU_FILTER</a> into account!</p>
+
+<p>Done. ✔️</p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-02-09-oddmu-namespaces">https://alexschroeder.ch/view/2024-02-09-oddmu-namespaces</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-02-09-oddmu-namespaces">Save to Pocket</a>
+</span>
+
+---
+
+## Electric car fire risks
+
+date: 2024-02-14, from: Status-Q blog
+
+The idea that electric cars are a serious fire risk is one that has established itself in people&#8217;s minds, chiefly because such headlines increase advertising revenue for newspaper editors.   If you can&#8217;t get a scare story with &#8216;Elon Musk&#8217; in the title, at least try to include some reference to &#8216;Tesla&#8217;! When a big <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/02/14/11949/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>
+
+<span class="feed-item-link">
+<a href="https://statusq.org/archives/2024/02/14/11949/">https://statusq.org/archives/2024/02/14/11949/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://statusq.org/archives/2024/02/14/11949/">Save to Pocket</a>
+</span>
+
+---
+
+## Registration is open for Coolest Projects 2024
+
+date: 2024-02-14, from: Raspberry Pi (.org)
+
+<p>Big news for young coders and everyone who supports them: project registration is now open for Coolest Projects 2024! Coolest Projects is our global technology showcase for young people aged up to 18. It gives young creators the incredible opportunity to share the cool stuff they’ve made with digital technology with a global audience, and&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/registration-is-open-for-coolest-projects-2024/">Registration is open for Coolest Projects 2024</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.org/blog/registration-is-open-for-coolest-projects-2024/">https://www.raspberrypi.org/blog/registration-is-open-for-coolest-projects-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.org/blog/registration-is-open-for-coolest-projects-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Damn Small Linux returns after a 12-year gap
+
+date: 2024-02-14, updated: 2024-02-14, from: Liam Proven's articles at the Register
+
+<h4>DSL 2024 is not as svelte as it used to be – but who is?</h4>
+      <p>Seventeen years after its last major version, an old favorite, Damn Small Linux, is back with a new 2024 release.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/14/damn_small_linux_returns/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/14/damn_small_linux_returns/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/14/damn_small_linux_returns/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024-02-14 Oddµ bug maybe
+
+date: 2024-02-14, from: Alex Schroeder's Blog
+
+<h1>2024-02-14 Oddµ bug maybe</h1>
+
+<p>I had a site where an entire subdirectory was private. Nobody but the author could read or write those pages. I had configured Apache to require authentication for this subdirectory.</p>
+
+<p>The config looked a bit like this:</p>
+
+<pre><code>&lt;LocationMatch &quot;^/(edit|save|add|append|upload|drop|view/secret)/&quot;&gt;
+  AuthType Basic
+  AuthName &quot;Password Required&quot;
+  AuthUserFile /home/oddmu/.htpasswd
+  Require valid-user
+&lt;/LocationMatch&gt;
+</code></pre>
+
+<p>Note the addition of <code>view/secret</code>.</p>
+
+<p>But yesterday I realized that you can run a search in the root. Such a search includes all the pages in subdirectories, and so Oddmu served an extract of the pages in the &ldquo;secret&rdquo; subdirectory. Adding <code>|search/secret</code> to the <code>LocationMatch</code> doesn&rsquo;t help.</p>
+
+<p>I had to decide whether to disable search all together, or disable the search of subdirectories, or add a new feature.</p>
+
+<p>I added a new feature.</p>
+
+<p>It is tied to an environment variable called <code>ODDMU_FILTER</code>. It matches the directory being searched and the directory where the search starts. If the directory doesn&rsquo;t match, the pages returned must also not match; if the directory does match, the pages returned must also match.</p>
+
+<p>Here&rsquo;s an example of three pages:</p>
+
+<ul>
+<li>/a</li>
+<li>/public/b</li>
+<li>/secret/c</li>
+</ul>
+
+<p>The environment variable is set: <code>ODDMU_FILTER=^secret/</code> – what happens now?</p>
+
+<ul>
+<li>If you search from the root (doesn&rsquo;t match the filter), then only pages a and b are searched (they also don&rsquo;t match the filter).</li>
+<li>If you search from /public (doesn&rsquo;t match the filter), then only page b is searched  (also doesn&rsquo;t match the filter). This behaviour is unchanged from before. Searches start with the directory the user is looking at.</li>
+<li>If you search from /secret (matches the filter), then only page c is searched (also matches the filter). This, too, is unchanged from before.</li>
+</ul>
+
+<p>Naturally, you still need to change to the web server config for the actual authentication to happen:</p>
+
+<pre><code>&lt;LocationMatch &quot;^/(edit|save|add|append|upload|drop|view/secret|search/secret)/&quot;&gt;
+  AuthType Basic
+  AuthName &quot;Password Required&quot;
+  AuthUserFile /home/oddmu/.htpasswd
+  Require valid-user
+&lt;/LocationMatch&gt;
+</code></pre>
+
+<p>I hope I got it right! It&rsquo;s also documented in the <a href="oddmu/oddmu-apache.5">oddmu-apache(5)</a> man page.</p>
+
+<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-02-14-oddmu-bug">https://alexschroeder.ch/view/2024-02-14-oddmu-bug</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-02-14-oddmu-bug">Save to Pocket</a>
+</span>
+
+---
+
+## China is building more coal plants but might burn less coal 
+
+date: 2024-02-14, from: Hannah Richie at Substack
+
+China is adding more coal capacity, but its plants are running less often.
+
+<span class="feed-item-link">
+<a href="https://www.sustainabilitybynumbers.com/p/china-coal-plants">https://www.sustainabilitybynumbers.com/p/china-coal-plants</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.sustainabilitybynumbers.com/p/china-coal-plants">Save to Pocket</a>
+</span>
+
+---
+
+## Sean O'Brien 100K Race Report (2024)
+
+date: 2024-02-14, updated: 2024-02-14, from: Educated Guesswork blog
+
+
+
+<span class="feed-item-link">
+<a href="https://educatedguesswork.org/posts/sob100k-2024/">https://educatedguesswork.org/posts/sob100k-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://educatedguesswork.org/posts/sob100k-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## program: Windows 3’s Program Manager for X11
+
+date: 2024-02-14, from: OS News
+
+progman is a simple X11 window manager modeled after Program Manager from the Windows 3 era. ↫ progman&#8217;s GitHub page If that description doesn&#8217;t pique your interest, nothing will. What more do you people want from me?
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138585/program-windows-3s-program-manager-for-x11/">https://www.osnews.com/story/138585/program-windows-3s-program-manager-for-x11/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138585/program-windows-3s-program-manager-for-x11/">Save to Pocket</a>
+</span>
+
+---
+
+## Call for Proposals is open for POSETTE: An Event for Postgres 2024
+
+date: 2024-02-14, from: PostgreSQL News
+
+<h1>...until April 7, 2024!</h1>
+<p>The 3rd annual event now called <strong>POSETTE: An Event for Postgres</strong> (formerly Citus Con) will happen Jun 11-13, 2024 and the <a href="https://www.citusdata.com/posette/2024/cfp/">Call for Speakers</a> is now open—<strong>until Apr 7, 2024</strong>! POSETTE is a free &amp; virtual developer event organized by the Postgres team at Microsoft. The name POSETTE stands for <strong>P</strong>ostgres <strong>O</strong>pen <strong>S</strong>ource <strong>E</strong>cosystem <strong>T</strong>alks <strong>T</strong>raining &amp; <strong>E</strong>ducation. </p>
+<p><strong>First time &amp; experienced speakers both welcome!</strong> Whether you’re a first-time speaker or a regular speaker at conferences, we’d love to consider your talk proposal(s) about Postgres and the rich tooling and extensions (like Citus) in the Postgres ecosystem—both open source and for Postgres in the cloud on Azure.</p>
+<h2>4 Unique Livestreams</h2>
+<p>There will be 4 unique livestreams: 2 in Americas workday timezones (PDT), and 2 in EMEA workday timezones (CEST). Each livestream will have its own keynote and set of talks—no repeats among the livestreams.</p>
+<h2>Important Dates &amp; Deadlines</h2>
+<ul>
+<li><strong>Jan 19, 2024</strong> – Call for proposals (CFP) opens</li>
+<li><strong>Apr 07, 2024</strong> – CFP closes @ 11:59 pm PDT</li>
+<li><strong>Apr 17, 2024</strong> – Speakers notified</li>
+<li><strong>May 01, 2024</strong> – Schedule &amp; sessions announced</li>
+<li><strong>May 02, 2024</strong> – Virtual Speaker Meet &amp; Greet</li>
+<li><strong>May 13-17 &amp; 20-24, 2024</strong> – Pre-record all talks</li>
+<li><strong>Jun 11-13, 2024</strong> – POSETTE happens! Join the livestream virtually to chat with attendees and other speakers.</li>
+</ul>
+<h2>Key things to know</h2>
+<p>Even more information on the <strong><a href="https://www.citusdata.com/posette/2024/cfp/">POSETTE CFP page</a></strong></p>
+<ul>
+<li><strong>Format</strong>: Four 4.5-hour livestreams at different times of day</li>
+<li><strong>CFP closes</strong>: Apr 7, 2024</li>
+<li><strong>Length</strong>: 25 mins / talk</li>
+<li><strong>Virtual &amp; free</strong>: no travel (or funding) required</li>
+<li><strong>Video recording &amp; production</strong>: All talks will be pre-recorded by the POSETTE team at Microsoft—all speakers need is a good microphone &amp; a decent webcam. We’ll take care of the rest—including all editing, caption QA, and caption translation.</li>
+<li><strong>Speaker resources</strong>: on our <strong><a href="https://www.citusdata.com/posette/2024/cfp/#speaker-resources">CFP page</a></strong></li>
+<li><strong>Submit your proposal</strong>:  <strong><a href="https://sessionize.com/posette2024">on Sessionize</a></strong></li>
+</ul>
+<h2>Topics</h2>
+<p>Here are some of the topics we would like to see at POSETTE: An Event for Postgres (formerly Citus Con). This list is not exhaustive, other Postgres topics are welcome too!</p>
+<ul>
+<li>How you run your app on Postgres on Azure</li>
+<li>Open source user stories for Citus, PostGIS, &amp; other extensions</li>
+<li>New capabilities in PostgreSQL 16</li>
+<li>Tips for building your application on Azure Database for PostgreSQL - Flexible Server</li>
+<li>Postgres community</li>
+<li>Generally interesting Postgres knowledge &amp; tips</li>
+<li>Data modeling and SQL best practices</li>
+<li>How you use Postgres extensions</li>
+<li>High availability techniques (including Patroni)</li>
+<li>Distributing Postgres with Azure Cosmos DB for PostgreSQL</li>
+<li>Benchmarking &amp; performance tuning</li>
+<li>Migrating to Postgres on Azure</li>
+<li>Monitoring tools for Postgres</li>
+<li>Optimizing for data-intensive analytics and time series workloads</li>
+<li>Azure ecosystem integrations with Postgres</li>
+<li>Running SaaS apps built with Ruby, Python, Node.js, Java, or .NET—and running on Postgres</li>
+<li>Using Postgres with Python and Django applications</li>
+<li>Supporting AI-based workloads with Postgres</li>
+</ul>
+<h2>Other useful links</h2>
+<ul>
+<li><strong><a href="https://www.citusdata.com/posette/2024/coc/">Code of conduct</a></strong></li>
+<li><strong><a href="https://www.citusdata.com/posette/2024/cfp/#talk-selection-team">Talk selection team</a></strong></li>
+</ul>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/call-for-proposals-is-open-for-posette-an-event-for-postgres-2024-2806/">https://www.postgresql.org/about/news/call-for-proposals-is-open-for-posette-an-event-for-postgres-2024-2806/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/call-for-proposals-is-open-for-posette-an-event-for-postgres-2024-2806/">Save to Pocket</a>
+</span>
+
+---
+
+## Mozilla downsizes as it refocuses on Firefox and AI
+
+date: 2024-02-13, from: OS News
+
+Specifically, Mozilla plans to scale back its investment in a number of products, including its VPN, Relay and, somewhat remarkably, its Online Footprint Scrubber, which launched only a week ago. Mozilla will also shut down Hubs, the 3D virtual world it launched back in 2018, and scale back its investment in its mozilla.social Mastodon instance. The layoffs will affect roughly 60 employees. Bloomberg previously reported the layoffs. Going forward, the company said in an internal memo, Mozilla will focus on bringing “trustworthy AI into Firefox.” To do so, it will bring together the teams that work on Pocket, Content and AI/Ml. ↫ Frederic Lardinois for TechCrunch I&#8217;d like to remind everyone that I&#8217;ve been warning the Linux world about the precarious, uncertain future of Firefox for years now. The single most important desktop Linux application is in a death spiral and entirely dependent on free Google money. Not a good base to work from. With today&#8217;s news, I only feel strengthened in my conviction that the major desktop projects in the Linux world need to come together in a serious manner to discuss the establishment of a browser project optimised for Linux. Pick an engine, let the GNOME and KDE developers build a native UI on top, and take matters into your own hands. If you can build the two best desktop environments in desktop computing today, you can build a first-class browser together. This is existential.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138582/mozilla-downsizes-as-it-refocuses-on-firefox-and-ai/">https://www.osnews.com/story/138582/mozilla-downsizes-as-it-refocuses-on-firefox-and-ai/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138582/mozilla-downsizes-as-it-refocuses-on-firefox-and-ai/">Save to Pocket</a>
+</span>
+
+---
+
+## Microsoft is bringing Copilot “AI” to Notepad for Windows 11
+
+date: 2024-02-13, from: OS News
+
+Microsoft plans to make Copilot AI inseparable from Windows. After releasing Copilot for Windows 11 and 10 and adding it to Microsoft apps, you can now use Copilot AI in Notepad to get simplified explanations. You can install the Notepad app update via the Microsoft Store to use this feature, but remember, it only works in Dev or Canary channels. Notepad version 11.2401.25.0 adds the “Explain with Copilot” option in its context menu. After highlighting a chunk of text (sentences, code snippets, etc), right-click and select the “Explain with Copilot” option. Or you can press the Ctrl + E shortcut to invoke this feature. ↫ Abhishek Mishra I wonder if you could replace this new, butchered Notepad with a an older, working copy.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138580/microsoft-is-bringing-copilot-ai-to-notepad-for-windows-11/">https://www.osnews.com/story/138580/microsoft-is-bringing-copilot-ai-to-notepad-for-windows-11/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138580/microsoft-is-bringing-copilot-ai-to-notepad-for-windows-11/">Save to Pocket</a>
+</span>
+
+---
+
+## FreeBSD 15, 16 to end support for 32 bit platforms
+
+date: 2024-02-13, from: OS News
+
+FreeBSD is deprecating 32-bit platforms over the next couple of major releases. We anticipate FreeBSD 15.0 will not include the armv6, i386, and powerpc platforms, and FreeBSD 16.0 will not include armv7. Support for executing 32-bit binaries on 64-bit kernels will be retained through at least the lifetime of the stable/16 branch if not longer. (There is currently no plan to remove support for 32-bit binaries on 64-bit kernels.) ↫ John Baldwin on freebsd-announce I don&#8217;t think this is too egregious of a timeline, but there&#8217;s always someone with some weird edge case that gets bit hard by deprecations like these.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138578/freebsd-15-16-to-end-support-for-32-bit-platforms/">https://www.osnews.com/story/138578/freebsd-15-16-to-end-support-for-32-bit-platforms/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138578/freebsd-15-16-to-end-support-for-32-bit-platforms/">Save to Pocket</a>
+</span>
+
+---
+
+## Running UNIX on a Nintendo Entertainment System
+
+date: 2024-02-13, from: OS News
+
+Who wouldn’t want to run a UNIX-like operating system on their NES or Famicom? Although there’s arguably no practical reason for doing so, decrazyo has cobbled together a working port of Little Unix (LUnix), which was originally written for the Commodore 64 and 128 by Daniel Dallmann. The impetus for this project was initially curiosity, but when decrazyo saw that someone had already written a UNIX-like OS for the 6502 processor, it seemed apparent that the NES was too similar to the C64 to not port it. ↫ Maya Posch for Hackaday This is peak computing.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138569/running-unix-on-a-nintendo-entertainment-system/">https://www.osnews.com/story/138569/running-unix-on-a-nintendo-entertainment-system/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138569/running-unix-on-a-nintendo-entertainment-system/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-13, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/11/26/uncleSam.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If you're thinking it might be good if President Biden stepped aside for someone younger and nicer to look at, what you really want is President Biden to be younger and nicer looking, and of course he probably wouldn't mind that either. But, as Keith Olbermann spells out so well in his latest <a href="https://podcasts.apple.com/us/podcast/garland-must-stop-hurs-plans-to-testify-to-house-gop-2-13-24/id1633301179?i=1000645128033">Countdown</a>, if he were to step aside that would basically concede the election to Trump. So if you think the old man is being silly and vain, well, he's being a lot smarter than you are, and btw, paying a huge price. If you live to be 81, I bet the last thing you want to do, after the life he's had, is to be in this position. We should get behind him, and tell him so, let him know we don't want anyone else, and we want him to be happy, healthy and know that the smart, good people of the US appreciate what he's doing for all of us.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/13.html#a214721">http://scripting.com/2024/02/13.html#a214721</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/13.html#a214721">Save to Pocket</a>
+</span>
+
+---
+
+## Broadcom VMware ends free VMware vSphere Hypervisor closing an era
+
+date: 2024-02-13, from: OS News
+
+Broadcom’s VMware division took a big step today, ending its free VMware vSphere Hypervisor. This is one of those announcements that we were expecting after we covered VMware End of Availability on Many VMware vSphere Editions and VMware Updates its EOA Plan Providing Guidance for Some Subscription Transition, but it is a big deal for many STH readers. It now sets VMware down the path of mainframes. ↫ Patrick Kennedy at ServeTheHome A massive blow for the homelab community.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138575/broadcom-vmware-ends-free-vmware-vsphere-hypervisor-closing-an-era/">https://www.osnews.com/story/138575/broadcom-vmware-ends-free-vmware-vsphere-hypervisor-closing-an-era/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138575/broadcom-vmware-ends-free-vmware-vsphere-hypervisor-closing-an-era/">Save to Pocket</a>
+</span>
+
+---
+
+## How to get the retro WordArt back in Microsoft Word
+
+date: 2024-02-13, from: OS News
+
+Graphic design is my passion so naturally I love the vintage, 1990s WordArt. This was a feature in Microsoft Word that allowed you to create timeless “3D” renderings of any text you wanted. It was perfection, but for some reason Microsoft overhauled the feature in the late 2000s, basically ruining it.  These are a soulless simulacrum of the WordArt of yore. The true WordArt remains, however, embedded deep in the code of Microsoft Word itself. But some things that should not have been forgotten were lost. History became legend. Legend became myth. And for twenty years WordArt passed out of all knowledge.&#160; But it can be found again. ↫ Justin Pot at Popular Science I had no idea this stuff was still in there, but I guess it makes sense &#8211; people absolutely adored this stuff, and it was all over the place for a very long time. You would see it in restaurants, hotels, schools, stores, everywhere &#8211; from high-end, luxury places to bargain basements. Now that I think about it, I&#8217;m not at all surprised it&#8217;s still accessible.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138572/how-to-get-the-retro-wordart-back-in-microsoft-word/">https://www.osnews.com/story/138572/how-to-get-the-retro-wordart-back-in-microsoft-word/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138572/how-to-get-the-retro-wordart-back-in-microsoft-word/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-13, from: Dave Winer's Scripting News)
+
+The <a href="http://scripting.com/?tab=news">News tab</a> on the Scripting News <a href="https://imgs.scripting.com/2024/02/13/newstabscreen.png">home page</a> was set up to request the <i>All</i> category from my FeedLand account. I switched to Tech, it's a bit faster, and probably a better fit. Still looking for a performance issue.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/13.html#a213651">http://scripting.com/2024/02/13.html#a213651</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/13.html#a213651">Save to Pocket</a>
+</span>
+
+---
+
+## Bullet Points: On Bluesky, the Vision Pro Jackpot, and the Quiet Period before the Election
+
+date: 2024-02-13, from: Dave Karpf's blog
+
+(Plus, a bonus take - Bill Ackman is an insufferable dweeb)
+
+<span class="feed-item-link">
+<a href="https://davekarpf.substack.com/p/bullet-points-on-bluesky-the-vision">https://davekarpf.substack.com/p/bullet-points-on-bluesky-the-vision</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://davekarpf.substack.com/p/bullet-points-on-bluesky-the-vision">Save to Pocket</a>
+</span>
+
+---
+
+##  Winners of the 59th Annual Wildlife Photographer of the Year Contest 
+
+date: 2024-02-13, updated: 2024-02-13, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/winners-of-the-59th-annual-wildlife-photographer-of-the-year-contest">https://kottke.org/24/02/winners-of-the-59th-annual-wildlife-photographer-of-the-year-contest</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/winners-of-the-59th-annual-wildlife-photographer-of-the-year-contest">Save to Pocket</a>
+</span>
+
+---
+
+## JuxtaCode 1.0.2
+
+date: 2024-02-13, from: Michael Tsai
+
+Yori Mihalakopoulos (Mastodon): Easily trace your code&#8217;s history, so you can better shape its future. Browse commits, compare branches, see how a file has changed over time. Gain insights into tricky conflicts and resolve them with a powerful merge tool.[&#8230;]Access a file&#8217;s complete history by simply opening it. A dedicated tab will show all the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/13/juxtacode-1-0-2/">https://mjtsai.com/blog/2024/02/13/juxtacode-1-0-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/13/juxtacode-1-0-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Split View Proactive Peek and Reveal on Edge Hover
+
+date: 2024-02-13, from: Michael Tsai
+
+Wade Tregaskis: It&#8217;s easy to see how some UI designer thought this was a good idea. Surely if you move the mouse near the edge of the window (or the screen, in fullscreen mode) and rest it there, it&#8217;s because you&#8217;re looking forlornly for your lost sidebar? What could be more helpful and delightful than [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/13/split-view-proactive-peek-and-reveal-on-edge-hover/">https://mjtsai.com/blog/2024/02/13/split-view-proactive-peek-and-reveal-on-edge-hover/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/13/split-view-proactive-peek-and-reveal-on-edge-hover/">Save to Pocket</a>
+</span>
+
+---
+
+## Bumping macOS’s Major Version Number
+
+date: 2024-02-13, from: Michael Tsai
+
+Jordan Rose: There were four good moments for Apple to switch Mac OS version numbers from 10.X to 11 [&#8230;] and they missed all of them, instead eventually tying it to the Apple Silicon switchover (what would have been 10.16). I think about this a lot. They ended up doing it with macOS Big Sur, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/13/bumping-macoss-major-version-number/">https://mjtsai.com/blog/2024/02/13/bumping-macoss-major-version-number/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/13/bumping-macoss-major-version-number/">Save to Pocket</a>
+</span>
+
+---
+
+## Dragging From a List With SwiftUI
+
+date: 2024-02-13, from: Michael Tsai
+
+Marco Arment: I wish so badly that SwiftUI&#8217;s .onMove supported multiple-item selection in a List.I should never need to tell my customers, &#8220;That was too difficult to achieve in SwiftUI, so that feature is gone.&#8221; It&#8217;s scary reading stuff like this because, glancing at the API, the source is an IndexSet, so it seems like [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/13/dragging-from-a-list-with-swiftui/">https://mjtsai.com/blog/2024/02/13/dragging-from-a-list-with-swiftui/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/13/dragging-from-a-list-with-swiftui/">Save to Pocket</a>
+</span>
+
+---
+
+## A powerful blogroll!
+
+date: 2024-02-13, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/02/13/powerblogroll.png"></center>I'd like a fanciful cartoon drawing of a blogroll that automatically sorts itself out when something new comes in. It's happy and fun but also <i>very</i> powerful!</div></p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/13/210450.html?title=aPowerfulBlogroll">http://scripting.com/2024/02/13/210450.html?title=aPowerfulBlogroll</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/13/210450.html?title=aPowerfulBlogroll">Save to Pocket</a>
+</span>
+
+---
+
+## CAP-X and COMP-X: how the Tandy Pocket Computers got a sucky Japanese assembler
+
+date: 2024-02-13, from: OS News
+
+I grew up primarily with the Commodore 64, where if you wanted to do anything really cool and useful, you had to do it in 6502 assembly language. Today I still write 6502 assembly, plus some Power ISA and even a little TMS9900. I like assembly languages and how in control of the CPU you feel writing in one. But you know what would make me not like an assembly language? One that was contrived and not actually the CPU it was running on. And you know what would make me like it even less? If it were kneecapped, convoluted and limited without even proper I/O facilities. ↫ Old Vintage Computing Research Everything you ever wanted to know about CAP-X and COMP-X. Which turns out to be a lot.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138570/cap-x-and-comp-x-how-the-tandy-pocket-computers-got-a-sucky-japanese-assembler/">https://www.osnews.com/story/138570/cap-x-and-comp-x-how-the-tandy-pocket-computers-got-a-sucky-japanese-assembler/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138570/cap-x-and-comp-x-how-the-tandy-pocket-computers-got-a-sucky-japanese-assembler/">Save to Pocket</a>
+</span>
+
+---
+
+## Firehouse Five and the Cinderella Surprise
+
+date: 2024-02-13, from: Cobel Sasser's blog
+
+My goal was to preserve some never-before-heard recordings of an incredible Dixieland jazz band made up of mostly Disney employees, the Firehouse Five Plus Two. But along the way, I accidentally discovered an incredible lost song that was cut from Walt Disney&#8217;s Cinderella. And you&#8217;re about to hear it too. Let&#8217;s go. Firehouse Five Plus [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://cabel.com/2024/02/13/firehouse-five-and-the-cinderella-surprise/">https://cabel.com/2024/02/13/firehouse-five-and-the-cinderella-surprise/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://cabel.com/2024/02/13/firehouse-five-and-the-cinderella-surprise/">Save to Pocket</a>
+</span>
+
+---
+
+##  A list of directors&#8217; impressive first movies, including Citizen Kane (Orson Welles),... 
+
+date: 2024-02-13, updated: 2024-02-13, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043965-a-list-of-directors-impre">https://kottke.org/24/02/0043965-a-list-of-directors-impre</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043965-a-list-of-directors-impre">Save to Pocket</a>
+</span>
+
+---
+
+##  Brian Eno&#8217;s Glowing Turntable 
+
+date: 2024-02-13, updated: 2024-02-13, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/brian-enos-glowing-turntable">https://kottke.org/24/02/brian-enos-glowing-turntable</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/brian-enos-glowing-turntable">Save to Pocket</a>
+</span>
+
+---
+
+##  The unsettling scourge of obituary spam. &#8220;In the wake of death, AI-generated... 
+
+date: 2024-02-13, updated: 2024-02-13, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043966-the-unsettling-scourge-of">https://kottke.org/24/02/0043966-the-unsettling-scourge-of</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043966-the-unsettling-scourge-of">Save to Pocket</a>
+</span>
+
+---
+
+##  Great to hear that 404 Media is profitable 6 months in. &#8220;Owning... 
+
+date: 2024-02-13, updated: 2024-02-13, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043967-great-to-hear-that-404">https://kottke.org/24/02/0043967-great-to-hear-that-404</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043967-great-to-hear-that-404">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-13, from: Miguel de Icaza Mastondon feed)
+
+<p>I am still in camp blue no matter who for a spectrum of reasons, but I am surprised at how many friends and acquaintances have soured due to the genocide Biden is supporting.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111925451524892737">https://mastodon.social/@Migueldeicaza/111925451524892737</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111925451524892737">Save to Pocket</a>
+</span>
+
+---
+
+## Statistics versus Understanding: The Essence of What Ails Generative AI
+
+date: 2024-02-13, from: Gary Marcus blog
+
+The Foundation Remains Shaky
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/statistics-versus-understanding-the">https://garymarcus.substack.com/p/statistics-versus-understanding-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/statistics-versus-understanding-the">Save to Pocket</a>
+</span>
+
+---
+
+## “People don’t quit bad jobs, they quit bad bosses”: How journalists evaluate newsroom leadership
+
+date: 2024-02-13, from: Nieman Journalism Lab
+
+In the first weeks of my first job in journalism, the editor-in-chief stormed into the newsroom, furious — the photo editor had not photographed the event that he had planned the front page around. He stood before her, red-faced and yelling, before grabbing a copy of the AP Stylebook off a nearby table and throwing...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/people-dont-quit-bad-jobs-they-quit-bad-bosses-how-journalists-evaluate-newsroom-leadership/">https://www.niemanlab.org/2024/02/people-dont-quit-bad-jobs-they-quit-bad-bosses-how-journalists-evaluate-newsroom-leadership/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/people-dont-quit-bad-jobs-they-quit-bad-bosses-how-journalists-evaluate-newsroom-leadership/">Save to Pocket</a>
+</span>
+
+---
+
+##  His Best Friend Was a 250-Pound Warthog. One Day, It Decided to... 
+
+date: 2024-02-13, updated: 2024-02-13, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043968-his-best-friend-was-a">https://kottke.org/24/02/0043968-his-best-friend-was-a</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043968-his-best-friend-was-a">Save to Pocket</a>
+</span>
+
+---
+
+##  USPS Underground Railroad Stamps 
+
+date: 2024-02-13, updated: 2024-02-13, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/usps-underground-railroad-stamps">https://kottke.org/24/02/usps-underground-railroad-stamps</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/usps-underground-railroad-stamps">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-13, from: Dave Winer's Scripting News)
+
+I was happy to see <a href="https://en.wikipedia.org/wiki/Jon_Stewart">Jon Stewart</a> back on <a href="https://www.youtube.com/watch?app=desktop&si=Y7FkIjfh53qr2Ib8&v=NpBPm0b9deQ&feature=youtu.be">the Daily Show</a>. I wish he would get over how he looks, all of us have aged in the time since he was last on the Daily Show. It was really good. He finally is back with the writers he belongs with, and this show obviously agrees with him, and I got the feeling I always used to get from his show "we'll figure this out."
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/13.html#a164815">http://scripting.com/2024/02/13.html#a164815</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/13.html#a164815">Save to Pocket</a>
+</span>
+
+---
+
+## How an ethic of care can heal the harms of journalism
+
+date: 2024-02-13, from: Nieman Journalism Lab
+
+This newsletter is almost four years old, and during that time we have chronicled again and again how research has shown how deeply frustrated many consumers are with news as it exists today. In the U.S., that’s especially true for conservatives who feel alienated by the mainstream media, and thus have abandoned local and national news sources in favor of Fox...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/how-an-ethic-of-care-can-heal-the-harms-of-journalism/">https://www.niemanlab.org/2024/02/how-an-ethic-of-care-can-heal-the-harms-of-journalism/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/how-an-ethic-of-care-can-heal-the-harms-of-journalism/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -79,18 +1199,6 @@ NASA is using a simple but effective technology called Laser Retroreflective Arr
 
 ---
 
-## Sean O'Brien 100K Race Report (2024)
-
-date: 2024-02-13, updated: 2024-02-13, from: Educated Guesswork blog
-
-
-
-<span class="feed-item-link">
-<a href="https://educatedguesswork.org/posts/sob100k-2024/">https://educatedguesswork.org/posts/sob100k-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://educatedguesswork.org/posts/sob100k-2024/">Save to Pocket</a>
-</span>
-
----
-
 ##  Brilliant Labs is selling a pair of fully open-source AI glasses called... 
 
 date: 2024-02-13, updated: 2024-02-13, from: Jason Kottke blog
@@ -143,6 +1251,18 @@ Today would be the perfect day to ski at Belleayre or Hunter, if you can get out
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2024/02/13.html#a141546">http://scripting.com/2024/02/13.html#a141546</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/13.html#a141546">Save to Pocket</a>
+</span>
+
+---
+
+## Celebrating Community Contributors
+
+date: 2024-02-13, updated: 2024-02-13, from: Deno blog
+
+Introducing TypeScript Champions (TSC), a new way to celebrate and support some of the most prolific TypeScript contributors.
+
+<span class="feed-item-link">
+<a href="https://deno.com/blog/celebrating-community-contributors-typscript-champions">https://deno.com/blog/celebrating-community-contributors-typscript-champions</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://deno.com/blog/celebrating-community-contributors-typscript-champions">Save to Pocket</a>
 </span>
 
 ---
@@ -218,6 +1338,37 @@ Go 1.22&#39;s additions to patterns for HTTP routes.
 
 <span class="feed-item-link">
 <a href="https://go.dev/blog/routing-enhancements">https://go.dev/blog/routing-enhancements</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.dev/blog/routing-enhancements">Save to Pocket</a>
+</span>
+
+---
+
+## Ed Pentz accepts the 2024 NISO Miles Conrad Award
+
+date: 2024-02-13, from: Crossref Blog
+
+<p>Great news to share: our Executive Director, Ed Pentz, has been selected as the 2024 recipient of the Miles Conrad Award from the USA&rsquo;s National Information Standards Organization (NISO). The award is testament to an individual&rsquo;s lifetime contribution to the information community, and we couldn&rsquo;t be more delighted that Ed was voted to be this year&rsquo;s well-deserved recipient.</p>
+<div class="shortcode-divwrap align-right">
+<span><figure><img src="https://www.crossref.org/images/staff/ed17-720px.png" width="100%"/>
+</figure>
+</span>
+</div>
+<p>During the <a href="https://niso.plus" target="_blank">NISO Plus conference</a> this week in Baltimore, USA, Ed accepted his award and delivered the 2024 Miles Conrad lecture, reflecting on how far open scholarly infrastructure has come, and the part he has played in this at Crossref and through numerous other collaborative initiatives.</p>
+<p>Established in 1965, the Miles Conrad Award gives recognition to those who&rsquo;ve made substantial contributions to the information community over a lifetime. Named after the founder of the National Federation of Abstracting and Indexing Services (NFAIS)—an association that since merged with NISO—the award encourages innovation in content management and dissemination. Over the years, leaders and innovators who have significantly influenced the field of information exchange have been honored with the award. Ed has joined <a href="https://www.niso.org/awards/MCA" target="_blank">an illustrious group</a>!</p>
+<p>Ed’s leadership in collaboration and diplomacy has led to Crossref&rsquo;s success in making research objects more accessible and useful to a wide global audience, including publishers, researchers, funders, societies, libraries, and more. Crossref&rsquo;s founding purpose is stated as:</p>
+<blockquote>
+<p>“To promote the development and cooperative use of new and innovative technologies to speed and facilitate scientific and other scholarly research”.</p>
+</blockquote>
+<p>Acknowledging his privilege as a Western, university-educated, white man, which he comments has helped his career, Ed prioritises collaboration, open communication, teamwork, and equity in creating a positive, trusted environment that has brought together a diverse team of 49 colleagues from 11 countries. The organisation’s culture allows everyone to grow and contribute to the mission of a connected <a href="https://www.crossref.org/documentation/research-nexus">research nexus</a> by including and developing solutions for community members across the globe.</p>
+<p>Before his journey with Crossref, Ed held a number of roles at Harcourt Brace, including launching Academic Press&rsquo;s first online journal. This experience led to his involvement with the DOI-X pilot project, which became the foundation for Crossref. Since its launch in 2000, under his leadership, Crossref has become an important component of the research ecosystem, an open scholarly infrastructure with nearly 20,000 members across more than 150 countries. Crossref is now the main source of &gt;155 million records about all kinds of research objects and this open metadata registry is relied upon by thousands of tools and services across the whole research system.</p>
+<p>Ed’s influence is also evident throughout the wider world of open scholarly infrastructure; aside from establishing Crossref, he co-founded <a href="https://ror.org/" target="_blank">ROR</a> and was a founding member of <a href="https://orcid.org/" target="_blank">ORCID</a>, where he also served as board Chair. Further, he has engaged with the community by holding various advisory positions, including the <a href="https://www.doi.org/" target="_blank">DOI Foundation</a>, the Digital Object Naming Authority (DONA), and the Coalition for Diversity in Scholarly Publishing (C4DISC).</p>
+<p>Ed also emphasised that the long-term success of community initiatives lies in patience and the ability to agree on high-level principles of purpose and governance, which oil the wheels of collaboration, encourage participation, and enable more progressive change that builds and lasts over time. He says, &ldquo;to solve collective problems it takes collaboration and diplomacy, bringing together a group of stakeholders, balancing their different concerns, building trust, and reaching consensus.&rdquo;</p>
+<p>The adoption of the <a href="https://openscholarlyinfrastructure.org" target="_blank">Principles of Open Scholarly Infrastructure (POSI)</a>, along with (so far) 14 other organisations, was a key <a href="https://www.crossref.org/categories/posi/">turning point for Crossref</a>, Ed said, and one which has already paved the way for more openness of key metadata for the community, including references and retractions, as well as closer partnerships with many of the other POSI adoptees, given their shared understanding and experience.</p>
+<p>Referencing the current &ldquo;peak hype&rdquo; around artificial intelligence (AI), Ed points to the challenge of research integrity and the &ldquo;growing field of science sleuthing&rdquo; as a forthcoming area that Crossref and open metadata may help tackle at scale, including through Crossref&rsquo;s <a href="https://www.crossref.org/categories/research-integrity">Integrity of the Scholarly Record (ISR) Program</a> and&mdash;of course&mdash;community-wide collaboration.</p>
+<p>In concluding his talk, Ed describes his hopes and dreams for scholarly communications in the future. He would like to see more balance in diversity in the leadership of open scholarly infrastructure, extended integrations among the various foundational infrastructures, and a fully connected system where the scholarly record is inclusive globally.</p>
+<h4 id="ed-on-behalf-of-all-your-proud-colleagues-at-crossref-thank-you-and-congratulations">Ed, on behalf of all your proud colleagues at Crossref, thank you and congratulations!</h4>
+
+<span class="feed-item-link">
+<a href="https://www.crossref.org/blog/ed-pentz-accepts-the-2024-niso-miles-conrad-award/">https://www.crossref.org/blog/ed-pentz-accepts-the-2024-niso-miles-conrad-award/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.crossref.org/blog/ed-pentz-accepts-the-2024-niso-miles-conrad-award/">Save to Pocket</a>
 </span>
 
 ---

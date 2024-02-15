@@ -1,11 +1,389 @@
 ---
 title: pacific 2024.07
-updated: 2024-02-13 08:48:43
+updated: 2024-02-14 21:51:17
 ---
 
 # pacific 2024.07
 
-(date: 2024-02-13 08:48:43)
+(date: 2024-02-14 21:51:17)
+
+---
+
+## Defendant charged in fatal hit-and-run released from prison
+
+date: 2024-02-15, updated: 2024-02-15, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — A man charged in a fatal hit-and-run of a 2-year-old girl in June 2023 was released from prison.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/defendant-charged-in-fatal-hit-and-run-released-from-prison/article_a2e7638c-cbbf-11ee-88b9-2bd10171862f.html">https://www.mvariety.com/news/defendant-charged-in-fatal-hit-and-run-released-from-prison/article_a2e7638c-cbbf-11ee-88b9-2bd10171862f.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/defendant-charged-in-fatal-hit-and-run-released-from-prison/article_a2e7638c-cbbf-11ee-88b9-2bd10171862f.html">Save to Pocket</a>
+</span>
+
+---
+
+## Japanese companies sought to establish presence in Palau
+
+date: 2024-02-15, from: Pacific Island Times
+
+By Pacific Island Times News Staff Koror-- Palau President Surangel S. Whipps, Jr. met with a delegation of Japanese businessmen and...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/japanese-companies-sought-to-establish-presence-in-palau">https://www.pacificislandtimes.com/post/japanese-companies-sought-to-establish-presence-in-palau</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/japanese-companies-sought-to-establish-presence-in-palau">Save to Pocket</a>
+</span>
+
+---
+
+##  Citadel launches Guam Exchange 
+
+date: 2024-02-15, from: Pacific Island Times
+
+By Pacific Island Times News Staff The investment management company Citadel Pacific has launched Guam Exchange, which established the...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/citadel-launches-guam-exchange">https://www.pacificislandtimes.com/post/citadel-launches-guam-exchange</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/citadel-launches-guam-exchange">Save to Pocket</a>
+</span>
+
+---
+
+## Lawmakers hold hearing on bill limiting portions for sugary drinks
+
+date: 2024-02-15, updated: 2024-02-15, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Lawmakers heard testimony on Bill 199-37 on Monday. The measure would limit portions for sugary drinks sold at eating and drinking establishments and at vending machines to no more than 17 fluid ounces. Food service establishments and eating and drinking establishments also wouldn't be allowed to use cups larger than 17 fluid ounces when the customer is to use the cup for self-service.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/lawmakers-hold-hearing-on-bill-limiting-portions-for-sugary-drinks/article_2061d2d2-cbb8-11ee-8322-cbee0631f95c.html">https://www.mvariety.com/news/lawmakers-hold-hearing-on-bill-limiting-portions-for-sugary-drinks/article_2061d2d2-cbb8-11ee-8322-cbee0631f95c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/lawmakers-hold-hearing-on-bill-limiting-portions-for-sugary-drinks/article_2061d2d2-cbb8-11ee-8322-cbee0631f95c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Science says Tuvalu will drown within decades; the reality is worse
+
+date: 2024-02-15, from: Pacific Island Times
+
+By Niuone Eliuta Tuvalu, a picturesque island nation nestled in the vast expanse of the Pacific Ocean, is currently grappling with a...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/science-says-tuvalu-will-drown-within-decades-the-reality-is-worse">https://www.pacificislandtimes.com/post/science-says-tuvalu-will-drown-within-decades-the-reality-is-worse</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/science-says-tuvalu-will-drown-within-decades-the-reality-is-worse">Save to Pocket</a>
+</span>
+
+---
+
+## Ebeye road upgrade
+
+date: 2024-02-15, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Kwajalein Atoll Development Authority is paving the way for the future of Ebeye — quite literally. The KADA-designated contractor Pacific International Inc. has been on the roll with the&#160; Ebeye paving since the end of January. Last week, PII was paving the busiest intersection that connects the main traffic and commuters to and [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/ebeye-road-upgrade/">Ebeye road upgrade</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/ebeye-road-upgrade/">https://marshallislandsjournal.com/ebeye-road-upgrade/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/ebeye-road-upgrade/">Save to Pocket</a>
+</span>
+
+---
+
+## Defendant takes deferred plea in rape case
+
+date: 2024-02-15, updated: 2024-02-15, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — A man entered into a deferred plea agreement for charges stemming from sexually assaulting a woman known to him multiple times over the course of two years.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/defendant-takes-deferred-plea-in-rape-case/article_8a64c4ce-cbad-11ee-aa20-a31c5b99a424.html">https://www.mvariety.com/news/defendant-takes-deferred-plea-in-rape-case/article_8a64c4ce-cbad-11ee-aa20-a31c5b99a424.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/defendant-takes-deferred-plea-in-rape-case/article_8a64c4ce-cbad-11ee-aa20-a31c5b99a424.html">Save to Pocket</a>
+</span>
+
+---
+
+## Nawen pursues further education to grow in the workforce
+
+date: 2024-02-15, from: University of the South Pacific (Fiji)
+
+<p>The pursuit of knowledge isn’t limited to learning more about the world around us or...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/nawen-pursues-further-education-to-grow-in-the-workforce/">Nawen pursues further education to grow in the workforce</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/nawen-pursues-further-education-to-grow-in-the-workforce/">https://www.usp.ac.fj/news/nawen-pursues-further-education-to-grow-in-the-workforce/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/nawen-pursues-further-education-to-grow-in-the-workforce/">Save to Pocket</a>
+</span>
+
+---
+
+## New USP Solomon Island Campus opened its doors for a media tour
+
+date: 2024-02-15, from: University of the South Pacific (Fiji)
+
+<p>Media organisations in the Solomon Islands had the opportunity to tour the new University of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/new-usp-solomon-island-campus-opened-its-doors-for-a-media-tour/">New USP Solomon Island Campus opened its doors for a media tour</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/new-usp-solomon-island-campus-opened-its-doors-for-a-media-tour/">https://www.usp.ac.fj/news/new-usp-solomon-island-campus-opened-its-doors-for-a-media-tour/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/new-usp-solomon-island-campus-opened-its-doors-for-a-media-tour/">Save to Pocket</a>
+</span>
+
+---
+
+## Shidler student takes bright idea to $512K viral success
+
+date: 2024-02-15, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Jayson Siu’s business skyrocketed after he posted a viral TikTok video in 2021, showcasing an <abbr>LED</abbr>-lined rearview mirror.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/14/shidler-student-viral-success/">Shidler student takes bright idea to $512<abbr>K</abbr> viral success</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/14/shidler-student-viral-success/">https://www.hawaii.edu/news/2024/02/14/shidler-student-viral-success/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/14/shidler-student-viral-success/">Save to Pocket</a>
+</span>
+
+---
+
+## Bikinians get unusual payment
+
+date: 2024-02-14, from: Marshal Islands Journal
+
+<p>The KBE Local Government handed out the first quarterly compensation payments to Bikinians in 14 months this past Friday. Since the late 1980s, quarterly payments had been provided to Bikinians like clockwork, based on the Bikini Claims Trust Fund, which was capitalized by the first Compact of Free Association’s nuclear test compensation section. But money [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/bikinians-get-unusual-payment/">Bikinians get unusual payment</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/bikinians-get-unusual-payment/">https://marshallislandsjournal.com/bikinians-get-unusual-payment/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/bikinians-get-unusual-payment/">Save to Pocket</a>
+</span>
+
+---
+
+## Turban jumps to top of conference awards
+
+date: 2024-02-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> A Rainbow Wahine earns Athlete of the Week for the Mountain Pacific Sports Federation for a second straight week.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/14/turban-earns-mpsf/">Turban jumps to top of conference awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/14/turban-earns-mpsf/">https://www.hawaii.edu/news/2024/02/14/turban-earns-mpsf/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/14/turban-earns-mpsf/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Mānoa unveils renovated Waterhouse sports performance facility
+
+date: 2024-02-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The facility underwent a $3.3 million renovation over the past year.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/14/renovated-waterhouse-sports-facility/"><abbr>UH</abbr> Mānoa unveils renovated Waterhouse sports performance facility</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/14/renovated-waterhouse-sports-facility/">https://www.hawaii.edu/news/2024/02/14/renovated-waterhouse-sports-facility/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/14/renovated-waterhouse-sports-facility/">Save to Pocket</a>
+</span>
+
+---
+
+## UH News Image of the Week: Jersey day
+
+date: 2024-02-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> This week’s image is from <abbr>UH</abbr> System's Jon Anthony Burdios.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/14/uh-news-image-of-the-week-jersey-day/"><abbr>UH</abbr> News Image of the Week: Jersey day</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/14/uh-news-image-of-the-week-jersey-day/">https://www.hawaii.edu/news/2024/02/14/uh-news-image-of-the-week-jersey-day/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/14/uh-news-image-of-the-week-jersey-day/">Save to Pocket</a>
+</span>
+
+---
+
+## Korean reality TV show to feature Marianas
+
+date: 2024-02-14, updated: 2024-02-15, from: Marianas Variety
+
+(MVA) — The South Korean reality travel entertainment television show “It’s On Me Tour” is expected to bring the Marianas $500,000 in publicity exposure with a three-part series premiering on Feb. 17, 2024.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/korean-reality-tv-show-to-feature-marianas/article_0fe54610-cb44-11ee-b254-67f38034e5be.html">https://www.mvariety.com/news/local/korean-reality-tv-show-to-feature-marianas/article_0fe54610-cb44-11ee-b254-67f38034e5be.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/korean-reality-tv-show-to-feature-marianas/article_0fe54610-cb44-11ee-b254-67f38034e5be.html">Save to Pocket</a>
+</span>
+
+---
+
+## 2 Saipan students make Hollins University Dean's List
+
+date: 2024-02-14, updated: 2024-02-15, from: Marianas Variety
+
+ROANOKE, Va.  — Hollins University congratulates students who earned Dean's List honors during the fall 2023 semester. To attain this distinction, students must earn at least a 3.5 average on a 4.0 grading scale. Congratulations to these distinguished scholars on earning this academic achievement.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/2-saipan-students-make-hollins-university-deans-list/article_8bdcb310-cb3b-11ee-8567-07fcb71c61d4.html">https://www.mvariety.com/news/community_bulletins/2-saipan-students-make-hollins-university-deans-list/article_8bdcb310-cb3b-11ee-8567-07fcb71c61d4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/2-saipan-students-make-hollins-university-deans-list/article_8bdcb310-cb3b-11ee-8567-07fcb71c61d4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Total amount invested in bitcoin back over $1 trillion
+
+date: 2024-02-14, updated: 2024-02-15, from: Marianas Variety
+
+LONDON (Reuters) — The total amount of money invested in bitcoin surpassed $1 trillion on Wednesday for the first time since November 2021 as inflows to U.S. spot bitcoin exchange traded funds continued to support prices.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/business_news/total-amount-invested-in-bitcoin-back-over-1-trillion/article_3c4b0478-cb3b-11ee-ba9b-93885fcb33ee.html">https://www.mvariety.com/business/business_news/total-amount-invested-in-bitcoin-back-over-1-trillion/article_3c4b0478-cb3b-11ee-ba9b-93885fcb33ee.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/business_news/total-amount-invested-in-bitcoin-back-over-1-trillion/article_3c4b0478-cb3b-11ee-ba9b-93885fcb33ee.html">Save to Pocket</a>
+</span>
+
+---
+
+## No unsolved mystery
+
+date: 2024-02-14, updated: 2024-02-15, from: Marianas Variety
+
+MUCH hoopla has been made over the latest unconfirmed sighting of Amelia Earhart’s airplane that disappeared in the Pacific Ocean in 1937. Explorers continue to spend millions and millions of dollars trying to solve a mystery that is not a mystery at all.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/views/letters_to_editor/no-unsolved-mystery/article_123ee1e0-cb40-11ee-a2e2-87823ae682c4.html">https://www.mvariety.com/views/letters_to_editor/no-unsolved-mystery/article_123ee1e0-cb40-11ee-a2e2-87823ae682c4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/views/letters_to_editor/no-unsolved-mystery/article_123ee1e0-cb40-11ee-a2e2-87823ae682c4.html">Save to Pocket</a>
+</span>
+
+---
+
+## US House Republicans win impeachment of Biden's top border official
+
+date: 2024-02-14, updated: 2024-02-15, from: Marianas Variety
+
+WASHINGTON (Reuters) — The Republican-controlled U.S. House of Representatives on Tuesday narrowly voted to impeach Democratic President Joe Biden's top border official, as immigration shapes up to be a major issue in this year's elections.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-house-republicans-win-impeachment-of-bidens-top-border-official/article_a20b0750-cb49-11ee-8635-efdebe9cf7a7.html">https://www.mvariety.com/news/national/us-house-republicans-win-impeachment-of-bidens-top-border-official/article_a20b0750-cb49-11ee-8635-efdebe9cf7a7.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-house-republicans-win-impeachment-of-bidens-top-border-official/article_a20b0750-cb49-11ee-8635-efdebe9cf7a7.html">Save to Pocket</a>
+</span>
+
+---
+
+## Pirates eliminate Blue Jays, secure slot in finals
+
+date: 2024-02-14, updated: 2024-02-15, from: Marianas Variety
+
+THE Pirates became the first team to secure a spot in the championship of the SBL Masters League after eliminating the Blue Jays, 20-10,  at the Francisco “Tan Ko” Palacios Baseball Field on Wednesday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/pirates-eliminate-blue-jays-secure-slot-in-finals/article_e1f6aec8-caf4-11ee-b33a-87d7257d3b6e.html">https://www.mvariety.com/sports/localsports/pirates-eliminate-blue-jays-secure-slot-in-finals/article_e1f6aec8-caf4-11ee-b33a-87d7257d3b6e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/pirates-eliminate-blue-jays-secure-slot-in-finals/article_e1f6aec8-caf4-11ee-b33a-87d7257d3b6e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Green flag on Saipan
+
+date: 2024-02-14, updated: 2024-02-15, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan's east and south recreational beaches this week as part of the regularly scheduled sampling.  None of the samples collected contained excessive concentration of fecal indicator bacteria nor did they exceed CNMI marine water quality standards. Therefore, BECQ assigns the sampled beach sites a green flag. Enjoy our waters!
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/green-flag-on-saipan/article_8be96b3e-cb43-11ee-b5ed-2bdb61b3a8c4.html">https://www.mvariety.com/news/local/green-flag-on-saipan/article_8be96b3e-cb43-11ee-b5ed-2bdb61b3a8c4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/green-flag-on-saipan/article_8be96b3e-cb43-11ee-b5ed-2bdb61b3a8c4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Hawaiian Word of the Week: Paʻahana
+
+date: 2024-02-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> <span aria-label="Paahana">Pa&#699;ahana</span>&#8212;Industrious, busy, hard-working.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/13/hawaiian-word-of-the-week-paahana/">Hawaiian Word of the Week: Paʻahana</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/13/hawaiian-word-of-the-week-paahana/">https://www.hawaii.edu/news/2024/02/13/hawaiian-word-of-the-week-paahana/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/13/hawaiian-word-of-the-week-paahana/">Save to Pocket</a>
+</span>
+
+---
+
+## Kaua‘i-Niihau community celebrates Hawaiian Language Month
+
+date: 2024-02-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The celebration brought together more than 100 students from Hawaiian language medium education schools on <span aria-label="Kauai">Kaua&#699;i</span>, teachers, &#699;ohana and more than 30 community organizations.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/13/kauai-niihau-hawaiian-language-month/">Kaua‘i-Niihau community celebrates Hawaiian Language Month</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/13/kauai-niihau-hawaiian-language-month/">https://www.hawaii.edu/news/2024/02/13/kauai-niihau-hawaiian-language-month/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/13/kauai-niihau-hawaiian-language-month/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Hilo alums net honors from national nursing association
+
+date: 2024-02-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">1</span> <span class="rt-label rt-postfix">minute</span></span> The <abbr>AANP</abbr> State award is granted annually to one nurse practitioner from each state.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/13/uh-hilo-alums-nursing-association-honors/"><abbr>UH</abbr> Hilo alums net honors from national nursing association</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/13/uh-hilo-alums-nursing-association-honors/">https://www.hawaii.edu/news/2024/02/13/uh-hilo-alums-nursing-association-honors/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/13/uh-hilo-alums-nursing-association-honors/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Hilo chancellor invests in fund to enhance student experience
+
+date: 2024-02-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Bonnie D. Irwin establishes a fund to support undergrads with expenses like travel for conferences or materials needed for research.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/13/uh-hilo-chancellor-invests-in-student-experience/"><abbr>UH</abbr> Hilo chancellor invests in fund to enhance student experience</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/13/uh-hilo-chancellor-invests-in-student-experience/">https://www.hawaii.edu/news/2024/02/13/uh-hilo-chancellor-invests-in-student-experience/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/13/uh-hilo-chancellor-invests-in-student-experience/">Save to Pocket</a>
+</span>
+
+---
+
+## 2 UH Mānoa professors named Living Treasures
+
+date: 2024-02-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Davianna <span aria-label="Pomaikai">P&#333;maika&#699;i</span> McGregor and Ricardo Trimillos are among the five individuals honored as Living Treasures of <span aria-label="Hawaii">Hawai&#699;i</span> by Honpa Hongwanji Mission of <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/13/mcgregor-trimillos-living-treasures/">2 <abbr>UH</abbr> Mānoa professors named Living Treasures</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/13/mcgregor-trimillos-living-treasures/">https://www.hawaii.edu/news/2024/02/13/mcgregor-trimillos-living-treasures/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/13/mcgregor-trimillos-living-treasures/">Save to Pocket</a>
+</span>
+
+---
+
+## Art meets science at UH West Oʻahu
+
+date: 2024-02-14, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The creative process of science is the focus of a new <abbr>UH</abbr> West <span aria-label="Oahu">O&#699;ahu</span> science, technology, engineering arts and mathematics class.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/13/art-meets-science-uh-west-oahu/">Art meets science at <abbr>UH</abbr> West Oʻahu</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/13/art-meets-science-uh-west-oahu/">https://www.hawaii.edu/news/2024/02/13/art-meets-science-uh-west-oahu/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/13/art-meets-science-uh-west-oahu/">Save to Pocket</a>
+</span>
+
+---
+
+## Romance scammers won’t just break your heart, they’ll break your bank account as well
+
+date: 2024-02-14, from: Pacific Island Times
+
+By Mar-Vic Cagurangan E.D, a 74-year-old resident of Barrigada, looked forward to Valentine’s Day. She “met a good-looking gentleman” on...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/romance-scammers-won-t-just-break-your-heart-they-ll-break-your-bank-account">https://www.pacificislandtimes.com/post/romance-scammers-won-t-just-break-your-heart-they-ll-break-your-bank-account</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/romance-scammers-won-t-just-break-your-heart-they-ll-break-your-bank-account">Save to Pocket</a>
+</span>
+
+---
+
+## FSM reinstates scholarships for students abroad
+
+date: 2024-02-14, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Federated States of Micronesia's National Department of Education has announced the full...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/fsm-reinstates-scholarships-for-students-abroad">https://www.pacificislandtimes.com/post/fsm-reinstates-scholarships-for-students-abroad</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/fsm-reinstates-scholarships-for-students-abroad">Save to Pocket</a>
+</span>
+
+---
+
+## Navigating long-distance relationships
+
+date: 2024-02-13, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/navigating-long-distance-relationships/article_e5878b7a-c9fa-11ee-a563-2facbdb0ffb0.html">https://www.manoanow.org/kaleo/navigating-long-distance-relationships/article_e5878b7a-c9fa-11ee-a563-2facbdb0ffb0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/navigating-long-distance-relationships/article_e5878b7a-c9fa-11ee-a563-2facbdb0ffb0.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -125,6 +503,18 @@ date: 2024-02-13, updated: 2024-02-13, from: Marianas Variety
 
 <span class="feed-item-link">
 <a href="https://www.mvariety.com/sports/nationalsports/nba-roundup-victor-wembanyama-swats-10-shots-in-triple-double/article_25698204-ca76-11ee-9e9b-d72c95248f3e.html">https://www.mvariety.com/sports/nationalsports/nba-roundup-victor-wembanyama-swats-10-shots-in-triple-double/article_25698204-ca76-11ee-9e9b-d72c95248f3e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/nba-roundup-victor-wembanyama-swats-10-shots-in-triple-double/article_25698204-ca76-11ee-9e9b-d72c95248f3e.html">Save to Pocket</a>
+</span>
+
+---
+
+## CNMI still struggling to attract and retain US workers 
+
+date: 2024-02-13, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Despite an annual expenditure of between $1.8 million and $2.4 million on vocational education, apprenticeship and...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/cnmi-still-struggling-to-attract-and-retain-us-workers">https://www.pacificislandtimes.com/post/cnmi-still-struggling-to-attract-and-retain-us-workers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/cnmi-still-struggling-to-attract-and-retain-us-workers">Save to Pocket</a>
 </span>
 
 ---
@@ -459,18 +849,6 @@ date: 2024-02-12, from: University of the South Pacific (Fiji)
 
 <span class="feed-item-link">
 <a href="https://www.usp.ac.fj/news/australian-student-journos-explore-fijis-media-landscape-in-cross-cultural-exchange-with-usp-journalism-programme/">https://www.usp.ac.fj/news/australian-student-journos-explore-fijis-media-landscape-in-cross-cultural-exchange-with-usp-journalism-programme/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/australian-student-journos-explore-fijis-media-landscape-in-cross-cultural-exchange-with-usp-journalism-programme/">Save to Pocket</a>
-</span>
-
----
-
-## Navigating long-distance relationships
-
-date: 2024-02-12, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
-
-
-
-<span class="feed-item-link">
-<a href="https://www.manoanow.org/kaleo/navigating-long-distance-relationships/article_e5878b7a-c9fa-11ee-a563-2facbdb0ffb0.html">https://www.manoanow.org/kaleo/navigating-long-distance-relationships/article_e5878b7a-c9fa-11ee-a563-2facbdb0ffb0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/navigating-long-distance-relationships/article_e5878b7a-c9fa-11ee-a563-2facbdb0ffb0.html">Save to Pocket</a>
 </span>
 
 ---

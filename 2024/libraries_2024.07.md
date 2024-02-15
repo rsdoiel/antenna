@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.07
-updated: 2024-02-13 08:48:43
+updated: 2024-02-14 21:51:17
 ---
 
 # libraries 2024.07
 
-(date: 2024-02-13 08:48:43)
+(date: 2024-02-14 21:51:17)
 
 ---
 
@@ -33,6 +33,32 @@ Peng, Haonan; Fei, Linlin; He, Xiaolong; Carmeliet, Jan; Churakov, Sergey V.; Pr
 
 ---
 
+## Guest Post — The Perplexing Puzzle of the Top 2% Scientists List
+
+date: 2024-02-14, from: Scholarly Kitchen
+
+<p>A list of the most influential scientists suffers from anomalies and inaccuracies.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/14/guest-post-the-perplexing-puzzle-of-the-top-2-scientists-list/">Guest Post &#8212; The Perplexing Puzzle of the Top 2% Scientists List</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/14/guest-post-the-perplexing-puzzle-of-the-top-2-scientists-list/">https://scholarlykitchen.sspnet.org/2024/02/14/guest-post-the-perplexing-puzzle-of-the-top-2-scientists-list/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/14/guest-post-the-perplexing-puzzle-of-the-top-2-scientists-list/">Save to Pocket</a>
+</span>
+
+---
+
+## Orley Farm, by Anthony Trollope
+
+date: 2024-02-13, from: Standard Ebooks, new releaases
+
+A middle-aged widow is taken to court over her husband’s will, twenty years after his death.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/anthony-trollope/orley-farm">https://standardebooks.org/ebooks/anthony-trollope/orley-farm</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/anthony-trollope/orley-farm">Save to Pocket</a>
+</span>
+
+---
+
 ## Guest Post — How Identifiers Can Help Publishers Do a Better Job of Curating the Scholarly Record
 
 date: 2024-02-13, from: Scholarly Kitchen
@@ -51,7 +77,7 @@ date: 2024-02-13, from: Scholarly Kitchen
 
 date: 2024-02-12, from: Association of Research Libraries News
 
-<p>Last Updated on February 12, 2024, 3:48 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 13 &#124; Wednesday, February 14 &#124; Thursday,...</p>
+<p>Last Updated on February 14, 2024, 1:57 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 13 &#124; Wednesday, February 14 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-12-15/">Day in Review (February 12–15)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 
