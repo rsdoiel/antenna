@@ -1,11 +1,125 @@
 ---
 title: motorcycles 2024.07
-updated: 2024-02-14 21:51:18
+updated: 2024-02-15 10:00:13
 ---
 
 # motorcycles 2024.07
 
-(date: 2024-02-14 21:51:18)
+(date: 2024-02-15 10:00:13)
+
+---
+
+## AGV’s Limited Edition Mono Ghiaccio
+
+date: 2024-02-15, from: Cycle World News
+
+The Mono Ghiaccio stands as an authentic replica of the AGV helmet utilized by champions in the MotoGP World Championship.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/agv-limited-edition-mono-ghiaccio/">https://www.cycleworld.com/the-wire/agv-limited-edition-mono-ghiaccio/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/agv-limited-edition-mono-ghiaccio/">Save to Pocket</a>
+</span>
+
+---
+
+## CCM Racing: “Rydin” Along With the No. 7 Team in Daytona
+
+date: 2024-02-15, from: Kickin the Tires blog
+
+CCM Racing is excited to announce that Rydin &#8211; an Illinois-based premier manufacturer of decals, parking permits, identification products and more &#8211; will be “ridin’” along on the No. 7&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/arca-series/ccm-racing-rydin-along-with-the-no-7-team-in-daytona/">https://kickinthetires.net/nascar/arca-series/ccm-racing-rydin-along-with-the-no-7-team-in-daytona/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/arca-series/ccm-racing-rydin-along-with-the-no-7-team-in-daytona/">Save to Pocket</a>
+</span>
+
+---
+
+## New DYU T1 Is A Folding Magnesium E-Bike From China
+
+date: 2024-02-15, from: Ride Apart, Electric Motorcycle News
+
+Compact, lightweight, and affordable – is this the ultimate urban commuter? 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708718/dyu-t1-electric-folding-bike/">https://www.rideapart.com/news/708718/dyu-t1-electric-folding-bike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708718/dyu-t1-electric-folding-bike/">Save to Pocket</a>
+</span>
+
+---
+
+## Triumph Eyeing Triumphant Run In 2024 Daytona 200 With PHR Performance Team
+
+date: 2024-02-15, from: Ride Apart, Electric Motorcycle News
+
+Peter Hickman and Richard Cooper will be piloting two Triumph Street Triple RS bikes race-prepped with the support of Triumph. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708717/triumph-returns-daytona-200-phr-performance/">https://www.rideapart.com/news/708717/triumph-returns-daytona-200-phr-performance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708717/triumph-returns-daytona-200-phr-performance/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Triumph Tiger 1200 Rally and GT Explorers First Look
+
+date: 2024-02-15, from: Cycle World News
+
+Triumph refines its Tiger 1200 Explorer models for 2024 with updates to the engine, enhanced comfort and ergonomics, and standard Active Preload Reduction.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/triumph-tiger-1200-rally-and-gt-explorer-first-look/">https://www.cycleworld.com/bikes/triumph-tiger-1200-rally-and-gt-explorer-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/triumph-tiger-1200-rally-and-gt-explorer-first-look/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Triumph Tiger 1200 Explorer Range Gets Minor But Key Updates
+
+date: 2024-02-15, from: Ride Apart, Electric Motorcycle News
+
+A host of small improvements add up to greater rider comfort in the saddle, says the house of Hinckley.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708716/2024-triumph-tiger-1200-range/">https://www.rideapart.com/news/708716/2024-triumph-tiger-1200-range/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708716/2024-triumph-tiger-1200-range/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Triumph Tiger GT Pro and Rally Pro First Ride Review
+
+date: 2024-02-15, from: Cycle World News
+
+Triumph gave its Tiger 900 models more power with upgraded chassis and looks. Is it enough to propel them to the top of the class?
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-reviews/triumph-tiger-gt-pro-and-rally-pro-first-ride-review/">https://www.cycleworld.com/motorcycle-reviews/triumph-tiger-gt-pro-and-rally-pro-first-ride-review/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/triumph-tiger-gt-pro-and-rally-pro-first-ride-review/">Save to Pocket</a>
+</span>
+
+---
+
+## The future of self-driving
+
+date: 2024-02-15, from: Herman Bear Blog
+
+<p>Modern self-driving technology still has a way to go before it becomes generally safe, and useful enough for broader adoption. While I do believe that at some point in my lifetime I'll be able to hail an eTaxi, it'll really depend on where I am, the road infrastructure, and the local laws and regulations.</p>
+<p>Fully independent autonomous vehicles have a few other shortcomings (assuming we get the tech right). The first is that traffic will not be a solved issue. In-fact, it may become an even bigger issue once the friction of learning to drive (or even being old enough to get a license) is removed.</p>
+<p>This is compounded by the natural "rush hour" cycle (which, lets be honest, isn't an hour) where the suburban population surges into the city in the morning for work, then out again in the late afternoon, competing with one-another to get home.</p>
+<p>Let me propose a radical new idea: The hitched pod.</p>
+<p>Instead of fully independent vehicles which cause traffic and <a href="https://en.wikipedia.org/wiki/Traffic_wave" target="_blank">phantom traffic</a> due to how they accelerate, hitched pods are mechanically bound to one another. This creates space efficiency on the roadway, and due to their mechanical linkage they all accelerate uniformly.</p>
+<p>These hitched pods would not have to be independently owned either, reducing the commuters high up-front cost of vehicle ownership. Instead they could be operated either privately or publicly since vehicle time-usage for the average commuter is only about 5-10% of their day with their vehicle sitting dormant and depreciating the other 95% of the time. This is the real "sharing-economy" at work.</p>
+<p>Not only does this make trips cost effective for average commuters, the hitched pods could also be time optimised using algorithms to ensure they handle the flow of commuters as efficiently as possible (eg: in the morning more pods bring people in from the suburbs, and vice-versa in the afternoons).</p>
+<p>This also frees up parking space in cities, which reduces the burden on local governments and independent car drivers looking for a place to park their vehicle, but also creates a better overall atmosphere for residents. Parking lots could be transformed into apartments (increasing urban density and housing availability), businesses (increasing livelihood through more foot traffic), or green spaces (which are just great).</p>
+<p>There are a few optimisations that could make hitched-pods the de-facto transportation of the future.</p>
+<ol>
+<li>There could be consistent hop-on hop-off points with fixed times (say every 15 minutes) so commuters can easily plan their commute.</li>
+<li>Payments could be made simply by tapping a bank card reducing the need for apps. It also means commuters can get on a hitched pod even when their phone is dead.</li>
+<li>Open the mechanical linkages between the pods so commuters can easily find a place to sit (or stand) during transit. This would allow for better space efficiency and reduce the cost of the system per commuter.</li>
+<li>The city could create dedicated lanes for hitched-pods so that they avoid traffic. This is both a boon to the hitched-pod riders and independent vehicle users since there will be less vehicles on the road overall, and therefore less car traffic.</li>
+<li>Instead of using a self-driving pilot car (which relies on fallible AI and complex sensors and systems to operate) we instead use a mechanical direction system. I propose 2 steel beams which the pods rest upon on conical wheels. This will ensure the pods do not go off-route, and also reduces rolling friction and, therefore, the energy required to move the pods.</li>
+</ol>
+<p>I know the idea of transporting hundreds of thousands of people efficiently seems neigh impossible. But I think this idea just might work if we put our minds to it.</p>
+<p><strong>...trains. I'm talking about trains.</strong></p>
+<h5 id="enjoyed-the-article-i-write-about-1-2-a-month-subscribe-via-email-or-rss-feed">Enjoyed the article? I write about 1-2 a month. Subscribe via <a href="/subscribe/">email</a> or <a href="/feed/">RSS feed</a>.</h5>
+
+<span class="feed-item-link">
+<a href="https://herman.bearblog.dev/the-future-of-self-driving/">https://herman.bearblog.dev/the-future-of-self-driving/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://herman.bearblog.dev/the-future-of-self-driving/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -45,7 +159,7 @@ By Jerry Jordan, Editor DAYTONA BEACH, Fla. – Even before the rain-advanced Bu
 
 ---
 
-## 2024 King Of The Baggers Will Race Alongside MotoGP At COTA
+## 2024 King Of The Baggers To Race At COTA During MotoGP Round
 
 date: 2024-02-15, from: Ride Apart, Electric Motorcycle News
 

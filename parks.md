@@ -1,11 +1,192 @@
 ---
 title: parks 2024.07
-updated: 2024-02-14 21:51:17
+updated: 2024-02-15 10:00:13
 ---
 
 # parks 2024.07
 
-(date: 2024-02-14 21:51:17)
+(date: 2024-02-15 10:00:13)
+
+---
+
+## Farmington archaeologist engages with local elementary school students
+
+date: 2024-02-15, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Farmington archaeologist engages with local elementary school students</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif">Teachers from Apache Elementary School invited Farmington Field Office Archaeologist Mark Williams to help judge their science fair in Farmington, New Mexico, in early 2024.</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif">Mark has worked for the Farmington District since 2023 as an archaeologist, and he connected with teachers from the school at a previous outreach event that took place at the Farmington City Museum on International Archaeology Day, organized by Farmington Archaeologist Cody Walton.</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif">“I was really impressed,” said Mark. “There was some solid science being done. Really insightful. I’ve taught some college students and some of the projects were even better than that.”</span></span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="105b8a52-4628-46d6-8a37-65ed369f69f7" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/Apache%20Elementary%20School%20Outreach%204_Mark%20Williams.jpg?itok=Bph0dLyI" width="640" height="486" alt="A photo of a man standing next to a row of table top displays containing various science projects. He is holding a pencil and looking at the displays with a clipboard. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Mark Wiliams, Farmington Field Office Archaeologist, judges projects at the Apache Elementary School Science Fair in early 2024. Williams was asked to assist with the science fair after connecting with faculty at a previous outreach event in Farmington. (Photo by Mark Williams)</figcaption>
+</figure>
+
+
+<p><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif">Following the science fair, the faculty asked Mark to return to the school to give a presentation on petroglyphs, where he demonstrated a new interactive website the agency is developing, which allows users to virtually view and explore petroglyphs on public lands.</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif">The feedback was overwhelmingly positive, with teachers telling Mark that the students enjoyed the experience and were highly engaged throughout the presentation.</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif">The class Mark presented to is part of a Navajo language immersion program at the school. He says it was a new and rewarding experience in his career to be able to give the presentation and help facilitate that kind of connection between the class and the petroglyphs.</span></span></span></p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="5948b2fa-58bb-454a-8a31-ca0fe187ac25" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/Apache%20Elementary%20School%20Outreach%203_Mark%20Williams.jpg.jpeg?itok=hzwxDUDu" width="640" height="480" alt="A photo of a man standing in front of students in an elementary school classroom, with display behind him that says "Archaeology."" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Mark Willaims, Farmington Field Office Archaeologist, talks about petroglyphs to students at Apache Elementary School. Williams was asked to do the presentation after connecting with faculty at a previous outreach event in Farmington. (Photo by Mark Williams)</figcaption>
+</figure>
+
+
+<p><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif">“It was really refreshing. To tap into some of that excitement is really cool.”</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif">School faculty told Mark they would love to have more BLM scientists come and visit to provide real world examples of the topics they cover in school, such as geology, physics, and biology, and also what career options are available in those fields.</span></span></span></p>
+
+<p><span style="font-size:11pt"><span style="line-height:normal"><span style="font-family:Calibri,sans-serif">Several other teachers in other grade levels have also expressed interest in having BLM guest presenters as well, which could lead to a partnership that is beneficial for both the school and the agency.</span></span></span></p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/youth-and-educators" hreflang="en">Youth and Educators</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-02-15T12:00:00Z">Thu, 02/15/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46834/edit" hreflang="en">Apache Elementary School Outreach 3_Mark Williams</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/archaeology" hreflang="en">Archaeology</a></div>
+              <div><a href="https://www.blm.gov/tag/education" hreflang="en">Education</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/farmington-do" hreflang="en">Farmington DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46835/edit" hreflang="en">Apache Elementary School Outreach 3_Mark Williams</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-02-15/farmington-archaeologist-engages-local-elementary-school-students">https://www.blm.gov/blog/2024-02-15/farmington-archaeologist-engages-local-elementary-school-students</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-15/farmington-archaeologist-engages-local-elementary-school-students">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,48 @@
 ---
 title: columns 2024.07
-updated: 2024-02-14 21:51:17
+updated: 2024-02-15 10:00:13
 ---
 
 # columns 2024.07
 
-(date: 2024-02-14 21:51:17)
+(date: 2024-02-15 10:00:13)
+
+---
+
+## On the Insecurity of Software Bloat
+
+date: 2024-02-15, updated: 2024-02-13, from: Bruce Schneier blog
+
+<p><a href="https://spectrum.ieee.org/lean-software-development">Good essay</a> on software bloat and the insecurities it causes.</p>
+<blockquote><p>The world ships too much code, most of it by third parties, sometimes unintended, most of it uninspected. Because of this, there is a huge <i>attack surface</i> full of mediocre code. Efforts are ongoing to improve the quality of code itself, but many exploits are due to logic fails, and less progress has been made scanning for those. Meanwhile, great strides could be made by paring down just how much code we expose to the world. This will increase time to market for products, but legislation is around the corner that should force vendors to take security more seriously...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/on-the-insecurity-of-software-bloat.html">https://www.schneier.com/blog/archives/2024/02/on-the-insecurity-of-software-bloat.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/on-the-insecurity-of-software-bloat.html">Save to Pocket</a>
+</span>
+
+---
+
+## Final Honors for a Fallen Hero
+
+date: 2024-02-15, from: Dan Rather's Steady
+
+At a hillside cemetery near the central Texas town of Gatesville, Sergeant Richard Rudd was finally laid to rest, nearly 80 years after he was killed in action. Attendance at the burial last December was light, as the late infantryman had few close relatives. The Army Honor Guard presented Rudd&#8217;s grand-niece with a folded flag and spoke the words repeated at countless military memorials: &#8220;On behalf of the president of the United States, the United States Army, and a grateful nation, please accept this flag as a symbol of our appreciation for your loved one&#8217;s honorable and faithful service.&#8221;
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/final-honors-for-a-fallen-hero">https://steady.substack.com/p/final-honors-for-a-fallen-hero</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/final-honors-for-a-fallen-hero">Save to Pocket</a>
+</span>
+
+---
+
+## The Really Big Picture
+
+date: 2024-02-15, from: Robert Reich's blog
+
+Sometimes a single very big picture is worth many thousands of words
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/the-really-big-picture">https://robertreich.substack.com/p/the-really-big-picture</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/the-really-big-picture">Save to Pocket</a>
+</span>
 
 ---
 

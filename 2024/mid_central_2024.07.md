@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.07
-updated: 2024-02-14 21:51:17
+updated: 2024-02-15 10:00:13
 ---
 
 # mid central 2024.07
 
-(date: 2024-02-14 21:51:17)
+(date: 2024-02-15 10:00:13)
+
+---
+
+## Bulldogs’ loss and roster both come down to the wire
+
+date: 2024-02-15, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Throughout the past weeks, several key players have suffered season-ending injuries, leaving the â€˜Dogs to work around having minimal players.Â  â€œAre hands are on deck. We are depleted, so everyone who has a uniform is in the game,â€ said Justin Hutson, Fresno State&#8217;s Head Coach.Â  The Bulldogs closed out the night, narrowing down the roster...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/bulldogs-loss-and-roster-both-come-down-to-the-wire/">https://fscollegian.com/2024/02/bulldogs-loss-and-roster-both-come-down-to-the-wire/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/bulldogs-loss-and-roster-both-come-down-to-the-wire/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -51,7 +63,7 @@ date: 2024-02-14, from: EDN Blog
 
 date: 2024-02-14, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-As the lights dimmed and anticipation buzzed through the air, the theater transformed into a mix of movement and emotion. Family and friends took their seats with colorful bouquets in hand, as their eager whispers filled the auditorium. Families, friends and passionate dancers gathered in the John W. Wright Theatre on Feb. 9 for “Extrapolations...
+As the lights dimmed and anticipation buzzed through the air, the theater transformed into a mix of movement and emotion. Family and friends took their seats with colorful bouquets in hand, as their eager whispers filled the auditorium. Families, friends and passionate dancers gathered in the John W. Wright Theatre on Feb. 9 for â€œExtrapolations...
 
 <span class="feed-item-link">
 <a href="https://fscollegian.com/2024/02/the-contemporary-dance-ensemble-embraces-unity-with-extrapolations-2024/">https://fscollegian.com/2024/02/the-contemporary-dance-ensemble-embraces-unity-with-extrapolations-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/the-contemporary-dance-ensemble-embraces-unity-with-extrapolations-2024/">Save to Pocket</a>
@@ -63,7 +75,7 @@ As the lights dimmed and anticipation buzzed through the air, the theater transf
 
 date: 2024-02-14, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-It’s that time of the year when stores start stocking up on largely stuffed animals next to bouquets of red roses. Valentine’s Day gifts are just to complement the Valentine’s date. If you don’t want to break the bank but still want to spark a day full of enjoyment, here are five low-cost date ideas...
+Itâ€™s that time of the year when stores start stocking up on largely stuffed animals next to bouquets of red roses. Valentineâ€™s Day gifts are just to complement the Valentineâ€™s date. If you donâ€™t want to break the bank but still want to spark a day full of enjoyment, here are five low-cost date ideas...
 
 <span class="feed-item-link">
 <a href="https://fscollegian.com/2024/02/valentines-day-memories-are-priceless-here-are-five-date-ideas-that-wont-break-the-bank/">https://fscollegian.com/2024/02/valentines-day-memories-are-priceless-here-are-five-date-ideas-that-wont-break-the-bank/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/valentines-day-memories-are-priceless-here-are-five-date-ideas-that-wont-break-the-bank/">Save to Pocket</a>
@@ -83,11 +95,11 @@ For a brief moment in overtime, it felt like all the years of playoff pain and s
 
 ---
 
-## Opinion: Why the Israel-Hamas conflict shouldn’t be controversial
+## Opinion: Why the Israel-Hamas conflict shouldnâ€™t be controversial
 
 date: 2024-02-13, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-I’d like to begin this piece by stating that the innocent lives lost on either side is an absolute travesty and is completely unacceptable. This opinion piece is about a very heavy and controversial topic. I firmly believe it is important for open and honest dialogue to take place, especially on college campuses. Opening ourselves...
+Iâ€™d like to begin this piece by stating that the innocent lives lost on either side is an absolute travesty and is completely unacceptable. This opinion piece is about a very heavy and controversial topic. I firmly believe it is important for open and honest dialogue to take place, especially on college campuses. Opening ourselves...
 
 <span class="feed-item-link">
 <a href="https://fscollegian.com/2024/02/opinion-why-the-israel-hamas-conflict-shouldnt-be-controversial/">https://fscollegian.com/2024/02/opinion-why-the-israel-hamas-conflict-shouldnt-be-controversial/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/opinion-why-the-israel-hamas-conflict-shouldnt-be-controversial/">Save to Pocket</a>
@@ -125,7 +137,7 @@ date: 2024-02-13, from: EDN Blog
 
 date: 2024-02-13, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-Delays have affected the construction on campus as they have pushed back the expected completion of the Central Utility Plant Replacement (CUPR) project. The project was set to be completed by Spring 2024 but is facing setbacks. Fresno State aims to finish the construction by summer 2024. “Everybody’s expediting staffing up and making sure we’re...
+Delays have affected the construction on campus as they have pushed back the expected completion of the Central Utility Plant Replacement (CUPR) project. The project was set to be completed by Spring 2024 but is facing setbacks. Fresno State aims to finish the construction by summer 2024. â€œEverybodyâ€™s expediting staffing up and making sure weâ€™re...
 
 <span class="feed-item-link">
 <a href="https://fscollegian.com/2024/02/cupr-completion-pushed-back-to-summer-2024/">https://fscollegian.com/2024/02/cupr-completion-pushed-back-to-summer-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/cupr-completion-pushed-back-to-summer-2024/">Save to Pocket</a>
@@ -137,7 +149,7 @@ Delays have affected the construction on campus as they have pushed back the exp
 
 date: 2024-02-13, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-The California Faculty Association and the California State University System have reached a tentative agreement after eight months of negotiating and a one-day strike in January, but the battle isn’t over yet. The agreement needs to be ratified by the CFA before the contract can go through. “We will keep working together as faculty with...
+The California Faculty Association and the California State University System have reached a tentative agreement after eight months of negotiating and a one-day strike in January, but the battle isnâ€™t over yet. The agreement needs to be ratified by the CFA before the contract can go through. â€œWe will keep working together as faculty with...
 
 <span class="feed-item-link">
 <a href="https://fscollegian.com/2024/02/cfa-members-vote-to-approve-or-deny-tentative-contract-agreement/">https://fscollegian.com/2024/02/cfa-members-vote-to-approve-or-deny-tentative-contract-agreement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/cfa-members-vote-to-approve-or-deny-tentative-contract-agreement/">Save to Pocket</a>
@@ -149,7 +161,7 @@ The California Faculty Association and the California State University System ha
 
 date: 2024-02-12, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-The Fresno State women’s basketball team was soundly defeated 63-49 by the University of Nevada, Las Vegas on Saturday, Feb. 10, in an afternoon match-up at the Save Mart Center. It may be the only time the two teams face off this season, barring a potential meeting at the Mountain West Tournament. Bulldog freshman guard...
+The Fresno State womenâ€™s basketball team was soundly defeated 63-49 by the University of Nevada, Las Vegas on Saturday, Feb. 10, in an afternoon match-up at the Save Mart Center. It may be the only time the two teams face off this season, barring a potential meeting at the Mountain West Tournament. Bulldog freshman guard...
 
 <span class="feed-item-link">
 <a href="https://fscollegian.com/2024/02/fresno-state-womens-basketball-loses-to-top-seed-in-confernce/">https://fscollegian.com/2024/02/fresno-state-womens-basketball-loses-to-top-seed-in-confernce/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/fresno-state-womens-basketball-loses-to-top-seed-in-confernce/">Save to Pocket</a>
@@ -161,7 +173,7 @@ The Fresno State women’s basketball team was soundly defeated 63-49 by the Uni
 
 date: 2024-02-12, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-The Fresno State softball team exchanged a win and a loss in its season-opening series against South Dakota State.  The Bulldogs lost the series&#8217; first game in historical fashion before rallying the following night with a walk-off victory to split the series and put their overall record at 1-1 on the season.  Having been predicted...
+The Fresno State softball team exchanged a win and a loss in its season-opening series against South Dakota State.Â  The Bulldogs lost the series&#8217; first game in historical fashion before rallying the following night with a walk-off victory to split the series and put their overall record at 1-1 on the season.Â  Having been predicted...
 
 <span class="feed-item-link">
 <a href="https://fscollegian.com/2024/02/fresno-state-softball-splits-series-in-season-opener/">https://fscollegian.com/2024/02/fresno-state-softball-splits-series-in-season-opener/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/fresno-state-softball-splits-series-in-season-opener/">Save to Pocket</a>

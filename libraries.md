@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.07
-updated: 2024-02-14 21:51:17
+updated: 2024-02-15 10:00:13
 ---
 
 # libraries 2024.07
 
-(date: 2024-02-14 21:51:17)
+(date: 2024-02-15 10:00:13)
 
 ---
 
@@ -17,6 +17,32 @@ Popovova, Jeanette; Mazloum, Reza; Macauda, Gianluca; Stämpfli, Philipp; Vuille
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/657634">http://hdl.handle.net/20.500.11850/657634</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/657634">Save to Pocket</a>
+</span>
+
+---
+
+## Behind a Mask, by Louisa May Alcott
+
+date: 2024-02-15, from: Standard Ebooks, new releaases
+
+A deceitful governess schemes to control the love and wealth of a Victorian-era family.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/louisa-may-alcott/behind-a-mask">https://standardebooks.org/ebooks/louisa-may-alcott/behind-a-mask</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/louisa-may-alcott/behind-a-mask">Save to Pocket</a>
+</span>
+
+---
+
+## Chef de Cuisine: Perspectives from Publishing’s Top Table – Barbara Kline Pope
+
+date: 2024-02-15, from: Scholarly Kitchen
+
+<p>Robert Harington talks to Barbara Kline Pope, Director of Johns Hopkins University Press, in this series of perspectives from some of Publishing’s leaders across the non-profit and for- profit sectors of our industry.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/15/robert-harington-talks-to-barbara-kline-pope-director-of-johns-hopkins-university-press-in-this-series-of-perspectives-from-some-of-publishings-leaders-across-the-non-profit-and-for-profit/">Chef de Cuisine: Perspectives from Publishing’s Top Table – Barbara Kline Pope</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/15/robert-harington-talks-to-barbara-kline-pope-director-of-johns-hopkins-university-press-in-this-series-of-perspectives-from-some-of-publishings-leaders-across-the-non-profit-and-for-profit/">https://scholarlykitchen.sspnet.org/2024/02/15/robert-harington-talks-to-barbara-kline-pope-director-of-johns-hopkins-university-press-in-this-series-of-perspectives-from-some-of-publishings-leaders-across-the-non-profit-and-for-profit/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/15/robert-harington-talks-to-barbara-kline-pope-director-of-johns-hopkins-university-press-in-this-series-of-perspectives-from-some-of-publishings-leaders-across-the-non-profit-and-for-profit/">Save to Pocket</a>
 </span>
 
 ---

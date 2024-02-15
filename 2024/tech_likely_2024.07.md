@@ -1,11 +1,284 @@
 ---
 title: tech likely 2024.07
-updated: 2024-02-14 21:51:17
+updated: 2024-02-15 10:00:13
 ---
 
 # tech likely 2024.07
 
-(date: 2024-02-14 21:51:17)
+(date: 2024-02-15 10:00:13)
+
+---
+
+## The hottest new programming language is English! Or maybe not.
+
+date: 2024-02-15, from: Gary Marcus blog
+
+Programming in English might not be all its cracked up to be.
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/the-hottest-new-programming-language">https://garymarcus.substack.com/p/the-hottest-new-programming-language</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/the-hottest-new-programming-language">Save to Pocket</a>
+</span>
+
+---
+
+##  Parisian police were going to close the bouquinistes (booksellers) along the Seine... 
+
+date: 2024-02-15, updated: 2024-02-15, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043983-parisian-police-were-goin">https://kottke.org/24/02/0043983-parisian-police-were-goin</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043983-parisian-police-were-goin">Save to Pocket</a>
+</span>
+
+---
+
+## Creating a GPT Assistant That Writes Pipeline Tests
+
+date: 2024-02-15, from: John Udell blog
+
+Here&#8217;s the latest installment in the series on working with LLMS: Creating a GPT Assistant That Writes Pipeline Tests. Once you get the hang of writing these tests, it’s mostly boilerplate, so I figured my team of assistants could help. I recruited Cody, GitHub Copilot, and Unblocked — with varying degrees of success. Then I &#8230; <a href="https://blog.jonudell.net/2024/02/15/creating-a-gpt-assistant-that-writes-pipeline-tests/" class="more-link">Continue reading <span class="screen-reader-text">Creating a GPT Assistant That Writes Pipeline Tests</span></a>
+
+<span class="feed-item-link">
+<a href="https://blog.jonudell.net/2024/02/15/creating-a-gpt-assistant-that-writes-pipeline-tests/">https://blog.jonudell.net/2024/02/15/creating-a-gpt-assistant-that-writes-pipeline-tests/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.jonudell.net/2024/02/15/creating-a-gpt-assistant-that-writes-pipeline-tests/">Save to Pocket</a>
+</span>
+
+---
+
+##  The 13 Worst Bike Lanes in the World. Includes examples of &#8220;paint... 
+
+date: 2024-02-15, updated: 2024-02-15, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043981-the-13-worst-bike-lanes">https://kottke.org/24/02/0043981-the-13-worst-bike-lanes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043981-the-13-worst-bike-lanes">Save to Pocket</a>
+</span>
+
+---
+
+## This nonprofit is using virtual reality to train Ukrainian journalists to cover the war safely
+
+date: 2024-02-15, from: Nieman Journalism Lab
+
+Before February 2022, Halyna Yakushko was a lifestyle correspondent for a daily show at Ukrainian broadcaster 1+1. “I was doing reports about fashion, Eurovision, and celebrities. I had never been in a conflict zone before,” she says. Yakushko is now a freelancer working with regional, national and international broadcasters, including Radio Liberty, BBC Ukraine, and CBC. In early...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/this-nonprofit-is-using-virtual-reality-to-train-ukrainian-journalists-to-cover-the-war-safely/">https://www.niemanlab.org/2024/02/this-nonprofit-is-using-virtual-reality-to-train-ukrainian-journalists-to-cover-the-war-safely/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/this-nonprofit-is-using-virtual-reality-to-train-ukrainian-journalists-to-cover-the-war-safely/">Save to Pocket</a>
+</span>
+
+---
+
+## Unfolding the Mysteries of Polygonal Billiards
+
+date: 2024-02-15, from: Quanta Magazine
+
+The surprisingly subtle geometry of a familiar game shows how quickly math gets complicated.            <p>The post <a href="https://www.quantamagazine.org/the-mysterious-math-of-billiards-tables-20240215/" target="_blank">Unfolding the Mysteries of Polygonal Billiards</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/the-mysterious-math-of-billiards-tables-20240215/">https://www.quantamagazine.org/the-mysterious-math-of-billiards-tables-20240215/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/the-mysterious-math-of-billiards-tables-20240215/">Save to Pocket</a>
+</span>
+
+---
+
+##  I am a relative NYT crossword n00b, so I just found out... 
+
+date: 2024-02-15, updated: 2024-02-15, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043979-i-am-a-relative-nyt">https://kottke.org/24/02/0043979-i-am-a-relative-nyt</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043979-i-am-a-relative-nyt">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-15, from: Miguel de Icaza Mastondon feed)
+
+<p>I could make the left-bar navigation more like the iPad, and then drill down into the different areas, like <span class="h-card" translate="no"><a href="https://mastodon.social/@simsaens" class="u-url mention">@<span>simsaens</span></a></span>  suggested.</p><p>This would be two steps:</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111936299645766237">https://mastodon.social/@Migueldeicaza/111936299645766237</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111936299645766237">Save to Pocket</a>
+</span>
+
+---
+
+##  Love Stamps? Love Stamps! 
+
+date: 2024-02-15, updated: 2024-02-15, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/love-stamps-love-stamps">https://kottke.org/24/02/love-stamps-love-stamps</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/love-stamps-love-stamps">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-15, from: Miguel de Icaza Mastondon feed)
+
+<p>I could not get a segmented picker to show up, but I can abuse the Navigation Titlebar and show a menu selector there.</p><p>And when tapping on it, it would show some of the other destinations:</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111936107356319953">https://mastodon.social/@Migueldeicaza/111936107356319953</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111936107356319953">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Experiment Sheds Light on Highly Charged Moon Dust
+
+date: 2024-02-15, from: NASA breaking news
+
+Researchers are studying data from a recent suborbital flight test to better understand lunar regolith, or Moon dust, and its potentially damaging effects as NASA prepares to send astronauts back to the lunar surface under the Artemis campaign. The experiment, developed jointly by NASA and the University of Central Florida, sheds light on how these [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-experiment-sheds-light-on-highly-charged-moon-dust/">https://www.nasa.gov/centers-and-facilities/kennedy/nasa-experiment-sheds-light-on-highly-charged-moon-dust/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/kennedy/nasa-experiment-sheds-light-on-highly-charged-moon-dust/">Save to Pocket</a>
+</span>
+
+---
+
+## Run a Nostr Relay as Tor Hidden Service on OpenBSD
+
+date: 2024-02-15, from: mrusme blog
+
+Let's set up and run our own *"private Twitter"* on Nostr, a simple, open
+protocol that enables truly censorship-resistant publishing on the web!
+
+<span class="feed-item-link">
+<a href="https://xn--gckvb8fzb.com/run-a-nostr-relay-as-tor-hidden-service-on-openbsd/">https://xn--gckvb8fzb.com/run-a-nostr-relay-as-tor-hidden-service-on-openbsd/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://xn--gckvb8fzb.com/run-a-nostr-relay-as-tor-hidden-service-on-openbsd/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-15, from: Miguel de Icaza Mastondon feed)
+
+<p>Ok, this is my next victim, and I am struggling with how to reorganize this.</p><p>The tab-bar along the top switches modes.</p><p>I could either replicate the tabs at the top, and switch the content inside, or use a 3-pane navigation view (but it does seem a little odd to have two levels of trees).</p><p>Here is one possible option (needs two screenshots to show the effect):</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111936059502908086">https://mastodon.social/@Migueldeicaza/111936059502908086</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111936059502908086">Save to Pocket</a>
+</span>
+
+---
+
+##  I love the cover of Stephen & Evie Colbert&#8217;s new cookbook, Does... 
+
+date: 2024-02-15, updated: 2024-02-15, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043977-i-love-the-cover-of">https://kottke.org/24/02/0043977-i-love-the-cover-of</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043977-i-love-the-cover-of">Save to Pocket</a>
+</span>
+
+---
+
+## McCandless, Unplugged
+
+date: 2024-02-15, updated: 2024-02-15, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/02/15/mccandless-unplugged/">https://onefoottsunami.com/2024/02/15/mccandless-unplugged/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/02/15/mccandless-unplugged/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Artemis Science, First Intuitive Machines Flight Head to Moon
+
+date: 2024-02-15, from: NASA breaking news
+
+A suite of NASA science instruments and technology demonstrations is on the way to our nearest celestial neighbor for the benefit of humanity. Through this flight to the Moon, they will provide insights into the lunar surface environment and test technologies for future landers and Artemis astronauts. At 1:05 a.m. EST on Thursday, Intuitive Machines’ [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-artemis-science-first-intuitive-machines-flight-head-to-moon/">https://www.nasa.gov/news-release/nasa-artemis-science-first-intuitive-machines-flight-head-to-moon/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-artemis-science-first-intuitive-machines-flight-head-to-moon/">Save to Pocket</a>
+</span>
+
+---
+
+## How Did Altruism Evolve?
+
+date: 2024-02-15, from: Quanta Magazine
+
+If evolution favors the survival of the fittest, where did the impulse to help others come from? Host Janna Levin speaks with Stephanie Preston, a neuropsychologist who studies the biology of altruism.            <p>The post <a href="https://www.quantamagazine.org/how-did-altruism-evolve-20240215/" target="_blank">How Did Altruism Evolve?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/how-did-altruism-evolve-20240215/">https://www.quantamagazine.org/how-did-altruism-evolve-20240215/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/how-did-altruism-evolve-20240215/">Save to Pocket</a>
+</span>
+
+---
+
+## It Was 33 Years Ago Today: Happy Birthday Lemmings
+
+date: 2024-02-15, from: Tilde.news
+
+<p><a href="https://tilde.news/s/k27n00/it_was_33_years_ago_today_happy_birthday">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/">https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scottishgames.net/2024/02/14/it-was-33-years-ago-today-happy-birthday-lemmings/">Save to Pocket</a>
+</span>
+
+---
+
+## Supporting learners with programming tasks through AI-generated Parson’s Problems
+
+date: 2024-02-15, from: Raspberry Pi (.org)
+
+<p>The use of generative AI tools (e.g. ChatGPT) in education is now common among young people (see data from the UK&#8217;s Ofcom regulator). As a computing educator or researcher, you might wonder what impact generative AI tools will have on how young people learn programming. In our latest research seminar, Barbara Ericson and Xinying Hou&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/supporting-learners-with-programming-tasks-through-ai-generated-parsons-problems/">Supporting learners with programming tasks through AI-generated Parson&#8217;s Problems</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.org/blog/supporting-learners-with-programming-tasks-through-ai-generated-parsons-problems/">https://www.raspberrypi.org/blog/supporting-learners-with-programming-tasks-through-ai-generated-parsons-problems/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.org/blog/supporting-learners-with-programming-tasks-through-ai-generated-parsons-problems/">Save to Pocket</a>
+</span>
+
+---
+
+## Spot the King of Planets: Observe Jupiter
+
+date: 2024-02-15, from: NASA breaking news
+
+Jupiter is easy to observe, and well-documented by astronomers. Learn more about the King of the Planets in February’s mid-month article!
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/spot-the-king-of-planets-observe-jupiter/">https://science.nasa.gov/solar-system/skywatching/night-sky-network/spot-the-king-of-planets-observe-jupiter/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/solar-system/skywatching/night-sky-network/spot-the-king-of-planets-observe-jupiter/">Save to Pocket</a>
+</span>
+
+---
+
+## Peak Campervanning
+
+date: 2024-02-15, from: Status-Q blog
+
+At the end of November, I popped up to the Derbyshire Peak District for a weekend, and posted some photos here. At the time, I mentioned that I had taken some video footage too, and I finally got around to editing it into something watchable, at least by those who enjoy amateur travelogues. 🙂 (Direct <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/02/15/11963/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>
+
+<span class="feed-item-link">
+<a href="https://statusq.org/archives/2024/02/15/11963/">https://statusq.org/archives/2024/02/15/11963/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://statusq.org/archives/2024/02/15/11963/">Save to Pocket</a>
+</span>
+
+---
+
+## A few interesting Open Source-based projects
+
+date: 2024-02-15, from: Status-Q blog
+
+Spotted these recently and thought they looked good: AirGradient &#8211; &#8220;We design professional, accurate and long-lasting air quality monitors that are open-source and open-hardware so that you have full control on how you want to use the monitor.&#8221; Meshtastic &#8211; long-range, low-power, low-bandwidth, off-grid, decentralised mesh networks, based on LoRa radios. Plausible &#8211; an alternative <a class="more-link excerpt-link" href="https://statusq.org/archives/2024/02/15/11961/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a>
+
+<span class="feed-item-link">
+<a href="https://statusq.org/archives/2024/02/15/11961/">https://statusq.org/archives/2024/02/15/11961/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://statusq.org/archives/2024/02/15/11961/">Save to Pocket</a>
+</span>
+
+---
+
+## Beyond the pale?
+
+date: 2024-02-15, from: Status-Q blog
+
+Today, online, I saw one unsavoury character described as &#8220;so bad that even Meta blocked him&#8221;. In the past, one might have said something similar of Twitter, but it doesn&#8217;t really work now&#8230; and not because Twitter has started being responsible about blocking people!
+
+<span class="feed-item-link">
+<a href="https://statusq.org/archives/2024/02/15/11959/">https://statusq.org/archives/2024/02/15/11959/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://statusq.org/archives/2024/02/15/11959/">Save to Pocket</a>
+</span>
 
 ---
 

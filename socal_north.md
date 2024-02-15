@@ -1,11 +1,202 @@
 ---
 title: socal north 2024.07
-updated: 2024-02-14 21:51:17
+updated: 2024-02-15 10:00:13
 ---
 
 # socal north 2024.07
 
-(date: 2024-02-14 21:51:17)
+(date: 2024-02-15 10:00:13)
+
+---
+
+## A Journey Through the Silver Screen
+
+date: 2024-02-15, from: City of Santa Clarita
+
+<p>A Journey Through the Silver Screen By Mayor Cameron Smyth Dating back to the early 20th century, Santa Clarita has stood as a favored filming destination with silent movie productions seeking the region’s scenic backdrop for their films. The vast expanses of rugged mountains, sprawling ranches and iconic canyons provided filmmakers with a versatile canvas [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/02/15/a-journey-through-the-silver-screen/">A Journey Through the Silver Screen</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2024/02/15/a-journey-through-the-silver-screen/">https://santaclarita.gov/blog/2024/02/15/a-journey-through-the-silver-screen/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/02/15/a-journey-through-the-silver-screen/">Save to Pocket</a>
+</span>
+
+---
+
+## Truck Explosion Critically Injures LA Firefighters, 2 Are In Critical Condition
+
+date: 2024-02-15, updated: 2024-02-15, from: The LAist
+
+Officials say at least seven firefighters were injured while responding to a truck fire in Wilmington.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/firefighters-hospitalized-after-truck-explosion-in-wilmington">https://laist.com/news/firefighters-hospitalized-after-truck-explosion-in-wilmington</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/firefighters-hospitalized-after-truck-explosion-in-wilmington">Save to Pocket</a>
+</span>
+
+---
+
+## Abdulkareem Agunbiade shows interdisciplinary skill healing with laughs and medicine
+
+date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Abdulkareem Agunbiade is healing the world, one laugh at a time.
+A clinician in the emergency department at the UCLA David Geffen School of Medicine, Agunbiade&#8217;s academic pursuits started out pivoted on medicine.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/15/abdulkareem-agunbiade-shows-interdisciplinary-skill-healing-with-laughs-and-medicine/">https://dailybruin.com/2024/02/15/abdulkareem-agunbiade-shows-interdisciplinary-skill-healing-with-laughs-and-medicine/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/15/abdulkareem-agunbiade-shows-interdisciplinary-skill-healing-with-laughs-and-medicine/">Save to Pocket</a>
+</span>
+
+---
+
+## Los Padrinos Juvenile Hall Facing Fresh Scrutiny Over Staffing, Safety
+
+date: 2024-02-15, updated: 2024-02-15, from: The LAist
+
+A state board will take up whether the 26-acre facility in Downey is suitable to hold incarcerated youths after L.A. County's scramble last year to transfer hundreds of them there from other facilities in a span of roughly two months.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/criminal-justice/la-county-los-padrinos-juvenile-hall-safety-staffing">https://laist.com/news/criminal-justice/la-county-los-padrinos-juvenile-hall-safety-staffing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/criminal-justice/la-county-los-padrinos-juvenile-hall-safety-staffing">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – February 15, 2024
+
+date: 2024-02-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/15/classifieds-february-15-2024/">Classifieds &#8211; February 15, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/15/classifieds-february-15-2024/">https://dailytrojan.com/2024/02/15/classifieds-february-15-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/15/classifieds-february-15-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Choosing a major is a major decision
+
+date: 2024-02-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p> We deserve the chance to explore all that USC offers before settling on a major. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/15/choosing-a-major-is-a-major-decision/">Choosing a major is a major decision</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/15/choosing-a-major-is-a-major-decision/">https://dailytrojan.com/2024/02/15/choosing-a-major-is-a-major-decision/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/15/choosing-a-major-is-a-major-decision/">Save to Pocket</a>
+</span>
+
+---
+
+## Cole Palmer: Chelsea’s last great hope
+
+date: 2024-02-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>After joining the club with little pro experience to his name, Palmer has blitzed his competition.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/15/cole-palmer-chelseas-last-great-hope/">Cole Palmer: Chelsea’s last great hope</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/15/cole-palmer-chelseas-last-great-hope/">https://dailytrojan.com/2024/02/15/cole-palmer-chelseas-last-great-hope/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/15/cole-palmer-chelseas-last-great-hope/">Save to Pocket</a>
+</span>
+
+---
+
+## Baseball faces formidable tests this season
+
+date: 2024-02-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC will travel for its home games amid construction at Dedeaux Field this season.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/15/baseball-faces-formidable-tests-this-season/">Baseball faces formidable tests this season</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/15/baseball-faces-formidable-tests-this-season/">https://dailytrojan.com/2024/02/15/baseball-faces-formidable-tests-this-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/15/baseball-faces-formidable-tests-this-season/">Save to Pocket</a>
+</span>
+
+---
+
+## Council District 9 spending is among the highest in LA
+
+date: 2024-02-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The city’s revenues exceeded expenditures by $3.4 billion in fiscal year 2022 compared to $2.1 billion in fiscal year 2023.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/15/council-district-9-spending-is-among-the-highest-in-la/">Council District 9 spending is among the highest in LA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/15/council-district-9-spending-is-among-the-highest-in-la/">https://dailytrojan.com/2024/02/15/council-district-9-spending-is-among-the-highest-in-la/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/15/council-district-9-spending-is-among-the-highest-in-la/">Save to Pocket</a>
+</span>
+
+---
+
+## The king is dead; long live Prince
+
+date: 2024-02-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Artist is somehow consistently among the greats and, still, underrated.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/15/the-king-is-dead-long-live-prince/">The king is dead; long live Prince</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/15/the-king-is-dead-long-live-prince/">https://dailytrojan.com/2024/02/15/the-king-is-dead-long-live-prince/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/15/the-king-is-dead-long-live-prince/">Save to Pocket</a>
+</span>
+
+---
+
+## Revenge Royale: Women’s basketball travels to Oregon
+
+date: 2024-02-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans have not had much success with both Oregon schools on the road.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/15/201232/">Revenge Royale: Women’s basketball travels to Oregon</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/15/201232/">https://dailytrojan.com/2024/02/15/201232/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/15/201232/">Save to Pocket</a>
+</span>
+
+---
+
+## Student Health tables for Wellness Week
+
+date: 2024-02-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students took advantage of free narcan and heard about other Wellness Week events.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/15/student-health-tables-for-wellness-week/">Student Health tables for Wellness Week</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/15/student-health-tables-for-wellness-week/">https://dailytrojan.com/2024/02/15/student-health-tables-for-wellness-week/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/15/student-health-tables-for-wellness-week/">Save to Pocket</a>
+</span>
+
+---
+
+## You’re voting for the management, not the man
+
+date: 2024-02-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In the midst of even more upsetting news regarding our presidential candidates, it’s important to remember the administrations they’ll bring with them in 2025.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/15/youre-voting-for-the-management-not-the-man/">You’re voting for the management, not the man</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/15/youre-voting-for-the-management-not-the-man/">https://dailytrojan.com/2024/02/15/youre-voting-for-the-management-not-the-man/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/15/youre-voting-for-the-management-not-the-man/">Save to Pocket</a>
+</span>
+
+---
+
+## Warner Bros. promotes spring lineup
+
+date: 2024-02-15, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A studio day spotlighted four well-loved television programs on Tuesday.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/15/warner-bros-promotes-spring-lineup/">Warner Bros. promotes spring lineup</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/15/warner-bros-promotes-spring-lineup/">https://dailytrojan.com/2024/02/15/warner-bros-promotes-spring-lineup/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/15/warner-bros-promotes-spring-lineup/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -42,6 +233,20 @@ On the second Saturday of every month, Broxton Avenue is closed to traffic and t
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/14/broxton-nights-sweetheart-market-offers-community-space-for-attendees-loved-ones/">https://dailybruin.com/2024/02/14/broxton-nights-sweetheart-market-offers-community-space-for-attendees-loved-ones/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/14/broxton-nights-sweetheart-market-offers-community-space-for-attendees-loved-ones/">Save to Pocket</a>
+</span>
+
+---
+
+## Barrie Logan, professor who impacted Pierce community for decades, dies at 83
+
+date: 2024-02-15, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Longtime chemistry professor and former Academic Senate President Barrie Logan died on Jan. 2. He was 83. Logan leaves behind a transformative legacy at Pierce</p>
+<p>The post <a href="https://theroundupnews.com/2024/02/14/barrie-logan-professor-who-impacted-pierce-community-for-decades-dies-at-83/">Barrie Logan, professor who impacted Pierce community for decades, dies at 83</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/02/14/barrie-logan-professor-who-impacted-pierce-community-for-decades-dies-at-83/?utm_source=rss&utm_medium=rss&utm_campaign=barrie-logan-professor-who-impacted-pierce-community-for-decades-dies-at-83">https://theroundupnews.com/2024/02/14/barrie-logan-professor-who-impacted-pierce-community-for-decades-dies-at-83/?utm_source=rss&utm_medium=rss&utm_campaign=barrie-logan-professor-who-impacted-pierce-community-for-decades-dies-at-83</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/02/14/barrie-logan-professor-who-impacted-pierce-community-for-decades-dies-at-83/?utm_source=rss&utm_medium=rss&utm_campaign=barrie-logan-professor-who-impacted-pierce-community-for-decades-dies-at-83">Save to Pocket</a>
 </span>
 
 ---

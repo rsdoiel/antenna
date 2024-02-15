@@ -1,11 +1,131 @@
 ---
 title: games 2024.07
-updated: 2024-02-14 21:51:17
+updated: 2024-02-15 10:00:13
 ---
 
 # games 2024.07
 
-(date: 2024-02-14 21:51:17)
+(date: 2024-02-15 10:00:13)
+
+---
+
+## Humble is offering a bundle with every mainline entry in the Street Fighter series for $20
+
+date: 2024-02-15, updated: 2024-02-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24073875/street-fighter-6-capcom-cup-humble-bundle-deal-sale">https://www.polygon.com/deals/24073875/street-fighter-6-capcom-cup-humble-bundle-deal-sale</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24073875/street-fighter-6-capcom-cup-humble-bundle-deal-sale">Save to Pocket</a>
+</span>
+
+---
+
+## PlateUp!, now on Game Pass and consoles, is perfect for virtual double dates
+
+date: 2024-02-15, updated: 2024-02-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/24072035/plateup-cooking-roguelike-game-xbox-game-pass-switch-ps5-steam">https://www.polygon.com/gaming/24072035/plateup-cooking-roguelike-game-xbox-game-pass-switch-ps5-steam</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/24072035/plateup-cooking-roguelike-game-xbox-game-pass-switch-ps5-steam">Save to Pocket</a>
+</span>
+
+---
+
+## Tomb Raider devs offer a peek at their new ‘unified’ Lara Croft
+
+date: 2024-02-15, updated: 2024-02-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24073332/tomb-raider-lara-croft-unified-design-artwork">https://www.polygon.com/24073332/tomb-raider-lara-croft-unified-design-artwork</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24073332/tomb-raider-lara-croft-unified-design-artwork">Save to Pocket</a>
+</span>
+
+---
+
+## Pokémon Go Tour 2024 ‘Road to Sinnoh’ Special Research: Diamond or Pearl?
+
+date: 2024-02-15, updated: 2024-02-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24073908/diamond-or-pearl-road-to-sinnoh-go-tour-2024">https://www.polygon.com/24073908/diamond-or-pearl-road-to-sinnoh-go-tour-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24073908/diamond-or-pearl-road-to-sinnoh-go-tour-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Madame Web’s connections to Sony’s Spider-Man films are tenuous as spiderwebs
+
+date: 2024-02-15, updated: 2024-02-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24071940/madame-web-post-credits-sony-marvel-mcu-comics">https://www.polygon.com/24071940/madame-web-post-credits-sony-marvel-mcu-comics</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24071940/madame-web-post-credits-sony-marvel-mcu-comics">Save to Pocket</a>
+</span>
+
+---
+
+## A Fantastic Four movie set in the past would be the best case scenario
+
+date: 2024-02-15, updated: 2024-02-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24073197/marvel-fantastic-four-period-piece-pedro-pascal-cast">https://www.polygon.com/24073197/marvel-fantastic-four-period-piece-pedro-pascal-cast</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24073197/marvel-fantastic-four-period-piece-pedro-pascal-cast">Save to Pocket</a>
+</span>
+
+---
+
+## Not sure what movie to watch this weekend? Leave a comment and we’ll tell you
+
+date: 2024-02-15, updated: 2024-02-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/2/15/24071782/best-movies-watch-this-weekend-best-recommendations">https://www.polygon.com/2024/2/15/24071782/best-movies-watch-this-weekend-best-recommendations</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/2/15/24071782/best-movies-watch-this-weekend-best-recommendations">Save to Pocket</a>
+</span>
+
+---
+
+## X-Men ‘97 finally gets a trailer and a March premiere, bub
+
+date: 2024-02-15, updated: 2024-02-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24073776/x-men-97-trailer-premiere">https://www.polygon.com/24073776/x-men-97-trailer-premiere</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24073776/x-men-97-trailer-premiere">Save to Pocket</a>
+</span>
+
+---
+
+## Fortnite TMNT event quest schedule and Cowabunga rewards
+
+date: 2024-02-15, updated: 2024-02-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/fortnite-guide/24067852/tmnt-event-quest-schedule-cowabunga-rewards">https://www.polygon.com/fortnite-guide/24067852/tmnt-event-quest-schedule-cowabunga-rewards</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/fortnite-guide/24067852/tmnt-event-quest-schedule-cowabunga-rewards">Save to Pocket</a>
+</span>
+
+---
+
+## Talkin’ Dune 2 with Denis Villeneuve
+
+date: 2024-02-15, updated: 2024-02-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24072878/dune-2-timothee-chalamet-paul-hero-denis-villeneuve-interview">https://www.polygon.com/24072878/dune-2-timothee-chalamet-paul-hero-denis-villeneuve-interview</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24072878/dune-2-timothee-chalamet-paul-hero-denis-villeneuve-interview">Save to Pocket</a>
+</span>
 
 ---
 
@@ -281,18 +401,6 @@ date: 2024-02-12, updated: 2024-02-12, from: Polygon Website
 
 <span class="feed-item-link">
 <a href="https://www.polygon.com/24070247/2024-super-bowl-spongebob-patrick-clips-nickelodeon">https://www.polygon.com/24070247/2024-super-bowl-spongebob-patrick-clips-nickelodeon</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24070247/2024-super-bowl-spongebob-patrick-clips-nickelodeon">Save to Pocket</a>
-</span>
-
----
-
-## Fortnite TMNT event quest schedule and Cowabunga rewards
-
-date: 2024-02-12, updated: 2024-02-12, from: Polygon Website
-
-
-
-<span class="feed-item-link">
-<a href="https://www.polygon.com/fortnite-guide/24067852/tmnt-event-quest-schedule-cowabunga-rewards">https://www.polygon.com/fortnite-guide/24067852/tmnt-event-quest-schedule-cowabunga-rewards</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/fortnite-guide/24067852/tmnt-event-quest-schedule-cowabunga-rewards">Save to Pocket</a>
 </span>
 
 ---

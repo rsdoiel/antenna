@@ -1,11 +1,78 @@
 ---
 title: writing 2024.07
-updated: 2024-02-14 21:51:17
+updated: 2024-02-15 10:00:13
 ---
 
 # writing 2024.07
 
-(date: 2024-02-14 21:51:17)
+(date: 2024-02-15 10:00:13)
+
+---
+
+## People & Publishing Roundup, February 2024
+
+date: 2024-02-15, from: Locus Magazine
+
+<div class="catheader"><strong>MILESTONES</strong></div>
+
+<p><strong>LESLYE PENELOPE </strong>is now represented by Arley Sorg of kt literary.</p>
+<p><strong>MEG ELISON </strong>is now repre­sented by Arley Sorg of kt literary.</p>
+<div class="catheader"><strong>AWARDS</strong></div>
+
+<p><strong>R.L. STINE </strong>and <strong>KATHERINE HALL PAGE </strong>have been named the 2024 Mystery Writers of America Grand Masters. <strong>MICHAELA HAMILTON </strong>of Kensington Publishing will receive the Ellery Queen Award. The recipients will be honored at the annual Edgar Awards ceremony on May 1, 2024 in New York  <a href="https://locusmag.com/2024/02/people-publishing-roundup-february-2024/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/people-publishing-roundup-february-2024/">https://locusmag.com/2024/02/people-publishing-roundup-february-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/people-publishing-roundup-february-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Ian Mond Reviews Him by Geoff Ryman
+
+date: 2024-02-15, from: Locus Magazine
+
+<p><strong>Him</strong>, Geoff Ryman (Angry Robot 978-1-91520-267-3, $18.99, 376pp, tp) December 2023.</p>
+<p>The central conceit of Geoff Ryman’s <strong>Him </strong>is to imagine an alternative history where Jesus is born biologically female but identifies as male. It’s a provocative premise that seems designed to of­fend many people of faith. And yet, while gender identity is a crucial aspect of the novel, <strong>Him </strong>is, in fact, a respectful and somewhat authentic rendi­tion  <a href="https://locusmag.com/2024/02/ian-mond-reviews-him-by-geoff-ryman/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/ian-mond-reviews-him-by-geoff-ryman/">https://locusmag.com/2024/02/ian-mond-reviews-him-by-geoff-ryman/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/ian-mond-reviews-him-by-geoff-ryman/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-15, from: Neil Gaiman @ BlueSky)
+
+This. One hundred fucking percent this.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klhnr4ubdt2q">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klhnr4ubdt2q</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klhnr4ubdt2q">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-15, from: Neil Gaiman @ BlueSky)
+
+Exactly. (As an author whose books are popular in China I was astonished to discover that I was now persona non grata. It's almost a relief to know that it was all in their minds.)
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klhmp77l7g2p">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klhmp77l7g2p</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klhmp77l7g2p">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-15, from: Neil Gaiman @ BlueSky)
+
+Exactly so.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klhmmnjkpu2u">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klhmmnjkpu2u</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klhmmnjkpu2u">Save to Pocket</a>
+</span>
 
 ---
 

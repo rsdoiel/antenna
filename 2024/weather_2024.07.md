@@ -1,19 +1,66 @@
 ---
 title: weather 2024.07
-updated: 2024-02-14 21:51:17
+updated: 2024-02-15 10:00:13
 ---
 
 # weather 2024.07
 
-(date: 2024-02-14 21:51:17)
+(date: 2024-02-15 10:00:13)
 
 ---
 
-## SPC - No watches are valid as of Thu Feb 15 05:46:02 UTC 2024
+## SPC Feb 15, 2024 1730 UTC Day 2 Convective Outlook
 
 date: 2024-02-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Thu Feb 15 05:46:02 UTC 2024.
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1122 AM CST Thu Feb 15 2024
+
+Valid 161200Z - 171200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Organized severe thunderstorms appear unlikely on Friday.
+
+...Synopsis and Discussion...
+Within broadly cyclonic flow over the central/eastern states, a
+subtle mid-level impulse will advance eastward from the
+southern/central Plains across the lower MS Valley and Mid-South on
+Friday. A weak surface low is likewise expected to develop from the
+Ozarks vicinity towards the southern/central Appalachians by Friday
+evening. Modest low-level moisture, with surface dewpoints generally
+in the mid to upper 50s, should be present ahead of a front from the
+ArkLaTex into the Mid-South. As this front moves east-southeastward
+through the day, isolated to scattered thunderstorms may develop
+along its length. With mid-level flow largely paralleling the front,
+there should be a tendency for convection to be undercut and become
+elevated. Still, some chance for strong/gusty winds and small hail
+may exist with any near-surface-based thunderstorms across the
+Mid-South Friday afternoon, as weak instability and sufficient
+deep-layer shear may support modest updraft organization. But,
+overall severe potential still appears too limited to add low
+hail/wind probabilities at this time.
+
+..Gleason.. 02/15/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No watches are valid as of Thu Feb 15 17:26:01 UTC 2024
+
+date: 2024-02-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu Feb 15 17:26:01 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
@@ -21,14 +68,135 @@ No watches are valid as of Thu Feb 15 05:46:02 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Thu Feb 15 05:46:02 UTC 2024
+## SPC - No MDs are in effect as of Thu Feb 15 17:26:01 UTC 2024
 
 date: 2024-02-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Thu Feb 15 05:46:02 UTC 2024.
+No Mesoscale Discussions are in effect as of Thu Feb 15 17:26:01 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-02-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1041 AM CST Thu Feb 15 2024
+
+Valid 161200Z - 171200Z
+
+...NO CRITICAL AREAS...
+
+The previous forecast (see below) remains on track.
+
+..Weinman.. 02/15/2024
+
+.PREV DISCUSSION... /ISSUED 0150 AM CST Thu Feb 15 2024/
+
+...Synopsis...
+On Friday a weak surface low will drift south into the southern High
+Plains and become less defined. A strong area of high pressure will
+move into the northern Plains and act to accelerate a cold front
+south in the southern High Plains. Winds will be light ahead of this
+cold front and strong behind it with cool temperatures. 
+
+No significant fire weather concerns are expected given mostly moist
+fuels in the CONUS and a lack of any overlap between strongest winds
+and warm/dry surface conditions.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 1 Fire Weather Outlook
+
+date: 2024-02-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day1fireotlk.gif" border="1" alt="Day 1 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+1041 AM CST Thu Feb 15 2024
+
+Valid 151700Z - 161200Z
+
+...NO CRITICAL AREAS...
+
+The previous forecast reasoning (see below) remains the same.
+Despite locally dry/breezy conditions over the southern High Plains
+this afternoon, unreceptive fuels should limit most fire-weather
+concerns.
+
+..Weinman.. 02/15/2024
+
+.PREV DISCUSSION... /ISSUED 0149 AM CST Thu Feb 15 2024/
+
+...Synopsis...
+A lee cyclone will develop across eastern Colorado today. This will
+lead to some breezy conditions in portions of the central and
+Southern High Plains. Some locally Elevated meteorological fire
+weather conditions are expected across portions of eastern New
+Mexico. However, fuels are quite moist in the area and therefore the
+threat for large fires remains minimal.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Feb 15, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-02-15, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1022 AM CST Thu Feb 15 2024
+
+Valid 151630Z - 161200Z
+
+...NO THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Thunderstorms are not expected today or tonight.
+
+...Synopsis...
+Largely zonal flow will persist over the CONUS through tonight as a
+low-amplitude shortwave trough moves from UT/northern AZ to KS/OK by
+the end of the period.  Modest low-level moisture return will occur
+ahead of the trough/surface cyclone beneath steepening midlevel
+lapse rates.  However, the degree of moistening and forcing for
+ascent appear insufficient for deep convection/charge separation
+overnight.
+
+..Thompson/Wendt.. 02/15/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
 </span>
 
 ---
@@ -104,44 +272,6 @@ continued model disagreement and marginal fuels across the area.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/exper/fire_wx/">https://www.spc.noaa.gov/products/exper/fire_wx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/exper/fire_wx/">Save to Pocket</a>
-</span>
-
----
-
-## SPC Feb 13, 2024 1630 UTC Day 1 Convective Outlook
-
-date: 2024-02-13, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1003 AM CST Tue Feb 13 2024
-
-Valid 131630Z - 141200Z
-
-...NO THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not expected across the continental U.S.
-through tonight.
-
-...Synopsis...
-In the wake of a shortwave trough moving off the Mid-Atlantic and
-over southern New England, cool/dry continental air will dominate
-the majority of the CONUS.  Steep midlevel lapse rates were observed
-this morning over parts of the northern Great Basin/Rockies and weak
-convection may occur over southern ID and vicinity, but
-thunderstorms are not expected due to limited moisture and/or little
-forcing for ascent.
-
-..Thompson/Wendt.. 02/13/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
 </span>
 
 ---
