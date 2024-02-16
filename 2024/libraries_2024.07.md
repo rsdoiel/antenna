@@ -1,11 +1,25 @@
 ---
 title: libraries 2024.07
-updated: 2024-02-15 10:00:13
+updated: 2024-02-16 08:31:59
 ---
 
 # libraries 2024.07
 
-(date: 2024-02-15 10:00:13)
+(date: 2024-02-16 08:31:59)
+
+---
+
+## SSP’s Early Career Development Podcast Episode 16: Interview with SSP President Randy Townsend
+
+date: 2024-02-16, from: Scholarly Kitchen
+
+<p>In this episode of SSP’s Early Career Development Podcast, hosts Meredith Adinolfi (Cell Press) is joined by SSP’s current president, Randy Townsend. Randy is the inaugural Editor-in-Chief of the GW Journal of Ethics in Publishing and is an Adjunct Professor of the MPS in Publishing program in the College of Professional Studies at George Washington University.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/16/ssps-early-career-development-podcast-episode-16-interview-with-ssp-president-randy-townsend/">SSP&#8217;s Early Career Development Podcast Episode 16: Interview with SSP President Randy Townsend</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/16/ssps-early-career-development-podcast-episode-16-interview-with-ssp-president-randy-townsend/">https://scholarlykitchen.sspnet.org/2024/02/16/ssps-early-career-development-podcast-episode-16-interview-with-ssp-president-randy-townsend/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/16/ssps-early-career-development-podcast-episode-16-interview-with-ssp-president-randy-townsend/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -103,7 +117,7 @@ date: 2024-02-13, from: Scholarly Kitchen
 
 date: 2024-02-12, from: Association of Research Libraries News
 
-<p>Last Updated on February 14, 2024, 1:57 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 13 &#124; Wednesday, February 14 &#124; Thursday,...</p>
+<p>Last Updated on February 16, 2024, 6:55 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 13 &#124; Wednesday, February 14 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-12-15/">Day in Review (February 12–15)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 

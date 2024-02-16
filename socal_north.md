@@ -1,11 +1,472 @@
 ---
 title: socal north 2024.07
-updated: 2024-02-15 10:00:13
+updated: 2024-02-16 08:31:58
 ---
 
 # socal north 2024.07
 
-(date: 2024-02-15 10:00:13)
+(date: 2024-02-16 08:31:58)
+
+---
+
+## Historic Wayfarers Chapel Has Closed To The Public Citing 'Accelerated Land Movement'
+
+date: 2024-02-16, updated: 2024-02-16, from: The LAist
+
+The striking glass and wood structure opened in 1951 and was designed by Lloyd Wright. Church officials say they are "extremely devastated" by the decision.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/historic-wayfarers-chapel-has-closed-to-the-public-citing-accelerated-land-movement">https://laist.com/news/climate-environment/historic-wayfarers-chapel-has-closed-to-the-public-citing-accelerated-land-movement</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/historic-wayfarers-chapel-has-closed-to-the-public-citing-accelerated-land-movement">Save to Pocket</a>
+</span>
+
+---
+
+## Know Someone Who Needs Help Online? Dozens Of LA County Libraries Offer Free, Onsite Digital Support
+
+date: 2024-02-16, updated: 2024-02-16, from: The LAist
+
+Hundreds of tech support workers are now stationed at 43 county libraries to help reach people who don't have easy access to computers or the internet.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/digital-divide-la-county-library-support">https://laist.com/news/digital-divide-la-county-library-support</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/digital-divide-la-county-library-support">Save to Pocket</a>
+</span>
+
+---
+
+## New center tackles brain-inspired computing research
+
+date: 2024-02-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The center will support the research goals of the U.S. Air Force and Space Force.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/16/joshua-yang-air-force/">New center tackles brain-inspired computing research</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/16/joshua-yang-air-force/">https://dailytrojan.com/2024/02/16/joshua-yang-air-force/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/16/joshua-yang-air-force/">Save to Pocket</a>
+</span>
+
+---
+
+## LA community concludes homeless count
+
+date: 2024-02-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The count will reveal where homelessness appears most prevalent in Los Angeles.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/16/los-angeles-homeless-count/">LA community concludes homeless count</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/16/los-angeles-homeless-count/">https://dailytrojan.com/2024/02/16/los-angeles-homeless-count/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/16/los-angeles-homeless-count/">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – February 16, 2024
+
+date: 2024-02-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/16/classifieds-february-16-2024/">Classifieds &#8211; February 16, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/16/classifieds-february-16-2024/">https://dailytrojan.com/2024/02/16/classifieds-february-16-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/16/classifieds-february-16-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Looking past the toxicity of ‘League of Legends’
+
+date: 2024-02-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Valentine’s Day had me thinking about my flawed perspective on competitive multiplayer games.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/16/201351/">Looking past the toxicity of ‘League of Legends’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/16/201351/">https://dailytrojan.com/2024/02/16/201351/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/16/201351/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 USG senatorial candidate profiles
+
+date: 2024-02-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A closer look at the 11 candidates running for USG senate.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/16/2024-usg-senatorial-candidate-profiles/">2024 USG senatorial candidate profiles</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/16/2024-usg-senatorial-candidate-profiles/">https://dailytrojan.com/2024/02/16/2024-usg-senatorial-candidate-profiles/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/16/2024-usg-senatorial-candidate-profiles/">Save to Pocket</a>
+</span>
+
+---
+
+## Year In Review: Incumbents talk making students’ lives easier
+
+date: 2024-02-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USG president Divya Jakatdar and vice president Michelle Lu discuss the tenure of their term and what lies ahead.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/16/year-in-review-making-students-lives-easier-jakatdar-and-lu-reflect/">Year In Review: Incumbents talk making students’ lives easier</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/16/year-in-review-making-students-lives-easier-jakatdar-and-lu-reflect/">https://dailytrojan.com/2024/02/16/year-in-review-making-students-lives-easier-jakatdar-and-lu-reflect/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/16/year-in-review-making-students-lives-easier-jakatdar-and-lu-reflect/">Save to Pocket</a>
+</span>
+
+---
+
+## Hostile architecture isn’t helping anybody
+
+date: 2024-02-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Instead of supporting hostile architecture, governments must support the houseless. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/16/hostile-architecture-isnt-helping-anybody/">Hostile architecture isn’t helping anybody</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/16/hostile-architecture-isnt-helping-anybody/">https://dailytrojan.com/2024/02/16/hostile-architecture-isnt-helping-anybody/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/16/hostile-architecture-isnt-helping-anybody/">Save to Pocket</a>
+</span>
+
+---
+
+## The Daily Trojan endorses Fernandez and Sanchez
+
+date: 2024-02-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan Spring 2024 Editorial Board interviewed and evaluated each of the four executive tickets.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/16/the-daily-trojan-endorses-fernandez-and-sanchez/">The Daily Trojan endorses Fernandez and Sanchez</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/16/the-daily-trojan-endorses-fernandez-and-sanchez/">https://dailytrojan.com/2024/02/16/the-daily-trojan-endorses-fernandez-and-sanchez/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/16/the-daily-trojan-endorses-fernandez-and-sanchez/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s water polo seeks win against Anteaters
+
+date: 2024-02-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans see Saturday’s match as an opportunity to boost their confidence.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/16/womens-water-polo-seeks-win-against-anteaters/">Women’s water polo seeks win against Anteaters</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/16/womens-water-polo-seeks-win-against-anteaters/">https://dailytrojan.com/2024/02/16/womens-water-polo-seeks-win-against-anteaters/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/16/womens-water-polo-seeks-win-against-anteaters/">Save to Pocket</a>
+</span>
+
+---
+
+## The path from technophobe to techno-optimist
+
+date: 2024-02-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The retired technophobe comes out with a new lease on tech optimism during the rise of artificial intelligence.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/16/the-path-from-technophobe-to-techno-optimist/">The path from technophobe to techno-optimist</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/16/the-path-from-technophobe-to-techno-optimist/">https://dailytrojan.com/2024/02/16/the-path-from-technophobe-to-techno-optimist/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/16/the-path-from-technophobe-to-techno-optimist/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Madame Web’ fails as a superhero film
+
+date: 2024-02-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Sony’s latest production fails to meet expectations and is painfully devoid of any substance.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/16/madame-web-fails-as-a-superhero-film/">‘Madame Web’ fails as a superhero film</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/16/madame-web-fails-as-a-superhero-film/">https://dailytrojan.com/2024/02/16/madame-web-fails-as-a-superhero-film/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/16/madame-web-fails-as-a-superhero-film/">Save to Pocket</a>
+</span>
+
+---
+
+## Bumming and balling: The sport of the city
+
+date: 2024-02-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Beach volleyball was born on the public beaches of Los Angeles, and continues to carry the spirit of coastal California.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/16/bumming-and-balling-the-sport-of-the-city/">Bumming and balling: The sport of the city</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/16/bumming-and-balling-the-sport-of-the-city/">https://dailytrojan.com/2024/02/16/bumming-and-balling-the-sport-of-the-city/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/16/bumming-and-balling-the-sport-of-the-city/">Save to Pocket</a>
+</span>
+
+---
+
+## Defending USC football’s defense
+
+date: 2024-02-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Four new Trojan defensive staff members spent time with the media Thursday.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/16/in-defense-of-usc-footballs-defense/">Defending USC football’s defense</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/16/in-defense-of-usc-footballs-defense/">https://dailytrojan.com/2024/02/16/in-defense-of-usc-footballs-defense/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/16/in-defense-of-usc-footballs-defense/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 USG presidential candidate profiles
+
+date: 2024-02-16, from: The Daily Trojan (USC Student Newspaper)
+
+<p>﻿﻿</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/16/2024-usg-presidential-candidate-profiles/">2024 USG presidential candidate profiles</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/16/2024-usg-presidential-candidate-profiles/">https://dailytrojan.com/2024/02/16/2024-usg-presidential-candidate-profiles/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/16/2024-usg-presidential-candidate-profiles/">Save to Pocket</a>
+</span>
+
+---
+
+## Lunar New Year 2024
+
+date: 2024-02-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+See how the Daily Bruin covered Lunar New Year 2024.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/tag/lunar-new-year-2024">https://dailybruin.com/tag/lunar-new-year-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/tag/lunar-new-year-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Middle Eastern Pre-Law Student Association offers community, career guidance
+
+date: 2024-02-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Though the road to law school can be a legal labyrinth, some Middle Eastern students at UCLA are creating a space to embrace their career aspirations together.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/15/middle-eastern-pre-law-student-association-offers-community-career-guidance/">https://dailybruin.com/2024/02/15/middle-eastern-pre-law-student-association-offers-community-career-guidance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/15/middle-eastern-pre-law-student-association-offers-community-career-guidance/">Save to Pocket</a>
+</span>
+
+---
+
+## Luskin School hosts talk on US democracy with double Bruin Sandeep Prasanna
+
+date: 2024-02-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+As part of the UCLA Luskin Public Policy Alumni Speaker Series, UCLA community members heard from double Bruin Sandeep Prasanna on the rise of extremism and efforts to undermine democracy Monday.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/15/luskin-school-hosts-talk-on-us-democracy-with-double-bruin-sandeep-prasanna/">https://dailybruin.com/2024/02/15/luskin-school-hosts-talk-on-us-democracy-with-double-bruin-sandeep-prasanna/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/15/luskin-school-hosts-talk-on-us-democracy-with-double-bruin-sandeep-prasanna/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA Law launches the Lowell Milken Center for Philanthropy and Nonprofits
+
+date: 2024-02-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA community members said a new research center at the School of Law provides opportunities for leadership and scholarship related to nonprofit law and philanthropic efforts.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/15/ucla-law-launches-the-lowell-milken-center-for-philanthropy-and-nonprofits/">https://dailybruin.com/2024/02/15/ucla-law-launches-the-lowell-milken-center-for-philanthropy-and-nonprofits/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/15/ucla-law-launches-the-lowell-milken-center-for-philanthropy-and-nonprofits/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA’s Off-Campus Living Fair aims to help students explore their housing options
+
+date: 2024-02-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Connecting students with Westwood rental companies, UCLA&#8217;s Off-Campus Living Fair provided students with a chance to find the perfect apartment.
+The off-campus living fair was held in the Ackerman Grand Ballroom from 11 a.m.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/15/uclas-off-campus-living-fair-aims-to-help-students-explore-their-housing-options/">https://dailybruin.com/2024/02/15/uclas-off-campus-living-fair-aims-to-help-students-explore-their-housing-options/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/15/uclas-off-campus-living-fair-aims-to-help-students-explore-their-housing-options/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s basketball defeats Colorado as Bruin defense bests Buffalo offense
+
+date: 2024-02-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 15 at 10:13 p.m.</em>
+Two Bruins volleyed a sequence of electric plays in a nationally televised bout.
+Sophomore forward/center Adem Bona flew toward the basket to throw the ball down on the alley-oop.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/15/ucla-mens-basketball-defeats-colorado-as-bruin-defense-bests-buffalo-offense/">https://dailybruin.com/2024/02/15/ucla-mens-basketball-defeats-colorado-as-bruin-defense-bests-buffalo-offense/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/15/ucla-mens-basketball-defeats-colorado-as-bruin-defense-bests-buffalo-offense/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: Recent policy change is only a start for UCLA to ensure food security for students
+
+date: 2024-02-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The 2024-2025 academic year will ring in a new era of dining policies after years of UCLA administrative policy around overdue housing charges.
+For students currently residing on campus, university dining is included within the housing contract, with six different options for meal plans of varying prices.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/15/editorial-recent-policy-change-is-only-a-start-for-ucla-to-ensure-food-security-for-students/">https://dailybruin.com/2024/02/15/editorial-recent-policy-change-is-only-a-start-for-ucla-to-ensure-food-security-for-students/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/15/editorial-recent-policy-change-is-only-a-start-for-ucla-to-ensure-food-security-for-students/">Save to Pocket</a>
+</span>
+
+---
+
+## Q&A: Alumnus India Carney talks passion for arts education, upcoming event at The Nimoy
+
+date: 2024-02-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Alumnus India Carney is celebrating young artists.
+Taking place this evening at The Nimoy, the singer, songwriter and producer&#8217;s two-night series, &#8220;Riding the Rollercoaster: An Artist&#8217;s Life in Los Angeles,&#8221; will feature a performance from Carney&#8217;s band as well as some of LA&#8217;s new musicians.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/15/qa-alumnus-india-carney-talks-passion-for-arts-education-upcoming-event-at-the-nimoy/">https://dailybruin.com/2024/02/15/qa-alumnus-india-carney-talks-passion-for-arts-education-upcoming-event-at-the-nimoy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/15/qa-alumnus-india-carney-talks-passion-for-arts-education-upcoming-event-at-the-nimoy/">Save to Pocket</a>
+</span>
+
+---
+
+## CSUN baseball looks to utilize last season’s momentum to chase 2024 Big West crown
+
+date: 2024-02-16, from: The Sundail (CSUN Student Newspaper)
+
+As the weather warms up and CSUN winter sports come to an end, America’s favorite pastime returns to the Valley. On Friday, Feb. 16, CSUN baseball takes on visiting Utah...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178435/sports/csun-baseball-looks-to-utilize-last-seasons-momentum-to-chase-2024-big-west-crown/">https://sundial.csun.edu/178435/sports/csun-baseball-looks-to-utilize-last-seasons-momentum-to-chase-2024-big-west-crown/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178435/sports/csun-baseball-looks-to-utilize-last-seasons-momentum-to-chase-2024-big-west-crown/">Save to Pocket</a>
+</span>
+
+---
+
+## Art department hosts gallery for faculty work
+
+date: 2024-02-15, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN art department hosted the Faculty Art Gallery on Feb. 1 at the Art and Design Center. The main gallery was filled with artwork from different backgrounds created by...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178427/arts-entertainment/art-department-hosts-gallery-for-faculty-work/">https://sundial.csun.edu/178427/arts-entertainment/art-department-hosts-gallery-for-faculty-work/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178427/arts-entertainment/art-department-hosts-gallery-for-faculty-work/">Save to Pocket</a>
+</span>
+
+---
+
+## Latinx art exhibit opens on campus
+
+date: 2024-02-15, from: The Sundail (CSUN Student Newspaper)
+
+The room buzzes with excitement and anticipation as guests enter CSUN’s West Gallery on a rainy Thursday, Feb. 2, for the reception of the “Latinx Roots, American Sacrifices” exhibition. The...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178418/arts-entertainment/latinx-art-exhibit-opens-on-campus/">https://sundial.csun.edu/178418/arts-entertainment/latinx-art-exhibit-opens-on-campus/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178418/arts-entertainment/latinx-art-exhibit-opens-on-campus/">Save to Pocket</a>
+</span>
+
+---
+
+## ChamberFest 2024 brings students and musicians together
+
+date: 2024-02-15, from: The Sundail (CSUN Student Newspaper)
+
+CSUN Chamberfest was held from Feb. 1 to Feb. 3 at the Shigemi Matsumoto Recital Hall. This event was headed by Lorenz Gamma, the director of the chamber music program...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178410/arts-entertainment/chamberfest-2024-brings-students-and-musicians-together/">https://sundial.csun.edu/178410/arts-entertainment/chamberfest-2024-brings-students-and-musicians-together/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178410/arts-entertainment/chamberfest-2024-brings-students-and-musicians-together/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s basketball to face Oregon, Oregon State on the road with full squad
+
+date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 15 at 8:42 p.m.</em>
+The Bruins will reunite this weekend in Oregon.
+Sophomore forward Lina Sontag and senior forward Angela Dugalić return from international duties along with sophomore center Lauren Betts, who returned to play against Arizona State last week.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/15/ucla-womens-basketball-to-face-oregon-oregon-state-on-the-road-with-full-squad/">https://dailybruin.com/2024/02/15/ucla-womens-basketball-to-face-oregon-oregon-state-on-the-road-with-full-squad/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/15/ucla-womens-basketball-to-face-oregon-oregon-state-on-the-road-with-full-squad/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA baseball and its No. 1 recruiting class to face Gonzaga to open 2024 campaign
+
+date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 15 at 8:56 p.m.</em>
+The college baseball regular season is nothing short of grueling.
+Maintaining health over a 50-plus game regular season in a three-month span is a unique challenge for every team.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/15/ucla-baseball-and-its-no-1-recruiting-class-to-face-gonzaga-to-open-2024-campaign/">https://dailybruin.com/2024/02/15/ucla-baseball-and-its-no-1-recruiting-class-to-face-gonzaga-to-open-2024-campaign/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/15/ucla-baseball-and-its-no-1-recruiting-class-to-face-gonzaga-to-open-2024-campaign/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA softball to see top-five teams at Shriners Children’s Clearwater Invitational
+
+date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins have the opportunity to claw their way back from the worst loss in program history.
+No. 20 UCLA softball (2-3) will face one of the nation&#8217;s best in No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/15/ucla-softball-to-see-top-five-teams-at-shriners-childrens-clearwater-invitational/">https://dailybruin.com/2024/02/15/ucla-softball-to-see-top-five-teams-at-shriners-childrens-clearwater-invitational/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/15/ucla-softball-to-see-top-five-teams-at-shriners-childrens-clearwater-invitational/">Save to Pocket</a>
+</span>
+
+---
+
+## Longtime Small Businesses in LA Can Apply For Financial Boost From A New Program
+
+date: 2024-02-15, updated: 2024-02-15, from: The LAist
+
+The program aims to help businesses threatened by gentrification in their neighborhoods.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/small-la-businesses-financial-aid-program">https://laist.com/news/small-la-businesses-financial-aid-program</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/small-la-businesses-financial-aid-program">Save to Pocket</a>
+</span>
+
+---
+
+## Then to now: DeShaun Foster leads UCLA football 26 years after his freshman season
+
+date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 15 at 8:47 p.m.</em>
+The Bruins have reached the prestigious bowl game hosted on their home field only 12 times in program history.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/15/then-to-now-deshaun-foster-leads-ucla-football-26-years-after-his-freshman-season/">https://dailybruin.com/2024/02/15/then-to-now-deshaun-foster-leads-ucla-football-26-years-after-his-freshman-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/15/then-to-now-deshaun-foster-leads-ucla-football-26-years-after-his-freshman-season/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA names Stephen Agostini as new vice chancellor, chief financial officer
+
+date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb 15 at 9:45 p.m.</em>
+Stephen Agostini will become the new vice chancellor and chief financial officer of the university, UCLA announced Thursday.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/15/ucla-names-stephen-agostini-as-new-vice-chancellor-chief-financial-officer/">https://dailybruin.com/2024/02/15/ucla-names-stephen-agostini-as-new-vice-chancellor-chief-financial-officer/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/15/ucla-names-stephen-agostini-as-new-vice-chancellor-chief-financial-officer/">Save to Pocket</a>
+</span>
+
+---
+
+## Commentary: DeShaun Foster’s passion signals new era of UCLA football after Chip Kelly
+
+date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 15 at 8:52 p.m.</em>
+DeShaun Foster made it clear he wanted to be a Bruin before even taking the stage Tuesday morning.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/15/commentary-deshaun-fosters-passion-signals-new-era-of-ucla-football-after-chip-kelly/">https://dailybruin.com/2024/02/15/commentary-deshaun-fosters-passion-signals-new-era-of-ucla-football-after-chip-kelly/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/15/commentary-deshaun-fosters-passion-signals-new-era-of-ucla-football-after-chip-kelly/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -35,7 +496,7 @@ Officials say at least seven firefighters were injured while responding to a tru
 
 ---
 
-## Abdulkareem Agunbiade shows interdisciplinary skill healing with laughs and medicine
+## Abdulkareem Agunbiade shows interdisciplinary skill healing with laughs, medicine
 
 date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
 
@@ -48,11 +509,11 @@ A clinician in the emergency department at the UCLA David Geffen School of Medic
 
 ---
 
-## Los Padrinos Juvenile Hall Facing Fresh Scrutiny Over Staffing, Safety
+## State Orders Los Padrinos Juvenile Hall To Shut Down In 60 Days If Safety And Staffing Problems Persist
 
-date: 2024-02-15, updated: 2024-02-15, from: The LAist
+date: 2024-02-15, updated: 2024-02-16, from: The LAist
 
-A state board will take up whether the 26-acre facility in Downey is suitable to hold incarcerated youths after L.A. County's scramble last year to transfer hundreds of them there from other facilities in a span of roughly two months.
+A state board found Thursday that the 26-acre facility in Downey is unsuitable to hold incarcerated youths.
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/criminal-justice/la-county-los-padrinos-juvenile-hall-safety-staffing">https://laist.com/news/criminal-justice/la-county-los-padrinos-juvenile-hall-safety-staffing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/criminal-justice/la-county-los-padrinos-juvenile-hall-safety-staffing">Save to Pocket</a>
@@ -255,8 +716,9 @@ date: 2024-02-15, from: The Round Up (Pierce College Student Newspaper)
 
 date: 2024-02-15, from: The Daily Bruin (UCLA Student Newspaper)
 
-When Aditya Grover learned he was on Forbes Magazine&#8217;s 30 Under 30 list, he wasn&#8217;t convinced.
-&#8220;There were two emails &#8211; one that came first, which went to my spam,&#8221; said Grover, an assistant professor of computer science.
+<em>This post was updated Feb. 15 at 9:59 p.m.</em>
+When Aditya Grover learned he was on Forbes Magazine’s 30 Under 30 list, he wasn’t convinced.
+“There were two emails – one that came first, which went to my spam,” said Grover, an assistant professor of computer science.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/14/ucla-professors-named-to-forbes-30-under-30-list-for-work-in-computer-science/">https://dailybruin.com/2024/02/14/ucla-professors-named-to-forbes-30-under-30-list-for-work-in-computer-science/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/14/ucla-professors-named-to-forbes-30-under-30-list-for-work-in-computer-science/">Save to Pocket</a>

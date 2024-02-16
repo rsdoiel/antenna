@@ -1,11 +1,119 @@
 ---
 title: motorcycles 2024.07
-updated: 2024-02-15 10:00:13
+updated: 2024-02-16 08:31:59
 ---
 
 # motorcycles 2024.07
 
-(date: 2024-02-15 10:00:13)
+(date: 2024-02-16 08:31:59)
+
+---
+
+## Brian Gillen Leaves MV Agusta
+
+date: 2024-02-16, from: Cycle World News
+
+Dr. Brian Gillen has left MV Agusta to take up a new position at Norton.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/brian-gillen-leaves-mv-agusta/">https://www.cycleworld.com/motorcycle-news/brian-gillen-leaves-mv-agusta/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/brian-gillen-leaves-mv-agusta/">Save to Pocket</a>
+</span>
+
+---
+
+## McLeod, Yeley Narrowly Miss 2024 Daytona 500 Starts
+
+date: 2024-02-16, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor DAYTONA BEACH, Fla. – The difference between making the field and missing the Daytona 500 came down to last lap battles for B.J. McLeod and&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/mcleod-yeley-narrowly-miss-2024-daytona-500-starts/">https://kickinthetires.net/nascar/mcleod-yeley-narrowly-miss-2024-daytona-500-starts/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/mcleod-yeley-narrowly-miss-2024-daytona-500-starts/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 WorldSBK Will Literally Race Into The Sunset At Portimao
+
+date: 2024-02-16, from: Ride Apart, Electric Motorcycle News
+
+Mark your calendars for August 9 to 11 as the WorldSBK heads over to Portimao for the Summer Fest. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708875/2024-wsbk-portimao-sunset-race/">https://www.rideapart.com/news/708875/2024-wsbk-portimao-sunset-race/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708875/2024-wsbk-portimao-sunset-race/">Save to Pocket</a>
+</span>
+
+---
+
+## Hero MotoCorp Mavrick 440: Everything You Need To Know
+
+date: 2024-02-16, from: Ride Apart, Electric Motorcycle News
+
+Hero shakes up India’s premium segment with the Mavrick 440, derived from the Harley-Davidson X440. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708873/hero-mavrick-440-everything-we-know/">https://www.rideapart.com/news/708873/hero-mavrick-440-everything-we-know/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708873/hero-mavrick-440-everything-we-know/">Save to Pocket</a>
+</span>
+
+---
+
+## Chris Hacker Undergoes Emergency Surgery Following Terrifying Highway Accident
+
+date: 2024-02-15, from: Kickin the Tires blog
+
+DAYTONA BEACH, Fla. – On Wednesday afternoon, part-time NASCAR driver Chris Hacker was involved in a serious non-racing car accident on the way to Daytona Int’l Speedway. According to a&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/truck-series/chris-hacker-undergoes-emergency-surgery-following-terrifying-highway-accident/">https://kickinthetires.net/nascar/truck-series/chris-hacker-undergoes-emergency-surgery-following-terrifying-highway-accident/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/truck-series/chris-hacker-undergoes-emergency-surgery-following-terrifying-highway-accident/">Save to Pocket</a>
+</span>
+
+---
+
+## Facelifted Honda Grom Makes Its Way To Japan In 2024
+
+date: 2024-02-15, from: Ride Apart, Electric Motorcycle News
+
+Sadly, the adorable little belly pan does not appear to come as standard equipment for the Japanese release.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708870/honda-grom-2024-facelift-japan/">https://www.rideapart.com/news/708870/honda-grom-2024-facelift-japan/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708870/honda-grom-2024-facelift-japan/">Save to Pocket</a>
+</span>
+
+---
+
+## Jimmie Johnson Must Race His Way Into Daytona 500
+
+date: 2024-02-15, from: Kickin the Tires blog
+
+DAYTONA BEACH, Fla. – The last time a past NASCAR Cup Series champion did not qualify for a race was Terry Labonte nearly 15 years ago. Jimmie Johnson, a seven-time&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/cup/jimmie-johnson-must-race-his-way-into-daytona-500/">https://kickinthetires.net/nascar/cup/jimmie-johnson-must-race-his-way-into-daytona-500/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/cup/jimmie-johnson-must-race-his-way-into-daytona-500/">Save to Pocket</a>
+</span>
+
+---
+
+## How Much Power Does the 2023 MV Agusta Turismo Veloce Lusso SCS Make?
+
+date: 2024-02-15, from: Cycle World News
+
+The 2023 MV Agusta Turismo Veloce Lusso SCS gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/mv-agusta-turismo-veloce-lusso-scs-dyno-test-2023/">https://www.cycleworld.com/bikes/mv-agusta-turismo-veloce-lusso-scs-dyno-test-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/mv-agusta-turismo-veloce-lusso-scs-dyno-test-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## AGV Launches Limited Edition Pista GP RR GHIACCIO
+
+date: 2024-02-15, from: Ride Apart, Electric Motorcycle News
+
+This is the latest ice-cold limited edition of the lid that's loved by MotoGP racers and influencers alike. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708851/agv-piesta-gp-rr-ghiaccio/">https://www.rideapart.com/news/708851/agv-piesta-gp-rr-ghiaccio/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708851/agv-piesta-gp-rr-ghiaccio/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -203,18 +311,6 @@ By Seth Eggert, Associate Editor DAYTONA BEACH, Fla. – Three weeks after the N
 
 <span class="feed-item-link">
 <a href="https://kickinthetires.net/nascar/nascar-fullspeed-netflix-positive-review/">https://kickinthetires.net/nascar/nascar-fullspeed-netflix-positive-review/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/nascar-fullspeed-netflix-positive-review/">Save to Pocket</a>
-</span>
-
----
-
-## Brian Gillen Leaves MV Agusta
-
-date: 2024-02-14, from: Cycle World News
-
-Dr. Brian Gillen has left MV Agusta to take up a new position at Norton.
-
-<span class="feed-item-link">
-<a href="https://www.cycleworld.com/motorcycle-news/brian-gillen-leaves-mv-agusta/">https://www.cycleworld.com/motorcycle-news/brian-gillen-leaves-mv-agusta/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/brian-gillen-leaves-mv-agusta/">Save to Pocket</a>
 </span>
 
 ---

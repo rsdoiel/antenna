@@ -1,11 +1,519 @@
 ---
 title: pacific 2024.07
-updated: 2024-02-15 10:00:13
+updated: 2024-02-16 08:31:58
 ---
 
 # pacific 2024.07
 
-(date: 2024-02-15 10:00:13)
+(date: 2024-02-16 08:31:58)
+
+---
+
+## 2024 HIKI NŌ on PBS Hawai‘i Winter Compilation Show
+
+date: 2024-02-16, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>In this episode of HIKI NŌ on PBS Hawai‘i, watch some of the most memorable student work from the most recent Winter round of shows produced by Hawai‘i’s New Wave of Storytellers. Jadynn-Kalena Young, a student at Pearl City High School on O‘ahu, contributes an artistic and thoughtful Student Reflection about how hula has shaped [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/2024-hiki-no-on-pbs-hawaii-winter-compilation-show/">2024 HIKI NŌ on PBS Hawai‘i Winter Compilation Show</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.pbshawaii.org/2024-hiki-no-on-pbs-hawaii-winter-compilation-show/">https://www.pbshawaii.org/2024-hiki-no-on-pbs-hawaii-winter-compilation-show/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pbshawaii.org/2024-hiki-no-on-pbs-hawaii-winter-compilation-show/">Save to Pocket</a>
+</span>
+
+---
+
+## Multinational exercises demonstrate combat airpower at Cope North 2024 
+
+date: 2024-02-16, from: Pacific Island Times
+
+By Pacific Island Times News Staff Cope North 24 completed its first full weeks of operations, showcasing a multinational combat airpower...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/allied-powers-demonstrate-combat-airpower-at-cope-north-2024">https://www.pacificislandtimes.com/post/allied-powers-demonstrate-combat-airpower-at-cope-north-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/allied-powers-demonstrate-combat-airpower-at-cope-north-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Exclusive-Google to launch anti-misinformation campaign ahead of EU elections
+
+date: 2024-02-16, updated: 2024-02-16, from: Marianas Variety
+
+LONDON (Reuters) — Google is preparing to launch an anti-misinformation campaign across five countries in the European Union (EU), the company told Reuters ahead of the bloc's parliamentary elections and tougher new rules tackling online content.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/exclusive-google-to-launch-anti-misinformation-campaign-ahead-of-eu-elections/article_380d3f8c-cc9b-11ee-94f3-d39cdeafe64e.html">https://www.mvariety.com/business/exclusive-google-to-launch-anti-misinformation-campaign-ahead-of-eu-elections/article_380d3f8c-cc9b-11ee-94f3-d39cdeafe64e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/exclusive-google-to-launch-anti-misinformation-campaign-ahead-of-eu-elections/article_380d3f8c-cc9b-11ee-94f3-d39cdeafe64e.html">Save to Pocket</a>
+</span>
+
+---
+
+## OpenAI introduces AI model that turns text into video
+
+date: 2024-02-16, updated: 2024-02-16, from: Marianas Variety
+
+(Reuters) — Microsoft-backed OpenAI is working on a software that can generate minute-long videos based on text prompts, the company said on Thursday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/openai-introduces-ai-model-that-turns-text-into-video/article_f3eb1ea0-cc9a-11ee-b08e-7f1910538f88.html">https://www.mvariety.com/business/openai-introduces-ai-model-that-turns-text-into-video/article_f3eb1ea0-cc9a-11ee-b08e-7f1910538f88.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/openai-introduces-ai-model-that-turns-text-into-video/article_f3eb1ea0-cc9a-11ee-b08e-7f1910538f88.html">Save to Pocket</a>
+</span>
+
+---
+
+## US import prices post largest gain in nearly two years in January
+
+date: 2024-02-16, updated: 2024-02-16, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. import prices increased by the most in nearly two years in January amid rising costs for petroleum and other goods, a trend that if sustained, would be bad news in the fight against inflation.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-import-prices-post-largest-gain-in-nearly-two-years-in-january/article_6a7064f0-cc9a-11ee-98e8-7342aaed3d51.html">https://www.mvariety.com/news/national/us-import-prices-post-largest-gain-in-nearly-two-years-in-january/article_6a7064f0-cc9a-11ee-98e8-7342aaed3d51.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-import-prices-post-largest-gain-in-nearly-two-years-in-january/article_6a7064f0-cc9a-11ee-98e8-7342aaed3d51.html">Save to Pocket</a>
+</span>
+
+---
+
+## US to scrutinize Disney, Fox, Warner sports streaming deal, Bloomberg Law reports
+
+date: 2024-02-16, updated: 2024-02-16, from: Marianas Variety
+
+(Reuters) — The U.S. Department of Justice aims to scrutinize a sports streaming platform planned by Walt Disney, Fox and Warner Bros Discovery over concerns it could harm consumers, sports leagues and rivals, Bloomberg Law reported on Thursday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-to-scrutinize-disney-fox-warner-sports-streaming-deal-bloomberg-law-reports/article_285e190e-cc9a-11ee-b6a9-ab0330515c36.html">https://www.mvariety.com/news/national/us-to-scrutinize-disney-fox-warner-sports-streaming-deal-bloomberg-law-reports/article_285e190e-cc9a-11ee-b6a9-ab0330515c36.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-to-scrutinize-disney-fox-warner-sports-streaming-deal-bloomberg-law-reports/article_285e190e-cc9a-11ee-b6a9-ab0330515c36.html">Save to Pocket</a>
+</span>
+
+---
+
+## Trump cites US Supreme Court obstruction case as reason to delay criminal trial
+
+date: 2024-02-16, updated: 2024-02-16, from: Marianas Variety
+
+(Reuters) — Lawyers for Donald Trump on Thursday told the U.S. Supreme Court that the former president's criminal trial on charges of plotting to overturn his 2020 election loss should be delayed because the justices will hear a separate case in the coming months that could affect two of the counts against him.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/trump-cites-us-supreme-court-obstruction-case-as-reason-to-delay-criminal-trial/article_e93a84d8-cc99-11ee-a563-5f8d09afc7c0.html">https://www.mvariety.com/news/national/trump-cites-us-supreme-court-obstruction-case-as-reason-to-delay-criminal-trial/article_e93a84d8-cc99-11ee-a563-5f8d09afc7c0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/trump-cites-us-supreme-court-obstruction-case-as-reason-to-delay-criminal-trial/article_e93a84d8-cc99-11ee-a563-5f8d09afc7c0.html">Save to Pocket</a>
+</span>
+
+---
+
+## Trump prosecutor Fani Willis accuses defense of 'lies' about misconduct
+
+date: 2024-02-16, updated: 2024-02-16, from: Marianas Variety
+
+(Reuters) — Fani Willis, the prosecutor overseeing the election interference case against Donald Trump in Georgia, on Thursday pushed back on claims by the former U.S. president's lawyers that her romance with a colleague presented a financial conflict of interest.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/trump-prosecutor-fani-willis-accuses-defense-of-lies-about-misconduct/article_6cb3440e-cc99-11ee-bd8f-ffaf32892593.html">https://www.mvariety.com/news/national/trump-prosecutor-fani-willis-accuses-defense-of-lies-about-misconduct/article_6cb3440e-cc99-11ee-bd8f-ffaf32892593.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/trump-prosecutor-fani-willis-accuses-defense-of-lies-about-misconduct/article_6cb3440e-cc99-11ee-bd8f-ffaf32892593.html">Save to Pocket</a>
+</span>
+
+---
+
+## Germany's chamber of commerce warns of heaviest slump in 20 years
+
+date: 2024-02-16, updated: 2024-02-16, from: Marianas Variety
+
+BERLIN (Reuters) — Germany's DIHK chambers of industry and commerce warned on Thursday that Europe's biggest economy will shrink by 0.5% this year, in a second year of recession and its worst downturn in two decades.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/germanys-chamber-of-commerce-warns-of-heaviest-slump-in-20-years/article_19134920-cc99-11ee-b040-37e8d8199311.html">https://www.mvariety.com/news/germanys-chamber-of-commerce-warns-of-heaviest-slump-in-20-years/article_19134920-cc99-11ee-b040-37e8d8199311.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/germanys-chamber-of-commerce-warns-of-heaviest-slump-in-20-years/article_19134920-cc99-11ee-b040-37e8d8199311.html">Save to Pocket</a>
+</span>
+
+---
+
+## Egypt setting up area at Gaza border which could be used to shelter Palestinians-sources
+
+date: 2024-02-16, updated: 2024-02-16, from: Marianas Variety
+
+(Reuters) — Egypt is preparing an area at the Gaza border which could accommodate Palestinians in case an Israeli offensive into Rafah prompts an exodus across the frontier, four sources said, in what they described as a contingency move by Cairo.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/egypt-setting-up-area-at-gaza-border-which-could-be-used-to-shelter-palestinians-sources/article_8313bd06-cc98-11ee-959c-a3571bd4b247.html">https://www.mvariety.com/news/egypt-setting-up-area-at-gaza-border-which-could-be-used-to-shelter-palestinians-sources/article_8313bd06-cc98-11ee-959c-a3571bd4b247.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/egypt-setting-up-area-at-gaza-border-which-could-be-used-to-shelter-palestinians-sources/article_8313bd06-cc98-11ee-959c-a3571bd4b247.html">Save to Pocket</a>
+</span>
+
+---
+
+## Greece legalizes same sex marriage in landmark change
+
+date: 2024-02-16, updated: 2024-02-16, from: Marianas Variety
+
+ATHENS (Reuters) — Greece's parliament approved a bill allowing same-sex civil marriage on Thursday, a landmark victory for supporters of LGBT rights that was greeted with cheers by onlookers in parliament and dozens gathered on the streets of Athens.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/greece-legalizes-same-sex-marriage-in-landmark-change/article_2bd5086a-cc98-11ee-98ee-a3053d16eea6.html">https://www.mvariety.com/news/greece-legalizes-same-sex-marriage-in-landmark-change/article_2bd5086a-cc98-11ee-98ee-a3053d16eea6.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/greece-legalizes-same-sex-marriage-in-landmark-change/article_2bd5086a-cc98-11ee-98ee-a3053d16eea6.html">Save to Pocket</a>
+</span>
+
+---
+
+## Saipan cyclists welcome bike lanes along main highway
+
+date: 2024-02-16, updated: 2024-02-16, from: Marianas Variety
+
+PAGO PAGO (RNZ Pacific/Pacnews) — Cyclists in Saipan are heaving a big sigh of relief with the incorporation of bike lanes--at least in Phase 2 of the Beach Road rehabilitation project spanning from As Perdido to the Atkins Kroll intersection in Oleai.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/saipan-cyclists-welcome-bike-lanes-along-main-highway/article_73672a7e-cc97-11ee-944f-035c09fe30c2.html">https://www.mvariety.com/news/saipan-cyclists-welcome-bike-lanes-along-main-highway/article_73672a7e-cc97-11ee-944f-035c09fe30c2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/saipan-cyclists-welcome-bike-lanes-along-main-highway/article_73672a7e-cc97-11ee-944f-035c09fe30c2.html">Save to Pocket</a>
+</span>
+
+---
+
+## Palau retains cricket crown in friendly Australia Day match
+
+date: 2024-02-16, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_164754.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_164754.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_164754.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_164754.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_164754.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_164754.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_164754.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_164754.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_164754.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68791" data-permalink="https://islandtimes.org/palau-retains-cricket-crown-in-friendly-australia-day-match/20240215_164754/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_164754.jpg?fit=1249%2C703&amp;ssl=1" data-orig-size="1249,703" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1708015675&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;40&quot;,&quot;shutter_speed&quot;:&quot;0.0084745762711864&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240215_164754" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_164754.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_164754.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<p>KOROR, Palau &#8211; A friendly cricket match between Team Australia led by Ambassador Ritchelle Turner and Team Palau captained by President Surangel Whipps Jr. served as a belated Australia Day celebration on Thursday. The Australian National Day falls on January 26 but the celebration was moved to February 15th due to weather conditions. This year&#8217;s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-retains-cricket-crown-in-friendly-australia-day-match/">Palau retains cricket crown in friendly Australia Day match</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-retains-cricket-crown-in-friendly-australia-day-match/">https://islandtimes.org/palau-retains-cricket-crown-in-friendly-australia-day-match/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-retains-cricket-crown-in-friendly-australia-day-match/">Save to Pocket</a>
+</span>
+
+---
+
+## House rejects Senate’s Supplemental Budget Bill
+
+date: 2024-02-16, from: Island Times
+
+<figure><img width="1024" height="698" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_095827.jpg?fit=1024%2C698&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_095827.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_095827.jpg?resize=300%2C204&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_095827.jpg?resize=1024%2C698&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_095827.jpg?resize=768%2C523&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_095827.jpg?resize=1200%2C818&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_095827.jpg?resize=400%2C273&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_095827.jpg?resize=706%2C481&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_095827.jpg?fit=1024%2C698&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68784" data-permalink="https://islandtimes.org/house-rejects-senates-supplemental-budget-bill/20240215_095827/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_095827.jpg?fit=1249%2C851&amp;ssl=1" data-orig-size="1249,851" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1707991108&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;160&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240215_095827" data-image-description="" data-image-caption="&lt;p&gt;Public awareness campaign on the journey to&lt;br /&gt;
+5G network.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_095827.jpg?fit=300%2C204&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240215_095827.jpg?fit=780%2C532&amp;ssl=1" /></figure>
+<p>KOROR, Palau &#8211; The House of Delegates rejected the Senate&#8217;s version of the Supplemental Budget bill (HB 11-131-13, HD1, SD2) during a special session on Feb. 14, 2024. Initially proposed by President Surangel Whipps, the bill included time-sensitive items like subsidies for Social Security and the Civil Service Pension Plan. It also aimed to amend [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/house-rejects-senates-supplemental-budget-bill/">House rejects Senate&#8217;s Supplemental Budget Bill</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/house-rejects-senates-supplemental-budget-bill/">https://islandtimes.org/house-rejects-senates-supplemental-budget-bill/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/house-rejects-senates-supplemental-budget-bill/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Embarks on Journey to 5G Network, Unlocking New Opportunities
+
+date: 2024-02-16, from: Island Times
+
+<p>Koror, Palau &#8211; Palau&#8217;s digital landscape is poised for a significant leap forward with the commencement of its transition to a next-generation 5G Open RAN network. The project, spearheaded by the Palau National Telecommunications Corporation (PNCC) and consulting firm Widelity, kicked off with a public awareness campaign on February 15th, 2024, at West Plaza Hotel. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-embarks-on-journey-to-5g-network-unlocking-new-opportunities/">Palau Embarks on Journey to 5G Network, Unlocking New Opportunities</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-embarks-on-journey-to-5g-network-unlocking-new-opportunities/">https://islandtimes.org/palau-embarks-on-journey-to-5g-network-unlocking-new-opportunities/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-embarks-on-journey-to-5g-network-unlocking-new-opportunities/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Divided on US Military base Proposal: House pushes, Senate opposes
+
+date: 2024-02-16, from: Island Times
+
+<p>KOROR, Palau &#8211; In a move highlighting contrasting views on national security, Palau&#8217;s House of Delegates has urged President Surangel Whipps Jr. to collaborate with the United States on establishing a military base in the island nation. This proposal directly challenges the Senate&#8217;s stance from November 2023, which opposed similar efforts, citing concerns about militarization [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-divided-on-us-military-base-proposal-house-pushes-senate-opposes/">Palau Divided on US Military base Proposal: House pushes, Senate opposes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-divided-on-us-military-base-proposal-house-pushes-senate-opposes/">https://islandtimes.org/palau-divided-on-us-military-base-proposal-house-pushes-senate-opposes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-divided-on-us-military-base-proposal-house-pushes-senate-opposes/">Save to Pocket</a>
+</span>
+
+---
+
+## House claims misrepresentation: Leaders defend Sanctuary Review, Call for Accurate Reporting
+
+date: 2024-02-16, from: Island Times
+
+<p>The House of Delegates in Palau has expressed strong disapproval of a recent Bloomberg News article and the actions of The Pew Charitable Trusts, both of which they claim misrepresented the nation&#8217;s environmental efforts and future plans for its National Marine Sanctuary (PNMS). The Bloomberg article, titled &#8220;The US Environmental Group Behind Palau&#8217;s Plan to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/house-claims-misrepresentation-leaders-defend-sanctuary-review-call-for-accurate-reporting/">House claims misrepresentation: Leaders defend Sanctuary Review, Call for Accurate Reporting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/house-claims-misrepresentation-leaders-defend-sanctuary-review-call-for-accurate-reporting/">https://islandtimes.org/house-claims-misrepresentation-leaders-defend-sanctuary-review-call-for-accurate-reporting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/house-claims-misrepresentation-leaders-defend-sanctuary-review-call-for-accurate-reporting/">Save to Pocket</a>
+</span>
+
+---
+
+## Bloomberg – Palau Holding Statement
+
+date: 2024-02-16, from: Island Times
+
+<p>January 28, 2024- In response to the January 18, Bloomberg Green article calling into question the role of The Nature Conservancy’s work in the Republic of Palau, The Nature Conservancy’s  commitment to protect the Palau National Marine Sanctuary, and implying that The Nature Conservancy has undue influence in Palau: The Palau National Marine Sanctuary (PNMS) [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bloomberg-palau-holding-statement/">Bloomberg &#8211; Palau Holding Statement</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/bloomberg-palau-holding-statement/">https://islandtimes.org/bloomberg-palau-holding-statement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/bloomberg-palau-holding-statement/">Save to Pocket</a>
+</span>
+
+---
+
+## 2nd Interscholastic Youth Forum included high schools and 8th Graders
+
+date: 2024-02-16, from: Island Times
+
+<figure><img width="1024" height="786" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/8th-grade.jpg?fit=1024%2C786&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/8th-grade.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/8th-grade.jpg?resize=300%2C230&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/8th-grade.jpg?resize=1024%2C786&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/8th-grade.jpg?resize=768%2C590&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/8th-grade.jpg?resize=1200%2C921&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/8th-grade.jpg?resize=400%2C307&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/8th-grade.jpg?resize=706%2C542&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/8th-grade.jpg?fit=1024%2C786&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68771" data-permalink="https://islandtimes.org/2nd-interscholastic-youth-forum-included-high-schools-and-8th-graders/8th-grade/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/8th-grade.jpg?fit=1249%2C959&amp;ssl=1" data-orig-size="1249,959" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;King Sam&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="8th grade" data-image-description="" data-image-caption="&lt;p&gt;8th graders from schools based in Koror were able to participate in the forum this year.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/8th-grade.jpg?fit=300%2C230&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/8th-grade.jpg?fit=780%2C599&amp;ssl=1" /></figure>
+<p>The Sons of Sureor (SOS) continued its efforts to engage with youth groups by organizing the second interscholastic youth forum at the Maris Stella School Auditorium on February 9.  Over 150 students representing all high schools and, for the first time, included 8th graders from Koror-based elementary schools.  The forum provides an interactive space for [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/2nd-interscholastic-youth-forum-included-high-schools-and-8th-graders/">2nd Interscholastic Youth Forum included high schools and 8th Graders</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/2nd-interscholastic-youth-forum-included-high-schools-and-8th-graders/">https://islandtimes.org/2nd-interscholastic-youth-forum-included-high-schools-and-8th-graders/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/2nd-interscholastic-youth-forum-included-high-schools-and-8th-graders/">Save to Pocket</a>
+</span>
+
+---
+
+## Synchronizing efforts to strengthened Palau’s response to Climate Change
+
+date: 2024-02-16, from: Island Times
+
+<figure><img width="1024" height="791" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Synchrozning-efforts.jpg?fit=1024%2C791&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Synchrozning-efforts.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Synchrozning-efforts.jpg?resize=300%2C232&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Synchrozning-efforts.jpg?resize=1024%2C791&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Synchrozning-efforts.jpg?resize=768%2C593&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Synchrozning-efforts.jpg?resize=1200%2C927&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Synchrozning-efforts.jpg?resize=400%2C309&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Synchrozning-efforts.jpg?resize=706%2C545&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Synchrozning-efforts.jpg?fit=1024%2C791&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68767" data-permalink="https://islandtimes.org/synchrozning-efforts-to-strengthenen-palaus-response-to-climate-change/synchrozning-efforts/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Synchrozning-efforts.jpg?fit=1249%2C965&amp;ssl=1" data-orig-size="1249,965" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Synchrozning efforts" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Synchrozning-efforts.jpg?fit=300%2C232&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Synchrozning-efforts.jpg?fit=780%2C603&amp;ssl=1" /></figure>
+<p>The Office of Climate Change, Office of Project Management, the Asian Development Bank (ADB), and the UN-International Organization for Migration co-hosted a multistakeholder workshop on January 31st, aiming to enhance and coordinate Palau&#8217;s response to climate change. KOROR, PALAU – As a big ocean state Palau is keenly aware of its vulnerability to climate change [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/synchrozning-efforts-to-strengthenen-palaus-response-to-climate-change/">Synchronizing efforts to strengthened Palau’s response to Climate Change</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/synchrozning-efforts-to-strengthenen-palaus-response-to-climate-change/">https://islandtimes.org/synchrozning-efforts-to-strengthenen-palaus-response-to-climate-change/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/synchrozning-efforts-to-strengthenen-palaus-response-to-climate-change/">Save to Pocket</a>
+</span>
+
+---
+
+## PNCC and PCC Partnership: Bridging classroom learning with Practical Workforce Experience
+
+date: 2024-02-16, from: Island Times
+
+<figure><img width="600" height="492" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PNCC-and-PCC-Partnership.jpg?fit=600%2C492&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PNCC-and-PCC-Partnership.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PNCC-and-PCC-Partnership.jpg?resize=300%2C246&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PNCC-and-PCC-Partnership.jpg?resize=400%2C328&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PNCC-and-PCC-Partnership.jpg?fit=600%2C492&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68764" data-permalink="https://islandtimes.org/pncc-and-pcc-partnership-bridging-classroom-learning-with-practical-workforce-experience/pncc-and-pcc-partnership/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PNCC-and-PCC-Partnership.jpg?fit=600%2C492&amp;ssl=1" data-orig-size="600,492" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PNCC and PCC Partnership" data-image-description="" data-image-caption="&lt;p&gt;Jessica Emesiochel, PCC Student Intern and Simon Fraser, PNCC Chief Executive Officer&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PNCC-and-PCC-Partnership.jpg?fit=300%2C246&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PNCC-and-PCC-Partnership.jpg?fit=600%2C492&amp;ssl=1" /></figure>
+<p>Over the years Palau National Communications Corporation (PNCC) has worked with Palau Community College (PCC) to provide internship opportunities for students in their final year before graduation. This program gives them a practical opportunity to put classroom theories to the test in a workplace setting. Jessica Emesiochel, a final-year student at PCC majoring in Information [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pncc-and-pcc-partnership-bridging-classroom-learning-with-practical-workforce-experience/">PNCC and PCC Partnership: Bridging classroom learning with Practical Workforce Experience</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/pncc-and-pcc-partnership-bridging-classroom-learning-with-practical-workforce-experience/">https://islandtimes.org/pncc-and-pcc-partnership-bridging-classroom-learning-with-practical-workforce-experience/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/pncc-and-pcc-partnership-bridging-classroom-learning-with-practical-workforce-experience/">Save to Pocket</a>
+</span>
+
+---
+
+## Enhancing Palau’s Border Management facilities for efficient and effective border security and Immigration Processes
+
+date: 2024-02-16, from: Island Times
+
+<figure><img width="1024" height="634" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IOM.jpg?fit=1024%2C634&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IOM.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IOM.jpg?resize=300%2C186&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IOM.jpg?resize=1024%2C634&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IOM.jpg?resize=768%2C475&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IOM.jpg?resize=1200%2C743&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IOM.jpg?resize=400%2C248&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IOM.jpg?resize=706%2C437&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IOM.jpg?fit=1024%2C634&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68761" data-permalink="https://islandtimes.org/enhancing-palaus-border-management-facilities-for-efficient-and-effective-border-security-and-immigration-processes/iom-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IOM.jpg?fit=1249%2C773&amp;ssl=1" data-orig-size="1249,773" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IOM" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IOM.jpg?fit=300%2C186&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IOM.jpg?fit=780%2C483&amp;ssl=1" /></figure>
+<p>On February 8, 2024, at a handover ceremony of Information Technology (IT) equipment with the total value of $50,420.44 for the Division of Immigration of the Bureau of Customs &#38; Border Protection, Ministry of Finance, His Excellency ORIKASA Hiroyuki, Ambassador Extraordinary and Plenipotentiary of Japan to the Republic of Palau, emphasized the importance of strengthening [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/enhancing-palaus-border-management-facilities-for-efficient-and-effective-border-security-and-immigration-processes/">Enhancing Palau’s Border Management facilities for efficient and effective border security and Immigration Processes</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/enhancing-palaus-border-management-facilities-for-efficient-and-effective-border-security-and-immigration-processes/">https://islandtimes.org/enhancing-palaus-border-management-facilities-for-efficient-and-effective-border-security-and-immigration-processes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/enhancing-palaus-border-management-facilities-for-efficient-and-effective-border-security-and-immigration-processes/">Save to Pocket</a>
+</span>
+
+---
+
+## UAB NATION:
+
+date: 2024-02-16, from: Island Times
+
+<p>Views [‘WES’] from the Tree Tops Ra Mesesechel &#160;A Ngedeloch from the Enchanted Isles I am and will always be from my beloved Island of Angaur, aka Ngeaur, aka Uab Nation, and, when the occasion calls for it, aka the Enchanted Isles.&#160; So, any and all issues that may have relevance to my Uab Nation [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/uab-nation/">UAB NATION: </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/uab-nation/">https://islandtimes.org/uab-nation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/uab-nation/">Save to Pocket</a>
+</span>
+
+---
+
+## HOW’S YOUR HEART?
+
+date: 2024-02-16, from: Island Times
+
+<figure><img width="143" height="479" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/06/womens-corner-1-e1656596004185.png?fit=143%2C479&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/06/womens-corner-1-e1656596004185.png?w=143&amp;ssl=1 143w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/06/womens-corner-1-e1656596004185.png?resize=90%2C300&amp;ssl=1 90w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/06/womens-corner-1-e1656596004185.png?fit=143%2C479&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/06/womens-corner-1-e1656596004185.png?fit=143%2C479&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="55311" data-permalink="https://islandtimes.org/shake-the-dust-off/womens-corner-23/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/06/womens-corner-1-e1656596004185.png?fit=143%2C479&amp;ssl=1" data-orig-size="143,479" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="womens-corner" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/06/womens-corner-1-e1656596004185.png?fit=90%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/06/womens-corner-1-e1656596004185.png?fit=143%2C479&amp;ssl=1" /></figure>
+<p>If your heart is right, your mind will follow. If your heart is broken, your mind will be cognitively distorted. It&#8217;s like that woman accusing their neighbor for not doing their laundry correctly. One day the husband cleaned their kitchen windows. She saw and admired her neighbor for doing her laundry correctly. Her view was [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/hows-your-heart/">HOW&#8217;S YOUR HEART?</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/hows-your-heart/">https://islandtimes.org/hows-your-heart/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/hows-your-heart/">Save to Pocket</a>
+</span>
+
+---
+
+## Difficult to predict fate of Australia-Tuvalu deal on climate and security, intelligence boss says
+
+date: 2024-02-16, from: Island Times
+
+<p>CANBERRA, (THE GUARDIAN) &#8212; A senior Australian intelligence chief has acknowledged a landmark climate and security deal with Tuvalu may be at risk in the wake of the Pacific nation’s election. Andrew Shearer, who leads the government’s Office of National Intelligence (ONI), said his agency was “obviously aware of recent political change and turbulence in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/difficult-to-predict-fate-of-australia-tuvalu-deal-on-climate-and-security-intelligence-boss-says/">Difficult to predict fate of Australia-Tuvalu deal on climate and security, intelligence boss says</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/difficult-to-predict-fate-of-australia-tuvalu-deal-on-climate-and-security-intelligence-boss-says/">https://islandtimes.org/difficult-to-predict-fate-of-australia-tuvalu-deal-on-climate-and-security-intelligence-boss-says/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/difficult-to-predict-fate-of-australia-tuvalu-deal-on-climate-and-security-intelligence-boss-says/">Save to Pocket</a>
+</span>
+
+---
+
+## UP vows to reevaluate SI-China Security Pact, reestablish ties with Taiwan and maintain China as development partner
+
+date: 2024-02-16, from: Island Times
+
+<p>HONIARA (SOLOMON STAR) &#8212; Solomon Islands United Party (UP) has declared its intention to reassess the country’s security agreement with China should it secure a position in a coalition government after the upcoming April elections. The current caretaker Democratic Coalition Government for Advancement (DCGA) led by Prime Minister Manasseh Sogavare inked the security pact with [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/up-vows-to-reevaluate-si-china-security-pact-reestablish-ties-with-taiwan-and-maintain-china-as-development-partner/">UP vows to reevaluate SI-China Security Pact, reestablish ties with Taiwan and maintain China as development partner</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/up-vows-to-reevaluate-si-china-security-pact-reestablish-ties-with-taiwan-and-maintain-china-as-development-partner/">https://islandtimes.org/up-vows-to-reevaluate-si-china-security-pact-reestablish-ties-with-taiwan-and-maintain-china-as-development-partner/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/up-vows-to-reevaluate-si-china-security-pact-reestablish-ties-with-taiwan-and-maintain-china-as-development-partner/">Save to Pocket</a>
+</span>
+
+---
+
+## Gunfire at Chiefs’ Super Bowl celebration kills 1 and wounds nearly two-dozen, including children
+
+date: 2024-02-16, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Gunfire-at-Chiefs.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Gunfire-at-Chiefs.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Gunfire-at-Chiefs.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Gunfire-at-Chiefs.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Gunfire-at-Chiefs.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Gunfire-at-Chiefs.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Gunfire-at-Chiefs.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Gunfire-at-Chiefs.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Gunfire-at-Chiefs.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68748" data-permalink="https://islandtimes.org/gunfire-at-chiefs-super-bowl-celebration-kills-1-and-wounds-nearly-two-dozen-including-children/gunfire-at-chiefs/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Gunfire-at-Chiefs.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;11&quot;,&quot;credit&quot;:&quot;Reed Hoffmann&quot;,&quot;camera&quot;:&quot;NIKON Z 9&quot;,&quot;caption&quot;:&quot;A woman is taken to an ambulance after an incident following the Kansas City Chiefs NFL football Super Bowl celebration in Kansas City, Mo., Wednesday, Feb. 14, 2024. The Chiefs defeated the San Francisco 49ers Sunday in the Super Bowl 58. (AP Photo\/Reed Hoffmann)&quot;,&quot;created_timestamp&quot;:&quot;1707919762&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;600&quot;,&quot;iso&quot;:&quot;1400&quot;,&quot;shutter_speed&quot;:&quot;0.001&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Gunfire at Chiefs" data-image-description="" data-image-caption="&lt;p&gt;A woman is taken to an ambulance after an incident following the Kansas City Chiefs NFL football Super Bowl celebration in Kansas City, Mo., Wednesday, Feb. 14, 2024. The Chiefs defeated the San Francisco 49ers Sunday in the Super Bowl 58. (AP Photo/Reed Hoffmann)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Gunfire-at-Chiefs.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Gunfire-at-Chiefs.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By HEATHER HOLLINGSWORTH and NICK INGRAM Associated Press KANSAS CITY, Mo. (AP) — A historic railway station on the edge of downtown Kansas City became the latest backdrop for a mass shooting as gunfire near the end of the Kansas City Chiefs&#8217;&#160;Super Bowl celebration&#160;sent terrified fans scrambling for cover and left 21 people wounded — [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/gunfire-at-chiefs-super-bowl-celebration-kills-1-and-wounds-nearly-two-dozen-including-children/">Gunfire at Chiefs&#8217; Super Bowl celebration kills 1 and wounds nearly two-dozen, including children</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/gunfire-at-chiefs-super-bowl-celebration-kills-1-and-wounds-nearly-two-dozen-including-children/">https://islandtimes.org/gunfire-at-chiefs-super-bowl-celebration-kills-1-and-wounds-nearly-two-dozen-including-children/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/gunfire-at-chiefs-super-bowl-celebration-kills-1-and-wounds-nearly-two-dozen-including-children/">Save to Pocket</a>
+</span>
+
+---
+
+## On the USS Eisenhower, 4 months of combat at sea facing Houthi missiles and a new sea threat
+
+date: 2024-02-16, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/On-the-USS-Eisenhower.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/On-the-USS-Eisenhower.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/On-the-USS-Eisenhower.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/On-the-USS-Eisenhower.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/On-the-USS-Eisenhower.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/On-the-USS-Eisenhower.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/On-the-USS-Eisenhower.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/On-the-USS-Eisenhower.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/On-the-USS-Eisenhower.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68745" data-permalink="https://islandtimes.org/on-the-uss-eisenhower-4-months-of-combat-at-sea-facing-houthi-missiles-and-a-new-sea-threat/on-the-uss-eisenhower/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/On-the-USS-Eisenhower.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;10&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Crew members work on the bridge of the U.S.S. Gravely (DDG 107) destroyer in the south Red Sea, Tuesday, Feb. 13, 2024. (AP Photo\/Bernat Armangue)&quot;,&quot;created_timestamp&quot;:&quot;1707810177&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;35&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.0015625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="On the USS Eisenhower" data-image-description="" data-image-caption="&lt;p&gt;Crew members work on the bridge of the U.S.S. Gravely (DDG 107) destroyer in the south Red Sea, Tuesday, Feb. 13, 2024. (AP Photo/Bernat Armangue)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/On-the-USS-Eisenhower.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/On-the-USS-Eisenhower.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By BERNAT ARMANGUE and TARA COPP Associated Press ABOARD THE USS DWIGHT D. EISENHOWER (AP) — Sailors aboard the aircraft carrier USS Dwight D. Eisenhower and its accompanying warships have spent four months straight at sea defending against ballistic missiles and flying attack drones fired by Iranian-backed Houthis, and are now more regularly also defending [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/on-the-uss-eisenhower-4-months-of-combat-at-sea-facing-houthi-missiles-and-a-new-sea-threat/">On the USS Eisenhower, 4 months of combat at sea facing Houthi missiles and a new sea threat</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/on-the-uss-eisenhower-4-months-of-combat-at-sea-facing-houthi-missiles-and-a-new-sea-threat/">https://islandtimes.org/on-the-uss-eisenhower-4-months-of-combat-at-sea-facing-houthi-missiles-and-a-new-sea-threat/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/on-the-uss-eisenhower-4-months-of-combat-at-sea-facing-houthi-missiles-and-a-new-sea-threat/">Save to Pocket</a>
+</span>
+
+---
+
+## A night of firsts at the World Aquatics Championships in Doha
+
+date: 2024-02-16, from: Island Times
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/A-night-of-firsts.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/A-night-of-firsts.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/A-night-of-firsts.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/A-night-of-firsts.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/A-night-of-firsts.jpg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/A-night-of-firsts.jpg?resize=706%2C470&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/A-night-of-firsts.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68742" data-permalink="https://islandtimes.org/a-night-of-firsts-at-the-world-aquatics-championships-in-doha/a-night-of-firsts/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/A-night-of-firsts.jpg?fit=1024%2C682&amp;ssl=1" data-orig-size="1024,682" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;Hassan Ammar&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Tomoru Honda of Japan competes in the men&#039;s 200m butterfly final at the World Aquatics Championships in Doha, Qatar, Wednesday, Feb. 14, 2024. (AP Photo\/Hassan Ammar)&quot;,&quot;created_timestamp&quot;:&quot;1707940636&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;400&quot;,&quot;iso&quot;:&quot;4000&quot;,&quot;shutter_speed&quot;:&quot;0.0005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="A night of firsts" data-image-description="" data-image-caption="&lt;p&gt;Tomoru Honda of Japan competes in the men&#8217;s 200m butterfly final at the World Aquatics Championships in Doha, Qatar, Wednesday, Feb. 14, 2024. (AP Photo/Hassan Ammar)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/A-night-of-firsts.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/A-night-of-firsts.jpg?fit=780%2C519&amp;ssl=1" /></figure>
+<p>DOHA, Qatar (AP) — It was a night of firsts at the World Aquatics Championships. Siobhán Haughey of Hong Kong captured her first long-course world title in the women&#8217;s 200-meter freestyle on Wednesday. Ditto for Japan&#8217;s Tomoru Honda, who claimed the biggest victory of his career in the 200 butterfly. That&#8217;s not all. Daniel Wiffen [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/a-night-of-firsts-at-the-world-aquatics-championships-in-doha/">A night of firsts at the World Aquatics Championships in Doha</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/a-night-of-firsts-at-the-world-aquatics-championships-in-doha/">https://islandtimes.org/a-night-of-firsts-at-the-world-aquatics-championships-in-doha/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/a-night-of-firsts-at-the-world-aquatics-championships-in-doha/">Save to Pocket</a>
+</span>
+
+---
+
+## Powell, George lead Clippers back from 12 down in fourth to beat Curry, Warriors 130-125
+
+date: 2024-02-16, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Powel.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Powel.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Powel.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Powel.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Powel.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Powel.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Powel.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68739" data-permalink="https://islandtimes.org/powell-george-lead-clippers-back-from-12-down-in-fourth-to-beat-curry-warriors-130-125/powel/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Powel.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Jeff Chiu&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Golden State Warriors guard Stephen Curry (30) shoots in front of Los Angeles Clippers center Ivica Zubac during the first half of an NBA basketball game in San Francisco, Wednesday, Feb. 14, 2024. (AP Photo\/Jeff Chiu)&quot;,&quot;created_timestamp&quot;:&quot;1707940763&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;3200&quot;,&quot;shutter_speed&quot;:&quot;0.0005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Powel" data-image-description="" data-image-caption="&lt;p&gt;Golden State Warriors guard Stephen Curry (30) shoots in front of Los Angeles Clippers center Ivica Zubac during the first half of an NBA basketball game in San Francisco, Wednesday, Feb. 14, 2024. (AP Photo/Jeff Chiu)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Powel.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Powel.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By JANIE McCAULEY AP Sports Writer SAN FRANCISCO (AP) — When the Golden State Warriors stopped playing the stingy defense that has carried them recently, Paul George and Norman Powell found every opening. Powell made four 3-pointers over the final 7:03 to score 21 points and outduel Stephen Curry down the stretch, and the Los [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/powell-george-lead-clippers-back-from-12-down-in-fourth-to-beat-curry-warriors-130-125/">Powell, George lead Clippers back from 12 down in fourth to beat Curry, Warriors 130-125</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/powell-george-lead-clippers-back-from-12-down-in-fourth-to-beat-curry-warriors-130-125/">https://islandtimes.org/powell-george-lead-clippers-back-from-12-down-in-fourth-to-beat-curry-warriors-130-125/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/powell-george-lead-clippers-back-from-12-down-in-fourth-to-beat-curry-warriors-130-125/">Save to Pocket</a>
+</span>
+
+---
+
+## UH West Oʻahu professor urges stand for justice, equality
+
+date: 2024-02-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Professor Paula B. Major helped to mark Black History Month in an event at Honolulu Hale.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/15/major-urges-stand-for-justice-equality/"><abbr>UH</abbr> West Oʻahu professor urges stand for justice, equality</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/15/major-urges-stand-for-justice-equality/">https://www.hawaii.edu/news/2024/02/15/major-urges-stand-for-justice-equality/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/15/major-urges-stand-for-justice-equality/">Save to Pocket</a>
+</span>
+
+---
+
+## Going bananas for local agriculture
+
+date: 2024-02-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Ban&#225;n has grown to multiple locations across <span aria-label="Oahu">O&#699;ahu</span> and is enjoying sweet success at its newest location in Kaimukī.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/15/going-bananas-local-agriculture/">Going bananas for local agriculture</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/15/going-bananas-local-agriculture/">https://www.hawaii.edu/news/2024/02/15/going-bananas-local-agriculture/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/15/going-bananas-local-agriculture/">Save to Pocket</a>
+</span>
+
+---
+
+## Pacific Island leaders warn US failure to pass funding bill opens door to China
+
+date: 2024-02-16, from: The Guardian, World/Micronesia
+
+<p>The Federated States of Micronesia, the Marshall Islands and Palau say Congress needs to approve fresh support announced by Joe Biden</p><p>Pacific leaders have warned the US government that a delay in approving funding packages for the region threatens to play into the hands of Beijing, which is seeking to shift allegiances in the Pacific and draw away as many of Taiwan’s diplomatic allies as possible.</p><p>In 2023 the Federated States of Micronesia (FSM), the Marshall Islands (RMI) and Palau <a href="https://viewer.gutools.co.uk/world/2023/mar/10/biden-budget-includes-billions-for-pacific-islands-in-bid-to-out-compete-china">agreed to renew 20-year funding programs with the United States</a>. The agreements, known as Compacts of Free Association (COFA), see Washington provide economic assistance to the Pacific nations in return for exclusive military access to large and strategic areas of the Pacific.</p> <a href="https://www.theguardian.com/world/2024/feb/16/pacific-islands-us-funding-bill-china-relationship-joe-biden">Continue reading...</a>
+
+<span class="feed-item-link">
+<a href="https://www.theguardian.com/world/2024/feb/16/pacific-islands-us-funding-bill-china-relationship-joe-biden">https://www.theguardian.com/world/2024/feb/16/pacific-islands-us-funding-bill-china-relationship-joe-biden</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theguardian.com/world/2024/feb/16/pacific-islands-us-funding-bill-china-relationship-joe-biden">Save to Pocket</a>
+</span>
+
+---
+
+## Micronesian artwork exhibited at UH West Oʻahu library
+
+date: 2024-02-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> &#8220;7 Degrees North: The Arts of Micronesia&#8221; runs through June 16 and overlaps with the 13th Festival of Pacific Arts &#38; Culture.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/15/micronesian-artwork-uh-west-oahu-library/">Micronesian artwork exhibited at <abbr>UH</abbr> West Oʻahu library</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/15/micronesian-artwork-uh-west-oahu-library/">https://www.hawaii.edu/news/2024/02/15/micronesian-artwork-uh-west-oahu-library/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/15/micronesian-artwork-uh-west-oahu-library/">Save to Pocket</a>
+</span>
+
+---
+
+## Mau sails in on Makali’i
+
+date: 2024-02-15, from: Marshal Islands Journal
+
+<p>Journal 2/13/1987 P1 Eye fixerThe hospital’s new laser unit was checked by administrator Skip Cole and Health Secretary Marie Maddison. Donated by the Maui Rotary Club, the machine will benefit patients with hemorrhaging of the retina. P2 Doomsday machine: Man not the bombsDennis O’Rourke, an Australian filmmaker, objects to moral sloth. His documentary Half Life [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/mau-sails-in-on-makalii/">Mau sails in on Makali’i</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/mau-sails-in-on-makalii/">https://marshallislandsjournal.com/mau-sails-in-on-makalii/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/mau-sails-in-on-makalii/">Save to Pocket</a>
+</span>
+
+---
+
+## UH dominates MPSF diving championship
+
+date: 2024-02-15, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> <abbr>UH</abbr> Mānoa captured all six individual diving titles in the the Mountain Pacific Sports Federation Diving Championships.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/15/uh-dominates-mpsf-diving-championship/"><abbr>UH</abbr> dominates <abbr>MPSF</abbr> diving championship</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/15/uh-dominates-mpsf-diving-championship/">https://www.hawaii.edu/news/2024/02/15/uh-dominates-mpsf-diving-championship/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/15/uh-dominates-mpsf-diving-championship/">Save to Pocket</a>
+</span>
+
+---
+
+## UH among nation’s best in community college transfer students earning bachelor degrees
+
+date: 2024-02-15, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> <span aria-label="Hawaii">Hawai&#699;i</span> is one of only eight states to have outperformed the national average.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/15/uh-tops-cc-transfers-earn-bachelor/"><abbr>UH</abbr> among nation’s best in community college transfer students earning bachelor degrees</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/15/uh-tops-cc-transfers-earn-bachelor/">https://www.hawaii.edu/news/2024/02/15/uh-tops-cc-transfers-earn-bachelor/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/15/uh-tops-cc-transfers-earn-bachelor/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -213,6 +721,20 @@ HAGÅTÑA (The Guam Daily Post) — Lawmakers heard testimony on Bill 199-37 on
 
 <span class="feed-item-link">
 <a href="https://www.mvariety.com/news/lawmakers-hold-hearing-on-bill-limiting-portions-for-sugary-drinks/article_2061d2d2-cbb8-11ee-8322-cbee0631f95c.html">https://www.mvariety.com/news/lawmakers-hold-hearing-on-bill-limiting-portions-for-sugary-drinks/article_2061d2d2-cbb8-11ee-8322-cbee0631f95c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/lawmakers-hold-hearing-on-bill-limiting-portions-for-sugary-drinks/article_2061d2d2-cbb8-11ee-8322-cbee0631f95c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Unveiling the Hidden Diversity of Batoids in Fiji’s Waters: A Multifaceted Study
+
+date: 2024-02-15, from: University of the South Pacific (Fiji)
+
+<p>In celebration of International Day for Women and Girls in Science, the USP PEUMP project...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/38069/">Unveiling the Hidden Diversity of Batoids in Fiji&#8217;s Waters: A Multifaceted Study</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/38069/">https://www.usp.ac.fj/news/38069/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/38069/">Save to Pocket</a>
 </span>
 
 ---
@@ -429,6 +951,18 @@ date: 2024-02-14, updated: 2024-02-15, from: Marianas Variety
 
 <span class="feed-item-link">
 <a href="https://www.mvariety.com/news/local/green-flag-on-saipan/article_8be96b3e-cb43-11ee-b5ed-2bdb61b3a8c4.html">https://www.mvariety.com/news/local/green-flag-on-saipan/article_8be96b3e-cb43-11ee-b5ed-2bdb61b3a8c4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/green-flag-on-saipan/article_8be96b3e-cb43-11ee-b5ed-2bdb61b3a8c4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Proposed charter school seeking  to offer high-tech education for Guam
+
+date: 2024-02-14, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Business and Technology Academy Charter School has moved a step closer to reality following a...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/proposed-charter-school-seeking-to-offer-high-tech-education-for-guam">https://www.pacificislandtimes.com/post/proposed-charter-school-seeking-to-offer-high-tech-education-for-guam</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/proposed-charter-school-seeking-to-offer-high-tech-education-for-guam">Save to Pocket</a>
 </span>
 
 ---
@@ -683,7 +1217,7 @@ By Mar-Vic Cagurangan Despite an annual expenditure of between $1.8 million and 
 
 date: 2024-02-13, from: Island Times
 
-<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68692" data-permalink="https://islandtimes.org/nearly-3000-palauans-receive-wage-tax-refunds/20240212_155659/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?fit=2560%2C1440&amp;ssl=1" data-orig-size="2560,1440" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1707753419&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.03030303030303&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240212_155659" data-image-description="" data-image-caption="&lt;p&gt;Folks in line to receive their first ever tax refunds.&lt;/p&gt;
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68692" data-permalink="https://islandtimes.org/nearly-3000-palauans-receive-wage-tax-refunds/20240212_155659/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?fit=2560%2C1440&amp;ssl=1" data-orig-size="2560,1440" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1707753419&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.03030303030303&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240212_155659" data-image-description="" data-image-caption="&lt;p&gt;Folks in line to receive their first ever tax refunds.&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240212_155659-scaled.jpg?fit=780%2C439&amp;ssl=1" /></figure>
 <p>KOROR, Palau – Palau&#8217;s Bureau of Revenue and Taxation (BRT) announced the successful processing of 2,997 individual wage tax refunds for qualifying residents, totaling $1.79 million. The disbursements, scheduled for February 12 and 13 at the Ngarachamyong Cultural Center, are part of a broader tax reform initiative launched in 2023. Eligibility for the Wage and [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/nearly-3000-palauans-receive-wage-tax-refunds/">Nearly 3,000 Palauans Receive Wage Tax Refunds</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>

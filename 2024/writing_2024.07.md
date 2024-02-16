@@ -1,11 +1,122 @@
 ---
 title: writing 2024.07
-updated: 2024-02-15 10:00:13
+updated: 2024-02-16 08:31:59
 ---
 
 # writing 2024.07
 
-(date: 2024-02-15 10:00:13)
+(date: 2024-02-16 08:31:59)
+
+---
+
+## Alex Brown Reviews A Feast for Flies by Leigh Harlen
+
+date: 2024-02-16, from: Locus Magazine
+
+<p><strong>A Feast for Flies</strong>, Leigh Harlen (Dancing Star Press 978-1-73214-186-5, $11.99. 163pp, pb) November 2023. Cover by Vitalii Ostaschenko.</p>
+<p>Leigh Harlen has only published a collection and one novella, but I loved the latter so much that they immediately became one of my auto-buy authors. <strong>Queens of Noise </strong>is a riot of a novella, a fierce, funny story about were-punks trying to stop a corporate takeover of their favorite  <a href="https://locusmag.com/2024/02/alex-brown-reviews-a-feast-for-flies-by-leigh-harlen/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/alex-brown-reviews-a-feast-for-flies-by-leigh-harlen/">https://locusmag.com/2024/02/alex-brown-reviews-a-feast-for-flies-by-leigh-harlen/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/alex-brown-reviews-a-feast-for-flies-by-leigh-harlen/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-16, from: Neil Gaiman @ BlueSky)
+
+And it was Jack's birthday the day before yesterday. If he was still alive he would have been 39.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klkbkeqpbh26">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klkbkeqpbh26</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klkbkeqpbh26">Save to Pocket</a>
+</span>
+
+---
+
+## The Year in Review 2023 by Liz Bourke
+
+date: 2024-02-16, from: Locus Magazine
+
+<p><strong>Looking Back on 2023 </strong><strong>by Liz Bourke</strong></p>
+<p>If there’s a theme that unites the books I enjoyed reading most this year, it’s power, vio­lence, and survival. The dam­age that violence inflicts on those who suffer it, and those who wield it, and the ambigui­ties and challenges inherent in the ethical uses of power.</p>
+<p>Of course, some of them were also just plain fun.</p>
+<p>Three books stand out most. One is  <a href="https://locusmag.com/2024/02/the-year-in-review-2023-by-liz-bourke/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/the-year-in-review-2023-by-liz-bourke/">https://locusmag.com/2024/02/the-year-in-review-2023-by-liz-bourke/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/the-year-in-review-2023-by-liz-bourke/">Save to Pocket</a>
+</span>
+
+---
+
+## Adapting to Online Trends: Writing Content for TikTok and Shorts
+
+date: 2024-02-16, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/adapting-to-online-trends-writing-content-for-tiktok-and-shorts" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Woman%20Holding%20a%20Book%20While%20Blogging.jpg" alt="Woman Holding a Book While Blogging, Adapting to Online Trends: Writing Content for TikTok and Shorts" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>It’s no secret that shorter videos are where it’s at these days. According to&nbsp;</span><a href="https://www.crn.com/news/cloud/google-cloud-begins-profitability-era-5-huge-q2-earnings-takeaways"><span>Google Q2 2023 results</span></a><span>, YouTube Shorts hit two billion monthly views, surpassing TikTok and Instagram Reels. Short and sweet content is here to stay. Video content now has a greater organic reach than imagery, and TikTok and YouTube users are now the homes of a passionate community of creators.&nbsp;</span></p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/adapting-to-online-trends-writing-content-for-tiktok-and-shorts">https://blog.finaldraft.com/adapting-to-online-trends-writing-content-for-tiktok-and-shorts</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/adapting-to-online-trends-writing-content-for-tiktok-and-shorts">Save to Pocket</a>
+</span>
+
+---
+
+## Fair Use Week Webinar: Fair Use in Text Data Mining and Artificial Intelligence
+
+date: 2024-02-16, from: Author's Union blog
+
+Computational research techniques such as text and data mining (TDM) hold tremendous opportunities for researchers across the disciplines ranging from mining scientific articles to create better systematic reviews, or curated chemical property datasets to building a corpus of films to understand how concepts of gender, race, and identity are shared over time. Unfortunately, legal uncertainty, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.authorsalliance.org/2024/02/16/fair-use-week-webinar-fair-use-in-text-data-mining-and-artificial-intelligence/">https://www.authorsalliance.org/2024/02/16/fair-use-week-webinar-fair-use-in-text-data-mining-and-artificial-intelligence/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.authorsalliance.org/2024/02/16/fair-use-week-webinar-fair-use-in-text-data-mining-and-artificial-intelligence/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-16, from: Neil Gaiman @ BlueSky)
+
+Happy birthday.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kljh5sr6tn27">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kljh5sr6tn27</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kljh5sr6tn27">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-15, from: Neil Gaiman @ BlueSky)
+
+The Guardian writes...
+
+https://www.theguardian.com/books/2024/feb/15/authors-excluded-from-hugo-awards-over-china-concerns
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klifztvzj322">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klifztvzj322</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klifztvzj322">Save to Pocket</a>
+</span>
+
+---
+
+## Glasgow Worldcon Chair Releases Hugo Awards Statement
+
+date: 2024-02-15, from: Locus Magazine
+
+<div id="page" class="hfeed site">
+<div id="content" class="site-content">
+<div class="ast-container">
+<div id="primary" class="content-area primary">
+<p>The 2024 Glasgow Worldcon chair Esther MacCallum-Stewart has released a statement regarding the committee&#8217;s commitment to ensuring transparency in the coming Hugo Award cycle, in the aftermath of the 2023 Hugo Awards debacle.</p>
+
+<div class="entry-content clear">
+<p>As Chair of Glasgow 2024, A Worldcon for Our Futures, I unreservedly apologise for the damage caused to nominees, finalists, the community, and the Hugo, Lodestar, and Astounding Awards.</p>
+<p>Kat Jones has resigned with immediate effect as </p></div></div></div></div></div> <a href="https://locusmag.com/2024/02/glasgow-chair-releases-hugo-awards-statement/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/glasgow-chair-releases-hugo-awards-statement/">https://locusmag.com/2024/02/glasgow-chair-releases-hugo-awards-statement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/glasgow-chair-releases-hugo-awards-statement/">Save to Pocket</a>
+</span>
 
 ---
 

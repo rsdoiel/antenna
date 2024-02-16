@@ -1,11 +1,131 @@
 ---
 title: games 2024.07
-updated: 2024-02-15 10:00:13
+updated: 2024-02-16 08:31:59
 ---
 
 # games 2024.07
 
-(date: 2024-02-15 10:00:13)
+(date: 2024-02-16 08:31:59)
+
+---
+
+## Polygon’s Oral History of Final Fantasy 7 just got a second edition
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/2024/2/16/24074420/500-years-later-oral-history-of-final-fantasy-7-book">https://www.polygon.com/deals/2024/2/16/24074420/500-years-later-oral-history-of-final-fantasy-7-book</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/2024/2/16/24074420/500-years-later-oral-history-of-final-fantasy-7-book">Save to Pocket</a>
+</span>
+
+---
+
+## CMON leaves Kickstarter, will bring its board games exclusively to Gamefound
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24074262/cmon-gamefound-exclusivity-agreement">https://www.polygon.com/24074262/cmon-gamefound-exclusivity-agreement</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24074262/cmon-gamefound-exclusivity-agreement">Save to Pocket</a>
+</span>
+
+---
+
+## EA Sports College Football 25 is back after 10 years with no NCAA games
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24074774/ea-sports-college-football-25-teaser-trailer">https://www.polygon.com/24074774/ea-sports-college-football-25-teaser-trailer</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24074774/ea-sports-college-football-25-teaser-trailer">Save to Pocket</a>
+</span>
+
+---
+
+## How to get coal in Palworld
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/palworld-guides/24049316/coal-location-how-to-get-where-find">https://www.polygon.com/palworld-guides/24049316/coal-location-how-to-get-where-find</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/palworld-guides/24049316/coal-location-how-to-get-where-find">Save to Pocket</a>
+</span>
+
+---
+
+## Baldur’s Gate 3’s anticipated kissing patch is finally out
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24072935/baldurs-gate-3-kissing-patch-6-update">https://www.polygon.com/24072935/baldurs-gate-3-kissing-patch-6-update</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24072935/baldurs-gate-3-kissing-patch-6-update">Save to Pocket</a>
+</span>
+
+---
+
+## The story behind Avatar’s bending designs still rules, nearly 20 years later
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24073790/avatar-last-airbender-atla-bending-fight-choreography-reference-photography-martial-artist-sifu-kisu">https://www.polygon.com/24073790/avatar-last-airbender-atla-bending-fight-choreography-reference-photography-martial-artist-sifu-kisu</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24073790/avatar-last-airbender-atla-bending-fight-choreography-reference-photography-martial-artist-sifu-kisu">Save to Pocket</a>
+</span>
+
+---
+
+## All Persona 3 Reload classroom answers and questions
+
+date: 2024-02-15, updated: 2024-02-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r">https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r">Save to Pocket</a>
+</span>
+
+---
+
+## 7 tips and tricks before starting Deep Rock Galactic: Survivor
+
+date: 2024-02-15, updated: 2024-02-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24073651/deep-rock-galactic-survivor-beginner-tips-tricks">https://www.polygon.com/guides/24073651/deep-rock-galactic-survivor-beginner-tips-tricks</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24073651/deep-rock-galactic-survivor-beginner-tips-tricks">Save to Pocket</a>
+</span>
+
+---
+
+## Deep Rock Galactic: Survivor’s auto-shooter gameplay has me yearning for the mines
+
+date: 2024-02-15, updated: 2024-02-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24074194/deep-rock-galactic-survivor-review-impressions">https://www.polygon.com/24074194/deep-rock-galactic-survivor-review-impressions</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24074194/deep-rock-galactic-survivor-review-impressions">Save to Pocket</a>
+</span>
+
+---
+
+## Xbox is staying in the hardware game
+
+date: 2024-02-15, updated: 2024-02-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24074338/xbox-next-generation-console-hardware-update">https://www.polygon.com/24074338/xbox-next-generation-console-hardware-update</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24074338/xbox-next-generation-console-hardware-update">Save to Pocket</a>
+</span>
 
 ---
 

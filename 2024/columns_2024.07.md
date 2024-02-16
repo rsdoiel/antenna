@@ -1,11 +1,59 @@
 ---
 title: columns 2024.07
-updated: 2024-02-15 10:00:13
+updated: 2024-02-16 08:31:59
 ---
 
 # columns 2024.07
 
-(date: 2024-02-15 10:00:13)
+(date: 2024-02-16 08:31:59)
+
+---
+
+## Where are the record corporate profits coming from? Your thinning wallets
+
+date: 2024-02-16, from: Robert Reich's blog
+
+A big part of why the public isn&#8217;t crediting Biden
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/corporate-soaring-profits-are-from">https://robertreich.substack.com/p/corporate-soaring-profits-are-from</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/corporate-soaring-profits-are-from">Save to Pocket</a>
+</span>
+
+---
+
+## ★ Phil Spencer Puts Apple’s Money Where His Mouth Is
+
+date: 2024-02-16, updated: 2024-02-16, from: Daring Fireball
+
+It’s ridiculous for the CEO of Xbox to argue that iOS should have similar rules and policies to Windows, when Xbox — another platform from the same company — has rules that are, if anything, *more* restrictive and exclusive than iOS.
+
+<span class="feed-item-link">
+<a href="https://daringfireball.net/2024/02/phil_spencer_puts_apples_money_where_his_mouth_is">https://daringfireball.net/2024/02/phil_spencer_puts_apples_money_where_his_mouth_is</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/2024/02/phil_spencer_puts_apples_money_where_his_mouth_is">Save to Pocket</a>
+</span>
+
+---
+
+## Friday 14 February, 2024
+
+date: 2024-02-16, from: John Naughton's online diary
+
+Rory Rory Cellan-Jones has been one of my favourite journalists ever since I was the Observer’s TV critic in the 1980s and 1990s. On Wednesday afternoon he was in Cambridge at his alma mater Jesus College, and when we were &#8230; <a href="https://memex.naughtons.org/friday-14-february-2024/39138/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/friday-14-february-2024/39138/">https://memex.naughtons.org/friday-14-february-2024/39138/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/friday-14-february-2024/39138/">Save to Pocket</a>
+</span>
+
+---
+
+## Travel (Tech) Notes, Delhi Edition
+
+date: 2024-02-15, from: Om Malik blog
+
+I have been away visiting my parents in Delhi, India. I went not only to check in on their health, but also to get a chance to celebrate their sixty years together, along with my siblings. It was a short, packed trip. I got to spend time not only with my parents and my siblings, &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/02/15/travel-tech-notes-delhi-edition/">https://om.co/2024/02/15/travel-tech-notes-delhi-edition/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/02/15/travel-tech-notes-delhi-edition/">Save to Pocket</a>
+</span>
 
 ---
 
