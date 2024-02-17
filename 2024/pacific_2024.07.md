@@ -1,11 +1,75 @@
 ---
 title: pacific 2024.07
-updated: 2024-02-16 08:31:58
+updated: 2024-02-17 00:15:15
 ---
 
 # pacific 2024.07
 
-(date: 2024-02-16 08:31:58)
+(date: 2024-02-17 00:15:15)
+
+---
+
+## Calling on changemakers: sustainability student group needs you
+
+date: 2024-02-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The Student Sustainability Council welcomes students to get involved in monthly opportunities for sustainability-related issues on campus.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/16/student-sustainability-council/">Calling on changemakers: sustainability student group needs you</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/16/student-sustainability-council/">https://www.hawaii.edu/news/2024/02/16/student-sustainability-council/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/16/student-sustainability-council/">Save to Pocket</a>
+</span>
+
+---
+
+## Rainbow Wāhine round up the Mustangs, 59-47
+
+date: 2024-02-16, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/rainbow-w-hine-round-up-the-mustangs-59-47/article_d5ff155e-cd21-11ee-a954-cb4b73c6781a.html">https://www.manoanow.org/kaleo/rainbow-w-hine-round-up-the-mustangs-59-47/article_d5ff155e-cd21-11ee-a954-cb4b73c6781a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/rainbow-w-hine-round-up-the-mustangs-59-47/article_d5ff155e-cd21-11ee-a954-cb4b73c6781a.html">Save to Pocket</a>
+</span>
+
+---
+
+## February President’s BOR report: UH value and affordability
+
+date: 2024-02-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> President Lassner also congratulated Shannon Asejo who was awarded the President’s Award for Excellence in Buildings and Grounds Maintenance.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/16/february-president-bor-report/">February President’s <abbr>BOR</abbr> report: <abbr>UH</abbr> value and affordability</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/16/february-president-bor-report/">https://www.hawaii.edu/news/2024/02/16/february-president-bor-report/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/16/february-president-bor-report/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Hilo electrician Shannon Asejo honored for excellence
+
+date: 2024-02-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The sole electrician for the campus has become the &#8220;go-to&#8221; person for support for student-focused projects.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/16/uh-hilo-asejo-honored-for-excellence/"><abbr>UH</abbr> Hilo electrician Shannon Asejo honored for excellence</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/16/uh-hilo-asejo-honored-for-excellence/">https://www.hawaii.edu/news/2024/02/16/uh-hilo-asejo-honored-for-excellence/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/16/uh-hilo-asejo-honored-for-excellence/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Mānoa students drive renovation plans for outdoor living spaces
+
+date: 2024-02-16, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Students provided input on the design of a makeover of outdoor spaces around student housing.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/16/uh-manoa-outdoor-living-spaces-plans/"><abbr>UH</abbr> Mānoa students drive renovation plans for outdoor living spaces</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/16/uh-manoa-outdoor-living-spaces-plans/">https://www.hawaii.edu/news/2024/02/16/uh-manoa-outdoor-living-spaces-plans/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/16/uh-manoa-outdoor-living-spaces-plans/">Save to Pocket</a>
+</span>
 
 ---
 

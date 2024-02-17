@@ -1,11 +1,119 @@
 ---
 title: motorcycles 2024.07
-updated: 2024-02-16 08:31:59
+updated: 2024-02-17 00:15:15
 ---
 
 # motorcycles 2024.07
 
-(date: 2024-02-16 08:31:59)
+(date: 2024-02-17 00:15:15)
+
+---
+
+## Royal Enfield Is Ready To Go Racing In 2024 With BTR
+
+date: 2024-02-16, from: Ride Apart, Electric Motorcycle News
+
+The Build Train Race program, now in its fifth year, has a full calendar of flat track and road racing in store for '24.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709042/royal-enfield-btr-2024-calendar/">https://www.rideapart.com/news/709042/royal-enfield-btr-2024-calendar/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709042/royal-enfield-btr-2024-calendar/">Save to Pocket</a>
+</span>
+
+---
+
+## Honda's Collection Hall Reopens With Limited-Time CB Exhibition
+
+date: 2024-02-16, from: Ride Apart, Electric Motorcycle News
+
+Pretty sure mere mortals can't ride a trials bike through the museum, but at least you can visit again.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709036/honda-collection-hall-renovation-reopens/">https://www.rideapart.com/news/709036/honda-collection-hall-renovation-reopens/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709036/honda-collection-hall-renovation-reopens/">Save to Pocket</a>
+</span>
+
+---
+
+## Official Starting Lineup for the 2024 Daytona ARCA 200
+
+date: 2024-02-16, from: Kickin the Tires blog
+
+* &#8211; denotes rookie driver
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/arca-series/official-starting-lineup-for-the-2024-daytona-arca-200/">https://kickinthetires.net/nascar/arca-series/official-starting-lineup-for-the-2024-daytona-arca-200/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/arca-series/official-starting-lineup-for-the-2024-daytona-arca-200/">Save to Pocket</a>
+</span>
+
+---
+
+## Fuel-Mixture Formation
+
+date: 2024-02-16, from: Cycle World News
+
+In order for combustion to occur in a motorcycle engine there must be a fuel mixture. But how to get that mix correct? Kevin Cameron explains.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/blogs/ask-kevin/fuel-mixture-formation-explained/">https://www.cycleworld.com/blogs/ask-kevin/fuel-mixture-formation-explained/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/blogs/ask-kevin/fuel-mixture-formation-explained/">Save to Pocket</a>
+</span>
+
+---
+
+## ARCA Menards Series Season Opener at Daytona International Speedway Moved Up To Friday Night
+
+date: 2024-02-16, from: Kickin the Tires blog
+
+DAYTONA BEACH, Fla. (Sept. 15, 2023)&#160;– Daytona International Speedway and ARCA today announced that the season-opening Hard Rock Bet 200 at Daytona International Speedway will shift to Friday evening at&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/arca-series/arca-menards-series-season-opener-at-daytona-international-speedway-moved-up-to-friday-night/">https://kickinthetires.net/nascar/arca-series/arca-menards-series-season-opener-at-daytona-international-speedway-moved-up-to-friday-night/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/arca-series/arca-menards-series-season-opener-at-daytona-international-speedway-moved-up-to-friday-night/">Save to Pocket</a>
+</span>
+
+---
+
+## Johnson, Grala Earn Final Transfer Spots for 2024 Daytona 500
+
+date: 2024-02-16, from: Kickin the Tires blog
+
+DAYTONA BEACH, Fla. – By tenths, Jimmie Johnson and Kaz Grala both fight for the final two qualifying positions in their respective Bluegreen Vacations Duels, and will race in Sunday’s&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/cup/johnson-grala-earn-final-transfer-spots-for-2024-daytona-500/">https://kickinthetires.net/nascar/cup/johnson-grala-earn-final-transfer-spots-for-2024-daytona-500/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/cup/johnson-grala-earn-final-transfer-spots-for-2024-daytona-500/">Save to Pocket</a>
+</span>
+
+---
+
+## Eckes Embracing Team Leader Role at McAnally-Hilgemann
+
+date: 2024-02-16, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor DAYTONA BEACH, Fla. – Superspeedways have been a place where Christian Eckes has learned how to ‘lose 1,000 races.’ The McAnally-Hilgemann Racing (MHR) driver since&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/eckes-embraces-team-leader-role-mcanally/">https://kickinthetires.net/nascar/eckes-embraces-team-leader-role-mcanally/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/eckes-embraces-team-leader-role-mcanally/">Save to Pocket</a>
+</span>
+
+---
+
+## Harley-Davidson Factory Race Team Launches For 2024 MotoAmerica Mission King of the Baggers Racing Series
+
+date: 2024-02-16, from: Cycle World News
+
+The Harley-Davidson Factory Race Team today launches its 2024 season with an exciting video featuring team riders Kyle Wyman and James Rispoli.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/harley-davidson-factory-race-team-launches-for-2024-motoamerica-mission-king-of-the-baggers-racing-series/">https://www.cycleworld.com/the-wire/harley-davidson-factory-race-team-launches-for-2024-motoamerica-mission-king-of-the-baggers-racing-series/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/harley-davidson-factory-race-team-launches-for-2024-motoamerica-mission-king-of-the-baggers-racing-series/">Save to Pocket</a>
+</span>
+
+---
+
+## Quad Lock's Handlebar Clamp Mount Is Your New Best M8
+
+date: 2024-02-16, from: Ride Apart, Electric Motorcycle News
+
+The latest units should give riders some much-needed versatility and bridge the gap between stem and handlebar mounts.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/708868/quad-lock-m8-handlebar-clamp-mount/">https://www.rideapart.com/news/708868/quad-lock-m8-handlebar-clamp-mount/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/708868/quad-lock-m8-handlebar-clamp-mount/">Save to Pocket</a>
+</span>
 
 ---
 

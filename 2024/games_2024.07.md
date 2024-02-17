@@ -1,11 +1,119 @@
 ---
 title: games 2024.07
-updated: 2024-02-16 08:31:59
+updated: 2024-02-17 00:15:15
 ---
 
 # games 2024.07
 
-(date: 2024-02-16 08:31:59)
+(date: 2024-02-17 00:15:15)
+
+---
+
+## Oppenheimer, Thanksgiving on Netflix, The Iron Claw, and every new movie to watch this weekend
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/2/16/24068008/new-movies-watch-oppenheimer-netflix-thanksgiving-iron-claw">https://www.polygon.com/2024/2/16/24068008/new-movies-watch-oppenheimer-netflix-thanksgiving-iron-claw</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/2/16/24068008/new-movies-watch-oppenheimer-netflix-thanksgiving-iron-claw">Save to Pocket</a>
+</span>
+
+---
+
+## Nintendo’s next-gen console reportedly delayed to 2025
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24075215/nintendo-switch-2-delay-2025-reports">https://www.polygon.com/24075215/nintendo-switch-2-delay-2025-reports</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24075215/nintendo-switch-2-delay-2025-reports">Save to Pocket</a>
+</span>
+
+---
+
+## Where to watch the entire Pokémon anime
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/pokemon/24054296/where-to-watch-pokemon-anime-streaming">https://www.polygon.com/pokemon/24054296/where-to-watch-pokemon-anime-streaming</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/pokemon/24054296/where-to-watch-pokemon-anime-streaming">Save to Pocket</a>
+</span>
+
+---
+
+## How to get sulfur in Palworld
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location">https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/palworld-guides/24047310/how-to-get-sulfur-location">Save to Pocket</a>
+</span>
+
+---
+
+## How to get pure quartz in Palworld
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/palworld-guides/24050884/pure-quartz-location-how-to-get-where-find">https://www.polygon.com/palworld-guides/24050884/pure-quartz-location-how-to-get-where-find</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/palworld-guides/24050884/pure-quartz-location-how-to-get-where-find">Save to Pocket</a>
+</span>
+
+---
+
+## The 25 best movies on Netflix right now
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/21266801/best-movies-on-netflix">https://www.polygon.com/21266801/best-movies-on-netflix</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/21266801/best-movies-on-netflix">Save to Pocket</a>
+</span>
+
+---
+
+## Sonic the Hedgehog dressed as Shadow broke my brain
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24074437/sonic-dressed-as-shadow-sonic-generations-superstars">https://www.polygon.com/24074437/sonic-dressed-as-shadow-sonic-generations-superstars</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24074437/sonic-dressed-as-shadow-sonic-generations-superstars">Save to Pocket</a>
+</span>
+
+---
+
+## Dune 2’s press tour is actually a Zendaya fashion simulator
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24074853/dune-2-press-tour-zendaya-fashion-simulator-metal-suit-global-premiere">https://www.polygon.com/24074853/dune-2-press-tour-zendaya-fashion-simulator-metal-suit-global-premiere</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24074853/dune-2-press-tour-zendaya-fashion-simulator-metal-suit-global-premiere">Save to Pocket</a>
+</span>
+
+---
+
+## Netflix is now streaming another incredible canceled show
+
+date: 2024-02-16, updated: 2024-02-16, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24072909/warrior-netflix-watch-show-series-canceled-streaming">https://www.polygon.com/24072909/warrior-netflix-watch-show-series-canceled-streaming</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24072909/warrior-netflix-watch-show-series-canceled-streaming">Save to Pocket</a>
+</span>
 
 ---
 

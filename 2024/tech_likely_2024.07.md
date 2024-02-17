@@ -1,11 +1,590 @@
 ---
 title: tech likely 2024.07
-updated: 2024-02-16 08:31:59
+updated: 2024-02-17 00:15:15
 ---
 
 # tech likely 2024.07
 
-(date: 2024-02-16 08:31:59)
+(date: 2024-02-17 00:15:15)
+
+---
+
+## Assassinations Work
+
+date: 2024-02-16, from: Doc Searls (at Harvard), New Old Blog
+
+On April 4, 1968, when I learned with the rest of the world that Martin Luther King Jr. had been assassinated, I immediately thought that the civil rights movement, which King had led, had just been set back by fifty years. I was wrong about that. It ended right then (check that last link). Almost [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://doc.searls.com/2024/02/16/assassinations-work/">https://doc.searls.com/2024/02/16/assassinations-work/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://doc.searls.com/2024/02/16/assassinations-work/">Save to Pocket</a>
+</span>
+
+---
+
+## This Week in the IndieWeb
+
+date: 2024-02-16, from: This week in Indie Web
+
+
+
+<h1><a href="https://indieweb.org/this-week/2024-02-16.html">February 9-16, 2024</a></h1>
+<h2 id="recent-events">Recent Events</h2><p>From <a href="https://events.indieweb.org/archive">events.indieweb.org/archive</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-pacific-8XN2AGgxMoXH" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-02-14T18:00:00+00:00">Wednesday, February 14 at 6:00pm</time><br>
+<div><img src="https://indieweb.org/this-week/images/2024-02-16/e582d9021ba800e035070cf96330f4c7e0b52c24.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-europe-london-pR7bmltWiZ4j" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-02-14T19:00:00+00:00">Wednesday, February 14 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary">
+        <p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, coder, or all the above.</p>
+    </div><div><img src="https://indieweb.org/this-week/images/2024-02-16/805c2c003fe50663ca856279ed587a519ab7e125.jpg" style="width:100%" class="u-photo"></div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-nuremberg-germany-9vu7ryM1YtYw" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-02-14T18:00:00+00:00">Wednesday, February 14 at 6:00pm</time><br>
+<ul><li>FÜRTH, Bayern: Fab Lab Region Nürnberg e.V.</li></ul><div style="font-style: italic" class="e-summary">
+        <p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p>
+    </div></div>
+<h2 id="upcoming-events">Upcoming Events</h2><p>From <a href="https://events.indieweb.org/">events.indieweb.org</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-europe-london-hFrKVoneAzZs" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-02-21T19:00:00+00:00">Wednesday, February 21 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary">
+        <p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, coder, or all the above.</p>
+    </div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-europe-london-aWOhRaPRevto" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-02-28T19:00:00+00:00">Wednesday, February 28 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary">
+        <p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, coder, or all the above.</p>
+    </div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-pacific-gT9WhdtBhsjs" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-02-28T18:00:00-08:00">Wednesday, February 28 at 6:00pm</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/03/indiewebcamp-brighton-2024-xRTP2hAZOvZd" class="u-url">IndieWebCamp Brighton 2024</a></div>
+<time class="dt-start" datetime="2024-03-09T00:00:00+00:00">March 9</time> - <time class="dt-end" datetime="2024-03-10T00:00:00+00:00">March 10</time><br>
+<ul><li>BRIGHTON AND HOVE, England: The Skiff</li></ul><div style="font-style: italic" class="e-summary">
+        <p>IndieWebCamp Brighton 2024 will be the seventh IndieWebCamp to held in Brighton, England.</p>
+    </div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/03/homebrew-website-club-nuremberg-germany-Xsw0bLzEmTc5" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-03-13T18:00:00+01:00">Wednesday, March 13 at 6:00pm</time><br>
+<ul><li>FÜRTH, Bayern: Fab Lab Region Nürnberg e.V.</li></ul><div style="font-style: italic" class="e-summary">
+        <p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p>
+    </div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/04/homebrew-website-club-nuremberg-germany-jWjJuRLEP8Q6" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-04-10T18:00:00+02:00">Wednesday, April 10 at 6:00pm</time><br>
+<ul><li>FÜRTH, Bayern: Fab Lab Region Nürnberg e.V.</li></ul><div style="font-style: italic" class="e-summary">
+        <p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p>
+    </div></div>
+<h2 id="news">What We’re Reading</h2><p>From <a href="https://news.indieweb.org/en">news.indieweb.org</a>:</p><div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://tantek.com/2024/047/t1/indieweb-major-update-design" class="u-url">a post</a></div><div>by <a href="https://tantek.com/" class="p-author h-card">tantek.com</a> on <a href="https://tantek.com/2024/047/t1/indieweb-major-update-design"><time class="dt-published" datetime="2024-02-16T22:41:48+00:00">February 16</time></a></div><div>New this week: the #IndieWeb community deployed a major modern update to the design, usability, and cross-device support of the <a class="auto-link" href="https://indieweb.org/">https://indieweb.org/</a> home page and wiki in general! In brief:
+
+* Updated MediaWiki install, updated themes, better mobile device support
+* New default theme: Vector (2022), the same as English Wikipedia
+* Lots of CSS fixes for content, sidebars, etc.
+* Home page content simplification and more pleasing design update
+
+Lots more details on the 2024 homepage and ...</div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://bacardi55.io/2024/02/10/minindie-a-minimal-indieweb-theme-for-hugo-and-other-blog-updates/" class="u-url p-name">MinIndie, a Minimal Indieweb theme for Hugo, and other blog updates</a></div><div>by <a href="https://bacardi55.io/" class="p-author h-card">bacardi55.io</a> on <a href="https://bacardi55.io/2024/02/10/minindie-a-minimal-indieweb-theme-for-hugo-and-other-blog-updates/"><time class="dt-published" datetime="2024-02-10T23:30:59+00:00">February 10</time></a></div></div>
+
+<h2 id="new-community-members">New Community Members</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=2">IndieWeb Wiki: New User Pages</a>:</p>
+<h3><a href="https://indieweb.org/User%3ATsxyz.neocities.org">User:Tsxyz.neocities.org</a></h3><p style="font-size:0.8em;">Created by Tsxyz.neocities.org on Saturday and edited 1 more time</p>
+<h3><a href="https://indieweb.org/User%3APlayground.mallegolhansen.com">User:Playground.mallegolhansen.com</a></h3><p style="font-size:0.8em;">Created by Playground.mallegolhansen.com on Monday</p>
+<h3><a href="https://indieweb.org/User%3AJak2k.schwanenberg.name">User:Jak2k.schwanenberg.name</a></h3><p style="font-size:0.8em;">Created by Jak2k.schwanenberg.name on Saturday</p>
+<h2 id="new-wiki-pages">Top New Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+<h3><a href="https://indieweb.org/stream.indieweb.org">stream.indieweb.org</a></h3><p>stream.indieweb.org is a web view of a stream of public posts hashtagged #indieweb across various services, that are also shown in the #stream chat channel.</p><p style="font-size:0.8em;">Created by Tantek.com on Thursday and edited 4 more times</p>
+<h2 id="new-event-notes">New Event Notes</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+
+<p><b>Homebrew Website Club Europe/London:</b> <a href="https://indieweb.org/events/2024-02-14-hwc-europe">2024-02-14</a></p>
+<p><b>Homebrew Website Club - Pacific:</b> <a href="https://indieweb.org/events/2024-02-14-hwc-pacific">2024-02-14</a></p>
+
+<h2 id="changed-wiki-pages">Top Edited Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?namespace=0&title=Special%3ARecentChanges">IndieWeb Wiki: Recent Changes</a>:</p>
+<ul>
+<li><b><a href="https://indieweb.org/2024/homepage">2024/homepage</a></b> <a href="https://indieweb.org/wiki/index.php?title=2024%2Fhomepage&amp;action=historysubmit&amp;diff=93312&amp;oldid=92920">11 edits</a> by paulrobertlloyd.com and tantek.com</li>
+<li><b><a href="https://indieweb.org/Gemini">Gemini</a></b> <a href="https://indieweb.org/wiki/index.php?title=Gemini&amp;action=historysubmit&amp;diff=93220&amp;oldid=0">7 edits</a> by loqi.me and tantek.com</li>
+<li><b><a href="https://indieweb.org/Main_Page-fr">Main Page-fr</a></b> <a href="https://indieweb.org/wiki/index.php?title=Main+Page-fr&amp;action=historysubmit&amp;diff=93298&amp;oldid=82887">6 edits</a> by paulrobertlloyd.com</li>
+<li><b><a href="https://indieweb.org/Main_Page-pt">Main Page-pt</a></b> <a href="https://indieweb.org/wiki/index.php?title=Main+Page-pt&amp;action=historysubmit&amp;diff=93290&amp;oldid=82931">5 edits</a> by paulrobertlloyd.com</li>
+<li><b><a href="https://indieweb.org/Main_Page-ru">Main Page-ru</a></b> <a href="https://indieweb.org/wiki/index.php?title=Main+Page-ru&amp;action=historysubmit&amp;diff=93287&amp;oldid=82932">5 edits</a> by paulrobertlloyd.com</li>
+<li><b><a href="https://indieweb.org/Main_Page">Main Page</a></b> <a href="https://indieweb.org/wiki/index.php?title=Main+Page&amp;action=historysubmit&amp;diff=93246&amp;oldid=92914">5 edits</a> by paulrobertlloyd.com and tantek.com</li>
+<li><b><a href="https://indieweb.org/2023/SD/Photos">2023/SD/Photos</a></b> <a href="https://indieweb.org/wiki/index.php?title=2023%2FSD%2FPhotos&amp;action=historysubmit&amp;diff=93048&amp;oldid=92969">5 edits</a> by tantek.com and artlung.com</li>
+<li><b><a href="https://indieweb.org/Gemini_protocol">Gemini protocol</a></b> <a href="https://indieweb.org/wiki/index.php?title=Gemini+protocol&amp;action=historysubmit&amp;diff=93217&amp;oldid=93207">4 edits</a> by tantek.com</li>
+<li><b><a href="https://indieweb.org/indieweb-carnival">indieweb-carnival</a></b> <a href="https://indieweb.org/wiki/index.php?title=indieweb-carnival&amp;action=historysubmit&amp;diff=93098&amp;oldid=92871">4 edits</a> by sarajaksa.eu and foreverliketh.is</li>
+<li><b><a href="https://indieweb.org/Main_Page-nb">Main Page-nb</a></b> <a href="https://indieweb.org/wiki/index.php?title=Main+Page-nb&amp;action=historysubmit&amp;diff=93299&amp;oldid=82921">3 edits</a> by paulrobertlloyd.com</li></ul>
+
+
+
+<span class="feed-item-link">
+<a href="https://indieweb.org/this-week/2024-02-16.html">https://indieweb.org/this-week/2024-02-16.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://indieweb.org/this-week/2024-02-16.html">Save to Pocket</a>
+</span>
+
+---
+
+## 2024-02-09 Oddµ namespaces and live updating
+
+date: 2024-02-16, from: Alex Schroeder's Blog
+
+<h1>2024-02-09 Oddµ namespaces and live updating</h1>
+
+<blockquote>
+<p>It&rsquo;s a slow morning. I had my two cups of coffee, ate my pancakes with plum jam, spent time online reading Mastodon, talked to my wife about wannabe-axe murderers on Swiss trains, looked up stuff about <a href="https://www.tax-the-rich.eu/">taxing the rich</a>…</p>
+</blockquote>
+
+<p>I&rsquo;ve been working on Oddmu again. My goal is to be able to reproduce the <a href="https://campaignwiki.org/">Campaign Wiki</a> setup:</p>
+
+<ul>
+<li>people can get a &ldquo;space&rdquo; for their site by signing up in some way</li>
+<li>they can make changes to the look and feel of their site (change the headers, footers, colours, i.e. make changes to both the HTML template and the CSS)</li>
+<li>feeds, list of changes and all that are limited to their site</li>
+</ul>
+
+<p>Using Oddmu would also result in the following:</p>
+
+<ul>
+<li>sites are no longer publically editable (which isn&rsquo;t a requirement for such spaces like role-playing game campaigns)</li>
+</ul>
+
+<p>Oddmu now has the following features:</p>
+
+<ul>
+<li>when editing pages in a subdirectory, the <code>index</code> and <code>changes</code> page in the same directory are updated (instead of the root directory)</li>
+<li>when HTML templates exist in the same directory, those are used instead of the templates in the root directory (e.g. <a href="oddmu/index">Oddµ</a>)</li>
+<li>when uploading a HTML template, it is loaded immediately (no more server restart)</li>
+</ul>
+
+<p>Once I had this implemented using a library that watches the filesystem for changes, I realized that I could use the same feature to index new pages. This brings me closer to having online and offline writing feature equivalence: Using the web site to create a page should be equivalent to writing a page elsewhere and uploading it to the site via rsync.
+(Offline you can use the <code>oddmu notify</code> command to add links to <code>index</code>, <code>changes</code> and hashtag pages.)</p>
+
+<p>I think I&rsquo;m getting close!</p>
+
+<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p>
+
+<p>Also, code complexity is through the roof, now. All the global maps aren&rsquo;t thread-safe so they need mutexes. There&rsquo;s a weird Heisenbug I have where I run the test suite and then <code>view.html</code> is gone. The next test run then fails, of course. Thinking it was related to the order of tests, I started running <code>go test -shuffle on</code> and found a plethora of <em>other</em> bugs. And I&rsquo;ve seen at least two occasions where I noticed the disappearing <code>view.html</code> bug, noted the shuffle id, reran the test with that id, got the error again, tried for a third time, and then tests passed. So… it must be a race condition of some sort.</p>
+
+<p>How aggravating.</p>
+
+<p>Maybe something got lost, with that last set of changes.</p>
+
+<p>I do feel, however, that I&rsquo;ve found a lot of bugs… Just now, for example, to help prevent Oddmu from showing any directories or files with a path segment starting with a period…</p>
+
+<p><strong>2024-02-14</strong>. I need to think about an archive handler that allows you to get a zip file for the current directory. (I guess zip files are more accessible than .tar.gz files? Like, for Windows and macOS…)</p>
+
+<p>And the archive needs to take <a href="2024-02-14-oddmu-bug">ODDMU_FILTER</a> into account!</p>
+
+<p>Done. ✔️</p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-02-09-oddmu-namespaces">https://alexschroeder.ch/view/2024-02-09-oddmu-namespaces</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-02-09-oddmu-namespaces">Save to Pocket</a>
+</span>
+
+---
+
+##  Cool & trippy slitscan video animation by Francois Vogel.... 
+
+date: 2024-02-16, updated: 2024-02-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043990-cool-trippy-slitscan-vide">https://kottke.org/24/02/0043990-cool-trippy-slitscan-vide</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043990-cool-trippy-slitscan-vide">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-16, from: Miguel de Icaza Mastondon feed)
+
+<p>One possible incarnation of the Project Settings, now working live against Godot.</p><p>Various paper cuts are still visible:</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111943390728284654">https://mastodon.social/@Migueldeicaza/111943390728284654</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111943390728284654">Save to Pocket</a>
+</span>
+
+---
+
+## 30 Years Ago: Clementine Changes Our View of the Moon
+
+date: 2024-02-16, from: NASA breaking news
+
+In 1994, a joint NASA and Department of Defense (DOD) mission called Clementine dramatically changed our view of the Moon. As the first U.S. mission to the Moon in more than two decades, Clementine’s primary objectives involved technology demonstrations to test lightweight component and sensor performance. The lightweight sensors aboard the spacecraft returned 1.6 million [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/history/30-years-ago-clementine-changes-our-view-of-the-moon/">https://www.nasa.gov/history/30-years-ago-clementine-changes-our-view-of-the-moon/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/history/30-years-ago-clementine-changes-our-view-of-the-moon/">Save to Pocket</a>
+</span>
+
+---
+
+##  NYC plans 6 new waterfront shipping hubs to replace truck freight with... 
+
+date: 2024-02-16, updated: 2024-02-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043994-nyc-plans-6-new-waterfron">https://kottke.org/24/02/0043994-nyc-plans-6-new-waterfron</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043994-nyc-plans-6-new-waterfron">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Administrator to Discuss Science with Crew Aboard Space Station
+
+date: 2024-02-16, from: NASA breaking news
+
+NASA Administrator Bill Nelson will discuss recent science research and technology demonstrations aboard the International Space Station at 10:35 a.m. EST Wednesday, Feb. 21, with astronauts living and working aboard the microgravity laboratory. During the Earth-to-space call, leadership and the crew will discuss a tech experiment demonstrating the performance of a small robot remotely controlled [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-administrator-to-discuss-science-with-crew-aboard-space-station/">https://www.nasa.gov/news-release/nasa-administrator-to-discuss-science-with-crew-aboard-space-station/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-administrator-to-discuss-science-with-crew-aboard-space-station/">Save to Pocket</a>
+</span>
+
+---
+
+## Cluetrain at 25
+
+date: 2024-02-16, from: Doc Searls (at Harvard), New Old Blog
+
+The Cluetrain Manifesto will turn 25 in two months. I am one of its four authors, and speak here only for myself. The others are David Weinberger, Rick Levine, and Chris Locke. David and Rick may have something to say. Chris, alas, demonstrates the first words in Chapter One of The Cluetrain Manifesto in its [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://doc.searls.com/2024/02/16/cluetrain-at-25/">https://doc.searls.com/2024/02/16/cluetrain-at-25/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://doc.searls.com/2024/02/16/cluetrain-at-25/">Save to Pocket</a>
+</span>
+
+---
+
+## RISC-V Assembly Language Programming
+
+date: 2024-02-16, from: Stephen Smith's blog
+
+Introduction “RISC-V Assembly Language Programming: Unlock the Power of the RISC-V Instruction Set” is my fourth Assembly Language programming book published by Apress, a division of Springer Nature. This book is part of their Maker Innovations Series. My first three books were on the three types of ARM instruction sets, namely 32-bit, 64-bit and thumb [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://smist08.wordpress.com/2024/02/16/risc-v-assembly-language-programming/">https://smist08.wordpress.com/2024/02/16/risc-v-assembly-language-programming/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://smist08.wordpress.com/2024/02/16/risc-v-assembly-language-programming/">Save to Pocket</a>
+</span>
+
+---
+
+##  I am normally a Pepsi drinker (I know, don&#8217;t start), but IMO... 
+
+date: 2024-02-16, updated: 2024-02-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043984-i-am-normally-a-pepsi">https://kottke.org/24/02/0043984-i-am-normally-a-pepsi</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043984-i-am-normally-a-pepsi">Save to Pocket</a>
+</span>
+
+---
+
+##  The Pixel Painter 
+
+date: 2024-02-16, updated: 2024-02-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/the-pixel-painter">https://kottke.org/24/02/the-pixel-painter</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/the-pixel-painter">Save to Pocket</a>
+</span>
+
+---
+
+##  Matt Webb wrote an iOS app that&#8217;s a compass that always points... 
+
+date: 2024-02-16, updated: 2024-02-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043995-matt-webb-wrote-an-ios">https://kottke.org/24/02/0043995-matt-webb-wrote-an-ios</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043995-matt-webb-wrote-an-ios">Save to Pocket</a>
+</span>
+
+---
+
+##  Some common programming terms were derived from physical attributes of early computers,... 
+
+date: 2024-02-16, updated: 2024-02-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043982-some-common-programming-t">https://kottke.org/24/02/0043982-some-common-programming-t</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043982-some-common-programming-t">Save to Pocket</a>
+</span>
+
+---
+
+## Signing Our Names
+
+date: 2024-02-16, from: NASA breaking news
+
+NASA’s iconic “worm” logo and ESA’s (European Space Agency) insignia are painted on the Orion spacecraft’s crew module adapter in this image from Feb. 1, 2024. The adapter houses electronic equipment for communications, power, and control, and includes an umbilical connector that bridges the electrical, data, and fluid systems between the main modules. In October [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/signing-our-names/">https://www.nasa.gov/image-article/signing-our-names/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/signing-our-names/">Save to Pocket</a>
+</span>
+
+---
+
+## The SwiftUI Field Guide
+
+date: 2024-02-16, from: Michael Tsai
+
+Chris Eidhof: We built this website to visually explain how the SwiftUI layout system works, and we hope you find it useful. To make the examples work, we ported large parts of SwiftUI&#8217;s layout system to TypeScript. While we&#8217;ve tested our implementation extensively, there might still be discrepancies between SwiftUI&#8217;s behavior and what you see [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/16/the-swiftui-field-guide/">https://mjtsai.com/blog/2024/02/16/the-swiftui-field-guide/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/16/the-swiftui-field-guide/">Save to Pocket</a>
+</span>
+
+---
+
+## Meta to Pass Along Fee for Boosted Posts
+
+date: 2024-02-16, from: Michael Tsai
+
+Meta: To support the millions of small businesses that use boosted posts on Facebook and Instagram, advertisers can now go to Instagram.com and Facebook.com on mobile and desktop to boost their content and avoid a 30% Apple service charge.The Apple service charge is a result of updates Apple made to the App Store Review Guidelines. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/16/meta-to-pass-along-fee-for-boosted-posts/">https://mjtsai.com/blog/2024/02/16/meta-to-pass-along-fee-for-boosted-posts/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/16/meta-to-pass-along-fee-for-boosted-posts/">Save to Pocket</a>
+</span>
+
+---
+
+## iOS 17: Assistive Access
+
+date: 2024-02-16, from: Michael Tsai
+
+Mike Rockwell: Assistive Access gives you a simplified, focused interface with access to only the apps and features you choose to enable. It was designed for people with cognitive disabilities, but there are plenty of other uses. [&#8230;] Some applications are built with Assistive Access in mind. Those applications offer an entirely different user interface [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/16/ios-17-assistive-access/">https://mjtsai.com/blog/2024/02/16/ios-17-assistive-access/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/16/ios-17-assistive-access/">Save to Pocket</a>
+</span>
+
+---
+
+## U.S. Internet Leaked Years of E-mails
+
+date: 2024-02-16, from: Michael Tsai
+
+Brian Krebs: The Minnesota-based Internet provider U.S. Internet Corp. has a business unit called Securence, which specializes in providing filtered, secure email services to businesses, educational institutions and government agencies worldwide. But until it was notified last week, U.S. Internet was publishing more than a decade&#8217;s worth of its internal email &#8212; and that of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/16/u-s-internet-leaked-years-of-e-mails/">https://mjtsai.com/blog/2024/02/16/u-s-internet-leaked-years-of-e-mails/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/16/u-s-internet-leaked-years-of-e-mails/">Save to Pocket</a>
+</span>
+
+---
+
+## On the Insecurity of Software Bloat
+
+date: 2024-02-16, from: Michael Tsai
+
+Bert Hubert (via Hacker News): The really short version: the way we build/ship software these days is mostly ridiculous, leading to 350MB packages that draw graphs, and simple products importing 1600 dependencies of unknown provenance. Software security is dire, which is a function both of the quality of the code and the sheer amount of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/16/on-the-insecurity-of-software-bloat/">https://mjtsai.com/blog/2024/02/16/on-the-insecurity-of-software-bloat/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/16/on-the-insecurity-of-software-bloat/">Save to Pocket</a>
+</span>
+
+---
+
+## Rocket Propellant Tanks for NASA’s Artemis III Mission Take Shape
+
+date: 2024-02-16, from: NASA breaking news
+
+As NASA works to develop all the systems needed to return astronauts to the Moon under its Artemis campaign for the benefit of all, the SLS (Space Launch System) rocket will be responsible for launching astronauts on their journey. With the liquid oxygen tank now fully welded, all of the major structures that will form [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/rocket-propellant-tanks-for-nasas-artemis-iii-mission-take-shape/">https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/rocket-propellant-tanks-for-nasas-artemis-iii-mission-take-shape/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/directorates/esdmd/common-exploration-systems-development-division/space-launch-system/rocket-propellant-tanks-for-nasas-artemis-iii-mission-take-shape/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Stennis Celebrates Milestone for Historic Autonomous Systems Mission
+
+date: 2024-02-16, from: NASA breaking news
+
+NASA’s Stennis Space Center and Sidus Space, Inc., marked another milestone February 15 for the Center’s first-ever in-flight autonomous systems software mission as a payload rider on the Sidus Space LizzieSatTM small satellite. “Each step brings us a step closer to deployment of ASTRA (Autonomous Satellite Technology for Resilient Applications) in space,” said Chris Carmichael, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-stennis-celebrates-milestone-for-historic-autonomous-systems-mission/">https://www.nasa.gov/news-release/nasa-stennis-celebrates-milestone-for-historic-autonomous-systems-mission/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-stennis-celebrates-milestone-for-historic-autonomous-systems-mission/">Save to Pocket</a>
+</span>
+
+---
+
+## Week Links №1: Mid-Feb 2024
+
+date: 2024-02-16, from: Dave Rupert blog
+
+<p>I’ve read the entire internet so you don’t have to and here’s some links I found. Is this the start of a newsletter? 🤷‍♂️ I tried this two years ago. Anyways. Here’s some links.</p>
+<h2>Web platform news</h2>
+<ul>
+<li><a href="https://github.com/w3c/csswg-drafts/issues/9350">CSS Working Group resolved to add Mixins</a> - Styles, now even more reusable</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/CustomStateSet">CustomStateSet</a> <a href="https://github.com/whatwg/html/pull/8467">merged in HTML</a> - Add your own pseudo-classes to custom elements like  <code>my-switch:state(flipped)</code></li>
+<li><a href="https://blogs.windows.com/msedgedev/2024/02/13/custom-web-editing-experiences-with-editcontext/">EditContext</a> - Microsoft is working on making <code>contenteditable</code> useful</li>
+<li><a href="https://codepen.io/bramus/full/VwRqGVo">Syntax Highlighting with the Custom Highlights API</a> - Bramus shows how to highlight code using without all the extra spans</li>
+<li><a href="https://9to5mac.com/2024/02/15/ios-17-4-web-apps-european-union/">Apple removes Home Screen web apps in the EU</a> - Apple nerfing PWAs as a part of their malicious compliance to the EU’s new Digital Markets Act</li>
+</ul>
+<h2>Prototyping</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=iBEOVZi3spI">De-stress Your Creative Process (With This Classical Practice)</a> [Video] (23mins)</li>
+<li><a href="https://www.todepond.com/wikiblogarden/research/bite/">The Bite</a> - If you know, you know.</li>
+</ul>
+<h2>Impressive demos</h2>
+<ul>
+<li><a href="https://nerdy.dev/hacky-css-noise-with-repeating-gradients">Make some hacky noise with CSS Gradients</a> - Adam Argyle pulls off a cool CSS trick.</li>
+<li><a href="https://codepen.io/fimion/pen/oNVQBRJ?editors=1100">Markdown CSS Framework</a> [CW: Cursed] - Alex Riviere implements markdown in a CSS utility classes.</li>
+<li><a href="https://github.com/bkardell/half-light">half-light.js</a> - Brian Kardell is experimenting with allowing styles to pierce the Shadow DOM. <a href="https://eisenbergeffect.medium.com/using-global-styles-in-shadow-dom-5b80e802e89d">Rob Eisenberg also suggests using a little JS</a> to setup <code>adoptedStylesheets</code>.</li>
+<li><a href="https://snook.ca/archives/javascript/lenticular-photos">Lenticular Photos</a> - Jonathan Snook made photos come alive in your hand. (<a href="https://snook.ca/rotate/">Demo</a>)</li>
+<li><a href="https://elk.zone/mastodon.thi.ng/@toxi/111879860799812039">Web Components + WebGL Shaders</a> by Karsten Schmidt</li>
+<li><a href="https://pong-wars.vercel.app/">Pong Wars</a> - A hypnotizing visualization by Koen van Gilst (<a href="https://twitter.com/nicolasdnl/status/1749715070928433161">inspired by Nicolas Daniel</a>)</li>
+</ul>
+<h2>Good reads</h2>
+<ul>
+<li><a href="https://www.theverge.com/c/23194235/ai-fiction-writing-amazon-kindle-sudowrite-jasper">The Great Fiction of AI</a> - This is the best The Verge article I’ve read in awhile. I won’t stop talking about it.</li>
+<li><a href="https://joshcollinsworth.com/blog/copilot">I worry our Copilot is leaving some passengers behind</a> by Triple Threat Josh Collinsworth</li>
+<li><a href="https://www.nicchan.me/blog/have-we-forgotten-how-to-build-ethical-things-for-the-web/">Have we forgotten how to build ethical things for the web?</a> by Nic Chan</li>
+<li><a href="http://www.terrybisson.com/theyre-made-out-of-meat-2/">They’re Made Out of Meat</a> by Terry Bissom (1991)</li>
+<li><a href="https://jakelazaroff.com/words/the-website-vs-web-app-dichotomy-doesnt-exist/">The Websites vs Web App Dichotomy Doesn’t Exist</a> by Jake Lazaroff</li>
+<li><a href="https://stackoverflow.blog/2023/12/25/is-software-getting-worse/">Is software getting worse?</a> (Stackoverflow)</li>
+</ul>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/02/week-links-1/">https://daverupert.com/2024/02/week-links-1/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/02/week-links-1/">Save to Pocket</a>
+</span>
+
+---
+
+##  John Graham-Cumming tries to restore the original version of the proposal for... 
+
+date: 2024-02-16, updated: 2024-02-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043988-john-graham-cumming-tries">https://kottke.org/24/02/0043988-john-graham-cumming-tries</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043988-john-graham-cumming-tries">Save to Pocket</a>
+</span>
+
+---
+
+## What is a blogroll?
+
+date: 2024-02-16, from: Dave Winer's Scripting News
+
+<p>I asked ChatGPT to <a href="https://chat.openai.com/share/972ad854-8975-4397-9bff-9b03af9e7577">explain</a>.</p>
+<ul>
+<li>A blogroll is a list of links to other blogs or websites that a blogger enjoys or finds relevant. It's often found in the sidebar of a blog. The purpose of a blogroll is to share recommendations with readers and to connect with the broader blogging community. By including a blogroll, a blogger can provide their audience with access to additional resources, opinions, or communities that share similar interests. It can also serve as a tool for networking and building relationships with other bloggers, through mutual linking or acknowledgment. Blogrolls were more prominent in the early days of blogging but can still be found on many sites today.</li>
+</ul>
+<p>I couldn't improve on that, so I published it as-is.</p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/16/174119.html?title=whatIsABlogroll">http://scripting.com/2024/02/16/174119.html?title=whatIsABlogroll</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/16/174119.html?title=whatIsABlogroll">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;Alexei Navalny, galvanizing opposition leader and Putin’s fiercest foe, died in prison,... 
+
+date: 2024-02-16, updated: 2024-02-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0043991-alexei-navalny-galvanizin">https://kottke.org/24/02/0043991-alexei-navalny-galvanizin</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0043991-alexei-navalny-galvanizin">Save to Pocket</a>
+</span>
+
+---
+
+## Nginx web server forked as Freenginx to escape corporate overlords
+
+date: 2024-02-16, updated: 2024-02-16, from: Liam Proven's articles at the Register
+
+<h4>Project hails from its original motherland of Russia</h4>
+      <p>Russian developer Maxim Dounin has announced a new fork of the Nginx web server and caching proxy, aimed at avoiding the corporate control of owner F5.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/16/freenginx_fork/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/16/freenginx_fork/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/16/freenginx_fork/">Save to Pocket</a>
+</span>
+
+---
+
+## உங்களுக்கு ஒரு எதிரி இருந்தால், அவருக்கு ஒரு கார் வாங்கிக் கொடுக்கவும்: இந்தியாவில் பன்னாட்டு நிறுவனங்களை எதிர்கொள்ளும் கிக் தொழிலாளர்கள்
+
+date: 2024-02-16, from: Care
+
+
+                <p>A Tamil translation of Agnee Ghosh’s piece.</p>
+
+            
+
+<span class="feed-item-link">
+<a href="https://logicmag.io/supa-dupa-skies/agnee-ghosh-translation">https://logicmag.io/supa-dupa-skies/agnee-ghosh-translation</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/supa-dupa-skies/agnee-ghosh-translation">Save to Pocket</a>
+</span>
+
+---
+
+## May the Myth of Castelessness Die
+
+date: 2024-02-16, from: Care
+
+
+                <p>An interview with anti-caste scholar Murali Shanmugavelan.</p>
+
+            
+
+<span class="feed-item-link">
+<a href="https://logicmag.io/supa-dupa-skies/may-the-myth-of-castelessness-die">https://logicmag.io/supa-dupa-skies/may-the-myth-of-castelessness-die</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/supa-dupa-skies/may-the-myth-of-castelessness-die">Save to Pocket</a>
+</span>
+
+---
+
+## If You Have an Enemy, Then Buy Them a Car: Gig Workers vs. Multinational Corporations in India
+
+date: 2024-02-16, from: Care
+
+
+                <p>Caste-oppressed gig workers contend with uncertain working conditions and algorithmic wage discrimination from the platforms they rely on to match with clients.</p>
+
+            
+
+<span class="feed-item-link">
+<a href="https://logicmag.io/supa-dupa-skies/if-you-have-an-enemy-then-buy-them-a-car-gig-workers-vs-multinational">https://logicmag.io/supa-dupa-skies/if-you-have-an-enemy-then-buy-them-a-car-gig-workers-vs-multinational</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/supa-dupa-skies/if-you-have-an-enemy-then-buy-them-a-car-gig-workers-vs-multinational">Save to Pocket</a>
+</span>
+
+---
+
+## சாதிகள் இல்லை என்னும்  பொய்மை ஒழியட்டும்
+
+date: 2024-02-16, from: Care
+
+
+                <p>A Tamil translation of Murali Shanmugavelan’s interview.</p>
+
+            
+
+<span class="feed-item-link">
+<a href="https://logicmag.io/supa-dupa-skies/murali-translation">https://logicmag.io/supa-dupa-skies/murali-translation</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/supa-dupa-skies/murali-translation">Save to Pocket</a>
+</span>
+
+---
+
+##  The Age of Realistic AI-Generated Video Is Here 
+
+date: 2024-02-16, updated: 2024-02-16, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/the-age-of-realistic-ai-generated-video-is-here">https://kottke.org/24/02/the-age-of-realistic-ai-generated-video-is-here</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/the-age-of-realistic-ai-generated-video-is-here">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +592,7 @@ updated: 2024-02-16 08:31:59
 
 date: 2024-02-16, from: NASA breaking news
 
-En una ceremonia celebrada el jueves 15 de febrero en la sede de la NASA en Washington, Uruguay se convirtió en el trigésimo sexto país en firmar los Acuerdos de Artemis. El administrador de la NASA, Bill Nelson, participó en la ceremonia de firma por parte de la agencia, y el ministro de Relaciones Exteriores, [&#8230;]
+Read this release in English here. En una ceremonia celebrada el jueves 15 de febrero en la sede de la NASA en Washington, Uruguay se convirtió en el trigésimo sexto país en firmar los Acuerdos de Artemis. El administrador de la NASA, Bill Nelson, participó en la ceremonia de firma por parte de la agencia, y [&#8230;]
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/news-release/la-nasa-recibe-al-ministro-de-relaciones-exteriores-de-uruguay-para-la-firma-de-los-acuerdos-de-artemis/">https://www.nasa.gov/news-release/la-nasa-recibe-al-ministro-de-relaciones-exteriores-de-uruguay-para-la-firma-de-los-acuerdos-de-artemis/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/la-nasa-recibe-al-ministro-de-relaciones-exteriores-de-uruguay-para-la-firma-de-los-acuerdos-de-artemis/">Save to Pocket</a>
@@ -159,7 +738,8 @@ date: 2024-02-16, from: Dave Rupert blog
 <p>Vince’s list is perfect to me and keeps being relevant after all these years, I would add two items.</p>
 <ul>
 <li>Custom states - Any bespoke or custom states relevant to your application</li>
-<li>Realtime multi-player event mesages- Picture the state and event message in a chat app or realtime stock ticker. Stored at the component level or thrown into global state.</li>
+<li>Realtime multi-player event mesages - Picture the constant updating state in a chat app or realtime stock ticker. Stored at the component level or thrown into global state.</li>
+<li>Scroll-position - Pages and components often need to know if they’re scrolled in or out of viewport.</li>
 </ul>
 <p>In my experience both the page and each component will contain some mixture of these states as well as being reactive to global state changes.</p>
 <h3>Element state</h3>
@@ -169,6 +749,11 @@ date: 2024-02-16, from: Dave Rupert blog
 <ul>
 <li><code>default, pointer, wait, text, move, grab, crosshair, zoom-in, zoom-out</code>, … etc</li>
 <li>Custom cursors</li>
+</ul>
+</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/IntersectionObserverEntry/isIntersecting">IntersectionObserverEntry</a>
+<ul>
+<li>isIntersecting = true, false</li>
 </ul>
 </li>
 <li>Stacking context
@@ -189,6 +774,7 @@ date: 2024-02-16, from: Dave Rupert blog
 <li>Language = <code>dir, lang</code></li>
 <li>Functionaltiy = <code>contenteditable, draggable, invoketarget</code></li>
 <li>Display = <code>inert, open, popover</code></li>
+<li>Loading = <code>lazy, eager</code></li>
 </ul>
 </li>
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes">Pseudo-class</a> states - states reflected in CSS
@@ -360,6 +946,12 @@ date: 2024-02-16, from: Dave Rupert blog
 <h2>There’s more to UI than just state…</h2>
 <p>I’m sure I’ve forgotten whole categories of state. I haven’t even gotten into the hundreds of CSS properties and the thousands of values and their potential conflicts. I didn’t talk about the intricacies of styling form controls or building dropdowns with the required ARIA property combinations. I didn’t touch on <a href="https://cloudfour.com/thinks/responsive-images-101-definitions/">the decision matrix required to put an image on the page</a>. Nor does this get into <a href="https://github.com/joshbuchea/HEAD">setting all the proper tags in the <code>head</code></a> <a href="https://rviscomi.github.io/capo.js/">in the right order</a>. Nor does this discuss <a href="https://microformats.org/">microformats</a> for SEO or all the code you need to properly setup a UI to send analtyics data.</p>
 <p>In closing, hire people who are good at UI.</p>
+<hr />
+<p><em>Edit 2/16/24</em></p>
+<ul>
+<li>Added Scrolling and Intersection Observer per <a href="https://mastodon.social/@TALlama/111943607680931511">a recommendation from Seth A. Robby</a>.</li>
+<li>Added <code>loading=&quot;lazy|eager</code> to HTML attributes.</li>
+</ul>
 
 <span class="feed-item-link">
 <a href="https://daverupert.com/2024/02/ui-states/">https://daverupert.com/2024/02/ui-states/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/02/ui-states/">Save to Pocket</a>
@@ -452,27 +1044,27 @@ date: 2024-02-16, from: Manu - I write blog
 <div class="q"><p><strong>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</strong></p></div>
 <div class="a"><p>Some friends with blogs:</p>
 <ul>
-<li><a href="https://lisachandler.is/rss.xml">Lisa Chandler</a></li>
-<li><a href="https://actsofvolition.com/feed/">Steven Garrity</a></li>
-<li><a href="https://www.jeremycherfas.net/blog.rss">Jeremy Cherfas</a></li>
-<li><a href="http://infullflow.net/feed/">Elmine Wijnia</a></li>
-<li><a href="https://www.zylstra.org/blog/feed/">Ton Zijlstra</a></li>
-<li><a href="https://kelake.org/feed/">Clark MacLeod</a></li>
+<li><a href="https://lisachandler.is">Lisa Chandler</a> <a href="https://lisachandler.is/rss.xml">RSS</a></li>
+<li><a href="https://actsofvolition.com">Steven Garrity</a> <a href="https://actsofvolition.com/feed/">RSS</a></li>
+<li><a href="https://www.jeremycherfas.net">Jeremy Cherfas</a> <a href="https://www.jeremycherfas.net/blog.rss">RSS</a></li>
+<li><a href="http://infullflow.net">Elmine Wijnia</a> <a href="http://infullflow.net/feed/">RSS</a></li>
+<li><a href="https://www.zylstra.org">Ton Zijlstra</a> <a href="https://www.zylstra.org/blog/feed/">RSS</a></li>
+<li><a href="https://kelake.org">Clark MacLeod</a> <a href="https://kelake.org/feed/">RSS</a></li>
 </ul>
 <p>Longtime favourites:</p>
 <ul>
-<li><a href="https://interconnected.org/home/feed">Matt Webb</a></li>
-<li><a href="https://librarian.aedileworks.com/feed/">Mita Williams</a></li>
-<li><a href="https://paulcapewell.com/feed/">Paul Capewell</a></li>
-<li><a href="https://hasbrouck.org/blog/index.xml">Edward Hasbrouck</a></li>
-<li><a href="https://www.miskatonic.org/feed/all.xml">William Denton</a></li>
+<li><a href="https://interconnected.org">Matt Webb</a> <a href="https://interconnected.org/home/feed">RSS</a></li>
+<li><a href="https://librarian.aedileworks.com">Mita Williams</a> <a href="https://librarian.aedileworks.com/feed/">RSS</a></li>
+<li><a href="https://paulcapewell.com">Paul Capewell</a> <a href="https://paulcapewell.com/feed/">RSS</a></li>
+<li><a href="https://hasbrouck.org/blog">Edward Hasbrouck</a> <a href="https://hasbrouck.org/blog/index.xml">RSS</a></li>
+<li><a href="https://www.miskatonic.org">William Denton</a> <a href="https://www.miskatonic.org/feed/all.xml">RSS</a></li>
 </ul>
 <p>Some recent lovely discoveries:</p>
 <ul>
-<li><a href="https://anniemueller.com/feed/">Annie Mueller</a></li>
-<li><a href="https://www.chipswritinglessons.com/feed/">Chip Scanlan</a></li>
-<li><a href="https://hey.georgie.nu/feed/">Georgie Luhur Cooke</a></li>
-<li><a href="https://maya.land/feed.xml">Maya.land</a></li>
+<li><a href="https://anniemueller.com">Annie Mueller</a> <a href="https://anniemueller.com/feed/">RSS</a></li>
+<li><a href="https://www.chipswritinglessons.com">Chip Scanlan</a> <a href="https://www.chipswritinglessons.com/feed/">RSS</a></li>
+<li><a href="https://hey.georgie.nu">Georgie Luhur Cooke</a> <a href="https://hey.georgie.nu/feed/">RSS</a></li>
+<li><a href="https://maya.land">Maya.land</a> <a href="https://maya.land/feed.xml">RSS</a></li>
 </ul></div>
 <div class="q"><p><strong>Final question: is there anything you want to share with us?</strong></p></div>
 <div class="a"><p>Podcasts:</p>
@@ -2146,65 +2738,6 @@ Every year on NASA’s Day of Remembrance, the agency pauses to honor the sacrif
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/centers-and-facilities/glenn/nasas-day-of-remembrance/">https://www.nasa.gov/centers-and-facilities/glenn/nasas-day-of-remembrance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/glenn/nasas-day-of-remembrance/">Save to Pocket</a>
-</span>
-
----
-
-## 2024-02-09 Oddµ namespaces and live updating
-
-date: 2024-02-14, from: Alex Schroeder's Blog
-
-<h1>2024-02-09 Oddµ namespaces and live updating</h1>
-
-<blockquote>
-<p>It&rsquo;s a slow morning. I had my two cups of coffee, ate my pancakes with plum jam, spent time online reading Mastodon, talked to my wife about wannabe-axe murderers on Swiss trains, looked up stuff about <a href="https://www.tax-the-rich.eu/">taxing the rich</a>…</p>
-</blockquote>
-
-<p>I&rsquo;ve been working on Oddmu again. My goal is to be able to reproduce the <a href="https://campaignwiki.org/">Campaign Wiki</a> setup:</p>
-
-<ul>
-<li>people can get a &ldquo;space&rdquo; for their site by signing up in some way</li>
-<li>they can make changes to the look and feel of their site (change the headers, footers, colours, i.e. make changes to both the HTML template and the CSS)</li>
-<li>feeds, list of changes and all that are limited to their site</li>
-</ul>
-
-<p>Using Oddmu would also result in the following:</p>
-
-<ul>
-<li>sites are no longer publically editable (which isn&rsquo;t a requirement for such spaces like role-playing game campaigns)</li>
-</ul>
-
-<p>Oddmu now has the following features:</p>
-
-<ul>
-<li>when editing pages in a subdirectory, the <code>index</code> and <code>changes</code> page in the same directory are updated (instead of the root directory)</li>
-<li>when HTML templates exist in the same directory, those are used instead of the templates in the root directory (e.g. <a href="oddmu/index">Oddµ</a>)</li>
-<li>when uploading a HTML template, it is loaded immediately (no more server restart)</li>
-</ul>
-
-<p>Once I had this implemented using a library that watches the filesystem for changes, I realized that I could use the same feature to index new pages. This brings me closer to having online and offline writing feature equivalence: Using the web site to create a page should be equivalent to writing a page elsewhere and uploading it to the site via rsync.
-(Offline you can use the <code>oddmu notify</code> command to add links to <code>index</code>, <code>changes</code> and hashtag pages.)</p>
-
-<p>I think I&rsquo;m getting close!</p>
-
-<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p>
-
-<p>Also, code complexity is through the roof, now. All the global maps aren&rsquo;t thread-safe so they need mutexes. There&rsquo;s a weird Heisenbug I have where I run the test suite and then <code>view.html</code> is gone. The next test run then fails, of course. Thinking it was related to the order of tests, I started running <code>go test -shuffle on</code> and found a plethora of <em>other</em> bugs. And I&rsquo;ve seen at least two occasions where I noticed the disappearing <code>view.html</code> bug, noted the shuffle id, reran the test with that id, got the error again, tried for a third time, and then tests passed. So… it must be a race condition of some sort.</p>
-
-<p>How aggravating.</p>
-
-<p>Maybe something got lost, with that last set of changes.</p>
-
-<p>I do feel, however, that I&rsquo;ve found a lot of bugs… Just now, for example, to help prevent Oddmu from showing any directories or files with a path segment starting with a period…</p>
-
-<p><strong>2024-02-14</strong>. I need to think about an archive handler that allows you to get a zip file for the current directory. (I guess zip files are more accessible than .tar.gz files? Like, for Windows and macOS…</p>
-
-<p>And the archive needs to take <a href="2024-02-14-oddmu-bug">ODDMU_FILTER</a> into account!</p>
-
-<p>Done. ✔️</p>
-
-<span class="feed-item-link">
-<a href="https://alexschroeder.ch/view/2024-02-09-oddmu-namespaces">https://alexschroeder.ch/view/2024-02-09-oddmu-namespaces</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-02-09-oddmu-namespaces">Save to Pocket</a>
 </span>
 
 ---

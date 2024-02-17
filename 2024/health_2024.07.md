@@ -1,11 +1,11 @@
 ---
 title: health 2024.07
-updated: 2024-02-16 08:31:59
+updated: 2024-02-17 00:15:15
 ---
 
 # health 2024.07
 
-(date: 2024-02-16 08:31:59)
+(date: 2024-02-17 00:15:15)
 
 ---
 
@@ -89,6 +89,18 @@ date: 2024-02-16, from: Frontiers in Cellular and Infection Microbiology
 
 <span class="feed-item-link">
 <a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1381148">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1381148</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1381148">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: Host-cell pathways modulated by influenza virus infection: new insight into pathogenetic mechanisms and cell-targeted antiviral strategies
+
+date: 2024-02-16, from: Frontiers in Cellular and Infection Microbiology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1372896">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1372896</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1372896">Save to Pocket</a>
 </span>
 
 ---

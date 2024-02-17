@@ -1,11 +1,47 @@
 ---
 title: mid central 2024.07
-updated: 2024-02-16 08:31:58
+updated: 2024-02-17 00:15:15
 ---
 
 # mid central 2024.07
 
-(date: 2024-02-16 08:31:58)
+(date: 2024-02-17 00:15:15)
+
+---
+
+## Highlights from 2024 Orlando HamCation
+
+date: 2024-02-16, from: Amateur Radio Relay League News
+
+<p>Warm weather greeted the crowds of radio amateurs who attended the 2024 Orlando HamCation® from February 9 - 11. The convention hosted the ARRL Florida State Convention, but drew attendees from across the country, and some from even farther, renewing HamCation's place as the second largest US ham radio convention.</p><p>HamCation is sponsored by the Orlando Amateur Radio Club (OARC). The convention wa...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/highlights-from-2024-orlando-hamcation">http://www.arrl.org/news/view/highlights-from-2024-orlando-hamcation</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/highlights-from-2024-orlando-hamcation">Save to Pocket</a>
+</span>
+
+---
+
+## Amateur Radio as Educational Tool Represented to Policymakers in Washington DC
+
+date: 2024-02-16, from: Amateur Radio Relay League News
+
+<p>ARRL and Amateur Radio Digital Communications (ARDC) represented Amateur Radio at a symposium in Washington on February 1 at which the top domestic spectrum policymakers from across the federal government considered implementation of the National Spectrum Strategy (NSS) [PDF].</p><p>ARRL ensures that Amateur Radio is represented at sessions such as this so that decisionmakers understand amateur radio'...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/amateur-radio-as-educational-tool-represented-to-policymakers-in-washington-dc">http://www.arrl.org/news/view/amateur-radio-as-educational-tool-represented-to-policymakers-in-washington-dc</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/amateur-radio-as-educational-tool-represented-to-policymakers-in-washington-dc">Save to Pocket</a>
+</span>
+
+---
+
+## ARRL Headquarters Closed Presidents Day
+
+date: 2024-02-16, from: Amateur Radio Relay League News
+
+<p>ARRL  The National Association for Amateur Radio® Headquarters in Newington, Connecticut, will be closed on Monday, February 19, 2024, in observance of Presidents Day. </p><p>There won't be any W1AW bulletin or code practice that day. ARRL HQ will reopen on Tuesday, February 20, 2024 at 8 AM EST.</p><p></p><p></p><p>There are several special operating events to mark the holiday. Visit the ARRL Special Event Stations datab...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/arrl-headquarters-closed-presidents-day">http://www.arrl.org/news/view/arrl-headquarters-closed-presidents-day</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/arrl-headquarters-closed-presidents-day">Save to Pocket</a>
+</span>
 
 ---
 

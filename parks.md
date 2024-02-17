@@ -1,11 +1,219 @@
 ---
 title: parks 2024.07
-updated: 2024-02-16 08:31:59
+updated: 2024-02-17 00:15:15
 ---
 
 # parks 2024.07
 
-(date: 2024-02-16 08:31:59)
+(date: 2024-02-17 00:15:15)
+
+---
+
+## Falk added to National Register of Historic Places
+
+date: 2024-02-16, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Falk added to National Register of Historic Places</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="2914734c-cd49-4769-b477-ff8c0445f9c3" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/falkloggers.jpg?itok=E4wj7KQj" width="640" height="451" alt="Loggers remove a huge redwood during the logging heyday in the Headwaters Forest Reserve. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>Loggers remove a huge redwood during the logging heyday in the Headwaters Forest Reserve.</em></figcaption>
+</figure>
+
+
+<p>Falk, a historic town and lumber mill site nestled in the Bureau of Land Management Headwaters Forest Reserve on the Pacific Coast, has been named to the National Register of Historic Places. The listing crowns years of partnership between the BLM Arcata Field Office and Humboldt State University, now called Cal Poly Humboldt. </p>
+
+<p>Listed officially as the Falk Archaeological District, the designation recognizes the site as an area of national significance and worthy of preservation. While the coastal forest is slowly reclaiming the town, remnants are visible and marked with interpretive signs along the first half-mile of the Elk River Trail. Most impressive is a fully restored locomotive barn that now serves as BLM education center.</p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="92ff0d90-2d10-42ac-b6ff-a4e319a52d1c" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/33026038143_9a6f638fc4_c.jpg?itok=FKESNAyT" width="640" height="427" alt="The Headwaters Education Center is a wood barn amidst dense redwood forest." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>The Headwaters Education Center is housed in a fully restored locomotive barn that dates to t<br>
+he operation of the Falk lumber mill that operated from 1884 to 1937.</em></figcaption>
+</figure>
+
+
+<p>University staff and students worked more than 14 years conducting an archaeological investigation that yielded the information required for the listing. Over that time, BLM staff completed projects including the locomotive barn restoration to bring the Falk story to life for visitors. </p>
+
+<p>Falk thrived from 1884 to 1937. Workers toiled deep in the now-protected redwood stands, felling trees, shipping them on Falk’s very own railroad to the mill, and finally sending the lumber to worldwide markets via a port at present day Eureka. The town housed the lumber mill workers, lumberjacks, and the train crew. A store, cookhouse, dance hall and a school supported the fabric of daily life for the working families. The Great Depression forced closure of the mill, and the town that once boasted a population of 400 was abandoned, and the site fell into decline and decay. By 1940, the population was only 12. Caretakers watched the abandoned site for a time, but the property owner, a timber company, razed the buildings in the 1970s due to safety concerns. </p>
+
+<figure role="group" class="align-center">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="382d6aa7-b940-4cfd-a8dd-d9d5c0af25f1" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/falkhouse.jpg?itok=bYrHWADl" width="640" height="427" alt="An abandoned house slowly being  consumed by dense coastal forest" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>A house falls victim to the ever-encroaching forest at the Falk town<br>
+and lumber mill site in the Headwaters Forest Reserve.</em></figcaption>
+</figure>
+
+
+<p>Headwaters Forest Reserve was established in 1999, after the BLM and California State Wildlife Conservation Board purchased the 7,400-acre forest tract that contains stands of redwoods more than 1,000 years old.  The BLM collaborates with the California Department of Fish and Wildlife to conserve the forest and stream habitat vital to numerous species. </p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/northern-california-do" hreflang="en">Northern California DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/history" hreflang="en">History</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-02-15T12:00:00Z">Thu, 02/15/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/arcata-field-office" hreflang="en">Arcata Field Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46842/edit" hreflang="en">Loggers remove a huge redwood during the logging heyday in the Headwaters Forest Reserve. </a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/headwaters-forest-reserve" hreflang="en">Headwaters Forest Reserve</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46842/edit" hreflang="en">Loggers remove a huge redwood during the logging heyday in the Headwaters Forest Reserve. </a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-02-15/falk-added-national-register-historic-places">https://www.blm.gov/blog/2024-02-15/falk-added-national-register-historic-places</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-15/falk-added-national-register-historic-places">Save to Pocket</a>
+</span>
 
 ---
 

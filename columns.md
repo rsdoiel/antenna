@@ -1,11 +1,86 @@
 ---
 title: columns 2024.07
-updated: 2024-02-16 08:31:59
+updated: 2024-02-17 00:15:15
 ---
 
 # columns 2024.07
 
-(date: 2024-02-16 08:31:59)
+(date: 2024-02-17 00:15:15)
+
+---
+
+## Trump Ordered to Pay $355 Million in NY Civil Fraud Trial Ruling
+
+date: 2024-02-16, updated: 2024-02-16, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.nytimes.com/2024/02/16/nyregion/trump-civil-fraud-trial-ruling.html">https://www.nytimes.com/2024/02/16/nyregion/trump-civil-fraud-trial-ruling.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nytimes.com/2024/02/16/nyregion/trump-civil-fraud-trial-ruling.html">Save to Pocket</a>
+</span>
+
+---
+
+## Friday Squid Blogging: Vegan Squid-Ink Pasta
+
+date: 2024-02-16, updated: 2024-02-16, from: Bruce Schneier blog
+
+<p>It <a href="https://uk.style.yahoo.com/vegan-squid-ink-pasta-way-144527589.html">uses</a> black beans for color and seaweed for flavor.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p>Read my blog posting guidelines <a href="https://www.schneier.com/blog/archives/2017/03/commenting_poli.html">here</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-vegan-squid-ink-pasta.html">https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-vegan-squid-ink-pasta.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-vegan-squid-ink-pasta.html">Save to Pocket</a>
+</span>
+
+---
+
+## Putin Rival Alexei Navalny Dies in Siberian Prison
+
+date: 2024-02-16, updated: 2024-02-16, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.washingtonpost.com/world/2024/02/16/alexei-navalny-dies-russia-putin/">https://www.washingtonpost.com/world/2024/02/16/alexei-navalny-dies-russia-putin/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.washingtonpost.com/world/2024/02/16/alexei-navalny-dies-russia-putin/">Save to Pocket</a>
+</span>
+
+---
+
+## Meta’s Oculus Quest App Lab
+
+date: 2024-02-16, updated: 2024-02-16, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://developer.oculus.com/blog/introducing-app-lab-a-new-way-to-distribute-oculus-quest-apps/">https://developer.oculus.com/blog/introducing-app-lab-a-new-way-to-distribute-oculus-quest-apps/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://developer.oculus.com/blog/introducing-app-lab-a-new-way-to-distribute-oculus-quest-apps/">Save to Pocket</a>
+</span>
+
+---
+
+## Meta Acquired a Neural Interface Startup in 2019
+
+date: 2024-02-16, updated: 2024-02-16, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.theverge.com/2019/9/23/20881032/facebook-ctrl-labs-acquisition-neural-interface-armband-ar-vr-deal">https://www.theverge.com/2019/9/23/20881032/facebook-ctrl-labs-acquisition-neural-interface-armband-ar-vr-deal</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theverge.com/2019/9/23/20881032/facebook-ctrl-labs-acquisition-neural-interface-armband-ar-vr-deal">Save to Pocket</a>
+</span>
+
+---
+
+## Popular git config options
+
+date: 2024-02-16, updated: 2024-02-16, from: Julia Evans blog
+
+
+
+<span class="feed-item-link">
+<a href="https://jvns.ca/blog/2024/02/16/popular-git-config-options/">https://jvns.ca/blog/2024/02/16/popular-git-config-options/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://jvns.ca/blog/2024/02/16/popular-git-config-options/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -96,7 +171,7 @@ Sometimes a single very big picture is worth many thousands of words
 
 ## Mark Zuckerberg on Vision Pro
 
-date: 2024-02-14, updated: 2024-02-14, from: Daring Fireball
+date: 2024-02-14, updated: 2024-02-16, from: Daring Fireball
 
 
 

@@ -1,11 +1,124 @@
 ---
 title: writing 2024.07
-updated: 2024-02-16 08:31:59
+updated: 2024-02-17 00:15:15
 ---
 
 # writing 2024.07
 
-(date: 2024-02-16 08:31:59)
+(date: 2024-02-17 00:15:15)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-16, from: Neil Gaiman @ BlueSky)
+
+First of all, read this article: https://www.theguardian.com/us-news/2024/jan/10/new-york-winter-helping-neighbors-stay-warm-wood-burning
+and then you'll want to spread the word and raise support for this GoFundMe: https://www.gofundme.com/f/an-emergency-firewood-program-needs-a-used-truck?utm_campaign=p_lico+share-sheet&utm_medium=copy_link&utm_source=customer
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klkzu2g43z2x">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klkzu2g43z2x</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klkzu2g43z2x">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-16, from: Neil Gaiman @ BlueSky)
+
+The @cherylmorgan.bsky.social essay on what alternate worlds are and aren't is excellent too!
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klkxxlhqdv27">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klkxxlhqdv27</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klkxxlhqdv27">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Premio Ernesto Vegetti Finalists
+
+date: 2024-02-16, from: Locus Magazine
+
+<p>The Associazione World SF Italia announced the finalists for the 2024 Premio Ernesto Vegetti, an Italian SF award.</p>
+<div class="mynomorebulletlist">
+<p><strong>Novel</strong></p>
+<ul>
+<li><strong>Daimones</strong>, Giancarlo Giuliani (Tabula Fati)</li>
+<li><strong>Eva dei sette mondi</strong>, Max Gobbo (Elara)</li>
+<li><strong>I Giganti immortali</strong>, Stefano Carducci e Alessandro Fambrini (Elara)</li>
+</ul>
+<p><strong>Nonfiction</strong></p>
+<ul>
+<li><strong>Astronavi. Le storie dei vascelli spaziali nella narrativa e nel cinema</strong>, Michele Tetro e Roberto Azzara (Odoya)</li>
+<li><strong>Batman. Le origini, il mito</strong>, Riccardo Rosati </li></ul></div> <a href="https://locusmag.com/2024/02/2024-premio-ernesto-vegetti-finalists/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/2024-premio-ernesto-vegetti-finalists/">https://locusmag.com/2024/02/2024-premio-ernesto-vegetti-finalists/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/2024-premio-ernesto-vegetti-finalists/">Save to Pocket</a>
+</span>
+
+---
+
+## Cybils Awards Winners
+
+date: 2024-02-16, from: Locus Magazine
+
+<p>Winners for the 2023 Children&#8217;s and Young Adults Bloggers&#8217; Literary Awards (Cybils) have been announced. Books of genre interest follow.</p>
+<div class="mynomorebulletlist">
+<p><strong>Young Adult Speculative Fiction</strong></p>
+<ul>
+<li>WINNER: <strong>Threads That Bind</strong>, Kika Hatzopoulou (Razorbill)</li>
+</ul>
+<ul>
+<li><strong>The Half-Life of Love</strong>, Brianna Bourne (Scholastic)</li>
+<li><strong>The Isles of the Gods</strong>, Amie Kaufman (Alfred A. Knopf)</li>
+<li><strong>Divine Rivals</strong>, Rebecca Ross (Wednesday)</li>
+<li><strong>Fault Lines</strong>, Nora Shalaway Carpenter (Running Press)</li>
+<li><strong>Revelle</strong>, Lyssa Mia Smith </li></ul></div> <a href="https://locusmag.com/2024/02/cybils-awards-winners/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/cybils-awards-winners/">https://locusmag.com/2024/02/cybils-awards-winners/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/cybils-awards-winners/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-16, from: Neil Gaiman @ BlueSky)
+
+I laughed out loud at "Christ on a bike!". Watch it before it gets taken down...
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klkwbu4h6m2s">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klkwbu4h6m2s</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3klkwbu4h6m2s">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Audie Awards Finalists
+
+date: 2024-02-16, from: Locus Magazine
+
+<p>The Audio Publishers Association (APA) has announced the finalists for the 2024 Audie Awards, “recognizing distinction in audiobooks and spoken-word entertainment.” Finalists of genre interest include: </p>
+<div class="nobullets">
+<p><strong>Science Fiction</strong></p>
+<ul>
+<li><strong>Dual Memory</strong>, Sue Burke, narrated by André Santana (Dreamscape)</li>
+<li><strong>Wool</strong>, Hugh Howey, narrated by Edoardo Ballerini  (Blackstone)</li>
+<li><strong>The Deep Sky</strong>, Yume Kitasei, narrated by Sarah Skaer  (Macmillan Audio)</li>
+<li>T<strong>he World We Make</strong>, N.K. Jemisin, narrated by Robin </li></ul></div> <a href="https://locusmag.com/2024/02/2024-audie-awards-finalists/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/2024-audie-awards-finalists/">https://locusmag.com/2024/02/2024-audie-awards-finalists/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/2024-audie-awards-finalists/">Save to Pocket</a>
+</span>
+
+---
+
+## Balzer + Bray Moves to Macmillan
+
+date: 2024-02-16, from: Locus Magazine
+
+<p>Young Adult imprint Balzer + Bray is moving from HarperChildren&#8217;s to Macmillan Children&#8217;s, effective April 15, 2024. Founding editors Alessandra Balzer and Donna Bray will be senior vice-presidents and co-publishers at the new company.</p>
+<p>The imprint was founded in 2009 at HarperCollins. Previously published titles, and new books currently under contract, will remain with HarperCollins, to be published under various imprints. No titles for the new incarnation have been announced  <a href="https://locusmag.com/2024/02/balzer-bray-moves-to-macmillan/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/balzer-bray-moves-to-macmillan/">https://locusmag.com/2024/02/balzer-bray-moves-to-macmillan/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/balzer-bray-moves-to-macmillan/">Save to Pocket</a>
+</span>
 
 ---
 
