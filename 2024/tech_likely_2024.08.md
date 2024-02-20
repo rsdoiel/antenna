@@ -1,11 +1,33 @@
 ---
 title: tech likely 2024.08
-updated: 2024-02-20 09:25:18
+updated: 2024-02-20 10:00:00
 ---
 
 # tech likely 2024.08
 
-(date: 2024-02-20 09:25:18)
+(date: 2024-02-20 10:00:00)
+
+---
+
+##  Cool New Music: Waxahatchee, &#8220;Right Back to It&#8221; and &#8220;Bored&#8221; 
+
+date: 2024-02-20, updated: 2024-02-20, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/cool-new-music-waxahatchee-right-back-to-it-and-bored">https://kottke.org/24/02/cool-new-music-waxahatchee-right-back-to-it-and-bored</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/cool-new-music-waxahatchee-right-back-to-it-and-bored">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-20, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/07/30/birdAndHBO.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I don't like Twitter/X -- it's stupid, it already had a perfectly good name. It is what it is. I use Twitter, I don't imagine stopping, certainly not as some kind of demonstration. But it isn't X or Twitter/X. It's just stupid old fucked up Twitter, only now it's fucked for a different reason. I might go for Twitter/F as in Twitter is Fucked thank you very much. And have a nice day. <span class="spOldSchoolEmoji">😄</span>
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/20.html#a172729">http://scripting.com/2024/02/20.html#a172729</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/20.html#a172729">Save to Pocket</a>
+</span>
 
 ---
 

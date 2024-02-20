@@ -1,22 +1,24 @@
 ---
 title: socal north 2024.08
-updated: 2024-02-20 09:25:18
+updated: 2024-02-20 09:59:59
 ---
 
 # socal north 2024.08
 
-(date: 2024-02-20 09:25:18)
+(date: 2024-02-20 09:59:59)
 
 ---
 
-## Raising Children In LA Is Expensive. Here’s How A Bigger Child Tax Credit Would Help
+## City Resolves Camp Scott Lawsuit Against the County
 
-date: 2024-02-20, updated: 2024-02-20, from: The LAist
+date: 2024-02-20, from: City of Santa Clarita
 
-If the U.S. Senate passes a bill to expand the Child Tax Credit, more than 2 million children in California could benefit.
+<p>CITY RESOLVES CAMP SCOTT LAWSUIT AGAINST THE COUNTY On February 16, 2024, the City of Santa Clarita (City) filed a stipulation with the County of Los Angeles (County) to resolve the lawsuit against the County regarding Camp Scott, mutually agreeing that the County will comply with the California Environmental Quality Act (CEQA) review prior to [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/02/20/city-resolves-camp-scott-lawsuit-against-the-county/">City Resolves Camp Scott Lawsuit Against the County</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
 
 <span class="feed-item-link">
-<a href="https://laist.com/news/education/los-angeles-raising-children-expensive-expanded-child-tax-credit">https://laist.com/news/education/los-angeles-raising-children-expensive-expanded-child-tax-credit</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/los-angeles-raising-children-expensive-expanded-child-tax-credit">Save to Pocket</a>
+<a href="https://santaclarita.gov/blog/2024/02/20/city-resolves-camp-scott-lawsuit-against-the-county/">https://santaclarita.gov/blog/2024/02/20/city-resolves-camp-scott-lawsuit-against-the-county/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/02/20/city-resolves-camp-scott-lawsuit-against-the-county/">Save to Pocket</a>
 </span>
 
 ---
@@ -29,6 +31,18 @@ Most of L.A. County is currently under a flood watch through Wednesday, with spo
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/climate-environment/los-angeles-rain-storm-february-continues-tuesday">https://laist.com/news/climate-environment/los-angeles-rain-storm-february-continues-tuesday</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/los-angeles-rain-storm-february-continues-tuesday">Save to Pocket</a>
+</span>
+
+---
+
+## Raising Children In LA Is Expensive. Here’s How A Bigger Child Tax Credit Would Help
+
+date: 2024-02-20, updated: 2024-02-20, from: The LAist
+
+If the U.S. Senate passes a bill to expand the Child Tax Credit, more than 2 million children in California could benefit.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/los-angeles-raising-children-expensive-expanded-child-tax-credit">https://laist.com/news/education/los-angeles-raising-children-expensive-expanded-child-tax-credit</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/los-angeles-raising-children-expensive-expanded-child-tax-credit">Save to Pocket</a>
 </span>
 
 ---
