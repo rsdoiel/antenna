@@ -1,19 +1,19 @@
 ---
 title: weather 2024.08
-updated: 2024-02-20 10:00:00
+updated: 2024-02-22 08:50:39
 ---
 
 # weather 2024.08
 
-(date: 2024-02-20 10:00:00)
+(date: 2024-02-22 08:50:39)
 
 ---
 
-## SPC - No watches are valid as of Tue Feb 20 17:36:01 UTC 2024
+## SPC - No watches are valid as of Thu Feb 22 16:25:02 UTC 2024
 
-date: 2024-02-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-02-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Feb 20 17:36:01 UTC 2024.
+No watches are valid as of Thu Feb 22 16:25:02 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
@@ -21,14 +21,232 @@ No watches are valid as of Tue Feb 20 17:36:01 UTC 2024.
 
 ---
 
-## SPC - No MDs are in effect as of Tue Feb 20 17:36:01 UTC 2024
+## SPC - No MDs are in effect as of Thu Feb 22 16:25:02 UTC 2024
 
-date: 2024-02-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-02-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Feb 20 17:36:02 UTC 2024.
+No Mesoscale Discussions are in effect as of Thu Feb 22 16:25:02 UTC 2024.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Feb 22, 2024 1630 UTC Day 1 Convective Outlook
+
+date: 2024-02-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1020 AM CST Thu Feb 22 2024
+
+Valid 221630Z - 231200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS THIS EVENING
+ACROSS PARTS OF SOUTHEASTERN ARKANSAS...NORTHERN MISSISSIPPI...AND
+ADJACENT SOUTHWESTERN TENNESSEE...NORTHWESTERN ALABAMA...
+
+...SUMMARY...
+Strong thunderstorms may develop and overspread parts of the Mid
+South this evening, and perhaps pose some risk for damaging wind
+gusts and severe hail.
+
+...Synopsis...
+A couple of short wave perturbations of Arctic origins (currently
+west of Hudson Bay) are forecast to continue to consolidate into a
+vigorous digging short wave trough to the southwest through south of
+Hudson Bay into the James Bay vicinity today through tonight.  It
+still appears that this will contribute to larger-scale mid/upper
+trough amplification across the northern into mid-latitudes of
+eastern North America (and accompanied by a significant cold front
+crossing the Canadian/U.S. border into the northern Great Plains
+through upper Great Lakes region by late tonight).  In phase with
+this regime, models indicate that the stronger westerlies across the
+southern mid- and subtropical latitudes will trend broadly cyclonic
+across the southern Great Plains through the Southeast, with one or
+two consolidating embedded lower amplitude perturbations digging
+from the central Great Plains/Ozark Plateau and lower Ohio Valley
+through the lower Mississippi/Tennessee Valleys and southern
+Appalachians by 12Z Friday.  
+
+While there may be some further deepening of surface troughing
+shifting from the southern Great Plains through lower Ohio Valley
+into the Southeast through Mid Atlantic, models indicate that any
+embedded cyclogenesis will remain negligible, at least until it
+shifts offshore Friday through Friday night.  In the wake of
+initially more amplified mid-level troughing now beginning to
+accelerate away from the Atlantic Seaboard, boundary-layer
+modification over the Gulf of Mexico has been slow.  A limited
+moisture return is ongoing on moderately strong southerly return
+flow preceding the surface trough, but substantive further
+improvement still appears unlikely through this period.
+
+...Mid South and Ohio/Tennessee Valleys...
+Observed and forecast soundings suggest that moistening supportive
+of thunderstorm development, with large-scale ascent, is generally
+occurring above a stable boundary, and beneath warm/dry capping
+layers aloft, with profiles supportive of only weak CAPE.  It
+appears that this will remain the case as forcing for ascent begins
+to support increasing thunderstorm activity ahead of the digging
+mid-level troughing, southeast of the lower Ohio Valley through the
+Tennessee Valley and portions of the lower Mississippi Valley later
+today through tonight.
+
+However, at least some model output, perhaps most notably the High
+Resolution Rapid Refresh, suggests that a somewhat better moist (and
+potentially unstable) inflow to the southwestern flank of this
+forcing could enhance thunderstorm development this evening across
+parts of the Mid South into Gulf States.  The HRRR depiction of
+convection includes an organizing cluster with 45+ kt rear inflow
+developing near or above the 850-800 mb layer.  Even if this
+verifies, the potential efficiency of downward momentum transport to
+the surface remains unclear based on forecast soundings, but a few
+locally strong/damaging wind gusts might not be out of the question.
+
+..Kerr/Squitieri.. 02/22/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Feb 22, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-02-22, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook CORR 1
+NWS Storm Prediction Center Norman OK
+0818 AM CST Thu Feb 22 2024
+
+Valid 221300Z - 231200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS OVER PARTS OF
+THE MID-SOUTH REGION...
+
+CORRECTED FOR TYPO
+
+...SUMMARY...
+Thunderstorms may produce marginally severe gusts or hail this
+afternoon and evening over parts of the Mid-South region.
+
+...Synopsis...
+In the mean, mid/upper-level pattern amplification should begin
+again during this period, as ridging builds over NV, the Pacific
+Coast States and interior Northwest.  Downstream, a series of
+shortwaves will contribute to substantial synoptic-scale height
+falls over much of the Mississippi and Ohio Valleys to the central
+Gulf Coast.  None of those perturbations -- including some apparent
+in moisture-channel imagery over OK, northern KS/NE, and western CO
+-- are (or will become) particularly intense, but should contribute
+to at least weak large-scale destabilization aloft and maintenance
+or strengthening of cyclonic flow.
+
+At the surface, 11Z analysis showed a cold front extending from a
+low over southeastern ON across northern IN, through weak lows over
+central MO and near TUL, then across northwest TX to southern NM. 
+The front should move eastward and southeastward today, to a 00Z
+position over eastern/southern OH, the lowest Ohio Valley, eastern/
+southern AR, and northeast to south-central TX.  By 12Z, the front
+should reach central NY, eastern PA, the southern Appalachians,
+central parts of MS/LA, and shelf waters of the northwestern Gulf. 
+
+...Mid-South region...
+Isolated to widely scattered thunderstorms are expected to develop
+by late this afternoon along/ahead of the cold front, over central/
+eastern AR and perhaps western TN.  Activity should strengthen and
+increase in coverage through evening as it encounters greater
+moisture across the Mississippi Valley and into northern portions of
+MS tonight.  Some upscale organization into a short QLCS is possible
+from early multicell to supercell modes.  Marginally severe hail and
+damaging gusts will be the main concerns. 
+
+The outlook area will reside on the southwestern rim of a far larger
+swath of general thunderstorm potential, but with access to
+sustained, effectively surface-based and at least marginally moist
+inflow parcels beginning mid/late afternoon in AR and shifting east-
+southeastward with time.  Progs that generate little substantial
+convection generally are too cool at the surface.  Forecast max
+surface temperatures in the mid/upper 60s F over much of the area
+will support favorable low-level lapse rates, as well as some
+boundary-layer mixing, amidst potential for localized downward
+momentum transfer from stronger flow aloft, for gust support.  
+
+Midlevel lapse rates are not expected to be very strong, limiting
+MLCAPE to around 250-750 J/kg, and likely keeping the hail potential
+isolated, marginal and conditional to supercell maturation. 
+Sufficient deep shear will exist for that, however, with modified
+forecast soundings indicating around 40-45-kt effective-shear
+magnitudes and 150-250 J/kg effective SRH -- despite prefrontal
+veering with time of surface winds toward southwesterly.  Greater
+diurnal boundary-layer mixing/drying, EML-related CINH and weaker
+CAPE will likely restrict severe potential around western parts of
+the outlook, while instability decreases northward, moisture
+decreases eastward, and lift weakens southward.
+
+..Edwards.. 02/22/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2024-02-22, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0117 AM CST Thu Feb 22 2024
+
+Valid 231200Z - 241200Z
+
+...NO CRITICAL AREAS...
+
+...Synopsis...
+Limited fire weather concerns are expected for Friday across the
+country, though localized concerns may emerge across portions of NE,
+CO, and KS. Surface high pressure will gradually build into the
+southern Plains through the day Friday as the surface low currently
+over northern OK (as of 07 UTC Thursday) migrates into the
+Mid-Atlantic region. However, lower pressure along a trailing cold
+front across the Midwest/northern Plains will promote 15-20 mph
+northwesterly gradient winds across the central Plains.
+Boundary-layer mixing through at least 2 km will facilitate downward
+transfer of 25-35 mph winds by mid to late afternoon. An influx of
+cooler air behind a cold front (currently moving southward across
+eastern CO/western KS) will limit RH reductions to some degree
+across NE, but warmer/drier conditions across eastern CO and KS may
+allow for afternoon RH minimums near 20%. Elevated fire weather
+conditions appear probable from western NE into eastern CO and
+western KS; however, recent fuel guidance indicates that ERCs across
+these regions are currently at or below the 50th percentile. This
+will limit the overall fire weather potential, though fuel trends
+will continue to be monitored for the need for highlights.
+
+..Moore.. 02/22/2024
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Save to Pocket</a>
 </span>
 
 ---
@@ -165,98 +383,6 @@ D2/Wednesday.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Feb 20, 2024 1630 UTC Day 1 Convective Outlook
-
-date: 2024-02-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1005 AM CST Tue Feb 20 2024
-
-Valid 201630Z - 211200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not forecast through tonight.
-
-..Western States...
-A large upper low remains off the Pacific Northwest coast with a
-series of smaller shortwave troughs rotating inland through the
-forecast period.  This will lead to occasional clusters of showers
-and isolated thunderstorms over parts of CA, and inland into
-portions of OR/ID and NV/UT/AZ.  Overall coverage of thunderstorms
-should remain quite sparse.
-
-..Hart.. 02/20/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Feb 20, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-02-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0632 AM CST Tue Feb 20 2024
-
-Valid 201300Z - 211200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are not forecast through tonight.
-
-...Synopsis/Discussion...
-A progressive trough-ridge-trough pattern will characterize
-mid/upper levels through the period.  The eastern synoptic trough
-will move offshore to the Atlantic overnight, after consolidating
-from shortwave troughs now over the Mid-South/Tennessee Valley
-region, eastern NC and the FL Peninsula and vicinity.  A low-
-amplitude synoptic ridge, with broadly anticyclonic bracketing flow,
-will cross the central CONUS.  
-
-A well-developed synoptic trough was evident in moisture-channel
-imagery off the West Coast, with embedded cyclone center about 150
-nm west-southwest of OTH.  A basal shortwave trough was readily
-apparent well west of southern CA and Baja, between 27N-35N,
-approaching 130W.  As the cyclone weakens and shifts north-
-northeastward toward the AST/HQM area by the end of the period, the
-basal trough should weaken slightly and move eastward to a position
-just offshore from southern CA and northern Baja.  A series of
-small/low-amplitude shortwaves and vorticity lobes will traverse the
-southwest flow preceding the northeastern Pacific trough,
-contributing to cooling aloft and modest low/middle-level moistening
-over portions of the interior West, as well as atop the marine air
-mass near the coast.  Associated 100-500 J/kg MUCAPE (greatest near
-the coast) will support episodic thunder potential, mainly over the
-outlook areas, though very isolated flashes cannot be ruled out over
-much of the area west of the Rockies.  The combined shear/
-instability parameter space should be too weak to support severe
-potential.
-
-..Edwards/Mosier.. 02/20/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
 </span>
 
 

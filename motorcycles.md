@@ -1,11 +1,143 @@
 ---
 title: motorcycles 2024.08
-updated: 2024-02-20 10:00:00
+updated: 2024-02-22 08:50:39
 ---
 
 # motorcycles 2024.08
 
-(date: 2024-02-20 10:00:00)
+(date: 2024-02-22 08:50:39)
+
+---
+
+## Triumph Street Triple 765 RS to Race in Daytona 200
+
+date: 2024-02-22, from: Cycle World News
+
+The PHR (Peter Hickman Racing) Performance Team, supported by FreedomRoad Financial, will head tothe USA in March this year to tackle the Daytona 200.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/triumph-street-triple-765-rs-race-daytona-200/">https://www.cycleworld.com/the-wire/triumph-street-triple-765-rs-race-daytona-200/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/triumph-street-triple-765-rs-race-daytona-200/">Save to Pocket</a>
+</span>
+
+---
+
+## Touratech’s Honda XL750 Transalp Comfort Seat Will See You Go That Extra Mile
+
+date: 2024-02-22, from: Ride Apart, Electric Motorcycle News
+
+Ergonomically designed to keep your butt nice and comfy. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709607/touratech-comfort-seat-honda-xl750-transalp/">https://www.rideapart.com/news/709607/touratech-comfort-seat-honda-xl750-transalp/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709607/touratech-comfort-seat-honda-xl750-transalp/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Indian FTR x RSD Super Hooligan First Look
+
+date: 2024-02-22, from: Cycle World News
+
+Indian partners with Roland Sands Design for the limited-edition 2024 FTR x RSD Super Hooligan bike, based on the R Carbon and adorned with race graphics.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/indian-ftr-x-rsd-super-hooligan-first-look/">https://www.cycleworld.com/bikes/indian-ftr-x-rsd-super-hooligan-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/indian-ftr-x-rsd-super-hooligan-first-look/">Save to Pocket</a>
+</span>
+
+---
+
+## Are The Yamaha R1 And R1M About To Be Discontinued?
+
+date: 2024-02-21, from: Ride Apart, Electric Motorcycle News
+
+Say it ain't so, Team Blue. Our hearts can't take it.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709594/yamaha-r1-r1m-discontinued-europe/">https://www.rideapart.com/news/709594/yamaha-r1-r1m-discontinued-europe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709594/yamaha-r1-r1m-discontinued-europe/">Save to Pocket</a>
+</span>
+
+---
+
+## Honda Unleashes CBR400R And NX400 In Japan Only
+
+date: 2024-02-21, from: Ride Apart, Electric Motorcycle News
+
+Why can't we have nice things? 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709438/honda-cbr400r-nx400-launched-japan/">https://www.rideapart.com/news/709438/honda-cbr400r-nx400-launched-japan/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709438/honda-cbr400r-nx400-launched-japan/">Save to Pocket</a>
+</span>
+
+---
+
+## Race, Repeat: Jordan Anderson Shines at Daytona Once Again
+
+date: 2024-02-21, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor DAYTONA BEACH, Fla. – Despite the United Rentals 300 being postponed by rain twice, Jordan Anderson ‘rinsed and repeated’ as he stole the show in&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/race-repeat-anderson-shines-daytona/">https://kickinthetires.net/nascar/race-repeat-anderson-shines-daytona/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/race-repeat-anderson-shines-daytona/">Save to Pocket</a>
+</span>
+
+---
+
+## Trek Goes Urban With The FX+ 2 Commuter Electric Bike
+
+date: 2024-02-21, from: Ride Apart, Electric Motorcycle News
+
+No-frills practicality in a two-wheeler decked out in tried and tested equipment. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709437/trek-fx-plus-2-electric-bike/">https://www.rideapart.com/news/709437/trek-fx-plus-2-electric-bike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709437/trek-fx-plus-2-electric-bike/">Save to Pocket</a>
+</span>
+
+---
+
+## Polaris Releases The Ranger XD 1500 for Extreme Duty
+
+date: 2024-02-21, from: Ride Apart, Electric Motorcycle News
+
+The Polaris Ranger XD 1500 is ready to tackle heavy-duty adventures head on. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709435/polaris-ranger-xd1500-utv/">https://www.rideapart.com/news/709435/polaris-ranger-xd1500-utv/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709435/polaris-ranger-xd1500-utv/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Triumph Speed 400 and Scrambler 400 X Review
+
+date: 2024-02-20, from: Cycle World News
+
+Triumph’s 2024 Speed 400 and Scrambler 400 X offer a big-bike experience and quality at an entry-level price. If you are shopping, which one should you get?
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-reviews/triumph-speed-400-and-scrambler-400-x-review/">https://www.cycleworld.com/motorcycle-reviews/triumph-speed-400-and-scrambler-400-x-review/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/triumph-speed-400-and-scrambler-400-x-review/">Save to Pocket</a>
+</span>
+
+---
+
+## Watch A UTV Rescue Another UTV From A Scary Rollover In The Dunes
+
+date: 2024-02-20, from: Ride Apart, Electric Motorcycle News
+
+How do you stop a UTV rollover in progress? With another UTV, of course.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709416/utv-rescue-rollover-dunes-video/">https://www.rideapart.com/news/709416/utv-rescue-rollover-dunes-video/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709416/utv-rescue-rollover-dunes-video/">Save to Pocket</a>
+</span>
+
+---
+
+## Aprilia All Stars 2024 - 8 June in Misano
+
+date: 2024-02-20, from: Cycle World News
+
+The Aprilia All Stars event is back, the huge Aprilia festival that gives motorsport fans a unique day of incredible bikes and legendary champions.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/aprilia-all-stars-2024-8-june-in-misano/">https://www.cycleworld.com/the-wire/aprilia-all-stars-2024-8-june-in-misano/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/aprilia-all-stars-2024-8-june-in-misano/">Save to Pocket</a>
+</span>
 
 ---
 

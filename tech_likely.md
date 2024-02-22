@@ -1,11 +1,1188 @@
 ---
 title: tech likely 2024.08
-updated: 2024-02-20 10:00:00
+updated: 2024-02-22 08:50:39
 ---
 
 # tech likely 2024.08
 
-(date: 2024-02-20 10:00:00)
+(date: 2024-02-22 08:50:39)
+
+---
+
+##  A Kickstarter campaign for a book on the art of band logos.... 
+
+date: 2024-02-22, updated: 2024-02-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044033-a-kickstarter-campaign-fo">https://kottke.org/24/02/0044033-a-kickstarter-campaign-fo</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044033-a-kickstarter-campaign-fo">Save to Pocket</a>
+</span>
+
+---
+
+## Useful use of cat(1)
+
+date: 2024-02-22, from: Tilde.news
+
+<p><a href="https://tilde.news/s/lnqscm/useful_use_cat_1">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.in-ulm.de/~mascheck/various/uuoc/">https://www.in-ulm.de/~mascheck/various/uuoc/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.in-ulm.de/~mascheck/various/uuoc/">Save to Pocket</a>
+</span>
+
+---
+
+##  Crowded Table 
+
+date: 2024-02-22, updated: 2024-02-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/crowded-table">https://kottke.org/24/02/crowded-table</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/crowded-table">Save to Pocket</a>
+</span>
+
+---
+
+## A New Agenda for Low-Dimensional Topology
+
+date: 2024-02-22, from: Quanta Magazine
+
+This past October, dozens of mathematicians gathered in Pasadena to create the third version of “Kirby’s list” — a compendium of the most important unsolved problems in the field.            <p>The post <a href="https://www.quantamagazine.org/a-new-agenda-for-low-dimensional-topology-20240222/" target="_blank">A New Agenda for Low-Dimensional Topology</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/a-new-agenda-for-low-dimensional-topology-20240222/">https://www.quantamagazine.org/a-new-agenda-for-low-dimensional-topology-20240222/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/a-new-agenda-for-low-dimensional-topology-20240222/">Save to Pocket</a>
+</span>
+
+---
+
+## Pose Bowl: Spacecraft Detection and Pose Estimation Challenge
+
+date: 2024-02-22, from: NASA breaking news
+
+In the Pose Bowl: Spacecraft Detection and Pose Estimation Challenge, solvers will help NASA develop algorithms that could be run on inspector (chaser) spacecraft. There are two tracks, with different associated prizes. In the Detection Track, solvers develop object detection solutions that identify the boundaries of spacecraft in an image. In the Pose Estimation Track, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/pose-bowl-spacecraft-detection-estimation-challenge/">https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/pose-bowl-spacecraft-detection-estimation-challenge/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/pose-bowl-spacecraft-detection-estimation-challenge/">Save to Pocket</a>
+</span>
+
+---
+
+##  My Mother Got on a Bike. It Changed Her Life. &#8220;I rode... 
+
+date: 2024-02-22, updated: 2024-02-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044030-my-mother-got-on-a">https://kottke.org/24/02/0044030-my-mother-got-on-a</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044030-my-mother-got-on-a">Save to Pocket</a>
+</span>
+
+---
+
+## I don't care if you're at a BigCo
+
+date: 2024-02-22, from: Dave Winer's Scripting News
+
+<p>I don't care if you work at a big company or are an individual developer. </p>
+<p>I care if you can make a contribution toward interop on the open web.  </p>
+<p>I've found over the years that sometimes devs at bigco's can help enormously (eg microsoft, netscape, automattic) but usually they are harmful (apple, ibm, sun, google stand out as the worst). sometimes companies play both roles (apple).</p>
+<p>But i also know that bigco's because they are big, have lots of different ideas how the world should work. And that can help.</p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/22/151240.html?title=iDontCareIfYoureAtABigco">http://scripting.com/2024/02/22/151240.html?title=iDontCareIfYoureAtABigco</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/22/151240.html?title=iDontCareIfYoureAtABigco">Save to Pocket</a>
+</span>
+
+---
+
+## Twitter's big competitive advantage
+
+date: 2024-02-22, from: Dave Winer's Scripting News
+
+<p><i>I wrote this <a href="https://twitter.com/davewiner/status/1760681139407360255">on Twitter</a> this morning. Re-posted here with minimal editing. The fact that I could write it on Twitter was the point.</i></p>
+<p>Twitter has one advantage over all the other social webs. no character limit. </p>
+<p>I started typing a post on Threads which has a large character limit compared to the others, but ran out of space and decided to write it over here in twitter instead. </p>
+<p>yes they charge me $8 a month for it, but it's worth it. </p>
+<p>we have to get used to the idea of paying for value, it's how we avoid the messes of the last 20 years. esp if we can make sure we retain copies of everything we write (guaranteed by using our own writing tools, btw) which is another requirement for the new blogosphere. </p>
+<p>btw, i'm having a blast these days. it's like tinkerbell in peter pan. all the open web needed was people to believe it exists for it to come (back) into existence.</p>
+<p>still diggin. </p>
+<p>ps: i also like they have simple styling, but where are the freaking links, twitter. do I have to pay another $8 to get those??</p>
+<p>pps: the worst character limit is bluesky, i can't write anything there. too bad, it's a really nice system otherwise.</p>
+<p>ppps: it would be nice to give something like this a title so you don't have to read pgf after pgf to try to figure out where i'm going and if you're interested. so i gave it a title, using markdown syntax. maybe they could just support markdown. hmmm.</p>
+<p>pppps: i asked chatgpt to draw an illustration. that light in the middle of the room is the open social web. it's a vision of self-reliance, empowerment and cooperation. I asked for the light to be <a href="https://en.wikipedia.org/wiki/Tinker_Bell">tinkerbell</a>, but i guess they were concerned the image might belong to someone. creeping shitification. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/02/22/tinkerbellAndKids.png"></center>This is not a picture of Tinkerbell.</div></p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/22/151130.html?title=twittersBigCompetitiveAdvantage">http://scripting.com/2024/02/22/151130.html?title=twittersBigCompetitiveAdvantage</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/22/151130.html?title=twittersBigCompetitiveAdvantage">Save to Pocket</a>
+</span>
+
+---
+
+## NASA to Continue Testing for New Artemis Moon Rocket Engines
+
+date: 2024-02-22, from: NASA breaking news
+
+NASA will conduct an RS-25 hot fire Friday, Feb. 23, moving one step closer to production of new engines that will help power the agency’s SLS (Space Launch System) rocket on future Artemis missions to the Moon and beyond. Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, are set to begin the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/stennis/nasa-to-continue-testing-for-new-artemis-moon-rocket-engines/">https://www.nasa.gov/centers-and-facilities/stennis/nasa-to-continue-testing-for-new-artemis-moon-rocket-engines/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/stennis/nasa-to-continue-testing-for-new-artemis-moon-rocket-engines/">Save to Pocket</a>
+</span>
+
+---
+
+##  A list of tautological place names, including Mississippi River (Big River River),... 
+
+date: 2024-02-22, updated: 2024-02-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044031-a-list-of-tautological-pl">https://kottke.org/24/02/0044031-a-list-of-tautological-pl</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044031-a-list-of-tautological-pl">Save to Pocket</a>
+</span>
+
+---
+
+## Hardened Gentoo with Full Disk Encryption on the Star Labs StarBook Mk VI
+
+date: 2024-02-22, from: mrusme blog
+
+A brief guide on installing Gentoo Linux with Full Disk Encryption and the
+*hardened* profile, with SELinux, on the Star Labs StarBook Mk VI.
+
+<span class="feed-item-link">
+<a href="https://xn--gckvb8fzb.com/hardened-gentoo-with-full-disk-encryption-on-the-star-labs-starbook-mk-vi/">https://xn--gckvb8fzb.com/hardened-gentoo-with-full-disk-encryption-on-the-star-labs-starbook-mk-vi/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://xn--gckvb8fzb.com/hardened-gentoo-with-full-disk-encryption-on-the-star-labs-starbook-mk-vi/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-22, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/22/youngLennon.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Another Beatles post. Even though they are, for me, the biggest band ever, I've never been able to see the connection to the John Lennon of the early Beatles, and the long-haired bespectacled wild John Lennon that came later. I don't <a href="https://www.google.com/search?sca_esv=a2fe021a8e3ee580&rlz=1C5CHFA_enUS743US747&sxsrf=ACQVn09xZcYYO14qGpQ6FPXz7LE5WADxEw:1708610594208&q=john+lennon&tbm=isch&source=lnms&prmd=ivnhsmbtz&sa=X&ved=2ahUKEwjPwJu8jr-EAxVoGtAFHWOfBiQQ0pQJegQIDRAB&biw=1511&bih=1029&dpr=2">see them</a> as the same person. Not the other Beatles, they all make sense to me. Sometimes they have longer hair or a beard or whatever, but it's still the same face as before. Also I have trouble figuring out which Beatle is singing sometimes. On some songs it's perfectly obvious, others I have no clue. For example Norwegian Wood, Strawberry Fields and Lucy in the Sky, that's John of course. Right? Hey Jude, that's clearly Paul, as is Let it Be, Yesterday. But for years I didn't know who sang Lady Madonna. Martha My Dear? Paul could sing so many different kinds of music. John, not so much. I guess. I'm still pretty unsure.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/22.html#a135818">http://scripting.com/2024/02/22.html#a135818</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/22.html#a135818">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Center Boosted YF-12 Supersonic Engine Research
+
+date: 2024-02-22, from: NASA breaking news
+
+Supersonic flight became a reality in October 1947, when the Bell X-1 rocket plane broke the sound barrier. NASA’s Lewis Research Center in Cleveland (now, NASA Glenn), which had served as the agency’s aeropropulsion leader since it was established in the 1940s, subsequently helped NASA advance the technology needed to make longer supersonic flights possible. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/glenn/nasa-center-boosted-yf-12-supersonic-engine-research/">https://www.nasa.gov/centers-and-facilities/glenn/nasa-center-boosted-yf-12-supersonic-engine-research/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/glenn/nasa-center-boosted-yf-12-supersonic-engine-research/">Save to Pocket</a>
+</span>
+
+---
+
+## Ubuntu, Kubuntu, and openSUSE to get better installation
+
+date: 2024-02-22, updated: 2024-02-22, from: Liam Proven's articles at the Register
+
+<h4>Fedora, though, won't – until at least the version after next</h4>
+      <p>Installation remains a pain point for many Linux distros, but everyone is working hard on it. Some of those efforts are bearing fruit… but not all of them.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/22/distro_installer_news_roundup/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/22/distro_installer_news_roundup/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/22/distro_installer_news_roundup/">Save to Pocket</a>
+</span>
+
+---
+
+## Bringing dinosaurs back to life, digitally | HackSpace #76
+
+date: 2024-02-22, from: Raspberry Pi News (.com)
+
+<p>Tom Ranson is a 3D visualisation specialist at the Natural History Museum in London who is bringing dinosaurs back to life, digitally.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/bringing-dinosaurs-back-to-life-digitally-hackspace-76/">Bringing dinosaurs back to life, digitally | HackSpace #76</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/bringing-dinosaurs-back-to-life-digitally-hackspace-76/">https://www.raspberrypi.com/news/bringing-dinosaurs-back-to-life-digitally-hackspace-76/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/bringing-dinosaurs-back-to-life-digitally-hackspace-76/">Save to Pocket</a>
+</span>
+
+---
+
+## Do heat pumps work in the cold?
+
+date: 2024-02-22, from: Hannah Richie at Substack
+
+Efficiency declines with falling temperatures, but they still perform well in colder climates.
+
+<span class="feed-item-link">
+<a href="https://www.sustainabilitybynumbers.com/p/heat-pumps-cold">https://www.sustainabilitybynumbers.com/p/heat-pumps-cold</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.sustainabilitybynumbers.com/p/heat-pumps-cold">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-22, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@davew/post/C3ojf4gMDwe">Threads</a> is like a new airport, like Denver's airport was a few years ago, and Twitter feels like the old <a href="https://en.wikipedia.org/wiki/LaGuardia_Airport">LaGuardia</a>. Not sure what Mastodon feels like. I'll have to think about that. Maybe the airport in New Orleans which is called <a href="https://en.wikipedia.org/wiki/Louis_Armstrong_New_Orleans_International_Airport">Armstrong Field</a> now, IIRC. It used to be called <a href="https://en.wikipedia.org/wiki/Louis_Armstrong_New_Orleans_International_Airport#:~:text=The%20airport%20was%20originally%20named,Airport%20retained%20the%20code%20NEW.">MSY</a> and it still is actually, even though the name changed. Power of standards.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/21.html#a030539">http://scripting.com/2024/02/21.html#a030539</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/21.html#a030539">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-22, from: Dave Winer's Scripting News)
+
+<a href="https://www.youtube.com/watch?v=8Zeyej5bfZE">Today's song</a>: "Old enough to know better."
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/21.html#a030328">http://scripting.com/2024/02/21.html#a030328</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/21.html#a030328">Save to Pocket</a>
+</span>
+
+---
+
+## Are there any gutsy NYT op-ed columnists?
+
+date: 2024-02-22, from: Dave Winer's Scripting News
+
+<p>Certainly <i>one</i> of the NYT columnists must have noticed that the management is playing a dangerous game with our election.</p>
+<p>When are they going to write a column raising the question of how non-transparent the process is, and how dangerous it has become. </p>
+<p>Might take a bit of courage to do that, and being willing to put your career on the line, for all of us.</p>
+<p>Just asking the question, even if they fired you, seems as big an issue as the question raised by the special prosecutor re Biden's age?</p>
+<p>I've been a columnist for a somewhat major publication myself, and I promise you, if I were witnessing what's going on at the NYT, I'd submit the column, and if they didn't run it, I'd offer it to their competitors, and if they wouldn't take it, I'd run it publicly on a blog, and say that they wouldn't run it. </p>
+<p>You can't really witness something like this without speaking up. They gave you the platform, you should use it.</p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/21/024211.html?title=areThereAnyGutsyNytOpedColumnists">http://scripting.com/2024/02/21/024211.html?title=areThereAnyGutsyNytOpedColumnists</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/21/024211.html?title=areThereAnyGutsyNytOpedColumnists">Save to Pocket</a>
+</span>
+
+---
+
+## Git goes native
+
+date: 2024-02-22, from: RiscOS Open
+
+<p>First demonstrated in the February 2023 <a href="https://www.riscository.com/2022/coding-on-risc-os-initial-fireside-chat/">developer fireside chat</a>, over the last nine months, a select band of volunteers have been providing feedback on the previews of the Git client for <span class="caps">RISC</span> OS, watching it gain more and more functionality at every step. Today we&#8217;re able to make that a wider release, as many of the most commonly used operations are supported.</p>
+
+<span class="feed-item-link">
+<a href="http://www.riscosopen.org/news/articles/2024/02/22/git-goes-native">http://www.riscosopen.org/news/articles/2024/02/22/git-goes-native</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.riscosopen.org/news/articles/2024/02/22/git-goes-native">Save to Pocket</a>
+</span>
+
+---
+
+## The Marshall Star for February 21, 2024
+
+date: 2024-02-22, from: NASA breaking news
+
+Marshall Center Director Holds First Media Event By Jessica Barnett NASA Marshall Space Flight Center’s newest center director, Joseph Pelfrey, took to the podium Feb. 15 in the lobby of Building 4221 to host his first media event since his appointment to the position. Pelfrey, who had been serving as acting center director since August [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-february-21-2024/">https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-february-21-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-february-21-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## 
+  Webinar recording: The GNU Name System and the road to publishing an RFC
+
+
+date: 2024-02-22, updated: 2024-02-22, from: nlnet feed
+
+
+
+<span class="feed-item-link">
+<a href="https://nlnet.nl/news/2024/20240222-webinar-GNS.html">https://nlnet.nl/news/2024/20240222-webinar-GNS.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://nlnet.nl/news/2024/20240222-webinar-GNS.html">Save to Pocket</a>
+</span>
+
+---
+
+## FOSDEM Talks: Running NLnet on NixOS &amp; Hexmas
+
+date: 2024-02-22, updated: 2024-02-22, from: nlnet feed
+
+
+
+<span class="feed-item-link">
+<a href="https://nlnet.nl/news/2024/20240222-FOSDEM-talks.html">https://nlnet.nl/news/2024/20240222-FOSDEM-talks.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://nlnet.nl/news/2024/20240222-FOSDEM-talks.html">Save to Pocket</a>
+</span>
+
+---
+
+## Gathering Structures
+
+date: 2024-02-22, from: Maggie Appleton blog
+
+
+
+<span class="feed-item-link">
+<a href="https://maggieappleton.com/gathering-structures">https://maggieappleton.com/gathering-structures</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://maggieappleton.com/gathering-structures">Save to Pocket</a>
+</span>
+
+---
+
+##  Finnish Bluegrass Band Covers AC/DC&#8217;s Thunderstruck 
+
+date: 2024-02-21, updated: 2024-02-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/finnish-bluegrass-band-covers-acdcs-thunderstruck">https://kottke.org/24/02/finnish-bluegrass-band-covers-acdcs-thunderstruck</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/finnish-bluegrass-band-covers-acdcs-thunderstruck">Save to Pocket</a>
+</span>
+
+---
+
+## Ripples
+
+date: 2024-02-21, from: Doc Searls (at Harvard), New Old Blog
+
+The song &#8220;Ripple,&#8221; by the Grateful Dead, never fails to move me. Here&#8217;s a live performance by the Dead, in 1980, on YouTube. My favorite version, however, is this one by KPIG&#8217;s Fine Swine Orchestra, recorded by Santa Cruz musicians sheltering in place during the pandemic. That&#8217;s a screen grab, above. I am pretty sure [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://doc.searls.com/2024/02/21/ripples/">https://doc.searls.com/2024/02/21/ripples/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://doc.searls.com/2024/02/21/ripples/">Save to Pocket</a>
+</span>
+
+---
+
+## Southwest show news summary
+
+date: 2024-02-21, from: RiscOS Story
+
+It&#8217;s the final countdown round up, dododoo-doooo, dodo-do-do-doooo… As anyone who is anyone should know, the 2024 RISC OS Southwest Show is taking place in just a few days time. If anyone is somehow not in the know about this, I can only assume they&#8217;re either not RISC OS users, or they&#8217;ve only started using it and reading this site in the last few days. For their benefit, then, the show will take place on Saturday, 24th February, at: The Arnos Manor Hotel,470 Bath Road,Arnos Vale,Bristol,BS4 3HQ. The venue is&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.riscository.com/2024/southwest-show-news-summary/">https://www.riscository.com/2024/southwest-show-news-summary/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.riscository.com/2024/southwest-show-news-summary/">Save to Pocket</a>
+</span>
+
+---
+
+## Feed cleaning
+
+date: 2024-02-21, from: Dave Winer's Scripting News
+
+<p>I'm doing a feed cleanup, unsubbing from broken feeds, and ones that haven't updated since last summer. </p>
+<p>There are some people and orgs whose feeds no longer update who I miss. I'm going to call them out here. If your name appears here that means at least one person misses your blogging. Do with that as you may. However if you start blogging, I would be very upset if you didn't let me know the URL of your site or feed. </p>
+<ul>
+<li>David Weinberger</li>
+<li>Douglas Rushkoff</li>
+<li>Eli Pariser</li>
+<li>Farhad Manjoo</li>
+<li>Fivethirtyeight</li>
+<li>Fred Wilson</li>
+<li>Heather Cox Richardson (podcast, she may no longer have one)</li>
+<li>Jeff Jarvis</li>
+<li>Joel Spolsky</li>
+<li>Mother Jones podcast</li>
+</ul>
+<p>NYT sports feeds all appear to be gone, I think this is probably because they've stopped covering sports?</p>
+<ul>
+<li>NYT > Sports > College Basketball</li>
+<li>NYT > Sports > College Football</li>
+<li>NYT > Sports > Tennis</li>
+</ul>
+<p>Blogs I subscribed to for sentimental reasons</p>
+<ul>
+<li>One of my <a href="http://bullmancuso.com/blog/rss.xml">RSS test feeds</a> from 2001. </li>
+</ul>
+<p>Existential questions</p>
+<ul>
+<li>Does <a href="http://openrss.org">openrss.org</a> have a feed? It seems like it should. :-)</li>
+</ul>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/21/224620.html?title=feedCleaning">http://scripting.com/2024/02/21/224620.html?title=feedCleaning</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/21/224620.html?title=feedCleaning">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Invites Media to First Astronaut Launch Aboard Boeing’s Starliner
+
+date: 2024-02-21, from: NASA breaking news
+
+Editor’s note: This advisory was updated Feb. 22, 2024, to include a target launch date. As part of NASA’s Commercial Crew Program, the agency opened media accreditation for the launch of NASA’s Boeing Crew Flight Test to the International Space Station. The mission will be the company’s first Starliner spacecraft mission with crew. NASA astronauts [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-invites-media-to-first-astronaut-launch-aboard-boeings-starliner/">https://www.nasa.gov/news-release/nasa-invites-media-to-first-astronaut-launch-aboard-boeings-starliner/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-invites-media-to-first-astronaut-launch-aboard-boeings-starliner/">Save to Pocket</a>
+</span>
+
+---
+
+## Has Google gone too woke? Why even the biggest models still struggle with guardrails
+
+date: 2024-02-21, from: Gary Marcus blog
+
+And why it is unlikely to get much better anytime soon
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/has-google-gone-too-woke-why-even">https://garymarcus.substack.com/p/has-google-gone-too-woke-why-even</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/has-google-gone-too-woke-why-even">Save to Pocket</a>
+</span>
+
+---
+
+## On Blogs
+
+date: 2024-02-21, from: Doc Searls (at Harvard), New Old Blog
+
+Thoughts I jotted down on Mastodon*: 1) Blogs are newsletters that don&#8217;t require subscriptions. 2) Blogrolls are lists of blogs. 3) Both require the lowest possible cognitive and economic overhead. 4) That&#8217;s why they are coming back. I know, they never left. But you get my point. *I just learned that my Mastodon account is [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://doc.searls.com/2024/02/21/on-blogs/">https://doc.searls.com/2024/02/21/on-blogs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://doc.searls.com/2024/02/21/on-blogs/">Save to Pocket</a>
+</span>
+
+---
+
+## Experience the Launch of NASA’s Boeing Crew Flight Test Mission
+
+date: 2024-02-21, from: NASA breaking news
+
+Digital content creators are invited to register to attend the launch of NASA’s Boeing Crew Flight Test (CFT) mission to the International Space Station. The mission will be the first crewed launch of Boeing’s Starliner spacecraft as part of NASA’s Commercial Crew Program. Starliner will launch atop a United Launch Alliance Atlas V rocket, carrying [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/station/experience-the-launch-of-nasas-boeing-crew-flight-test-mission/">https://www.nasa.gov/missions/station/experience-the-launch-of-nasas-boeing-crew-flight-test-mission/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/station/experience-the-launch-of-nasas-boeing-crew-flight-test-mission/">Save to Pocket</a>
+</span>
+
+---
+
+## Studying Arctic Ice
+
+date: 2024-02-21, from: NASA breaking news
+
+In this image from July 12, 2011, crew from the U.S. Coast Guard Cutter Healy retrieve a supply canister dropped by parachute during the Impacts of Climate on Ecosystems and Chemistry of the Arctic Pacific Environment, or ICESCAPE, mission. ICESCAPE was a multi-year project sponsored by NASA to determine the impact of climate change upon [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/studying-arctic-ice/">https://www.nasa.gov/image-article/studying-arctic-ice/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/studying-arctic-ice/">Save to Pocket</a>
+</span>
+
+---
+
+## iMessage With PQ3
+
+date: 2024-02-21, from: Michael Tsai
+
+Apple (via Ivan Krsti&#x107;, because there is no RSS feed, Hacker News, MacRumors): Today we are announcing the most significant cryptographic security upgrade in iMessage history with the introduction of PQ3, a groundbreaking post-quantum cryptographic protocol that advances the state of the art of end-to-end secure messaging. With compromise-resilient encryption and extensive defenses against even [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/21/imessage-with-pq3/">https://mjtsai.com/blog/2024/02/21/imessage-with-pq3/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/21/imessage-with-pq3/">Save to Pocket</a>
+</span>
+
+---
+
+## Signal Usernames
+
+date: 2024-02-21, from: Michael Tsai
+
+Randall Sarafa (Mastodon, Hacker News): If you use Signal, your phone number will no longer be visible to everyone you chat with by default. [&#8230;] If you don&#8217;t want to hand out your phone number to chat with someone on Signal, you can now create a unique username that you can use instead (you will [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/21/signal-usernames/">https://mjtsai.com/blog/2024/02/21/signal-usernames/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/21/signal-usernames/">Save to Pocket</a>
+</span>
+
+---
+
+## Kaleidoscope 4.3.1
+
+date: 2024-02-21, from: Michael Tsai
+
+Florian Albrecht: Now I have several pieces of text in Kaleidoscope, each represented by an entry in the File Shelf. In this case, we can see that &#8220;files&#8221; in File Shelf can also be temporary clipboard content. Further on in this post, we will also see that they can be the results of Unix pipes [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/21/kaleidoscope-4-3-1/">https://mjtsai.com/blog/2024/02/21/kaleidoscope-4-3-1/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/21/kaleidoscope-4-3-1/">Save to Pocket</a>
+</span>
+
+---
+
+## VirnetX v. Apple Over Because VPN Patents Invalidated
+
+date: 2024-02-21, from: Michael Tsai
+
+Juli Clover (2023): Apple has been embroiled in a patent dispute with VirnetX for well over a decade, and the company today won an appeals verdict that could ultimately save it from having to pay VirnetX $502.8 million in patent infringement fees.[&#8230;]Apple in 2020 was ordered to pay VirnetX $503 million for infringing on VPN [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/21/virnetx-v-apple-over-because-vpn-patents-invalidated/">https://mjtsai.com/blog/2024/02/21/virnetx-v-apple-over-because-vpn-patents-invalidated/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/21/virnetx-v-apple-over-because-vpn-patents-invalidated/">Save to Pocket</a>
+</span>
+
+---
+
+##  The Fledgling Movement to Rewild Golf Courses 
+
+date: 2024-02-21, updated: 2024-02-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/the-fledgling-movement-to-rewild-golf-courses">https://kottke.org/24/02/the-fledgling-movement-to-rewild-golf-courses</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/the-fledgling-movement-to-rewild-golf-courses">Save to Pocket</a>
+</span>
+
+---
+
+## Press Forward adds 11 new local chapters
+
+date: 2024-02-21, from: Nieman Journalism Lab
+
+When the funding coalition Press Forward announced its first six local chapters last November, the MacArthur Foundation said funders wanted &#8220;as many communities as possible to join the movement.&#8221; Now, 11 more communities of different scales have come onboard, bringing the total number of local chapters to 17 scattered throughout the country. On Wednesday, Press...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/press-forward-adds-11-new-local-chapters/">https://www.niemanlab.org/2024/02/press-forward-adds-11-new-local-chapters/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/press-forward-adds-11-new-local-chapters/">Save to Pocket</a>
+</span>
+
+---
+
+##  “Was my only option to sweat myself awake every night & hope... 
+
+date: 2024-02-21, updated: 2024-02-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044029-was-my-only-option-to">https://kottke.org/24/02/0044029-was-my-only-option-to</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044029-was-my-only-option-to">Save to Pocket</a>
+</span>
+
+---
+
+##  Man in Backyard Talks to Orbiting Astronaut Using Homemade Antenna 
+
+date: 2024-02-21, updated: 2024-02-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/man-in-backyard-talks-to-orbiting-astronaut-using-homemade-antenna">https://kottke.org/24/02/man-in-backyard-talks-to-orbiting-astronaut-using-homemade-antenna</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/man-in-backyard-talks-to-orbiting-astronaut-using-homemade-antenna">Save to Pocket</a>
+</span>
+
+---
+
+## A new study looks at the positive things that can happen when journalism and comedy intersect
+
+date: 2024-02-21, from: Nieman Journalism Lab
+
+Nine years after leaving the show, Jon Stewart recently returned to guest-host &#8220;The Daily Show&#8221; through the 2024 presidential election. &#8220;He&#8217;ll help us all make sense of the insanity and division roiling the country as we enter the election season,” Chris McCarthy, the CEO of Showtime/MTV Entertainment Studios, said in an announcement in January. Stewart...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/a-new-study-looks-at-the-positive-things-that-can-happen-when-journalism-and-comedy-intersect/">https://www.niemanlab.org/2024/02/a-new-study-looks-at-the-positive-things-that-can-happen-when-journalism-and-comedy-intersect/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/a-new-study-looks-at-the-positive-things-that-can-happen-when-journalism-and-comedy-intersect/">Save to Pocket</a>
+</span>
+
+---
+
+##  How NPR&#8217;s Tiny Desk Concerts became a viral phenomenon. &#8220;People strategize and... 
+
+date: 2024-02-21, updated: 2024-02-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044025-how-nprs-tiny-desk-concer">https://kottke.org/24/02/0044025-how-nprs-tiny-desk-concer</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044025-how-nprs-tiny-desk-concer">Save to Pocket</a>
+</span>
+
+---
+
+## Stellar Beads on a String
+
+date: 2024-02-21, from: NASA breaking news
+
+Astronomers have discovered one of the most powerful eruptions from a&#160;black hole&#160;ever recorded in the system known as SDSS J1531+3414 (SDSS J1531 for short). As explained in&#160;our press release, this mega-explosion billions of years ago may help explain the formation of a striking pattern of&#160;star clusters&#160;around two massive&#160;galaxies, resembling “beads on a string.” SDSS J1531 [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/stellar-beads-on-a-string/">https://www.nasa.gov/image-article/stellar-beads-on-a-string/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/stellar-beads-on-a-string/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Astronomer Sees Power in Community, Works to Build More
+
+date: 2024-02-21, from: NASA breaking news
+
+Science is often portrayed as a solitary affair, where discoveries are made by lone geniuses toiling in isolation. But Dr. Natasha Batalha, an astronomer at NASA’s Ames Research Center in California’s Silicon Valley, says solving problems with the people around her is one of the best parts of her job. &#160;“Oh, man, working with people [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/nasa-astronomer-sees-power-in-community-works-to-build-more/">https://www.nasa.gov/general/nasa-astronomer-sees-power-in-community-works-to-build-more/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/nasa-astronomer-sees-power-in-community-works-to-build-more/">Save to Pocket</a>
+</span>
+
+---
+
+##  I thought this short, propulsive essay about drinking was going to end... 
+
+date: 2024-02-21, updated: 2024-02-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044026-i-thought-this-short-prop">https://kottke.org/24/02/0044026-i-thought-this-short-prop</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044026-i-thought-this-short-prop">Save to Pocket</a>
+</span>
+
+---
+
+## Ride the Wave of Radio Astronomy During the Solar Eclipse
+
+date: 2024-02-21, from: NASA breaking news
+
+Students and science enthusiasts are invited to catch a real-time look at radio astronomy as scientists explore magnetic hotspots on the Sun during a live, virtual solar eclipse event on April 8, 2024. A massive, 34-meter telescope once used by NASA’s Deep Space Network to communicate with spacecraft will point towards the Sun during the […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/solar-system/skywatching/ride-the-wave-of-radio-astronomy-during-the-solar-eclipse/">https://science.nasa.gov/solar-system/skywatching/ride-the-wave-of-radio-astronomy-during-the-solar-eclipse/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/solar-system/skywatching/ride-the-wave-of-radio-astronomy-during-the-solar-eclipse/">Save to Pocket</a>
+</span>
+
+---
+
+##  The Bias of Perceived Independence 
+
+date: 2024-02-21, updated: 2024-02-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/the-bias-of-perceived-independence">https://kottke.org/24/02/the-bias-of-perceived-independence</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/the-bias-of-perceived-independence">Save to Pocket</a>
+</span>
+
+---
+
+## Water cooling is overkill for Pi 5
+
+date: 2024-02-21, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Water cooling is overkill for Pi 5</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><strong>tl;dr</strong>: 52Pi and Seeed Studio's water cooling solution for the Raspberry Pi 5 can be fun, and works better than any other solution—but at a <em>steep</em> price, and with a number of annoying quirks.</p>
+
+<p><img class="insert-image" width="700" height="auto" alt="Ice Pump water cooling block installed on Raspberry Pi 5" src="https://www.jeffgeerling.com/sites/default/files/images/ice-pump-installed-pi-5-hero.jpg"></p>
+
+<p>A few months ago, 52Pi reached out and asked if they could send a new water cooling kit they were working on for the Raspberry Pi 5. At the time, the hope was we could figure out a way to get very high overclock with adequate cooling.</p>
+
+<p>Unfortunately—for reasons I'll explore more soon—the Pi 5 can't overclock beyond 3.0 GHz (it's not physically possible). Some of why is explained in my blog post <a href="https://www.jeffgeerling.com/blog/2023/overclocking-and-underclocking-raspberry-pi-5">Overclocking and <em>Underclocking</em> the Raspberry Pi 5</a>.</p>
+
+<p>But water cooling is still fun, and the product is in production now, so I figured I'd still give it a fair shot, and see if I thought it might be worth buying for certain niche use cases.</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-02-21T10:16:42-06:00" title="Wednesday, February 21, 2024 - 10:16" class="datetime">February 21, 2024</time>
+</span>
+
+<span class="feed-item-link">
+<a href="https://www.jeffgeerling.com/blog/2024/water-cooling-overkill-pi-5">https://www.jeffgeerling.com/blog/2024/water-cooling-overkill-pi-5</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jeffgeerling.com/blog/2024/water-cooling-overkill-pi-5">Save to Pocket</a>
+</span>
+
+---
+
+## Mini Manifesto
+
+date: 2024-02-21, updated: 2024-02-21, from: Robin Rendle Essays
+
+
+
+<span class="feed-item-link">
+<a href="https://robinrendle.com/notes/mini-manifesto/">https://robinrendle.com/notes/mini-manifesto/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robinrendle.com/notes/mini-manifesto/">Save to Pocket</a>
+</span>
+
+---
+
+## Book Talk: The Secret Life of Data
+
+date: 2024-02-21, from: Internet Archive Blog
+
+How data surveillance, digital forensics, and generative AI pose new long-term threats and opportunities—and how we can use them to make better decisions in the face of technological uncertainty. Book [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.archive.org/2024/02/21/book-talk-the-secret-life-of-data/">https://blog.archive.org/2024/02/21/book-talk-the-secret-life-of-data/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.archive.org/2024/02/21/book-talk-the-secret-life-of-data/">Save to Pocket</a>
+</span>
+
+---
+
+## Webhooks suck, but here are alternatives
+
+date: 2024-02-21, updated: 2024-02-21, from: Deno blog
+
+Webhooks, originally proposed as a way to consume asynchronous feeds, became the one-size-fits-all solution for integrating cloud software. Here’s why we think there’s a better solution.
+
+
+<span class="feed-item-link">
+<a href="https://deno.com/blog/webhooks-suck">https://deno.com/blog/webhooks-suck</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://deno.com/blog/webhooks-suck">Save to Pocket</a>
+</span>
+
+---
+
+##  Could we have had mRNA vaccines earlier? The quick success of Operation... 
+
+date: 2024-02-21, updated: 2024-02-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044020-could-we-have-had-mrna">https://kottke.org/24/02/0044020-could-we-have-had-mrna</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044020-could-we-have-had-mrna">Save to Pocket</a>
+</span>
+
+---
+
+## A Multitalented Scientist Seeks the Origins of Multicellularity
+
+date: 2024-02-21, from: Quanta Magazine
+
+The pathbreaking geneticist Cassandra Extavour pursues the secrets of multicellular life while balancing careers in both science and singing.             <p>The post <a href="https://www.quantamagazine.org/a-multitalented-scientist-seeks-the-origins-of-multicellularity-20240221/" target="_blank">A Multitalented Scientist Seeks the Origins of Multicellularity</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/a-multitalented-scientist-seeks-the-origins-of-multicellularity-20240221/">https://www.quantamagazine.org/a-multitalented-scientist-seeks-the-origins-of-multicellularity-20240221/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/a-multitalented-scientist-seeks-the-origins-of-multicellularity-20240221/">Save to Pocket</a>
+</span>
+
+---
+
+##  You don&#8217;t have to be an expert to get a lot out... 
+
+date: 2024-02-21, updated: 2024-02-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044011-you-dont-have-to-be">https://kottke.org/24/02/0044011-you-dont-have-to-be</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044011-you-dont-have-to-be">Save to Pocket</a>
+</span>
+
+---
+
+## The SunOS JDK builder
+
+date: 2024-02-21, from: OS News
+
+This is the (work in progress) SunOS jdk builder. The aim is to attempt to download, patch, and build any relevant jdk tag, and do so for SPARC and x86, and for illumos and Solaris 11.4. It has currently been spot-tested on current illumos/x86 (specifically Tribblix m32). It is dependent on the jdk-sunos-patches repository, which holds all the patches for each tag. ↫ Peter Tribble Built by Peter Tribble, the same person behind Tribblix, and he&#8217;s published a blog post with more details about this project. I&#8217;ve definitely been seeing an uptick recently in interest in Solaris, which is great to see. It&#8217;s gotten me interested in installing Tribblix on my dual-Xeon workstation to see just how much I&#8217;ve been missing since last using Solaris like 15-20 years ago.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138628/the-sunos-jdk-builder/">https://www.osnews.com/story/138628/the-sunos-jdk-builder/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138628/the-sunos-jdk-builder/">Save to Pocket</a>
+</span>
+
+---
+
+## Advent of Computing: Episode 126 - IBM Compatible (No, Not Those)
+
+date: 2024-02-21, from: Tilde.news
+
+<p><a href="https://tilde.news/s/egrqbn/advent_computing_episode_126_ibm">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://adventofcomputing.libsyn.com/episode-126-ibm-compatible-no-not-those">https://adventofcomputing.libsyn.com/episode-126-ibm-compatible-no-not-those</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-126-ibm-compatible-no-not-those">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-21, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2019/12/23/you.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Consider this quote from a <a href="https://wapo.st/48uLvKF">WP article</a> about a court ruling on abortion in Alabama. “Women who actually know what happened, feel under attack and almost powerless.” When historians look back on this election, they will be amazed that all the attention wasn't focused on reproductive rights, esp when 1. It mattered so much to virtually every American, in very real non-abstract ways, and 2. There was such a dramatic difference between the two parties and candidates on this issue. I think I understand why journalism can't get there. Because they would have to turn the agenda over to the people, and give up a power they have and enjoy, even if that power has repeatedly sent us wildly in the wrong direction, focusing on things that don't matter as much as the gut-wrenching decision Americans have to make this year. Do we want to let Republicans enslave women, 1/2 half the populace, or do we want to return to the way things were before Dobbs. I don't have to explain. Very few people on the fence here. What we need are people directly affected by this situation, women of childbearing age, and let them speak, over and over, every day, about all the ways their lives are turned upside down by the direction the Repubs are taking us. No longer <i>trying</i> to take us. There isn't much to argue about here, it's fairly black and white and it is a real division, not one of the bullshit devisions the Repubs have been able to trick the journalists to focus on.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/21.html#a141513">http://scripting.com/2024/02/21.html#a141513</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/21.html#a141513">Save to Pocket</a>
+</span>
+
+---
+
+## Tidal Kites
+
+date: 2024-02-21, updated: 2024-02-21, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/02/21/tidal-kites/">https://onefoottsunami.com/2024/02/21/tidal-kites/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/02/21/tidal-kites/">Save to Pocket</a>
+</span>
+
+---
+
+## GNOME 46 beta has more tweaks than a coffee shop
+
+date: 2024-02-21, updated: 2024-02-21, from: Liam Proven's articles at the Register
+
+<h4>The future desktop of Ubuntu 24.04 and Fedora 40 is nearly ready</h4>
+      <p>GNOME 46 has entered beta testing, and is expected to be released in just over a month.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/21/gnome_46_beta_released/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/21/gnome_46_beta_released/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/21/gnome_46_beta_released/">Save to Pocket</a>
+</span>
+
+---
+
+## The successor to Research Unix was Plan 9 from Bell Labs
+
+date: 2024-02-21, updated: 2024-02-21, from: Liam Proven's articles at the Register
+
+<h4><span class="label">FOSDEM 2024</span> A better UNIX than UNIX isn't a UNIX at all</h4>
+      <p>To move forwards, you have to let go of the past. In the 1990s that meant incompatibility, but it no longer has to.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/21/successor_to_unix_plan_9/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/21/successor_to_unix_plan_9/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/21/successor_to_unix_plan_9/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024-02-19 Hippeastrum season
+
+date: 2024-02-21, from: Alex Schroeder's Blog
+
+<h1>2024-02-19 Hippeastrum season</h1>
+
+<p>It‘s the season!</p>
+
+<p><img loading="lazy" src="2024-02-19-hippeastrum-1.jpg" alt="" />
+<img loading="lazy" src="2024-02-19-hippeastrum-2.jpg" alt="" />
+<img loading="lazy" src="2024-02-19-hippeastrum-3.jpg" alt="" />
+<img loading="lazy" src="2024-02-19-hippeastrum-4.jpg" alt="" />
+<img loading="lazy" src="2024-02-19-hippeastrum-5.jpg" alt="" />
+<img loading="lazy" src="2024-02-19-hippeastrum-6.jpg" alt="" />
+<img loading="lazy" src="2024-02-19-hippeastrum-7.jpg" alt="" /></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-02-19-hippeastrum">https://alexschroeder.ch/view/2024-02-19-hippeastrum</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-02-19-hippeastrum">Save to Pocket</a>
+</span>
+
+---
+
+## Beginner-friendly robotics projects
+
+date: 2024-02-21, from: Raspberry Pi News (.com)
+
+<p>A father-son post on Reddit about building  PiDog inspired us to share some other entry-level robotics projects, in the hope of pushing some of you fence-sitters over the edge into building your first ever robot.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/beginner-friendly-robotics-projects/">Beginner-friendly robotics projects</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/beginner-friendly-robotics-projects/">https://www.raspberrypi.com/news/beginner-friendly-robotics-projects/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/beginner-friendly-robotics-projects/">Save to Pocket</a>
+</span>
+
+---
+
+## ChatGPT has gone berserk
+
+date: 2024-02-21, from: Gary Marcus blog
+
+Not a joke
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/chatgpt-has-gone-berserk">https://garymarcus.substack.com/p/chatgpt-has-gone-berserk</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/chatgpt-has-gone-berserk">Save to Pocket</a>
+</span>
+
+---
+
+##  Mr. Bean, to the Tune of Bush&#8217;s Glycerine 
+
+date: 2024-02-21, updated: 2024-02-21, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/mr-bean-to-the-tune-of-bushs-glycerine">https://kottke.org/24/02/mr-bean-to-the-tune-of-bushs-glycerine</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/mr-bean-to-the-tune-of-bushs-glycerine">Save to Pocket</a>
+</span>
+
+---
+
+## pg_dumpbinary v2.15 released
+
+date: 2024-02-21, from: PostgreSQL News
+
+<p><strong>Zurich, Switzerland - Febuary 14th, 2024</strong></p>
+<h2>pg_dumpbinary</h2>
+<p><code>pg_dumpbinary</code> dumps a PostgreSQL database to a binary format. The resulting dump must be restored
+using <code>pg_restorebinary</code>, which is provided.</p>
+<p>Version 2.15 has been published, this release adds a new option and fixes a bug reported by users since
+last release.</p>
+<ul>
+<li>Add -w, --where command line option to pg_dumpbinary to apply a filter
+    to the data dumped. The filter will be used in a WHERE clause for data
+    export, this clause will be applied to all tables dumped.</li>
+<li>Fix error "DBD::Pg::db do failed: server closed the connection unexpectedly"
+    when the attempt to dump the pre-data section fail.</li>
+</ul>
+<p>A full list of changes and acknowledgments can be found <a href="https://github.com/lzlabs/pg_dumpbinary/releases/tag/v2.15">here</a></p>
+<p><code>pg_dumpbinary</code> is useful when:</p>
+<ul>
+<li>You have bytea that can not be exported by <code>pg_dump</code> because the
+  total size of the escape/hex output exceeds 1Gb.</li>
+<li>You have custom type that stores <code>\0</code> internally in bytea but data
+  are exported by pg_dump as char/varchar/text.  In this case pg_dump
+  truncates all data after the first '\0', resulting in data loss.</li>
+<li>Other cases where a binary output format is useful.</li>
+</ul>
+<p>In these kinds of cases <code>pg_dumpbinary</code> helps by dumping the
+PostgreSQL database in a binary format. In all other cases
+the pg_dump/pg_restore commands distributed with PostgreSQL are
+preferred.</p>
+<p>See the documentation for a more complete description of available
+features.</p>
+<h2>Links &amp; Credits</h2>
+<p>pg_dumpbinary is an Open Source project from <a href="https://www.lzlabs.com/">LzLabs GmbH</a>.  Contributions and ideas are
+welcome. Send your ideas, features requests, or patches using GitHub's tools.</p>
+<p>Links :</p>
+<ul>
+<li>Documentation: <a href="https://github.com/lzlabs/pg_dumpbinary/blob/master/README.md">https://github.com/lzlabs/pg_dumpbinary/blob/master/README.md</a></li>
+<li>Download:  <a href="https://github.com/lzlabs/pg_dumpbinary/releases/">https://github.com/lzlabs/pg_dumpbinary/releases/</a></li>
+<li>Support: use GitHub report tool at <a href="https://github.com/lzlabs/pg_dumpbinary/pg_dumpbinary/issues">https://github.com/lzlabs/pg_dumpbinary/pg_dumpbinary/issues</a></li>
+</ul>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/pg_dumpbinary-v215-released-2811/">https://www.postgresql.org/about/news/pg_dumpbinary-v215-released-2811/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pg_dumpbinary-v215-released-2811/">Save to Pocket</a>
+</span>
+
+---
+
+## PostgreSQL JDBC 42.7.2, 42.6.1, 42.5.5, 42.4.4, 42.3.9, 42.2.28, and 42.2.28.jre7 Security update for CVE-2024-1597
+
+date: 2024-02-21, from: PostgreSQL News
+
+<p>The PostgreSQL JDBC team have released 42.7.2, 42.6.1, 42.5.5, 42.4.4, 42.3.9, 42.2.28, and 42.2.28.jre7 to address a security issue: <a href="https://www.cve.org/CVERecord?id=CVE-2024-1597">CVE-2024-1597</a>. (Note there is no fix for 42.2.26.jre6 see the advisory for workarounds) </p>
+<p>SQL injection is possible when using the non-default connection property preferQueryMode=simple in combination with application code that has a vulnerable SQL that negates a parameter value.</p>
+<p>There is no vulnerability in the driver when using the default query mode. Users that do not override the query mode are not impacted.</p>
+<p>See the <a href="https://github.com/pgjdbc/pgjdbc/security/advisories/GHSA-24rp-q3w6-vc56">security advisory</a> for the details. Thanks to <a href="https://github.com/paul-gerste-sonarsource">Paul Gerste</a> for finding and reporting the issue.</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/postgresql-jdbc-4272-4261-4255-4244-4239-42228-and-42228jre7-security-update-for-cve-2024-1597-2812/">https://www.postgresql.org/about/news/postgresql-jdbc-4272-4261-4255-4244-4239-42228-and-42228jre7-security-update-for-cve-2024-1597-2812/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/postgresql-jdbc-4272-4261-4255-4244-4239-42228-and-42228jre7-security-update-for-cve-2024-1597-2812/">Save to Pocket</a>
+</span>
+
+---
+
+## A tale of three architectures
+
+date: 2024-02-20, from: Dave Rupert blog
+
+<p>It’s been a couple years of working full-time on Luro and we’ve travelled through at least three (or four?) different distinct architectures. If that sounds like a lot, I’d agree. It’s been educational to say the least.</p>
+<p>I think it’s interesting to think about how apps grow and adapt over years of contributions, so I thought I’d share how we evolved Luro. Each refactor and re-architecture was a considered choice involving the entire team and balancing business and customer needs at the time as well as maintaining new feature velocity.</p>
+<p>Here is the great retelling…</p>
+<h2>v0: The Not-so Serverless Jamstack Hybrid Prototype</h2>
+<ul>
+<li><strong>Customer Need</strong>: Ability to preview application</li>
+<li><strong>Internal Need</strong>: Prove idea could work</li>
+</ul>
+<p><img src="https://cdn.daverupert.com/posts/2024/v0.svg" alt="An architecture diagram with two boxes. The first box is labelled Netlify with two smaller boxes inside labelled “Nuxt” and “Express API inside Netlify Functions”. There is an arrow pointing from Nuxt to the Express API. The other box is labelled Digital Ocean and has three boxes inside: a “Node Background Server” with arrows pointing to a “MongoDB” and a “PostgreSQL DB”. There are arrows from Nuxt to the Node Background Sever and Express to the PostgreSQL DB. That lat arrow is labelled Prisma" /></p>
+<p>The prototype version of Luro was a Serverless <a href="https://nuxt.com/">Nuxt</a> app deployed entirely on <a href="https://www.netlify.com/">Netlify</a>. Each CRUD operation was its own serverless function that connected to our Postgres database on <a href="https://www.digitalocean.com/">Digital Ocean</a>. Netlify and its branch deploys allowed for rapid deployment and the ability to spin up demo instances at a custom subdomain as we shopped the idea around.</p>
+<p>This was a great proof of concept but we soon hit big pain points. The biggest hurdle was that the serverless functions for all our endpoints were taking upwards of <strong>20 minutes to build</strong>. That led to flaky deployments so we combined all our serverless functions into an Express app inside a single function. That took <strong>5 minutes to build</strong>. This approach worked until…</p>
+<p>Some features (e.g., Lighthouse) didn’t fit within <a href="https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html">Lambda’s size limitations</a> (69 MB at the time) and our tasks were too long for <a href="https://docs.netlify.com/functions/background-functions/">background functions</a>. The solution was to standup a small Node service that could handle longer tasks. Each Lighthouse run generates about 2 MB of JSON data so we stored that inside a MongoDB that sat inside the Node server.</p>
+<p>A lot of moving parts but it worked enough to start having conversations with customers and investors.</p>
+<h2>v1: The Single-tenant Supermodel Monolith</h2>
+<ul>
+<li><strong>Customer Need</strong>: Isolated deployment environments</li>
+<li><strong>Internal Need</strong>: Reduce number of servers and services</li>
+</ul>
+<p><img src="https://cdn.daverupert.com/posts/2024/v1.svg" alt="A server diagram with three identical boxes labelled Docker. Inside the Docker box is a box labelled Nuxt with an arrow pointing to a box labelled Express. Express points to a database outside the box labelled PostreSQL and one labelled S3. Nuxt also points to the S3 bucket. This is repeated 3 times." /></p>
+<p>Our first batch of potential (enterprise) customers expressed a need to deploy the app behind their firewall. Looking at our Nuxt + Express API inside a Netlify Function + Node + Postgres + MongoDB franken-app deployed across two separate web hosting platforms, we started exploring a Docker setup to bundle all the moving parts.</p>
+<p>This was an opportunity to simplify! And simplify we did.</p>
+<ul>
+<li>We merged the Nuxt, Express, and Node app into a single app server. This simplified the Docker setup and allowed us to start server rendering Nuxt for a performance boost.</li>
+<li>We also simplified our content model to a single database table. Before our content types (prototypes, user tests, research, pages, etc.) were in their own table but their schema was nearly identical (<code>id</code>, <code>title</code>, <code>description</code>). That separation is good until you need to duplicate a model and its views or roll a feature out across all models and views. We made the decision to use a single “supermodel” approach where all content types were in the same table.</li>
+<li>We eliminated MongoDB from the stack. One major challenge was our task queue (<a href="https://www.npmjs.com/package/agenda">agenda</a>) had a hard-dependency on MongoDB. Through some effort we moved over to <a href="https://worker.graphile.org/">graphile-worker</a> and used a <code>json</code> field type in our PostgreSQL to store the big blobs of JSON.</li>
+<li>To make client responses smaller we stripped out the unused parts of the Lighthouse report and streamlined it from 2 MB to  30 KB per report.</li>
+<li>To smooth out customer deployments, we built a <a href="https://www.terraform.io/">Terraform</a> script with a CLI interface to automate building isolated environments on Digital Ocean with an app server, database, S3 bucket, as well as adding a new DNS record to give instances their own vanity subdomain.</li>
+<li>We moved the application off of Netlify simplified our hosting situation. On the downside, in the move to Digital Ocean we lost our branch deploy strategy. We propped up a staging server but it wasn’t the same as an automated branch deploy.</li>
+</ul>
+<p>After all these improvements the app felt like a lightweight machine.</p>
+<p>Docker wasn’t utilized well but it made an easy pathway for deploying to Digital Ocean. I’m glad we didn’t invest too much into Docker, because over time it became a bottleneck we’d have to rip out.</p>
+<h2>v2: The Multi-tenant Monolith</h2>
+<ul>
+<li><strong>Customer Need</strong>: Reduce onboarding friction</li>
+<li><strong>Internal Need</strong>: Less manual labor in setting up, tearing down, and updating instances</li>
+</ul>
+<img src="https://cdn.daverupert.com/posts/2024/v2.svg" width="330" alt="A server diagram similar to the previous. Inside a box labelled Render is a box labelled Nuxt with an arrow pointing to a box labelled Express pointint to a database inside Render labelled PostgreSQL. Express also points to an S3 bucket outside of Render. Nuxt also points to the S3 bucket. Both Nuxt and Express point to a Logging database outside of the Render box as well." />
+<p>Through some positive investor pressure and some exhaustion setting up customer installs, we decided the app should be more self-service. This was a big undertaking.</p>
+<p>While terraforming a new customer install wasn’t hard (CLI command + 10 minute build), the customer feedback loop was too long. Someone would sign up for Luro, then we’d email them later, then they’d say “yes I want it”, then it’d take 10 minutes to set up, then we’d send an email “okay it’s ready”… that experience cut the winds of excitement out of the sales funnel.</p>
+<p>To make this work, we needed to create the idea of a <code>Team</code> in Luro and make everythign belong to that team. Having Teams meant having a new permission system, authentication system, and invitation system. But the biggest need was to design and build new onboarding flows throughout the application because we wouldn’t be doing “white glove” installs anymore. This was a big lift for a small team.</p>
+<aside>
+<h3>“This would have been faster if we used Rails”</h3>
+<p>For a brief moment we considered pivoting to Rails becuase it’s built for multi-tenant applications. The Rails ecosystem also has good, free, and battle-tested plugins and admin tooling. We commissioned a prototype, but utlimately it felt weird to choose Rails in 2022. I also have a sour taste from previous long-term Rails maintenance projects, DHH was being a dick at the time, and even someone on Ruby core told me “Nah, use <a href="https://elixir-lang.org/">Elixir</a>”, so I made the decision to stick with Node.</p>
+</aside>
+<p>At the end of the three month sprint we made an impromptu decision to move from Digital Ocean to <a href="https://render.com/">Render</a>. Our Docker deploys were <strong>taking 20 minutes to build</strong> the image + 10 minutes switch over to the new image and stand up the environment. That long feedback loop was killing us with design reviews. We made the jump to Render, killed our <code>Dockerfile</code>, and got back to <strong>5 minutes deploys</strong> and regained the ability to have Preview Deploys for each PR. That was a slam dunk win-win.</p>
+<p>This refactor was a lot of work (and re-work) but thanks to two full-time hires we were ready to begin our Private Beta by the end of the summer.</p>
+<h2>v3: The Multi-tenant Microservice Monorepo</h2>
+<ul>
+<li><strong>Customer Need</strong>: Application uptime, reliability</li>
+<li><strong>Internal Need</strong>: Observability and isolation of services</li>
+</ul>
+<p><img src="https://cdn.daverupert.com/posts/2024/v3.svg" alt="A server diagram with two main boxes. The first box is the Node Web App server with Nuxt and Express, with Nuxt pointing to Express. Next is a large box labelled Async Jobs with 3 boxes inside. The first box is labelled Cronjobs and has three chron jobs inside of it labelled cron1, cron2, cron3. Those point to the second element in the Async Jobs box called RabbitMQ. RabbitMQ then points to four apps in a box labelled Services called Screenshot, Analytics, Figma, Lighthouse. Those services as well as Express point to the PostgreSQL database. Screenshot, Express, and Nuxt all point to S3. And all servers and services point to Logging." /></p>
+<p>As people signed up and began to use the application we discovered a new set of problems. If one CPU intensive service (e.g. Lighthouse) had a problem during its run, the entire application server would fall over causing cascading service failures. The “stampede” of failures made it difficult to debug the source of our problems.</p>
+<p>The biggest improvement in observability was converting our monolith into a microservice monorepo using Turborepo. Using <a href="https://docs.render.com/blueprint-spec">Render’s Blueprint</a> (Infrastructure as a Service) we could use YAML to configure servers for each app and cronjob in the <code>apps/</code> folder.</p>
+<p>We had some intermittent problems with <code>graphile-worker</code> queue crashing so we pivoted to <a href="https://www.rabbitmq.com/">RabbitMQ</a> hosted on <a href="https://www.cloudamqp.com/">CloudAMQP</a> as a message queue. RabbitMQ is like Redis but a little bit more robust and a lot less “build your own” functionality (monitoring, etc). Our apps or cronjobs would post messages to specific queues and then the services would process those specific queues.</p>
+<p>With our services properly split up, we spent more time improving our logging to ensure we had end-to-end error reporting. Each service logged to its own bucket which was possibly overkill but if an error showed up in the Lighthouse bucket we could pinpoint which part of the application failed.</p>
+<p>And this is the shape of the application today. It’s a pretty elegant machine. We’re far from the days of servers crashing every weekend. We’ve worked hard to stabilize the application and now it doesn’t make much more than a peep.</p>
+<h2>101 things I’ve learned about software architecture</h2>
+<p>I’ve learned a lot about building and organizing large software projects through this. If I had to do it all over again, I don’t think it would be much different given the information we had at the time. With the power of hindsight, we probably could have skipped one or two evolutions but that was less of a lack of engineering imagination or foresight and more product needing clearer business objectives. If we had dropped the “white glove” idea earlier or had a narrower market (<a href="https://blog.hubspot.com/marketing/tam-sam-som">TAM/SAM/SOM</a>) we could have spotted opportunities further out.</p>
+<p>I learned hundreds or thousands of lessons from all this but here’s my Top 3 key takeaways…</p>
+<h3>1. It’s always a “100 duck-sized horses vs one horse-sized duck” problem</h3>
+<p>There’s <a href="https://knowyourmeme.com/memes/horse-sized-duck">an old internet question</a> about “Would you rather fight 100 duck-sized horses or one horse-sized duck?” Well. Software is a lot like that. You expand, then consolidate, expand, then consolidate. Over and over. For example…</p>
+<ul>
+<li>The Jamstack app = 100 duck-sized horses</li>
+<li>The Supermodel monolith = 1 horse-sized duck</li>
+<li>Single-tenant deployments = 100 duck-sized horses</li>
+<li>Multi-tenant app = 1 horse-sized duck</li>
+<li>Microservice monorepo = 100 duck-sized horses</li>
+</ul>
+<p>Even on the component level, you don’t want a bunch of bespoke tables, so you create a <code>&lt;SuperTable/&gt;</code> component but then you need a bunch of <code>&lt;BespokeCell/&gt;</code> components to slot inside the table. At a certain point you can’t reduce complexity any further and you’re left shifting complexity around and reshaping it. The goal is to end up with something less complex or more predictable.</p>
+<p>I think the correct answer is 100 duck-sized horses, but you need good systems in place for managing that. And 5 to 10 is probably a better number than 100.</p>
+<h3>2. Monorepos are pretty great</h3>
+<p>For managing all those small apps, I recommend <a href="https://turbo.build/">Turborepo</a>! Monorepos make it easy to break up your application into separate services or shared packages (like a design system). You can start the entire system with one command from the terminal. You have less mysteries and phantom configs menacing your codebase when everyone is working in the same neighborhood. You can maintain velocity by changing an upstream API service and the UI layer in a single PR with less flight control.</p>
+<p>We had hints of a service-oriented architecture in our v0 Node Background Server, but it existed outside (not alongside) the UI application. Monorepos are not without their issues, but I’d reach for Turborepo again for applications that don’t fit inside one folder on one server.</p>
+<h3>3. I over-index on the belief that we can fix it later</h3>
+<p>I’m a firm believer in iteration and believe that in most situations we can fix issues later. That can be an admirable quality, but it’s a choice to create technical debt. At times the technical or style debt I created blew up and we spent more time teasing out an abstraction later on. If we had “done it right” the first time we would have saved time but we also didn’t have enough information to make a proper abstraction and would have fell victim to YAGNI (You Ain’t Gonna Need It) over-optimization.</p>
+<p>In the end there were microadjustments we could have made but with the pace of startup life (groan) you’re always in a hurry to do the next thing, we balanced that fairly well.</p>
+<h2>Just build websites</h2>
+<p>This whole experience has taught me one valuable lesson: You learn a lot by doing. You learn a lot by doing it <a href="https://www.youtube.com/watch?v=WjSOZI90PmE">the long, hard, stupid way</a>. And you learn a lot by working with other talented people.</p>
+<p>Thanks to everyone who has helped and participated and contributed code over the years: Trent Walton, Reagan Ray, Julian Jones, Scott Robbin,  Kyle Zinter, Emmett Naughton, Eli Van Zoeren, and René Merino.</p>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/02/three-architectures/">https://daverupert.com/2024/02/three-architectures/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/02/three-architectures/">Save to Pocket</a>
+</span>
+
+---
+
+##  Huh, the US Census Bureau purposely fudges the location data in the... 
+
+date: 2024-02-20, updated: 2024-02-20, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044018-huh-the-us-census-bureau">https://kottke.org/24/02/0044018-huh-the-us-census-bureau</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044018-huh-the-us-census-bureau">Save to Pocket</a>
+</span>
+
+---
+
+## nginx-1.25.4
+
+date: 2024-02-20, from: Tilde.news
+
+<p><a href="https://tilde.news/s/fhaeyr/nginx_1_25_4">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="http://freenginx.org/pipermail/nginx-announce/2024/000001.html">http://freenginx.org/pipermail/nginx-announce/2024/000001.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://freenginx.org/pipermail/nginx-announce/2024/000001.html">Save to Pocket</a>
+</span>
+
+---
+
+##  Carved Wooden Art Cars With Chunky Headlights 
+
+date: 2024-02-20, updated: 2024-02-20, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/carved-wooden-art-cars-with-chunky-headlights">https://kottke.org/24/02/carved-wooden-art-cars-with-chunky-headlights</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/carved-wooden-art-cars-with-chunky-headlights">Save to Pocket</a>
+</span>
+
+---
+
+## “We’ve really worked hard not to ever have a pivot at The New York Times”: A.G. Sulzberger on AI, local news, and that Trump bump
+
+date: 2024-02-20, from: Nieman Journalism Lab
+
+Men named Arthur Sulzberger have tended to take over The New York Times at points of transition. Arthur Ochs Sulzberger became publisher in June 1963, just after the conclusion of 114-day printers&#8217; strike that had kept all seven of New York&#8217;s daily newspapers from printing. The strike had been directly responsible for Sulzberger&#8217;s ascent, at...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/weve-really-worked-hard-not-to-ever-have-a-pivot-at-the-new-york-times-a-g-sulzberger-on-ai-local-news-and-that-trump-bump/">https://www.niemanlab.org/2024/02/weve-really-worked-hard-not-to-ever-have-a-pivot-at-the-new-york-times-a-g-sulzberger-on-ai-local-news-and-that-trump-bump/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/weve-really-worked-hard-not-to-ever-have-a-pivot-at-the-new-york-times-a-g-sulzberger-on-ai-local-news-and-that-trump-bump/">Save to Pocket</a>
+</span>
+
+---
+
+## Six weeks after abrupt Houston Landing firings, staffers unionize
+
+date: 2024-02-20, from: Nieman Journalism Lab
+
+When Houston Landing editor-in-chief Mizanur Rahman and star investigative reporter Alex Stuckey were fired six weeks ago as part of what CEO Peter Bhatia called a company &#8220;reset,&#8221; remaining staff of the six-month-old nonprofit newsroom were &#8220;blindsided&#8221; by the loss of two widely beloved colleagues who had hired and mentored most other newsroom members. The...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/six-weeks-after-abrupt-houston-landing-firings-staffers-unionize/">https://www.niemanlab.org/2024/02/six-weeks-after-abrupt-houston-landing-firings-staffers-unionize/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/six-weeks-after-abrupt-houston-landing-firings-staffers-unionize/">Save to Pocket</a>
+</span>
+
+---
+
+## Google promotes sketchy product “reviews” from big publishers at the expense of small indie sites, a small indie site argues
+
+date: 2024-02-20, from: Nieman Journalism Lab
+
+If you&#8217;re looking to buy an air purifier or a dehumidifier, you could do worse than to start with HouseFresh, an ad-free independent review site that buys air cleaning products with its own money, tests them itself (the process involves incense sticks), recommends the ones it likes, and makes money from affiliate revenue. I&#8217;d never...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/google-promotes-sketchy-product-reviews-from-big-publishers-at-the-expense-of-small-indie-sites-a-small-indie-site-argues/">https://www.niemanlab.org/2024/02/google-promotes-sketchy-product-reviews-from-big-publishers-at-the-expense-of-small-indie-sites-a-small-indie-site-argues/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/google-promotes-sketchy-product-reviews-from-big-publishers-at-the-expense-of-small-indie-sites-a-small-indie-site-argues/">Save to Pocket</a>
+</span>
+
+---
+
+## 1Password Acquires Kolide
+
+date: 2024-02-20, from: Michael Tsai
+
+Jeff Shiner: Why would 1Password acquire a device health and contextual access management solution? The reality is that access isn&#8217;t secure if the device doing the access isn&#8217;t secure. This is part of the complexity of the modern way we work. Every device, regardless of location, must be secure &#x2013; just as every log-in, regardless [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/20/1password-acquires-kolide/">https://mjtsai.com/blog/2024/02/20/1password-acquires-kolide/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/20/1password-acquires-kolide/">Save to Pocket</a>
+</span>
+
+---
+
+## Epic Gets New Developer Account
+
+date: 2024-02-20, from: Michael Tsai
+
+Juli Clover: Epic Games today announced plans to bring the Epic Games Store to iOS in the European Union, with Apple reinstating the company&#8217;s developer account.[&#8230;]The Epic Games Store will launch on iOS in the EU at some point in 2024, and it will provide a way for Epic Games to bring a Fortnite app [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/20/epic-gets-new-developer-account/">https://mjtsai.com/blog/2024/02/20/epic-gets-new-developer-account/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/20/epic-gets-new-developer-account/">Save to Pocket</a>
+</span>
+
+---
+
+## Sonar 1.1.2
+
+date: 2024-02-20, from: Michael Tsai
+
+Made by Windmill (via John Gruber): A native Mac app for GitHub and GitLab Issues. [&#8230;] Change task titles, assignees, and labels, all on one line. No need to leave your keyboard &#8212; just enter &#8220;@&#8221; for assignees and &#8220;#&#8221; for labels. [&#8230;] Intuitively change multiple tasks&#8217; attributes at the same time. Just select multiple [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/20/sonar-1-1-2/">https://mjtsai.com/blog/2024/02/20/sonar-1-1-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/20/sonar-1-1-2/">Save to Pocket</a>
+</span>
+
+---
+
+## EU to Fine Apple Over Anti-Steering Rules
+
+date: 2024-02-20, from: Michael Tsai
+
+Tim Hardwick (Hacker News): Apple is set to be hit with a &#8364;500 million ($538 million) fine for allegedly breaking EU law over access to music streaming services, according to a Financial Times report.The focus of the European Commission&#8217;s investigation has been Apple&#8217;s policy of preventing streaming music apps from informing iPhone and iPad users [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/20/eu-to-fine-apple-over-anti-steering-rules/">https://mjtsai.com/blog/2024/02/20/eu-to-fine-apple-over-anti-steering-rules/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/20/eu-to-fine-apple-over-anti-steering-rules/">Save to Pocket</a>
+</span>
+
+---
+
+##  Even though I don&#8217;t live there anymore, I enjoyed Scott Lynch&#8217;s review... 
+
+date: 2024-02-20, updated: 2024-02-20, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044017-even-though-i-dont-live">https://kottke.org/24/02/0044017-even-though-i-dont-live</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044017-even-though-i-dont-live">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-20, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/05/05/butheremails.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Journalists like everyone in America should pray President Biden stays healthy, because our only alternative is Putin. And btw in Russia, the non-government-owned news people had to leave, to go into exile. The journalists are playing with fire not just for us, but for themselves too. It's not ridiculous to ring the bells really loud about this because we've already lived through <a href="https://en.wikipedia.org/wiki/2016_United_States_presidential_election#Results">this nightmare</a> once.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/20.html#a183855">http://scripting.com/2024/02/20.html#a183855</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/20.html#a183855">Save to Pocket</a>
+</span>
+
+---
+
+##  Craig Mod recaps 5 years of running a membership program. &#8220;I am... 
+
+date: 2024-02-20, updated: 2024-02-20, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044016-craig-mod-recaps-5-years">https://kottke.org/24/02/0044016-craig-mod-recaps-5-years</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044016-craig-mod-recaps-5-years">Save to Pocket</a>
+</span>
+
+---
+
+## Out of the rabbit hole? New research shows people can change their minds about conspiracy theories
+
+date: 2024-02-20, from: Nieman Journalism Lab
+
+Many people believe at least one conspiracy theory. And that isn’t necessarily a bad thing — conspiracies do happen. To take just one example, the CIA really did engage in illegal experiments in the 1950s to identify drugs and procedures that might produce confessions from captured spies. However, many conspiracy theories are not supported by evidence, yet still attract believers. For...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/out-of-the-rabbit-hole-new-research-shows-people-can-change-their-minds-about-conspiracy-theories/">https://www.niemanlab.org/2024/02/out-of-the-rabbit-hole-new-research-shows-people-can-change-their-minds-about-conspiracy-theories/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/out-of-the-rabbit-hole-new-research-shows-people-can-change-their-minds-about-conspiracy-theories/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -281,6 +1458,21 @@ date: 2024-02-20, from: Jeff Geerling blog
 
 <span class="feed-item-link">
 <a href="https://www.jeffgeerling.com/blog/2024/my-todo-list-txt-file-on-desktop">https://www.jeffgeerling.com/blog/2024/my-todo-list-txt-file-on-desktop</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jeffgeerling.com/blog/2024/my-todo-list-txt-file-on-desktop">Save to Pocket</a>
+</span>
+
+---
+
+## New in Catalog: Pullfrog and oom
+
+date: 2024-02-20, from: Playdate Blog
+
+Two great new titles are available in Playdate Catalog today:
+🐸 Pullfrog, made by Amano, a puzzle platformer where you play as a long-tongued frog inside a block-falling, line-clearing game.
+  … and ☄️ oom, made by Gregory Kogos (of Season One&rsquo;s huge hit Omaze), a unique rhythmic dungeon crawler where your decisive actions are made in-between the beats. A Playdate game with immaculate vibes.
+  Grab these from Catalog on your Playdate, or on the web.
+
+<span class="feed-item-link">
+<a href="https://news.play.date/news/pulllfrog-oom/">https://news.play.date/news/pulllfrog-oom/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://news.play.date/news/pulllfrog-oom/">Save to Pocket</a>
 </span>
 
 ---
@@ -652,18 +1844,6 @@ date: 2024-02-19, updated: 2024-02-19, from: Jason Kottke blog
 
 <span class="feed-item-link">
 <a href="https://www.jayeless.net/2024/02/metro-supermarkets.html">https://www.jayeless.net/2024/02/metro-supermarkets.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jayeless.net/2024/02/metro-supermarkets.html">Save to Pocket</a>
-</span>
-
----
-
-## Episode 126 - IBM Compatible (No, Not Those)
-
-date: 2024-02-19, from: Advent of Computing
-
-<div class="DraftEditor-paragraphElement" data-block="true" data-editor="7rkqf" data-offset-key="1knr0-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1knr0-0-0"><span data-offset-key= "1knr0-0-0"><span data-text="true">This episode wraps up the System/360 trilogy by taking things back to where they started for me. We will be looking at System/360 clones, how they could exist, why they existed, and why IBM didn't crush them. We close with a discussion of how these earlier clones impact our understanding of the IBM PC story. The truth is, by 1981 IBM was no stranger to clones. This is the culmination of a wild story, so prepare!</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1knr0-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="7rkqf" data-offset-key="42apq-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="42apq-0-0"><span data-offset-key= "42apq-0-0"><span data-text="true">Selected Sources:</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="42apq-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="7rkqf" data-offset-key="b4qjm-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="b4qjm-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.org/details/iclbusinesstechn0000camp/mode/1up"><span data-offset-key="b4qjm-0-0"> <span data-text= "true">https://archive.org/details/iclbusinesstechn0000camp/mode/1up</span></span></a> <span data-offset-key="b4qjm-1-0"><span data-text="true">- ICL: A Business and Technical History</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="b4qjm-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="7rkqf" data-offset-key="5pa9v-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="5pa9v-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.org/details/impactreportamdaunse/page/1/mode/1up"><span data-offset-key="5pa9v-0-0"> <span data-text= "true">https://archive.org/details/impactreportamdaunse/page/1/mode/1up</span></span></a> <span data-offset-key="5pa9v-1-0"><span data-text="true">- Impact Report by INPUT</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="5pa9v-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="7rkqf" data-offset-key="4r07t-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="4r07t-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://www.stayforever.de/ibm-pc-a-conversation-with-dr-david-bradley/"> <span data-offset-key="4r07t-0-0"><span data-text= "true">https://www.stayforever.de/ibm-pc-a-conversation-with-dr-david-bradley/</span></span></a></div> </div>
-
-<span class="feed-item-link">
-<a href="https://adventofcomputing.libsyn.com/episode-126-ibm-compatible-no-not-those">https://adventofcomputing.libsyn.com/episode-126-ibm-compatible-no-not-those</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-126-ibm-compatible-no-not-those">Save to Pocket</a>
 </span>
 
 ---

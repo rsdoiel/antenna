@@ -1,11 +1,131 @@
 ---
 title: games 2024.08
-updated: 2024-02-20 10:00:00
+updated: 2024-02-22 08:50:39
 ---
 
 # games 2024.08
 
-(date: 2024-02-20 10:00:00)
+(date: 2024-02-22 08:50:39)
+
+---
+
+## We finally know Project L’s full name, and it’s 2XKO
+
+date: 2024-02-22, updated: 2024-02-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24079440/2xko-project-l-name-reveal-league-of-legends-fighting-game">https://www.polygon.com/24079440/2xko-project-l-name-reveal-league-of-legends-fighting-game</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24079440/2xko-project-l-name-reveal-league-of-legends-fighting-game">Save to Pocket</a>
+</span>
+
+---
+
+## The live-action Sokka sexism issue is actually worse than you fear
+
+date: 2024-02-22, updated: 2024-02-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24079505/netflix-avatar-airbender-sokka-suki-kyoshi-warriors-sexism-cast">https://www.polygon.com/24079505/netflix-avatar-airbender-sokka-suki-kyoshi-warriors-sexism-cast</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24079505/netflix-avatar-airbender-sokka-suki-kyoshi-warriors-sexism-cast">Save to Pocket</a>
+</span>
+
+---
+
+## Not sure what movie to watch this weekend? Leave a comment and we’ll tell you
+
+date: 2024-02-22, updated: 2024-02-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/2/22/24079107/best-movies-watch-this-weekend-best-recommendations">https://www.polygon.com/2024/2/22/24079107/best-movies-watch-this-weekend-best-recommendations</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/2/22/24079107/best-movies-watch-this-weekend-best-recommendations">Save to Pocket</a>
+</span>
+
+---
+
+## A new Tomb Raider RPG is in development, and fans can test it soon
+
+date: 2024-02-22, updated: 2024-02-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/tabletop-games/24075225/tomb-raider-ttrpg-playtest-announcement-lara-croft-crystal-dynamics-rae-nedjadi">https://www.polygon.com/tabletop-games/24075225/tomb-raider-ttrpg-playtest-announcement-lara-croft-crystal-dynamics-rae-nedjadi</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/tabletop-games/24075225/tomb-raider-ttrpg-playtest-announcement-lara-croft-crystal-dynamics-rae-nedjadi">Save to Pocket</a>
+</span>
+
+---
+
+## Mortal Kombat 1’s Peacemaker perfectly captures John Cena’s gleefully stupid hero
+
+date: 2024-02-22, updated: 2024-02-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24062724/mortal-kombat-1-peacemaker-dlc-release-date-gameplay">https://www.polygon.com/24062724/mortal-kombat-1-peacemaker-dlc-release-date-gameplay</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24062724/mortal-kombat-1-peacemaker-dlc-release-date-gameplay">Save to Pocket</a>
+</span>
+
+---
+
+## Final Fantasy 7 Rebirth swamps its exhilarating tribute in open-world bloat
+
+date: 2024-02-22, updated: 2024-02-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24078968/final-fantasy-7-rebirth-review">https://www.polygon.com/reviews/24078968/final-fantasy-7-rebirth-review</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24078968/final-fantasy-7-rebirth-review">Save to Pocket</a>
+</span>
+
+---
+
+## How to expand your inventory in Pacific Drive
+
+date: 2024-02-22, updated: 2024-02-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24079199/pacific-drive-expand-inventory-backpack-car-storage">https://www.polygon.com/guides/24079199/pacific-drive-expand-inventory-backpack-car-storage</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24079199/pacific-drive-expand-inventory-backpack-car-storage">Save to Pocket</a>
+</span>
+
+---
+
+## How to get chemicals in Pacific Drive
+
+date: 2024-02-22, updated: 2024-02-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24078333/pacific-drive-chemicals-how-to-get">https://www.polygon.com/guides/24078333/pacific-drive-chemicals-how-to-get</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24078333/pacific-drive-chemicals-how-to-get">Save to Pocket</a>
+</span>
+
+---
+
+## Pacific Drive beginner’s tips and tricks before starting
+
+date: 2024-02-22, updated: 2024-02-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24078286/pacific-drive-beginners-tips-tricks">https://www.polygon.com/guides/24078286/pacific-drive-beginners-tips-tricks</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24078286/pacific-drive-beginners-tips-tricks">Save to Pocket</a>
+</span>
+
+---
+
+## How to get copper wire in Pacific Drive
+
+date: 2024-02-22, updated: 2024-02-22, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24078075/pacific-drive-copper-wire-how-to-get">https://www.polygon.com/guides/24078075/pacific-drive-copper-wire-how-to-get</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24078075/pacific-drive-copper-wire-how-to-get">Save to Pocket</a>
+</span>
 
 ---
 

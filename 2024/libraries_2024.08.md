@@ -1,11 +1,77 @@
 ---
 title: libraries 2024.08
-updated: 2024-02-20 10:00:00
+updated: 2024-02-22 08:50:39
 ---
 
 # libraries 2024.08
 
-(date: 2024-02-20 10:00:00)
+(date: 2024-02-22 08:50:39)
+
+---
+
+## Time-Resolved Multielectron Coincidence Spectroscopy of Double Auger-Meitner Decay Following Xe 4$d$ ionization
+
+date: 2024-02-23, from: ETH Zurich, recently added
+
+Zhang, Pengju; Trester, Joel; Ueda, Kiyoshi; Han, Meng; Balčiūnas, Tadas; Wörner, Hans Jakob
+
+<span class="feed-item-link">
+<a href="http://hdl.handle.net/20.500.11850/661043">http://hdl.handle.net/20.500.11850/661043</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/661043">Save to Pocket</a>
+</span>
+
+---
+
+## What to Do with the AI Elephant in the Room: A NISO Plus Conference Report
+
+date: 2024-02-22, from: Scholarly Kitchen
+
+<p>A report from the fifth annual NISO Plus Conference, focusing on AI, metadata, and interoperability for scholarly communications.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/22/niso-plus-what-to-do-with-ai-elephant/">What to Do with the AI Elephant in the Room: A NISO Plus Conference Report</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/22/niso-plus-what-to-do-with-ai-elephant/">https://scholarlykitchen.sspnet.org/2024/02/22/niso-plus-what-to-do-with-ai-elephant/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/22/niso-plus-what-to-do-with-ai-elephant/">Save to Pocket</a>
+</span>
+
+---
+
+## The Uniqueness of the Medieval Persian Art
+
+date: 2024-02-22, from: ETH Zurich, recently added
+
+Erbudak, Mehmet
+
+<span class="feed-item-link">
+<a href="http://hdl.handle.net/20.500.11850/661213">http://hdl.handle.net/20.500.11850/661213</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/661213">Save to Pocket</a>
+</span>
+
+---
+
+## Guest Post — There is More to Reliable Chatbots than Providing Scientific References: The Case of ScopusAI
+
+date: 2024-02-21, from: Scholarly Kitchen
+
+<p>A data scientist reviews ScopusAI (beta) and shares her analysis of its limitations, reliability, and potential.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/21/guest-post-there-is-more-to-reliable-chatbots-than-providing-scientific-references-the-case-of-scopusai/">Guest Post &#8212; There is More to Reliable Chatbots than Providing Scientific References: The Case of ScopusAI</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/21/guest-post-there-is-more-to-reliable-chatbots-than-providing-scientific-references-the-case-of-scopusai/">https://scholarlykitchen.sspnet.org/2024/02/21/guest-post-there-is-more-to-reliable-chatbots-than-providing-scientific-references-the-case-of-scopusai/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/21/guest-post-there-is-more-to-reliable-chatbots-than-providing-scientific-references-the-case-of-scopusai/">Save to Pocket</a>
+</span>
+
+---
+
+## Day in Review (February 20-22)
+
+date: 2024-02-20, from: Association of Research Libraries News
+
+<p>Last Updated on February 21, 2024, 4:57 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, February 21 &#124; Thursday, February 22 Tuesday, February...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/39401/">Day in Review (February 20-22)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/day-in-review/39401/">https://www.arl.org/day-in-review/39401/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/day-in-review/39401/">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,517 @@
 ---
 title: pacific 2024.08
-updated: 2024-02-20 10:00:00
+updated: 2024-02-22 08:50:39
 ---
 
 # pacific 2024.08
 
-(date: 2024-02-20 10:00:00)
+(date: 2024-02-22 08:50:39)
+
+---
+
+## The Gargoyles of il Duomo di Milano
+
+date: 2024-02-22, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by William Hawkins Not much troubles the gargoyles of il Duomo di Milano. They feel neither rain nor wind nor the scratch of lichen. They jut into space blind and deaf. Though I have heard they do know the sun, &#8230; <a href="https://hawaiipacificreview.org/2024/02/22/the-gargoyles-of-il-duomo-di-milano/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://hawaiipacificreview.org/2024/02/22/the-gargoyles-of-il-duomo-di-milano/">https://hawaiipacificreview.org/2024/02/22/the-gargoyles-of-il-duomo-di-milano/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://hawaiipacificreview.org/2024/02/22/the-gargoyles-of-il-duomo-di-milano/">Save to Pocket</a>
+</span>
+
+---
+
+## FEATURE ǀ I can’t run
+
+date: 2024-02-22, updated: 2024-02-22, from: Marianas Variety
+
+MY college lacrosse teammates and I were required to run two miles in twelve minutes (or less) at the beginning of each season or we’d be made to run before each daily practice until we succeeded — a fitting test, I suppose, of the will and physical prowess needed for the sport.  It usually took me three or four tries before making time each year — some did it on their first try.  A few others never could run it in time, so they kept our sideline benches warm throughout the season… not fun especially during the winter months.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/views/columnists/feature-i-can-t-run/article_4c789eea-d145-11ee-b68f-0f87e268f022.html">https://www.mvariety.com/views/columnists/feature-i-can-t-run/article_4c789eea-d145-11ee-b68f-0f87e268f022.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/views/columnists/feature-i-can-t-run/article_4c789eea-d145-11ee-b68f-0f87e268f022.html">Save to Pocket</a>
+</span>
+
+---
+
+## FEATURE ǀ In the sacrifice zone
+
+date: 2024-02-22, updated: 2024-02-22, from: Marianas Variety
+
+THE Pacific region is in the spotlight as a zone of competition for power between the US and China. In New Zealand, the government is weighing up a potential role as a junior partner in AUKUS, the nuclear submarine military pact between Australia, the UK and the U.S. AUKUS is designed to contain China’s influence in the Pacific, and is among a range of agreements that would open the door to greater military activity in the region.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/feature-in-the-sacrifice-zone/article_5e22cad6-d144-11ee-b143-3bec02cacc67.html">https://www.mvariety.com/lifestyle/feature-in-the-sacrifice-zone/article_5e22cad6-d144-11ee-b143-3bec02cacc67.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/feature-in-the-sacrifice-zone/article_5e22cad6-d144-11ee-b143-3bec02cacc67.html">Save to Pocket</a>
+</span>
+
+---
+
+## Tinian Hot Pepper Festival: Spiciest  in  20  years
+
+date: 2024-02-22, updated: 2024-02-22, from: Marianas Variety
+
+(MVA)  —  The 20th Annual Tinian Hot Pepper Festival on Feb.  16-17,  2024,  in  the  Marianas  served  up  the  spiciest  assortment  of  activities  since  the  inception  of  the  festival  by  the  Marianas  Visitors  Authority  two  decades  ago.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/lifestyle/tinian-hot-pepper-festival-spiciest-in-20-years/article_2320e760-d149-11ee-82b9-3fe130cea540.html">https://www.mvariety.com/lifestyle/tinian-hot-pepper-festival-spiciest-in-20-years/article_2320e760-d149-11ee-82b9-3fe130cea540.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/lifestyle/tinian-hot-pepper-festival-spiciest-in-20-years/article_2320e760-d149-11ee-82b9-3fe130cea540.html">Save to Pocket</a>
+</span>
+
+---
+
+## PRiMO conference discusses  sustainability
+
+date: 2024-02-22, updated: 2024-02-22, from: Marianas Variety
+
+THE opening day of the Pacific Risk Management Ohana or PRiMO conference at the Crowne Plaza Resort Saipan featured panel talks on sustainable development.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/primo-conference-discusses-sustainability/article_2a1a64b8-d164-11ee-90f9-574c651f0778.html">https://www.mvariety.com/news/local/primo-conference-discusses-sustainability/article_2a1a64b8-d164-11ee-90f9-574c651f0778.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/primo-conference-discusses-sustainability/article_2a1a64b8-d164-11ee-90f9-574c651f0778.html">Save to Pocket</a>
+</span>
+
+---
+
+## Old Aces trounce Triple L/Tax Pro 97-47
+
+date: 2024-02-22, updated: 2024-02-22, from: Marianas Variety
+
+THE Old Aces bagged their first win in the Masters “Internal” Basketball League by dismantling Triple L/Tax Pro, 97-47, at the Ada gym on Saturday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/old-aces-trounce-triple-l-tax-pro-97-47/article_8389a392-d16e-11ee-8c58-cb13363ecfc4.html">https://www.mvariety.com/sports/localsports/old-aces-trounce-triple-l-tax-pro-97-47/article_8389a392-d16e-11ee-8c58-cb13363ecfc4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/old-aces-trounce-triple-l-tax-pro-97-47/article_8389a392-d16e-11ee-8c58-cb13363ecfc4.html">Save to Pocket</a>
+</span>
+
+---
+
+## 4 inducted into NMI Sports Hall of Fame
+
+date: 2024-02-22, updated: 2024-02-22, from: Marianas Variety
+
+FOUR deserving individuals on Wednesday evening were recognized for their countless contributions throughout their many years of involvement in CNMI sports.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/4-inducted-into-nmi-sports-hall-of-fame/article_9c0addee-d18e-11ee-8b84-fbcee3a3704a.html">https://www.mvariety.com/sports/localsports/4-inducted-into-nmi-sports-hall-of-fame/article_9c0addee-d18e-11ee-8b84-fbcee3a3704a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/4-inducted-into-nmi-sports-hall-of-fame/article_9c0addee-d18e-11ee-8b84-fbcee3a3704a.html">Save to Pocket</a>
+</span>
+
+---
+
+## BBJ Corner ǀ Family and fitness
+
+date: 2024-02-22, updated: 2024-02-22, from: Marianas Variety
+
+SOMETIMES, the path to a healthier lifestyle can take over what used to be time spent with family.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/bbj-corner-family-and-fitness/article_25c5d612-d165-11ee-b11b-9b2037ff7234.html">https://www.mvariety.com/sports/localsports/bbj-corner-family-and-fitness/article_25c5d612-d165-11ee-b11b-9b2037ff7234.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/bbj-corner-family-and-fitness/article_25c5d612-d165-11ee-b11b-9b2037ff7234.html">Save to Pocket</a>
+</span>
+
+---
+
+## Coca-Cola, Foremost, Subway are Platinum Sponsor of Saipan Marathon 2024
+
+date: 2024-02-22, updated: 2024-02-22, from: Marianas Variety
+
+(MVA) — Coca-Cola, Foremost, and Subway have collectively signed on as Platinum Sponsor of Saipan Marathon 2024 slated for March 9, 2024.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/coca-cola-foremost-subway-are-platinum-sponsor-of-saipan-marathon-2024/article_983675be-d15e-11ee-a9a0-0b30f4ce4356.html">https://www.mvariety.com/sports/localsports/coca-cola-foremost-subway-are-platinum-sponsor-of-saipan-marathon-2024/article_983675be-d15e-11ee-a9a0-0b30f4ce4356.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/coca-cola-foremost-subway-are-platinum-sponsor-of-saipan-marathon-2024/article_983675be-d15e-11ee-a9a0-0b30f4ce4356.html">Save to Pocket</a>
+</span>
+
+---
+
+## Register to play in NMC Golf Open
+
+date: 2024-02-22, updated: 2024-02-22, from: Marianas Variety
+
+(NMC) — The Northern Marianas College Foundation is inviting interested golfers to register for its Golf Open set for March 23 and 24, 2024 at the LaoLao Bay Golf and Resort. Online registration is available at www.marianas.edu/golf/.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/register-to-play-in-nmc-golf-open/article_300c2200-d15d-11ee-843f-776efbe2ec9d.html">https://www.mvariety.com/sports/localsports/register-to-play-in-nmc-golf-open/article_300c2200-d15d-11ee-843f-776efbe2ec9d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/register-to-play-in-nmc-golf-open/article_300c2200-d15d-11ee-843f-776efbe2ec9d.html">Save to Pocket</a>
+</span>
+
+---
+
+## Saipan Chamber of Commerce presents 1st quarter professional development training: ‘Know your risks’
+
+date: 2024-02-22, updated: 2024-02-22, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce is excited to announce its 1st quarter professional development training, focused on knowing and understanding your risks, more than just an insurance discussion. This training session is scheduled for Thursday, March 14, 2024, from 9 a.m. to 11:30 p.m. The event will take place at the Marianas Business Plaza, 2nd Floor, Suite 201-A.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/business_news/saipan-chamber-of-commerce-presents-1st-quarter-professional-development-training-know-your-risks/article_22c1c058-d141-11ee-8b15-6f00950f318e.html">https://www.mvariety.com/business/business_news/saipan-chamber-of-commerce-presents-1st-quarter-professional-development-training-know-your-risks/article_22c1c058-d141-11ee-8b15-6f00950f318e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/business_news/saipan-chamber-of-commerce-presents-1st-quarter-professional-development-training-know-your-risks/article_22c1c058-d141-11ee-8b15-6f00950f318e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Auditors investigate fraud complaints
+
+date: 2024-02-22, from: Marshal Islands Journal
+
+<p>During the July to December period last year, people reported eight new instances of corrupt practices involving public officials and government workers. “We continue to review all known allegations of fraud reported to us, including those we come across in our audit engagements,” RMI Auditor General Junior Patrick reported to Nitijela last week in the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/auditors-investigate-fraud-complaints/">Auditors investigate fraud complaints</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/auditors-investigate-fraud-complaints/">https://marshallislandsjournal.com/auditors-investigate-fraud-complaints/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/auditors-investigate-fraud-complaints/">Save to Pocket</a>
+</span>
+
+---
+
+## Breaking language and cultural barriers at Cope North 2o24 
+
+date: 2024-02-22, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The recently concluded Cope North 2024, which involved a large-scale multinational military exercise on Guam,...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/breaking-language-and-cultural-barriers-at-cope-north-2o24">https://www.pacificislandtimes.com/post/breaking-language-and-cultural-barriers-at-cope-north-2o24</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/breaking-language-and-cultural-barriers-at-cope-north-2o24">Save to Pocket</a>
+</span>
+
+---
+
+## Education week in high gear
+
+date: 2024-02-22, from: Marshal Islands Journal
+
+<p>President Dr. Hilda Heine participated in Friday’s Education Week opening ceremony at the College of the Marshall Islands’ SGT Solomon Sam Basketball Court. Heine delivered empowering remarks during the ceremony highlighting the importance of the Education Week. She mentioned that Education Week is an opportunity to celebrate public education, inform the community of the accomplishments [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/education-week-in-high-gear/">Education week in high gear</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/education-week-in-high-gear/">https://marshallislandsjournal.com/education-week-in-high-gear/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/education-week-in-high-gear/">Save to Pocket</a>
+</span>
+
+---
+
+## Papua New Guinea to set up pilot sites for rhino beetle control
+
+date: 2024-02-22, from: Pacific Island Times
+
+By Pacific Island Times News Staff Port Moresby-- The Papua New Guinea Coconut Rhinoceros Beetle taskforce team will set up pilot sites...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/papua-new-guinea-to-set-up-pilot-sites-for-rhino-beetle-control">https://www.pacificislandtimes.com/post/papua-new-guinea-to-set-up-pilot-sites-for-rhino-beetle-control</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/papua-new-guinea-to-set-up-pilot-sites-for-rhino-beetle-control">Save to Pocket</a>
+</span>
+
+---
+
+## PDLP students excited to interact and hear from CLA President
+
+date: 2024-02-22, from: University of the South Pacific (Fiji)
+
+<p>The current Professional Diploma in Legal Practice (PDLP) cohort at The University of the South...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/pdlp-students-excited-to-interact-and-hear-from-cla-president/">PDLP students excited to interact and hear from CLA President</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/pdlp-students-excited-to-interact-and-hear-from-cla-president/">https://www.usp.ac.fj/news/pdlp-students-excited-to-interact-and-hear-from-cla-president/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/pdlp-students-excited-to-interact-and-hear-from-cla-president/">Save to Pocket</a>
+</span>
+
+---
+
+## Moylan seeking a study on expanded Medicare coverage in the Philippines 
+
+date: 2024-02-22, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam Del.  James Moylan is preparing to introduce a bill that would direct the U.S. Comptroller...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/moylan-seeking-a-study-on-expanded-medicare-coverage-in-the-philippines">https://www.pacificislandtimes.com/post/moylan-seeking-a-study-on-expanded-medicare-coverage-in-the-philippines</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/moylan-seeking-a-study-on-expanded-medicare-coverage-in-the-philippines">Save to Pocket</a>
+</span>
+
+---
+
+## IoE Launches Graduate Certificate of School Leadership Programme in Chuuk
+
+date: 2024-02-22, from: University of the South Pacific (Fiji)
+
+<p>As Pacific countries strive to reform educational systems and enhance student outcomes, school leadership emerge...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/ioe-launches-graduate-certificate-of-school-leadership-program-in-chuuk/">IoE Launches Graduate Certificate of School Leadership Programme in Chuuk</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/ioe-launches-graduate-certificate-of-school-leadership-program-in-chuuk/">https://www.usp.ac.fj/news/ioe-launches-graduate-certificate-of-school-leadership-program-in-chuuk/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/ioe-launches-graduate-certificate-of-school-leadership-program-in-chuuk/">Save to Pocket</a>
+</span>
+
+---
+
+## Taiwan helps wave victims
+
+date: 2024-02-22, from: Marshal Islands Journal
+
+<p>Taiwan Ambassador Steve CC Hsia donated $40,000 to the government of the Marshall Islands last week for aid to Arno and Ailinglaplap atolls that were hit by strong waves last month. Hsia said the contribution is to be divided equally between the two atolls to provide emergency humanitarian assistance to the two atolls affected by [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/taiwan-helps-wave-victims/">Taiwan helps wave victims</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/taiwan-helps-wave-victims/">https://marshallislandsjournal.com/taiwan-helps-wave-victims/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/taiwan-helps-wave-victims/">Save to Pocket</a>
+</span>
+
+---
+
+## HPD Brings Active Threat Training to Chaminade
+
+date: 2024-02-22, from: Chaminade Silversword (Chaminade Univ. student newspaper)
+
+On Thursday, the Honolulu Police Department presented training on how to deal with an active shooter at Chaminade. Texas State University trains HPD in its Advanced Law Enforcement Rapid Response Training (Alerrt) Program. With this program, HPD is trained on how to properly deal with an active shooter and educate others on this matter. The...
+
+<span class="feed-item-link">
+<a href="https://thesilversword.com/news/2024/02/21/hpd-brings-active-threat-training-to-chaminade/">https://thesilversword.com/news/2024/02/21/hpd-brings-active-threat-training-to-chaminade/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thesilversword.com/news/2024/02/21/hpd-brings-active-threat-training-to-chaminade/">Save to Pocket</a>
+</span>
+
+---
+
+## UH tennis player earns first Big West Player of the Week honor
+
+date: 2024-02-22, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> <abbr>UH</abbr> M&#257;noa men’s tennis player Quinn Snyder helped the Rainbow Warriors edge out Concordia University Irvine.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/21/snyder-big-west-player-of-the-week/"><abbr>UH</abbr> tennis player earns first Big West Player of the Week honor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/21/snyder-big-west-player-of-the-week/">https://www.hawaii.edu/news/2024/02/21/snyder-big-west-player-of-the-week/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/21/snyder-big-west-player-of-the-week/">Save to Pocket</a>
+</span>
+
+---
+
+## Home is Here Sumida Farm, Kodama Koi Farm, Mina’s Fish House Sommelier
+
+date: 2024-02-22, from: Home is Here
+
+<p>Two farms raising very different products–one to eat and one to cherish–and fish masters who share their expertise with hungry consumers are the stories in this month’s Home is Here. </p>
+<p>The post <a href="https://www.pbshawaii.org/home-is-here-sumida-farm-kodama-koi-farm-minas-fish-house-sommelier/">Home is Here &lt;br/&gt;Sumida Farm, Kodama Koi Farm, Mina&#8217;s Fish House Sommelier</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.pbshawaii.org/home-is-here-sumida-farm-kodama-koi-farm-minas-fish-house-sommelier/">https://www.pbshawaii.org/home-is-here-sumida-farm-kodama-koi-farm-minas-fish-house-sommelier/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pbshawaii.org/home-is-here-sumida-farm-kodama-koi-farm-minas-fish-house-sommelier/">Save to Pocket</a>
+</span>
+
+---
+
+## Fixing the cell network
+
+date: 2024-02-21, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON Dropped calls and calls that don’t go through. That’s been a way of life for cell phone users in the Marshall Islands. The upcoming Micronesian Games is not only improving and expanding sports facilities that people here will enjoy long after the games, but it is leading to what is hoped to be [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/fixing-the-cell-network/">Fixing the cell network</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://marshallislandsjournal.com/fixing-the-cell-network/">https://marshallislandsjournal.com/fixing-the-cell-network/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://marshallislandsjournal.com/fixing-the-cell-network/">Save to Pocket</a>
+</span>
+
+---
+
+## San Nicolas eying a return to congressional seat
+
+date: 2024-02-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff Former Guam Del. Michael F. Q. San Nicolas, a Democrat, is seeking to run again for a congressional...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/san-nicolas-eyeing-a-return-to-congressional-seat">https://www.pacificislandtimes.com/post/san-nicolas-eyeing-a-return-to-congressional-seat</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/san-nicolas-eyeing-a-return-to-congressional-seat">Save to Pocket</a>
+</span>
+
+---
+
+## Pacific Islands: Spillover threats from transnational organized crime 
+
+date: 2024-02-21, from: Pacific Island Times
+
+By Danielle Watson and Jay Caldwell Is the Pacific prepared for a potential spillover of transnational organized crime from Southeast...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/pacific-islands-spillover-threats-from-transnational-organized-crime">https://www.pacificislandtimes.com/post/pacific-islands-spillover-threats-from-transnational-organized-crime</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/pacific-islands-spillover-threats-from-transnational-organized-crime">Save to Pocket</a>
+</span>
+
+---
+
+## Smokey's faces risk of shutting down
+
+date: 2024-02-21, from: Ka Leo O Hawaiʻi (UH Manoa student newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://www.manoanow.org/kaleo/smokeys-faces-risk-of-shutting-down/article_c6635610-d040-11ee-81e0-e35b254c5cf0.html">https://www.manoanow.org/kaleo/smokeys-faces-risk-of-shutting-down/article_c6635610-d040-11ee-81e0-e35b254c5cf0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.manoanow.org/kaleo/smokeys-faces-risk-of-shutting-down/article_c6635610-d040-11ee-81e0-e35b254c5cf0.html">Save to Pocket</a>
+</span>
+
+---
+
+## UH News Image of the Week: Valentine’s Day
+
+date: 2024-02-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> This week’s image is from Leeward Community College.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/21/uh-news-image-of-the-week-valentines-day/">UH News Image of the Week: Valentine’s Day</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/21/uh-news-image-of-the-week-valentines-day/">https://www.hawaii.edu/news/2024/02/21/uh-news-image-of-the-week-valentines-day/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/21/uh-news-image-of-the-week-valentines-day/">Save to Pocket</a>
+</span>
+
+---
+
+## Hawaiian Word of the Week: ʻIke
+
+date: 2024-02-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> &#699;Ike&#8212;To see, know, feel, recognize, perceive, experience.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/20/hawaiian-word-of-the-week-ike/">Hawaiian Word of the Week: ʻIke</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/20/hawaiian-word-of-the-week-ike/">https://www.hawaii.edu/news/2024/02/20/hawaiian-word-of-the-week-ike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/20/hawaiian-word-of-the-week-ike/">Save to Pocket</a>
+</span>
+
+---
+
+## WTO-MC13: Ahead of World Trade Ministerial, Pacific nations continue call to end harmful fishing subsidies.
+
+date: 2024-02-21, from: Pacific Island Forum
+
+Suva, 21 Feb 2024 &#8212; Ahead of the high level World Trade Organization (WTO) Ministerial Conference, Pacific Island countries are continuing their call for big fishing subsidisers<span class="excerpt-hellip"> […]</span>
+
+<span class="feed-item-link">
+<a href="https://www.forumsec.org/2024/02/21/wto-mc13-ahead-of-world-trade-ministerial-pacific-nations-continue-call-to-end-harmful-fishing-subsidies/">https://www.forumsec.org/2024/02/21/wto-mc13-ahead-of-world-trade-ministerial-pacific-nations-continue-call-to-end-harmful-fishing-subsidies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.forumsec.org/2024/02/21/wto-mc13-ahead-of-world-trade-ministerial-pacific-nations-continue-call-to-end-harmful-fishing-subsidies/">Save to Pocket</a>
+</span>
+
+---
+
+## REMARKS: SG Puna to Pacific ACP-WTO Trade Ministers Meeting
+
+date: 2024-02-21, from: Pacific Island Forum
+
+WELCOME REMARKS  HENRY PUNA, SECRETARY GENERAL AT THE PACIFIC ACP WTO TRADE MINISTERS MEETING TUESDAY 21 FEBRUARY 2024 AT 4:00-6:00PM (Fiji Time)/Hybrid Honourable Manoa Kamikamica, Deputy<span class="excerpt-hellip"> […]</span>
+
+<span class="feed-item-link">
+<a href="https://www.forumsec.org/2024/02/21/remarks-sg-puna-to-pacific-acp-wto-trade-ministers-meeting/">https://www.forumsec.org/2024/02/21/remarks-sg-puna-to-pacific-acp-wto-trade-ministers-meeting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.forumsec.org/2024/02/21/remarks-sg-puna-to-pacific-acp-wto-trade-ministers-meeting/">Save to Pocket</a>
+</span>
+
+---
+
+## Peace through tea: UH Mānoa students learn from 15th gen. tea master
+
+date: 2024-02-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">4</span> <span class="rt-label rt-postfix">minutes</span></span> Grandmaster Genshitsu Sen hosted a lecture with the <abbr>UH</abbr> Mānoa Center for Japanese Studies to share knowledge on fostering peace through tea.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/20/uh-students-learn-from-tea-master/">Peace through tea: <abbr>UH</abbr> Mānoa students learn from 15th gen. tea master</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/20/uh-students-learn-from-tea-master/">https://www.hawaii.edu/news/2024/02/20/uh-students-learn-from-tea-master/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/20/uh-students-learn-from-tea-master/">Save to Pocket</a>
+</span>
+
+---
+
+## Researcher points to holistic climate solutions at global conference
+
+date: 2024-02-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Susan Crow, a professor in the College of Tropical Agriculture and Human Resources, was an invited speaker at the event in December.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/20/holistic-climate-solutions/">Researcher points to holistic climate solutions at global conference</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/20/holistic-climate-solutions/">https://www.hawaii.edu/news/2024/02/20/holistic-climate-solutions/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/20/holistic-climate-solutions/">Save to Pocket</a>
+</span>
+
+---
+
+## ʻŌlelo instructor survives leukemia, empowers Hawaiian homesteaders
+
+date: 2024-02-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">4</span> <span class="rt-label rt-postfix">minutes</span></span> Windward <abbr>CC</abbr> instructor Kapela Wong provides free Hawaiian language classes for Hawaiian homestead residents in Kapolei.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/20/olelo-instructor-hawaiian-homesteaders/">ʻŌlelo instructor survives leukemia, empowers Hawaiian homesteaders</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/20/olelo-instructor-hawaiian-homesteaders/">https://www.hawaii.edu/news/2024/02/20/olelo-instructor-hawaiian-homesteaders/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/20/olelo-instructor-hawaiian-homesteaders/">Save to Pocket</a>
+</span>
+
+---
+
+## Webinar series to examine barriers, successes in advancing equity
+
+date: 2024-02-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> &#8220;Equity Explored&#8221; will examine barriers to and successes in advancing equity with multiple events.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/20/equity-explored-webinars/">Webinar series to examine barriers, successes in advancing equity</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/20/equity-explored-webinars/">https://www.hawaii.edu/news/2024/02/20/equity-explored-webinars/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/20/equity-explored-webinars/">Save to Pocket</a>
+</span>
+
+---
+
+## Willed Body Program resumes accepting donation applications
+
+date: 2024-02-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> The program is once again accepting anatomical gift donation forms for new enrollment.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/20/willed-body-program-accepting-apps/">Willed Body Program resumes accepting donation applications</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/20/willed-body-program-accepting-apps/">https://www.hawaii.edu/news/2024/02/20/willed-body-program-accepting-apps/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/20/willed-body-program-accepting-apps/">Save to Pocket</a>
+</span>
+
+---
+
+## Mānoa alumni films shine on streaming service
+
+date: 2024-02-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Films crafted by alumni from the <abbr>UH</abbr> M&#257;noa School of Cinematic Arts take the spotlight on The Criterion Channel.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/20/manoa-alumni-films-criterion-channel/">Mānoa alumni films shine on streaming service</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/20/manoa-alumni-films-criterion-channel/">https://www.hawaii.edu/news/2024/02/20/manoa-alumni-films-criterion-channel/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/20/manoa-alumni-films-criterion-channel/">Save to Pocket</a>
+</span>
+
+---
+
+## INSIGHTS ON PBS HAWAIʻI Maui Recovery Efforts?
+
+date: 2024-02-21, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Six months ago, wildfires on Maui killed 100 people and destroyed thousands of homes and businesses, mostly in Lahaina. As slow-paced cleanup efforts continue...</p>
+<p>The post <a href="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-maui-recovery-efforts/">INSIGHTS ON PBS HAWAIʻI &lt;br/&gt;Maui Recovery Efforts?</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-maui-recovery-efforts/">https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-maui-recovery-efforts/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-maui-recovery-efforts/">Save to Pocket</a>
+</span>
+
+---
+
+## UH faculty: New president should prioritize research
+
+date: 2024-02-21, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> According to a poll of <abbr>UH</abbr> Professional Assembly, boosting research is crucial to maintaining <abbr>UH</abbr>'s prestigious R1 status.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/20/uhpa-faculty-poll-results-on-next-uh-president/"><abbr>UH</abbr> faculty: New president should prioritize research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/20/uhpa-faculty-poll-results-on-next-uh-president/">https://www.hawaii.edu/news/2024/02/20/uhpa-faculty-poll-results-on-next-uh-president/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/20/uhpa-faculty-poll-results-on-next-uh-president/">Save to Pocket</a>
+</span>
+
+---
+
+## $11M sought for proposed body to fight drug-related crimes on Guam
+
+date: 2024-02-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff Sen. William A. Parkinson has proposed a bill that would tap the government of Guam's unobligated...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/11m-sought-for-proposed-body-to-fight-drug-related-crimes-on-guam">https://www.pacificislandtimes.com/post/11m-sought-for-proposed-body-to-fight-drug-related-crimes-on-guam</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/11m-sought-for-proposed-body-to-fight-drug-related-crimes-on-guam">Save to Pocket</a>
+</span>
+
+---
+
+## WTO-MC13: Pacific says WTO negotiation process must deliver a fair outcome.
+
+date: 2024-02-20, from: Pacific Island Forum
+
+PIF, Geneva, 20 February, 2024: World Trade Organisation (WTO) fisheries negotiations are at an advanced stage as the high level WTO Ministerial Conference draws closer, but<span class="excerpt-hellip"> […]</span>
+
+<span class="feed-item-link">
+<a href="https://www.forumsec.org/2024/02/21/wto-mc13-pacific-says-wto-negotiation-process-must-deliver-a-fair-outcome/">https://www.forumsec.org/2024/02/21/wto-mc13-pacific-says-wto-negotiation-process-must-deliver-a-fair-outcome/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.forumsec.org/2024/02/21/wto-mc13-pacific-says-wto-negotiation-process-must-deliver-a-fair-outcome/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -231,11 +737,11 @@ date: 2024-02-20, from: Island Times
 
 ---
 
-## Bank of Guam launches cannabis banking services 
+## Bank of Guam services now available to cannabis businesses on Guam, CNMI
 
 date: 2024-02-20, from: Pacific Island Times
 
-By Pacific Island Times News Staff Bank of Guam has launched its banking services for the cannabis industry on Guam and the Northern...
+By Pacific Island Times News Staff Cannabis-related businesses on Guam and the Northern Marianas may now be able to do regular banking...
 
 <span class="feed-item-link">
 <a href="https://www.pacificislandtimes.com/post/bank-of-guam-launches-cannabis-banking-services">https://www.pacificislandtimes.com/post/bank-of-guam-launches-cannabis-banking-services</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/bank-of-guam-launches-cannabis-banking-services">Save to Pocket</a>
@@ -383,7 +889,7 @@ date: 2024-02-20, from: HIKI NŌ ON PBS HAWAIʻI
 
 date: 2024-02-20, from: Pacific Island Times
 
-By Pacific Island Times News Staff The Office of the Governor today announced the launch of  a new fiber and 5G installation to expand...
+By Frank Whitman If all goes according to plan, in about two years residents of southern Guam will be enjoying faster, more reliable...
 
 <span class="feed-item-link">
 <a href="https://www.pacificislandtimes.com/post/guam-launches-11-4m-project-to-expand-broadband-in-southern-villages">https://www.pacificislandtimes.com/post/guam-launches-11-4m-project-to-expand-broadband-in-southern-villages</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/guam-launches-11-4m-project-to-expand-broadband-in-southern-villages">Save to Pocket</a>
@@ -536,6 +1042,18 @@ Suva, FIJI&#8212; The United Kingdom, Australia, and New Zealand have reaffirmed
 
 <span class="feed-item-link">
 <a href="https://www.forumsec.org/2024/02/19/release-uk-australia-and-new-zealand-empower-pacific-islands-participation-at-13th-wto-ministerial/">https://www.forumsec.org/2024/02/19/release-uk-australia-and-new-zealand-empower-pacific-islands-participation-at-13th-wto-ministerial/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.forumsec.org/2024/02/19/release-uk-australia-and-new-zealand-empower-pacific-islands-participation-at-13th-wto-ministerial/">Save to Pocket</a>
+</span>
+
+---
+
+## Trade: UK, Australia, and New Zealand Empower Pacific Islands’ Participation at 13th WTO Ministerial
+
+date: 2024-02-18, from: Pacific Island Forum
+
+Suva, FIJI&#8212; The United Kingdom, Australia, and New Zealand have reaffirmed their commitment to supporting the participation of Pacific Islands Countries at the 13th World Trade<span class="excerpt-hellip"> […]</span>
+
+<span class="feed-item-link">
+<a href="https://www.forumsec.org/2024/02/19/mc13support/">https://www.forumsec.org/2024/02/19/mc13support/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.forumsec.org/2024/02/19/mc13support/">Save to Pocket</a>
 </span>
 
 ---
