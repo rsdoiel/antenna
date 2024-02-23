@@ -1,11 +1,153 @@
 ---
 title: writing 2024.08
-updated: 2024-02-22 08:50:39
+updated: 2024-02-23 11:09:19
 ---
 
 # writing 2024.08
 
-(date: 2024-02-22 08:50:39)
+(date: 2024-02-23 11:09:19)
+
+---
+
+## Write On: 'Bob Marley: One Love' Writers Terence Winter and Frank E. Flowers
+
+date: 2024-02-23, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-bob-marley-one-love-writers-terence-winter-and-frank-e.-flowers" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Bob%20Marley%20One%20Love%20Writers%20Terence%20Winter%20and%20Frank%20E.%20Flowers.png" alt="Write On: 'Bob Marley: One Love' Writers Terence Winter and Frank E. Flowers" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<div>
+  “I think what's unique about this biopic and about Bob [Marley’s] story is that it really wasn't about his ego, it wasn't about him trying to be the biggest star in the world. It was about him connecting with God. I mean, he would smoke weed to kind of lower his ego and raise his consciousness so that he could read scripture, right? He would take these basic concepts: love thy neighbor, all people are equal, and try and channel that and inhabit that,” says Frank E. Flowers, co-writer of 
+ <em>Bob Marley: One Love</em>.&nbsp; 
+</div>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/write-on-bob-marley-one-love-writers-terence-winter-and-frank-e.-flowers">https://blog.finaldraft.com/write-on-bob-marley-one-love-writers-terence-winter-and-frank-e.-flowers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/write-on-bob-marley-one-love-writers-terence-winter-and-frank-e.-flowers">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-23, from: Neil Gaiman @ BlueSky)
+
+From the NYT:
+
+Neil Gaiman on the Collectibles He’s Auctioning https://www.nytimes.com/2024/02/23/arts/design/neil-gaiman-auction-collectibles.html?unlocked_article_code=1.Xk0.5PkB.9iQtuvn6Bwof&smid=nytcore-android-share
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3xwkqidl2j">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3xwkqidl2j</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3xwkqidl2j">Save to Pocket</a>
+</span>
+
+---
+
+## Alexandra Pierce Reviews The Parliament by Aimee Pokwatka
+
+date: 2024-02-23, from: Locus Magazine
+
+<p><strong></strong><strong>The Parliament, </strong>Aimee Pokwatka (Tordotcom 978-1-25082-097-6, 320pp, $28.99, hc) Cover by Jaya Miceli. January 2024.</p>
+<p>Aimee Pokwatka leans into the absurdist, and refuses explanations in her fiction. Her debut, <strong>Self-Portrait with Nothing </strong>(2022), has an artist with the ability to bring variants of her portrait subjects into this world; how this works is never explained. Rather, the focus is on relationships: between the artist’s own variants, between the artist and  <a href="https://locusmag.com/2024/02/alexandra-pierce-reviews-the-parliament-by-aimee-pokwatka/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/alexandra-pierce-reviews-the-parliament-by-aimee-pokwatka/">https://locusmag.com/2024/02/alexandra-pierce-reviews-the-parliament-by-aimee-pokwatka/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/alexandra-pierce-reviews-the-parliament-by-aimee-pokwatka/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-23, from: Neil Gaiman @ BlueSky)
+
+This thread...
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3svyztms2j">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3svyztms2j</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3svyztms2j">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-23, from: Neil Gaiman @ BlueSky)
+
+The lovely LitJoy edition of STARDUST. (They have others lined up as well.)
+
+https://litjoycrate.com/products/stardust-illustrated-special-edition
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3sudgzm22y">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3sudgzm22y</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3sudgzm22y">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-23, from: Neil Gaiman @ BlueSky)
+
+It's from Litjoy: https://litjoycrate.com/products/stardust-illustrated-special-edition
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3sc46osv26">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3sc46osv26</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3sc46osv26">Save to Pocket</a>
+</span>
+
+---
+
+## What 'Bob Marley: One Love' Teaches You About Writing a Biopic
+
+date: 2024-02-23, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/what-bob-marley-one-love-teaches-you-about-writing-a-biopic" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Bob%20Marley%20One%20Love.jpg" alt="Bob Marley (Kingsley Ben-Adir) playing guitar on a stage in 'Bob Marley: One Love' " class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Bob Marley may never have discovered his voice. Amid the turmoil in Jamaica, his life could have ended before he could ignite the world with songs of peace and freedom. Or he could have chosen an easier path, but then there likely wouldn’t have been a biopic created based on his life.&nbsp;</span><em><span>Bob Marley: One Love</span></em><span> shows how Marley's success and determination for peace sparked a musical revolution and changed the world.</span></p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/what-bob-marley-one-love-teaches-you-about-writing-a-biopic">https://blog.finaldraft.com/what-bob-marley-one-love-teaches-you-about-writing-a-biopic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/what-bob-marley-one-love-teaches-you-about-writing-a-biopic">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-23, from: Neil Gaiman @ BlueSky)
+
+Isn't it pretty?
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3ncmdc6m2m">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3ncmdc6m2m</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km3ncmdc6m2m">Save to Pocket</a>
+</span>
+
+---
+
+## The Year in Review 2023 by Jake Casella Brookins
+
+date: 2024-02-22, from: Locus Magazine
+
+<p>2023 wound up being a strange reading year for me. I started the year with a big move: from Chicago back to beautiful Buffalo, NY. While it’s wonderful to be back east and closer to the mountains, being so far from Chicago’s amazing literary scene has been hard. I’ve particularly missed the wonderful speculative book clubs I was part of there – Think Galactic and the Chicago Nerd Social Club  <a href="https://locusmag.com/2024/02/the-year-in-review-2023-by-jake-casella-brookins/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/the-year-in-review-2023-by-jake-casella-brookins/">https://locusmag.com/2024/02/the-year-in-review-2023-by-jake-casella-brookins/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/the-year-in-review-2023-by-jake-casella-brookins/">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 Stoker Awards Final Ballot
+
+date: 2024-02-22, from: Locus Magazine
+
+<p>The Horror Writers Association (HWA) has announced the final ballot for the 2023 Bram Stoker Awards:</p>
+<p><strong>Superior Achievement in a Novel</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>The Reformatory</strong>, Tananarive Due (Saga)</li>
+<li><strong>How to Sell a Haunted House</strong>, Grady Hendrix (Berkley)</li>
+<li><strong>Don’t Fear the</strong> <strong>Reaper</strong>, Stephen Graham Jones (Saga)</li>
+<li><strong>Lone Women</strong>, Victor LaValle (One World)</li>
+<li><strong>Black River Orchard</strong>, Chuck Wendig (Del Rey)</li>
+</ul>
+<p><strong>Superior Achievement in a First Novel</strong></p>
+<ul>
+<li><strong>The Daughters of </strong></li></ul></div> <a href="https://locusmag.com/2024/02/2023-stoker-awards-final-ballot/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/2023-stoker-awards-final-ballot/">https://locusmag.com/2024/02/2023-stoker-awards-final-ballot/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/2023-stoker-awards-final-ballot/">Save to Pocket</a>
+</span>
 
 ---
 

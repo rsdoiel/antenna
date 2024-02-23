@@ -1,11 +1,25 @@
 ---
 title: libraries 2024.08
-updated: 2024-02-22 08:50:39
+updated: 2024-02-23 11:09:19
 ---
 
 # libraries 2024.08
 
-(date: 2024-02-22 08:50:39)
+(date: 2024-02-23 11:09:19)
+
+---
+
+## AI, Translations, and the Dominance of the English Language
+
+date: 2024-02-23, from: Scholarly Kitchen
+
+<p>AI's potential for translation makes science fiction gadgets an increasingly likely reality. But how did English become the dominant global language, and just what do we mean by "English"?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/23/ai-translations-and-the-dominance-of-the-english-language/">AI, Translations, and the Dominance of the English Language</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/23/ai-translations-and-the-dominance-of-the-english-language/">https://scholarlykitchen.sspnet.org/2024/02/23/ai-translations-and-the-dominance-of-the-english-language/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/23/ai-translations-and-the-dominance-of-the-english-language/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -65,7 +79,7 @@ date: 2024-02-21, from: Scholarly Kitchen
 
 date: 2024-02-20, from: Association of Research Libraries News
 
-<p>Last Updated on February 21, 2024, 4:57 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, February 21 &#124; Thursday, February 22 Tuesday, February...</p>
+<p>Last Updated on February 22, 2024, 4:31 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, February 21 &#124; Thursday, February 22 Tuesday, February...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/39401/">Day in Review (February 20-22)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 

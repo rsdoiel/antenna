@@ -1,11 +1,179 @@
 ---
 title: motorcycles 2024.08
-updated: 2024-02-22 08:50:39
+updated: 2024-02-23 11:09:19
 ---
 
 # motorcycles 2024.08
 
-(date: 2024-02-22 08:50:39)
+(date: 2024-02-23 11:09:19)
+
+---
+
+## Don’t Buy a Snowmobile Until You’ve Seen BRP's 2025 Lineup
+
+date: 2024-02-23, from: Ride Apart, Electric Motorcycle News
+
+For 2025, the Ski-Doo and Lynx lineups are stacked with upgrades, an anniversary edition, and even some electric models.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709761/brp-2025-snowmobiles/">https://www.rideapart.com/news/709761/brp-2025-snowmobiles/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709761/brp-2025-snowmobiles/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Harley-Davidson CVO Road Glide ST First Ride
+
+date: 2024-02-23, from: Cycle World News
+
+Harley-Davidson’s new CVO Road Glide ST takes lessons learned from the King of the Baggers series and applies them to the most potent bagger it has ever made.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-cvo-road-glide-st-first-ride/">https://www.cycleworld.com/motorcycle-reviews/harley-davidson-cvo-road-glide-st-first-ride/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-cvo-road-glide-st-first-ride/">Save to Pocket</a>
+</span>
+
+---
+
+## How To Watch Daytona 200 and MotoAmerica 2024
+
+date: 2024-02-23, from: Cycle World News
+
+Roadracing is ready to kick off for 2024, beginning with the 82nd Daytona 200, followed by the MotoAmerica Superbike season starting at Road Atlanta in April.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/how-to-watch-daytona-200-and-motoamerica/">https://www.cycleworld.com/motorcycle-news/how-to-watch-daytona-200-and-motoamerica/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/how-to-watch-daytona-200-and-motoamerica/">Save to Pocket</a>
+</span>
+
+---
+
+## Rookie Cody Kiemele Making ARCA West Debut with PP1M at Phoenix
+
+date: 2024-02-23, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires Cody Kiemele, 17-year-old driver, born June 29, 2006, from Riverside, Calif. will drive the No. 77 part-time with Performance P-1 Motorsports in&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/rookie-kiemele-arca-west-debut-phoenix/">https://kickinthetires.net/nascar/rookie-kiemele-arca-west-debut-phoenix/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/rookie-kiemele-arca-west-debut-phoenix/">Save to Pocket</a>
+</span>
+
+---
+
+## The Salt Lake Tribune’s Opinion On UTV Use Would Restrict Everyone’s Access
+
+date: 2024-02-23, from: Ride Apart, Electric Motorcycle News
+
+And it’s filled with factual inaccuracies.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709763/salt-lake-tribune-atv-utv-opinion-land-access-trail-closure/">https://www.rideapart.com/news/709763/salt-lake-tribune-atv-utv-opinion-land-access-trail-closure/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709763/salt-lake-tribune-atv-utv-opinion-land-access-trail-closure/">Save to Pocket</a>
+</span>
+
+---
+
+## Dust Offering Up Another 100 Spots For Its Upcoming All-Electric Dirt Bike
+
+date: 2024-02-23, from: Ride Apart, Electric Motorcycle News
+
+Why don’t I have more cash?
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709720/dust-moto-ev-dirt-bike-crowdfunding-alpha-1/">https://www.rideapart.com/news/709720/dust-moto-ev-dirt-bike-crowdfunding-alpha-1/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709720/dust-moto-ev-dirt-bike-crowdfunding-alpha-1/">Save to Pocket</a>
+</span>
+
+---
+
+## Equalizing NASCAR’s Crown Jewel Races
+
+date: 2024-02-22, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor NASCAR’s four crown jewel races, the Daytona 500, Coca-Cola 600, Brickyard 400 and Southern 500 each carry a level of prestige and importance. However, the&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/equalizing-nascars-crown-jewel-races/">https://kickinthetires.net/nascar/equalizing-nascars-crown-jewel-races/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/equalizing-nascars-crown-jewel-races/">Save to Pocket</a>
+</span>
+
+---
+
+## Dentist Turned Moto Guzzi Wizard John Wittner Dies
+
+date: 2024-02-22, from: Cycle World News
+
+Known as Dr. John, John Wittner was a dentist turned renowned Moto Guzzi racebike designer. He passed away February 15, 2024, at the age of 78.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/moto-guzzi-racebike-designer-john-wittner-dies/">https://www.cycleworld.com/motorcycle-news/moto-guzzi-racebike-designer-john-wittner-dies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/moto-guzzi-racebike-designer-john-wittner-dies/">Save to Pocket</a>
+</span>
+
+---
+
+## Legendary Australian Freestyle MX Rider Jayden Archer Dead At 27
+
+date: 2024-02-22, from: Ride Apart, Electric Motorcycle News
+
+A top FMX athlete, he's also remembered as a great human by those who knew him.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709754/australian-fmx-jayden-archer-obituary/">https://www.rideapart.com/news/709754/australian-fmx-jayden-archer-obituary/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709754/australian-fmx-jayden-archer-obituary/">Save to Pocket</a>
+</span>
+
+---
+
+## QJMotor’s Unusual Supermono Engine
+
+date: 2024-02-22, from: Cycle World News
+
+QJMotor’s patent shows an engine that appears to be a twin, but has only one active cylinder and a second that acts as a counterbalancer.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/qjmotor-supermono-engine/">https://www.cycleworld.com/motorcycle-news/qjmotor-supermono-engine/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/qjmotor-supermono-engine/">Save to Pocket</a>
+</span>
+
+---
+
+## Carson Kvapil Set for Martinsville Xfinity Debut with JRM
+
+date: 2024-02-22, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor JR Motorsports (JRM) continues their mission to aid up-and-coming drivers up the NASCAR ladder as Carson Kvapil will attempt his NASCAR Xfinity Series debut in&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/kvapil-martinsvlle-debut-jr-motorsports/">https://kickinthetires.net/nascar/kvapil-martinsvlle-debut-jr-motorsports/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/kvapil-martinsvlle-debut-jr-motorsports/">Save to Pocket</a>
+</span>
+
+---
+
+## Will A New BSA Motorcycles Factory Be Built In England In 2024?
+
+date: 2024-02-22, from: Ride Apart, Electric Motorcycle News
+
+It's been a minute or two, but forward movement should reportedly begin in spring 2024.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709742/bsa-manufacturing-uk-classic-legends/">https://www.rideapart.com/news/709742/bsa-manufacturing-uk-classic-legends/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709742/bsa-manufacturing-uk-classic-legends/">Save to Pocket</a>
+</span>
+
+---
+
+## How Much Power Does the 2023 GasGas SM 700 Make?
+
+date: 2024-02-22, from: Cycle World News
+
+The 2023 GasGas SM 700 gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/gasgas-sm-700-dyno-test-2023/">https://www.cycleworld.com/bikes/gasgas-sm-700-dyno-test-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/gasgas-sm-700-dyno-test-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## GasGas to Showcase New Electric-Powered Prototype Trial Bike in Spain
+
+date: 2024-02-22, from: Cycle World News
+
+As a world leader in trial bike manufacturing, GASGAS has been evolving its own electric-powered trial bike – the TXE – for several years.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/gasgas-to-showcase-new-electric-powered-prototype-trial-bike-in-spain/">https://www.cycleworld.com/the-wire/gasgas-to-showcase-new-electric-powered-prototype-trial-bike-in-spain/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/gasgas-to-showcase-new-electric-powered-prototype-trial-bike-in-spain/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -45,11 +213,11 @@ Indian partners with Roland Sands Design for the limited-edition 2024 FTR x RSD 
 
 ---
 
-## Are The Yamaha R1 And R1M About To Be Discontinued?
+## UPDATE: Yamaha R1 And R1M To Be Track-Only In Europe From 2025
 
 date: 2024-02-21, from: Ride Apart, Electric Motorcycle News
 
-Say it ain't so, Team Blue. Our hearts can't take it.
+Yamaha Racing Europe gives an official update on the state of its well-loved literbike.
 
 <span class="feed-item-link">
 <a href="https://www.rideapart.com/news/709594/yamaha-r1-r1m-discontinued-europe/">https://www.rideapart.com/news/709594/yamaha-r1-r1m-discontinued-europe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709594/yamaha-r1-r1m-discontinued-europe/">Save to Pocket</a>

@@ -1,11 +1,124 @@
 ---
 title: columns 2024.08
-updated: 2024-02-22 08:50:39
+updated: 2024-02-23 11:09:19
 ---
 
 # columns 2024.08
 
-(date: 2024-02-22 08:50:39)
+(date: 2024-02-23 11:09:19)
+
+---
+
+## AIs Hacking Websites
+
+date: 2024-02-23, updated: 2024-02-23, from: Bruce Schneier blog
+
+<p>New <a href="https://arxiv.org/abs/2402.06664">research</a>:</p>
+<blockquote><p>LLM Agents can Autonomously Hack Websites</p>
+<p><b>Abstract:</b> In recent years, large language models (LLMs) have become increasingly capable and can now interact with tools (i.e., call functions), read documents, and recursively call themselves. As a result, these LLMs can now function autonomously as agents. With the rise in capabilities of these agents, recent work has speculated on how LLM agents would affect cybersecurity. However, not much is known about the offensive capabilities of LLM agents.</p>
+<p>In this work, we show that LLM agents can autonomously hack websites, performing tasks as complex as blind database schema extraction and SQL injections without human feedback. Importantly, the agent does not need to know the vulnerability beforehand. This capability is uniquely enabled by frontier models that are highly capable of tool use and leveraging extended context. Namely, we show that GPT-4 is capable of such hacks, but existing open-source models are not. Finally, we show that GPT-4 is capable of autonomously finding vulnerabilities in websites in the wild. Our findings raise questions about the widespread deployment of LLMs...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/ais-hacking-websites.html">https://www.schneier.com/blog/archives/2024/02/ais-hacking-websites.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/ais-hacking-websites.html">Save to Pocket</a>
+</span>
+
+---
+
+## curl HTTP/3 security audit
+
+date: 2024-02-23, from: Daniel Stenberg Blog
+
+An external security audit focused especially on curl&#8217;s HTTP/3 components and associated source code was recently concluded by Trail of Bits. In particular on the HTTP/3 related curl code that uses and interfaces the ngtcp2 and nghttp3 libraries, as that is so far the only HTTP/3 backend in curl that is not labeled as experimental. &#8230; <a href="https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/" class="more-link">Continue reading <span class="screen-reader-text">curl HTTP/3 security audit</span> <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/">https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daniel.haxx.se/blog/2024/02/23/curl-http-3-security-audit/">Save to Pocket</a>
+</span>
+
+---
+
+## The Emerging Republican Theocracy
+
+date: 2024-02-23, from: Robert Reich's blog
+
+White Christian nationalism is the creed of red America
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/republican-theocracy">https://robertreich.substack.com/p/republican-theocracy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/republican-theocracy">Save to Pocket</a>
+</span>
+
+---
+
+## Yahoo Lays Off the Leaders of Engadget
+
+date: 2024-02-23, updated: 2024-02-23, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.theverge.com/2024/2/22/24080215/engadget-layoffs-tech-news-blogs-editorial-restructuring">https://www.theverge.com/2024/2/22/24080215/engadget-layoffs-tech-news-blogs-editorial-restructuring</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theverge.com/2024/2/22/24080215/engadget-layoffs-tech-news-blogs-editorial-restructuring">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Sports and Lock Screen Live Activities
+
+date: 2024-02-23, updated: 2024-02-23, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://support.apple.com/en-is/guide/iphone/iph9ac289c4d/ios">https://support.apple.com/en-is/guide/iphone/iph9ac289c4d/ios</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://support.apple.com/en-is/guide/iphone/iph9ac289c4d/ios">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Sports Is Eddy Cue’s Baby
+
+date: 2024-02-23, updated: 2024-02-23, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://sixcolors.com/post/2024/02/apple-sports-a-free-iphone-app-to-get-you-the-score-fast/">https://sixcolors.com/post/2024/02/apple-sports-a-free-iphone-app-to-get-you-the-score-fast/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sixcolors.com/post/2024/02/apple-sports-a-free-iphone-app-to-get-you-the-score-fast/">Save to Pocket</a>
+</span>
+
+---
+
+## Friday 23 February, 2024
+
+date: 2024-02-23, from: John Naughton's online diary
+
+My ol’ Burgundian Home If I had a house en Bourgogne (which, alas, I don’t), I’d like one like this. And then I’d ask Randy Newman to do a variation on this for me. Quote of the Day ”My problem &#8230; <a href="https://memex.naughtons.org/friday-23-february-2024/39166/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/friday-23-february-2024/39166/">https://memex.naughtons.org/friday-23-february-2024/39166/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/friday-23-february-2024/39166/">Save to Pocket</a>
+</span>
+
+---
+
+## When I met Strom Thurmond 
+
+date: 2024-02-22, from: Robert Reich's blog
+
+My conversation with him in an elevator
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/how-bad-was-strom-thurmond">https://robertreich.substack.com/p/how-bad-was-strom-thurmond</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/how-bad-was-strom-thurmond">Save to Pocket</a>
+</span>
+
+---
+
+## New Image/Video Prompt Injection Attacks
+
+date: 2024-02-22, updated: 2024-02-22, from: Bruce Schneier blog
+
+<p>Simon Willison has been <a href="https://simonwillison.net/2024/Feb/21/gemini-pro-video/">playing with</a> the video processing capabilities of the new Gemini Pro 1.5 model from Google, and it&#8217;s <i>really</i> impressive.</p>
+<p>Which means a lot of scary new video <a href="https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/">prompt injection</a> attacks. And remember, given the current state of technology, prompt injection attacks are <a href="https://www.schneier.com/blog/archives/2023/07/automatically-finding-prompt-injection-attacks.html">impossible to prevent</a> in general.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/new-image-video-prompt-injection-attacks.html">https://www.schneier.com/blog/archives/2024/02/new-image-video-prompt-injection-attacks.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/new-image-video-prompt-injection-attacks.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -166,11 +279,11 @@ Inspiring young 92-year-olds like me
 
 ---
 
-## My surprise at yesterday's substack response
+## My surprise at yesterday’s Substack response
 
 date: 2024-02-22, from: Robert Reich's blog
 
-Friends, I was going to write something else for today but I was so surprised by the response to my Office Hours substack letter and poll yesterday that I felt the question needed more airing. It&#8217;s a question I&#8217;ve been asked a lot recently: Should Joe Biden step aside and allow a Democrats to have an open convention to choose their candidate?
+Friends, I was going to write something else for today, but I was so surprised by the response to my Office Hours Substack letter and poll yesterday that I felt the question needed more airing. It&#8217;s a question I&#8217;ve been asked a lot recently: Should Joe Biden step aside and allow Democrats to have an open convention to choose their candidate?
 
 <span class="feed-item-link">
 <a href="https://robertreich.substack.com/p/my-surprise-at-yesterdays-substack">https://robertreich.substack.com/p/my-surprise-at-yesterdays-substack</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/my-surprise-at-yesterdays-substack">Save to Pocket</a>
@@ -315,7 +428,7 @@ Courage is the moral strength to venture, persevere, and withstand danger, fear,
 
 ## Microsoft Is Spying on Users of Its AI Tools
 
-date: 2024-02-20, updated: 2024-02-19, from: Bruce Schneier blog
+date: 2024-02-20, updated: 2024-02-23, from: Bruce Schneier blog
 
 <p>Microsoft announced that it <a href="https://www.washingtonpost.com/technology/2024/02/14/us-adversaries-using-artificial-intelligence-boost-hacking-efforts/">caught</a> Chinese, Russian, and Iranian hackers using its AI tools&#8212;presumably coding tools&#8212;to improve their hacking abilities.</p>
 <p>From their <a href="https://www.microsoft.com/en-us/security/business/security-insider/reports/cyber-signals/cyber-signals-issue-6-navigating-cyberthreats-and-strengthening-defenses/">report</a>:</p>

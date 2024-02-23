@@ -1,11 +1,131 @@
 ---
 title: games 2024.08
-updated: 2024-02-22 08:50:39
+updated: 2024-02-23 11:09:19
 ---
 
 # games 2024.08
 
-(date: 2024-02-22 08:50:39)
+(date: 2024-02-23 11:09:19)
+
+---
+
+## Nightingale’s jank mechanics are enveloped by a truly visionary world
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24081032/nightingale-early-access-crafting-survival-impressions">https://www.polygon.com/24081032/nightingale-early-access-crafting-survival-impressions</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24081032/nightingale-early-access-crafting-survival-impressions">Save to Pocket</a>
+</span>
+
+---
+
+## Seems like that Age of Empires mobile game is actually happening
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24080199/age-of-empires-mobile-happening-pre-registration-details">https://www.polygon.com/24080199/age-of-empires-mobile-happening-pre-registration-details</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24080199/age-of-empires-mobile-happening-pre-registration-details">Save to Pocket</a>
+</span>
+
+---
+
+## Nightingale devs to add offline mode after negative player feedback
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24081047/nightingale-inflexion-offline-mode">https://www.polygon.com/24081047/nightingale-inflexion-offline-mode</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24081047/nightingale-inflexion-offline-mode">Save to Pocket</a>
+</span>
+
+---
+
+## Stopmotion director says his brand of animation is necromancy
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24079628/stopmotion-movie-director-interview-stop-motion-animation-necromancy">https://www.polygon.com/24079628/stopmotion-movie-director-interview-stop-motion-animation-necromancy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24079628/stopmotion-movie-director-interview-stop-motion-animation-necromancy">Save to Pocket</a>
+</span>
+
+---
+
+## How to increase carrying capacity in Nightingale
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24080952/nightingale-increase-carrying-capacity-weighed-down">https://www.polygon.com/guides/24080952/nightingale-increase-carrying-capacity-weighed-down</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24080952/nightingale-increase-carrying-capacity-weighed-down">Save to Pocket</a>
+</span>
+
+---
+
+## Do you want to click on playing cards in a Jane Austen-themed setting? Of course you do
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24080883/regency-solitaire-2-jane-austen-card-game">https://www.polygon.com/24080883/regency-solitaire-2-jane-austen-card-game</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24080883/regency-solitaire-2-jane-austen-card-game">Save to Pocket</a>
+</span>
+
+---
+
+## Delicious in Dungeon’s delectable dishes, ranked
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24050648/delicious-in-dungeon-food-dishes-ranking-worst-to-best">https://www.polygon.com/24050648/delicious-in-dungeon-food-dishes-ranking-worst-to-best</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24050648/delicious-in-dungeon-food-dishes-ranking-worst-to-best">Save to Pocket</a>
+</span>
+
+---
+
+## How to unlock the Antiquarian Major Card in Nightingale
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24080454/nightingale-antiquarian-major-card-site-schematic-unlock-craft">https://www.polygon.com/guides/24080454/nightingale-antiquarian-major-card-site-schematic-unlock-craft</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24080454/nightingale-antiquarian-major-card-site-schematic-unlock-craft">Save to Pocket</a>
+</span>
+
+---
+
+## Netflix’s new Avatar prologue alters one of Aang’s best scenes
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24080331/netflix-avatar-last-airbender-opening-changes">https://www.polygon.com/24080331/netflix-avatar-last-airbender-opening-changes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24080331/netflix-avatar-last-airbender-opening-changes">Save to Pocket</a>
+</span>
+
+---
+
+## The 25 best movies on Netflix right now
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/21266801/best-movies-on-netflix">https://www.polygon.com/21266801/best-movies-on-netflix</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/21266801/best-movies-on-netflix">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,119 @@
 ---
 title: mid central 2024.08
-updated: 2024-02-22 08:50:39
+updated: 2024-02-23 11:09:18
 ---
 
 # mid central 2024.08
 
-(date: 2024-02-22 08:50:39)
+(date: 2024-02-23 11:09:18)
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-02-23, from: Amateur Radio Relay League News
+
+<p>"ASWFC GEOMAGNETIC DISTURBANCE WARNING ISSUED AT 0237 UTC/22 FEBRUARY 2024 BY THE AUSTRALIAN SPACE WEATHER FORECASTING CENTRE.<br /><br />"A solar filament has erupted from the northwest solar quadrant and<br />a component of the predominately westward associated CME is expected<br />to arrive at the Earth during the second half of 24-Feb. G1 conditions, with the chance of G2 periods are possible during the second hal...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/the-k7ra-solar-update-818">http://www.arrl.org/news/view/the-k7ra-solar-update-818</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/the-k7ra-solar-update-818">Save to Pocket</a>
+</span>
+
+---
+
+## An MCU test chip embeds 10.8 Mbit STT-MRAM memory
+
+date: 2024-02-23, from: EDN Blog
+
+<img width="1399" height="1281" src="https://www.edn.com/wp-content/uploads/Fig-1-mram-chip-Renesas.jpg?fit=1399%2C1281" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-mram-chip-Renesas.jpg?w=1399 1399w, https://www.edn.com/wp-content/uploads/Fig-1-mram-chip-Renesas.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-mram-chip-Renesas.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-mram-chip-Renesas.jpg?w=1024 1024w" sizes="(max-width: 1399px) 100vw, 1399px" /><p>MRAM achieves a random read access frequency of over 200 MHz and a write throughput of 10.4 MB/s on a 22-nm process.</p>
+<p>The post <a href="https://www.edn.com/an-mcu-test-chip-embeds-10-8-mbit-stt-mram-memory/" data-wpel-link="internal">An MCU test chip embeds 10.8 Mbit STT-MRAM memory</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/an-mcu-test-chip-embeds-10-8-mbit-stt-mram-memory/">https://www.edn.com/an-mcu-test-chip-embeds-10-8-mbit-stt-mram-memory/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/an-mcu-test-chip-embeds-10-8-mbit-stt-mram-memory/">Save to Pocket</a>
+</span>
+
+---
+
+## Fresno State Football announces intention to join EA Sports
+
+date: 2024-02-22, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno State football intends to join College Football 25 Electronic Arts Sports new video game that will revive the popular College Football video game series.  The program posted a teaser today on X with the caption, “WE’RE IN THE GAME.” WE’RE IN THE GAME 🎮@EASPORTSCollege &#124; #CFB25 pic.twitter.com/hswJ5eRIk8 &#8212; Fresno State Football (@FresnoStateFB) February 22,...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/fresno-state-football-announces-intention-to-join-ea-sports/">https://fscollegian.com/2024/02/fresno-state-football-announces-intention-to-join-ea-sports/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/fresno-state-football-announces-intention-to-join-ea-sports/">Save to Pocket</a>
+</span>
+
+---
+
+## BLDC motor driver prolongs battery life
+
+date: 2024-02-22, from: EDN Blog
+
+<img width="800" height="408" src="https://www.edn.com/wp-content/uploads/Alpha-Omega-32063.jpg?fit=800%2C408" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Alpha-Omega-32063.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Alpha-Omega-32063.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Alpha-Omega-32063.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>A three-phase BLDC motor driver, the AOZ32063MQV from AOS, offers an input voltage range of 5 V to 60 V and 100% duty cycle operation.</p>
+<p>The post <a href="https://www.edn.com/bldc-motor-driver-prolongs-battery-life/" data-wpel-link="internal">BLDC motor driver prolongs battery life</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/bldc-motor-driver-prolongs-battery-life/">https://www.edn.com/bldc-motor-driver-prolongs-battery-life/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/bldc-motor-driver-prolongs-battery-life/">Save to Pocket</a>
+</span>
+
+---
+
+## 100-V MLCC is among the industry’s smallest
+
+date: 2024-02-22, from: EDN Blog
+
+<img width="800" height="468" src="https://www.edn.com/wp-content/uploads/Murata-GJM022.jpg?fit=800%2C468" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Murata-GJM022.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Murata-GJM022.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Murata-GJM022.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Murata expands its GJM022 series of high-Q multilayer ceramic capacitors (MLCCs) with a 100-V device that is just 0.4×0.2 mm (L×W).</p>
+<p>The post <a href="https://www.edn.com/100-v-mlcc-is-among-the-industrys-smallest/" data-wpel-link="internal">100-V MLCC is among the industry’s smallest</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/100-v-mlcc-is-among-the-industrys-smallest/">https://www.edn.com/100-v-mlcc-is-among-the-industrys-smallest/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/100-v-mlcc-is-among-the-industrys-smallest/">Save to Pocket</a>
+</span>
+
+---
+
+## Development kit pairs RISC-V and FPGA
+
+date: 2024-02-22, from: EDN Blog
+
+<img width="800" height="442" src="https://www.edn.com/wp-content/uploads/Microchip-Polar-Discovery-Kit.jpg?fit=800%2C442" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Microchip-Polar-Discovery-Kit.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Microchip-Polar-Discovery-Kit.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microchip-Polar-Discovery-Kit.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>The PolarFire SoC Discovery Kit from Microchip makes RISC-V and FPGA design accessible to a wider range of embedded engineers.</p>
+<p>The post <a href="https://www.edn.com/development-kit-pairs-risc-v-and-fpga/" data-wpel-link="internal">Development kit pairs RISC-V and FPGA</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/development-kit-pairs-risc-v-and-fpga/">https://www.edn.com/development-kit-pairs-risc-v-and-fpga/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/development-kit-pairs-risc-v-and-fpga/">Save to Pocket</a>
+</span>
+
+---
+
+## SP4T switches offer high isolation up to 8.5 GHz
+
+date: 2024-02-22, from: EDN Blog
+
+<img width="700" height="470" src="https://www.edn.com/wp-content/uploads/pSemi.jpg?fit=700%2C470" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/pSemi.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/pSemi.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>pSemi announced production readiness of two UltraCMOS SP4T RF switches that operate from 10 MHz to 8.5 GHz with high channel isolation.</p>
+<p>The post <a href="https://www.edn.com/sp4t-switches-offer-high-isolation-up-to-8-5-ghz/" data-wpel-link="internal">SP4T switches offer high isolation up to 8.5 GHz</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/sp4t-switches-offer-high-isolation-up-to-8-5-ghz/">https://www.edn.com/sp4t-switches-offer-high-isolation-up-to-8-5-ghz/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/sp4t-switches-offer-high-isolation-up-to-8-5-ghz/">Save to Pocket</a>
+</span>
+
+---
+
+## MRAM macro speeds read/write operations
+
+date: 2024-02-22, from: EDN Blog
+
+<img width="700" height="449" src="https://www.edn.com/wp-content/uploads/Renesas-MRAM-chip.jpg?fit=700%2C449" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Renesas-MRAM-chip.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Renesas-MRAM-chip.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Renesas presented an embedded MRAM macro in an MCU test chip at ISSCC 2024 that delivers a random-read access frequency of over 200 MHz.</p>
+<p>The post <a href="https://www.edn.com/mram-macro-speeds-read-write-operations/" data-wpel-link="internal">MRAM macro speeds read/write operations</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/mram-macro-speeds-read-write-operations/">https://www.edn.com/mram-macro-speeds-read-write-operations/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/mram-macro-speeds-read-write-operations/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +121,7 @@ updated: 2024-02-22 08:50:39
 
 date: 2024-02-22, from: EDN Blog
 
-<img width="535" height="493" src="https://www.edn.com/wp-content/uploads/Fig1_logicprobe.gif?fit=535%2C493" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" /><p>A logic probe design with a wide voltage range that determines three conditions and features a counter. </p>
+<img width="535" height="493" src="https://www.edn.com/wp-content/uploads/Fig1_logicprobe.gif?fit=535%2C493" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" /><p>A logic probe design with a wide voltage range that determines three conditions and features a counter. </p>
 <p>The post <a href="https://www.edn.com/logic-probe-has-a-wide-voltage-range/" data-wpel-link="internal">Logic Probe has a wide voltage range</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 
@@ -39,7 +147,7 @@ The Fresno State men’s golf team had a rough start at the John A. Burns Interc
 
 date: 2024-02-22, from: The Collegian (Cal State Fresno's Student Newspaper)
 
-Lisa Ellen Spoors, the former graduate teaching assistant at Fresno State involved in the hit-and-run accident that resulted in the death of Rashad Al-Hakim Jr. in October 2022, stood in a Fresno County courtroom and accepted a plea bargain this morning. Spoors, who uses they/them pronouns, pled nolo contendere (no contest) to charges of ‘vehicular...
+Lisa Ellen Spoors, the former graduate teaching assistant at Fresno State involved in the hit-and-run accident that resulted in the death of Rashad Al-Hakim Jr. in October 2022, stood in a Fresno County courtroom and accepted a plea bargain this morning. Spoors, who uses they/them pronouns, pled nolo contendere (no contest) to charges of vehicular...
 
 <span class="feed-item-link">
 <a href="https://fscollegian.com/2024/02/lisa-ellen-spoors-accepts-plea-bargain-and-will-face-up-to-five-years-in-prison/">https://fscollegian.com/2024/02/lisa-ellen-spoors-accepts-plea-bargain-and-will-face-up-to-five-years-in-prison/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/lisa-ellen-spoors-accepts-plea-bargain-and-will-face-up-to-five-years-in-prison/">Save to Pocket</a>

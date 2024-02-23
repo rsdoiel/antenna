@@ -1,11 +1,860 @@
 ---
 title: tech likely 2024.08
-updated: 2024-02-22 08:50:39
+updated: 2024-02-23 11:09:19
 ---
 
 # tech likely 2024.08
 
-(date: 2024-02-22 08:50:39)
+(date: 2024-02-23 11:09:19)
+
+---
+
+##  Now that I have kids, I can more fully appreciate The Kid... 
+
+date: 2024-02-23, updated: 2024-02-23, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044047-now-that-i-have-kids">https://kottke.org/24/02/0044047-now-that-i-have-kids</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044047-now-that-i-have-kids">Save to Pocket</a>
+</span>
+
+---
+
+##  Wesley Moore awards &#8220;Best Theft of a Movie&#8221; to Ryan Gosling in... 
+
+date: 2024-02-23, updated: 2024-02-23, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044045-wesley-moore-awards-best-">https://kottke.org/24/02/0044045-wesley-moore-awards-best-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044045-wesley-moore-awards-best-">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8216;Visible Mending,&#8217; on Love, Death, and Knitting 
+
+date: 2024-02-23, updated: 2024-02-23, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/visible-mending-on-love-death-and-knitting">https://kottke.org/24/02/visible-mending-on-love-death-and-knitting</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/visible-mending-on-love-death-and-knitting">Save to Pocket</a>
+</span>
+
+---
+
+## The week we couldn’t find Google News
+
+date: 2024-02-23, from: Nieman Journalism Lab
+
+Sarah on Wednesday: &#8220;Where is the Google News filter?&#8221; Us: &#8220;Haha what&#8221; [continues talking about divorce on Slack] Sarah: [posts succession of screenshots] &#8220;Where is the &#8216;news&#8217; filter?&#8221; Obviously it doesn&#8217;t make sense that Google News would disappear, we use that all the time, must be a bug or some crazy Sarah tech issue surely!...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/the-week-we-couldnt-find-google-news/">https://www.niemanlab.org/2024/02/the-week-we-couldnt-find-google-news/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/the-week-we-couldnt-find-google-news/">Save to Pocket</a>
+</span>
+
+---
+
+##  I&#8217;ve been thinking a lot about alternate families/relationships/friendships lately and this Modern... 
+
+date: 2024-02-23, updated: 2024-02-23, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044043-ive-been-thinking-a-lot">https://kottke.org/24/02/0044043-ive-been-thinking-a-lot</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044043-ive-been-thinking-a-lot">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Sets Coverage for Agency’s SpaceX Crew-8 Launch, Docking
+
+date: 2024-02-23, from: NASA breaking news
+
+NASA will provide coverage of the upcoming prelaunch and launch activities for the agency’s SpaceX Crew-8 mission with astronauts to the International Space Station. The launch is targeted for 12:04 a.m. EST, Friday, March 1, from Launch Complex 39A at NASA’s Kennedy Space Center in Florida. The targeted docking time is about 7 a.m. on [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-8-launch-docking/">https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-8-launch-docking/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-8-launch-docking/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-23, from: Miguel de Icaza Mastondon feed)
+
+<p>1 out of every 20 Gazans is either dead or maimed.</p><p>Reply with a rationalization to earn a free block.</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111981718020893055">https://mastodon.social/@Migueldeicaza/111981718020893055</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111981718020893055">Save to Pocket</a>
+</span>
+
+---
+
+##  A huge study of more than 99 million people confirms the safety... 
+
+date: 2024-02-23, updated: 2024-02-23, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044041-a-huge-study-of-more">https://kottke.org/24/02/0044041-a-huge-study-of-more</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044041-a-huge-study-of-more">Save to Pocket</a>
+</span>
+
+---
+
+## NASA, Intuitive Machines to Discuss Historic Moon Mission Today
+
+date: 2024-02-23, from: NASA breaking news
+
+NASA and Intuitive Machines will host a televised news conference at 5 p.m. EST Friday, Feb. 23, to detail the Odysseus lander’s historic soft Moon landing. With the last-minute assistance of a NASA precision landing technology, the first CLPS, or Commercial Lunar Payload Services, mission carrying the agency’s science and technology demonstrations successfully landed on [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-intuitive-machines-to-discuss-historic-moon-mission-today/">https://www.nasa.gov/news-release/nasa-intuitive-machines-to-discuss-historic-moon-mission-today/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-intuitive-machines-to-discuss-historic-moon-mission-today/">Save to Pocket</a>
+</span>
+
+---
+
+##  New Law Requires SNAP Recipients To Balance Food On Nose Until Receiving... 
+
+date: 2024-02-23, updated: 2024-02-23, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044040-new-law-requires-snap-rec">https://kottke.org/24/02/0044040-new-law-requires-snap-rec</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044040-new-law-requires-snap-rec">Save to Pocket</a>
+</span>
+
+---
+
+## Never-Repeating Tiles Can Safeguard Quantum Information
+
+date: 2024-02-23, from: Quanta Magazine
+
+Two researchers have proved that Penrose tilings, famous patterns that never repeat, are mathematically equivalent to a kind of quantum error correction.            <p>The post <a href="https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/" target="_blank">Never-Repeating Tiles Can Safeguard Quantum Information</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/">https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/">Save to Pocket</a>
+</span>
+
+---
+
+##  The new Apple Sports app for iPhone is pretty good but isn&#8217;t... 
+
+date: 2024-02-23, updated: 2024-02-23, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044035-the-new-apple-sports-app">https://kottke.org/24/02/0044035-the-new-apple-sports-app</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044035-the-new-apple-sports-app">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-23, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/23/hur.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The other day I <a href="http://scripting.com/2024/02/21/024211.html">asked</a> if an op-ed columnist at the NYT or WP would ever criticize their employer for showing poor judgement on what to report on, esp re the election. I was thinking of the <a href="https://thehill.com/homenews/administration/4456879-special-counsel-describes-biden-as-elderly-man-with-a-poor-memory-in-eye-raising-report/">story</a> about the <a href="https://en.wikipedia.org/wiki/Robert_K._Hur">special prosecutor</a> who did something highly unethical in writing a public, official, condemnation of someone he investigated yet decided not to prosecute. We have judges and juries for that. Only in a police state can a prosecutor pass judgement on an accused person. The news orgs took the bait, I didn't read one report on who <a href="https://www.google.com/search?q=Robert+K.+Hur">Robert K. Hur</a> is, and the ethics of what he did. Is it appropriate to quote a person who was behaving so openly unethically, esp if you don't disclaim that up front. It's not that democracy is on the ballot this year, we're already over the line. Our journalism is acting as if it were already controlled by the authoritarians. Our lack of trust in journalism is our biggest problem. How can we force journalism to start to be a <i>little</i> accountable. Right now they're the only part of our ruling class that theoretically can't have their choices reviewed.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/23.html#a142425">http://scripting.com/2024/02/23.html#a142425</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/23.html#a142425">Save to Pocket</a>
+</span>
+
+---
+
+## Old enough to know besteer
+
+date: 2024-02-23, from: Dave Winer's Scripting News
+
+<p>I came up with a <a href="http://scripting.com/2024/02/22.html#a031907">motto</a> for Joe Biden's presidential campaign -- Old Enough to Know Better.</p>
+<p>I asked ChatGPT to draw a campaign rally with a banner that said that, but it wouldn't do it for Joe Biden, so I changed the name to Bull Mancuso, and had him run for governor of Calif instead of president of the US. </p>
+<p>It still couldn't spell the banner correctly but it <i>is</i> pretty inspiring.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/02/23/campaignAdForBiden.png"></center>The banner should read "Old Enough to Know Better."</div></p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/23/140239.html?title=oldEnoughToKnowBesteer">http://scripting.com/2024/02/23/140239.html?title=oldEnoughToKnowBesteer</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/23/140239.html?title=oldEnoughToKnowBesteer">Save to Pocket</a>
+</span>
+
+---
+
+## Spring 2024 Pathways Vacancies
+
+date: 2024-02-23, from: NASA breaking news
+
+Our next application cycle&#160;will open on February 26, 2024 for Fall 2024 opportunities.&#160; All Pathways internship vacancy announcements are posted on&#160;USAJOBS. Below are the available pathways at each NASA center. To apply for a suitable opportunity, first identify the category of work you&#8217;re interested in, and ensure you have a qualifying major (check whether it [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/spring-2024-pathways-vacancies/">https://www.nasa.gov/general/spring-2024-pathways-vacancies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/spring-2024-pathways-vacancies/">Save to Pocket</a>
+</span>
+
+---
+
+## A Farewell to ®s
+
+date: 2024-02-23, updated: 2024-02-23, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/02/23/a-farewell-to-s/">https://onefoottsunami.com/2024/02/23/a-farewell-to-s/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/02/23/a-farewell-to-s/">Save to Pocket</a>
+</span>
+
+---
+
+## The Plop boot managers
+
+date: 2024-02-23, from: OS News
+
+I wrote different boot managers. Three boot managers are available as download. The Plop Boot Manager 5, PlopKexec and the new boot manager PBM6. The new boot manager is under development. ↫ Elmar Hanlhofer I had never heard of the three Plop boot managers, written by Elmar Hanlhofer, but they seem like quite the capable tools. First, Plop Boot Manager 5 is the most complete version, but it&#8217;s also quite outdated by now, with its last release stemming from 2013. That being said, it&#8217;s incredibly feature-packed, but since it lacks EUFI support, its use case seem more focused on legacy systems. PBM6, meanwhile, is the modern version with EUFI support, but it&#8217;s not complete and is under development, with regular releases. Finally, PlopKexec is exactly what the name implies &#8211; a boot manager that used the Linux kernel. I&#8217;ve never encountered these before, but they seem quite interesting, and if it wasn&#8217;t for how much I do not like messing with bootloaders, I&#8217;d love to give these a go. Have any of you ever used it?
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138640/the-plop-boot-managers/">https://www.osnews.com/story/138640/the-plop-boot-managers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138640/the-plop-boot-managers/">Save to Pocket</a>
+</span>
+
+---
+
+## Hubble Views an Active Star-Forming Galaxy
+
+date: 2024-02-23, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features IC 3476, a dwarf galaxy that lies about 54 million light-years from Earth in the constellation Coma Berenices. While this image does not look very dramatic – we might say it looks almost serene – the actual physical events taking place in IC 3476 are highly energetic. In fact, the […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/hubble-views-an-active-star-forming-galaxy/">https://science.nasa.gov/missions/hubble/hubble-views-an-active-star-forming-galaxy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/hubble-views-an-active-star-forming-galaxy/">Save to Pocket</a>
+</span>
+
+---
+
+## P&B: Herman Martinus
+
+date: 2024-02-23, from: Manu - I write blog
+
+<p>This is the 26th edition of <em>People and Blogs</em>, the series where I ask interesting people to talk about themselves and their blogs. Today we have Herman Martinus and his blog, <a href="https://herman.bearblog.dev">herman.bearblog.dev</a></p>
+<p>Herman is the creator of the super minimal blog platform <a href="https://bearblog.dev">bearblog.dev</a>—it was included in my recent <a href="https://manuelmoreale.com/blog-platforms">list of blog platforms</a>—and he's based in Cape Town like my long time friend <a href="https://robhope.com">Rob</a> and they actually know each-other, something I didn't know when I first contacted Herman to be part of the series. I love how small the web world can feel at times.</p>
+<p>To follow this series <a href="https://peopleandblogs.com" rel="noreferrer" target="_blank">subscribe to the newsletter</a>. A new interview will land in your inbox every Friday. Not a fan of newsletters? No problem! You can read the interviews here on the blog or you can subscribe to the <a href="https://manuelmoreale.com/feed">RSS feed</a>.</p>
+<hr />
+<div class="q"><p><strong>Let&#039;s start from the basics: can you introduce yourself?</strong></p></div>
+<div class="a"><p>I'm Herman, a maker and game developer living in Cape Town, South Africa. I grew up and went to school in a small town outside of Johannesburg, then went to university at the University of Pretoria where I studied Computer Science with a focus on Multimedia. This led me down the path to become a game developer, and later a maker of neat things for the Internet. </p>
+<p>My primary hobbies currently are writing on <a href="https://herman.bearblog.dev/">my blog</a> (and maintaining the platform Bear Blog), building games for the <a href="https://Play.date">Play.date</a>, and riding motorcycles (I live in a very beautiful part of the world and this is, in my opinion, the best way to see the landscape).</p></div>
+<div class="q"><p><strong>What&#039;s the story behind your blog?</strong></p></div>
+<div class="a"><p>I've always been a writer. In high school I started writing short stories, all of which have been lost to the ether, thankfully. As a young adult I started writing the kinds of things that young people full of new knowledge and self discovery generally do. I started keeping a journal around this time, about which I've written a <a href="https://herman.bearblog.dev/why-i-journal/">few</a> <a href="https://herman.bearblog.dev/years-of-journaling/">times</a> before.</p>
+<p>Later on, as my experience in my field grew and I felt like I had more to share with the world, I started blogging on a semi-regular basis. During this time my blog went through many different iterations. I was on Wordpress, Proseful, wrote in plain HTML for a bit, then finally built my own platform as a way of <a href="https://herman.bearblog.dev/how-to-procrastinate/">procrastinating</a>.</p></div>
+<div class="q"><p><strong>What does your creative process look like when it comes to blogging?</strong></p></div>
+<div class="a"><p>I generally write about what has been on my mind lately. My partner, Emma, listens to me blab on at length about things like <a href="https://herman.bearblog.dev/the-humble-roundabout/">traffic circles</a>, <a href="https://herman.bearblog.dev/the-frustration-loop/">building frustration</a> into products, and the like. This is only for a few days, generally, but sometimes spans months. Then, after I've thoroughly interrogated the concept it finds its way to a rough outline in my notes app where I start sifting through the thoughts in a more structured way. This is usually turned into the first draft the next day (I like to let the outline marinate overnight), edited, and published.</p>
+<p>I also keep a Trello board of writing ideas for when I'm feeling particularly uncreative.</p></div>
+<div class="q"><p><strong>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</strong></p></div>
+<div class="a"><p>I am highly affected by physical spaces and sound. For a decent period of my life while I was travelling I worked out of noisy coffee shops. I'm surprised I got any work done. Now when I'm travelling I shell out the extra cash for a quiet co-working space where I can think without being interrupted by the loud Australian tourists three tables over loudly talking about how wasted they got last night. </p>
+<p>At home we have a "day room" which has big windows overlooking Table Mountain. This provides a lot of natural light and is my favourite place to work. There is, however, a primary school across the road, and when the kids come out for recess, chaos breaks loose as they fight for school-yard dominance. For those two half hour periods, I have a set of noise cancelling headphones.</p></div>
+<div class="q"><p><strong>A question for the techie readers: can you run us through your tech stack?</strong></p></div>
+<div class="a"><p>I use <a href="https://bearblog.dev/">Bear Blog</a> as my blogging platform of choice. Not only do I use it, but I am also the creator of it. I was very unimpressed with the options available with their infinite customizability and bloat. All I needed was a quick and easy way to get my words up on the internet. I also wanted people to be able to read them without all the cruft that surrounds modern content. So I built Bear, and it's now loved by tens of thousands of writers worldwide.</p></div>
+<div class="q"><p><strong>Given your experience, if you were to start a blog today, would you do anything differently?</strong></p></div>
+<div class="a"><p>This is an interesting question, since I've been considering starting another blog that is more specific to no-nonsense information about climate and environment-related technology (think geoengineering, green energy generation, and the like). And the conclusion I came to is that I'd build it in the exact same way I have with my own blog: Running on Bear, writing in a semi-casual and personal tone on technical topics, injecting my own personality where possible.</p></div>
+<div class="q"><p><strong>Financial question since the web is obsessed with money: how much does it cost to run your blog? Is it just a cost or does it generate some revenue? And what&#039;s your position on people monetising personal blogs?</strong></p></div>
+<div class="a"><p>Because I run the platform, my blog is, naturally, cost free. My blog is not meant to generate revenue and I do not intend for it to do so. However, because I regularly write about the development of the Bear Blog platform, and the trials and tribulations of building out the small web, sometimes people look at it and, maybe, start a blog. If I'm particularly lucky, they even upgrade. So while my blog is not monetised in the traditional sense, there is a small financial reward for posts that do exceedingly well.</p></div>
+<div class="q"><p><strong>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</strong></p></div>
+<div class="a"><p>I follow a handful of small- to medium-sized blogs, but the one I'm always the most excited to see in my RSS reader is <a href="https://coryzue.com/">coryzue.com</a></p>
+<p>This is a blog by a maker in my city who writes about similar themes to me, but also muses existentially at times. His blog is a great read, and he would also make a good candidate for an interview.</p></div>
+<div class="q"><p><strong>Final question: is there anything you want to share with us?</strong></p></div>
+<div class="a"><p>Right now I'm just fascinated with the <a href="https://play.date">play.date</a> and will be building games for the next few months. You can see a list of running projects on my blog's <a href="https://herman.bearblog.dev/projects/">project page</a>.</p></div>
+<hr />
+<p>This was the 26th edition of <em>People and Blogs</em>. Hope you enjoyed this interview with Herman. Make sure to <a href="https://herman.bearblog.dev">follow his blog</a> (<a href="https://herman.bearblog.dev/feed/?type=rss">RSS</a>) and get in touch with him if you have any questions.</p>
+<h2>Awesome supporters</h2>
+<p>You can support this series on <a href="https://ko-fi.com/manuelmoreale">Ko-Fi</a> and all supporters will be listed here as well as on the <a href="https://peopleandblogs.com">official site</a> of the newsletter.</p>
+<ul>
+<li><a href="https://www.thingelstad.com">Jamie Thingelstad</a> (<a href="https://www.thingelstad.com/feed.xml">RSS</a>)</li>
+<li><a href="https://some.studio">Piet Terheyden</a></li>
+<li><a href="https://minim.blog">Raul Montala</a> (<a href="https://minim.blog/index.xml">RSS</a>)</li>
+<li>Eleonora</li>
+<li><a href="https://carlbarenbrug.com">Carl Barenbrug</a> (<a href="https://carlbarenbrug.com/feed/rss">RSS</a>)</li>
+<li><a href="https://tangiblelife.net">Steve Ledlow</a> (<a href="https://tangiblelife.net/feed.rss">RSS</a>)</li>
+<li>Paolo Ruggeri</li>
+<li><a href="https://thejollyteapot.com">Nicolas Magand</a> (<a href="https://thejollyteapot.com/feed.rss">RSS</a>)</li>
+<li><a href="https://robhope.com">Rob Hope</a></li>
+<li><a href="https://chrishannah.me">Chris Hannah</a> (<a href="https://chrishannah.me/index.xml">RSS</a>)</li>
+<li><a href="https://blog.pcora.eu">Pedro Corá</a> (<a href="https://blog.pcora.eu/feed.xml">RSS</a>)</li>
+<li><a href="https://jeremysarber.com/">Jeremy Sarber</a> (<a href="https://jeremysarber.com/feed.rss">RSS</a>)</li>
+<li><a href="https://colinwalker.blog">Colin Walker</a> (<a href="https://colinwalker.blog/dailyfeed.xml">RSS</a>)</li>
+<li><a href="https://softlandings.world/">Sixian Lim</a></li>
+<li><a href="https://mattstein.com/">Matt Stein</a> (<a href="https://mattstein.com/rss.xml">RSS</a>)</li>
+<li><a href="https://winnielim.org/">Winnie Lim</a> (<a href="https://winnielim.org/feed/">RSS</a>)</li>
+<li><a href="http://flamedfury.com/">Flamed</a> (<a href="https://flamedfury.com/feed.xml/">RSS</a>)</li>
+<li><a href="https://skyhold.org">C Jackdaw</a></li>
+<li><a href="https://tiv.today">Kevin Humdrum</a> (<a href="https://tiv.today/feed.rss">RSS</a>)</li>
+<li><a href="https://www.doc.cc/">Fabricio Teixeira</a> (<a href="https://www.doc.cc/feed.xml">RSS</a>)</li>
+<li><a href="https://rosalindcroad.com/">Rosalind Croad</a></li>
+<li><a href="https://frankmeeuwsen.com/">Frank Meeuwsen</a> (<a href="https://frankmeeuwsen.com/feed.xml">RSS</a>)</li>
+<li><a href="https://www.elmikewalsh.com/">Mike Walsh</a></li>
+<li><a href="https://www.josemunozmatos.com/">Jose Munoz</a> (<a href="https://www.josemunozmatos.com/feeds">RSS</a>)</li>
+<li><a href="https://www.byzero.de/">Markus Heurung</a></li>
+<li><a href="https://jeremybassetti.com/">Jeremy Bassetti</a> (<a href="https://jeremybassetti.com/index.xml">RSS</a>)</li>
+<li><a href="https://cleverlaziness.xyz/">Juan Villela</a> (<a href="https://cleverlaziness.xyz/posts/index.xml">RSS</a>)</li>
+<li><a href="https://mwarrenarts.com/">Michael Warren</a> (<a href="https://mwarrenarts.com/rss">RSS</a>)</li>
+<li><a href="https://cagrimmett.com/">Chuck Grimmett</a> (<a href="https://cagrimmett.com/feed">RSS</a>)</li>
+<li><a href="https://eatweeds.co.uk">Robin Harford</a> (<a href="https://www.eatweeds.co.uk/feed/">RSS</a>)</li>
+<li><a href="https://bryanmanio.com/">Bryan Maniotakis</a> (<a href="https://bryanmanio.com/feed/">RSS</a>)</li>
+<li><a href="https://bjhess.com/">Barry Hess</a> (<a href="https://bjhess.com/posts_feed">RSS</a>)</li>
+<li><a href="https://chrisjung.xyz">Chris Jung</a> (<a href="https://chrisjung.xyz/feed/rss">RSS</a>)</li>
+<li><a href="https://islandinthenet.com">Khürt Williams</a> (<a href="https://islandinthenet.com/feed/">RSS</a>)</li>
+<li><a href="https://werd.io/">Ben Werdmuller</a> (<a href="https://werd.io/feed">RSS</a>)</li>
+<li><a href="https://ivanmoreale.com">Ivan Moreale</a></li>
+<li><a href="https://corygibbons.com">Cory Gibbons</a></li>
+<li><a href="https://www.lkhrs.com/">Luke Harris</a> (<a href="https://www.lkhrs.com/blog/index.xml">RSS</a>)</li>
+<li><a href="https://www.ismailsevik.com/">İsmail Şevik</a> (<a href="https://www.ismailsevik.com/feeds/posts/default?alt=rss">RSS</a>)</li>
+<li><a href="https://lars-christian.com/">Lars-Christian Simonsen</a> (<a href="https://lars-christian.com/feed/">RSS</a>)</li>
+<li><a href="https://sethw.xyz/">Seth Werkheiser</a></li>
+<li><a href="https://www.codyschultz.com/">Cody Schultz</a></li>
+<li><a href="https://bradbarrish.com/">Brad Barrish</a></li>
+<li><a href="https://galaiko.rocks">Nikita Galaiko</a></li>
+<li>Erik Blankvoort</li>
+<li><a href="https://jagasantagostino.com/">Jaga Santagostino</a></li>
+</ul>
+<h2>Want to support P&amp;B?</h2>
+<p>If you like this series and want to help it grow, you can:</p>
+<ol>
+<li><a href="https://ko-fi.com/manuelmoreale">support on Ko-Fi</a>;</li>
+<li>post about it on your own blog and let your readers know about its existence;</li>
+<li><a href="mailto:hello@manuelmoreale.com">email me</a> comments and feedback on the series;</li>
+<li><a href="mailto:email@peopleandblogs.com">suggest a person</a> to interview next. I'm especially interested in people and blogs outside the tech/web bubble.</li>
+</ol>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/UYEQKv38hYLvHczG">https://manuelmoreale.com/@/page/UYEQKv38hYLvHczG</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/UYEQKv38hYLvHczG">Save to Pocket</a>
+</span>
+
+---
+
+## A path out of bloat: A Linux built for VMs
+
+date: 2024-02-23, updated: 2024-02-23, from: Liam Proven's articles at the Register
+
+<h4><span class="label">FOSDEM 2024</span> What Linux distros could learn from the inventor of the hypervisor</h4>
+      <p>How hard can you cut down Linux if you know it will never run on bare metal? Further than any distro vendor we know of has tried to go.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/23/linux_built_for_a_vm/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/23/linux_built_for_a_vm/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/23/linux_built_for_a_vm/">Save to Pocket</a>
+</span>
+
+---
+
+## What on earth is a dual spiral marble clock?
+
+date: 2024-02-23, from: Raspberry Pi News (.com)
+
+<p>This RP2040-powered clock features ball bearings climbing a spiral to show the time, with one representing the hours and the other showing the minutes rolling by.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/what-on-earth-is-a-dual-spiral-marble-clock/">What on earth is a dual spiral marble clock?</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/what-on-earth-is-a-dual-spiral-marble-clock/">https://www.raspberrypi.com/news/what-on-earth-is-a-dual-spiral-marble-clock/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/what-on-earth-is-a-dual-spiral-marble-clock/">Save to Pocket</a>
+</span>
+
+---
+
+## IBM begins work on Power11 enablement for upcoming Linux 6.9
+
+date: 2024-02-23, from: OS News
+
+The first &#8220;Power11&#8221; patches were queued today into the PowerPC&#8217;s &#8220;next&#8221; Git branch ahead of the upcoming Linux 6.9 kernel cycle. The first of many IBM Power11 processor/platform enablement patches are beginning to flow out for the Linux kernel for enabling the next-generation Power processors. This shouldn&#8217;t be too surprising given that a few months ago IBM began posting &#8220;PowerPC Future&#8221; patches for the GCC compiler with speculating at the time it was for Power11 just as IBM previously called their &#8220;future&#8221; CPU target in GCC for Power10 prior to those processors officially debuting. ↫ Michael Larabel I really hope IBM learned from the POWER10 fiasco and will make sure POWER11 is properly and fully open again, because POWER9&#8217;s openness made it unique among the other options out there. Without it, there&#8217;s really no reason for an enthusiast community to developer around POWER11 as it did around POWER9, and that would be a shame. Again.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138637/ibm-begins-work-on-power11-enablement-for-upcoming-linux-6-9/">https://www.osnews.com/story/138637/ibm-begins-work-on-power11-enablement-for-upcoming-linux-6-9/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138637/ibm-begins-work-on-power11-enablement-for-upcoming-linux-6-9/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-23, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/14/bidenActionFigure.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I have the motto for the Biden campaign: <i>Old enough to know better.</i> Uncle Joe, sit down with a reporter you can relate to, and explain what aging is about. How there's good and bad that come with getting on, and Repubs (of course) have been focusing on the bad but the journalists aren't getting the other side. One thing is for sure, it's hard to put one over on someone who's been in politics at the highest level for as long as President Joe has been. That's what the "know better" part is about. Whatever you can say about him, he knows a lot about being president. I've been using this motto as my own tagline for a while. But in the interest of protecting our democracy, I think the president should use it for his re-election campaign. No charge. <span class="spOldSchoolEmoji">😄</span>
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/22.html#a031907">http://scripting.com/2024/02/22.html#a031907</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/22.html#a031907">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-23, from: Miguel de Icaza Mastondon feed)
+
+<p>Every internal modern layoff announcement contains a variation of “this will help us increase our velocity”</p><p>And every time I see that, I cant stop thinking  “increase velocity to irrelevance?”</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/111978620773445787">https://mastodon.social/@Migueldeicaza/111978620773445787</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/111978620773445787">Save to Pocket</a>
+</span>
+
+---
+
+## MacSymbolicator 2.6
+
+date: 2024-02-23, from: Michael Tsai
+
+Mahdi Bchatnia (via Daniel Jalkut): A simple Mac app for symbolicating macOS/iOS crash reports.Supports symbolicating:.crash and .ips crash reportssample and spindump reports
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/22/macsymbolicator-2-6/">https://mjtsai.com/blog/2024/02/22/macsymbolicator-2-6/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/22/macsymbolicator-2-6/">Save to Pocket</a>
+</span>
+
+---
+
+## Muse Retrospective
+
+date: 2024-02-23, from: Michael Tsai
+
+Adam Wiggins (via Peter Steinberger): You&#8217;ve probably seen the meme about product distribution, and I went into this venture knowing that productivity software is particularly difficult to market.[&#8230;]I&#8217;m deeply grateful to the folks inside the App Store editorial team who were rooting for us from the beginning. Getting featured here really is a game-changer. [&#8230;] [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/22/muse-retrospective/">https://mjtsai.com/blog/2024/02/22/muse-retrospective/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/22/muse-retrospective/">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 Six Colors Apple Report Card
+
+date: 2024-02-23, from: Michael Tsai
+
+Jason Snell (Hacker News): John Gruber wrote: &#8220;By the end of the year, every single Mac in the lineup, save one [the Mac Pro], is arguably in the best shape that model has ever been. [&#8230;] Matt Deatherage wrote: &#8220;It&#8217;s difficult to ding Apple&#8217;s Mac performance. With Apple Silicon leading the way, the Mac hardware [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/22/2023-six-colors-apple-report-card/">https://mjtsai.com/blog/2024/02/22/2023-six-colors-apple-report-card/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/22/2023-six-colors-apple-report-card/">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 Apple Vision Accessibility Report Card
+
+date: 2024-02-23, from: Michael Tsai
+
+AppleVis (via Shelly Brisbin): The 2023 Apple Vision Accessibility Report Card reveals slightly decreasing satisfaction with VoiceOver features and user experience across iOS, iPadOS and macOS compared to 2022, contrasted by mostly improved ratings for braille and low vision capabilities. While reactions to new 2023 vision accessibility features were moderately more positive with a 3.7 [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/22/2023-apple-vision-accessibility-report-card/">https://mjtsai.com/blog/2024/02/22/2023-apple-vision-accessibility-report-card/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/22/2023-apple-vision-accessibility-report-card/">Save to Pocket</a>
+</span>
+
+---
+
+## GHC 9.8.2 is now available
+
+date: 2024-02-23, from: Glasgow Haskell Compiler
+
+<h1>GHC 9.8.2 is now available</h1>
+<h4 class="text-muted">Zubin Duggal - 2024-02-23</h4>
+
+<p>The GHC developers are happy to announce the availability of GHC 9.8.2. Binary
+distributions, source distributions, and documentation are available on the
+<a href="/download_ghc_9_8_2.html">release page</a>.</p>
+<p>This release is primarily a bugfix release addressing many issues
+found in the 9.8 series. These include:</p>
+<ul>
+<li>A fix for a bug where certain warnings flags were not recognised (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24071">#24071</a>)</li>
+<li>Fixes for bugs in the renamer and typechecker (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24084">#24084</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/24134">#24134</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/24279">#24279</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/24083">#24083</a>)</li>
+<li>Fixes for bugs in the simplifier and code generator (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24160">#24160</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/24242">#24242</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/23628">#23628</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/23659">#23659</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/24160">#24160</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/23862">#23862</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/24295">#24295</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/24370">#24370</a>)</li>
+<li>Fixes for some memory leaks in GHCi (<a href="https://gitlab.haskell.org/ghc/ghc/issues/24107">#24107</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/24118">#24118</a>)</li>
+<li>Improvements to error messages (<a href="https://gitlab.haskell.org/ghc/ghc/issues/21097">#21097</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/16996">#16996</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/11050">#11050</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/24196">#24196</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/24275">#24275</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/23768">#23768</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/23784">#23784</a>, <a href="https://gitlab.haskell.org/ghc/ghc/issues/23778">#23778</a>)</li>
+<li>A fix for a recompilation checking bug where GHC may miss changes in
+transitive dependencies when deciding to relink a program (<a href="https://gitlab.haskell.org/ghc/ghc/issues/23724">#23724</a>).</li>
+<li>And many more fixes</li>
+</ul>
+<p>A full accounting of changes can be found in the <a href="https://downloads.haskell.org/~ghc/9.8.2/docs/users_guide/9.8.2-notes.html">release notes</a>. As
+some of the fixed issues do affect correctness users are encouraged to
+upgrade promptly.</p>
+<p>We would like to thank Microsoft Azure, GitHub, IOG, the Zw3rk stake pool,
+Well-Typed, Tweag I/O, Serokell, Equinix, SimSpace, Haskell Foundation, and
+other anonymous contributors whose on-going financial and in-kind support has
+facilitated GHC maintenance and release management over the years. Finally,
+this release would not have been possible without the hundreds of open-source
+contributors whose work comprise this release.</p>
+<p>As always, do give this release a try and open a <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/new">ticket</a> if you see
+anything amiss.</p>
+<p>Enjoy!</p>
+<p>-Zubin</p>
+
+
+<span class="feed-item-link">
+<a href="http://haskell.org/ghc/blog/20240223-ghc-9.8.2-released.html">http://haskell.org/ghc/blog/20240223-ghc-9.8.2-released.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://haskell.org/ghc/blog/20240223-ghc-9.8.2-released.html">Save to Pocket</a>
+</span>
+
+---
+
+## pgagroal 1.6
+
+date: 2024-02-23, from: PostgreSQL News
+
+<p>The <a href="https://agroal.github.io/pgagroal/">pgagroal</a> community is happy to
+announce version <a href="https://agroal.github.io/pgagroal/release/announcement/2024/02/22/pgagroal-1.6.0.html">1.6.0</a>.</p>
+<p><strong>New features</strong></p>
+<ul>
+<li>Support for CLI/JSON output</li>
+<li>Support for client certificates (Experimental)</li>
+<li>Introduce subcommand config-get</li>
+<li>Introduce subcommand config-set</li>
+<li>Add a max_connection_age setting</li>
+<li>Mac OS X support</li>
+</ul>
+<p><strong>pgagroal</strong></p>
+<p><a href="https://agroal.github.io/pgagroal/">pgagroal</a> is a high-performance protocol-native connection pool for
+<a href="https://www.postgresql.org/">PostgreSQL</a>.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>High performance</li>
+<li>Connection pool</li>
+<li>Limit connections for users and databases</li>
+<li>Prefill support</li>
+<li>Remove idle connections</li>
+<li>Perform connection validation</li>
+<li>Enable / disable database access</li>
+<li>Graceful / fast shutdown</li>
+<li>Prometheus support</li>
+<li>Grafana 8 dashboard</li>
+<li>Remote management</li>
+<li>Authentication query support</li>
+<li>Failover support</li>
+<li>Transport Layer Security (TLS) v1.2+ support</li>
+<li>Daemon mode</li>
+<li>User vault</li>
+</ul>
+<p>Learn more on our <a href="https://agroal.github.io/pgagroal/">web site</a> or <a href="https://github.com/agroal/pgagroal">GitHub</a>.
+Follow on <a href="https://twitter.com/pgagroal">Twitter</a>.</p>
+<p><a href="https://agroal.github.io/pgagroal/">pgagroal</a> is released under the <a href="https://opensource.org/licenses/BSD-3-Clause">3-clause BSD license</a>.</p>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/pgagroal-16-2813/">https://www.postgresql.org/about/news/pgagroal-16-2813/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pgagroal-16-2813/">Save to Pocket</a>
+</span>
+
+---
+
+##  Siblings Step Dancing and Roller Skating 
+
+date: 2024-02-22, updated: 2024-02-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/siblings-step-dancing-and-roller-skating">https://kottke.org/24/02/siblings-step-dancing-and-roller-skating</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/siblings-step-dancing-and-roller-skating">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Instruments Will Listen for Supersonic X-59’s Quiet ‘Thump’
+
+date: 2024-02-22, from: NASA breaking news
+
+NASA’s X-59 experimental aircraft is unique – it’s designed to fly faster than the speed of sound, but without causing a loud sonic boom. To confirm the X-59’s ability to fly supersonic while only producing quiet sonic “thumps,” NASA needs to be able to record these sounds from the ground. The agency recently completed tests [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-instruments-will-listen-for-supersonic-x-59s-quiet-thump/">https://www.nasa.gov/centers-and-facilities/armstrong/nasa-instruments-will-listen-for-supersonic-x-59s-quiet-thump/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/armstrong/nasa-instruments-will-listen-for-supersonic-x-59s-quiet-thump/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Awards Spaceflight Development, Operations Contract
+
+date: 2024-02-22, from: NASA breaking news
+
+NASA has selected Sierra Lobo Inc. of Fremont, Ohio, to support spaceflight hardware design, development, testing, and operations at NASA’s Glenn Research Center in Cleveland.&#160; The Space Flight Systems Development and Operations Contract III is a cost-plus-fixed-fee contract featuring a cost-plus-fixed-fee and firm-fixed-price indefinite-delivery/indefinite-quantity provision with a maximum potential value of approximately $282.1 million. The [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-awards-spaceflight-development-operations-contract/">https://www.nasa.gov/news-release/nasa-awards-spaceflight-development-operations-contract/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-awards-spaceflight-development-operations-contract/">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8216;The Examined Run&#8217; and Virtue in Athletics 
+
+date: 2024-02-22, updated: 2024-02-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/the-examined-run-and-virtue-in-athletics">https://kottke.org/24/02/the-examined-run-and-virtue-in-athletics</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/the-examined-run-and-virtue-in-athletics">Save to Pocket</a>
+</span>
+
+---
+
+## Google tests removing the News tab from search results
+
+date: 2024-02-22, from: Nieman Journalism Lab
+
+News publishers are worried — with good reason — about changes coming to Google Search. AI-generated content replacing links on some of the most valuable space on the internet, in particular, has left media types with a lot of questions, starting with &#8220;is this going to be a traffic-destroying nightmare?&#8221; The News filter disappearing from...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/why-is-the-news-tab-missing-from-some-google-search-results/">https://www.niemanlab.org/2024/02/why-is-the-news-tab-missing-from-some-google-search-results/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/why-is-the-news-tab-missing-from-some-google-search-results/">Save to Pocket</a>
+</span>
+
+---
+
+## FDISK 1.3.14
+
+date: 2024-02-22, from: FreeDOS News
+
+<div class="markdown_content"><p>Bernd has released an update to FreeDOS FDISK, the program that creates and manages partitions on fixed disks. Version 1.3.14 provides these fixes: + Fix a drive letter disagree between DOS and FDISK in cases involving multiple disks and a mix of active and non-active primary partitions. + Prevent querying LBA capabilities via INT13,41, if LBA access is disabled by the user. This caused some broken BIOS to crash the system, like BIOS version 0.9.4 of Book8088 and Xi8088. The new version has these changes: - Do not check for extra cylinders by default. DR-DOS refuses to use partitions exceeding the BIOS reported disk size, despite being valid. - Update German translation. You can find the new version at <a class="" href="https://github.com/FDOS/fdisk" rel="nofollow">FDISK at GitHub</a>, or in the <a class="" href="https://github.com/FDOS/fdisk/releases/tag/v1.3.14" rel="nofollow">FDISK releases</a>.</p></div>
+
+<span class="feed-item-link">
+<a href="https://sourceforge.net/p/freedos/news/2024/02/fdisk-1314/">https://sourceforge.net/p/freedos/news/2024/02/fdisk-1314/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sourceforge.net/p/freedos/news/2024/02/fdisk-1314/">Save to Pocket</a>
+</span>
+
+---
+
+## Meet the Creators, Part 4: Two New 2024 Total Eclipse Posters
+
+date: 2024-02-22, from: NASA breaking news
+
+Total solar eclipses reveal the Sun’s outer atmosphere – the corona – a white, wispy halo of solar material that flows out from around the Sun. This atmosphere is breathtaking as it glows in the sky for viewers on Earth, surrounding the dark disk of the Moon. In addition to revealing this normally hidden part of […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/solar-system/skywatching/meet-the-creators-part-4-two-new-2024-total-eclipse-posters/">https://science.nasa.gov/solar-system/skywatching/meet-the-creators-part-4-two-new-2024-total-eclipse-posters/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/solar-system/skywatching/meet-the-creators-part-4-two-new-2024-total-eclipse-posters/">Save to Pocket</a>
+</span>
+
+---
+
+##  The viral advice column of the week: &#8220;I Think My Husband Is... 
+
+date: 2024-02-22, updated: 2024-02-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044038-the-viral-advice-column-o">https://kottke.org/24/02/0044038-the-viral-advice-column-o</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044038-the-viral-advice-column-o">Save to Pocket</a>
+</span>
+
+---
+
+## Duolingo
+
+date: 2024-02-22, from: Dave Rupert blog
+
+<p>Duolingo does a great job capturing the novel delight of learning a new language. You hop on, take a short quiz, and a little green owl waves at you and hops towards a trophy. You can add friends, join group challenges, and there’s a weekly ranking system to compete with users all over the world where you have a chance to move up a league, stay stagnant, or potentially get demoted to a lower league.</p>
+<p>Duolingo takes a “<a href="https://en.wikipedia.org/wiki/Spaced_repetition">spaced repetition</a>” approach at language learning. I like how the app serves you vocabulary in isolation as well as in different sentence contexts with different AI voices, all aimed to reinforce the words before it leaves your brain. The progress meters, streaks, and competitive nature of the app are all a part of the gamification system designed to keep you coming back. But… there’s a lot of them.</p>
+<p>Here’s a short list of all the progress meters inside the Duolingo you’re responsible for filling up.</p>
+<ul>
+<li>Daily streak progress</li>
+<li>Course progress</li>
+<li>Lesson progress</li>
+<li>Daily missions for monthly reward</li>
+<li>Monthy achievement progress</li>
+<li>Weekly league ranking progress</li>
+<li>Weekly friend challenge progress</li>
+<li>Collecting gems</li>
+<li>Match Madness progress</li>
+<li>+9 other achievement categories</li>
+</ul>
+<p>Slowly you realize the truth about Duolingo; it’s not a language learning platform, it’s an engagement platform. And through that engagement you might pick up some language skills. Duolingo does little in explaining how rudimentary concepts like verbs or participles work and instead lets you piece it together solely from repetition and context clues. Repetition in learning is important but without ever addressing the fundamentals of a language Duolingo reveals it’s prioritizing something else over language mechanics.</p>
+<p>Duolingo succeeds when you log in, see an ad after every lesson, and feel like you’re making progress towards a goal so that you will log in the next day and repeat the cycle. The dopamine hits and then a surprise (!) Double XP potion shows up at the beginning of the week. The Double XP boosts your score and you secure a spot on the leaderboard. This spurs more notifications and sessions for your competitors, which serves more ads. Now the pressure’s on to avoid losing your spot on the leaderboard. Another potion shows up to get you over the mid-week slump and to stir the coals of the engagement metrics again. You can of course pay to not see ads and unlock faster dopamine hits.</p>
+<p>And then there’s the social pressure from the cartoon bird to keep your streak alive. At first it’s motivating and cute but then turns a bit ominous and manipulative, saved only by its sense of humor.</p>
+<img src="https://cdn.daverupert.com/posts/2024/duo.png" alt="Duo the green owl mastcot with threatening red background saying “Don’t Let it Break!”" height="256" width="256">
+<p>Despite it all the engagement theatrics, Duolingo is fun. I wish I had Duolingo when I was initially learning Japanese in college (or Spanish in high school). I think along with textbook learning it would have cemented a lot of concepts for me. It’s fun to get a daily dose of something new and see the scores go up.</p>
+<p>At one point all four members of my family were on Duolingo learning four different languages simultaneously in the same room. That was chaotic, fun, and made me genuinely excited to see my family enjoy learning another language which something I enjoy. When you’d hear a the notable ding from across the house, you’d feel a Pavlovian urge to open the app on your phone and continue learning. One-by-one in reverse age order, however, we all came to the same conclusion that the repetition and the notifications were tiresome. After using Duolingo for 100 days in a row, I uninstalled the app.</p>
+<p>I’ve enjoyed noodling on Japanese, Piano, Spanish, German, Korean, Esperanto, and Klingon… and perhaps I will again one day, but for now it’s become another to-do during the day. The lessons were too repetitive and slow for me, a person who wants to flex a part of my existing memory and not learn from scratch. I can only hear about green tea so many times. Your experience might be different, but if I could find a “Practice Only” version of Duolingo without the engagement machine attached and a little less repetition, I think that would be the right fit for me.</p>
+
+<span class="feed-item-link">
+<a href="https://daverupert.com/2024/02/duolingo/">https://daverupert.com/2024/02/duolingo/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daverupert.com/2024/02/duolingo/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Invites Media to Speak with Artemis II Moon Crew, Recovery Team
+
+date: 2024-02-22, from: NASA breaking news
+
+Media are invited to speak with the four Artemis II astronauts on Wednesday, Feb. 28, at Naval Base San Diego in California. The crew will fly around the Moon next year as part of NASA’s Artemis campaign, marking the first astronauts to make the journey in more than 50 years. NASA and the U.S. Department [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-invites-media-to-speak-with-artemis-ii-moon-crew-recovery-team/">https://www.nasa.gov/news-release/nasa-invites-media-to-speak-with-artemis-ii-moon-crew-recovery-team/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-invites-media-to-speak-with-artemis-ii-moon-crew-recovery-team/">Save to Pocket</a>
+</span>
+
+---
+
+##  Diary Comics, Nov. 18-23 
+
+date: 2024-02-22, updated: 2024-02-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/welcome-to-thursday-afternoons-with">https://kottke.org/24/02/welcome-to-thursday-afternoons-with</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/welcome-to-thursday-afternoons-with">Save to Pocket</a>
+</span>
+
+---
+
+## Intel will make chips for Microsoft
+
+date: 2024-02-22, from: OS News
+
+US chip company Intel will make high-end semiconductors for Microsoft, the companies announced, as it seeks to compete with TSMC and Samsung to supply the next generation of silicon used in artificial intelligence for customers around the world. Chief executive Pat Gelsinger said at a company event on Wednesday that Intel is set to “rebuild Western manufacturing at scale,” buoyed by geopolitical concerns in Washington about the need to bring leading-edge manufacturing back to the US. ↫ Michael Acton Having our entire advanced chip industry built atop one Dutch company and one company on an island China would love to invade is not exactly the recipe for a stable supply chain. I think it&#8217;s a great idea to build capacity in the US and Europe, and if Intel&#8217;s the one to do it &#8211; with lavish government funding, I might add &#8211; then so be it. We&#8217;d all love for it to be more diverse than that, but the sad reality is that building advanced chip factories is really hard and really expensive, and very few companies have both the knowledge and money to do so.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138634/intel-will-make-chips-for-microsoft/">https://www.osnews.com/story/138634/intel-will-make-chips-for-microsoft/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138634/intel-will-make-chips-for-microsoft/">Save to Pocket</a>
+</span>
+
+---
+
+## ChatGPT designed a civilization
+
+date: 2024-02-22, from: Dave Winer's Scripting News
+
+<p>What I asked for: Imagine a version of The Sims or SimCity that had ChatGPT integrated,. You could create whole civilizations and then explore them, and if there was something you didn't like, you could have your way. No rule of law for you! You are the law. I wonder if you could draw me a Sims-like community as ChatGPT would design it.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/02/22/simsGPTCity.png"></center>"Here's a visual representation of a vibrant, utopian community as imagined with the integration of ChatGPT's design principles. This community blends futuristic architecture harmoniously with nature, featuring energy-efficient homes, community centers, and public spaces all connected by pedestrian pathways and lush gardens. Solar panels and wind turbines integrate seamlessly into the buildings, and the central plaza acts as a hub for gatherings, surrounded by parks, sports fields, and a lake for water activities. This illustration embodies an ideal balance between technology and nature, promoting health, well-being, and environmental stewardship."</div></p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/22/191211.html?title=chatgptDesignedACivilization">http://scripting.com/2024/02/22/191211.html?title=chatgptDesignedACivilization</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/22/191211.html?title=chatgptDesignedACivilization">Save to Pocket</a>
+</span>
+
+---
+
+## “Why can’t I trigger a manual blue screen crash by injecting the magic key sequence?”
+
+date: 2024-02-22, from: OS News
+
+A customer was developing an automated test that required the system to suffer a blue screen crash. They configured their test systems to crash when the ScrollLock key is pressed twice while holding the Ctrl key, and they wrote a simple program that ran as administrator and injected the appropriate keystrokes. But no crash occurred. What did they do wrong? ↫ Raymond Chen Does anyone here not love a Raymond Chen mystery?
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138632/why-cant-i-trigger-a-manual-blue-screen-crash-by-injecting-the-magic-key-sequence/">https://www.osnews.com/story/138632/why-cant-i-trigger-a-manual-blue-screen-crash-by-injecting-the-magic-key-sequence/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138632/why-cant-i-trigger-a-manual-blue-screen-crash-by-injecting-the-magic-key-sequence/">Save to Pocket</a>
+</span>
+
+---
+
+## Android prepares to only support Seamless Updates, but Samsung could still avoid it
+
+date: 2024-02-22, from: OS News
+
+Android introduced support for Seamless Updates quite a long time ago at this point and, while it’s seen adoption from most, Samsung stubbornly refuses to move its devices to the A/B system. Android is now moving towards a future where A/B Seamless Updates are the only supported update mechanism, but that may not be enough to stop Samsung. ↫ Ben Schoon at 9To5Google The fact Samsung hasn&#8217;t embraced Seamless Updates yet is utterly baffling. It&#8217;s better in every single way, and there&#8217;s little to no downsides one can think of. I hope this little nudge gets them to finally get their act together.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138630/android-prepares-to-only-support-seamless-updates-but-samsung-could-still-avoid-it/">https://www.osnews.com/story/138630/android-prepares-to-only-support-seamless-updates-but-samsung-could-still-avoid-it/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138630/android-prepares-to-only-support-seamless-updates-but-samsung-could-still-avoid-it/">Save to Pocket</a>
+</span>
+
+---
+
+## Webb Finds Evidence for Neutron Star at Heart of Young Supernova Remnant
+
+date: 2024-02-22, from: NASA breaking news
+
+NASA’s James Webb Space Telescope has found the best evidence yet for emission from a neutron star at the site of a recently observed supernova. The supernova, known as SN 1987A, was a core-collapse supernova, meaning the compacted remains at its core formed either a neutron star or a black hole. Evidence for such a […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/webb/webb-finds-evidence-for-neutron-star-at-heart-of-young-supernova-remnant/">https://science.nasa.gov/missions/webb/webb-finds-evidence-for-neutron-star-at-heart-of-young-supernova-remnant/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/webb/webb-finds-evidence-for-neutron-star-at-heart-of-young-supernova-remnant/">Save to Pocket</a>
+</span>
+
+---
+
+## To NVMe and beyond!
+
+date: 2024-02-22, from: RiscOS Open
+
+<p>Previously thought to be lightyears away, today <span class="caps">RISC</span> OS storage technology goes on an Open Source adventure with Woody and friends along the non-volatile memory express-way.</p>
+<p><img src="/images/third_party/nvme_buzz.jpg" title="Solid state storage on PCIe" alt="Solid state storage on PCIe" /></p>
+<h3>Collaborating together</h3>
+<p>We&#8217;re delighted to have partnered with <a href="https://www.riscosbits.co.uk/">RISCOSbits</a> and <a href="https://www.stader-softwareentwicklung-gmbh.com.de/">Stader Softwareentwicklung</a> in the development of this key new storage capability for <span class="caps">RISC</span> OS 5. Comprising the usual &#8216;stack&#8217; arrangement of a driver (NVMeDriver) and FileCore filing system (NVMeFS), the solid state flash drives take their familiar place alongside the other media on the left of the icon bar.</p>
+
+<span class="feed-item-link">
+<a href="http://www.riscosopen.org/news/articles/2024/02/22/to-nvme-and-beyond">http://www.riscosopen.org/news/articles/2024/02/22/to-nvme-and-beyond</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.riscosopen.org/news/articles/2024/02/22/to-nvme-and-beyond">Save to Pocket</a>
+</span>
+
+---
+
+##  What did Neanderthals look like? An overview of &#8220;the evolution of Neanderthal... 
+
+date: 2024-02-22, updated: 2024-02-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044032-what-did-neanderthals-loo">https://kottke.org/24/02/0044032-what-did-neanderthals-loo</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044032-what-did-neanderthals-loo">Save to Pocket</a>
+</span>
+
+---
+
+## The Future Circular Collider
+
+date: 2024-02-22, updated: 2024-02-22, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/02/22/the-future-circular-collider/">https://onefoottsunami.com/2024/02/22/the-future-circular-collider/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/02/22/the-future-circular-collider/">Save to Pocket</a>
+</span>
+
+---
+
+## Shanghai from Space
+
+date: 2024-02-22, from: NASA breaking news
+
+While the International Space Station orbited 260 miles above the East China Sea, NASA astronaut Jasmin Moghbeli snapped this photo of Shanghai’s city lights and the Huangpu River flowing through downtown. Shanghai is the most populous city in China with a population of about 24.9 million. The space station serves as a unique platform for [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/shanghai-from-space/">https://www.nasa.gov/image-article/shanghai-from-space/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/shanghai-from-space/">Save to Pocket</a>
+</span>
+
+---
+
+##  How&#8217;s It Going Today? 
+
+date: 2024-02-22, updated: 2024-02-22, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/hows-it-going-today">https://kottke.org/24/02/hows-it-going-today</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/hows-it-going-today">Save to Pocket</a>
+</span>
+
+---
+
+## Unlocking secret ThinkPad functionality for emulating USB devices
+
+date: 2024-02-22, from: Tilde.news
+
+<p><a href="https://tilde.news/s/cnl5l9/unlocking_secret_thinkpad">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://xairy.io/articles/thinkpad-xdci">https://xairy.io/articles/thinkpad-xdci</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://xairy.io/articles/thinkpad-xdci">Save to Pocket</a>
+</span>
+
+---
+
+## Most big legacy news publishers across 10 countries are blocking OpenAI’s crawlers, report finds
+
+date: 2024-02-22, from: Nieman Journalism Lab
+
+With The New York Times suing Microsoft and OpenAI for copyright infringement (a case the Times might well win, AI writer and researcher Timothy B. Lee and Cornell professor James Grimmelman argued this week), it&#8217;s a good time to take a look at how news sites in general are responding to tech companies&#8217; use of...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/most-big-legacy-news-publishers-across-10-countries-are-blocking-openais-crawlers-report-finds/">https://www.niemanlab.org/2024/02/most-big-legacy-news-publishers-across-10-countries-are-blocking-openais-crawlers-report-finds/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/most-big-legacy-news-publishers-across-10-countries-are-blocking-openais-crawlers-report-finds/">Save to Pocket</a>
+</span>
+
+---
+
+## The Elevator Test
+
+date: 2024-02-22, updated: 2024-02-22, from: Robin Rendle Essays
+
+
+
+<span class="feed-item-link">
+<a href="https://robinrendle.com/notes/elevator-test/">https://robinrendle.com/notes/elevator-test/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robinrendle.com/notes/elevator-test/">Save to Pocket</a>
+</span>
+
+---
+
+## Belief in magic may be declining
+
+date: 2024-02-22, from: Gary Marcus blog
+
+No time to write today, but here is a fascinating graph, hat tip to Jeffrey Funk: Maybe, and I am just spitballing, LLMs aren&#8217;t quite the magic panacea that the industry lead us all to believe? See also this report February 13 at WSJ and this one, February 16
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/belief-in-magic-may-be-declining">https://garymarcus.substack.com/p/belief-in-magic-may-be-declining</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/belief-in-magic-may-be-declining">Save to Pocket</a>
+</span>
+
+---
+
+## Wealthier, urban Americans have access to more local news
+
+date: 2024-02-22, from: Nieman Journalism Lab
+
+Is local news readily available in your town? Do reporters still cover your school board and other municipal meetings? If you answered yes, you are likely wealthier than the average American, and you live in or near a metro area. The State of Local News Project at Northwestern University documents the changing local news landscape...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/wealther-urban-americans-have-access-to-more-local-news/">https://www.niemanlab.org/2024/02/wealther-urban-americans-have-access-to-more-local-news/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/wealther-urban-americans-have-access-to-more-local-news/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -29,6 +878,18 @@ date: 2024-02-22, from: Tilde.news
 
 <span class="feed-item-link">
 <a href="https://www.in-ulm.de/~mascheck/various/uuoc/">https://www.in-ulm.de/~mascheck/various/uuoc/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.in-ulm.de/~mascheck/various/uuoc/">Save to Pocket</a>
+</span>
+
+---
+
+## Deno 1.41: smaller deno compile binaries
+
+date: 2024-02-22, updated: 2024-02-22, from: Deno blog
+
+We've roughly halved the size of `deno compile` binaries, added official Linux ARM64 builds, continued to land Node.js compatibility improvements, and more.
+
+<span class="feed-item-link">
+<a href="https://deno.com/blog/v1.41">https://deno.com/blog/v1.41</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://deno.com/blog/v1.41">Save to Pocket</a>
 </span>
 
 ---
@@ -87,7 +948,7 @@ date: 2024-02-22, from: Dave Winer's Scripting News
 
 <p>I don't care if you work at a big company or are an individual developer. </p>
 <p>I care if you can make a contribution toward interop on the open web.  </p>
-<p>I've found over the years that sometimes devs at bigco's can help enormously (eg microsoft, netscape, automattic) but usually they are harmful (apple, ibm, sun, google stand out as the worst). sometimes companies play both roles (apple).</p>
+<p>I've found over the years that sometimes devs at bigco's can help enormously (eg microsoft, netscape, automattic) but more often they are harmful (apple, ibm, sun, google stand out as the worst). Sometimes companies play both roles (apple).</p>
 <p>But i also know that bigco's because they are big, have lots of different ideas how the world should work. And that can help.</p>
 
 
@@ -168,6 +1029,19 @@ A brief guide on installing Gentoo Linux with Full Disk Encryption and the
 
 ---
 
+## Another Beatles post
+
+date: 2024-02-22, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/22/youngLennon.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Even though they are, for me, the biggest band ever, I've never been able to see the connection to the John Lennon of the early Beatles, and the long-haired bespectacled wild John Lennon that came later. I don't <a href="https://www.google.com/search?sca_esv=a2fe021a8e3ee580&rlz=1C5CHFA_enUS743US747&sxsrf=ACQVn09xZcYYO14qGpQ6FPXz7LE5WADxEw:1708610594208&q=john+lennon&tbm=isch&source=lnms&prmd=ivnhsmbtz&sa=X&ved=2ahUKEwjPwJu8jr-EAxVoGtAFHWOfBiQQ0pQJegQIDRAB&biw=1511&bih=1029&dpr=2">see them</a> as the same person. Not the other Beatles, they all make sense to me. Sometimes they have longer hair or a beard or whatever, but it's still the same face as before. Also I have trouble figuring out which Beatle is singing sometimes. On some songs it's perfectly obvious, others I have no clue. For example Norwegian Wood, Come Together, Strawberry Fields and Lucy in the Sky, that's John of course. Right? Hey Jude, that's clearly Paul, as is Let it Be, Yesterday. But for years I didn't know who sang Lady Madonna. Martha My Dear? Paul could sing so many different kinds of music. John, not so much. I guess. I'm still pretty unsure. </p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/22/135818.html?title=anotherBeatlesPost">http://scripting.com/2024/02/22/135818.html?title=anotherBeatlesPost</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/22/135818.html?title=anotherBeatlesPost">Save to Pocket</a>
+</span>
+
+---
+
 ## NASA Center Boosted YF-12 Supersonic Engine Research
 
 date: 2024-02-22, from: NASA breaking news
@@ -180,7 +1054,7 @@ Supersonic flight became a reality in October 1947, when the Bell X-1 rocket pla
 
 ---
 
-## Ubuntu, Kubuntu, and openSUSE to get better installation
+## Ubuntu, Kubuntu, openSUSE to get better installation
 
 date: 2024-02-22, updated: 2024-02-22, from: Liam Proven's articles at the Register
 
@@ -303,6 +1177,18 @@ date: 2024-02-22, updated: 2024-02-22, from: nlnet feed
 
 <span class="feed-item-link">
 <a href="https://nlnet.nl/news/2024/20240222-FOSDEM-talks.html">https://nlnet.nl/news/2024/20240222-FOSDEM-talks.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://nlnet.nl/news/2024/20240222-FOSDEM-talks.html">Save to Pocket</a>
+</span>
+
+---
+
+## Robust generic functions on slices
+
+date: 2024-02-22, updated: 2024-02-22, from: Go language blog
+
+Avoiding memory leaks in the slices package.
+
+<span class="feed-item-link">
+<a href="https://go.dev/blog/generic-slice-functions">https://go.dev/blog/generic-slice-functions</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.dev/blog/generic-slice-functions">Save to Pocket</a>
 </span>
 
 ---
