@@ -1,11 +1,21 @@
 ---
 title: writing 2024.08
-updated: 2024-02-23 11:09:19
+updated: 2024-02-23 14:24:39
 ---
 
 # writing 2024.08
 
-(date: 2024-02-23 11:09:19)
+(date: 2024-02-23 14:24:39)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-23, from: Neil Gaiman @ BlueSky)
+
+A fun interview extract about the upcoming auction: https://youtu.be/wwCct125y7Y?si=9Ngipdq3C9WlQWpv
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km4k3me3p22m">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km4k3me3p22m</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3km4k3me3p22m">Save to Pocket</a>
+</span>
 
 ---
 

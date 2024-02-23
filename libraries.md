@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.08
-updated: 2024-02-23 11:09:19
+updated: 2024-02-23 14:24:39
 ---
 
 # libraries 2024.08
 
-(date: 2024-02-23 11:09:19)
+(date: 2024-02-23 14:24:39)
+
+---
+
+## Calvary, by Octave Mirbeau
+
+date: 2024-02-23, from: Standard Ebooks, new releaases
+
+A young writer’s ruinous affair leads him down a path of suffering, obsession, and finally redemption.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/octave-mirbeau/calvary/louis-rich">https://standardebooks.org/ebooks/octave-mirbeau/calvary/louis-rich</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/octave-mirbeau/calvary/louis-rich">Save to Pocket</a>
+</span>
 
 ---
 

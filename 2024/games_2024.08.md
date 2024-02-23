@@ -1,11 +1,59 @@
 ---
 title: games 2024.08
-updated: 2024-02-23 11:09:19
+updated: 2024-02-23 14:24:39
 ---
 
 # games 2024.08
 
-(date: 2024-02-23 11:09:19)
+(date: 2024-02-23 14:24:39)
+
+---
+
+## A Game of Thrones movie trilogy was blocked by HBO, say showrunners
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24081363/game-thrones-movies-hbo-vertical-shooting-phones-benioff-weiss-zaslav">https://www.polygon.com/24081363/game-thrones-movies-hbo-vertical-shooting-phones-benioff-weiss-zaslav</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24081363/game-thrones-movies-hbo-vertical-shooting-phones-benioff-weiss-zaslav">Save to Pocket</a>
+</span>
+
+---
+
+## Believe it! A live-action Naruto is on the way from the director of Shang-Chi
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24081352/naruto-movie-live-action-shang-chi-destin-daniel-cretton">https://www.polygon.com/24081352/naruto-movie-live-action-shang-chi-destin-daniel-cretton</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24081352/naruto-movie-live-action-shang-chi-destin-daniel-cretton">Save to Pocket</a>
+</span>
+
+---
+
+## Spaceman gave Adam Sandler a new skill: ‘I never cried in front of a tennis ball before’
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24080545/adam-sandler-spaceman-interview-talking-to-a-tennis-ball-netflix">https://www.polygon.com/24080545/adam-sandler-spaceman-interview-talking-to-a-tennis-ball-netflix</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24080545/adam-sandler-spaceman-interview-talking-to-a-tennis-ball-netflix">Save to Pocket</a>
+</span>
+
+---
+
+## How to fix quirks with the tinker station in Pacific Drive
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24081076/pacific-drive-tinker-station-fix-quirks">https://www.polygon.com/guides/24081076/pacific-drive-tinker-station-fix-quirks</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24081076/pacific-drive-tinker-station-fix-quirks">Save to Pocket</a>
+</span>
 
 ---
 

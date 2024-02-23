@@ -1,11 +1,26 @@
 ---
 title: columns 2024.08
-updated: 2024-02-23 11:09:19
+updated: 2024-02-23 14:24:39
 ---
 
 # columns 2024.08
 
-(date: 2024-02-23 11:09:19)
+(date: 2024-02-23 14:24:39)
+
+---
+
+## Friday Squid Blogging: Illex Squid and Climate Change
+
+date: 2024-02-23, updated: 2024-02-19, from: Bruce Schneier blog
+
+<p>There <a href="https://bnnbreaking.com/world/argentina/unraveling-the-dance-of-the-elusive-illex-argentines-squid-and-climate-change-in-the-southwest-atlantic">are</a> <a href="https://en.mercopress.com/2024/02/15/illex-squid-correlation-between-abundance-and-sea-surface-temperatures-taiwanese-experience-1998-2018">correlations</a> between the populations of the Illex Argentines squid and water temperatures.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+<p>Read my blog posting guidelines <a href="https://www.schneier.com/blog/archives/2017/03/commenting_poli.html">here</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-illex-squid-and-climate-change.html">https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-illex-squid-and-climate-change.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/friday-squid-blogging-illex-squid-and-climate-change.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -353,11 +368,12 @@ I keep insisting that the CVE system is broken and that the database of existing
 
 ## Details of a Phone Scam
 
-date: 2024-02-21, updated: 2024-02-21, from: Bruce Schneier blog
+date: 2024-02-21, updated: 2024-02-23, from: Bruce Schneier blog
 
 <p>First-person <a href="https://www.thecut.com/article/amazon-scam-call-ftc-arrest-warrants.html">account</a> of someone who fell for a scam, that started as a fake Amazon service rep and ended with a fake CIA agent, and lost $50,000 cash. And this is not a naive or stupid person.</p>
 <p>The details are fascinating. And if you think it couldn&#8217;t happen to you, think again. Given the right set of circumstances, it can.</p>
 <p>It happened to <a href="https://pluralistic.net/2024/02/05/cyber-dunning-kruger/">Cory Doctorow</a>.</p>
+<p>EDITED TO ADD (2/23): More scams, these <a href="https://www.usatoday.com/story/news/investigations/2024/02/22/thousands-of-americans-fall-prey-to-mexican-cartel-cjng-timeshare-scam/72695295007/">involving timeshares</a>.</p>
 
 
 <span class="feed-item-link">

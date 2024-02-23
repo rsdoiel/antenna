@@ -93,3 +93,7 @@ https://gov.fm/index.php/component/content/category/35-pio-articles?Itemid=177&f
 #
 #https://statemag.state.gov/feed/ "~State Magazine (U.S. Department of State)"
 #https://www.doi.gov/feeds/list/19446/rss.xml "~OIA News (U.S. Department of the Interior)" # not available (404) 2023-12-05 after being a "maintenance" page on 2023-12-04
+
+# FSM based Science and Educational organizations
+https://www.meripmicronesia.org/feed/ "~MERIP News, Marine Environment Ressearch Institute of Pohnpei"
+https://micsem.org/feed/ "MicroSem News"

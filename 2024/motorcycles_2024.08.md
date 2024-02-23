@@ -1,23 +1,11 @@
 ---
 title: motorcycles 2024.08
-updated: 2024-02-23 11:09:19
+updated: 2024-02-23 14:24:39
 ---
 
 # motorcycles 2024.08
 
-(date: 2024-02-23 11:09:19)
-
----
-
-## Don’t Buy a Snowmobile Until You’ve Seen BRP's 2025 Lineup
-
-date: 2024-02-23, from: Ride Apart, Electric Motorcycle News
-
-For 2025, the Ski-Doo and Lynx lineups are stacked with upgrades, an anniversary edition, and even some electric models.
-
-<span class="feed-item-link">
-<a href="https://www.rideapart.com/news/709761/brp-2025-snowmobiles/">https://www.rideapart.com/news/709761/brp-2025-snowmobiles/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709761/brp-2025-snowmobiles/">Save to Pocket</a>
-</span>
+(date: 2024-02-23 14:24:39)
 
 ---
 
@@ -29,6 +17,30 @@ Harley-Davidson’s new CVO Road Glide ST takes lessons learned from the King of
 
 <span class="feed-item-link">
 <a href="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-cvo-road-glide-st-first-ride/">https://www.cycleworld.com/motorcycle-reviews/harley-davidson-cvo-road-glide-st-first-ride/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-cvo-road-glide-st-first-ride/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 KTM 990 Duke First Ride Review
+
+date: 2024-02-23, from: Cycle World News
+
+KTM’s aggressive, but still practical 990 Duke builds on the 890 Duke R middleweight naked bike legacy with a new engine, chassis, and styling.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-reviews/ktm-990-duke-first-ride-review/">https://www.cycleworld.com/motorcycle-reviews/ktm-990-duke-first-ride-review/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/ktm-990-duke-first-ride-review/">Save to Pocket</a>
+</span>
+
+---
+
+## Don’t Buy a Snowmobile Until You’ve Seen BRP's 2025 Lineup
+
+date: 2024-02-23, from: Ride Apart, Electric Motorcycle News
+
+For 2025, the Ski-Doo and Lynx lineups are stacked with upgrades, an anniversary edition, and even some electric models.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709761/brp-2025-snowmobiles/">https://www.rideapart.com/news/709761/brp-2025-snowmobiles/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709761/brp-2025-snowmobiles/">Save to Pocket</a>
 </span>
 
 ---

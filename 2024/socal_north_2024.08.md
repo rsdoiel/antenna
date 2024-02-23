@@ -1,11 +1,161 @@
 ---
 title: socal north 2024.08
-updated: 2024-02-23 11:09:18
+updated: 2024-02-23 14:24:38
 ---
 
 # socal north 2024.08
 
-(date: 2024-02-23 11:09:18)
+(date: 2024-02-23 14:24:38)
+
+---
+
+## CSU Student Assistants Unite: An Unprecedented Victory
+
+date: 2024-02-23, from: CI View (CSCI Student Newspaper)
+
+By Miriam Packard In a groundbreaking turn of events, student assistants from California State University (CSU) campuses have clinched a historic win, forming the largest [&#8230;]
+
+<span class="feed-item-link">
+<a href="http://civiewnews.com/news/csu-student-assistants-unite-an-unprecedented-victory/?utm_source=rss&utm_medium=rss&utm_campaign=csu-student-assistants-unite-an-unprecedented-victory">http://civiewnews.com/news/csu-student-assistants-unite-an-unprecedented-victory/?utm_source=rss&utm_medium=rss&utm_campaign=csu-student-assistants-unite-an-unprecedented-victory</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://civiewnews.com/news/csu-student-assistants-unite-an-unprecedented-victory/?utm_source=rss&utm_medium=rss&utm_campaign=csu-student-assistants-unite-an-unprecedented-victory">Save to Pocket</a>
+</span>
+
+---
+
+## The CI View Hosts Freedom of Speech Day Event: A Call to Action for Students
+
+date: 2024-02-23, from: CI View (CSCI Student Newspaper)
+
+By Miriam Packard On Feb. 22nd, students at CI gathered at an event hosted by The CI View to commemorate Freedom of Speech Day. The [&#8230;]
+
+<span class="feed-item-link">
+<a href="http://civiewnews.com/news/the-ci-view-hosts-freedom-of-speech-day-event-a-call-to-action-for-students/?utm_source=rss&utm_medium=rss&utm_campaign=the-ci-view-hosts-freedom-of-speech-day-event-a-call-to-action-for-students">http://civiewnews.com/news/the-ci-view-hosts-freedom-of-speech-day-event-a-call-to-action-for-students/?utm_source=rss&utm_medium=rss&utm_campaign=the-ci-view-hosts-freedom-of-speech-day-event-a-call-to-action-for-students</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://civiewnews.com/news/the-ci-view-hosts-freedom-of-speech-day-event-a-call-to-action-for-students/?utm_source=rss&utm_medium=rss&utm_campaign=the-ci-view-hosts-freedom-of-speech-day-event-a-call-to-action-for-students">Save to Pocket</a>
+</span>
+
+---
+
+## Happy Feet: A New Dance Floor
+
+date: 2024-02-23, from: CI View (CSCI Student Newspaper)
+
+By Aileen Lawrence Oct. 11 students, faculty, staff, administration and alumni all gathered to celebrate the installation of CI’s new dance floor in Malibu Hall. [&#8230;]
+
+<span class="feed-item-link">
+<a href="http://civiewnews.com/news/happy-feet-a-new-dance-floor/?utm_source=rss&utm_medium=rss&utm_campaign=happy-feet-a-new-dance-floor">http://civiewnews.com/news/happy-feet-a-new-dance-floor/?utm_source=rss&utm_medium=rss&utm_campaign=happy-feet-a-new-dance-floor</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://civiewnews.com/news/happy-feet-a-new-dance-floor/?utm_source=rss&utm_medium=rss&utm_campaign=happy-feet-a-new-dance-floor">Save to Pocket</a>
+</span>
+
+---
+
+## Visiting artist provides work for festival
+
+date: 2024-02-23, from: Catalina Islander
+
+With the 12th Annual Catalina Arts and Crafts Festival approaching on Easter Weekend, the posters advertising the event are popping up around town. The art used for this year’s event poster was actually done by a visiting artist at the September art festival event and the painting was done with a unique process, whereby the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/visiting-artist-provides-work-for-festival/">https://thecatalinaislander.com/visiting-artist-provides-work-for-festival/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/visiting-artist-provides-work-for-festival/">Save to Pocket</a>
+</span>
+
+---
+
+## Steven Harris Re-Positions Christians in the Approach to Justice
+
+date: 2024-02-23, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>On February 1st, Veritas Forum at Pepperdine University invited Steven Harris, Senior Director of Academic Programs at Georgetown University’s Center on Faith and Justice, to speak upon secular and Biblical perspectives on social justice.&#160; Harris began his lecture by prompting his audience to contemplate the way in which we view the terms “secular” and “Biblical.” [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/steven-harris-re-positions-christians-in-the-approach-to-justice/">Steven Harris Re-Positions Christians in the Approach to Justice</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://pepperdinebeacon.com/steven-harris-re-positions-christians-in-the-approach-to-justice/?utm_source=rss&utm_medium=rss&utm_campaign=steven-harris-re-positions-christians-in-the-approach-to-justice">https://pepperdinebeacon.com/steven-harris-re-positions-christians-in-the-approach-to-justice/?utm_source=rss&utm_medium=rss&utm_campaign=steven-harris-re-positions-christians-in-the-approach-to-justice</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://pepperdinebeacon.com/steven-harris-re-positions-christians-in-the-approach-to-justice/?utm_source=rss&utm_medium=rss&utm_campaign=steven-harris-re-positions-christians-in-the-approach-to-justice">Save to Pocket</a>
+</span>
+
+---
+
+## The Deteriorating Foundation of Christianity and How to Fix it: Part 1 of 3
+
+date: 2024-02-23, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>My life took a turn for the better when I decided to take my faith seriously. After this radical change, I expected to have more in common with the Pepperdine students and professors–but I did not. It is reasonable to make general assumptions about someone’s life when they say they are Christian. Thus, it is [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/the-deteriorating-foundation-of-christianity-and-how-to-fix-it-part-1-of-3/">The Deteriorating Foundation of Christianity and How to Fix it: Part 1 of 3</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://pepperdinebeacon.com/the-deteriorating-foundation-of-christianity-and-how-to-fix-it-part-1-of-3/?utm_source=rss&utm_medium=rss&utm_campaign=the-deteriorating-foundation-of-christianity-and-how-to-fix-it-part-1-of-3">https://pepperdinebeacon.com/the-deteriorating-foundation-of-christianity-and-how-to-fix-it-part-1-of-3/?utm_source=rss&utm_medium=rss&utm_campaign=the-deteriorating-foundation-of-christianity-and-how-to-fix-it-part-1-of-3</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://pepperdinebeacon.com/the-deteriorating-foundation-of-christianity-and-how-to-fix-it-part-1-of-3/?utm_source=rss&utm_medium=rss&utm_campaign=the-deteriorating-foundation-of-christianity-and-how-to-fix-it-part-1-of-3">Save to Pocket</a>
+</span>
+
+---
+
+## The Power of Weakness
+
+date: 2024-02-23, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>I don’t want to be weak. You don’t want to be weak. No one wants to be weak. In fact, we do all sorts of things to avoid weakness: we exercise, we study, we practice, we rehearse. We avoid weakness and seek only to be strong. This is why this passage from 2 Corinthians is [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/the-power-of-weakness/">The Power of Weakness</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://pepperdinebeacon.com/the-power-of-weakness/?utm_source=rss&utm_medium=rss&utm_campaign=the-power-of-weakness">https://pepperdinebeacon.com/the-power-of-weakness/?utm_source=rss&utm_medium=rss&utm_campaign=the-power-of-weakness</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://pepperdinebeacon.com/the-power-of-weakness/?utm_source=rss&utm_medium=rss&utm_campaign=the-power-of-weakness">Save to Pocket</a>
+</span>
+
+---
+
+## LA’s Winter COVID Surge Ebbs
+
+date: 2024-02-23, updated: 2024-02-23, from: The LAist
+
+We’re past the post-holiday peak, according to Los Angeles County health officials.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/health/las-winter-covid-surge-ebbs">https://laist.com/news/health/las-winter-covid-surge-ebbs</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/health/las-winter-covid-surge-ebbs">Save to Pocket</a>
+</span>
+
+---
+
+## Catalina Island Marathon medal has new twist with local connection
+
+date: 2024-02-23, from: Catalina Islander
+
+The Catalina Island Marathon, the oldest trail marathon in California, has revealed their 2024 finisher medals, and they’re definitely something to check out. This year’s medals were designed by Robin Cassidy of Silverado Pottery, a local artist on the island. The medals feature a colorful design of ocean waves and an iconic Catalina Island sunset, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/catalina-island-marathon-medal-has-new-twist-with-local-connection/">https://thecatalinaislander.com/catalina-island-marathon-medal-has-new-twist-with-local-connection/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/catalina-island-marathon-medal-has-new-twist-with-local-connection/">Save to Pocket</a>
+</span>
+
+---
+
+## Local water rates to increase
+
+date: 2024-02-23, from: Catalina Islander
+
+If you are on Catalina Island, your water bill will go up, most likely in March. That was the news from Southern California Edison representatives who spoke at the Feb. 20 Avalon City Council meeting. Background Ryan Stevenson, SCE, the water rate case manager for Catalina, told the council that Edison filed the application for [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/local-water-rates-to-increase/">https://thecatalinaislander.com/local-water-rates-to-increase/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/local-water-rates-to-increase/">Save to Pocket</a>
+</span>
+
+---
+
+## Recreation Dept. to tighten conduct code
+
+date: 2024-02-23, from: Catalina Islander
+
+Community Services Manager David Hart told the City Council on Feb. 20 that they were “tightening up” the Code of Conduct for Avalon’s recreation programs. The reason: Kids are not signing up for programs for fear of being bullied. Councilmember Michael Ponce took the opportunity to express his disappointment in the community because nothing has [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/recreation-dept-to-tighten-conduct-code/">https://thecatalinaislander.com/recreation-dept-to-tighten-conduct-code/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/recreation-dept-to-tighten-conduct-code/">Save to Pocket</a>
+</span>
+
+---
+
+## Sheriff’s Log: Feb. 15 to Feb. 21, 2024
+
+date: 2024-02-23, from: Catalina Islander
+
+The following is the Avalon’s Sheriff’s Stations significant incidents report for the period of Feb. 15 to Feb. 21, 2024. All suspects are presumed innocent until proven guilty in a court of law. Many people who are arrested do not get prosecuted in the first place and many who are prosecuted do not get convicted. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://thecatalinaislander.com/sheriffs-log-feb-15-to-feb-21-2024/">https://thecatalinaislander.com/sheriffs-log-feb-15-to-feb-21-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://thecatalinaislander.com/sheriffs-log-feb-15-to-feb-21-2024/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -17,6 +167,18 @@ Latinx with Plants is a plant store that is community-driven and centered on emb
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/23/gallery-local-business-latinx-with-plants-blooms-in-boyle-heights/">https://dailybruin.com/2024/02/23/gallery-local-business-latinx-with-plants-blooms-in-boyle-heights/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/23/gallery-local-business-latinx-with-plants-blooms-in-boyle-heights/">Save to Pocket</a>
+</span>
+
+---
+
+## From A ‘Lonely Road’ To An Artist Haven: How This Music Community Helps Angelenos Feel Less Alone
+
+date: 2024-02-23, updated: 2024-02-23, from: The LAist
+
+Writer’s ‘Round seeks to bring LA’s musicians together to jam, and maybe make some friends
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/how-to-la/from-a-lonely-road-to-an-artist-haven-how-this-music-community-helps-angelenos-feel-less-alone">https://laist.com/news/how-to-la/from-a-lonely-road-to-an-artist-haven-how-this-music-community-helps-angelenos-feel-less-alone</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/how-to-la/from-a-lonely-road-to-an-artist-haven-how-this-music-community-helps-angelenos-feel-less-alone">Save to Pocket</a>
 </span>
 
 ---
@@ -59,6 +221,18 @@ date: 2024-02-23, from: City of Santa Clarita
 
 ---
 
+## California Distributes Stockpile Of Abortion Pills Before They Expire
+
+date: 2024-02-23, updated: 2024-02-23, from: The LAist
+
+The state purchased 250,000 misoprostol pills last year for about $100,000.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/health/california-abortion-pill-stockpile">https://laist.com/news/health/california-abortion-pill-stockpile</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/health/california-abortion-pill-stockpile">Save to Pocket</a>
+</span>
+
+---
+
 ## All Our Favorite Places To Eat When CicLAvia Takes Over Melrose on Sunday
 
 date: 2024-02-23, updated: 2024-02-23, from: The LAist
@@ -79,18 +253,6 @@ Food editor Gab Chabran shares a dish that filled him with delight in the past s
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/food/best-thing-i-ate-this-week-venezuelan-arepas">https://laist.com/news/food/best-thing-i-ate-this-week-venezuelan-arepas</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/best-thing-i-ate-this-week-venezuelan-arepas">Save to Pocket</a>
-</span>
-
----
-
-## California Distributes Stockpile Of Abortion Pills Before They Expire
-
-date: 2024-02-23, updated: 2024-02-23, from: The LAist
-
-Officials say the state currently has more than 250,000 of the pills on hand, which were purchased for about $100,000.
-
-<span class="feed-item-link">
-<a href="https://laist.com/news/health/california-abortion-pill-stockpile">https://laist.com/news/health/california-abortion-pill-stockpile</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/health/california-abortion-pill-stockpile">Save to Pocket</a>
 </span>
 
 ---
@@ -494,6 +656,18 @@ But today, the graduate student shares a top-10 national ranking on floor.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/22/the-ultimate-teammate-nya-reed-hits-floor-running-in-return-to-gymnastics/">https://dailybruin.com/2024/02/22/the-ultimate-teammate-nya-reed-hits-floor-running-in-return-to-gymnastics/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/22/the-ultimate-teammate-nya-reed-hits-floor-running-in-return-to-gymnastics/">Save to Pocket</a>
+</span>
+
+---
+
+## The Dodgers Gondola Project Lives To See Another Day: Metro Board Moves Forward With Plans
+
+date: 2024-02-23, updated: 2024-02-23, from: The LAist
+
+The proposed project now heads to the L.A. City Council, Caltrans, and California State Parks for their approval. It includes more than 30 conditions the project must meet in order to break ground.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/transportation/dodgers-gondola-project-metro-board-approves-plans">https://laist.com/news/transportation/dodgers-gondola-project-metro-board-approves-plans</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/transportation/dodgers-gondola-project-metro-board-approves-plans">Save to Pocket</a>
 </span>
 
 ---
