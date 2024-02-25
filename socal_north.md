@@ -1,11 +1,61 @@
 ---
 title: socal north 2024.08
-updated: 2024-02-23 14:24:38
+updated: 2024-02-24 18:31:21
 ---
 
 # socal north 2024.08
 
-(date: 2024-02-23 14:24:38)
+(date: 2024-02-24 18:31:21)
+
+---
+
+## Leslie Tai’s ‘How to Have an American Baby’ sheds light on Chinese birth tourism
+
+date: 2024-02-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+From the inside of a maternity hotel, Leslie Tai is bringing a new perspective on birth tourism into the world.
+In her new documentary, “How to Have an American Baby,” available until March 10 on PBS, the alumnus and filmmaker sheds light on the intricacies of Chinese birth tourism in Southern California, unveiling a rapidly expanding economy with an intimate focus on the humanistic stories behind it.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/23/leslie-tais-how-to-have-an-american-baby-sheds-light-on-chinese-birth-tourism/">https://dailybruin.com/2024/02/23/leslie-tais-how-to-have-an-american-baby-sheds-light-on-chinese-birth-tourism/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/23/leslie-tais-how-to-have-an-american-baby-sheds-light-on-chinese-birth-tourism/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Win every game that’s left’: Bruins cling to long-shot NCAA Tournament hopes
+
+date: 2024-02-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Last weekend was not Mick Cronin’s definition of fun.
+The fifth-year coach – who spells &#8220;fun&#8221; as W-I-N – witnessed his team lose its six-game winning streak at the hands of a last-second shot from Utah.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/23/win-every-game-thats-left-bruins-cling-to-long-shot-ncaa-tournament-hopes/">https://dailybruin.com/2024/02/23/win-every-game-thats-left-bruins-cling-to-long-shot-ncaa-tournament-hopes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/23/win-every-game-thats-left-bruins-cling-to-long-shot-ncaa-tournament-hopes/">Save to Pocket</a>
+</span>
+
+---
+
+## EPA Orders Chiquita Canyon Landfill To Fix Its Odor Problem
+
+date: 2024-02-23, updated: 2024-02-23, from: The LAist
+
+The move comes after state officials found landfill operators violated hazardous waste control laws.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/epa-chiquita-canyon-landfill-odors">https://laist.com/news/epa-chiquita-canyon-landfill-odors</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/epa-chiquita-canyon-landfill-odors">Save to Pocket</a>
+</span>
+
+---
+
+## Broadcasting: Touch Some Grass
+
+date: 2024-02-23, from: CI View (CSCI Student Newspaper)
+
+By Corey Rose and Allen Monge   In a generation that goes on their phone for most of the day, not enough attention goes to [&#8230;]
+
+<span class="feed-item-link">
+<a href="http://civiewnews.com/opinion/broadcasting-touch-some-grass/?utm_source=rss&utm_medium=rss&utm_campaign=broadcasting-touch-some-grass">http://civiewnews.com/opinion/broadcasting-touch-some-grass/?utm_source=rss&utm_medium=rss&utm_campaign=broadcasting-touch-some-grass</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://civiewnews.com/opinion/broadcasting-touch-some-grass/?utm_source=rss&utm_medium=rss&utm_campaign=broadcasting-touch-some-grass">Save to Pocket</a>
+</span>
 
 ---
 
@@ -554,6 +604,20 @@ date: 2024-02-23, from: The Daily Trojan (USC Student Newspaper)
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/22/daily-trojan-saudi-founding-day/">https://dailytrojan.com/2024/02/22/daily-trojan-saudi-founding-day/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/22/daily-trojan-saudi-founding-day/">Save to Pocket</a>
+</span>
+
+---
+
+## USC, UCLA Saudi Student Associations host Founding Day event
+
+date: 2024-02-23, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The associations held the event Feb. 17 in the Trojan Grand Ballroom to honor Saudi Founding Day, which is celebrated on Feb. 22.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/22/saudi-founding-day/">USC, UCLA Saudi Student Associations host Founding Day event</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/22/saudi-founding-day/">https://dailytrojan.com/2024/02/22/saudi-founding-day/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/22/saudi-founding-day/">Save to Pocket</a>
 </span>
 
 ---
@@ -1567,6 +1631,20 @@ date: 2024-02-21, from: The Round Up (Pierce College Student Newspaper)
 
 <span class="feed-item-link">
 <a href="https://theroundupnews.com/2024/02/21/black-history-month-staff-faculty-appreciation-lunch/?utm_source=rss&utm_medium=rss&utm_campaign=black-history-month-staff-faculty-appreciation-lunch">https://theroundupnews.com/2024/02/21/black-history-month-staff-faculty-appreciation-lunch/?utm_source=rss&utm_medium=rss&utm_campaign=black-history-month-staff-faculty-appreciation-lunch</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/02/21/black-history-month-staff-faculty-appreciation-lunch/?utm_source=rss&utm_medium=rss&utm_campaign=black-history-month-staff-faculty-appreciation-lunch">Save to Pocket</a>
+</span>
+
+---
+
+## Speed-dating: Meet the counselors edition
+
+date: 2024-02-21, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The decision to go to college is a choice that is not taken lightly, and can be daunting without help.  And with 145 disciplines, 85</p>
+<p>The post <a href="https://theroundupnews.com/2024/02/21/speed-dating-meet-the-counselors-edition/">Speed-dating: Meet the counselors edition</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/02/21/speed-dating-meet-the-counselors-edition/?utm_source=rss&utm_medium=rss&utm_campaign=speed-dating-meet-the-counselors-edition">https://theroundupnews.com/2024/02/21/speed-dating-meet-the-counselors-edition/?utm_source=rss&utm_medium=rss&utm_campaign=speed-dating-meet-the-counselors-edition</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/02/21/speed-dating-meet-the-counselors-edition/?utm_source=rss&utm_medium=rss&utm_campaign=speed-dating-meet-the-counselors-edition">Save to Pocket</a>
 </span>
 
 ---

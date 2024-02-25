@@ -1,11 +1,118 @@
 ---
 title: tech likely 2024.08
-updated: 2024-02-23 14:24:39
+updated: 2024-02-24 18:31:22
 ---
 
 # tech likely 2024.08
 
-(date: 2024-02-23 14:24:39)
+(date: 2024-02-24 18:31:22)
+
+---
+
+## NASA Tech Contributes to Soft Moon Landing, Agency Science Underway
+
+date: 2024-02-23, from: NASA breaking news
+
+Editor&#8217;s note: This release was updated Feb. 23, 2024, to add an image from the news conference and participant titles. For the first time in more than 50 years, new NASA science instruments and technology demonstrations are operating on the Moon following the first successful delivery of the agency’s CLPS (Commercial Lunar Payload Services) initiative. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-tech-contributes-to-soft-moon-landing-agency-science-underway/">https://www.nasa.gov/news-release/nasa-tech-contributes-to-soft-moon-landing-agency-science-underway/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-tech-contributes-to-soft-moon-landing-agency-science-underway/">Save to Pocket</a>
+</span>
+
+---
+
+## This Week in the IndieWeb
+
+date: 2024-02-23, from: This week in Indie Web
+
+
+
+<h1><a href="https://indieweb.org/this-week/2024-02-23.html">February 16-23, 2024</a></h1>
+<h2 id="recent-events">Recent Events</h2><p>From <a href="https://events.indieweb.org/archive">events.indieweb.org/archive</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-europe-london-hFrKVoneAzZs" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-02-21T19:00:00+00:00">Wednesday, February 21 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary">
+        <p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, coder, or all the above.</p>
+    </div><div><img src="https://indieweb.org/this-week/images/2024-02-23/9cce12ab4135804d43a08dcb29d6aa62f16a7235.jpg" style="width:100%" class="u-photo"></div></div>
+<h2 id="upcoming-events">Upcoming Events</h2><p>From <a href="https://events.indieweb.org/">events.indieweb.org</a>:</p>
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-europe-london-aWOhRaPRevto" class="u-url">Homebrew Website Club Europe/London</a></div>
+<time class="dt-start" datetime="2024-02-28T19:00:00+00:00">Wednesday, February 28 at 7:00pm</time><br>
+<div style="font-style: italic" class="e-summary">
+        <p>Join us online in Zoom for demos of personal sites, recent breakthroughs, discussions about the independent web, and meet IndieWeb community members! Homebrew Website club is for all levels and areas of IndieWeb interest, whether curious, creative, coder, or all the above.</p>
+    </div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/02/homebrew-website-club-pacific-gT9WhdtBhsjs" class="u-url">Homebrew Website Club - Pacific</a></div>
+<time class="dt-start" datetime="2024-02-28T18:00:00-08:00">Wednesday, February 28 at 6:00pm</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/03/indiewebcamp-brighton-2024-xRTP2hAZOvZd" class="u-url">IndieWebCamp Brighton 2024</a></div>
+<time class="dt-start" datetime="2024-03-09T00:00:00+00:00">March 9</time> - <time class="dt-end" datetime="2024-03-10T00:00:00+00:00">March 10</time><br>
+<ul><li>BRIGHTON AND HOVE, England: The Skiff</li></ul><div style="font-style: italic" class="e-summary">
+        <p>IndieWebCamp Brighton 2024 will be the seventh IndieWebCamp to held in Brighton, England.</p>
+    </div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/03/homebrew-website-club-nuremberg-germany-Xsw0bLzEmTc5" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-03-13T18:00:00+01:00">Wednesday, March 13 at 6:00pm</time><br>
+<ul><li>FÜRTH, Bayern: Fab Lab Region Nürnberg e.V.</li></ul><div style="font-style: italic" class="e-summary">
+        <p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p>
+    </div></div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/03/build-a-website-in-an-hour-lUYv5DntQ3Sr" class="u-url">Build a Website in an Hour</a></div>
+<time class="dt-start" datetime="2024-03-23T09:00:00-07:00">Saturday, March 23 at 9:00am</time><br>
+</div>
+
+
+<div style="margin-bottom: 1em;" class="h-event"><div style="font-size: 1.3em; font-weight: bold;" class="p-name"><a href="https://events.indieweb.org/2024/04/homebrew-website-club-nuremberg-germany-jWjJuRLEP8Q6" class="u-url">Homebrew Website Club - Nuremberg/Germany</a></div>
+<time class="dt-start" datetime="2024-04-10T18:00:00+02:00">Wednesday, April 10 at 6:00pm</time><br>
+<ul><li>FÜRTH, Bayern: Fab Lab Region Nürnberg e.V.</li></ul><div style="font-style: italic" class="e-summary">
+        <p>HWC Nuremberg is a in-person meeting for everybody who is interested in setting up a personal website and talk about web-related issues.</p>
+    </div></div>
+<h2 id="news">What We’re Reading</h2><p>From <a href="https://news.indieweb.org/en">news.indieweb.org</a>:</p><div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://jeremyfelt.com/2024/02/20/participating-in-delete-your-drafts-day/" class="u-url p-name">Participating in Delete Your Drafts Day</a></div><div>by <a href="https://jeremyfelt.com" class="p-author h-card">jeremyfelt.com</a> on <a href="https://jeremyfelt.com/2024/02/20/participating-in-delete-your-drafts-day/"><time class="dt-published" datetime="2024-02-20T21:14:04+00:00">February 20</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://werd.io/2024/social-i-love-you-but-youre-bringing-me-down" class="u-url p-name">Social, I love you, but you’re bringing me down</a></div><div>by <a href="https://werd.io/profile/benwerd" class="p-author h-card">werd.io/profile/benwerd</a> on <a href="https://werd.io/2024/social-i-love-you-but-youre-bringing-me-down"><time class="dt-published" datetime="2024-02-19T18:09:59+00:00">February 19</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://jamesg.blog/2024/02/19/personal-website-ideas/" class="u-url p-name">100 things you can do on your personal website</a></div><div>by <a href="https://jamesg.blog" class="p-author h-card">jamesg.blog</a> on <a href="https://jamesg.blog/2024/02/19/personal-website-ideas/"><time class="dt-published" datetime="2024-02-19T10:50:34+00:00">February 19</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://starrwulfe.xyz/2024/02/on-the-subject-of-connecting-federated-social-media-networks/" class="u-url p-name">[Article] On the subject of Connecting Federated Social Media Networks – STARRWULFE</a></div><div>by <a href="https://starrwulfe.xyz" class="p-author h-card">starrwulfe.xyz</a> on <a href="https://starrwulfe.xyz/2024/02/on-the-subject-of-connecting-federated-social-media-networks/"><time class="dt-published" datetime="2024-02-19T00:33:31+00:00">February 19</time></a></div></div>
+
+<div style="margin-bottom: 1em;" class="h-entry"><div style="font-size:1.3em;font-weight:bold;"><a href="https://indieseek.xyz/2024/02/17/beyond-the-wikipedia-silo-suggestions-for-your-next-retroweb-site/" class="u-url p-name">Beyond the Wikipedia Silo Suggestions for Your Next RetroWeb Site</a></div><div>by <a href="https://indieseek.xyz/author/administrator/" class="p-author h-card">indieseek.xyz/author/administrator</a> on <a href="https://indieseek.xyz/2024/02/17/beyond-the-wikipedia-silo-suggestions-for-your-next-retroweb-site/"><time class="dt-published" datetime="2024-02-17T19:38:56+00:00">February 17</time></a></div></div>
+
+<h2 id="new-community-members">New Community Members</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=2">IndieWeb Wiki: New User Pages</a>:</p>
+<h3><a href="https://indieweb.org/User%3AWww.zoraster.org">User:Www.zoraster.org</a></h3><p style="font-size:0.8em;">Created by Www.zoraster.org on Saturday and edited 3 more times</p>
+<h3><a href="https://indieweb.org/User%3ALejtzen.dev">User:Lejtzen.dev</a></h3><p style="font-size:0.8em;">Created by Lejtzen.dev on Wednesday</p>
+<h2 id="new-wiki-pages">Top New Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+<h3><a href="https://indieweb.org/as2.rocks">as2.rocks</a></h3><p>as2.rocks was an instance of the ActivityStreams2 validator https://github.com/w3c-social/activitystreams-validator last  archived on 2018-09-03, that was since lost.</p><p style="font-size:0.8em;">Created by Tantek.com on Wednesday and edited 2 more times</p>
+<h2 id="new-event-notes">New Event Notes</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?title=Special%3ANewPages&namespace=0">IndieWeb Wiki: New Pages</a>:</p>
+
+<p><b>Homebrew Website Club Europe/London:</b> <a href="https://indieweb.org/events/2024-02-21-hwc-europe">2024-02-21</a></p>
+<p><b>Homebrew Website Club - The Americas:</b> <a href="https://indieweb.org/events/2020-11-25-hwc-americas">2020-11-25</a>, <a href="https://indieweb.org/events/2020-11-18-hwc-americas">2020-11-18</a>, <a href="https://indieweb.org/events/2020-11-11-hwc-americas">2020-11-11</a>, <a href="https://indieweb.org/events/2020-11-04-hwc-americas">2020-11-04</a></p>
+
+<h2 id="changed-wiki-pages">Top Edited Wiki Pages</h2>
+<p>From <a href="https://indieweb.org/wiki/index.php?namespace=0&title=Special%3ARecentChanges">IndieWeb Wiki: Recent Changes</a>:</p>
+<ul>
+<li><b><a href="https://indieweb.org/Bluesky">Bluesky</a></b> <a href="https://indieweb.org/wiki/index.php?title=Bluesky&amp;action=historysubmit&amp;diff=93427&amp;oldid=93021">9 edits</a> by loqi.me and tantek.com</li>
+<li><b><a href="https://indieweb.org/Tailwind">Tailwind</a></b> <a href="https://indieweb.org/wiki/index.php?title=Tailwind&amp;action=historysubmit&amp;diff=93410&amp;oldid=89163">4 edits</a> by loqi.me, paulrobertlloyd.com and tantek.com</li>
+<li><b><a href="https://indieweb.org/2024/Brighton">2024/Brighton</a></b> <a href="https://indieweb.org/wiki/index.php?title=2024%2FBrighton&amp;action=historysubmit&amp;diff=93375&amp;oldid=93266">4 edits</a> by qubyte.codes, yousefamar.com and jkphl.is</li>
+<li><b><a href="https://indieweb.org/other-languages">other-languages</a></b> <a href="https://indieweb.org/wiki/index.php?title=other-languages&amp;action=historysubmit&amp;diff=93357&amp;oldid=82919">4 edits</a> by paulrobertlloyd.com</li>
+<li><b><a href="https://indieweb.org/bookmarks">bookmarks</a></b> <a href="https://indieweb.org/wiki/index.php?title=bookmarks&amp;action=historysubmit&amp;diff=93406&amp;oldid=74252">2 edits</a> by martymcgui.re</li>
+<li><b><a href="https://indieweb.org/events/2024-01-03-hwc-europe">events/2024-01-03-hwc-europe</a></b> <a href="https://indieweb.org/wiki/index.php?title=events%2F2024-01-03-hwc-europe&amp;action=historysubmit&amp;diff=93377&amp;oldid=91852">2 edits</a> by tantek.com</li>
+<li><b><a href="https://indieweb.org/indieweb-carnival">indieweb-carnival</a></b> <a href="https://indieweb.org/wiki/index.php?title=indieweb-carnival&amp;action=historysubmit&amp;diff=93370&amp;oldid=93098">2 edits</a> by blog.basementcommunity.com and alexsirac.com</li>
+<li><b><a href="https://indieweb.org/ActivityPub">ActivityPub</a></b> <a href="https://indieweb.org/wiki/index.php?title=ActivityPub&amp;action=historysubmit&amp;diff=93367&amp;oldid=93189">2 edits</a> by loqi.me and gregorlove.com</li></ul>
+
+
+
+<span class="feed-item-link">
+<a href="https://indieweb.org/this-week/2024-02-23.html">https://indieweb.org/this-week/2024-02-23.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://indieweb.org/this-week/2024-02-23.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -117,7 +224,7 @@ date: 2024-02-23, updated: 2024-02-23, from: Jason Kottke blog
 
 ---
 
-##  Wesley Moore awards &#8220;Best Theft of a Movie&#8221; to Ryan Gosling in... 
+##  Wesley Morris awards &#8220;Best Theft of a Movie&#8221; to Ryan Gosling in... 
 
 date: 2024-02-23, updated: 2024-02-23, from: Jason Kottke blog
 
@@ -249,7 +356,7 @@ date: 2024-02-23, updated: 2024-02-23, from: Jason Kottke blog
 
 **@Dave Winer's Scripting News** (date: 2024-02-23, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/23/hur.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The other day I <a href="http://scripting.com/2024/02/21/024211.html">asked</a> if an op-ed columnist at the NYT or WP would ever criticize their employer for showing poor judgement on what to report on, esp re the election. I was thinking of the <a href="https://thehill.com/homenews/administration/4456879-special-counsel-describes-biden-as-elderly-man-with-a-poor-memory-in-eye-raising-report/">story</a> about the <a href="https://en.wikipedia.org/wiki/Robert_K._Hur">special prosecutor</a> who did something highly unethical in writing a public, official, condemnation of someone he investigated yet decided not to prosecute. We have judges and juries for that. Only in a police state can a prosecutor pass judgement on an accused person. The news orgs took the bait, I didn't read one report on who <a href="https://www.google.com/search?q=Robert+K.+Hur">Robert K. Hur</a> is, and the ethics of what he did. Is it appropriate to quote a person who was behaving so openly unethically, esp if you don't disclaim that up front. It's not that democracy is on the ballot this year, we're already over the line. Our journalism is acting as if it were already controlled by the authoritarians. Our lack of trust in journalism is our biggest problem. How can we force journalism to start to be a <i>little</i> accountable. Right now they're the only part of our ruling class that theoretically can't have their choices reviewed.
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/23/hur.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The other day I <a href="http://scripting.com/2024/02/21/024211.html">asked</a> if an op-ed columnist at the NYT or WP would ever criticize their employer for showing poor judgment on what to report on, esp re the election. I was thinking of the <a href="https://thehill.com/homenews/administration/4456879-special-counsel-describes-biden-as-elderly-man-with-a-poor-memory-in-eye-raising-report/">story</a> about the <a href="https://en.wikipedia.org/wiki/Robert_K._Hur">special prosecutor</a> who did something highly unethical in writing a public, official, condemnation of someone he investigated yet decided not to prosecute. We have judges and juries for that. Only in a police state can a prosecutor pass judgment on an accused person. The news orgs took the bait, I didn't read one report on who <a href="https://www.google.com/search?q=Robert+K.+Hur">Robert K. Hur</a> is, and the ethics of what he did. Is it appropriate to quote a person who was behaving so openly unethically, esp if you don't disclaim that up front. It's not that democracy is on the ballot this year, we're already over the line. Our journalism is acting as if it were already controlled by the authoritarians. Our lack of trust in journalism is our biggest problem. How can we force journalism to start to be a <i>little</i> accountable. Right now they're the only part of our ruling class that can't have their choices reviewed.
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2024/02/23.html#a142425">http://scripting.com/2024/02/23.html#a142425</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/23.html#a142425">Save to Pocket</a>
@@ -1753,18 +1860,6 @@ This is the (work in progress) SunOS jdk builder. The aim is to attempt to downl
 
 ---
 
-## Advent of Computing: Episode 126 - IBM Compatible (No, Not Those)
-
-date: 2024-02-21, from: Tilde.news
-
-<p><a href="https://tilde.news/s/egrqbn/advent_computing_episode_126_ibm">Comments</a></p>
-
-<span class="feed-item-link">
-<a href="https://adventofcomputing.libsyn.com/episode-126-ibm-compatible-no-not-those">https://adventofcomputing.libsyn.com/episode-126-ibm-compatible-no-not-those</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-126-ibm-compatible-no-not-those">Save to Pocket</a>
-</span>
-
----
-
 **@Dave Winer's Scripting News** (date: 2024-02-21, from: Dave Winer's Scripting News)
 
 <img class="imgRightMargin" src="https://imgs.scripting.com/2019/12/23/you.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Consider this quote from a <a href="https://wapo.st/48uLvKF">WP article</a> about a court ruling on abortion in Alabama. “Women who actually know what happened, feel under attack and almost powerless.” When historians look back on this election, they will be amazed that all the attention wasn't focused on reproductive rights, esp when 1. It mattered so much to virtually every American, in very real non-abstract ways, and 2. There was such a dramatic difference between the two parties and candidates on this issue. I think I understand why journalism can't get there. Because they would have to turn the agenda over to the people, and give up a power they have and enjoy, even if that power has repeatedly sent us wildly in the wrong direction, focusing on things that don't matter as much as the gut-wrenching decision Americans have to make this year. Do we want to let Republicans enslave women, 1/2 half the populace, or do we want to return to the way things were before Dobbs. I don't have to explain. Very few people on the fence here. What we need are people directly affected by this situation, women of childbearing age, and let them speak, over and over, every day, about all the ways their lives are turned upside down by the direction the Repubs are taking us. No longer <i>trying</i> to take us. There isn't much to argue about here, it's fairly black and white and it is a real division, not one of the bullshit devisions the Repubs have been able to trick the journalists to focus on.
@@ -2852,6 +2947,18 @@ date: 2024-02-19, updated: 2024-02-19, from: Jason Kottke blog
 
 <span class="feed-item-link">
 <a href="https://www.jayeless.net/2024/02/metro-supermarkets.html">https://www.jayeless.net/2024/02/metro-supermarkets.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jayeless.net/2024/02/metro-supermarkets.html">Save to Pocket</a>
+</span>
+
+---
+
+## Episode 126 - IBM Compatible (No, Not Those)
+
+date: 2024-02-19, from: Advent of Computing
+
+<div class="DraftEditor-paragraphElement" data-block="true" data-editor="7rkqf" data-offset-key="1knr0-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1knr0-0-0"><span data-offset-key= "1knr0-0-0"><span data-text="true">This episode wraps up the System/360 trilogy by taking things back to where they started for me. We will be looking at System/360 clones, how they could exist, why they existed, and why IBM didn't crush them. We close with a discussion of how these earlier clones impact our understanding of the IBM PC story. The truth is, by 1981 IBM was no stranger to clones. This is the culmination of a wild story, so prepare!</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="1knr0-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="7rkqf" data-offset-key="42apq-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="42apq-0-0"><span data-offset-key= "42apq-0-0"><span data-text="true">Selected Sources:</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="42apq-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="7rkqf" data-offset-key="b4qjm-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="b4qjm-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.org/details/iclbusinesstechn0000camp/mode/1up"><span data-offset-key="b4qjm-0-0"> <span data-text= "true">https://archive.org/details/iclbusinesstechn0000camp/mode/1up</span></span></a> <span data-offset-key="b4qjm-1-0"><span data-text="true">- ICL: A Business and Technical History</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="b4qjm-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="7rkqf" data-offset-key="5pa9v-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="5pa9v-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://archive.org/details/impactreportamdaunse/page/1/mode/1up"><span data-offset-key="5pa9v-0-0"> <span data-text= "true">https://archive.org/details/impactreportamdaunse/page/1/mode/1up</span></span></a> <span data-offset-key="5pa9v-1-0"><span data-text="true">- Impact Report by INPUT</span></span></div> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="5pa9v-0-0"> </div> </div> <div class="DraftEditor-paragraphElement" data-block="true" data-editor="7rkqf" data-offset-key="4r07t-0-0"> <div class= "public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="4r07t-0-0"><a class="sc-afquy-0 kpuBjA" href= "https://www.stayforever.de/ibm-pc-a-conversation-with-dr-david-bradley/"> <span data-offset-key="4r07t-0-0"><span data-text= "true">https://www.stayforever.de/ibm-pc-a-conversation-with-dr-david-bradley/</span></span></a></div> </div>
+
+<span class="feed-item-link">
+<a href="https://adventofcomputing.libsyn.com/episode-126-ibm-compatible-no-not-those">https://adventofcomputing.libsyn.com/episode-126-ibm-compatible-no-not-those</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://adventofcomputing.libsyn.com/episode-126-ibm-compatible-no-not-those">Save to Pocket</a>
 </span>
 
 ---

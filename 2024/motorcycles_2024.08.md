@@ -1,23 +1,11 @@
 ---
 title: motorcycles 2024.08
-updated: 2024-02-23 14:24:39
+updated: 2024-02-24 18:31:22
 ---
 
 # motorcycles 2024.08
 
-(date: 2024-02-23 14:24:39)
-
----
-
-## 2024 Harley-Davidson CVO Road Glide ST First Ride
-
-date: 2024-02-23, from: Cycle World News
-
-Harley-Davidson’s new CVO Road Glide ST takes lessons learned from the King of the Baggers series and applies them to the most potent bagger it has ever made.
-
-<span class="feed-item-link">
-<a href="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-cvo-road-glide-st-first-ride/">https://www.cycleworld.com/motorcycle-reviews/harley-davidson-cvo-road-glide-st-first-ride/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-cvo-road-glide-st-first-ride/">Save to Pocket</a>
-</span>
+(date: 2024-02-24 18:31:22)
 
 ---
 
@@ -29,6 +17,30 @@ KTM’s aggressive, but still practical 990 Duke builds on the 890 Duke R middle
 
 <span class="feed-item-link">
 <a href="https://www.cycleworld.com/motorcycle-reviews/ktm-990-duke-first-ride-review/">https://www.cycleworld.com/motorcycle-reviews/ktm-990-duke-first-ride-review/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/ktm-990-duke-first-ride-review/">Save to Pocket</a>
+</span>
+
+---
+
+## Here’s What a Harley-Davidson Bagger Looks Like as a Snow Bike
+
+date: 2024-02-23, from: Ride Apart, Electric Motorcycle News
+
+Spoiler alert: it's way better than you think—until the hill climb competition.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709925/harley-davidson-snow-bike/">https://www.rideapart.com/news/709925/harley-davidson-snow-bike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709925/harley-davidson-snow-bike/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Harley-Davidson CVO Road Glide ST First Ride
+
+date: 2024-02-23, from: Cycle World News
+
+Harley-Davidson’s new CVO Road Glide ST takes lessons learned from the King of the Baggers series and applies them to the most potent bagger it has ever made.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-cvo-road-glide-st-first-ride/">https://www.cycleworld.com/motorcycle-reviews/harley-davidson-cvo-road-glide-st-first-ride/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-cvo-road-glide-st-first-ride/">Save to Pocket</a>
 </span>
 
 ---

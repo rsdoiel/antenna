@@ -1,11 +1,23 @@
 ---
 title: mid central 2024.08
-updated: 2024-02-23 14:24:38
+updated: 2024-02-24 18:31:22
 ---
 
 # mid central 2024.08
 
-(date: 2024-02-23 14:24:38)
+(date: 2024-02-24 18:31:22)
+
+---
+
+## Review: ‘Madame Web’ is actually a good movie. Yes, really.
+
+date: 2024-02-23, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+I’m not gonna lie: while I was heading to the theater, I was concerned going into “Madame Web.” The majority of X, formerly known as Twitter, users seemed to be against what they saw as meager storylines and weak writing, characters, and performances, especially compared to other Sony/Marvel superhero movies, so I was hesitant. I...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/review-madame-web-is-actually-a-good-movie-yes-really/">https://fscollegian.com/2024/02/review-madame-web-is-actually-a-good-movie-yes-really/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/review-madame-web-is-actually-a-good-movie-yes-really/">Save to Pocket</a>
+</span>
 
 ---
 

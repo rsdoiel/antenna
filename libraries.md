@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.08
-updated: 2024-02-23 14:24:39
+updated: 2024-02-24 18:31:22
 ---
 
 # libraries 2024.08
 
-(date: 2024-02-23 14:24:39)
+(date: 2024-02-24 18:31:22)
 
 ---
 
@@ -43,6 +43,19 @@ Zhang, Pengju; Trester, Joel; Ueda, Kiyoshi; Han, Meng; Balčiūnas, Tadas; Wör
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/661043">http://hdl.handle.net/20.500.11850/661043</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/661043">Save to Pocket</a>
+</span>
+
+---
+
+## Russia’s Role in the South Caucasus and Central Asia
+
+date: 2024-02-23, from: ETH Zurich, recently added
+
+Safiyev, Rail; Kobilov, Firdavs
+Burkhardt, Fabian; Orttung, Robert; Perović, Jeronim; Pleines, Heiko; Schröder, Hans-Henning
+
+<span class="feed-item-link">
+<a href="http://hdl.handle.net/20.500.11850/661339">http://hdl.handle.net/20.500.11850/661339</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/661339">Save to Pocket</a>
 </span>
 
 ---

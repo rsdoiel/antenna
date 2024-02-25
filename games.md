@@ -1,11 +1,35 @@
 ---
 title: games 2024.08
-updated: 2024-02-23 14:24:39
+updated: 2024-02-24 18:31:22
 ---
 
 # games 2024.08
 
-(date: 2024-02-23 14:24:39)
+(date: 2024-02-24 18:31:22)
+
+---
+
+## Mean Girls, The Zone of Interest, Netflix’s Mea Culpa, and every new movie to watch this weekend
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/2/23/24075729/new-movies-watch-mean-girls-netflix-mea-culpa-the-zone-of-interest">https://www.polygon.com/2024/2/23/24075729/new-movies-watch-mean-girls-netflix-mea-culpa-the-zone-of-interest</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/2/23/24075729/new-movies-watch-mean-girls-netflix-mea-culpa-the-zone-of-interest">Save to Pocket</a>
+</span>
+
+---
+
+## Lorcana’s Into the Inklands is almost here, but you’ll need request an invite to pre-order
+
+date: 2024-02-23, updated: 2024-02-23, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24081535/disney-lorcana-into-the-inklands-pre-order-amazon-queue-shopdisney">https://www.polygon.com/deals/24081535/disney-lorcana-into-the-inklands-pre-order-amazon-queue-shopdisney</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24081535/disney-lorcana-into-the-inklands-pre-order-amazon-queue-shopdisney">Save to Pocket</a>
+</span>
 
 ---
 

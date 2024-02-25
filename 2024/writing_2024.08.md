@@ -1,11 +1,57 @@
 ---
 title: writing 2024.08
-updated: 2024-02-23 14:24:39
+updated: 2024-02-24 18:31:22
 ---
 
 # writing 2024.08
 
-(date: 2024-02-23 14:24:39)
+(date: 2024-02-24 18:31:22)
+
+---
+
+## 2023 Analog AnLab and Asimov’s Readers’ Awards Finalists
+
+date: 2024-02-23, from: Locus Magazine
+
+<p>Finalists for the 2023 Analog Analytical Laboratory (AnLab) Awards, and the 38th Asimov&#8217;s Readers&#8217; Awards, have been announced, with many finalists available to read online.</p>
+<p><strong>Analog Science Fiction and Fact </strong><strong>Analytical Laboratory</strong> <strong>Award Finalists</strong></p>
+<p><strong></strong>
+<strong>BEST NOVELLAS</strong></p>
+<p>&#8220;To Fight the Colossus&#8220;, Adam-Troy Castro (July/August 2023)</p>
+<p>&#8220;The Tinker and the Timestream&#8220;, Carolyn Ives Gilman (March/April 2023)</p>
+<p>&#8220;The Elephant-Maker&#8221;, Alec Nevala-Lee (January/February 2023)</p>
+<p>&#8220;Flying Carpet&#8220;, Rajnar Vajra (November/December 2023)</p>
+<p>&#8220;Poison&#8220;, Jay Werkheiser &#38;  <a href="https://locusmag.com/2024/02/2023-analog-anlab-and-asimovs-readers-awards-finalists/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/2023-analog-anlab-and-asimovs-readers-awards-finalists/">https://locusmag.com/2024/02/2023-analog-anlab-and-asimovs-readers-awards-finalists/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/2023-analog-anlab-and-asimovs-readers-awards-finalists/">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 L.A. Times Book Prize Finalists
+
+date: 2024-02-23, from: Locus Magazine
+
+<p>Finalists have been announced for the 2023 Los Angeles Times Book Prizes. Categories and works of genre interest follow.</p>
+<p><strong>Science Fiction, Fantasy, and Speculative Fiction</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>The Reformatory</strong>, Tananarive Due (Saga)</li>
+<li><strong>Whalefall,</strong> Daniel Kraus (MTV Books)</li>
+<li><strong>Lone Women</strong>, Victor LaValle (One World)</li>
+<li><strong>The Fragile Threads of Power</strong>, V.E. Schwab (Tor)</li>
+<li><strong>Jewel Box: Stories</strong>, E. Lily Yu (Erewhon)</li>
+</ul>
+</div>
+<p><strong>Fiction</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Same Bed Different Dreams</strong>, Ed Park (Random House)</li></ul></div> <a href="https://locusmag.com/2024/02/2023-l-a-times-book-prize-finalists/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/2023-l-a-times-book-prize-finalists/">https://locusmag.com/2024/02/2023-l-a-times-book-prize-finalists/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/2023-l-a-times-book-prize-finalists/">Save to Pocket</a>
+</span>
 
 ---
 
