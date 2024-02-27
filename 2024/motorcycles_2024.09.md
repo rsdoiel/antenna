@@ -1,11 +1,119 @@
 ---
 title: motorcycles 2024.09
-updated: 2024-02-26 07:56:25
+updated: 2024-02-27 09:09:33
 ---
 
 # motorcycles 2024.09
 
-(date: 2024-02-26 07:56:25)
+(date: 2024-02-27 09:09:33)
+
+---
+
+## EVP’s New Can-Am Maverick R ECU Tunes And Exhaust Spit Flames
+
+date: 2024-02-27, from: Ride Apart, Electric Motorcycle News
+
+Who doesn’t love pops and bangs? 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710195/evp-ecu-exhaust-2024-maverick-r/">https://www.rideapart.com/news/710195/evp-ecu-exhaust-2024-maverick-r/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710195/evp-ecu-exhaust-2024-maverick-r/">Save to Pocket</a>
+</span>
+
+---
+
+## Check Out The Honda Monkey King Special Custom Edition From Cub House
+
+date: 2024-02-27, from: Ride Apart, Electric Motorcycle News
+
+Black and gold garb gives this mini-moto a royal flair. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710018/honda-monkey-king-special-custom-edition/">https://www.rideapart.com/news/710018/honda-monkey-king-special-custom-edition/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710018/honda-monkey-king-special-custom-edition/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Harley Street Glide & Road Glide First Ride Review
+
+date: 2024-02-26, from: Cycle World News
+
+Harley-Davidson’s 2024 Road Glide and Street Glide models now feature a 117ci V-twin, updated chassis, and all-new electronics.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/">https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/">Save to Pocket</a>
+</span>
+
+---
+
+## Is Husqvarna Finally Going To Release A Vitpilen And/Or Svartpilen 901?
+
+date: 2024-02-26, from: Ride Apart, Electric Motorcycle News
+
+They've been teasing it for so long, I almost need two hands to count the years.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710191/husqvarna-901-teaser-video-svartpilen/">https://www.rideapart.com/news/710191/husqvarna-901-teaser-video-svartpilen/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710191/husqvarna-901-teaser-video-svartpilen/">Save to Pocket</a>
+</span>
+
+---
+
+## Zero Developing Simulated Clutch
+
+date: 2024-02-26, from: Cycle World News
+
+Zero is looking at a means to give riders more control via a simulated clutch, that could replicate some of the “feel” of an traditional ICE motorcycle.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/zero-motorcycles-developing-simulated-clutch/">https://www.cycleworld.com/motorcycle-news/zero-motorcycles-developing-simulated-clutch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/zero-motorcycles-developing-simulated-clutch/">Save to Pocket</a>
+</span>
+
+---
+
+## Polaris Issues Stop Ride Recall On Some 2022-2024 Snowmobiles
+
+date: 2024-02-26, from: Ride Apart, Electric Motorcycle News
+
+Potential clutch failure is the culprit.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710171/polaris-snowmobile-recall-clutch-issue/">https://www.rideapart.com/news/710171/polaris-snowmobile-recall-clutch-issue/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710171/polaris-snowmobile-recall-clutch-issue/">Save to Pocket</a>
+</span>
+
+---
+
+## Fuel-Mixture Formation
+
+date: 2024-02-26, from: Cycle World News
+
+In order for combustion to occur in a motorcycle engine there must be a fuel mixture. But how to get that mix correct? Kevin Cameron explains.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/blogs/ask-kevin/fuel-mixture-formation-explained/">https://www.cycleworld.com/blogs/ask-kevin/fuel-mixture-formation-explained/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/blogs/ask-kevin/fuel-mixture-formation-explained/">Save to Pocket</a>
+</span>
+
+---
+
+## This Is How You Wheelie A Sandrail On Ice
+
+date: 2024-02-26, from: Ride Apart, Electric Motorcycle News
+
+Tire studs are the key… plus clutch kicks and spare parts. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709994/wheelie-sandrail-on-ice/">https://www.rideapart.com/news/709994/wheelie-sandrail-on-ice/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709994/wheelie-sandrail-on-ice/">Save to Pocket</a>
+</span>
+
+---
+
+## How To Watch Daytona 200 and MotoAmerica 2024
+
+date: 2024-02-26, from: Cycle World News
+
+Roadracing is ready to kick off for 2024, beginning with the 82nd Daytona 200, followed by the MotoAmerica Superbike season starting at Road Atlanta in April.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/how-to-watch-daytona-200-and-motoamerica/">https://www.cycleworld.com/motorcycle-news/how-to-watch-daytona-200-and-motoamerica/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/how-to-watch-daytona-200-and-motoamerica/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -41,18 +149,6 @@ It has the right intentions, but the wrong execution.
 
 <span class="feed-item-link">
 <a href="https://www.rideapart.com/news/709041/new-york-atv-child-legislation-laws/">https://www.rideapart.com/news/709041/new-york-atv-child-legislation-laws/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709041/new-york-atv-child-legislation-laws/">Save to Pocket</a>
-</span>
-
----
-
-## 2024 Harley Street Glide & Road Glide First Ride Review
-
-date: 2024-02-26, from: Cycle World News
-
-Harley-Davidson’s 2024 Road Glide and Street Glide models now feature a 117ci V-twin, updated chassis, and all-new electronics.
-
-<span class="feed-item-link">
-<a href="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/">https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/">Save to Pocket</a>
 </span>
 
 ---

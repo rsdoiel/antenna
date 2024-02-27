@@ -1,11 +1,62 @@
 ---
 title: columns 2024.09
-updated: 2024-02-26 07:56:25
+updated: 2024-02-27 09:09:32
 ---
 
 # columns 2024.09
 
-(date: 2024-02-26 07:56:25)
+(date: 2024-02-27 09:09:32)
+
+---
+
+## China Surveillance Company Hacked
+
+date: 2024-02-27, updated: 2024-02-26, from: Bruce Schneier blog
+
+<p>Last week, someone posted something like 570 files, images and chat logs from a Chinese company called I-Soon. I-Soon sells hacking and espionage services to Chinese national and local government.</p>
+<p>Lots of <a href="https://www.washingtonpost.com/world/2024/02/21/china-hacking-leak-documents-isoon/">details</a> <a href="https://www.nytimes.com/2024/02/22/business/china-hack-leak-isoon.html">in</a> <a href="https://www.theguardian.com/technology/2024/feb/23/huge-cybersecurity-leak-lifts-lid-on-world-of-chinas-hackers-for-hire">the</a> <a href="https://www.nytimes.com/2024/02/22/business/china-leaked-files.html">news</a> <a href="https://apnews.com/article/china-cybersecurity-leak-document-dump-spying-aac38c75f268b72910a94881ccbb77cb">articles</a>.</p>
+<p>These aren&#8217;t details about the tools or techniques, more the inner workings of the company. And they seem to primarily be hacking regionally.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/china-surveillance-company-hacked.html">https://www.schneier.com/blog/archives/2024/02/china-surveillance-company-hacked.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/china-surveillance-company-hacked.html">Save to Pocket</a>
+</span>
+
+---
+
+## Jeff Bezos and Elon Musk vs. American workers
+
+date: 2024-02-27, from: Robert Reich's blog
+
+The biggest robber barons of this Second Gilded Age are trying to end the freedom of workers to unionize
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/jeff-bezos-and-elon-musk-vs-american">https://robertreich.substack.com/p/jeff-bezos-and-elon-musk-vs-american</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/jeff-bezos-and-elon-musk-vs-american">Save to Pocket</a>
+</span>
+
+---
+
+## Today in the Supreme Court: What’s the real answer to the problem of policing Giant Tech’s content?
+
+date: 2024-02-27, from: Robert Reich's blog
+
+Today's argument before the Supreme Court
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/whats-the-real-answer-to-the-problem">https://robertreich.substack.com/p/whats-the-real-answer-to-the-problem</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/whats-the-real-answer-to-the-problem">Save to Pocket</a>
+</span>
+
+---
+
+## Thank You – a New Milestone
+
+date: 2024-02-26, from: Dan Rather's Steady
+
+The Steady community
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/thank-you-a-new-milestone">https://steady.substack.com/p/thank-you-a-new-milestone</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/thank-you-a-new-milestone">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,131 @@
 ---
 title: games 2024.09
-updated: 2024-02-26 07:56:25
+updated: 2024-02-27 09:09:33
 ---
 
 # games 2024.09
 
-(date: 2024-02-26 07:56:25)
+(date: 2024-02-27 09:09:33)
+
+---
+
+## Willem DaFoe’s video tour of his Poor Things house is full of wild details
+
+date: 2024-02-27, updated: 2024-02-27, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24083883/willem-dafoe-poor-things-video-tour-set-design">https://www.polygon.com/24083883/willem-dafoe-poor-things-video-tour-set-design</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24083883/willem-dafoe-poor-things-video-tour-set-design">Save to Pocket</a>
+</span>
+
+---
+
+## Our Brilliant Ruin explores the sickly crust of aristocracy left clinging to the edge of the world
+
+date: 2024-02-27, updated: 2024-02-27, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/tabletop-games/24081025/our-brilliant-ruin-ttrpg-kickstarter-campaign">https://www.polygon.com/tabletop-games/24081025/our-brilliant-ruin-ttrpg-kickstarter-campaign</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/tabletop-games/24081025/our-brilliant-ruin-ttrpg-kickstarter-campaign">Save to Pocket</a>
+</span>
+
+---
+
+## The best movies of 2024 so far
+
+date: 2024-02-27, updated: 2024-02-27, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/what-to-watch/24064917/best-movies-2024">https://www.polygon.com/what-to-watch/24064917/best-movies-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/what-to-watch/24064917/best-movies-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Lofi Girl and Synthwave Boy just got new streams
+
+date: 2024-02-27, updated: 2024-02-27, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24083817/lofi-girl-and-synthwave-boy-just-got-new-streams">https://www.polygon.com/24083817/lofi-girl-and-synthwave-boy-just-got-new-streams</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24083817/lofi-girl-and-synthwave-boy-just-got-new-streams">Save to Pocket</a>
+</span>
+
+---
+
+## Pokémon is getting a whole new way to collect cards virtually
+
+date: 2024-02-27, updated: 2024-02-27, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/pokemon/24084532/pokemon-pocket-tcg-trading-card-game-virtual">https://www.polygon.com/pokemon/24084532/pokemon-pocket-tcg-trading-card-game-virtual</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/pokemon/24084532/pokemon-pocket-tcg-trading-card-game-virtual">Save to Pocket</a>
+</span>
+
+---
+
+## A new Pokémon Legends game is coming to Switch in 2025
+
+date: 2024-02-27, updated: 2024-02-27, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24084157/pokemon-z-a-legends-2025-trailer-nintendo-switch">https://www.polygon.com/24084157/pokemon-z-a-legends-2025-trailer-nintendo-switch</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24084157/pokemon-z-a-legends-2025-trailer-nintendo-switch">Save to Pocket</a>
+</span>
+
+---
+
+## Everything announced during Pokémon Day 2024’s Pokémon Presents
+
+date: 2024-02-27, updated: 2024-02-27, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/pokemon/24083839/everything-announced-pokemon-day-2024-pokemon-presents">https://www.polygon.com/pokemon/24083839/everything-announced-pokemon-day-2024-pokemon-presents</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/pokemon/24083839/everything-announced-pokemon-day-2024-pokemon-presents">Save to Pocket</a>
+</span>
+
+---
+
+## PlayStation laying off 900 people, closing London Studio entirely
+
+date: 2024-02-27, updated: 2024-02-27, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24084509/playstation-layoff-900-workers-feb-2024">https://www.polygon.com/24084509/playstation-layoff-900-workers-feb-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24084509/playstation-layoff-900-workers-feb-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Fortnite just got two new Lego games and you can play them right now
+
+date: 2024-02-27, updated: 2024-02-27, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/fortnite/24083941/fortnite-lego-two-new-games-obby-fun-raft-survival-roblox-minecraft">https://www.polygon.com/fortnite/24083941/fortnite-lego-two-new-games-obby-fun-raft-survival-roblox-minecraft</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/fortnite/24083941/fortnite-lego-two-new-games-obby-fun-raft-survival-roblox-minecraft">Save to Pocket</a>
+</span>
+
+---
+
+## Pour one out for the filler episode
+
+date: 2024-02-27, updated: 2024-02-27, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24079131/netflix-avatar-last-airbender-filler-episode-tv-shows">https://www.polygon.com/24079131/netflix-avatar-last-airbender-filler-episode-tv-shows</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24079131/netflix-avatar-last-airbender-filler-episode-tv-shows">Save to Pocket</a>
+</span>
 
 ---
 

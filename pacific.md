@@ -1,11 +1,826 @@
 ---
 title: pacific 2024.09
-updated: 2024-02-26 07:56:24
+updated: 2024-02-27 09:09:32
 ---
 
 # pacific 2024.09
 
-(date: 2024-02-26 07:56:24)
+(date: 2024-02-27 09:09:32)
+
+---
+
+## Historic gathering of region’s college trustees
+
+date: 2024-02-27, updated: 2024-02-27, from: Marianas Variety
+
+(NMC) — Community college boards throughout Micronesia will gather at Crowne Plaza's Hibiscus Hall today, Wednesday, Feb 28, 2024, at 4 p.m. for an in-person meeting to strengthen and formalize collaborative engagement and cooperative efforts among regional colleges.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/community_bulletins/historic-gathering-of-region-s-college-trustees/article_1eb018fc-d583-11ee-97de-ab6fcb680624.html">https://www.mvariety.com/news/community_bulletins/historic-gathering-of-region-s-college-trustees/article_1eb018fc-d583-11ee-97de-ab6fcb680624.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/community_bulletins/historic-gathering-of-region-s-college-trustees/article_1eb018fc-d583-11ee-97de-ab6fcb680624.html">Save to Pocket</a>
+</span>
+
+---
+
+## Amid controversy, Knicks edge Pistons on late layup
+
+date: 2024-02-27, updated: 2024-02-27, from: Marianas Variety
+
+(Reuters) — Josh Hart scored the go-ahead layup with 2.8 seconds remaining and the host New York Knicks pulled out a controversial 113-111 victory over the Detroit Pistons on Monday night.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/amid-controversy-knicks-edge-pistons-on-late-layup/article_2e75ab66-d57a-11ee-b8f6-23086e313b56.html">https://www.mvariety.com/sports/nationalsports/amid-controversy-knicks-edge-pistons-on-late-layup/article_2e75ab66-d57a-11ee-b8f6-23086e313b56.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/amid-controversy-knicks-edge-pistons-on-late-layup/article_2e75ab66-d57a-11ee-b8f6-23086e313b56.html">Save to Pocket</a>
+</span>
+
+---
+
+## High court denies convicted rapist’s request to be released pending appeal
+
+date: 2024-02-27, updated: 2024-02-27, from: Marianas Variety
+
+THE CNMI Supreme Court on Monday denied Kenneth Thomas Blas Kaipat’s request to be released while his appeal is pending.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/high-court-denies-convicted-rapist-s-request-to-be-released-pending-appeal/article_b1a996fc-d53c-11ee-9ec5-c78f72eb71eb.html">https://www.mvariety.com/news/local/high-court-denies-convicted-rapist-s-request-to-be-released-pending-appeal/article_b1a996fc-d53c-11ee-9ec5-c78f72eb71eb.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/high-court-denies-convicted-rapist-s-request-to-be-released-pending-appeal/article_b1a996fc-d53c-11ee-9ec5-c78f72eb71eb.html">Save to Pocket</a>
+</span>
+
+---
+
+## IPI director, counsel to appear in revocation hearing today
+
+date: 2024-02-27, updated: 2024-02-27, from: Marianas Variety
+
+IMPERIAL Pacific International Director How Yo Chi said he and legal counsel Michael Chen will appear at 10 a.m. today, Feb. 28, 2024, before the Commonwealth Casino Commission, which will conduct a revocation hearing on IPI’s exclusive casino license.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/ipi-director-counsel-to-appear-in-revocation-hearing-today/article_7a556cb8-d545-11ee-9d01-0f5779ec8cd4.html">https://www.mvariety.com/news/local/ipi-director-counsel-to-appear-in-revocation-hearing-today/article_7a556cb8-d545-11ee-9d01-0f5779ec8cd4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/ipi-director-counsel-to-appear-in-revocation-hearing-today/article_7a556cb8-d545-11ee-9d01-0f5779ec8cd4.html">Save to Pocket</a>
+</span>
+
+---
+
+## OPA proposes $1.7M budget for FY 2025
+
+date: 2024-02-27, updated: 2024-02-27, from: Marianas Variety
+
+THE Office of the Public Auditor is proposing a fiscal year 2025 budget slightly lower than its current spending level.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/opa-proposes-1-7m-budget-for-fy-2025/article_278a83d6-d542-11ee-b9c4-a3dd5bf0451c.html">https://www.mvariety.com/news/local/opa-proposes-1-7m-budget-for-fy-2025/article_278a83d6-d542-11ee-b9c4-a3dd5bf0451c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/opa-proposes-1-7m-budget-for-fy-2025/article_278a83d6-d542-11ee-b9c4-a3dd5bf0451c.html">Save to Pocket</a>
+</span>
+
+---
+
+## UPDATED: Federal court denies IPI's emergency TRO motion
+
+date: 2024-02-27, updated: 2024-02-27, from: Marianas Variety
+
+DESIGNATED Federal Judge David O. Carter on Tuesday denied Imperial Pacific International’s emergency motion for a temporary restraining order.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/updated-federal-court-denies-ipis-emergency-tro-motion/article_90d6f3d0-d536-11ee-9a37-2fdf0edba979.html">https://www.mvariety.com/news/local/updated-federal-court-denies-ipis-emergency-tro-motion/article_90d6f3d0-d536-11ee-9a37-2fdf0edba979.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/updated-federal-court-denies-ipis-emergency-tro-motion/article_90d6f3d0-d536-11ee-9a37-2fdf0edba979.html">Save to Pocket</a>
+</span>
+
+---
+
+## NMHC graduates four from Family Self-Sufficiency Program
+
+date: 2024-02-27, updated: 2024-02-27, from: Marianas Variety
+
+(Northern Marianas Housing Corporation) — On Feb. 22, 2024, NMHC’s Board of Directors, management, and staff, presented four graduates, Louisa L. Taga, Narcely Martin, Marline Anson, and  Rose Marie A. Borja, Certificates of Completion under the NMHC’s Family Self-Sufficiency or FSS Program.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/nmhc-graduates-four-from-family-self-sufficiency-program/article_a1ae72ae-d578-11ee-b7cb-0bd90b738d33.html">https://www.mvariety.com/news/local/nmhc-graduates-four-from-family-self-sufficiency-program/article_a1ae72ae-d578-11ee-b7cb-0bd90b738d33.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/nmhc-graduates-four-from-family-self-sufficiency-program/article_a1ae72ae-d578-11ee-b7cb-0bd90b738d33.html">Save to Pocket</a>
+</span>
+
+---
+
+## OPA: Deadline approaching for financial disclosure filing
+
+date: 2024-02-27, updated: 2024-02-27, from: Marianas Variety
+
+(Office of the Public Auditor) — This is to remind all Commonwealth public officials and/or employees who are required to file a statement of financial interest for calendar year 2023 under the Government Ethics Code Act of 1992 (1 CMC §8501, et seq.) that the deadline for filing a notarized statement of financial interests is Wednesday, May 1, 2024. Any person failing to comply with the financial disclosure requirements is subject to penalties as set forth in 1 CMC §8517 through §8522 and 1 CMC §8571 through §8576, including a $10 per day penalty for periods of delinquency.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/opa-deadline-approaching-for-financial-disclosure-filing/article_07947a14-d579-11ee-afe6-c3ff96788cd2.html">https://www.mvariety.com/news/local/opa-deadline-approaching-for-financial-disclosure-filing/article_07947a14-d579-11ee-afe6-c3ff96788cd2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/opa-deadline-approaching-for-financial-disclosure-filing/article_07947a14-d579-11ee-afe6-c3ff96788cd2.html">Save to Pocket</a>
+</span>
+
+---
+
+## Despite suspensions, Heat hold off Kings
+
+date: 2024-02-27, updated: 2024-02-27, from: Marianas Variety
+
+(Reuters) — Bam Adebayo won a head-to-head duel with Domantas Sabonis, the depleted Miami bench got a combined 34 points from Kevin Love and Haywood Highsmith, and the undermanned Heat held off the host Sacramento Kings 121-110 on Monday night.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/despite-suspensions-heat-hold-off-kings/article_cb350ba0-d579-11ee-82df-1bd272801c51.html">https://www.mvariety.com/sports/nationalsports/despite-suspensions-heat-hold-off-kings/article_cb350ba0-d579-11ee-82df-1bd272801c51.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/despite-suspensions-heat-hold-off-kings/article_cb350ba0-d579-11ee-82df-1bd272801c51.html">Save to Pocket</a>
+</span>
+
+---
+
+## US falls to Mexico for the second time ever, losing 2-0 in the Women’s Gold Cup
+
+date: 2024-02-27, updated: 2024-02-27, from: Marianas Variety
+
+CARSON, Calif. (AP) — Mexico beat the United States for the second time ever, getting goals from Lizbeth Ovalle and Mayra Pelayo for a 2-0 victory Monday night in the CONCACAF Women’s Gold Cup.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/us-falls-to-mexico-for-the-second-time-ever-losing-2-0-in-the-women/article_4c8fa9ca-d57b-11ee-825c-f31017331bc0.html">https://www.mvariety.com/sports/nationalsports/us-falls-to-mexico-for-the-second-time-ever-losing-2-0-in-the-women/article_4c8fa9ca-d57b-11ee-825c-f31017331bc0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/us-falls-to-mexico-for-the-second-time-ever-losing-2-0-in-the-women/article_4c8fa9ca-d57b-11ee-825c-f31017331bc0.html">Save to Pocket</a>
+</span>
+
+---
+
+## VA accelerates PACT Act enrollment; Guam delegate seeks extension of cutoff date for eligibility 
+
+date: 2024-02-27, from: Pacific Island Times
+
+By Pacific Island Times News Staff All veterans who served in the battle zone as well as those who participated in operations that...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/va-accelerates-pact-act-enrollment-guam-delegate-seeks-extension-of-cutoff-date-for-eligibility">https://www.pacificislandtimes.com/post/va-accelerates-pact-act-enrollment-guam-delegate-seeks-extension-of-cutoff-date-for-eligibility</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/va-accelerates-pact-act-enrollment-guam-delegate-seeks-extension-of-cutoff-date-for-eligibility">Save to Pocket</a>
+</span>
+
+---
+
+## Guam professor leads documentary project on Chuuk Lagoon's wartime past 
+
+date: 2024-02-27, from: Pacific Island Times
+
+By Pacific Island Times News Staff The remnants of World War II echo deep throughout the Pacific, and that's no truer than in Chuuk...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/guam-professor-leads-documentary-project-on-chuuk-lagoon-s-wartime-past">https://www.pacificislandtimes.com/post/guam-professor-leads-documentary-project-on-chuuk-lagoon-s-wartime-past</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/guam-professor-leads-documentary-project-on-chuuk-lagoon-s-wartime-past">Save to Pocket</a>
+</span>
+
+---
+
+## Former President Remengesau Announces Candidacy, Vows to Lead “Caring Government”
+
+date: 2024-02-27, from: Island Times
+
+<figure><img width="577" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?fit=577%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?w=1442&amp;ssl=1 1442w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?resize=169%2C300&amp;ssl=1 169w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?resize=577%2C1024&amp;ssl=1 577w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?resize=768%2C1364&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?resize=865%2C1536&amp;ssl=1 865w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?resize=1153%2C2048&amp;ssl=1 1153w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?resize=1200%2C2131&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?resize=1568%2C2784&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?resize=400%2C710&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?resize=706%2C1254&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?fit=577%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68965" data-permalink="https://islandtimes.org/former-president-remengesau-announces-candidacy-vows-to-lead-caring-government/20240224_202820/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?fit=1442%2C2560&amp;ssl=1" data-orig-size="1442,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1708806501&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.23&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.041666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240224_202820" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?fit=169%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/20240224_202820-scaled.jpg?fit=577%2C1024&amp;ssl=1" /></figure>
+<p>KOROR, Palau— Former Palau president Tommy Remengesau Jr. announced his candidacy for president on Feb. 24, outlining his vision for a &#8220;caring government&#8221; that prioritizes the needs of the people. Remengesau, who served four terms as president, said he was motivated to run again by a petition signed by citizens urging him to return to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/former-president-remengesau-announces-candidacy-vows-to-lead-caring-government/">Former President Remengesau Announces Candidacy, Vows to Lead &#8220;Caring Government&#8221;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/former-president-remengesau-announces-candidacy-vows-to-lead-caring-government/">https://islandtimes.org/former-president-remengesau-announces-candidacy-vows-to-lead-caring-government/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/former-president-remengesau-announces-candidacy-vows-to-lead-caring-government/">Save to Pocket</a>
+</span>
+
+---
+
+## Palauan Senate President Denies Chinese Influence on Missile Resolution
+
+date: 2024-02-27, from: Island Times
+
+<p>KOROR, Palau — Palau&#8217;s Senate President Hokkons Baules and President Surangel Whipps Jr. are at odds over a proposed Senate Joint Resolution prohibiting permanent stations for missile batteries in Palau, with accusations of foreign influence and differing interpretations of public sentiment fueling the debate. President Whipps, in the February 9th letter to U.S. Senators, expressed [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauan-senate-president-denies-chinese-influence-on-missile-resolution/">Palauan Senate President Denies Chinese Influence on Missile Resolution</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palauan-senate-president-denies-chinese-influence-on-missile-resolution/">https://islandtimes.org/palauan-senate-president-denies-chinese-influence-on-missile-resolution/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palauan-senate-president-denies-chinese-influence-on-missile-resolution/">Save to Pocket</a>
+</span>
+
+---
+
+## PPUC Seeks Changes to Employee Contracts, Benefits
+
+date: 2024-02-27, from: Island Times
+
+<p>KOROR, Palau &#8211; The Palau Public Utilities Corporation (PPUC) seeks legislative changes to address employee contracts, benefits, and financial operations. The proposed amendments, submitted to the national legislature, the Olbiil Era Kelulau (OEK), aim to improve employee retention, enhance healthcare options, and ensure financial stability for the corporation. A central request is removing the two-year [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ppuc-seeks-changes-to-employee-contracts-benefits/">PPUC Seeks Changes to Employee Contracts, Benefits</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/ppuc-seeks-changes-to-employee-contracts-benefits/">https://islandtimes.org/ppuc-seeks-changes-to-employee-contracts-benefits/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/ppuc-seeks-changes-to-employee-contracts-benefits/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Judiciary Requests $1.26 Million Supplemental Budget
+
+date: 2024-02-27, from: Island Times
+
+<p>KOROR, Palau &#8211; The Palau Judiciary submitted a supplemental budget request of $1,260,000 for the current fiscal year (FY) 2024. According to a letter from the Judiciary, the request includes previously submitted items from the FY 2023 Supplemental that were not funded. The largest portion of the request, $650,000, is for a new Case Management [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-judiciary-requests-1-26-million-supplemental-budget/">Palau Judiciary Requests $1.26 Million Supplemental Budget</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-judiciary-requests-1-26-million-supplemental-budget/">https://islandtimes.org/palau-judiciary-requests-1-26-million-supplemental-budget/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-judiciary-requests-1-26-million-supplemental-budget/">Save to Pocket</a>
+</span>
+
+---
+
+## AUSTRALIA AWARDS ALUMNI
+
+date: 2024-02-27, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?w=1500&amp;ssl=1 1500w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68957" data-permalink="https://islandtimes.org/australia-awards-alumni/img_8921/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?fit=1500%2C1125&amp;ssl=1" data-orig-size="1500,1125" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 11&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1701810615&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;2.71&quot;,&quot;iso&quot;:&quot;1000&quot;,&quot;shutter_speed&quot;:&quot;0.058823529411765&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_8921" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/IMG_8921.jpeg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>Australia Awards are prestigious scholarships offered by the Australian Government to the next generation of global leaders. The study and research opportunities provided by Australia Awards scholarships develop the skills and knowledge of individuals to drive change and contribute to the development in their own countries. Palauans have benefited from the Australia Awards scholarship scheme [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australia-awards-alumni/">AUSTRALIA AWARDS ALUMNI</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/australia-awards-alumni/">https://islandtimes.org/australia-awards-alumni/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/australia-awards-alumni/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau coral reefs show varied recovery after typhoons, study finds
+
+date: 2024-02-27, from: Island Times
+
+<figure><img width="1024" height="398" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/profile.jpg?fit=1024%2C398&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/profile.jpg?w=1185&amp;ssl=1 1185w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/profile.jpg?resize=300%2C116&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/profile.jpg?resize=1024%2C398&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/profile.jpg?resize=768%2C298&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/profile.jpg?resize=400%2C155&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/profile.jpg?resize=706%2C274&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/profile.jpg?fit=1024%2C398&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68954" data-permalink="https://islandtimes.org/palau-coral-reefs-show-varied-recovery-after-typhoons-study-finds/profile/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/profile.jpg?fit=1185%2C460&amp;ssl=1" data-orig-size="1185,460" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="profile" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/profile.jpg?fit=300%2C116&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/profile.jpg?fit=780%2C303&amp;ssl=1" /></figure>
+<p>KOROR, Palau — A new study by researchers at the Palau International Coral Reef Center (PICRC) and Newcastle University reveals differing recovery rates for coral populations on Palauan reefs following typhoons Bopha and Haiyan in 2012 and 2013. The research, published in the journal Coral Reefs, examined the recovery of three common branching coral genera [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-coral-reefs-show-varied-recovery-after-typhoons-study-finds/">Palau coral reefs show varied recovery after typhoons, study finds</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-coral-reefs-show-varied-recovery-after-typhoons-study-finds/">https://islandtimes.org/palau-coral-reefs-show-varied-recovery-after-typhoons-study-finds/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-coral-reefs-show-varied-recovery-after-typhoons-study-finds/">Save to Pocket</a>
+</span>
+
+---
+
+## Regional tuna expert sounds caution in developing seabed mining
+
+date: 2024-02-27, from: Island Times
+
+<p>By Richard Naidu&#160; SUVA, 26 FEBRUARY 2024 (ISLANDS BUSINESS)&#8212;Leading Pacific tuna industry expert, Dr Transform Aqorau, has drawn from the region’s experiences with its massive tuna fisheries industry to sound caution in the development of the “next frontier” of deep seabed mining. Speaking at the Fiji National University in Suva last week, Dr Aqorau said [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/regional-tuna-expert-sounds-caution-in-developing-seabed-mining/">Regional tuna expert sounds caution in developing seabed mining</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/regional-tuna-expert-sounds-caution-in-developing-seabed-mining/">https://islandtimes.org/regional-tuna-expert-sounds-caution-in-developing-seabed-mining/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/regional-tuna-expert-sounds-caution-in-developing-seabed-mining/">Save to Pocket</a>
+</span>
+
+---
+
+## Connecting Taiwan and Palau, Airai State Historical Stone Path Reveals Tourism collaboration of Island States
+
+date: 2024-02-27, from: Island Times
+
+<figure><img width="405" height="304" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/1.jpg?fit=405%2C304&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/1.jpg?w=405&amp;ssl=1 405w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/1.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/1.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/1.jpg?fit=405%2C304&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68942" data-permalink="https://islandtimes.org/connecting-taiwan-and-palau-airai-state-historical-stone-path-reveals-tourism-collaboration-of-island-states/1-54/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/1.jpg?fit=405%2C304&amp;ssl=1" data-orig-size="405,304" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/1.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/1.jpg?fit=405%2C304&amp;ssl=1" /></figure>
+<p>Ambassador Lee of ROC (Taiwan) Embassy was invited by Minister Ngirai Tmetuchl of MHRCTD and Chief Dr. Victor Yano to visit one of the six states’ tourism improvement and promotion projects funded under Taiwan’s Post-COVID Tourism Promotion grants. Witnessing the progress achieved through the funding, she expressed enthusiasm for reviving tourism activities to pre-pandemic levels. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/connecting-taiwan-and-palau-airai-state-historical-stone-path-reveals-tourism-collaboration-of-island-states/">Connecting Taiwan and Palau, Airai State Historical Stone Path Reveals Tourism collaboration of Island States</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/connecting-taiwan-and-palau-airai-state-historical-stone-path-reveals-tourism-collaboration-of-island-states/">https://islandtimes.org/connecting-taiwan-and-palau-airai-state-historical-stone-path-reveals-tourism-collaboration-of-island-states/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/connecting-taiwan-and-palau-airai-state-historical-stone-path-reveals-tourism-collaboration-of-island-states/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Conservation Society Charts Course for the Future: 30th Anniversary Celebration Marks New Chapter in Community-Led Conservation
+
+date: 2024-02-27, from: Island Times
+
+<figure><img width="800" height="591" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PCS-Retreat-photo.jpg?fit=800%2C591&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PCS-Retreat-photo.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PCS-Retreat-photo.jpg?resize=300%2C222&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PCS-Retreat-photo.jpg?resize=768%2C567&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PCS-Retreat-photo.jpg?resize=400%2C296&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PCS-Retreat-photo.jpg?resize=706%2C522&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PCS-Retreat-photo.jpg?fit=800%2C591&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68940" data-permalink="https://islandtimes.org/palau-conservation-society-charts-course-for-the-future-30th-anniversary-celebration-marks-new-chapter-in-community-led-conservation/pcs-retreat-photo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PCS-Retreat-photo.jpg?fit=800%2C591&amp;ssl=1" data-orig-size="800,591" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="PCS Retreat photo" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PCS-Retreat-photo.jpg?fit=300%2C222&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/PCS-Retreat-photo.jpg?fit=780%2C576&amp;ssl=1" /></figure>
+<p>Koror, Palau – February 21, 2024 – In an annual retreat held on February 19th, the Palau Conservation Society (PCS) took a bold step towards its future, marking the launch of a year-long celebration culminating in its 30th anniversary in June. The retreat served as a platform for self-reflection, strategic review, and the development of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-conservation-society-charts-course-for-the-future-30th-anniversary-celebration-marks-new-chapter-in-community-led-conservation/">Palau Conservation Society Charts Course for the Future: 30th Anniversary Celebration Marks New Chapter in Community-Led Conservation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-conservation-society-charts-course-for-the-future-30th-anniversary-celebration-marks-new-chapter-in-community-led-conservation/">https://islandtimes.org/palau-conservation-society-charts-course-for-the-future-30th-anniversary-celebration-marks-new-chapter-in-community-led-conservation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-conservation-society-charts-course-for-the-future-30th-anniversary-celebration-marks-new-chapter-in-community-led-conservation/">Save to Pocket</a>
+</span>
+
+---
+
+## The Walk
+
+date: 2024-02-27, from: Island Times
+
+<figure><img width="900" height="900" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?fit=900%2C900&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?fit=900%2C900&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68938" data-permalink="https://islandtimes.org/the-walk-2/unnamed-17/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?fit=900%2C900&amp;ssl=1" data-orig-size="900,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="unnamed" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/unnamed-2.jpg?fit=780%2C780&amp;ssl=1" /></figure>
+<p>Someone said, &#8220;I&#8217;m not asking you to walk in my shoes; I&#8217;d never wish my afflictions on anyone. But could you walk beside me on secure ground and reach to hold my hand? They have not walked in your shoes; don&#8217;t put much stock in their opinions.&#8221; Life is a series of decisions. The decision [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-walk-2/">The Walk</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/the-walk-2/">https://islandtimes.org/the-walk-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/the-walk-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Culture, democracy and clout: why three Pacific countries are sticking with Taiwan
+
+date: 2024-02-27, from: Island Times
+
+<figure><img width="880" height="920" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/opinion-icon2.png?fit=880%2C920&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/opinion-icon2.png?w=880&amp;ssl=1 880w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/opinion-icon2.png?resize=287%2C300&amp;ssl=1 287w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/opinion-icon2.png?resize=768%2C803&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/opinion-icon2.png?resize=400%2C418&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/opinion-icon2.png?resize=706%2C738&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/opinion-icon2.png?fit=880%2C920&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68936" data-permalink="https://islandtimes.org/culture-democracy-and-clout-why-three-pacific-countries-are-sticking-with-taiwan/opinion-icon2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/opinion-icon2.png?fit=880%2C920&amp;ssl=1" data-orig-size="880,920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="opinion-icon2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/opinion-icon2.png?fit=287%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/opinion-icon2.png?fit=780%2C815&amp;ssl=1" /></figure>
+<p>By Prianka Srinivasan TAIPEI, 26 FEBRUARY 2024 (THE GUARDIAN) &#8212; As a king tide swept through Tuvalu this month, flooding homes and disrupting local sea routes, changes in political currents were also buffeting the country. The wild weather delayed a key meeting between newly elected members of parliament to determine the successor to Tuvalu’s prime [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/culture-democracy-and-clout-why-three-pacific-countries-are-sticking-with-taiwan/">Culture, democracy and clout: why three Pacific countries are sticking with Taiwan</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/culture-democracy-and-clout-why-three-pacific-countries-are-sticking-with-taiwan/">https://islandtimes.org/culture-democracy-and-clout-why-three-pacific-countries-are-sticking-with-taiwan/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/culture-democracy-and-clout-why-three-pacific-countries-are-sticking-with-taiwan/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Already late’: Pentagon sounds alarm on funding Pacific island pact
+
+date: 2024-02-27, from: Island Times
+
+<p>WASHINGTON, 26 FEBRUARY 2024 (DEFENCE NEWS) &#8212; U.S defence officials are concerned the military may lose access to crucial staging ground in the Pacific region — and potentially cede it to China — because of a lapse in funding held up in Congress. At risk are a set of agreements dubbed Compacts of Free Association, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/already-late-pentagon-sounds-alarm-on-funding-pacific-island-pact/">‘Already late’: Pentagon sounds alarm on funding Pacific island pact</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/already-late-pentagon-sounds-alarm-on-funding-pacific-island-pact/">https://islandtimes.org/already-late-pentagon-sounds-alarm-on-funding-pacific-island-pact/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/already-late-pentagon-sounds-alarm-on-funding-pacific-island-pact/">Save to Pocket</a>
+</span>
+
+---
+
+## Chuuk fulfills $1 million contribution to Pacific Islands Development Bank
+
+date: 2024-02-27, from: Island Times
+
+<p>HAGÅTÑA, 26 FEBRUARY 2024 (THE GUAM DAILY POST) &#8212; Chuuk state has fulfilled a long-standing agreement by contributing US$1 million in subscribed capital shares to the Pacific Islands Development Bank.&#160; A handover ceremony took place on Guam Friday. “This was an agreement made by all shareholder members of the bank when the bank was established [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/chuuk-fulfills-1-million-contribution-to-pacific-islands-development-bank/">Chuuk fulfills $1 million contribution to Pacific Islands Development Bank</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/chuuk-fulfills-1-million-contribution-to-pacific-islands-development-bank/">https://islandtimes.org/chuuk-fulfills-1-million-contribution-to-pacific-islands-development-bank/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/chuuk-fulfills-1-million-contribution-to-pacific-islands-development-bank/">Save to Pocket</a>
+</span>
+
+---
+
+## Marshall Islands Auditors investigate fraud complaints
+
+date: 2024-02-27, from: Island Times
+
+<p>MAJURO, 26 FEBRUARY 2024 (MARSHALL ISLANDS JOURNAL) &#8212; December period last year, people reported eight new instances of corrupt practices involving Marshall Islands public officials and government workers. “We continue to review all known allegations of fraud reported to us, including those we come across in our audit engagements,” RMI Auditor General Junior Patrick reported [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/marshall-islands-auditors-investigate-fraud-complaints/">Marshall Islands Auditors investigate fraud complaints</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/marshall-islands-auditors-investigate-fraud-complaints/">https://islandtimes.org/marshall-islands-auditors-investigate-fraud-complaints/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/marshall-islands-auditors-investigate-fraud-complaints/">Save to Pocket</a>
+</span>
+
+---
+
+## Feleti Teo is named Tuvalu’s new prime minister after elections that ousted Taiwan supporter
+
+date: 2024-02-27, from: Island Times
+
+<figure><img width="1024" height="533" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Feleti-Teo.jpg?fit=1024%2C533&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Feleti-Teo.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Feleti-Teo.jpg?resize=300%2C156&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Feleti-Teo.jpg?resize=768%2C400&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Feleti-Teo.jpg?resize=400%2C208&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Feleti-Teo.jpg?resize=706%2C367&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Feleti-Teo.jpg?fit=1024%2C533&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68926" data-permalink="https://islandtimes.org/feleti-teo-is-named-tuvalus-new-prime-minister-after-elections-that-ousted-taiwan-supporter/feleti-teo/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Feleti-Teo.jpg?fit=1024%2C533&amp;ssl=1" data-orig-size="1024,533" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Alastair Grant&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;FILE - Funafuti, the main island of the nation state of Tuvalu, is photographed on Oct. 13, 2011, from a Royal New Zealand Air Force C130 aircraft as it approaches the tiny South Pacific nation. Tuvalu lawmakers chose Feleti Teo as the tiny South Pacific island nation&#039;s prime minister Monday, Feb. 26, 2024, after elections a month ago ousted the last government leader. (AP Photo\/Alastair Grant, File)&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;AP2011&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Feleti Teo" data-image-description="" data-image-caption="&lt;p&gt;FILE &#8211; Funafuti, the main island of the nation state of Tuvalu, is photographed on Oct. 13, 2011, from a Royal New Zealand Air Force C130 aircraft as it approaches the tiny South Pacific nation. Tuvalu lawmakers chose Feleti Teo as the tiny South Pacific island nation&#8217;s prime minister Monday, Feb. 26, 2024, after elections a month ago ousted the last government leader. (AP Photo/Alastair Grant, File)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Feleti-Teo.jpg?fit=300%2C156&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Feleti-Teo.jpg?fit=780%2C406&amp;ssl=1" /></figure>
+<p>By ROD McGUIRK and TRISTAN LAVALETTE Associated Press MELBOURNE, Australia (AP) — Tuvalu’s former Attorney General Feleti Teo was named prime minister of the tiny South Pacific nation Monday after&#160;elections a month ago&#160;ousted the last government leader. Teo was the only candidate nominated by his 15 lawmaker colleagues and Governor General Tofiga Vaevalu Falani declared [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/feleti-teo-is-named-tuvalus-new-prime-minister-after-elections-that-ousted-taiwan-supporter/">Feleti Teo is named Tuvalu&#8217;s new prime minister after elections that ousted Taiwan supporter</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/feleti-teo-is-named-tuvalus-new-prime-minister-after-elections-that-ousted-taiwan-supporter/">https://islandtimes.org/feleti-teo-is-named-tuvalus-new-prime-minister-after-elections-that-ousted-taiwan-supporter/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/feleti-teo-is-named-tuvalus-new-prime-minister-after-elections-that-ousted-taiwan-supporter/">Save to Pocket</a>
+</span>
+
+---
+
+## Global economy is weighed down by war, uncertainty and instability, trade chief warns
+
+date: 2024-02-27, from: Island Times
+
+<figure><img width="1024" height="685" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Global-economy.jpg?fit=1024%2C685&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Global-economy.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Global-economy.jpg?resize=300%2C201&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Global-economy.jpg?resize=768%2C514&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Global-economy.jpg?resize=400%2C268&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Global-economy.jpg?resize=706%2C472&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Global-economy.jpg?fit=1024%2C685&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68924" data-permalink="https://islandtimes.org/global-economy-is-weighed-down-by-war-uncertainty-and-instability-trade-chief-warns/global-economy/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Global-economy.jpg?fit=1024%2C685&amp;ssl=1" data-orig-size="1024,685" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;8&quot;,&quot;credit&quot;:&quot;Jon Gambrell&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Emirati Minister of State for Foreign Trade Thani bin Ahmed al-Zeyoudi, right, prepares to speak into a microphone provided by World Trade Organization Director-General Ngozi Okonjo-Iweala at a WTO summit in Abu Dhabi, United Arab Emirates, Monday, Feb. 26, 2024. The World Trade Organization opened its biennial meeting Monday in the United Arab Emirates as the bloc faces pressure from the United States and other nations ahead of a year of consequential elections around the globe. (AP Photo\/Jon Gambrell)&quot;,&quot;created_timestamp&quot;:&quot;1708940849&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;1200&quot;,&quot;iso&quot;:&quot;6400&quot;,&quot;shutter_speed&quot;:&quot;0.005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Global economy" data-image-description="" data-image-caption="&lt;p&gt;Emirati Minister of State for Foreign Trade Thani bin Ahmed al-Zeyoudi, right, prepares to speak into a microphone provided by World Trade Organization Director-General Ngozi Okonjo-Iweala at a WTO summit in Abu Dhabi, United Arab Emirates, Monday, Feb. 26, 2024. The World Trade Organization opened its biennial meeting Monday in the United Arab Emirates as the bloc faces pressure from the United States and other nations ahead of a year of consequential elections around the globe. (AP Photo/Jon Gambrell)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Global-economy.jpg?fit=300%2C201&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Global-economy.jpg?fit=780%2C522&amp;ssl=1" /></figure>
+<p>By JON GAMBRELL Associated Press ABU DHABI, United Arab Emirates (AP) — The head of the World Trade Organization warned on Monday that war, uncertainty and instability are weighing down the global economy and urged the bloc to embrace reform as elections across nearly half the world&#8217;s population could bring new challenges. WTO Director-General Ngozi [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/global-economy-is-weighed-down-by-war-uncertainty-and-instability-trade-chief-warns/">Global economy is weighed down by war, uncertainty and instability, trade chief warns</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/global-economy-is-weighed-down-by-war-uncertainty-and-instability-trade-chief-warns/">https://islandtimes.org/global-economy-is-weighed-down-by-war-uncertainty-and-instability-trade-chief-warns/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/global-economy-is-weighed-down-by-war-uncertainty-and-instability-trade-chief-warns/">Save to Pocket</a>
+</span>
+
+---
+
+## Nikola Jokic has third straight triple-double to help Nuggets beat Warriors, 119-103
+
+date: 2024-02-27, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Nikola-Jokic.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Nikola-Jokic.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Nikola-Jokic.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Nikola-Jokic.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Nikola-Jokic.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Nikola-Jokic.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Nikola-Jokic.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="68922" data-permalink="https://islandtimes.org/nikola-jokic-has-third-straight-triple-double-to-help-nuggets-beat-warriors-119-103/nikola-jokic-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Nikola-Jokic.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Godofredo A. V\u00e1squez&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Golden State Warriors forward Trayce Jackson-Davis, left, and Denver Nuggets guard Christian Braun (0) compete for possession of the ball during the first half of an NBA basketball game Sunday, Feb. 25, 2024, in San Francisco. (AP Photo\/Godofredo A. V\u00e1squez)&quot;,&quot;created_timestamp&quot;:&quot;1708879932&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;2500&quot;,&quot;shutter_speed&quot;:&quot;0.000625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Nikola Jokic" data-image-description="" data-image-caption="&lt;p&gt;Golden State Warriors forward Trayce Jackson-Davis, left, and Denver Nuggets guard Christian Braun (0) compete for possession of the ball during the first half of an NBA basketball game Sunday, Feb. 25, 2024, in San Francisco. (AP Photo/Godofredo A. Vásquez)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Nikola-Jokic.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/02/Nikola-Jokic.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By JANIE McCAULEY AP Sports Writer SAN FRANCISCO (AP) — Nikola Jokic insists he&#8217;s not changing anything during his latest run of triple-double dominance, just finding the flow of the game as it comes. Doing it all for Denver on both ends yet again, Jokic has the defending champions off to a 3-0 start after [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/nikola-jokic-has-third-straight-triple-double-to-help-nuggets-beat-warriors-119-103/">Nikola Jokic has third straight triple-double to help Nuggets beat Warriors, 119-103</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/nikola-jokic-has-third-straight-triple-double-to-help-nuggets-beat-warriors-119-103/">https://islandtimes.org/nikola-jokic-has-third-straight-triple-double-to-help-nuggets-beat-warriors-119-103/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/nikola-jokic-has-third-straight-triple-double-to-help-nuggets-beat-warriors-119-103/">Save to Pocket</a>
+</span>
+
+---
+
+## Column: Three generations of strong Native Hawaiian wahine
+
+date: 2024-02-27, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">4</span> <span class="rt-label rt-postfix">minutes</span></span> This column by University of <span aria-label="Hawaii">Hawai&#699;i</span> Maui College Chancellor Lui Hokoana was published by <em>The Maui News</em> on February 24, 2024.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/26/three-generations-of-strong-native-hawaiian-wahine/">Column: Three generations of strong Native Hawaiian wahine</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/26/three-generations-of-strong-native-hawaiian-wahine/">https://www.hawaii.edu/news/2024/02/26/three-generations-of-strong-native-hawaiian-wahine/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/26/three-generations-of-strong-native-hawaiian-wahine/">Save to Pocket</a>
+</span>
+
+---
+
+## Education Discipline Leads Collaborative Effort to Enhance Education in FSM
+
+date: 2024-02-27, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific’s (USP) Education Discipline, within its Schools of Pacific Arts,...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/education-discipline-leads-collaborative-effort-to-enhance-education-in-fsm/">Education Discipline Leads Collaborative Effort to Enhance Education in FSM</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/education-discipline-leads-collaborative-effort-to-enhance-education-in-fsm/">https://www.usp.ac.fj/news/education-discipline-leads-collaborative-effort-to-enhance-education-in-fsm/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/education-discipline-leads-collaborative-effort-to-enhance-education-in-fsm/">Save to Pocket</a>
+</span>
+
+---
+
+## Leeward CC’s The Reading Room returns with local authors’ insights
+
+date: 2024-02-27, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Authors Eric Chock, Scott Kikkawa, Darrell H. Y. Lum, Wing Tek Lum and Elmer Omar Bascos Pizo are featured in the latest season of The Reading Room.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/26/leeward-cc-the-reading-room/">Leeward <abbr>CC</abbr>’s The Reading Room returns with local authors’ insights</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/26/leeward-cc-the-reading-room/">https://www.hawaii.edu/news/2024/02/26/leeward-cc-the-reading-room/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/26/leeward-cc-the-reading-room/">Save to Pocket</a>
+</span>
+
+---
+
+## Free Ports Haunted House no deposit free spins In america
+
+date: 2024-02-27, from: MicroSem News
+
+Content Free online Blackjack Register To try out Free Harbors On line A lot of you are able to profitable contours mean a fortune, therefore the the new online game be a little more effective versus vintage of those. The newest slots online game turned the simple Wild icon on the head games function, and &#8230; <p class="link-more"><a href="https://micsem.org/free-ports-haunted-house-no-deposit-free-spins-in-america/" class="more-link">Continue reading<span class="screen-reader-text"> "Free Ports Haunted House no deposit free spins In america"</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://micsem.org/free-ports-haunted-house-no-deposit-free-spins-in-america/">https://micsem.org/free-ports-haunted-house-no-deposit-free-spins-in-america/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://micsem.org/free-ports-haunted-house-no-deposit-free-spins-in-america/">Save to Pocket</a>
+</span>
+
+---
+
+## twenty-five Totally free Spins No deposit mr green free spins code Casinos on the internet Inside Southern Africa February
+
+date: 2024-02-27, from: MicroSem News
+
+Articles Ekskluzywne Bonusy Z Totally free Revolves No deposit Poland Get Totally free Revolves No-deposit Expected Better Local casino Incentives Software And Video game Free Revolves No-deposit To the Eddy Dundee From the Emu Gambling establishment The game that have 10 paylines provides a good maxim commission limitation out of 250x your own bet. Even though this &#8230; <p class="link-more"><a href="https://micsem.org/twenty-five-totally-free-spins-no-deposit-mr-green-free-spins-code-casinos-on-the-internet-inside-southern-africa-february/" class="more-link">Continue reading<span class="screen-reader-text"> "twenty-five Totally free Spins No deposit mr green free spins code Casinos on the internet Inside Southern Africa February"</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://micsem.org/twenty-five-totally-free-spins-no-deposit-mr-green-free-spins-code-casinos-on-the-internet-inside-southern-africa-february/">https://micsem.org/twenty-five-totally-free-spins-no-deposit-mr-green-free-spins-code-casinos-on-the-internet-inside-southern-africa-february/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://micsem.org/twenty-five-totally-free-spins-no-deposit-mr-green-free-spins-code-casinos-on-the-internet-inside-southern-africa-february/">Save to Pocket</a>
+</span>
+
+---
+
+## 8 Better No- slot game rocky deposit Crypto Casinos
+
+date: 2024-02-26, from: MicroSem News
+
+Posts Added bonus Search 100 percent free Revolves Came across Storting Jackpot Ports Real cash No deposit America777 Gambling enterprise: 20 100 percent free Spins No-deposit Added bonus On top of it, the players buy some totally free spins to begin with gaming on the platform. All of these also offers is going to be &#8230; <p class="link-more"><a href="https://micsem.org/8-better-no-slot-game-rocky-deposit-crypto-casinos/" class="more-link">Continue reading<span class="screen-reader-text"> "8 Better No- slot game rocky deposit Crypto Casinos"</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://micsem.org/8-better-no-slot-game-rocky-deposit-crypto-casinos/">https://micsem.org/8-better-no-slot-game-rocky-deposit-crypto-casinos/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://micsem.org/8-better-no-slot-game-rocky-deposit-crypto-casinos/">Save to Pocket</a>
+</span>
+
+---
+
+## Letter to Speaker Johnson to Urge the Passage of the COFA  Amendments Act of 2023 Final
+
+date: 2024-02-26, from: FSM Public Information Office (Simina Administration)
+
+<p><img src="https://gov.fm/images/2024/Screenshot_2024-02-27_235232.png" /></p><p>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>On February 21, 2024</strong>, Reps. Steve Womack (R-AR), Ed Case (D-HI), and 46 other House members sent to Speaker Johnson a letter advocating for the COFA Amendments Act to be included in the next available legislative vehicle.<br />
+	<br />
+	This bipartisan letter was signed by 28 Republicans and 20 Democrats, including the ranking members of the House Foreign Affairs Committee (HFAC) and Natural Resources Committee, and chairs of the China Select Committee and HFAC Subcommittee on the Indo-Pacific.<br />
+	<br />
+	The Government of the Federated States of Micronesia thanks its supporters in the U.S. Congress and looks forward to the swift passage of the Compact of Free Association Amendments Act of 2023 to ensure the continuation of the strong and enduring partnership between the FSM and the U.S.<br />
+	<br />
+	A copy of the letter is posted below in full and can be found at at the link below: <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1exvxa1nUnS6RD0pyh8DFOz-ze9ywnW8U%2Fview%3Fusp%3Dsharing%26fbclid%3DIwAR1K9cPhfVNzGNBis-FSQ2HhjkoW_gD3EJFa7hXx-wdRQtiUzQ6PbgRmHjY&amp;h=AT2NBZahCFdgzng-rY0AxW79jS2Yz-qIAM7MSyRvU6qYZMdj4DLe5SI4CSeLx5YFVXI8UXK-eyL_AKmLvxNStkFO63LdvQLD3pIcAdAgSUZh1j4obzIzE_vSn-SfRyGS4w&amp;__tn__=-UK-R&amp;c[0]=AT3jQxSH0lYGfKem3UB60x_luVUHQkeIlC-DFw67xVVQLUJPyQpX2eN7iALtZpEQ2lcloD_N6RPFM_KijzXr3bwnZb9JOuKry4NGk8rg2XdddUNiii7N1GLJ2CYg9h1OYn_67B7C-BkxUp38ddc18A8YTymZcgQsToK-HgwIKI584e79uYBs1lyZtgxdl9AJfOyuSaXM4MwD" target="_blank">https://drive.google.com/.../1exvxa1nUnS6RD0pyh8D.../view...</a></span></span></p>
+<hr />
+<p style="text-align: center;">
+	<a href="https://gov.fm/images/2024/03/Letter_to_Speaker_Johnson_to_Urge_the_Passage_of_the_COFA_Amendments_Act_of_2023_Final.pdf" style="text-align: center;" target="_blank"><strong><span style="font-size: 16px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">Download PDF Version</span></span></strong></a></p>
+<p style="text-align: -webkit-center;">
+	<span style="font-family: &quot;Old English Text MT&quot;; font-size: 36px;">Congress of the United States</span><br />
+	<span style="font-family: &quot;Old English Text MT&quot;; font-size: 22px;">Washington, DC 20515</span></p>
+<div style="text-align: -webkit-center;">
+	<span style="font-size: 18px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">February 21, 2024</span></span></div>
+<div style="text-align: -webkit-center;">
+	&nbsp;</div>
+<div>
+	<span style="font-size: 18px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">Dear Speaker Johnson,</span></span></div>
+<div style="text-align: -webkit-center;">
+	&nbsp;</div>
+<div>
+	<span style="font-size: 18px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">We write to urge the inclusion of the Compact of Free Association Amendments Act of 2023 in the next available legislative vehicle. This bipartisan legislation was reported and unanimously recommended for House approval by the Committee on Natural Resources as H.J. Res. 96 on November 8, 2023, and now awaits passage by the House and Senate.</span></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size: 18px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">The Compacts of Free Association (COFA) include non-expiring provisions securing vital defense rights in strategically critical areas of the Pacific increasingly contested by the People&rsquo;s Republic of China (PRC). Under the COFA, the three Freely Associated States (FAS) of Palau, the Republic of the Marshall Islands (RMI) and the Federated States of Micronesia (FSM) grant the United States basing rights, operational control, and the right to deny military access by third nations to the FAS. The U.S. is also responsible for these nations&rsquo; national defense. These security and defense rights give the U.S. control of an area of ocean in the Western Pacific as large as the continental United States.</span></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size: 18px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">In return, the United States provides direct grant assistance payments and certain federal services without requirement of reimbursement. The COFA Amendments Act of 2023 would update and extend for 20 years COFA provisions that provide economic assistance and federal programs to the FAS.</span></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size: 18px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">The COFA are the cornerstone of U.S. presence in the Pacific Islands and have been recognized as strategically critical by numerous national security documents, including the 2022 Indo-Pacific Strategy. The PRC currently is waging political warfare to expand its influence and disrupt friendly relations throughout the region, making our deep and enduring partnerships with these nations more critical than ever. Senior officials from the Department of State and the Department of Defense repeatedly emphasized in Congressional hearings how crucial these relationships are to U.S. presence and operations in the Indo-Pacific.</span></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size: 18px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">The economic assistance provisions of the Compacts for RMI and FSM expired last fiscal year, and Palau is funded at a reduced level until the end of this fiscal year. After negotiations under two administrations, all three nations signed agreements to renew the Compacts for 20 additional years, starting from FY 2024. It is now incumbent on Congress to complete the approval process for the negotiated agreements through the passage of the Compact of Free Association Amendments Act of 2023.</span></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size: 18px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">Failing to ratify these agreements negotiated in good faith would be the most self-destructive gift the United States could give to the PRC in the Pacific, damaging U.S. credibility and deterrent capability in the FAS and the larger community of Pacific Island nations. Indeed, the delay in approval of the COFA stands in contrast to PRC success in establishing diplomatic relations with Solomon Islands in 2019 and more recently the Republic of Nauru.</span></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size: 18px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">Pacific Island nations understandably view these agreements as litmus tests for United States partnership. They are watching to see if we will follow through on our commitments, and should we fail, the PRC will further exploit that vacuum with further intervention and disruption rather than open and lawful competition. As a result, a broad coalition has openly urged Congress to pass these agreements into law: this includes the Heritage Foundation, the Select Committee for Strategic Competition with the Chinese Communist Party, and the Administration.</span></span><br />
+	<br />
+	<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">Each day that we do not pass this legislation into law is an opportunity missed, and an opening for our enemies to sow doubt about our viability as a partner and our strength as an ally. With so much at stake in the Indo-Pacific, we urge you to include this legislation in any available vehicle.</span></div>
+<div>
+	<div>
+		&nbsp;</div>
+	<div style="text-align: center;">
+		<span style="font-size: 18px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">Sincerely,</span></span></div>
+</div>
+<center>
+	<div style="text-align: left;">
+		<div>
+			<center>
+				<img alt="" src="https://gov.fm/images/2024/sig1.jpg" style="width: 800px; height: 847px;" /></center>
+		</div>
+		<div>
+			<center>
+				<img alt="" src="https://gov.fm/images/2024/sig2.jpg" style="width: 800px; height: 798px;" /></center>
+		</div>
+		<div>
+			<center>
+				<img alt="" src="https://gov.fm/images/2024/sig3.jpg" style="width: 800px; height: 827px;" /></center>
+		</div>
+		<div>
+			<center>
+				<img alt="" src="https://gov.fm/images/2024/sig4.jpg" style="width: 800px; height: 822px;" /></center>
+		</div>
+		<div>
+			<center>
+				<img alt="" src="https://gov.fm/images/2024/sig5.jpg" style="width: 800px; height: 649px;" /></center>
+		</div>
+	</div>
+</center>
+
+
+<span class="feed-item-link">
+<a href="https://gov.fm/index.php/public-info/fsmun-statements-and-releases">https://gov.fm/index.php/public-info/fsmun-statements-and-releases</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://gov.fm/index.php/public-info/fsmun-statements-and-releases">Save to Pocket</a>
+</span>
+
+---
+
+## Australia and New Zeal and COFA letter to Congressional leaders
+
+date: 2024-02-26, from: FSM Public Information Office (Simina Administration)
+
+<p><img src="https://gov.fm/images/2024/aus_newz.jpg" /></p><p>
+	<strong style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">On February 22, 2024</strong><span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">, the Ambassadors of Australia and New Zealand to the United States sent a letter to the leadership of the U.S. House of Representatives and U.S. Senate, to strongly encourage the inclusion of the COFA Amendments Act of 2023 in the next available legislative vehicle.</span></p>
+<hr />
+<p style="text-align: center;">
+	<a href="https://gov.fm/images/2024/03/AUS_NZ_COFA_letter_to_Congressional_leaders.pdf" style="text-align: center;" target="_blank"><strong><span style="font-size:16px;"><span style="font-family:times new roman,times,serif;">Download PDF Version</span></span></strong></a></p>
+<div class="row">
+	<div class="column" style="background-color:#fff;">
+		<center>
+			<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><img alt="" src="https://gov.fm/images/2024/australia-2-logo.jpg" style="width: 200px; height: 200px;" /></span></span></center>
+	</div>
+	<div class="column" style="background-color:#fff;">
+		<center>
+			<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><img alt="" src="https://gov.fm/images/2024/new_zealand-logo.jpg" style="width: 200px; height: 200px;" /></span></span></center>
+	</div>
+</div>
+<p>
+	&nbsp;</p>
+<p>
+	<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">22 February 2024</span></p>
+<div class="row">
+	<div class="column" style="background-color:#fff;">
+		<p>
+			<strong><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">The Honourable Mike Johnson<br />
+			Speaker of the House<br />
+			US House of Representatives<br />
+			Washington, DC 20515</span></span></strong></p>
+		<p>
+			<strong><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">The Honourable Hakeem Jeffries<br />
+			House Minority Leader<br />
+			US House of Representatives<br />
+			Washington, DC 20515</span></span></strong></p>
+	</div>
+	<div class="column" style="background-color:#fff;">
+		<p>
+			<strong><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">The Honourable Charles Schumer<br />
+			Senate Majority Leader<br />
+			US Senate<br />
+			Washington, DC 20515</span></span></strong></p>
+		<p>
+			<strong><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">The Honourable Mitch McConnell<br />
+			Senate Minority Leader<br />
+			US Senate<br />
+			Washington, DC 20515</span></span></strong></p>
+	</div>
+</div>
+<div>
+	<p>
+		&nbsp;</p>
+	<p>
+		&nbsp;</p>
+	<p>
+		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Dear Speaker Johnson, Minority Leader Jeffries, Majority Leader Schumer, and Minority Leader McConnell:</span></span><br />
+		<br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">The Ambassadors of Australia and New Zealand strongly encourage the inclusion of the Compact of Free Association (COFA) Amendments Act of 2023 (H.J.Res.96/S.J.Res.48) in the next available legislative vehicle. The COFA funding is vital to safeguarding our mutual interests in the Pacific.</span><br />
+		<br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">Australia and New Zealand welcome the United States&rsquo; long-standing commitment to the Pacific. The Compacts of Free Association have been a key pillar of the United States&rsquo; engagement in the region for over 40 years. The Compacts are mutually supportive of our two countries&rsquo; enduring partnerships with and significant assistance to other Pacific Island nations.</span><br />
+		<br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">The Freely Associated States, the Republic of the Marshall Islands (RMI), the Federated States of Micronesia (FSM), and the Republic of Palau have emphasized the importance they place on their Compacts with the United States. The COFA agreements have long been an important piece of architecture in the Pacific and of strategic importance to the United States and likeminded partners. Successive United States administrations have also acknowledged the importance of the agreements for securing defence access in the western Pacific.</span><br />
+		<br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">The timely passage of the COFA Amendments Act, which we understand enjoys strong, bipartisan support in both chambers, is imperative to uphold our mutual interests in a vital region for our three countries. Failure to pass the Act would have severe consequences. This includes heightened geopolitical and economic vulnerability of the three US-aligned Freely Associated States in the Pacific as well as impacting the United States&rsquo; reputation in the region. It will also have a broader strategic impact throughout the Indo-Pacific.</span><br />
+		<br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">Without the economic assistance provided by the United States under these agreements, or if such assistance continues to be delayed, the Freely Associated States will face even greater economic, fiscal and strategic uncertainty, and face significant pressure to look for sources of funding that they believe are more reliable.</span><br />
+		<br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">The COFAs stand as the United States&rsquo; flagship initiative in the region, crucial for maintaining US presence and influence in the Pacific Islands. As your closest friends in the Pacific, we are committed to seeing the United States remains engaged and active in this critically important region.</span></p>
+	<p>
+		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Yours sincerely</span></span></p>
+</div>
+<div class="row">
+	<div class="column" style="background-color:#fdfdfd;">
+		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><img alt="" src="https://gov.fm/images/2024/kev_sig.jpg" style="width: 200px; height: 55px;" /></span></span>
+		<p>
+			<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">HE The Hon Dr Kevin Rudd AC</span></span></p>
+	</div>
+	<div class="column" style="background-color:#fdfdfd;">
+		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><img alt="" src="https://gov.fm/images/2024/bed_sig.jpg" style="width: 200px; height: 57px;" /></span></span>
+		<p>
+			<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">HE The Hon Mr Bede Corry</span></span></p>
+	</div>
+</div>
+<div>
+	<p>
+		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Cc: Representative Steve Scalise, Majority Leader of the House of Representatives </span></span></p>
+	<p style="margin-left: 40px;">
+		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Senator Dick Durbin, Senate Majority Whip</span></span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">Senator John Thune, Senate Minority Whip</span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">Representative Tom Emmer, House Majority Whip</span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">Representative Katherine Clark, House Minority Whip</span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">Senate Committee on Appropriations</span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">House Committee on Appropriations</span><br />
+		<span style="font-size: 18px;"><span style="font-family:times new roman,times,serif;">S</span></span><span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">enate Committee on Energy and Natural Resources</span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">House Committee on Natural Resources</span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">Senate Committee on Foreign Relations</span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">House Committee on Foreign Affairs</span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">Senate Committee on Armed Services</span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">House Committee on Armed Services</span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">Senate Committee on Rules</span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">House Committee on Rules</span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">Senate Select Committee on Intelligence</span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">House Permanent Select Committee on Intelligence</span><br />
+		<span style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px;">House Select Committee on Strategic Competition between the United States and the Chinese Communist Party</span></p>
+</div>
+<center>
+	<p>
+		&nbsp;</p>
+</center>
+
+
+<span class="feed-item-link">
+<a href="https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/777-australia-and-new-zeal-and-cofa-letter-to-congressional-leaders?Itemid=177">https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/777-australia-and-new-zeal-and-cofa-letter-to-congressional-leaders?Itemid=177</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/777-australia-and-new-zeal-and-cofa-letter-to-congressional-leaders?Itemid=177">Save to Pocket</a>
+</span>
+
+---
+
+## Free Spins No inferno online slot deposit Romania
+
+date: 2024-02-26, from: MicroSem News
+
+Content Finest Rtg No deposit Extra: Brango Casino 100 Totally free Processor try 100 percent free Spins Really Totally free? Wieso Bieten Web based casinos 100 percent free Revolves An? You could expect to come across 25 free revolves for the sign right up offering headings such as Starburst, Gonzo&#8217;s Trip, Dual Spin, Warlords and &#8230; <p class="link-more"><a href="https://micsem.org/free-spins-no-inferno-online-slot-deposit-romania/" class="more-link">Continue reading<span class="screen-reader-text"> "Free Spins No inferno online slot deposit Romania"</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://micsem.org/free-spins-no-inferno-online-slot-deposit-romania/">https://micsem.org/free-spins-no-inferno-online-slot-deposit-romania/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://micsem.org/free-spins-no-inferno-online-slot-deposit-romania/">Save to Pocket</a>
+</span>
+
+---
+
+## Disney+ reality series features UH Mānoa botany student
+
+date: 2024-02-26, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> Carlos Ochoa-Marquez is featured in a new series that showcases high school students and their journey to the International Science and Engineering Fair.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/26/carlos-ochoa-marquez-disney-series/">Disney+ reality series features <abbr>UH</abbr> Mānoa botany student</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/26/carlos-ochoa-marquez-disney-series/">https://www.hawaii.edu/news/2024/02/26/carlos-ochoa-marquez-disney-series/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/26/carlos-ochoa-marquez-disney-series/">Save to Pocket</a>
+</span>
+
+---
+
+## Free Bets No deposit more hearts online slot Now offers For March 2024
+
+date: 2024-02-26, from: MicroSem News
+
+Blogs Enjoy Your own 100 percent free Everyday Twist To your Possibility to Win Dollars, Revolves Otherwise Bingo Game Want to Enjoy Today? Here&#8217;s The #1 Variety of No-deposit Local casino Terminology At no cost Revolves No-deposit Gambling enterprise Newbies Besides the identity, symbolization, and some slight details, the two internet sites are just like &#8230; <p class="link-more"><a href="https://micsem.org/free-bets-no-deposit-more-hearts-online-slot-now-offers-for-march-2024/" class="more-link">Continue reading<span class="screen-reader-text"> "Free Bets No deposit more hearts online slot Now offers For March 2024"</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://micsem.org/free-bets-no-deposit-more-hearts-online-slot-now-offers-for-march-2024/">https://micsem.org/free-bets-no-deposit-more-hearts-online-slot-now-offers-for-march-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://micsem.org/free-bets-no-deposit-more-hearts-online-slot-now-offers-for-march-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Better No-deposit Bonuses and you mad mad monkey slot can Codes 2024 Us Web based casinos
+
+date: 2024-02-26, from: MicroSem News
+
+Blogs Ports Of Vegas Gambling enterprise No-deposit Extra Requirements To have Slot 70 Free Revolves What if I Smack the Jackpot To your A no-deposit Extra? Whichever position motif or bonus element you would like, we could just about make certain that you will find a free of charge position machine which is the ultimate &#8230; <p class="link-more"><a href="https://micsem.org/better-no-deposit-bonuses-and-you-mad-mad-monkey-slot-can-codes-2024-us-web-based-casinos/" class="more-link">Continue reading<span class="screen-reader-text"> "Better No-deposit Bonuses and you mad mad monkey slot can Codes 2024 Us Web based casinos"</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://micsem.org/better-no-deposit-bonuses-and-you-mad-mad-monkey-slot-can-codes-2024-us-web-based-casinos/">https://micsem.org/better-no-deposit-bonuses-and-you-mad-mad-monkey-slot-can-codes-2024-us-web-based-casinos/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://micsem.org/better-no-deposit-bonuses-and-you-mad-mad-monkey-slot-can-codes-2024-us-web-based-casinos/">Save to Pocket</a>
+</span>
+
+---
+
+## The brand new Totally free Spins hey spin online casino promo code Gambling enterprises ᐅ No-deposit Free Spins2024
+
+date: 2024-02-26, from: MicroSem News
+
+Articles Gambling establishment Extreme Street Gambling enterprise 50 100 percent free Revolves Exactly what Online game Otherwise Online game Is My Spins Be taken For the? People will enjoy classic and you will progressive headings, making sure there will be something for every preference. That it local casino brand is constantly providing the new slots, &#8230; <p class="link-more"><a href="https://micsem.org/the-brand-new-totally-free-spins-hey-spin-online-casino-promo-code-gambling-enterprises-%e1%90%85-no-deposit-free-spins2024/" class="more-link">Continue reading<span class="screen-reader-text"> "The brand new Totally free Spins hey spin online casino promo code Gambling enterprises ᐅ No-deposit Free Spins2024"</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://micsem.org/the-brand-new-totally-free-spins-hey-spin-online-casino-promo-code-gambling-enterprises-%e1%90%85-no-deposit-free-spins2024/">https://micsem.org/the-brand-new-totally-free-spins-hey-spin-online-casino-promo-code-gambling-enterprises-%e1%90%85-no-deposit-free-spins2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://micsem.org/the-brand-new-totally-free-spins-hey-spin-online-casino-promo-code-gambling-enterprises-%e1%90%85-no-deposit-free-spins2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Mālama ʻia ka ʻaha kūkā mua loa pili i ka hana noʻeau he ʻōiwi ma UH Mānoa
+
+date: 2024-02-26, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">4</span> <span class="rt-label rt-postfix">minutes</span></span> The <abbr>UH</abbr> Mānoa Hawaiian Theatre program hosts an inaugural conference to enrich contributions to the Indigenous performance field.</p>
+The post <a href="https://www.hawaii.edu/news/2024/02/26/malama-ia-ka-aha-kuka-mua-loa-pili-i-ka-hana-noeau-he-oiwi-ma-uh-manoa/">Mālama ʻia ka ʻaha kūkā mua loa pili i ka hana noʻeau he ʻōiwi ma <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/02/26/malama-ia-ka-aha-kuka-mua-loa-pili-i-ka-hana-noeau-he-oiwi-ma-uh-manoa/">https://www.hawaii.edu/news/2024/02/26/malama-ia-ka-aha-kuka-mua-loa-pili-i-ka-hana-noeau-he-oiwi-ma-uh-manoa/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/02/26/malama-ia-ka-aha-kuka-mua-loa-pili-i-ka-hana-noeau-he-oiwi-ma-uh-manoa/">Save to Pocket</a>
+</span>
+
+---
+
+## British No-deposit 100 cleopatra ii slot bonus percent free Spins 2022
+
+date: 2024-02-26, from: MicroSem News
+
+Articles 100 percent free Revolves No deposit Required! Are Demo Harbors And you will Bingo Like Totally free Revolves? Simple tips to Allege 50 100 percent free Revolves? Q 8 Any kind of Almost every other Limits Instead of Wagering Conditions? If you have came across the fresh criteria to make wagers, the remaining part &#8230; <p class="link-more"><a href="https://micsem.org/british-no-deposit-100-cleopatra-ii-slot-bonus-percent-free-spins-2022/" class="more-link">Continue reading<span class="screen-reader-text"> "British No-deposit 100 cleopatra ii slot bonus percent free Spins 2022"</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://micsem.org/british-no-deposit-100-cleopatra-ii-slot-bonus-percent-free-spins-2022/">https://micsem.org/british-no-deposit-100-cleopatra-ii-slot-bonus-percent-free-spins-2022/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://micsem.org/british-no-deposit-100-cleopatra-ii-slot-bonus-percent-free-spins-2022/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 HIKI NŌ on PBS Hawaiʻi Winter Challenge
+
+date: 2024-02-26, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>The post <a href="https://www.pbshawaii.org/2024-hiki-no-on-pbs-hawaii-winter-compilation-show/">2024 HIKI NŌ on PBS Hawaiʻi Winter Challenge</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.pbshawaii.org/2024-hiki-no-on-pbs-hawaii-winter-compilation-show/">https://www.pbshawaii.org/2024-hiki-no-on-pbs-hawaii-winter-compilation-show/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pbshawaii.org/2024-hiki-no-on-pbs-hawaii-winter-compilation-show/">Save to Pocket</a>
+</span>
+
+---
+
+## Play 16,000+ Online merlins magic respins slot machine Gambling games For fun
+
+date: 2024-02-26, from: MicroSem News
+
+Posts Finest Possibilities: Totally free Spins For real Money Places Starburst 100 percent free Spins The brand new renowned organization has an intensive online game choices out of better-tier application business, for example Playtech, merlins magic respins slot machine Progression and you can NetEnt. The newest plethora of games will also satisfy the appetites of &#8230; <p class="link-more"><a href="https://micsem.org/play-16000-online-merlins-magic-respins-slot-machine-gambling-games-for-fun/" class="more-link">Continue reading<span class="screen-reader-text"> "Play 16,000+ Online merlins magic respins slot machine Gambling games For fun"</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://micsem.org/play-16000-online-merlins-magic-respins-slot-machine-gambling-games-for-fun/">https://micsem.org/play-16000-online-merlins-magic-respins-slot-machine-gambling-games-for-fun/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://micsem.org/play-16000-online-merlins-magic-respins-slot-machine-gambling-games-for-fun/">Save to Pocket</a>
+</span>
+
+---
+
+## Finest United states Totally slot starburst free Revolves Casinos February 2024
+
+date: 2024-02-26, from: MicroSem News
+
+Blogs How to Optimize your No deposit Local casino Bonus Really worth The best Free Harbors From the Ability Certification And you can Regulation Of Totally free Ports Games In britain Better Casinos on the internet Playthrough Very first – Whenever playing slots that have in initial deposit, you have to make use of free &#8230; <p class="link-more"><a href="https://micsem.org/finest-united-states-totally-slot-starburst-free-revolves-casinos-february-2024/" class="more-link">Continue reading<span class="screen-reader-text"> "Finest United states Totally slot starburst free Revolves Casinos February 2024"</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://micsem.org/finest-united-states-totally-slot-starburst-free-revolves-casinos-february-2024/">https://micsem.org/finest-united-states-totally-slot-starburst-free-revolves-casinos-february-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://micsem.org/finest-united-states-totally-slot-starburst-free-revolves-casinos-february-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Gratissnurr » Gratis Free Spins Vid Registrering 2022
+
+date: 2024-02-26, from: MicroSem News
+
+Content Free Spins Vid Inskrivning Sam Någo Första Insättning Tillfälle Chansen Att Lokalisera Nya Lek Mobilcasino Tillägg Free Spins Hurda Gör Mig Därför att Tag Ut Vinster A Gratissnurr? Såsom namnet antyder tillåt n en okej mäng free spins nära n registrerar de gällande någon casino. Online casino free spins inte me insättningsbonusar utför det &#8230; <p class="link-more"><a href="https://micsem.org/gratissnurr-gratis-free-spins-vid-registrering-2022/" class="more-link">Continue reading<span class="screen-reader-text"> "Gratissnurr » Gratis Free Spins Vid Registrering 2022"</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://micsem.org/gratissnurr-gratis-free-spins-vid-registrering-2022/">https://micsem.org/gratissnurr-gratis-free-spins-vid-registrering-2022/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://micsem.org/gratissnurr-gratis-free-spins-vid-registrering-2022/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -474,6 +1289,20 @@ Posts Free online Video poker Compared to A real income Play The best Casinos on
 
 <span class="feed-item-link">
 <a href="https://micsem.org/5-slot-magic-target-deluxe-reels-ports/">https://micsem.org/5-slot-magic-target-deluxe-reels-ports/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://micsem.org/5-slot-magic-target-deluxe-reels-ports/">Save to Pocket</a>
+</span>
+
+---
+
+## IT Entrepreneur Dives into Seafood Business
+
+date: 2024-02-25, from: University of the South Pacific (Fiji)
+
+<p>Eria Rurunga, an Information Technology (IT) business owner is embarking on a new journey by...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/it-entrepreneur-dives-into-seafood-business/">IT Entrepreneur Dives into Seafood Business</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/it-entrepreneur-dives-into-seafood-business/">https://www.usp.ac.fj/news/it-entrepreneur-dives-into-seafood-business/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/it-entrepreneur-dives-into-seafood-business/">Save to Pocket</a>
 </span>
 
 ---

@@ -1,11 +1,11 @@
 ---
 title: tech likely 2024.09
-updated: 2024-02-26 07:56:25
+updated: 2024-02-27 09:09:32
 ---
 
 # tech likely 2024.09
 
-(date: 2024-02-26 07:56:25)
+(date: 2024-02-27 09:09:32)
 
 ---
 
@@ -17,6 +17,651 @@ Lu Y.; Springer C.; Steffen B.
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/646230">http://hdl.handle.net/20.500.11850/646230</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/646230">Save to Pocket</a>
+</span>
+
+---
+
+## tashtalk: An interface for Apple's LocalTalk networking protocol
+
+date: 2024-02-27, from: Tilde.news
+
+<p><a href="https://tilde.news/s/erjapf/tashtalk_interface_for_apple_s_localtalk">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://github.com/lampmerchant/tashtalk">https://github.com/lampmerchant/tashtalk</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://github.com/lampmerchant/tashtalk">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-27, from: Dave Winer's Scripting News)
+
+There's a new faster version of <a href="http://news.scripting.com/">news.scripting.com</a> coming. I was originally thinking I'd do the switch today, but decided to hold it for a bit. I want to do more testing and development.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/27.html#a165527">http://scripting.com/2024/02/27.html#a165527</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/27.html#a165527">Save to Pocket</a>
+</span>
+
+---
+
+## Former Student Launch Competitor Turns Experience into NASA Engineering Career
+
+date: 2024-02-27, from: NASA breaking news
+
+By Jessica Barnett Sometimes, all it takes is a few years and the right people to completely change a person’s career trajectory. One such example is Meredith Patterson, an aerospace engineer at NASA’s Marshall Space Flight Center in Huntsville, Alabama, who went from knowing little to nothing about rockets to being part of the team [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/marshall/former-student-launch-competitor-turns-experience-into-nasa-engineering-career/">https://www.nasa.gov/centers-and-facilities/marshall/former-student-launch-competitor-turns-experience-into-nasa-engineering-career/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/marshall/former-student-launch-competitor-turns-experience-into-nasa-engineering-career/">Save to Pocket</a>
+</span>
+
+---
+
+## Competitive Robotics in WV reaches all-time high
+
+date: 2024-02-27, from: NASA breaking news
+
+FAIRMONT – Competitive Robotics in West Virginia has reached an all-time high with more teams across the state than ever before. The West Virginia Robotics Alliance, managed by the Education Resource Center (ERC) team at the NASA Katherine Johnson IV&#38;V Facility, released new data for the 2023-24 Robotics Season that shows a peak in the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/competitive-robotics-in-wv-reaches-all-time-high/">https://www.nasa.gov/news-release/competitive-robotics-in-wv-reaches-all-time-high/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/competitive-robotics-in-wv-reaches-all-time-high/">Save to Pocket</a>
+</span>
+
+---
+
+##  All the Ways Mt. Everest Can Kill You 
+
+date: 2024-02-27, updated: 2024-02-27, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/all-the-ways-mt-everest-can-kill-you">https://kottke.org/24/02/all-the-ways-mt-everest-can-kill-you</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/all-the-ways-mt-everest-can-kill-you">Save to Pocket</a>
+</span>
+
+---
+
+## The CUTE Mission: Innovative Design EnablesObservations of Extreme Exoplanets from a SmallPackage
+
+date: 2024-02-27, from: NASA breaking news
+
+Of the approximately 5,500 exoplanets discovered to date, many have been found to orbit very close to their parent stars. These close-in planets provide a unique opportunity to observe in detail the phenomena critical to the development and evolution of our own solar system, including atmospheric mass loss and interactions with the host star. NASA’s […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/science-research/science-enabling-technology/the-cute-mission-innovative-design-enablesobservations-of-extreme-exoplanets-from-a-smallpackage/">https://science.nasa.gov/science-research/science-enabling-technology/the-cute-mission-innovative-design-enablesobservations-of-extreme-exoplanets-from-a-smallpackage/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/science-research/science-enabling-technology/the-cute-mission-innovative-design-enablesobservations-of-extreme-exoplanets-from-a-smallpackage/">Save to Pocket</a>
+</span>
+
+---
+
+## Survey Results and Roadmap
+
+date: 2024-02-27, updated: 2024-02-27, from: Deno blog
+
+You answered our survey and we listened. Here’s what we’re working on currently and what you can expect from Deno next.
+
+
+<span class="feed-item-link">
+<a href="https://deno.com/blog/2024-survey-results-and-roadmap">https://deno.com/blog/2024-survey-results-and-roadmap</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://deno.com/blog/2024-survey-results-and-roadmap">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Entropy Bagels’ and Other Complex Structures Emerge From Simple Rules
+
+date: 2024-02-27, from: Quanta Magazine
+
+Simple rules in simple settings continue to puzzle mathematicians, even as they devise intricate tools to analyze them.            <p>The post <a href="https://www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/" target="_blank">‘Entropy Bagels’ and Other Complex Structures Emerge From Simple Rules</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/">https://www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/entropy-bagels-and-other-complex-structures-emerge-from-simple-rules-20240227/">Save to Pocket</a>
+</span>
+
+---
+
+## Adding Full Post Content to my RSS Feed
+
+date: 2024-02-27, from: Nora Tindall's blog
+
+A reader reached out to me the other day to let me know that my RSS feed for this blog didn&rsquo;t include post content, just descriptions, and that this hindered their ability to read my posts offline. This obviously isn&rsquo;t ideal, so I set about adding the full post content.
+Customizing the RSS Feed Hugo comes with a builtin RSS feed template, but it&rsquo;s easy enough to override. Simply copy the contents of this file to the themes/[theme name]/layouts/_default directory, and then edit to your heart&rsquo;s content.
+
+<span class="feed-item-link">
+<a href="https://nora.codes/post/adding-full-post-content-to-my-rss-feed/">https://nora.codes/post/adding-full-post-content-to-my-rss-feed/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://nora.codes/post/adding-full-post-content-to-my-rss-feed/">Save to Pocket</a>
+</span>
+
+---
+
+##  With online ordering now, people have a lot of options when it... 
+
+date: 2024-02-27, updated: 2024-02-27, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044062-with-online-ordering-now-">https://kottke.org/24/02/0044062-with-online-ordering-now-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044062-with-online-ordering-now-">Save to Pocket</a>
+</span>
+
+---
+
+## 2024-02-07 Apple killed music on the move, for me
+
+date: 2024-02-27, from: Alex Schroeder's Blog
+
+<h1>2024-02-07 Apple killed music on the move, for me</h1>
+
+<p>I was thinking about joining the <a href="https://www.crowdsupply.com/cool-tech-zone/tangara">Tangara</a> crowdfunding. It&rsquo;s a kind of iPod, but better in that it is all open. Yay!</p>
+
+<p>But then I realized something: Having an iPhone made listening to music such a shit show that I basically stopped and switched my entire phone-based audio entertainment to podcasts. Because podcast clients are great (at least <a href="https://icatcher.app/about/">iCatcher</a> is) where as Apple Music is a pain. Having used iTunes when it was cool until it was unusable, and then realizing what a pain the weird AAC formats on the files were, and the DRM on some of them, preventing me from playing them on other machines I owned. I was so angry.</p>
+
+<p>In a fit of hate I decided I was going to <a href="2019-07-08_Apple_Photos">move all my pictures out of iPhotos</a> and all my music out of iTunes and never go back. And I did. And so the Apple Music app died, and I guess no alternatives were allowed on the App Store because Apple is great like that, and so when the iPod classic I had with <a href="2017-12-21_Rockbox_on_the_iPod">Rockbox</a> installed <a href="2022-11-18_iPod%2C_iPad%2C_iPhone%2C_iPiss">finally died</a>, all I was left with was podcasts on the iPhone.</p>
+
+<p>And so now I don&rsquo;t even know whether I want to listen to music any more while I&rsquo;m on the move.</p>
+
+<p>Apple killed music on the move, for me.</p>
+
+<p>At home it&rsquo;s a different story, of course, but Tangara is a portable music player.</p>
+
+<p>I wish Tangara the best of luck.</p>
+
+<p><a class="tag" href="/search/?q=%23Apple">#Apple</a> <a class="tag" href="/search/?q=%23Copyright">#Copyright</a> <a class="tag" href="/search/?q=%23DRM">#DRM</a></p>
+
+<p><strong>2024-02-27</strong>. I joined the Kickstarter. Not because I have a terribly good feeling about it but because I remember wanting a portable audio player and I recently found, once again, that I really hate the Apple Music app.</p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-02-07-tangara">https://alexschroeder.ch/view/2024-02-07-tangara</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-02-07-tangara">Save to Pocket</a>
+</span>
+
+---
+
+## Groundbreaking Results from Space Station Science in 2023
+
+date: 2024-02-27, from: NASA breaking news
+
+Lee esta historia en español aquí. The International Space Station is a microgravity research lab hosting groundbreaking technology demonstrations and scientific investigations. More than 3,700 investigations conducted to date have generated roughly 500 research articles published in scientific journals. In 2023, the orbiting lab hosted more than 500 investigations. See more space station research achievements [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/station/iss-research/groundbreaking-results-from-space-station-science-in-2023/">https://www.nasa.gov/missions/station/iss-research/groundbreaking-results-from-space-station-science-in-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/station/iss-research/groundbreaking-results-from-space-station-science-in-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Resultados científicos revolucionarios en la estación espacial de 2023
+
+date: 2024-02-27, from: NASA breaking news
+
+Read the article in English here. La Estación Espacial Internacional (EEI) es un laboratorio de investigación en microgravedad que alberga innovadoras demostraciones de tecnología e investigaciones científicas. Las más de 3.700&#160;investigaciones llevadas a cabo hasta la fecha han producido alrededor de 500&#160;artículos publicados en revistas científicas. En 2023, este laboratorio orbital albergó más de 500&#160;investigaciones. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/station/iss-research/resultados-cientificos-revolucionarios-en-la-estacion-espacial-de-2023/">https://www.nasa.gov/missions/station/iss-research/resultados-cientificos-revolucionarios-en-la-estacion-espacial-de-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/station/iss-research/resultados-cientificos-revolucionarios-en-la-estacion-espacial-de-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## Be Better, FedEx
+
+date: 2024-02-27, updated: 2024-02-27, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/02/27/be-better-fedex/">https://onefoottsunami.com/2024/02/27/be-better-fedex/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/02/27/be-better-fedex/">Save to Pocket</a>
+</span>
+
+---
+
+##  I dropped the ball on not featuring this gorgeous letterpress version of... 
+
+date: 2024-02-27, updated: 2024-02-27, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044061-i-dropped-the-ball-on">https://kottke.org/24/02/0044061-i-dropped-the-ball-on</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044061-i-dropped-the-ball-on">Save to Pocket</a>
+</span>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-02-27, from: Tomosino's Mastodon feed)
+
+<p><a href="https://caniuse.com/css-text-wrap-balance" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">caniuse.com/css-text-wrap-bala</span><span class="invisible">nce</span></a></p><p>text-wrap: balance is now in every evergreen desktop browser. It's not in mobile safari yet, but will be soon. Huzzah!</p><p><a href="https://tilde.zone/tags/css" class="mention hashtag" rel="tag">#<span>css</span></a> <a href="https://tilde.zone/tags/webdev" class="mention hashtag" rel="tag">#<span>webdev</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://tilde.zone/@tomasino/112003667972077647">https://tilde.zone/@tomasino/112003667972077647</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tilde.zone/@tomasino/112003667972077647">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-27, from: Dave Winer's Scripting News)
+
+<a class="anchorRightMargin" href="https://www.amazon.com/Burn-Book-Tech-Love-Story/dp/B0CFYPHG5Z/ref=sr_1_2?crid=3A5HZAPQIQFN8&dib=eyJ2IjoiMSJ9.FM8cBCpWVjk-hhWnwzpLlX0FMjTZPzKAoZCVc70s5piiJcGsYN7gIJYoFxVwo_4v0KHWDRlnMsEaF51rlZN16HeQKQMc4sW4J056RoRAXZT32fFR-c5UJ-4DqGA5dfnesjv2jr2CHTAoQwcR9r43FN43u9_5-gF_fmdDysqBV10WWx5CZ5yn3GManiF5uyQQrq4RX1ZecFx71TZJQPWulhU7jlhI5L1i7KZt2ckiiLeXV9zdCQ3sWXZBjyQb74URk6ltIZS9gZR0AuLOrM4VVI203z1ufKePtL3RPWzbs8E.wF9wf4LkD-HHDyWm9SSu_j9cDqNW_4bCxHA-p9izwIY&dib_tag=se&keywords=burn+book&qid=1709038706&sprefix=burn+book%2Caps%2C106&sr=8-2"><img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/27/burnbook.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"></a>My <a href="https://www.threads.net/">Threads timeline</a> is full of <a href="https://www.threads.net/@davew/post/C30_luzJBQa">Kara Swisher</a> the last few days. She has a <a href="https://www.amazon.com/s?k=kara+swisher+burn+book&hvadid=673834124081&hvdev=c&hvlocphy=1023511&hvnetw=g&hvqmt=b&hvrand=4553868743109009067&hvtargid=kwd-2231804831244&hydadcr=22122_13323353&tag=googhydr-20&ref=pd_sl_1th6nk73pi_b">book</a> coming out. I think she's popular with other journalists. Her theme appears to be that it's the personalities that matter, not what the companies do. I don't think she has a whole lot of insight into the products and technology. For some reason tech, which mystifies a lot of history and english majors, is considered irrelevant or optional, or maybe kind of cute, by the typical reporter. So she expresses tech in terms the journalists understand, therefore they like her.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/27.html#a124537">http://scripting.com/2024/02/27.html#a124537</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/27.html#a124537">Save to Pocket</a>
+</span>
+
+---
+
+## Miracle WM, a new tiling window manager built on Mir
+
+date: 2024-02-27, updated: 2024-02-27, from: Liam Proven's articles at the Register
+
+<h4>Try preliminary version of a new environment in a snap</h4>
+      <p>Version 0.1.0 of Miracle-wm is very incomplete still, yet shows that interesting stuff is happening on the back of Canonical's Mir display server.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/27/miracle_tiling_wm/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/27/miracle_tiling_wm/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/27/miracle_tiling_wm/">Save to Pocket</a>
+</span>
+
+---
+
+## Microsoft wants to update your Windows 11 PC without forcing you to reboot
+
+date: 2024-02-27, from: OS News
+
+If there&#8217;s one thing Windows users hate about Windows, it&#8217;s Windows updates interrupting your workflow or gaming session with a popup asking you to restart your PC finish installing the latest security update. It happens at least once a month, because that&#8217;s how often Microsoft rolls out security updates to Windows PCs. This may soon be a thing of the past, as the company is now testing an update method called &#8220;hot patching&#8221; for Windows 11 PCs. Hot patching is already in use on some Windows Server editions, as well as Xbox, and now it appears the company is preparing to bring it to devices running Windows 11. ↫ Zac Bowden at Windows Central A welcome, good improvement every Windows user is going to benefit from. This is the kind of improvements Microsoft should really be focusing on, instead of adding more ads or useless &#8220;AI&#8221; features.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138655/microsoft-wants-to-update-your-windows-11-pc-without-forcing-you-to-reboot/">https://www.osnews.com/story/138655/microsoft-wants-to-update-your-windows-11-pc-without-forcing-you-to-reboot/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138655/microsoft-wants-to-update-your-windows-11-pc-without-forcing-you-to-reboot/">Save to Pocket</a>
+</span>
+
+---
+
+## A history of the tty
+
+date: 2024-02-27, from: OS News
+
+It&#8217;s one of those anachronisms that is deeply embedded in modern technology. From cloud operator servers to embedded controllers in appliances, there must be uncountable devices that think they are connected to a TTY. I will omit the many interesting details of the Linux terminal infrastructure here, as it could easily fill its own article. But most Linux users are at least peripherally aware that the kernel tends to identify both serial devices and terminals as TTYs, assigning them filesystem names in the form of /dev/tty*. Probably a lot of those people remember that this stands for teletype or perhaps teletypewriter, although in practice the term teleprinter is more common. ↫ J. B. Crawford I remember first using Linux in like 2000 or 2001, and running into the abbreviation tty, and not having a single clue what that meant since I came from a DOS and Windows background. Over time I gained a lot more understanding of the structure of modern UNIX-like systems, but it&#8217;s still great to read such a detailed history of the concept.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138653/a-history-of-the-tty/">https://www.osnews.com/story/138653/a-history-of-the-tty/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138653/a-history-of-the-tty/">Save to Pocket</a>
+</span>
+
+---
+
+## Black role models in tech are making history every day
+
+date: 2024-02-27, from: Raspberry Pi (.org)
+
+<p>It’s the last week of Black History Month 2024 in the USA, but by no means is the celebration over. The beautiful thing about history is that it’s not an isolated narrative about the past, but an ongoing dialogue in which we talk about how our collective past informs our present, and what more can&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/black-history-month-2024/">Black role models in tech are making history every day</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.org/blog/black-history-month-2024/">https://www.raspberrypi.org/blog/black-history-month-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.org/blog/black-history-month-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## DivingBoard: a homemade MIDI controller for synth lovers
+
+date: 2024-02-27, from: Raspberry Pi News (.com)
+
+<p>Oliver Hagen built the DivingBoard MIDI controller to make it easier to use synthesisers with hectic user interfaces</p>
+<p>The post <a href="https://www.raspberrypi.com/news/divingboard-a-homemade-midi-controller-for-synth-lovers/">DivingBoard: a homemade MIDI controller for synth lovers</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/divingboard-a-homemade-midi-controller-for-synth-lovers/">https://www.raspberrypi.com/news/divingboard-a-homemade-midi-controller-for-synth-lovers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/divingboard-a-homemade-midi-controller-for-synth-lovers/">Save to Pocket</a>
+</span>
+
+---
+
+## THE CARNIVAL IS OVER
+
+date: 2024-02-27, from: Howard Jacobson blog
+
+This is a free post. But don&#8217;t let that dissuade you from becoming a paid subscriber and gaining access to past and future articles of this kind, as well as work in progress, letters, ruminations, reflections, desperations, new fiction, and heaven knows what else.
+
+<span class="feed-item-link">
+<a href="https://jacobsonh.substack.com/p/the-carnival-is-over">https://jacobsonh.substack.com/p/the-carnival-is-over</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://jacobsonh.substack.com/p/the-carnival-is-over">Save to Pocket</a>
+</span>
+
+---
+
+## Is Emacs Dying?
+
+date: 2024-02-27, from: Tilde.news
+
+<p><a href="https://tilde.news/s/lmfii5/is_emacs_dying">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://irreal.org/blog/?p=11995">https://irreal.org/blog/?p=11995</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://irreal.org/blog/?p=11995">Save to Pocket</a>
+</span>
+
+---
+
+## mud-pi: A simple MUD server in Python, for teaching purposes, which could be run on a Raspberry Pi
+
+date: 2024-02-27, from: Tilde.news
+
+<p><a href="https://tilde.news/s/dmaeh6/mud_pi_simple_mud_server_python_for">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://github.com/Frimkron/mud-pi">https://github.com/Frimkron/mud-pi</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://github.com/Frimkron/mud-pi">Save to Pocket</a>
+</span>
+
+---
+
+## Fast Poetry and pre-commit with GitHub Actions
+
+date: 2024-02-27, from: Max Halford Blog
+
+This is a short post to share a GitHub Actions pattern I use to setup Poetry and pre-commit. These two tools cover most of my Python development needs. I use Poetry to manage dependencies and pre-commit to run code checks and formatting. The setup is fast because it caches the virtual environment and the .local directory.
+I like to use custom actions for this type of stuff. These are base actions that can be re-used in multiple workflows.
+
+<span class="feed-item-link">
+<a href="https://maxhalford.github.io/blog/fast-poetry-pre-commit-github-actions/">https://maxhalford.github.io/blog/fast-poetry-pre-commit-github-actions/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://maxhalford.github.io/blog/fast-poetry-pre-commit-github-actions/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-26, from: Dave Winer's Scripting News)
+
+Not much blogging here today. A lot of writing in other contexts.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/26.html#a225449">http://scripting.com/2024/02/26.html#a225449</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/26.html#a225449">Save to Pocket</a>
+</span>
+
+---
+
+##  Join or Die 
+
+date: 2024-02-26, updated: 2024-02-26, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/join-or-die">https://kottke.org/24/02/join-or-die</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/join-or-die">Save to Pocket</a>
+</span>
+
+---
+
+## Some OpenBSD features that aren’t widely known
+
+date: 2024-02-26, from: OS News
+
+In this blog post, you will learn about some OpenBSD features that can be useful, but not widespread. They often have a niche usage, but it&#8217;s important to know they exist to prevent you from reinventing the wheel. ↫ Solène Rapenne Written by Solène Rapenne, who also happens to be an OpenBSD developer, so a great source for information like this.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138651/some-openbsd-features-that-arent-widely-known/">https://www.osnews.com/story/138651/some-openbsd-features-that-arent-widely-known/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138651/some-openbsd-features-that-arent-widely-known/">Save to Pocket</a>
+</span>
+
+---
+
+## Avast Fined for Selling Browsing Data
+
+date: 2024-02-26, from: Michael Tsai
+
+FTC (via Lina Khan): The Federal Trade Commission will require software provider Avast to pay $16.5 million and prohibit the company from selling or licensing any web browsing data for advertising purposes to settle charges that the company and its subsidiaries sold such information to third parties after promising that its products would protect consumers [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/26/avast-fined-for-selling-browsing-data/">https://mjtsai.com/blog/2024/02/26/avast-fined-for-selling-browsing-data/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/26/avast-fined-for-selling-browsing-data/">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Arcade’s Uncertain Future
+
+date: 2024-02-26, from: Michael Tsai
+
+Neil Long (2023, Slashdot, MacDailyNews): In the 15 years since it launched the App Store, Apple has proved again and again that it cares very little about games &#x2013; though it is happy to make billions from them. I should know: I was an App Store games editor for seven years.[&#8230;]The woefully understaffed team of [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/26/apple-arcades-uncertain-future/">https://mjtsai.com/blog/2024/02/26/apple-arcades-uncertain-future/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/26/apple-arcades-uncertain-future/">Save to Pocket</a>
+</span>
+
+---
+
+## Might Have Been
+
+date: 2024-02-26, from: Michael Tsai
+
+Ben Lovejoy: Jony Ive tried to persuade Apple to cease making the MacBook Air, leaving a redesigned MacBook Pro as the only portable Mac.[&#8230;]Mossberg&#8217;s source said this led to a huge battle between Ive&#8217;s design team and the product managers, and was only finally resolved in 2018, when the product team got their way.It&#8217;s a [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/26/might-have-been/">https://mjtsai.com/blog/2024/02/26/might-have-been/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/26/might-have-been/">Save to Pocket</a>
+</span>
+
+---
+
+## A Complete Guide to Bluesky
+
+date: 2024-02-26, from: Michael Tsai
+
+Kuba Suder: For the past 10 months, I&#8217;ve been a pretty active user of Bluesky. I enjoy it a lot, and I&#8217;ve managed to learn a lot about how it works, what works well and what doesn&#8217;t, and also what&#8217;s likely coming next.I&#8217;ve decided to write down some of the tips &#38; tricks that I [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/26/a-complete-guide-to-bluesky/">https://mjtsai.com/blog/2024/02/26/a-complete-guide-to-bluesky/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/26/a-complete-guide-to-bluesky/">Save to Pocket</a>
+</span>
+
+---
+
+##  I remember watching this scene in Se7en, where the sun shines brightly... 
+
+date: 2024-02-26, updated: 2024-02-26, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044056-i-remember-watching-this-">https://kottke.org/24/02/0044056-i-remember-watching-this-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044056-i-remember-watching-this-">Save to Pocket</a>
+</span>
+
+---
+
+## Artemis II Crew, Recovery Teams Train for Final Phase of Moon Mission
+
+date: 2024-02-26, from: NASA breaking news
+
+NASA astronaut and Artemis II pilot Victor Glover is assisted by U.S. Navy personnel as he exits a mockup of the Orion spacecraft in the Pacific Ocean during training Feb. 25, while his crewmates look on. The Artemis II crew and a team from NASA and the Department of Defense are spending several days at [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/artemis-ii-crew-recovery-teams-train-for-final-phase-of-moon-mission/">https://www.nasa.gov/image-article/artemis-ii-crew-recovery-teams-train-for-final-phase-of-moon-mission/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/artemis-ii-crew-recovery-teams-train-for-final-phase-of-moon-mission/">Save to Pocket</a>
+</span>
+
+---
+
+##  Michael Sippey made an absolutely unhinged &#8220;electoral college&#8221; version of Pong Wars.... 
+
+date: 2024-02-26, updated: 2024-02-26, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044060-michael-sippey-made-an-ab">https://kottke.org/24/02/0044060-michael-sippey-made-an-ab</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044060-michael-sippey-made-an-ab">Save to Pocket</a>
+</span>
+
+---
+
+##  The Tricycle Haiku Contest 
+
+date: 2024-02-26, updated: 2024-02-26, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/the-tricycle-haiku-contest">https://kottke.org/24/02/the-tricycle-haiku-contest</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/the-tricycle-haiku-contest">Save to Pocket</a>
+</span>
+
+---
+
+## Developers’ fireside chat – 2nd March
+
+date: 2024-02-26, from: RiscOS Story
+
+While the number of people using RISC OS is very small by the standards of other other operating systems, and by extension the number of programmers comparatively minuscule, within the community the number of people programming is &#8211; probably, at least &#8211; quite high as a proportion of users. One of the reasons for this is almost certainly the ease with which it is possible to start programming a RISC OS computer, with one very popular language supplied out of the box &#8211; BBC BASIC is included as part of&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.riscository.com/2024/developers-fireside-chat-2nd-march/">https://www.riscository.com/2024/developers-fireside-chat-2nd-march/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.riscository.com/2024/developers-fireside-chat-2nd-march/">Save to Pocket</a>
+</span>
+
+---
+
+## R-Comp releases an updated Hexen
+
+date: 2024-02-26, from: RiscOS Story
+
+If you&#8217;re a fan of a type of computer game known as a &#8216;first-person shooter&#8217; (or FPS), in which the perspective of the game is from the eyes of the character being played, there are countless games you will know of on other platforms, with far fewer titles available for RISC OS, whether ported or original. One of those that began life elsewhere and was ported to our system was Hexen. Elsewhere, the game was developed by Raven Software and published by id Software &#8211; also known for titles such&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.riscository.com/2024/r-comp-hexen-beyond-heretic/">https://www.riscository.com/2024/r-comp-hexen-beyond-heretic/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.riscository.com/2024/r-comp-hexen-beyond-heretic/">Save to Pocket</a>
+</span>
+
+---
+
+## EORI validation from the desktop
+
+date: 2024-02-26, from: RiscOS Story
+
+Released in 2021, VATGST is an application from Kevin Wells that makes it possible to validate Value Added Tax (VAT) and Goods and Services Tax (GST) numbers &#8211; a sometimes handy thing for businesses to do when checking suppliers and customers. Kevin has released an update to the software, giving it the ability to also look up and validate Economic Operators Registration and Identification (EORI) numbers. These are required for entities that import or export goods to/from the European Union &#8211; which many companies based in the United Kingdom do&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.riscository.com/2024/eori-validation-vatgst/">https://www.riscository.com/2024/eori-validation-vatgst/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.riscository.com/2024/eori-validation-vatgst/">Save to Pocket</a>
+</span>
+
+---
+
+## Pluto 3.20 now available
+
+date: 2024-02-26, from: RiscOS Story
+
+Once developed as a commercial application by Jonathan Duddington, and now open sourced and freely available, the internet &#8216;news&#8217; (aka usenet) and email client application Pluto has been updated to version 3.20. Changes in this version are mainly small and include bug fixes, but the headline list includes improved article recovery notification and logging, and the number of transports (third party programs for moving messages between the local computer and the remote server) has been reduced, simplifying the code by removing code now considered redundant where the transports in question&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.riscository.com/2024/pluto-3-20/">https://www.riscository.com/2024/pluto-3-20/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.riscository.com/2024/pluto-3-20/">Save to Pocket</a>
+</span>
+
+---
+
+##  I laughed: Gilbert & Sullivan’s Francis Ford Coppola’s Bram Stoker’s Dracula, by... 
+
+date: 2024-02-26, updated: 2024-02-26, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044048-gilbert-sullivans-francis">https://kottke.org/24/02/0044048-gilbert-sullivans-francis</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044048-gilbert-sullivans-francis">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s SpaceX 30th Resupply Mission to Launch Experiments to Station
+
+date: 2024-02-26, from: NASA breaking news
+
+NASA and the agency’s international partners are sending scientific investigations to the International Space Station on the 30th SpaceX commercial resupply services mission, including tests of technologies to monitor sea ice, automate 3D mapping, and create nanoparticle solar cells. The company’s Dragon cargo spacecraft is scheduled to launch from Cape Canaveral Space Force Station in [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/station/iss-research/nasa-spacex-30-resupply-mission-launches-experiments-to-station/">https://www.nasa.gov/missions/station/iss-research/nasa-spacex-30-resupply-mission-launches-experiments-to-station/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/station/iss-research/nasa-spacex-30-resupply-mission-launches-experiments-to-station/">Save to Pocket</a>
+</span>
+
+---
+
+## $l4ckb0t
+
+date: 2024-02-26, updated: 2024-02-26, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/02/26/l4ckb0t/">https://onefoottsunami.com/2024/02/26/l4ckb0t/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/02/26/l4ckb0t/">Save to Pocket</a>
+</span>
+
+---
+
+## IndieWeb Carnival: February is almost at the end
+
+date: 2024-02-26, from: Manu - I write blog
+
+<p>It’s Monday, February 26th and that means there are just a few days left to submit your entry for <a href="https://manuelmoreale.com/indieweb-carnival-digital-relationships">this month’s IndieWeb Carnival that I’m hosting on the topic of Digital Relationships</a>. I’m going to accept all entries that land in <a href="mailto:hello@manuelmoreale.com">my inbox</a> before March 1st because that’s also when I plan to post my roundup post. So, if you want to participate hurry up!</p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/GzVUNN2BNxIhxq3l">https://manuelmoreale.com/@/page/GzVUNN2BNxIhxq3l</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/GzVUNN2BNxIhxq3l">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Invites You to Share Excitement of Agency’s SpaceX Crew-8 Launch
+
+date: 2024-02-26, from: NASA breaking news
+
+NASA is inviting the public to take part in virtual activities for the launch of the agency’s SpaceX Crew-8 mission to the International Space Station. NASA astronauts Matthew Dominick, commander; Michael Barratt, pilot; and Jeanette Epps, mission specialist; along with Roscosmos cosmonaut Alexander Grebenkin, mission specialist, will fly to the space station aboard SpaceX’s Dragon [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-you-to-share-excitement-of-agencys-spacex-crew-8-launch/">https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-you-to-share-excitement-of-agencys-spacex-crew-8-launch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-you-to-share-excitement-of-agencys-spacex-crew-8-launch/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s Planetary Radar Images Slowly Spinning Asteroid
+
+date: 2024-02-26, from: NASA breaking news
+
+During the close approach of 2008 OS7 with Earth on Feb. 2, the agency’s Deep Space Network planetary radar gathered the first detailed images of the stadium-size asteroid. On Feb. 2, a large asteroid safely drifted past Earth at a distance of about 1.8 million miles (2.9 million kilometers, or 7 ½ times the distance [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/solar-system/asteroids/nasas-planetary-radar-images-slowly-spinning-asteroid/">https://www.nasa.gov/solar-system/asteroids/nasas-planetary-radar-images-slowly-spinning-asteroid/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/solar-system/asteroids/nasas-planetary-radar-images-slowly-spinning-asteroid/">Save to Pocket</a>
+</span>
+
+---
+
+##  The Problem With Loving the Unborn 
+
+date: 2024-02-26, updated: 2024-02-26, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/the-problem-with-loving-the-unborn">https://kottke.org/24/02/the-problem-with-loving-the-unborn</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/the-problem-with-loving-the-unborn">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Names New Station Manager, Space Operations Deputy
+
+date: 2024-02-26, from: NASA breaking news
+
+NASA has selected Dana Weigel as the International Space Station Program manager, based at the agency’s Johnson Space Center in Houston. Weigel succeeds Joel Montalbano, who has accepted a position as deputy associate administrator for the agency’s Space Operations Mission Directorate at NASA Headquarters in Washington. Both positions will be effective April 7. “Dana is [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-names-new-station-manager-space-operations-deputy/">https://www.nasa.gov/news-release/nasa-names-new-station-manager-space-operations-deputy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-names-new-station-manager-space-operations-deputy/">Save to Pocket</a>
+</span>
+
+---
+
+##  If a &#8220;helen&#8221; is an amount of beauty, then &#8220;1 millihelen is... 
+
+date: 2024-02-26, updated: 2024-02-26, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044055-if-a-helen-is-an">https://kottke.org/24/02/0044055-if-a-helen-is-an</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044055-if-a-helen-is-an">Save to Pocket</a>
+</span>
+
+---
+
+## Overseen: memories of the search for a thing that maybe never was
+
+date: 2024-02-26, from: Care
+
+
+                <p>Kalundi Serumaga discovers an archive of African state TV broadcasts in London, and describes the fight to save colonial archives of Ugandan history and the stakes for Black African Indigenous peoples.</p>
+
+            
+
+<span class="feed-item-link">
+<a href="https://logicmag.io/policy/over-seen">https://logicmag.io/policy/over-seen</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/policy/over-seen">Save to Pocket</a>
+</span>
+
+---
+
+##  The new MLB uniforms make players look as if they&#8217;re wearing diapers.... 
+
+date: 2024-02-26, updated: 2024-02-26, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044051-new-mlb-uniforms-have-pla">https://kottke.org/24/02/0044051-new-mlb-uniforms-have-pla</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044051-new-mlb-uniforms-have-pla">Save to Pocket</a>
 </span>
 
 ---
@@ -41,6 +686,18 @@ date: 2024-02-26, updated: 2024-02-26, from: Jason Kottke blog
 
 <span class="feed-item-link">
 <a href="https://kottke.org/24/02/0044053-spain-takes-climate-actio">https://kottke.org/24/02/0044053-spain-takes-climate-actio</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044053-spain-takes-climate-actio">Save to Pocket</a>
+</span>
+
+---
+
+## With elections looming worldwide, here’s how to identify and investigate AI audio deepfakes
+
+date: 2024-02-26, from: Nieman Journalism Lab
+
+In October 2023, an AI-synthesized impersonation of the voice of an opposition leader helped swing the election in Slovakia to a pro-Russia candidate. Another AI audio fake was layered onto a real video clip of a candidate in Pakistan, supposedly calling on voters to boycott the general election in February 2024. Ahead of the Bangladeshi...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/02/with-elections-looming-worldwide-heres-how-to-identify-and-investigate-ai-audio-deepfakes/">https://www.niemanlab.org/2024/02/with-elections-looming-worldwide-heres-how-to-identify-and-investigate-ai-audio-deepfakes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/02/with-elections-looming-worldwide-heres-how-to-identify-and-investigate-ai-audio-deepfakes/">Save to Pocket</a>
 </span>
 
 ---
@@ -109,7 +766,7 @@ Chris Dixon's Read Write Own has a few problems. And the biggest problem is Dixo
 
 date: 2024-02-26, updated: 2024-02-26, from: Liam Proven's articles at the Register
 
-<h4><span class="label">FOSDEM</span> Making full effective use of new persistent memory means tearing up the rulebook</h4>
+<h4><span class="label">Opinion</span> Making full effective use of new persistent memory means tearing up the rulebook</h4>
       <p>Non-volatile RAM is making a comeback, but the deep assumptions of 1970s OS design will stop us making effective use of it. There are other ways to do things.</p>
 
 <span class="feed-item-link">

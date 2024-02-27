@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.09
-updated: 2024-02-26 07:56:25
+updated: 2024-02-27 09:09:33
 ---
 
 # libraries 2024.09
 
-(date: 2024-02-26 07:56:25)
+(date: 2024-02-27 09:09:33)
 
 ---
 
@@ -89,6 +89,60 @@ Scarborough, Joseph; Iachizzi, Monica; Schalbetter, Sina M.; Müller, Flavia S.;
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/659419">http://hdl.handle.net/20.500.11850/659419</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/659419">Save to Pocket</a>
+</span>
+
+---
+
+## February 2024
+
+date: 2024-02-27, from: Association of Research Libraries News
+
+<p>Last Updated on February 27, 2024, 10:03 am ET Public Policy Briefing (February 2024) This issue includes: Accessibility ARL/CARL Task Force Releases Final Report on Marrakesh Treaty Implementation Appropriations CARL...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/february-2024/">February 2024</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/february-2024/">https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/february-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/february-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## United2Act Against Paper Mills: Fighting Fraud that Corrupts the Scholarly Record
+
+date: 2024-02-27, from: Scholarly Kitchen
+
+<p>Fraud is undermining the integrity of the scholarly record. United2Act is striking back at paper mills. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/27/united2act-against-paper-mills/">United2Act Against Paper Mills: Fighting Fraud that Corrupts the Scholarly Record</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/27/united2act-against-paper-mills/">https://scholarlykitchen.sspnet.org/2024/02/27/united2act-against-paper-mills/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/27/united2act-against-paper-mills/">Save to Pocket</a>
+</span>
+
+---
+
+## The Circular Staircase, by Mary Roberts Rinehart
+
+date: 2024-02-27, from: Standard Ebooks, new releaases
+
+A middle-aged spinster rents a country home for the summer and finds herself in the middle of a murder mystery.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase">https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/mary-roberts-rinehart/the-circular-staircase">Save to Pocket</a>
+</span>
+
+---
+
+## Day in Review (February 26–29)
+
+date: 2024-02-26, from: Association of Research Libraries News
+
+<p>Last Updated on February 26, 2024, 3:23 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 27 &#124; Wednesday, February 28 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-26-29/">Day in Review (February 26–29)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/day-in-review/day-in-review-february-26-29/">https://www.arl.org/day-in-review/day-in-review-february-26-29/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/day-in-review/day-in-review-february-26-29/">Save to Pocket</a>
 </span>
 
 ---
