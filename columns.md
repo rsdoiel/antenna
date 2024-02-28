@@ -1,11 +1,95 @@
 ---
 title: columns 2024.09
-updated: 2024-02-27 09:09:32
+updated: 2024-02-28 08:06:53
 ---
 
 # columns 2024.09
 
-(date: 2024-02-27 09:09:32)
+(date: 2024-02-28 08:06:53)
+
+---
+
+## Apple vs. PWAs – Go act now and help avoid this disaster…
+
+date: 2024-02-28, from: Chris Heilmann's blog
+
+Apple wants to disallow Web Apps on iOS to be added to the home screen, run full screen and use the APIs necessary to create a great app. And to make things worse, only in Europe. We need to stop this from happening. The European Union is enforcing its Digital Markets Act and Apple aren&#8217;t [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://christianheilmann.com/2024/02/28/apple-vs-pwas-go-act-now-and-help-avoid-this-disaster/">https://christianheilmann.com/2024/02/28/apple-vs-pwas-go-act-now-and-help-avoid-this-disaster/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://christianheilmann.com/2024/02/28/apple-vs-pwas-go-act-now-and-help-avoid-this-disaster/">Save to Pocket</a>
+</span>
+
+---
+
+## A Cyber Insurance Backstop
+
+date: 2024-02-28, updated: 2024-02-27, from: Bruce Schneier blog
+
+<p>In the first week of January, the pharmaceutical giant Merck quietly <a href="https://therecord.media/merck-insurance-settlement-notpetya">settled its years-long lawsuit</a> over whether or not its property and casualty insurers would cover a $700 million claim filed after the devastating <a href="https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/">NotPetya cyberattack</a> in 2017. The malware ultimately infected more than 40,000 of Merck&#8217;s computers, which significantly disrupted the company&#8217;s <a href="https://www.reuters.com/article/idUSKBN1AD1AO/">drug and vaccine production</a>. After Merck filed its $700 million claim, the pharmaceutical giant&#8217;s insurers argued that they were not required to cover the malware&#8217;s damage because the cyberattack was widely attributed to the Russian government and therefore was excluded from standard property and casualty insurance coverage as a &#8220;hostile or warlike act.&#8221;...</p>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/a-cyber-insurance-backstop.html">https://www.schneier.com/blog/archives/2024/02/a-cyber-insurance-backstop.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/a-cyber-insurance-backstop.html">Save to Pocket</a>
+</span>
+
+---
+
+## Office Hours: Should the Michigan primary result be a wakeup call to Biden?
+
+date: 2024-02-28, from: Robert Reich's blog
+
+Friends, The question was never whether Joe Biden would win the Michigan primary. It was how successful would be a homegrown campaign to persuade Michiganders to vote &#8220;uncommitted.&#8221; Well, we now have the results, and they should serve as a wakeup call to Biden. With most votes counted on Wednesday morning, 13 percent of Michigan&#8217;s Democratic primary voters had chosen &#8220;uncommitted&#8221; &#8212; a share that represented more than 100,000 people in Michigan who made the effort to lodge their disapproval of the president.
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/office-hours-does-the-michigan-primary">https://robertreich.substack.com/p/office-hours-does-the-michigan-primary</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/office-hours-does-the-michigan-primary">Save to Pocket</a>
+</span>
+
+---
+
+## Office Hours: Where will Trump find the money to pay all his civil penalties? 
+
+date: 2024-02-28, from: Robert Reich's blog
+
+I have a guess
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/how-will-trump-get-the-cash-he-owes">https://robertreich.substack.com/p/how-will-trump-get-the-cash-he-owes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/how-will-trump-get-the-cash-he-owes">Save to Pocket</a>
+</span>
+
+---
+
+## Netflix Will No Longer Accept Payments From App Store Billing for Legacy Accounts
+
+date: 2024-02-28, updated: 2024-02-28, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://cordcuttersnews.com/netflix-will-no-longer-accept-payments-from-apple/">https://cordcuttersnews.com/netflix-will-no-longer-accept-payments-from-apple/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://cordcuttersnews.com/netflix-will-no-longer-accept-payments-from-apple/">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Is Canceling Electric Car Project
+
+date: 2024-02-28, updated: 2024-02-28, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai">https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai">Save to Pocket</a>
+</span>
+
+---
+
+## Wednesday 28 February, 2024
+
+date: 2024-02-28, from: John Naughton's online diary
+
+Bathtime, London Spotted while walking to a meeting. Quote of the Day ”A healthy male adult bore consumes each year one and a half times his own weight in other people&#8217;s patience.” John Updike Musical alternative to the morning’s radio &#8230; <a href="https://memex.naughtons.org/wednesday-28-february-2024/39186/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/wednesday-28-february-2024/39186/">https://memex.naughtons.org/wednesday-28-february-2024/39186/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/wednesday-28-february-2024/39186/">Save to Pocket</a>
+</span>
 
 ---
 

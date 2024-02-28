@@ -1,11 +1,131 @@
 ---
 title: games 2024.09
-updated: 2024-02-27 09:09:33
+updated: 2024-02-28 08:06:53
 ---
 
 # games 2024.09
 
-(date: 2024-02-27 09:09:33)
+(date: 2024-02-28 08:06:53)
+
+---
+
+## 4 Final Fantasy 7 recaps to watch before you play Rebirth
+
+date: 2024-02-28, updated: 2024-02-28, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24084611/remake-plot-summary-story-recap-videos">https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24084611/remake-plot-summary-story-recap-videos</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24084611/remake-plot-summary-story-recap-videos">Save to Pocket</a>
+</span>
+
+---
+
+## Helldivers 2’s opening is a masterclass in world building
+
+date: 2024-02-28, updated: 2024-02-28, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/24085158/helldivers-2-opening-tutorial-narrative-start">https://www.polygon.com/gaming/24085158/helldivers-2-opening-tutorial-narrative-start</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/24085158/helldivers-2-opening-tutorial-narrative-start">Save to Pocket</a>
+</span>
+
+---
+
+## Balatro is the perfect example of a game that wants you to break it
+
+date: 2024-02-28, updated: 2024-02-28, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24085031/balatro-jokers-break-the-game">https://www.polygon.com/24085031/balatro-jokers-break-the-game</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24085031/balatro-jokers-break-the-game">Save to Pocket</a>
+</span>
+
+---
+
+## Blood Rage designer Eric Lang’s next effort is the family friendly Life in Reterra
+
+date: 2024-02-28, updated: 2024-02-28, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/tabletop-games/24085010/life-in-reterra-board-game-eric-lang">https://www.polygon.com/tabletop-games/24085010/life-in-reterra-board-game-eric-lang</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/tabletop-games/24085010/life-in-reterra-board-game-eric-lang">Save to Pocket</a>
+</span>
+
+---
+
+## Call of Duty Black Ops designer starts new studio to create a more ‘intimate’ shooter
+
+date: 2024-02-28, updated: 2024-02-28, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24084622/call-of-duty-black-ops-david-vonderhaar-bulletfarm-games">https://www.polygon.com/24084622/call-of-duty-black-ops-david-vonderhaar-bulletfarm-games</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24084622/call-of-duty-black-ops-david-vonderhaar-bulletfarm-games">Save to Pocket</a>
+</span>
+
+---
+
+## Pokémon Trading Card Game Pocket devs say it’s not an NFT project
+
+date: 2024-02-28, updated: 2024-02-28, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24085172/pokemon-trading-card-game-pocket-tcg-nft">https://www.polygon.com/24085172/pokemon-trading-card-game-pocket-tcg-nft</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24085172/pokemon-trading-card-game-pocket-tcg-nft">Save to Pocket</a>
+</span>
+
+---
+
+## Nintendo suing makers of open-source Switch emulator Yuzu
+
+date: 2024-02-27, updated: 2024-02-27, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24085140/nintendo-totk-leaked-yuzu-lawsuit-emulator">https://www.polygon.com/24085140/nintendo-totk-leaked-yuzu-lawsuit-emulator</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24085140/nintendo-totk-leaked-yuzu-lawsuit-emulator">Save to Pocket</a>
+</span>
+
+---
+
+## Revisit Aerith’s big Final Fantasy 7 scene before playing FF7 Rebirth
+
+date: 2024-02-27, updated: 2024-02-27, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24085143/final-fantasy-7-aerith-death-scene-making-of">https://www.polygon.com/24085143/final-fantasy-7-aerith-death-scene-making-of</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24085143/final-fantasy-7-aerith-death-scene-making-of">Save to Pocket</a>
+</span>
+
+---
+
+## Every Criterion Collection Blu-ray and DVD is 50% off through noon
+
+date: 2024-02-27, updated: 2024-02-27, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/2/27/24084558/criterion-collection-flash-half-off-sale-2024">https://www.polygon.com/2024/2/27/24084558/criterion-collection-flash-half-off-sale-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/2/27/24084558/criterion-collection-flash-half-off-sale-2024">Save to Pocket</a>
+</span>
+
+---
+
+## How to find thermosap crystals in Pacific Drive
+
+date: 2024-02-27, updated: 2024-02-27, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24084616/pacific-drive-thermosap-crystals-how-to-find">https://www.polygon.com/guides/24084616/pacific-drive-thermosap-crystals-how-to-find</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24084616/pacific-drive-thermosap-crystals-how-to-find">Save to Pocket</a>
+</span>
 
 ---
 

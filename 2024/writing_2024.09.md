@@ -1,11 +1,217 @@
 ---
 title: writing 2024.09
-updated: 2024-02-27 09:09:32
+updated: 2024-02-28 08:06:53
 ---
 
 # writing 2024.09
 
-(date: 2024-02-27 09:09:32)
+(date: 2024-02-28 08:06:53)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-28, from: Neil Gaiman @ BlueSky)
+
+That horn should be tooted.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmhizxeug726">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmhizxeug726</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmhizxeug726">Save to Pocket</a>
+</span>
+
+---
+
+## Do You Write Longhand? Store Handwritten Notes and Texts in Scrivener Projects
+
+date: 2024-02-28, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p>Many writers find that using analog tools can spur creativity. &nbsp;They may make preparatory notes by hand, or write scenes, chapters, or even <a href="https://twitter.com/neilhimself/status/1043801237093863424" target="_blank">entire novels</a> on paper. It is said that <a href="https://www.psychologytoday.com/gb/blog/shut-and-listen/202205/the-creative-benefits-writing-longhand" target="_blank">writing longhand uses different parts of the brain</a> than tapping keys on a keyboard and that <a href="https://www.theguardian.com/books/2011/nov/03/creative-writing-better-pen-longhand" target="_blank">it may boost creativity</a>. Since writers eventually spend so much time editing and revising their texts on a computer that <a href="https://www.nytimes.com/2022/01/21/insider/the-case-for-writing-longhand-its-about-trying-to-create-that-little-space-of-freedom.html" target="_blank">creating a first draft by hand</a> can be a way of getting a different perspective on their work. &nbsp;And when writing longhand, you won&rsquo;t be distracted by your computer or tempted to browse social media, shop, or play games.</p>
+
+<p>Scrivener is, of course, designed for electronic input, either via a keyboard or <a href="https://www.literatureandlatte.com/blog/write-with-your-voice-how-to-use-dictation-with-scrivener" target="_blank">by even using dictation</a>. But because of the way Scrivener projects allow you to include many types of documents, you can also store handwritten notes in them. &nbsp;Here&rsquo;s how.&nbsp;</p>
+
+Taking notes
+
+<p>If you are an analog note-taker, you have your preferences. You may write in a pocket notebook, or you may take notes on pads. You may write with a pencil or a pen: maybe a fountain pen, if you prefer that sort of feeling of the pen on the paper. (And are willing to put up with the potential mess.) Some people can write with any type of writing implement on any type of paper, and others are more comfortable with a very specific combination. I like the relaxing pale, yellow color of legal pads and the smooth ivory-colored paper of <a href="https://rhodiapads.com/collections_premium_rpads.php" target="_blank">Rhodia R pads</a>, and I like the tactile feel of a good pencil or a smooth ballpoint pen on paper. I especially like the smell of a cedar pencil just after it has been sharpened; something about this smell puts me in the mood to write.</p>
+
+<p>My handwriting is terrible. While I enjoy writing in notebooks, such as Moleskine notebooks, the pages are too small, and everything I write ends up messy. But those notebooks are great to carry around with you so you can write anywhere. If you have good, compact handwriting, you can write a novel in these notebooks.</p>
+
+<p>You may want to use a hybrid, combining analog and digital. There are apps for Apple&lsquo;s iPad that allow you to write by hand using an Apple Pencil. This allows you to erase any mistakes you make, and change the color you&rsquo;re writing in, or alter the thickness of the stroke. You can switch from something that looks like a pen to a pencil, a felt tip pen, or even a brush. And you can export files from these apps to PDF format, which you can later import into your Scrivener project. One such app is <a href="https://www.goodnotes.com" target="_blank">Goodnotes</a>, but you&rsquo;ll find many apps that work this way on Apple&rsquo;s App Store.</p>
+
+Adding handwritten documents to Scrivener projects
+
+<p>There are two types of handwritten documents that you may wish to add to your Scrivener project. If you&rsquo;ve made preparatory notes about a scene, character, or location, you can add these to your project, to refer to as you write. And if you&rsquo;ve written entire scenes or chapters, you can add these to transcribe and edit.&nbsp;</p>
+
+<p>If you own a scanner, you could use that, but the easiest way to capture your handwritten notes is to take photos of them with your smartphone camera. Both iPhones and Android phones today have sufficient resolution for you to be able to read handwritten notes easily.</p>
+
+<p>I took a photo of the notes that I made for this article (I told you that my handwriting is not very good), which I then imported to my Scrivener project. You cannot add photos to folders in the top section of the Binder, but you can add them to the Research folder. So I created a Notes folder and added the photo there.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-articles/notes1.jpg" alt=""  />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>You can do the same thing if you have a notebook full of scenes and chapters. Take photos of each page or each two-page spread with your phone. Transfer those photos to your Mac or PC, then add all the photos to a subfolder of the research folder.</p>
+
+<p>If you&rsquo;re using an iPad app, export notes from that app as JPEGs or PDFs and add them to your project.</p>
+
+Using handwritten notes in Scrivener projects
+
+<p>You may wonder what the point of this is. If you have these handwritten notes on paper, or in a notebook, you can refer to them while you&rsquo;re working with Scrivener. But there are several advantages to storing them in your project. First, you can organize these notes in subfolders according to what they refer to. You may have made notes on a pad or in a notebook for different elements of a project, but not in order. You can rearrange the notes so they fit together easily.</p>
+
+<p>The second way you can use them is to use Scrivener&rsquo;s split-screen mode, viewing them alongside a Scrivener document. In the screenshot below, I&rsquo;ve hidden the Inspector to give me more horizontal room, and I&rsquo;ve clicked the Split Editor button to view my handwritten notes on the left and a text file in my project is in the Binder on the right. (Check out <a href="https://www.literatureandlatte.com/blog/see-more-of-your-project-splitting-the-scrivener-editor" target="_blank">See More of Your Project: Splitting the Scrivener Editor</a> for more on splitting the editor.) I can refer to my notes as I am writing my article.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <figure class="article__image">
+                    
+                        <img src="https://www.literatureandlatte.com/assets/image/blog/article/blog-articles/notes2.jpg" alt=""  />
+                    
+                                    </figure>
+            
+        
+    
+
+
+    
+        
+            
+                <p>If you are transcribing longer sections of text, such as entire chapters from a notebook, you can display the photos of your notebook pages on one side, and type in a document on the other side.</p>
+
+<p>Many writers use handwritten notes or write sections of their books by hand, in part to free themselves from their computers. The ability to incorporate these notes into your Scrivener project makes it much easier to go from analog to digital and prepare your final draft.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+
+
+<span class="feed-item-link">
+<a href="https://www.literatureandlatte.com/blog/do-you-write-longhand-store-handwritten-notes-and-texts-in-scrivener-projects">https://www.literatureandlatte.com/blog/do-you-write-longhand-store-handwritten-notes-and-texts-in-scrivener-projects</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.literatureandlatte.com/blog/do-you-write-longhand-store-handwritten-notes-and-texts-in-scrivener-projects">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-28, from: Neil Gaiman @ BlueSky)
+
+I bet I do!
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmgti3sesk2c">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmgti3sesk2c</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmgti3sesk2c">Save to Pocket</a>
+</span>
+
+---
+
+## Glasgow 2024 Confirms Los Angeles as Sole Bidder for 2026 Worldcon Site
+
+date: 2024-02-27, from: Locus Magazine
+
+<p>Glasgow 2024 has announced that LA in 2026 (Los Angeles) is the only site bid submitted by the filing deadline of February 18, 2024, as required by the WSFS Constitution. The election to select the site of the 2026 WorldCon will be administered by Glasgow 2024, the 2024 WorldCon. The documents filed by LA in 2026 are available at glasgow2024.org/for-members/wsfs-site-selection. The proposed convention dates are August 27-31, 2026, at the  <a href="https://locusmag.com/2024/02/glasgow-2024-confirms-los-angeles-as-sole-bidder-for-2026-worldcon-site/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/glasgow-2024-confirms-los-angeles-as-sole-bidder-for-2026-worldcon-site/">https://locusmag.com/2024/02/glasgow-2024-confirms-los-angeles-as-sole-bidder-for-2026-worldcon-site/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/glasgow-2024-confirms-los-angeles-as-sole-bidder-for-2026-worldcon-site/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-27, from: Neil Gaiman @ BlueSky)
+
+You can take the Snoopy away from H.P. Lovecraft, but you'll never take the Cthulhu Mythos out of Snoopy, Woodstock and the Peanuts gang.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmgfzw6om22m">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmgfzw6om22m</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmgfzw6om22m">Save to Pocket</a>
+</span>
+
+---
+
+## Brian Stableford (1948-2024)
+
+date: 2024-02-27, from: Locus Magazine
+
+<p>Author, academic, critic, editor, and translator Brian Stableford, 75, died February 24, 2024 after a long illness. He was married twice and is survived by his son Leo and daughter Kathy.</p>
+<p>Brian Michael Stableford was born July 25, 1948 in Shipley, Yorkshire, England. He attended the University of York, getting a degree in biology, followed by a doctorate in sociology; his doctoral thesis was <strong>The Sociology of Science Fiction</strong>.  <a href="https://locusmag.com/2024/02/brian-stableford-1948-2024/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/brian-stableford-1948-2024/">https://locusmag.com/2024/02/brian-stableford-1948-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/brian-stableford-1948-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Weekly Bestsellers, 26 February 2024
+
+date: 2024-02-27, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+<p>Kelly Link&#8217;s <b>The Book of Love</b> (Random House) debuts on two lists this week, ranking as high as #2 at the L.A. Times. And T. Kingfisher&#8217;s <b>What Feasts at Night</b> (Tor Nightfire) debuts on three lists, ranking as high as #9 at Publishers Weekly.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+03.03
+LAT
+02.25
+USAT 
+02.18
+PW 
+02.26
+Amz 
+(02.26)
+UK:
+Amz UK 
+(02.26)
+Canada:
+Amz.ca 
+(02.26)
+
+
+Items on <a href="https://locusmag.com/2024/02/weekly-bestsellers-26-february-2024/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/weekly-bestsellers-26-february-2024/">https://locusmag.com/2024/02/weekly-bestsellers-26-february-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/weekly-bestsellers-26-february-2024/">Save to Pocket</a>
+</span>
 
 ---
 

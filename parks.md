@@ -1,11 +1,279 @@
 ---
 title: parks 2024.09
-updated: 2024-02-27 09:09:33
+updated: 2024-02-28 08:06:54
 ---
 
 # parks 2024.09
 
-(date: 2024-02-27 09:09:33)
+(date: 2024-02-28 08:06:54)
+
+---
+
+## BLM to offer horses, burros for adoption in Ferndale
+
+date: 2024-02-27, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2024-02/51043839901_e08c7ea7f8_w.jpg?h=006d4a77&itok=RryxL0NL" width="150" height="100" alt="A brown, fuzzy burro" typeof="foaf:Image">
+
+
+</div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="12682cb4-6c58-461d-9ef5-34c84e022186" data-langcode="en" class="align-left embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/51043839901_e08c7ea7f8_w.jpg?itok=lTwePMTY" width="399" height="356" alt="A brown, fuzzy burro" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p>FERNDALE, Calif. –  The Bureau of Land Management will offer two yearling fillies and four wild burros for adoption Saturday, March 9, at the Humboldt County Fairgrounds in Ferndale. </p>
+
+<p>Anyone interested can see the available animals between noon and 5 p.m., Friday, March 8.  The adoption begins with a silent auction at 9 a.m. Saturday.  Animals not taken during the auction will be available on a first come, first served basis for a $125 adoption fee.  The BLM’s Adoption Incentive Program applies to this event; adopters receive a check for $1,000, when they receive title to their animals a year after adoption.</p>
+
+<p>To qualify, adopters must be at least 18 years old and have facilities that meet the BLM’s requirements. Title to the animals remains with the federal government for a year, after which adopters can apply for title. Detailed information about adopter qualifications and facility requirements can be found <a href="https://www.blm.gov/programs/wild-horse-and-burro/adoptions-and-sales">online</a>.</p>
+
+<p>The adoption event is being held in conjunction with the Back Country Horsemen of California Trail Obstacle Challenge, a free event for spectators. The event includes demonstrations on back country horse and burro packing topics, including Dutch oven cooking, predator encounters, trail etiquette and correctly packing gear.</p>
+
+<p>The BLM is responsible under the <a href="https://www.blm.gov/sites/default/files/programs_wildhorse_history_doc1.pdf">Wild Free Roaming Horses and Burro Act</a> for protecting and managing wild horses and burros on public lands. The agency periodically removes animals from the range when populations exceed levels established to allow wild horse and burro herds to thrive in balance with other range users, including wildlife and permitted livestock. These animals are then available for adoption at events throughout the country.</p>
+
+<p>To learn more about the BLM's Wild Horse and Burro program, please visit: <a href="https://www.blm.gov/whb">https://www.blm.gov/whb</a>.</p>
+</div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/press-release/blm-offer-horses-burros-adoption-ferndale">https://www.blm.gov/press-release/blm-offer-horses-burros-adoption-ferndale</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/press-release/blm-offer-horses-burros-adoption-ferndale">Save to Pocket</a>
+</span>
+
+---
+
+## BLM welcomes Ron Nuckles as Needles Field Manager
+
+date: 2024-02-27, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2024-02/53556518728_7d3d1079ce_z.jpg?h=92773db1&itok=Vab2qfZ5" width="150" height="100" alt="Portrait of  Ron Nuckles" typeof="foaf:Image">
+
+
+</div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="914f0276-7c6e-443f-acb9-e3346d1b8651" data-langcode="en" class="align-left embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/53556518728_7d3d1079ce_z.jpg?itok=N6QaLhei" width="484" height="530" alt="Portrait of  Ron Nuckles" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p>NEEDLES, Calif. – The Bureau of Land Management California Desert District welcomes Ron Nuckles as the new field manager for the Needles Field Office. In his role, Nuckles will oversee the management of more than 3.2 million acres of public lands in San Bernardino County. Nuckles started his position today and succeeds Michael Ahrens, who retired in December 2023.</p>
+
+<p>“Ron brings a deep understanding of the BLM’s mission and programs and has experience working with others through challenging issues,” said Shelly Lynch, California Desert District Manager. “We are fortunate to have a field manager who is originally from the area and is familiar with the local communities and landscapes.”</p>
+
+<p>Nuckles started his career with the BLM in 2017, where he managed engineering, maintenance, and support services for the Vale District Office in Oregon. He most recently spent two years as the Assistant Field Manager for the Lake Havasu Field Office in Arizona, managing operations for one of the only lake systems in the BLM, commercial leasing, recreation events, and Tribal relations. Nuckles served in the U.S. Marine Corps and has more than 20 years of federal experience, including eight years at the Marine Corps Air Ground Combat Center Twentynine Palms, and five years with the National Park Service at Joshua Tree National Park and Shenandoah National Park.</p>
+
+<p>“I’m eager to be back in California working with staff, partners, and communities to accomplish the goals of the agency using innovative solutions,” said Nuckles. “I have extensive experience working with various agencies across multiple jurisdictions and understand how to balance stakeholder and community wants and needs, while achieving the BLM’s multiple-use mission.”</p>
+
+<p>Nuckles was born and raised in southern California where he has spent most of his life. In his personal time, Ron enjoys recreating on public lands and waterways with his wife and three kids.</p>
+
+<p>The Needles Field Office manages the eastern most portion of the California Desert Conservation Area which includes a large portion of the 1.6-million-acre Mojave Trails National Monument. The Monument is home to Amboy Crater National Natural Landmark, Afton Canyon Natural Area, Sheephole Valley Wilderness, and encampments of General George S. Patton Jr. The California Historic Route 66 National Scenic Byway also runs through the field office. For more information visit: <a href="https://www.blm.gov/office/needles-field-office">https://www.blm.gov/office/needles-field-office</a>.</p>
+</div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/press-release/blm-welcomes-ron-nuckles-needles-field-manager">https://www.blm.gov/press-release/blm-welcomes-ron-nuckles-needles-field-manager</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/press-release/blm-welcomes-ron-nuckles-needles-field-manager">Save to Pocket</a>
+</span>
+
+---
+
+## BLM donates water tender to Cedarville Volunteer Fire Department
+
+date: 2024-02-27, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>BLM donates water tender to Cedarville Volunteer Fire Department</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p>The Bureau of Land Management has donated a firefighting water tender to the Cedarville Volunteer Fire Department, increasing the capability of the department that often assists the BLM with wildfires near northeast California communities.</p>
+
+<p>The 1997 diesel powered tender has a 3,000-gallon water tank and is designed to draft water from a source such as a pond, stream or hydrant and haul it to fire engines working on the fireline. This vehicle is ruggedly built and can handle travel to and from wildland fire incidents.</p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="4fe2e67f-1fa7-4ec1-88ef-e2c75ab20b12" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/53532628772_d991e1acf0_c.jpg?itok=SAUGNYTD" width="640" height="458" alt="Two men review a document while standing in front of a water truck." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p> </p>
+
+<p>“We are happy to donate this engine to the Cedarville Fire Department,” said John Toomey, fire management officer for the BLM Applegate Field Office. “This unit has served the BLM well, and still has plenty of service life left.”</p>
+
+<p>Cedarville Fire Chief Jim Hill said the unit will replace an older water tender. It will support the department’s wildland fire engine and two engines designed for fighting structure fires.</p>
+
+<p>The water tender was provided to the volunteer department under the BLM’s <a href="https://www.blm.gov/programs/public-safety-and-fire/rural-fire-readiness-program">Rural Fire Readiness Program</a>, which provides equipment to qualifying fire departments that cooperate with the BLM and assist fighting fires on public lands. In the program, local departments apply to receive BLM fire fighting equipment declared surplus when the BLM purchases new equipment.</p>
+
+<p>The water tender went into service in 1997 with the Bakersfield Field Office, where it was steadily utilized until it was replaced about two years ago. Before transferring the truck to the local department, the BLM arranged for inspections and repairs so that it arrived in Cedarville ready for service.</p>
+
+<p>The donation was the fourth in recent years in northeast California. In addition to the water tender donation to Cedarville, the BLM has donated wildland fire engines to the Standish-Litchfield, Milford and Fort Bidwell volunteer fire departments.</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/california" hreflang="en">California</a></div>
+          <div><a href="https://www.blm.gov/region/northern-california-do" hreflang="en">Northern California DO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/fire" hreflang="en">Fire</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-02-27T12:00:00Z">Tue, 02/27/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/applegate-field-office" hreflang="en">Applegate Field Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46942/edit" hreflang="en">Water Tender Donation</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/fire-prevention" hreflang="en">Fire Prevention</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/california" hreflang="en">California</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46942/edit" hreflang="en">Water Tender Donation</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-02-27/blm-donates-water-tender-cedarville-volunteer-fire-department">https://www.blm.gov/blog/2024-02-27/blm-donates-water-tender-cedarville-volunteer-fire-department</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-27/blm-donates-water-tender-cedarville-volunteer-fire-department">Save to Pocket</a>
+</span>
 
 ---
 

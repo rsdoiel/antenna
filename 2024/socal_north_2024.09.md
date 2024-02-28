@@ -1,11 +1,574 @@
 ---
 title: socal north 2024.09
-updated: 2024-02-27 09:09:32
+updated: 2024-02-28 08:06:53
 ---
 
 # socal north 2024.09
 
-(date: 2024-02-27 09:09:32)
+(date: 2024-02-28 08:06:53)
+
+---
+
+## As their fourth quarters expire, Occidental basketball seniors reflect on their play
+
+date: 2024-02-28, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Aiden Williams Captain Aiden Williams (senior) is the only senior on the men’s basketball team. Williams closed out his final game of collegiate basketball by scoring 32 points against Caltech. Williams is also 2nd in Southern California Intercollegiate Athletic Conference (SCIAC) three-point shooting percentage at 43.7%. For reference, one of the leading three-point shooters in the NBA, Stephen Curry, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/02/28/as-their-fourth-quarters-expire-occidental-basketball-seniors-reflect-on-their-play/2911437">As their fourth quarters expire, Occidental basketball seniors reflect on their play</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/sports/2024/02/28/as-their-fourth-quarters-expire-occidental-basketball-seniors-reflect-on-their-play/2911437">https://theoccidentalnews.com/sports/2024/02/28/as-their-fourth-quarters-expire-occidental-basketball-seniors-reflect-on-their-play/2911437</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/sports/2024/02/28/as-their-fourth-quarters-expire-occidental-basketball-seniors-reflect-on-their-play/2911437">Save to Pocket</a>
+</span>
+
+---
+
+## Swim and dive seniors flip-turn through their Occidental careers
+
+date: 2024-02-28, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>As Occidental&#8217;s swim and dive season comes to an end, seniors are preparing to say their goodbyes to collegiate swimming. Diver Elsie Cady (senior), and swimmers Izzy Phung (senior), Joshua Spessert (senior) and Alex To (senior) share their biggest successes, their plans for the future and some of their favorite memories while on the Occidental [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/02/28/swim-and-dive-seniors-flip-turn-through-their-occidental-careers/2911439">Swim and dive seniors flip-turn through their Occidental careers</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/sports/2024/02/28/swim-and-dive-seniors-flip-turn-through-their-occidental-careers/2911439">https://theoccidentalnews.com/sports/2024/02/28/swim-and-dive-seniors-flip-turn-through-their-occidental-careers/2911439</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/sports/2024/02/28/swim-and-dive-seniors-flip-turn-through-their-occidental-careers/2911439">Save to Pocket</a>
+</span>
+
+---
+
+## Opinion: Seeing myself on the NYFW catwalk
+
+date: 2024-02-28, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>&#8220;Batik&#8221; is a traditional Indonesian style of clothing that is made using hot wax to make patterns of swirls, dots and lines on fabric and then dipping the fabric in dye and removing the wax. This process takes hours of labor, focus and precision. During our family&#8217;s summer trips to Indonesia, my parents made sure that [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2024/02/28/opinion-seeing-myself-on-the-nyfw-catwalk/2911467">Opinion: Seeing myself on the NYFW catwalk</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/opinions/2024/02/28/opinion-seeing-myself-on-the-nyfw-catwalk/2911467">https://theoccidentalnews.com/opinions/2024/02/28/opinion-seeing-myself-on-the-nyfw-catwalk/2911467</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/opinions/2024/02/28/opinion-seeing-myself-on-the-nyfw-catwalk/2911467">Save to Pocket</a>
+</span>
+
+---
+
+## Athletes of the Week: Rylee Cockett and Amaan Kanji finish and start their Occidental sports careers
+
+date: 2024-02-28, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Rylee Cockett Amidst the buzz of her final year at Occidental college, Rylee Cockett (senior) is having a strong track and field season. Cockett said she set a new personal record Feb. 17 at the Pomona-Pitzer Collegiate All-Comers meet, reaching a height of 4 feet, 11 inches in the high jump event. Cockett said that reaching a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/02/28/athletes-of-the-week-rylee-cockett-and-amaan-kanji-finish-and-start-their-occidental-sports-careers/2911435">Athletes of the Week: Rylee Cockett and Amaan Kanji finish and start their Occidental sports careers</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/sports/2024/02/28/athletes-of-the-week-rylee-cockett-and-amaan-kanji-finish-and-start-their-occidental-sports-careers/2911435">https://theoccidentalnews.com/sports/2024/02/28/athletes-of-the-week-rylee-cockett-and-amaan-kanji-finish-and-start-their-occidental-sports-careers/2911435</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/sports/2024/02/28/athletes-of-the-week-rylee-cockett-and-amaan-kanji-finish-and-start-their-occidental-sports-careers/2911435">Save to Pocket</a>
+</span>
+
+---
+
+## First years prepare in the midst of writing portfolio season
+
+date: 2024-02-28, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>March 1 is the due date for first-year students to submit their writing portfolios. The writing portfolio is a way for students to demonstrate improvement in their writing skills throughout their first year at Occidental and a way to determine eligibility for upper-division writing courses, according to writing fellow Ella Acker (junior). Acker said the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/uncategorized/2024/02/28/first-years-prepare-in-the-midst-of-writing-portfolio-season/2911488">First years prepare in the midst of writing portfolio season</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/uncategorized/2024/02/28/first-years-prepare-in-the-midst-of-writing-portfolio-season/2911488">https://theoccidentalnews.com/uncategorized/2024/02/28/first-years-prepare-in-the-midst-of-writing-portfolio-season/2911488</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/uncategorized/2024/02/28/first-years-prepare-in-the-midst-of-writing-portfolio-season/2911488">Save to Pocket</a>
+</span>
+
+---
+
+## WiSTEM shakes up assumptions, offers supportive community
+
+date: 2024-02-28, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Upwards of 20 people, among them biology, kinesiology and computer science majors, sat in Johnson Hall as the Women in STEM club (WiSTEM) held its first of their biweekly meetings Feb. 20. Club founder Alyanna McGrath (junior) said underclassmen in her computer science classes sought guidance from her, leading her to realize there are limited [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/02/28/wistem-shakes-up-assumptions-offers-supportive-community/2911486">WiSTEM shakes up assumptions, offers supportive community</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/culture/2024/02/28/wistem-shakes-up-assumptions-offers-supportive-community/2911486">https://theoccidentalnews.com/culture/2024/02/28/wistem-shakes-up-assumptions-offers-supportive-community/2911486</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/culture/2024/02/28/wistem-shakes-up-assumptions-offers-supportive-community/2911486">Save to Pocket</a>
+</span>
+
+---
+
+## Julie Mehretu ‘redefines the boundaries of contemporary art’
+
+date: 2024-02-28, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Interviewer Paul Holdengräber spoke with distinguished painter Julie Mehretu in Choi Auditorium Feb. 21 as a part of Oxy Live!, a series of discussions with thought-provoking leaders in the arts. According to the Oxy Live! event website, Mehretu was named to Time magazine’s list of 100 most influential people, is the top-selling African artist of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/02/28/julie-mehretu-redefines-the-boundaries-of-contemporary-art/2911478">Julie Mehretu ‘redefines the boundaries of contemporary art’</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/culture/2024/02/28/julie-mehretu-redefines-the-boundaries-of-contemporary-art/2911478">https://theoccidentalnews.com/culture/2024/02/28/julie-mehretu-redefines-the-boundaries-of-contemporary-art/2911478</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/culture/2024/02/28/julie-mehretu-redefines-the-boundaries-of-contemporary-art/2911478">Save to Pocket</a>
+</span>
+
+---
+
+## Economics students petition to keep Professor Djerdjian at Occidental
+
+date: 2024-02-28, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>A group of seven students sent a petition Feb. 7 via email to renew Economics professor Daron Djerdjian&#8216;s contract for the 2024-2025 school year to Occidental students who have taken, or are currently taking, a class with Djerdjian. Peter Vartanian (junior), a creator of the petition, said that as of Feb. 22, the petition to keep Djerdjian [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/02/28/economics-students-petition-to-keep-professor-djerdjian-at-occidental/2911483">Economics students petition to keep Professor Djerdjian at Occidental</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/news/2024/02/28/economics-students-petition-to-keep-professor-djerdjian-at-occidental/2911483">https://theoccidentalnews.com/news/2024/02/28/economics-students-petition-to-keep-professor-djerdjian-at-occidental/2911483</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/news/2024/02/28/economics-students-petition-to-keep-professor-djerdjian-at-occidental/2911483">Save to Pocket</a>
+</span>
+
+---
+
+## Dance Pro, Occidental’s largest club, put back a step by change in ASOC funding policy
+
+date: 2024-02-28, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Dance Production (Dance Pro) is one of the largest and most popular clubs on Occidental’s campus, with hundreds in the audience during its annual Spring show. According to one of the club&#8217;s treasurers, Aenea Briggs (sophomore), one main obstacle lurks behind Thorne Hall&#8217;s curtains during these highly anticipated end-of-semester performances: funding. Briggs said that their [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/02/28/dance-pro-occidentals-largest-club-put-back-a-step-by-change-in-asoc-funding-policy/2911479">Dance Pro, Occidental&#8217;s largest club, put back a step by change in ASOC funding policy</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/news/2024/02/28/dance-pro-occidentals-largest-club-put-back-a-step-by-change-in-asoc-funding-policy/2911479">https://theoccidentalnews.com/news/2024/02/28/dance-pro-occidentals-largest-club-put-back-a-step-by-change-in-asoc-funding-policy/2911479</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/news/2024/02/28/dance-pro-occidentals-largest-club-put-back-a-step-by-change-in-asoc-funding-policy/2911479">Save to Pocket</a>
+</span>
+
+---
+
+## The Bengal Bus gives students access to the greater LA community
+
+date: 2024-02-28, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The Bengal Bus is a student-run free shuttle program that takes Occidental students anywhere within a seven-mile radius of campus from 6 p.m. to 10 p.m. Monday through Saturday. According to the Bengal Bus Manager Aidan Trinity (senior), the Bengal Bus often travels to Pasadena, Glendale and places in Eagle Rock. Sheea Sau (sophomore) said [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/02/28/the-bengal-bus-gives-students-access-to-the-greater-la-community/2911476">The Bengal Bus gives students access to the greater LA community</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/culture/2024/02/28/the-bengal-bus-gives-students-access-to-the-greater-la-community/2911476">https://theoccidentalnews.com/culture/2024/02/28/the-bengal-bus-gives-students-access-to-the-greater-la-community/2911476</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/culture/2024/02/28/the-bengal-bus-gives-students-access-to-the-greater-la-community/2911476">Save to Pocket</a>
+</span>
+
+---
+
+## Streetbeat: What do you think the minimum wage should be and why?
+
+date: 2024-02-28, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; &#160; “In my opinion, I think minimum wage should be a minimum of $23. I personally think that because with inflation, gas prices and</p>
+<p>The post <a href="https://theroundupnews.com/2024/02/28/streetbeat-what-do-you-think-the-minimum-wage-should-be-and-why/">Streetbeat: What do you think the minimum wage should be and why?</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/02/28/streetbeat-what-do-you-think-the-minimum-wage-should-be-and-why/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-what-do-you-think-the-minimum-wage-should-be-and-why">https://theroundupnews.com/2024/02/28/streetbeat-what-do-you-think-the-minimum-wage-should-be-and-why/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-what-do-you-think-the-minimum-wage-should-be-and-why</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/02/28/streetbeat-what-do-you-think-the-minimum-wage-should-be-and-why/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-what-do-you-think-the-minimum-wage-should-be-and-why">Save to Pocket</a>
+</span>
+
+---
+
+## Black History Month Luncheon
+
+date: 2024-02-28, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Photography prints, art and copies of the book “What Happened to You?” were on display in Building 600 at a Black History Luncheon presented by</p>
+<p>The post <a href="https://theroundupnews.com/2024/02/28/black-history-month-luncheon/">Black History Month Luncheon</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/02/28/black-history-month-luncheon/?utm_source=rss&utm_medium=rss&utm_campaign=black-history-month-luncheon">https://theroundupnews.com/2024/02/28/black-history-month-luncheon/?utm_source=rss&utm_medium=rss&utm_campaign=black-history-month-luncheon</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/02/28/black-history-month-luncheon/?utm_source=rss&utm_medium=rss&utm_campaign=black-history-month-luncheon">Save to Pocket</a>
+</span>
+
+---
+
+## To Promote Reproductive Health And Abortion Rights, Universities Turn To Student Ambassadors
+
+date: 2024-02-28, updated: 2024-02-28, from: The LAist
+
+For years colleges have used peer educators to promote health messages to the student body. The most recent task: awareness of medication abortion.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/medication-abortion-pills-ucla-student-health-ambassadors">https://laist.com/news/education/medication-abortion-pills-ucla-student-health-ambassadors</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/medication-abortion-pills-ucla-student-health-ambassadors">Save to Pocket</a>
+</span>
+
+---
+
+## A Wave Of Departures Shakes Up LA’s Homeless Agency
+
+date: 2024-02-28, updated: 2024-02-28, from: The LAist
+
+Three top officials have left the L.A. Homeless Services Authority in recent weeks without press releases announcing the moves, LAist has learned.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/housing-homelessness/los-angeles-homeless-officials-executives-exit-leave-lahsa">https://laist.com/news/housing-homelessness/los-angeles-homeless-officials-executives-exit-leave-lahsa</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/los-angeles-homeless-officials-executives-exit-leave-lahsa">Save to Pocket</a>
+</span>
+
+---
+
+## Teachers Unions Often Pick Winning School Board Candidates. Will This LAUSD Election Be Different?
+
+date: 2024-02-28, updated: 2024-02-28, from: The LAist
+
+Candidates endorsed by United Teachers Los Angeles have a significant edge — but a misstep can also be costly.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/lausd-school-board-election-march-2024-primary-los-angeles-unified">https://laist.com/news/education/lausd-school-board-election-march-2024-primary-los-angeles-unified</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/lausd-school-board-election-march-2024-primary-los-angeles-unified">Save to Pocket</a>
+</span>
+
+---
+
+## California’s Youth Job Corps Offers A Second Chance At Career, Higher Education
+
+date: 2024-02-28, updated: 2024-02-28, from: The LAist
+
+Program goal is to bridge work and education gaps for foster, justice-impacted, low-income youth, and others.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/california-youth-job-corps-reentry">https://laist.com/news/education/california-youth-job-corps-reentry</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/california-youth-job-corps-reentry">Save to Pocket</a>
+</span>
+
+---
+
+## Fernandez, Sanchez elected president, vice president
+
+date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The election was the first to use ranked-choice voting for the presidential tickets.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/28/fernandez-sanchez-elected-president-vice-president/">Fernandez, Sanchez elected president, vice president</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/28/fernandez-sanchez-elected-president-vice-president/">https://dailytrojan.com/2024/02/28/fernandez-sanchez-elected-president-vice-president/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/28/fernandez-sanchez-elected-president-vice-president/">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – February 28, 2024
+
+date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/28/classifieds-february-27-2024-2/">Classifieds &#8211; February 28, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/28/classifieds-february-27-2024-2/">https://dailytrojan.com/2024/02/28/classifieds-february-27-2024-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/28/classifieds-february-27-2024-2/">Save to Pocket</a>
+</span>
+
+---
+
+## The pitfalls of the ‘girls supporting girls’ mentality
+
+date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>There are some cons to the ardent gender affinity I’ve felt for fellow women.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/28/the-pitfalls-of-the-girls-supporting-girls-mentality/">The pitfalls of the ‘girls supporting girls’ mentality</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/28/the-pitfalls-of-the-girls-supporting-girls-mentality/">https://dailytrojan.com/2024/02/28/the-pitfalls-of-the-girls-supporting-girls-mentality/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/28/the-pitfalls-of-the-girls-supporting-girls-mentality/">Save to Pocket</a>
+</span>
+
+---
+
+## Bronny should stay in college
+
+date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>James has a lot of raw talent, but isn’t ready for the NBA just yet.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/28/202744/">Bronny should stay in college</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/28/202744/">https://dailytrojan.com/2024/02/28/202744/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/28/202744/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s swim looks to lap competition at Pac-12 Championships
+
+date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>After its historic regular season, USC will battle for the Conference crown.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/28/womens-swim-looks-to-lap-competition-at-pac-12-championships/">Women’s swim looks to lap competition at Pac-12 Championships</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/28/womens-swim-looks-to-lap-competition-at-pac-12-championships/">https://dailytrojan.com/2024/02/28/womens-swim-looks-to-lap-competition-at-pac-12-championships/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/28/womens-swim-looks-to-lap-competition-at-pac-12-championships/">Save to Pocket</a>
+</span>
+
+---
+
+## Political apathy is an immense privilege
+
+date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Staying ‘apolitical’ is a privilege — and one we must always keep in check. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/28/political-apathy-is-an-immense-privilege/">Political apathy is an immense privilege</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/28/political-apathy-is-an-immense-privilege/">https://dailytrojan.com/2024/02/28/political-apathy-is-an-immense-privilege/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/28/political-apathy-is-an-immense-privilege/">Save to Pocket</a>
+</span>
+
+---
+
+## I don’t want to be useful, I want to be Prada useful
+
+date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Miuccia Prada’s "Vogue" cover story opens a new interpretation of the word “useful” and how fashion lies in the spectrum of business and pleasure. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/28/i-dont-want-to-be-useful-i-want-to-be-prada-useful/">I don’t want to be useful, I want to be Prada useful</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/28/i-dont-want-to-be-useful-i-want-to-be-prada-useful/">https://dailytrojan.com/2024/02/28/i-dont-want-to-be-useful-i-want-to-be-prada-useful/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/28/i-dont-want-to-be-useful-i-want-to-be-prada-useful/">Save to Pocket</a>
+</span>
+
+---
+
+## Students with USC Museums demystifies art
+
+date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Club leaders hope to forge working relationships with the University’s museums. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/28/students-with-usc-museums-demystifies-art/">Students with USC Museums demystifies art</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/28/students-with-usc-museums-demystifies-art/">https://dailytrojan.com/2024/02/28/students-with-usc-museums-demystifies-art/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/28/students-with-usc-museums-demystifies-art/">Save to Pocket</a>
+</span>
+
+---
+
+## Trader Joe’s moves closing time one hour earlier
+
+date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The grocery store will move its closing time from 10 p.m. to 9 p.m. March 4.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/28/trader-joes-usc/">Trader Joe&#8217;s moves closing time one hour earlier</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/28/trader-joes-usc/">https://dailytrojan.com/2024/02/28/trader-joes-usc/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/28/trader-joes-usc/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s basketball engages March mindset
+
+date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC will face Arizona and Arizona State following a tough loss on Senior Day.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/28/202723/">Women’s basketball engages March mindset</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/28/202723/">https://dailytrojan.com/2024/02/28/202723/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/28/202723/">Save to Pocket</a>
+</span>
+
+---
+
+## Senior creates social platform for college students
+
+date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Linkd will feature groups and topics meant to cater to a student’s specific college.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/28/senior-creates-social-platform-for-college-students/">Senior creates social platform for college students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/28/senior-creates-social-platform-for-college-students/">https://dailytrojan.com/2024/02/28/senior-creates-social-platform-for-college-students/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/28/senior-creates-social-platform-for-college-students/">Save to Pocket</a>
+</span>
+
+---
+
+## Gallery: UCLA men’s basketball falls to USC in sold-out rivalry game
+
+date: 2024-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/27/gallery-ucla-mens-basketball-falls-to-usc-in-sold-out-rivalry-game/">https://dailybruin.com/2024/02/27/gallery-ucla-mens-basketball-falls-to-usc-in-sold-out-rivalry-game/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/27/gallery-ucla-mens-basketball-falls-to-usc-in-sold-out-rivalry-game/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA swim and dive to compete in its last-ever Pac-12 championship
+
+date: 2024-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins are headed to their last-ever Pac-12 championship.
+UCLA swim and dive (5-4, 3-4 Pac-12) will compete in the multi-day meet format from Wednesday to Saturday in Federal Way, Washington.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/27/ucla-swim-and-dive-to-compete-in-its-last-ever-pac-12-championship/">https://dailybruin.com/2024/02/27/ucla-swim-and-dive-to-compete-in-its-last-ever-pac-12-championship/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/27/ucla-swim-and-dive-to-compete-in-its-last-ever-pac-12-championship/">Save to Pocket</a>
+</span>
+
+---
+
+## First-Generation Awareness Week empowers UCLA students through community support
+
+date: 2024-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+First To Go hosted events at First-Generation Awareness Week last week on campus.
+A first-generation student&#8217;s parents or guardians do not have a four-year bachelor&#8217;s degree from a United States university, according to the definition used on the First To Go website.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/27/first-generation-awareness-week-empowers-ucla-students-through-community-support/">https://dailybruin.com/2024/02/27/first-generation-awareness-week-empowers-ucla-students-through-community-support/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/27/first-generation-awareness-week-empowers-ucla-students-through-community-support/">Save to Pocket</a>
+</span>
+
+---
+
+## UC Regents recap – Feb. 13-14
+
+date: 2024-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents, the governing body of the University, met Feb. 13 and 14 at the UCLA Meyer and Renee Luskin Conference Center.
+The Feb.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/27/uc-regents-recap-feb-13-14/">https://dailybruin.com/2024/02/27/uc-regents-recap-feb-13-14/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/27/uc-regents-recap-feb-13-14/">Save to Pocket</a>
+</span>
+
+---
+
+## Resisting antimicrobial resistance: We must act for antibiotics to remain helpful
+
+date: 2024-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 27 at 7:43 p.m.</em>
+The rise of antibiotics is one of the greatest contradictions of our time.
+Antimicrobials save millions of lives.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/27/resisting-antimicrobial-resistance-we-must-act-for-antibiotics-to-remain-helpful/">https://dailybruin.com/2024/02/27/resisting-antimicrobial-resistance-we-must-act-for-antibiotics-to-remain-helpful/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/27/resisting-antimicrobial-resistance-we-must-act-for-antibiotics-to-remain-helpful/">Save to Pocket</a>
+</span>
+
+---
+
+## Q&A: UCLA professor Jasper Kok discusses how aerosols affect climate patterns
+
+date: 2024-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Jasper Kok, a professor of atmospheric and oceanic sciences, sat down with the Daily Bruin to discuss his work on aerosols, particularly dust and dust storms, and how they manifest in climate patterns.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/27/qa-ucla-professor-jasper-kok-discusses-how-aerosols-affect-climate-patterns/">https://dailybruin.com/2024/02/27/qa-ucla-professor-jasper-kok-discusses-how-aerosols-affect-climate-patterns/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/27/qa-ucla-professor-jasper-kok-discusses-how-aerosols-affect-climate-patterns/">Save to Pocket</a>
+</span>
+
+---
+
+## So Just How Much Pollution Do LAPD Helicopters Emit? Officials Disagree Over How They're Used
+
+date: 2024-02-28, updated: 2024-02-28, from: The LAist
+
+The Board of Police Commissioners presented and approved their report on Tuesday. It found that the annual CO2 emissions were 20% less than the controller’s audit and that flight times were proportional to the violent crime rates.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/lapd-controllers-audit-helicopters-emissions-use">https://laist.com/news/lapd-controllers-audit-helicopters-emissions-use</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/lapd-controllers-audit-helicopters-emissions-use">Save to Pocket</a>
+</span>
+
+---
+
+## Theater review: ‘Black Cypress Bayou’ swims through murky plot to render a haunting history
+
+date: 2024-02-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+Warning: spoilers ahead.
+&#8220;Black Cypress Bayou&#8221; poignantly dives into a chilling river of ancestral history.
+Written by Kristen Adele Calhoun and directed by Tiffany Nichole Greene, the contemporary drama follows a mother and her two daughters as they grapple with the ghostly horrors of the present, the past and the future.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/27/theater-review-black-cypress-bayou-swims-through-murky-plot-to-render-a-haunting-history/">https://dailybruin.com/2024/02/27/theater-review-black-cypress-bayou-swims-through-murky-plot-to-render-a-haunting-history/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/27/theater-review-black-cypress-bayou-swims-through-murky-plot-to-render-a-haunting-history/">Save to Pocket</a>
+</span>
+
+---
+
+## Grammys top moments and a Swiftie surprise
+
+date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Welcome back to “Rhythm and News!” Our hosts kick off this semester with a review of the 2024 Grammy Awards. In this episode our hosts discuss red carpet looks and give an overview of the winners. Need a recap of the Grammys? Love Taylor Swift? This episode is for you.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/grammys-top-moments-and-a-swiftie-surprise/">Grammys top moments and a Swiftie surprise</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/27/grammys-top-moments-and-a-swiftie-surprise/">https://dailytrojan.com/2024/02/27/grammys-top-moments-and-a-swiftie-surprise/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/grammys-top-moments-and-a-swiftie-surprise/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s tennis claims fifth consecutive win in victory over UNLV
+
+date: 2024-02-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins were on the brink of notching their longest winning streak in four years. 
+And they conceded just one point en route to the milestone.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/27/ucla-mens-tennis-claims-fifth-consecutive-win-in-victory-over-unlv/">https://dailybruin.com/2024/02/27/ucla-mens-tennis-claims-fifth-consecutive-win-in-victory-over-unlv/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/27/ucla-mens-tennis-claims-fifth-consecutive-win-in-victory-over-unlv/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s tennis defeats Loyola Marymount, sweeps Cal State Fullerton at home
+
+date: 2024-02-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+Familiarity was at the cornerstone of the Bruins&#8217; success this weekend.
+After two consecutive losses on the road, UCLA women&#8217;s tennis (4-3) returned to the Los Angeles Tennis Center and took down Loyola Marymount (1-4) in a 6-1 feat on Friday and swept Cal State Fullerton (5-2, 1-0 Big West) 7-0 on Saturday.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/27/ucla-womens-tennis-defeats-loyola-marymount-sweeps-cal-state-fullerton-at-home/">https://dailybruin.com/2024/02/27/ucla-womens-tennis-defeats-loyola-marymount-sweeps-cal-state-fullerton-at-home/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/27/ucla-womens-tennis-defeats-loyola-marymount-sweeps-cal-state-fullerton-at-home/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘A huge win’: UCLA gymnast Chae Campbell flies to career highs on bars and beam
+
+date: 2024-02-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 27 at 9:29 p.m.</em>
+Chae Campbell is used to achieving high marks on vault and floor.
+She’s received seven perfect scores for her Yurchenko full and two perfect 10s for her floor routine.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/27/a-huge-win-ucla-gymnast-chae-campbell-flies-to-career-highs-on-bars-and-beam/">https://dailybruin.com/2024/02/27/a-huge-win-ucla-gymnast-chae-campbell-flies-to-career-highs-on-bars-and-beam/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/27/a-huge-win-ucla-gymnast-chae-campbell-flies-to-career-highs-on-bars-and-beam/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA baseball looks to bounce back after ‘wake-up call’ in blowout loss to TCU
+
+date: 2024-02-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+Coach John Savage recognized his team&#8217;s vulnerability to left-handed pitching after sweeping Gonzaga last week and acknowledged that his offense left 14 runners on base in the series finale.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/27/ucla-baseball-looks-to-bounce-back-after-wake-up-call-in-blowout-loss-to-tcu/">https://dailybruin.com/2024/02/27/ucla-baseball-looks-to-bounce-back-after-wake-up-call-in-blowout-loss-to-tcu/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/27/ucla-baseball-looks-to-bounce-back-after-wake-up-call-in-blowout-loss-to-tcu/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “She Broke, I’m Up”
+
+date: 2024-02-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/27/editorial-cartoon-she-broke-im-up/">https://dailybruin.com/2024/02/27/editorial-cartoon-she-broke-im-up/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/27/editorial-cartoon-she-broke-im-up/">Save to Pocket</a>
+</span>
+
+---
+
+## Western Monarch Butterflies Decline By 30%: How You Can Help Protect Them
+
+date: 2024-02-27, updated: 2024-02-27, from: The LAist
+
+Climate change and pesticide use play a big part in their dwindling numbers, but habitat loss is the biggest factor in their decline.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/climate-environment/western-monarch-butterfly-decline">https://laist.com/news/climate-environment/western-monarch-butterfly-decline</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/western-monarch-butterfly-decline">Save to Pocket</a>
+</span>
 
 ---
 
@@ -17,18 +580,6 @@ Climate change and pesticide use play a big part in their dwindling numbers, but
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/climate-environment/western-monarch-butterflies-decline-by-30-how-you-can-help-protect-them">https://laist.com/news/climate-environment/western-monarch-butterflies-decline-by-30-how-you-can-help-protect-them</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/climate-environment/western-monarch-butterflies-decline-by-30-how-you-can-help-protect-them">Save to Pocket</a>
-</span>
-
----
-
-## LA City Councilmember Kevin de León Faces 7 Challengers And Hopes For Voters’ Forgiveness
-
-date: 2024-02-27, updated: 2024-02-27, from: The LAist
-
-More than a year after President Biden called on him to resign over his participation in a recorded conversation that included racist and derogatory remarks, L.A. City Councilmember Kevin de León is asking voters for another four-year term.
-
-<span class="feed-item-link">
-<a href="https://laist.com/news/politics/kevin-de-leon-racism-scandal-election">https://laist.com/news/politics/kevin-de-leon-racism-scandal-election</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/kevin-de-leon-racism-scandal-election">Save to Pocket</a>
 </span>
 
 ---
@@ -45,11 +596,39 @@ Historically, voters have elected judges with prosecutorial experience. But coul
 
 ---
 
+## LA City Councilmember Kevin de León Faces 7 Challengers And Hopes For Voters’ Forgiveness
+
+date: 2024-02-27, updated: 2024-02-27, from: The LAist
+
+More than a year after President Biden called on him to resign over his participation in a recorded conversation that included racist and derogatory remarks, L.A. City Councilmember Kevin de León is asking voters for another four-year term.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/kevin-de-leon-racism-scandal-election">https://laist.com/news/politics/kevin-de-leon-racism-scandal-election</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/kevin-de-leon-racism-scandal-election">Save to Pocket</a>
+</span>
+
+---
+
+## A look into District 14’s candidates
+
+date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The district, which includes USC’s Health Sciences campus, is holding an election this year.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/los-angeles-council-district-14/">A look into District 14’s candidates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/27/los-angeles-council-district-14/">https://dailytrojan.com/2024/02/27/los-angeles-council-district-14/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/los-angeles-council-district-14/">Save to Pocket</a>
+</span>
+
+---
+
 ## Campus voting initiatives ramp up for primaries
 
 date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
 
-The USC Political Union, VoteSC and more organized to boost election turnout.
+<p>The USC Political Union, VoteSC and more organized to boost election turnout.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/campus-voting-initiatives-ramp-up-for-primaries/">Campus voting initiatives ramp up for primaries</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/27/campus-voting-initiatives-ramp-up-for-primaries/">https://dailytrojan.com/2024/02/27/campus-voting-initiatives-ramp-up-for-primaries/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/campus-voting-initiatives-ramp-up-for-primaries/">Save to Pocket</a>
@@ -61,7 +640,9 @@ The USC Political Union, VoteSC and more organized to boost election turnout.
 
 date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
 
-Proposition 1 would fund new mental health facilities in California if passed.
+<p>Proposition 1 would fund new mental health facilities in California if passed.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/proposition-1-mental-health-homelessness/">Newsom-backed Prop 1 could impact mental health, homelessness</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/27/proposition-1-mental-health-homelessness/">https://dailytrojan.com/2024/02/27/proposition-1-mental-health-homelessness/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/proposition-1-mental-health-homelessness/">Save to Pocket</a>
@@ -73,7 +654,9 @@ Proposition 1 would fund new mental health facilities in California if passed.
 
 date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
 
-Four candidates poll over 1% and are competing for a spot in the general election.
+<p>Four candidates poll over 1% and are competing for a spot in the general election.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/california-senate-candidates/">California Senate Seat up for grabs</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/27/california-senate-candidates/">https://dailytrojan.com/2024/02/27/california-senate-candidates/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/california-senate-candidates/">Save to Pocket</a>
@@ -85,22 +668,12 @@ Four candidates poll over 1% and are competing for a spot in the general electio
 
 date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
 
-A long-time District 1 board member will retire this December, leaving an open seat.
+<p>A long-time District 1 board member will retire this December, leaving an open seat.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/lausd-district-1-candidates/">Candidates rush to fill LAUSD seat</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/27/lausd-district-1-candidates/">https://dailytrojan.com/2024/02/27/lausd-district-1-candidates/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/lausd-district-1-candidates/">Save to Pocket</a>
-</span>
-
----
-
-## A look into District 14’s candidates
-
-date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
-
-The district, which includes USC’s Health Sciences campus, is holding an election this year.
-
-<span class="feed-item-link">
-<a href="https://dailytrojan.com/2024/02/27/los-angeles-council-district-14/">https://dailytrojan.com/2024/02/27/los-angeles-council-district-14/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/los-angeles-council-district-14/">Save to Pocket</a>
 </span>
 
 ---
@@ -109,7 +682,9 @@ The district, which includes USC’s Health Sciences campus, is holding an elect
 
 date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
 
-The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/classifieds-february-27-2024/">Classifieds &#8211; February 27, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/27/classifieds-february-27-2024/">https://dailytrojan.com/2024/02/27/classifieds-february-27-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/classifieds-february-27-2024/">Save to Pocket</a>
@@ -133,7 +708,8 @@ UCLA titan Meyer Luskin sits down with Podcasts editor Jack Garland to discuss h
 
 date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
 
-Not all angels wear halos — this up-and-coming L.A. designer prefers streetwear. 
+<p>Not all angels wear halos — this up-and-coming L.A. designer prefers streetwear. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/angel-gentle-opens-shop-in-south-central/">Angel Gentle opens shop in South Central</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
 
 
 <span class="feed-item-link">
@@ -146,7 +722,9 @@ Not all angels wear halos — this up-and-coming L.A. designer prefers streetwea
 
 date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
 
-Dating can be a struggle at USC, but student TV station Trojan Vision wants to help.
+<p>Dating can be a struggle at USC, but student TV station Trojan Vision wants to help.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/campus-crush-puts-a-new-spin-on-reality-tv/">‘Campus Crush’ puts a new spin on reality TV</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/27/campus-crush-puts-a-new-spin-on-reality-tv/">https://dailytrojan.com/2024/02/27/campus-crush-puts-a-new-spin-on-reality-tv/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/campus-crush-puts-a-new-spin-on-reality-tv/">Save to Pocket</a>
@@ -158,7 +736,9 @@ Dating can be a struggle at USC, but student TV station Trojan Vision wants to h
 
 date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
 
-The Trojans have started out 0-4 away from “home” this season, were 8-17-1 last season.
+<p>The Trojans have started out 0-4 away from “home” this season, were 8-17-1 last season.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/baseball-must-figure-out-its-road-struggles/">Baseball must figure out its road struggles</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/27/baseball-must-figure-out-its-road-struggles/">https://dailytrojan.com/2024/02/27/baseball-must-figure-out-its-road-struggles/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/baseball-must-figure-out-its-road-struggles/">Save to Pocket</a>
@@ -170,7 +750,9 @@ The Trojans have started out 0-4 away from “home” this season, were 8-17-1 l
 
 date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
 
-The Trojan bats finally broke through for 16 runs in a pair of wins over the weekend. 
+<p>The Trojan bats finally broke through for 16 runs in a pair of wins over the weekend. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/baseball-hits-its-way-to-first-series-win/">Baseball hits its way to first series win</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/27/baseball-hits-its-way-to-first-series-win/">https://dailytrojan.com/2024/02/27/baseball-hits-its-way-to-first-series-win/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/baseball-hits-its-way-to-first-series-win/">Save to Pocket</a>
@@ -182,7 +764,9 @@ The Trojan bats finally broke through for 16 runs in a pair of wins over the wee
 
 date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
 
-Utah completed its season sweep of USC, snapping the Trojans’ latest win streak.
+<p>Utah completed its season sweep of USC, snapping the Trojans’ latest win streak.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/watkins-frustrated-womens-basketball-falls-to-utes-again/">Watkins frustrated, women’s basketball falls to Utes again</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/27/watkins-frustrated-womens-basketball-falls-to-utes-again/">https://dailytrojan.com/2024/02/27/watkins-frustrated-womens-basketball-falls-to-utes-again/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/watkins-frustrated-womens-basketball-falls-to-utes-again/">Save to Pocket</a>
@@ -194,7 +778,9 @@ Utah completed its season sweep of USC, snapping the Trojans’ latest win strea
 
 date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
 
-USC must address its high prices for the fundamental requirements of students.
+<p>USC must address its high prices for the fundamental requirements of students.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/underlying-costs-of-college-harm-students/">Underlying costs of college harm students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/27/underlying-costs-of-college-harm-students/">https://dailytrojan.com/2024/02/27/underlying-costs-of-college-harm-students/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/underlying-costs-of-college-harm-students/">Save to Pocket</a>
@@ -206,7 +792,9 @@ USC must address its high prices for the fundamental requirements of students.
 
 date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
 
-Pre-made grocery store meals run my busy weeks. 
+<p>Pre-made grocery store meals run my busy weeks. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/surviving-the-midterm-munchies/">Surviving the midterm munchies</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/27/surviving-the-midterm-munchies/">https://dailytrojan.com/2024/02/27/surviving-the-midterm-munchies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/surviving-the-midterm-munchies/">Save to Pocket</a>
@@ -218,7 +806,9 @@ Pre-made grocery store meals run my busy weeks.
 
 date: 2024-02-27, from: The Daily Trojan (USC Student Newspaper)
 
-Non-LGBTQIA+ people should be mindful in queer spaces.
+<p>Non-LGBTQIA+ people should be mindful in queer spaces.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/27/lgbtqia-spaces-arent-for-non-queer-people/">LGBTQIA+ spaces aren’t for non-queer people</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/27/lgbtqia-spaces-arent-for-non-queer-people/">https://dailytrojan.com/2024/02/27/lgbtqia-spaces-arent-for-non-queer-people/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/27/lgbtqia-spaces-arent-for-non-queer-people/">Save to Pocket</a>
@@ -243,7 +833,8 @@ The renovation, which began in June of last year, involves installing an automat
 
 date: 2024-02-27, from: The Daily Bruin (UCLA Student Newspaper)
 
-On the Hill, the piano isn&#8217;t just an instrument. It is the ambiance of an evening in Sunset Village, the music before or after a meal at Bruin Plate, or the beginning of a friendship.
+<em>This post was updated Feb. 27 at 7:34 p.m.</em>
+On the Hill, the piano isn’t just an instrument. It is the ambience of an evening in Sunset Village, the music before or after a meal at Bruin Plate or the beginning of a friendship.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/26/opinion-improving-the-state-of-pianos-on-the-hill-is-the-key-to-student-well-being/">https://dailybruin.com/2024/02/26/opinion-improving-the-state-of-pianos-on-the-hill-is-the-key-to-student-well-being/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/26/opinion-improving-the-state-of-pianos-on-the-hill-is-the-key-to-student-well-being/">Save to Pocket</a>
@@ -255,7 +846,7 @@ On the Hill, the piano isn&#8217;t just an instrument. It is the ambiance of an 
 
 date: 2024-02-27, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Feb. 26 at 9:19 p.m.</em>
+<em>This post was updated Feb. 27 at 9:20 p.m.</em>
 The Quay Miller show commenced out of the halftime break.
 All across the court, the Buffalo forward knocked down shots – first from the baseline, then beyond the arc and finally at the rim.
 
@@ -269,6 +860,7 @@ All across the court, the Buffalo forward knocked down shots – first from the 
 
 date: 2024-02-27, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 27 at 8:52 p.m.</em>
 YEP! at UCLA is committed to fostering the leaders of tomorrow through education and empowerment.
 The student-run organization – which hosts chapters at other universities including Brown University, Yale University, UC Berkeley, UC Santa Barbara and the University of New South Wales in Sydney – provides underserved students with a free entrepreneurship curriculum, according to the group’s website.
 
@@ -294,8 +886,9 @@ Known for performing regional dances from Mexico, the Ballet Folklórico Aztlán
 
 date: 2024-02-27, from: The Daily Bruin (UCLA Student Newspaper)
 
-Modernizing its 1980s roots, the &#8220;Night Court&#8221; reboot is now in session.
-Expanding on the comedy&#8217;s original story from 1984, the NBC revival follows judge Abby Stone (Melissa Rauch) as she fills her late father&#8217;s position in a Manhattan arraignment court with help from his former colleague Dan Fielding (John Larroquette).
+<em>This post was updated Feb. 27 at 7:48 p.m.</em>
+Modernizing its 1980s roots, the “Night Court” reboot is now in session.
+Expanding on the comedy’s original story from 1984, the NBC revival follows judge Abby Stone (Melissa Rauch) as she fills her late father’s position in a Manhattan arraignment court with help from his former colleague Dan Fielding (John Larroquette).
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/26/cast-of-night-court-reboot-discusses-shows-revival-in-on-set-panel/">https://dailybruin.com/2024/02/26/cast-of-night-court-reboot-discusses-shows-revival-in-on-set-panel/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/26/cast-of-night-court-reboot-discusses-shows-revival-in-on-set-panel/">Save to Pocket</a>
@@ -319,8 +912,8 @@ California State University, Northridge women&#8217;s rugby team kicked off the 
 
 date: 2024-02-27, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 27 at 11:34 a.m.</em>
 A recent $10 million pledge from UCLA alumni Helen and Morgan Chu will help support and strengthen the university’s ethnic studies research.
-The February pledge will establish four endowed chairs for the Institute of American Cultures’ research centers – including an academic chair at the Asian American Studies Center and directors’ chairs at the American Indian Studies Center, the Chicano Studies Research Center and the Ralph J.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/26/alumni-donate-10m-to-support-ethnic-studies-research-centers-at-ucla/">https://dailybruin.com/2024/02/26/alumni-donate-10m-to-support-ethnic-studies-research-centers-at-ucla/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/26/alumni-donate-10m-to-support-ethnic-studies-research-centers-at-ucla/">Save to Pocket</a>
@@ -332,6 +925,7 @@ The February pledge will establish four endowed chairs for the Institute of Amer
 
 date: 2024-02-27, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 27 at 8:48 p.m.</em>
 Businesses can now apply for the permanent Al Fresco outdoor dining program and financial assistance to help business owners transition to the program, Mayor Karen Bass announced Feb.
 
 <span class="feed-item-link">
@@ -529,7 +1123,9 @@ For children living near U.S. highways, a transition to zero-emission electric v
 
 date: 2024-02-26, from: The Daily Trojan (USC Student Newspaper)
 
-The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/26/classifieds-february-26-2024/">Classifieds &#8211; February 26, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/26/classifieds-february-26-2024/">https://dailytrojan.com/2024/02/26/classifieds-february-26-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/26/classifieds-february-26-2024/">Save to Pocket</a>
@@ -541,7 +1137,9 @@ The Daily Trojan features Classified advertising in each day's edition.  Here yo
 
 date: 2024-02-26, from: The Daily Trojan (USC Student Newspaper)
 
-The class of 2027 showed off its talent, rhythm and creativity Thursday night.
+<p>The class of 2027 showed off its talent, rhythm and creativity Thursday night.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/26/kaufmans-fresh-sesh-welcomes-new-dancers/">Kaufman&#8217;s &#8216;Fresh Sesh&#8217; welcomes new dancers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/26/kaufmans-fresh-sesh-welcomes-new-dancers/">https://dailytrojan.com/2024/02/26/kaufmans-fresh-sesh-welcomes-new-dancers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/26/kaufmans-fresh-sesh-welcomes-new-dancers/">Save to Pocket</a>
@@ -553,7 +1151,9 @@ The class of 2027 showed off its talent, rhythm and creativity Thursday night.
 
 date: 2024-02-26, from: The Daily Trojan (USC Student Newspaper)
 
-Thornton Symphony played students’ abstract musical compositions Friday night.
+<p>Thornton Symphony played students’ abstract musical compositions Friday night.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/26/innovative-artistry-drives-student-composers/">Innovative artistry drives student composers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/26/innovative-artistry-drives-student-composers/">https://dailytrojan.com/2024/02/26/innovative-artistry-drives-student-composers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/26/innovative-artistry-drives-student-composers/">Save to Pocket</a>
@@ -565,7 +1165,9 @@ Thornton Symphony played students’ abstract musical compositions Friday night.
 
 date: 2024-02-26, from: The Daily Trojan (USC Student Newspaper)
 
-Two graduate students won a DPS award for treating a student’s critical wounds.
+<p>Two graduate students won a DPS award for treating a student’s critical wounds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/26/dps-honors-life-saving-students/">DPS honors life-saving students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/26/dps-honors-life-saving-students/">https://dailytrojan.com/2024/02/26/dps-honors-life-saving-students/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/26/dps-honors-life-saving-students/">Save to Pocket</a>
@@ -577,7 +1179,9 @@ Two graduate students won a DPS award for treating a student’s critical wounds
 
 date: 2024-02-26, from: The Daily Trojan (USC Student Newspaper)
 
-USC received a gold star sustainability rating for 2023, up from silver in 2021.
+<p>USC received a gold star sustainability rating for 2023, up from silver in 2021.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/26/usc-sustainability-ranking/">University reaches new sustainability goal</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/26/usc-sustainability-ranking/">https://dailytrojan.com/2024/02/26/usc-sustainability-ranking/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/26/usc-sustainability-ranking/">Save to Pocket</a>
@@ -603,7 +1207,9 @@ date: 2024-02-26, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-02-26, from: The Daily Trojan (USC Student Newspaper)
 
-USC was the runner up to UCLA in its season-opening tournament in Hawai’i.
+<p>USC was the runner up to UCLA in its season-opening tournament in Hawai’i.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/26/beach-volleyball-outlasted-at-outrigger/">Beach volleyball outlasted at Outrigger</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/26/beach-volleyball-outlasted-at-outrigger/">https://dailytrojan.com/2024/02/26/beach-volleyball-outlasted-at-outrigger/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/26/beach-volleyball-outlasted-at-outrigger/">Save to Pocket</a>
@@ -615,7 +1221,9 @@ USC was the runner up to UCLA in its season-opening tournament in Hawai’i.
 
 date: 2024-02-26, from: The Daily Trojan (USC Student Newspaper)
 
-We have been idolizing our ancestors for too long, and it’s time to retire the legends.
+<p>We have been idolizing our ancestors for too long, and it’s time to retire the legends.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/26/always-tell-the-truth-about-your-family/">Let’s accept our generational history</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/26/always-tell-the-truth-about-your-family/">https://dailytrojan.com/2024/02/26/always-tell-the-truth-about-your-family/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/26/always-tell-the-truth-about-your-family/">Save to Pocket</a>
@@ -627,7 +1235,9 @@ We have been idolizing our ancestors for too long, and it’s time to retire the
 
 date: 2024-02-26, from: The Daily Trojan (USC Student Newspaper)
 
-Ethan Coen’s solo directorial debut leaves much to be desired. 
+<p>Ethan Coen’s solo directorial debut leaves much to be desired. </p>
+<p>The post <a href="https://dailytrojan.com/2024/02/26/drive-away-dolls-runs-out-of-gas-before-tallahassee/">&#8216;Drive-Away Dolls&#8217; runs out of gas before Tallahassee</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/26/drive-away-dolls-runs-out-of-gas-before-tallahassee/">https://dailytrojan.com/2024/02/26/drive-away-dolls-runs-out-of-gas-before-tallahassee/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/26/drive-away-dolls-runs-out-of-gas-before-tallahassee/">Save to Pocket</a>
@@ -653,7 +1263,9 @@ date: 2024-02-26, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-02-26, from: The Daily Trojan (USC Student Newspaper)
 
-Against UCLA Saturday, the Trojans won their first road game since Dec. 19.
+<p>Against UCLA Saturday, the Trojans won their first road game since Dec. 19.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/26/mens-basketball-stuns-bruins/">Men’s basketball stuns the Bruins</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/26/mens-basketball-stuns-bruins/">https://dailytrojan.com/2024/02/26/mens-basketball-stuns-bruins/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/26/mens-basketball-stuns-bruins/">Save to Pocket</a>
@@ -665,7 +1277,9 @@ Against UCLA Saturday, the Trojans won their first road game since Dec. 19.
 
 date: 2024-02-26, from: The Daily Trojan (USC Student Newspaper)
 
-The online world markets false authenticity, which can lead to feelings of inadequacy and mental health issues among consumers.
+<p>The online world markets false authenticity, which can lead to feelings of inadequacy and mental health issues among consumers.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/26/social-media-is-just-a-highlight-reel/">Social media is just a highlight reel</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/26/social-media-is-just-a-highlight-reel/">https://dailytrojan.com/2024/02/26/social-media-is-just-a-highlight-reel/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/26/social-media-is-just-a-highlight-reel/">Save to Pocket</a>
@@ -770,7 +1384,9 @@ And on the final rotation, the junior led off floor with yet another.
 
 date: 2024-02-25, from: The Daily Trojan (USC Student Newspaper)
 
-Viterbi students found ways to explore engineering and other facets of their lives.
+<p>Viterbi students found ways to explore engineering and other facets of their lives.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/25/daily-trojan-national-engineers-week/">Viterbi students celebrate National Engineers Week</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/25/daily-trojan-national-engineers-week/">https://dailytrojan.com/2024/02/25/daily-trojan-national-engineers-week/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/25/daily-trojan-national-engineers-week/">Save to Pocket</a>
@@ -796,7 +1412,9 @@ date: 2024-02-25, from: City of Santa Clarita
 
 date: 2024-02-25, from: The Daily Trojan (USC Student Newspaper)
 
-Henry Mode reports live from Galen Center.
+<p>Henry Mode reports live from Galen Center.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/25/usc-vs-utah-live-updates-2/">USC vs. Utah — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/25/usc-vs-utah-live-updates-2/">https://dailytrojan.com/2024/02/25/usc-vs-utah-live-updates-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/25/usc-vs-utah-live-updates-2/">Save to Pocket</a>
@@ -885,7 +1503,9 @@ The musician and mental health advocate is set to speak on a panel at UCLA&#8217
 
 date: 2024-02-25, from: The Daily Trojan (USC Student Newspaper)
 
-Darren Parry reports live from Pauley Pavilion.
+<p>Darren Parry reports live from Pauley Pavilion.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/24/usc-at-ucla-live-updates/">USC at UCLA — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/24/usc-at-ucla-live-updates/">https://dailytrojan.com/2024/02/24/usc-at-ucla-live-updates/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/24/usc-at-ucla-live-updates/">Save to Pocket</a>

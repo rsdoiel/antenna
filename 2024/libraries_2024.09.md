@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.09
-updated: 2024-02-27 09:09:33
+updated: 2024-02-28 08:06:54
 ---
 
 # libraries 2024.09
 
-(date: 2024-02-27 09:09:33)
+(date: 2024-02-28 08:06:54)
 
 ---
 
@@ -93,6 +93,34 @@ Scarborough, Joseph; Iachizzi, Monica; Schalbetter, Sina M.; Müller, Flavia S.;
 
 ---
 
+## Guest Post — From Singapore to Athens via Hong Kong: The Itinerary of Research Integrity from Scientific Research to Real-life Applications and Policy Making
+
+date: 2024-02-28, from: Scholarly Kitchen
+
+<p>Research integrity extends beyond the trustworthiness of basic research results and outputs. How can we ensure that the translation and transformation of those research results into societal outputs and governance policies are equally trustworthy?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/28/guest-post-from-singapore-to-athens-via-hong-kong-the-itinerary-of-research-integrity-from-scientific-research-to-real-life-applications-and-policy-making/">Guest Post &#8212; From Singapore to Athens via Hong Kong: The Itinerary of Research Integrity from Scientific Research to Real-life Applications and Policy Making</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/28/guest-post-from-singapore-to-athens-via-hong-kong-the-itinerary-of-research-integrity-from-scientific-research-to-real-life-applications-and-policy-making/">https://scholarlykitchen.sspnet.org/2024/02/28/guest-post-from-singapore-to-athens-via-hong-kong-the-itinerary-of-research-integrity-from-scientific-research-to-real-life-applications-and-policy-making/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/28/guest-post-from-singapore-to-athens-via-hong-kong-the-itinerary-of-research-integrity-from-scientific-research-to-real-life-applications-and-policy-making/">Save to Pocket</a>
+</span>
+
+---
+
+## Find Yourself in Copyright: A Fair Use Week Webinar with the US Copyright Office
+
+date: 2024-02-27, from: Association of Research Libraries News
+
+<p>Last Updated on February 27, 2024, 4:41 pm ET To kick off the 11th annual Fair Use Week, ARL was delighted to host a webinar featuring George Thuronyi, deputy director...</p>
+<p>The post <a href="https://www.arl.org/blog/find-yourself-in-copyright-a-fair-use-week-webinar-with-the-us-copyright-office/">Find Yourself in Copyright: A Fair Use Week Webinar with the US Copyright Office</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/blog/find-yourself-in-copyright-a-fair-use-week-webinar-with-the-us-copyright-office/">https://www.arl.org/blog/find-yourself-in-copyright-a-fair-use-week-webinar-with-the-us-copyright-office/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/blog/find-yourself-in-copyright-a-fair-use-week-webinar-with-the-us-copyright-office/">Save to Pocket</a>
+</span>
+
+---
+
 ## February 2024
 
 date: 2024-02-27, from: Association of Research Libraries News
@@ -137,7 +165,7 @@ A middle-aged spinster rents a country home for the summer and finds herself in 
 
 date: 2024-02-26, from: Association of Research Libraries News
 
-<p>Last Updated on February 26, 2024, 3:23 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 27 &#124; Wednesday, February 28 &#124; Thursday,...</p>
+<p>Last Updated on February 27, 2024, 5:20 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 27 &#124; Wednesday, February 28 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-26-29/">Day in Review (February 26–29)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 

@@ -1,11 +1,162 @@
 ---
 title: motorcycles 2024.09
-updated: 2024-02-27 09:09:33
+updated: 2024-02-28 08:06:54
 ---
 
 # motorcycles 2024.09
 
-(date: 2024-02-27 09:09:33)
+(date: 2024-02-28 08:06:54)
+
+---
+
+## Recall: Some AGV Tourmodular Helmets Could Have Buckle Not Engage
+
+date: 2024-02-28, from: Ride Apart, Electric Motorcycle News
+
+On affected units, the micrometric buckle could fail to engage properly, not securing the helmet on a rider's head.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710363/agv-tourmodular-helmet-safety-recall/">https://www.rideapart.com/news/710363/agv-tourmodular-helmet-safety-recall/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710363/agv-tourmodular-helmet-safety-recall/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Lucky’ Leahy Steals eNASCAR Victory in Las Vegas Thriller
+
+date: 2024-02-28, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor With luck on his side, 23XI Racing’s Keegan Leahy stole his first win in the eNASCAR Coca-Cola iRacing Series since the 2022 season finale. A&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/esports/leahy-steals-enascar-win-vegas-thriller/">https://kickinthetires.net/esports/leahy-steals-enascar-win-vegas-thriller/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/esports/leahy-steals-enascar-win-vegas-thriller/">Save to Pocket</a>
+</span>
+
+---
+
+## Why Pictures
+
+date: 2024-02-28, from: Herman Bear Blog
+
+<p>For a brief period circa 2016 I wrote and published a weekly webcomic. I wanted to run a <em>successful</em> webcomic along the lines of <a href="https://poorlydrawnlines.com" target="_blank">Poorly Drawn Lines</a>, <a href="https://www.oglaf.com" target="_blank">Oglaf</a>, or <a href="https://theoatmeal.com" target="_blank">The Oatmeal</a>. I love reading these and am always thrilled when one pops up on my RSS feed.</p>
+<p>Prior to this experiment I didn't appreciate the sheer amount of effort that goes into ideation, creation, and publishing of even short webcomics, let alone full-blown comic books. Needless to say, I've come to respect comic artists even more.</p>
+<p>Considering I released the domain <code>whypictures.com</code> about 2 years ago, I thought it may be nice to archive my abandoned comics here. Some of them are funny, most of them are just plain dumb.</p>
+<p>Enjoy!</p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-13.jpeg"/></p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-14.jpeg"/></p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-12.jpeg"/></p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-11.jpeg"/></p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-10.jpeg"/></p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-1.jpeg"/></p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-0.jpeg"/></p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-9.jpeg"/></p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-8.jpeg"/></p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-7.jpeg"/></p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-6.jpeg"/></p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-5.jpeg"/></p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-4.jpeg"/></p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-3.jpeg"/></p>
+<p><img alt="ᕕ( ᐛ )ᕗ Herman's blog" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/herman-1709124928-2.jpeg"/></p>
+<h5 id="enjoyed-the-article-i-write-about-1-2-a-month-subscribe-via-email-or-rss-feed">Enjoyed the article? I write about 1-2 a month. Subscribe via <a href="/subscribe/">email</a> or <a href="/feed/">RSS feed</a>.</h5>
+
+<span class="feed-item-link">
+<a href="https://herman.bearblog.dev/why-pictures/">https://herman.bearblog.dev/why-pictures/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://herman.bearblog.dev/why-pictures/">Save to Pocket</a>
+</span>
+
+---
+
+## Early Misfortune “Just The Beginning of the Story” for Riggs, Cappello
+
+date: 2024-02-28, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer Front Row Motorsports has taken NASCAR by storm to start the 2024 season at the sport’s top level with strong performances in back-to-back weeks from&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/early-misfortune-just-the-beginning-of-the-story-for-riggs-cappello/">https://kickinthetires.net/nascar/early-misfortune-just-the-beginning-of-the-story-for-riggs-cappello/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/early-misfortune-just-the-beginning-of-the-story-for-riggs-cappello/">Save to Pocket</a>
+</span>
+
+---
+
+## Keeway Announces First US Models for 2024
+
+date: 2024-02-27, from: Cycle World News
+
+Keeway has announced its new batch of US models for the 2024 model year. Maxi and midi scooters and a small-bore V-twin cruiser are included.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/keeway-announces-first-us-models/">https://www.cycleworld.com/bikes/keeway-announces-first-us-models/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/keeway-announces-first-us-models/">Save to Pocket</a>
+</span>
+
+---
+
+## BMW Adjustable Footpeg Patent
+
+date: 2024-02-27, from: Cycle World News
+
+Adjustable footpegs are nothing new, but the lack of a rear brake pedal and shifter on an electric motorcycle opens the door to simple execution.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/bmw-adjustable-footpeg-patent/">https://www.cycleworld.com/motorcycle-news/bmw-adjustable-footpeg-patent/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/bmw-adjustable-footpeg-patent/">Save to Pocket</a>
+</span>
+
+---
+
+## A Sneak Peak At Ducati’s Desmo450 MX In Action With Tony Cairoli
+
+date: 2024-02-27, from: Ride Apart, Electric Motorcycle News
+
+We'll take every opportunity to see Ducati's Desmo450 MX rip, and with Tony Cairoli behind the bars, it certainly does.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710328/ducati-mx-450-tony-cairoli/">https://www.rideapart.com/news/710328/ducati-mx-450-tony-cairoli/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710328/ducati-mx-450-tony-cairoli/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Harley Street Glide & Road Glide First Ride Review
+
+date: 2024-02-27, from: Cycle World News
+
+Harley-Davidson’s 2024 Road Glide and Street Glide models now feature a 117ci V-twin, updated chassis, and all-new electronics.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/">https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/">Save to Pocket</a>
+</span>
+
+---
+
+## Mash Releases Awesome-Looking New B-Side Sidecar
+
+date: 2024-02-27, from: Ride Apart, Electric Motorcycle News
+
+Are three wheels better than two? 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710020/mash-bside-motorcycle-sidecar-europe/">https://www.rideapart.com/news/710020/mash-bside-motorcycle-sidecar-europe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710020/mash-bside-motorcycle-sidecar-europe/">Save to Pocket</a>
+</span>
+
+---
+
+## It's Not AI: Here's Video Proof That 48 Cylinder Kawasaki Is Real
+
+date: 2024-02-27, from: Ride Apart, Electric Motorcycle News
+
+The noted UK-based two-stroke lovers at 999 Lazer got up close and personal with this absolutely mental build.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710345/closeup-video-48-cylinder-kawasaki/">https://www.rideapart.com/news/710345/closeup-video-48-cylinder-kawasaki/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710345/closeup-video-48-cylinder-kawasaki/">Save to Pocket</a>
+</span>
+
+---
+
+## Henry Barton Joins Nascimento Motorsports For Late Model, ARCA Competition
+
+date: 2024-02-27, from: Kickin the Tires blog
+
+MANTECA, CALIFORNIA (February 26, 2024) –&#160;17-year-old Henry Barton of San Fransisco has teamed up with Nascimento Motorsports for a 2024 campaign across Pro Late Models and the ARCA Menards Series&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/henry-barton-joins-nascimento-motorsports-for-late-model-arca-competition/">https://kickinthetires.net/nascar/henry-barton-joins-nascimento-motorsports-for-late-model-arca-competition/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/henry-barton-joins-nascimento-motorsports-for-late-model-arca-competition/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -29,18 +180,6 @@ Black and gold garb gives this mini-moto a royal flair.
 
 <span class="feed-item-link">
 <a href="https://www.rideapart.com/news/710018/honda-monkey-king-special-custom-edition/">https://www.rideapart.com/news/710018/honda-monkey-king-special-custom-edition/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710018/honda-monkey-king-special-custom-edition/">Save to Pocket</a>
-</span>
-
----
-
-## 2024 Harley Street Glide & Road Glide First Ride Review
-
-date: 2024-02-26, from: Cycle World News
-
-Harley-Davidson’s 2024 Road Glide and Street Glide models now feature a 117ci V-twin, updated chassis, and all-new electronics.
-
-<span class="feed-item-link">
-<a href="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/">https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/">Save to Pocket</a>
 </span>
 
 ---
@@ -69,7 +208,7 @@ Zero is looking at a means to give riders more control via a simulated clutch, t
 
 ---
 
-## Polaris Issues Stop Ride Recall On Some 2022-2024 Snowmobiles
+## UPDATE: Polaris Issues Stop Ride Recall On Some 2022-2024 Snowmobiles
 
 date: 2024-02-26, from: Ride Apart, Electric Motorcycle News
 
@@ -225,7 +364,7 @@ ARLINGTON, Texas – AT&#38;T Stadium may need to build a statue of Cooper Webb 
 
 ---
 
-## This Kigumi Suzuki Hayabusa Puzzle May Take 2,500 Years To Put Together
+## This Suzuki Hayabusa Puzzle May Take 2,500 Years To Put Together
 
 date: 2024-02-25, from: Ride Apart, Electric Motorcycle News
 

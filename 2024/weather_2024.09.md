@@ -1,11 +1,154 @@
 ---
 title: weather 2024.09
-updated: 2024-02-27 09:09:32
+updated: 2024-02-28 08:06:53
 ---
 
 # weather 2024.09
 
-(date: 2024-02-27 09:09:32)
+(date: 2024-02-28 08:06:53)
+
+---
+
+## SPC - No watches are valid as of Wed Feb 28 15:16:01 UTC 2024
+
+date: 2024-02-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Wed Feb 28 15:16:01 UTC 2024.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC MD 176
+
+date: 2024-02-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0176.html"><img src="https://www.spc.noaa.gov/products/md/mcd0176.png" border="1" alt="MD 0176 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0176
+NWS Storm Prediction Center Norman OK
+0856 AM CST Wed Feb 28 2024
+
+Areas affected...TN Valley to southern Appalachians
+
+Concerning...Severe potential...Watch unlikely 
+
+Valid 281456Z - 281700Z
+
+Probability of Watch Issuance...20 percent
+
+SUMMARY...Southern portion of a low-topped squall line should
+continue eastward across parts of the Tennessee Valley through at
+least midday. Strong to localized severe wind gusts capable of
+sporadic damage should be the primary threat.
+
+DISCUSSION...The southern portion of a long, but thin, low-topped
+(echo tops to around 30k ft) squall line extends as far south as
+northeast MS. Large-scale ascent, outside of low-level convergence
+attendant to the southeast-moving cold front, will be gradually
+weakening across the region into the afternoon. However, a few cloud
+breaks noted ahead of the line should yield modest boundary-layer
+destabilization. In conjunction with the northeast extent of low 60s
+surface dew points, the relatively more favorable thermodynamic
+environment should compensate for the diminishing ascent and will
+probably sustain the low-topped convective line eastward through at
+least midday. This scenario is generally supported by 12Z CAM
+guidance. With veered surface and low-level flow, increasing to
+40-45 kts at 1 km AGL, the primary threat should be strong to
+locally severe surface gusts, peaking in the 50-65 mph range. A
+53-kt gust was measured at KMSL at 1437Z.
+
+..Grams/Guyer.. 02/28/2024
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...GSP...MRX...FFC...OHX...BMX...HUN...MEG...JAN...
+
+LAT...LON   35578600 35818470 35458401 35098380 34608371 34258386
+            33948462 33558572 33448683 33518828 33618872 34638751
+            35578600 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0176.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/md0176.html">https://www.spc.noaa.gov/products/md/md0176.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/md0176.html">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Feb 28, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-02-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0659 AM CST Wed Feb 28 2024
+
+Valid 281300Z - 291200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS THE
+APPALACHIAN STATES...AND EASTWARD TO THE EASTERN U.S. COASTAL
+PLAIN...
+
+...SUMMARY...
+Isolated strong to severe gusts will be possible today from the west
+slopes of the Appalachians to western New England, the Mid-Atlantic
+Region, and portions of the Carolinas.
+
+...Synopsis...
+Mid-level troughing over the central U.S. this morning will continue
+to intensify as it gradually takes on a more negative tilt, shifting
+eastward across the eastern third of the U.S. through tonight. 
+Meanwhile, weak ridging will generally prevail over the West, ahead
+of second trough over the Gulf of Alaska digging southeastward
+toward the Pacific Northwest.
+
+At the surface, a strong cold front will cross the Appalachians
+through midday, and then continue across the eastern U.S., with the
+boundary moving off the Atlantic and Gulf Coasts this evening and
+lingering only across Florida overnight.  In the West, a cold front
+will gradually shift southeastward into/across the Pacific
+Northwest.  In between, high pressure will prevail across much of
+the country.
+
+...Appalachian states...
+Showers and thunderstorms are ongoing this morning from the Lower
+Great Lakes region southwestward to the Mississippi Delta, along and
+ahead of the advancing cold front.  The strongest storms are ongoing
+from the Upper Ohio Valley southwestward across Kentucky, where
+occasionally severe storms -- capable of producing damaging wind
+gusts and a brief tornado or two -- continue moving eastward.
+
+Instability ahead of the convection weakens with eastward extent,
+particularly east of the mountains.  However, pockets of
+near-surface-based CAPE in the 250 to 500 J/kg range will be
+possible through this afternoon -- enough to support broken/narrow
+frontal convective bands until the front moves offshore this
+evening.
+
+Despite the very weak instability, the deep-layer wind field will
+remain particularly strong -- including 40 to 60 kt as low as 1km
+AGL and increasing with height.  As such, potential for convectively
+enhanced mixing/downward momentum transport appears to be sufficient
+to suggest the possibility if isolated severe-caliber wind gusts. 
+This warrants eastward expansion of 5% wind probability/MRGL risk
+through the day, with risk ending as the front moves offshore this
+evening.
+
+..Goss/Broyles.. 02/28/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -77,18 +220,6 @@ limit sustained fire-weather concerns through the overnight hours.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No watches are valid as of Tue Feb 27 16:35:02 UTC 2024
-
-date: 2024-02-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Tue Feb 27 16:35:02 UTC 2024.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
 </span>
 
 ---
@@ -262,102 +393,6 @@ tornadoes if the activity remains surface-based.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Feb 27, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-02-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0658 AM CST Tue Feb 27 2024
-
-Valid 271300Z - 281200Z
-
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE MIDWEST
-VICINITY...
-
-...SUMMARY...
-Scattered strong to severe thunderstorms, associated with large hail
-(some 2 inches diameter), damaging gusts, and a few tornadoes will
-be possible from late this afternoon into the evening and overnight,
-from parts of the mid Mississippi Valley to the Ohio Valley and
-southern Great Lakes.
-
-...Synopsis...
-A progressive upper trough over the western U.S. this morning is
-forecast to advance steadily eastward into/across the Plains this
-afternoon and evening, and then onward toward the Mid and Upper
-Mississippi Valley overnight.
-
-In tandem with the advance of this feature, a strengthening surface
-cold front currently stretching from the Upper Mississippi Valley to
-northeastern Colorado will continue plunging southeastward across
-the Plains through the day.  A somewhat ill-defined frontal low will
-gradually consolidate into this evening over the northern Illinois
-vicinity, moving northeastward across Lower Michigan overnight.  As
-it does, the trailing cold front will continue to surge
-southward/southeastward into/across the Midwest/Mid Mississippi
-Valley/Southern Plains overnight.  By 12Z Wednesday, the front
-should extend from Lake Huron, south across the Middle Ohio Valley,
-and then southwestward across the Tennessee valley to the Texas
-Coastal Plain.
-
-...The Midwest vicinity...
-Ahead of the advancing cold front, southerly low-level flow will
-continue to advect low-level moisture northward, beneath a low-level
-inversion/cap evident in morning RAOBs from the southern Plains into
-the Midwest.  Evolution of this gradually moistening but capped
-low-level airmass will likely be a key determinant with respect to
-degree of convective evolution -- and the intensity thereof -- late
-this afternoon/and this evening.
-
-Low-level airmass concerns aside, the evolving scenario otherwise
-remains favorable for severe potential across the Midwest and
-vicinity.  Steep lapse rates are evident above the low-level
-inversion, and increasingly strong deep-layer flow will accompany
-the advance of the upper system, and gradual consolidation of the
-surface frontal low.  As such, from a broad dynamic and kinematic
-perspective, the pattern continues to appear favorable.
-
-Thermodynamically, there remain concerns that the boundary layer
-will remain somewhat cool/stable, relative to the warmer air in the
-roughly 900 to 800 mb layer.  Further, heating/mixing will also
-result in mixing out, to some degree, of the shallow surface-based
-moisture returning northward on low-level southerly flow within the
-developing warm sector.  With all that said, 500 to 1000 J/kg
-mixed-layer CAPE should characterize the boundary layer by late
-afternoon/early evening, as the front approaches.  This will result
-in isolated to scattered storm development -- initially over the
-northern Illinois vicinity but later farther south nearer the Ohio
-Valley -- possibly in a somewhat bimodal manner with a relative
-minimum in between.  Eventually, through mid to late evening,
-increasingly widespread storms should be expanding across the
-Midwest/Ohio Valley region, which will then continue eastward across
-the Upper Ohio Valley and toward the central Appalachians through
-the end of the period.
-
-Given the favorable kinematic environment, at least isolated
-organized/rotating storms are expected, with some upscale growth
-into bands possibly occurring overnight and spreading eastward with
-time.  Along with potential for large hail -- locally near 2" in
-diameter, locally strong/damaging wind gusts are also expect with
-stronger storms/storm clusters.  Additionally, a few tornadoes may
-also occur, though uncertainties regarding low-level
-moisture/instability suggest overall tornado potential should remain
-limited.
-
-..Goss/Broyles.. 02/27/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
 </span>
 
 ---

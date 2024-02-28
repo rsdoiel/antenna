@@ -1,11 +1,11 @@
 ---
 title: tech likely 2024.09
-updated: 2024-02-27 09:09:32
+updated: 2024-02-28 08:06:53
 ---
 
 # tech likely 2024.09
 
-(date: 2024-02-27 09:09:32)
+(date: 2024-02-28 08:06:53)
 
 ---
 
@@ -17,6 +17,550 @@ Lu Y.; Springer C.; Steffen B.
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/646230">http://hdl.handle.net/20.500.11850/646230</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/646230">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-28, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/28/scriptingNewsLogo.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">There are a lot of blogging communities out there in 2024, but we don't think of them that way. But they totally behave like a blogging community. I remember when I was starting <a href="https://web.archive.org/web/20000621103057/http://www.weblogs.com/">weblogs.com</a>, I wanted to get an idea of when sites were updating, so I didn't have to go hunting through a blogroll, clicking on links to find out if there was anything new. So I wrote a script that worked off a list of blogs, read each one in turn, and compared it with the last version we read, and if there was a change, it would move it to the top of the list. I didn't just make it for myself, I shared it with everyone. There was a mail list where people were freaking out about this. The server that would read their blog every so often was called <a href="https://www.google.com/search?q=site%3Ascripting.com+subhonker">subhonker</a>. This was something new and they were scared. I couldn't show them the benefit until the script had been running for a while. Everyone got upset. I remember being confused and scared, but I guess from their point of view it looked scary. I don't know. In the end weblogs.com became really popular, it became the central place to find out what's new with blogs, and then evolved to use RSS so we could find changes in even more detail. I guess the thing is people should see the benefit before they see the price? And as an innovator, we have to be aware of this, people may not see the benefit until they can <i>use</i> it.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/28.html#a154126">http://scripting.com/2024/02/28.html#a154126</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/28.html#a154126">Save to Pocket</a>
+</span>
+
+---
+
+## How Selective Forgetting Can Help AI Learn Better
+
+date: 2024-02-28, from: Quanta Magazine
+
+Erasing key information during training results in machine learning models that can learn new languages faster and more easily.            <p>The post <a href="https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/" target="_blank">How Selective Forgetting Can Help AI Learn Better</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/">https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/how-selective-forgetting-can-help-ai-learn-better-20240228/">Save to Pocket</a>
+</span>
+
+---
+
+##  Bookstores should ditch the short-term thinking of efficiency & bring back big,... 
+
+date: 2024-02-28, updated: 2024-02-28, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044074-bookstores-should-ditch-t">https://kottke.org/24/02/0044074-bookstores-should-ditch-t</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044074-bookstores-should-ditch-t">Save to Pocket</a>
+</span>
+
+---
+
+## Listen to the Universe: New NASA Sonifications and Documentary
+
+date: 2024-02-28, from: NASA breaking news
+
+Three new sonifications of images from NASA’s Chandra X-ray Observatory and other telescopes have been released in conjunction with a new documentary about the project that makes its debut on the NASA+ streaming platform. Sonification is the process of translating data into sounds. In the case of Chandra and other telescopes, scientific data are collected [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/chandra/listen-to-the-universe-new-nasa-sonifications-and-documentary/">https://www.nasa.gov/missions/chandra/listen-to-the-universe-new-nasa-sonifications-and-documentary/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/chandra/listen-to-the-universe-new-nasa-sonifications-and-documentary/">Save to Pocket</a>
+</span>
+
+---
+
+## MAF EAP – Holiday Blues and SAD: Discussion
+
+date: 2024-02-28, from: NASA breaking news
+
+The winter months provide some of the biggest challenges to wellness during the year. The stress of the holidays, the pressure of the new year, and the risk of Seasonal Affective Disorder (SAD) take a toll and can become problematic if we do not care for ourselves.&#160;These stressors can impact appropriate healthy practices, related to [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holiday-blues-and-sad-discussion/">https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holiday-blues-and-sad-discussion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holiday-blues-and-sad-discussion/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024-02-28 Use of a calendar
+
+date: 2024-02-28, from: Alex Schroeder's Blog
+
+<h1>2024-02-28 Use of a calendar</h1>
+
+<p>In the last millennium, I used the <a href="https://www.gnu.org/software/emacs/manual/html_node/emacs/Diary.html">Emacs Diary</a> for my calendar. I mean, why not? The <a href="https://www.gnu.org/software/emacs/manual/html_node/emacs/Calendar_002fDiary.html">Emacs Calendar</a> is great. Better than the <code>cal</code> command-line utility, in any case. But eventually the world got mobile phones then I wanted an online calendar.</p>
+
+<p>The example from the Emacs Diary documentation:</p>
+
+<pre><code>12/22/2015  Twentieth wedding anniversary!
+10/22       Ruth's birthday.
+* 21, *:    Payday
+Tuesday--weekly meeting with grad students at 10am
+         Supowit, Shen, Bitner, and Kapoor to attend.
+1/13/89     Friday the thirteenth!!
+thu 4pm     squash game with Lloyd.
+mar 16      Dad's birthday
+April 15, 2016 Income tax due.
+* 15        time cards due.
+</code></pre>
+
+<p>Back then, Google didn&rsquo;t want to be evil and I used Google Calendar.
+When Google changed its mind, so did I.
+I switched to <a href="2020-06-10_Radicale_for_Calendar_and_Contacts">Radicale</a>.</p>
+
+<p>And yet, I sort of missed those diary file entries.</p>
+
+<p>Today, <a class="account" href="https://social.tadzik.net/users/tadzik" title="@tadzik@social.tadzik.net">@tadzik</a> posted a link to <a href="https://codeberg.org/tadzik/caleb">caleb</a>.</p>
+
+<blockquote>
+<p><code>caleb</code> will do its best to interpret a calendar event description, create a valid iCalendar event for it and optionally upload it to a CalDAV server.</p>
+</blockquote>
+
+<p>Nice!</p>
+
+<p>Example usage, from the README:</p>
+
+<pre><code>$ caleb friday 5pm beer
+</code></pre>
+
+<p>My main problem was that it took me a while to figure out what the correct <a href="https://en.wikipedia.org/wiki/CalDAV">CalDAV</a> URL is. I looked into my iPhone accounts (my first mistake) and tried <code>https://example.org/radicale/alex</code>, then <code>https://example.org/radicale/alex/</code>, then <code>https://example.org/radicale/alex/Alex</code> – some of these URLs failed silently, some of them created new collections with the <a href="https://en.wikipedia.org/wiki/ICalendar">iCalendar</a> filename as the collection name… and I didn&rsquo;t get an warnings or error messages. I mean, it makes sense. It&rsquo;s like a filesystem, you can save whatever you want. But it&rsquo;s not what the calendar apps expect.</p>
+
+<p>So, how do I discover the correct URL? Using a command-line <a href="https://en.wikipedia.org/wiki/WebDAV">WebDAV</a> explorer like <code>cadaver</code>. The following example shows how I log into Radicale and list the contents of the two directory I found. One of them is full of <code>.vcf</code> files (contacts), the other is full of <code>.ics</code> files (calendar entries). That&rsquo;s the one!</p>
+
+<pre>
+~/src/caleb $ <b>cadaver https://example.org/radicale/alex/</b>
+Authentication required for Radicale - Password Required on server `example.org':
+Username: <b>alex</b>
+Password: <b>*secret*</b>
+
+dav:/radicale/alex/&gt; <b>ls</b>
+Listing collection `/radicale/alex/': succeeded.
+Coll:   6304bd43-5d45-208b-0e44-893e509cf3da    1239216  Feb  7 08:13
+Coll:   cae8e041-61d9-b51a-57db-294b07e8dc1e     520978  Feb 28 11:43
+dav:/radicale/alex/&gt; <b>ls 6304bd43-5d45-208b-0e44-893e509cf3da</b>
+Listing collection `/radicale/alex/6304bd43-5d45-208b-0e44-893e509cf3da/': succeeded.
+        0008345A-1EFB-4FC2-9545-BB1D7B2EE6E0.vcf        295  Jun 19  2020
+        000ED281-A0C8-46F2-B3EB-1D13E4224281.vcf        241  Feb 25  2023
+        007A5E7D-8947-4FC1-95B5-BBADEA9E27DC.vcf        267  Jul 14  2023
+        ...
+dav:/radicale/alex/&gt; <b>ls cae8e041-61d9-b51a-57db-294b07e8dc1e</b>
+Listing collection `/radicale/alex/cae8e041-61d9-b51a-57db-294b07e8dc1e/': succeeded.
+        00A3A923-47C0-4BE4-B2BF-E365965C3975.ics       1043  May 29  2022
+        011F4EF6-B431-4531-BB3D-D1E45BD665AB.ics       1266  Sep 10 00:19
+        02909CE2-D363-436B-858D-3A243A10693E.ics        962  Jun  9  2023
+        ...
+</pre>
+
+<p>Now I&rsquo;m finally ready to go back to <code>caleb</code> and create the config file, <code>~/.config/caleb.conf</code>:</p>
+
+<pre><code>[caldav]
+url = &quot;https://example.org/radicale/alex/cae8e041-61d9-b51a-57db-294b07e8dc1e&quot;
+username = &quot;alex&quot;
+password = &quot;*secret*&quot;
+</code></pre>
+
+<p>Enjoy!</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Caleb">#Caleb</a> <a class="tag" href="/search/?q=%23CalDAV">#CalDAV</a> <a class="tag" href="/search/?q=%23WebDAV">#WebDAV</a></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-02-28-calendar">https://alexschroeder.ch/view/2024-02-28-calendar</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-02-28-calendar">Save to Pocket</a>
+</span>
+
+---
+
+## The Milk Chocolate That Creeps On Your Face
+
+date: 2024-02-28, updated: 2024-02-28, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/02/28/the-milk-chocolate-that-creeps-on-your-face/">https://onefoottsunami.com/2024/02/28/the-milk-chocolate-that-creeps-on-your-face/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/02/28/the-milk-chocolate-that-creeps-on-your-face/">Save to Pocket</a>
+</span>
+
+---
+
+## On-disk format change beckons for brave early adopters of Bcachefs
+
+date: 2024-02-28, updated: 2024-02-28, from: Liam Proven's articles at the Register
+
+<h4>New versions of both Overstreet's baby and OpenZFS will hit the street soon</h4>
+      <p>New versions of the two leading next-generations filesystems are coming: both OpenZFS 2.2.3, and some time afterwards, an improved bcachefs.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/28/new_vers_bcachefs_zfs/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/28/new_vers_bcachefs_zfs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/02/28/new_vers_bcachefs_zfs/">Save to Pocket</a>
+</span>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-02-28, from: Tomosino's Mastodon feed)
+
+<p>As promised, here's a bit of a deeper dive into Google's Consent Mode V2.</p><p><a href="https://labs.tomasino.org/cookie-consent-with-google-consent-mode-v2/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">labs.tomasino.org/cookie-conse</span><span class="invisible">nt-with-google-consent-mode-v2/</span></a></p><p><a href="https://tilde.zone/tags/analytics" class="mention hashtag" rel="tag">#<span>analytics</span></a> <a href="https://tilde.zone/tags/google" class="mention hashtag" rel="tag">#<span>google</span></a> <a href="https://tilde.zone/tags/cookie" class="mention hashtag" rel="tag">#<span>cookie</span></a> <a href="https://tilde.zone/tags/advertising" class="mention hashtag" rel="tag">#<span>advertising</span></a></p>
+
+<span class="feed-item-link">
+<a href="https://tilde.zone/@tomasino/112008942294879275">https://tilde.zone/@tomasino/112008942294879275</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tilde.zone/@tomasino/112008942294879275">Save to Pocket</a>
+</span>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-02-28, from: Jessica Smith's blog)
+
+<p>Logged back into Tumblr for the first time in ages to <a href="https://sunny.garden/@fringemagnet/112008212139935185">opt out of my data being used to train AI<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> (and found it was pre-opted out, apparently because I&rsquo;d already opted out of being indexed by search engines). This prompted me to, once again, do the old mental dance of &ldquo;Ugh, I haven&rsquo;t even used this account in years, should I just delete it?&rdquo; followed by &ldquo;But I&rsquo;d want a backup first&hellip;&rdquo; culminating in the power move of &ldquo;omg how many thousands of photos and gifsets did I reblog on this account? The backup&rsquo;s going to be like 100GB!&rdquo; (OK, I guess that&rsquo;s not a power move? The &ldquo;dancing&rdquo; metaphor got away from me a bit.) I really don&rsquo;t even care about 99% of this; I just want the political theory stuff I had so meticulously tagged. I requested an export anyway, but if what it produces doesn&rsquo;t let me browse posts by tag (as I suspect it won&rsquo;t) it won&rsquo;t be very useful to me.</p>
+<p>Oh and, I also found that my crazy online hater who&rsquo;s been sending me the odd hateful screed since I was literally 16 years old sent another couple just last month. Sounds like they&rsquo;ve embraced full-on Nazism now, which makes a change from when they were just obsessed with Michael Jackson. (Basically, this person hates me because my teenage self made a really sensitive and nuanced blog post, as 16-year-olds do, that I didn&rsquo;t care about ol&rsquo; <abbr title="Michael Jackson">MJ</abbr> dying because he was probably a pedo. Little did I know I was creating a nemesis who would dog me until the end of time&hellip;)</p>
+
+<span class="feed-item-link">
+<a href="https://www.jayeless.net/2024/02/logged-back-into-tumblr.html">https://www.jayeless.net/2024/02/logged-back-into-tumblr.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jayeless.net/2024/02/logged-back-into-tumblr.html">Save to Pocket</a>
+</span>
+
+---
+
+## Let Raspberry Pi spot the aurora borealis for you while you stay warm (and asleep)
+
+date: 2024-02-28, from: Raspberry Pi News (.com)
+
+<p>Frank Prins was inspired to build an all-sky camera following a magical trip to Svalbard in Norway. His budget-friendly design uses a Raspberry Pi 4, a Raspberry Pi PoE+ HAT, and a Raspberry Pi High Quality Camera.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/let-raspberry-pi-spot-the-aurora-borealis-for-you-while-you-stay-warm-and-asleep/">Let Raspberry Pi spot the aurora borealis for you while you stay warm (and asleep)</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/let-raspberry-pi-spot-the-aurora-borealis-for-you-while-you-stay-warm-and-asleep/">https://www.raspberrypi.com/news/let-raspberry-pi-spot-the-aurora-borealis-for-you-while-you-stay-warm-and-asleep/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/let-raspberry-pi-spot-the-aurora-borealis-for-you-while-you-stay-warm-and-asleep/">Save to Pocket</a>
+</span>
+
+---
+
+## Many people don't know that nuclear power is low-carbon
+
+date: 2024-02-28, from: Hannah Richie at Substack
+
+Less than half of Brits say that nuclear is a low-carbon source of energy.
+
+<span class="feed-item-link">
+<a href="https://www.sustainabilitybynumbers.com/p/nuclear-low-carbon">https://www.sustainabilitybynumbers.com/p/nuclear-low-carbon</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.sustainabilitybynumbers.com/p/nuclear-low-carbon">Save to Pocket</a>
+</span>
+
+---
+
+**@Jessica Smith's blog** (date: 2024-02-28, from: Jessica Smith's blog)
+
+<p>Last night I was cooking a chicken stew, and I had to double-check my recipe to remember which herbs I put in it (rosemary, thyme, basil, sage and a bay leaf). As I was grabbing the little jars out of the cupboard, it occurred to me that this list is pretty similar to that famous lyric – <q>parsley, sage, rosemary and thyme</q> – and wondered, &ldquo;Hmm, why is it I never put parsley in this? Or, actually, into anything?&rdquo; So I pulled out my little jar of parsley, gave the contents a sniff (parsley really doesn&rsquo;t have a very appealing smell, hey) and read the description on the jar&rsquo;s side:</p>
+<blockquote>
+<p>A popular herb used to garnish or add a touch of colour to your favourite meal. Great with sauces and egg dishes.</p>
+</blockquote>
+<p>&ldquo;Oh yeah!&rdquo; I remembered. &ldquo;Parsley is so crap that even the parsley jar can only suggest adding it to anything for cosmetic reasons. That&rsquo;s why I never use it.&rdquo;</p>
+<p>Clearly, it&rsquo;s time we change the line in that song to &ldquo;basil, sage, rosemary and thyme&rdquo;. And a bay leaf.</p>
+
+<span class="feed-item-link">
+<a href="https://www.jayeless.net/2024/02/parsley-sage-rosemary-and-thyme.html">https://www.jayeless.net/2024/02/parsley-sage-rosemary-and-thyme.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jayeless.net/2024/02/parsley-sage-rosemary-and-thyme.html">Save to Pocket</a>
+</span>
+
+---
+
+## The Yak Shave
+
+date: 2024-02-28, from: Marginallia log
+
+I set out a little over a week ago to add a service registry to Marginalia Search, primarily to reduce its dependence on docker. I would like it to be able to run on bare metal as well, which poses a problem since configuring the application manually is a bit of a headache with dozens of ports that need to be set up. It would also be desirable to be able to run multiple instances of important services in order elliminate downtime during upgrades.
+
+<span class="feed-item-link">
+<a href="https://www.marginalia.nu/log/a_102_yak_shave/">https://www.marginalia.nu/log/a_102_yak_shave/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.marginalia.nu/log/a_102_yak_shave/">Save to Pocket</a>
+</span>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2024-02-27, from: Tomosino's Mastodon feed)
+
+<p><a href="https://github.com/jamestomasino/cookieconsent/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/jamestomasino/cooki</span><span class="invisible">econsent/</span></a></p><p>I made an open source cookie banner solution for Google's new Consent V2 shenanigans. I'll do a proper write-up soon that includes GTM configuration info. In the meantime if you need a free solution maybe this will help.</p>
+
+<span class="feed-item-link">
+<a href="https://tilde.zone/@tomasino/112005961614686794">https://tilde.zone/@tomasino/112005961614686794</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tilde.zone/@tomasino/112005961614686794">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-27, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/01/26/cartoonChicken.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://www.nytimes.com/2024/02/27/climate/scientists-are-freaking-out-about-ocean-temperatures.html">Ocean warming</a> is a bad thing. Ocean currents determine the weather all around the world, accounting for a relatively mild environment in Europe, for example, even though a city like London is on the same parallel as <a href="https://en.wikipedia.org/wiki/Winnipeg#Climate">Winnipeg</a>. Once the current is disrupted, people will find their buildings are not prepared for the change, or the cost of heating homes, or growing food.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/27.html#a230641">http://scripting.com/2024/02/27.html#a230641</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/27.html#a230641">Save to Pocket</a>
+</span>
+
+---
+
+##  To mark the 20th anniversary of Napoleon Dynamite, stars Jon Heder (Napoleon),... 
+
+date: 2024-02-27, updated: 2024-02-27, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044072-to-mark-the-20th-annivers">https://kottke.org/24/02/0044072-to-mark-the-20th-annivers</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044072-to-mark-the-20th-annivers">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-27, from: Miguel de Icaza Mastondon feed)
+
+<p>This is what it looks like in Mac mode.</p><p>Remember that this currently has the two UIs overlaid (SwiftUI + Godot) to help me during development to make sure I am not missing anything.</p><p>But I am marching towards keeping just the Canvas and the SwiftUI shell:</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/112005770260108733">https://mastodon.social/@Migueldeicaza/112005770260108733</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/112005770260108733">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-02-27, from: Miguel de Icaza Mastondon feed)
+
+<p>Got back from vacation, some progress on Project Settings and Importers.</p><p>These screenshots are running the iOS app on Mac mode, it is not running on simulator, so the colors and widgets are slightly off (but it makes it faster for me to iterate)</p><p>Left: Original Godot<br />Right: Godot SwiftUI-ificated</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/112005763372384022">https://mastodon.social/@Migueldeicaza/112005763372384022</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/112005763372384022">Save to Pocket</a>
+</span>
+
+---
+
+##  Tech has shifted from the Star Trek era (smartphones, voice computing, virtual... 
+
+date: 2024-02-27, updated: 2024-02-27, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044070-tech-has-shifted-from-the">https://kottke.org/24/02/0044070-tech-has-shifted-from-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044070-tech-has-shifted-from-the">Save to Pocket</a>
+</span>
+
+---
+
+##  Supreme Court Justice Clarence Thomas: &#8220;Today and today only, I&#8217;m offering half... 
+
+date: 2024-02-27, updated: 2024-02-27, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044071-supreme-court-justice-cla">https://kottke.org/24/02/0044071-supreme-court-justice-cla</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044071-supreme-court-justice-cla">Save to Pocket</a>
+</span>
+
+---
+
+##  Lego Letterpress Lobster 
+
+date: 2024-02-27, updated: 2024-02-27, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/lego-letterpress-lobster">https://kottke.org/24/02/lego-letterpress-lobster</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/lego-letterpress-lobster">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-02-27, from: Dave Winer's Scripting News)
+
+In the 80s there was a tech press that reviewed software, and explained OSes and hardware, so you really had a good idea what was going on. They just don't do that anymore. Haven't for many years. But along comes ChatGPT and I can get a <a href="https://chat.openai.com/share/e8b8e861-4345-45c4-a5bb-8e5b7432b240">comparitive review</a> of hosting services that compete with Digital Ocean, just by asking for it. I wanted to get an idea of how easy it would be to create an open source app so it could be easily deployed, on any of them and what the pros and cons were. I asked for a comparison between Digital Ocean (where I host my servers now) and Amazon, Microsoft, Google and I threw in <a href="https://glitch.com/">Glitch</a>, just to anchor the whole thing simplicity-wise. Even InfoWorld wouldn't have done such an in-depth review. This is a <a href="https://en.wikipedia.org/wiki/Productivity">productivity</a> revolution, at least.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/02/27.html#a194725">http://scripting.com/2024/02/27.html#a194725</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/02/27.html#a194725">Save to Pocket</a>
+</span>
+
+---
+
+## Langley Celebrates Black History Month: Matthew Hayes
+
+date: 2024-02-27, from: NASA breaking news
+
+Matthew Hayes is a DEIA (diversity, equity, inclusion, and accessibility) project analyst with NASA’s Langley Research Center. His Langley career has spanned 16 years, starting in the model shop working on wind tunnel models and lunar rover projects. From there Hayes moved to the Electronic Systems Branch and contributed to the SAGE III mission for [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-black-history-month-matthew-hayes/">https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-black-history-month-matthew-hayes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-black-history-month-matthew-hayes/">Save to Pocket</a>
+</span>
+
+---
+
+## The “everything” NPM Package
+
+date: 2024-02-27, from: Michael Tsai
+
+Feross Aboukhadijeh (Hacker News): Just when we thought we&#8217;d seen it all, an npm user named PatrickJS, aka gdi2290, threw us a curveball. He (along with a group of contributors) kicked off the year with a bang, launching a troll campaign that uploaded an npm package aptly named everything. This package, true to its name, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/27/the-everything-npm-package/">https://mjtsai.com/blog/2024/02/27/the-everything-npm-package/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/27/the-everything-npm-package/">Save to Pocket</a>
+</span>
+
+---
+
+## Reddit AI Training Data and IPO
+
+date: 2024-02-27, from: Michael Tsai
+
+Ben Lovejoy: It&#8217;s being reported that a deal has been struck to allow an unnamed large AI company to use Reddit user content for training purposes &#8230; The deal is said to be worth around $60M per year, and comes at a time when the company is seeking to maximize its value in the run-up [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/27/reddit-ai-training-data-and-ipo/">https://mjtsai.com/blog/2024/02/27/reddit-ai-training-data-and-ipo/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/27/reddit-ai-training-data-and-ipo/">Save to Pocket</a>
+</span>
+
+---
+
+## Slow Swift Macro Compilation
+
+date: 2024-02-27, from: Michael Tsai
+
+Vatsal Manot: Folks, if you&#8217;re also frustrated with the state of Swift Macros (w.r.t. compile times), please engage on the forums thread here. I can&#8217;t think of any other language where such a fundamental feature is dependent on a heavy source package that needs to be recompiled every clean build. John Bushnell: Prior to adding [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/02/27/slow-swift-macro-compilation/">https://mjtsai.com/blog/2024/02/27/slow-swift-macro-compilation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/02/27/slow-swift-macro-compilation/">Save to Pocket</a>
+</span>
+
+---
+
+## Langley Celebrates Black History Month: Brittny McGraw
+
+date: 2024-02-27, from: NASA breaking news
+
+Brittny McGraw serves as News Chief in the Office of Communications at NASA’s Langley Research Center. She joined NASA Langley in September 2023, after a 20-year career as an award-winning broadcast journalist. Her broadcast career included stops in New Bern, N.C., Dayton, Ohio, Pittsburgh, Pa. and most recently Roanoke, Va. She graduated with a bachelor’s [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-black-history-month-brittny-mcgraw/">https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-black-history-month-brittny-mcgraw/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-black-history-month-brittny-mcgraw/">Save to Pocket</a>
+</span>
+
+---
+
+##  The seafloor animals who live in Antarctica&#8217;s Southern Ocean are generally &#8220;squishy&#8221;... 
+
+date: 2024-02-27, updated: 2024-02-27, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044068-the-seafloor-animals-who-">https://kottke.org/24/02/0044068-the-seafloor-animals-who-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044068-the-seafloor-animals-who-">Save to Pocket</a>
+</span>
+
+---
+
+## Langley Celebrates Black History Month: Brandon Sells
+
+date: 2024-02-27, from: NASA breaking news
+
+Brandon Sells joined NASA’s Langley Research Center in September 2023 as an aerospace engineer with the Aeronautics Systems Analysis Branch (ASAB) of the Systems Analysis and Concepts Directorate (SACD). Brandon earned a bachelor’s degree in mechanical engineering-aerospace concentration from North Carolina A&#38;T State University in Greensboro, N.C. He continued his education at Purdue University in [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-black-history-month-brandon-sells/">https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-black-history-month-brandon-sells/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-black-history-month-brandon-sells/">Save to Pocket</a>
+</span>
+
+---
+
+## Langley Celebrates Black History Month: Alexus Cottonham
+
+date: 2024-02-27, from: NASA breaking news
+
+Alexus Cottonham is an aerospace engineer supporting NASA Langley’s Systems Analysis and Concepts Directorate. She completed a bachelor’s degree in aerospace engineering from the University of Texas at Austin. She is currently pursuing a master’s degree in systems engineering at Colorado State University. She started with NASA in 2020 at NASA’s Johnson Space Center in [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-black-history-month-alexus-cottonham/">https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-black-history-month-alexus-cottonham/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/langley/langley-celebrates-black-history-month-alexus-cottonham/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA, Intuitive Machines to Discuss Moon Mission, Science Successes
+
+date: 2024-02-27, from: NASA breaking news
+
+NASA and Intuitive Machines will co-host a televised news conference at 2 p.m. EST Wednesday, Feb. 28, from the agency’s Johnson Space Center in Houston to highlight the company’s first mission, known as IM-1. The lander, called Odysseus, carried six NASA science instruments to the South Pole region of the Moon as part of the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-intuitive-machines-to-discuss-moon-mission-science-successes/">https://www.nasa.gov/news-release/nasa-intuitive-machines-to-discuss-moon-mission-science-successes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-intuitive-machines-to-discuss-moon-mission-science-successes/">Save to Pocket</a>
+</span>
+
+---
+
+## Salamander Software's Franklin's Tomb
+
+date: 2024-02-27, from: Computer ads from the Past
+
+My name is Diamond, Dan Diamond. I'm a private cop.
+
+<span class="feed-item-link">
+<a href="https://computeradsfromthepast.substack.com/p/salamander-softwares-franklins-tomb">https://computeradsfromthepast.substack.com/p/salamander-softwares-franklins-tomb</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://computeradsfromthepast.substack.com/p/salamander-softwares-franklins-tomb">Save to Pocket</a>
+</span>
+
+---
+
+## A Splash of Pink
+
+date: 2024-02-27, from: NASA breaking news
+
+A pair of roseate spoonbills add a pop of color to this image taken Sept. 13, 2005, in the Merritt Island National Wildlife Refuge, northwest of Kennedy Space Center in Florida. Spoonbills like this female (left) and male duo inhabit areas of mangrove such as on the coasts of southern Florida and Texas. These birds [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/a-splash-of-pink/">https://www.nasa.gov/image-article/a-splash-of-pink/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/a-splash-of-pink/">Save to Pocket</a>
+</span>
+
+---
+
+##  All of U.S. History Has Taken Place in One Plutonian Year 
+
+date: 2024-02-27, updated: 2024-02-27, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/all-of-us-history-has-taken-place-in-one-plutonian-year">https://kottke.org/24/02/all-of-us-history-has-taken-place-in-one-plutonian-year</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/all-of-us-history-has-taken-place-in-one-plutonian-year">Save to Pocket</a>
+</span>
+
+---
+
+## On POSSE
+
+date: 2024-02-27, from: Manu - I write blog
+
+<p><strong>P</strong>ublish (on your) <strong>O</strong>wn <strong>S</strong>ite, <strong>S</strong>yndicate <strong>E</strong>lsewhere. It's one of the principles of the <a href="https://indieweb.org/POSSE">IndieWeb</a>. It’s the idea that your content should live on your site, on a domain name you own and you should then distribute that content in as many places as possible. Overall it’s a nice idea but one I never felt compelled to make mine.</p>
+<p>My content lives here, on my site. Everything in here is under my control and it’s then distributed through three distribution channels.</p>
+<p>The first—and most obvious—is the web itself. My content is distributed to you via the Internet. You can ask your browser to get this page you’re reading right now and get access to my content.</p>
+<p>The second is RSS. You can tell your RSS reader to fetch the content available on my website and you can then consume my content inside your app of choice.</p>
+<p>The final one is email. I send my posts via email because some people prefer to stay up to date that way and who am I to prevent that from happening?</p>
+<p>But these three methods only take care of distribution and distribution of content is only part of the equation. You then have interaction. The point of putting content out there is to connect, to interact with others, to exchange ideas, and to grow. And interactions, in my world, happen via email. 95% of the interactions I have happen via email with the occasional message on iMessage. Both of those communication methods are always monitored because they live on my Mac and my phone.</p>
+<p>Now, what if I were to follow the POSSE mantra? I’d probably sign up for a bunch of different services and scatter my content everywhere there are people. But those people might then comment and try to get in touch with me on those platforms. Platforms I’d then have to monitor. And I don’t know about you, but I don’t have time for that. And if I don’t check them, those are lost connections, missed opportunities to interact with other human beings.</p>
+<p>That to me is a terrible outcome and it’s why don’t want to distribute my content outside of those three channels. But maybe I’m wrong so if you have a different opinion please reach out.</p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/Yh6p2OSEmg1KmLPH">https://manuelmoreale.com/@/page/Yh6p2OSEmg1KmLPH</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/Yh6p2OSEmg1KmLPH">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Grants to Engage Students in Quiet Supersonic Community Overflight
+
+date: 2024-02-27, from: NASA breaking news
+
+NASA has issued new grants to five universities to help develop education plans for the community overflight phase of the agency’s Quesst mission, which aims to demonstrate the possibility of supersonic flight without the typical loud sonic booms. The new grants, from NASA’s Office of STEM Engagement, will provide each university team with $40,000 to [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-grants-to-engage-students-in-quiet-supersonic-community-overflight/">https://www.nasa.gov/news-release/nasa-grants-to-engage-students-in-quiet-supersonic-community-overflight/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-grants-to-engage-students-in-quiet-supersonic-community-overflight/">Save to Pocket</a>
+</span>
+
+---
+
+## Right to Refusal
+
+date: 2024-02-27, from: Care
+
+
+                <p>A comic on adversarial methods against AI extraction for artists.</p>
+
+            
+
+<span class="feed-item-link">
+<a href="https://logicmag.io/policy/right-to-refusal">https://logicmag.io/policy/right-to-refusal</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/policy/right-to-refusal">Save to Pocket</a>
+</span>
+
+---
+
+##  Denis Villeneuve: “Frankly, I hate dialogue. Dialogue is for theatre and television.... 
+
+date: 2024-02-27, updated: 2024-02-27, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/02/0044063-denis-villeneuve-frankly-">https://kottke.org/24/02/0044063-denis-villeneuve-frankly-</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/02/0044063-denis-villeneuve-frankly-">Save to Pocket</a>
 </span>
 
 ---
