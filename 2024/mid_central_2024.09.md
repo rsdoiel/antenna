@@ -1,11 +1,159 @@
 ---
 title: mid central 2024.09
-updated: 2024-02-28 08:06:53
+updated: 2024-02-29 08:35:31
 ---
 
 # mid central 2024.09
 
-(date: 2024-02-28 08:06:53)
+(date: 2024-02-29 08:35:31)
+
+---
+
+## Photosensitivity: Seizures from displays
+
+date: 2024-02-29, from: EDN Blog
+
+<img width="469" height="846" src="https://www.edn.com/wp-content/uploads/Epileptic-Seizures.png?fit=469%2C846" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Epileptic-Seizures.png?w=469 469w, https://www.edn.com/wp-content/uploads/Epileptic-Seizures.png?w=166 166w" sizes="(max-width: 469px) 100vw, 469px" /><p>The concerning impact of flashing images and how heeding a very simple warning can eliminate the risk of preventable seizure or dizziness.</p>
+<p>The post <a href="https://www.edn.com/photosensitivity-seizures-from-displays/" data-wpel-link="internal">Photosensitivity: Seizures from displays</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/photosensitivity-seizures-from-displays/">https://www.edn.com/photosensitivity-seizures-from-displays/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/photosensitivity-seizures-from-displays/">Save to Pocket</a>
+</span>
+
+---
+
+## APEC 2024, Day 2: Daily Briefing Video
+
+date: 2024-02-29, from: EDN Blog
+
+<img width="960" height="606" src="https://www.edn.com/wp-content/uploads/featured-image_APEC-day-2.png?fit=960%2C606" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/featured-image_APEC-day-2.png?w=960 960w, https://www.edn.com/wp-content/uploads/featured-image_APEC-day-2.png?w=300 300w, https://www.edn.com/wp-content/uploads/featured-image_APEC-day-2.png?w=768 768w" sizes="(max-width: 960px) 100vw, 960px" /><p>Day 2 of APEC underscored the significance of Si and SiC technologies, GaN advancements, and the promising outlook of fusion energy.</p>
+<p>The post <a href="https://www.edn.com/apec-2024-day-2-daily-briefing-video/" data-wpel-link="internal">APEC 2024, Day 2: Daily Briefing Video</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/apec-2024-day-2-daily-briefing-video/">https://www.edn.com/apec-2024-day-2-daily-briefing-video/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/apec-2024-day-2-daily-briefing-video/">Save to Pocket</a>
+</span>
+
+---
+
+## February’s Top Dog: Aliz Kalmar breaks program records
+
+date: 2024-02-29, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Aliz Kalmar made her mark at Fresno State in February by setting program records for the swim and dive team, earning the title of The Collegian’s Top Dog. Kalmar set not only one but two swim and dive program records in the 100-meter breaststroke at the Mountain West Conference Championship on Feb. 23. The first...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/februarys-top-dog-aliz-kalmar-breaks-program-records/">https://fscollegian.com/2024/02/februarys-top-dog-aliz-kalmar-breaks-program-records/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/februarys-top-dog-aliz-kalmar-breaks-program-records/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: The Collegian opposes Measure E, once again
+
+date: 2024-02-28, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+A majority of The Collegian editorial board opposes Measure E in the upcoming March 5 primary election. Eight of the 11 editors oppose the measure, which would raise an estimated $1.5 billion for Fresno State by increasing sales taxes by 0.25% for Fresno County residents over 25 years. Three editors choose to abstain from an...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/editorial-once-again-we-oppose-measure-e/">https://fscollegian.com/2024/02/editorial-once-again-we-oppose-measure-e/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/editorial-once-again-we-oppose-measure-e/">Save to Pocket</a>
+</span>
+
+---
+
+## Opinion: Stop banning books
+
+date: 2024-02-28, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+This story is part one of a two-part series. The second part can be found in the Lifestyle section.  PART 1: The Banning of books featuring LGBTQ stories from education and its effects The banning of books from the education system is not a new process but has been a tool of manipulation for centuries,...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/opinion-stop-banning-books/">https://fscollegian.com/2024/02/opinion-stop-banning-books/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/opinion-stop-banning-books/">Save to Pocket</a>
+</span>
+
+---
+
+## Opinion: Why I’m voting yes on Measure E: a student’s perspective
+
+date: 2024-02-28, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The following reflects the views of the writer and not The Collegian&#8217;s editorial board. If you go to Fresno State, chances are you have heard the phrase “The Pride of the Valley” at least once. As someone who was born and raised in Fresno, every aspect of the Central Valley is touched by Fresno State....
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/opinion-why-im-voting-yes-on-measure-e-a-students-perspective/">https://fscollegian.com/2024/02/opinion-why-im-voting-yes-on-measure-e-a-students-perspective/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/opinion-why-im-voting-yes-on-measure-e-a-students-perspective/">Save to Pocket</a>
+</span>
+
+---
+
+## The price of athletics at Fresno State: What you don’t know you’re already paying for
+
+date: 2024-02-28, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno State’s spending on athletics using student and taxpayer-subsidized funds has more than tripled in 15 years. This upward trajectory is raising costs for students and affecting funds for other university operations at Fresno State, according to a Collegian investigation. Over the past several months, The Collegian gathered details on the university&#8217;s spending from 2007-08...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/the-price-of-athletics/">https://fscollegian.com/2024/02/the-price-of-athletics/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/the-price-of-athletics/">Save to Pocket</a>
+</span>
+
+---
+
+## The Collegian dissects the Measure E proposition
+
+date: 2024-02-28, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Measure E is on the ballot again, proposing to raise funds to address Fresno State concerns like clean water, asbestos and develop new projects within a 2-mile “improvement zone.” The 2022 iteration of the measure would have been a 0.2% sales tax in Fresno County and could have generated Fresno State around $36 million annually...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/what-is-measure-e/">https://fscollegian.com/2024/02/what-is-measure-e/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/what-is-measure-e/">Save to Pocket</a>
+</span>
+
+---
+
+## Opinion: The misleading Measure E campaign omits vital information Fresno County voters should know
+
+date: 2024-02-28, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+The following reflects the views of the writer and not The Collegian&#8217;s editorial board. As an advertising and public relations major, I find almost all political campaigns to be jokes, but the Yes on Measure E campaign is especially loathsome. It is bizarre to me that, unlike most bond and sales-tax measures raising money for...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/opinion-the-misleading-measure-e-campaign-omits-vital-information-fresno-county-voters-should-know/">https://fscollegian.com/2024/02/opinion-the-misleading-measure-e-campaign-omits-vital-information-fresno-county-voters-should-know/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/opinion-the-misleading-measure-e-campaign-omits-vital-information-fresno-county-voters-should-know/">Save to Pocket</a>
+</span>
+
+---
+
+## Making their marks: 5 inspiring Black creatives are expressing themselves through their art
+
+date: 2024-02-28, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Every year, Black History Month serves as a reminder of the excellence of Black culture and history. In 2024 alone, there have been numerous landmarks for Black expression. These are five creatives who continue to push the arts forward not just in February, but every month to follow. Tyler Alcé The start of 2024 has...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/spotlight-on-brilliance/">https://fscollegian.com/2024/02/spotlight-on-brilliance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/spotlight-on-brilliance/">Save to Pocket</a>
+</span>
+
+---
+
+## Top 5 sports bars to watch your favorite sports teams
+
+date: 2024-02-28, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Fresno is known for its committed fans and sports culture with the fan base being dubbed the “Red Wave,” to local semi-professional teams such as the Fresno Grizzlies and Central Valley Fuego. However, if you are a Fresno resident interested in, or just getting into, watching sports what are the best spots to visit? For...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/top-5-sports-bars-to-watch-your-favorite-sports-teams/">https://fscollegian.com/2024/02/top-5-sports-bars-to-watch-your-favorite-sports-teams/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/top-5-sports-bars-to-watch-your-favorite-sports-teams/">Save to Pocket</a>
+</span>
+
+---
+
+## Food review: Planet Vegan returns with a new brick-and-mortar restaurant
+
+date: 2024-02-28, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+After the explosion that left its food truck in shambles, Planet Vegan is making a comeback with a new restaurant that offers a wide variety of vegan burgers perfect for everyone to enjoy.  On June 24 2022, the food truck and the pickup hauling it went up in flames, injuring two people, including owner Joe...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/food-review-planet-vegan-returns-with-a-new-brick-and-mortar-restaurant/">https://fscollegian.com/2024/02/food-review-planet-vegan-returns-with-a-new-brick-and-mortar-restaurant/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/food-review-planet-vegan-returns-with-a-new-brick-and-mortar-restaurant/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +161,7 @@ updated: 2024-02-28 08:06:53
 
 date: 2024-02-28, from: EDN Blog
 
-<img width="1380" height="862" src="https://www.edn.com/wp-content/uploads/APEC_DAY-1_Featured-image.png?fit=1380%2C862" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/APEC_DAY-1_Featured-image.png?w=1380 1380w, https://www.edn.com/wp-content/uploads/APEC_DAY-1_Featured-image.png?w=300 300w, https://www.edn.com/wp-content/uploads/APEC_DAY-1_Featured-image.png?w=768 768w, https://www.edn.com/wp-content/uploads/APEC_DAY-1_Featured-image.png?w=1024 1024w" sizes="(max-width: 1380px) 100vw, 1380px" /><p>Discussing power semiconductor trends around SIC and GaN with Steven Shackell, supplier management director at Arrow Electronics.</p>
+<img width="1380" height="862" src="https://www.edn.com/wp-content/uploads/APEC_DAY-1_Featured-image.png?fit=1380%2C862" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/APEC_DAY-1_Featured-image.png?w=1380 1380w, https://www.edn.com/wp-content/uploads/APEC_DAY-1_Featured-image.png?w=300 300w, https://www.edn.com/wp-content/uploads/APEC_DAY-1_Featured-image.png?w=768 768w, https://www.edn.com/wp-content/uploads/APEC_DAY-1_Featured-image.png?w=1024 1024w" sizes="(max-width: 1380px) 100vw, 1380px" /><p>Discussing power semiconductor trends around SIC and GaN with Steven Shackell, supplier management director at Arrow Electronics.</p>
 <p>The post <a href="https://www.edn.com/apec-2024-day-1-daily-briefing-video/" data-wpel-link="internal">APEC 2024, Day 1: Daily Briefing Video</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 

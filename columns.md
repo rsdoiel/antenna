@@ -1,11 +1,108 @@
 ---
 title: columns 2024.09
-updated: 2024-02-28 08:06:53
+updated: 2024-02-29 08:35:31
 ---
 
 # columns 2024.09
 
-(date: 2024-02-28 08:06:53)
+(date: 2024-02-29 08:35:31)
+
+---
+
+## How the “Frontier” Became the Slogan of Uncontrolled AI
+
+date: 2024-02-29, updated: 2024-02-29, from: Bruce Schneier blog
+
+<p>Artificial intelligence (AI) has been billed as the next frontier of humanity: the newly available expanse whose exploration will drive the next era of growth, wealth, and human flourishing. It&#8217;s a scary metaphor. Throughout American history, the drive for expansion and the very concept of terrain up for grabs&#8212;land grabs, gold rushes, new frontiers&#8212;have provided a permission structure for imperialism and exploitation. This could easily hold true for AI.</p>
+<p>This isn&#8217;t the first time the concept of a frontier has been used as a metaphor for AI, or technology in general. As early as 2018, the powerful foundation models powering cutting-edge applications like chatbots ...</p>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/02/how-the-frontier-became-the-slogan-of-uncontrolled-ai.html">https://www.schneier.com/blog/archives/2024/02/how-the-frontier-became-the-slogan-of-uncontrolled-ai.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/how-the-frontier-became-the-slogan-of-uncontrolled-ai.html">Save to Pocket</a>
+</span>
+
+---
+
+## Goodbye, Mitch: You were the worst
+
+date: 2024-02-29, from: Robert Reich's blog
+
+But the Republicans might find someone even worse to replace you
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/goodbye-mitch-you-were-the-worst">https://robertreich.substack.com/p/goodbye-mitch-you-were-the-worst</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/goodbye-mitch-you-were-the-worst">Save to Pocket</a>
+</span>
+
+---
+
+## Sony Is Laying Off 900 PlayStation Employees, 8 Percent of Workforce
+
+date: 2024-02-29, updated: 2024-02-29, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.theverge.com/2024/2/27/24084494/sony-playstation-layoffs-2024">https://www.theverge.com/2024/2/27/24084494/sony-playstation-layoffs-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theverge.com/2024/2/27/24084494/sony-playstation-layoffs-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Richard Lewis Dies of Heart Attack at 76
+
+date: 2024-02-29, updated: 2024-02-29, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.hollywoodreporter.com/tv/tv-news/richard-lewis-dead-hollywood-tributes-1235838870/">https://www.hollywoodreporter.com/tv/tv-news/richard-lewis-dead-hollywood-tributes-1235838870/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hollywoodreporter.com/tv/tv-news/richard-lewis-dead-hollywood-tributes-1235838870/">Save to Pocket</a>
+</span>
+
+---
+
+## Are Customers Returning Vision Pros in High Numbers? Seemingly Not.
+
+date: 2024-02-29, updated: 2024-02-29, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://medium.com/@mingchikuo/vision-pro%E6%9B%B4%E6%96%B0-%E7%BE%8E%E5%9C%8B%E5%B8%82%E5%A0%B4%E9%9C%80%E6%B1%82%E5%B7%B2%E5%A4%A7%E5%B9%85%E6%94%BE%E7%B7%A9-%E5%85%A8%E7%90%83%E7%99%BC%E4%BD%88%E6%99%82%E7%A8%8B%E9%A0%90%E6%B8%AC-%E4%BE%9B%E6%87%89%E9%8F%88%E6%93%B4%E7%94%A2%E8%88%87%E9%80%80%E8%B2%A8%E7%8E%87%E8%A7%A3%E8%AE%80-%E6%96%B0%E6%A9%9F%E7%A8%AE%E9%A0%90%E6%B8%AC-%E6%8A%95%E8%B3%87%E7%AD%96%E7%95%A5-vision-pro-update-us-market-demand-f12ab8423404">https://medium.com/@mingchikuo/vision-pro%E6%9B%B4%E6%96%B0-%E7%BE%8E%E5%9C%8B%E5%B8%82%E5%A0%B4%E9%9C%80%E6%B1%82%E5%B7%B2%E5%A4%A7%E5%B9%85%E6%94%BE%E7%B7%A9-%E5%85%A8%E7%90%83%E7%99%BC%E4%BD%88%E6%99%82%E7%A8%8B%E9%A0%90%E6%B8%AC-%E4%BE%9B%E6%87%89%E9%8F%88%E6%93%B4%E7%94%A2%E8%88%87%E9%80%80%E8%B2%A8%E7%8E%87%E8%A7%A3%E8%AE%80-%E6%96%B0%E6%A9%9F%E7%A8%AE%E9%A0%90%E6%B8%AC-%E6%8A%95%E8%B3%87%E7%AD%96%E7%95%A5-vision-pro-update-us-market-demand-f12ab8423404</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://medium.com/@mingchikuo/vision-pro%E6%9B%B4%E6%96%B0-%E7%BE%8E%E5%9C%8B%E5%B8%82%E5%A0%B4%E9%9C%80%E6%B1%82%E5%B7%B2%E5%A4%A7%E5%B9%85%E6%94%BE%E7%B7%A9-%E5%85%A8%E7%90%83%E7%99%BC%E4%BD%88%E6%99%82%E7%A8%8B%E9%A0%90%E6%B8%AC-%E4%BE%9B%E6%87%89%E9%8F%88%E6%93%B4%E7%94%A2%E8%88%87%E9%80%80%E8%B2%A8%E7%8E%87%E8%A7%A3%E8%AE%80-%E6%96%B0%E6%A9%9F%E7%A8%AE%E9%A0%90%E6%B8%AC-%E6%8A%95%E8%B3%87%E7%AD%96%E7%95%A5-vision-pro-update-us-market-demand-f12ab8423404">Save to Pocket</a>
+</span>
+
+---
+
+## ★ Poll Results on Apple’s FineWoven iPhone Cases
+
+date: 2024-02-29, updated: 2024-02-29, from: Daring Fireball
+
+Apple’s not going back to leather, but they need a better-than-leather replacement, and FineWoven 1.0 isn’t it.
+
+<span class="feed-item-link">
+<a href="https://daringfireball.net/2024/02/poll_results_on_apples_finewoven_iphone_cases">https://daringfireball.net/2024/02/poll_results_on_apples_finewoven_iphone_cases</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/2024/02/poll_results_on_apples_finewoven_iphone_cases">Save to Pocket</a>
+</span>
+
+---
+
+## Textpattern Turns 20
+
+date: 2024-02-28, updated: 2024-02-28, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://textpattern.com/weblog/textpattern-turns-twenty">https://textpattern.com/weblog/textpattern-turns-twenty</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://textpattern.com/weblog/textpattern-turns-twenty">Save to Pocket</a>
+</span>
+
+---
+
+## Lina Khan Has Been a Terrible FTC Chair
+
+date: 2024-02-28, updated: 2024-02-28, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.threads.net/@eric_seufert/post/C30bMM_pTsG/">https://www.threads.net/@eric_seufert/post/C30bMM_pTsG/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.threads.net/@eric_seufert/post/C30bMM_pTsG/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -23,7 +120,7 @@ Apple wants to disallow Web Apps on iOS to be added to the home screen, run full
 
 ## A Cyber Insurance Backstop
 
-date: 2024-02-28, updated: 2024-02-27, from: Bruce Schneier blog
+date: 2024-02-28, updated: 2024-02-29, from: Bruce Schneier blog
 
 <p>In the first week of January, the pharmaceutical giant Merck quietly <a href="https://therecord.media/merck-insurance-settlement-notpetya">settled its years-long lawsuit</a> over whether or not its property and casualty insurers would cover a $700 million claim filed after the devastating <a href="https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/">NotPetya cyberattack</a> in 2017. The malware ultimately infected more than 40,000 of Merck&#8217;s computers, which significantly disrupted the company&#8217;s <a href="https://www.reuters.com/article/idUSKBN1AD1AO/">drug and vaccine production</a>. After Merck filed its $700 million claim, the pharmaceutical giant&#8217;s insurers argued that they were not required to cover the malware&#8217;s damage because the cyberattack was widely attributed to the Russian government and therefore was excluded from standard property and casualty insurance coverage as a &#8220;hostile or warlike act.&#8221;...</p>
 
@@ -37,7 +134,7 @@ date: 2024-02-28, updated: 2024-02-27, from: Bruce Schneier blog
 
 date: 2024-02-28, from: Robert Reich's blog
 
-Friends, The question was never whether Joe Biden would win the Michigan primary. It was how successful would be a homegrown campaign to persuade Michiganders to vote &#8220;uncommitted.&#8221; Well, we now have the results, and they should serve as a wakeup call to Biden. With most votes counted on Wednesday morning, 13 percent of Michigan&#8217;s Democratic primary voters had chosen &#8220;uncommitted&#8221; &#8212; a share that represented more than 100,000 people in Michigan who made the effort to lodge their disapproval of the president.
+Friends, The question was never whether Joe Biden would win the Michigan primary. It was how successful would be a homegrown campaign to persuade Michiganders to vote &#8220;uncommitted.&#8221; Well, we now have the results, and they should serve as a wakeup call to Biden. With most votes counted on Wednesday morning, 13% of Michigan&#8217;s Democratic primary voters had chosen &#8220;uncommitted&#8221; &#8212; a share that represented more than 100,000 people in Michigan who made the effort to lodge their disapproval of the president.
 
 <span class="feed-item-link">
 <a href="https://robertreich.substack.com/p/office-hours-does-the-michigan-primary">https://robertreich.substack.com/p/office-hours-does-the-michigan-primary</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/office-hours-does-the-michigan-primary">Save to Pocket</a>

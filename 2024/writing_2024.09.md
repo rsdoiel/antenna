@@ -1,11 +1,91 @@
 ---
 title: writing 2024.09
-updated: 2024-02-28 08:06:53
+updated: 2024-02-29 08:35:31
 ---
 
 # writing 2024.09
 
-(date: 2024-02-28 08:06:53)
+(date: 2024-02-29 08:35:31)
+
+---
+
+## The Year in Review 2023 by Charles Payseur
+
+date: 2024-02-29, from: Locus Magazine
+
+<p>2023 was certainly&#8230; a year for short speculative fiction. Another amazing year in terms of the quality and quantity of stories pub­lished, but also a challeng­ing year as many venues have faced increased fi­nancial pressures and de­creasing returns from social media, as well as personal losses and national and international tragedies. While the year might seem like it went out like a lamb, it’s possible that the full impact from  <a href="https://locusmag.com/2024/02/the-year-in-review-2023-by-charles-payseur/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/the-year-in-review-2023-by-charles-payseur/">https://locusmag.com/2024/02/the-year-in-review-2023-by-charles-payseur/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/the-year-in-review-2023-by-charles-payseur/">Save to Pocket</a>
+</span>
+
+---
+
+## Paula Guran Reviews The Sunday Morning Transport, Apex, and The Dark
+
+date: 2024-02-29, from: Locus Magazine
+
+<p>The Sunday Morning Transport 10/24/23, 9/10/23, 9/3/23
+Apex #140
+The Dark 9/23, 10/23</p>
+<p>I know I am repeating myself, but every story The Sunday Morning Transport publishes should be read. Of the nine original stories published from the end of August through October 22, I’ll mention only my absolute favorites. Nura – in ‘‘<strong>We Will Witness</strong>’’ by <strong>Martin Cahill </strong>– is a 30th-century Witness, sent back in time  <a href="https://locusmag.com/2024/02/paula-guran-reviews-the-sunday-morning-transport-apex-and-the-dark/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/paula-guran-reviews-the-sunday-morning-transport-apex-and-the-dark/">https://locusmag.com/2024/02/paula-guran-reviews-the-sunday-morning-transport-apex-and-the-dark/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/paula-guran-reviews-the-sunday-morning-transport-apex-and-the-dark/">Save to Pocket</a>
+</span>
+
+---
+
+## Why Fair Use Supports Non-Expressive Uses
+
+date: 2024-02-29, from: Author's Union blog
+
+This post is part of Fair Use Week series, cross-posted at https://sites.harvard.edu/fair-use-week/2024/02/29/fair-use-week-2024-day-four-with-guest-expert-dave-hansen/ AI programs and their outputs raise all sorts of interesting questions–now found in the form of some 20+ lawsuits, many of them massive class actions. One of the most important questions is whether it is permissible to use copyrighted works as training data [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.authorsalliance.org/2024/02/29/why-fair-use-supports-non-expressive-uses/">https://www.authorsalliance.org/2024/02/29/why-fair-use-supports-non-expressive-uses/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.authorsalliance.org/2024/02/29/why-fair-use-supports-non-expressive-uses/">Save to Pocket</a>
+</span>
+
+---
+
+## Keeping Track of Your Screenwriting Productivity
+
+date: 2024-02-28, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/keeping-track-of-your-screenwriting-productivity" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Untitled%20design-Jan-16-2024-09-16-25-8038-PM.jpg" alt="Keeping Track of Your Screenwriting Productivity" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>When you’re trying to <a href="https://blog.finaldraft.com/5-tips-to-finishing-a-screenplay"><span>finish writing a screenplay</span></a>, two of the biggest obstacles is staying productive and motivated. There will be days where you stare at the empty page and wonder if you can really take this thing all the way to the end.</p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/keeping-track-of-your-screenwriting-productivity">https://blog.finaldraft.com/keeping-track-of-your-screenwriting-productivity</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/keeping-track-of-your-screenwriting-productivity">Save to Pocket</a>
+</span>
+
+---
+
+## The Year in Review 2023 by Graham Sleight
+
+date: 2024-02-28, from: Locus Magazine
+
+<p>I’m always reluctant to pick out trends when sum­marising a year’s books for Locus. There are too many contingencies at play in what gets published when, and so much is dependent on which fraction of the torrent of SFF books I’ve managed to read. But this year, I do feel confident in one judgment: It was a really fine time to be reading books of the fantastic. The works I’m  <a href="https://locusmag.com/2024/02/the-year-in-review-2023-by-graham-sleight/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/the-year-in-review-2023-by-graham-sleight/">https://locusmag.com/2024/02/the-year-in-review-2023-by-graham-sleight/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/the-year-in-review-2023-by-graham-sleight/">Save to Pocket</a>
+</span>
+
+---
+
+## Jake Casella Brookins Reviews Swim Home to the Vanished by Brendan Shay Basham
+
+date: 2024-02-28, from: Locus Magazine
+
+<p><strong>Swim Home to the Vanished</strong>, Brendan Shay Basham (Harper 978-0-0632-4108-4, $30.00. 240pp, hc) August 2023. Cover by Elina Cohen.</p>
+<p>Brendan Shay Basham’s debut novel <strong>Swim Home to the Vanished </strong>is a gorgeously writ­ten story of magical transformations, and of grief. Following a Diné man cast adrift by loss, it’s a novel both fluid and sharp, full of shapeshifters and enchanted landscapes, rich in dialog and insight.</p>
+<p>After the death  <a href="https://locusmag.com/2024/02/jake-casella-brookins-reviews-swim-home-to-the-vanished-by-brendan-shay-basham/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/jake-casella-brookins-reviews-swim-home-to-the-vanished-by-brendan-shay-basham/">https://locusmag.com/2024/02/jake-casella-brookins-reviews-swim-home-to-the-vanished-by-brendan-shay-basham/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/jake-casella-brookins-reviews-swim-home-to-the-vanished-by-brendan-shay-basham/">Save to Pocket</a>
+</span>
 
 ---
 

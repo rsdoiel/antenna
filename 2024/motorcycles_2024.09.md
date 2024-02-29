@@ -1,11 +1,155 @@
 ---
 title: motorcycles 2024.09
-updated: 2024-02-28 08:06:54
+updated: 2024-02-29 08:35:32
 ---
 
 # motorcycles 2024.09
 
-(date: 2024-02-28 08:06:54)
+(date: 2024-02-29 08:35:32)
+
+---
+
+## 2024 Harley-Davidson Hydra-Glide Revival First Look
+
+date: 2024-02-29, from: Cycle World News
+
+Harley-Davidson has released info on its 2024  Icons Collection Hydra-Glide Revival model, of which 1,750 limited editions will be produced for the entire global run.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/harley-davidson-hydra-glide-revival-first-look/">https://www.cycleworld.com/bikes/harley-davidson-hydra-glide-revival-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/harley-davidson-hydra-glide-revival-first-look/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 BMW R 12 And R 12 nineT Get Pricing Information In US
+
+date: 2024-02-29, from: Ride Apart, Electric Motorcycle News
+
+After rolling out the new R 12 lineup in late 2023, BMW is ready to share its pricing and availability for the American market.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710519/bmw-r12-ninet-pricing-us/">https://www.rideapart.com/news/710519/bmw-r12-ninet-pricing-us/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710519/bmw-r12-ninet-pricing-us/">Save to Pocket</a>
+</span>
+
+---
+
+## Kove Moto Will Bring New Middleweight ADV 800X to The US
+
+date: 2024-02-29, from: Ride Apart, Electric Motorcycle News
+
+It’s pretty much a Dakar bike for the street, and we want one. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710525/kove-moto-800x-adventure-coming-usa/">https://www.rideapart.com/news/710525/kove-moto-800x-adventure-coming-usa/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710525/kove-moto-800x-adventure-coming-usa/">Save to Pocket</a>
+</span>
+
+---
+
+## The Awak AK11 Is A Mash-Up Of A Bunch Of Mini-Bikes Nobody Asked For
+
+date: 2024-02-29, from: Ride Apart, Electric Motorcycle News
+
+It blends styling cues from the likes of the Monkey and Dax, and oddly enough, the AK-47? 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710197/awak-ak11-chinese-mini-bike/">https://www.rideapart.com/news/710197/awak-ak11-chinese-mini-bike/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710197/awak-ak11-chinese-mini-bike/">Save to Pocket</a>
+</span>
+
+---
+
+## Key Takeaways From Garmin’s First Annual inReach SOS Report
+
+date: 2024-02-29, from: Ride Apart, Electric Motorcycle News
+
+Dive into data taken from six continents, almost 100 countries, and three oceans. These are the dangers adventurers face.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710489/garmin-inreach-sos-report-2023/">https://www.rideapart.com/news/710489/garmin-inreach-sos-report-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710489/garmin-inreach-sos-report-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## The EU Wants More People On Bicycles, And Here's Why It Matters
+
+date: 2024-02-29, from: Ride Apart, Electric Motorcycle News
+
+It's all about developing a safe and harmonious environment focused on cycling. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710193/2024-eu-declaration-on-cycling/">https://www.rideapart.com/news/710193/2024-eu-declaration-on-cycling/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710193/2024-eu-declaration-on-cycling/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Harley Street Glide & Road Glide First Ride Review
+
+date: 2024-02-29, from: Cycle World News
+
+Harley-Davidson’s 2024 Road Glide and Street Glide models now feature a 117ci V-twin, updated chassis, and all-new electronics.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/">https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/">Save to Pocket</a>
+</span>
+
+---
+
+## The GH Carabiner Is Actually A Multitool Cosplaying As A Carabiner
+
+date: 2024-02-29, from: Ride Apart, Electric Motorcycle News
+
+With 17 functions in tow, is this the ultimate multitool for die-hard adventurers? 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/709439/gh-carabiner-edc-gear/">https://www.rideapart.com/news/709439/gh-carabiner-edc-gear/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/709439/gh-carabiner-edc-gear/">Save to Pocket</a>
+</span>
+
+---
+
+## Recall: 2023 Triumph Trident & Tiger Sport 660 Fork Caps Could Detach
+
+date: 2024-02-28, from: Ride Apart, Electric Motorcycle News
+
+Improperly machined threads are to blame.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710516/triumph-trident-tiger-660-recall/">https://www.rideapart.com/news/710516/triumph-trident-tiger-660-recall/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710516/triumph-trident-tiger-660-recall/">Save to Pocket</a>
+</span>
+
+---
+
+## BMW CE 02 First Ride Review
+
+date: 2024-02-28, from: Cycle World News
+
+In the confines of urban areas, an electric scooter makes great sense, but BMW’s CE 02 may trump them all with crisp performance and excellent build quality.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-reviews/bmw-ce-02-first-ride-review/">https://www.cycleworld.com/motorcycle-reviews/bmw-ce-02-first-ride-review/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/bmw-ce-02-first-ride-review/">Save to Pocket</a>
+</span>
+
+---
+
+## New And Vastly Improved MotoAmerica Live+ Ready For Daytona
+
+date: 2024-02-28, from: Cycle World News
+
+MotoAmerica, North America’s premier motorcycle road racing series, is thrilled to announce that its live streaming and on-demand service, MotoAmerica Live+.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/new-and-vastly-improved-motoamerica-live-plus-ready-for-daytona/">https://www.cycleworld.com/the-wire/new-and-vastly-improved-motoamerica-live-plus-ready-for-daytona/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/new-and-vastly-improved-motoamerica-live-plus-ready-for-daytona/">Save to Pocket</a>
+</span>
+
+---
+
+## GasGas Fielding TXE Electric Trials Bike in Championship
+
+date: 2024-02-28, from: Ride Apart, Electric Motorcycle News
+
+A glimpse into the future of off-road motorcycling. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710198/gasgas-txe-electric-bike-spanish-trials-championship/">https://www.rideapart.com/news/710198/gasgas-txe-electric-bike-spanish-trials-championship/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710198/gasgas-txe-electric-bike-spanish-trials-championship/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -100,7 +244,7 @@ Adjustable footpegs are nothing new, but the lack of a rear brake pedal and shif
 
 ---
 
-## A Sneak Peak At Ducati’s Desmo450 MX In Action With Tony Cairoli
+## A Sneak Peek At Ducati’s Desmo450 MX In Action With Tony Cairoli
 
 date: 2024-02-27, from: Ride Apart, Electric Motorcycle News
 
@@ -108,18 +252,6 @@ We'll take every opportunity to see Ducati's Desmo450 MX rip, and with Tony Cair
 
 <span class="feed-item-link">
 <a href="https://www.rideapart.com/news/710328/ducati-mx-450-tony-cairoli/">https://www.rideapart.com/news/710328/ducati-mx-450-tony-cairoli/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710328/ducati-mx-450-tony-cairoli/">Save to Pocket</a>
-</span>
-
----
-
-## 2024 Harley Street Glide & Road Glide First Ride Review
-
-date: 2024-02-27, from: Cycle World News
-
-Harley-Davidson’s 2024 Road Glide and Street Glide models now feature a 117ci V-twin, updated chassis, and all-new electronics.
-
-<span class="feed-item-link">
-<a href="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/">https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/harley-davidson-street-glide-and-road-glide-first-ride-review/">Save to Pocket</a>
 </span>
 
 ---

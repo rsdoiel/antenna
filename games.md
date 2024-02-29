@@ -1,11 +1,131 @@
 ---
 title: games 2024.09
-updated: 2024-02-28 08:06:53
+updated: 2024-02-29 08:35:31
 ---
 
 # games 2024.09
 
-(date: 2024-02-28 08:06:53)
+(date: 2024-02-29 08:35:31)
+
+---
+
+## Best Buy swings in with the best PS5 console deal we’ve seen this year
+
+date: 2024-02-29, updated: 2024-02-29, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24086610/best-buy-playstation-5-marvel-spider-man-2-bundle-deal-sale">https://www.polygon.com/deals/24086610/best-buy-playstation-5-marvel-spider-man-2-bundle-deal-sale</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24086610/best-buy-playstation-5-marvel-spider-man-2-bundle-deal-sale">Save to Pocket</a>
+</span>
+
+---
+
+## Not sure what movie to watch this weekend? Leave a comment, we’ll help
+
+date: 2024-02-29, updated: 2024-02-29, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/entertainment/2024/2/29/24084743/best-movies-watch-this-weekend-best-recommendations">https://www.polygon.com/entertainment/2024/2/29/24084743/best-movies-watch-this-weekend-best-recommendations</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/entertainment/2024/2/29/24084743/best-movies-watch-this-weekend-best-recommendations">Save to Pocket</a>
+</span>
+
+---
+
+## The first Discworld RPG in nearly three decades is on the way from Modiphius
+
+date: 2024-02-29, updated: 2024-02-29, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/tabletop-games/24084600/discworld-tabletop-rpg-board-game-modiphius">https://www.polygon.com/tabletop-games/24084600/discworld-tabletop-rpg-board-game-modiphius</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/tabletop-games/24084600/discworld-tabletop-rpg-board-game-modiphius">Save to Pocket</a>
+</span>
+
+---
+
+## Electronic Arts cuts jobs for more than 670 workers
+
+date: 2024-02-29, updated: 2024-02-29, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24086077/electronic-arts-ea-layoffs-february-2024">https://www.polygon.com/24086077/electronic-arts-ea-layoffs-february-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24086077/electronic-arts-ea-layoffs-february-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Critical Role’s next game, Daggerheart, will be available to download for free
+
+date: 2024-02-29, updated: 2024-02-29, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/tabletop-games/24086481/critical-role-daggerheart-free-open-beta">https://www.polygon.com/tabletop-games/24086481/critical-role-daggerheart-free-open-beta</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/tabletop-games/24086481/critical-role-daggerheart-free-open-beta">Save to Pocket</a>
+</span>
+
+---
+
+## Chocobos are the ultimate stress test for Final Fantasy 7 Rebirth’s open world
+
+date: 2024-02-29, updated: 2024-02-29, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24084882/chocobos-final-fantasy-7-rebirth-open-world">https://www.polygon.com/24084882/chocobos-final-fantasy-7-rebirth-open-world</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24084882/chocobos-final-fantasy-7-rebirth-open-world">Save to Pocket</a>
+</span>
+
+---
+
+## Can’t remember what happened in the first Dune movie? We got you
+
+date: 2024-02-29, updated: 2024-02-29, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24084646/dune-plot-part-1-story-recap-2021">https://www.polygon.com/24084646/dune-plot-part-1-story-recap-2021</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24084646/dune-plot-part-1-story-recap-2021">Save to Pocket</a>
+</span>
+
+---
+
+## How long is Final Fantasy 7 Rebirth?
+
+date: 2024-02-29, updated: 2024-02-29, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24084888/how-long-to-beat-play-length-hours">https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24084888/how-long-to-beat-play-length-hours</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24084888/how-long-to-beat-play-length-hours">Save to Pocket</a>
+</span>
+
+---
+
+## How the Gold Saucer date works in FF7 Rebirth
+
+date: 2024-02-29, updated: 2024-02-29, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24084009/gold-saucer-date-tifa-aerith-barret-yuffie-red-xiii-relationship-levels">https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24084009/gold-saucer-date-tifa-aerith-barret-yuffie-red-xiii-relationship-levels</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24084009/gold-saucer-date-tifa-aerith-barret-yuffie-red-xiii-relationship-levels">Save to Pocket</a>
+</span>
+
+---
+
+## Where to find summon crystal shrines in Final Fantasy 7 Rebirth
+
+date: 2024-02-29, updated: 2024-02-29, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24083913/summon-crystal-shrines-locations-map-list">https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24083913/summon-crystal-shrines-locations-map-list</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24083913/summon-crystal-shrines-locations-map-list">Save to Pocket</a>
+</span>
 
 ---
 

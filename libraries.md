@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.09
-updated: 2024-02-28 08:06:54
+updated: 2024-02-29 08:35:32
 ---
 
 # libraries 2024.09
 
-(date: 2024-02-28 08:06:54)
+(date: 2024-02-29 08:35:32)
 
 ---
 
@@ -93,6 +93,20 @@ Scarborough, Joseph; Iachizzi, Monica; Schalbetter, Sina M.; Müller, Flavia S.;
 
 ---
 
+## Chef de Cuisine: Perspectives from Publishing’s Top Table – Niko Pfund
+
+date: 2024-02-29, from: Scholarly Kitchen
+
+<p>Robert Harington talks to Niko Pfund of Oxford University Press, in this series of perspectives from some of Publishing’s leaders across the non-profit and for- profit sectors of our industry.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/02/29/robert-harington-talks-to-niko-pfund-of-oxford-university-press-in-this-series-of-perspectives-from-some-of-publishings-leaders-across-the-non-profit-and-for-profit-sectors-of-our-industry/">Chef de Cuisine: Perspectives from Publishing’s Top Table – Niko Pfund</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/02/29/robert-harington-talks-to-niko-pfund-of-oxford-university-press-in-this-series-of-perspectives-from-some-of-publishings-leaders-across-the-non-profit-and-for-profit-sectors-of-our-industry/">https://scholarlykitchen.sspnet.org/2024/02/29/robert-harington-talks-to-niko-pfund-of-oxford-university-press-in-this-series-of-perspectives-from-some-of-publishings-leaders-across-the-non-profit-and-for-profit-sectors-of-our-industry/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/02/29/robert-harington-talks-to-niko-pfund-of-oxford-university-press-in-this-series-of-perspectives-from-some-of-publishings-leaders-across-the-non-profit-and-for-profit-sectors-of-our-industry/">Save to Pocket</a>
+</span>
+
+---
+
 ## Guest Post — From Singapore to Athens via Hong Kong: The Itinerary of Research Integrity from Scientific Research to Real-life Applications and Policy Making
 
 date: 2024-02-28, from: Scholarly Kitchen
@@ -165,7 +179,7 @@ A middle-aged spinster rents a country home for the summer and finds herself in 
 
 date: 2024-02-26, from: Association of Research Libraries News
 
-<p>Last Updated on February 27, 2024, 5:20 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 27 &#124; Wednesday, February 28 &#124; Thursday,...</p>
+<p>Last Updated on February 28, 2024, 3:01 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 27 &#124; Wednesday, February 28 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-26-29/">Day in Review (February 26–29)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 

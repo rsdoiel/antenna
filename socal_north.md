@@ -1,11 +1,491 @@
 ---
 title: socal north 2024.09
-updated: 2024-02-28 08:06:53
+updated: 2024-02-29 08:35:31
 ---
 
 # socal north 2024.09
 
-(date: 2024-02-28 08:06:53)
+(date: 2024-02-29 08:35:31)
+
+---
+
+## Paramount Earnings Are Out. The Good, The Bad, And The Rumors
+
+date: 2024-02-29, updated: 2024-02-29, from: The LAist
+
+Paramount plans call for more international production, bad news for our local film and television industry.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/arts-and-entertainment/paramount-earnings-are-out-the-good-the-bad-and-the-rumors">https://laist.com/news/arts-and-entertainment/paramount-earnings-are-out-the-good-the-bad-and-the-rumors</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/arts-and-entertainment/paramount-earnings-are-out-the-good-the-bad-and-the-rumors">Save to Pocket</a>
+</span>
+
+---
+
+## What Will Recent Big Leadership Changes At Disney and Netflix Mean For Audiences?
+
+date: 2024-02-29, updated: 2024-02-29, from: The LAist
+
+Disney installed Searchlight President David Greenbaum to replace Sean Bailey. Netflix hired former Warner Brothers executive Dan Lin.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/arts-and-entertainment/leadership-changes-disney-netflix">https://laist.com/news/arts-and-entertainment/leadership-changes-disney-netflix</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/arts-and-entertainment/leadership-changes-disney-netflix">Save to Pocket</a>
+</span>
+
+---
+
+## Teamsters To Push For Better Wages, Pension Benefits In Studio Negotiations Soon
+
+date: 2024-02-29, updated: 2024-02-29, from: The LAist
+
+The contracts talks will be on behalf of tens of thousands of entertainment workers.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/arts-and-entertainment/teamsters-hollywood-studio-negotiations">https://laist.com/news/arts-and-entertainment/teamsters-hollywood-studio-negotiations</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/arts-and-entertainment/teamsters-hollywood-studio-negotiations">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – February 29, 2024
+
+date: 2024-02-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/29/classifieds-february-29-2024/">Classifieds &#8211; February 29, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/29/classifieds-february-29-2024/">https://dailytrojan.com/2024/02/29/classifieds-february-29-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/29/classifieds-february-29-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## All eyes on Esmir
+
+date: 2024-02-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>With Lionel Messi’s arrival in the MLS, American wonderkids like Esmir Bajraktarevic stand to benefit from the attention.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/29/all-eyes-on-esmir/">All eyes on Esmir</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/29/all-eyes-on-esmir/">https://dailytrojan.com/2024/02/29/all-eyes-on-esmir/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/29/all-eyes-on-esmir/">Save to Pocket</a>
+</span>
+
+---
+
+## Men’s volleyball locked in to go across town for Leap Day
+
+date: 2024-02-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans are  seeking an underdog victory this week against rival UCLA.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/29/mens-volleyball-locked-in-to-go-across-town-for-leap-day/">Men’s volleyball locked in to go across town for Leap Day</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/29/mens-volleyball-locked-in-to-go-across-town-for-leap-day/">https://dailytrojan.com/2024/02/29/mens-volleyball-locked-in-to-go-across-town-for-leap-day/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/29/mens-volleyball-locked-in-to-go-across-town-for-leap-day/">Save to Pocket</a>
+</span>
+
+---
+
+## Joan Jett is the Queen of Rock
+
+date: 2024-02-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>“I Love Rock N’ Roll,” and you should, too.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/29/joan-jett-is-the-queen-of-rock/">Joan Jett is the Queen of Rock</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/29/joan-jett-is-the-queen-of-rock/">https://dailytrojan.com/2024/02/29/joan-jett-is-the-queen-of-rock/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/29/joan-jett-is-the-queen-of-rock/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Problemista’ enters Julio Torres’ eccentric mind
+
+date: 2024-02-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The film excels at world-building but occasionally pushes the boat too far out.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/29/problemista-enters-julio-torres-eccentric-mind/">‘Problemista’ enters Julio Torres’ eccentric mind</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/29/problemista-enters-julio-torres-eccentric-mind/">https://dailytrojan.com/2024/02/29/problemista-enters-julio-torres-eccentric-mind/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/29/problemista-enters-julio-torres-eccentric-mind/">Save to Pocket</a>
+</span>
+
+---
+
+## Professors grapple with AI in classrooms
+
+date: 2024-02-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Panelists discussed the use of AI in multiple capacities in a webinar Wednesday.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/29/artificial-intelligence-higher-education/">Professors grapple with AI in classrooms</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/29/artificial-intelligence-higher-education/">https://dailytrojan.com/2024/02/29/artificial-intelligence-higher-education/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/29/artificial-intelligence-higher-education/">Save to Pocket</a>
+</span>
+
+---
+
+## Men’s tennis picks up confidence in the sweep
+
+date: 2024-02-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans ended their losing streak in a dramatic 4-0 victory over Michigan.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/29/202835/">Men’s tennis picks up confidence in the sweep</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/29/202835/">https://dailytrojan.com/2024/02/29/202835/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/29/202835/">Save to Pocket</a>
+</span>
+
+---
+
+## Let’s ‘croc’ about it, Gen Z
+
+date: 2024-02-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Crocs’ comeback redefines fashion’s relationship with comfort and authenticity.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/29/lets-croc-about-it-gen-z/">Let&#8217;s ‘croc’ about it, Gen Z</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/29/lets-croc-about-it-gen-z/">https://dailytrojan.com/2024/02/29/lets-croc-about-it-gen-z/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/29/lets-croc-about-it-gen-z/">Save to Pocket</a>
+</span>
+
+---
+
+## Voting ‘yes’ on Measure HLA will make LA streets safer for all
+
+date: 2024-02-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The transportation measure will force the city to follow through on its Mobility Plan.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/29/voting-yes-on-measure-hla-will-make-la-streets-safer-for-all/">Voting ‘yes’ on Measure HLA will make LA streets safer for all</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/29/voting-yes-on-measure-hla-will-make-la-streets-safer-for-all/">https://dailytrojan.com/2024/02/29/voting-yes-on-measure-hla-will-make-la-streets-safer-for-all/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/29/voting-yes-on-measure-hla-will-make-la-streets-safer-for-all/">Save to Pocket</a>
+</span>
+
+---
+
+## IYA senior makes app for Apple Vision Pro
+
+date: 2024-02-29, from: The Daily Trojan (USC Student Newspaper)
+
+<p>ARLingo is an immersive language learning app that simulates traveling abroad.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/29/iya-senior-apple-vision-pro/">IYA senior makes app for Apple Vision Pro</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/29/iya-senior-apple-vision-pro/">https://dailytrojan.com/2024/02/29/iya-senior-apple-vision-pro/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/29/iya-senior-apple-vision-pro/">Save to Pocket</a>
+</span>
+
+---
+
+## Working four days is beneficial
+
+date: 2024-02-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>People tend to work five to six scheduled days every week. Over time, it becomes a game of pace. Staying consistent with attendance plays an</p>
+<p>The post <a href="https://theroundupnews.com/2024/02/28/working-four-days-is-beneficial/">Working four days is beneficial</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/02/28/working-four-days-is-beneficial/?utm_source=rss&utm_medium=rss&utm_campaign=working-four-days-is-beneficial">https://theroundupnews.com/2024/02/28/working-four-days-is-beneficial/?utm_source=rss&utm_medium=rss&utm_campaign=working-four-days-is-beneficial</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/02/28/working-four-days-is-beneficial/?utm_source=rss&utm_medium=rss&utm_campaign=working-four-days-is-beneficial">Save to Pocket</a>
+</span>
+
+---
+
+## Same work in less time
+
+date: 2024-02-29, from: The Round Up (Pierce College Student Newspaper)
+
+<p>With a federal minimum wage that hasn’t kept up with inflation and millions of Americans working two or more jobs to make ends meet, it’s</p>
+<p>The post <a href="https://theroundupnews.com/2024/02/28/same-work-in-less-time/">Same work in less time</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/02/28/same-work-in-less-time/?utm_source=rss&utm_medium=rss&utm_campaign=same-work-in-less-time">https://theroundupnews.com/2024/02/28/same-work-in-less-time/?utm_source=rss&utm_medium=rss&utm_campaign=same-work-in-less-time</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/02/28/same-work-in-less-time/?utm_source=rss&utm_medium=rss&utm_campaign=same-work-in-less-time">Save to Pocket</a>
+</span>
+
+---
+
+## Gallery: UCLA women’s basketball triumphs in final home games of regular season
+
+date: 2024-02-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+No. 8 UCLA women’s basketball faced No. 18 Utah and No. 13 Colorado in Pauley Pavilion for its last conference home games of the season. Sophomore guard Londynn Jones sank 7-of-10 3-pointers&#160;to fuel UCLA to a 30-point win over Utah.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/28/gallery-ucla-womens-basketball-triumphs-in-final-home-games-of-regular-season/">https://dailybruin.com/2024/02/28/gallery-ucla-womens-basketball-triumphs-in-final-home-games-of-regular-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/28/gallery-ucla-womens-basketball-triumphs-in-final-home-games-of-regular-season/">Save to Pocket</a>
+</span>
+
+---
+
+## Market Spotlight: Great Day Farms, Pedro’s Organic Ranch offer produce to Westwood farmers market
+
+date: 2024-02-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Pedro’s Organic Ranch and Great Day Farms bring vibrant fruits and vegetables to the Westwood Village Farmers’ Market each week. Both vendors offer fresh produce to their customers and serve multiple farmers markets throughout Southern California.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/28/market-spotlight-great-day-farms-pedros-organic-ranch-offer-produce-to-westwood-farmers-market/">https://dailybruin.com/2024/02/28/market-spotlight-great-day-farms-pedros-organic-ranch-offer-produce-to-westwood-farmers-market/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/28/market-spotlight-great-day-farms-pedros-organic-ranch-offer-produce-to-westwood-farmers-market/">Save to Pocket</a>
+</span>
+
+---
+
+## This Week: February 23
+
+date: 2024-02-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+The death of Russian opposition figure, Alexei Navalny. Student debt forgiveness. Podcasts contributors Zoë Bordes and Ashley Tsao discuss these stories and more with Podcasts editor Jack Garland.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/28/this-week-february-23/">https://dailybruin.com/2024/02/28/this-week-february-23/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/28/this-week-february-23/">Save to Pocket</a>
+</span>
+
+---
+
+## Long-awaited climbing gym Sender One opens, first of its kind in Westwood
+
+date: 2024-02-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Climbing gym Sender One opened to the public Wednesday, making it the first of its kind in the area.
+Located on Lindbrook Drive, between Westwood Boulevard and Glendon Avenue, the indoor rock climbing gym was once the site of the Mann Festival Theater.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/28/long-awaited-climbing-gym-sender-one-opens-first-of-its-kind-in-westwood/">https://dailybruin.com/2024/02/28/long-awaited-climbing-gym-sender-one-opens-first-of-its-kind-in-westwood/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/28/long-awaited-climbing-gym-sender-one-opens-first-of-its-kind-in-westwood/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s volleyball looks to prolong rivalry winning streak ahead of USC
+
+date: 2024-02-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Another rivalry weekend in Westwood is fast approaching.
+After UCLA men&#8217;s basketball dropped a 62-56 decision to USC on Saturday, a different Bruin crew will have the chance to retrieve the crown.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/28/ucla-mens-volleyball-looks-to-prolong-rivalry-winning-streak-ahead-of-usc/">https://dailybruin.com/2024/02/28/ucla-mens-volleyball-looks-to-prolong-rivalry-winning-streak-ahead-of-usc/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/28/ucla-mens-volleyball-looks-to-prolong-rivalry-winning-streak-ahead-of-usc/">Save to Pocket</a>
+</span>
+
+---
+
+## Undergraduate Juried Exhibition spotlights students’ stories through creativity
+
+date: 2024-02-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Connecting students, the Undergraduate Juried Exhibition gives an insight into the diverse talent of UCLA’s student artists.
+For the annual Undergraduate Juried Exhibition, the UCLA Department of Art invites its students to submit a piece of work that may be selected by the exhibition’s curator and juror, said exhibition artist Luke Godinez.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/28/undergraduate-juried-exhibition-spotlights-students-stories-through-creativity/">https://dailybruin.com/2024/02/28/undergraduate-juried-exhibition-spotlights-students-stories-through-creativity/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/28/undergraduate-juried-exhibition-spotlights-students-stories-through-creativity/">Save to Pocket</a>
+</span>
+
+---
+
+## Faculty Council passes resolution safeguarding academic freedom and faculty autonomy
+
+date: 2024-02-28, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental’s Faculty Council passed a resolution safeguarding academic freedom and faculty autonomy Dec. 7, 2023, following national and campus pressures on academic freedom in higher education and experiences of Occidental faculty who signed a statement of concern standing in solidarity with Palestinians. Biology professor and Faculty Council President John McCormack wrote and introduced the resolution [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/02/28/faculty-council-passes-resolution-safeguarding-academic-freedom-and-faculty-autonomy/2911445">Faculty Council passes resolution safeguarding academic freedom and faculty autonomy</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/news/2024/02/28/faculty-council-passes-resolution-safeguarding-academic-freedom-and-faculty-autonomy/2911445">https://theoccidentalnews.com/news/2024/02/28/faculty-council-passes-resolution-safeguarding-academic-freedom-and-faculty-autonomy/2911445</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/news/2024/02/28/faculty-council-passes-resolution-safeguarding-academic-freedom-and-faculty-autonomy/2911445">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s basketball wins SCIAC’s, advances to the NCAA tournament
+
+date: 2024-02-28, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental women’s basketball took home the SCIAC Championship with a 66-58 victory against California Lutheran University Feb. 24. This win secured the team an automatic bid for the NCAA tournament for the first time since 2011.  The Tigers will go on to play in the first round of the NCAA DIII women’s basketball bracket against [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/02/28/womens-basketball-wins-sciacs-advances-to-the-ncaa-tournament/2911500">Women&#8217;s basketball wins SCIAC&#8217;s, advances to the NCAA tournament</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/sports/2024/02/28/womens-basketball-wins-sciacs-advances-to-the-ncaa-tournament/2911500">https://theoccidentalnews.com/sports/2024/02/28/womens-basketball-wins-sciacs-advances-to-the-ncaa-tournament/2911500</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/sports/2024/02/28/womens-basketball-wins-sciacs-advances-to-the-ncaa-tournament/2911500">Save to Pocket</a>
+</span>
+
+---
+
+## LA Times columnist and ‘Quintessential Angeleno’ Patt Morrison ’74 returns to Occidental
+
+date: 2024-02-28, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>March 1 The Occidental and Los Angeles Times will host journalist and Occidental alum Patt Morrison ‘74 in conversation with co-worker and LAist.com (formerly KPCC) radio star Larry Mantle. The event is part of the LA Times’ new community outreach program and aims to connect a new generation of students with the stories of two [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/02/28/la-times-columnist-and-quintessential-angeleno-patt-morrison-74-returns-to-occidental/2911496">LA Times columnist and &#8216;Quintessential Angeleno&#8217; Patt Morrison &#8217;74 returns to Occidental</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/news/2024/02/28/la-times-columnist-and-quintessential-angeleno-patt-morrison-74-returns-to-occidental/2911496">https://theoccidentalnews.com/news/2024/02/28/la-times-columnist-and-quintessential-angeleno-patt-morrison-74-returns-to-occidental/2911496</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/news/2024/02/28/la-times-columnist-and-quintessential-angeleno-patt-morrison-74-returns-to-occidental/2911496">Save to Pocket</a>
+</span>
+
+---
+
+## CSUN kicks off spring semester with “Welcome Black”
+
+date: 2024-02-28, from: The Sundail (CSUN Student Newspaper)
+
+The Northridge Center on CSUN’s campus was swarmed by a vast array of Black scholars, clubs, and alumni to connect the Black community here on campus, following a shaky faculty...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178745/arts-entertainment/csun-kicks-off-spring-semester-with-welcome-black/">https://sundial.csun.edu/178745/arts-entertainment/csun-kicks-off-spring-semester-with-welcome-black/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178745/arts-entertainment/csun-kicks-off-spring-semester-with-welcome-black/">Save to Pocket</a>
+</span>
+
+---
+
+## CFA members vote to approve tentative agreement
+
+date: 2024-02-28, from: The Sundail (CSUN Student Newspaper)
+
+Members of the California Faculty Association voted to approve the tentative agreement between the CFA and the California State University administration. According to a press release by the CFA, over...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178741/news/cfa-members-vote-to-approve-tentative-agreement/">https://sundial.csun.edu/178741/news/cfa-members-vote-to-approve-tentative-agreement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178741/news/cfa-members-vote-to-approve-tentative-agreement/">Save to Pocket</a>
+</span>
+
+---
+
+## Five Things: Nonconference play for UCLA women’s tennis
+
+date: 2024-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+This post was updated Feb. 28 at 6:18 p.m.
+UCLA women&#8217;s tennis (4-3) commences Pac-12 play for the last time against USC (7-3) on Friday afternoon.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/28/five-things-nonconference-play-for-ucla-womens-tennis/">https://dailybruin.com/2024/02/28/five-things-nonconference-play-for-ucla-womens-tennis/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/28/five-things-nonconference-play-for-ucla-womens-tennis/">Save to Pocket</a>
+</span>
+
+---
+
+## Trivia and game show at Umoja
+
+date: 2024-02-28, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The atmosphere in the Multicultural Center during Umoja’s Ultimate Game Show was filled with laughter and comradery as two teams went head-to-head to test their</p>
+<p>The post <a href="https://theroundupnews.com/2024/02/28/trivia-and-game-show-at-umoja/">Trivia and game show at Umoja</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/02/28/trivia-and-game-show-at-umoja/?utm_source=rss&utm_medium=rss&utm_campaign=trivia-and-game-show-at-umoja">https://theroundupnews.com/2024/02/28/trivia-and-game-show-at-umoja/?utm_source=rss&utm_medium=rss&utm_campaign=trivia-and-game-show-at-umoja</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/02/28/trivia-and-game-show-at-umoja/?utm_source=rss&utm_medium=rss&utm_campaign=trivia-and-game-show-at-umoja">Save to Pocket</a>
+</span>
+
+---
+
+## Transferring on a high note
+
+date: 2024-02-28, from: The Round Up (Pierce College Student Newspaper)
+
+<p>When Paulette Santa Maria started college, she didn’t think she’d be able to turn her talent for singing into a career. Four semesters later, she</p>
+<p>The post <a href="https://theroundupnews.com/2024/02/28/transferring-on-a-high-note/">Transferring on a high note</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/02/28/transferring-on-a-high-note/?utm_source=rss&utm_medium=rss&utm_campaign=transferring-on-a-high-note">https://theroundupnews.com/2024/02/28/transferring-on-a-high-note/?utm_source=rss&utm_medium=rss&utm_campaign=transferring-on-a-high-note</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/02/28/transferring-on-a-high-note/?utm_source=rss&utm_medium=rss&utm_campaign=transferring-on-a-high-note">Save to Pocket</a>
+</span>
+
+---
+
+## Pierces College Council talks enrollment recovery and risk of budget deficit
+
+date: 2024-02-28, from: The Round Up (Pierce College Student Newspaper)
+
+<p>From enrollment rates and retention to parking concerns, as well as the possibility that the school might go into a budget deficit, the Pierce College</p>
+<p>The post <a href="https://theroundupnews.com/2024/02/28/pierces-college-council-talks-enrollment-recovery-and-risk-of-budget-deficit/">Pierces College Council talks enrollment recovery and risk of budget deficit</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/02/28/pierces-college-council-talks-enrollment-recovery-and-risk-of-budget-deficit/?utm_source=rss&utm_medium=rss&utm_campaign=pierces-college-council-talks-enrollment-recovery-and-risk-of-budget-deficit">https://theroundupnews.com/2024/02/28/pierces-college-council-talks-enrollment-recovery-and-risk-of-budget-deficit/?utm_source=rss&utm_medium=rss&utm_campaign=pierces-college-council-talks-enrollment-recovery-and-risk-of-budget-deficit</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/02/28/pierces-college-council-talks-enrollment-recovery-and-risk-of-budget-deficit/?utm_source=rss&utm_medium=rss&utm_campaign=pierces-college-council-talks-enrollment-recovery-and-risk-of-budget-deficit">Save to Pocket</a>
+</span>
+
+---
+
+## Parking at Pierce creates more problems than just headaches
+
+date: 2024-02-28, from: The Round Up (Pierce College Student Newspaper)
+
+<p>With the semester starting and enrollment returning to pre-pandemic numbers, parking has become a time-consuming and anxiety-inducing task for students that also compromises their safety.</p>
+<p>The post <a href="https://theroundupnews.com/2024/02/28/parking-at-pierce-creates-more-problems-than-just-headaches/">Parking at Pierce creates more problems than just headaches</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/02/28/parking-at-pierce-creates-more-problems-than-just-headaches/?utm_source=rss&utm_medium=rss&utm_campaign=parking-at-pierce-creates-more-problems-than-just-headaches">https://theroundupnews.com/2024/02/28/parking-at-pierce-creates-more-problems-than-just-headaches/?utm_source=rss&utm_medium=rss&utm_campaign=parking-at-pierce-creates-more-problems-than-just-headaches</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/02/28/parking-at-pierce-creates-more-problems-than-just-headaches/?utm_source=rss&utm_medium=rss&utm_campaign=parking-at-pierce-creates-more-problems-than-just-headaches">Save to Pocket</a>
+</span>
+
+---
+
+## A festival of dramatic proportions
+
+date: 2024-02-28, from: The Round Up (Pierce College Student Newspaper)
+
+<p>With the final round of competition approaching the next morning, nerve-wracked acting major Dale Van Slyke realized his previously perfected monologue for the Kennedy Center</p>
+<p>The post <a href="https://theroundupnews.com/2024/02/28/a-festival-of-dramatic-proportions/">A festival of dramatic proportions</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/02/28/a-festival-of-dramatic-proportions/?utm_source=rss&utm_medium=rss&utm_campaign=a-festival-of-dramatic-proportions">https://theroundupnews.com/2024/02/28/a-festival-of-dramatic-proportions/?utm_source=rss&utm_medium=rss&utm_campaign=a-festival-of-dramatic-proportions</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/02/28/a-festival-of-dramatic-proportions/?utm_source=rss&utm_medium=rss&utm_campaign=a-festival-of-dramatic-proportions">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s basketball leads with 15th win
+
+date: 2024-02-28, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The women’s basketball team played their 15th win of the season, with Brahma Tijera Henry scoring the final points.  During the first few minutes of</p>
+<p>The post <a href="https://theroundupnews.com/2024/02/28/womens-basketball-leads-with-15th-win/">Women’s basketball leads with 15th win</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/02/28/womens-basketball-leads-with-15th-win/?utm_source=rss&utm_medium=rss&utm_campaign=womens-basketball-leads-with-15th-win">https://theroundupnews.com/2024/02/28/womens-basketball-leads-with-15th-win/?utm_source=rss&utm_medium=rss&utm_campaign=womens-basketball-leads-with-15th-win</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/02/28/womens-basketball-leads-with-15th-win/?utm_source=rss&utm_medium=rss&utm_campaign=womens-basketball-leads-with-15th-win">Save to Pocket</a>
+</span>
+
+---
+
+## ‘He’s a clutch player’: Roch Cholowsky’s go-ahead double clinches UCLA baseball win
+
+date: 2024-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The crack of the bat is the quintessential sound of baseball.
+From big flies to bunts, it draws the most attention.
+Not all batted balls that spur the attention-grabbing tone fall for hits, but Tuesday night, the Bruins’ 10th proved the difference.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/28/hes-a-clutch-player-roch-cholowskys-go-ahead-double-clinches-ucla-baseball-win/">https://dailybruin.com/2024/02/28/hes-a-clutch-player-roch-cholowskys-go-ahead-double-clinches-ucla-baseball-win/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/28/hes-a-clutch-player-roch-cholowskys-go-ahead-double-clinches-ucla-baseball-win/">Save to Pocket</a>
+</span>
+
+---
+
+## Campus Spots Spotlight: Ackerman Union
+
+date: 2024-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/28/campus-spots-spotlight-ackerman-union/">https://dailybruin.com/2024/02/28/campus-spots-spotlight-ackerman-union/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/28/campus-spots-spotlight-ackerman-union/">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial Cartoon: “The Barrier to Spring Break … “
+
+date: 2024-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160;
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/28/editorial-cartoon-the-barrier-to-spring-break/">https://dailybruin.com/2024/02/28/editorial-cartoon-the-barrier-to-spring-break/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/28/editorial-cartoon-the-barrier-to-spring-break/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -75,6 +555,20 @@ date: 2024-02-28, from: The Occidental News (Occidental College Student Newspape
 
 <span class="feed-item-link">
 <a href="https://theoccidentalnews.com/uncategorized/2024/02/28/first-years-prepare-in-the-midst-of-writing-portfolio-season/2911488">https://theoccidentalnews.com/uncategorized/2024/02/28/first-years-prepare-in-the-midst-of-writing-portfolio-season/2911488</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/uncategorized/2024/02/28/first-years-prepare-in-the-midst-of-writing-portfolio-season/2911488">Save to Pocket</a>
+</span>
+
+---
+
+## First years prepare in the midst of writing portfolio season
+
+date: 2024-02-28, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>March 1 is the due date for first-year students to submit their writing portfolios. The writing portfolio is a way for students to demonstrate improvement in their writing skills throughout their first year at Occidental and a way to determine eligibility for upper-division writing courses, according to writing fellow Ella Acker (junior). Acker said the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/02/28/first-years-prepare-in-the-midst-of-writing-portfolio-season/2911488">First years prepare in the midst of writing portfolio season</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/culture/2024/02/28/first-years-prepare-in-the-midst-of-writing-portfolio-season/2911488">https://theoccidentalnews.com/culture/2024/02/28/first-years-prepare-in-the-midst-of-writing-portfolio-season/2911488</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/culture/2024/02/28/first-years-prepare-in-the-midst-of-writing-portfolio-season/2911488">Save to Pocket</a>
 </span>
 
 ---
@@ -267,12 +761,12 @@ date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Bronny should stay in college
+## Bronny should stay in college as long as he can
 
 date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
 
 <p>James has a lot of raw talent, but isn’t ready for the NBA just yet.</p>
-<p>The post <a href="https://dailytrojan.com/2024/02/28/202744/">Bronny should stay in college</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/28/202744/">Bronny should stay in college as long as he can</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
 
 
 <span class="feed-item-link">
@@ -383,7 +877,7 @@ date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-02-28, from: The Daily Bruin (UCLA Student Newspaper)
 
-
+Students gathered in masses for the annual crosstown rivalry game at Pauley Pavilion. Many even camped out overnight to secure their spot in line. But ultimately, the Bruins’ offense caved against the Trojans in a 62-56 loss.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/27/gallery-ucla-mens-basketball-falls-to-usc-in-sold-out-rivalry-game/">https://dailybruin.com/2024/02/27/gallery-ucla-mens-basketball-falls-to-usc-in-sold-out-rivalry-game/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/27/gallery-ucla-mens-basketball-falls-to-usc-in-sold-out-rivalry-game/">Save to Pocket</a>
@@ -430,7 +924,7 @@ The Feb.
 
 ---
 
-## Resisting antimicrobial resistance: We must act for antibiotics to remain helpful
+## Opinion: Resisting antimicrobial resistance – We must act for antibiotics to remain helpful
 
 date: 2024-02-28, from: The Daily Bruin (UCLA Student Newspaper)
 

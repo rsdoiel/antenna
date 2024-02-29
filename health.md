@@ -1,11 +1,59 @@
 ---
 title: health 2024.09
-updated: 2024-02-28 08:06:54
+updated: 2024-02-29 08:35:32
 ---
 
 # health 2024.09
 
-(date: 2024-02-28 08:06:54)
+(date: 2024-02-29 08:35:32)
+
+---
+
+## Design of a multi-epitope vaccine against goatpox virus using an immunoinformatics approach
+
+date: 2024-02-29, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>Goatpox, a severe infectious disease caused by goatpox virus (GTPV), leads to enormous economic losses in the livestock industry. Traditional live attenuated vaccines cause serious side effects and exist a risk of dispersal. Therefore, it is urgent to develop efficient and safer vaccines to prevent and control of GTPV.</p></sec><sec><title>Methods</title><p>In the present study, we are aimed to design a multi-epitope subunit vaccine against GTPV using an immunoinformatics approach. Various immunodominant cytotoxic T lymphocytes (CTL) epitopes, helper T lymphocytes (HTL) epitopes, and B-cell epitopes from P32, L1R, and 095 proteins of GTPV were screened and liked by the AAY, GPGPG, and KK connectors, respectively. Furthermore, an adjuvant β-defensin was attached to the vaccine’s N-terminal using the EAAAK linker to enhance immunogenicity.</p></sec><sec><title>Results</title><p>The constructed vaccine was soluble, non-allergenic and non-toxic and exhibited high levels of antigenicity and immunogenicity. The vaccine’s 3D structure was subsequently predicted, refined and validated, resulting in an optimized model with a Z-value of -3.4. Molecular docking results demonstrated that the vaccine had strong binding affinity with TLR2(-27.25 kcal/mol), TLR3(-39.84 kcal/mol), and TLR4(-59.42 kcal/mol). Molecular dynamics simulation results indicated that docked vaccine-TLR complexes were stable. Immune simulation analysis suggested that the vaccine can induce remarkable increase in antibody titers of IgG and IgM, higher levels of IFN-γ and IL-2.</p></sec><sec><title>Conclusion</title><p>The designed GTPV multi-epitope vaccine is structurally stable and can induce robust humoral and cellular immune responses, which may be a promising vaccine candidate against GTPV.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1309096">https://www.frontiersin.org/articles/10.3389/fcimb.2023.1309096</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2023.1309096">Save to Pocket</a>
+</span>
+
+---
+
+## An overview of anti-Hepatitis B virus flavonoids and their mechanisms of action
+
+date: 2024-02-29, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Flavonoids, a diverse group of polyphenolic compounds found in various plant-based foods, have garnered attention for their potential in combating Hepatitis B Virus (HBV) infection. Flavonoids have demonstrated promising anti-HBV activities by interfering with multiple stages of the HBV life cycle, making them promising candidates for novel antiviral agents. Certain plant families, such as <italic>Theaceae</italic>, <italic>Asteraceae</italic>, <italic>Lamiaceae</italic>, and <italic>Gentianaceae</italic>, are of particular interest for their flavonoid-rich members with anti-HBV activities. Evidences, both <italic>in vitro</italic> and <italic>in vivo</italic>, supports the anti-HBV potential of flavonoids. These subsets of compound exert their anti-HBV effects through various mechanisms, including inhibiting viral entry, disrupting viral replication, modulating transcription factors, enhancing the immune response, and inducing autophagy. The antioxidant properties of flavonoids play a crucial role in modulating oxidative stress associated with HBV infection. Several flavonoids like epigallocatechin gallate (EGCG), proanthocyanidin (PAC), hexamethoxyflavone, wogonin, and baicalin have shown significant anti-HBV potential, holding promise as therapeutic agents. Synergistic effects between flavonoids and existing antiviral therapies offer a promising approach to enhance antiviral efficacy and reduce drug resistance. Challenges, including limited bioavailability, translation from preclinical studies to clinical practice, and understanding precise targets, need to be addressed. Future research should focus on clinical trials, combination therapies, and the development of flavonoid derivatives with improved bioavailability, and optimizing their effectiveness in managing chronic HBV infections.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1356003">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1356003</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1356003">Save to Pocket</a>
+</span>
+
+---
+
+## O-Antigen decorations in Salmonella enterica play a key role in eliciting functional immune responses against heterologous serovars in animal models
+
+date: 2024-02-29, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>Different serovars of Salmonella enterica cause systemic diseases in humans including enteric fever, caused by S. Typhi and S. Paratyphi A, and invasive nontyphoidal salmonellosis (iNTS), caused mainly by S. Typhimurium and S. Enteritidis. No vaccines are yet available against paratyphoid fever and iNTS but different strategies, based on the immunodominant O-Antigen component of the lipopolysaccharide, are currently being tested. The O-Antigens of S. enterica serovars share structural features including the backbone comprising mannose, rhamnose and galactose as well as further modifications such as O-acetylation and glucosylation. The importance of these O-Antigen decorations for the induced immunogenicity and cross-reactivity has been poorly characterized.</p></sec><sec><title>Methods</title><p>These immunological aspects were investigated in this study using Generalized Modules for Membrane Antigens (GMMA) as delivery systems for the different O-Antigen variants. This platform allowed the rapid generation and in vivo testing of defined and controlled polysaccharide structures through genetic manipulation of the O-Antigen biosynthetic genes.</p></sec><sec><title>Results</title><p>Results from mice and rabbit immunization experiments highlighted the important role played by secondary O-Antigen decorations in the induced immunogenicity. Moreover, molecular modeling of O-Antigen conformations corroborated the likelihood of cross-protection between S. enterica serovars.</p></sec><sec><title>Discussion</title><p>Such results, if confirmed in humans, could have a great impact on the design of a simplified vaccine composition able to maximize functional immune responses against clinically relevant Salmonella enterica serovars.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1347813">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1347813</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1347813">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: Antibiotics overuse as the driving force behind antimicrobial resistance
+
+date: 2024-02-29, from: Frontiers in Cellular and Infection Microbiology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1373846">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1373846</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1373846">Save to Pocket</a>
+</span>
 
 ---
 
