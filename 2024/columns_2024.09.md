@@ -1,11 +1,96 @@
 ---
 title: columns 2024.09
-updated: 2024-02-29 08:35:31
+updated: 2024-03-01 08:45:26
 ---
 
 # columns 2024.09
 
-(date: 2024-02-29 08:35:31)
+(date: 2024-03-01 08:45:26)
+
+---
+
+## (Not) too old for this *
+
+date: 2024-03-01, from: Paolo Valdemarin's blog
+
+By the end of this year it will be 30 years since I registered my first domain name (warning, your browser might throw a hissy fit, I didn’t bother to get a certificate to secure that site, it’s just there for nostalgic reasons, not worth the hassle). Yesterday I was trying to get a colleague &#8230; <a href="https://val.demar.in/2024/03/not-too-old-for-this/" class="more-link">Continue reading<span class="screen-reader-text"> "(Not) too old for this *"</span></a>
+
+<span class="feed-item-link">
+<a href="https://val.demar.in/2024/03/not-too-old-for-this/">https://val.demar.in/2024/03/not-too-old-for-this/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://val.demar.in/2024/03/not-too-old-for-this/">Save to Pocket</a>
+</span>
+
+---
+
+## NIST Cybersecurity Framework 2.0
+
+date: 2024-03-01, updated: 2024-02-29, from: Bruce Schneier blog
+
+<p>NIST has released <a href="https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework">version 2.0</a> of the Cybersecurity Framework:</p>
+<blockquote><p>The CSF 2.0, which supports implementation of the <a href="https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf">National Cybersecurity Strategy</a>, has an expanded scope that goes beyond protecting critical infrastructure, such as hospitals and power plants, to all organizations in any sector. It also has a new focus on governance, which encompasses how organizations make and carry out informed decisions on cybersecurity strategy. The CSF&#8217;s governance component emphasizes that cybersecurity is a major source of enterprise risk that senior leaders should consider alongside others such as finance and reputation...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/03/nist-cybersecurity-framework-2-0.html">https://www.schneier.com/blog/archives/2024/03/nist-cybersecurity-framework-2-0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/03/nist-cybersecurity-framework-2-0.html">Save to Pocket</a>
+</span>
+
+---
+
+## The Old Left, the New Left, and the Left Behind
+
+date: 2024-03-01, from: Robert Reich's blog
+
+The roots of Trumpism, Part 9
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/the-old-left-the-new-left-and-the">https://robertreich.substack.com/p/the-old-left-the-new-left-and-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/the-old-left-the-new-left-and-the">Save to Pocket</a>
+</span>
+
+---
+
+## Larry David Promoting Siri
+
+date: 2024-03-01, updated: 2024-03-01, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://twitter.com/rjonesy/status/1762250373035905415">https://twitter.com/rjonesy/status/1762250373035905415</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://twitter.com/rjonesy/status/1762250373035905415">Save to Pocket</a>
+</span>
+
+---
+
+## Friday 1 March, 2024
+
+date: 2024-03-01, from: John Naughton's online diary
+
+Things to come It is, after all, the 1st of March. Quote of the Day When you make motion pictures, each picture is a life unto itself. When you finish and the picture is over, there&#8217;s an understanding, a realisation &#8230; <a href="https://memex.naughtons.org/friday-1-march-2024/39193/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/friday-1-march-2024/39193/">https://memex.naughtons.org/friday-1-march-2024/39193/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/friday-1-march-2024/39193/">Save to Pocket</a>
+</span>
+
+---
+
+## Democracy Is Not A Spectator Sport
+
+date: 2024-02-29, from: Dan Rather's Steady
+
+There is something we can do to beat Trump
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/democracy-is-not-a-spectator-sport">https://steady.substack.com/p/democracy-is-not-a-spectator-sport</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/democracy-is-not-a-spectator-sport">Save to Pocket</a>
+</span>
+
+---
+
+## Humane, Nearing Launch of Ai Pin, Is Gathering Steam
+
+date: 2024-02-29, updated: 2024-02-29, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://humane.com/media/humane-and-softbank">https://humane.com/media/humane-and-softbank</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://humane.com/media/humane-and-softbank">Save to Pocket</a>
+</span>
 
 ---
 

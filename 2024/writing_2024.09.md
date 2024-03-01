@@ -1,11 +1,114 @@
 ---
 title: writing 2024.09
-updated: 2024-02-29 08:35:31
+updated: 2024-03-01 08:45:26
 ---
 
 # writing 2024.09
 
-(date: 2024-02-29 08:35:31)
+(date: 2024-03-01 08:45:26)
+
+---
+
+## Charles Payseur Reviews Short Fiction: GigaNotoSaurus, Diabolical Plots, Lightspeed and Rosalind’s Siblings
+
+date: 2024-03-01, from: Locus Magazine
+
+<p>GigaNotoSaurus 12/23
+Diabolical Plots 12/23
+Lightspeed 12/23, 1/24
+<strong>Rosalind’s Siblings</strong>, Bogi Takács, ed. (Atthis Arts) September 2023</p>
+<p>The December GigaNotoSaurus mixes two of my favorite things in <strong>Sara Norja</strong>’s “<strong>Reconciliation Dumplings and Other Recipes</strong>”: Sspeculative fiction and food! The piece is framed as parts of a book of family recipes collated and annotated by Ember, who is writing them down to save them for future generations.  <a href="https://locusmag.com/2024/03/charles-payseur-reviews-short-fiction-2/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/charles-payseur-reviews-short-fiction-2/">https://locusmag.com/2024/03/charles-payseur-reviews-short-fiction-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/charles-payseur-reviews-short-fiction-2/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-03-01, from: Neil Gaiman @ BlueSky)
+
+Are you a cartoonist? Do you dream of a residency in April somewhere wonderful? (Spread the word.)
+
+https://www.cartoonstudies.org/cornishfellowship/
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmnizowhus2k">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmnizowhus2k</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmnizowhus2k">Save to Pocket</a>
+</span>
+
+---
+
+## 5 Ways To Write a Modern Biopic
+
+date: 2024-03-01, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/5-ways-to-write-a-modern-biopic" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/The%20Aviator.jpeg" alt="'The Aviator,' 5 Ways To Write a Modern Biopic " class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Hollywood has been producing biographical films or&nbsp;<a href="https://blog.finaldraft.com/want-write-biopic">biopics</a>&nbsp;since the earliest days of the movie business. Due to changing times and tastes, some&nbsp;<a href="https://blog.finaldraft.com/what-genre-is-my-screenplay">film genres</a>&nbsp;come and go with varying popularity in&nbsp;the screenwriting marketplace.&nbsp;With more and more focus on established intellectual properties (a.k.a. IP)— due to brand recognition—fewer films are being made based on original stories.</p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/5-ways-to-write-a-modern-biopic">https://blog.finaldraft.com/5-ways-to-write-a-modern-biopic</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/5-ways-to-write-a-modern-biopic">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-03-01, from: Neil Gaiman @ BlueSky)
+
+It's so good.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmnebmipas2w">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmnebmipas2w</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmnebmipas2w">Save to Pocket</a>
+</span>
+
+---
+
+## Around the Web: Profiles of Sarah J. Maas and Stanislaw Lem; Reviews by Amal El-Mohtar, Sophie Mackintosh, Gabino Iglesias, and Charlie Jane Anders; Recalling the book Poor Things; Scott Edelman Dines
+
+date: 2024-02-29, from: Locus Magazine
+
+<p>» <strong>Vox, Constance Grady</strong>, 27 Feb 2024: Why half the people you know are obsessed with this book series, subtitled &#8220;With A Court of Thorns and Roses, Sarah J. Maas has established herself as the reigning queen of romantasy.&#8221;</p>
+<p>» <strong>The New Yorker, Rivka Galchen</strong>, 27 Feb 2024: Thinking About A.I. with Stanisław Lem, subtitled &#8220;The science-fiction writer didn’t live to see ChatGPT, but he foresaw so much  <a href="https://locusmag.com/2024/02/around-the-web-profiles-of-sarah-j-maas-and-stanislaw-lem-reviews-by-amal-el-mohtar-sophie-mackintosh-gabino-iglesias-and-charlie-jane-anders-recalling-the-book-poor-things-scott-edelman-dines/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/around-the-web-profiles-of-sarah-j-maas-and-stanislaw-lem-reviews-by-amal-el-mohtar-sophie-mackintosh-gabino-iglesias-and-charlie-jane-anders-recalling-the-book-poor-things-scott-edelman-dines/">https://locusmag.com/2024/02/around-the-web-profiles-of-sarah-j-maas-and-stanislaw-lem-reviews-by-amal-el-mohtar-sophie-mackintosh-gabino-iglesias-and-charlie-jane-anders-recalling-the-book-poor-things-scott-edelman-dines/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/around-the-web-profiles-of-sarah-j-maas-and-stanislaw-lem-reviews-by-amal-el-mohtar-sophie-mackintosh-gabino-iglesias-and-charlie-jane-anders-recalling-the-book-poor-things-scott-edelman-dines/">Save to Pocket</a>
+</span>
+
+---
+
+## Magazines Received – February
+
+date: 2024-02-29, from: Locus Magazine
+
+<div class="blockquote">This list covers new SF/F/H print, online, and electronic periodicals (including regularly updated websites) seen by Locus magazine, focusing on those that publish fiction or reviews and criticism. To submit titles for listing on these pages, please send to Locus Publications, 655 13th St. #100, Oakland CA 94612 or email locus@locusmag.com.</div>
+<div>
+<div class="mynomorebulletlist">
+<div class="mynomorebulletlist">
+<div class="mynomorebulletlist">
+<div class="mynomorebulletlist">
+
+<div class="mynomorebulletlist">
+<p>Dreams &#38; Nightmares</p>
+<ul>
+<li>David C. Kopaska-Merkel, ed.</li>
+<li>Issue No. 126, January 2024, $5.00 print/$1.00 digital, irregular, 24pp, 13.5 x </li></ul></div></div></div></div></div></div> <a href="https://locusmag.com/2024/02/magazines-received-february-3/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/02/magazines-received-february-3/">https://locusmag.com/2024/02/magazines-received-february-3/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/02/magazines-received-february-3/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-02-29, from: Neil Gaiman @ BlueSky)
+
+The Golden Notebook are such good guys.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kml5j2qtgc2w">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kml5j2qtgc2w</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kml5j2qtgc2w">Save to Pocket</a>
+</span>
 
 ---
 
@@ -243,7 +346,7 @@ You can take the Snoopy away from H.P. Lovecraft, but you'll never take the Cthu
 
 date: 2024-02-27, from: Locus Magazine
 
-<p>Author, academic, critic, editor, and translator Brian Stableford, 75, died February 24, 2024 after a long illness. He was married twice and is survived by his son Leo and daughter Kathy.</p>
+<p>Author, academic, critic, editor, and translator Brian Stableford, 75, died February 24, 2024 after a long illness. He was married twice and is survived by his son Leo and daughter Katy.</p>
 <p>Brian Michael Stableford was born July 25, 1948 in Shipley, Yorkshire, England. He attended the University of York, getting a degree in biology, followed by a doctorate in sociology; his doctoral thesis was <strong>The Sociology of Science Fiction</strong>.  <a href="https://locusmag.com/2024/02/brian-stableford-1948-2024/" class="read-more">...Read More </a></p>
 
 <span class="feed-item-link">

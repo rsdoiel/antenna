@@ -1,11 +1,384 @@
 ---
 title: parks 2024.09
-updated: 2024-02-29 08:35:32
+updated: 2024-03-01 08:45:26
 ---
 
 # parks 2024.09
 
-(date: 2024-02-29 08:35:32)
+(date: 2024-03-01 08:45:26)
+
+---
+
+## BLM Dillon Fisheries Biologist Recognized for Outstanding Public Service
+
+date: 2024-03-01, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>BLM Dillon Fisheries Biologist Recognized for Outstanding Public Service</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p>Longtime Dillon Field Office Fisheries Biologist Paul Hutchinson was recently recognized by Montana Fish Wildlife and Parks (MTFWP) for his outstanding public service related to the conservation and protection of westslope cutthroat trout.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="3e37347e-0fc9-43ff-938b-fe890fb45260" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/Paul%20Hutchinson%20Award_0.jpg?itok=xKX7pVEv" width="640" height="356" alt="Three men standing in a row. The one on the left holds a plaque in the shape of Montana." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Paul Hutchinson (left) receives plaque from Montana Fish, Wildlife and Parks. Photo by Amanda James</figcaption>
+</figure>
+
+
+<p>The cutthroat trout is Montana’s state fish. One of two subspecies, the westslope cutthroat trout is the primary sub species found in the upper Missouri River Basin of southwest Montana. Once the dominate species in the streams and rivers of southwest Montana, this species now occupies approximately five percent of its historic range due to competition and hybridization from non-native species.</p>
+
+<p>In the early 2000s the westslope cutthroat trout was petitioned for listing under the Endangered Species Act (ESA). The U.S. Fish and Wildlife Service (USFWS) found that listing under the ESA was not warranted in 2003. Despite this finding, it highlighted the significant threats to the species.</p>
+
+<p>Shortly after the USFWS determined listing was not warranted, a statewide working group was formed centered around the conservation of the westslope cutthroat trout. Ultimately a Memorandum (MOU) of Understanding for westslope conservation was developed that included federal and state government agencies, non-government conservation groups, private industry, and livestock organizations from around the state. In total, 28 agencies/groups including the BLM were signatories on the MOU. This MOU laid the foundation for cross boundary coordination and restorative work on westslope cutthroat trout habitat, and some of the biggest gains for the species have occurred in southwest Montana.</p>
+
+<p>Since 2010, more than 30 large cutthroat projects have occurred and over 300 miles of cutthroat trout habitat has been protected on federal, state, and private lands throughout southwest Montana. Projects include habitat restoration, construction of fish barriers to protect at risk fish populations, piscicide treatments (chemical substance poisonous to fish), and capture and relocation projects.</p>
+
+<figure role="group">
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="980ee1c1-1e8c-4368-a011-51c643a6e704" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/westslope-release%20MFWP%20photo.jpg?itok=yy-5be8C" width="500" height="334" alt="A hand holds a fish just above the water in a stream." typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption>Westslope cutthroat trout release. Photo from Montana Fish, Wildlife and Parks website.</figcaption>
+</figure>
+
+
+<p>Paul Hutchinson, who started with the Dillon Field Office in the early 2000’s has been an integral part of this conservation since the petition for listing, formation of the statewide working group, and ultimately the successes of the MOU and its conservation strategy throughout southwest Montana.</p>
+
+<p>In December 2023, Montana Fish Wildlife and Parks recognized the success of westslope cutthroat trout conservation in Southwest Montana, by awarding Paul Hutchinson the Fish Wildlife and Parks Outstanding Public Service Award, an award typically reserved for Fish Wildlife and Parks employees. Fish Wildlife and Parks has recognized that Paul has been working on southwest Montana westslope cutthroat trout projects longer than most involved and his knowledge and experience is an asset. His work has benefitted not only westslope cutthroat trout, but also permittees that would be largely affected by a westslope cutthroat trout listing. Currently Montana Fish Wildlife and Parks is working on a statewide conservation strategy for westslope cutthroat trout, and other regions are looking to southwest Montana as the model for this plan. They key to success has been the commitment from partnering agencies and Paul Hutchinson has been a big part of this from the beginning.</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+          <div><a href="https://www.blm.gov/region/western-montana-do" hreflang="en">Western Montana DO</a></div>
+          <div><a href="https://www.blm.gov/region/dillon-fo" hreflang="en">Dillon FO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/fish-and-wildlife" hreflang="en">Fish and Wildlife</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-02-29T12:00:00Z">Thu, 02/29/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46993/edit" hreflang="en">MT/DKs Westslope cutthroat trout</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/fisheries-and-aquatics" hreflang="en">Fisheries</a></div>
+              <div><a href="https://www.blm.gov/tag/employee" hreflang="en">Employee</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/montana-dakotas" hreflang="en">Montana-Dakotas</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46995/edit" hreflang="en">MT/DKs Paul Hutchinson Award</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-02-29/blm-dillon-fisheries-biologist-recognized-outstanding-public-service">https://www.blm.gov/blog/2024-02-29/blm-dillon-fisheries-biologist-recognized-outstanding-public-service</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-29/blm-dillon-fisheries-biologist-recognized-outstanding-public-service">Save to Pocket</a>
+</span>
+
+---
+
+## BLM approves Alta Wind Battery Energy Storage project in California
+
+date: 2024-02-29, from: Bureau of Land Management, California
+
+<div class="field contact-block -teaser-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/teaser/public/images/2024-02/53558165033_c5f44ea7e2_w.jpg?h=3b5d1417&itok=CEZJ8w57" width="150" height="100" alt="Wind turbines in the desert" typeof="foaf:Image">
+
+
+</div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="0b9dfbb9-fbfc-4768-bfc5-4438c1c38103" data-langcode="en" class="align-left embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/53558165033_c5f44ea7e2_w.jpg?itok=VePm7VNg" width="400" height="300" alt="Wind turbines in the desert" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p>RIDGECREST, Calif. — The Bureau of Land Management today approved the Alta Wind Battery Energy Storage System right-of-way in Kern County. The project is designed to deliver 150 megawatts of electricity to the California power grid, store up to 1,200 megawatt hours, and increase the reliability and availability of clean power produced by the existing Alta Wind Energy Center.</p>
+
+<p>“Battery energy storage projects like Alta Wind support the delivery of reliable and increasingly clean energy to consumers,” said <em><strong>BLM California Acting State Director Gordon Toevs</strong></em>. “The BLM continues to advance clean energy development and enhance America’s energy security.”</p>
+
+<p>The 25-acre project will be located entirely within the existing right-of-way issued for the Alta 1 Wind Facility. The battery systems will be enclosed in climate-controlled containers with individual clean gas fire suppression systems. Additional information and project documents are available at the <a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Feplanning.blm.gov%2Feplanning-ui%2Fproject%2F2030259%2F510&data=05%7C02%7Csdenos%40blm.gov%7Cd5e0194e9a0c4a7ca56208dc36f16da1%7C0693b5ba4b184d7b9341f32f400a5494%7C0%7C0%7C638445657749825915%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=aVnpsOm%2FBTSvi%2FBL4YrvRzJ83EDdLQ4fITqH7oMa9K4%3D&reserved=0" target="_blank" title="Original URL: https://eplanning.blm.gov/eplanning-ui/project/2030259/510. Click or tap if you trust this link.">BLM National NEPA Register</a>.</p>
+
+<p>The BLM manages vast stretches of public lands that have the potential to make significant contributions to the nation’s renewable energy portfolio. To promote the development of these energy sources, the BLM provides sites for environmentally sound development of renewable energy on public lands. The efficient deployment of renewable energy from our nation’s public lands is crucial in achieving the Biden-Harris administration’s goal of a carbon pollution-free power sector by 2035, as well as Congress’ direction in the Energy Act of 2020 to permit 25 gigawatts of solar, wind, and geothermal production on public lands no later than 2025.</p>
+</div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/press-release/blm-approves-alta-wind-battery-energy-storage-project-california">https://www.blm.gov/press-release/blm-approves-alta-wind-battery-energy-storage-project-california</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/press-release/blm-approves-alta-wind-battery-energy-storage-project-california">Save to Pocket</a>
+</span>
+
+---
+
+## Record of the Week: Tullahassee, Oklahoma
+
+date: 2024-02-29, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Record of the Week: Tullahassee, Oklahoma</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p>For our record of the week brought to you by BLM's General Land Office, we go back to 1898 and this survey plat of Tullahassee, Oklahoma.</p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="afa7ecc1-2dc6-4fbe-8782-d62a5e400676" data-langcode="en" class="align-center embedded-entity" data-entity-embed-display-settings="[]"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/Tullahassee.jpg?itok=Mw_xD8lB" width="640" height="369" alt="A brown plat, showing a map of Tullahassee, Oklahoma in 1898" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p>What makes Tullahassee special? Primarily that it is believed to be the oldest surviving all-black town in Oklahoma. In 1898 there were about 50 residents of the town just outside of Muskogee. In the early 20th century the population grew to a max of around 200.<br>
+<br>
+These days the population has dipped below 100, but there are current efforts underway to revitalize the area.</p>
+
+<p>You can learn more about this record on <a data-extlink href="https://storymaps.arcgis.com/stories/27c2d2dfd2e04ffe9d49d517c1ec9af0" rel="noopener" tabindex="-1" target="_blank">ArcGIS Story Maps</a> and check out our past records of the week at our <a href="https://edit.blm.gov/services/land-records/weekly-story-maps" tabindex="-1">GLO record of the week page</a>!</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
+          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+          <div><a href="https://www.blm.gov/region/oklahoma-fo" hreflang="en">Oklahoma FO</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-02-18T12:00:00Z">Sun, 02/18/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/eastern-states-state-office" hreflang="en">Eastern States State Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46990/edit" hreflang="en">Tullahassee Plat</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/glo-story-maps" hreflang="en">GLO</a></div>
+              <div><a href="https://www.blm.gov/tag/record-week" hreflang="en">Record of the Week</a></div>
+              <div><a href="https://www.blm.gov/tag/history" hreflang="en">History</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/eastern-states" hreflang="en">Eastern States</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46990/edit" hreflang="en">Tullahassee Plat</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-02-18/record-week-tullahassee-oklahoma">https://www.blm.gov/blog/2024-02-18/record-week-tullahassee-oklahoma</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-18/record-week-tullahassee-oklahoma">Save to Pocket</a>
+</span>
 
 ---
 
@@ -350,7 +723,7 @@ date: 2024-02-28, from: Bureau of Land Management, blog
     <div class="field contact-block -tag">
       <div><strong>Tag:</strong> </div>
               <div>
-                    <div><a href="https://www.blm.gov/tag/cultural-heritage" hreflang="en">Cultural Heritage</a></div>
+                    <div><a href="https://www.blm.gov/tag/cultural-heritage-and-paleontology" hreflang="en">Cultural Heritage</a></div>
                     </div>
           </div>
   </div>
@@ -1149,6 +1522,181 @@ Pretty good, and pretty ironic, reason for a change if you ask us!</p>
 
 <span class="feed-item-link">
 <a href="https://www.blm.gov/blog/2024-02-28/grasshopper-falls-kansas">https://www.blm.gov/blog/2024-02-28/grasshopper-falls-kansas</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-28/grasshopper-falls-kansas">Save to Pocket</a>
+</span>
+
+---
+
+## Record of the Week: Grasshopper Falls, Kansas
+
+date: 2024-02-28, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Record of the Week: Grasshopper Falls, Kansas</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><p>You won't find the town of Grasshopper Falls, Kansas on a modern map. But as our GLO record of the week shows, it was certainly there after being founded in 1859.</p>
+
+<p>Kinda makes you wonder what happened, doesn't it?<br>
+<br>
+Was it bypassed by railroads with residents forced to relocate?</p>
+
+<p>Not the issue. In fact, the town serviced three railroads.</p>
+
+<p>Did it turn into a ghost town when resources or jobs dried up? <br>
+<br>
+Nope. Not that either.</p>
+
+<p>It was on the banks of the Grasshopper river, so maybe the river overflowed and destroyed the town or was diverted? </p>
+
+<p>No. And you will also have trouble finding the Grasshopper River.<br>
+<br>
+Might sound crazy, but if you head to Jefferson County, Kansas today, to the exact location shown on this plat, you'll find the town of Valley Falls, with a population of just over 1,000 not on the Grasshopper River, but the Delaware River.</p>
+
+<div data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="1ea35eb9-a68d-4e63-af18-839c6221de5e" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/images/2024-02/grasshopper%20falls.png?itok=kQD8or0a" width="640" height="499" alt="A plat from the 1800s that includes the location of the town of Grasshopper Falls, Kansas" typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+
+<p>You see, the residents of Grasshopper Falls decided to rename the town, and the Grasshopper River... after a massive grasshopper invasion that destroyed crops in the area in the 1870s! <br>
+<br>
+Pretty good, and pretty ironic, reason for a change if you ask us!</p>
+
+<p>You can learn more about this record on <a href="https://storymaps.arcgis.com/stories/c3b8d730d01847ac9bb6365da3104ae5">ArcGIS Story Maps</a> and check out our past records of the week at our <a href="https://edit.blm.gov/services/land-records/weekly-story-maps">GLO record of the week page</a>!</p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/eastern-states" hreflang="en">Eastern States</a></div>
+          <div><a href="https://www.blm.gov/region/new-mexico" hreflang="en">New Mexico</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/history" hreflang="en">History</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-02-28T12:00:00Z">Wed, 02/28/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/eastern-states-state-office" hreflang="en">Eastern States State Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46958/edit" hreflang="en">Grasshopper Falls</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>Off</div>
+          </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/glo-story-maps" hreflang="en">GLO</a></div>
+              <div><a href="https://www.blm.gov/tag/record-week" hreflang="en">Record of the Week</a></div>
+              <div><a href="https://www.blm.gov/tag/history" hreflang="en">History</a></div>
+              <div><a href="https://www.blm.gov/tag/map" hreflang="en">Map</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/eastern-states" hreflang="en">Eastern States</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/46958/edit" hreflang="en">Grasshopper Falls</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-02-28/record-week-grasshopper-falls-kansas">https://www.blm.gov/blog/2024-02-28/record-week-grasshopper-falls-kansas</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-02-28/record-week-grasshopper-falls-kansas">Save to Pocket</a>
 </span>
 
 ---

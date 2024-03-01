@@ -1,11 +1,471 @@
 ---
 title: socal north 2024.09
-updated: 2024-02-29 08:35:31
+updated: 2024-03-01 08:45:26
 ---
 
 # socal north 2024.09
 
-(date: 2024-02-29 08:35:31)
+(date: 2024-03-01 08:45:26)
+
+---
+
+## LA Wine And Food Festival At Santa Monica Pier Features Top Local Chefs, With A Spotlight On Women
+
+date: 2024-03-01, updated: 2024-03-01, from: The LAist
+
+Three days of food tasting includes everything from Peruvian-meets-Thai scallops flavors to bruja tacos made with flan.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/la-wine-food-festival-santa-monica-pier">https://laist.com/news/food/la-wine-food-festival-santa-monica-pier</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/la-wine-food-festival-santa-monica-pier">Save to Pocket</a>
+</span>
+
+---
+
+## Fly By Jing Wants To Shatter Your Assumptions About Chinese Food, One Jar Of Chili Crisp At A Time
+
+date: 2024-03-01, updated: 2024-03-01, from: The LAist
+
+Jing Gao, the founder of Fly By Jing chili crisp, sets her sights high on breaking cultural barriers.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/the-mission-behind-fly-by-jing-chili-crisp-and-more-by-jing-gao">https://laist.com/news/food/the-mission-behind-fly-by-jing-chili-crisp-and-more-by-jing-gao</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/the-mission-behind-fly-by-jing-chili-crisp-and-more-by-jing-gao">Save to Pocket</a>
+</span>
+
+---
+
+## It's Time For Happy Hour, Metro-Style. Where To Go Along The A Line
+
+date: 2024-03-01, updated: 2024-03-01, from: The LAist
+
+Running from Long Beach to Azuza, there are plenty of Metro stops along the A Line that can lead to the right post-work food and libations.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/food/metro-a-line-happy-hour">https://laist.com/news/food/metro-a-line-happy-hour</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/food/metro-a-line-happy-hour">Save to Pocket</a>
+</span>
+
+---
+
+## CSUN women’s tennis wins three of first four matches
+
+date: 2024-03-01, from: The Sundail (CSUN Student Newspaper)
+
+The Matadors opened the season with three straight wins before their first loss. They are undefeated in doubles through four matches, but struggled in singles in their latest contest against...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178786/multimedia/watch/csun-womens-tennis-wins-three-of-first-four-matches/">https://sundial.csun.edu/178786/multimedia/watch/csun-womens-tennis-wins-three-of-first-four-matches/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178786/multimedia/watch/csun-womens-tennis-wins-three-of-first-four-matches/">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – March 1, 2024
+
+date: 2024-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/01/classifieds-march-01-2024/">Classifieds &#8211; March 1, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/01/classifieds-march-01-2024/">https://dailytrojan.com/2024/03/01/classifieds-march-01-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/01/classifieds-march-01-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘We really, really love him’: Students petition to keep math professor at UCLA
+
+date: 2024-03-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Few North Campus students are ever seen in a math classroom. Even fewer enjoy taking math classes so much that they start attending them for fun.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/01/we-really-really-love-him-students-petition-to-keep-math-professor-at-ucla/">https://dailybruin.com/2024/03/01/we-really-really-love-him-students-petition-to-keep-math-professor-at-ucla/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/01/we-really-really-love-him-students-petition-to-keep-math-professor-at-ucla/">Save to Pocket</a>
+</span>
+
+---
+
+## Annual Black Extravaganza opens with keynote address, student performances
+
+date: 2024-03-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students sang and danced at the Afrikan Diaspora Living Learning Community&#8217;s annual Black Extravaganza on Wednesday. 
+The event, which took place in the Covel Commons Grand Horizon room, featured spoken word poetry, rap, singing and dancing, according to the event&#8217;s website.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/01/annual-black-extravaganza-opens-with-keynote-address-student-performances/">https://dailybruin.com/2024/03/01/annual-black-extravaganza-opens-with-keynote-address-student-performances/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/01/annual-black-extravaganza-opens-with-keynote-address-student-performances/">Save to Pocket</a>
+</span>
+
+---
+
+## Cultural groups fundraise for charity in Battle of the Bruins soccer tournament
+
+date: 2024-03-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Crowds screamed. Music boomed. Amid a sea of flags, third-year psychology student Tatiana Maia &#8211; representing her home country of Brazil &#8211; drew her foot back to shoot.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/01/cultural-groups-fundraise-for-charity-in-battle-of-the-bruins-soccer-tournament/">https://dailybruin.com/2024/03/01/cultural-groups-fundraise-for-charity-in-battle-of-the-bruins-soccer-tournament/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/01/cultural-groups-fundraise-for-charity-in-battle-of-the-bruins-soccer-tournament/">Save to Pocket</a>
+</span>
+
+---
+
+## Coach John Wooden honored with Forever Stamp
+
+date: 2024-03-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+The United States Postal Service honored former UCLA men’s basketball coach John Wooden last Saturday with a ceremony dedicating a Forever Stamp that is now on sale.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/01/coach-john-wooden-honored-with-forever-stamp/">https://dailybruin.com/2024/03/01/coach-john-wooden-honored-with-forever-stamp/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/01/coach-john-wooden-honored-with-forever-stamp/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Dune: Part Two’ kicks up a storm
+
+date: 2024-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Finally, a book adaptation is better than the book itself.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/01/dune-part-two-kicks-up-a-storm/">‘Dune: Part Two’ kicks up a storm</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/01/dune-part-two-kicks-up-a-storm/">https://dailytrojan.com/2024/03/01/dune-part-two-kicks-up-a-storm/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/01/dune-part-two-kicks-up-a-storm/">Save to Pocket</a>
+</span>
+
+---
+
+## Shuttle driver and faculty unions demand wage raise
+
+date: 2024-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Attendees spread a petition calling for negotiations in a protest Thursday afternoon.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/01/usc-shuttle-drivers-union/">Shuttle driver and faculty unions demand wage raise</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/01/usc-shuttle-drivers-union/">https://dailytrojan.com/2024/03/01/usc-shuttle-drivers-union/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/01/usc-shuttle-drivers-union/">Save to Pocket</a>
+</span>
+
+---
+
+## USC pre-med culture sucks for everyone involved
+
+date: 2024-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A toxic environment that promotes competition and sabotage is unacceptable.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/01/usc-pre-med-culture-sucks-for-everyone-involved/">USC pre-med culture sucks for everyone involved</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/01/usc-pre-med-culture-sucks-for-everyone-involved/">https://dailytrojan.com/2024/03/01/usc-pre-med-culture-sucks-for-everyone-involved/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/01/usc-pre-med-culture-sucks-for-everyone-involved/">Save to Pocket</a>
+</span>
+
+---
+
+## Discovering history in Venice
+
+date: 2024-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A week off from school meant a trip was in order.   </p>
+<p>The post <a href="https://dailytrojan.com/2024/03/01/discovering-history-in-venice/">Discovering history in Venice</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/01/discovering-history-in-venice/">https://dailytrojan.com/2024/03/01/discovering-history-in-venice/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/01/discovering-history-in-venice/">Save to Pocket</a>
+</span>
+
+---
+
+## Petition spreads to protect courts
+
+date: 2024-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC will replace the tennis and pickleball courts with athletic facilities in May.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/01/usc-pickleball-tennis-courts/">Petition spreads to protect courts</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/01/usc-pickleball-tennis-courts/">https://dailytrojan.com/2024/03/01/usc-pickleball-tennis-courts/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/01/usc-pickleball-tennis-courts/">Save to Pocket</a>
+</span>
+
+---
+
+## What are LLMs and why should I care
+
+date: 2024-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p> If you've used ChatGPT in the past week, or more likely the past hour, you've used an LLM. One of the most relevant trends in modern technology, I’ll explain what LLMs are, and why they are important to understand.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/01/what-are-llms-and-why-should-i-care/">What are LLMs and why should I care</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/01/what-are-llms-and-why-should-i-care/">https://dailytrojan.com/2024/03/01/what-are-llms-and-why-should-i-care/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/01/what-are-llms-and-why-should-i-care/">Save to Pocket</a>
+</span>
+
+---
+
+## Lacrosse ready for East Coast onslaught
+
+date: 2024-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>No. 16 USC looks to get back in the win column during its three-game road trip.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/01/lacrosse-ready-for-east-coast-onslaught/">Lacrosse ready for East Coast onslaught</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/01/lacrosse-ready-for-east-coast-onslaught/">https://dailytrojan.com/2024/03/01/lacrosse-ready-for-east-coast-onslaught/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/01/lacrosse-ready-for-east-coast-onslaught/">Save to Pocket</a>
+</span>
+
+---
+
+## Communicating through movement: waheedworks takes on LA
+
+date: 2024-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The dance company’s Los Angeles debut highlighted the sensitivities of humanity.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/01/203022/">Communicating through movement: waheedworks takes on LA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/01/203022/">https://dailytrojan.com/2024/03/01/203022/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/01/203022/">Save to Pocket</a>
+</span>
+
+---
+
+## SC Family Reunion tops off Black History Month
+
+date: 2024-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Local businesses, student performers and various games highlighted the afternoon festivities.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/01/usc-black-history-month-reunion/">SC Family Reunion tops off Black History Month</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/01/usc-black-history-month-reunion/">https://dailytrojan.com/2024/03/01/usc-black-history-month-reunion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/01/usc-black-history-month-reunion/">Save to Pocket</a>
+</span>
+
+---
+
+## From Fullerton to Freshman of the Year: The Maribel Flores journey
+
+date: 2024-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC’s ascendant soccer star reflects on her long journey to early success.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/01/from-fullerton-to-freshman-of-the-year-the-maribel-flores-journey/">From Fullerton to Freshman of the Year: The Maribel Flores journey</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/01/from-fullerton-to-freshman-of-the-year-the-maribel-flores-journey/">https://dailytrojan.com/2024/03/01/from-fullerton-to-freshman-of-the-year-the-maribel-flores-journey/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/01/from-fullerton-to-freshman-of-the-year-the-maribel-flores-journey/">Save to Pocket</a>
+</span>
+
+---
+
+## CSUN Seed Library offers the community free seeds to plant
+
+date: 2024-03-01, from: The Sundail (CSUN Student Newspaper)
+
+What used to be an old library catalog is now organized storage for seeds. Located inside the Sustainability Center at CSUN, the Seed Library is home to over a dozen...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178778/featured/csun-seed-library-offers-the-community-free-seeds-to-plant/">https://sundial.csun.edu/178778/featured/csun-seed-library-offers-the-community-free-seeds-to-plant/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178778/featured/csun-seed-library-offers-the-community-free-seeds-to-plant/">Save to Pocket</a>
+</span>
+
+---
+
+## Washington leaps over UCLA men’s basketball in Cronin’s 1st loss to Huskies
+
+date: 2024-03-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 29 at 11:23 p.m.</em>
+Leap Day is considered an unlucky day in some cultures.
+Four years ago, on Feb. 29, luck fell in UCLA’s favor as it took down Arizona by a five-point margin.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/29/washington-leaps-over-ucla-mens-basketball-in-cronins-1st-loss-to-huskies/">https://dailybruin.com/2024/02/29/washington-leaps-over-ucla-mens-basketball-in-cronins-1st-loss-to-huskies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/29/washington-leaps-over-ucla-mens-basketball-in-cronins-1st-loss-to-huskies/">Save to Pocket</a>
+</span>
+
+---
+
+## Review: Matthew Vaughn’s “Argylle”: Undercover and underwhelming
+
+date: 2024-03-01, from: The Sundail (CSUN Student Newspaper)
+
+“Argylle” is the latest film directed by one of the most stylistic directors in film today, Matthew Vaughn. Vaughn is best known for his outrageous and in-your-face visual styles and...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178771/arts-entertainment/review-matthew-vaughns-argylle-undercover-and-underwhelming/">https://sundial.csun.edu/178771/arts-entertainment/review-matthew-vaughns-argylle-undercover-and-underwhelming/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178771/arts-entertainment/review-matthew-vaughns-argylle-undercover-and-underwhelming/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s basketball dominates Arizona State in last weekend of conference play
+
+date: 2024-03-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 29 at 11:17 p.m.</em>
+Both the AP and Coaches polls currently list UCLA as the eighth-best team in the country.
+But after the Bruins learned Thursday evening that the committee responsible for NCAA tournament seeding ranked them even higher, they responded with a dominant performance on the road.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/29/ucla-womens-basketball-dominates-arizona-state-in-last-weekend-of-conference-play/">https://dailybruin.com/2024/02/29/ucla-womens-basketball-dominates-arizona-state-in-last-weekend-of-conference-play/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/29/ucla-womens-basketball-dominates-arizona-state-in-last-weekend-of-conference-play/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA Burkle Center hosts forum on foreign policy, 2024 presidential election
+
+date: 2024-03-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Burkle Center for International Relations hosted a forum of political science graduate students Monday to discuss the importance of foreign policy ahead of the 2024 United States presidential election.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/29/ucla-burkle-center-hosts-forum-on-foreign-policy-2024-presidential-election/">https://dailybruin.com/2024/02/29/ucla-burkle-center-hosts-forum-on-foreign-policy-2024-presidential-election/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/29/ucla-burkle-center-hosts-forum-on-foreign-policy-2024-presidential-election/">Save to Pocket</a>
+</span>
+
+---
+
+## Student play ‘You Never Existed’ promises relatable comedy, cultural reflection
+
+date: 2024-03-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 29 at 8:56 p.m.</em>
+Viewers will forget reality exists with the new student production, “You Never Existed.”
+The original play, which is heavily inspired by Latin media, will take place Friday through Sunday at the Kerckhoff Charles E.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/29/student-play-you-never-existed-promises-relatable-comedy-cultural-reflection/">https://dailybruin.com/2024/02/29/student-play-you-never-existed-promises-relatable-comedy-cultural-reflection/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/29/student-play-you-never-existed-promises-relatable-comedy-cultural-reflection/">Save to Pocket</a>
+</span>
+
+---
+
+## Cal State LA Has An Asbestos Problem. Students And Faculty Want It Fixed
+
+date: 2024-03-01, updated: 2024-03-01, from: The LAist
+
+After years of notifications and warnings, CSU Los Angeles students and employees protested that the university isn’t doing enough to communicate whether they’re safe from asbestos.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/csu-los-angeles-asbestos-faculty-student-demonstration">https://laist.com/news/education/csu-los-angeles-asbestos-faculty-student-demonstration</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/csu-los-angeles-asbestos-faculty-student-demonstration">Save to Pocket</a>
+</span>
+
+---
+
+## Hundreds of Runners Participated in a Heart Pumping Race to the Finish During the First-Ever Port/City 5K
+
+date: 2024-03-01, from: Port Hueneme
+
+Local runners enjoyed sun and fun at the inaugural “Run for Your Heart” 5K Race Download Press Release [Port Hueneme, CA – February 29, 2024] &#8211; In a strong spirit of partnership and heart for the community, the City of Port Hueneme, and the Port of Hueneme celebrated Heart Health Awareness Month by hosting a <a class="read-more-style" href="https://www.portofhueneme.org/5k/">Read More</a>
+
+<span class="feed-item-link">
+<a href="https://www.portofhueneme.org/5k/">https://www.portofhueneme.org/5k/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.portofhueneme.org/5k/">Save to Pocket</a>
+</span>
+
+---
+
+## Weekend in Preview: Feb. 29
+
+date: 2024-02-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 29 at 10:59 p.m.</em>
+Softball
+Felicia Keller, assistant Sports editor
+The Bruins will take on their final tournament of the regular season in Fullerton.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/29/weekend-in-preview-feb-29-2/">https://dailybruin.com/2024/02/29/weekend-in-preview-feb-29-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/29/weekend-in-preview-feb-29-2/">Save to Pocket</a>
+</span>
+
+---
+
+## Powerful Matadoras Through the Ages
+
+date: 2024-02-29, from: The Sundail (CSUN Student Newspaper)
+
+California State University, Northridge women presidents have made a difference over several decades. Since 1992, there have been a total of four female presidents at CSUN. Each paved the way...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178766/print-editions/print-stories/powerful-matadoras-through-the-ages/">https://sundial.csun.edu/178766/print-editions/print-stories/powerful-matadoras-through-the-ages/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178766/print-editions/print-stories/powerful-matadoras-through-the-ages/">Save to Pocket</a>
+</span>
+
+---
+
+## Letter from the Editor: Diversity in Conversation
+
+date: 2024-02-29, from: The Sundail (CSUN Student Newspaper)
+
+Dear Sundial readers, Diversity is power. The second spring issue aims to highlight the diversity of our campus and society. California State University, Northridge has had four consecutive women presidents,...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178659/print-editions/print-stories/letter-from-the-editor-diversity-in-conversation/">https://sundial.csun.edu/178659/print-editions/print-stories/letter-from-the-editor-diversity-in-conversation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178659/print-editions/print-stories/letter-from-the-editor-diversity-in-conversation/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s basketball readies for final matchups of Pac-12 regular season
+
+date: 2024-02-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 29 at 2:31 p.m.</em>
+Within the Bruins&#8217; grasp lies a coveted honor in one of the hardest conference tournaments in women’s basketball: a first-round bye in the Pac-12 Tournament.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/29/ucla-womens-basketball-readies-for-final-matchups-of-pac-12-regular-season/">https://dailybruin.com/2024/02/29/ucla-womens-basketball-readies-for-final-matchups-of-pac-12-regular-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/29/ucla-womens-basketball-readies-for-final-matchups-of-pac-12-regular-season/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA gymnastics approaches Stanford matchup with eyes on the postseason
+
+date: 2024-02-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 29 at 10:55 p.m.</em>
+A trip to meet the Stanford tree
+Aaron Doyle, Daily Bruin contributor
+No. 10 UCLA gymnastics is set to compete Friday against No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/29/ucla-gymnastics-approaches-stanford-matchup-with-eyes-on-the-postseason/">https://dailybruin.com/2024/02/29/ucla-gymnastics-approaches-stanford-matchup-with-eyes-on-the-postseason/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/29/ucla-gymnastics-approaches-stanford-matchup-with-eyes-on-the-postseason/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s basketball embarks on final road trip before Pac-12 tournament
+
+date: 2024-02-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Mick Cronin was unequivocal in criticizing his players&#8217; preparation last week, denouncing it as the worst stretch of practice all season.
+The Bruins&#8217; effort behind the scenes was so poor that he sentenced some players to a jog on the treadmill, hoping to instill motivation.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/29/ucla-mens-basketball-embarks-on-final-road-trip-before-pac-12-tournament/">https://dailybruin.com/2024/02/29/ucla-mens-basketball-embarks-on-final-road-trip-before-pac-12-tournament/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/29/ucla-mens-basketball-embarks-on-final-road-trip-before-pac-12-tournament/">Save to Pocket</a>
+</span>
+
+---
+
+## Walk-off single from UCLA baseball closes error-ridden Long Beach State contest
+
+date: 2024-02-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins and Dirtbags were tied in the bottom of the 10th with two outs and a runner on second.
+Payton Brennan &#8211; hitless with two punchouts to his name &#8211; walked up to the plate.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/02/29/walk-off-single-from-ucla-baseball-closes-error-ridden-long-beach-state-contest/">https://dailybruin.com/2024/02/29/walk-off-single-from-ucla-baseball-closes-error-ridden-long-beach-state-contest/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/29/walk-off-single-from-ucla-baseball-closes-error-ridden-long-beach-state-contest/">Save to Pocket</a>
+</span>
+
+---
+
+## On the Move with Santa Clarita Transit
+
+date: 2024-02-29, from: City of Santa Clarita
+
+<p>On the Move with Santa Clarita Transit&#160; By Councilwoman Marsha McLean&#160; As we travel onward into 2024, our City continues to remain resilient and steadfast in its commitment to meeting our residents’ needs and preserving our exceptional quality of life. A key component of this pledge is ensuring access to safe, efficient and reliable transit [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/02/29/one-the-move-with-santa-clarita-transit/">On the Move with Santa Clarita Transit</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2024/02/29/one-the-move-with-santa-clarita-transit/">https://santaclarita.gov/blog/2024/02/29/one-the-move-with-santa-clarita-transit/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/02/29/one-the-move-with-santa-clarita-transit/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -253,8 +713,8 @@ The death of Russian opposition figure, Alexei Navalny. Student debt forgiveness
 
 date: 2024-02-29, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated March 1 at 12:22 a.m.</em>
 Climbing gym Sender One opened to the public Wednesday, making it the first of its kind in the area.
-Located on Lindbrook Drive, between Westwood Boulevard and Glendon Avenue, the indoor rock climbing gym was once the site of the Mann Festival Theater.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/02/28/long-awaited-climbing-gym-sender-one-opens-first-of-its-kind-in-westwood/">https://dailybruin.com/2024/02/28/long-awaited-climbing-gym-sender-one-opens-first-of-its-kind-in-westwood/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/02/28/long-awaited-climbing-gym-sender-one-opens-first-of-its-kind-in-westwood/">Save to Pocket</a>
@@ -358,7 +818,7 @@ Members of the California Faculty Association voted to approve the tentative agr
 
 date: 2024-02-28, from: The Daily Bruin (UCLA Student Newspaper)
 
-This post was updated Feb. 28 at 6:18 p.m.
+This post was updated Feb. 29 at 11:08 p.m.
 UCLA women&#8217;s tennis (4-3) commences Pac-12 play for the last time against USC (7-3) on Friday afternoon.
 
 <span class="feed-item-link">
@@ -367,12 +827,12 @@ UCLA women&#8217;s tennis (4-3) commences Pac-12 play for the last time against 
 
 ---
 
-## Trivia and game show at Umoja
+## Umoja hosts trivia and game show
 
 date: 2024-02-28, from: The Round Up (Pierce College Student Newspaper)
 
 <p>The atmosphere in the Multicultural Center during Umoja’s Ultimate Game Show was filled with laughter and comradery as two teams went head-to-head to test their</p>
-<p>The post <a href="https://theroundupnews.com/2024/02/28/trivia-and-game-show-at-umoja/">Trivia and game show at Umoja</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+<p>The post <a href="https://theroundupnews.com/2024/02/28/trivia-and-game-show-at-umoja/">Umoja hosts trivia and game show</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
 
 
 <span class="feed-item-link">
@@ -671,6 +1131,18 @@ date: 2024-02-28, from: The Round Up (Pierce College Student Newspaper)
 
 ---
 
+## Teachers Unions Often Pick Winning School Board Candidates. Will This LAUSD Election Be Different?
+
+date: 2024-02-28, updated: 2024-03-01, from: The LAist
+
+Candidates endorsed by United Teachers Los Angeles have a significant edge — but a misstep can also be costly.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/lausd-school-board-election-march-2024-primary-los-angeles-unified">https://laist.com/news/education/lausd-school-board-election-march-2024-primary-los-angeles-unified</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/lausd-school-board-election-march-2024-primary-los-angeles-unified">Save to Pocket</a>
+</span>
+
+---
+
 ## To Promote Reproductive Health And Abortion Rights, Universities Turn To Student Ambassadors
 
 date: 2024-02-28, updated: 2024-02-28, from: The LAist
@@ -691,18 +1163,6 @@ Three top officials have left the L.A. Homeless Services Authority in recent wee
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/housing-homelessness/los-angeles-homeless-officials-executives-exit-leave-lahsa">https://laist.com/news/housing-homelessness/los-angeles-homeless-officials-executives-exit-leave-lahsa</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/housing-homelessness/los-angeles-homeless-officials-executives-exit-leave-lahsa">Save to Pocket</a>
-</span>
-
----
-
-## Teachers Unions Often Pick Winning School Board Candidates. Will This LAUSD Election Be Different?
-
-date: 2024-02-28, updated: 2024-02-28, from: The LAist
-
-Candidates endorsed by United Teachers Los Angeles have a significant edge — but a misstep can also be costly.
-
-<span class="feed-item-link">
-<a href="https://laist.com/news/education/lausd-school-board-election-march-2024-primary-los-angeles-unified">https://laist.com/news/education/lausd-school-board-election-march-2024-primary-los-angeles-unified</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/lausd-school-board-election-march-2024-primary-los-angeles-unified">Save to Pocket</a>
 </span>
 
 ---
@@ -771,6 +1231,20 @@ date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
 
 <span class="feed-item-link">
 <a href="https://dailytrojan.com/2024/02/28/202744/">https://dailytrojan.com/2024/02/28/202744/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/28/202744/">Save to Pocket</a>
+</span>
+
+---
+
+## Bronny should stay in college as long as he can
+
+date: 2024-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>James has a lot of raw talent, but isn’t ready for the NBA just yet.</p>
+<p>The post <a href="https://dailytrojan.com/2024/02/28/bronny-should-stay-in-college-as-long-as-he-can/">Bronny should stay in college as long as he can</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/02/28/bronny-should-stay-in-college-as-long-as-he-can/">https://dailytrojan.com/2024/02/28/bronny-should-stay-in-college-as-long-as-he-can/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/02/28/bronny-should-stay-in-college-as-long-as-he-can/">Save to Pocket</a>
 </span>
 
 ---

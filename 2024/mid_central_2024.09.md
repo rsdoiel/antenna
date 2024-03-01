@@ -1,11 +1,121 @@
 ---
 title: mid central 2024.09
-updated: 2024-02-29 08:35:31
+updated: 2024-03-01 08:45:26
 ---
 
 # mid central 2024.09
 
-(date: 2024-02-29 08:35:31)
+(date: 2024-03-01 08:45:26)
+
+---
+
+## Parsing PWM (DAC) performance: Part 3—PWM Analog Filters
+
+date: 2024-03-01, from: EDN Blog
+
+<img width="1324" height="1052" src="https://www.edn.com/wp-content/uploads/ParsingPWMPart3_Figure-3_1.png?fit=1324%2C1052" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/ParsingPWMPart3_Figure-3_1.png?w=1324 1324w, https://www.edn.com/wp-content/uploads/ParsingPWMPart3_Figure-3_1.png?w=300 300w, https://www.edn.com/wp-content/uploads/ParsingPWMPart3_Figure-3_1.png?w=768 768w, https://www.edn.com/wp-content/uploads/ParsingPWMPart3_Figure-3_1.png?w=1024 1024w" sizes="(max-width: 1324px) 100vw, 1324px" /><p>The optimization of post-PWM analog filters using 7 different filter types including Bessel, Gaussian, and a new filter dubbed "Paul".</p>
+<p>The post <a href="https://www.edn.com/parsing-pwm-dac-performance-part-3-pwm-analog-filters/" data-wpel-link="internal">Parsing PWM (DAC) performance: Part 3—PWM Analog Filters</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/parsing-pwm-dac-performance-part-3-pwm-analog-filters/">https://www.edn.com/parsing-pwm-dac-performance-part-3-pwm-analog-filters/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/parsing-pwm-dac-performance-part-3-pwm-analog-filters/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Dogs left emotional after loss to No. 22 Utah State
+
+date: 2024-02-29, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Despite putting on their best performance in weeks, Fresno State’s men’s basketball team extended their losing streak to four games with a 77-73 loss to No. 22 Utah State on Feb. 27 at the Save Mart Center. Rallying from a 32-point loss on Feb. 24 to San Diego State, the ‘Dogs scored more than 70...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/02/dogs-left-emotional-after-loss-to-no-22-utah-state/">https://fscollegian.com/2024/02/dogs-left-emotional-after-loss-to-no-22-utah-state/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/02/dogs-left-emotional-after-loss-to-no-22-utah-state/">Save to Pocket</a>
+</span>
+
+---
+
+## Integrated motor drivers save PCB space
+
+date: 2024-02-29, from: EDN Blog
+
+<img width="800" height="459" src="https://www.edn.com/wp-content/uploads/Microchip-dsPIC-drivers.jpg?fit=800%2C459" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Microchip-dsPIC-drivers.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Microchip-dsPIC-drivers.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microchip-dsPIC-drivers.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Along with a dsPIC33 digital signal controller (DSC), motor drivers from Microchip pack a three-phase MOSFET gate driver and optional LIN or CAN FD transceiver.</p>
+<p>The post <a href="https://www.edn.com/integrated-motor-drivers-save-pcb-space/" data-wpel-link="internal">Integrated motor drivers save PCB space</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/integrated-motor-drivers-save-pcb-space/">https://www.edn.com/integrated-motor-drivers-save-pcb-space/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/integrated-motor-drivers-save-pcb-space/">Save to Pocket</a>
+</span>
+
+---
+
+## Switchers tout single-stage multi-output operation
+
+date: 2024-02-29, from: EDN Blog
+
+<img width="800" height="420" src="https://www.edn.com/wp-content/uploads/Power-Integrations-InnoMux-2.jpg?fit=800%2C420" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Power-Integrations-InnoMux-2.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Power-Integrations-InnoMux-2.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Power-Integrations-InnoMux-2.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>InnoMux-2 is a family of GaN-based flyback switcher ICs from Power Integrations that offers multiple independently regulated outputs.</p>
+<p>The post <a href="https://www.edn.com/switchers-tout-single-stage-multi-output-operation/" data-wpel-link="internal">Switchers tout single-stage multi-output operation</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/switchers-tout-single-stage-multi-output-operation/">https://www.edn.com/switchers-tout-single-stage-multi-output-operation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/switchers-tout-single-stage-multi-output-operation/">Save to Pocket</a>
+</span>
+
+---
+
+## Current sensor helps shrink EV onboard chargers
+
+date: 2024-02-29, from: EDN Blog
+
+<img width="800" height="420" src="https://www.edn.com/wp-content/uploads/Asahi-Kasei-CZ39.jpg?fit=800%2C420" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Asahi-Kasei-CZ39.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Asahi-Kasei-CZ39.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Asahi-Kasei-CZ39.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Asahi Kasei’s CZ39 series of coreless current sensors allows OEMs to design smaller and lighter onboard chargers for electric vehicles.</p>
+<p>The post <a href="https://www.edn.com/current-sensor-helps-shrink-ev-onboard-chargers/" data-wpel-link="internal">Current sensor helps shrink EV onboard chargers</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/current-sensor-helps-shrink-ev-onboard-chargers/">https://www.edn.com/current-sensor-helps-shrink-ev-onboard-chargers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/current-sensor-helps-shrink-ev-onboard-chargers/">Save to Pocket</a>
+</span>
+
+---
+
+## Wireless modules expand development options
+
+date: 2024-02-29, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Quectel-FC_HC-modules.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Quectel-FC_HC-modules.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Quectel-FC_HC-modules.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Quectel-FC_HC-modules.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Quectel has launched four new Wi-Fi and Bluetooth modules to provide designers with a greater array of options in terms of size, cost, and power efficiency.</p>
+<p>The post <a href="https://www.edn.com/wireless-modules-expand-development-options/" data-wpel-link="internal">Wireless modules expand development options</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/wireless-modules-expand-development-options/">https://www.edn.com/wireless-modules-expand-development-options/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/wireless-modules-expand-development-options/">Save to Pocket</a>
+</span>
+
+---
+
+## Transceivers enable contactless USB2 connectivity
+
+date: 2024-02-29, from: EDN Blog
+
+<img width="800" height="470" src="https://www.edn.com/wp-content/uploads/STMicro-ST60A3H0.jpg?fit=800%2C470" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/STMicro-ST60A3H0.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-ST60A3H0.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-ST60A3H0.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Two 60-GHz V-band transceivers, the ST60A3H0 and ST60A3H1 from ST, offer short-range cable-free connectivity at up to 480 Mbps.</p>
+<p>The post <a href="https://www.edn.com/transceivers-enable-contactless-usb2-connectivity/" data-wpel-link="internal">Transceivers enable contactless USB2 connectivity</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/transceivers-enable-contactless-usb2-connectivity/">https://www.edn.com/transceivers-enable-contactless-usb2-connectivity/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/transceivers-enable-contactless-usb2-connectivity/">Save to Pocket</a>
+</span>
+
+---
+
+## APEC 2024, Day 3: Daily Briefing Video
+
+date: 2024-02-29, from: EDN Blog
+
+<img width="1174" height="621" src="https://www.edn.com/wp-content/uploads/featured-image_APEC-day-3.png?fit=1174%2C621" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/featured-image_APEC-day-3.png?w=1174 1174w, https://www.edn.com/wp-content/uploads/featured-image_APEC-day-3.png?w=300 300w, https://www.edn.com/wp-content/uploads/featured-image_APEC-day-3.png?w=768 768w, https://www.edn.com/wp-content/uploads/featured-image_APEC-day-3.png?w=1024 1024w" sizes="(max-width: 1174px) 100vw, 1174px" /><p>Majeed and Maurizio discuss the highlights on day 3 of APEC 2024 including advancements in GaN &#038; SiC with respective T&#038;M and simulation tech.</p>
+<p>The post <a href="https://www.edn.com/apec-2024-day-3-daily-briefing-video/" data-wpel-link="internal">APEC 2024, Day 3: Daily Briefing Video</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/apec-2024-day-3-daily-briefing-video/">https://www.edn.com/apec-2024-day-3-daily-briefing-video/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/apec-2024-day-3-daily-briefing-video/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +123,7 @@ updated: 2024-02-29 08:35:31
 
 date: 2024-02-29, from: EDN Blog
 
-<img width="469" height="846" src="https://www.edn.com/wp-content/uploads/Epileptic-Seizures.png?fit=469%2C846" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Epileptic-Seizures.png?w=469 469w, https://www.edn.com/wp-content/uploads/Epileptic-Seizures.png?w=166 166w" sizes="(max-width: 469px) 100vw, 469px" /><p>The concerning impact of flashing images and how heeding a very simple warning can eliminate the risk of preventable seizure or dizziness.</p>
+<img width="469" height="846" src="https://www.edn.com/wp-content/uploads/Epileptic-Seizures.png?fit=469%2C846" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Epileptic-Seizures.png?w=469 469w, https://www.edn.com/wp-content/uploads/Epileptic-Seizures.png?w=166 166w" sizes="(max-width: 469px) 100vw, 469px" /><p>The concerning impact of flashing images and how heeding a very simple warning can eliminate the risk of preventable seizure or dizziness.</p>
 <p>The post <a href="https://www.edn.com/photosensitivity-seizures-from-displays/" data-wpel-link="internal">Photosensitivity: Seizures from displays</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 

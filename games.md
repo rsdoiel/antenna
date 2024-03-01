@@ -1,11 +1,119 @@
 ---
 title: games 2024.09
-updated: 2024-02-29 08:35:31
+updated: 2024-03-01 08:45:26
 ---
 
 # games 2024.09
 
-(date: 2024-02-29 08:35:31)
+(date: 2024-03-01 08:45:26)
+
+---
+
+## The 25 best movies on Netflix right now
+
+date: 2024-03-01, updated: 2024-03-01, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/21266801/best-movies-on-netflix">https://www.polygon.com/21266801/best-movies-on-netflix</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/21266801/best-movies-on-netflix">Save to Pocket</a>
+</span>
+
+---
+
+## The weirdo detective is making a comeback
+
+date: 2024-03-01, updated: 2024-03-01, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24086798/elsbeth-review-weird-detectives-love-em">https://www.polygon.com/24086798/elsbeth-review-weird-detectives-love-em</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24086798/elsbeth-review-weird-detectives-love-em">Save to Pocket</a>
+</span>
+
+---
+
+## Lego’s Animal Crossing sets are even cuter than I expected
+
+date: 2024-03-01, updated: 2024-03-01, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24083730/lego-animal-crossing-new-horizons-sets-setup">https://www.polygon.com/24083730/lego-animal-crossing-new-horizons-sets-setup</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24083730/lego-animal-crossing-new-horizons-sets-setup">Save to Pocket</a>
+</span>
+
+---
+
+## Every movie and show coming to Netflix in March
+
+date: 2024-03-01, updated: 2024-03-01, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/entertainment/24085907/new-netflix-march-2024-movies-tv-to-watch">https://www.polygon.com/entertainment/24085907/new-netflix-march-2024-movies-tv-to-watch</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/entertainment/24085907/new-netflix-march-2024-movies-tv-to-watch">Save to Pocket</a>
+</span>
+
+---
+
+## You can already save $20 on Final Fantasy 7 Rebirth
+
+date: 2024-03-01, updated: 2024-03-01, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24086623/final-fantasy-7-rebirth-deal-20-off-qvc">https://www.polygon.com/deals/24086623/final-fantasy-7-rebirth-deal-20-off-qvc</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24086623/final-fantasy-7-rebirth-deal-20-off-qvc">Save to Pocket</a>
+</span>
+
+---
+
+## The Halo TV series bailed on its best chance yet to actually take us to a Halo ring
+
+date: 2024-02-29, updated: 2024-02-29, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24086786/halo-tv-series-rings-great-journey-master-chief-boring">https://www.polygon.com/24086786/halo-tv-series-rings-great-journey-master-chief-boring</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24086786/halo-tv-series-rings-great-journey-master-chief-boring">Save to Pocket</a>
+</span>
+
+---
+
+## The best anime of 2024 so far
+
+date: 2024-02-29, updated: 2024-02-29, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/what-to-watch/24074811/best-anime-2024">https://www.polygon.com/what-to-watch/24074811/best-anime-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/what-to-watch/24074811/best-anime-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Pretty wild that this mini nuke replica is allowed to be mailed
+
+date: 2024-02-29, updated: 2024-02-29, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24085942/fallout-mini-nuke-pre-order-guide-collectors-edition-special">https://www.polygon.com/deals/24085942/fallout-mini-nuke-pre-order-guide-collectors-edition-special</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24085942/fallout-mini-nuke-pre-order-guide-collectors-edition-special">Save to Pocket</a>
+</span>
+
+---
+
+## It’s time to upgrade your PS5, PC, or Steam Deck SSD. We’ve found the best deals
+
+date: 2024-02-29, updated: 2024-02-29, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24084875/best-ssd-deals-gaming-ps5-pc-steam-deck">https://www.polygon.com/24084875/best-ssd-deals-gaming-ps5-pc-steam-deck</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24084875/best-ssd-deals-gaming-ps5-pc-steam-deck">Save to Pocket</a>
+</span>
 
 ---
 

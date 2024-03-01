@@ -1,11 +1,25 @@
 ---
 title: libraries 2024.09
-updated: 2024-02-29 08:35:32
+updated: 2024-03-01 08:45:26
 ---
 
 # libraries 2024.09
 
-(date: 2024-02-29 08:35:32)
+(date: 2024-03-01 08:45:26)
+
+---
+
+## The BTO Goes Electric
+
+date: 2024-03-01, from: Scholarly Kitchen
+
+<p>A landmark musical event, as the Boston Typewriter Orchestra breaks new ground.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/03/01/the-bto-goes-electric/">The BTO Goes Electric</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/03/01/the-bto-goes-electric/">https://scholarlykitchen.sspnet.org/2024/03/01/the-bto-goes-electric/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/03/01/the-bto-goes-electric/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -89,6 +103,31 @@ Scarborough, Joseph; Iachizzi, Monica; Schalbetter, Sina M.; Müller, Flavia S.;
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/659419">http://hdl.handle.net/20.500.11850/659419</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/659419">Save to Pocket</a>
+</span>
+
+---
+
+## Critical Infrastructure Resilience in Ukraine: Energy, Transportation, and Communication
+
+date: 2024-03-01, from: ETH Zurich, recently added
+
+Aebi, Simon; Hauri, Andrin; Kamberaj, Jurgena
+Hauri, Andrin
+
+<span class="feed-item-link">
+<a href="http://hdl.handle.net/20.500.11850/662463">http://hdl.handle.net/20.500.11850/662463</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/662463">Save to Pocket</a>
+</span>
+
+---
+
+## Poetry, by Mina Loy
+
+date: 2024-02-29, from: Standard Ebooks, new releaases
+
+A collection of poems by Mina Loy.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/mina-loy/poetry">https://standardebooks.org/ebooks/mina-loy/poetry</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/mina-loy/poetry">Save to Pocket</a>
 </span>
 
 ---

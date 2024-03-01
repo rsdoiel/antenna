@@ -1,11 +1,83 @@
 ---
 title: motorcycles 2024.09
-updated: 2024-02-29 08:35:32
+updated: 2024-03-01 08:45:27
 ---
 
 # motorcycles 2024.09
 
-(date: 2024-02-29 08:35:32)
+(date: 2024-03-01 08:45:27)
+
+---
+
+## Graffiti Artist ‘DrAutoArt’ Takes NASCAR World by Storm
+
+date: 2024-03-01, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor From Sam Bass and Garry Hill to Harris Lue and Noah ‘Lefty’ Sweet, the art of motorsports has been depicted on canvas, online, and on&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/graffiti-artist-drautoart-nascar-storm/">https://kickinthetires.net/nascar/graffiti-artist-drautoart-nascar-storm/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/graffiti-artist-drautoart-nascar-storm/">Save to Pocket</a>
+</span>
+
+---
+
+## When Disaster Strikes, Keep Thinking
+
+date: 2024-03-01, from: Cycle World News
+
+When it all goes wrong and you think there is nothing left to do, you’re wrong. Retain and use whatever control of events you still have. Don’t give up.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/blogs/ask-kevin/motorcycling-and-presence-of-mind/">https://www.cycleworld.com/blogs/ask-kevin/motorcycling-and-presence-of-mind/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/blogs/ask-kevin/motorcycling-and-presence-of-mind/">Save to Pocket</a>
+</span>
+
+---
+
+## How Much Power Does the 2024 Triumph Street Triple 765 R Make?
+
+date: 2024-02-29, from: Cycle World News
+
+The 2024 Triumph Street Triple 765 R gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/triumph-street-triple-765-r-dyno-test-2024/">https://www.cycleworld.com/bikes/triumph-street-triple-765-r-dyno-test-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/triumph-street-triple-765-r-dyno-test-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Take A Look At The Limited Edition 2024 Harley Hydra-Glide Revival
+
+date: 2024-02-29, from: Ride Apart, Electric Motorcycle News
+
+The latest member of the Icons Collection is also bringing a few friends to Daytona Bike Week.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710671/harley-hydra-glide-revival-limited/">https://www.rideapart.com/news/710671/harley-hydra-glide-revival-limited/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710671/harley-hydra-glide-revival-limited/">Save to Pocket</a>
+</span>
+
+---
+
+## Harley-Davidson Enthusiast Motorcycle Collection First Look
+
+date: 2024-02-29, from: Cycle World News
+
+Harley-Davidson has revealed its 2024 Tobacco Fade Enthusiast Motorcycle Collection, with three guitar-inspired limited-edition machines.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/harley-davidson-enthusiast-motorcycle-collection-first-look/">https://www.cycleworld.com/bikes/harley-davidson-enthusiast-motorcycle-collection-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/harley-davidson-enthusiast-motorcycle-collection-first-look/">Save to Pocket</a>
+</span>
+
+---
+
+## Sean Hingorani to compete in the ARCA Menards Series for HRE No. 61 Toyota Camry for 2024
+
+date: 2024-02-29, from: Kickin the Tires blog
+
+(Mooresville, N.C.) &#8211; Hattori Racing Enterprises (HRE) announced today that 2023 ARCA Menards West Series Champion Sean Hingorani will compete across all of the ARCA Menards Series&#8217; in the No. 61&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/sean-hingorani-to-compete-in-the-arca-menards-series-for-hre-no-61-toyota-camry-for-2024/">https://kickinthetires.net/nascar/sean-hingorani-to-compete-in-the-arca-menards-series-for-hre-no-61-toyota-camry-for-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/sean-hingorani-to-compete-in-the-arca-menards-series-for-hre-no-61-toyota-camry-for-2024/">Save to Pocket</a>
+</span>
 
 ---
 
