@@ -1,413 +1,58 @@
 ---
 title: columns 2024.09
-updated: 2024-03-01 08:45:26
+updated: 2024-03-03 18:45:41
 ---
 
 # columns 2024.09
 
-(date: 2024-03-01 08:45:26)
+(date: 2024-03-03 18:45:41)
 
 ---
 
-## (Not) too old for this *
+## Monday 4 March, 2024
 
-date: 2024-03-01, from: Paolo Valdemarin's blog
+date: 2024-03-04, from: John Naughton's online diary
 
-By the end of this year it will be 30 years since I registered my first domain name (warning, your browser might throw a hissy fit, I didn’t bother to get a certificate to secure that site, it’s just there for nostalgic reasons, not worth the hassle). Yesterday I was trying to get a colleague &#8230; <a href="https://val.demar.in/2024/03/not-too-old-for-this/" class="more-link">Continue reading<span class="screen-reader-text"> "(Not) too old for this *"</span></a>
+Democracy? Quote of the Day I went from adolescence to senility, trying to bypass maturity. Tom Lehrer Musical alternative to the morning’s radio news Linda Ronstadt and Dolly Parton ! I Never Will Marry Link Long Read of the Day &#8230; <a href="https://memex.naughtons.org/monday-4-march-2024/39199/">Continue reading <span class="meta-nav">&#8594;</span></a>
 
 <span class="feed-item-link">
-<a href="https://val.demar.in/2024/03/not-too-old-for-this/">https://val.demar.in/2024/03/not-too-old-for-this/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://val.demar.in/2024/03/not-too-old-for-this/">Save to Pocket</a>
+<a href="https://memex.naughtons.org/monday-4-march-2024/39199/">https://memex.naughtons.org/monday-4-march-2024/39199/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/monday-4-march-2024/39199/">Save to Pocket</a>
 </span>
 
 ---
 
-## NIST Cybersecurity Framework 2.0
+## How Biden can save tens of thousands of lives (and help save his presidency) 
 
-date: 2024-03-01, updated: 2024-02-29, from: Bruce Schneier blog
+date: 2024-03-03, from: Robert Reich's blog
 
-<p>NIST has released <a href="https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework">version 2.0</a> of the Cybersecurity Framework:</p>
-<blockquote><p>The CSF 2.0, which supports implementation of the <a href="https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf">National Cybersecurity Strategy</a>, has an expanded scope that goes beyond protecting critical infrastructure, such as hospitals and power plants, to all organizations in any sector. It also has a new focus on governance, which encompasses how organizations make and carry out informed decisions on cybersecurity strategy. The CSF&#8217;s governance component emphasizes that cybersecurity is a major source of enterprise risk that senior leaders should consider alongside others such as finance and reputation...</p></blockquote>
+What he must tell the Israeli people
 
 <span class="feed-item-link">
-<a href="https://www.schneier.com/blog/archives/2024/03/nist-cybersecurity-framework-2-0.html">https://www.schneier.com/blog/archives/2024/03/nist-cybersecurity-framework-2-0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/03/nist-cybersecurity-framework-2-0.html">Save to Pocket</a>
+<a href="https://robertreich.substack.com/p/biden-must-take-the-lead-on-israel">https://robertreich.substack.com/p/biden-must-take-the-lead-on-israel</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/biden-must-take-the-lead-on-israel">Save to Pocket</a>
 </span>
 
 ---
 
-## The Old Left, the New Left, and the Left Behind
+## Sunday caption contest: Will they promptly decide about Trump's immunity?
 
-date: 2024-03-01, from: Robert Reich's blog
-
-The roots of Trumpism, Part 9
-
-<span class="feed-item-link">
-<a href="https://robertreich.substack.com/p/the-old-left-the-new-left-and-the">https://robertreich.substack.com/p/the-old-left-the-new-left-and-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/the-old-left-the-new-left-and-the">Save to Pocket</a>
-</span>
-
----
-
-## Larry David Promoting Siri
-
-date: 2024-03-01, updated: 2024-03-01, from: Daring Fireball
-
-
-
-<span class="feed-item-link">
-<a href="https://twitter.com/rjonesy/status/1762250373035905415">https://twitter.com/rjonesy/status/1762250373035905415</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://twitter.com/rjonesy/status/1762250373035905415">Save to Pocket</a>
-</span>
-
----
-
-## Friday 1 March, 2024
-
-date: 2024-03-01, from: John Naughton's online diary
-
-Things to come It is, after all, the 1st of March. Quote of the Day When you make motion pictures, each picture is a life unto itself. When you finish and the picture is over, there&#8217;s an understanding, a realisation &#8230; <a href="https://memex.naughtons.org/friday-1-march-2024/39193/">Continue reading <span class="meta-nav">&#8594;</span></a>
-
-<span class="feed-item-link">
-<a href="https://memex.naughtons.org/friday-1-march-2024/39193/">https://memex.naughtons.org/friday-1-march-2024/39193/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/friday-1-march-2024/39193/">Save to Pocket</a>
-</span>
-
----
-
-## Democracy Is Not A Spectator Sport
-
-date: 2024-02-29, from: Dan Rather's Steady
-
-There is something we can do to beat Trump
-
-<span class="feed-item-link">
-<a href="https://steady.substack.com/p/democracy-is-not-a-spectator-sport">https://steady.substack.com/p/democracy-is-not-a-spectator-sport</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/democracy-is-not-a-spectator-sport">Save to Pocket</a>
-</span>
-
----
-
-## Humane, Nearing Launch of Ai Pin, Is Gathering Steam
-
-date: 2024-02-29, updated: 2024-02-29, from: Daring Fireball
-
-
-
-<span class="feed-item-link">
-<a href="https://humane.com/media/humane-and-softbank">https://humane.com/media/humane-and-softbank</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://humane.com/media/humane-and-softbank">Save to Pocket</a>
-</span>
-
----
-
-## How the “Frontier” Became the Slogan of Uncontrolled AI
-
-date: 2024-02-29, updated: 2024-02-29, from: Bruce Schneier blog
-
-<p>Artificial intelligence (AI) has been billed as the next frontier of humanity: the newly available expanse whose exploration will drive the next era of growth, wealth, and human flourishing. It&#8217;s a scary metaphor. Throughout American history, the drive for expansion and the very concept of terrain up for grabs&#8212;land grabs, gold rushes, new frontiers&#8212;have provided a permission structure for imperialism and exploitation. This could easily hold true for AI.</p>
-<p>This isn&#8217;t the first time the concept of a frontier has been used as a metaphor for AI, or technology in general. As early as 2018, the powerful foundation models powering cutting-edge applications like chatbots ...</p>
-
-<span class="feed-item-link">
-<a href="https://www.schneier.com/blog/archives/2024/02/how-the-frontier-became-the-slogan-of-uncontrolled-ai.html">https://www.schneier.com/blog/archives/2024/02/how-the-frontier-became-the-slogan-of-uncontrolled-ai.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/how-the-frontier-became-the-slogan-of-uncontrolled-ai.html">Save to Pocket</a>
-</span>
-
----
-
-## Goodbye, Mitch: You were the worst
-
-date: 2024-02-29, from: Robert Reich's blog
-
-But the Republicans might find someone even worse to replace you
-
-<span class="feed-item-link">
-<a href="https://robertreich.substack.com/p/goodbye-mitch-you-were-the-worst">https://robertreich.substack.com/p/goodbye-mitch-you-were-the-worst</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/goodbye-mitch-you-were-the-worst">Save to Pocket</a>
-</span>
-
----
-
-## Sony Is Laying Off 900 PlayStation Employees, 8 Percent of Workforce
-
-date: 2024-02-29, updated: 2024-02-29, from: Daring Fireball
-
-
-
-<span class="feed-item-link">
-<a href="https://www.theverge.com/2024/2/27/24084494/sony-playstation-layoffs-2024">https://www.theverge.com/2024/2/27/24084494/sony-playstation-layoffs-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theverge.com/2024/2/27/24084494/sony-playstation-layoffs-2024">Save to Pocket</a>
-</span>
-
----
-
-## Richard Lewis Dies of Heart Attack at 76
-
-date: 2024-02-29, updated: 2024-02-29, from: Daring Fireball
-
-
-
-<span class="feed-item-link">
-<a href="https://www.hollywoodreporter.com/tv/tv-news/richard-lewis-dead-hollywood-tributes-1235838870/">https://www.hollywoodreporter.com/tv/tv-news/richard-lewis-dead-hollywood-tributes-1235838870/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hollywoodreporter.com/tv/tv-news/richard-lewis-dead-hollywood-tributes-1235838870/">Save to Pocket</a>
-</span>
-
----
-
-## Are Customers Returning Vision Pros in High Numbers? Seemingly Not.
-
-date: 2024-02-29, updated: 2024-02-29, from: Daring Fireball
-
-
-
-<span class="feed-item-link">
-<a href="https://medium.com/@mingchikuo/vision-pro%E6%9B%B4%E6%96%B0-%E7%BE%8E%E5%9C%8B%E5%B8%82%E5%A0%B4%E9%9C%80%E6%B1%82%E5%B7%B2%E5%A4%A7%E5%B9%85%E6%94%BE%E7%B7%A9-%E5%85%A8%E7%90%83%E7%99%BC%E4%BD%88%E6%99%82%E7%A8%8B%E9%A0%90%E6%B8%AC-%E4%BE%9B%E6%87%89%E9%8F%88%E6%93%B4%E7%94%A2%E8%88%87%E9%80%80%E8%B2%A8%E7%8E%87%E8%A7%A3%E8%AE%80-%E6%96%B0%E6%A9%9F%E7%A8%AE%E9%A0%90%E6%B8%AC-%E6%8A%95%E8%B3%87%E7%AD%96%E7%95%A5-vision-pro-update-us-market-demand-f12ab8423404">https://medium.com/@mingchikuo/vision-pro%E6%9B%B4%E6%96%B0-%E7%BE%8E%E5%9C%8B%E5%B8%82%E5%A0%B4%E9%9C%80%E6%B1%82%E5%B7%B2%E5%A4%A7%E5%B9%85%E6%94%BE%E7%B7%A9-%E5%85%A8%E7%90%83%E7%99%BC%E4%BD%88%E6%99%82%E7%A8%8B%E9%A0%90%E6%B8%AC-%E4%BE%9B%E6%87%89%E9%8F%88%E6%93%B4%E7%94%A2%E8%88%87%E9%80%80%E8%B2%A8%E7%8E%87%E8%A7%A3%E8%AE%80-%E6%96%B0%E6%A9%9F%E7%A8%AE%E9%A0%90%E6%B8%AC-%E6%8A%95%E8%B3%87%E7%AD%96%E7%95%A5-vision-pro-update-us-market-demand-f12ab8423404</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://medium.com/@mingchikuo/vision-pro%E6%9B%B4%E6%96%B0-%E7%BE%8E%E5%9C%8B%E5%B8%82%E5%A0%B4%E9%9C%80%E6%B1%82%E5%B7%B2%E5%A4%A7%E5%B9%85%E6%94%BE%E7%B7%A9-%E5%85%A8%E7%90%83%E7%99%BC%E4%BD%88%E6%99%82%E7%A8%8B%E9%A0%90%E6%B8%AC-%E4%BE%9B%E6%87%89%E9%8F%88%E6%93%B4%E7%94%A2%E8%88%87%E9%80%80%E8%B2%A8%E7%8E%87%E8%A7%A3%E8%AE%80-%E6%96%B0%E6%A9%9F%E7%A8%AE%E9%A0%90%E6%B8%AC-%E6%8A%95%E8%B3%87%E7%AD%96%E7%95%A5-vision-pro-update-us-market-demand-f12ab8423404">Save to Pocket</a>
-</span>
-
----
-
-## ★ Poll Results on Apple’s FineWoven iPhone Cases
-
-date: 2024-02-29, updated: 2024-02-29, from: Daring Fireball
-
-Apple’s not going back to leather, but they need a better-than-leather replacement, and FineWoven 1.0 isn’t it.
-
-<span class="feed-item-link">
-<a href="https://daringfireball.net/2024/02/poll_results_on_apples_finewoven_iphone_cases">https://daringfireball.net/2024/02/poll_results_on_apples_finewoven_iphone_cases</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/2024/02/poll_results_on_apples_finewoven_iphone_cases">Save to Pocket</a>
-</span>
-
----
-
-## Textpattern Turns 20
-
-date: 2024-02-28, updated: 2024-02-28, from: Daring Fireball
-
-
-
-<span class="feed-item-link">
-<a href="https://textpattern.com/weblog/textpattern-turns-twenty">https://textpattern.com/weblog/textpattern-turns-twenty</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://textpattern.com/weblog/textpattern-turns-twenty">Save to Pocket</a>
-</span>
-
----
-
-## Lina Khan Has Been a Terrible FTC Chair
-
-date: 2024-02-28, updated: 2024-02-28, from: Daring Fireball
-
-
-
-<span class="feed-item-link">
-<a href="https://www.threads.net/@eric_seufert/post/C30bMM_pTsG/">https://www.threads.net/@eric_seufert/post/C30bMM_pTsG/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.threads.net/@eric_seufert/post/C30bMM_pTsG/">Save to Pocket</a>
-</span>
-
----
-
-## Apple vs. PWAs – Go act now and help avoid this disaster…
-
-date: 2024-02-28, from: Chris Heilmann's blog
-
-Apple wants to disallow Web Apps on iOS to be added to the home screen, run full screen and use the APIs necessary to create a great app. And to make things worse, only in Europe. We need to stop this from happening. The European Union is enforcing its Digital Markets Act and Apple aren&#8217;t [&#8230;]
-
-<span class="feed-item-link">
-<a href="https://christianheilmann.com/2024/02/28/apple-vs-pwas-go-act-now-and-help-avoid-this-disaster/">https://christianheilmann.com/2024/02/28/apple-vs-pwas-go-act-now-and-help-avoid-this-disaster/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://christianheilmann.com/2024/02/28/apple-vs-pwas-go-act-now-and-help-avoid-this-disaster/">Save to Pocket</a>
-</span>
-
----
-
-## A Cyber Insurance Backstop
-
-date: 2024-02-28, updated: 2024-02-29, from: Bruce Schneier blog
-
-<p>In the first week of January, the pharmaceutical giant Merck quietly <a href="https://therecord.media/merck-insurance-settlement-notpetya">settled its years-long lawsuit</a> over whether or not its property and casualty insurers would cover a $700 million claim filed after the devastating <a href="https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/">NotPetya cyberattack</a> in 2017. The malware ultimately infected more than 40,000 of Merck&#8217;s computers, which significantly disrupted the company&#8217;s <a href="https://www.reuters.com/article/idUSKBN1AD1AO/">drug and vaccine production</a>. After Merck filed its $700 million claim, the pharmaceutical giant&#8217;s insurers argued that they were not required to cover the malware&#8217;s damage because the cyberattack was widely attributed to the Russian government and therefore was excluded from standard property and casualty insurance coverage as a &#8220;hostile or warlike act.&#8221;...</p>
-
-<span class="feed-item-link">
-<a href="https://www.schneier.com/blog/archives/2024/02/a-cyber-insurance-backstop.html">https://www.schneier.com/blog/archives/2024/02/a-cyber-insurance-backstop.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/a-cyber-insurance-backstop.html">Save to Pocket</a>
-</span>
-
----
-
-## Office Hours: Should the Michigan primary result be a wakeup call to Biden?
-
-date: 2024-02-28, from: Robert Reich's blog
-
-Friends, The question was never whether Joe Biden would win the Michigan primary. It was how successful would be a homegrown campaign to persuade Michiganders to vote &#8220;uncommitted.&#8221; Well, we now have the results, and they should serve as a wakeup call to Biden. With most votes counted on Wednesday morning, 13% of Michigan&#8217;s Democratic primary voters had chosen &#8220;uncommitted&#8221; &#8212; a share that represented more than 100,000 people in Michigan who made the effort to lodge their disapproval of the president.
-
-<span class="feed-item-link">
-<a href="https://robertreich.substack.com/p/office-hours-does-the-michigan-primary">https://robertreich.substack.com/p/office-hours-does-the-michigan-primary</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/office-hours-does-the-michigan-primary">Save to Pocket</a>
-</span>
-
----
-
-## Office Hours: Where will Trump find the money to pay all his civil penalties? 
-
-date: 2024-02-28, from: Robert Reich's blog
-
-I have a guess
-
-<span class="feed-item-link">
-<a href="https://robertreich.substack.com/p/how-will-trump-get-the-cash-he-owes">https://robertreich.substack.com/p/how-will-trump-get-the-cash-he-owes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/how-will-trump-get-the-cash-he-owes">Save to Pocket</a>
-</span>
-
----
-
-## Netflix Will No Longer Accept Payments From App Store Billing for Legacy Accounts
-
-date: 2024-02-28, updated: 2024-02-28, from: Daring Fireball
-
-
-
-<span class="feed-item-link">
-<a href="https://cordcuttersnews.com/netflix-will-no-longer-accept-payments-from-apple/">https://cordcuttersnews.com/netflix-will-no-longer-accept-payments-from-apple/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://cordcuttersnews.com/netflix-will-no-longer-accept-payments-from-apple/">Save to Pocket</a>
-</span>
-
----
-
-## Apple Is Canceling Electric Car Project
-
-date: 2024-02-28, updated: 2024-02-28, from: Daring Fireball
-
-
-
-<span class="feed-item-link">
-<a href="https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai">https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.bloomberg.com/news/articles/2024-02-27/apple-cancels-work-on-electric-car-shifts-team-to-generative-ai">Save to Pocket</a>
-</span>
-
----
-
-## Wednesday 28 February, 2024
-
-date: 2024-02-28, from: John Naughton's online diary
-
-Bathtime, London Spotted while walking to a meeting. Quote of the Day ”A healthy male adult bore consumes each year one and a half times his own weight in other people&#8217;s patience.” John Updike Musical alternative to the morning’s radio &#8230; <a href="https://memex.naughtons.org/wednesday-28-february-2024/39186/">Continue reading <span class="meta-nav">&#8594;</span></a>
-
-<span class="feed-item-link">
-<a href="https://memex.naughtons.org/wednesday-28-february-2024/39186/">https://memex.naughtons.org/wednesday-28-february-2024/39186/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/wednesday-28-february-2024/39186/">Save to Pocket</a>
-</span>
-
----
-
-## China Surveillance Company Hacked
-
-date: 2024-02-27, updated: 2024-02-26, from: Bruce Schneier blog
-
-<p>Last week, someone posted something like 570 files, images and chat logs from a Chinese company called I-Soon. I-Soon sells hacking and espionage services to Chinese national and local government.</p>
-<p>Lots of <a href="https://www.washingtonpost.com/world/2024/02/21/china-hacking-leak-documents-isoon/">details</a> <a href="https://www.nytimes.com/2024/02/22/business/china-hack-leak-isoon.html">in</a> <a href="https://www.theguardian.com/technology/2024/feb/23/huge-cybersecurity-leak-lifts-lid-on-world-of-chinas-hackers-for-hire">the</a> <a href="https://www.nytimes.com/2024/02/22/business/china-leaked-files.html">news</a> <a href="https://apnews.com/article/china-cybersecurity-leak-document-dump-spying-aac38c75f268b72910a94881ccbb77cb">articles</a>.</p>
-<p>These aren&#8217;t details about the tools or techniques, more the inner workings of the company. And they seem to primarily be hacking regionally.</p>
-
-
-<span class="feed-item-link">
-<a href="https://www.schneier.com/blog/archives/2024/02/china-surveillance-company-hacked.html">https://www.schneier.com/blog/archives/2024/02/china-surveillance-company-hacked.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/china-surveillance-company-hacked.html">Save to Pocket</a>
-</span>
-
----
-
-## Jeff Bezos and Elon Musk vs. American workers
-
-date: 2024-02-27, from: Robert Reich's blog
-
-The biggest robber barons of this Second Gilded Age are trying to end the freedom of workers to unionize
-
-<span class="feed-item-link">
-<a href="https://robertreich.substack.com/p/jeff-bezos-and-elon-musk-vs-american">https://robertreich.substack.com/p/jeff-bezos-and-elon-musk-vs-american</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/jeff-bezos-and-elon-musk-vs-american">Save to Pocket</a>
-</span>
-
----
-
-## Today in the Supreme Court: What’s the real answer to the problem of policing Giant Tech’s content?
-
-date: 2024-02-27, from: Robert Reich's blog
-
-Today's argument before the Supreme Court
-
-<span class="feed-item-link">
-<a href="https://robertreich.substack.com/p/whats-the-real-answer-to-the-problem">https://robertreich.substack.com/p/whats-the-real-answer-to-the-problem</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/whats-the-real-answer-to-the-problem">Save to Pocket</a>
-</span>
-
----
-
-## Thank You – a New Milestone
-
-date: 2024-02-26, from: Dan Rather's Steady
-
-The Steady community
-
-<span class="feed-item-link">
-<a href="https://steady.substack.com/p/thank-you-a-new-milestone">https://steady.substack.com/p/thank-you-a-new-milestone</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/thank-you-a-new-milestone">Save to Pocket</a>
-</span>
-
----
-
-## Apple Announces Post-Quantum Encryption Algorithms for iMessage
-
-date: 2024-02-26, updated: 2024-02-23, from: Bruce Schneier blog
-
-<p>Apple announced <a href="https://security.apple.com/blog/imessage-pq3/">PQ3</a>, its post-quantum encryption standard based on the <a href="https://pq-crystals.org/kyber/">Kyber</a> secure key-encapsulation protocol, one of the post-quantum algorithms <a href="https://csrc.nist.gov/Projects/post-quantum-cryptography/selected-algorithms-2022">selected</a> by NIST in 2022.</p>
-<p>There&#8217;s a lot of detail in the Apple <a href="https://security.apple.com/blog/imessage-pq3/">blog post</a>, and more in Douglas Stabila&#8217;s <a href="https://security.apple.com/assets/files/Security_analysis_of_the_iMessage_PQ3_protocol_Stebila.pdf">security analysis</a>.</p>
-<p>I am of two minds about this. On the one hand, it&#8217;s probably premature to switch to any particular post-quantum algorithms. The mathematics of cryptanalysis for these lattice and other systems is still rapidly evolving, and we&#8217;re likely to break more of them&#8212;and learn a lot in the process&#8212;over the coming few years. But if you&#8217;re going to make the switch, this is an excellent choice. And Apple&#8217;s ability to do this so efficiently speaks well about its algorithmic agility, which is probably more important than its particular cryptographic design. And it is probably about the right time to worry about, and defend against, attackers who are storing encrypted messages in hopes of breaking them later on future quantum computers...</p>
-
-<span class="feed-item-link">
-<a href="https://www.schneier.com/blog/archives/2024/02/apple-announces-post-quantum-encryption-algorithms-for-imessage.html">https://www.schneier.com/blog/archives/2024/02/apple-announces-post-quantum-encryption-algorithms-for-imessage.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/02/apple-announces-post-quantum-encryption-algorithms-for-imessage.html">Save to Pocket</a>
-</span>
-
----
-
-## Less than 60 percent of the vote in South Carolina? Sheesh. Trump continues to do poorly in Republican caucuses and primaries
-
-date: 2024-02-26, from: Robert Reich's blog
-
-Why is the mainstream media referring to them as &#8220;big victories&#8221; for Trump?
-
-<span class="feed-item-link">
-<a href="https://robertreich.substack.com/p/less-than-60-percent-of-the-vote">https://robertreich.substack.com/p/less-than-60-percent-of-the-vote</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/less-than-60-percent-of-the-vote">Save to Pocket</a>
-</span>
-
----
-
-## Trouble in Trumpland?
-
-date: 2024-02-26, from: Dan Rather's Steady
-
-A deeper dive indicates where and how Trump is vulnerable
-
-<span class="feed-item-link">
-<a href="https://steady.substack.com/p/trouble-in-trumpland">https://steady.substack.com/p/trouble-in-trumpland</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/trouble-in-trumpland">Save to Pocket</a>
-</span>
-
----
-
-## Monday 26 February, 2024
-
-date: 2024-02-26, from: John Naughton's online diary
-
-Sky’s the Limit A Norfolk beach on Friday afternoon. Quote of the Day ”I do not have a psychiatrist and I do not want one, for the simple reason that if he listened to me long enough, he might become &#8230; <a href="https://memex.naughtons.org/monday-26-february-2024/39173/">Continue reading <span class="meta-nav">&#8594;</span></a>
-
-<span class="feed-item-link">
-<a href="https://memex.naughtons.org/monday-26-february-2024/39173/">https://memex.naughtons.org/monday-26-february-2024/39173/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/monday-26-february-2024/39173/">Save to Pocket</a>
-</span>
-
----
-
-## “We Are the World”: The REAL Story
-
-date: 2024-02-25, from: Dan Rather's Steady
-
-A Reason To Smile
-
-<span class="feed-item-link">
-<a href="https://steady.substack.com/p/we-are-the-world-the-real-story">https://steady.substack.com/p/we-are-the-world-the-real-story</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/we-are-the-world-the-real-story">Save to Pocket</a>
-</span>
-
----
-
-## Sunday caption contest: Little darling
-
-date: 2024-02-25, from: Robert Reich's blog
+date: 2024-03-03, from: Robert Reich's blog
 
 And last week&#8217;s winner
 
 <span class="feed-item-link">
-<a href="https://robertreich.substack.com/p/sunday-caption-contest-225">https://robertreich.substack.com/p/sunday-caption-contest-225</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/sunday-caption-contest-225">Save to Pocket</a>
+<a href="https://robertreich.substack.com/p/sunday-caption-contest-21d">https://robertreich.substack.com/p/sunday-caption-contest-21d</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/sunday-caption-contest-21d">Save to Pocket</a>
 </span>
 
 ---
 
-## ‘iMessage With PQ3: The New State of the Art in Quantum-Secure Messaging at Scale’
+## ’What We Carry‘
 
-date: 2024-02-25, updated: 2024-02-25, from: Daring Fireball
+date: 2024-03-03, from: Dan Rather's Steady
 
-
+A Reason To Smile
 
 <span class="feed-item-link">
-<a href="https://security.apple.com/blog/imessage-pq3/">https://security.apple.com/blog/imessage-pq3/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://security.apple.com/blog/imessage-pq3/">Save to Pocket</a>
+<a href="https://steady.substack.com/p/what-we-carry">https://steady.substack.com/p/what-we-carry</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/what-we-carry">Save to Pocket</a>
 </span>
 
 
