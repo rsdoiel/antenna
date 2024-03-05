@@ -1,29 +1,203 @@
 ---
 title: tech likely 2024.10
-updated: 2024-03-04 08:41:57
+updated: 2024-03-05 08:23:45
 ---
 
 # tech likely 2024.10
 
-(date: 2024-03-04 08:41:57)
+(date: 2024-03-05 08:23:45)
 
 ---
 
-##  How Jane Austen Changed Fiction Forever 
+## Running CP/M on the C128
 
-date: 2024-03-04, updated: 2024-03-04, from: Jason Kottke blog
+date: 2024-03-05, from: OS News
+
+I owned a C64 and was familiar with the C128, but this one was odd. It wasn’t running any games, color graphics or playing music. Instead, it was connected to a monochrome monitor which always displayed either a weird command line prompt or what seemed to be some boring professional writing software. I soon came to find that it was running CP/M and WordStar, one of the first word processors for microcomputers. My daily obsessive visits to the computer shop led to some friendship with the owner, to the point that he’d let me in and play with the machines. So, I played with CP/M and learned how to use WordStar. Well, in case you didn’t notice, I own a C128DCR now. This blog is about how I got CP/M, WordStar, and other fun ancient software apps running on it. ↫ Celso Martinho CP/M, of course, was the primary influence of DOS.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138715/running-cp-m-on-the-c128/">https://www.osnews.com/story/138715/running-cp-m-on-the-c128/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138715/running-cp-m-on-the-c128/">Save to Pocket</a>
+</span>
+
+---
+
+## Facing reality, whether it’s about Apple or the EU, is a core requirement for good management
+
+date: 2024-03-05, from: OS News
+
+Baldur Bjarnason has written an excellent piece to explain why, exactly, companies like Apple seem wholly incapable of working with the EU, instead of against it. He argues &#8211; quite effectively &#8211; that Apple, and US tech punditry in general, simply do not understand the EU, nor are they willing to spend even 10 minutes to understand it, which is really all you need. The core premise of the EU, its very primary function, is to enable and protect the single market. A great example of this is the ban on roaming charges &#8211; mobile phone carriers in EU are not allowed to charge extra for using mobile voice and data services in another EU country. From the EU’s perspective, taking action to prevent private parties from fragmenting and taking private control over the single market simultaneously grew the economy and increased consumer surplus. This is the operating theory behind much of the actions the EU takes regarding market regulation and product standardisation: a single market built on standards is more profitable for both businesses and consumers. ↫ Baldur Bjarnason And because Apple and its tech punditry refuse to try and understand the party they are dealing with, they get caught looking like childish idiots every time they open their mouths about it. Normally when the EU regulates a given sector, it does so with ample lead time and works with industry to make sure that they understand their obligations. Apple instead thought that the regulatory contact from the EU during the lead time to the DMA was an opportunity for it to lecture the EU on its right to exist. Then its executives made up some fiction in their own minds as to what the regulation meant, announced their changes, only to discover later that they were full of bullshit. This was entirely Apple’s own fault. For months, we’ve been hearing leaks about Apple’s talks with the EU about the Digital Market Act. Those talks were not negotiations even though Apple seems to have thought they were. Talks like those are to help companies implement incoming regulations, with some leeway for interpretation on the EU’s side to accommodate business interests. Remember what I wrote about electrical plugs? The EU is pro-business – often criticised for being essentially a pro-business entity – and not in favour of regulation for regulation’s sake. If Apple had faced reality and tried to understand the facts as they are, they would have used the talks to clarify all of these issues and more well in advance of the DMA taking effect. But they didn’t because they have caught the tech industry management disease of demanding that reality bend to their ideas and wishes. ↫ Baldur Bjarnason What a lot of people &#8211; both inside and outside the EU &#8211; do not grasp is that while we all know the EU has shortcomings and issues, in general, the EU is uncharacteristically (for a government agency) popular among EU citizens, no matter the country of origin. That&#8217;s because we, as EU citizens, and especially as EU citizens who do anything international, know just how ridiculously beneficial the EU has been for trade, business, the economy, travel, and so much more. Apple can keep acting like a whiny trust fund boy who thinks the world owes them everything, but they&#8217;ll have to deal with the consequences. Continued violation of the DMA can lead to fines of up to 10% of revenue. That&#8217;s 38 billion dollars. I secretly hope Apple keeps this childish behaviour up. It&#8217;s deeply entertaining.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138710/facing-reality-whether-its-about-apple-or-the-eu-is-a-core-requirement-for-good-management/">https://www.osnews.com/story/138710/facing-reality-whether-its-about-apple-or-the-eu-is-a-core-requirement-for-good-management/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138710/facing-reality-whether-its-about-apple-or-the-eu-is-a-core-requirement-for-good-management/">Save to Pocket</a>
+</span>
+
+---
+
+##  Extraordinarily Effective Trompe l&#8217;Oeil Paintings of Paper Craft 
+
+date: 2024-03-05, updated: 2024-03-05, from: Jason Kottke blog
 
 
 
 <span class="feed-item-link">
-<a href="https://kottke.org/24/03/how-jane-austen-changed-fiction-forever">https://kottke.org/24/03/how-jane-austen-changed-fiction-forever</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/how-jane-austen-changed-fiction-forever">Save to Pocket</a>
+<a href="https://kottke.org/24/03/extraordinarily-effective-trompe-loeil-paintings-of-paper-craft">https://kottke.org/24/03/extraordinarily-effective-trompe-loeil-paintings-of-paper-craft</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/extraordinarily-effective-trompe-loeil-paintings-of-paper-craft">Save to Pocket</a>
+</span>
+
+---
+
+## Covert racism in LLMs
+
+date: 2024-03-05, from: Gary Marcus blog
+
+Shocking new paper with potentially serious implications
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/covert-racism-in-llms">https://garymarcus.substack.com/p/covert-racism-in-llms</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/covert-racism-in-llms">Save to Pocket</a>
+</span>
+
+---
+
+## European crash tester says carmakers must bring back physical controls
+
+date: 2024-03-05, from: OS News
+
+The European organisation for crash testing and car safety, Euro NCAP has announced that starting in 2026, cars will need physical controls in their interiors to gain the highest safety ratings. &#8220;The overuse of touchscreens is an industry-wide problem, with almost every vehicle-maker moving key controls onto central touchscreens, obliging drivers to take their eyes off the road and raising the risk of distraction crashes,&#8221; said Matthew Avery, Euro NCAP&#8217;s director of strategic development. &#8220;New Euro NCAP tests due in 2026 will encourage manufacturers to use separate, physical controls for basic functions in an intuitive manner, limiting eyes-off-road time and therefore promoting safer driving,&#8221; he said. ↫ Jonathan M. Gitlin at Ars Technica Excellent news, and it&#8217;s taken regulators and safety organisations way too long to long to adapt to the growing menace of touch screens in cars.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138708/european-crash-tester-says-carmakers-must-bring-back-physical-controls/">https://www.osnews.com/story/138708/european-crash-tester-says-carmakers-must-bring-back-physical-controls/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138708/european-crash-tester-says-carmakers-must-bring-back-physical-controls/">Save to Pocket</a>
+</span>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-03-05, from: Miguel de Icaza Mastondon feed)
+
+<p>This Xcode warning was lovely, it found a real bug in my code:</p>
+
+<span class="feed-item-link">
+<a href="https://mastodon.social/@Migueldeicaza/112043774053186871">https://mastodon.social/@Migueldeicaza/112043774053186871</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mastodon.social/@Migueldeicaza/112043774053186871">Save to Pocket</a>
+</span>
+
+---
+
+##  Wow, another amazing interactive explainer from Bartosz Ciechanowski; this one is about... 
+
+date: 2024-03-05, updated: 2024-03-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044118-wow-another-amazing-inter">https://kottke.org/24/03/0044118-wow-another-amazing-inter</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044118-wow-another-amazing-inter">Save to Pocket</a>
+</span>
+
+---
+
+## Tech Today: Semiconductor Research Leads to Revolution in Dental Care
+
+date: 2024-03-05, from: NASA breaking news
+
+Toothpaste based on the mineral hydroxyapatite, popular across Asia and much of Europe today, is finding its first foothold in the U.S. But the idea behind this alternative to fluoride-based toothpaste was conceived here in a short-lived NASA field center more than 50 years ago.&#160; While working at NASA’s Electronics Research Center – active in [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/tech-today-semiconductor-research-leads-to-revolution-in-dental-care/">https://www.nasa.gov/general/tech-today-semiconductor-research-leads-to-revolution-in-dental-care/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/tech-today-semiconductor-research-leads-to-revolution-in-dental-care/">Save to Pocket</a>
+</span>
+
+---
+
+## Elliptic Curve ‘Murmurations’ Found With AI Take Flight
+
+date: 2024-03-05, from: Quanta Magazine
+
+Mathematicians are working to fully explain unusual behaviors uncovered using artificial intelligence.            <p>The post <a href="https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/" target="_blank">Elliptic Curve &#8216;Murmurations&#8217; Found With AI Take Flight</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/">https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/">Save to Pocket</a>
+</span>
+
+---
+
+## It’s Time to Give Up on Everything but Email
+
+date: 2024-03-05, from: Manu - I write blog
+
+<p>I was sitting there, minding my own damn business, surfing the web, clicking around, enjoying my time, when I stumbled on <a href="https://www.theatlantic.com/technology/archive/2024/03/email-nightmare-just-give-up/677615/">this article</a>, by Ian Bogost on The Atlantic, that is so painfully stupid that I had to take the time and comment on it. Because, as you know, I love emails.</p>
+<blockquote>
+<p>Finally, in step five, you must evangelize your mission. Email is a public-health concern. Gently correct your mother when she tries to correspond. Reprimand your email-happy colleagues. Punish email abuse by withholding your replies. Or, more gently, darken someone’s doorway. In short, you must show the sort of leadership that will encourage others to forsake their email too. We’ll never stop the rain of email, no matter what we do. But if we work together, maybe we can build a kind of shelter.</p>
+</blockquote>
+<p>The entire premise of this article is that email is an unmanageable mess filled with all sorts of garbage and dealing with it is a lost cause. There’s an analogy in there that is so idiotic that is worth quoting:</p>
+<blockquote>
+<p>Alas, there is no opting out from email. As a practical matter, your inbox cannot be abandoned altogether. The same is true for postal mail: To function within the normal bounds of contemporary society, you must be addressable in physical space. You must be able to receive Amex bills and Amazon baubles, and also, you must subject yourself to lots of junk. This analogy between your home’s mailbox and your computer’s inbox is so easily made that it’s often overlooked. Both are stuffed with garbage by default, but also just a few essential messages.</p>
+</blockquote>
+<p>Ian, let me give you some shocking advice: unlike your physical address, it’s not hard to get an extra email address. Hell, you can get even more than one. You can go one step further and get a disposable one! Shocking, I know!</p>
+<p>In all seriousness, if in 2024 you’re using one single email address for everything that’s a you problem, not an email problem. Also, Ian, let me ask you a question: what’s the alternative here? Do we all move to Slack/Discord/Teams? Do we all move everything to DMs? Do you think that’s a better solution?</p>
+<p>There’s a reason why emails are still here. They’re still here because they work. Is email perfect? No. Is there a better alternative? Also no.</p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/Fa3eekkeO3dq1s2W">https://manuelmoreale.com/@/page/Fa3eekkeO3dq1s2W</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/Fa3eekkeO3dq1s2W">Save to Pocket</a>
+</span>
+
+---
+
+##  Ronan Farrow profiles RuPaul for the New Yorker. &#8220;He&#8217;s seen the way... 
+
+date: 2024-03-05, updated: 2024-03-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044114-ronan-farrow-profiles-rup">https://kottke.org/24/03/0044114-ronan-farrow-profiles-rup</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044114-ronan-farrow-profiles-rup">Save to Pocket</a>
+</span>
+
+---
+
+## Willy Wonky
+
+date: 2024-03-05, updated: 2024-03-05, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/03/05/willy-wonky/">https://onefoottsunami.com/2024/03/05/willy-wonky/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/03/05/willy-wonky/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-05, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/08/01/mrmet.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://www.threads.net/@emilyreesnunn/post/C4GDOWGr9T6">Emily Nunn</a>: "I don’t understand how all the outcry about their bizarre and defensive political coverage and the scary effect it can have on the election is not a major investigative story being written by other journalists. Not some fancy media critic opinion or an editorial. A real report, taking defensiveness out of it and applying accountability." A regular reader of this blog will know how totally I agree with this. But oddly when I agreed with her, perhaps a little to strongly for her liking, she accused me of being a MAGA. It's so totally not true, and very typical of reporters, to use an ad hominem to not have to listen to a non-journalist opinion about journalism. I have been a reader of the NYT since I was a small child. I wanted to be a writer like <a href="https://en.wikipedia.org/wiki/Russell_Baker">Russell Baker</a>. I was quoted by <a href="https://en.wikipedia.org/wiki/William_Safire">William Safire</a> in an op-ed. I have done some of the <a href="http://scripting.com/davenet/2002/04/10/newYorkTimesAndUserland.html">most successful work</a> of my career with the NYT. I love journalism <a href="http://scripting.com/2018/06/24/181734.html">like I love the Mets</a>. I don't expect them to do great things every season, but I do hope for a <a href="https://en.wikipedia.org/wiki/1969_New_York_Mets_season">1969</a> or <a href="https://en.wikipedia.org/wiki/1986_New_York_Mets_season">1986</a> every once in a while. These days I don't see much hope for the NYT returning to its former glory. I also wonder if they ever really were that great, that maybe I was just a naive young hero-seeker, growing up in Queens in the 1960s. We <i>all</i> have to work together to dig out of the hole we're in. And that means reporters have to start looking at themselves, and they have to listen to us, the people who care about the job that we need journalism to do, that it isn't doing.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/05.html#a135148">http://scripting.com/2024/03/05.html#a135148</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/05.html#a135148">Save to Pocket</a>
+</span>
+
+---
+
+## “Mutual incomprehension now exists seemingly everywhere”: The New York Times’ publisher responds to its critics
+
+date: 2024-03-05, from: Nieman Journalism Lab
+
+It&#8217;s an honor to be here to deliver this year&#8217;s memorial lecture. The Reuters Institute has been an invaluable resource for so many of us engaged in the difficult work of trying to blaze a sustainable path for quality journalism. And I feel lucky to receive such a warm welcome here at Oxford despite my...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/03/mutual-incomprehension-now-exists-seemingly-everywhere-the-new-york-times-publisher-responds-to-its-critics/">https://www.niemanlab.org/2024/03/mutual-incomprehension-now-exists-seemingly-everywhere-the-new-york-times-publisher-responds-to-its-critics/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/03/mutual-incomprehension-now-exists-seemingly-everywhere-the-new-york-times-publisher-responds-to-its-critics/">Save to Pocket</a>
+</span>
+
+---
+
+## 10 Ways Students Can Prepare to #BeAnAstronaut
+
+date: 2024-03-05, from: NASA breaking news
+
+10 Ways Students Can Prepare to #BeAnAstronaut Want to #BeAnAstronaut, but don’t know where to start? Here are some ways you can kick-start your journey! Even if you don’t qualify to #BeAnAstronaut — yet — within NASA’s Office of STEM Engagement, or OSTEM, there are ways to get involved with NASA’s missions. Check out the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/learning-resources/10-ways-students-can-prepare-to-beanastronaut/">https://www.nasa.gov/learning-resources/10-ways-students-can-prepare-to-beanastronaut/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/learning-resources/10-ways-students-can-prepare-to-beanastronaut/">Save to Pocket</a>
 </span>
 
 ---
 
 ## 2024-03-04 Israel and Palestine
 
-date: 2024-03-04, from: Alex Schroeder's Blog
+date: 2024-03-05, from: Alex Schroeder's Blog
 
 <h1>2024-03-04 Israel and Palestine</h1>
 
@@ -49,8 +223,460 @@ date: 2024-03-04, from: Alex Schroeder's Blog
 
 <p><a class="tag" href="/search/?q=%23Israel">#Israel</a> <a class="tag" href="/search/?q=%23Palestine">#Palestine</a></p>
 
+<p>&ldquo;We laugh so we don&rsquo;t cry,&rdquo; I heard Sarah Taber say in her Farm to Taber podcast, either in <a href="https://shows.acast.com/farm-to-taber/episodes/the-true-story-of-us-agriculture">Season 4, Ep. 7: The History of US Agriculture: How Jim Crow paid off for the Midwestern family farm</a> or in <a href="https://shows.acast.com/farm-to-taber/episodes/king-cotton-jim-crow-and-pellagra">Season 4, Ep. 9: King Cotton, Jim Crow, and Pellagra</a>.</p>
+
+<p>In that spirit, <a href="https://existentialcomics.com/comic/527">Existential Comics 527: Fantasy Morality</a> has this note at the end:</p>
+
+<blockquote>
+<p>Since the good guys always win in the end, and are typically outnumbered, this becomes pretty important. The orcs will brutally, savagely kill a few dozen elves, and the elves will respond in a very civilized fashion by wiping out the entire orc civilization. You can even still see this kind of justification in contemporary colonialism (<em>cough Israel cough</em>).</p>
+</blockquote>
+
 <span class="feed-item-link">
 <a href="https://alexschroeder.ch/view/2024-03-04-israel">https://alexschroeder.ch/view/2024-03-04-israel</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-03-04-israel">Save to Pocket</a>
+</span>
+
+---
+
+## On Time
+
+date: 2024-03-05, from: Accidentally in Code
+
+The past year I’ve been working on a book. I organized my entire life to carve out and preserve my Saturdays for this project. It is finally done (almost! Just reviews of proof pages to go); I got my weekends back just in time to work them through the review cycle, and with the worst [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://cate.blog/2024/03/05/on-time/">https://cate.blog/2024/03/05/on-time/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://cate.blog/2024/03/05/on-time/">Save to Pocket</a>
+</span>
+
+---
+
+## CamJam threw us a birthday party
+
+date: 2024-03-05, from: Raspberry Pi News (.com)
+
+<p>Thanks to everyone who came to our third-cum-twelfth birthday party last weekend, thrown for us by CamJam. Here are some photos of the day so you can immerse yourself in the experience if you weren't there, and relive the unadulterated joy if you were. </p>
+<p>The post <a href="https://www.raspberrypi.com/news/camjam-threw-us-a-birthday-party/">CamJam threw us a birthday party</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/camjam-threw-us-a-birthday-party/">https://www.raspberrypi.com/news/camjam-threw-us-a-birthday-party/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/camjam-threw-us-a-birthday-party/">Save to Pocket</a>
+</span>
+
+---
+
+## Old enough to know better
+
+date: 2024-03-05, from: Dave Winer's Scripting News
+
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/03/04/oldEnoughToKnowBetter.png"></center>There are advantages to being older.</div></p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/04/015625.html?title=oldEnoughToKnowBetter">http://scripting.com/2024/03/04/015625.html?title=oldEnoughToKnowBetter</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/04/015625.html?title=oldEnoughToKnowBetter">Save to Pocket</a>
+</span>
+
+---
+
+## Rust for embedded systems: current state, challenges and open problems
+
+date: 2024-03-04, from: OS News
+
+Embedded software is used in safety-critical systems such as medical devices and autonomous vehicles, where software defects, including security vulnerabilities, have severe consequences. Most embedded codebases are developed in unsafe languages, specifically C/C++, and are riddled with memory safety vulnerabilities. To prevent such vulnerabilities, RUST, a performant memory-safe systems language, provides an optimal choice for developing embedded software. RUST interoperability enables developing RUST applications on top of existing C codebases. Despite this, even the most resourceful organizations continue to develop embedded software in C/C++. This paper performs the first systematic study to holistically understand the current state and challenges of using RUST for embedded systems. Our study is organized across three research questions. We collected a dataset of 2,836 RUST embedded software spanning various categories and 5 Static Application Security Testing ( SAST) tools. We performed a systematic analysis of our dataset and surveys with 225 developers to investigate our research questions. We found that existing RUST software support is inadequate, SAST tools cannot handle certain features of RUST embedded software, resulting in failures, and the prevalence of advanced types in existing RUST software makes it challenging to engineer interoperable code. In addition, we found various challenges faced by developers in using RUST for embedded systems development. ↫ Ayushi Sharma, Shashank Sharma, Santiago Torres-Arias, Aravind Machiry Some light reading.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138705/rust-for-embedded-systems-current-state-challenges-and-open-problems/">https://www.osnews.com/story/138705/rust-for-embedded-systems-current-state-challenges-and-open-problems/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138705/rust-for-embedded-systems-current-state-challenges-and-open-problems/">Save to Pocket</a>
+</span>
+
+---
+
+##  The Paradox of an Infinite Universe 
+
+date: 2024-03-04, updated: 2024-03-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/the-paradox-of-an-infinite-universe">https://kottke.org/24/03/the-paradox-of-an-infinite-universe</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/the-paradox-of-an-infinite-universe">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Joins Rice University for 2024 Space Studies Program
+
+date: 2024-03-04, from: NASA breaking news
+
+March 4, 2024 RELEASE: J24-006 Students from around the world will visit NASA’s Johnson Space Center in Houston this summer for a variety of activities associated with the 36th annual Space Studies Program of the International Space University. Through a continuing partnership with Houston’s Rice University, NASA Johnson will welcome students from many countries participating [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-joins-rice-university-for-2024-space-studies-program/">https://www.nasa.gov/news-release/nasa-joins-rice-university-for-2024-space-studies-program/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-joins-rice-university-for-2024-space-studies-program/">Save to Pocket</a>
+</span>
+
+---
+
+## M3 MacBook Pro Multi-Display Support via Software Update
+
+date: 2024-03-04, from: Michael Tsai
+
+Zac Hall: Both the M3 MacBook Air and the M3 MacBook Pro offer support for one external display with up to 6K resolution at 60Hz when the display is open, and with the update, the M3 MacBooks will also be able to power two 5K external displays with a resolution of up to 60Hz. That [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/03/04/m3-macbook-pro-multi-display-support-via-software-update/">https://mjtsai.com/blog/2024/03/04/m3-macbook-pro-multi-display-support-via-software-update/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/03/04/m3-macbook-pro-multi-display-support-via-software-update/">Save to Pocket</a>
+</span>
+
+---
+
+## MacBook Air 2024
+
+date: 2024-03-04, from: Michael Tsai
+
+Apple (MacRumors, Hacker News): With M3, MacBook Air is up to 60 percent faster than the model with the M1 chip and up to 13x faster than the fastest Intel-based MacBook Air. And with a faster and more efficient Neural Engine in M3, MacBook Air continues to be the world&#8217;s best consumer laptop for AI. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/03/04/macbook-air-2024/">https://mjtsai.com/blog/2024/03/04/macbook-air-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/03/04/macbook-air-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## EU Fines Apple $2 Billion Over Anti-Steering Rules
+
+date: 2024-03-04, from: Michael Tsai
+
+Foo Yun Chee (European Commission, Hacker News, MacRumors): Brussels on Monday fined Apple, opens new tab 1.84 billion euros ($2 billion) for thwarting competition from music streaming rivals via restrictions on its App Store, the iPhone maker&#8217;s first ever penalty for breaching EU rules.A basic penalty of 40 million euros was inflated by a huge [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/03/04/eu-fines-apple-2-billion-over-anti-steering-rules/">https://mjtsai.com/blog/2024/03/04/eu-fines-apple-2-billion-over-anti-steering-rules/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/03/04/eu-fines-apple-2-billion-over-anti-steering-rules/">Save to Pocket</a>
+</span>
+
+---
+
+## Thoughts on Apple’s DMA Compliance
+
+date: 2024-03-04, from: Michael Tsai
+
+Juli Clover: Spotify, Epic Games, Deezer, Paddle, and several other developers and EU associations today sent a joint letter to the European Commission to complain about Apple&#8217;s &#8220;proposed scheme for compliance&#8221; with the Digital Markets Act (DMA).The 34 companies and associations do not believe Apple&#8217;s plans &#8220;meet the law&#8217;s requirements.&#8221; Apple&#8217;s changes &#8220;disregard both the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/03/04/thoughts-on-apples-dma-compliance/">https://mjtsai.com/blog/2024/03/04/thoughts-on-apples-dma-compliance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/03/04/thoughts-on-apples-dma-compliance/">Save to Pocket</a>
+</span>
+
+---
+
+##  How the Dutch Solved Street Design 
+
+date: 2024-03-04, updated: 2024-03-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/how-the-dutch-solved-street-design">https://kottke.org/24/03/how-the-dutch-solved-street-design</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/how-the-dutch-solved-street-design">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Awards Contracts for Flight, Payload Integration Services
+
+date: 2024-03-04, from: NASA breaking news
+
+NASA has selected 15 companies to provide flight and payload integration services to advance technologies and procedures for operating in space, including testing in high-altitude, reduced gravity, or other relevant environments. Examples of payloads include NASA science instruments or technology demonstrations. The indefinite-delivery/indefinite-quantity base contract awards are firm-fixed-price with a total combined value of $45 [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-awards-contracts-for-flight-payload-integration-services/">https://www.nasa.gov/news-release/nasa-awards-contracts-for-flight-payload-integration-services/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-awards-contracts-for-flight-payload-integration-services/">Save to Pocket</a>
+</span>
+
+---
+
+## 65 Years Ago: Pioneer 4 Reaches for the Moon
+
+date: 2024-03-04, from: NASA breaking news
+
+On March 3, 1959, the United States launched Pioneer 4 with the goal of photographing the Moon during a close flyby. As part of the International Geophysical Year that ran from July 1, 1957, to Dec. 31, 1958, the United States planned to send five probes to study the Moon. The first three planned to [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/history/65-years-ago-pioneer-4-reaches-for-the-moon/">https://www.nasa.gov/history/65-years-ago-pioneer-4-reaches-for-the-moon/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/history/65-years-ago-pioneer-4-reaches-for-the-moon/">Save to Pocket</a>
+</span>
+
+---
+
+##  A Mastodon client for the Apple II. Yes, you read that right.... 
+
+date: 2024-03-04, updated: 2024-03-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044115-a-mastodon-client-for-the">https://kottke.org/24/03/0044115-a-mastodon-client-for-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044115-a-mastodon-client-for-the">Save to Pocket</a>
+</span>
+
+---
+
+## Lagniappe for March 2024
+
+date: 2024-03-04, from: NASA breaking news
+
+Explore the March 2024 edition featuring: Gator Speaks Closing out February and coming into March has Gator fired up, and rightfully so! Recent weeks and upcoming events remind us all how we are in a golden era of space exploration as NASA inspires the world through discovery. For the first time in more than half [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-march-2024/">https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-march-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-march-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Leaders Participate in Annual Stennis Day at the Capitol
+
+date: 2024-03-04, from: NASA breaking news
+
+Leaders from NASA’s Stennis Space Center and NASA Shared Services Center visit Jackson, Mississippi, in late February to share site updates with state leaders during the annual Stennis Day at the Capitol. NASA Stennis is on the front line of the next great era of human space exploration as NASA explores the secrets of the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasa-leaders-participate-in-annual-stennis-day-at-the-capitol/">https://www.nasa.gov/image-article/nasa-leaders-participate-in-annual-stennis-day-at-the-capitol/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasa-leaders-participate-in-annual-stennis-day-at-the-capitol/">Save to Pocket</a>
+</span>
+
+---
+
+## An Apple district manager’s Macintosh Portable in 1989-91 (featuring GEIS AppleLink and a look at System 7.0 alpha)
+
+date: 2024-03-04, from: OS News
+
+A few months ago I introduced you to one of the more notable Apple pre-production units in my collection, a late prototype Macintosh Portable. But it turns out it&#8217;s not merely notable for what it is than what it has on it: a beta version of System 6.0.6 (the doomed release that Apple pulled due to bugs), Apple sales databases, two online services — the maligned Mac Prodigy client, along with classic AppleLink as used by Apple staff — and two presentations, one on Apple&#8217;s current Macintosh line and one on the upcoming System 7. Now that I&#8217;ve got the infamous Conner hard drive it came with safely copied over, it&#8217;s time to explore its contents some more. ↫ Old Vintage Computing Research I wonder just how rare it is to find old internal presentations from a company like Apple. It seems like something that doesn&#8217;t happen very often, so it&#8217;s great to see this archived and documented.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138703/an-apple-district-managers-macintosh-portable-in-1989-91-featuring-geis-applelink-and-a-look-at-system-7-0-alpha/">https://www.osnews.com/story/138703/an-apple-district-managers-macintosh-portable-in-1989-91-featuring-geis-applelink-and-a-look-at-system-7-0-alpha/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138703/an-apple-district-managers-macintosh-portable-in-1989-91-featuring-geis-applelink-and-a-look-at-system-7-0-alpha/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA to Demonstrate Miniature CubeSat Swarm Technology
+
+date: 2024-03-04, from: NASA breaking news
+
+Preparations are underway for a new, small spacecraft technology demonstration that will test cost-efficient swarm capabilities – the ability for multiple spacecraft to communicate and perform coordinated actions. The PY4 mission’s four CubeSats are slated to launch Monday March 4, 2:05 p.m. PST to low Earth orbit aboard SpaceX’s Transporter-10 mission from Vandenberg Space Force [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/directorates/stmd/small-spacecraft-technology-program/nasa-to-demonstrate-miniature-cubesat-swarm-technology/">https://www.nasa.gov/directorates/stmd/small-spacecraft-technology-program/nasa-to-demonstrate-miniature-cubesat-swarm-technology/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/directorates/stmd/small-spacecraft-technology-program/nasa-to-demonstrate-miniature-cubesat-swarm-technology/">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;France on Monday enshrined the right to abortion in its constitution, a... 
+
+date: 2024-03-04, updated: 2024-03-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044113-france-on-monday-enshrine">https://kottke.org/24/03/0044113-france-on-monday-enshrine</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044113-france-on-monday-enshrine">Save to Pocket</a>
+</span>
+
+---
+
+## Report for America is “phasing out” partnerships with hedge fund-owned publications
+
+date: 2024-03-04, from: Nieman Journalism Lab
+
+Since Report for America launched in 2017, the nonprofit has placed more than 600 reporters in local newsrooms around the country, including for-profit and nonprofit newsrooms alike. The hundreds of newsrooms the organization has placed those reporters in vary in geography, size, business model, and funding sources. And they&#8217;ve included, somewhat controversially, chains owned by hedge...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/03/report-for-america-is-phasing-out-partnerships-with-hedge-fund-owned-publications/">https://www.niemanlab.org/2024/03/report-for-america-is-phasing-out-partnerships-with-hedge-fund-owned-publications/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/03/report-for-america-is-phasing-out-partnerships-with-hedge-fund-owned-publications/">Save to Pocket</a>
+</span>
+
+---
+
+## Two talks for the price of one* at WROCC on 6th March
+
+date: 2024-03-04, from: RiscOS Story
+
+* And the meeting is already free, so that makes this a bargain! Wednesday, 6th March, will see the next Wakefield RISC OS Computer Club (WROCC) meeting take place, and this month attendees will get two talks from two different people, rather than the usual one. The first speaker will be Chris Hughes, following up a talk he gave in July 2022 about Impact and how he uses it for WROCC administration &#8211; this time he&#8217;ll be looking at other aspects of the program beyond those covered by that talk.&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.riscository.com/2024/two-wrocc-talks-for-the-price-of-one/">https://www.riscository.com/2024/two-wrocc-talks-for-the-price-of-one/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.riscository.com/2024/two-wrocc-talks-for-the-price-of-one/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Johnson Director to Discuss Exploration Park Facility
+
+date: 2024-03-04, from: NASA breaking news
+
+March 4, 2024 MEDIA ADVISORY: J24-005 The director of NASA’s Johnson Space Center will discuss the objectives behind the center’s new Exploration Park initiative at the next meeting of the Bay Area Houston Economic Partnership’s (BAHEP) aerospace advisory committee at 12 p.m. CST Wednesday, March 6, at 1150 Gemini in Houston. Johnson Director Vanessa Wyche [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-johnson-director-to-discuss-exploration-park-facility/">https://www.nasa.gov/news-release/nasa-johnson-director-to-discuss-exploration-park-facility/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-johnson-director-to-discuss-exploration-park-facility/">Save to Pocket</a>
+</span>
+
+---
+
+## TrainTimes 2.04 released
+
+date: 2024-03-04, from: RiscOS Story
+
+Kevin Wells has released an update to TrainTimes, his application for looking up train timetable and related information. Version 2.04 of the software adds the ability to call up the stations run by particular operators, and from the results of that it&#8217;s possible to view timetables for the stations, as well as the National Rail and Wikipedia pages. A bug has also been fixed whereby if the &#8216;future&#8217; button was clicked in February in a leap year, the program would crash. To use TrainTimes, you&#8217;ll also need Wget installed, and&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.riscository.com/2024/traintimes-2-04-released/">https://www.riscository.com/2024/traintimes-2-04-released/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.riscository.com/2024/traintimes-2-04-released/">Save to Pocket</a>
+</span>
+
+---
+
+## StrongED 4.69f14 available
+
+date: 2024-03-04, from: RiscOS Story
+
+If you use version 4.69 of StrongED and pop to the StrongED website you&#8217;ll be able to download version 4.69f14 of the software. That is to say the fourteenth &#8216;full release&#8217; of version 4.69. The download file contains all &#8216;modes&#8217; installed to ensure they are compatible with this release. The main driver for the update was that there was an issue in the graphics printing mode when using a PostScript 3 printer driver, which has now been dealt with &#8211; but that isn&#8217;t the only change; there have been improvements&#8230;
+
+<span class="feed-item-link">
+<a href="https://www.riscository.com/2024/stronged-4-69f14-available/">https://www.riscository.com/2024/stronged-4-69f14-available/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.riscository.com/2024/stronged-4-69f14-available/">Save to Pocket</a>
+</span>
+
+---
+
+##  On the Reverse 
+
+date: 2024-03-04, updated: 2024-03-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/on-the-reverse">https://kottke.org/24/03/on-the-reverse</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/on-the-reverse">Save to Pocket</a>
+</span>
+
+---
+
+## Women of NASA Langley Research Center
+
+date: 2024-03-04, from: NASA breaking news
+
+In honor of Women’s History Month and those who paved the way for them, hundreds of female staff – from artists to administrative support, educators to engineers, and scientists to safety officers – gathered in front of the Katherine G. Johnson Computational Research Facility at NASA’s Langley Research Center in Hampton, Virginia, on Feb. 6, [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/women-of-nasa-langley-research-center/">https://www.nasa.gov/image-article/women-of-nasa-langley-research-center/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/women-of-nasa-langley-research-center/">Save to Pocket</a>
+</span>
+
+---
+
+##  New puzzle game from the NY Times: Strands. It&#8217;s a theme-based word... 
+
+date: 2024-03-04, updated: 2024-03-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044108-new-puzzle-game-from-the">https://kottke.org/24/03/0044108-new-puzzle-game-from-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044108-new-puzzle-game-from-the">Save to Pocket</a>
+</span>
+
+---
+
+##  An amazing analysis of &#8220;title drops&#8221; (when a movie character says the... 
+
+date: 2024-03-04, updated: 2024-03-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044107-an-amazing-analysis-of-ti">https://kottke.org/24/03/0044107-an-amazing-analysis-of-ti</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044107-an-amazing-analysis-of-ti">Save to Pocket</a>
+</span>
+
+---
+
+## Welcome Nieman Lab’s new staff writers, Andrew Deck and Neel Dhanesha
+
+date: 2024-03-04, from: Nieman Journalism Lab
+
+I&#8217;m so happy to announce that we&#8217;ve added two new full-time writers to the Nieman Lab team. Both of them are starting today. Andrew Deck is our new AI staff writer, focused on the intersection of generative AI and journalism. Previously, he was a staff reporter at Rest of World, an international nonprofit publication he...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/03/welcome-nieman-labs-new-staff-writers-andrew-deck-and-neel-dhanesha/">https://www.niemanlab.org/2024/03/welcome-nieman-labs-new-staff-writers-andrew-deck-and-neel-dhanesha/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/03/welcome-nieman-labs-new-staff-writers-andrew-deck-and-neel-dhanesha/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-04, from: Dave Winer's Scripting News)
+
+There's been a slowdown in <a href="http://feedland.org/">feedland.org</a>, I believe it's related to a limit reached on the database server. But for now you may see it take a long time to load pages. I have a ticket open with Digital Ocean. Update: Problem fixed.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/04.html#a172759">http://scripting.com/2024/03/04.html#a172759</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/04.html#a172759">Save to Pocket</a>
+</span>
+
+---
+
+## Apple IIe and IIc Design Manager Peter Quinn Interviewed by BYTE's Gregg Williams 
+
+date: 2024-03-04, from: Computer ads from the Past
+
+A behind-the-scenes look at the development of the Apple IIe and IIc.
+
+<span class="feed-item-link">
+<a href="https://computeradsfromthepast.substack.com/p/apple-iie-and-iic-design-manager">https://computeradsfromthepast.substack.com/p/apple-iie-and-iic-design-manager</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://computeradsfromthepast.substack.com/p/apple-iie-and-iic-design-manager">Save to Pocket</a>
+</span>
+
+---
+
+##  This essay on arranged marriage makes me wonder who my parents might... 
+
+date: 2024-03-04, updated: 2024-03-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044102-this-essay-on-arranged-ma">https://kottke.org/24/03/0044102-this-essay-on-arranged-ma</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044102-this-essay-on-arranged-ma">Save to Pocket</a>
+</span>
+
+---
+
+## Blackness in the Fediverse: A Conversation with Marcia X
+
+date: 2024-03-04, from: Care
+
+
+                <p>A conversation about the #PlayVicious Mastodon instance.</p>
+
+            
+
+<span class="feed-item-link">
+<a href="https://logicmag.io/policy/blackness-in-the-fediverse-a-conversation-with-marcia-x">https://logicmag.io/policy/blackness-in-the-fediverse-a-conversation-with-marcia-x</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/policy/blackness-in-the-fediverse-a-conversation-with-marcia-x">Save to Pocket</a>
+</span>
+
+---
+
+## IndieWeb Carnival: Accessibility in the Small Web
+
+date: 2024-03-04, from: Manu - I write blog
+
+<p>This is my entry for <a href="https://blog.basementcommunity.com/accessibility-in-the-personal-web/">this month’s IndieWeb Carnival</a> hosted by <a href="https://blog.basementcommunity.com">Orchids</a> on the topic of Accessibility in the Small Web</p>
+<hr />
+<p>I started making websites back in 2010. That’s 14 years. I entered the web dev world back when the frontend scene was starting to become exciting thanks to CSS3 and HTML5. Shadows, rounded corners, custom typefaces! Everything was exciting. Also, new tags! I remember spending time reading about <code>&lt;section&gt;</code>, <code>&lt;article&gt;</code>, <code>&lt;header&gt;</code>, and all the new things at my disposal. But I never thought about spending time learning about what all this meant in terms of accessibility.</p>
+<p>I worked solo my entire career. I still do. I have to wear a thousand different hats on a daily basis and keeping up with the web as a whole is a full-time job. And it’s only recently that I started to realize how much I neglected accessibility when it comes to my sites.</p>
+<p>Don’t get me wrong, I still try to follow at least some best practices: I try to pick combinations of colors that have enough contrast, and I try to structure my documents in a way that makes sense for screen readers but I’m painfully aware how much my knowledge on the topic is lacking.</p>
+<p>These days I find myself hating on the “modern web”. I can’t stand sites that don’t load if I block some JS. I can’t stand sits that highjack my scroll. I hate that everything is getting more and more performative and less functional.</p>
+<p>And in my retreat towards a simpler and more streamlined web, I’m rediscovering the pleasure of making sites that are simple and more accessible.</p>
+<p>Accessibility becomes easier when sites are simpler. Still, I think I can and should do better which is why I have my eyes set on <a href="https://www.sarasoueidan.com">Sara Soueidan</a>’s <a href="https://practical-accessibility.today">Practical Accessibility</a> course (only waiting to have 400$ to invest).</p>
+<p>It’s a shame that so much of the web has become an unusable mess. At the same time though, it’s refreshing to see that a good chunk of the small web seems to be heading in the right direction: simpler websites, less complicated and more focused layouts.</p>
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/U4IAIzpTujWFPV2r">https://manuelmoreale.com/@/page/U4IAIzpTujWFPV2r</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/U4IAIzpTujWFPV2r">Save to Pocket</a>
+</span>
+
+---
+
+## What happened when the Chicago Sun-Times freed the news
+
+date: 2024-03-04, from: Nieman Journalism Lab
+
+On election night in 2022, veteran journalist Tracy Brown walked through the newsrooms of the Chicago Sun-Times and WBEZ public radio and saw a future for local journalism. It was the first election after the melding of the Sun-Times and WBEZ, a move that likely created the largest nonprofit local news organization in America. Brown...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/03/what-happened-when-the-chicago-sun-times-freed-the-news/">https://www.niemanlab.org/2024/03/what-happened-when-the-chicago-sun-times-freed-the-news/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/03/what-happened-when-the-chicago-sun-times-freed-the-news/">Save to Pocket</a>
+</span>
+
+---
+
+##  How Jane Austen Changed Fiction Forever 
+
+date: 2024-03-04, updated: 2024-03-04, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/how-jane-austen-changed-fiction-forever">https://kottke.org/24/03/how-jane-austen-changed-fiction-forever</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/how-jane-austen-changed-fiction-forever">Save to Pocket</a>
 </span>
 
 ---
@@ -99,21 +725,6 @@ date: 2024-03-04, updated: 2024-03-04, from: One Foot Tsunami
 
 <span class="feed-item-link">
 <a href="https://onefoottsunami.com/2024/03/04/the-doombrush/">https://onefoottsunami.com/2024/03/04/the-doombrush/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/03/04/the-doombrush/">Save to Pocket</a>
-</span>
-
----
-
-## Blackness in the Fediverse: A Conversation with Marcia X
-
-date: 2024-03-04, from: Care
-
-
-                <p>A conversation about the #PlayVicious Mastodon instance.</p>
-
-            
-
-<span class="feed-item-link">
-<a href="https://logicmag.io/policy/blackness-in-the-fediverse-a-conversation-with-marcia-x">https://logicmag.io/policy/blackness-in-the-fediverse-a-conversation-with-marcia-x</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://logicmag.io/policy/blackness-in-the-fediverse-a-conversation-with-marcia-x">Save to Pocket</a>
 </span>
 
 ---

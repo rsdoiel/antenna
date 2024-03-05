@@ -1,11 +1,114 @@
 ---
 title: writing 2024.10
-updated: 2024-03-04 08:41:57
+updated: 2024-03-05 08:23:45
 ---
 
 # writing 2024.10
 
-(date: 2024-03-04 08:41:57)
+(date: 2024-03-05 08:23:45)
+
+---
+
+## How You Can Create the Perfect Environment for Screenwriting
+
+date: 2024-03-05, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-you-can-create-the-perfect-environment-for-screenwriting" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Man%20Typing%20on%20Laptop.jpg" alt="A person typing on a laptop, How You Can Create the Perfect Environment for Screenwriting" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Your environment when screenwriting isn’t often talked about, but it plays an important role in the creative process. From the lighting to the music you are playing, the ambiance of your workspace can foster your imagination and productivity from the lighting to the music you might have playing.</span></p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/how-you-can-create-the-perfect-environment-for-screenwriting">https://blog.finaldraft.com/how-you-can-create-the-perfect-environment-for-screenwriting</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/how-you-can-create-the-perfect-environment-for-screenwriting">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-03-05, from: Neil Gaiman @ BlueSky)
+
+Out in 3 weeks. Pre-order it now wherever you get your books:
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmx7ygu6fl2l">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmx7ygu6fl2l</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3kmx7ygu6fl2l">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Philip K. Dick Award Judges
+
+date: 2024-03-04, from: Locus Magazine
+
+<p>The five judges for the Philip K. Dick Award for works of science fiction published as paperback originals in the US during the year 2024 have been announced:</p>
+<div class="nobullets">
+<ul>
+<li>Maurice Broaddus, 533 E. 32nd Street, Indianapolis, IN 46205-3871; pdf files to Broaddus.Assistant@gmail.com</li>
+<li>C.S. Friedman, 585 Grove St, Ste 145 #642, Herndon VA 20170-4791 (USPS shipments only); epub files to Wkdata99@gmail.com</li>
+<li>Rajan Khanna, 6 Willig Ave, Philadelphia, PA 19125-3325; epub files to </li></ul></div> <a href="https://locusmag.com/2024/03/2024-philip-k-dick-award-judges/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/2024-philip-k-dick-award-judges/">https://locusmag.com/2024/03/2024-philip-k-dick-award-judges/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/2024-philip-k-dick-award-judges/">Save to Pocket</a>
+</span>
+
+---
+
+## Weekly Bestsellers, 4 March 2024
+
+date: 2024-03-04, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+<p>Several titles and sets of Frank Herbert&#8217;s series that begins with <b>Dune</b> (Ace), including a three-book boxed set and a six-book boxed set, are selling on the Amazon sites today. Two of them rank as high as #3.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+03.10
+LAT
+03.03
+USAT 
+02.25
+PW 
+03.04
+Amz 
+(03.04)
+UK:
+Amz UK 
+(03.04)
+Canada:
+Amz.ca 
+(03.04)
+
+
+Items on list -x- number of lists surveyed <a href="https://locusmag.com/2024/03/weekly-bestsellers-4-march-2024/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/weekly-bestsellers-4-march-2024/">https://locusmag.com/2024/03/weekly-bestsellers-4-march-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/weekly-bestsellers-4-march-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Chandrasekera Wins Crawford
+
+date: 2024-03-04, from: Locus Magazine
+
+<p>Vajra Chandrasekera&#8217;s <b>The Saint of Bright Doors</b> (Tor) is the winner of the 2024 Crawford Award, presented annually by the International Association for the Fantastic in the Arts (IAFA) for a first book of fantasy fiction.</p>
+<div class="mynomorebulletlist">
+<p>The awards committee also named honorable mentions:</p>
+<ul>
+<li><strong>Summer Fishing in Lapland</strong>, Juhani Karila (Pushkin)</li>
+<li aria-level="1"><b>Dry Land</b>, B. Pladek (University of Wisconsin Press)</li>
+<li><b>Shigidi and the Brass Head of Obalufon</b>, Wole Talabi </li></ul></div> <a href="https://locusmag.com/2024/03/chandrasekra-wins-crawford/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/chandrasekra-wins-crawford/">https://locusmag.com/2024/03/chandrasekra-wins-crawford/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/chandrasekra-wins-crawford/">Save to Pocket</a>
+</span>
 
 ---
 
