@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.10
-updated: 2024-03-05 08:23:45
+updated: 2024-03-06 08:52:57
 ---
 
 # libraries 2024.10
 
-(date: 2024-03-05 08:23:45)
+(date: 2024-03-06 08:52:57)
 
 ---
 
@@ -35,11 +35,51 @@ Schepers, Névine
 
 ---
 
+## Guest Post — Shared Print Down the Rabbit Hole
+
+date: 2024-03-06, from: Scholarly Kitchen
+
+<p>Libraries’ ability to steward print collections in the future is being compromised by how we manage them now.  How can we evolve our shared print strategy to align with the core values of libraries, and to increase the value proposition of print collections.  Part 1 of 2.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/03/06/guest-post-shared-print-down-the-rabbit-hole/">Guest Post &#8212; Shared Print Down the Rabbit Hole</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/03/06/guest-post-shared-print-down-the-rabbit-hole/">https://scholarlykitchen.sspnet.org/2024/03/06/guest-post-shared-print-down-the-rabbit-hole/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/03/06/guest-post-shared-print-down-the-rabbit-hole/">Save to Pocket</a>
+</span>
+
+---
+
+## Human Nature and Conduct, by John Dewey
+
+date: 2024-03-05, from: Standard Ebooks, new releaases
+
+Dewey applies the theory of pragmatism to morality, reason, and society.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct">https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/john-dewey/human-nature-and-conduct">Save to Pocket</a>
+</span>
+
+---
+
+## Fair Use/Fair Dealing Week 2024 Recap!
+
+date: 2024-03-05, from: Association of Research Libraries News
+
+<p>Last Updated on March 5, 2024, 1:55 pm ET Last week, the library community celebrated the 11th annual Fair Use/Fair Dealing Week! Fair use (in the US) and fair dealing...</p>
+<p>The post <a href="https://www.arl.org/blog/fairuse2024recap/">Fair Use/Fair Dealing Week 2024 Recap!</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/blog/fairuse2024recap/">https://www.arl.org/blog/fairuse2024recap/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/blog/fairuse2024recap/">Save to Pocket</a>
+</span>
+
+---
+
 ## Day in Review (March 4–7)
 
 date: 2024-03-05, from: Association of Research Libraries News
 
-<p>Last Updated on March 5, 2024, 8:50 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 5 &#124; Wednesday, March 6 &#124; Thursday,...</p>
+<p>Last Updated on March 5, 2024, 3:27 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 5 &#124; Wednesday, March 6 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-4-7/">Day in Review (March 4–7)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 

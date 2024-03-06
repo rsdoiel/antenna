@@ -1,11 +1,623 @@
 ---
 title: pacific 2024.10
-updated: 2024-03-05 08:23:44
+updated: 2024-03-06 08:52:57
 ---
 
 # pacific 2024.10
 
-(date: 2024-03-05 08:23:44)
+(date: 2024-03-06 08:52:57)
+
+---
+
+## Senate president backs NMI Labor's grant application for unemployment insurance feasibility
+
+date: 2024-03-06, updated: 2024-03-06, from: Marianas Variety
+
+SENATE President Edith Deleon Guerrero has expressed “strong support” for the CNMI Department of Labor's application for a technical assistance grant to determine the feasibility of an unemployment insurance program in the Commonwealth.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/senate-president-backs-nmi-labors-grant-application-for-unemployment-insurance-feasibility/article_8e2fe272-db8a-11ee-9320-237d92175444.html">https://www.mvariety.com/news/local/senate-president-backs-nmi-labors-grant-application-for-unemployment-insurance-feasibility/article_8e2fe272-db8a-11ee-9320-237d92175444.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/senate-president-backs-nmi-labors-grant-application-for-unemployment-insurance-feasibility/article_8e2fe272-db8a-11ee-9320-237d92175444.html">Save to Pocket</a>
+</span>
+
+---
+
+## Sherlyn Jones is RGA February Ace
+
+date: 2024-03-06, updated: 2024-03-06, from: Marianas Variety
+
+SHERLYN Jones topped the Refaluwasch Golf Association’s February Ace of the Month tournament at the Kingfisher Golf Links on Feb. 24.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/sherlyn-jones-is-rga-february-ace/article_07c19dc6-db98-11ee-bbf5-53a404ec5777.html">https://www.mvariety.com/sports/localsports/sherlyn-jones-is-rga-february-ace/article_07c19dc6-db98-11ee-bbf5-53a404ec5777.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/sherlyn-jones-is-rga-february-ace/article_07c19dc6-db98-11ee-bbf5-53a404ec5777.html">Save to Pocket</a>
+</span>
+
+---
+
+## CUC: Illegal connections and water theft will be prosecuted
+
+date: 2024-03-06, updated: 2024-03-06, from: Marianas Variety
+
+THE Commonwealth Utilities Corporation informed the federal court that illegal water connections and water theft will be prosecuted.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/cuc-illegal-connections-and-water-theft-will-be-prosecuted/article_96675d04-dbc0-11ee-8e85-672e8c934fff.html">https://www.mvariety.com/news/local/cuc-illegal-connections-and-water-theft-will-be-prosecuted/article_96675d04-dbc0-11ee-8e85-672e8c934fff.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/cuc-illegal-connections-and-water-theft-will-be-prosecuted/article_96675d04-dbc0-11ee-8e85-672e8c934fff.html">Save to Pocket</a>
+</span>
+
+---
+
+## Bolis to run for Congress
+
+date: 2024-03-06, updated: 2024-03-06, from: Marianas Variety
+
+JOHN Oliver Delos Reyes Bolis Gonzales will formally announce his candidacy for the U.S. Congress on KKMP Radio livestream, Facebook and Zoom on March 17, at 11 a.m.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/bolis-to-run-for-congress/article_3c1a1b8e-dbc0-11ee-8b2c-1fa6e1607c9c.html">https://www.mvariety.com/news/local/bolis-to-run-for-congress/article_3c1a1b8e-dbc0-11ee-8b2c-1fa6e1607c9c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/bolis-to-run-for-congress/article_3c1a1b8e-dbc0-11ee-8b2c-1fa6e1607c9c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Saipan mayor to solicit feedback from village businesses
+
+date: 2024-03-06, updated: 2024-03-06, from: Marianas Variety
+
+SAIPAN Mayor RB Camacho was at the Saipan Chamber of Commerce March general membership meeting at the Pacific Islands Club on Wednesday to share his plan to meet with village business owners. He also spoke about the programs that are being implemented by his office.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/saipan-mayor-to-solicit-feedback-from-village-businesses/article_36b6e73a-db7a-11ee-b51d-6b426f72cbec.html">https://www.mvariety.com/news/local/saipan-mayor-to-solicit-feedback-from-village-businesses/article_36b6e73a-db7a-11ee-b51d-6b426f72cbec.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/saipan-mayor-to-solicit-feedback-from-village-businesses/article_36b6e73a-db7a-11ee-b51d-6b426f72cbec.html">Save to Pocket</a>
+</span>
+
+---
+
+## SSHS wins PSS outrigger titles; boys record perfect score
+
+date: 2024-03-06, updated: 2024-03-06, from: Marianas Variety
+
+SAIPAN Southern High School swept all three divisions — men's, women’s, and mixed — of the PSS Interscholastic Outrigger Race Series SY23-24 at Kilili Beach on Saturday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/sshs-wins-pss-outrigger-titles-boys-record-perfect-score/article_99705376-db97-11ee-9056-f7a361d7a6e4.html">https://www.mvariety.com/sports/localsports/sshs-wins-pss-outrigger-titles-boys-record-perfect-score/article_99705376-db97-11ee-9056-f7a361d7a6e4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/sshs-wins-pss-outrigger-titles-boys-record-perfect-score/article_99705376-db97-11ee-9056-f7a361d7a6e4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Zarinae Sapong notches new personal record
+
+date: 2024-03-06, updated: 2024-03-06, from: Marianas Variety
+
+ZARINAE Sapong recorded a new personal best in the women’s 60m event of the 2024 World Athletics Indoor Championships in Glasgow, Scotland on Saturday.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/localsports/zarinae-sapong-notches-new-personal-record/article_c69b5c38-db97-11ee-b621-4b1c78f6062e.html">https://www.mvariety.com/sports/localsports/zarinae-sapong-notches-new-personal-record/article_c69b5c38-db97-11ee-b621-4b1c78f6062e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/localsports/zarinae-sapong-notches-new-personal-record/article_c69b5c38-db97-11ee-b621-4b1c78f6062e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Man accused of possessing child pornography, again
+
+date: 2024-03-06, updated: 2024-03-06, from: Marianas Variety
+
+A GRAND jury of the District Court for the NMI on Feb. 27 indicted Vincent Masga Songsong on the charge of possession of child pornography.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/man-accused-of-possessing-child-pornography-again/article_e7947f90-dbc0-11ee-9944-cfa2ee9240ac.html">https://www.mvariety.com/news/local/man-accused-of-possessing-child-pornography-again/article_e7947f90-dbc0-11ee-9944-cfa2ee9240ac.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/man-accused-of-possessing-child-pornography-again/article_e7947f90-dbc0-11ee-9944-cfa2ee9240ac.html">Save to Pocket</a>
+</span>
+
+---
+
+## Travis and Jason Kelce attend bobblehead giveaway, cheer on Cavaliers
+
+date: 2024-03-06, updated: 2024-03-06, from: Marianas Variety
+
+CLEVELAND (AP) — The Kelce brothers showed up for their own giveaway.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/travis-and-jason-kelce-attend-bobblehead-giveaway-cheer-on-cavaliers/article_309c4686-dbc2-11ee-9dd3-df0a86f403fd.html">https://www.mvariety.com/sports/nationalsports/travis-and-jason-kelce-attend-bobblehead-giveaway-cheer-on-cavaliers/article_309c4686-dbc2-11ee-9dd3-df0a86f403fd.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/travis-and-jason-kelce-attend-bobblehead-giveaway-cheer-on-cavaliers/article_309c4686-dbc2-11ee-9dd3-df0a86f403fd.html">Save to Pocket</a>
+</span>
+
+---
+
+## NBA roundup: Cavs snap Celtics' winning streak at 11
+
+date: 2024-03-06, updated: 2024-03-06, from: Marianas Variety
+
+(Reuters) — Dean Wade scored 23 points — 20 in the fourth quarter — and Jarrett Allen finished with 21 points and 12 rebounds as the short-handed Cleveland Cavaliers overcame a 22-point, fourth-quarter deficit and beat the visiting Boston Celtics 105-104 on Tuesday night.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/nba-roundup-cavs-snap-celtics-winning-streak-at-11/article_befd9c96-dbc1-11ee-a8d2-7779ec23cbb8.html">https://www.mvariety.com/sports/nationalsports/nba-roundup-cavs-snap-celtics-winning-streak-at-11/article_befd9c96-dbc1-11ee-a8d2-7779ec23cbb8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/nba-roundup-cavs-snap-celtics-winning-streak-at-11/article_befd9c96-dbc1-11ee-a8d2-7779ec23cbb8.html">Save to Pocket</a>
+</span>
+
+---
+
+## New Citadel company positioning Guam as a technology hub
+
+date: 2024-03-06, from: Pacific Island Times
+
+By Frank Whitman Citadel Pacific, the investment management company, recently announced the launch of Guam Exchange. The new company is...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/new-citadel-company-positioning-guam-as-a-technology-hub">https://www.pacificislandtimes.com/post/new-citadel-company-positioning-guam-as-a-technology-hub</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/new-citadel-company-positioning-guam-as-a-technology-hub">Save to Pocket</a>
+</span>
+
+---
+
+##  House sets to vote on CIFA 
+
+date: 2024-03-06, from: Pacific Island Times
+
+By Pacific Island Times News Staff Federal benefits proposed for migrants from the freely associated states who are living on U.S. soil...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/house-sets-to-vote-on-cifa">https://www.pacificislandtimes.com/post/house-sets-to-vote-on-cifa</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/house-sets-to-vote-on-cifa">Save to Pocket</a>
+</span>
+
+---
+
+## Biden loses A. Samoa Democratic caucuses to an obscure candidate
+
+date: 2024-03-06, from: Pacific Island Times
+
+By Pacific Island Times News Staff President Joe Biden lost the Democratic presidential caucuses for American Samoa to an obscure...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/biden-loses-a-samoa-democratic-caucuses-to-an-obscure-candidate">https://www.pacificislandtimes.com/post/biden-loses-a-samoa-democratic-caucuses-to-an-obscure-candidate</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/biden-loses-a-samoa-democratic-caucuses-to-an-obscure-candidate">Save to Pocket</a>
+</span>
+
+---
+
+## Full text of Gov. Lou Leon Guerrero's 2024 state of the island address
+
+date: 2024-03-06, from: Pacific Island Times
+
+By  Lourdes A. Leon Guerrero Governor, Guam 2024 State of the Island Address Guam Congress Building March 05, 2024 at 6:30 p.m....
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/full-text-of-gov-lou-leon-guerrero-s-2024-state-of-the-island-address-1">https://www.pacificislandtimes.com/post/full-text-of-gov-lou-leon-guerrero-s-2024-state-of-the-island-address-1</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/full-text-of-gov-lou-leon-guerrero-s-2024-state-of-the-island-address-1">Save to Pocket</a>
+</span>
+
+---
+
+## High schoolers enjoy high-energy Windward CC Senior Bash
+
+date: 2024-03-06, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> A reggae concert capped off the day for Windward high school seniors.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/05/high-schoolers-enjoy-windward-cc-senior-bash/">High schoolers enjoy high-energy Windward <abbr>CC</abbr> Senior Bash</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/05/high-schoolers-enjoy-windward-cc-senior-bash/">https://www.hawaii.edu/news/2024/03/05/high-schoolers-enjoy-windward-cc-senior-bash/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/05/high-schoolers-enjoy-windward-cc-senior-bash/">Save to Pocket</a>
+</span>
+
+---
+
+## Q&A: New CTAHR dean shares vision for food, energy, and leading
+
+date: 2024-03-06, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">4</span> <span class="rt-label rt-postfix">minutes</span></span> Dean Parwinder Grewal chatted with <em><abbr>UH</abbr> News</em> about his vision for the future of <abbr>CTAHR</abbr> and its role in <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/05/ctahr-dean-parwinder-grewal/">Q&A: New <abbr>CTAHR</abbr> dean shares vision for food, energy, and leading</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/05/ctahr-dean-parwinder-grewal/">https://www.hawaii.edu/news/2024/03/05/ctahr-dean-parwinder-grewal/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/05/ctahr-dean-parwinder-grewal/">Save to Pocket</a>
+</span>
+
+---
+
+## Hawaiian Word of the Week: Uka
+
+date: 2024-03-06, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Uka&#8212;Inland, upland, toward the mountain.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/05/hawaiian-word-of-the-week-uka/">Hawaiian Word of the Week: Uka</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/05/hawaiian-word-of-the-week-uka/">https://www.hawaii.edu/news/2024/03/05/hawaiian-word-of-the-week-uka/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/05/hawaiian-word-of-the-week-uka/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Maui College grad gets two-chair turn on The Voice
+
+date: 2024-03-06, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> <abbr>UH</abbr> Maui College graduate Kamalei <span aria-label="Kawaa">Kawa&#699;a</span> sings &#8220;Redemption Song&#8221; on <em>The Voice</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/05/uh-maui-college-kawaa-on-the-voice/"><abbr>UH</abbr> Maui College grad gets two-chair turn on The Voice</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/05/uh-maui-college-kawaa-on-the-voice/">https://www.hawaii.edu/news/2024/03/05/uh-maui-college-kawaa-on-the-voice/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/05/uh-maui-college-kawaa-on-the-voice/">Save to Pocket</a>
+</span>
+
+---
+
+## Windward CC wins gold!
+
+date: 2024-03-06, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Windward <abbr title="Community College">CC</abbr> students are tops in design and communications.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/05/windward-cc-wins-gold/">Windward <abbr>CC</abbr> wins gold!</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/05/windward-cc-wins-gold/">https://www.hawaii.edu/news/2024/03/05/windward-cc-wins-gold/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/05/windward-cc-wins-gold/">Save to Pocket</a>
+</span>
+
+---
+
+## Women of UH Esports make national tournament debut
+
+date: 2024-03-06, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> The Women of <abbr>UHE</abbr> will participate in the Collegiate Esports Commissioners Cup later this spring.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/05/women-of-uhe-tournament-debut/">Women of <abbr>UH</abbr> Esports make national tournament debut</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/05/women-of-uhe-tournament-debut/">https://www.hawaii.edu/news/2024/03/05/women-of-uhe-tournament-debut/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/05/women-of-uhe-tournament-debut/">Save to Pocket</a>
+</span>
+
+---
+
+## James Robinson selected as next Rainbow Wahine water polo head coach
+
+date: 2024-03-06, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> James Robinson will succeed Maureen Cole, who announced in November 2023 that she will retire from coaching following the current season.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/05/robinson-new-water-polo-coach/">James Robinson selected as next Rainbow Wahine water polo head coach</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/05/robinson-new-water-polo-coach/">https://www.hawaii.edu/news/2024/03/05/robinson-new-water-polo-coach/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/05/robinson-new-water-polo-coach/">Save to Pocket</a>
+</span>
+
+---
+
+## Koror Legislature Shifts its Power Dynamics
+
+date: 2024-03-06, from: Island Times
+
+<p>KOROR, Palau &#8211; The Koror State Legislature&#8217;s power dynamics changed last week with the adoption of a Resolution 12-35, that removed significant powers of the Speaker in the management of the State Legislature.&#160; The resolution, adopted by nine (9) legislators, changed the rules of procedure, altering the balance of power within the body. The Koror [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/koror-legislature-shifts-its-power-dynamics/">Koror Legislature Shifts its Power Dynamics</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/koror-legislature-shifts-its-power-dynamics/">https://islandtimes.org/koror-legislature-shifts-its-power-dynamics/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/koror-legislature-shifts-its-power-dynamics/">Save to Pocket</a>
+</span>
+
+---
+
+## U.S. Secretary of the Navy Visits Palau to Bolster Strategic Partnership
+
+date: 2024-03-06, from: Island Times
+
+<figure><img width="827" height="552" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/SECNAV-President-Whipps-Wreath-Laying-at-Orange-Beach.jpg?fit=827%2C552&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/SECNAV-President-Whipps-Wreath-Laying-at-Orange-Beach.jpg?w=827&amp;ssl=1 827w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/SECNAV-President-Whipps-Wreath-Laying-at-Orange-Beach.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/SECNAV-President-Whipps-Wreath-Laying-at-Orange-Beach.jpg?resize=768%2C513&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/SECNAV-President-Whipps-Wreath-Laying-at-Orange-Beach.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/SECNAV-President-Whipps-Wreath-Laying-at-Orange-Beach.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/SECNAV-President-Whipps-Wreath-Laying-at-Orange-Beach.jpg?fit=827%2C552&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69125" data-permalink="https://islandtimes.org/u-s-secretary-of-the-navy-visits-palau-to-bolster-strategic-partnership/secnav-president-whipps-wreath-laying-at-orange-beach/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/SECNAV-President-Whipps-Wreath-Laying-at-Orange-Beach.jpg?fit=827%2C552&amp;ssl=1" data-orig-size="827,552" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;10&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D800&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1709295531&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;24&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="SECNAV, President Whipps Wreath Laying at Orange Beach" data-image-description="" data-image-caption="&lt;p&gt;Photo credit: US Embassy &#8211; Palau&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/SECNAV-President-Whipps-Wreath-Laying-at-Orange-Beach.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/SECNAV-President-Whipps-Wreath-Laying-at-Orange-Beach.jpg?fit=780%2C521&amp;ssl=1" /></figure>
+<p>KOROR, Palau – U.S. Secretary of the Navy Carlos Del Toro visited Palau from Feb. 29 to March 1 to engage in discussions aimed at strengthening the strategic partnership between the two nations. During the visit, Del Toro met with Palauan President Surangel Whipps Jr. and U.S. Ambassador Joel Ehrendreich. The discussions focused on fostering [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-secretary-of-the-navy-visits-palau-to-bolster-strategic-partnership/">U.S. Secretary of the Navy Visits Palau to Bolster Strategic Partnership</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/u-s-secretary-of-the-navy-visits-palau-to-bolster-strategic-partnership/">https://islandtimes.org/u-s-secretary-of-the-navy-visits-palau-to-bolster-strategic-partnership/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/u-s-secretary-of-the-navy-visits-palau-to-bolster-strategic-partnership/">Save to Pocket</a>
+</span>
+
+---
+
+## Bill Proposes Separation of Healthcare Fund from Social Security
+
+date: 2024-03-06, from: Island Times
+
+<p>PALAU — A bill proposing the separation of Palau&#8217;s Healthcare Fund (HCF) from the Social Security Administration (SSA) is before the House of Delegates Health, Social and Cultural Affairs Committee. Under the current system, established in 2010, the SSA manages the collection, payments, investments, and administration of both the HCF and the national social security [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bill-proposes-separation-of-healthcare-fund-from-social-security/">Bill Proposes Separation of Healthcare Fund from Social Security</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/bill-proposes-separation-of-healthcare-fund-from-social-security/">https://islandtimes.org/bill-proposes-separation-of-healthcare-fund-from-social-security/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/bill-proposes-separation-of-healthcare-fund-from-social-security/">Save to Pocket</a>
+</span>
+
+---
+
+## US Congress Advances Bill Countering China’s Pacific Influence
+
+date: 2024-03-06, from: Island Times
+
+<p>WASHINGTON &#8211; U.S. lawmakers are poised to approve a spending bill that includes crucial funding for the Pacific region, aiming to counter China&#8217;s growing influence. The bill comes after bipartisan pressure from senators urging its inclusion after it was initially dropped from a security spending bill. The move was motivated by concerns about China&#8217;s potential [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/us-congress-advances-bill-countering-chinas-pacific-influence/">US Congress Advances Bill Countering China&#8217;s Pacific Influence</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/us-congress-advances-bill-countering-chinas-pacific-influence/">https://islandtimes.org/us-congress-advances-bill-countering-chinas-pacific-influence/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/us-congress-advances-bill-countering-chinas-pacific-influence/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau Considers Permits for Foreign Research
+
+date: 2024-03-06, from: Island Times
+
+<p>PALAU &#8211; A bill introduced in Palau&#8217;s House of Delegates would require foreign researchers to obtain permits before conducting any research on land, at sea, or involving the country&#8217;s water and minerals. House Bill 11-133-14S proposes a permit system for foreign entities or foundations wishing to conduct research in Palau. The bill cites the country&#8217;s [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-considers-permits-for-foreign-research/">Palau Considers Permits for Foreign Research</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palau-considers-permits-for-foreign-research/">https://islandtimes.org/palau-considers-permits-for-foreign-research/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palau-considers-permits-for-foreign-research/">Save to Pocket</a>
+</span>
+
+---
+
+## Palau’s Bureau of Revenue & Taxation honors departing Australian Tax Office Commissioner for Transformational Partnership
+
+date: 2024-03-06, from: Island Times
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?w=960&amp;ssl=1 960w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69116" data-permalink="https://islandtimes.org/palaus-bureau-of-revenue-taxation-honors-departing-australian-tax-office-commissioner-for-transformational-partnership/ei-and-ato-comm/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?fit=960%2C1280&amp;ssl=1" data-orig-size="960,1280" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="EI and ATO Comm" data-image-description="" data-image-caption="&lt;p&gt;(L-R) ATO Second Commissioner Jeremy Hirshhorn, Director Elway Ikeda, Commissioner Chris Jordan&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?fit=225%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/EI-and-ATO-Comm.jpg?fit=768%2C1024&amp;ssl=1" /></figure>
+<p>The Bureau of Revenue and Taxation (BRT), Ministry of Finance of the Republic of Palau expresses its heartfelt gratitude to Mr. Chris Jordan, departing Commissioner of the Australian Tax Office (ATO), for his invaluable contributions. Under Commissioner Jordan&#8217;s guidance, BRT, in collaboration with the ATO, initiated the twinning project, a bilateral initiative aimed at providing [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palaus-bureau-of-revenue-taxation-honors-departing-australian-tax-office-commissioner-for-transformational-partnership/">Palau&#8217;s Bureau of Revenue &#038; Taxation honors departing Australian Tax Office Commissioner for Transformational Partnership</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palaus-bureau-of-revenue-taxation-honors-departing-australian-tax-office-commissioner-for-transformational-partnership/">https://islandtimes.org/palaus-bureau-of-revenue-taxation-honors-departing-australian-tax-office-commissioner-for-transformational-partnership/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palaus-bureau-of-revenue-taxation-honors-departing-australian-tax-office-commissioner-for-transformational-partnership/">Save to Pocket</a>
+</span>
+
+---
+
+## SUPERIORITY COMPLEX
+
+date: 2024-03-06, from: Island Times
+
+<figure><img width="900" height="900" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?fit=900%2C900&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?resize=706%2C706&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?fit=900%2C900&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69114" data-permalink="https://islandtimes.org/superiority-complex/unnamed-18/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?fit=900%2C900&amp;ssl=1" data-orig-size="900,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="unnamed" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/unnamed.jpg?fit=780%2C780&amp;ssl=1" /></figure>
+<p>It takes considerable knowledge just to realize the extent of your own ignorance. &#8211; Thomas Sowell When I came face-to-face with the level and the scope of my ignorance, I felt the sting of shame that shook me to my core. I felt so stupid, including my beliefs about myself independent of whether they are [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/superiority-complex/">SUPERIORITY COMPLEX</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/superiority-complex/">https://islandtimes.org/superiority-complex/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/superiority-complex/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘No guarantee’ deep sea mining ‘will go right’ – study
+
+date: 2024-03-06, from: Island Times
+
+<figure><img width="840" height="863" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/opinion-icon.jpg?fit=840%2C863&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/opinion-icon.jpg?w=840&amp;ssl=1 840w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/opinion-icon.jpg?resize=292%2C300&amp;ssl=1 292w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/opinion-icon.jpg?resize=768%2C789&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/opinion-icon.jpg?resize=400%2C411&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/opinion-icon.jpg?resize=706%2C725&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/opinion-icon.jpg?fit=840%2C863&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69112" data-permalink="https://islandtimes.org/no-guarantee-deep-sea-mining-will-go-right-study/opinion-icon-3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/opinion-icon.jpg?fit=840%2C863&amp;ssl=1" data-orig-size="840,863" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="opinion-icon" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/opinion-icon.jpg?fit=292%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/opinion-icon.jpg?fit=780%2C801&amp;ssl=1" /></figure>
+<p>WELLINGTON (RNZ PACIFIC) &#8212;A new report by an environmental charity says deep sea mining may not make any money. The Ocean Foundation said there is high uncertainty around prices for metals and the circular economy could make deep sea mining unnecessary. Deep sea mining involves extracting rocks called nodules from the sea floor kilometres deep, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/no-guarantee-deep-sea-mining-will-go-right-study/">&#8216;No guarantee&#8217; deep sea mining &#8216;will go right&#8217; &#8211; study</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/no-guarantee-deep-sea-mining-will-go-right-study/">https://islandtimes.org/no-guarantee-deep-sea-mining-will-go-right-study/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/no-guarantee-deep-sea-mining-will-go-right-study/">Save to Pocket</a>
+</span>
+
+---
+
+## 'Our future is bright'
+
+date: 2024-03-05, from: Pacific Island Times
+
+Gov. Lou Leon Guerrero says Guam's economy 'grows stronger every day' ‘By Pacific Island Times News Staff After surviving the Covid-19...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/full-text-of-gov-lou-leon-guerrero-s-2024-state-of-the-island-address">https://www.pacificislandtimes.com/post/full-text-of-gov-lou-leon-guerrero-s-2024-state-of-the-island-address</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/full-text-of-gov-lou-leon-guerrero-s-2024-state-of-the-island-address">Save to Pocket</a>
+</span>
+
+---
+
+## Banned for almost two decades, Fiji’s Great Council of Chiefs is back and pushing for greater influence
+
+date: 2024-03-05, from: Island Times
+
+<p>By Fiji reporter&#160;Lice Movono&#160;and the Pacific Local Journalism Network&#8217;s&#160;Nick Sas&#160; (ABC-Australia) Some described it as a case of looking back to go forward.&#160; This past week in Fiji —&#160;a place where politics, race, the army and tradition mix together in an often potent stew — the Great Council of Chiefs, a organisation banished for almost [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/banned-for-almost-two-decades-fijis-great-council-of-chiefs-is-back-and-pushing-for-greater-influence/">Banned for almost two decades, Fiji&#8217;s Great Council of Chiefs is back and pushing for greater influence</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/banned-for-almost-two-decades-fijis-great-council-of-chiefs-is-back-and-pushing-for-greater-influence/">https://islandtimes.org/banned-for-almost-two-decades-fijis-great-council-of-chiefs-is-back-and-pushing-for-greater-influence/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/banned-for-almost-two-decades-fijis-great-council-of-chiefs-is-back-and-pushing-for-greater-influence/">Save to Pocket</a>
+</span>
+
+---
+
+## Tuvalu’s new PM says democracy and loyalty are reasons for preferring Taiwan over Beijing
+
+date: 2024-03-05, from: Island Times
+
+<p>FUNAFUTI, 04 MARCH 2024 (AP)&#8212;The new prime minister in the Pacific island nation of Tuvalu said on Friday his country shares democratic values with Taiwan and reaffirmed that his government would maintain diplomatic ties with Taipei, ruling out a shift to Beijing. Prime Minister Feleti Teo spoke to The Associated Press via Zoom, his first [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tuvalus-new-pm-says-democracy-and-loyalty-are-reasons-for-preferring-taiwan-over-beijing/">Tuvalu&#8217;s new PM says democracy and loyalty are reasons for preferring Taiwan over Beijing</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/tuvalus-new-pm-says-democracy-and-loyalty-are-reasons-for-preferring-taiwan-over-beijing/">https://islandtimes.org/tuvalus-new-pm-says-democracy-and-loyalty-are-reasons-for-preferring-taiwan-over-beijing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/tuvalus-new-pm-says-democracy-and-loyalty-are-reasons-for-preferring-taiwan-over-beijing/">Save to Pocket</a>
+</span>
+
+---
+
+## The US and South Korea begin large military drills to boost readiness against North’s threats
+
+date: 2024-03-05, from: Island Times
+
+<figure><img width="1024" height="701" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/US-and-South-Korea.jpg?fit=1024%2C701&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/US-and-South-Korea.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/US-and-South-Korea.jpg?resize=300%2C205&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/US-and-South-Korea.jpg?resize=768%2C526&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/US-and-South-Korea.jpg?resize=400%2C274&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/US-and-South-Korea.jpg?resize=706%2C483&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/US-and-South-Korea.jpg?fit=1024%2C701&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69103" data-permalink="https://islandtimes.org/the-us-and-south-korea-begin-large-military-drills-to-boost-readiness-against-norths-threats/us-and-south-korea/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/US-and-South-Korea.jpg?fit=1024%2C701&amp;ssl=1" data-orig-size="1024,701" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;25&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;FILE - South Korean army soldiers pass by a military guard post at the Imjingak Pavilion in Paju, South Korea, near the border with North Korea, Wednesday, July 19, 2023. South Korea and the United States began large annual military exercises Monday, March 4, 2024, to bolster their readiness against North Korean nuclear threats after the North raised animosities with an extension of missile tests and belligerent rhetoric earlier this year.(AP Photo\/Ahn Young-joon, File)&quot;,&quot;created_timestamp&quot;:&quot;1689766568&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;164&quot;,&quot;iso&quot;:&quot;2000&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="US and South Korea" data-image-description="" data-image-caption="&lt;p&gt;FILE &#8211; South Korean army soldiers pass by a military guard post at the Imjingak Pavilion in Paju, South Korea, near the border with North Korea, Wednesday, July 19, 2023. South Korea and the United States began large annual military exercises Monday, March 4, 2024, to bolster their readiness against North Korean nuclear threats after the North raised animosities with an extension of missile tests and belligerent rhetoric earlier this year.(AP Photo/Ahn Young-joon, File)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/US-and-South-Korea.jpg?fit=300%2C205&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/US-and-South-Korea.jpg?fit=780%2C534&amp;ssl=1" /></figure>
+<p>By HYUNG-JIN KIM Associated Press SEOUL, South Korea (AP) — South Korea and the United States began large&#160;annual military exercises&#160;Monday to bolster their readiness against North Korean nuclear threats after the North raised animosities with an extension of&#160;missile tests&#160;and belligerent rhetoric earlier this year. The South Korean and U.S. forces began a computer-simulated command post [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-us-and-south-korea-begin-large-military-drills-to-boost-readiness-against-norths-threats/">The US and South Korea begin large military drills to boost readiness against North&#8217;s threats</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/the-us-and-south-korea-begin-large-military-drills-to-boost-readiness-against-norths-threats/">https://islandtimes.org/the-us-and-south-korea-begin-large-military-drills-to-boost-readiness-against-norths-threats/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/the-us-and-south-korea-begin-large-military-drills-to-boost-readiness-against-norths-threats/">Save to Pocket</a>
+</span>
+
+---
+
+## US and China agree to map out framework for developing AI responsibly. Here’s what you need to know
+
+date: 2024-03-05, from: Island Times
+
+<p>By&#160;Toby Mann (ABC-Australia) The world&#8217;s two powerhouse nations have finally agreed to sit down and discuss their concerns around the expanding power and reach of artificial intelligence (AI) after years of lobbying from officials and experts. Both Beijing and Washington have been wary of giving their adversary an advantage by limiting their own research and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/us-and-china-agree-to-map-out-framework-for-developing-ai-responsibly-heres-what-you-need-to-know/">US and China agree to map out framework for developing AI responsibly. Here&#8217;s what you need to know</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/us-and-china-agree-to-map-out-framework-for-developing-ai-responsibly-heres-what-you-need-to-know/">https://islandtimes.org/us-and-china-agree-to-map-out-framework-for-developing-ai-responsibly-heres-what-you-need-to-know/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/us-and-china-agree-to-map-out-framework-for-developing-ai-responsibly-heres-what-you-need-to-know/">Save to Pocket</a>
+</span>
+
+---
+
+## Brown, Tatum lead Celtics to 3rd-biggest win in franchise history, 140-88 over weary Warriors
+
+date: 2024-03-05, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Brown.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Brown.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Brown.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Brown.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Brown.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Brown.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Brown.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69100" data-permalink="https://islandtimes.org/brown-tatum-lead-celtics-to-3rd-biggest-win-in-franchise-history-140-88-over-weary-warriors/brown/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Brown.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Steven Senne&quot;,&quot;camera&quot;:&quot;ILCE-9M3&quot;,&quot;caption&quot;:&quot;Boston Celtics guard Jaylen Brown (7) celebrates near Golden State Warriors forward Trayce Jackson-Davis (32) after scoring in the second half of an NBA basketball game, Sunday, March. 3, 2024, in Boston. (AP Photo\/Steven Senne)&quot;,&quot;created_timestamp&quot;:&quot;1709441949&quot;,&quot;copyright&quot;:&quot;Copyright 2024 The Associated Press. All rights reserved.&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;5000&quot;,&quot;shutter_speed&quot;:&quot;0.0004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Brown" data-image-description="" data-image-caption="&lt;p&gt;Boston Celtics guard Jaylen Brown (7) celebrates near Golden State Warriors forward Trayce Jackson-Davis (32) after scoring in the second half of an NBA basketball game, Sunday, March. 3, 2024, in Boston. (AP Photo/Steven Senne)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Brown.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Brown.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By KEN POWTAK Associated Press BOSTON (AP) — Jaylen Brown scored 29 points, Jayson Tatum had 27 on his 26th birthday, and the NBA-best Boston Celtics posted their third-largest winning margin in franchise history, drubbing the weary Golden State Warriors 140-88 on Sunday. Payton Pritchard added 19 points for the Celtics, who set a league [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/brown-tatum-lead-celtics-to-3rd-biggest-win-in-franchise-history-140-88-over-weary-warriors/">Brown, Tatum lead Celtics to 3rd-biggest win in franchise history, 140-88 over weary Warriors</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/brown-tatum-lead-celtics-to-3rd-biggest-win-in-franchise-history-140-88-over-weary-warriors/">https://islandtimes.org/brown-tatum-lead-celtics-to-3rd-biggest-win-in-franchise-history-140-88-over-weary-warriors/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/brown-tatum-lead-celtics-to-3rd-biggest-win-in-franchise-history-140-88-over-weary-warriors/">Save to Pocket</a>
+</span>
+
+---
+
+## Australia’s Hannah Green sinks 30-foot putt to win LPGA event in Singapore by one stroke
+
+date: 2024-03-05, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Australia-Hannah-1.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Australia-Hannah-1.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Australia-Hannah-1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Australia-Hannah-1.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Australia-Hannah-1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Australia-Hannah-1.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Australia-Hannah-1.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69098" data-permalink="https://islandtimes.org/australias-hannah-green-sinks-30-foot-putt-to-win-lpga-event-in-singapore-by-one-stroke/australia-hannah-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Australia-Hannah-1.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.2&quot;,&quot;credit&quot;:&quot;Danial Hakim&quot;,&quot;camera&quot;:&quot;Canon EOS R3&quot;,&quot;caption&quot;:&quot;Hannah Green of Australia kisses he trophy after winning the HSBC Women&#039;s Wold Championship at the Sentosa Golf Clubin Singapore Sunday, March 3, 2024. (AP Photo\/Danial Hakim)&quot;,&quot;created_timestamp&quot;:&quot;1709475569&quot;,&quot;copyright&quot;:&quot;Copyright 2023 The Associated Press. All rights reserved&quot;,&quot;focal_length&quot;:&quot;200&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.00015625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Australia Hannah" data-image-description="" data-image-caption="&lt;p&gt;Hannah Green of Australia kisses he trophy after winning the HSBC Women&#8217;s Wold Championship at the Sentosa Golf Clubin Singapore Sunday, March 3, 2024. (AP Photo/Danial Hakim)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Australia-Hannah-1.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Australia-Hannah-1.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>SINGAPORE (AP) — Hannah Green made a stunning 30-foot birdie at the final hole to clinch a one-stroke victory over Celine Boutier at the LPGA Tour’s HSBC Women’s World Championship on Sunday. Green made six birdies, three of which came in the final three holes, against one bogey in a final round 67 for a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australias-hannah-green-sinks-30-foot-putt-to-win-lpga-event-in-singapore-by-one-stroke/">Australia&#8217;s Hannah Green sinks 30-foot putt to win LPGA event in Singapore by one stroke</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/australias-hannah-green-sinks-30-foot-putt-to-win-lpga-event-in-singapore-by-one-stroke/">https://islandtimes.org/australias-hannah-green-sinks-30-foot-putt-to-win-lpga-event-in-singapore-by-one-stroke/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/australias-hannah-green-sinks-30-foot-putt-to-win-lpga-event-in-singapore-by-one-stroke/">Save to Pocket</a>
+</span>
+
+---
+
+## PROCLAMATION FOR MARCH 08, 2024 AS INTERNATIONAL WOMEN’S DAY
+
+date: 2024-03-05, from: FSM Public Information Office (Simina Administration)
+
+<p><img src="https://gov.fm/images/2024/proclamation.jpg" /></p><p>
+	<style type="text/css">
+.container {
+            margin-bottom: 1px;
+            display: flex;
+        }
+        .column {
+            flex: 1;
+            background-color: #ffffff;
+            padding: 5px;
+            border: 0px solid #ccc;
+            margin-right: 10px;
+        }	</style>
+</p>
+<div class="container">
+	<div class="column">
+		<img alt="" src="https://gov.fm/images/2024/FSM_Seal3.png" style="width: 100px; height: 100px; text-align: left;" /></div>
+	<div class="column" style="text-align:center;" valign="middle">
+		<span style="color:#000099;"><span style="font-size:18px;"><span style="font-family:Monotype Corsiva;"><span style="font-size:36px;">The President</span><br />
+		<span style="font-size:20px;">Palikir, Pohnpei<br />
+		Federated States of Micronesia</span></span></span></span></div>
+	<div class="column">
+		&nbsp;</div>
+</div>
+<h2 style="text-align: center;">
+	<strong><span style="font-size:20px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">PROCLAMATION FOR MARCH 08, 2024<br />
+	AS INTERNATIONAL WOMEN&rsquo;S DAY</span></span></strong></h2>
+<p>
+	<br />
+	<span style="font-size:20px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">WHEREAS, March 8 has been declared International Women&#39;s Day; and,</span></span></p>
+<p>
+	<span style="font-size:20px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">WHEREAS, women make up almost half of the FSM population (49%); and have a vital role in the social, economic, cultural, and political development of our nation; and,</span></span></p>
+<p>
+	<span style="font-size:20px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">WHEREAS, women, as members of society, have equal value and dignity and should therefore have equal opportunities, freedom and choice; and,</span></span></p>
+<p>
+	<span style="font-size:20px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">WHEREAS, the FSM ratified the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW)in 2004 and pledged to continue working towards the eradication of all forms of discrimination against women and promote gender equality; and</span></span></p>
+<p>
+	<span style="font-size:20px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">WHEREAS, the legal rights of women are protected under the FSM National Constitution and the constitutions of the four states, and the FSM Government has entrenched its commitment for action to accelerate gender equality through the National Gender Equality Policy and the National Eliminating Violence Against Women Policy; and,</span></span></p>
+<p>
+	<span style="font-size:20px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">WHEREAS, acknowledging the 2024 UN theme of International Women&#39;s Day, being &#39;&quot;&lsquo;Invest in women: Accelerate progress&rsquo;&quot; the FSM will continue to work towards greater representation of women in all levels of decision-making and governmental leadership; and,</span></span></p>
+<p>
+	<span style="font-size:20px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">WHEREAS, post COVID-19 has and will continue to have a disproportionate impact on women as women and their families face increased economic insecurity and increased risk of violence; we. therefore, recognise the importance of gender-inclusive crisis response and women&#39;s leadership; and.</span></span></p>
+<p>
+	<span style="font-size:20px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">WHEREAS, our nation&#39;s faith and culture are important strengths in our advancement toward gender equality and ending violence against women and girls; and,</span></span></p>
+<p>
+	<span style="font-size:20px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">WHEREAS, women in the FSM have experienced physical and/or sexual violence by a partner at least once in their lifetime; and.</span></span></p>
+<p>
+	<span style="font-size:20px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">WHEREAS, towards advancing women&#39;s full participation in the workplace, the FSM National Government has increased maternity leave provisions for all national government employees from 6 weeks to 8 weeks paid leave; and,</span></span></p>
+<p>
+	<span style="font-size:20px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">WHEREAS, to celebrate and recognize the contribution of women to the social, economic, cultural, and political fabric of our nation, the FSM National Government hereby grants paid administrative leave to all women employed by the national government on 08 March 2024; and.</span></span></p>
+<p>
+	<span style="font-size:20px;"><span style="font-family: &quot;times new roman&quot;, times, serif;">NOW THEREFORE, I, Wesley W. Simina, President of the Federated States of Micronesia by virtue of the authority vested in me by the Constitution and laws of the Federated States of Micronesia do hereby proclaim March 8, 2024, as &#39;International Women&rsquo;s Day&#39; of this Nation and urge all citizens and residents, governments, private agencies, and organizations in this Nation to commemorate this day in ways that promote gender equality and acknowledge a women&#39;s right to safety, dignity and respect.</span></span></p>
+<p>
+	&nbsp;</p>
+<center>
+	<p>
+		<img alt="" src="https://gov.fm/images/2024/pres_sig.png" style="font-family: &quot;times new roman&quot;, times, serif; font-size: 18px; width: 250px; height: 110px;" /></p>
+</center>
+
+
+<span class="feed-item-link">
+<a href="https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/783-proclamation-for-march-08-2024-as-international-women-s-day?Itemid=177">https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/783-proclamation-for-march-08-2024-as-international-women-s-day?Itemid=177</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/783-proclamation-for-march-08-2024-as-international-women-s-day?Itemid=177">Save to Pocket</a>
+</span>
+
+---
+
+## UH Mānoa program helps student who survived Lahaina wildfire graduate
+
+date: 2024-03-05, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> The support John Bernard Flores received from the <abbr>UH</abbr> Mānoa Student Basic Needs program was instrumental in his academic success.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/05/manoa-basic-needs-flores/"><abbr>UH</abbr> Mānoa program helps student who survived Lahaina wildfire graduate</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/05/manoa-basic-needs-flores/">https://www.hawaii.edu/news/2024/03/05/manoa-basic-needs-flores/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/05/manoa-basic-needs-flores/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Mānoa setter earns 5th Big West’s Freshman of the Week award
+
+date: 2024-03-05, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Tread Rosenthal averaged 9.00 assists per set and led Rainbow Warriors to a .366 hitting percentage.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/05/uh-manoa-setter-earns-5th-big-west/"><abbr>UH</abbr> Mānoa setter earns 5th Big West’s Freshman of the Week award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/05/uh-manoa-setter-earns-5th-big-west/">https://www.hawaii.edu/news/2024/03/05/uh-manoa-setter-earns-5th-big-west/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/05/uh-manoa-setter-earns-5th-big-west/">Save to Pocket</a>
+</span>
+
+---
+
+## UH students, alumni, faculty win state innovation, entrepreneurship awards
+
+date: 2024-03-05, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">4</span> <span class="rt-label rt-postfix">minutes</span></span> Honolulu <abbr>CC</abbr> alumna Alexis Akiona headlined the group winning Entrepreneur of the Year.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/05/hvca-awards-2024/"><abbr>UH</abbr> students, alumni, faculty win state innovation, entrepreneurship awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/05/hvca-awards-2024/">https://www.hawaii.edu/news/2024/03/05/hvca-awards-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/05/hvca-awards-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Freedom: Not just another word 
+
+date: 2024-03-05, from: Pacific Island Times
+
+The issue of the southern border continues to garner above-the-fold news on the mainland while nationals from China and other intolerant,...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/freedom-not-just-another-word">https://www.pacificislandtimes.com/post/freedom-not-just-another-word</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/freedom-not-just-another-word">Save to Pocket</a>
+</span>
+
+---
+
+## Creation of Office of the Public Prosecutor proposed
+
+date: 2024-03-05, from: Pacific Island Times
+
+By Pacific Island Times News Staff Sen. William Parkinson has introduced a bill seeking to resolve the inherent conflict of interest that...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/creation-of-office-of-the-public-prosecutor-proposed">https://www.pacificislandtimes.com/post/creation-of-office-of-the-public-prosecutor-proposed</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/creation-of-office-of-the-public-prosecutor-proposed">Save to Pocket</a>
+</span>
 
 ---
 
@@ -635,6 +1247,20 @@ The post <a href="https://www.hawaii.edu/news/2024/03/04/time-in-built-spaces-bo
 
 <span class="feed-item-link">
 <a href="https://www.hawaii.edu/news/2024/03/04/time-in-built-spaces-book/">https://www.hawaii.edu/news/2024/03/04/time-in-built-spaces-book/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/04/time-in-built-spaces-book/">Save to Pocket</a>
+</span>
+
+---
+
+## USP Lautoka Campus orientation session
+
+date: 2024-03-05, from: University of the South Pacific (Fiji)
+
+<p>Day one of The University of the South Pacific (USP) Lautoka Campus’ first-semester orientation session...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-lautoka-campus-orientation-session/">USP Lautoka Campus orientation session</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/usp-lautoka-campus-orientation-session/">https://www.usp.ac.fj/news/usp-lautoka-campus-orientation-session/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/usp-lautoka-campus-orientation-session/">Save to Pocket</a>
 </span>
 
 ---

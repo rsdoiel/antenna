@@ -1,11 +1,204 @@
 ---
 title: parks 2024.10
-updated: 2024-03-05 08:23:45
+updated: 2024-03-06 08:52:57
 ---
 
 # parks 2024.10
 
-(date: 2024-03-05 08:23:45)
+(date: 2024-03-06 08:52:57)
+
+---
+
+## Wild Horse Annie: The Original Champion of America's Wild Horses and Burros
+
+date: 2024-03-05, from: Bureau of Land Management, blog
+
+<div class="field contact-block -title"><h1>Wild Horse Annie: The Original Champion of America's Wild Horses and Burros</h1></div>
+      
+
+
+
+
+  
+
+            <div class="field contact-block -body"><figure role="group" class="align-left">
+<div alt="Wild Horse Annie kneels next to a horse. " data-embed-button="embed_image" data-entity-embed-display="view_mode:media.wysiwyg_embed" data-entity-type="media" data-entity-uuid="1272c034-b400-4634-bc9d-ec06df82c5c2" data-langcode="en" data-entity-embed-display-settings="[]" class="embedded-entity"><div>
+  
+  
+
+
+
+
+  
+
+            <div class="field contact-block -media-image">  <img loading="lazy" src="https://www.blm.gov/sites/default/files/styles/bio_photo/public/programs_wildhorse_history_photo1.jpg?itok=dIFObGfT" width="241" height="348" alt="Wild Horse Annie kneels next to a horse. " typeof="foaf:Image">
+
+
+</div>
+      
+</div>
+</div>
+
+<figcaption><em>Wild Horse Annie kneels next to a horse.</em></figcaption>
+</figure>
+
+
+<p>There are few historical figures that have left a more indelible mark on the history of America’s public lands, and the species that roam them, than Velma Johnston. Born on March 5, 1912, Johnston would eventually become known as Wild Horse Annie for her tireless dedication to the welfare and preservation of free-roaming horses and burros on public lands. Her advocacy would eventually lead to the passage of the <a data-entity-substitution="media" data-entity-type="media" data-entity-uuid="8274a940-94db-4132-802b-c4c5372a586d" href="https://www.blm.gov/sites/default/files/programs_wildhorse_history_doc1.pdf">Wild Free-Roaming Horses and Burros Act in 1971</a>– a monumental law that enshrined protections for two of America’s most beloved animals. </p>
+
+<p>Velma Johnston’s journey to becoming Wild Horse Annie began in the early 1950s. This was a time before there were legal protections for horses and burros roaming on public lands, which left them vulnerable to sometimes brutal “mustanging” practices. The horses were often chased until exhaustion, lassoed with ropes weighted with truck tires, and then loaded into a trailer. Johnston’s advocacy is said to have been inspired after she witnessed bleeding horses being hauled off to a slaughter plant. Horrified by the cruelty of this practice, Johnston embarked on a mission to raise awareness of the practice and to pass legislation that protects horse and burro welfare on public lands. </p>
+
+<p>Johnston’s efforts gained traction in the 1950s and 1960s as she mobilized public support through grassroots campaigns and educational outreach. She even organized a widespread letter-writing campaign that inspired thousands of school children to get involved in the issue. Her advocacy ultimately culminated in the passage of the Wild Free-Roaming Horses and Burros Act in 1971, a landmark law that enshrined federal protections to wild horses and burros on public lands, and which tasked the BLM and the U.S. Forest Service with their management. </p>
+
+<p>Johnston became known as “Wild Horse Annie” by the movement she created, and her legacy lives on in the countless supporters of wild horses and burros today. Her unwavering commitment to the wellbeing of America’s wild horses and burros helped secure lasting legal protections for free-roaming wild equines, while also fostering a greater appreciation for their intrinsic value and cherished place among the thousands of species that call our public lands their home. </p>
+
+<p>As we reflect on Wild Horse Annie’s remarkable contributions, let us honor her memory by continuing to champion the cause she held so dear. </p>
+
+<p><em><strong>Starting in 2025, the BLM invites the public to join us in honoring Wild Horse Annie and America’s wild horses and burros with a week-long, annual celebration centered around March 5, Johnston’s birthday. </strong></em></p>
+
+<p>Stay tuned for news on events and opportunities during Wild Horse and Burro Week that you and your friends can join next year!  <br>
+ </p>
+</div>
+      
+
+
+
+
+  
+
+  <div class="field contact-block -region">
+    <div><strong>Region:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/region/national-office" hreflang="en">National Office</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-topics">
+    <div class="field contact-block -blog-topic">
+      <div><strong>Blog Topic:</strong> </div>
+                    <div class="blog-topic"><a href="https://www.blm.gov/blog-topic/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+                </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -release-date">
+    <div><strong>Release Date:</strong> </div>
+              <div><time datetime="2024-03-05T12:00:00Z">Tue, 03/05/2024 - 12:00 pm UTC</time>
+</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -office">
+    <div><strong>Office:</strong> </div>
+              <div><a href="https://www.blm.gov/office/national-office" hreflang="en">National Office</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -thumbnail-image">
+    <div><strong>Thumbnail Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/3385/edit" hreflang="en">programs_wildhorse_history_photo1.jpg</a></div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -featured">
+    <div><strong>Featured:</strong> </div>
+              <div>On</div>
+          </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -related-content">
+    <div><strong>Related Content:</strong> </div>
+          <div>
+              <div>
+
+  <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
+          
+
+
+
+
+  
+
+            <div class="field contact-block -summary"><h3 class="gray-background"><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="c14b0485-526f-4877-8c23-5eb2142c2433" href="https://www.blm.gov/programs/wild-horse-and-burro/tales-from-the-trails-blog">Back to the Tails from the Trails blog</a></h3>
+</div>
+      
+      </div>
+</div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+<div class="blog-tags">
+    <div class="field contact-block -tag">
+      <div><strong>Tag:</strong> </div>
+              <div>
+                    <div><a href="https://www.blm.gov/tag/wild-horse-and-burro" hreflang="en">Wild Horse and Burro</a></div>
+                    </div>
+          </div>
+  </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -editorial-access">
+    <div><strong>Editorial Access:</strong> </div>
+          <div>
+              <div><a href="https://www.blm.gov/editorial-access/260-wild-horse-and-burros" hreflang="en">260 - Wild Horse and Burros</a></div>
+              </div>
+      </div>
+
+
+
+
+
+  
+
+  <div class="field contact-block -teaser-image">
+    <div><strong>Teaser Image:</strong> </div>
+              <div><a href="https://www.blm.gov/media/3385/edit" hreflang="en">programs_wildhorse_history_photo1.jpg</a></div>
+          </div>
+
+<span class="feed-item-link">
+<a href="https://www.blm.gov/blog/2024-03-05/wild-horse-annie-original-champion-americas-wild-horses-and-burros">https://www.blm.gov/blog/2024-03-05/wild-horse-annie-original-champion-americas-wild-horses-and-burros</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.blm.gov/blog/2024-03-05/wild-horse-annie-original-champion-americas-wild-horses-and-burros">Save to Pocket</a>
+</span>
 
 ---
 

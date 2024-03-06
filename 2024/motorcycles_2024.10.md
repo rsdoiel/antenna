@@ -1,11 +1,95 @@
 ---
 title: motorcycles 2024.10
-updated: 2024-03-05 08:23:45
+updated: 2024-03-06 08:52:58
 ---
 
 # motorcycles 2024.10
 
-(date: 2024-03-05 08:23:45)
+(date: 2024-03-06 08:52:58)
+
+---
+
+## Polaris Drops Its 2025 Snow Lineup and They Look Stellar
+
+date: 2024-03-06, from: Ride Apart, Electric Motorcycle News
+
+Sleds and snow bikes galore.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711286/polaris-2025-new-snowmobiles-snowbikes-lineup/">https://www.rideapart.com/news/711286/polaris-2025-new-snowmobiles-snowbikes-lineup/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711286/polaris-2025-new-snowmobiles-snowbikes-lineup/">Save to Pocket</a>
+</span>
+
+---
+
+## Ryan Vargas Going Full-Time in 2024 in EuroNASCAR Pro
+
+date: 2024-03-06, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor Most NASCAR drivers get the opportunity to travel across the United States of America, visiting small towns and iconic cities alike. In 2024 Ryan Vargas&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/vargas-going-full-time-euronascar-pro/">https://kickinthetires.net/nascar/vargas-going-full-time-euronascar-pro/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/vargas-going-full-time-euronascar-pro/">Save to Pocket</a>
+</span>
+
+---
+
+## Here's Why This City Banned Full-Face Motorcycle Helmets
+
+date: 2024-03-06, from: Ride Apart, Electric Motorcycle News
+
+Should public security, if there is such a thing, outweigh individual safety? 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710932/bacolod-city-bans-full-face-motorcycle-helmets/">https://www.rideapart.com/news/710932/bacolod-city-bans-full-face-motorcycle-helmets/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710932/bacolod-city-bans-full-face-motorcycle-helmets/">Save to Pocket</a>
+</span>
+
+---
+
+## Husqvarna Svartpilen 801 Sneak Peek
+
+date: 2024-03-06, from: Cycle World News
+
+The rumored Husqvarna Svartpilen 801 has been confirmed and will be officially revealed March 19, but here is a sneak peek and rundown of what to expect.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/husqvarna-svartpilen-801-sneak-peek/">https://www.cycleworld.com/motorcycle-news/husqvarna-svartpilen-801-sneak-peek/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/husqvarna-svartpilen-801-sneak-peek/">Save to Pocket</a>
+</span>
+
+---
+
+## Dentist Turned Moto Guzzi Wizard John Wittner Dies
+
+date: 2024-03-05, from: Cycle World News
+
+Known as Dr. John, John Wittner was a dentist turned renowned Moto Guzzi racebike designer. He passed away February 15, 2024, at the age of 78.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/moto-guzzi-racebike-designer-john-wittner-dies/">https://www.cycleworld.com/motorcycle-news/moto-guzzi-racebike-designer-john-wittner-dies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/moto-guzzi-racebike-designer-john-wittner-dies/">Save to Pocket</a>
+</span>
+
+---
+
+## Volcon's Stag UTV Has Entered Production and Looks Sick
+
+date: 2024-03-05, from: Ride Apart, Electric Motorcycle News
+
+The Stag, touted as the world’s fastest electric UTV, has entered production. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711116/volcon-powersports-2024-update/">https://www.rideapart.com/news/711116/volcon-powersports-2024-update/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711116/volcon-powersports-2024-update/">Save to Pocket</a>
+</span>
+
+---
+
+## We Can’t Stop Ogling At These Fancy Forged Wheels From Gale Speed
+
+date: 2024-03-05, from: Ride Apart, Electric Motorcycle News
+
+The new Type-J pays homage to the iconic styling of the 70s and 80s. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/710975/gale-speed-type-j-forged-wheels/">https://www.rideapart.com/news/710975/gale-speed-type-j-forged-wheels/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/710975/gale-speed-type-j-forged-wheels/">Save to Pocket</a>
+</span>
 
 ---
 

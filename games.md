@@ -1,11 +1,131 @@
 ---
 title: games 2024.10
-updated: 2024-03-05 08:23:45
+updated: 2024-03-06 08:52:57
 ---
 
 # games 2024.10
 
-(date: 2024-03-05 08:23:45)
+(date: 2024-03-06 08:52:57)
+
+---
+
+## You’ll believe an Adam Sandler can fly in this behind-the-scenes look at Spaceman
+
+date: 2024-03-06, updated: 2024-03-06, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24092182/adam-sandler-spaceman-special-effects-behind-the-scenes">https://www.polygon.com/24092182/adam-sandler-spaceman-special-effects-behind-the-scenes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24092182/adam-sandler-spaceman-special-effects-behind-the-scenes">Save to Pocket</a>
+</span>
+
+---
+
+## How to watch Microsoft’s new Xbox Partner Preview games showcase
+
+date: 2024-03-06, updated: 2024-03-06, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24090223/xbox-showcase-partner-spring-preview-2024-date-time">https://www.polygon.com/24090223/xbox-showcase-partner-spring-preview-2024-date-time</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24090223/xbox-showcase-partner-spring-preview-2024-date-time">Save to Pocket</a>
+</span>
+
+---
+
+## Steam’s Women’s Day Sale is happening, and these 6 games are worth buying
+
+date: 2024-03-06, updated: 2024-03-06, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24092139/steam-what-to-play-womens-day-sale-march-24">https://www.polygon.com/24092139/steam-what-to-play-womens-day-sale-march-24</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24092139/steam-what-to-play-womens-day-sale-march-24">Save to Pocket</a>
+</span>
+
+---
+
+## Helldivers 2 patch nerfs the best builds, but throws in fire tornadoes
+
+date: 2024-03-06, updated: 2024-03-06, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24092190/helldivers-2-patch-nerfs-railgun-breaker-energy-shield-backpack">https://www.polygon.com/24092190/helldivers-2-patch-nerfs-railgun-breaker-energy-shield-backpack</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24092190/helldivers-2-patch-nerfs-railgun-breaker-energy-shield-backpack">Save to Pocket</a>
+</span>
+
+---
+
+## Dune: Part Two is really Zendaya’s movie
+
+date: 2024-03-06, updated: 2024-03-06, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24091605/dune-2-zendaya-movie-star-best-performance">https://www.polygon.com/24091605/dune-2-zendaya-movie-star-best-performance</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24091605/dune-2-zendaya-movie-star-best-performance">Save to Pocket</a>
+</span>
+
+---
+
+## What time does Fortnite Chapter 5 Season 2 start?
+
+date: 2024-03-06, updated: 2024-03-06, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time">https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time">Save to Pocket</a>
+</span>
+
+---
+
+## How to permanently unlock Destiny 2’s new hoverboard vehicle
+
+date: 2024-03-05, updated: 2024-03-05, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/destiny-2-guide-walkthrough/24091606/allstar-vector-skimmer-hoverboard-unlock">https://www.polygon.com/destiny-2-guide-walkthrough/24091606/allstar-vector-skimmer-hoverboard-unlock</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/destiny-2-guide-walkthrough/24091606/allstar-vector-skimmer-hoverboard-unlock">Save to Pocket</a>
+</span>
+
+---
+
+## All PlayStation trophies in Final Fantasy 7 Rebirth
+
+date: 2024-03-05, updated: 2024-03-05, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24091447/playstation-trophy-list-platinum">https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24091447/playstation-trophy-list-platinum</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24091447/playstation-trophy-list-platinum">Save to Pocket</a>
+</span>
+
+---
+
+## Dragon’s Dogma 2 doesn’t care if you’re new, it’ll still kick your ass
+
+date: 2024-03-05, updated: 2024-03-05, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24087954/dragons-dogma-2-preview">https://www.polygon.com/24087954/dragons-dogma-2-preview</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24087954/dragons-dogma-2-preview">Save to Pocket</a>
+</span>
+
+---
+
+## Megan Thee Stallion names Inuyasha’s Kagome the definitive anime hot girl
+
+date: 2024-03-05, updated: 2024-03-05, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/anime/24091333/megan-thee-stallion-hot-girl-anime-inuyasha">https://www.polygon.com/anime/24091333/megan-thee-stallion-hot-girl-anime-inuyasha</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/anime/24091333/megan-thee-stallion-hot-girl-anime-inuyasha">Save to Pocket</a>
+</span>
 
 ---
 

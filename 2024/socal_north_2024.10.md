@@ -1,17 +1,661 @@
 ---
 title: socal north 2024.10
-updated: 2024-03-05 08:23:44
+updated: 2024-03-06 08:52:56
 ---
 
 # socal north 2024.10
 
-(date: 2024-03-05 08:23:44)
+(date: 2024-03-06 08:52:56)
+
+---
+
+## Santa Clarita Residents Invited to Pre-Register to Volunteer at the Neighborhood Cleanup on April 27
+
+date: 2024-03-06, from: City of Santa Clarita
+
+<p>SANTA CLARITA RESIDENTS INVITED TO PRE-REGISTER TO VOLUNTEER AT THE NEIGHBORHOOD CLEANUP ON APRIL 27 Registered Participants Pick Up Free Supplies to Clean Up Their Community City of Santa Clarita residents are invited to register for the Neighborhood Cleanup taking place on Saturday, April 27, 2024. This event gives residents the opportunityto join the City [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/03/06/santa-clarita-residents-invited-to-pre-register-to-volunteer-at-the-neighborhood-cleanup-on-april-27/">Santa Clarita Residents Invited to Pre-Register to Volunteer at the Neighborhood Cleanup on April 27</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2024/03/06/santa-clarita-residents-invited-to-pre-register-to-volunteer-at-the-neighborhood-cleanup-on-april-27/">https://santaclarita.gov/blog/2024/03/06/santa-clarita-residents-invited-to-pre-register-to-volunteer-at-the-neighborhood-cleanup-on-april-27/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/03/06/santa-clarita-residents-invited-to-pre-register-to-volunteer-at-the-neighborhood-cleanup-on-april-27/">Save to Pocket</a>
+</span>
+
+---
+
+## Get-Out-The-Vote event at The Oinkster encourages civic participation for the Filipino community
+
+date: 2024-03-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>With promises of free ube shakes, Filipino merienda, music and vintage cars, Democratic primary candidate for Assembly member for the 52nd district of California Jessica Caloza sponsored a Get-Out-the-Vote event at The Oinkster on Colorado Boulevard March 3. As classic &#8217;90s hip hop played from the DJ&#8217;s speakers, Caloza took pictures with supporters and Paco, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/uncategorized/2024/03/06/get-out-the-vote-event-at-the-oinkster-encourages-civic-participation-for-the-filipino-community/2911627">Get-Out-The-Vote event at The Oinkster encourages civic participation for the Filipino community</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/uncategorized/2024/03/06/get-out-the-vote-event-at-the-oinkster-encourages-civic-participation-for-the-filipino-community/2911627">https://theoccidentalnews.com/uncategorized/2024/03/06/get-out-the-vote-event-at-the-oinkster-encourages-civic-participation-for-the-filipino-community/2911627</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/uncategorized/2024/03/06/get-out-the-vote-event-at-the-oinkster-encourages-civic-participation-for-the-filipino-community/2911627">Save to Pocket</a>
+</span>
+
+---
+
+## Mysterious Pillarhenge project continues to confound, even as development moves ahead
+
+date: 2024-03-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>After 20 years, Vanos Architecture, an LA-based firm, along with a new property owner, will accomplish what many thought was impossible: develop Pillarhenge, a long abandoned, 0.63 acre narrow strip of land located at 1332 Colorado Blvd. An LA Times Article said Vanos Architecture first planned a 17 unit multi-use building on the property back [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/uncategorized/2024/03/06/mysterious-pillarhenge-project-continues-to-confound-even-as-development-moves-ahead/2911642">Mysterious Pillarhenge project continues to confound, even as development moves ahead</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/uncategorized/2024/03/06/mysterious-pillarhenge-project-continues-to-confound-even-as-development-moves-ahead/2911642">https://theoccidentalnews.com/uncategorized/2024/03/06/mysterious-pillarhenge-project-continues-to-confound-even-as-development-moves-ahead/2911642</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/uncategorized/2024/03/06/mysterious-pillarhenge-project-continues-to-confound-even-as-development-moves-ahead/2911642">Save to Pocket</a>
+</span>
+
+---
+
+## Paul Holdengräber makes people say something they’ve never said before
+
+date: 2024-03-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Paul Holdengräber was born in Texas, the son of Austrian immigrants who left their home country for Haiti in 1938. Though he is not a California native, he said he agreed when the curator of the Los Angeles County Museum of Art (LACMA) contacted him in 1997, asking him to bring a group of Californians together for the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/03/06/paul-holdengraber-makes-people-say-something-theyve-never-said-before/2911607">Paul Holdengräber makes people say something they&#8217;ve never said before</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/culture/2024/03/06/paul-holdengraber-makes-people-say-something-theyve-never-said-before/2911607">https://theoccidentalnews.com/culture/2024/03/06/paul-holdengraber-makes-people-say-something-theyve-never-said-before/2911607</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/culture/2024/03/06/paul-holdengraber-makes-people-say-something-theyve-never-said-before/2911607">Save to Pocket</a>
+</span>
+
+---
+
+## Beginner birders take flight at community bird walk with Moore Laboratory of Zoology
+
+date: 2024-03-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Feb. 27, 8 a.m., the knotted trees of the Sycamore Glen whispered against a cool, dry LA morning breeze. A group of around 20 students, faculty and community members gathered on the pebbled landing just outside the glen. They were about to embark on a bird walk, hosted by Occidental&#8217;s Moore Laboratory of Zoology, a [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/features/2024/03/06/beginner-birders-take-flight-at-community-bird-walk-with-moore-laboratory-of-zoology/2911602">Beginner birders take flight at community bird walk with Moore Laboratory of Zoology</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/features/2024/03/06/beginner-birders-take-flight-at-community-bird-walk-with-moore-laboratory-of-zoology/2911602">https://theoccidentalnews.com/features/2024/03/06/beginner-birders-take-flight-at-community-bird-walk-with-moore-laboratory-of-zoology/2911602</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/features/2024/03/06/beginner-birders-take-flight-at-community-bird-walk-with-moore-laboratory-of-zoology/2911602">Save to Pocket</a>
+</span>
+
+---
+
+## Physical activity classes provide an outlet for Occidental students
+
+date: 2024-03-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental offers a variety of physical activity courses, open to students of all years and experience levels. The classes offered are are yoga, karate, Zumba and spin. In addition to keeping students active, these courses provide a break from the rigors of academic life, said spin instructor Delaney Nolin. Nolin said that with her spin classes she [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/03/06/physical-activity-classes-provide-an-outlet-for-occidental-students/2911597">Physical activity classes provide an outlet for Occidental students</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/sports/2024/03/06/physical-activity-classes-provide-an-outlet-for-occidental-students/2911597">https://theoccidentalnews.com/sports/2024/03/06/physical-activity-classes-provide-an-outlet-for-occidental-students/2911597</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/sports/2024/03/06/physical-activity-classes-provide-an-outlet-for-occidental-students/2911597">Save to Pocket</a>
+</span>
+
+---
+
+## Like a deep-sea comet, Professor Shana Goffredi delivers Sterling Award Lecture
+
+date: 2024-03-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Titled “Beneficial Partnerships: From the Deep Ocean to the Rainforest,” biology professor Shana Goffredi delivered the annual Sterling Award Lecture Feb. 28 in Choi Auditorium. Goffredi received the Graham L. Sterling Memorial Award in 2023, which recognizes faculty members with distinguished teaching, service and professional achievement records. Written by her colleagues, the letter nominating Goffredi [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2024/03/06/like-a-deep-sea-comet-professor-shana-goffredi-delivers-sterling-award-lecture/2911606">Like a deep-sea comet, Professor Shana Goffredi delivers Sterling Award Lecture</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/news/2024/03/06/like-a-deep-sea-comet-professor-shana-goffredi-delivers-sterling-award-lecture/2911606">https://theoccidentalnews.com/news/2024/03/06/like-a-deep-sea-comet-professor-shana-goffredi-delivers-sterling-award-lecture/2911606</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/news/2024/03/06/like-a-deep-sea-comet-professor-shana-goffredi-delivers-sterling-award-lecture/2911606">Save to Pocket</a>
+</span>
+
+---
+
+## No Place Like Home
+
+date: 2024-03-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>They call LA the City of Angels but I wasn’t made to have wings. You taught me to keep my feet on the ground with my head down while everyone remains afloat staring at me with dagger eyes and half smiles. &#160; I wasn’t meant for direct sunlight it fuels everyone’s kindred spirits  but turns [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/media/2024/03/06/no-place-like-home/2911665">No Place Like Home</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/media/2024/03/06/no-place-like-home/2911665">https://theoccidentalnews.com/media/2024/03/06/no-place-like-home/2911665</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/media/2024/03/06/no-place-like-home/2911665">Save to Pocket</a>
+</span>
+
+---
+
+## Lessons Learned: How seasickness taught me to fail
+
+date: 2024-03-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Content warning: This article discusses suicide. I wouldn’t make a good sailor. Boy scout outings and biology labs have washed me out to sea a few times in my life, and after the excitement of finding myself on a boat subsides, I usually feel somewhat queasy. But on a trip last week with the Vantuna [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/opinions/2024/03/06/lessons-learned-how-seasickness-taught-me-to-fail/2911618">Lessons Learned: How seasickness taught me to fail</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/opinions/2024/03/06/lessons-learned-how-seasickness-taught-me-to-fail/2911618">https://theoccidentalnews.com/opinions/2024/03/06/lessons-learned-how-seasickness-taught-me-to-fail/2911618</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/opinions/2024/03/06/lessons-learned-how-seasickness-taught-me-to-fail/2911618">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s basketball claims SCIAC Championship and competes in NCAA
+
+date: 2024-03-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental women’s basketball team traveled to Abilene, Texas to battle it out against Hardin-Simmons University in the first round of NCAA DIII tournament March 1. The Tigers fell to Hardin-Simmons 65-53. Hardin-Simmons took the lead with a nine point difference early in the first quarter, and held on throughout the entire game, with the Tigers trailing 36-24 at [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/sports/2024/03/06/womens-basketball-claims-sciac-championship-and-competes-in-ncaa/2911600">Women&#8217;s basketball claims SCIAC Championship and competes in NCAA</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/sports/2024/03/06/womens-basketball-claims-sciac-championship-and-competes-in-ncaa/2911600">https://theoccidentalnews.com/sports/2024/03/06/womens-basketball-claims-sciac-championship-and-competes-in-ncaa/2911600</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/sports/2024/03/06/womens-basketball-claims-sciac-championship-and-competes-in-ncaa/2911600">Save to Pocket</a>
+</span>
+
+---
+
+## Sunrise Oxy endorses Ysabel Jurado in upcoming City Council election
+
+date: 2024-03-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Sunrise Oxy, an on-campus climate action group, endorsed Ysabel Jurado, one of the eight candidates running for City Council District (CD) 14 in the election March 5. Jurado said that her campaign focuses on addressing the housing affordability crisis, ending homelessness, reimagining public safety, fighting for accessible and reliable public transit and delivering climate action. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2024/03/06/sunrise-oxy-endorses-ysabel-jurado-in-upcoming-city-council-election/2911658">Sunrise Oxy endorses Ysabel Jurado in upcoming City Council election</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/culture/2024/03/06/sunrise-oxy-endorses-ysabel-jurado-in-upcoming-city-council-election/2911658">https://theoccidentalnews.com/culture/2024/03/06/sunrise-oxy-endorses-ysabel-jurado-in-upcoming-city-council-election/2911658</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/culture/2024/03/06/sunrise-oxy-endorses-ysabel-jurado-in-upcoming-city-council-election/2911658">Save to Pocket</a>
+</span>
+
+---
+
+## Many Community Colleges Serve Basic Needs. But Free Dental Care? That's A Crowning Achievement
+
+date: 2024-03-06, updated: 2024-03-06, from: The LAist
+
+Oral health can impact academic performance. It can also be a learning opportunity for dental hygiene students.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/community-colleges-basic-needs-dental-care-antelope-valley-college">https://laist.com/news/education/community-colleges-basic-needs-dental-care-antelope-valley-college</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/community-colleges-basic-needs-dental-care-antelope-valley-college">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 primary election candidates in Los Angeles
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Angelenos voted for Los Angeles City Council seats, LA County Board of Supervisors members, the LA District Attorney, LA Superior Court judges and Measure HLA in Tuesday&#8217;s primary election.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/06/2024-primary-election-candidates-in-los-angeles/">https://dailybruin.com/2024/03/06/2024-primary-election-candidates-in-los-angeles/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/06/2024-primary-election-candidates-in-los-angeles/">Save to Pocket</a>
+</span>
+
+---
+
+## Q&A: Second-year UCLA student Ariana Garcia discusses her campaign for city council
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA student Ariana Garcia is running for Compton City Council&#8217;s District 4 seat in the 2024 election. 
+The write-in candidate, who is also a second-year sociology student, grew up in Compton, California.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/06/qa-second-year-ucla-student-ariana-garcia-discusses-her-campaign-for-city-council/">https://dailybruin.com/2024/03/06/qa-second-year-ucla-student-ariana-garcia-discusses-her-campaign-for-city-council/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/06/qa-second-year-ucla-student-ariana-garcia-discusses-her-campaign-for-city-council/">Save to Pocket</a>
+</span>
+
+---
+
+## Classifieds – March 6, 2024
+
+date: 2024-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/06/classifieds-march-6-2024/">Classifieds &#8211; March 6, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/06/classifieds-march-6-2024/">https://dailytrojan.com/2024/03/06/classifieds-march-6-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/06/classifieds-march-6-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Grace’s Whits: For coach Cori Close, the first step toward a dynasty is the conference title
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Every coach&#8217;s dream is to build a dynasty program.
+A one-and-done national championship win is worthy of hype, but most times, it&#8217;s the dynasty programs – the ones with the iconic coaches, top recruiting classes and a brand that lives beyond the ones that wear it – that cut down the nets.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/06/graces-whits-for-coach-cori-close-the-first-step-toward-a-dynasty-is-the-conference-title/">https://dailybruin.com/2024/03/06/graces-whits-for-coach-cori-close-the-first-step-toward-a-dynasty-is-the-conference-title/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/06/graces-whits-for-coach-cori-close-the-first-step-toward-a-dynasty-is-the-conference-title/">Save to Pocket</a>
+</span>
+
+---
+
+## Latines deserve better representation in media
+
+date: 2024-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Welcome back to the Soapbox, the Daily Trojan’s official opinion podcast. Today, we turn our eyes to the world of entertainment through a Latin lens. Mateo Jimenez joins us today, he has highlighted in his article, that you can read now on dailytrojan.com, how we latin people in north american pop culture are seen as more of a gimmick than a reality, more stereotype than truth.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/06/latines-deserve-better-representation-in-media/">Latines deserve better representation in media</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/06/latines-deserve-better-representation-in-media/">https://dailytrojan.com/2024/03/06/latines-deserve-better-representation-in-media/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/06/latines-deserve-better-representation-in-media/">Save to Pocket</a>
+</span>
+
+---
+
+## Tuition to rise by 4.9% for 2024-25 school year
+
+date: 2024-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The transportation fee, which finances USC initiatives such as the Lyft Rides Program and the Student U-Pass Program, will increase by $23, or roughly 5.4%.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/06/tuition-to-rise-by-4-9-for-2024-25-school-year/">Tuition to rise by 4.9% for 2024-25 school year</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/06/tuition-to-rise-by-4-9-for-2024-25-school-year/">https://dailytrojan.com/2024/03/06/tuition-to-rise-by-4-9-for-2024-25-school-year/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/06/tuition-to-rise-by-4-9-for-2024-25-school-year/">Save to Pocket</a>
+</span>
+
+---
+
+## World’s largest LGBTQIA+ archive reopens
+
+date: 2024-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>ONE Archives at the USC Libraries was closed for two years for improvements.  </p>
+<p>The post <a href="https://dailytrojan.com/2024/03/06/worlds-largest-lgbtqia-archive-reopens/">World’s largest LGBTQIA+ archive reopens</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/06/worlds-largest-lgbtqia-archive-reopens/">https://dailytrojan.com/2024/03/06/worlds-largest-lgbtqia-archive-reopens/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/06/worlds-largest-lgbtqia-archive-reopens/">Save to Pocket</a>
+</span>
+
+---
+
+## A family feud: style versus fashion
+
+date: 2024-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>We may be one step closer to finding our own style by understanding the distinct nature between trends and fashion. </p>
+<p>The post <a href="https://dailytrojan.com/2024/03/06/a-family-feud-style-versus-fashion/">A family feud: style versus fashion</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/06/a-family-feud-style-versus-fashion/">https://dailytrojan.com/2024/03/06/a-family-feud-style-versus-fashion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/06/a-family-feud-style-versus-fashion/">Save to Pocket</a>
+</span>
+
+---
+
+## The lost humanity in detention centers
+
+date: 2024-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The cruel reality of mistreatment of migrants at detention centers.The cruel reality of mistreatment of migrants at detention centers.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/06/the-lost-humanity-in-detention-centers/">The lost humanity in detention centers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/06/the-lost-humanity-in-detention-centers/">https://dailytrojan.com/2024/03/06/the-lost-humanity-in-detention-centers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/06/the-lost-humanity-in-detention-centers/">Save to Pocket</a>
+</span>
+
+---
+
+## Veggie tale: alum speaks on journey with Beyond Meat
+
+date: 2024-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Hazel Lee, a 2019 graduate, uses skills learned at USC in the labs at Beyond Meat.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/06/veggie-tale-alum-speaks-on-journey-with-beyond-meat/">Veggie tale: alum speaks on journey with Beyond Meat</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/06/veggie-tale-alum-speaks-on-journey-with-beyond-meat/">https://dailytrojan.com/2024/03/06/veggie-tale-alum-speaks-on-journey-with-beyond-meat/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/06/veggie-tale-alum-speaks-on-journey-with-beyond-meat/">Save to Pocket</a>
+</span>
+
+---
+
+## Heart in his skates: A San Diego man’s path to the NHL
+
+date: 2024-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Chad Ruhwedel’s love for hockey has sustained his playing career against all odds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/06/heart-in-his-skates/">Heart in his skates: A San Diego man&#8217;s path to the NHL</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/06/heart-in-his-skates/">https://dailytrojan.com/2024/03/06/heart-in-his-skates/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/06/heart-in-his-skates/">Save to Pocket</a>
+</span>
+
+---
+
+## What Nex Benedict’s death means for us
+
+date: 2024-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Gender policies here at USC are as impactful as those that caused Nex's death.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/06/nex-benedict-and-what-their-death-means-to-us-for-us/">What Nex Benedict&#8217;s death means for us</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/06/nex-benedict-and-what-their-death-means-to-us-for-us/">https://dailytrojan.com/2024/03/06/nex-benedict-and-what-their-death-means-to-us-for-us/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/06/nex-benedict-and-what-their-death-means-to-us-for-us/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s basketball braces for Pac-12 clash
+
+date: 2024-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans have a first-round bye, and will begin play in the quarterfinals.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/06/womens-basketball-braces-for-pac-12-clash/">Women’s basketball braces for Pac-12 clash</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/06/womens-basketball-braces-for-pac-12-clash/">https://dailytrojan.com/2024/03/06/womens-basketball-braces-for-pac-12-clash/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/06/womens-basketball-braces-for-pac-12-clash/">Save to Pocket</a>
+</span>
+
+---
+
+## Art museum meets amusement park at Luna Luna
+
+date: 2024-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The exhibit’s L.A. opening delights with creations from iconic 20th century artists.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/06/art-museum-meets-amusement-park-at-luna-luna/">Art museum meets amusement park at Luna Luna</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/06/art-museum-meets-amusement-park-at-luna-luna/">https://dailytrojan.com/2024/03/06/art-museum-meets-amusement-park-at-luna-luna/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/06/art-museum-meets-amusement-park-at-luna-luna/">Save to Pocket</a>
+</span>
+
+---
+
+## Steve Garvey, Adam Schiff advance to November’s US Senate general election
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Rep. Adam Schiff and former baseball player Steve Garvey advanced to November’s general election for California’s United States Senate seat, according to the Associated Press.
+Schiff, a Democrat, has served in the House of Representatives since 2001.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/05/steve-garvey-adam-schiff-advance-to-novembers-u-s-senate-general-election/">https://dailybruin.com/2024/03/05/steve-garvey-adam-schiff-advance-to-novembers-u-s-senate-general-election/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/05/steve-garvey-adam-schiff-advance-to-novembers-u-s-senate-general-election/">Save to Pocket</a>
+</span>
+
+---
+
+## Women’s basketball Pac-12 tournament predictions
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA women&#8217;s basketball (24-5, 13-5 Pac-12) will enter the 2024 Pac-12 tournament as the No. 3 seed &#8211; its highest seed in three years. The Bruins will travel to Las Vegas with a first-round bye and will face either No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/05/womens-basketball-pac-12-tournament-predictions-5/">https://dailybruin.com/2024/03/05/womens-basketball-pac-12-tournament-predictions-5/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/05/womens-basketball-pac-12-tournament-predictions-5/">Save to Pocket</a>
+</span>
+
+---
+
+## Opinion: Political polarization of genders will change the landscape of future elections
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 5 at 11:41 p.m.&#160;</em>
+It’s not a coincidence that a malicious individual like Andrew Tate has garnered so much attention from young boys on the internet.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/05/opinion-political-polarization-of-genders-will-change-the-landscape-of-future-elections/">https://dailybruin.com/2024/03/05/opinion-political-polarization-of-genders-will-change-the-landscape-of-future-elections/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/05/opinion-political-polarization-of-genders-will-change-the-landscape-of-future-elections/">Save to Pocket</a>
+</span>
+
+---
+
+## Students camp out for UCLA men’s basketball’s rivalry game, pack Bruin Walk
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 5 at 9:54 p.m.</em>
+Guardians of the Galaxy puzzle in hand, Isabella Natarelli lined up inside the barricades on Bruin Walk for students seeking entrance to UCLA men’s basketball’s home game against USC.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/05/students-camp-out-for-ucla-mens-basketballs-rivalry-game-pack-bruin-walk/">https://dailybruin.com/2024/03/05/students-camp-out-for-ucla-mens-basketballs-rivalry-game-pack-bruin-walk/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/05/students-camp-out-for-ucla-mens-basketballs-rivalry-game-pack-bruin-walk/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA hosts three voting centers for March 5 primary election
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 6 at 1:10 a.m.</em>
+Voting centers opened on campus and around Westwood on Saturday for Tuesday’s primary election.
+The Hammer Museum, Tom Bradley International Hall and Ackerman Union served as polling centers accessible to students and community members looking to cast their vote on Proposition 1 and Measure HLA, and in a primary for presidential, United States Senate and local candidates.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/05/ucla-hosts-three-voting-centers-for-march-5-primary-election/">https://dailybruin.com/2024/03/05/ucla-hosts-three-voting-centers-for-march-5-primary-election/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/05/ucla-hosts-three-voting-centers-for-march-5-primary-election/">Save to Pocket</a>
+</span>
+
+---
+
+## Community college bachelor’s degree programs positively affect Latino community
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+A recent issue brief by UCLA researchers found that community college bachelor&#8217;s degree programs may positively affect the Latino community.
+The California state legislature passed a law in 2014 titled Senate Bill 850 that permitted community colleges to initiate baccalaureate degree programs.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/05/community-college-bachelors-degree-programs-positively-affect-latino-community/">https://dailybruin.com/2024/03/05/community-college-bachelors-degree-programs-positively-affect-latino-community/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/05/community-college-bachelors-degree-programs-positively-affect-latino-community/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘We don’t back down’: UCLA men’s basketball looks for redemption at end of season
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 5 at 10:14 p.m.</em>
+The Bruins were projected to finish in third place in the Pac-12 preseason media poll.
+With two games remaining in conference play and two games behind the pair of teams tied for third, that ship has likely sailed.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/05/we-dont-back-down-ucla-mens-basketball-looks-for-redemption-at-end-of-season/">https://dailybruin.com/2024/03/05/we-dont-back-down-ucla-mens-basketball-looks-for-redemption-at-end-of-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/05/we-dont-back-down-ucla-mens-basketball-looks-for-redemption-at-end-of-season/">Save to Pocket</a>
+</span>
+
+---
+
+## Stock market soars to record highs on AI boom: A bubble in the making?
+
+date: 2024-03-05, from: The Sundail (CSUN Student Newspaper)
+
+The stock market has surged, and optimism seems to have been renewed among investors that saw the Dow Jones hit an all-time high Friday and the S&#38;P 500 following suit....
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178935/opinions/stock-market-soars-to-record-highs-on-ai-boom-a-bubble-in-the-making/">https://sundial.csun.edu/178935/opinions/stock-market-soars-to-record-highs-on-ai-boom-a-bubble-in-the-making/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178935/opinions/stock-market-soars-to-record-highs-on-ai-boom-a-bubble-in-the-making/">Save to Pocket</a>
+</span>
+
+---
+
+## Good grief: CSUN theater presents a comedy of mourning
+
+date: 2024-03-05, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN theater department hosted its interpretation of the play “House of Bernarda Alba” on Feb. 23 at the Little Theatre located in Nordhoff Hall. The play “House of Bernarda...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178928/arts-entertainment/good-grief-csun-theater-presents-a-comedy-of-mourning/">https://sundial.csun.edu/178928/arts-entertainment/good-grief-csun-theater-presents-a-comedy-of-mourning/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178928/arts-entertainment/good-grief-csun-theater-presents-a-comedy-of-mourning/">Save to Pocket</a>
+</span>
+
+---
+
+## The Veterans Resource Center and the importance of community
+
+date: 2024-03-05, from: The Sundail (CSUN Student Newspaper)
+
+The Veterans Resource Center was established in 2012 and strives to aid veterans with their educational journey at CSUN. For over a decade, the VRC at CSUN has been a...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178921/featured/the-veterans-resource-center-and-the-importance-of-community/">https://sundial.csun.edu/178921/featured/the-veterans-resource-center-and-the-importance-of-community/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178921/featured/the-veterans-resource-center-and-the-importance-of-community/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s basketball heads to its final Pac-12 tournament with first-round bye
+
+date: 2024-03-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 5 at 10:10 p.m.</em>
+A 14-game winning streak and their highest ranking in program history boosted the Bruins for over two months.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/05/ucla-womens-basketball-heads-to-its-final-pac-12-tournament-with-first-round-bye/">https://dailybruin.com/2024/03/05/ucla-womens-basketball-heads-to-its-final-pac-12-tournament-with-first-round-bye/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/05/ucla-womens-basketball-heads-to-its-final-pac-12-tournament-with-first-round-bye/">Save to Pocket</a>
+</span>
+
+---
+
+## Q&A: Daily Wildcat Sports editors talk final men’s basketball Pac-12 battle
+
+date: 2024-03-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 5 at 10:07 p.m.</em>
+UCLA men’s basketball (14-15, 9-9 Pac-12) is hosting No. 5 Arizona (23-6, 14-4) for the final time as Pac-12 rivals Thursday.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/05/qa-daily-wildcat-sports-editors-talk-final-mens-basketball-pac-12-battle/">https://dailybruin.com/2024/03/05/qa-daily-wildcat-sports-editors-talk-final-mens-basketball-pac-12-battle/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/05/qa-daily-wildcat-sports-editors-talk-final-mens-basketball-pac-12-battle/">Save to Pocket</a>
+</span>
+
+---
+
+## Tuition to increase by 4.9% for Fall 2024
+
+date: 2024-03-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The transportation fee, which finances initiatives<br />
+such as the Shryft program and the Student U-Pass<br />
+Program, will increase by $24, or roughly 25%.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/05/usc-tuition-increase-fall-2024/">Tuition to increase by 4.9% for Fall 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/05/usc-tuition-increase-fall-2024/">https://dailytrojan.com/2024/03/05/usc-tuition-increase-fall-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/05/usc-tuition-increase-fall-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA swim and dive breaks school records, takes fourth at Pac-12 championships
+
+date: 2024-03-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 5 at 8:32 p.m.</em>
+Another day, another school record for the Bruins.
+On the final three days of the last edition of the Pac-12 championships, the Bruins broke school records in various events.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/05/ucla-swim-and-dive-breaks-school-records-takes-fourth-at-pac-12-championships/">https://dailybruin.com/2024/03/05/ucla-swim-and-dive-breaks-school-records-takes-fourth-at-pac-12-championships/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/05/ucla-swim-and-dive-breaks-school-records-takes-fourth-at-pac-12-championships/">Save to Pocket</a>
+</span>
+
+---
+
+## CNPS Announces New Projects to Scale Up Native Plant Production and Habitat for Pollinators
+
+date: 2024-03-05, from: California Native Plants Society
+
+<p>The $1.9M cooperative agreements will allow CNPS to create science-based, publicly available tools for native plant propagation protocols and critical biodiversity data.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/cnps-announces-pollinators-propagation-projects-37724">CNPS Announces New Projects to Scale Up Native Plant Production and Habitat for Pollinators</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.cnps.org/news-releases/cnps-announces-pollinators-propagation-projects-37724">https://www.cnps.org/news-releases/cnps-announces-pollinators-propagation-projects-37724</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cnps.org/news-releases/cnps-announces-pollinators-propagation-projects-37724">Save to Pocket</a>
+</span>
+
+---
+
+## Programmed Prejudice: Fighting Racism in AI
+
+date: 2024-03-05, from: The Sundail (CSUN Student Newspaper)
+
+With more technological advances becoming heavily integrated into daily life, the rise of artificial intelligence has become something to welcome and fear. For some, this new tech is nothing to...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178881/print-editions/print-stories/programmed-prejudice-fighting-racism-in-ai/">https://sundial.csun.edu/178881/print-editions/print-stories/programmed-prejudice-fighting-racism-in-ai/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178881/print-editions/print-stories/programmed-prejudice-fighting-racism-in-ai/">Save to Pocket</a>
+</span>
+
+---
+
+## Demographic Rankings: What makes CSUN stand out in diversity?
+
+date: 2024-03-05, from: The Sundail (CSUN Student Newspaper)
+
+California State University, Northridge is well-known for its strong academic programs in the business, film and arts departments, along with being the epicenter of the 1994 Northridge earthquake. However, the...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178877/print-editions/print-stories/demographic-rankings-what-makes-csun-stand-out-in-diversity/">https://sundial.csun.edu/178877/print-editions/print-stories/demographic-rankings-what-makes-csun-stand-out-in-diversity/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178877/print-editions/print-stories/demographic-rankings-what-makes-csun-stand-out-in-diversity/">Save to Pocket</a>
+</span>
+
+---
+
+## Second Take: Listener creativity remains paramount with booming popularity of nightcore music
+
+date: 2024-03-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 5 at 8:23 p.m.</em>
+Thanks to social media, nightcore’s proliferation has sped up significantly in recent years.
+Sped-up versions of popular songs dominate TikTok audios, driven by creators’ desire to squeeze longer chunks of a song into the app’s short video format.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/05/second-take-listener-creativity-remains-paramount-with-booming-popularity-of-nightcore-music/">https://dailybruin.com/2024/03/05/second-take-listener-creativity-remains-paramount-with-booming-popularity-of-nightcore-music/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/05/second-take-listener-creativity-remains-paramount-with-booming-popularity-of-nightcore-music/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA baseball reshuffles defense during 12-error week ahead of Pac-12 play
+
+date: 2024-03-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 5 at 8:39 p.m. </em>
+The Bruins&#8217; seven errors against Long Beach State last week had coach John Savage seeing ghosts.
+&#8220;Welcome to the haunted house tonight, buddy,&#8221; he said.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/05/ucla-baseball-reshuffles-defense-during-12-error-week-ahead-of-pac-12-play/">https://dailybruin.com/2024/03/05/ucla-baseball-reshuffles-defense-during-12-error-week-ahead-of-pac-12-play/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/05/ucla-baseball-reshuffles-defense-during-12-error-week-ahead-of-pac-12-play/">Save to Pocket</a>
+</span>
+
+---
+
+## Gallery: Snail Mail rocks the Troubadour on 1st West Coast tour date
+
+date: 2024-03-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Snail Mail, the indie rock effort of singer-songwriter Lindsey Jordan, performed at the Troubadour on Feb. 26, joined by openers The Umbrellas and Narrow Head. The tour stop was the first of four West Coast headlining dates, following Snail Mail’s full-length “Valentine” tour last spring.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/05/gallery-snail-mail-rocks-the-troubadour-on-1st-west-coast-tour-date/">https://dailybruin.com/2024/03/05/gallery-snail-mail-rocks-the-troubadour-on-1st-west-coast-tour-date/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/05/gallery-snail-mail-rocks-the-troubadour-on-1st-west-coast-tour-date/">Save to Pocket</a>
+</span>
+
+---
+
+## Live Results: What We Know So Far In LA County District Attorney Race
+
+date: 2024-03-05, updated: 2024-03-06, from: The LAist
+
+Follow the latest results in the race for Los Angeles County District Attorney.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-county-district-attorney">https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-county-district-attorney</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-county-district-attorney">Save to Pocket</a>
+</span>
+
+---
+
+## Live Results: What We Know So Far In The LA City Council Races
+
+date: 2024-03-05, updated: 2024-03-06, from: The LAist
+
+Follow the latest results for the seven Los Angeles City Council seats on the March 5 primary ballot.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-city-council-district2-district4-district6-district8-district10-district12-district14">https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-city-council-district2-district4-district6-district8-district10-district12-district14</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-city-council-district2-district4-district6-district8-district10-district12-district14">Save to Pocket</a>
+</span>
 
 ---
 
 ## I Didn't Get Into My Dream College. What Did I Do Wrong?
 
-date: 2024-03-05, updated: 2024-03-05, from: The LAist
+date: 2024-03-05, updated: 2024-03-06, from: The LAist
 
 College admissions is a black box. What might make the process of acceptance and rejection more transparent?
 
@@ -67,8 +711,9 @@ date: 2024-03-05, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-03-05, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated March 5 at 8:14 p.m.</em>
 Beatboxing Bruins arranged a night showcasing multiple musical modalities.
-The student organization hosted an event in which students from both UCLA and the University of Southern California took to the stage Saturday evening at the Northwest Campus Auditorium in a beatboxing event that featured a wide variety of musical performances.
+The student organization hosted an event Saturday evening at the Northwest Campus Auditorium, in which students from both UCLA and the University of Southern California took to the stage for a beatboxing battle that featured a wide variety of musical performances.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/03/05/what-unites-us-all-ucla-usc-battle-it-out-in-beatboxing-talent-showcase/">https://dailybruin.com/2024/03/05/what-unites-us-all-ucla-usc-battle-it-out-in-beatboxing-talent-showcase/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/05/what-unites-us-all-ucla-usc-battle-it-out-in-beatboxing-talent-showcase/">Save to Pocket</a>

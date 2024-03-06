@@ -1,11 +1,658 @@
 ---
 title: tech likely 2024.10
-updated: 2024-03-05 08:23:45
+updated: 2024-03-06 08:52:57
 ---
 
 # tech likely 2024.10
 
-(date: 2024-03-05 08:23:45)
+(date: 2024-03-06 08:52:57)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-06, from: Dave Winer's Scripting News)
+
+I asked ChatGPT how to <a href="https://chat.openai.com/share/6e5114b0-75e0-4496-b16c-eaffecb5647f">create a WordPress plugin</a>. Such an amazing tool, it climbs over barriers to entry in a single bound. <span class="spOldSchoolEmoji">😉</span>
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/06.html#a164804">http://scripting.com/2024/03/06.html#a164804</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/06.html#a164804">Save to Pocket</a>
+</span>
+
+---
+
+##  A &#8220;hypervaccinated&#8221; man voluntarily received 217 Covid vaccine shots in a 29-month... 
+
+date: 2024-03-06, updated: 2024-03-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044129-a-hypervaccinated-man-vol">https://kottke.org/24/03/0044129-a-hypervaccinated-man-vol</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044129-a-hypervaccinated-man-vol">Save to Pocket</a>
+</span>
+
+---
+
+##  The Most Beautiful Shots in Movie History 
+
+date: 2024-03-06, updated: 2024-03-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/the-most-beautiful-shots-in-movie-history">https://kottke.org/24/03/the-most-beautiful-shots-in-movie-history</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/the-most-beautiful-shots-in-movie-history">Save to Pocket</a>
+</span>
+
+---
+
+## NASA’s Newest Astronauts
+
+date: 2024-03-06, from: NASA breaking news
+
+The most recent astronaut candidates wave to the crowd in this image from their March 5, 2024, graduation ceremony at NASA’s Johnson Space Center in Houston. Nicknamed “The Flies,” this cohort is now eligible for spaceflight assignments to the International Space Station, future orbiting destinations, the Moon, and beyond. Selected for training in 2021, the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasas-newest-astronauts/">https://www.nasa.gov/image-article/nasas-newest-astronauts/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasas-newest-astronauts/">Save to Pocket</a>
+</span>
+
+---
+
+##  The FDA just approved the first over-the-counter continuous glucose monitor. I was... 
+
+date: 2024-03-06, updated: 2024-03-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044128-the-fda-just-approved-the">https://kottke.org/24/03/0044128-the-fda-just-approved-the</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044128-the-fda-just-approved-the">Save to Pocket</a>
+</span>
+
+---
+
+## Back on Earth: NASA’s Orion Capsule Put to the Test Before Crewed Mission
+
+date: 2024-03-06, from: NASA breaking news
+
+The Orion spacecraft that traveled around the Moon and back during 2022’s Artemis I mission completed a different round trip when it recently returned to Ohio for testing. Now known as the Orion Environmental Test Article, the spacecraft is undergoing ground testing at NASA’s Neil Armstrong Test Facility in Sandusky, Ohio. This testing is crucial [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/glenn/back-on-earth-nasas-orion-capsule-put-to-the-test-before-crewed-mission/">https://www.nasa.gov/centers-and-facilities/glenn/back-on-earth-nasas-orion-capsule-put-to-the-test-before-crewed-mission/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/glenn/back-on-earth-nasas-orion-capsule-put-to-the-test-before-crewed-mission/">Save to Pocket</a>
+</span>
+
+---
+
+## What Are Hubble and Webb Observing Right Now? NASA Tool Has the Answer
+
+date: 2024-03-06, from: NASA breaking news
+
+It’s not hard to find out what NASA’s Hubble and James Webb space telescopes have observed in the past. Barely a week goes by without news of a cosmic discovery made possible using images, spectra, and other data captured by NASA’s prolific astronomical observatories.  But what are Hubble and Webb looking at right this minute? A shadowy […]
+
+<span class="feed-item-link">
+<a href="https://science.nasa.gov/missions/hubble/what-are-hubble-and-webb-observing-right-now-nasa-tool-has-the-answer/">https://science.nasa.gov/missions/hubble/what-are-hubble-and-webb-observing-right-now-nasa-tool-has-the-answer/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://science.nasa.gov/missions/hubble/what-are-hubble-and-webb-observing-right-now-nasa-tool-has-the-answer/">Save to Pocket</a>
+</span>
+
+---
+
+## Cellular Self-Destruction May Be Ancient. But Why?
+
+date: 2024-03-06, from: Quanta Magazine
+
+How did cells evolve a process to end their own lives? Recent research suggests that apoptosis, a form of programmed cell death, first arose billions of years ago in bacteria with a primitive sociality.            <p>The post <a href="https://www.quantamagazine.org/cellular-self-destruction-may-be-ancient-but-why-20240306/" target="_blank">Cellular Self-Destruction May Be Ancient. But Why?</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/cellular-self-destruction-may-be-ancient-but-why-20240306/">https://www.quantamagazine.org/cellular-self-destruction-may-be-ancient-but-why-20240306/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/cellular-self-destruction-may-be-ancient-but-why-20240306/">Save to Pocket</a>
+</span>
+
+---
+
+## Windows to add gobs of “AI” to Explorer
+
+date: 2024-03-06, from: OS News
+
+According to my sources, AI Explorer is the blockbuster AI experience that will separate AI PCs from non-AI PCs. It&#8217;s described as an &#8220;advanced Copilot&#8221; with a built-in history/timeline feature that turns everything you do on your computer into a searchable moment using natural language. It works across any app and allows users to search for previously opened conversations, documents, web pages, and images. For example, you could type, &#8220;Find me that list of restaurants Jenna said she liked,&#8221; and Windows can bring up the exact conversation you were having when Jenna mentioned those restaurants. Even vague prompts should work, like &#8220;Find me that thing about dinosaurs,&#8221; Windows will pull up every word, phrase, image, and related topic about dinosaurs that you&#8217;ve previously opened on your computer. The AI Explorer app can also understand context, help jumpstart projects or workflows, and even suggest tasks based on what&#8217;s currently on screen. For example, suppose you&#8217;re looking at an image in an app. In that case, the AI Explorer will automatically show an &#8220;edit image&#8221; button that lets you type out your criteria, such as &#8220;remove this image&#8217;s background using the Photos app.&#8221; ↫ Zac Bowden Windows, for all your &#8220;AI&#8221; and ads.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138724/windows-to-add-gobs-of-ai-to-explorer/">https://www.osnews.com/story/138724/windows-to-add-gobs-of-ai-to-explorer/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138724/windows-to-add-gobs-of-ai-to-explorer/">Save to Pocket</a>
+</span>
+
+---
+
+##  Sphere Refuses To Release U2 Despite Band Fulfilling Terms Of Residency. &#8220;Yes,... 
+
+date: 2024-03-06, updated: 2024-03-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044127-sphere-refuses-to-release">https://kottke.org/24/03/0044127-sphere-refuses-to-release</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044127-sphere-refuses-to-release">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-06, from: Dave Winer's Scripting News)
+
+Screaming into the void, which is what the media we have now is really good at, gets us nowhere.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/06.html#a135043">http://scripting.com/2024/03/06.html#a135043</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/06.html#a135043">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-06, from: Dave Winer's Scripting News)
+
+From the Credit-Where-Credit-Is-Due department, links that are jokes was a practice I first saw in <a href="https://en.wikipedia.org/wiki/HotWired">HotWired</a> in 1994. Here I am thirty years later and I'm still stealing the idea and every time I do, I think of Joey Anuff and Carl Steadman's <a href="https://en.wikipedia.org/wiki/Suck.com">brilliance</a>.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/06.html#a133842">http://scripting.com/2024/03/06.html#a133842</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/06.html#a133842">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-06, from: Dave Winer's Scripting News)
+
+Sidebar -- this also explains the behavior of the owners of the media companies, such as the <a href="https://imgs.scripting.com/2024/03/06/publisherNYT.png">New York Times</a>. He doesn't wear a robe, but otherwise, <a href="https://www.google.com/search?q=%22fear+of+gulag%22">Fear of Gulag</a> probably has a lot to do with what he does.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/06.html#a133543">http://scripting.com/2024/03/06.html#a133543</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/06.html#a133543">Save to Pocket</a>
+</span>
+
+---
+
+## The Chopsticks Kill Me
+
+date: 2024-03-06, updated: 2024-03-06, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/03/06/the-chopsticks-kill-me/">https://onefoottsunami.com/2024/03/06/the-chopsticks-kill-me/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/03/06/the-chopsticks-kill-me/">Save to Pocket</a>
+</span>
+
+---
+
+## LOST LANDSCAPES OF SAN FRANCISCO: The City and Bay in Motion
+
+date: 2024-03-06, from: Internet Archive Blog
+
+LOST LANDSCAPES OF SAN FRANCISCO: The City and Bay in MotionMarch 18 @ 6:30pm &#8211; 9pmInternet Archive, 300 Funston Avenue, San FranciscoBuy Tickets This 18th edition of LOST LANDSCAPES immerses [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.archive.org/2024/03/06/lost-landscapes-of-san-francisco-the-city-and-bay-in-motion/">https://blog.archive.org/2024/03/06/lost-landscapes-of-san-francisco-the-city-and-bay-in-motion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.archive.org/2024/03/06/lost-landscapes-of-san-francisco-the-city-and-bay-in-motion/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-06, from: Dave Winer's Scripting News)
+
+This just in from Occam's News. The states of Colorado, Maine and Illinois have guts and the members of the so-called "Supreme Court" enjoy wearing robes to work and they have nice offices, and don't want to be shipped off to a gulag, or <a href="https://www.google.com/search?q=putin+fell+out+of+window">worse</a>, once Putin's lapdog is back in the White House.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/06.html#a124321">http://scripting.com/2024/03/06.html#a124321</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/06.html#a124321">Save to Pocket</a>
+</span>
+
+---
+
+## Year of Linux on the desktop creeps closer as market share rises a little
+
+date: 2024-03-06, updated: 2024-03-06, from: Liam Proven's articles at the Register
+
+<h4>25% increase in seven months… But it depends how you count it</h4>
+      <p>Statcounter says Linux's share of the desktop moved up from three percent last July to four percent in February, which on the face of it is pretty good.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/06/linux_desktop_share_growing/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/06/linux_desktop_share_growing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/06/linux_desktop_share_growing/">Save to Pocket</a>
+</span>
+
+---
+
+## Fostering collaboration in the Global Clubs Partner network
+
+date: 2024-03-06, from: Raspberry Pi (.org)
+
+<p>We partner with educational organisations around the world to bring coding activities to young people in their regions through Code Club and CoderDojo. Currently involving 52 organisations in 41 countries, this Global Clubs Partner network shares our passion for empowering kids to create with technology. A key aspect of how we foster the Global Clubs&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/collaboration-global-clubs-partner-network/">Fostering collaboration in the Global Clubs Partner network</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.org/blog/collaboration-global-clubs-partner-network/">https://www.raspberrypi.org/blog/collaboration-global-clubs-partner-network/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.org/blog/collaboration-global-clubs-partner-network/">Save to Pocket</a>
+</span>
+
+---
+
+## Supermium drags Google Chrome back in time to Windows XP, Vista, and 7
+
+date: 2024-03-06, updated: 2024-03-06, from: Liam Proven's articles at the Register
+
+<h4>If you really need obsolete OSes, here's a modern(ish) browser</h4>
+      <p>Supermium is a browser based on the Google Chrome 121 codebase that works fine on Windows 7 and even, for the truly desperate, for Vista and XP.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/06/supermium_chrome_for_xp/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/06/supermium_chrome_for_xp/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/06/supermium_chrome_for_xp/">Save to Pocket</a>
+</span>
+
+---
+
+## Oddµ beta program for Campaign Wiki
+
+date: 2024-03-06, from: Alex Schroeder's Blog
+
+<h1>Oddµ beta program for Campaign Wiki</h1>
+
+<p>Campaign Wiki offers a basic wiki for people wanting to keep campaign records for their role-playing games.
+I&rsquo;ve been developing a new software that&rsquo;s now <a href="https://campaignwiki.org/view/index">available for beta testing</a>. That is to say: I think it&rsquo;s ready. I&rsquo;ve been using it for this site for a while, now.</p>
+
+<p>What hasn&rsquo;t been tested is 1. its usability (how well can it be used by people that are mainly interested in their games and not their software) and 2. it&rsquo;s permission setup (the new site no longer allows editing by strangers: you need an account to edit the site).</p>
+
+<p>Well, as soon as the first person signed up, problems started showing up in both areas! 😅</p>
+
+<p>So I&rsquo;ve been busy fixing bugs and writing documentation.</p>
+
+<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-03-06-campaign-wiki-beta">https://alexschroeder.ch/view/2024-03-06-campaign-wiki-beta</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-03-06-campaign-wiki-beta">Save to Pocket</a>
+</span>
+
+---
+
+## This phone charger only works when your eyes are closed
+
+date: 2024-03-06, from: Raspberry Pi News (.com)
+
+<p>Artist Dries Depoorter's installation Recharge will only charge your phone if you are getting some much-needed shut-eye yourself.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/this-phone-charger-only-works-when-your-eyes-are-closed/">This phone charger only works when your eyes are closed</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/this-phone-charger-only-works-when-your-eyes-are-closed/">https://www.raspberrypi.com/news/this-phone-charger-only-works-when-your-eyes-are-closed/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/this-phone-charger-only-works-when-your-eyes-are-closed/">Save to Pocket</a>
+</span>
+
+---
+
+## Pigsty, Battery-included PostgreSQL Distro &amp; Free RDS Alternative, v2.6 released!
+
+date: 2024-03-06, from: PostgreSQL News
+
+<p>The <a href="https://pigsty.io/">Pigsty</a> Community is happy to announce Pigsty <a href="https://github.com/Vonng/pigsty/releases/tag/v2.6.0">2.6.0</a>, which uses PostgreSQL 16.2 as the default kernel and introduces the new ParadeDB &amp; DuckDB FDW extensions to provide extra OLAP workload support. </p>
+<p>We also have a brand new official website available at <a href="https://pigsty.io"><strong>https://pigsty.io</strong></a></p>
+<p>Getting started with the latest v2.6.0 release with:</p>
+<p><code>bash
+curl -fsSL https://get.pigsty.cc/latest</code></p>
+<h2>About Pigsty</h2>
+<p>Pigsty is a Battery-included, local-first PostgreSQL Distribution as an open-sourced RDS alternative.</p>
+<p>Links: <a href="https://pigsty.io/"> Website</a> | <a href="https://github.com/Vonng/pigsty">GitHub</a>  |  <a href="https://demo.pigsty.cc">Demo</a> |  <a href="https://pigsty.io/blog">Blog</a> | <a href="https://pigsty.io/docs/setup/install/">Install</a> | <a href="https://pigsty.io/docs/about/feature/">Feature</a> </p>
+<p>Images: <a href="https://pigsty.io/img/pigsty/banner.en.jpg"><strong>Introduction</strong></a> | <a href="https://pigsty.io/img/pigsty/extension.png"><strong>Extensions</strong></a> | <a href="https://pigsty.io/img/pigsty/ha.png"><strong>High-Availability</strong></a> | <a href="https://pigsty.io/img/pigsty/dashboard.jpg"><strong>Dashboards</strong></a></p>
+<hr>
+<h3><a href="https://pigsty.io/docs/reference/extension/">Extensible Postgres</a></h3>
+<p>PG with <a href="https://pigsty.io/docs/reference/extension/#extension-list">180+</a> powerful <a href="https://pigsty.io/docs/reference/extension/">extensions</a> out of the box: PostGIS, Timescale, Citus, PGVector, AGE, PGML, ParadeDB, Hydra, DuckFDW, GraphQL, ……</p>
+<h3><a href="https://pigsty.io/docs/concept/arch">Reliable Infras</a></h3>
+<p>Create self-healing <a href="https://pigsty.io/docs/concept/ha/">HA</a> <a href="https://pigsty.io/docs/pgsql/">PostgreSQL</a> clusters with pre-configured <a href="https://pigsty.io/docs/concept/pitr/">PITR</a>, built-in <a href="https://pigsty.io/docs/concept/ac/">ACL</a>, &amp; SSL, and secure your infra with local <a href="https://pigsty.io/docs/concept/ca/">CA</a> &amp; best practices.</p>
+<h3><a href="https://demo.pigsty.cc/">Observable Graphics</a></h3>
+<p>Unparalleled monitoring best practices build upon the modern <a href="https://pigsty.io/docs/infra/#prometheus">Prometheus</a> &amp; <a href="https://pigsty.io/docs/infra/#grafana">Grafana</a> stack. Reuse them to monitor existing DBs &amp; cloud <a href="https://pigsty.io/docs/pgsql/monitor/#monitor-rds">RDS</a>. Check our <a href="https://github.com/Vonng/pigsty/wiki/Gallery">Gallery</a> &amp; <a href="https://demo.pigsty.cc">Demo</a></p>
+<h3><a href="https://pigsty.io/docs/concept/svc">Available Service</a></h3>
+<p>Deliver auto-routed, high-performance, pooled, reliable, flexible database <a href="https://pigsty.io/docs/pgsql/svc/#default-service">Services</a> <a href="https://pigsty.io/docs/concept/svc/#access-service">Access</a> via Pgbouncer DNSMasq, Keepalived, vip-manager, and HAProxy.</p>
+<h3><a href="https://pigsty.io/docs/setup/config/">Maintainable Toolbox</a></h3>
+<p><a href="https://pigsty.io/docs/pgsql/config/">Infra as Code</a>, Declarative <a href="https://pigsty.io/docs/setup/config/">API</a> &amp; Idempotent <a href="https://pigsty.io/docs/setup/playbook/">Playbooks</a>, <a href="https://pigsty.io/docs/setup/provision/#vagrant">Vagrant</a> sandbox &amp; <a href="https://pigsty.io/docs/setup/provision/#terraform">Terraform</a> IaaS provisioning specs. Local repo, offline package, delivered without Internet access.</p>
+<h3><a href="https://pigsty.io/docs/about/module/">Composable Modules</a></h3>
+<p><a href="https://pigsty.io/docs/concept/arch/#模块">Modular</a> design, flexible arch with many bonus features. <a href="https://pigsty.io/docs/redis/">Redis</a>, <a href="https://pigsty.io/docs/minio/">MinIO</a>, <a href="https://pigsty.io/docs/etcd/">ETCD</a>, <a href="https://pigsty.io/docs/mongo/">FerretDB</a>, <a href="https://github.com/Vonng/pigsty/tree/master/app/duckdb">DuckDB</a>, <a href="https://github.com/Vonng/pigsty/tree/master/app/supabase">Supabase</a>, and <a href="https://pigsty.io/docs/app/docker/">Docker</a> compose template for software that uses Postgres. </p>
+<h3><a href="https://pigsty.io/docs/setup/install/">Painless Experience</a></h3>
+<p>Easy to use: Download, <a href="https://pigsty.io/docs/setup/install/">Install</a>, and Configure in one command. Built-in configuration templates for different scenarios, auto-tuned params, admin <a href="https://pigsty.io/docs/pgsql/admin/">SOP</a>, and zero-downtime blue-green <a href="https://pigsty.io/docs/pgsql/migration/">migration</a> plans.</p>
+<h3><a href="https://pigsty.io/docs/reference/compatibility/">Compatible Distros</a></h3>
+<p>Run on base OS without containerization support: EL 7, 8, 9 and Rocky, Alma, CentOS, OracleLinux,… and Ubuntu 20.04 / 22.04 and Debian 11 / 12 Support.</p>
+<h3><a href="https://pigsty.io/docs/reference/compare/">Open-Source RDS</a></h3>
+<p>Free software open-sourced under the <a href="https://pigsty.io/docs/about/license/">AGPLv3</a> license, a <a href="https://pigsty.io/docs/reference/compare/">free</a> RDS for PostgreSQL alternative.</p>
+<hr>
+
+<span class="feed-item-link">
+<a href="https://www.postgresql.org/about/news/pigsty-battery-included-postgresql-distro-free-rds-alternative-v26-released-2816/">https://www.postgresql.org/about/news/pigsty-battery-included-postgresql-distro-free-rds-alternative-v26-released-2816/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pigsty-battery-included-postgresql-distro-free-rds-alternative-v26-released-2816/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-05, from: Dave Winer's Scripting News)
+
+I have been a reader of the NYT since I was a small child. I wanted to be a writer like <a href="https://en.wikipedia.org/wiki/Russell_Baker">Russell Baker</a>. I was quoted by <a href="https://en.wikipedia.org/wiki/William_Safire">William Safire</a> in an op-ed. I have done some of the <a href="http://scripting.com/davenet/2002/04/10/newYorkTimesAndUserland.html">most successful work</a> of my career with the NYT. I love journalism <a href="http://scripting.com/2018/06/24/181734.html">like I love the Mets</a>. I don't expect them to do great things every season, but I do hope for a <a href="https://en.wikipedia.org/wiki/1969_New_York_Mets_season">1969</a> or <a href="https://en.wikipedia.org/wiki/1986_New_York_Mets_season">1986</a> every once in a while. These days I don't have much hope for the NYT returning to its former glory. I also wonder if they ever really were that great, that maybe I was just a naive young hero-seeker, growing up in Queens in the 1960s. We <i>all</i> have to work together to dig out of the hole we're in. And that means reporters have to start looking at themselves, and they have to listen to us, the people who care about the job that we need journalism to do, that it isn't doing.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/05.html#a231030">http://scripting.com/2024/03/05.html#a231030</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/05.html#a231030">Save to Pocket</a>
+</span>
+
+---
+
+## tang_nano_20k_c64: Commodore c64 living in a Sipeed Tang Nano 20K, Primer 25K or Mega 138K
+
+date: 2024-03-05, from: Tilde.news
+
+<p><a href="https://tilde.news/s/mddxtk/tang_nano_20k_c64_commodore_c64_living">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://github.com/vossstef/tang_nano_20k_c64">https://github.com/vossstef/tang_nano_20k_c64</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://github.com/vossstef/tang_nano_20k_c64">Save to Pocket</a>
+</span>
+
+---
+
+## More Planets than Stars: Kepler’s Legacy
+
+date: 2024-03-05, from: NASA breaking news
+
+The Kepler mission enabled the discovery of thousands of exoplanets, revealing a deep truth about our place in the cosmos: there are more planets than stars in the Milky Way galaxy. The road to this fundamental change in our understanding of the universe, however, required almost 20 years of persistence before the mission became a [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/history/more-planets-than-stars-keplers-legacy/">https://www.nasa.gov/history/more-planets-than-stars-keplers-legacy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/history/more-planets-than-stars-keplers-legacy/">Save to Pocket</a>
+</span>
+
+---
+
+##  What Do the Different Emoji Hearts Mean? 
+
+date: 2024-03-05, updated: 2024-03-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/what-do-the-different-emoji-hearts-mean">https://kottke.org/24/03/what-do-the-different-emoji-hearts-mean</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/what-do-the-different-emoji-hearts-mean">Save to Pocket</a>
+</span>
+
+---
+
+##  A woman documented her effort to become the first person to complete... 
+
+date: 2024-03-05, updated: 2024-03-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044099-a-woman-documented-her-ef">https://kottke.org/24/03/0044099-a-woman-documented-her-ef</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044099-a-woman-documented-her-ef">Save to Pocket</a>
+</span>
+
+---
+
+## MacPad: Hybrid Mac-iPad Laptop and Tablet
+
+date: 2024-03-05, from: Michael Tsai
+
+Federico Viticci (Hacker News): The concept behind the video was fascinating: if a Vision Pro can provide you with a virtual display for your Mac, can you physically remove the display from a MacBook and continue using it in &#8220;headless&#8221; mode with a Vision Pro or other external monitors? The answer is yes.That video planted [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/03/05/macpad-hybrid-mac-ipad-laptop-and-tablet/">https://mjtsai.com/blog/2024/03/05/macpad-hybrid-mac-ipad-laptop-and-tablet/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/03/05/macpad-hybrid-mac-ipad-laptop-and-tablet/">Save to Pocket</a>
+</span>
+
+---
+
+## Keyboard Control of Messages.app
+
+date: 2024-03-05, from: Michael Tsai
+
+With macOS Catalina, Apple replaced the Messages app, which had been based on iChat, with a version derived from the iOS Messages app. This brought some new features such as effects but dropped others such as conversation archiving. (You can&#8217;t even Select All to copy the text of a conversation.) Messages is often held up [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/03/05/keyboard-control-of-messages-app/">https://mjtsai.com/blog/2024/03/05/keyboard-control-of-messages-app/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/03/05/keyboard-control-of-messages-app/">Save to Pocket</a>
+</span>
+
+---
+
+## Emulation on iPhone
+
+date: 2024-03-05, from: Michael Tsai
+
+Mike Rockwell: Last year I wrote an about retro gaming on iOS. I&#8217;ve had a lot of fun playing games on the platform, especially through emulation. Much of what I wrote last year is still applicable today, but I thought I&#8217;d revisit the topic with a focus on the state of emulation on iOS and [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/03/05/emulation-on-iphone/">https://mjtsai.com/blog/2024/03/05/emulation-on-iphone/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/03/05/emulation-on-iphone/">Save to Pocket</a>
+</span>
+
+---
+
+## Nintendo v. Yuzu
+
+date: 2024-03-05, from: Michael Tsai
+
+Chris Brandrick (Hacker News): Nintendo is taking action against the creators of the popular emulator tool Yuzu.The copyright infringement filing, from Nintendo of America, states that the Yuzu tool (from developer Tropic Haze LLC) illegally circumvents the software encryption and copyright protection systems of Nintendo Switch titles, and thus facilitates piracy and infringes copyright under [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/03/05/nintendo-v-yuzu/">https://mjtsai.com/blog/2024/03/05/nintendo-v-yuzu/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/03/05/nintendo-v-yuzu/">Save to Pocket</a>
+</span>
+
+---
+
+## SWOT Satellite Catches Coastal Flooding During California Storms
+
+date: 2024-03-05, from: NASA breaking news
+
+Operated by NASA and the French space agency, the Surface Water and Ocean Topography mission provides a new view of water on land, at the coast, and in the ocean. A series of atmospheric rivers drenched California in February, with record amounts of rainfall and hurricane-force winds sweeping across parts of the state. At one [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/missions/swot/swot-satellite-catches-coastal-flooding-during-california-storms/">https://www.nasa.gov/missions/swot/swot-satellite-catches-coastal-flooding-during-california-storms/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/missions/swot/swot-satellite-catches-coastal-flooding-during-california-storms/">Save to Pocket</a>
+</span>
+
+---
+
+## The writing is the same
+
+date: 2024-03-05, from: Dave Winer's Scripting News
+
+<p>All these different networks, but it's all the same kind of writing. </p>
+<p>I just pasted a link to a Substack post into a Threads document. </p>
+<p>It would make so much sense if the document itself was readable right there, wouldn't it?</p>
+<p>Is the concept of a "web page" all that valuable?</p>
+<p>Imagine if each note was a node. </p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/05/201301.html?title=theWritingIsTheSame">http://scripting.com/2024/03/05/201301.html?title=theWritingIsTheSame</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/05/201301.html?title=theWritingIsTheSame">Save to Pocket</a>
+</span>
+
+---
+
+## How we learn to art
+
+date: 2024-03-05, from: Dave Winer's Scripting News
+
+<p>People learn to make art by studying previous artists. Would we want it any other way? </p>
+<p>Imagine if everyone had to reinvent everything that anyone had ever invented just to make something new. </p>
+<p>There is a lot of that in software, people won't put in an API so you have to rebuild the whole house just to get a window. </p>
+<p>We can make progress when people don't try to lock up their ideas. </p>
+<p>Individuals live just a short time, we can't do that much in a lifetime, but we are an amazing species, because we leave behind what we learn and we build. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/03/05/selfportrait.png"></center>We learn by studying ourselves.</div></p>
+<p>So why shouldn't our machines be able to learn too? They already can do things vastly more complex than we can. We've invented a huge lever. </p>
+<p>Science fiction tells us that we will lose control and be enslaved by our machines. I love those stories, like the Matrix and Battlestar Galactica. But those are stories, they didn't happen. The future is rarely so predictable. Things interact in unforseeable ways. </p>
+<p>We're at dead-ends in climate and government. We need to make radical changes, and a fresh invention as radically progressive as any that has come before is now in our hands. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/03/05/weWillUseIt.png"></center>We're going to use it.</div></p>
+<p>PS: I wrote the words, ChatGPT did the images. </p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/05/200550.html?title=howWeLearnToArt">http://scripting.com/2024/03/05/200550.html?title=howWeLearnToArt</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/05/200550.html?title=howWeLearnToArt">Save to Pocket</a>
+</span>
+
+---
+
+## La NASA abre plazo de solicitudes para ser astronauta
+
+date: 2024-03-05, from: NASA breaking news
+
+Read this release in English here. La NASA dio la bienvenida a su nueva cohorte de astronautas de la generación Artemis durante una ceremonia celebrada el martes en el Centro Espacial Johnson de la agencia en Houston. Los 10 astronautas graduados ya son elegibles para misiones de vuelo. La agencia también anunció la apertura de la [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/la-nasa-abre-plazo-de-solicitudes-para-ser-astronauta/">https://www.nasa.gov/news-release/la-nasa-abre-plazo-de-solicitudes-para-ser-astronauta/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/la-nasa-abre-plazo-de-solicitudes-para-ser-astronauta/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Opens Astronaut Applications as Newest Class Graduates
+
+date: 2024-03-05, from: NASA breaking news
+
+Lee esta nota de prensa en español aquí. NASA welcomed its newest class of next generation Artemis astronauts in a Tuesday ceremony at the agency’s Johnson Space Center in Houston. The 10 astronaut graduates now are eligible for flight assignments. The agency also announced the opening for the next round of NASA astronaut applications. “Congratulations to [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/news-release/nasa-opens-astronaut-applications-as-newest-class-graduates/">https://www.nasa.gov/news-release/nasa-opens-astronaut-applications-as-newest-class-graduates/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-opens-astronaut-applications-as-newest-class-graduates/">Save to Pocket</a>
+</span>
+
+---
+
+##  What music different birds would listen to. All right, the gull one... 
+
+date: 2024-03-05, updated: 2024-03-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044104-all-right-the-gull-one">https://kottke.org/24/03/0044104-all-right-the-gull-one</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044104-all-right-the-gull-one">Save to Pocket</a>
+</span>
+
+---
+
+## The NASA Space Technology Art Challenge: Imagine Tomorrow
+
+date: 2024-03-05, from: NASA breaking news
+
+The&#160;NASA Innovative Advanced Concepts (NIAC) Program&#160;wants you to show the world the future of space technology. The NIAC Program is looking for posters that help people better understand these visionary aerospace concepts that might be used in future NASA missions. If you can create an engaging poster that depicts one or more of the innovative [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-nasa-space-technology-art-challenge-imagine-tomorrow/">https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-nasa-space-technology-art-challenge-imagine-tomorrow/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/directorates/stmd/stmd-prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/the-nasa-space-technology-art-challenge-imagine-tomorrow/">Save to Pocket</a>
+</span>
+
+---
+
+##  Visual Effects Oscar Nominees Go In-Depth On Their Work 
+
+date: 2024-03-05, updated: 2024-03-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/visual-effects-oscar-nominees-go-in-depth-on-their-work">https://kottke.org/24/03/visual-effects-oscar-nominees-go-in-depth-on-their-work</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/visual-effects-oscar-nominees-go-in-depth-on-their-work">Save to Pocket</a>
+</span>
+
+---
+
+## With Midwest expansion, the Pivot Fund tries to put grassroots news sources on philanthropy’s radar
+
+date: 2024-03-05, from: Nieman Journalism Lab
+
+A couple of weeks ago, Press Forward announced 11 new local chapters among the latest developments in the growing coalition&#8217;s movement to invest at least $500 million into local news over five years, and recruit more funders to that cause. Leaders of that coalition, which now comprises more than 40 funders, also shared a Guide...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/03/with-midwest-expansion-the-pivot-fund-tries-to-put-grassroots-news-on-philanthropys-radar/">https://www.niemanlab.org/2024/03/with-midwest-expansion-the-pivot-fund-tries-to-put-grassroots-news-on-philanthropys-radar/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/03/with-midwest-expansion-the-pivot-fund-tries-to-put-grassroots-news-on-philanthropys-radar/">Save to Pocket</a>
+</span>
+
+---
+
+## Jennifer Krottinger: Designing Ways to Serve
+
+date: 2024-03-05, from: NASA breaking news
+
+At NASA’s Goddard Institute for Space Studies in New York City, Jennifer Krottinger pairs her artistic vision with a passion for public service. Name: Jennifer KrottingerTitle: Business ManagerFormal Job Classification: Business Management SpecialistOrganization: Goddard Institute for Space Studies, Science and Exploration Directorate (Code 611) What do you do and what is most interesting about your [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/people-of-nasa/goddard-people/jennifer-krottinger-designing-ways-to-serve/">https://www.nasa.gov/people-of-nasa/goddard-people/jennifer-krottinger-designing-ways-to-serve/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/people-of-nasa/goddard-people/jennifer-krottinger-designing-ways-to-serve/">Save to Pocket</a>
+</span>
+
+---
+
+##  &#8220;The first over-the-counter birth control pill will be available in U.S. stores... 
+
+date: 2024-03-05, updated: 2024-03-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044122-the-first-over-the-counte">https://kottke.org/24/03/0044122-the-first-over-the-counte</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044122-the-first-over-the-counte">Save to Pocket</a>
+</span>
+
+---
+
+## Microsoft kills Windows Subsystem for Android
+
+date: 2024-03-05, from: OS News
+
+Well, that was a short run. Announced with much fanfare in 2021, Microsoft has announced it&#8217;s already killing Windows Subsystem for Android, Microsoft&#8217;s solution to run Android applications on Windows 11. Microsoft is ending support for the Windows Subsystem for Android™️ (WSA). As a result, the Amazon Appstore on Windows and all applications and games dependent on WSA will no longer be supported beginning March 5, 2025. Until then, technical support will remain available to customers. Customers that have installed the Amazon Appstore or Android apps prior to March 5, 2024, will continue to have access to those apps through the deprecation date of March 5, 2025. Please reach out to our support team for further questions at support.microsoft.com. We are grateful for the support of our developer community and remain committed to listening to feedback as we evolve experiences. ↫ Microsoft&#8217;s Learn website Whenever Microsoft offers a way or an API to run and/or develop applications for Windows, and it isn&#8217;t Win32, you can be certain they&#8217;re going to kill it within a few years.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138718/microsoft-kills-windows-subsystem-for-android/">https://www.osnews.com/story/138718/microsoft-kills-windows-subsystem-for-android/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138718/microsoft-kills-windows-subsystem-for-android/">Save to Pocket</a>
+</span>
+
+---
+
+##  Kate Wagner (from McMansion Hell) was sent to an F1 race by... 
+
+date: 2024-03-05, updated: 2024-03-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044123-kate-wagner-from-mcmansio">https://kottke.org/24/03/0044123-kate-wagner-from-mcmansio</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044123-kate-wagner-from-mcmansio">Save to Pocket</a>
+</span>
+
+---
+
+## Growing Up Asian – Hall and Chan Family Photos
+
+date: 2024-03-05, from: Internet Archive Blog
+
+Please come join us as the Internet Archive partners with the Skyline College Art Gallery for the viewing of “Portraits of Growing Up Asian,” a photo exhibition that tells a [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.archive.org/2024/03/05/growing-up-asian-hall-and-chan-family-photos/">https://blog.archive.org/2024/03/05/growing-up-asian-hall-and-chan-family-photos/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.archive.org/2024/03/05/growing-up-asian-hall-and-chan-family-photos/">Save to Pocket</a>
+</span>
+
+---
+
+## Screen shot
+
+date: 2024-03-05, from: Dave Winer's Scripting News
+
+<p>A new <a href="http://scripting.com/2024/03/05.html#a165412">version</a> of news.scripting.com went up today.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/03/05/newsScripting.png"></center>I like to save a screen shot when a new version of something goes up. </div></p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/05/171354.html?title=screenShot">http://scripting.com/2024/03/05/171354.html?title=screenShot</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/05/171354.html?title=screenShot">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-05, from: Dave Winer's Scripting News)
+
+BTW, in case you're wondering where "still diggin!" came from -- here's the deal. I have a feeling that when I develop software it's a lot like digging a hole and then starting another, and another and using the dirt from a new hole to fill in the old holes. At any time there's more or less a constant amount of dirt and holes. It seems futile at first look, and second looks and third looks, but we do eventually get somewhere, or so we hope, maybe. It's like "even worse than it appears." Still diggin is meant to say we know it's really futile, you don't have to point that out, we never actually go anywhere or do anything, but we feel somehow that next time it really will work. It's a Vonnegut-like or Deadhead-like philosophy, which is also very Postel-like. In other words, realistic.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/05.html#a170530">http://scripting.com/2024/03/05.html#a170530</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/05.html#a170530">Save to Pocket</a>
+</span>
+
+---
+
+## Digital archives: a time machine for the web
+
+date: 2024-03-05, from: Internet Archive Blog
+
+This post was originally published in a newsletter by Project Liberty, February 20, 2024. Image by Project Liberty. In the summer of 2023, the New York Times ran an article [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://blog.archive.org/2024/03/05/digital-archives-a-time-machine-for-the-web/">https://blog.archive.org/2024/03/05/digital-archives-a-time-machine-for-the-web/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.archive.org/2024/03/05/digital-archives-a-time-machine-for-the-web/">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-05, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2022/09/28/rss.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The new version of <a href="https://news.scripting.com/">news.scripting.com</a> is up. It's been a long time coming. It looks a lot like the previous version. But it's faster. And if you poke around you'll find some new stuff. There's an <a href="https://this.how/newsScriptingCom/">About page</a>, linked into the info icon at the top of the page. Basically the dust is settling on the big work we did last year, and now things are starting to feel more like products. I don't doubt there will be problems, as they say, still diggin! 😄
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/05.html#a165412">http://scripting.com/2024/03/05.html#a165412</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/05.html#a165412">Save to Pocket</a>
+</span>
+
+---
+
+##  Based on your feedback & bug reports, I&#8217;ve made some changes to... 
+
+date: 2024-03-05, updated: 2024-03-05, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044120-based-on-your-feedback">https://kottke.org/24/03/0044120-based-on-your-feedback</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044120-based-on-your-feedback">Save to Pocket</a>
+</span>
 
 ---
 
@@ -119,7 +766,8 @@ Mathematicians are working to fully explain unusual behaviors uncovered using ar
 
 date: 2024-03-05, from: Manu - I write blog
 
-<p>I was sitting there, minding my own damn business, surfing the web, clicking around, enjoying my time, when I stumbled on <a href="https://www.theatlantic.com/technology/archive/2024/03/email-nightmare-just-give-up/677615/">this article</a>, by Ian Bogost on The Atlantic, that is so painfully stupid that I had to take the time and comment on it. Because, as you know, I love emails.</p>
+
+                <p>I was sitting there, minding my own damn business, surfing the web, clicking around, enjoying my time, when I stumbled on <a href="https://www.theatlantic.com/technology/archive/2024/03/email-nightmare-just-give-up/677615/">this article</a>, by Ian Bogost on The Atlantic, that is so painfully stupid that I had to take the time and comment on it. Because, as you know, I love emails.</p>
 <blockquote>
 <p>Finally, in step five, you must evangelize your mission. Email is a public-health concern. Gently correct your mother when she tries to correspond. Reprimand your email-happy colleagues. Punish email abuse by withholding your replies. Or, more gently, darken someone’s doorway. In short, you must show the sort of leadership that will encourage others to forsake their email too. We’ll never stop the rain of email, no matter what we do. But if we work together, maybe we can build a kind of shelter.</p>
 </blockquote>
@@ -129,7 +777,16 @@ date: 2024-03-05, from: Manu - I write blog
 </blockquote>
 <p>Ian, let me give you some shocking advice: unlike your physical address, it’s not hard to get an extra email address. Hell, you can get even more than one. You can go one step further and get a disposable one! Shocking, I know!</p>
 <p>In all seriousness, if in 2024 you’re using one single email address for everything that’s a you problem, not an email problem. Also, Ian, let me ask you a question: what’s the alternative here? Do we all move to Slack/Discord/Teams? Do we all move everything to DMs? Do you think that’s a better solution?</p>
-<p>There’s a reason why emails are still here. They’re still here because they work. Is email perfect? No. Is there a better alternative? Also no.</p>
+<p>There’s a reason why emails are still here. They’re still here because they work. Is email perfect? No. Is there a better alternative? Also no.</p>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+            
 
 <span class="feed-item-link">
 <a href="https://manuelmoreale.com/@/page/Fa3eekkeO3dq1s2W">https://manuelmoreale.com/@/page/Fa3eekkeO3dq1s2W</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/Fa3eekkeO3dq1s2W">Save to Pocket</a>
@@ -163,7 +820,7 @@ date: 2024-03-05, updated: 2024-03-05, from: One Foot Tsunami
 
 **@Dave Winer's Scripting News** (date: 2024-03-05, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://imgs.scripting.com/2023/08/01/mrmet.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://www.threads.net/@emilyreesnunn/post/C4GDOWGr9T6">Emily Nunn</a>: "I don’t understand how all the outcry about their bizarre and defensive political coverage and the scary effect it can have on the election is not a major investigative story being written by other journalists. Not some fancy media critic opinion or an editorial. A real report, taking defensiveness out of it and applying accountability." A regular reader of this blog will know how totally I agree with this. But oddly when I agreed with her, perhaps a little to strongly for her liking, she accused me of being a MAGA. It's so totally not true, and very typical of reporters, to use an ad hominem to not have to listen to a non-journalist opinion about journalism. I have been a reader of the NYT since I was a small child. I wanted to be a writer like <a href="https://en.wikipedia.org/wiki/Russell_Baker">Russell Baker</a>. I was quoted by <a href="https://en.wikipedia.org/wiki/William_Safire">William Safire</a> in an op-ed. I have done some of the <a href="http://scripting.com/davenet/2002/04/10/newYorkTimesAndUserland.html">most successful work</a> of my career with the NYT. I love journalism <a href="http://scripting.com/2018/06/24/181734.html">like I love the Mets</a>. I don't expect them to do great things every season, but I do hope for a <a href="https://en.wikipedia.org/wiki/1969_New_York_Mets_season">1969</a> or <a href="https://en.wikipedia.org/wiki/1986_New_York_Mets_season">1986</a> every once in a while. These days I don't see much hope for the NYT returning to its former glory. I also wonder if they ever really were that great, that maybe I was just a naive young hero-seeker, growing up in Queens in the 1960s. We <i>all</i> have to work together to dig out of the hole we're in. And that means reporters have to start looking at themselves, and they have to listen to us, the people who care about the job that we need journalism to do, that it isn't doing.
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/08/01/mrmet.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://www.threads.net/@emilyreesnunn/post/C4GDOWGr9T6">Emily Nunn</a>: "I don’t understand how all the outcry about their bizarre and defensive political coverage and the scary effect it can have on the election is not a major investigative story being written by other journalists. Not some fancy media critic opinion or an editorial. A real report, taking defensiveness out of it and applying accountability." A regular reader of this blog will know how totally I agree with this. But oddly when I agreed with her, perhaps a little to strongly for her liking, she accused me of being a MAGA. It's so totally not true, and typical of reporters, to use an ad hominem to not have to listen to a non-journalist opinion about journalism.
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2024/03/05.html#a135148">http://scripting.com/2024/03/05.html#a135148</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/05.html#a135148">Save to Pocket</a>
@@ -468,18 +1125,6 @@ date: 2024-03-04, updated: 2024-03-04, from: Jason Kottke blog
 
 ---
 
-## Report for America is “phasing out” partnerships with hedge fund-owned publications
-
-date: 2024-03-04, from: Nieman Journalism Lab
-
-Since Report for America launched in 2017, the nonprofit has placed more than 600 reporters in local newsrooms around the country, including for-profit and nonprofit newsrooms alike. The hundreds of newsrooms the organization has placed those reporters in vary in geography, size, business model, and funding sources. And they&#8217;ve included, somewhat controversially, chains owned by hedge...
-
-<span class="feed-item-link">
-<a href="https://www.niemanlab.org/2024/03/report-for-america-is-phasing-out-partnerships-with-hedge-fund-owned-publications/">https://www.niemanlab.org/2024/03/report-for-america-is-phasing-out-partnerships-with-hedge-fund-owned-publications/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/03/report-for-america-is-phasing-out-partnerships-with-hedge-fund-owned-publications/">Save to Pocket</a>
-</span>
-
----
-
 ## Two talks for the price of one* at WROCC on 6th March
 
 date: 2024-03-04, from: RiscOS Story
@@ -500,6 +1145,18 @@ March 4, 2024 MEDIA ADVISORY: J24-005 The director of NASA’s Johnson Space Cen
 
 <span class="feed-item-link">
 <a href="https://www.nasa.gov/news-release/nasa-johnson-director-to-discuss-exploration-park-facility/">https://www.nasa.gov/news-release/nasa-johnson-director-to-discuss-exploration-park-facility/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/news-release/nasa-johnson-director-to-discuss-exploration-park-facility/">Save to Pocket</a>
+</span>
+
+---
+
+## Report for America is “phasing out” partnerships with hedge fund-owned publications
+
+date: 2024-03-04, from: Nieman Journalism Lab
+
+Since Report for America launched in 2017, the nonprofit has placed more than 600 reporters in local newsrooms around the country, including for-profit and nonprofit newsrooms alike. The hundreds of newsrooms the organization has placed those reporters in vary in geography, size, business model, and funding sources. And they&#8217;ve included, somewhat controversially, chains owned by hedge...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/03/report-for-america-is-phasing-out-partnerships-with-hedge-fund-owned-publications/">https://www.niemanlab.org/2024/03/report-for-america-is-phasing-out-partnerships-with-hedge-fund-owned-publications/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/03/report-for-america-is-phasing-out-partnerships-with-hedge-fund-owned-publications/">Save to Pocket</a>
 </span>
 
 ---
@@ -641,7 +1298,8 @@ date: 2024-03-04, from: Care
 
 date: 2024-03-04, from: Manu - I write blog
 
-<p>This is my entry for <a href="https://blog.basementcommunity.com/accessibility-in-the-personal-web/">this month’s IndieWeb Carnival</a> hosted by <a href="https://blog.basementcommunity.com">Orchids</a> on the topic of Accessibility in the Small Web</p>
+
+                <p>This is my entry for <a href="https://blog.basementcommunity.com/accessibility-in-the-personal-web/">this month’s IndieWeb Carnival</a> hosted by <a href="https://blog.basementcommunity.com">Orchids</a> on the topic of Accessibility in the Small Web</p>
 <hr />
 <p>I started making websites back in 2010. That’s 14 years. I entered the web dev world back when the frontend scene was starting to become exciting thanks to CSS3 and HTML5. Shadows, rounded corners, custom typefaces! Everything was exciting. Also, new tags! I remember spending time reading about <code>&lt;section&gt;</code>, <code>&lt;article&gt;</code>, <code>&lt;header&gt;</code>, and all the new things at my disposal. But I never thought about spending time learning about what all this meant in terms of accessibility.</p>
 <p>I worked solo my entire career. I still do. I have to wear a thousand different hats on a daily basis and keeping up with the web as a whole is a full-time job. And it’s only recently that I started to realize how much I neglected accessibility when it comes to my sites.</p>
@@ -649,7 +1307,16 @@ date: 2024-03-04, from: Manu - I write blog
 <p>These days I find myself hating on the “modern web”. I can’t stand sites that don’t load if I block some JS. I can’t stand sits that highjack my scroll. I hate that everything is getting more and more performative and less functional.</p>
 <p>And in my retreat towards a simpler and more streamlined web, I’m rediscovering the pleasure of making sites that are simple and more accessible.</p>
 <p>Accessibility becomes easier when sites are simpler. Still, I think I can and should do better which is why I have my eyes set on <a href="https://www.sarasoueidan.com">Sara Soueidan</a>’s <a href="https://practical-accessibility.today">Practical Accessibility</a> course (only waiting to have 400$ to invest).</p>
-<p>It’s a shame that so much of the web has become an unusable mess. At the same time though, it’s refreshing to see that a good chunk of the small web seems to be heading in the right direction: simpler websites, less complicated and more focused layouts.</p>
+<p>It’s a shame that so much of the web has become an unusable mess. At the same time though, it’s refreshing to see that a good chunk of the small web seems to be heading in the right direction: simpler websites, less complicated and more focused layouts.</p>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+            
 
 <span class="feed-item-link">
 <a href="https://manuelmoreale.com/@/page/U4IAIzpTujWFPV2r">https://manuelmoreale.com/@/page/U4IAIzpTujWFPV2r</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/U4IAIzpTujWFPV2r">Save to Pocket</a>
@@ -1264,7 +1931,8 @@ date: 2024-03-03, from: Tilde.news
 
 date: 2024-03-03, from: Manu - I write blog
 
-<p>February has come to an end and with it also ended my experience hosting the 9th edition of the IndieWeb Carnival. To be honest with you, I didn’t know what to expect going into this. Foreverliketh.is—who was the host for the month of January—emailed me one day asking me if I wanted to host one of the upcoming months because the carnival was running short on hosts and I obviously accepted.</p>
+
+                <p>February has come to an end and with it also ended my experience hosting the 9th edition of the IndieWeb Carnival. To be honest with you, I didn’t know what to expect going into this. Foreverliketh.is—who was the host for the month of January—emailed me one day asking me if I wanted to host one of the upcoming months because the carnival was running short on hosts and I obviously accepted.</p>
 <p>His month on the topic of <a href="https://foreverliketh.is/blog/indieweb-carnival-january-2024-positive-internalization/">Positive Internalization </a> saw <a href="https://foreverliketh.is/blog/indieweb-carnival-january-2024-positive-internalization/">13 people contributing</a> and so I said to myself “If 10 to 15 people decide to participate in February I’ll consider that a win”.</p>
 <p>Well, looks like we got there. I have 44 links in front of me so this is going to be quite the roundup but before we jump into that let me first say thank you to all the people who decided to take the time to participate. You’re all a bunch of awesome people. Also, the Carnival continues and this month’s topic is going to be <a href="https://blog.basementcommunity.com/accessibility-in-the-personal-web/">Accessibility in the Small Web</a>. Look forward to reading your posts there. Now it’s time to dive into the submissions.</p>
 <h2>Quick overview</h2>
@@ -1386,8 +2054,8 @@ In the fourth, it is here to replace us.</p>
 <p>In the end, looking back at all the time we spent, I realized I just enjoyed your company, but I actually never knew you at all.</p>
 </blockquote>
 <p>Thank you for writing this Andrei. It felt oddly therapeutic reading this story.</p>
-<h3>On digital relationship</h3>
-<p>By <a href="https://mattiacompagnucci.com/on-digital-relationship">Mattia Compagnucci</a></p>
+<h3>On digital relationships</h3>
+<p>By <a href="https://mattiacompagnucci.com/on-digital-relationships">Mattia Compagnucci</a></p>
 <blockquote>
 <p>Belonging and connecting are battles between in-person and screen time. I struggle to balance digital and in-person interaction; as I push myself to live in the present, connecting with someone digitally lets me sometimes feel I’m not since I’m somewhere else with my mind.</p>
 </blockquote>
@@ -1549,7 +2217,16 @@ In the fourth, it is here to replace us.</p>
 </blockquote>
 <p>This was submitted by Nutchanon Wetchasit and the post was not written for the Carnival but I loved the fence metaphor and that’s why I decided to include it. And you also might not be surprised to know that I agree with the content of the post. Because you all know that I love emails.</p>
 <hr />
-<p>10.34 am: we got to the end! Thank you all again for taking the time to write and submit content for the Carnival. Running it was a blast and I loved reading all your entries. I look forward to reading your entries for this <a href="https://blog.basementcommunity.com/accessibility-in-the-personal-web/">month’s carnival</a>!</p>
+<p>10.34 am: we got to the end! Thank you all again for taking the time to write and submit content for the Carnival. Running it was a blast and I loved reading all your entries. I look forward to reading your entries for this <a href="https://blog.basementcommunity.com/accessibility-in-the-personal-web/">month’s carnival</a>!</p>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+            
 
 <span class="feed-item-link">
 <a href="https://manuelmoreale.com/@/page/5EGWc9ceBwynto77">https://manuelmoreale.com/@/page/5EGWc9ceBwynto77</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/5EGWc9ceBwynto77">Save to Pocket</a>

@@ -1,11 +1,167 @@
 ---
 title: health 2024.10
-updated: 2024-03-05 08:23:45
+updated: 2024-03-06 08:52:57
 ---
 
 # health 2024.10
 
-(date: 2024-03-05 08:23:45)
+(date: 2024-03-06 08:52:57)
+
+---
+
+## PEX1 is essential for glycosome biogenesis and trypanosomatid parasite survival
+
+date: 2024-03-06, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Trypanosomatid parasites are kinetoplastid protists that compartmentalize glycolytic enzymes in unique peroxisome-related organelles called glycosomes. The heterohexameric AAA-ATPase complex of PEX1-PEX6 is anchored to the peroxisomal membrane and functions in the export of matrix protein import receptor PEX5 from the peroxisomal membrane. Defects in PEX1, PEX6 or their membrane anchor causes dysfunction of peroxisomal matrix protein import cycle. In this study, we functionally characterized a putative <italic>Trypanosoma</italic> PEX1 orthologue by bioinformatic and experimental approaches and show that it is a true PEX1 orthologue. Using yeast two-hybrid analysis, we demonstrate that <italic>Tb</italic>PEX1 can bind to <italic>Tb</italic>PEX6. Endogenously tagged <italic>Tb</italic>PEX1 localizes to glycosomes in the <italic>T. brucei</italic> parasites. Depletion of PEX1 gene expression by RNA interference causes lethality to the bloodstream form trypanosomes, due to a partial mislocalization of glycosomal enzymes to the cytosol and ATP depletion. <italic>Tb</italic>PEX1 RNAi leads to a selective proteasomal degradation of both matrix protein import receptors <italic>Tb</italic>PEX5 and <italic>Tb</italic>PEX7. Unlike in yeast, PEX1 depletion did not result in an accumulation of ubiquitinated <italic>Tb</italic>PEX5 in trypanosomes. As PEX1 turned out to be essential for trypanosomatid parasites, it could provide a suitable drug target for parasitic diseases. The results also suggest that these parasites possess a highly efficient quality control mechanism that exports the import receptors from glycosomes to the cytosol in the absence of a functional <italic>Tb</italic>PEX1-<italic>Tb</italic>PEX6 complex.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1274506">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1274506</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1274506">Save to Pocket</a>
+</span>
+
+---
+
+## The cutaneous beta human papillomavirus type 8 E6 protein induces CCL2 through the CEBPα/miR-203/p63 pathway to support an inflammatory microenvironment in epidermodysplasia verruciformis skin lesions
+
+date: 2024-03-06, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Human papillomavirus type 8 (HPV8), a cutaneous genus beta HPV type, has co-carcinogenic potential at sun-exposed sites in patients suffering from the inherited skin disease epidermodysplasia verruciformis (EV). We had previously shown that Langerhans cells responsible for epithelial immunosurveillance were strongly reduced at infected sites and that the HPV8 E7 protein interferes with the CCAAT/enhancer-binding protein (C/EBP)β to suppress the Langerhans cell chemokine CCL20. At the same time, however, we observed that EV lesions are heavily infiltrated with inflammatory immune cells, which is similar to the situation in HPV8 E6 transgenic mice. To identify critical inflammatory factors, we used a broad multiplex approach and found that the monocyte attracting chemokine CCL2 was significantly and strongly induced by HPV8 E6 but not E7-expressing HaCaT cells, which were used as a model for UV-damaged skin keratinocytes. Conditioned media from HPV8 E6-expressing keratinocytes enhanced CCL2-receptor (CCR2)-dependent monocyte recruitment <italic>in vitro</italic>, and macrophages predominated in the stroma but were also detected in the epidermal compartment of EV lesions <italic>in vivo</italic>. CCL2 induction by HPV8 E6 was even stronger than stimulation with the proinflammatory cytokine TNF-α, and both HPV8 E6 and TNF-α resulted in substantial suppression of the transcription factor C/EBPα. Using RNAi-mediated knockdown and overexpression approaches, we demonstrated a mechanistic role of the recently identified C/EBPα/miR-203/p63 pathway for HPV8 E6-mediated CCL2 induction at protein and transcriptional levels. Epithelial co-expression of p63 and CCL2 was confirmed in HPV8 E6-expressing organotypic air–liquid interface cultures and in lesional EV epidermis <italic>in vivo</italic>. In summary, our data demonstrate that HPV8 oncoproteins actively deregulate epidermal immune homeostasis through modulation of C/EBP factor-dependent pathways. While HPV8 E7 suppresses immunosurveillance required for viral persistence, the present study provides evidence that E6 involves the stemness-promoting factor p63 to support an inflammatory microenvironment that may fuel carcinogenesis in EV lesions.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1336492">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1336492</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1336492">Save to Pocket</a>
+</span>
+
+---
+
+## Exploring the role of antioxidants in sepsis-associated oxidative stress: a comprehensive review
+
+date: 2024-03-06, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Sepsis is a potentially fatal condition characterized by organ dysfunction caused by an imbalanced immune response to infection. Although an increased inflammatory response significantly contributes to the pathogenesis of sepsis, several molecular mechanisms underlying the progression of sepsis are associated with increased cellular reactive oxygen species (ROS) generation and exhausted antioxidant pathways. This review article provides a comprehensive overview of the involvement of ROS in the pathophysiology of sepsis and the potential application of antioxidants with antimicrobial properties as an adjunct to primary therapies (fluid and antibiotic therapies) against sepsis. This article delves into the advantages and disadvantages associated with the utilization of antioxidants in the therapeutic approach to sepsis, which has been explored in a variety of animal models and clinical trials. While the application of antioxidants has been suggested as a potential therapy to suppress the immune response in cases where an intensified inflammatory reaction occurs, the use of multiple antioxidant agents can be beneficial as they can act additively or synergistically on different pathways, thereby enhancing the antioxidant defense. Furthermore, the utilization of immunoadjuvant therapy, specifically in septic patients displaying immunosuppressive tendencies, represents a promising advancement in sepsis therapy.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1348713">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1348713</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1348713">Save to Pocket</a>
+</span>
+
+---
+
+## Validating the inactivation of viral pathogens with a focus on SARS-CoV-2 to safely transfer samples from high-containment laboratories
+
+date: 2024-03-06, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p>Pathogen leak from a high-containment laboratory seriously threatens human safety, animal welfare, and environmental security. Transportation of pathogens from a higher (BSL4 or BSL3) to a lower (BSL2) containment laboratory for downstream experimentation requires complete pathogen inactivation. Validation of pathogen inactivation is necessary to ensure safety during transportation. This study established a validation strategy for virus inactivation. </p></sec><sec><title>Methods</title><p>SARS-CoV-2 wild type, delta, and omicron variants underwent heat treatment at 95°C for 10 minutes using either a hot water bath or a thermocycler. To validate the inactivation process, heat-treated viruses, and untreated control samples were incubated with A549-hACE2 and Vero E6-TMPRSS2-T2A-ACE2 cells. The cells were monitored for up to 72 hours for any cytopathic effects, visually and under a microscope, and for virus genome replication via RT-qPCR. The quality of post-treated samples was assessed for suitability in downstream molecular testing applications. </p></sec><sec><title>Results</title><p>Heat treatment at 95°C for 10 minutes effectively inactivated SARS-CoV-2 variants. The absence of cytopathic effects, coupled with the inability of virus genome replication, validated the efficacy of the inactivation process. Furthermore, the heat-treated samples proved to be qualified for COVID-19 antigen testing, RT-qPCR, and whole-genome sequencing. </p></sec><sec><title>Discussion</title><p>By ensuring the safety of sample transportation for downstream experimentation, this validation approach enhances biosecurity measures. Considerations for potential limitations, comparisons with existing inactivation methods, and broader implications of the findings are discussed.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1292467">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1292467</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1292467">Save to Pocket</a>
+</span>
+
+---
+
+## Unveiling the antibacterial mechanism of resveratrol against Aeromonas hydrophila through proteomics analysis
+
+date: 2024-03-06, from: Frontiers in Cellular and Infection Microbiology
+
+<p>This investigation delves into elucidating the mechanism by which resveratrol (Res), a natural polyterpenoid renowned for its antimicrobial properties, exerts its effects on <italic>Aeromonas hydrophila</italic>, a ubiquitous waterborne pathogen. Our findings underscore the dose-dependent manifestation of resveratrol in exhibiting antibacterial and antibiofilm formation activities against <italic>A. hydrophila</italic>. Employing a Data-independent acquisition (DIA) based quantitative proteomics methodology, we systematically compared differentially expressed proteins in <italic>A. hydrophila</italic> subjected to varying concentrations of Res. Subsequent bioinformatics analyses revealed key proteins and pathways pivotal in resveratrol’s antimicrobial action, encompassing oxidative stress, energy metabolism, and cell membrane integrity. Validation of the proteomics outcomes was meticulously conducted using the qPCR method at the mRNA level. Dynamic trend analysis unveiled alterations in biological processes, notably the correlation between the cell division-related protein ZapC and resveratrol content. Furthermore, scanning electron microscopy corroborated a significant elongation of <italic>A. hydrophila</italic> cells, affirming resveratrol’s capability to inhibit cell division. In concert, resveratrol emerges as a participant in the cell membrane integrity pathway, biofilm formation, and potentially, the regulation of genes associated with cell division, resulting in morphological elongation. These revelations position resveratrol as a promising natural alternative to conventional antibiotics for treating <italic>A. hydrophila</italic> infections.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1378094">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1378094</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1378094">Save to Pocket</a>
+</span>
+
+---
+
+## A comprehensive review of monkeypox virus and mpox characteristics
+
+date: 2024-03-06, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Monkeypox virus (MPXV) is the etiological agent of monkeypox (mpox), a zoonotic disease. MPXV is endemic in the forested regions of West and Central Africa, but the virus has recently spread globally, causing outbreaks in multiple non-endemic countries. In this paper, we review the characteristics of the virus, including its ecology, genomics, infection biology, and evolution. We estimate by phylogenomic molecular clock that the B.1 lineage responsible for the 2022 mpox outbreaks has been in circulation since 2016. We interrogate the host-virus interactions that modulate the virus infection biology, signal transduction, pathogenesis, and host immune responses. We highlight the changing pathophysiology and epidemiology of MPXV and summarize recent advances in the prevention and treatment of mpox. In addition, this review identifies knowledge gaps with respect to the virus and the disease, suggests future research directions to address the knowledge gaps, and proposes a One Health approach as an effective strategy to prevent current and future epidemics of mpox.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1360586">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1360586</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1360586">Save to Pocket</a>
+</span>
+
+---
+
+## Signatures of disease outcome severity in the intestinal fungal and bacterial microbiome of COVID-19 patients
+
+date: 2024-03-06, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>COVID-19, whose causative pathogen is the Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2), was declared a pandemic in March 2020. The gastrointestinal tract is one of the targets of this virus, and mounting evidence suggests that gastrointestinal symptoms may contribute to disease severity. The gut–lung axis is involved in the immune response to SARS-CoV-2; therefore, we investigated whether COVID-19 patients’ bacterial and fungal gut microbiome composition was linked to disease clinical outcome.</p></sec><sec><title>Methods</title><p>In May 2020, we collected stool samples and patient records from 24 hospitalized patients with laboratory-confirmed SARS-CoV-2 infection. Fungal and bacterial gut microbiome was characterized by amplicon sequencing on the MiSeq, Illumina’s integrated next generation sequencing instrument. A cohort of 201 age- and sex-matched healthy volunteers from the project PRJNA661289 was used as a control group for the bacterial gut microbiota analysis.</p></sec><sec><title>Results</title><p>We observed that female COVID-19 patients had a lower gut bacterial microbiota richness than male patients, which was consistent with a different latency in hospital admittance time between the two groups. Both sexes in the COVID-19 patient study group displayed multiple positive associations with opportunistic bacterial pathogens such as <italic>Enterococcus</italic>, <italic>Streptococcus</italic>, and <italic>Actinomyces</italic>. Of note, the <italic>Candida</italic> genus dominated the gut mycobiota of COVID-19 patients, and adult patients showed a higher intestinal fungal diversity than elderly patients. We found that <italic>Saccharomycetales unassigned</italic> fungal genera were positively associated with bacterial short-chain fatty acid (SCFA) producers and negatively associated with the proinflammatory genus <italic>Bilophila</italic> in COVID-19 patients, and we observed that none of the patients who harbored it were admitted to the high-intensity unit.</p></sec><sec><title>Conclusions</title><p>COVID-19 was associated with opportunistic bacterial pathogens, and <italic>Candida</italic> was the dominant fungal taxon in the intestine. Together, we found an association between commensal SCFA-producers and a fungal genus that was present in the intestines of patients who did not experience the most severe outcome of the disease. We believe that this taxon could have played a role in the disease outcome, and that further studies should be conducted to understand the role of fungi in gastrointestinal and health protection.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1352202">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1352202</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1352202">Save to Pocket</a>
+</span>
+
+---
+
+## Isolation and identification of Wickerhamiella tropicalis from blood culture by MALDI-MS
+
+date: 2024-03-06, from: Frontiers in Cellular and Infection Microbiology
+
+<p><italic>Wickerhamiella</italic> is a genus of budding yeast that is mainly isolated from environmental samples, and 40 species have been detected. The yeast isolated from human clinical samples usually only contain three species: <italic>W. infanticola</italic>, <italic>W. pararugosa</italic> and <italic>W. sorbophila</italic>. In this study, we isolated <italic>W. tropicalis</italic> from a blood sample of a six-year-old female with a history of B-cell precursor lymphoblastic leukemia in Japan in 2022. Though the strain was morphologically identified as <italic>Candida</italic> species by routine microbiological examinations, it was subsequently identified as <italic>W. tropicalis</italic> by sequencing the internal transcribed spacer (ITS) of ribosomal DNA (rDNA). The isolate had amino acid substitutions in ERG11 and FKS1 associated with azole and echinocandin resistance, respectively, in <italic>Candida</italic> species and showed intermediate-resistant to fluconazole and micafungin. The patient was successfully treated with micafungin. Furthermore, matrix-assisted laser desorption/ionization mass spectrometry (MALDI-MS) detected three novel peaks that are specific for <italic>W. tropicalis</italic>, indicating that MALDI-MS analysis is useful for rapid detection of <italic>Wickerhamiella</italic> species in routine microbiological examinations.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1361432">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1361432</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1361432">Save to Pocket</a>
+</span>
+
+---
+
+## Evaluation of novel compounds as anti-bacterial or anti-virulence agents
+
+date: 2024-03-06, from: Frontiers in Cellular and Infection Microbiology
+
+<p>Antimicrobial resistance is a global threat, leading to an alarming increase in the prevalence of bacterial infections that can no longer be treated with available antibiotics. The World Health Organization estimates that by 2050 up to 10 million deaths per year could be associated with antimicrobial resistance, which would equal the annual number of cancer deaths worldwide. To overcome this emerging crisis, novel anti-bacterial compounds are urgently needed. There are two possible approaches in the fight against bacterial infections: a) targeting structures within bacterial cells, similar to existing antibiotics; and/or b) targeting virulence factors rather than bacterial growth. Here, for the first time, we provide a comprehensive overview of the key steps in the evaluation of potential new anti-bacterial and/or anti-virulence compounds. The methods described in this review include: a) <italic>in silico</italic> methods for the evaluation of novel compounds; b) anti-bacterial assays (MIC, MBC, Time-kill); b) anti-virulence assays (anti-biofilm, anti-quorum sensing, anti-adhesion); and c) evaluation of safety aspects (cytotoxicity assay and Ames test). Overall, we provide a detailed description of the methods that are an essential tool for chemists, computational chemists, microbiologists, and toxicologists in the evaluation of potential novel antimicrobial compounds. These methods are cost-effective and have high predictive value. They are widely used in preclinical studies to identify new molecular candidates, for further investigation in animal and human trials.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1370062">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1370062</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1370062">Save to Pocket</a>
+</span>
+
+---
+
+## Isoprinosine as a foot-and-mouth disease vaccine adjuvant elicits robust host defense against viral infection through immunomodulation
+
+date: 2024-03-06, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Background</title><p>Commercial foot-and-mouth disease (FMD) vaccines have limitations, such as local side effects, periodic vaccinations, and weak host defenses. To overcome these limitations, we developed a novel FMD vaccine by combining an inactivated FMD viral antigen with the small molecule isoprinosine, which served as an adjuvant (immunomodulator).</p></sec><sec><title>Method</title><p>We evaluated the innate and adaptive immune responses elicited by the novel FMD vaccine involved both in vitro and in vivo using mice and pigs. </p></sec><sec><title>Results</title><p>We demonstrated isoprinosine-mediated early, mid-term, and long-term immunity through in vitro and in vivo studies and complete host defense against FMD virus (FMDV) infection through challenge experiments in mice and pigs. We also elucidated that isoprinosine induces innate and adaptive (cellular and humoral) immunity via promoting the expression of immunoregulatory gene such as pattern recognition receptors [PRRs; retinoic acid-inducible gene (RIG)-I and toll like receptor (TLR)9], transcription factors [T-box transcription factor (TBX)21, eomesodermin (EOMES), and nuclear factor kappa B (NF-kB)], cytokines [interleukin (IL)-12p40, IL-23p19, IL-23R, and IL-17A)], and immune cell core receptors [cluster of differentiation (CD)80, CD86, CD28, CD19, CD21, and CD81] in pigs. </p></sec><sec><title>Conclusion</title><p>These findings present an attractive strategy for constructing novel FMD vaccines and other difficult-to-control livestock virus vaccine formulations based on isoprinosine induced immunomodulatory functions.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1331779">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1331779</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1331779">Save to Pocket</a>
+</span>
+
+---
+
+## Factor H-related protein 1 promotes complement-mediated opsonization of Pseudomonas aeruginosa
+
+date: 2024-03-06, from: Frontiers in Cellular and Infection Microbiology
+
+<p><italic>Pseudomonas aeruginosa</italic> is an important human opportunistic pathogen responsible for a wide range of infections. The complement system is the main early host defense mechanism to control these infections. <italic>P. aeruginosa</italic> counteracts complement attack by binding Factor H (FH), a complement regulator that inactivates C3b, preventing the formation of the C3-convertase and complement amplification on the bacterial surface. Factor H-related proteins (FHRs) are a group of plasma proteins evolutionarily related to FH that have been postulated to interfere in this bacterial mechanism of resisting complement. Here, we show that FHR-1 binds to <italic>P. aeruginosa</italic> via the outer membrane protein OprG in a lipopolysaccharide (LPS) O antigen-dependent manner. Binding assays with purified components or with FHR-1-deficient serum supplemented with FHR-1 show that FHR-1 competes with FH for binding to <italic>P. aeruginosa.</italic> Blockage of FH binding to C3b deposited on the bacteria reduces FH-mediated cofactor activity of C3b degradation, increasing the opsonization of the bacteria and the formation of the potent chemoattractant C5a. Overall, our findings indicate that FHR-1 is a host factor that promotes complement activation, facilitating clearance of <italic>P. aeruginosa</italic> by opsonophagocytosis.</p>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1328185">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1328185</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1328185">Save to Pocket</a>
+</span>
+
+---
+
+## Editorial: Epidemiology of antimicrobial resistance and virulence factors of emerging and re-emerging bacteria
+
+date: 2024-03-06, from: Frontiers in Cellular and Infection Microbiology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1387087">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1387087</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1387087">Save to Pocket</a>
+</span>
+
+---
+
+## Erratum: Resistance against two lytic phage variants attenuates virulence and antibiotic resistance in Pseudomonas aeruginosa
+
+date: 2024-03-06, from: Frontiers in Cellular and Infection Microbiology
+
+
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1391783">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1391783</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1391783">Save to Pocket</a>
+</span>
 
 ---
 

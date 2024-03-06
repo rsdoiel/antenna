@@ -1,11 +1,73 @@
 ---
 title: columns 2024.10
-updated: 2024-03-05 08:23:45
+updated: 2024-03-06 08:52:57
 ---
 
 # columns 2024.10
 
-(date: 2024-03-05 08:23:45)
+(date: 2024-03-06 08:52:57)
+
+---
+
+## Kirby apps and regressive enhancements
+
+date: 2024-03-06, from: Chris Heilmann's blog
+
+ChatGPT announced that it now has a killer new feature: it can read out results in several synthesised voices. This means you can speak your prompt and the computer answers. We&#8217;ve reached Star Trek TNG levels of human-computer interaction. All praise be AI and the large corporations that make it happen! Except, when I read [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://christianheilmann.com/2024/03/06/kirby-apps-and-regressive-enhancements/">https://christianheilmann.com/2024/03/06/kirby-apps-and-regressive-enhancements/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://christianheilmann.com/2024/03/06/kirby-apps-and-regressive-enhancements/">Save to Pocket</a>
+</span>
+
+---
+
+## Surveillance through Push Notifications
+
+date: 2024-03-06, updated: 2024-03-04, from: Bruce Schneier blog
+
+<p>The <i>Washington Post</i> is <a href="https://www.washingtonpost.com/technology/2024/02/29/push-notification-surveillance-fbi/">reporting</a> on the FBI&#8217;s increasing use of push notification data&#8212;&#8221;push tokens&#8221;&#8212;to identify people. The police can request this data from companies like Apple and Google without a warrant.</p>
+<blockquote><p>The investigative technique goes back years. Court orders that were issued in 2019 to Apple and Google demanded that the companies hand over information on accounts identified by push tokens linked to alleged supporters of the Islamic State terrorist group.</p>
+<p>But the practice was not widely understood until December, when Sen. Ron Wyden (D-Ore.), in a ...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/03/surveillance-through-push-notifications.html">https://www.schneier.com/blog/archives/2024/03/surveillance-through-push-notifications.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/03/surveillance-through-push-notifications.html">Save to Pocket</a>
+</span>
+
+---
+
+## Office Hours: What should be Biden’s central message in tomorrow’s State of the Union?
+
+date: 2024-03-06, from: Robert Reich's blog
+
+Friends, In effect, the general election begins now &#8212; after Super Tuesday, with tomorrow&#8217;s State of the Union address. Joe Biden should win this election. He&#8217;s an incumbent president running for reelection with a reasonably healthy economy. Yet Biden is not winning, at least not now.
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/office-hours-what-should-biden-emphasize">https://robertreich.substack.com/p/office-hours-what-should-biden-emphasize</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/office-hours-what-should-biden-emphasize">Save to Pocket</a>
+</span>
+
+---
+
+## Wednesday 6 March, 2024
+
+date: 2024-03-06, from: John Naughton's online diary
+
+In the beginning&#8230; This is Gougane Barra, one of the most magical places in Ireland. It’s where the river Lee starts its journey to the sea on the South coast beyond the city of Cork. My first summer job involved &#8230; <a href="https://memex.naughtons.org/wednesday-6-march-2024/39207/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/wednesday-6-march-2024/39207/">https://memex.naughtons.org/wednesday-6-march-2024/39207/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/wednesday-6-march-2024/39207/">Save to Pocket</a>
+</span>
+
+---
+
+## Future, Civilization & Change
+
+date: 2024-03-05, from: Om Malik blog
+
+What is dystopia? What is technology? What is progress? What is society? What is civilization? It&#8217;s all a moving target. What seems like dystopia, seems normal eventually. I was reminded of this when I read a piece by Mahatma Gandhi, originally published in 1909. He was writing about a future now all too present around us. Everything is all &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/03/05/future-civilization-change/">https://om.co/2024/03/05/future-civilization-change/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/03/05/future-civilization-change/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -119,7 +181,7 @@ The Microsft/UW chip is an <a href="https://spectrum.ieee.org/dna-data-storage">
 <blockquote>
 The University of Washington and Microsoft team, collaborating with the enzymatic synthesis company Ansa Biotechnologies, recently took the first step toward this device. Using our high-density chip, we successfully demonstrated <a href="https://doi.org/10.1021/acssynbio.3c00044">electrochemical control of single-base enzymatic additions</a>.
 </blockquote>
-The link is to <a href="https://doi.org/10.1021/acssynbio.3c00044"><i>Spatially Selective Electrochemical Cleavage of a Polymerase-Nucleotide Conjugate</i></a> by jake A. Smith <i>et akl</i>:<br />
+The link is to <a href="https://doi.org/10.1021/acssynbio.3c00044"><i>Spatially Selective Electrochemical Cleavage of a Polymerase-Nucleotide Conjugate</i></a> by Jake A. Smith <i>et al</i>:<br />
 <blockquote>
 Novel enzymatic methods are poised to become the dominant processes for de novo synthesis of DNA, promising functional, economic, and environmental advantages over the longstanding approach of phosphoramidite synthesis. Before this can occur, however, enzymatic synthesis methods must be parallelized to enable production of multiple DNA sequences simultaneously. As a means to this parallelization, we report a polymerase-nucleotide conjugate that is cleaved using electrochemical oxidation on a microelectrode array. The developed conjugate maintains polymerase activity toward surface-bound substrates with single-base control and detaches from the surface at mild oxidative voltages, leaving an extendable oligonucleotide behind. Our approach readies the way for enzymatic DNA synthesis on the scale necessary for DNA-intensive applications such as DNA data storage or gene synthesis.
 </blockquote>
