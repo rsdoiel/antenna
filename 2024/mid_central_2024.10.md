@@ -1,11 +1,37 @@
 ---
 title: mid central 2024.10
-updated: 2024-03-06 08:52:57
+updated: 2024-03-07 07:33:06
 ---
 
 # mid central 2024.10
 
-(date: 2024-03-06 08:52:57)
+(date: 2024-03-07 07:33:06)
+
+---
+
+## Supersized log-scale audio meter
+
+date: 2024-03-07, from: EDN Blog
+
+<img width="600" height="296" src="https://www.edn.com/wp-content/uploads/SS-PPM_fig1.jpg?fit=600%2C296" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/SS-PPM_fig1.jpg?w=600 600w, https://www.edn.com/wp-content/uploads/SS-PPM_fig1.jpg?w=300 300w" sizes="(max-width: 600px) 100vw, 600px" /><p>A peak program meter (PPM) built with analog techniques but having near-digital performance thanks to some over-the-top tweaks.</p>
+<p>The post <a href="https://www.edn.com/supersized-log-scale-audio-meter/" data-wpel-link="internal">Supersized log-scale audio meter</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/supersized-log-scale-audio-meter/">https://www.edn.com/supersized-log-scale-audio-meter/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/supersized-log-scale-audio-meter/">Save to Pocket</a>
+</span>
+
+---
+
+## Measure E heads for a loss on the ballot again
+
+date: 2024-03-07, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Measure E, the proposition announced to raise $1.6 billion over 25 years for Fresno State, is currently losing the majority vote. ‘NO’ voters were taking the lead in opposing the measure, according to the latest returns on Wednesday afternoon. “That is a gut punch on a campus…that is in a California State University system with...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/03/measure-e-heads-for-a-loss-on-the-ballot-again/">https://fscollegian.com/2024/03/measure-e-heads-for-a-loss-on-the-ballot-again/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/03/measure-e-heads-for-a-loss-on-the-ballot-again/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -13,7 +39,7 @@ updated: 2024-03-06 08:52:57
 
 date: 2024-03-06, from: EDN Blog
 
-<img width="517" height="653" src="https://www.edn.com/wp-content/uploads/Raspberry-Pi-27-W-USB-C-Power-Supply.jpg?fit=517%2C653" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Raspberry-Pi-27-W-USB-C-Power-Supply.jpg?w=517 517w, https://www.edn.com/wp-content/uploads/Raspberry-Pi-27-W-USB-C-Power-Supply.jpg?w=238 238w" sizes="(max-width: 517px) 100vw, 517px" /><p>In the search for a power supply alternative for my Raspberry Pi 5, I learn a 30W charger is never really a 30W charger. </p>
+<img width="517" height="653" src="https://www.edn.com/wp-content/uploads/Raspberry-Pi-27-W-USB-C-Power-Supply.jpg?fit=517%2C653" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Raspberry-Pi-27-W-USB-C-Power-Supply.jpg?w=517 517w, https://www.edn.com/wp-content/uploads/Raspberry-Pi-27-W-USB-C-Power-Supply.jpg?w=238 238w" sizes="(max-width: 517px) 100vw, 517px" /><p>In the search for a power supply alternative for my Raspberry Pi 5, I learn a 30W charger is never really a 30W charger. </p>
 <p>The post <a href="https://www.edn.com/sorting-out-usb-c-power-supplies-specification-deceptions-and-confusing-implementations/" data-wpel-link="internal">Sorting out USB-C power supplies: Specification deceptions and confusing implementations</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 

@@ -20,8 +20,10 @@ https://www.forumsec.org/feed/ "~Pacific Island Forum" curl/8.5.0 (rsdoiel@gmail
 # Commercial News Papers, Guam and the Northern Marianas, Republic of Belau
 #
 # guampdn.com: getting errors, to many requests, 2023-10-16
+#https://www.guampdn.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc "~Guam Pacific Daily News"
 #https://www.guampdn.com/search/?f=rss&amp;t=article&l=10&s=start_time&sd=desc&amp;k[]=#topstor "~Pacific Daily News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # even after adding the agent string retrieving the feed is not reliable, 2023-12-15
 #https://www.postguam.com/search/?c=news*&t=article&nsa=eedition?s=start_time&sd=desc&l=50&f=rss "~The Guam Daily Post" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # feed is dropped, not reliable, 2023-12-23
+https://www.postguam.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc "~Guam Daily Post"
 # pacificialndtimes.com: getting errors, too many requests, 2023-10-16
 https://www.pacificislandtimes.com/blog-feed.xml "~Pacific Island Times" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 # Northern Marianas Papers
@@ -62,6 +64,8 @@ https://www.manoanow.org/search/?f=rss&t=article&c=kaleo&l=50&s=start_time&sd=de
 #https://thesilversword.com/feed/ "~Chaminade Silversword (Chaminade Univ. student newspaper)" Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://thesilversword.com/category/news/feed/ "~Chaminade Silversword (Chaminade Univ. student newspaper)" Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
 https://hawaiipacificreview.org/feed/ "~Hawai'i Pacific Review (HPU Literary Magazine)"
+https://www.hawaiitribune-herald.com/feed/ "~Hawaii Tribune Harold"
+#https://www.staradvertiser.com/feed/ "~Honolulu Star Advertiser"
 
 
 #
@@ -97,3 +101,4 @@ https://gov.fm/index.php/component/content/category/35-pio-articles?Itemid=177&f
 # FSM based Science and Educational organizations
 https://www.meripmicronesia.org/feed/ "~MERIP News, Marine Environment Ressearch Institute of Pohnpei"
 https://micsem.org/feed/ "MicroSem News"
+

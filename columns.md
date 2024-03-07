@@ -1,11 +1,144 @@
 ---
 title: columns 2024.10
-updated: 2024-03-06 08:52:57
+updated: 2024-03-07 07:33:06
 ---
 
 # columns 2024.10
 
-(date: 2024-03-06 08:52:57)
+(date: 2024-03-07 07:33:06)
+
+---
+
+## curl’s built-in manual without nroff
+
+date: 2024-03-07, from: Daniel Stenberg Blog
+
+On December 14 1998 we released curl 5.2. The project was still early back then and lots of things had not settled yet. In that release, which came only two weeks after 5.1, we introduced the --manual option, or -M for short. Long before I started working on curl I learnt to value and appreciate &#8230; <a href="https://daniel.haxx.se/blog/2024/03/07/curls-built-in-manual-without-nroff/" class="more-link">Continue reading <span class="screen-reader-text">curl&#8217;s built-in manual without nroff</span> <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://daniel.haxx.se/blog/2024/03/07/curls-built-in-manual-without-nroff/">https://daniel.haxx.se/blog/2024/03/07/curls-built-in-manual-without-nroff/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daniel.haxx.se/blog/2024/03/07/curls-built-in-manual-without-nroff/">Save to Pocket</a>
+</span>
+
+---
+
+## How Public AI Can Strengthen Democracy
+
+date: 2024-03-07, updated: 2024-03-05, from: Bruce Schneier blog
+
+<p>With the world&#8217;s focus turning to <a href="https://abcnews.go.com/Politics/ai-political-campaigns-raising-red-flags-2024-election/story?id=102480464">misinformation</a><u>,</u>  <a href="https://www.washingtonpost.com/technology/2023/10/26/ai-election-2024-deepfake-pledge/">manipulation</a><u>,</u> and outright propaganda ahead of the 2024 U.S. presidential election, we know that democracy has an AI problem. But we&#8217;re learning that AI has a democracy problem, too. Both challenges must be addressed for the sake of democratic governance and public protection.</p>
+<p>Just <a href="https://www.srgresearch.com/articles/quarterly-cloud-market-once-again-grows-by-10-billion-from-2022-meanwhile-little-change-at-the-top">three Big Tech firms</a> (Microsoft, Google, and Amazon) control about two-thirds of the global market for the cloud computing resources used to train and deploy AI models. They have a lot of the AI talent, the capacity for large-scale innovation, and face few public regulations for their products and activities...</p>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/03/how-public-ai-can-strengthen-democracy.html">https://www.schneier.com/blog/archives/2024/03/how-public-ai-can-strengthen-democracy.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/03/how-public-ai-can-strengthen-democracy.html">Save to Pocket</a>
+</span>
+
+---
+
+## Mr. President, what you should say tonight
+
+date: 2024-03-07, from: Robert Reich's blog
+
+Make it clear whose side you&#8217;re on when it comes to the economy
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/what-biden-must-do-tonight-in-sou">https://robertreich.substack.com/p/what-biden-must-do-tonight-in-sou</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/what-biden-must-do-tonight-in-sou">Save to Pocket</a>
+</span>
+
+---
+
+## A Super (Tuesday) Wake-Up Call
+
+date: 2024-03-07, from: Dan Rather's Steady
+
+Time to pour on the work
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/a-super-tuesday-wake-up-call">https://steady.substack.com/p/a-super-tuesday-wake-up-call</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/a-super-tuesday-wake-up-call">Save to Pocket</a>
+</span>
+
+---
+
+## Signal Introduces Usernames
+
+date: 2024-03-07, updated: 2024-03-07, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://signal.org/blog/phone-number-privacy-usernames/">https://signal.org/blog/phone-number-privacy-usernames/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://signal.org/blog/phone-number-privacy-usernames/">Save to Pocket</a>
+</span>
+
+---
+
+## How iOS Is Determining Eligibility for Alternative App Marketplaces in the European Union
+
+date: 2024-03-06, updated: 2024-03-06, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://support.apple.com/en-gb/118110">https://support.apple.com/en-gb/118110</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://support.apple.com/en-gb/118110">Save to Pocket</a>
+</span>
+
+---
+
+## Meta’s Plans for E2EE Messaging Interop for WhatsApp and Messenger
+
+date: 2024-03-06, updated: 2024-03-06, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://engineering.fb.com/2024/03/06/security/whatsapp-messenger-messaging-interoperability-eu/">https://engineering.fb.com/2024/03/06/security/whatsapp-messenger-messaging-interoperability-eu/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://engineering.fb.com/2024/03/06/security/whatsapp-messenger-messaging-interoperability-eu/">Save to Pocket</a>
+</span>
+
+---
+
+## Here’s the New iOS 17.4 Default Browser Nag for iPhone Users in Europe
+
+date: 2024-03-06, updated: 2024-03-06, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.theverge.com/2024/3/6/24092026/heres-the-new-ios-default-browser-nag-for-iphone-users-in-europe">https://www.theverge.com/2024/3/6/24092026/heres-the-new-ios-default-browser-nag-for-iphone-users-in-europe</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.theverge.com/2024/3/6/24092026/heres-the-new-ios-default-browser-nag-for-iphone-users-in-europe">Save to Pocket</a>
+</span>
+
+---
+
+## ★ Apple Terminated Epic’s E.U. Developer Account
+
+date: 2024-03-06, updated: 2024-03-07, from: Daring Fireball
+
+Popcorn-eating-wise, I’m genuinely curious about Apple using a U.S. court decision as grounds for banning Epic’s Swedish subsidiary from holding a developer account.
+
+<span class="feed-item-link">
+<a href="https://daringfireball.net/2024/03/apple_epic_developer_account">https://daringfireball.net/2024/03/apple_epic_developer_account</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/2024/03/apple_epic_developer_account">Save to Pocket</a>
+</span>
+
+---
+
+## Vision Pro’s Battery Indicator Is Confusing
+
+date: 2024-03-06, updated: 2024-03-06, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://support.apple.com/en-us/117740">https://support.apple.com/en-us/117740</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://support.apple.com/en-us/117740">Save to Pocket</a>
+</span>
+
+---
+
+## Television for Vision Pro
+
+date: 2024-03-06, updated: 2024-03-07, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://sandwich.vision">https://sandwich.vision</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sandwich.vision">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: health 2024.10
-updated: 2024-03-06 08:52:57
+updated: 2024-03-07 07:33:07
 ---
 
 # health 2024.10
 
-(date: 2024-03-06 08:52:57)
+(date: 2024-03-07 07:33:07)
+
+---
+
+## Antibiotic resistance of ESKAPE group-microorganisms in health institutions from Hermosillo and Ciudad Obregón, Sonora, México
+
+date: 2024-03-07, from: Frontiers in Cellular and Infection Microbiology
+
+<sec><title>Introduction</title><p><italic>Enterococcus faecium, Staphylococcus aureus</italic>, <italic>Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa</italic>, and <italic>Enterobacter</italic> spp. are microorganisms referred as the ESKAPE group pathogens. These microorganisms have generated great concern in health institutions around the world since most of them have resistance to multiple antibiotics and cause most infections associated with healthcare, as well as community infections. The aim of this study was the analysis of antibiotic resistance in microorganisms of the ESKAPE group, recovered from clinical samples in 11 health institutions from Hermosillo and Ciudad Obregón in the State of Sonora, México, during the period from 2019 to 2020.</p></sec><sec><title>Methods</title><p>A cross-sectional, descriptive, observational, and temporality epidemiological study was carried out. A comparative and statistical analysis of antibiotic resistance was carried out using the chi-square test, and small values were analyzed using Fisher’s exact test p ≤ 0.05.</p></sec><sec><title>Results and discussion</title><p>All the ESKAPE group microorganisms showed significant differences in antibiotic resistance percentages between both cities. High resistance percentages for some antibiotics, like cephalosporins and ciprofloxacin were detected for <italic>Klebsiella pneumoniae</italic> and <italic>Acinetobacter baumannii</italic>.</p></sec>
+
+<span class="feed-item-link">
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1348093">https://www.frontiersin.org/articles/10.3389/fcimb.2024.1348093</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1348093">Save to Pocket</a>
+</span>
 
 ---
 

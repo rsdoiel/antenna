@@ -1,11 +1,143 @@
 ---
 title: weather 2024.10
-updated: 2024-03-06 08:52:57
+updated: 2024-03-07 07:33:06
 ---
 
 # weather 2024.10
 
-(date: 2024-03-06 08:52:57)
+(date: 2024-03-07 07:33:06)
+
+---
+
+## SPC - No watches are valid as of Thu Mar  7 14:51:02 UTC 2024
+
+date: 2024-03-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Thu Mar  7 14:51:02 UTC 2024.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC - No MDs are in effect as of Thu Mar  7 14:51:02 UTC 2024
+
+date: 2024-03-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu Mar  7 14:51:02 UTC 2024.
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
+</span>
+
+---
+
+## SPC Mar 7, 2024 1300 UTC Day 1 Convective Outlook
+
+date: 2024-03-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0653 AM CST Thu Mar 07 2024
+
+Valid 071300Z - 081200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS OVER PARTS OF THE
+SOUTHERN PLAINS...
+
+...SUMMARY...
+Severe hail and thunderstorm gusts are possible over parts of the
+southern Plains this afternoon into tonight.
+
+...Synopsis...
+The mid/upper-level pattern will remain progressive through the
+period, as a strong shortwave trough exits the northeastern CONUS,
+and a series of shortwaves traverse an eastward-shifting mean trough
+across the West.  The most important of those shortwaves is evident
+in moisture-channel imagery over the lower Colorado River Valley
+region and nearby parts of southern CA.  This feature should move
+eastward across central/southern AZ and adjoining portions of
+extreme northwestern MX through the period, reaching southern NM and
+-- at its easternmost part -- the TX/NM border region of the Llano
+Estacado by 12Z tomorrow.  In the foregoing southwest-flow regime
+aloft, several weak/subtle vorticity lobes should cross portions of
+the southern Plains States through the period. 
+
+At the surface, 11Z analysis showed a low over southeastern CO, with
+wavy and somewhat diffuse warm front across northern parts of the TX
+Panhandle and OK, to the western Ozarks.  The low is expected to
+migrate across the OK Panhandle to south-central/central KS through
+the day, with 00Z trailing cold-frontal position across northwestern
+OK and the northern/central TX Panhandle.  By 12Z, the initial low
+should reach eastern KS or western MO, with cold front to another
+low near SPS, then across the South Plains to southeastern NM.  A
+dryline should sharpen through the day with continued moist
+advection to its east.  By 00Z, the dryline should extend from the
+eastern TX Panhandle southward then south-southwestward to northern
+Coahuila.  The cold front will overtake the dryline from north-south
+across the eastern Panhandle and northwest TX overnight. 
+
+...Southern Plains...
+Isolated, marginally severe hail may occur from elevated
+thunderstorms now prevalent over portions of the Arklatex to
+southern Ozarks, eastern OK, and south-central KS, and a zone of
+steep lapse rates aloft, low-level warm advection and moisture
+transport above the surface.  However, the main severe threat will
+be later today.
+
+Isolated to scattered thunderstorms -- forming along/ahead of the
+dryline this afternoon and persisting/expanding into the overnight
+hours -- will be capable of large hail (some potentially 2+ inches
+in diameter) and occasional damaging to severe gusts.  The tornado
+risk is more sparse and conditional, given a lack of more-robust
+moisture.  A bimodal overall severe-threat distribution still is
+apparent, with the greatest cumulative convective concentrations
+likely centered on western OK to southern KS, and that part of
+west-central to north-central TX in and south of the ongoing
+convective band.  With some reservations, a relative probabilistic
+minimum will be maintained over the northwest TX region, but with
+the understanding that any storm forming/sustaining in the
+environment just east of the dryline still may become a supercell
+capable of strong-severe gusts and significant hail.
+
+Favorable destabilization will develop over the dryline and nearby
+moist sector by mid/late afternoon, but in different ways from
+north-south.  More sustained/direct insolation and colder air aloft
+is expected over northern areas where the ongoing high-cloud plume
+will be less dense, and should exit sooner.  In southern areas,
+shorter duration/weaker magnitude of diabatic heating will be offset
+to some extent by greater ambient moisture/theta-e.  Each process
+will weaken MLCINH enough to support surface-based convection this
+afternoon into evening.  Aside from the dryline and front, foci for
+development may include outflow/differential-heating boundaries from
+morning activity, and a persistent low-level convergence zone
+already apparent near I-20 from the Big Country into north-central
+TX.  While denser convection training along in that convergence zone
+may disfavor sustained large-hail potential, embedded supercells are
+possible, and isolated discrete supercells may offer severe to
+significant hail farther south.  Forecast soundings south of the
+convergence zone reasonably show rich inflow-layer moisture, strong
+mid/upper winds and deep shear near the subtropical jet (with 60-75
+kt effective-shear magnitudes possible), and long, nearly straight,
+somewhat hook-shaped hodographs.  Splitting storms are possible with
+severe-hail potential from left- or right-moving supercells.
+
+Overnight, as large-scale ascent strengthens ahead of the
+approaching mid/upper trough, multiple rounds of development are
+possible, especially in either "slight" risk area.  A large-hail and
+sporadic damaging-wind threat will exist with any such convection.
+
+..Edwards/Jewell.. 03/07/2024
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+
+
+<span class="feed-item-link">
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
+</span>
 
 ---
 
@@ -61,30 +193,6 @@ conditions are expected.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No watches are valid as of Wed Mar  6 16:23:01 UTC 2024
-
-date: 2024-03-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Wed Mar  6 16:23:01 UTC 2024.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No MDs are in effect as of Wed Mar  6 16:23:01 UTC 2024
-
-date: 2024-03-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Wed Mar  6 16:23:01 UTC 2024.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
 </span>
 
 ---
@@ -149,142 +257,6 @@ still pose a risk of occasional hail or gusty winds.
 
 <span class="feed-item-link">
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
-</span>
-
----
-
-## SPC Mar 6, 2024 1300 UTC Day 1 Convective Outlook
-
-date: 2024-03-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0652 AM CST Wed Mar 06 2024
-
-Valid 061300Z - 071200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS OVER PARTS OF
-PENINSULAR FLORIDA...SOUTH CAROLINA AND PARTS OF WEST-CENTRAL TO
-NORTH TEXAS...
-
-...SUMMARY...
-Isolated severe thunderstorms are possible today over parts of
-peninsular Florida and South Carolina, and late afternoon into
-tonight over parts of west-central to north Texas.
-
-...Synopsis...
-In mid/upper levels, a progressive and amplifying pattern is
-forecast over the CONUS through the period, mainly related to a
-well-developed trough now approaching the CA coastline.  The
-accompanying 500-mb low should move over the Point Conception area
-around 18Z, then weaken inland across southern CA overnight. 
-However, the trough will remain strong as an open-wave feature, as
-it approaches the lower Colorado River Valley around 12Z. 
-Downstream, a series of minor perturbations embedded in the
-subtropical/southern stream will traverse northern MX and much of
-TX.  Farther east, a shortwave trough was quite evident in
-moisture-channel imagery over parts of TN, AL and GA, extending
-southward to the northeastern Gulf.  This initially rather broad
-perturbation will consolidate somewhat and cross parts of GA and the
-western/upstate Carolinas by 00Z, then move northeastward into the
-Mid-Atlantic by the end of the period. 
-
-At the surface, 11Z analysis showed a series of weak lows and
-troughs scattered across the Southeast amid weak surface flow, with
-a warm front along the SC and southern NC coast, then bending
-southeastward offshore from HSE.  Northward movement of this
-boundary will be delayed by precip/clouds this morning, but should
-occur this afternoon across the inland Carolinas.  Meanwhile,
-another frontal zone -- initially drawn over deep south TX -- should
-migrate northward as a warm front today and tonight across much of
-central/north TX and into OK tonight, connecting to overnight
-surface cyclogenesis progged for the northwestern TX Panhandle. 
-
-...FL...
-Widely scattered to scattered thunderstorms are expected to develop
-this afternoon along sea-breeze boundaries and smaller-scale zones
-of lift, amidst diabatically weakened MLCINH and favorable low-level
-moisture.  The best-organized convection may produce damaging to
-isolated severe downdrafts and isolated severe hail.  
-
-The southern fringes of cooling aloft related to the southeastern
-CONUS perturbation, atop upper 60s to low 70s F surface dewpoints,
-in a deep troposphere, will lead to peak/preconvective MLCAPE in the
-1500-2500 J/kg range.  Activity should be predominantly
-multicellular, with modest low/middle level flow limiting most
-measures of bulk shear.  However, relatively strong upper/anvil-
-level winds will ventilate convection to some extent and contribute
-to around 50-70 kt of shear from LCL to EL.  Near the East Coast sea
-breeze, some backed low-level flow is possible that may augment
-low-level and deep shear enough for at least transient storm-scale
-rotation and a marginal/brief tornado potential as well.  
-
-...SC and vicinity...
-An extensive plume of precip -- with isolated to widely scattered,
-sporadic, embedded thunderstorms -- is shifting roughly
-northeastward across parts of GA, the Carolinas and eastern TN. 
-This activity is supported regionally by a combination of warm
-advection and moisture transport, with related modest, elevated
-destabilization.  Severe conditions are not expected with this
-activity due to insufficiency of both buoyancy and shear.  
-
-However, especially over the Low Country/coastal plain and perhaps
-central SC, a second round of convective development is expected
-late this afternoon into evening, offering marginally severe hail or
-strong/damaging gusts.  This activity should follow several hours of
-airmass recovery through a combination of diabatic heating,
-continued low-level warm advection, and DCVA/cooling aloft nearer to
-the "cold-core" region of mid/upper-level perturbation.  These
-processes should steepen low-level lapse rates and weaken MLCINH,
-while slightly increasing previously poor midlevel lapse rates by
-late afternoon.  In combination with favorable near-surface moisture
-(dewpoints generally low/mid 60s F), this should support around
-800-1200 J/kg MLCAPE.  Though low-level hodographs/SRH/bulk shear
-shouldn't be large, around 30-40 kt effective-shear magnitudes are
-expected, with some organized multicell or transient supercell
-structures possible.  Convection should weaken and exit the area by
-late evening. 
-
-...West-central/northwest/north-central TX...
-Isolated to widely scattered thunderstorms are possible from late
-afternoon into the overnight period -- initially over parts of the
-Big Country/Concho Valley regions of west-central TX, then
-spreading/shifting northward and northeastward with time tonight. 
-Isolated severe hail is the main concern, though strong/locally
-severe gusts cannot be ruled out either.  The northward-returning
-frontal zone appears to be the most probable source of low-level
-lift, through some chance exists for surface parcels to reach
-convective temperature on southwestern parts of the outlook area. 
-Low-level warm advection and moisture transport/recovery will
-strengthen considerably from late afternoon through overnight across
-the region, as the Pacific mid/upper trough approaches, the subtle
-southern-stream perturbations move overhead, and southwest flow
-increases aloft.  This should lead to increasing convective
-coverage, though uncertainty lingers on spatial extent and density,
-given the subtlety of overall lift.  
-
-Environmentally, upstream high-cloud cover prevalent in satellite
-imagery should thicken through the day, lending further uncertainty
-to specific initiation timing/location, but still allowing enough
-heating to weaken MLCINH by late afternoon.  CINH will weaken
-further this evening into tonight because of warm advection/
-isentropic ascent to LFC -- particularly as the southerly LLJ
-strengthens overnight to around 40-50 kt.  The moisture increase
-(especially above the surface) and warm advection will contribute to
-MUCAPE around 1000 J/kg, most of it in low/middle levels below a
-more-stable mid/upper regime related to the cloud deck.  Some
-convective organization is possible, amidst 30-40 kt effective-shear
-magnitudes.
-
-..Edwards/Jewell.. 03/06/2024
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
-
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html">Save to Pocket</a>
 </span>
 
 ---

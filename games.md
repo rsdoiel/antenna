@@ -1,11 +1,131 @@
 ---
 title: games 2024.10
-updated: 2024-03-06 08:52:57
+updated: 2024-03-07 07:33:07
 ---
 
 # games 2024.10
 
-(date: 2024-03-06 08:52:57)
+(date: 2024-03-07 07:33:07)
+
+---
+
+## Celebrate Mario Day with some deals on Switch games and other cool stuff
+
+date: 2024-03-07, updated: 2024-03-07, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24091720/mario-day-2024-switch-games-lego-toy-deals-sale">https://www.polygon.com/24091720/mario-day-2024-switch-games-lego-toy-deals-sale</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24091720/mario-day-2024-switch-games-lego-toy-deals-sale">Save to Pocket</a>
+</span>
+
+---
+
+## Not sure what movie to watch this weekend? Leave a comment, we’ll help
+
+date: 2024-03-07, updated: 2024-03-07, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/entertainment/2024/3/7/24092173/best-movies-watch-this-weekend-best-recommendations">https://www.polygon.com/entertainment/2024/3/7/24092173/best-movies-watch-this-weekend-best-recommendations</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/entertainment/2024/3/7/24092173/best-movies-watch-this-weekend-best-recommendations">Save to Pocket</a>
+</span>
+
+---
+
+## New Fallout trailer gives us our best look yet at Walton Goggins’ fascinating Ghoul
+
+date: 2024-03-07, updated: 2024-03-07, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24092714/fallout-tv-show-trailer-walton-goggins-ghoul">https://www.polygon.com/24092714/fallout-tv-show-trailer-walton-goggins-ghoul</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24092714/fallout-tv-show-trailer-walton-goggins-ghoul">Save to Pocket</a>
+</span>
+
+---
+
+## Nintendo surprise dropped a Princess Peach: Showtime! demo
+
+date: 2024-03-07, updated: 2024-03-07, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24092883/nintendo-switch-princess-peach-showtime-free-demo">https://www.polygon.com/24092883/nintendo-switch-princess-peach-showtime-free-demo</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24092883/nintendo-switch-princess-peach-showtime-free-demo">Save to Pocket</a>
+</span>
+
+---
+
+## Warner Bros. is killing Red vs. Blue production company Rooster Teeth
+
+date: 2024-03-06, updated: 2024-03-06, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24092726/rooster-teeth-shut-down-warner-bros">https://www.polygon.com/24092726/rooster-teeth-shut-down-warner-bros</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24092726/rooster-teeth-shut-down-warner-bros">Save to Pocket</a>
+</span>
+
+---
+
+## How to beat Fort Condor in FF7 Rebirth
+
+date: 2024-03-06, updated: 2024-03-06, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24091678/fort-condor-stage-3-4-walkthrough">https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24091678/fort-condor-stage-3-4-walkthrough</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24091678/fort-condor-stage-3-4-walkthrough">Save to Pocket</a>
+</span>
+
+---
+
+## How to get Focus Activity Packages in Destiny 2
+
+date: 2024-03-06, updated: 2024-03-06, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/destiny-2-guide-walkthrough/24091997/focus-activity-packages-skimmer-guardian-games">https://www.polygon.com/destiny-2-guide-walkthrough/24091997/focus-activity-packages-skimmer-guardian-games</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/destiny-2-guide-walkthrough/24091997/focus-activity-packages-skimmer-guardian-games">Save to Pocket</a>
+</span>
+
+---
+
+## This iPhone controller that works natively with PS5 Remote Play is $30 off
+
+date: 2024-03-06, updated: 2024-03-06, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24092666/backbone-one-iphone-lightning-gaming-deal-amazon">https://www.polygon.com/deals/24092666/backbone-one-iphone-lightning-gaming-deal-amazon</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24092666/backbone-one-iphone-lightning-gaming-deal-amazon">Save to Pocket</a>
+</span>
+
+---
+
+## The best action movies of the year so far
+
+date: 2024-03-06, updated: 2024-03-06, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24091121/best-action-movies-2024-watch">https://www.polygon.com/24091121/best-action-movies-2024-watch</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24091121/best-action-movies-2024-watch">Save to Pocket</a>
+</span>
+
+---
+
+## The Thaumaturge is an ambitious, compelling RPG that’s a diamond in the rough
+
+date: 2024-03-06, updated: 2024-03-06, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24091697/the-thaumaturge-rpg-review-pc-xbox-ps5">https://www.polygon.com/reviews/24091697/the-thaumaturge-rpg-review-pc-xbox-ps5</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24091697/the-thaumaturge-rpg-review-pc-xbox-ps5">Save to Pocket</a>
+</span>
 
 ---
 

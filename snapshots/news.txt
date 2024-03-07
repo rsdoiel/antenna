@@ -1,3 +1,7 @@
+
+#
+# People Blogs
+#
 https://infrequently.org/feed/ "~Alex Russel's blog"
 http://www.spagmag.org/feed/ "~SPAG Magizine blog"
 https://us-rse.org/feed.xml "~The United States Research Software Engineer Association"
@@ -6,33 +10,15 @@ https://www.cnps.org/feed "~California Native Plants Society"
 https://www.cnps-scv.org/?format=feed&type=rss "~California Native Plants Society, Santa Clarita"
 https://antonz.org/all/index.xml "~Anton Zhiyanov blog"
 #https://us11.campaign-archive.com/feed?u=b45e3f84fc6604dfac0c95efa&id=aba581b08e "~Ion Caltech"
+
+#
+# Corporate blogs
+#
 https://blueskyweb.xyz/rss.xml "~Bluesky web news"
-https://www.postguam.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc "~Guam Daily Post"
-#https://www.guampdn.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc "~Guam Pacific Daily News"
-https://www.hawaiipublicradio.org/index.rss "~Hawaii Public Radio"
-#https://www.staradvertiser.com/feed/ "~Honolulu Star Advertiser"
-https://www.hawaiitribune-herald.com/feed/ "~Hawaii Tribune Harold"
+
+#
 # SoCal North's feeds.
-#https://blog.tomasino.org/index.xml "~James Tomosino's blog" # index.xml not being produced, 2023-10-10
-#https://bricks.stackexchange.com/feeds "~Lego Bricks feeds from stack exchange"
-#https://buzzmachine.com/feed/ "~Buzz Machine"
-#https://export.arxiv.org/rss/cs?version=2.0 "~arXiv Computer Science deposits"
-#https://fis.uni-bamberg.de/feed/atom_1.0/site?locale=en "~University of Bamberg, IR publications feed" # feed no longer available, 2023-10-10
-##https://iiif.io/news/atom.xml "~IIIF News" # Feed removed, discovered 2023-10-10
-#https://labs.tomasino.org/index.xml "~Tomosino's Lab blog" # index.xml not being produced, 2023-10-10
-#https://liam-on-linux.livejournal.com/data/rss "~Liam on Linux"
-#https://lproven.livejournal.com/data/rss "~Liam Proven, this is not a damm blog"
-#https://mastodon.social/@davew.rss "~Dave Winer's Mastodon feed"
-#https://mattjibson.com/blog/index.xml "~Matt Jibson" # Blog doesn't have an index.xml file as of 2023-10-10
-#https://mmark.nl/feed/ "~Dutch trends blogsite??"
-#https://rochus-keller.info/?feed=rss2 "~Rochus Keller" # hijacked? redirected? not the original site, 2023-10-10
-#https://snapcraft.io/blog/feed "~Snapcraft blog" # not really playing with this any more, 2023-10-10
-#https://swsblog.stanford.edu/blog-posts.xml # Site retired, 2022-05
-#https://tink.co.uk/feed/ "~Tink's blog" # link seems to have changed, 2023-10-10
-#https://www.oceanographerschoice.com/feed/ # Site not found, 2023-10-10
-#https://www.quantum.danconover.com/feed/ "~Dan Conover" # broken WP site as of 2023-10-10
-#https://www.snopes.com/feed/ "~Snopes"
-#https://www.storythings.com/blog?format=RSS # blog is no more, 2023-10-10
+#
 http://blog.bloonface.com/feed/ "~Bloonface Blog"
 http://civiewnews.com/feed/ "~CI View (CSCI Student Paper)"
 http://cynthiakiser.com/feed.xml "~Cynthia Kiser's blog"
@@ -229,7 +215,7 @@ https://peoplescdc.org/feed/ "~Peoples CDC blog"
 https://petermolnar.net/feed/ "~Peter Molnar blog"
 https://petewarden.com/feed/ "~Peter Warden"
 https://phiresky.github.io/blog/rss.xml "~Phiresky's blog"
-https://pluralistic.net/feed/ "~Cory Doctorow's blog"
+#https://pluralistic.net/feed/ "~Cory Doctorow's blog"
 https://pointersgonewild.com/feed/ "~Pointers gone wild blog"
 https://pressthink.org/feed/ "~Press Think"
 https://profgriz.wordpress.com/feed/ "~Prof. Griswold blog, UCSD Software Evolution Lab"
@@ -387,15 +373,6 @@ https://margaretatwood.substack.com/feed "~Margaret Atwood's substack"
 https://val.demar.in/feed/ "~Paolo Valdemarin's blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
 #
-# Software Research (Acedemic and Industrial)
-#
-https://www.research-collection.ethz.ch/feed/rss_2.0/site "~ETH Zurich, recently added"
-https://rc-blog.ethz.ch/en/feed/ "~ETH Zurich Research Archives" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
-#http://cas.inf.ethz.ch/projects/a2/activity.atom "~Oberon A2 Forums at CAS"
-https://gitlab.inf.ethz.ch/felixf/oberon.atom "~Oberon A2 at CAS"
-https://bair.berkeley.edu/blog/feed.xml "Berkley Artificial Intellegence Research Blog"
-
-#
 # Software, Technology, and Science
 # Or STEM stuff
 #
@@ -438,14 +415,11 @@ https://www.riscository.com/feed/ "~RiscOS Story"
 https://www.riscosopen.org/news/xml/rss20/feed.xml "~RiscOS Open"
 
 #
-# Library, Archives and Museums
+# Operating Systems and Industrial
 #
-https://blog.openlibrary.org/feed/ "~Open Library Blog"
-https://libcal.caltech.edu/rss.php?m=month&iid=3271&cid=3754 "~Caltech Library Events"
-https://library.csun.edu/blogs/cited/feed/ "~CSUN Library Blog, Cited"
-https://www.santaclaritalibrary.com/feed/ "~Santa Clarita Public Library"
-https://www.arl.org/feed/ "~Association of Research Libraries News"
-
+#http://cas.inf.ethz.ch/projects/a2/activity.atom "~Oberon A2 Forums at CAS"
+https://gitlab.inf.ethz.ch/felixf/oberon.atom "~Oberon A2 at CAS"
+https://bair.berkeley.edu/blog/feed.xml "Berkley Artificial Intellegence Research Blog"
 
 #
 # Public Policy

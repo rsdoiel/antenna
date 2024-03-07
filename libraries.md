@@ -1,11 +1,25 @@
 ---
 title: libraries 2024.10
-updated: 2024-03-06 08:52:57
+updated: 2024-03-07 07:33:07
 ---
 
 # libraries 2024.10
 
-(date: 2024-03-06 08:52:57)
+(date: 2024-03-07 07:33:07)
+
+---
+
+## Guest Post — Shared Print & Sustainability through the Looking Glass
+
+date: 2024-03-07, from: Scholarly Kitchen
+
+<p>This is the second in our two-part series highlighting the need for shared print, as a community of membership programs working in parallel to a common goal of long term preservation and access to print resources, to evolve in order to become a more cohesive and sustainable national effort</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/03/07/guest-post-shared-print-sustainability-through-the-looking-glass/">Guest Post &#8212; Shared Print &#038; Sustainability through the Looking Glass</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/03/07/guest-post-shared-print-sustainability-through-the-looking-glass/">https://scholarlykitchen.sspnet.org/2024/03/07/guest-post-shared-print-sustainability-through-the-looking-glass/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/03/07/guest-post-shared-print-sustainability-through-the-looking-glass/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -79,7 +93,7 @@ date: 2024-03-05, from: Association of Research Libraries News
 
 date: 2024-03-05, from: Association of Research Libraries News
 
-<p>Last Updated on March 5, 2024, 3:27 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 5 &#124; Wednesday, March 6 &#124; Thursday,...</p>
+<p>Last Updated on March 7, 2024, 10:11 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 5 &#124; Wednesday, March 6 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-4-7/">Day in Review (March 4–7)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
 
 
@@ -111,6 +125,18 @@ Bösch, Cyrill
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/649929">http://hdl.handle.net/20.500.11850/649929</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/649929">Save to Pocket</a>
+</span>
+
+---
+
+## Ensemble structure of the N-terminal domain (1–267) of FUS in a biomolecular condensate
+
+date: 2024-03-05, from: ETH Zurich, recently added
+
+Esteban-Hofer, Laura; Emmanouilidis, Leonidas; Yulikov, Maxim; Allain, Frédéric H.-T.; Jeschke, Gunnar
+
+<span class="feed-item-link">
+<a href="http://hdl.handle.net/20.500.11850/663311">http://hdl.handle.net/20.500.11850/663311</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/663311">Save to Pocket</a>
 </span>
 
 ---

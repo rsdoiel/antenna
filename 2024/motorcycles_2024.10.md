@@ -1,11 +1,119 @@
 ---
 title: motorcycles 2024.10
-updated: 2024-03-06 08:52:58
+updated: 2024-03-07 07:33:07
 ---
 
 # motorcycles 2024.10
 
-(date: 2024-03-06 08:52:58)
+(date: 2024-03-07 07:33:07)
+
+---
+
+## The Ransom Archangel Is A Wild Custom That’s Worthy Of Stares
+
+date: 2024-03-07, from: Ride Apart, Electric Motorcycle News
+
+The more you look, the wilder it gets. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711117/ransom-archangel-custom-motorcycle-cruiser/">https://www.rideapart.com/news/711117/ransom-archangel-custom-motorcycle-cruiser/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711117/ransom-archangel-custom-motorcycle-cruiser/">Save to Pocket</a>
+</span>
+
+---
+
+## NASCAR’s Legendary Team Owner, Rick Hendrick, Honored at Amelia Concours d’Elegance
+
+date: 2024-03-07, from: Kickin the Tires blog
+
+By Lewis Franck, Special to Kickin&#8217; the Tires Rick Hendrick has started off 2024 with a bang. Not only was he this year’s Honoree at the Amelia Concours d&#8217;Elegance; one&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/nascars-legendary-team-owner-rick-hendrick-honored-at-amelia-concours-delegance/">https://kickinthetires.net/nascar/nascars-legendary-team-owner-rick-hendrick-honored-at-amelia-concours-delegance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/nascars-legendary-team-owner-rick-hendrick-honored-at-amelia-concours-delegance/">Save to Pocket</a>
+</span>
+
+---
+
+## ARCA Menards West Series: 2024 Phoenix Race Preview
+
+date: 2024-03-06, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires Created in 1954, the West Series will begin its 71st season this Friday, March 8, 2024 and already the fifth under the&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/arca-menards-west-2024-phoenix-preview/">https://kickinthetires.net/nascar/arca-menards-west-2024-phoenix-preview/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/arca-menards-west-2024-phoenix-preview/">Save to Pocket</a>
+</span>
+
+---
+
+## Chris Hemsworth Rides An Airplane Engine Chopper In Furiosa Sneak Peek
+
+date: 2024-03-06, from: Ride Apart, Electric Motorcycle News
+
+George Miller's vehicle team does it again. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711434/chris-hemsworth-furiosa-radial-engine-chopper-motorcycle/">https://www.rideapart.com/news/711434/chris-hemsworth-furiosa-radial-engine-chopper-motorcycle/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711434/chris-hemsworth-furiosa-radial-engine-chopper-motorcycle/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Honda XR650L First Look
+
+date: 2024-03-06, from: Cycle World News
+
+Honda introduces HRC-inspired graphics on the 2024 XR650L.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/honda-xr650l-first-look/">https://www.cycleworld.com/bikes/honda-xr650l-first-look/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/honda-xr650l-first-look/">Save to Pocket</a>
+</span>
+
+---
+
+## Watch Colby Raha Build the World’s First FMX Spine Ramp
+
+date: 2024-03-06, from: Ride Apart, Electric Motorcycle News
+
+I can guarantee you've never seen something like this before in FMX. And I doubt it's the last time you'll see it.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711102/raha-spine-ramp-build/">https://www.rideapart.com/news/711102/raha-spine-ramp-build/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711102/raha-spine-ramp-build/">Save to Pocket</a>
+</span>
+
+---
+
+## Recall: 2023 CFMoto 450SS Telematics Box Could Come Loose, Affect Steering
+
+date: 2024-03-06, from: Ride Apart, Electric Motorcycle News
+
+The rubber rings holding the unit on a specific production rung could break, causing the T-box to fall into the front fork.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711283/cfmoto-450ss-2023-safety-recall/">https://www.rideapart.com/news/711283/cfmoto-450ss-2023-safety-recall/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711283/cfmoto-450ss-2023-safety-recall/">Save to Pocket</a>
+</span>
+
+---
+
+## QJMotor SRT600 Adventure Bikes
+
+date: 2024-03-06, from: Cycle World News
+
+QJMotor appears to be upgrading its middleweight adventure bikes with a higher-horsepower version of the 554cc parallel twin and other chassis changes.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/qjmotor-srt600-adventure-bikes/">https://www.cycleworld.com/motorcycle-news/qjmotor-srt600-adventure-bikes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/qjmotor-srt600-adventure-bikes/">Save to Pocket</a>
+</span>
+
+---
+
+## Hell Yeah, Husqvarna Confirms Svartpilen 801 Is On Its Way
+
+date: 2024-03-06, from: Ride Apart, Electric Motorcycle News
+
+Flogging it around both a dirt and an ice track was for testing, not just for this video, Husky says.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711409/husqvarna-svartpilen-801-march-2024/">https://www.rideapart.com/news/711409/husqvarna-svartpilen-801-march-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711409/husqvarna-svartpilen-801-march-2024/">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,413 @@
 ---
 title: socal north 2024.10
-updated: 2024-03-06 08:52:56
+updated: 2024-03-07 07:33:06
 ---
 
 # socal north 2024.10
 
-(date: 2024-03-06 08:52:56)
+(date: 2024-03-07 07:33:06)
+
+---
+
+## Classifieds – March 7, 2023
+
+date: 2024-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/07/classifieds-march-7-2023-2/">Classifieds &#8211; March 7, 2023</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/07/classifieds-march-7-2023-2/">https://dailytrojan.com/2024/03/07/classifieds-march-7-2023-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/07/classifieds-march-7-2023-2/">Save to Pocket</a>
+</span>
+
+---
+
+## USC announces ‘Wicked’ commencement speaker: Jon M. Chu
+
+date: 2024-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The filmmaker and School of Cinematic Arts alum will deliver the University’s 2024 commencement speech.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/07/usc-announces-wicked-commencement-speaker/">USC announces ‘Wicked’ commencement speaker: Jon M. Chu</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/07/usc-announces-wicked-commencement-speaker/">https://dailytrojan.com/2024/03/07/usc-announces-wicked-commencement-speaker/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/07/usc-announces-wicked-commencement-speaker/">Save to Pocket</a>
+</span>
+
+---
+
+## California CVS locations to carry abortion pills
+
+date: 2024-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Campus Activities marked Hazing Prevention Week by hosting several activities.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/07/california-cvs-to-carry-abortion-pills/">California CVS locations to carry abortion pills</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/07/california-cvs-to-carry-abortion-pills/">https://dailytrojan.com/2024/03/07/california-cvs-to-carry-abortion-pills/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/07/california-cvs-to-carry-abortion-pills/">Save to Pocket</a>
+</span>
+
+---
+
+## The Paper Kites amaze Fonda Theatre
+
+date: 2024-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The band performed songs from its latest album in an enthralling headline performance.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/07/the-paper-kites-amaze-fonda-theatre/">The Paper Kites amaze Fonda Theatre</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/07/the-paper-kites-amaze-fonda-theatre/">https://dailytrojan.com/2024/03/07/the-paper-kites-amaze-fonda-theatre/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/07/the-paper-kites-amaze-fonda-theatre/">Save to Pocket</a>
+</span>
+
+---
+
+## American voters’ relationship status is ‘uncommitted’
+
+date: 2024-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Nikki Haley finally dropped out of the presidential race, and President Joe Biden faces criticism ahead of the State of the Union address.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/07/american-voters-relationship-status-is-uncommitted/">American voters’ relationship status is &#8216;uncommitted&#8217;</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/07/american-voters-relationship-status-is-uncommitted/">https://dailytrojan.com/2024/03/07/american-voters-relationship-status-is-uncommitted/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/07/american-voters-relationship-status-is-uncommitted/">Save to Pocket</a>
+</span>
+
+---
+
+## Honeybird location at USC Village to close Saturday after six years
+
+date: 2024-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Store owner Phil Lee said competition and shrinking business led to the decision.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/07/honeybird-location-at-usc-village-to-close-saturday-after-six-years/">Honeybird location at USC Village to close Saturday after six years</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/07/honeybird-location-at-usc-village-to-close-saturday-after-six-years/">https://dailytrojan.com/2024/03/07/honeybird-location-at-usc-village-to-close-saturday-after-six-years/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/07/honeybird-location-at-usc-village-to-close-saturday-after-six-years/">Save to Pocket</a>
+</span>
+
+---
+
+## Daily Trojan A&E staff on the Academy Awards
+
+date: 2024-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The 96th Oscars ceremony will be held Sunday at the Dolby Theatre in Los Angeles.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/07/daily-trojan-ae-staff-on-the-academy-awards/">Daily Trojan A&#038;E staff on the Academy Awards</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/07/daily-trojan-ae-staff-on-the-academy-awards/">https://dailytrojan.com/2024/03/07/daily-trojan-ae-staff-on-the-academy-awards/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/07/daily-trojan-ae-staff-on-the-academy-awards/">Save to Pocket</a>
+</span>
+
+---
+
+## Men’s basketball set to host Arizona State
+
+date: 2024-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Trojans enter their penultimate regular season game as victors of two of their last three.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/07/mens-basketball-set-to-host-arizona-state/">Men’s basketball set to host Arizona State</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/07/mens-basketball-set-to-host-arizona-state/">https://dailytrojan.com/2024/03/07/mens-basketball-set-to-host-arizona-state/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/07/mens-basketball-set-to-host-arizona-state/">Save to Pocket</a>
+</span>
+
+---
+
+## The Fierce Five of US gymnastics
+
+date: 2024-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The 2012 USA Gymnastics team not only captured gold medals but denounced an undeniable evil. </p>
+<p>The post <a href="https://dailytrojan.com/2024/03/07/the-fierce-five-of-us-gymnastics/">The Fierce Five of US gymnastics</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/07/the-fierce-five-of-us-gymnastics/">https://dailytrojan.com/2024/03/07/the-fierce-five-of-us-gymnastics/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/07/the-fierce-five-of-us-gymnastics/">Save to Pocket</a>
+</span>
+
+---
+
+## Beach volleyball plans to set Tempe ablaze
+
+date: 2024-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>After sweeping its home-opener, USC will take on four intra-conference foes.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/07/203610/">Beach volleyball plans to set Tempe ablaze</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/07/203610/">https://dailytrojan.com/2024/03/07/203610/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/07/203610/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Succession’ snub highlights award process flaws
+
+date: 2024-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The SAG Awards ignored “Succession,” underscoring the issue with award shows.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/07/successions-snubs-at-sag-awards-underscore-award-process-flaws/">&#8216;Succession&#8217; snub highlights award process flaws</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/07/successions-snubs-at-sag-awards-underscore-award-process-flaws/">https://dailytrojan.com/2024/03/07/successions-snubs-at-sag-awards-underscore-award-process-flaws/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/07/successions-snubs-at-sag-awards-underscore-award-process-flaws/">Save to Pocket</a>
+</span>
+
+---
+
+## Kappa Kappa Gamma hosts philanthropic event
+
+date: 2024-03-07, from: The Sundail (CSUN Student Newspaper)
+
+Ever wonder what sorority life is like? It is much different than what the television portrays it to be. Sororities like Kappa Kappa Gamma promote sisterhood and philanthropy. On February...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/179030/news/kappa-kappa-gamma-hosts-philanthropic-event/">https://sundial.csun.edu/179030/news/kappa-kappa-gamma-hosts-philanthropic-event/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/179030/news/kappa-kappa-gamma-hosts-philanthropic-event/">Save to Pocket</a>
+</span>
+
+---
+
+## Can UCLA men’s volleyball solve its libero problem before NCAAs?
+
+date: 2024-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+John Speraw has a problem.
+A libero problem.
+From senior Ethan Champlin to redshirt senior Alex Knight to freshman Luca Curci, UCLA men’s volleyball’s outside hitters have been thrown in with hopes something would stick.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/06/can-ucla-mens-volleyball-solve-its-libero-problem-before-ncaas/">https://dailybruin.com/2024/03/06/can-ucla-mens-volleyball-solve-its-libero-problem-before-ncaas/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/06/can-ucla-mens-volleyball-solve-its-libero-problem-before-ncaas/">Save to Pocket</a>
+</span>
+
+---
+
+## Depth of UCLA men’s tennis roster to keep team afloat in upcoming top-25 matches
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Billy Martin raved about the depth of his team&#8217;s roster.
+&#8220;Gosh, it&#8217;s been a godsend,&#8221; the coach said.
+The Bruins will need every bit of it for their upcoming stretch.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/06/depth-of-ucla-mens-tennis-roster-to-keep-team-afloat-in-upcoming-top-25-matches/">https://dailybruin.com/2024/03/06/depth-of-ucla-mens-tennis-roster-to-keep-team-afloat-in-upcoming-top-25-matches/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/06/depth-of-ucla-mens-tennis-roster-to-keep-team-afloat-in-upcoming-top-25-matches/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA Dining to introduce breakfast, late-night options in spring 2024
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA Dining will offer new breakfast and late-night dining options next quarter.
+Bruin Cafe and Epicuria at Ackerman will serve breakfast options starting next quarter, while De Neve dining hall will also offer a pilot program to bring back its late-night dining options, according to an emailed statement from UCLA Dining.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/06/ucla-dining-to-introduce-breakfast-late-night-options-in-spring-2024/">https://dailybruin.com/2024/03/06/ucla-dining-to-introduce-breakfast-late-night-options-in-spring-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/06/ucla-dining-to-introduce-breakfast-late-night-options-in-spring-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## How to Have a Very Merry Valentine’s Day
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/06/how-to-have-a-very-merry-valentines-day/">https://dailybruin.com/2024/03/06/how-to-have-a-very-merry-valentines-day/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/06/how-to-have-a-very-merry-valentines-day/">Save to Pocket</a>
+</span>
+
+---
+
+## PRIME: Winter 2024
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+From hidden archival collections to burlesque dance groups, there is more to the UCLA community than meets the eye. This quarter, PRIME&#8217;s winter 2024 edition is diving into how Bruins find spaces to express themselves in Westwood – online and in newsstands.
+
+<span class="feed-item-link">
+<a href="https://prime.dailybruin.com/winter24">https://prime.dailybruin.com/winter24</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://prime.dailybruin.com/winter24">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA baseball strikes out at a season-high in loss to Long Beach State
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+A midweek rematch of last week&#8217;s 23-run affair proved to be the antithesis of the former.
+The Dirtbags scored the sole two runs of the game as the Bruins were shut out for the first time since March 2023.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/06/ucla-baseball-strikes-out-at-a-season-high-in-loss-to-long-beach-state/">https://dailybruin.com/2024/03/06/ucla-baseball-strikes-out-at-a-season-high-in-loss-to-long-beach-state/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/06/ucla-baseball-strikes-out-at-a-season-high-in-loss-to-long-beach-state/">Save to Pocket</a>
+</span>
+
+---
+
+## Down to the wire: the final games of UCLA basketball’s time in the Pac-12
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA men&#8217;s basketball is preparing for its final two regular-season games – including its last Pac-12 rivalry game against No. 5 Arizona – and No. 7 UCLA women&#8217;s basketball is heading to Las Vegas for its last Pac-12 tournament.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/tag/ucla-basketball-preview-2024">https://dailybruin.com/tag/ucla-basketball-preview-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/tag/ucla-basketball-preview-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Unanswered questions: The final stretch of Pac-12 UCLA basketball
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Question marks have surrounded both UCLA men’s basketball and No. 7 UCLA women’s basketball since before either of their seasons started. As the former enters the last two games of its regular season and the latter prepares for a conference tournament featuring five other ranked teams, some of those questions still linger.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/06/unanswered-questions-the-final-stretch-of-pac-12-ucla-basketball/">https://dailybruin.com/2024/03/06/unanswered-questions-the-final-stretch-of-pac-12-ucla-basketball/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/06/unanswered-questions-the-final-stretch-of-pac-12-ucla-basketball/">Save to Pocket</a>
+</span>
+
+---
+
+## Cantando: Commentary Chansons
+
+date: 2024-03-06, from: The Sundail (CSUN Student Newspaper)
+
+“Black Parade” Beyoncé Beyoncé celebrated Juneteenth in 2020 with the release of “Black Parade,” which dropped amid the worldwide response to the murder of George Floyd. In the single, Beyoncé...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178885/print-editions/print-stories/cantando-commentary-chansons/">https://sundial.csun.edu/178885/print-editions/print-stories/cantando-commentary-chansons/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178885/print-editions/print-stories/cantando-commentary-chansons/">Save to Pocket</a>
+</span>
+
+---
+
+## Matador Marquee: Diverse Films
+
+date: 2024-03-06, from: The Sundail (CSUN Student Newspaper)
+
+“Killers of the Flower Moon” is a 2023 drama depicting the murders of members of the Osage tribe in Oklahoma amid their rising wealth in the 20th century. After oil...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178949/print-editions/print-stories/matador-marquee-diverse-films/">https://sundial.csun.edu/178949/print-editions/print-stories/matador-marquee-diverse-films/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178949/print-editions/print-stories/matador-marquee-diverse-films/">Save to Pocket</a>
+</span>
+
+---
+
+## Taking the campus temperature since 1949
+
+date: 2024-03-06, from: The Round Up (Pierce College Student Newspaper)
+
+<p>There is one thing that has been documented every day since 1949 at Pierce College—the weather. The weather station at Pierce has been reporting since</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/06/taking-the-campus-temperature-since-1949/">Taking the campus temperature since 1949</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/03/06/taking-the-campus-temperature-since-1949/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-campus-temperature-since-1949">https://theroundupnews.com/2024/03/06/taking-the-campus-temperature-since-1949/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-campus-temperature-since-1949</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/03/06/taking-the-campus-temperature-since-1949/?utm_source=rss&utm_medium=rss&utm_campaign=taking-the-campus-temperature-since-1949">Save to Pocket</a>
+</span>
+
+---
+
+## Students weave cultural connections
+
+date: 2024-03-06, from: The Round Up (Pierce College Student Newspaper)
+
+<p>With a webinar joined by all nine LACCD campuses, Pierce College students and faculty may have literally been able to weave connections between Black history</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/06/students-weave-cultural-connections/">Students weave cultural connections</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/03/06/students-weave-cultural-connections/?utm_source=rss&utm_medium=rss&utm_campaign=students-weave-cultural-connections">https://theroundupnews.com/2024/03/06/students-weave-cultural-connections/?utm_source=rss&utm_medium=rss&utm_campaign=students-weave-cultural-connections</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/03/06/students-weave-cultural-connections/?utm_source=rss&utm_medium=rss&utm_campaign=students-weave-cultural-connections">Save to Pocket</a>
+</span>
+
+---
+
+## All good things come in threes
+
+date: 2024-03-06, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Classical music with a modern touch flowed through the Performing Arts Building with the help of the musicians playing the cello, clarinet and electric guitar,</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/06/all-good-things-come-in-threes/">All good things come in threes</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/03/06/all-good-things-come-in-threes/?utm_source=rss&utm_medium=rss&utm_campaign=all-good-things-come-in-threes">https://theroundupnews.com/2024/03/06/all-good-things-come-in-threes/?utm_source=rss&utm_medium=rss&utm_campaign=all-good-things-come-in-threes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/03/06/all-good-things-come-in-threes/?utm_source=rss&utm_medium=rss&utm_campaign=all-good-things-come-in-threes">Save to Pocket</a>
+</span>
+
+---
+
+## LACCD should let student representative vote
+
+date: 2024-03-06, from: The Round Up (Pierce College Student Newspaper)
+
+<p>By bringing attention to under-discussed issues, student representatives provide crucial advocacy and input on any higher education governing body—so they should be able to vote. </p>
+<p>The post <a href="https://theroundupnews.com/2024/03/06/laccd-should-let-student-representative-vote/">LACCD should let student representative vote</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/03/06/laccd-should-let-student-representative-vote/?utm_source=rss&utm_medium=rss&utm_campaign=laccd-should-let-student-representative-vote">https://theroundupnews.com/2024/03/06/laccd-should-let-student-representative-vote/?utm_source=rss&utm_medium=rss&utm_campaign=laccd-should-let-student-representative-vote</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/03/06/laccd-should-let-student-representative-vote/?utm_source=rss&utm_medium=rss&utm_campaign=laccd-should-let-student-representative-vote">Save to Pocket</a>
+</span>
+
+---
+
+## Improvements still needed: It’s time to fix FAFSA
+
+date: 2024-03-06, from: The Round Up (Pierce College Student Newspaper)
+
+<p>The rollout of this year’s Free Application for Federal Student Aid (FAFSA) has been marred by delays and technical difficulties, causing confusion and problems for</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/06/improvements-still-needed-its-time-to-fix-fafsa/">Improvements still needed: It&#8217;s time to fix FAFSA</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/03/06/improvements-still-needed-its-time-to-fix-fafsa/?utm_source=rss&utm_medium=rss&utm_campaign=improvements-still-needed-its-time-to-fix-fafsa">https://theroundupnews.com/2024/03/06/improvements-still-needed-its-time-to-fix-fafsa/?utm_source=rss&utm_medium=rss&utm_campaign=improvements-still-needed-its-time-to-fix-fafsa</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/03/06/improvements-still-needed-its-time-to-fix-fafsa/?utm_source=rss&utm_medium=rss&utm_campaign=improvements-still-needed-its-time-to-fix-fafsa">Save to Pocket</a>
+</span>
+
+---
+
+## VIN Diesel would approve of this service
+
+date: 2024-03-06, from: The Round Up (Pierce College Student Newspaper)
+
+<p>One worker drove the car into one of two bays. Another scanned the VIN and the vehicle was lifted up by a tow truck driver.</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/06/vin-diesel-would-approve-of-this-service/">VIN Diesel would approve of this service</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/03/06/vin-diesel-would-approve-of-this-service/?utm_source=rss&utm_medium=rss&utm_campaign=vin-diesel-would-approve-of-this-service">https://theroundupnews.com/2024/03/06/vin-diesel-would-approve-of-this-service/?utm_source=rss&utm_medium=rss&utm_campaign=vin-diesel-would-approve-of-this-service</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/03/06/vin-diesel-would-approve-of-this-service/?utm_source=rss&utm_medium=rss&utm_campaign=vin-diesel-would-approve-of-this-service">Save to Pocket</a>
+</span>
+
+---
+
+## Pension divestment from fossil fuels, new unit minimum among topics discussed at Academic Senate
+
+date: 2024-03-06, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Moral and monetary goals don’t often head toward the same conclusions, but a plan to reach both was discussed in the Academic Senate meeting on</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/06/pension-divestment-from-fossil-fuels-and-new-unit-minimum-among-topics-discussed-at-academic-senate/">Pension divestment from fossil fuels, new unit minimum among topics discussed at Academic Senate</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/03/06/pension-divestment-from-fossil-fuels-and-new-unit-minimum-among-topics-discussed-at-academic-senate/?utm_source=rss&utm_medium=rss&utm_campaign=pension-divestment-from-fossil-fuels-and-new-unit-minimum-among-topics-discussed-at-academic-senate">https://theroundupnews.com/2024/03/06/pension-divestment-from-fossil-fuels-and-new-unit-minimum-among-topics-discussed-at-academic-senate/?utm_source=rss&utm_medium=rss&utm_campaign=pension-divestment-from-fossil-fuels-and-new-unit-minimum-among-topics-discussed-at-academic-senate</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/03/06/pension-divestment-from-fossil-fuels-and-new-unit-minimum-among-topics-discussed-at-academic-senate/?utm_source=rss&utm_medium=rss&utm_campaign=pension-divestment-from-fossil-fuels-and-new-unit-minimum-among-topics-discussed-at-academic-senate">Save to Pocket</a>
+</span>
+
+---
+
+## New York Times Daily Games
+
+date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/06/new-york-times-daily-games/">https://dailybruin.com/2024/03/06/new-york-times-daily-games/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/06/new-york-times-daily-games/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -47,6 +449,20 @@ date: 2024-03-06, from: The Occidental News (Occidental College Student Newspape
 
 <span class="feed-item-link">
 <a href="https://theoccidentalnews.com/uncategorized/2024/03/06/mysterious-pillarhenge-project-continues-to-confound-even-as-development-moves-ahead/2911642">https://theoccidentalnews.com/uncategorized/2024/03/06/mysterious-pillarhenge-project-continues-to-confound-even-as-development-moves-ahead/2911642</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/uncategorized/2024/03/06/mysterious-pillarhenge-project-continues-to-confound-even-as-development-moves-ahead/2911642">Save to Pocket</a>
+</span>
+
+---
+
+## Mysterious Pillarhenge project continues to confound, even as development moves ahead
+
+date: 2024-03-06, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>After 20 years, Vanos Architecture, an LA-based firm, along with a new property owner, will accomplish what many thought was impossible: develop Pillarhenge, a long abandoned, 0.63 acre narrow strip of land located at 1332 Colorado Blvd. An LA Times Article said Vanos Architecture first planned a 17 unit multi-use building on the property back [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2024/03/06/mysterious-pillarhenge-project-continues-to-confound-even-as-development-moves-ahead/2911642">Mysterious Pillarhenge project continues to confound, even as development moves ahead</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theoccidentalnews.com/community/2024/03/06/mysterious-pillarhenge-project-continues-to-confound-even-as-development-moves-ahead/2911642">https://theoccidentalnews.com/community/2024/03/06/mysterious-pillarhenge-project-continues-to-confound-even-as-development-moves-ahead/2911642</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theoccidentalnews.com/community/2024/03/06/mysterious-pillarhenge-project-continues-to-confound-even-as-development-moves-ahead/2911642">Save to Pocket</a>
 </span>
 
 ---
@@ -165,7 +581,7 @@ date: 2024-03-06, from: The Occidental News (Occidental College Student Newspape
 
 ## Many Community Colleges Serve Basic Needs. But Free Dental Care? That's A Crowning Achievement
 
-date: 2024-03-06, updated: 2024-03-06, from: The LAist
+date: 2024-03-06, updated: 2024-03-07, from: The LAist
 
 Oral health can impact academic performance. It can also be a learning opportunity for dental hygiene students.
 
@@ -179,7 +595,7 @@ Oral health can impact academic performance. It can also be a learning opportuni
 
 date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
 
-Angelenos voted for Los Angeles City Council seats, LA County Board of Supervisors members, the LA District Attorney, LA Superior Court judges and Measure HLA in Tuesday&#8217;s primary election.
+Angelenos voted for Los Angeles City Council seats, LA County Board of Supervisors members, the LA District Attorney, LA Superior Court judges and Measure HLA in Tuesday’s primary election.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/03/06/2024-primary-election-candidates-in-los-angeles/">https://dailybruin.com/2024/03/06/2024-primary-election-candidates-in-los-angeles/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/06/2024-primary-election-candidates-in-los-angeles/">Save to Pocket</a>
@@ -191,8 +607,8 @@ Angelenos voted for Los Angeles City Council seats, LA County Board of Superviso
 
 date: 2024-03-06, from: The Daily Bruin (UCLA Student Newspaper)
 
-UCLA student Ariana Garcia is running for Compton City Council&#8217;s District 4 seat in the 2024 election. 
-The write-in candidate, who is also a second-year sociology student, grew up in Compton, California.
+<em>This post was updated March 6 at 1:23 p.m.</em>
+UCLA student Ariana Garcia is running for Compton City Council’s District 4 seat in the 2024 election.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/03/06/qa-second-year-ucla-student-ariana-garcia-discusses-her-campaign-for-city-council/">https://dailybruin.com/2024/03/06/qa-second-year-ucla-student-ariana-garcia-discusses-her-campaign-for-city-council/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/06/qa-second-year-ucla-student-ariana-garcia-discusses-her-campaign-for-city-council/">Save to Pocket</a>
@@ -629,11 +1045,11 @@ Snail Mail, the indie rock effort of singer-songwriter Lindsey Jordan, performed
 
 ---
 
-## Live Results: What We Know So Far In LA County District Attorney Race
+## In Crowded Race For LA DA, Incumbent Gascón Is Headed To Runoff
 
-date: 2024-03-05, updated: 2024-03-06, from: The LAist
+date: 2024-03-05, updated: 2024-03-07, from: The LAist
 
-Follow the latest results in the race for Los Angeles County District Attorney.
+Former federal prosecutor Nathan Hochman is currently in second place in the early vote tallies.
 
 <span class="feed-item-link">
 <a href="https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-county-district-attorney">https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-county-district-attorney</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-county-district-attorney">Save to Pocket</a>

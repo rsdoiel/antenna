@@ -1,17 +1,731 @@
 ---
 title: tech likely 2024.10
-updated: 2024-03-06 08:52:57
+updated: 2024-03-07 07:33:06
 ---
 
 # tech likely 2024.10
 
-(date: 2024-03-06 08:52:57)
+(date: 2024-03-07 07:33:06)
+
+---
+
+## New Breakthrough Brings Matrix Multiplication Closer to Ideal
+
+date: 2024-03-07, from: Quanta Magazine
+
+By eliminating a hidden inefficiency, computer scientists have come up with a new way to multiply large matrices that’s faster than ever.            <p>The post <a href="https://www.quantamagazine.org/new-breakthrough-brings-matrix-multiplication-closer-to-ideal-20240307/" target="_blank">New Breakthrough Brings Matrix Multiplication Closer to Ideal</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.quantamagazine.org/new-breakthrough-brings-matrix-multiplication-closer-to-ideal-20240307/">https://www.quantamagazine.org/new-breakthrough-brings-matrix-multiplication-closer-to-ideal-20240307/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.quantamagazine.org/new-breakthrough-brings-matrix-multiplication-closer-to-ideal-20240307/">Save to Pocket</a>
+</span>
+
+---
+
+##  How real do jobs on TV seem? Opinions from an actual preist... 
+
+date: 2024-03-07, updated: 2024-03-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044143-how-real-do-jobs-on">https://kottke.org/24/03/0044143-how-real-do-jobs-on</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044143-how-real-do-jobs-on">Save to Pocket</a>
+</span>
+
+---
+
+## New Look at NASA, Boeing Sustainable Experimental Airliner
+
+date: 2024-03-07, from: NASA breaking news
+
+As NASA and Boeing enter the early stages of producing the X-66, the first X-plane specifically focused on helping the United States achieve net-zero aviation emissions by 2050, the team is already picturing what the aircraft will look like soaring above the clouds.&#160; A new rendering of the X-66 from Boeing demonstrates the aircraft’s signature [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/new-look-at-nasa-boeing-sustainable-experimental-airliner/">https://www.nasa.gov/image-article/new-look-at-nasa-boeing-sustainable-experimental-airliner/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/new-look-at-nasa-boeing-sustainable-experimental-airliner/">Save to Pocket</a>
+</span>
+
+---
+
+##  It&#8217;s that time of year again: the Tournament of Books is underway.... 
+
+date: 2024-03-07, updated: 2024-03-07, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044144-its-that-time-of-year">https://kottke.org/24/03/0044144-its-that-time-of-year</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044144-its-that-time-of-year">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-07, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=SCRrXZP8b0I">Such a Night</a>.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/07.html#a140400">http://scripting.com/2024/03/07.html#a140400</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/07.html#a140400">Save to Pocket</a>
+</span>
+
+---
+
+## Build Your Own Decentralized Dropbox with Syncthing
+
+date: 2024-03-07, from: mrusme blog
+
+In the world of file synchronization, most people are familiar with services
+like Dropbox, Google Drive, or OneDrive. These centralized cloud solutions are
+convenient but come with privacy concerns and potential security risks.
+What if I told you that to synchronize files between individual devices, you
+don't need *the cloud&trade;* ?
+
+<span class="feed-item-link">
+<a href="https://xn--gckvb8fzb.com/build-your-own-decentralized-dropbox-with-syncthing/">https://xn--gckvb8fzb.com/build-your-own-decentralized-dropbox-with-syncthing/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://xn--gckvb8fzb.com/build-your-own-decentralized-dropbox-with-syncthing/">Save to Pocket</a>
+</span>
+
+---
+
+## WANDERLUST
+
+date: 2024-03-07, from: Howard Jacobson blog
+
+He saw her first - no he didn&#8217;t: he beheld her first - in the library of St Ursula&#8217;s College, a grammar school in North Manchester which had agreed to let him research its holdings of once venerated textbooks. Her head appeared above the stacks like that of a browsing giraffe. She even swivelled her jaw as though chewing on an acacia leaf. That was a tic he would come to hate &#8211; as for example when it accompanied a confession that she loved another man, or another woman, or both - but at first it beguiled him. It suggested the absent-mindedness of a person who was always somewhere else. She caught his gaze and smiled at him.
+
+<span class="feed-item-link">
+<a href="https://jacobsonh.substack.com/p/wanderlust">https://jacobsonh.substack.com/p/wanderlust</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://jacobsonh.substack.com/p/wanderlust">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/02/23/hur.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Have you ever seen an investigative report on the <a href="https://thehill.com/homenews/administration/4456879-special-counsel-describes-biden-as-elderly-man-with-a-poor-memory-in-eye-raising-report/">oft-quoted lawyer</a> who <a href="http://scripting.com/2024/02/23.html#a142425">said</a> the nasty shit about Biden's age? Where's the journalism there?? Tell us a bit about his flaws. Is he a Federalist Society guy? Who did he vote for. Any other conflicts of interest? What does he know about aging, btw? Is he an expert? Did he even take a college course on aging? Consult experts before forming his opinion? Also does he feel it's fair for a prosecutor to use his public platform to smear the rep of an innocent person? And finally if there is no respect for the president as a person, what about the office, and the country it serves? Does he have any respect for that? And did he expect to have the light shone on him for making such a bold statement?
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/07.html#a134652">http://scripting.com/2024/03/07.html#a134652</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/07.html#a134652">Save to Pocket</a>
+</span>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-07, from: Dave Winer's Scripting News)
+
+I asked ChatGPT <a href="https://chat.openai.com/share/a0510490-cbff-4b23-a894-329803fa2e49">what plagiarism is</a>, and if it engages in it.
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/07.html#a133844">http://scripting.com/2024/03/07.html#a133844</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/07.html#a133844">Save to Pocket</a>
+</span>
+
+---
+
+## Guestbooks are cool
+
+date: 2024-03-07, from: Manu - I write blog
+
+
+                <p>As I mentioned in a previous post, this site now has a <a href="https://manuelmoreale.com/guestbook">guestbook</a>. But, as someone pointed out, I didn’t explain what the heck a guestbook is. I thought it was pretty self-explanatory but I think it’s worth writing a post about it anyway. On the <a href="https://indieweb.org/guestbook">IndieWeb website</a>, guestbooks are defined as:</p>
+<blockquote>
+<p>a way to allow visitors to your site to leave a comment about the website as a whole, instead of a comment about a specific post.</p>
+</blockquote>
+<p>I think it’s a good definition. Guestbooks are a relic of a different time, back when the web wasn’t dominated by social media and interactions among people moved at a different pace. A guestbook is like a <a href="https://en.wikipedia.org/wiki/Summit_register">summit book</a>, in a way. It’s something you can use to leave a trace of your presence.</p>
+<p>But what do you write on the guestbook? Whatever you want. You can let me know how you landed here, you can use it to suggest a topic, or you can use it to just say hi. Just be kind and respectful.</p>
+<p>I first toyed with the idea of adding a guestbook almost a year ago, after stumbling on <a href="https://sarajoy.dev/guestbook/">Sara Joy’s website</a>. I don’t remember how or why I was there but I loved the guestbook and it took me almost a year to finally code mine.</p>
+<p>And I’m happy to see that <a href="https://kevquirk.com/i-have-a-guestbook">Kev</a> now has one on his site as well! If you decide to add a guestbook to your site send me an email, and I’ll be happy to come sign it.</p>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+            
+
+<span class="feed-item-link">
+<a href="https://manuelmoreale.com/@/page/bKqF2fZHz2mno7Fr">https://manuelmoreale.com/@/page/bKqF2fZHz2mno7Fr</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://manuelmoreale.com/@/page/bKqF2fZHz2mno7Fr">Save to Pocket</a>
+</span>
+
+---
+
+## #ShowUsYourSpecs — Help Raise Awareness About Eclipse Safety
+
+date: 2024-03-07, from: NASA breaking news
+
+  &#160; NASA’s Glenn Research Center is encouraging the public to prepare to safely view this awe-inspiring event. YOU can help us build excitement and raise awareness about eclipse safety by taking photos of people – including yourself! – wearing eclipse glasses. The goal is to show how you will be protecting your eyes during the [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/showusyourspecs-help-raise-awareness-about-eclipse-safety/">https://www.nasa.gov/general/showusyourspecs-help-raise-awareness-about-eclipse-safety/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/showusyourspecs-help-raise-awareness-about-eclipse-safety/">Save to Pocket</a>
+</span>
+
+---
+
+## Improper Gutting
+
+date: 2024-03-07, updated: 2024-03-07, from: One Foot Tsunami
+
+
+
+<span class="feed-item-link">
+<a href="https://onefoottsunami.com/2024/03/07/improper-gutting/">https://onefoottsunami.com/2024/03/07/improper-gutting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://onefoottsunami.com/2024/03/07/improper-gutting/">Save to Pocket</a>
+</span>
+
+---
+
+## Venturing beyond the default OS on Raspberry Pi 5
+
+date: 2024-03-07, updated: 2024-03-07, from: Liam Proven's articles at the Register
+
+<h4>The pros and cons of some other Arm Linux distros for the pocket powerhouse</h4>
+      <p>The Raspberry Pi 5 is a capable little desktop computer, and some alternative distros give you more choices than the default Pi OS.</p>
+
+<span class="feed-item-link">
+<a href="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/07/alt_pi_5_linux_distros/">https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/07/alt_pi_5_linux_distros/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/07/alt_pi_5_linux_distros/">Save to Pocket</a>
+</span>
+
+---
+
+## Magical voxel display captures Doom characters in a crystal ball
+
+date: 2024-03-07, from: Raspberry Pi News (.com)
+
+<p>Maker James Brown built a crystal ball, but instead of showing you the face of your one true love or predicting your elaborate demise, this one displays Doom characters.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/magical-voxel-display-captures-doom-characters-in-a-crystal-ball/">Magical voxel display captures Doom characters in a crystal ball</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.raspberrypi.com/news/magical-voxel-display-captures-doom-characters-in-a-crystal-ball/">https://www.raspberrypi.com/news/magical-voxel-display-captures-doom-characters-in-a-crystal-ball/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.raspberrypi.com/news/magical-voxel-display-captures-doom-characters-in-a-crystal-ball/">Save to Pocket</a>
+</span>
+
+---
+
+## Low-carbon energy does not have the same energy security risks as fossil fuels
+
+date: 2024-03-07, from: Hannah Richie at Substack
+
+Fossil fuel inequities are a risk to energy security. Mineral inequities are a risk to the energy transition.
+
+<span class="feed-item-link">
+<a href="https://www.sustainabilitybynumbers.com/p/energy-security-minerals">https://www.sustainabilitybynumbers.com/p/energy-security-minerals</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.sustainabilitybynumbers.com/p/energy-security-minerals">Save to Pocket</a>
+</span>
+
+---
+
+## On fractional scales, fonts and hinting
+
+date: 2024-03-07, from: Gtk Developer blog
+
+GTK 4.14 will be released very soon, with new renderers that were introduced earlier this year. The new renderers have much improved support for fractional scaling—on my system, I now use 125% scaling instead of the &#8216;Large Text&#8217; setting, and I find that works fine for my needs. Magical numbers Ever since 4.0, GTK has &#8230; <a href="https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/" class="more-link">Continue reading<span class="screen-reader-text"> "On fractional scales, fonts and hinting"</span></a>
+
+<span class="feed-item-link">
+<a href="https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/">https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.gtk.org/2024/03/07/on-fractional-scales-fonts-and-hinting/">Save to Pocket</a>
+</span>
+
+---
+
+## How to Have Sex (2023)
+
+date: 2024-03-07, from: Jessica Smith's blog
+
+<p>Last August, Vivian took me to see the film <cite>How to Have Sex</cite>, which was screening at the Astor as part of the <abbr title="Melbourne International Film Festival">MIFF</abbr>. What Viv did <em>not</em> warn me of adequately before we saw the film was that it&rsquo;s about an eighteen-year-old girl who gets much too drunk and loses her virginity in a sexual encounter that was fundamentally not consensual but also difficult to describe as &ldquo;rape&rdquo;, and as someone who basically <em>was</em> that eighteen-year-old girl a long time ago I&rsquo;d <em>really</em> have appreciated more of a heads-up about that. Watching the film dredged up a <em>lot</em> of long-buried bitterness in me, and truth be told, all these months later I still haven&rsquo;t successfully buried it again. I have been told, of course, that &ldquo;burying trauma isn&rsquo;t the same as dealing with trauma,&rdquo; which honestly I would like to call bullshit on because when my trauma was buried, I felt fine, and now it&rsquo;s been resurrected, I don&rsquo;t, and on the surface that seems to me like a regression.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> To be fair, I don&rsquo;t think Viv looked that deeply into the movie; I think he saw &ldquo;eighteen-year-olds having sex on holiday&rdquo; and went, &ldquo;Sounds amazing, sign me up.&rdquo; Anyway, what&rsquo;s done is done.  Apparently, the film&rsquo;s just entered general release here (<a href="https://www.abc.net.au/news/2024-03-06/how-to-have-sex-molly-manning-walker-cannes/103481472" title="ABC News: Molly Manning Walker&#39;s feature debut How to Have Sex explores consent and sex through the eyes of teens">see ABC article<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a>), so I thought I&rsquo;d dust off this long-stalled draft and try to polish it up.</p>
+<p>The filmmaker herself, Molly Manning Walker, was actually in attendance on that night in August, and there was a Q&amp;A with her after the screening. That was really good in and of itself, and I&rsquo;m glad we stayed for it. She described her film as (along these lines) &ldquo;a very personal story, and one that a lot of people relate to,&rdquo; and made the excellent point that our conversations about consent need to be more nuanced, which I agree with wholeheartedly. She said that &ldquo;the law, which doesn&rsquo;t protect us anyway&rdquo; has its own legal standard for what sexual assault is, but it&rsquo;s such a high bar to clear, and it doesn&rsquo;t mean that everything that falls short of that bar is A-OK and acceptable. So, she said, &ldquo;since the law doesn&rsquo;t protect us anyway,&rdquo; we should move to using our own definitions and having our own conversations about consent, which should be human-focused and centre &ldquo;people just having a good time&rdquo;. People shouldn&rsquo;t just think to themselves, &ldquo;Is this <em>literally rape?</em>&rdquo; but, &ldquo;How can I make sure this other person has a good experience?&rdquo; This is a much more important question.</p>
+<p>Another thing she talked about is the need to reach out to people (and <abbr title="Let's Be Real">LBR</abbr>, mostly men) who are currently engaging in these kinds of coercive, pushy, or not-entirely-consensual sexual practices, and how you&rsquo;ll never actually reach them – you&rsquo;ll repel them and they won&rsquo;t listen – if you brand them &ldquo;rapists&rdquo; or &ldquo;evil scum&rdquo; or whatever. (Even though, I&rsquo;ll admit, I&rsquo;ve succumbed to this temptation myself.) She talked about a meeting she went to with French film distributors who were considering screening this film, and said that one of the men had watched the film and come to the realisation that: &ldquo;I am Paddy.&rdquo; (Paddy being the pushy, manipulative dickhead in the film. And yes, OF COURSE it would be a Frenchman in her anecdote, of course.) She said that while on one level it&rsquo;s obviously shit that he has been a Paddy, it&rsquo;s good that he&rsquo;s been able to come to that realisation and one can only hope that he won&rsquo;t be a Paddy in the future. My experience with my own &ldquo;Paddy&rdquo; leads me to believe it&rsquo;s not <em>nearly</em> as simple as that, but generally speaking I think it&rsquo;s true: there needs to be a &ldquo;way back&rdquo; for people who have been insensitive or, you know, coercive, or sexually cruel, or whatever you could say. There&rsquo;s a huge stigma around &ldquo;being a rapist&rdquo;, for good reason obviously and it&rsquo;s clearly better than society being OK with rapists, but it&rsquo;s just so profoundly unhelpful to have this binary where behaviour is either &ldquo;rape&rdquo; <em>or</em> it&rsquo;s completely fine, or where men are either &ldquo;rapists&rdquo; – forever – <em>or</em> totally innocent. There has to be a way to say, &ldquo;What you did was unacceptable, but you can learn from it; it doesn&rsquo;t have to define you forever.&rdquo; Assuming he actually wants to learn, of course, but convincing such men to want to learn was one of Manning Walker&rsquo;s goals with the film.</p>
+<p>In the critical scene of <cite>How to Have Sex</cite>, the protagonist – Tara – gets separated from her friends during a night&rsquo;s partying and winds up alone on a beach with Paddy, who gets increasingly physical and pushy before pressuring her to have sex with him. Very drunk, and vulnerable, she agrees, but her body language makes it clear it&rsquo;s really not what she wants. As the ABC article quotes her saying, Manning Walker finds it interesting the split reactions she gets about what actually happened in that scene:</p>
+<blockquote>
+<p>Lots of women would come into the room and say &rsquo;thank you for making this film, I&rsquo;ve been through that, I feel seen&rsquo;, and a lot of men would come in quite defensive and say, &lsquo;It&rsquo;s not an assault because she said yes&rsquo;.</p>
+</blockquote>
+<p>I may not have got to tell her so personally, but I absolutely would&rsquo;ve been among those women. Because that really is the critical point&hellip; in the moment, she said yes! So did I, to my everlasting shame. I said more, even, but not because I wanted to. Because I felt trapped, and scared, and I was always way too much of a people-pleaser. I was so afraid I&rsquo;d upset him, because I <em>did</em> really like him, and I didn&rsquo;t want to screw my chances for the future when the situation might actually have felt right. My skin was crawling the entire time, my mind buzzing with a million and one reasons why I was a fucking idiot to have even landed myself there. I could never fully, or even mostly, blame myself – after all, he was the one who stripped me of my clothes without so much as a word when I was frozen up in panic, and there was a <em>huge</em> imbalance in power and experience between us that did not favour me. But of course I blamed myself, in part.</p>
+<p>So was that rape, or was it not? Believe me, I endured a truly exhausting number of arguments both ways, to the point that I really want never to have to try to address that question again. The Q&amp;A with the filmmaker was really excellent because it gave me the liberating answer: <em>it doesn&rsquo;t fucking matter</em>. It doesn&rsquo;t matter whether it was <em>technically</em> rape, or whether I <em>technically</em> consented, or at what exact point of drunkenness one is <em>technically</em> too drunk to consent, or whether there&rsquo;s some kind of sliding scale whereby you can be partially, but not fully, responsible for &ldquo;consenting&rdquo; against your better judgement. Literally none of the bullshit I had to fight about, over and over again, matters at all. The only thing that matters is &ldquo;people having a good time&rdquo;. And by that metric, he utterly failed.</p>
+<p>The problem is, I don&rsquo;t think we have good language for it, this kind of callous sexual behaviour that, perhaps, falls short of being rape. The protagonist of the film is never really able to find the words for what happens to her; at most, I remember her saying weakly, &ldquo;It doesn&rsquo;t really count though.&rdquo; I remember trying to use that same line myself, once, with someone who was trying to &ldquo;YEAHHH YOU GETTEM GIRL&rdquo; me just like Tara&rsquo;s shitty friend was at that point in the film. But in my case, I also had other people – <strong>so many people</strong><sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> – arguing with me very sternly that if I was drunk I couldn&rsquo;t consent and it was <em>rape</em>, and scolding me if I ever failed to call it <em>rape</em>, so I did used to call it that, but it always felt uncomfortably <em>off</em>. I ended up clinging to it anyway, because what else was I going to call it? It was either that or nothing, and I was <em>really</em> sure that what happened wasn&rsquo;t nothing. My &ldquo;Paddy&rdquo; actually became a close friend – not a <em>good</em> friend, but a close one – but the events of that night were always a sticking point between us. Interestingly, given the topic, he did actually accept the label &ldquo;rapist&rdquo;, but he also treated it as a bit of joke. I guess he was defensive; I don&rsquo;t think he ever truly accepted he&rsquo;d done anything I hadn&rsquo;t wanted that night. I was defensive, too, because I knew that he had. For all that the word &ldquo;rape&rdquo; sat uneasily with me, I used it because consensual sex isn&rsquo;t what it felt like either. I clung to it because it felt like anything else would&rsquo;ve been letting him off the hook. If there had been a better word, one that correctly assigned the blame to him for <em>hurting</em> me without trying to imply consent is always a black and white yes–no binary, then sure, I&rsquo;d have preferred to use that. But that word doesn&rsquo;t exist. Probably it should.</p>
+<p>What I really wanted was for him to change. As his friend, I saw all his good qualities too. I was sure he was capable of doing better, being better, than he had been with me (&hellip;and a bunch of other girls about the same age, in different ways, but that&rsquo;s by-the-by). He was a <em>feminist</em>, he claimed; <em>surely</em> he could come to understand the complicated interplay between power dynamics and sex! And so&hellip; I really appreciated Manning Walker&rsquo;s insistence on the same thing, that men can and must learn to be better, rather than &ldquo;rapist&rdquo; becoming a lifelong label that someone can never, ever grow free from. It&rsquo;s something I&rsquo;ve so rarely heard articulated but it strikes me as obviously true. I haven&rsquo;t spoken to my ex-friend in more than a decade now but I really hope he did, eventually, learn.</p>
+<p>One last thing I&rsquo;ll say about this film is that it also depicts that really obnoxious kind of &ldquo;British people getting shitfaced at resorts in southern Europe&rdquo; subculture, which is definitely not my thing. In fact, before I realised what the movie was really about, I&rsquo;d thought I was going to have to tease Viv for taking me to a movie about the three most annoying English girls in film history. Basically they arrive in Greece with two goals: to get wasted and to get laid&hellip; and with the life experience I&rsquo;ve had, I find it truly gobsmacking that <em>anyone</em> would still think these are two things that can be combined.</p>
+<p>I couldn&rsquo;t quite figure out the position the film took on this. You might think, given the subject matter, that it came down firmly against it, but I didn&rsquo;t feel it did. I felt it kind of implied that it <em>is</em> possible to have sex (in a healthy, non-abusive way) when you&rsquo;re shitfaced, it&rsquo;s just Paddy didn&rsquo;t do that, and&hellip; that&rsquo;s not a message I&rsquo;m comfortable with. Of course, given my experiences, I gave a lot of thought back in the day to what it is that <em>makes</em> drunk sex (potentially) abusive, and the thing I kept coming back to is power. Two adults who respect each other as equals, and feel comfortable around each other&hellip; it&rsquo;s unlikely to be abusive in that case. But when you have a power imbalance – like when one of the parties is a young, frightened, virgin – it becomes very problematic, very quickly. So&hellip; I was very uncomfortable with the atmosphere of the resort in the film, which is full of <em>very</em> young adults who seem to have the expectation that they <em>can</em> get fucked up and <em>also</em> have sex with almost total strangers&hellip; like, of course this is going to end badly, what the hell! I just think there needs to be a complete division in people&rsquo;s minds, where &ldquo;partying/clubbing&rdquo; and &ldquo;hooking up&rdquo; are completely unrelated activities. Honestly, there&rsquo;s basically a zero percent chance that a drunken hookup with a guy you barely know is going to feel any good, anyway. I&rsquo;ll admit it&rsquo;s easy for me to say now, as an adult very far removed from that eighteen-year-old girl embarrassed about her ongoing virginity and insecure about whether anyone would ever find her attractive (as Tara, in the film, also is, despite her brash exterior). Even so&hellip; caving in to the advances of a pushy drunk guy who doesn&rsquo;t really care about you at all is not the way. Which is not to try to victim-blame&hellip; the pushy guys are still, ultimately, the ones with the responsibility. I just don&rsquo;t think girls, either, should have this expectation of getting laid on a holiday where they plan to be drunk 24/7. It&rsquo;s not worth the risk, man! Save the hookups for when you&rsquo;re sober.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Don&rsquo;t therapysplain to me that I am wrong, because I know I&rsquo;m wrong. It&rsquo;s called &ldquo;being flippant&rdquo;.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p><abbr title="Life Pro Tip">LPT</abbr>: if you are a member of a small and rigidly repressive socialist organisation, try not to let the questionable circumstances of your first sexual experiences become the political question du jour, because relitigating it constantly with people wanting to have &ldquo;political arguments&rdquo; with you will fuck you up. What a nightmare.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+<span class="feed-item-link">
+<a href="https://www.jayeless.net/2024/03/how-to-have-sex.html">https://www.jayeless.net/2024/03/how-to-have-sex.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jayeless.net/2024/03/how-to-have-sex.html">Save to Pocket</a>
+</span>
+
+---
+
+## The future that never was
+
+date: 2024-03-07, from: OS News
+
+Just before the end of 1989, Microsoft made available the first pre-release version of the long promised 32-bit OS/2 2.0, which was intended to be the first mass-market 32-bit PC operating system. This was accompanied by a press release detailing the $2,600 OS/2 2.0 Software Development Kit (SDK). Unfortunately, the December 1989 pre-release of OS/2 2.0 may not have survived to the present day. But in June 1990, Microsoft shipped the second pre-release of the OS/2 2.0 SDK. And that version has now turned up, after twenty years of searching, and nearly a quarter century after its release! ↫ Michal Necasek at OS/2 Museum OS/2 is one of the biggest what-ifs in tech, and the whole origin story and demise of the platform is worthy of a big budget drama series. It also happens to be one of my favourite retrocomputing platforms of all time, so I may be biased.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138737/the-future-that-never-was/">https://www.osnews.com/story/138737/the-future-that-never-was/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138737/the-future-that-never-was/">Save to Pocket</a>
+</span>
+
+---
+
+## Google’s changes to comply with the DMA
+
+date: 2024-03-07, from: OS News
+
+The European Union&#8217;s Digital Markets Act (DMA) comes into force this week for companies who have been designated. Today, we are sharing some more details about the changes we are making to comply, following product testing we announced earlier this year. ↫ Oliver Bethell on the official Google blog This is Google&#8217;s overview of the changes it&#8217;s implementing to comply with the DMA, some of which the company already announced months ago. Google&#8217;s changes don&#8217;t have as much of a direct, noticeable impact as some other company&#8217;s changes, mostly since a lot of the more impactful consequences of the DMA, such as allowing sideloading and alternative application stores, were already allowed on Android. Other changes, like to Search, will take longer to be noticed. The one thing that stands out is the tone &#8211; compared to Apple&#8217;s communication around the DMA. Whereas Apple sounds like a petulant whiny toddler, Google sounds constructive, to the point, and, well, like an adult. That doesn&#8217;t mean Google&#8217;s post isn&#8217;t also full of shit in places, but at least they&#8217;re being grown-ups about it.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138735/googles-changes-to-comply-with-the-dma/">https://www.osnews.com/story/138735/googles-changes-to-comply-with-the-dma/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138735/googles-changes-to-comply-with-the-dma/">Save to Pocket</a>
+</span>
+
+---
+
+## Lemmings: Can You Dig It?
+
+date: 2024-03-07, from: Tilde.news
+
+<p><a href="https://tilde.news/s/k4qzeq/lemmings_can_you_dig_it">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://www.youtube.com/watch?v=RbAVNKdk9gA">https://www.youtube.com/watch?v=RbAVNKdk9gA</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.youtube.com/watch?v=RbAVNKdk9gA">Save to Pocket</a>
+</span>
+
+---
+
+## Nielsen needs to think again
+
+date: 2024-03-07, updated: 2024-03-07, from: Tink's blog
+
+
+
+<span class="feed-item-link">
+<a href="https://tink.uk/nielsen-needs-to-think-again/">https://tink.uk/nielsen-needs-to-think-again/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tink.uk/nielsen-needs-to-think-again/">Save to Pocket</a>
+</span>
+
+---
+
+## OpenAI’s “Own Goal”
+
+date: 2024-03-06, from: Gary Marcus blog
+
+And why it is becoming increasingly difficult to take them at their word
+
+<span class="feed-item-link">
+<a href="https://garymarcus.substack.com/p/openais-own-goal">https://garymarcus.substack.com/p/openais-own-goal</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://garymarcus.substack.com/p/openais-own-goal">Save to Pocket</a>
+</span>
+
+---
+
+## Set a static IP address with nmtui on Raspberry Pi OS 12 'Bookworm'
+
+date: 2024-03-06, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Set a static IP address with nmtui on Raspberry Pi OS 12 'Bookworm'</span>
+
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Old advice for setting a Raspberry Pi IP address to a static IP on the Pi itself said to edit the <code>/etc/dhcpcd.conf</code> file, and add it there.</p>
+
+<p>But on Raspberry Pi OS 12 and later, <code>dhcpcd</code> is no longer used, everything goes through Network Manager, which is configured via <code>nmcli</code> or <code>nmtui</code>.</p>
+
+<p>So setting a static IP via the command line is a little different.</p>
+
+<p>First, get the interface information—you can get a list of all interfaces with <code>nmcli device status</code>:</p>
+
+<pre><code>$ nmcli device status
+DEVICE         TYPE      STATE                   CONNECTION         
+eth0           ethernet  connected               Wired connection 1 
+lo             loopback  connected (externally)  lo                 
+wlan0          wifi      disconnected            --                 
+</code></pre>
+
+<p>In my case, I want to set an IP on <code>eth0</code>, the built-in Ethernet.</p>
+
+<p>I can get all the current information about that port with <code>nmcli device show eth0</code>, and I can edit the connection using the terminal UI (<code>nmtui</code>):</p></div>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-03-06T17:24:33-06:00" title="Wednesday, March 6, 2024 - 17:24" class="datetime">March 6, 2024</time>
+</span>
+
+<span class="feed-item-link">
+<a href="https://www.jeffgeerling.com/blog/2024/set-static-ip-address-nmtui-on-raspberry-pi-os-12-bookworm">https://www.jeffgeerling.com/blog/2024/set-static-ip-address-nmtui-on-raspberry-pi-os-12-bookworm</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.jeffgeerling.com/blog/2024/set-static-ip-address-nmtui-on-raspberry-pi-os-12-bookworm">Save to Pocket</a>
+</span>
+
+---
+
+## Adding systemd to postmarketOS
+
+date: 2024-03-06, from: OS News
+
+You heard it here first folks: systemd is coming to postmarketOS! As a mobile oriented OS, our main goal has always been to work for everyone. From technical folks to casual users. postmarketOS should have all the benefits you expect from a Linux based distribution, such as being free software, respecting your privacy, getting updates until your device physically breaks, respecting your attention and not shoving advertisements in your face. Your phone should be a tool you use, not the other way around. This is of course not an easy task, one of the main blockers we found as we collaborate more closely with KDE and GNOME developers is that they have a hard time with our OpenRC-based stack. In order to get KDE and GNOME working at all, we use a lot of systemd polyfills on top of OpenRC. So while we are technically &#8220;not using systemd&#8221;, in practice we already do use a large chunk of its components to get KDE and GNOME running, just different versions of those components. While we are very grateful for everybody who works on these polyfills, we must point out that most aren&#8217;t a full replacement, and take additional effort to support and maintain. As much as we might want to romanticise the idea of spending 6, 12, 24 months attempting to come up with an even vaguely competitive alternative to systemd, we would quite simply rather be working on making postmarketOS better. ↫ postmarketOS blog This is the sensible choice to make, and I&#8217;m glad they made it. It makes no sense for a relatively small project that already has to deal with the difficulties of supporting smartphones to also have to deal with shoehorning the smartphone variants of GNOME and KDE into an init system they&#8217;re not at all made for.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138732/adding-systemd-to-postmarketos/">https://www.osnews.com/story/138732/adding-systemd-to-postmarketos/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138732/adding-systemd-to-postmarketos/">Save to Pocket</a>
+</span>
+
+---
+
+##  Beer Me, Obi-Wan! 
+
+date: 2024-03-06, updated: 2024-03-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/beer-me-obi-wan">https://kottke.org/24/03/beer-me-obi-wan</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/beer-me-obi-wan">Save to Pocket</a>
+</span>
+
+---
+
+## Sandboxing Python with Win32 App Isolation
+
+date: 2024-03-06, from: Windows Developer Blog
+
+<p><span data-contrast="auto">Sandboxing Python can be very useful for developers but has been challenging due to the flexibility of CPython implementation. It is particularly useful in many scenarios to have sandboxed Python.  For example, on any webs</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2024/03/06/sandboxing-python-with-win32-app-isolation/">Sandboxing Python with Win32 App Isolation </a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://blogs.windows.com/windowsdeveloper/2024/03/06/sandboxing-python-with-win32-app-isolation/">https://blogs.windows.com/windowsdeveloper/2024/03/06/sandboxing-python-with-win32-app-isolation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blogs.windows.com/windowsdeveloper/2024/03/06/sandboxing-python-with-win32-app-isolation/">Save to Pocket</a>
+</span>
+
+---
+
+## NASA Continues Artemis Moon Rocket Engine Test Series
+
+date: 2024-03-06, from: NASA breaking news
+
+NASA conducted a full-duration RS-25 engine hot fire March 6, continuing a final round of certification testing for production of new engines to help power the SLS (Space Launch System) rocket on future Artemis missions to the Moon and beyond. The full-duration test on the Fred Haise Test Stand at NASA’s Stennis Space Center near [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/nasa-continues-artemis-moon-rocket-engine-test-series/">https://www.nasa.gov/image-article/nasa-continues-artemis-moon-rocket-engine-test-series/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/nasa-continues-artemis-moon-rocket-engine-test-series/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024-03-06 Oddµ beta program for Campaign Wiki
+
+date: 2024-03-06, from: Alex Schroeder's Blog
+
+<h1>2024-03-06 Oddµ beta program for Campaign Wiki</h1>
+
+<p>Campaign Wiki offers a basic wiki for people wanting to keep campaign records for their role-playing games.
+I&rsquo;ve been developing a new software that&rsquo;s now <a href="https://campaignwiki.org/view/index">available for beta testing</a>. That is to say: I think it&rsquo;s ready. I&rsquo;ve been using it for this site for a while, now.</p>
+
+<p>What hasn&rsquo;t been tested is 1. its usability (how well can it be used by people that are mainly interested in their games and not their software) and 2. it&rsquo;s permission setup (the new site no longer allows editing by strangers: you need an account to edit the site).</p>
+
+<p>Well, as soon as the first person signed up, problems started showing up in both areas! 😅</p>
+
+<p>So I&rsquo;ve been busy fixing bugs and writing documentation.</p>
+
+<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p>
+
+<span class="feed-item-link">
+<a href="https://alexschroeder.ch/view/2024-03-06-campaign-wiki-beta">https://alexschroeder.ch/view/2024-03-06-campaign-wiki-beta</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-03-06-campaign-wiki-beta">Save to Pocket</a>
+</span>
+
+---
+
+## The Marshall Star for March 6, 2024
+
+date: 2024-03-06, from: NASA breaking news
+
+Marshall Supports NASA’s SpaceX Crew-8 Launch By Jessica Barnett Team members at NASA’s Marshall Space Flight Center celebrated another successful launch as astronauts on NASA’s SpaceX Crew-8 mission began the journey to the International Space Station in the late hours of March 3. Marshall’s support team is part of the agency’s CCP (Commercial Crew Program) [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-march-6-2024/">https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-march-6-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-march-6-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Terminates Epic Games’ Developer Account Again
+
+date: 2024-03-06, from: Michael Tsai
+
+Epic Games (Hacker News): We recently announced that Apple approved our Epic Games Sweden AB developer account. We intended to use that account to bring the Epic Games Store and Fortnite to iOS devices in Europe thanks to the Digital Markets Act (DMA). To our surprise, Apple has terminated that account and now we cannot [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/03/06/apple-terminates-epic-games-developer-account-again/">https://mjtsai.com/blog/2024/03/06/apple-terminates-epic-games-developer-account-again/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/03/06/apple-terminates-epic-games-developer-account-again/">Save to Pocket</a>
+</span>
+
+---
+
+## ToothFairy 2.8.4
+
+date: 2024-03-06, from: Michael Tsai
+
+ToothFairy 2.8.4 is a maintenance update of my Bluetooth menu bar utility. The focus is on better handling of a variety of edge cases to improve the battery level, sound quality, and connection features. The macOS Bluetooth APIs don&#8217;t always correctly connect a device (e.g. may not update the sound output device), so ToothFairy will [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/03/06/toothfairy-2-8-4/">https://mjtsai.com/blog/2024/03/06/toothfairy-2-8-4/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/03/06/toothfairy-2-8-4/">Save to Pocket</a>
+</span>
+
+---
+
+## HP All-In Plan
+
+date: 2024-03-06, from: Michael Tsai
+
+Scharon Harding: HP launched a subscription service today that rents people a printer, allots them a specific amount of printed pages, and sends them ink for a monthly fee. HP is framing its service as a way to simplify printing for families and small businesses, but the deal also comes with monitoring and a years-long [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/03/06/hp-all-in-plan/">https://mjtsai.com/blog/2024/03/06/hp-all-in-plan/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/03/06/hp-all-in-plan/">Save to Pocket</a>
+</span>
+
+---
+
+## Swift 5.10
+
+date: 2024-03-06, from: Michael Tsai
+
+Holly Borla (Mastodon): Swift 5.10 accomplishes full data isolation in the concurrency language model. This important milestone has taken years of active development over many releases. The concurrency model was introduced in Swift 5.5 including async/await, actors, and structured concurrency. Swift 5.7 introduced Sendable as the fundamental concept for thread-safe types whose values can be [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/03/06/swift-5-10/">https://mjtsai.com/blog/2024/03/06/swift-5-10/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/03/06/swift-5-10/">Save to Pocket</a>
+</span>
+
+---
+
+## Xcode 15.3
+
+date: 2024-03-06, from: Michael Tsai
+
+Apple (direct download): Xcode 15.3 includes SDKs for iOS 17.4, iPadOS 17.4, tvOS 17.4, watchOS 10.4, macOS Sonoma 14.4, and visionOS 1.1. The Xcode 15.3 release supports on-device debugging in iOS 12 and later, tvOS 12 and later, watchOS 4 and later, and visionOS. Xcode 15.3 requires a Mac running macOS Sonoma 14 or later. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://mjtsai.com/blog/2024/03/06/xcode-15-3/">https://mjtsai.com/blog/2024/03/06/xcode-15-3/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://mjtsai.com/blog/2024/03/06/xcode-15-3/">Save to Pocket</a>
+</span>
+
+---
+
+## SEthernet: Modern, low-cost 10/100 Ethernet for the Macintosh SE and SE/30
+
+date: 2024-03-06, from: Tilde.news
+
+<p><a href="https://tilde.news/s/utpwhh/sethernet_modern_low_cost_10_100_ethernet">Comments</a></p>
+
+<span class="feed-item-link">
+<a href="https://github.com/rhalkyard/SEthernet">https://github.com/rhalkyard/SEthernet</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://github.com/rhalkyard/SEthernet">Save to Pocket</a>
+</span>
+
+---
+
+## Artemis Generation Students Inspired During NASA STEM Event
+
+date: 2024-03-06, from: NASA breaking news
+
+By Bo Black at NASA’s Stennis Space Center, with assistance from students at Pascagoula (Mississippi) High School, Hancock County (Mississippi) Career Technical Center, and Springfield (Louisiana) High School The questions kept coming, exceeding the allotted time, as students at NASA’s Next Gen STEM event in late February explored the importance of computer science for future [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/image-article/artemis-generation-students-inspired-during-nasa-stem-event/">https://www.nasa.gov/image-article/artemis-generation-students-inspired-during-nasa-stem-event/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/image-article/artemis-generation-students-inspired-during-nasa-stem-event/">Save to Pocket</a>
+</span>
+
+---
+
+## Blogroll 2.0
+
+date: 2024-03-06, from: Dave Winer's Scripting News
+
+<p>A blogroll is a piece of an open, super low-tech, small pieces loosely joined, social network. And will help us bootstrap textcasting. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/03/06/powerblogroll.png"></center>OPML still has a lot to give. </div></p>
+
+
+<span class="feed-item-link">
+<a href="http://scripting.com/2024/03/06/210026.html?title=blogroll20">http://scripting.com/2024/03/06/210026.html?title=blogroll20</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/06/210026.html?title=blogroll20">Save to Pocket</a>
+</span>
+
+---
+
+##  Beowulf, translated into Gen Z English. &#8220;A smol bean to start with,... 
+
+date: 2024-03-06, updated: 2024-03-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044139-beowulf-translated-into-g">https://kottke.org/24/03/0044139-beowulf-translated-into-g</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044139-beowulf-translated-into-g">Save to Pocket</a>
+</span>
+
+---
+
+## “Don’t expect help from the disruptors”: The FT’s chief executive on AI, “loyalist” readers, and its U.S. expansion
+
+date: 2024-03-06, from: Nieman Journalism Lab
+
+There has been a remarkable amount of consistency at the Financial Times and I&#8217;m not just talking about the pink paper, which celebrated its 130th anniversary last year. FT Group CEO John Ridding has been chief executive since 2006 after first joining the news org as a reporter in 1988. The FT&#8217;s strategic and editorial...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/03/dont-expect-help-from-the-disruptors-the-fts-chief-executive-on-ai-loyalist-readers-and-its-u-s-expansion/">https://www.niemanlab.org/2024/03/dont-expect-help-from-the-disruptors-the-fts-chief-executive-on-ai-loyalist-readers-and-its-u-s-expansion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/03/dont-expect-help-from-the-disruptors-the-fts-chief-executive-on-ai-loyalist-readers-and-its-u-s-expansion/">Save to Pocket</a>
+</span>
+
+---
+
+## Google announces measures to fight spam in its search results
+
+date: 2024-03-06, from: OS News
+
+Every day, people turn to Search to find the best of what the web has to offer. We’ve long had policies and automated systems to fight against spammers, and we work to address emerging tactics that look to game our results with low-quality content. We regularly update those policies and systems to effectively tackle these trends so we can continue delivering useful content and connecting people with high-quality websites. Today we’re announcing key changes we’re making to improve the quality of Search and the helpfulness of your results. ↫ Elizabeth Tucker on the official Google blog Low-quality SEO spam has been a problem on Google for years, but the recent advent of &#8220;AI&#8221; tools has wreaked absolute havoc in the search results. It&#8217;s a damn blood bath out there. It&#8217;s not up to Google to fix its own mess, so let&#8217;s wait and see if these changes will do anything to reverse the downward spiral Google Search has been in for years now.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138729/google-announces-measures-to-fight-spam-in-its-search-results/">https://www.osnews.com/story/138729/google-announces-measures-to-fight-spam-in-its-search-results/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138729/google-announces-measures-to-fight-spam-in-its-search-results/">Save to Pocket</a>
+</span>
+
+---
+
+## FreeBSD 13.3 released
+
+date: 2024-03-06, from: OS News
+
+FreeBSD 13.3 has been released, and as this is a point release of the stable branch, it&#8217;s not a major shake-up or overhaul of the platform. We&#8217;ve got the usual updated versions of LLVM, clang, OpenSSH, and so on, and there&#8217;s a number of stability fixes to native and LinuxKPI-based WiFi drivers. Of course, there&#8217;s much more, so head on over to the release notes for the full details.
+
+<span class="feed-item-link">
+<a href="https://www.osnews.com/story/138727/freebsd-13-3-released/">https://www.osnews.com/story/138727/freebsd-13-3-released/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.osnews.com/story/138727/freebsd-13-3-released/">Save to Pocket</a>
+</span>
+
+---
+
+##  100 Years Ago in Photos: 1924 
+
+date: 2024-03-06, updated: 2024-03-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/100-years-ago-in-photos-1924">https://kottke.org/24/03/100-years-ago-in-photos-1924</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/100-years-ago-in-photos-1924">Save to Pocket</a>
+</span>
+
+---
+
+##  A review of basic income experiments around the US. &#8220;Supporters say it... 
+
+date: 2024-03-06, updated: 2024-03-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044132-a-review-of-basic-income">https://kottke.org/24/03/0044132-a-review-of-basic-income</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044132-a-review-of-basic-income">Save to Pocket</a>
+</span>
+
+---
+
+##  Wooooo! XOXO is coming back for one last conference. I will see... 
+
+date: 2024-03-06, updated: 2024-03-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044135-wooooo-xoxo-is-coming-bac">https://kottke.org/24/03/0044135-wooooo-xoxo-is-coming-bac</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044135-wooooo-xoxo-is-coming-bac">Save to Pocket</a>
+</span>
+
+---
+
+## Funding and Learning Opportunities to Build Better
+
+date: 2024-03-06, from: Infrastructure LA Blog
+
+Funding and Learning Opportunities to Build Better Spring is in the air, and with it comes a renewed sense of possibility for building better infrastructure. This month, we're sharing opportunities that focus on empowering communities, enhancing safety, and fostering innovation. We encourage you to explore them and learn more about how you can make  [...]
+
+<span class="feed-item-link">
+<a href="https://infrastructurela.org/intel21/?utm_source=rss&utm_medium=rss&utm_campaign=intel21">https://infrastructurela.org/intel21/?utm_source=rss&utm_medium=rss&utm_campaign=intel21</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://infrastructurela.org/intel21/?utm_source=rss&utm_medium=rss&utm_campaign=intel21">Save to Pocket</a>
+</span>
+
+---
+
+##  Membership Pricing 
+
+date: 2024-03-06, updated: 2024-03-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/membership-pricing">https://kottke.org/24/03/membership-pricing</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/membership-pricing">Save to Pocket</a>
+</span>
+
+---
+
+## Google wants to redirect traffic from AI-generated spam blogs to legit websites
+
+date: 2024-03-06, from: Nieman Journalism Lab
+
+Google is one of the most important vectors for online spammers and scammers. The search engine&#8217;s dominance means that, if you want to generate traffic — a.k.a. potential marks — you&#8217;ll probably need to convince Google&#8217;s algorithm to send it your way. And there&#8217;s a good chance the resulting traffic will be monetized using Google&#8217;s...
+
+<span class="feed-item-link">
+<a href="https://www.niemanlab.org/2024/03/google-wants-to-redirect-traffic-from-ai-generated-spam-blogs-to-legit-websites/">https://www.niemanlab.org/2024/03/google-wants-to-redirect-traffic-from-ai-generated-spam-blogs-to-legit-websites/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.niemanlab.org/2024/03/google-wants-to-redirect-traffic-from-ai-generated-spam-blogs-to-legit-websites/">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 Associate Administrator (AA) Awards Honorees
+
+date: 2024-03-06, from: NASA breaking news
+
+LEGEND: ARMD NASA CENTERS ARC = Ames Research Center AFRC = Armstrong Flight Research Center GRC = Glenn Research Center HQ = Headquarters LaRC = Langley Research Center Technology and Innovation Honoree (Group)ecoDemonstrator Emissions Flight and Ground Test TeamThe ecoDemonstrator Emissions Flight and Ground Test team demonstrated remarkable performance and innovative technical achievement by making [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/2023-associate-administrator-aa-awards-honorees/">https://www.nasa.gov/general/2023-associate-administrator-aa-awards-honorees/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/2023-associate-administrator-aa-awards-honorees/">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 Technology and Innovation Honoree (Group)
+
+date: 2024-03-06, from: NASA breaking news
+
+2023 Aeronautics Research Mission Directorate Associate Administrator Awards Technology and Innovation Honoree ecoDemonstrator Emissions Flight and Ground Test Team * Denotes Team Lead NASA Langley Research CenterBruce AndersonJoseph AtkinsonRosemary BaizeJohn BarrickRory Barton-GrimleyKristopher BedkaSeth BegayMatthew BrownMelinda CagleYonghoon ChoiJim CollinsBrian CollisterJohn CooneyGarfield CrearyEwan CrosbieMaurice CrossHarper DavidJoshua DiGangiMary DiJosephGlenn DiskinDave DudaTrina DyalDavid EckbergRichard FerrareFrancesca GalloMarisol GarciaJohn HairCarolyn JordanGrant [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/2023-technology-and-innovation-honoree-group/">https://www.nasa.gov/general/2023-technology-and-innovation-honoree-group/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/2023-technology-and-innovation-honoree-group/">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 Technology and Innovation (Honorable Mention Group)
+
+date: 2024-03-06, from: NASA breaking news
+
+2023 Aeronautics Research Mission Directorate Associate Administrator (AA) Awards Unmanned Aerial Systems Pilot (UASP) Kit Development Team * Denotes Team Lead NASA Ames Research CenterJoey Mercer*Lynne Martin*Lauren RobertsYasmin Arbab NASA Glenn Research CenterCharles SheeheDavid Fuller ASRC Federal Data Solutions, LLCCharles WalterCharles WhatleyWillam McCarty 2023 AA Award Honorees 2023 AA Award Honorees PDF ARMD Associate Administrator [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/2023-technology-and-innovation-honorable-mention-group/">https://www.nasa.gov/general/2023-technology-and-innovation-honorable-mention-group/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/2023-technology-and-innovation-honorable-mention-group/">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 Program and Mission Support Honoree (Group)
+
+date: 2024-03-06, from: NASA breaking news
+
+2023 Aeronautics Research Mission Directorate Associate Administrator (AA) Awards Remote Pilot Beyond Visual Line of Sight (BVLOS) Training Team * Denotes Team Lead NASA Ames Research CenterMelissa A. HillBrian K. HutchinsonBryan J. PettyBill K. BuckBrent P. Pickering Metis Flight Research Associates, LLCBenjamin P. JenkinsJoshua K. CarbonneauRegina J. Tober RSESJacob Revesz* 2023 AA Award Honorees 2023 [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/2023-program-and-mission-support-honoree-group/">https://www.nasa.gov/general/2023-program-and-mission-support-honoree-group/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/2023-program-and-mission-support-honoree-group/">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 Pushing the Envelope Honoree (Group)
+
+date: 2024-03-06, from: NASA breaking news
+
+2023 Aeronautics Research Mission Directorate Associate Administrator Awards Pushing the Envelope Honoree X-57 Maxwell Team * Denotes Team Lead NASA Armstrong Flight Research CenterBony J. BacaJeffrey E. BakerKaleiokalani J. BarelaEthan A. BaumannPaul S. BeanMatthew J. BerryKeerti K. BhamidipatiAndrew D. BluaJohn K. BodylskiKirsten M. BoogaardTrong T. BuiBradley S. ButlerSean C. ClarkeBruce R. CoganJohn G. CogginsJames R. [&#8230;]
+
+<span class="feed-item-link">
+<a href="https://www.nasa.gov/general/2023-pushing-the-envelope-honoree-group/">https://www.nasa.gov/general/2023-pushing-the-envelope-honoree-group/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.nasa.gov/general/2023-pushing-the-envelope-honoree-group/">Save to Pocket</a>
+</span>
+
+---
+
+##  Is it just me, or has &#8220;unhinged&#8221; reached peak saturation? It feels... 
+
+date: 2024-03-06, updated: 2024-03-06, from: Jason Kottke blog
+
+
+
+<span class="feed-item-link">
+<a href="https://kottke.org/24/03/0044125-is-it-just-me-or">https://kottke.org/24/03/0044125-is-it-just-me-or</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kottke.org/24/03/0044125-is-it-just-me-or">Save to Pocket</a>
+</span>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2024-03-06, from: Dave Winer's Scripting News)
 
-I asked ChatGPT how to <a href="https://chat.openai.com/share/6e5114b0-75e0-4496-b16c-eaffecb5647f">create a WordPress plugin</a>. Such an amazing tool, it climbs over barriers to entry in a single bound. <span class="spOldSchoolEmoji">😉</span>
+I asked ChatGPT how to <a href="https://chat.openai.com/share/6e5114b0-75e0-4496-b16c-eaffecb5647f">create a WordPress plugin</a>. Such an amazing tool, it leaps over barriers to entry in a single bound. <span class="spOldSchoolEmoji">😉</span>
 
 <span class="feed-item-link">
 <a href="http://scripting.com/2024/03/06.html#a164804">http://scripting.com/2024/03/06.html#a164804</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://scripting.com/2024/03/06.html#a164804">Save to Pocket</a>
@@ -231,29 +945,6 @@ date: 2024-03-06, updated: 2024-03-06, from: Liam Proven's articles at the Regis
 
 ---
 
-## Oddµ beta program for Campaign Wiki
-
-date: 2024-03-06, from: Alex Schroeder's Blog
-
-<h1>Oddµ beta program for Campaign Wiki</h1>
-
-<p>Campaign Wiki offers a basic wiki for people wanting to keep campaign records for their role-playing games.
-I&rsquo;ve been developing a new software that&rsquo;s now <a href="https://campaignwiki.org/view/index">available for beta testing</a>. That is to say: I think it&rsquo;s ready. I&rsquo;ve been using it for this site for a while, now.</p>
-
-<p>What hasn&rsquo;t been tested is 1. its usability (how well can it be used by people that are mainly interested in their games and not their software) and 2. it&rsquo;s permission setup (the new site no longer allows editing by strangers: you need an account to edit the site).</p>
-
-<p>Well, as soon as the first person signed up, problems started showing up in both areas! 😅</p>
-
-<p>So I&rsquo;ve been busy fixing bugs and writing documentation.</p>
-
-<p><a class="tag" href="/search/?q=%23Oddµ">#Oddµ</a></p>
-
-<span class="feed-item-link">
-<a href="https://alexschroeder.ch/view/2024-03-06-campaign-wiki-beta">https://alexschroeder.ch/view/2024-03-06-campaign-wiki-beta</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://alexschroeder.ch/view/2024-03-06-campaign-wiki-beta">Save to Pocket</a>
-</span>
-
----
-
 ## This phone charger only works when your eyes are closed
 
 date: 2024-03-06, from: Raspberry Pi News (.com)
@@ -304,6 +995,66 @@ curl -fsSL https://get.pigsty.cc/latest</code></p>
 
 <span class="feed-item-link">
 <a href="https://www.postgresql.org/about/news/pigsty-battery-included-postgresql-distro-free-rds-alternative-v26-released-2816/">https://www.postgresql.org/about/news/pigsty-battery-included-postgresql-distro-free-rds-alternative-v26-released-2816/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postgresql.org/about/news/pigsty-battery-included-postgresql-distro-free-rds-alternative-v26-released-2816/">Save to Pocket</a>
+</span>
+
+---
+
+## DOAJ and Crossref renew their partnership to support the least-resourced journals
+
+date: 2024-03-06, from: Crossref Blog
+
+<p>Crossref and DOAJ share the aim to encourage the dissemination and use of scholarly research using online technologies and to work with and through regional and international networks, partners, and user communities for the achievement of their aims to build local institutional capacity and sustainability.
+Both organisations agreed to work together in 2021 in a variety of ways, but primarily to ‘encourage the dissemination and use of scholarly research using online technologies, and regional and international networks, partners and communities, helping to build local institutional capacity and sustainability around the world.’ Some of the fruits of this labour are:</p>
+<ul>
+<li>DOAJ added support for Crossref XML to make it easier for publishers to upload metadata</li>
+<li>Closer collaboration between customer/member support at both organisations, making it easier for publishers and journal editors to navigate both service’s technologies</li>
+<li>the launch of PLACE: ‘a ‘one-stop shop’ for information to support publishers in adopting best practices the industry developed’ (together with other partners)</li>
+<li>a pilot gap analysis of the journals in DOAJ with the possibility of helping them start to use and resolve DOIs.</li>
+</ul>
+<p>The new agreement, signed earlier this month, will slightly shift focus to build upon existing collaborations, particularly around metadata. One of the primary sections of the MOU is enhancing support for the least-resourced journals by:</p>
+<ul>
+<li>Assigning DOIs and depositing the metadata with Crossref
+*Finding ways to improve their DOAJ application experience to help them become indexed</li>
+<li>Collect and ingest their Crossref metadata into DOAJ</li>
+<li>Help them to get preserved via JASPER or similar initiatives</li>
+<li>Help identify other local partners, such as Crossref Sponsoring Organisations, to support their use of Crossref services</li>
+</ul>
+<div class="quotecite">
+<blockquote>
+<p>It’s great that we can further underpin what is already a good working relationship. Both Crossref and DOAJ are central to discovery so it’s a natural partnership. Helping journals meet better standards and become indexed to make them more discoverable on a global scale is at the heart of our strategy. This agreement opens up a new avenue that allows the community to really focus on supporting those journals and the research they publish.’</p>
+</blockquote>
+<p><cite>&ndash; Joanna Ball, Managing Director of DOAJ</cite></p>
+</div>
+<div class="quotecite">
+<blockquote>
+<p>‘The collaborations with DOAJ so far only reconfirmed our shared goal to help make the global scholarly communications system more equitable wherever we can. Our joint projects aim to seek out and devise support for resource-constrained journals in multiple ways. DOAJ’s work is essential in helping journals to develop good practice, while Crossref offers an open infrastructure to ensure all journals can be included and discoverable in the global scholarly record.’</p>
+</blockquote>
+<p><cite>&ndash; Ginny Hendricks, Director of Member and Community Outreach at Crossref</cite></p>
+</div>
+<p>&mdash;&mdash;&ndash; END &mdash;&mdash;</p>
+<h3 id="about-doaj">About DOAJ</h3>
+<p>DOAJ is a community-curated online directory that indexes and provides access to high quality, open access, peer reviewed journals. DOAJ deploys around one hundred carefully selected volunteers from the community of library and other academic disciplines to assist in curating open access journals. This independent database contains over 20,400 peer-reviewed open access journals covering all areas of science, technology, medicine, social sciences, arts and humanities. DOAJ is financially supported worldwide by libraries, publishers and other like-minded organizations. DOAJ services (including the evaluation of journals) are free for all, and all data provided by DOAJ are harvestable via OAI/PMH and the API. See <a href="https://doaj.org/" target="_blank">https://doaj.org/</a> for more information.</p>
+<h3 id="about-crossref">About Crossref</h3>
+<p>Crossref is a global community-governed open scholarly infrastructure that makes all kinds of research objects easy to find, assess, and reuse through a number of services critical to research communications, including an open metadata API that sees over 1.5 billion queries every month. Crossref’s ~20,000 members come from 155 countries and are made up of universities, publishers, funders, government bodies, libraries, and research groups. Their ~155 million DOI records contribute to the collective vision of a rich and reusable open network of relationships connecting research organizations, people, things, and actions; a scholarly record that the global community can build on forever, for the benefit of society.</p>
+<p>For more information please contact:
+<a href="mailto:louise@doaj.org">louise@doaj.org</a> and <a href="mailto:rclark@crossref.org">rclark@crossref.org</a></p>
+<figure><img src="https://www.crossref.org/images/blog/2024/doaj-crossref-twitter-post-new-2024-1.png" width="80%"/>
+</figure>
+
+<span class="feed-item-link">
+<a href="https://www.crossref.org/blog/doaj-and-crossref-renew-their-partnership-to-support-the-least-resourced-journals/">https://www.crossref.org/blog/doaj-and-crossref-renew-their-partnership-to-support-the-least-resourced-journals/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.crossref.org/blog/doaj-and-crossref-renew-their-partnership-to-support-the-least-resourced-journals/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024-03-06: FreeBSD has a(nother) new C compiler: Intel oneAPI DPC++/C++
+
+date: 2024-03-06, from: Brian Robert Callahan blog
+
+A walkthrough to get Intel oneAPI DPC++/C++ to output native binaries for FreeBSD
+
+<span class="feed-item-link">
+<a href="https://briancallahan.net/blog/20240306.html">https://briancallahan.net/blog/20240306.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://briancallahan.net/blog/20240306.html">Save to Pocket</a>
 </span>
 
 ---
@@ -430,7 +1181,7 @@ Operated by NASA and the French space agency, the Surface Water and Ocean Topogr
 
 date: 2024-03-05, from: Dave Winer's Scripting News
 
-<p>All these different networks, but it's all the same kind of writing. </p>
+<p>All these different networks, but it's all the same kind of writing.  </p>
 <p>I just pasted a link to a Substack post into a Threads document. </p>
 <p>It would make so much sense if the document itself was readable right there, wouldn't it?</p>
 <p>Is the concept of a "web page" all that valuable?</p>
