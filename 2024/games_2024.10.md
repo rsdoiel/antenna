@@ -1,11 +1,131 @@
 ---
 title: games 2024.10
-updated: 2024-03-07 07:33:07
+updated: 2024-03-08 07:50:14
 ---
 
 # games 2024.10
 
-(date: 2024-03-07 07:33:07)
+(date: 2024-03-08 07:50:14)
+
+---
+
+## Dragon Ball creator Akira Toriyama dies at 68
+
+date: 2024-03-08, updated: 2024-03-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24094335/dragon-ball-creator-akira-toriyama-obtiturary">https://www.polygon.com/24094335/dragon-ball-creator-akira-toriyama-obtiturary</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24094335/dragon-ball-creator-akira-toriyama-obtiturary">Save to Pocket</a>
+</span>
+
+---
+
+## Star Wars: Unlimited is available starting today. Here’s where to buy it
+
+date: 2024-03-08, updated: 2024-03-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24092536/star-wars-unlimited-tcg-accessories-where-to-buy">https://www.polygon.com/deals/24092536/star-wars-unlimited-tcg-accessories-where-to-buy</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24092536/star-wars-unlimited-tcg-accessories-where-to-buy">Save to Pocket</a>
+</span>
+
+---
+
+## Cluckin’ Bell Farms Raid missions and rewards in GTA Online
+
+date: 2024-03-08, updated: 2024-03-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gta-online-guides/24093519/cluckin-bell-farms-raid">https://www.polygon.com/gta-online-guides/24093519/cluckin-bell-farms-raid</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gta-online-guides/24093519/cluckin-bell-farms-raid">Save to Pocket</a>
+</span>
+
+---
+
+## Star Wars: Unlimited can make you a deck builder overnight
+
+date: 2024-03-08, updated: 2024-03-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24086008/star-wars-unlimited-tcg-review">https://www.polygon.com/reviews/24086008/star-wars-unlimited-tcg-review</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24086008/star-wars-unlimited-tcg-review">Save to Pocket</a>
+</span>
+
+---
+
+## What time does Fortnite downtime end and Chapter 5 Season 2 start?
+
+date: 2024-03-08, updated: 2024-03-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time">https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time">Save to Pocket</a>
+</span>
+
+---
+
+## For some Helldivers 2 players, the fascist role-play has gone too far
+
+date: 2024-03-08, updated: 2024-03-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24093674/helldivers-2-discord-meta-role-play-fandom-joel">https://www.polygon.com/24093674/helldivers-2-discord-meta-role-play-fandom-joel</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24093674/helldivers-2-discord-meta-role-play-fandom-joel">Save to Pocket</a>
+</span>
+
+---
+
+## Every RPG should pre-release a free character creator like Dragon’s Dogma 2 has
+
+date: 2024-03-08, updated: 2024-03-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24094215/dragons-dogma-2-free-character-creator-demo">https://www.polygon.com/24094215/dragons-dogma-2-free-character-creator-demo</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24094215/dragons-dogma-2-free-character-creator-demo">Save to Pocket</a>
+</span>
+
+---
+
+## Imaginary is a mess of a horror movie, and not in the fun way
+
+date: 2024-03-08, updated: 2024-03-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24093592/imaginary-review-horror-movie-blumhouse-teddy-bear-chauncey">https://www.polygon.com/reviews/24093592/imaginary-review-horror-movie-blumhouse-teddy-bear-chauncey</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24093592/imaginary-review-horror-movie-blumhouse-teddy-bear-chauncey">Save to Pocket</a>
+</span>
+
+---
+
+## How to start New Game Plus in Spider-Man 2 for PS5
+
+date: 2024-03-08, updated: 2024-03-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/spider-man-2-guides/23931803/new-game-plus">https://www.polygon.com/spider-man-2-guides/23931803/new-game-plus</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/spider-man-2-guides/23931803/new-game-plus">Save to Pocket</a>
+</span>
+
+---
+
+## GTA Online update for the week of March 7
+
+date: 2024-03-08, updated: 2024-03-08, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events">https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events">Save to Pocket</a>
+</span>
 
 ---
 
@@ -185,18 +305,6 @@ date: 2024-03-06, updated: 2024-03-06, from: Polygon Website
 
 <span class="feed-item-link">
 <a href="https://www.polygon.com/24091605/dune-2-zendaya-movie-star-best-performance">https://www.polygon.com/24091605/dune-2-zendaya-movie-star-best-performance</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24091605/dune-2-zendaya-movie-star-best-performance">Save to Pocket</a>
-</span>
-
----
-
-## What time does Fortnite Chapter 5 Season 2 start?
-
-date: 2024-03-06, updated: 2024-03-06, from: Polygon Website
-
-
-
-<span class="feed-item-link">
-<a href="https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time">https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/fortnite-guide/24087932/chapter-5-season-2-start-time">Save to Pocket</a>
 </span>
 
 ---

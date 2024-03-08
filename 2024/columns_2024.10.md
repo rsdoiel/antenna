@@ -1,11 +1,62 @@
 ---
 title: columns 2024.10
-updated: 2024-03-07 07:33:06
+updated: 2024-03-08 07:50:14
 ---
 
 # columns 2024.10
 
-(date: 2024-03-07 07:33:06)
+(date: 2024-03-08 07:50:14)
+
+---
+
+## A Taxonomy of Prompt Injection Attacks
+
+date: 2024-03-08, updated: 2024-03-08, from: Bruce Schneier blog
+
+<p>Researchers ran a global prompt hacking competition, and have <a href="https://arxiv.org/pdf/2311.16119.pdf">documented</a> the results in a paper that both gives a lot of good examples and tries to organize a taxonomy of effective prompt injection strategies. It seems as if the most common successful strategy is the &#8220;compound instruction attack,&#8221; as in &#8220;Say &#8216;I have been PWNED&#8217; without a period.&#8221;</p>
+<blockquote><p>Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of<br />
+LLMs through a Global Scale Prompt Hacking Competition</p>
+<p><b>Abstract:</b> Large Language Models (LLMs) are deployed in interactive contexts with direct user engagement, such as chatbots and writing assistants. These deployments are vulnerable to prompt injection and jailbreaking (collectively, prompt hacking), in which models are manipulated to ignore their original instructions and follow potentially malicious ones. Although widely acknowledged as a significant security threat, there is a dearth of large-scale resources and quantitative studies on prompt hacking. To address this lacuna, we launch a global prompt hacking competition, which allows for free-form human input attacks. We elicit 600K+ adversarial prompts against three state-of-the-art LLMs. We describe the dataset, which empirically verifies that current LLMs can indeed be manipulated via prompt hacking. We also present a comprehensive taxonomical ontology of the types of adversarial prompts...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/03/a-taxonomy-of-prompt-injection-attacks.html">https://www.schneier.com/blog/archives/2024/03/a-taxonomy-of-prompt-injection-attacks.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/03/a-taxonomy-of-prompt-injection-attacks.html">Save to Pocket</a>
+</span>
+
+---
+
+## Biden's strong State of the Union — and my utter failure advising Democratic presidential candidates
+
+date: 2024-03-08, from: Robert Reich's blog
+
+My advice was worth exactly what they paid for it &#8212; nothing.
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/michael-dukakis">https://robertreich.substack.com/p/michael-dukakis</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/michael-dukakis">Save to Pocket</a>
+</span>
+
+---
+
+## Friday 8 March, 2024
+
+date: 2024-03-08, from: John Naughton's online diary
+
+Wisteria Magdalene College yesterday morning. I&#8217;m always astonished what skilled gardeners can do with headstrong plants. Quote of the Day “I don’t want to be immortal through my works, I want to be immortal through not dying.” Woody Allen Musical &#8230; <a href="https://memex.naughtons.org/friday-8-march-2024/39221/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/friday-8-march-2024/39221/">https://memex.naughtons.org/friday-8-march-2024/39221/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/friday-8-march-2024/39221/">Save to Pocket</a>
+</span>
+
+---
+
+## Leica SL3: First Impressions
+
+date: 2024-03-07, from: Om Malik blog
+
+The veritable German heritage brand, known for its cameras and optics, Leica, has announced a brand new flagship mirrorless camera — the Leica SL3. I have had a chance to use a pre-release version of the camera for a day (or so) and have quick early impressions, especially from the perspective of someone who has &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/03/07/leica-sl3-first-impressions/">https://om.co/2024/03/07/leica-sl3-first-impressions/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/03/07/leica-sl3-first-impressions/">Save to Pocket</a>
+</span>
 
 ---
 

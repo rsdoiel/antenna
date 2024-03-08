@@ -1,11 +1,119 @@
 ---
 title: motorcycles 2024.10
-updated: 2024-03-07 07:33:07
+updated: 2024-03-08 07:50:14
 ---
 
 # motorcycles 2024.10
 
-(date: 2024-03-07 07:33:07)
+(date: 2024-03-08 07:50:14)
+
+---
+
+## BMW Motorrad Is Making Its Triumphant Return to EICMA
+
+date: 2024-03-08, from: Ride Apart, Electric Motorcycle News
+
+Could BMW have a big surprise for all of us this year? 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711119/bmw-motorrad-eicma-2024/">https://www.rideapart.com/news/711119/bmw-motorrad-eicma-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711119/bmw-motorrad-eicma-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## MotoGP Has a New Live Broadcast Home in the U.S.
+
+date: 2024-03-07, from: Ride Apart, Electric Motorcycle News
+
+MotoGP fans in the U.S. rejoice and tune in to TNT Sports to watch every Sprint and Grand Prix race on the MotoGP calendar in 2024.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711610/motogp-tnt-sports-broadcast/">https://www.rideapart.com/news/711610/motogp-tnt-sports-broadcast/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711610/motogp-tnt-sports-broadcast/">Save to Pocket</a>
+</span>
+
+---
+
+## Aprilia Racing Bosses Talk 2024 MotoGP Season
+
+date: 2024-03-07, from: Cycle World News
+
+Cycle World picks the brains of two Aprilia Racing MotoGP bosses ahead of the start of the 2024 season.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-racing/aprilia-racing-bosses-talk-2024-motogp-season-interview/">https://www.cycleworld.com/motorcycle-racing/aprilia-racing-bosses-talk-2024-motogp-season-interview/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-racing/aprilia-racing-bosses-talk-2024-motogp-season-interview/">Save to Pocket</a>
+</span>
+
+---
+
+## Inside the Ducati Superquadro Mono Engine
+
+date: 2024-03-07, from: Cycle World News
+
+Cycle World digs deep on the origins of the Ducati 698 Superquadro Mono single-cylinder engine with Engine Development Manager Stefano Fantoni.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/ducati-superquadro-mono-engine-origins/">https://www.cycleworld.com/bikes/ducati-superquadro-mono-engine-origins/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/ducati-superquadro-mono-engine-origins/">Save to Pocket</a>
+</span>
+
+---
+
+## TOBC Triumph Return to Daytona 200
+
+date: 2024-03-07, from: Cycle World News
+
+The TOBC – Triumph racing team, supported by FreedomRoad Financial, returns to  the Daytona 200 this weekend with Danny Eslick back on the track for another year.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/tobc-triumph-return-to-daytona-200/">https://www.cycleworld.com/the-wire/tobc-triumph-return-to-daytona-200/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/tobc-triumph-return-to-daytona-200/">Save to Pocket</a>
+</span>
+
+---
+
+## How Much Power Does the 2024 Honda Transalp Make?
+
+date: 2024-03-07, from: Cycle World News
+
+The 2024 Honda Transalp gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/honda-transalp-dyno-test-2024/">https://www.cycleworld.com/bikes/honda-transalp-dyno-test-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/honda-transalp-dyno-test-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Is Moto Guzzi Reviving The Stornello Scrambler?
+
+date: 2024-03-07, from: Ride Apart, Electric Motorcycle News
+
+Scramblers are cool as hell, and Moto Guzzi could surely use one in its lineup. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711448/moto-guzzi-stornello-patent-usa/">https://www.rideapart.com/news/711448/moto-guzzi-stornello-patent-usa/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711448/moto-guzzi-stornello-patent-usa/">Save to Pocket</a>
+</span>
+
+---
+
+## Alpinestars Launches Tech-Air 3 Leather and Canvas Vests
+
+date: 2024-03-07, from: Cycle World News
+
+Today Alpinestars is launching the new Tech-Air 3 Leather & Canvas vests at the legendary Daytona Bike Week.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/alpinestars-launches-tech-air-3-leather-and-canvas-vests/">https://www.cycleworld.com/the-wire/alpinestars-launches-tech-air-3-leather-and-canvas-vests/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/alpinestars-launches-tech-air-3-leather-and-canvas-vests/">Save to Pocket</a>
+</span>
+
+---
+
+## Recall: 2024 LiveWire S2 Del Mars Could Suddenly Shut Down In Operation
+
+date: 2024-03-07, from: Ride Apart, Electric Motorcycle News
+
+A software issue is to blame, and could result in the bikes not being able to be restarted.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711282/livewire-s2-delmar-recall-2024/">https://www.rideapart.com/news/711282/livewire-s2-delmar-recall-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711282/livewire-s2-delmar-recall-2024/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -389,18 +497,6 @@ By Vincent Delforge, Special to Kickin&#8217; the Tires 2024 will be the 71st se
 
 <span class="feed-item-link">
 <a href="https://kickinthetires.net/nascar/arca-menards-west-series-2024-team-chart/">https://kickinthetires.net/nascar/arca-menards-west-series-2024-team-chart/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/arca-menards-west-series-2024-team-chart/">Save to Pocket</a>
-</span>
-
----
-
-## Inside the Ducati Superquadro Mono Engine
-
-date: 2024-03-04, from: Cycle World News
-
-Cycle World digs deep on the origins of the Ducati 698 Superquadro Mono single-cylinder engine with Engine Development Manager Stefano Fantoni.
-
-<span class="feed-item-link">
-<a href="https://www.cycleworld.com/bikes/ducati-superquadro-mono-engine-origins/">https://www.cycleworld.com/bikes/ducati-superquadro-mono-engine-origins/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/ducati-superquadro-mono-engine-origins/">Save to Pocket</a>
 </span>
 
 ---

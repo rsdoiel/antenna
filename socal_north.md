@@ -1,11 +1,417 @@
 ---
 title: socal north 2024.10
-updated: 2024-03-07 07:33:06
+updated: 2024-03-08 07:50:13
 ---
 
 # socal north 2024.10
 
-(date: 2024-03-07 07:33:06)
+(date: 2024-03-08 07:50:13)
+
+---
+
+## Henry Winkler receives comedy award at USC
+
+date: 2024-03-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The actor-comedian spoke at Norris Cinema Theatre on Tuesday night.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/08/henry-winkler-receives-comedy-award-at-usc/">Henry Winkler receives comedy award at USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/08/henry-winkler-receives-comedy-award-at-usc/">https://dailytrojan.com/2024/03/08/henry-winkler-receives-comedy-award-at-usc/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/08/henry-winkler-receives-comedy-award-at-usc/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s basketball bests Utah, propels to semifinals in Pac-12 tournament
+
+date: 2024-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 8 at 12:18 a.m.</em>
+LAS VEGAS – Utah coach Lynne Roberts implored her team to play harder and more inspired.
+“I can’t do it for you,” Roberts said after her squad’s Senior Night loss to Washington last weekend.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/ucla-womens-basketball-bests-utah-propels-to-no-3-seed-in-pac-12-tournament/">https://dailybruin.com/2024/03/07/ucla-womens-basketball-bests-utah-propels-to-no-3-seed-in-pac-12-tournament/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/ucla-womens-basketball-bests-utah-propels-to-no-3-seed-in-pac-12-tournament/">Save to Pocket</a>
+</span>
+
+---
+
+## No.2-seeded women’s basketball thrills in win over Wildcats.
+
+date: 2024-03-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC advances to the Pac-12 tournament semifinals for the first time since 2021.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/07/no-2-seeded-womens-basketball-thrills-in-win-over-wildcats/">No.2-seeded women’s basketball thrills in win over Wildcats.</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/07/no-2-seeded-womens-basketball-thrills-in-win-over-wildcats/">https://dailytrojan.com/2024/03/07/no-2-seeded-womens-basketball-thrills-in-win-over-wildcats/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/07/no-2-seeded-womens-basketball-thrills-in-win-over-wildcats/">Save to Pocket</a>
+</span>
+
+---
+
+## Scouting report: UCLA men’s volleyball vs. Ohio State, Penn State
+
+date: 2024-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+The trifecta of No. 4 UCLA men’s volleyball (14-4, 5-1 MPSF), No. 8 Ohio State (14-4, 8-2 MIVA) and No. 9 Penn State (13-5, 4-0 EIVA) met in the First Point Collegiate Challenge in January, where the Bruins suffered a five-set loss to the Buckeyes and swept the Nittany Lions.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/scouting-report-ucla-mens-volleyball-vs-ohio-state-penn-state/">https://dailybruin.com/2024/03/07/scouting-report-ucla-mens-volleyball-vs-ohio-state-penn-state/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/scouting-report-ucla-mens-volleyball-vs-ohio-state-penn-state/">Save to Pocket</a>
+</span>
+
+---
+
+## USC to no longer offer Academic Achievement Award, Exceptional Funding scholarships
+
+date: 2024-03-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Academic Honors and Fellowships confirmed the change Thursday night.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/07/usc-to-no-longer-offer-academic-achievement-award-exceptional-funding-scholarships/">USC to no longer offer Academic Achievement Award, Exceptional Funding scholarships</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/07/usc-to-no-longer-offer-academic-achievement-award-exceptional-funding-scholarships/">https://dailytrojan.com/2024/03/07/usc-to-no-longer-offer-academic-achievement-award-exceptional-funding-scholarships/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/07/usc-to-no-longer-offer-academic-achievement-award-exceptional-funding-scholarships/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘The Big Bang Theory’ creator’s $24.5M pledge expands universe for Bruins in STEM
+
+date: 2024-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+A $24.5 million pledge from &#8220;The Big Bang Theory&#8221; co-creator Chuck Lorre&#8217;s foundation is set to create a new universe for Bruins in STEM.
+The Chuck Lorre Family Foundation has provided scholarships, mentorship and support to incoming freshmen with financial need via The Big Bang Theory Scholarship since 2015.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/the-big-bang-theory-creators-24-5m-pledge-expands-universe-for-bruins-in-stem/">https://dailybruin.com/2024/03/07/the-big-bang-theory-creators-24-5m-pledge-expands-universe-for-bruins-in-stem/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/the-big-bang-theory-creators-24-5m-pledge-expands-universe-for-bruins-in-stem/">Save to Pocket</a>
+</span>
+
+---
+
+## 23-point grand canyon separates UCLA men’s basketball from Arizona in home loss
+
+date: 2024-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+The missing part of Mick Cronin’s formula has lain in Adem Bona’s hands all season.
+Keeping the sophomore forward/center – who averages 3.6 fouls per game – on the floor to catalyze the offense has been a repeated area of import for the fifth-year coach.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/23-point-grand-canyon-separates-ucla-mens-basketball-from-arizona-in-home-loss/">https://dailybruin.com/2024/03/07/23-point-grand-canyon-separates-ucla-mens-basketball-from-arizona-in-home-loss/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/23-point-grand-canyon-separates-ucla-mens-basketball-from-arizona-in-home-loss/">Save to Pocket</a>
+</span>
+
+---
+
+## Fear, Furnace, and Faith
+
+date: 2024-03-08, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>We all know that feeling when the whole world is quiet, except for the thoughts echoing in your mind. The feeling of butterflies in your stomach, but not the good kind. You’re right on the edge of action, so close to making a decision. But there’s that knot holding you back&#8211; fear.&#160; It can constrain [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/fear-furnace-and-faith/">Fear, Furnace, and Faith</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://pepperdinebeacon.com/fear-furnace-and-faith/?utm_source=rss&utm_medium=rss&utm_campaign=fear-furnace-and-faith">https://pepperdinebeacon.com/fear-furnace-and-faith/?utm_source=rss&utm_medium=rss&utm_campaign=fear-furnace-and-faith</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://pepperdinebeacon.com/fear-furnace-and-faith/?utm_source=rss&utm_medium=rss&utm_campaign=fear-furnace-and-faith">Save to Pocket</a>
+</span>
+
+---
+
+## Policy analyst, broadcaster, and columnist Carrie Sheffield details her upcoming book, Motorhome Prophecies
+
+date: 2024-03-08, from: Pepperdine Beacon (Pepperdine Student Newspaper)
+
+<p>OVERVIEW Releasing on March 12th, 2024, Carrie Sheffield’s autobiography Motorhome Prophecies details her tumultuous story of navigating her childhood in the LDS church, her faith journey through college, and the abuse she and her family suffered at the hands of her father. “I think of [my book] as a letter to myself that I wish [&#8230;]</p>
+<p>The post <a href="https://pepperdinebeacon.com/policy-analyst-broadcaster-and-columnist-carrie-sheffield-details-her-upcoming-book-motorhome-prophecies/">Policy analyst, broadcaster, and columnist Carrie Sheffield details her upcoming book, Motorhome Prophecies</a> appeared first on <a href="https://pepperdinebeacon.com">The Pepperdine Beacon</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://pepperdinebeacon.com/policy-analyst-broadcaster-and-columnist-carrie-sheffield-details-her-upcoming-book-motorhome-prophecies/?utm_source=rss&utm_medium=rss&utm_campaign=policy-analyst-broadcaster-and-columnist-carrie-sheffield-details-her-upcoming-book-motorhome-prophecies">https://pepperdinebeacon.com/policy-analyst-broadcaster-and-columnist-carrie-sheffield-details-her-upcoming-book-motorhome-prophecies/?utm_source=rss&utm_medium=rss&utm_campaign=policy-analyst-broadcaster-and-columnist-carrie-sheffield-details-her-upcoming-book-motorhome-prophecies</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://pepperdinebeacon.com/policy-analyst-broadcaster-and-columnist-carrie-sheffield-details-her-upcoming-book-motorhome-prophecies/?utm_source=rss&utm_medium=rss&utm_campaign=policy-analyst-broadcaster-and-columnist-carrie-sheffield-details-her-upcoming-book-motorhome-prophecies">Save to Pocket</a>
+</span>
+
+---
+
+## CSUN Associated Students hosts election awareness event
+
+date: 2024-03-08, from: The Sundail (CSUN Student Newspaper)
+
+The presidential primary election was Tuesday, March 5. American citizens all over the country who were eligible to vote cast their ballots by mail or in person, picking the candidate...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/179053/news/csun-associated-students-hosts-election-awareness-event/">https://sundial.csun.edu/179053/news/csun-associated-students-hosts-election-awareness-event/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/179053/news/csun-associated-students-hosts-election-awareness-event/">Save to Pocket</a>
+</span>
+
+---
+
+## Oscars 2024: Awards season is no Dreamhouse for women of color repeatedly snubbed by Academy
+
+date: 2024-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+The grandest performance of 2023 goes to those who love Greta Gerwig but dismiss the accomplishments of underrepresented women in film.
+When the nominees for the 96th Academy Awards were announced, fans of the summer blockbuster “Barbie” were particularly displeased when they noticed that neither Gerwig nor leading star Margot Robbie were nominated in the categories of Best Director and Best Actress, respectively.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/awards-season-is-no-dreamhouse-for-women-of-color-repeatedly-snubbed-by-academy/">https://dailybruin.com/2024/03/07/awards-season-is-no-dreamhouse-for-women-of-color-repeatedly-snubbed-by-academy/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/awards-season-is-no-dreamhouse-for-women-of-color-repeatedly-snubbed-by-academy/">Save to Pocket</a>
+</span>
+
+---
+
+## Michael Grunstein, pioneering researcher in epigenetics, dies at 77
+
+date: 2024-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Michael Grunstein, a distinguished professor emeritus of biological chemistry, died Feb. 18. He was 77 years old. 
+Grunstein &#8211; best known for his study of histones, the proteins that DNA is coiled around &#8211; first became a faculty member at UCLA in 1975.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/michael-grunstein-pioneering-researcher-in-epigenetics-dies-at-77/">https://dailybruin.com/2024/03/07/michael-grunstein-pioneering-researcher-in-epigenetics-dies-at-77/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/michael-grunstein-pioneering-researcher-in-epigenetics-dies-at-77/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA softball moves past tournament adversity to face Utah in conference opener
+
+date: 2024-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Wrapping up a tournament season filled with adversity, the Bruins are set to start Pac-12 conference play with a clean slate.
+No. 18 UCLA softball (11-6) will face Utah (14-6) in its first conference series of the season from Friday to Sunday at Easton Stadium.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/ucla-softball-moves-past-tournament-adversity-to-face-utah-in-conference-opener/">https://dailybruin.com/2024/03/07/ucla-softball-moves-past-tournament-adversity-to-face-utah-in-conference-opener/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/ucla-softball-moves-past-tournament-adversity-to-face-utah-in-conference-opener/">Save to Pocket</a>
+</span>
+
+---
+
+## UC’s Academic Congress on AI discusses its use in higher education
+
+date: 2024-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC&#8217;s Academic Congress on Artificial Intelligence highlighted the economic and social risks of AI but acknowledged its potential at a conference Feb. 28 and 29.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/ucs-academic-congress-on-ai-discusses-its-use-in-higher-education/">https://dailybruin.com/2024/03/07/ucs-academic-congress-on-ai-discusses-its-use-in-higher-education/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/ucs-academic-congress-on-ai-discusses-its-use-in-higher-education/">Save to Pocket</a>
+</span>
+
+---
+
+## This Week: February 16
+
+date: 2024-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+An impending Israeli offensive in Rafah. A historic Super Bowl. Podcasts contributors Aashay Ghiya and Reese Dahlgren discuss these stories and more with Podcasts Editor Jack Garland.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/this-week-february-16/">https://dailybruin.com/2024/03/07/this-week-february-16/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/this-week-february-16/">Save to Pocket</a>
+</span>
+
+---
+
+## USC vs. Arizona — as it happened
+
+date: 2024-03-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Thomas Johnson and Leila MacKenzie report live from MGM Grand Garden Arena in Las Vegas.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/07/usc-vs-arizona-live-updates/">USC vs. Arizona — as it happened</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://dailytrojan.com/2024/03/07/usc-vs-arizona-live-updates/">https://dailytrojan.com/2024/03/07/usc-vs-arizona-live-updates/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailytrojan.com/2024/03/07/usc-vs-arizona-live-updates/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA programs and clubs foster financial literacy support system
+
+date: 2024-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Some undergraduate clubs are taking steps to equip students with essential skills in financial literacy and professional development.
+Financial stressors are a primary reason why students drop out or take leave from higher education, according to an emailed statement from UCLA Financial Wellness.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/ucla-programs-and-clubs-foster-financial-literacy-support-system/">https://dailybruin.com/2024/03/07/ucla-programs-and-clubs-foster-financial-literacy-support-system/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/ucla-programs-and-clubs-foster-financial-literacy-support-system/">Save to Pocket</a>
+</span>
+
+---
+
+## Oscars 2024: Alumnus Nikos Karamigios receives Oscar nod for work on ‘American Fiction’
+
+date: 2024-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+This post was updated March 7 at 8:50 p.m.
+Before Nikos Karamigios produced a Best Picture nominee, he produced UCLA’s campus TV program.
+The alumnus earned his first Oscar nomination for his work as a producer on “American Fiction,” which is up for five Academy Awards, including Best Picture and Best Adapted Screenplay, on Sunday.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/oscars-2024-alumnus-nikos-karamigios-receives-oscar-nod-for-work-on-american-fiction/">https://dailybruin.com/2024/03/07/oscars-2024-alumnus-nikos-karamigios-receives-oscar-nod-for-work-on-american-fiction/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/oscars-2024-alumnus-nikos-karamigios-receives-oscar-nod-for-work-on-american-fiction/">Save to Pocket</a>
+</span>
+
+---
+
+## FIRST Robotics “Hueneme Port Regional” takes place at FATHOMWERX Lab for Third Consecutive Year
+
+date: 2024-03-07, from: Port Hueneme
+
+Over 1,500 high school students from around the world will showcase their engineering skills and innovations at the Port of Hueneme. Download Press Release [PORT HUENEME, CA – March 6, 2024] &#8211; The Port of Hueneme and City of Port Hueneme are thrilled to host the FIRST Robotics Hueneme Port Regional Competition in their vibrant <a class="read-more-style" href="https://www.portofhueneme.org/first-robotics-third-consecutive-year/">Read More</a>
+
+<span class="feed-item-link">
+<a href="https://www.portofhueneme.org/first-robotics-third-consecutive-year/">https://www.portofhueneme.org/first-robotics-third-consecutive-year/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.portofhueneme.org/first-robotics-third-consecutive-year/">Save to Pocket</a>
+</span>
+
+---
+
+## Weekend in Preview: March 7
+
+date: 2024-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Women’s water polo 
+Ava Abrishamchian, Daily Bruin reporter
+The Bruins will face a new opponent over the weekend.
+No. 1 UCLA women’s water polo (15-0, 2-0) will take on Biola (6-11) in regular season play Saturday afternoon for the two teams’ first-ever matchup.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/weekend-in-preview-march-7/">https://dailybruin.com/2024/03/07/weekend-in-preview-march-7/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/weekend-in-preview-march-7/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA baseball heads north for Pac-12 conference opener against Berkeley
+
+date: 2024-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins are heading to Berkeley for a three-game series to kick off conference play.
+ UCLA baseball (5-6) will face off against California (8-3) in its first Pac-12 conference game and series of 2024.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/ucla-baseball-heads-north-for-pac-12-conference-opener-against-berkeley/">https://dailybruin.com/2024/03/07/ucla-baseball-heads-north-for-pac-12-conference-opener-against-berkeley/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/ucla-baseball-heads-north-for-pac-12-conference-opener-against-berkeley/">Save to Pocket</a>
+</span>
+
+---
+
+## Gallery: UCLA Baseball falls short during Dodger Stadium College Baseball Classic
+
+date: 2024-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA faced undefeated UC Irvine in its second game of the Dodger Stadium College Baseball Classic. The game was tied until the top of the seventh inning when a grand slam put the Bruins down 5-1 and ultimately led the Anteaters to a 5-2 win.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/gallery-ucla-baseball-falls-short-during-dodger-stadium-college-baseball-classic/">https://dailybruin.com/2024/03/07/gallery-ucla-baseball-falls-short-during-dodger-stadium-college-baseball-classic/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/gallery-ucla-baseball-falls-short-during-dodger-stadium-college-baseball-classic/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA women’s golf, Campos secure first-place spots at The Show
+
+date: 2024-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins went to Las Vegas to compete in search of their second consecutive and fifth overall win of the season.
+No. 3 UCLA women&#8217;s golf tied for first in The Show at Spanish Trail Country Club in Las Vegas.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/ucla-womens-golf-campos-secure-first-place-spots-at-the-show/">https://dailybruin.com/2024/03/07/ucla-womens-golf-campos-secure-first-place-spots-at-the-show/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/ucla-womens-golf-campos-secure-first-place-spots-at-the-show/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s volleyball to face top-10 teams in Penn State, Ohio State
+
+date: 2024-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+This post was updated on March 7 at 10:51 p.m.
+The Bruins are taking a break from MPSF play for two top-10 showdowns.
+No. 4 UCLA men&#8217;s volleyball (14-4, 5-1 MPSF) will face No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/ucla-mens-volleyball-to-face-top-10-teams-in-penn-state-ohio-state/">https://dailybruin.com/2024/03/07/ucla-mens-volleyball-to-face-top-10-teams-in-penn-state-ohio-state/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/ucla-mens-volleyball-to-face-top-10-teams-in-penn-state-ohio-state/">Save to Pocket</a>
+</span>
+
+---
+
+## Oscars 2024: Daily Bruin staff predicts winners for 96th Academy Awards
+
+date: 2024-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+This post was updated March 7 at 9:03 p.m.
+At this year’s Academy Awards, Hollywood’s shining stars will vie for statues of gold.
+On Sunday night, the Oscars will return to the Dolby Theatre for another year of celebrating the film industry’s astounding achievements.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/oscars-2024-daily-bruin-staff-predicts-winners-for-96th-academy-awards/">https://dailybruin.com/2024/03/07/oscars-2024-daily-bruin-staff-predicts-winners-for-96th-academy-awards/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/oscars-2024-daily-bruin-staff-predicts-winners-for-96th-academy-awards/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA Downtown confirms 31 programs, UCLA Research Park appoints immunology advisor
+
+date: 2024-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 7 at 10:06 p.m.</em>
+UCLA announced its plan to host 31 programs at UCLA Downtown and the appointment of a special advisor for immunology initiatives at the UCLA Research Park on Thursday.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/ucla-downtown-confirms-31-programs-ucla-research-park-appoints-immunology-advisor/">https://dailybruin.com/2024/03/07/ucla-downtown-confirms-31-programs-ucla-research-park-appoints-immunology-advisor/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/ucla-downtown-confirms-31-programs-ucla-research-park-appoints-immunology-advisor/">Save to Pocket</a>
+</span>
+
+---
+
+## Summer Fun with the City!
+
+date: 2024-03-07, from: City of Santa Clarita
+
+<p>Summer Fun with the City! By Councilmember Jason Gibbs As the warmer months approach, our community centers, pools and parks across the City are gearing up for an exciting season of summer camps and recreational programming for everyone. Whether it is the nostalgic smell of sunscreen and chlorine at the pool, the cheers during a [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/03/07/summer-fun-with-the-city/">Summer Fun with the City!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://santaclarita.gov/blog/2024/03/07/summer-fun-with-the-city/">https://santaclarita.gov/blog/2024/03/07/summer-fun-with-the-city/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://santaclarita.gov/blog/2024/03/07/summer-fun-with-the-city/">Save to Pocket</a>
+</span>
+
+---
+
+## Diverse Discussions
+
+date: 2024-03-07, from: The Sundail (CSUN Student Newspaper)
+
+California State University, Northridge students care about diversity on campus and the topics of cultural groups, religion, gender identity, sexuality and socioeconomic status. In numerous interviews, students shared they feel...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178960/print-editions/print-stories/diverse-discussions/">https://sundial.csun.edu/178960/print-editions/print-stories/diverse-discussions/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178960/print-editions/print-stories/diverse-discussions/">Save to Pocket</a>
+</span>
+
+---
+
+## Ibram X. Kendi: the mission to become antiracist
+
+date: 2024-03-07, from: The Sundail (CSUN Student Newspaper)
+
+Dr. Ibram X. Kendi is an American author who won the National Book Award for his nonfiction novel “Stamped from the Beginning.” He was the youngest author to win the...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/178957/print-editions/print-stories/ibram-x-kendi-the-mission-to-become-antiracist/">https://sundial.csun.edu/178957/print-editions/print-stories/ibram-x-kendi-the-mission-to-become-antiracist/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/178957/print-editions/print-stories/ibram-x-kendi-the-mission-to-become-antiracist/">Save to Pocket</a>
+</span>
+
+---
+
+## This Week: February 2
+
+date: 2024-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+French farmers protest. Social media CEOs testify in Congress. Podcasts contributors Sofia Alcomendas and Aashay Ghiya discuss with Podcasts Editor Jack Garland. Matthew Royer, assistant News editor for national news and higher education, joins the show.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/this-week-february-2/">https://dailybruin.com/2024/03/07/this-week-february-2/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/this-week-february-2/">Save to Pocket</a>
+</span>
+
+---
+
+## This Week: January 26
+
+date: 2024-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Podcasts Editor Jack Garland and Podcasts contributor Reese Dahlgren discuss the war in Israel, the primaries in New Hampshire and more. News Editor Catherine Hamilton joins the show to discuss a Daily Bruin News article.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/07/this-week-january-26/">https://dailybruin.com/2024/03/07/this-week-january-26/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/07/this-week-january-26/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -579,6 +985,34 @@ date: 2024-03-06, from: The Occidental News (Occidental College Student Newspape
 
 ---
 
+## News Briefs – Issue 3
+
+date: 2024-03-06, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Interim President Ara Aguiar to run for permanent position: The interim president recently made the decision to run after stating her husband’s plans to retire</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/06/news-briefs-issue-3/">News Briefs &#8211; Issue 3</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/03/06/news-briefs-issue-3/?utm_source=rss&utm_medium=rss&utm_campaign=news-briefs-issue-3">https://theroundupnews.com/2024/03/06/news-briefs-issue-3/?utm_source=rss&utm_medium=rss&utm_campaign=news-briefs-issue-3</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/03/06/news-briefs-issue-3/?utm_source=rss&utm_medium=rss&utm_campaign=news-briefs-issue-3">Save to Pocket</a>
+</span>
+
+---
+
+## Streetbeat: Do you plan to vote, why or why not? What’s the most important issue for you?
+
+date: 2024-03-06, from: The Round Up (Pierce College Student Newspaper)
+
+<p>&#160; “I do plan to vote because a lot of important issues are going to be on the ballot this year. It’s a lot of</p>
+<p>The post <a href="https://theroundupnews.com/2024/03/06/streetbeat-do-you-plan-to-vote-why-or-why-not-whats-the-most-important-issue-for-you/">Streetbeat: Do you plan to vote, why or why not? What’s the most important issue for you?</a> appeared first on <a href="https://theroundupnews.com">The Roundup</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://theroundupnews.com/2024/03/06/streetbeat-do-you-plan-to-vote-why-or-why-not-whats-the-most-important-issue-for-you/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-do-you-plan-to-vote-why-or-why-not-whats-the-most-important-issue-for-you">https://theroundupnews.com/2024/03/06/streetbeat-do-you-plan-to-vote-why-or-why-not-whats-the-most-important-issue-for-you/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-do-you-plan-to-vote-why-or-why-not-whats-the-most-important-issue-for-you</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://theroundupnews.com/2024/03/06/streetbeat-do-you-plan-to-vote-why-or-why-not-whats-the-most-important-issue-for-you/?utm_source=rss&utm_medium=rss&utm_campaign=streetbeat-do-you-plan-to-vote-why-or-why-not-whats-the-most-important-issue-for-you">Save to Pocket</a>
+</span>
+
+---
+
 ## Many Community Colleges Serve Basic Needs. But Free Dental Care? That's A Crowning Achievement
 
 date: 2024-03-06, updated: 2024-03-07, from: The LAist
@@ -1045,21 +1479,9 @@ Snail Mail, the indie rock effort of singer-songwriter Lindsey Jordan, performed
 
 ---
 
-## In Crowded Race For LA DA, Incumbent Gascón Is Headed To Runoff
-
-date: 2024-03-05, updated: 2024-03-07, from: The LAist
-
-Former federal prosecutor Nathan Hochman is currently in second place in the early vote tallies.
-
-<span class="feed-item-link">
-<a href="https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-county-district-attorney">https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-county-district-attorney</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-county-district-attorney">Save to Pocket</a>
-</span>
-
----
-
 ## Live Results: What We Know So Far In The LA City Council Races
 
-date: 2024-03-05, updated: 2024-03-06, from: The LAist
+date: 2024-03-05, updated: 2024-03-08, from: The LAist
 
 Follow the latest results for the seven Los Angeles City Council seats on the March 5 primary ballot.
 
@@ -1069,9 +1491,21 @@ Follow the latest results for the seven Los Angeles City Council seats on the Ma
 
 ---
 
+## In Crowded Race For LA DA, Incumbent Gascón Is Headed To Runoff
+
+date: 2024-03-05, updated: 2024-03-08, from: The LAist
+
+Former federal prosecutor Nathan Hochman is currently in second place in the early vote tallies.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-county-district-attorney">https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-county-district-attorney</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/politics/2024-election-california-primary-live-results-los-angeles-county-district-attorney">Save to Pocket</a>
+</span>
+
+---
+
 ## I Didn't Get Into My Dream College. What Did I Do Wrong?
 
-date: 2024-03-05, updated: 2024-03-06, from: The LAist
+date: 2024-03-05, updated: 2024-03-07, from: The LAist
 
 College admissions is a black box. What might make the process of acceptance and rejection more transparent?
 

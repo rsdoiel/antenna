@@ -1,11 +1,37 @@
 ---
 title: libraries 2024.10
-updated: 2024-03-07 07:33:07
+updated: 2024-03-08 07:50:14
 ---
 
 # libraries 2024.10
 
-(date: 2024-03-07 07:33:07)
+(date: 2024-03-08 07:50:14)
+
+---
+
+## Kangaroo Diversity Wins This Year’s Dance Your PhD Competition
+
+date: 2024-03-08, from: Scholarly Kitchen
+
+<p>Kangaroo social behavior research wins a prestigious competition.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/03/08/kangaroo-diversity-wins-this-years-dance-your-phd-competition/">Kangaroo Diversity Wins This Year&#8217;s Dance Your PhD Competition</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/03/08/kangaroo-diversity-wins-this-years-dance-your-phd-competition/">https://scholarlykitchen.sspnet.org/2024/03/08/kangaroo-diversity-wins-this-years-dance-your-phd-competition/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/03/08/kangaroo-diversity-wins-this-years-dance-your-phd-competition/">Save to Pocket</a>
+</span>
+
+---
+
+## Plague of Pythons, by Frederik Pohl
+
+date: 2024-03-07, from: Standard Ebooks, new releaases
+
+A man navigates a world torn apart by bouts of spontaneous, unexplained possessions.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons">https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/frederik-pohl/plague-of-pythons">Save to Pocket</a>
+</span>
 
 ---
 
