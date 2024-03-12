@@ -1,11 +1,131 @@
 ---
 title: games 2024.11
-updated: 2024-03-11 10:56:36
+updated: 2024-03-12 08:59:04
 ---
 
 # games 2024.11
 
-(date: 2024-03-11 10:56:36)
+(date: 2024-03-12 08:59:04)
+
+---
+
+## Jump into the Daggerheart TTRPG open beta today for free
+
+date: 2024-03-12, updated: 2024-03-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/24097292/daggerheart-critical-role-ttrpg-open-beta-launch-free">https://www.polygon.com/deals/24097292/daggerheart-critical-role-ttrpg-open-beta-launch-free</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/24097292/daggerheart-critical-role-ttrpg-open-beta-launch-free">Save to Pocket</a>
+</span>
+
+---
+
+## Blade Runner RPG moves the story forward with a bite-sized boxed set
+
+date: 2024-03-12, updated: 2024-03-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/tabletop-games/24094815/blade-runner-rpg-case-file-fiery-angels-review">https://www.polygon.com/tabletop-games/24094815/blade-runner-rpg-case-file-fiery-angels-review</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/tabletop-games/24094815/blade-runner-rpg-case-file-fiery-angels-review">Save to Pocket</a>
+</span>
+
+---
+
+## Star Wars Jedi director starts new studio with a bunch of ex-Respawn talent
+
+date: 2024-03-12, updated: 2024-03-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24097746/respawn-stig-asmussen-new-studio-giant-skull">https://www.polygon.com/24097746/respawn-stig-asmussen-new-studio-giant-skull</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24097746/respawn-stig-asmussen-new-studio-giant-skull">Save to Pocket</a>
+</span>
+
+---
+
+## All Card Carnival puzzle solutions in FF7 Rebirth
+
+date: 2024-03-12, updated: 2024-03-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24072403/card-carnival-solutions-costa-del-sol-queens-blood">https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24072403/card-carnival-solutions-costa-del-sol-queens-blood</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24072403/card-carnival-solutions-costa-del-sol-queens-blood">Save to Pocket</a>
+</span>
+
+---
+
+## New Helldivers 2 patch means changing the way you take on super-armored Terminids
+
+date: 2024-03-12, updated: 2024-03-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24098367/helldivers-2-terminid-meta-patch-update-march-2024">https://www.polygon.com/24098367/helldivers-2-terminid-meta-patch-update-march-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24098367/helldivers-2-terminid-meta-patch-update-march-2024">Save to Pocket</a>
+</span>
+
+---
+
+## The end of the MrBeast era
+
+date: 2024-03-12, updated: 2024-03-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24093399/end-of-mrbeast-youtube-era">https://www.polygon.com/24093399/end-of-mrbeast-youtube-era</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24093399/end-of-mrbeast-youtube-era">Save to Pocket</a>
+</span>
+
+---
+
+## Persona 3 Reload’s ending, explained
+
+date: 2024-03-11, updated: 2024-03-11, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/guides/24097280/leader-alive-dead-can-you-save-makoto">https://www.polygon.com/guides/24097280/leader-alive-dead-can-you-save-makoto</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/guides/24097280/leader-alive-dead-can-you-save-makoto">Save to Pocket</a>
+</span>
+
+---
+
+## All Weapons Bunker locations in Fortnite Chapter 5 Season 2
+
+date: 2024-03-11, updated: 2024-03-11, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/fortnite-guide/24097785/weapons-bunker-locations-chapter-5-season-2-myths-mortals">https://www.polygon.com/fortnite-guide/24097785/weapons-bunker-locations-chapter-5-season-2-myths-mortals</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/fortnite-guide/24097785/weapons-bunker-locations-chapter-5-season-2-myths-mortals">Save to Pocket</a>
+</span>
+
+---
+
+## Queen’s Blood card list in FF7 Rebirth
+
+date: 2024-03-11, updated: 2024-03-11, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24082221/queens-blood-cards-all-list-how-to-get">https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24082221/queens-blood-cards-all-list-how-to-get</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24082221/queens-blood-cards-all-list-how-to-get">Save to Pocket</a>
+</span>
+
+---
+
+## Fortnite Chapter 5 Season 2 Battle Pass skins list, including Zeus, Hades, and Aphrodite
+
+date: 2024-03-11, updated: 2024-03-11, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/fortnite-guide/24097617/chapter-5-season-2-battle-pass-skins-list-c5s2">https://www.polygon.com/fortnite-guide/24097617/chapter-5-season-2-battle-pass-skins-list-c5s2</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/fortnite-guide/24097617/chapter-5-season-2-battle-pass-skins-list-c5s2">Save to Pocket</a>
+</span>
 
 ---
 

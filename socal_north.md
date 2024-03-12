@@ -1,11 +1,126 @@
 ---
 title: socal north 2024.11
-updated: 2024-03-11 10:56:35
+updated: 2024-03-12 08:59:03
 ---
 
 # socal north 2024.11
 
-(date: 2024-03-11 10:56:35)
+(date: 2024-03-12 08:59:03)
+
+---
+
+## Oscars 2024 Q&A: Shona Heath, James Price share collaborative vision for ‘Poor Things’
+
+date: 2024-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+By constructing a world of sugar and violence, &#8220;Poor Things&#8221; has struck gold.
+The dark comedy from director Yorgos Lanthimos earned four Oscars at Sunday&#8217;s 96th annual Academy Awards ceremony, including Best Production Design.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/11/oscars-2024-qa-shona-heath-james-price-share-collaborative-vision-for-poor-things/">https://dailybruin.com/2024/03/11/oscars-2024-qa-shona-heath-james-price-share-collaborative-vision-for-poor-things/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/11/oscars-2024-qa-shona-heath-james-price-share-collaborative-vision-for-poor-things/">Save to Pocket</a>
+</span>
+
+---
+
+## Westwood Village Ambassadors manage safety, cleanliness for community members
+
+date: 2024-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Westwood Village Ambassador Program aims to enhance the safety, cleanliness and overall community spirit of the Village. 
+The program provides safety escorts in Westwood to help students and community members feel safer, especially when walking late at night, said Henry Rojas, a supervisor and the team lead of the Westwood Village Ambassadors.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/11/westwood-village-ambassadors-manage-safety-cleanliness-for-community-members/">https://dailybruin.com/2024/03/11/westwood-village-ambassadors-manage-safety-cleanliness-for-community-members/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/11/westwood-village-ambassadors-manage-safety-cleanliness-for-community-members/">Save to Pocket</a>
+</span>
+
+---
+
+## February 2024 – Volume 64 Issue 7
+
+date: 2024-03-12, from: The Sundail (CSUN Student Newspaper)
+
+Letter from the Editor: Issue 7 Volume 64 Yesterday&#8217;s News: Powerful Matadoras through the Ages Power in Numbers: Demographic Rankings Programmed Prejudice: Fighting Racism in AI Media Querencia     ...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/179124/print-editions/february-2024-volume-64-issue-7/">https://sundial.csun.edu/179124/print-editions/february-2024-volume-64-issue-7/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/179124/print-editions/february-2024-volume-64-issue-7/">Save to Pocket</a>
+</span>
+
+---
+
+## New graduate program combines film artistry with industry
+
+date: 2024-03-12, from: Laloyolan (LMU Student Newspaper)
+
+The master in Entertainment Leadership and Management is a collaborative program between the College of Business Administration and the School of Film and Television.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/new-graduate-program-combines-film-artistry-with-industry/article_f7dd358e-95fa-569d-9688-40936485d580.html">https://www.laloyolan.com/news/new-graduate-program-combines-film-artistry-with-industry/article_f7dd358e-95fa-569d-9688-40936485d580.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/new-graduate-program-combines-film-artistry-with-industry/article_f7dd358e-95fa-569d-9688-40936485d580.html">Save to Pocket</a>
+</span>
+
+---
+
+## LMU Student Media brings home 61 awards from college media conference
+
+date: 2024-03-12, from: Laloyolan (LMU Student Newspaper)
+
+The Associated Collegiate Press, the California College Media Association and the Columbia Scholastic Press Association recognized the Loyolan and The Tower in their work over the last year.
+
+<span class="feed-item-link">
+<a href="https://www.laloyolan.com/news/lmu-student-media-brings-home-61-awards-from-college-media-conference/article_7de9435c-8a4f-5d4c-8930-2eaa58891eeb.html">https://www.laloyolan.com/news/lmu-student-media-brings-home-61-awards-from-college-media-conference/article_7de9435c-8a4f-5d4c-8930-2eaa58891eeb.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.laloyolan.com/news/lmu-student-media-brings-home-61-awards-from-college-media-conference/article_7de9435c-8a4f-5d4c-8930-2eaa58891eeb.html">Save to Pocket</a>
+</span>
+
+---
+
+## USAC vote to consider previously rejected ASU funding proposal sparks discussion
+
+date: 2024-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated to remove a source’s personal academic information.</em>
+The Undergraduate Students Association Council president ruled Tuesday after a vote that the Afrikan Student Union’s 15-minute-late surplus funding proposal would not be considered.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/11/usac-vote-to-consider-previously-rejected-asu-funding-proposal-sparks-discussion/">https://dailybruin.com/2024/03/11/usac-vote-to-consider-previously-rejected-asu-funding-proposal-sparks-discussion/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/11/usac-vote-to-consider-previously-rejected-asu-funding-proposal-sparks-discussion/">Save to Pocket</a>
+</span>
+
+---
+
+## Fresh eyes: Sebastian Mack, Brandon Williams spark freshman starts with tenacity
+
+date: 2024-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+The multiverse is a theory that explains the existence of other universes beyond the observable one.
+In another universe, guard Sebastian Mack is playing at Florida State.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/11/fresh-eyes-sebastian-mack-brandon-williams-spark-freshman-starts-with-tenacity/">https://dailybruin.com/2024/03/11/fresh-eyes-sebastian-mack-brandon-williams-spark-freshman-starts-with-tenacity/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/11/fresh-eyes-sebastian-mack-brandon-williams-spark-freshman-starts-with-tenacity/">Save to Pocket</a>
+</span>
+
+---
+
+## Cal completes sweep of UCLA baseball with walk-off homer by Lomavita
+
+date: 2024-03-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Coach John Savage laid out the road map to finish games before the season even began.
+Right-handers painted the path. Freshman Luke Rodriguez, junior Nate Leibold and sophomore Cody Delvecchio were to emerge from the bullpen with graduate student Rashad Ruff waiting in the wings to close out the game.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/11/cal-completes-sweep-of-ucla-baseball-with-walk-off-homer-by-lomavita/">https://dailybruin.com/2024/03/11/cal-completes-sweep-of-ucla-baseball-with-walk-off-homer-by-lomavita/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/11/cal-completes-sweep-of-ucla-baseball-with-walk-off-homer-by-lomavita/">Save to Pocket</a>
+</span>
+
+---
+
+## Maya Brady ties career high as UCLA softball sweeps Utah
+
+date: 2024-03-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+Seven runs with two hits.
+Maya Brady tied her career high of six RBIs in a game Sunday.
+Courtesy of the redshirt senior shortstop&#8217;s grand slam and two-RBI single, No.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/11/maya-brady-ties-career-high-as-ucla-softball-sweeps-utah/">https://dailybruin.com/2024/03/11/maya-brady-ties-career-high-as-ucla-softball-sweeps-utah/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/11/maya-brady-ties-career-high-as-ucla-softball-sweeps-utah/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -66,7 +181,7 @@ It wasn’t Ethan Champlin’s flashiest save ever, but the senior outside hitte
 
 date: 2024-03-11, from: The Daily Bruin (UCLA Student Newspaper)
 
-With nearly a thousand Bruins and community members in attendance, March&#8217;s First Thursdays event livened up Broxton Avenue and Westwood Village with sports, art installations and food.
+With nearly a thousand Bruins and community members in attendance, March’s First Thursdays event livened up Broxton Avenue and Westwood Village with sports, art installations and food.
 
 <span class="feed-item-link">
 <a href="https://dailybruin.com/2024/03/10/game-on-themed-first-thursdays-event-highlights-adaptive-sports-with-games-art/">https://dailybruin.com/2024/03/10/game-on-themed-first-thursdays-event-highlights-adaptive-sports-with-games-art/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/10/game-on-themed-first-thursdays-event-highlights-adaptive-sports-with-games-art/">Save to Pocket</a>

@@ -1,11 +1,1035 @@
 ---
 title: pacific 2024.11
-updated: 2024-03-11 10:56:35
+updated: 2024-03-12 08:59:04
 ---
 
 # pacific 2024.11
 
-(date: 2024-03-11 10:56:35)
+(date: 2024-03-12 08:59:04)
+
+---
+
+## NBA roundup: Doncic scores 27 to fall short of extending streak of 30-point triple-doubles as Mavs rout Bulls
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO (AP) &#8212; Luka Doncic had 27 points, recording another triple-double but doing so without scoring 30 for the first time in seven games, and the Dallas Mavericks rolled over the Chicago Bulls 127-92 on Monday night.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/sports/nba-roundup-doncic-scores-27-to-fall-short-of-extending-streak-of-30-point-triple-doubles-as-mavs-rout-bulls/">https://www.hawaiitribune-herald.com/2024/03/12/sports/nba-roundup-doncic-scores-27-to-fall-short-of-extending-streak-of-30-point-triple-doubles-as-mavs-rout-bulls/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/sports/nba-roundup-doncic-scores-27-to-fall-short-of-extending-streak-of-30-point-triple-doubles-as-mavs-rout-bulls/">Save to Pocket</a>
+</span>
+
+---
+
+## Club sports: Big Island lacrosse ready for new season
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>KEALAKEKUA/WAIMEA &#8212; With the Big Island Interscholastic Federation (BIIF) spring season well underway, teams from all across the island have begun their regular season matchups. But one particular sport has flown under the radar during preseason preparation.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/sports/club-sports-big-island-lacrosse-ready-for-new-season/">https://www.hawaiitribune-herald.com/2024/03/12/sports/club-sports-big-island-lacrosse-ready-for-new-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/sports/club-sports-big-island-lacrosse-ready-for-new-season/">Save to Pocket</a>
+</span>
+
+---
+
+## Bueckers helps No. 10 UConn win Big East Tournament crown with 78-42 win over Georgetown
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>UNCASVILE, Conn. &#8212; A year after missing out because of an injury, Paige Bueckers returned to make sure the UConn Huskies ended another Big East Tournament with a trophy in their hands and confetti raining down on their heads.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/sports/bueckers-helps-no-10-uconn-win-big-east-tournament-crown-with-78-42-win-over-georgetown/">https://www.hawaiitribune-herald.com/2024/03/12/sports/bueckers-helps-no-10-uconn-win-big-east-tournament-crown-with-78-42-win-over-georgetown/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/sports/bueckers-helps-no-10-uconn-win-big-east-tournament-crown-with-78-42-win-over-georgetown/">Save to Pocket</a>
+</span>
+
+---
+
+## Kirk Cousins chooses Atlanta, Saquon Barkley goes to Philly on a busy first day of NFL free agency
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>Kirk Cousins is heading to the Falcons. Saquon Barkley is joining the Eagles. Brian Burns is going to the Giants.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/sports/kirk-cousins-chooses-atlanta-saquon-barkley-goes-to-philly-on-a-busy-first-day-of-nfl-free-agency/">https://www.hawaiitribune-herald.com/2024/03/12/sports/kirk-cousins-chooses-atlanta-saquon-barkley-goes-to-philly-on-a-busy-first-day-of-nfl-free-agency/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/sports/kirk-cousins-chooses-atlanta-saquon-barkley-goes-to-philly-on-a-busy-first-day-of-nfl-free-agency/">Save to Pocket</a>
+</span>
+
+---
+
+## How a wandering white shark’s epic journey could provide clues for protecting them
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>As sharks go, LeeBeth is something like a long-haul trucker with gills and giant teeth.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/how-a-wandering-white-sharks-epic-journey-could-provide-clues-for-protecting-them/">https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/how-a-wandering-white-sharks-epic-journey-could-provide-clues-for-protecting-them/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/how-a-wandering-white-sharks-epic-journey-could-provide-clues-for-protecting-them/">Save to Pocket</a>
+</span>
+
+---
+
+## Biden and Trump could clinch nominations in today’s contests, ushering in general election
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Joe Biden and Donald Trump hope to clinch their parties&#8217; presidential nominations with dominant victories in a slate of state primaries today as the 2024 fight for the White House moves into a new phase.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/biden-and-trump-could-clinch-nominations-in-todays-contests-ushering-in-general-election/">https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/biden-and-trump-could-clinch-nominations-in-todays-contests-ushering-in-general-election/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/biden-and-trump-could-clinch-nominations-in-todays-contests-ushering-in-general-election/">Save to Pocket</a>
+</span>
+
+---
+
+## Good news and bad news for astronomers’ biggest dream
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>The United States should commit $1.6 billion to building an &#8220;extremely large telescope&#8221; that would vault American astronomy into a new era, according to the National Science Board, which advises the National Science Foundation.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/good-news-and-bad-news-for-astronomers-biggest-dream/">https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/good-news-and-bad-news-for-astronomers-biggest-dream/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/good-news-and-bad-news-for-astronomers-biggest-dream/">Save to Pocket</a>
+</span>
+
+---
+
+## Rezoning request approved for Manono Street lot
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>A plan to redevelop a derelict corner of Hilo was given the go-ahead Thursday, to the consternation of nearby residents.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/rezoning-request-approved-for-manono-street-lot/">https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/rezoning-request-approved-for-manono-street-lot/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/rezoning-request-approved-for-manono-street-lot/">Save to Pocket</a>
+</span>
+
+---
+
+## Kate, Princess of Wales, apologizes for altering family photo that fueled rumors about her health
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Kate, Princess of Wales, apologized Monday for &#8220;confusion&#8221; caused by her altering of a family photo released by the palace &#8212; an image of Kate and her children that was intended to calm concern and speculation about the British royal&#8217;s health, but had the opposite effect.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/kate-princess-of-wales-apologizes-for-altering-family-photo-that-fueled-rumors-about-her-health/">https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/kate-princess-of-wales-apologizes-for-altering-family-photo-that-fueled-rumors-about-her-health/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/kate-princess-of-wales-apologizes-for-altering-family-photo-that-fueled-rumors-about-her-health/">Save to Pocket</a>
+</span>
+
+---
+
+## ‘Oppenheimer’ crew keeps it low key, other winners revel at Vanity Fair’s Oscar after-party
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>BEVERLY HILLS, Calif. &#8212; Christopher Nolan stood as staid and nonchalant as ever as crowds surrounded him and music pulsed.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/oppenheimer-crew-keeps-it-low-key-other-winners-revel-at-vanity-fairs-oscar-after-party/">https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/oppenheimer-crew-keeps-it-low-key-other-winners-revel-at-vanity-fairs-oscar-after-party/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/oppenheimer-crew-keeps-it-low-key-other-winners-revel-at-vanity-fairs-oscar-after-party/">Save to Pocket</a>
+</span>
+
+---
+
+## Man arrested for touching 14-year-old during flight from Hilo
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>A 49-year-old Naalehu man has been arrested for allegedly touching a 14-year-old girl Friday night on a flight bound for Honolulu from Hilo International Airport.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/man-arrested-for-touching-14-year-old-during-flight-from-hilo/">https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/man-arrested-for-touching-14-year-old-during-flight-from-hilo/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/man-arrested-for-touching-14-year-old-during-flight-from-hilo/">Save to Pocket</a>
+</span>
+
+---
+
+## Federal funds help speed up modernization at Hawaii airports
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>Five major airport runway projects totaling more than $520.7 million are moving forward at Hawaii airports this year due to an increase in federal dollars made possible by new types of grant programs, some of which provide multiple awards for a single project.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/federal-funds-help-speed-up-modernization-at-hawaii-airports/">https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/federal-funds-help-speed-up-modernization-at-hawaii-airports/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/federal-funds-help-speed-up-modernization-at-hawaii-airports/">Save to Pocket</a>
+</span>
+
+---
+
+## E. Jean Carroll could sue Trump again over new defamatory comments
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Lawyers for E. Jean Carroll consented Monday to Donald Trump&#8217;s bond application in his Manhattan defamation case, days after the former president once again apparently slandered the woman he was found liable for sexually assaulting.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/e-jean-carroll-could-sue-trump-again-over-new-defamatory-comments/">https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/e-jean-carroll-could-sue-trump-again-over-new-defamatory-comments/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/e-jean-carroll-could-sue-trump-again-over-new-defamatory-comments/">Save to Pocket</a>
+</span>
+
+---
+
+## 13 years after Fukushima nuclear disaster, Japan remembers the dead and vows to keep rebuilding
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>TOKYO &#8212; Japan marked the 13th anniversary of the massive earthquake and tsunami that triggered a nuclear meltdown and left large parts of Fukushima prefecture uninhabitable on Monday with a minute of silence and memorial events, where officials pledged continued support for rebuilding.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/13-years-after-fukushima-nuclear-disaster-japan-remembers-the-dead-and-vows-to-keep-rebuilding/">https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/13-years-after-fukushima-nuclear-disaster-japan-remembers-the-dead-and-vows-to-keep-rebuilding/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/13-years-after-fukushima-nuclear-disaster-japan-remembers-the-dead-and-vows-to-keep-rebuilding/">Save to Pocket</a>
+</span>
+
+---
+
+## Ramadan in Gaza begins with hunger worsening and no end to war in sight
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>RAFAH, Gaza Strip &#8212; Palestinians began fasting for the Muslim holy month of Ramadan on Monday with cease-fire talks at a standstill, hunger worsening across the Gaza Strip and no end in sight to the 5-month-old war between Israel and Hamas.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/ramadan-in-gaza-begins-with-hunger-worsening-and-no-end-to-war-in-sight/">https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/ramadan-in-gaza-begins-with-hunger-worsening-and-no-end-to-war-in-sight/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/ramadan-in-gaza-begins-with-hunger-worsening-and-no-end-to-war-in-sight/">Save to Pocket</a>
+</span>
+
+---
+
+## Donald Trump wants New York hush money trial delayed until Supreme Court rules on immunity claims
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Donald Trump is seeking to delay his March 25 hush money trial until the Supreme Court rules on the presidential immunity claims he raised in another of his criminal cases.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/donald-trump-wants-new-york-hush-money-trial-delayed-until-supreme-court-rules-on-immunity-claims/">https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/donald-trump-wants-new-york-hush-money-trial-delayed-until-supreme-court-rules-on-immunity-claims/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/donald-trump-wants-new-york-hush-money-trial-delayed-until-supreme-court-rules-on-immunity-claims/">Save to Pocket</a>
+</span>
+
+---
+
+## Lahaina’s banyan tree tackles insect infestation
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>The scorched banyan tree in the heart of fire-ravaged Lahaina is battling an insect infestation but is still generating new growth.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/lahainas-banyan-tree-tackles-insect-infestation/">https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/lahainas-banyan-tree-tackles-insect-infestation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/hawaii-news/lahainas-banyan-tree-tackles-insect-infestation/">Save to Pocket</a>
+</span>
+
+---
+
+## Biden’s budget proposal for a second term offers tax breaks for families and lower health care costs
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>President Joe Biden on Monday released a budget proposal aimed at getting voters&#8217; attention: It would offer tax breaks for families, lower health care costs, smaller deficits and higher taxes on the wealthy and corporations.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/bidens-budget-proposal-for-a-second-term-offers-tax-breaks-for-families-and-lower-health-care-costs/">https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/bidens-budget-proposal-for-a-second-term-offers-tax-breaks-for-families-and-lower-health-care-costs/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/bidens-budget-proposal-for-a-second-term-offers-tax-breaks-for-families-and-lower-health-care-costs/">Save to Pocket</a>
+</span>
+
+---
+
+## House Republicans move ahead with TikTok vote even as Trump voices opposition to possible ban
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; House Republicans are moving ahead with a bill that would require Chinese company ByteDance to sell TikTok or face a ban in the United States even as former President Donald Trump is voicing opposition to the effort.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/house-republicans-move-ahead-with-tiktok-vote-even-as-trump-voices-opposition-to-possible-ban/">https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/house-republicans-move-ahead-with-tiktok-vote-even-as-trump-voices-opposition-to-possible-ban/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/house-republicans-move-ahead-with-tiktok-vote-even-as-trump-voices-opposition-to-possible-ban/">Save to Pocket</a>
+</span>
+
+---
+
+## Trump’s team is slashing Republican National Committee staff amid takeover, AP sources say
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Just days after installing his new leadership team at the Republican National Committee, Donald Trump&#8217;s lieutenants are cutting dozens of staff across key departments in an aggressive move that further cements the former president&#8217;s takeover of the GOP&#8217;s political and fundraising machinery.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/trumps-team-is-slashing-republican-national-committee-staff-amid-takeover-ap-sources-say/">https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/trumps-team-is-slashing-republican-national-committee-staff-amid-takeover-ap-sources-say/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/nation-world-news/trumps-team-is-slashing-republican-national-committee-staff-amid-takeover-ap-sources-say/">Save to Pocket</a>
+</span>
+
+---
+
+## Fine, call it a comeback
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>If the Joe Biden who showed up to deliver the State of the Union address last week is the Joe Biden who shows up for the rest of the campaign, you&#8217;re not going to have any more of those weak-kneed pundits suggesting he&#8217;s not up to running for reelection. Here&#8217;s hoping he does.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/opinion/fine-call-it-a-comeback/">https://www.hawaiitribune-herald.com/2024/03/12/opinion/fine-call-it-a-comeback/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/opinion/fine-call-it-a-comeback/">Save to Pocket</a>
+</span>
+
+---
+
+## An IVF compromise isn’t out of reach
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>Belatedly, Alabama lawmakers have passed a bill protecting access to in vitro fertilization. The measure came two weeks after the state Supreme Court ruled that frozen embryos should be considered unborn children under the law. Three fertility clinics had suspended treatments, citing liability concerns. Would-be parents were caught in limbo.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/opinion/an-ivf-compromise-isnt-out-of-reach/">https://www.hawaiitribune-herald.com/2024/03/12/opinion/an-ivf-compromise-isnt-out-of-reach/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/opinion/an-ivf-compromise-isnt-out-of-reach/">Save to Pocket</a>
+</span>
+
+---
+
+## Obituaries for March 11
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>Clara Leimomi Borges Bell, 101, of Hilo died Feb. 22 at home. Born in Kaueleau, Puna, she was a retired substitute public schoolteacher and member of The Church of Jesus Christ of Latter-Day Saints Hilo Stake and Ke Ola Pono No Na Kupuna. Visitation 9-10 a.m. Thursday (March 14) at The Church of Jesus Christ of Latter-Day Saints, 1373 Kilauea Ave. in Hilo. Service at 10:30 a.m. Burial to follow at Homelani Memorial Park. Survived by daughter, Leona (Dean) Schroeder of Keaau; son, Jerry (Pamela) Bell of Hilo; 15 grandchildren, 27 great-grandchildren and four great-great grandchildren; nieces and nephews. Arrangements by Ballard Family Mortuary.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/obituaries/obituaries-for-march-11-10/">https://www.hawaiitribune-herald.com/2024/03/12/obituaries/obituaries-for-march-11-10/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/obituaries/obituaries-for-march-11-10/">Save to Pocket</a>
+</span>
+
+---
+
+## Your Views for March 12
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>How many more&#0010;people need to die?</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/opinion/your-views-for-march-12-7/">https://www.hawaiitribune-herald.com/2024/03/12/opinion/your-views-for-march-12-7/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/opinion/your-views-for-march-12-7/">Save to Pocket</a>
+</span>
+
+---
+
+## Let’s Talk Food: Sweetened condensed milk
+
+date: 2024-03-12, from: Hawaii Tribune Harold
+
+
+				<p>Igrew up with sweetened condensed milk because my mother loved to pour it over Saloon Pilot crackers.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/12/features/lets-talk-food-sweetened-condensed-milk/">https://www.hawaiitribune-herald.com/2024/03/12/features/lets-talk-food-sweetened-condensed-milk/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/12/features/lets-talk-food-sweetened-condensed-milk/">Save to Pocket</a>
+</span>
+
+---
+
+## GWA issues water conservation, precautionary boil water notices
+
+date: 2024-03-12, from: Guam Daily Post
+
+The Guam Waterworks Authority has issued a conservation advisory for residents in the Yigo, Dededo and Barrigada areas, and a precautionary boil water notice for residents in the Mount Santa Rosa area in Yigo.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/gwa-issues-water-conservation-precautionary-boil-water-notices/article_b6944afa-e021-11ee-9a19-a30eef33db53.html">https://www.postguam.com/news/local/gwa-issues-water-conservation-precautionary-boil-water-notices/article_b6944afa-e021-11ee-9a19-a30eef33db53.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/gwa-issues-water-conservation-precautionary-boil-water-notices/article_b6944afa-e021-11ee-9a19-a30eef33db53.html">Save to Pocket</a>
+</span>
+
+---
+
+## US Head Start officials visit
+
+date: 2024-03-12, from: Guam Daily Post
+
+Federal officials were on the island last week to review the Guam Department of Education Head Start program’s progress in addressing a number of deficiencies that jeopardized funding.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/us-head-start-officials-visit/article_2044d26c-df5a-11ee-b047-3b307c537137.html">https://www.postguam.com/news/local/us-head-start-officials-visit/article_2044d26c-df5a-11ee-b047-3b307c537137.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/us-head-start-officials-visit/article_2044d26c-df5a-11ee-b047-3b307c537137.html">Save to Pocket</a>
+</span>
+
+---
+
+## Expert: Pacific at cusp of new missile age
+
+date: 2024-03-12, from: Guam Daily Post
+
+Despite perceptions, missile defense was never intended to be a "perfect shield" to protect Guam or military facilities on the island, according to Ankit Panda, a Stanton senior fellow in the Nuclear Policy Program at the Carnegie Endowment for International…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/expert-pacific-at-cusp-of-new-missile-age/article_9e962f0a-df76-11ee-abbe-c3b6c97be3a6.html">https://www.postguam.com/news/local/expert-pacific-at-cusp-of-new-missile-age/article_9e962f0a-df76-11ee-abbe-c3b6c97be3a6.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/expert-pacific-at-cusp-of-new-missile-age/article_9e962f0a-df76-11ee-abbe-c3b6c97be3a6.html">Save to Pocket</a>
+</span>
+
+---
+
+## Public Health warns parents of caffeine's health risks to kids
+
+date: 2024-03-12, from: Guam Daily Post
+
+Parents of preteens or teenagers should think twice about buying them highly caffeinated drinks, according to Public Health officials.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/public-health-warns-parents-of-caffeines-health-risks-to-kids/article_41518800-df6a-11ee-86d0-4b51b6df13ba.html">https://www.postguam.com/news/local/public-health-warns-parents-of-caffeines-health-risks-to-kids/article_41518800-df6a-11ee-86d0-4b51b6df13ba.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/public-health-warns-parents-of-caffeines-health-risks-to-kids/article_41518800-df6a-11ee-86d0-4b51b6df13ba.html">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 assault charges for MMA fighter, co-defendant dismissed
+
+date: 2024-03-12, from: Guam Daily Post
+
+Assault charges for two men were dismissed without prejudice in the Superior Court of Guam.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/2023-assault-charges-for-mma-fighter-co-defendant-dismissed/article_78037d64-e00e-11ee-8000-93215ef47078.html">https://www.postguam.com/news/local/2023-assault-charges-for-mma-fighter-co-defendant-dismissed/article_78037d64-e00e-11ee-8000-93215ef47078.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/2023-assault-charges-for-mma-fighter-co-defendant-dismissed/article_78037d64-e00e-11ee-8000-93215ef47078.html">Save to Pocket</a>
+</span>
+
+---
+
+## Legislature adjourns again without passing an AG bill
+
+date: 2024-03-12, from: Guam Daily Post
+
+Lawmakers were back in session Tuesday to consider legislation meant to address the attorney general's withdrawal of representation from agencies under investigation by his office. But after failing to move past even the initial proceedings, the Guam Legislature once again…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/legislature-adjourns-again-without-passing-an-ag-bill/article_45da8aa4-e017-11ee-89a6-5f50fedfedd5.html">https://www.postguam.com/news/local/legislature-adjourns-again-without-passing-an-ag-bill/article_45da8aa4-e017-11ee-89a6-5f50fedfedd5.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/legislature-adjourns-again-without-passing-an-ag-bill/article_45da8aa4-e017-11ee-89a6-5f50fedfedd5.html">Save to Pocket</a>
+</span>
+
+---
+
+## 2 charged in Tumon riot
+
+date: 2024-03-12, from: Guam Daily Post
+
+A riot involving up to 60 people outside a Tumon club early Sunday morning resulted in the arrest and charging of a man and a woman.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/2-charged-in-tumon-riot/article_c66bb4fe-e012-11ee-9935-9ff83401569b.html">https://www.postguam.com/news/local/2-charged-in-tumon-riot/article_c66bb4fe-e012-11ee-9935-9ff83401569b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/2-charged-in-tumon-riot/article_c66bb4fe-e012-11ee-9935-9ff83401569b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Whipps Announces US Congress Passage of Compact Review Agreement
+
+date: 2024-03-12, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?resize=2048%2C1152&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?resize=1568%2C882&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69208" data-permalink="https://islandtimes.org/whipps-announces-us-congress-passage-of-compact-review-agreement/20240311_150613/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?fit=2560%2C1440&amp;ssl=1" data-orig-size="2560,1440" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1710169573&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;80&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20240311_150613" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/20240311_150613-scaled.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<p>Koror, Palau — Palau President Surangel Whipps Jr. briefed Palau&#8217;s leadership yesterday on the successful passage of the Compact Review Agreement through the United States Congress. This development marks a significant milestone in bilateral relations between the two nations and represents a notable achievement for his administration. &#8220;Two things, the Compact Agreement funding was double [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-announces-us-congress-passage-of-compact-review-agreement/">Whipps Announces US Congress Passage of Compact Review Agreement</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/whipps-announces-us-congress-passage-of-compact-review-agreement/">https://islandtimes.org/whipps-announces-us-congress-passage-of-compact-review-agreement/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/whipps-announces-us-congress-passage-of-compact-review-agreement/">Save to Pocket</a>
+</span>
+
+---
+
+## Omung Women’s Group’s Green Thumb Beautifies Palau Airport Entrance
+
+date: 2024-03-12, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69203" data-permalink="https://islandtimes.org/omung-womens-groups-green-thumb-beautifies-palau-airport-entrance/received_404955208817723/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?fit=2048%2C1536&amp;ssl=1" data-orig-size="2048,1536" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="received_404955208817723" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/received_404955208817723.jpeg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>Omung (bloom), a non-government organization of women who share a love and interest in horticulture, is lending their love of flowers and talented green thumbs to beautify the welcome sign on the hillside of the Palau International Airport. Lorraine, an Omung member, emphasized the importance of leaving a lasting positive impression on visitors. &#8220;It is [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/omung-womens-groups-green-thumb-beautifies-palau-airport-entrance/">Omung Women&#8217;s Group&#8217;s Green Thumb Beautifies Palau Airport Entrance</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/omung-womens-groups-green-thumb-beautifies-palau-airport-entrance/">https://islandtimes.org/omung-womens-groups-green-thumb-beautifies-palau-airport-entrance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/omung-womens-groups-green-thumb-beautifies-palau-airport-entrance/">Save to Pocket</a>
+</span>
+
+---
+
+## Palauan Woman Joins Disaster Training in Tonga
+
+date: 2024-03-12, from: Island Times
+
+<p>March 8, 2024 – Marking International Women’s Day, a cohort of 20 women from the Pacific region, including a participant from Palau, alongside a few from Asia, convene in Nuku&#8217;alofa for the UNITAR Women’s Leadership in Disaster Risk Reduction Training Program. Sharon Truce embarked on Monday to partake in Phase II, which involves in-person training [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palauan-woman-joins-disaster-training-in-tonga/">Palauan Woman Joins Disaster Training in Tonga</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/palauan-woman-joins-disaster-training-in-tonga/">https://islandtimes.org/palauan-woman-joins-disaster-training-in-tonga/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/palauan-woman-joins-disaster-training-in-tonga/">Save to Pocket</a>
+</span>
+
+---
+
+## Op Ed by Miles Young, Director, Pacific Community (SPC) Human Rights and Social Development (HRSD) division
+
+date: 2024-03-12, from: Island Times
+
+<figure><img width="1024" height="495" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/OpEd3.jpg?fit=1024%2C495&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/OpEd3.jpg?w=1596&amp;ssl=1 1596w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/OpEd3.jpg?resize=300%2C145&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/OpEd3.jpg?resize=1024%2C495&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/OpEd3.jpg?resize=768%2C371&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/OpEd3.jpg?resize=1536%2C742&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/OpEd3.jpg?resize=1200%2C580&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/OpEd3.jpg?resize=1568%2C757&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/OpEd3.jpg?resize=400%2C193&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/OpEd3.jpg?resize=706%2C341&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/OpEd3.jpg?fit=1024%2C495&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69198" data-permalink="https://islandtimes.org/op-ed-by-miles-young-director-pacific-community-spc-human-rights-and-social-development-hrsd-division/oped3/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/OpEd3.jpg?fit=1596%2C771&amp;ssl=1" data-orig-size="1596,771" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="OpEd3" data-image-description="" data-image-caption="&lt;p&gt;Captions: (1) Ensuring gender is integrated across science, technology, engineering and mathematics (STEM) and other areas is a priority for the Pacific Community (SPC). (2) SPC’s Principal Strategic Lead – Pacific Women and Girls, Mereseini Rakuita, supports the integration of gender into all programming across SPC, including at the Centre for Pacific Crops and Trees (CePaCT), with lab technician Rohini Prasad.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/OpEd3.jpg?fit=300%2C145&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/OpEd3.jpg?fit=780%2C377&amp;ssl=1" /></figure>
+<p>International Women’s Day on 8 March is a time to celebrate the remarkable achievements of women and girls across the Pacific, and globally. This is also an opportunity to reflect on progress and challenges in the journey toward equal opportunities for women and men, in all their diversity. &#160; This International Women’s Day – and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/op-ed-by-miles-young-director-pacific-community-spc-human-rights-and-social-development-hrsd-division/">Op Ed by Miles Young, Director, Pacific Community (SPC) Human Rights and Social Development (HRSD) division</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/op-ed-by-miles-young-director-pacific-community-spc-human-rights-and-social-development-hrsd-division/">https://islandtimes.org/op-ed-by-miles-young-director-pacific-community-spc-human-rights-and-social-development-hrsd-division/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/op-ed-by-miles-young-director-pacific-community-spc-human-rights-and-social-development-hrsd-division/">Save to Pocket</a>
+</span>
+
+---
+
+## Shift in Koror State Legislature: Speaker Isack Resigns, Successor Expected
+
+date: 2024-03-12, from: Island Times
+
+<p>Koror State Speaker Millan Isack resigned on March 5th following the removal of significant powers vested in the speaker&#8217;s role by a majority of Koror State legislators. A new resolution, aiming to appoint a replacement Speaker and Vice Speaker, is anticipated during today&#8217;s 12th KSL session. A draft resolution obtained by Island Times nominates Legislator [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/shift-in-koror-state-legislature-speaker-isack-resigns-successor-expected/">Shift in Koror State Legislature: Speaker Isack Resigns, Successor Expected</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/shift-in-koror-state-legislature-speaker-isack-resigns-successor-expected/">https://islandtimes.org/shift-in-koror-state-legislature-speaker-isack-resigns-successor-expected/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/shift-in-koror-state-legislature-speaker-isack-resigns-successor-expected/">Save to Pocket</a>
+</span>
+
+---
+
+## The Seventh of March
+
+date: 2024-03-12, from: Island Times
+
+<figure><img width="524" height="522" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/WC1.jpg?fit=524%2C522&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/WC1.jpg?w=524&amp;ssl=1 524w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/WC1.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/WC1.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/WC1.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/WC1.jpg?resize=400%2C398&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/WC1.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/WC1.jpg?fit=524%2C522&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69195" data-permalink="https://islandtimes.org/the-seventh-of-march/wc1-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/WC1.jpg?fit=524%2C522&amp;ssl=1" data-orig-size="524,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="WC1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/WC1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/WC1.jpg?fit=524%2C522&amp;ssl=1" /></figure>
+<p>Your brain is a powerful electro-chemical computer. Your mind is a wealth-carrier – a chest filled with hidden treasures. Governments rule people. Thoughts rule the world. Our minds are powerful instruments capable of shaping our reality. I grew up with stories of my parents and their childhood.&#160; Their triumphs and their losses. The joys and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-seventh-of-march/">The Seventh of March</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/the-seventh-of-march/">https://islandtimes.org/the-seventh-of-march/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/the-seventh-of-march/">Save to Pocket</a>
+</span>
+
+---
+
+## Five ways to accelerate women’s economic empowerment
+
+date: 2024-03-12, from: Island Times
+
+<figure><img width="400" height="403" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/review-icon-png-23.png?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/review-icon-png-23.png?resize=298%2C300&amp;ssl=1 298w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/review-icon-png-23.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/review-icon-png-23.png?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/review-icon-png-23.png?fit=400%2C403&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69193" data-permalink="https://islandtimes.org/five-ways-to-accelerate-womens-economic-empowerment/review-icon-png-23-7/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" data-orig-size="400,403" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="review-icon-png-23" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/review-icon-png-23.png?fit=298%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/review-icon-png-23.png?fit=400%2C403&amp;ssl=1" /></figure>
+<p>NEW YORK &#160;(UN NEWS CENTRE) &#8212;At the current rate of investment, more than 340 million women and girls will still live in extreme poverty by 2030, according to UN Women.&#160; As the world celebrates International Women’s Day on 08 March by investing in women, we look at what needs to be done to improve the [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/five-ways-to-accelerate-womens-economic-empowerment/">Five ways to accelerate women’s economic empowerment</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/five-ways-to-accelerate-womens-economic-empowerment/">https://islandtimes.org/five-ways-to-accelerate-womens-economic-empowerment/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/five-ways-to-accelerate-womens-economic-empowerment/">Save to Pocket</a>
+</span>
+
+---
+
+## Micronesia drought leaves thousands desperate for food – UNICEF
+
+date: 2024-03-12, from: Island Times
+
+<p>PONPHEI, 11 MARCH 2024 (RNZ PACIFIC)&#8212;Thousands of people are being impacted by drought in the Federated States of Micronesia. The four states &#8211; Yap, Chuuk, Pohnpei and Kosrae &#8211; have all been experiencing drier than normal weather since December last year with the U.S National Weather Service predicting things are likely to worsen under current [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/micronesia-drought-leaves-thousands-desperate-for-food-unicef/">Micronesia drought leaves thousands desperate for food &#8211; UNICEF</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/micronesia-drought-leaves-thousands-desperate-for-food-unicef/">https://islandtimes.org/micronesia-drought-leaves-thousands-desperate-for-food-unicef/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/micronesia-drought-leaves-thousands-desperate-for-food-unicef/">Save to Pocket</a>
+</span>
+
+---
+
+## As CNMI economy stagnates, Kilili pushes for restoration of Chinese tourism access
+
+date: 2024-03-12, from: Island Times
+
+<p>SAIPAN, 11 MARCH 2024 (MARIANAS VARIETY)&#8212;The CNMI’s ailing economy will continue to languish until access to Chinese tourism is regained, U.S. Congressman Gregorio Kilili Camacho Sablan told U.S Department of Transportation Secretary Pete Buttigieg last week. Kilili was following up on his 24 January, 2024, letter in support of the Commonwealth Ports Authority&#8217;s request to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/as-cnmi-economy-stagnates-kilili-pushes-for-restoration-of-chinese-tourism-access/">As CNMI economy stagnates, Kilili pushes for restoration of Chinese tourism access</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/as-cnmi-economy-stagnates-kilili-pushes-for-restoration-of-chinese-tourism-access/">https://islandtimes.org/as-cnmi-economy-stagnates-kilili-pushes-for-restoration-of-chinese-tourism-access/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/as-cnmi-economy-stagnates-kilili-pushes-for-restoration-of-chinese-tourism-access/">Save to Pocket</a>
+</span>
+
+---
+
+## 5 people found dead at a Honolulu home in an apparent murder-suicide, police say
+
+date: 2024-03-12, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/5-people-found-dead.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/5-people-found-dead.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/5-people-found-dead.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/5-people-found-dead.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/5-people-found-dead.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/5-people-found-dead.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/5-people-found-dead.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69184" data-permalink="https://islandtimes.org/5-people-found-dead-at-a-honolulu-home-in-an-apparent-murder-suicide-police-say/5-people-found-dead/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/5-people-found-dead.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone SE (2nd generation)&quot;,&quot;caption&quot;:&quot;Honolulu police investigate the killings of multiple people at a home in Honolulu&#039;s Manoa neighborhood, Sunday, March 10, 2024. (Craig T. Kojima\/Honolulu Star-Advertiser via AP)&quot;,&quot;created_timestamp&quot;:&quot;1710071676&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.99&quot;,&quot;iso&quot;:&quot;20&quot;,&quot;shutter_speed&quot;:&quot;0.0009469696969697&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="5 people found dead" data-image-description="" data-image-caption="&lt;p&gt;Honolulu police investigate the killings of multiple people at a home in Honolulu&#8217;s Manoa neighborhood, Sunday, March 10, 2024. (Craig T. Kojima/Honolulu Star-Advertiser via AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/5-people-found-dead.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/5-people-found-dead.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>HONOLULU (AP) — Honolulu police said Sunday they were investigating what appears to be the murder-suicide of a family, including three children, at a Manoa home. Police first arrived at the home at 8:30 a.m. but left after no one answered the door, Lt. Deena Thoemmes said during a news conference Sunday afternoon. She explained [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/5-people-found-dead-at-a-honolulu-home-in-an-apparent-murder-suicide-police-say/">5 people found dead at a Honolulu home in an apparent murder-suicide, police say</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/5-people-found-dead-at-a-honolulu-home-in-an-apparent-murder-suicide-police-say/">https://islandtimes.org/5-people-found-dead-at-a-honolulu-home-in-an-apparent-murder-suicide-police-say/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/5-people-found-dead-at-a-honolulu-home-in-an-apparent-murder-suicide-police-say/">Save to Pocket</a>
+</span>
+
+---
+
+## How US territory American Samoa delivered Jason Palmer a surprise win and denied Joe Biden a Democratic clean sweep
+
+date: 2024-03-12, from: Island Times
+
+<p>By&#160;Doug Dingwall&#160;and&#160;Lachlan Bennett&#160;with wires (ABC-Australia) It was the surprise result that trained the world&#8217;s gaze on a small chain of islands in the Pacific — and denied US President Joe Biden a clean sweep of pre-election Democratic contests. American Samoa bucked the Super Tuesday trend by choosing instead long-shot candidate Jason Palmer in its caucus, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/how-us-territory-american-samoa-delivered-jason-palmer-a-surprise-win-and-denied-joe-biden-a-democratic-clean-sweep/">How US territory American Samoa delivered Jason Palmer a surprise win and denied Joe Biden a Democratic clean sweep</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/how-us-territory-american-samoa-delivered-jason-palmer-a-surprise-win-and-denied-joe-biden-a-democratic-clean-sweep/">https://islandtimes.org/how-us-territory-american-samoa-delivered-jason-palmer-a-surprise-win-and-denied-joe-biden-a-democratic-clean-sweep/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/how-us-territory-american-samoa-delivered-jason-palmer-a-surprise-win-and-denied-joe-biden-a-democratic-clean-sweep/">Save to Pocket</a>
+</span>
+
+---
+
+## Anthony Davis bullies Timberwolves with 27 points, 25 rebounds in Lakers’ 120-109 victory
+
+date: 2024-03-12, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Anthony-Davis-bullies.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Anthony-Davis-bullies.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Anthony-Davis-bullies.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Anthony-Davis-bullies.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Anthony-Davis-bullies.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Anthony-Davis-bullies.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Anthony-Davis-bullies.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="69181" data-permalink="https://islandtimes.org/anthony-davis-bullies-timberwolves-with-27-points-25-rebounds-in-lakers-120-109-victory/anthony-davis-bullies/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Anthony-Davis-bullies.jpg?fit=1024%2C683&amp;ssl=1" data-orig-size="1024,683" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;Eric Thayer&quot;,&quot;camera&quot;:&quot;ILCE-1&quot;,&quot;caption&quot;:&quot;Los Angeles Lakers forward LeBron James (23) drives against Minnesota Timberwolves guard Nickeil Alexander-Walker, center, through a screen set by forward Anthony Davis (3) during the first half of an NBA basketball game in Los Angeles, Sunday, March 10, 2024. (AP Photo\/Eric Thayer)&quot;,&quot;created_timestamp&quot;:&quot;1710096933&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;182&quot;,&quot;iso&quot;:&quot;4000&quot;,&quot;shutter_speed&quot;:&quot;0.0004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Anthony Davis bullies" data-image-description="" data-image-caption="&lt;p&gt;Los Angeles Lakers forward LeBron James (23) drives against Minnesota Timberwolves guard Nickeil Alexander-Walker, center, through a screen set by forward Anthony Davis (3) during the first half of an NBA basketball game in Los Angeles, Sunday, March 10, 2024. (AP Photo/Eric Thayer)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Anthony-Davis-bullies.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/03/Anthony-Davis-bullies.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>By GREG BEACHAM AP Sports Writer LOS ANGELES (AP) — Anthony Davis had 27 points, a season-high 25 rebounds and a career-high seven steals while leading the Los Angeles Lakers to a 120-109 victory over the short-handed Minnesota Timberwolves on Sunday night. Davis added five assists and three blocked shots in one of the most [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/anthony-davis-bullies-timberwolves-with-27-points-25-rebounds-in-lakers-120-109-victory/">Anthony Davis bullies Timberwolves with 27 points, 25 rebounds in Lakers&#8217; 120-109 victory</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://islandtimes.org/anthony-davis-bullies-timberwolves-with-27-points-25-rebounds-in-lakers-120-109-victory/">https://islandtimes.org/anthony-davis-bullies-timberwolves-with-27-points-25-rebounds-in-lakers-120-109-victory/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://islandtimes.org/anthony-davis-bullies-timberwolves-with-27-points-25-rebounds-in-lakers-120-109-victory/">Save to Pocket</a>
+</span>
+
+---
+
+## Trump calls TikTok a threat but says some kids could 'go crazy' without it
+
+date: 2024-03-12, updated: 2024-03-12, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. presidential candidate Donald Trump said on Monday TikTok was a national security threat but also said a ban on the popular app would hurt some kids and only strengthen Meta Platforms' Facebook, which the Republican has harshly criticized.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/trump-calls-tiktok-a-threat-but-says-some-kids-could-go-crazy-without-it/article_d2ed1d4a-e048-11ee-af74-87f4b3018ab8.html">https://www.mvariety.com/business/trump-calls-tiktok-a-threat-but-says-some-kids-could-go-crazy-without-it/article_d2ed1d4a-e048-11ee-af74-87f4b3018ab8.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/trump-calls-tiktok-a-threat-but-says-some-kids-could-go-crazy-without-it/article_d2ed1d4a-e048-11ee-af74-87f4b3018ab8.html">Save to Pocket</a>
+</span>
+
+---
+
+## Reddit targets up to $6.4 billion valuation in much-awaited US IPO
+
+date: 2024-03-12, updated: 2024-03-12, from: Marianas Variety
+
+(Reuters) — Reddit is aiming for a valuation of up to $6.4 billion in its U.S. initial public offering (IPO), the social media platform said on Monday, as it nears one of the most anticipated stock market debuts of the last few years.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/reddit-targets-up-to-6-4-billion-valuation-in-much-awaited-us-ipo/article_4a703808-e048-11ee-b9f5-5ba35cb50e64.html">https://www.mvariety.com/business/reddit-targets-up-to-6-4-billion-valuation-in-much-awaited-us-ipo/article_4a703808-e048-11ee-b9f5-5ba35cb50e64.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/reddit-targets-up-to-6-4-billion-valuation-in-much-awaited-us-ipo/article_4a703808-e048-11ee-b9f5-5ba35cb50e64.html">Save to Pocket</a>
+</span>
+
+---
+
+## Biden's $7.3 trillion budget is campaign pitch for spending, tax goals
+
+date: 2024-03-12, updated: 2024-03-12, from: Marianas Variety
+
+WASHINGTON (Reuters) — U.S. President Joe Biden sketched his policy vision for a potential second four-year term on Monday, unveiling a $7.3 trillion election-year budget aimed at convincing skeptical Americans that he can run the economy better than Donald Trump.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/bidens-7-3-trillion-budget-is-campaign-pitch-for-spending-tax-goals/article_47beef7a-e046-11ee-8792-83b131aed857.html">https://www.mvariety.com/news/national/bidens-7-3-trillion-budget-is-campaign-pitch-for-spending-tax-goals/article_47beef7a-e046-11ee-8792-83b131aed857.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/bidens-7-3-trillion-budget-is-campaign-pitch-for-spending-tax-goals/article_47beef7a-e046-11ee-8792-83b131aed857.html">Save to Pocket</a>
+</span>
+
+---
+
+## Biden administration finalizes higher standard for 'Product of USA' meat label
+
+date: 2024-03-12, updated: 2024-03-12, from: Marianas Variety
+
+WASHINGTON (Reuters) — The administration of U.S. President Joe Biden on Monday finalized a rule requiring meat, poultry, or eggs labeled as a U.S. product to come from animals born, raised, slaughtered, and processed in the country.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/biden-administration-finalizes-higher-standard-for-product-of-usa-meat-label/article_51eab854-e045-11ee-9e67-7b381fa00660.html">https://www.mvariety.com/news/national/biden-administration-finalizes-higher-standard-for-product-of-usa-meat-label/article_51eab854-e045-11ee-9e67-7b381fa00660.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/biden-administration-finalizes-higher-standard-for-product-of-usa-meat-label/article_51eab854-e045-11ee-9e67-7b381fa00660.html">Save to Pocket</a>
+</span>
+
+---
+
+## NYCB closes $1 billion capital infusion deal, announces reverse stock split
+
+date: 2024-03-12, updated: 2024-03-12, from: Marianas Variety
+
+(Reuters) — New York Community Bancorp said on Monday it had closed the $1 billion capital infusion deal that was agreed last week with an investor group and plans to submit one-for-three reverse stock split of its common stock to shareholders.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/nycb-closes-1-billion-capital-infusion-deal-announces-reverse-stock-split/article_fb7df58a-e044-11ee-8aed-07eff5cfdc03.html">https://www.mvariety.com/news/national/nycb-closes-1-billion-capital-infusion-deal-announces-reverse-stock-split/article_fb7df58a-e044-11ee-8aed-07eff5cfdc03.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/nycb-closes-1-billion-capital-infusion-deal-announces-reverse-stock-split/article_fb7df58a-e044-11ee-8aed-07eff5cfdc03.html">Save to Pocket</a>
+</span>
+
+---
+
+## Settlement allows Florida teachers to 'say gay' in classroom
+
+date: 2024-03-12, updated: 2024-03-12, from: Marianas Variety
+
+(Reuters) — Florida and LGBTQ advocates on Monday settled a lawsuit over a state law on classroom instruction that grants teachers freedom to discuss sexual orientation and gender identity while also shielding the youngest students from those topics.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/settlement-allows-florida-teachers-to-say-gay-in-classroom/article_c5db5c2e-e044-11ee-a6ff-9f74dd7d0245.html">https://www.mvariety.com/news/national/settlement-allows-florida-teachers-to-say-gay-in-classroom/article_c5db5c2e-e044-11ee-a6ff-9f74dd7d0245.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/settlement-allows-florida-teachers-to-say-gay-in-classroom/article_c5db5c2e-e044-11ee-a6ff-9f74dd7d0245.html">Save to Pocket</a>
+</span>
+
+---
+
+## Fiery Illinois highway collision kills three children and two adults
+
+date: 2024-03-12, updated: 2024-03-12, from: Marianas Variety
+
+(Reuters) — Three children and two adults were killed in western Illinois on Monday in a fiery, head-on collision between a school bus and a tractor-trailer that was hauling a load of sand, authorities said.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/fiery-illinois-highway-collision-kills-three-children-and-two-adults/article_8db1ea0c-e044-11ee-ae0e-db8adbc672ce.html">https://www.mvariety.com/news/national/fiery-illinois-highway-collision-kills-three-children-and-two-adults/article_8db1ea0c-e044-11ee-ae0e-db8adbc672ce.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/fiery-illinois-highway-collision-kills-three-children-and-two-adults/article_8db1ea0c-e044-11ee-ae0e-db8adbc672ce.html">Save to Pocket</a>
+</span>
+
+---
+
+## New Trump-backed Republican party leadership pushes out officials, source says
+
+date: 2024-03-12, updated: 2024-03-12, from: Marianas Variety
+
+(Reuters) — The recently elected leadership of the Republican National Committee (RNC), backed by former President Donald Trump, has begun the process of pushing out 60 officials at the organization, according to a source familiar with the situation.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/new-trump-backed-republican-party-leadership-pushes-out-officials-source-says/article_d2c6a5de-e043-11ee-a145-6f685b050ee1.html">https://www.mvariety.com/news/national/new-trump-backed-republican-party-leadership-pushes-out-officials-source-says/article_d2c6a5de-e043-11ee-a145-6f685b050ee1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/new-trump-backed-republican-party-leadership-pushes-out-officials-source-says/article_d2c6a5de-e043-11ee-a145-6f685b050ee1.html">Save to Pocket</a>
+</span>
+
+---
+
+## Biden wants to hire 2,000 air traffic controllers in 2025
+
+date: 2024-03-12, updated: 2024-03-12, from: Marianas Variety
+
+WASHINGTON (Reuters) — The Biden administration said Monday it is seeking funding from Congress to hire another 2,000 air traffic controllers in the 2025 budget year after a series of near-miss incidents.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/biden-wants-to-hire-2-000-air-traffic-controllers-in-2025/article_44b8fbc0-e043-11ee-8593-dfefd72fb603.html">https://www.mvariety.com/news/national/biden-wants-to-hire-2-000-air-traffic-controllers-in-2025/article_44b8fbc0-e043-11ee-8593-dfefd72fb603.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/biden-wants-to-hire-2-000-air-traffic-controllers-in-2025/article_44b8fbc0-e043-11ee-8593-dfefd72fb603.html">Save to Pocket</a>
+</span>
+
+---
+
+## Haitian PM tenders resignation after Jamaica talks
+
+date: 2024-03-12, updated: 2024-03-12, from: Marianas Variety
+
+KINGSTON, Jamaica (Reuters) — Haitian Prime Minister Ariel Henry has tendered his resignation as head of the Caribbean nation, the leader of a regional body said on Monday, an unelected role the 74-year-old neurosurgeon held since 2021.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/haitian-pm-tenders-resignation-after-jamaica-talks/article_2ccad60e-e03a-11ee-99b2-0f2c217a7ec2.html">https://www.mvariety.com/news/haitian-pm-tenders-resignation-after-jamaica-talks/article_2ccad60e-e03a-11ee-99b2-0f2c217a7ec2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/haitian-pm-tenders-resignation-after-jamaica-talks/article_2ccad60e-e03a-11ee-99b2-0f2c217a7ec2.html">Save to Pocket</a>
+</span>
+
+---
+
+## GWA issues water conservation, precautionary boil water notice
+
+date: 2024-03-12, from: Guam Daily Post
+
+The Guam Waterworks Authority has issued a conservation advisory for residents in the Yigo, Dededo and Barrigada areas, and a precautionary boil water notice for residents in the Mount Santa Rosa area in Yigo.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/gwa-issues-water-conservation-precautionary-boil-water-notice/article_18e2fabe-e020-11ee-9a35-3f15d747774e.html">https://www.postguam.com/news/gwa-issues-water-conservation-precautionary-boil-water-notice/article_18e2fabe-e020-11ee-9a35-3f15d747774e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/gwa-issues-water-conservation-precautionary-boil-water-notice/article_18e2fabe-e020-11ee-9a35-3f15d747774e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Career, technical education, photography, more intersect at Kapiʻolani CC
+
+date: 2024-03-12, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> <span aria-label="Kapiolani">Kapi&#699;olani</span> Community College’s <abbr>CTE</abbr> Expo and PhotoCON <span aria-label="Hawaii">Hawai&#699;i</span> drew hundreds to the campus.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/11/career-technical-education-photography-more/">Career, technical education, photography, more intersect at Kapiʻolani <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/11/career-technical-education-photography-more/">https://www.hawaii.edu/news/2024/03/11/career-technical-education-photography-more/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/11/career-technical-education-photography-more/">Save to Pocket</a>
+</span>
+
+---
+
+## Students fill popular study pods at Hamilton Library
+
+date: 2024-03-12, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Pillar Booths are modern study pods that have become a popular choice for students.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/11/hamilton-library-pillar-booths/">Students fill popular study pods at Hamilton Library</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/11/hamilton-library-pillar-booths/">https://www.hawaii.edu/news/2024/03/11/hamilton-library-pillar-booths/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/11/hamilton-library-pillar-booths/">Save to Pocket</a>
+</span>
+
+---
+
+## Bows’ Abshier earns 2nd Big West Pitcher of the week
+
+date: 2024-03-12, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Abshier prevented any hits over the 5.1 innings of play and has matched his career-high strikeouts.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/11/abshier-big-west-pitcher-of-the-week/">Bows’ Abshier earns 2nd Big West Pitcher of the week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/11/abshier-big-west-pitcher-of-the-week/">https://www.hawaii.edu/news/2024/03/11/abshier-big-west-pitcher-of-the-week/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/11/abshier-big-west-pitcher-of-the-week/">Save to Pocket</a>
+</span>
+
+---
+
+## Sea-labrate Waikīkī Aquarium’s 120th anniversary
+
+date: 2024-03-12, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> The Waik&#299;k&#299; Aquarium is hosting a two-day celebration with educational activities and experiences.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/11/waikiki-aquarium-120th-anniversary/">Sea-labrate Waikīkī Aquarium’s 120th anniversary</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/11/waikiki-aquarium-120th-anniversary/">https://www.hawaii.edu/news/2024/03/11/waikiki-aquarium-120th-anniversary/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/11/waikiki-aquarium-120th-anniversary/">Save to Pocket</a>
+</span>
+
+---
+
+## Wahine tennis player titled Big West Player of the Week
+
+date: 2024-03-12, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Nikola Homolkova excels with a 5&#8211;of&#8211;6 combined singles and doubles record.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/11/wahine-tennis-big-west-player/">Wahine tennis player titled Big West Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/11/wahine-tennis-big-west-player/">https://www.hawaii.edu/news/2024/03/11/wahine-tennis-big-west-player/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/11/wahine-tennis-big-west-player/">Save to Pocket</a>
+</span>
+
+---
+
+## CPEM consultations end on a high note
+
+date: 2024-03-12, from: University of the South Pacific (Fiji)
+
+<p>The two-day Conference of Pacific Education Ministers (CPEM) consultations at Novotel, Nadi, concluded on a...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/cpem-consultations-end-on-a-high-note/">CPEM consultations end on a high note</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/cpem-consultations-end-on-a-high-note/">https://www.usp.ac.fj/news/cpem-consultations-end-on-a-high-note/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/cpem-consultations-end-on-a-high-note/">Save to Pocket</a>
+</span>
+
+---
+
+## UH Mānoa women’s basketball Coach Beeman scores 200th win
+
+date: 2024-03-12, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Concluding the season with a 20&#8211;9 and 17&#8211;3, while Beeman reaches a career record of 200&#8211;157.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/11/coach-beeman-scores-200th-win/"><abbr>UH</abbr> Mānoa women’s basketball Coach Beeman scores 200th win</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/11/coach-beeman-scores-200th-win/">https://www.hawaii.edu/news/2024/03/11/coach-beeman-scores-200th-win/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/11/coach-beeman-scores-200th-win/">Save to Pocket</a>
+</span>
+
+---
+
+## Military number falls under ' controlled information,' Moylan says
+
+date: 2024-03-12, from: Pacific Island Times
+
+By Pacific Island Times News Staff Seeking to assuage community concerns over a looming military-related population surge, Guam Del....
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/military-number-falls-under-controlled-information-moylan-says">https://www.pacificislandtimes.com/post/military-number-falls-under-controlled-information-moylan-says</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/military-number-falls-under-controlled-information-moylan-says">Save to Pocket</a>
+</span>
+
+---
+
+## Scholarships open: Alice & JP Wang Foundation fund student study in Taiwan
+
+date: 2024-03-11, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Scholarships will help <abbr>UH</abbr> Mānoa students with the costs of studying abroad in Taiwan as part of the Chinese Language Flagship Program.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/11/alice-jp-wang-foundation-taiwan-scholarships/">Scholarships open: Alice & <abbr>JP</abbr> Wang Foundation fund student study in Taiwan</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/11/alice-jp-wang-foundation-taiwan-scholarships/">https://www.hawaii.edu/news/2024/03/11/alice-jp-wang-foundation-taiwan-scholarships/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/11/alice-jp-wang-foundation-taiwan-scholarships/">Save to Pocket</a>
+</span>
+
+---
+
+## Navigator Nainoa Thompson to be honored at international meeting of geographers
+
+date: 2024-03-11, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The Department of Geography and Environment in the College of Social Sciences at <abbr>UH</abbr> Mānoa is the lead organizer in <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/11/nainoa-thompson-honored-aag/">Navigator Nainoa Thompson to be honored at international meeting of geographers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/11/nainoa-thompson-honored-aag/">https://www.hawaii.edu/news/2024/03/11/nainoa-thompson-honored-aag/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/11/nainoa-thompson-honored-aag/">Save to Pocket</a>
+</span>
+
+---
+
+## UH, DOE team up to grow farm training for students
+
+date: 2024-03-11, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Students developed skills in landscape maintenance, facility sanitation, plant propagation techniques and preparing plants for industry needs.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/11/manini-farm-project-ctahr/"><abbr>UH</abbr>, <abbr>DOE</abbr> team up to grow farm training for students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/11/manini-farm-project-ctahr/">https://www.hawaii.edu/news/2024/03/11/manini-farm-project-ctahr/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/11/manini-farm-project-ctahr/">Save to Pocket</a>
+</span>
+
+---
+
+## PRESIDENTIAL EMERGENCY DECLARATION NO. 2024-001
+
+date: 2024-03-11, from: FSM Public Information Office (Simina Administration)
+
+<p><img src="https://gov.fm/images/2024/pres_seal3.png" /></p><div class="container">
+	<div class="column">
+		<img alt="" src="https://gov.fm/images/2024/FSM_Seal3.png" style="width: 100px; height: 100px; text-align: left;" /></div>
+	<div class="column" style="text-align:center;" valign="middle">
+		<span style="color:#000099;"><span style="font-size:18px;"><span style="font-family:Monotype Corsiva;"><span style="font-size:36px;">The President</span><br />
+		<span style="font-size:20px;">Palikir, Pohnpei<br />
+		Federated States of Micronesia</span></span></span></span></div>
+	<div class="column">
+		&nbsp;</div>
+</div>
+<h2 style="text-align: center;">
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">PRESIDENTIAL EMERGENCY DECLARATION NO. 2024-001</span></span></h2>
+<div>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, El Nino was predicted to impact the Federated States of Micronesia this year;</span></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, the nation has been experiencing extremely and unusually low levels of precipitation and it is anticipated that this condition will continue to intensify in the coming months;</span></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, the impacts of lack of rain are causing rain catchment and rivers systems across the nation to run dry; and for the inhabitants especially in the Outer Islands who are dependent on these systems, the threat of sustained decline in water supply is causing tremendous impact upon sanitation and public health;</span></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, the forecast of rainfall across FSM is already showing that the rainfall levels will continue to decrease, hence, the government must act swiftly and immediately in order to prevent any further devastation upon people, livestock, crops, and properties; and</span></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WHEREAS, the State of Yap, State of Pohnpei and State of Chuuk have declared an emergency according to their respective state laws on the basis of the adverse effects and impacts described above.</span></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOW THEREFORE, I, Wesley W. Simina, President of the Federated States of Micronesia, by the authority vested in me pursuant to the Constitution and the Laws of the Federated States of Micronesia, including in particular Article X Section 9 of the FSM Constitution and 41 F.S.M.C. 705, et seq., hereby declare, direct and decree as follows:</span></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.<span style="white-space:pre"> </span>The Government hereby declares a national emergency; as such, the resources of the National Government are committed to supplement the available resources using foreign assistance, and such domestic resources as are needed, subject to the availability of appropriated funds.</span></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.<span style="white-space:pre"> </span>The National Emergency Task Force (the &quot;Task Force&quot;) is immediately constituted to take immediate steps and to act as required pursuant to the emergency and shall systematically develop a plan to alleviate or mitigate the adverse effects of the emergency, determine the most effective manner in addressing the emergency situation given the limited available resources of the National Government, and take such immediate steps to support relief efforts and citizens severely impacted by the emergency.</span></span></div>
+<div>
+	&nbsp;</div>
+<div>
+	<div>
+		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.<span style="white-space:pre"> </span>The Task Force shall be headed by the Secretary of the Department of Environment, Climate Change, and Emergency Management (DECEM), and assisted by all the Cabinet Members in the Executive Branch. The Task Force is mandated to implement such immediate measures as are necessary to contain the damage caused by the persistent drought and closely monitor the vulnerable population especially in the outer islands.</span></span></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.<span style="white-space:pre"> </span>The Disaster Relief Fund under Sub-Chapter II Chapter 6 Title 55 of the FSM Code, the Disaster Assistance Emergency Fund in accordance with the Amended Compact, and other emergency- related funds available are activated to be used to assist, support, and supplement the National and State relief efforts.</span></span></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.<span style="white-space:pre"> </span>The competitive bidding required in the Financial Management Act and Regulation, to the extent otherwise applicable to any government procurement, and the import tax for purchases and donations in connection with procurements relating to the declared emergency, are hereby waived as long as the emergency declaration persists.</span></span></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.<span style="white-space:pre"> </span>The Task Force is mandated to coordinate with State authorities in implementing any emergency response and keep the President timely informed of any progress or development relating thereto.</span></span></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.<span style="white-space:pre"> </span>In accordance with the emergency declaration, $1, 288, 824 is hereby decreed into the Disaster Relief Fund. The decreed amount shall be sourced from the existing appropriation of the same amount under Section 9 (1 l)(g) of Public Law No. 23-46. Additional funds may be decreed at a later time. Decreed funds may be allocated to individual states according to their respective needs as approved by the President. Allotment shall be issued according to the approved allocation.</span></span></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8.<span style="white-space:pre"> </span>Procurement of any goods used in foreign aid project relating to the emergency shall be exempt from import tax pursuant to 54 F.S.M.C. &sect;222. State authorities and agencies are urged to waive any port charges, including wharfage, freight and other fees and charges in connection with the transport of relief equipment, supplies and materials needed by or relating to the emergency.</span></span></div>
+	<div>
+		<center>
+			<img alt="" src="https://gov.fm/images/2024/day_signature.png" style="width: 432px; height: 142px;" /></center>
+	</div>
+</div>
+<p>
+	<style type="text/css">
+.container {
+            margin-bottom: 1px;
+            display: flex;
+        }
+        .column {
+            flex: 1;
+            background-color: #ffffff;
+            padding: 5px;
+            border: 0px solid #ccc;
+            margin-right: 10px;
+        }	</style>
+</p>
+
+
+<span class="feed-item-link">
+<a href="https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/784-presidential-emergency-declaration-no-2024-001?Itemid=177">https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/784-presidential-emergency-declaration-no-2024-001?Itemid=177</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://gov.fm/index.php/component/content/article/35-pio-articles/news-and-updates/784-presidential-emergency-declaration-no-2024-001?Itemid=177">Save to Pocket</a>
+</span>
+
+---
+
+## Biden proposes $119.1M in FY25 budget for US territories and FAS 
+
+date: 2024-03-11, from: Pacific Island Times
+
+By Pacific Island Times News Staff President Joe Biden is $119.1 million for the U.S. Department of the Interior’s Office of Insular...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/biden-proposes-119-1m-in-fy25-budget-for-us-territories-and-fas">https://www.pacificislandtimes.com/post/biden-proposes-119-1m-in-fy25-budget-for-us-territories-and-fas</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/biden-proposes-119-1m-in-fy25-budget-for-us-territories-and-fas">Save to Pocket</a>
+</span>
+
+---
+
+## UH study first to measure outrigger canoe paddling intensity
+
+date: 2024-03-11, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">4</span> <span class="rt-label rt-postfix">minutes</span></span> Competitive and recreational paddlers with and without a spinal cord injury were part of the pilot study.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/11/measuring-outrigger-canoe-paddling-intensity/"><abbr>UH</abbr> study first to measure outrigger canoe paddling intensity</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/11/measuring-outrigger-canoe-paddling-intensity/">https://www.hawaii.edu/news/2024/03/11/measuring-outrigger-canoe-paddling-intensity/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/11/measuring-outrigger-canoe-paddling-intensity/">Save to Pocket</a>
+</span>
+
+---
+
+## INSIGHTS ON PBS HAWAIʻI Hurricane Insurance for Condos
+
+date: 2024-03-11, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>Join the conversation on our Facebook , Thursday, March 14 at 7:30 pm on INSIGHTS ON PBS HAWAIʻI. Scheduled Guests: tba &#160;</p>
+<p>The post <a href="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-hurricane-insurance-for-condos/">INSIGHTS ON PBS HAWAIʻI &lt;br/&gt;Hurricane Insurance for Condos</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-hurricane-insurance-for-condos/">https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-hurricane-insurance-for-condos/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pbshawaii.org/insights-on-pbs-hawai%ca%bbi-hurricane-insurance-for-condos/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -1283,7 +2307,7 @@ Blogs Guide to Trying to find No deposit Added bonus Codes In the usa Ready to P
 
 ---
 
-## Long live the long-livedWhat does countering China actually mean?
+## Long live the long-lived: What does countering China actually mean?
 
 date: 2024-03-10, from: Pacific Island Times
 

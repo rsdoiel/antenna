@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.11
-updated: 2024-03-11 10:56:36
+updated: 2024-03-12 08:59:04
 ---
 
 # libraries 2024.11
 
-(date: 2024-03-11 10:56:36)
+(date: 2024-03-12 08:59:04)
 
 ---
 
@@ -29,6 +29,34 @@ Mayer, Jakob; Süsser, Diana; Pickering, Bryn; Bachner, Gabriel; Sanvito, France
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/659857">http://hdl.handle.net/20.500.11850/659857</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/659857">Save to Pocket</a>
+</span>
+
+---
+
+## Insights from the 2024 ARL President’s Institute, “Embracing Sustainability—Libraries Leading the Way”
+
+date: 2024-03-12, from: Association of Research Libraries News
+
+<p>Last Updated on March 12, 2024, 11:48 am ET As the 2023 Julia C. Blixrud Scholarship recipient I was given the privilege to attend ARL’s first President’s Institute, titled “Embracing...</p>
+<p>The post <a href="https://www.arl.org/blog/insights-from-the-2024-arl-presidents-institute-embracing-sustainability-libraries-leading-the-way/">Insights from the 2024 ARL President’s Institute, “Embracing Sustainability—Libraries Leading the Way”</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/blog/insights-from-the-2024-arl-presidents-institute-embracing-sustainability-libraries-leading-the-way/">https://www.arl.org/blog/insights-from-the-2024-arl-presidents-institute-embracing-sustainability-libraries-leading-the-way/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/blog/insights-from-the-2024-arl-presidents-institute-embracing-sustainability-libraries-leading-the-way/">Save to Pocket</a>
+</span>
+
+---
+
+## Navigating the Page and The Reader’s Task
+
+date: 2024-03-12, from: Scholarly Kitchen
+
+<p>Juggling formats of print vs. digital for books, have developers simply given up on whether there's room to improve navigation and design?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/03/12/navigating-the-page-and-the-readers-task/">Navigating the Page and The Reader’s Task</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/03/12/navigating-the-page-and-the-readers-task/">https://scholarlykitchen.sspnet.org/2024/03/12/navigating-the-page-and-the-readers-task/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/03/12/navigating-the-page-and-the-readers-task/">Save to Pocket</a>
 </span>
 
 ---

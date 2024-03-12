@@ -1,11 +1,95 @@
 ---
 title: motorcycles 2024.11
-updated: 2024-03-11 10:56:36
+updated: 2024-03-12 08:59:04
 ---
 
 # motorcycles 2024.11
 
-(date: 2024-03-11 10:56:36)
+(date: 2024-03-12 08:59:04)
+
+---
+
+## Gear Up With Touratech’s New Aventuro Pro Carbon ADV Helmet
+
+date: 2024-03-12, from: Ride Apart, Electric Motorcycle News
+
+Lightweight, well-ventilated, and safe—what more could you ask for? 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711295/touratech-aventuro-pro-carbon-helmet/">https://www.rideapart.com/news/711295/touratech-aventuro-pro-carbon-helmet/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711295/touratech-aventuro-pro-carbon-helmet/">Save to Pocket</a>
+</span>
+
+---
+
+## American Honda Issues Stop Sale/Recall On Three Motorcycles
+
+date: 2024-03-12, from: Ride Apart, Electric Motorcycle News
+
+Certain 2018-2019 CBR1000RR, 2018-2020 CBR600RR, and 2017-2024 Gold Wings are affected.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711445/honda-stop-sale-recall-fuelpump/">https://www.rideapart.com/news/711445/honda-stop-sale-recall-fuelpump/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711445/honda-stop-sale-recall-fuelpump/">Save to Pocket</a>
+</span>
+
+---
+
+## Josh Herrin and Warhorse HSBK Ducati Win 2024 Daytona 200
+
+date: 2024-03-11, from: Cycle World News
+
+What does it take to win the Daytona 200? Much more than outright speed. Josh Herrin gets his third with a prepared team.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-racing/josh-herrin-and-warhorse-hsbk-ducati-win-2024-daytona-200/">https://www.cycleworld.com/motorcycle-racing/josh-herrin-and-warhorse-hsbk-ducati-win-2024-daytona-200/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-racing/josh-herrin-and-warhorse-hsbk-ducati-win-2024-daytona-200/">Save to Pocket</a>
+</span>
+
+---
+
+## Zero’s “Vehicle Control System” Is The Electric Clutch We’ve Been Waiting For
+
+date: 2024-03-11, from: Ride Apart, Electric Motorcycle News
+
+One simply can’t deny the additional grace and finesse provided by a clutch. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711454/zero-simulated-clutch-system-patented/">https://www.rideapart.com/news/711454/zero-simulated-clutch-system-patented/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711454/zero-simulated-clutch-system-patented/">Save to Pocket</a>
+</span>
+
+---
+
+## Gaige Herrera Repeats Season-Opening Win at NHRA Gatornationals
+
+date: 2024-03-11, from: Cycle World News
+
+Reigning NHRA Pro Stock Motorcycle World Champion Gaige Herrera opened the defense of his 2023 crown Sunday with a dominant win aboard his RevZilla/Mission/Vance & Hines Suzuki Gen 3 Hayabusa.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/gaige-herrera-repeats-season-opening-win-at-nhra-gatornationals/">https://www.cycleworld.com/the-wire/gaige-herrera-repeats-season-opening-win-at-nhra-gatornationals/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/gaige-herrera-repeats-season-opening-win-at-nhra-gatornationals/">Save to Pocket</a>
+</span>
+
+---
+
+## Gus Rodio Rides Aprilia RS 660 to Victory in MotoAmerica Twins Cup Season Opener at Daytona
+
+date: 2024-03-11, from: Cycle World News
+
+Aprilia rider Gus Rodio’s campaign to clinch the  MotoAmerica Twins Cup title he narrowly missed out on in 2023.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/gus-rodio-aprilia-rs-660-victory-motoamerica-twins-cup-season-opener-at-daytona/">https://www.cycleworld.com/the-wire/gus-rodio-aprilia-rs-660-victory-motoamerica-twins-cup-season-opener-at-daytona/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/gus-rodio-aprilia-rs-660-victory-motoamerica-twins-cup-season-opener-at-daytona/">Save to Pocket</a>
+</span>
+
+---
+
+## Harley-Davidson Factory Rider Kyle Wyman Snags Double Daytona Victories to Open 2024 King of the Baggers Race Season
+
+date: 2024-03-11, from: Cycle World News
+
+Harley-Davidson Factory Racing rider Kyle Wyman scored a Daytona double by winning the first two MotoAmerica Mission King of the Baggers races of the 2024 season at Daytona International Speedway.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/harley-davidson-factory-rider-kyle-wyman-snags-double-daytona-victories-2024-king-of-the-baggers-race-season/">https://www.cycleworld.com/the-wire/harley-davidson-factory-rider-kyle-wyman-snags-double-daytona-victories-2024-king-of-the-baggers-race-season/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/harley-davidson-factory-rider-kyle-wyman-snags-double-daytona-victories-2024-king-of-the-baggers-race-season/">Save to Pocket</a>
+</span>
 
 ---
 
