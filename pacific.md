@@ -1,11 +1,943 @@
 ---
 title: pacific 2024.11
-updated: 2024-03-12 08:59:04
+updated: 2024-03-13 09:19:28
 ---
 
 # pacific 2024.11
 
-(date: 2024-03-12 08:59:04)
+(date: 2024-03-13 09:19:28)
+
+---
+
+## Red flags at 4 Saipan sites
+
+date: 2024-03-13, updated: 2024-03-13, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s east and south recreational beaches as well as west coast recreational beaches and storm drainages every week.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/red-flags-at-4-saipan-sites/article_c3e1f12e-e131-11ee-b623-b314d3584f3b.html">https://www.mvariety.com/news/local/red-flags-at-4-saipan-sites/article_c3e1f12e-e131-11ee-b623-b314d3584f3b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/red-flags-at-4-saipan-sites/article_c3e1f12e-e131-11ee-b623-b314d3584f3b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Visitor arrivals up 56% in February, but 39% lower compared to pre-pandemic levels
+
+date: 2024-03-13, updated: 2024-03-13, from: Marianas Variety
+
+(Marianas Visitors Authority) — Arrivals to Saipan, Tinian and Rota grew 56% to 23,207 visitors in February 2024, compared to 14,863 visitors received in February 2023.  But monthly arrivals were 39% lower compared to pre-pandemic levels of February 2019, when arrivals reached 38,049 visitors.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/visitor-arrivals-up-56-in-february-but-39-lower-compared-to-pre-pandemic-levels/article_4d8c164a-e135-11ee-8be3-4ff0672676e7.html">https://www.mvariety.com/news/local/visitor-arrivals-up-56-in-february-but-39-lower-compared-to-pre-pandemic-levels/article_4d8c164a-e135-11ee-8be3-4ff0672676e7.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/visitor-arrivals-up-56-in-february-but-39-lower-compared-to-pre-pandemic-levels/article_4d8c164a-e135-11ee-8be3-4ff0672676e7.html">Save to Pocket</a>
+</span>
+
+---
+
+## CSC, DPS want police sergeant’s administrative appeal dismissed
+
+date: 2024-03-13, updated: 2024-03-13, from: Marianas Variety
+
+THE Civil Service Commission and the Department of Public Safety have asked the Superior Court to deny and dismiss Police Sgt. Peter Raymond Camacho’s administrative appeal.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/csc-dps-want-police-sergeant-s-administrative-appeal-dismissed/article_c0fbdbb0-e135-11ee-81ae-d7733d4800f1.html">https://www.mvariety.com/news/local/csc-dps-want-police-sergeant-s-administrative-appeal-dismissed/article_c0fbdbb0-e135-11ee-81ae-d7733d4800f1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/csc-dps-want-police-sergeant-s-administrative-appeal-dismissed/article_c0fbdbb0-e135-11ee-81ae-d7733d4800f1.html">Save to Pocket</a>
+</span>
+
+---
+
+## House rejects Senate version of MPLT loan bill
+
+date: 2024-03-13, updated: 2024-03-13, from: Marianas Variety
+
+BY a vote of 15 to 4, the House of Representatives on Wednesday rejected the Senate version of House Bill 23-95, which would reduce to $13 million from $15 million the government’s line-of-credit with the Marianas Public Land Trust.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/house-rejects-senate-version-of-mplt-loan-bill/article_2460df34-e136-11ee-aaeb-cf439b024b1a.html">https://www.mvariety.com/news/local/house-rejects-senate-version-of-mplt-loan-bill/article_2460df34-e136-11ee-aaeb-cf439b024b1a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/house-rejects-senate-version-of-mplt-loan-bill/article_2460df34-e136-11ee-aaeb-cf439b024b1a.html">Save to Pocket</a>
+</span>
+
+---
+
+## Man charged in child pornography case
+
+date: 2024-03-13, updated: 2024-03-13, from: Marianas Variety
+
+FOLLOWING a request from Assistant U.S. Attorney Eric O’Malley, Chief Judge Ramona V. Manglona of the District Court for the NMI unsealed the indictment against David Matthew Frahm, 46.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/man-charged-in-child-pornography-case/article_9c4d1a28-e134-11ee-b008-4ba185ddda0d.html">https://www.mvariety.com/news/local/man-charged-in-child-pornography-case/article_9c4d1a28-e134-11ee-b008-4ba185ddda0d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/man-charged-in-child-pornography-case/article_9c4d1a28-e134-11ee-b008-4ba185ddda0d.html">Save to Pocket</a>
+</span>
+
+---
+
+## Amata highlights passage of appropriations bill
+
+date: 2024-03-13, updated: 2024-03-13, from: Marianas Variety
+
+WASHINGTON, D.C. (Office of the American Samoa Congressional Delegate) — U.S. Congresswoman Uifa’atali Amata is highlighting bipartisan passage of an appropriations package of legislation, the Consolidated Appropriations Act, 2024, that funds several major departments of the U.S. government for the year, including the Interior Department which encompasses the Office of Insular Affairs. The legislation passed 339-85.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/regional_world/amata-highlights-passage-of-appropriations-bill/article_f90a027e-e136-11ee-9755-93fd5b631eaf.html">https://www.mvariety.com/news/regional_world/amata-highlights-passage-of-appropriations-bill/article_f90a027e-e136-11ee-9755-93fd5b631eaf.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/regional_world/amata-highlights-passage-of-appropriations-bill/article_f90a027e-e136-11ee-9755-93fd5b631eaf.html">Save to Pocket</a>
+</span>
+
+---
+
+## Micronesia drought leaves thousands desperate for food: UNICEF
+
+date: 2024-03-13, updated: 2024-03-13, from: Marianas Variety
+
+PONPHEI (RNZ Pacific/Pacnews) — Thousands of people are being impacted by drought in the Federated States of Micronesia.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/regional_world/micronesia-drought-leaves-thousands-desperate-for-food-unicef/article_59badc60-e137-11ee-bbbd-dbc5e163eba4.html">https://www.mvariety.com/news/regional_world/micronesia-drought-leaves-thousands-desperate-for-food-unicef/article_59badc60-e137-11ee-bbbd-dbc5e163eba4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/regional_world/micronesia-drought-leaves-thousands-desperate-for-food-unicef/article_59badc60-e137-11ee-bbbd-dbc5e163eba4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Biden proposes $119.1 million for territories and freely associated states
+
+date: 2024-03-13, updated: 2024-03-13, from: Marianas Variety
+
+WASHINGTON (Interior Department) —  The Biden-Harris administration  released the President’s budget for fiscal year  2025, which includes $119.1 million in current appropriations for the U.S. Department of the Interior’s Office of Insular Affairs. The proposal would fund initiatives benefitting fellow Americans in the U.S. territories of American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/local/biden-proposes-119-1-million-for-territories-and-freely-associated-states/article_927fec76-e136-11ee-b022-ab061dba06ef.html">https://www.mvariety.com/news/local/biden-proposes-119-1-million-for-territories-and-freely-associated-states/article_927fec76-e136-11ee-b022-ab061dba06ef.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/local/biden-proposes-119-1-million-for-territories-and-freely-associated-states/article_927fec76-e136-11ee-b022-ab061dba06ef.html">Save to Pocket</a>
+</span>
+
+---
+
+## NBA roundup: Wolves top Clippers after Kawhi Leonard's exit
+
+date: 2024-03-13, updated: 2024-03-13, from: Marianas Variety
+
+(Reuters) — Anthony Edwards scored 37 points, Nickeil Alexander-Walker added 28 and the visiting Minnesota Timberwolves ended a two-game skid on Tuesday by rallying for a 118-100 victory over the Los Angeles Clippers, who lost Kawhi Leonard after one quarter.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/nba-roundup-wolves-top-clippers-after-kawhi-leonards-exit/article_ac4580f2-e137-11ee-9aa3-53dd520a9873.html">https://www.mvariety.com/sports/nationalsports/nba-roundup-wolves-top-clippers-after-kawhi-leonards-exit/article_ac4580f2-e137-11ee-9aa3-53dd520a9873.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/nba-roundup-wolves-top-clippers-after-kawhi-leonards-exit/article_ac4580f2-e137-11ee-9aa3-53dd520a9873.html">Save to Pocket</a>
+</span>
+
+---
+
+## Derrick Henry heading to Ravens is another sign that running backs are valued — at the right price
+
+date: 2024-03-13, updated: 2024-03-13, from: Marianas Variety
+
+(AP) — Backfields are going to look a whole lot different in the NFL next season after a run on free agent quarterbacks and running backs during the league’s two-day legal tampering period.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/sports/nationalsports/derrick-henry-heading-to-ravens-is-another-sign-that-running-backs-are-valued-at-the/article_56f3bf9a-e139-11ee-bb77-bb151544e35d.html">https://www.mvariety.com/sports/nationalsports/derrick-henry-heading-to-ravens-is-another-sign-that-running-backs-are-valued-at-the/article_56f3bf9a-e139-11ee-bb77-bb151544e35d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/sports/nationalsports/derrick-henry-heading-to-ravens-is-another-sign-that-running-backs-are-valued-at-the/article_56f3bf9a-e139-11ee-bb77-bb151544e35d.html">Save to Pocket</a>
+</span>
+
+---
+
+## GVB signs MOU with VISA
+
+date: 2024-03-13, from: Guam Daily Post
+
+The Guam Visitors Bureau has signed a memorandum of understanding with VISA Korea and Mongolia of VISA International Asia Pacific Korea Ltd., a partnership that GVB President and CEO Carl Gutierrez said represents a great opportunity for the island.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/gvb-signs-mou-with-visa/article_7a044398-e115-11ee-bd96-37a2d84d6b74.html">https://www.postguam.com/news/gvb-signs-mou-with-visa/article_7a044398-e115-11ee-bd96-37a2d84d6b74.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/gvb-signs-mou-with-visa/article_7a044398-e115-11ee-bd96-37a2d84d6b74.html">Save to Pocket</a>
+</span>
+
+---
+
+## Never-before-seen act documented in humpback whales off Maui coast
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>When Brandi Romano and Lyle Krannichfeld scanned the crystal blue waters off the Hawaii coast and two humpback whales came into view, they killed the engine of their boat, retrieved their cameras and started snapping away.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/never-before-seen-act-documented-in-humpback-whales-off-hawaii-coast/">https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/never-before-seen-act-documented-in-humpback-whales-off-hawaii-coast/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/never-before-seen-act-documented-in-humpback-whales-off-hawaii-coast/">Save to Pocket</a>
+</span>
+
+---
+
+## Richardson’s gets a face-lift: Park improvements, renovated ocean center unveiled
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>Richardson Ocean Park and Center is open and fully accessible to the public after 19 months of construction.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/richardsons-gets-a-face-lift-park-improvements-renovated-ocean-center-unveiled/">https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/richardsons-gets-a-face-lift-park-improvements-renovated-ocean-center-unveiled/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/richardsons-gets-a-face-lift-park-improvements-renovated-ocean-center-unveiled/">Save to Pocket</a>
+</span>
+
+---
+
+## Assessment details plans for old Hilo hospital renovations
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>A plan to renovate the old Hilo Memorial Hospital continues apace after a draft environmental assessment for the project was published last week.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/assessment-details-plans-for-old-hilo-hospital-renovations/">https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/assessment-details-plans-for-old-hilo-hospital-renovations/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/assessment-details-plans-for-old-hilo-hospital-renovations/">Save to Pocket</a>
+</span>
+
+---
+
+## Minor traffic accident closes Wailuku Street Bridge for several hours
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>The Wailuku Street Bridge in Hilo was closed for several hours Tuesday after a minor traffic accident required an assessment of the bridge&#8217;s structural integrity.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/minor-traffic-accident-closes-wailuku-street-bridge-for-several-hours/">https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/minor-traffic-accident-closes-wailuku-street-bridge-for-several-hours/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/minor-traffic-accident-closes-wailuku-street-bridge-for-several-hours/">Save to Pocket</a>
+</span>
+
+---
+
+## Waikoloa Village closer to getting a roundabout
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>A new traffic roundabout in Waikoloa Village is one step closer to becoming a reality after Friday&#8217;s release of a draft environmental assessment with an anticipated finding of no significant impact.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/waikoloa-village-closer-to-getting-a-roundabout/">https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/waikoloa-village-closer-to-getting-a-roundabout/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/waikoloa-village-closer-to-getting-a-roundabout/">Save to Pocket</a>
+</span>
+
+---
+
+## Donald Trump and Joe Biden clinch their party nominations
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>President Joe Biden and former President Donald Trump on Tuesday secured the delegates necessary to clinch their parties&#8217; presidential nominations, according to The Associated Press, cementing a general election rematch in November months in the making.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/donald-trump-and-joe-biden-clinch-their-party-nominations/">https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/donald-trump-and-joe-biden-clinch-their-party-nominations/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/donald-trump-and-joe-biden-clinch-their-party-nominations/">Save to Pocket</a>
+</span>
+
+---
+
+## Round-up: UH-Hilo sports
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p><strong>SOFTBALL</strong></p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/sports/round-up-uh-hilo-sports/">https://www.hawaiitribune-herald.com/2024/03/13/sports/round-up-uh-hilo-sports/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/sports/round-up-uh-hilo-sports/">Save to Pocket</a>
+</span>
+
+---
+
+## Pahoa splits with Kealakehe
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>Early season BIIF baseball and softball continued to unfold last weekend and this week, as Pahoa High and Kealakehe high clashed on Tuesday in Hilo and Hilo High&#8217;s teams took a trip to Pahala on Saturday.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/sports/pahoa-splits-with-kealakehe/">https://www.hawaiitribune-herald.com/2024/03/13/sports/pahoa-splits-with-kealakehe/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/sports/pahoa-splits-with-kealakehe/">Save to Pocket</a>
+</span>
+
+---
+
+## Commanders agree to sign quarterback Marcus Mariota to a 1-year deal, AP source says
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Marcus Mariota is going to the Washington Commanders. Could Jayden Daniels or Drake Maye be next? </p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/sports/commanders-agree-to-sign-quarterback-marcus-mariota-to-a-1-year-deal-ap-source-says/">https://www.hawaiitribune-herald.com/2024/03/13/sports/commanders-agree-to-sign-quarterback-marcus-mariota-to-a-1-year-deal-ap-source-says/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/sports/commanders-agree-to-sign-quarterback-marcus-mariota-to-a-1-year-deal-ap-source-says/">Save to Pocket</a>
+</span>
+
+---
+
+## Anthony Edwards leads big comeback, Kawhi Leonard injured in Timberwolves’ 118-100 win over Clippers
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Anthony Edwards scored 37 points, Nickeil Alexander-Walker added a season-high 28 and the Minnesota Timberwolves roared back from an early 22-point deficit for a 118-100 victory over the Los Angeles Clippers on Tuesday night. </p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/sports/anthony-edwards-leads-big-comeback-kawhi-leonard-injured-in-timberwolves-118-100-win-over-clippers/">https://www.hawaiitribune-herald.com/2024/03/13/sports/anthony-edwards-leads-big-comeback-kawhi-leonard-injured-in-timberwolves-118-100-win-over-clippers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/sports/anthony-edwards-leads-big-comeback-kawhi-leonard-injured-in-timberwolves-118-100-win-over-clippers/">Save to Pocket</a>
+</span>
+
+---
+
+## Man arrested for allegedly stealing Tribune-Herald van
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>A 23-year-old Hilo man has been arrested and charged for allegedly stealing a van early Saturday from the Hawaii Tribune-Herald&#8217;s production facility in downtown Hilo.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/man-arrested-for-allegedly-stealing-tribune-herald-van/">https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/man-arrested-for-allegedly-stealing-tribune-herald-van/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/man-arrested-for-allegedly-stealing-tribune-herald-van/">Save to Pocket</a>
+</span>
+
+---
+
+## UH men’s volleyball ascends to No. 1; Chakas’ status unknown
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>After winning the Outrigger Invitational with three wins over Top 15 opponents in four days, the Hawaii men&#8217;s volleyball team earned the No. 1 ranking in the AVCA /NVA National Collegiate Men&#8217;s Volleyball Poll released Monday.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/sports/uh-mens-volleyball-ascends-to-no-1-chakas-status-unknown/">https://www.hawaiitribune-herald.com/2024/03/13/sports/uh-mens-volleyball-ascends-to-no-1-chakas-status-unknown/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/sports/uh-mens-volleyball-ascends-to-no-1-chakas-status-unknown/">Save to Pocket</a>
+</span>
+
+---
+
+## Biden speech failed the moment
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>Joe Biden still has a pulse. And he proved in his State of the Union address he still can stand and rage for an hour without forgetting where he is or keeling over.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/opinion/biden-speech-failed-the-moment/">https://www.hawaiitribune-herald.com/2024/03/13/opinion/biden-speech-failed-the-moment/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/opinion/biden-speech-failed-the-moment/">Save to Pocket</a>
+</span>
+
+---
+
+## Trending news in brief, 3/13: Boeing whistleblower dead of apparent self-inflicted gunshot
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>Boeing whistleblower dead of apparent self-inflicted gunshot</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/trending-news-in-brief-3-13-boeing-whistleblower-dead-of-apparent-self-inflicted-gunshot/">https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/trending-news-in-brief-3-13-boeing-whistleblower-dead-of-apparent-self-inflicted-gunshot/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/trending-news-in-brief-3-13-boeing-whistleblower-dead-of-apparent-self-inflicted-gunshot/">Save to Pocket</a>
+</span>
+
+---
+
+## Director Roman Polanski is sued over more allegations of sexual assault of a minor
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; A woman has sued director Roman Polanski, alleging he raped her in his home when she was a minor in 1973.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/director-roman-polanski-is-sued-over-more-allegations-of-sexual-assault-of-a-minor/">https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/director-roman-polanski-is-sued-over-more-allegations-of-sexual-assault-of-a-minor/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/director-roman-polanski-is-sued-over-more-allegations-of-sexual-assault-of-a-minor/">Save to Pocket</a>
+</span>
+
+---
+
+## Your Views for March 13
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>Reach agreement&#0010;regarding Punalu&#8216;u</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/opinion/your-views-for-march-13-8/">https://www.hawaiitribune-herald.com/2024/03/13/opinion/your-views-for-march-13-8/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/opinion/your-views-for-march-13-8/">Save to Pocket</a>
+</span>
+
+---
+
+## How to correct online misinformation
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>Deepfakes of celebrities and misinformation about public figures might not be new in 2024, but they are more common and many people seem to grow ever more resigned that they are inevitable.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/opinion/how-to-correct-online-misinformation/">https://www.hawaiitribune-herald.com/2024/03/13/opinion/how-to-correct-online-misinformation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/opinion/how-to-correct-online-misinformation/">Save to Pocket</a>
+</span>
+
+---
+
+## New fellowship helps UH-Hilo student achieve his goals
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>A new fellowship is giving more opportunities for graduate students at the University of Hawaii at Hilo&#8217;s Ka Haka &#8216;Ula o Ke&#8216;elikolani, College of Hawaiian Language, as they pursue education in &#8216;olelo Hawaii.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/community/new-fellowship-helps-uh-hilo-student-achieve-his-goals/">https://www.hawaiitribune-herald.com/2024/03/13/community/new-fellowship-helps-uh-hilo-student-achieve-his-goals/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/community/new-fellowship-helps-uh-hilo-student-achieve-his-goals/">Save to Pocket</a>
+</span>
+
+---
+
+## County dispatcher honored for life-saving actions
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>Mayor Mitch Roth honored Allison Ford on Monday for her swift action in early January that led to the resuscitation and recovery of Winnie Mochida of Honoka&#8216;a.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/community/county-dispatcher-honored-for-life-saving-actions/">https://www.hawaiitribune-herald.com/2024/03/13/community/county-dispatcher-honored-for-life-saving-actions/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/community/county-dispatcher-honored-for-life-saving-actions/">Save to Pocket</a>
+</span>
+
+---
+
+## Haiti is preparing itself for new leadership. Gangs want a seat at the table
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>PORT-AU-PRINCE, Haiti &#8212; Politicians across Haiti are scrambling for power after Prime Minister Ariel Henry announced Tuesday that he would resign once a transitional presidential council is created.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/haiti-is-preparing-itself-for-new-leadership-gangs-want-a-seat-at-the-table/">https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/haiti-is-preparing-itself-for-new-leadership-gangs-want-a-seat-at-the-table/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/haiti-is-preparing-itself-for-new-leadership-gangs-want-a-seat-at-the-table/">Save to Pocket</a>
+</span>
+
+---
+
+## Disney seeks major expansion of California theme park to add more immersive attractions
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>Walking through the frosty, snow-covered hamlet of Arendelle from &#8220;Frozen,&#8221; or the bustling, critter-filled metropolis of &#8220;Zootopia&#8221; might be possible one day for visitors to Disney&#8217;s California theme parks.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/disney-seeks-major-expansion-of-california-theme-park-to-add-more-immersive-attractions/">https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/disney-seeks-major-expansion-of-california-theme-park-to-add-more-immersive-attractions/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/disney-seeks-major-expansion-of-california-theme-park-to-add-more-immersive-attractions/">Save to Pocket</a>
+</span>
+
+---
+
+## Trial date postponed for ex-elected official accused of killing Las Vegas journalist
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>LAS VEGAS (AP) &#8212; A former Las Vegas-area elected official accused of killing an investigative reporter who wrote articles critical of him will not go on trial next week.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/trial-date-postponed-for-ex-elected-official-accused-of-killing-las-vegas-journalist/">https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/trial-date-postponed-for-ex-elected-official-accused-of-killing-las-vegas-journalist/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/trial-date-postponed-for-ex-elected-official-accused-of-killing-las-vegas-journalist/">Save to Pocket</a>
+</span>
+
+---
+
+## Have ‘Coffee with a Cop’ in Waimea this Friday
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Police Department&#8217;s South Kohala Community Policing Section invites the public to join officers for &#8220;Coffee with a Cop&#8221; from 7 a.m. to 10 a.m., Friday at McDonald&#8217;s in Waimea, located in the Waimea Center at 67-1154 Mamalahoa Highway.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/community/have-coffee-with-a-cop-in-waimea-this-friday/">https://www.hawaiitribune-herald.com/2024/03/13/community/have-coffee-with-a-cop-in-waimea-this-friday/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/community/have-coffee-with-a-cop-in-waimea-this-friday/">Save to Pocket</a>
+</span>
+
+---
+
+## Glenwood Transfer Station to be closed for about 7 weeks
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>Glenwood Transfer Station will be closed for about seven weeks starting Monday, March 25, for construction activities.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/community/glenwood-transfer-station-to-be-closed-for-about-7-weeks/">https://www.hawaiitribune-herald.com/2024/03/13/community/glenwood-transfer-station-to-be-closed-for-about-7-weeks/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/community/glenwood-transfer-station-to-be-closed-for-about-7-weeks/">Save to Pocket</a>
+</span>
+
+---
+
+## Public meeting will be held regarding Lanikaula roadwork
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Department of Public Works will hold an informational community meeting on Tuesday, March 19, from 5 p.m. to 6:30 p.m. at the Aupuni Conference Center, 101 Pauahi Street in Hilo, to discuss the Lanikaula Street Rehabilitation Project.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/community/public-meeting-will-be-held-regarding-lanikaula-roadwork/">https://www.hawaiitribune-herald.com/2024/03/13/community/public-meeting-will-be-held-regarding-lanikaula-roadwork/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/community/public-meeting-will-be-held-regarding-lanikaula-roadwork/">Save to Pocket</a>
+</span>
+
+---
+
+## Patrick Queen leaving Baltimore for rival Pittsburgh on 3-year deal, AP sources say
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>PITTSBURGH &#8212; The Pittsburgh Steelers have found a running mate for outside linebackers T.J. Watt and Alex Highsmith. </p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/sports/patrick-queen-leaving-baltimore-for-rival-pittsburgh-on-3-year-deal-ap-sources-say/">https://www.hawaiitribune-herald.com/2024/03/13/sports/patrick-queen-leaving-baltimore-for-rival-pittsburgh-on-3-year-deal-ap-sources-say/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/sports/patrick-queen-leaving-baltimore-for-rival-pittsburgh-on-3-year-deal-ap-sources-say/">Save to Pocket</a>
+</span>
+
+---
+
+## Bubble teams watch mid-major women’s tournaments, hoping against upsets and potential loss of bids
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>With most of the major conference tournaments finished, there are some anxious teams waiting to see if their names will be called for the NCAA Tournament on Sunday when the field is announced. </p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/sports/bubble-teams-watch-mid-major-womens-tournaments-hoping-against-upsets-and-potential-loss-of-bids/">https://www.hawaiitribune-herald.com/2024/03/13/sports/bubble-teams-watch-mid-major-womens-tournaments-hoping-against-upsets-and-potential-loss-of-bids/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/sports/bubble-teams-watch-mid-major-womens-tournaments-hoping-against-upsets-and-potential-loss-of-bids/">Save to Pocket</a>
+</span>
+
+---
+
+## Obituaries for March 13
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>Geraldine &#8220;Gerry&#8221; Itsumi Arakaki, 76, of Hilo died Feb. 8 at Hilo Medical Center. Born in Lihue, Kauai, she retired as a registered nurse from Hilo Medical Center and Gastroenterology Associates. Visitation 9:30-11 a.m. Saturday, March 23, at Dodo Mortuary Chapel. Celebration of life service at 11 a.m. Casual attire; no flowers or koden (monetary gifts). Memorial donations to Hawaii Care Choices. Survived by daughters, Dr. Melanie Arakaki and Carole (Grant) Abe of Hilo; sister, Kayleen Kure of Hilo; brothers-in-law, Bryan Agena of Kailua, Oahu, and Gary (Dianna) Arakaki of the Philippines; sister-in-law, Janice (Thomas) Murakami of Honolulu; four grandchildren; nephews, nieces and cousins. Arrangements by Dodo Mortuary.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/obituaries/obituaries-for-march-13-11/">https://www.hawaiitribune-herald.com/2024/03/13/obituaries/obituaries-for-march-13-11/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/obituaries/obituaries-for-march-13-11/">Save to Pocket</a>
+</span>
+
+---
+
+## US inflation up again in February in latest sign that price pressures remain elevated
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (AP) &#8212; Consumer prices in the United States picked up last month, a sign that inflation remains a persistent challenge for the Federal Reserve and for President Joe Biden&#8217;s re-election campaign, both of which are counting on a steady easing of price pressures this year.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/us-inflation-up-again-in-february-in-latest-sign-that-price-pressures-remain-elevated/">https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/us-inflation-up-again-in-february-in-latest-sign-that-price-pressures-remain-elevated/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/us-inflation-up-again-in-february-in-latest-sign-that-price-pressures-remain-elevated/">Save to Pocket</a>
+</span>
+
+---
+
+## Special counsel Robert Hur testifies about Biden classified documents probe — and age
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>Special counsel Robert Hur Tuesday defended his probe into mishandling of classified documents by President Joe Biden &#8212; and his controversial report that highlighted the president&#8217;s age.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/special-counsel-robert-hur-testifies-about-biden-classified-documents-probe-and-age/">https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/special-counsel-robert-hur-testifies-about-biden-classified-documents-probe-and-age/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/special-counsel-robert-hur-testifies-about-biden-classified-documents-probe-and-age/">Save to Pocket</a>
+</span>
+
+---
+
+## Pentagon to give Ukraine $300 million in weapons even as it lacks funds to replenish US stockpile
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Pentagon will rush about $300 million in weapons to Ukraine after finding some cost savings in its contracts, even though the military remains deeply overdrawn and needs at least $10 billion to replenish all the weapons it has pulled from its stocks to help Kyiv in its desperate fight against Russia, the White House announced Tuesday.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/pentagon-to-give-ukraine-300-million-in-weapons-even-as-it-lacks-funds-to-replenish-us-stockpile/">https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/pentagon-to-give-ukraine-300-million-in-weapons-even-as-it-lacks-funds-to-replenish-us-stockpile/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/nation-world-news/pentagon-to-give-ukraine-300-million-in-weapons-even-as-it-lacks-funds-to-replenish-us-stockpile/">Save to Pocket</a>
+</span>
+
+---
+
+## Husband in Manoa murder-suicide mired in debt, records show
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p>The 46-year-old Manoa man who police said stabbed his wife and three kids to death Sunday morning before killing himself was laden with debt, according to state and federal records and multiple sources.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/husband-in-manoa-murder-suicide-mired-in-debt-records-show/">https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/husband-in-manoa-murder-suicide-mired-in-debt-records-show/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/hawaii-news/husband-in-manoa-murder-suicide-mired-in-debt-records-show/">Save to Pocket</a>
+</span>
+
+---
+
+## BIIF volleyball: KSH, Ka‘u still unbeaten
+
+date: 2024-03-13, from: Hawaii Tribune Harold
+
+
+				<p><strong>KA&#8216;U 3 - KOHALA 0</strong></p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/13/sports/biif-volleyball-ksh-kau-still-unbeaten/">https://www.hawaiitribune-herald.com/2024/03/13/sports/biif-volleyball-ksh-kau-still-unbeaten/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/13/sports/biif-volleyball-ksh-kau-still-unbeaten/">Save to Pocket</a>
+</span>
+
+---
+
+## AG responds to 'inaccurate information'
+
+date: 2024-03-13, from: Guam Daily Post
+
+The Office of the Attorney General has posted on its website a list of status updates for contracts and procurement reviews for the 22 agencies from which the OAG withdrew legal representation due to conflict issues regarding its investigation of…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/ag-responds-to-inaccurate-information/article_0a571424-e059-11ee-a58d-df20a070ca33.html">https://www.postguam.com/news/local/ag-responds-to-inaccurate-information/article_0a571424-e059-11ee-a58d-df20a070ca33.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/ag-responds-to-inaccurate-information/article_0a571424-e059-11ee-a58d-df20a070ca33.html">Save to Pocket</a>
+</span>
+
+---
+
+## CAHA to have new FestPac delegate callout
+
+date: 2024-03-13, from: Guam Daily Post
+
+The Guam Council on the Arts and Humanities Agency has chosen to conduct a new callout for delegates for the upcoming 2024 Festival of Pacific Arts and Culture, or FestPac, amid calls to ensure that one person is not chosen…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/caha-to-have-new-festpac-delegate-callout/article_278c6a14-e02f-11ee-8c5f-9f1055708f11.html">https://www.postguam.com/news/local/caha-to-have-new-festpac-delegate-callout/article_278c6a14-e02f-11ee-8c5f-9f1055708f11.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/caha-to-have-new-festpac-delegate-callout/article_278c6a14-e02f-11ee-8c5f-9f1055708f11.html">Save to Pocket</a>
+</span>
+
+---
+
+## Prison population passes 900 this week
+
+date: 2024-03-13, from: Guam Daily Post
+
+The population of inmates and detainees at the Department of Corrections reached 922 on Monday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/prison-population-passes-900-this-week/article_5d0bac58-e0da-11ee-b126-3b4e7fd74eae.html">https://www.postguam.com/news/local/prison-population-passes-900-this-week/article_5d0bac58-e0da-11ee-b126-3b4e7fd74eae.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/prison-population-passes-900-this-week/article_5d0bac58-e0da-11ee-b126-3b4e7fd74eae.html">Save to Pocket</a>
+</span>
+
+---
+
+## UOG, UH Manoa  partner to  build engineering workforce
+
+date: 2024-03-13, from: Guam Daily Post
+
+The University of Guam is building the pool of engineers on the island by sending students to study abroad in Hawaii, and more students are showing interest.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/uog-uh-manoa-partner-to-build-engineering-workforce/article_f7fad46a-d841-11ee-bf9e-0bf1ed33b26b.html">https://www.postguam.com/news/local/uog-uh-manoa-partner-to-build-engineering-workforce/article_f7fad46a-d841-11ee-bf9e-0bf1ed33b26b.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/uog-uh-manoa-partner-to-build-engineering-workforce/article_f7fad46a-d841-11ee-bf9e-0bf1ed33b26b.html">Save to Pocket</a>
+</span>
+
+---
+
+## Mentorship program to build  CHamoru teacher workforce
+
+date: 2024-03-13, from: Guam Daily Post
+
+In addressing the shortage of teachers, the Guam Department of Education’s Project Prugråman Tiningo' - Mapoksai is developing the workforce through a high school mentorship program focused on becoming a CHamoru teacher.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/mentorship-program-to-build-chamoru-teacher-workforce/article_ac339e34-d77b-11ee-9a1d-5fd6b9e13ed0.html">https://www.postguam.com/news/local/mentorship-program-to-build-chamoru-teacher-workforce/article_ac339e34-d77b-11ee-9a1d-5fd6b9e13ed0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/mentorship-program-to-build-chamoru-teacher-workforce/article_ac339e34-d77b-11ee-9a1d-5fd6b9e13ed0.html">Save to Pocket</a>
+</span>
+
+---
+
+## Man allegedly steals bus, leads police chase
+
+date: 2024-03-13, from: Guam Daily Post
+
+A man was arrested on suspicion of stealing a bus and leading officers with the Guam Police Department on a chase through Yigo.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/man-allegedly-steals-bus-leads-police-chase/article_67f88ab0-e0e3-11ee-8e4b-0b4f62098850.html">https://www.postguam.com/news/local/man-allegedly-steals-bus-leads-police-chase/article_67f88ab0-e0e3-11ee-8e4b-0b4f62098850.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/man-allegedly-steals-bus-leads-police-chase/article_67f88ab0-e0e3-11ee-8e4b-0b4f62098850.html">Save to Pocket</a>
+</span>
+
+---
+
+## 'Sir, I may have a baggie on me,' 2023 car theft suspect tells GPD
+
+date: 2024-03-13, from: Guam Daily Post
+
+A man reported to the Guam Police Department for stealing a car a year ago was charged this week with possessing methamphetamine.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/sir-i-may-have-a-baggie-on-me-2023-car-theft-suspect-tells-gpd/article_01b69ab2-e0ed-11ee-aacd-fb095012fa9e.html">https://www.postguam.com/news/local/sir-i-may-have-a-baggie-on-me-2023-car-theft-suspect-tells-gpd/article_01b69ab2-e0ed-11ee-aacd-fb095012fa9e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/sir-i-may-have-a-baggie-on-me-2023-car-theft-suspect-tells-gpd/article_01b69ab2-e0ed-11ee-aacd-fb095012fa9e.html">Save to Pocket</a>
+</span>
+
+---
+
+## Farm to school adventure
+
+date: 2024-03-13, from: Guam Daily Post
+
+
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/island_life/farm-to-school-adventure/article_bccff2dc-e0be-11ee-b35e-bfbeda7c5b3c.html">https://www.postguam.com/island_life/farm-to-school-adventure/article_bccff2dc-e0be-11ee-b35e-bfbeda7c5b3c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/island_life/farm-to-school-adventure/article_bccff2dc-e0be-11ee-b35e-bfbeda7c5b3c.html">Save to Pocket</a>
+</span>
+
+---
+
+## GPA: Military helping to relieve  load shedding, largest customer
+
+date: 2024-03-13, from: Guam Daily Post
+
+Attorney General Douglas Moylan, in a letter sent to senators on March 4, stated that his office had received complaints alleging that the Guam Power Authority has prioritized providing consistent power to military bases over the local population, “which has…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/gpa-military-helping-to-relieve-load-shedding-largest-customer/article_804ea4f6-e04c-11ee-ba52-dbc500901648.html">https://www.postguam.com/news/local/gpa-military-helping-to-relieve-load-shedding-largest-customer/article_804ea4f6-e04c-11ee-ba52-dbc500901648.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/gpa-military-helping-to-relieve-load-shedding-largest-customer/article_804ea4f6-e04c-11ee-ba52-dbc500901648.html">Save to Pocket</a>
+</span>
+
+---
+
+## Ex-convict pleads guilty to  mailing meth found in candy
+
+date: 2024-03-13, from: Guam Daily Post
+
+A man who served about 20 years in federal prison for dealing drugs in 1995 pleaded guilty to charges related to mailing meth in 2021.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/ex-convict-pleads-guilty-to-mailing-meth-found-in-candy/article_fd94c2cc-e017-11ee-ba81-fb47dd4d5d7a.html">https://www.postguam.com/news/local/ex-convict-pleads-guilty-to-mailing-meth-found-in-candy/article_fd94c2cc-e017-11ee-ba81-fb47dd4d5d7a.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/ex-convict-pleads-guilty-to-mailing-meth-found-in-candy/article_fd94c2cc-e017-11ee-ba81-fb47dd4d5d7a.html">Save to Pocket</a>
+</span>
+
+---
+
+## Suspect, 19, told police he  stole car to pick up friends
+
+date: 2024-03-13, from: Guam Daily Post
+
+A man allegedly stole a car to “check out his friends” and changed the license plate to avoid getting caught.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/suspect-19-told-police-he-stole-car-to-pick-up-friends/article_6c70a040-e0f3-11ee-bb19-8f7ed784300e.html">https://www.postguam.com/news/local/suspect-19-told-police-he-stole-car-to-pick-up-friends/article_6c70a040-e0f3-11ee-bb19-8f7ed784300e.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/suspect-19-told-police-he-stole-car-to-pick-up-friends/article_6c70a040-e0f3-11ee-bb19-8f7ed784300e.html">Save to Pocket</a>
+</span>
+
+---
+
+## DOI says restoration of federal benefits for freely associated states migrants eases burden on host territories 
+
+date: 2024-03-13, from: Pacific Island Times
+
+By Mar-Vic Cagurangan The U.S. government has officially restored the federal benefits for migrants from the freely associated states...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/doi-says-cifa-eases-the-burden-on-territories-hosting-fas-migrants">https://www.pacificislandtimes.com/post/doi-says-cifa-eases-the-burden-on-territories-hosting-fas-migrants</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/doi-says-cifa-eases-the-burden-on-territories-hosting-fas-migrants">Save to Pocket</a>
+</span>
+
+---
+
+## Hawaiian Word of the Week: Walaʻau
+
+date: 2024-03-13, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> <span aria-label="Walaau">Wala&#699;au</span>&#8212;To talk, speak, converse.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/12/hawaiian-word-of-the-week-walaau/">Hawaiian Word of the Week: Walaʻau</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/12/hawaiian-word-of-the-week-walaau/">https://www.hawaii.edu/news/2024/03/12/hawaiian-word-of-the-week-walaau/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/12/hawaiian-word-of-the-week-walaau/">Save to Pocket</a>
+</span>
+
+---
+
+## In defense of Project Soterra: Period Poverty is real
+
+date: 2024-03-13, from: Pacific Island Times
+
+The March 2024 issue of the Pacific Island Times has long-time journalist Mar-Vic Cagurangan railing against the government’s purchase of...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/period-poverty-battles-ignorance">https://www.pacificislandtimes.com/post/period-poverty-battles-ignorance</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/period-poverty-battles-ignorance">Save to Pocket</a>
+</span>
+
+---
+
+## UH West Oʻahu leader selected as Historically Black Colleges and Universities fellow
+
+date: 2024-03-13, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> Camonia Graham-Tutt joins an assembly poised to emerge as the next generation of <abbr>HBCU</abbr> leaders.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/12/uh-west-oahu-leader-hbcu-fellow/"><abbr>UH</abbr> West Oʻahu leader selected as Historically Black Colleges and Universities fellow</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/12/uh-west-oahu-leader-hbcu-fellow/">https://www.hawaii.edu/news/2024/03/12/uh-west-oahu-leader-hbcu-fellow/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/12/uh-west-oahu-leader-hbcu-fellow/">Save to Pocket</a>
+</span>
+
+---
+
+## Men’s volleyball blocker, setter receive weekly Big West Award
+
+date: 2024-03-13, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Kurt Nusterer and Tread Rosenthal help lead the Rainbow Warriors to an Outrigger Invitational championship.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/12/blocker-setter-big-west-award/">Men’s volleyball blocker, setter receive weekly Big West Award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/12/blocker-setter-big-west-award/">https://www.hawaii.edu/news/2024/03/12/blocker-setter-big-west-award/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/12/blocker-setter-big-west-award/">Save to Pocket</a>
+</span>
+
+---
+
+## Softball senior awarded Big West Field Player of the Week
+
+date: 2024-03-13, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Maya Nakamura hit .444 and led the team with seven runs.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/12/softball-big-west-field-player/">Softball senior awarded Big West Field Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/12/softball-big-west-field-player/">https://www.hawaii.edu/news/2024/03/12/softball-big-west-field-player/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/12/softball-big-west-field-player/">Save to Pocket</a>
+</span>
+
+---
+
+## Beach volleyball duo earns Big West Pairs Team of the Week
+
+date: 2024-03-13, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> Alana Santer and Jaime Embry played 6-0 at the Heineken Queen’s Cup.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/12/beach-volleyball-big-west/">Beach volleyball duo earns Big West Pairs Team of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/12/beach-volleyball-big-west/">https://www.hawaii.edu/news/2024/03/12/beach-volleyball-big-west/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/12/beach-volleyball-big-west/">Save to Pocket</a>
+</span>
+
+---
+
+## Alumnus returns to lead UH’s innovation and commercialization efforts
+
+date: 2024-03-13, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> In his new role, Deane will be responsible for the management of intellectual property and <abbr>UH</abbr>-developed technology assets.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/12/jim-deane-oic-director/">Alumnus returns to lead <abbr>UH</abbr>’s innovation and commercialization efforts</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/12/jim-deane-oic-director/">https://www.hawaii.edu/news/2024/03/12/jim-deane-oic-director/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/12/jim-deane-oic-director/">Save to Pocket</a>
+</span>
+
+---
+
+## MDA requesting $1.2B for Guam defense 
+
+date: 2024-03-13, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Missile Defense Agency is requesting $1.2 billion for the Guam defense system, which is the...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/mda-requesting-1-2b-for-guam-defense">https://www.pacificislandtimes.com/post/mda-requesting-1-2b-for-guam-defense</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/mda-requesting-1-2b-for-guam-defense">Save to Pocket</a>
+</span>
+
+---
+
+## ʻImiloa: Journey through Kaulana Mahina, Hawaiian moon phases
+
+date: 2024-03-13, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> The exhibit will teach visitors the sequences and names of the 30 Hawaiian moon phases.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/12/kaulana-mahina/">ʻImiloa: Journey through Kaulana Mahina, Hawaiian moon phases</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/12/kaulana-mahina/">https://www.hawaii.edu/news/2024/03/12/kaulana-mahina/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/12/kaulana-mahina/">Save to Pocket</a>
+</span>
+
+---
+
+## Vanuatu Youths converge to unpack the Youth Vision
+
+date: 2024-03-13, from: University of the South Pacific (Fiji)
+
+<p>(Port Villa, Vanuatu, 29 February) – The Pacific Youth Movement, led by The University of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/vanuatu-youths-converge-to-unpack-the-youth-vision/">Vanuatu Youths converge to unpack the Youth Vision</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/vanuatu-youths-converge-to-unpack-the-youth-vision/">https://www.usp.ac.fj/news/vanuatu-youths-converge-to-unpack-the-youth-vision/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/vanuatu-youths-converge-to-unpack-the-youth-vision/">Save to Pocket</a>
+</span>
+
+---
+
+## Milestone achievement for USP Lautoka Campus MBA students
+
+date: 2024-03-13, from: University of the South Pacific (Fiji)
+
+<p>A group of Master of Business Administration (MBA) students from The University of the South...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/milestone-achievement-for-usp-lautoka-campus-mba-students/">Milestone achievement for USP Lautoka Campus MBA students</a> appeared first on <a href="https://www.usp.ac.fj">University of the South Pacific</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.usp.ac.fj/news/milestone-achievement-for-usp-lautoka-campus-mba-students/">https://www.usp.ac.fj/news/milestone-achievement-for-usp-lautoka-campus-mba-students/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.usp.ac.fj/news/milestone-achievement-for-usp-lautoka-campus-mba-students/">Save to Pocket</a>
+</span>
+
+---
+
+## New renderings preview UH Cancer Center’s clinical trials research hub
+
+date: 2024-03-12, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> New renderings of the first floor and images of the pharmacy lab on the second floor were recently released.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/12/clinical-trials-center-renderings/">New renderings preview <abbr>UH</abbr> Cancer Center’s clinical trials research hub</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/12/clinical-trials-center-renderings/">https://www.hawaii.edu/news/2024/03/12/clinical-trials-center-renderings/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/12/clinical-trials-center-renderings/">Save to Pocket</a>
+</span>
+
+---
+
+## 3 Rainbow Warriors earn all-conference honors ahead of Big West tourney
+
+date: 2024-03-12, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> It’s the second straight year that three Rainbow Warriors earned Big West accolades.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/12/mens-bball-big-west-honors/">3 Rainbow Warriors earn all-conference honors ahead of Big West tourney</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/12/mens-bball-big-west-honors/">https://www.hawaii.edu/news/2024/03/12/mens-bball-big-west-honors/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/12/mens-bball-big-west-honors/">Save to Pocket</a>
+</span>
+
+---
+
+## State of emergency declared for FSM due to severe drought
+
+date: 2024-03-12, from: Pacific Island Times
+
+By Pacific Island Times News Staff Federated States of Micronesia President Wesley W. Simina has declared a state of emergency in...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/state-of-emergency-declared-for-fsm-due-to-severe-drought">https://www.pacificislandtimes.com/post/state-of-emergency-declared-for-fsm-due-to-severe-drought</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/state-of-emergency-declared-for-fsm-due-to-severe-drought">Save to Pocket</a>
+</span>
+
+---
+
+## UH high jumper finishes 10th at NCAA Indoor Championships
+
+date: 2024-03-12, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">&#60; 1</span> <span class="rt-label rt-postfix">minute</span></span> <abbr>UH</abbr> Mānoa high jumper Lilian Turban’s 10th-place finish earned her second-team All-America status in her first appearance at the <abbr>NCAA</abbr> Indoor Championships.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/12/turban-10th-at-ncaa-indoor-championships/"><abbr>UH</abbr> high jumper finishes 10th at <abbr>NCAA</abbr> Indoor Championships</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>.
+
+<span class="feed-item-link">
+<a href="https://www.hawaii.edu/news/2024/03/12/turban-10th-at-ncaa-indoor-championships/">https://www.hawaii.edu/news/2024/03/12/turban-10th-at-ncaa-indoor-championships/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaii.edu/news/2024/03/12/turban-10th-at-ncaa-indoor-championships/">Save to Pocket</a>
+</span>
 
 ---
 

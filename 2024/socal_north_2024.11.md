@@ -1,11 +1,198 @@
 ---
 title: socal north 2024.11
-updated: 2024-03-12 08:59:03
+updated: 2024-03-13 09:19:28
 ---
 
 # socal north 2024.11
 
-(date: 2024-03-12 08:59:03)
+(date: 2024-03-13 09:19:28)
+
+---
+
+## Still Relevant: English Learners Show And Tell In The Classroom
+
+date: 2024-03-13, updated: 2024-03-13, from: The LAist
+
+Through thoughtfully chosen objects, students at Mt. San Antonio College share a longing for family and friends, challenges they’ve faced, and changes in perspective.
+
+<span class="feed-item-link">
+<a href="https://laist.com/news/education/community-college-english-learners-for-credit-esl-classes">https://laist.com/news/education/community-college-english-learners-for-credit-esl-classes</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://laist.com/news/education/community-college-english-learners-for-credit-esl-classes">Save to Pocket</a>
+</span>
+
+---
+
+## Diversity and Female Artists in the Rising Music Industry
+
+date: 2024-03-13, from: The Sundail (CSUN Student Newspaper)
+
+Festival season is upon us, and with that comes a whole new array of lineups and artists on the rise. Similar to other industries, the music industry has had a...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/179383/arts-entertainment/entertainment/diversity-and-female-artists-in-the-rising-music-industry/">https://sundial.csun.edu/179383/arts-entertainment/entertainment/diversity-and-female-artists-in-the-rising-music-industry/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/179383/arts-entertainment/entertainment/diversity-and-female-artists-in-the-rising-music-industry/">Save to Pocket</a>
+</span>
+
+---
+
+## Participants of UCLA’s Hack on the Hill hackathon code projects on a time crunch
+
+date: 2024-03-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Tick, tock.
+A vigorously typing student scrambled to put the finishing touches on their code.
+Tick, tock.
+Another student rushed to the judges&#8217; table, frantically gesturing towards their screen.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/12/participants-of-uclas-hack-on-the-hill-hackathon-code-projects-on-a-time-crunch/">https://dailybruin.com/2024/03/12/participants-of-uclas-hack-on-the-hill-hackathon-code-projects-on-a-time-crunch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/12/participants-of-uclas-hack-on-the-hill-hackathon-code-projects-on-a-time-crunch/">Save to Pocket</a>
+</span>
+
+---
+
+## Matadors hoping to win big at Big West Championships in Henderson
+
+date: 2024-03-13, from: The Sundail (CSUN Student Newspaper)
+
+In year one of the Andy Newman era of CSUN men’s basketball, Newman successfully navigated the Matadors to the seventh seed in the 2024 Big West Basketball Championships. The Matadors...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/179379/sports/matadors-hoping-to-win-big-at-big-west-championships-in-henderson/">https://sundial.csun.edu/179379/sports/matadors-hoping-to-win-big-at-big-west-championships-in-henderson/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/179379/sports/matadors-hoping-to-win-big-at-big-west-championships-in-henderson/">Save to Pocket</a>
+</span>
+
+---
+
+## Gallery: UCLA women’s basketball falls short at 2024 Pac-12 Tournament
+
+date: 2024-03-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the last-ever Pac-12 women&#8217;s basketball tournament, the Bruins bested the Utes in the quarterfinal but fell to the Trojans in the semifinals in a double-overtime thriller.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/12/gallery-ucla-womens-basketball-falls-short-at-2024-pac-12-tournament/">https://dailybruin.com/2024/03/12/gallery-ucla-womens-basketball-falls-short-at-2024-pac-12-tournament/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/12/gallery-ucla-womens-basketball-falls-short-at-2024-pac-12-tournament/">Save to Pocket</a>
+</span>
+
+---
+
+## Matadors come up empty as CSUN’s rally falls short versus Hawaii
+
+date: 2024-03-12, from: The Sundail (CSUN Student Newspaper)
+
+The Matadors, who broke their 26-game losing streak on the road against UC San Diego (12-19, 8-12 Big West) in a nail-biting overtime win last week, hosted their final regular...
+
+<span class="feed-item-link">
+<a href="https://sundial.csun.edu/179373/sports/matadors-come-up-empty-as-csuns-rally-falls-short-versus-hawaii/">https://sundial.csun.edu/179373/sports/matadors-come-up-empty-as-csuns-rally-falls-short-versus-hawaii/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/179373/sports/matadors-come-up-empty-as-csuns-rally-falls-short-versus-hawaii/">Save to Pocket</a>
+</span>
+
+---
+
+## North Westwood Neighborhood Council recap – March 6
+
+date: 2024-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+The North Westwood Neighborhood Council represents UCLA and Westwood to the Los Angeles City Council. The council’s meetings are held on the first Wednesday of every month at UCLA’s Weyburn Terrace and are open to the public.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/12/north-westwood-neighborhood-council-recap-march-6/">https://dailybruin.com/2024/03/12/north-westwood-neighborhood-council-recap-march-6/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/12/north-westwood-neighborhood-council-recap-march-6/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA men’s tennis snaps six-game winning streak in loss to Columbia
+
+date: 2024-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Six different Bruins fell prey to the Lions on Monday afternoon.
+UCLA men’s tennis (6-3) had its six-game winning streak snapped by No. 6 Columbia (10-2) in a 6-1 decision Monday afternoon.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/12/ucla-mens-tennis-snaps-six-game-winning-streak-in-loss-to-columbia/">https://dailybruin.com/2024/03/12/ucla-mens-tennis-snaps-six-game-winning-streak-in-loss-to-columbia/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/12/ucla-mens-tennis-snaps-six-game-winning-streak-in-loss-to-columbia/">Save to Pocket</a>
+</span>
+
+---
+
+## Five Things: UCLA men’s basketball’s conference slate
+
+date: 2024-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Waving a final farewell to its longtime conference, No. 5 seed UCLA men&#8217;s basketball (15-16, 10-10 Pac-12) will battle No. 12 seed Oregon State (13-18, 5-15) in the first round of the Pac-12 tournament Wednesday afternoon.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/12/five-things-ucla-mens-basketballs-conference-slate/">https://dailybruin.com/2024/03/12/five-things-ucla-mens-basketballs-conference-slate/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/12/five-things-ucla-mens-basketballs-conference-slate/">Save to Pocket</a>
+</span>
+
+---
+
+## Alex Irvine earns 1st-year triumph in Tempe after injury-filled route to UCLA
+
+date: 2024-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+The stars realigned for Alex Irvine.
+After falling twice on bars, the freshman was taken out of the lineups for an entire month. Saturday, with sophomore Selena Harris and junior Emma Malabuyo unavailable, Irvine reentered UCLA gymnastics&#8217; bars lineups.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/12/alex-irvine-earns-1st-year-triumph-in-tempe-after-injury-filled-route-to-ucla/">https://dailybruin.com/2024/03/12/alex-irvine-earns-1st-year-triumph-in-tempe-after-injury-filled-route-to-ucla/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/12/alex-irvine-earns-1st-year-triumph-in-tempe-after-injury-filled-route-to-ucla/">Save to Pocket</a>
+</span>
+
+---
+
+## Adem Bona wins Pac-12 Defensive Player of the Year, succeeding Jaylen Clark
+
+date: 2024-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 12 at 12:04 p.m.</em>
+The conference’s best defender resides in Westwood, again.&#160;
+UCLA men’s basketball sophomore forward/center Adem Bona won Pac-12 Defensive Player of the Year on Tuesday morning, marking his second conference award after earning Freshman of the Year last season.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/12/adem-bona-wins-pac-12-defensive-player-of-the-year-succeeding-jaylen-clark/">https://dailybruin.com/2024/03/12/adem-bona-wins-pac-12-defensive-player-of-the-year-succeeding-jaylen-clark/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/12/adem-bona-wins-pac-12-defensive-player-of-the-year-succeeding-jaylen-clark/">Save to Pocket</a>
+</span>
+
+---
+
+## Caltech's Path to Decarbonization
+
+date: 2024-03-12, from: California Tech (Caltech Student Newspaper)
+
+Caltech’s innovative, industrious research apparatus hides a dirty secret: a reliance on fossil fuels. But that is set to change.
+
+<span class="feed-item-link">
+<a href="https://tech.caltech.edu/2024/03/12/caltechs-path-to-decarbonization/">https://tech.caltech.edu/2024/03/12/caltechs-path-to-decarbonization/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://tech.caltech.edu/2024/03/12/caltechs-path-to-decarbonization/">Save to Pocket</a>
+</span>
+
+---
+
+## Narrated Articles — PRIME: Not Just Athletes
+
+date: 2024-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Listen to Daily Bruin PRIME writer Alicia Carhee read her article about the harmful stereotype that all Black male Bruins play sports. The article was published in PRIME Winter 2024 on March 6, 2024.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/12/narrated-articles-prime-not-just-athletes/">https://dailybruin.com/2024/03/12/narrated-articles-prime-not-just-athletes/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/12/narrated-articles-prime-not-just-athletes/">Save to Pocket</a>
+</span>
+
+---
+
+## Narrated Articles — PRIME: Mixed Feelings, Twisted Tongues
+
+date: 2024-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Listen to Daily Bruin PRIME writer Gwendolyn Lopez read her column about her relationship with multilingualism and her blended Chinese American and Mexican American identity. The article was published in PRIME Winter 2024 on March 6, 2024.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/12/narrated-articles-prime-mixed-feelings-twisted-tongues/">https://dailybruin.com/2024/03/12/narrated-articles-prime-mixed-feelings-twisted-tongues/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/12/narrated-articles-prime-mixed-feelings-twisted-tongues/">Save to Pocket</a>
+</span>
+
+---
+
+## Bruin to Bruin: Kristen Torres Pawling
+
+date: 2024-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Kristen Torres Pawling was the recipient of UCLA&#8217;s Young Alumnus of the Year award in 2022 and currently serves as the Deputy Chief of Staff for Policy and Planning for LA City Council district 5.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/12/bruin-to-bruin-kristen-torres-pawling/">https://dailybruin.com/2024/03/12/bruin-to-bruin-kristen-torres-pawling/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/12/bruin-to-bruin-kristen-torres-pawling/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -26,7 +213,7 @@ The dark comedy from director Yorgos Lanthimos earned four Oscars at Sunday&#821
 
 date: 2024-03-12, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Westwood Village Ambassador Program aims to enhance the safety, cleanliness and overall community spirit of the Village. 
+The Westwood Village Ambassador Program aims to enhance the safety, cleanliness and overall community spirit of the Village.
 The program provides safety escorts in Westwood to help students and community members feel safer, especially when walking late at night, said Henry Rojas, a supervisor and the team lead of the Westwood Village Ambassadors.
 
 <span class="feed-item-link">

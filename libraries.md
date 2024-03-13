@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.11
-updated: 2024-03-12 08:59:04
+updated: 2024-03-13 09:19:28
 ---
 
 # libraries 2024.11
 
-(date: 2024-03-12 08:59:04)
+(date: 2024-03-13 09:19:28)
 
 ---
 
@@ -29,6 +29,20 @@ Mayer, Jakob; Süsser, Diana; Pickering, Bryn; Bachner, Gabriel; Sanvito, France
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/659857">http://hdl.handle.net/20.500.11850/659857</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/659857">Save to Pocket</a>
+</span>
+
+---
+
+## Kitchen Essentials: An Interview with Will Schweitzer of Silverchair
+
+date: 2024-03-13, from: Scholarly Kitchen
+
+<p>In today’s Kitchen Essentials, Roger Schonfeld speaks with Will Schweitzer of SilverChair, the independent platform partner for scholarly and professional publishers. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/03/13/kitchen-essentials-will-schweitzer-silverchair/">Kitchen Essentials: An Interview with Will Schweitzer of Silverchair</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/03/13/kitchen-essentials-will-schweitzer-silverchair/">https://scholarlykitchen.sspnet.org/2024/03/13/kitchen-essentials-will-schweitzer-silverchair/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/03/13/kitchen-essentials-will-schweitzer-silverchair/">Save to Pocket</a>
 </span>
 
 ---

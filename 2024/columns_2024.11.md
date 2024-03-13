@@ -1,11 +1,120 @@
 ---
 title: columns 2024.11
-updated: 2024-03-12 08:59:04
+updated: 2024-03-13 09:19:28
 ---
 
 # columns 2024.11
 
-(date: 2024-03-12 08:59:04)
+(date: 2024-03-13 09:19:28)
+
+---
+
+## Why both Vision Pro & Quest are Good & Great?
+
+date: 2024-03-13, from: Om Malik blog
+
+If you have been a regular reader, then you&#160;know&#160;very well how I feel about Vision Pro, which is the best entertainment device I have ever owned (outside of my iPad.) And you also know that I think&#160;it is a two-horse race between Meta and Apple. (You can see&#160;my comments in this CNBC story.) Hugo Barra, &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/03/13/why-both-vision-pro-quest-are-good-great/">https://om.co/2024/03/13/why-both-vision-pro-quest-are-good-great/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/03/13/why-both-vision-pro-quest-are-good-great/">Save to Pocket</a>
+</span>
+
+---
+
+## Burglars Using Wi-Fi Jammers to Disable Security Cameras
+
+date: 2024-03-13, updated: 2024-03-12, from: Bruce Schneier blog
+
+<p>The arms race continues, as burglars are learning how to <a href="https://www.tomshardware.com/networking/wi-fi-jamming-to-knock-out-cameras-suspected-in-nine-minnesota-burglaries-smart-security-systems-vulnerable-as-tech-becomes-cheaper-and-easier-to-acquire">use</a> <a href="https://ktla.com/news/local-news/police-warn-of-thieves-using-wifi-jamming-tech-to-disarm-cameras-alarms/">jammers</a> to disable Wi-Fi security cameras.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/03/burglars-using-wi-fi-jammers-to-disable-security-cameras.html">https://www.schneier.com/blog/archives/2024/03/burglars-using-wi-fi-jammers-to-disable-security-cameras.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/03/burglars-using-wi-fi-jammers-to-disable-security-cameras.html">Save to Pocket</a>
+</span>
+
+---
+
+## Office Hours: Will 2024 be another contested election?
+
+date: 2024-03-13, from: Robert Reich's blog
+
+If Trump loses, what will he attempt to do and what should Dems be planning for right now?
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/office-hours-will-2024-be-another">https://robertreich.substack.com/p/office-hours-will-2024-be-another</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/office-hours-will-2024-be-another">Save to Pocket</a>
+</span>
+
+---
+
+## Steven Sinofsky: ‘Building Under Regulation’
+
+date: 2024-03-13, updated: 2024-03-13, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://hardcoresoftware.learningbyshipping.com/p/215-building-under-regulation">https://hardcoresoftware.learningbyshipping.com/p/215-building-under-regulation</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://hardcoresoftware.learningbyshipping.com/p/215-building-under-regulation">Save to Pocket</a>
+</span>
+
+---
+
+## Wednesday 13 March, 2024
+
+date: 2024-03-13, from: John Naughton's online diary
+
+My TV critic I was the Observer’s TV critic for eight years, so I’ve done my tour of duty as a couch potato. Accordingly, I now watch very little TV, and this guy stands watching me accusingly whenever I succumb. &#8230; <a href="https://memex.naughtons.org/wednesday-13-march-2024/39234/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/wednesday-13-march-2024/39234/">https://memex.naughtons.org/wednesday-13-march-2024/39234/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/wednesday-13-march-2024/39234/">Save to Pocket</a>
+</span>
+
+---
+
+## App Store WTF of the Week: DealMachine for Real Estate
+
+date: 2024-03-12, updated: 2024-03-12, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://apps.apple.com/us/app/dealmachine-for-real-estate/id1136936300">https://apps.apple.com/us/app/dealmachine-for-real-estate/id1136936300</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://apps.apple.com/us/app/dealmachine-for-real-estate/id1136936300">Save to Pocket</a>
+</span>
+
+---
+
+## [Sponsor] CloudSLAW
+
+date: 2024-03-12, updated: 2024-03-12, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://slaw.securosis.com/?utm_source=df">https://slaw.securosis.com/?utm_source=df</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://slaw.securosis.com/?utm_source=df">Save to Pocket</a>
+</span>
+
+---
+
+## My most used apps have “AI” inside
+
+date: 2024-03-12, from: Om Malik blog
+
+At present, these are&#160;my most used web/desktop/mobile&#160;apps. Honorable Mentions:&#160;&#160;Topaz Labs AI&#160;&#38;&#160;Google Labs&#8217; (AI Search.) Legacy Apps &#38; Services that I still use a lot:&#160;Apple Mail, Apple Music (Classical), Plex, VLC, Twitter, Safari, and Apple Notes. Frankly, they all need some AI-Botox ASAP! Quick Thoughts: Apart from #7,&#160;all of them&#160;have &#8220;AI.&#8221; Except #10,&#160;all of them&#160;have a &#8230;
+
+<span class="feed-item-link">
+<a href="https://om.co/2024/03/12/my-most-used-apps-have-ai-inside/">https://om.co/2024/03/12/my-most-used-apps-have-ai-inside/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://om.co/2024/03/12/my-most-used-apps-have-ai-inside/">Save to Pocket</a>
+</span>
+
+---
+
+## Apple Adjusts DMA Plan to Offer Direct Download of Apps From the Web (With a Big Asterisk), Custom Link-Out Screens, and Marketplaces Solely for the Distribution of the Developer’s Own Apps
+
+date: 2024-03-12, updated: 2024-03-12, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://developer.apple.com/news/?id=8c1m8hqt">https://developer.apple.com/news/?id=8c1m8hqt</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://developer.apple.com/news/?id=8c1m8hqt">Save to Pocket</a>
+</span>
 
 ---
 

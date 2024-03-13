@@ -1,11 +1,119 @@
 ---
 title: games 2024.11
-updated: 2024-03-12 08:59:04
+updated: 2024-03-13 09:19:28
 ---
 
 # games 2024.11
 
-(date: 2024-03-12 08:59:04)
+(date: 2024-03-13 09:19:28)
+
+---
+
+## The Finals’ new game mode takes map destruction to absurd levels
+
+date: 2024-03-13, updated: 2024-03-13, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gaming/24098514/the-finals-season-2-power-shift-embark-studios">https://www.polygon.com/gaming/24098514/the-finals-season-2-power-shift-embark-studios</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gaming/24098514/the-finals-season-2-power-shift-embark-studios">Save to Pocket</a>
+</span>
+
+---
+
+## Loungefly’s One Piece collection is for fans who can’t get enough
+
+date: 2024-03-13, updated: 2024-03-13, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/deals/2024/3/13/24097215/loungefly-one-piece-wallet-backpack-pins-keychain-anime-manga-apparel">https://www.polygon.com/deals/2024/3/13/24097215/loungefly-one-piece-wallet-backpack-pins-keychain-anime-manga-apparel</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/deals/2024/3/13/24097215/loungefly-one-piece-wallet-backpack-pins-keychain-anime-manga-apparel">Save to Pocket</a>
+</span>
+
+---
+
+## ‘TikTok bill’ passes House vote, but is not yet banned
+
+date: 2024-03-13, updated: 2024-03-13, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24099435/tiktok-ban-bill-passes-house-vote-march-2024">https://www.polygon.com/24099435/tiktok-ban-bill-passes-house-vote-march-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24099435/tiktok-ban-bill-passes-house-vote-march-2024">Save to Pocket</a>
+</span>
+
+---
+
+## Critical Role’s new Daggerheart characters are frog, turtle, and insect people
+
+date: 2024-03-13, updated: 2024-03-13, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/tabletop-games/24099460/critical-role-daggerheart-character-creation-one-shot">https://www.polygon.com/tabletop-games/24099460/critical-role-daggerheart-character-creation-one-shot</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/tabletop-games/24099460/critical-role-daggerheart-character-creation-one-shot">Save to Pocket</a>
+</span>
+
+---
+
+## RuneScape creator reveals new MMO 10 years in the making
+
+date: 2024-03-13, updated: 2024-03-13, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24099403/runescape-andrew-gower-brighter-shores-new-mmo">https://www.polygon.com/24099403/runescape-andrew-gower-brighter-shores-new-mmo</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24099403/runescape-andrew-gower-brighter-shores-new-mmo">Save to Pocket</a>
+</span>
+
+---
+
+## J Lo’s new movie looks Titanfall AF
+
+date: 2024-03-13, updated: 2024-03-13, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24099465/netflix-atlas-jennifer-lopez-scifi-movie">https://www.polygon.com/24099465/netflix-atlas-jennifer-lopez-scifi-movie</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24099465/netflix-atlas-jennifer-lopez-scifi-movie">Save to Pocket</a>
+</span>
+
+---
+
+## Helldivers 2 adds flying bugs — or is it propaganda?
+
+date: 2024-03-13, updated: 2024-03-13, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24099472/helldivers-2-flying-bugs-terminids-update-patch">https://www.polygon.com/24099472/helldivers-2-flying-bugs-terminids-update-patch</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24099472/helldivers-2-flying-bugs-terminids-update-patch">Save to Pocket</a>
+</span>
+
+---
+
+## When will Korra get added to Fortnite Chapter 5 Season 2?
+
+date: 2024-03-12, updated: 2024-03-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/fortnite-guide/24098902/korra-release-date-avatar-battle-pass-how-to-get">https://www.polygon.com/fortnite-guide/24098902/korra-release-date-avatar-battle-pass-how-to-get</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/fortnite-guide/24098902/korra-release-date-avatar-battle-pass-how-to-get">Save to Pocket</a>
+</span>
+
+---
+
+## Why Overwatch 2’s Cowboy Bebop collab looks a little odd
+
+date: 2024-03-12, updated: 2024-03-12, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24098651/overwatch-2-cowboy-bebop-blizzard-cassidy-spike-spiegel">https://www.polygon.com/24098651/overwatch-2-cowboy-bebop-blizzard-cassidy-spike-spiegel</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24098651/overwatch-2-cowboy-bebop-blizzard-cassidy-spike-spiegel">Save to Pocket</a>
+</span>
 
 ---
 
