@@ -1,11 +1,61 @@
 ---
 title: mid central 2024.11
-updated: 2024-03-14 19:56:12
+updated: 2024-03-15 08:44:40
 ---
 
 # mid central 2024.11
 
-(date: 2024-03-14 19:56:12)
+(date: 2024-03-15 08:44:40)
+
+---
+
+## ARRL: Credit Card Processing Temporarily Unavailable
+
+date: 2024-03-15, from: Amateur Radio Relay League News
+
+ARRL is working with its merchant services provider to perform an update involving credit card processing for transactions. At this time, transactions via the ARRL website and phone cannot be completed for such functions as membership (including renewals), subscriptions, and ARRL Store purchases.This news item will be revised once the update is completed. Thank you for your understanding.
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/arrl-credit-card-processing-temporarily-unavailable">http://www.arrl.org/news/view/arrl-credit-card-processing-temporarily-unavailable</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/arrl-credit-card-processing-temporarily-unavailable">Save to Pocket</a>
+</span>
+
+---
+
+## The K7RA Solar Update
+
+date: 2024-03-15, from: Amateur Radio Relay League News
+
+<p>Six new sunspot groups appeared over the past reporting week, March<br />7-13, and one more on March 14.<br /><br />The first group emerged on March 7, two more appeared on March 12,<br />and three more on March 13.<br /><br />Solar activity was down. Average daily sunspot number went from<br />106.7 to 82.3, and solar flux from 147.4 to 130.4. Geomagnetic<br />indicators were somewhat quieter, with average daily planetary A<br />index dropping fr...</p>
+
+<span class="feed-item-link">
+<a href="http://www.arrl.org/news/view/the-k7ra-solar-update-821">http://www.arrl.org/news/view/the-k7ra-solar-update-821</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://www.arrl.org/news/view/the-k7ra-solar-update-821">Save to Pocket</a>
+</span>
+
+---
+
+## AI boom and the politics of HBM memory chips
+
+date: 2024-03-15, from: EDN Blog
+
+<img width="1000" height="657" src="https://www.edn.com/wp-content/uploads/Hero-image-HBM3E.jpg?fit=1000%2C657" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-HBM3E.jpg?w=1000 1000w, https://www.edn.com/wp-content/uploads/Hero-image-HBM3E.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-HBM3E.jpg?w=768 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><p>HBM is steadily growing in importance for its critical pairing with AI processors, and it's ready for transition to HBM3e.</p>
+<p>The post <a href="https://www.edn.com/ai-boom-and-the-politics-of-hbm-memory-chips/" data-wpel-link="internal">AI boom and the politics of HBM memory chips</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.edn.com/ai-boom-and-the-politics-of-hbm-memory-chips/">https://www.edn.com/ai-boom-and-the-politics-of-hbm-memory-chips/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.edn.com/ai-boom-and-the-politics-of-hbm-memory-chips/">Save to Pocket</a>
+</span>
+
+---
+
+## Fresno State professor Hanayo Oya debuts Netflix documentary
+
+date: 2024-03-15, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+It’s not every day that Fresno State students get the opportunity to see their professors showcase their talents in a top 10 trending show in a Netflix documentary. Students of Media, Communication and Journalism (MCJ) got to see professor Hanayo Oya’s hard work pay off through a documentary screening for the first episode of the...
+
+<span class="feed-item-link">
+<a href="https://fscollegian.com/2024/03/fresno-state-professor-hanayo-oya-debuts-netflix-documentary/">https://fscollegian.com/2024/03/fresno-state-professor-hanayo-oya-debuts-netflix-documentary/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://fscollegian.com/2024/03/fresno-state-professor-hanayo-oya-debuts-netflix-documentary/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -37,7 +87,7 @@ The Fresno State men’s basketball team closed out their 2023-24 season in the 
 
 date: 2024-03-14, from: EDN Blog
 
-<img width="800" height="437" src="https://www.edn.com/wp-content/uploads/STMicro-STM32H7R.S.jpg?fit=800%2C437" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/STMicro-STM32H7R.S.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-STM32H7R.S.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-STM32H7R.S.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Outfitted with an Arm Cortex-7 core running at up to 600 MHz, ST’s STM32H7R/S MCUs provide the performance, scalability, and security of a microprocessor.</p>
+<img width="800" height="437" src="https://www.edn.com/wp-content/uploads/STMicro-STM32H7R.S.jpg?fit=800%2C437" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/STMicro-STM32H7R.S.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-STM32H7R.S.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-STM32H7R.S.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Outfitted with an Arm Cortex-7 core running at up to 600 MHz, ST’s STM32H7R/S MCUs provide the performance, scalability, and security of a microprocessor.</p>
 <p>The post <a href="https://www.edn.com/scalable-mcus-tout-mpu-like-performance/" data-wpel-link="internal">Scalable MCUs tout MPU-like performance</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
 
 

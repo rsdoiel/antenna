@@ -1,11 +1,49 @@
 ---
 title: socal north 2024.11
-updated: 2024-03-14 19:56:12
+updated: 2024-03-15 08:44:40
 ---
 
 # socal north 2024.11
 
-(date: 2024-03-14 19:56:12)
+(date: 2024-03-15 08:44:40)
+
+---
+
+## Examining how school zoning regulations contribute to socioeconomic disparities
+
+date: 2024-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Across the country, the intricacies of school district zoning laws and district-drawn attendance zones that determine who can attend certain public schools extend beyond the physical layout of neighborhoods, according to the Urban Institute and Education Next.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/14/examining-how-school-zoning-regulations-contribute-to-socioeconomic-disparities/">https://dailybruin.com/2024/03/14/examining-how-school-zoning-regulations-contribute-to-socioeconomic-disparities/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/14/examining-how-school-zoning-regulations-contribute-to-socioeconomic-disparities/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA students, faculty unite in celebration of International Women’s Day
+
+date: 2024-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students and faculty gathered at the UCLA Dashew Center on Thursday to celebrate International Women&#8217;s Day with activities, discussion and food.
+The event took place from 12 to 2 p.m.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/14/ucla-students-faculty-unite-in-celebration-of-international-womens-day/">https://dailybruin.com/2024/03/14/ucla-students-faculty-unite-in-celebration-of-international-womens-day/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/14/ucla-students-faculty-unite-in-celebration-of-international-womens-day/">Save to Pocket</a>
+</span>
+
+---
+
+## UCLA Global Health LLC creates community for pre-health students
+
+date: 2024-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+The prompt: Recreate the garden pictured on the screen using Play-Doh. 
+But the audience was not made up of elementary schoolers &#8211; it was residents of the Global Health Living Learning Community, led by the LLC&#8217;s resident assistant, Chelsey Lu.
+
+<span class="feed-item-link">
+<a href="https://dailybruin.com/2024/03/14/ucla-global-health-llc-creates-community-for-pre-health-students/">https://dailybruin.com/2024/03/14/ucla-global-health-llc-creates-community-for-pre-health-students/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://dailybruin.com/2024/03/14/ucla-global-health-llc-creates-community-for-pre-health-students/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -48,7 +86,7 @@ But Hurst wasn&#8217;t some ordinary water polo player.
 
 ---
 
-## UCLA women’s tennis claims second at Silicon Valley Showcase amid wet conditions
+## UCLA women’s golf claims second at Silicon Valley Showcase amid wet conditions
 
 date: 2024-03-14, from: The Daily Bruin (UCLA Student Newspaper)
 
@@ -515,11 +553,11 @@ Through thoughtfully chosen objects, students at Mt. San Antonio College share a
 
 ---
 
-## Diversity and Female Artists in the Rising Music Industry
+## Diversity and female artists in the rising music industry
 
 date: 2024-03-13, from: The Sundail (CSUN Student Newspaper)
 
-Festival season is upon us, and with that comes a whole new array of lineups and artists on the rise. Similar to other industries, the music industry has had a...
+Festival season is upon us, and with that comes a new array of lineups and artists on the rise. Similar to other industries, the music industry has a history of...
 
 <span class="feed-item-link">
 <a href="https://sundial.csun.edu/179383/arts-entertainment/entertainment/diversity-and-female-artists-in-the-rising-music-industry/">https://sundial.csun.edu/179383/arts-entertainment/entertainment/diversity-and-female-artists-in-the-rising-music-industry/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://sundial.csun.edu/179383/arts-entertainment/entertainment/diversity-and-female-artists-in-the-rising-music-industry/">Save to Pocket</a>

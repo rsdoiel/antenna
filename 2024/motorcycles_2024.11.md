@@ -1,11 +1,35 @@
 ---
 title: motorcycles 2024.11
-updated: 2024-03-14 19:56:13
+updated: 2024-03-15 08:44:41
 ---
 
 # motorcycles 2024.11
 
-(date: 2024-03-14 19:56:13)
+(date: 2024-03-15 08:44:41)
+
+---
+
+## Alpinestars’ Drops It's New Tech-Air 3 Canvas And Leather Vests
+
+date: 2024-03-15, from: Ride Apart, Electric Motorcycle News
+
+The Italian gear specialist has V-Twin riders in mind with its newest airbag system. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/712006/alpinestars-tech-air3-canvas-leather/">https://www.rideapart.com/news/712006/alpinestars-tech-air3-canvas-leather/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/712006/alpinestars-tech-air3-canvas-leather/">Save to Pocket</a>
+</span>
+
+---
+
+## QuietKat's New Ranger AWD Will Have You Yearning For Hunting Season
+
+date: 2024-03-15, from: Ride Apart, Electric Motorcycle News
+
+Who needs a buddy to help pack out an elk anymore?
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/712447/quietkat-ranger-awd-e-bike-hunting/">https://www.rideapart.com/news/712447/quietkat-ranger-awd-e-bike-hunting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/712447/quietkat-ranger-awd-e-bike-hunting/">Save to Pocket</a>
+</span>
 
 ---
 

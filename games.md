@@ -1,11 +1,119 @@
 ---
 title: games 2024.11
-updated: 2024-03-14 19:56:13
+updated: 2024-03-15 08:44:40
 ---
 
 # games 2024.11
 
-(date: 2024-03-14 19:56:13)
+(date: 2024-03-15 08:44:40)
+
+---
+
+## The Animal Kingdom director unpacks the year’s most fascinating sci-fi movie
+
+date: 2024-03-15, updated: 2024-03-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24100927/the-animal-kingdom-movie-french-effects-creature-design-meaning">https://www.polygon.com/24100927/the-animal-kingdom-movie-french-effects-creature-design-meaning</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24100927/the-animal-kingdom-movie-french-effects-creature-design-meaning">Save to Pocket</a>
+</span>
+
+---
+
+## Palworld is getting its first new Pal and raid battle
+
+date: 2024-03-15, updated: 2024-03-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24101796/palworld-new-pal-bellanoir-raid-update">https://www.polygon.com/24101796/palworld-new-pal-bellanoir-raid-update</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24101796/palworld-new-pal-bellanoir-raid-update">Save to Pocket</a>
+</span>
+
+---
+
+## I am obsessed with every single preview image from Baby Assassins 2 Babies
+
+date: 2024-03-15, updated: 2024-03-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24101822/baby-assassins-2-babies-preview-images-release-date-streaming">https://www.polygon.com/24101822/baby-assassins-2-babies-preview-images-release-date-streaming</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24101822/baby-assassins-2-babies-preview-images-release-date-streaming">Save to Pocket</a>
+</span>
+
+---
+
+## The original Dragon’s Dogma arrived at a dark time in Capcom history
+
+date: 2024-03-15, updated: 2024-03-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24093239/dragons-dogma-history-2012-capcom">https://www.polygon.com/24093239/dragons-dogma-history-2012-capcom</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24093239/dragons-dogma-history-2012-capcom">Save to Pocket</a>
+</span>
+
+---
+
+## Akira Toriyama never stopped growing up
+
+date: 2024-03-15, updated: 2024-03-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/entertainment/24101218/goodbye-akira-toriyama">https://www.polygon.com/entertainment/24101218/goodbye-akira-toriyama</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/entertainment/24101218/goodbye-akira-toriyama">Save to Pocket</a>
+</span>
+
+---
+
+## The best TV of 2024 so far
+
+date: 2024-03-15, updated: 2024-03-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series">https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/what-to-watch/24078257/best-tv-2024-shows-series">Save to Pocket</a>
+</span>
+
+---
+
+## The best order to watch the Godzilla and Kong MonsterVerse movies
+
+date: 2024-03-15, updated: 2024-03-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24101190/godzilla-kong-monsterverse-best-watch-order">https://www.polygon.com/24101190/godzilla-kong-monsterverse-best-watch-order</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24101190/godzilla-kong-monsterverse-best-watch-order">Save to Pocket</a>
+</span>
+
+---
+
+## Irish Wish is full of awful rom-com tropes, yet I want Lindsay Lohan to find happiness
+
+date: 2024-03-15, updated: 2024-03-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/reviews/24100743/irish-wish-review-netflix-lindsay-lohan">https://www.polygon.com/reviews/24100743/irish-wish-review-netflix-lindsay-lohan</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/reviews/24100743/irish-wish-review-netflix-lindsay-lohan">Save to Pocket</a>
+</span>
+
+---
+
+## Civil War stuns in the least likely ways imaginable
+
+date: 2024-03-15, updated: 2024-03-15, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24099490/civil-war-review-2024">https://www.polygon.com/24099490/civil-war-review-2024</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24099490/civil-war-review-2024">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,603 @@
 ---
 title: pacific 2024.11
-updated: 2024-03-14 19:56:12
+updated: 2024-03-15 08:44:40
 ---
 
 # pacific 2024.11
 
-(date: 2024-03-14 19:56:12)
+(date: 2024-03-15 08:44:40)
+
+---
+
+## Governor seeks Guam Supreme Court determination on AG withdrawal
+
+date: 2024-03-15, from: Guam Daily Post
+
+The Office of the Governor has announced that Gov. Lou Leon Guerrero has filed a request for declaratory judgment at the Supreme Court of Guam, asking the court to determine whether the attorney general can withdraw from representing government agencies,…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/governor-seeks-guam-supreme-court-determination-on-ag-withdrawal/article_e3c5b7a4-e263-11ee-ac28-435b447939c4.html">https://www.postguam.com/news/local/governor-seeks-guam-supreme-court-determination-on-ag-withdrawal/article_e3c5b7a4-e263-11ee-ac28-435b447939c4.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/governor-seeks-guam-supreme-court-determination-on-ag-withdrawal/article_e3c5b7a4-e263-11ee-ac28-435b447939c4.html">Save to Pocket</a>
+</span>
+
+---
+
+## Habitat set aside for 12 endangered Big Island species
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Fish and Wildlife Service has designated nearly 120,000 acres of land on Hawaii island as protected critical habitat for 12 endangered species.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/habitat-set-aside-for-12-endangered-big-island-species/">https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/habitat-set-aside-for-12-endangered-big-island-species/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/habitat-set-aside-for-12-endangered-big-island-species/">Save to Pocket</a>
+</span>
+
+---
+
+## SpaceX’s 3rd Starship launch makes it to space without exploding, but lost on reentry
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>SpaceX&#8217;s powerful Starship and Super Heavy rocket completed a more successful third orbital test flight from Texas on Thursday morning with no explosive endings on the way up that marred the first two test flights in 2023. The way down, though, still saw more destructive ends as the first-stage booster came in at more than 600 mph hitting the Gulf of Mexico and the upper stage spacecraft broke up on reentry halfway around the Earth. The overall mission, though, was considered a success by SpaceX officials.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/spacexs-3rd-starship-launch-makes-it-to-space-without-exploding-but-lost-on-reentry/">https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/spacexs-3rd-starship-launch-makes-it-to-space-without-exploding-but-lost-on-reentry/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/spacexs-3rd-starship-launch-makes-it-to-space-without-exploding-but-lost-on-reentry/">Save to Pocket</a>
+</span>
+
+---
+
+## Judge rejects bid by Donald Trump to throw out classified documents case on constitutional grounds
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>FORT PIERCE, Fla. &#8212; A federal judge on Thursday rejected one bid by Donald Trump to throw out his classified documents criminal case, and appeared skeptical during hours of arguments of a separate effort to scuttle the prosecution ahead of trial.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/judge-rejects-bid-by-donald-trump-to-throw-out-classified-documents-case-on-constitutional-grounds/">https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/judge-rejects-bid-by-donald-trump-to-throw-out-classified-documents-case-on-constitutional-grounds/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/judge-rejects-bid-by-donald-trump-to-throw-out-classified-documents-case-on-constitutional-grounds/">Save to Pocket</a>
+</span>
+
+---
+
+## Evangelical Christians are fierce Israel supporters. Now they are visiting as war-time volunteers
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>TEL AVIV, Israel &#8212; When Shawn Landis, an evangelical Christian from Pennsylvania, heard about the Oct. 7 Hamas attack on southern Israel, he knew he would come to Israel to volunteer as soon as it was safe.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/evangelical-christians-are-fierce-israel-supporters-now-they-are-visiting-as-war-time-volunteers/">https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/evangelical-christians-are-fierce-israel-supporters-now-they-are-visiting-as-war-time-volunteers/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/evangelical-christians-are-fierce-israel-supporters-now-they-are-visiting-as-war-time-volunteers/">Save to Pocket</a>
+</span>
+
+---
+
+## Katie Britt’s speech does a terrible disservice to sex trafficking victims
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>Scarlett Johansson&#8217;s &#8220;Saturday Night Live&#8221; open was hilarious, and there have been so many more great jokes about the oddly amateur theatrics of U.S. Sen. Katie Britt in her response to President Joe Biden&#8217;s State of the Union address. But we can&#8217;t let the humor mask a patently cruel lie that was one of the cornerstones of her speech.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/opinion/katie-britts-speech-does-a-terrible-disservice-to-sex-trafficking-victims/">https://www.hawaiitribune-herald.com/2024/03/15/opinion/katie-britts-speech-does-a-terrible-disservice-to-sex-trafficking-victims/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/opinion/katie-britts-speech-does-a-terrible-disservice-to-sex-trafficking-victims/">Save to Pocket</a>
+</span>
+
+---
+
+## Your Views for March 15
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>Pele cleansed Puna&#0010;of &#8216;wrongdoing&#8217; </p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/opinion/your-views-for-march-15-11/">https://www.hawaiitribune-herald.com/2024/03/15/opinion/your-views-for-march-15-11/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/opinion/your-views-for-march-15-11/">Save to Pocket</a>
+</span>
+
+---
+
+## Robert Hur show obscures the real takeaways
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>Hours of testimony by Robert Hur&#8212; the former special counsel appointed to investigate President Joe Biden&#8217;s retention of classified documents following his vice presidency &#8212; before the House Judiciary Committee predictably revealed little new.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/opinion/robert-hur-show-obscures-the-real-takeaways/">https://www.hawaiitribune-herald.com/2024/03/15/opinion/robert-hur-show-obscures-the-real-takeaways/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/opinion/robert-hur-show-obscures-the-real-takeaways/">Save to Pocket</a>
+</span>
+
+---
+
+## Hawaii residents oppose measure targeting cockfighting
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>A state proposal to impose greater criminal penalties relating to cockfighting drew outcry from residents Thursday.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/hawaii-news/hawaii-residents-oppose-measure-targeting-cockfighting/">https://www.hawaiitribune-herald.com/2024/03/15/hawaii-news/hawaii-residents-oppose-measure-targeting-cockfighting/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/hawaii-news/hawaii-residents-oppose-measure-targeting-cockfighting/">Save to Pocket</a>
+</span>
+
+---
+
+## Regina King says son Ian is ‘always with me,’ breaking her silence 2 years after his death
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>To Regina King, &#8220;grief is a journey.&#8221; This week, that journey included her first interview about her late son Ian Alexander Jr., who died in 2022.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/regina-king-says-son-ian-is-always-with-me-breaking-her-silence-2-years-after-his-death/">https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/regina-king-says-son-ian-is-always-with-me-breaking-her-silence-2-years-after-his-death/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/regina-king-says-son-ian-is-always-with-me-breaking-her-silence-2-years-after-his-death/">Save to Pocket</a>
+</span>
+
+---
+
+## Column: A week full of outdoor sporting events
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; The Old Airport State Recreation Area was a beehive of activity on Saturday, as sports enthusiasts took part in an abundance of athletic events.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/sports/column-a-week-full-of-outdoor-sporting-events/">https://www.hawaiitribune-herald.com/2024/03/15/sports/column-a-week-full-of-outdoor-sporting-events/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/sports/column-a-week-full-of-outdoor-sporting-events/">Save to Pocket</a>
+</span>
+
+---
+
+## UH-Hilo athletics round-up: Softball splits with Azusa Pacific
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p><strong>SOFTBALL</strong></p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/sports/uh-hilo-athletics-round-up-softball-splits-with-azusa-pacific/">https://www.hawaiitribune-herald.com/2024/03/15/sports/uh-hilo-athletics-round-up-softball-splits-with-azusa-pacific/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/sports/uh-hilo-athletics-round-up-softball-splits-with-azusa-pacific/">Save to Pocket</a>
+</span>
+
+---
+
+## Election disinformation takes a big leap with AI being used to deceive worldwide
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Artificial intelligence is supercharging the threat of election disinformation worldwide, making it easy for anyone with a smartphone and a devious imagination to create fake &#8211; but convincing &#8211; content aimed at fooling voters.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/election-disinformation-takes-a-big-leap-with-ai-being-used-to-deceive-worldwide/">https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/election-disinformation-takes-a-big-leap-with-ai-being-used-to-deceive-worldwide/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/election-disinformation-takes-a-big-leap-with-ai-being-used-to-deceive-worldwide/">Save to Pocket</a>
+</span>
+
+---
+
+## Russians head to polls in a vote set to extend Putin’s rule. His foes are in jail, in exile or dead
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>Voters headed to the polls in Russia on Friday for a three-day presidential election that is all but certain to extend President Vladimir Putin&#8217;s rule by six more years after he stifled dissent.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/russians-head-to-polls-in-a-vote-set-to-extend-putins-rule-his-foes-are-in-jail-in-exile-or-dead/">https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/russians-head-to-polls-in-a-vote-set-to-extend-putins-rule-his-foes-are-in-jail-in-exile-or-dead/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/russians-head-to-polls-in-a-vote-set-to-extend-putins-rule-his-foes-are-in-jail-in-exile-or-dead/">Save to Pocket</a>
+</span>
+
+---
+
+## Top Democrat Schumer calls for new elections in Israel, saying Netanyahu is an obstacle to peace
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Senate Majority Leader Chuck Schumer on Thursday called on Israel to hold new elections, saying he believes Israeli Prime Minister Benjamin Netanyahu has &#8220;lost his way&#8221; and is an obstacle to peace in the region amid a growing humanitarian crisis in Gaza.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/top-democrat-schumer-calls-for-new-elections-in-israel-saying-netanyahu-is-an-obstacle-to-peace/">https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/top-democrat-schumer-calls-for-new-elections-in-israel-saying-netanyahu-is-an-obstacle-to-peace/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/top-democrat-schumer-calls-for-new-elections-in-israel-saying-netanyahu-is-an-obstacle-to-peace/">Save to Pocket</a>
+</span>
+
+---
+
+## Seat belt saved passenger’s life on Boeing 737 jet that suffered a blowout, new lawsuit says
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>SEATTLE (AP) &#8212; More passengers who were aboard an Alaska Airlines Boeing 737 jet when part of its fuselage blew out in January are suing &#8212; including one who says his life was saved by a seat belt.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/seat-belt-saved-passengers-life-on-boeing-737-jet-that-suffered-a-blowout-new-lawsuit-says/">https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/seat-belt-saved-passengers-life-on-boeing-737-jet-that-suffered-a-blowout-new-lawsuit-says/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/seat-belt-saved-passengers-life-on-boeing-737-jet-that-suffered-a-blowout-new-lawsuit-says/">Save to Pocket</a>
+</span>
+
+---
+
+## Manoa tragedy sparks concern over a rise in domestic-violence killings
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>The killing of a wife and three kids by a husband, who then took his own life, in Manoa Sunday morning was likely the third domestic-violence killing in Hawaii in three months and the fourth high-profile domestic violence case.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/hawaii-news/manoa-tragedy-sparks-concern-over-a-rise-in-domestic-violence-killings/">https://www.hawaiitribune-herald.com/2024/03/15/hawaii-news/manoa-tragedy-sparks-concern-over-a-rise-in-domestic-violence-killings/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/hawaii-news/manoa-tragedy-sparks-concern-over-a-rise-in-domestic-violence-killings/">Save to Pocket</a>
+</span>
+
+---
+
+## Hilo High baseball crushes Kohala
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>Hilo High Schools&#8217; baseball team continued its strong start to the season, crushing visiting Kohala High 16-1 in a rain-soaked, run-ruled four-inning matchup on Wednesday evening at Francis Wong Stadium in Hilo.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/sports/hilo-high-baseball-crushes-kohala/">https://www.hawaiitribune-herald.com/2024/03/15/sports/hilo-high-baseball-crushes-kohala/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/sports/hilo-high-baseball-crushes-kohala/">Save to Pocket</a>
+</span>
+
+---
+
+## Former Treasury Secretary Steve Mnuchin says he’s putting together investor group to buy TikTok
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>Former Treasury Secretary Steven Mnuchin said Thursday that he will put together an investor group to buy TikTok after the House passed a bill that would ban the popular video app in the U.S. if its China-based owner does not sell its stake.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/former-treasury-secretary-steve-mnuchin-says-hes-putting-together-investor-group-to-buy-tiktok/">https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/former-treasury-secretary-steve-mnuchin-says-hes-putting-together-investor-group-to-buy-tiktok/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/former-treasury-secretary-steve-mnuchin-says-hes-putting-together-investor-group-to-buy-tiktok/">Save to Pocket</a>
+</span>
+
+---
+
+## James Crumbley, who bought gun used by son to kill 4 students, guilty of manslaughter in Michigan
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>PONTIAC, Mich. &#8212; The father of a Michigan school shooter was found guilty of involuntary manslaughter Thursday, a second conviction against the teen&#8217;s parents who were accused of failing to secure a gun at home and doing nothing to address acute signs of his mental turmoil.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/james-crumbley-who-bought-gun-used-by-son-to-kill-4-students-guilty-of-manslaughter-in-michigan/">https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/james-crumbley-who-bought-gun-used-by-son-to-kill-4-students-guilty-of-manslaughter-in-michigan/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/james-crumbley-who-bought-gun-used-by-son-to-kill-4-students-guilty-of-manslaughter-in-michigan/">Save to Pocket</a>
+</span>
+
+---
+
+## Supreme Court to weigh government role in online misinformation
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court will hear oral arguments Monday in a case that could determine how far the federal government can go to convince social media sites to curtail or remove misinformation about health, safety and other issues of public concern.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/supreme-court-to-weigh-government-role-in-online-misinformation/">https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/supreme-court-to-weigh-government-role-in-online-misinformation/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/supreme-court-to-weigh-government-role-in-online-misinformation/">Save to Pocket</a>
+</span>
+
+---
+
+## Bees cause a buzz and lengthy disruption at Indian Wells tennis
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>INDIAN WELLS, Calif. &#8212; A swarm of bees forced a nearly two-hour disruption to the quarterfinal match between Carlos Alcaraz and Alexander Zverev at the BNP Paribas Open on Thursday. </p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/sports/bees-cause-a-buzz-and-lengthy-disruption-at-indian-wells-tennis/">https://www.hawaiitribune-herald.com/2024/03/15/sports/bees-cause-a-buzz-and-lengthy-disruption-at-indian-wells-tennis/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/sports/bees-cause-a-buzz-and-lengthy-disruption-at-indian-wells-tennis/">Save to Pocket</a>
+</span>
+
+---
+
+## College swimmers, volleyball players sue NCAA over transgender policies
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; Former Kentucky swimmer Riley Gaines was among more than a dozen college athletes who filed a lawsuit against the NCAA on Thursday, accusing it of violating their Title IX rights by allowing transgender woman Lia Thomas to compete at the national championships in 2022. </p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/sports/college-swimmers-volleyball-players-sue-ncaa-over-transgender-policies/">https://www.hawaiitribune-herald.com/2024/03/15/sports/college-swimmers-volleyball-players-sue-ncaa-over-transgender-policies/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/sports/college-swimmers-volleyball-players-sue-ncaa-over-transgender-policies/">Save to Pocket</a>
+</span>
+
+---
+
+## UFC Hall of Famer Mark Coleman from hospital bed: ‘I’m the happiest man in the world’
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>TOLEDO, Ohio (AP) &#8212; UFC Hall of Famer and former champion Mark Coleman called himself &#8220;the happiest man in the world&#8221; as he embraced members of his family from a hospital bed. </p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/sports/ufc-hall-of-famer-mark-coleman-from-hospital-bed-im-the-happiest-man-in-the-world/">https://www.hawaiitribune-herald.com/2024/03/15/sports/ufc-hall-of-famer-mark-coleman-from-hospital-bed-im-the-happiest-man-in-the-world/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/sports/ufc-hall-of-famer-mark-coleman-from-hospital-bed-im-the-happiest-man-in-the-world/">Save to Pocket</a>
+</span>
+
+---
+
+## Obituaries for March 15
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>Gwen Eloise &#8220;Lisa&#8221; Cortez Kaneshiro, 79, of Hot Springs, S.D., formerly of Hilo, died March 11 in Hot Springs, S.D.. Born in Greybill, Wyo., she was a retired teacher who taught at Hilo Union and Waimea Elementary Schools worked for the American Lung Association and the former Hospice of Hilo, U.S. Army veteran and partner of Tribune-Herald photographer William Ing. Survived by son, Evans (Holly Albers) Flammond Sr. of Pine Ridge Reservation, S.D.; sisters, Francis Cortez (Jim Carton) Stokes of Hot Springs, S.D., and Anita (Jonathan Holden) Cortez of Manhattan, Kan.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/hawaii-news/obituaries-for-march-15-11/">https://www.hawaiitribune-herald.com/2024/03/15/hawaii-news/obituaries-for-march-15-11/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/hawaii-news/obituaries-for-march-15-11/">Save to Pocket</a>
+</span>
+
+---
+
+## Prosecutors say they’re open to delaying Donald Trump’s March 25 hush-money trial for a month
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; New York prosecutors said Thursday they are open to delaying the start of Donald Trump&#8217;s hush-money criminal trial by a month &#8220;in an abundance of caution&#8221; to give the former president&#8217;s lawyers time to review evidence they only recently obtained from a previous federal investigation into the matter.</p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/prosecutors-say-theyre-open-to-delaying-donald-trumps-march-25-hush-money-trial-for-a-month/">https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/prosecutors-say-theyre-open-to-delaying-donald-trumps-march-25-hush-money-trial-for-a-month/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/nation-world-news/prosecutors-say-theyre-open-to-delaying-donald-trumps-march-25-hush-money-trial-for-a-month/">Save to Pocket</a>
+</span>
+
+---
+
+## Running backs had plenty of options this week, even if the position still faces challenges
+
+date: 2024-03-15, from: Hawaii Tribune Harold
+
+
+				<p>OWINGS MILLS, Md. &#8212; A year after his position was in crisis, Derrick Henry still feels a bond with his fellow running backs. </p>
+			
+
+<span class="feed-item-link">
+<a href="https://www.hawaiitribune-herald.com/2024/03/15/sports/running-backs-had-plenty-of-options-this-week-even-if-the-position-still-faces-challenges/">https://www.hawaiitribune-herald.com/2024/03/15/sports/running-backs-had-plenty-of-options-this-week-even-if-the-position-still-faces-challenges/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.hawaiitribune-herald.com/2024/03/15/sports/running-backs-had-plenty-of-options-this-week-even-if-the-position-still-faces-challenges/">Save to Pocket</a>
+</span>
+
+---
+
+## OAG returns temporary power contract for corrections
+
+date: 2024-03-15, from: Guam Daily Post
+
+The Office of the Attorney General has conducted a review of the Guam Power Authority's procurement of temporary power, and has sent back a proposed contract for corrections and the inclusion of missing clauses in order to further its legal…
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/oag-returns-temporary-power-contract-for-corrections/article_6dd53b06-e29e-11ee-bdfc-0f64c38c9aaa.html">https://www.postguam.com/news/oag-returns-temporary-power-contract-for-corrections/article_6dd53b06-e29e-11ee-bdfc-0f64c38c9aaa.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/oag-returns-temporary-power-contract-for-corrections/article_6dd53b06-e29e-11ee-bdfc-0f64c38c9aaa.html">Save to Pocket</a>
+</span>
+
+---
+
+## Students advocate for their school’s charter renewal
+
+date: 2024-03-15, from: Guam Daily Post
+
+During a public hearing on Thursday, two Guahan Academy Charter School high school students left an impression on members of the Guam Academy Charter Schools Council, who are deciding whether the school’s charter should be renewed.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/students-advocate-for-their-school-s-charter-renewal/article_cba41cc8-e27d-11ee-98ef-3b90cf1377e1.html">https://www.postguam.com/news/local/students-advocate-for-their-school-s-charter-renewal/article_cba41cc8-e27d-11ee-98ef-3b90cf1377e1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/students-advocate-for-their-school-s-charter-renewal/article_cba41cc8-e27d-11ee-98ef-3b90cf1377e1.html">Save to Pocket</a>
+</span>
+
+---
+
+## DPHSS hearing to disqualify AG continues
+
+date: 2024-03-15, from: Guam Daily Post
+
+Arguments are continuing in the Superior Court of Guam on a motion to disqualify the Office of the Attorney General from prosecuting two Department of Public Health and Social Services employees on corruption charges.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/dphss-hearing-to-disqualify-ag-continues/article_46b190f6-e26c-11ee-b912-47d0a43af440.html">https://www.postguam.com/news/local/dphss-hearing-to-disqualify-ag-continues/article_46b190f6-e26c-11ee-b912-47d0a43af440.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/dphss-hearing-to-disqualify-ag-continues/article_46b190f6-e26c-11ee-b912-47d0a43af440.html">Save to Pocket</a>
+</span>
+
+---
+
+## 14-year-old boy in custody for alleged online threat to shoot up school rally
+
+date: 2024-03-15, from: Guam Daily Post
+
+A 14-year-old boy has been taken into custody on suspicion of threatening to shoot up a school rally in a message that circulated social media on Thursday.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/14-year-old-boy-in-custody-for-alleged-online-threat-to-shoot-up-school-rally/article_19b5fbc8-e262-11ee-b18b-17c2f90848b7.html">https://www.postguam.com/news/local/14-year-old-boy-in-custody-for-alleged-online-threat-to-shoot-up-school-rally/article_19b5fbc8-e262-11ee-b18b-17c2f90848b7.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/14-year-old-boy-in-custody-for-alleged-online-threat-to-shoot-up-school-rally/article_19b5fbc8-e262-11ee-b18b-17c2f90848b7.html">Save to Pocket</a>
+</span>
+
+---
+
+## Man arrested in connection with 4-car crash on Dead Man's Curve
+
+date: 2024-03-15, from: Guam Daily Post
+
+An arrest was made in connection with a four-car collision that occurred last month on Dead Man's Curve in Asan.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/man-arrested-in-connection-with-4-car-crash-on-dead-mans-curve/article_08c4e286-e260-11ee-af4c-1383b4bbeb32.html">https://www.postguam.com/news/local/man-arrested-in-connection-with-4-car-crash-on-dead-mans-curve/article_08c4e286-e260-11ee-af4c-1383b4bbeb32.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/man-arrested-in-connection-with-4-car-crash-on-dead-mans-curve/article_08c4e286-e260-11ee-af4c-1383b4bbeb32.html">Save to Pocket</a>
+</span>
+
+---
+
+## 'I'm here for recruitment,' suspect said after crashing stolen bus at Andersen
+
+date: 2024-03-15, from: Guam Daily Post
+
+A man was charged in court after he was arrested on suspicion of stealing a yellow bus and eluding police, then crashing into a barrier outside Andersen Air Force Base.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/local/im-here-for-recruitment-suspect-said-after-crashing-stolen-bus-at-andersen/article_b312fcfe-e261-11ee-b00a-138c84b82d8d.html">https://www.postguam.com/news/local/im-here-for-recruitment-suspect-said-after-crashing-stolen-bus-at-andersen/article_b312fcfe-e261-11ee-b00a-138c84b82d8d.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/local/im-here-for-recruitment-suspect-said-after-crashing-stolen-bus-at-andersen/article_b312fcfe-e261-11ee-b00a-138c84b82d8d.html">Save to Pocket</a>
+</span>
+
+---
+
+## GWA lifts precautionary boil water notice for Mount Santa Rosa
+
+date: 2024-03-15, from: Guam Daily Post
+
+The Guam Waterworks Authority, with concurrence from the Guam Environmental Protection Agency, is terminating the precautionary boil water notice issued on March 12 for residents in the Mount Santa Rosa area of Yigo.
+
+<span class="feed-item-link">
+<a href="https://www.postguam.com/news/gwa-lifts-precautionary-boil-water-notice-for-mount-santa-rosa/article_82da21f4-e29b-11ee-bfbe-7f158416a892.html">https://www.postguam.com/news/gwa-lifts-precautionary-boil-water-notice-for-mount-santa-rosa/article_82da21f4-e29b-11ee-bfbe-7f158416a892.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.postguam.com/news/gwa-lifts-precautionary-boil-water-notice-for-mount-santa-rosa/article_82da21f4-e29b-11ee-bfbe-7f158416a892.html">Save to Pocket</a>
+</span>
+
+---
+
+## Diabetes-fighting program for Pacific Islanders looks to continue success
+
+date: 2024-03-15, from: Pacific Island Times
+
+By Frank Whitman Pacific Islanders taking part in an anti-diabetes program aimed at, and boasting success with, islanders met in early...
+
+<span class="feed-item-link">
+<a href="https://www.pacificislandtimes.com/post/diabetes-fighting-program-for-pacific-islanders-looks-to-continue-success">https://www.pacificislandtimes.com/post/diabetes-fighting-program-for-pacific-islanders-looks-to-continue-success</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.pacificislandtimes.com/post/diabetes-fighting-program-for-pacific-islanders-looks-to-continue-success">Save to Pocket</a>
+</span>
+
+---
+
+## US export credit agency approves support for Bahrain oil project
+
+date: 2024-03-15, updated: 2024-03-15, from: Marianas Variety
+
+WASHINGTON (Reuters) — The U.S. export credit agency on Thursday voted to approve a $500 million loan guarantee for an oil and gas drilling project in Bahrain, testing a U.S. climate pledge to stop backing projects that expand the use of fossil fuels.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/us-export-credit-agency-approves-support-for-bahrain-oil-project/article_c9e214c4-e289-11ee-b010-6fcf9bf932ca.html">https://www.mvariety.com/business/us-export-credit-agency-approves-support-for-bahrain-oil-project/article_c9e214c4-e289-11ee-b010-6fcf9bf932ca.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/us-export-credit-agency-approves-support-for-bahrain-oil-project/article_c9e214c4-e289-11ee-b010-6fcf9bf932ca.html">Save to Pocket</a>
+</span>
+
+---
+
+## Reckitt unit hit with $60 million verdict in Enfamil baby formula case in Illinois
+
+date: 2024-03-15, updated: 2024-03-15, from: Marianas Variety
+
+(Reuters) — An Illinois jury has ordered Reckitt Benckiser unit Mead Johnson to pay $60 million to the mother of a premature baby who died of an intestinal disease after being fed the company's Enfamil baby formula.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/reckitt-unit-hit-with-60-million-verdict-in-enfamil-baby-formula-case-in-illinois/article_86023842-e289-11ee-a6d9-ff4dd638001c.html">https://www.mvariety.com/business/reckitt-unit-hit-with-60-million-verdict-in-enfamil-baby-formula-case-in-illinois/article_86023842-e289-11ee-a6d9-ff4dd638001c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/reckitt-unit-hit-with-60-million-verdict-in-enfamil-baby-formula-case-in-illinois/article_86023842-e289-11ee-a6d9-ff4dd638001c.html">Save to Pocket</a>
+</span>
+
+---
+
+## US ban of TikTok would rob Biden, Democrats of 2024 election tool
+
+date: 2024-03-15, updated: 2024-03-15, from: Marianas Variety
+
+WASHINGTON (Reuters) — If President Joe Biden keeps his promise to sign a bill that could ban TikTok over its ties to the Chinese government, he may rob his reelection campaign of a platform that he and fellow Democrats rely on to reach younger voters.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/business/us-ban-of-tiktok-would-rob-biden-democrats-of-2024-election-tool/article_3ff39f26-e289-11ee-9298-93d14aae5624.html">https://www.mvariety.com/business/us-ban-of-tiktok-would-rob-biden-democrats-of-2024-election-tool/article_3ff39f26-e289-11ee-9298-93d14aae5624.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/business/us-ban-of-tiktok-would-rob-biden-democrats-of-2024-election-tool/article_3ff39f26-e289-11ee-9298-93d14aae5624.html">Save to Pocket</a>
+</span>
+
+---
+
+## Dollar advances as US inflation data weighs on rates outlook
+
+date: 2024-03-15, updated: 2024-03-15, from: Marianas Variety
+
+SINGAPORE (Reuters) — The dollar was firm on Friday and set to snap a three-week losing streak as hotter-than-expected U.S. inflation data stoked worries about when and by how much the Federal Reserve would start cutting interest rates this year.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/dollar-advances-as-us-inflation-data-weighs-on-rates-outlook/article_ef48bfe8-e288-11ee-9865-7bbb70823f05.html">https://www.mvariety.com/news/national/dollar-advances-as-us-inflation-data-weighs-on-rates-outlook/article_ef48bfe8-e288-11ee-9865-7bbb70823f05.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/dollar-advances-as-us-inflation-data-weighs-on-rates-outlook/article_ef48bfe8-e288-11ee-9865-7bbb70823f05.html">Save to Pocket</a>
+</span>
+
+---
+
+## US VP Harris visits Minnesota abortion clinic in historic first
+
+date: 2024-03-15, updated: 2024-03-15, from: Marianas Variety
+
+ST. PAUL, Minnesota (Reuters) — U.S. Vice President Kamala Harris on Thursday toured a health clinic that offers abortion services while she was in Minnesota, spotlighting growing restrictions on women's rights that Democrats believe will animate voters in November.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/us-vp-harris-visits-minnesota-abortion-clinic-in-historic-first/article_7ec04d54-e288-11ee-a4f1-bf53bfc8f6df.html">https://www.mvariety.com/news/national/us-vp-harris-visits-minnesota-abortion-clinic-in-historic-first/article_7ec04d54-e288-11ee-a4f1-bf53bfc8f6df.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/us-vp-harris-visits-minnesota-abortion-clinic-in-historic-first/article_7ec04d54-e288-11ee-a4f1-bf53bfc8f6df.html">Save to Pocket</a>
+</span>
+
+---
+
+## Judge denies Trump motion to dismiss classified-documents case
+
+date: 2024-03-15, updated: 2024-03-15, from: Marianas Variety
+
+FORT PIERCE, Florida (Reuters) — A federal judge on Thursday denied former U.S. President Donald Trump's request to dismiss a criminal case that charges him with illegally holding onto classified documents after leaving the White House.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/judge-denies-trump-motion-to-dismiss-classified-documents-case/article_31b155da-e288-11ee-9aa8-d3f349e4e766.html">https://www.mvariety.com/news/national/judge-denies-trump-motion-to-dismiss-classified-documents-case/article_31b155da-e288-11ee-9aa8-d3f349e4e766.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/judge-denies-trump-motion-to-dismiss-classified-documents-case/article_31b155da-e288-11ee-9aa8-d3f349e4e766.html">Save to Pocket</a>
+</span>
+
+---
+
+## Lawyers argue whether father of Michigan school shooter ignored warning signs
+
+date: 2024-03-15, updated: 2024-03-15, from: Marianas Variety
+
+(Reuters) — James Crumbley, whose son killed four fellow students in a 2021 U.S. school shooting, criminally failed to heed warning signs about his son's instability, resulting in a foreseeable tragedy, prosecutors said in closing arguments on Wednesday at his manslaughter trial.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/lawyers-argue-whether-father-of-michigan-school-shooter-ignored-warning-signs/article_d28392d0-e287-11ee-ab82-0b7a9f2ed4f0.html">https://www.mvariety.com/news/national/lawyers-argue-whether-father-of-michigan-school-shooter-ignored-warning-signs/article_d28392d0-e287-11ee-ab82-0b7a9f2ed4f0.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/lawyers-argue-whether-father-of-michigan-school-shooter-ignored-warning-signs/article_d28392d0-e287-11ee-ab82-0b7a9f2ed4f0.html">Save to Pocket</a>
+</span>
+
+---
+
+## Three dead after 'likely' tornado rips through Indiana town, NBC says
+
+date: 2024-03-15, updated: 2024-03-15, from: Marianas Variety
+
+(Reuters) — At least three people were killed in possible tornadoes in the U.S. state of Indiana on Thursday, according to media reports, as violent storms ripped through the region, including neighboring Ohio.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/national/three-dead-after-likely-tornado-rips-through-indiana-town-nbc-says/article_9086e710-e287-11ee-8328-7fd7b9f21180.html">https://www.mvariety.com/news/national/three-dead-after-likely-tornado-rips-through-indiana-town-nbc-says/article_9086e710-e287-11ee-8328-7fd7b9f21180.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/national/three-dead-after-likely-tornado-rips-through-indiana-town-nbc-says/article_9086e710-e287-11ee-8328-7fd7b9f21180.html">Save to Pocket</a>
+</span>
+
+---
+
+## Thousands in Israel protest for hostages release, conscription of ultra-Orthodox
+
+date: 2024-03-15, updated: 2024-03-15, from: Marianas Variety
+
+TEL AVIV, Israel (Reuters) — Thousands in Israel took to the streets on Thursday in two separate protests, one demanding an immediate release of hostages from Gaza and another calling for drafting ultra-Orthodox Jewish men into the military.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/thousands-in-israel-protest-for-hostages-release-conscription-of-ultra-orthodox/article_8c639698-e286-11ee-b4ac-f32cbc0964de.html">https://www.mvariety.com/news/thousands-in-israel-protest-for-hostages-release-conscription-of-ultra-orthodox/article_8c639698-e286-11ee-b4ac-f32cbc0964de.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/thousands-in-israel-protest-for-hostages-release-conscription-of-ultra-orthodox/article_8c639698-e286-11ee-b4ac-f32cbc0964de.html">Save to Pocket</a>
+</span>
+
+---
+
+## Israeli strikes kill at least 29 Gazans awaiting aid, say Palestinian officials
+
+date: 2024-03-15, updated: 2024-03-15, from: Marianas Variety
+
+CAIRO (Reuters) — At least 29 Palestinians were killed while awaiting aid in two separate Israeli attacks in the Gaza Strip on Thursday, Gaza's health ministry said.
+
+<span class="feed-item-link">
+<a href="https://www.mvariety.com/news/israeli-strikes-kill-at-least-29-gazans-awaiting-aid-say-palestinian-officials/article_ce2d813e-e285-11ee-9e9b-2757a948c005.html">https://www.mvariety.com/news/israeli-strikes-kill-at-least-29-gazans-awaiting-aid-say-palestinian-officials/article_ce2d813e-e285-11ee-9e9b-2757a948c005.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.mvariety.com/news/israeli-strikes-kill-at-least-29-gazans-awaiting-aid-say-palestinian-officials/article_ce2d813e-e285-11ee-9e9b-2757a948c005.html">Save to Pocket</a>
+</span>
 
 ---
 

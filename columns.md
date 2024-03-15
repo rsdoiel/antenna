@@ -1,11 +1,38 @@
 ---
 title: columns 2024.11
-updated: 2024-03-14 19:56:12
+updated: 2024-03-15 08:44:40
 ---
 
 # columns 2024.11
 
-(date: 2024-03-14 19:56:12)
+(date: 2024-03-15 08:44:40)
+
+---
+
+## Improving C++
+
+date: 2024-03-15, updated: 2024-03-14, from: Bruce Schneier blog
+
+<p>C++ guru Herb Sutter <a href="https://herbsutter.com/2024/03/11/safety-in-context/">writes</a> about how we can improve the programming language for better security.</p>
+<blockquote><p>The immediate problem &#8220;is&#8221; that it’s Too Easy By Default™ to write security and safety vulnerabilities in C++ that would have been caught by stricter enforcement of known rules for <i>type, bounds, initialization</i>, and <i>lifetime</i> language safety.</p></blockquote>
+<p>His conclusion:</p>
+<blockquote><p>We need to improve software security and software safety across the industry, especially by improving programming language safety in C and C++, and in C++ a 98% improvement in the four most common problem areas is achievable in the medium term. But if we focus on programming language safety alone, we may find ourselves fighting yesterday’s war and missing larger past and future security dangers that affect software written in any language...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/03/improving-c.html">https://www.schneier.com/blog/archives/2024/03/improving-c.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/03/improving-c.html">Save to Pocket</a>
+</span>
+
+---
+
+## Who do you trust more with TikTok — China, or American billionaires? 
+
+date: 2024-03-15, from: Robert Reich's blog
+
+I don&#8217;t trust either. Congress needs a totally different approach to giant social media platforms.
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/who-do-you-trust-more-with-tiktok">https://robertreich.substack.com/p/who-do-you-trust-more-with-tiktok</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/who-do-you-trust-more-with-tiktok">Save to Pocket</a>
+</span>
 
 ---
 

@@ -1,11 +1,60 @@
 ---
 title: writing 2024.11
-updated: 2024-03-14 19:56:13
+updated: 2024-03-15 08:44:40
 ---
 
 # writing 2024.11
 
-(date: 2024-03-14 19:56:13)
+(date: 2024-03-15 08:44:40)
+
+---
+
+## Russell Letson Reviews House of Open Wounds by Adrian Tchaikovsky
+
+date: 2024-03-15, from: Locus Magazine
+
+<p><strong>House of Open Wounds</strong>, Adrian Tchaikovsky (Head of Zeus, 978-1035901388, $27.99, 585 pp, hc) December 2023. Cover by Joe Wilson.</p>
+<p>Adrian Tchaikovsky’s <strong>House of Open Wounds </strong>is a follow-on to <strong>The City of Last Chances </strong>that repeats many of the structural features of its predecessor: a large cast of viewpoint characters; ‘‘mosaic’’ chapters that provide authorial overviews and comments; a rambling story line that nevertheless draws the reader through  <a href="https://locusmag.com/2024/03/russell-letson-reviews-house-of-open-wounds-by-adrian-tchaikovsky/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/russell-letson-reviews-house-of-open-wounds-by-adrian-tchaikovsky/">https://locusmag.com/2024/03/russell-letson-reviews-house-of-open-wounds-by-adrian-tchaikovsky/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/russell-letson-reviews-house-of-open-wounds-by-adrian-tchaikovsky/">Save to Pocket</a>
+</span>
+
+---
+
+## How to Write a Short Story: 7 Elements to Always Remember
+
+date: 2024-03-15, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-write-a-short-story-7-elements-to-always-remember" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Arrival.jpg" alt="How to Write a Short Story: 7 Elements to Always Remember" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Short stories, sometimes called “flash fiction,” are incredibly popular right now. Call it a symptom of our busy lives or our limited ability to focus, but short stories can capture our imagination in a way no other narrative experience can. </span></p>
+
+<span class="feed-item-link">
+<a href="https://blog.finaldraft.com/how-to-write-a-short-story-7-elements-to-always-remember">https://blog.finaldraft.com/how-to-write-a-short-story-7-elements-to-always-remember</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.finaldraft.com/how-to-write-a-short-story-7-elements-to-always-remember">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 Nebula Awards Ballot
+
+date: 2024-03-15, from: Locus Magazine
+
+<p>The Science Fiction and Fantasy Writers Association (SFWA) has released the final ballot for the 2023 Nebula Awards.</p>
+<div class="mynomorebulletlist">
+<p><strong>Novel</strong></p>
+<ul>
+<li><b>The Saint of Bright Doors</b>, Vajra Chandrasekera (Tordotcom)</li>
+<li><b>The Water Outlaws</b>, S.L. Huang (Tordotcom; Solaris UK)</li>
+<li><b>Translation State</b>, Ann Leckie (Orbit US; Orbit UK)</li>
+<li><b>The Terraformers</b>, Annalee Newitz (Tor; Orbit UK)</li>
+<li><b>Shigidi and the Brass Head of Obalufon</b>, Wole Talabi (DAW; Gollancz)</li>
+<li><b>Witch King</b>, Martha </li></ul></div> <a href="https://locusmag.com/2024/03/2023-nebula-awards-ballot/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/2023-nebula-awards-ballot/">https://locusmag.com/2024/03/2023-nebula-awards-ballot/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/2023-nebula-awards-ballot/">Save to Pocket</a>
+</span>
 
 ---
 

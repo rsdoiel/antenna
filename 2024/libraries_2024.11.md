@@ -1,11 +1,25 @@
 ---
 title: libraries 2024.11
-updated: 2024-03-14 19:56:13
+updated: 2024-03-15 08:44:40
 ---
 
 # libraries 2024.11
 
-(date: 2024-03-14 19:56:13)
+(date: 2024-03-15 08:44:40)
+
+---
+
+## SSP’s Early Career Development Podcast Episode 17: Interview with Editor-in-Chief of Nature Magdalena Skipper
+
+date: 2024-03-15, from: Scholarly Kitchen
+
+<p>In this episode of SSP’s Early Career Development Podcast, hosts Meredith Adinolfi (Cell Press) and Sara Grimme (Digital Science) chat with Magdalena Skipper, Editor-in-Chief of Nature and the first woman to lead the journal.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/03/15/ssps-early-career-development-podcast-episode-17-interview-with-editor-in-chief-of-nature-magdalena-skipper/">SSP&#8217;s Early Career Development Podcast Episode 17: Interview with Editor-in-Chief of Nature Magdalena Skipper</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/03/15/ssps-early-career-development-podcast-episode-17-interview-with-editor-in-chief-of-nature-magdalena-skipper/">https://scholarlykitchen.sspnet.org/2024/03/15/ssps-early-career-development-podcast-episode-17-interview-with-editor-in-chief-of-nature-magdalena-skipper/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/03/15/ssps-early-career-development-podcast-episode-17-interview-with-editor-in-chief-of-nature-magdalena-skipper/">Save to Pocket</a>
+</span>
 
 ---
 
