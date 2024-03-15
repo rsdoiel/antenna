@@ -1,11 +1,119 @@
 ---
 title: games 2024.11
-updated: 2024-03-13 09:19:28
+updated: 2024-03-14 19:56:13
 ---
 
 # games 2024.11
 
-(date: 2024-03-13 09:19:28)
+(date: 2024-03-14 19:56:13)
+
+---
+
+## The Halo TV show making the humans the villains completely misses the point
+
+date: 2024-03-14, updated: 2024-03-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24101232/halo-tv-show-new-episode-covenant-review">https://www.polygon.com/24101232/halo-tv-show-new-episode-covenant-review</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24101232/halo-tv-show-new-episode-covenant-review">Save to Pocket</a>
+</span>
+
+---
+
+## This TikToker has the golden recipe for viral meme art: buff cartoon characters
+
+date: 2024-03-14, updated: 2024-03-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24100113/tiktok-meme-art-mew-buff-pixar-monsters-inc">https://www.polygon.com/24100113/tiktok-meme-art-mew-buff-pixar-monsters-inc</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24100113/tiktok-meme-art-mew-buff-pixar-monsters-inc">Save to Pocket</a>
+</span>
+
+---
+
+## The most-played Steam Deck games list is full of amazing time sinks
+
+date: 2024-03-14, updated: 2024-03-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24101163/steam-deck-100-most-played-games-2023-valve">https://www.polygon.com/24101163/steam-deck-100-most-played-games-2023-valve</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24101163/steam-deck-100-most-played-games-2023-valve">Save to Pocket</a>
+</span>
+
+---
+
+## GTA Online update for the week of March 14
+
+date: 2024-03-14, updated: 2024-03-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events">https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/gta-online-guides/24058597/gta-update-weekly-release-time-events">Save to Pocket</a>
+</span>
+
+---
+
+## Epic Games Store exclusives, including Alan Wake 2, are cheaper through March 26
+
+date: 2024-03-14, updated: 2024-03-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24100924/epic-games-store-alan-wake-2-spring-sale-2024-deal">https://www.polygon.com/24100924/epic-games-store-alan-wake-2-spring-sale-2024-deal</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24100924/epic-games-store-alan-wake-2-spring-sale-2024-deal">Save to Pocket</a>
+</span>
+
+---
+
+## EA is giving away The Sims 4’s backyard pack for free
+
+date: 2024-03-14, updated: 2024-03-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24101060/the-sims-4-backyard-stuff-pack-free">https://www.polygon.com/24101060/the-sims-4-backyard-stuff-pack-free</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24101060/the-sims-4-backyard-stuff-pack-free">Save to Pocket</a>
+</span>
+
+---
+
+## TikTok asks: What if Dune 2’s climactic fight was actually… a meet cute?
+
+date: 2024-03-14, updated: 2024-03-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/2024/3/14/24100729/dune-2-part-two-paul-atreides-feyd-rautha-harkonnen-final-fight">https://www.polygon.com/2024/3/14/24100729/dune-2-part-two-paul-atreides-feyd-rautha-harkonnen-final-fight</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/2024/3/14/24100729/dune-2-part-two-paul-atreides-feyd-rautha-harkonnen-final-fight">Save to Pocket</a>
+</span>
+
+---
+
+## Planets that are entirely a single biome, ranked
+
+date: 2024-03-14, updated: 2024-03-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24099643/dune-planets-star-wars-marvel">https://www.polygon.com/24099643/dune-planets-star-wars-marvel</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24099643/dune-planets-star-wars-marvel">Save to Pocket</a>
+</span>
+
+---
+
+## It’s time to upgrade your PS5, PC, or Steam Deck SSD. We’ve found the best deals
+
+date: 2024-03-14, updated: 2024-03-14, from: Polygon Website
+
+
+
+<span class="feed-item-link">
+<a href="https://www.polygon.com/24084875/best-ssd-deals-gaming-ps5-pc-steam-deck">https://www.polygon.com/24084875/best-ssd-deals-gaming-ps5-pc-steam-deck</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.polygon.com/24084875/best-ssd-deals-gaming-ps5-pc-steam-deck">Save to Pocket</a>
+</span>
 
 ---
 

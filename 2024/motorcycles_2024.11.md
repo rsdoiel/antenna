@@ -1,11 +1,251 @@
 ---
 title: motorcycles 2024.11
-updated: 2024-03-13 09:19:29
+updated: 2024-03-14 19:56:13
 ---
 
 # motorcycles 2024.11
 
-(date: 2024-03-13 09:19:29)
+(date: 2024-03-14 19:56:13)
+
+---
+
+## 2024 King of the Baggers Race Daytona Recap
+
+date: 2024-03-14, from: Cycle World News
+
+MotoAmerica’s King of the Baggers returns to the banking of Daytona for 2024 and is as impressive as ever. Kevin Cameron looks closely at the racing and the bikes.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-racing/king-of-the-baggers-race-daytona-recap-2024/">https://www.cycleworld.com/motorcycle-racing/king-of-the-baggers-race-daytona-recap-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-racing/king-of-the-baggers-race-daytona-recap-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## How Much Power Does the 2024 Honda Transalp Make?
+
+date: 2024-03-14, from: Cycle World News
+
+The 2024 Honda Transalp gets performance tested on the Cycle World Dynojet 250i dynamometer for peak horsepower.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/bikes/honda-transalp-dyno-test-2024/">https://www.cycleworld.com/bikes/honda-transalp-dyno-test-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/bikes/honda-transalp-dyno-test-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## 2025 Triumph Daytona 660 First Ride Review
+
+date: 2024-03-14, from: Cycle World News
+
+The middleweight sportbike market is in the midst of a revival, and for 2025, Triumph has jumped back in with its brand-new Daytona 660.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-reviews/triumph-daytona-660-first-ride-review/">https://www.cycleworld.com/motorcycle-reviews/triumph-daytona-660-first-ride-review/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-reviews/triumph-daytona-660-first-ride-review/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 ARCA West at Phoenix: Team Reactions, Analysis
+
+date: 2024-03-14, from: Kickin the Tires blog
+
+By Vincent Delforge, Special to Kickin&#8217; the Tires The first race of the 2024 season, the 71st season in history since the inception of the West Series in 1954, saw&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/nascar/2024-arca-west-phoenix-reaction-analysis/">https://kickinthetires.net/nascar/2024-arca-west-phoenix-reaction-analysis/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/nascar/2024-arca-west-phoenix-reaction-analysis/">Save to Pocket</a>
+</span>
+
+---
+
+## World Ducati Week 2024
+
+date: 2024-03-14, from: Cycle World News
+
+Countdown begins for the 12th edition of the event, symbolizing the passion for Ducati in the world, which will be held from 26 to 28 July 2024.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/world-ducati-week-2024/">https://www.cycleworld.com/the-wire/world-ducati-week-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/world-ducati-week-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Stark Future Challenges FIM Over MXGP's Electric Segregation
+
+date: 2024-03-14, from: Ride Apart, Electric Motorcycle News
+
+The bikes may be quiet, but the team definitely isn't afraid to make some noise.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/712474/stark-future-challenges-fim-mxgp/">https://www.rideapart.com/news/712474/stark-future-challenges-fim-mxgp/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/712474/stark-future-challenges-fim-mxgp/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Harley-Davidson Street Glide Buyer’s Guide
+
+date: 2024-03-14, from: Cycle World News
+
+The 2024 Street Glide hits the road with a more powerful engine, new looks, tons of of-the-moment tech, and a new infotainment system.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/harley-davidson/street-glide/">https://www.cycleworld.com/harley-davidson/street-glide/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/harley-davidson/street-glide/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Harley-Davidson Road Glide Buyer’s Guide
+
+date: 2024-03-14, from: Cycle World News
+
+Modernized styling, a more powerful engine, and the adoption of high-tech rider aids bring the 2024 Harley-Davidson Road Glide bang up to date.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/harley-davidson/road-glide/">https://www.cycleworld.com/harley-davidson/road-glide/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/harley-davidson/road-glide/">Save to Pocket</a>
+</span>
+
+---
+
+## Yamaha Outdoor Access Initiative Grants Exceed $1 Million in 2023
+
+date: 2024-03-14, from: Cycle World News
+
+Yamaha Motor Corp., USA, is proud to announce the Yamaha Outdoor Access Initiative (OAI) contributed over $1 million in grant awards in 2023.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/yamaha-outdoor-access-initiative-grants-exceed-one-million-in-2023/">https://www.cycleworld.com/the-wire/yamaha-outdoor-access-initiative-grants-exceed-one-million-in-2023/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/yamaha-outdoor-access-initiative-grants-exceed-one-million-in-2023/">Save to Pocket</a>
+</span>
+
+---
+
+## BMW Gimbal-Mounted Headlight
+
+date: 2024-03-14, from: Cycle World News
+
+BMW is a leader in sophisticated headlight designs and applies them to its motorcycles. Now it is working on a gimbal-mounted design that also utilizes a camera.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-news/bmw-gimbal-mounted-headlight/">https://www.cycleworld.com/motorcycle-news/bmw-gimbal-mounted-headlight/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-news/bmw-gimbal-mounted-headlight/">Save to Pocket</a>
+</span>
+
+---
+
+## Recall: 2022-2024 Triumph Speed Triple RS And RR Could Have Engine Overheat
+
+date: 2024-03-14, from: Ride Apart, Electric Motorcycle News
+
+The good news is, an engine retune should solve the issue according to Triumph.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/712154/triumph-speed-triple-safety-recall/">https://www.rideapart.com/news/712154/triumph-speed-triple-safety-recall/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/712154/triumph-speed-triple-safety-recall/">Save to Pocket</a>
+</span>
+
+---
+
+## Is There Anything He Can't Do? Brabec Does The Double At 2024 Mint 400
+
+date: 2024-03-14, from: Ride Apart, Electric Motorcycle News
+
+You'd think two Dakar Rally wins would be enough for anyone, but then you'd be wrong.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/712281/ricky-brabec-mint-400-2024/">https://www.rideapart.com/news/712281/ricky-brabec-mint-400-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/712281/ricky-brabec-mint-400-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Watch This Mustang Sketchily Ratchet-Strap Tow a Motorcycle
+
+date: 2024-03-14, from: Ride Apart, Electric Motorcycle News
+
+Yeah, this OSHA might have a few complaints...
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/712314/mustang-towing-motorcycle-ratchet-strap/">https://www.rideapart.com/news/712314/mustang-towing-motorcycle-ratchet-strap/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/712314/mustang-towing-motorcycle-ratchet-strap/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Honda XR650L
+
+date: 2024-03-13, from: Cycle World News
+
+Honda’s carbureted, air-cooled thumper is a timeless interpretation of dual-purpose utility. Its simplicity and durability are the upsides of anachronism.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/honda/xr650l/">https://www.cycleworld.com/honda/xr650l/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/honda/xr650l/">Save to Pocket</a>
+</span>
+
+---
+
+## KTM's 2024 RC 8C Is More Expensive and Exclusive Than Ever
+
+date: 2024-03-13, from: Ride Apart, Electric Motorcycle News
+
+There'll only be 100 hand-built units, so if you want one, you'd better have your debit card and a hefty balance ready to go.
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/712301/ktm-rc-8c-limited-edition-2024/">https://www.rideapart.com/news/712301/ktm-rc-8c-limited-edition-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/712301/ktm-rc-8c-limited-edition-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## BMW Motorrad Motorsport Sets Course for Strategic Realignment
+
+date: 2024-03-13, from: Cycle World News
+
+With a new management structure, BMW Motorrad emphasizes its ambitions to significantly strengthen the brand's commitment to motorsport.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/bmw-motorrad-motorsport-sets-course-for-strategic-realignment/">https://www.cycleworld.com/the-wire/bmw-motorrad-motorsport-sets-course-for-strategic-realignment/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/bmw-motorrad-motorsport-sets-course-for-strategic-realignment/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 MotoGP Losail Report
+
+date: 2024-03-13, from: Cycle World News
+
+The first MotoGP weekend is now behind us with a win in the sprint by Jorge Martín and a win in GP by Francesco Bagnaia. What were the keys to the races?
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/motorcycle-racing/losail-motogp-race-report-2024/">https://www.cycleworld.com/motorcycle-racing/losail-motogp-race-report-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/motorcycle-racing/losail-motogp-race-report-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Stark Future Challenges MXGP Proposal for Segregated Electric Support Class
+
+date: 2024-03-13, from: Cycle World News
+
+Stark Future would like to offer its take on the recent Press Conference held at VILLA LA ANGOSTURA on 8th March 2024, during the first MXGP event of the season.
+
+<span class="feed-item-link">
+<a href="https://www.cycleworld.com/the-wire/stark-future-challenges-mxgp-proposal-for-segregated-electric-support-class/">https://www.cycleworld.com/the-wire/stark-future-challenges-mxgp-proposal-for-segregated-electric-support-class/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.cycleworld.com/the-wire/stark-future-challenges-mxgp-proposal-for-segregated-electric-support-class/">Save to Pocket</a>
+</span>
+
+---
+
+## Try Out The New Arctic Cat Catalyst Snowmobiles on Its Demo Tour
+
+date: 2024-03-13, from: Ride Apart, Electric Motorcycle News
+
+Arctic Cat is showcasing its newest models in a location near you. 
+
+<span class="feed-item-link">
+<a href="https://www.rideapart.com/news/711858/arctic-cat-demo-tour-2024/">https://www.rideapart.com/news/711858/arctic-cat-demo-tour-2024/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.rideapart.com/news/711858/arctic-cat-demo-tour-2024/">Save to Pocket</a>
+</span>
+
+---
+
+## Malik Ray Finally Earns ‘Sensational’ First Career eNASCAR Win
+
+date: 2024-03-13, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor The realism of iRacing’s Motorsports Simulation was on full display once again as the eNASCAR Coca-Cola iRacing Series mimicked the historic three-wide photo finish at&#8230; 
+
+<span class="feed-item-link">
+<a href="https://kickinthetires.net/esports/ray-earns-sensational-first-enascar-win/">https://kickinthetires.net/esports/ray-earns-sensational-first-enascar-win/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://kickinthetires.net/esports/ray-earns-sensational-first-enascar-win/">Save to Pocket</a>
+</span>
 
 ---
 

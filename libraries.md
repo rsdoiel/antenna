@@ -1,11 +1,11 @@
 ---
 title: libraries 2024.11
-updated: 2024-03-13 09:19:28
+updated: 2024-03-14 19:56:13
 ---
 
 # libraries 2024.11
 
-(date: 2024-03-13 09:19:28)
+(date: 2024-03-14 19:56:13)
 
 ---
 
@@ -29,6 +29,58 @@ Mayer, Jakob; Süsser, Diana; Pickering, Bryn; Bachner, Gabriel; Sanvito, France
 
 <span class="feed-item-link">
 <a href="http://hdl.handle.net/20.500.11850/659857">http://hdl.handle.net/20.500.11850/659857</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://hdl.handle.net/20.500.11850/659857">Save to Pocket</a>
+</span>
+
+---
+
+## Day in Review (March 13–14)
+
+date: 2024-03-14, from: Association of Research Libraries News
+
+<p>Last Updated on March 14, 2024, 2:51 pm ET Sign up to receive the Day in Review by email. Jump to: Thursday, March 14 Wednesday, March 13 Top o’ the...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-13-14/">Day in Review (March 13–14)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://www.arl.org/day-in-review/day-in-review-march-13-14/">https://www.arl.org/day-in-review/day-in-review-march-13-14/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.arl.org/day-in-review/day-in-review-march-13-14/">Save to Pocket</a>
+</span>
+
+---
+
+## Guest Post — Navigating the Drift: Persistence Challenges in the Digital Scientific Record and the Promise of dPIDs
+
+date: 2024-03-14, from: Scholarly Kitchen
+
+<p>The internet was not designed to provide a permanent digital record of scientific research. This post looks at current approaches to addressing the shortcomings of the existing Internet technology, identify remaining bottlenecks, and suggest how they could be resolved. Upgrades to the backbone of the scientific record could go a long way toward addressing the replication crisis and the increasing challenges for publishers to spot fake research. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/03/14/guest-post-navigating-the-drift-persistence-challenges-in-the-digital-scientific-record-and-the-promise-of-dpids/">Guest Post &#8212; Navigating the Drift: Persistence Challenges in the Digital Scientific Record and the Promise of dPIDs</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+
+
+<span class="feed-item-link">
+<a href="https://scholarlykitchen.sspnet.org/2024/03/14/guest-post-navigating-the-drift-persistence-challenges-in-the-digital-scientific-record-and-the-promise-of-dpids/">https://scholarlykitchen.sspnet.org/2024/03/14/guest-post-navigating-the-drift-persistence-challenges-in-the-digital-scientific-record-and-the-promise-of-dpids/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://scholarlykitchen.sspnet.org/2024/03/14/guest-post-navigating-the-drift-persistence-challenges-in-the-digital-scientific-record-and-the-promise-of-dpids/">Save to Pocket</a>
+</span>
+
+---
+
+## Mark Rutherford’s Deliverance, by Mark Rutherford
+
+date: 2024-03-14, from: Standard Ebooks, new releaases
+
+A man struggles to makes sense of his experiences in his hard-pressed London life.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/mark-rutherford/mark-rutherfords-deliverance">https://standardebooks.org/ebooks/mark-rutherford/mark-rutherfords-deliverance</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/mark-rutherford/mark-rutherfords-deliverance">Save to Pocket</a>
+</span>
+
+---
+
+## The Law of the Four Just Men, by Edgar Wallace
+
+date: 2024-03-14, from: Standard Ebooks, new releaases
+
+A group of wealthy vigilantes continue their quest to bring justice to those criminals beyond the reach of conventional law.
+
+<span class="feed-item-link">
+<a href="https://standardebooks.org/ebooks/edgar-wallace/the-law-of-the-four-just-men">https://standardebooks.org/ebooks/edgar-wallace/the-law-of-the-four-just-men</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://standardebooks.org/ebooks/edgar-wallace/the-law-of-the-four-just-men">Save to Pocket</a>
 </span>
 
 ---

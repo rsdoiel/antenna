@@ -1,11 +1,192 @@
 ---
 title: columns 2024.11
-updated: 2024-03-13 09:19:28
+updated: 2024-03-14 19:56:12
 ---
 
 # columns 2024.11
 
-(date: 2024-03-13 09:19:28)
+(date: 2024-03-14 19:56:12)
+
+---
+
+## Friday 15 March, 2024
+
+date: 2024-03-15, from: John Naughton's online diary
+
+And the mural of the story is… Brignoles, France. Quote of the Day “Raw data is an oxymoron.” Lisa Gitelman Simple and profound truth that is rarely understood in contemporary discourses. All data collection is the product of human choices &#8230; <a href="https://memex.naughtons.org/friday-15-march-2024/39242/">Continue reading <span class="meta-nav">&#8594;</span></a>
+
+<span class="feed-item-link">
+<a href="https://memex.naughtons.org/friday-15-march-2024/39242/">https://memex.naughtons.org/friday-15-march-2024/39242/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://memex.naughtons.org/friday-15-march-2024/39242/">Save to Pocket</a>
+</span>
+
+---
+
+## ’Objectified’ Turns 15, Streaming Free Through March 17
+
+date: 2024-03-14, updated: 2024-03-14, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.ohyouprettythings.com/free">https://www.ohyouprettythings.com/free</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.ohyouprettythings.com/free">Save to Pocket</a>
+</span>
+
+---
+
+## Masimo Proves New Apple Watch Series 9 Units Still Have the Blood Oxygen Sensor
+
+date: 2024-03-14, updated: 2024-03-14, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://ipfray.com/exclusive-if-you-recently-bought-an-apple-watch-in-the-u-s-youll-likely-get-pulse-oximetry-for-free-provided-that-apples-appeal-succeeds/">https://ipfray.com/exclusive-if-you-recently-bought-an-apple-watch-in-the-u-s-youll-likely-get-pulse-oximetry-for-free-provided-that-apples-appeal-succeeds/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://ipfray.com/exclusive-if-you-recently-bought-an-apple-watch-in-the-u-s-youll-likely-get-pulse-oximetry-for-free-provided-that-apples-appeal-succeeds/">Save to Pocket</a>
+</span>
+
+---
+
+## Speedometer 3.0 Browser Benchmark
+
+date: 2024-03-14, updated: 2024-03-14, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://webkit.org/blog/15131/speedometer-3-0-the-best-way-yet-to-measure-browser-performance/">https://webkit.org/blog/15131/speedometer-3-0-the-best-way-yet-to-measure-browser-performance/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://webkit.org/blog/15131/speedometer-3-0-the-best-way-yet-to-measure-browser-performance/">Save to Pocket</a>
+</span>
+
+---
+
+## Automakers Are Sharing Driver Data with Insurers without Consent
+
+date: 2024-03-14, updated: 2024-03-12, from: Bruce Schneier blog
+
+<p>Kasmir Hill has the <a href="https://www.nytimes.com/2024/03/11/technology/carmakers-driver-tracking-insurance.html?unlocked_article_code=1.b00.WNY6.1fEAGvGKLlWF&#038;smid=url-share&#038;utm_source=substack&#038;utm_medium=email">story</a>:</p>
+<blockquote><p>Modern cars are internet-enabled, allowing access to services like navigation, roadside assistance and car apps that drivers can connect to their vehicles to locate them or unlock them remotely. In recent years, automakers, including G.M., Honda, Kia and Hyundai, have started offering optional features in their connected-car apps that rate people&#8217;s driving. Some drivers may not realize that, if they turn on these features, the car companies then give information about how they drive to data brokers like LexisNexis [who then sell it to insurance companies]...</p></blockquote>
+
+<span class="feed-item-link">
+<a href="https://www.schneier.com/blog/archives/2024/03/automakers-are-sharing-driver-data-with-insurers-without-consent.html">https://www.schneier.com/blog/archives/2024/03/automakers-are-sharing-driver-data-with-insurers-without-consent.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.schneier.com/blog/archives/2024/03/automakers-are-sharing-driver-data-with-insurers-without-consent.html">Save to Pocket</a>
+</span>
+
+---
+
+## Seriously, again, how dumb is Trump?
+
+date: 2024-03-14, from: Robert Reich's blog
+
+And why has his extraordinary stupidity fallen off the radar during his third run for the presidency?
+
+<span class="feed-item-link">
+<a href="https://robertreich.substack.com/p/seriously-how-dumb-is-trump">https://robertreich.substack.com/p/seriously-how-dumb-is-trump</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://robertreich.substack.com/p/seriously-how-dumb-is-trump">Save to Pocket</a>
+</span>
+
+---
+
+## ★ Apple Adjusts DMA Plan to Offer Direct Downloading of Apps From the Web (With a Big Asterisk), Custom Link-Out Screens, and Marketplaces Solely for the Distribution of a Developer’s Own Apps
+
+date: 2024-03-14, updated: 2024-03-15, from: Daring Fireball
+
+I suspect Apple was ready to go from the start with web downloads — they knew the EC *might* demand it — and so they opened their hand January 25 with the compliance plan they hoped would fly, and are ratcheting out, piecemeal, with additional changes in the direction of more openness, as they obtain feedback — both from developers, and whatever EC back channels they may have.
+
+<span class="feed-item-link">
+<a href="https://daringfireball.net/2024/03/apple_adjusts_dma_plan">https://daringfireball.net/2024/03/apple_adjusts_dma_plan</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://daringfireball.net/2024/03/apple_adjusts_dma_plan">Save to Pocket</a>
+</span>
+
+---
+
+## House Passes Bill That Requires ByteDance to Sell TikTok or Face Ban in the U.S.
+
+date: 2024-03-14, updated: 2024-03-14, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.washingtonpost.com/technology/2024/03/13/tiktok-ban-passes-house-vote/">https://www.washingtonpost.com/technology/2024/03/13/tiktok-ban-passes-house-vote/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.washingtonpost.com/technology/2024/03/13/tiktok-ban-passes-house-vote/">Save to Pocket</a>
+</span>
+
+---
+
+## The DMA Has Crippled Google Search in the EU
+
+date: 2024-03-14, updated: 2024-03-14, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://blog.google/around-the-globe/google-europe/an-update-on-our-preparations-for-the-dma/">https://blog.google/around-the-globe/google-europe/an-update-on-our-preparations-for-the-dma/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.google/around-the-globe/google-europe/an-update-on-our-preparations-for-the-dma/">Save to Pocket</a>
+</span>
+
+---
+
+## Google’s EU Choice Screens for Android, for Default Browser and Default Search Within Chrome, Only Show Up on New Devices
+
+date: 2024-03-14, updated: 2024-03-14, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.android.com/choicescreen/dma/">https://www.android.com/choicescreen/dma/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.android.com/choicescreen/dma/">Save to Pocket</a>
+</span>
+
+---
+
+## Dissension in the GOP Ranks
+
+date: 2024-03-13, from: Dan Rather's Steady
+
+And it&#8217;s bad news for Boebert
+
+<span class="feed-item-link">
+<a href="https://steady.substack.com/p/dissension-in-the-gop-ranks">https://steady.substack.com/p/dissension-in-the-gop-ranks</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://steady.substack.com/p/dissension-in-the-gop-ranks">Save to Pocket</a>
+</span>
+
+---
+
+## Over 15,000 Hacked Roku Accounts Sold for 50 Cents Apiece
+
+date: 2024-03-13, updated: 2024-03-13, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.bleepingcomputer.com/news/security/over-15-000-hacked-roku-accounts-sold-for-50-each-to-buy-hardware/#google_vignette">https://www.bleepingcomputer.com/news/security/over-15-000-hacked-roku-accounts-sold-for-50-each-to-buy-hardware/#google_vignette</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.bleepingcomputer.com/news/security/over-15-000-hacked-roku-accounts-sold-for-50-each-to-buy-hardware/#google_vignette">Save to Pocket</a>
+</span>
+
+---
+
+## Don Lemon Is Shocked — Shocked — That the Face-Eating Leopard Ate His Face
+
+date: 2024-03-13, updated: 2024-03-13, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.threads.net/@karaswisher/post/C4djaMXOcQk">https://www.threads.net/@karaswisher/post/C4djaMXOcQk</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.threads.net/@karaswisher/post/C4djaMXOcQk">Save to Pocket</a>
+</span>
+
+---
+
+## Help Sarah Perez
+
+date: 2024-03-13, updated: 2024-03-13, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://www.gofundme.com/f/yd78gx-sarah-and-josie-need-our-help">https://www.gofundme.com/f/yd78gx-sarah-and-josie-need-our-help</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.gofundme.com/f/yd78gx-sarah-and-josie-need-our-help">Save to Pocket</a>
+</span>
+
+---
+
+## iPulse for iOS
+
+date: 2024-03-13, updated: 2024-03-14, from: Daring Fireball
+
+
+
+<span class="feed-item-link">
+<a href="https://blog.iconfactory.com/2024/03/22-years-later/">https://blog.iconfactory.com/2024/03/22-years-later/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://blog.iconfactory.com/2024/03/22-years-later/">Save to Pocket</a>
+</span>
 
 ---
 
@@ -122,7 +303,7 @@ date: 2024-03-12, updated: 2024-03-12, from: Daring Fireball
 
 date: 2024-03-12, from: David Rosenthal's blog
 
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3o4iVw3a7KlNcltB3flBGEvE7aybYm5G6liubjeBThYpeFQh7gAwCAy1M5MD9Tm6pECxVVJxc35y6hkknOa4YkEiWliSpcJgVMDNxdFjB7DnubN4hsnH3cwDguYF1TGajAownfksnJUvcPUknMRMVUL3mpTNkl8djjvtMBvJxbdW94PDVD3aa1AgYKXKp/s218/Sabine.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="218" data-original-width="214" height="218" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3o4iVw3a7KlNcltB3flBGEvE7aybYm5G6liubjeBThYpeFQh7gAwCAy1M5MD9Tm6pECxVVJxc35y6hkknOa4YkEiWliSpcJgVMDNxdFjB7DnubN4hsnH3cwDguYF1TGajAownfksnJUvcPUknMRMVUL3mpTNkl8djjvtMBvJxbdW94PDVD3aa1AgYKXKp/s1600/Sabine.png" width="214" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.youtube.com/watch?v=6a_yxsJuOMY">Source</a></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3o4iVw3a7KlNcltB3flBGEvE7aybYm5G6liubjeBThYpeFQh7gAwCAy1M5MD9Tm6pECxVVJxc35y6hkknOa4YkEiWliSpcJgVMDNxdFjB7DnubN4hsnH3cwDguYF1TGajAownfksnJUvcPUknMRMVUL3mpTNkl8djjvtMBvJxbdW94PDVD3aa1AgYKXKp/s218/Sabine.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="218" data-original-width="214" height="218" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3o4iVw3a7KlNcltB3flBGEvE7aybYm5G6liubjeBThYpeFQh7gAwCAy1M5MD9Tm6pECxVVJxc35y6hkknOa4YkEiWliSpcJgVMDNxdFjB7DnubN4hsnH3cwDguYF1TGajAownfksnJUvcPUknMRMVUL3mpTNkl8djjvtMBvJxbdW94PDVD3aa1AgYKXKp/s1600/Sabine.png" width="214" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.youtube.com/watch?v=6a_yxsJuOMY">Source</a></td></tr></tbody></table>
 <a href="https://www.youtube.com/watch?v=6a_yxsJuOMY"></a><a>Sabine Hossenfelder</a> does the <a href="https://blog.dshr.org/search?q=Pangloss&amp;max-results=20&amp;by-date=true">good Dr. Pangloss</a> proud in her report on <a href="https://doi.org/10.1038/s41586-023-06980-y"><i>A 3D nanoscale optical disk memory with petabit capacity</i></a> by Miao Zhao <i>et al</i>. Their abstract claims that:<br />
 <blockquote>
 we increase the capacity of [optical data storage] to the petabit level by extending the planar recording architecture to three dimensions with hundreds of layers, meanwhile breaking the optical diffraction limit barrier of the recorded spots. We develop an optical recording medium based on a photoresist film doped with aggregation-induced emission dye, which can be optically stimulated by femtosecond laser beams. This film is highly transparent and uniform, and the aggregation-induced emission phenomenon provides the storage mechanism. It can also be inhibited by another deactivating beam, resulting in a recording spot with a super-resolution scale. This technology makes it possible to achieve exabit-level storage by stacking nanoscale disks into arrays, which is essential in big data centres with limited space.
@@ -139,19 +320,19 @@ The capacity of a single 3D nanoscale disk is approximately equivalent to that o
 </blockquote>
 A decade ago, <a href="https://blog.dshr.org/2014/09/more-on-facebooks-cold-storage.html">Facebook's Blu-ray library</a> put 10,000 100GB disks in a single rack for 1 Peta<i>byte</i> or 8 Peta<i>bit</i> capacity.  This is 5 times as much as the authors' claim for a single disk. The caption's claim of 15.2Pb for the DA-BH7010 is 9.5 times their claim of the capacity of a single disk. Note also that they compare the volume of a single disk to the volume of complete read-write systems, which is comparing apples to oranges. I guess if your meaning of "approximately" is "within an order of magnitude" that makes sense.<br />
 <br />
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOgGwOj5l65aHujHZwqZQLXZL9Xga03LgxVCKNk-ZJo0DAjuIBqKq-xQdHRZmqmy0Gmio2x_52R9nasszMtoARyRfhsVC0OJYmQxdnywxwmzlVZqT1gYEc5-5XGWo7XBm5NKc-ZepisikV_fOOqPgZceKmRc9b0ibPGIGxZsQIx5A-vMrCUwRs_Iu_evoS/s902/TriStateTransitions.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="299" data-original-width="902" height="66" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOgGwOj5l65aHujHZwqZQLXZL9Xga03LgxVCKNk-ZJo0DAjuIBqKq-xQdHRZmqmy0Gmio2x_52R9nasszMtoARyRfhsVC0OJYmQxdnywxwmzlVZqT1gYEc5-5XGWo7XBm5NKc-ZepisikV_fOOqPgZceKmRc9b0ibPGIGxZsQIx5A-vMrCUwRs_Iu_evoS/w200-h66/TriStateTransitions.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://doi.org/10.1038/s41586-023-06980-y">Figure 3a</a></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOgGwOj5l65aHujHZwqZQLXZL9Xga03LgxVCKNk-ZJo0DAjuIBqKq-xQdHRZmqmy0Gmio2x_52R9nasszMtoARyRfhsVC0OJYmQxdnywxwmzlVZqT1gYEc5-5XGWo7XBm5NKc-ZepisikV_fOOqPgZceKmRc9b0ibPGIGxZsQIx5A-vMrCUwRs_Iu_evoS/s902/TriStateTransitions.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="299" data-original-width="902" height="66" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOgGwOj5l65aHujHZwqZQLXZL9Xga03LgxVCKNk-ZJo0DAjuIBqKq-xQdHRZmqmy0Gmio2x_52R9nasszMtoARyRfhsVC0OJYmQxdnywxwmzlVZqT1gYEc5-5XGWo7XBm5NKc-ZepisikV_fOOqPgZceKmRc9b0ibPGIGxZsQIx5A-vMrCUwRs_Iu_evoS/w200-h66/TriStateTransitions.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://doi.org/10.1038/s41586-023-06980-y">Figure 3a</a></td></tr></tbody></table>
 The recording material on the disk has three states, as shown in the <a href="https://doi.org/10.1038/s41586-023-06980-y">schematic Figure 3a</a>:<br />
 <blockquote>
 The transition from the second to the third state is initiated by the 515-nm femtosecond Gaussian-shaped laser beam and deactivated by the 639-nm CW doughnut-shaped laser beam.
 </blockquote>
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Pmz-P1BpAGdZJbm6t00W-evELOTYIC-Rg7hhMZ3UjnjJt5lJPNaGGpuHUjs6bvre7W1nfyiBw7gVakV94FEXZ_MGs8EBIOh3mfoZjmfIvfyWxfelj9_5qNxgLB9JM43EGZgEVJnm4NkJ9Eu72uE331UgImZirla6m6-CJ_BRevysZXLYr1Ue0yuZgd0x/s500/EmissionSpectra.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="305" data-original-width="500" height="122" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Pmz-P1BpAGdZJbm6t00W-evELOTYIC-Rg7hhMZ3UjnjJt5lJPNaGGpuHUjs6bvre7W1nfyiBw7gVakV94FEXZ_MGs8EBIOh3mfoZjmfIvfyWxfelj9_5qNxgLB9JM43EGZgEVJnm4NkJ9Eu72uE331UgImZirla6m6-CJ_BRevysZXLYr1Ue0yuZgd0x/w200-h122/EmissionSpectra.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://doi.org/10.1038/s41586-023-06980-y">Figure 3c</a></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Pmz-P1BpAGdZJbm6t00W-evELOTYIC-Rg7hhMZ3UjnjJt5lJPNaGGpuHUjs6bvre7W1nfyiBw7gVakV94FEXZ_MGs8EBIOh3mfoZjmfIvfyWxfelj9_5qNxgLB9JM43EGZgEVJnm4NkJ9Eu72uE331UgImZirla6m6-CJ_BRevysZXLYr1Ue0yuZgd0x/s500/EmissionSpectra.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="305" data-original-width="500" height="122" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-Pmz-P1BpAGdZJbm6t00W-evELOTYIC-Rg7hhMZ3UjnjJt5lJPNaGGpuHUjs6bvre7W1nfyiBw7gVakV94FEXZ_MGs8EBIOh3mfoZjmfIvfyWxfelj9_5qNxgLB9JM43EGZgEVJnm4NkJ9Eu72uE331UgImZirla6m6-CJ_BRevysZXLYr1Ue0yuZgd0x/w200-h122/EmissionSpectra.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://doi.org/10.1038/s41586-023-06980-y">Figure 3c</a></td></tr></tbody></table>
 I assume that because this transition involves polymerization it is irreversible, making the media write-once. Comparing the dark blue line (second state) with the yellow and pink lines (third state) in Figure 3c shows that the second and third states are readily distinguishable by their <a href="https://doi.org/10.1038/s41586-023-06980-y">emissions when illuminated by &gt;1mw 480nm</a>.<br />
 <br />
 There are a number of reasons to be less enthusiastic about the potential of this technology than Hossenfelder. It is true that they have demonstrated the ability to read and write petabit-scale data on a CD-sized medium. To do the reading they use two lasers, a 480nm pulsed and a 592nm continuous laser. To do the writing they used two lasers, a 515nm <a href="https://en.wikipedia.org/wiki/Mode_locking">femtosecond laser</a> and a 639nm continuous-wave laser. I haven't been able to find a price for a 515nm femtosecond laser, but <a href="https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=14348">here</a> is a 1550nm femtosecond laser for $48,880. The femtosecond laser they actually (<a href="https://www.acculasers.com/en/product/fs_lasers/">Acculasers ACL-AFS-515-CUS</a>) used is a substantial box with fans and an AC power input.<br />
 <br />
 The authors make claims of the density of the <i>medium</i> but not of the <i>system</i>. Clearly, current femtosecond lasers are too expensive and too large to use in equivalents of the decade-old <a href="https://blog.dshr.org/2014/09/more-on-facebooks-cold-storage.html">Facebook Blu-Ray technology</a>. Something like Microsoft Research's system that uses femtosecond lasers to write in Silica allows the cost of the lasers to be amortized over an entire data-center aisle of media. If you are going to build something like this, there is no reason to use the CD form factor.<br />
 <br />
-The repetition rate of the femtosecond laser was 42MHz. I believe it writes one bit per pulse, so the write bandwidth is limited to around 5MB/sec, meaning that writing an entire disk would take around 10.5 hours. A system using this technology would be write-once, and have a long read latency while the robot fetched the needed disk. It would thus only be suitable for the niche archival market, and in this market the slow write rate would require many drives writing in parallel. This all makes this claim by the authors <a href="https://doi.org/10.1038/s41586-023-06980-y">somewhat hyperbolic</a>:<br />
+The repetition rate of the femtosecond laser was 42MHz. I believe it writes one bit per pulse, so the write bandwidth is limited to around 5MB/sec, meaning that writing an entire disk would take around <strike>10.5</strike> 10,000 hours. A system using this technology would be write-once, and have a long read latency while the robot fetched the needed disk. It would thus only be suitable for the niche archival market, and in this market the slow write rate would require many drives writing in parallel. This all makes this claim by the authors <a href="https://doi.org/10.1038/s41586-023-06980-y">somewhat hyperbolic</a>:<br />
 <blockquote>
 the development of next-generation industry-oriented nanoscale ODS that is much less expensive than state-of-the-art optical disk libraries and HDD data arrays will fulfil the vast data storage requirements of the big-data era.
 </blockquote>
@@ -208,7 +389,7 @@ The art of the deal
 
 ## ★ Once More Unto the Apple / Epic / European-Commission Breach, Dear Friends, Once More
 
-date: 2024-03-12, updated: 2024-03-12, from: Daring Fireball
+date: 2024-03-12, updated: 2024-03-13, from: Daring Fireball
 
 Although Apple as an institution granted, revoked, and under public pressure reinstated Epic’s new account, from the perspective of Apple leadership, they only revoked a new account that had been created through an automated system — not for criticism, per se, but for the same reason Epic’s Fortnite developer account remains revoked and Fortnite remains unavailable on Apple platforms worldwide: for the 2020 Fortnite IAP Trojan horse stunt.
 
@@ -232,7 +413,7 @@ date: 2024-03-12, updated: 2024-03-12, from: Daring Fireball
 
 ## Steven Spielberg, FineWoven Case Owner, Photographs His Hamburger at an Oscars Party Using an iPhone 15 Pro
 
-date: 2024-03-12, updated: 2024-03-12, from: Daring Fireball
+date: 2024-03-12, updated: 2024-03-13, from: Daring Fireball
 
 
 

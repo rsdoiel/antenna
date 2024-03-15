@@ -1,11 +1,263 @@
 ---
 title: writing 2024.11
-updated: 2024-03-13 09:19:28
+updated: 2024-03-14 19:56:13
 ---
 
 # writing 2024.11
 
-(date: 2024-03-13 09:19:28)
+(date: 2024-03-14 19:56:13)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-03-15, from: Neil Gaiman @ BlueSky)
+
+I'm glad.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knp6rwuvnc2u">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knp6rwuvnc2u</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knp6rwuvnc2u">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Dublin Literary Award Longlist
+
+date: 2024-03-14, from: Locus Magazine
+
+<p>The 70-title longlist for the Dublin Literary Awards has been announced. Titles and authors of genre interest include:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Chain-Gang All-Stars</strong>, Nana Kwame Adjei-Brenyah (Pantheon)</li>
+<li><strong>Limberlost</strong>, Robbie Arnott (Atlantic)</li>
+<li><strong>The Crane Husband</strong>, Kelly Barnhill (Tordotcom)</li>
+<li><b>The House of Fortune</b>, Jessie Burton (Bloomsbury)</li>
+<li><b>Solenoid</b>, Mircea Cărtărescu (Deep Vellum)</li>
+<li><strong>Birnam Wood</strong>, Eleanor Catton (Farrar, Straus, Giroux)</li>
+<li><strong>The Axeman&#8217;s Carnival</strong>, Catherine Chidgey (Te Herenga Waka University Press)</li></ul></div> <a href="https://locusmag.com/2024/03/2024-dublin-literary-award-longlist/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/2024-dublin-literary-award-longlist/">https://locusmag.com/2024/03/2024-dublin-literary-award-longlist/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/2024-dublin-literary-award-longlist/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-03-14, from: Neil Gaiman @ BlueSky)
+
+I like that there were things people could afford.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knoq44a74s2h">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knoq44a74s2h</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knoq44a74s2h">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-03-14, from: Neil Gaiman @ BlueSky)
+
+What a day!
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knoppzapnc2f">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knoppzapnc2f</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knoppzapnc2f">Save to Pocket</a>
+</span>
+
+---
+
+## 2023 Libby Book Awards Winners
+
+date: 2024-03-14, from: Locus Magazine
+
+<p>Winners of the inaugural Libby Book Awards, &#8220;chosen by a vote from over 1,700 librarians and library workers across North America,&#8221; have been announced, including winners of genre interest.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Science Fiction</strong></p>
+<ul>
+<li><strong>System Collapse</strong>, Martha Wells (Tordotcom)</li>
+</ul>
+<p><strong>Best Fantasy</strong></p>
+<ul>
+<li><strong>Fourth Wing</strong>, Rebecca Yarros (Red Tower)</li>
+</ul>
+<p><strong>Best Young Adult Fiction</strong></p>
+<ul>
+<li><strong>Divine Rivals</strong>, Rebecca Ross (Wednesday)</li>
+</ul>
+<p><strong>Best Romantasy</strong></p>
+<ul>
+<li><strong>Iron Flame</strong>, Rebecca Yarros (Red Tower)</li>
+</ul>
+<p><strong>Best Historical Fiction</strong></p>
+<ul>
+<li><strong>Let </strong></li></ul></div> <a href="https://locusmag.com/2024/03/2023-libby-book-awards-winners/" class="read-more">...Read More </a>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/2023-libby-book-awards-winners/">https://locusmag.com/2024/03/2023-libby-book-awards-winners/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/2023-libby-book-awards-winners/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Aspen Words Finalists
+
+date: 2024-03-14, from: Locus Magazine
+
+<p><b>Chain-Gang All-Stars</b> by Nana Kwame Adjei-Brenyah (Pantheon) is one of the five finalists for the 2024 Aspen Words Literary Prize.</p>
+<p>The winner will be announced during a ceremony on April 25, 2024 in New York, NY. The $35,000 prize is awarded to &#8220;an influential work of fiction focused on vital contemporary issues.&#8221; Finalists and winner are chosen by jury. This year&#8217;s judges are Lan Samantha Chang, Christina Baker Kline, Anthony  <a href="https://locusmag.com/2024/03/2024-aspen-words-finalists/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/2024-aspen-words-finalists/">https://locusmag.com/2024/03/2024-aspen-words-finalists/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/2024-aspen-words-finalists/">Save to Pocket</a>
+</span>
+
+---
+
+## Cover Reveal: Haven by Mia Dalia
+
+date: 2024-03-14, from: Locus Magazine
+
+<p></p>
+<p><strong>COVER REVEAL</strong>: Check out this chilling cover for <strong>Haven</strong> by Mia Dalia, a new title out from CamCat books this October.</p>
+<p>From the publisher:</p>
+<p><b data-stringify-type="bold">What if revenge ripples and echoes through time?</b></p>
+<p>You can’t choose your family or your destiny or your legacy. But once upon a time, a woman named Ava St. James had tried to build happiness upon the remains of her broken heart. For better or  <a href="https://locusmag.com/2024/03/cover-reveal-haven-by-mia-dalia/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/cover-reveal-haven-by-mia-dalia/">https://locusmag.com/2024/03/cover-reveal-haven-by-mia-dalia/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/cover-reveal-haven-by-mia-dalia/">Save to Pocket</a>
+</span>
+
+---
+
+## A.C. Wise Reviews Short Fiction: Clarkesworld
+
+date: 2024-03-14, from: Locus Magazine
+
+<p>Clarkesworld 12/23</p>
+<p>Clarkesworld’s December issue starts off with a sweet story, “<strong>Morag’s Boy</strong>” by <strong>Fiona Moore</strong>, about a young man named Cliff who leaves home and ends up being taken in by a woman named Morag who lives alone on a farm. Cliff shows an aptitude for fixing tech, but struggles to find a direction in life. Morag helps him find his way, leading him to become  <a href="https://locusmag.com/2024/03/a-c-wise-reviews-short-fiction-clarkesworld/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/a-c-wise-reviews-short-fiction-clarkesworld/">https://locusmag.com/2024/03/a-c-wise-reviews-short-fiction-clarkesworld/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/a-c-wise-reviews-short-fiction-clarkesworld/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Carol Shields Prize Longlist
+
+date: 2024-03-14, from: Locus Magazine
+
+<p>The longlist has been announced for the 2024 Carol Shields Prize for Fiction. Longlisted works of genre interest include:</p>
+<ul>
+<li><strong>You Were Watching from the Sand</strong>, Juliana Lamy (Red Hen)</li>
+<li><strong>The Future</strong>, Catherine Leroux, translated by Susan Ouriou (Biblioasis)</li>
+<li><strong>A Council of Dolls</strong>, Mona Susan Power (Mariner)</li>
+<li><strong>Chrysalis</strong>, Anuja Varghese (House of Anansi)</li>
+<li><strong>Land of Milk and Honey</strong>, C. Pam Zhang (Riverhead)</li>
+</ul>
+<p>The prize recognizes &#8220;creativity  <a href="https://locusmag.com/2024/03/2024-carol-shields-prize-longlist/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/2024-carol-shields-prize-longlist/">https://locusmag.com/2024/03/2024-carol-shields-prize-longlist/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/2024-carol-shields-prize-longlist/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-03-14, from: Neil Gaiman @ BlueSky)
+
+
+
+What i am doing
+
+https://www.wfaa.com/article/entertainment/neil-gaiman-auction-art-collectibles-dallas/287-813d6d02-6cde-4858-a648-3b1196d60097
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knmr3p2b3k2e">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knmr3p2b3k2e</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knmr3p2b3k2e">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 International Booker Prize Longlist
+
+date: 2024-03-14, from: Locus Magazine
+
+<p>The 13-title longlist for the 2024 International Booker Prize has been announced, and includes <strong>The Silver Bone</strong>, Andrey Kurkov, translated by    Boris Dralyuk  (MacLehose) and <strong>Crooked Plow</strong>, Itamar Vieira Junior, translated by   Johnny Lorenz (Verso)</p>
+<p>The award is given &#8220;every year for a single book that is translated into English and published in the UK or Ireland.&#8221; The £50,000 prize is divided equally among the author and translator(s).  <a href="https://locusmag.com/2024/03/2024-international-booker-prize-longlist/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/2024-international-booker-prize-longlist/">https://locusmag.com/2024/03/2024-international-booker-prize-longlist/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/2024-international-booker-prize-longlist/">Save to Pocket</a>
+</span>
+
+---
+
+## 2024 Yoto Carnegie Medals Shortlists
+
+date: 2024-03-14, from: Locus Magazine
+
+<p>The shortlists for the 2024 Yoto Carnegie Medal for Writing and Yoto Carnegie Medal for Illustration have been announced. Titles and authors of genre interest follow.</p>
+<div class="mynomorebulletlist">
+<p><strong>Yoto Carnegie Medal for Writing</strong></p>
+<ul>
+<li><strong>The Song Walker</strong>, Zillah Bethell (Usborne)</li>
+<li><strong>Away with Words</strong>, Sophie Cameron (Little Tiger)</li>
+<li><strong>The Boy Lost in the Maze</strong>, Joseph Coelho, illustrated by Kate Milner
+(Otter-Barry Books)</li>
+</ul>
+</div>
+<p>The awards are presented by the Chartered Institute of  <a href="https://locusmag.com/2024/03/2024-yoto-carnegie-medals-shortlists/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/2024-yoto-carnegie-medals-shortlists/">https://locusmag.com/2024/03/2024-yoto-carnegie-medals-shortlists/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/2024-yoto-carnegie-medals-shortlists/">Save to Pocket</a>
+</span>
+
+---
+
+## Spotlight on Anne Perry of Arcadia
+
+date: 2024-03-13, from: Locus Magazine
+
+<p><strong>You&#8217;re the publishing director for the SF/F imprint at Quercus in the UK (formerly known as Jo Fletcher Books). We understand you&#8217;re relaunching with a new vision and name. Tell us about it.</strong></p>
+<p>I was very lucky when I started at Quercus; Jo Fletcher Books was 11 years old and well-established, and had a reputation for being particularly strong in epic fantasy, having launched authors like Sebastien de Castell, Peter  <a href="https://locusmag.com/2024/03/spotlight-on-anne-perry-of-arcadia/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/spotlight-on-anne-perry-of-arcadia/">https://locusmag.com/2024/03/spotlight-on-anne-perry-of-arcadia/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/spotlight-on-anne-perry-of-arcadia/">Save to Pocket</a>
+</span>
+
+---
+
+## Patrick Nielsen Hayden Becomes Editor-at-Large
+
+date: 2024-03-13, from: Locus Magazine
+
+<p dir="ltr">Patrick Nielsen Hayden is transitioning from VP, associate publisher, and editor-in-chief of Tor to editor-at-large for the Tor Publishing Group.</p>
+<p dir="ltr">Publisher and president Devi Pillai says,</p>
+
+<p dir="ltr">I’m thrilled to announce that Patrick Nielsen Hayden has assumed the title of Editor-at-Large for the Tor Publishing Group. With 35 years at the company, Patrick has long been a central part of TPG. He is responsible for publishing the debut novels of many  <a href="https://locusmag.com/2024/03/patrick-nielsen-hayden-becomes-editor-at-large/" class="read-more">...Read More </a></p>
+
+<span class="feed-item-link">
+<a href="https://locusmag.com/2024/03/patrick-nielsen-hayden-becomes-editor-at-large/">https://locusmag.com/2024/03/patrick-nielsen-hayden-becomes-editor-at-large/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://locusmag.com/2024/03/patrick-nielsen-hayden-becomes-editor-at-large/">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-03-13, from: Neil Gaiman @ BlueSky)
+
+Still so very proud of this.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knlv7p52c22e">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knlv7p52c22e</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knlv7p52c22e">Save to Pocket</a>
+</span>
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-03-13, from: Neil Gaiman @ BlueSky)
+
+Fascinating.
+
+[contains quote post or other embedded content]
+
+<span class="feed-item-link">
+<a href="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knlqfwyshs2b">https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knlqfwyshs2b</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knlqfwyshs2b">Save to Pocket</a>
+</span>
 
 ---
 
