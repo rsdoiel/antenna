@@ -17,6 +17,6 @@ https://bsky.app/profile/did:plc:o6ibgputv3kmdq6ebzd27ezx/rss "~Neil Gaiman @ Bl
 https://margaretatwood.substack.com/feed "~Margaret Atwoods Substack"
 https://johnaugust.com/feed "~John August blog"
 https://inneresting.substack.com/feed "Interesting, a blog on writing"
-https://prolost.com/blog?format=rss "~Prolost blog, film making"
-https://candlerblog.com/posts/atom.xml "~Jonathan Poritsky blog"
+#https://prolost.com/blog?format=rss "~Prolost blog, film making"
+#https://candlerblog.com/posts/atom.xml "~Jonathan Poritsky blog"
 

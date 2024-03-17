@@ -30,6 +30,8 @@ build: harvest markdown html archives index.html about.html search.html README.h
 
 world: snapshots harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
 
+california: harvest markdown html archives index.html about.html search.html README.html CITATION.cff pagefind dump
+
 snapshots: .FORCE
 	cd snapshots && make
 

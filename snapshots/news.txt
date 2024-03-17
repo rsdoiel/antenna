@@ -46,7 +46,7 @@ http://www.norvig.com/rss-feed.xml "~Peter Norvig's feed"
 http://www.verticalfarm.com/?feed=rss2 "~Virtical Farm Blog"
 https://100r.co/links/rss.xml "~Hundred Rabbits blog"
 https://500ish.com/feed "~500-ish blog, A collection of posts by M.G. Siegler of around 500 words in length."
-https://a.wholelottanothing.org/feed/ "~Matt Haughey blog"
+https://a.wholelottanothing.org/rss/ "~Matt Haughey blog"
 https://about.lens.org/category/news/feed/ "~Lens.org news"
 https://aiguide.substack.com/feed "~Melanie Mitchell, AI Guide for Human Thinking"
 https://alex.pearwin.com/atom.xml "~Alex Pearce blog (CERN)"
@@ -193,7 +193,7 @@ https://mwichary.medium.com/feed "~Marcin Wichary at Medium"
 https://n-o-d-e.net/rss/rss.xml "~Node Mini Server"
 https://neotxt.dk/atom.xml "~Darch (sørenpeter) neotxt blog"
 https://news.play.date/index.xml "~Playdate Blog"
-https://newsboat.org/news.atom "~Newsboat News"
+#https://newsboat.org/news.atom "~Newsboat News"
 https://nickbradbury.com/feed/ "~Nick Bradbury"
 https://nlnet.nl/feed.atom "~nlnet feed"
 https://netnewswire.blog/feed.xml "~NetNewsWire"
@@ -429,7 +429,7 @@ https://reb00ted.org/index.xml "~reb00ted blog (Johannes Ernst, sustainabilty do
 #
 # Problem feeds
 #
-https://prolost.com/blog?format=RSS "~Stu Maschwitz blog" curl/8.5.0
+#https://prolost.com/blog?format=RSS "~Maschwitz blog" curl/8.5.0
 https://magazine.caltech.edu/index?format=rss "~Caltech Magazine" curl/8.5.0
 https://www.gregegan.net/feed.rss "~Greg Egan's feed" curl/8.5.0
 https://www.blackpepperpaperie.com/blog-feed.xml "~Black Pepper Paperie blog" curl/8.5.0
@@ -457,8 +457,8 @@ https://webcurios.co.uk/feed/ "~Web Curios blog"
 https://margaretatwood.substack.com/feed "~Margaret Atwood's substack"
 https://johnaugust.com/feed "~John August blog"
 https://inneresting.substack.com/feed "Interesting, a blog on writing"
-https://prolost.com/blog?format=rss "~Prolost blog, film making"
-https://candlerblog.com/posts/atom.xml "~Jonathan Poritsky blog"
+#https://prolost.com/blog?format=rss "~Prolost blog, film making"
+#https://candlerblog.com/posts/atom.xml "~Jonathan Poritsky blog"
 https://benhoyt.com/writings/rss.xml "~Ben Hoyt's Tech Writing"
 
 #
@@ -486,6 +486,7 @@ https://www.brain-dump.org/index.xml "~Marc André Tanner blog (creator of vis e
 https://blog.gtk.org/feed/ "~Gtk Developer blog"
 https://feeds.feedburner.com/stavrosstuff "Stavros Stuff"
 https://confinedkitchen.blogspot.com/feeds/posts/default "~The Confined Kitchen blog"
-http://neilstechdocs.blogspot.com/feeds/posts/defaults "~Neils Jefferies Tech Docs"
+#http://neilstechdocs.blogspot.com/feeds/posts/defaults "~Neils Jefferies Tech Docs"
+
 https://leanrada.com/rss.xml "~Lean Rada's blog"
 https://inkdroid.org/feed.xml "~Ed Summers blog, Inkdroid"
