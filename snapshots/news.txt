@@ -59,7 +59,6 @@ https://ashwinschronicles.github.io/feeds/all.atom.xml "~Ashwin's Chronicles"
 https://www.beckyhansmeyer.com/feed/ "~Becky Hansmeyer"
 # moved to news2.txt
 #https://ben-evans.com/benedictevans?format=rss2 "~Benedict Evans"
-https://benhoyt.com/writings/rss.xml "~Ben Hoyt's Tech Writing"
 https://billmoyers.com/feed/ "~Bill Moyer's website"
 https://biosrhythm.com/?feed=rss2 "~Biosrhythm blog"
 https://bitsplitting.org/feed/ "~Bitsplitting Blog"
@@ -362,10 +361,6 @@ https://heathercoxrichardson.substack.com/feed "~Heather Cox Richardson blog"
 https://feeds.feedburner.com/NiemanJournalismLab "~Nieman Journalism Lab"
 https://www.levernews.com/rss/ "~The Lever News" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 
-#
-# Literature, Writing and Writers
-#
-https://margaretatwood.substack.com/feed "~Margaret Atwood's substack"
 
 #
 # Bloggers
@@ -455,6 +450,15 @@ https://webcurios.co.uk/feed/ "~Web Curios blog"
 # Hobbies
 #
 #https://smallworkshop.co.uk/rss/ "~Small Workshop UK blog" curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io) # Feed is invalid due to syntax error in XML, 2024-01-09
+
+#
+# Writing
+#
+https://margaretatwood.substack.com/feed "~Margaret Atwood's substack"
+https://johnaugust.com/feed "~John August blog"
+https://inneresting.substack.com/feed "Interesting, a blog on writing"
+https://prolost.com/blog?format=rss "~Prolost blog, film making"
+https://benhoyt.com/writings/rss.xml "~Ben Hoyt's Tech Writing"
 
 #
 # Retro Computing
