@@ -25,7 +25,6 @@ function make_today() {
 	sqlite3 "${SKIM_FILE}" "UPDATE items SET status = 'saved' WHERE published >= '$START_TODAYS_NEWS' AND published < '$END_TODAYS_NEWS'"
 	skim2md -title "News gathered ${TODAY}" \
 		-frontmatter \
-		-pocket \
 		"${SKIM_FILE}" \
 		>"today-${TODAY}.md"
 

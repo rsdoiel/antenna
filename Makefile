@@ -91,7 +91,7 @@ $(md_files): .FORCE
 	sqlite3 $(basename $@).skim "UPDATE items SET status = 'read'"
 	sqlite3 $(basename $@).skim "UPDATE items SET status = 'saved' WHERE published >= '$(SUNDAY)' AND published <= '$(SATURDAY)'"
 	skim2md -title "$(shell echo $(basename $@) | sed -E 's/_/ /g') $(VOL_NO)" \
-		-frontmatter -pocket $(basename $@).skim \
+		-frontmatter $(basename $@).skim \
 		>$@
 	mkdir -p $(YEAR)
 	cp -v "$@" "$(YEAR)/$(basename $@)_$(VOL_NO).md"

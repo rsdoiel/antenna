@@ -1,11 +1,31 @@
 ---
 title: weather 2024.11
-updated: 2024-03-17 14:03:25
+updated: 2024-03-17 14:40:58
 ---
 
 # weather 2024.11
 
-(date: 2024-03-17 14:03:25)
+(date: 2024-03-17 14:40:58)
+
+---
+
+## SPC - No watches are valid as of Sun Mar 17 21:37:02 UTC 2024
+
+date: 2024-03-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Sun Mar 17 21:37:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Sun Mar 17 21:37:02 UTC 2024
+
+date: 2024-03-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Sun Mar 17 21:37:02 UTC 2024. 
+
+<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -42,35 +62,9 @@ weekend.
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
 
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">https://www.spc.noaa.gov/products/exper/fire_wx/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/exper/fire_wx/">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No watches are valid as of Sun Mar 17 20:43:02 UTC 2024
-
-date: 2024-03-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Sun Mar 17 20:43:02 UTC 2024.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/watch/">https://www.spc.noaa.gov/products/watch/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/watch/">Save to Pocket</a>
-</span>
-
----
-
-## SPC - No MDs are in effect as of Sun Mar 17 20:43:02 UTC 2024
-
-date: 2024-03-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Sun Mar 17 20:43:02 UTC 2024.
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/md/">https://www.spc.noaa.gov/products/md/</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/md/">Save to Pocket</a>
-</span>
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 
@@ -135,11 +129,9 @@ Bend region through tonight.
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
 
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html">Save to Pocket</a>
-</span>
+<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
 
 ---
 
@@ -175,11 +167,9 @@ area. Therefore, no risk areas are outlined at this time.
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
 
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">https://www.spc.noaa.gov/products/fire_wx/fwdy2.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Save to Pocket</a>
-</span>
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -241,11 +231,9 @@ southeast Peninsula.
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
 
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html">Save to Pocket</a>
-</span>
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
 
 ---
 
@@ -281,11 +269,9 @@ northwest Oklahoma, fire concerns are expected to be minimal.
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Read more</a>
+ 
 
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">https://www.spc.noaa.gov/products/fire_wx/fwdy1.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/fire_wx/fwdy1.html">Save to Pocket</a>
-</span>
+<https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
 
 ---
 
@@ -333,13 +319,7 @@ Bend region through tonight.
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
 
-
-<span class="feed-item-link">
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html</a> <a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html">Save to Pocket</a>
-</span>
-
-
-
-<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
