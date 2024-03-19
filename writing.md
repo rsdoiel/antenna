@@ -1,11 +1,97 @@
 ---
 title: writing 2024.12
-updated: 2024-03-18 08:34:46
+updated: 2024-03-19 08:46:02
 ---
 
 # writing 2024.12
 
-(date: 2024-03-18 08:34:46)
+(date: 2024-03-19 08:46:02)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-03-18, from: Neil Gaiman @ BlueSky)
+
+This is very very VERY silly indeed. And often surprisingly hummable. Thank you @mitchbenn.bsky.social 
+
+https://youtu.be/N1ZZlLMt7jQ?si=mo4eGaeGQegScIw4 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3knyw5xy5522l>
+
+---
+
+## Announcing Departure of Rachel Brooke, Authors Alliance Senior Staff Attorney
+
+date: 2024-03-18, from: Author's Union blog
+
+Dear Authors Alliance Members, Friends, and Allies, It is with a heavy heart that I am announcing my departure from Authors Alliance. For me, the development is bittersweet—in a few weeks, I will be starting a new job at a law firm where I’ll focus on litigation and developing my advocacy skills in a new [&#8230;] 
+
+<https://www.authorsalliance.org/2024/03/18/announcing-departure-of-rachel-brooke-authors-alliance-senior-staff-attorney/>
+
+---
+
+## Weekly Bestsellers, 18 March 2024
+
+date: 2024-03-18, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+<p>Holly Black&#8217;s <b>The Prisoner&#8217;s Throne</b> (Little, Brown), second book in her Elfhame series following <b>The Stolen Heir</b>, debuts on three lists, ranking #1 on the New York Times Young Adult Hardcover list. All ten books on that list, this week, are genre titles.</p>
+</div>
+
+
+
+
+<p></p>
+
+
+
+Title
+Debut / #wks on any list
+NYT
+03.24
+LAT
+03.17
+USAT 
+03.10
+PW 
+03.18
+Amz 
+(03.18)
+UK:
+Amz UK 
+(03.18)
+Canada:
+Amz.ca 
+(03.18)
+
+
+Items on <a href="https://locusmag.com/2024/03/weekly-bestsellers-18-march-2024/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/03/weekly-bestsellers-18-march-2024/>
+
+---
+
+## 2024 ITW Thriller Awards finalists
+
+date: 2024-03-18, from: Locus Magazine
+
+<p>International Thriller Writers has announced the finalists for the 2024 Thriller Awards, including several titles and authors of genre interest.</p>
+<p><strong>Best Hardcover Novel
+</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>All the Sinners Bleed</strong>, S.A. Cosby (Flatiron)</li>
+<li><strong>The Drift</strong>, C.J. Tudor (Ballantine)</li>
+</ul>
+</div>
+<div class="mynomorebulletlist">
+<p><strong>Best Paperback Original Novel</strong></p>
+<ul>
+<li><strong>Hide</strong>, Tracy Clark (Thomas &#38; Mercer)</li>
+<li><strong>The Paleontologist</strong>, Luke Dumas (Atria)</li>
+<li><strong>The Spy Coast</strong>, Tess Gerritsen (Thomas &#38; Mercer)</li>
+<li><strong>Cave 13</strong>, Jonathan Maberry (St. Martin&#8217;s </li></ul></div> <a href="https://locusmag.com/2024/03/2024-itw-thriller-awards-finalists/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/03/2024-itw-thriller-awards-finalists/>
 
 ---
 

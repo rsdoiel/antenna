@@ -1,82 +1,63 @@
 ---
 title: weather 2024.12
-updated: 2024-03-18 08:34:46
+updated: 2024-03-19 08:46:02
 ---
 
 # weather 2024.12
 
-(date: 2024-03-18 08:34:46)
+(date: 2024-03-19 08:46:02)
 
 ---
 
-## SPC - No watches are valid as of Mon Mar 18 14:02:02 UTC 2024
+## SPC - No watches are valid as of Tue Mar 19 14:03:02 UTC 2024
 
-date: 2024-03-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-03-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Mar 18 14:02:02 UTC 2024. 
+No watches are valid as of Tue Mar 19 14:03:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/watch/>
 
 ---
 
-## SPC - No MDs are in effect as of Mon Mar 18 14:02:02 UTC 2024
+## SPC - No MDs are in effect as of Tue Mar 19 14:03:02 UTC 2024
 
-date: 2024-03-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-03-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Mon Mar 18 14:02:02 UTC 2024. 
+No Mesoscale Discussions are in effect as of Tue Mar 19 14:03:02 UTC 2024. 
 
 <https://www.spc.noaa.gov/products/md/>
 
 ---
 
-## SPC Mar 18, 2024 1300 UTC Day 1 Convective Outlook
+## SPC Mar 19, 2024 1300 UTC Day 1 Convective Outlook
 
-date: 2024-03-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2024-03-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0740 AM CDT Mon Mar 18 2024
+0727 AM CDT Tue Mar 19 2024
 
-Valid 181300Z - 191200Z
+Valid 191300Z - 201200Z
 
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS THIS AFTERNOON
-ACROSS CENTRAL FL AND MUCH OF THE FL ATLANTIC COAST...
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Isolated large hail and wind damage is possible this afternoon
-across central Florida and along much of the Florida Atlantic coast.
+Severe thunderstorms are not forecast across the contiguous United
+States through tonight.
 
-...FL this afternoon...
-A northern stream shortwave trough will dig from the mid MS Valley
-this morning to the southern Appalachians this evening and off the
-Atlantic coast by early Tuesday.  An associated stalled surface
-front across north FL this morning will begin to accelerate
-southeastward across the peninsula this evening through early
-Tuesday.  The more pronounced midlevel height falls and forcing for
-ascent will pass north of FL, leaving shallow ascent along the front
-and/or differential heating boundaries (from convection moving
-inland from the northeast Gulf of Mexico this morning) to focus
-thunderstorm development.  Forecast soundings suggest that moderate
-buoyancy (MLCAPE near 1500 J/kg), steep low-level lapse rates and 50
-kt midlevel flow with relatively straight hodographs could support a
-supercell capable of producing isolated large hail (1-1.75 inches in
-diameter) and damaging gusts near 60 mph.  The severe threat will
-peak by early-mid afternoon and then diminish into this evening. 
+...Synopsis...
+Gradual height falls over the Pacific Northwest will result in a
+slow breakdown of the blocking pattern in the western states, and
+slow eastward progression of the closed midlevel low from AZ to NM. 
+Lingering low-midlevel moisture and cool midlevel temperatures will
+again support scattered diurnal convection from the southern Sierra
+Nevada into the Peninsular/Transverse Ranges of southern CA, as well
+as over the Mogollon Rim from AZ into western NM.  Otherwise, a
+relatively cool/dry post-frontal air mass will preclude
+thunderstorms across the central/eastern CONUS.
 
-...AZ/southern CA through this evening...
-As part of a Rex block, a closed low over AZ will drift westward
-today as an embedded speed max pivots from northern AZ toward
-southern CA.  Low-level moisture will remain modest, but cool
-midlevel temperatures and daytime heating will contribute to at
-least weak buoyancy (SBCAPE of 250-750 J/kg).  A few clusters of
-storms will form in the main band of ascent over the rim this
-afternoon, while other storms are expected to spread southwestward
-off the higher terrain toward the southern CA coast.  The threat for
-severe storms will remain quite low, but the strongest storms could
-produce gusty outflow winds and small hail.
-
-..Thompson/Dean.. 03/18/2024
+..Thompson/Grams.. 03/19/2024
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>

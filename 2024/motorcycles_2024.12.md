@@ -1,11 +1,111 @@
 ---
 title: motorcycles 2024.12
-updated: 2024-03-18 08:34:46
+updated: 2024-03-19 08:46:02
 ---
 
 # motorcycles 2024.12
 
-(date: 2024-03-18 08:34:46)
+(date: 2024-03-19 08:46:02)
+
+---
+
+## Is Bajaj Already Working On A New Triumph 400cc Model?
+
+date: 2024-03-19, from: Ride Apart, Electric Motorcycle News
+
+After the resounding success of the Speed 400 and Scrambler 400 X, Bajaj and Triumph are just getting started. 
+
+<https://www.rideapart.com/news/712292/triumph-400-rajiv-bajaj-plans/>
+
+---
+
+## 2024 Rocket 3 Storm First Look
+
+date: 2024-03-19, from: Cycle World News
+
+Triumph has given its Rocket 3 more horsepower and torque with a blacked-out look for 2024. 
+
+<https://www.cycleworld.com/bikes/triumph-rocket-3-storm-first-look/>
+
+---
+
+## Triumph Pulls the Covers off the Latest Rocket 3 Storm Models
+
+date: 2024-03-19, from: Ride Apart, Electric Motorcycle News
+
+More horsepower and a record-breaking torque figure are exactly what this model needed, apparently. 
+
+<https://www.rideapart.com/news/712630/triumph-rocket-storm-3-2024/>
+
+---
+
+## Justice At Last: Norton Pensions Scandal Victims Will Get Nearly $12M Back
+
+date: 2024-03-19, from: Ride Apart, Electric Motorcycle News
+
+After years of deliberation, the UK Fraud Compensation Fund has agreed to compensate the Norton Pensions Scandal victims. 
+
+<https://www.rideapart.com/news/712848/norton-pensions-victims-get-payback/>
+
+---
+
+## GALLERY: Photojournalist Blake Ulino Captures The NASCAR Action From Bristol Motor Speedway
+
+date: 2024-03-18, from: Kickin the Tires blog
+
+Kickin&#8217; the Tires&#8217; photojournalist and videographer, Blake Ulino, captured the action this past weekend at Bristol Motor Speedway as the NASCAR Cup Series put on a show with a record&#8230;  
+
+<https://kickinthetires.net/nascar/gallery-photojournalist-blake-ulino-captures-the-nascar-action-from-bristol-motor-speedway/>
+
+---
+
+## Keselowski Scores Back-to-Back Top-Fives, Most Points at Bristol
+
+date: 2024-03-18, from: Kickin the Tires blog
+
+By Cole Cusumano, Staff Writer Bristol Motor Speedway provided old-school properties and theatrics, which demanded a certain level of veteran prowess to overcome, in what was a triumphant departure from&#8230;  
+
+<https://kickinthetires.net/nascar/keselowski-scores-back-to-back-top-fives-most-points-at-bristol/>
+
+---
+
+## Rajah Caruth Overcomes Pit Road Penalties for Bristol Top-10
+
+date: 2024-03-18, from: Kickin the Tires blog
+
+By Seth Eggert, Associate Editor BRISTOL, Tenn – Despite two pit road penalties in the WEATHER GUARD Truck Race at Bristol Motor Speedway, Rajah Caruth rebounded to score a top-10&#8230;  
+
+<https://kickinthetires.net/nascar/caruth-overcomes-penalties-bristol-top10/>
+
+---
+
+## Watch This Guy Build A Turbo Hayabusa Quad From Scratch
+
+date: 2024-03-18, from: Ride Apart, Electric Motorcycle News
+
+Believe it or not, this is his second Hayabusa-powered Raptor, so he's doing things a little differently. 
+
+<https://www.rideapart.com/news/712650/turbo-hayabusa-raptor-quad-video-build/>
+
+---
+
+## 2025 Buell Super Cruiser First Ride
+
+date: 2024-03-18, from: Cycle World News
+
+We ride Buell’s preproduction Super Cruiser. Despite a few rough edges and cruiser-style compromises, the 175-hp machine is a wicked fast and fun ride. 
+
+<https://www.cycleworld.com/motorcycle-reviews/buell-super-cruiser-review/>
+
+---
+
+## 2024 Harley-Davidson Hydra-Glide Revival First Ride
+
+date: 2024-03-18, from: Cycle World News
+
+Harley-Davidson’s 2024 Hydra-Glide Revival was introduced at Daytona Bike Week, where we got a ride on the Heritage Classic–based, retro-styled model. 
+
+<https://www.cycleworld.com/motorcycle-reviews/harley-davidson-hydra-glide-revival-first-ride/>
 
 ---
 

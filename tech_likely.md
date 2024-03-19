@@ -1,11 +1,472 @@
 ---
 title: tech likely 2024.12
-updated: 2024-03-18 08:34:46
+updated: 2024-03-19 08:46:02
 ---
 
 # tech likely 2024.12
 
-(date: 2024-03-18 08:34:46)
+(date: 2024-03-19 08:46:02)
+
+---
+
+##  I love that Lil Nas X impulsively ran a half-marathon.... 
+
+date: 2024-03-19, updated: 2024-03-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044209-i-love-that-lil-nas>
+
+---
+
+## Expedition 69 Astronauts Tour NASA Goddard, Speak With Employees
+
+date: 2024-03-19, from: NASA breaking news
+
+A trio of astronauts visited with employees at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, on March 18, 2024, to share their spaceflight experiences aboard the International Space Station. NASA astronauts Stephen Bowen and Warren “Woody” Hoburg, and United Arab Emirates astronaut Sultan Alneyadi all served as flight engineers on the Expedition 69 crew [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/goddard/expedition-69-astronauts-tour-nasa-goddard-speak-with-employees/>
+
+---
+
+## There is no EU cookie banner law
+
+date: 2024-03-19, from: OS News
+
+You know those modal screens that interrupt your groove when you are surfing? There are no laws forcing websites to use them. They use them because they choose to. ↫ Bite code! Cookie banners are not only not required, they&#8217;re not even needed, and most implementations you encounter today are illegal anyway. You can use session cookies and anonymous stats cookies without needing any user approval. Companies like to use these cookie banners because they want to make you mad at the law, not at them for tracking you up the wazzoo, and people who actually do know better trot out the cookie banners to enrage you at the government instead of at the corporations exploiting you. EU law only states that if a website wants to track you, they have to let you know. That&#8217;s it. Seems very reasonable to anyone who isn&#8217;t a corporatist. 
+
+<https://www.osnews.com/story/138870/there-is-no-eu-cookie-banner-law/>
+
+---
+
+## The end of what’s on, when, and where
+
+date: 2024-03-19, from: Doc Searls (at Harvard), New Old Blog
+
+But not of who, how, and why. Start by looking here: That&#8217;s a page of TV Guide, a required resource in every home with a TV, through most of the last half of the 20th century. Every program was on only at its scheduled times. Sources were called stations, which broadcast over the air on [&#8230;] 
+
+<https://doc.searls.com/2024/03/19/the-end-of-whats-on-when-and-where/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-19, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2024/03/19/blogroll2003.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I was looking around the old social web circa 2003 and found the blogroll on my Radio UserLand <a href="https://web.archive.org/web/20031206074937/https://radio.weblogs.com/0001015/">blog home page</a>. Screen shot to the right. It shows that the art was very much still being practiced then. It looks cared-for. All themes designed by Bryan Bell. I am going to set up a demo of the home page, because I want to look at it as "live" as I can get it, and see if there are ideas there I want to bring forward to 2024. 
+
+<http://scripting.com/2024/03/19.html#a144801>
+
+---
+
+## US, Germany Partnering on Mission to Track Earth’s Water Movement
+
+date: 2024-03-19, from: NASA breaking news
+
+The Gravity Recovery and Climate Experiment-Continuity mission will extend a decades-long record of following shifting water masses using gravity measurements. NASA and the German Space Agency at DLR (German Aerospace Center) have agreed to jointly build, launch, and operate a pair of spacecraft that will yield insights into how Earth’s water, ice, and land masses [&#8230;] 
+
+<https://www.nasa.gov/earth/water-on-earth/us-germany-partnering-on-mission-to-track-earths-water-movement/>
+
+---
+
+## Celebrating the community: Micah
+
+date: 2024-03-19, from: Raspberry Pi (.org)
+
+<p>We love hearing from members of the community and sharing the stories of inspiring young people, volunteers, and educators all over the world who have a passion for technology. With this latest story, we’re taking you to Leeds, UK, to meet Micah, a young space enthusiast whose confidence has soared since he started attending a&#8230;</p>
+<p>The post <a href="https://www.raspberrypi.org/blog/celebrating-the-community-micah/">Celebrating the community: Micah</a> appeared first on <a href="https://www.raspberrypi.org">Raspberry Pi Foundation</a>.</p>
+ 
+
+<https://www.raspberrypi.org/blog/celebrating-the-community-micah/>
+
+---
+
+## Gemini VI Astronauts Thomas P. Stafford and Walter M. Schirra Jr.
+
+date: 2024-03-19, from: NASA breaking news
+
+Astronauts Thomas P. Stafford (left), and Walter M. Schirra Jr., pose for the camera during suiting up exercises on Oct. 22, 1965. Stafford was selected among the second group of astronauts in September 1962 by NASA to participate in Projects Gemini and Apollo. In December 1965, he piloted Gemini VI, which made the first rendezvous [&#8230;] 
+
+<https://www.nasa.gov/image-article/gemini-vi-astronauts-thomas-p-stafford-and-walter-m-schirra-jr/>
+
+---
+
+## NASA Study: Asteroid’s Orbit, Shape Changed After DART Impact
+
+date: 2024-03-19, from: NASA breaking news
+
+After NASA’s historic Double Asteroid Redirection Test, a JPL-led study has shown that the shape of asteroid Dimorphos has changed and its orbit has shrunk. When NASA’s DART (Double Asteroid Redirection Test) deliberately smashed into a 560-foot-wide (170-meter-wide) asteroid on Sept. 26, 2022, it made its mark in more ways than one. The demonstration showed [&#8230;] 
+
+<https://www.nasa.gov/missions/dart/nasa-study-asteroids-orbit-shape-changed-after-dart-impact/>
+
+---
+
+## NASA Administrator, Health Secretary to Host Cancer Moonshot Event
+
+date: 2024-03-19, from: NASA breaking news
+
+Media are invited to join NASA and Department of Health and Human Services leadership at 9:30 a.m. EDT on Thursday, March 21, at NASA Headquarters in Washington, to highlight how the agencies are making progress toward President Joe Biden and First Lady Jill Biden’s Cancer Moonshot initiative. During the event, NASA Administrator Bill Nelson and [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-administrator-health-secretary-to-host-cancer-moonshot-event/>
+
+---
+
+## That’s a Shame
+
+date: 2024-03-19, updated: 2024-03-19, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/03/19/thats-a-shame/>
+
+---
+
+## Doubts Grow About the Biosignature Approach to Alien-Hunting
+
+date: 2024-03-19, from: Quanta Magazine
+
+Recent controversies bode ill for the effort to detect life on other planets by analyzing the gases in their atmospheres.            <p>The post <a href="https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/" target="_blank">Doubts Grow About the Biosignature Approach to Alien-Hunting</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/doubts-grow-about-the-biosignature-approach-to-alien-hunting-20240319/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-19, from: Dave Winer's Scripting News)
+
+When they report on Trump’s financial situation they don’t take into account that the property, golf courses, buildings, etc are all mortgaged beyond the max, that’s what the NY trial was about, him lying about values for the purpose of getting loans on the property. So his equity in these investments is probably 0 or even negative (because of the fraud). No one is going to loan him anything on the properties, because he has no equity, and the story they tell about New York state liquidating his assets, there almost certainly is nothing to liquidate. Anyone who owns a home and has a mortgage can understand this, it works the same way even if the property is much more valuable than a family home. I asked jokingly what his credit rating must be, but it's a good question to ask, would help regular people relate to the situation. 
+
+<http://scripting.com/2024/03/19.html#a133030>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-19, from: Dave Winer's Scripting News)
+
+Developing great products is something like the NBA which they always say is a business, esp when a player you love is traded. Happened recently with a point guard, Immanuel Quickley, traded from Knicks to Raptors. He wasn't the only heart of the Knicks, but he was one of them. He has a competitive grace you don't see very often. Quickley was one of those guys you knew would be the starting point guard on some NBA team, he was that good. But he was unlikely to get there on the Knicks, so we can be happy for him because he is the starting point guard on the Raptors, but we lost something important there. But the business side, if done well, opens the door for bigger love. I love watching the Knicks win they way they are winning now. That's what I want from developing software. I want to create a global team of truly independent developers, filling the void left by the <a href="https://en.wikipedia.org/wiki/Predation">predation</a> of the silos. There won't even be a business model for much of what we do, but there will be lots of teamwork and lots of fun, because the best accomplishment is when we do it as a team. We're going to play a game we started to play in the mid-90s, and somewhere somehow forgot we could still play it. We can. I am old now, I feel it, I can't produce end-user software much longer, but I don't want to leave until we have this thing rebooted. 
+
+<http://scripting.com/2024/03/19.html#a131401>
+
+---
+
+## TrueNAS CORE 13 is the end of the FreeBSD version
+
+date: 2024-03-19, from: OS News
+
+Bad news from BSD land – the oldest vendor of BSD systems is changing direction away from FreeBSD and toward Linux. NAS vendor iXsystems has been busy this year, but apart from some statements in online user communities, it hasn&#8217;t been talking about the big news. Back in 2022, we covered TrueNAS CORE 13, the new release of its FreeBSD-based turnkey OS for NAS servers, and in that article we mentioned its new product, the Debian-based TrueNAS SCALE, aimed at providing storage for Kubernetes users. Now it seems the company is betting its future on that Linux-based product, meaning the end is in sight for the FreeBSD offering. ↫ Liam Proven at The Register Very sad to read, as more monoculture is not exactly great, but at the same time, from a corporate perspective, it&#8217;s also not entirely unexpected to focus on the server operating system with by far the widest industry support. I hope the fork mentioned in the article gains some steam, because having competition in this space is crucially important. 
+
+<https://www.osnews.com/story/138867/truenas-core-13-is-the-end-of-the-freebsd-version/>
+
+---
+
+## 2024-03-19 Wiki as a service
+
+date: 2024-03-19, from: Alex Schroeder's Blog
+
+<h1 id="2024-03-19-wiki-as-a-service">2024-03-19 Wiki as a service</h1>
+
+<p>By now I run Oddmu on various domains. Since Oddmu supports
+subdirectories, and since I delegate all permissions to Apache acting
+as the reverse proxy, and since it&rsquo;s been pretty easy to do, there&rsquo;s
+the possibility of me hosting a wiki for you and your friends, if you
+don&rsquo;t have a web host of your own.</p>
+
+<p><a href="https://transjovian.org/view/">Transjovian</a> is for melancholy space
+writing, for &ldquo;a group of people living in the outer reaches of our
+system, beyond Jupiter. Out here, the light of the sun is dim and we
+must make due with what we have, watched over by the stern gods of the
+soil, of the sky, of the sea, of the underworld: Saturn, Uranus,
+Neptune, Pluto… Here we are, in our ice mines, gene labs, in our
+generation habitats, and all we have is text over low bandwidth
+connections, with long delays.&rdquo;</p>
+
+<p><a href="https://communitywiki.org/view/">Community Wiki</a> is for community
+organisation efforts, for &ldquo;communities both online and offline:
+management, teaching, conflicts, mediation, and some tech talk mostly
+about tools used for online communities.&rdquo;</p>
+
+<p><a href="https://campaignwiki.org/view/">Campaign Wiki</a> is for role-playing
+games, i.e. for people who need to keep track of their games, their
+worlds, their characters.</p>
+
+<p>Campaign Wiki is the only one with help pages…</p>
+
+<p><a class="tag" href="/search/?q=%23Wikis">#Wikis</a> <a class="tag" href="/search/?q=%23Web">#Web</a></p> 
+
+<https://alexschroeder.ch/view/2024-03-19-wiki>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-03-19, from: Miguel de Icaza Mastondon feed)
+
+<p>First New England Visionaries user group meeting is a wrap.</p><p>We had demos on Godot/Vision, Actions, gesture detections, assorted RealityKit tips and tricks, generating 3D animated models with AI, a journaling app catching crime before it happens with minority report.</p><p>See you next month</p> 
+
+<https://mastodon.social/@Migueldeicaza/112122366954643455>
+
+---
+
+## This retro desktop PC Raspberry Pi case is a nod at nostalgia for your desk
+
+date: 2024-03-19, from: Raspberry Pi News (.com)
+
+<p>We like a bit of nostalgia here at Pi Towers, so we loved this Raspberry Pi case which makes our green board look like a tiny retro PC.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/this-retro-desktop-pc-raspberry-pi-case-is-a-nod-at-nostalgia-for-your-desk/">This retro desktop PC Raspberry Pi case is a nod at nostalgia for your desk</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/this-retro-desktop-pc-raspberry-pi-case-is-a-nod-at-nostalgia-for-your-desk/>
+
+---
+
+## Linux kernel 4.14 gets a life extension, thanks to OpenELA
+
+date: 2024-03-19, updated: 2024-03-19, from: Liam Proven's articles at the Register
+
+<h4>Could this be the first green shoot of enterprise vendors paying for long-term maintenance?</h4>
+      <p>The Open Enterprise Linux Association (OpenELA) has stepped up to maintain Linux kernel version 4.14 - which went out of support in January - to the end of the year. But why that particular version?</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/19/kernel_414_life_extension/>
+
+---
+
+## What do American households use electricity for?
+
+date: 2024-03-19, from: Hannah Richie at Substack
+
+It's all about controlling temperature and humidity. 
+
+<https://www.sustainabilitybynumbers.com/p/american-electricity-use>
+
+---
+
+## Book Talk: Unlocking the Digital Age
+
+date: 2024-03-19, from: Internet Archive Blog
+
+Join us for a book talk with ANDREA I. COPLAND &#38; KATHLEEN DeLAURENTI about UNLOCKING THE DIGITAL AGE, a crucial resource for early career musicians navigating the complexities of the [&#8230;] 
+
+<https://blog.archive.org/2024/03/19/book-talk-unlocking-the-digital-age/>
+
+---
+
+## Linkblogs work differently
+
+date: 2024-03-19, from: Dave Winer's Scripting News
+
+<p>Linkblogs work differently in blogrolls. When I click a link it takes me to the site the blog linked to, not to the blog.</p>
+<p>So.. When you click the link in the screen shot below it takes you to a Metacritic review of the program</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2024/03/18/linkblogInBlogroll.png"></center>Screen shot.</div></p>
+ 
+
+<http://scripting.com/2024/03/18/001042.html?title=linkblogsWorkDifferently>
+
+---
+
+## PostgreSQL JDBC 42.7.3, 42.6.2, 42.5.6, 42.4.5, 42.3.10, 42.2.29 Released
+
+date: 2024-03-19, from: PostgreSQL News
+
+<p>The JDBC team has release minor versions for all supported versions.</p>
+<p>This release fixes 2 things.<br>
+1. Make sure we handle boolean types in simple query mode.<br>
+2. Released new versions of 42.2.29, 42.3.10, 42.4.5, 42.5.6, 42.6.2 to deal with NoSuchMethodError on ByteBuffer#position when running on Java 8</p>
+<p>See full <a href="https://github.com/pgjdbc/pgjdbc/releases/tag/REL42.7.3">release notes</a></p>
+<p>Many thanks to all who contributed.</p>
+<p>The project is located in our <a href="https://github.com/pgjdbc/pgjdbc">Github Repo</a></p> 
+
+<https://www.postgresql.org/about/news/postgresql-jdbc-4273-4262-4256-4245-42310-42229-released-2828/>
+
+---
+
+## PGConf NYC 2024 - Call for Presentations (CFP) and Sponsors!
+
+date: 2024-03-19, from: PostgreSQL News
+
+<p><a href="https://2024.pgconf.nyc/">PGConf NYC 2024</a> (September 30 - October 2, 2024, New York City) is packed with
+user stories and best practices for how to use <a href="https://www.postgresql.org">PostgreSQL</a>. <a href="https://2024.pgconf.nyc/">Join us in New York City</a> and connect with other developers, DBAs, administrators, decisions makers, and contributors to the open source PostgreSQL community!</p>
+<p>The <a href="https://2024.pgconf.nyc/callforpapers/">call for papers</a> open until June 5, 2024! We want to hear <a href="https://2024.pgconf.nyc/callforpapers/">your PostgreSQL stories</a>.</p>
+<p>We're looking for talk submissions for a wide variety of PostgreSQL users, from app developers, DBAs, operations engineers, decision makers, and PostgreSQL contributors. The <a href="https://2024.pgconf.nyc/">PGConf NYC 2024</a> audience ranges from people who are new to PostgreSQL to advanced users. We welcome submissions on introductory topics to advanced concepts, and everything in between!</p>
+<p>Even if you've never presented at a PostgreSQL event before, <a href="mailto:contact@pgconf.nyc">we'd love to hear your ideas</a> and can provide help on getting your presentation ready!</p>
+<p>You can submit your talk ideas here:</p>
+<p><a href="https://2024.pgconf.nyc/callforpapers/">https://2024.pgconf.nyc/callforpapers/</a></p>
+<p><a href="https://2024.pgconf.nyc/">PGConf NYC 2024</a> is not possible without the <a href="https://2024.pgconf.nyc/sponsors/">generous support of our sponsors</a>. PGConf NYC takes place in one of the largest markets of PostgreSQL users. Your sponsorship lets you connect with decision makers, developers, DBAs, and PostgreSQL contributors, helps keep ticket prices low, and helps grow the PostgreSQL community. For more information on <a href="https://2024.pgconf.nyc/sponsors/">sponsorship</a>, please visit the below link:</p>
+<p><a href="https://2024.pgconf.nyc/sponsors/">https://2024.pgconf.nyc/sponsors/</a></p>
+<p>Can't wait to participate in PGConf NYC 2024? <a href="https://2024.pgconf.nyc/tickets/">Early bird registration</a> is available.</p>
+<p>We look forward to seeing you in New York this fall!</p> 
+
+<https://www.postgresql.org/about/news/pgconf-nyc-2024-call-for-presentations-cfp-and-sponsors-2827/>
+
+---
+
+## Spinning Worlds, Seasickness, and Dealing with Vestibular Neuritis
+
+date: 2024-03-19, from: Maggie Appleton blog
+
+ 
+
+<https://maggieappleton.com/spinning>
+
+---
+
+## Student-Built Robots Clash at Competition Supported by NASA-JPL
+
+date: 2024-03-18, from: NASA breaking news
+
+Hand-crafted robots, constructed over the past two months by 44 high school teams, duked it out at the FIRST Robotics Los Angeles regional competition. Student-made contraptions of a metal and a little magic battled each other in front of cheering and dancing high schoolers at the annual Los Angeles regional FIRST Robotics Competition over the [&#8230;] 
+
+<https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/student-built-robots-clash-at-competition-supported-by-nasa-jpl/>
+
+---
+
+## NASA’s Swift Temporarily Suspends Science Operations
+
+date: 2024-03-18, from: NASA breaking news
+
+On March 15, NASA’s Neil Gehrels Swift Observatory entered into safe mode, temporarily suspending science operations due to degrading performance from one of its three gyroscopes (gyros), which are used to point the observatory for making observations. The rest of the spacecraft remains in good health. Swift is designed to successfully operate without one of […] 
+
+<https://science.nasa.gov/missions/swift/nasas-swift-temporarily-suspends-science-operations/>
+
+---
+
+## NASA Administrator Pays Tribute to Space Pioneer Thomas Stafford
+
+date: 2024-03-18, from: NASA breaking news
+
+The following is a statement from NASA Administrator Bill Nelson on Monday’s passing of Thomas Stafford, a lifelong space exploration advocate, former NASA astronaut, and U.S. Air Force general:&#160; “Today, General Tom Stafford went to the eternal heavens, which he so courageously explored as a Gemini and Apollo astronaut as well as a peacemaker in [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-administrator-pays-tribute-to-space-pioneer-thomas-stafford/>
+
+---
+
+## NASA Wallops Supports Rocket Lab Launch for NRO From Virginia
+
+date: 2024-03-18, from: NASA breaking news
+
+NASA’s Wallops Flight Facility in Virginia will support commercial launch provider Rocket Lab’s Electron rocket launch no earlier than March 21 at 2:40 a.m. EDT. The four-hour launch window runs through 6:30 a.m. The mission, named NROL-123, is a dedicated launch for NRO (National Reconnaissance Office). The 59-foot-tall Electron rocket will lift off from Launch [&#8230;] 
+
+<https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-supports-rocket-lab-launch-for-nro-from-virginia/>
+
+---
+
+## NASA Challenge Invites Artemis Generation Coders to Johnson Space Center
+
+date: 2024-03-18, from: NASA breaking news
+
+NASA’s Office of STEM Engagement has selected seven student teams to participate in a culminating event for the 2024 App Development Challenge (ADC), one of the agency’s Artemis Student Challenges, at NASA’s Johnson Space Center in Houston. The coding challenge invites middle and high school student teams to contribute to deep space exploration missions by [&#8230;] 
+
+<https://www.nasa.gov/general/nasa-challenge-invites-artemis-generation-coders-to-johnson-space-center/>
+
+---
+
+##  Christopher Nolan tells Stephen Colbert he has &#8220;no guilt about being a... 
+
+date: 2024-03-18, updated: 2024-03-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044205-christopher-nolan-tells-s>
+
+---
+
+##  Waffle House&#8217;s Magic Marker System 
+
+date: 2024-03-18, updated: 2024-03-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/waffle-houses-magic-marker-system>
+
+---
+
+## 2600.network [idle]
+
+date: 2024-03-18, from: Tilde.news
+
+<p><a href="https://tilde.news/s/x8qd08/2600_network_idle">Comments</a></p> 
+
+<https://2600.network/>
+
+---
+
+##  This is a perfect New Yorker Talk of the Town piece: now-divorced... 
+
+date: 2024-03-18, updated: 2024-03-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044207-this-is-a-perfect-new>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-18, from: Dave Winer's Scripting News)
+
+<a href="https://feedland.blog/blogroll-wp-plugin-test/">This is amazing</a>. Some of my friends at Automattic quickly put together a toolkit for WordPress that allows it to host my blogroll. There are still some missing pieces and some CSS glitches. But this is exactly where I hoped we would be at this point. 
+
+<http://scripting.com/2024/03/18.html#a173451>
+
+---
+
+##  Stile Antico, &#8220;Byrd: Mass for Four Voices - V. Agnus Dei&#8221; 
+
+date: 2024-03-18, updated: 2024-03-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/stile-antico-byrd-mass-for-four-voices---v-agnus-dei>
+
+---
+
+## Unjust Termination and the Preservation of Black Families: A Conversation with Angela Burton
+
+date: 2024-03-18, from: Care
+
+
+                <p>Unjustly terminated for doing what she was hired to do: advocate against the destruction of Black families, Burton states how all Black people want is to be left alone and collectively self-determine their lives.</p>
+
+             
+
+<https://logicmag.io/policy/unjust-termination-and-the-preservation-of-black-families>
+
+---
+
+##  &#8220;I was fully in the first time, but the second time, even... 
+
+date: 2024-03-18, updated: 2024-03-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044187-i-was-fully-in-the>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-03-18, from: Miguel de Icaza Mastondon feed)
+
+<p>I am coming back to RealityKit and VisionPro; this is just part of the natural process of shaving a yak.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112117700228526794>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-03-18, from: Miguel de Icaza Mastondon feed)
+
+<p>Shortly before I got obsessed with Godot on iPad, I was working on a game for VisionPro.</p><p>I found myself lacking a Cocos-like action framework for RealityKit.  So I built one.</p><p>I will be talking about it today at the Vision users group:</p><p><a href="https://github.com/migueldeicaza/RealityActions" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/migueldeicaza/Reali</span><span class="invisible">tyActions</span></a></p><p>Event details:</p><p><a href="https://partiful.com/e/5toXav8jAEO7DlHi5T3a" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">partiful.com/e/5toXav8jAEO7DlH</span><span class="invisible">i5T3a</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112117678217972832>
+
+---
+
+## Red Is the New Green
+
+date: 2024-03-18, updated: 2024-03-18, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/03/18/red-is-the-new-green/>
+
+---
+
+##  Movie Posters Perfected. &#8220;A live, cloud-based library of over 3,500 curated movie... 
+
+date: 2024-03-18, updated: 2024-03-18, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044200-movie-posters-perfected-a>
 
 ---
 
@@ -254,9 +715,7 @@ date: 2024-03-18, from: Low-tech magazine
 </blockquote>
 <p>Reducing the steel output and using more common steel grades would not bring us back to the Bronze Age. As noted, global end-of-life ferrous scrap availability was approximately 450 Mt in 2021, which would allow us to produce roughly one-quarter of the current steel output. Furthermore, the scrap supply will continue to rise for the next 40 years, enabling us to produce more and more low-emission steel each year. By 2050, scrap availability is expected to rise to about 900 Mt, almost half of today’s global steel production.<sup id="fnref:48"><a href="#fn:48" class="footnote-ref" role="doc-noteref">48</a></sup> All that extra steel could be invested in expanding the low-carbon power grid without raising emissions first.</p>
 <p>There is a lot of room to reduce the steel intensity of modern society. All our basic needs – and more – could be supplied with much less steel involved. For example, we could make cars lighter by making them smaller. That would bring energy savings without the need for energy-intensive high-grade steel. We could replace cars with bicycles and public transportation so that more people share less steel. Such changes would also reduce the need for steel in the road network, the energy infrastructure, and the manufacturing industry. We would need fewer machine tools, shipping containers, and reinforced concrete buildings. Whenever steel intensity is reduced, the advantages cascade throughout the whole system. Preventing corrosion and producing steel more locally from local resources would also reduce energy use and emissions.<sup id="fnref2:10"><a href="#fn:10" class="footnote-ref" role="doc-noteref">10</a></sup><sup id="fnref1:14"><a href="#fn:14" class="footnote-ref" role="doc-noteref">14</a></sup></p>
-<p>The continuous growth of the steel output – the increasing steel intensity of human society – makes sustainable steel production impossible. No technology can change that because it’s not a technological problem. Like forestry can only be sustainable if the wood demand does not exceed the wood supply, steel is sustainable or not depending on the balance between (scrap) supply and (steel) demand. We may not be able to escape the Iron Age, but we have an option to escape the catch-22 that inextricably links steel production with fossil fuels.</p>
-<h2 id="steel-and-war">Steel and war</h2>
-<p>Another motivation for reducing the steel intensity of modern society is to limit the consequences of geopolitical conflicts. The more steel we produce for peaceful purposes, the more steel becomes available for war and destruction. Remarkably, the production of military equipment is absent from modern steel statistics, and if mentioned, its share is very low. However, in times of war, steelmaking facilities switch to producing steel for military purposes. The steel industry can thus be converted into a weapons industry at any moment, and there is now a lot more steel production capacity available than there has ever been in history.</p>
+<p>The continuous growth of the steel output – the increasing steel intensity of human society – makes sustainable steel production impossible. No technology can change that because it’s not a technological problem. Like forestry can only be sustainable if the wood demand does not exceed the wood supply, steel is sustainable or not depending on the balance between (scrap) supply and (steel) demand. We may not be able to escape the Iron Age, but we have an option to escape the catch-22 that inextricably links steel production with fossil fuels.<sup id="fnref:49"><a href="#fn:49" class="footnote-ref" role="doc-noteref">49</a></sup></p>
 <div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
@@ -264,7 +723,7 @@ date: 2024-03-18, from: Low-tech magazine
 <p>Thomsen, Christian Jürgensen. &ldquo;Cursory View of the Monuments and Antiquities of the North.&rdquo; Guide to Northern Archaeology by the Royal Society of Northern Antiquaries of Copenhagen (1848): 25-104. See also: Eskildsen, Kasper Risbjerg. &ldquo;Christian Jürgensen Thomsen (1788–1865): Comparing Prehistoric Antiquities.&rdquo; History of Humanities 4.2 (2019): 263-267. And: Briggs, C. Stephen. &ldquo;From Genesis to Prehistory: the archaeological Three Age System and its contested reception in Denmark, Britain, and Ireland. By Peter Rowley-Conwy. 226mm. Pp xix+ 362, 55 b&amp;w ills. Oxford: Oxford University Press, 2007. ISBN 9780199227747.£ 65 (hbk).&rdquo; The Antiquaries Journal 88 (2008): 474-478.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:2">
-<p>Forthcoming article, Kris De Decker, Low-tech Magazine.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Forthcoming article, Kris De Decker, Low-tech Magazine. <a href="https://d69baa34.sibforms.com/serve/MUIEAJWIw9w82Dl4ua6FQArPaI-3Qb-zVTwPNabHQgFH51MiGF69Smy9LOC_HPoUmBj0emaXsXT87gcQXDPvtu-AZsJCHWhkkv21CdrcQu4GdnYAhZ-MrIPhwGDecagLzYxqfvkaqXg2ODcbJU4ByoDmzJK3ZTczDo2jcWtfn-En0MGKLVkgxx9TgdHqYoPabMJCMF-agLEclEwv">Subscribe to Low-tech Magazine&rsquo;s newsletter</a>.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:3">
 <p>Idoine, N. E., et al. &ldquo;World mineral production 2017-21.&rdquo; (2023). <a href="https://nora.nerc.ac.uk/id/eprint/534316/1/WMP_2017_2021_FINAL.pdf">https://nora.nerc.ac.uk/id/eprint/534316/1/WMP_2017_2021_FINAL.pdf</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
@@ -404,10 +863,55 @@ date: 2024-03-18, from: Low-tech magazine
 <li id="fn:48">
 <p>Scrap use in the steel industry, World Steel Association. May 2021. <a href="https://worldsteel.org/wp-content/uploads/Fact-sheet-on-scrap_2021.pdf">https://worldsteel.org/wp-content/uploads/Fact-sheet-on-scrap_2021.pdf</a>&#160;<a href="#fnref:48" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
+<li id="fn:49">
+<p>Another motivation for reducing the steel intensity of modern society is to limit the consequences of geopolitical conflicts. The more steel we produce for peaceful purposes, the more steel becomes available for war and destruction. Remarkably, the production of military equipment is absent from modern steel statistics, and if mentioned, its share is very low. However, in times of war, steelmaking facilities switch to producing steel for military purposes. The steel industry can thus be converted into a weapons industry at any moment, and there is now a lot more steel production capacity available than there has ever been in history.&#160;<a href="#fnref:49" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
 </ol>
 </div> 
 
 <https://solar.lowtechmagazine.com/2024/03/how-to-escape-from-the-iron-age/>
+
+---
+
+## Mending Chesterton's Fence: Open Source Decision-making
+
+date: 2024-03-18, from: Crossref Blog
+
+<p>When each line of code is written it is surrounded by a sea of context: who in the community this is for, what problem we&rsquo;re trying to solve, what technical assumptions we&rsquo;re making, what we already tried but didn&rsquo;t work, how much coffee we&rsquo;ve had today. All of these have an effect on the software we write.</p>
+<p>By the time the next person looks at that code, some of that context will have evaporated. There may be helpful code comments, tests, and specifications to explain how it should behave. But they don&rsquo;t explain the path not taken, and why we didn&rsquo;t take it. Or those occasions where the facts changed, so we changed our mind.</p>
+<p>Some parts of our system are as old as Crossref itself. Whilst our process still involves coffee, it&rsquo;s safe to say that most of our working assumptions have changed, and for good reasons! We have to be very careful when working with our oldest code. We always consider why it was written that way, and what might have changed since. We&rsquo;re always on the look out for <a href="https://thoughtbot.com/blog/chestertons-fence" target="_blank">Chesterton&rsquo;s Fence</a>!</p>
+<h2 id="leaving-a-trail">Leaving a Trail</h2>
+<p>We&rsquo;re building a new generation of systems at Crossref, and as we go we&rsquo;re being deliberate about supporting the people who will maintain it.</p>
+<p>When our oldest code was written, the software development team all worked in an office with a whiteboard or three, and the code was proprietary. Twenty years later, things are very different. The software development team is spread over 8 timezones. Thanks to <a href="https://openscholarlyinfrastructure.org/" target="_blank">POSI</a>, all the new code we write is open source, so the next people to read that code might not even be Crossref staff.</p>
+<p>Working increasingly asynchronously, without that whiteboard, we need to record the options, collect evidence, and peer-review them within the team.</p>
+<p>So for the past couple of years the software team has maintained a <a href="https://crossref.gitlab.io/engineering/decision-records/" target="_blank">decision register</a>. The first decision we recorded was that we should record decisions! Since then we have recorded the significant decisions as they arise. Plus some <a href="https://crossref.gitlab.io/engineering/decision-records/dr-0003/" target="_blank">historical ones</a>.</p>
+<p>These aren&rsquo;t functional specifications, which describe what the system should do. It&rsquo;s the decisions and trade-offs we made along the way to get to the how. Look out for another blog post about specifications.</p>
+<p>By leaving a trail of explanations as we go, we make it easier for people to understand why code was written, and what has changed. We&rsquo;re writing the story of our new systems. This makes it easier to alter the system in future in response to changes in our community, and the metadata they use.</p>
+<h2 id="difficult-decisions">Difficult Decisions</h2>
+<p>There are some fun challenges to building systems at Crossref. We have a lot of data. Our schema is very diverse, and has a vast amount of domain knowledge embedded in it. It&rsquo;s changed over time to accommodate 20 years of scholarly publishing innovations. Our community is diverse too, from small one-person publishers with a handful of articles, through to large ones that publish millions.</p>
+<p>What might be an obvious decision for a database table with a thousand rows doesn&rsquo;t always translate to a million. When you get to a billion, things change again. An initially sensible choice might not scale. And a scalable solution might look over-engineered if we had millions of DOIs, rather than hundreds of millions.</p>
+<p>The diversity of the data also poses challenges. A very simple feature might get complicated or expensive when it meets the heterogeneity of our metadata and membership. What might scale for journal article or grant metadata might not work for book chapters.</p>
+<p>The big decisions need careful discussion, experimentation, and justification.</p>
+<h2 id="2nf-or-not-2nf">2NF or not 2NF</h2>
+<p>One such recent decision was how we structure our SQL schema for the database that powers our new &lsquo;relationships&rsquo; REST API endpoint, currently in development.</p>
+<p>The data model is simple: we have a table of Relationships which connect pairs of Items. And each Item can have properties (such as a type). The way to model this is straightforward, following conventional <a href="https://en.wikipedia.org/wiki/Database_normalization" target="_blank">normalization rules</a>:</p>
+<figure><img src="https://www.crossref.org/images/blog/2024/open-source-decision-making/1.svg"
+alt="SQL Tables, normalised" width="100%"/>
+</figure>
+<p>We built the API around it, and all was well.</p>
+<p>We then added a feature which lets you look up relationships based on the properties of the subject or object. For example &ldquo;find citations where the subject is an article and the object is a dataset&rdquo;. This design worked well in our initial testing. We loaded more data into it, and it continued to work well.</p>
+<p>And then, the context changed. Once we tested loading a billion relationships in the database, the performance dropped. The characteristics of the data: size, shape and distribution, reached a point where the database was unable to run queries in a timely way. The PostgreSQL query planner became unpredictable and occasionally produced some quite exciting query plans (to non-technical readers: databases are neither the time nor the place for excitement).</p>
+<p>This is a normal experience in scaling up a system. We expected that something like this would happen at some point, but you don&rsquo;t know when it will happen until you try. We bounced around some ideas and came up with a couple of alternatives. Each made trade-offs around processing time, data storage and query flexibility. The best way to evaluate them was to use real data at a representative scale.</p>
+<p>One of the options was denormalisation. This is a conventional solution to this kind of problem, but was not our first choice as it involves extra machinery to keep the data up-to-date, and more storage. It would not have been the correct solution for a smaller dataset. But we had the evidence that the other two approaches would not scale predictably.</p>
+<figure><img src="https://www.crossref.org/images/blog/2024/open-source-decision-making/2.svg"
+alt="SQL Tables, normalised" width="100%"/>
+</figure>
+<br>
+<p>By combining the data into one table, we can serve up API requests much more predictably, and with much better performance. This code is now running with the right performance. Technical readers note that this diagram is simplified. The <a href="https://gitlab.com/crossref/manifold/-/blob/62fc458b280e71c6b6221908fb7824bd3573726f/src/main/resources/db/migration/V1_0_0__initial_schema_creation.sql#L356" target="_blank">real SQL schema</a> is a little different.</p>
+<p>Without writing this history down, and explaining what we tried, someone might misunderstand the reason for the code and try to simplify it. Decision record <a href="https://crossref.gitlab.io/engineering/decision-records/dr-0500/" target="_blank">DR-0500</a> guards against that.</p>
+<p>But one day, when the context changes, future developers will be able to come back and modify the code, because they understand why it was like that in the first place.</p> 
+
+<https://www.crossref.org/blog/mending-chestertons-fence-open-source-decision-making/>
 
 ---
 

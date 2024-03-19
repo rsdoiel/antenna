@@ -1,11 +1,23 @@
 ---
 title: libraries 2024.12
-updated: 2024-03-18 08:34:46
+updated: 2024-03-19 08:46:02
 ---
 
 # libraries 2024.12
 
-(date: 2024-03-18 08:34:46)
+(date: 2024-03-19 08:46:02)
+
+---
+
+## Guest Post – Publishing Fast or Slow: How Speed Varies for Similar Journals
+
+date: 2024-03-19, from: Scholarly Kitchen
+
+<p>Christos Petrou looks at the factors that go into determining a journal's turnaround times, and how we can help authors make better-informed choices.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/03/19/guest-post-publishing-fast-or-slow-how-speed-varies-for-similar-journals/">Guest Post – Publishing Fast or Slow: How Speed Varies for Similar Journals</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/03/19/guest-post-publishing-fast-or-slow-how-speed-varies-for-similar-journals/>
 
 ---
 
