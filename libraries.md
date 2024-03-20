@@ -1,11 +1,33 @@
 ---
 title: libraries 2024.12
-updated: 2024-03-19 08:46:02
+updated: 2024-03-20 07:29:08
 ---
 
 # libraries 2024.12
 
-(date: 2024-03-19 08:46:02)
+(date: 2024-03-20 07:29:08)
+
+---
+
+## The Latest “Crisis” — Is the Research Literature Overrun with ChatGPT- and LLM-generated Articles?
+
+date: 2024-03-20, from: Scholarly Kitchen
+
+<p>Journal articles with ChatGPT authored text are being found. How common is this in the literature? And how, or better yet, when, is this problematic text slipping through to publication?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2024/03/20/the-latest-crisis-is-the-research-literature-overrun-with-chatgpt-and-llm-generated-articles/">The Latest &#8220;Crisis&#8221; &#8212; Is the Research Literature Overrun with ChatGPT- and LLM-generated Articles?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<https://scholarlykitchen.sspnet.org/2024/03/20/the-latest-crisis-is-the-research-literature-overrun-with-chatgpt-and-llm-generated-articles/>
+
+---
+
+## Embracing the Spring
+
+date: 2024-03-19, from: CSUN Library Blog, Cited
+
+<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/03/32754112564_db01d61fe4_w.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" fetchpriority="high" /></div>Winter has started to fade into the background and the natural world re-awakens: it&#8217;s Spring! The arrival of spring, historically and culturally, tends to bring&#8230; 
+
+<https://library.csun.edu/blogs/cited/2024/03/19/embracing-the-spring/>
 
 ---
 

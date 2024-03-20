@@ -1,11 +1,531 @@
 ---
 title: pacific 2024.12
-updated: 2024-03-19 08:46:02
+updated: 2024-03-20 07:29:07
 ---
 
 # pacific 2024.12
 
-(date: 2024-03-19 08:46:02)
+(date: 2024-03-20 07:29:07)
+
+---
+
+## Election officials to speak at LWV meeting
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>The public is invited attend the annual meeting of the League of Women Voters of Hawaii County to be held in person and via Zoom starting at starting at 10 a.m. Saturday at West Hawaii Civic Center in Kailua-Kona.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/community/election-officials-to-speak-at-lwv-meeting/>
+
+---
+
+## Kamuela Philharmonic to perform Sunday
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>The Kamuela Philharmonic will perform a MasterWorks concert, &#8220;Greatness from Start to Finish,&#8221; at 2 p.m. Sunday, March 24, at Kahilu Theatre in Waimea.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/community/kamuela-philharmonic-to-perform-sunday/>
+
+---
+
+## ‘The Biggest Easter Egg Hunt’ set for March 29
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;The Biggest Easter Egg Hunt&#8221; will take place Friday, March 29, at Francis Wong Stadium in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/community/the-biggest-easter-egg-hunt-set-for-march-29/>
+
+---
+
+## ‘Puppets on the Path’ at Volcano Art Center
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>The public is invited to join &#8220;Puppets on the Path&#8221; as they celebrate the &#8220;Sounds of Niaulani&#8221; through a special blend of original music and puppetry representing the native rainforest in Volcano. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/community/puppets-on-the-path-at-volcano-art-center/>
+
+---
+
+## Obituaries for March 20
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>Roy C. Bishop, 92, of Kailua-Kona died Jan. 18 at Hospice of Kona&#8217;s Nakamaru Hale in Holualoa. Born in British Columbia, Canada, he was a retired U.S. Air Force senior master sergeant and veteran of the Korean and Vietnam wars, also retired from the State of Washington Department of Ecology Water Resources, member of New Hope Legacy Church and an artist. Inurnment services with military honors 9 a.m. Monday (March 25) at West Hawaii Veterans Cemetery in Kailua-Kona. Survived by wife, Donna Bishop of Kailua-Kona; son, Kenneth (Jennifer) Bishop of Oklahoma; brother, Donald (Judith) Bishop of Seattle; sister, Grace Payne of Seattle; four grandchildren and three great-grandchildren. Arrangements by Dodo Mortuary.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/obituaries/obituaries-for-march-20-11/>
+
+---
+
+## ESPN will remain the home of the College Football Playoff through 2031 under $7.8 billion deal
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>The College Football Playoff and ESPN announced a $7.8 billion deal Tuesday that will give the network exclusive rights to the expanded postseason through the 2031 season, with the national championship game moving to ABC starting in 2026. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/sports/espn-will-remain-the-home-of-the-college-football-playoff-through-2031-under-7-8-billion-deal/>
+
+---
+
+## How Shohei Ohtani bridges the Japan-South Korea divide
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>SEOUL, South Korea &#8212; The day after the Dodgers deplaned at Incheon Airport, pictures of Shohei Ohtani and his wife were on the pages of every major newspaper in this country.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/sports/how-shohei-ohtani-bridges-the-japan-south-korea-divide/>
+
+---
+
+## Haili juniors finals begin today
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>The Juniors division finals of the 64th annual Haili Volleyball Tournament will begin today.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/sports/haili-juniors-finals-begin-today/>
+
+---
+
+## The week in review: UH-Hilo athletics
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p><strong>WOMEN&#8217;S GOLF</strong></p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/sports/the-week-in-review-uh-hilo-athletics/>
+
+---
+
+## Jimmy Garoppolo discloses reason for PED suspension, expresses excitement at fresh start with Rams
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; After seven seasons of success and setbacks as a starting NFL quarterback, Jimmy Garoppolo decided it was time to take a step back to recharge his career. </p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/sports/jimmy-garoppolo-discloses-reason-for-ped-suspension-expresses-excitement-at-fresh-start-with-rams/>
+
+---
+
+## Heavy fighting rages around Gaza’s biggest hospital as Israel raids it for a second day
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>RAFAH, Gaza Strip &#8212; Explosions and shootings shook the Gaza Strip&#8217;s biggest hospital and surrounding neighborhoods as Israeli forces stormed through the facility for a second day Tuesday. The military said it had killed 50 Hamas militants in the hospital, but it could not be independently confirmed that the dead were combatants.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/nation-world-news/heavy-fighting-rages-around-gazas-biggest-hospital-as-israel-raids-it-for-a-second-day/>
+
+---
+
+## Hong Kong lawmakers unanimously approve another law giving government more power to curb dissent
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>HONG KONG &#8212; Hong Kong lawmakers unanimously approved a new national security law Tuesday that grants the government more power to quash dissent, widely seen as the latest step in a sweeping political crackdown triggered by pro-democracy protests in 2019.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/nation-world-news/hong-kong-lawmakers-unanimously-approve-another-law-giving-government-more-power-to-curb-dissent/>
+
+---
+
+## BIIF softball and baseball: Warriors sweep Dragons
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>Honoka&#8216;a and Waiakea softball and baseball kicked off Big Island Interscholastic Federation&#8217;s week of sports by facing off Monday in Hilo.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/sports/biif-softball-and-baseball-warriors-sweep-dragons/>
+
+---
+
+## Fani Willis’ prosecution of Donald Trump may be alive, but it isn’t well
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>Special prosecutor Nathan Wade&#8217;s resignation Friday from the Georgia racketeering prosecution of Donald Trump and others was the right decision and, indeed, a virtually forced one. Judge Scott McAfee&#8217;s resolution of a defense motion to disqualify Wade&#8217;s boss, Fulton County District Attorney Fani Willis, left no practical alternative.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/opinion/fani-willis-prosecution-of-donald-trump-may-be-alive-but-it-isnt-well/>
+
+---
+
+## Schumer’s gambit against Netanyahu
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>Senate Majority Leader Chuck Schumer &#8212; whom we knew back when he was Brooklyn Assemblyman Chuck Schumer and Congressman Chuck Schumer &#8212; wants Israel to hold new elections, and makes no secret that he thinks and hopes when they do, Bibi Netanyahu will be turned out. So he conveyed in a Thursday speech on the Senate floor that surprised and rankled many fellow Democrats.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/opinion/schumers-gambit-against-netanyahu/>
+
+---
+
+## Two men charged in ‘murder for hire’ acid attack plead not guilty
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>Two men pleaded not guilty Monday to multiple charges in a March 12 superseding indictment, including conspiracy to commit first-degree attempted murder, in a &#8220;murder for hire&#8221; plot to randomly attack a woman with acid in January outside a fitness center near Ala Moana Center.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/hawaii-news/two-men-charged-in-murder-for-hire-acid-attack-plead-not-guilty/>
+
+---
+
+## Key questions as Trump hurtles toward deadline to pay $454 million fraud penalty
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Donald Trump is hurtling toward a critical deadline in his most costly legal battle to date. If the former president doesn&#8217;t come up with a financial guarantee by Monday, New York&#8217;s attorney general can start the process of collecting on the more than $454 million Trump owes the state in a civil fraud lawsuit.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/nation-world-news/key-questions-as-trump-hurtles-toward-deadline-to-pay-454-million-fraud-penalty/>
+
+---
+
+## Gov. Green in Japan to help boost tourism
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green, who is in Japan this week meeting with Japanese officials and business leaders, is working on lowering barriers to travel between Japan and Hawaii through a &#8220;Travel Corridor&#8221; that expands the Global Entry program, beefs up biometric screening and pursues &#8220;preclearance&#8221; status.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/hawaii-news/gov-green-in-japan-to-help-boost-tourism/>
+
+---
+
+## 4 things to know from Elon Musk’s interview with Don Lemon
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; Former CNN reporter Don Lemon mixed it up with Tesla CEO Elon Musk in an interview Lemon posted on Musk&#8217;s X social network Monday. The interview was supposed to kick off Lemon&#8217;s new talk show on X, formerly known as Twitter, at least until Musk canceled the show shortly after the interview was recorded.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/nation-world-news/4-things-to-know-from-elon-musks-interview-with-don-lemon/>
+
+---
+
+## Trump is making the Jan. 6 attack a cornerstone of his bid for the White House
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Republican Donald Trump has launched his general election campaign not merely rewriting the history of the Jan. 6, 2021, Capitol attack, but positioning the violent siege and its failed attempt to overturn the 2020 election as a cornerstone of his bid to return to the White House.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/nation-world-news/trump-is-making-the-jan-6-attack-a-cornerstone-of-his-bid-for-the-white-house/>
+
+---
+
+## As electric vehicle sales slow, US relaxes plans for stricter auto emissions standards for a while
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Biden administration this week is expected to announce new automobile emissions standards that relax proposed tailpipe limits for three years but eventually reach the same strict standards set out by the Environmental Protection Agency.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/nation-world-news/as-electric-vehicle-sales-slow-us-relaxes-plans-for-stricter-auto-emissions-standards-for-a-while/>
+
+---
+
+## Waimea mini-horse named nonprofit’s Pet of the Year
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>A miniature horse from Waimea that visits patients at Queen&#8217;s North Hawaii Community Hospital has become national nonprofit Pet Partners&#8217; &#8220;Pet of the Year.&#8221;</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/hawaii-news/waimea-mini-horse-named-nonprofits-pet-of-the-year/>
+
+---
+
+## Supreme Court allows Texas to begin enforcing law that lets police arrest migrants at border
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>A divided Supreme Court on Tuesday allowed Texas to begin enforcing a law that gives police broad powers to arrest migrants suspected of crossing the border illegally while a legal battle over the measure plays out.</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/nation-world-news/supreme-court-allows-texas-to-begin-enforcing-law-that-lets-police-arrest-migrants-at-border/>
+
+---
+
+## Your Views for March 20
+
+date: 2024-03-20, from: Hawaii Tribune Harold
+
+
+				<p>Grats to the Kohala&#0010;Cowboys for victory</p>
+			 
+
+<https://www.hawaiitribune-herald.com/2024/03/20/opinion/your-views-for-march-20-9/>
+
+---
+
+## JFK student awarded scholarship
+
+date: 2024-03-20, from: Guam Daily Post
+
+A John F. Kennedy High School student, Catherine Farrer, was chosen alongside 100 students across the United States and territories to be awarded the J-100 Air Force Junior Reserve Officer Training Corps scholarship, a first for the school and the… 
+
+<https://www.postguam.com/news/local/jfk-student-awarded-scholarship/article_4313459c-df4d-11ee-8ffa-cf92c6510682.html>
+
+---
+
+## Father Duenas wins mock trial program
+
+date: 2024-03-20, from: Guam Daily Post
+
+Father Duenas Memorial School students emerged as champions of the Judiciary of Guam High School Mock Trial Program. 
+
+<https://www.postguam.com/news/local/father-duenas-wins-mock-trial-program/article_44145e6e-e668-11ee-b6e1-eb04bf16b4b8.html>
+
+---
+
+## Compact impact funds left out of spending  package, Moylan to continue pushing issue
+
+date: 2024-03-20, from: Guam Daily Post
+
+Guam Del. James Moylan said his office will continue to forward the compact impact reimbursement issue for Guam as Congress moves into the fiscal year 2025 appropriations cycle, with his office further stating that Moylan's Guam Host Community Compensation Act… 
+
+<https://www.postguam.com/news/local/compact-impact-funds-left-out-of-spending-package-moylan-to-continue-pushing-issue/article_c175044c-e502-11ee-a554-c73a55611c12.html>
+
+---
+
+## Senate passes RECA bill, resolution supports Guam coverage expansion
+
+date: 2024-03-20, from: Guam Daily Post
+
+As federal legislation extending and expanding the Radiation Exposure Compensation Act, or RECA, sits before the House of Representatives following passage in the Senate earlier this month, local lawmakers are now considering a resolution expressing support for any amendments that… 
+
+<https://www.postguam.com/news/local/senate-passes-reca-bill-resolution-supports-guam-coverage-expansion/article_17c767a0-e656-11ee-a384-7be27472f757.html>
+
+---
+
+## Bill would allow  cannabis sales with no lab opened yet
+
+date: 2024-03-20, from: Guam Daily Post
+
+Sen. William Parkinson has introduced legislation intended to exempt cannabis-related businesses from some testing requirements while there is no cannabis testing facility on Guam. 
+
+<https://www.postguam.com/news/local/bill-would-allow-cannabis-sales-with-no-lab-opened-yet/article_155d64de-e5ce-11ee-9da1-2bf0b65d3162.html>
+
+---
+
+## 2 arrested in armed carjacking
+
+date: 2024-03-20, from: Guam Daily Post
+
+Two men were arrested on suspicion of an armed carjacking at Oka Pay-Less supermarket. 
+
+<https://www.postguam.com/news/local/2-arrested-in-armed-carjacking/article_a33803c0-e652-11ee-aaf5-d7a60d7f22e9.html>
+
+---
+
+## Man faces 61 years for trespassing  while on pretrial release for felony
+
+date: 2024-03-20, from: Guam Daily Post
+
+A man faces 61 years in prison after he was found guilty of committing several counts of criminal trespass while on pretrial release. 
+
+<https://www.postguam.com/news/local/man-faces-61-years-for-trespassing-while-on-pretrial-release-for-felony/article_21fa6282-e592-11ee-9b99-87ec9feac3b1.html>
+
+---
+
+## Conflict, more evidence needed: Attorneys  for 2 Thai Thai shooting suspects withdraw
+
+date: 2024-03-20, from: Guam Daily Post
+
+Two suspects accused in the fatal shooting and robbery at Thai Thai Healthy Cuisine restaurant last month have yet to answer to their charges. 
+
+<https://www.postguam.com/news/local/conflict-more-evidence-needed-attorneys-for-2-thai-thai-shooting-suspects-withdraw/article_efafb6ca-e644-11ee-9029-5b26dce189d0.html>
+
+---
+
+## Accountant allegedly stole $15K from clients
+
+date: 2024-03-20, from: Guam Daily Post
+
+An accountant for a real estate company was accused of stealing over $15,000 from clients. 
+
+<https://www.postguam.com/news/local/accountant-allegedly-stole-15k-from-clients/article_02a54cae-e659-11ee-a556-0353747558f9.html>
+
+---
+
+## Travel awards for 10 from UOG
+
+date: 2024-03-20, from: Guam Daily Post
+
+Ten University of Guam students received Research Corporation of the University of Guam, or RCUOG, travel awards in February to support travel to research conferences, international exchange programs and other activities that enhance their academic experiences. 
+
+<https://www.postguam.com/news/local/travel-awards-for-10-from-uog/article_413cf2ba-e59a-11ee-86a2-bf7c05cc0e08.html>
+
+---
+
+## Apple boss Tim Cook visits Shanghai, with China sales under pressure
+
+date: 2024-03-20, updated: 2024-03-20, from: Marianas Variety
+
+SHANGHAI (Reuters) — Apple CEO Tim Cook said he is currently visiting Shanghai, according to a post on his Weibo account on Wednesday. 
+
+<https://www.mvariety.com/business/apple-boss-tim-cook-visits-shanghai-with-china-sales-under-pressure/article_5a3c6ace-e68b-11ee-8f47-2ba42dc96714.html>
+
+---
+
+## Meta offers to almost halve Facebook and Instagram monthly fees
+
+date: 2024-03-20, updated: 2024-03-20, from: Marianas Variety
+
+BRUSSELS (Reuters) — Meta Platforms has offered to almost halve its monthly subscription fee for Facebook and Instagram to 5.99 euros from 9.99 euros, a senior Meta executive said on Tuesday, a move that aims to address concerns from privacy and antitrust regulators. 
+
+<https://www.mvariety.com/business/meta-offers-to-almost-halve-facebook-and-instagram-monthly-fees/article_19931e0a-e68b-11ee-b6eb-8b0702127dae.html>
+
+---
+
+## With deal set on US agency funding, Congress rushes to finalize bill language
+
+date: 2024-03-20, updated: 2024-03-20, from: Marianas Variety
+
+WASHINGTON (Reuters) — The U.S. Congress on Tuesday labored against a tight deadline to write a massive bill funding military, homeland security and a range of other government programs following a deal reached by congressional leaders and the White House. 
+
+<https://www.mvariety.com/news/national/with-deal-set-on-us-agency-funding-congress-rushes-to-finalize-bill-language/article_b5e0f0ee-e68a-11ee-bedf-a3c95fbf2805.html>
+
+---
+
+## US approves possible Javelin missile sale to Morocco, Pentagon says
+
+date: 2024-03-20, updated: 2024-03-20, from: Marianas Variety
+
+(Reuters) — The U.S. State Department has approved the possible sale of Javelin missiles and related equipment to Morocco for an estimated cost of $260 million, the Pentagon said on Tuesday. 
+
+<https://www.mvariety.com/news/national/us-approves-possible-javelin-missile-sale-to-morocco-pentagon-says/article_7115708e-e68a-11ee-a778-1f0e8d334fec.html>
+
+---
+
+## Trump urges US Supreme Court to endorse 'absolute immunity' for ex-presidents
+
+date: 2024-03-20, updated: 2024-03-20, from: Marianas Variety
+
+WASHINGTON (Reuters) — Donald Trump on Tuesday filed a U.S. Supreme Court brief in his bid for criminal immunity for trying to overturn his 2020 election loss, arguing that a former president enjoys "absolute immunity from criminal prosecution for his official acts." 
+
+<https://www.mvariety.com/news/national/trump-urges-us-supreme-court-to-endorse-absolute-immunity-for-ex-presidents/article_af96ba44-e689-11ee-a047-e70cbae2e553.html>
+
+---
+
+## US Air Force says it conducted successful hypersonic weapon test
+
+date: 2024-03-20, updated: 2024-03-20, from: Marianas Variety
+
+WASHINGTON (Reuters) — The U.S. Air Force said on Tuesday it had conducted a successful test of an air-launched hypersonic weapon in the Pacific Ocean. 
+
+<https://www.mvariety.com/news/national/us-air-force-says-it-conducted-successful-hypersonic-weapon-test/article_89c75314-e689-11ee-9a77-838b1e1879a3.html>
+
+---
+
+## US oil output to exceed 14 million bpd and then plateau, says Conoco chief
+
+date: 2024-03-20, updated: 2024-03-20, from: Marianas Variety
+
+(Reuters) — U.S. oil production will grow to exceed 14 million barrels per day and then plateau, ConocoPhillips CEO Ryan Lance forecast on Tuesday. 
+
+<https://www.mvariety.com/news/national/us-oil-output-to-exceed-14-million-bpd-and-then-plateau-says-conoco-chief/article_54adfdea-e689-11ee-aea6-7bd9823fb541.html>
+
+---
+
+## Trump says he could have to sell assets to cover $454 million fraud judgment
+
+date: 2024-03-20, updated: 2024-03-20, from: Marianas Variety
+
+NEW YORK (Reuters) — Donald Trump on Tuesday said on social media that he may be forced to mortgage or sell parts of his real estate business holdings at "fire sale prices" to secure a bond to cover a $454 million civil fraud judgment in New York. 
+
+<https://www.mvariety.com/news/national/trump-says-he-could-have-to-sell-assets-to-cover-454-million-fraud-judgment/article_14d5a81c-e689-11ee-9549-9729571f175d.html>
+
+---
+
+## Bolivia seizes $450 million of cocaine in second-biggest drug bust
+
+date: 2024-03-20, updated: 2024-03-20, from: Marianas Variety
+
+LA PAZ (Reuters) — Bolivian police have carried out the second-largest drug bust in the country's history, seizing more than 7.2 tons of cocaine destined for Belgium with a street value of nearly half a billion U.S. dollars, the interior minister said. 
+
+<https://www.mvariety.com/news/bolivia-seizes-450-million-of-cocaine-in-second-biggest-drug-bust/article_b38f8a82-e688-11ee-92d3-1bd62663aed3.html>
+
+---
+
+## China tells US to not take sides on South China Sea issue
+
+date: 2024-03-20, updated: 2024-03-20, from: Marianas Variety
+
+BEIJING (Reuters) — China said the United States must refrain from "stirring up trouble" or taking sides on the South China Sea issue, after U.S. Secretary of State Antony Blinken said a security deal with the Manila extended to attacks on the Philippine coast guard. 
+
+<https://www.mvariety.com/news/china-tells-us-to-not-take-sides-on-south-china-sea-issue/article_f2a1dff0-e687-11ee-aecd-57bd05092ad7.html>
+
+---
+
+## Nuclear legacy likely to persist as the staple of US-Marshall Islands talks
+
+date: 2024-03-20, from: Pacific Island Times
+
+By Mar-Vic Cagurangan Despite compromises that have been reached on nuclear reparations, the lingering impact of the massive U.S. nuclear... 
+
+<https://www.pacificislandtimes.com/post/nuclear-legacy-likely-to-persist-as-the-staple-of-us-marshall-islands-talks>
+
+---
+
+## Sen. Spark Matsunaga’s political legacy unveiled in digital collection
+
+date: 2024-03-20, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> The footage is the inaugural release by the <span aria-label="Hawaii">Hawai&#699;i</span> Congressional Media collection.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/19/spark-matsunagas-digital-archive/">Sen. Spark Matsunaga’s political legacy unveiled in digital collection</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/19/spark-matsunagas-digital-archive/>
+
+---
+
+## Hawaiʻi HS class of ‘23 overcomes pandemic obstacles in college preparedness
+
+date: 2024-03-19, from: University of Hawaiʻi News
+
+<p><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading time: </span> <span class="rt-time">3</span> <span class="rt-label rt-postfix">minutes</span></span> The class of 2023 report details the achievements of 11,538 students across 65 public schools including public charters.</p>
+The post <a href="https://www.hawaii.edu/news/2024/03/19/hs-class-of-23-overcomes-pandemic/">Hawaiʻi <abbr>HS</abbr> class of ‘23 overcomes pandemic obstacles in college preparedness</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<https://www.hawaii.edu/news/2024/03/19/hs-class-of-23-overcomes-pandemic/>
 
 ---
 

@@ -1,11 +1,133 @@
 ---
 title: columns 2024.12
-updated: 2024-03-19 08:46:02
+updated: 2024-03-20 07:29:08
 ---
 
 # columns 2024.12
 
-(date: 2024-03-19 08:46:02)
+(date: 2024-03-20 07:29:08)
+
+---
+
+## Cheating Automatic Toll Booths by Obscuring License Plates
+
+date: 2024-03-20, updated: 2024-03-14, from: Bruce Schneier blog
+
+<p>The <i>Wall Street Journal</i> is <a href="https://www.wsj.com/us-news/sneaky-drivers-dodging-toll-cameras-cost-authorities-millions-5941fe31?st=y6zwgzfhmswlb0b&#038;reflink=desktopwebshare_permalink">reporting</a> on a variety of techniques drivers are using to obscure their license plates so that automatic readers can&#8217;t identify them and charge tolls properly.</p>
+<blockquote><p>Some drivers have power-washed paint off their plates or covered them with a range of household items such as leaf-shaped magnets, Bramwell-Stewart said. The Port Authority says officers in 2023 roughly doubled the number of summonses issued for obstructed, missing or fictitious license plates compared with the prior year.</p>
+<p>Bramwell-Stewart said one driver from New Jersey repeatedly used what&#8217;s known in the streets as a flipper, which lets you remotely swap out a car&#8217;s real plate for a bogus one ahead of a toll area. In this instance, the bogus plate corresponded to an actual one registered to a woman who was mystified to receive the tolls. &#8220;Why do you keep billing me?&#8221; Bramwell-Stewart recalled her asking...</p></blockquote> 
+
+<https://www.schneier.com/blog/archives/2024/03/cheating-automatic-toll-booths-by-obscuring-license-plates.html>
+
+---
+
+## Office Hours: What is the most important thing we should be doing now to ensure that Biden and Harris are elected in November?
+
+date: 2024-03-20, from: Robert Reich's blog
+
+Friends, Our Office Hours is used to deliberate issues in the open that are quietly being debated but without the advantage of fuller debate. And because this space is reserved for active participants in our community, we can debate even uncomfortable issues freely. 
+
+<https://robertreich.substack.com/p/office-hours-should-biden-keep-kamala>
+
+---
+
+## curl turns 26 today
+
+date: 2024-03-20, from: Daniel Stenberg Blog
+
+years++; It feels like it was not very long ago that we had the big curl 25 year celebrations. I still have plenty of fluid left in my 25 year old whiskey from last year and I believe I will treat myself a drink from that tonight. I have worked on curl full-time and spare &#8230; <a href="https://daniel.haxx.se/blog/2024/03/20/curl-turns-26-today/" class="more-link">Continue reading <span class="screen-reader-text">curl turns 26 today</span> <span class="meta-nav">&#8594;</span></a> 
+
+<https://daniel.haxx.se/blog/2024/03/20/curl-turns-26-today/>
+
+---
+
+## Nvidia Keynote Fills 11,000-Seat SAP Center
+
+date: 2024-03-20, updated: 2024-03-20, from: Daring Fireball
+
+ 
+
+<https://www.wsj.com/tech/ai/nvidia-annual-conference-chips-7692760d>
+
+---
+
+## On the Ever-Increasing Accuracy of Weather Forecasts
+
+date: 2024-03-20, updated: 2024-03-20, from: Daring Fireball
+
+ 
+
+<https://ourworldindata.org/weather-forecasts>
+
+---
+
+## Reuters: ‘EU’s Vestager Warns About Apple, Meta Fees, Disparaging Rival Products’
+
+date: 2024-03-20, updated: 2024-03-20, from: Daring Fireball
+
+ 
+
+<https://www.reuters.com/technology/eus-vestager-warns-about-apple-meta-fees-disparaging-rival-products-2024-03-19/>
+
+---
+
+## Wednesday 20 March, 2024
+
+date: 2024-03-20, from: John Naughton's online diary
+
+Gardener’s world Quote of the Day ”A clothes rack in search of a war zone.” Gavin Jacobson on the faux intellectual Bernard-Henri Lévy Musical alternative to the morning’s radio news Samuel Barber &#124; Adagio for Strings, Op.11 &#124; Vienna Philharmonic &#8230; <a href="https://memex.naughtons.org/wednesday-20-march-2024/39262/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<https://memex.naughtons.org/wednesday-20-march-2024/39262/>
+
+---
+
+## AI is changing writing. Here is what to do about it.
+
+date: 2024-03-20, from: Om Malik blog
+
+I recently&#160;redesigned my&#160;homepage&#160;to&#160;provide&#160;a&#160;clearer&#160;context about “me” as a writer and as a person.&#160;Not&#160;just to&#160;simplify&#160;things,&#160;but also to put more “I” in the new age of “AI” where it will increasingly become&#160;challenging&#160;to&#160;distinguish human&#160;from machine.&#160; The best part of the Internet is that it is always evolving.&#160; It is nothing if not a reflection of we the people, who &#8230; 
+
+<https://om.co/2024/03/19/ai-is-changing-writing-here-is-what-to-do-about-it/>
+
+---
+
+## The White House to the Big House
+
+date: 2024-03-19, from: Dan Rather's Steady
+
+Felons present and pardoned in Trump-world 
+
+<https://steady.substack.com/p/the-white-house-to-the-big-house>
+
+---
+
+## Meta Offers to Reduce No-Ads Subscription Fee for Facebook and Instagram in EU, but Critics Want No Fee at All
+
+date: 2024-03-19, updated: 2024-03-20, from: Daring Fireball
+
+ 
+
+<https://www.reuters.com/technology/meta-offers-cut-facebook-instagram-monthly-fees-599-euros-2024-03-19/>
+
+---
+
+## The Sun: Aaron Taylor-Johnson to Take the Role of James Bond
+
+date: 2024-03-19, updated: 2024-03-19, from: Daring Fireball
+
+ 
+
+<https://www.thesun.co.uk/tv/26774029/aaron-taylor-johnson-offered-role-james-bond/>
+
+---
+
+## VisionDevCamp: March 29–31 in Santa Clara
+
+date: 2024-03-19, updated: 2024-03-19, from: Daring Fireball
+
+ 
+
+<https://visiondevcamp.org/>
 
 ---
 
@@ -179,6 +301,16 @@ date: 2024-03-19, updated: 2024-03-19, from: Daring Fireball
  
 
 <https://mastodon.social/@stroughtonsmith/112118127201793072>
+
+---
+
+## [Sponsor] WorkOS
+
+date: 2024-03-19, updated: 2024-03-19, from: Daring Fireball
+
+ 
+
+<https://workos.com/?utm_source=daringfireball&utm_medium=display&utm_campaign=q12024>
 
 ---
 

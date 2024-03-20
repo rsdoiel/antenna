@@ -1,11 +1,250 @@
 ---
 title: socal north 2024.12
-updated: 2024-03-19 08:46:02
+updated: 2024-03-20 07:29:07
 ---
 
 # socal north 2024.12
 
-(date: 2024-03-19 08:46:02)
+(date: 2024-03-20 07:29:07)
+
+---
+
+## Classifieds – March 20, 2024
+
+date: 2024-03-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/20/classifieds-march-20-2024/">Classifieds &#8211; March 20, 2024</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/20/classifieds-march-20-2024/>
+
+---
+
+## Protesters sit in at Luskin Conference Center ahead of UC Regents vote on Item J1
+
+date: 2024-03-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Around 40 protesters staged a sit-in Tuesday night to call on the UC Board of Regents to vote against a policy that would prohibit University departments from making political statements. 
+
+<https://dailybruin.com/2024/03/20/protesters-sit-in-at-luskin-conference-center-ahead-of-uc-regents-vote-on-item-j1/>
+
+---
+
+## SpectrumSC creates community for LGBTQIA+ students
+
+date: 2024-03-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The club welcomes students of all identities who have an interest in business to join.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/20/spectrumsc-creates-community-for-lgbtqia-students/">SpectrumSC creates community for LGBTQIA+ students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/20/spectrumsc-creates-community-for-lgbtqia-students/>
+
+---
+
+## We all deserve a better advising system
+
+date: 2024-03-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC administration must take accountability for these issues and conduct reforms.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/20/we-all-deserve-a-better-advising-system/">We all deserve a better advising system</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/20/we-all-deserve-a-better-advising-system/>
+
+---
+
+## Senators call to reinstate AAA
+
+date: 2024-03-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Funding to provide sexually transmitted infection tests depleted by 78% this spring.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/20/senators-call-to-reinstate-aaa/">Senators call to reinstate AAA</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/20/senators-call-to-reinstate-aaa/>
+
+---
+
+## California offers support for disabled students
+
+date: 2024-03-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Government programs offer disabled students financial help with higher education.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/20/dor-offers-educational-help-for-disabled-students/">California offers support for disabled students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/20/dor-offers-educational-help-for-disabled-students/>
+
+---
+
+## Love all: A competition of tradition
+
+date: 2024-03-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In the continued battle for “proper” tennis attire, is it time to give in to tradition? Or keep pushing for stylistic freedom on the court? </p>
+<p>The post <a href="https://dailytrojan.com/2024/03/20/love-all-a-competition-of-tradition/">Love all: A competition of tradition</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/20/love-all-a-competition-of-tradition/>
+
+---
+
+## Vapes are out and cigs are in
+
+date: 2024-03-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>We need to look at the risks and causes of this trend among youth to address it.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/20/vapes-are-out-cigs-are-in/">Vapes are out and cigs are in</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/20/vapes-are-out-cigs-are-in/>
+
+---
+
+## Freshman filmmakers craft a vision with ‘We Were Strangers’
+
+date: 2024-03-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Four students navigated the challenges and triumphs of bringing a short film to life.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/20/freshman-filmmakers-craft-a-vision-with-we-were-strangers/">Freshman filmmakers craft a vision with ‘We Were Strangers’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/20/freshman-filmmakers-craft-a-vision-with-we-were-strangers/>
+
+---
+
+## Baseball crushes Cardinal on the road
+
+date: 2024-03-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC won its first true-road series of the season as it searches for momentum.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/20/baseball-crushes-cardinal-on-the-road/">Baseball crushes Cardinal on the road</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/20/baseball-crushes-cardinal-on-the-road/>
+
+---
+
+## My March Madness predictions
+
+date: 2024-03-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>It’s the most wonderful time of the year, and I’ve got you prepared for your brackets.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/20/my-march-madness-predictions/">My March Madness predictions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/20/my-march-madness-predictions/>
+
+---
+
+## Op-ed: UC Regents should vote ‘no’ on policy that threatens academic freedom
+
+date: 2024-03-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+We, UCLA Faculty for Justice in Palestine, write to express our concern over a critical agenda item of the upcoming UC Regents Meeting – which will be held March 20 to 21 – at UCLA’s Luskin Conference Center. 
+
+<https://dailybruin.com/2024/03/19/op-ed-uc-regents-should-vote-no-on-policy-that-threatens-academic-freedom/>
+
+---
+
+## Luskin alumni discuss policy at city, state levels during panel
+
+date: 2024-03-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Luskin School of Public Affairs hosted a panel March 7 with alumni policymakers across Los Angeles to discuss the ongoing housing crisis, the importance of voting and the need for cooperation between local, state and federal governments. 
+
+<https://dailybruin.com/2024/03/19/luskin-alumni-discuss-policy-at-city-state-levels-during-panel/>
+
+---
+
+## UCLA women’s water polo sweeps weekend contests against Princeton, San Jose State
+
+date: 2024-03-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Slower starts weren&#8217;t enough to deter the Bruins from adding two wins to their slate.
+No. 1 UCLA women&#8217;s water polo (18-0, 3-0 MPSF) defeated No. 
+
+<https://dailybruin.com/2024/03/19/ucla-womens-water-polo-sweeps-weekend-contests-against-princeton-san-jose-state/>
+
+---
+
+## Spencer Johnson cements season’s 1st top-10 win for UCLA men’s tennis
+
+date: 2024-03-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Spencer Johnson held the key to the Bruins&#8217; fate for the second time this season.
+Only this time, familiarity was on his side.
+“I felt a little calmer this time, and I was able to lock in just a little better than I thought versus the Pepperdine match and not be as tight as that one,” the freshman said. 
+
+<https://dailybruin.com/2024/03/19/spencer-johnson-cements-seasons-1st-top-10-win-for-ucla-mens-tennis/>
+
+---
+
+## Seized opportunities fuel UCLA baseball’s series victory against Washington State
+
+date: 2024-03-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Baseball is a timely game.
+The difference between a win and a loss can be just a few hits that come with runners on base.
+A lack of timeliness has plagued UCLA lately, as it carried a .118 batting average with runners in scoring position during the seven-game skid that led up to the weekend&#8217;s series. 
+
+<https://dailybruin.com/2024/03/19/seized-opportunities-fuel-ucla-baseballs-series-victory-against-washington-state/>
+
+---
+
+## 'Every Day Is Precious Now': California’s Financial Aid Deadline Is Looming. Here’s What Students Should Know
+
+date: 2024-03-19, updated: 2024-03-20, from: The LAist
+
+As the U.S. Department of Education continues to fix its glitchy website, state lawmakers want to give students more time to complete their FAFSA forms. 
+
+<https://laist.com/news/education/california-financial-aid-deadline-fafsa-april>
+
+---
+
+## Matadors softball swept by Cal Poly in first Big West series
+
+date: 2024-03-19, from: The Sundail (CSUN Student Newspaper)
+
+CSUN gave up only eight runs in three games against Cal Poly San Luis Obispo. Most of the time, this would suggest the Matadors won the series, taking at least... 
+
+<https://sundial.csun.edu/179664/sports/matadors-swept-by-cal-poly-in-first-big-west-series/>
+
+---
+
+## Live Music on Three Stages at the Santa Clarita Cowboy Festival
+
+date: 2024-03-19, from: City of Santa Clarita
+
+<p>LIVE MUSIC ON THREE STAGES AT THE SANTA CLARITA COWBOY FESTIVAL Dust off Your Cowboy Boots for a Full Lineup of Country, Western, Folk and Bluegrass The 28th Annual Santa Clarita Cowboy Festival is back with your favorite musical performers and an exciting lineup of new acts. Taking place on Saturday, April 20 and Sunday, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/03/19/live-music-on-three-stages-at-the-santa-clarita-cowboy-festival/">Live Music on Three Stages at the Santa Clarita Cowboy Festival</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/03/19/live-music-on-three-stages-at-the-santa-clarita-cowboy-festival/>
+
+---
+
+## Embracing the Spring
+
+date: 2024-03-19, from: CSUN Library Blog, Cited
+
+<div><img width="290" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2024/03/32754112564_db01d61fe4_w.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" style="margin-bottom: 15px;" fetchpriority="high" /></div>Winter has started to fade into the background and the natural world re-awakens: it&#8217;s Spring! The arrival of spring, historically and culturally, tends to bring&#8230; 
+
+<https://library.csun.edu/blogs/cited/2024/03/19/embracing-the-spring/>
+
+---
+
+## Travel the World in 2024 with “CELEBRATE”
+
+date: 2024-03-19, from: City of Santa Clarita
+
+<p>TRAVEL THE WORLD IN 2024 WITH “CELEBRATE”Journey to New Destinations Monthly at the Canyon Country Community Center There is so much to learn from different customs and cultures and you don’t need a plane ticket to experience it all. The Celebrate event series is back for its anticipated third year and offers insights into unique [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2024/03/19/travel-the-world-in-2024-with-celebrate/">Travel the World in 2024 with “CELEBRATE”</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<https://santaclarita.gov/blog/2024/03/19/travel-the-world-in-2024-with-celebrate/>
 
 ---
 
@@ -18,6 +257,18 @@ date: 2024-03-19, from: The Daily Trojan (USC Student Newspaper)
  
 
 <https://dailytrojan.com/2024/03/19/classifieds-march-19-2024/>
+
+---
+
+## USC discontinues Academic Achievement Award, Exceptional Funding
+
+date: 2024-03-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Office of Academic Programs felt the AAA had “reached its natural conclusion.” But some students expressed dismay at what they saw as an abrupt and frustrating decision.</p>
+<p>The post <a href="https://dailytrojan.com/2024/03/19/usc-to-no-longer-offer-academic-achievement-award-exceptional-funding-scholarships/">USC discontinues Academic Achievement Award, Exceptional Funding</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<https://dailytrojan.com/2024/03/19/usc-to-no-longer-offer-academic-achievement-award-exceptional-funding-scholarships/>
 
 ---
 
@@ -160,6 +411,26 @@ No. 2 seed UCLA women’s basketball is just days away from its Round of 64 cont
 
 ---
 
+## ASLMU candidates address student disconnection at presidential debate
+
+date: 2024-03-19, from: Laloyolan (LMU Student Newspaper)
+
+The ASLMU presidential and vice presidential candidates spoke on the lack of connection between students and ASLMU, with each ticket sharing the changes they hope to make to improve communication through expanding the role of ASLMU. 
+
+<https://www.laloyolan.com/news/aslmu-candidates-address-student-disconnection-at-presidential-debate/article_1ad81a10-ad02-5f86-87ed-f9b1e0f3984f.html>
+
+---
+
+## Students inject new life into 45th annual Special Games
+
+date: 2024-03-19, from: Laloyolan (LMU Student Newspaper)
+
+Special Games has been around since 1977, but COVID-19 forced the event to take a brief hiatus. In its second year back, students and faculty believe the games are finding their stride again thanks to new developments – including a… 
+
+<https://www.laloyolan.com/news/students-inject-new-life-into-45th-annual-special-games/article_cde989ba-c0fa-5bb9-be8a-3dc8d1b01dda.html>
+
+---
+
 ## The LOW Down: Second by second, UCLA women’s basketball recalibrates for March Madness
 
 date: 2024-03-19, from: The Daily Bruin (UCLA Student Newspaper)
@@ -187,9 +458,8 @@ date: 2024-03-19, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2024-03-19, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated March 18 at 9:33 p.m.</em>
-2,248 career points and counting.
-Charisma Osborne&#8217;s total – which ranks second on UCLA women’s basketball&#8217;s all-time scoring list – is a clear testament to her longevity. 
+<em>This post was updated March 19 at 4:24 p.m.</em>
+<em>Editor&#8217;s note: This post was updated to replace a photo illustration that contained images the Daily Bruin did not have permission to use.</em> 
 
 <https://dailybruin.com/2024/03/18/creating-a-legacy-charisma-osborne-surpasses-2248-points-amid-career-of-growth-trust/>
 
@@ -253,7 +523,7 @@ The Bruins’ season ended Thursday – as did their tenure in the Pac-12. In th
 
 ## What Makes Pasadena’s ‘Bungalow Courts’ So Special? A Fan Of Historic Places Explains
 
-date: 2024-03-18, updated: 2024-03-18, from: The LAist
+date: 2024-03-18, updated: 2024-03-19, from: The LAist
 
 The How to LA team visits Gartz Court with Etan Rosenbloom, an Angeleno who documents historic places on social media. 
 

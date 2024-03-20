@@ -1,11 +1,75 @@
 ---
 title: mid central 2024.12
-updated: 2024-03-19 08:46:02
+updated: 2024-03-20 07:29:07
 ---
 
 # mid central 2024.12
 
-(date: 2024-03-19 08:46:02)
+(date: 2024-03-20 07:29:07)
+
+---
+
+## A self-testing GPIO
+
+date: 2024-03-20, from: EDN Blog
+
+<img width="279" height="252" src="https://www.edn.com/wp-content/uploads/Fig1-2.jpg?fit=279%2C252" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" /><p>A self-test ensuring a reliable connection between the GPIO and an object in the event there may be a loss of contact, short circuit, etc.</p>
+<p>The post <a href="https://www.edn.com/a-self-testing-gpio/" data-wpel-link="internal">A self-testing GPIO</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<https://www.edn.com/a-self-testing-gpio/>
+
+---
+
+## “Armenians in Film: Six Short Films by Armenian Filmmakers” Featured in CineCulture Series
+
+date: 2024-03-20, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Audience members were transported across the globe by “Armenians in Film: Six Short Films by Armenian Filmmakers,” which screened as part of the CineCulture Film Series at Fresno State on Friday, February 16. The two hundred and fifty people in attendance were able to view six films, each of which was distinct and presented a... 
+
+<https://fscollegian.com/2024/03/103495/>
+
+---
+
+## Dr. Watenpaugh Brings New Perspective to the Armenian and Native American Genocides
+
+date: 2024-03-20, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+“I argue that through a focus on the lived experience of children during genocide, we can build a comparative framework for the global study of indigenous genocide,” said Dr. Keith Watenpaugh. “I make this argument because during most genocides, there is a systematic and shared pattern of the treatment of children.” On Thursday, February 1,... 
+
+<https://fscollegian.com/2024/03/dr-watenpaugh-brings-new-perspective-to-the-armenian-and-native-american-genocides/>
+
+---
+
+## Letter to the editor: Why you should vote Jaden Baker for ASI president
+
+date: 2024-03-19, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Hey, Bulldogs! My name is Jaden Baker, and I&#8217;m running for the 2024 ASI presidential election alongside my slate of Nicholas Monroe and Seth Mays. I am running not just as a candidate, but as a fellow student deeply invested in our shared future at Fresno State. In high school, I began exploring leadership and... 
+
+<https://fscollegian.com/2024/03/letter-to-the-editor-why-you-should-vote-for-jaden-baker-for-asi-president/>
+
+---
+
+## Letter to the editor: Why you should vote Faith Van Hoven for ASI president
+
+date: 2024-03-19, from: The Collegian (Cal State Fresno's Student Newspaper)
+
+Hey Bulldogs! My name is Faith Van Hoven, and I am currently an ASI presidential candidate. I am currently a junior majoring in philosophy with an emphasis on law. During my time at Fresno State, I have been a part of the Filipino Club, Mock Trial, Speech and Debate, ASI and my college’s honors programs.... 
+
+<https://fscollegian.com/2024/03/letter-to-the-editor-why-you-should-vote-faith-van-hoven-for-asi-president/>
+
+---
+
+## Faculty Paving the Way for the Next Generation of Women in Ag
+
+date: 2024-03-19, from: Blue Devil News (Merced Community College Student Newspaper)
+
+<p>By Luciana Chavez Special to Merced College Merced College Professor Nikki Maddux has been around long enough to see an important demographic shift on campus. “Right now, in our animal&#8230;</p>
+<p>The post <a href="https://www.mccd.edu/news/faculty-paving-the-way-for-the-next-generation-of-women-in-ag/">Faculty Paving the Way for the Next Generation of Women in Ag</a> appeared first on <a href="https://www.mccd.edu">Merced College</a>.</p>
+ 
+
+<https://www.mccd.edu/news/faculty-paving-the-way-for-the-next-generation-of-women-in-ag/>
 
 ---
 
@@ -13,7 +77,7 @@ updated: 2024-03-19 08:46:02
 
 date: 2024-03-19, from: EDN Blog
 
-<img width="381" height="290" src="https://www.edn.com/wp-content/uploads/Figure-2_ProperADC.png?fit=381%2C290" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-2_ProperADC.png?w=381 381w, https://www.edn.com/wp-content/uploads/Figure-2_ProperADC.png?w=300 300w" sizes="(max-width: 381px) 100vw, 381px" /><p>Linearization in the digital domain for the anemometer requires a higher ADC resolution. So, here’s a design for a high-resolution ADC...</p>
+<img width="381" height="290" src="https://www.edn.com/wp-content/uploads/Figure-2_ProperADC.png?fit=381%2C290" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-2_ProperADC.png?w=381 381w, https://www.edn.com/wp-content/uploads/Figure-2_ProperADC.png?w=300 300w" sizes="(max-width: 381px) 100vw, 381px" /><p>Linearization in the digital domain for the anemometer requires a higher ADC resolution. So, here’s a design for a high-resolution ADC...</p>
 <p>The post <a href="https://www.edn.com/15-bit-voltage-to-time-adc-for-proper-function-anemometer-linearization/" data-wpel-link="internal">15-bit voltage-to-time ADC for “Proper Function” anemometer linearization</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,11 +1,423 @@
 ---
 title: tech likely 2024.12
-updated: 2024-03-19 08:46:02
+updated: 2024-03-20 07:29:07
 ---
 
 # tech likely 2024.12
 
-(date: 2024-03-19 08:46:02)
+(date: 2024-03-20 07:29:07)
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-03-20, from: Miguel de Icaza Mastondon feed)
+
+<p>Finally the EU will allow trust and bridges to be rebuilt for struggling couples!</p><p><a href="https://spydrill.com/best-keyloggers-android/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">spydrill.com/best-keyloggers-a</span><span class="invisible">ndroid/</span></a></p> 
+
+<https://mastodon.social/@Migueldeicaza/112128187440754266>
+
+---
+
+## NASA Sees Progress on Blue Origin’s Orbital Reef Life Support System
+
+date: 2024-03-20, from: NASA breaking news
+
+A NASA-funded commercial space station, Blue Origin’s Orbital Reef, recently completed testing milestones for its critical life support system as part of the agency’s efforts for new destinations in low Earth orbit. The four milestones are part of a NASA Space Act Agreement originally awarded to Blue Origin in 2021 and focused on the materials [&#8230;] 
+
+<https://www.nasa.gov/humans-in-space/commercial-space/nasa-sees-progress-on-blue-origins-orbital-reef-life-support-system/>
+
+---
+
+## Putty-Looking-Ass Whips
+
+date: 2024-03-20, updated: 2024-03-20, from: One Foot Tsunami
+
+ 
+
+<https://onefoottsunami.com/2024/03/20/putty-looking-ass-whips/>
+
+---
+
+## Check which phase the moon was in on a special day with this desktop lunar display
+
+date: 2024-03-20, from: Raspberry Pi News (.com)
+
+<p>Lorraine used a Raspberry Pi Pico W to create a moon phase display for her desk. It might look like it's just stalled on one particular phase, but it's much smarter than that.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/check-which-phase-the-moon-was-in-on-a-special-day-with-this-desktop-lunar-display/">Check which phase the moon was in on a special day with this desktop lunar display</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<https://www.raspberrypi.com/news/check-which-phase-the-moon-was-in-on-a-special-day-with-this-desktop-lunar-display/>
+
+---
+
+## Michel Talagrand Wins Abel Prize for Work Wrangling Randomness
+
+date: 2024-03-20, from: Quanta Magazine
+
+The French mathematician spent decades developing a set of tools now widely used for taming random processes.            <p>The post <a href="https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/" target="_blank">Michel Talagrand Wins Abel Prize for Work Wrangling Randomness</a> first appeared on <a href="https://api.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<https://www.quantamagazine.org/michel-talagrand-wins-abel-prize-for-work-wrangling-randomness-20240320/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-03-20, from: Miguel de Icaza Mastondon feed)
+
+<p>New constellation episode.</p> 
+
+<https://mastodon.social/@Migueldeicaza/112125852251748170>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-03-20, from: Miguel de Icaza Mastondon feed)
+
+<p>Kate Middleton has been spotted in the wild:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112125228234042646>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2024-03-19, from: Miguel de Icaza Mastondon feed)
+
+<p>The EU regulating Apple is like the bull at the china shop rearranging furniture.</p><p>This is a mess:</p> 
+
+<https://mastodon.social/@Migueldeicaza/112124925444364270>
+
+---
+
+##  Back in 2012, some French apiaries were producing blue, green, and brown... 
+
+date: 2024-03-19, updated: 2024-03-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044214-back-in-2012-some-french>
+
+---
+
+##  Why Weather Forecasts Have Gotten So Good 
+
+date: 2024-03-19, updated: 2024-03-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/why-weather-forecasts-have-gotten-so-good>
+
+---
+
+## The Online Local Chronicle
+
+date: 2024-03-19, from: Doc Searls (at Harvard), New Old Blog
+
+After we came to Bloomington in the summer of 2021, we rented an apartment by Prospect Hill, a quiet dome of old houses just west of downtown. There we were surprised to hear, nearly every night, as many police and ambulance sirens as we&#8217;d heard in our Manhattan apartment. Helicopters too. Soon we realized why: [&#8230;] 
+
+<https://doc.searls.com/2024/03/19/the-online-local-chronicle/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-19, from: Dave Winer's Scripting News)
+
+<a href="https://www.threads.net/@pkedrosky/post/C4tOq4hPiBn">Paul Kedrosky</a> is paying for feeds coming out of Twitter and subscribing to them in Feedly along with his other feeds. This is smart and futuristic. No reason to have two or more social webs, let's get them all working together. 
+
+<http://scripting.com/2024/03/19.html#a213619>
+
+---
+
+## OSNews sponsorships
+
+date: 2024-03-19, from: OS News
+
+Did you know we offer sponsorships at OSNews? A weekly sponsorship puts your display ad on our site for a week. We will make an introductory post at the start of the week, and a thank you post at the end of the week, which will both make it to our RSS feed and social accounts. OSNews gets about 450,000 visits per month with more than 32,000 registered users, spread out over North America and Europe. In addition, for any sponsorship you buy, you can opt to give a free weekly sponsorship to any open source and/or small project of your choosing. Does your company make use of an open source project you&#8217;d wish to help out? Let us know, and we&#8217;ll see if they&#8217;re interested in that free weekly sponsorship. Read our Sponsorship page for more information, or contact Thom Holwerda for sponsorship inquiries. 
+
+<https://www.osnews.com/story/138877/osnews-sponsorships/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-19, from: Dave Winer's Scripting News)
+
+And <a href="https://nbariver.com/">nbariver.com</a> and <a href="https://mlbriver.com/">mlbriver.com</a>. 
+
+<http://scripting.com/2024/03/19.html#a211655>
+
+---
+
+## Clearing Space on Your Mac
+
+date: 2024-03-19, from: Michael Tsai
+
+Adam Engst: Glenn Fleishman recently had to wipe one of his teenagers&#8217; Macs after a massive Steam game download led to stalled Time Machine snapshots, resulting in a Mac with just 41K free. They tried numerous approaches to clearing space, but nothing worked&#8212;every attempt to delete files was met with errors complaining about the lack [&#8230;] 
+
+<https://mjtsai.com/blog/2024/03/19/clearing-space-on-your-mac/>
+
+---
+
+## Joel Page, RIP
+
+date: 2024-03-19, from: Michael Tsai
+
+Andrew Abernathy: For those who knew him: @JoelPage passed away last night.For those who didn&#8217;t know: he was at @OmniGroup for approaching two decades, starting on the Support team in 2003, later also becoming the longtime PM for OmniGraffle, and a member of the UX team. He designed and created loads of our icons, including [&#8230;] 
+
+<https://mjtsai.com/blog/2024/03/19/joel-page-rip/>
+
+---
+
+## How to write a QML effect for KWin
+
+date: 2024-03-19, from: OS News
+
+In order solve that problem, we started looking for some options and the most obvious one was QtQuick. It’s a quite powerful framework and it’s already used extensively in Plasma. So, in Plasma 5.24, we introduced basic support for implementing kwin effects written in QML and even added a new overview effect. Unfortunately, if you wanted to implement a QtQuick-based effect yourself, you would still have to write a bit of C++ glue yourself. This is not great because effects that use C++ are a distribution nightmare. They can’t be just uploaded to the KDE Store and then installed by clicking “Get New Effects…”. Furthermore, libkwin is a fast moving target with lots of ABI and API incompatible changes in every release. That’s not good if you’re an effect developer because it means you will need to invest a bit of time after every plasma release to port the effects to the new APIs or at least rebuild the effects to resolve ABI incompatibilities. This has been changed in Plasma 6.0. In Plasma 6, we’ve had the opportunity to address that pesky problem of requiring some C++ code and also improve the declarative effect API after learning some lessons while working on the overview and other effects. So, enough of history and let’s jump to the good stuff, shall we? ↫ Vlad Zahorodnii Making it easier to write things like Plasma widgets and Kwin effects is always desirable, and making them easier to distribute is only icing on the cake. 
+
+<https://www.osnews.com/story/138875/how-to-write-a-qml-effect-for-kwin/>
+
+---
+
+##  On the cultural division of local and global fans of Premier League... 
+
+date: 2024-03-19, updated: 2024-03-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044217-on-the-cultural-division->
+
+---
+
+## Make SHOW as good as SELECT even with InnoDB
+
+date: 2024-03-19, from: Ocelot SQL GUI blog
+
+Here&#8217;s a snippet of what I&#8217;d like SHOW ENGINE INNODB STATUS to look like: as opposed to what the server sends: ... -------- FILE I/O -------- Pending flushes (fsync): 0 295 OS file reads, 1 OS file writes, 1 OS fsyncs 0.00 reads/s, 0 avg bytes/read, 0.00 writes/s, 0.00 fsyncs/s ... In my last post&#8230; <a class="continue" href="https://ocelot.ca/blog/blog/2024/03/19/make-show-as-good-as-select-even-with-innodb/">Continue Reading Make SHOW as good as SELECT even with InnoDB</a> 
+
+<https://ocelot.ca/blog/blog/2024/03/19/make-show-as-good-as-select-even-with-innodb/>
+
+---
+
+##  Don&#8217;t Be the Best. Be the Only. 
+
+date: 2024-03-19, updated: 2024-03-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/dont-be-the-best-be-the-only>
+
+---
+
+## John Romero doesn’t believe in prototypes
+
+date: 2024-03-19, from: Dave Rupert blog
+
+<p>A couple weeks ago I joined <a href="https://social.lol/@tylersticka/112005607463887992">a conversation about John Romero and prototypes</a>. <a href="https://cloudfour.com/thinks/the-possibility-bridge/">Tyler posted some thoughts about Romero’s autobiography</a>, <a href="https://mastodon.social/@matthiasott/112005791745972036">Matthias shared a quote from a Tim Ferris podcast</a> where Romero chided prototypes, and Matthias looped me in because I love prototypes.</p>
+<blockquote>
+<p>No prototypes. Just make the game. Polish as you go. Don’t depend on polish happening later. Always maintain constantly shippable code.<br />
+– John Romero, <a href="https://www.youtube.com/watch?v=IzqdZAYcwfY">Strange Loop 2002</a></p>
+</blockquote>
+<p>A quick internet conversation changed the course of my week a bit. After that short exchange I dove in and listened to podcasts, watched a handful of talks, and read an entire <a href="https://bookshop.org/p/books/doom-guy-life-in-first-person-john-romero/18230638?ean=9781419758119">autobiography</a>… and I’m still shocked that John Romero doesn’t believe in prototypes.</p>
+<h2>id Software is synonymous with speed</h2>
+<p>To understand Romero’s perspective you need to understand the ethos of id Software. id Software was –to borrow a gaming term– a “Press W” company, meaning they tend to plow through all obstacles to keep forward momentum. As Romero recounts in his biography, they prioritized speed above all other design principles.</p>
+<ul>
+<li>Speed in gameplay</li>
+<li>Speed in development</li>
+<li>Speed in using the latest tech</li>
+<li>Speed in heavy metal MIDI soundtracks</li>
+</ul>
+<p>Romero and Carmack were also prolific developers. <a href="https://en.wikipedia.org/wiki/John_Romero#Games">Romero has over 100 titles to his name</a> and in 1991 they released 15 games! And they did this while simultaneously pioneering 3D video game graphics for Wolfenstein 3D (1992) and  DOOM (1993).  How did they maintain such velocity?</p>
+<ul>
+<li><strong>Good division of labor.</strong> Carmack worked on the game engine, Romero on the level design, and Tom Hall did the art.</li>
+<li><strong>They lived together.</strong> I’m not advocating for workplace cohabitation, but I think you need to acknowledge the contextual environment.</li>
+<li><strong>Knew the hardware.</strong> Carmack and Romero were intimately familiar with the limitations of the hardware they were developing against which made porting games to other platforms (Commodore, Amiga, etc) a lot more predictable.</li>
+<li><strong>Always rewriting</strong>. They were always rewriting using the latest tech. Take an existing title and use the latest graphic capabilities, take an existing title and make it with the latest engine, rinse and repeat.</li>
+<li><strong>Built internal tools.</strong> Romero built internal tools to speed up level design: <a href="https://keenwiki.shikadi.net/wiki/TED5">TEd</a> (a text-based level editor), <a href="https://doomwiki.org/wiki/DoomEd">DoomEd</a>, and <a href="https://quake.fandom.com/wiki/QuakeEd">QuakeEd</a>. Romero frequently talks about making DOOM levels in a single night.</li>
+<li><strong>Predictable scope.</strong> While the underlying graphics or physics engine might change dramatically, the formula for the scope of the game (number episodes, levels, weapons, and types of enemies) stayed nearly the same so you could repeat processes, reduce code churn, and avoid surprise hardware limitations.</li>
+</ul>
+<p>That formula gave the team a lot of shots on goal. To use another sports metaphor, that’s a lot of reps. id Software was crunch time all the time. Abiding in that  breakneck thrill ride enabled them to create groundbreaking, industry-defining titles like DOOM and Quake.</p>
+<h2>Back to prototypes and the lack thereof…</h2>
+<p>Okay. Back to the main plot. John Romero doesn’t like prototypes…</p>
+<blockquote>
+<p>“No prototypes. Just make the game. Polish as you go.”</p>
+</blockquote>
+<p>Speed is great, but process effects outcomes. In Romero’s own words “Don’t depend on polish happening later” which is something those of us in tech know all too well. You’re probably going to run up against “<a href="https://devopedia.org/iron-triangle">the Iron Triangle</a>” at some point.</p>
+<p>I’m not trying to throw shade – I will never be as successful as id Software – but here’s a side-by-side of two similar side-scroller games.</p>
+<figure>
+<div class="gallery" style="display:grid; grid-template-columns: 1fr 1fr; gap: var(--fluid-pad, 1.5vw); max-width: 640px;">
+<img src="https://cdn.daverupert.com/posts/2024/mario.png" alt="Super Mario Bros (1985)">
+<img src="https://cdn.daverupert.com/posts/2024/keen.png" alt="Commander Keen (1990)">
+</div>
+</figure>
+<p>One is a game from a company that prioritizes prototyping and using <a href="https://en.wikipedia.org/wiki/Gunpei_Yokoi#Lateral_Thinking_with_Withered_Technology">withered technology</a> (Super Mario Bros, 1985), the other is a clone of that game from a company that prioritizes shipping quick on the latest hardware (Commander Keen, 1990). This isn’t an attempt to strip the game of its technical achievements, bringing Nintendo-like games to the PC, but there’s a palpable difference between the two; one is timeless and one is timely. While a myriad of skill, staffing, and technology factors contribute to the difference<sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup>, I believe the biggest delta comes down to pressing the publish button too early.</p>
+<p>There’s a <a href="https://www.acriticalhit.com/solved-miyamoto-quote-late-game-bad-forever">famously misattributed</a> quote that seems apropos here…</p>
+<blockquote>
+<p>“A delayed game is eventually good. A bad game is bad forever.”<br />
+– Siobahn Beeman, often misattributed to Shigeru Miyamoto</p>
+</blockquote>
+<p>Who cares if some “<a href="https://arc.net/l/quote/brzalrzi">not spectacular</a>” graphics slipped out the door? That game, Commander Keen, was successful. id Software was successful. Over and over. From my perspective that comes down to the sheer volume of ideas they shipped, that continuous practice, and their novel shareware distribution model coinciding with the explosion of the internet and the PC. You need to be responsive and reactive to that wave and if there’s a commitment to release a new product every month, then I wouldn’t recommend a thinking tool like prototypes under those limitations either.</p>
+<p>Do I –without evidence– believe they actually did prototype a bit? Yes. I think in the sense of experimenting with level design or evaluating community mods, they could cheaply explore new ideas with low effort thanks to their level editor tools. All those throwaway ideas amount to some level of what I’d call prototyping. But I take Romero’s point that they didn’t believe in prototyping, they were working on the product, not an idea, and could have hit publish at any point in the process.</p>
+<p>So I’ll concede that maybe with a pair of once-in-a-generation talent, a perfect mixture of group workaholism, a breakneck cadence, all living in the same house, a convergence of new technologies, quality internal tools, the explosion of the home computer industry, an original and extremely violent IP that appealed to the Metallica generation, and over a hundred shots on goal… you too might be able to capture lightning in a bottle and create a smash hit like “the entire concept of 3D video games”…</p>
+<p>… but for the rest of us there’s prototypes.</p>
+<section class="footnotes">
+<ol>
+<li id="fn1">
+<p>A bit more on development timelines. <a href="https://en.wikipedia.org/wiki/Super_Mario_Bros.#Development">Super Mario Bros was 7 people and took 5 months</a> building on systems built in previous games and <a href="https://en.wikipedia.org/wiki/Commander_Keen#Development">Commander Keen was 4 people and took 3 months</a>. <a href="#fnref1" class="footnote-backref">↩</a></p>
+</li>
+</ol>
+</section> 
+
+<https://daverupert.com/2024/03/romero-doesnt-like-prototypes/>
+
+---
+
+##  The trailer for a new Star Wars series called The Acolyte. The... 
+
+date: 2024-03-19, updated: 2024-03-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044215-the-trailer-for-a-new>
+
+---
+
+##  Hans Zimmer and a group of musicians perform the Dune soundtrack live.... 
+
+date: 2024-03-19, updated: 2024-03-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044213-hans-zimmer-and-a-group>
+
+---
+
+## NASA to Select Lunar Terrain Vehicle for Artemis Missions
+
+date: 2024-03-19, from: NASA breaking news
+
+NASA will host a news conference to announce the company, or companies, selected to move forward in developing the LTV (Lunar Terrain Vehicle), which will help Artemis astronauts explore more of the Moon’s surface on future missions. The televised event will take place at 4 p.m. EDT (3 p.m. CDT), Wednesday, April 3, at the [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasa-to-select-lunar-terrain-vehicle-for-artemis-missions/>
+
+---
+
+## NASA, Industry Improve Lidars for Exploration, Science
+
+date: 2024-03-19, from: NASA breaking news
+
+NASA engineers will test a suite of new laser technologies from an aircraft this summer for Earth science remote sensing. Called lidar, the instruments could also be used to improve models of the Moon’s shape and aid the search for Artemis landing sites. Similar to sonar, but using light instead of sound, lidars calculate distances [&#8230;] 
+
+<https://www.nasa.gov/technology/goddard-improves-lidars-for-exploration/>
+
+---
+
+## From ink to pixel to ink
+
+date: 2024-03-19, from: Manu - I write blog
+
+
+                <p>I love books. I love reading books but I also love books as objects. And if you’re a designer—or passionate about design—chances are, you also love books. There’s something about the book, as an object, that managed to survive across all the various societal and technological changes.</p>
+<p>In the 2010s, during the peak iPad era, people thought paper books were doomed. What’s the point of printing something when you can get hundreds, or even thousands of books inside a single device? And I’ll be honest with you, I went through that phase myself. For years I was only reading on an iPad. And it was great. Until it wasn’t.</p>
+<p>There’s something about a printed book that technology can’t replace. I can’t tell you exactly why but I’m sure you know what I’m talking about. Reading a book, handling a book, smelling the ink and the paper, seeing it age over time, those are things that can’t be reproduced in the digital space.</p>
+<p>I love books. I love when people pour their hearts and souls into creating great books. And I’m not just talking about the writing. Or the photographing. Or the illustrating. I’m talking about caring about the book itself, as an object.</p>
+<p>That’s one of the reasons why I keep buying every book <a href="https://shop.specialprojects.jp">Craig Mod makes</a>. The man knows how to make great books. And you can feel it. You can instantly tell he loved the process as soon as you pick up one of his books.</p>
+<p>I never had to make a book myself. I designed a few, back when I was studying graphic design more than a decade ago. But I did experience firsthand what it means to care about creating a great book. That’s because I watched Carl and my brother working together to create the first volume of the <a href="https://minimalissimo.shop/product/selection-architecture">Minimalissimo Selection</a> series. The final product is an incredibly simple object but creating simple objects is painfully hard.</p>
+<figure class="m-o" data-template="with"><div class="m-m"><img class="img" loading="lazy" src="https://manuelmoreale.com/media/pages/thoughts/from-ink-to-pixel-to-ink/1adbc5322f-1710871916/book.jpeg" style="aspect-ratio:1000 / 1333"></div><figcaption>If you're into minimalism and architecture this is a book for you</figcaption></figure>
+<p>Before websites like Minimalissimo were a thing, you had to buy books to find visual inspiration. And now you have books created as a result of years of curation of those same websites. From ink, to pixel, and back to ink.</p>
+<p>The iPad didn’t manage to kill books the same way smartphones didn’t manage to kill traditional photography. The more we digitize the world the more analogue, physical objects become important. And as creators, it’s important to care about creating quality objects. Because as they say if is worth doing at all, is worth doing well.</p>
+<hr />
+<p>A final note about the lovely book Carl made. It was a limited run and there won’t be a second edition. But, <a href="https://minimalissimo.shop/product/selection-architecture">there are still copies left so if you want one I suggest you act fast</a>. Carl was also kind enough to set up a 25% discount for the readers of this site. Just use the <code>SELECTION25</code> code at checkout.</p>
+<p>Also, if you love books, and coffee, and great filmmaking, Antonio Carusone created an amazing promotional video for the book that I’ll embed down below.</p>
+<figure class="m-o" data-template="with"><div class="m-m"><div class="m-i mv-i" style="padding-bottom:42.52%"><iframe allow="fullscreen" allowfullscreen src="https://player.vimeo.com/video/637534117"></iframe></div></div></figure>                <hr>
+                <h2>Get in touch</h2>                <p>Have something to share? Want me as your <a href="https://manuelmoreale.com/i-ll-read-it">first reader</a>? Get in touch. My inbox is always open.</p>                <a href="mailto:hello@manuelmoreale.com">Connect</a> — 
+                <a href="https://manuelmoreale.com/guestbook">Guestbook</a>
+                <hr>
+                <h2>One a month</h2>                <p>That's how little it takes to help with my <a href="https://manuelmoreale.com/on-dreams-and-goals">goal</a>. If you feel generous, consider supporting what I do.</p>                <a href="https://ko-fi.com/manuelmoreale">Donate</a> — 
+                <a href="https://manuelmoreale.com/supporters">Supporters</a>
+                <hr>
+                <h2>People and Blogs</h2>                <p>I ask people to talk about themselves and their blogs. <a href="https://peopleandblogs.com/">Learn more</a> or subscribe.</p>                <a href="https://manuelmoreale.com/feed/peopleandblogs">RSS</a> — 
+                <a href="https://buttondown.email/peopleandblogs">Email</a>
+             
+
+<https://manuelmoreale.com/@/page/r5DWdiIvI5m0PmrR>
+
+---
+
+## Sketch the Shape of the Sun for Science During the Solar Eclipse
+
+date: 2024-03-19, from: NASA breaking news
+
+Calling all eclipse admirers! The SunSketcher team is looking for one million volunteers to capture photos on their cell phones during the April 8 total solar eclipse. These images will help scientists learn about the size, shape, and inner structure of the Sun. This NASA-funded citizen science project invites anyone who will be within the […] 
+
+<https://science.nasa.gov/solar-system/skywatching/sketch-the-shape-of-the-sun-for-science-during-the-solar-eclipse/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-19, from: Dave Winer's Scripting News)
+
+Did the same for <a href="https://bloggers.scripting.com/">bloggers.scripting.com</a>. I found what may be a bug in <a href="http://pagepark.io/">PagePark</a> believe it or not. An ancient workhorse of Dave-Net. 
+
+<http://scripting.com/2024/03/19.html#a172349>
+
+---
+
+## Casey Honniball: Finding Her Space in Lunar Science
+
+date: 2024-03-19, from: NASA breaking news
+
+Lunar scientist Casey Honniball conducts lunar observations and field work near volcanoes to investigate how astronauts could use instruments during moonwalks. Name: Casey HonniballTitle: Lunar scientistOrganization: Planetary Geology, Geophysics, and Geochemistry Laboratory, Science Directorate (Code 698) What do you do and what is most interesting about your role here at Goddard? How do you help [&#8230;] 
+
+<https://www.nasa.gov/people-of-nasa/goddard-people/casey-honniball-finding-her-space-in-lunar-science/>
+
+---
+
+##  Literary Theory for Robots: How Computers Learned to Write. &#8220;Something as simple... 
+
+date: 2024-03-19, updated: 2024-03-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044212-literary-theory-for-robot>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-19, from: Dave Winer's Scripting News)
+
+I got <a href="https://politics.newsriver.org/">politics.newsriver.org</a> working again. Things got pretty shaky in news product land. I'm trying to figure out a general formula for getting things working again.  And as I update them, I'm switching them over to HTTPS. Once again I have to put in a plug for <a href="https://caddyserver.com/">Caddy</a>. A real time-saver. 
+
+<http://scripting.com/2024/03/19.html#a171119>
+
+---
+
+## NASA’s Curious Universe Podcast Unveils New Sun + Eclipse Series
+
+date: 2024-03-19, from: NASA breaking news
+
+NASA released Tuesday the first episode of a new six-part podcast series for first-time space explorers to learn about the Sun. Ahead of the total solar eclipse in April, NASA’s Sun + Eclipse Series will focus on the sphere full of swirling magnetic fields and explosions of hot gases. New episodes will post every Tuesday [&#8230;] 
+
+<https://www.nasa.gov/news-release/nasas-curious-universe-podcast-unveils-new-sun-eclipse-series/>
+
+---
+
+##  Dolly Parton&#8217;s cast iron cookware. Why not!... 
+
+date: 2024-03-19, updated: 2024-03-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044199-wow----dolly-partons-cast>
+
+---
+
+## Firefox 124 brings more slick moves for Mac and Android
+
+date: 2024-03-19, updated: 2024-03-19, from: Liam Proven's articles at the Register
+
+<h4>And you now get keyboard navigation in the built-in PDF reader</h4>
+      <p>The latest version of Firefox improves in areas that should help it fit in better on several categories of hardware.</p> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2024/03/19/firefox_124/>
+
+---
+
+##  I Put 4 Million Suns in a Black Hole Over New York 
+
+date: 2024-03-19, updated: 2024-03-19, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/i-put-4-million-suns-in-a-black-hole-over-new-york>
 
 ---
 
@@ -16,6 +428,16 @@ date: 2024-03-19, updated: 2024-03-19, from: Jason Kottke blog
  
 
 <https://kottke.org/24/03/0044209-i-love-that-lil-nas>
+
+---
+
+## Tech Today: NASA Helps Find Where the Wildfires Are
+
+date: 2024-03-19, from: NASA breaking news
+
+Globally, nearly all wildfires start with a human ignition source – not lightning strikes or wildlife encountering power equipment. Knowing humans can be a primary cause is an example of the sort of knowledge that helps predict and prevent wildfires, a challenge that NASA and the firefighting industry are undertaking together.&#160; As wildfires become more [&#8230;] 
+
+<https://www.nasa.gov/general/tech-today-nasa-helps-find-where-the-wildfires-are/>
 
 ---
 
@@ -630,7 +1052,7 @@ date: 2024-03-18, from: Low-tech magazine
 </div>
 <h2 id="the-environmental-footprint-of-the-steel-industry">The environmental footprint of the steel industry</h2>
 <p>Steel is often presented as one of the most sustainable materials. Unlike plastics, steel can be recycled without any loss in quality. The steel industry has made great advances in energy efficiency, more so than many other industries. Making one ton of crude steel now requires roughly 20 gigajoules (GJ) of primary energy on average – three times less than in 1950.<sup id="fnref:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup> This compares very favorably to other materials such as aluminum (175 GJ/t), plastics (80-120 GJ/t), or copper (45 GJ/t).<sup id="fnref2:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup> Unlike plastics, steel is a biodegradable material.<sup id="fnref:10"><a href="#fn:10" class="footnote-ref" role="doc-noteref">10</a></sup> Finally, iron ore is not in short supply. It makes up 5 percent of the Earth’s crust and is fourth in abundance among the elements.<sup id="fnref:11"><a href="#fn:11" class="footnote-ref" role="doc-noteref">11</a></sup> For comparison, copper only makes up 0.01%.<sup id="fnref2:5"><a href="#fn:5" class="footnote-ref" role="doc-noteref">5</a></sup></p>
-<p>However, despite all these advantages, the global iron and steel industry consumes more energy and produces more carbon emissions than any other industry. The total primary energy use of crude steel production was 39 exajoules (EJ) in 2021, which corresponds to 7% of all energy used worldwide in that year (595 EJ). The greenhouse gas emissions are even higher because around 75% of energy use comes from coal – the fuel with the highest carbon emissions. In 2021, the iron and steel industry produced 3.3 Gt of carbon emissions, roughly 9% of global emissions (36.3 Gt).<sup id="fnref:12"><a href="#fn:12" class="footnote-ref" role="doc-noteref">12</a></sup> The concrete industry follows closely with 8% of global emissions.</p>
+<p>However, despite all these advantages, the global iron and steel industry consumes more energy and produces more carbon emissions than any other industry. The total primary energy use of crude steel production was 39 exajoules (EJ) in 2021, which corresponds to 7% of all energy used worldwide in that year (595 EJ). The greenhouse gas emissions are even higher because around 75% of energy use comes from coal – the fuel with the highest carbon emissions. In 2021, the iron and steel industry produced 3.3 Gt of carbon emissions, roughly 9% of global emissions (36.3 Gt).<sup id="fnref:12"><a href="#fn:12" class="footnote-ref" role="doc-noteref">12</a></sup> The concrete industry follows closely with 8%.</p>
 <blockquote>
 <p>The iron and steel industry consumes more energy and produces more carbon emissions than any other industry.</p>
 </blockquote>
@@ -638,10 +1060,10 @@ date: 2024-03-18, from: Low-tech magazine
 <p>Scientific studies that have set wider boundaries for the iron and steel industry conclude that the energy cost of steel production increases by 50% to 100%.<sup id="fnref:13"><a href="#fn:13" class="footnote-ref" role="doc-noteref">13</a></sup> One report concludes that the methane emissions from metallurgical coal mining alone could increase emissions by 27%. Another study estimates that seaborne transport of iron ore and steel adds 10-15% extra emissions.<sup id="fnref:14"><a href="#fn:14" class="footnote-ref" role="doc-noteref">14</a></sup><sup id="fnref:15"><a href="#fn:15" class="footnote-ref" role="doc-noteref">15</a></sup> Iron and steel production also create other environmental problems, such as high water use, solid waste production, and significant air and water pollution.</p>
 <p>The carbon footprint of the iron and steel industry is incompatible with current ambitions to eliminate net carbon emissions by 2050, even less so because steel production is very likely to expand further. Steel production grew tenfold since 1950 and doubled between 2000 and 2020, growing faster than many researchers had predicted.<sup id="fnref:16"><a href="#fn:16" class="footnote-ref" role="doc-noteref">16</a></sup> Furthermore, efficiency gains have decreased, and there is a scientific consensus that current technologies have reached their thermodynamic limits.<sup id="fnref4:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup><sup id="fnref1:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup><sup id="fnref:17"><a href="#fn:17" class="footnote-ref" role="doc-noteref">17</a></sup> During the last two decades, the average energy use for the production of 1 ton of steel has remained around 20 GJ/t.<sup id="fnref2:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup><sup id="fnref:18"><a href="#fn:18" class="footnote-ref" role="doc-noteref">18</a></sup></p>
 <h2 id="how-to-make-steel-without-fossil-fuels">How to make steel without fossil fuels?</h2>
-<p>There are two ways to make steel, and one is much more sustainable than the other.<sup id="fnref:19"><a href="#fn:19" class="footnote-ref" role="doc-noteref">19</a></sup> On the one hand, there is the blast furnace or basic oxygen furnace, in which steel is made from iron ore and coal. This technology is – in its essential form – 2000 years old.<sup id="fnref1:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> On the other hand, there is the electric arc furnace, in which steel is made from steel scrap and electricity. The electric arc furnace, which is a relatively new technology, consumes much less energy than the blast furnace, makes use of a recycled resource (no need to mine iron ore), and works without the direct use of coal or other fossil fuels (the electricity can be supplied by solar, wind, or atomic power).</p>
+<p>There are two ways to make steel, and one is much more sustainable than the other.<sup id="fnref:19"><a href="#fn:19" class="footnote-ref" role="doc-noteref">19</a></sup> On the one hand, there is the blast furnace or basic oxygen furnace, in which steel is made from iron ore and coal. This technology is – in its essential form – 2000 years old. On the other hand, there is the electric arc furnace, in which steel is made from steel scrap and electricity. The electric arc furnace, which is a relatively new technology, consumes much less energy than the blast furnace, makes use of a recycled resource (no need to mine iron ore), and works without the direct use of coal or other fossil fuels (the electricity can be supplied by solar, wind, or atomic power).</p>
 <p>The most energy-efficient electric arc furnaces now consume less than 300 kilowatt-hours of electricity per ton of steel produced.<sup id="fnref3:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup><sup id="fnref:20"><a href="#fn:20" class="footnote-ref" role="doc-noteref">20</a></sup> Hypothetically, if we had produced all steel in 2021 (1,950 Mt) in such furnaces, the total power consumption of the global iron and steel industry would have been only 585 terawatt-hours (Twh). That corresponds to just one-third of all electricity generated by wind turbines worldwide in the same year (1,848 Twh). Unfortunately, more than 70% of global steel output was made in blast furnaces fed by coal and iron ore.<sup id="fnref4:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup><sup id="fnref1:20"><a href="#fn:20" class="footnote-ref" role="doc-noteref">20</a></sup> A blast furnace consumes twenty times more energy and cannot be operated by electricity because coal is both the fuel source and the chemical reductant. The combustion of coal produces carbon monoxide that reduces the iron from its ore.<sup id="fnref5:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup></p>
 <h2 id="not-enough-scrap-available">Not enough scrap available</h2>
-<p>The solution seems obvious: let’s produce all that steel in electric arc furnaces. However, this is impossible. First, there’s not enough scrap available: the continuous growth of the global steel output makes a circular flow of resources impossible.<sup id="fnref:21"><a href="#fn:21" class="footnote-ref" role="doc-noteref">21</a></sup> It takes decades before most steel becomes available for recycling. For example, there is 543 Mt of steel stocked in ships.<sup id="fnref:22"><a href="#fn:22" class="footnote-ref" role="doc-noteref">22</a></sup> The scrap available for recycling in 2021 corresponds to the production level of 1965 when global steel production was less than one-quarter of what it is today (450 Mt).<sup id="fnref5:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup><sup id="fnref1:10"><a href="#fn:10" class="footnote-ref" role="doc-noteref">10</a></sup><sup id="fnref1:15"><a href="#fn:15" class="footnote-ref" role="doc-noteref">15</a></sup><sup id="fnref:23"><a href="#fn:23" class="footnote-ref" role="doc-noteref">23</a></sup> Consequently, the other three quarters need to be produced in blast furnaces using coal and freshly mined iron ore.</p>
+<p>The solution seems obvious: let’s produce all that steel in electric arc furnaces. However, this is impossible. There’s not enough scrap available: the continuous growth of the global steel output makes a circular flow of resources impossible.<sup id="fnref:21"><a href="#fn:21" class="footnote-ref" role="doc-noteref">21</a></sup> It takes decades before most steel becomes available for recycling. For example, there is 543 Mt of steel stocked in ships.<sup id="fnref:22"><a href="#fn:22" class="footnote-ref" role="doc-noteref">22</a></sup> The scrap available for recycling in 2021 corresponds to the production level of 1965 when global steel production was less than one-quarter of what it is today (450 Mt).<sup id="fnref5:9"><a href="#fn:9" class="footnote-ref" role="doc-noteref">9</a></sup><sup id="fnref1:10"><a href="#fn:10" class="footnote-ref" role="doc-noteref">10</a></sup><sup id="fnref1:15"><a href="#fn:15" class="footnote-ref" role="doc-noteref">15</a></sup><sup id="fnref:23"><a href="#fn:23" class="footnote-ref" role="doc-noteref">23</a></sup> Consequently, the other three quarters need to be produced in blast furnaces using coal and freshly mined iron ore.</p>
 <div class="article-img ">
 <figure data-imgstate="dither">
 <img src="https://solar.lowtechmagazine.com/2024/03/how-to-escape-from-the-iron-age/images/dithers/Cars_for_scrapping_at_the_Port_of_Cardiff_%28geograph_7173139%29_dithered.png" alt='Image: Cars for scrapping at the Port of Cardiff. Gareth James via Wikimedia Commons (CC BY-SA 2.0).' loading="lazy"/></figure>
@@ -723,7 +1145,7 @@ date: 2024-03-18, from: Low-tech magazine
 <p>Thomsen, Christian Jürgensen. &ldquo;Cursory View of the Monuments and Antiquities of the North.&rdquo; Guide to Northern Archaeology by the Royal Society of Northern Antiquaries of Copenhagen (1848): 25-104. See also: Eskildsen, Kasper Risbjerg. &ldquo;Christian Jürgensen Thomsen (1788–1865): Comparing Prehistoric Antiquities.&rdquo; History of Humanities 4.2 (2019): 263-267. And: Briggs, C. Stephen. &ldquo;From Genesis to Prehistory: the archaeological Three Age System and its contested reception in Denmark, Britain, and Ireland. By Peter Rowley-Conwy. 226mm. Pp xix+ 362, 55 b&amp;w ills. Oxford: Oxford University Press, 2007. ISBN 9780199227747.£ 65 (hbk).&rdquo; The Antiquaries Journal 88 (2008): 474-478.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:2">
-<p>Forthcoming article, Kris De Decker, Low-tech Magazine. <a href="https://d69baa34.sibforms.com/serve/MUIEAJWIw9w82Dl4ua6FQArPaI-3Qb-zVTwPNabHQgFH51MiGF69Smy9LOC_HPoUmBj0emaXsXT87gcQXDPvtu-AZsJCHWhkkv21CdrcQu4GdnYAhZ-MrIPhwGDecagLzYxqfvkaqXg2ODcbJU4ByoDmzJK3ZTczDo2jcWtfn-En0MGKLVkgxx9TgdHqYoPabMJCMF-agLEclEwv">Subscribe to Low-tech Magazine&rsquo;s newsletter</a>.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a>&#160;<a href="#fnref1:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<p>Forthcoming article, Kris De Decker, Low-tech Magazine. <a href="https://d69baa34.sibforms.com/serve/MUIEAJWIw9w82Dl4ua6FQArPaI-3Qb-zVTwPNabHQgFH51MiGF69Smy9LOC_HPoUmBj0emaXsXT87gcQXDPvtu-AZsJCHWhkkv21CdrcQu4GdnYAhZ-MrIPhwGDecagLzYxqfvkaqXg2ODcbJU4ByoDmzJK3ZTczDo2jcWtfn-En0MGKLVkgxx9TgdHqYoPabMJCMF-agLEclEwv">Subscribe to Low-tech Magazine&rsquo;s newsletter</a>.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 <li id="fn:3">
 <p>Idoine, N. E., et al. &ldquo;World mineral production 2017-21.&rdquo; (2023). <a href="https://nora.nerc.ac.uk/id/eprint/534316/1/WMP_2017_2021_FINAL.pdf">https://nora.nerc.ac.uk/id/eprint/534316/1/WMP_2017_2021_FINAL.pdf</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>

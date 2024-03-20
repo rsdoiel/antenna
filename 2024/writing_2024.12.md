@@ -1,11 +1,131 @@
 ---
 title: writing 2024.12
-updated: 2024-03-19 08:46:02
+updated: 2024-03-20 07:29:08
 ---
 
 # writing 2024.12
 
-(date: 2024-03-19 08:46:02)
+(date: 2024-03-20 07:29:08)
+
+---
+
+**@Neil Gaiman @ BlueSky** (date: 2024-03-20, from: Neil Gaiman @ BlueSky)
+
+Can i hear a wahoo or two?
+
+[contains quote post or other embedded content] 
+
+<https://bsky.app/profile/neilhimself.neilgaiman.com/post/3ko523fwtls2q>
+
+---
+
+## Publishing 101: How Books Are Published, from Author to Agent to Publisher to Reader
+
+date: 2024-03-20, from: Literature & a Latte blog
+
+
+    
+        
+            
+                <p>You may spend years writing a book, and when you&#39;ve finally completed a final draft that you think is good enough to go out into the world, the next step is to seek publication. If this is your first book - fiction or non-fiction - then the process of how a book gets from your manuscript into readers&#39; hands can be quite complex and can take a long time. It can be helpful to understand the many steps of publication, so you know what you&#39;re in for.</p>
+
+Getting published for the first time
+
+<p>A lot of people try to write books. Very few of them complete their manuscripts, and even fewer have their books accepted for publication. If this is happening to you for the first time, you may be in for a bit of a surprise. The process of going from manuscript to bookstore can be long and complex. It can be helpful to be aware of the many steps in this process, and the milestones that you will encounter along the way.</p>
+
+<p>Note this article discusses traditional publishing, not self-publishing, where the author is in charge of the entire process.</p>
+
+Agents: what are they good for?
+
+<p>The publishing process involves a series of gatekeepers to whittle down the tens or even hundreds of thousands of completed manuscripts that authors are trying to sell each year. The first such person is the literary agent, someone who assesses manuscripts for potential success and takes on promising authors. You don&#39;t pay an agent up front - in fact, you should avoid any agent who asks for money on submission - and agents only make money if they sell your book.</p>
+
+<p>Generally, agents take 15% of what you earn from your book, and, in exchange, they work with you to help revise and improve the manuscript, send finished manuscripts out to publishers, and negotiate contracts. Getting a literary agent is pretty much essential to getting published by a major press these days, and finding an appropriate agent can be difficult. You not only have to find an agent who thinks your book is great, but also one with experience with your genre or type of book. Don&#39;t forget that it is the author who hires the agent, so you shouldn&#39;t necessarily jump at the first nibble you get from an agent, but take your time to make sure you are compatible.</p>
+
+<p>Agents pitch manuscripts to publishers. They use their experience and connections in the publishing industry to know which publishers are the best fit for your manuscript, and which individual editors your book might resonate with. Agents will send manuscripts out to multiple editors and publishers at the same time, and, if several publishers are interested, may even set up an auction. Agents may also try to sell foreign rights to publishers in other territories and languages, and try to sell film and TV rights.</p>
+
+The publishing process
+
+<p>First-time authors may be surprised at how long it takes to go from an accepted manuscript to a published book, at least with major publishers. (Small presses may work more quickly.) Once a publisher has bought a manuscript, an editor goes over the manuscript and discusses changes with the author. There can be several editing rounds, as an editor tries to help the author craft the most compelling book. In some cases, editors will suggest adding or removing characters, adding or removing major events, and re-organizing novels completely. This process can take months, depending on how quickly the author works, and how well the editor and author get along. Finally, a copy editor goes over the final manuscript to ensure that the text is correct.</p>
+
+<p>The next step is designing the book. This includes the page size and font, as well as the cover, which is one of the most important elements of a book, and a key element for marketing the title. The publisher handles this and presents cover ideas to the author, who may or may not agree. But, in the end, it&#39;s up to the publisher to determine what will help best sell the book.</p>
+
+<p>Once the manuscript and cover are completed, the book has to fit into the publisher&rsquo;s marketing schedule. Some books are best released in the fall, others in the new year, and others are great summer reads. The publisher determines when a book should be published, and there is a long process as this information goes through the marketing team and sales reps. The actual marketing process may start six months before the book is published, and can involve sending out ARCs (advance reading copies or review copies) to book reviewers, influencers, and bloggers. The hope is to get enough reaction to spur pre-orders for when the book is finally available.</p>
+
+Publication and publicity
+
+<p>So your book is finally published. If the advance marketing has been effective, there may be buzz online and even the occasional celebrity or influencer who mentions the new book. If enough pre-orders have been made, the book can hit a best-seller chart, which puts it in front of readers who view those lists for new reads.</p>
+
+<p>Most authors don&#39;t do book tours, but if a publisher considers a title important enough, they will help set up author events. At this point, unless a publisher paid the author a large advance, it&#39;s up to the author to do much of the publicity. This includes online publicity, through social media such as Twitter, Instagram, and Facebook, contacting bloggers and reviewers, guesting on podcasts, attending festivals, and meeting with book clubs, either in person or online.</p>
+
+<p>From this point on, all that&#39;s left is to hope that the book sells, that it sells well enough that the publisher wants another book, and that you&#39;re satisfied with the life of your new book. And then, it&#39;s time to get started on your next book.</p>
+            
+        
+    
+
+
+    
+        
+            
+                <p>Kirk McElhearn is a <a href="https://kirkville.com" target="_blank">writer</a>, <a href="https://kirkville.com/podcasts/" target="_blank">podcaster</a>, and <a href="https://kirkville.com/kirks-photos-2/" target="_blank">photographer</a>. He is the author of <a href="https://www.literatureandlatte.com/store" target="_blank">Take Control of Scrivener</a>, and host of the podcast <a href="https://podcast.scrivenerapp.com" target="_blank">Write Now with Scrivener</a>.</p>
+            
+        
+    
+
+ 
+
+<https://www.literatureandlatte.com/blog/publishing-101-how-books-are-published-from-author-to-agent-to-publisher-to-reader>
+
+---
+
+## HWA 2024 Summer Scares
+
+date: 2024-03-19, from: Locus Magazine
+
+<p style="text-align: left;">The Horror Writers Association (HWA) has announced their Summer Scares Reading list for 2024.</p>
+<p></p>
+<div class="mynomorebulletlist">
+<p><strong>ADULT</strong></p>
+<ul>
+<li><strong>Jackal</strong>, Erin E. Adams (Bantam, 2022)</li>
+<li><strong>Such Sharp Teeth</strong>, Rachel Harrison (Berkley, 2022)</li>
+<li><strong>This Thing Between Us</strong>, Gus Moreno (MCD x FSG Originals, 2021)</li>
+</ul>
+<p><strong>YOUNG ADULT</strong></p>
+<ul>
+<li><strong>All These Bodies</strong>, Kendare Blake (Quill Tree, 2021)</li>
+<li><strong>Dead Flip</strong>, Sara Farizan (Algonquin Young Readers, 2022)</li>
+<li><strong>#MurderTrending</strong>, Gretchen McNeil (Freeform, 2018)</li>
+</ul>
+<p><strong>MIDDLE GRADE</strong></p></div> <a href="https://locusmag.com/2024/03/hwa-2024-summer-scares/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/03/hwa-2024-summer-scares/>
+
+---
+
+## New Books: 19 March 2024
+
+date: 2024-03-19, from: Locus Magazine
+
+<p>Medlock, Noah: <b>A Botanical Daughter</b> (Titan Books UK 9781803365909, $16.99, 384pp, formats: trade paperback, ebook, 03/19/2024)</p>
+<p>Horror novel. A tale of two Victorian gentlemen hiding their relationship away in a botanical garden who embark on a Frankenstein-style experiment with unexpected consequences.</p>
+<p>&#160;</p>
+<p>Fulton, Victoria &#38; McLaren, Faith: <b>Cursed Cruise</b> (Underlined 9780593649381, $11.99, 288pp, formats: trade paperback, ebook, audio, 03/19/2024)</p>
+<p>Young-adult supernatural mystery novel about four teen ghost hunters, one able  <a href="https://locusmag.com/2024/03/new-books-19-march-2024/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/03/new-books-19-march-2024/>
+
+---
+
+## 5 Editing Hacks for Screenwriters
+
+date: 2024-03-19, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/5-editing-hacks-for-screenwriters" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Final%20Draft%20editing%20%282%29.jpeg" alt="5 Editing Hacks for Screenwriters" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span>Your script should&nbsp;</span><a href="https://blog.finaldraft.com/5-tips-to-making-your-screenplay-look-professional"><span>look as professional as possible</span></a><span>, or industry professionals will likely pass on your script after a cursory read. In addition to using screenwriting software like Final Draft that&nbsp;</span><a href="https://www.finaldraft.com/company/why-screenwriting-software/"><span>formats your script to industry standards</span></a><span>, you should proofread and edit your writing.</span></p> 
+
+<https://blog.finaldraft.com/5-editing-hacks-for-screenwriters>
 
 ---
 

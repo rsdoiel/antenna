@@ -1,21 +1,41 @@
 ---
 title: motorcycles 2024.12
-updated: 2024-03-19 08:46:02
+updated: 2024-03-20 07:29:08
 ---
 
 # motorcycles 2024.12
 
-(date: 2024-03-19 08:46:02)
+(date: 2024-03-20 07:29:08)
 
 ---
 
-## Is Bajaj Already Working On A New Triumph 400cc Model?
+## Famed Bike Brand Fezzari Rebrands To Ari, Launches New Nebo Peak Electric MTB
 
-date: 2024-03-19, from: Ride Apart, Electric Motorcycle News
+date: 2024-03-20, from: Ride Apart, Electric Motorcycle News
 
-After the resounding success of the Speed 400 and Scrambler 400 X, Bajaj and Triumph are just getting started. 
+A bang-for-buck all-around e-MTB.  
 
-<https://www.rideapart.com/news/712292/triumph-400-rajiv-bajaj-plans/>
+<https://www.rideapart.com/news/711616/versatile-ari-nebo-peak-emtb-launched/>
+
+---
+
+## KTM Parent Company Says It's Taking Over MV Agusta
+
+date: 2024-03-20, from: Ride Apart, Electric Motorcycle News
+
+Pierer Mobility's previous timeline had the takeover happening in 2026, so it's a full two years ahead of plan. 
+
+<https://www.rideapart.com/news/712862/ktm-mv-agusta-takeover-2024-pierer/>
+
+---
+
+## 2024 Royal Enfield INT 650 & Continental GT 650 First Ride
+
+date: 2024-03-19, from: Cycle World News
+
+Royal Enfield adds variety and quality to its winning INT 650 and Continental GT 650 models for 2024; we take them for a ride to see how they perform. 
+
+<https://www.cycleworld.com/motorcycle-reviews/royal-enfield-int-650-and-continental-gt-650-first-ride/>
 
 ---
 
@@ -26,6 +46,46 @@ date: 2024-03-19, from: Cycle World News
 Triumph has given its Rocket 3 more horsepower and torque with a blacked-out look for 2024. 
 
 <https://www.cycleworld.com/bikes/triumph-rocket-3-storm-first-look/>
+
+---
+
+## 2024 Harley-Davidson Hydra-Glide Revival First Ride
+
+date: 2024-03-19, from: Cycle World News
+
+Harley-Davidson’s 2024 Hydra-Glide Revival was introduced at Daytona Bike Week, where we got a ride on the Heritage Classic–based, retro-styled model. 
+
+<https://www.cycleworld.com/motorcycle-reviews/harley-davidson-hydra-glide-revival-first-ride/>
+
+---
+
+## The 2024 Husqvarna Svartpilen 801 Wants To Be Your New Escape Hatch
+
+date: 2024-03-19, from: Ride Apart, Electric Motorcycle News
+
+The latest LC8c-powered member of the Husky family pairs inimitable Svarty style with that parallel twin. 
+
+<https://www.rideapart.com/news/713028/husqvarna-svartpilen-801-launch-specs/>
+
+---
+
+## Ducati Bags Its First Motocross Win In The Italian Championship
+
+date: 2024-03-19, from: Ride Apart, Electric Motorcycle News
+
+Ducati now sits second in the overall running.  
+
+<https://www.rideapart.com/news/712888/ducati-desmo450-mx-first-motocross-win/>
+
+---
+
+## Is Bajaj Already Working On A New Triumph 400cc Model?
+
+date: 2024-03-19, from: Ride Apart, Electric Motorcycle News
+
+After the resounding success of the Speed 400 and Scrambler 400 X, Bajaj and Triumph are just getting started. 
+
+<https://www.rideapart.com/news/712292/triumph-400-rajiv-bajaj-plans/>
 
 ---
 
@@ -96,16 +156,6 @@ date: 2024-03-18, from: Cycle World News
 We ride Buell’s preproduction Super Cruiser. Despite a few rough edges and cruiser-style compromises, the 175-hp machine is a wicked fast and fun ride. 
 
 <https://www.cycleworld.com/motorcycle-reviews/buell-super-cruiser-review/>
-
----
-
-## 2024 Harley-Davidson Hydra-Glide Revival First Ride
-
-date: 2024-03-18, from: Cycle World News
-
-Harley-Davidson’s 2024 Hydra-Glide Revival was introduced at Daytona Bike Week, where we got a ride on the Heritage Classic–based, retro-styled model. 
-
-<https://www.cycleworld.com/motorcycle-reviews/harley-davidson-hydra-glide-revival-first-ride/>
 
 ---
 
