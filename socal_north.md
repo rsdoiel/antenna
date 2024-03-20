@@ -1,11 +1,22 @@
 ---
 title: socal north 2024.12
-updated: 2024-03-20 07:29:07
+updated: 2024-03-20 08:33:58
 ---
 
 # socal north 2024.12
 
-(date: 2024-03-20 07:29:07)
+(date: 2024-03-20 08:33:58)
+
+---
+
+## Inside the culture that defines UCLA gymnastics’ viral floor routines
+
+date: 2024-03-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Yates Gym holds its breath in anticipation when music hits the air.
+Gymnasts stop twirling on bars and come to a standstill on beam to watch the Bruins take the floor. 
+
+<https://dailybruin.com/2024/03/20/inside-the-culture-that-defines-ucla-gymnastics-viral-floor-routines/>
 
 ---
 

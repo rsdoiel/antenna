@@ -1,11 +1,64 @@
 ---
 title: writing 2024.12
-updated: 2024-03-20 07:29:08
+updated: 2024-03-20 08:33:58
 ---
 
 # writing 2024.12
 
-(date: 2024-03-20 07:29:08)
+(date: 2024-03-20 08:33:58)
+
+---
+
+## Colleen Mondor Reviews The Warm Hands of Ghosts by Katherine Arden
+
+date: 2024-03-20, from: Locus Magazine
+
+<p><strong>The Warm Hands of Ghosts</strong>, Katherine Arden (Del Rey 978-0-593-12825-1, $28.99, 318pp, hc) February 2024.</p>
+<p>As <strong>The Warm Hands of Ghosts </strong>opens, former field nurse Laura Iven is still reeling from the deaths of her parents following the catastrophic explosion of a cargo ship laden with explosives in the harbor of her hometown, Halifax, Nova Sco­tia. (This is based on a real event in 1917.) Laura was home after  <a href="https://locusmag.com/2024/03/colleen-mondor-reviews-the-warm-hands-of-ghosts-by-katherine-arden/" class="read-more">...Read More </a></p> 
+
+<https://locusmag.com/2024/03/colleen-mondor-reviews-the-warm-hands-of-ghosts-by-katherine-arden/>
+
+---
+
+## Locus Bestsellers, March
+
+date: 2024-03-20, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+
+<strong>The Locus Bestsellers for February include top titles: Fourth Wing, Rebecca Yarros (Red Tower), Dune by Frank Herbert (Ace), Bookshops &#38; Bonedust by Travis Baldree (Tor), and DragonLance: Dragons of Deceit, Margaret Weis &#38; Tracy Hickman (Del Rey).</strong><strong>
+</strong>
+
+</div>
+<p></p>
+<div class="postcontent">
+
+
+
+
+HARDCOVERS
+Months
+on list
+Last
+month
+
+
+1)
+<strong>Fourth Wing</strong>, Rebecca Yarros (Red Tower)
+7
+3
+
+
+2)
+<strong>The Narrow Road Between Desires</strong>, Patrick Rothfuss (DAW)
+2
+4
+
+
+3)
+<strong>System Collapse</strong>, </div> <a href="https://locusmag.com/2024/03/locus-bestsellers-march-4/" class="read-more">...Read More </a> 
+
+<https://locusmag.com/2024/03/locus-bestsellers-march-4/>
 
 ---
 

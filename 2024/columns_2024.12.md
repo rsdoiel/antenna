@@ -1,11 +1,11 @@
 ---
 title: columns 2024.12
-updated: 2024-03-20 07:29:08
+updated: 2024-03-20 08:33:58
 ---
 
 # columns 2024.12
 
-(date: 2024-03-20 07:29:08)
+(date: 2024-03-20 08:33:58)
 
 ---
 
@@ -81,7 +81,7 @@ Gardener’s world Quote of the Day ”A clothes rack in search of a war zone.�
 
 ---
 
-## AI is changing writing. Here is what to do about it.
+## AI is changing writing
 
 date: 2024-03-20, from: Om Malik blog
 
@@ -482,6 +482,16 @@ date: 2024-03-17, from: Om Malik blog
 I have become a big fan of vintage fountain pens. When I saw this lovely Ebonized Pearl WASP Clipper, I immediately fell in love with it. This is quite a rare find. Most collectors won’t even take it out of the cabinet. I don’t buy things to put them in a case. For me, it &#8230; 
 
 <https://om.co/2024/03/17/old-tools-new-ideas/>
+
+---
+
+## We’re all doomed – maybe
+
+date: 2024-03-17, from: Enlightenment Economics blog
+
+I read Peter Turchin&#8217;s (2023) End Times: Elites, Counter-Elites and the Path of Political Disintegration on a long flight yesterday (I&#8217;m at Stanford for a couple of workshops). I&#8217;m not sure what to make of it. It&#8217;s well-written and an &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2024/03/were-all-doomed-maybe/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2024/03/were-all-doomed-maybe/>
 
 ---
 

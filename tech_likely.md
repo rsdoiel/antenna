@@ -1,11 +1,49 @@
 ---
 title: tech likely 2024.12
-updated: 2024-03-20 07:29:07
+updated: 2024-03-20 08:33:58
 ---
 
 # tech likely 2024.12
 
-(date: 2024-03-20 07:29:07)
+(date: 2024-03-20 08:33:58)
+
+---
+
+## Addressing Underrepresentation in Rural New England Community Archives: Documenting the History of Black Lives in Rural New England
+
+date: 2024-03-20, from: Internet Archive Blog
+
+Guest post by Dylan Gaffney, Information Services Associate for Local History &#38; Special Collections, Forbes Library. This post is part of a series written by members of the Community Webs [&#8230;] 
+
+<https://blog.archive.org/2024/03/20/addressing-underrepresentation-in-rural-new-england-community-archives-documenting-the-history-of-black-lives-in-rural-new-england/>
+
+---
+
+## Key Test Drive of Orion on NASA’s Artemis II to Aid Future Missions
+
+date: 2024-03-20, from: NASA breaking news
+
+Astronauts will test drive NASA’s Orion spacecraft for the first time during the agency’s Artemis II test flight next year. While many of the spacecraft’s maneuvers like big propulsive burns are automated, a key test called the proximity operations demonstration will evaluate the manual handling qualities of Orion. During the approximately 70-minute demonstration set to [&#8230;] 
+
+<https://www.nasa.gov/humans-in-space/key-test-drive-of-orion-on-nasas-artemis-ii-to-aid-future-missions/>
+
+---
+
+##  It&#8217;s one of those days when I&#8217;m thinking about the interactive hot... 
+
+date: 2024-03-20, updated: 2024-03-20, from: Jason Kottke blog
+
+ 
+
+<https://kottke.org/24/03/0044210-its-one-of-those-days>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2024-03-20, from: Dave Winer's Scripting News)
+
+An application for AI. Work with a user to get a great bug report. I think I've even written about this once before when AI was more of a dream. 
+
+<http://scripting.com/2024/03/20.html#a142922>
 
 ---
 

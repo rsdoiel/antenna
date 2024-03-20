@@ -1,11 +1,41 @@
 ---
 title: games 2024.12
-updated: 2024-03-20 07:29:08
+updated: 2024-03-20 08:33:58
 ---
 
 # games 2024.12
 
-(date: 2024-03-20 07:29:08)
+(date: 2024-03-20 08:33:58)
+
+---
+
+## Dragon’s Dogma 2’s enchanting and perilous journey requires patience
+
+date: 2024-03-20, updated: 2024-03-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/24106215/dragons-dogma-2-launch-review-capcom>
+
+---
+
+## The best movies of 2024 so far
+
+date: 2024-03-20, updated: 2024-03-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/what-to-watch/24064917/best-movies-2024>
+
+---
+
+## Andor is finally coming to 4K Blu-ray, and you can pre-order a copy now
+
+date: 2024-03-20, updated: 2024-03-20, from: Polygon Website
+
+ 
+
+<https://www.polygon.com/deals/24097685/andor-4k-blu-ray-physical-media-andor-obi-wan-pre-order-buy-disney-plus>
 
 ---
 
